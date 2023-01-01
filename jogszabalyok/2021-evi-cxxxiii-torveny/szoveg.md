@@ -72,7 +72,7 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 #### 6. A Steindl Imre Program keretében megvalósuló beruházásokra vonatkozó szabályok
 
-6. § (1) Az Országgyűlés Hivatala vagy a beruházásokra a Kormány döntésével megbízott állami projektcég (a továbbiakban együtt: Építtető) által a kiemelt nemzeti emlékhely területén és a településkép-védelmi környezetében megvalósított beruházások (a továbbiakban: Beruházások) során létrehozott közmű- és közterületi infrastruktúra elemei a műszaki átadás-átvételi eljárás eredményes lezárását követően ingyenesen, az Építtető által nyilvántartott nyilvántartási értéken való átvezetéssel a közmű, illetve a közterület tulajdonosa tulajdonába adhatóak.
+6. § (1) Az Országgyűlés Hivatala vagy a beruházásokra a Kormány döntésével megbízott állami projektcég (a továbbiakban együtt: Építtető) által a kiemelt nemzeti emlékhely területén és a településkép-védelmi környezetében megvalósított beruházások (a továbbiakban: Beruházások) során létrehozott közmű- és közterületi infrastruktúra elemei a műszaki átadás-átvételi eljárás eredményes lezárását követően ingyenesen, a közmű, illetve a közterület tulajdonosa tulajdonába adhatóak.
 
 (2) A Beruházások során az Építtető az általa a vagyonkezelésében lévő ingatlanon végzett értékmegőrző, valamint értéknövelő fejlesztésekkel és beruházásokkal összefüggésben jogosult – selejtezési szabályzata figyelembevételével – a bontással járó munkálatok elvégzésére, a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére, továbbá jogosult megbízási szerződést kötni a tulajdonosi joggyakorlóval a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére.
 
@@ -98,118 +98,119 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 #### 8. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 9. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 10. A sportról szóló 2004. évi I. törvény módosítása
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
 #### 11. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 #### 12. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-- a)
-- b)
+a)
 
-37. §
+b)
+
+#### 37. §
 
 #### 13. A budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény módosítása
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
 #### 14. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 15. A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
 #### 16. A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
 #### 17. Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény módosítása
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
 #### 18. Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény módosítása
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
 ### 1. melléklet a 2021. évi CXXXIII. törvényhez
 

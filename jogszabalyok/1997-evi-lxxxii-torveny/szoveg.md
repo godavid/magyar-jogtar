@@ -119,9 +119,9 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (2)
 
-(3) A fővárosi, megyei önkormányzat (a továbbiakban: önkormányzat) nyílt pénztárként területi pénztárat alapíthat, vagy részt vehet a (4) bekezdés szerinti regionális pénztár megalapításában, vagy pályázat útján nyílt pénztárat megbízhat a területi pénztár teendőinek ellátásával. Ha az önkormányzat illetékességi területére nem jön létre területi pénztári funkciót ellátó pénztár, akkor a területi pénztári feladatok ellátására a Pénzügyi Szervezetek Állami Felügyelete ír ki pályázatot. E pályázat eredménytelensége esetén a Pénzügyi Szervezetek Állami Felügyelete nyílt pénztárat jelöl ki a területi pénztári feladatok ellátására.
+(3) A fővárosi, vármegyei önkormányzat (a továbbiakban: önkormányzat) nyílt pénztárként területi pénztárat alapíthat, vagy részt vehet a (4) bekezdés szerinti regionális pénztár megalapításában, vagy pályázat útján nyílt pénztárat megbízhat a területi pénztár teendőinek ellátásával. Ha az önkormányzat illetékességi területére nem jön létre területi pénztári funkciót ellátó pénztár, akkor a területi pénztári feladatok ellátására a Pénzügyi Szervezetek Állami Felügyelete ír ki pályázatot. E pályázat eredménytelensége esetén a Pénzügyi Szervezetek Állami Felügyelete nyílt pénztárat jelöl ki a területi pénztári feladatok ellátására.
 
-(4) A főváros, a megyei jogú város, a megyei, illetve több megyei önkormányzat által alapított (regionális) területi pénztár működési területe megegyezik az önkormányzat(ok) közigazgatási területével.
+(4) A főváros, a megyei jogú város, a vármegyei, illetve több vármegyei önkormányzat által alapított (regionális) területi pénztár működési területe megegyezik az önkormányzat(ok) közigazgatási területével.
 
 8. § (1) Az alapító az alapítást megelőzően alapító okirat tervezetet készít.
 
@@ -350,7 +350,7 @@ szűnik meg.
 
 (4) A tagsági viszony átlépéssel való megszüntetésére legkorábban a pénztárbeli tagsági viszony kezdő időpontjától számított hat hónap eltelte után kerülhet sor, kivéve az (1) bekezdés c) pontja alatti esetet.
 
-24. § (1) A pénztártag átlépésére, a tag erre irányuló írásbeli bejelentése alapján, a 23. § (4) bekezdésében foglalt feltételek fennállása esetén kerül sor. Az írásbeli bejelentésben a tag meghatározhatja azt a hónapot, amelynek utolsó napján az átlépésre sor kerül, feltéve, hogy a tag erre irányuló bejelentése az abban meghatározott hónap utolsó napját legalább 10 munkanappal megelőzően beérkezik a pénztárhoz. Ha az átlépésre vonatkozó bejelentés az átlépés hónapját nem határozza meg és az a hónap fordulónapját megelőzően 10 munkanappal beérkezett a pénztárhoz, az átlépés időpontja a bejelentés hónapjának utolsó napja. A hónap utolsó 10 munkanapján beérkező, az előzőekben nem említett írásbeli bejelentés alapján – a bejelentés tartalmától függetlenül – a pénztár a tag tagsági jogviszonyát a pénztár szabályzata szerint a bejelentés hónapjának utolsó napjával vagy az azt követő hónap utolsó napjával szüntetheti meg. A bejelentést az átlépéssel érintett pénztárakhoz kell benyújtani.
+24. § (1) A pénztártag átlépésére, a tag erre irányuló írásbeli bejelentése alapján, a 23. § (4) bekezdésében foglalt feltételek fennállása esetén kerül sor. Az írásbeli bejelentésben a tag meghatározhatja azt a h ónapot, amelynek utolsó napján az átlépésre sor kerül, feltéve, hogy a tag erre irányuló bejelentése az abban meghatározott hónap utolsó napját legalább 10 munkanappal megelőzően beérkezik a pénztárhoz. Ha az átlépésre vonatkozó bejelentés az átlépés hónapját nem határozza meg és az a hónap fordulónapját megelőzően 10 munkanappal beérkezett a pénztárhoz, az átlépés időpontja a bejelentés hónapjának utolsó napja. A hónap utolsó 10 munkanapján beérkező, az előzőekben nem említett írásbeli bejelentés alapján – a bejelentés tartalmától függetlenül – a pénztár a tag tagsági jogviszonyát a pénztár szabályzata szerint a bejelentés hónapjának utolsó napjával vagy az azt követő hónap utolsó napjával szüntetheti meg. A bejelentést az átlépéssel érintett pénztárakhoz kell benyújtani.
 
 (2) Az (1) bekezdés szabályait nem kell alkalmazni, ha az átlépésre a pénztárak egyesülésével, szétválásával vagy a pénztár megszűnésével összefüggésben kerül sor.
 
@@ -465,7 +465,9 @@ kell alkalmazni.
 
 (10) A (9) bekezdés b) pontjában meghatározott esetben a hozzátartozói nyugellátás összegének a Tny. 20–21. §-ában foglalt rendelkezés szerinti megállapításáról a nyugdíjbiztosítási igazgatási szerv értesíti a magánnyugdíjpénztárat. A magánnyugdíjpénztár a pénztártag tagdíj-kiegészítéssel csökkentett követelését köteles a Nyugdíjbiztosítási Alap részére átutalni.
 
-### A szolgáltatás alapvető feltételei,a járadék legkisebb összege
+### A szolgáltatás alapvető feltételei,
+
+a járadék legkisebb összege
 
 30. § (1) A járadékszolgáltatásra jogosult a társadalombiztosítási nyugdíj iránti igényével egyidejűleg, vagy azt követően kérheti a nyugdíjszolgáltatás folyósítását.
 
@@ -481,7 +483,9 @@ kell alkalmazni.
 
 (5) A társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a magánnyugdíjpénztár a pénztártag egyéni számlán nyilvántartott visszalépő tagi kifizetéssel csökkentett követelését – a tagsági jogviszony megszűnése napján fennálló értékben – a megszűnés napját követő 15 munkanapon belül utalja át a Nyugdíjbiztosítási Alap részére. Az átutalásnál hivatkozni kell a pénztártag természetes személyazonosító adataira és társadalombiztosítási azonosító jelére, ezzel egyidejűleg az átutalás megtörténtéről és az átutalt összegről tájékoztatni kell a volt pénztártagot és a pénztártag lakóhelye szerint illetékes nyugdíjbiztosítási igazgatási szervet.
 
-### A szolgáltatás fedezeteés a szolgáltatás megállapítása
+### A szolgáltatás fedezete
+
+és a szolgáltatás megállapítása
 
 31. § A pénztári járadékszolgáltatás esetén a választott szolgáltatás fedezetének képzése a szolgáltatás teljes fedezetének az egyéni számláról a választott szolgáltatás szolgáltatási tartalék számlájára egy összegben való átvezetésével történik.
 
@@ -816,7 +820,9 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (3) Szakirányú felsőfokú végzettség az egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetőleg könyvvizsgálói végzettség.
 
-### A pénztár vezetőire vonatkozófelelősségi és összeférhetetlenségi szabályok
+### A pénztár vezetőire vonatkozó
+
+felelősségi és összeférhetetlenségi szabályok
 
 49. § (1) A pénztár vezető állású személye a 44. § (2) bekezdésében, valamint az SzMSz-ben meghatározott más munkakört betöltő személy, ha a pénztárral munkaviszonyban áll, és választása, kinevezése nem a közgyűlés hatáskörébe tartozik.
 
@@ -1196,7 +1202,9 @@ sorolja be.
 
 68/C. § A portfólióváltási igényeket a pénztár szintjén összegezni kell. Az egyedi portfólióváltással összefüggő, pénztártagra terhelt költségek nem haladhatják meg az egyéni számlakövetelés egy ezrelékét, és nem lehetnek magasabbak 2000 forintnál, amelyet a pénztár az egyéni számlával szemben érvényesíthet.
 
-### A pénztár adminisztrációs és nyilvántartási,valamint beszámolási kötelezettsége
+### A pénztár adminisztrációs és nyilvántartási,
+
+valamint beszámolási kötelezettsége
 
 69. § (1) A pénztár üzemgazdasági szemléletű kettős könyvvitelt vezet. A pénztár nyilvántartása tartalmazza az eszközöket és az eszközök értékében bekövetkezett változásokat. A befektetési portfólió eszközeit fedezeti, likviditási és működési célú befektetett eszközök szerint kell elkülöníteni.
 
@@ -1315,7 +1323,9 @@ sorolja be.
 
 (3) Valamely pénztári tevékenység szolgáltatóhoz történő kihelyezése, a kihelyezési szerződés módosítása vagy a kihelyezés megszüntetése esetén arról a pénztártagot tájékoztatni kell.
 
-### Befektetési szolgáltatások igénybevétele,befektetési eszközök kezelése
+### Befektetési szolgáltatások igénybevétele,
+
+befektetési eszközök kezelése
 
 ### Letétkezelés, letétkezelő
 
@@ -1525,7 +1535,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (7)
 
-### VIII. Fejezet — A PÉNZTÁRAK ÁTALAKULÁSA,MEGSZŰNÉSE
+### VIII. Fejezet — A PÉNZTÁRAK ÁTALAKULÁSA,
+
+MEGSZŰNÉSE
 
 ### Az átalakulás közös szabályai
 
@@ -2324,7 +2336,7 @@ A pénztárnak a pénztártagot megillető hozamgarantált tőke összegét a k�
 
 ahol:
 
-HTn = a hozamgarantált tőke összege, ha a pénztártagság n naptári hónapon keresztül állt fenn (azokat a hónapokat is beleértve, amelyeknek nem teljes időszakában állt fenn a tagsági jogviszony);
+HTn= a hozamgarantált tőke összege, ha a pénztártagság n naptári hónapon keresztül állt fenn (azokat a hónapokat is beleértve, amelyeknek nem teljes időszakában állt fenn a tagsági jogviszony);
 
 bi = a pénztártagság i. hónapjában a tag egyéni számláján jóváírt kötelező és kiegészítő tagdíjbefizetés összege;
 

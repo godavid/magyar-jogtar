@@ -259,7 +259,7 @@ egyes agrártárgyú törvények módosításáról
 106. § Hatályát veszti a Fétv.
 
 - a)
-- b)
+- b) 110/E §-a.
 
 #### 17. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 

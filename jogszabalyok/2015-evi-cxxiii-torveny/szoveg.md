@@ -2,7 +2,15 @@
 
 az egészségügyi alapellátásról
 
-Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészségügyi ellátás alapvető fontosságú része, az egészségfejlesztés, a betegségek megelőzése, felismerése és gyógyítása alapvető nemzeti érdek, valamint hogy a gyógyítás olyan közügy, amelyben mind az államnak, mind az önkormányzatoknak, mind a gyógyító orvosnak és a megelőzést végző védőnőnek meghatározó szerep és felelősség jut,elfogadva a háziorvosi, házi gyermekorvosi és a fogorvosi ellátás kapuőri szerepét, annak szakmai, pénzügyi megerősítésének érdekében,valamint figyelemmel arra, hogy kiemelt célkitűzés a háziorvosi, házi gyermekorvosi és védőnői korösszetétel megváltoztatása, a fiatalabb korosztályhoz tartozó egészségügyi szakemberek egészségügyi alapellátásban történő elhelyezkedésének ösztönzése, a praxisjoggal érintett alapellátási formákban a praxisjog értékének növelése, valamint az egészségügyi alapellátásban dolgozók életpályájának kidolgozása,hangsúlyozva azt, hogy az egészségügyi alapellátásban az életkorhoz kötött szűrővizsgálatok elvégzésének hangsúlyosabb megjelenése szükséges, és a betegellátás színvonalának javítása érdekébena következő törvényt alkotja:
+Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészségügyi ellátás alapvető fontosságú része, az egészségfejlesztés, a betegségek megelőzése, felismerése és gyógyítása alapvető nemzeti érdek, valamint hogy a gyógyítás olyan közügy, amelyben mind az államnak, mind az önkormányzatoknak, mind a gyógyító orvosnak és a megelőzést végző védőnőnek meghatározó szerep és felelősség jut,
+
+elfogadva a háziorvosi, házi gyermekorvosi és a fogorvosi ellátás kapuőri szerepét, annak szakmai, pénzügyi megerősítésének érdekében,
+
+valamint figyelemmel arra, hogy kiemelt célkitűzés a háziorvosi, házi gyermekorvosi és védőnői korösszetétel megváltoztatása, a fiatalabb korosztályhoz tartozó egészségügyi szakemberek egészségügyi alapellátásban történő elhelyezkedésének ösztönzése, a praxisjoggal érintett alapellátási formákban a praxisjog értékének növelése, valamint az egészségügyi alapellátásban dolgozók életpályájának kidolgozása,
+
+hangsúlyozva azt, hogy az egészségügyi alapellátásban az életkorhoz kötött szűrővizsgálatok elvégzésének hangsúlyosabb megjelenése szükséges, és a betegellátás színvonalának javítása érdekében
+
+a következő törvényt alkotja:
 
 #### 1. Általános rendelkezések
 
@@ -18,10 +26,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
   - bd) gyógykezelése, házi ápolása és rehabilitációja a szakorvos által javasolt terápiás terv figyelembevételével; és
 - c) szükség esetén a b) pont bb) és bd) alpontjában foglaltaknak a beteg otthonában történő ellátása vagy a beteg otthonában végzendő szakorvosi konzílium kérése.
 
-2. § (1) E törvény alkalmazásában:
-
-- a) praxisközösség: a háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi, védőnői szolgáltatók feladatainak ellátására létrejött működési forma;
-- b) csoportpraxis: olyan együttműködési forma, amely keretében a háziorvosi, házi gyermekorvosi alapellátási feladatok mellett jogszabályban meghatározottak szerint a járóbeteg-szakellátás körébe tartozó egyes ellátások is nyújthatók.
+2. § (1) E törvény alkalmazásában praxisközösség a háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi, védőnői szolgáltatók feladatainak ellátására létrejött működési forma, amelyben a járóbeteg-szakellátás körébe tartozó egyes ellátások is nyújthatók.
 
 (2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló törvény fogalom-meghatározásait kell alkalmazni.
 
@@ -54,27 +59,31 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 - a) a háziorvosi, házi gyermekorvosi ellátásról,
 - b) a fogorvosi alapellátásról,
-- c) az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi és fogorvosi ügyeleti ellátásról,
+- c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról, valamint Budapest területén az alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról, és
 - d) a védőnői ellátásról, és
 - e) az iskola-egészségügyi ellátásról.
 
 (2) Az alapellátás nyújtását érintő jogviszony megváltoztatásáról szóló döntésének meghozatala során a települési önkormányzat kikéri az alapellátást végző orvos, illetve védőnő véleményét.
 
-6. § (1) A települési önkormányzat képviselő-testülete – a Kormány által kijelölt praxiskezelő által megadott szempontokat figyelembe véve – rendeletben megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok erre irányuló megállapodásban határozzák meg.
+#### 3/A. Az állam feladatai az egészségügyi alapellátás körében
 
-(2) Az (1) bekezdés szerinti körzetek megállapítása és kialakítása során ki kell kérni az alapellátásért felelős országos módszertani intézet – védőnői ellátás esetén az országos tisztifőorvos –, valamint a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv véleményét is.
+6. § (1) A praxiskezelő jogszabályban meghatározott szempontok alapján, a települési önkormányzatok bevonásával alakítja ki az egészségügyi alapellátások körzeteit.
+
+(2) Az (1) bekezdés szerinti körzetek megállapítása és kialakítása során a praxiskezelő kikéri a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv és az egészségbiztosítási szerv véleményét is, amelyet szükség szerint figyelembe vesz.
+
+6/A. § Az állami mentőszolgálat gondoskodik – az 5. § (1) bekezdés c) pontjában foglalt kivétellel – az egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról.
 
 #### 4. Nyilvántartás vezetése az alapellátási körzetekről
 
-7. § (1) Az egészségügyi államigazgatási szerv a 6. § (1) bekezdése szerinti alapellátási körzetekről – a települési önkormányzatnak az adatokban bekövetkezett változást követő 15 napon belüli tájékoztatása alapján – nyilvántartást vezet. Az egészségügyi államigazgatási szerv a változásról szóló tájékoztatást követő 8 napon belül azt átvezeti a nyilvántartáson.
+7. § (1) A praxiskezelő az alapellátási körzetekről nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
 
 - a) az érintett szakma megnevezése, szakmakódja,
 - b) a körzet székhelye,
 - c) a körzetnek a település érintett részének közterületek általi lehatárolása helyrajzi szám, utcanevek, házszámok szerint,
-- d) a körzetet létrehozó települési önkormányzat, illetve települési önkormányzatok megnevezése, székhelye,
-- e) a körzet határát kijelölő önkormányzati rendelet száma.
+- d)
+- e)
 
 #### 5. A háziorvosi, házi gyermekorvosi ellátás és a fogorvosi alapellátás
 
@@ -103,6 +112,8 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (6) A háziorvosi, házi gyermekorvosi és fogorvosi alapellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
+(6a) A háziorvos az (1) bekezdésben foglalt feladata, valamint az egészségügyi szakrendszerekkel történő folyamatos kapcsolattartása érdekében a miniszter rendeletében meghatározott feltételeknek megfelelő informatikai rendszert használja.
+
 (7) Az e § szerinti orvosok által a területi ellátási kötelezettség körében önállóan végezhető egészségügyi ellátás feltételeiről az önálló orvosi tevékenységről szóló törvény rendelkezik.
 
 (8) A kormányrendeletben meghatározott bejelentkezett biztosítotti létszám feletti, területi ellátási kötelezettség nélküli háziorvosi és házi gyermekorvosi körzetben ellátást nyújtó egészségügyi szolgáltatók kormányrendeletben foglaltak szerinti kiegészítő díjazásra jogosultak, valamint a területi ellátási kötelezettséggel összefüggésbe nem hozható teljesítményük alapján jogszabályban meghatározott módon finanszírozásban részesülnek, illetve jogszabályban meghatározott módon ugyanolyan kedvezményekre és pályázati lehetőségekre jogosultak, mint a területi ellátási kötelezettséggel rendelkező háziorvosi, házi gyermekorvosi ellátást nyújtó egészségügyi szolgáltatók.
@@ -113,11 +124,11 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (2) A háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
-11. § (1) A praxisközösség, illetve a csoportpraxis elsősorban az egészségügyi alapellátáshoz tartozó megelőző ellátások hatékonyabb nyújtása érdekében jöhet létre.
+11. § (1) A praxisközösség elsősorban az egészségügyi alapellátáshoz tartozó megelőző ellátások hatékonyabb nyújtása érdekében jöhet létre.é
 
-(2) A praxisközösségek és csoportpraxisok kialakításának szempontjait a Kormány rendeletben állapítja meg.
+(2) A praxisközösségek kialakításának szempontjait a Kormány rendeletben állapítja meg.
 
-12. § (1) A háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi ellátás egységes színvonalú ellátása érdekében járásokhoz igazítottan, megyénként, valamint országos szinten kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos működik.
+12. § (1) A háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi ellátás egységes színvonalú ellátása érdekében járásokhoz igazítottan, vármegyénként, valamint országos szinten kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos működik.
 
 (2)
 
@@ -159,7 +170,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 (6) A védőnői ellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
-14. § A védőnői ellátás egységes színvonalú ellátása érdekében járási, megyei, valamint a védőnői ellátás szakmai irányításáért felelős országos egészségügyi államigazgatási szerv keretében országos szakmai vezető védőnő működik. A szakmai vezető védőnők választására, jogállására, feladataira és juttatásaira vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
+14. § A védőnői ellátás egységes színvonalú ellátása érdekében járási, vármegyei, valamint a védőnői ellátás szakmai irányításáért felelős országos egészségügyi államigazgatási szerv keretében országos szakmai vezető védőnő működik. A szakmai vezető védőnők választására, jogállására, feladataira és juttatásaira vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
 
 #### 7. Az iskola-egészségügyi ellátás
 
@@ -219,6 +230,8 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 - f) a foglalkozás-egészségügyi alapellátás körében végezhető megelőző ellátásokat,
 - g) a kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos, valamint a szakmai vezető védőnők választására, jogállására, feladataira, juttatásaira vonatkozó részletes szabályokat,
 - h) az otthoni szakápolás és otthoni hospice ellátás részletes szakmai szabályait
+- i) a 8. § (6a) bekezdése szerinti feltételeket,
+- j) az egészségügyi alapellátások körzetei kialakításának szempontjait és a praxiskezelőnek a háziorvosi körzetek ellátása biztosításával kapcsolatos feladatait, valamint a 21. §-ban meghatározott időpontot
 
 rendeletben állapítsa meg.
 
@@ -228,22 +241,66 @@ rendeletben állapítsa meg.
 
 (3) A 20. § 2017. január 1-jén lép hatályba.
 
-20. §
+20. § (1) Az önálló orvosi tevékenységről szóló 2000. évi II. törvény végrehajtására kiadott rendelet szerint, 2023. január 1. napjától számítva hat hónapja tartósan betöltetlen háziorvosi körzet tekintetében a praxiskezelő jogszabályban meghatározott ellátásbiztonsági és gazdaságossági szempontok figyelembevételével, a települési önkormányzatok bevonásával jogszabályban meghatározott módon gondoskodik a háziorvosi feladatok ellátásának biztosításáról.
 
-21–25. §
+(2) Ha az egyes egészségügyi tárgyú törvények módosításáról szóló 2022. évi LXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 6. § (1) bekezdése szerint kialakított körzetek esetében a települési önkormányzat a körzet kialakítását követően a jogszabály által megállapított határidőben nem köti meg az érintett alapellátásra vonatkozó feladat-ellátási szerződést vagy azt az új körzet területének megfelelően nem módosítja,
 
-26–27. §
+- a) a korábban hatályos feladat-ellátási szerződés hatályát veszti,
+- b) a feladat-ellátási szerződést az egészségügyi szolgáltatóval a praxiskezelő köti meg.
 
-28–29. §
+(3) A praxiskezelő a (2) bekezdés b) pontja szerinti esetben, a települési önkormányzat kezdeményezésére, ha a települési önkormányzat és az alapellátást végző szolgáltató megállapodott az alapellátás feltételeiről, és a megállapodás megfelel a jogszabályban meghatározott ellátásbiztonsági és gazdaságossági szempontoknak, kezdeményezi a (2) bekezdés b) pontja szerinti szerződés megszüntetését és a települési önkormányzat köti meg a feladatellátási szerződést.
+
+21. § A praxiskezelő gondoskodik arról, hogy – a miniszter rendeletében meghatározott időponttól – az egészségügyi alapellátási körzetek feleljenek meg a jogszabályban megjelölt ellátásbiztonsági és gazdaságossági szempontoknak. A jogszabályban megjelölt ellátásbiztonsági és gazdaságossági szempontoknak nem megfelelő háziorvosi körzetekkel érintett egészségügyi szolgáltatókat és települési önkormányzatokat a vonatkozó eljárásrendre történő tájékoztatással egyidejűleg a praxiskezelő értesíti.
+
+22. § (1) A Módtv.-vel megállapított 6/A. §-ban foglaltakat 2024. február 29-ig az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) Az állami mentőszolgálat a 6/A. §-ban foglalt feladatát a miniszter (6) bekezdés szerinti közleményében foglalt alapellátási körzetekben a miniszter (6) bekezdés szerinti közleményének közzétételét követő 30. naptól látja el. Azon a területen, ahol az állami mentőszolgálat látja el a 6/A. §-ban foglalt feladatát, a feladatellátásának időpontjától, mint zárónaptól (e § alkalmazásában a továbbiakban: zárónap) a háziorvosi, házi gyermekorvosi ügyeleti ellátásra (e § alkalmazásában a továbbiakban együtt: ellátás) a települési önkormányzat által kötött feladat-ellátási szerződés a hatályát veszti.
+
+(3) A miniszternek a (6) bekezdés szerint közzétett közleményében meg nem jelölt alapellátási körzetek tekintetében, valamint a közleményben megjelent területen a zárónapig az ellátás szervezése a települési önkormányzat feladata. Budapest területe kivételével 2023. január 1-jétől 2024. február 29-ig a települési önkormányzat az ellátásra legfeljebb a zárónapig tartó hatállyal köthet szerződést vagy megállapodást. A települési önkormányzat az ellátásra kizárólag olyan szerződést vagy megállapodást köthet, amely a részéről egyoldalúan, legfeljebb 30 napos hatállyal felmondható.
+
+(4) Az állami mentőszolgálat látja el ott is a 6/A. §-ban foglalt feladatát, ahol az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 232/D. § (8) bekezdése szerinti zárónapon az Eütv. 232/D. § (4) bekezdése szerinti ügyeleti ellátási feladatról a települési önkormányzat az állami mentőszolgálat útján gondoskodik.
+
+(5) Az állami mentőszolgálat látja el azon a területen is a 6/A. §-ban foglalt feladatát, ahol
+
+- a) az állami mentőszolgálat az ellátás nyújtásáról valamennyi területileg érintett települési önkormányzattal megállapodott, és
+- b) az érintett területen – az állami mentőszolgálattal kötött megállapodás kivételével – az ellátásra nincs hatályban feladat-ellátási megállapodás vagy szerződés.
+
+(6) A miniszter az ellátáshoz szükséges technikai, személyi feltételek fennállásának bekövetkezése napján a kormányzati honlapon közzétett közleményben közzéteszi azokat az ellátási területeket, amelyekben a közzétételt követő 30. naptól kezdődően a 6/A. §-ban foglalt feladatát az állami mentőszolgálat látja el.
+
+(7) A miniszter a (6) bekezdés szerinti közleményét az érintett helyi önkormányzatoknak elektronikusan haladéktalanul megküldi.
+
+23. § (1) A települési önkormányzat által a védőnői ellátás biztosítása érdekében 2023. július 1-jét megelőzően kötött szerződés 2023. június 30-i zárónappal hatályát veszti.
+
+(2) Az egészségügyi szolgálati jogviszonyban foglalkoztatott védőnő és a védőnői ellátás körében foglalkoztatott személy tekintetében a munkáltatói jogokat 2023. július 1-től az az irányító vármegyei intézmény gyakorolja, amely területileg illetékes az érintett védőnői körzet tekintetében. Az egészségügyi szolgálati jogviszonyban foglalkoztatott védőnő jogviszonyát a munkáltatói jogutódlás nem érinti, azt folyamatosnak kell tekinteni.
+
+(3) A (2) bekezdés szerinti vármegyei intézmény 2023. július 1. napjával egészségügyi szolgálati jogviszonyt létesít azon védőnői feladatok ellátása érdekében, ahol 2023. július 1. napjától munkáltatói jogutódlás alapján a személyi feltételek nem biztosítottak. A jogviszony létesítésekor az adott körzetben 2023. június 30. napján a védőnői feladatokat nem egészségügyi szolgálati jogviszony keretében ellátó védőnőt előnyben kell részesíteni.
+
+(4) A települési önkormányzat az általa 2023. június 30. napjáig biztosított védőnői ellátás finanszírozására jogosult.
+
+(5) A települési önkormányzat 2023. július 1. napjával biztosítja az állam számára a 2023. június 30. napján a védőnői ellátásra szolgáló ingó és ingatlan vagyonnak az ingyenes használatát.
+
+(6) A települési önkormányzat a 2022. december 31-én a védőnői ellátásra szolgáló ingatlan és ingó vagyonát e feladattól nem vonhatja el.
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
 
 30. § (1)
 
 (2)
 
-31. §
+#### 31. §
 
 32. § (1)
 
 (2)
 
-33. §
+#### 33. §

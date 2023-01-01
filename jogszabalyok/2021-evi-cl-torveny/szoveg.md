@@ -4,53 +4,53 @@ egyes agrártárgyú törvények módosításáról
 
 #### 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
 #### 2. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
 24. § (1)
 
@@ -60,41 +60,41 @@ egyes agrártárgyú törvények módosításáról
 
 (4)
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
 #### 3. Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosítása
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
 42. § (1)
 
@@ -106,95 +106,95 @@ egyes agrártárgyú törvények módosításáról
 
 (3)
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
 #### 4. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
 #### 5. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
 #### 6. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
 #### 7. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
 #### 8. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
 #### 9. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
 80. § (1)
 
 (2)
 
-81. §
+#### 81. §
 
 82. § (1)
 
@@ -206,13 +206,13 @@ egyes agrártárgyú törvények módosításáról
 
 (2)
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
 88. § (1)
 
@@ -220,7 +220,7 @@ egyes agrártárgyú törvények módosításáról
 
 (3)
 
-89. §
+#### 89. §
 
 90. § (1)
 
@@ -228,17 +228,17 @@ egyes agrártárgyú törvények módosításáról
 
 (3)
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
-96. §
+#### 96. §
 
 97. § (1)
 
@@ -281,7 +281,7 @@ lép.
 
 #### 10. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-100. §
+#### 100. §
 
 101. § (1)
 
@@ -289,61 +289,61 @@ lép.
 
 (3)
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
 107. § (1)
 
 (2)
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
-121. §
+#### 121. §
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
-125. §
+#### 125. §
 
-126. §
+#### 126. §
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
 129. § (1)
 
@@ -382,75 +382,75 @@ lép.
 
 #### 11. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-132. §
+#### 132. §
 
 #### 12. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-133. §
+#### 133. §
 
 #### 13. Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény módosítása
 
-134. §
+#### 134. §
 
-135. §
+#### 135. §
 
-136. §
+#### 136. §
 
-137. §
+#### 137. §
 
-138. §
+#### 138. §
 
-139. §
+#### 139. §
 
-140. §
+#### 140. §
 
-141. §
+#### 141. §
 
-142. §
+#### 142. §
 
-143. §
+#### 143. §
 
-144. §
+#### 144. §
 
 #### 14. A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény módosítása
 
-145. §
+#### 145. §
 
 #### 15. A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény módosítása
 
-146. §
+#### 146. §
 
-147. §
+#### 147. §
 
-148. §
+#### 148. §
 
-149. §
+#### 149. §
 
-150. §
+#### 150. §
 
-151. §
+#### 151. §
 
-152. §
+#### 152. §
 
-153. §
+#### 153. §
 
 #### 16. A családi gazdaságokról szóló 2020. évi CXXIII. törvény módosítása
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
-156. §
+#### 156. §
 
-157. §
+#### 157. §
 
-158. §
+#### 158. §
 
-159. §
+#### 159. §
 
-160. §
+#### 160. §
 
-161. §
+#### 161. §
 
 #### 17. Záró rendelkezések
 
@@ -466,7 +466,7 @@ lép.
 
 (6) A 80. § (1) bekezdése, a 90. § (3) bekezdése és a 99. § b) pontja 2022. július 1-jén lép hatályba.
 
-(7) A 77. §, a 82. § (2) és (3) bekezdése, a 83. § (2) bekezdése, a 88. § (2) és (3) bekezdése, a 96. §, a 97. § (2) bekezdése, a 98. § e), h), l), n), p), s), u) és w) pontja, a 99. § a) és d) pontja, a 100. §, a 101. § (2) bekezdése, a 107. § (2) bekezdése, a 108. §, a 121. §, a 124. §, a 129. § (2) bekezdése, a 130. § b), e)–g), k) és n) pontja, valamint a 131. § a), d), f) és g) pontja 2023. február 1-jén lép hatályba.
+(7) A 77. §, a 82. § (2) és (3) bekezdése, a 83. § (2) bekezdése, a 88. § (2) és (3) bekezdése, a 96. §, a 97. § (2) bekezdése, a 98. § e), h), l), n), p), s), u) és w) pontja, a 99. § a) és d) pontja, a 100. §, a 101. § (2) bekezdése, a 107. § (2) bekezdése, a 108. §, a 121. §, a 124. §, a 129. § (2) bekezdése, a 130. § b), e)–g), k) és n) pontja, valamint a 131. § a), d), f) és g) pontja 2024. február 1-jén lép hatályba.
 
 163. § E törvény
 

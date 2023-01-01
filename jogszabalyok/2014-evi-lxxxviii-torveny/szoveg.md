@@ -1932,7 +1932,14 @@ van összefüggésben.
 
 (4) Az elhunyt személlyel kapcsolatba hozható adatok tekintetében az érintett jogait az elhunyt örököse, illetve a biztosítási szerződésben nevesített jogosult is gyakorolhatja.
 
-(5) A biztosító a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig az elhunyt szerződő által kötött vagyonbiztosítási szerződéshez kapcsolódóan, kizárólag az érintett biztosítási szerződés díjfizetéssel történő fenntartása érdekében a biztosítási szerződés fennállásáról, a biztosítást igazoló okirat számáról, az általános szerződési feltételekről, a szerződés díjegyenlegéről, az esedékes díjtartozás összegéről, valamint a szerződés évfordulójáról az elhunyt szerződő közeli hozzátartozója, illetve a vagyontárgy birtokosa részére – annak írásbeli kérelmére – adatot szolgáltathat, feltéve, hogy e minőségét a kérelmező okirattal igazolja. A közeli hozzátartozó, illetve a vagyontárgy birtokosa részére történő ezen adatszolgáltatás nem jelenti a biztosítási titok sérelmét. A biztosító a kérelmező személyes adatait az adatszolgáltatást követően öt évig, illetve – ha a 142. § (3) bekezdése szerinti időtartam ezt meghaladja – a 142. § (3) bekezdésében meghatározott időtartamig kezeli.
+(5) A biztosító a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig
+
+- a) az elhunyt szerződő által kötött vagyonbiztosítási szerződéshez kapcsolódóan, kizárólag az érintett biztosítási szerződés díjfizetéssel történő fenntartása érdekében a biztosítási szerződés fennállásáról, a biztosítást igazoló okirat számáról, az általános szerződési feltételekről, a szerződés díjegyenlegéről, az esedékes díjtartozás összegéről, valamint a szerződés évfordulójáról az elhunyt szerződő közeli hozzátartozója, illetve a vagyontárgy birtokosa részére,
+- b) azon hitelfedezeti életbiztosítási szerződéshez, továbbá azon biztosítási szerződéshez kapcsolódóan, ahol a szolgáltatás jogosultja a hitelintézet és a szerződés biztosítottja az elhunyt személy, kizárólag a szolgáltatási igény biztosítóhoz történő bejelentése és a szolgáltatás teljesítéséhez szükséges adatok biztosító részére történő megküldése érdekében a biztosítási szerződés fennállásáról, a biztosítást igazoló okirat számáról, valamint az általános szerződési feltételekről az elhunyt biztosított közeli hozzátartozója részére
+
+– annak írásbeli kérelmére – adatot szolgáltathat, feltéve, hogy e minőségét a kérelmező okirattal igazolja.
+
+(6) A közeli hozzátartozó, illetve a vagyontárgy birtokosa részére történő – (5) bekezdés szerinti – adatszolgáltatás nem jelenti a biztosítási titok sérelmét. A biztosító a kérelmező személyes adatait az adatszolgáltatást követően öt évig, illetve – ha a 142. § (3) bekezdése szerinti időtartam ezt meghaladja – a 142. § (3) bekezdésében meghatározott időtartamig kezeli.
 
 #### 58. A biztosító és a viszontbiztosító üzleti titka
 
@@ -4316,11 +4323,23 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 327. § A csoportfelügyelet hatálya alá tartozó biztosítóra és viszontbiztosítóra, továbbá azon vállalkozásokra, amelyekre a csoportfelügyelet kiterjed, valamint a Felügyelet csoportfelügyelettel összefüggő tevékenységére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-#### 328–330. §
+#### 328. §
+
+#### 329. §
+
+#### 330. §
 
 #### 134.
 
-#### 331–335. §
+#### 331. §
+
+#### 332. §
+
+#### 333. §
+
+#### 334. §
+
+#### 335. §
 
 #### 135.
 
@@ -4328,7 +4347,9 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 #### 136.
 
-#### 337–338. §
+#### 337. §
+
+#### 338. §
 
 #### 137.
 

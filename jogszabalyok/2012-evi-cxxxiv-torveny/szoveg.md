@@ -139,7 +139,7 @@ kiskereskedelmi értékesítésére.
 
 7. § (1) A dohánytermék-kiskereskedelmi jogosultság átengedésére vonatkozó nyilvános pályázatra a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
-(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes megyei (fővárosi) kormányhivatal honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
+(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes fővárosi és vármegyei kormányhivatal honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
 
 (3) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait. A szempontok között érvényt kell szerezni a 13. § (5) bekezdésében foglaltaknak, továbbá előnyben kell részesíteni azt a pályázót, aki
 
@@ -415,7 +415,7 @@ fogadhatja el.
 
 15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat, az új dohánytermék-kategóriákat, valamint a füst nélküli dohánytermékeket kivéve – típusonként, márkajelzésenként, valamint – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjeleníteni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása kombinált egészségvédő figyelmeztetést tartalmaz, csak olyan módon helyezhető az értékesítési csatornába (polchelyre), hogy a kombinált egészségvédő figyelmeztetés a fogyasztó felé láthatóvá váljék; minden más esetben a terméket a csomagolás előlapjával kell megjeleníteni.
 
-(1a) Azon dohánytermék vonatkozásában, amelyik jogszabályban meghatározott, kötelezően alkalmazandó színű (egységes) csomagolásban kerül forgalomba, az (1) bekezdésben foglaltakat 2022. december 31-ig azzal az eltéréssel kell alkalmazni, hogy a dohánytermék értékesítési csatornája elé a dohánytermék csomagolásának méretével megegyező méretű, márkajelzést tartalmazó, a dohánytermék korábbi vagy más országban jellemző megjelenését ábrázoló kép helyezhető ki a kihelyezett képen a kombinált egészségvédő figyelmeztetést a dohánytermékre irányadó jogszabályok szerinti méretben és szöveggel meg kell jeleníteni.
+(1a)
 
 (2) Amennyiben a dohánytermék-nagykereskedő az általa gyártott, vagy forgalmazott (szabadforgalomba bocsátott) dohánytermék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban, úgy erről a dohánytermék-kiskereskedővel határozott időre – írásban – polckép-szerződést köthet. A polckép-szerződésnek tartalmaznia kell legalább
 

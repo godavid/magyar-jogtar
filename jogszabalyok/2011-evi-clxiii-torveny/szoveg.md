@@ -133,7 +133,7 @@ irányítja.
 (3) Felettes ügyészség
 
 - a) a Legfőbb Ügyészség az összes ügyészi szerv;
-- b) a főügyészség a megye (főváros) területén működő járási ügyészségek
+- b) a főügyészség a vármegye (főváros) területén működő járási ügyészségek
 
 tekintetében.
 
@@ -720,4 +720,34 @@ alapján sarkalatosnak minősül.
 
 #### 14. Módosuló jogszabályok
 
-#### 44–59. §
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §

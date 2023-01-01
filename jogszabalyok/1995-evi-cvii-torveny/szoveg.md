@@ -2,7 +2,9 @@
 
 a büntetés-végrehajtási szervezetről
 
-### I. Fejezet — A büntetés-végrehajtási szervezet jogállása, irányításaés vezetése
+### I. Fejezet — A büntetés-végrehajtási szervezet jogállása, irányítása
+
+és vezetése
 
 ### A büntetés-végrehajtási szervezet jogállása
 
@@ -20,7 +22,9 @@ a büntetés-végrehajtási szervezetről
 
 (4)
 
-(5) Az Országos Parancsnokság, a büntetés-végrehajtási intézetek és intézmények, továbbá a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaságok és költségvetési szervek (a továbbiakban együtt: bv. szervek) jogi személyek.
+(5) Az Országos Parancsnokság, a büntetés-végrehajtási intézetek és intézmények, továbbá a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaságok és költségvetési szervek (a továbbiakban együtt: bv. szervek) a (6) bekezdésben foglalt kivétellel jogi személyek.
+
+(6) A helyi jogállású büntetés-végrehajtási intézetek az agglomerációs központok önálló feladat- és hatáskörrel, valamint állománytáblázattal rendelkező telephelyei.
 
 ### A bv. szervezet irányítása és vezetése
 
@@ -75,12 +79,14 @@ a büntetés-végrehajtási szervezetről
 5. § Az Országos Parancsnokság a jogszabályok, a miniszter döntései és az országos parancsnok utasításai, valamint egyedi intézkedései alapján
 
 - a) előkészíti az országos parancsnok utasításait, parancsait és előterjesztéseit;
-- b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak reintegrációjával, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, szabadulásra felkészítés körében a gondozással és a szabadságvesztésből szabadultak utógondozásával, valamint a büntetés-végrehajtási pártfogó felügyelői feladatok végrehajtásával kapcsolatos tevékenységet;
+- b) felügyeli, ellenőrzi, támogatja és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak reintegrációjával, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, szabadulásra felkészítés körében a gondozással és a szabadságvesztésből szabadultak utógondozásával, valamint a büntetés-végrehajtási pártfogó felügyelői feladatok végrehajtásával kapcsolatos tevékenységet;
 - c) bv. szervezet költségvetésének keretei között biztosítja a bv. szervek feladatainak ellátásához szükséges feltételeket;
 - d) a fogvatartottak foglalkoztatását végző gazdasági társaságok (a továbbiakban: gazdasági társaságok) és a fogvatartottak foglalkoztatására létrehozott költségvetési szervek működésével kapcsolatban ellátja a miniszter által meghatározott büntetés-végrehajtási feladatokat;
 - e) végzi a honvédelemmel, a polgári és katasztrófavédelmi tevékenységgel, a munkavédelemmel, környezetvédelemmel, energetikai tevékenységgel, elektronikus információbiztonsággal és a tűzvédelemmel kapcsolatos központi feladatokat;
 - f) együttműködik a büntetések és az intézkedések végrehajtásában közreműködő, illetve a végrehajtást segítő állami szervekkel és egyesületekkel, vallási közösségekkel, alapítványokkal és személyekkel, továbbá az érintett nemzetközi szervezetekkel;
 - g) ellátja a szervezeti és működési szabályzatban meghatározott egyéb feladatokat.
+
+5/A. § Az Országos Parancsnokság az 5. §-ban meghatározott egyes gazdasági feladatait a gazdasági ellátó szerv útján látja el.
 
 ### A büntetés-végrehajtási intézetek és intézmények
 
@@ -88,16 +94,28 @@ a büntetés-végrehajtási szervezetről
 
 (2) Intézet a büntetés és az intézkedés jellegére, a végrehajtási fokozatra, a fogvatartottak életkorára, nemére és a végrehajtás egyéb sajátos körülményeire tekintettel alapítható.
 
+(3) Az intézetek öt agglomerációt képeznek, az agglomerációs központ vezetőjét, valamint az egyes agglomerációs központ alá tartozó intézeteket az országos parancsnok jelöli ki.
+
+(4) Az országos parancsnok kijelölése alapján a gazdasági társaságok az agglomerációba tartozó intézetekkel együttműködve az agglomerációba bevonhatók.
+
 7. § A bv. szervek anyagi-technikai ellátására, a személyi állomány oktatására, továbbképzésére, egyes szociális és egészségügyi feladatok ellátására büntetés-végrehajtási intézmény (a továbbiakban: intézmény) alapítható.
 
-8. § Az intézetet (intézményt) a parancsnok, főigazgató főorvos, főigazgató, igazgató (a továbbiakban együtt: parancsnok) vezeti, aki
+8. § (1) Az intézetet vagy intézményt a parancsnok, főigazgató főorvos, főigazgató, igazgató (a továbbiakban együtt: parancsnok) vezeti, aki
 
-- a) felelős az intézet (intézmény) feladatainak a törvényes végrehajtásáért, annak rendjéért és biztonságáért;
-- b) gyakorolja a büntetések és az intézkedések végrehajtásáról szóló jogszabályokban meghatározott jogait, ellátja az ebből eredő kötelezettségeit;
-- c) kapcsolatot tart a 13. § (1) bekezdésében megnevezett szervezetekkel, elősegíti tevékenységüket és biztosítja az intézet részéről ehhez szükséges feltételeket;
-- d) felelős az intézet (intézmény) gazdálkodásáért, a költségvetés előkészítéséért és végrehajtásáért, a számviteli rend betartásáért;
-- e) ellátja a hivatásos állománnyal kapcsolatos parancsnoki feladatokat, jogszabályban meghatározottak szerint munkáltatói jogokat gyakorol a személyi állomány tagjai felett;
-- f) képviseli az intézetet (intézményt).
+- a) felelős az intézet vagy intézmény feladatainak a törvényes végrehajtásáért, annak rendjéért és biztonságáért,
+- b) gyakorolja a büntetések és az intézkedések végrehajtásáról szóló jogszabályokban meghatározott jogait, ellátja az ebből eredő kötelezettségeit,
+- c) kapcsolatot tart a 13. § (1) bekezdésében megnevezett szervezetekkel, elősegíti tevékenységüket és biztosítja az intézet részéről ehhez szükséges feltételeket,
+- d) felelős az intézet vagy intézmény gazdálkodásáért, a költségvetés előkészítéséért és végrehajtásáért, a számviteli rend betartásáért,
+- e) ellátja a hivatásos állománnyal kapcsolatos parancsnoki feladatokat, jogszabályban meghatározottak szerint munkáltatói jogokat gyakorol a személyi állomány tagjai felett,
+- f) képviseli az intézetet vagy intézményt.
+
+(2) Az agglomerációs központ vezetője jogosult
+
+- a) az országos parancsnok megbízása alapján, annak keretei között az 5. § b) pontjában foglalt jogkörök gyakorlására,
+- b) törvényben meghatározott egyéb feladatok ellátására, továbbá
+- c) az a) pontban és a 8/A. §-ban meghatározott feladatai ellátásával összefüggésben, az irányítási jogkörök gyakorlásához szükséges mértékben a büntetés-végrehajtási intézetek és intézmények kezelésében lévő közérdekű adatokat és közérdekből nyilvános adatokat, valamint törvényben meghatározott személyes adatokat kezelni.
+
+8/A. § Az agglomerációs központ vezetője felelős helyi jogállású intézetek esetén a 8. § (1) bekezdés d) pontjában foglaltak ellátásáért.
 
 ### Gazdasági társaságok
 
@@ -155,11 +173,24 @@ a büntetés-végrehajtási szervezetről
 
 (7) Ha az intézkedések a személyi állomány vagy a fogvatartottak életének és testi épségének a megvédésére, a fogvatartás törvényes biztosítására, a fogolyszökés megakadályozására nem elegendők, a bv. szerv köteles más rendvédelmi szerv közreműködését kérni.
 
-(8) A végrehajtás rendjének és a fogvatartás biztonságának fenntartása érdekében foganatosított intézkedéssel érintett személyről, valamint az intézkedés szempontjából lényeges körülményről, tárgyról mobil elektronikus megfigyelési eszközzel képfelvétel, hangfelvétel vagy kép- és hangfelvétel készíthető. A mobil elektronikus megfigyelési eszközzel rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvénynek az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére vonatkozó rendelkezéseit kell alkalmazni.
+(8) A végrehajtás rendjének és a fogvatartás biztonságának fenntartása érdekében foganatosított intézkedéssel érintett személyről, valamint az intézkedés szempontjából lényeges körülményről, tárgyról mobil elektronikus megfigyelési eszközzel képfelvétel, hangfelvétel vagy kép- és hangfelvétel készíthető. A mobil elektronikus megfigyelési eszközzel rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvénynek (a továbbiakban: Bv. tv.) az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére vonatkozó rendelkezéseit kell alkalmazni.
 
-### Titoktartási kötelezettség
+### Biometrikus személyazonosítás és titoktartási kötelezettség
 
-12. § A bv. szervezet személyi állományának tagja a minősített adatot, valamint a tudomására jutott magántitkot köteles megtartani. A titoktartási kötelezettség alól jogszabály, valamint jogszabály felhatalmazása alapján, az abban megjelölt személy felmentést adhat.
+12. § (1) A bv. szervezet személyi állományába tartozó tagjának az arcképmása az intézkedés jogszerűségének megállapítása, az intézetben megvalósuló jogsértés elkövetőjének azonosítása céljából, az intézetben telepített elektronikus megfigyelési eszköznek arcképfelismerő rendszerrel való összekapcsolása során felhasználható. E célból az intézet a bv. szervezet személyi állományába tartozó tagjának az arcképmását a szolgálati jogviszony kezdetétől annak megszűnéséig kezeli.
+
+(2) A bv. szervezet személyi állományának tagja jogviszonyának fennállása alatt és annak megszűnését követően is titokként megőrzi a tevékenységével, annak ellátásával kapcsolatban tudomására jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a bv. szervezet nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+### A fogvatartás biztonsága szempontjából kiemelten fontos adatok megismerhetősége
+
+12/A. § (1) A fogvatartás biztonsága szempontjából fontos
+
+- a) létesítmény vagy eszköz biztonságos üzemeltetésével közvetlenül összefüggő műszaki adatok, valamint
+- b) létesítmény vagy eszköz működéséhez kapcsolódó létesítmény- és személyvédelemre vonatkozó adatok
+
+megismerése iránti igényt a létesítmény vagy az eszköz használatának időtartama alatt, de legfeljebb az adat keletkezésétől számított harminc évig el kell utasítani, ha az adat megismerése a bűncselekmények üldözéséhez vagy megelőzéséhez fűződő érdekeket – így különösen a bv. intézet fogvatartás biztonságával, illetve a végrehajtás rendjével összefüggő feladatainak ellátását – veszélyeztetné.
+
+(2) Az (1) bekezdés szerinti igény teljesíthetőségéről a bv. szerv vezetője dönt.
 
 ### Együttműködési, tájékoztatási és segítségnyújtási kötelezettség
 
@@ -192,6 +223,12 @@ a büntetés-végrehajtási szervezetről
 14/A. § (1) A letartóztatást foganatosító és a szabadságvesztés büntetést végrehajtó szerv – különösen a külön jogszabály szerinti, a büntetés-végrehajtási intézetbe történő befogadás során – ujjnyomatot vehet a befogadott személytől.
 
 (2) Az (1) bekezdés szerinti ujjnyomat vétele kizárólag abból a célból történhet, hogy a befogadott személy ujjnyomata a – külön törvény szerinti – daktiloszkópiai nyilvántartásból igényelt adatokkal, a személyazonosítás érdekében összevetésre kerüljön. A bv. szerv által vett ujjnyomatot a személyazonosítást követően haladéktalanul törölni kell.
+
+### A bv. szerv területének ellenőrzése pilóta nélküli állami légi járművel
+
+14/B. § (1) A fogvatartás biztonságának fenntartása érdekében a bv. szerv területére történő be- és kilépés ellenőrzése, szökés megakadályozása, valamint rendkívüli esemény megelőzése, felszámolása céljából pilóta nélküli állami légi jármű a magyar légtér igénybevételéről szóló kormányrendelet szerint működtethető.
+
+(2) A pilóta nélküli állami légi jármű által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére a Bv. tv.-nek az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére vonatkozó rendelkezéseit kell alkalmazni.
 
 ### IV. Fejezet — A kényszerítő eszközök
 
@@ -298,7 +335,8 @@ alkalmazható.
 - d) bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének a megakadályozására;
 - e) lőfegyver, illetőleg robbanóanyag jogosulatlan, erőszakos megszerzésére irányuló cselekmény megakadályozására;
 - f) a bv. szerv ellen elkövetett fegyveres támadás elhárítására;
-- g)–h)
+- g)
+- h)
 - i) a fogvatartott erőszakos kiszabadításának a megakadályozására;
 - j) azzal szemben, aki a nála lévő fegyvert, vagy más, az életre és testi épségre veszélyes eszközt felszólításra nem teszi le, és magatartása annak ember elleni közvetlen használatának szándékára utal;
 - k)
@@ -374,6 +412,50 @@ alkalmazható.
 (3) A tömeget a helyszínről való eltávozásában tilos korlátozni.
 
 (4) Tömegoszlatásnál lőfegyverhasználatnak nincs helye.
+
+### IV/A. Fejezet — A fogvatartás biztonságát érintő kockázatok feltárását célzó elemző tevékenység
+
+27/A. § (1) A bv. szervek a fogvatartás biztonságával összefüggő szolgálati feladatok hatékony ellátása érdekében, az e törvényben meghatározottak szerint a végrehajtás rendjét és a fogvatartás biztonságát érintő kockázatok, valamint a fegyelemsértést megvalósító cselekmények megelőzése, feltárása céljából információt gyűjthetnek, ennek eredménye, valamint az általuk kezelhető személyes adatok felhasználásával értékelő és elemző tevékenységet (a továbbiakban: biztonsági kockázatelemzés) végezhetnek.
+
+(2) A biztonsági kockázatelemzést az Országos Parancsnokságnak és az intézeteknek az országos parancsnok által kijelölt szervezeti egységei (e fejezet alkalmazásában a továbbiakban együtt: erre feljogosított szervezeti egység) végzik.
+
+(3) Ha a biztonsági kockázatelemzés során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, vagy amelynek ellenőrzése más szerv hatáskörébe tartozik, az Országos Parancsnokság biztonsági kockázatelemzésre feljogosított szervezeti egységének vezetője (e fejezet alkalmazásában a továbbiakban: az Országos Parancsnokság szervezeti egységének vezetője) haladéktalanul feljelentést tesz, vagy az adatot a hatáskörrel és illetékességgel rendelkező szervnek továbbítja.
+
+27/B. § Az erre feljogosított szervezeti egység a 27/A. § (1) bekezdésében meghatározott célból
+
+- a) együttműködő személyt vehet igénybe,
+- b) a fogvatartottat, hozzájárulása esetén a szabadult fogvatartottat meghallgathatja,
+- c) valótlan vagy megtévesztő információt adhat át,
+- d) sérülést vagy egészségkárosodást nem okozó csapdát alkalmazhat.
+
+27/C. § Az Országos Parancsnokság szervezeti egységének vezetője a biztonsági kockázatelemzés keretében együttműködő fogvatartottnak a Bv. tv. 165. §-a szerint jutalomban részesítését kezdeményezheti vagy őt közvetlenül pénzjutalomban részesítheti.
+
+27/D. § (1) A 27/B. § c) pontja szerinti információ átadására az Országos Parancsnokság szervezeti egysége vezetőjének előzetes jóváhagyásával kerülhet sor.
+
+(2) A 27/B. § c) pontja szerinti információ továbbításához együttműködő személy is igénybe vehető.
+
+(3) A 27/B. § c) pontja szerinti információ átadása
+
+- a) fegyelmi eljárásban történő kihallgatás, illetve bizonyítási cselekmény során nem alkalmazható,
+- b) nem tartalmazhat a törvénnyel össze nem egyeztethető ígéretet, és
+- c) nem valósíthat meg fenyegetést vagy felbujtást, továbbá nem terelheti az érintett személyt annál súlyosabb cselekmény elkövetése felé, mint amelyet eredetileg elkövetni tervezett.
+
+27/E. § (1) Csapda alkalmazására az Országos Parancsnokság szervezeti egysége vezetőjének előzetes jóváhagyásával kerülhet sor.
+
+(2) A csapda alkalmazásához együttműködő személy is igénybe vehető.
+
+(3) Csapda alkalmazása során tiltott tárgyat az erre feljogosított szervezeti egység nem helyezhet el.
+
+(4) Csapda alkalmazása nem valósíthat meg felbujtást, továbbá nem terelheti az érintett fogvatartottat fegyelemsértést megvalósító cselekmény elkövetésére vagy annál súlyosabb cselekmény elkövetése felé, mint amelyet eredetileg elkövetni tervezett.
+
+27/F. § Az erre feljogosított szervezeti egység a biztonsági kockázatelemzés során
+
+- a) a Bv. tv. 76. § (2) bekezdése szerinti személyes adatokat,
+- b) a fogvatartotti nyilvántartás és a kapcsolattartói nyilvántartás adatait,
+- c) a Bv. tv. szerinti biztonsági intézkedés alkalmazása és a fegyelmi eljárás lefolytatása során ismertté vált személyes adatokat, valamint
+- d) az elektronikus megfigyelési eszköz által rögzített felvételt és az abban szereplő személyes adatot – a Bv. tv. 150. § (7) bekezdésében meghatározott korlátok között –
+
+kezeli.
 
 ### V. Fejezet — A fogvatartott nyilvántartása
 
@@ -467,7 +549,9 @@ részére.
 
 (3) A 28/B. § (2) bekezdésében meghatározott adatokat a fogvatartott szabadulásakor a nyilvántartásból törölni kell.
 
-33. §
+(4) A fogvatartottal szemben indult újabb büntetőeljárásra vonatkozó adatokat a fogvatartotti nyilvántartásból törölni kell, ha a fogvatartottat felmentették vagy vele szemben a büntetőeljárást megszüntették.
+
+#### 33. §
 
 ### VI. Fejezet — Záró rendelkezések
 
@@ -503,7 +587,25 @@ a kiadásait kell érteni.
 - g)
 - h) azon termékeket és szolgáltatásokat, amelyekre a büntetés-végrehajtási szervezetet ellátási kötelezettség terheli, azon szerveket, amelyekre a 9/A. § (1) bekezdése alapján fennálló ellátási kötelezettség kiterjed, valamint a termékek és szolgáltatások e szervek részére való átadásának-átvételének és azok ellentételezésének rendjét.
 
-36–45. §
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
 
 ### Hatálybalépés
 

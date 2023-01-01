@@ -185,7 +185,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 #### 32. §
 
-33. § A közjegyzőkről szóló 1991. évi XLI. törvénynek a közjegyzői működés formájára vonatkozó rendelkezéseit akként kell alkalmazni, hogy a tevékenységét egyénileg folytató közjegyző 2022. december 31-éig a tevékenységét a közjegyzőkről szóló 1991. évi XLI. törvény 2021. december 31-én hatályos rendelkezései szerint tovább folytathatja egyénileg.
+#### 33. §
 
 #### 14. A közvetítői tevékenységről szóló 2002. évi LV. törvény rendelkezéseinek eltérő alkalmazása
 
@@ -584,15 +584,15 @@ kell meghozni.
 - a) a reorganizációs eljárást akkor is elrendeli a bíróság, ha a kérelem a benyújtásának időpontjában hatályos jogszabályoknak megfelel, és
 - b) a nyilvános reorganizációs eljárásban a reorganizációs tervet akkor is jóváhagyja a bíróság, ha az a reorganizációs eljárás iránti kérelem benyújtásának időpontjában hatályos jogszabályoknak megfelel.
 
-(2) Az ezen alcím szerinti reorganizációs eljárás iránti kérelmet 2022. december 31-ig lehet benyújtani a bírósághoz. A határidő elmulasztása jogvesztő.
+(2) Az ezen alcím szerinti reorganizációs eljárás iránti kérelmet 2023. december 31-ig lehet benyújtani a bírósághoz. A határidő elmulasztása jogvesztő.
 
-(3) A 2022. december 31-ig benyújtott kérelem alapján a reorganizációs eljárásokat ezen alcím szabályai szerint kell lefolytatni, és a reorganizációs terv végrehajtására, annak ellenőrzésére is ezen alcímben foglaltakat kell alkalmazni.
+(3) A 2023. december 31-ig benyújtott kérelem alapján a reorganizációs eljárásokat ezen alcím szabályai szerint kell lefolytatni, és a reorganizációs terv végrehajtására, annak ellenőrzésére is ezen alcímben foglaltakat kell alkalmazni.
 
 73. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 69. § (8) bekezdésben meghatározott eljárás kezdeményezésére jogosult vállalkozásokat.
 
 #### 21. A Cstv. eltérő alkalmazása
 
-74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2022. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2023. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
 (2) A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Cstv. IV. Fejezetének hatálya alá tartozó, valamint arra a csődeljárásra és felszámolási eljárásra, amelyben az (5) bekezdés alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
 
@@ -616,7 +616,7 @@ kell meghozni.
 
 76. § (1) A stratégiailag kiemelt jelentőségű felszámolási eljárásban az adós vagyonának a felszámolási eljárás alatti gazdasági tevékenység folytatására és egyben, önállóan működőképes egységként történő értékesítésére alkalmas részét a felszámoló e § szerinti leválasztással – az adós szétválása útján kiválással létrejövő gazdasági társaságként – működteti, feltéve, hogy az adósra vonatkozó anyagi jogi szabály lehetővé teszi, hogy az adós szétválásával gazdasági társaság jöjjön létre. A leválasztás a kiválás e § szerint szabályozott módja. A leválasztás során e törvény felszámolási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A leválasztáshoz a hitelezői választmány jóváhagyására nincs szükség. A felszámoló a Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejárta előtt a közhiteles nyilvántartásba bejegyzett, jelzálogjoggal, önálló zálogjoggal, alzálogjoggal, végrehajtási joggal vagy a Cstv. 38. § (5a) bekezdésében meghatározott biztosítéki célú vételi joggal rendelkező hitelező követelések jogosultjait, a határidő lejárta után a Cstv. 49/D. § (1) bekezdés szerint kielégítésre jogosultként nyilvántartásba vett hitelezőket köteles a leválasztási szándékról írásban értesíteni. A Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejárta előtt a felszámoló akkor dönthet a leválasztásról, ha a közhiteles nyilvántartásba bejegyzett jelzálogjoggal, önálló zálogjoggal, alzálogjoggal, végrehajtási joggal vagy a Cstv. 38. § (5a) bekezdésében felsorolt biztosítéki célú vételi joggal rendelkező hitelezői követelések legalább 75%-át képviselő hitelezői követelések jogosultjai az értesítés kézhezvételétől számított 15 napon belül azt írásban jóváhagyják. A Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejártát követően a felszámoló akkor dönthet a leválasztásról, ha a Cstv. 49/D. § (1) bekezdése szerint kielégítésre jogosultként nyilvántartásba vett követelések legalább 75%-át kitevő hitelező(k) az értesítés kézhezvételétől számított 15 napon belül azt írásban jóváhagyják.
+(2) A leválasztáshoz a hitelezői választmány jóváhagyására nincs szükség. A felszámoló a Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejárta előtt a közhiteles nyilvántartásba bejegyzett, jelzálogjoggal, önálló zálogjoggal, alzálogjoggal, végrehajtási joggal vagy a Cstv. 38. § (5a) bekezdésében meghatározott biztosítéki célú vételi joggal rendelkező hitelező követelések jogosultjait, a határidő lejárta után a Cstv. 49/D. § (1) bekezdés szerint kielégítésre jogosultként nyilvántartásba vett hitelezőket köteles a leválasztási szándékról írásban értesíteni. A Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejárta előtt a felszámoló akkor dönthet a leválasztásról, ha a közhiteles nyilvántartásba bejegyzett jelzálogjoggal, önálló zálogjoggal, alzálogjoggal, végrehajtási joggal vagy a Cstv. 38. § (5a) bekezdésében felsorolt biztosítéki célú vételi joggal rendelkező hitelezői követelések legalább 75%-át képviselő hitelezői követelések jogosultjai az értesítés kézhezvételétől számított 20 napon belül azt írásban jóváhagyják. A Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejártát követően a felszámoló akkor dönthet a leválasztásról, ha a Cstv. 49/D. § (1) bekezdése szerint kielégítésre jogosultként nyilvántartásba vett követelések legalább 75%-át kitevő hitelező(k) az értesítés kézhezvételétől számított 20 napon belül azt írásban jóváhagyják.
 
 (3) A leválasztásra a Ptk. és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény és a Ctv. kiválásra vonatkozó előírásait a (4)–(9) bekezdésben foglalt, valamint az alábbi eltérésekkel kell alkalmazni:
 
@@ -687,11 +687,13 @@ vonhatja le, majd e levonásokat követően fennmaradó összegből akkora hány
 
 (2) A 74. § (2)–(5) bekezdését azokra a jelen alcím hatálybalépésekor folyamatban lévő csődeljárásokra és felszámolási eljárásokra kell alkalmazni, amelyek esetében az eljárás megindítására vonatkozó kérelmet 2021. április 17-én vagy azt követően nyújtották be, vagy a felszámolás hivatalból történő elrendelésére e törvény hatálybalépését követően kerül sor.
 
-(3) Ha 2022. december 31-ig legalább a 69. § (8) és (9) bekezdése, illetve a 76. § (2) bekezdése szerinti feltétel teljesült, a leválasztás e törvény 2022. december 31-én hatályos rendelkezései alapján 2022. december 31-ét követően is lefolytatható.
+(3) Ha 2023. december 31-ig legalább a 69. § (8) és (9) bekezdése, illetve a 76. § (2) bekezdése szerinti feltétel teljesült, a leválasztás e törvény 2023. december 31-én hatályos rendelkezései alapján 2023. december 31-ét követően is lefolytatható.
+
+77/A. § E törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvénnyel (a továbbiakban: 2022. évi LXVIII. törvény) megállapított 76. § (2) bekezdését a 2022. évi LXVIII. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell.
 
 #### 22. A Ctv. rendelkezéseinek eltérő alkalmazása
 
-78. § 2022. december 31-ig a Ctv. rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+78. § 2023. december 31-ig a Ctv. rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
 79. § A cég a Ctv. 24. § (1) bekezdés m) pontja szerinti adatának változását illeték és közzétételi költségtérítés nélkül jelentheti be, ha más adatának változását egyidejűleg nem jelenti be és a cégadat változtatására a cégtől független külső ok miatt kerül sor, amely körülményt a cég hitelt érdemlően igazol a változásbejegyzési kérelmében.
 

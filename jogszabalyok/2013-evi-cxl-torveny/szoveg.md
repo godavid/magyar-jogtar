@@ -61,7 +61,7 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (7a) A bejelentésnek a már ténylegesen kitermelt, az értékesítő személy birtokában lévő fémkereskedelmi engedélyköteles anyagra kell vonatkoznia.
 
-(7b) A fémkereskedelmi hatóság a (7) és (7a) bekezdésben foglaltaknak megfelelő bejelentés alapján a visszaigazolást megadja, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származására. A visszaigazolás kizárólag egyszer, a visszaigazolás kézhezvételétől számított 15 napon belül használható fel. A 15 nap elteltével a visszaigazolás hatályát veszti. A visszaigazolás felhasználása során nem értékesített, visszaigazolással érintett fémkereskedelmi engedélyköteles anyag későbbi értékesítéséhez újabb, a (7) bekezdés szerinti előzetes bejelentést kell tenni.
+(7b) A fémkereskedelmi hatóság a (7) és (7a) bekezdésben foglaltaknak megfelelő bejelentés alapján a visszaigazolást megadja, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származására. A visszaigazolás kizárólag egyszer, a visszaigazolás kiállításától számított 45 napon belül használható fel. A 45 nap elteltével a visszaigazolás hatályát veszti. A visszaigazolás felhasználása során nem értékesített, visszaigazolással érintett fémkereskedelmi engedélyköteles anyag későbbi értékesítéséhez újabb, a (7) bekezdés szerinti előzetes bejelentést kell tenni.
 
 (8) A bejelentést a beérkezéstől számított 5 munkanapon belül a fémkereskedelmi hatóság a tárolás helye szerint illetékes általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére tájékoztatásul megküldi. A tájékoztatás célja annak megismerése, hogy az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv feladatkörében merült-e fel adat a leadni kívánt fémkereskedelmi engedélyköteles anyag eltulajdonított volta tekintetében. A fémkereskedelmi hatóság a tájékoztatásnak az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére történő megküldését követő 5 munkanapon belül visszaigazolást küld a bejelentő és a bejelentésben megjelölt felvásárló fémkereskedő részére.
 
@@ -76,7 +76,7 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (10) Fémkereskedőnek nem minősülő – nem természetes – személy fémkereskedelmi engedélyköteles anyagot kizárólag szigorú számadású szállítólevél birtokában szállíthat.
 
-(11) A hulladékgazdálkodási közszolgáltatást nyújtó szervezet az általa elszállított, az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a (7) bekezdésben meghatározott módon értékesítheti.
+(11) A hulladékgazdálkodási közszolgáltatást nyújtó szervezet az általa elszállított, az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a (6) bekezdésben meghatározott módon értékesítheti.
 
 (12) Fémkereskedő égett kábelt kizárólag a közszolgáltatást nyújtó gazdálkodó szervezettől, illetve a fémkereskedelmi hatóság vagy bíróság döntése, továbbá tűzkár esetén tűzeseti hatósági bizonyítvány alapján vehet át.
 
@@ -147,7 +147,7 @@ törli.
 
 (6) Kohászatilag tömbösített formában fémkereskedelmi engedélyköteles anyag átvételét meg kell tagadni, kivéve, ha a felajánlást tevő személy hitelt érdemlő módon bizonyítja az anyag jogszerű szerzését.
 
-(7) A nyilvántartásában szereplő (3) bekezdés b), c) és f) pontok szerinti adatokról a fémkereskedelmi hatóság megkeresésre, illetve adatkérésre tájékoztatja
+(7) A nyilvántartásában szereplő (3) bekezdés a)–d) és f) pontja szerinti adatokról a fémkereskedelmi hatóság megkeresésre, illetve adatkérésre tájékoztatja
 
 - a) bíróságot, az ügyészséget vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
 - b) a hulladékgazdálkodási hatóságot, ha a tájékoztatás a hulladékgazdálkodási hatósági engedélyezési eljárás lefolytatása, a hulladékgazdálkodási tevékenység ellenőrzése, a hulladékgazdálkodási bírság kiszabása,
@@ -220,7 +220,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (5) Az engedélykérelemhez a fémkereskedelmi tevékenységről szóló kormányrendeletben meghatározottak szerint csatolni kell az előírt feltételek teljesítését igazoló közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát.
 
-(6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül kiadja.
+(6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül – a gazdálkodó szervezetek részére elektronikus úton – kiadja.
 
 (7) A fémkereskedő az engedélyben rögzített adatok változását haladéktalanul bejelenti a fémkereskedelmi hatósághoz, abban az esetben is, ha az egyébként az engedély módosítását nem igényli.
 
@@ -293,7 +293,10 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (3) Ha a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyisége nem állapítható meg, a bírság mértéke 100 ezer forinttól 1 millió forintig terjedhet.
 
-(4) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a közszolgáltatást nyújtó gazdálkodó szervezettel kötött írásbeli szerződés vagy a fémkereskedelmi hatóság írásbeli visszaigazolása nélkül, vagy írásbeli szerződés nélkül vesz át.
+(4) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha
+
+- a) fémkereskedelmi engedélyköteles anyagot írásba foglalt megállapodás vagy írásbeli szerződés nélkül, illetve az anyag jogszerű szerzésére vonatkozó nyilatkozat nélkül vesz át,
+- b) a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a közszolgáltatást, vagy hulladékgazdálkodási közszolgáltatást nyújtó gazdálkodó szervezettel kötött írásbeli szerződés, vagy a szervezet által kiállított igazolás nélkül, illetve a fémkereskedelmi hatóság visszaigazolása nélkül szerez be vagy vesz át.
 
 (5) A bírság mértéke a 11. § (2) bekezdés c) pontja és a 11. § (3) bekezdés a), f) és h) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet.
 

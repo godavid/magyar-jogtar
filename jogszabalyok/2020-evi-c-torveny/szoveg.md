@@ -54,7 +54,7 @@ a jogszabályban meghatározott esetekben.
 
 (11) Az Mt. XIII. és XIV. fejezetét az Eütev.-ben meghatározott eltérésekkel kell alkalmazni.
 
-(12) Az Mt. XVI. Fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló. Ha az egészségügyi szolgáltató alaptevékenysége szerinti feladat ellátása más módon nem biztosítható, az országos kórház-főigazgató előzetes engedélyével foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló az egészségügyi szolgáltatónál. Az engedélyezés eljárásrendjét az országos kórház-főigazgató állapítja meg.
+(12) Az Mt. XVI. Fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló.
 
 #### 2. § [Az egészségügyi szolgálati jogviszony létrehozása]
 
@@ -118,7 +118,7 @@ a jogszabályban meghatározott esetekben.
 
 (1) Az egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység) kivételével – kizárólag a Kormány által kijelölt szerv előzetes engedélyével létesíthet.
 
-(2) Az egészségügyi szolgálati jogviszonyban álló személy az őt foglalkoztató egészségügyi szolgáltató székhelyén vagy telephelyén nem végezhet olyan egészségügyi tevékenységet, amire az egészségügyi szolgálati jogviszonya nem terjed ki.
+(2) Az egészségügyi szolgálati jogviszonyban álló személy az őt foglalkoztató egészségügyi szolgáltató székhelyén vagy telephelyén kizárólag a Kormány által kijelölt szerv előzetes engedélyével végezhet olyan egészségügyi tevékenységet, amire az egészségügyi szolgálati jogviszonya nem terjed ki. Az előzetes engedély kizárólag a Kormány rendeletében meghatározott szakmában történő tevékenységvégzésre adható meg.
 
 (3) Az egészségügyi szolgálati jogviszonyban álló személy az (1) bekezdésben foglaltaktól eltérően a gyakorolható tevékenység végzésére irányuló jogviszonyt kizárólag a Kormány által kijelölt szerv előzetes engedélye alapján létesíthet, ha a munkavégzés időtartama részben azonos az egészségügyi szolgálati jogviszonyban álló személy munkaidejével.
 
@@ -185,6 +185,8 @@ pótszabadság illeti meg.
 (12) A munkáltató – ha a kutatónak a kutatás-fejlesztési munka eredménye hasznosításában érdekelt vállalkozásnál történő munkavégzéséhez előzetesen hozzájárult – a kutatóval kötött megállapodás alapján az egészségügyi szolgálati jogviszonyban álló személy számára a megállapodásban meghatározott időtartamra fizetés nélküli szabadságot engedélyez.
 
 (13) A szabadság nem halmozódhat. A szabadságot pénzben megváltani – a jogviszony megszűnésének kivételével – nem lehet.
+
+(14) Az (1)–(2) bekezdésben foglaltakon túl az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozót megilleti az Mt. 118–120. §-a szerinti szabadság.
 
 #### 7. § [Minősítés]
 
@@ -452,6 +454,8 @@ E törvény alkalmazásában
 - a) az állami fenntartású egészségügyi szolgáltató esetén a munkáltató szervet,
 - b) azt a szervet, amely egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyát (ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is), illetve a gyakorolható tevékenység végzésére irányuló jogviszonyt előzetesen engedélyezheti.
 
+(3) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 4. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg – szakmakóddal együtt – azokat a szakmákat, amelyek esetében megadható a 4. § (2) bekezdése szerinti engedély.
+
 #### 18. § [Hatálybalépés]
 
 (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2020. november 18. napján lép hatályba.
@@ -521,7 +525,17 @@ gyógyító-megelőző tevékenységet végezhet.
 
 (6) A 664/2021. (XII. 1.) Korm. rendelet 2021. december 31-én hatályos 1. § c) pontja alkalmazásában az egyes, az egészségügyi szolgálati jogviszonnyal összefüggő veszélyhelyzeti szabályokról szóló 69/2021. (II. 19.) Korm. rendelet 16. § (5) bekezdése alatt az e törvény 8. § (9a) bekezdését kell érteni.
 
-#### 21. §
+20/A. § (1) Az 1. § (12) bekezdése 2022. december 31. napjáig hatályos rendelkezései szerinti engedély alapján megkötött, munkaerő-kölcsönzésre irányuló szerződés 2024. január 1-jén hatályát veszti. Az e törvény hatálya alá tartozó egészségügyi szolgáltató és a munkaerő-kölcsönző a szerződésből eredő jogok és kötelezettségek tekintetében legkésőbb 2024. január 31. napjáig elszámolnak egymással.
+
+(2) 2024. január 1-jétől nem köthető új szerződés a Kormány rendeletében meghatározott személyes közreműködésre, ide nem értve a Kormány rendeletében meghatározott egészségügyben dolgozóval kötött szerződést.
+
+21. § E törvény
+
+- a) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
+- b) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,
+- c) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 #### 22. §
 

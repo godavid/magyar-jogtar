@@ -264,7 +264,7 @@ egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításár�
 
 - a)
 - b)
-- c)
+- c) 37. § (2) bekezdésében a „megérkezését követő napon” szövegrész helyébe a „megérkezésének időpontjában” szöveg,
 - d)
 - e)
 

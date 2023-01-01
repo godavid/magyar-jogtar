@@ -78,7 +78,9 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 11. § (1)
 
-(2)
+(2) Az Utv. 7. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) Kérelemre a magánútlevél a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza.”
 
 (3)
 
@@ -148,7 +150,9 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 21. § (1)
 
-(2)
+(2) Az At. 81/D. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (10) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.”
 
 #### 22. §
 
@@ -298,7 +302,7 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 (5) A 13. § (6) bekezdése és a 44. § a) pontja 2022. július 1-jén lép hatályba.
 
-(6) A 11. § (2) és (8) bekezdése és a 21. § (2) bekezdése 2023. január 1-jén lép hatályba.
+(6) A 11. § (2) bekezdése és a 21. § (2) bekezdése 2023. január 1-jén lép hatályba.
 
 (7) A 6. § (2) bekezdése 2023. június 25-én lép hatályba.
 

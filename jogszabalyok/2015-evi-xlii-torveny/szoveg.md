@@ -1141,7 +1141,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 82. § (1) A törvény erejénél fogva szűnik meg a hivatásos állomány tagjának a szolgálati viszonya ha
 
 - a) az e törvényben és végrehajtási rendeleteiben meghatározott, a szolgálati viszony fenntartásához szükséges, és az állományilletékes parancsnok által a hivatásos állomány tagjának előírt képzési és vizsgakötelezettség teljesítését önhibájából elmulasztotta,
-- b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
+- b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
 - c) az összeférhetetlenség megszüntetését elmulasztotta,
 - d) – a miniszter által vezetett minisztériumba kinevezett állami vezető kivételével – állami vezetővé nevezték ki, vagy
 - e) az egészségi alkalmatlanság megállapítását követően rendvédelmi egészségkárosodási járadékra jogosultságát állapítják meg,
@@ -1466,6 +1466,7 @@ személynek.
 - e) a törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén a hivatásos állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, vagy ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje,
 - f) a hivatásos állomány nő tagjának jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének ideje, de legfeljebb ennek megkezdésétől számított hat hónap,
 - g) a szolgálati viszony szünetelésének időtartama.
+- h) a 145. § (1) bekezdése szerinti pótszabadság (a továbbiakban: apasági szabadság), valamint a 149/A. §-a és a 150. § (2) bekezdés c) pontja szerinti időtartam.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
 
@@ -1477,6 +1478,18 @@ személynek.
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó. A felmentés közlésének az tekintendő, amikor a felmentésről szóló írásba foglalt munkáltatói intézkedést a hivatásos állomány tagjának a 6. § (4) bekezdésében foglaltak szerint kézbesítették.
 
 (4) Az (1) bekezdés c) pontja szerinti védelem az illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette.
+
+88/A. § (1) A munkáltatói jogkör gyakorlója – a hivatásos állomány tagja kérelmére – indokolási kötelesség hiányában is megindokolja a szolgálati viszony megszüntetésére irányuló jognyilatkozatát, ha a hivatásos állomány tagja hivatkozása szerint a szolgálati jogviszony megszüntetésére
+
+- a) a 138/A. § szerinti rész-szolgálatteljesítés,
+- b) a 145. § (1) bekezdése szerinti apasági szabadság,
+- c) a 149. § szerinti szabadság,
+- d) a 149/A. § szerinti szülői szabadság, vagy
+- e) a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság
+
+igénylése vagy igénybevétele miatt került sor.
+
+(2) A hivatásos állomány tagja az (1) bekezdés szerinti jognyilatkozat indokolását annak közlésétől számított tizenöt napon belül írásban kérheti. A munkáltatói jogkör gyakorlója az indokolást a kérelem kézhezvételétől számított tizenöt napon belül közli.
 
 89. § Nem szüntethető meg a szolgálat felső korhatárát megelőző öt évben a hivatásos állomány tagjának a szolgálati viszonya a 86. § (1) bekezdése alapján felmentéssel.
 
@@ -1615,6 +1628,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 - c) az illetményéből határozat vagy jogszabály alapján levonandó tartozását és ennek jogosultját, vagy azt, hogy ilyen tartozása nincs,
 - d) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát, valamint
 - e) a kifizetett végkielégítés összegét.
+- f) a szülői szabadság és az apasági szabadság kiadott tartamát, amely tartalmazza a korábbi munkáltató által, ezen jogcímeken kiadott szabadság tartamát is.
 
 99/A. § A szolgálati viszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és a hivatásos állomány tagja számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
@@ -1689,10 +1703,13 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 - h) a szolgálati viszonyra vonatkozó szabály vagy az állományilletékes parancsnok engedélye alapján,
 - i) az egészségkárosodási ellátásra jogosultság megállapítására irányuló eljárás alatt az eljárás során elfogadott szolgálati beosztásba vagy nem hivatásos munkakörbe helyezéséig, vagy ha erre nem kerül sor, az egészségkárosodási ellátásra jogosultság tárgyában hozott döntés meghozataláig,
 - j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+- k) betegség vagy baleset okozta sürgős családi okból adódó vis maior esetén évente legfeljebb kétszer, egy munkanapra.
 
 (1a) Az (1) bekezdés j) pontja szerinti esetben a hivatásos állomány tagját a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a hivatásos állomány tagja legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkört gyakorlót.
 
-(2) A szolgálatteljesítési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében a hivatásos állomány tagja a távollét idejére távolléti díjra jogosult.
+(2) A szolgálatteljesítési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében a hivatásos állomány tagja a távollét idejére – a (3) bekezdésben foglaltak kivételével – távolléti díjra jogosult.
+
+(3) A szolgálatteljesítési kötelezettség alóli (1) bekezdés k) pontja szerinti mentesülés esetében a hivatásos állomány tagját a távollét idejére illetmény, távolléti díj nem illeti meg.
 
 #### 63. Egészségi, pszichológiai és fizikai alkalmasság
 
@@ -1724,6 +1741,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 - b) a szolgálati viszony létesítéséhez, fenntartásához, módosításához, megszüntetéséhez az egészségi, pszichológiai vagy fizikai alkalmassági feltételek fennállásának megállapítása,
 - c) rangsor állítása,
 - d) fejlesztés.
+- e) adatelemzéshez és statisztikai lekérdezésekhez szükséges adatszolgáltatás biztosítása.
 
 (2) Ezen alcím tekintetében
 
@@ -1739,7 +1757,7 @@ alkalmasságvizsgálat során felállított, a kiválasztási döntést támogat
 
 (4) Az (1) bekezdésben meghatározott célból az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi és pszichológiai dokumentációját az alkalmasság megállapításában részt vevő orvos vagy pszichológus, az orvosi bizottság, vagy a pszichológusokból álló háromfős bizottság kezeli, az kizárólag részükre továbbítható. Az (1) bekezdésben meghatározott célból a fizikai alkalmasságra vonatkozó adatokat a felmérésben közreműködő, az alkalmasság megállapításában részt vevő orvos, az orvosi bizottság, valamint a jogszabály szerinti sportszakemberekből álló háromfős bizottság kezeli.
 
-(5) A hivatásos állomány tagja jogosult az egészségi vagy pszichológiai állapotára vonatkozó vizsgálat teljes dokumentációját megismerni, és kérelmére annak másolatát az általános adatvédelmi rendelet 15. cikk (3) bekezdésében foglaltak szerint rendelkezésére kell bocsátani.
+(5) A hivatásos állomány tagja jogosult az egészségi vagy pszichológiai állapotára vonatkozó vizsgálat teljes dokumentációját megismerni, és kérelmére annak másolatát a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 15. cikk (3) bekezdésében foglaltak szerint rendelkezésére kell bocsátani.
 
 (6) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat, továbbá a rangsor továbbítható. Ha az alkalmassági vizsgálatot az állományilletékes parancsnok kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi, pszichológiai adatot is jogosult kezelni, és az egészségügyi valamint a pszichológiai adatot az eljárásban részt vevő orvos és pszichológus, az orvosi bizottság, valamint pszichológusokból álló háromfős bizottság részére továbbíthatja.
 
@@ -1753,6 +1771,14 @@ továbbítható.
 (8) Az (1) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adat, egészségügyi adat a szolgálati viszony megszűnését követő tizedik év december 31-ig kezelhető. Ha a szolgálati viszony létesítésére nem kerül sor, a szolgálati viszony létesítését célzó alkalmassági vizsgálat során az egészségi, pszichológiai és fizikai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított két éven belül meg kell semmisíteni.
 
 (9) Ha az alkalmassági vizsgálatot végző orvos, pszichológus, orvosi bizottság, valamint pszichológusokból álló háromfős bizottság a vizsgálat során kábítószer fogyasztására utaló körülményeket észlel, arról – kizárólag a felmerült gyanú tényének közlésével – az állományilletékes parancsnokot köteles értesíteni. Az állományilletékes parancsnok az így tudomására jutott egészségügyi adatot is jogosult kezelni. Az adatokat törölni kell, ha az adatok átvételét követő kilencven napon belül méltatlansági, fegyelmi vagy büntetőeljárás nem indul.
+
+107/A. § (1) Az egészségi, pszichológiai és fizikai alkalmasságvizsgálati rendszert informatikai rendszer támogatja.
+
+(2) Az (1) bekezdés szerinti informatikai rendszer működtetéséért a rendészetért felelős miniszter felel.
+
+(3) A rendészetért felelős miniszter és az Országgyűlés elnöke a munkáltatói jogainak gyakorlása, valamint munkáltatói intézkedés megtétele céljából az (1) bekezdés szerinti informatikai rendszerhez hozzáférni jogosult.
+
+(4) Az (1) bekezdés szerinti informatikai rendszerben az egészségi, pszichológiai és fizikai alkalmasságvizsgálatok eredményét a hivatásos állomány tagját foglalkoztató rendvédelmi szerv – a 107. § (1) bekezdés szerinti célból – tartja nyilván, és azokat harmadik személynek kizárólag az érintett írásbeli hozzájárulásával adhatja át.
 
 #### 64. Összeférhetetlenség
 
@@ -2114,6 +2140,26 @@ hatályos.
 
 (9) Vezetői beosztás betöltésére rész-szolgálatteljesítési idő nem engedélyezhető.
 
+138/A. § (1) A 138. §-ban foglaltakon túl a hivatásos állomány legalább hat hónap szolgálati viszonnyal rendelkező tagja rész-szolgálatteljesítési időben történő foglalkoztatását kérelmezheti
+
+- a) a gyermeke nyolcadik életévének betöltéséig a gyermek gondozása, vagy
+- b) a gyermeke, szülője, házastársa, élettársa vagy vele közös háztartásban élő, súlyos egészségügyi okból jelentős mértékű – a hivatásos állomány tagja által személyesen ellátott – gondozása
+
+céljából.
+
+(2) Az (1) bekezdés szerinti rész-szolgálatteljesítés során a 138. §-ban foglalt szabályokat kell alkalmazni azzal az eltéréssel, hogy
+
+- a) a 138. § (1) bekezdésében foglaltaktól eltérően a hivatásos állomány tagja a kérelmet a feltétel fennállta esetén bármikor előterjesztheti,
+- b) a 138. § (2) bekezdésében foglaltaktól eltérően a rendvédelmi szerv nem köteles az eredeti szolgálati beosztás helyett eltérő szolgálati beosztást felajánlani,
+- c) a 138. § (4) bekezdésében foglaltaktól eltérően a hivatásos állomány tagja és a rendvédelmi szerv megállapodik a rész-szolgálatteljesítési idő kezdő időpontjában,
+- d) a 138. § (6) bekezdésében foglaltaktól eltérően a kérelmet a rész-szolgálatteljesítés kezdő időpontját megelőző legalább hatvan nappal korábban kell előterjeszteni,
+- e) a 138. § (6) bekezdés a) pontjában foglaltaktól eltérően a hivatásos állomány tagja köteles a kérelmet indokolni, a gondozási feladatokat megjelölni, illetve az (1) bekezdés b) pontja szerinti esetben a súlyos egészségügyi ok fennállását igazolni,
+- f) a 138. § (8) bekezdésében foglaltaktól eltérően az engedély az (1) bekezdés szerinti feltétel fennállásáig, vagy – ha az rövidebb – a kérelemben megjelölt időpontig tart.
+
+(3) A munkáltatói jogkör gyakorlója mérlegelési jogkörében dönt a kérelemről, amelyet elutasítás, elhalasztás vagy részleges teljesítés esetén indokolni köteles.
+
+(4) A fennálló rész-szolgálatteljesítés során a hivatásos állomány tagja a körülményekben bekövetkezett változás alapján kérheti az eredeti szolgálatteljesítési időhöz történő – a (2) bekezdés c) pontja szerinti megállapodásban meghatározott időtartam lejárta előtt – visszatérését. A munkáltatói jogkör gyakorlója szolgálatszervezési okból a hivatásos állomány tagjának visszatérésére vonatkozó kérelmében megjelölt időponttól eltérő időpontot is meghatározhat, amelyről a hivatásos állomány tagját írásban tájékoztatni köteles.
+
 #### 74. Túlszolgálat
 
 139. § (1) Ha a szolgálati érdek vagy rendkívüli eset – így különösen tömegbaleset, elemi csapás, katasztrófa vagy súlyos kár megelőzése, elhárítása, következményeinek felszámolása, továbbá egyéb, a köz- és vagyonbiztonságot veszélyeztető, előre nem látható körülmény bekövetkezése – szükségessé teszi, a hivatásos állomány tagja a 134. §-ban meghatározott szolgálatteljesítési időn túl, valamint a munkaszüneti és pihenőnapon is kötelezhető arra, hogy szolgálatot teljesítsen (a továbbiakban: túlszolgálat).
@@ -2199,9 +2245,22 @@ munkanap pótszabadság illeti meg.
   - cc) a gyám,
   - cd) a nevelőszülő és a helyettes szülő.
 
-145. § (1) Gyermeke születése esetén öt munkanap – ikergyermekek esetében hét munkanap – pótszabadság illeti meg az apát, amelyet legkésőbb a születést követő második hónap végéig, a kérésének megfelelő időpontban kell kiadni. A szabadság akkor is megilleti, ha a gyermek halva születik vagy meghal. A pótszabadság tartamára távolléti díj jár.
+145. § (1) Gyermeke születése esetén apasági szabadságként tíz munkanap pótszabadság illeti meg az apát, amelyet
 
-(2) Az (1) bekezdés alkalmazása során apán a szülői felügyeleti jogot gyakorló vér szerinti vagy örökbefogadó apát kell érteni.
+- a) legkésőbb a születést követő második hónap végéig,
+- b) a kérésének megfelelő időpontban, és
+- c) legfeljebb két részletben
+
+kell kiadni.
+
+(2) Az apát az apasági szabadság akkor is megilleti, ha a gyermek halva születik vagy meghal. Az apasági szabadság tartamára távolléti díj jár.
+
+(3) Az (1) bekezdés alkalmazása során apán
+
+- a) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti apai jogállású férfit, vagy
+- b) az örökbefogadó férfit
+
+kell érteni.
 
 146. § (1) A hivatásos állomány tagja a folyamatos és átlagon felüli fizikai, pszichikai igénybevételéből származó egészségkárosodás megelőzése, valamint a fizikai állóképességének megőrzése céljából a 143. § szerinti pótszabadságon felül tizennégy nap rekreációs célú pótszabadságra jogosult, ha
 
@@ -2244,6 +2303,8 @@ teljesíti szolgálatát.
   - dc) háromévesnél idősebb, de hatévesnél fiatalabb gyermek esetén a c) pont cb) alpontjában meghatározott mértékben,
   - dd) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek esetén a c) pont cc) alpontjában meghatározott mértékben.
 
+(1a) Az (1) bekezdés c) vagy d) pontja, illetve (2) bekezdés alapján gyermekápolás céljából igényelt egészségügyi szabadság tekintetében előzményként a gyermek előző születésnapjától a gyermek következő születésnapjáig e jogcímen egészségügyi szabadságon töltött napokat kell figyelembe venni.
+
 (2) A gyermek betegségére tekintettel az (1) bekezdésben foglaltakon túl a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 50. § (3) bekezdésének megfelelő alkalmazásával méltányosságból egészségügyi szabadság állapítható meg a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő tagja részére,
 
 - a) ha tizenkét éves, vagy annál idősebb, de tizennyolc évesnél fiatalabb beteg gyermekét otthon ápolja, vagy
@@ -2277,6 +2338,29 @@ teljesíti szolgálatát.
 
 (5) A nőnek – ha nem veszi igénybe a 148. §-ban engedélyezett egészségügyi szabadságot – a szoptatás első hat hónapjában naponta kétszer egy óra, ezután a kilencedik hónap végéig naponta egy óra munkaidő-kedvezmény jár. Ikrek esetében a munkaidő-kedvezmény az ikrek számának megfelelő mértékben jár.
 
+#### 79/A. Szülői szabadság
+
+149/A. § (1) A hivatásos állomány tagját – a (2) bekezdésben foglaltak figyelembevételével – gyermeke hároméves koráig negyvennégy munkanap szülői szabadság illeti meg.
+
+(2) A szülői szabadságra való jogosultság feltétele, hogy a hivatásos állomány tagjának szolgálati viszonya egy éve fennálljon.
+
+(3) A szülői szabadságot a hivatásos állomány tagja által megjelölt időpontban kell kiadni.
+
+(4) A hivatásos állomány tagja a szülői szabadság igénybevételére vonatkozó kérelmét a munkáltatói jogkör gyakorlója részére a szülői szabadság tervezett kezdő időpontját megelőzően legalább hatvan nappal köteles benyújtani. A kérelemben meg kell jelölni a szülői szabadság időszakának tervezett kezdetét és végét. A munkáltatói jogkör gyakorlója a kérelem elbírálásáról tíz munkanapon belül tájékoztatja a hivatásos állomány tagját.
+
+(5) A hivatásos állomány tagja az (1) bekezdés szerinti szülői szabadság terhére kérheti, hogy részére a 138. § szerinti rész-szolgálatteljesítés, vagy – ha annak feltételei fennállnak – a 153/A. § szerinti otthoni munkavégzés kerüljön meghatározásra az (1) bekezdésben meghatározott időtartam alatt.
+
+(6) A munkáltatói jogkör gyakorlója a (4) bekezdés szerinti kérelemben foglalt szülői szabadságot elhalaszthatja, ha
+
+- a) a kérelmet a (4) bekezdésben meghatározott, hatvanadik napon belül nyújtották be, vagy
+- b) szolgálatszervezési okból, ha a szülői szabadság kérelemben meghatározott időtartamban történő kiadása veszélyezteti a rendvédelmi szerv működését.
+
+(7) A munkáltatói jogkör gyakorlója a szülői szabadság elhalasztását haladéktalanul köteles írásban indokolni, amellyel egyidejűleg közli a hivatásos állomány tagjával a (6) bekezdés szerinti esetben a kiadás munkáltató által javasolt időpontját.
+
+(8) A (6) bekezdés szerinti halasztásról szóló döntés meghozatalát megelőzően a munkáltatói jogkör gyakorlója köteles a hivatásos állomány tagja részére felajánlani az (5) bekezdésben meghatározottak szerinti rész-szolgálatteljesítés vagy otthoni munkavégzés lehetőségére való áttérést.
+
+(9) A szülői szabadság idejére a hivatásos állomány tagja részére a távolléti díj 10%-ának megfelelő mértékű díjazást kell folyósítani, amelyet csökkenteni kell az erre az időszakra a hivatásos állomány tagjának megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
+
 #### 80. Illetmény nélküli szabadság
 
 150. § (1) A hivatásos állomány tagjának kérelmére illetmény nélküli szabadságot kell engedélyezni a gyermek gondozása céljából a szülési szabadság letöltését követő naptól, az állomány férfi tagjának a gyermeke születésétől, örökbefogadott vagy nevelt gyermek esetén az örökbefogadás vagy a nevelésbe vétel hivatalosan igazolt időpontjától
@@ -2286,8 +2370,9 @@ teljesíti szolgálatát.
 
 (2) Illetmény nélküli szabadságot kell engedélyezni a hivatásos állomány tagjának
 
-- a) a tartós, előreláthatólag harminc napot meghaladó ápolásra vagy gondozásra szoruló közeli hozzátartozójának otthoni ápolása, gondozása céljából, annak idejére, de legfeljebb két évig, feltéve, hogy az ápolást, gondozást személyesen végzi, valamint
-- b) a házastárs tartós külföldi kiküldetése esetén, annak tartamára.
+- a) a tartós, előreláthatólag harminc napot meghaladó ápolásra vagy gondozásra szoruló közeli hozzátartozójának otthoni ápolása, gondozása céljából, annak idejére, de legfeljebb két évig, feltéve, hogy az ápolást, gondozást személyesen végzi,
+- b) a házastárs tartós külföldi kiküldetése esetén, annak tartamára, valamint.
+- c) gyermeke, szülője, házastársa, élettársa vagy vele közös háztartásban élő, súlyos egészségügyi okból jelentős mértékű – a hivatásos állomány tagja által személyesen ellátott – gondozása vagy támogatása céljából évente legfeljebb öt munkanapra, feltéve, hogy a súlyos egészségügyi ok miatti jelentős mértékű gondozás vagy támogatás szükségességét a hivatásos állomány tagja előzetesen orvosi igazolással igazolja.
 
 (3) A hivatásos állomány tagjának kérelmére, méltányolható egyéni indokok alapján, így különösen nemzetközi szervezetek által kiírt pályázatok elnyerése esetén, – ha az a szolgálat érdekével nem esik egybe – a munkavégzés idejére az állományilletékes parancsnok mérlegelési jogkörében eljárva illetmény nélküli szabadságot engedélyezhet.
 
@@ -2307,7 +2392,7 @@ teljesíti szolgálatát.
 
 (2) A szabadság tartamának 50%-át egybefüggően, a 25%-át, de legalább tíz napot pedig a hivatásos állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a rendvédelmi szerv működőképességét ne veszélyeztesse. A rendvédelmi szerv az általa meghatározott szabadság kezdő napját harminc nappal előbb köteles közölni a hivatásos állomány tagjával.
 
-(3) A szabadságot az esedékesség évében kell kiadni. Szolgálati érdekből a szabadságot a tárgyévet követő év január 31-éig, kivételesen fontos szolgálati érdekből legkésőbb március 31-éig, a hivatásos állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni.
+(3) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – az esedékesség évében kell kiadni. Szolgálati érdekből a szabadságot a tárgyévet követő év január 31-éig, kivételesen fontos szolgálati érdekből legkésőbb március 31-éig, a hivatásos állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni.
 
 (4) A tárgyévre esedékes és a tárgyévben megkezdett, de a következő évre áthúzódó szabadságot a tárgyévi szabadságként kell figyelembe venni.
 
@@ -2318,6 +2403,8 @@ teljesíti szolgálatát.
 (7) Szabadság pénzbeni megváltására csak az (5) és (6) bekezdésben meghatározott esetben, valamint a szolgálati viszony megszűnésekor kerülhet sor.
 
 (8) Ha a hivatásos állomány tagjának szolgálati viszonya év közben kezdődik vagy szűnik meg, a hivatásos állomány tagja a szabadság arányos részére jogosult. Ha a hivatásos állomány tagja a tárgyévben az időarányosan járó szabadságnál többet vett igénybe – ide nem értve azt, akinek a szolgálati viszonya nyugállományba helyezésére vagy halálára tekintettel szűnik meg – a különbözetre kifizetett távolléti díjat köteles visszatéríteni.
+
+(9) A 145. § (1) bekezdése és a 289/P. § (10) bekezdése szerinti apasági szabadság, valamint a szülői szabadság pénzbeli megváltása nem lehetséges.
 
 #### 82. Tanulmányi munkaidő-kedvezmény
 
@@ -2468,7 +2555,7 @@ kell figyelembe venni.
 
 (5) Tartozásátvállalásnak csak pénzkövetelés esetén van helye. Munkáltatói tartozást a hivatásos állomány tagja nem vállalhat át.
 
-(6) A rendvédelmi szerv és a hivatásos állomány tagjának megállapodása alapján pénztartozás után kamat köthető ki. A kamat mértéke nem haladhatja meg a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) 6:47. §-a szerinti mértéket.
+(6) A rendvédelmi szerv és a hivatásos állomány tagjának megállapodása alapján pénztartozás után kamat köthető ki. A kamat mértéke nem haladhatja meg a Ptk. 6:47. §-a szerinti mértéket.
 
 165. § (1) A hivatásos állomány
 
@@ -3479,6 +3566,17 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 
 (4) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen a 45. § (4) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
 
+(5) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen
+
+- a) a 138/A. § szerinti rész-szolgálatteljesítés,
+- b) a 145. § (1) bekezdése szerinti apasági szabadság,
+- c) a 149. § szerinti szülési szabadság,
+- d) a 149/A. § szerinti szülői szabadság,
+- e) a 150. § (1) bekezdése szerinti gyermek gondozása céljából fizetés nélküli szabadság, vagy
+- f) a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság
+
+igénylése vagy igénybevétele miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
+
 271. § (1) A bíróság a szolgálati viszony megszüntetéséről hozott határozatot hatályon kívül helyezi, ha az felmentési tilalomba ütközik vagy egyébként jogellenes.
 
 (2) Ha a szolgálati viszonyt jogellenesen szüntették meg, a hivatásos állomány tagját olyan helyzetbe kell hozni, mintha a szolgálati viszony meg sem szűnt volna.
@@ -4162,7 +4260,7 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - b) lemondással,
 - c) azonnali hatályú lemondással,
 - d) felmentéssel,
-- e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, hivatásos szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+- e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, hivatásos szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 - f) más rendvédelmi szervhez történő áthelyezéssel,
 - g) azonnali hatállyal a próbaidő alatt.
 
@@ -4171,7 +4269,7 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 (6) A törvény erejénél fogva szűnik meg a rendvédelmi alkalmazott igazgatási jogviszonya, ha
 
 - a) az e törvényben és végrehajtási rendeleteiben meghatározott, az igazgatási jogviszony fenntartásához szükséges, a munkáltatói jogkör gyakorlója által a rendvédelmi alkalmazottnak előírt képzési és vizsgakötelezettség teljesítését önhibájából elmulasztotta,
-- b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
+- b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
 - c) az összeférhetetlenség megszüntetését elmulasztotta,
 - d) állami vezetővé nevezték ki,
 - e)
@@ -4238,6 +4336,7 @@ meghosszabbodik.
 - g) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének ideje, de legfeljebb ennek megkezdésétől számított hat hónap,
 - h) a törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó rendvédelmi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, vagy ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás,
 - i) a közeli hozzátartozó otthoni gondozása céljából kapott illetmény nélküli szabadság
+- j) az apasági szabadság és a 150. § (2) bekezdés c) pontja szerinti
 
 időtartama alatt.
 
@@ -4247,6 +4346,18 @@ időtartama alatt.
 - b) felmentését maga kérte.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó. A felmentés közlésének az tekintendő, amikor a felmentésről szóló írásba foglalt munkáltatói intézkedést a rendvédelmi alkalmazottnak kézbesítették.
+
+(4) A munkáltatói jogkör gyakorlója – a rendvédelmi alkalmazott kérelmére – indokolási kötelesség hiányában is megindokolja az igazgatási jogviszony megszüntetésére irányuló jognyilatkozatát, ha a rendvédelmi alkalmazott hivatkozása szerint az igazgatási jogviszony megszüntetésére
+
+- a) a 138/A. § szerinti rész-szolgálatteljesítés,
+- b) a 149. § szerinti szülési szabadság,
+- c) a 149/A. § szerinti szülői szabadság,
+- d) a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság, vagy
+- e) a 289/P. § (10) bekezdése szerinti apasági szabadság
+
+igénylése vagy igénybevétele miatt került sor.
+
+(5) A rendvédelmi alkalmazott a (4) bekezdés szerinti jognyilatkozat indokolását annak közlésétől számított tizenöt napon belül írásban kérheti. A munkáltatói jogkör gyakorlója az indokolást a kérelem kézhezvételétől számított tizenöt napon belül közli.
 
 288/I. § (1) A rendvédelmi alkalmazottat felmentése esetén – a (6) bekezdésben felsorolt kivételekkel – a felmentési időre járó távolléti díjon túl végkielégítés illeti meg.
 
@@ -4614,7 +4725,7 @@ jogviszonyban eltöltött időt.
 
 #### 115/Q. Munkaidő és pihenőidő
 
-289/I. § A rendvédelmi alkalmazottra a XII. Fejezet rendelkezései közül a 136–138. §-t, a 149–151. §-t, a 153. §-t és a 153/A. §-t megfelelően alkalmazni kell.
+289/I. § A rendvédelmi alkalmazottra a XII. Fejezet rendelkezései közül a 136–138/A. §-t, a 142. § (2) bekezdését, 144. § (4) bekezdését, a 149–151. §-t, a 152. § (9) bekezdést és a 153. §-t, valamint a 153/A. §-t megfelelően alkalmazni kell.
 
 289/J. § (1) A munkáltatói jogkör gyakorlója a munkavégzés rendjét a rendvédelmi szerv által ellátott feladatok mennyiségéhez és határidejéhez igazodóan alakítja ki.
 
@@ -4789,7 +4900,13 @@ munkanap pótszabadság jár.
 
 (9) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
-(10) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig tíz, ikergyermekek születése esetén tizenöt munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(10) Gyermeke születése esetén apasági szabadságként tíz, ikergyermekek esetén tizenöt munkanap pótszabadság illeti meg az apát, amelyet
+
+- a) legkésőbb a születést követő második hónap végéig,
+- b) a kérésének megfelelő időpontban, és
+- c) legfeljebb két részletben
+
+kell kiadni.
 
 (11) A nagyszülőnek unokája esetén legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, melyet kérésének megfelelő időpontban kell kiadni.
 
@@ -4805,7 +4922,16 @@ munkanap pótszabadság jár.
 
 (14) Az a rendvédelmi alkalmazott, aki vezetői pótszabadságra és a (7) és (8) bekezdés szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente három munkanap pótszabadságot is igénybe vehet.
 
-289/Q. § (1) A szabadságot esedékességének évében kell kiadni és kivenni.
+(15) Az apasági szabadság az apát akkor is megilleti, ha a gyermek halva születik vagy meghal. Az apasági szabadság tartamára távolléti díj jár.
+
+(16) A (10) bekezdés alkalmazása során apán
+
+- a) a Ptk. szerinti apai jogállású férfit, vagy
+- b) az örökbefogadó férfit
+
+kell érteni.
+
+289/Q. § (1) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – esedékességének évében kell kiadni és kivenni.
 
 (2) Az esedékesség évében kell kiadottnak tekinteni a szabadságot, ha igénybevétele az esedékesség évében megkezdődik és a szabadság következő évben kiadott része nem haladja meg az öt munkanapot.
 
@@ -4919,6 +5045,16 @@ időtartamát.
 289/V. § (1) A rendvédelmi alkalmazott az igazgatási jogviszonyból származó jogvita esetén keresettel fordulhat a bírósághoz.
 
 (1a) Ha a rendvédelmi alkalmazott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy az igazgatási jogviszonyát ténylegesen a 287/P. § (4a) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
+
+(1b) Ha a rendvédelmi alkalmazott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy az igazgatási jogviszonyát ténylegesen
+
+- a) a 138/A. § szerinti rész-szolgálatteljesítés,
+- b) a 149. § szerinti szülési szabadság,
+- c) a 149/A. § szerinti szülői szabadság,
+- d) a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság, vagy
+- e) a 289/P. § (10) bekezdése szerinti apasági szabadság
+
+igénylése vagy igénybevétele miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy az igazgatási jogviszony megszüntetésére nem ezen okból került sor.
 
 (2) A bíróság az igazgatási jogviszony megszüntetéséről hozott határozatot hatályon kívül helyezi, ha az felmentési tilalomba ütközik vagy egyébként jogellenes.
 
@@ -5415,7 +5551,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 #### 126. A hivatásos katasztrófavédelmi szerv hivatásos állományára vonatkozó szabályok
 
-327. § A hivatásos katasztrófavédelmi szerv hivatásos állományának tagjai szolgálatot teljesíthetnek a megyei, fővárosi és települési önkormányzatoknál, valamint a védelmi bizottságoknál is. A hivatásos állománynak a védelmi bizottsághoz vezényelt tagja esetében a 62. § (2) bekezdésében foglalt korlátozás nem alkalmazható.
+327. § A hivatásos katasztrófavédelmi szerv hivatásos állományának tagjai szolgálatot teljesíthetnek a vármegyei, fővárosi és települési önkormányzatoknál, valamint a védelmi bizottságoknál is. A hivatásos állománynak a védelmi bizottsághoz vezényelt tagja esetében a 62. § (2) bekezdésében foglalt korlátozás nem alkalmazható.
 
 328. § (1) A hivatásos katasztrófavédelmi szerv hivatásos állományának tagja tűzvédelmi szakértői jogosultsághoz kötött tevékenységet csak igazságszolgáltatási szerv vagy nyomozó hatóság felkérésére végezhet.
 
@@ -5519,7 +5655,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (8) A (6) és (7) bekezdésben meghatározott esetben a kifizetett jövedelem járulékalapot képező jövedelemnek minősül, amely után a hivatásos állomány tagja által fizetendő egyéni járulékokat a levont adó tartalmazza. A hivatásos állomány tagjának ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek nem kell erről a jövedelemről a hivatásos állomány tagja részére igazolást kiadnia. A kifizetőnek ezen adót, valamint a munkáltatót terhelő közterheket az adóhatóság felé nem kell személyre szólóan bevallania. A nemzetbiztonsági érdek és a személyi biztonsági feltételek érvényesítése érdekében a nemzetbiztonsági szolgálatok a hatóságok részére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdése szerinti külön megállapodás alapján teljesítik a nyugdíjjárulék fizetésével összefüggő adatszolgáltatási kötelezettségeiket.
 
-336/A. § (1) A polgári nemzetbiztonsági szolgálatot irányító miniszter előzetes jóváhagyásával a polgári nemzetbiztonsági szolgálat főigazgatója át nem ruházható hatáskörében, illetve a polgári nemzetbiztonsági szolgálat főigazgatója és helyettese esetében a miniszter a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
+336/A. § (1) A polgári nemzetbiztonsági szolgálatot irányító miniszter előzetes jóváhagyásával a polgári nemzetbiztonsági szolgálat főigazgatója át nem ruházható hatáskörében, illetve a polgári nemzetbiztonsági szolgálat főigazgatója és helyettese esetében a miniszter a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának, valamint a polgári nemzetbiztonsági szolgálathoz vezényelt hivatásos állomány tagjának az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
 
 (2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonást követően a polgári nemzetbiztonsági szolgálat hivatásos állományának tagját az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött beosztás alapján kell besorolni és illetményét megállapítani.
 
@@ -5528,6 +5664,12 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 (4) A személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (5) Visszavonás nélkül is megszűnik a személyi illetmény, ha a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának besorolása szerinti illetményének összege eléri a személyi illetmény összegét. Ebben az esetben a polgári nemzetbiztonsági szolgálat hivatásos állományának tagját az általa betöltött beosztás alapján kell besorolni, és illetményét megállapítani.
+
+(6) A személyi illetményben részesülők nem jogosultak a 158. § (1) bekezdése szerinti teljesítményjuttatásra.
+
+(7) A (6) bekezdés szerinti állomány esetében a 158. § (3) és a (3a) bekezdése nem alkalmazandó.
+
+(8) Amennyiben a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja részére személyi illetmény került megállapításra, úgy távolléti díjként részére a megállapított személyi illetmény távollét idejére számított időarányos része jár.
 
 337. § (1) A polgári nemzetbiztonsági szolgálatok esetében az elöljáró parancsa teljesítésének módjára a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott eltérő rendelkezéseket kell alkalmazni.
 
@@ -5568,7 +5710,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 11. meghatározza a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat,
 - 12. megállapítsa az egyéni teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait,
 - 13. megállapítsa a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést, valamint a Rendészeti Alap- és Szakvizsga Bizottságra, a rendészeti alapvizsga vizsgabiztosi névjegyzékére és a rendészeti szakvizsga vizsgabizottsági névjegyzékére vonatkozó rendelkezéseket,
-- 14. meghatározza a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat,
+- 14.
 - 15. meghatározza a hivatásos állomány tagjának lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének támogatása esetén a kölcsön feltételeit és az igénybevételre vonatkozó rendelkezéseket,
 - 16. meghatározza a hivatásos állomány tagja által felvett kölcsönhöz nyújtott, az állami készfizető kezességvállalásra vonatkozó további szabályokat,
 - 17. megállapítsa az országos parancsnok és helyettese, valamint az országos főigazgató és helyettese számára adható, valamint őket megillető juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét,
@@ -6040,6 +6182,8 @@ alakul át.
 
 (2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.
 
+363/B. § A 336/A. § (1) bekezdése szerinti személyi illetményben részesülő hivatásos állomány tagjának 2022. évi teljesítményértékelésére és minősítésére 2023. évben nem kerül sor.
+
 364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
 - 1. az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,
@@ -6048,7 +6192,7 @@ alakul át.
 - 4. az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló 1999. június 28-i 1997/70/EK tanácsi irányelvnek,
 - 5. a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 - 6. a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelvnek,
-- 7. a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelvnek
+- 7. a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -6192,6 +6336,13 @@ alakul át.
 (5) A Módtv3.-mal megállapított XXVII. Fejezet szerinti rendvédelmi tisztjelölti jogviszony alapján az illetmény 2022. augusztus 1. napjától illeti meg a rendvédelmi tisztjelöltet.
 
 (6) A tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
+
+368/B. § A hivatásos állomány tagja és a rendvédelmi alkalmazott 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvény (a továbbiakban: Módtv4.) hatálybalépésétől számított két hónapon belül jogosult az apasági szabadságot igénybe venni, ha a Módtv4. hatálybalépése előtt
+
+- a) az apasági szabadságot nem vette igénybe, vagy
+- b) az apasági szabadságot igénybe vette, annak és a Módtv4. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+368/C. § Ha a hivatásos állomány tagjának és a rendvédelmi alkalmazottnak gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a munkáltatói jogkör gyakorlója a szülői szabadságot – a hivatásos állomány tagja és a rendvédelmi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
 
 #### 369. §
 
@@ -6385,7 +6536,7 @@ a hivatásos szolgálati viszonyt létesítő személy kifogástalan életvitele
 | Társaságban való részvétel formája: |  |  |  |
 |  |  |  |  |
 | VI. A jelentkező jövedelmi és vagyoni viszonyaira vonatkozó adatok |  |  |  |
-| A jelentkezőnek a jelentkezést megelőző egy évben szerzett jövedelmei: |  | Munkajövedelem Befektetésből származó jövedelem Gazdasági társaságból származó jövedelem Szociális vagy munkanélküli ellátás Ösztöndíj Egyéb forrás (pl. vagyonértékesítés, jogdíj) Eltartott |  |
+| A jelentkezőnek a jelentkezést megelőző egy évben szerzett jövedelmei: |  | Munkajövedelem Befektetésből származó jövedelem Gazdasági társaságból származó jövedelem Szociális vagy álláskeresési ellátás Ösztöndíj Egyéb forrás (pl. vagyonértékesítés, jogdíj) Eltartott |  |
 | A jelentkezést megelőző egy év havi nettó átlagos jövedelme: |  |  |  |
 | A jelentkező tulajdonában lévő ingatlanok, ingatlanrészek: |  |  |  |
 | Tulajdonában lévő jelentősebb (legalább 300 000 Ft) értékű ingóságok és vagyoni értékű jogok: |  |  |  |

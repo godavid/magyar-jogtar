@@ -24,7 +24,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - d) kapcsolati kód: a különböző célú adatkezelések közötti törvényes kapcsolat elősegítésére, megvalósítására képzett ideiglenes számjegysor;
 - e) társadalombiztosítási szerv: az egészségbiztosítási szerv, rehabilitációs hatóság, a nyugdíjbiztosítási igazgatási szerv, valamint a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti társadalombiztosítási feladatokat ellátó szervek;
 - f) egészségügyi ellátóhálózat szerve: az egészségügyi szolgáltatást nyújtó szerv vagy polgár, függetlenül attól, hogy tevékenységét milyen szervezeti vagy tulajdoni formában végzi;
-- g) szociális igazgatás szerve: a települési és a megyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
+- g) szociális igazgatás szerve: a települési és a vármegyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
 - h) munkaügyi igazgatás szerve: az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság;
 - i) összerendelési bejegyzés: a természetes személy összerendelési nyilvántartásba történő felvétele céljából az összerendelési nyilvántartás működtetője által képzett nyilvántartási elemi egység, amely biztosítja az összerendelési kapcsolati kódokat képező nyilvántartások egy személyhez tartozó adatelemeihez tartozó titkosított összerendelési kapcsolati kódokkal történő kiegészítését és tárolását.
 
@@ -104,8 +104,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - k) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásának nyilvántartási azonosítója,
 - l)
 - m) oktatási azonosító szám,
-- n) a fővárosi és megyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
-- o) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód,
+- n) a fővárosi és vármegyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
+- o) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód,
 - p) az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosító szám (a továbbiakban: FELIR azonosító)
 
 (3) A természetes személyhez tartozó új összerendelési bejegyzés felvételét a (2) bekezdés a), b) és k) pontja szerinti azonosító képzésére jogosult nyilvántartás adatkezelője kezdeményezi.
@@ -310,7 +310,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (9) A kincstár haladéktalanul, elektronikus úton értesíti az Elektronikus Egészségügyi Szolgáltatási Tér működtetőjét a nyilvántartásában szereplő polgár elhalálozásáról.
 
-22. § Azt a polgárt, aki nem rendelkezik TAJ számmal, de jogosulttá válik egészségügyi szolgáltatásra, munkanélküli vagy szociális ellátásra, külön kérelemre külön törvény alapján, a kincstár TAJ számmal látja el.
+22. § Azt a polgárt, aki nem rendelkezik TAJ számmal, de jogosulttá válik egészségügyi szolgáltatásra, álláskeresési vagy szociális ellátásra, külön kérelemre külön törvény alapján, a kincstár TAJ számmal látja el.
 
 23. § A TAJ számot a következő szervek az alábbiakban meghatározott célból kezelhetik:
 
@@ -319,7 +319,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - c) az egészségügyi ellátóhálózat szerve az alap- és szakellátással, a gondozóhálózati ellátással, a vérellátással és a mentéssel kapcsolatban, továbbá a közegészségügyi-járványügyi érdekből végzett feladatával összefüggésben, valamint a szociális intézmény a szakellátással kapcsolatos feladatának ellátása céljából;
 - d) az egészségügyi államigazgatási szerv, közegészségügyi-járványügyi, valamint jogszabályban meghatározott szociális feladata ellátása érdekében;
 - e) a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, a szociális, gyermekjóléti és gyermekvédelmi intézmény vezetője, a szociális, gyermekvédelmi ellátás megállapításával és folyósításával, valamint a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben;
-- f) a munkaügyi igazgatás szerve a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
+- f) a munkaügyi igazgatás szerve az álláskeresési ellátással, a foglalkoztatást elősegítő támogatással és foglalkoztatást elősegítő szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
 - g) a fogva tartó szerv, a fogvatartott egészségügyi szolgáltatásra jogosultsága keletkezésével, megszűnésével összefüggő adatszolgáltatás, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 - h) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
 - i) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv a családtámogatási ellátások, a fogyatékossági támogatás, a vakok személyi járadéka, a bányászati keresetkiegészítés megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során, továbbá a nagycsaládos gázdíjkedvezmény ügyében eljáró szerv a nagycsaládos gázdíjkedvezmény megállapításával, érvényesítésével és a jogszerű igénybevétel ellenőrzésével összefüggésben;
@@ -348,7 +348,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - f) az egészségügyi ellátóhálózat szerve, az egészségügyi államigazgatási szerv részére a közegészségügyi-járványügyi feladatokkal összefüggésben;
 - g) az egészségügyi ellátóhálózat szerve a 23. § e) pontja szerinti szerveknek a szociális ellátás megállapításával összefüggésben;
 - h) a 23. § e) pontja szerinti szervek egymás között, továbbá az állami foglalkoztatási szerv, a 23. § e) pontja szerinti szervek részére a szociális ellátás megállapításával és folyósításával összefüggésben;
-- i) a munkaügyi igazgatás szerve, a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett munkáltató, e tevékenységével összefüggésben;
+- i) a munkaügyi igazgatás szerve, az álláskeresési ellátással, a foglalkoztatást elősegítő támogatással és foglalkoztatást elősegítő szolgáltatással kapcsolatos tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett munkáltató, e tevékenységével összefüggésben;
 - j) a fogva tartó szervek egymás között, továbbá az egészségügyi ellátó hálózat szervének a fogvatartott egészségügyi szolgáltatásra jogosultságának keletkezésével, megszűnésével összefüggő adatszolgáltatása, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 - k) a kincstár a 20. § (2) bekezdés g) pontjában, valamint a 21. § (7a) bekezdésben meghatározott feladatai teljesítéséhez;
 - l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szervei a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához;
@@ -475,7 +475,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, nyilvántartás jogcíme adatainak, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról;
 - k) a kincstárnak és az egészségbiztosítási nyilvántartásokat vezető szervnek jogszabályban meghatározott feladatai ellátásához a polgár elhalálozásának tényéről, helyéről és idejéről.
 - l) a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény alapján kezelt adatbázisában szereplő adatszolgáltató természetes személy családi és utónevének, születési nevének, anyja nevének, nemének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének, családi állapotának változásáról, azok időpontjáról, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyéről, az érintett elhalálozásáról, a külföldön történő letelepedésről, a nyilvántartásba bekerülés és a nyilvántartásból való kikerülés okáról, idejéről.
-- m) az adatváltozás-kezelési szolgáltatónak a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 20/T. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár
+- m) az adatváltozás-kezelési szolgáltatónak a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 15. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár
   - ma) családi és utónevének,
   - mb) születési nevének,
   - mc) anyja nevének,

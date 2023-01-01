@@ -49,6 +49,14 @@ e törvény alapján 2022. január 1. napjával ingyenesen, nyilvántartási ér
 
 (4) Ha a visszavásárlási jog jogosultja a visszavásárlási jogát gyakorolja, az ingatlanért általa fizetett visszavásárlási vételár az MR Közösségi Lakásalap NKft.-t illeti meg.
 
+1/C. § (1) Azok az 1. § (1)–(3) bekezdése szerinti ingatlanok, valamint az 1. § (1) bekezdés c) pontja szerinti ingatlanokban található ingóságok, amelyek MR Közösségi Lakásalap NKft. részére történő tulajdonba adására az 1. § (1)–(3) bekezdésében foglalt határidők szerint e törvény alapján nem került sor, ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap NKft. tulajdonába adhatóak.
+
+(2) Az (1) bekezdés szerinti ingatlan és ingó vagyonelemek ingyenes tulajdonba adásáról – az állami vagyon felügyeletéért felelős miniszter által előkészített javaslat alapján – a Kormány nyilvános határozattal dönt.
+
+(3) Az (1) bekezdés szerinti ingatlan és ingó vagyonelemek ingyenes tulajdonba adására az 1. § (5), (7)–(9) és (13) bekezdésében, az 1/B. §-ban, a 3/A. §-ban és az 5. § (3) bekezdésében foglalt rendelkezéseket alkalmazni kell.
+
+1/D. § Az 1/C. § szerinti ingyenes tulajdonba adás tekintetében nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés a) pontját és (5)–(8) bekezdését.
+
 2. § (1) A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosítása keretében a lakóingatlanoknak a részletvételi vásárlásával összefüggő, a 2018. évi CIII. törvény és végrehajtási rendelete szerinti közszolgáltatási szerződésben meghatározott egyes lebonyolítói és követeléskezelői feladatokat – az MR Közösségi Lakásalap NKft. feladatvállalása alapján – 2022. január 1-jétől az MR Közösségi Lakásalap NKft. látja el.
 
 (2) Az (1) bekezdés szerint átvállalt lebonyolítói és követeléskezelői feladatok ellátásáért, valamint a részletvevőkért végzett szociális, segítő-szolgáltató, mentori tevékenységéért az MR Közösségi Lakásalap NKft.-t közszolgáltatási szerződésben foglalt költségtérítés illeti meg.
@@ -77,10 +85,10 @@ e törvény alapján 2022. január 1. napjával ingyenesen, nyilvántartási ér
 
 (4) A 2018. évi CIII. törvény szerinti Lebonyolító 2021. december 1-ig átadja az MR Közösségi Lakásalap NKft.-nek a 2. § (1) bekezdése szerinti közszolgáltatási szerződésben meghatározott feladatai ellátásához szükséges 2. § (3) bekezdésében foglalt adatokat.
 
-6. § Az 1/A. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+6. § Az 1/A. § és 1/D. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 7. § Az 1. § (1)–(4) és (11) bekezdése, valamint a 2. § (2) bekezdése szerinti intézkedés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatást tartalmaz, amely az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat alapján nyújtható.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §

@@ -42,7 +42,7 @@ a következő törvényt alkotja:
 
 kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkezett változásokat tartalmazza.
 
-2. § Az 1. § (1) bekezdése szerinti eljárások közül az a), c), e)–j) és l) pontban meghatározott eljárások, valamint az anyakönyv vezetése és az apai elismerő nyilatkozatok nyilvántartásának vezetése közigazgatási hatósági eljárás.
+2. § Az 1. § (1) bekezdése szerinti eljárások közül az a), c), e)–j) és l) pontban meghatározott eljárások, valamint az elektronikus anyakönyv vezetése és az apai elismerő nyilatkozatok nyilvántartásának vezetése közigazgatási hatósági eljárás.
 
 2/A. § A hazai anyakönyvezés végzésére Kormány által kijelölt szerv eljárására a „Hazai anyakönyvezés” alcím eltérő rendelkezése hiányában az anyakönyvvezető eljárására vonatkozó szabályokat kell alkalmazni.
 
@@ -99,7 +99,12 @@ jogosult.
 - a) végzi a hazai anyakönyvezést,
 - b) dönt a névváltoztatási kérelemről és bejegyzi a névváltoztatást,
 - c) nyilatkozik a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez benyújtott külföldi okirat elfogadhatóságáról,
-- d) a hazai anyakönyvezés kivételével, teljesíti az anyakönyvi bejegyzést, ha annak alapja külföldi okirat – ide nem értve a személyazonosságot, illetve állampolgárságot igazoló okiratot –, kivéve, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó,
+- d) a hazai anyakönyvezés kivételével, teljesíti az anyakönyvi bejegyzést, ha annak alapja külföldi okirat – ide nem értve a személyazonosságot, illetve állampolgárságot igazoló okiratot –, kivéve, ha az anyakönyvi bejegyzés teljesítéséről való döntésre
+  - da) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet vagy
+  - db) a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+
+az irányadó,
+
 - e) teljesíti az anyakönyvi bejegyzést, ha annak alapja nem magyar állampolgár anyától származó gyermekre tett teljes hatályú apai elismerő nyilatkozat,
 - f) eljár a 12/B. § (2) bekezdésében meghatározott esetben,
 - g) töröl az apai elismerő nyilatkozatok nyilvántartásából.
@@ -140,7 +145,7 @@ jogosult.
 (2) A házassági névviselési forma módosítására
 
 - a) az elektronikus anyakönyvben szereplő bejegyzés esetén bármely anyakönyvvezető,
-- b) az elektronikus anyakönyvben még nem szereplő anyakönyvi bejegyzés esetén a nyilvántartó anyakönyvezető,
+- b) az elektronikus anyakönyvben még nem szereplő anyakönyvi bejegyzés esetén a nyilvántartó anyakönyvvezető,
 - c) az elektronikus anyakönyvben szereplő anyakönyvi bejegyzés vonatkozásában elektronikusan benyújtott kérelem esetén az anyakönyvi szerv
 
 illetékes.
@@ -158,7 +163,7 @@ illetékes.
 
 11. § (1) Az anyakönyvi eljárás lefolytatására és az anyakönyv vezetésére – e törvény eltérő rendelkezése hiányában – a nyilvántartó anyakönyvvezető illetékes. Amennyiben az anyakönyvbe történő adatbejegyzés, adatmódosítás, adattörlés az anyakönyvi szerv hatáskörébe tartozik, akkor arra az anyakönyvi esemény helye szerinti anyakönyvi szerv az illetékes.
 
-(2) Az elektronikus anyakönyvben szereplő anyakönyvi eseményt érintő kérelemre induló anyakönyvi eljárás lefolytatására és az adatváltozás bejegyzésére bármely anyakönyvvezető és anyakönyvi szerv illetékes.
+(2) Az elektronikus anyakönyvben szereplő anyakönyvi eseményt érintő, kérelemre induló anyakönyvi eljárás lefolytatására és az adatváltozás bejegyzésére bármely anyakönyvvezető és anyakönyvi szerv illetékes.
 
 (3) Az anyakönyvi eseményt érintő adatmódosítás esetén az eljáró anyakönyvvezető az elektronikus anyakönyvben szereplő, kapcsolódó születési, házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzésben történő adatmódosításra is illetékes.
 
@@ -229,7 +234,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (3c) A nem magyar nyelven kiállított okirat – az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglaltak kivételével, vagy ha e törvény, illetve az ügyfajtára vonatkozó jogszabály másként nem rendelkezik – csak hiteles magyar fordítással ellátva fogadható el.
 
-(3d) Az (1a) bekezdésben meghatározott esetben a hivatásos konzuli tisztviselő által jogszabályban meghatározott elektronikus úton a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv részére továbbított okirathoz nem szükséges fordítás, ha az okiratot az angol, a német vagy a francia nyelvek valamelyikén állították ki.
+(3d) A hazai anyakönyvezésre irányuló eljárásban nem szükséges fordítás az angol, német vagy francia nyelven kiállított okiratokhoz.
 
 (3e) Az anyakönyvi eljárásban a hivatásos konzuli tisztviselő előtt benyújtott okirat hiteles magyar fordítása helyett a külföldi okirat anyakönyvezés szempontjából lényeges tartalmáról készített hivatalos, kivonatolt fordítás is elfogadható.
 
@@ -239,7 +244,12 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) Az igazságügyért felelős miniszter a véleményt a megkeresést követő harminc napon belül adja meg, amelybe a külföldi hatóság megkeresése esetén az anyakönyvi eljárás felfüggesztésének időtartama nem számít bele.
 
-(3) Nem kérhető az igazságügyért felelős miniszter véleménye, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó.
+(3) Nem kérhető az igazságügyért felelős miniszter véleménye, ha az anyakönyvi bejegyzés teljesítéséről való döntésre
+
+- a) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet vagy
+- b) a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+
+az irányadó.
 
 ### Az anyakönyvi eljárásra vagy anyakönyvi okirat kiállítására irányuló kérelem benyújtása és az elektronikus kapcsolattartás
 
@@ -255,7 +265,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 - d) utónevének módosítását,
 - e) – a kiskorú gyermekre kiterjedő névváltoztatás esetei kivételével – névváltoztatásának engedélyezését.
 
-(4) Az anyakönyvi okiratot a törvényes képviselő és a meghatalmazott elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.
+(4) Az anyakönyvi okiratot a törvényes képviselő és a meghatalmazott, valamint a halotti anyakönyvi kivonatot a hozzátartozó elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.
 
 ### Az állampolgárság vizsgálata és anyakönyvezése
 
@@ -279,7 +289,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 17. § (1) A házasságkötési szándék bármely anyakönyvvezetőnél bejelenthető.
 
-(2) A házasulók a házasságkötési szándékukat együttesen, személyesen jelentik be, amelyről az anyakönyvvezető a kormányrendeletben meghatározott adattartalmú jegyzőkönyvet vesz fel, amelyet a házasulók, az anyakönyvvezető és – ha közreműködött – a tolmács aláírnak. A tolmácsról az anyakönyvvezető gondoskodik. Kérelmükre tolmácsról a házasulók is gondoskodhatnak.
+(2) A házasulók a házasságkötési szándékukat – a (3) bekezdésben foglaltak kivételével – együttesen, személyesen jelentik be, amelyről az anyakönyvvezető a kormányrendeletben meghatározott adattartalmú jegyzőkönyvet vesz fel, amelyet a házasulók, az anyakönyvvezető és – ha közreműködött – a tolmács aláírnak. A tolmácsról az anyakönyvvezető gondoskodik. Kérelmükre tolmácsról a házasulók is gondoskodhatnak.
 
 (3) A magyarországi lakcímmel nem rendelkező házasuló vagy – ha a házasulók egyike sem rendelkezik magyarországi lakcímmel – az egyikük a házassági szándékát személyesen hivatásos konzuli tisztviselőnél is bejelentheti, amelyről a konzuli tisztviselő jegyzőkönyvet vesz fel, és azt a házasságkötés tervezett helye szerinti anyakönyvvezetőnek továbbítja.
 
@@ -317,7 +327,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) Ha a magyar állampolgár házasuló a házasságkötést követően nem a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét kívánja viselni, az anyakönyvvezető a házasságkötési szándék bejelentésével egyidejűleg – ha hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz a házasuló – felvételezi a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához szükséges arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot.
 
-(2a) Ha a magyar állampolgár házasuló a házasságkötést követően nem a házasságkötés előtt közvetlenül viselt nevét kívánja viselni, az anyakönyvvezető a házasságkötési szándék bejelentésével egyidejűleg tájékoztatja a házasulót a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/P. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
+(2a) Ha a magyar állampolgár házasuló a házasságkötést követően nem a házasságkötés előtt közvetlenül viselt nevét kívánja viselni, az anyakönyvvezető a házasságkötési szándék bejelentésével egyidejűleg tájékoztatja a házasulót a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 11. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
 
 (3) Ha a házasuló a házasság megkötéséig megváltoztatja a házassági név viselésére vonatkozóan tett nyilatkozatát, az anyakönyvvezető intézkedik az új nyilatkozatnak megfelelő aláírás, valamint szükség esetén a (2) bekezdésben meghatározott valamennyi adat felvételezéséről.
 
@@ -333,7 +343,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (3) A felek kérelmére a megállapodást az anyakönyvből törölni kell, kivéve, ha a felek házasságából gyermek született.
 
-(4) Ha a házasságból született gyermeknek névváltoztatást engedélyeztek, akkor ezt úgy kell tekinteni, mintha a házastársak a gyermekek családi nevére vonatkozó megállapodásukat módosították volna. A módosítást – a (2) bekezdés foglaltaktól eltérően – az elektronikus anyakönyvbe be kell jegyezni.
+(4) Ha a házasságból született gyermeknek névváltoztatást engedélyeztek, akkor ezt úgy kell tekinteni, mintha a házastársak a gyermekek családi nevére vonatkozó megállapodásukat módosították volna. A módosítást – a (2) bekezdésben foglaltaktól eltérően – az elektronikus anyakönyvbe be kell jegyezni.
 
 ### A házasságkötésnél való közreműködés megtagadása
 
@@ -409,7 +419,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 31. § (1) A bejegyzett élettársi kapcsolat létesítése iránti szándékot a fővárosi kerületi, a megyei jogú városi, valamint a járási hivatal székhelye szerinti képviselő-testület hivatalának anyakönyvvezetőjénél lehet bejelenteni.
 
-(2) A bejegyzett élettársi kapcsolat létesítése iránti szándékot együttesen, személyesen kell bejelenteni, amelyről az anyakönyvvezető a kormányrendeletben meghatározott adattartalmú jegyzőkönyvet vesz fel, amelyet a felek, az anyakönyvvezető, és – ha közreműködött – a tolmács aláírnak. A tolmácsról az anyakönyvvezető gondoskodik. Kérelmükre tolmácsról a felek is gondoskodhatnak.
+(2) A bejegyzett élettársi kapcsolat létesítése iránti szándékot – a (3) bekezdésben foglaltak kivételével – együttesen, személyesen kell bejelenteni, amelyről az anyakönyvvezető a kormányrendeletben meghatározott adattartalmú jegyzőkönyvet vesz fel, amelyet a felek, az anyakönyvvezető, és – ha közreműködött – a tolmács aláírnak. A tolmácsról az anyakönyvvezető gondoskodik. Kérelmükre tolmácsról a felek is gondoskodhatnak.
 
 (3) A magyarországi lakcímmel nem rendelkező fél vagy – ha a felek egyike sem rendelkezik magyarországi lakcímmel – az egyikük a bejegyzett élettársi kapcsolat létesítésére irányuló szándékát személyesen hivatásos konzuli tisztviselőnél is bejelentheti, amelyről a konzuli tisztviselő jegyzőkönyvet vesz fel, és azt a bejegyzett élettársi kapcsolat létesítésének tervezett helye szerinti anyakönyvvezetőnek továbbítja.
 
@@ -523,9 +533,9 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2a) Az a személy, akinek korábbi személyes joga alapján kettős családi nevét a magyar anyakönyvi szabályoktól eltérő írásmóddal anyakönyvezték, a magyar állampolgárság megszerzése után kérheti, hogy kettős családi nevét a magyar anyakönyvi szabályoknak megfelelő írásmóddal jegyezzék be az anyakönyvbe.
 
-(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek születési nemének megfelelő utónevet lehet a Nyelvtudományi Intézet által összeállított utónévjegyzékből. Az utónévjegyzéket a Nyelvtudományi Intézet a honlapján teszi közzé.
+(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek születési nemének megfelelő utónevet lehet a Nyelvtudományi Kutatóközpont által összeállított utónévjegyzékből. Az utónévjegyzéket a Nyelvtudományi Kutatóközpont a honlapján teszi közzé.
 
-(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti a Nyelvtudományi Intézet nyilatkozatát a kért utónév anyakönyvezhetőségéről. A Nyelvtudományi Intézet az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha a Nyelvtudományi Intézet nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
+(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti a Nyelvtudományi Kutatóközpont nyilatkozatát a kért utónév anyakönyvezhetőségéről. A Nyelvtudományi Kutatóközpont az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha a Nyelvtudományi Kutatóközpont nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
 
 (5) Az ugyanattól az anyától származó, ugyanazon a napon született gyermekek nem viselhetnek megegyező utónevet.
 
@@ -541,20 +551,20 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) Az utónév módosítására irányuló eljárásban az At. 49. § (2a)–(3) bekezdését, az 50. § (1) bekezdését, valamint az 50. § (2) bekezdés a)–c) pontját megfelelően alkalmazni kell.
 
-45. § (1) Az elektronikus anyakönyvbe magyar állampolgárnak – a (2) bekezdésben foglalt kivétellel – két utónevet lehet bejegyezni. Annak a magyar állampolgárnak, akinek a papír alapú születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, írásban nyilatkoznia kell, hogy melyik két utónevét vagy kizárólagosan melyik utónevét kívánja viselni. A nyilatkozattal az anyakönyvi bejegyzésben szereplő utónevek sorrendje módosítható. A nyilatkozat alapján a születési anyakönyvi bejegyzésben az adatváltozást át kell vezetni. Ha az érintett személy a nyilatkozatot nem teszi meg, az elektronikus anyakönyvbe a papír alapú anyakönyvben szereplő utónevei közül az első kettőt kell feltüntetni.
+45. § (1) Az elektronikus anyakönyvbe magyar állampolgárnak – a (2) bekezdésben foglalt kivétellel – két utónevet lehet bejegyezni. Annak a magyar állampolgárnak, akinek a papír alapú születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, írásban nyilatkoznia kell, hogy melyik két utónevét vagy kizárólagosan melyik utónevét kívánja viselni. A nyilatkozattal az anyakönyvi bejegyzésben szereplő utónevek sorrendje módosítható. Ha az érintett személy a nyilatkozatot nem teszi meg, az elektronikus anyakönyvbe a papír alapú anyakönyvben szereplő utónevei közül az első kettőt kell bejegyezni.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a magyar állampolgár nevének viselésére a más állampolgársága szerinti jog alapján jogosult.
 
 (3) Elhalt magyar állampolgár esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága anyakönyvi bejegyzését, ennek hiányában a személyazonosság igazolására alkalmas hatósági igazolványban szereplő utóneveket kell a viselt utónevek tekintetében alapul venni. Amennyiben az elhalt személy személyazonosság igazolására alkalmas hatósági igazolványa kizárólag egy utónevet tartalmaz, a haláleset anyakönyvezésekor az elhalt személy születési anyakönyvi bejegyzésben szereplő első két utónevet kell anyakönyvezni.
 
-(4) Az (1) bekezdésben meghatározott esetekben a születési – és 1953. január 1. előtti házassági bejegyzés esetében a házassági – anyakönyvben az elhalt utónevének bejegyzését a halálesetet nyilvántartó anyakönyvvezető értesítése alapján kell elvégezni.
+(4)
 
 46. § (1) A nemzetiséghez tartozó személy
 
-- a) kérheti a gyermek családi nevének a nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, és gyermekének az adott nemzetiségnek megfelelő utónevet adhat,
+- a) kérheti gyermeke családi nevének a nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, és gyermekének az adott nemzetiségnek megfelelő utónevet adhat,
 - b) kérheti az anyakönyvezett utóneve helyett az annak megfelelő nemzetiségi utónév bejegyzését,
 - c) kérheti az anyakönyvezett családi neve helyett az adott nemzetiségi nyelv szabályai szerint képzett családi név bejegyzését, és
-- d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven is bejegyezzék.
+- d) kérheti, hogy a családi és utónevét, illetve gyermeke családi és utónevét az adott nemzetiségi nyelven is bejegyezzék.
 
 (2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 
@@ -578,7 +588,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (3) Ha az egyik vagy mindkét házastárs születési családi neve vagy az előző házassági nevének a családi nevekből képzett része kéttagú, a házastársaknak nyilatkozniuk kell arról, hogy melyik két családi nevet kívánják összekapcsolt házassági névként viselni.
 
-(4) Ha a házasulók legkésőbb a házasság megkötéséig nem nyilatkoznak a házasságkötés után viselni kívánt házassági nevükről, házassági névként a házasságkötést megelőzően viselt nevüket kell bejegyezni.
+(4)
 
 (5) Ha a feleség a házasságkötést megelőzően olyan házassági nevet viselt, amelyet az újabb házasságkötést követően nem viselhet tovább és a házasság megkötéséig nem nyilatkozott a házasságkötés után viselni kívánt házassági nevéről, házassági névként a születési nevét kell bejegyezni.
 
@@ -666,7 +676,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (3) A születési név megváltoztatására irányuló kérelemben meg kell jelölni azt a családi, illetve utónevet, amelyet a kérelmező új névként kíván viselni.
 
-(4) A születési név megváltoztatására irányuló kérelem igazgatási szolgáltatási díja 10 000 forint. Az egy családhoz tartozó nagykorúak közös kérelme esetében az igazgatási szolgáltatási díjat minden nagykorúnak külön-külön kell megfizetnie.
+(4) A születési név megváltoztatására irányuló kérelem igazgatási szolgáltatási díja 10 000 forint.
 
 (5) A (4) bekezdés szerinti igazgatási szolgáltatási díjat az eljáró hatóság által megjelölt számlára kell megfizetni. Az igazgatási szolgáltatási díj nem minősül a központi költségvetés központosított bevételének, az az eljáró hatóság bevételét képezi.
 
@@ -708,7 +718,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (4) A szülő családi nevének korrekciója a szülők erre irányuló nyilatkozata, valamint kérelme esetén kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének korrekciója a szülők erre irányuló nyilatkozata, valamint kérelme alapján és korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a szülő családi nevét viselő korlátozottan cselekvőképes kiskorú gyermek családi nevére is.
 
-(5) Ha a családi név korrekciójával érintett házastárs nevét a másik házastárs valamilyen formában viseli, a módosítás rá is kiterjed.
+(5) Ha a családi név korrekciójával érintett házastárs nevét a másik házastárs valamilyen formában viseli, a családi név korrekciójának hatálya rá is kiterjed.
 
 ### V. Fejezet — AZ ANYAKÖNYVEK VEZETÉSE
 
@@ -718,7 +728,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 57. § (1) Az e törvény hatálybalépését követően bekövetkezett vagy az e törvény hatálybalépésekor az anyakönyvbe még be nem jegyzett anyakönyvi eseményekre vonatkozó bejegyzéseket az elektronikus anyakönyvbe kell teljesíteni.
 
-(2) A papír alapú anyakönyvben nyilvántartott anyakönyvi eseményt – a 60. § (1) bekezdésében foglalt kivétellel – a törvény hatálybalépését követően az anyakönyvi eljárás lefolytatásához, az anyakönyvi okiratok kiállításához az elektronikus anyakönyvbe be kell jegyezni.
+(2) A papír alapú anyakönyvben nyilvántartott anyakönyvi esemény adatait – a 60. § (1) bekezdésében foglalt kivétellel – a törvény hatálybalépését követően az anyakönyvi eljárás lefolytatásához, az anyakönyvi okiratok kiállításához az elektronikus anyakönyvbe be kell jegyezni.
 
 (3) Ha az anyakönyvi eljárás olyan születési, házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzést is érint, amelyet az eljáró anyakönyvvezető vagy hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv tart nyilván, akkor az anyakönyvi bejegyzés teljesítését megelőzően az érintett papír alapú anyakönyvi bejegyzés adatait az elektronikus anyakönyvbe be kell jegyezni.
 
@@ -825,7 +835,7 @@ a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt.
 - a) bevándoroltként, letelepedettként, menekültként vagy oltalmazottként nyilvántartott személy magyar hatóságok által kiállított személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személy idegenrendészeti hatóság által kiállított regisztrációs igazolását és a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 
-továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja, valamint a halottvizsgálati bizonyítvány eltemettetői példányát bemutatja.
+továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja.
 
 (2a) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató az idegenrendészeti vagy menekültügyi hatóság által kiállított, magyarországi tartózkodásra jogosító okmányokat, továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja.
 
@@ -838,7 +848,7 @@ továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben elj�
 
 (3) Az anyakönyvvezető az elhalt személy átadott személyazonosító igazolványát és a személyi azonosítóját és lakcímét igazoló hatósági igazolványát átlyukasztással – könyv formátumú személyazonosító igazolvány esetén az adatoldalakon elhelyezett érvénytelenségre utaló bélyegzőlenyomattal – érvényteleníti. Az anyakönyvvezető az általa érvénytelenített okmányokat erre irányuló kérelem esetén visszaadja az elhalt személy hozzátartozójának. Hamis vagy meghamisított okmányt visszaadni nem lehet. Az anyakönyvvezető a vissza nem igényelt érvénytelenített okmányokat, valamint a további, személyazonosság igazolására alkalmas hatósági igazolványt soron kívül, de legkésőbb három napon belül továbbítja a haláleset helye szerint illetékes járási hivatalnak.
 
-(4) A (2)–(2b) bekezdésben nem szereplő nem magyar állampolgár halálesetének anyakönyvezési eljárása során az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személynek vagy az ügyben eljáró temetkezési szolgáltatónak az elhalt személyazonosításra alkalmas okmányait az anyakönyvvezető részére be kell mutatnia. Az anyakönyvezető, az elhalt külföldi hatóság által kiállított úti okmányában lévő érvényes, magyarországi tartózkodásra jogosító vízumon, illetve a magyarországi tartózkodási jogosultságra vonatkozó egyéb bejegyzésen az egyedi elektronikus anyakönyvi azonosító feltüntetésével „érvénytelen” bejegyzést tesz, és a külföldi hatóságok által kiállított okmányokat a megjelent személynek visszaadja. A bejegyzés megtörténtének tényéről az úti okmány adatainak közlésével az idegenrendészeti és a menekültügyi hatóságot értesíti.
+(4) A (2)–(2b) bekezdésben nem szereplő nem magyar állampolgár halálesetének anyakönyvezési eljárása során az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személynek vagy az ügyben eljáró temetkezési szolgáltatónak az elhalt személyazonosításra alkalmas okmányait az anyakönyvvezető részére be kell mutatnia. Az anyakönyvvezető, az elhalt külföldi hatóság által kiállított úti okmányában lévő érvényes, magyarországi tartózkodásra jogosító vízumon, illetve a magyarországi tartózkodási jogosultságra vonatkozó egyéb bejegyzésen az egyedi elektronikus anyakönyvi azonosító feltüntetésével „érvénytelen” bejegyzést tesz, és a külföldi hatóságok által kiállított okmányokat a megjelent személynek visszaadja. A bejegyzés megtörténtének tényéről az úti okmány adatainak közlésével az idegenrendészeti és a menekültügyi hatóságot értesíti.
 
 (5) A haláleset anyakönyvezésére irányuló eljárásban az (1)–(2a) és (4) bekezdés szerinti időpontban a kormányrendeletben meghatározott adattartalommal jegyzőkönyvet kell felvenni.
 
@@ -861,7 +871,7 @@ megismerni.
 
 (4) Amennyiben az anya sem a bejelentés során, sem az anyakönyvvezető felhívásától számított tizenöt napon belül nem igazolja a személyazonosságát, vagy a szülő a bejelentési kötelezettségének az anyakönyvvezető felhívására sem tesz eleget, a születés anyakönyvezésére az ismeretlen szülőktől származó gyermekre irányadó rendelkezéseket kell alkalmazni.
 
-(5) Amennyiben az elhunyt személyazonosságának igazolására személyazonosságot igazoló okmány nem áll rendelkezésre és az elhunyt személyazonosságának megállapítására tett rendőrségi intézkedés nem vezetett eredményre, a haláleset anyakönyvezésére az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
+(5) Amennyiben az elhunyt személyazonosságának igazolására személyazonosságot igazoló hatósági igazolvány okmányazonosítója nem áll rendelkezésre és az elhunyt személyazonosságának tisztázására tett intézkedés nem vezetett eredményre, a haláleset anyakönyvezésére az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
 
 (6) Az anyakönyvvezető a házasságot és a bejegyzett élettársi kapcsolatot annak létrejöttét követően haladéktalanul anyakönyvezi.
 
@@ -879,7 +889,7 @@ megismerni.
 
 (11) Az anyakönyvi szerv az elektronikus úton előterjesztett házassági névviselési forma módosítására irányuló kérelem esetén az automatikus döntéshozatali eljárás szabályai szerint folytatja le az eljárást.
 
-64. § Ha az anyakönyvi bejegyzést nem a nyilvántartó anyakönyvvezető teljesítette, az anyakönyvi alapiratokat nyolc napon belül megküldi a nyilvántartó anyakönyvvezetőnek.
+64. § Ha az anyakönyvi bejegyzést nem a nyilvántartó anyakönyvvezető teljesítette, az anyakönyvi alapiratokat – az apai elismerő nyilatkozatok nyilvántartásába feltöltött elektronikus alapirat kivételével – nyolc napon belül megküldi a nyilvántartó anyakönyvvezetőnek.
 
 ### Hazai anyakönyvezés
 
@@ -992,11 +1002,15 @@ megismerni.
 - e) a megállapodást a születendő gyermek születési családi nevére,
 - f) az érvényes házasság magyar jog szerinti kezdő időpontját,
 - g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
-- h) a b) pontban meghatározott adatoknak a házasság fennállása alatt bekövetkezett változását, valamint a házasság megszűnését követően a házassági névviselési forma módosításának tényét és időpontját,
-- i) az e)–g) pontban szereplő adatok változását,
-- j) az adatot bejegyző személy nevét és felhasználói azonosítóját,
-- k) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
-- l) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+- h) a házasság fennállása alatt a b) pontban meghatározott adatokban bekövetkezett változást,
+- i) a házasság megszűnését követően
+  - ia) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági névviselési forma módosítása következtében történt változását és annak időpontját,
+  - ib) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági név megváltoztatása következtében történt változását és annak időpontját,
+  - ic) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak az utónév-módosítás következtében történt változását és annak időpontját,
+- j) az e)–g) pontban szereplő adatok változását,
+- k) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+- l) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
+- m) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
 
 (2) Ha a házasságkötést nyilvántartó anyakönyvvezető vagy a bíróság a házasság nem létezését állapítja meg, a házasságkötést nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a házassági anyakönyvi kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.
 
@@ -1128,13 +1142,15 @@ megismerni.
 
 (3) Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat törölni kell, ha az apai jogállást nem az apai elismerő nyilatkozat alapján töltötték be. Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat az apa adatait az anyakönyvbe bejegyző személy kezdeményezésére a nevének és felhasználói azonosítójának feltüntetésével a gyermek születési helye szerint illetékes anyakönyvi szerv, külföldön történt születés esetében pedig a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törli az apai elismerő nyilatkozatok nyilvántartásából.
 
-(4) Az anyakönyvvezető az előtte tett apai elismerő nyilatkozatot az apai elismerő nyilatkozatok nyilvántartásában rögzíti. Az apai elismerő nyilatkozatnak az apai elismerő nyilatkozatok nyilvántartásából kinyomtatott példányát az apa, az anya, a kiskorú apa, illetve anya törvényes képviselője, a tizennegyedik életévét betöltött gyermek, a kirendelt gondnok vagy gyám, a tolmács és az anyakönyvvezető aláírják. Az apai elismerő nyilatkozatot rögzítő anyakönyvvezető az apai elismerő nyilatkozat aláírt példányát megküldi a születést nyilvántartó anyakönyvvezetőnek.
+(3a) A születendő gyermekre tett apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat törölni kell, ha a magzat nem született meg vagy nem élve született. Az adatokat az apai elismerő nyilatkozatot rögzítő anyakönyvvezető illetékessége szerinti anyakönyvi szerv, az anyakönyvvezetőként kijelölt hivatásos konzuli tisztviselő által felvett és rögzített apai elismerő nyilatkozatot a felügyeletet gyakorló anyakönyvi szerv törli az apai elismerő nyilatkozatok nyilvántartásából.
+
+(4) Az apai elismerő nyilatkozat felvétele során rögzített adatokat tartalmazó jegyzőkönyvet az apa, az anya, a kiskorú apa, illetve anya törvényes képviselője, a tizennegyedik életévét betöltött gyermek, a kirendelt gondnok vagy gyám, a tolmács és az anyakönyvvezető aláírják. Az anyakönyvvezető az előtte tett apai elismerő nyilatkozatot az apai elismerő nyilatkozatok nyilvántartásában rögzíti.
 
 (5) A nem az anyakönyvvezető előtt tett apai elismerő nyilatkozat a (2) bekezdésben meghatározott adatokat, valamint az apa, az anya, a kiskorú apa, illetve anya törvényes képviselője, a tizennegyedik életévét betöltött gyermek, a kirendelt gondnok vagy gyám, a tolmács és a nyilatkozatot felvevő személy aláírását tartalmazza. Az apai elismerő nyilatkozatot felvevő szerv a nyilatkozat aláírt példányát 3 napon belül megküldi az adatok rögzítésére illetékes anyakönyvvezetőnek.
 
 (6) Ha a nem anyakönyvvezető előtt tett apai elismerő nyilatkozat az (5) bekezdésben foglaltakat nem tartalmazza, az anyakönyvvezető a nyilatkozatot felvevő szerv útján intézkedik a hiányosságok pótlásáról.
 
-(7) Ha az apai elismerő nyilatkozatot születendő gyermekre tették, a gyermek születésének az arra illetékes anyakönyvvezető általi anyakönyvezését követően az adatokat az apai elismerő nyilatkozatok nyilvántartásában rögzítő anyakönyvvezető – a gyermek születését nyilvántartó anyakönyvvezető megkeresésére – az apai elismerő nyilatkozat aláírt példányát megküldi a születést nyilvántartó anyakönyvvezetőnek.
+(7) Az apai elismerő nyilatkozatot rögzítő anyakönyvvezető az apai elismerő nyilatkozat aláírt példányát, valamint az apai elismerő nyilatkozat felvétele során keletkezett vagy benyújtott iratot elektronikus alapiratként feltölti.
 
 (8) Ha a megszületett gyermekre tett apai elismerő nyilatkozat teljes hatálya megállapítható, a rögzítő anyakönyvvezető, az adatok apai elismerő nyilatkozatok nyilvántartásában történő rögzítésével egyidejűleg a nyilatkozó férfi adatait az elektronikus anyakönyvbe apaként bejegyzi.
 
@@ -1409,7 +1425,7 @@ foglalt adatait tartja nyilván.
 
 - a) a nyilvántartó szerv az arra jogosultnak közvetlen hozzáférést biztosít,
 - b) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törvényben meghatározott kötelező adattovábbítást végez,
-- c) az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
+- c) az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 - d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
 - e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
@@ -1487,6 +1503,8 @@ foglalt adatait tartja nyilván.
 
 (5) Az állandó személyazonosító igazolvány kiadása céljából az eljáró hatóság az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a személy származási helyét, ha annak az állandó személyazonosító igazolványon történő feltüntetését a polgár kérelmezte.
 
+(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (10) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.
+
 81/E. § (1) A 81/B. § (1) bekezdés a) pontjában meghatározott célból a külpolitikáért felelős miniszter, a 81/C. § (1) bekezdés d) pontjában meghatározott célokból – a hagyatéki eljárás lefolytatása kivételével – a közjegyző, és a 81/D. § (1) bekezdésében meghatározott célokból az ott felsorolt szervek az örökbefogadott személynek csak az örökbefogadás következtében változatlan, valamint az örökbefogadás tényére utaló adatok kivételével az örökbefogadás következtében megváltozott adatait ismerhetik meg.
 
 (2) Az adatok az (1) bekezdésben meghatározott korlátozás nélkül megismerhetőek, ha
@@ -1523,7 +1541,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 ### Az adatigénylés alapján történő adattovábbítás feltételei
 
-84. § (1) Az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot, amely adatigénylő tekintetében törvény az adatok átvételét és kezelését az adatkezelés céljának és az átvehető adatok körének pontos meghatározásával előírja.
+84. § (1) Az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot, amely adatigénylő tekintetében törvény az adatok átvételét és kezelését az adatkezelés céljának és az átvehető adatok körének pontos meghatározásával előírja.
 
 (2) Adatigénylés alapján kizárólag abban az esetben továbbítható adat, ha az adatigénylő közölte a következő adatokat:
 
@@ -1535,7 +1553,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
   - ae)
 - b) az adatigénylő pontos megnevezését és címét.
 
-(3) Az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az anyakönyvi nyilvántartások rendszerében meghatározott adatok kezelésére feljogosított adatkezelő részére adatigénylésre az adatokat – törvény rendelkezése alapján – akkor továbbíthatja, ha az adatigénylő pontosan megjelöli az adatátvétel célját, továbbá azt az adatkört és azt a törvényi rendelkezést, amely tekintetében és amely rendelkezés szerint az igényelt adatok kezelésére törvény feljogosította.
+(3) Az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az anyakönyvi nyilvántartások rendszerében meghatározott adatok kezelésére feljogosított adatkezelő részére adatigénylésre az adatokat – törvény rendelkezése alapján – akkor továbbíthatja, ha az adatigénylő pontosan megjelöli az adatátvétel célját, továbbá azt az adatkört és azt a törvényi rendelkezést, amely tekintetében és amely rendelkezés szerint az igényelt adatok kezelésére törvény feljogosította.
 
 (3a) A nyilvántartó szerv adatigénylés alapján a 81/A. § (1) bekezdés a)–d) pontjában meghatározott szervek részére, az ott meghatározott célból az okirat-nyilvántartásból és a jogosultsági nyilvántartásból adatot továbbít.
 
@@ -1549,7 +1567,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 ### Értesítés
 
-87. § Az anyakönyvi szerv a 4. § (5) bekezdés i) pontja szerinti anyakönyvi bejegyzés teljesítését követően az anyakönyvi alapiratot haladéktalanul megküldi a nyilvántartó anyakönyvvezetőnek.
+87. § Az anyakönyvi szerv a 4. § (6) bekezdés d) és e) pontja szerinti anyakönyvi bejegyzés teljesítését követően az anyakönyvi alapiratot haladéktalanul megküldi a nyilvántartó anyakönyvvezetőnek.
 
 88. § Az anyakönyvi bejegyzést teljesítő anyakönyvvezető értesíti a gyámhatóságot
 
@@ -1559,7 +1577,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 89. § (1)
 
-(2) A 4. § (5) bekezdés f) pontja szerinti anyakönyvi szerv, valamint a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az 1980. december 31-ig vezetett anyakönyvben található bejegyzés lezárásáról a bejegyzés folyószámának és az anyakönyv azonosító adatainak továbbításával a Magyar Nemzeti Levéltárat az általa megjelölt formában értesíti. A levéltár az értesítés alapján a bejegyzést lezárja.
+(2)
 
 (3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
 
@@ -1651,7 +1669,7 @@ válnak bárki számára kutathatóvá.
 
 - a) az anyakönyvi eljárás lefolytatására és az anyakönyvi eljárásban való közreműködésre jogosult szerveket és személyeket, azok illetékességét és hatáskörét, a nyilvántartó szervet, valamint az anyakönyvi ügyekért felelős miniszter és a nyilvántartó szerv nyilvántartás működtetésével kapcsolatos együttműködésének kereteit,
 - b) az anyakönyvezéshez szükséges képesítési feltételeket,
-- c) a Nyelvtudományi Intézet által vezetett utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
+- c) a Nyelvtudományi Kutatóközpont által vezetett utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -1688,16 +1706,14 @@ részletes szabályait rendeletben állapítsa meg.
 
 (2)
 
-(3) E törvénynek az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi CLXVI. törvénnyel megállapított 27. § (2) bekezdését, valamint 39. § (2) bekezdését a hatálybalépését követően tett házasságkötésre vagy bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentése esetén kell alkalmazni.
+(3)
 
-101/B. § (1) Ha az egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel összefüggő módosításáról szóló 2020. évi CXXI. törvénynek (a továbbiakban: Módtv2.) a 20. §-t megállapító rendelkezése hatálybalépését megelőzően tett házasságkötési szándék bejelentése során a házasuló a házasságkötést követően viselni kívánt házassági névviselési formáról nem nyilatkozott vagy a korábban tett nyilatkozatot megváltoztatja, a házasságkötés tervezett helye szerint illetékes anyakönyvvezető a 20. § (2) bekezdésében foglaltaknak megfelelően jár el.
-
-(2) A Módtv2.-nek a 20. §-t megállapító rendelkezése hatálybalépését megelőzően tett házasságkötési szándék bejelentése esetén a házasságkötés tervezett helye szerint illetékes anyakönyvvezető – az (1) bekezdésben foglalt nyilatkozat hiányában – a házasuló erre irányuló kérésére felvételezi az arcképmást, az aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot és továbbítja a személyiadat- és lakcímnyilvántartásnak.
-
-(3) Amennyiben a házasuló a (2) bekezdésben foglaltak szerint a személyazonosságot igazoló okmány kiállításához szükséges adatok felvételezését nem kérte, azt a személyazonosságot igazoló hatósági igazolványok vonatkozásában hivatalbóli okmánykiállítást megakadályozó nyilatkozatnak kell tekinteni.
+#### 101/B. §
 
 ### Az Európai Unió jogának való megfelelés
 
-102. § A 80. § az európai demográfiai statisztikákról szóló, 2013. november 20-i 1260/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést tartalmaz.
+102. § (1) A 4. § (6) bekezdés d) pontja, valamint a 14/A. § (3) bekezdése a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtását szolgálja.
+
+(2) A 80. § az európai demográfiai statisztikákról szóló, 2013. november 20-i 1260/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést tartalmaz.
 
 ### 1. melléklet a 2010. évi I. törvényhez

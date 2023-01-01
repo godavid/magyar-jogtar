@@ -579,7 +579,9 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 
 #### 15.
 
-#### 17–18. §
+#### 17. §
+
+#### 18. §
 
 #### 16. Az állami hulladékgazdálkodást közvetítő szervezet
 
@@ -643,7 +645,9 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 
 (6) Az (1) bekezdés szerinti pályázatok, illetve szolgáltatásmegrendelések kedvezményezetteivel kötött szerződésben rendelkezni kell az állami hulladékgazdálkodást közvetítő szervezet 20 § (1) bekezdés f) pontjában foglalt ellenőrzési jogkör biztosításáról.
 
-#### 22/A–22/B. §
+#### 22/A. §
+
+#### 22/B. §
 
 22/C. § Nem állapítható meg a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ában foglalt tilalom megsértése az OGyHT-ben meghatározott feladatok végrehajtása érdekében 2012–2013. évben kiírt közbeszerzési eljárások során tanúsított magatartások vonatkozásában.
 
@@ -1441,7 +1445,7 @@ a) Akkumulátor
 |  | A | B |
 | --- | --- | --- |
 | 1. | Termékáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) |
-| 2. | Akkumulátor (elektrolittal feltöltött vagy fel nem töltött) | 44 |
+| 2. | Gumiabroncs | 12 |
 
 b) Csomagolószer
 
@@ -1609,7 +1613,7 @@ d) Gumiabroncs
 | 25. | 8704 31 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral működő, legfeljebb 5 tonna össztömegű | 15 | 40 | 11 | 22 | 6 000 |
 | 26. | 8704 32 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral működő, 5 tonna össztömeget meghaladó | 80 | 180 | 23 | 17 | 19 000 |
 | 27. | 8704 90 Más áruszállító gépjármű | 45 | 60 | 20 | 17 | 10 000 |
-| 28. | 8711 10 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; legfeljebb 50 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | 3 | 6 | 1 | 2 | 1 000 |
+| 28. | 8711 10 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; legfeljebb 50 cm3hengerűrtartalmú, dugattyús, belső égésű motorral működő | 3 | 6 | 1 | 2 | 1 000 |
 | 29. | 8711 20 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 50 cm3-t meghaladó, de legfeljebb 250 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | 4 | 10 | 2 | 6 | 1 500 |
 | 30. | 8711 30 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 250 cm3-t meghaladó, de legfeljebb 500 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | 4 | 10 | 3 | 10 | 2 000 |
 | 31. | 8711 40 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 500 cm3-t meghaladó, de legfeljebb 800 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | 4 | 11 | 4 | 14 | 2 500 |

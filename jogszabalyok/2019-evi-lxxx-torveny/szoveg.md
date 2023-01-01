@@ -1599,7 +1599,7 @@ kell kifutó jelleggel megszervezni.
 
 (10) Ha valamely szakma vagy szakképesítés tekintetében nincs
 
-- a) olyan akkreditált vizsgaközpont, amely az adott szakma vagy szakképesítés képzési területére akkreditált vizsgahelyszínnel rendelkezik a szakmai oktatás, illetve a szakmai képzés helyszíne szerinti vagy azzal közvetlenül szomszédos megyében vagy
+- a) olyan akkreditált vizsgaközpont, amely az adott szakma vagy szakképesítés képzési területére akkreditált vizsgahelyszínnel rendelkezik a szakmai oktatás, illetve a szakmai képzés helyszíne szerinti vagy azzal közvetlenül szomszédos vármegyében vagy
 - b) az akkreditált vizsgaközpont által a szakmai oktatás, illetve a szakmai képzés befejezésének időpontját követő harmadik hónap utolsó napjáig meghirdetett szakmai vizsga vagy képesítő vizsga,
 
 a szakmai vizsga és a képesítő vizsga megszervezéséről a szakképzésért felelős miniszter gondoskodik.

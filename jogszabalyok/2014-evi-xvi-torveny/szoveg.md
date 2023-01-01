@@ -1709,7 +1709,9 @@ engedélyezte a tervezett egyesülést.
 
 103. § (1) A befektetési jegy forgalomba hozatalának általános feltétele, hogy a befektetési alapkezelő a befektetési alap kezelési szabályzatát elfogadja.
 
-(2) A nyílt végű befektetési jegyek nyilvános forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a forgalomba hozatali eljárást megelőzően a Felügyelet által jóváhagyott, a 3. melléklet I. Fejezet szerinti kezelési szabályzatot, az 5. mellékletben foglaltaknak megfelelő tartalommal összeállított tájékoztatót, a 130. § szerinti kiemelt befektetői információt, a 104. § szerinti hirdetményt tegyen közzé. Semmis a befektetési jegy jegyzése, ha – a 105. § (1) bekezdésben foglalt kivétellel – a befektetési jegyet a Felügyelet által jóváhagyott tájékoztató, kezelési szabályzat, kiemelt befektetői információ vagy hirdetmény hiányában hozták nyilvánosan forgalomba.
+(2) A nyílt végű befektetési jegyek nyilvános forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a forgalomba hozatali eljárást megelőzően a Felügyelet által jóváhagyott, a 3. melléklet I. Fejezet szerinti kezelési szabályzatot, az 5. mellékletben foglaltaknak megfelelő tartalommal összeállított tájékoztatót, a 130. § szerinti kiemelt befektetői információt vagy helyette a (2a) bekezdés alapján alkalmazott a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1286/2014/EU rendelet) szerinti kiemelt információkat tartalmazó dokumentumot, valamint a 104. § szerinti hirdetményt tegyen közzé. Semmis a befektetési jegy jegyzése, ha – a 105. § (1) bekezdésben foglalt kivétellel – a befektetési jegyet a Felügyelet által jóváhagyott tájékoztató, kezelési szabályzat, kiemelt befektetői információ, kiemelt információkat tartalmazó dokumentum vagy hirdetmény hiányában hozták nyilvánosan forgalomba.
+
+(2a) Nem kell a (2) bekezdés szerinti kiemelt befektetői információt elkészíteni, ha a befektetési alapkezelő az 1286/2014/EU rendelet szerinti kiemelt információkat tartalmazó dokumentumot állít elő.
 
 (3) A zárt végű befektetési jegyek nyilvános forgalomba hozatalára a Tpt. Második Részének rendelkezései irányadók.
 
@@ -2092,6 +2094,8 @@ a Felügyelet ezekről a változásokról egy hónapon belül tájékoztatja a f
 (5) A kiemelt befektetői információt a jegyzési időszak kezdete előtt legalább 7 nappal megelőzően tartós adathordozón vagy honlapon a befektetők rendelkezésére kell bocsátani, kérésre nyomtatott példányát díjmentesen szerződéskötéskor át kell adni a befektetőknek, és a folyamatos forgalmazás alatt közzé kell tenni. A kiemelt befektetői információnak naprakésznek kell lennie.
 
 (6) A kiemelt befektetői információ részletes tartalma, formája, közzététele tekintetében a Bizottság 583/2010/EU rendeletének rendelkezéseit is figyelembe kell venni.
+
+(7) Ha a kiemelt befektetői információt tartalmazó dokumentum megfelel az 1286/2014/EU rendelet kiemelt információkat tartalmazó dokumentumokra irányadó követelményeknek, akkor teljesíti az (1)–(6) bekezdésben foglalt feltételeket.
 
 #### 50. A nyilvános befektetési alap rendszeres tájékoztatási, jelentési kötelezettségei
 
@@ -3126,6 +3130,7 @@ van összefüggésben.
 - f) az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.
 - g) az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irányelve a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról.
 - h) az Európai Parlament és a Tanács 2019. június 20-i (EU) 2019/1160 irányelve a 2009/65/EK és a 2011/61/EU irányelvnek a kollektív befektetési vállalkozások határokon átnyúló forgalmazása tekintetében történő módosításáról.
+- i) az Európai Parlament és a Tanács 2021. december 15-i (EU) 2021/2261 irányelve a 2009/65/EK irányelvnek a kiemelt információkat tartalmazó dokumentumok átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) alapkezelő társaságai általi használata tekintetében történő módosításáról.
 
 (2) E törvény
 
@@ -4409,5 +4414,3 @@ j) a 120/A. §-ban foglalt feladatok ellátására szolgáló lehetőségekre vo
 ### 18. melléklet a 2014. évi XVI. törvényhez
 
 ### 19. melléklet a 2014. évi XVI. törvényhez
-
-** a termék mindkét oldalán, egy-egy oldal felületének legalább 20%-át kitevő „BIOLÓGIAI ÚTON LEBOMLÓ SZEMETESZSÁK” felirattal ellátva.

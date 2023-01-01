@@ -76,6 +76,9 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 - 39. összerendelési nyilvántartás: a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvényben szabályozott összerendelési nyilvántartás;
 - 39a. piaci szereplők részére nyújtható központi állami szolgáltatás: olyan, az állam által nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet a Kormány rendeletében informatikai, hálózati és infrastrukturális közszolgáltatásra kijelölt szolgáltató nem közfeladat ellátása céljából, piaci alapon, az eredeti közszolgáltatással – a Kormány rendeletében meghatározott eltérésekkel technikai tartalomban – azonos módon nyújt;
 - 40. személyre szabott ügyintézési felület: a jogszabályban kijelölt szolgáltató által nyújtott olyan, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére;
+- 40a. szerepkör: a Kormány rendeletében meghatározott természetes személy közfeladatához kapcsolódó tulajdonság vagy minőség, így különösen tisztség, munkakör, beosztás, álláshely, képesítés, jogosultság;
+- 40b. szerepkör-nyilvántartás: a szerepkört jogszabályban meghatározott feltételeknek megfelelően igazoló, elektronikus nyilvántartás;
+- 40c. szerepkör-tanúsítvány: olyan, a szerepkör-tanúsító szolgáltató által kiállított igazolás, amely egy természetes személyre vonatkozóan alkalmas igazolni azt, hogy a személy az elektronikus aláírás dokumentumon rögzítése időpontjában a szerepkör-tanúsítványban megjelölt igazolt szerepkörrel rendelkezik;
 - 41. szolgáltatási szabályzat: a bizalmi szolgáltató nyilatkozata az egyes bizalmi szolgáltatások nyújtásával kapcsolatosan alkalmazott részletes eljárási vagy más működési követelményekről;
 - 42. szolgáltatási szerződés: a bizalmi szolgáltató és a bizalmi szolgáltatási ügyfél között létrejött szerződés, amely a bizalmi szolgáltatás nyújtására és a szolgáltatás igénybevételére vonatkozó feltételeket tartalmazza;
 - 43. tanúsítvány alany: a tanúsítványban a bizalmi szolgáltató által igazolt azonosságú vagy tulajdonságú személy, így különösen elektronikus aláírás tanúsítványa esetén az aláíró;
@@ -266,7 +269,7 @@ közokirat.
 
 (2) A gazdálkodó szervezet az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségének megváltozását a változás bekövetkezését megelőzően, a változás időpontjának megjelölésével bejelenti a rendelkezési nyilvántartásba.
 
-(3)
+(3) A gazdálkodó szervezet – ha működéséhez jogszabály által rendszeresített nyilvántartásba vétele kötelező – a Kormány rendeletében meghatározottak szerint, a Kormány rendeletében megjelölt, a gazdálkodó szervezet nyilvántartásba vételéért felelős szerv útján kezdeményezheti, hogy a jogszabály által rendszeresített nyilvántartásba vételi eljárással egyidejűleg kerüljön sor a Kormány rendeletében meghatározott, a hivatalos elérhetőséget biztosító szolgáltatás regisztrációjára.
 
 (4) A hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül,
 
@@ -470,7 +473,7 @@ követően végezhet elektronikus azonosításhoz kötött eljárási cselekmén
 - c) kapcsolattartási mód megválasztása, ideértve az ügyfél olyan tartalmú nyilatkozatait is, amely alapján az elektronikus ügyintézést biztosító szerv az ügyfél által megjelölt informatikai rendszer útján küldött üzenetet köteles az ügyfél nyilatkozatának tekinteni,
 - d) elektronikus dokumentumok titkosítására vonatkozó igény,
 - e) képviseletre vonatkozó jognyilatkozatok.
-- f) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/T. § (3) bekezdése szerinti automatizált adatváltozás-bejelentési szolgáltatás igénybevétele.
+- f) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 15. § (3) bekezdése szerinti automatizált adatváltozás-bejelentési szolgáltatás igénybevétele.
 
 (2) Az ügyfél az elektronikus ügyintézési rendelkezésében
 
@@ -828,7 +831,8 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - m) központi dokumentumhitelesítési ügynök,
 - n) általános célú elektronikus kéreleműrlap szolgáltatás,
 - o) összerendelési nyilvántartás.
-- p) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
+- p) szerepkör-tanúsító platform szolgáltatás,
+- q) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
 
 (2) Amennyiben a központi elektronikus ügyintézési szolgáltatás igénybevételéhez regisztráció szükséges, a regisztrációra jogszabály eltérő rendelkezése hiányában kizárólag elektronikus azonosítási szolgáltatással kerülhet sor. A regisztráció során az elektronikus azonosítási szolgáltató az igénybe vevő hozzájárulása alapján jogosult a kijelölt szolgáltató részére átadni a regisztrációhoz szükséges, az elektronikus azonosítási szolgáltató által kezelt személyes adatokat.
 
@@ -1785,6 +1789,24 @@ kell alkalmazni.
 
 100. § Ha az elektronikus aláírással vagy bélyegzővel ellátott elektronikus dokumentum archiválását minősített bizalmi szolgáltató végzi, az ellenkező bizonyításáig vélelmezni kell, hogy az elektronikus dokumentumon elhelyezett elektronikus aláírás, bélyegző vagy időbélyegző és az azokhoz kapcsolódó tanúsítvány az aláírás, bélyegző vagy időbélyegző elhelyezésének időpontjában érvényes volt.
 
+### XXI. Fejezet — A BIZALMI SZOLGÁLTATÁSOKHOZ KAPCSOLÓDÓ EGYES KÜLÖNÖS, BIZALMI SZOLGÁLTATÁSNAK NEM MINŐSÜLŐ SZOLGÁLTATÁSOK
+
+#### 59/A. Szerepkör tanúsítása
+
+100/A. § A közfeladat gyakorlása ellátása során eljáró természetes személy tanúsítvány alany (jelen alcímben a továbbiakban: alany) szerepkörét a Kormány rendeletében kijelölt szerepkör-tanúsító szolgáltató szerepkör-tanúsítvánnyal igazolhatja. A Kormány szerepkör-tanúsító szolgáltatóként kormányzati hitelesítési szolgáltatót jelölhet ki.
+
+100/B. § (1) Szerepkör-tanúsítvány alkalmazása esetén a szerepkör-tanúsító szolgáltató – az alany elektronikus, a szerepköre igazolására irányuló kérésével – a szerepkör-tanúsítvány kiállítása idejéig jogosult kezelni és a szerepkör-nyilvántartásból átvenni az alany azonosításához és a szerepkör igazolásához szükséges személyes adatokat. A szerepkör-tanúsítvánnyal összefüggő adatokat a szolgáltató köteles fizikailag és logikailag elkülöníteni.
+
+(2) A szerepkör-nyilvántartást vezető szerv az (1) bekezdés szerinti adatok szolgáltatását a szerepkör-tanúsító szolgáltató közreműködésével biztosítja.
+
+100/C. § (1) A Kormány a szerepkör-tanúsítványok egységes felhasználása érdekében – központi elektronikus ügyintézési szolgáltatásként – szerepkör-tanúsító platform szolgáltatást biztosít.
+
+(2) A szerepkör-tanúsító szolgáltató a szerepkör-tanúsítványt a szerepkör-tanúsító platform szolgáltatás útján biztosítja az alany számára.
+
+(3) A szerepkör-tanúsító platform szolgáltatás szolgáltatója a szerepkör-tanúsítvány kiállítása idejéig jogosult kezelni az alany azonosításához és a szolgáltató kiválasztásához szükséges személyes adatokat. A szerepkör-tanúsítvánnyal összefüggő adatokat a szolgáltató köteles fizikailag és logikailag elkülöníteni.
+
+100/D. § A szerepkör igazolásával, a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal, valamint a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat a Kormány rendeletben határozza meg.
+
 ## ÖTÖDIK RÉSZ — AZ ELEKTRONIKUS ÜGYINTÉZÉSRE VONATKOZÓ EGYES HÁTTÉRSZABÁLYOK
 
 101. § (1) Ha a 101–103. §-ban foglalt rendelkezésektől törvény vagy kormányrendelet eltérően nem rendelkezik, az 1. § 17. pont a)–i) alpontjában meghatározott szervek
@@ -1837,7 +1859,7 @@ egyidejűleg tartalmazza.
 
 (6) Az e § szerint előállított elektronikus kiadmány bizonyító ereje az alapul szolgáló papír alapú irattal megegyezik.
 
-104. §
+#### 104. §
 
 104/A. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben kijelölt központi szolgáltató, valamint a kormányzati célú hálózatokról szóló kormányrendeletben kijelölt kormányzati célú hírközlési szolgáltató (a továbbiakban együtt: központi szolgáltató) a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervek részére közszolgáltatásként nyújtja
 
@@ -1851,6 +1873,15 @@ egyidejűleg tartalmazza.
 - b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervnek
 
 kell biztosítani.
+
+(3) Az (1) bekezdéstől eltérően a Kormány rendeletében kijelölt rendvédelmi informatikai központi szolgáltató a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervek részére közszolgáltatásként nyújtja a rendvédelmi informatikai közszolgáltatások nyújtásáról szóló kormányrendelet szerinti közszolgáltatásokat, ha a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv vezetője ezek igénybevételét a rendészetért felelős miniszternél kezdeményezi.
+
+(4) A (2) bekezdéstől eltérően a (3) bekezdés szerinti szolgáltatások igénybevételének, a központi szolgáltató által nyújtott közszolgáltatás ellátásának a fedezetéül szolgáló forrást – a rendészetért felelős miniszter és a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv vezetője egyeztetésének eredményétől függően –
+
+- a) közvetlenül vagy a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv költségvetéséből történő átadással a rendészetért felelős miniszter által vezetett minisztérium költségvetésében, vagy
+- b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervnek kell biztosítani.
+
+(5) Ha a Kormány nem jelöl ki rendvédelmi informatikai központi szolgáltatót, a (3) és (4) bekezdésben foglalt feladatokat a Kormány az (1) és a (2) bekezdésben meghatározottak szerint biztosítja.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1879,6 +1910,7 @@ kell biztosítani.
 - s) az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos részletszabályokat.
 - t) a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszereket.
 - u) a 108. § (8) bekezdése szerinti időpontot.
+- v) a rendvédelmi informatikai közszolgáltatások körét és a rendvédelmi informatikai közszolgáltatások nyújtásának részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -1891,6 +1923,7 @@ kell biztosítani.
 - g) a 35. § (15a) bekezdése szerinti szervet,
 - h) az elektronikus ügyintézési pont működtetőjét.
 - i) a 17/A. § (1) bekezdése szerinti rendszert biztosító szervet.
+- j) a rendvédelmi informatikai központi szolgáltatót.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -1925,6 +1958,13 @@ kell biztosítani.
 - a) az önhibán kívüli akadályozottság hatálya alatt álló elektronikus ügyintézést biztosító szerveket,
 - b) azon, az a) pont szerinti szerv feladat- és hatáskörébe tartozó ügyeket, amelyek esetében az önhibán kívüli akadályozottság nem áll fenn, és
 - c) az önhibán kívüli akadályozottság időtartamát.
+
+(5b) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+- a) a szerepköröket, a szerepkör igazolásával kapcsolatos részletszabályokat,
+- b) a 100/A. § szerinti szolgáltatót,
+- c) a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal kapcsolatos részletszabályokat,
+- d) a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat.
 
 (6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért, a szabályozott elektronikus ügyintézési szolgáltatásokat érintő változások bejelentésért fizetendő igazgatási szolgáltatási díj mértékét, a díj megfizetésével, kezelésével, nyilvántartásával kapcsolatos szabályokat rendeletben állapítsa meg.
 
@@ -2025,9 +2065,9 @@ kell biztosítani.
 
 (7) A Negyedik Rész kivételével, ahol jogszabály minősített elektronikus bélyegzőt jelöl meg, azzal a (2) bekezdés szerinti átmeneti időszak alatt az Eat. szerinti minősített szervezeti elektronikus aláírást egyenértékűnek kell tekinteni.
 
-110/A. §
+#### 110/A. §
 
-110/B. §
+#### 110/B. §
 
 #### 63. Az Európai Unió jogának való megfelelés
 
@@ -2062,11 +2102,17 @@ kell biztosítani.
 
 lép.
 
-115–117. §
+#### 115. §
 
-118. §
+#### 116. §
 
-119–120. §
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
 
 121. § (1) Hatályát veszti
 

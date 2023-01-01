@@ -60,7 +60,7 @@ a közjegyzőkről
 
 (2) A kártérítés, illetve a sérelemdíj fedezetére legalább százmillió forint értékű felelősségbiztosítást kell kötni és azt a közjegyzői működés tartama alatt fenn kell tartani.
 
-(3) A felelősségbiztosítást annak kötelező értékéig a közjegyző – helyettesítés esetén a közjegyzőhelyettes, a nyugalmazott közjegyző vagy a nyugalmazott bíró – javára és érdekében a Magyar Országos Közjegyzői Kamara köti meg; a kiegészítő felelősségbiztosítás megkötésére a közjegyző jogosult.
+(3) A felelősségbiztosítást annak kötelező értékéig a közjegyző – helyettesítés esetén a közjegyzőhelyettes vagy a nyugalmazott közjegyző – javára és érdekében a Magyar Országos Közjegyzői Kamara köti meg; a kiegészítő felelősségbiztosítás megkötésére a közjegyző – helyettesítés esetén a közjegyzőhelyettes vagy a nyugalmazott közjegyző – jogosult.
 
 11. § A közjegyző a hivatalos iratain, névtábláján és bélyegzőjén jogosult az állami címer használatára.
 
@@ -69,7 +69,7 @@ a közjegyzőkről
 11/A. § (1) A területi közjegyzői kamara elnöksége hatáskörébe tartozó közigazgatási hatósági ügyek a következők:
 
 - a) bejegyzés a közjegyzőhelyettesek és közjegyzőjelöltek kamarai névjegyzékébe, törlés e névjegyzékekből, kivéve, ha a törlésre a közjegyzői fegyelmi bíróságnak a 72. § (2) bekezdésnek e) pontja szerinti jogerős határozata alapján kerül sor,
-- b) a közjegyzői iroda alapítási engedélyének megadása iránti eljárás,
+- b) a közjegyzői iroda alapítási engedélyének, a tagság létesítése iránti engedélynek a megadása, valamint ezen engedélyek visszavonása iránti eljárás,
 - c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyilvántartásból, kivéve, ha a törlésre a cégbíróságnak a közjegyzői irodát a cégjegyzékből törlő jogerős határozata alapján kerül sor, valamint
 - d) bejegyzés a közjegyzői irodai ügyintézők nyilvántartásába, törlés a nyilvántartásból,
 - e) a helyettesített közjegyző és az állandó helyettes, valamint a helyettesített közjegyző és a tartós helyettes közötti helyettesítési megállapodás jóváhagyása,
@@ -385,7 +385,7 @@ kezeli.
 
 25. § (1) A közjegyzői kar utánpótlását a közjegyzőjelöltek és a közjegyzőhelyettesek biztosítják.
 
-(2) A közjegyzőjelölt és a közjegyzőhelyettes a közjegyzővel áll munkaviszonyban.
+(2)
 
 (3) A közjegyző a 69. § (4) bekezdés szerinti első éves működési vizsgálat, vagy annak utóvizsgálata eredményes lezárását követően köthet egynél több személlyel közjegyzőhelyettesi munkakör betöltésére munkaszerződést.
 
@@ -418,12 +418,12 @@ kezeli.
 - a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
 - b) büntetlen előéletű,
 - c) olyan okleveles jogász szakképzettséggel rendelkezik, amely a jogi szakvizsga előfeltételének megfelel, és
-- d) igazolja, hogy a kamara területén működő közjegyzővel közjegyzőjelölti munkakör betöltésére munkaszerződést kötött,
+- d) igazolja, hogy a kamara területén működő közjegyző közjegyzői irodájával közjegyzőjelölti munkakör betöltésére munkaszerződést kötött,
 - e) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
 
 (2) A 17. § (3) bekezdésének rendelkezéseit a közjegyzőjelölt névjegyzékbe történő felvételénél is alkalmazni kell.
 
-27. § Közjegyzőhelyettesként a közjegyzői kamara névjegyzékébe azt a kérelmezőt lehet felvenni, aki a 26. § (1) bekezdés a)–c) és e) pontjában és (2) bekezdésében írt feltételeknek megfelel, jogi szakvizsgával rendelkezik, és igazolja, hogy a kamara területén működő közjegyzővel közjegyzőhelyettesi munkakör betöltésére munkaszerződést kötött.
+27. § Közjegyzőhelyettesként a közjegyzői kamara névjegyzékébe azt a kérelmezőt lehet felvenni, aki a 26. § (1) bekezdés a)–c) és e) pontjában és (2) bekezdésében írt feltételeknek megfelel, jogi szakvizsgával rendelkezik, és igazolja, hogy a kamara területén működő közjegyző közjegyzői irodájával közjegyzőhelyettesi munkakör betöltésére munkaszerződést kötött.
 
 27/A. § (1) A közjegyzőjelölt, valamint a közjegyzőhelyettes nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a közjegyzőjelölt, valamint a közjegyzőhelyettes tekintetében a 17. § (3) bekezdés a)–d) pontjában foglalt körülmény vizsgálata során a 17/A. §, valamint a 22/A. § rendelkezéseit kell megfelelően alkalmazni.
 
@@ -432,7 +432,7 @@ kezeli.
 - a) a tizennyolcadik életévét betöltötte,
 - b) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
 - c) büntetlen előéletű,
-- d) igazolja, hogy a kamara területén működő közjegyzővel közjegyzői irodai ügyintézői munkakör betöltésére munkaszerződést kötött, és
+- d) igazolja, hogy a kamara területén működő közjegyző közjegyzői irodájával közjegyzői irodai ügyintézői munkakör betöltésére munkaszerződést kötött, és
 - e) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
 
 28. § A közjegyzőjelölt és a közjegyzőhelyettes munkabérét a bírósági fogalmazó, illetve a bírósági titkár illetményére is figyelemmel kell megállapítani.
@@ -475,23 +475,25 @@ kezeli.
 
 31/B. § (1) Közjegyzői irodát természetes személyek alapíthatnak olyan módon, hogy a szavazati jog több mint 50%-át közjegyző tag (e címben a továbbiakban: közjegyző tag), a (3) bekezdésben foglalt esetben a közjegyző tagok együttesen gyakorolják, és vezető tisztségviselő is csak közjegyző tag lehet.
 
-(2) Nem lehet a közjegyzői iroda tagja az a közjegyző, közjegyzőhelyettes, közjegyzőjelölt, akivel szemben a közjegyzői fegyelmi bíróság hivatalvesztés fegyelmi büntetést szabott ki, vagy akit érdemtelenné nyilvánított, a határozat jogerőre emelkedésétől számított 10 évig. Ha az alapítási engedély megadása iránti eljárás időpontjában a közjegyző, közjegyzőhelyettes, közjegyzőjelölt ellen fegyelmi eljárás van folyamatban, az engedélyezési eljárást a fegyelmi vétség elbírálásáig fel kell függeszteni.
+(1a) Közjegyzői iroda tagja a közjegyző tagon kívül csak az alkalmazásában álló közjegyzőhelyettes, nyugalmazott közjegyző, illetve a közjegyző tag Polgári Törvénykönyv szerinti közeli hozzátartozója lehet. Közös iroda működtetése esetén ez a követelmény csak az egyik közjegyző tag vonatkozásában terheli a nem közjegyző tagot.
+
+(2) Nem lehet a közjegyzői iroda tagja az a közjegyző, közjegyzőhelyettes vagy nyugalmazott közjegyző, akivel szemben a közjegyzői fegyelmi bíróság hivatalvesztés fegyelmi büntetést szabott ki, vagy akit érdemtelenné nyilvánított, a határozat jogerőre emelkedésétől számított 10 évig. Ha az alapítási engedély megadása iránti eljárás időtartama alatt a közjegyző vagy a közjegyzőhelyettes ellen fegyelmi eljárás van folyamatban, az engedélyezési eljárást a fegyelmi vétség elbírálásáig fel kell függeszteni.
 
 (3) Két vagy több közjegyző csak akkor lehet ugyanannak a közjegyzői irodának a tagja, ha őket azonos székhelyre nevezték ki.
 
-(4) A közjegyzőhelyettes és a közjegyzőjelölt csak az őt alkalmazó közjegyző tagságával működő jogi személyiségű közjegyzői irodának lehet tagja.
+(4) A közjegyzőhelyettes csak az őt alkalmazó közjegyző tagságával működő jogi személyiségű közjegyzői irodának lehet tagja.
 
-(5) A nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy akkor válhat közjegyzői iroda tagjává, ha
+(5) A nem közjegyző vagy közjegyzőhelyettes természetes személy akkor válhat közjegyzői iroda tagjává, ha
 
 - a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
 - b) vele szemben nem áll fenn a 17. § (3) bekezdés a)–e) pontjában meghatározott körülmény, és
 - c) nem áll a közügyektől eltiltás hatálya alatt.
 
-(6) A nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem benyújtásával egyidejűleg a területi kamara elnöksége részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére – annak a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői irodai tagság létesítése engedélyezését kérelmező, nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személlyel szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény.
+(6) A nem közjegyző vagy közjegyzőhelyettes természetes személy a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem benyújtásával egyidejűleg a területi kamara elnöksége részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére – annak a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői irodai tagság létesítése engedélyezését kérelmező, nem közjegyző vagy közjegyzőhelyettes természetes személlyel szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény.
 
-(7) A területi kamara elnöksége a nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy közjegyzői irodai tagsági jogviszonyának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy taggal szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény. A hatósági ellenőrzés céljából a területi kamara elnöksége adatot igényelhet a bűnügyi nyilvántartási rendszerből.
+(7) A területi kamara elnöksége a nem közjegyző vagy közjegyzőhelyettes természetes személy közjegyzői irodai tagsági jogviszonyának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nem közjegyző vagy közjegyzőhelyettes természetes személy taggal szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény. A hatósági ellenőrzés céljából a területi kamara elnöksége adatot igényelhet a bűnügyi nyilvántartási rendszerből.
 
-(8) A (7) bekezdésben meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy taggal szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény.
+(8) A (7) bekezdésben meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a nem közjegyző vagy közjegyzőhelyettes természetes személy taggal szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény.
 
 (9) A (6)–(8) bekezdés alapján megismert személyes adatokat a területi kamara elnöksége
 
@@ -505,7 +507,7 @@ kezeli.
 (2) A közjegyzői iroda alapító okiratában meg kell határozni
 
 - a) a közjegyzői iroda nevét és székhelyét,
-- b) a közjegyzői iroda tagjait nevük és lakóhelyük feltüntetésével; a közjegyző tag esetében székhelyét és hivatali helyiségének (a 30. §-a szerinti irodájának) címét is, közjegyzőhelyettes és közjegyzőjelölt tag esetében az őt alkalmazó közjegyző nevét és székhelyét is,
+- b) a közjegyzői iroda tagjait nevük és lakóhelyük feltüntetésével; a közjegyző tag esetében székhelyét és hivatali helyiségének (a 30. §-a szerinti irodájának) címét is, közjegyzőhelyettes tag esetében az őt alkalmazó közjegyző nevét és székhelyét is,
 - c) az irodavezető közjegyző tag nevét és székhelyét, több irodavezető esetén az irodavezetés és képviselet szabályait,
 - d) a tagok vagyoni hozzájárulását, valamint a hozzájárulás rendelkezésre bocsátásának módját és idejét,
 - e) a szavazati jog terjedelmét és gyakorlásának módját,
@@ -523,10 +525,12 @@ kezeli.
 
 31/D. § (1) A közjegyzői iroda alapításához a területi kamara elnökségének az engedélye szükséges (alapítási engedély), az engedélyezés iránti kérelmet az alapító okirat elfogadásától számított 8 napon belül kell a területi kamara elnökségéhez előterjeszteni. Így kell eljárni a közjegyzői irodai tagság létesítése esetén is.
 
-(2) A területi kamara elnöksége a közjegyzői iroda részére az alapítási engedélyt két hónapon belül megadja, ha
+(2) A területi kamara elnöksége a közjegyzői iroda részére az alapítási engedélyt 15 napon belül megadja, ha
 
 - a) alapító okirata megfelel az irányadó jogszabályoknak,
 - b) tagja megfelel a közjegyzői irodai tagságra e törvényben meghatározott követelményeknek.
+
+(2a) Ha a területi kamara elnöksége az alapítási engedély iránti kérelmet határidőben nem bírálja el, az alapítási engedélyt megadottnak kell tekinteni. A hiánypótlás időtartama a határidőbe nem számít bele. A hiánypótlásra meghatározott határidő 30 napnál hosszabb nem lehet.
 
 (3) A területi kamara elnöksége a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat – szükség esetén a helyszínen – ellenőrzi az alapító okiratban foglalt adatok valódiságát.
 
@@ -540,11 +544,13 @@ kezeli.
 
 (3) A közjegyzői iroda üzletszerű gazdasági tevékenységet csak a közjegyzői tevékenység elősegítésére folytathat.
 
-(4) A közjegyzői iroda tagjának a közjegyzői (közjegyzőhelyettesi, közjegyzőjelölti) minőségére tekintettel rendelkezésre álló adatok csak a közjegyzői hatáskörbe tartozó eljárás során és annak céljára használhatók fel, az adatokhoz egyéb célból történő hozzáférés tilos.
+(4) A közjegyzői iroda tagjának a közjegyzői (közjegyzőhelyettesi) minőségére tekintettel rendelkezésre álló adatok csak a közjegyzői hatáskörbe tartozó eljárás során és annak céljára használhatók fel, az adatokhoz egyéb célból történő hozzáférés tilos.
+
+(5) A 6. § szerint a közjegyzőt illető összegek és azok járulékai a közjegyzői iroda bevételét képezik, és a közjegyzői iroda a jogosultja ezek biztosítékainak is. A (4) bekezdés rendelkezései nem korlátozzák az ezen összegek, járulékaik és biztosítékaik nyilvántartásához és érvényesítéséhez szükséges adatkezelést.
 
 31/F. § (1) A közjegyzői irodai tagsági jogviszony megszűnik:
 
-- a) a közjegyző tag szolgálatának megszűnésével, kivéve a (2) bekezdésben foglalt esetet,
+- a) a közjegyző tag szolgálatának megszűnésével, kivéve a (2) bekezdésben és az (5a) bekezdésben foglalt esetet,
 - b) a tag halálával,
 - c) a közjegyzői irodai tagsághoz e törvényben előírt valamelyik követelmény megszűnésének bekövetkezésével,
 - d) a tagot megillető vagyoni hányad átruházásával,
@@ -574,7 +580,7 @@ kezeli.
 
 32. § (1) A közjegyző 5 munkanapot meghaladó távolléte esetén részére a területi kamara elnöksége helyettest rendel.
 
-(2) Helyettesként a távollevő közjegyzőével azonos területi kamaránál működő közjegyzőt, közjegyzőhelyettest, kivételesen nyugalmazott közjegyzőt vagy nyugalmazott bírót lehet kirendelni.
+(2) Helyettesként – ha e törvény eltérően nem rendelkezik – a távollevő közjegyzőével azonos területi kamaránál működő közjegyzőt vagy közjegyzőhelyettest lehet kirendelni.
 
 (2a) Helyettesként az a közjegyző rendelhető ki, aki a 69. § (4) bekezdés szerinti első éves működési vizsgálaton, vagy annak utóvizsgálatán megfelelt, vagy aki a kinevezését megelőzően közjegyzőhelyettesként tartós helyettesi feladatot látott el és a tartós helyettesi működése során tartott működési vizsgálaton megfelelt.
 
@@ -623,17 +629,21 @@ kezeli.
 
 36. § (1) A helyettesített közjegyző a helyettesítés tartama alatt közjegyzőként nem járhat el.
 
-(2) Az állandó helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes – az állandó helyettes utasítása és felelőssége mellett – eljárhat.
+(2) Az állandó helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző, illetve ügyintéző – az állandó helyettes utasítása és felelőssége mellett – eljárhat.
 
 (3) A tartós helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző, illetve ügyintéző – a tartós helyettes utasítása és felelőssége mellett – kizárólag a 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti esetekben és akkor járhat el, ha a tartós helyettest a helyettesített közjegyző közjegyzői irodájának helyettes irodavezetőjévé jelölték ki.
 
-37. § (1) A helyettes minden ügyet ellát, aláírásához a helyettesítésre utaló toldatot fűz. Ha a helyettes közjegyző, a helyettesítés során az alkalmazásában álló közjegyzőhelyettes is eljárhat.
+37. § (1) A helyettes minden ügyet ellát, aláírásához a helyettesítésre utaló toldatot fűz. Ha a helyettes közjegyző, a helyettesítés során az alkalmazásában álló közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző, illetve ügyintéző is eljárhat.
 
 (2) A közjegyzőre vonatkozó rendelkezéseket a helyettesre megfelelően alkalmazni kell.
 
 (3) A helyettesnek rendelkezési joga van a helyettesített közjegyző bizalmi őrzéses számlái felett.
 
 (4) Ha a helyettes olyan közjegyző, aki a helyettesített közjegyzővel azonos székhelyen működik, a helyettes közjegyző a helyettesítés során a saját székhelyén is, illetve a saját irodája útján is eljárhat. Ha a helyettes közjegyző illetékességi területe a helyettesített közjegyző illetékességi területével határos, saját székhelyén, illetve saját irodája útján csak indokolt esetben járhat el.
+
+(5) A közjegyzőhelyettes és a közjegyzői tevékenységét a szolgálata megszűnéséig egyénileg folytató nyugalmazott közjegyző a helyettesítési tevékenységet egyénileg is folytathatja. Ebben az esetben a közjegyzőjelölt, a közjegyzőhelyettes és a közjegyzői irodai ügyintéző a helyettesítési tevékenységet egyénileg folytatóval áll munkaviszonyban.
+
+(6) Nyugalmazott közjegyző csak a szolgálati jogviszonyának megszűnését közvetlenül megelőzően általa betöltött székhelyre rendelhető ki tartós helyettesként azzal, hogy a tartós helyettesi kirendelése legfeljebb az adott székhelyre kinevezett utód közjegyző hivatalba lépéséig tart. Ha a nyugalmazott közjegyző tartós helyettesként való kirendelésére került sor, a 31/F. § (5a) bekezdése szerinti átalakulásra vonatkozó 90 napos határidőt a tartós helyettesi kirendelés megszűnésétől kell számítani, és a tartós helyettesítés tartama alatt őt a IV. Fejezet alkalmazása során közjegyzőnek kell tekinteni.
 
 37/A. § (1) Állandó helyettesítés esetén a helyettesített közjegyző és az állandó helyettes közötti jogviszonyra a felek megállapodását kell alkalmazni. Az állandó helyettesítési megállapodás akkor hatályos, ha azt a területi kamara elnöksége jóváhagyta.
 
@@ -646,6 +656,8 @@ kezeli.
 - e) a helyettesítés megszűnését követően a folyamatban lévő ügyek visszaadásának rendjét,
 - f) a helyettesítési díj mértékét, elszámolásának rendjét, vagy azt, hogy a helyettesítés ingyenesen történik, valamint
 - g) az arról való rendelkezést, hogy a helyettes a helyettesített közjegyző, illetve annak közjegyzői irodája eszközeit milyen mértékben és milyen ellentételezésért használhatja.
+
+(2a) Ha az állandó helyettesítési megállapodás másként nem rendelkezik, az állandó helyettes a helyettesített közjegyző közjegyzői irodája keretében folytatja a helyettesítési tevékenységet.
 
 (3) Az állandó helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört az állandó helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a helyettesített közjegyző előzetes írásbeli engedélye alapján intézkedhet. Az állandó helyettesítés időtartama alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes és közjegyzőjelölt szakmai képzéséről a helyettesített közjegyző költségére az állandó helyettes gondoskodik. Az e bekezdésben foglaltakkal ellentétes megállapodás semmis.
 
@@ -688,7 +700,7 @@ kezeli.
 
 (3) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettes a kirendelésről szóló okirat közlésétől számított 8 napon belül a területi kamara elnökségének nyilatkozik arról, hogy a helyettesített közjegyző irodáját átveszi.
 
-(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető), és erről a cégbíróságot tájékoztatja. A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki, és erről a cégbíróságot tájékoztatja.
+(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető). A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki.
 
 (5) A (4) bekezdés alkalmazása esetén a helyettesítés időtartama alatt keletkezett adózott eredmény – a helyettesített közjegyző társasági részesedésére eső mértékben – a tartós helyettest illeti meg. A helyettest továbbá a 10 éve szolgálatban lévő törvényszéki bíró alapilletménye és címpótléka összegének megfelelő mértékű munkabér illeti meg.
 
@@ -2075,7 +2087,7 @@ kommunikálhat.
 
 (2) A közjegyző az (1) bekezdésben rögzítetten túlmenően jogi képviseletet nem láthat el.
 
-175/A. § Ingatlan-nyilvántartási bejegyzés alapjául szolgáló jognyilatkozat közokiratba foglalása iránti eljárásban a közjegyző szóban tájékoztatja a feleket a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/P. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
+175/A. § Ingatlan-nyilvántartási bejegyzés alapjául szolgáló jognyilatkozat közokiratba foglalása iránti eljárásban a közjegyző szóban tájékoztatja a feleket a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 11. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
 
 ## NEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -2146,6 +2158,12 @@ kommunikálhat.
 (14) E törvénynek a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvénnyel megállapított 134. §-ában foglalt követelményeket 2021. január 31-ét követően azzal kell alkalmazni, hogy a 2021. február 1-től 2021. április 5-ig közokiratba foglalt egyoldalú kötelezettségvállaló nyilatkozatok esetén a miniszter rendeletében meghatározott okiratmintától való eltérés nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.
 
 (15) A 2022. január 1. napját megelőzően készült közjegyzői okiratot a 131. §, illetve 147/A. § alkalmazása során akkor is közokiratnak kell tekinteni, ha az e törvény 2022. január 1. napján hatályos rendelkezéseinek megfelel.
+
+(16) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel módosított 31/B. § (1a), (2) és (4)–(8) bekezdése szerinti követelményeknek a cégjegyzékbe bejegyzett közjegyzői irodáknak 2023. március 31-ig kell eleget tenniük.
+
+(17) A tevékenységét 2022. december 31-én egyénileg folytató közjegyző a közjegyzői iroda megalapítására nem köteles és a tevékenységét e törvény 2021. december 31-én hatályos rendelkezései szerint tovább folytathatja egyénileg, ha a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév közjegyző általi betöltéséig kevesebb, mint 5 év van hátra.
+
+(18) Ha a közjegyző a (17) bekezdés alapján egyénileg folytatja a tevékenységét, a közjegyzőjelölt, a közjegyzőhelyettes és a közjegyzői irodai ügyintéző a közjegyzővel áll munkaviszonyban. Ebben az esetben a 26. § (1) bekezdés d) pontjának, a 27. §-nak és a 27/B. § d) pontjának alkalmazása szempontjából a közjegyzői irodán a közjegyzőt kell érteni.
 
 ### Felhatalmazás
 

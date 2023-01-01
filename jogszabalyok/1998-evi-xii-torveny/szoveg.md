@@ -98,6 +98,8 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (7) A hivatalos útlevél adattartalma – a hajós szolgálati útlevél kivételével – kiegészül a használatára jogosult személy diplomáciai rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
 
+(7a) Kérelemre a magánútlevél a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza.
+
 (8) Az útlevélbe az útlevélhatóság, a rendőrség, a külföldi hatóság, valamint jogszabályban erre felhatalmazott szerv tehet bejegyzést.
 
 (9) Az útlevél érvényességének időtartama nem hosszabbítható meg.
@@ -416,7 +418,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - l) a kérelem egyedi azonosítására szolgáló technikai azonosítóját,
 - m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az összegét, valamint a teljesítésének tényét,
 - n) az okmány kézbesítésének, illetve átvételének idejét, helyét, meghatalmazotti átvétel esetén az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
-- o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállítás okát és az utazás célországát.
+- o) az ideiglenes magánútlevél esetében az a)–b) pont szerinti adatokat, az okmány számát, az ellenőrző sorszámot, a kiállítás idejét és okát, az érvényesség idejét és az utazás célországát,
+- p) a 7. § (7a) bekezdésében foglalt esetben a nemzetiségi névadatot.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

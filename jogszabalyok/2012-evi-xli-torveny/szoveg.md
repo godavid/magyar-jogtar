@@ -86,7 +86,7 @@ a következő törvényt alkotja:
 - 24. menetrend szerinti személyszállítási szolgáltatás: személyek szállítására meghatározott rendszerességgel, meghatározott útvonalon, a fel- és leszállásra előzetesen kijelölt megállóhelyek között, vagy azok érintésével közlekedő, díj ellenében bárki által igénybe vehető járattal végzett vasúti, vízi vagy közúti személyszállítási szolgáltatás;
 - 25. nemzetközi személyszállítási szolgáltatás: olyan személyszállítási szolgáltatás, amelynek során a járat valamely, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) legalább egy határán áthalad, és amelynek fő célja a különböző EGT-államok állomásai vagy megállóhelyei közötti személyszállítás; vasúti járművel végzett személyszállítás esetén a vonatot egyesíthetik és szétválaszthatják, továbbá a különböző vasúti szerelvények különböző kiindulási és célállomással rendelkezhetnek, feltéve hogy valamennyi vasúti kocsi legalább egy államhatáron áthalad;
 - 26. országos személyszállítási szolgáltatás: regionális, elővárosi vagy helyi személyszállítási szolgáltatásnak nem minősülő személyszállítási szolgáltatás;
-- 27. regionális személyszállítási szolgáltatás: a megye határán belül vagy a megyehatár átlépése esetén 100 km-t meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
+- 27. regionális személyszállítási szolgáltatás: a vármegye határán belül vagy a vármegyehatár átlépése esetén 100 km-t meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
 - 28. saját számlás személyszállítás: a jármű üzemeltetőjével munkavégzésre irányuló jogviszonyban álló személyek haszonszerzési cél nélkül, nem üzletszerűen és az üzemeltető által nem főtevékenységként végzett szállítása, amennyiben
   - a) az a személyszállítást végző üzemeltető tulajdonában lévő, tartósan bérelt vagy lízingelt járművel történik, és
   - b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy vezeti;
@@ -640,6 +640,15 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 - a) az országos, elővárosi és regionális személyszállítási közszolgáltatások menetrendjének előkészítésével és meghatározásával kapcsolatos feladatokat, a jármű és személyzeti vezénylés kivételével,
 - b) a 35/A–35/C. §-ban meghatározott feladatokat,
 - c) a Vtv. 28. § (1) bekezdésében meghatározott feladatokat.
+- d) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletértékesítéssel, a bevételek beszedésével kapcsolatos feladatokat,
+- e) a b) pontban meghatározott bevételekhez kapcsolódó szociálpolitikai menetdíj-támogatás igénybevételével kapcsolatos feladatokat,
+- f) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletellenőrzési feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
+- g) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő utastájékoztatási feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
+- h) az országos, elővárosi és regionális személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások arculati, utastájékoztatási, utaskapcsolati és utaskezelési szabályait,
+- i) a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását,
+- j) a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedések meghatározását, amely végrehajtását a közlekedési szolgáltató csak abban az esetben tagadhatja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti,
+- k) a Vtv. 3/B. § (8) bekezdésében és 67/P. §-ában meghatározott feladatokat,
+- l) az országos, elővárosi, regionális autóbusszal végzett személyszállítási közszolgáltatással érintett közvetett vagy közvetlen állami tulajdonban álló autóbuszpályaudvarok fenntartásával és működtetésével kapcsolatos feladatokat, ideértve a hozzáférés biztosításával kapcsolatos tevékenységeket is.
 
 (2) Az országos közlekedésszervező a közlekedésszervezői feladat ellátásának finanszírozásával, valamint a 21. § (2a) bekezdésében foglaltaknak az országos közlekedésszervező gazdálkodási felügyeletével, bevételeinek és indokolt költségeinek elszámolásával összefüggő részletes szabályait a miniszter és az országos közlekedésszervező között az államháztartásért felelős miniszter egyetértésével 20 évre kötött közfeladatellátási szerződés tartalmazza.
 
@@ -805,10 +814,10 @@ valósulhat meg.
 (2) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátásnak – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül – biztosítani kell:
 
 - a) adott település és a a járásközpont vagy gyakorlatban kialakult vonzásközpont közötti közvetlen eljutási lehetőséget,
-- b) adott település és annak megyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
+- b) adott település és annak vármegyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
 - c) az adott település és a főváros közötti legfeljebb két átszállással történő eljutási lehetőséget,
-- d) a szomszédos megyeszékhelyek közötti közvetlen eljutási lehetőséget, valamint
-- e) a főváros és a megyeszékhelyek közötti közvetlen eljutási lehetőséget.
+- d) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőséget, valamint
+- e) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőséget.
 
 (3) Amennyiben az infrastrukturális adottságok lehetővé teszik – és az adott település közösségi közlekedési rendszere kizárólag országos, regionális vagy elővárosi menetrendszerinti autóbuszos vagy vasúti személyszállítási szolgáltatás révén biztosított – a (2) bekezdésben meghatározott viszonylatokban nyújtott alapellátás településenként napi 3 – a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrendi fekvésű – járatpár.
 

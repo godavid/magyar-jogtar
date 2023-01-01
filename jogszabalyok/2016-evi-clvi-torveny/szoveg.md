@@ -265,7 +265,7 @@ továbbítsa.
 
 (2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként.
 
-(3) A szálláshely-szolgáltató a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti vendégkönyv és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás elektronikus vezetését a szálláshelykezelő szoftver alkalmazásával is teljesítheti.
+(3) A szálláshely-szolgáltató a harmadik országbeli állampolgárokra vonatkozó, 6/B. alcímben meghatározott adatok rögzítését és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás vezetését elektronikusan, a szálláshelykezelő szoftver alkalmazásával teljesíti.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

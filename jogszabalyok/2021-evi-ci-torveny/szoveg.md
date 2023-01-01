@@ -140,6 +140,16 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
+7/D. § (1) Az állami tulajdonban álló, Budapest XII. kerület, külterület 010503/31 helyrajzi számú ingatlant (a továbbiakban: Ingatlan) az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, a sport- és kulturális igényeknek megfelelő, nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes közösségi használatú parkerdő és kiszolgáló épületek, valamint a szükséges infrastruktúra létrehozásának elősegítése érdekében ingyenesen a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat tulajdonába kell adni, azzal a feltétellel, hogy a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat a (2) bekezdés szerinti szerződésben az Ingatlant terhelő kötelezettségeket teljeskörűen átvállalja.
+
+(2) Az (1) bekezdés szerinti tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti elő és köti meg. A szerződésben az Ingatlan forgalmi értékeként az MNV Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződésben rögzíteni kell, hogy az Ingatlan használata során a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
+
+(3) Az (1) bekezdésben meghatározott juttatási cél megvalósítása a környezetvédelmi előírások és a védett természeti területek védettségi szintjének sérelmével nem járhat.
+
+(4) Az Ingatlan vonatkozásában fennálló vagyonkezelői jog – külön elszámolás nélkül – Budapest Főváros XII. kerület Hegyvidéki Önkormányzat tulajdonszerzésével egyidejűleg megszűnik, azzal, hogy az MNV Zrt. és a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat a vagyonkezelői jog megszűnéséből fakadóan az Ingatlan tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
+
+(5) Az (1) bekezdés szerinti vagyonjuttatás az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
 #### 6. Ingatlan ingyenes tulajdonba adása a Szír Ortodox Vallási Egyesület részére
 
 8. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a magyar állam 1/1 arányú tulajdonában lévő, az ingatlan-nyilvántartás szerint Budapest belterület 15138 helyrajzi számú, természetben az 1025 Budapest, II. kerület Józsefhegyi lépcső 12. szám alatt található ingatlan ingyenesen – hitéleti, egészségügyi és szociális feladatok ellátása érdekében – a Szír Ortodox Vallási Egyesület tulajdonába kerül.
@@ -186,6 +196,10 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (11) A HAYDNEUM Alapítvány induló vagyonát az alapító a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény szerint biztosítja.
 
+#### 7/A. Egyház részére átadott vagyonelemet érintő rendelkezések
+
+9/A. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési tilalom alatt álló Budapest belterület 9628 helyrajzi számú ingatlan tulajdonjogát a tulajdonos Magyarországi Református Egyház az egyház belső jogi személyeként működő Svábhegyi Református Egyházközség javára ingyenesen átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. A Svábhegyi Református Egyházközség a tulajdonátruházásra irányuló szerződésben vállalja a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság és a Magyarországi Református Egyház között a Budapest belterület 9628 helyrajzi számú ingatlan egyházi tulajdonba adására vonatkozó szerződésben az átvevő egyházat terhelő kötelezettségek teljesítését azzal az eltéréssel, hogy a Svábhegyi Református Egyházközség jogosult a szerződésben rögzített felhasználási céltól eltérően az ingatlant óvoda és kiszolgáló egységei fenntartása céljából használni.
+
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 8. Hatályba léptető rendelkezések
@@ -230,7 +244,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 9/A. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
@@ -258,516 +272,559 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 11. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 12. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 13. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
 #### 14. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 15. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
 #### 16. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
 #### 17. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 18. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-28. §
+#### 28. §
 
 #### 19. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
 #### 20. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
 #### 21. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
 #### 22. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 23. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-52. §
+#### 52. §
 
 #### 24. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
+a)
 
-67. §
+b)
+
+c)
+
+d)
+
+e)
+
+#### 67. §
 
 #### 25. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
 #### 26. A kémiai biztonságról szóló 2000. évi XXV. törvény módosítása
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
 #### 27. A sportról szóló 2004. évi I. törvény módosítása
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
 #### 28. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-96. §
+#### 96. §
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-- 17.
-- 18.
-- 19.
-- 20.
-- 21.
-- 22.
+1.
 
-110. §
+2.
 
-- a)
-- b)
-- c)
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+#### 110. §
+
+a)
+
+b)
+
+c)
 
 #### 29. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
-121. §
+#### 121. §
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
-125. §
+#### 125. §
 
-126. §
+#### 126. §
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
-129. §
+#### 129. §
 
-130. §
+#### 130. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
-- k)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
 
 #### 30. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
 
-131. §
+#### 131. §
 
 #### 31. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-132. §
+#### 132. §
 
-133. §
+#### 133. §
 
 #### 32. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-134. §
+#### 134. §
 
 #### 33. A világörökségről szóló 2011. évi LXXVII. törvény módosítása
 
-135. §
+#### 135. §
 
 #### 34. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-136. §
+#### 136. §
 
-137. §
+#### 137. §
 
-138. §
+#### 138. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
+a)
 
-139. §
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+#### 139. §
 
 #### 35. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-140. §
+#### 140. §
 
 #### 36. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-141. §
+#### 141. §
 
-142. §
+#### 142. §
 
 #### 37. A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény módosítása
 
-143. §
+#### 143. §
 
 #### 38. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-144. §
+#### 144. §
 
 #### 39. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosításáról
 
-145. §
+#### 145. §
 
-146. §
+#### 146. §
 
-147. §
+#### 147. §
 
 #### 40. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-148. §
+#### 148. §
 
-149. §
+#### 149. §
 
-150. §
+#### 150. §
 
-151. §
+#### 151. §
 
 #### 41. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 
-152. §
+#### 152. §
 
 #### 42. A Mathias Corvinus Collegium tehetséggondozási programjának és a Maecenas Universitatis Corvini Alapítvány oktatási tevékenységének támogatásáról szóló 2020. évi XXVI. törvény módosítása
 
-153. §
+#### 153. §
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
-156. §
+#### 156. §
 
 #### 43. A Marek József Alapítványról, a Marek József Alapítvány és az Állatorvostudományi Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIV. törvény módosítása
 
-157. §
+#### 157. §
 
 #### 44. A Moholy-Nagy Művészeti Egyetemért Alapítványról, a Moholy-Nagy Művészeti Egyetemért Alapítvány és a Moholy-Nagy Művészeti Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXV. törvény módosítása
 
-158. §
+#### 158. §
 
 #### 45. A Neumann János Egyetemért Alapítványról, a Neumann János Egyetemért Alapítvány és a Neumann János Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVI. törvény módosítása
 
-159. §
+#### 159. §
 
 #### 46. A Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény módosítása
 
-160. §
+#### 160. §
 
-161. §
+#### 161. §
 
-162. §
+#### 162. §
 
-163. §
+#### 163. §
 
-164. §
+#### 164. §
 
 #### 47. Az Universitas Miskolcinensis Alapítványról, az Universitas Miskolcinensis Alapítvány és a Miskolci Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIX. törvény módosítása
 
-165. §
+#### 165. §
 
 #### 48. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-166. §
+#### 166. §
 
 #### 49. A Színház- és Filmművészetért Alapítványról, a Színház- és Filmművészetért Alapítvány és a Színház- és Filmművészeti Egyetem részére történő vagyonjuttatásról szóló 2020. évi LXXII. törvény módosítása
 
-167. §
+#### 167. §
 
-168. §
+#### 168. §
 
-169. §
+#### 169. §
 
 #### 50. A Közép-európai Épített Örökség Megőrző Alapítványról és a Közép-európai Épített Örökség Megőrző Alapítvány részére történő vagyonjuttatásról szóló 2020. évi XCIII. törvény módosítása
 
-170. §
+#### 170. §
 
-171. §
+#### 171. §
 
-172. §
+#### 172. §
 
 #### 51. Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény módosítása
 
-173. §
+#### 173. §
 
-174. §
+#### 174. §
 
-175. §
+#### 175. §
 
-176. §
+#### 176. §
 
-177. §
+#### 177. §
 
-178. §
+#### 178. §
 
 #### 52. A közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvény módosítása
 
-179. §
+#### 179. §
 
 #### 53. A Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény módosítása
 
-180. §
+#### 180. §
 
-181. §
+#### 181. §
 
-182. §
+#### 182. §
 
-183. §
+#### 183. §
 
 #### 54. A Közép-európai Oktatási Alapítványról és a Közép-európai Oktatási Alapítvány részére történő vagyonjuttatásról szóló 2020. évi CXLIII. törvény módosítása
 
-184. §
+#### 184. §
 
-185. §
+#### 185. §
 
-186. §
+#### 186. §
 
-187. §
+#### 187. §
 
 #### 55. A Pannon Egyetemért Alapítványról, a Pannon Egyetemért Alapítvány és a Pannon Egyetem részére történő vagyonjuttatásról szóló 2020. évi CLVIII. törvény módosítása
 
-188. §
+#### 188. §
 
 #### 56. A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény módosítása
 
-189. §
+#### 189. §
 
 #### 57. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
-190. §
+#### 190. §
 
-191. §
+#### 191. §
 
-192. §
+#### 192. §
 
-- a)
-- b)
+a)
+
+b)
 
 #### 58. A Budapesti Gazdasági Egyetemért Alapítványról, a Budapesti Gazdasági Egyetemért Alapítvány és a Budapesti Gazdasági Egyetem részére történő vagyonjuttatásról szóló 2021. évi X. törvény módosítása
 
-193. §
+#### 193. §
 
 194. § (1)
 
@@ -775,91 +832,91 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 59. A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény módosítása
 
-195. §
+#### 195. §
 
-196. §
+#### 196. §
 
 #### 60. A Gróf Tisza István Debreceni Egyetemért Alapítványról, a Gróf Tisza István Debreceni Egyetemért Alapítvány és a Debreceni Egyetem részére történő vagyonjuttatásról szóló 2021. évi XIII. törvény módosítása
 
-197. §
+#### 197. §
 
-198. §
+#### 198. §
 
 #### 61. A Hauszmann Alapítványról és a Hauszmann Alapítvány részére történő vagyonjuttatásról szóló 2021. évi XIV. törvény módosítása
 
-199. §
+#### 199. §
 
-200. §
+#### 200. §
 
 #### 62. A Magyar Kultúráért Alapítvány létrehozásáról, valamint a Magyar Kultúráért Alapítvány és a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatásról szóló 2021. évi XVI. törvény módosítása
 
-201. §
+#### 201. §
 
-202. §
+#### 202. §
 
-203. §
+#### 203. §
 
 #### 63. A Magyar Táncművészeti Egyetemért Alapítványról, a Magyar Táncművészeti Egyetemért Alapítvány és a Magyar Táncművészeti Egyetem részére történő vagyonjuttatásról szóló 2021. évi XVII. törvény módosítása
 
-204. §
+#### 204. §
 
 #### 64. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-205. §
+#### 205. §
 
-206. §
+#### 206. §
 
 #### 65. A Nyíregyházi Egyetemért Alapítványról, a Nyíregyházi Egyetemért Alapítvány és a Nyíregyházi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXI. törvény módosítása
 
-207. §
+#### 207. §
 
-208. §
+#### 208. §
 
-209. §
+#### 209. §
 
 #### 66. A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény módosítása
 
-210. §
+#### 210. §
 
-211. §
+#### 211. §
 
-212. §
+#### 212. §
 
 #### 67. A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény módosítása
 
-213. §
+#### 213. §
 
-214. §
+#### 214. §
 
 #### 68. A Testnevelési Egyetemért Alapítványról, a Testnevelési Egyetemért Alapítvány és a Testnevelés Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXIV. törvény módosítása
 
-215. §
+#### 215. §
 
 #### 69. A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény módosítása
 
-216. §
+#### 216. §
 
-217. §
+#### 217. §
 
 #### 70. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
-218. §
+#### 218. §
 
-219. §
+#### 219. §
 
-220. §
+#### 220. §
 
-221. §
+#### 221. §
 
 #### 71. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-222. §
+#### 222. §
 
-223. §
+#### 223. §
 
 #### 72. A településtervezéssel összefüggő egyes törvények módosításáról szóló 2021. évi XXXIX. törvény módosítása
 
-224. §
+#### 224. §
 
 ### 1. melléklet a 2021. évi CI. törvényhez
 

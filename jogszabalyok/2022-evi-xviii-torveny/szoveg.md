@@ -148,9 +148,55 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolód�
 
 62. §
 
-63. §
+63. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-64. §
+„(1) A képviselőcsoport a működésével járó kiadásokra havonta
+
+a) a 104. § (1) bekezdésében meghatározott tiszteletdíj tízszeresének, valamint
+
+b) – a képviselőcsoporthoz tartozó képviselőnként – a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ának
+
+megfelelő összegre jogosult az Országgyűlés Hivatala költségvetéséből.”
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdés a) pontjában foglaltaktól eltérően a képviselők előző általános választásán közös országos listát állító és mandátumot szerző pártokhoz tartozó képviselőkből álló képviselőcsoportok listánként a 104. § (1) bekezdésében meghatározott tiszteletdíj tizenhétszeresére jogosultak, amelyet az adott közös listát állított pártok képviselőcsoportjai között egyenlő arányban kell felosztani.”
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A független képviselő a képviselői tevékenységével járó kiadásokra a 104. § (1) bekezdésében meghatározott tiszteletdíj 50%-ának megfelelő összegre jogosult.”
+
+64. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 115. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A képviselőcsoport működését
+
+a) a képviselőcsoport létszámától függően, ha annak létszáma
+
+aa) nem haladja meg a tíz főt, öt fő,
+
+ab) tizenegy–húsz fő közötti, hét fő,
+
+ac) huszonegy–harmincnégy fő közötti, tíz fő,
+
+ad) harmincöt–ötven fő közötti, tizenkettő fő,
+
+ae) ötvenegy–hetven fő közötti, tizenöt fő,
+
+af) hetvenegy–kilencven fő közötti, húsz fő,
+
+ag) kilencvenegy–száztíz fő közötti, huszonöt fő,
+
+ah) száztizenegy–százhúsz fő közötti, harminc fő,
+
+ai) a százhúsz főt meghaladja, negyven fő, valamint
+
+b) a képviselőcsoport létszámával megegyező számú
+
+felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalánál foglalkoztatott személy segítheti.”
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 115. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A (2) bekezdés a) pontjában foglaltaktól eltérően a képviselők előző általános választásán közös országos listát állító és mandátumot szerző pártokhoz tartozó képviselőkből álló képviselőcsoportok listánként a képviselőik együttes létszámát alapul véve jogosultak a (2) bekezdés a) pontja szerinti foglalkoztatotti létszámra, azzal, hogy az így kapott foglalkoztatotti létszámot az adott közös listát állított pártok képviselőcsoportjai között mandátumarányosan kell szétosztani, a kerekítés általános szabályára figyelemmel. Amennyiben a kerekítés általános szabályára figyelemmel megállapított létszámok összege eltér a (2) bekezdés a) pontja szerinti létszámtól, úgy a kerekítés általános szabályára figyelemmel megállapított létszámok összegét kell alapul venni a keret megállapításakor.”
 
 65. §
 
@@ -199,16 +245,16 @@ az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolód�
 - 31.
 - 32.
 - 33.
-- 34.
-- 35.
+- 34. 109. § (8) bekezdésében a „113. § (1) bekezdésében” szövegrész helyébe a „113. § (1) és (1a) bekezdésében” szöveg,
+- 35. 110. § (3) bekezdésében a „113. § (1) bekezdésében” szövegrész helyébe a „113. § (1) és (1a) bekezdésében” szöveg,
 - 36.
-- 37.
-- 38.
-- 39.
-- 40.
-- 41.
-- 42.
-- 43.
+- 37. 112. § (6) bekezdésében az „(1) bekezdése” szövegrész helyébe az „(1) és (1a) bekezdése” szöveg,
+- 38. 112. § (9) bekezdésében a „113. § (1) bekezdése” szövegrész helyébe a „113. § (1) és (1a) bekezdése” szöveg,
+- 39. 113. § (3) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) és (1a) bekezdésben” szöveg,
+- 40. 115. § (3) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (2a) bekezdésben” szöveg,
+- 41. 115. § (4) bekezdésében a „(2) bekezdés” szövegrész helyébe a „(2) és (2a) bekezdés” szöveg,
+- 42. 115. § (6) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (2a) bekezdésben” szöveg,
+- 43. 118. § (1) bekezdésében az „(1) bekezdésében” szövegrész helyébe az „(1) és (1a) bekezdésében” szöveg,
 - 44.
 - 45.
 - 46.

@@ -792,11 +792,16 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 #### 242. §
 
-#### 146.
+#### 146. A határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény módosítása
 
-#### 243. §
+243. § (1) Nem lép hatályba a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény
 
-#### 244. §
+- a) 8. §-a,
+- b) 29. §-a.
+
+(2) Hatályát veszti a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény 40. § (3) bekezdése.
+
+244. § A határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény 1. alcíme, 9. §-a, 10. §-a, 5. alcíme, 21–24. §-a, 7. alcíme, 28. §-a, 30. §-a és 11. alcíme 2024. január 1-jén lép hatályba.
 
 #### 147.
 
@@ -826,7 +831,9 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (9) A 141. § és a 217. § a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet 66. cikk (2) bekezdése és a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet 79. cikk (2) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 
-(10) A (8) és a (9) bekezdés szerinti hatálybalépés naptári napját az idegenrendészetért és menekültügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(10) A (8) bekezdés szerinti rendelkezések hatálybalépésének naptári napját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(11) A (9) bekezdés szerinti rendelkezések hatálybalépésének naptári napját a rendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 249. § (1) E törvény
 

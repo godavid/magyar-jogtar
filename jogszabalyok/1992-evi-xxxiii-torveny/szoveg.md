@@ -66,7 +66,7 @@ a közalkalmazottak jogállásáról
 6. § (1) A munkaügyi kapcsolatokat és a közalkalmazotti jogviszonyt érintő
 
 - a) ágazati jelentőségű kérdésekben az ágazati miniszter (a továbbiakban: miniszter) az országos önkormányzati érdek-képviseleti szervezetek bevonásával az érintett ágazatban, alágazatban, szakágazatban (a továbbiakban együtt: ágazat) reprezentatív szakszervezetekkel a KOMT-ban vagy a (6) bekezdés szerinti ágazati érdekegyeztető fórumban,
-- b) területi (megyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
+- b) területi (vármegyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
 
 egyeztet.
 
@@ -92,10 +92,10 @@ tervezetét.
 
 6/A. § (1) Az 5–6. §-ban meghatározott jogokat az a szakszervezet gyakorolja, amely az adott körben reprezentatív.
 
-(2) Területi (megyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
+(2) Területi (vármegyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
 
-- a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
+- a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (vármegyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
+- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (vármegyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
 - c)
 
 (3) Ágazati (alágazati, szakágazati) szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri az ágazatban (alágazatban, szakágazatban) foglalkoztatott közalkalmazottak létszámának 10%-át.
@@ -106,21 +106,29 @@ tervezetét.
 
 (6) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 
-6/B. §
+#### 6/B. §
 
 7. § (1) A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti tankerületi központ tekintetében a következő eltéréssel kell alkalmazni:
 
-- a) a tankerületi központ vezetője járási, továbbá a megyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett járási, valamint megyei szinten reprezentatív szakszervezetekkel a járási, valamint a megyei szintű érdekegyeztető fórum keretei között egyeztet,
-- b) járási, megyei szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amelynek közalkalmazotti jogviszonyban álló tagjainak száma eléri a tankerületi központ illetékességi területén az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át,
+- a) a tankerületi központ vezetője járási, továbbá a vármegyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett járási, valamint vármegyei szinten reprezentatív szakszervezetekkel a járási, valamint a vármegyei szintű érdekegyeztető fórum keretei között egyeztet,
+- b) járási, vármegyei szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amelynek közalkalmazotti jogviszonyban álló tagjainak száma eléri a tankerületi központ illetékességi területén az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át,
 - c) az oktatási központ elnöke a közalkalmazottak jogviszonyát érintő – az ágazati érdekegyeztető fórum hatáskörébe tartozó kérdések kivételével – országos jelentőségű kérdésekben a reprezentatív szakszervezetek elnökeivel kialakított országos egyeztető fórum keretei között egyeztet.
 
 (2) Az ágazati reprezentativitás megállapítása során a tankerületi központnál foglalkoztatott közalkalmazottakat a gazdasági tevékenységek egységes ágazati osztályozási rendszere szerint a 85 Oktatás ágazaton belül, a 850 Tankerületek közoktatási kódja elnevezésű technikai kódszám alatt szükséges figyelembe venni, függetlenül a tankerületi központ alapító okiratában meghatározott főtevékenység államháztartási szakágazati besorolásától.
 
 ### A szakszervezetek, a kollektív szerződés
 
-8–12. §
+#### 8. §
 
-12/A. §
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 12/A. §
 
 13. § Kollektív szerződés
 
@@ -398,7 +406,7 @@ eredmény adható.
 
 (10) A vezetői pótlék (7)–(9) bekezdés szerinti megtérítésén túlmenően a munkáltató a közalkalmazott felmerült kárát is köteles megtéríteni.
 
-23/A. §
+#### 23/A. §
 
 23/B. § (1) A teljes munkaidőben foglalkoztatott közalkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a közalkalmazott a kérelem benyújtásakor az Mt. 128. §-ában foglalt fizetés nélküli szabadságot vesz igénybe.
 
@@ -543,9 +551,9 @@ alakul át.
 
 25/D. § Ha a közalkalmazotti jogviszonyt létesítő személy a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül első jogviszonyként közalkalmazotti jogviszonyt létesít, a jogviszonyát folyamatosnak kell tekinteni.
 
-25/E. §
+#### 25/E. §
 
-25/F. §
+#### 25/F. §
 
 26. § (1) Az áthelyezésben a két munkáltatónak egymással és a közalkalmazottal kölcsönösen meg kell állapodnia.
 
@@ -698,7 +706,9 @@ Kollektív szerződés 8 hónapnál hosszabb felmentési időt nem állapíthat 
 
 (4) Rendkívüli felmentés esetén – az e törvényben meghatározott kivételektől eltekintve – a felmentés szabályai nem alkalmazhatók.
 
-34–35. §
+#### 34. §
+
+#### 35. §
 
 36. § (1) A munkáltató a közalkalmazotti jogviszony megszűnésekor a közalkalmazott részére közalkalmazotti igazolást ad.
 
@@ -775,7 +785,7 @@ távolléti díjának megfelelő összeg.
 
 (2) A közalkalmazott a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletekben jogosult.
 
-37/B. §
+#### 37/B. §
 
 38. § (1) A közalkalmazotti jogviszony tekintetében az Mt.–nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–70. §, a 77–79. § és a 85. § nem alkalmazható.
 
@@ -871,7 +881,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (5) A (2) bekezdés b) pontjától eltérően a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) szerinti költségvetési kutatóhely által foglalkoztatott közalkalmazott a hasznosító vállalkozásnak, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társaságnak – a kutatóhelynek a KFItv. 34/A. § (2) bekezdése szerinti átláthatósági szabályzatában foglaltakkal összhangban, a munkáltató előzetes írásbeli hozzájárulásával – tagja vagy vezető tisztségviselője lehet, illetve azzal munkavégzésre irányuló további jogviszonyt létesíthet.
 
-41/A. §
+#### 41/A. §
 
 42. § A munkáltató a vele közalkalmazotti jogviszonyban álló közalkalmazottal munkaköri feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet.
 
@@ -883,9 +893,9 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (2) Az (1) bekezdésben meghatározott munkáltatónál megbízott magasabb vezető és vezető munkavégzésre irányuló további jogviszonyt nem létesíthet. Nem vonatkozik ez a tilalom arra a jogviszonyra, amelyet tudományos, ismeretterjesztő, oktatói vagy szerzői jogi védelem alá eső tevékenységre létesítettek.
 
-43/B. §
+#### 43/B. §
 
-43/C. §
+#### 43/C. §
 
 43/D. § (1) A 41–43. §-ban foglaltakon túlmenően a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervnél, valamint a központi költségvetési intézményként működő kutatóhelyeknél összeférhetetlen az olyan munkavégzésre irányuló további jogviszony, amelynek keretében a közalkalmazottat foglalkoztató munkáltató üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására kerülne sor.
 
@@ -923,19 +933,33 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (6)
 
-45–51. §
+#### 45. §
 
-51/A. §
+#### 46. §
 
-52–53. §
+#### 47. §
 
-53/A. §
+#### 48. §
 
-53/B. §
+#### 49. §
 
-54. §
+#### 50. §
 
-54/A. §
+#### 51. §
+
+#### 51/A. §
+
+#### 52. §
+
+#### 53. §
+
+#### 53/A. §
+
+#### 53/B. §
+
+#### 54. §
+
+#### 54/A. §
 
 ### IV. Fejezet — A munkaidő és pihenőidő
 
@@ -970,7 +994,7 @@ alapszabadság illeti meg.
 
 (6) A jogszabályban meghatározott egészségkárosító kockázatok között munkahelyen eltöltött napi munkaidőtől függetlenül az (5) bekezdésben meghatározott pótszabadság megilleti azt a közalkalmazottat is, akit rendszeresen kettős egészségkárosító kockázatnak kitett munkakörben foglalkoztatnak, feltéve, hogy az egyik kockázat nem ionizáló sugárzással függ össze.
 
-57/A. § Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+57/A. § Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a közalkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 57/B. § (1)
 
@@ -1008,7 +1032,9 @@ alapszabadság illeti meg.
 
 (5) A közalkalmazotti jogviszony tekintetében az Mt. 298. § (7) bekezdése nem alkalmazható.
 
-### V. Fejezet — A közalkalmazottakelőmeneteli és illetményrendszere
+### V. Fejezet — A közalkalmazottak
+
+előmeneteli és illetményrendszere
 
 60. § E törvény biztosítja a közalkalmazott számára a közalkalmazotti pályán való előmenetel lehetőségét.
 
@@ -1112,7 +1138,7 @@ megfelelő összeg illeti meg.
 
 (11) A (2)–(4) bekezdésben említett illetményrész azon időszak alatt illeti meg a közalkalmazottat, amely alatt a további szakképesítést alkalmazza. Ez az időszak azonban egy hónapnál rövidebb nem lehet.
 
-66/A. §
+#### 66/A. §
 
 67. § (1) A közalkalmazott a fizetési fokozata alapján járó illetményén felül illetménykiegészítésben részesülhet.
 
@@ -1120,7 +1146,7 @@ megfelelő összeg illeti meg.
 
 (3) A munkáltató, ha az elért teljesítménytől függően térítésben részesül, annak meghatározott hányadát illetménykiegészítésre fordíthatja jogszabályban, vagy ennek hiányában kollektív szerződésben foglaltak szerint. Ebben az esetben a közalkalmazottal külön megállapodásban kell meghatározni a részére járó illetménykiegészítés feltételeit és mértékét.
 
-68. §
+#### 68. §
 
 69. § Az e törvényben megállapított feltételek mellett a közalkalmazott a 70–75. § szerinti illetménypótlékra jogosult. A 70–75. § szerinti illetménypótlék számításának alapját (a továbbiakban: pótlékalap) a mindenkori éves költségvetési törvény állapítja meg.
 
@@ -1155,7 +1181,7 @@ megfelelő összeg illeti meg.
 
 (3) A pótlék mértéke a pótlékalap 100%-a.
 
-73. §
+#### 73. §
 
 74. § (1) Idegennnyelv-tudási pótlékra jogosult a közalkalmazott, ha olyan munkakört tölt be, amelyben a magyar nyelv mellett meghatározott idegen nyelv rendszeres használata indokolt.
 
@@ -1176,7 +1202,7 @@ megfelelő összeg illeti meg.
 
 (3) A (2) bekezdéstől eltérően, ha jogszabály az illetménypótlék mértékének alsó és felső határát egyaránt meghatározza, e felső határnál magasabb mértékű illetménypótlékot a kollektív szerződés sem állapíthat meg.
 
-76. §
+#### 76. §
 
 77. § (1) A közalkalmazottat a munkáltató meghatározott munkateljesítmény eléréséért, illetve átmeneti többletfeladatok – ide nem értve az átirányítást – teljesítéséért a megállapított személyi juttatások előirányzatán belül egyszeri vagy meghatározott időre szóló, havi rendszerességgel fizetett keresetkiegészítésben részesítheti.
 
@@ -1186,9 +1212,9 @@ megfelelő összeg illeti meg.
 
 77/A. § A közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a kormányzati igazgatásról szóló törvényben, valamint ezek végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a közalkalmazott is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
 
-77/B. §
+#### 77/B. §
 
-77/C. §
+#### 77/C. §
 
 78. § (1) A huszonöt, harminc-, illetve negyvenévi közalkalmazotti jogviszonnyal rendelkező közalkalmazottnak jubileumi jutalom jár.
 
@@ -1242,7 +1268,7 @@ megfelelő összeg illeti meg.
 
 (12)
 
-78/B. §
+#### 78/B. §
 
 79. § (1) Végrehajtási rendelet előírhatja a munka jellegére tekintettel biztosítandó formaruha-juttatást.
 
@@ -1297,9 +1323,9 @@ magasabb fizetési fokozatba kell besorolni.
 
 ### VI. Fejezet — A közalkalmazott és a munkáltató kártérítési felelőssége
 
-81. §
+#### 81. §
 
-81/A. §
+#### 81/A. §
 
 82. § (1) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott kárért teljes mértékben felel.
 
@@ -1347,7 +1373,7 @@ magasabb fizetési fokozatba kell besorolni.
 - a) a KOMT-ban történt egyeztetést követően a reprezentativitás feltételei igazolásának rendjét,
 - b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a személyügyi központ internetes oldalán való közzétételére vonatkozó részletes szabályokat,
 - c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat,
-- d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
+- d)
 
 (2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, , az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
@@ -1487,7 +1513,7 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 is érteni kell.
 
-86. §
+#### 86. §
 
 87. § (1) E törvény hatálybalépésével a hatálya alá tartozó munkáltatónál foglalkoztatottak munkaviszonya közalkalmazotti jogviszonnyá alakul át.
 
@@ -1528,7 +1554,7 @@ eltöltött időt.
 
 (5) Ha a közalkalmazotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
-88. §
+#### 88. §
 
 89. § (1) E törvénynek a közalkalmazottak illetmény-előmenetelére vonatkozó rendelkezését 1994. január 1-jétől kell alkalmazni. A közalkalmazott illetménye a megállapítást megelőző alapbérénél nem lehet alacsonyabb mértékű.
 
@@ -1536,7 +1562,7 @@ eltöltött időt.
 
 (3)
 
-90. §
+#### 90. §
 
 91. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény (a továbbiakban: Mth.) 2–18. §-át a közalkalmazotti jogviszony tekintetében is megfelelően alkalmazni kell.
 
@@ -1570,6 +1596,13 @@ eltöltött időt.
 
 (3) Az a tanári munkakörbe kinevezett közalkalmazott, akinek munkaköre a Kjt. módtv. 3. §-a következtében megszűnt, a kinevezésének megfelelő munkakörben – a (2) bekezdés figyelembevételével – alkalmazható tovább, e munkakörre új kinevezés azonban nem létesíthető.
 
+91/G. § (1) A közalkalmazott 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvény (a továbbiakban: Módtv1.) hatálybalépésétől számított két hónapon belül jogosult az apasági szabadságot igénybe venni, ha a Módtv1. hatálybalépése előtt
+
+- a) az 57/A. §-a szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) az 57/A. §-a szerinti apai pótszabadságot igénybe vette, annak és a Módtv1. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+(2) A munkáltató, ha a közalkalmazott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a közalkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
 92. § (1)
 
 (2) A nemzetbiztonsági szolgálatok személyi állományába tartozó közalkalmazottak tekintetében a 79/A. § rendelkezéseit nem kell alkalmazni.
@@ -1586,9 +1619,12 @@ eltöltött időt.
 - b) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt;
 - c) a munkavállalók jogainak a vállalkozások, üzletek, vagy ezek részeinek átruházása esetén történő védelmére vonatkozó tagállami jogszabályok közelítéséről szóló, a Tanács 2001/23/EK irányelvével, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt.
 
-95. § (1) E törvény a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+95. § E törvény
 
-(2) E törvény az egy harmadik ország állampolgára, illetve hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet 6., 33. cikkei végrehajtásához szükséges rendelkezéseket állapít meg.
+- a) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja,
+- b) egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról (átdolgozás) szóló, 2013. június 26-i, 604/2013/EU európai parlamenti és tanácsi rendelet 6. és 33. cikke végrehajtásához szükséges rendelkezéseket állapít meg,
+- c) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanács irányelvnek való megfelelést szolgálja,
+- d) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. számú melléklet 1992. évi XXXIII. törvényhez
 

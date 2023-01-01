@@ -91,7 +91,7 @@ kell érteni.
 
 10. § A kártérítési felelősségre a károkozó magatartás (esemény), ha ennek időpontja nem állapítható meg, a kár bekövetkezésének időpontjában hatályos rendelkezések az irányadók.
 
-11. § (1) Az Mt. 205. § (1) bekezdését és (2) bekezdés a) pontját az Mt. hatálybalépését követően kötött kollektív szerződésre és munkaszerződésre kell alkalmazni.
+11. § (1) Az Mt. 205. § (1) bekezdését és (2) bekezdés a) pontját az Mt. hatálybalépését követően kötött kollektív szerződésre és munkaszerződésre kell alkalmazni, ha a munkáltató az Mt. hatálybalépésével, vagy azt követően minősül köztulajdonban állónak.
 
 (2) Az Mt. 214. § (2) bekezdését a 2011. december 1-jét megelőzően létesített határozatlan idejű munkaviszonyokban történő kikölcsönzés esetén is alkalmazni kell, azzal, hogy a kikölcsönzés kezdő időpontjának 2011. december 1-jét kell tekinteni.
 
@@ -166,6 +166,25 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 19/E. § (1) Az Mt.-nek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (a továbbiakban: Módtv4.) megállapított 94. § (4) bekezdését a 2019. január 1-jét követően kezdődött munkaidőkeret vagy elszámolási időszak tekintetében is alkalmazni kell.
 
 (2) Ha a Módtv4. hatálybalépése előtt a kollektív szerződés megszűnt és a megszűnés időpontjától három hónap eltelt, a munkaidőkeretet vagy elszámolási időszakot a Módtv4. hatálybalépésének napján kell lezárni és a feleknek el kell számolni.
+
+19/F. § (1) Az Mt.-nek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv5.) megállapított rendelkezéseit – a (2)–(7) bekezdésben foglaltak, és az Mt. 192. § (5) bekezdése kivételével – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
+(2) Az Mt.-nek a Módtv5.-tel megállapított 7. § (3) bekezdését a Módtv5. hatálybalépését követő jogsértésre alapított munkajogi igény érvényesítése esetén kell alkalmazni.
+
+(3) Az Mt. 46. §-ában foglalt kiegészítő tájékoztatást a Módtv5. hatálybalépésekor fennálló munkaviszony esetén a Módtv5. hatálybalépését követő három hónapon belül a munkavállaló írásban kérheti a munkáltatótól.
+
+(4) Az Mt.-nek a Módtv5.-tel megállapított 83. § (1) bekezdés a) pont ab) alpontját a Módtv5. hatálybalépését követően közölt jognyilatkozat esetén kell alkalmazni.
+
+(5) A (3) bekezdés szerinti tájékoztatást a munkáltató a kérelem közlésétől számított 30 napon belül köteles megadni.
+
+(6) A munkavállaló 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után a Módtv5. hatálybalépésétől számított két hónapon belül jogosult az Mt. 118. § (4) bekezdése szerinti apasági szabadságot igénybe venni, ha a Módtv5. hatálybalépése előtt
+
+- a) az Mt. 118. § (4) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) az Mt. 118. § (4) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv5. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+(7) A munkáltató, ha a munkavállaló gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a munkavállaló kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
+(8) Az Mt.-nek a Módtv5.-tel megállapított 294. § (1) bekezdés e) pontját a munkavédelmi képviselő tekintetében a Módtv5. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 ## MÁSODIK RÉSZ — MÓDOSÍTÓ RENDELKEZÉSEK
 
@@ -423,7 +442,9 @@ a családtag ápolását követően munkát keresők foglalkoztatásának előse
 
 2009. évi CXXII. törvény módosítása
 
-#### 69–70. §
+#### 69. §
+
+#### 70. §
 
 #### 51. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
@@ -563,4 +584,8 @@ a családtag ápolását követően munkát keresők foglalkoztatásának előse
 
 (2)–(4)
 
-### 1–3. melléklet a 2012. évi LXXXVI. törvényhez
+### 1. melléklet a 2012. évi LXXXVI. törvényhez
+
+### 2. melléklet a 2012. évi LXXXVI. törvényhez
+
+### 3. melléklet a 2012. évi LXXXVI. törvényhez

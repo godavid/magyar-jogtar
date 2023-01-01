@@ -231,9 +231,9 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 19. § (1)
 
-(2) A főpolgármester és a megyei közgyűlés elnöke, a polgármester a katasztrófavédelmi feladatait a hivatásos katasztrófavédelmi szerv közreműködésével látja el.
+(2) A főpolgármester és a vármegyei közgyűlés elnöke, a polgármester a katasztrófavédelmi feladatait a hivatásos katasztrófavédelmi szerv közreműködésével látja el.
 
-(2a) A megyei közgyűlés elnöke, a főpolgármester és a polgármester a katasztrófavédelmi feladatok e törvényben meghatározott végrehajtása során államigazgatási jogkörben jár el.
+(2a) A vármegyei közgyűlés elnöke, a főpolgármester és a polgármester a katasztrófavédelmi feladatok e törvényben meghatározott végrehajtása során államigazgatási jogkörben jár el.
 
 (3) A katasztrófavédelmi feladatok ellátása érdekében a kormánytisztviselő, a köztisztviselő, a közalkalmazott és az egészségügyi szolgálati jogviszonyban álló személy túlmunkára kötelezhető.
 
@@ -245,7 +245,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 21. § (1) A lakossági riasztórendszer elemeinek, végpontjainak idegen építményen történő elhelyezésénél törekedni kell elsődlegesen az állami, önkormányzati építményeken történő elhelyezésre. Amennyiben a magántulajdonú építménnyel szemben az állami, önkormányzati területen történő elhelyezés aránytalanul nagy költségráfordítást, illetve technológiai változást jelent, a lakossági riasztórendszer magántulajdonú építményeken kerül elhelyezésre.
 
-(2) A lakossági riasztórendszer végpontjainak telepítése és üzemeltetése céljából a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei javára ingatlanon közérdekből szolgalmi jog alapítható. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről az ingatlan tulajdonosával (vagyonkezelőjével, használójával) ajánlat megküldésével kell egyezség létrehozását megkísérelni. Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a hivatásos katasztrófavédelmi szerv központi szerve vagy a hivatásos katasztrófavédelmi szerv területi szerve kérelmére a fővárosi és megyei kormányhivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog közérdekű szolgalomnak minősül.
+(2) A lakossági riasztórendszer végpontjainak telepítése és üzemeltetése céljából a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei javára ingatlanon közérdekből szolgalmi jog alapítható. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről az ingatlan tulajdonosával (vagyonkezelőjével, használójával) ajánlat megküldésével kell egyezség létrehozását megkísérelni. Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a hivatásos katasztrófavédelmi szerv központi szerve vagy a hivatásos katasztrófavédelmi szerv területi szerve kérelmére a fővárosi és vármegyei kormányhivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog közérdekű szolgalomnak minősül.
 
 (3) A szolgalom jogosultja a szolgalmi jog alapján az idegen ingatlanon építményt építhet, távközlési és energetikai vezetékeket, mérő, vezérlő és egyéb speciális berendezéseket helyezhet el. A szolgalom alapján a központi, illetve a hivatásos katasztrófavédelmi szerv területi szervei jogosultak a tevékenység végzéséhez szükséges mértékben az ingatlan igénybevételére, különösen ellenőrzés, javítás, karbantartás, kapacitásfenntartás és -bővítés, az üzemelés, a biztonság fenntartása, az üzemzavar megelőzése és elhárítása érdekében szükséges intézkedések végrehajtására.
 
@@ -262,7 +262,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 22. § (1) A katasztrófavédelem megvalósításában részt vevő hivatásos katasztrófavédelmi szerv:
 
 - a) az országos illetékességgel működő központi szerv,
-- b) a megyei, fővárosi illetékességgel működő területi szervek,
+- b) a vármegyei, fővárosi illetékességgel működő területi szervek,
 - c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
 (2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, rendvédelmi alkalmazottak, munkavállalók és tisztjelöltek.
@@ -454,7 +454,7 @@ esetén.
 
 34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdése szerinti végleges határozatát a veszélyeztetett települések polgármestereivel, az üzem telephelye szerint illetékes környezetvédelmi, valamint természetvédelmi hatósággal, a fővárosban a főpolgármesterrel, valamint a veszélyes anyagokkal foglalkozó üzem telephelye szerint illetékes helyi, területi védelmi bizottság elnökével közli.
 
-(2) Az iparbiztonsági hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes megyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.
+(2) Az iparbiztonsági hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes vármegyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.
 
 35. § (1) Az iparbiztonsági hatóság az üzemeltetőt megfelelő határidő megjelölésével kötelezheti a IV. fejezetben és a végrehajtási rendeletekben meghatározott üzemeltetői kötelezettségek teljesítésére, vagy ha a biztonságos üzemeltetés feltétele bármely okból hiányzik, a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséhez és elhárításához szükséges intézkedések megtételére. Az iparbiztonsági hatóság az előírt kötelezettség vagy intézkedés megtételéig a veszélyes tevékenység folytatásának felfüggesztését rendelheti el.
 
@@ -798,7 +798,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (2) Az Országgyűlés más minisztérium esetén a katasztrófavédelmi feladatok végrehajtására a forrást az adott költségvetési fejezeten belül elkülönítetten biztosítja.
 
-74. § Az Országgyűlés a helyi önkormányzatok számára biztosítja a megyei közgyűlés elnöke, a főpolgármester és a polgármester katasztrófavédelmi feladatának ellátásához szükséges anyagi feltételeket.
+74. § Az Országgyűlés a helyi önkormányzatok számára biztosítja a vármegyei közgyűlés elnöke, a főpolgármester és a polgármester katasztrófavédelmi feladatának ellátásához szükséges anyagi feltételeket.
 
 75. § (1) A munkahelyi polgári védelmi szervezetek létrehozásával, működésével és fenntartásával összefüggő kiadások fedezete a gazdálkodó szervezetet terheli.
 

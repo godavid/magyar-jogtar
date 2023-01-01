@@ -2,7 +2,11 @@
 
 a honvédek jogállásáról
 
-Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megvalósítása érdekében az állam a Magyar Honvédség tényleges szolgálatot teljesítő katonáitól tántoríthatatlan hűséget, hivatásukhoz méltó, példamutató magatartást, bátor helytállást, magas fokú készenlétet és fegyelmet követel.A honvédelem nemzeti ügyének elhivatott szolgálata, valamint a szövetségi kötelezettségek magas színvonalú teljesítése korszerű katonai ismeretek, képességek megszerzésére, és folyamatos fejlesztésére alapozható, továbbá kiszámítható életpályával biztosítható.Az Országgyűlés elismeri a katonai szolgálattal együtt járó áldozatvállalást, és az azzal arányban álló erkölcsi, valamint anyagi megbecsülés indokoltságát, ezért – a nemzedékek közötti szolidaritást is alapul véve – a következő törvényt alkotja:
+Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megvalósítása érdekében az állam a Magyar Honvédség tényleges szolgálatot teljesítő katonáitól tántoríthatatlan hűséget, hivatásukhoz méltó, példamutató magatartást, bátor helytállást, magas fokú készenlétet és fegyelmet követel.
+
+A honvédelem nemzeti ügyének elhivatott szolgálata, valamint a szövetségi kötelezettségek magas színvonalú teljesítése korszerű katonai ismeretek, képességek megszerzésére, és folyamatos fejlesztésére alapozható, továbbá kiszámítható életpályával biztosítható.
+
+Az Országgyűlés elismeri a katonai szolgálattal együtt járó áldozatvállalást, és az azzal arányban álló erkölcsi, valamint anyagi megbecsülés indokoltságát, ezért – a nemzedékek közötti szolidaritást is alapul véve – a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -29,15 +33,18 @@ akkor terjed ki, ha ezt e törvény elrendeli.
   - b) speciális előmeneteli rendben alacsonyabb elérhető rendfokozatú,
   - c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összevetése alapján alacsonyabbnak minősül,
 - 2. altiszti állomány tagja: az a katona, aki az 1. melléklet szerinti altiszti vagy zászlósi (a továbbiakban együtt: altiszti) rendfokozatot visel,
+- 2a. apa: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint szülői felügyelettel rendelkező
+  - a) apai jogállású férfi, vagy
+  - b) örökbefogadó férfi,
 - 3. azonos beosztás: az a státusz, amely
   - a) általános előmeneteli rendben azonos rendfokozattal rendszeresített,
   - b) speciális előmeneteli rendben azonos elérhető rendfokozatú,
   - c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összevetése alapján azonosnak minősül,
-- 4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Magyar Honvédség parancsnokának a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 65. § (1) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
+- 4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Honvéd Vezérkar főnökének a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 65. § (1) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
 - 5. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet az állomány tagja szolgálati beosztásához kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni,
 - 6. előmenetel: szervezeti hierarchiában történő előrehaladás, amely szolgálati beosztásba történő kinevezéssel, illetve – a 139. § (6) bekezdése szerinti posztumusz elismerést ide nem értve – rendfokozati kinevezéssel, előléptetéssel valósul meg,
 - 7. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
-- 8. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek,
+- 8. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák,
 - 9. gyermekét egyedül nevelő: az állomány azon tagja, aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él, vagy nincs élettársa,
 - 10. hivatásos állomány tagja: az állomány azon tagja, aki élethivatásként, határozatlan időre vállalja a katonai szolgálatot,
 - 11. honvéd altiszt-jelölt: az iskolarendszerű nappali tagozatos katonai szakképzésre felvételt nyert személy, aki annak időtartama alatt tanulói jogviszonyban és altiszt-jelölti szolgálati viszonyban áll,
@@ -98,13 +105,13 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 4. § (1) A miniszter által gyakorolt kiemelt munkáltatói jogköröket a 2. melléklet határozza meg. A további munkáltatói jogköröket, a munkáltatói részjogköröket, azok gyakorlóját, és gyakorlásuk rendjét miniszteri rendelet határozza meg azzal, hogy a munkáltatói jogkörök az állománycsoport, a rendfokozati csoport, a rendfokozat, a szolgálati viszony jellege, a szolgálati hely és a szolgálatteljesítés helye szerint differenciáltan meghatározhatók.
 
-(2) A miniszter magához vonhatja a Magyar Honvédség parancsnoka, a KNBSZ főigazgatója, az állományilletékes parancsnok, az elöljáró parancsnok, a központi személyügyi szerv vezetője munkáltatói jogköreit.
+(2) A miniszter magához vonhatja a Honvéd Vezérkar főnöke, a KNBSZ főigazgatója, az állományilletékes parancsnok, az elöljáró parancsnok, a központi személyügyi szerv vezetője munkáltatói jogköreit.
 
-(3) A Magyar Honvédség parancsnoka magához vonhatja az állományilletékes parancsnok, az elöljáró parancsnok és a központi személyügyi szerv vezetője munkáltatói jogköreit. A Magyar Honvédség parancsnoka a KNBSZ főigazgatója állományilletékes jogköreit nem vonhatja el.
+(3) A Honvéd Vezérkar főnöke magához vonhatja az állományilletékes parancsnok, az elöljáró parancsnok és a központi személyügyi szerv vezetője munkáltatói jogköreit. A Honvéd Vezérkar főnöke a KNBSZ főigazgatója állományilletékes jogköreit nem vonhatja el.
 
 (4) Az állományilletékes parancsnok magához vonhatja az állományilletékes személyügyi szerv vezetőjének munkáltatói jogköreit.
 
-(5) A központi személyügyi szerv vezetője magához vonhatja az állományilletékes parancsnok és az állományilletékes személyügyi szerv vezetőjének jogköreit. E rendelkezés nem alkalmazható a Magyar Honvédség parancsnoka és a KNBSZ főigazgatója állományilletékes jogköreire, valamint a KNBSZ személyügyi szerv vezetőjének munkáltatói jogköreire, valamint a miniszteri rendeletben meghatározott egyéb munkáltatói jogkörökre.
+(5) A központi személyügyi szerv vezetője magához vonhatja az állományilletékes parancsnok és az állományilletékes személyügyi szerv vezetőjének jogköreit. E rendelkezés nem alkalmazható a Honvéd Vezérkar főnöke és a KNBSZ főigazgatója állományilletékes jogköreire, valamint a KNBSZ személyügyi szerv vezetőjének munkáltatói jogköreire, valamint a miniszteri rendeletben meghatározott egyéb munkáltatói jogkörökre.
 
 ### 3a. A köztársasági elnök jogkörei
 
@@ -444,7 +451,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - b) a honvéd altiszt-jelölttel,
 - c) a legénységi állomány azon tagjával, aki a honvédelmi szervezet által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 - d) a szerződéses szolgálati viszonyban, önkéntes tartalékos szolgálati viszonyban, honvédelmi szervezetnél kormányzati szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkaviszonyban álló személlyel,
-- e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából áthelyezésre kerülő személlyel,
+- e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos vagy szerződéses állományából, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából áthelyezésre kerülő személlyel,
 - f) a polgári életből a 35. § (1) bekezdése szerinti állományba vétellel tiszti vagy altiszti állományba kerülő személlyel.
 
 (2) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni akkor, ha törvény a szolgálati viszony létesítését és fenntartását a hivatásos állományba vételhez köti.
@@ -498,7 +505,7 @@ időtartamra vállalja a szolgálatot.
 
 #### 21.
 
-36. §
+#### 36. §
 
 37. § (1) Az állomány tagja a 31. § (4) bekezdésen túl az állományba vételhez és a kinevezéshez szükséges adatokat és tényeket igazolni köteles.
 
@@ -551,7 +558,7 @@ jön létre, legfeljebb 6 hónap próbaidő köthető ki.
 
 (2) Az állományba vétel során az első rendfokozatot az (1) bekezdésre, a tervezett szolgálati beosztáshoz megfelelő szakmai gyakorlat idejére, valamint a kötelező várakozási időkre figyelemmel kell megállapítani úgy, hogy az tiszt esetén legfeljebb százados, altiszt esetén legfeljebb főtörzsőrmester lehet.
 
-(3) A (2) bekezdéstől eltérő rendfokozatot a Magyar Honvédség parancsnoka engedélyezhet, ha a magasabb rendfokozattal történő állományba vételhez szolgálati érdek fűződik. Nem kell a Magyar Honvédség parancsnokának engedélye, ha ismételt szolgálativiszony-létesítés esetén a (2) bekezdés szerinti rendfokozat megegyezik az állomány tagjának a korábbi szolgálati viszony megszűnésekor, megszüntetésekor viselt rendfokozatával.
+(3) A (2) bekezdéstől eltérő rendfokozatot a Honvéd Vezérkar főnöke engedélyezhet, ha a magasabb rendfokozattal történő állományba vételhez szolgálati érdek fűződik. Nem kell a Honvéd Vezérkar főnökének engedélye, ha ismételt szolgálativiszony-létesítés esetén a (2) bekezdés szerinti rendfokozat megegyezik az állomány tagjának a korábbi szolgálati viszony megszűnésekor, megszüntetésekor viselt rendfokozatával.
 
 (4) Ha az állomány tagjának szolgálati viszonya az 59. § (1) bekezdés c) pontja vagy a 68. § (1) bekezdés k)–m) pontja szerint szűnt meg, a 31. § (2) bekezdés c) vagy f) pontja szerinti időtartam lejártát követően – a korábban viselt rendfokozatától függetlenül – kizárólag hadnagy vagy őrmester rendfokozattal, vagy közkatonaként vehető vissza. Ebben az esetben a (3) bekezdés nem alkalmazható.
 
@@ -868,9 +875,9 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 #### 33. A határozott időre szóló kinevezés, előléptetés
 
-56. § (1) A Magyar Honvédség parancsnoki beosztásba történő kinevezés határozott időre, legfeljebb 5 évre szól. A kinevezés legfeljebb 5 év időtartamban meghosszabbítható.
+56. § (1) A Honvéd Vezérkar főnöki és a Magyar Honvédség vezénylő zászlósi beosztásba történő kinevezés határozott időre, legfeljebb 5 évre szól. A kinevezés legfeljebb 5 év időtartamban meghosszabbítható.
 
-(2) A Magyar Honvédség parancsnoka – egyéb feltételek fennállása esetén – kizárólag kérelmére helyezhető át nyugdíj előtti rendelkezési állományba.
+(2) A Honvéd Vezérkar főnöke – egyéb feltételek fennállása esetén – kizárólag kérelmére helyezhető át nyugdíj előtti rendelkezési állományba.
 
 57. § (1) Ha az állomány 42. § (2) bekezdés b)–f) pontja alapján vezényelt tagjának viselt rendfokozata egy rendfokozati szinttel eltér a vezénylés idejére tervezett általános előmeneteli rendű beosztáshoz rendszeresített, illetve alacsonyabb a vezénylés idejére tervezett speciális előmeneteli rendű beosztásban elérhető, jogszabályban meghatározott rendfokozattól, az állomány tagja a vezénylés vagy a vezénylés során adott beosztás betöltésének időtartamára egy rendfokozattal magasabb rendfokozatba előléptethető, kinevezhető vagy részére eggyel alacsonyabb rendfokozat állapítható meg.
 
@@ -904,7 +911,7 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 58/E. § (1) Az állomány tagja kirendeléssel teljesíthet szolgálatot a miniszter által vezetett minisztériumban, a miniszter irányítása alatt álló központi hivatalban vagy a miniszter közvetlen alárendeltségébe tartozó szervezetnél rendszeresített szolgálati beosztásban.
 
-(2) Kirendelés esetén a szolgálati viszony létesítésére és megszüntetésére vonatkozó jogköröket – ide nem értve a tábornokok jogviszony megszüntetését – a Magyar Honvédség parancsnoka gyakorolja. A további munkáltatói jogköröket, a munkáltatói részjogköröket, azok gyakorlóját és gyakorlásuk rendjét miniszteri rendelet határozza meg.
+(2) Kirendelés esetén a szolgálati viszony létesítésére és megszüntetésére vonatkozó jogköröket – ide nem értve a tábornokok jogviszony megszüntetését – a Honvéd Vezérkar főnöke gyakorolja. A további munkáltatói jogköröket, a munkáltatói részjogköröket, azok gyakorlóját és gyakorlásuk rendjét miniszteri rendelet határozza meg.
 
 (3) A kirendelésre egyebekben az áthelyezés és a kinevezés szabályait kell alkalmazni.
 
@@ -1048,7 +1055,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 
 #### 40. A felmentési védelem
 
-67. § (1) Nem szüntethető meg a szolgálati viszony felmentéssel az a)–i) pont szerinti időtartam és az azt követő 30 nap alatt:
+67. § (1) Nem szüntethető meg a szolgálati viszony felmentéssel az a)–k) pont szerinti időtartam és az azt követő 30 nap alatt:
 
 - a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvos-bizottsági alkalmassági felülvizsgálat ideje,
 - b) a beteg gyermek ápolásának ideje vagy ilyen célból, továbbá a közeli hozzátartozó vagy élettárs otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság,
@@ -1059,6 +1066,8 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 - g) örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított 6 hónap, illetve, ha a gyermek a 6 hónap letelte előtt kikerül a gondozásból, a kötelező gondozás,
 - h) az 58/A. § szerinti szünetelés időtartama,
 - i) a 117. § (4) bekezdés szerinti illetmény nélküli szabadság időtartama.
+- j) a szülői szabadság időtartama,
+- k) az apasági szabadság időtartama.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó. Az (1) bekezdésben meghatározott körülményre az állomány tagja csak akkor hivatkozhat, ha erről a munkáltatói jogkört gyakorlót tájékoztatta.
 
@@ -1070,7 +1079,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 
 - a) a szolgálat felső korhatárának elérésekor azzal, hogy a katonai bíró a Magyar Honvédséggel fennálló szolgálati viszonya a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha a bírói szolgálati viszonya megszűnik,
 - b) a jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése esetén,
-- c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
+- c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
 - d) – az 58/A. §-ban foglaltak kivételével – politikai szolgálati jogviszonyba történő kinevezésével,
 - e) a magyar állampolgárság megszűnésével,
 - f) a más állam állampolgárságának megszerzésével akkor, ha az állampolgárság megszerzésére az állomány tagjának közrehatására, vagy kifejezett beleegyezésével került sor, és az befolyásolja közreműködését a honvédelmi szervezet feladatainak ellátásában,
@@ -1148,13 +1157,13 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 
 (6) Az állomány tagja a felajánlott szolgálati beosztás, munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha az állomány tagja öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott beosztást, munkakört elutasította volna. Ha az állomány tagja az (1) bekezdés szerinti eljárásban felajánlott szolgálati beosztást, munkakört nem fogadja el, egészségkárosodási ellátásra nem jogosult, és a szolgálati viszonyát felmentéssel kell megszüntetni.
 
-68/C. § (1) A 68/B. § szerinti továbbfoglalkoztatási kötelezettség alól az állomány tagjának kérelme alapján a Magyar Honvédség parancsnokának előterjesztésére a miniszter adhat mentesítést, ha az állomány tagjának egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os vagy kisebb mértékű. Honvédelmi egészségkárosodási járadékra jogosultság abban az esetben állapítható meg, ha a miniszter a továbbfoglalkoztatási kötelezettség alól mentesítést ad.
+68/C. § (1) A 68/B. § szerinti továbbfoglalkoztatási kötelezettség alól az állomány tagjának kérelme alapján a Honvéd Vezérkar főnökének előterjesztésére a miniszter adhat mentesítést, ha az állomány tagjának egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os vagy kisebb mértékű. Honvédelmi egészségkárosodási járadékra jogosultság abban az esetben állapítható meg, ha a miniszter a továbbfoglalkoztatási kötelezettség alól mentesítést ad.
 
-(2) A munkáltatói jogkört gyakorló a katonai szolgálatra vagy a szolgálati beosztás ellátására való alkalmatlanságról szóló határozat kézhezvételét követően benyújtott, a továbbfoglalkoztatás alóli mentesítésre irányuló kérelem alapján haladéktalanul felterjeszti javaslatát a Magyar Honvédség parancsnokának. A Magyar Honvédség parancsnoka tizenöt napon belül megküldi előterjesztését a miniszternek.
+(2) A munkáltatói jogkört gyakorló a katonai szolgálatra vagy a szolgálati beosztás ellátására való alkalmatlanságról szóló határozat kézhezvételét követően benyújtott, a továbbfoglalkoztatás alóli mentesítésre irányuló kérelem alapján haladéktalanul felterjeszti javaslatát a Honvéd Vezérkar főnökének. A Honvéd Vezérkar főnöke tizenöt napon belül megküldi előterjesztését a miniszternek.
 
 (3) A miniszter a továbbfoglalkoztatási kötelezettség alóli mentesítés tárgyában harminc napon belül indokolt határozatban dönt. A miniszter a döntés során mérlegeli, hogy a honvédelmi szervezetnél meghatározható-e olyan feladatkör, amelyet az állomány tagja nem katonai munkakörben egészségi állapota alapján elláthat, valamint azt, ha az állomány tagjának egészségi állapota alapján tőle már nem várható el a mindennapos rendelkezésre állási és munkavégzési kötelezettség. A döntéssel szemben önálló jogorvoslatnak nincs helye, az az egészségkárosodási ellátás megállapítása tárgyában hozott határozat elleni jogorvoslat keretében támadható meg.
 
-(4) Ha a munkáltatói jogkört gyakorló a Magyar Honvédség parancsnoka, akkor a (2) bekezdésben foglaltaktól eltérően a Magyar Honvédség parancsnoka az erre irányuló kérelem benyújtásától számított tizenöt napon belül megküldi előterjesztését a miniszternek.
+(4) Ha a munkáltatói jogkört gyakorló a Honvéd Vezérkar főnöke, akkor a (2) bekezdésben foglaltaktól eltérően a Honvéd Vezérkar főnöke az erre irányuló kérelem benyújtásától számított tizenöt napon belül megküldi előterjesztését a miniszternek.
 
 (5) A honvédelmi egészségkárosodási járadék megállapítása esetén felmentés helyett a törvény erejénél fogva szűnik meg az állomány tagjának szolgálati viszonya.
 
@@ -1260,6 +1269,8 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (2a) A 4/A. § (2) bekezdés b) és c) pontja esetén a (2) bekezdés szerinti járandóságok megállapítására – ha jogszabály eltérően nem rendelkezik – a központi személyügyi szerv vezetője jogosult.
 
+(2b) Az állomány szülői szabadságra, vagy apasági szabadságra jogosult tagja részére a (2) bekezdésben meghatározott időpontban igazolást kell kiadni a kiadott szülői szabadság, vagy apasági szabadság tartamáról, ebben fel kell tüntetni a korábbi munkáltató által kiadott szülői szabadság, vagy apasági szabadság tartamát is.
+
 (3) A szolgálati viszony megszűnésekor, megszüntetésekor miniszteri rendeletben meghatározott esetekben és feltételekkel az állomány tagja megtérítési kötelezettséggel tartozik, és elhelyezkedésének elősegítése érdekében szakmai át-, vagy továbbképzési támogatásban részesíthető.
 
 #### 44. A végkielégítés
@@ -1295,7 +1306,7 @@ távolléti díjnak megfelelő összeg.
 
 #### 45. A szerződés-hosszabbítási díj és a visszailleszkedési támogatás
 
-72. §
+#### 72. §
 
 73. § (1) Ha a legénységi állomány tagja a szerződését a 45. § (1) bekezdése szerint meghosszabbítja, a szerződés-hosszabbításban vállalt további szolgálati évek alapján a szerződés-hosszabbítást megelőző időszakra vállalt szolgálati idő lejártával szerződés-hosszabbítási díjra jogosult.
 
@@ -1362,7 +1373,7 @@ távolléti díjnak megfelelő összeg.
 
 #### 46.
 
-75. §
+#### 75. §
 
 #### 47. A szolgálaton kívüliek
 
@@ -1437,7 +1448,7 @@ távolléti díjnak megfelelő összeg.
 
 (4) A miniszter az egészségügyért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a fertőző betegségeket, amelyek esetén a megbetegedési veszély, a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan – így különösen a külföldi szolgálat végrehajtása során – az állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében kötelező védőoltás elrendelésének van helye.
 
-(5) A kötelező védőoltást a honvédelmi szervezetek közegészségügyi-járványügyi hatósági feladatokat ellátó szerv vezetőjének javaslata alapján a Magyar Honvédség parancsnoka rendeli el. A Magyar Honvédség parancsnoka által elrendelt kötelező védőoltás alól az egészségügyről szóló törvény szerinti mentesítést az állomány védőoltásra kötelezett tagja vagy kezelőorvosa a honvédelmi szervezetek közegészségügyi-járványügyi hatósági feladatokat ellátó szervének vezetőjénél kezdeményezheti.
+(5) A kötelező védőoltást a honvédelmi szervezetek közegészségügyi-járványügyi hatósági feladatokat ellátó szerv vezetőjének javaslata alapján a Honvéd Vezérkar főnöke rendeli el. A Honvéd Vezérkar főnöke által elrendelt kötelező védőoltás alól az egészségügyről szóló törvény szerinti mentesítést az állomány védőoltásra kötelezett tagja vagy kezelőorvosa a honvédelmi szervezetek közegészségügyi-járványügyi hatósági feladatokat ellátó szervének vezetőjénél kezdeményezheti.
 
 (6) A büntetőeljárásról szóló 2017. évi XC. törvény 701. § (2) bekezdése szerinti feladat ellátásával történő megbízást munkáltatói döntésbe foglalt kijelölés tartalmazza.
 
@@ -1602,7 +1613,7 @@ távolléti díjnak megfelelő összeg.
 
 (4) A megtérítési kötelezettség érvényesítésének eljárási szabályait, ideértve a halasztás engedélyezését, a megtérítési kötelezettség alóli mentesítés, és a fizetési könnyítés feltételeit miniszteri rendelet határozza meg.
 
-(4a) A Magyar Honvédség parancsnoka a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését a kötelezett kérelmére, részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmányi támogatás visszafizetése családi, vagyoni, jövedelmi vagy szociális körülményeire figyelemmel aránytalanul súlyos megterhelést jelentene.
+(4a) A Honvéd Vezérkar főnöke a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését a kötelezett kérelmére, részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmányi támogatás visszafizetése családi, vagyoni, jövedelmi vagy szociális körülményeire figyelemmel aránytalanul súlyos megterhelést jelentene.
 
 (5) A tiszti állomány továbbképzését – ha jogszabály eltérően nem rendelkezik – az NKE biztosítja.
 
@@ -1614,7 +1625,7 @@ távolléti díjnak megfelelő összeg.
 
 (3a) A felek a tanulmányi szerződést a jövőre nézve, írásban, miniszteri rendeletben meghatározottak szerint közös megegyezéssel megszüntethetik.
 
-(3b) A (3a) bekezdés szerinti esetben a feleknek meg kell állapodniuk a tanulmányi szerződéssel kapcsolatos jogokról és kötelezettségekről, így különösen arról, hogy a képzésben résztvevő a honvédelmi szervezet által a tanulmányi szerződés megszüntetéséig teljesített tanulmányi támogatásokat köteles-e megtéríteni, és ha igen, milyen mértékben. A Magyar Honvédség parancsnoka a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését szolgálati érdekből részben vagy egészben elengedheti.
+(3b) A (3a) bekezdés szerinti esetben a feleknek meg kell állapodniuk a tanulmányi szerződéssel kapcsolatos jogokról és kötelezettségekről, így különösen arról, hogy a képzésben résztvevő a honvédelmi szervezet által a tanulmányi szerződés megszüntetéséig teljesített tanulmányi támogatásokat köteles-e megtéríteni, és ha igen, milyen mértékben. A Honvéd Vezérkar főnöke a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését szolgálati érdekből részben vagy egészben elengedheti.
 
 (4) Az állomány tagjának lényeges szerződésszegésére a 88. § (3) és (4) bekezdését alkalmazni kell. Ha a honvédelmi szervezet lényeges szerződésszegést követ el, így különösen, ha a támogatást nem, vagy nem határidőben biztosítja, az állomány tagja mentesül a szerződésből eredő kötelezettségei alól. Bármely fél szerződésszegése esetén a másik fél a szerződésszegésből eredő esetleges kárát a Polgári Törvénykönyv szerződésszegéssel okozott károkért való felelősségre vonatkozó rendelkezései alapján érvényesítheti.
 
@@ -1659,7 +1670,7 @@ az állomány tagját mentesíti a szolgálatteljesítési kötelezettsége aló
 
 tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
-(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani. Ha a szolgálati viszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos és szerződéses szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani. Ha a szolgálati viszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 (2b) A végkielégítés szempontjából a honvédelmi szervezet állományában a katonai szolgálati viszony létesítését közvetlenül megelőző, nem katonai szolgálati viszonyban eltöltött időket is figyelembe kell venni, kivéve, ha a korábbi jogviszony alapján a végkielégítés kifizetésre került.
 
@@ -1667,7 +1678,7 @@ tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
 (4) 1998. január 1-jét megelőzően az illetmény nélküli szabadság 30 napot meghaladó tartama a társadalombiztosítási szabályok szerint számít jogszerző időnek.
 
-(5) A honvédelmi szolgálati díjra való jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban, továbbá a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati időt, valamint a szolgálaton kívüli állomány időtartamát kell figyelembe venni.
+(5) A honvédelmi szolgálati díjra való jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban, továbbá a rendvédelmi szerveknél hivatásos és szerződéses szolgálati jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati időt, valamint a szolgálaton kívüli állomány időtartamát kell figyelembe venni.
 
 (6) Ha a szerződéses állomány tagja hivatásos szolgálati viszonyt létesít, az addig szerződéses szolgálati viszonyban eltöltött ideje – a (8) bekezdésben meghatározottakra figyelemmel – hivatásos szolgálati viszonyban töltött időnek számít.
 
@@ -1770,7 +1781,7 @@ valósul-e meg.
 
 #### 57. A rész-szolgálatteljesítési idő
 
-99. § (1) A munkáltatói jogkört gyakorló az állomány tagjának írásbeli kérelmére – legfeljebb a gyermeke hároméves, fogyatékos gyermek esetén tizennégy éves koráig, az állomány három vagy több gyermeket nevelő tagja esetén a gyermek ötéves, fogyatékos gyermek esetén tizennyolc éves koráig – rész-szolgálatteljesítést engedélyez, ha az állomány tagjának szolgálati beosztása rész-szolgálatteljesítési időben is ellátható.
+99. § (1) A munkáltatói jogkört gyakorló az állomány tagjának írásbeli kérelmére – legfeljebb a gyermeke nyolcéves, fogyatékos gyermek esetén tizennégy éves koráig, az állomány három vagy több gyermeket nevelő tagja esetén a gyermek nyolcéves, fogyatékos gyermek esetén tizennyolc éves koráig – rész-szolgálatteljesítést engedélyez, ha az állomány tagjának szolgálati beosztása rész-szolgálatteljesítési időben is ellátható.
 
 (2) A munkáltatói jogkört gyakorló a kérelem alapján a szolgálati beosztáshoz tartozó munkaköri feladatok jellegének és a szolgálatteljesítés körülményeinek mérlegelésével azt vizsgálja, hogy a rész-szolgálatteljesítés engedélyezése veszélyezteti-e a szolgálat érdekét. A miniszteri rendeletben meghatározott vezetői beosztásokban rész-szolgálatteljesítés nem engedélyezhető. Nem engedélyezhető a rész-szolgálatteljesítés akkor sem, ha az a munkáltatói jogkört gyakorló számára lényegesen nagyobb munkaszervezési terhet jelentene. Heti 20 óránál rövidebb rész-szolgálatteljesítés iránti kérelem érdemi vizsgálat nélkül is elutasítható. A rész-szolgálatteljesítés engedélyezése iránti kérelem tartalmi követelményeit és elbírálásának eljárási szabályait miniszteri rendelet határozza meg.
 
@@ -1882,12 +1893,15 @@ valósul-e meg.
 - j) az alapkiképzés befejezését közvetlenül követő 5 munkanapra, és
 - k) az önkéntes, vagy a létesítményi tűzoltói szolgálat ellátásának időtartamára,
 - l) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+- m) a súlyos egészségi okból gondozásra szoruló hozzátartozója, vagy az állomány tagjával közös háztartásban élő személy személyes gondozása nyújtása céljából évente legfeljebb öt munkanapra.
 
 (2) Az (1) bekezdésen túl mentesül az állomány tagja a szolgálatteljesítési kötelezettség alól, ha jogszabály ezt előírja, vagy a munkáltatói jogkört gyakorló írásban engedélyezi. A szolgálatteljesítési kötelezettség alóli mentesülés igénybevételének rendjét miniszteri rendelet határozza meg.
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a szolgálatteljesítés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy az állomány tagja előző évről megmaradt szabadságát, a túlszolgálat ellentételezését biztosító pihenőidőt és az éves szabadságának 112. § (1) bekezdésében foglaltak szerinti időarányos részét már kiadta. Ebben az esetben a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
 
 (4) Az (1) bekezdés l) pontja szerinti esetben az állomány tagját a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről az állomány tagja legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkört gyakorlót.
+
+(5) Az (1) bekezdés m) pontja szerinti esetben a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.
 
 #### 64. Az alap- és a pótszabadság
 
@@ -1917,6 +1931,12 @@ valósul-e meg.
 munkanap pótszabadság jár. A pótszabadság fogyatékos gyermekenként 2 munkanappal nő.
 
 (6) A (2) bekezdés szerinti pótszabadság mértékének megállapításánál a magasabb pótszabadságot abban az évben kell először figyelembe venni, amikor az állomány tagja eléri az adott szolgálati viszonyban töltött szolgálati időt. Az (5) bekezdés szerinti pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
+
+109/A. § (1) Az állomány tagját gyermeke harmadik életévének betöltéséig negyvennégy munkanap szülői szabadság illeti meg.
+
+(2) A szülői szabadság igénybevételének feltétele, hogy az állomány tagjának szolgálati viszonya legalább egy éve fennálljon.
+
+(3) Az állomány tagja az (1) bekezdés alapján kiadott szülői szabadság tartamára a távolléti díj tíz százalékára jogosult, amelyet csökkenteni kell az erre az időszakra az állomány tagjának megfizetett a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
 
 110. § (1) Vezetői pótszabadságra jogosult
 
@@ -1951,7 +1971,9 @@ időtartamát.
 
 112. § (1) A szabadságot a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy adja ki. Az alap- és a pótszabadság együttes időtartamának 50%-át egyfolytában, 25%-át, de legalább 10 munkanapot pedig az állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a honvédelmi szervezet működőképességét ne veszélyeztesse. A munkáltatói jogkört gyakorló által meghatározott szabadság kezdő napját az állomány tagjával legkésőbb a szabadság kezdete előtt 15 nappal közölni kell.
 
-(2) A szabadságot az esedékesség évében kell kiadni. Ha szolgálati érdekből erre nincs lehetőség, úgy azt a következő év június 30-ig, az állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított 30 napon belül kell kiadni, amennyiben az esedékesség éve letelt. Az állomány tagjának a szabadság kiadására vonatkozó igénye a szolgálati viszony fennállása alatt nem évül el.
+(1a) A munkáltatói jogkört gyakorló vagy az általa kijelölt személy – az (1) bekezdéstől eltérően – a szülői szabadságot az állomány tagja kérésének megfelelő időpontban adja ki. Az állomány tagja erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt bejelenti. A munkáltatói jogkört gyakorló vagy az általa kijelölt személy szolgálati érdekből a szülői szabadság kiadását elhalaszthatja, ennek indokát az állomány tagjával írásban közli.
+
+(2) A szabadságot – a szülői szabadság és az apasági szabadság kivételével – az esedékesség évében kell kiadni. Ha szolgálati érdekből erre nincs lehetőség, úgy azt a következő év június 30-ig, az állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított 30 napon belül kell kiadni, amennyiben az esedékesség éve letelt. Az állomány tagjának a szabadság kiadására vonatkozó igénye a szolgálati viszony fennállása alatt nem évül el.
 
 (3) A tárgyévet követő első hónap végéig a munkáltatói jogkört gyakorló megállapítja az állomány tagja tárgyévben igénybe vett, és a ki nem adott szabadságának mértékét. A tárgyévben ki nem adott szabadságot a következő évben járó szabadság mértékéhez hozzászámítja. Az esedékesség évében kell kiadottnak tekinteni a szabadságot, ha igénybevétele az esedékesség évében megkezdődik, és a szabadság következő évben kiadott része nem haladja meg az 5 munkanapot.
 
@@ -1959,7 +1981,7 @@ időtartamát.
 
 113. § (1) A szabadságot megváltani nem lehet.
 
-(2) Az (1) bekezdéstől eltérően a szolgálati viszony megszűnésekor, megszüntetésekor – ide nem értve az 59. § (1) bekezdés e) pontját – és az 58/A. § (1) bekezdés szerinti szünetelésekor, továbbá a 46. § (1) bekezdés b), c) és t) pontja szerinti rendelkezési állományba áthelyezéskor meg kell váltani a szabadságot, ha a honvédelmi szervezet a szabadság arányos részét nem adta ki.
+(2) Az (1) bekezdéstől eltérően a szolgálati viszony megszűnésekor, megszüntetésekor – ide nem értve az 59. § (1) bekezdés e) pontját – és az 58/A. § (1) bekezdés szerinti szünetelésekor, továbbá a 46. § (1) bekezdés b), c) és t) pontja szerinti rendelkezési állományba áthelyezéskor a szabadságot – a szülői szabadságot és az apasági szabadságot kivéve – meg kell váltani, ha a honvédelmi szervezet a szabadság arányos részét nem adta ki.
 
 (3) Ha az állomány tagja szolgálati viszonya megszűnéséig vagy megszüntetéséig több szabadságot vett igénybe annál, mint ami időarányosan megilletné, a különbözetre kifizetett illetmény összegét köteles visszafizetni. Nem követelhető vissza a túlfizetés az 59. § (1) bekezdés a) pontja, a 62. § (2) bekezdés g) pontja és a 68. § (1) bekezdés a) pontja esetén.
 
@@ -1969,13 +1991,9 @@ időtartamát.
 
 #### 66. Gyermek születése esetén járó pótszabadság
 
-114. § (1) Az apának gyermeke születése esetén, legkésőbb a születést követő 2. hónap végéig 5 munkanap, ikergyermekek születése esetén 7 munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni.
+114. § (1) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az állomány tagja akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
-(2) Az (1) bekezdés szerinti pótszabadság akkor is jár, ha a gyermek halva születik vagy meghal.
-
-(3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vérszerinti vagy örökbefogadó apát kell érteni.
-
-(4)
+(2) Az állomány tagja az apasági szabadság első öt munkanapjára a távolléti díjra, a hatodik munkanapjától a távolléti díj negyven százalékára jogosult.
 
 #### 67. A szülési szabadság és az illetmény nélküli szabadság
 
@@ -2261,14 +2279,14 @@ szerinti mértékben kerül megállapításra.
 
 időtartama alatt.
 
-(2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb az öregségi nyugdíj jogszabályban meghatározott mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum) meghaladó részének visszatartásáról is dönthet, ha
+(2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb a szociális vetítési alap összegét meghaladó részének visszatartásáról is dönthet, ha
 
 - a) az állomány tagjának letartóztatását, olyan bűnügyi felügyeletét, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el vagy előzetes kényszergyógykezelését a bíróság meghosszabbítja,
 - b) az állomány tagjával szemben vádemelésre kerül sor,
 - c) az állomány tagja vezető beosztást tölt be, vagy
 - d) az állomány tagjának az illetmény visszatartását megalapozó magatartása ismétlődő jellegű vagy a szolgálati beosztásával közvetlenül összefügg.
 
-(3) Az (1) és a (2) bekezdéstől eltérően az illetménynek a nyugdíjminimum összegét meghaladó részét kell visszatartani
+(3) Az (1) és a (2) bekezdéstől eltérően az illetménynek a szociális vetítési alap összegét meghaladó részét kell visszatartani
 
 - a) a szolgálatra méltatlanság megállapítását megalapozó határozat kézbesítésétől,
 - b) a szolgálati viszony megszüntetését vagy lefokozást kimondó fegyelmi határozat kézbesítésétől vagy
@@ -2310,7 +2328,7 @@ távolléti díjnak megfelelő összeg.
 
 #### 75/B. Egyes felsővezetői juttatások
 
-132/B. § A Magyar Honvédség parancsnoka közigazgatási államtitkári, a Magyar Honvédség parancsnokának helyettese helyettes államtitkári vezetői juttatásokra jogosult.
+132/B. § A Honvéd Vezérkar főnöke közigazgatási államtitkári, a Honvéd Vezérkar főnökének helyettese helyettes államtitkári vezetői juttatásokra jogosult.
 
 #### 76. A napidíj
 
@@ -2401,7 +2419,7 @@ valósul meg.
 
 139. § (1) A miniszter „Hősi halottá” nyilváníthatja az állomány elhunyt tagját, ha az életét a szolgálati kötelezettség teljesítése során, vagy azzal összefüggésben feláldozza.
 
-(2) A miniszter, és a Magyar Honvédség parancsnoka az állomány elhunyt tagját a „Magyar Honvédség halottjává” nyilváníthatja szolgálati viszonyának fennállása alatt a honvédelem érdekében kifejtett kimagasló érdemeire figyelemmel.
+(2) A miniszter, és a Honvéd Vezérkar főnöke az állomány elhunyt tagját a „Magyar Honvédség halottjává” nyilváníthatja szolgálati viszonyának fennállása alatt a honvédelem érdekében kifejtett kimagasló érdemeire figyelemmel.
 
 (3) A munkáltatói jogkört gyakorló az állomány azon elhunyt tagját, akit az (1) vagy a (2) bekezdés alapján nem minősítettek, a „Katonai szolgálat halottjává” nyilváníthatja.
 
@@ -2438,9 +2456,9 @@ valósul meg.
 
 (6) A munkáltatói jogkört gyakorló az állomány tagja számára – részben vagy egészben európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból származó támogatásból megvalósuló feladatok ellátása érdekében – célfeladatot állapíthat meg, amely alapján az állomány tagja miniszteri rendeletben meghatározottak szerint céljuttatásban részesíthető.
 
-140/A. §
+#### 140/A. §
 
-140/B. §
+#### 140/B. §
 
 140/C. § Ha belföldi szolgálati kiküldetés esetén az utazással töltött idő, vagy annak egy része a szolgálatteljesítési idő szolgálati rend szerinti beosztásán kívülre esik, az utazási idő ezen hányadára az állomány tagja részére miniszteri rendeletben díjazás állapítható meg.
 
@@ -3053,7 +3071,7 @@ különbözetének megtérítése iránti igényt.
 
 (3) A szolgálati panasz jogának gyakorlása nem korlátozható, az állomány tagját a szolgálati panasz megalapozatlansága miatt hátrány nem érheti, kivéve, ha azzal szándékos fegyelemsértést, szabálysértést vagy bűncselekményt valósít meg. A szolgálati panaszra vonatkozó szabályok nem érintik a más jogszabályban meghatározott panaszjog gyakorlását.
 
-181/A. §
+#### 181/A. §
 
 #### 102. A fellebbezés
 
@@ -3158,7 +3176,7 @@ különbözetének megtérítése iránti igényt.
 - c) a honvédelmi szervezetnél létszámcsökkentést hajtottak végre az ítélet jogerőssé válásáig, vagy
 - d) a honvédelmi szervezetnél nincs betöltetlen megfelelő szolgálati beosztás.
 
-(4) A szolgálati viszony (2) bekezdésben foglalt módon történő jogellenes megszüntetése esetén meg kell téríteni az állomány tagjának elmaradt illetményét és egyéb járandóságait, továbbá a szolgálati viszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek és az egyéb járandóságnak, valamint a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha az állomány tagja az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, nem köt álláskeresési megállapodást, vagy az e szerv által felajánlott – a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, és a kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
+(4) A szolgálati viszony (2) bekezdésben foglalt módon történő jogellenes megszüntetése esetén meg kell téríteni az állomány tagjának elmaradt illetményét és egyéb járandóságait, továbbá a szolgálati viszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek és az egyéb járandóságnak, valamint a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha az állomány tagja az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, vagy az e szerv által felajánlott – a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, és a kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
 
 (5) Ha a szolgálati viszony (2) bekezdésben foglalt módon történő jogellenes megszüntetése esetén az állomány tagja az eredeti szolgálati beosztásba történő visszahelyezést nem kéri vagy azt a bíróság mellőzi, a szolgálati viszony a jogellenességet megállapító határozat jogerőre emelkedésének napján szűnik meg. Ekkor – a (4) bekezdésben foglaltakon felül – a bíróság a honvédelmi szervezetet – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – az állomány tagja legalább 2, legfeljebb 12 havi illetményének megfelelő összeg megfizetésére kötelezi.
 
@@ -3218,6 +3236,12 @@ különbözetének megtérítése iránti igényt.
 (2) A szolgálatteljesítés feltétele a nemzetbiztonsági alkalmasság, valamint a műszeres vallomás-ellenőrzés vizsgálaton való részvétel vállalása.
 
 (3) A műszeres vallomás-ellenőrzés vizsgálatot a felvételi eljárás, a nemzetbiztonsági szolgálatokról szóló törvény szerinti belső biztonsági és bűnmegelőzési feladatok végrehajtása, és a nemzetbiztonsági ellenőrzés végrehajtása során lehet elrendelni. A műszeres vallomás-ellenőrzés vizsgálat kérdései csak biztonsági kockázati tényezőkkel kapcsolatos adatkörökre terjedhetnek ki.
+
+194/A. § (1) A KNBSZ hivatásos állományának tagját, a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 102. §-ában foglaltakon túl, el kell látni szolgálati igazolvánnyal, valamint jelvénnyel.
+
+(2) A szolgálati igazolvány igazolja a KNBSZ hivatásos állományába tartozást, továbbá az intézkedési, valamint a fegyverviselési jogosultságot.
+
+(3) Az azonosítószámmal ellátott jelvény a szolgálati igazolvánnyal együttesen igazolja a hivatásos állomány tagjának a (2) bekezdés szerinti jogosultságait.
 
 195. § A 40. § (2) bekezdésétől eltérő rendfokozatot a főigazgató javaslatára a miniszter engedélyezhet, ha magasabb rendfokozattal történő állományba vételhez szolgálati érdek fűződik.
 
@@ -3391,7 +3415,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) Az önkéntes tartalékos katona honvéd esküt tesz.
 
-(3) Az önkéntes tartalékos katona a rendelkezésre állás időszakában is köteles bejelenteni a munkáltatói jogkör gyakorlójának az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlés elnöki, alelnöki, a polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, és annak elmaradását. A jelöltként történő nyilvántartásba vételtől tényleges szolgálatteljesítésre nem hívható be, és a tisztségbe történt megválasztásakor az önkéntes tartalékos szolgálati viszonya – a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona kivételével – e törvény erejénél fogva megszűnik.
+(3) Az önkéntes tartalékos katona a rendelkezésre állás időszakában is köteles bejelenteni a munkáltatói jogkör gyakorlójának az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, főpolgármester-helyettesi, vármegyei közgyűlés elnöki, alelnöki, a polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, és annak elmaradását. A jelöltként történő nyilvántartásba vételtől tényleges szolgálatteljesítésre nem hívható be, és a tisztségbe történt megválasztásakor az önkéntes tartalékos szolgálati viszonya – a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona kivételével – e törvény erejénél fogva megszűnik.
 
 #### 122. A VII. Fejezethez kapcsolódó rendelkezések
 
@@ -3629,7 +3653,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 #### 134.
 
-232. §
+#### 232. §
 
 ### XXI. Fejezet — A HONVÉD ALTISZT-JELÖLTEKRE VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -3667,9 +3691,9 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 - b) a haza katonai védelmére felkészülni, részt venni az ehhez szükséges kiképzésen, és a tanórán kívüli katonai felkészítésen, tanulmányi kötelezettségét teljesíteni,
 - c) őr-, ügyeleti, készenléti és futárszolgálatot, katonai rendészeti szolgálatot, valamint díszelgési és kegyeleti feladatokat ellátni,
 - d) kijelölés alapján alegység-parancsnoki feladatokat ellátni,
-- e) megelőző védelmi helyzetben és rendkívüli állapot idején egyéb katonai feladat ellátására,
+- e)
 - f) közreműködni a honvédelmi nevelés programjának megvalósításában,
-- g) a Magyar Honvédség parancsnoka által elrendelt feladatokat ellátni,
+- g) a Honvéd Vezérkar főnöke által elrendelt feladatokat ellátni,
 - h) a minősített adat védelmére vonatkozó szabályokat betartani, és
 - i) óvni és rendeltetésszerűen használni a rábízott haditechnikai eszközöket és felszerelési tárgyakat.
 
@@ -3745,12 +3769,12 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 237/J. § (1) E fejezet alkalmazásában
 
-- a) egészségügyi munkakörű katona: a honvédelmi egészségügyi szolgáltatónál vagy a KNBSZ-nél szolgálatot teljesítő, az 1. § (1) bekezdése hatálya alá tartozó, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
-- b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
+- a) egészségügyi munkakörű katona: az Eütv. 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltatónál (a továbbiakban: honvédelmi egészségügyi szolgáltató) vagy a KNBSZ-nél szolgálatot teljesítő, az 1. § (1) bekezdése hatálya alá tartozó, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
+- b) egészségügyi tevékenység: az Eütv. 3. § y) pontjában meghatározott tevékenység,
 - c) magasabb vezető:
-  - ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
-  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 16. § (3) bekezdése szerinti helyettese (a továbbiakban: a felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
-- d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
+  - ca) a honvédelmi egészségügyi szolgáltató vezetője, valamint
+  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese,
+- d) vezető: a c) pontban foglaltakat kivéve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese.
 
 (2) Az egészségügyi munkakörű katona tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
@@ -3781,7 +3805,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 (6) Az (5) bekezdés szerinti összeférhetetlenség alól a munkáltatói jogkört gyakorló felmentést adhat.
 
-(7) A honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+(7) A honvédelmi egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
 
 (8) Ha az Eszjtv. és felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi munkakörű katonára is alkalmazni kell.
 
@@ -3853,6 +3877,31 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 (17) Az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben, a Kormány rendeletében és a miniszter rendeletében meghatározott – illetményre, valamint illetménypótlékra jogosult. A miniszter – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona részére további illetményen felüli díjazást, egyéb juttatást, támogatást állapíthat meg.
 
+237/M. § (1) Az egészségügyi munkakörű katona
+
+- a) a szakmai képességeinek fenntartása és továbbfejlesztése érdekében – szolgálati beosztásában történő meghagyása mellett – honvédelmi szervezetnek nem minősülő, állami fenntartású egészségügyi szolgáltatónál (a továbbiakban e § alkalmazásában: állami fenntartású egészségügyi szolgáltató) is teljesítheti szolgálatát, valamint
+- b) egyéb egészségügyi feladatok ellátása érdekében honvédelmi szervezetnek nem minősülő egészségügyi intézményhez (a továbbiakban e § alkalmazásában: egészségügyi intézmény) – az e §-ban meghatározott eltérésekkel – az 51. és az 52. § szerint vezényelhető.
+
+(2) A Honvéd Vezérkar főnöke erre irányuló – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjénél tett – kezdeményezése esetén az állami fenntartású egészségügyi szolgáltató az (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonát köteles foglalkoztatni, és olyan munkavégzésre beosztani, amely elősegíti a Magyar Honvédség egészségügyi feladatai ellátásához szükséges szakmai képességeinek fenntartását és továbbfejlesztését. A kezdeményezés alapján az egészségügyi szolgáltatás irányításáért felelős szerv vezetője meghatározza azt az állami fenntartású egészségügyi szolgáltatót, ahol az (1) bekezdés a) pontja szerinti egészségügyi munkakörű katona szolgálatteljesítése történik.
+
+(3) Az (1) bekezdés a) pontja szerinti egészségügyi munkakörű katona
+
+- a) állami fenntartású egészségügyi szolgáltatónál történő szolgálatteljesítése határozatlan időtartamra szól,
+- b) illetményét és a szolgálati viszonyból eredő egyéb pénzbeli juttatásait – a jogszabály szerinti mozgóbér elemek, valamint a kifejezetten az állami fenntartású egészségügyi szolgáltatónál történő szolgálatteljesítéshez kapcsolódó juttatás kivételével – a honvédelmi szervezet állapítja meg és folyósítja,
+- c) felett a munkáltatói jogköröket – a napi szolgálatteljesítési idő beosztása, az ügyelet és készenlét elrendelése, valamint az egészségügyi szakmai tevékenység irányítása kivételével – e törvény és a végrehajtására kiadott miniszteri rendelet szerinti munkáltatói jogkört gyakorló gyakorolja,
+- d) a részére előírt gyakorlatot és kiképzési feladatot az állami fenntartású egészségügyi szolgáltatónál történő szolgálatteljesítés alatt is köteles végrehajtani,
+- e) tekintetében a Honvéd Vezérkar főnöke az állami fenntartású egészségügyi szolgáltatónál történő szolgálatteljesítést szolgálati érdekből egyoldalúan megszüntetheti vagy szüneteltetheti.
+
+(4) Az (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonát érintő munkáltatói döntések meghozatala során a Magyar Honvédség és az állami fenntartású egészségügyi szolgáltató kölcsönösen együttműködnek.
+
+(5) Az (1) bekezdés b) pontja szerinti egészségügyi munkakörű katona esetén
+
+- a) az 51. § (1) bekezdés szerinti vezényléséről szóló megállapodást a Honvéd Vezérkar főnöke és az egészségügyi intézmény vezetője köti meg,
+- b) az 51. § (4) bekezdésétől eltérően az egészségügyi intézménynél történő szolgálatteljesítés időtartama határozatlan időtartamra szól,
+- c) az egészségügyi intézmény vezetője az 51. § (8) bekezdésében foglalt indokok alapján kezdeményezheti a Honvéd Vezérkar főnökénél a vezénylésre irányuló megállapodás megszüntetését.
+
+(6) Az (1) bekezdés szerinti egészségügyi munkakörű katona esetében az állami fenntartású egészségügyi szolgáltató fenntartójának, illetve az egészségügyi intézmény fenntartójának vezetője alkalmazhatja az Eszjtv. 11. §-a szerinti munkaszerződéstől eltérő foglalkoztatás jogintézményét. Ennek elrendelése esetén is gyakorolhatja az (1) bekezdés szerinti – érintett – egészségügyi munkakörű katona tekintetében a Honvéd Vezérkar főnöke a számára e §-ban megállapított jogköröket.
+
 ### XXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 139. Felhatalmazó rendelkezések
@@ -3916,6 +3965,7 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 - 44. a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
 - 45. a honvéd tisztjelölteknek a honvédtiszti alapképzés időtartama alatt, illetve az állomány tagjának a 10 éves határozott idejű szolgálata alatt fennálló visszafizetési kötelezettsége eseteire, módjára, összegére vonatkozó szabályokat, a visszafizetési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, a fizetési könnyítés és a mentesítési eljárás szabályait,
 - 46. a honvéd tisztjelölt alapilletményének évfolyamonkénti eltérő mértékét, a tanulmányi díjának mértékét, az illetménypótlék összegét és az egyéb juttatások körét.
+- 47. a KNBSZ hivatásos állománya – 194/A. § (1) bekezdése szerinti – szolgálati igazolványának, valamint jelvényének rendszeresítésével és kiadásának rendjével összefüggő szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
@@ -3958,7 +4008,7 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 241. § (1) A 45. §-ban meghatározott rendelkezéseket a 2013. június 30-át követően lejáró szerződés meghosszabbítása esetén is alkalmazni kell.
 
-(2) 2013. július 1-jén Magyar Honvédség parancsnoki beosztást betöltő esetén az 56. §-t alkalmazni kell. Az 56. § (1) bekezdés szerinti időtartamot 2013. július 1-jétől kezdődően kell számítani.
+(2) A Magyar Honvédség működésével kapcsolatos egyes törvények módosításáról szóló 2022. évi LXIII. törvény hatálybalépését megelőző napon a Magyar Honvédség parancsnoki és a Magyar Honvédség vezénylő zászlósi beosztást betöltők esetén az 56. § (1) bekezdése szerinti időtartamot 2023. január 1-jétől kezdődően kell számítani.
 
 (3) A 2013. június 30-ig elkészített teljesítményértékeléseket 2014. január 31-ig lehet figyelembe venni az előmenetel során. Az e törvényen alapuló új szabályokat első alkalommal a 2014. évben esedékes teljesítményértékeléseknél kell alkalmazni.
 
@@ -4017,6 +4067,13 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 (3) A XIV. Fejezetet – a károkozás időpontjától függetlenül – a 2013. június 30-át követően megindított eljárásokra kell alkalmazni. E rendelkezés irányadó a hadkötelezettség alapján teljesített szolgálattal összefüggő balesetekkel, a hadkötelezettség alapján teljesített szolgálattal összefüggésben kialakult, vagy azzal összefüggésben súlyosbodott betegségekkel kapcsolatos kárigények elbírálására is.
 
+246/A. § (1) Az állomány tagja 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvény (a továbbiakban: Módtv8.) hatálybalépésétől számított két hónapon belül jogosult az apasági szabadságot igénybe venni, ha a Módtv8. hatálybalépése előtt
+
+- a) a 114. § szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) a 114. § szerinti apai pótszabadságot igénybe vette, annak és a Módtv8. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+(2) Ha az állomány tagjának gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – az állomány tagja kérésének megfelelő időpontban – legkésőbb a 2023. június 30-ig terjedő időszakban kell kiadni.
+
 247. § (1) 2013. július 1-jén érvényes ösztöndíjszerződéssel rendelkező, polgári felsőoktatási intézményben tanuló honvédségi ösztöndíjasok állományba vételére az ösztöndíjszerződésben foglaltak az irányadók.
 
 (2) A honvéd tisztjelölt vagy a honvéd altiszt-jelölt 2013. július 1-jén hatályos ösztöndíjszerződésének azon elemeit, amelyek kizárólag e törvény rendelkezéseire figyelemmel változnak, a Honvédség 2013. szeptember 1-jéig egyoldalúan módosítja, és erről az érintett részére értesítést küld. Az ösztöndíjszerződés más elemeinek módosítása közös megegyezéssel történhet.
@@ -4032,7 +4089,7 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 247/C. § E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított rendelkezéseit az állomány tagjával az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében kell alkalmazni.
 
-247/C. §
+#### 247/C. §
 
 247/D. § A honvédek jogállásáról szóló 2012. évi CCV. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2015. évi XLIII. törvénnyel (a továbbiakban: Módtv.) megállapított 38. § (7) és (8) bekezdését a 2015. július 1-jét megelőzően állományba kerültek esetén 2016. július 1-jétől kell alkalmazni.
 
@@ -4076,7 +4133,7 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (9) A szolgálati viszony (3) bekezdés szerinti átalakulásával összefüggésben a honvéd tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat nem kell elvégezni.
 
-247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2022. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
+247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2023. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
 
 (2) Az állomány tagjának évi százötven óráig terjedő túlszolgálatáért annak időtartamával azonos mértékű szabadidő jár. A szabadidőt a túlszolgálatot követően nyomban, de legkésőbb harminc napon belül kell kiadni.
 
@@ -4095,15 +4152,15 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (8) A túlszolgálat elrendelésének, nyilvántartásának és elszámolásának rendjét a miniszter rendeletben határozza meg.
 
-(9) A 2023. január 1-jét megelőző időpontban kezdődött és 2023. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
+(9) A 2024. január 1-jét megelőző időpontban kezdődött és 2024. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
 
-247/I. § (1) A Módtv.-vel megállapított 107. § (3) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített őr-, ügyeleti és készenléti szolgálat teljesítésének ellentételezésére a (2) bekezdést kell alkalmazni.
+247/I. § (1) A Módtv.-vel megállapított 107. § (3) bekezdése helyett a 2023. december 31-ig elrendelt és teljesített őr-, ügyeleti és készenléti szolgálat teljesítésének ellentételezésére a (2) bekezdést kell alkalmazni.
 
 (2) A pihenőidőt a szolgálat leadása után nyomban, a szabadnapot pedig legkésőbb 90 napon belül kell kiadni. Amennyiben a szolgálati elfoglaltság miatt a szabadnapot igazoltan nem lehet kiadni, az arra járó, miniszteri rendeletben meghatározott díjazást legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt kell kifizetni.
 
-(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
+(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2023. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
 
-(4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
+(4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2023. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
 
 (5) A (4) bekezdést a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg. A szolgálati feladatra vezénylés időtartama alatt nem alkalmazható a 107. § (2) bekezdése arra a laktanyai készenléti szolgálatra, amikor a munkáltatói jogkört gyakorló a Hvt. 59. § (1) bekezdés m) pontjára figyelemmel a rendelkezésre állás helyét kizárólag annak érdekében határozza meg, hogy az állomány vezényelt tagjának meghatározott időpontban történő szolgálatba lépése biztosított legyen.
 
@@ -4206,28 +4263,30 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 - d) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásra vonatkozóan megkötött keret-megállapodásról szóló 97/81/EK irányelv Nagy-Britannia és Észak-Írország Egyesült Királyságára történő kiterjesztéséről szóló 1998. április 7-i 98/23/EK tanácsi irányelvnek,
 - e) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelvnek, és
 - f) a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek
+- g) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelvnek,
+- h) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és a tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 #### 144.
 
-250. §
+#### 250. §
 
-251. §
+#### 251. §
 
-252. §
+#### 252. §
 
-253. §
+#### 253. §
 
-254. §
+#### 254. §
 
-255. §
+#### 255. §
 
-256. §
+#### 256. §
 
-257. §
+#### 257. §
 
-258. §
+#### 258. §
 
 259. § (1)
 
@@ -4263,35 +4322,35 @@ való megfelelést szolgálja.
 
 (17)
 
-260. §
+#### 260. §
 
-261. §
+#### 261. §
 
 262. § (1)
 
 (2)
 
-263. §
+#### 263. §
 
-264. §
+#### 264. §
 
-265. §
+#### 265. §
 
-266. §
+#### 266. §
 
-267. §
+#### 267. §
 
-268. §
+#### 268. §
 
-269. §
+#### 269. §
 
-270. §
+#### 270. §
 
-271. §
+#### 271. §
 
-272. §
+#### 272. §
 
-273. §
+#### 273. §
 
 274. § (1)
 
@@ -4301,11 +4360,11 @@ való megfelelést szolgálja.
 
 (2)
 
-276. §
+#### 276. §
 
-277. §
+#### 277. §
 
-278. §
+#### 278. §
 
 279. § (1)
 
@@ -4320,7 +4379,7 @@ való megfelelést szolgálja.
 
 (3)
 
-280. §
+#### 280. §
 
 ### 1. melléklet a 2012. évi CCV. törvényhez
 
@@ -4480,10 +4539,10 @@ A miniszter kiemelt munkáltatói jogkörei
 
 Az állomány felsővezetői szolgálati beosztást betöltő tagjának alapilletménye megállapításához alkalmazandó szorzószámok:
 
-| 1. | Magyar Honvédség parancsnoka | 26,00 |
+| 1. | Honvéd Vezérkar főnöke | 26,00 |
 | --- | --- | --- |
 | 2. | KNBSZ főigazgató | 25,15 |
-| 3. | Magyar Honvédség parancsnokának helyettese | 24,40 |
+| 3. | Honvéd Vezérkar főnökének helyettese | 24,40 |
 | 4. | KNBSZ főigazgató-helyettes | 23,80 |
 | 5. | KNBSZ igazgató (főigazgató-helyettes) | 22,40 |
 | 6. | Miniszteri rendeletben meghatározott, legalább |  |

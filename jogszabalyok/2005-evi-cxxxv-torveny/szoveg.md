@@ -134,9 +134,9 @@ nyújt a sérelem rendezéséhez.
 
 ### IV. Fejezet — ÁLTALÁNOS ELJÁRÁSI SZABÁLYOK
 
-9. §
+#### 9. §
 
-9/A. §
+#### 9/A. §
 
 ### Az engedélyezés iránti kérelem
 
@@ -225,7 +225,7 @@ nyújt a sérelem rendezéséhez.
 
 meghatározott feltételek vizsgálatát kell érteni.
 
-14. §
+#### 14. §
 
 ### Visszatérítés
 
@@ -262,7 +262,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Nyilvántartás
 
-16. § (1) Az áldozatsegítő szolgálat a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
+16. § (1) Az áldozatsegítő szolgálat a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint vármegyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -303,7 +303,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### V. Fejezet — A SZOLGÁLTATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-21. §
+#### 21. §
 
 ### Az igényérvényesítés határideje
 
@@ -359,7 +359,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 - a) a pénzbeli és természetben nyújtott szociális ellátások és a szociális szolgáltatások,
 - b) a nyugdíj-biztosítási ellátások,
-- c) a munkanélküli-ellátások és a foglalkoztatást elősegítő támogatások,
+- c) az álláskeresési ellátás és a foglalkoztatást elősegítő támogatások,
 - d) a családtámogatási ellátások,
 - e) a gyermekjóléti alapellátások, a gyermekvédelmi szakellátás és a gyermekvédelmi gondoskodás
 
@@ -450,7 +450,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (2) A bejelentési kötelezettség az áldozatot a kárenyhítési kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 évig terheli.
 
-34. §
+#### 34. §
 
 ### A döntő hatóság intézkedése a kérelem beérkezését követően
 
@@ -458,7 +458,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (2)
 
-36. §
+#### 36. §
 
 ### Érdemi döntés
 
@@ -502,7 +502,9 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (2) Az áldozatsegítő szolgálat az áldozatok számára a legszükségesebb információkat tartalmazó tájékoztatót készít. A tájékoztatót eljuttatja az illetékességi területén működő azon szervekhez, intézményekhez, hatóságokhoz, amelyek kapcsolatba kerülnek az áldozatokkal.
 
-### Az áldozati jogok érvényesülésének figyelemmelkísérése
+### Az áldozati jogok érvényesülésének figyelemmel
+
+kísérése
 
 42. § (1) Az áldozati jogok érvényesülését az áldozatsegítő szolgálat rendszeresen figyelemmel kíséri, ennek keretében tájékoztatást kér az áldozatokkal kapcsolatba kerülő hatóságoktól, intézményektől, szervezetektől. Tapasztalatairól az áldozatsegítő szolgálat évente elemző jelentést készít.
 
@@ -597,4 +599,14 @@ lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektroniku
 
 (9)–(13)
 
-49–54. §
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §

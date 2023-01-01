@@ -55,6 +55,8 @@ foglaltak szerint jár el.
 
 6/A. § Ha a szövetkezet a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25. § (3) bekezdésének megfelelően 2021. január 1-jét megelőzően döntést hozott, ezen vagyonnevesítéssel meghatározott aranykorona értéket az ingatlanügyi hatóság a szövetkezet kérelme alapján – az egyes tagoknak járó részarány-tulajdonként – vezeti rá a termelőszövetkezeti különlapokra. Az így nyilvántartott részarány-tulajdona tekintetében a részarány-tulajdonos e törvény szerinti kártalanítási összegre jogosult.
 
+6/B. § Az a személy vagy örököse, aki a szövetkezetben a szövetkezeti tagok és alkalmazottak, állami gazdaságnál az alkalmazottak földtulajdonhoz juttatása céljából képzett földalap terhére földtulajdonhoz jutott, azonban a részére juttatott ingatlanon fennálló tulajdonjoga az ingatlan-nyilvántartásból az ingatlan védettsége okán utólag törlésre került, ha kártalanítására más módon nem került sor, a neki juttatott föld aranykorona (a továbbiakban: AK) értékével megegyező AK értékű föld tulajdonjogát igényelheti a Nemzeti Földalap kezeléséért felelős szervhez 2023. június 30. napjáig benyújtott kérelmével. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
 7. § (1) A Nemzeti Földalapba tartozó földrészleteken fennálló értéknövelő beruházásokkal kapcsolatos elszámolási igény érvényesítésére irányadó szabályokat kell alkalmazni, ha az 1. § (1) bekezdésében meghatározott
 
 - a) földrészlet a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) szerint tanyának minősül,
@@ -103,11 +105,11 @@ sarkalatosnak minősül.
 
 #### 3. A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 4. A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 5. A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény módosítása
 
@@ -127,222 +129,222 @@ sarkalatosnak minősül.
 
 #### 7. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
 #### 8. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
 #### 9. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 10. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 #### 11. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
 #### 12. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 13. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
 #### 14. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-69. §
+#### 69. §
 
 #### 15. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
-96. §
+#### 96. §
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
 #### 16. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §

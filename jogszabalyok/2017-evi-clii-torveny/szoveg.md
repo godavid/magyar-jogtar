@@ -41,7 +41,7 @@ E törvény alkalmazásában
 - 4. tartozás: a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az adós részére közölt és az adós által – engedély nélkül – határidőre meg nem fizetett összeg,
 - 5. ügyfél: az a személy, akit a vámjogszabályok alapján jogok illetnek meg, illetve kötelezettségek terhelnek, ügyfélnek kell tekinteni továbbá e feladata ellátása során a vámjogi képviselőt, a vagyonfelügyelőt, a felszámolót és a végelszámolót is,
 - 6. vámhiány: a keletkezett vámok és egyéb terhek és az annál kisebb összegben közölt vámok és egyéb terhek különbözete, továbbá a keletkezett, de nem közölt vámok és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét azzal, hogy a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok és egyéb terhek összege, továbbá a 179. § (7) bekezdése alapján megállapított egyéb teher különbözete, nem minősül azonban vámhiánynak a Vámkódex 124. cikk (1) bekezdés h) vagy k) pontja alapján megszűnt vámtartozás, és a vámfelügyelettel, vámigazgatási üggyel összefüggő jogsértés miatt keletkezett 10 euró alatti vámtartozás,
-- 7. vámhivatal: a NAV megyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
+- 7. vámhivatal: a NAV vármegyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
 - 8. vámigazgatási eljárás: a vámhatóság által a vámjogszabályok, illetve a vámjogszabályok alkalmazásával összefüggésben az ügyfél kérelmére vagy hivatalból indult eljárás,
 - 9. vámigazgatási ügy: a vámjogszabályok rendelkezéseinek biztosítása érdekében a vámhatóság által a vámjogszabályok alapján hozandó döntés meghozatalára irányuló vámhatósági intézkedés, a vámellenőrzés, a jogsértés megállapítása, valamint tény, adat, állapot igazolása vagy nyilvántartás vezetése, illetve mindezeket érintő döntés érvényesítése,
 - 10. vámszerv: a NAV vámigazgatási feladatot is ellátó szerve.
@@ -470,7 +470,9 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 (4) A vámtitok körébe tartozó adatok harmadik ország hatósága részére a vonatkozó, közigazgatási hatóságok közötti kölcsönös vámügyi segítségnyújtás tekintetében irányadó nemzetközi szerződésekben, valamint az e törvényben foglaltak alapján adhatók át.
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) A vámtitkot képező, személyes adatnak nem minősülő egyedi adatok adatfeldolgozási technikával kezelhetők és továbbíthatók, ha az adatbiztonság feltételeinek a fogadó állam eleget tesz.
 
@@ -622,6 +624,8 @@ járhat el.
 (2) Ha a vámjogi képviselet a Vámkódex 22. cikke szerinti kérelem benyújtására vonatkozik, akkor a képviseletet elektronikusan kell bejelenteni.
 
 (3) Ha az állandó meghatalmazást vagy megbízást, illetve annak megszűnését a képviselő jelenti be, a vámhatóság a bejelentésről a meghatalmazót vagy megbízót írásban értesíti. A megbízó az állandó meghatalmazás vagy megbízás visszavonását, felmondását haladéktalanul köteles bejelenteni a vámhatósághoz, illetve a képviseleti jog megszűnését a képviselő is bejelentheti a vámhatóságnál. A képviseleti jog keletkezése és megszűnése a vámhatósággal szemben a vámhatósághoz történő bejelentéstől hatályos azzal, hogy a képviseleti jog megszűnésének bejelentése napján a képviselőt még a vámhatósági iratok átvételére jogosult személynek kell tekinteni.
+
+(4) Az (1) bekezdés szerinti formanyomtatvány ügycsoportjainak változása esetén a vámhatóság az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 7/A. §-a szerint jár el.
 
 ### IX. Fejezet — A VÁMJOGSZABÁLYOK ALKALMAZÁSÁVAL KAPCSOLATOS HATÁROZATOK
 
@@ -1103,9 +1107,9 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 - d) az ügyfél nevét és utolsó ismert lakcímét, valamint székhelyét, adószámát, továbbá
 - e) azt a figyelemfelhívást, hogy a vámhatóság az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy meghatalmazottja a még véglegessé nem vált döntést a vámhatóság szervénél átveheti.
 
-(3) A hirdetményt a vámhatóság hirdetőtáblájára ki kell függeszteni, és a vámhatóság elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
+(3) A hirdetményt a vámhatóság 15 napra közzéteszi az elektronikus tájékoztatásra szolgáló honlapján.
 
-(4) A hirdetmény vámhatóság hirdetőtábláján való kifüggesztésének és elektronikus tájékoztatásra szolgáló honlapján való megjelentetésének azonos napon kell megtörténnie. A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a vámhatóság hirdetőtábláján való kifüggesztését kell alapul venni. Hirdetményi közlés esetén a hirdetmény vámhatósági hirdetőtábláján való kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét pedig visszakereshető módon dokumentálni kell.
+(4) A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a vámhatóság honlapján történő közzététel napját kell alapul venni. Hirdetményi közlés esetén, az internetes honlapon történő közzététel idejét visszakereshető módon dokumentálni kell.
 
 (5) Ha a hirdetményi úton történő közlés feltételei már nem állnak fenn, a vámhatóság haladéktalanul gondoskodik a hirdetmény eltávolításáról, és a kapcsolattartás általános szabályai szerint felveszi a kapcsolatot az ügyféllel.
 
@@ -1354,7 +1358,7 @@ az a) és b) pont szerint keletkezett bírságok együttes összege meghaladja a
 
 terjedő összeget kell megállapítani.
 
-(11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
+(11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, a jogsértés gyakoriságát a jogsértés megállapításától számított egy évben belül, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
 (12) Ha az (1) bekezdés b) pontjában meghatározott jogsértést a (3) bekezdés e) pontja alapján olyan árura követik el, amely nem uniós áru és egyben jövedéki termék, akkor a vámigazgatási bírság mértéke az árut terhelő vám és egyéb terhek összegének 200%-ával megegyező összeg, de legalább 40 000 forint.
 
@@ -1388,7 +1392,7 @@ terjedő összeget kell megállapítani.
 
 - a) a jogsértést vagy ezzel összefüggő mulasztást nem a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével követték el,
 - b) a kötelezettségszegés vagy mulasztás következményeként nem keletkezik vámhiány, vagy a keletkező vámhiány összege természetes személy esetében a 30 000 forintot, jogi személy esetében 150 000 forintot nem haladja meg, és
-- c) az érintett személy a 84. § (1) bekezdésében meghatározott valamely kötelezettségszegést vagy mulasztást első ízben követi el,
+- c) az érintett személy a 84. § (1) bekezdésében meghatározott valamely kötelezettségszegést vagy mulasztást az annak megállapításától számított egy éven belül első alkalommal követi el,
 
 a vámhatóság a bírság kiszabását mellőzi és figyelmezteti az érintett személyt.
 

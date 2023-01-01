@@ -115,11 +115,12 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
 - d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő foglalkoztatás keretében,
 - e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás keretében,
-- f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel
+- f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel, valamint
+- g) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
 
 tölthet be.
 
-(2) Az Egyetemen jogszabályban meghatározott feltételekkel munkakör munkaviszonyban is betölthető. Munkaviszonyban csak olyan személy foglalkoztatható, aki a továbbképzések keretein belül oktatói, tananyag-fejlesztői, illetve oktatásszervezői feladatot lát el.
+(2)
 
 13/A. § Nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a bevándorolt vagy letelepedett jogállás.
 
@@ -237,7 +238,7 @@ gyakorolhatja.
 
 (2) Az Egyetem rendészeti szolgálati ismereteket oktató szervezeti egységeinek vezetőit az oktatott szakterület szerint illetékes országos parancsnok véleményét kikérve kell megbízni, illetve megbízásukat visszavonni.
 
-(3) Az Egyetem katonai felsőoktatási szervezeti egységeinek vezetőit a Magyar Honvédség parancsnokának véleményét kikérve kell megbízni, illetve megbízásukat visszavonni.
+(3) Az Egyetem katonai felsőoktatási szervezeti egységeinek vezetőit a Honvéd Vezérkar főnökének véleményét kikérve kell megbízni, illetve megbízásukat visszavonni.
 
 20. § A rektor köteles a képzési program honvédelemmel és katonai nemzetbiztonsággal kapcsolatos katonai-szakmai követelményei vonatkozásában a honvédelemért felelős miniszter, a rendészeti ágazat rendészeti szakmai követelményei vonatkozásában az érintett országos parancsnok egyetértését beszerezni.
 
@@ -337,7 +338,7 @@ kezeli.
 - d) kijelölés alapján alegységparancsnoki feladatokat ellátni,
 - e) összehangolt védelmi tevékenység elrendelésekor és különleges jogrendben egyéb katonai feladat ellátására,
 - f) közreműködni a honvédelmi nevelés programjának megvalósításában, valamint
-- g) a Magyar Honvédség parancsnoka által – a honvédelmi miniszter által kijelölt államtitkár egyetértésével – elrendelt oktatási és szocializációs feladatokat ellátni.
+- g) a Honvéd Vezérkar főnöke által – a honvédelmi miniszter által kijelölt államtitkár egyetértésével – elrendelt oktatási és szocializációs feladatokat ellátni.
 
 (2) A rendészeti képzésben részt vevő hallgató köteles aktívan részt venni az oktatási-nevelési folyamatban, felkészülni a választott életpálya megkezdésére. Szolgálati feladatként köteles különösen:
 
@@ -355,7 +356,7 @@ kezeli.
 
 (5) Az (1) bekezdésben, valamint a (2) bekezdés f) és g) pontjában meghatározott feladatok ellátásában részt vevő hallgató tanulmányi kötelezettségeinek a feladatellátás ideje alatti mulasztását a tanulmányi és vizsgaszabályzatban meghatározott módon igazoltnak kell tekinteni, továbbá biztosítani kell számára a tanulmányi és vizsgakötelezettségei utólagos teljesítésének lehetőségét.
 
-31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Magyar Honvédség parancsnokának engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Magyar Honvédség személyügyi szerve vezetőjének előzetes engedélye szükséges.
+31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Honvéd Vezérkar főnökének engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Magyar Honvédség személyügyi szerve vezetőjének előzetes engedélye szükséges.
 
 (2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével létesíthet.
 
@@ -442,7 +443,7 @@ kezeli.
 
 38. § (1) Az Egyetem vezetője, oktatója, tudományos kutatója és más alkalmazottja, továbbá hallgatója a minősített adatot képező vagy azt tartalmazó találmányának szabadalmaztatását, tudományos kutatásainak közzétételét csak a felügyeletet gyakorló miniszter engedélyével kezdeményezheti.
 
-(2) A találmányt, a kutatási eredményt a felügyeletet gyakorló miniszter – a rendészeti, a katonai, illetve a nemzetbiztonsági felsőoktatás tekintetében az érintett országos parancsnok véleményének kikérése mellett – a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ának figyelembevételével minősítheti minősített adattá.
+(2) A találmányt, a kutatási eredményt a felügyeletet gyakorló miniszter – a rendészeti, a katonai, illetve a nemzetbiztonsági felsőoktatás tekintetében az érintett országos parancsnok, a Magyar Honvédség esetében a Honvéd Vezérkar főnöke véleményének kikérése mellett – a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ának figyelembevételével minősítheti minősített adattá.
 
 39. § A minősített adatot tartalmazó tananyaghordozók, dokumentációk, könyvtári segédletek minősítése és megismerése a minősített adat védelmére vonatkozó jogszabályok alapján az Egyetem minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint történhet.
 

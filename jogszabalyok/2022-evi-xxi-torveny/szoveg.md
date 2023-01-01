@@ -129,7 +129,7 @@ vezetnek.
 
 - a) a miniszter,
 - b) a védelemgazdaság központi tervező szerve,
-- c) a Honvédség parancsnoka (a továbbiakban: MH PK) és
+- c) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
 - d) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
 
 10. § A 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv által jogszabály alapján vagy egyedileg, határozattal meghagyásba bevont személy és szerv a jogszabályban meghatározott meghagyási jegyzéket – a határozat kézbesítésétől számított 30 napon belül – megküldi a 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv részére.
@@ -237,14 +237,14 @@ kezeli.
   - ba) a hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti állományba felvettekről, a szolgálatot teljesítőkről, valamint azokról, akiknek a szolgálati viszonya, jogviszonya megszűnt,
   - bb) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljesítenek, továbbá azokról, akiknek a hadkötelezettség alapján teljesített katonai szolgálati viszonya megszűnt, valamint
   - bc) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
-- c) a rendvédelmi szervek és az OGYŐ a hivatásos állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
+- c) az OGYŐ a hivatásos és a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
 - d) a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásáról, annak érvényességi idejéről;
 - e) a szabadságelvonással járó büntetés, intézkedés, büntetőjogi, illetve szabálysértési elzárás, illetve szabadságvesztés büntetésüket töltő személyek esetén a szabadságvesztés megkezdésnek idejéről, szabadulásának várható idejéről, szabadulásának időpontjáról, valamint a szabadságelvonással járó büntetés, intézkedés, büntetőjogi, illetve szabálysértési elzárás megkezdésének és befejezésének várható idejéről, befejezésének időpontjáról a Büntetés-végrehajtás Országos Parancsnokságának (a továbbiakban: BVOP) illetékes szerve;
 - f) a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke a cselekvőképességét teljesen vagy részlegesen korlátozó gondnokság alá helyezéséről, a felülvizsgálat idejéről, megszűnéséről, megszüntetéséről;
 - g) egészségügyi szakterületen
   - ga) a Honvédség központi egészségügyi szerve a hivatásos, szerződéses, és önkéntes tartalékos állományra a katonai szolgálatra való egészségi alkalmasságáról, korlátozásokról, a minősítés típusáról, időpontjáról, esetleges felülvizsgálatának dátumáról,
   - gb) az alapellátó egészségügyi szolgáltató a hadkötelesre és a katonai szolgálatot törvény alapján önként vállaló honvédelmi alkalmazottra vonatkozóan a várható alkalmassági kategóriájáról, annak megállapítása időpontjáról;
-- h) a fővárosi és megyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról;
+- h) a fővárosi és vármegyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról;
 - i) a NAV azon magyarországi lakóhellyel rendelkező magyar állampolgárok tekintetében, akik az adott évben betöltik a 18. életévüket, de a 65. életévüket még nem érték el, átadja az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 3–5. és 15. pontjában meghatározott adatokat, továbbá az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 6. és 7a. pontjában szereplő kedvezmény érvényesítése alapján a három vagy ennél több, kiskorú vér szerinti, örökbe fogadott, vagy nevelt gyermek után családi kedvezményben részesülő személyek születési évét;
 - j) a köznevelési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv által vezetett központi nyilvántartásban szereplők már megszerzett végzettségéről, képzettségéről, megszerzés időpontjáról;
 - k) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv a nyilvántartásban szereplők nyelvtudására vonatkozó adatokról;
@@ -270,7 +270,7 @@ kezeli.
   - ad) a hadköteles nyilvántartásban lévőkről a 7. melléklet szerinti adataik megváltozását követő 8 napon belül,
 - b) a Honvédség központi személyügyi szerve, valamint a kiképzési nyilvántartást vezető kiképzést végző honvédelmi szervezet minden hónap 5. napjáig,
 - c) a Honvédség központi egészségügyi szerve a 19. § g) pont ga) alpontjára vonatkozó adatokról minden hónap 5. napjáig, a 19. § g) pont gb) alpontjára vonatkozó adatokról minden év július 31. napjáig,
-- d) a rendvédelmi szervek, a közúti közlekedési nyilvántartó szerv, az OGYŐ, a rehabilitációs szakértői szerv, és a BVOP illetékes szerve, a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke, az illetékes fővárosi és megyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
+- d) a rendvédelmi szervek, a közúti közlekedési nyilvántartó szerv, az OGYŐ, a rehabilitációs szakértői szerv, és a BVOP illetékes szerve, a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke, az illetékes fővárosi és vármegyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
 - e) a választási szerv a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül, a név és személyi azonosító, vagy természetes személyazonosító adatokkal,
 - f) az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról 8 napon belül,
 - g) a köznevelési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv és a honvéd tisztképzésért felelős szerv, honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet minden év február 28. napjáig és július 31. napjáig,
@@ -374,7 +374,7 @@ tagjainak azonosítása.
 
 - a) a Magyar Vöröskereszt,
 - b) a társadalombiztosítási szerv,
-- c) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és az MH PK,
+- c) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és a HVKF,
 - d) a honvédelmi szervezetek,
 - e) a (3) bekezdés szerinti személyek hozzátartozója, valamint
 - f) a nemzetközi segélyszervezetek háborús események, fegyveres konfliktusok, valamint természeti katasztrófák során eltűnt személyek felkutatása érdekében létrehozott szerve
@@ -436,7 +436,7 @@ adatok.
 
 #### 19. Közös szabályok
 
-34. § (1) Az e fejezet szerinti adatkezelések tekintetében az MH PK az alárendeltségébe tartozó honvédségi szervezetek helyett és nevében közös adatkezelés és adatfeldolgozás esetén jogi kötelezettséget vállalhat.
+34. § (1) Az e fejezet szerinti adatkezelések tekintetében a HVKF az alárendeltségébe tartozó honvédségi szervezetek helyett és nevében közös adatkezelés és adatfeldolgozás esetén jogi kötelezettséget vállalhat.
 
 (2) Az (1) bekezdés szerinti kötelezettségvállalás nem érinti az egyes adatkezelő honvédségi szervezetek Infotv. szerinti adatkezelési felelősségét és kötelezettségeit.
 
@@ -464,7 +464,7 @@ adatok.
 
 (5) A toborzó szakterület által kezelt adatokat a szolgálati, foglalkoztatási jogviszony létesítésével kapcsolatos döntés előkészítése és meghozatala céljából megismeri
 
-- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a Honvédség központi személyügyi szerve,
 - c) annak a honvédelmi szervezetnek a személyügyi szerve, amelynek állományába a jelentkező bekerülhet,
 - d) az egészségi, pszichikai, fizikai alkalmasságot megállapító honvédelmi szervezet.
@@ -485,7 +485,7 @@ adatok.
 
 (3) A nyilvántartásban rögzített adatokat a pályázati eljárás lefolytatása, a pályázó alkalmasságának megítélése céljából ismeri meg
 
-- a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és az MH PK, továbbá
+- a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és a HVKF, továbbá
 - b) a pályázat elbírálásában részt vevő személy.
 
 (4) Az (1)–(3) bekezdésben foglaltak nem alkalmazhatók a honvédelmi szervezetnek a kormányzati igazgatásról szóló törvény hatálya alá tartozó kiválasztási eljárása esetén.
@@ -556,7 +556,7 @@ adatok.
 - d) a légi-, vasúti és víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatát végző közlekedésbiztonsági szerv adatkérésének teljesítése,
 - e) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére, törvényben meghatározott feladata ellátása érdekében történő adatátadás,
 - f) a honvédelmi szervezetek jogi képviseletét ellátó szervezete részére, polgári peres ügyben történő adatátadás, valamint
-- g) az MH PK részére, a fegyelmi információs rendszer működtetése céljából történő adatátadás.
+- g) a HVKF részére, a fegyelmi információs rendszer működtetése céljából történő adatátadás.
 
 #### 23. A személyügyi nyilvántartás
 
@@ -581,7 +581,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 48. § (1) A személyügyi szakterület által kezelt adatokat megismeri a személyi állomány jogviszonyával, illetve az egyéb munkavégzésre irányuló jogviszonnyal, valamint az ösztöndíjakkal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása, továbbá statisztikai adatok előállítása, tervezési feladatok végrehajtása, a honvédelmi szervezetek jogi képviseletének ellátása céljából a feladata ellátáshoz szükséges mértékig
 
-- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK és helyettese, a legénységi állomány és az altisztek vonatkozásában a Honvédség vezénylő zászlósa (a továbbiakban: MH vezénylő zászlósa),
+- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF és helyettese, a legénységi állomány és az altisztek vonatkozásában a Honvédség vezénylő zászlósa (a továbbiakban: MH vezénylő zászlósa),
 - b) vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet személyügyi szervének kijelölt tagja,
 - c) az alárendeltjei vonatkozásában a teljesítményértékelést végző személy, a szolgálati elöljáró, az MH vezénylő zászlósa és a szakmai felelős,
 - d) az állomány érintett tagjait illetően a szolgálati panasz, a fegyelmi, a kártérítési, a szabálysértési, a büntető, a méltatlansági, valamint a szociális ügyben eljáró személy vagy bizottság, munkacsoport tagjai, továbbá a panasz és beadvány elbírálásának, valamint elismerés előkészítésében eljáró személyek,
@@ -612,7 +612,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (3) Az (1) és a (2) bekezdés szerinti személyek adatait az adatkezelő a hivatásos vagy szerződéses szolgálati viszony létesítése esetén a személyügyi nyilvántartásban tovább kezeli.
 
-50. § (1) A honvédelmi egészségügyi szolgáltató vezetője a Hjt. 237/J. § (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonáról és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/A. § (1) bekezdés a) pontja szerinti egészségügyi honvédelmi alkalmazottról (a továbbiakban együtt: egészségügyi állomány tagja) a 18. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: alapnyilvántartás) vezet. A 18. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
+50. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltató (a továbbiakban: honvédelmi egészségügyi szolgáltató) vezetője a Hjt. 237/J. § (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonáról és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/A. § (1) bekezdés a) pontja szerinti egészségügyi honvédelmi alkalmazottról (a továbbiakban együtt: egészségügyi állomány tagja) a 18. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: alapnyilvántartás) vezet. Törvény eltérő rendelkezésének hiányában a 18. mellékletben nem szereplő körben adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
 
 (2) Az Infotv. 26. § (2) bekezdésében foglalt adatokon túl közérdekből nyilvános adat az egészségügyi állomány tagja munkáltatójának megnevezése és besorolására vonatkozó adata is.
 
@@ -648,7 +648,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 - a) a miniszter,
 - b) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára,
-- c) az MH PK.
+- c) a HVKF.
 
 #### 24. A pénzügyi nyilvántartás
 
@@ -662,7 +662,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (5) A pénzügyi szakterület által kezelt adatokat a pénzbeli járandóságok, juttatások és költségtérítések, ösztöndíjak folyósításával kapcsolatos döntések előkészítése, meghozatala, a kifizethetőség biztosítása, a törvényességi felügyelet gyakorlása, valamint a követelések érvényesítése céljából megismeri:
 
-- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a Honvédség központi személyügyi szerve,
 - c) vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet kijelölt tagja,
 - d) az alárendeltjei vonatkozásában a szolgálati elöljáró,
@@ -678,7 +678,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (2) A honvédelmi egészségkárosodási ellátással, valamint a baleseti járadékkal kapcsolatos nyilvántartás adatait megismeri, illetve abból adatot igényelhet a honvédelmi egészségkárosodási ellátással és a baleseti járadékkal kapcsolatos döntés előkészítése, meghozatala, végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
 
-- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
 - c) a honvédelmi szervezetek jogi képviseletét ellátó honvédelmi szervezet.
 
@@ -717,7 +717,7 @@ adatokat.
 
 (6) A központi pénzügyi szervezet által kezelt adatokat a társadalombiztosítási, egyes pénzügyi, szociális, érdekvédelmi és kegyeleti ellátás megállapíthatóságának és folyósíthatóságának céljából megismeri:
 
-- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a Honvédség központi személyügyi szerve,
 - c) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
 - d) a honvédelmi szervezetek jogi képviseletét ellátó honvédelmi szervezet.
@@ -775,7 +775,7 @@ adatokat.
 
 60. § (1) A fegyelmi szakterület által kezelt adatokat az eljárást lezáró határozat jogkövetkezményeinek megállapítása, a fegyelmi fenyítés hatályának fennállása, felügyeleti és ellenőrzési jogkör gyakorlása céljából, az ezekkel, illetve egyéb szolgálati jogviszonnyal összefüggő, azzal kapcsolatos peres eljárások képviseletének ellátása érdekében megismeri:
 
-- a) az alárendeltségébe tartozó honvédelmi szervezetek vonatkozásában a miniszter, a minisztérium közigazgatási államtitkára, valamint az MH PK, az altiszti állomány tekintetében az MH vezénylő zászlósa,
+- a) az alárendeltségébe tartozó honvédelmi szervezetek vonatkozásában a miniszter, a minisztérium közigazgatási államtitkára, valamint a HVKF, az altiszti állomány tekintetében az MH vezénylő zászlósa,
 - b) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző szervezet.
 
 (2) A honvédelmi szervezetek jogi képviseletét ellátó szervezet részére a fegyelmi szakterület adataiból az adatkezelő adatot továbbít.
@@ -788,7 +788,7 @@ adatokat.
 
 (2) A fegyelmi információs rendszerben történő adatkezelés célja
 
-- a) a Honvédség magas fokú fegyelmének fenntartása érdekében a honvédelmi szervezeteknél történt, a katonai fegyelemre és a honvédelmi szervezetek fegyelmi helyzetére kiható eseményekről az MH PK tájékoztatása,
+- a) a Honvédség magas fokú fegyelmének fenntartása érdekében a honvédelmi szervezeteknél történt, a katonai fegyelemre és a honvédelmi szervezetek fegyelmi helyzetére kiható eseményekről a HVKF tájékoztatása,
 - b) az a) pontban meghatározott események megelőzése,
 - c) a honvédelmi szervezetek egységes joggyakorlatának elősegítése.
 
@@ -809,7 +809,7 @@ adatokat.
 
 63. § (1) A kártérítési eljárás lefolytatása, a kártérítési határozat jogkövetkezményeinek megállapítása, a kiszabott kártérítés érvényesítéséhez szükséges eljárás lefolytatása, felügyeleti és ellenőrzési jogkör gyakorlása céljából a kártérítési nyilvántartásban elektronikusan tárolt adatokat megismeri:
 
-- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) fellebbezés esetén az alárendeltjei vonatkozásában az állományilletékes parancsnok, a munkáltatói jogkör gyakorló,
 - c) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
 - d) a honvédelmi szervezetek jogi képviseletét ellátó honvédelmi szervezet,
@@ -1133,7 +1133,7 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 
 (5) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának, valamint elismerés adományozásának céljából megismeri:
 
-- a) miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a Honvédség központi személyügyi szerve,
 - c) az állomány érintett tagjait illetően a fegyelmi, rehabilitációs, valamint a szociális ügyben, illetve az elismerés adományozásának előkészítésében eljáró honvédelmi szervezet,
 - d) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
@@ -1147,7 +1147,7 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 
 (2) A központi irattári nyilvántartás adatait a Honvédség központi irattározási feladatát ellátó honvédelmi szervezet kezeli.
 
-(3) A központi irattári nyilvántartásban kezelt adatokat megismeri a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK.
+(3) A központi irattári nyilvántartásban kezelt adatokat megismeri a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF.
 
 (4) A központi irattári nyilvántartásban kezelt személyi anyagokat az adatkezelő a keletkezésüktől számított 75 évig kezeli.
 
@@ -1187,7 +1187,7 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 
 - a) az objektumban elkövetett bűncselekmény, szabálysértés, fegyelmi vétség miatt indult eljárásban hivatalos célból történő felhasználás, valamint az érintett jogainak gyakorlása céljából az eljárást lefolytató szervnek,
 - b) törvényben meghatározott feladatai ellátásához a KNBSZ-nek,
-- c) a szolgálatteljesítési idő, munkaidő ellenőrizhetősége céljából a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére.
+- c) a szolgálatteljesítési idő, munkaidő ellenőrizhetősége céljából a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére.
 
 83. § (1) Az állandó belépési engedélyek kiadására jogosult honvédelmi szervezet, valamint a szakképző intézmény az állandó belépési engedélyek engedélyezése, kiadása és az érintett azonosítása céljából kezeli
 
@@ -1478,7 +1478,7 @@ kezeli.
 
 (6) A rehabilitációs nyilvántartásban kezelt adatokat társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának céljából megismeri:
 
-- a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+- a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet.
 
 (7) A nyilvántartás adatai közlésre kerülnek
@@ -1846,6 +1846,34 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 #### 59. A honvédelmi ágazatban használt igazolványok közös rendelkezései
 
 110. § A Honvédség katonai igazgatási és központi adatfeldolgozó szerve által, az e fejezetben meghatározott, a honvédelmi ágazatban használt igazolványokkal kapcsolatban vezetett nyilvántartások más nyilvántartásokkal – ha e törvény az adatkezelés céljának és az adatok körének pontos meghatározásával másként nem rendelkezik – nem kapcsolhatóak össze.
+
+#### 59/A. A KNBSZ igazolványával összefüggő sajátos szabályok
+
+110/A. § (1) A KNBSZ személyi állományába tartozást és a nemzetbiztonsági feladatellátást igazoló, a hivatásos állomány részére szolgálati, a honvédelmi alkalmazotti és a munkavállalói állomány részére munkáltatói igazolvány, valamint jelvény kiadásával összefüggő feladatok ellátása céljából, a KNBSZ kezeli az állományába tartozó hivatásos, honvédelmi alkalmazotti és munkavállalói állomány 27. melléklet 1–7., 10–13. és 15. pontja szerinti adatait és az adatok hitelességét igazoló iratokat vagy másolataikat, a nemzetbiztonsági jogviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 10 évig.
+
+(2) Az (1) bekezdés szerinti szolgálati igazolvány tartalmazza
+
+- a) a hivatásos állomány tagjának arcképét, nevét,
+- b) a hivatásos állomány tagjának rendfokozatát,
+- c) a „Katonai Nemzetbiztonsági Szolgálat” megnevezést, a KNBSZ címerét, a KNBSZ emblémáját,
+- d) a kibocsátó aláírását,
+- e) a jelvény egyedi azonosítószámát és
+- f) az igazolvány egyedi azonosítóját.
+
+(3) Az (1) bekezdés szerinti munkáltatói igazolvány tartalmazza
+
+- a) a honvédelmi alkalmazotti és a munkavállalói állomány tagjának arcképét, nevét,
+- b) a „Katonai Nemzetbiztonsági Szolgálat” megnevezést, a KNBSZ címerét, a KNBSZ emblémáját,
+- c) a kibocsátó aláírását,
+- d) a jelvény egyedi azonosítószámát és
+- e) az igazolvány egyedi azonosítóját.
+
+(4) Az (1) bekezdés szerinti jelvény tartalmazza
+
+- a) a „Katonai Nemzetbiztonsági Szolgálat” megnevezést, Magyarország címerét, a KNBSZ címerét és
+- b) annak egyedi azonosítószámát.
+
+(5) A szolgálati és a munkáltatói igazolvány és a jelvény a jogállási törvényekben foglalt jogosultságokat igazolja.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3056,3 +3084,4 @@ Az állomány tagjára vonatkozó adatok:
 - 12. az igazolvány vagy személyi igazolójegy kiállításának dátuma,
 - 13. az igazolvány vagy személyi igazolójegy igénylésének és bevonásának oka, az igazolvány vagy személyi igazolójegy elvesztéséről, eltulajdonításáról, megrongálódásáról vagy megsemmisüléséről, valamint az elveszett, eltulajdonított igazolvány megtalálásáról szóló jegyzőkönyv adatai,
 - 14. a külszolgálatra tervezett állomány szolgálatteljesítésének kezdő és befejező dátuma.
+- 15. a jelvény egyedi azonosítószáma.

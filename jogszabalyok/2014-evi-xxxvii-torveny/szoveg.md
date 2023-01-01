@@ -2886,6 +2886,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy,
 - b) a szanálási feladatkörében eljáró MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (8) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
 - c) az OBA ügyvezető igazgatója.
+- d) a hitelintézetek érdekképviseleti szervezete által kijelölt személy.
 
 (1a) Az igazgatótanács tagja – az igazgatótanács jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatótanács ülésein.
 
@@ -2909,6 +2910,8 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - h) határoz a megemelt, illetve rendkívüli díjfizetési kötelezettség előírásáról,
 - i) ellátja az e törvényben meghatározott egyéb feladatokat, valamint
 - j) dönt – a szanálási feladatkörében eljáró MNB előterjesztése alapján – az Alap pénzeszközeinek szanálási célú felhasználásáról.
+
+(5a) A hitelintézetek érdekképviseleti szervezete által kijelölt személy az igazgatótanács ülésén kizárólag az (5) bekezdés f) pontja szerinti napirendi pont megtárgyalásakor vehet részt.
 
 (6) Az igazgatótanács az Alappal kapcsolatos feladatainak végrehajtása során igénybe veheti az OBA és – a monetáris finanszírozás tilalmába nem ütköző módon – az MNB szolgáltatásait.
 
@@ -3142,9 +3145,19 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 81. Módosító rendelkezések
 
-#### 153–157. §
+#### 153. §
 
-#### 158–159. §
+#### 154. §
+
+#### 155. §
+
+#### 156. §
+
+#### 157. §
+
+#### 158. §
+
+#### 159. §
 
 160. § (1)
 

@@ -116,7 +116,7 @@ rendelhet ki.
 
 (7) Ha a hivatásos támogató hivatásos gondnoki feladatokat is ellát, a támogatott személyeinek és a gondnokoltjainak a száma együttesen sem haladhatja meg az (5) és (6) bekezdésben foglalt létszámot.
 
-(8) Ha a hivatásos támogató tevékenységét munkavégzésre irányuló egyéb jogviszonyban látja el, díjazását úgy kell megállapítani, hogy annak összege támogatott személyenként – a támogatói feladatok mértéke alapján – az öregségi nyugdíj mindenkori legkisebb összegének legalább 10%-át elérje.
+(8) Ha a hivatásos támogató tevékenységét munkavégzésre irányuló egyéb jogviszonyban látja el, díjazását úgy kell megállapítani, hogy annak összege támogatott személyenként – a támogatói feladatok mértéke alapján – a szociális vetítési alap összegének legalább 10%-át elérje.
 
 8. § (1) Ha a hivatásos támogatói feladatok ellátására munkavégzésre irányuló egyéb jogviszony keretében kerül sor, a hivatásos támogatói feladatokat ellátni kívánó személy a jelentkezéskor hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 

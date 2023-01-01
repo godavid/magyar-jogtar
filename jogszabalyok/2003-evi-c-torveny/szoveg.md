@@ -81,10 +81,15 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - a) biztosítja, hogy a lakosság megfelelő tájékoztatást kapjon a harmonizált közérdekű szolgáltatásokról és használatáról, különösen a kifejezetten a tagállamokban utazó személyeknek szánt kezdeményezéseken keresztül, valamint hogy a fogyatékos személyek a lehető legnagyobb mértékben hozzá tudjanak férni ezen szolgáltatásokhoz, továbbá ösztönzi a harmonizált közérdekű szolgáltatások nyújtását;
 - b) biztosítja, hogy a polgárok megfelelő tájékoztatást kapjanak a „112” egységes európai segélyhívó számról és használatáról, különösen a kifejezetten a tagállamok között utazó személyeket célzó kezdeményezéseken keresztül, továbbá hogy a fogyatékos személyek segélyhívó szolgáltatásokhoz való hozzáférése a többi végfelhasználóéval egyenértékű legyen;
 - c) a feladat- és hatáskörét érintő szakági területen széles társadalmi, iparági érdeket megjelenítő, vagy tudományos tevékenységet végző szervezetekkel kialakítandó közvetlen együttműködésre irányuló partnerségi, együttműködési megállapodásokkal gondoskodik az infokommunikációs stratégiai célkitűzések érvényre jutásáról;
-- d)–f)
-- g)–h)
+- d)
+- e)
+- f)
+- g)
+- h)
 - i)
-- j)–l)
+- j)
+- k)
+- l)
 - m)
 - n)
 - o)
@@ -638,7 +643,9 @@ meghozatalát megelőzően, valamint, ha megítélése szerint egyébként szük
 
 42. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban a Hatóság e törvényben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
 
@@ -871,6 +878,8 @@ véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatát.
 (7) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.
 
 50/C. § Az 50/A. és 50/B. §-ban foglalt bírság kiszabása során a 48–50. § rendelkezéseit nem kell alkalmazni.
+
+50/D. § A Hatóság a 48. § rendelkezéseire figyelemmel, a 49. §-ben foglalt egy vagy több jogkövetkezmény alkalmazását követően megtilthatja az elektronikus hírközlési tevékenység végzését, ha az elektronikus hírközlési szolgáltató a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 36/G. § és 36/H. § szerinti kötelezettségének nem tesz eleget.
 
 ### V. Fejezet — A HATÓSÁG EGYES ELJÁRÁSAI
 
@@ -2634,7 +2643,7 @@ adatainak egyeztetésére köteles.
 
 (13) Ha a határozott időtartamú előfizetői szerződés időtartama alatt az egyéni előfizető lakcímének vagy tartózkodási helyének változása miatt a korábbi lakcíméről, vagy tartózkodási helyéről új lakcímére, vagy tartózkodási helyére kéri az előfizetői hozzáférési pont áthelyezését, és a szolgáltató az áthelyezési igényt rajta kívül álló okból teljesíteni nem tudja, az előfizető a szolgáltató erről szóló értesítését követő 15 napon belül azonnali hatállyal, további jogkövetkezmények nélkül felmondhatja a határozott időtartamú szerződést. A szolgáltató az értesítésben köteles igazolható módon tájékoztatni az előfizetőt az őt megillető felmondási jogról.
 
-(14) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott szolgáltató az előfizetőnek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 20/T. § (2) bekezdés szerinti adatai változásáról szóló bejelentés esetén a (10) bekezdés szerint jár el.
+(14) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott szolgáltató az előfizetőnek a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Tkmtv.) 15. § (2) bekezdés szerinti adatai változásáról szóló bejelentés esetén a (10) bekezdés szerint jár el.
 
 #### 133. §
 
@@ -2899,7 +2908,7 @@ kiállított számla érvénytelen.
 - a) tartós adathordozó útján, azzal, hogy a tartós adathordozó elérhetővé tételéről az előfizetőt igazolható módon külön értesíteni kell, kivéve, ha az alkalmazott tartós adathordozó jellege azt nem indokolja;
 - b) az előfizető közvetlen értesítésével, személyesen, postai úton, saját kézbesítés útján vagy az elektronikus hírközlési szolgáltatás jellegéhez igazodó módon;
 - c) egyéb elektronikus hírközlés útján, az internetes honlapon történő közzétételre utalással, vagy
-- d) az értesítendő előfizetők körétől függően országos vagy megyei napilapban és honlappal rendelkező média szerkesztőség, internetes újság vagy hírportál útján legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
+- d) az értesítendő előfizetők körétől függően országos vagy vármegyei napilapban és honlappal rendelkező média szerkesztőség, internetes újság vagy hírportál útján legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
 
 (5) A (4) bekezdés a)–c) pontjában meghatározott értesítési módokat a szolgáltató akkor alkalmazhatja, ha maradandó módon rögzíteni tudja, hogy
 
@@ -3505,7 +3514,9 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 (3) A Hatóság jogelődje nyilvántartásait átvezeti és a nyilvántartások hiányainak pótlása iránt intézkedik.
 
-(4)–(5)
+(4)
+
+(5)
 
 #### 168. §
 
@@ -3616,13 +3627,19 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 ### Módosuló jogszabályok
 
-183. § (1)–(2)
+183. § (1)
 
-(3)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5)
 
-(6)–(7)
+(6)
+
+(7)
 
 184. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rtt.) 114/A. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
 
@@ -3860,4 +3877,4 @@ való megfelelést szolgálja.
 - 133. Végfelhasználó: olyan felhasználó, aki az adott hálózati végpontot saját érdekkörében használja, és azon nem nyújt nyilvánosan elérhető elektronikus hírközlési szolgáltatást vagy nem biztosít nyilvános elektronikus hírközlő hálózatot.
 - 134. Végfelhasználói hozzáférés felett rendelkező vállalkozás: azon vállalkozás, amely a végfelhasználó valamely elektronikus hírközlő hálózathoz vagy annak részéhez történő fizikai vagy logikai csatlakoztatása felett rendelkezési jogot gyakorol.
 - 135. Virtuális helymegosztás: olyan helymegosztás, amelynek során a helymegosztásra jogosult szolgáltató megbízásából a kötelezett szolgáltató birtokolja és üzemelteti a rendezőhöz kapcsolódó azon berendezéseket, amelyek a jogosult szolgáltató igényeit elégítik ki.
-- 136. Adatváltozás-kezelési szolgáltatás: a Khtv. 1. § (1) bekezdés 2. pontja szerinti szolgáltatás.
+- 136. Adatváltozás-kezelési szolgáltatás: a Tkmtv. 1. § (1) bekezdés 2. pontja szerinti szolgáltatás.

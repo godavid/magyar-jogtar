@@ -2,7 +2,19 @@
 
 a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról
 
-Az Országgyűlésaz Európai Unió szabályaival való összhang megteremtése,a jogi személy vállalkozások pénzügyi nehézségeinek korai kezelése, törlesztőképességük megőrzése, fizetésképtelenné válásuk megelőzése, elkerülése,a pénzügyi nehézségekkel küzdő, jóhiszemű, tisztességes vállalkozások és üzleti partnereik, hitelezőik méltányolható érdekeinek összehangolása és védelme,a vállalkozások életképessége megőrzéséhez, gazdálkodásuk racionalizálásához szükséges források biztosítása,a költségtakarékos, rugalmas és gyors adósságrendezést biztosító eljárás megteremtéseérdekében a következő törvényt alkotja:
+Az Országgyűlés
+
+az Európai Unió szabályaival való összhang megteremtése,
+
+a jogi személy vállalkozások pénzügyi nehézségeinek korai kezelése, törlesztőképességük megőrzése, fizetésképtelenné válásuk megelőzése, elkerülése,
+
+a pénzügyi nehézségekkel küzdő, jóhiszemű, tisztességes vállalkozások és üzleti partnereik, hitelezőik méltányolható érdekeinek összehangolása és védelme,
+
+a vállalkozások életképessége megőrzéséhez, gazdálkodásuk racionalizálásához szükséges források biztosítása,
+
+a költségtakarékos, rugalmas és gyors adósságrendezést biztosító eljárás megteremtése
+
+érdekében a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -17,7 +29,7 @@ Az Országgyűlésaz Európai Unió szabályaival való összhang megteremtése,
 2. § (1) E törvény szerinti szerkezetátalakításban nem lehet adós
 
 - a) az állam,
-- b) helyi, megyei és nemzetiségi önkormányzat, önkormányzati társulás,
+- b) helyi, vármegyei és nemzetiségi önkormányzat, önkormányzati társulás,
 - c) költségvetési szerv,
 - d) az a)–c) pontban nem említett más államháztartási szervezet,
 - e) a Magyar Nemzeti Bank,
@@ -329,10 +341,10 @@ megindítása tárgyában jogerős határozatot közzétették,
 - c) az adós hitelezője,
 - d) a hitelező jogi személyben a Ptk. szerinti közvetlen vagy közvetett befolyása van,
 - e) a szerkezetátalakítási szakértőben az adósnak vagy az adós vezető tisztségviselőjének, vezető állású munkavállalójának a Ptk. szerinti közvetlen vagy közvetett befolyása van,
-- f) ellene büntetőeljárás vagy fegyelmi eljárás indult, vagy közigazgatási hatósági jogkörben olyan szankciós intézkedésre vonatkozó véglegessé vált hatósági határozat született, amelyben az adott szakmai tevékenység folytatásának megtiltását is elrendelték, vagy
+- f) ellene büntetőeljárás indult, vagy közigazgatási hatósági jogkörben olyan szankciós intézkedésre vonatkozó véglegessé vált hatósági határozat született, amelyben az adott szakmai tevékenység folytatásának megtiltását is elrendelték, vagy
 - g) az adóssal olyan szervezeti vagy üzleti kapcsolata van, amely a szerkezetátalakítási szakértő feladatának tárgyilagos ellátását veszélyezteti.
 
-(5) A (4) bekezdésben felsorolt összeférhetetlenségi és kizáró ok a felszámoló szervezet vezető tisztségviselője vonatkozásában sem állhat fenn, továbbá a szerkezetátalakítási szakértői feladatra kijelölt természetes személy vonatkozásában teljesülnie kell a Cstv.-ben előírt felszámolási és vagyonfelügyeleti szakirányú szakképzettségen túl jogszabályban előírt továbbképzésnek is.
+(5) A (4) bekezdésben felsorolt összeférhetetlenségi és kizáró ok a felszámoló szervezet vezető tisztségviselője vonatkozásában sem állhat fenn, továbbá a szerkezetátalakítási szakértői feladatra kijelölt természetes személy vonatkozásában teljesülnie kell a Cstv.-ben előírt felszámolási és vagyonfelügyeleti szakirányú szakképzettségen túl jogszabályban előírt szerkezetátalakítási alap-, illetve továbbképzésnek is.
 
 (6) A szerkezetátalakítási szakértői tevékenységgel okozott kár megtérítését, valamint személyiségi jogsértés miatt járó sérelemdíj megfizetésének a fedezetét felelősségbiztosítással kell biztosítani. A szerkezetátalakítási tevékenységből eredő károk, valamint sérelemdíj biztosításához szükséges felelősségbiztosítás káreseményenként számított legalacsonyabb összege 100 000 000 Ft, és a felelősségbiztosítás évenként számított legalacsonyabb összege 160 000 000 Ft.
 
@@ -341,24 +353,32 @@ megindítása tárgyában jogerős határozatot közzétették,
 24. § (1) A felszámoló szervezet bejelenti a nyilvántartó szervezetnek, ha szerkezetátalakítási szakértői tevékenységet is kíván végezni. A bejelentéssel egyidejűleg igazolnia kell, hogy
 
 - a) rendelkezik a 23. § (6) bekezdése szerinti felelősségbiztosítással, és
-- b) a személyesen közreműködő tagjai, munkavállalói, illetve a társasággal kötött tartós polgári jogi szerződés alapján a társaság javára tevékenykedők között van olyan természetes személy, aki a szerkezetátalakítási szakértői tevékenység megkezdéséhez szükséges jogszabályban meghatározott továbbképzést elvégezte.
+- b) a személyesen közreműködő tagjai, munkavállalói, illetve a társasággal kötött tartós polgári jogi szerződés alapján a társaság javára tevékenykedők között van olyan természetes személy, aki a szerkezetátalakítási szakértői tevékenység megkezdéséhez szükséges jogszabályban meghatározott szerkezetátalakítási alap-, illetve továbbképzést elvégezte.
 
-(2) A nyilvántartó szervezet az (1) bekezdés szerinti bejelentést és a (6) bekezdés szerinti adatokat 1 munkanapon belül továbbítja az OBH-nak. Az OBH a bejelentést tevő felszámoló szervezetet a bíróság által kijelölhető szerkezetátalakítási szakértők listájára felveszi.
+(2) A nyilvántartó szervezet az (1) bekezdés szerinti bejelentést követően a nyilvántartásba vételről hozott véglegessé vált határozatát és a (6) bekezdés szerinti adatokat 1 munkanapon belül elektronikus úton továbbítja az OBH-nak. Az OBH a bejelentést tevő felszámoló szervezetet a bíróság által kijelölhető szerkezetátalakítási szakértők listájára felveszi.
 
-(3) Ha a szerkezetátalakítási szakértők listájára felvett szerkezetátalakítási szakértő nem kívánja tovább folytatni a szerkezetátalakítási szakértői tevékenységet, azt a nyilvántartó szervezet útján jelenti be az OBH-nak. Az OBH a szerkezetátalakítási szakértőt az erről szóló bejelentést követően a szerkezetátalakítási szakértők listájáról törli. Törölni kell a szerkezetátalakítási szakértőt a szerkezetátalakítási szakértők listájáról az (5) bekezdés b) pontja szerinti esetekben is.
+(3) Ha a szerkezetátalakítási szakértők listájára felvett szerkezetátalakítási szakértő nem kívánja tovább folytatni a szerkezetátalakítási szakértői tevékenységet, azt a nyilvántartó szervezet útján jelenti be az OBH-nak. Az OBH a szerkezetátalakítási szakértőt az erről szóló bejelentésről hozott döntés kézhezvételét követően a szerkezetátalakítási szakértők listájáról törli. Törölni kell a szerkezetátalakítási szakértőt a szerkezetátalakítási szakértők listájáról az (5) bekezdés b) pontja szerinti esetekben is.
 
-(4) A szerkezetátalakítási szakértők listájára felvett szerkezetátalakítási szakértő által foglalkoztatott természetes személy jogszabályban foglaltak szerinti szakmai továbbképzésben való részvételre is köteles, amelyet jogszabályban meghatározott módon kell a szerkezetátalakítási szakértő útján a nyilvántartó szervezet részére igazolnia.
+(4) A szerkezetátalakítási szakértők listájára felvett szerkezetátalakítási szakértő által foglalkoztatott természetes személy jogszabályban foglaltak szerinti szerkezetátalakítási alap- és továbbképzésben való részvételre is köteles, amelyet jogszabályban meghatározott módon kell a szerkezetátalakítási szakértő útján a nyilvántartó szervezet részére igazolnia.
 
-(5) A nyilvántartó szervezet haladéktalanul értesíti az OBH-t
+(5) A nyilvántartó szervezet döntésének véglegessé válását követően haladéktalanul értesíti az OBH-t
 
 - a) a szerkezetátalakítási szakértők listájára felvett felszámoló szervezet (6) bekezdés szerinti adataiban bekövetkezett változásról, valamint
 - b) arról, ha
   - ba) a szerkezetátalakítási szakértők listájára felvett személyt a nyilvántartó szervezet nyilvántartásából törölték, vagy
-  - bb) a szerkezetátalakítási szakértők listájára felvett személy a szakmai továbbképzésben való részvételt jogszabályban meghatározott módon nem igazolta.
+  - bb) a szerkezetátalakítási szakértők listájára felvett személy a szerkezetátalakítási alap- vagy továbbképzésben való részvételt jogszabályban meghatározott módon nem igazolta.
 
 (6) Közérdekből nyilvános adat a szerkezetátalakítási szakértők listájára felvett szerkezetátalakítási szakértő neve, értesítési címe, elektronikus levelezési címe, hatósági nyilvántartási száma, valamint azon nyilvántartó szervezet megnevezése, amelynek nyilvántartásában a szerkezetátalakítási szakértő szerepel.
 
 (7) A (6) bekezdés szerinti közérdekből nyilvános adatokat az OBH honlapján bárki számára elérhető módon, ingyenesen, keresőprogram igénybevétele útján elérhetővé kell tenni.
+
+(8) A nyilvántartó szervezet a szerkezetátalakítási szakértői feladatra kijelölt természetes személy részére e minőségének igazolására szerkezetátalakítási szakértői igazolványt állít ki. A szerkezetátalakítási szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. A szerkezetátalakítási szakértői feladatra kijelölt természetes személy az igazolványát szerkezetátalakítási szakértők listájára történő felvételét követően veheti át.
+
+(9) A szerkezetátalakítási szakértői igazolvány az alábbi személyes adatokat tartalmazza:
+
+- a) a szerkezetátalakítási szakértői feladatra kijelölt természetes személy szakértő nevét, arcképét,
+- b) a szerkezetátalakítási szakértői feladatra kijelölt természetes személyt foglalkoztató szerkezetátalakítási szakértő székhelyét,
+- c) az igazolvány okmányazonosítóját.
 
 25. § (1) A szerkezetátalakítási szakértő feladata
 
@@ -436,7 +456,7 @@ megindítása tárgyában jogerős határozatot közzétették,
 - a) korlátozott moratóriumot rendel el és a hitelezők érdekeinek védelme érdekében ezt a (6) bekezdés szerinti módon az érintett hitelezők kérik, és nincs kijelölt szerkezetátalakítási szakértő, vagy
 - b) a szerkezetátalakítási terv jóváhagyása iránti nemperes eljárásban elleniratot nyújtanak be, és a felmerülő szakkérdés miatt a szerkezetátalakításban közreműködő szerkezetátalakítási szakértő mellett további szerkezetátalakítási szakértő kirendelése indokolt.
 
-(3) A szerkezetátalakítási szakértő a bírósági kirendelés kézhezvételétől számított 5 munkanapon belül köteles megtenni az összeférhetetlenségi és kizáró ok hiányára, az előírt képzési feltételre is kiterjedő nyilatkozatát, ideértve a szerkezetátalakítási szakértői feladatot ellátó természetes személy nyilatkozatát is.
+(3) A szerkezetátalakítási szakértő a bírósági kirendelés kézhezvételétől számított 5 munkanapon belül köteles benyújtani az összeférhetetlenségi és kizáró ok hiányára kiterjedő nyilatkozatát.
 
 (4) A szerkezetátalakítási szakértő kirendelése nyilvános, átlátható és ellenőrizhető, jogszabályban meghatározott módszertan szerint történik, amely figyelembe veszi az adós gazdasági tevékenységének és pénzügyi nehézségeinek sajátosságait, és az adott ügy ellátásához szükséges szakértelmet.
 
@@ -469,6 +489,8 @@ megindítása tárgyában jogerős határozatot közzétették,
 (7) A szerkezetátalakítási szakértő díját a bíróság a szerkezetátalakítási szakértő kirendelése megszüntetésekor, vagy legkésőbb a szerkezetátalakítási terv jóváhagyása tárgyában hozott végzés meghozatalakor állapítja meg. A díj mértékét a bíróság az adott ügyhöz kapcsolódó munkamennyiség, illetve a szerkezetátalakítási szakértő egyéb adminisztratív feladatainak mennyisége, a kirendelés időtartama, valamint a kirendelés megszűnési okának figyelembevételével csökkentheti. A bíróság a végzésben szükség szerint kötelezi a szerkezetátalakítási szakértőt, hogy a felvett díjelőlegből fizesse vissza azt az összeget, amely a megállapított díjat meghaladja.
 
 (8) A díj megállapítása tárgyában hozott végzéssel szemben a szakértő és az adós külön fellebbezéssel élhet, – a fellebbezéssel nem érintett részben – a fellebbezésnek a díj kifizetésére nincs halasztó hatálya.
+
+30/A. § A 28. § (1) bekezdés szerinti kijelölés és a 12. alcím szerinti hivatalból történő kirendelés során a bíróság által használt elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztése és működtetése a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) feladata.
 
 #### 13. A szerkezetátalakítási szakértő kijelölésének megszüntetése
 
@@ -517,7 +539,7 @@ megindítása tárgyában jogerős határozatot közzétették,
 - a) jogosult megtenni a 26. § (2) bekezdés a) és b) pontja szerinti intézkedéseket,
 - b) figyelemmel kíséri azt, hogy nem áll-e fenn a moratórium megszüntetésének oka, és a 39. § (2) bekezdése szerinti körülmény észlelése esetén kezdeményezi a moratórium megszüntetését.
 
-34. § (1) A moratórium – a 2. § (2) és (3) bekezdésében, valamint a (7)–(9) bekezdésben meghatározottak figyelembevételével – e törvény eltérő rendelkezése hiányában az adóssal szemben az érintett hitelezők által érvényesíthető, az általános vagy korlátozott moratórium hatálya alá eső valamennyi követelésre kiterjed, ideértve a moratórium időtartama alatt esedékessé váló vagy keletkező követeléseket is.
+34. § (1) A moratórium – a 2. § (2) és (3) bekezdésében, valamint a (7)–(9) bekezdésben meghatározottak figyelembevételével – e törvény eltérő rendelkezése hiányában az adóssal szemben a hitelezők által érvényesíthető, az általános vagy korlátozott moratórium hatálya alá eső valamennyi követelésre kiterjed, ideértve a moratórium időtartama alatt esedékessé váló vagy keletkező követeléseket is.
 
 (2) A moratórium hatálya alá eső hitelező a moratórium időtartama alatt az adóssal szemben
 
@@ -993,23 +1015,21 @@ megindítása tárgyában jogerős határozatot közzétették,
 - a) a bíróság által kijelölt szerkezetátalakítási szakértő részletes feladatait, jogait és kötelezettségeit,
 - b) a bíróság által kirendelt szerkezetátalakítási szakértő díja megállapításának részletes szabályait.
 
-(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az OBH Elnöke véleményének kikérésével – a szerkezetátalakítással összefüggő polgári nemperes eljárás sajátos bírósági ügyviteli és igazgatási szabályaira vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-- a) a szerkezetátalakítási szakértő bírósági kirendelésére és kijelölése megszüntetésének részletes szabályaira, valamint a kirendelésének módszertanára,
-- b)
-- c) – az OBH Elnöke véleményének kikérésével – a szerkezetátalakítással összefüggő polgári nemperes eljárás sajátos bírósági ügyviteli és igazgatási szabályaira
+(3) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben szabályozza
 
-vonatkozó részletes szabályokat rendeletben állapítsa meg.
-
-(3) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza a szerkezetátalakítási szakértők továbbképzésének szabályait.
+- a) a szerkezetátalakítási szakértő elektronikus kiválasztás igénybevételével történő bírósági kijelölésének és kirendelésének; az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének, valamint a kijelölés és a kirendelés megszüntetésének részletes szabályait,
+- b) a szerkezetátalakítási szakértők szerkezetátalakítási alap- és továbbképzésének szabályait,
+- c) a szerkezetátalakítási szakértők igazolványának kiállítására, használatára, az igazolvány személyes adatot nem tartalmazó adattartalmára és formai követelményeire, valamint nyilvántartására vonatkozó részletes szabályokat.
 
 #### 24. Hatályba léptető és átmeneti rendelkezések
 
 67. § Ez a törvény 2022. július 1-jén lép hatályba.
 
-68. § (1) A szerkezetátalakítási szakértők listájára történő felvételhez szükséges szakmai továbbképzés elvégzését a szerkezetátalakítási szakértőnek legkésőbb 2024. december 31-éig kell igazolnia.
+68. § (1) A szerkezetátalakítási szakértők listájára történő felvételhez szükséges szerkezetátalakítási alapképzés elvégzését a szerkezetátalakítási szakértőnek legkésőbb 2024. december 31-éig kell igazolnia.
 
-(2) Az (1) bekezdés szerinti határidőig a 23. § (5) bekezdése szerinti továbbképzés elvégzésével egyenértékűnek tekinthető a Cstv. 27/C. § (1) bekezdése szerinti felszámolói és vagyonfelügyelői szakirányú szakképzettség oklevéllel történő igazolása.
+(2) Az (1) bekezdés szerinti határidőig a 23. § (5) bekezdése szerinti szerkezetátalakítási alapképzés elvégzésével egyenértékűnek tekinthető a Cstv. 27/C. § (1) bekezdése szerinti felszámolói és vagyonfelügyelői szakirányú szakképzettség oklevéllel történő igazolása.
 
 #### 25. Jogharmonizációs záradék
 
@@ -1029,22 +1049,44 @@ való megfelelést szolgálja.
 
 #### 26. Módosító rendelkezések
 
-70. §
+#### 70. §
 
-71. § (1)–(11)
+71. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
 
 (12)
 
-(13)–(14)
+(13)
 
-72. §
+(14)
 
-73. §
+#### 72. §
 
-74. §
+#### 73. §
 
-75. §
+#### 74. §
 
-76. §
+#### 75. §
 
-77. §
+#### 76. §
+
+#### 77. §

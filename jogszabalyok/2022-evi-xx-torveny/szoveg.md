@@ -50,7 +50,9 @@ a pénzügyi szektort érintő egyes törvények módosításáról
 
 17. §
 
-18. §
+18. § Az Fsztv. 14. alcíme a következő 70/A. §-sal egészül ki:
+
+„70/A. § A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa nyújtott pénzügyi, kiegészítő pénzügyi szolgáltatását vagy annak körébe tartozó bármely résztevékenységét munkanapokon, előzetesen tervezetten, a Hpt.-ben a bankszünnap tartására vonatkozóan előírt feltételek szerint szüneteltetheti.”
 
 #### 8. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
@@ -62,7 +64,9 @@ a pénzügyi szektort érintő egyes törvények módosításáról
 
 22. §
 
-23. §
+23. § A Hpt. 228. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását is – a Felügyelet a helyszínen vagy helyszínen kívül ellenőrzi. A Felügyelet az ellenőrzés során az OBA – Felügyelet által meghatározott módon történő – közreműködését is igénybe veheti, az OBA ezen ellenőrzés keretében a Felügyelet felé intézkedési javaslattal élhet. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.”
 
 24. §
 
@@ -72,11 +76,21 @@ a pénzügyi szektort érintő egyes törvények módosításáról
 
 #### 9. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-27. §
+27. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 103. § (2) bekezdés helyébe a következő rendelkezés lép, továbbá a 103. §-a a következő (2a) bekezdéssel egészül ki:
 
-28. §
+„(2) A nyílt végű befektetési jegyek nyilvános forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a forgalomba hozatali eljárást megelőzően a Felügyelet által jóváhagyott, a 3. melléklet I. Fejezet szerinti kezelési szabályzatot, az 5. mellékletben foglaltaknak megfelelő tartalommal összeállított tájékoztatót, a 130. § szerinti kiemelt befektetői információt vagy helyette a (2a) bekezdés alapján alkalmazott a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1286/2014/EU rendelet) szerinti kiemelt információkat tartalmazó dokumentumot, valamint a 104. § szerinti hirdetményt tegyen közzé. Semmis a befektetési jegy jegyzése, ha – a 105. § (1) bekezdésben foglalt kivétellel – a befektetési jegyet a Felügyelet által jóváhagyott tájékoztató, kezelési szabályzat, kiemelt befektetői információ, kiemelt információkat tartalmazó dokumentum vagy hirdetmény hiányában hozták nyilvánosan forgalomba.
 
-29. §
+(2a) Nem kell a (2) bekezdés szerinti kiemelt befektetői információt elkészíteni, ha a befektetési alapkezelő az 1286/2014/EU rendelet szerinti kiemelt információkat tartalmazó dokumentumot állít elő.”
+
+28. § A Kbftv. 130. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Ha a kiemelt befektetői információt tartalmazó dokumentum megfelel az 1286/2014/EU rendelet kiemelt információkat tartalmazó dokumentumokra irányadó követelményeknek, akkor teljesíti az (1)–(6) bekezdésben foglalt feltételeket.”
+
+29. § A Kbftv. 205. § (1) bekezdése a következő i) ponttal egészül ki:
+
+(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„i) az Európai Parlament és a Tanács 2021. december 15-i (EU) 2021/2261 irányelve a 2009/65/EK irányelvnek a kiemelt információkat tartalmazó dokumentumok átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) alapkezelő társaságai általi használata tekintetében történő módosításáról.”
 
 30. §
 

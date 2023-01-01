@@ -89,9 +89,9 @@ esetén legalább egy jogelőd vagy tag érdekképviselet e tevékenységét a j
 
 8. § A 6–7. §-ban foglaltaktól eltérően, e törvény alapján a munkáltatói érdekképviseletet megillető jogosultságokkal rendelkezik az a munkáltató vagy azoknak a munkáltatóknak az összessége, amelynél a munkaviszonyban foglalkoztatottak száma együttesen eléri az ágazatban munkaviszonyban állók létszámának nyolcvan százalékát, feltéve, hogy munkáltatói érdekképviselet alapítására az alapító tagok legkisebb létszámára vonatkozó, külön törvény szerinti feltétel teljesítésének igazolt hiánya miatt nem került sor.
 
-9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet együttesen kérheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozását 6 hónapon belül nem kérték.
+9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet együttesen kérheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozása iránti eljárás nincs folyamatban.
 
-(2) Az ÁRMB a kérelmet – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a miniszter hivatalos lapjában végzésben közzéteszi. A közzététel időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról az ÁRMB-t, valamint azokat a szervezeteket, amelyek az (1) bekezdésben meghatározott kérelmet benyújtották.
+(2) Az ÁRMB a kérelmet – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a Magyar Közlöny mellékletét képező Hivatalos Értesítőben végzésben közzéteszi. A közzététel időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról az ÁRMB-t, valamint azokat a szervezeteket, amelyek az (1) bekezdésben meghatározott kérelmet benyújtották.
 
 (3) A harmincnapos határidő leteltével a kérelmet benyújtó és a részvételi szándékukat bejelentő érdekképviseletek megállapodnak ÁPB létrehozásáról.
 
@@ -109,7 +109,7 @@ esetén legalább egy jogelőd vagy tag érdekképviselet e tevékenységét a j
 
 (5a) Ha a (3) bekezdés szerinti megállapodást az érdekképviseletek az aláírástól számított 15 napon belül nem küldik meg a miniszternek és az ÁRMB-nek, az ÁRMB az eljárás lefolytatását kezdeményező kérelmet visszautasítja.
 
-(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjának soron következő számában végzésben közzé kell tenni.
+(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást az ÁPB létrejötte esetén az ÁRMB érdemi határozatával együtt a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzé kell tenni.
 
 (7) Az ÁPB létrehozásáról szóló megállapodás nem jön létre, valamint az ÁRMB eljárás lefolytatását kezdeményező kérelmet érdemi vizsgálat nélkül el kell utasítani, ha azok bármelyikét az ÁPB létrehozását kezdeményező, illetve a részvételi szándékát bejelentő valamennyi érdekképviselet nem írta alá.
 
@@ -207,7 +207,7 @@ szereplő szempontokra együtt legalább 10 pontot kapott.
 
 17. § (1) Az ÁPB-ben megkötött kollektív szerződésnek a munkaviszonyból származó jogokat és kötelezettségeket, ezek gyakorlásának, illetve teljesítésének módját, az ezzel kapcsolatos eljárás rendjét érintő szabályainak hatályát az ÁPB két oldala képviselői együttes kérelmének megfelelően, a miniszter a Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény szerinti országos munkáltatói és munkavállalói érdekképviseletek, illetve érdekképviseleti szövetségek képviselői, valamint az illetékes ágazati miniszter véleményének kikérése után, az ágazatba főtevékenység alapján besorolt munkáltatókra kiterjesztheti. Ha a kollektív szerződést nem az ÁPB-ben kötötték, a kiterjesztésre – a szerződést kötő szervezetek együttes kérelme esetén – e törvény szabályainak megfelelő alkalmazásával kerülhet sor.
 
-(2) A kiterjesztés feltétele, hogy a kollektív szerződés aláíró munkáltatói érdekképviseletekben tag munkáltatók együttesen az ágazatban munkaviszonyban állók többségét foglalkoztassák, valamint – amennyiben a kollektív szerződést nem az ÁPB-ben kötötték – a kötő ágazati szakszervezetek között legyen legalább egy, a 12. § (2) bekezdés a) pontja szerint reprezentatívnak minősülő érdekképviselet.
+(2) A kiterjesztés feltétele, hogy a kollektív szerződést aláíró munkáltatói érdekképviseletekben tag munkáltatók együttesen az ágazatban munkaviszonyban állók többségét foglalkoztassák, valamint a kiterjesztést megkötő szakszervezetek között legyen legalább egy, a 12. § (2) bekezdés a) pontja szerint reprezentatívnak minősülő érdekképviselet. Ezek a rendelkezések irányadóak akkor is, ha a kiterjeszteni kért kollektív szerződést nem ÁPB-ben kötötték.
 
 (2a) Az (1) bekezdésben foglaltaktól eltérően, a 26. § 14. pontjában meghatározott ágazatra vonatkozó, ágazati párbeszéd bizottságban kötött kollektív szerződés hatálya kiterjeszthető a 26. § 14. pontjában említett ágazatba tartozó tevékenységet melléktevékenységként végző munkáltatónak az e tevékenysége keretében foglalkoztatott munkavállalóira, feltéve, hogy a munkáltató nem tartozik a főtevékenysége szerinti ágazatra kiterjesztett kollektív szerződés hatálya alá.
 
@@ -241,7 +241,7 @@ szereplő szempontokra együtt legalább 10 pontot kapott.
 
 (2a) A 17. § (2a) bekezdése alapján történő kiterjesztés esetén a kollektív szerződés hatályát veszti arra a munkáltatóra nézve, amelyre melléktevékenysége keretében terjedt ki, ha a munkáltató főtevékenysége szerinti ágazatra kiterjesztett kollektív szerződés lép hatályba, ez utóbbi hatálybalépésének időpontjában.
 
-(3) A miniszter a kiterjesztéssel kapcsolatos, valamint a kiterjesztés visszavonásáról szóló határozatát, továbbá a kiterjesztett hatályú kollektív szerződés szövegét a Magyar Közlönyben közzéteszi.
+(3) A miniszter a kiterjesztéssel kapcsolatos, valamint a kiterjesztés visszavonásáról szóló határozatát, továbbá a kiterjesztett hatályú kollektív szerződés szövegét a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzéteszi.
 
 ### A megváltozott munkaképességűek és az őket foglalkoztatók érdekképviseletei közötti szociális párbeszéd
 
@@ -328,7 +328,7 @@ szereplő szempontokra együtt legalább 10 pontot kapott.
 
 (6) Az ÁRMB határozatát az az ágazati érdekképviselet támadhatja meg közigazgatási perben, amelynek jogos érdekét a határozat sérti.
 
-(7) Az ÁRMB véglegessé vált határozatait a miniszter hivatalos lapjában közzé kell tenni.
+(7) Az ÁRMB véglegessé vált határozatait a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzé kell tenni.
 
 (8) Az ÁRMB a jogszabályok keretei között maga határozza meg működésének szabályait.
 
@@ -345,7 +345,7 @@ szereplő szempontokra együtt legalább 10 pontot kapott.
 
 választja meg, az ÁPBT tagjai által állított jelöltek közül. Az ÁPBT minden tagja legfeljebb két jelöltet állíthat.
 
-(4) Az ÁRMB tagjainak választása esetén a jelölés és a választás határidejét és időpontját, a lebonyolítás rendjét e törvény keretei között az ÁRMB három oldala két-két képviselőjéből álló választási bizottság határozza meg. A választási bizottság gondoskodik a jelölés és a szavazás lebonyolításáról, a szavazatok megszámlálásáról, az eredmény megállapításáról és közzétételéről. A szavazásra az oldal valamennyi szervezetét meg kell hívni.
+(4) Az ÁRMB tagjainak választása esetén a jelöltállítás határidejét, a választás időpontját, a lebonyolítás rendjét e törvény keretei között az ÁPBT három oldala két-két képviselőjéből álló választási bizottság határozza meg. A választási bizottság gondoskodik a jelölés és a szavazás lebonyolításáról, a szavazatok megszámlálásáról, az eredmény megállapításáról és közzétételéről. A szavazásra az oldal valamennyi szervezetét meg kell hívni.
 
 (5) A jelöltek közötti választás szavazással történik. Az ÁPBT munkáltatói, illetve munkavállalói oldalának minden tagját (a továbbiakban: választásra jogosult) egy-egy szavazat illeti meg.
 
@@ -364,11 +364,11 @@ választja meg, az ÁPBT tagjai által állított jelöltek közül. Az ÁPBT mi
 
 (11) Az ÁRMB tagjának tagsági jogviszonya megszűnik:
 
-- a) a tagsági jogviszonya lejártának időpontjában,
+- a) a tagsági jogviszonyt tanúsító miniszteri okiratban megjelölt időpontot követő 5 év elteltével,
 - b) ha a miniszter az általa delegált tagot visszahívja,
 - c) ha a választásra jogosultak a tagot visszahívják, és erről tájékoztatják az ÁPBT-t, valamint a minisztert,
 - d) a tag lemondásával,
-- e) ha a tag tevékenységét legalább 60 napig nem látja el,
+- e) ha a tag az ÁRMB tagsági jogviszonyból eredő kötelezettségeit az ÁRMB elnökének ismételt felhívását követően sem teljesíti,
 - f) a tag halálával,
 - g) az összeférhetetlenség megállapítását követő tizedik napon, ha a tag az összeférhetetlenséget eddig az időpontig nem szünteti meg,
 - h) ha bűnösségét bíróság szándékos bűncselekmény elkövetésében jogerősen megállapította, az ítélet jogerőre emelkedésének napján.

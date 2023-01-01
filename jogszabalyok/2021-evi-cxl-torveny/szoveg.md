@@ -70,7 +70,7 @@ keretein belül.
 - 12. honvédelmi igazgatás: a védelmi és biztonsági igazgatás részét képező feladat- és szervezetrendszer, amelynek keretében az ország védelmére létrehozott, valamint az e feladatra kijelölt, Vbö. szerinti közigazgatási szervek, továbbá a honvédelemben közreműködő más szervek ellátják a honvédelemre való felkészítéssel, az országvédelemmel, a honvédelmi válsághelyzettel és a honvédelmi kötelezettségek teljesítésével kapcsolatos, továbbá egyes szövetségesi kötelezettségből eredő feladatokat,
 - 13. honvédelmi összekötő: a honvédelemben közreműködő szerv honvédelmi igazgatási feladatait támogató, e feladat ellátására a honvédelemért felelős miniszter által kijelölt, a honvédelemért felelős miniszter által rendeletben meghatározott végzettséggel rendelkező személy,
 - 14. honvédelmi szervezet: a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezetek, a honvédségi szervezet, valamint az e törvényben meghatározott feladatai tekintetében a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ),
-- 15. honvédségi szervezet: a Magyar Honvédség Parancsnoksága, valamint az alárendeltségébe tartozó katonai szervezetek,
+- 15. honvédségi szervezet: a Honvéd Vezérkar, valamint az alárendeltségébe tartozó katonai szervezetek,
 - 16. információs művelet: a Honvédség erői és műveletei számára kedvező információs környezet kialakítására, valamint a műveleti területen lévő személyek és azok csoportjai információ-ellátottságának módosítására irányuló szervezett és rendszerszerűen felépített tevékenységek összessége,
 - 17. katonai igazgatás: a Vbö. szerinti közigazgatási szervek és a Honvédség törvényben kijelölt szervei jogilag szabályozott és a honvédelmi igazgatás részét képező olyan tevékenysége, amely Magyarország fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében a jogalanyok honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul,
 - 18. katonai mozgósítás: azon rendszabályok és tevékenységek összessége, amelyek lehetővé teszik a Honvédség békeszervezetről hadiszervezetre való áttérését, amely magába foglalja a tartalékos állomány bevonultatását és – honvédelmi célból – a nemzetgazdaság tartalékainak felhasználását, a gazdasági és anyagi szolgáltatások igénybevételét,
@@ -94,13 +94,13 @@ keretein belül.
 
 (2) Az Országgyűlés honvédelemmel foglalkozó állandó bizottsága folyamatosan figyelemmel kíséri a Honvédség feladatainak megvalósítását, felkészültsége és felszereltsége színvonalát, a rendelkezésre bocsátott anyagi erőforrások felhasználását.
 
-(3) Az Országgyűlés honvédelemmel foglalkozó állandó bizottsága a Magyar Honvédség parancsnokának jelölt személyt kinevezése előtt meghallgatja, és alkalmasságáról véleményt nyilvánít.
+(3) Az Országgyűlés honvédelemmel foglalkozó állandó bizottsága a Honvéd Vezérkar főnökének jelölt személyt kinevezése előtt meghallgatja, és alkalmasságáról véleményt nyilvánít.
 
 #### 4. A köztársasági elnök
 
 5. § (1) A köztársasági elnök a honvédelemért felelős miniszter előterjesztésére
 
-- a) kinevezi és felmenti a Magyar Honvédség parancsnokát,
+- a) kinevezi és felmenti a Honvéd Vezérkar főnökét,
 - b) okirattal csapatzászlót adományoz.
 
 (2) A köztársasági elnök, vagy nevében képviselője a csapatzászlóra az átadás alkalmával zászlószalagot köt.
@@ -191,7 +191,7 @@ keretein belül.
 
 (2) A (4) bekezdésben foglalt feladatok végrehajtása érdekében a honvédelemért felelős miniszter a honvédelmi szervezet állományából honvédelmi összekötőt jelöl ki a honvédelemben közreműködő szervhez honvédelmi érdekű szolgálatteljesítés vagy munkavégzés céljából.
 
-(3) A honvédelemért felelős miniszter – a Kormány rendeletében meghatározott esetekben – gondoskodik a kártalanításról, amennyiben a jogszerűen okozott vagyoni kár legalább részben a személyi állomány honvédelmi szervezettel fennálló jogviszonyával függ össze. A kártalanítás módjára és mértékére a Polgári Törvénykönyvről szóló törvény kártérítésre vonatkozó szabályait kell alkalmazni azzal, hogy az általános kártérítés és a sérelemdíj szabályai nem alkalmazhatóak.
+(3)
 
 (4) A honvédelemért felelős miniszter a Kormány rendeletében meghatározottak szerint biztosítja a Vbö.-ben meghatározott feladatok honvédelmi, valamint a Kormány válsághelyzeti és különleges jogrendi működéséhez szükséges speciális feltételek kialakításával, működtetésével és fenntartásával kapcsolatos feladatok végrehajtását, valamint gondoskodik a honvédelmi szervezet hatékony együttműködéséről a védelmi és biztonsági feladatellátásban érintett szervek, különösen a védelmi és biztonsági igazgatás szervei tekintetében.
 
@@ -245,7 +245,7 @@ meghatározott feladatokat,
 - b) köztisztviselő,
 - c) közalkalmazott,
 - d) honvédelmi alkalmazott,
-- e) a rendvédelmi szervek hivatásos, valamint
+- e) a rendvédelmi szervek hivatásos és szerződéses, valamint
 - f) rendészeti igazgatási alkalmazott
 
 jogállású tagja a Kormány rendeletében meghatározottak szerint köteles a honvédelmi szakfeladatok ellátáshoz szükséges képesítés megszerzésére és honvédelmi ismereteinek időszakos bővítésére.
@@ -259,7 +259,7 @@ köteles biztosítani.
 
 #### 10. A honvédelmi szervezetek irányítása és felső szintű vezetése
 
-13. § (1) A honvédelemért felelős miniszter irányítja a Magyar Honvédség parancsnokának tevékenységét.
+13. § (1) A honvédelemért felelős miniszter irányítja a Honvéd Vezérkar főnökének tevékenységét.
 
 (2) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a honvédelmi feladatellátás és – a honvédelemért felelős miniszter által vezetett minisztérium és a KNBSZ kivételével – a honvédelmi szervezet irányításáért felelős központi államigazgatási szerv.
 
@@ -288,7 +288,7 @@ az általa vezetett minisztérium vezető beosztású személyét jelöli ki.
 - c) megsemmisíti vagy megváltoztatja a jogszabálysértő intézkedést és szakutasítást (a továbbiakban együtt: belső rendelkezés), illetve
 - d) megsemmisíti vagy megváltoztatja az egyedi ügyben hozott jogszabálysértő döntéseket.
 
-(4) A (3) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában való közzététel napján lép hatályba, ha a belső rendelkezést a Magyar Honvédség parancsnoka vagy a Magyar Honvédség Parancsnokságához tartozó elöljáró, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezet vezetője vagy a KNBSZ főigazgatója adta ki. Egyéb belső rendelkezés esetén a (3) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás hatálybalépésének időpontja a belső rendelkezés kiadója részére történő kézbesítés napja. Különösen fontos érdekből, ha ez a jogbiztonságot nem sérti, a megsemmisítés vagy megváltoztatás hatálybalépésének időpontja ettől eltérően is meghatározható.
+(4) A (3) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában való közzététel napján lép hatályba, ha a belső rendelkezést a Honvéd Vezérkar főnöke vagy a Honvéd Vezérkarhoz tartozó elöljáró, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezet vezetője vagy a KNBSZ főigazgatója adta ki. Egyéb belső rendelkezés esetén a (3) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás hatálybalépésének időpontja a belső rendelkezés kiadója részére történő kézbesítés napja. Különösen fontos érdekből, ha ez a jogbiztonságot nem sérti, a megsemmisítés vagy megváltoztatás hatálybalépésének időpontja ettől eltérően is meghatározható.
 
 (5) A (3) bekezdés d) pontja szerinti döntés nem változtatható és nem semmisíthető meg, ha
 
@@ -306,7 +306,7 @@ az általa vezetett minisztérium vezető beosztású személyét jelöli ki.
 
 15. § (1) A honvédelmi szervezetek személyi állományára vonatkozó – a Honvédség védelmi képességének, hadrafoghatóságának biztosításával összefüggő – adatok honvédelmi és nemzetbiztonsági érdekből a keletkezésüktől számított harminc évig nem nyilvánosak. Ezen adatok megismerését a fenti érdekek mérlegelésével
 
-- a) a honvédségi szervezet tekintetében a Magyar Honvédség parancsnoka,
+- a) a honvédségi szervezet tekintetében a Honvéd Vezérkar főnöke,
 - b) a KNBSZ tekintetében a KNBSZ főigazgatója vagy
 - c) a honvédségi szervezetnek nem minősülő és az a) vagy a b) pont hatálya alá nem tartozó honvédelmi szervezet tekintetében a honvédelemért felelős miniszter
 
@@ -316,7 +316,7 @@ engedélyezheti.
 
 (3) A honvédelmi szervezet felépítésére, működésére, haditechnikai eszközeire és anyagaira, valamint hadfelszerelésére vonatkozó adatok honvédelmi és nemzetbiztonsági érdekből a keletkezésüktől számított harminc évig nem nyilvánosak. Ezen adatok megismerését a fenti érdekek mérlegelésével
 
-- a) a honvédségi szervezet tekintetében a Magyar Honvédség parancsnoka,
+- a) a honvédségi szervezet tekintetében a Honvéd Vezérkar főnöke,
 - b) a KNBSZ tekintetében a KNBSZ főigazgatója vagy
 - c) a honvédségi szervezetnek nem minősülő és az a) vagy a b) pont hatálya alá nem tartozó honvédelmi szervezet tekintetében a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára
 
@@ -324,14 +324,7 @@ javaslatára a honvédelemért felelős miniszter engedélyezheti.
 
 (4) A (3) bekezdés szerinti adat megismerésére irányuló igény teljesítése – a meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a honvédelmi szervezetek törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a honvédelmi és a nemzetbiztonsági érdekeket nem veszélyezteti.
 
-16. § (1) E § alkalmazásában
-
-- a) honvédelmi egészségügyi szolgáltató: a honvédelemért felelős miniszter irányítása alá tartozó, az egészségügyről szóló törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet, amely a megyei irányító intézmény kategóriával azonos besorolású egészségügyi intézmény,
-- b) honvédelmi egészségügyi szolgáltató szervezeti egység: a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység.
-
-(2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét az egészségügyért felelős miniszter egyetértésével a honvédelemért felelős miniszter nevezi ki és menti fel, vagy bízza meg és vonja vissza magasabb vezetői megbízását.
-
-(3) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője törvényben meghatározott egyes jogköreit – a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzatában rögzített módon – az egyes irányítási és szakmai fenntartói feladatok koordinálása céljából a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakört vagy ennek megfelelő szolgálati beosztást betöltő személy részére átruházhatja.
+#### 16. §
 
 #### 11. A honvédelmi szervezetek készenléti és szolgálati rendszere
 
@@ -352,7 +345,7 @@ javaslatára a honvédelemért felelős miniszter engedélyezheti.
 (2) Szakutasításban állapíthatók meg a honvédelmi szervezet szakmai feladatai ellátásának alapvető végrehajtási szabályai. Szakutasítás kiadására
 
 - a) valamennyi honvédelmi szervezetre kiterjedő hatállyal – a KNBSZ kivételével – a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára,
-- b) kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka és helyettese, a Magyar Honvédség Parancsnokságának törzsfőnöke, szemlélője és csoportfőnöke, illetve – a Kormány rendeletében meghatározott esetben – a főnök, valamint más magasabb parancsokság jogállású honvédségi szervezet vezetője
+- b) kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Honvéd Vezérkar főnöke és helyettese, a Honvéd Vezérkar törzsigazgatója és csoportfőnöke, illetve – a Kormány rendeletében meghatározott esetben – a főnök, valamint más magasabb parancsokság jogállású honvédségi szervezet vezetője
 
 jogosult.
 
@@ -362,7 +355,7 @@ jogosult.
 
 (5) A honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában közzétett vagy a közölt belső rendelkezés jogszabálysértés miatti megsemmisítése esetén a megsemmisítést is közölni kell a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában.
 
-(6) A honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában a Magyar Honvédség parancsnokának intézkedése szerint a szövetséges fegyveres erők közös parancsnokságai által kiadott parancsok és intézkedések is közzétehetők.
+(6) A honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában a Honvéd Vezérkar főnökének intézkedése szerint a szövetséges fegyveres erők közös parancsnokságai által kiadott parancsok és intézkedések is közzétehetők.
 
 (7) A honvédelemért felelős miniszter bármely belső rendelkezést közjogi szervezetszabályozó eszközben hatályon kívül helyezhet.
 
@@ -463,7 +456,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 (4) Az elsőfokú Bizottság orvos tagjait a hadkiegészítő központ vezetőjének megkeresése alapján az orvost foglalkoztató egészségügyi intézet vezetője, illetve a katonai szolgálatteljesítés tervezésének helye szerint illetékes egészségügyi államigazgatási szerv jelöli ki.
 
-(5) A másodfokú Bizottság elnöke a Magyar Honvédség parancsnoka által kijelölt katona, tagja a Honvédség központi egészségügyi szervezetének alkalmasságot vizsgáló orvosa, pszichológusa és a hadkiegészítő központ alkalmasságot vizsgáló szakfőorvosa.
+(5) A másodfokú Bizottság elnöke a Honvéd Vezérkar főnöke által kijelölt katona, tagja a Honvédség központi egészségügyi szervezetének alkalmasságot vizsgáló orvosa, pszichológusa és a hadkiegészítő központ alkalmasságot vizsgáló szakfőorvosa.
 
 (6) A másodfokú Bizottság munkájában a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője által kijelölt kisegítő személyek vesznek részt.
 
@@ -527,7 +520,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 #### 21. Behívás katonai szolgálatra
 
-36. § (1) A behívásra, ezen belül a KNBSZ-hez tervezhető létszámot és a katonai szolgálatra való behívás időpontjait a honvédelemért felelős miniszter a hadiállapot kihirdetésének kezdeményezését követően rendeletben állapítja meg, a hadkötelezetteket fogadó honvédségi szervezeteket pedig a Magyar Honvédség parancsnoka jelöli ki.
+36. § (1) A behívásra, ezen belül a KNBSZ-hez tervezhető létszámot és a katonai szolgálatra való behívás időpontjait a honvédelemért felelős miniszter a hadiállapot kihirdetésének kezdeményezését követően rendeletben állapítja meg, a hadkötelezetteket fogadó honvédségi szervezeteket pedig a Honvéd Vezérkar főnöke jelöli ki.
 
 (2) A hadkötelesek behívása behívóparanccsal vagy bevonulási paranccsal (a továbbiakban együtt: elrendelő okmány) történik, amelyet a katonai igazgatásnak a lakóhely szerint illetékes területi szerve kézbesít, illetve szóban közöl.
 
@@ -605,7 +598,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 #### 27. A fegyver nélküli katonai szolgálat engedélyezése
 
-42. § (1) A fegyver nélküli katonai szolgálat engedélyezése iránti kérelmet a katonai szolgálatteljesítés tervezésének várható időpontjáról történt tájékoztatás szerinti időpontig lehet benyújtani. Ez a határidő jogvesztő.
+42. § (1) A fegyver nélküli katonai szolgálat engedélyezése iránti kérelmet a katonai szolgálatteljesítés tervezésének várható időpontjáról történt tájékoztatástól a tájékoztatásban megjelölt időpontig lehet benyújtani. Ez a határidő jogvesztő.
 
 (2) A kérelmet a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a vezetőjéhez kell benyújtani. Az a hadköteles, akinek a fegyver nélküli katonai szolgálat teljesítésére irányuló kérelmét elutasították, újabb kérelmet nem nyújthat be.
 
@@ -638,7 +631,13 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 - g) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi,
 - h) aki a 65. életévét betöltötte.
 
-(3) Az időleges honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges szolgálatot teljesítő tagjára, munkavállalójára, a honvédelmi alkalmazottra, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állóra, a rendvédelmi szervek és nemzetbiztonsági szolgálatok hivatásos állományú tagjára, munkavállalójára és rendvédelmi igazgatási alkalmazottjára, valamint az Országgyűlési Őrség hivatásos állományú tagjára, köztisztviselőjére és munkavállalójára.
+(3) ) Az időleges honvédelmi munkakötelezettség nem terjed ki
+
+- a) a Honvédség tényleges szolgálatot teljesítő tagjára, munkavállalójára, a honvédelmi alkalmazottra, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állóra,
+- b) a rendvédelmi szervek hivatásos vagy szerződéses állományú tagjára,
+- c) a nemzetbiztonsági szolgálatok hivatásos állományú tagjára,
+- d) a b) és c) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, valamint
+- e) az Országgyűlési Őrség hivatásos állományú tagjára, köztisztviselőjére és munkavállalójára.
 
 #### 29. A polgári védelmi kötelezettség fegyveres összeütközések időszakával összefüggő eltérő szabályai
 
@@ -665,7 +664,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 #### 30. A honvédelmi bírság
 
-46. § (1) A fővárosi és a megyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
+46. § (1) A fővárosi és a vármegyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
 
 - a) a kötelezett a hadiállapot kihirdetését megelőzően elrendelt járulékos kötelezettségének nem tesz eleget,
 - b) a címzett az elrendelő okmány átvételét, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
@@ -754,7 +753,7 @@ illeti meg.
 
 ### VII. Fejezet — A HONVÉDSÉG JOGÁLLÁSA ÉS FELADATAI
 
-58. § (1) A Honvédség polgári irányítás alatt álló, függelmi rendszerben működő, békében az önkéntességen, hadiállapotban az önkéntességen és az általános hadkötelezettségen alapuló fegyveres erő, amelynek szervezetét a Magyar Honvédség Parancsnoksága és az alárendeltségébe tartozó honvédségi szervezetek összessége képezi. Egyes honvédségi szervezetek törvényben meghatározott katonai igazgatási feladatokat is ellátnak.
+58. § (1) A Honvédség polgári irányítás alatt álló, függelmi rendszerben működő, békében az önkéntességen, hadiállapotban az önkéntességen és az általános hadkötelezettségen alapuló fegyveres erő, amelynek szervezetét a Honvéd Vezérkar és az alárendeltségébe tartozó honvédségi szervezetek összessége képezi. Egyes honvédségi szervezetek törvényben meghatározott katonai igazgatási feladatokat is ellátnak.
 
 (2) A Honvédség a feladatait a honvédségi szervezetnek nem minősülő honvédelmi szervezetekkel, valamint a honvédelemben közreműködő más szervekkel együttműködve, a Vbö.-ben meghatározott feladatok hatékony és összehangolt ellátására figyelemmel hajtja végre.
 
@@ -798,9 +797,9 @@ illeti meg.
 - a) ellátásában a honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével vesznek részt, és
 - b) esetében meg kell határozni annak célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét.
 
-(2) Az 59. § szerinti közreműködői feladat teljesítésére alárendelt honvédségi szervezeteitől legfeljebb 200 fő és huszonegy napi időtartamot meg nem haladó igénybevételéről – a (3) bekezdésben meghatározott kivétellel – a Magyar Honvédség parancsnoka, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntést követő huszonnégy órán belül – az Országgyűlés honvédelemmel foglalkozó bizottságát tájékoztatja.
+(2) Az 59. § szerinti közreműködői feladat teljesítésére alárendelt honvédségi szervezeteitől legfeljebb 200 fő és huszonegy napi időtartamot meg nem haladó igénybevételéről – a (3) bekezdésben meghatározott kivétellel – a Honvéd Vezérkar főnöke, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntést követő huszonnégy órán belül – az Országgyűlés honvédelemmel foglalkozó bizottságát tájékoztatja.
 
-(3) Ha katasztrófa következtében szükséges élet- és vagyonmentés a védelmi és biztonsági igazgatási szervek, a rendvédelmi szervek, illetve az állami mentőszolgálat igénye alapján a katonai erők azonnali közreműködését indokolja, legfeljebb 100 fő igénybevételéről a területileg illetékes honvédségi szervezet parancsnoka saját hatáskörben dönthet, amelyet szolgálati úton haladéktalanul jelent a Magyar Honvédség parancsnokának. Az azonnali igénybevétel mértéke és jellege nem veszélyeztetheti az adott honvédségi szervezet alaprendeltetés szerinti feladatellátásának maradéktalan biztosítását, a készenlét fenntartását, a hadrafoghatóság szintjét, időtartama pedig kizárólag a közvetlen életveszély és a jelentős anyagi kár bekövetkezte közvetlen veszélyének fennállásáig vagy a védekezésben részt vevő társszervek, szervezetek részére történő feladatátadásig tarthat. A Magyar Honvédség parancsnoka a (2) bekezdés szerinti jogkörében dönt az azonnali igénybevétel fenntartásának szükségességéről.
+(3) Ha katasztrófa következtében szükséges élet- és vagyonmentés a védelmi és biztonsági igazgatási szervek, a rendvédelmi szervek, illetve az állami mentőszolgálat igénye alapján a katonai erők azonnali közreműködését indokolja, legfeljebb 100 fő igénybevételéről a területileg illetékes honvédségi szervezet parancsnoka saját hatáskörben dönthet, amelyet szolgálati úton haladéktalanul jelent a Honvéd Vezérkar főnökének. Az azonnali igénybevétel mértéke és jellege nem veszélyeztetheti az adott honvédségi szervezet alaprendeltetés szerinti feladatellátásának maradéktalan biztosítását, a készenlét fenntartását, a hadrafoghatóság szintjét, időtartama pedig kizárólag a közvetlen életveszély és a jelentős anyagi kár bekövetkezte közvetlen veszélyének fennállásáig vagy a védekezésben részt vevő társszervek, szervezetek részére történő feladatátadásig tarthat. A Honvéd Vezérkar főnöke a (2) bekezdés szerinti jogkörében dönt az azonnali igénybevétel fenntartásának szükségességéről.
 
 (4) Az 59. § (1) bekezdés i) pontja szerinti közreműködés során
 
@@ -811,9 +810,9 @@ illeti meg.
 
 (6) Az 59. § (1) bekezdés m) pontja szerinti közreműködés során a honvéd a veszélyhelyzettel, az egészségügyi válsághelyzettel, illetve a befogadással érintett területen az e törvényben meghatározottak szerint segítheti a veszélyhelyzet és az egészségügyi válsághelyzet felszámolásához szükséges feladatok ellátását.
 
-61. § (1) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a Magyar Honvédség parancsnoka engedélyével, megállapodás alapján, térítés ellenében vagy közfeladat ellátása érdekében ingyenesen ideiglenesen átengedhetők.
+61. § (1) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a Honvéd Vezérkar főnöke engedélyével, megállapodás alapján, térítés ellenében vagy közfeladat ellátása érdekében ingyenesen ideiglenesen átengedhetők.
 
-(2) A Honvédség szállítóeszközei, műszaki munkagépei, rendszeresített harc- és légijárművei, valamint fegyverzetének és más technikai eszközparkjának egyes elemei a honvédelemért felelős miniszter engedélyével, a Magyar Honvédség parancsnoka és a KNBSZ főigazgatója által meghatározottak szerint kerülnek biztosításra a KNBSZ számára
+(2) A Honvédség szállítóeszközei, műszaki munkagépei, rendszeresített harc- és légijárművei, valamint fegyverzetének és más technikai eszközparkjának egyes elemei a honvédelemért felelős miniszter engedélyével, a Honvéd Vezérkar főnöke és a KNBSZ főigazgatója által meghatározottak szerint kerülnek biztosításra a KNBSZ számára
 
 - a) a készenlét fokozása,
 - b) a honvédelmi válsághelyzet,
@@ -823,7 +822,7 @@ illeti meg.
 
 esetén.
 
-(3) A Honvédségnél rendszeresített egyéni lőfegyverekből, lőszerekből és az azok rendeltetésszerű tárolásához és használatához szükséges eszközökből a honvédelemért felelős miniszter engedélyével, a Magyar Honvédség parancsnoka és a KNBSZ főigazgatója által meghatározottak szerint adható át a KNBSZ részére az általa ellátott objektumvédelmi és nemzetbiztonsági védelmi feladatok ellátásához szükséges mennyiség.
+(3) A Honvédségnél rendszeresített egyéni lőfegyverekből, lőszerekből és az azok rendeltetésszerű tárolásához és használatához szükséges eszközökből a honvédelemért felelős miniszter engedélyével, a Honvéd Vezérkar főnöke és a KNBSZ főigazgatója által meghatározottak szerint adható át a KNBSZ részére az általa ellátott objektumvédelmi és nemzetbiztonsági védelmi feladatok ellátásához szükséges mennyiség.
 
 62. § (1) Az 59. § (1) bekezdés szerinti közreműködői feladatra vezényelt honvéd – e törvény rendelkezéseitől eltérően –
 
@@ -848,9 +847,9 @@ esetén.
 
 #### 35. A honvédségi szervezet vezetése
 
-64. § (1) A Magyar Honvédség parancsnoka szolgálati elöljárója, hivatali felettese a Honvédségnél szolgálatot teljesítő, illetve foglalkoztatott személyi állománynak.
+64. § (1) A Honvéd Vezérkar főnöke szolgálati elöljárója, hivatali felettese a Honvédségnél szolgálatot teljesítő, illetve foglalkoztatott személyi állománynak.
 
-(2) A Magyar Honvédség parancsnoka vezetési jogkörében
+(2) A Honvéd Vezérkar főnöke vezetési jogkörében
 
 - a) kidolgozza az ország fegyveres védelmi tervét és előterjeszti a honvédelmért felelős miniszternek,
 - b) meghatározza a Honvédség készenléte fokozásának rendjét,
@@ -865,11 +864,11 @@ esetén.
 
 (3) A (2) bekezdésben foglalt jogosítványok gyakorlása nem érintheti a honvédelemért felelős miniszter irányítói jogkörében foglaltakat.
 
-(4) A Magyar Honvédség parancsnoka a honvédségi szervezetek költségvetési gazdálkodását az államháztartásról szóló törvény rendelkezései szerint irányítja.
+(4) A Honvéd Vezérkar főnöke a honvédségi szervezetek költségvetési gazdálkodását az államháztartásról szóló törvény rendelkezései szerint irányítja.
 
 #### 36. A honvédségi szervezet létrehozása és megszüntetése
 
-65. § (1) Honvédségi szervezet megszűnését vagy a feladatrendszerének változását nem eredményező átszervezését – a 14. § (2) bekezdésének hatálya alá tartozó honvédségi szervezetek kivételével – a Magyar Honvédség parancsnoka is elrendelheti.
+65. § (1) Honvédségi szervezet megszűnését vagy a feladatrendszerének változását nem eredményező átszervezését – a 14. § (2) bekezdésének hatálya alá tartozó honvédségi szervezetek kivételével – a Honvéd Vezérkar főnöke is elrendelheti.
 
 (2) A honvédségi szervezet felépítését, a béke- és hadiszervezetekben rendszeresíthető beosztások számát, rendszeresített technikai eszközeit az állománytáblában kell meghatározni.
 
@@ -982,13 +981,13 @@ tartoznak.
 
 #### 42. A honvédségi szervezetek irányítása és vezetése
 
-74. § (1) A Magyar Honvédség Parancsnoksága a Honvédség felső szintű tervező-szervező és katonai tevékenységének vezető szerve.
+74. § (1) A Honvéd Vezérkar a Honvédség felső szintű tervező-szervező és katonai tevékenységének vezető szerve.
 
-(2) A Magyar Honvédség parancsnoka vezeti a Magyar Honvédség Parancsnokságát, irányítja – a 14. § (2) bekezdésének hatálya alá tartozó honvédségi szervezetek vagy szervezeti egységek kivételével – a honvédségi szervezeteket. A Magyar Honvédség parancsnoka a honvédségi szervezetek tekintetében hatáskörét részben átruházhatja. A Kormány rendelete, valamint a honvédelemért felelős miniszter által megállapított hatáskör gyakorlásának keretei között felelős a hadrafoghatóságért, a Honvédség magas fokú fegyelméért, kiképzéséért és felkészítéséért.
+(2) A Honvéd Vezérkar főnöke vezeti a Honvéd Vezérkart, irányítja – a 14. § (2) bekezdésének hatálya alá tartozó honvédségi szervezetek vagy szervezeti egységek kivételével – a honvédségi szervezeteket. A Honvéd Vezérkar főnöke a honvédségi szervezetek tekintetében hatáskörét részben átruházhatja. A Kormány rendelete, valamint a honvédelemért felelős miniszter által megállapított hatáskör gyakorlásának keretei között felelős a hadrafoghatóságért, a Honvédség magas fokú fegyelméért, kiképzéséért és felkészítéséért.
 
 75. § (1) A Honvédség hadrendje szerint közös parancsnokság szolgálati alárendeltségébe tartozó honvédségi szervezeteket a középszintű vezető szerv vagy más magasabb szintű parancsnokságok élén álló parancsnokok irányítják.
 
-(2) Az (1) bekezdés szerinti parancsnokok irányítói hatáskörét – a jogszabályokra és közjogi szervezetszabályozó eszközökre figyelemmel – a Magyar Honvédség parancsnoka határozza meg.
+(2) Az (1) bekezdés szerinti parancsnokok irányítói hatáskörét – a jogszabályokra és közjogi szervezetszabályozó eszközökre figyelemmel – a Honvéd Vezérkar főnöke határozza meg.
 
 (3) Egyes honvédségi szervezetek – ideértve az ideiglenes alkalmi kötelékeket is –, valamint egyéni beosztást betöltők a szövetséges fegyveres erők közös parancsnoksága, más nemzetközi parancsnokság vagy szövetséges nemzeti fegyveres erő élén álló parancsnok műveleti irányítása és vezetése alá helyezhetők, az átvevő parancsnokságra vagy parancsnokra vonatkozó szabályok figyelembevételével.
 
@@ -1070,8 +1069,8 @@ tartoznak.
 - c) a honvédelmi szervezet személyi állományát vagy gépjármű technikai eszközeit érintő közúti közlekedési balesetek helyszínelése,
 - d) a katonai rendészeti ellenőrző áteresztő pontok működtetése, az igazoltatás,
 - e) a honvédelmi szervezet tevékenységével összefüggő forgalomszabályozás,
-- f) a honvédelmi szervezet – a honvédelemért felelős miniszter által vezetett minisztérium politikai és szakmai felsővezetői, valamint a Magyar Honvédség parancsnoka által meghatározott – rendezvényeinek rendészeti biztosítása,
-- g) a honvédelemért felelős miniszter által vezetett minisztérium politikai felsővezetőinek, szakmai felsővezetőinek, a Magyar Honvédség parancsnoka és helyettesei, valamint kijelölt vendégeik személyi kísérésének biztosítása,
+- f) a honvédelmi szervezet – a honvédelemért felelős miniszter által vezetett minisztérium politikai és szakmai felsővezetői, valamint a Honvéd Vezérkar főnöke által meghatározott – rendezvényeinek rendészeti biztosítása,
+- g) a honvédelemért felelős miniszter által vezetett minisztérium politikai felsővezetőinek, szakmai felsővezetőinek, a Honvéd Vezérkar főnöke és helyettesei, valamint kijelölt vendégeik személyi kísérésének biztosítása,
 - h) a honvédelmi szervezetek érték- és pénzszállításai kísérésének fegyveres biztosítása,
 - i) a gyakorlatok, lövészetek, kiképzések, tábori elhelyezési körletek rendészeti ellenőrzése és szükség szerinti biztosítása,
 - j) a honvédelmi szervezet személyi állományával szemben eljáró szervekkel való együttműködés,
@@ -1140,9 +1139,9 @@ tartoznak.
 
 86. § (1) A katonai rendész feladatait önállóan vagy a rendőrséggel, illetve a KNBSZ kijelölt állományával, a katonai ügyésszel vagy a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyészséggel együttműködésben teljesíti.
 
-(2) A katonai rendészet erőit a KNBSZ főigazgatójának kezdeményezésére a Magyar Honvédség parancsnoka kirendelheti a 82. § (2) bekezdés d)–g) pontja szerinti feladatok ellátására, amennyiben a KNBSZ által ellátott nemzetbiztonsági védelem alá eső személyek biztonságának szavatolása érdekében ez szükséges.
+(2) A katonai rendészet erőit a KNBSZ főigazgatójának kezdeményezésére a Honvéd Vezérkar főnöke kirendelheti a 82. § (2) bekezdés d)–g) pontja szerinti feladatok ellátására, amennyiben a KNBSZ által ellátott nemzetbiztonsági védelem alá eső személyek biztonságának szavatolása érdekében ez szükséges.
 
-87. § (1) Akinek a katonai rendész e fejezet szerinti intézkedése vagy annak elmulasztása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedő katonai rendész állományilletékes parancsnoka útján a Magyar Honvédség parancsnokához.
+87. § (1) Akinek a katonai rendész e fejezet szerinti intézkedése vagy annak elmulasztása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedő katonai rendész állományilletékes parancsnoka útján a Honvéd Vezérkar főnökéhez.
 
 (2) A panaszt az (1) bekezdésben meghatározott cselekményt vagy a mulasztásról történt tudomásszerzést követő harminc napon belül lehet előterjeszteni, és a beérkezéstől vagy – ha áttételre kerül sor – az áttételtől számított harminc napon belül kell elbírálni.
 
@@ -1150,7 +1149,7 @@ tartoznak.
 
 (4) Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
 
-(5) A panaszt a Magyar Honvédség parancsnoka tárgyi költségmentes közigazgatási hatósági eljárásban bírálja el.
+(5) A panaszt a Honvéd Vezérkar főnöke tárgyi költségmentes közigazgatási hatósági eljárásban bírálja el.
 
 #### 48. A katonai kibertér műveletekre vonatkozó különös szabályok
 
@@ -1160,7 +1159,7 @@ tartoznak.
 - b) az a) pont szerinti feladatokkal összefüggésben a folyamatban lévő, kibertérből érkező támadás megszakításához szükséges intézkedések végrehajtását, vagy annak kezdeményezését, valamint
 - c) a Magyarország biztonságát, honvédelmi érdekeit, illetve szövetségesi kötelezettségeit sértő vagy fenyegető rendszerekkel szembeni katonai kibertér műveleti fellépést.
 
-(2) Az (1) bekezdés a) pontja szerinti katonai feladatok ellátásának védelme kapcsán felmerülő részfeladatokat a Magyar Honvédség parancsnoka határozza meg.
+(2) Az (1) bekezdés a) pontja szerinti katonai feladatok ellátásának védelme kapcsán felmerülő részfeladatokat a Honvéd Vezérkar főnöke határozza meg.
 
 (3) Az (1) bekezdés b) és c) pontja szerinti feladatok szakmai koordinációjáért – a kapcsolódó közjogi döntések keretei között – az ügyeletes kibervédelmi parancsnok felel.
 
@@ -1168,8 +1167,8 @@ tartoznak.
 
 - a) az intézkedések végrehajtását a (3) bekezdés szerinti parancsnok, vagy annak helyettese, szükség esetén elöljáró parancsnoka rendelheti el,
 - b) az alkalmazott intézkedésnek a folyamatban lévő támadással arányosnak kell lennie és az a támadás megszakításán túli eredményre, sérelemre nem vezethet,
-- c) a szükséges intézkedések végrehajtásáról azonnal tájékoztatni kell a honvédelemért felelős minisztert, a Magyar Honvédség parancsnokát, valamint a KNBSZ kibertér műveleti szakfeladatokra kijelölt szervezeti egységét,
-- d) a támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések körét, illetve az ország védelmével összefüggő további döntések szükségességét a Magyar Honvédség parancsnokának történő egyidejű jelentéssel.
+- c) a szükséges intézkedések végrehajtásáról azonnal tájékoztatni kell a honvédelemért felelős minisztert, a Honvéd Vezérkar főnökét, valamint a KNBSZ kibertér műveleti szakfeladatokra kijelölt szervezeti egységét,
+- d) a támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések körét, illetve az ország védelmével összefüggő további döntések szükségességét a Honvéd Vezérkar főnökének történő egyidejű jelentéssel.
 
 (5) A (4) bekezdés c) pontja szerinti értesítés esetén a KNBSZ kibertér műveleti szakfeladatokra kijelölt szervezeti egysége azonnal értesíti Magyarország jogszabályban kijelölt kibervédelmi szervezeteit.
 
@@ -1366,7 +1365,7 @@ irányul.
 
 (2) Az (1) bekezdés alkalmazása során nem minősül fegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.
 
-100. § (1) Akinek a honvéd e fejezet szerinti kényszerítő eszköz alkalmazása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, az állományilletékes parancsnok útján panasszal fordulhat a Magyar Honvédség parancsnokához.
+100. § (1) Akinek a honvéd e fejezet szerinti kényszerítő eszköz alkalmazása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, az állományilletékes parancsnok útján panasszal fordulhat a Honvéd Vezérkar főnökéhez.
 
 (2) Az (1) bekezdés szerinti panasz elbírálása során a 87. §-ban foglaltak szerint kell eljárni.
 
@@ -1374,7 +1373,7 @@ irányul.
 
 (4) A kényszerítő eszköz jogszerűtlennek minősített használatáról a katonai ügyészt vagy a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyészséget nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
-101. § (1) Az a polgári személy, akinek az e fejezetben meghatározott fegyver használata, vagy egyéb kényszerítő eszköz alkalmazása alapvető jogát sértette, a 100. § szerinti eljárás helyett kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát az alapvető jogok biztosa által lefolytatott vizsgálatot követően bírálja el a Magyar Honvédség parancsnoka.
+101. § (1) Az a polgári személy, akinek az e fejezetben meghatározott fegyver használata, vagy egyéb kényszerítő eszköz alkalmazása alapvető jogát sértette, a 100. § szerinti eljárás helyett kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát az alapvető jogok biztosa által lefolytatott vizsgálatot követően bírálja el a Honvéd Vezérkar főnöke.
 
 (2) Az alapvető jogok biztosának vizsgálata idején a panasz elbírálására nyitva álló határidő nyugszik.
 
@@ -1414,9 +1413,9 @@ irányul.
 
 104. § (1) A fegyver és az egyéb kényszerítő eszköz alkalmazása során megsérült személy részére, a szolgálat megszakítása nélkül, szükség esetén mások segítségül hívásával, segítséget kell nyújtani, és – amennyiben a műveleti tevékenység eredményes végrehajtását nem veszélyezteti – gondoskodni kell arról, hogy a sérültet orvos elláthassa.
 
-(2) Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és az utasítás jogszerűségéről a műveleti parancsnok tájékoztatása alapján a Magyar Honvédség parancsnoka foglal állást.
+(2) Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és az utasítás jogszerűségéről a műveleti parancsnok tájékoztatása alapján a Honvéd Vezérkar főnöke foglal állást.
 
-(3) Akinek a Honvédség állományába tartozó személy ezen alcím szerinti intézkedése, annak elmulasztása vagy kényszerítő eszköz alkalmazása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, a 100. § (1) bekezdésétől eltérően a műveleti parancsnok útján fordulhat panasszal a Magyar Honvédség parancsnokához.
+(3) Akinek a Honvédség állományába tartozó személy ezen alcím szerinti intézkedése, annak elmulasztása vagy kényszerítő eszköz alkalmazása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, a 100. § (1) bekezdésétől eltérően a műveleti parancsnok útján fordulhat panasszal a Honvéd Vezérkar főnökéhez.
 
 ### XIII. Fejezet — GYAKORLATOK ÉS KIKÉPZÉSEK
 
@@ -1434,7 +1433,7 @@ irányul.
 
 (2) A Honvédség főparancsnokának lobogója a köztársasági elnök által használt címert a csapatzászló elemeivel ötvözi.
 
-(3) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka zászlószalagot köthet.
+(3) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Honvéd Vezérkar főnöke zászlószalagot köthet.
 
 (4) A Honvédség hadihajói az állami felségjog jelzésére hadilobogót használnak. A hadihajók árbocjelvénye az árbocszalag, a rangidős parancsnoki lengő és a miniszteri lengő.
 
@@ -1528,7 +1527,7 @@ rendelhető el.
 - 11. a tűzszerészeti mentesítési feladatok ellátásával összefüggő szabályokat,
 - 12. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot,
 - 13. a határátlépéssel járó csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány hatáskörébe tartozó határátlépéssel járó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat,
-- 14. a Honvédség személyi állományának kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos feladatokat,
+- 14.
 - 15. a honvédelmi létfontosságú rendszerelemek azonosításának, kijelölésének és védelmének szabályait,
 - 16. a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés követelményeit,
 - 17. az e törvényben meghatározott kibertér műveleti feladatok további szabályait,
@@ -1585,7 +1584,13 @@ rendelhető el.
 
 #### 58. Átmeneti rendelkezések
 
-112. § A 9. § (3) bekezdését a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosításáról szóló 2016. évi CXXXIII. törvény hatálybalépésekor el nem évült követelésekre is alkalmazni kell.
+112. § Ahol kormányrendelet, miniszteri rendelet, közjogi szervezetszabályozó eszköz vagy a 18. § szerinti belső rendelkezés
+
+- a) a Magyar Honvédség Parancsnokságát említi, azon a Honvéd Vezérkart,
+- b) a Magyar Honvédség parancsnokát vagy helyettesét említi, azon a Honvéd Vezérkar főnökét, illetve helyettesét,
+- c) a Magyar Honvédség Parancsnoksága törzsfőnökét említi, azon a Honvéd Vezérkar törzsigazgatóját
+
+kell érteni.
 
 #### 59. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -1620,7 +1625,7 @@ alapján sarkalatosnak minősül.
 #### Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szervekről
 
 - 1. I. kategória
-- 1.1. a köztársasági elnök, az országgyűlési, európai parlamenti képviselő, főpolgármester, polgármester, önkormányzati képviselő, a megyei vagy fővárosi közgyűlés elnöke, tagja,
+- 1.1. a köztársasági elnök, az országgyűlési, európai parlamenti képviselő, főpolgármester, polgármester, önkormányzati képviselő, a vármegyei vagy fővárosi közgyűlés elnöke, tagja,
 - 1.2. az Alkotmánybíróság elnöke és tagjai,
 - 1.3. az Állami Számvevőszék elnöke és alelnökei,
 - 1.4. a Magyar Nemzeti Bank elnöke és alelnökei,
@@ -1642,8 +1647,8 @@ alapján sarkalatosnak minősül.
 - 2.8. a bíróságok,
 - 2.9. az ügyészségek,
 - 2.10. a Ksztv. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
-- 2.11. a fővárosi és megyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
-- 2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a megyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
+- 2.11. a fővárosi és vármegyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
+- 2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a vármegyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 - 2.13. a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
 - 2.14. a honvédelmi szervezetek,
 - 2.15. a rendvédelmi szervek, az Országgyűlési Őrség és a nemzetbiztonsági szolgálatok,

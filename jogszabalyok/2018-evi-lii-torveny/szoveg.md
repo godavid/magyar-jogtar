@@ -126,6 +126,8 @@ alapján létrejött jogviszonyra tekintettel;
 
 (4) A szociális biztonsági rendszerek koordinálásról szóló rendeletek hatálya alá tartozó, másik tagállamban vagy az Európai Unió intézményei által biztosított személy jövedelme után nem kell adót fizetni. Az adó-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban vagy az Európai Unió intézményénél fennálló biztosítást tanúsító igazolással igazolja.
 
+(4a) A szociális biztonsági egyezmények hatálya alá tartozó, másik államban biztosított személy Szja tv. 1/B. § szerinti jövedelme után nem kell adót fizetni. Az adófizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított másik államban fennálló biztosítást tanúsító igazolással igazolja.
+
 (5) E § (2) bekezdés d) pontjában foglaltaktól eltérően, a Tbj. szerinti kiküldetés meghosszabbításának bejelentése esetén az adófizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn.
 
 (6) A Tbj. szerint külföldinek minősülő személy által megszerzett
@@ -138,9 +140,9 @@ nem terheli adófizetési kötelezettség.
 
 #### 6. Az egyéni vállalkozó által fizetendő adó alapja
 
-6. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja – figyelemmel az adóalap megállapításának különös szabályaira is – a vállalkozói kivét, az átalányadózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja az átalányban megállapított, személyi jövedelemadó köteles jövedelem.
+6. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozót saját maga után havonta terhelő adó alapja a vállalkozói kivét, de legalább az adóalap megállapításának különös szabályai szerint megállapított összeg.
 
-(2)
+(2) Az átalányadózást alkalmazó egyéni vállalkozót saját maga után havonta terhelő adó alapja az év elejétől [a Tbj. 6. § (1) bekezdés d) pontja szerinti biztosítási jogviszony keletkezésétől] a tárgynegyedév utolsó napjáig (az egyéni vállalkozói biztosítási jogviszony megszűnéséig) átalányban megállapított, személyi jövedelemadó köteles jövedelem, csökkentve az év korábbi negyedévében, negyedéveiben adóalapként figyelembe vett összeggel, elosztva annyi hónappal, ahány hónapban az egyéni vállalkozói biztosítási jogviszony a tárgynegyedévben (akár egyetlen napig is) fennállt, azzal, hogy az adóalap nem lehet kisebb az adóalap megállapításának különös szabályai szerint megállapított összegnél.
 
 (3)
 
@@ -413,7 +415,9 @@ esetén,
 
 (5) A természetes személyt terhelő adókötelezettség megállapításánál, megfizetésénél az Art. kerekítési szabályai nem alkalmazhatóak.
 
-19. § Az egyéni vállalkozó az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Az egyéni vállalkozó és a kiegészítő tevékenységet folytató egyéni vállalkozó a vállalkozói osztalékalap után fizetendő adót a tárgyévre vonatkozó személyi jövedelemadó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
+19. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Az egyéni vállalkozó és a kiegészítő tevékenységet folytató egyéni vállalkozó a vállalkozói osztalékalap után fizetendő adót a tárgyévre vonatkozó személyi jövedelemadó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
+
+(2) Az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó a tárgynegyedév hónapjainak adóját – figyelemmel a 6. § (2) bekezdésének rendelkezésére – havonkénti bontásban a tárgynegyedévet követő hónap 12-éig vallja be és a tárgynegyedév adóját az említett időpontig fizeti meg.
 
 #### 20. §
 

@@ -1091,6 +1091,8 @@ legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi 
 
 (6) A panaszkezelés magyar nyelven történik, kivéve, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó és az ügyfél eltérő nyelvben állapodtak meg.
 
+70/A. § A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa nyújtott pénzügyi, kiegészítő pénzügyi szolgáltatását vagy annak körébe tartozó bármely résztevékenységét munkanapokon, előzetesen tervezetten, a Hpt.-ben a bankszünnap tartására vonatkozóan előírt feltételek szerint szüneteltetheti.
+
 #### 15. A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az utalványkibocsátó felügyelete
 
 71. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és ezen intézmények magyarországi fióktelepe a Felügyelet részére felügyeleti díjat fizet.

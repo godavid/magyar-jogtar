@@ -34,7 +34,7 @@ a költségmentesség és a költségfeljegyzési jog polgári és közigazgatá
 
 5. § (1) A fél részére költségmentességet kell engedélyezni, ha a fél
 
-- a) rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása) nem haladja meg az öregségi teljes nyugdíj mindenkori legkisebb összegét és vagyona nincs,
+- a) rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása) nem haladja meg a szociális vetítési alap összegét és vagyona nincs,
 - b) aktív korúak ellátására jogosult, vagy aktív korúak ellátására jogosult – a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti – közeli hozzátartozójával él közös háztartásban,
 - c) közgyógyellátásban részesül vagy egészségügyi szolgáltatásra való jogosultságát állapították meg,
 - d) átmeneti szállást igénybe vevő hajléktalan személy,

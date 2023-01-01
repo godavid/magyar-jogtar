@@ -20,7 +20,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (6) Kamarai tagság nélkül végezhetnek mérnöki, illetve építészeti tevékenységet a 39. § (6) bekezdésben meghatározott személyek az ott megjelölt időtartam alatt.
 
-2. § (1) A megyékben (több megyére kiterjedően vagy megyénként) és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki, illetve építész kamarák (a továbbiakban együtt: területi kamara) nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetők.
+2. § (1) A vármegyékben (több vármegyére kiterjedően vagy vármegyénként) és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki, illetve építész kamarák (a továbbiakban együtt: területi kamara) nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetők.
 
 (2) A területi kamarák az e törvényben szabályozott módon hozzák létre az országos mérnöki kamarát (Magyar Mérnöki Kamarák), illetve az országos építész kamarát (Magyar Építész Kamara) (a továbbiakban együtt: országos kamarák). Az országos kamarák országos feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetők .
 
@@ -163,7 +163,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (3) Az egyesüléssel létrejövő területi kamara az egyesült területi kamarák általános jogutódja.
 
-(4) A területi kamara szétválásával megyénként, illetve a fővárosban működő területi kamarák hozhatók létre.
+(4) A területi kamara szétválásával vármegyénként, illetve a fővárosban működő területi kamarák hozhatók létre.
 
 (5) A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A területi kamara joga és kötelezettségei a vagyonmegosztás arányában a szétválás során létrejött területi kamarákra, mint jogutódokra szállnak át.
 

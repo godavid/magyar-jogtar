@@ -2,7 +2,9 @@
 
 a szövetkezetekről
 
-Az Országgyűlésfelismerve, hogy a szövetkezeti forma nagymértékben képes társadalmi erőforrásokat mozgásba hozni, az elkülönült gazdasági szereplők helyzetét megerősíteni, közösségi szükségleteket kielégíteni, ösztönözni kívánja a szövetkezést és állami eszközökkel támogatást kíván nyújtani a szövetkezeti mozgalom továbbfejlődéséhez,
+Az Országgyűlés
+
+felismerve, hogy a szövetkezeti forma nagymértékben képes társadalmi erőforrásokat mozgásba hozni, az elkülönült gazdasági szereplők helyzetét megerősíteni, közösségi szükségleteket kielégíteni, ösztönözni kívánja a szövetkezést és állami eszközökkel támogatást kíván nyújtani a szövetkezeti mozgalom továbbfejlődéséhez,
 
 a következő törvényt alkotja:
 
@@ -172,11 +174,13 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (3) A szociális szövetkezet esetében a nem természetes személy tagok száma nem haladhatja meg a taglétszám huszonöt százalékát.
 
+(4) Egy helyi önkormányzat legfeljebb hat, egy nemzetiségi önkormányzat vagy közhasznú jogállású szervezet legfeljebb három szociális szövetkezetben tarthat fenn egyidejűleg tagsági jogviszonyt.
+
 16. § (1) A szociális szövetkezet karitatív tevékenységet ellátó közhasznú jogállású szervezet tagjának tagsági jogviszonya megszűnik, ha e tag közhasznú jogállása megszűnik.
 
 (2) A szociális szövetkezet karitatív tevékenységet ellátó közhasznú jogállású szervezet tagja a közhasznú jogállásának megszűnéséről köteles haladéktalanul tájékoztatni a szociális szövetkezet vezető tisztségviselőjét.
 
-17. §
+#### 17. §
 
 18. § (1) A szociális szövetkezetek esetében a személyes közreműködés sajátos formája a közös termelésben való, a tagsági jogviszonyon alapuló közvetlen közreműködés (a továbbiakban: tagi munkavégzés).
 
@@ -425,31 +429,123 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 ### IV. Fejezet
 
-54–64. §
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
 
 ### V. Fejezet
 
-65–71. §
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
 
 ### VI. Fejezet
 
-72–73. §
+#### 72. §
+
+#### 73. §
 
 ### VII. Fejezet
 
-74–90. §
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
 
 ### VIII. Fejezet
 
-91–94. §
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
 
 ### IX. Fejezet
 
-95–97. §
+#### 95. §
+
+#### 96. §
+
+#### 97. §
 
 ### X. Fejezet
 
-98–106. §
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -487,12 +583,16 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (2) Az (1) bekezdésben foglaltakhoz szükséges alapszabály-módosítás alapján a változásbejegyzési kérelmet a cégbírósághoz illeték és közzétételi költségtérítés megfizetése nélkül lehet benyújtani, feltéve, hogy az alapszabály-módosítás kizárólag az (1) bekezdésben előírtaknak való megfeleléshez szükséges módosításokat tartalmazza. Ha a szociális szövetkezet egyéb cégadatot érintő változást is bejelent, abban az esetben is csak az e cégadat módosítására vonatkozóan egyébként fizetendő illetéket és közzétételi költségtérítést kell fizetni.
 
+108/D. § A szociális szövetkezet az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvényben megállapított rendelkezésnek 2023. július 1-jéig köteles megfelelni, és az ahhoz szükséges alapszabály-módosítást elvégezni.
+
 109. § (1) E törvény 13/A. §-a és a 33. § (2) bekezdése a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) A 13/A. § és a 33. § (2) bekezdése tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112–113. §
+#### 112. §
+
+#### 113. §

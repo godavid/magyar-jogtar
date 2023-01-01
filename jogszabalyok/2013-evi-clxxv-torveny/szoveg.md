@@ -54,8 +54,10 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
   - ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–d) pontjában szereplő adatokat,
   - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - i) a járási hivatal a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
-- j) az egyéni vállalkozók nyilvántartását vezető szerv az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági feladatainak ellátásához, továbbá a jogszabály alapján személyazonosság igazolására alkalmas hatósági igazolvány kiadására feladat- és hatáskörrel rendelkező szerv személyazonosság igazolására alkalmas hatósági igazolvány kiadásával kapcsolatos eljárása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat.
+- j) az egyéni vállalkozók nyilvántartását vezető szerv, valamint az egyéni vállalkozói tevékenység hatósági ellenőrzését végző szerv az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági feladatainak ellátásához, továbbá a jogszabály alapján személyazonosság igazolására alkalmas hatósági igazolvány kiadására feladat- és hatáskörrel rendelkező szerv személyazonosság igazolására alkalmas hatósági igazolvány kiadásával kapcsolatos eljárása során a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - k) a szociális hatóság és – az f) pont alá nem tartozó – rehabilitációs hatóság a hatósági eljárásaikban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és c)–e) pontjában szereplő adatokat,
+- l) a kormányablak az előtte folyamatban lévő eljárásban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és c)–e) pontjában szereplő adatokat.
+- n) az adóhatóság az eljárása során az adózó vagy az eljárás egyéb résztvevője eljárási képessége fennállásának vagy hiányának megállapításához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat.
 
 (3) A közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság a cselekvőképesség és a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult megismerni és kezelni a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és a 3. § (1) bekezdés b)–e) pontjában szereplő adatokat.
 
@@ -225,4 +227,6 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 29. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-30–31. §
+#### 30. §
+
+#### 31. §

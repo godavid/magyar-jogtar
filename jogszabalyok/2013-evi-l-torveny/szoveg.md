@@ -103,7 +103,7 @@ Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 - g) az Alapvető Jogok Biztosának Hivatalára,
 - h) az Állami Számvevőszékre,
 - i) a Magyar Nemzeti Bankra,
-- j) a fővárosi és megyei kormányhivatalokra,
+- j) a fővárosi és vármegyei kormányhivatalokra,
 - k) a helyi önkormányzatok képviselő-testületének hivatalaira, a hatósági igazgatási társulásokra,
 - l) a Magyar Honvédségre.
 

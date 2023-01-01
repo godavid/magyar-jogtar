@@ -681,7 +681,7 @@ részt vehet.
 
 34. § Az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvénnyel megállapított 15/A. §-ban foglaltakat az egészségügyi felsőfokú szakirányú szakképzésüket 2015. július 1-jét követően megkezdőkre kell alkalmazni.
 
-#### 35. §
+35. § E törvény az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2003. évi LXXXIV. törvényhez
 

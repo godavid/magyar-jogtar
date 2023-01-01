@@ -14,7 +14,7 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 (3)
 
-2. §
+#### 2. §
 
 3. § (1) A társasház tulajdonostársainak közössége (a továbbiakban: közösség) az általa viselt közös név alatt az épület fenntartása és a közös tulajdonnal kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, önállóan perelhet és perelhető, gyakorolja a közös tulajdonnal kapcsolatos tulajdonosi jogokat, viseli a közös tulajdon terheit. A perbeli cselekvőképesség a közös képviselőt (az intézőbizottság elnökét) illeti meg. A társasháznak vagy a tulajdonostársaknak ezzel ellentétes rendelkezése harmadik személyekkel szemben hatálytalan.
 
@@ -117,7 +117,9 @@ vonatkozó részletes szabályokat.
 
 ### II. Fejezet — JOGOK ÉS KÖTELEZETTSÉGEK A TÁRSASHÁZBAN
 
-### A külön tulajdonnal kapcsolatosjogok és kötelezettségek
+### A külön tulajdonnal kapcsolatos
+
+jogok és kötelezettségek
 
 16. § A tulajdonostársat külön tulajdona tekintetében megilleti a birtoklás, a használat, a hasznok szedése és a rendelkezés joga; a tulajdonostárs e jogait azonban nem gyakorolhatja a többi tulajdonostárs joga és törvényes érdeke sérelmével.
 
@@ -178,7 +180,9 @@ vonatkozó részletes szabályokat.
 
 (6) Ha a tulajdonostárs vagy a volt tulajdonostárs, illetőleg a bérlő vagy a volt bérlő a közös költség tartozását, illetőleg a közüzemi szolgáltatásra, a központi fűtés- és melegvíz-szolgáltatásra fennálló díjtartozását kiegyenlítette, a közös képviselő (az intézőbizottság elnöke) a részére bejelentett és a tartozással összefüggő adatot haladéktalanul köteles törölni.
 
-### A közös tulajdonnal kapcsolatosjogok és kötelezettségek
+### A közös tulajdonnal kapcsolatos
+
+jogok és kötelezettségek
 
 23. § (1) Minden tulajdonostárs jogosult a közös tulajdon tárgyainak birtoklására és használatára, ez azonban nem sértheti a többi tulajdonostárs ezzel kapcsolatos jogát és jogos érdekét.
 
@@ -277,7 +281,7 @@ vonatkozó részletes szabályokat.
 
 (3) A közgyűlés a közös képviselőt, az intéző-, illetőleg a számvizsgáló bizottságot bármikor felmentheti. A felmentett közös képviselő – intézőbizottság esetén annak elnöke – a közgyűlés határozata alapján, az abban meghatározott feladatok végzésével és változatlan díjazás ellenében köteles az új közös képviselő (intézőbizottság) megválasztásáig, de legfeljebb felmentésétől számított kilencvenedik nap leteltéig ügyvivőként ellátni a közösség ügyeinek intézését.
 
-29. §
+#### 29. §
 
 30. § (1) A közgyűlés a határozatával a legalább három hónapnak megfelelő közös költség összegének befizetésével hátralékba került tulajdonostárs külön tulajdonának és a hozzá tartozó közös tulajdoni hányadának jelzálogjoggal való megterhelését rendelheti el a hátralék megfizetésének biztosítékául.
 
@@ -454,7 +458,8 @@ vonatkozó részletes szabályokat.
 (6) A közgyűlés azonnali hatállyal felmenti a tisztségviselőt, visszavonja a társasház-kezelői, az ingatlankezelői tevékenység végzésére vonatkozó megbízatást, ha
 
 - a) e személy a (2) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt napon belül nem tesz eleget és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
-- b) ha a kizáró ok fennállását a közgyűlés az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja.
+- b) ha a kizáró ok fennállását a közgyűlés az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja,
+- d) az ingatlanvállalkozás-felügyeleti hatóság a tisztségviselőt a szolgáltatási tevékenység folytatásától eltiltotta.
 
 50. § (1) A közös képviselő (az intézőbizottság elnöke) – a (2) bekezdés rendelkezésének kivételével – jogosult a közösség képviseletének ellátására a bíróság és más hatóság előtt is. E jogkörének korlátozása harmadik személlyel szemben hatálytalan.
 
@@ -600,7 +605,9 @@ vonatkozó részletes szabályokat.
 
 61. § A 60. §-ban említett közgyűlési határozatok érvénytelenségének megállapítását bármely tulajdonostárs e törvény rendelkezéseinek megfelelően keresettel kérheti a bíróságtól.
 
-62. § (1)–(2)
+62. § (1)
+
+(2)
 
 (3) Az (1) bekezdés rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni; a határozat érvénytelenségének megállapítása e törvény rendelkezéseinek megfelelően keresettel kérhető a bíróságtól.
 
@@ -619,7 +626,7 @@ vonatkozó részletes szabályokat.
 65. § Felhatalmazást kap a Kormány, hogy
 
 - 1. az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje,
-- 2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg.
+- 2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg,
 
 66. § Felhatalmazást kap a Kormány, hogy az e törvény szerinti üzletszerűen végzett társasházkezelői, valamint üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, továbbá a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat rendeletben szabályozza.
 

@@ -35,7 +35,11 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 #### 4. A hegyközség területe
 
-5. § (1) A (2) bekezdésben meghatározott kivétellel a hegyközség működési területéhez tartozó borvidéki települések közigazgatási területén fekvő, a hegybíró által vezetett gazdasági akták nyilvántartásában szereplő szőlőültetvények nagyságának összesen legalább háromszáz hektárnak kell lennie, és ezeknek az ingatlanoknak legkevesebb tíz termelő használatában kell állnia. Hegyközség csak ugyanazon borvidék települései részvételével alakítható.
+5. § (1) Hegyközség ugyanazon borvidék települései részvételével akkor hozható létre, ha
+
+- a) a működési területéhez tartozó borvidéki települések közigazgatási területén fekvő, a hegybíró által vezetett gazdasági akták nyilvántartásában szereplő szőlőültetvények nagysága – a (2) bekezdésben meghatározott kivételtől eltekintve – eléri a háromszáz hektárt,
+- b) a szőlőültetvények legalább tíz termelő használatában állnak, és
+- c) a hegyközség területén legalább egy borászati üzem rendelkezik borászati üzemengedéllyel.
 
 (2) Ha a borvidék területe háromszáz hektárnál kisebb, a borvidéken egy hegyközség működhet.
 
@@ -69,18 +73,18 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (5) A közgyűlésen
 
-- a) a szőlőültetvénnyel rendelkező hegyközségi tagot a szüreti jelentésben szereplő ültetvénye területe alapján minden megkezdett hektár után egy szavazat,
+- a) a szőlőültetvénnyel rendelkező hegyközségi tagot a közgyűlési meghívó kiküldésének napján a Hegyközségi Információs Rendszerben nyilvántartott, a hegyközség működési területéhez tartozó borvidéki települések közigazgatási területén fekvő ültetvényének területe alapján megállapított minden megkezdett hektár után egy szavazat,
 - b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező hegyközségi tagot egy szavazat
 
 illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát birtokolhatja akkor is, ha az a) pont alapján többre lenne jogosult.
 
-(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig a közgyűlés napját megelőzően legalább öt nappal eleget tett.
+(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi és szakmaközi piacszervezési intézkedésekben meghatározott járulékfizetési kötelezettségének pedig a közgyűlés napját megelőzően legalább öt nappal eleget tett.
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
 (8) A tagot az adott hegyközség területén, a 4. § a), b) vagy c) pontja szerint végzett tevékenysége alapján kell besorolni. A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők, a borászati szekciójába tartozó küldöttet a borászati termelők választják meg maguk közül.
 
-(8a) Nem választható szőlészeti küldötté az a tag, akire a választás időpontját megelőző utolsó három lezárt borpiaci év bármelyikében teljesül, hogy
+(8a) Nem választható szőlészeti küldötté az a tag, akire a választás időpontját megelőző lezárt borpiaci évben teljesül, hogy
 
 - a) ő maga,
 - b) olyan gazdasági társaság, amelynek vezető tisztségviselője,
@@ -201,7 +205,11 @@ kezeli.
 
 (2) A szőlészeti és borászati termelő minden olyan hegyközségnek tagja, amelynek területén termel.
 
-(3) Ha az alapszabály megengedi, önkéntes jelleggel hegyközségi tagságot bármely hegyközségi tagságra nem kötelezett vállalhat.
+(3) Hegyközségi tagságra nem kötelezett személy önkéntes hegyközségi tagságot az alapszabály erre irányuló kifejezett rendelkezése alapján vállalhat. Az önkéntes hegyközségi tag
+
+- a) nem rendelkezik a hegyközségi szervezetben szavazati joggal,
+- b) nem választható meg küldöttnek vagy tisztségviselőnek, valamint
+- c) nem rendelkezik a 20/A. § szerinti elővásárlási joggal.
 
 #### 13. A tagok névjegyzéke
 
@@ -317,7 +325,7 @@ kapcsolatos feladatok ellátása.
 
 (2) A szőlészeti szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába delegált szőlész küldöttet. A borászati szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába delegált borász küldöttet. Amennyiben a borvidéken csak egy hegyközség működik a Hegyközségek Nemzeti Tanácsába delegált egy-egy küldöttet a 6. § (8)–(8b) bekezdése szerint kell megválasztani.
 
-25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet. A küldött nem gyakorolhatja a szavazati jogát, amennyiben az őt delegáló hegyközségnek fenntartási hozzájárulás-tartozása áll fenn. Ha e törvény vagy az alapszabály másként nem rendelkezik, a hegyközségi tanács a döntéseit egyszerű többséggel hozza azzal, hogy a döntéshozatalhoz a szavazásra jogosult küldöttek több mint felének támogató szavazata is kell.
+25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a döntéshozatalt megelőző borpiaci év utolsó napján a hegybíró által nyilvántartott, a hegyközség működési területéhez tartozó borvidéki települések közigazgatási területén fekvő ültetvények területe alapján minden megkezdett száz hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet. A küldött nem gyakorolhatja a szavazati jogát, amennyiben az őt delegáló hegyközségnek fenntartási hozzájárulás-tartozása áll fenn. Ha e törvény vagy az alapszabály másként nem rendelkezik, a hegyközségi tanács a döntéseit egyszerű többséggel hozza azzal, hogy a döntéshozatalhoz a szavazásra jogosult küldöttek több mint felének támogató szavazata is kell.
 
 #### 17. A borrégiós tanács
 
@@ -353,7 +361,7 @@ kapcsolatos feladatok ellátása.
 
 (4) A Hegyközségek Nemzeti Tanácsában a 24. § (2) bekezdése szerint megválasztott tagokból álló szőlészeti és borászati szekció működik.
 
-(5) A Hegyközségek Nemzeti Tanácsa akkor határozatképes ha mindkét szekció küldötteinek legalább a fele jelen van. A küldöttet az őt delegáló hegyközségi tanács hegybírók által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött az összes szavazat legfeljebb tíz százalékát birtokolhatja. A döntéshozatal során a szőlészeti és a borászati szekciót azonos szavazatszám illeti meg. A döntéshozatalhoz a küldöttek szavazattöbbsége szükséges azzal, hogy azt a mindkét szekció tagjai szavazatának többségével is támogatni kell.
+(5) A Hegyközségek Nemzeti Tanácsa akkor határozatképes ha mindkét szekció küldötteinek legalább a fele jelen van. A küldöttet az őt delegáló hegyközségi tanácsot alkotó hegyközségek működési területéhez tartozó borvidéki települések közigazgatási területén fekvő ültetvényeknek a döntéshozatalt megelőző borpiaci év utolsó napján a hegybírók által nyilvántartott területe alapján minden megkezdett száz hektár után egy szavazat illeti meg azzal, hogy egy küldött az összes szavazat legfeljebb tíz százalékát birtokolhatja. A döntéshozatal során a szőlészeti és a borászati szekciót azonos szavazatszám illeti meg. A döntéshozatalhoz a küldöttek szavazattöbbsége szükséges azzal, hogy azt a mindkét szekció tagjai szavazatának többségével is támogatni kell.
 
 29. § A Hegyközségek Nemzeti Tanácsa ülésén tanácskozási joggal részt vesznek a miniszter vagy képviselője, a borászati hatóság, az országos szőlészeti-borászati oktatási, kutatási intézmények, valamint szakmai érdek-képviseleti szervezetek képviselői.
 
@@ -366,6 +374,22 @@ kapcsolatos feladatok ellátása.
 32. § (1) A hegyközségi tanács, a borrégiós tanács és a Hegyközségek Nemzeti Tanácsa egyaránt köztestület.
 
 (2) Az (1) bekezdés szerinti szervezetek létrejöttére, alapszabályára, szervezetére és működésére e törvénynek a hegyközségre irányadó szabályait kell megfelelően alkalmazni.
+
+(3) A hegyközségi szervezetek ötéves időtartamra választják meg a küldötteket, a hegyközségi szervezet elnökét, az ellenőrző bizottság elnökét, a hegyközségi tanács igazgatóválasztmányának tagjait, a Hegyközségek Nemzeti Tanácsa elnökségi tagjait, a szőlészeti és a borászati szekció elnökét, valamint az alapszabály által létesített, tisztséget betöltő hegyközségi tagot (a továbbiakban együtt: érdekképviseleti tisztségviselő).
+
+(4) A Hegyközségek Nemzeti Tanácsának elnöke a megbízatási idő lejártát megelőző év november 30. napjáig meghatározza a következő választás ütemezését, figyelembe véve a hegyközségi szervezetek küldötti rendszerét.
+
+(5) A megválasztott érdekképviseleti tisztségviselővel szemben a 13. § (2)–(4) bekezdésében felsorolt valamely kizáró ok fennállása esetén a megbízatás megszűnését a hegyközségi szervezet közgyűlése állapítja meg.
+
+(6) A megbízatási időszak fennmaradó időtartamára érdekképviseleti tisztségviselőt kell választani
+
+- a) a hegyközségek összeolvadása, szétválása,
+- b) a megválasztott személyek lemondása vagy halála, valamint
+- c) a megválasztott személlyel szemben az (5) bekezdésben foglaltak szerint megállapított kizáró ok fennállása
+
+esetén.
+
+(7) Az ellenőrző bizottság elnöke jár el az elnök helyett, ha a hegyközségi szervezet alapszabálya nem rendelkezik az elnök helyettesítéséről annak akadályoztatása esetére.
 
 ### V. Fejezet — A HEGYKÖZSÉGI SZERVEZETEK FELADATAI
 
@@ -463,7 +487,7 @@ kapcsolatos feladatok ellátása.
 
 (3) Ha a hegybíró a működési területén belüli hegyközségi tagnál irányítási jogviszonyban, munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, ezen tag ügyeiben, valamint saját és közvetlen hozzátartozói ügyeiben nem járhat el. Az ezen ügyekkel kapcsolatos közigazgatási feladatok ellátására a Hegyközségek Nemzeti Tanácsának főtitkára jelöli ki az illetékes hegybírót.
 
-(4) A (2) bekezdés d) pontjában meghatározott feladatok ellátásához a hegybírónak az ingatlan-nyilvántartáshoz, valamint a földhasználati nyilvántartáshoz való hozzáférést térítésmentesen, valamint az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését díjmentesen kell biztosítani.
+(4) A (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybírónak az ingatlan-nyilvántartáshoz, valamint a földhasználati nyilvántartáshoz való hozzáférést térítésmentesen, valamint az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezését díjmentesen kell biztosítani.
 
 (5) A közgyűlés, illetve a választmány döntése alapján az elnök a 7. § (1) bekezdésének cb) és d) pontja, valamint a 22. § (1) bekezdése szerinti elnöki feladatok ellátásával külön megállapodással megbízhatja a hegybírót.
 
@@ -684,23 +708,17 @@ kell fedezni.
 
 #### 32. A hegyközségi szervezetek tisztújítása
 
-55. § (1) A hegyközségek – az 5. § (1) bekezdése szerinti feltételeknek nem megfelelő hegyközség kivételével – e törvény szerinti testületeinek tagjait, illetve tisztségviselőit, valamint a 6. § (2) bekezdés d) pontja szerinti küldötteket e törvény hatálybalépését követően megtartott első közgyűlésen, de legkésőbb 2013. március 31-ig – a 6. § (5), valamint (7) bekezdése szerint – kell megválasztani.
+55. § (1) Az érdekképviseleti tisztségviselőket
 
-(2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő hegyközségek törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás – a hegybírók megbízatásának kivételével – az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. március 31-én megszűnik.
+- a) a hegyközségek 2028. március 31-ig szóló időtartamra vonatkozóan 2023. március 31. napjáig választják meg,
+- b) a hegyközségi tanácsok és a borrégiós tanácsok 2028. május 15. napjáig szóló időtartamra vonatkozóan 2023. május 15. napjáig választják meg,
+- c) a Hegyközségek Nemzeti Tanácsa 2028. május 31. napjáig szóló időtartamra vonatkozóan 2023. május 31. napjáig választja meg.
 
-(3) A hegyközségek – az 5. § (1) bekezdése szerinti feltételeknek nem megfelelő hegyközség kivételével – alapszabályát e törvény hatálybalépését követően megtartott első közgyűlésen – a 6. § (5), valamint (7) bekezdése szerint – kell összhangba hozni e törvény rendelkezéseivel. Ezen időpontig az e törvény hatálybalépésének napján hatályos alapszabály rendelkezései szerint kell eljárni.
+(2) A hegyközségi szervezet a 2022. június 1-je után megválasztott érdekképviseleti tisztségviselők esetében dönthet úgy, hogy a megbízatás időtartama az (1) bekezdés a)–c) pontjában meghatározott időtartamra szól. Ilyen döntés esetén a hegyközségi szervezet nem tartja meg az (1) bekezdésben meghatározott választást.
 
-56. § (1) A hegyközségi tanácsok e törvény szerinti igazgatóválasztmányának tagjait, illetve elnökét, valamint a 24. § (2) bekezdése szerinti küldötteket legkésőbb 2013. július 31-ig kell megválasztani.
+56. § A hegyközségnek 2023. március 31. napjáig teljesítenie kell az 5. § (1) bekezdés c) pontjában előírt feltételt.
 
-(2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő hegyközségi tanácsok törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. július 31-én megszűnik.
-
-(3) A (2) bekezdés szerint megszűnő megbízatással bíró titkár munkáltatója a hegyközségi tanács.
-
-57. § (1) A Hegyközségek Nemzeti Tanácsa elnökségét, elnökét és alelnökét 2013. október 31-ig a kell megválasztani.
-
-(2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő Hegyközségek Nemzeti Tanácsának törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. november 30-án megszűnik.
-
-(3) A Hegyközségek Nemzeti Tanácsa főtitkári tisztségére a pályázatot 2013. október 30-ig kell kiírni, és a főtitkárt 2013. november 30-ig meg kell választani. A Hegyközségek Nemzeti Tanácsa főtitkárának megválasztásával a korábbi főtitkár megbízatása megszűnik.
+#### 57. §
 
 #### 33. A hegybírók kinevezése
 

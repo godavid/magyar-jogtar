@@ -224,7 +224,7 @@ a következő törvényt alkotja:
 
 - a) a Magyar Nemzeti Múzeum,
 - b) a Budapesti Történeti Múzeum,
-- c) a megyei hatókörű városi múzeum,
+- c) a vármegyei hatókörű városi múzeum,
 - d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 - e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
 - f) a Bölcsészettudományi Kutatóközpont,
@@ -292,7 +292,7 @@ a következő törvényt alkotja:
 (5) Megelőző feltárást végezhet
 
 - a) a régészeti gyűjtőkörrel és a feltárás helye szerinti gyűjtőterülettel rendelkező területi múzeum (a továbbiakban: területi múzeum), Budapesten a Budapesti Történeti Múzeum, ha a beruházással érintett terület nem lépi túl a területi múzeum gyűjtőterületét;
-- b) a gyűjtőterületén érintett megyei hatókörű városi múzeum, ha
+- b) a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, ha
   - ba) nincs területi múzeum a beruházással érintett területen,
   - bb) a területi múzeum kapacitása nem teszi lehetővé az önálló feladatellátást,
   - bc) a beruházással érintett terület túllépi a területi múzeum gyűjtőterületét;
@@ -370,7 +370,7 @@ a következő törvényt alkotja:
 
 (2) A Magyar Nemzeti Múzeum a beruházó szerződéskötési szándékáról, annak kézhezvételét követő 5 napon belül értesíti a nagyberuházás megelőző feltárásának elvégzésére jogosult intézményt és koordinálja a szerződéskötést.
 
-(2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
+(2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
 
 (2b) A nagyberuházást megelőző feltárás régészeti szaktevékenységének elvégzésébe
 
@@ -379,9 +379,9 @@ a következő törvényt alkotja:
 
 (3) A (2b) bekezdés szerinti bevont feltárásra jogosult intézmény a régészeti szaktevékenység ellátásában további közreműködőt nem vehet igénybe.
 
-(4) Ha a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a Magyar Nemzeti Múzeum gondoskodik a régészeti feladatellátás elvégzéséről.
+(4) Ha a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a Magyar Nemzeti Múzeum gondoskodik a régészeti feladatellátás elvégzéséről.
 
-(4a) A (4) bekezdés szerinti esetben a kultúráért felelős miniszter – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 40. § (3) bekezdése alapján a működési engedély módosításával – hivatalból indított eljárásban dönt a megyei hatókörű városi múzeum régészeti gyűjtőkörének lezárásáról. Az eljárásban a kulturális örökség védelméért felelős miniszter egyetértési jogot gyakorol.
+(4a) A (4) bekezdés szerinti esetben a kultúráért felelős miniszter – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 40. § (3) bekezdése alapján a működési engedély módosításával – hivatalból indított eljárásban dönt a vármegyei hatókörű városi múzeum régészeti gyűjtőkörének lezárásáról. Az eljárásban a kulturális örökség védelméért felelős miniszter egyetértési jogot gyakorol.
 
 (5) Nagyberuházás megvalósítása esetén a régészeti földmunka, valamint a kivitelezés földmunkái régészeti megfigyelés mellett végezhetőek.
 
@@ -465,7 +465,7 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 (3) A (2) és (4) bekezdésben meghatározott feladatok elvégzésébe jogszabályban meghatározott módon bevonható
 
-- a) a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
+- a) a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
 - b) a gyűjtőterületén érintett területi múzeum, vagy
 - c) a feltárásra jogosult intézmény vagy szervezet.
 
@@ -522,7 +522,7 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 (2) A régészeti feltárás során előkerült leletek végleges befogadásáról
 
 - a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a feltárás csak annak gyűjtőterületére terjed ki,
-- b) a megyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
+- b) a vármegyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
 - c) a Magyar Nemzeti Múzeum gondoskodik, ha az a)–b) pont szerint a gyűjtőterületén érintett múzeum nem tudja biztosítani a leletanyag végleges befogadását.
 
 (3) A Magyar Nemzeti Múzeum által végzett tervásatás esetén a leletanyag végleges befogadására a Magyar Nemzeti Múzeum jogosult.
@@ -724,7 +724,11 @@ terjed ki.
 - a) az olyan jogügylethez, melynek alapján a nemzeti vagyon körébe tartozó műemlék tulajdonjoga átruházásra kerül, vagy az egyéb módon kikerül a nemzeti vagyon köréből, vagy azon osztott tulajdon létesül,
 - b) az olyan jogügylethez, amely az állami vagyon körébe tartozó műemléket – a jogszabályban foglaltak szerint, közérdekből alapított használati jog, vezetékjog, szolgalom kivételével – megterheli, biztosítékul adja,
 - c) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
-- d) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
+- d) vagyonkezelő hiányában – az (1a) bekezdésben foglalt kivétellel – az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
+
+(1a) Nem szükséges a miniszter előzetes jóváhagyása, ha az állami tulajdonban álló műemlék tulajdonosi joggyakorlója 90 napot meg nem haladó időtartamra köt hasznosítására irányuló jogügyletet.
+
+(1b) Az (1a) bekezdés alapján létrejött jogügylet időtartama nem hosszabbítható meg, továbbá ugyanarra a műemlékre vonatkozóan ugyanazon felek között új határozott idejű jogügylet az (1a) bekezdés alkalmazásával nem köthető.
 
 (2) Az (1) bekezdés szerinti jóváhagyás a jogügylet érvényességi kelléke.
 
@@ -1443,6 +1447,7 @@ iránt.
 
 - a) kiemelten védett műemlék ingatlan esetében, valamint az 1998. január 1-je előtt műemlék, műemlék jellegű, városképi jelentőségű kategóriában védettséget szerző védett műemlék ingatlanok esetében e törvény erejénél fogva; az 1998. január 1-jétől védettséget szerzett védett műemlék ingatlanok esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja,
 - b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
+- c) védetté nyilvánított régészeti lelőhelyen fekvő ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja.
 
 (1a) A nemzeti emlékhely részét képező ingatlanra a Magyar Államot elővásárlási jog illeti meg. A Magyar Államot nem illeti meg elővásárlási jog, ha az ingatlan tulajdonjogát egyházi jogi személy az érintett egyház belső egyházi jogi személyére ruházza át.
 
@@ -1455,7 +1460,7 @@ iránt.
 
 gyakorolja.
 
-(4) Ha az (1) bekezdés a) pontja szerinti ingatlanra több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlanon közfeladatot ellátó önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A jogi személyiséggel rendelkező vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében az önkormányzat helyett második helyen a használót illeti meg e jog.
+(4) Az (1) bekezdés a) pontja szerinti ingatlanokon első helyen az államot, második helyen az ingatlanon közfeladatot ellátó önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A jogi személyiséggel rendelkező vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében az önkormányzat helyett második helyen a használót illeti meg e jog.
 
 87. § (1) A kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanok tekintetében a Magyar Államot – más jogosultakat megelőzően – elővásárlási jog illeti meg.
 
@@ -1537,7 +1542,7 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 
 92/G. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-92/H. § (1) A megyei hatókörű városi múzeumoknak, a Budapesti Történeti Múzeumnak, valamint a Magyar Nemzeti Múzeumnak – amennyiben a feladat ellátására szerződéssel nem rendelkeznek, vagy a feladat esetleges jogutódlását követően ilyen tárgyú kötelezettségvállalással várhatóan nem fognak rendelkezni – közbeszerzési eljárást kell kiírni a 23. § (2) bekezdés, valamint a 23/C. § (8) bekezdése szerinti, a régészeti feladatellátáshoz kapcsolódó földmunka biztosítása érdekében.
+92/H. § (1) A vármegyei hatókörű városi múzeumoknak, a Budapesti Történeti Múzeumnak, valamint a Magyar Nemzeti Múzeumnak – amennyiben a feladat ellátására szerződéssel nem rendelkeznek, vagy a feladat esetleges jogutódlását követően ilyen tárgyú kötelezettségvállalással várhatóan nem fognak rendelkezni – közbeszerzési eljárást kell kiírni a 23. § (2) bekezdés, valamint a 23/C. § (8) bekezdése szerinti, a régészeti feladatellátáshoz kapcsolódó földmunka biztosítása érdekében.
 
 (2) E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és egyes kapcsolódó törvények módosításáról szóló 2017. évi CLXXXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 22. § (2)–(2b) és (8) bekezdését, 23. § (2) és (2a) bekezdését, 23/C. § (6)–(8) bekezdését és 23/E. § (1)–(6) bekezdését az (1) bekezdésben meghatározott közbeszerzési eljárások lefolytatása után indult eljárásokban és megkötött szerződésekre kell alkalmazni.
 

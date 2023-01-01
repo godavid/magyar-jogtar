@@ -36,6 +36,7 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 - n) a Nemzeti Emlékezet Bizottságának Hivatala,
 - o) az Országos Atomenergia Hivatal.
 - p) az Integritás Hatóság.
+- q) az Európai Támogatásokat Auditáló Főigazgatóság.
 
 (2) A különleges jogállású szervek szervezetét a szervet létrehozó törvény, vagy annak felhatalmazása alapján a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
 
@@ -148,6 +149,11 @@ Az álláshelyen ellátandó feladatot a különleges jogállású szerv vezető
 (3) A köztisztviselő köteles megtartani a minősített adatot. Ezen túlmenően illetéktelen személynek és szervnek nem adhat tájékoztatást olyan tényekről, amelyek tevékenysége során jutottak tudomására és kiszolgáltatásuk az állam, a különleges jogállású szerv, munkatársa vagy az állampolgár számára hátrányos vagy jogellenesen előnyös következményekkel járna.
 
 (4) Ha a joggal való visszaélés e törvény vagy e törvény végrehajtására kiadott jogszabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás a közszolgálat nyomós érdekét vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
+
+(5) A joggal való visszaélés tilalmának megsértésére alapított igény érvényesítése esetén
+
+- a) az igény érvényesítője bizonyítja a tilalom megsértésének alapjául szolgáló tényt, körülményt és a hátrányt, és
+- b) a jog gyakorlója bizonyítja, hogy az igény érvényesítője által bizonyított tény, körülmény és a hátrány között okozati összefüggés nem áll fenn.
 
 #### 11. § [A személyiségi jogok védelme]
 
@@ -445,7 +451,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 - d) munkavégzésének a helyét,
 - e) munkaidejét,
 - f) közszolgálati jogviszonya kezdetének napját,
-- g) közszolgálati jogviszonya időtartamát,
+- g) közszolgálati jogviszonya – határozott időre létesített közszolgálati jogviszony esetén a jogviszony 23. § (3) bekezdése figyelembevételével meghatározott – időtartamát,
 - h) próbaidejének kezdő és befejező napját,
 - i) foglalkoztató különleges jogállású szerv és szervezeti egység megnevezését.
 
@@ -461,11 +467,15 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) A kinevezésben – a 28. § (4) bekezdésében, a 37. §-ban és a 38. § (5) bekezdésében meghatározott eset, valamint a (10) bekezdés kivételével – a közszolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
+(7a) A határozott idejű közszolgálati jogviszony meghosszabbítása esetén azonos vagy hasonló feladatkörben történő foglalkoztatás esetén újabb próbaidő nem köthető ki.
+
 (8) A próbaidő nem hosszabbítható meg.
 
 (9) A próbaidő alatt a közszolgálati jogviszonyt bármelyik fél indokolás nélkül azonnali hatállyal megszüntetheti.
 
 (10) A három hónapnál rövidebb idejű kinevezés esetén a felek megállapodhatnak a próbaidő kikötéséről azzal, hogy a próbaidő legfeljebb a határozott idejű kinevezés időtartamának a fele lehet.
+
+(11) A próbaidő leghosszabb tartamát a (10) bekezdés alá nem tartozó, legfeljebb tizenkét hónapra létesített közszolgálati jogviszony esetén – a (7) bekezdésben foglaltak figyelembevételével – arányosan kell megállapítani. Ennek során a 64. § (19) bekezdését kell alkalmazni.
 
 #### 26. § [Az eskü]
 
@@ -512,7 +522,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (5) Az ösztöndíjas jogviszonyra
 
-- a) megfelelően alkalmazni kell e törvény 9. §-át, 10. § (1) és (3) bekezdését, 11. § (1)–(7) és (9) bekezdését, 12. §-át, 13. §-át, 15. § (2)–(6) bekezdését, 16–20. §-át, 25. § (1) bekezdés b), d) és f) pontját, 30. § (1) bekezdését, 36. §-át, 44. §-át, 46. § (1) bekezdés a)–b) és d)–i) pontját, valamint (2)–(5) bekezdését, 47. §-át, 53. § (2) bekezdését, 54. § (1), (3), (5) bekezdését, (7) bekezdés a) pontját és (11) bekezdését, 55. §-át, 56. § (1), (4) és (6) bekezdését, 62. §-át, 63. § (1), (6), (7), (9)–(12) bekezdését, 64. §-át, 68. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó és c) pontjában foglalt szabályokat, 70. § (3) bekezdés a) és d) pontját és (4) bekezdését, 71. §-át, 72. §-át, 86. §-át, 87. §-át, 92. §-át, 93. §-át,
+- a) megfelelően alkalmazni kell e törvény 9. §-át, 10. § (1) és (3) bekezdését, 11. § (1)–(7) és (9) bekezdését, 12. §-át, 13. §-át, 15. § (2)–(6) bekezdését, 16–20. §-át, 25. § (1) bekezdés b), d) és f) pontját, 30. § (1) bekezdését, 36. §-át, 44. §-át, 46. § (1) bekezdés a)–b) és d)–i) pontját, valamint (2)–(5) bekezdését, 47. §-át, 53. § (2) bekezdését, 54. § (1), (3), (5) bekezdését, (7) bekezdés a) pontját és (11) bekezdését, 55. §-át, 56. § (1), (4) és (6) bekezdését, 62. §-át, 63. § (1), (6), (7), (9)–(12) bekezdését, 64. §-át, 66/A. §-át, 68. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó és c) pontjában foglalt szabályokat, 70. § (3) bekezdés a) és d) pontját és (4) bekezdését, 71. §-át, 72. §-át, 86. §-át, 87. §-át, 92. §-át, 93. §-át,
 - b) ahol e törvény
   - ba) illetményt említ, azon ösztöndíjat;
   - bb) kinevezést vagy kinevezési okmányt említ, azon ösztöndíjas jogviszonyt létrehozó szerződést;
@@ -915,6 +925,7 @@ Az a) pont alkalmazása szempontjából a köztisztviselő besorolása szerinti 
 - f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap, és
 - g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság,
 - h) az unoka gondozása céljából igénybe vett fizetés nélküli szabadság
+- i) a 47. § (11) bekezdés o) pontja és (11a) bekezdése szerinti mentesülés, valamint a 66/A. § szerinti szabadság
 
 időtartama alatt.
 
@@ -981,6 +992,13 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 
 (5) A különleges jogállású szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
 
+(6) A különleges jogállású szerv hivatali szervezetének vezetője közszolgálati szabályzatban határozza meg
+
+- a) a közszolgálati jogviszony létesítéséhez kapcsolódóan a köztisztviselőt terhelő kötelezettségeket,
+- b) a munkáltatói jogkör gyakorlóját a kinevezéssel kapcsolatban és a közszolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat,
+- c) a részmunkaidőben történő foglalkoztatás lehetőségével összefüggő munkáltatói kötelezettségeket, valamint az atipikus foglalkoztatási formákhoz kapcsolódó tájékoztatási kötelezettségeket,
+- d) az atipikus foglalkoztatási formára való áttérés köztisztviselő általi kezdeményezésére és a kérelem elbírálására vonatkozó szabályokat.
+
 #### 47. § [A köztisztviselő kötelezettségei]
 
 (1) A köztisztviselő köteles
@@ -1031,8 +1049,24 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 - l) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra, továbbá
 - m) a munkáltató engedélye alapján,
 - n) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+- o) a súlyos egészségi okból gondozásra szoruló hozzátartozójának vagy a köztisztviselővel közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra.
 
-(12) A (11) bekezdés n) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a köztisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+(11a) Mentesül az apa a rendelkezésre állási és a munkavégzési kötelezettségének teljesítése alól legkésőbb
+
+- a) a gyermeke születését követő, vagy
+- b) gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő
+
+második hónap végéig két munkanapra.
+
+(11b) A (11a) bekezdés szerinti munkaidő-kedvezmény az apát akkor is megilleti, ha a gyermek halva születik vagy meghal.
+
+(11c) Nem jogosult az apa a (11a) bekezdés szerinti munkaidő-kedvezményre, ha a 63. § (12) vagy (12a) bekezdése alapján tíz munkanap pótszabadságra jogosult.
+
+(11d) A (11a) bekezdés szerinti munkaidő-kedvezményt a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani.
+
+(12) A (11) bekezdés n) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni a rendelkezésre állási, illetve munkavégzési kötelezettség teljesítése alól. Az igénybevételről a köztisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+
+(13) A (11) bekezdés o) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – a gondozás indokoltságáról szóló igazolás bemutatását követően –, legfeljebb két részletben kell mentesíteni a rendelkezésre állási, illetve munkavégzési kötelezettség teljesítése alól. A gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.
 
 #### 48. § [A köztisztviselő képzése, továbbképzése]
 
@@ -1394,9 +1428,18 @@ megfelelő mértékű szabadidő jár.
 
 (3) Az (1) bekezdésben meghatározott esetben a köztisztviselő beosztás szerinti napi munkaideje éjszakai munkavégzés során a nyolc órát nem haladhatja meg.
 
+(4) A köztisztviselő várandósságának megállapításától a gyermeke hároméves koráig, illetve a gyermekét egyedül nevelő köztisztviselő esetén gyermeke hároméves koráig
+
+- a) egyenlőtlen munkaidő-beosztás csak a köztisztviselő hozzájárulása esetén alkalmazható,
+- b) a heti pihenőnapok egyenlőtlenül nem oszthatók be,
+- c) rendkívüli munkaidő vagy készenlét nem rendelhető el,
+- d) a köztisztviselő számára éjszakai munkavégzés nem rendelhető el.
+
+(5) A gyermekét egyedül nevelő köztisztviselő számára – gyermeke hároméves korától négyéves koráig – rendkívüli munkaidő vagy készenlét – az 57. § (5) bekezdésében foglaltakat kivéve – csak hozzájárulásával rendelhető el.
+
 #### 63. § [A szabadság]
 
-(1) A köztisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (3)–(15) bekezdésben meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
+(1) A köztisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (3)–(15) bekezdésben és a 66/A. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
 
 (2) Az (1) bekezdésben foglaltakon túl szabadság jár a következő időszakok alapján:
 
@@ -1404,7 +1447,7 @@ megfelelő mértékű szabadidő jár.
 - b) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság első hat hónapja,
 - c) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
 - d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
-- e) a 47. § (11) bekezdés a), b), h), k) és n) pontjában meghatározott esetek, valamint
+- e) a 47. § (11) bekezdés a), b), h), j), k), n) és o) pontjában, valamint a 47. § (11a) bekezdésében meghatározott esetek, valamint
 - f) minden olyan munkában nem töltött idő, amelyre a köztisztviselő illetményre jogosult.
 
 (3) A 69. § (1) bekezdése szerinti különleges jogállású szerv köztisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
@@ -1462,6 +1505,8 @@ munkanap pótszabadság igénybevételére jogosult.
 
 (12) Az apa gyermeke születése esetén, legkésőbb a születést követő második hónap végéig nyolc, ikergyermekek születése esetén tíz munkanap pótszabadság igénybevételére jogosult, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
+(12a) Az apa a gyermek örökbefogadása esetén, legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig nyolc, ikergyermekek örökbefogadása esetén tíz munkanap pótszabadság igénybevételére jogosult.
+
 (13) A nagyszülő unokája születése esetén öt munkanap pótszabadságot vehet igénybe legkésőbb a születést követő második hónap végéig, amelyet kérésének megfelelő időpontban kell kiadni. A pótszabadság igénybevételéhez a különleges jogállású szerv jogosult a köztisztviselő unokájának természetes személyazonosító adatait a közszolgálati nyilvántartásban kezelni.
 
 (14) A köztisztviselő részére első házassága megkötése alkalmából legkésőbb a házasságkötést követő második hónap végéig öt munkanap pótszabadság jár.
@@ -1475,7 +1520,7 @@ munkanap pótszabadság igénybevételére jogosult.
 
 #### 64. § [A szabadság kiadása]
 
-(1) A szabadságot az esedékességének évében kell kiadni és kivenni.
+(1) A szabadságot – a 63. § (12)–(14) bekezdése szerinti pótszabadság, valamint a 66/A. § szerinti szabadság kivételével – az esedékességének évében kell kiadni és kivenni.
 
 (2) A munkáltató
 
@@ -1497,11 +1542,11 @@ nem biztosítható.
 
 (5) A szabadság felével a köztisztviselő rendelkezik.
 
-(6) A pótszabadság – a 63. § (9), (12)–(14) bekezdése szerinti pótszabadság kivételével – abban az esetben adható ki és vehető igénybe, ha az alapszabadság már kiadásra került.
+(6) A pótszabadság – a 63. § (9), (12)–(14) bekezdése, valamint a 66/A. § szerinti pótszabadság kivételével – abban az esetben adható ki és vehető igénybe, ha az alapszabadság már kiadásra került.
 
 (7) A munkáltató a köztisztviselőt – a (3) bekezdésben foglaltakra figyelemmel – megfelelő időn belül tájékoztatja a még igénybe nem vett szabadság mértékéről és az igénybevétel lehetőségének határidejéről.
 
-(8) A munkáltató a köztisztviselő már megkezdett szabadságát kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A köztisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit a különleges jogállású szerv köteles megtéríteni.
+(8) A munkáltató a köztisztviselő már megkezdett szabadságát – a 66/A. § szerinti szabadság kivételével – kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A köztisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit a különleges jogállású szerv köteles megtéríteni.
 
 (9) A szabadság kiadásánál a munkarend (munkaidő-beosztás) szerinti munkanapokat kell figyelembe venni.
 
@@ -1511,7 +1556,7 @@ nem biztosítható.
 
 (12) A szabadság megváltásával kapcsolatos köztisztviselői igény elévülése a közszolgálati jogviszony megszűnésének napján kezdődik.
 
-(13) A közszolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltató az arányos szabadságot nem adta ki, az arányos szabadságot – ha a köztisztviselőnek van fennmaradó szabadsága – a jogviszony megszűnését követő 40. napon kell megváltani, kivéve, ha a közszolgálati jogviszony megszűnését vagy megszüntetését követően létrehozott jogviszonyt a 37. § (5) bekezdése vagy a 38. § (5) bekezdése alapján folyamatosnak kell tekinteni.
+(13) A közszolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltató az arányos szabadságot – a 66/A. § szerinti szabadság kivételével – nem adta ki, az arányos szabadságot – ha a köztisztviselőnek van fennmaradó szabadsága – a jogviszony megszűnését követő 40. napon kell megváltani, kivéve, ha a közszolgálati jogviszony megszűnését vagy megszüntetését követően létrehozott jogviszonyt a 37. § (5) bekezdése vagy a 38. § (5) bekezdése alapján folyamatosnak kell tekinteni.
 
 (14) Annak a köztisztviselőnek, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
 
@@ -1559,7 +1604,7 @@ nem biztosítható.
 
 (7) A köztisztviselő a gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a köztisztviselő kérésének megfelelő időpontban kell kiadni.
 
-(8) A köztisztviselő – örökbe fogadott gyermeke gondozása céljából – a gyermek gondozásba történő kihelyezésének kezdő időpontjától számított három évig, de legfeljebb a gyermek tankötelezetté válásának időpontjáig fizetés nélküli szabadságra jogosult, amelyet a köztisztviselő kérésének megfelelő időpontban kell kiadni.
+(8) A köztisztviselő – örökbe fogadott gyermeke gondozása céljából – az örökbefogadást engedélyező határozat véglegessé válásának időpontjától számított három évig, de legfeljebb a gyermek tankötelezetté válásának időpontjáig fizetés nélküli szabadságra jogosult, amelyet a köztisztviselő kérésének megfelelő időpontban kell kiadni.
 
 (9) Az (1)–(8) bekezdésben meghatározott szabadság megszűnik
 
@@ -1584,6 +1629,16 @@ nem biztosítható.
 (16) A fizetés nélküli szabadság a köztisztviselő által megjelölt időpontban, de legkorábban a szabadság megszüntetésére irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg.
 
 (17) A (15) és (16) bekezdés határidőre vonatkozó rendelkezéseit nem kell alkalmazni a (13) bekezdés szerinti fizetés nélküli szabadságra.
+
+#### 66/A. § [Szülői szabadság]
+
+(1) A köztisztviselőt gyermeke hároméves koráig összesen negyvennégy munkanap szülői szabadság illeti meg.
+
+(2) A szülői szabadság igénybevételének feltétele, hogy a közszolgálati jogviszony az igénybevételkor egy éve fennálljon.
+
+(3) A szülői szabadságot a köztisztviselő kérésének megfelelő időpontban kell kiadni. A köztisztviselő az erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt bejelenti. A munkáltató a különleges jogállású szerv működését közvetlenül és súlyosan érintő ok esetén a szülői szabadság kiadását – legfeljebb hatvan nappal – elhalaszthatja, és ennek indokát, valamint a szabadság kiadásának javasolt időpontját a köztisztviselővel egyidejűleg írásban közli.
+
+(4) A munkáltató a szülői szabadságra jogosult köztisztviselő részére igazolást ad a kiadott szülői szabadság tartamáról, ebben feltünteti a korábbi munkáltató által kiadott szülői szabadság tartamát is.
 
 #### 67. § [Az igazgatási szünet]
 
@@ -1645,6 +1700,8 @@ időtartamát.
 - d) a munkaszüneti nap miatt kiesett időre.
 
 (4) A betegszabadság tartamára az illetmény 70%-a jár.
+
+(5) A köztisztviselő a 66/A. § alapján kiadott szülői szabadság tartamára az illetmény tíz százalékára jogosult, amelyet csökkenteni kell az erre az időszakra a köztisztviselőnek megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
 
 #### 71. § [Az illetmény védelme]
 
@@ -2273,7 +2330,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 - c) a szervnél létszámcsökkentést hajtanak végre az ítélet jogerőssé válásakor,
 - d) a szervnél nincs üres álláshely.
 
-(3) Az (1) bekezdésben foglalt esetben meg kell téríteni a köztisztviselő elmaradt illetményét, egyéb járandóságait, továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek, egyéb járandóságnak, illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha a köztisztviselő az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, nem köt álláskeresési megállapodást, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, illetve a köztisztviselői kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
+(3) Az (1) bekezdésben foglalt esetben meg kell téríteni a köztisztviselő elmaradt illetményét, egyéb járandóságait, továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek, egyéb járandóságnak, illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha a köztisztviselő az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, illetve a köztisztviselői kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
 
 (4) Ha a közszolgálati jogviszony (1) bekezdésben foglalt módon történő jogellenes megszüntetése esetén a köztisztviselő az eredeti feladatkörének megfelelő álláshelyre való visszahelyezést nem kéri vagy a bíróság mellőzi a köztisztviselő visszahelyezését, a közszolgálati jogviszony a jogellenességet megállapító határozat jogerőre emelkedésének napján szűnik meg. Ekkor – a (3) bekezdésben foglaltakon felül – a bíróság a munkáltatót – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – a köztisztviselő legalább két-, legfeljebb tizenkét havi illetményének megfelelő összeg megfizetésére kötelezi.
 
@@ -2387,7 +2444,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 
@@ -2454,13 +2511,14 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 (1) E törvény alkalmazásában
 
 - 1. álláshely: a különleges jogállású szervnél rendelkezésre álló humánerőforrás feladatközpontú elosztásának eszköze;
+- 1a. apa: a Ptk. szerint szülői felügyelettel rendelkező apai jogállású férfi vagy örökbefogadó férfi;
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
 - 4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a köztisztviselő az álláshelyéhez tartozó feladatkörhöz kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
 - 7. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
-- 8. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+- 8. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 - 9. gyermekét egyedül nevelő köztisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 - 10. hét: a naptári hét vagy a munkáltató által meghatározott megszakítás nélküli százhatvannyolc óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
 - 11. heti pihenő- vagy munkaszüneti nap: a munkanap fogalma megfelelően irányadó a heti pihenő- vagy a munkaszüneti nap meghatározása tekintetében is, azzal, hogy a hét óra és huszonkét óra közötti időtartamot heti pihenő- vagy a munkaszüneti napnak kell tekinteni;
@@ -2574,6 +2632,12 @@ kell figyelembe venni.
 
 (27) Az érintett (15) bekezdés alapján megállapított illetménye és az érintettnek a 2020. január–április hónap után az ugyanazon munkáltatótól származó illetménye közötti különbözetet az érintett 2020. májusi illetményével egyidejűleg kell kifizetni.
 
+(28) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (5) bekezdését a Módtv. hatálybalépését követő igényérvényesítés esetén kell alkalmazni.
+
+(29) A köztisztviselő a 2022. augusztus 2. és 2022. december 31. között született vagy örökbefogadott gyermeke után a Módtv. hatálybalépésétől számított két hónapon belül jogosult a 47. § (11a) bekezdése szerinti apai munkaidő-kedvezményt igénybe venni.
+
+(30) Ha a köztisztviselő gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a köztisztviselő kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig kell kiadni.
+
 #### 106. § [Az Alaptörvény sarkalatosságra vonatkozó követelményeinek való megfelelés]
 
 (1) A 99. § (4) bekezdése és a 109. § az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
@@ -2585,11 +2649,11 @@ kell figyelembe venni.
 E törvény az Európai Unió következő uniós jogi aktusainak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól;
-- b) a Tanács 91/533/EGK irányelve (1991. október 14.) a munkaadónak a munkavállalóval szembeni, a szerződés, vagy a munkaviszony feltételeiről való tájékoztatási kötelezettségéről;
+- b) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv;
 - c) a Tanács 1999/70/EK irányelve (1999. június 28.) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról;
 - d) a Tanács 97/81/EK irányelve (1997. december 15.) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról;
 - e) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk;
-- f) a Tanács 2010/18/EU irányelve (2010. március 8.) a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről;
+- f) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelv;
 - g) a Tanács 92/85/EGK irányelve (1992. október 19.) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről [tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében];
 - h) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról;
 - i) az Európai Parlament és a Tanács 2011/95/EU irányelve (2011. december 13.) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról;

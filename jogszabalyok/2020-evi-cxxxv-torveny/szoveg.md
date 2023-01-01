@@ -31,7 +31,7 @@ Az Országgyűlés a munkához jutás, a munkahelykeresés, a munkahely megtart�
 
 (4) Magyarország részt vesz az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) tevékenységében.
 
-(5) Foglalkoztatást elősegítő szolgáltatás – az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatás kivételével – a Gazdaságvédelmi Foglalkoztatási Alapból vagy európai uniós forrásból nyújtható.
+(5) Foglalkoztatást elősegítő szolgáltatás – az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatás kivételével – a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból (a továbbiakban: az Alap) vagy európai uniós forrásból nyújtható.
 
 #### 2. A foglalkoztatást elősegítő támogatások
 
@@ -48,9 +48,9 @@ Az Országgyűlés a munkához jutás, a munkahelykeresés, a munkahely megtart�
 
 6. § (1) Foglalkoztatást elősegítő támogatás nyújtása esetén a támogatásban részesülővel hatósági szerződést kell kötni.
 
-(2) Foglalkoztatást elősegítő támogatás a Gazdaságvédelmi Foglalkoztatási Alapból vagy európai uniós forrásból nyújtható.
+(2) Foglalkoztatást elősegítő támogatás az Alapból vagy európai uniós forrásból nyújtható.
 
-(3) Ha a Gazdaságvédelmi Foglalkoztatási Alapból nyújtott támogatást vissza kell követelni, a támogatást a kötelezettségszegés napjától a visszakövetelésről rendelkező határozat meghozatala napjáig számított ügyleti kamattal növelt összegben kell visszafizetni. Amennyiben a kötelezett a visszafizetési kötelezettségének a visszakövetelő határozatban megállapított határidőig nem tesz eleget, e határidő elmulasztásának napjától az állami foglalkoztatási szerv a teljesítés napjáig késedelmi kamatot is felszámít, kivéve a késedelem azon időszakát, amikortól a végrehajtásra az állami adó- és vámhatóság megkeresése megtörtént. Az állami adó- és vámhatóság az előtte folyó végrehajtási eljárásban a követelés összege után késedelmi pótlékot számít fel.
+(3) Ha az Alapból nyújtott támogatást vissza kell követelni, a támogatást a kötelezettségszegés napjától a visszakövetelésről rendelkező határozat meghozatala napjáig számított ügyleti kamattal növelt összegben kell visszafizetni. Amennyiben a kötelezett a visszafizetési kötelezettségének a visszakövetelő határozatban megállapított határidőig nem tesz eleget, e határidő elmulasztásának napjától az állami foglalkoztatási szerv a teljesítés napjáig késedelmi kamatot is felszámít, kivéve a késedelem azon időszakát, amikortól a végrehajtásra az állami adó- és vámhatóság megkeresése megtörtént. Az állami adó- és vámhatóság az előtte folyó végrehajtási eljárásban a követelés összege után késedelmi pótlékot számít fel.
 
 (4) Az ügyleti kamat, valamint a késedelmi kamat mértékére a jogosulatlanul igénybe vett költségvetési támogatások esetén fizetendő ügyleti kamatra és késedelmi kamatra vonatkozó szabályokat kell alkalmazni. A kötelezett az állami adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresését követően – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti – késedelmi pótlékot is köteles megfizetni. A késedelmesen megfizetett ügyleti kamat után nem számítható fel késedelmi kamat vagy késedelmi pótlék.
 
@@ -119,6 +119,8 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 
 - a) a három évnél korábban megkezdett jogszabálysértés a hatósági ellenőrzés megkezdésekor folyamatosan fennáll, vagy
 - b) a közigazgatási ügyekben eljáró bíróság vagy a felügyeleti szerv a foglalkoztatás-felügyeleti hatóságot új eljárás lefolytatására kötelezte.
+
+(7) A foglalkoztatás-felügyeleti hatóság a pénzfizetési kötelezettség teljesítésére a kötelezettnek a véglegessé vált határozat illetékes adóhatóságnak történő megküldése előtt benyújtott kérelme alapján részletfizetést biztosíthat. A foglalkoztatás-felügyeleti hatóság bármely részlet megfizetésének elmulasztása esetén haladéktalanul megküldi a végleges határozatot az adóhatóságnak a hatáskörébe tartozó intézkedések megtétele céljából.
 
 10. § (1) Ha a foglalkoztató a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos bejelentési kötelezettségének nem tett eleget, a foglalkoztatás-felügyeleti hatóság megállapítja a foglalkoztatásra irányuló jogviszony fennállását, és kötelezi a foglalkoztatót a bejelentési kötelezettség teljesítésére.
 
@@ -224,124 +226,124 @@ való megfelelést szolgálja.
 
 #### 10. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-16. §
+#### 16. §
 
 #### 11. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
 #### 12. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 13. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-20. §
+#### 20. §
 
 #### 14. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 15. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-22. §
+#### 22. §
 
 #### 16. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 17. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 18. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 19. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 20. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 21. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-28. §
+#### 28. §
 
 #### 22. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
-29. §
+#### 29. §
 
 #### 23. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 24. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 25. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
 #### 26. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-34. §
+#### 34. §
 
 #### 27. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
 #### 28. Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 29. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 30. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 31. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 32. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 33. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 34. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 35. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 36. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
 #### 37. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-47. §
+#### 47. §
 
 #### 38. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény hatályon kívül helyezése
 
-48. §
+#### 48. §

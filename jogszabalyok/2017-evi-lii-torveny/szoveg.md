@@ -58,7 +58,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - a) a bejelentést tevő szolgáltatót, illetve a vagyoni nyilvántartást vezető szervet,
 - b) a vagyon fekvése szerint illetékes törvényszéket (a továbbiakban: bíróság),
 - c) az illetékes cégbíróságot,
-- d) az adópolitikáért felelős minisztert, valamint
+- d) a pénz-, tőke- és biztosítási piac szabályozásáért felelős minisztert (a továbbiakban: miniszter), valamint
 - e) az adott vagyoni nyilvántartást vezető illetékes szervet, ha a pénzügyi és vagyoni korlátozó intézkedés alanya vagyoni nyilvántartásban nyilvántartott vagyonnal rendelkezik.
 
 (2) Az (1) bekezdés szerinti értesítés tartalmazza a 16. § (1) bekezdése szerinti rendelkezésre álló adatokat, valamint
@@ -87,11 +87,11 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (3) Az (1) bekezdés szerinti zárlatot a pénzügyi és vagyoni korlátozó intézkedés alanyával szemben, a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó befagyasztandó vagyonra kell elrendelni. A zárlat végrehajtása az Avt. alapján az állami adó- és vámhatóság feladata.
 
-(4) Az állami adó- és vámhatóság a pénzügyi és vagyoni korlátozó intézkedés végrehajtásáról, illetve a végrehajtás befejezéséről három munkanapon belül értesíti a hatóságot, a bíróságot, továbbá az adópolitikáért felelős minisztert.
+(4) Az állami adó- és vámhatóság a pénzügyi és vagyoni korlátozó intézkedés végrehajtásáról, illetve a végrehajtás befejezéséről három munkanapon belül értesíti a hatóságot, a bíróságot, továbbá a minisztert.
 
-7. § Ha a cégbíróság a hatóság 5. § szerinti értesítése alapján a cég működésének a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) 85. § (1) bekezdés b) pontja szerinti felfüggesztéséről, illetve a cég működése felfüggesztésének a Ctv. 85. § (2) bekezdése szerinti megszüntetéséről dönt, arról három munkanapon belül értesíti a hatóságot, továbbá az adópolitikáért felelős minisztert.
+7. § Ha a cégbíróság a hatóság 5. § szerinti értesítése alapján a cég működésének a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) 85. § (1) bekezdés b) pontja szerinti felfüggesztéséről, illetve a cég működése felfüggesztésének a Ctv. 85. § (2) bekezdése szerinti megszüntetéséről dönt, arról három munkanapon belül értesíti a hatóságot, továbbá a minisztert.
 
-8. § Ha a vagyoni nyilvántartást vezető szerv a hatóság 5. § szerinti értesítése alapján a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó vagyont érintő korlátozás tényének vagyoni nyilvántartásban történő rögzítéséről dönt, arról három munkanapon belül értesíti a hatóságot, továbbá az adópolitikáért felelős minisztert.
+8. § Ha a vagyoni nyilvántartást vezető szerv a hatóság 5. § szerinti értesítése alapján a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó vagyont érintő korlátozás tényének vagyoni nyilvántartásban történő rögzítéséről dönt, arról három munkanapon belül értesíti a hatóságot, továbbá a minisztert.
 
 9. § (1) A szolgáltató és a vagyoni nyilvántartást vezető szerv dönt a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmának végrehajtásáról, ha a tilalom ellenére a pénzügyi és vagyoni korlátozó intézkedés alanya számára vagyon kerülne rendelkezésre bocsátásra, és erről haladéktalanul értesíti a hatóságot.
 
@@ -101,13 +101,13 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 - b) a vagyonon a pénzügyi és vagyoni korlátozó intézkedés végrehajtását korlátozó jogosultsággal rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet szervezeti formájának megfelelő törvényben meghatározott és rendelkezésre álló azonosító adatait,
 - c) a vagyon azonosításához szükséges és rendelkezésre álló adatokat.
 
-(3) A hatóság a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmának alkalmazásáról a (2) bekezdésben meghatározott adatok megküldésével értesíti az adópolitikáért felelős minisztert.
+(3) A hatóság a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmának alkalmazásáról a (2) bekezdésben meghatározott adatok megküldésével értesíti a minisztert.
 
 (4) A szolgáltató, illetve a vagyoni nyilvántartást vezető szerv által végrehajtott intézkedéssel szemben a korlátozással érintett személy kérelemmel fordulhat a hatósághoz abban az esetben, ha adatot, információt, egyéb bizonyítékot szolgáltat arra nézve, hogy nem ő az uniós jogi aktussal, illetve az ENSZ BT határozattal elrendelt pénzügyi és vagyoni korlátozó intézkedés alanya. A hatóság eljárására az általános közigazgatási rendtartásról szóló törvény szabályai irányadóak.
 
 (5) A (4) bekezdésben meghatározott esetben a közjegyző által a közreműködés megtagadásáról hozott végzés tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 5. § (2) bekezdésében meghatározottak alkalmazandóak.
 
-10. § Az Európai Unió többi tagállama és illetékes intézményei felé a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban a végrehajtott intézkedésekről és egyéb körülményekről előírt tájékoztatást az adópolitikáért felelős miniszter teljesíti.
+10. § Az Európai Unió többi tagállama és illetékes intézményei felé a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban a végrehajtott intézkedésekről és egyéb körülményekről előírt tájékoztatást a miniszter teljesíti.
 
 #### 4. Jogorvoslat és mentesítés
 
@@ -123,13 +123,13 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 - a) haladéktalanul értesíti a bíróságot
 - b) amennyiben a pénzügyi és vagyoni korlátozó intézkedés vonatkozásában azt ENSZ BT határozat előírja, haladéktalanul tájékoztatja – a külpolitikáért felelős miniszter útján – az ENSZ BT illetékeseit, továbbá
-- c) értesíti az adópolitikáért felelős minisztert.
+- c) értesíti a minisztert.
 
 (5) A mentesítésről a bíróság a Vht. rendelkezései alapján nemperes eljárásban a kérelem beérkezésétől számított hatvan napon belül – a zárlatot elrendelő korábbi végzésére is tekintettel – végzéssel dönt.
 
-(6) A bíróság a végzését kézbesíti a hatóságnak és az adópolitikáért felelős miniszternek, továbbá a zárlat feloldása esetén az állami adó- és vámhatóságnak is.
+(6) A bíróság a végzését kézbesíti a hatóságnak és a miniszternek, továbbá a zárlat feloldása esetén az állami adó- és vámhatóságnak is.
 
-(7) Az adópolitikáért felelős miniszter az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
+(7) A miniszter az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
 
 13. § (1) A pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján a rendelkezésre bocsátás tilalmának hatálya alá tartozó vagyont érintő mentesítésre akkor kerülhet sor, ha az ügyletet a hatóság az uniós jogi aktusban, illetve az ENSZ BT határozatban meghatározottak szerint mentesíti a tilalom alól.
 
@@ -139,12 +139,12 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (4) A hatóság
 
-- a) a kérelem benyújtásáról értesíti az adópolitikáért felelős minisztert,
+- a) a kérelem benyújtásáról értesíti a minisztert,
 - b) amennyiben a pénzügyi és vagyoni korlátozó intézkedés vonatkozásában azt ENSZ BT határozat előírja, haladéktalanul tájékoztatja – a külpolitikáért felelős miniszter útján – az ENSZ BT illetékeseit.
 
 (5) A hatóság harminc napon belül megvizsgálja a mentesítési kérelmet és dönt az uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján és szempontoknak megfelelően. A hatóság eljárására az általános közigazgatási rendtartásról szóló törvény szabályai irányadóak.
 
-(6) A hatóság az uniós jogi aktusban rögzített esetekben a határozatát megküldi az adópolitikáért felelős miniszter részére, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
+(6) A hatóság az uniós jogi aktusban rögzített esetekben a határozatát megküldi a miniszter részére, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
 
 #### 5. A pénzeszközök átutalására vonatkozó korlátozó intézkedések végrehajtása
 
@@ -160,7 +160,7 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (6) Ha a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az (5) bekezdésben előírt határidőn belül nem hoz döntést, az engedélyt megadottnak kell tekinteni.
 
-(7) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az általa kiadott előzetes engedélyekről tájékoztatja az adópolitikáért felelős minisztert, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
+(7) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az általa kiadott előzetes engedélyekről tájékoztatja a minisztert, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
 
 (8) Ha az uniós jogi aktus, illetve az ENSZ BT határozat pénzeszközök átutalására vonatkozó korlátozó intézkedést rendel el, az (1) bekezdés szerinti szolgáltató köteles a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt ügyfél-átvilágítási és nyilvántartási kötelezettségének eleget tenni, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben rögzített bejelentési kötelezettségét proliferáció-finanszírozásra utaló adat, tény, körülmény felmerülése esetén is köteles az ott meghatározott szabályok szerint teljesíteni.
 
@@ -240,7 +240,7 @@ a 4. § (1) bekezdésében és a 16. § (1) bekezdésében foglalt adatokat igé
 
 rendeletben jelölje ki.
 
-(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés f), h), j) és k) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés f), h), j) és k) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben állapítsa meg a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés a)–e) és m) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
 

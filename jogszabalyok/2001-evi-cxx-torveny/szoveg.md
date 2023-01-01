@@ -255,7 +255,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (3) E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában az „Európai Unió”, illetőleg az „Európai Unió tagállama” vagy a „tagállam” kifejezés alatt az Európai Gazdasági Térséget, illetőleg az Európai Gazdasági Térségről szóló megállapodásban részes más államot is érteni kell.
 
-## MÁSODIK RÉSZ — AZ ÉRTÉKPAPÍROK ELŐÁLLÍTÁSAÉS FORGALOMBA HOZATALA
+## MÁSODIK RÉSZ — AZ ÉRTÉKPAPÍROK ELŐÁLLÍTÁSA
+
+ÉS FORGALOMBA HOZATALA
 
 ### III. Fejezet — AZ ÉRTÉKPAPÍROK ELŐÁLLÍTÁSA
 
@@ -418,7 +420,7 @@ együtt kell alkalmazni.
 
 18. § Zártkörű forgalomba hozatallal kapcsolatban készített bármely írásos dokumentumban feltűnő módon fel kell tüntetni a forgalomba hozatal zártkörű voltát.
 
-19. §
+#### 19. §
 
 ### Az értékpapírok nyilvános forgalomba hozatala
 
@@ -467,7 +469,7 @@ foglalt szabályokat kell megfelelően alkalmazni.
 
 (13) Értékpapír szervezett kereskedési rendszerbe történő regisztrációja esetén a (6)–(12) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
 
-22. §
+#### 22. §
 
 23. § (1) Értékpapír nyilvános forgalomba hozatalának előkészítésével és lebonyolításával a kibocsátó, illetve az ajánlattevő a Bszt. 5. § (1) bekezdés f) vagy g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozást, hitelintézetet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) köteles megbízni, kivéve, ha
 
@@ -499,11 +501,11 @@ foglalt szabályokat kell megfelelően alkalmazni.
 
 (2) Az (1) bekezdés szerinti esetben a befektetőknek okozott kárért a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen felel.
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 29. § (1) A tájékoztatóban, minimum tájékoztatóban vagy azok bármely kiegészítésében adott információért való felelősségért, és ezzel összefüggésben az értékpapír tulajdonosának okozott kár megtérítéséért a kibocsátó vagy annak Ptk. szerinti igazgatósága, Ptk. szerinti ügyvezetője, illetve Ptk. szerinti felügyelő bizottsága, a forgalmazó (forgalmazási konzorcium esetében a vezető forgalmazó), az értékpapírban foglalt jogokért kezességet (garanciát) vállaló személy, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személy felel, és ez a felelősség a tájékoztató közzétételétől számított öt évig terheli. E felelősség érvényesen nem zárható ki és nem korlátozható. A tájékoztatóban, minimum tájékoztatóban pontosan, egyértelműen azonosítható módon meg kell jelölni annak a személynek a nevét vagy megnevezését, a forgalomba hozatalban betöltött szerepét, valamint lakcímét vagy székhelyét, aki vagy amely a tájékoztató, a minimum tájékoztató vagy azok valamely része tartalmáért felel. A tájékoztatóban, minimum tájékoztatóban foglalt minden információra, illetve az információ hiányára is ki kell terjednie valamely személy felelősségvállalásának.
 
@@ -514,11 +516,11 @@ foglalt szabályokat kell megfelelően alkalmazni.
 - a) az félrevezető, pontatlan vagy a tájékoztatóban foglalt információnak nem megfelelő információt tartalmaz, vagy
 - b) – a tájékoztatóban foglalt információkkal összevetve – nem tartalmaz kiemelt információkat annak érdekében, hogy segítsen a befektetőknek megállapítani, érdemes-e befektetniük az adott értékpapírokba.
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
 33. § (1)
 
@@ -526,35 +528,37 @@ foglalt szabályokat kell megfelelően alkalmazni.
 
 (3)
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-43/A. §
+#### 43/A. §
 
 ### Egyes értékpapírokra vonatkozó sajátos szabályok
 
-44. § (1) Állampapír vagy az Európai Unió tagállama által garantált értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése esetén – ha a forgalomba hozatalra, illetve a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 2. számú mellékletben meghatározott tartalmú ismertetőt és nyilvános ajánlattételt kell közzétenni.
+44. § (1) Állampapír vagy az Európai Unió tagállama által garantált értékpapír, vagy az Európai Unió tagállamának központi bankja által kibocsátott hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése esetén – ha a forgalomba hozatalra, illetve a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 2. számú mellékletben meghatározott tartalmú ismertetőt és nyilvános ajánlattételt kell közzétenni.
 
 (2) Az ismertető az állampapírok forgalomba hozatalával és forgalmazásával kapcsolatos általános feltételeket és szabályokat tartalmazza. Az ismertetőt a Felügyelethez tájékoztatásul előzetesen be kell nyújtani. Az ismertető teljes szövegét a (6) bekezdésben meghatározottak szerint nyilvánosságra kell hozni, valamint a forgalmazási helyeken megtekintésre a befektetők számára rendelkezésre kell bocsátani.
 
 (3) A nyilvános ajánlattétel az értékesítésre felajánlott értékpapír feltételeit és adatait, valamint a forgalomba hozatalra vonatkozó adatokat tartalmazza. A nyilvános ajánlattételt a kibocsátónak – befektetési szolgáltató igénybevétele esetén a forgalomba hozatalban közreműködő befektetési szolgáltatóval együttesen – kell legkésőbb a forgalomba hozatal napját megelőző három munkanappal közzétenni a (6) bekezdésben meghatározott helyen. A kibocsátási árat – amennyiben az előzetesen meghatározásra kerül – a nyilvános ajánlattételben vagy legkésőbb a forgalomba hozatal napját megelőző munkanapon a hirdetménnyel megegyező módon kell közzétenni.
+
+(3a) A (3) bekezdésben foglalt rendelkezéseket nem kell alkalmazni az Európai Unió tagállamának központi bankja által kibocsátott hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése esetében.
 
 (4) Állampapír nyilvános forgalomba hozatala kibocsátási program keretében is történhet. A kibocsátási program keretében különböző fajta állampapírok is forgalomba hozhatók, illetőleg különböző forgalomba hozatali módok alkalmazhatók.
 
@@ -642,9 +646,9 @@ foglalt szabályokat kell megfelelően alkalmazni.
 
 (6) Az (5) bekezdésben hivatkozott kibocsátó az ott meghatározott közzétételeit a Felügyelet által üzemeltetett információtárolási rendszeren és a Felügyelet által elfogadott nyelven köteles közzétenni.
 
-52/A. §
+#### 52/A. §
 
-53. §
+#### 53. §
 
 ### Rendszeres tájékoztatás
 
@@ -905,7 +909,7 @@ az auditbizottság feladatkörét az igazgatótanács vagy a felügyelőbizotts�
 
 (9) Az e törvényben meghatározott bejelentési és közzétételi kötelezettség nem érinti a Ptk. jogi személyekre vonatkozó rendelkezéseiben meghatározott bejelentési és közzétételi kötelezettségeket.
 
-64. §
+#### 64. §
 
 ## HARMADIK RÉSZ — BEFOLYÁSSZERZÉS NYILVÁNOSAN MŰKÖDŐ RÉSZVÉNYTÁRSASÁGBAN
 
@@ -940,7 +944,9 @@ kell figyelembe venni.
 
 (5) A csoport tagja a nyilvánosan működő részvénytársaságban való befolyásszerzését – tekintet nélkül annak mértékére – az anyavállalat részére haladéktalanul, de legkésőbb a befolyásszerzéstől számított két napon belül köteles bejelenteni. Az anyavállalat haladéktalanul, de legkésőbb két napon belül értesíti a csoport azon tagjait, amelyek a 68. § (2) bekezdés d) pontja alapján nyilvános vételi ajánlatot kötelesek tenni.
 
-### Hatáskörrel rendelkező felügyeletés az alkalmazandó jog
+### Hatáskörrel rendelkező felügyelet
+
+és az alkalmazandó jog
 
 66. § (1) Ha a céltársaság részvényei több tagállam szabályozott piacára be vannak vezetve, a vételi ajánlat felügyeletét azon tagállam felügyeleti hatósága látja el, amely területén működő szabályozott piacra a társaság részvényeit legkorábban vezették be.
 
@@ -956,7 +962,7 @@ kell figyelembe venni.
 
 a székhely szerinti ország jogszabályai az irányadóak.
 
-67. §
+#### 67. §
 
 ### Befolyásszerzés kötelező nyilvános vételi ajánlat útján
 
@@ -1241,21 +1247,137 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ## NEGYEDIK RÉSZ
 
-81–107/A. §
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 94/A. §
+
+#### 94/B. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 101/A. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 107/A. §
 
 ## ÖTÖDIK RÉSZ — A BEFEKTETÉSI SZOLGÁLTATÓK ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓK MŰKÖDÉSI TEVÉKENYSÉGI SZABÁLYAI
 
 ### X. Fejezet
 
-108–112. §
+#### 108. §
+
+#### 108/A. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
 
 ### XI. Fejezet
 
-113–114. §
+#### 113. §
+
+#### 114. §
 
 ### XII. Fejezet
 
-115–137. §
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
+
+#### 137. §
 
 ### XIII. Fejezet — AZ ÉRTÉKPAPÍROK SZÁMLÁN TÖRTÉNŐ FORGALMAZÁSA
 
@@ -1399,7 +1521,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (5) A kibocsátó és a Felügyelet jogosult a hitelviszonyt megtestesítő értékpapírok esetén a tulajdonosi megfeleltetés alapján rendelkezésre álló adatokat az Országos Betétbiztosítási Alapnak átadni.
 
-150. §
+#### 150. §
 
 ### Részvényesi meghatalmazott (nominee)
 
@@ -1464,25 +1586,39 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (4) A befektetési hitelt nyújtónak a hitelnyújtásra vonatkozó döntés előtt meg kell győződnie a szükséges fedezet, illetőleg biztosíték meglétéről, azok valós értékéről és érvényesíthetőségéről. A döntés alapjául szolgáló iratokat az ügyletre vonatkozó szerződéssel együtt kell őrizni.
 
-157. §
+#### 157. §
 
-157/A. §
+#### 157/A. §
 
 ### Ügyfélvédelem
 
-157/B. §
+#### 157/B. §
 
 ### Halasztott pénzügyi teljesítés
 
-158–159. §
+#### 158. §
+
+#### 159. §
 
 ### Kiszervezés
 
-160. §
+#### 160. §
 
 ### XVII. Fejezet
 
-161–167. §
+#### 161. §
+
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
+
+#### 166. §
+
+#### 167. §
 
 ### XVIII. Fejezet — ÉRTÉKPAPÍR KÖLCSÖNZÉS
 
@@ -1514,79 +1650,135 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### XIX. Fejezet
 
-172. §
+#### 172. §
 
-172/A. §
+#### 172/A. §
 
-173. §
+#### 173. §
 
-174. §
+#### 174. §
 
-175–177. §
+#### 175. §
 
-177/A. §
+#### 176. §
 
-178. §
+#### 177. §
+
+#### 177/A. §
+
+#### 178. §
 
 ### Nyilvánosságra hozatal
 
-178/A. §
+#### 178/A. §
 
-179. §
+#### 179. §
 
-180–181. §
+#### 180. §
+
+#### 181. §
 
 ### XIX/A. Fejezet — Összevont alapú felügyelet
 
 ### A befektetési vállalkozások összevont alapú felügyelete
 
-181/A. §
+#### 181/A. §
 
-181/B. §
+#### 181/B. §
 
 ### Az összevont alapú felügyelet alá tartozó befektetési vállalkozás prudens működése
 
-181/C. §
+#### 181/C. §
 
 ### Az összevont alapú felügyelet alá tartozó befektetési vállalkozás kockázatvállalása és tőkemegfelelése
 
-181/D. §
+#### 181/D. §
 
 ### A prudens működésre vonatkozó előírásoknak való összevont alapú megfelelés számítása során alkalmazható módszerek
 
-181/E. §
+#### 181/E. §
 
-181/F. §
+#### 181/F. §
 
 ### Bejelentési kötelezettség
 
-181/G. §
+#### 181/G. §
 
 ### Felügyeleti ellenőrzés
 
-181/H. §
+#### 181/H. §
 
 ### A Felügyelet nemzetközi együttműködése más országok felügyeleti hatóságaival az összevont alapú felügyelet tekintetében
 
-181/I. §
+#### 181/I. §
 
-181/J. §
+#### 181/J. §
 
-181/K. §
+#### 181/K. §
 
 ### XIX/B. Fejezet
 
-181/L–181/X. §
+#### 181/L. §
+
+#### 181/M. §
+
+#### 181/N. §
+
+#### 181/O. §
+
+#### 181/P. §
+
+#### 181/Q. §
+
+#### 181/R. §
+
+#### 181/S. §
+
+#### 181/T. §
+
+#### 181/U. §
+
+#### 181/V. §
+
+#### 181/W. §
+
+#### 181/X. §
 
 ### XX. Fejezet
 
-182. §
+#### 182. §
 
-183–187. §
+#### 183. §
 
-188–197. §
+#### 184. §
 
-198. §
+#### 185. §
+
+#### 186. §
+
+#### 187. §
+
+#### 188. §
+
+#### 189. §
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
+
+#### 193. §
+
+#### 194. §
+
+#### 195. §
+
+#### 196. §
+
+#### 197. §
+
+#### 198. §
 
 ## HATODIK RÉSZ — A BENNFENTES KERESKEDELEM, A PIACBEFOLYÁSOLÁS ÉS A BENNFENTES INFORMÁCIÓ JOGOSULATLAN KÖZZÉTÉTELE
 
@@ -1715,13 +1907,13 @@ a rendkívüli tájékoztatásra vonatkozó rendelkezéseit is megfelelően alka
 
 ### XXIII. Fejezet — A BEFEKTETŐK VÉDELMÉNEK EGYES SZABÁLYAI
 
-207. §
+#### 207. §
 
-208. §
+#### 208. §
 
 ### Ügyfél-követelések védelme
 
-209. §
+#### 209. §
 
 ### XXIV. Fejezet — BEFEKTETŐ-VÉDELMI ALAP
 
@@ -1920,7 +2112,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 - c) a tag halálával; vagy
 - d) – az ügyvezető igazgató kivételével – lemondással.
 
-(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt és legalább egy alelnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
@@ -2099,7 +2291,159 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (2) A KCGE tekintetében nincs helye kényszertörlési eljárásnak a Ctv. 116. § (1) bekezdés a) és b) pontjában meghatározott esetekben.
 
-239–296. §
+#### 239. §
+
+#### 240. §
+
+#### 240/A. §
+
+#### 241. §
+
+#### 242. §
+
+#### 242/A. §
+
+#### 242/B. §
+
+#### 242/C. §
+
+#### 242/D. §
+
+#### 242/E. §
+
+#### 242/F. §
+
+#### 242/G. §
+
+#### 243. §
+
+#### 244. §
+
+#### 245. §
+
+#### 246. §
+
+#### 247. §
+
+#### 248. §
+
+#### 248/A. §
+
+#### 249. §
+
+#### 250. §
+
+#### 251. §
+
+#### 252. §
+
+#### 252/A. §
+
+#### 253. §
+
+#### 254. §
+
+#### 255. §
+
+#### 256. §
+
+#### 257. §
+
+#### 258. §
+
+#### 259. §
+
+#### 260. §
+
+#### 261. §
+
+#### 262. §
+
+#### 263. §
+
+#### 264. §
+
+#### 265. §
+
+#### 266. §
+
+#### 266/A. §
+
+#### 266/B. §
+
+#### 266/C. §
+
+#### 266/D. §
+
+#### 267. §
+
+#### 268. §
+
+#### 269. §
+
+#### 270. §
+
+#### 270/A. §
+
+#### 271. §
+
+#### 272. §
+
+#### 273. §
+
+#### 274. §
+
+#### 275. §
+
+#### 276. §
+
+#### 277. §
+
+#### 278. §
+
+#### 279. §
+
+#### 279/A. §
+
+#### 280. §
+
+#### 280/A. §
+
+#### 281. §
+
+#### 282. §
+
+#### 283. §
+
+#### 284. §
+
+#### 285. §
+
+#### 285/A. §
+
+#### 286. §
+
+#### 287. §
+
+#### 288. §
+
+#### 289. §
+
+#### 289/A. §
+
+#### 290. §
+
+#### 291. §
+
+#### 292. §
+
+#### 293. §
+
+#### 294. §
+
+#### 295. §
+
+#### 296. §
 
 ## NYOLCADIK/A. RÉSZ — A KÖZÖSSÉGI FINANSZÍROZÁSRA VONATKOZÓ SZABÁLYOK
 
@@ -2113,7 +2457,35 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (4) A platform szintű, kiemelt befektetési információkat tartalmazó adatlapon szereplő információk más nyelvre fordításában történt hibával okozott kárért a közösségi finanszírozási szolgáltató és a fordításért felelős személy egyetemlegesen felel.
 
-296/C–296/Q. §
+#### 296/C. §
+
+#### 296/D. §
+
+#### 296/E. §
+
+#### 296/F. §
+
+#### 296/G. §
+
+#### 296/H. §
+
+#### 296/I. §
+
+#### 296/J. §
+
+#### 296/K. §
+
+#### 296/L. §
+
+#### 296/M. §
+
+#### 296/N. §
+
+#### 296/O. §
+
+#### 296/P. §
+
+#### 296/Q. §
 
 ## KILENCEDIK RÉSZ — A TŐZSDE
 
@@ -2261,7 +2633,9 @@ tevékenység.
 - f) olyan körülmény áll fenn, amely miatt a tőzsde működése súlyosan veszélyezteti vagy sérti a befektetők, illetve a tőzsdei kereskedők érdekeit, akadályozza a pénz- és tőkepiac megfelelő működését;
 - g) a fióktelep formában működő tőzsde létesítőjének tevékenységi engedélyét a székhely szerinti felügyeleti hatóság visszavonta.
 
-### XXXIV. Fejezet — A TŐZSDE TULAJDONOSAIRAÉS A TULAJDONSZERZÉSRE VONATKOZÓ SZABÁLYOK
+### XXXIV. Fejezet — A TŐZSDE TULAJDONOSAIRA
+
+ÉS A TULAJDONSZERZÉSRE VONATKOZÓ SZABÁLYOK
 
 307. § (1) Zártkörűen működő részvénytársaságként működő tőzsde alapszabálya előírhatja az egy tulajdonos által gyakorolható szavazati jog legmagasabb mértékét.
 
@@ -2723,7 +3097,13 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (6) A befektetők érdekeit vagy a piac szabályos működését jelentősen sértő körülmények meghatározása a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 80. cikkében foglaltak figyelembevételével történik.
 
-326–329. §
+#### 326. §
+
+#### 327. §
+
+#### 328. §
+
+#### 329. §
 
 ### XXXIX. Fejezet — A TŐZSDE GAZDÁLKODÁSA, BEFEKTETÉSI KORLÁTOZÁSOK
 
@@ -2767,7 +3147,9 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (2) A tőzsde bejelentési kötelezettségét a döntés meghozatalát, az esemény bekövetkeztét követő öt napon belül teljesíti.
 
-### XLI. Fejezet — A TŐZSDEI TEVÉKENYSÉG FOLYTATÁSÁNAK MEGSZŰNÉSE
+### XLI. Fejezet — A TŐZSDEI TEVÉKENYSÉG FOLYTATÁSÁNAK
+
+MEGSZŰNÉSE
 
 333. § (1) Tőzsde felszámolójának vagy végelszámolójának a bíróság kizárólag a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki. Tőzsde felszámolása esetén az eljárás felfüggesztésének nincs helye.
 
@@ -2910,19 +3292,19 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 347. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett – ennek hiányában a miniszter segítésére kijelölt – minisztérium ellátja az (EU) 2021/23 európai parlamenti és tanácsi rendelet 3. cikk (8) bekezdése szerinti minisztériumi feladatokat.
 
-348. §
+348. § A központi szerződő fél közgyűlése legalább kétharmados szótöbbséggel határozhat arról, vagy módosíthatja az alapszabályt úgy, hogy az alaptőke felemeléséről határozó közgyűlést annak napját megelőzően legalább tíz nappal össze lehessen hívni az (EU) 2021/23 rendelet 18. cikke szerinti intézkedés elrendelésének vagy a 22. cikke szerinti szanálási feltételek teljesülésének elkerülése érdekében.
 
-349. §
+#### 349. §
 
-350. §
+#### 350. §
 
-351. §
+#### 351. §
 
-352. §
+#### 352. §
 
-353. §
+#### 353. §
 
-354. §
+#### 354. §
 
 ## TIZENEGYEDIK RÉSZ — A TŐKEPIACON TEVÉKENYSÉGET FOLYTATÓ SZERVEZETEKRE VONATKOZÓ KÖZÖS SZABÁLYOK
 
@@ -2993,7 +3375,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (7) Az (1) bekezdésben foglaltakon túlmenően további követelmény a könyvvizsgáló céggel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy intézménytől származó bevétele nem haladhatja meg az éves nettó árbevételének tíz százalékát. A könyvvizsgáló cégnek az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátótól, hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól, befektetési alapkezelőtől, tőzsdétől, központi szerződő féltől, valamint központi értéktártól és a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített bevétele nem haladhatja meg az éves nettó árbevételének harminc százalékát.
 
-359. §
+#### 359. §
 
 360. § (1) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó, a tőzsde, a központi szerződő fél, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
 
@@ -3013,7 +3395,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a tőzsdét, a központi szerződő felet, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátóját, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdés d) pontjában meghatározott intézkedésként a tőzsde, a központi szerződő fél, a szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír kibocsátója, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, kibocsátói, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
 
-362. §
+#### 362. §
 
 363. § (1) A tőzsde, a központi szerződő fél, illetve a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
 
@@ -3025,11 +3407,11 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 364. § Az a szervezet, amely e törvény által szabályozott tevékenységet folytat, üzleti dokumentumaiban, írott formában (nyomtatott vagy elektronikus módon) megjelentetett kereskedelmi kommunikációjában köteles feltüntetni tevékenységi engedélyének számát, illetőleg tőzsdetagságát.
 
-365. §
+#### 365. §
 
-366. §
+#### 366. §
 
-367. §
+#### 367. §
 
 ### Titoktartás
 
@@ -3051,7 +3433,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (3) Az (1) bekezdésben meghatározott szervezeteknek a Bszt. értékpapírtitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-370. §
+#### 370. §
 
 371. § (1) Aki üzleti vagy értékpapír-titok birtokába jut, köteles azt – törvény eltérő rendelkezése hiányában – időbeli korlátozás nélkül megtartani.
 
@@ -3079,17 +3461,17 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 ### LII. Fejezet
 
-376. §
+#### 376. §
 
 ## TIZENKETTEDIK RÉSZ — A TŐKEPIAC ÉS A TŐKEPIACON TEVÉKENYSÉGET FOLYTATÓ INTÉZMÉNYEK, SZEMÉLYEK FELÜGYELETE
 
 ### LIII. Fejezet — A FELÜGYELETRE VONATKOZÓ SZABÁLYOK
 
-377. §
+#### 377. §
 
-378. §
+#### 378. §
 
-379. §
+#### 379. §
 
 ### A felügyeleti díj
 
@@ -3117,11 +3499,17 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (6)
 
-382–385. §
+#### 382. §
 
-386. §
+#### 383. §
 
-387. §
+#### 384. §
+
+#### 385. §
+
+#### 386. §
+
+#### 387. §
 
 ### LIV. Fejezet — A FELÜGYELET ELJÁRÁSA
 
@@ -3137,9 +3525,9 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (5) A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a Felügyelet nyolc napon belül a Cégközlönyben közzéteszi.
 
-390. §
+#### 390. §
 
-390/A. §
+#### 390/A. §
 
 ### A Felügyelet nyilvántartásai
 
@@ -3279,7 +3667,7 @@ kell eleget tenni.
 
 ### Felügyeleti felülvizsgálat és értékelés
 
-395/A. §
+#### 395/A. §
 
 ### LV. Fejezet — A szanálásra vonatkozó eljárási szabályok
 
@@ -3407,7 +3795,9 @@ nincs helye.
   - ba) jogi személy esetében legfeljebb a döntéshozó szerv által jóváhagyott utolsó rendelkezésre álló pénzügyi beszámoló szerinti előző teljes éves árbevételének legfeljebb 10 százaléka azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
   - bb) természetes személy esetében legfeljebb 1 783 800 000 forint.
 
-### LVI. Fejezet — A FELÜGYELETI INTÉZKEDÉSEKÉS A FELÜGYELETI BÍRSÁG
+### LVI. Fejezet — A FELÜGYELETI INTÉZKEDÉSEK
+
+ÉS A FELÜGYELETI BÍRSÁG
 
 ### Felügyeleti intézkedések, szankciók
 
@@ -3427,7 +3817,7 @@ nincs helye.
 
 gyakorolt hatásának, veszélyességi fokának figyelembevételével választja ki és alkalmazza.
 
-399/A. §
+#### 399/A. §
 
 400. § (1) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
@@ -3668,7 +4058,7 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 
 ### A bírság összege
 
-406. §
+#### 406. §
 
 ### LVI/A. Fejezet — ELJÁRÁS A FOGYASZTÓKKAL SZEMBENI KERESKEDELMI GYAKORLATRA VONATKOZÓ RENDELKEZÉSEK MEGSÉRTÉSE ESETÉN
 
@@ -3690,7 +4080,7 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 
 (5) Az Áttv., a Bat., valamint az Épt. előírásait kell alkalmazni, ha a felügyeleti intézkedés kiszabására okot adó esemény e törvény hatálybalépése előtt következett be.
 
-407/A. §
+#### 407/A. §
 
 ### Átmeneti rendelkezések
 
@@ -3732,7 +4122,7 @@ alakul át.
 
 (7) Az (1) bekezdésben meghatározott személyek tekintetében az Alap a Nemzeti Adó- és Vámhivatal felé fennálló, a munkáltató vagy kifizető által foglalkoztatott biztosítottak adataira vonatkozó jelentéstételi és változás-bejelentési kötelezettségének a munkaviszony létesítésétől számított 8 munkanapon belül tehet eleget.
 
-414. §
+#### 414. §
 
 415. § (1) A 217. § (2) bekezdésében meghatározott kártalanítási összeghatár 2004. december 31-ig egymillió forint, 2005. január 1-jétől 2007. december 31-ig pedig kettőmillió forint. A kártalanítási összeghatár megállapításánál a felszámolási eljárás kezdő napját kell figyelembe venni.
 
@@ -3753,7 +4143,7 @@ alakul át.
 
 (3) A törvény 11. számú mellékletének 1–4. pontjában meghatározott személynek a külön jogszabályban előírt vizsga letételét 2007. június 30-ig kell a Felügyeletnek igazolni.
 
-417. §
+#### 417. §
 
 418. § (1) Az e törvény alapján működő tőzsdének nem kell a társasági adót és a helyi iparűzési adót megfizetnie utoljára arra az adóévre vonatkozóan, amelynek utolsó napja 2006. évben van.
 
@@ -3773,9 +4163,27 @@ alakul át.
 
 (2)
 
-421–423. §
+#### 421. §
 
-424–431. §
+#### 422. §
+
+#### 423. §
+
+#### 424. §
+
+#### 425. §
+
+#### 426. §
+
+#### 427. §
+
+#### 428. §
+
+#### 429. §
+
+#### 430. §
+
+#### 431. §
 
 432. § (1) Az átalakulással létrejövő részvénytársaság az átalakult tőzsde jogutódja. A jogutód részvénytársaságot illetik meg a tőzsde jogai és terhelik a tőzsde kötelezettségei.
 
@@ -3795,9 +4203,9 @@ alakul át.
 
 (19)
 
-435. §
+#### 435. §
 
-436. §
+#### 436. §
 
 437. § (1)–(10)
 
@@ -3809,7 +4217,9 @@ alakul át.
 
 (16)–(26)
 
-438–439. §
+#### 438. §
+
+#### 439. §
 
 440. § (1)–(7)
 
@@ -3819,11 +4229,15 @@ alakul át.
 
 (2)–(4)
 
-442. §
+#### 442. §
 
-443. §
+#### 443. §
 
-444–446. §
+#### 444. §
+
+#### 445. §
+
+#### 446. §
 
 447. § (1)
 
@@ -3831,7 +4245,7 @@ alakul át.
 
 (3)–(4)
 
-448. §
+#### 448. §
 
 449. § Ahol a hatálybalépés előtt kihirdetett jogszabály az 1996. évi CXI. törvényre vagy az Épt.-re, az 1994. évi XXXIX. törvényre vagy az Áttv.-re, illetőleg az 1991. évi LXIII. törvényre vagy a Bat.-ra utal, azon e törvényt kell érteni.
 
@@ -4197,7 +4611,9 @@ f) Az értékpapír-sorozatok tőzsdei bevezetése esetén a tájékoztató tart
 
 A nemzetközi pénzügyi intézmény értékpapírjának magyar tőzsdére való bevezetésének előzetes engedélyezésekor a tájékoztató megjelölés helyett a 7. számú mellékletben szereplő ismertetőt kell érteni.
 
-### 5–6. számú melléklet a 2001. évi CXX. törvényhez
+### 5. számú melléklet a 2001. évi CXX. törvényhez
+
+### 6. számú melléklet a 2001. évi CXX. törvényhez
 
 ### 7. számú melléklet a 2001. évi CXX. törvényhez
 
@@ -4302,11 +4718,27 @@ III. Gazdasági tevékenységről szóló jelentés
 
 ### 10. számú melléklet a 2001. évi CXX. törvényhez
 
-### 11–13. számú melléklet a 2001. évi CXX. törvényhez
+### 11. számú melléklet a 2001. évi CXX. törvényhez
+
+### 12. számú melléklet a 2001. évi CXX. törvényhez
+
+### 13. számú melléklet a 2001. évi CXX. törvényhez
 
 ### 14. számú melléklet a 2001. évi CXX. törvényhez
 
-### 15–21. számú melléklet a 2001. évi CXX. törvényhez
+### 15. számú melléklet a 2001. évi CXX. törvényhez
+
+### 16. számú melléklet a 2001. évi CXX. törvényhez
+
+### 17. számú melléklet a 2001. évi CXX. törvényhez
+
+### 18. számú melléklet a 2001. évi CXX. törvényhez
+
+### 19. számú melléklet a 2001. évi CXX. törvényhez
+
+### 20. számú melléklet a 2001. évi CXX. törvényhez
+
+### 21. számú melléklet a 2001. évi CXX. törvényhez
 
 ### 22. számú melléklet a 2001. évi CXX. törvényhez
 

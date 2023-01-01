@@ -1175,25 +1175,25 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 123. § (1) Ha a 122. § (6) bekezdése szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság jogszabályban kijelölt központi beszerző szerv bevonásával jár el, vagy a közbeszerzésekről szóló törvény szabályai alapján választja ki az eljárásban közreműködő szervezetet.
 
-(2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezetek közül véletlenszerű kiválasztással három közreműködő szervezetet jelöl ki ajánlattételre
+(2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezeteket – az elvégzendő feladatot tartalmazó műszaki leírás megküldése mellett – elektronikusan értesíti a feladatról, és ajánlattételre hívja fel azokat.
 
-a (3)–(8) bekezdésben foglaltak szerint.
+(3) Az ajánlattételre felhívott közreműködő szervezet 30 napon belül tehet ajánlatot a műszaki leírásban szereplő feladat elvégzésére. E határidő jogvesztő. Amennyiben a határidőn belül nem érkezik érvényes ajánlat, úgy a közreműködő szervezet kiválasztására e § (11) bekezdésében foglaltak szerint kerül sor.
 
-(3) A közreműködő szervezetek névjegyzékébe minden Magyarország területén gazdasági tevékenységet folytató személy és szervezet (a továbbiakban együtt: szervezet) felvehető, ha a névjegyzékbe való felvételre vonatkozó kérelem előterjesztésekor szerepel a köztartozásmentes adózói adatbázisban. Ha az adóhatóság a köztartozásmentes adózói adatbázisból törli a közreműködő szervezetet, egyúttal törli a névjegyzékből is.
+(4) Az ajánlatnak tartalmaznia kell a közreműködés díját, amely minden járulékos költséget is magában foglal. Az ajánlatban fel kell tüntetni a közreműködés módját, helyét és időpontját.
 
-(4) A névjegyzék nyilvános, azt az állami adó- és vámhatóság negyedévente honlapján közzéteszi.
+(5) Az ajánlattételi határidő leteltét követően az állami adó- és vámhatóság a beérkezett ajánlatok alapján végzéssel azt az ajánlatot adó szervezetet jelöli ki a cselekmény elvégzésére, amelyik ajánlata alapján a meghatározott cselekmény végrehajtása az adós számára a legkisebb költség felszámításával jár. A végzésnek tartalmaznia kell a kijelölt szervezetet és a közreműködés várható díját is.
 
-(5) A (2) bekezdés szerinti esetben az ajánlattétel érdekében az állami adó- és vámhatóság az ajánlattételre kijelölteket megkeresi, hogy 30 napon belül adjanak árajánlatot a közreműködés díjára, amely minden járulékos költséget is magába foglal. Az ajánlatban fel kell tüntetni a közreműködés jellegét, helyét és időpontját.
+(6) A közreműködő szervezetek névjegyzékébe minden Magyarország területén gazdasági tevékenységet folytató személy és szervezet (a továbbiakban együtt: szervezet) felvehető, ha a névjegyzékbe való felvételre vonatkozó kérelem előterjesztésekor szerepel a köztartozásmentes adózói adatbázisban. Ha az adóhatóság a köztartozásmentes adózói adatbázisból törli a közreműködő szervezetet, egyúttal törli a névjegyzékből is.
 
-(6) Az ajánlattételek alapján az állami adó- és vámhatóság végzéssel azt az ajánlatot adó szervezetet jelöli ki, amelyik ajánlata alapján a meghatározott cselekmény végrehajtása az adós számára a legkisebb költség felszámításával jár. A végzésnek tartalmaznia kell a kijelölt szervezetet és a közreműködés várható díját is.
+(7) A névjegyzék nyilvános, azt az állami adó- és vámhatóság negyedévente honlapján közzéteszi.
 
-(7) A közreműködő szervezetek névjegyzékéből az adóhatóság törli azt a szervezetet, amely az ajánlattételi eljárásokban ismételten elmulasztotta az árajánlat benyújtását, vagy a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette. Az ilyen okból a névjegyzékből törlésre került szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
+(8) A közreműködő szervezetek névjegyzékéből az adóhatóság törli azt a szervezetet, amely a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette. Az ilyen okból a névjegyzékből törlésre került szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
 
-(8) A legmegfelelőbb ajánlatot tevő szervezet végzésben meghatározott közreműködésének módját a végrehajtást foganatosító adóhatóság felügyeli az eljárás során.
+(9) A legmegfelelőbb ajánlatot tevő szervezet végzésben meghatározott közreműködésének módját a végrehajtást foganatosító adóhatóság felügyeli az eljárás során.
 
-(9) Az (1) és (6) bekezdésben foglaltak szerint kiválasztott közreműködő szervezet végzi el a meghatározott cselekményt az adott cselekményre vonatkozó jogszabályok és szakmai előírások betartásával, ideértve az esetleg szükséges engedélyek beszerzését vagy bejelentések megtételét is.
+(10) Az (1) és (5) bekezdésben foglaltak szerint kiválasztott közreműködő szervezet végzi el a meghatározott cselekményt az adott cselekményre vonatkozó jogszabályok és szakmai előírások betartásával, ideértve az esetleg szükséges engedélyek beszerzését vagy bejelentések megtételét is.
 
-(10) Ha a közreműködő szervezetek névjegyzékében nem található a meghatározott cselekmény elvégzéséhez szükséges szakértelemmel rendelkező közreműködő szervezet, az állami adó- és vámhatóság bírósági vagy hatósági nyilvántartásból hív fel ajánlattételre legalább három olyan gazdálkodó szervezetet, amely a meghatározott cselekmény elvégzésére alkalmas. Az állami adó- és vámhatóság az adós számára a legkisebb költség felszámításával járó gazdálkodó szervezetet rendelheti ki.
+(11) Ha a közreműködő szervezetek névjegyzékében nem található a meghatározott cselekmény elvégzéséhez szükséges szakértelemmel rendelkező közreműködő szervezet, az állami adó- és vámhatóság bírósági vagy hatósági nyilvántartásból hív fel ajánlattételre legalább három olyan gazdálkodó szervezetet, amely a meghatározott cselekmény elvégzésére alkalmas. Az állami adó- és vámhatóság az adós számára a legkisebb költség felszámításával járó gazdálkodó szervezetet rendelheti ki.
 
 123/A. § (1) Ha a meghatározott cselekményt az állami adó- és vámhatóság felhívására a kötelezett önkéntesen teljesíti és a döntésben foglaltaknak megfelelő teljesítés megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, az állami adó- és vámhatóság a teljesítés ellenőrzésébe bevonhatja a behajtást kérő hatóságot. A behajtást kérő hatóság az állami adó- és vámhatóság felhívásától számított 15 napon belül nyilatkozik arról, hogy a teljesítés megfelel-e a meghatározott cselekményt előíró döntésben foglaltaknak. Ha a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, az adós önkéntes teljesítését a behajtást kérő hatóság által elfogadottnak kell tekinteni.
 
@@ -1255,7 +1255,7 @@ a (3)–(8) bekezdésben foglaltak szerint.
 
 (9) Ha a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság vagy a megállapított bűnügyi költség ideiglenesen eredménytelen végrehajtása állapítható meg, az állami adó- és vámhatóság az állam nevében felszámolási eljárást kezdeményez. Az eljárást kezdeményező kérelemben, illetve a hitelezői igény bejelentésekor köteles nyilatkozni arról, hogy a jogi személlyel szemben pénzbírságot szabtak ki, vagy a bűnügyi költség viselésére kötelezték, és ezen követelésekre vonatkozóan a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 79/D. §-a alapján hitelezői joggyakorlásra jogosult.
 
-(10) Ha a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság vagy a megállapított bűnügyi költség végrehajtása során az adós gazdálkodó szervezettel szemben felszámolási, csőd-, végelszámolási, kényszertörlési eljárás indul, az állami adó- és vámhatóság a Cstv. 79/A. § (2) bekezdésében meghatározott bűnügyi hitelezői igénybejelentés érvényesítése érdekében, a határozat megküldésével írásban értesíti a felszámolót, végelszámolót és a felszámolást, csődeljárást, végelszámolást, kényszertörlést elrendelő bíróságot. Az adóhatóság a hitelezői igény bejelentésekor köteles nyilatkozni arról, hogy a jogi személlyel szemben pénzbírságot szabtak ki, pénzösszegben kifejezett vagyonelkobzást alkalmaztak vagy a bűnügyi költség viselésére kötelezték, és ezen követelésekre vonatkozóan a Cstv. 79/D. §-a alapján hitelezői joggyakorlásra jogosult.
+(10) Ha a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság vagy a megállapított bűnügyi költség végrehajtása során az adós gazdálkodó szervezettel szemben felszámolási eljárás indul, az állami adó- és vámhatóság a Cstv. 79/A. § (2) bekezdésében meghatározott bűnügyi hitelezői igénybejelentés érvényesítése érdekében, a határozat megküldésével írásban értesíti a felszámolót és a felszámolást elrendelő bíróságot. Az adóhatóság a hitelezői igény bejelentésekor köteles nyilatkozni arról, hogy a jogi személlyel szemben pénzbírságot szabtak ki, pénzösszegben kifejezett vagyonelkobzást alkalmaztak vagy a bűnügyi költség viselésére kötelezték, és ezen követelésekre vonatkozóan a Cstv. 79/D. §-a alapján hitelezői joggyakorlásra jogosult.
 
 #### 57/B. A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmények végrehajtásának szabályai
 
@@ -1297,7 +1297,7 @@ a (3)–(8) bekezdésben foglaltak szerint.
 
 (3) Az állami adó- és vámhatóság a becsértéket közli az MNV Zrt.-vel, és nyilatkozattételre hívja fel arról, hogy a vagyonelkobzás végrehajtásának keretében az ingatlan tulajdonjogára vagy az értékesítéséből befolyt vételárra tart igényt az állam.
 
-(4) Ha az állam az ingatlan tulajdonjogára tart igényt, az állami adó- és vámhatóság a becsérték megállapításáról szóló döntés véglegessé válását követően a 125/C. § (4) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt.
+(4) Ha az állam az ingatlan tulajdonjogára tart igényt, az állami adó- és vámhatóság a becsérték végrehajtási kifogással már nem támadható megállapítását követően a 125/C. § (4) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt.
 
 (5) Ha a (4) bekezdésben meghatározott esetben,
 
@@ -1311,6 +1311,8 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 (7) Az (5) bekezdés, vagy a (6) bekezdés szerinti összeg beérkezését követően az állami adó- és vámhatóság intézkedik a tagállam, illetve a külföldi állam részére való átutalása iránt.
 
 (8) Ha az állam az ingatlan értékesítéséből befolyt vételárra tart igényt, az állami adó- és vámhatóság a pénzkövetelés behajtásának szabályai szerint folytatja az eljárást; és a végrehajtási költségek, valamint a jelzálogjoggal biztosított követelések kielégítése után fennmaradó pénzösszeg illeti meg az államot.
+
+(9) Ha a másik tagállamban vagy külföldi államban a vagyonelkobzást ingóságra rendelték el, az állami adó- és vámhatóság a végrehajtást e § ingatlanokra vonatkozó rendelkezéseinek megfelelő alkalmazásával foganatosítja.
 
 125/E. § (1) A büntetőeljárásban elrendelt zár alá vétel végrehajtása során az állami adó- és vámhatóság a X. fejezetben foglaltak szerint jár el az e §-ban meghatározott eltérésekkel, azzal, hogy az intézkedéseket haladéktalanul kell megtennie.
 

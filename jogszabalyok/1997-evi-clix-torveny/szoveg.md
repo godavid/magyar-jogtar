@@ -88,7 +88,7 @@ határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott ese
 - a) a (3) bekezdés a) és b) pontjában foglalt esetben tizenöt napon belül,
 - b) a (3) bekezdés c) pontjában foglalt esetben 24 órán belül
 
-nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes megyei (fővárosi) rendőr-főkapitányság ötszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki.
+nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság ötszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki.
 
 (4a) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a közigazgatási bírság ismételt kiszabását követően sem teljesíti a (3) bekezdés szerinti határozatban foglaltakat, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére – a rendőrség hajtja végre.
 
@@ -327,7 +327,7 @@ alkalmazhat, illetve használhat.
 
 (5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
-10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a Rendőrségről szóló törvény hatálya alá tartozó rendőri szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszerveivel, az önkormányzati és létesítményi tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal). Az atomenergia alkalmazása körében működő fegyveres biztonsági őrségek az Országos Atomenergia Hivatallal is együttműködnek.
+10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a Rendőrségről szóló törvény hatálya alá tartozó rendőri szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszerveivel, az önkormányzati és létesítményi tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal). Az atomenergia alkalmazása körében működő fegyveres biztonsági őrségek az Országos Atomenergia Hivatallal is együttműködnek.
 
 10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel- és levételének, valamint a fegyver átvételének és leadásának időtartamát.
 
@@ -468,7 +468,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (3) Az önkormányzati mezei őrszolgálat esetében, a mezőőri járulék adók módjára behajtandó köztartozásnak minősül. Az eljárásra az ingatlan fekvése szerinti települési önkormányzat jegyzője jogosult.
 
-(4) A mezőőri járulék összegének rendeltetési céltól eltérő felhasználása – a járulék teljes összege vagy annak teljesítményarányos része vonatkozásában – jogosulatlanul igénybe vett járuléknak minősül, és azt vissza kell fizetni. A mezőőri járulék felhasználásának törvényességi ellenőrzését a fővárosi és megyei kormányhivatal végzi. A megállapítás alapbizonylatai csak a költségként kimutatott és pénzügyileg rendezett kiadások lehetnek, amelyeket igazoló pénzügyi bizonylatokat az önkormányzatnak a pénzügyi bizonylat kiállítását követő ötödik év végéig meg kell őrizni.
+(4) A mezőőri járulék összegének rendeltetési céltól eltérő felhasználása – a járulék teljes összege vagy annak teljesítményarányos része vonatkozásában – jogosulatlanul igénybe vett járuléknak minősül, és azt vissza kell fizetni. A mezőőri járulék felhasználásának törvényességi ellenőrzését a fővárosi és vármegyei kormányhivatal végzi. A megállapítás alapbizonylatai csak a költségként kimutatott és pénzügyileg rendezett kiadások lehetnek, amelyeket igazoló pénzügyi bizonylatokat az önkormányzatnak a pénzügyi bizonylat kiállítását követő ötödik év végéig meg kell őrizni.
 
 19/A. § A 17. § (2) bekezdése szerinti nyilvántartás adatait és a 21. § (3) bekezdésében meghatározott adatokat a mezőgazdasági igazgatási szerv az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 

@@ -190,7 +190,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 - b) a víziközmű-szolgáltató olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása; vagy
 - c) a 73. § b) pontjában meghatározott esetkörön kívül, ha a lakossági felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
-(5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jár el.
+(5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) jár el.
 
 (6) Az (1), a (2) és az (5) bekezdés hatálya alá nem tartozó, a víziközmű-szolgáltatókkal szemben felmerülő panaszok esetében a Hivatal jár el.
 
@@ -863,7 +863,9 @@ alapul.
 
 (3) Kiszervezett tevékenységet kizárólag a nemzeti vagyonról szóló törvény szerinti átlátható gazdálkodó szervezet végezhet.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) A víziközmű-szolgáltató víziközmű-működtetés körébe nem tartozó tevékenysége (a továbbiakban: másodlagos tevékenység) nem veszélyeztetheti a víziközmű működtetését, a folyamatos, biztonságos és előírt színvonalú ellátást. Másodlagos tevékenységnek minősül különösen az elkülönített rendszerű csapadékvíz-elvezető rendszerek üzemeltetése, a fürdőüzemeltetés, vízvisszanyerő létesítmény üzemeltetése, a nem közműves szennyvízszállítási közszolgáltatás, a biogázüzem üzemeltetése, valamint az árvízvédelemmel kapcsolatos tevékenység.
 
@@ -1203,11 +1205,11 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (2) Az ellátásért felelős az érintett felhasználók átvétele, a víziközmű-szolgáltatás folyamatos biztosításához szükséges teendőkre való felkészülés céljából az (1) bekezdésben meghatározott, a felhasználó azonosításához szükséges adatot a 15. § (2) bekezdés szerinti üzemeltetési jogviszony létrejöttével egyidejűleg továbbítja a víziközmű-szolgáltató részére, amely adatot a víziközmű-szolgáltató az ellátási terület birtokba vételéig kezeli.
 
-(2a) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott víziközmű-szolgáltató köteles a felhasználó adatai változásának felhasználó általi bejelentését a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) szerinti adatváltozás-kezelési szolgáltatás keretében biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni.
+(2a) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott víziközmű-szolgáltató köteles a felhasználó adatai változásának felhasználó általi bejelentését a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Tkmtv.) szerinti adatváltozás-kezelési szolgáltatás keretében biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni.
 
-(2b) Az adatváltozás-kezelési szolgáltató a felhasználó rendelkezése alapján átadja a víziközmű-szolgáltatónak a Khtv. 20/T. § (2) bekezdés a) pontja, b) pont bc)–be) alpontja, valamint 20/U. § (2) bekezdése szerinti adatokat.
+(2b) Az adatváltozás-kezelési szolgáltató a felhasználó rendelkezése alapján átadja a víziközmű-szolgáltatónak a Tkmtv. 15. § (2) bekezdés a) pontja, b) pont bc)–be) alpontja, valamint 16. § (2) bekezdése szerinti adatokat.
 
-(2c) A felhasználónak az adatváltozás-kezelési szolgáltatásra történő regisztrációja során a Khtv. 20/T. § (2) bekezdés a) pont aa) és ab) alpontja alapján az adatváltozás-kezelési szolgáltatótól átvett adatait a víziközmű-szolgáltató az adatok átvételét követő 60 napon belül összeveti az általa nyilvántartott, a felhasználóra vonatkozó adatokkal, és eltérés esetén gondoskodik azoknak az átvett adatok szerinti tartalommal történő helyesbítéséről.
+(2c) A felhasználónak az adatváltozás-kezelési szolgáltatásra történő regisztrációja során a Tkmtv. 15. § (2) bekezdés a) pont aa) és ab) alpontja alapján az adatváltozás-kezelési szolgáltatótól átvett adatait a víziközmű-szolgáltató az adatok átvételét követő 60 napon belül összeveti az általa nyilvántartott, a felhasználóra vonatkozó adatokkal, és eltérés esetén gondoskodik azoknak az átvett adatok szerinti tartalommal történő helyesbítéséről.
 
 (3) A közérdekű üzemeltető a közérdekű üzemeltetőt kijelölő határozat kézhezvételének napjától a Hivatal kijelölő határozatában meghatározott birtokba lépése időpontjáig az érintett felhasználók átvétele, a víziközmű-szolgáltatás folyamatos biztosításához szükséges teendőkre való felkészülés céljából kezeli a felhasználó azonosításához szükséges, az (1) bekezdésben meghatározott személyes adatot.
 
@@ -1489,7 +1491,8 @@ rendeletben állapítsa meg.
 - 3. állapítsa meg a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 - 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
 - 5.
-- 6–7.
+- 6.
+- 7.
 - 8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
 - 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
 - 10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
@@ -1527,7 +1530,13 @@ rendeletben állapítsa meg.
 
 (2) E törvénynek a víziközmű-szolgáltatóra vonatkozó rendelkezéseit a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosításáról szóló 2020. évi LXXXIV. törvény (a továbbiakban: Módtv3.) hatálybalépésének időpontját követően az állam vagy önkormányzat tulajdonába kerülő víziközmű esetében a víziközmű-szolgáltatónak a Módtv3. hatálybalépésének időpontjától számított két éven belül kell teljesítenie.
 
-(3)–(6)
+(3)
+
+(4)
+
+(5)
+
+(6)
 
 (7) A Hivatal a 65. § (2) bekezdése szerinti javaslatát első alkalommal 2014. október 15-ig küldi meg.
 
@@ -1676,11 +1685,15 @@ rendeletben állapítsa meg.
 
 #### 27. Módosító rendelkezések
 
-89. § (1)–(2)
+89. § (1)
+
+(2)
 
 (3)
 
-90. § (1)–(2)
+90. § (1)
+
+(2)
 
 (3)
 
@@ -1692,7 +1705,9 @@ rendeletben állapítsa meg.
 
 #### 28. Hatályon kívül helyező rendelkezések
 
-93. § (1)–(2)
+93. § (1)
+
+(2)
 
 (3)
 

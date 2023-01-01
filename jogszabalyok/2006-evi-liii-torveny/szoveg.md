@@ -56,7 +56,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (2) A kiemelt jelentőségű ügyben a Kormány rendeletében határozza meg azokat a feladat- és hatásköröket, amelyeket az (1) bekezdés szerint kijelölt főispán gyakorolhat.
 
-(3) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdés szerinti feladatat- és hatásköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
+(3) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdés szerinti feladatat- és hatásköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és vármegyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
 
 (4) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
 
@@ -78,7 +78,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (5) Az ügyintézési határidő
 
-- a) a Kvt. szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás esetén hatvan nap,
+- a) a Kvt. szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás, egységes környezethasználati engedélyezési eljárás esetén hatvan nap, összevont eljárás esetén kilencven nap,
 - b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap,
@@ -195,27 +195,27 @@ válik hatályossá.
 - a) ha a közlekedési infrastruktúra-beruházás szerepel a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben (a továbbiakban: MATrT.), a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni az MATrT. 14. § (1) bekezdésében foglaltakkal,
 - b) ha a közlekedési infrastruktúra-beruházás nem szerepel az MATrT-ben, a térségi területfelhasználási engedély véglegessé válásától, de legkorábban a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni a területfelhasználási engedélyben foglaltakkal.
 
-(2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál a településrendezési terv vagy annak módosítása (a továbbiakban együtt: településrendezési terv) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési terv módosítására irányuló, e § szerinti eljárást. Az eljárásra az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek a településrendezési tervek véleményezési eljárására vonatkozó rendelkezéseit a (3)–(13) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál a településrendezési terv vagy annak módosítása (a továbbiakban együtt: településrendezési terv) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési terv módosítására irányuló, e § szerinti eljárást. Az eljárásra az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek a településrendezési tervek véleményezési eljárására vonatkozó rendelkezéseit a (3)–(13) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
-(3) A településrendezési tervek módosításának véleményezési eljárását az építtető kezdeményezésére az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal folytatja le.
+(3) A településrendezési tervek módosításának véleményezési eljárását az építtető kezdeményezésére az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal folytatja le.
 
 (4) A településrendezési terv tervezetét véleményeztetni kell a partnerekkel, az államigazgatási szervekkel, valamint az érintett területi és települési önkormányzatokkal. A partnerségi egyeztetés a lakosságra, érdek-képviseleti, civil és gazdálkodó szervezetekre, vallási közösségekre terjed ki.
 
-(5) A településrendezési terv tervezetét a fővárosi és megyei kormányhivatal, valamint a település honlapján – a (2) bekezdés szerinti hiánytalan kérelem beérkezésétől számított 5 napon belül – közzé kell tenni, amelyre a partnerek 10 napon belül írásos észrevételt tehetnek, a honlapon megadott elérhetőségen.
+(5) A településrendezési terv tervezetét a fővárosi és vármegyei kormányhivatal, valamint a település honlapján – a (2) bekezdés szerinti hiánytalan kérelem beérkezésétől számított 5 napon belül – közzé kell tenni, amelyre a partnerek 10 napon belül írásos észrevételt tehetnek, a honlapon megadott elérhetőségen.
 
-(6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a kérelem beérkezésétől számított 10 napon belül egyeztető tárgyalást hív össze a partnerek részére, 15 napon belül az államigazgatási szervek, az érintett területi és települési önkormányzatok részére, amely tárgyalásokon az építtető a településrendezési terv tervezetét közérthető módon ismerteti a megjelentekkel, különös tekintettel a beruházás lezárásával megvalósuló környezetalakítás végleges állapotának bemutatására.
+(6) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a kérelem beérkezésétől számított 10 napon belül egyeztető tárgyalást hív össze a partnerek részére, 15 napon belül az államigazgatási szervek, az érintett területi és települési önkormányzatok részére, amely tárgyalásokon az építtető a településrendezési terv tervezetét közérthető módon ismerteti a megjelentekkel, különös tekintettel a beruházás lezárásával megvalósuló környezetalakítás végleges állapotának bemutatására.
 
-(7) A (6) bekezdés szerinti tárgyalásokról az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal jegyzőkönyvet készít, amely tartalmazza a felmerült véleményeltéréseket és a településrendezési terv elfogadásra alkalmassá tételéhez szükséges feltételeket.
+(7) A (6) bekezdés szerinti tárgyalásokról az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal jegyzőkönyvet készít, amely tartalmazza a felmerült véleményeltéréseket és a településrendezési terv elfogadásra alkalmassá tételéhez szükséges feltételeket.
 
 (8) Azt az érdekeltet, aki az egyeztető tárgyaláson meghívás ellenére nem vett részt vagy aki az egyeztető tárgyaláson nem képviselteti magát, az eljárás során kifogást nem emelő véleményezőnek kell tekinteni.
 
-(9) Ha a településrendezési terv készítéséhez vagy módosításához adatok beszerzése szükséges, az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal – az egyeztető tárgyalás összehívásával egyidejűleg – az előzetes tájékoztatási szakasz szerinti előzetes adatszolgáltatást kér az érintett államigazgatási szervtől.
+(9) Ha a településrendezési terv készítéséhez vagy módosításához adatok beszerzése szükséges, az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal – az egyeztető tárgyalás összehívásával egyidejűleg – az előzetes tájékoztatási szakasz szerinti előzetes adatszolgáltatást kér az érintett államigazgatási szervtől.
 
-(10) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a jegyzőkönyveket, a záró szakmai véleményét, valamint a településrendezési terv – szükség szerint módosított – tervezetét 8 napon belül megküldi a polgármesternek a településrendezési terv elfogadása érdekében, és kezdeményezi a képviselő-testület összehívását.
+(10) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a jegyzőkönyveket, a záró szakmai véleményét, valamint a településrendezési terv – szükség szerint módosított – tervezetét 8 napon belül megküldi a polgármesternek a településrendezési terv elfogadása érdekében, és kezdeményezi a képviselő-testület összehívását.
 
 (11) A polgármester az iratok kézhezvételét követő 15 napon belül képviselő-testületi ülést hív össze a településrendezési terv megállapítása céljából. A településrendezési tervet úgy kell elfogadni, hogy az legkésőbb a kihirdetését követő 5. napon hatályba lépjen.
 
-(12) Ha a települési önkormányzat a településrendezési tervet a (10) bekezdés szerinti javaslatnak megfelelően, a (11) bekezdés szerinti határidőben nem fogadja el, a fővárosi és megyei kormányhivatal intézkedik az önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás megindítása iránt.
+(12) Ha a települési önkormányzat a településrendezési tervet a (10) bekezdés szerinti javaslatnak megfelelően, a (11) bekezdés szerinti határidőben nem fogadja el, a fővárosi és vármegyei kormányhivatal intézkedik az önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás megindítása iránt.
 
 (13) Ha az a közlekedési infrastruktúra-beruházás miatt szükséges, az országos településrendezési és építési követelményekről szóló jogszabály 2012. augusztus 6-án vagy azt megelőzően hatályos településrendezési követelményeinek megfelelően kidolgozott településrendezési tervek 2023. december 31-ig módosíthatók.
 
@@ -284,7 +284,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (9) A (4) bekezdés szerinti használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás időtartamára, jellegére, az akadályoztatást megelőző, tulajdonos (haszonélvező) általi tényleges használat mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
-(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – a (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a vármegyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – a (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
 
 6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában az egységes elektronikus közműnyilvántartás adatszolgáltatását veszi igénybe, valamint a kiváltásra vagy kiépítésre kerülő közművek terveit elkészítteti. Az építtető a kiváltásra vagy kiépítésre kerülő közművek terveit a közműszolgáltatóval is elkészíttetheti.
 
@@ -405,7 +405,7 @@ cél megvalósítására irányuló beruházást.
 
 (4) Kiemelten közérdekű beruházás megvalósításával összefüggésben e törvényt és más jogszabályokat az ezen alcímben foglalt eltérésekkel kell alkalmazni, azzal, hogy a kiemelten közérdekű beruházásra az e törvényben és más jogszabályokban a nemzetgazdasági szempontból kiemelt jelentőségű beruházásra vonatkozó rendelkezéseket is alkalmazni kell.
 
-11/A. § Kiemelten közérdekű beruházás esetén törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és megyei kormányhivatal közigazgatási hatósági eljárást folytat le.
+11/A. § Kiemelten közérdekű beruházás esetén törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárást folytat le.
 
 11/B. § (1) Kiemelten közérdekű beruházás esetében a Kormány rendeletben állapíthatja meg a kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozóan
 

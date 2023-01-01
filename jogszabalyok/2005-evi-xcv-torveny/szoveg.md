@@ -2,7 +2,17 @@
 
 az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról
 
-A törvény célja, hogy az Európai Közösség jogi aktusai, illetve egyéb nemzetközi jogi szabályok és ajánlások figyelembevételével meghatározza a gyógyszerrel, a gyógyszerellátással, valamint a gyógyszert felhasználók jogaival kapcsolatos alapvető rendelkezéseket.A gyógyszerellátással kapcsolatos feltételrendszer meghatározása az állam feladata. Ennek keretében az állam meghatározza azon követelményrendszert, amely biztosítja, hogy a rászorulók biztonságos, hatásos, az előírásoknak megfelelő minőségű gyógyszerekhez juthassanak.Az Országgyűlés az emberi egészség védelmét és helyreállítását szolgáló állami tevékenység részeként, az ezért viselt felelősségtől vezérelve,szem előtt tartva, hogy a gyógyszerek gyártására, forgalmazására és felhasználására vonatkozó szabályok legfontosabb célja az emberi egészség megóvása, és a gyógyszerek forgalmazását és felhasználását illető intézkedések a mindenkori egészségpolitika részeként azt célozzák, hogy mindenki hozzájuthasson a gyógykezeléséhez szükséges gyógyszerhez,felismerve ugyanakkor, hogy emberi felhasználásra kerülő gyógyszerek piacának jellemzője, hogy a gyógyszer végső felhasználójának, a betegeknek jelenleg még csekély a befolyása a gyógyszer kiválasztása során, ésfigyelembe véve a fentiek mellett, hogy e célkitűzéseket olyan eszközökkel kell elérni, amelyek nem hátráltatják a gyógyszer kutatás és fejlesztés fejlődését, illetve az Európai Unión belüli gyógyszer-kereskedelmet
+A törvény célja, hogy az Európai Közösség jogi aktusai, illetve egyéb nemzetközi jogi szabályok és ajánlások figyelembevételével meghatározza a gyógyszerrel, a gyógyszerellátással, valamint a gyógyszert felhasználók jogaival kapcsolatos alapvető rendelkezéseket.
+
+A gyógyszerellátással kapcsolatos feltételrendszer meghatározása az állam feladata. Ennek keretében az állam meghatározza azon követelményrendszert, amely biztosítja, hogy a rászorulók biztonságos, hatásos, az előírásoknak megfelelő minőségű gyógyszerekhez juthassanak.
+
+Az Országgyűlés az emberi egészség védelmét és helyreállítását szolgáló állami tevékenység részeként, az ezért viselt felelősségtől vezérelve,
+
+szem előtt tartva, hogy a gyógyszerek gyártására, forgalmazására és felhasználására vonatkozó szabályok legfontosabb célja az emberi egészség megóvása, és a gyógyszerek forgalmazását és felhasználását illető intézkedések a mindenkori egészségpolitika részeként azt célozzák, hogy mindenki hozzájuthasson a gyógykezeléséhez szükséges gyógyszerhez,
+
+felismerve ugyanakkor, hogy emberi felhasználásra kerülő gyógyszerek piacának jellemzője, hogy a gyógyszer végső felhasználójának, a betegeknek jelenleg még csekély a befolyása a gyógyszer kiválasztása során, és
+
+figyelembe véve a fentiek mellett, hogy e célkitűzéseket olyan eszközökkel kell elérni, amelyek nem hátráltatják a gyógyszer kutatás és fejlesztés fejlődését, illetve az Európai Unión belüli gyógyszer-kereskedelmet
 
 a következő törvényt alkotja:
 
@@ -11,10 +21,11 @@ a következő törvényt alkotja:
 - 1. gyógyszer: bármely anyag vagy azok keveréke, amelyet emberi betegségek megelőzésére vagy kezelésére alkalmazható termékként jelenítenek meg, vagy azok az anyagok vagy keverékei, amelyek farmakológiai, immunológiai vagy metabolikus hatások kiváltása révén az ember valamely élettani funkciójának helyreállítása, javítása vagy módosítása, illetve az orvosi diagnózis felállítása érdekében az emberi szervezetben vagy emberi szervezeten alkalmazhatók;
 - 2. magisztrális gyógyszer: az a gyógyszerkészítmény, amelyet a gyógyszerész a gyógyszertárban a Magyar, illetve Európai Gyógyszerkönyv (a továbbiakban: Gyógyszerkönyv) vagy a Szabványos Vényminta Gyűjtemény (Fo-No) (a továbbiakban: Vényminta Gyűjtemény) rendelkezései alapján, orvosi előírásra vagy a Gyógyszerkönyv szerint saját kezdeményezésére készít és a gyógyszertár által ellátott betegek kezelésére szolgál;
 - 3. homeopátiás gyógyszer: a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően készült homeopátiás törzsoldatnak nevezett anyagból a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően előállított gyógyszer, amely több alkotóelemet is tartalmazhat;
-- 4. kábítószer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő anyag;
-- 4/a. kábítószerként minősített gyógyszer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő kábítószernek minősített hatóanyagot tartalmazó gyógyszer;
-- 5. pszichotróp anyag: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–IV. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyag;
-- 5/a. pszichotróp anyagként minősített gyógyszer: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet II–IV. jegyzékén, valamint a 2. számú melléklet B) jegyzékén szereplő pszichotrópnak minősített hatóanyagot tartalmazó gyógyszer;
+- 4. kábítószer: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 1. mellékletében a kábítószerek 1. és 2. jegyzékén szereplő anyag;
+- 4a. kábítószerként minősített gyógyszer: a kábítószernek minősített hatóanyagot tartalmazó gyógyszer;
+- 5. pszichotróp anyag: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1–4. jegyzékén szereplő anyag;
+- 5a. pszichotróp anyagként minősített gyógyszer: az a gyógyszer, amelynek hatóanyaga az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 2–4. jegyzékén szerepel;
+- 5b. ellenőrzött anyag: a kábítószer, a pszichotróp anyag és az új pszichoaktív anyag;
 - 6. vizsgálati gyógyszer: az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 5. pontjában meghatározott fogalom;
 - 7. klinikai vizsgálat: az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 2. pontjában meghatározott fogalom;
 - 8. nem kereskedelmi vizsgálat: olyan klinikai vizsgálat,
@@ -52,7 +63,7 @@ a következő törvényt alkotja:
 - 34. farmakovigilancia-rendszer: a farmakovigilanciai feladatok ellátásához alkalmazott rendszer, amely a forgalomba hozatali engedéllyel rendelkező gyógyszerek biztonságosságának figyelemmel kísérésére és előny/kockázat viszonyában bekövetkező változás felismerésére szolgál,
 - 35. farmakovigilanciarendszer-törzsdokumentáció: a forgalombahozatali engedély jogosultja által egy vagy több forgalomba hozatali engedéllyel rendelkező gyógyszer tekintetében alkalmazott farmakovigilancia-rendszer részletes leírása,
 - 36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
-- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy a 2. számú mellékletben meghatározott pszichotróp anyagok jegyzékein szereplő anyagok, és erre tekintettel azt az egészségügyért felelős miniszter rendeletében ilyen anyaggá minősítette;
+- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint a kábítószerek, vagy az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyagok, és amelyet erre tekintettel az egészségügyért felelős miniszter rendeletében ilyen anyaggá minősített;
 - 38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
 - 39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
 - 40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
@@ -289,9 +300,9 @@ a következő törvényt alkotja:
 
 (6) A fekvőbeteg-szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz- és fertőtlenítőszer-beszerzések országos központosított rendszeréről szóló kormányrendelet szerinti saját hatáskörben történő beszerzés keretében az intézeti gyógyszertár a gyógyszert az Állami Egészségügyi Tartalékkal való gazdálkodás feladatait ellátótól is beszerezheti.
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
 ### Kábítószerek és pszichotróp anyagok, valamint kábítószerként és pszichotróp anyagként minősített gyógyszerekre és új pszichoaktív anyagokra vonatkozó külön rendelkezések
 
@@ -376,15 +387,15 @@ a következő törvényt alkotja:
 (3) Az (1) bekezdés szerinti előzetes szakmai értékelés során azt kell vizsgálni, hogy az értesítésben megjelölt anyaggal vagy vegyületcsoporttal kapcsolatban a magyar hatóságok, szakértői intézmények előtt nem ismert-e olyan adat,
 
 - a) amely az értesítésben megjelölt anyag vagy vegyületcsoport gyógyászati felhasználására utalna, és
-- b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyagok.
+- b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint a kábítószerek vagy az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyagok.
 
 (4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.
 
 15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését a kormányrendeletben meghatározott véleményekre figyelemmel, amennyiben azt az Európai Unió Tanácsa vagy az Egészségügyi Világszervezet nem kezdeményezte.
 
-(2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet A) és B) jegyzékén szereplő anyagok, a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
+(2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint a kábítószerek vagy az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyagok, azt a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
-(3) Ha a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló kockázatot jelenthet, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyagok, akkor törölni kell az új pszichoaktív anyagok jegyzékéről és kormányrendeletben meghatározott más jegyzékre kell helyezni.
+(3) Ha a (2) bekezdés szerinti kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló kockázatot jelenthet, mint a kábítószerek vagy az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyagok, akkor törölni kell az új pszichoaktív anyagok jegyzékéről, és az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendeletében meghatározott más jegyzékre kell helyezni.
 
 (4) Ha az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló, 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése meghosszabbítható azzal, hogy a kockázatértékelést kétévente el kell végezni mindaddig, amíg a kockázatok kizárásához vagy alátámasztásához elegendő adat nem áll rendelkezésre.
 
@@ -403,9 +414,9 @@ a következő törvényt alkotja:
 - i) kiadhatóságát,
 - j) bevitelét megtiltó országok megjelölését.
 
-15/E. §
+#### 15/E. §
 
-15/F. §
+#### 15/F. §
 
 ### A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének gyógyszerellátásra vonatkozó felelőssége
 
@@ -480,7 +491,9 @@ a következő törvényt alkotja:
 - c) amely a magyarországi gyógyszer-azonosítási nonprofit szervezettel szerződést kötött, de nem fizette meg a magyarországi gyógyszer-azonosítási nonprofit szervezet számára a vonatkozó esedékes szolgáltatási díjakat,
 - d) amely vonatkozásában a magyarországi gyógyszer-azonosítási nonprofit szervezet a forgalomba hozatali engedély jogosultja által a (2) bekezdés szerinti nemzeti adattárba feltöltött adatokhoz való végfelhasználók általi hozzáférést korlátozta (szolgáltatás felfüggesztése).
 
-### A gyógyszerek és a gyógyszerellátáshatósági ellenőrzése
+### A gyógyszerek és a gyógyszerellátás
+
+hatósági ellenőrzése
 
 17. § (1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát, valamint a feltételezhetően hamisított gyógyszerre vonatkozó információt a forgalombahozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében és a lakossági gyógyszerellátásban részt vevő gyógyszerész vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzlet, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.
 
@@ -798,7 +811,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (14) A (2), (6), (6a) és (6h) bekezdéstől eltérően a mentés során történő gyógyszeralkalmazásra az egészségügyért felelős miniszter rendeletében foglaltak szerint kerülhet sor.
 
-25/A. §
+#### 25/A. §
 
 25/A. § (1) A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett (újszerű) terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel meghatározott minőségi követelményeknek megfelelően állítják elő, és egy kezelőorvos kizárólagos szakmai felelőssége mellett használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében [a továbbiakban: fejlett (újszerű) terápiás gyógyszerkészítmény kórházi eseti gyártása].
 
@@ -921,13 +934,13 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 27/A. § Az 536/2014/EU európai parlamenti és tanácsi rendeletben meghatározott esetekben az elektronikus kapcsolattartás az 536/2014/EU európai parlamenti és tanácsi rendelet 80. cikke szerinti portál használatával valósul meg.
 
-28. § Azoknak az anyagoknak a listáját, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, a 2. számú melléklet határozza meg.
+#### 28. §
 
 29. § A 2004. május 1. előtt engedélyezett, terápiás javallattal rendelkező homeopátiás gyógyszerek 2020. július 1-jét követően akkor forgalmazhatók, ha a 2001/83/EK európai parlamenti és tanácsi irányelv, illetve az azt átültető jogszabályok ezen gyógyszerek forgalomba hozatalára vonatkozó előírásainak megfelelnek.
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
 ### Záró rendelkezések
 
@@ -940,7 +953,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 (4) Felhatalmazást kap a Kormány, hogy
 
 - a) kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásának, forgalomba hozatalának, forgalmazásának és e gyógyszerekkel folytatott nagykereskedelmi tevékenységnek, a Magyarország területére történő behozatalának, kivitelének, valamint tudományos célra történő beszerzésének és felhasználásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
-- b) nemzetközi egyezmények értelmében kábítószernek vagy pszichotróp anyagnak minősülő gyógyszerek tudományos célra történő felhasználásának, illetve beszerzésének körét,
+- b) a kábítószernek vagy pszichotróp anyagnak minősülő gyógyszerek tudományos célra történő felhasználásának, illetve beszerzésének körét,
 - c) a gyógyszerellátás hatósági ellenőrzése során az e törvényben foglalt kötelezettségek megszegése esetén a hatóságok által kiszabható bírság mértékét, illetve összegét
 - d) a gyógyszerészeti államigazgatási szerv vagy szervek kijelölését
 - e) az új pszichoaktív anyagokkal összefüggésben
@@ -982,11 +995,18 @@ rendeletben szabályozza.
 - u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
 - v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 - w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
-- x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+- x)
 - y) az engedélyezés, illetve a kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 - z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
 
 rendeletben szabályozza.
+
+(5a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
+
+- a) a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény és a pszichotróp anyagokról szóló, Bécsben 1971. év február hó 21. napján aláírt egyezmény, valamint ezen egyezmények módosításai,
+- b) a tiltott kábítószer-kereskedelem területén a bűncselekmények tényállási elemeire és a büntetésekre vonatkozó minimumszabályok megállapításáról szóló, 2004. október 25-i 2004/757/IB tanácsi kerethatározat
+
+figyelembevételével az ellenőrzött anyagok körét, valamint az új pszichoaktív anyagok listájáról a 15/C. § (3) bekezdése értelmében eltávolított anyagokat rendeletben szabályozza.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg
 
@@ -1028,9 +1048,9 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelvnek,
 - i) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
 - j) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2012. október 25-i 2012/26/EU európai parlamenti és tanácsi irányelvnek,
-- k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek,
-- l) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2- [[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek,
-- m) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását a metil-3,3-dimetil-2-{[1-(pent-4-én-1-il)-1H-indazol-3-karbonil]amino}butanoát (MDMB-4en-PINACA) és a metil-2-{[1-(4-fluorbutil)-1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát (4F-MDMB-BICA) új pszichoaktív anyaggal kiegészítő módosításáról szóló 2021. március 12-i (EU) 2021/802 felhatalmazáson alapuló bizottsági irányelvnek
+- k)
+- l)
+- m)
 
 való megfelelést szolgálja.
 
@@ -1040,14 +1060,14 @@ való megfelelést szolgálja.
 - b) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet,
 - c) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet,
 - d) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet,
-- e) a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat,
-- f) az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat,
+- e)
+- f)
 - g) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről szóló, 2014. február 3-i 357/2014/EU felhatalmazáson alapuló bizottsági rendelet,
-- h) a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)–2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-i 2014/688/EU tanácsi határozat,
-- i) a 4-metil-5-(4-metil-fenil)–4,5-dihidrooxazol-2-amin (4,4'-DMAR) és az 1-ciklohexil-4-(1,2-difenil-etil)piperazin (MT-45) ellenőrzési intézkedések alá vonásáról szóló 2015. október 8-i 2015/1873/EU tanácsi határozat,
+- h)
+- i)
 - j) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet,
 - k) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
-- l) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopropil-fentanil) és a 2-me-toxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid (metoxiacetil-fentanil) új pszichoaktív anyagok ellenőrzési intézkedéseknek való alávetéséről szóló, 2018. szeptember 28-i (EU) 2018/1463 tanácsi végrehajtási határozat
+- l)
 - m) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
@@ -1315,130 +1335,3 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | III.Y. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 30 000 |
 
 ### 2. számú melléklet a 2005. évi XCV. törvényhez
-
-A törvény 28. §-a értelmében azoknak az anyagoknak a listája, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, illetve hazai besorolásuk eltér a nemzetközitől, a következő:
-
-A) Jegyzék:
-
-Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény I. Jegyzékén szereplő pszichotróp anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra nem, kizárólag tudományos célra alkalmazhatók:
-
-|  | A | B |
-| --- | --- | --- |
-|  | Hivatalos elnevezés (illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód) | Kémiai név |
-| 1. | AL | 4-allil-oxi-3,5-dimetoxi-fenetil-amin |
-| 2. | BDB | 1-(1,3-benzo-dioxol-5-il)-2-bután-amin 1-(1,3-benzodioxol-5-yl)butan-2-ylazan |
-| 3. | BZP | 1-benzilpiperazin 1-benzil-1,4-diaza-ciklohexán N-benzilpiperazin |
-| 4. | 2C-I | 2,5-dimethoxy-4-iodophenethylamine 4-iodo-2,5-dimethoxyphenethylazan |
-| 5. | 2C-T-2 | 2,5-dimethoxy-4-ethylthiophenethylamine 4-ethylsulfanyl-2,5-dimethoxy-phenethylazan |
-| 6. | 2C-T-7 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-amin 2,5-dimethoxy-4-(propylsulfanyl)-phenethylazan |
-| 7. |  |  |
-| 8. |  |  |
-| 9. | FLEA | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagy N-hidroxi-3,4-metilén-dioxi-metamfetamin N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin |
-| 10. | JWH-018 | naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone |
-| 11. | JWH-081 | (4-methoxynaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 12. | JWH-073 | (1-butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone |
-| 13. | JWH-122 | (4-methylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 14. | JWH-210 | (4-ethylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 15. | MAL | 3,5-dimetoxi-4-metallil-oxi-fenetil-amin 3,5-dimethoxy-4-(2-methylallyloxy)-phenethylazan |
-| 16. | MBDB | 2-(metil-amino)-1-(3,4-metilén-dioxi-fenil)-bután vagy N-metil-1-(1,3-benzo-dioxol-5-il)-2-bután-amin [1-(1,3-benzodioxol-5-yl)butan-2-yl](methyl)azan |
-| 17. | mCPP (meta-klorofenilpiperazin) | meta-chlorophenylpiperazine vagy [1-(3-chlorophenyl)piperazine] |
-| 17.a | 4- MA, 4-methylamphetamine (4-metilamfetamin) | l-(4-methylphenyl)propan-2-amine |
-| 18. | 3,4-methylendioxypirovalerone (3,4-metiléndioxipirovaleron)/ MDPV | 1-(1,3-benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 19. | 4-methylethcathinone (4-metiletkatinon)/4-MEC | 2-(ethylamino)-1-(4-methylphenyl)propan-1-one |
-| 20. | Mephedrone (Mefedron) | 1-(4-methylphenyl)-2-methylaminopropan-1-on |
-| 21. | Methylone (Metilon) | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one |
-| 22. | N-Me-1-PEA | 1-(N-metil-amino)-1-fenil-etán vagy N-metil-1-fenetil-amin |
-| 23. | 1-PEA | 1-amino-1-fenil-etán vagy 1-fenetil-amin |
-| 24. | PMMA | paramethoxymethylamphetamine vagy N-methyl-1-(4-methoxyphenyl)-2- aminopropane vagy p-methoxy-N, á-dimethylphenethylamine |
-| 25. | TMA-2 (2,4,5-trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamine 1-(2,4,5-trimethoxyphenyl)propan-2-ylazan |
-| 26. | 5-IT | 5-(2-aminopropyl)indole |
-| 27. | 1-naphyrone (1-nafiron) | 1-(naphthalen-1-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 28. | 2-aminoindane (2-aminoindán) | 2,3-dihydro-1H-inden-2-amine |
-| 29. | 2-DPMP, Desoxypipradrol (dezoxipipradrol) | 2-(diphenylmethyl)piperidine |
-| 30. | 2-naphyrone (2-nafiron) | 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 31. | 3-MeO-PCE | N-ethyl-1-(3-methoxyphenyl)cyclohexanamine |
-| 32. | 4-MeO-PCP | 1-[1-(4-methoxyphenyl)cyclohexyl]piperidine |
-| 33. | 5-IAI | 5-iodo-2,3-dihydro-1H-inden-2-amine |
-| 34. | 5-MeO-AMT | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine |
-| 35. | á-Pyrrolidinovalerophenone, á-PVP | 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone |
-| 36. | AM-2201 | 1-[(5-fluoropentyl)-1H-indol-3-yl]-(naphthalen-1-yl)methanone |
-| 37. | AMT (alfa-metiltriptamin) | 1-(lH-indol-3-yl)propan-2-amine |
-| 38. | Camfetamine (kamfetamin) | N-methyl-3-phenylbicyclo[2.2.1]heptan-2-amine |
-| 39. | CP 47,497 C8-homológ | 2-(3-hydroxycyclohexyl)-5-(2-methylnonan-2-yl)phenol |
-| 40. | CRA 13 | naphthalen-1-yl [4-(pentyloxy)naphthalen-1-yl]methanone |
-| 41. | D2PM, Diphenylprolinol (difenilprolinol) | diphenyl(pyrrolidin-2-yl)methanol |
-| 42. | DBZP | 1,4-dibenzylpiperazine |
-| 43. | Desoxy-D2PM (dezoxi-D2PM) | 2-(diphenylmethyl)pyrrolidine |
-| 44. | Dimethocaine (dimetokain) | 3-(diethylamino)-2,2-dimethylpropyl-4-aminobenzoate |
-| 45. | DMAA | 4-methylhexan-2-amine |
-| 46. | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
-| 47. |  |  |
-| 48. | GBL, gamma-butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
-| 49. | HU-210 | 9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a- tetrahydrobenzo [c]chromen-1-ol |
-| 50. | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12,13-octahydro-5H-6,9- methanopyrido[10,20:1,2]azepino[4,5-b]indole |
-| 51. | MDAI | 6,7-dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine |
-| 52. | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
-| 53. | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
-| 54. | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
-| 55. | para-methyl-4-methylaminorex (para-metil-4-metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine, illetve 4-methyl-5-(4-methylphenyl)-1,3-oxazolidin-2-imine tautomerek |
-| 56. | Pentedron, â-ethyl-methcathinone (â-etil-metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
-| 57. | MBZP | 1-benzyl-4-methylpiperazine |
-| 58. | pFBT, 4-fluorotropacocaine (fluortropakokain) | 8-methyl-8-azabicyclo[3.2.1]oct-3-yl 4-fluorobenzoate |
-| 59. | pFPP | 1-(4-fluorophenyl)piperazine |
-| 60. | Phenazepam (fenazepam) | 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
-| 61 | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3 furanyl)dodecahydro- 6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
-| 62. | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
-| 63. | â-Me-PEA | 2-phenylpropan-1-amine |
-| 64. |  |  |
-| 65. | Homoamphetamine | 3-amino-1-phenyl-butane |
-| 66. | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
-| 67. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
-| 68. |  |  |
-| 69. |  |  |
-| 70. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole- 3-carboxamide |
-| 71. |  |  |
-| 72. | á-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
-| 73. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl-valine, methyl ester |
-| 74. | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
-| 75. | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
-| 76. | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
-| 77. |  |  |
-| 78. | MT-45 | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
-| 79. | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
-| 80. | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
-| 81. | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]- 2,2,3,3-tetramethylcyclopropane- carboxamide |
-| 82. | MXP, methoxyphenidine, 2-MeO-diphenidine | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
-| 83. | 3F-phenmetrazine, meta-fluoro- phenmetrazine, meta-F-phenmetrazine | 2-(3-fluorophenyl)-3-methylmorpholine |
-| 84. | N-(2-methoxyethyl)-N- (1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
-| 85. | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol- methanamine | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
-| 86. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
-| 87. |  |  |
-| 88. |  |  |
-| 89. | MTTA; MTA; Mephtetramine | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
-| 90. | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
-| 91. | EG-018 | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
-| 92. |  |  |
-| 93. |  |  |
-| 94. |  |  |
-| 95. |  |  |
-| 96. | 4F-MDMB-BICA | metil-2-{[1-(4-fluorbutil)-1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát |
-
-− és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
-
-− az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
-
-B) Jegyzék:
-
-Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény II. Jegyzékén szereplő pszichotróp anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra alkalmazható, szigorúan ellenőrzött szerek:
-
-| Hivatalos elnevezés(illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód) | Kémiai név |
-| --- | --- |
-| Buprenorphine (buprenorfín) | 21-cyclopropyl-7-á-[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo- ethano-6,7,8,14-tetrahydrooripavine |
-| Ketamine(ketamin) | 2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone |
-| Pentazocine(pentazocin) | (2R,6R,11R)-1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(3-methyl-2- butenyl)-2,6-methano-3-benzazocin-8-ol |
-| Poppy straw (mákszalma) | A levágott máknövény minden része; azonban a magok a tokból való kifejtés és tisztítás után nem minősülnek ellenőrzött szernek |
-| Tapentadol (tapentadol) | 3-[(2R,3R)-1-(dimethylamino)-2-methylpentan-3-yl]- phenol |
-
-− és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
-
-− az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.

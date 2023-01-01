@@ -1386,7 +1386,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.
 
-(5) Ha a fővárosi és megyei kormányhivatal a keresőképtelenség felülvizsgálata során az egészségügyi dokumentációban hiányosságot észlel, adminisztrációs kötelezettség elmulasztása vagy szakmai hiányosság miatt közigazgatási bírságot szab ki.
+(5) Ha a fővárosi és vármegyei kormányhivatal a keresőképtelenség felülvizsgálata során az egészségügyi dokumentációban hiányosságot észlel, adminisztrációs kötelezettség elmulasztása vagy szakmai hiányosság miatt közigazgatási bírságot szab ki.
 
 46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
@@ -1563,7 +1563,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 56. § (1)
 
-(2) Társadalombiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze az öregségi nyugdíj mindenkori legkisebb összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
+(2) Társadalombiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze a szociális vetítési alap összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
 
 (3)
 

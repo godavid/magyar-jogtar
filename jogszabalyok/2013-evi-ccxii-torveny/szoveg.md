@@ -129,7 +129,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 18. § Az elővásárlásra jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1)–(2) bekezdésében foglaltakat kell tartalmaznia.
 
-18/A. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az elővásárlásra jogosult termelőként az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+18/A. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az elővásárlásra jogosult termelőként saját maga vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
 (2) A Földforgalmi törvény 18. § (2) bekezdés b) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
 
@@ -311,7 +311,9 @@ használhatja fel.
 
 (4) Ha a (2) bekezdésben meghatározott esetben az elővásárlásra jogosult nem tett eleget a hiánypótlásra való felhívásnak és az erre megállapított határidő meghosszabbítását sem kérte, a mulasztó jogosultat úgy kell tekinteni, mint aki az elővásárlási jogát nem gyakorolja. Erre a mulasztó jogosultat a hiánypótlási felhívásban figyelmeztetni kell.
 
-34/A. § A Földforgalmi tv. 21. § (1a) bekezdése szerinti közbenső döntéssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi a jegyző részére az adásvételi szerződés egy eredeti, nem biztonsági okmányon szerkesztett példányát.
+34/A. § (1) A Földforgalmi törvény 21. § (1a) bekezdése szerinti közbenső döntéssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi a jegyző részére az adásvételi szerződés egy eredeti, nem biztonsági okmányon szerkesztett példányát.
+
+(2) A Földforgalmi törvény 23. § (1) bekezdése és 23/A. § (1a) bekezdése szerinti megkereséssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi az ingatlanügyi hatóság részére az adásvételi szerződés egy nem hitelesített másolati példányát.
 
 35. § (1) A Földforgalmi törvény 23/A. § (2) bekezdésének alkalmazása esetén a mezőgazdasági igazgatási szerv a rendelkezésre álló okiratok másolatát a (2) bekezdésben meghatározottak szerint küldi meg a helyi földbizottság részére.
 
@@ -326,7 +328,7 @@ használhatja fel.
 
 36/A. § A Földforgalmi törvény 24. § (3) bekezdés h) pontjában foglaltak alkalmazása során az ügylet szerinti ellenérték vizsgálatakor figyelembe kell venni a földön fennálló vagyoni értékű jogokat továbbá a földön fennálló más terheket is. Jelzálogjog esetén – a jogosult, illetve a kötelezett eltérő ügyleti rendelkezése hiányában – a jelzálogjoggal biztosított követelés ingatlan-nyilvántartásban bejegyzett értékét kell alapul venni.
 
-37. § (1)
+37. § (1) A Földforgalmi törvény 23. § (1) bekezdése és 23/A. § (1a) bekezdése szerinti megkeresés esetén a mezőgazdasági igazgatási szerv a jóváhagyás megtagadásáról, a kérelem visszautasításáról vagy az eljárás megszüntetéséről szóló végleges döntés megküldésével tájékoztatja az ingatlanügyi hatóságot. A mezőgazdasági igazgatási szerv a döntésével egyidejűleg megkeresi a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének törlése iránt.
 
 (2) A mezőgazdasági igazgatási szerv egyszerűsített döntést nem hozhat.
 
@@ -336,7 +338,14 @@ használhatja fel.
 
 (5) A mezőgazdasági igazgatási szerv a hatósági jóváhagyásról szóló határozat véglegessé válását követően az adásvételi szerződés (3) bekezdés szerint záradékolt két példányát az ingatlanügyi hatóság részére küldi meg, amennyiben az adásvételi szerződésre az elővásárlási jog gyakorlására nyitva álló 60 napos határidő alatt egyetlen elfogadó jognyilatkozat sem került benyújtásra, az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, továbbá amennyiben az adásvételi szerződés hatályosságához a mezőgazdasági igazgatási szerv jóváhagyásán kívül más hatóság jóváhagyása, vagy engedélye nem szükséges. Az ingatlanügyi hatóság a mezőgazdasági igazgatási szerv által megküldött iratok alapján lefolytatja a tulajdonjog bejegyzésére irányuló eljárást.
 
-#### 38. §
+38. § A hatósági eljárás során
+
+- a) a Földforgalmi törvény 23. § (2) bekezdés a)–c) pontjában foglaltak megsértése,
+- b) a Földforgalmi törvény 20. §-ában foglalt esetek kivételével az adásvételi szerződés közzétételének mellőzése,
+- c) a helyi földbizottság megkeresésének mellőzése,
+- d) az adásvételi szerződésnek a Földforgalmi törvény 23. § (4) bekezdésében foglalt valamely kizáró okkal érintett elővásárlási jogosulttal való jóváhagyása
+
+súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozott jóváhagyó határozatot meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni.
 
 #### 39. §
 
@@ -392,6 +401,10 @@ használhatja fel.
 - b) állami tulajdonban álló föld esetében az ingatlan-nyilvántartásba bejegyzett vagyonkezelőt, vagyonkezelői jog fennállása hiányában a tulajdonosi joggyakorló szervezetet
 
 kell érteni.
+
+45/A. § (1) A Földforgalmi törvényben meghatározott földhasználati szerződés esetén a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerződésátruházásra vonatkozó rendelkezései nem alkalmazhatók.
+
+(2) Az (1) bekezdésbe ütköző szerződés semmis.
 
 #### 11. A földhasználati szerződések formai és tartalmi követelményeivel összefüggő rendelkezések
 
@@ -498,6 +511,11 @@ kell érteni.
 - e) azonnali hatályú felmondással,
 - f) a 60. §-ban meghatározott felmondással,
 - g) ha a föld természeti erő közvetlen behatása következtében egészben vagy jelentős részben a haszonbérleti szerződés szerinti hasznosításra tartósan alkalmatlanná válik.
+- h) az 57/A. §-ban meghatározott esetben.
+
+57/A. § (1) Megszűnik a haszonbérleti szerződés, ha az egyéni vállalkozó haszonbérlő által a vállalkozói tevékenységének folytatására az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény szerinti feltételekkel alapított korlátolt felelősségű társaság nem felel meg a Földforgalmi törvény földhasználati jogosultság megszerzésére irányuló előírásainak.
+
+(2) A haszonbérleti szerződés megszűnésének időpontja az (1) bekezdés szerinti korlátolt felelősségű társaság alapítását követő 60. nap.
 
 58. § (1) A haszonbérbeadó a szerződést azonnali hatállyal jogosult felmondani, ha a haszonbérlő (ideértve az alhaszonbérlőt is)
 
@@ -523,7 +541,7 @@ kell érteni.
 
 (5) A haszonbérbeadó, illetve annak jogutódja. valamint a haszonbérlő az 1994. július 27-e előtt létrejött haszonbérleti szerződést legkésőbb az adott gazdasági év vége előtt 60 nappal 60 napos felmondási idővel a gazdasági év végére felmondhatja, ha a szerződés időtartama meghaladja a Földforgalmi törvény 44. §-ában meghatározott leghosszabb időtartamot.
 
-61. § (1) Az 58–60. §-ban meghatározott felmondás esetén, ha a felmondást a másik fél 15 napon belül nem fogadja el, a felmondást gyakorló további 8 napon belül bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
+61. § (1) Az 58–60. §-ban meghatározott felmondás esetén, ha a felmondás ellen a másik fél annak kézhezvételét követő 30 napon belül írásban tiltakozik, a felmondást gyakorló további 30 napon belül bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
 
 (2) A szerződő felek az 58–60. §-ban meghatározott rendelkezésektől érvényesen nem térhetnek el.
 
@@ -583,7 +601,7 @@ kell érteni.
 - b) közös megegyezéssel, a szerződő felek által meghatározott napon,
 - c) felmondással,
 - d) azonnali hatályú felmondással,
-- e) közeli hozzátartozók közti jogügylet esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon,
+- e) közeli hozzátartozók közti jogügylet esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon, bármelyik szerződő fél halála esetén az elhalálozás bekövetkezésének napján,
 - f) családi mezőgazdasági társaság részére történő használatba adás esetén a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon.
 
 (4) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
@@ -872,6 +890,14 @@ javára történő átengedésére.
 
 84. § A földhasználati szerződés hatósági jóváhagyása iránti eljárásban nem kell alkalmazni a 27. § (4) bekezdését, a 30. § (1) bekezdését, a 35. §-t és a 37. § (1) bekezdését.
 
+84/A. § A hatósági eljárás során
+
+- a) a Földforgalmi törvény 51. § (2) bekezdésében foglaltak megsértése,
+- b) a Földforgalmi törvény 48. § (1) bekezdésében foglalt esetek kivételével a haszonbérleti szerződés közzétételének mellőzése,
+- c) a haszonbérleti szerződésnek a Földforgalmi törvény 51. § (5) bekezdésében foglalt valamely kizáró okkal érintett előhaszonbérleti jogosulttal való jóváhagyása
+
+súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozott jóváhagyó határozatot meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni.
+
 ### XII. Fejezet — A SZERZÉSI KORLÁTOZÁSOK HATÓSÁGI ELLENŐRZÉSÉRE ÉS A FÖLD KÉNYSZERHASZNOSÍTÁSBA ADÁSÁRA, VALAMINT A KÉNYSZERHASZNOSÍTÓRA VONATKOZÓ SZABÁLYOK
 
 85. § A Földforgalmi törvény V. Fejezetében meghatározott hatósági ellenőrzés során – a Földforgalmi törvényben és az e törvényben foglalt eltérésekkel – az Ákr. rendelkezéseit kell alkalmazni.
@@ -1054,6 +1080,8 @@ szolgáltat.
 
 (1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
+(1e) A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett földhasználati nyilvántartás adatbázisából – egyedi megállapodás alapján – a földhasználó részére az általa használt földterületekre vonatkozóan elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat. Az egyedi megállapodásnak tartalmaznia kell az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve annak ingyenességét.
+
 (2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK-értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont ba), bd) és be) alpontjában, valamint c) pont ca), cc) és cd) alpontjában foglalt azonosító adatai alapján.
 
 (3) A földhasználati lap másolat szolgáltatását bárki igényelheti.
@@ -1065,7 +1093,7 @@ szolgáltat.
 - c) a Földforgalmi törvényben és e törvényben meghatározott célból a hatáskörébe, illetve feladatkörébe tartozó ügy elbírálása érdekében a mezőgazdasági igazgatási szerv,
 - d) a hatáskörében eljáró ügyész és bíróság,
 - e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a mezőgazdasági és vidékfejlesztési támogatási szerv.
-- f) a szőlőültetvények telepítésének engedélyezésével, valamint a szőlőültetvények telepítésének és kivágásának ellenőrzésével összefüggésben a hegybíró.
+- f) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró.
 
 (5) A földhasználati lap másolat szolgáltatása díjmentes
 
@@ -1074,8 +1102,9 @@ szolgáltat.
 - c) a közérdekű bejelentés és panasz elbírálásához,
 - d) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
 - e) mezőgazdasági igazgatási szerv részére a (4) bekezdés c) pontjában meghatározott feladatai ellátásához.
+- f) a Hktv. 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró részére.
 
-(6) A földhasználati összesítő szolgáltatása díjmentes a (4) bekezdés b)–d) pontjában meghatározottak részére.
+(6) A földhasználati összesítő szolgáltatása díjmentes a (4) bekezdés b)–d) és f) pontjában meghatározottak részére.
 
 (7) A földhasználati lap másolatának és a földhasználati összesítő részletes adattartalmát, valamint azok szolgáltatásának módját az e törvény végrehajtására kiadott rendelet tartalmazza.
 
@@ -1454,50 +1483,7 @@ nyújthatja be.
 
 (4) A 2018. évi CXXXVI. törvénnyel megállapított 108. § (4) és (5) bekezdését a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-110/E. § (1) Az ingatlanügyi hatóság, illetve mezőgazdasági igazgatási szerv által a földhasználati nyilvántartásba, valamint a földművesekről, a mezőgazdasági termelőszövetkezetekről és a mezőgazdasági üzemközpontoktól vezetetett nyilvántartásba bejegyzett, valamint törölt bejegyzésként szereplő adatok vonatkozásában a földmérési és térinformatikai államigazgatási szerv mint adatkezelő, a Kormány által a 1004/2016. (I. 18.) Kormányhatározatban jóváhagyott KÖFOP-1.0.0.-VEKOP-15-2016-00040 számú projekt fejlesztése során az adatfeldolgozói feladatokat a rendszer fejlesztéshez szükséges mértékben a fejlesztését végző nem állami tulajdonú gazdálkodó szervezetnek is átadhatja egyedi megállapodás alapján.
-
-(2) A földmérési és térinformatikai államigazgatási szerv az alábbi személyes adatokat adhatja át az (1) bekezdésben szereplő adatfeldolgozási tevékenység ellátása érdekében:
-
-- a) titulus;
-- b) családi név;
-- c) utónév;
-- d) anyja neve;
-- e) születési hely;
-- f) születési dátum;
-- g) állampolgárság;
-- h) személyi azonosító szám;
-- i) lakóhely;
-- j) tartózkodási hely;
-- k) értesítési cím;
-- l) a személy javára bejegyzett jog, illetve szerződés jogcíme, amennyiben az az (1) bekezdés szerinti nyilvántartásokban feltüntetésre került.
-
-(3) A nem állami tulajdonú gazdálkodó szervezet az adatfeldolgozói feladatok elvégzése során köteles:
-
-- a) az adatkezelésre és adatfeldolgozásra vonatkozó jogszabályi előírásoknak megfelelni;
-- b) biztosítani, hogy a megismert adatok tekintetében munkavállalóikat akkor is titoktartás kötelezze, ha munkaviszonyuk már megszűnt;
-- c) az adatfeldolgozással érintett adatokat kizárólag az adatkezelővel kötött szerződésben foglaltaknak megfelelően, annak írásbeli utasítása alapján kezelni;
-- d) tudomásul venni, hogy az adatkezelő ellenőrizheti az adatfeldolgozói tevékenység végrehajtását, valamint az adatfeldolgozás során alkalmazott adatbiztonsági technológiai intézkedéseket, továbbá azok jogszabályi feltételeknek való megfelelőségét;
-- e) tudomásul venni, hogy az adatfeldolgozással érintettek felé adatkezelést és adatfeldolgozást érintő kérdésekben önállóan, saját nevében nem járhat el, nyilatkozatot nem tehet, az adatkezelő jogait nem sértheti;
-- f) együttműködni az adatkezelővel az esetleges hatósági ellenőrzések és jogszabályi megfelelőség igazolása során;
-- g) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) (a továbbiakban: GDPR) 30. cikk (2) bekezdése alapján nyilvántartást vezetni az adatkezelő nevében végzett adatkezelési tevékenységének minden kategóriájáról;
-- h) az adatfeldolgozói műveleteket úgy megtervezni és végrehajtani, hogy azok a GDPR, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv)., valamint az adatkezelésre vonatkozó ágazati jogszabályok alkalmazásával biztosítsák az érintettek magánszférájának megfelelő védelmét;
-- i) biztosítani, hogy munkavállalói titokban tartsanak minden személyes adatot, valamint azt, hogy a személyes adatokhoz munkavállalói kizárólag a szükséges mértékben és azzal összefüggésben férjenek hozzá;
-- j) gondoskodni az adatok 2013. évi L. törvény (a továbbiakban: Ibtv.) szerinti biztonságáról, továbbá megtenni a technikai és szervezési intézkedéseket, amelyek az Infotv., a GDPR, valamint egyéb adat- és titokvédelmi szabályok érvényre juttatásához szükségesek.
-
-(4) A nem állami tulajdonú gazdálkodó szervezet az adatfeldolgozói feladatok elvégzése során felelős:
-
-- a) az adatfeldolgozással érintett adatok feldolgozásáért, megváltoztatásáért, törléséért, továbbításáért, nyilvánosságra hozataláért, továbbá az adatfeldolgozással érintett adatokon jogosulatlanul végzett műveletért;
-- b) mindazon kárért, amely az adatfeldolgozási tevékenységével összefüggésben, vagy annak eredményeként az ellenőrzési körében felmerülő körülmény folytán következett be;
-- c) azért, hogy a személyes adatok feldolgozásának megkezdése előtt figyelembe vette az adatkezelésből eredő olyan kockázatokat, amelyek különösen a továbbított, tárolt vagy más módon kezelt személyes adatok véletlen, vagy jogellenes megsemmisítéséből, elvesztéséből, megváltoztatásából, jogosulatlannyilvánosságra hozatalából vagy az azokhoz való jogosulatlan hozzáférésből erednek, és intézkedéseket tett ennek elkerülése érdekében;
-- d) a személyes adatok feldolgozásának megkezdése előtt intézkedéseket hozni annak biztosítására, hogy az irányítása alatt eljáró, a személyes adatokhoz hozzáféréssel rendelkező természetes személyek kizárólag az adatkezelő utasításainak megfelelően kezelhessék az érintett adatokat, kivéve, ha ettől való eltérésre jogszabály kötelez.
-
-(5) Az adatfeldolgozó az általa kezelt adatokat az adatfeldolgozási tevékenység bármely okból történő megszűnését követően átadás-átvételi jegyzőkönyv felvétele mellett átadja az adatkezelő számára oly módon, hogy azokat az adatfeldolgozó az általa felügyelt informatikai rendszerben visszavonhatatlanul és helyreállíthatatlanul törli.
-
-(6) Az adatfeldolgozó az érintett adatokat harmadik fél számára sem statisztikai, sem egyéb célból nem továbbíthatja, az üzemeltetett adatbázist más adatbázissal nem kapcsolhatja össze.
-
-(7) Az adatfeldolgozó az adatokat védett infrastruktúrán titkosított formában tárolja, az adattovábbítás során a kiépített állandó hálózati kapcsolatot titkosítási eljárásokkal védi.
-
-(8) Az adatfeldolgozó az adatokhoz való hozzáférésekről naplóállományokat vezet, amely lehetővé teszi legalább az adatokhoz való hozzáférés idejének, módjának, a hozzáférő személy azonosításához szükséges adatoknak, a fel-, illetve letöltött adatok mennyiségének megállapítását.
+#### 110/E. §
 
 110/F. § (1) E törvénynek a Módtv.3.-mal megállapított rendelkezéseit – kivéve a (2) bekezdésben foglaltakat – azok hatálybalépését követően indult hatósági jóváhagyási eljárásban, vagy ha nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, akkor az ingatlan-nyilvántartási eljárásban kell alkalmazni.
 
@@ -1512,7 +1498,21 @@ nyújthatja be.
 
 111. § A Földforgalmi törvény 39. §-ában, 50. § (1) bekezdés b) pontjában, és 51–59. §-ában foglaltakat a 2014. május 1-jén vagy ezt követően közzétett (közölt) haszonbérleti szerződésre, illetve a 2014. május 1-jén vagy ezt követően megkötött, haszonbérleti szerződésnek nem minősülő földhasználati szerződésre kell alkalmazni.
 
-#### 112–119. §
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
 
 ### XX. Fejezet — MÓDOSÍTÓ ÉS HATÁLYON KÍVÜL HELYEZŐ RENDELKEZÉSEK
 

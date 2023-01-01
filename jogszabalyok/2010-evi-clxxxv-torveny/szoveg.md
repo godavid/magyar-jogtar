@@ -666,7 +666,7 @@ figyelemfelhívás.
 
 (4) Nem lehet jogosult az önkormányzat területét legalább húsz százalékban lefedő vételkörzetű helyi lineáris médiaszolgáltatásra az a vállalkozás, amelynek igazgatóságában, ügyvezetésében vagy felügyelő bizottságában, és azon alapítvány vagy közalapítvány, amelynek kuratóriumában a helyi képviselőtestület tagja, alkalmazottja, a polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes vagy ezek közeli hozzátartozója vesz részt.
 
-(5) A (3) bekezdés d) pontja tekintetében az a vállalkozás, amelyben a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, a megyei közgyűlés elnöke és alelnöke, a helyi vagy megyei önkormányzati képviselő közeli hozzátartozója közvetlen vagy közvetett befolyásoló részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, abban az esetben nem lehet lineáris médiaszolgáltatásra jogosult, amennyiben az adott médiaszolgáltatás vételkörzete az érintett önkormányzat területét legalább húsz százalékban lefedi.
+(5) A (3) bekezdés d) pontja tekintetében az a vállalkozás, amelyben a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, a vármegyei közgyűlés elnöke és alelnöke, a helyi vagy vármegyei önkormányzati képviselő közeli hozzátartozója közvetlen vagy közvetett befolyásoló részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, abban az esetben nem lehet lineáris médiaszolgáltatásra jogosult, amennyiben az adott médiaszolgáltatás vételkörzete az érintett önkormányzat területét legalább húsz százalékban lefedi.
 
 ### Médiaszolgáltatási díj
 
@@ -1775,7 +1775,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (2) A közszolgálati médiaszolgáltató hírügynökségi feladatainak ellátása érdekében
 
-- a) az ország minden megyéjére és a fővárosra kiterjedő,
+- a) az ország minden vármegyéjére és a fővárosra kiterjedő,
 - b) a Kárpát-medence magyarlakta területeire kiterjedő,
 - c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő külföldi
 
@@ -1961,7 +1961,7 @@ Ennek keretében:
 
 (9)
 
-110. § A Hatóság a hírközlési ágazat tekintetében külön törvényben foglaltak szerint:
+110. § A Hatóság a hírközlési és infokommunikációs ágazat tekintetében külön törvényben foglaltak szerint:
 
 - a) nyilatkozik a hatáskörével összefüggő jogszabályalkotási és -módosítási igényekről és javaslatokról,
 - b) felméri és folyamatosan elemzi a hírközlési és az ezekhez kapcsolódó informatikai piac működését,
@@ -1971,7 +1971,8 @@ Ennek keretében:
 - f) eljár a hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban,
 - g) ellátja az egyéb jogszabályban foglalt elektronikus hírközlési és postai hatósági feladatokat,
 - h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
-- i) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
+- i) ellátja a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletben a Digitális Szolgáltatási Koordinátor számára meghatározott feladatokat, valamint
+- j) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
 
 110/A. § (1) A Hatóság a 109–110. §-ban részletezett feladatai ellátásához szükséges, speciális szaktudással és kompetenciákkal rendelkező szakemberállomány fenntartása érdekében önállóan alakítja a személyzetpolitikájával kapcsolatos alapelveket.
 
@@ -2188,9 +2189,9 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
 
-- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
+- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, vármegyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
 - b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
-- c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+- c) helyi vagy vármegyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,
 - e) olyan személy, aki hírközlési vagy médiaszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, reklámügynökséggel, sajtótermék kiadójával vagy lapterjesztővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
 - f) olyan személy, aki hírközlési vagy médiaszolgáltatást, műsorforgalmazást, műsorterjesztést, sajtótermék kiadását, reklámügynökségi tevékenységet vagy lapterjesztést folytató vállalkozásban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
@@ -3930,13 +3931,15 @@ rendeletben megállapítsa.
 - c) az Európai Parlament és a Tanács 2002/21/EK irányelve (2002. március 7.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról (keretirányelv),
 - d) az Európai Parlament és a Tanács 2009/140/EK irányelve (2009. november 25.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról,
 - e) az Európai Parlament és a Tanács 98/27/EK irányelve (1998. május 19.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, 2. cikk (1) bekezdés és 4. cikk (1) bekezdés,
-- f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv.
+- f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv,
+- g) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.
 
 (2) Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
 
 - a) az (EU) 2017/2394 rendelet,
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról,
-- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról.
+- c) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról szóló 2008. március 17-i bizottsági határozat,
+- d) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.
 
 ### VIII. Fejezet
 

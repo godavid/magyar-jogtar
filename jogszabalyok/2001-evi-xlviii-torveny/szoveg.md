@@ -30,7 +30,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) Az egyéni jelleg megítélésekor figyelembe kell venni, hogy a szerző – különösen a termék természetére és az ipari, illetve kézműipari ágazat sajátosságaira tekintettel – milyen alkotói szabadságfokkal alakíthatta ki a mintát.
 
-### Az újdonságra és az egyéni jellegre vonatkozóközös szabályok
+### Az újdonságra és az egyéni jellegre vonatkozó
+
+közös szabályok
 
 4. § (1) A mintát nyilvánosságra jutottnak kell tekinteni, ha közzététellel, egyéb közlés útján, kiállítással, kereskedelmi forgalomba hozatallal vagy bármilyen más módon bárki számára hozzáférhetővé vált, kivéve, ha ezek az események a rendes üzletvitel során ésszerűen nem juthattak az érintett ágazaton belül az Európai Közösségben működő szakmai körök tudomására.
 
@@ -85,7 +87,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### II. Fejezet — A MINTÁBÓL ÉS A MINTAOLTALOMBÓL EREDŐ JOGOK ÉS KÖTELEZETTSÉGEK
 
-### A minta szerzőjének személyhez fűződőés a minta nyilvánosságra hozatalával kapcsolatos jogai
+### A minta szerzőjének személyhez fűződő
+
+és a minta nyilvánosságra hozatalával kapcsolatos jogai
 
 12. § (1) A minta szerzője az, aki a mintát megalkotta.
 
@@ -205,7 +209,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### IV. Fejezet — A MINTAOLTALOM MEGSZŰNÉSE
 
-25. §
+#### 25. §
 
 ### A mintaoltalom megszűnése
 
@@ -316,9 +320,11 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 32/B. § (1) Mintaoltalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(2) Mintaoltalmi ügyekben a gazdálkodó szervezet és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
+(2) Mintaoltalmi ügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 
-### A mintaoltalmi eljárások egyéb általánosszabályai
+### A mintaoltalmi eljárások egyéb általános
+
+szabályai
 
 33. § (1) A 30–32/B. §-okban nem szabályozott kérdésekben mintaoltalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala előtt folyó eljárásban – az (1a)–(3) bekezdésben meghatározott eltérésekkel – megfelelően alkalmazni kell a szabadalmi törvénynek a szabadalmi eljárások általános szabályait megállapító rendelkezéseit.
 
@@ -369,7 +375,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 35. § A Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában a mintaoltalmi bejelentésekkel, valamint a minták oltalmával kapcsolatban különösen a következő adatokat és tényeket kell közölni:
 
-- a)–c)
+- a)
+- b)
+- c)
 - d) a mintaoltalom megadásának meghirdetésekor a lajstromszámot, a mintaoltalom jogosultjának nevét (elnevezését), lakcímét (székhelyét), a képviselő nevét és székhelyét, az ügyszámot, a bejelentés napját, a mintaoltalom elsőbbségének napját, a minta szerinti termék megnevezését és a terméknek az ipari minták nemzetközi osztályozásának (a továbbiakban: nemzetközi osztályozás) létesítésére vonatkozó Locarnói Megállapodásban meghatározott nemzetközi osztályjelzetét, a minta ábrázolását, a szerző nevét és lakcímét, valamint a mintaoltalmat megadó határozat keltét;
 - e) a mintaoltalom megújítása, illetve megosztása esetén az erre vonatkozó adatokat;
 - f) a mintaoltalom megszűnését, annak jogcímét és időpontját, valamint a mintaoltalom változtatással való fenntartását, illetve korlátozását;
@@ -389,7 +397,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (5) A bejelentő a mintaoltalom megadásáig – a 27. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a mintaoltalmi bejelentést.
 
-36/A. §
+#### 36/A. §
 
 ### A bejelentés napja
 
@@ -439,7 +447,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A mintaoltalmi bejelentés benyújtását követő vizsgálatra egyebekben megfelelően alkalmazni kell a szabadalmi törvénynek a bejelentés benyújtását követő vizsgálatra vonatkozó rendelkezéseit.
 
-42–43. §
+#### 42. §
+
+#### 43. §
 
 ### Újdonságkutatás
 
@@ -449,7 +459,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (3) Az újdonságkutatási jelentést a hivatkozott iratok másolataival együtt a bejelentőnek – kérésére – meg kell küldeni.
 
-45–46. §
+#### 45. §
+
+#### 46. §
 
 ### Alaki és érdemi vizsgálat
 
@@ -504,7 +516,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (4) A megújítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
 
-51/A. §
+#### 51/A. §
 
 52. § (1) Ha a megújítási kérelem nem felel meg az 51. § (1)–(3) bekezdéseiben előírt követelményeknek, a kérelmezőt hiánypótlásra kell felhívni.
 
@@ -554,7 +566,13 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 58. § (1) A Szellemi Tulajdon Nemzeti Hivatala a megsemmisítési kérelemmel kapcsolatban nyilatkozattételre hívja fel a mintaoltalom jogosultját és – szolgálati mintára adott mintaoltalom esetén – a szerzőt, majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a mintaoltalom megsemmisítéséről, változtatással való fenntartásáról, illetve korlátozásáról vagy a kérelem elutasításáról. Az eljárást befejező végzés tárgyaláson kívül is meghozható. A Szellemi Tulajdon Nemzeti Hivatala által a kérelmező számára kitűzött határidő elteltét követően a megsemmisítés alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a megsemmisítés okaként. Az így megjelölt okot az eljárást befejező határozat meghozatalakor figyelmen kívül kell hagyni.
 
-(2) A tárgyalás folyamán hozott végzéseket és a határozatot a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba is kell foglalni.
+(1a) A Szellemi Tulajdon Nemzeti Hivatala a feleknek a kitűzött határnap előtt legkésőbb három nappal előterjesztett, indokolt közös kérelmére a tárgyalást elhalasztja. Később előterjesztett közös kérelemre a tárgyalás kivételesen fontos okból halasztható el.
+
+(1b) A Szellemi Tulajdon Nemzeti Hivatala a kitűzött tárgyalást hivatalból – a tárgyalást megelőzően vagy a tárgyaláson – a tárgyalás megtartása nélkül csak fontos vagy a Szellemi Tulajdon Nemzeti Hivatala érdekkörében felmerült okból, az ok megjelölésével halaszthatja el.
+
+(1c) A tárgyalás elhalasztása esetén a Szellemi Tulajdon Nemzeti Hivatala az új tárgyalási határnap kitűzéséről egyidejűleg intézkedik.
+
+(2) A tárgyalás folyamán hozott végzéseket és a határozatot a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba kell foglalni. Az írásba foglalt határozatot a kihirdetéskor jelen lévő feleknek nyomban, a meg nem jelent felek részére pedig a kihirdetéstől számított három napon belül kézbesíteni kell.
 
 (3) A döntés kihirdetése a rendelkező rész és az indokok rövid ismertetéséből áll.
 
@@ -598,7 +616,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A nemleges megállapítási eljárás költségeit a kérelmező viseli.
 
-(3) Az 58. § (2)–(4) bekezdéseit a nemleges megállapítási eljárásban is alkalmazni kell.
+(3) Az 58. § (1a)–(4) bekezdését a nemleges megállapítási eljárásban is alkalmazni kell.
 
 (4) Az 58/A. § rendelkezéseit a nemleges megállapítási eljárásban is alkalmazni kell.
 
@@ -646,7 +664,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A nemzetközi ipari mintaoltalmi bejelentésekre a Megállapodás eltérő rendelkezése hiányában – az e fejezetben foglalt eltérésekkel – e törvény rendelkezéseit kell alkalmazni.
 
-60/I. §
+#### 60/I. §
 
 ### A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott nemzetközi ipari mintaoltalmi bejelentések
 
@@ -756,7 +774,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 64. § A mintának az e törvényben szabályozott oltalma nem befolyásolhatja a mintán mint művészeti alkotáson külön törvény szerint fennálló szerzői jogok védelmét.
 
-### A törvény hatálybalépésére vonatkozóés egyes átmeneti rendelkezéseket megállapító szabályok
+### A törvény hatálybalépésére vonatkozó
+
+és egyes átmeneti rendelkezéseket megállapító szabályok
 
 65. § (1) E törvény 2002. január 1-jén lép hatályba; rendelkezéseit – a (2), a (6)–(7) és a (9)–(10) bekezdésekben szabályozott kivételekkel, illetve feltételekkel – csak a hatálybalépését követően indult eljárásokban lehet alkalmazni.
 
@@ -780,7 +800,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (11) Ahol jogszabály ipari mintát vagy ipari mintaoltalmat említ, azon e törvény hatálybalépését követően formatervezési mintát, illetve formatervezési mintaoltalmat kell érteni.
 
-66. §
+#### 66. §
 
 ### Átmeneti rendelkezések
 

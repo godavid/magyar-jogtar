@@ -4,11 +4,11 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 #### 1. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
 #### 2. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -30,7 +30,7 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 (2)
 
-8. §
+#### 8. §
 
 9. § (1)
 
@@ -38,19 +38,19 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 #### 3. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 14. § (1)
 
 (2)
 
-15. §
+#### 15. §
 
 16. § (1)
 
@@ -62,7 +62,7 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 (2)
 
-18. §
+#### 18. §
 
 19. § (1)
 
@@ -72,7 +72,7 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 (2)
 
-21. §
+#### 21. §
 
 22. § (1)
 
@@ -84,7 +84,7 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 (2)
 
-24. §
+#### 24. §
 
 25. § (1)
 
@@ -94,7 +94,7 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 (2)
 
-27. §
+#### 27. §
 
 28. § (1)
 
@@ -102,11 +102,11 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 #### 6. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-29. §
+#### 29. §
 
 #### 7. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 8. Záró rendelkezések
 
@@ -118,7 +118,7 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 (4) A (2) bekezdés szerinti rendelkezések hatálybalépésének naptári napját a határrendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(5) A (3) bekezdés szerinti rendelkezések hatálybalépésének naptári napját az idegenrendészetért és menekültügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(5) A (3) bekezdés szerinti rendelkezések hatálybalépésének naptári napját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 32. § E törvény 4. §-a, 7. §-a, 8. §-a, 10. §-a, 11. §-a, 14. §-a és 15. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 

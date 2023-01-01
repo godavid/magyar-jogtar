@@ -31,7 +31,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - d) a természetes állapotában meglévő ki nem termelt földre, beleértve a ki nem termelt szennyezett talajt, valamint a földhöz tartós jelleggel rögzített építményeket, beleértve a használaton kívüli, elhagyott, romos épületeket is,
 - e) a szennyezetlen talajra és más, természetes állapotában meglévő olyan anyagra, amelyet építési tevékenység során termelnek ki, és azt a kitermelés helyén természetes állapotában építési tevékenységhez használják fel,
 - f) a fekáliára – ha arra a (2) bekezdés c) pontja nem terjed ki –, a szalmára, valamint a mezőgazdasági termelőtevékenység, az erdőgazdálkodás, továbbá a fafeldolgozás során képződő egyéb nem veszélyes természetes anyagra, amelyet a mezőgazdaságban, az erdészetben vagy biomasszaként energia előállítására használnak a környezetre és az emberi egészségre veszélytelen eljárással vagy módszerrel,
-- g) a vizek és vízi utak kezelése, árvízmentesítés, vízkárelhárítás vagy talajfeltöltés (a talaj minőségének javítása) céljából a felszíni vizekben áthelyezett üledékre, iszapra, amely az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkezik.
+- g) a vizek és vízi utak kezelése, árvízmentesítés, vízkárelhárítás vagy talajfeltöltés (a talaj minőségének javítása) céljából a felszíni vizekben áthelyezett azon üledékre és mederiszapra, amely az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkezik.
 
 (4) E törvény rendelkezéseit a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2020. évi LIX. törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -321,6 +321,8 @@ csökkenjen;
 
 (1b) Az (1a) bekezdésben foglalt rendelkezések megsértése miatt indult hulladékgazdálkodási hatósági eljárásban az ügyintézési határidő kilencven nap.
 
+(1c) Ha az (1) bekezdés szerinti hulladéktermelő vagy az (1a) bekezdés szerinti természetes személy nem teljesítette a hulladékgazdálkodási hatóság végleges döntésével elrendelt hulladék-felszámolási kötelezettségét, és a hulladékgazdálkodási hatóság a 78/E. § (1) bekezdés b) pontja szerinti jogkörében eljárva végrehajtást foganatosít, a hulladékgazdálkodási hatóság a magyar állam javára a végrehajtási cselekményekkel összefüggő követelés és kamatai összegéig jelzáloggal terheli meg a kötelezéssel érintett ingatlant. Az ingatlanügyi hatóság a hulladékgazdálkodási hatóság megkeresésére a hulladékgazdálkodási hatóság véglegessé vált határozata alapján a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
+
 (2) A gyűjtő – a (2a) és (2c) bekezdésben, valamint a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
 
 (2a) A nevelési-oktatási intézmény, illetve a szakképző intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.
@@ -360,6 +362,7 @@ csökkenjen;
 - b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja,
 - c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja, vagy
 - d) a természetes személy ingatlantulajdonos vagy ingatlanbirtokos által használt ingatlanon képződő, elkülönítetten gyűjtött 17 06 05* azonosító kódú, azbesztet tartalmazó építőanyag megnevezésű veszélyes hulladékot az annak szállítására és tárolására alkalmas gyűjtőedényben, környezetveszélyeztetést kizáró módon – nem üzletszerű szállítás keretében – az (5)–(8) bekezdésben foglaltak betartásával hulladékgyűjtő pontra vagy hulladékkezelő létesítménybe szállítja.
+- e) a hulladékgazdálkodási hatóság a költséghatékonyság mérlegelését követően a jogellenesen elhelyezett vagy elhagyott, legfeljebb 2 m3 mennyiségű, nem veszélyes hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja.
 
 (2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
 
@@ -393,7 +396,7 @@ igazolható módon tájékoztatja az átvevőt.
 
 (1a) A hulladék hasznosítója az (1) bekezdés előírásainak megfelelően azt a hasznosítási műveletet alkalmazza, amely a hasznosítandó hulladék vonatkozásában az összességében a legjobb környezeti eredményt biztosítja.
 
-(2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a hulladékgazdálkodási hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
+(2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik, valamint ha törvény vagy kormányrendelet az engedély kiadását más hatóság hatáskörébe nem utalja – a hulladékgazdálkodási hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
 
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 
@@ -427,44 +430,48 @@ igazolható módon tájékoztatja az átvevőt.
 
 18. § Hulladéklerakó létesítményhez kapcsolódó tevékenység esetében a hulladékgazdálkodási hatóság a 92. § (2) bekezdésében foglaltakra tekintettel az ártalmatlanításra vonatkozó hulladékgazdálkodási engedélyben meghatározza a hulladéklerakón a települési hulladék részeként elhelyezhető biológiailag lebomló szerves anyag mennyiségét.
 
-18/A. § (1) A B3 alkategóriájú hulladéklerakó üzemeltetője a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben keletkezett – és a B3 alkategóriájú hulladéklerakóban lerakható – hulladék átvételét a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elnökének e törvény végrehajtására kiadott rendeletében meghatározott hulladéklerakási díjért.
+18/A. § (1) A B3 alkategóriájú hulladéklerakó üzemeltetője, tulajdonosa, valamint a koncessziós területen hulladékgazdálkodási engedély alapján legnagyobb éves befogadó kapacitással rendelkező, és a hulladékgazdálkodási koncessziós jogosultság átengedésével kapcsolatos nyilvános pályázat kiírásának időpontját megelőzően üzembe helyezett nem veszélyes vegyes települési hulladékot égető hulladékégető mű üzemeltetője, tulajdonosa (e § alkalmazásában a továbbiakban együtt: üzemeltető) a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben keletkezett – és a B3 alkategóriájú hulladéklerakóban lerakható, vagy a hulladékégető műben kezelhető – hulladéknak a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elnökének e törvény végrehajtására kiadott rendeletében meghatározott átvételi díj ellenében történő átvételét.
 
-(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett B3 alkategóriájú hulladéklerakó szabad kapacitásáról tájékoztatást ad.
+(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett (1) bekezdés szerinti B3 alkategóriájú hulladéklerakó vagy a hulladékégető mű szabad kapacitásáról tájékoztatást ad.
 
-(3) Ha a B3 alkategóriájú hulladéklerakó üzemeltetője a szabad kapacitás ellenére a lerakóban ártalmatlanítható hulladék átvételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
+(3) Ha az üzemeltető a szabad kapacitás ellenére az (1) bekezdés szerinti B3 alkategóriájú lerakóban vagy a hulladékégető műben kezelhető hulladék átvételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
 
-(4) E § alkalmazásában 2023. július 1. napjától a hulladékgazdálkodási közszolgáltatás ellátását 2023. június 30. napjáig szolgáló lerakó kapacitás szabad kapacitásnak minősül.
+(4)
 
-18/B. § (1) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díj fedezetet kell, hogy nyújtson a hulladéklerakó működtetésével kapcsolatos indokolt költségekre, a 70. §-ban meghatározott céltartalék képzésére és a hulladéklerakási járulék megfizetésére.
+18/B. § (1) A B3 alkategóriájú hulladéklerakó esetében alkalmazható átvételi díj fedezetet kell, hogy nyújtson a hulladéklerakó működtetésével kapcsolatos indokolt költségekre, a 70. §-ban meghatározott céltartalék képzésére és a hulladéklerakási járulék megfizetésére. A 18/A. § (1) bekezdése szerinti hulladékégető mű esetében alkalmazható átvételi díj fedezetet kell, hogy nyújtson a hulladékégető mű működtetésével kapcsolatos indokolt költségére.
 
-(2) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díjat egyéves díjfizetési időszakra, általános forgalmi adó nélkül számított egységnyi díjtételek szerint kell meghatározni.
+(2) A 18/A. § (1) bekezdés szerinti B3 alkategóriájú hulladéklerakó, valamint hulladékégető mű esetében alkalmazható átvételi díjat egyéves díjfizetési időszakra, általános forgalmi adó nélkül számított egységnyi díjtételek szerint kell meghatározni.
 
-(3) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díjat a Hivatal elnöke e törvény végrehajtására kiadott rendeletében állapítja meg.
+(3) A (2) bekezdés szerinti átvételi díjat a Hivatal elnöke e törvény végrehajtására kiadott rendeletében a tárgyévet megelőző év szeptember 15. napjáig állapítja meg.
 
-18/C. § (1) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
+18/C. § (1) Az átvételi díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
 
-- a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a B3 alkategóriájú hulladéklerakó üzemeltetőjét, vagy a tulajdonosát a jogszerű ellenérték alkalmazására, és
-- b) kötelezi a B3 alkategóriájú hulladéklerakó üzemeltetőjét, vagy a tulajdonosát a rendelkezések megsértésével elért többletbevételnek a jegybanki alapkamat tárgyévi éves átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére.
+- a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi az érintett hulladékgazdálkodási létesítmény üzemeltetőjét, vagy a tulajdonosát a jogszerű ellenérték alkalmazására, és
+- b) kötelezi az érintett hulladékgazdálkodási létesítmény üzemeltetőjét, vagy a tulajdonosát a rendelkezések megsértésével elért többletbevételnek a jegybanki alapkamat tárgyévi éves átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére.
 
-(2) A Hivatal az (1) bekezdésben alkalmazott jogkövetkezmény mellett bírságot szab ki a B3 alkategóriájú hulladéklerakó üzemeltetőjével vagy a tulajdonosával szemben. A bírság mértékére az 51. § (3) bekezdése alkalmazandó.
+(2) A Hivatal az (1) bekezdésben alkalmazott jogkövetkezmény mellett bírságot szabhat ki az érintett hulladékgazdálkodási létesítmény üzemeltetőjével vagy a tulajdonosával szemben. A bírság mértékére az 51. § (3) bekezdése alkalmazandó.
 
-(3) A hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban az ügyintézési határidő huszonöt nap.
+(3) Az átvételi díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban az ügyintézési határidő 25 nap.
 
-(4) A Hivatal a hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait közhírré teszi.
+(4) A Hivatal az átvételi díj alkalmazásával kapcsolatos díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait honlapján közzéteszi.
 
-(5) A hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban e törvény erejénél fogva ügyfélnek minősül a B3 alkategóriájú hulladéklerakó üzemeltetője, vagy a tulajdonosa.
+(5) Az átvételi díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban e törvény erejénél fogva ügyfélnek minősül az érintett hulladékgazdálkodási létesítmény üzemeltetője, vagy a tulajdonosa.
 
-(6) A bíróság a Hivatal hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban hozott határozatát nem változtathatja meg.
+(6) A bíróság a Hivatal átvételi díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban hozott határozatát nem változtathatja meg.
 
-18/D. § (1) A hulladékgazdálkodási koncessziós jogosultság átengedésével kapcsolatos nyilvános pályázat kiírásának időpontját megelőzően üzembe helyezett nem veszélyes vegyes települési hulladékot égető hulladékégető mű, amelynek hulladékgazdálkodási engedélye a koncessziós területen a legnagyobb éves befogadható égethető hulladékmennyiséget tartalmazza, valamint az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz (e § alkalmazásában a továbbiakban: eszköz) üzemeltetője a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az eszköz használatát az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben, a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott díj ellenében.
+18/D. § (1) Az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz – a 18/A. § (1) bekezdése szerinti létesítményeket ide nem értve – (e § alkalmazásában a továbbiakban: eszköz) használatával, valamint igénybevételével összefüggő használati és igénybevételi díjak megállapítására vonatkozó szabályokat, a (4) bekezdés szerinti kérelem tartalmi követelményeit, a használati és igénybevételi díj meghatározására irányuló eljárási szabályokat a Hivatal elnöke az e törvény végrehajtására kiadott rendeletében határozza meg.
 
-(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett eszközök tekintetében a szabad kapacitásokról tájékoztatást ad.
+(2) Az eszköz üzemeltetője vagy tulajdonosa a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság, vagy a koncesszori alvállalkozó által igényelt eszköz használatot vagy igénybevételt az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben, az (1) bekezdés szerint meghatározott használati vagy igénybevételi díj ellenében.
 
-(3) Ha az érintett eszköz üzemeltetője a szabad kapacitás ellenére az eszköz használatát legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal, vagy új eszköz létesítése esetén a vonatkozó hulladékgazdálkodási engedély véglegessé válását követő egy hónapon belül, szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
+(3) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett eszközök tekintetében a szabad kapacitásokról tájékoztatást ad.
 
-(4) Az e §-ban alkalmazandó díj, a díjra vonatkozó rendelkezések megsértésének jogkövetkezményei, a bírság és a díjfelügyeleti eljárás tekintetében a 18/B–18/C. § rendelkezései irányadók.
+(4) Ha az érintett eszköz üzemeltetője vagy tulajdonosa a szabad kapacitás ellenére az eszköz használatát vagy igénybevételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal, vagy új eszköz létesítése esetén a vonatkozó hulladékgazdálkodási engedély véglegessé válását követő egy hónapon belül, nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt vagy a tulajdonost. A hulladékgazdálkodási hatóság kötelezést megállapító határozatával (e §-ban a továbbiakban: kötelezés) érintett eszköz használati vagy igénybevételi díját – kérelemre induló hatósági eljárásban – a Hivatal határozza meg.
 
-(5) Az e § alkalmazásában 2023. július 1. napjától a hulladékgazdálkodási közszolgáltatás ellátásához 2023. június 30. napjáig igénybe vett eszköz szabad kapacitásnak minősül.
+(5) Ha a kötelezés véglegessé válását követően a kötelezéssel érintett eszköz üzemeltetője vagy tulajdonosa, valamint a kötelezés iránti kérelmet előterjesztő koncesszor, koncessziós társaság vagy koncesszori alvállalkozó az eszköz használati vagy igénybevételi díjának összegében nem tudnak megállapodni, akkor annak meghatározása tárgyában – a felek bármelyikének kérelmére – a Hivatal dönt. A Hivatal az eljárása során mindkét féltől jogosult adatot kérni.
+
+(6) A Hivatal (4) bekezdés szerinti eljárásában az ügyintézési határidő 30 nap.
+
+18/E. § A 18/A. és 18/D. § alkalmazásában a hulladékgazdálkodási közszolgáltatás ellátásához igénybe vett, valamint hulladékgazdálkodási közszolgáltatás vagy a hulladékgazdálkodási közszolgáltatási résztevékenység ellátására létesült, vagy beszerzésre került hulladékgazdálkodási eszköz szabad kapacitásnak minősül.
 
 #### 13. A hulladék behozatala, kivitele és átszállítása
 
@@ -609,9 +616,13 @@ kötheti.
 
 (6) A kiterjesztett gyártói felelősségi rendszer a működtetésében részt vevő felek között – beleértve a gyártókat és forgalmazókat, a magán- és közszektorbeli hulladékgazdálkodási szereplőket, a települési önkormányzatokat, a civil szervezeteket és a szociális jellegű vállalkozásokat, az újrahasználati és javítási hálózatokkal és az újrahasználatra való előkészítéssel foglalkozó gazdasági szereplőket – a rendszeres párbeszéd lehetőségét biztosítja.
 
-30/C. § (1) A hulladékgazdálkodási hatóság hulladékanalízisen alapuló szakértői becsléssel állapítja meg a kiterjesztett gyártói felelősségi körbe kötelezően tartozó termékekből a települési hulladékként kezelésre, illegális lerakásra, köztisztaság keretében eltávolításra kerülő hulladék évi országos mennyiségét.
+30/C. § (1) A hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) hulladékanalízisen alapuló szakértői becsléssel állapítja meg a kiterjesztett gyártói felelősségi körbe kötelezően tartozó termékekből a települési hulladékként kezelésre, illegális lerakásra, köztisztaság keretében eltávolításra kerülő hulladék évi országos mennyiségét.
 
-(2) A kiterjesztett gyártói felelősségi rendszerek gyártóinak, szervezeteinek a közszolgáltatók illetve az önkormányzatok részére az (1) bekezdés miatti költségeiket kormányrendeletben meghatározott módon és mértékben meg kell téríteni.
+(2) A kiterjesztett gyártói felelősségi körbe tartozó termékekből származó, a települési hulladékként kezelésre kerülő, az illegálisan lerakásra kerülő hulladékkal összefüggő, 61. § (29) bekezdése szerinti, továbbá a köztisztaság keretében eltávolításra kerülő hulladékkal összefüggő, a koncessziós társaságnál és az önkormányzatoknál felmerülő, és megtérítendő, egymástól elkülönített indokolt költségeket a 30/A. § (3) bekezdése szerinti pénzügyi hozzájárulás tartalmazza.
+
+(3) A miniszter az állami hulladékgazdálkodási közfeladattal érintett hulladék minőségi és mennyiségi adatainak feltárása érdekében a vonatkozó szabványoknak megfelelően, évente országos hulladékanalízist készít.
+
+(4) A hulladékanalízis módszertanát a miniszter – a koncessziós társaság javaslata alapján – legalább évente január 31-ig felülvizsgálja, és azt a miniszter által vezetett minisztérium honlapján a tárgyév december 31-ig közzéteszi.
 
 #### 17. A hulladékbirtokos kötelezettségei
 
@@ -648,7 +659,7 @@ kötheti.
 
 #### 17/A. Az állami hulladékgazdálkodási közfeladatra vonatkozó rendelkezések
 
-32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében a hulladékgazdálkodásért felelős miniszter – a (2) bekezdésben meghatározott kivétellel –
+32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében a miniszter – a (2) bekezdésben meghatározott kivétellel –
 
 - a) meghatározza a hulladékgazdálkodás országos céljait, amelyek a 73. § (1) bekezdése szerinti e törvényben megállapított céloknak minősülnek,
 - b) meghatározza a hulladékgazdálkodás fejlesztésének irányait,
@@ -669,7 +680,7 @@ kötheti.
 
 (4c) A megfelelőségi vélemény kiállítására irányuló eljárásban az ügyintézési határidő 60 nap.
 
-(4d) A (2)–(4) és a (4b) bekezdés szerinti feladatokhoz kapcsolódó nyilvántartások adatait a hulladékgazdálkodásért felelős miniszter az (1) bekezdés e) pontja szerinti feladatainak ellátása érdekében megismerheti és kezeli.
+(4d) A (2)–(4) és a (4b) bekezdés szerinti feladatokhoz kapcsolódó nyilvántartások adatait a miniszter az (1) bekezdés e) pontja szerinti feladatainak ellátása érdekében megismerheti és kezeli.
 
 (4e) A Koordináló szerv:
 
@@ -677,7 +688,7 @@ kötheti.
 - b) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
 - c) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irányainak teljesülése érdekében kialakítja az infrastrukturális erőforrások optimális használatának rendszerét,
 - d) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
-- e) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
+- e) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a miniszter rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
 - f) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
 
 (4f) A miniszter (1) bekezdésben meghatározott feladatai vonatkozásában a (2) és a (4e) bekezdésben meghatározott szerv javaslatot tehet.
@@ -688,7 +699,7 @@ kötheti.
 
 (5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás szerveitől.
 
-(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat az általa ellátandó hulladékgazdálkodási közszolgáltatás ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli.
+(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat a hulladékgazdálkodási közszolgáltatás ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli.
 
 (6)
 
@@ -886,7 +897,7 @@ kötheti.
 
 47/A. § (1) A hulladékgazdálkodási közszolgáltatási résztevékenység ellátásáért szedhető közszolgáltatási díjat és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjakat a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg a tárgyévet megelőző év november 30. napjáig.
 
-(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a Hivatal elnökének az 53/N. § (1) és (2) bekezdése szerinti rendelete és módszertani útmutatója alapján meghatározott indokolt költség figyelembevételével, valamint a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére a tárgyévet megelőző év szeptember 15. napjáig.
+(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a Hivatal elnökének az 53/N. § (1) és (2) bekezdése szerinti rendelete és módszertani útmutatója alapján meghatározott indokolt költség figyelembevételével küldi meg a miniszter részére a tárgyévet megelőző év szeptember 15. napjáig.
 
 (3) A hulladékgazdálkodási közszolgáltatási díjat, és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjakat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 45 napon belül tegye meg javaslatát.
 
@@ -921,11 +932,11 @@ kötheti.
 - a) szakmailag felügyeli a megfelelő hulladékgazdálkodási előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzést és vizsgáztatást,
 - b) részt vesz a képzés tartalmi követelményeinek kidolgozásában és a képzés szervezésében.
 
-47/D. § (1) A Hivatal a működő hulladékgazdálkodási eszközökről és létesítményekről az 53/B. § (6) bekezdése szerinti tájékoztatóban foglalt, valamint a hivatalból tudomására jutott adatok alapján vagyonkatasztert működtet a Hivatal és a hulladékgazdálkodásért felelős miniszter hulladékgazdálkodással kapcsolatos feladatainak ellátása érdekében. A vagyonkataszter tartalma tekintetében az ingatlanokra vonatkozó adatszolgáltatásra az önkormányzatok tulajdonában lévő ingatlanvagyon nyilvántartási és adatszolgáltatási rendjéről szóló kormányrendelet ingatlanvagyon-kataszterre vonatkozó rendelkezéseit kell alkalmazni.
+47/D. § (1) A Hivatal a működő hulladékgazdálkodási eszközökről és létesítményekről az 53/B. § (6) bekezdése szerinti tájékoztatóban foglalt, valamint a hivatalból tudomására jutott adatok alapján vagyonkatasztert működtet a Hivatal és a miniszter hulladékgazdálkodással kapcsolatos feladatainak ellátása érdekében. A vagyonkataszter tartalma tekintetében az ingatlanokra vonatkozó adatszolgáltatásra az önkormányzatok tulajdonában lévő ingatlanvagyon nyilvántartási és adatszolgáltatási rendjéről szóló kormányrendelet ingatlanvagyon-kataszterre vonatkozó rendelkezéseit kell alkalmazni.
 
 (2) A Hivatal a vagyonkataszter adatai hitességének biztosítása érdekében az ország területén működő hulladékgazdálkodási eszközről és létesítményről azok tulajdonosától és használójától minden olyan tájékoztatást és adatot kérhet, amely a vagyonkataszter teljességéhez szükséges. A tulajdonos és a használó a Hivatal által megjelölt tartalommal, formában és határidőn belül eleget tesz tájékoztatási és adatszolgáltatási kötelezettségének. Ha a kötelezett a tájékoztatást és adatszolgáltatást a Hivatal hiánypótlási felhívása ellenére nem teljesíti, a Hivatal bírságot szabhat ki.
 
-(3) A Hivatal a vagyonkataszter adatait a tárgyévet követő január 31-ig megküldi a hulladékgazdálkodásért felelős miniszter részére, valamint a hulladékgazdálkodásért felelős miniszter megkeresésére egyedi adatszolgáltatást teljesít az e törvény végrehajtására kiadott miniszteri rendeletben foglaltak szerint.
+(3) A Hivatal a vagyonkataszter adatait a tárgyévet követő január 31-ig megküldi a miniszter részére, valamint a miniszter megkeresésére egyedi adatszolgáltatást teljesít az e törvény végrehajtására kiadott miniszteri rendeletben foglaltak szerint.
 
 48. § (1) A hulladékgazdálkodási közszolgáltatási díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
 
@@ -967,7 +978,7 @@ kötheti.
 
 (2) A hulladékgazdálkodási közszolgáltatási díjjal összefüggő közigazgatási hatósági ügyekben a meghatározott cselekmény végrehajtását a Hivatal foganatosítja.
 
-(3) A 18/C. § (2) bekezdése, a 18/D. § (4) bekezdése, a 47/A. § (4) és (4a) bekezdése, a 47/D. § (2) bekezdése és a 48. § (1a) bekezdése alapján kiszabható bírság legmagasabb összege, gazdálkodó szervezet esetében a gazdálkodó szervezet előző üzleti évi nettó árbevételének 1%-a, de legfeljebb ötvenmillió forint, települési önkormányzat és települési önkormányzati társulás esetében a települések lakosainak száma, szorozva 100 forinttal, de legfeljebb ötvenmillió forint.
+(3) A 18/C. § (2) bekezdése, a 18/D. § (4) bekezdése, a 47/A. § (4) és (4a) bekezdése és a 47/D. § (2) bekezdése alapján kiszabható bírság legmagasabb összege, gazdálkodó szervezet esetében a gazdálkodó szervezet előző üzleti évi nettó árbevételének 1%-a, de legfeljebb ötvenmillió forint, települési önkormányzat és települési önkormányzati társulás esetében a települések lakosainak száma, szorozva 100 forinttal, de legfeljebb ötvenmillió forint.
 
 52. § (1) A hulladékgazdálkodási közszolgáltatás igénybevételéért az ingatlanhasználót terhelő díjhátralék és az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségei adók módjára behajtandó köztartozásnak minősülnek.
 
@@ -1058,7 +1069,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 
 - a) a Koordináló szerv a hulladékgazdálkodási közszolgáltatással összefüggő (7) bekezdésben meghatározott,
 - b) a helyi önkormányzat – szükség esetén ideértve az önkormányzati társulást is – a hulladékgazdálkodási közszolgáltatással nem érintett hulladékgazdálkodási tevékenység ellátásába bevont önkormányzati vagyonelemekkel kapcsolatos, az önkormányzati vagyonkataszterben szereplő,
-- c) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter – a fővárosi és megyei kormányhivatalok bevonásával – a nem hulladékgazdálkodási közszolgáltatási tevékenységet végző gazdálkodó szervezeteknek a hulladék gyűjtéséhez, szállításához, közvetítéséhez, kereskedelméhez és a hasznosítás kivételével a kezeléséhez igénybevett – ideértve a bérletet vagy lízinget is – vagyonelemek hulladékgazdálkodási engedélyében szereplő
+- c) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter – a fővárosi és vármegyei kormányhivatalok bevonásával – a nem hulladékgazdálkodási közszolgáltatási tevékenységet végző gazdálkodó szervezeteknek a hulladék gyűjtéséhez, szállításához, közvetítéséhez, kereskedelméhez és a hasznosítás kivételével a kezeléséhez igénybevett – ideértve a bérletet vagy lízinget is – vagyonelemek hulladékgazdálkodási engedélyében szereplő
 
 adatokat.
 
@@ -1133,7 +1144,7 @@ adatokat.
 
 (4) A koncessziós díjat vagy az ellentételezést a koncesszor, a koncessziós társaság, vagy – a Konctv. végrehajtására kiadott kormányrendeletben kijelölt központi kormányzati igazgatási szerv vagy miniszter hozzájárulásával – harmadik fél teljesíti.
 
-53/G. § (1) A koncessziós díjat a miniszter a hulladékgazdálkodási hatóság útján szedi be.
+53/G. § (1) A koncessziós díjat a miniszter az általa vezetett minisztérium kijelölt szervezeti egysége útján szedi be.
 
 (2) A koncessziós díjból befolyt összeg a miniszter által vezetett minisztérium bevétele, azt a hulladékképződés csökkentését támogató feladatokra kell fordítani.
 
@@ -1157,41 +1168,51 @@ adatokat.
 
 (5) A miniszter, a Koordináló szerv és az érintett hatóságok kötelesek együttműködni a koncesszorral és a koncessziós társasággal a koncessziós szerződésben vállalt kötelezettségek teljesítése érdekében a koncessziós szerződés fennállása alatt.
 
-53/J. § (1) A miniszter – a hulladékgazdálkodási hatóság útján küldött – megkeresésére a koncessziós társaság köteles minden adatot, tájékoztatást, elemzést, információt rendelkezésre bocsátani az adatkéréstől számított 15 napon belül.
+53/J. § (1) A miniszter megkeresésére a koncessziós társaság köteles minden adatot, tájékoztatást, elemzést, információt rendelkezésre bocsátani az adatkéréstől számított 15 napon belül.
 
-(2) A koncessziós társaság – a hulladékgazdálkodási hatóság útján – a miniszter részére a tevékenységéről, a koncessziós szerződésben foglalt kötelezettségek teljesítéséről és a pénzügyi helyzetéről évente május 31. napjáig beszámol és minden félévet követő három hónapon belül tájékoztatást ad.
+(2) A koncessziós társaság a miniszter részére a tevékenységéről, a koncessziós szerződésben foglalt kötelezettségek teljesítéséről és a pénzügyi helyzetéről évente május 31. napjáig beszámol és minden félévet követő három hónapon belül tájékoztatást ad. Az éves beszámolót egyidejűleg megküldi a Hivatal részére is.
 
-(3) A miniszter – a hulladékgazdálkodási hatóság útján – a benyújtott beszámolóval vagy tájékoztatóval összefüggésben további felvilágosítást és adatszolgáltatást kérhet a koncessziós társaságtól.
+(3) A miniszter a benyújtott beszámolóval vagy tájékoztatóval összefüggésben további felvilágosítást és adatszolgáltatást kérhet a koncessziós társaságtól.
 
 (4) Az (1)–(3) bekezdésben meghatározott, a koncessziós társaságra vonatkozó kötelezettségek kiterjednek a koncesszorra és a koncesszori alvállalkozóra is.
 
-53/K. § (1) A koncessziós társaság a hulladékgazdálkodási kötelezettségeit szolgáló tevékenységeinek bemutatására évente, tízéves időtartamra gördülő fejlesztési rendszertervet készít, melyet az első 10 évre vonatkozóan 2022. október 31-ig nyújt be. A 10 évre vonatkozó gördülő fejlesztési rendszertervek felülvizsgált változatát a koncessziós társaság az adott év január 15. napjáig köteles – a hulladékgazdálkodási hatóság útján – benyújtani a miniszternek.
+53/K. § (1) A koncessziós társaság a hulladékgazdálkodási kötelezettségeit szolgáló tevékenységeinek bemutatására évente, tízéves időtartamra gördülő fejlesztési rendszertervet készít, melyet az első 10 évre vonatkozóan 2022. október 31-ig nyújt be. A 10 évre vonatkozó gördülő fejlesztési rendszertervek felülvizsgált változatát a koncessziós társaság az adott év január 15. napjáig köteles benyújtani a miniszternek.
 
-(2) A gördülő fejlesztési rendszerterveket a miniszter – a hulladékgazdálkodási hatóság javaslata alapján, a Hivatal véleményének kikérését követően – hagyja jóvá a benyújtást követő 45 napon belül.
+(2) A gördülő fejlesztési rendszerterveket a miniszter a Hivatal véleményének kikérését követően hagyja jóvá a benyújtást követő 45 napon belül.
 
-(3) A miniszter a rendszerelem fejlesztését akkor hagyja jóvá, ha a koncessziós társaság igazolja, hogy a fejlesztés szükséges a hulladékgazdálkodási jogszabályokban meghatározott hulladékgazdálkodási kötelezettségek, különösen az egyes, a koncessziós szerződéssel érintett hulladékáramokra meghatározott célértékek teljesítéséhez és a fejlesztéssel járó költségek arányban állnak az elérni kívánt környezetvédelmi és gazdasági előnyökkel.
+(3) A gördülő fejlesztési rendszerterv tételének vagy elemének jóváhagyását a miniszter megtagadja, ha:
 
-(4) A megvalósított éves fejlesztésekről a koncessziós társaság a következő év január 15. napjáig beszámol – a hulladékgazdálkodási hatóságon keresztül – a miniszternek.
+- a) a benne foglalt valamely beruházás vagy beszerzés nem szükséges az e törvény végrehajtására kiadott jogszabályban vagy a koncessziós szerződésben meghatározott hulladékgazdálkodási tevékenységhez, különösen az egyes hulladékáramokra meghatározott célértékek teljesítéséhez,
+- b) valamely beruházás vagy beszerzés költsége nem áll arányban az elérni kívánt környezetvédelmi és gazdasági előnyökkel, vagy
+- c) az nem felel meg a koncessziós társaság által a koncessziós szerződésben vállalt kötelezően elvégzendő beruházásoknak és beszerzéseknek, vagy a koncessziós időszak első 10 évére készített beruházási ütemtervnek.
 
-(5) A miniszter – a hulladékgazdálkodási hatóság bevonásával – a koncessziós társaság (4) bekezdésben foglalt beszámolója alapján a kézhezvételtől számított 30 napon belül elvégzi a megvalósított fejlesztések fejlesztési rendszertervben foglaltakkal való összhangjának ellenőrzését.
+(4) A megvalósított éves fejlesztésekről a koncessziós társaság a következő év január 15. napjáig beszámol a miniszternek. A beszámolót egyidejűleg megküldi a Hivatal részére is.
+
+(5) A miniszter a koncessziós társaság (4) bekezdésben foglalt beszámolója alapján a kézhezvételtől számított 30 napon belül elvégzi a megvalósított fejlesztések fejlesztési rendszertervben foglaltakkal való összhangjának ellenőrzését.
 
 (6) A koncessziós szerződés hatálya alatti rendszerelem fejlesztés során keletkező vagyonelem tulajdonjoga a koncessziós társaságot illeti meg azzal, hogy azt a koncessziós szerződés megszűnéséig – az állam részére történő elidegenítés kivételével – nem idegenítheti el és nem terhelheti meg. A koncesszió időtartama alatt fejlesztett vagyonelemek tekintetében az államot a koncessziós szerződés megszűnésekor könyv szerinti értéken vételi jog illeti meg.
 
 (7) Ha a (6) bekezdés szerinti rendszerelem fejlesztéséhez a koncesszor az 53/I. § (2) bekezdése szerinti támogatáspolitikai eszközt vett igénybe, akkor csak a fejlesztéshez biztosított önerő könyv szerinti értéke vehető figyelembe a vételi jog érvényesítésekor.
 
-53/L. § (1) A miniszter – a hulladékgazdálkodási hatóság bevonásával – az 53/J. § szerinti éves beszámoló és az 53/K. § szerinti éves fejlesztési rendszerterv alapján átfogó elemzést készít a koncesszió hatálya alá tartozó hulladékgazdálkodási tevékenységek ellátásáról, a koncessziós díj felhasználásról és az érintett hulladékáramokra meghatározott célértékek teljesítéséről a Kormány számára minden év október 31-éig.
+53/L. § (1) A miniszter az 53/J. § szerinti éves beszámoló és az 53/K. § szerinti éves fejlesztési rendszerterv alapján átfogó elemzést készít a koncesszió hatálya alá tartozó hulladékgazdálkodási tevékenységek ellátásáról, a koncessziós díj felhasználásról és az érintett hulladékáramokra meghatározott célértékek teljesítéséről a Kormány számára minden év október 31-éig.
 
 (2) A miniszter az e törvényben meghatározott kötelezettségek elmulasztása esetén kezdeményezheti a koncessziós társaság nem a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásához szükséges hulladékgazdálkodási engedélyének felfüggesztését.
 
 53/M. § A koncessziós kötelezettségek teljesítése során törekedni kell az 53/B. § (6) bekezdése szerinti tájékoztatóban meghatározott hulladékgazdálkodási vagyonelemek további használatára a legkisebb költség elvét is figyelembe véve.
 
-53/N. § (1) A koncesszor – ideértve a koncessziós társaságot és a koncesszori alvállalkozókat is – indokolt költségeinek meghatározására és szabályozására, valamint a 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésére vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a tárgyévet megelőző év augusztus 15-ig.
+53/N. § (1) A koncessziós társaság és a koncesszori alvállalkozók indokolt költségeinek, az önkormányzatok 30/C. § (2) bekezdése szerinti indokolt költségeinek meghatározására és szabályozására, valamint a 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésére vonatkozó alapelveket és keretszabályokat a Hivatal elnöke az e törvény végrehajtására kiadott rendeletben állapítja meg a rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 15-ig.
 
-(2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal módszertani útmutatót ad ki, amelyet a honlapján közzétesz a tárgyévet megelőző év augusztus 31-ig.
+(1a) A Hivatal az (1) bekezdésben meghatározott rendeletet évente, augusztus 15-ig felülvizsgálja.
 
-(3) Az (1) bekezdés szerinti rendelet, valamint a módszertani útmutatók előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal módszertani útmutatót ad ki, amelyet a honlapján közzétesz az (1) bekezdés szerinti rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 31-ig.
 
-(4) Az (1) bekezdés szerinti indokolt költség mértékét a Hivatal elnöke – figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatókra – rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak kell eltelnie.
+(2a) A Hivatal a (2) bekezdésben meghatározott módszertani útmutatót évente, augusztus 31-ig felülvizsgálja.
+
+(3) Az (1) bekezdés szerinti rendelet, valamint a módszertani útmutató előkészítése során a Hivatal közzéteszi a honlapján a tervezeteket, amelyeket az érintett engedélyesek és a felhasználók reprezentatív érdekképviseletei véleményezhetnek
+
+(4) A koncesszori alvállalkozók (1) bekezdés szerinti indokolt költségeinek mértékét – hulladékgazdálkodási tevékenységenkénti bontásban – valamint az önkormányzatok 30/C. § (2) bekezdése szerinti indokolt költségeinek mértékét a Hivatal elnöke, figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatóra, az e törvény végrehajtására kiadott rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
+
+(5) A költséghatékony állami hulladékgazdálkodási közfeladat-ellátás érvényesülése érdekében a 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésekor figyelembe vett indokolt költségekről, az ezekkel összefüggő eszköz- és költség-felülvizsgálatról – különösen az eszközértékelés, a statikus, a transzferár és a benchmark vizsgálatok eredményéről –, az alkalmazott ösztönzőkről és elvonásokról a Hivatal elnöke a 47/A. § (2) bekezdése szerinti díjjavaslat miniszter számára történő megküldésével egyidejűleg tájékoztatja a koncessziós társaságot.
 
 ### VI. Fejezet — AZ EGYES HULLADÉKFAJTÁKRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
@@ -1263,13 +1284,21 @@ adatokat.
 
 61. § (1) Hulladéktól a 31. §-ban meghatározottakra figyelemmel, csak kijelölt vagy arra fenntartott helyen, a környezet veszélyeztetését kizáró módon lehet megválni. Nem mentesül a hulladék birtokosára, illetve tulajdonosára vonatkozó szabályok alól az, aki a birtokában, illetve a tulajdonában lévő hulladéktól nem az e törvényben meghatározott kötelezettségek teljesítésével válik meg. Az ingatlan tulajdonosát felelősség terheli az illegális hulladéklerakás vagy elhagyás megelőzéséért.
 
-(2) Az ingatlanon más által, az ingatlantulajdonos hozzájárulása nélkül, ellenőrizetlen körülmények között elhelyezett vagy elhagyott hulladék elszállításának és kezelésének kötelezettsége (a továbbiakban: elhagyott hulladék felszámolása) – a hulladékgazdálkodási hatóság bírságot, valamint kötelezést megállapító közigazgatási hatósági döntésének véglegessé válásától számított tizenöt napon belül – a hulladék tulajdonosát vagy korábbi birtokosát terheli.
+(2) Az ingatlanon más által, az ingatlantulajdonos hozzájárulása nélkül, ellenőrizetlen körülmények között elhelyezett vagy elhagyott hulladék elszállításának és kezelésének kötelezettsége (a továbbiakban: elhagyott hulladék felszámolása) – a hulladékgazdálkodási hatóság bírságot, valamint kötelezést megállapító közigazgatási hatósági döntésének véglegessé válásától számított harminc napon belül – a hulladék tulajdonosát vagy korábbi birtokosát terheli.
 
 (3) Ha a (2) bekezdés szerinti tulajdonos vagy a korábbi birtokos ismeretlen, az elhagyott hulladék felszámolásának kötelezettsége – ellenkező bizonyításig – azt az ingatlantulajdonost terheli, akinek az ingatlanán a hulladékot elhelyezték vagy elhagyták. Az ingatlan tulajdonosa mentesül a felelősség alól, ha megtett minden tőle elvárható intézkedést, hogy a hulladék elhelyezését vagy elhagyását megakadályozza és a hulladékgazdálkodási hatóság eljárása során bizonyítja a hulladék korábbi birtokosának vagy az ingatlan tényleges használójának személyét. Társasházak esetében az ingatlan tulajdonosa vonatkozásában a társasházakról szóló 2003. évi CXXXIII. törvényben, a lakásszövetkezetek esetében a lakásszövetkezetekről szóló 2004. évi CXV. törvényben foglaltak irányadóak.
 
-(4) Az elhagyott hulladék felszámolására a (2) vagy (3) bekezdés szerint kötelezett személy (e § alkalmazásában a továbbiakban: kötelezett) a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított tizenöt napon belül gondoskodik a hulladék ingatlanról történő elszállításáról, és az elszállítás tényét igazolja a hulladékgazdálkodási hatóság ingatlan fekvése szerint illetékes területi szervénél az átvevő által a hulladékgazdálkodásért felelős miniszter rendeletében meghatározott formában és tartalommal kiállított teljes bizonyító erejű magánokirattal. A hulladékgazdálkodási hatóság a döntést közérdekből azonnal végrehajthatónak nyilváníthatja. A hulladék felszámolásával összefüggésben felmerülő költségek a kötelezettet terhelik.
+(3a) Az elhagyott hulladék felszámolása tárgyában a (2) vagy (3) bekezdés szerinti kötelezést a hulladékgazdálkodási hatóság a közérdek védelme miatt azonnal végrehajthatónak nyilvánítja. A hulladék felszámolásával összefüggésben felmerülő költségek a kötelezettet terhelik.
 
-(5) A kötelezettet terhelő meg nem fizetett hulladékgazdálkodási bírság adók módjára behajtandó köztartozásnak minősül. Ha a köztartozásnak az adók módjára történő behajtása eredménytelen természetes személy kötelezett esetén a meg nem fizetett közigazgatási bírság helyébe ötezer forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett közigazgatási bírság ötezerrel nem osztható részét nem kell a közérdekű munka előírásánál figyelembe venni.
+(4) Az elhagyott hulladék felszámolására a (2) vagy (3) bekezdés szerint kötelezett személy (e § alkalmazásában a továbbiakban: kötelezett) a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított 30 napon belül gondoskodik a hulladék ingatlanról történő elszállításáról, és az elszállítás tényét a hulladékgazdálkodási hatóság ingatlan fekvése szerint illetékes területi szervénél az átvevő által a miniszter rendeletében meghatározott teljes bizonyító erejű magánokiratokkal, vagy a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet szerinti szállítási lappal, illetve bizonylattal igazolja. Az igazolás egy példányát az átvevő átadással egyidejűleg a kötelezett részére átadja.
+
+(4a) A (4) bekezdés szerint kiállított okirat további egy példányát az átvevő – miután a kötelezettől átvett hulladékot hulladékkezelő létesítménynek átadta, és az átadás tényét a hulladékkezelő létesítményt üzemeltető szervezet képviselője aláírásával igazolta – a kötelezett részére, a hulladékkezelő létesítményben történő átadást követő 8 napon belül átadja. Ennek esetleges elmulasztását a kötelezett haladéktalanul jelzi a kötelezést kibocsátó hulladékgazdálkodási hatóság felé.
+
+(4b) A hulladékkezelő létesítményt üzemeltető szervezet képviselője aláírásával ellátott igazolást a kötelezett a (4a) bekezdés szerinti kézhezvételt követően haladéktalanul továbbítja a kötelezést kibocsátó hulladékgazdálkodási hatóság részére.
+
+(4c) Ha a (4) bekezdés szerinti igazolás kiállítása akadályba ütközik, a kötelezett az elszállítás tényét a (4) bekezdés szerinti miniszteri rendeletben meghatározott teljes bizonyító erejű magánokirattal igazolja, és annak kiállítását követően azt haladéktalanul továbbítja a kötelezést kibocsátó hulladékgazdálkodási hatóság részére.
+
+(5) A kötelezettet terhelő meg nem fizetett hulladékgazdálkodási bírság és a hulladék elszállíttatásának a végrehajtási eljárásban felmerült költsége (e bekezdésben a továbbiakban együtt: fizetési kötelezettség) adók módjára behajtandó köztartozásnak minősül. Ha a fizetési kötelezettségnek az adók módjára történő behajtása eredménytelen, természetes személy kötelezett esetén a meg nem fizetett fizetési kötelezettség helyébe ötezer forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett fizetési kötelezettség ötezerrel nem osztható részét nem kell a közérdekű munka előírásánál figyelembe venni.
 
 (6) Közérdekű munkára átváltás esetén a kötelezett személy – figyelemmel egészségi állapotára és képzettségére – köteles a számára meghatározott munkát elvégezni, személyi szabadsága egyébként nem korlátozható.
 
@@ -1341,11 +1370,15 @@ vonatkozó adatokat.
 
 (25) Az (1)–(4) bekezdésben foglaltakat a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) hatálya alá tartozó ingatlanok tekintetében azzal az eltéréssel kell alkalmazni, hogy az Nvtv. 6. § (9) bekezdése szerint az elhagyott hulladék felszámolására kötelezett az elhagyott hulladékról való tudomásszerzést követően haladéktalanul megteszi a bejelentést – a hulladék elhagyójának beazonosításához rendelkezésére álló adatok átadásával együtt – a hulladékgazdálkodási hatóságnak, és – a területileg illetékes közszolgáltató útján – a tudomásszerzéstől számított 30 napon belül gondoskodik az elhagyott hulladék felszámolásáról, és a (4) bekezdés szerinti teljes bizonyító erejű magánokiratot, valamint a hulladék felszámolásával összefüggésben felmerült költségei kimutatását megküldi a hulladékgazdálkodási hatóságnak.
 
-(26) A hulladékgazdálkodási hatóság e § szerinti döntését 15 napon belül hozza meg.
+(26)
 
 (27) A közigazgatási hatósági eljárás során a kieső ügyfél helyébe a polgári jog szerinti jogutódja lép. Ha e § szerinti kötelezettség végleges határozattal megállapításra került, és a kötelezett helyébe a jogutód lép, számára – indokolt kérelmére új teljesítési határidő megállapításával – lehetőséget kell biztosítani a kötelezettség önkéntes teljesítésére. A hulladékgazdálkodási hatóság jogutódlás előtt hozott végzése hatályos a jogutóddal szemben.
 
 (28) Az eljárás során elkobzás alkalmazásának van helye.
+
+(29) Ha a kötelezett a (4) bekezdésben foglalt elszállítási kötelezettségének nem tesz eleget, a hulladékgazdálkodási hatóság közigazgatási hatósági döntésében kötelezheti az ingatlan fekvése szerinti települési önkormányzatot a végrehajtás foganatosítására. A települési önkormányzat a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított harminc napon belül gondoskodik az elhagyott hulladék felszámolásáról. A felszámolással összefüggésben felmerült költségek a települési önkormányzat költségvetését terhelik azzal, hogy a felmerült költség a kötelezettől adók módjára behajtandó köztartozásnak minősül és az önkormányzat bevételét képezi.
+
+(30) Ha a települési önkormányzat a (29) bekezdésben meghatározott kötelezettségének nem tesz eleget, a hulladékgazdálkodási hatóság a tudomásszerzéstől számított harminc napon belül gondoskodik az ingatlanon elhagyott hulladék felszámolásáról. Az ezzel összefüggésben felmerült költségek erejéig a hatóság azonnali beszedési megbízást kezdeményez a települési önkormányzat ellen. Az így befolyt összeg a hulladékgazdálkodási hatóság bevételét képezi.
 
 ### VIII. Fejezet — A HULLADÉKGAZDÁLKODÁSI TEVÉKENYSÉGEKHEZ KAPCSOLÓDÓ KÖTELEZETTSÉGEK
 
@@ -1429,7 +1462,7 @@ kezeli.
 
 #### 29. Hulladéklerakási járulék
 
-68. § (1) A hulladéklerakó üzemeltetője, illetve a (2) bekezdésben meghatározott ártalmatlanítási művelet végzője (a továbbiakban együtt: járulékfizetésre kötelezett) a hulladéklerakás csökkentése, valamint az e törvényben meghatározott hasznosítási arányok teljesítése érdekében hulladéklerakási járulékot fizet.
+68. § (1) A hulladéklerakó üzemeltetője, illetve a (2) bekezdésben meghatározott ártalmatlanítási művelet végzője (a továbbiakban együtt: járulékfizetésre kötelezett) a hulladéklerakás csökkentése, valamint az e törvényben meghatározott hasznosítási arányok teljesítése érdekében hulladéklerakási járulékot fizet. A hulladéklerakási járulék adók módjára behajtandó köztartozás.
 
 (2) Hulladéklerakási járulékot – a 69. § (5) bekezdésében meghatározott kivételekkel – a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló miniszteri rendeletben meghatározott D1, D2, D3, D4, D5 és D12 kóddal ellátott ártalmatlanítási művelettel ártalmatlanított hulladék után kell fizetni. A hulladéklerakási járulék megfizetésének kötelezettsége a hulladék elhelyezésével keletkezik. A járulék mértékét 6000 Ft/tonna egységár alapulvételével a negyedévenkénti járulékfizetéssel érintett hulladék tömege alapján kell meghatározni.
 
@@ -1459,7 +1492,7 @@ vonatkozó adatokat.
 
 (3) A járulékfizetésre kötelezett által megfizetett összeget – ha az összes tartozásnál kisebb – sorrendben (ezen belül nemenként a legrégebbi tartozástól kezdve) az adóbírságra, a mulasztási bírságra, azt követően a késedelmi pótlékra, végül a hulladéklerakási járulék tartozásra kell elszámolni.
 
-(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon hulladékgazdálkodási hatóságot kell érteni.
+(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt, valamint az adóigazgatási rendtartásról szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon hulladékgazdálkodási hatóságot kell érteni. Az adózás rendjéről szóló törvény, valamint az adóról és az adóigazgatási eljárásról szóló törvény alkalmazásakor a hulladékgazdálkodási hatóság eljárása adóigazgatási eljárásnak minősül.
 
 (4a)
 
@@ -1481,11 +1514,11 @@ lerakása valósul meg,
 
 (6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után 68. § (2) bekezdésében meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.
 
-69/A. § (1) A hulladéklerakási járulékkal kapcsolatos jogsértő cselekmények megelőzése, valamint a ténylegesen lerakott hulladékmennyiség után fizetendő hulladéklerakási járulék megfizetésének biztosítása érdekében a járulékfizetésre kötelezett a hulladéklerakó területén elektronikus megfigyelő- és beléptető rendszert épít ki.
+69/A. § (1) A hulladéklerakási járulékkal kapcsolatos jogsértő cselekmények megelőzése, valamint a ténylegesen lerakott hulladékmennyiség után fizetendő hulladéklerakási járulék megfizetésének biztosítása érdekében a járulékfizetésre kötelezett a hulladéklerakó területén napi 24 órában szünetmentesen működő elektronikus megfigyelő- és beléptető rendszert épít ki.
 
 (2) A járulékfizetésre kötelezett az elektronikus megfigyelőrendszerrel a hulladék hulladéklerakóba történő beszállításáról, a hulladék tömegének hídmérlegen történő méréséről, valamint a gépjármű hulladéklerakóból történő kilépéséről elektronikus berendezéssel – hang rögzítése nélkül – mozgóképfelvételt (a továbbiakban: felvétel) készít.
 
-(3) Az elektronikus megfigyelőrendszert úgy kell kiépíteni, hogy a felvételen a hulladéklerakó területére be- és kilépő gépjárművek raktere, szállítmánya a hulladéklerakó bejáratától a hídmérlegig tartó útszakaszon folyamatosan és teljes egészében látható legyen, és a felvétel lehetőség szerint – az érintett személy azonosítására alkalmas módon – személyes adatot ne rögzítsen.
+(3) A (2) bekezdés szerinti elektronikus megfigyelő rendszert úgy kell telepíteni, hogy a szállító jármű raktere, szállítmánya folyamatosan és teljes egészében látható legyen, a megfigyelőrendszer látóteréből ne kerüljön ki. A felvételek alapján egyértelműen megállapíthatónak kell lennie, hogy a hulladékgazdálkodási létesítmény területére belépő, valamint ott közlekedő járművek ténylegesen a depónián vagy a létesítménynek más kezelőhelyén helyezték-e el a hulladékot. A felvétel az érintett személy azonosítására alkalmas személyes adatot nem rögzíthet.
 
 (4) A járulékfizetésre kötelezett az elektronikus beléptető rendszerrel a hídmérlegen áthaladó gépjármű rendszámát és a Ht. 68. § (5) bekezdés b) pontja szerinti adatokat rögzíti.
 
@@ -1546,9 +1579,9 @@ részére adhatók át.
 
 73. § (1) A hulladékgazdálkodási hatóság a hulladékgazdálkodás stratégiai célkitűzéseinek, az e törvényben megállapított célok elérésének, továbbá az alapvető hulladékgazdálkodási elvek – különösen a hulladékképződés megelőzésének elve – érvényesítésének érdekében előkészíti az Országos Hulladékgazdálkodási Tervet (a továbbiakban: OHT), és annak részeként az Országos Megelőzési Programot (a továbbiakban: OMP).
 
-(2) Az OHT és az OMP kidolgozásakor a hulladékgazdálkodásért felelős miniszter együttműködik az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
+(2) Az OHT és az OMP kidolgozásakor a miniszter együttműködik az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
 
-(3) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter terjeszti a Kormány elé.
+(3) Az OHT-t és az OMP-t a miniszter terjeszti a Kormány elé.
 
 (4) Az OHT és az OMP elfogadásáról a Kormány határozatban dönt, az OHT és az OMP normatív tartalommal rendelkező előírásait e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
@@ -1564,7 +1597,7 @@ részére adhatók át.
 
 (3) Az OHT és az OMP kidolgozását, egyeztetését, elfogadását a hulladékgazdálkodási tervre és a megelőzési programra vonatkozó részletes szabályokról szóló kormányrendelet szerint kell elvégezni.
 
-(4) A hulladékgazdálkodási hatóság az OHT-t és az OMP-t a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a hulladékgazdálkodásért felelős miniszter elé terjeszti.
+(4) A miniszter az OHT-t és az OMP-t a tervezési időszak minden második évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a Kormány elé terjeszti. Ha a felülvizsgálat eredménye indokolja, a miniszter előkészíti az OHT és az OMP módosításának tervezetét is, és a beszámolóval együtt a Kormány elé terjeszti.
 
 (5) A beszámolóban a hulladékgazdálkodási hatóság bemutatja a képződő hulladék mennyiségére, a hulladékgazdálkodás helyzetére, a hulladékkezelő létesítmények állapotára, a kezelési kapacitásokra, a kezelés végzésére és az ezek környezeti hatásaira vonatkozó információkat, valamint ezek alapján ismerteti a tervezett intézkedések előrehaladását, az OHT és az OMP esetleges módosításának szükségességét.
 
@@ -1615,7 +1648,7 @@ részére adhatók át.
   - cc) a termékek hulladékká válásának késleltetése, veszélyesanyag-tartalmuk csökkentése – különös tekintettel a tartós, újrahasználható és újrafeldolgozható termékekre, valamint az ezek előállítását szolgáló technológiákra –,
 - d) a meglévő és tervezett megelőzési intézkedések eredményeit és hatékonyságát, a hulladékképződés, valamint a veszélyes anyagok hulladékban való jelenlétének alakulását a jelentősebb hulladékáramok és a meghatározó gazdasági ágazatok vonatkozásában, figyelemmel a 4. és 5. mellékletben felsorolt eszközökre és intézkedésekre.
 
-77. § (1) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi, és elérhetőségét folyamatosan biztosítja.
+77. § (1) Az OHT-t és az OMP-t a miniszter az általa vezetett minisztérium honlapján közzéteszi, és elérhetőségét folyamatosan biztosítja.
 
 (2) A Kormány az OHT és az OMP végrehajtásának feltételeit biztosítja.
 
@@ -1640,7 +1673,7 @@ részére adhatók át.
 - b) adatokat gyűjt – a termék értékláncra és a hulladékgazdálkodásra vonatkozóan – az elhagyott hulladék felszámolás, a hulladék összetételének, innovatív válogatásának, feldolgozásának és hasznosítási megoldásainak meghatározása érdekében,
 - c) felméréseket végez a hulladékra, valamint az e törvény hatálya alá tartozó létesítményekre, tevékenységekre, és a tevékenységet végzőkre vonatkozóan.
 
-(4) Az (1) bekezdésben meghatározott felügyeletet a hulladékgazdálkodásért felelős miniszter a hulladékgazdálkodási hatóság útján látja el.
+(4) Az (1) bekezdésben meghatározott felügyeletet a miniszter a hulladékgazdálkodási hatóság útján látja el.
 
 (5) A hulladékgazdálkodási hatóság feladatait a Kormány által – e törvény végrehajtására kiadott kormányrendeletben – kijelölt szerv látja el.
 
@@ -1651,7 +1684,9 @@ részére adhatók át.
 - c) a körforgásos gazdaságra történő átállás érdekében a termék életciklus valamennyi szakaszának ellenőrzésére, minőségbiztosítására és felügyeletére vonatkozó feladatokat, valamint
 - d) az elhagyott hulladék felszámolásával kapcsolatos, e törvényben a települési önkormányzatok számára előírt feladatok körébe nem tartozó feladatokat.
 
-78/A. § (1) A hulladékgazdálkodásért felelős miniszter ellátja az állam 78. §-ban meghatározott feladatait. Ennek keretében
+(7) Az állam – a koncessziós társaság véleményének kikérése mellett – nemzeti célértékeket határozhat meg olyan termékáramok vonatkozásában, amelyekre európai uniós jogi aktus és az alapján hazai jogszabály célértékek teljesítését nem írja elő.
+
+78/A. § (1) A miniszter ellátja az állam 78. §-ban meghatározott feladatait. Ennek keretében
 
 - a) irányítja
   - aa) a törvényben vagy kormányrendeletben feladatkörébe utalt hulladékgazdálkodási tevékenységeket,
@@ -1662,13 +1697,13 @@ részére adhatók át.
 - d) jóváhagyja a hulladékgazdálkodási hatóság által előkészített több éves és éves nemzeti ellenőrzési tervet, valamint
 - e) ellátja a körforgásos gazdaságra történő átállással kapcsolatos feladatokat.
 
-(2) A hulladékgazdálkodás, a körforgásos gazdaságra történő átállás környezet állapotára gyakorolt hatásának megismerésére és azok fejlesztésére irányuló kutatások összehangolása, támogatása, értékelése és az állami hulladékgazdálkodással összefüggő kutatási célok teljesítésének biztosítása – a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével együttműködésben – a hulladékgazdálkodásért felelős miniszter feladata.
+(2) A hulladékgazdálkodás, a körforgásos gazdaságra történő átállás környezet állapotára gyakorolt hatásának megismerésére és azok fejlesztésére irányuló kutatások összehangolása, támogatása, értékelése és az állami hulladékgazdálkodással összefüggő kutatási célok teljesítésének biztosítása – a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével együttműködésben – a miniszter feladata.
 
-(3) A körforgásos gazdasági és hulladékgazdálkodási ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása a köznevelésért felelős miniszter, a felsőoktatásért felelős miniszter, valamint a hulladékgazdálkodásért felelős miniszter közös feladata, a hulladékgazdálkodási szakterületet érintő szakképzés tekintetében a hulladékgazdálkodásért felelős miniszter gyakorolja az ágazatért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányba tartozó felsőoktatási intézmények oktató munkáját.
+(3) A körforgásos gazdasági és hulladékgazdálkodási ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása a köznevelésért felelős miniszter, a felsőoktatásért felelős miniszter, valamint a miniszter közös feladata, a hulladékgazdálkodási szakterületet érintő szakképzés tekintetében a miniszter gyakorolja az ágazatért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányba tartozó felsőoktatási intézmények oktató munkáját.
 
-(4) A hulladékgazdálkodásért felelős miniszter és a hulladékgazdálkodási hatóság feladatainak ellátása érdekében jogosult az OKIR és a nemzeti hulladékgazdálkodási információs rendszer (a továbbiakban: NHIR) adataihoz való közvetlen hozzáférésre és azok kezelésére.
+(4) A miniszter és a hulladékgazdálkodási hatóság feladatainak ellátása érdekében jogosult az OKIR és a nemzeti hulladékgazdálkodási információs rendszer (a továbbiakban: NHIR) adataihoz való közvetlen hozzáférésre és azok kezelésére.
 
-78/B. § (1) A hulladékgazdálkodásért felelős miniszter a hulladékgazdálkodási igazgatásért való felelőssége körében
+78/B. § (1) A miniszter a hulladékgazdálkodási igazgatásért való felelőssége körében
 
 - a) közreműködik a nemzeti hulladékgazdálkodási politika végrehajtásában,
 - b) kapcsolatot tart az Európai Környezetvédelmi Ügynökséggel és a körforgásos gazdaság, valamint a hulladékgazdálkodás területén érintett nemzetközi, tagállami és hazai szervezetekkel, különös tekintettel a körforgásos gazdaság kérdéseivel foglalkozó Science Park(ok) tevékenységére,
@@ -1687,7 +1722,7 @@ részére adhatók át.
   - b) a kiemelt hulladékjogi szabályszegéseket elkövetők listáját,
   - c) a hulladékgyűjtő pontok listáját, és
   - d) a hulladékudvarok listáját,
-- 3. a körforgásos gazdaság tekintetében a terméklánc különböző etapjaiban részt vevők és a hulladékgazdálkodási tevékenységet folytatók segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a hulladékgazdálkodásért felelős miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad,
+- 3. a körforgásos gazdaság tekintetében a terméklánc különböző etapjaiban részt vevők és a hulladékgazdálkodási tevékenységet folytatók segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad,
 - 4. figyelemmel kíséri e törvény, valamint a végrehajtására kiadott jogszabályok érvényesülését, kezdeményezi az arra jogosultnál a szükséges jogszabályok megalkotását, módosítását,
 - 5. véleményezi a körforgásos gazdasággal, a hulladékgazdálkodással és a hulladékgazdálkodási hatóság működésével kapcsolatos jogszabálytervezeteket, valamint jogalkotási koncepciókat,
 - 6. közreműködik az elhagyott hulladék felszámolásában,
@@ -1695,20 +1730,20 @@ részére adhatók át.
 - 8. ellátja a hulladékgazdálkodási követelmények érvényesítésével összefüggő megfelelőségi és minőségbiztosítási feladatokat, ide nem értve a közszolgáltatók és közszolgáltatói alvállalkozók megfelelőségére vonatkozó, a 32/A. § (2) bekezdésében meghatározott hatásköröket,
 - 9. ellátja a körforgásos gazdaságra történő átállás támogatásához szükséges jogszabályban meghatározott feladatokat a miniszter utasításának megfelelően,
 - 10. ellátja a jogszabályban a hatáskörébe utalt egyéb feladatokat,
-- 11. folyamatos hulladékgazdálkodási adatelemzéseket végez a hulladékgazdálkodásért felelős miniszter utasításának megfelelően,
-- 12. folyamatos piacelemzést végez, a hulladékgazdálkodásért felelős miniszter utasításának megfelelően,
+- 11. folyamatos hulladékgazdálkodási adatelemzéseket végez a miniszter utasításának megfelelően,
+- 12. folyamatos piacelemzést végez, a miniszter utasításának megfelelően,
 - 13. javaslatot tesz a hulladékstátusz megszűnésére vonatkozó hazai jogszabályokra, egyéb szabályozókra,
-- 14. a hulladékgazdálkodásért felelős miniszter egyetértésében kidolgozza a hulladékgazdálkodási szabványokat és öko-címkéket,
+- 14. a miniszter egyetértésével kidolgozza a hulladékgazdálkodási szabványokat és öko-címkéket,
 - 15. gondoskodik a körforgásos gazdaság és a hulladékgazdálkodás területén az iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás szervezéséről, illetve végzéséről,
-- 16. végzi az ellenőrzések során vett minták vizsgálati eredményeinek országos értékelését és annak eredményét negyedévente megküldi a hulladékgazdálkodásért felelős miniszter részére,
+- 16. végzi az ellenőrzések során vett minták vizsgálati eredményeinek országos értékelését és annak eredményét negyedévente megküldi a miniszter részére,
 - 17. felügyeli és ellenőrzi a hulladékgazdálkodás e törvényben meghatározott egyes szereplőinek tevékenységét, tapasztalatairól beszámol a miniszternek,
 - 18. az integrált többéves nemzeti ellenőrzési terv alapján kidolgozza a termék értéklánc valamennyi elemére kiterjedő, kockázatalapú, területi éves ellenőrzési tervet, irányítja, szervezi és ellenőrzi annak végrehajtását,
 - 19. ellátja a hulladékgazdálkodási ágazat piacfelügyeleti ellenőrzési feladatait,
-- 20. egységes elveken alapuló kockázatbecslési eljárásokat dolgoz ki és a hulladékgazdálkodásért felelős minisztert tájékoztatja azok eredményeiről,
-- 21. kockázatbecslést végez, illetve felkérésre közreműködik más szervek által végzett kockázatbecslésben és a hulladékgazdálkodásért felelős minisztert tájékoztatja e tevékenységek eredményéről,
-- 22. koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését és a hulladékgazdálkodásért felelős minisztert tájékoztatja e tevékenységek eredményéről,
+- 20. egységes elveken alapuló kockázatbecslési eljárásokat dolgoz ki és a minisztert tájékoztatja azok eredményeiről,
+- 21. kockázatbecslést végez, illetve felkérésre közreműködik más szervek által végzett kockázatbecslésben és a minisztert tájékoztatja e tevékenységek eredményéről,
+- 22. koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését és a minisztert tájékoztatja e tevékenységek eredményéről,
 - 23. ellátja az e törvény hatálya alá tartozó termékekkel, szolgáltatásokkal és tevékenységekkel kapcsolatos tanúsítványok ellenőrzési, felügyeleti és minősítési feladatokat,
-- 24. központi kockázatkezelési rendszert működtet a hulladékgazdálkodási szabályok megsértésére irányuló cselekmények megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében és a hulladékgazdálkodásért felelős minisztert tájékoztatja e tevékenységek eredményéről,
+- 24. központi kockázatkezelési rendszert működtet a hulladékgazdálkodási szabályok megsértésére irányuló cselekmények megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében és a minisztert tájékoztatja e tevékenységek eredményéről,
 - 25. ellátja a hatósági feladatokat annak érdekében, hogy minden új hulladékgazdálkodási létesítmény, különösen a hulladéklerakó, vagy egyéb hulladékártalmatlanító helyszín kijelölése, az ilyen tevékenység megkezdése kizárólag a hulladékgazdálkodási hatóság előzetes szakhatósági állásfoglalása vagy engedélye birtokában legyen lehetséges,
 - 26. biztosítja a hulladékgazdálkodási tevékenységet ellátó gépek, berendezések, felszerelések műszaki felülvizsgálatára vonatkozó tevékenység szakmai felügyeletét,
 - 27. ellenőrzi a különböző termékek forgalomba hozatalára, illetve a használatához kapcsolódó hulladékgazdálkodási korlátozásokra vonatkozó jogszabályi előírások betartását,
@@ -1722,7 +1757,7 @@ részére adhatók át.
 
 (4) Az e törvényben meghatározott hulladékgazdálkodási feladatok ellátása érdekében a 86. § (11) és (13) bekezdése szerinti szervezetek, valamint az utak és a vasutak vonatkozásában elhelyezett informatikai rendszerek adatgazdái kötelesek a hulladékgazdálkodási hatósággal szorosan együttműködni, és minden szükséges információt megadni a hulladékgazdálkodási hatóság hatékony tevékenységének elősegítése érdekében. E szervezetek a hulladékgazdálkodási hatóság megkeresésére a hulladékgazdálkodási hatóság rendelkezésére bocsátják a feladatkörükben tudomásra jutott, a hulladékgazdálkodás szempontjából jelentős áruforgalmi, rendészeti és határellenőrzési adatokat.
 
-(5) A hulladékgazdálkodásért felelős miniszter szakmai irányító tevékenysége keretében a megyei kormányhivatalok – személyes adatok kivételével – adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a hulladékgazdálkodásért felelős miniszternek az országos adatbázisok kialakítása és fenntartása érdekében.
+(5) A miniszter szakmai irányító tevékenysége keretében a vármegyei kormányhivatalok – személyes adatok kivételével – adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a miniszternek az országos adatbázisok kialakítása és fenntartása érdekében.
 
 78/C. § (1) A hulladékgazdálkodási hatóság a közigazgatási hatósági feladataival összefüggésben nyilvántartást vezet.
 
@@ -1795,7 +1830,7 @@ részére adhatók át.
 78/E. § (1) A hulladékgazdálkodási hatósági eljárásban
 
 - a) a hiánypótlási felhívás teljesítésének határideje legfeljebb tizenöt nap,
-- b) a hulladékgazdálkodási bírság kivételével a végrehajtást foganatosító szerv a hulladékgazdálkodási hatóság, ideértve a hulladékgazdálkodási hatósági eljárásokban elrendelt meghatározott cselekmények foganatosítását is.
+- b) a hulladékgazdálkodási bírság és más pénzkövetelések kivételével a végrehajtást foganatosító szerv a hulladékgazdálkodási hatóság, ideértve a hulladékgazdálkodási hatósági eljárásokban elrendelt meghatározott cselekmények foganatosítását is.
 
 (2) A telepengedélyezési eljárásban, illetve a tárolóhely üzemeltetési szabályzatának jóváhagyására irányuló eljárásban hozható döntés az e törvény szerinti engedélyezési eljárásban hozott döntés feltétele.
 
@@ -1829,7 +1864,7 @@ részére adhatók át.
 
 (2) A helyszíni ellenőrzés és szemle költségét a hulladékgazdálkodási hatóság önköltségszámításra vonatkozó szabályzatában foglaltak szerint kell megállapítani.
 
-(3) A kötelezett jogsértő magatartása miatt felmerült, a hulladékgazdálkodási hatóság által hivatalból végzett vizsgálat költségét a kötelezett viseli.
+(3) A kötelezett jogsértő magatartása miatt felmerült, a hulladékgazdálkodási hatóság által hivatalból végzett eljárás és vizsgálat költségét a kötelezett viseli.
 
 #### 35. Hatósági engedélyezés, nyilvántartásba vétel, ellenőrzés és felügyeleti díj
 
@@ -1845,9 +1880,9 @@ részére adhatók át.
 
 (6) A hulladékgazdálkodási hatóság a hulladékgazdálkodási engedély iránti kérelmet elutasítja, illetve a nyilvántartásba vételt megtagadja, ha a hulladékgazdálkodási tevékenység során alkalmazni tervezett művelet nem felel meg a jogszabályokban foglaltaknak, vagy az nem áll összhangban a 6. § (1) bekezdésében foglaltakkal.
 
-(7) Nem adható hulladékgazdálkodási engedély, illetve minősítési engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
+(7) Nem adható hulladékgazdálkodási engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
 
-(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 30 nap.
+(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 55 nap.
 
 (9) Az e törvény végrehajtására kiadott kormányrendelet vagy miniszteri rendelet a (4)–(7) bekezdésben foglalt feltételekhez kapcsolódó szabályokat részletesen meghatározhatja.
 
@@ -1921,11 +1956,17 @@ részére adhatók át.
 
 84. § (1) A hulladékgazdálkodási hatóság az e törvényben, a Kvt.-ben, az e törvények végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági döntésben foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező szervezetet vagy természetes személyt.
 
+(1a) A hulladékgazdálkodási hatóság az e törvényben, valamint más jogszabályban meghatározott előírások teljesítése érdekében az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező szervezetet vagy természetes személyt kötelezi:
+
+- a) a jogszabályban foglalt vagy hatósági határozatban előírt kötelezettségeinek betartására, illetve a jogsértő állapot megszüntetésére, ha a jogszabályban vagy hatóság határozatában foglalt előírásokat az eljárás alá vont jogi személy, jogi személyiséggel nem rendelkező szervezet vagy természetes személy megszegi, teljesítésüket elmulasztja, vagy a hulladékgazdálkodási engedélyhez kötött tevékenységet az engedélytől, vagy a nyilvántartásba vételhez kötött tevékenységet a nyilvántartástól eltérő módon gyakorolja;
+- b) a környezetet veszélyeztető, szennyező, vagy károsító tevékenység felfüggesztésére, abbahagyására, az eredeti állapot helyreállítására;
+- c) környezetszennyezés esetében olyan intézkedés megtételére, amely a környezetszennyezést csökkenti vagy megszünteti, a környezet károsodását kizárja.
+
 (2) A hulladékgazdálkodási hatóság azt a gazdálkodó szervezetet, amely hulladékot termékként, illetve melléktermékként használ fel, forgalmaz vagy tárol, kötelezi a hulladék melléktermékként történő felhasználásának, forgalmazásának, illetve tárolásának beszüntetésére, valamint a hulladék – a hulladékjegyzékről szóló miniszteri rendeletben meghatározott – hulladékjegyzék szerint történő besorolására.
 
 (3) Eltiltás során a tevékenység korlátozása vagy felfüggesztése a szabályszerű tevékenység visszaállítása érdekében szükséges kötelezettségek teljesítéséig terjedő időtartamra rendelhető el.
 
-(4) Kizárt a figyelmeztetés szankció alkalmazása,
+(4) Kizárt a figyelmeztetés szankció és a hulladékgazdálkodási hatóság bírság kiszabásáról dönt:
 
 - a) ha a hulladékgazdálkodási tevékenységet engedély vagy nyilvántartásba vétel nélkül, vagy attól eltérően végzik,
 - b) ha a hulladékkal kapcsolatos tájékoztatási, nyilvántartási, adatszolgáltatási vagy bejelentési kötelezettséget egymást követő két naptári évben is megsértik,
@@ -1966,7 +2007,7 @@ eltelt.
 - c) a melléktermék előállításáról vagy képződéséről a hulladékgazdálkodási hatóságot nem vagy nem megfelelően tájékoztatja, hulladékot termékként vagy melléktermékként használ fel, forgalmaz, tárol, vagy
 - d) terméket a hulladékképződés megelőzésével kapcsolatos jogszabály, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásait megsértve forgalmaz,
 
-a hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
+a hulladékgazdálkodási hatóság az e törvény végrehajtására kiadott kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
 
 (2) Az (1) bekezdés szerinti jogsértést elkövető – a tízezer forintot el nem érő hulladékgazdálkodási bírság kiszabása helyett az elhagyott hulladék felszámolása mellett – a hulladékgazdálkodási hatóság által szervezett hulladékgazdálkodással összefüggő képzésen (a továbbiakban: hulladékgazdálkodási képzés) való részvételre kötelezhető.
 
@@ -2018,6 +2059,8 @@ jogsértés esetén nem mérsékelhető.
 
 (16) A hulladék mennyiségének meghatározása különösen méréssel, számítással, valamint műszaki becsléssel történhet.
 
+(17) A hulladékgazdálkodási bírság megfizetésére a területi hulladékgazdálkodási hatóság a végrehajtás elrendelése előtt – kérelemre – legfeljebb 3 évig terjedő részletfizetést engedélyezhet.
+
 #### 36/C. Adatvédelem a hulladékgazdálkodási közigazgatási eljárások során
 
 86/A. § E törvény adatkezelési rendelkezései alkalmazásában hulladékgazdálkodási adat a miniszter, a hulladékgazdálkodási hatóság által e törvény hatálya alá tartozó tevékenység során kezelt személyes adat.
@@ -2050,9 +2093,9 @@ kezeli.
 
 #### 37. Adatszolgáltatás, tájékoztatás az Európai Bizottság felé
 
-87. § (1) A hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelv 15. cikke szerinti adatszolgáltatási kötelezettséget a hulladékgazdálkodásért felelős miniszter teljesíti.
+87. § (1) A hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelv 15. cikke szerinti adatszolgáltatási kötelezettséget a miniszter teljesíti.
 
-(2) A hulladékgazdálkodásért felelős miniszter tájékoztatja az Európai Bizottságot a 2008/98/EK európai parlamenti és tanácsi irányelv
+(2) A miniszter tájékoztatja az Európai Bizottságot a 2008/98/EK európai parlamenti és tanácsi irányelv
 
 - a) 6. cikk (4) bekezdése alapján a 10. § (2) bekezdése szerinti kormányrendeletről az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendelettel összhangban;
 - b) 7. cikk (2) és (3) bekezdésének megfelelően az 55. § (2) bekezdésében foglalt eset megvalósulásáról, és az Európai Bizottság rendelkezésére bocsát minden vonatkozó információt, bizonyítékot;
@@ -2073,7 +2116,7 @@ kezeli.
 - 3a. a hulladékgazdálkodással kapcsolatos hatósági eljárások, a hatósági feladat- és hatáskörök, valamint a hatósági szervezet kialakításának részletes szabályait, a hulladékgazdálkodási eljárások során és a hatósági eljárásokban vizsgálandó hulladékgazdálkodási szakkérdéseket,
 - 4. a hulladékgazdálkodási engedélyezés, valamint a nyilvántartásba vétel tartalmi követelményeit,
 - 5. a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségeket;
-- 6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, részletes tartalmi követelményeit, valamint azok normatív előírásait;
+- 6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, továbbá tartalmi követelményeit és az Országos Hulladékgazdálkodási Tervet és az Országos Megelőzési Programot;
 - 7. a hulladékgazdálkodási bírság mértékét, megállapításának szempontrendszerét, a helyszíni bírság kiszabásának és a bírság megfizetése módjának részletes szabályait;
 - 8. a hulladék külföldről történő behozatalát, az országból történő kivitelét és az ország területén történő átszállítását;
 - 9. a letéti díj, valamint az újrahasználható és a nem újrahasználható termékek betétdíja megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal, illetve a betétdíjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;
@@ -2101,7 +2144,7 @@ kezeli.
 - 30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
 - 31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
 - 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
-- 33. a Koordináló szerv kijelölésének módját, a részletes feladatkörét, a koordinációjával, valamint tulajdonjogával kapcsolatos egyes szabályokat, valamint az erőforrás-gazdálkodásával összefüggő szabályokat;
+- 33. a Koordináló szerv kijelölésének módját, a részletes feladatkörét;
 - 34. az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokat, e körben a közszolgáltatási területek lehatárolásának részletes szabályait;
 - 35. a Koordináló szerv adatkezelésének részletes szabályait, továbbá a közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa adatszolgáltatási kötelezettségének részletes szabályait.
 - 36. a kitermelt talaj és más, építési tevékenység során kitermelt természetes állapotában meglévő anyag kitermelés helyén kívüli felhasználásának részletes szabályait.
@@ -2115,13 +2158,14 @@ kezeli.
 - 44. a 92/H. § (2) és (5) bekezdésében meghatározott kártalanítás feltételeit és megállapításának rendjét;
 - 45. a hulladékgazdálkodási hatóság által vezetett koncesszori alvállalkozói nyilvántartás tartalmával és vezetésével kapcsolatos részletes szabályokat.
 - 46. a gördülő fejlesztési rendszerterv jóváhagyásának, felülvizsgálatának, a jóváhagyott terv végrehajtása ellenőrzésének szabályait.
+- 47. a hulladékgazdálkodási hatóság közigazgatási jogköre gyakorlásával és a közigazgatási feladataival összefüggő nyilvántartás adattartalmával és vezetésével kapcsolatos részletes szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
 
-(2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
 - 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
-- 2. az elhagyott hulladék ingatlanról történő elszállításának és megfelelő hulladékkezelési helyre történő elszállítás tényének igazolására vonatkozó formai előírásokat;
+- 2. az elhagyott hulladék ingatlanról történő elszállításának és megfelelő hulladékkezelési helyre történő elszállítás tényének igazolására vonatkozó formai és tartalmi előírásokat;
 - 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait és a hulladéklerakás körforgásos gazdasággal összefüggő követelményeit;
 - 4. a hulladék termikus kezelésének technikai követelményeit és részletes szabályait;
 - 5. a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
@@ -2129,35 +2173,36 @@ kezeli.
 - 7. a titán-dioxid-ipar hulladékai kezelésének részletes szabályait;
 - 8. a hulladékgazdálkodással kapcsolatos egységes információs rendszer kialakításának részletes szabályait;
 - 9. a hasznosítási műveleteket és az energetikai hasznosítás feltételeként meghatározott energiahatékonysági mutató megállapítására vonatkozó szabályokat, valamint az ártalmatlanítási műveleteket;
-- 10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat.
-- 11. a hulladékgazdálkodási képzés részletes szabályait.
+- 10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat;
+- 11. a hulladékgazdálkodási képzés részletes szabályait;
+- 12. a 78. § (7) bekezdése szerinti nemzeti célértékeket;
+- 13. a hulladékgazdálkodási közszolgáltatási résztevékenységre vonatkozó díjképzés átláthatóságának biztosítása érdekében a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
+- 14. a 47/A. § (1) bekezdésében meghatározott díjakat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét;
+- 15. a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
+- 16. a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének rendjére, módjára, tartalmára vonatkozó részletes szabályokat;
+- 17. a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét;
+- 18. a gördülő fejlesztési rendszerterv részletes tartalmi és formai követelményeit,
+- 19. az Országos Hulladékgazdálkodási Közszolgáltatási Tervet.
 
 (3) Felhatalmazást kap:
 
-- a) az egészségügyért felelős miniszter a hulladékgazdálkodásért felelős miniszterrel egyetértésben, hogy
+- a) az egészségügyért felelős miniszter a miniszterrel egyetértésben, hogy
   - aa) a humán gyógyszer hulladékká válását megelőző tevékenységek és a gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének szabályait, valamint a gyógyszergyártók biztosítékadására és tájékoztatási kötelezettségére vonatkozó részletes szabályokat,
   - ab) az egészségügyi intézményekben képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének részletes szabályait,
   - ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
-- b) miniszter, hogy
-  - ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
-  - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
-  - bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
-  - bd) az Országos Hulladékgazdálkodási Közszolgáltatási Tervet,
-  - be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
-  - bf) a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét,
-  - bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
-  - bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
-  - bi) a gördülő fejlesztési rendszerterv részletes tartalmi és formai követelményeit
-- c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+- b)
+- c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a Hivatal elnöke, hogy
 
-- a) a 18/B. § (3) bekezdésében és a 18/D. § (1) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
+- a) a 18/B. § (3) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
 - b) az 53/B. § (7) bekezdés d) pontjában meghatározott érték meghatározásának szempontrendszerét,
-- c) az 53/N. § (1) bekezdése szerinti alapelveket és keretszabályokat, továbbá az indokolt költség mértékét
+- c) az 53/N. § (1) bekezdése szerinti alapelveket és keretszabályokat, továbbá az 53/N. § (4) bekezdése szerinti indokolt költség mértékét,
 - d) a kompenzáció összegének Hivatal általi meghatározásának keretszabályait, az így meghatározott kompenzáció megfizetésének módját, továbbá a kompenzáció meghatározására irányuló kérelem tartalmi követelményeit és a részletes kiegészítő eljárási szabályokat
+- e) a 18/D. § (1) bekezdésében meghatározott díj megállapításának szabályait, a díj meghatározására irányuló kérelem tartalmi követelményeit és a részletes eljárási szabályokat,
+- f) az e törvényben a Hivatal felé a rendszeres adatszolgáltatásra kötelezettek és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség formáját és határidejét
 
 rendeletben állapítsa meg.
 
@@ -2194,13 +2239,13 @@ rendeletben állapítsa meg.
 
 (8) Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal, vagy – a 34. § (3) bekezdésben és a (9) bekezdésben foglaltakra tekintettel – 2015. június 30-át követően kiadott minősítési engedéllyel rendelkezik, valamint a települési önkormányzattal az e törvény hatálybalépését követően és minősítési okirat birtokában hulladékgazdálkodási közszolgáltatási szerződést kötött.
 
-(9) Hulladékgazdálkodási közszolgáltatási engedély 2015. június 30-át követően nem adható ki. Az e törvény alapján kiadott hulladékgazdálkodási közszolgáltatási engedély az abban meghatározott ideig, de legkésőbb 2015. december 31-ig hatályos.
+(9)
 
-(9a) Ha a környezetvédelmi hatóság 2015. június 30-át követően, de a (9) bekezdésben meghatározott hatályvesztést megelőzően minősítési engedélyt ad ki a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltató részére, a hulladékgazdálkodási közszolgáltatási engedélyt a minősítési engedély kiadásával egyidejűleg visszavonja.
+(9a)
 
-(10) Az a gazdálkodó szervezet, amely hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet végez, a 2013. évben az e tevékenység folytatása miatti éves felügyeleti díj 50%-át a környezetvédelmi hatóság részére legkésőbb 2013. augusztus 31-ig megfizeti.
+(10)
 
-(11) A 2. § (1) bekezdés 37. pontja szerinti közszolgáltatón kívül 2013. december 31-ig közszolgáltatónak kell tekinteni azt a hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezetet is, amely 2012. december 31-én hulladékgazdálkodási közszolgáltatást látott el, és azóta e tevékenységét folyamatosan végzi.
+(11)
 
 91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét a 88. § (3) bekezdés b) pont bb) alpontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig az e §-ban meghatározott eltérésekkel kell megállapítani.
 
@@ -2304,11 +2349,31 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 (7) A települési hulladék újrahasználatra előkészített és újrafeldolgozott mennyiségét a tárgyévben országos szinten képződött települési hulladék mennyiségéhez képest legalább 65 tömegszázalékra kell növelni 2035. december 31-ig.
 
-#### 92/A. §
+92/A. § (1) A koncessziós társaság részére azon hulladékgazdálkodási tevékenységet végző gazdálkodó szervezet, amely 2022. december 31. napján gazdálkodó szervezettel intézményi résztevékenység körébe tartozó hulladék kezeléséről a közszolgáltatáson kívül szerződött, 2023. január 15. napjáig adatot szolgáltat a szolgáltatás műszaki tartalmáról.
 
-#### 92/B. §
+(2) Azon gazdálkodó szervezetek, amelyek 2023. február 28. napján a hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékot termelnek, a koncessziós társasággal történő szerződéskötés érdekében a koncessziós társaság által biztosított elektronikus felületen, 2023. március 1. és 2023. április 30. között az ott megjelölt, a szerződéskötéshez szükséges adataikat megadják. Azon gazdálkodó szervezetek, amelyek 2023. március 1-jén vagy azt követően kezdik meg a tevékenységüket, az adott tevékenység megkezdését követő 15 napon belül teljesítik e kötelezettségüket. A gazdálkodó szervezetek az adataikban bekövetkezett változást vagy a tevékenységük megszűnését az elektronikus felületen 8 napon belül bejelentik.
 
-92/C. § (1) A hulladékgazdálkodásért felelős miniszter a 92. § (2a) bekezdésében, valamint a 92. § (5)–(7) bekezdésében meghatározott teljesítési határidő legfeljebb 5 évvel való elhalasztását a 92/D. §-ban meghatározott végrehajtási terv megküldésével
+(3) Az 50. § szerint 2023. július 1-je előtt számviteli szétválasztásra kötelezett közszolgáltató 2023. június 30-i fordulónappal féléves, közbenső mérleget készít.
+
+92/B. § (1) A Korábbi Koordináló szerv és a 2023. július 1-jét megelőző időszakban közszolgáltatóként működött gazdasági társaság jogszabályon vagy szerződésen alapuló elszámolási, számlázási, és kintlévőség-kezelési feladatai befejezését követő 5. év végéig kezeli a részére átadott, a 2023. július 1-jét megelőzően hatályos 32/A. § (4h) bekezdésében, a 38. § (3) bekezdésében és az 53. § (4) bekezdésben meghatározott adatot (a továbbiakban: Alapadat).
+
+(2) A Korábbi Koordináló szerv a 2023. július 1-jét megelőző időszakra vonatkozóan általa kezelt Alapadatokat a Koordináló szerv részére átadja.
+
+(3) A Korábbi Koordináló szerv, az érintett hatóságok és valamennyi gazdálkodó szervezet, így különösen a közszolgáltató, amely ilyen adat birtokában van, átadja a koncesszor (e bekezdés alkalmazásában ideértve a koncessziós társaságot), vagy közvetlenül a koncesszor által kijelölt koncesszori alvállalkozó részére az állami hulladékgazdálkodási közfeladat – ideértve az elszámolási, számlázási, kintlévőség-kezelési és ügyfélszolgálati feladatokat is – teljesítésére való felkészüléshez és annak végrehajtásához szükséges, általa kezelt személyes adatokat, különösen az Alapadatokat.
+
+(4) A Koordináló szerv a Korábbi Koordináló szervtől átvett számlázási, kintlévőség-kezelési, szolgáltatásidíj-elszámolási és ezekhez kapcsolódó ügyfélszolgálati feladatok, valamint egyéb feladatai elvégzésének érdekében a részére átadott adatokat kezeli, a 2023. július 1. napján a Korábbi Koordináló szerv használatában lévő, a számlázási tevékenységet támogató szoftvereket és adatbázisokat költségtérítés ellenében használhatja. A Koordináló szerv részére a 2023. július 1-jét megelőző időszakban a közszolgáltatási feladatokat ellátó közszolgáltató a feladatai ellátásához szükséges adatokat megadja.
+
+(5) A 2023. július 1-jét megelőzően, hulladékgazdálkodási közszolgáltatás igénybevételére kötelezett ingatlanhasználóra vonatkozóan a 38. § (3) bekezdésében, és az 53. § (4) bekezdésében meghatározott adatot jogszerűen kezelő közszolgáltató, vagy egyéb gazdálkodó szervezet, ha tevékenységét a 2. § (1) bekezdés 36g. pontjában meghatározott koncesszori alvállalkozóként folytatja, a 2023. július 1-je előtt kezelésében lévő adatokat koncesszori alvállalkozói feladatai ellátása érdekében felhasználhatja. Ha tevékenységét koncesszori alvállalkozóként nem folytatja, akkor az adatokat átadja a koncesszor, vagy közvetlenül a koncesszor által kijelölt koncesszori alvállalkozó részére.
+
+(6) A hulladékgazdálkodási közszolgáltatók és az ingatlanhasználók között az ingatlanhasználók települési hulladékának gyűjtése, szállítása és kezelése tárgyában létrejött szerződések és e törvény erejénél fogva létrejött más jogviszonyok e törvény erejénél fogva 2023. június 30. napján megszűnnek.
+
+(7) A vegyes települési hulladék, illetve a természetes személy ingatlanhasználó elkülönítetten gyűjtött hulladéka vonatkozásában a szolgáltatást a koncessziós társaság közvetlenül vagy koncesszori alvállalkozók igénybevételével, 2023. július 1. napjától jogszabály valamint a koncessziós társaság jogszabályi rendelkezésekkel összhangban kiadott üzletszabályzata vagy a koncessziós társaság által megkötött szerződés alapján nyújtja tovább az ingatlanhasználók részére a 47/A. § (1) bekezdése, 91. §-a, 91/A. §-a szerint meghatározott díj ellenében 2023. december 31-ig a (6) bekezdés szerint megszűnt közszolgáltatási szerződés szerinti feltételekkel, műszaki tartalommal. A szolgáltatás felajánlásával a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó szolgáltatás igénybevételére az ingatlanhasználó és a koncessziós társaság között jogviszony jön létre.
+
+(8) Ha a 92/A. § (2) bekezdése szerint a gazdálkodó szervezet a koncessziós társasággal történő szerződéskötés érdekében az ott meghatározottak szerint nem szolgáltat adatot, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó szolgáltatás igénybevételére a gazdálkodó szervezet és a koncessziós társaság között 2023. július 1. napjától jogszabály, valamint a koncessziós társaság jogszabályi rendelkezésekkel összhangban kiadott üzletszabályzata szerinti tartalommal jogviszony jön létre a 47/A. § (1) bekezdése szerint meghatározott díjfizetési kötelezettség mellett.
+
+(9) A Korábbi Koordináló szerv és az ingatlanhasználó közötti jogviszonyból eredő fizetési kötelezettség körében az ingatlanhasználó által a Korábbi Koordináló szerv mint kedvezményezett javára csoportos beszedési megbízás teljesítésére adott felhatalmazást a 2023. július 1-jét követő 46. napon e törvény erejénél fogva a Koncessziós társaság mint kedvezményezett javára megadott felhatalmazásnak kell tekinteni. A koncessziós társaság a felhatalmazást kezelő pénzforgalmi szolgáltatója részére 2023. július 1. napját követő 15 napon belül tájékoztatást küld a koncessziós szerződés hatálybalépéséről, amelyről a felhatalmazást kezelő pénzforgalmi szolgáltató 5 napon belül köteles tájékoztatni a fizető fél pénzforgalmi szolgáltatóját. A fizető fél pénzforgalmi szolgáltatója a koncessziós társaság vagy a koncessziós társaság által kijelölt koncesszori alvállalkozó által indított csoportos beszedési megbízást a 2023. július 1-jét követő 46. naptól a koncessziós társaság, vagy a koncessziós társaság által kijelölt koncesszori alvállalkozó javára köteles teljesíteni, ha a koncessziós társaság vagy a koncesszori alvállalkozó pénzforgalmi szolgáltatójától 15 nappal korábban megkapta a kedvezményezett és a fizető fél megváltozott azonosítóját.
+
+92/C. § (1) A miniszter a 92. § (2a) bekezdésében, valamint a 92. § (5)–(7) bekezdésében meghatározott teljesítési határidő legfeljebb 5 évvel való elhalasztását a 92/D. §-ban meghatározott végrehajtási terv megküldésével
 
 - a) a 92. § (2a) bekezdése esetében 2032. december 31-ig,
 - b) a 92. § (5) bekezdése esetében 2023. december 31-ig,
@@ -2317,7 +2382,7 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 kezdeményezheti az Európai Bizottságnál.
 
-(2) Ha az Európai Bizottság szerint az (1) bekezdés szerinti végrehajtási terv nem felel meg 92/D. §-ban meghatározott követelményeknek, az Európai Bizottság tájékoztatásának kézhezvételétől számított három hónapon belül a végrehajtási tervet a hulladékgazdálkodásért felelős miniszter felülvizsgálja, és újból benyújtja az Európai Bizottság részére.
+(2) Ha az Európai Bizottság szerint az (1) bekezdés szerinti végrehajtási terv nem felel meg 92/D. §-ban meghatározott követelményeknek, az Európai Bizottság tájékoztatásának kézhezvételétől számított három hónapon belül a végrehajtási tervet a miniszter felülvizsgálja, és újból benyújtja az Európai Bizottság részére.
 
 (3) Az (1) bekezdésben meghatározott halasztási kezdeményezés Európai Bizottság általi jóváhagyása esetén:
 
@@ -2349,7 +2414,7 @@ kezdeményezheti az Európai Bizottságnál.
 
 (3) E törvény Mód. tv.-nyel megállapított 16/A. alcíme szerinti követelményeinek a 2018. július 4. előtt létrehozott kiterjesztett gyártói felelősségi rendszereknek 2023. január 5-től kell megfelelni.
 
-92/G. § (1) Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépésétől 2023. június 30. napjáig a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését, valamint az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez, megszüntetéséhez és módosításához a miniszter előzetes jóváhagyása szükséges.
+92/G. § (1) Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépésétől 2023. június 30. napjáig a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését, valamint az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez, megszüntetéséhez és módosításához a miniszter – e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontok szerinti – előzetes jóváhagyása szükséges, kivéve az olyan szerződéses jogviszonyt, amely a koncesszori alvállalkozói tevékenység, vagy a koncessziós társaság részére történő kezelési szolgáltatás nyújtás 2023. július 1. napjától történő ellátását szolgálja.
 
 (2) Az (1) bekezdésben foglaltak nem alkalmazandók az olyan szerződéses jogviszonyokra, amelyek
 
@@ -2383,17 +2448,17 @@ kezdeményezheti az Európai Bizottságnál.
 
 92/H. § (1) A pályázat eredményeként megkötött koncessziós szerződés első alkalommal 2023. július 1-jén lép hatályba.
 
-(2) Ha az (1) bekezdésben meghatározott időpontban a koncessziós szerződés, a koncesszor érdekkörében bekövetkező változást kivéve, nem lép hatályba, a koncesszor kártalanításra jogosult az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek alapján. A kártalanítási igény jogalapjáról és mértékéről a hulladékgazdálkodási hatóság dönt.
+(2) Ha az (1) bekezdésben meghatározott időpontban a koncessziós szerződés, a koncesszor érdekkörében bekövetkező változást kivéve, nem lép hatályba, a koncesszor kártalanításra jogosult az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek alapján. A kártalanítási igény jogalapjáról és mértékéről a Szabályozott Tevékenységek Felügyeleti Hatósága dönt.
 
 (3) A pályázati eljárásra és a koncessziós szerződésre vonatkozó szabályokat e törvény, a Kbt. és a Konctv. határozza meg.
 
 (4) Hulladékgazdálkodási közszolgáltatási szerződés legfeljebb 2023. június 30. napján lejáró hatállyal köthető. A Mód. tv. hatálybalépésekor érvényes hulladékgazdálkodási közszolgáltatási szerződés lényeges elemeit, különösen a közszolgáltatás műszaki tartalmát, ellátásának rendjét az ingatlanhasználóra nézve hátrányt okozóan – a jogszabállyal való összhang biztosítása kivételével – nem lehet módosítani. A hulladékgazdálkodási közszolgáltatási szerződések e törvény erejénél fogva 2023. június 30. napján megszűnnek.
 
-(5) A hulladékgazdálkodási közszolgáltatási szerződések megkötésére és módosítására vonatkozó korlátozással, valamint e szerződések törvény erejénél fogva történő megszűnésével összefüggésben keletkezett, igazolt vagyoni hátrányokért a központi költségvetés – e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint – arányos kártalanítást biztosít.
+(5) A hulladékgazdálkodási közszolgáltatási szerződések megkötésére és módosítására vonatkozó korlátozással, valamint e szerződések törvény erejénél fogva történő megszűnésével összefüggésben keletkezett, igazolt vagyoni hátrányokért a központi költségvetés – e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint – arányos kártalanítást biztosít. A kártalanítási igény jogalapjáról és mértékéről a Szabályozott Tevékenységek Felügyeleti Hatósága dönt.
 
 (6) A hulladékgazdálkodási közszolgáltatás ellátását biztosító vagyonelemek tulajdonosai és üzemeltetői kötelesek a vagyonelemek állagát megóvni és a közszolgáltatás ellátását biztosító fejlesztéseket a Mód. tv. hatálybalépésétől kezdődően 2023. július 1-jéig biztosítani.
 
-(7) A közszolgáltatók a hulladékgazdálkodási közszolgáltatással összefüggésben új szerződést úgy köthetnek, hatályos szerződésüket úgy módosíthatják, vagy vállalhatnak más módon kötelezettséget, ha ezek hatálya legkésőbb 2023. június 30. napján lejár. A közszolgáltatók kizárólag a Hivatal jóváhagyásával köthetnek a hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő szerződést, vagy vállalhatnak kötelezettséget. Nem kell a Hivatal jóváhagyását kérni az olyan szerződéshez, vagy kötelezettségvállaláshoz, amely a rendes üzletmenet keretein belül a hulladékgazdálkodási közszolgáltatás napi funkcionális működőképességének biztosításához szükséges.
+(7) A közszolgáltatók a hulladékgazdálkodási közszolgáltatással összefüggésben új szerződést úgy köthetnek, hatályos szerződésüket úgy módosíthatják, vagy vállalhatnak más módon kötelezettséget, ha ezek hatálya legkésőbb 2023. június 30. napján lejár. A közszolgáltatók kizárólag a Hivatal jóváhagyásával köthetnek a hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő szerződést, vagy vállalhatnak kötelezettséget. A Hivatal akkor tagadhatja meg a jóváhagyást, ha a hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő szerződés, vagy a vállalt kötelezettség nem felel meg az e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontoknak. Nem kell a Hivatal jóváhagyását kérni az olyan szerződéshez, vagy kötelezettségvállaláshoz, amely a rendes üzletmenet keretein belül a hulladékgazdálkodási közszolgáltatás napi funkcionális működőképességének biztosításához szükséges. Nem szükséges a Hivatal jóváhagyását kérni a szerződés vagy kötelezettségvállalás azon rendelkezéséhez, amely a koncesszori alvállalkozói tevékenység, vagy a koncessziós társaság részére történő hulladékkezelési szolgáltatás 2023. július 1. napjától történő ellátását szolgálja.
 
 (8) A miniszter, a Koordináló szerv, az érintett hatóságok, az önkormányzatok, az önkormányzati társulások és a közszolgáltatók kötelesek együttműködni a koncesszorral és a koncessziós társasággal a koncessziós szerződésben vállalt kötelezettségei teljesítése érdekében a koncessziós szerződés megkötése és hatálybalépése közötti időszakban.
 
@@ -2413,7 +2478,9 @@ kezdeményezheti az Európai Bizottságnál.
 
 (2) E törvénynek a Mód. tv. által megállapított 47/A. § (1) és (4a) bekezdése, valamint 47/D. § (3) bekezdése rendelkezéseit 2023. július 1-je előtt csak a 18/B. § (3) bekezdésében és a 92/K. §-ban foglaltak teljesítése érdekében kell alkalmazni.
 
-92/K. § (1) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 47/A. § (2) bekezdésében meghatározott, az 53/N. § alapján meghatározott indokolt költségek figyelembevételével készített díjjavaslatát a Hivatal első alkalommal 2023. február 28. napjáig küldi meg a miniszter részére, a 47/A. § (1) bekezdésében meghatározott díjakat a miniszter első alkalommal 2023. április 30-ig állapítja meg.
+92/K. § (1) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 47/A. § (2) bekezdésében meghatározott, az 53/N. § alapján meghatározott indokolt költségek figyelembevételével készített díjjavaslatát a Hivatal első alkalommal 2023. március 31-ig küldi meg a miniszter részére, a 47/A. § (1) bekezdésében meghatározott díjakat a miniszter első alkalommal 2023. május 31-ig állapítja meg.
+
+(1a) A kötelező visszaváltási díjas rendszerrel összefüggésben díjjavaslatát a Hivatal első alkalommal 2023. szeptember 15. napjáig küldi meg a miniszter részére, a miniszter a díjakat első alkalommal 2023. november 30. napjáig állapítja meg.
 
 (2) E törvénynek a Mód. tv. által megállapított 47/D. § (1) bekezdésében meghatározott vagyonkatasztert a Hivatal 2021. december 31-ig állítja fel és első alkalommal 2022. január 31-ig szolgáltat adatot a miniszternek.
 
@@ -2421,19 +2488,19 @@ kezdeményezheti az Európai Bizottságnál.
 
 (4) E törvénynek a Mód. tv. által megállapított 53/B. § (8) bekezdésében meghatározott kötelezettséget első alkalommal 2021. április 30-ig kell teljesíteni.
 
-(5) E törvénynek a Mód. tv. által megállapított 18/A–18/D. §-ában meghatározott rendelkezéseit 2023. július 1-je előtt csak a Hivatal elnökének a vonatkozó díjmegállapító rendelete megalkotásával összefüggő feladata teljesítésével kapcsolatban kell alkalmazni. A Hivatal elnökének a Mód. tv. által megállapított 18/B. § (3) bekezdésében, és a 18/D. § (1) bekezdésében meghatározott kötelezettséget első alkalommal 2023. július 1-jéig kell teljesítenie.
+(5) E törvénynek a Mód. tv. által megállapított 18/A–18/D. §-ában meghatározott rendelkezéseit 2023. július 1-je előtt csak a Hivatal elnökének a vonatkozó díjmegállapító rendelete megalkotásával összefüggő feladata teljesítésével kapcsolatban kell alkalmazni. A Hivatal elnökének a Mód. tv. által megállapított 18/B. § (3) bekezdésében, és a 18/D. § (1) bekezdésében meghatározott kötelezettséget első alkalommal 2023. március 31-ig kell teljesítenie.
 
 (6) E törvénynek a Mód. tv. által a Hivatal részére meghatározott kötelezettségét a Hivatal első alkalommal
 
-- a) a Mód. tv. által megállapított 53/N. § (1) bekezdése esetében 2022. október 15-ig,
-- b) a Mód. tv. által megállapított 53/N. § (2) bekezdése esetében 2022. október 31-ig, és
-- c) a Mód. tv. által megállapított 53/N. § (4) bekezdése esetében 2023. június 1-jéig
+- a) a Mód. tv. által megállapított 53/N. § (1) bekezdése esetében 2022. november 15-ig,
+- b) a Mód. tv. által megállapított 53/N. § (2) bekezdése esetében 2022. november 30-ig, és
+- c) a Mód. tv. által megállapított 53/N. § (4) bekezdése esetében 2023. március 31-ig
 
 teljesíti.
 
 #### 40/A. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-92/L. § A 31/A. § az Alaptörvény 23. cikk (4) bekezdése alapján sarkalatosnak minősül.
+#### 92/L. §
 
 #### 41. Az Európai Unió jogának való megfelelés
 

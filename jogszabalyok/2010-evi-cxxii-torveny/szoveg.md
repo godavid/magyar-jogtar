@@ -24,14 +24,14 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (2) A NAV területi szervei
 
-- a) a megyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: megyei igazgatóságok),
+- a) a vármegyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: vármegyei igazgatóságok),
 - b) a Fellebbviteli Igazgatóság,
 - c) a NAV nyomozó hatósági feladatait ellátó területi szervei és
 - d) a Kormány rendeletében meghatározott igazgatóságok, illetve intézetek.
 
 (3) A NAV nyomozó hatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
 
-(4) A megyei igazgatóságok kirendeltségeket működtethetnek.
+(4) A vármegyei igazgatóságok kirendeltségeket működtethetnek.
 
 #### 5. §
 
@@ -51,7 +51,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 9. § (1) A NAV területi szervét a NAV elnöke által kinevezett igazgató vezeti. A NAV területi szervének vezetésében a NAV elnöke által kinevezett igazgatóhelyettes (igazgatóhelyettesek) vehet (vehetnek) részt.
 
-(2) A megyei igazgatóságok kirendeltségének operatív vezetését főosztályvezető látja el, aki a kirendeltséghez telepített feladat- és hatáskör gyakorlója.
+(2) A vármegyei igazgatóságok kirendeltségének operatív vezetését főosztályvezető látja el, aki a kirendeltséghez telepített feladat- és hatáskör gyakorlója.
 
 10. § (1) A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
 
@@ -657,7 +657,7 @@ kérheti fel.
 - b) a Be.-n, illetve a Szabs. tv.-en alapuló, a NAV hatáskörébe tartozó esetekben az elővezetés végrehajtása érdekében;
 - c) ha az előállítás e törvényben meghatározott egyéb okból szükséges.
 
-(2) Az (1) bekezdés b) pontja alkalmazásában pénzügyőr alatt a Be.-n alapuló elővezetés végrehajtása körébe a NAV nyomozó hatósága állományában álló, a 34/Y. § (1a) bekezdés a) pontja szerinti pénzügyi nyomozót, a Szabs. tv.-en alapuló elővezetés végrehajtása körében a NAV állományában álló pénzügyőrt kell érteni.
+(2)
 
 (3) A NAV kormányrendeletben meghatározott szerve állományába tartozó pénzügyőr az (1) bekezdés a) pontjában meghatározott intézkedés foganatosítására – a hatáskörrel rendelkező nyomozó hatóság felkérése alapján – más nyomozó hatóság hatáskörébe tartozó bűncselekmény esetén is jogosult.
 
@@ -1516,7 +1516,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 81. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
-- b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes megyei adó- és vámigazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
+- b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes vármegyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 - c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki

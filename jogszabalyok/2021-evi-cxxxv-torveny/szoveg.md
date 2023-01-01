@@ -46,15 +46,23 @@ egyes pénzügyi és gazdasági tárgyú törvények módosításáról
 
 17. § (1)
 
-(2)
+(2) A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 6. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+
+(A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:)
+
+„j) az egyéni vállalkozók nyilvántartását vezető szerv, valamint az egyéni vállalkozói tevékenység hatósági ellenőrzését végző szerv az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági feladatainak ellátásához, továbbá a jogszabály alapján személyazonosság igazolására alkalmas hatósági igazolvány kiadására feladat- és hatáskörrel rendelkező szerv személyazonosság igazolására alkalmas hatósági igazolvány kiadásával kapcsolatos eljárása során a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat,”
 
 (3)
 
-(4)
+(4) A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 6. § (2) bekezdése a következő l) ponttal egészül ki:
+
+(A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:)
+
+„l) a kormányablak az előtte folyamatban lévő eljárásban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és c)–e) pontjában szereplő adatokat.”
 
 #### 6. A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény módosítása
 
-18. §
+18. § Nem lép hatályba fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 87. §-a.
 
 #### 7. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 

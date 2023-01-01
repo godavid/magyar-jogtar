@@ -49,7 +49,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 4. § A bírósági titkár önálló hatáskörét törvény állapítja meg.
 
-4/A. §
+#### 4/A. §
 
 5. § (1) Az igazságügyi szakértő a feladatkörébe tartozó ügyekben a bíróság, az ügyészség, a rendőrség, illetve jogszabályban meghatározott más hatóság kirendelésére, továbbá megbízás alapján szakvéleményt ad.
 
@@ -200,7 +200,7 @@ rendeletben határozza meg.
 
 (10) A bírósági fogalmazók felvételi versenyvizsgájával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
 
-14/A. §
+#### 14/A. §
 
 15. § (1) A kinevezési okirat a kinevezés kezdő napját, határozott idejű kinevezés esetén ennek időtartamát, a munkakört, a vezetői munkakört, a szolgálati helyet, a szolgálati idő kezdő időpontját, a fizetési osztályt, a fizetési fokozatot és az ezekhez kapcsolódóan megállapított alapilletményt, az esetleges pótlékok jogcímét és összegét, a legközelebbi kötelező előresorolás időpontját, a hiányzó képesítés megszerzésére adott halasztást, illetve kötelezést és ezek határidejét, a jubileumi jutalomra jogosító idő számításának kezdő időpontját, valamint a kinevezés évére járó szabadság napjainak a számát tartalmazza.
 
@@ -290,10 +290,13 @@ rendeletben határozza meg.
 
 - a) a betegség miatti keresőképtelenség, legfeljebb azonban a betegszabadság lejártát követő 1 év, gümőkóros megbetegedés esetén 2 év, továbbá az üzemi baleset vagy foglalkozási megbetegedés miatti keresőképtelenség alatt a táppénzre való jogosultság teljes ideje,
 - b) a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság ideje, illetve – a fizetés nélküli szabadság igénybevétele nélkül is – a gyermek hároméves koráig terjedő időtartam,
-- c) a külön törvény szerinti emberi reprodukciós eljárással összefüggő kezelés, a terhesség ideje, a szülést követő 6. hónap vége, valamint a gyermek gondozása céljából kapott fizetés nélküli szabadság ideje,
-- d) a külön törvény szerint rehabilitációs járadékban részesülő személy keresőképtelenségének teljes időtartama,
+- c) törvény szerinti emberi reprodukciós eljárással összefüggő kezelés, a terhesség ideje, a szülést követő 6. hónap vége, valamint a gyermek gondozása céljából kapott fizetés nélküli szabadság ideje,
+- d) törvény szerint rehabilitációs járadékban részesülő személy keresőképtelenségének teljes időtartama,
 - e) a beteg gyermek ápolására táppénzes állományba helyezés, valamint a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott fizetés nélküli szabadság ideje,
-- f) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó igazságügyi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje.
+- f) törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó igazságügyi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje,
+- g) a szülői szabadság ideje,
+- h) az apasági szabadság ideje, és
+- i) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 55. § (1) bekezdés l) pontja szerinti mentesülés ideje.
 
 (3) Ha az alkalmatlanság egészségügyi ok következménye, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
 
@@ -389,11 +392,15 @@ lehet gyakorolni.
 
 (2) Az (1) bekezdés szerinti igazolás
 
-- a) a szolgálati viszony megszűnésének a jogcímét,
+- a) a szolgálati viszony megszűnésének jogcímét,
 - b) a szolgálati viszony kezdő és végső időpontját,
 - c) az illetményből jogszerűen levonható tartozások összegét és jogcímét, valamint ezek jogosultját, illetve azt, hogy az igazságügyi alkalmazottnak nincs tartozása,
-- d) a szolgálati viszony megszűnésének az évében igénybe vett betegszabadság napjainak a számát,
-- e) a kifizetett végkielégítés összegét tartalmazza.
+- d) a szolgálati viszony megszűnésének évében igénybe vett betegszabadság napjainak számát,
+- e) a kifizetett végkielégítés összegét,
+- f) a szülői szabadságra jogosult igazságügyi alkalmazott esetében a kiadott, valamint a korábbi munkáltató által kiadott szülői szabadság tartamát,
+- g) az apasági szabadságra jogosult igazságügyi alkalmazott esetében a kiadott, valamint a korábbi munkáltató által kiadott apasági szabadság tartamát
+
+tartalmazza.
 
 ### A szolgálati viszony jogellenes megszüntetése esetén követendő eljárás
 
@@ -662,7 +669,7 @@ nem haladhatja meg.
 
 (4) A jogszabályban meghatározott egészségkárosító kockázatok között folyó munkavégzéssel járó egyéb munkakörök esetén jogszabály a (3) bekezdésnek megfelelő vagy további korlátozást határozhat meg.
 
-44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § (1) és (2) bekezdése szerinti fizetés nélküli szabadságot vesz igénybe.
+44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor az Mt. 128. § (1) és (2) bekezdése szerinti fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató az igazságügyi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
@@ -695,9 +702,9 @@ nem haladhatja meg.
 
 (5) Nem minősül rendkívüli munkavégzésnek, ha az igazságügyi alkalmazott a munkáltató által engedélyezett távollét idejét – megállapodás alapján – később ledolgozza.
 
-(6) A nő terhessége megállapításától a gyermek egyéves koráig, a gyermekét egyedül nevelő férfi a gyermeke egyéves koráig, továbbá a 44. § (3) bekezdésében meghatározott munkát végző igazságügyi alkalmazott – a korlátozás alá eső munkavégzés tekintetében – rendkívüli munkavégzésre nem kötelezhető.
+(6) Az igazságügyi alkalmazott a terhessége megállapításától a gyermeke egyéves koráig, a gyermekét egyedül nevelő igazságügyi alkalmazott a gyermeke egyéves koráig, továbbá a 44. § (3) bekezdésében meghatározott munkát végző igazságügyi alkalmazott – a korlátozás alá eső munkavégzés tekintetében – rendkívüli munkavégzésre nem kötelezhető.
 
-(7) A gyermekét egyedül nevelő igazságügyi alkalmazott – gyermeke egyéves korától négyéves koráig – csak a beleegyezésével vehető igénybe rendkívüli munkavégzésre.
+(7) Az igazságügyi alkalmazott – gyermeke egyéves korától hároméves koráig –, valamint a gyermekét egyedül nevelő igazságügyi alkalmazott – gyermeke egyéves korától négyéves koráig – csak a beleegyezésével vehető igénybe rendkívüli munkavégzésre.
 
 (8) Az elrendelhető rendkívüli munkavégzés felső határa naptári évenként összesen legfeljebb háromszáz óra.
 
@@ -741,11 +748,11 @@ nem haladhatja meg.
 - c) osztályvezető-helyettes esetén évente 10 munkanap,
 - d) osztályvezető és igazgatóhelyettes esetén évente 11 munkanap,
 - e) főosztályvezető-helyettes és igazgató esetén évente 12 munkanap,
-- f) főosztályvezető és az egyéb igazságügyi szerv vezetője és helyettese esetén évente 13 munkanap.
+- f) OBH elnökhelyettes, főosztályvezető és az egyéb igazságügyi szerv vezetője és helyettese esetén évente 13 munkanap.
 
 (6) A vezetői beosztást ellátó igazságügyi alkalmazottnak a vezetői megbízatása előtt betöltött munkaköre alapján kell a pótszabadságot megállapítani, ha a vezetőként járó pótszabadsága nem éri el a vezetői megbízatása előtt betöltött munkakörében neki járó pótszabadság mértékét.
 
-(7) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(7) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az igazságügyi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 (8) A (2) és az (5) bekezdésben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a fizikai alkalmazott a (2) bekezdés e) pontjában meghatározott időt elérte, illetve amely évben vezetői beosztás ellátására kapott megbízást.
 
@@ -763,7 +770,9 @@ nem haladhatja meg.
 
 51. § A munkáltató az igazságügyi alkalmazott kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az egy évet nem haladhatja meg.
 
-### IV. Fejezet — AZ IGAZSÁGÜGYI ALKALMAZOTTMUNKÁJÁNAK ÉRTÉKELÉSE
+### IV. Fejezet — AZ IGAZSÁGÜGYI ALKALMAZOTT
+
+MUNKÁJÁNAK ÉRTÉKELÉSE
 
 52. § A munkáltató az igazságügyi alkalmazott munkáját köteles folyamatosan értékelni, a munkavégzésben tapasztalt hiányosságok megszüntetésére, illetve az átlagon felüli színvonalon végzett munka elismerésére vonatkozó intézkedéseket és javaslatokat megtenni.
 
@@ -821,7 +830,9 @@ nem haladhatja meg.
 
 (8) Az igazságügyi alkalmazott teljesítményértékelésének részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
 
-### V. Fejezet — AZ IGAZSÁGÜGYI ALKALMAZOTTFEGYELMI FELELŐSSÉGE
+### V. Fejezet — AZ IGAZSÁGÜGYI ALKALMAZOTT
+
+FEGYELMI FELELŐSSÉGE
 
 55. § Az igazságügyi alkalmazott fegyelmi vétséget követ el, ha a szolgálati viszonyából eredő kötelezettségeit vétkesen megszegi.
 
@@ -1124,12 +1135,17 @@ okozta.
 - d) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
 - e) a munkaszüneti nap miatt kiesett időre,
 - f) ha a munkáltató foglalkoztatási kötelezettségének elháríthatatlan külső okot kivéve nem tesz eleget.
+- g) öt munkanapig terjedő tartamban az apasági szabadság esetében.
 
 (2) Az illetmény 70 százaléka jár a betegszabadság tartamára.
 
 (3) Az egy napra járó illetmény az egy hónapra megállapított illetmény és a tárgyhó munkanapjai számának hányadosa.
 
 (4) Az egy órára járó illetmény az egy napra kiszámított illetmény és az igazságügyi alkalmazott napi teljes munkaidejének a hányadosa.
+
+(5) Az igazságügyi alkalmazott az apasági szabadság hatodik munkanapjától az illetmény negyven százalékára jogosult.
+
+(6) Az igazságügyi alkalmazottat az Mt. 118/A. §-a alapján kiadott szülői szabadság tartamára az illetmény tíz százaléka illeti meg, amelyet csökkenteni kell az erre az időszakra az igazságügyi alkalmazottnak megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
 
 ### A besorolás és az alapilletmény megállapítása
 
@@ -1184,7 +1200,7 @@ okozta.
 
 101. § Ha a tisztviselő vagy az ügykezelő – munkakörének a változása miatt – magasabb fizetési osztályba kerül, az addig elért fizetési fokozatát az új fizetési osztályban legfeljebb két fokozattal csökkenteni lehet, az új alapilletményt azonban a korábbinál magasabb összegben kell megállapítani.
 
-102. §
+#### 102. §
 
 103. § (1) Átlagon felüli színvonalú munkavégzés esetén a bírósági titkár, a bírósági fogalmazó és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható (a továbbiakban: soron kívüli előresorolás). A bírósági fogalmazó soron kívüli előresorolására legalább egy évi joggyakorlat után kerülhet sor.
 
@@ -1194,7 +1210,7 @@ okozta.
 
 (4) Ha – mindaddig, amíg az igazságügyi alkalmazott igazságügyi szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy az igazságügyi alkalmazott munkájának színvonala tartósan átlag alattivá válik, alapilletményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
 
-103/A. §
+#### 103/A. §
 
 ### A vezetői illetmény
 
@@ -1218,11 +1234,11 @@ okozta.
 
 106. § Az igazságügyi alkalmazott az e törvény alapján adományozott címmel az illetményalap 15 százalékának megfelelő összegű címpótlékra jogosult. Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályba tartozó igazságügyi alkalmazott részére is adományozható. A cím adományozására a bíróság és az OBH alkalmazottainak tekintetében az Országos Bírói Tanács, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
 ### Kirendelési díj
 
@@ -1269,9 +1285,9 @@ okozta.
 
 (4) A napidíjszámításnál havonta 21 munkanapot kell figyelembe venni.
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §
 
 ### A jubileumi jutalom
 
@@ -1295,9 +1311,13 @@ okozta.
 
 (6) Ha az igazságügyi alkalmazott bármely korábbi foglalkoztatási jogviszonyában jubileumi jutalomban részesült, az ugyanazon fokozat szerinti jubileumi jutalom ismételten nem illeti meg.
 
-### Egyéb javadalmazások, kedvezményekés költségtérítések
+### Egyéb javadalmazások, kedvezmények
 
-119–120. §
+és költségtérítések
+
+#### 119. §
+
+#### 120. §
 
 121. § (1) Az igazságügyi alkalmazott részére a költségvetésben biztosított előirányzatoktól függően egyéb juttatások adhatók, így különösen:
 
@@ -1391,15 +1411,18 @@ okozta.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. § (1) és (3) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. § (1)–(3) bekezdését, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés b), c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2) bekezdés a) pontját, valamint (3) és (5) bekezdését, 55. § (1)–(4) bekezdését, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, valamint (4) bekezdés c) és d) pontját, továbbá (5) és (6) bekezdését, 64. § (3) és (4) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–112. §-át, 113. § (5) és (6) bekezdését, 115. § (2) bekezdés a)–e) pontját, 118. § (1)–(3) bekezdését, 118/A. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a)–c) pontját és (5a) bekezdését, továbbá (7) bekezdését, 124–133. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (1a) és (4) bekezdését, 294. § (1) bekezdés c), d), g), h), i), m) és n) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
 - a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-- b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az alap- és pótszabadság egyötödére vonatkozik,
-- c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés a), e), f) és g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
-- d) 229. §-ának a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet, továbbá, hogy felmondás alatt a lemondást kell érteni,
-- e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
+- b) 46. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyet a kinevezési okirat tartalmaz,
+- c) 113. § (3) és (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy az Mt. 113. § (3) és (4) bekezdésében hivatkozott, az Mt. 113. § (1) bekezdése szerinti munkavállalón a 45. § (6) bekezdése szerinti igazságügyi alkalmazottat kell érteni,
+- d) 115. § (2) bekezdésének f) pontját azzal az eltéréssel kell alkalmazni, hogy munkában töltött időnek az Mt. 115. § (1) bekezdés alkalmazásában a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában meghatározott tartama minősül,
+- e) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az alap- és pótszabadság egyötödére vonatkozik,
+- f) 135. § (1) bekezdését, valamint 165. § (1) bekezdés a), e), f) és g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
+- g) 229. §-át azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet, továbbá, hogy felmondás alatt a lemondást kell érteni,
+- h) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
 (2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
@@ -1420,11 +1443,13 @@ okozta.
 
 126. § Az e törvény hatálybalépése előtt kinevezett bírósági fogalmazó joggyakorlatának teljesítésére és időtartamára az e törvény hatálybalépése előtt hatályos jogszabályokat kell alkalmazni.
 
-127. §
+#### 127. §
 
-128–129. §
+#### 128. §
 
-129/A. §
+#### 129. §
+
+#### 129/A. §
 
 130. § (1) A törvény hatálybalépésekor folyamatosan és ténylegesen legalább 10 év szolgálati viszonnyal rendelkező igazságügyi alkalmazott munkájának az írásbeli értékelését csak a vezetői megbízás előtt, alkalmatlanságra okot adó körülmények felmerülésekor, illetve az alkalmazott kérése esetén kell elvégezni.
 
@@ -1432,7 +1457,7 @@ okozta.
 
 131. § Ha az igazságügyi alkalmazott e törvény szerint járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a törvény hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény szerinti szabadsága meg nem haladja.
 
-132. §
+#### 132. §
 
 133. § (1) Az igazságügyi alkalmazott részére az őt e törvény, valamint más jogszabály alapján megillető javadalmazás és egyéb pénzbeli juttatás kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetéssel történik.
 
@@ -1475,6 +1500,19 @@ okozta.
 
 (2) A közigazgatási és munkaügyi bíróságok 2020. március 31-i megszűnésével a vezetői megbízások megszűnnek.
 
+134/J. § (1) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit – e törvény eltérő rendelkezése hiányában – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
+(2) Az Mt. 46. §-ában foglalt kiegészítő tájékoztatást a Módtv2. hatálybalépésekor fennálló jogviszony esetén a Módtv2. hatálybalépését követő három hónapon belül az igazságügyi alkalmazott írásban kérheti a munkáltatótól.
+
+(3) A (2) bekezdés szerinti tájékoztatást a munkáltató a kérelem közlésétől számított 30 napon belül köteles megadni.
+
+(4) Az igazságügyi alkalmazott a 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után a Módtv2. hatálybalépésétől számított két hónapon belül jogosult az apasági szabadságot igénybe venni, ha a Módtv2. hatálybalépése előtt
+
+- a) a 48. § (7) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) a 48. § (7) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv2. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+(5) A munkáltató, ha az igazságügyi alkalmazott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – az igazságügyi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 
 (2)
@@ -1516,8 +1554,8 @@ rendeletben állapítsa meg.
 - b) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
 - c) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
 - d) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
-- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által, a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv,
-- f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelv,
+- e) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelv,
+- f) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv,
 - g) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv.
 
 138. § (1) A 2016. december 31-én egyéb igazságügyi szervnek minősülő szerv állományába tartozó igazságügyi alkalmazottak 2017. január 1-jétől – munkáltatói jogutódlás útján – az 1. § (1) bekezdés c) pontja szerinti szerv alkalmazottaivá válnak.

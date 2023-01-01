@@ -876,7 +876,7 @@ p) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférh
 
 (4)
 
-(5)
+(5) Az MRP tv. 24/D. § (1) bekezdésében a „négy év elteltével” szövegrészek helyébe az „öt év elteltével” szöveg lép.
 
 242. §
 

@@ -210,17 +210,15 @@ a kincstári vagyon részét képezi.
 
 (3) Az (1) bekezdés hatálya alá nem tartozó, az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület a kincstári vagyon részét képezi és korlátozottan forgalomképes.
 
-(4) Az állam 100%-os tulajdonában álló, gazdasági elsődleges rendeltetésű,
-
-- a)
-- b) 5 hektárnál nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
-
-állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
+(4) Az állam 100%-os tulajdonában álló, gazdasági elsődleges rendeltetésű, 10 hektárnál nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
 
 (5) Az állam 100%-os tulajdonában álló,
 
-- a) gazdasági elsődleges rendeltetésű, 5 hektárnál nem nagyobb, természetben összefüggő erdő,
-- b) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület, állami tulajdonból történő kikerülésére optimális állami birtokszerkezet kialakítása céljából, csere vagy értékesítés útján kerülhet sor. Az erdő, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ellenértékét erdő vagy erdőgazdálkodási tevékenységhez kapcsolódó földrészlet tulajdonjogának megszerzésére kell fordítani.
+- a) gazdasági elsődleges rendeltetésű, 10 hektárnál nem nagyobb, természetben összefüggő átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
+- b) gazdasági elsődleges rendeltetésű, 5 hektárnál nem nagyobb, természetben összefüggő természetes erdő, természetszerű erdő és származék erdő természetességi állapotú erdő,
+- c) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
+
+állami tulajdonból történő kikerülésére optimális állami birtokszerkezet kialakítása céljából, csere vagy értékesítés útján kerülhet sor. Az erdő, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ellenértékét erdő vagy erdőgazdálkodási tevékenységhez kapcsolódó földrészlet tulajdonjogának megszerzésére kell fordítani.
 
 (6) A (4)–(5) bekezdés szerinti földcseréhez, valamint vagyonátruházáshoz az erdő védelmi rendeltetése szerint feladat- és hatáskörrel rendelkező miniszter egyetértése szükséges.
 
@@ -231,6 +229,8 @@ a kincstári vagyon részét képezi.
 (9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
 
 (10) Az állam 100%-os tulajdonában álló erdőben az e törvény hatálybalépésekor már fennálló és ráépítéssel létesített épület vagy építmény önálló ingatlanként az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaság mint ráépítő tulajdonaként az ingatlan-nyilvántartásban feltüntethető. Az így feltüntetett ingatlant az Adattárból törölni kell.
+
+(11) Az (5) bekezdés rendelkezéseit nem kell alkalmazni az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlanoknak az egyes otthonteremtési feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonba adására.
 
 9. § Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalap kezelésére kijelölt szerv előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó közjóléti, kulturális, illetve szabadidős hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelőnek a földhasználati jogosultságát.
 
@@ -425,9 +425,19 @@ létesítéséhez, bővítéséhez, korszerűsítéséhez, megszüntetéséhez, 
 
 (2) Az e törvényben foglalt erdőgazdálkodói jogok és kötelezettségek – a haszonvételi joggyakorlás kivételével – az erdőgazdálkodót illetik, illetve terhelik.
 
-(3)–(4)
+(3)
 
-(5)–(9)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 18. § (1) Az erdőgazdálkodó, valamint a használatában álló erdő, illetve erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület (a 18-21/B. § tekintetében a továbbiakban együtt: erdőnek minősülő föld) adatairól az erdészeti hatóság nyilvántartást vezet (a továbbiakban: erdőgazdálkodói nyilvántartás).
 
@@ -494,7 +504,11 @@ közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A szerződő felek kézjegyét az okirat lapjainak nem kell tartalmaznia, ha az okirat lapjait a szerződő felek által az erre meghatalmazott kézjegyével látta el.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 18/C. § (1) Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, illetve látta el kézjegyével, csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani. Ha a felet a közjegyzői okirat elkészítésénél meghatalmazott képviseli, az erdőgazdálkodói nyilvántartási eljárásban azt a magánokiratban foglalt meghatalmazást is el kell fogadni, amelyben a fél aláírását közjegyző vagy magyar külképviseleti szerv hitelesítette.
 
@@ -671,7 +685,11 @@ is kezdeményezheti.
   - pb) honvédelmi: a Magyar Honvédség szervezeteinek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 53. § (1) bekezdésében foglaltak szerint rendelkezésre bocsátott erdő;
   - pc) határrendészeti: a határrendészeti és nemzetbiztonsági feladatok ellátására kijelölt erdő.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 25. § Közjóléti rendeltetések az alábbiak:
 
@@ -815,7 +833,9 @@ biztosítja.
 
 (2) E törvényben, valamint a külön jogszabályokban foglaltak alapján a miniszter a természetvédelemért felelős miniszterrel egyetértésben köteles gondoskodni a körzeti erdőtervezés és a körzeti vadgazdálkodási tervezés összhangjának megteremtéséről.
 
-#### 31–32. §
+#### 31. §
+
+#### 32. §
 
 ### A körzeti erdőtervezés, erdőterv
 
@@ -855,7 +875,11 @@ módosíthatja az erdőtervet.
 
 (9) Az erdőterv véghasználati fakitermelést eredményező, illetve az erdőfelújítás előírást érintő módosítására az erdőgazdálkodó kezdeményezése esetén a tulajdonos hozzájárulása mellett kerülhet sor.
 
-#### 34–36. §
+#### 34. §
+
+#### 35. §
+
+#### 36. §
 
 #### 37. §
 
@@ -1237,7 +1261,7 @@ során a talaj tápanyag- és vízgazdálkodásának javítása céljából – 
 
 (2) Aki erdőtüzet vagy tűzveszélyt észlel és azt eloltani, illetve elhárítani nem tudja, köteles a tűzoltóságot haladéktalanul tájékoztatni.
 
-67. § (1) Az ország teljes területére, illetve megye vagy település területére vonatkozóan a fokozott tűzveszély időszakának – a hivatásos katasztrófavédelmi szerv központi szervével való egyeztetés mellett történő – meghatározásáról, valamint az érintett erdőgazdálkodók, erdészeti szakszemélyzet és a lakosság erről történő tájékoztatásáról a miniszter gondoskodik.
+67. § (1) Az ország teljes területére, illetve vármegye vagy település területére vonatkozóan a fokozott tűzveszély időszakának – a hivatásos katasztrófavédelmi szerv központi szervével való egyeztetés mellett történő – meghatározásáról, valamint az érintett erdőgazdálkodók, erdészeti szakszemélyzet és a lakosság erről történő tájékoztatásáról a miniszter gondoskodik.
 
 (2) Fokozott tűzveszély időszakában az erdőgazdálkodó az erdőbe való belépést és az ott tartózkodást a 95. §-ban foglaltak alkalmazásával korlátozhatja, illetve megtilthatja.
 
@@ -1756,7 +1780,9 @@ kerülhet sor.
 - d)
 - e) erdővédelmi bírságot szab ki,
 - f) faanyag kereskedelmi lánccal kapcsolatos tevékenységhez használt szállítójármű használatának tiltására vagy korlátozására vonatkozó döntés alapján az erdészeti hatóság kezdeményezi a jármű forgalomból történő ideiglenes kivonását a közlekedési igazgatási hatóságnál.
-- g)–i)
+- g)
+- h)
+- i)
 - j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 
 (1a) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 14. § (2) bekezdése nem alkalmazható.
@@ -2512,17 +2538,29 @@ esetén.
 
 (4) Az e törvény hatálybalépése előtt kiadott üzemtervek e törvény szerinti erdőtervnek minősülnek.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)
 
 (8) E törvény hatálybalépése előtt az erdő igénybevételére határidő megjelölése nélkül kiadott engedély, ha az igénybevételre a törvény hatálybalépésétől számított négy éven belül nem kerül sor, érvényét veszti.
 
 (9) E törvény hatálybalépése előtt erdő telepítésére határidő megjelölése nélkül kiadott engedély a törvény hatálybalépésétől számított öt évig érvényes.
 
-(10)–(12)
+(10)
+
+(11)
+
+(12)
 
 (13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdészeti hatóság az erdőgazdálkodó kérelmére induló eljárásban állapítja meg az erdőtervet.
 
-(14)–(16)
+(14)
+
+(15)
+
+(16)
 
 (17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig
 
@@ -2594,11 +2632,36 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (32) Ha az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
 
+113/A. § (1) A 8. § (10) bekezdése szerinti épülettel vagy építménnyel (a továbbiakban: felépítmény) kapcsolatban az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.) és a végrehajtására kiadott rendeletekben foglaltakat – az Étv. 47. § (2) bekezdés a) és b) pontja szerinti eset kivételével – nem kell alkalmazni, az építésügyi és az építésfelügyeleti hatóság az építményre vonatkozóan eljárást nem folytat le, a folyamatban lévő eljárást megszünteti.
+
+(2) A felépítményre a településkép védelméről szóló 2016. évi LXXIV. törvény szerinti településképi rendeletek, valamint egyedi és országos településkép védelmi jogszabályok rendelkezései nem alkalmazhatóak.
+
+(3) A felépítmény ingatlan-nyilvántartásban önálló ingatlanként történő feltüntetésére, továbbá a felépítmény mindenkori tulajdonosát és egyéb jogosultját megillető jogok bejegyzésére irányuló ingatlanügyi eljárásban
+
+- a) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 28. § (1) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtására kiadott, az ingatlannal kapcsolatos jogok bejegyzésére, tények feljegyzésére és az ingatlan adataiban bekövetkezett változások vezetésére vonatkozó részletes szabályokat tartalmazó miniszteri rendeletnek az adatváltozás átvezetéséhez szükséges végleges hatósági engedélyre, jóváhagyásra és – a (4) bekezdésben valamint a (6) bekezdés c) pontjában meghatározott kivétellel – bizonyítványra vonatkozó rendelkezéseit nem kell alkalmazni,
+- b) a felépítményt tartalmazó földrészletre az ingatlan-nyilvántartásba bejegyzett telekalakítási és építési tilalmat vagy egyéb korlátozást nem kell figyelembe venni.
+
+(4) A kérelmező a (3) bekezdés szerinti ingatlanügyi eljárásban, ha rendelkezésre áll, a felépítményre vonatkozó, építésügyi hatóság által kiadott használatbavételi engedélyt, használatbavétel tudomásulvételét igazoló okiratot, fennmaradási engedélyt vagy hatósági bizonyítványt benyújtja.
+
+(5) A felépítmény jogi helyzetének rendezésére irányuló megállapodás, valamint a felépítmény tulajdonosát és egyéb jogosultját megillető jogok ingatlan-nyilvántartási bejegyzése során a nemzeti vagyonról szóló törvényben foglaltaktól eltérően, a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 38. § (1) bekezdésében foglaltak szerinti osztott tulajdon létesíthető.
+
+(6) A (3) bekezdés szerinti ingatlanügyi eljárásban a felépítmény feltüntetésének, illetve jogok bejegyzésének az alábbi okiratok alapján van helye:
+
+- a) a felépítmény tulajdonosát, és ha van, egyéb jogosultját megillető jogok bejegyzésére irányuló kérelem,
+- b) jogszabály előírásai szerint készített és az ingatlanügyi hatóság által érvényes záradékkal ellátott épületfeltüntetési változási vázrajz, és
+- c) a felépítménynek az állami ingatlan-nyilvántartási térképi adatbázisban való feltüntetése, valamint a rá vonatkozó ingatlan-nyilvántartási jogok bejegyzése felhasználási céllal, az erdészeti hatóság által kiadott hatósági bizonyítvány arról, hogy a felépítmény vagy a felépítmény miatt kialakított egyéb részlet szerepel az Adattárban vagy az erdészeti térképen.
+
+(7) A (3) bekezdés szerinti ingatlanügyi eljárásban szükséges csatolni a felépítményt tartalmazó ingatlan felett rendelkezni jogosult nyilatkozatát arról, hogy a felépítménynek az állami ingatlan-nyilvántartási térképi adatbázisban önálló ingatlanként történő feltüntetéséhez, továbbá a felépítmény mindenkori tulajdonosát és egyéb jogosultját megillető jogok bejegyzéséhez hozzájárul.
+
+(8) A (6) bekezdés c) pontjában meghatározott hatósági bizonyítványt az építésügyi hatóság által kiadott használatbavételi engedély, használatbavétel tudomásulvételét igazoló okirat, fennmaradási engedély vagy hatósági bizonyítvány hiányában, azzal azonos joghatással bíró okiratnak kell tekinteni, ha jogszabály, szerződés, egyoldalú nyilatkozat, pályázat hatósági használatbavételi vagy fennmaradási engedélyről rendelkezik.
+
+(9) A (3) bekezdés szerinti ingatlanügyi eljárásokat 2026. december 31-ig le kell zárni.
+
 114. § Az Országos Erdőállomány Adattárból a 113. § (24) vagy (27) bekezdése szerinti kivezetést vagy átminősítést át kell vezetni az ingatlan-nyilvántartás szerinti művelési ágban, továbbá a településrendezési terveken is. Az erdészeti hatóság a határozat véglegessé válásától számított 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak, a települési önkormányzatot a településrendezési terveknek az Országos Erdőállomány Adattárral történő összhangba hozatala érdekében.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-114/A. § E törvény 8. § (1)–(7) és (9)–(10) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+114/A. § E törvény 8. § (1)–(7) és (9)–(11) bekezdése, valamint 113/A. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -14,7 +14,7 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 
 (3) Az Állami Számvevőszék általános hatáskörrel végzi a közpénzekkel és az állami és önkormányzati vagyonnal való felelős gazdálkodás ellenőrzését.
 
-(4) Az Állami Számvevőszék az ellenőrzési tapasztalatain alapuló megállapításaival, javaslataival, tanácsaival segíti az Országgyűlést, annak bizottságait, és az ellenőrzött szervezetek munkáját, amellyel elősegíti a jól irányított állam működését.
+(4) Az Állami Számvevőszék az ellenőrzési tapasztalatain alapuló megállapításaival, javaslataival, tanácsaival segíti az Országgyűlést, annak bizottságait, és az ellenőrzött szervezetek munkáját.
 
 (5) Az Állami Számvevőszék megállapításai alapján az ellenőrzött szervezetekkel és a felelős személyekkel szemben az illetékes szervezetnél eljárást kezdeményezhet.
 
@@ -22,7 +22,9 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 
 2. § (1) Az Állami Számvevőszék a központi költségvetésről szóló törvényben önálló költségvetési fejezetet alkot, a fejezetet irányító szerv jogait az elnök gyakorolja.
 
-(2) Az Állami Számvevőszék a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek. Az Állami Számvevőszék költségvetését úgy kell megállapítani, hogy ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél.
+(2) Az Állami Számvevőszék a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek. Az Állami Számvevőszék költségvetését a (2a) bekezdésben meghatározottak figyelembevételével úgy kell megállapítani, hogy az egyéb működési kiadások és a felhalmozási kiadások előirányzatának együttes összege ne legyen kevesebb ugyanezen előirányzatok előző évi – ide nem értve a különleges, egyszeri beruházásra igényelt költségvetési támogatás összegét – központi költségvetésben megállapított együttes összegénél.
+
+(2a) Az Állami Számvevőszék bértömeg-gazdálkodást folytat. Az Állami Számvevőszék központi költségvetési törvény szerinti személyi juttatások kiemelt előirányzata összegét úgy kell megállapítani, hogy az nem lehet kevesebb, mint a tárgyévet megelőző évre vonatkozó, központi költségvetésről szóló törvény szerinti előirányzatnak a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, az azt megelőző naptári évre vonatkozó, a bruttó átlagkeresetek éves növekedését kimutató kereseti indexszel korrigált összege. A tárgyévre meghatározott személyi juttatások kiemelt előirányzata összegét év közben az e bekezdés szerinti index kilenc tizenketted részével korrigálni kell. A korrekció összegét a tárgyév március 31. napjáig kell az Állami Számvevőszék rendelkezésére bocsátani. Ezt a rendelkezést kell alkalmazni az egyéb működési kiadások előirányzatán belül a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzata összegének meghatározása esetében is.
 
 (3) Az Állami Számvevőszék részére e törvény 3–5. §-aiban foglaltakon túlmenően további feladatot törvény csak úgy állapíthat meg, hogy a feladatellátáshoz szükséges pénzügyi fedezetet egyidejűleg biztosítja.
 
@@ -33,6 +35,8 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 3. § (1) Az Állami Számvevőszék feladatait e törvény és más törvények állapítják meg.
 
 (2) Az Állami Számvevőszék tevékenységét ellenőrzési terv alapján végzi, amit az elnök hagy jóvá. Az ellenőrzési tervről és annak módosításáról az Állami Számvevőszék elnöke tájékoztatja az Országgyűlést.
+
+(2a) Az Állami Számvevőszék az elnök döntése alapján az ellenőrzési tervben nem szereplő ellenőrzést is végezhet, amelyről az éves beszámolójában ad tájékoztatást az Országgyűlés részére.
 
 (3) Törvényben meghatározott feladatkörében az Állami Számvevőszék
 
@@ -52,7 +56,7 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 (4) Az Állami Számvevőszék a nemzeti vagyon kezelésének ellenőrzése keretében
 
 - a) ellenőrzi az államháztartás körébe tartozó vagyon kezelését, a vagyonnal való gazdálkodást, az állami tulajdonban (résztulajdonban) vagy többségi önkormányzati tulajdonban lévő gazdálkodó szervezetek vagyonérték-megőrző és vagyongyarapító tevékenységét, az államháztartás körébe tartozó vagyon elidegenítésére, illetve megterhelésére vonatkozó szabályok betartását;
-- b) ellenőrizheti az állami vagy önkormányzati tulajdonban (résztulajdonban) lévő gazdálkodó szervezetek vagyongazdálkodását.
+- b) ellenőrizheti az állami vagy önkormányzati tulajdonban (résztulajdonban) lévő, továbbá valamennyi köztulajdonban álló gazdálkodó szervezet vagyongazdálkodását.
 
 (5) Az Állami Számvevőszék – a (3)–(4) bekezdés szerinti ellenőrzési feladataival összefüggésben – ellenőrizheti az államháztartás alrendszereiből finanszírozott beszerzéseket és az államháztartás alrendszereihez tartozó vagyont érintő szerződéseket a megrendelőnél (vagyonkezelőnél), a megrendelő (vagyonkezelő) nevében vagy képviseletében eljáró természetes személynél és jogi személynél, valamint azoknál a szerződő feleknél, akik, illetve amelyek a szerződés teljesítéséért felelősek, továbbá a szerződés teljesítésében közreműködőknél.
 
@@ -99,7 +103,7 @@ jogszabályok előkészítésében.
 
 7. § (1) Az Állami Számvevőszék székhelye Budapest.
 
-(2) Az Állami Számvevőszék szervezeti egységei minden megyében működnek.
+(2) Az Állami Számvevőszék a vármegyékben ellenőrzési irodákat működtethet.
 
 ### II. Fejezet — AZ ÁLLAMI SZÁMVEVŐSZÉK SZEMÉLYI ÁLLOMÁNYA
 
@@ -177,7 +181,9 @@ jogszabályok előkészítésében.
 - j) ellenőrzi a vezetők és a számvevők vagyonnyilatkozatát, gondoskodik azok nyilvántartásáról,
 - k) külön jogszabályokban meghatározottak szerint szakmai képzést szervezhet,
 - l) a Költségvetési Tanács tagjaként ellátja a külön törvényben meghatározott ezirányú feladatait,
-- m) ellátja a törvényekben ráruházott egyéb feladatokat.
+- m) ajánlást adhat ki,
+- n) szabályzatban meghatározhatja az otthoni munkavégzés és a távmunkavégzés szabályait,
+- o) ellátja a törvényekben ráruházott egyéb feladatokat.
 
 ### Az Állami Számvevőszék alelnökei
 
@@ -215,88 +221,83 @@ jogszabályok előkészítésében.
 
 (13) Ha az Állami Számvevőszék alelnökének megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy a megbízatása nem összeférhetetlenség megállapításával vagy kizárással szűnt meg.
 
-(14) Az Állami Számvevőszék elnökének 60 napot meghaladó akadályoztatása esetén az elnök által kijelölt alelnök, az Állami Számvevőszék Szervezeti és Működési Szabályzatában meghatározott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök általános helyettesítési jogkörében nem jogosult a 13. § (2) bekezdés a), b) és d) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
+(14) Az Állami Számvevőszék elnökének akadályoztatása esetén az elnök által kijelölt alelnök az Állami Számvevőszék Szervezeti és Működési Szabályzatában meghatározott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök általános helyettesítési jogkörében nem jogosult a 13. § (2) bekezdés a), b), d) és m) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
 
 (15) Az Állami Számvevőszék alelnökeinek feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.
 
 ### A számvevő
 
-15. § (1) Számvevő az Állami Számvevőszék feladat- és hatáskörében eljáró ügydöntő, vagy ellenőrzési és azt támogató érdemi feladatot ellátó, felsőfokú végzettséggel rendelkező személy lehet.
+15. § (1) Számvevő az Állami Számvevőszék feladat- és hatáskörében eljáró ügydöntő, vagy ellenőrzési és azt támogató feladatot ellátó, felsőfokú végzettséggel rendelkező személy lehet.
 
-(2) A számvevőt az Állami Számvevőszék elnöke nevezi ki, a jogviszony a kinevezéssel és annak elfogadásával jön létre. Eltérő rendelkezés hiányában a jogviszony határozatlan időre és teljes munkaidőre jön létre. A kinevezést és annak elfogadását írásba kell foglalni. A kinevezést a munkáltatói jogkör gyakorlója egyoldalú nyilatkozatával módosíthatja.
+(1a) A számvevői jogviszony az Állami Számvevőszék mint munkáltató és a számvevő mint foglalkoztatott között a számvevői közszolgálati szerződéssel jön létre.
 
-(2a) A számvevő a kinevezése módosításának közlésétől számított négy munkanapon belül írásban kérheti a felmentését, ha
+(1b) A számvevői közszolgálati szerződésben állapodnak meg a felek a számvevő munkaköréről, a munkavégzés helyéről, a számvevő besorolásáról, alapilletményének mértékéről. A számvevői közszolgálati szerződés a jogviszonyt érintő egyéb lényeges kérdésekről is rendelkezhet. A számvevői közszolgálati szerződésben nem szabályozott kérdésekben a számvevői jogviszonyra az e törvényben foglaltakat kell alkalmazni.
 
-- a) illetményének összege a kinevezés módosítást követően korábbi illetményének 80%-át nem éri el,
-- b) a munkaideje változik vagy
-- c) a munkavégzésének helye a település határán kívülire változik.
+(1c) Az Állami Számvevőszék elnöke át nem ruházható hatáskörében szabályzatban határozza meg a számvevői besorolási kategóriákat, az egyes számvevői munkaköröket, a munkáltató által meghatározható pótszabadság mértékét, valamint a teljesítményértékelés szabályait.
 
-(2b) Ha a számvevő nem kéri a (2a) bekezdés alapján a felmentését, a kinevezés-módosítás a számvevő által elfogadottnak minősül.
+(2) Eltérő rendelkezés hiányában a számvevői jogviszony határozatlan időre és teljes munkaidőre jön létre. A számvevői közszolgálati szerződést írásba kell foglalni. A számvevői közszolgálati szerződést módosítani csak az Állami Számvevőszék és a számvevő közös megegyezésével lehet. A szerződés tartalmának módosítására a szerződés létrejöttével kapcsolatos szabályokat kell alkalmazni.
 
-(2c) A (2a) bekezdésben foglalt kérelemre a számvevőt – a nyilatkozattétel időpontjával kezdődően – fel kell menteni, a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb járandóságai összegének meghatározásakor a kinevezés-módosítást megelőző illetményét kell alapul venni.
+(2a)
 
-(3) A számvevő helyettesítés céljából vagy meghatározott munka elvégzésére, feladat ellátására határozott időre is kinevezhető. A számvevő gyakornok kinevezése határozott időre szól. A határozott idejű kinevezéssel létesített jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni.
+(2b)
 
-(4) A kinevezési okmánynak tartalmaznia kell a számvevő besorolását, illetményét, munkakörét, meghatározott feladatkörét és a munkavégzés helyét. A kinevezési okmány a jogviszonyt érintő egyéb kérdésekről is rendelkezhet.
+(2c)
 
-(5) A számvevőnek a kinevezéséhez és a besorolásához szükséges, illetve a jogviszony fennállása alatt, azzal összefüggésben keletkezett adatokat és tényeket igazolnia kell. A számvevő legkésőbb a munkába lépése napján köteles átadni a korábbi foglalkoztatási jogviszonyának megszűnésekor részére kiállított igazolásokat.
+(3) A számvevői jogviszony helyettesítés céljából, meghatározott munka elvégzésére vagy gyakornoki feladatok ellátására határozott időre is létesíthető. A határozott idejű számvevői jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni.
+
+(4)
+
+(5) A számvevőnek a jogviszony létesítéséhez és a besorolásához szükséges, illetve a jogviszony fennállása alatt, azzal összefüggésben keletkezett adatokat és tényeket igazolnia kell. A számvevő legkésőbb a munkába lépése napján köteles átadni a korábbi foglalkoztatási jogviszonyának megszűnésekor részére kiállított igazolásokat.
 
 (6) A számvevő hivatalba lépésekor esküt tesz.
 
-(7) A számvevő részt vesz az Állami Számvevőszék feladatainak ellátásában, elvégzi a munkaköri leírásában szereplő, továbbá azokat a feladatokat, amelyekkel felettes vezetője megbízza.
+(7) A számvevő részt vesz az Állami Számvevőszék feladatainak ellátásában, elvégzi a munkaköri leírásában szereplő feladatokat, továbbá az azok végrehajtásához kapcsolódó mindazon feladatokat, amelyekkel felettes vezetője megbízza.
 
 (8) A számvevőnek a feladatait a hatályos jogrend előírásai szerint, a demokratikus, jogállami intézményrendszerben kifejeződő közérdek iránti elkötelezettséggel kell ellátnia. A számvevővel szemben elvárás, hogy feladatait hivatásszerű példamutatással, a jogszabályi előírások maradéktalan betartásával, pontosan lássa el és állampolgári kötelezettségeit teljesítse, valamint hivatására a magánéletében is méltó legyen.
 
-16. § (1) A számvevőt kinevezésében
-
-- a) számvevő gyakornok,
-- b) számvevő fogalmazó,
-- c) számvevő,
-- d) számvevő tanácsos,
-- e) számvevő főtanácsos,
-- f) számvevő vezető főtanácsos
-
-kategóriák valamelyikébe kell besorolni.
-
-(2) A számvevő besorolásának további szabályait az Állami Számvevőszék szervezeti és működési szabályzata határozza meg.
-
-(3) Az Állami Számvevőszék elnöke az ellenőrzést vezető számvevő részére – amennyiben nem tölt be vezetői munkakört – az ellenőrzés idejére osztályvezetői besorolásnak megfelelő illetményt állapíthat meg.
-
-(4) A számvevő jogviszonya felmentéssel megszüntethető, ha a külön jogszabályban megállapított rá irányadó öregségi nyugdíjkorhatárt elérte. Az e címen történő felmentés az erre vonatkozó tény megjelölésével történik.
-
-(5) A számvevő jogviszonya felmentéssel megszüntethető a közvetlen hivatali felettese vagy feladatot adó vezetője kezdeményezésére, ha a munkájáról készített teljesítményértékelés eredménye alapján a számvevő munkaköri feladatainak ellátása nem megfelelő színvonalú.
+#### 16. §
 
 ### A vezetői és tanácsadói munkakörök
 
-17. § (1) Az Állami Számvevőszék elnöke a számvevőt számvevő osztályvezetőnek, számvevő igazgatóhelyettesnek, számvevő igazgatónak, számvevő főigazgatónak vagy főtitkárnak kinevezheti.
+17. § (1) Az Állami Számvevőszék elnöke vezetői és tanácsadói megbízást adhat.
 
-(2) A vezetői kinevezés indokolás nélkül bármikor visszavonható. A vezetői kinevezés visszavonása nem érinti a számvevői kinevezést.
+(2) A vezetői és tanácsadói megbízás indokolás nélkül bármikor visszavonható. A vezetői és tanácsadói megbízás visszavonása nem érinti a számvevői jogviszonyt.
 
 (3) Az Állami Számvevőszék vezetőinek hatáskörét és feladatait a Szervezeti és Működési Szabályzat állapítja meg.
 
-(4) Az Állami Számvevőszék elnöke az elnöki igazgatóságon elnöki (alelnöki) főtanácsadói és elnöki (alelnöki) tanácsadói munkaköröket létesíthet. Az elnöki (alelnöki) főtanácsadói és tanácsadói munkakör betöltésére szóló kinevezés határozatlan időre szól. Az elnöki (alelnöki) főtanácsadói vagy tanácsadói munkakörben foglalkoztatott számvevő vezető főtanácsosi vagy számvevő főtanácsosi besorolást kap. A számvevő vezető főtanácsosként besorolt elnöki (alelnöki) főtanácsadó számvevő igazgatóhelyettesi, a számvevő főtanácsosként besorolt elnöki (alelnöki) tanácsadó számvevő osztályvezetői illetményre és juttatásra jogosult.
+(4)
 
-### Összeférhetetlenség
+(5) A vezetői és tanácsadói pótlékok mértékét az Állami Számvevőszék elnöke szabályzatban határozza meg.
+
+### Összeférhetetlenség és együttalkalmazási tilalom
 
 18. § (1) Az Állami Számvevőszék elnöki, alelnöki, vezetői és számvevői tisztsége összeegyeztethetetlen minden olyan szervezetnél betöltött tisztséggel, amely szervezet az államháztartás valamelyik alrendszeréből támogatásban részesül.
 
-(2) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője az Állami Számvevőszéknél történő alkalmazásuk idején nem lehetnek tagjai az Országgyűlésnek, önkormányzati képviselő-testületnek, és nem tölthetnek be érdek-képviseleti szervezetnél vezető tisztséget.
+(2) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője az Állami Számvevőszéknél történő alkalmazásuk idején nem lehetnek tagjai az Országgyűlésnek, önkormányzati képviselő-testületnek.
 
-(3) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – más megbízást nem láthat el, más kereső foglalkozást nem folytathat, díjazást más tevékenységért nem fogadhat el.
+(3) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – más megbízást nem láthat el, más keresőfoglalkozást nem folytathat, díjazást más tevékenységért nem fogadhat el.
 
-(4) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője nem lehetnek sem egymással, sem a Kormány, sem pedig az Országgyűlés számvevőszéki ügyekben illetékes bizottsága tisztségviselőjével vagy tagjával a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti hozzátartozók.
+(4) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője nem lehet a Kormány és az Országgyűlés számvevőszéki ügyekben illetékes bizottsága tisztségviselőjével vagy tagjával a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti hozzátartozók.
 
-(5) Ha az Állami Számvevőszék elnöke, alelnöke, vezetője vagy számvevője személyével kapcsolatban összeférhetetlenségi ok áll fenn, azt a megválasztását vagy kinevezését követően – amennyiben az összeférhetetlenség később keletkezik, annak keletkezését követően – tíz napon belül meg kell szüntetnie. Ennek megtörténtéig a hatáskörét nem gyakorolhatja, feladatait nem láthatja el.
+(5) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője a Kttv. szerinti hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba nem kerülhet a jogviszonyának fennállása során.
 
-(6) A vezető és a számvevő esetében az összeférhetetlenséget az elnök állapítja meg.
+(6) Ha az Állami Számvevőszék elnöke, alelnöke, vezetője vagy számvevője személyével kapcsolatban összeférhetetlenségi ok áll fenn, azt a megválasztását vagy a jogviszony létesítését követően – amennyiben az összeférhetetlenség később keletkezik, annak keletkezését követően – tíz napon belül meg kell szüntetnie. Ennek megtörténtéig a hatáskörét nem gyakorolhatja, feladatait nem láthatja el.
 
-(7) A számvevőre vonatkozó jelen §-ban meghatározott összeférhetetlenségi szabályokat az Állami Számvevőszék által az ellenőrzésben való részvételre felkért szakértőre és megbízási jogviszonyban foglalkoztatott más közreműködőre is alkalmazni kell.
+(7) A vezető és a számvevő esetében az összeférhetetlenséget az elnök állapítja meg.
+
+(8) A számvevőre vonatkozó, e §-ban meghatározott összeférhetetlenségi szabályokat az Állami Számvevőszék által az ellenőrzésben való részvételre felkért szakértőre és megbízási jogviszonyban foglalkoztatott más közreműködőre, valamint a (4) és (5) bekezdést az Mt. hatálya alá tartozó munkavállalókra is alkalmazni kell.
+
+(9) Az Állami Számvevőszék munkáltatói ellenőrzési jogkörében fokozottan figyelemmel kíséri, hogy a személyi állományába tartozó alkalmazottak megfeleljenek a jogviszonyukra irányadó törvényi és etikai feltételeknek, továbbá hogy a feladatellátásukkal összefüggésben megelőzze, feltárja és orvosolja az objektív érdekellentétnek tekinthető helyzeteket (a továbbiakban együtt: vizsgálati célok), amelynek rendszerét és szempontjait az Állami Számvevőszék elnöke határozza meg.
+
+(10) A (9) bekezdés szerint lefolytatott vizsgálatok tekintetében az érintettek adatvédelmi tájékoztatási joga korlátozható, feltéve, hogy az veszélyeztetheti vagy jelentősen akadályozhatja a vizsgálati célok elérését, és a korlátozások e célok eléréséhez szükségesek.
+
+(11) A (10) bekezdés alkalmazásában érdekellentét különösen, ha a feladat pártatlan és tárgyilagos ellátása elköteleződéssel kapcsolatos ok, továbbá gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt sérül.
 
 ### Vagyonnyilatkozat
 
 19. § (1) Az Állami Számvevőszék elnöke a megválasztását, az Állami Számvevőszék alelnöke a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) Az Állami Számvevőszék vezetői és számvevői a köztisztviselőkre vonatkozó szabályok szerint a kinevezésükkor, majd azt követően a vezetők évente, a számvevők kétévente vagyonnyilatkozatot tesznek. A vezetők és a számvevők vagyonnyilatkozata nem nyilvános.
+(2) Az Állami Számvevőszék vezetői és számvevői a köztisztviselőkre vonatkozó szabályok szerint a jogviszony létesítésekor, majd azt követően a vezetők évente, a számvevők kétévente vagyonnyilatkozatot tesznek. A vezetők és a számvevők vagyonnyilatkozata nem nyilvános.
 
 (3) A vagyonnyilatkozatok őrzésére, ellenőrzésére, a vagyonnyilatkozat-tételi kötelezettség elmulasztására és a szándékosan téves tartalmú vagyonnyilatkozat közlésére az Állami Számvevőszék vezetői és számvevői esetében – eltérő szabály hiányában – a köztisztviselőkre vonatkozó szabályokat kell alkalmazni.
 
@@ -304,55 +305,15 @@ kategóriák valamelyikébe kell besorolni.
 
 20. § (1) Az Állami Számvevőszék elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tizenkétszerese. Egyebekben az Állami Számvevőszék elnöke a minisztert megillető juttatásokra jogosult.
 
-(2) Az Állami Számvevőszék alelnökeinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tíz és félszerese. Egyebekben az alelnökök az Állami Számvevőszék elnökét megillető juttatásokra jogosultak.
+(2) Az Állami Számvevőszék alelnökeinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tíz és félszerese. Egyebekben az alelnökök az államtitkárt megillető juttatásokra jogosultak.
 
-21. § (1) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított számvevői illetményalap a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset összegével megegyező. Az illetményalap változásából eredő illetményváltozás nem minősül a kinevezés módosításának.
-
-(2) A számvevő alapilletménye:
-
-- a) számvevő gyakornok esetében az illetményalap 1,9-szerese,
-- b) számvevő fogalmazó esetében az illetményalap 2,3-szerese,
-- c) számvevő esetében az illetményalap 3,3-szerese,
-- d) számvevő tanácsos esetében az illetményalap 3,7-szerese,
-- e) számvevő főtanácsos esetében az illetményalap 4-szerese,
-- f) számvevő vezető főtanácsos esetében az illetményalap 5,1-szerese,
-- g) számvevő osztályvezető esetében az illetményalap 3,8-szerese,
-- h) számvevő igazgatóhelyettes esetében az illetményalap 4,8-szerese,
-- i) számvevő igazgató esetében az illetményalap 5,5-szerese,
-- j) számvevő főigazgató és főtitkár esetében az illetményalap 6,5-szerese.
-
-(3) A vezetői illetménypótlék mértéke a számvevő osztályvezető, a számvevő igazgatóhelyettes, a számvevő igazgató, a számvevő főigazgató és a főtitkár esetén az alapilletmény 35%-a.
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-(9a)
-
-(10) A számvevő főigazgató és a főtitkár a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
-
-(11) Az Állami Számvevőszék elnöke át nem ruházható hatáskörében a megállapított személyi juttatások előirányzatán belül, munkája értékelésétől függően a számvevő (1)–(2) bekezdés szerint számított alapilletményét legfeljebb 60%-kal megemelheti vagy legfeljebb 10%-kal csökkentett mértékben állapíthatja meg.
-
-(12) Az alapszabadságon felül
-
-- a) a számvevőnek és a számvevő tanácsosnak 11 munkanap,
-- b) a számvevő főtanácsosnak 12 munkanap,
-- c) a számvevő vezető főtanácsosnak, az elnöki (alelnöki) tanácsadónak, az elnöki (alelnöki) főtanácsadónak, a számvevő osztályvezetőnek és a számvevő igazgatóhelyettesnek 13 munkanap,
-- d) a számvevő főigazgatónak, számvevő igazgatónak és a főtitkárnak 14 munkanap pótszabadság jár.
+21. § Az Állami Számvevőszék elnöke át nem ruházható hatáskörében a megállapított személyi juttatások előirányzatán belül, munkája értékelésétől függően a számvevő alapilletményét határozott időre legfeljebb 60%-kal megemelheti vagy legfeljebb 10%-kal csökkentett mértékben állapíthatja meg.
 
 ### Az Állami Számvevőszék személyi állományára vonatkozó egyéb rendelkezések
 
 21/A. § (1) Az Állami Számvevőszék vezetőinek és számvevőinek jogviszonyára az e törvényben nem szabályozott kérdésekben
 
-- a) a Kttv. rendelkezései közül a 6. § 2. pontját, 3. pontját, 7a–b. pontját, 8–12. pontját, 15a. és 16. pontját, 20a. pontját, 23. pontját, 25–26. pontját, 31a. pontját, 7. §-át, 9. § (2)–(3) bekezdését, 10. § (1) és (3)–(4) bekezdését, 11. § (1)–(4) bekezdését, 12–13. §-át, 14. § (2)–(3) bekezdését, 15–25. §-át, 39. § (1) bekezdés első mondatát, azzal az eltéréssel, hogy számvevői jogviszony csak felsőfokú végzettséggel rendelkező személlyel létesíthető és tartható fenn, 39. § (1) bekezdés a)–b) pontját, 42. § (1), (3) bekezdés, (4) bekezdés a)–b) pontját és (6)–(7) bekezdését, 43. § (4)–(6) bekezdését, 44. §-át, 46. §-át, 49–50. §-át, 51. § (2) és (6)–(7) bekezdését, 52. § (2)–(6) bekezdését, 54. § (1), (3) és (5)–(6) bekezdését azzal az eltéréssel, hogy csak külföldi kiküldetésre alkalmazható, 59. §-át, 60. § (1) bekezdés a)–c), e)–h) és j) pontját, valamint (2)–(3), (6), (7) és (10) bekezdését, 61. §-át, 63. §-át, 64. § (1)–(3) és (5) bekezdését, 64/A. §-át, 66–71. §-át, 74. §-át, 75. § (1) bekezdés a)–b) és d)–j) pontját, valamint (2)–(4) bekezdését, 76. §-át, 78–79. §-át, 80. § (1), (2b) és (3)–(5) bekezdését, 81–82. §-át, 83. § (1)–(2) bekezdését, 83/A. §-át, 84. § (1) bekezdését, 85. § (3) bekezdését és a (4) bekezdés a)–b) pontját, 89–100. §-át, 101. § (1)–(2) bekezdését, 102–107. §-át, 109–115. §-át, 130. § (1) bekezdését, 131. § (1) és (5) bekezdését, 143. §-át, 144. § (2)–(4) bekezdését, 145–149. §-át, 149/A. §-át, 150–153. §-át, 153/A. §-át, 154. §-át, 160–164. §-át, 166. §-át, 167. § (1)–(5) bekezdését, 168–175. §-át, 176. § (1)–(4) bekezdését, 177. §-át, 180. § (1) bekezdés a)–c), f)–g) és i)–j) pontját, valamint (2) bekezdését, 183/C. §-át, 184. §-át, 192. §-át, 193. § (1) bekezdés a), d) és e) pontját, valamint (2)–(6) bekezdését, 194. §-át, 195–202. §-át, 238. § (1)–(4) bekezdését, továbbá a 2. és az 5. mellékletét, és
+- a) a Kttv. rendelkezései közül a 6. § 2. pontját, 3. pontját, 7a–12. pontját, 15a. és 16. pontját, 20a. pontját, 23. pontját, 25. és 26. pontját, 31a. pontját, 7. §-át, 9. § (2) és (3) bekezdését, 10. § (1), (3) és (4) bekezdését, 11. § (1)–(4) bekezdését, 12. és 13. §-át, 14. § (2) és (3) bekezdését, 15–25. §-át, 39. § (1) bekezdés a) és b) pontját, c) pontját azzal az eltéréssel, hogy számvevői jogviszony csak felsőfokú végzettséggel rendelkező személlyel létesíthető és tartható fenn, 39. § (4)–(4b) bekezdését, 42. § (1), (3) bekezdését, (4) bekezdés a) és b) pontját, valamint (6) és (7) bekezdését, 43. § (4)–(6) bekezdését, 44. §-át, 46. §-át, 49. és 50. §-át, 51. § (2), (6) és (7) bekezdését, 54. § (1), (3), valamint (5) és (6) bekezdését azzal az eltéréssel, hogy csak külföldi kiküldetésre alkalmazható, 59. §-át, 60. § (1) bekezdés a)–c), e)–h) és j) pontját, valamint (2), (3), (6), (7) és (10) bekezdését, 61. §-át, 63. § (1) bekezdését, (2) bekezdés a)–c) és e)–i) pontját és (2a)–(7) bekezdését, 64. § (1)–(3) és (5) bekezdését, 64/A. §-át, 66–71. §-át, 74. §-át, 75. § (1) bekezdés a), b) és d)–j) pontját, valamint (2)–(4) bekezdését, 76. §-át, 78–79. §-át, 80. § (1), (2b) és (3)–(5) bekezdését, 81–82. §-át, 83. § (1) és (2) bekezdését, 83/A. §-át, 84. § (1) bekezdését, 85. § (3) bekezdését és a (4) bekezdés a) és b) pontját, 89–100. §-át, 101. § (1) és (2) bekezdését, 102–107. §-át, 109–115. §-át, 130. § (1) bekezdését, 131. § (1) és (5) bekezdését, 143. §-át, 144. § (2)–(4) bekezdését, 145–149. §-át, 149/A. §-át, 150–154. §-át, 160–164. §-át, 166. §-át, 167. § (1)–(5) bekezdését, 168–177. §-át, 179. § a)–h) pontját, 180. § (1) bekezdés a)–c), f), g), i) és j) pontját, valamint (2) bekezdését, 183/C. §-át, 184. §-át, 192. §-át, 193. § (1) bekezdés a), d) és e) pontját, valamint (2)–(6) bekezdését, 194. §-át, 195–202. §-át, 238. § (1)–(4) bekezdését, továbbá a 2. és az 5. mellékletét kell alkalmazni azzal, hogy ahol a Kttv. kinevezési okmányról rendelkezik, azon a számvevői közszolgálati szerződést kell érteni, és
 - b) az Mt. rendelkezései közül a 20. § (2)–(3) bekezdését, 78. § (1)–(2) bekezdését, 79. §-át, 177. §-át
 
 kell megfelelően alkalmazni.
@@ -382,6 +343,10 @@ kell megfelelően alkalmazni.
 - c) a tudomására jutott adatokról, tényekről a 27. § (7) bekezdésének megfelelően az eljárásra, intézkedésre jogosult illetékes állami szervet értesíti,
 - d) a tudomására jutott adatokat, tényeket a folyamatban lévő ellenőrzései keretében vagy ellenőrzéseinek tervezése során hasznosítja.
 
+### Az ellenőrizhetőség elévülése
+
+23/A. § Azon szervezet esetében, ahol az ellenőrzés lefolytatásának jogalapját a kapott támogatás képezi, az Állami Számvevőszék a támogatás felhasználásának naptári évét követő öt évig folytathat ellenőrzést. Támogatásnak az államháztartásról szóló 2011. évi CXCV. törvény 1. § 19. pontjában meghatározott támogatás minősül.
+
 ### Az ellenőrzéssel szemben támasztott követelmények
 
 24. § (1) Az ellenőrzésekkel szemben támasztott követelmények:
@@ -394,13 +359,15 @@ kell megfelelően alkalmazni.
 
 (2) Az ellenőrzéssel szemben támasztott követelmények megvalósulása érdekében az Állami Számvevőszék minőségbiztosítást működtet.
 
+(3) Az ellenőrzés az erről szóló értesítés kézbesítésével, ennek mellőzése esetén a megbízólevél kézbesítésével vagy egy példányának átadásával kezdődik. Az értesítés mellőzhető, ha az ellenőrzés eredményes lefolytatását veszélyeztetné.
+
 ### Az ellenőrzést végző számvevő jogai és kötelezettségei
 
 25. § (1) A számvevő az ellenőrzési feladatának megfelelően ellenőrzést végez. Amennyiben a helyszínen történő ellenőrzésre is sor kerül, a számvevő köteles az ellenőrzés megkezdésekor az ellenőrzött szerv vezetőjének a megbízólevelét bemutatni, és személyazonosságát hitelt érdemlően igazolni.
 
 (2) A számvevő az ellenőrzési feladatait a jogszabályok, az ellenőrzési szakmai szabályok, módszerek és az etikai normák szerint végzi.
 
-(3) Amennyiben a rendelkezésre bocsátott dokumentumok, adatok, illetve tájékoztatás hitelességének, megalapozottságának, teljességének megállapítása vagy egyes ellenőrzési megállapítások alátámasztása, kiegészítése indokolja, a számvevő jogosult az összefüggő tények vizsgálata céljából más szervezettől (a továbbiakban: ellenőrzést támogató szervezet) adatot, dokumentációt, tájékoztatást kérni, illetve az érintett szervezetnél is ellenőrzést végezni. Az ellenőrzést támogató szervezet a megkeresésben foglaltak teljesítését csak akkor tagadhatja meg, ha az jogszabályba ütközik. Az ellenőrzést támogató szervezet a megkeresést annak megérkezésétől számított 8 napon belül köteles teljesíteni vagy a megkeresés teljesítésének jogszabályi akadályát a számvevővel közölni.
+(3) Amennyiben a rendelkezésre bocsátott dokumentumok, adatok, illetve tájékoztatás hitelességének, megalapozottságának, teljességének megállapítása vagy egyes ellenőrzési megállapítások alátámasztása, kiegészítése indokolja, a számvevő jogosult az összefüggő tények vizsgálata céljából más szervezettől (a továbbiakban: ellenőrzést támogató szervezet) adatot, dokumentációt, tájékoztatást kérni, illetve az érintett szervezetnél is ellenőrzést végezni. Az ellenőrzést támogató szervezet a megkeresésben foglaltak teljesítését csak akkor tagadhatja meg, ha az jogszabályba ütközik. Az ellenőrzést támogató szervezet a megkeresést annak megérkezésétől számított 8 napon belül köteles teljesíteni vagy a megkeresés teljesítésének jogszabályi akadályát az Állami Számvevőszékkel közölni.
 
 (4) Az Állami Számvevőszék megbízásából ellenőrzést végző személy felelős
 
@@ -426,7 +393,7 @@ kell megfelelően alkalmazni.
 
 (2) Az ellenőrzést végző személy az ellenőrzés végrehajtásáért felelős vezetőjének köteles bejelenteni, ha vele szemben összeférhetetlenségi ok áll fenn. Összeférhetetlenségi okot bárki bejelenthet. Az összeférhetetlenség kérdésében az ellenőrzés végrehajtásáért felelős vezető a bejelentést követően nyolc napon belül dönt.
 
-### Adatbetekintés, adatkezelés
+### Adatbetekintés, adatkezelés és adatok célhoz kötött felhasználása
 
 27. § (1) Az ellenőrzést végző számvevő az ellenőrzés során a dokumentumokba és az informatikai eszközökkel kezelt adatnyilvántartó rendszerek adatállományába akkor is betekinthet, illetve azokról másolatot, kivonatot készíthet, ha azok minősített adatot vagy törvény által védett egyéb titkot tartalmaznak. Az eredeti iratokat, valamint az adatnyilvántartó rendszerek adatállományait eredeti adathordozón – másolat készítése és átvételi elismervény átadása mellett – azonban csak akkor viheti el, ha büntető- vagy fegyelmi eljárás kezdeményezése indokolt, és az irat vagy adat megváltoztatásától, illetve megsemmisítésétől kell tartani.
 
@@ -436,7 +403,7 @@ kell megfelelően alkalmazni.
 
 (4) Az ellenőrzéssel érintett adatnyilvántartó rendszerben szereplő olyan személyek személyes adatai nem vehetők át, akik az ellenőrzött tevékenységgel nem érintettek és személyes adatuk az ellenőrzés lefolytatásához nem szükséges.
 
-(5) Az ellenőrzés során az ellenőrzött szervezetről vagy annak dolgozójáról, tisztségviselőjéről megszerzett információk a jelentés, az e törvény 5. § (13) bekezdése szerinti elemzés és tanulmány készítésén kívül nem használhatók fel más célra. A számvevő a tudomására jutott minősített adatot vagy egyéb, törvény által védett titkot köteles megőrizni, azt külön felhatalmazás nélkül harmadik személynek nem adhatja át, és feladatkörén kívül nem használhatja fel.
+(5) Az ellenőrzés során az ellenőrzött szervezetről vagy annak dolgozójáról, tisztségviselőjéről megszerzett adatok, információk a jelentés, az 5. § (13) bekezdése szerinti elemzés és tanulmány, valamint a nemzeti adatvagyonról szóló 2021. évi XCI. törvény (a továbbiakban: Natv.) 4. § (1) bekezdés b) pontja szerinti adatelemzés készítésén kívül nem használhatók fel más célra. Az e bekezdés szerinti célhoz kötött felhasználású adatok a Natv. szerinti tájékoztatási szolgáltatásra irányuló igények alapján a Nemzeti Adatvagyon Ügynökség részére adatelemzés készítésére újrahasznosítás céljából – a Natv. 7. § (5) bekezdés a) és c) pontja szerinti kizáró okok hiányában – akkor bocsáthatóak rendelkezésre, ha az adatok megismerése az ellenőrzések célját hátrányosan nem befolyásolja és az Állami Számvevőszék intézményi függetlenségét nem sérti vagy veszélyezteti. Az Állami Számvevőszék személyi állományába tartozó személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – az e jogviszony fennállása alatt, valamint annak megszűnését követően is az Állami Számvevőszék tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, egyéb, törvény által védett titkot kötelesek megőrizni, azt külön felhatalmazás nélkül harmadik személynek nem adhatják át, és feladatkörükön kívül nem használhatják fel.
 
 (6) Az Állami Számvevőszék a hozzá érkezett közérdekű bejelentéseket, a jogszabályi kötelezettség alapján részére megküldött tájékoztatókat, illetve egyéb dokumentumokat, valamint a bennük szereplő, különleges adatnak nem minősülő személyes adatokat, valamint egészségügyi adatokat és bűnügyi személyes adatokat kezelheti.
 
@@ -446,15 +413,23 @@ kell megfelelően alkalmazni.
 
 ### Közreműködési kötelezettség
 
-28. § (1) Az Állami Számvevőszék ellenőrzéseinek lefolytatása, illetve az ellenőrzések megtervezése érdekében az ellenőrzött, illetve törvény alapján ellenőrizhető szervezet (a továbbiakban együtt: ellenőrzött szervezet) és annak munkavállalója közreműködésre köteles. Az ellenőrzött szervezet és annak munkavállalója közreműködési kötelezettsége a (2) és (3) bekezdés, valamint a 33. § (1) és (6) bekezdése szerinti kötelezettségeket foglalja magában.
+28. § (1) Az Állami Számvevőszék ellenőrzéseinek lefolytatása, illetve az ellenőrzések megtervezése érdekében az ellenőrzött, illetve törvény alapján ellenőrizhető szervezet (a továbbiakban együtt: ellenőrzött szervezet) és annak munkavállalója közreműködésre köteles. Az ellenőrzött szervezet és annak munkavállalója közreműködési kötelezettsége a (2), (3) és (7) bekezdés, a 31. §, valamint a 33. § (1) bekezdése szerinti kötelezettségeket foglalja magában.
 
-(2) A közreműködésre felhívott szervezet az Állami Számvevőszék részére – annak kérésére soron kívül, de legkésőbb öt munkanapon belül – az ellenőrzés tervezhetősége, meghatározása, illetve lefolytatása érdekében szükséges adatokat és dokumentumokat rendelkezésre bocsátja, illetve a kapcsolódó tájékoztatást köteles megadni.
+(2) A közreműködésre felhívott szervezet az Állami Számvevőszék által meghatározott – legalább 5 munkanapos – adatszolgáltatási határidőn belül az ellenőrzés tervezhetősége, meghatározása, illetve lefolytatása érdekében szükséges adatokat és dokumentumokat köteles rendelkezésre bocsátani, illetve a kapcsolódó tájékoztatást megadni.
+
+(2a) Az adatszolgáltatás teljesítésének biztosítása érdekében a közreműködésre felhívott szervezetet az Állami Számvevőszék hiánypótlásra hívhatja fel. Indokolt esetben az Állami Számvevőszék soron kívüli adatszolgáltatást kérhet a közreműködésre felhívott szervezettől.
 
 (3) A helyszíni ellenőrzés során az ellenőrzött szervezet, illetve munkatársai kötelesek a számvevő részére a szervezet helyiségeibe való belépést, valamint a papír alapú és informatikai eszközökkel kezelt adatnyilvántartó rendszerekbe való betekintést biztosítani, az azokról való másolat- és kivonatkészítést lehetővé tenni, valamint a kért felvilágosítást, illetve tájékoztatást megadni.
 
 (4) Az Állami Számvevőszék és a közreműködésre kötelezett, valamint az ellenőrzést támogató szervezet közötti kapcsolat elsődlegesen elektronikus úton tartható fenn. Az Állami Számvevőszék az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat vehet igénybe.
 
 (5) Amennyiben a közreműködésre kötelezett szervezet vagy ennek munkatársa a közreműködéssel kapcsolatos kötelezettségét megalapozott indok nélkül nem vagy késedelmesen teljesíti, az Állami Számvevőszék az intézkedési kötelezettség nem megfelelő teljesítése esetére irányadó szabályok [33. § (3) bekezdés] szerint jár el.
+
+(6) Az (1) és (2) bekezdésben foglalt közreműködési kötelezettségre vonatkozó rendelkezéseket kell alkalmazni az Állami Számvevőszék 5. § (13) bekezdése szerinti elemzési tevékenységének előkészítése, illetve lefolytatása érdekében megkeresett szervezetekre és azok munkavállalóira, valamint az ennek során beszerzett, rendelkezésre bocsátott adatokra, azzal, hogy az elemzési tevékenység kapcsán a (3) bekezdés, valamint 31. §, 31/A. § és a 33. § szerinti intézkedések nem alkalmazhatóak.
+
+(7) Az Állami Számvevőszék hatáskörei gyakorlásával összefüggésben az ellenőrzéseinek megtervezése, előkészítése, illetve lefolytatása érdekében a 27. §-ban foglaltak figyelembevételével közvetlen adathozzáférésre és adatfelhasználásra jogosult az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott közérdekű adatokat és közérdekből nyilvános adatokat (a továbbiakban együtt: közadatok) tartalmazó állami és önkormányzati nyilvántartásokhoz és adatbázisokhoz. A közadatokat tartalmazó nyilvántartást, adatbázist vezető közfeladatot ellátó szerv (a továbbiakban: adathozzáférésre felhívott szervezet) az Állami Számvevőszék felhívását követően köteles a felhívás szerinti közvetlen adathozzáférést díjmentesen biztosítani. A közvetlen adathozzáférés minősített adatokat tartalmazó adatokhoz való adathozzáférést nem eredményezhet. Amennyiben a közvetlen adathozzáférés biztosítása közérdekből egyébként nem nyilvános személyes adatokhoz, vagy egyéb, törvény által védett titkot tartalmazó adatokhoz való adathozzáférést is eredményezne, úgy az Állami Számvevőszék az adathozzáférés biztosítása érdekében az adathozzáférésre felhívott szervezettel és egyéb szervezetekkel megállapodást köthet (a továbbiakban: adathozzáférési megállapodás), amelyben a felek a 27. §-ban foglalt követelményektől való eltérés nélkül rendelkeznek az adatvédelmi követelmények biztosításának részletes szabályairól, az adathozzáférés feltételeiről. Az adathozzáférési megállapodást a felek a honlapjukon nyilvánosságra hozzák.
+
+(8) A (7) bekezdés alkalmazásában adathozzáférésnek minősül a közvetlen adatátvételt biztosító elektronikus információs rendszeren keresztüli hozzáférés biztosítása, valamint a közvetlen adatátvételt biztosító elektronikus információs rendszeren keresztüli hozzáférés biztosítása nélkül az adatok felhívásnak megfelelő rendelkezésre bocsátása.
 
 ### Észrevételezési jog
 
@@ -470,14 +445,18 @@ kell megfelelően alkalmazni.
 
 (2) Az Állami Számvevőszék megbízásából ellenőrzést végző személynek kötelessége, hogy az ellenőrzés során az általa felelősként megjelölt személlyel a megállapításait írásban ismertesse, és tőle írásbeli magyarázatot kérjen. A felelősként megjelölt személy az írásbeli magyarázatot tizenöt napon belül köteles megadni; annak elfogadásáról, vagy elutasításáról az ellenőrzést végzőnek harminc napon belül írásban kell nyilatkoznia.
 
-### Vagyonmegóvási intézkedések
+### A figyelemfelhívó levél és a vagyonmegóvási intézkedések
 
-31. § (1) Amennyiben az ellenőrzés rendeltetésellenes vagy pazarló felhasználást, illetve ennek veszélyét tárja fel, vagy az ellenőrzött szervezet által a pénzeszközök kezelésére vonatkozó szabályok súlyos megsértésével történő károkozást, illetve ennek veszélyét állapítja meg, a kár megelőzése, illetve enyhítése érdekében az Állami Számvevőszék elnöke az illetékes hatósághoz, illetve szervezethez (a továbbiakban együtt: hatóság) fordulhat
+31. § Az Állami Számvevőszék elnöke az ellenőrzés során feltárt jogszabálysértő gyakorlat, illetve a vagyon rendeltetésellenes vagy pazarló felhasználásának megszüntetése érdekében – ha jogszabály súlyosabb jogkövetkezmény alkalmazását nem írja elő – figyelemfelhívó levéllel fordulhat az ellenőrzött szerv vezetőjéhez. A szerv vezetője a figyelemfelhívó levélben foglaltakat tizenöt napon belül – testületi szerv a soron következő ülésén – köteles elbírálni, a megfelelő intézkedést megtenni és erről az Állami Számvevőszék elnökét értesíteni.
+
+31/A. § (1) Amennyiben az ellenőrzés rendeltetésellenes vagy pazarló felhasználást, illetve ennek veszélyét tárja fel, vagy az ellenőrzött szervezet által a pénzeszközök kezelésére vonatkozó szabályok súlyos megsértésével történő károkozást, illetve ennek veszélyét állapítja meg, a kár megelőzése, illetve enyhítése érdekében az Állami Számvevőszék elnöke az illetékes hatósághoz, illetve szervezethez (a továbbiakban együtt: hatóság) fordulhat
 
 - a) a munkabérek folyósításának kivételével az előirányzat-felhasználási keret zárolása,
 - b) az államháztartás valamelyik alrendszeréből nyújtott támogatások folyósításának felfüggesztése,
-- c) a személyi jövedelemadó 1%-ából történő felajánlásokból való részesedés lehetőségének felfüggesztése,
-- d) bűncselekmény elkövetésének gyanúja esetén az ellenőrzött szervezet tulajdonában vagy kezelésében lévő, az államháztartási vagyon körébe tartozó vagyonelem tekintetében zár alá vétel elrendelése érdekében.
+- c) a személyi jövedelemadó 1%-ából történő felajánlásokból való részesedés lehetőségének felfüggesztése, valamint
+- d) bűncselekmény elkövetésének gyanúja esetén az ellenőrzött szervezet tulajdonában vagy kezelésében lévő, az államháztartási vagyon körébe tartozó vagyonelem tekintetében zár alá vétel elrendelése
+
+érdekében.
 
 (2) Az (1) bekezdésben meghatározott esetekben a megkeresett hatóság köteles a szükséges intézkedéseket megtenni, és erről az Állami Számvevőszék elnökét tizenöt napon belül írásban értesíteni.
 
@@ -493,9 +472,9 @@ kell megfelelően alkalmazni.
 
 (4) A vizsgált magánszemély vagy a jogi személy vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata – különleges adat kivételével – közérdekből nyilvános adat, és a jelentésben nyilvánosságra hozható, vagy egyéb módon hozzáférhetővé tehető.
 
-(5) Az Állami Számvevőszék a jelentéstervezetet záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
+(5) Az Állami Számvevőszék a feltárt tényeket, az ezeken alapuló megállapításokat, következtetéseket záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
 
-(6) A polgármester, illetve a megyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.
+(6) A polgármester, illetve a vármegyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.
 
 ### Az ellenőrzött szervezet intézkedési kötelezettsége
 
@@ -512,11 +491,23 @@ kell megfelelően alkalmazni.
 
 (5) Ha az ellenőrzött szervezet vezetője intézkedési kötelezettségét utóbb teljesítette, az Állami Számvevőszék a (3) bekezdése b) pontja szerinti hatóságot értesíti, és kezdeményezi a támogatás, juttatás, részesedés felfüggesztésének megszüntetését.
 
-(6) Az Állami Számvevőszék elnöke az ellenőrzés során feltárt jogszabálysértő gyakorlat, illetve a vagyon rendeltetésellenes vagy pazarló felhasználásának megszüntetése érdekében – ha jogszabály súlyosabb jogkövetkezmény alkalmazását nem írja elő – figyelemfelhívó levéllel fordulhat az ellenőrzött szerv vezetőjéhez. A szerv vezetője a figyelemfelhívó levélben foglaltakat tizenöt napon belül – testületi szerv a soron következő ülésén – köteles elbírálni, a megfelelő intézkedést megtenni és erről az Állami Számvevőszék elnökét értesíteni.
+(6)
 
 (7) Az intézkedési tervben foglaltak megvalósítását az Állami Számvevőszék utóellenőrzés keretében ellenőrizheti.
 
 (8) Ha a (3) bekezdésben felsorolt intézkedések nem vezetnek eredményre, ilyen intézkedések megtétele nem lehetséges, vagy az adott ügy jellege, illetve súlya egyébként indokolja, az Állami Számvevőszék elnöke kezdeményezheti, hogy az Országgyűlés illetékes bizottsága tárgyalja meg a jelentést és annak megállapításait, valamint hallgassa meg az ellenőrzött szervezet vezetőjét.
+
+### Tanácsadói vélemény
+
+33/A. § (1) Az Állami Számvevőszék fenntartói, irányító szervi, tulajdonosi vagy alapítói kérelemre, a megjelölt kérdéskörben tanácsadói ellenőrzést végezhet.
+
+(2) Az (1) bekezdésben foglalt ellenőrzés eredményéről az Állami Számvevőszék tanácsadói véleményt készíthet, amelyet az ellenőrzött szerv vezetője részére küld meg.
+
+### Az Állami Számvevőszék elnökének ajánlásai
+
+33/B. § (1) Az elnök az Állami Számvevőszék feladat- és hatáskörét érintő azonos vagy hasonló tárgyú megkeresések esetén az önkéntes jogkövetés előmozdítása érdekében egységes jogalkalmazást elősegítő, kötelező érvénnyel és jogi kötőerővel nem rendelkező ajánlást adhat ki.
+
+(2) Az Állami Számvevőszék elnöke által az (1) bekezdésben foglaltak alapján kiadott ajánlást közölni kell a megkeresés kezdeményezőjével. Az ajánlást az Állami Számvevőszék honlapján közzé kell tenni.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -532,13 +523,13 @@ kell megfelelően alkalmazni.
 
 ### Átmeneti rendelkezések
 
-35. § (1) E törvény hatálybalépését követő hatvan napon belül az Állami Számvevőszék számvevőit és számvevő-vezetőit az e törvény 16. § (1) és 17. § (1) bekezdése szerint meghatározott számvevői, illetve számvevő-vezetői kategóriák szerint kell besorolni. Az új besorolás alapján az alapilletmény az előző pótlékok nélkül számított illetmény összegénél kevesebb nem lehet.
+35. § (1)
 
-(2) Az e törvény 21. §-a szerint megállapított illetményt 2013. január 1. napjáig kell elérni, addig a számvevő és a számvevő-vezető illetménye az új besorolás szerinti illetménynél kevesebb is lehet.
+(2)
 
-(3) Az Állami Számvevőszék a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 32/C. § (3) bekezdése és az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 8. §-a alapján megválasztott elnökének és alelnökeinek megbízatását, jogállását, egyéb juttatásait e törvény hatálybalépése nem érinti.
+(3)
 
-(4) Az Állami Számvevőszék a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 32/C. § (3) bekezdése és az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 8. §-a alapján megválasztott és 2012. január 1-jén hivatalban lévő alelnökének megbízatását a 14. § nem érinti, rá megbízatásának megszűnéséig e törvény 10–12. §-ának szabályait kell alkalmazni, azzal, hogy azok alkalmazásában az Állami Számvevőszék elnökén az Állami Számvevőszék alelnökét kell érteni.
+(4)
 
 (5) 2019. május 1-jén annak a személynek, akinek 2019. április 30-án az Állami Számvevőszékkel köztisztviselői, közszolgálati ügykezelői jogviszonya áll fenn, e jogviszonya munkaviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős munkaviszonnyá, részmunkaidőben történő foglalkoztatás esetén részmunkaidős munkaviszonnyá alakul át. A 2019. április 30-án az Állami Számvevőszékkel fennállt köztisztviselői, közszolgálati ügykezelői jogviszonyban kikötött próbaidő mértéke a jogviszony munkaviszonnyá alakulását követően változatlan marad azzal, hogy a próbaidő leteltének időpontja legfeljebb 2019. augusztus 31. napja.
 
@@ -565,6 +556,12 @@ kell megfelelően alkalmazni.
 35/B. § (1) Az Állami Számvevőszék elnöke és alelnöke az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házastársának, élettársának, továbbá gyermekének vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+35/C. § (1) A számvevői közszolgálati szerződést – a 15. § (1b) és (1c) bekezdése szerinti tartalommal – 2023. január 15-ig kell megkötni.
+
+(2) Ha a számvevői közszolgálati szerződés az (1) bekezdés szerinti határidőben a számvevőnek felróható okból nem kerül megkötésre, a számvevő jogviszonya a Kttv. 72. § (3) bekezdésében foglaltaknak megfelelően szűnik meg.
+
+(3) A számvevő illetménye nem lehet kevesebb annál, mint amekkora összegre illetményként a kinevezési okirat alapján 2022. december 31. napján jogosult volt.
 
 ### Módosító rendelkezések
 

@@ -224,7 +224,7 @@ közötti napra.
 
 - a) a szavazatszámláló bizottságnak és a helyi választási bizottságnak csak a településen, közös önkormányzati hivatalhoz tartozó település választási bizottsága esetében a közös hivatalhoz tartozó bármely településen,
 - b) az országgyűlési egyéni választókerületi választási bizottságnak csak az országgyűlési egyéni választókerületben,
-- c) a területi választási bizottságnak csak a megyében, illetve fővárosban,
+- c) a területi választási bizottságnak csak a vármegyében, illetve fővárosban,
 - d) a Nemzeti Választási Bizottságnak csak magyarországi
 
 lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár lehet tagja.
@@ -282,7 +282,7 @@ lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár 
 
 (3) Ha az első szavazás eredménytelen, második szavazást kell tartani. Ha a második szavazás is eredménytelen, a Nemzeti Választási Bizottság tagjainak és póttagjainak megválasztásához a jelen lévő országgyűlési képviselők több mint felének szavazata szükséges. A második és további szavazásra a köztársasági elnök új jelölteket javasolhat.
 
-21. § A területi választási bizottság három tagját és legalább két póttagot a fővárosi, megyei közgyűlés a helyi önkormányzati képviselők és polgármesterek általános választásának évét megelőző évben, október 1. és november 30. között választja meg; személyükre a területi választási iroda vezetője tesz indítványt.
+21. § A területi választási bizottság három tagját és legalább két póttagot a fővárosi, vármegyei közgyűlés a helyi önkormányzati képviselők és polgármesterek általános választásának évét megelőző évben, október 1. és november 30. között választja meg; személyükre a területi választási iroda vezetője tesz indítványt.
 
 22. § Az országgyűlési egyéni választókerületi választási bizottság három tagját és legalább két póttagot az országgyűlési egyéni választókerület székhelye szerinti település képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti negyvenkettedik napon választja meg; személyükre az országgyűlési egyéni választókerületi választási iroda vezetője tesz indítványt.
 
@@ -334,7 +334,7 @@ a köztársasági elnök, illetve a választási iroda vezetője az indítványt
 
 - a) az országgyűlési képviselők választásának kitűzését követően az országos listát állító jelölő szervezetek,
 - b) az Európai Parlament tagjai választásának kitűzését követően a listát állító jelölő szervezetek,
-- c) a helyi önkormányzati képviselők és polgármesterek választásának kitűzését követően a megyei listát, fővárosi kompenzációs listát vagy főpolgármester-jelöltet állító jelölő szervezetek, valamint a független főpolgármester-jelöltek
+- c) a helyi önkormányzati képviselők és polgármesterek választásának kitűzését követően a vármegyei listát, fővárosi kompenzációs listát vagy főpolgármester-jelöltet állító jelölő szervezetek, valamint a független főpolgármester-jelöltek
 
 bízzák meg.
 
@@ -424,13 +424,13 @@ címzett, a választási iroda vezetőjéhez benyújtott írásbeli nyilatkozatt
 
 35. § (1) Ha a választási bizottság választott tagjának megbízatása a 34. § (1) bekezdés a)–c) és f) pontja szerinti okból megszűnt, helyébe a póttagok megválasztására irányuló indítványban a soron következő póttag lép.
 
-(2) Póttag hiányában a települési önkormányzat képviselő-testülete vagy a fővárosi, megyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új tagot és póttagokat választ.
+(2) Póttag hiányában a települési önkormányzat képviselő-testülete vagy a fővárosi, vármegyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új tagot és póttagokat választ.
 
 (3) Ha nem került sor a választási bizottság új tagjának, póttagjának megválasztására, a 26. § szerint kell eljárni. Ha a 26. § a) pontja szerinti esetben az országgyűlési egyéni választókerületi választási bizottság nem működik, helyette a helyi választási bizottság, ha a 26. § b) pontja szerinti esetben a területi választási bizottság nem működik, helyette a Nemzeti Választási Bizottság jár el.
 
 36. § (1) Ha a választási bizottság megbízott tagjának megbízatása a 34. § (1) bekezdés a)–d) és f) pontjában meghatározott okból megszűnt, helyébe a megbízó új tagot bízhat meg.
 
-(2) Ha a póttag megbízatása megszűnik, a települési önkormányzat képviselő-testülete vagy a fővárosi, megyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új póttagot választhat.
+(2) Ha a póttag megbízatása megszűnik, a települési önkormányzat képviselő-testülete vagy a fővárosi, vármegyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új póttagot választhat.
 
 #### 16. Eskü- vagy fogadalomtétel
 
@@ -438,11 +438,11 @@ címzett, a választási iroda vezetőjéhez benyújtott írásbeli nyilatkozatt
 
 (2) A választási bizottság 245. § (4) bekezdése szerint megbízott tagja legkésőbb a szavazást megelőző napon tesz esküt vagy fogadalmat.
 
-(3) A Nemzeti Választási Bizottság választott tagja és póttagja az Országgyűlés előtt, a Nemzeti Választási Bizottság megbízott tagja az Országgyűlés elnöke előtt, a területi választási bizottság tagja és póttagja a főpolgármester, megyei közgyűlés elnöke előtt, a szavazatszámláló bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság tagja és póttagja a polgármester előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel tesz esküt vagy fogadalmat.
+(3) A Nemzeti Választási Bizottság választott tagja és póttagja az Országgyűlés előtt, a Nemzeti Választási Bizottság megbízott tagja az Országgyűlés elnöke előtt, a területi választási bizottság tagja és póttagja a főpolgármester, vármegyei közgyűlés elnöke előtt, a szavazatszámláló bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság tagja és póttagja a polgármester előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel tesz esküt vagy fogadalmat.
 
-(4) Ha az eskü vagy fogadalom letételére az (1) bekezdésben foglalt határidőig nem kerül sor, az Országgyűlés helyett az Országgyűlés elnöke előtt, a polgármester helyett a főpolgármester, illetve a megyei közgyűlés elnöke előtt, a főpolgármester, illetve a megyei közgyűlés elnöke helyett a Nemzeti Választási Bizottság elnöke előtt kell esküt vagy fogadalmat tenni. A (3) bekezdés szerinti jogosult az (1) bekezdésben foglalt határidőt követően is kiveheti az esküt vagy a fogadalmat.
+(4) Ha az eskü vagy fogadalom letételére az (1) bekezdésben foglalt határidőig nem kerül sor, az Országgyűlés helyett az Országgyűlés elnöke előtt, a polgármester helyett a főpolgármester, illetve a vármegyei közgyűlés elnöke előtt, a főpolgármester, illetve a vármegyei közgyűlés elnöke helyett a Nemzeti Választási Bizottság elnöke előtt kell esküt vagy fogadalmat tenni. A (3) bekezdés szerinti jogosult az (1) bekezdésben foglalt határidőt követően is kiveheti az esküt vagy a fogadalmat.
 
-(5) Ha az eskü vagy fogadalom kivételében a polgármester, a főpolgármester, a megyei közgyűlés elnöke vagy az Országgyűlés elnöke akadályoztatva van, az esküt vagy a fogadalmat a képviselő-testület tagjai közül választott alpolgármester, főpolgármester-helyettes, a megyei közgyűlés tagjai közül választott alelnök, illetve az Országgyűlés alelnöke is kiveheti.
+(5) Ha az eskü vagy fogadalom kivételében a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke vagy az Országgyűlés elnöke akadályoztatva van, az esküt vagy a fogadalmat a képviselő-testület tagjai közül választott alpolgármester, főpolgármester-helyettes, a vármegyei közgyűlés tagjai közül választott alelnök, illetve az Országgyűlés alelnöke is kiveheti.
 
 (6) A választási bizottság tagja az eskü- vagy fogadalomtételt követően gyakorolhatja jogait.
 
@@ -734,7 +734,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 #### 32. Az egyéb választási irodákra vonatkozó rendelkezések
 
-66. § (1) A területi választási iroda vezetője a megyei önkormányzat jegyzője, illetve a fővárosi önkormányzat főjegyzője.
+66. § (1) A területi választási iroda vezetője a vármegyei önkormányzat jegyzője, illetve a fővárosi önkormányzat főjegyzője.
 
 (2) Az országgyűlési egyéni választókerületi választási iroda vezetője az országgyűlési egyéni választókerület székhely településének jegyzője.
 
@@ -806,7 +806,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 - i) a technikai háttér biztosításával segítséget nyújtanak a szavazatok összesítéséhez, a választás eredményének megállapításához,
 - j) ellátják a jogszabályokban meghatározott egyéb feladatokat.
 
-(2) A fővárosi és megyei kormányhivatal a miniszter rendeletében meghatározottak szerint közreműködik a választásokkal összefüggő informatikai feladatok ellátásában.
+(2) A fővárosi és vármegyei kormányhivatal a miniszter rendeletében meghatározottak szerint közreműködik a választásokkal összefüggő informatikai feladatok ellátásában.
 
 #### 34. A Nemzeti Választási Iroda további feladatai
 
@@ -2641,7 +2641,7 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 #### 133. A választás kitűzése
 
-302. § A települési önkormányzati képviselők és a polgármester időközi választását a helyi választási bizottság, a megyei, illetve a fővárosi közgyűlés és a főpolgármester időközi választását a területi választási bizottság tűzi ki.
+302. § A települési önkormányzati képviselők és a polgármester időközi választását a helyi választási bizottság, a vármegyei, illetve a fővárosi közgyűlés és a főpolgármester időközi választását a területi választási bizottság tűzi ki.
 
 #### 134. A választási eljárás költségei
 
@@ -2662,7 +2662,7 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 #### 137. A mandátumok számának megállapítása
 
-306. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az általános választást megelőző évben október 15-ig átadja a települések, a megyék, illetve a főváros lakosságszámának szeptember 1-jei adatait a Nemzeti Választási Iroda számára. A Nemzeti Választási Iroda a lakosságszámot három napon belül közli a helyi, illetve a területi választási iroda vezetőjével.
+306. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az általános választást megelőző évben október 15-ig átadja a települések, a vármegyék, illetve a főváros lakosságszámának szeptember 1-jei adatait a Nemzeti Választási Iroda számára. A Nemzeti Választási Iroda a lakosságszámot három napon belül közli a helyi, illetve a területi választási iroda vezetőjével.
 
 (2) A helyi választási iroda, illetve a területi választási iroda vezetője az általános választást megelőző évben október 31-ig határozatban állapítja meg a képviselő-testület, illetve a közgyűlés megválasztandó tagjainak számát.
 
@@ -2729,7 +2729,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 #### 138/D. A jelölt- és listaállításhoz szükséges ajánlások számának megállapítása
 
-307/E. § (1) Az egyéni listás és az egyéni választókerületi jelölt, valamint a polgármesterjelölt állításához szükséges ajánlások számát a helyi választási iroda vezetője, a főpolgármester-jelölt, valamint a megyei lista állításához szükséges ajánlások számát a területi választási iroda vezetője állapítja meg szavazást megelőző hatvanhatodik napon.
+307/E. § (1) Az egyéni listás és az egyéni választókerületi jelölt, valamint a polgármesterjelölt állításához szükséges ajánlások számát a helyi választási iroda vezetője, a főpolgármester-jelölt, valamint a vármegyei lista állításához szükséges ajánlások számát a területi választási iroda vezetője állapítja meg szavazást megelőző hatvanhatodik napon.
 
 (2) A szükséges ajánlások számának megállapításakor a választópolgárok számát a központi névjegyzéknek a szavazást megelőző hatvanhetedik napi adatai alapján kell megállapítani.
 
@@ -2746,7 +2746,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 (3) A nemzetiségi jelöltként indulni szándékozó választópolgár ajánlóívén fel kell tüntetni, hogy melyik nemzetiség képviseletét vállalja.
 
-(4) A megyei lista ajánlására a 120. § (1) és (2) bekezdése, valamint a 121–127. § rendelkezéseit is alkalmazni kell.
+(4) A vármegyei lista ajánlására a 120. § (1) és (2) bekezdése, valamint a 121–127. § rendelkezéseit is alkalmazni kell.
 
 #### 138/F. A jelölt bejelentése
 
@@ -2760,9 +2760,9 @@ visszavonhatja átjelentkezési kérelmét.
 
 #### 138/G. A lista bejelentése
 
-307/I. § (1) A kompenzációs listát, a fővárosi kompenzációs listát és a megyei listát legkésőbb a szavazást megelőző harmincharmadik napon kell bejelenteni.
+307/I. § (1) A kompenzációs listát, a fővárosi kompenzációs listát és a vármegyei listát legkésőbb a szavazást megelőző harmincharmadik napon kell bejelenteni.
 
-(2) A kompenzációs listát a helyi választási bizottság, a megyei listát, illetve a fővárosi kompenzációs listát a területi választási bizottság veszi nyilvántartásba.
+(2) A kompenzációs listát a helyi választási bizottság, a vármegyei listát, illetve a fővárosi kompenzációs listát a területi választási bizottság veszi nyilvántartásba.
 
 (3) A listán állított jelölt bejelentésének tartalmaznia kell a 120. § (3) bekezdés a) és b) pontja szerinti adatokat és nyilatkozatokat. A 307/F. § (1) és (2) bekezdésének, valamint a 307/H. § rendelkezéseit a listán állított jelöltekre is alkalmazni kell.
 
@@ -2778,7 +2778,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 #### 138/H. A szavazólap adattartalma
 
-307/L. § (1) Külön szavazólap szolgál az egyéni listás, az egyéni választókerületi, a polgármester-, a megyei listás és a főpolgármester-választásra.
+307/L. § (1) Külön szavazólap szolgál az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei listás és a főpolgármester-választásra.
 
 (2) A nemzetiségi jelölt esetében az egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapján fel kell tüntetni a nemzetiség megnevezését is.
 
@@ -2786,7 +2786,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 #### 138/I. A szavazatszámlálás
 
-307/M. § A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni listás, az egyéni választókerületi, a polgármester-, a megyei önkormányzati és a főpolgármester-választás tekintetében külön-külön kell alkalmazni.
+307/M. § A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei önkormányzati és a főpolgármester-választás tekintetében külön-külön kell alkalmazni.
 
 #### 138/J. A választás eredményének megállapítása
 
@@ -2796,9 +2796,9 @@ visszavonhatja átjelentkezési kérelmét.
 
 (3) A helyi választási bizottság az egyéni választókerületben és a kompenzációs listán mandátumot szerzett képviselőknek a kompenzációs listás választás eredményének jogerőre emelkedését követő három napon belül adja át a megbízólevelet.
 
-307/O. § (1) A megyei önkormányzati és a főpolgármester-választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig a területi választási irodához szállítja.
+307/O. § (1) A vármegyei önkormányzati és a főpolgármester-választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig a területi választási irodához szállítja.
 
-(2) A területi választási bizottság a szavazóköri jegyzőkönyvek alapján megállapítja a megyei önkormányzati és a főpolgármester-választás eredményét.
+(2) A területi választási bizottság a szavazóköri jegyzőkönyvek alapján megállapítja a vármegyei önkormányzati és a főpolgármester-választás eredményét.
 
 (3) A fővárosi kerületi polgármester-választás eredményét megállapító határozat jogerőre emelkedését követő napon 10 óráig a határozat mellékletét képező jegyzőkönyv egy példányát a helyi választási iroda a területi választási irodához szállítja. A területi választási bizottság a fővárosi kerületek polgármester-választásainak eredményeit megállapító határozatok jogerőre emelkedését követően a határozatok mellékleteit képező jegyzőkönyvek alapján megállapítja a fővárosi kompenzációs listás választás eredményét.
 
@@ -2811,7 +2811,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 (2) A területi választási bizottság dönt
 
-- a) minden olyan kifogásról, amely kifejezetten a megyei vagy fővárosi önkormányzati választáshoz vagy a főpolgármester-választáshoz kapcsolódik,
+- a) minden olyan kifogásról, amely kifejezetten a vármegyei vagy fővárosi önkormányzati választáshoz vagy a főpolgármester-választáshoz kapcsolódik,
 - b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés alá, és az elkövetés helye a területi választási bizottság illetékességi területén található,
 - c) a helyi választási bizottság döntése elleni fellebbezésről.
 
@@ -3142,7 +3142,7 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 (2) A területi választási bizottság dönt
 
-- a) minden olyan kifogásról, amely kifejezetten a megyei vagy fővárosi önkormányzati választáshoz, a főpolgármester-választáshoz vagy a területi nemzetiségi választáshoz kapcsolódik,
+- a) minden olyan kifogásról, amely kifejezetten a vármegyei vagy fővárosi önkormányzati választáshoz, a főpolgármester-választáshoz vagy a területi nemzetiségi választáshoz kapcsolódik,
 - b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés alá, és kizárólag a területi választási bizottság illetékességi területét érinti,
 - c) a helyi választási bizottság döntése elleni fellebbezésről, valamint a helyi választási iroda vezetőjének a 32. § (3) bekezdés alapján hozott határozata elleni kifogás tárgyában hozott döntése elleni fellebbezésről.
 
@@ -3172,7 +3172,7 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 - g) a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolására használható okiratokat,
 - h) a bírság megfizetésének részletes szabályait,
 - i) azon településeket és külképviseleteket, ahol a magyarországi lakcímmel nem rendelkező választópolgár – kérelmére – átveheti a szavazási levélcsomagot,
-- j) a fővárosi és megyei kormányhivatal választásokkal összefüggő informatikai feladatai ellátásának részletes szabályait,
+- j) a fővárosi és vármegyei kormányhivatal választásokkal összefüggő informatikai feladatai ellátásának részletes szabályait,
 - k) a Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – indokolt és igazolt költségeinek körét és a megtérítésre vonatkozó szabályokat,
 - l) a 310. § (2) bekezdése szerinti megelőlegezés részletes szabályait.
 

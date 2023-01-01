@@ -121,7 +121,7 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 - a) jogszabály egyenértékűnek ismer vagy ismert el, vagy
 - b) az a) pontban foglaltak hiányában a névjegyzéket vezető hatóság egyenértékűnek ismer el.
 
-(2) Az (1) bekezdés a) pontjában foglaltak kivételével a képesítés egyenértékűségének megállapítása érdekében az igazságügyi szakértői névjegyzéket vezető hatóság kikérheti a feladat- és hatáskörében érintett költségvetési szerv véleményét vagy a (3) bekezdés szerinti szakvéleményt is beszerezhet.
+(2) Az (1) bekezdés a) pontjában foglaltak kivételével a képesítés egyenértékűségének megállapítása érdekében az igazságügyi szakértői névjegyzéket vezető hatóság kikérheti a feladat- és hatáskörében érintett költségvetési szerv, vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény véleményét vagy a (3) bekezdés szerinti szakvéleményt is beszerezhet.
 
 (3) A képesítés megfelelőségének vizsgálatára a névjegyzéket vezető hatóság bizottságot kérhet fel (a továbbiakban e § alkalmazásában: bizottság). A bizottság szakértőként jogosult eljárni, tevékenységéért díjazás nem illeti meg. A bizottság tagjai a névjegyzéket vezető hatóságtól függetlenek, feladatkörükben nem utasíthatók. A bizottság elnökét a miniszter jelöli ki. A bizottság további tagja a felsőoktatásért felelős miniszter és a Kamara által kijelölt egy-egy személy.
 
@@ -153,6 +153,8 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 (6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha a névjegyzéket vezető hatóság a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg az igazságügyi szakértői tevékenység megkezdésének, illetve folytatásának joga, és az általános közigazgatási rendtartásról szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
 10. § (1) Az igazságügyi szakértő a névjegyzékbe vételét követő két hónapon belül, a névjegyzéket vezető hatóság előtt esküt tesz.
+
+(1a) Az (1) bekezdés szerinti eskü olyan módon is megszervezhető, hogy az eskütételre kötelezett az erről szóló okmányt elektronikusan írja alá.
 
 (2) A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és annak első mondatát követően a következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
 
@@ -532,7 +534,7 @@ minősítést kap.
 
 44. § (1) A szakértő a névjegyzékben szereplő elérhetőségi címén köteles a küldemények átvételét biztosítani.
 
-(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét. A Kamara által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (4) bekezdését alkalmazni kell.
+(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét. A Kamara és a névjegyzéket vezető hatóság által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (4) bekezdését alkalmazni kell.
 
 (2) Ha a szakértő az elektronikus kapcsolattartást vállalja, a névjegyzéket vezető hatóság az elektronikus kapcsolattartáshoz szükséges azonosító adatokat a hatóság részére átadja.
 
@@ -2050,7 +2052,15 @@ való megfelelést szolgálja.
 
 #### 83. Módosító rendelkezések
 
-#### 161–165. §
+#### 161. §
+
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
 
 #### 84. Hatályon kívül helyező rendelkezések
 

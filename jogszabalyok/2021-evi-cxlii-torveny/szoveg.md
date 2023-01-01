@@ -4,103 +4,103 @@ a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, va
 
 #### 1.
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
 #### 2.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
 #### 3. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
 #### 4. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
 #### 5.
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
 #### 6. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
 #### 7.
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
 #### 8.
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-#### 9. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
+#### 9.
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-#### 10. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
+#### 10.
 
-35. §
+#### 35. §
 
 #### 11.
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
 #### 12. Záró rendelkezések
 

@@ -272,7 +272,7 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 
 (2) A kérelmező a kapcsolattartásra vonatkozó határozat végrehajtása iránti kérelemben kérheti, hogy a bíróság kötelezze a kérelmezettet a kapcsolattartás megszegése folytán keletkezett igazolt költségeinek viselésére.
 
-(3) A kérelmet a kapcsolattartásra vonatkozó határozatban foglaltak megszegésétől vagy annak a kérelmező tudomására jutásától számított 30 napon belül lehet előterjeszteni. A határidőt az elmaradt kapcsolattartás pótlása esetén a kapcsolattartás pótlására megállapított legközelebbi megfelelő időpont lejártától kell számítani.
+(3) A kérelmet a kapcsolattartásra vonatkozó határozatban foglaltak megszegésétől vagy annak a kérelmező tudomására jutásától számított 30 napon belül lehet előterjeszteni. A határidőt megtartottnak kell tekinteni, ha a kérelmet legkésőbb e határidő utolsó napján ajánlott küldeményként postára adták. A határidőt az elmaradt kapcsolattartás pótlása esetén a kapcsolattartás pótlására megállapított legközelebbi megfelelő időpont lejártától kell számítani.
 
 (4) A kapcsolattartásra vonatkozó határozatban foglaltak megszegésének minősül, ha a kapcsolattartásra jogosult vagy kötelezett neki felróható okból
 
@@ -281,7 +281,7 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 - c) a kapcsolattartást kellő indok nélkül akadályozza vagy
 - d) egyéb módon meghiúsítja a gyermekkel való zavartalan kapcsolattartást.
 
-22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja. A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti. A kérelem elbírálása során a bíróság soron kívül jár el.
+22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja. Bizonyítás felvételének – amelyet a bíróság hivatalból is elrendelhet – csak akkor van helye, ha a kérelem e nélkül nem bírálható el. A kérelem elbírálása során a bíróság soron kívül jár el.
 
 (2) Ha a bíróság megállapítja, hogy a kérelmezett megszegte a kapcsolattartásra vonatkozó határozatban foglaltakat, elrendeli a végrehajtást. A bíróság a végrehajtást elrendelő végzésben a kérelmezettet felhívja, hogy
 
@@ -295,11 +295,11 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 
 (5) Ha a kapcsolattartásra vonatkozó határozat végrehajtása elrendelésének feltételei nem állnak fenn, a bíróság a kérelmet elutasítja. A végzés ellen fellebbezésnek van helye.
 
-22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után 30 napon belül, annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
+22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után 15 napon belül, annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
 
 (2) A teljesítés önhibából történő elmaradása esetén a bíróság
 
-- a) megkeresi a gyámhatóságot, hogy a család- és gyermekjóléti intézményrendszer bevonásával mozdítsa elő a kérelmezett teljesítését,
+- a) megkeresi a gyámhatóságot a gyermek védelmében szükséges intézkedések megtétele érdekében,
 - b) a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 174. § c) pontja szerinti pénzbírságot szabhat ki,
 - c) a kapcsolattartás szabályainak rendszeres és visszatérő megszegése esetén a gyermek rendőrség közreműködésével történő, a Vht. 180/B. § szerinti átadását rendelheti el,
 - d) megkeresheti a gyámhatóságot a szülői felügyeleti jog rendezése vagy a gyermek harmadik személynél történő elhelyezése iránt per megindítása érdekében, feltéve, hogy az a kiskorú gyermek érdekében áll, és azt a szülő vagy harmadik személy is kéri vagy

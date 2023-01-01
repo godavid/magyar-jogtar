@@ -22,7 +22,14 @@ a cselekvő fogyasztóvédelem érdekében szükséges egyes törvények módos�
 
 #### 8. §
 
-#### 9. §
+9. § Az Fgytv. a következő 45/C. §-sal egészül ki:
+
+„45/C. § A Nemzeti Adó- és Vámhivatal a fogyasztóvédelmi hatóság részére a 45/A. § (2) bekezdés szerinti feladatainak ellátása érdekében a tárgyhónapot követő hónap 20. napjáig adatot szolgáltat
+
+- a) a vállalkozások részére tárgyhónapban kiadott, továbbá
+- b) – a vállalkozások tárgyhavi adatszolgáltatása alapján – a vállalkozás által a fogyasztók részére átadott
+
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerinti, az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás egyszeri aktiválásához szükséges adattörlő kódok darabszámáról a vállalkozás elnevezésének, székhelyének és adószámának megadásával.”
 
 #### 10. §
 
@@ -70,13 +77,45 @@ lép.
 
 #### 23. §
 
-#### 24. §
+24. § (1) Az Mttv. 110. § i) pontja helyébe a következő rendelkezés lép:
 
-#### 25. §
+(A Hatóság a hírközlési ágazat tekintetében külön törvényben foglaltak szerint:)
+
+„i) ellátja a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletben a Digitális Szolgáltatási Koordinátor számára meghatározott feladatokat, valamint”
+
+(2) Az Mttv. 110. §-a a következő j) ponttal egészül ki:
+
+(A Hatóság a hírközlési ágazat tekintetében külön törvényben foglaltak szerint:)
+
+„j) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.”
+
+25. § (1) Az Mttv. 230. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv,”
+
+(2) Az Mttv. 230. § (1) bekezdése a következő g) ponttal egészül ki:
+
+(Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„g) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.”
+
+(3) Az Mttv. 230. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:)
+
+„c) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról szóló 2008. március 17-i bizottsági határozat,”
+
+(4) Az Mttv. 230. § (2) bekezdése a következő d) ponttal egészül ki:
+
+(Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:)
+
+„d) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.”
 
 26. § Az Mttv.
 
-- a)
+- a) 110. § nyitó szövegrészében az „ágazat” szövegrész helyébe az „és infokommunikációs ágazat” szöveg,
 - b)
 - c)
 

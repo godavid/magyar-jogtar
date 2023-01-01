@@ -157,7 +157,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 (3f) A (3e) bekezdés alapján létrejött osztott tulajdon esetén az épület vonatkozásában az (1) bekezdésben foglalt korlátozó rendelkezéseket alkalmazni kell.
 
-(4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a (7) bekezdésben, valamint a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
+(4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
 (5) Törvényben, kormányrendeletben vagy – a helyi önkormányzati vagyon tekintetében – a helyi önkormányzat rendeletében nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonként meghatározott vagyonelem az erről rendelkező jogszabály erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
@@ -165,7 +165,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 (7)
 
-(8) Az olyan – pályázat alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, a pályázati kiírástól, illetve a nyertes pályázattól eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
+(8) Az olyan – pályázat vagy bérleti licit alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, pályázat esetén a pályázati kiírástól és a nyertes pályázattól, bérleti licit esetén a hirdetménytől eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
 
 (9) Nemzeti vagyonba tartozó ingatlanok esetében a hulladékról szóló törvény szerinti elhagyott hulladék felszámolásának kötelezettsége az ingatlan tulajdonosát terheli azzal, hogy az elhagyott hulladék elszállításáról a 11. §-ban meghatározott személyeknek kell gondoskodnia.
 
@@ -311,7 +311,12 @@ jóváhagyó határozata szükséges.
 
 - a) államháztartási körbe tartozó szervezet,
 - b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, továbbá jogszabályban előírt állami vagy önkormányzati feladatot ellátó egyházi jogi személy,
-- c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
+- c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő
+  - ca) az állam tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel vagy központi költségvetési szervvel,
+  - cb) a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel
+
+foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
+
 - d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társaság vagyonkezelésében lévő, az állam tulajdonában álló lakások tekintetében a vagyonkezelővel vagy a vagyonkezelő tulajdonában álló gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek
 
 javára történik.
@@ -322,6 +327,8 @@ javára történik.
 
 (2) A 11. § (10) bekezdésétől eltérően a kivezetésre szánt állami vagyon tekintetében hasznosításra irányuló szerződés határozatlan vagy legfeljebb 1 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 1 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette és a hasznosítással érintett vagyonelem elidegenítése 1 éven belül nem lehetséges. A határozatlan időre kötött hasznosítási szerződésben legfeljebb 6 hónapos felmondási idő köthető ki.
 
+11/B. § A 11. § (10) bekezdésétől eltérően állami vagyon hasznosítására irányuló szerződés 25 éves határozott időre is köthető, ha a hasznosításra jogosult vállalja az érintett állami vagyon gyarapítását szolgáló beruházás megvalósítását, és az állami vagyont érintő beruházás megtérülési ideje ezt kifejezetten indokolja. A 25 éves határozott időtartam egy alkalommal legfeljebb 5 évvel meghosszabbítható abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette.
+
 #### 6. Az állam és a helyi önkormányzat kizárólagos gazdasági tevékenységei
 
 12. § (1) Az állam kizárólagos gazdasági tevékenységei a következők:
@@ -330,12 +337,12 @@ javára történik.
 - b) a bányászati kutatás és kitermelés, valamint az ezekkel összefüggő bányászati melléktevékenység,
 - c) a hasadó és sugárzó anyagok előállítása és forgalmazása,
 - d) a csatornák, az állami tulajdonban álló víziközművek, valamint a regionális közműrendszerek létrehozása és működtetése,
-- e) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység,
+- e) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység, távszerencsejáték szervezése kivételével,
 - f) az országos törzshálózati vasúti pályán történő személyszállítás és árufuvarozás,
 - g) a menetrend szerinti helyközi közúti személyszállítás,
 - h) az állami tulajdonba tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - i) az országos közutak és műtárgyaik, állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal, valamint azt magába foglaló pályahálózat létrehozása és működtetése,
-- j) állami tulajdont képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
+- j) állami tulajdont képező terek, parkok és közkertek felszíne alatt építmény létrehozása és működtetése,
 - k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
 - l) dohánytermékek kiskereskedelme, illetve a dohánykiskereskedelem-ellátási tevékenység,
 - m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
@@ -487,7 +494,7 @@ javára ruházható át.
 
 (3) Az (1) bekezdés szerinti közfeladathoz kapcsolódóan közép- vagy hosszú távú, költségvetési éven túli év kiadási előirányzat terhére kötelezettség törvényi felhatalmazás alapján vállalható.
 
-14/B. § A kivezetésre szánt állami vagyon tulajdonjogának átruházása esetén – a 3. § (1) bekezdés 1. pontja szerinti szervezetek mellett – átlátható szervezetnek minősül az a gazdasági társaság is, amelynek közvetlen vagy közvetett tulajdonosai kizárólag természetes személyek, amennyiben e személyek megismerhetőek. Ebben az esetben a 3. § (2) bekezdése szerinti nyilatkozat mellőzhető.
+14/B. § A kivezetésre szánt állami vagyon tulajdonjogának átruházása, továbbá a központi költségvetési szerv vagyonkezelésében álló, a részére megbízási, vállalkozási vagy felhasználási jogviszony keretében előállított 11. § (6) bekezdése szerinti ingóság állami vagyonról szóló törvény szerinti értékesítése vagy ingyenes átruházása esetén – a 3. § (1) bekezdés 1. pontja szerinti szervezetek mellett – átlátható szervezetnek minősül az a gazdasági társaság is, amelynek közvetlen vagy közvetett tulajdonosai kizárólag természetes személyek, amennyiben e személyek megismerhetőek. Ezekben az esetekben a 3. § (2) bekezdése szerinti nyilatkozat mellőzhető.
 
 15. § A jelen törvény rendelkezéseibe ütköző szerződés, más jogügylet vagy rendelkezés semmis.
 
@@ -589,7 +596,7 @@ javára ruházható át.
 
 19. § E törvény
 
-- a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11/A. §-a, 12. § (1) és (3)–(15) bekezdése, 13. §-a, 14/B. §-a, 17. § (2) bekezdése, 18. §-a, 18/A. §-a és 18/C. §-a, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
+- a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11/B. §-a, 12. § (1) és (3)–(15) bekezdése, 13. §-a, 14/B. §-a, 17. § (2) bekezdése, 18. §-a, 18/A. §-a és 18/C. §-a, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
 - b) 5. §-a, 9. §-a és 12. § (2) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján,
 - c) 14. §-a, 15. §-a és 17. § (1)–(1a) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
 - d) 14/A. §-a és 18/D. §-a az Alaptörvény 38. cikk (1) bekezdése alapján
@@ -604,23 +611,47 @@ sarkalatosnak minősül.
 
 (4) A 11. § (16) bekezdése 2012. március 2-án lép hatályba.
 
-#### 21–24. §
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
 
 25. § (1)
 
 (2)
 
-(3)–(8)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 (9)
 
-#### 26–27. §
+#### 26. §
 
-#### 28–29. §
+#### 27. §
 
-#### 30–31. §
+#### 28. §
 
-#### 32–33. §
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
 
 ### 1. melléklet a 2011. évi CXCVI. törvényhez
 
@@ -2160,65 +2191,64 @@ A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon köre
 
 I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó állami tulajdonban álló társasági részesedés
 
-| Társaság neve | állami részesedés legalacsonyabb mértéke |
-| --- | --- |
-| Magyar Villamos Művek Zrt. | 75%+1 szavazat |
-| Bakonyerdő Erdészeti és Faipari Zrt. | 100% |
-| DALERD Délalföldi Erdészeti Zrt. | 100% |
-| ÉSZAKERDŐ Erdőgazdasági Zrt. | 100% |
-| Gemenci Erdő- és Vadgazdaság Zrt. | 100% |
-| GYULAJ Erdészeti és Vadászati Zrt. | 100% |
-| Ipoly Erdő Zrt. | 100% |
-| Kisalföldi Erdőgazdasági Zrt. | 100% |
-| KEFAG Kiskunsági Erdészeti és Faipari Zrt. | 100% |
-| EGERERDŐ Erdészeti Zrt. | 100% |
-| Mecsekerdő Zrt. | 100% |
-| NEFAG Nagykunsági Erdészeti és Faipari Zrt. | 100% |
-| NYÍRERDŐ Nyírségi Erdészeti Zrt. | 100% |
-| Pilisi Parkerdő Zrt. | 100% |
-| SEFAG Erdészeti és Faipari Zrt. | 100% |
-| Szombathelyi Erdészeti Zrt. | 100% |
-| VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt. | 100% |
-| Vértesi Erdészeti és Faipari Zrt. | 100% |
-| Zalaerdő Erdészeti Zrt. | 100% |
-| Budapesti Erdőgazdaság Zrt. | 100% |
-| Kaszó Erdőgazdaság Zrt. | 100% |
-| VERGA Veszprémi Erdőgazdaság Zrt. | 100% |
-| Magyar Export-Import Bank Zrt. | 100% |
-| Magyar Exporthitel Biztosító Zrt. | 100% |
-| Magyar Posta Zrt. | 75%+1 szavazat |
-| Magyar Államvasutak Zrt. | 100% |
-| Győr-Sopron-Ebenfurti Vasút Zrt. | 65,6% |
-| Magyar Fejlesztési Bank Zrt. | 100% |
-| Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% |
-| HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% |
-| Államadósság Kezelő Központ Zrt. | 100% |
-| Garantiqa Hitelgarancia Zrt. | 25%+1 szavazat |
-| Regionális Fejlesztési Holding Zrt. | 100% |
-| Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% |
-| Concordia Közraktár Kereskedelmi Zrt. | 100% |
-| Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% |
-| Szerencsejáték Zrt. | 100% |
-| Bábolna Nemzeti Ménesbirtok Kft. | 100% |
-| Dunamenti Regionális Vízmű Zrt. | 75%+1 szavazat |
-| Dunántúli Regionális Vízmű Zrt. | 75%+1 szavazat |
-| Észak-dunántúli Regionális Vízmű Zrt. | 75%+l szavazat |
-| Észak-magyarországi Regionális Vízművek Zrt. | 75%+1 szavazat |
-| Tiszamenti Regionális Vízművek Zrt. | 75%+1 szavazat |
-| Herendi Porcelánmanufaktúra Zrt. | 25%+1 szavazat |
-| Országos Hulladékgazdasági Ügynökség Nonprofit Kft. | 100 % |
-| Kincsem Nemzeti Lóverseny és Lovas Stratégiai Kft. | 100 % |
-| Magyar Lóversenyfogadást Szervező Kft. | 100 % |
-| Diákhitel Központ Zrt. | 100 % |
-| Magyar Nemzeti Vagyonkezelő Zrt | 100% |
-| Állami Autópálya Kezelő Zrt. | 100% |
-| Nemzeti Infrastruktúra Fejlesztő Zrt. | 100% |
-| Magyar Közút Nonprofit Zrt. | 100% |
-| Magyar Turizmus Zrt. | 100% |
-| Vasúti Pályakapacitás-elosztó Kft. | 100% |
-| Hollóházi Hungarikum Nonprofit Kft. | 50%+1 szavazat |
-| Nemzeti Filmintézet Zrt. | 100% |
-| N7 Holding Nemzeti Védelmi Ipari Innovációs Zrt. | 100% |
+|  | A | B |
+| --- | --- | --- |
+| 1 | Társaság neve | Állami részesedéslegalacsonyabb mértéke |
+| 2 | MVM Energetika Zrt. | 75% + 1 szavazat |
+| 3 | Bakonyerdő Erdészeti és Faipari Zrt. | 100% |
+| 4 | DALERD Délalföldi Erdészeti Zrt. | 100% |
+| 5 | ÉSZAKERDŐ Erdőgazdasági Zrt. | 100% |
+| 6 | Gemenci Erdő- és Vadgazdaság Zrt. | 100% |
+| 7 | GYULAJ Erdészeti és Vadászati Zrt. | 100% |
+| 8 | IPOLY ERDŐ Zrt. | 100% |
+| 9 | Kisalföldi Erdőgazdaság Zrt. | 100% |
+| 10 | KEFAG Kiskunsági Erdészeti és Faipari Zrt. | 100% |
+| 11 | EGERERDŐ Erdészeti Zrt. | 100% |
+| 12 | Mecsekerdő Zrt. | 100% |
+| 13 | NEFAG Nagykunsági Erdészeti és Faipari Zrt. | 100% |
+| 14 | NYÍRERDŐ Nyírségi Erdészeti Zrt. | 100% |
+| 15 | Pilisi Parkerdő Zrt. | 100% |
+| 16 | SEFAG Erdészeti és Faipari Zrt. | 100% |
+| 17 | Szombathelyi Erdészeti Zrt. | 100% |
+| 18 | VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt. | 100% |
+| 19 | Vérteserdő Zrt. | 100% |
+| 20 | Zalaerdő Erdészeti Zrt. | 100% |
+| 21 | Budapesti Erdőgazdaság Zrt. | 100% |
+| 22 | KASZÓ Erdőgazdaság Zrt. | 100% |
+| 23 | VERGA Veszprémi Erdőgazdaság Zrt. | 100% |
+| 24 | Magyar Export-Import Bank Zrt. | 100% |
+| 25 | Magyar Exporthitel Biztosító Zrt. | 100% |
+| 26 | Magyar Posta Zrt. | 75% + 1 szavazat |
+| 27 | MÁV Magyar Államvasutak Zrt. | 100% |
+| 28 | Győr-Sopron-Ebenfurti Vasút Zrt. | 65,6% |
+| 29 | Magyar Fejlesztési Bank Zrt. | 100% |
+| 30 | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% |
+| 31 | HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% |
+| 32 | Államadósság Kezelő Központ Zrt. | 100% |
+| 33 | Garantiqa Hitelgarancia Zrt. | 25% + 1 szavazat |
+| 34 | Regionális Fejlesztési Holding Zrt. | 100% |
+| 35 | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% |
+| 36 | CONCORDIA KÖZRAKTÁR Kereskedelmi Zrt. | 100% |
+| 37 | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% |
+| 38 | Szerencsejáték Zrt. | 100% |
+| 39 | DMRV Duna Menti Regionális Vízmű Zrt. | 75% + 1 szavazat |
+| 40 | Dunántúli Regionális Vízmű Zrt. | 75% + 1 szavazat |
+| 41 | Északdunántúli Vízmű Zrt. | 75% + 1 szavazat |
+| 42 | ÉRV. Északmagyarországi Regionális Vízművek Zrt. | 75% + 1 szavazat |
+| 43 | Tiszamenti Regionális Vízművek Zrt. | 75% + 1 szavazat |
+| 44 | Herendi Porcelánmanufaktúra Zrt. | 25% + 1 szavazat |
+| 45 | Kincsem Nemzeti Lóverseny és Lovas Stratégiai Kft. | 100% |
+| 46 | Magyar Lóversenyfogadást – szervező Kft. | 100% |
+| 47 | Diákhitel Központ Zrt. | 100% |
+| 48 | Magyar Nemzeti Vagyonkezelő Zrt | 100% |
+| 49 | Nemzeti Útdíjfizetési Szolgáltató Zrt. | 100% |
+| 50 | Magyar Közút Nonprofit Zrt. | 100% |
+| 51 | Magyar Turisztikai Ügynökség Zrt. | 100% |
+| 52 | VPE Vasúti Pályakapacitás-elosztó Kft. | 100% |
+| 53 | Hollóházi Hungarikum Nonprofit Kft. | 50% + 1 szavazat |
+| 54 | Nemzeti Filmintézet Közhasznú Nonprofit Zrt. | 100% |
+| 55 | N7 Holding Nemzeti Védelmi Ipari Innovációs Zrt. | 100% |
+| 56 | Nemzeti Sportügynökség Nonprofit Zrt. | 100% |
 
 II. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó vagyonelemek
 
@@ -2331,7 +2361,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.56. | Nagytétény, Csókássy Pál u. 11–15. |  | Rudnyánszky-kastély együttese |
 | 1.57. | Szigetköz, Szent Flórián tér (Zsák u. és MÁV vasútvonal között) |  | római tábor romjai |
 
-2. BARANYA MEGYE
+2. BARANYA VÁRMEGYE
 
 | 2.1. | KÁSÁD Rákóczi út 28. | horvát tájház |
 | --- | --- | --- |
@@ -2347,12 +2377,12 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 2.11. | SZÁSZVÁR Templom tér 2. | vár |
 | 2.12. | SZIGETVÁR | vár |
 
-3. BÁCS-KISKUN MEGYE
+3. BÁCS-KISKUN VÁRMEGYE
 
 | 3.1. | LAJOSMIZSE, Alsóbene 225. | tanyamúzeum |
 | --- | --- | --- |
 
-4. BÉKÉS MEGYE
+4. BÉKÉS VÁRMEGYE
 
 | 4.1. |  |  |
 | --- | --- | --- |
@@ -2366,7 +2396,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 4.6. | SZARVAS Szabadság u. 2. | Bolza-kastély együttese |
 | 4.7. | SZARVAS Anna-liget | Csáky-kastély együttese |
 
-5. BORSOD-ABAÚJ-ZEMPLÉN MEGYE
+5. BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
 
 | 5.1. | BOLDOGKŐVÁRALJA | várrom |
 | --- | --- | --- |
@@ -2392,7 +2422,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 5.21. | SZÖGLIGET Várhegy | Szádvár romjai |
 | 5.22. | TARD Béke u. 55. és 57. | tájház |
 
-6. CSONGRÁD-CSANÁD MEGYE
+6. CSONGRÁD-CSANÁD VÁRMEGYE
 
 | 6.1. | DEREKEGYHÁZ Köztársaság tér | Károlyi-kastély együttese |
 | --- | --- | --- |
@@ -2400,7 +2430,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 6.3. | NAGYMÁGOCS Szentesi út 2. | Károlyi-kastély együttese |
 | 6.4. | SZEGVÁR Kossuth tér 1. | Károlyi-kastély |
 
-7. FEJÉR MEGYE
+7. FEJÉR VÁRMEGYE
 
 | 7.1. | ALCSÚTDOBOZ Alcsút | Habsburg-kastély maradványai és a kastélypark |
 | --- | --- | --- |
@@ -2418,7 +2448,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 7.13. | TÁC Fövenypuszta | Gorsium |
 | 7.14. | VÁL Vajda János u. | Ürményi-kastély együttese |
 
-8. GYŐR-MOSON-SOPRON MEGYE
+8. GYŐR-MOSON-SOPRON VÁRMEGYE
 
 | 8.1. | DÉNESFA Fő u. 19. | Cziráky-kastély együttese |
 | --- | --- | --- |
@@ -2434,7 +2464,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | Bartók Béla u. | híd |
 |  | kastélypark |
 | 8.3. | FERTŐRÁKOS Fő u. 153. | püspöki kastély |
-| 8.4. | GYŐR Liszt Ferenc u. 13. | megyeháza |
+| 8.4. | GYŐR Liszt Ferenc u. 13. | vármegyeháza |
 | 8.5. | GYŐR Széchenyi tér 5. | Apátúr-ház |
 | 8.6. | MIHÁLYI Korona u. 1. | Dőry-kastély együttese |
 | 8.7. |  |  |
@@ -2455,7 +2485,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 8.16. | SOPRONHORPÁCS | Széchenyi-kastély együttese |
 | 8.17. | SZANY Kossuth u. 2–6. | püspöki kastély együttese |
 
-9. HAJDÚ-BIHAR MEGYE
+9. HAJDÚ-BIHAR VÁRMEGYE
 
 | 9.1. | DEBRECEN Déri tér 1. | Déri Múzeum |
 | --- | --- | --- |
@@ -2467,7 +2497,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 9.7. | HORTOBÁGY Petőfi tér | egykori szekérállás |
 | 9.8. | NAGYKEREKI Bocskai tér | Bocskai-várkastély együttese |
 
-10. HEVES MEGYE
+10. HEVES VÁRMEGYE
 
 | 10.1. | EGER Dózsa György tér 3. | Validé Szultana törökfürdő romjai |
 | --- | --- | --- |
@@ -2479,7 +2509,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 10.7. | PARÁD Sziget u. 8. | falumúzeum |
 | 10.8. | SIROK | várrom |
 
-11. KOMÁROM-ESZTERGOM MEGYE
+11. KOMÁROM-ESZTERGOM VÁRMEGYE
 
 | 11.1. | BAJNA | Sándor-Metternich-kastély együttese |
 | --- | --- | --- |
@@ -2511,9 +2541,9 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 11.11. | TATA Váralja u. 1–3. | a vár együttese |
 | 11.12. | VÁRGESZTES Várhegy | várrom |
 
-12. NÓGRÁD MEGYE
+12. NÓGRÁD VÁRMEGYE
 
-| 12.1. | BALASSAGYARMAT Madách u. 2. | megyei börtön |
+| 12.1. | BALASSAGYARMAT Madách u. 2. | vármegyei börtön |
 | --- | --- | --- |
 | 12.2. | DRÉGELYPALÁNK | várrom |
 | 12.3. | HOLLÓKŐ Kossuth u. 82. | Palóc Múzeum |
@@ -2525,7 +2555,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 12.8. | SZÉCSÉNY Ady E. u. 7. | Forgách-kastély együttese |
 | 12.9. | SZÉCSÉNY–BENCZÚRFALVA Fő u. 2. | Benczúr-kastély |
 
-13. PEST MEGYE
+13. PEST VÁRMEGYE
 
 | 13.1. | ABONY Tószegi u. 51. | Vigyázó-kúria |
 | --- | --- | --- |
@@ -2553,7 +2583,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 13.23. | VISEGRÁD Sibrik-domb | esperesi templom romjai |
 | 13.24. | ZSÁMBÉK Régi templom u. | premontrei prépostság romjai |
 
-14. SOMOGY MEGYE
+14. SOMOGY VÁRMEGYE
 
 | 14.1. | BALATONSZENTGYÖRGY Csillagvár u. 68. | tájház |
 | --- | --- | --- |
@@ -2566,7 +2596,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 14.8. | ZAMÁRDI Szántódpuszta | majorsági épületegyüttes |
 | 14.9. | ZAMÁRDI Fő u. 83. | tájház |
 
-15. SZABOLCS-SZATMÁR-BEREG MEGYE
+15. SZABOLCS-SZATMÁR-BEREG VÁRMEGYE
 
 | 15.1. | KISVÁRDA Vár u. 33/C | várrom |
 | --- | --- | --- |
@@ -2578,7 +2608,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 15.7. | TÚRISTVÁNDI Zrínyi M. u. | vízimalom |
 | 15.8. | VAJA Damjanich u. 79. | Vay-kastély |
 
-16. TOLNA MEGYE
+16. TOLNA VÁRMEGYE
 
 | 16.1. | LENGYEL | Apponyi-kastély együttese |
 | --- | --- | --- |
@@ -2587,7 +2617,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 16.4. | SIMONTORNYA Vár tér 10. | vár |
 | 16.5. | KÖLESD-FELSŐHÍDVÉGPUSZTA | Hiemer-Jeszenszky-kastély |
 
-17. VAS MEGYE
+17. VAS VÁRMEGYE
 
 | 17.1. | BOZSOK Rákóczi u. | Sibrik-kastély együttese |
 | --- | --- | --- |
@@ -2604,7 +2634,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 17.12. | VASSZÉCSENY Munkás u. 3. | Ó-Ebergényi-kastély |
 | 17.13. | VÉP Szent Imre út 36–38. | Erdődy-kastély együttese |
 
-18. VESZPRÉM MEGYE
+18. VESZPRÉM VÁRMEGYE
 
 | 18.1. | ALSÓÖRS Petőfi köz 7. | gótikus ház, ún. török adószedőház |
 | --- | --- | --- |
@@ -2642,7 +2672,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.33. | VESZPRÉM Gyulafirátót Kolostor u. | premontrei templom- és kolostorrom |
 | 18.34. | VESZPRÉMFAJSZ | középkori templomrom |
 
-19. ZALA MEGYE
+19. ZALA VÁRMEGYE
 
 | 19.1. | EGERVÁR Vár u. | várkastély |
 | --- | --- | --- |
@@ -2669,13 +2699,19 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 
 IV. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanok
 
-| 1. |  | Budapesti Olimpiai Központ – Puskás Ferenc Stadion és Létesítményei |
+|  | A | B |
 | --- | --- | --- |
-| 2. | 2890 Tata, Baji út 21. | Északnyugat-magyarországi Általános Olimpiai Központ – Tatai Edzőtábor |
-| 3. |  |  |
-| 4. |  | Nemzeti Úszó és Vízilabda Olimpiai Központ – Nemzeti Sportuszodák és Létesítményei |
-| 4.a) | 1138 Budapest, Margitsziget, 23801 és 23800/7 hrsz. | Hajós Alfréd Nemzeti Sportuszoda |
-| 4.b) | 1023 Budapest, Árpád fejedelem útja 8. | Császár–Komjádi Sportuszoda |
-| 4.c) | 1103 Budapest, Kőér u. 1/a. | Kőér utcai Sportuszoda |
-| 5. | 6725 Szeged, Alsóvárosi Feketeföldek 158. | Nemzeti Kajak-Kenu és Evezős Olimpiai Központ – Szeged, Maty-ér |
-| 6. | 2336 Dunavarsány, külterület 050/4 hrsz. | Közép-magyarországi Általános Olimpiai Központ – Dunavarsányi Edzőtábor |
+| 1 | Település, helyrajzi szám | Megnevezés |
+| 2 | Budapest XIV. kerület belterület 32826 hrsz. | Puskás Ferenc Stadion és létesítményei |
+| 3 | Budapest X. kerület belterület 39206/85 hrsz. | Fehér úti sporttelep |
+| 4 | Tata belterület 3308/1 hrsz. | Tatai Edzőtábor |
+| 5 | Budapest X. kerület belterület 38303/68 hrsz. | Kőér utcai Sportuszoda |
+| 6 | Budapest Margitsziget belterület 23800/7 hrsz. | Hajós Alfréd Sportuszoda |
+| 7 | Budapest Margitsziget belterület 23801 hrsz. |
+| 8 | Budapest II. kerület belterület 14479/2 hrsz. | Császár-Komjádi Sportuszoda |
+| 9 | Budapest XIII. kerület belterület 25879 hrsz. | Duna Aréna |
+| 10 | Budapest XI. kerület belterület 4082/23 hrsz. | Tüskecsarnok és Tüske Uszoda |
+| 11 | Szeged külterület 02065/12, 02065/12/A, 02065/13 hrsz. | Maty-éri Evezőspálya |
+| 12 | Dunavarsány külterület 050/4 hrsz. | Dunavarsányi Edzőtábor |
+| 13 | Ráckeve belterület 54 hrsz. | Ráckevei Vízisporttelep |
+| 14 | Gyöngyös-Mátraháza belterület 7112, 7138 hrsz. | Mátraházi Edzőtábor |

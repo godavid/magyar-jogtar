@@ -160,7 +160,7 @@ Co-ordinating Body Secretariat
 
 2. All signatories to the Agreement will share equally, on an annual basis, the costs for the administration of the Agreement by the Co-ordinating Body Secretariat. Notwithstanding the previous sentence, qualifying countries will be exempt from sharing the costs in accordance with Article X of the Rules of Procedure of the Co-ordinating Body of the Convention.
 
-Done in English and French, both texts being equally authentic.”
+Done in English and French, both texts being equally authentic.
 
 „A Pénzügyi Számlákkal Kapcsolatos Információk Automatikus Cseréjéről Szóló, Illetékes Hatóságok közötti Többoldalú Megállapodás
 
@@ -1461,13 +1461,15 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 36. Írország
 - 37. Izland
 - 37a. Izrael
+- 37b. Jamaica
 - 38. Japán
 - 39. Jersey
 - 40. Kajmán-szigetek
 - 41. Kanada
 - 41a. Katar
 - 41b. Kazahsztán
-- 41c. Kína
+- 41c. Kenya
+- 41d. Kína
 - 42. Kolumbia
 - 43. Korea
 - 43a. Kuvait
@@ -1480,12 +1482,16 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 48. Luxemburg
 - 48a. Makaó
 - 48b. Malajzia
+- 48c. Maldív-szigetek
 - 49. Man-sziget
+- 49a. Marokkó
 - 50. Marshall-szigetek
 - 51. Mauritius
 - 52. Málta
 - 53. Mexikó
-- 53a. Monaco
+- 53a. Moldova
+- 53b. Monaco
+- 53c. Montenegró
 - 54. Montserrat
 - 54a. Nauru
 - 55. Németország
@@ -1497,6 +1503,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 58b. Orosz Föderáció
 - 58c. Pakisztán
 - 58d. Panama
+- 58e. Peru
 - 59. Portugália
 - 60. Románia
 - 60a. Saint Kitts és Nevis
@@ -1514,7 +1521,9 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 70. Szlovák Köztársaság
 - 71. Szlovénia
 - 71a. Törökország
+- 71b. Thaiföld
 - 72. Turks és Caicos-szigetek
-- 72a. Uruguay
+- 72a. Uganda
+- 72b. Uruguay
 - 73. Új-Zéland
 - 74. Vanuatu

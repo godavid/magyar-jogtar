@@ -18,18 +18,23 @@ Magyarország 2023. évi központi költségvetésének megalapozásáról
 
 5. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
 
-- 1.
-- 2.
-- 3.
-- 4.
+1 39. §-át megelőző alcím címében a „Gazdaság-újraindítási” szövegrész helyébe a „Nemzeti” szöveg,
+
+2. 39. § (2) bekezdésében a „Gazdaság-újraindítási” szövegrész helyébe a „Nemzeti” szöveg,
+
+3.
+
+4. 39/C. § (1) bekezdés i) pontjában a „Gazdaság-újraindítási” szövegrészek helyébe a „Nemzeti” szöveg
 
 lép.
 
 #### 4. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-6. §
+6. § A gépjárműadóról szóló 1991. évi LXXXII. törvény 17/E. §-a helyébe a következő rendelkezés lép:
 
-7. §
+„17/E. § Az adó havi mértékét személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján az 1. melléklet tartalmazza.”
+
+7. § A gépjárműadóról szóló 1991. évi LXXXII. törvény az 1. melléklet szerinti 1. melléklettel egészül ki.
 
 #### 5. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -43,7 +48,12 @@ lép.
 
 #### 7. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-11. §
+11. § A Bérgarancia Alapról szóló 1994. évi LXVI. törvény
+
+- 1. 3. § (2) bekezdés m) pontjában az „a Gazdaságvédelmi Foglalkoztatási Alap” szövegrész helyébe az „az Alap” szöveg, és
+- 2. 11. § (1d) bekezdés l) pontjában az „a Gazdaságvédelmi Foglalkoztatási Alap” szövegrész helyébe az „az Alap” szöveg
+
+lép.
 
 #### 8. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
@@ -139,7 +149,9 @@ lép.
 
 44. §
 
-45. §
+45. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény ÁTMENETI RENDELKEZÉSEK alcíme a következő 87/J. §-sal egészül ki:
+
+„87/J. § A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 28. § (1) bekezdése alapján kötött pályaműködtetési szerződésekben rögzített, a minisztert megillető jogok és kötelezettségek az országos közlekedésszervezőre szállnak át.”
 
 #### 21. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
@@ -251,7 +263,11 @@ lép.
 
 86. §
 
-87. §
+87. § Az államháztartásról szóló 2011. évi CXCV. törvény 28/A. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Az államháztartás központi alrendszerébe tartozó költségvetési szerv, központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja központi költségvetésről szóló törvényben megállapított bevételi és kiadási előirányzatai egységes rovatrend szerinti részletezéséről a Kormány rendeletében foglaltak szerint elemi költségvetést kell készíteni. A Kormány rendelete elrendelheti az elemi költségvetésben egyéb, a gazdálkodással összefüggő tervadatok szerepeltetését is.
+
+(3) A központi költségvetésről szóló törvénynek és az elemi költségvetésnek a költségvetési kiadások és bevételek előirányzata szintjén – ha a központi költségvetésről szóló törvény a kiemelt előirányzatokat is megállapítja a kiemelt előirányzatok szintjén – meg kell egyeznie.”
 
 88. §
 
@@ -273,9 +289,9 @@ lép.
 
 97. § Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
 
-- 1.
+- 1. 6/B. § (3) bekezdésében az „– ideértve a XLVII. Gazdaság-újraindítási Alap fejezet gazdaságvédelmet szolgáló fejezeti kezelésű előirányzatait is –” szövegrész,
 - 2.
-- 3.
+- 3. 33. § (3) bekezdés b) pontjában az „– a Gazdaság-újraindítási Alap fejezeti kezelésű előirányzatai kivételével –” szövegrész.
 
 #### 35. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
@@ -291,7 +307,27 @@ lép.
 
 103. §
 
-104. §
+104. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 21/A. § (1) bekezdése a következő d)–l) ponttal egészül ki:
+
+[Az országos közlekedésszervező a 21. § (1) és (1a) bekezdésében meghatározott feladatokon túl ellátja]
+
+„d) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletértékesítéssel, a bevételek beszedésével kapcsolatos feladatokat,
+
+e) a b) pontban meghatározott bevételekhez kapcsolódó szociálpolitikai menetdíj-támogatás igénybevételével kapcsolatos feladatokat,
+
+f) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletellenőrzési feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
+
+g) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő utastájékoztatási feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
+
+h) az országos, elővárosi és regionális személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások arculati, utastájékoztatási, utaskapcsolati és utaskezelési szabályait,
+
+i) a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását,
+
+j) a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedések meghatározását, amely végrehajtását a közlekedési szolgáltató csak abban az esetben tagadhatja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti,
+
+k) a Vtv. 3/B. § (8) bekezdésében és 67/P. §-ában meghatározott feladatokat,
+
+l) az országos, elővárosi, regionális autóbusszal végzett személyszállítási közszolgáltatással érintett közvetett vagy közvetlen állami tulajdonban álló autóbuszpályaudvarok fenntartásával és működtetésével kapcsolatos feladatokat, ideértve a hozzáférés biztosításával kapcsolatos tevékenységeket is.”
 
 105. §
 
@@ -321,7 +357,10 @@ lép.
 
 116. §
 
-117. §
+117. § Hatályát veszti a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény
+
+- 1. 2. mellékletében foglalt táblázat 7490. sor 2. mezőjében a „falugazdász tevékenység,” szövegrész, és
+- 2. 2. mellékletében foglalt táblázat 8810. sora.
 
 #### 38. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
@@ -634,7 +673,12 @@ lép.
 
 #### 65. A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény módosítása
 
-228. §
+228. § A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény
+
+- 1. 3. § (5) bekezdésében a „Gazdaságvédelmi Foglalkoztatási Alapból” szövegrész helyébe a „foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból (a továbbiakban: az Alap)”, és
+- 2. 6. § (2) és (3) bekezdésében az „a Gazdaságvédelmi Foglalkoztatási Alapból” szövegrészek helyébe az „az Alapból” szöveg
+
+lép.
 
 #### 66. A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény módosítása
 
@@ -660,7 +704,7 @@ lép.
 
 #### 70. Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény módosítása
 
-236. §
+236. § Nem lép hatályba az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény 73. § (1) bekezdése.
 
 #### 71. Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény módosítása
 
@@ -779,6 +823,20 @@ alapján sarkalatosnak minősül.
 (6) E törvény 240–243. §-a az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2022. évi XXIV. törvényhez
+
+„1. melléklet az 1991. évi LXXXII. törvényhez
+
+A cégautóadó havi mértékei
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | Teljesítmény (kW) | „0”–„4” környezetvédelmi osztályjelzések esetén | „6”–„10” környezetvédelmi osztályjelzések esetén | „5”; „14–15” környezetvédelmi osztályjelzések esetén |
+| 2 | 0–50 | 30 500 forint | 16 000 forint | 14 000 forint |
+| 3 | 51–90 | 41 000 forint | 20 000 forint | 16 000 forint |
+| 4 | 91–120 | 61 000 forint | 41 000 forint | 20 000 forint |
+| 5 | 120 felett | 81 000 forint | 61 000 forint | 41 000 forint |
+
+”
 
 ### 2. melléklet a 2022. évi XXIV. törvényhez
 

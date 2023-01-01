@@ -226,7 +226,7 @@ jogosult kérni.
 - b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 - c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony létesítésére és időtartamára, a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára, a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 - d) az anyakönyvi nyilvántartás központi nyilvántartó szervétől a (volt) magyar állami ösztöndíjas hallgató gyermekének születési anyakönyvi kivonatára,
-- e) a családtámogatási ügyben eljáró hatóság a tartós betegség megállapításához szükséges, a fővárosi és megyei kormányhivatalnak vagy jogelődjének a tartós betegségre tekintettel megállapított magasabb összegű családi pótlék megállapításáról szóló határozatára, vagy ennek folyósításáról kiadott igazolására, vagy a tartós betegséget megállapító, a magasabb összegű családi pótlék igénybevételéhez szükséges érvényes és hatályos szakvéleményére, szakhatósági állásfoglalására; a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fb) alpontja szerinti állapotra, illetve a magasabb összegű családi pótlékra jogosultság tartós betegségére tekintettel való igazolására,
+- e) a családtámogatási ügyben eljáró hatóság a tartós betegség megállapításához szükséges, a fővárosi és vármegyei kormányhivatalnak vagy jogelődjének a tartós betegségre tekintettel megállapított magasabb összegű családi pótlék megállapításáról szóló határozatára, vagy ennek folyósításáról kiadott igazolására, vagy a tartós betegséget megállapító, a magasabb összegű családi pótlék igénybevételéhez szükséges érvényes és hatályos szakvéleményére, szakhatósági állásfoglalására; a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fb) alpontja szerinti állapotra, illetve a magasabb összegű családi pótlékra jogosultság tartós betegségére tekintettel való igazolására,
 - f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására
 
 vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
@@ -317,7 +317,7 @@ a pályakövetési rendszerbe – a Kormány rendeletében meghatározottak szer
 
 továbbítható.
 
-(2) Az oktatási nyilvántartás működtetéséért felelős szerv a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából. Az adatszolgáltatás a középfokú nappali oktatás munkarendje szerint vagy felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytató gyermek nevére, az oktatási intézmény nevére és címére, valamint a tanulmányok kezdetének, illetve a tanulmányok befejezésének várható időpontjára terjed ki.
+(2) Az oktatási nyilvántartás működtetéséért felelős szerv a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és vármegyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából. Az adatszolgáltatás a középfokú nappali oktatás munkarendje szerint vagy felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytató gyermek nevére, az oktatási intézmény nevére és címére, valamint a tanulmányok kezdetének, illetve a tanulmányok befejezésének várható időpontjára terjed ki.
 
 (3) A tanulói nyilvántartás, illetve a tanulók és a képzésben részt vevő személyek nyilvántartása adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság, illetve a szakképzési államigazgatási szerv részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 
@@ -603,7 +603,7 @@ i)
   - k) a vizsgáztató mely idegen nyelveken vállal vizsgáztatást;
   - l) a vizsgáztató hol látott el elnöki feladatot a korábbi vizsgaidőszakokban;
   - m) az összeférhetetlenségre vonatkozó adatok;
-  - n) a vizsgáztató mely megyében vállal vizsgáztatói feladatot;
+  - n) a vizsgáztató mely vármegyében vállal vizsgáztatói feladatot;
   - o) a vizsgáztató által az adott vizsgaidőszakban ellátott vizsgáztatói feladatok részletes adatai: vizsgahelyszín, vizsga időpontja, ellátott vizsgáztatói feladat típusa;
   - p) a megbízásához egyéb jogszabály szerint szükséges adatok;
 - 2.4. A vizsgaszervező intézményre vonatkozóan:
@@ -1096,7 +1096,7 @@ b) a képzés első képzési napját és – a zárt rendszerű elektronikus t�
 
 c) a képzési díj mértékét és annak költségviselőjének megjelölését, valamint a képzési hitel igénybevételének és szünetelésének tényét, típusát és mértékét,
 
-d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát.
+d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát, a tanúsítvány kiállításának helyszínét, időpontját, valamint kiállítójának nevét és beosztását.
 
 III. Felnőttképzési szakértői törzs
 

@@ -139,6 +139,12 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 14. § A Kit. szerinti álláshely-nyilvántartásban nyilvántartott adatok a Kit. 62/A. § (5) bekezdése alapján a Kormány rendeletében meghatározott rendben kerülnek összekapcsolásra az adatgyűjtő modullal.
 
+#### 4/A. A szerepkör-tanúsító szolgáltatóval való kapcsolat
+
+14/A. § (1) A KSZDR a Kormány rendeletében meghatározott rendben átadja a foglalkoztatott egyes személyéhez köthető, valamint egyes szervezeti adatok körébe tartozó adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti szerepkör-tanúsítvány kiállítása érdekében a szerepkör-tanúsító szolgáltató részére.
+
+(2) A szerepkör-tanúsító szolgáltató részére átadásra kerülő adatokat a 8. melléklet tartalmazza.
+
 #### 5. Záró rendelkezések
 
 15. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
@@ -158,6 +164,7 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 - 13. a kormánytisztviselő Álláshely Nyilvántartó Rendszerben nyilvántartott adatainak elektronikus úton a KSZDR-be történő továbbításának rendjét,
 - 14. a 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartások vezetésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszert,
 - 15. azon állami fenntartású egészségügyi szolgáltatók meghatározását, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatátadást 2021. január 1-jén meg kell kezdeni.
+- 16. a szerepkör-tanúsítvány kiállítása érdekében a szerepkör-tanúsító szolgáltató részére átadásra kerülő adatok átadásának rendjét.
 
 16. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -1130,3 +1137,25 @@ sarkalatosnak minősül.
 - 12.10. ellenérték összege
 
 ### 8. melléklet a 2020. évi CLXII. törvényhez
+
+#### A szerepkör-tanúsító szolgáltató részére a szerepkör-tanúsítvány kiállítása érdekében a KSZDR által átadásra kerülő adatok köre
+
+- 1. Személyes adatok
+- 1.1. név (előtag, családi név, utónév)
+- 1.2. születési családi név, születési utónév
+- 1.3. születési hely és idő
+- 1.4. anyja születési neve (családi név és utónév)
+- 1.5. személyazonosító igazolvány száma
+- 2. Elérhetőségi adatok
+- 2.1. telefonszám
+- 2.2. e-mail cím
+- 3. Jogviszonnyal kapcsolatos adatok
+- 3.1. jelenlegi jogviszony típus megnevezése
+- 3.2. jelenlegi munkakör megnevezése (amennyiben a jogviszonyban értelmezhető)
+- 3.3. álláshelyen ellátandó feladat megnevezése (Kit.)
+- 3.4. jelenlegi beosztás és besorolás megnevezése
+- 3.5. jogviszony kezdete
+- 3.6. KSZDR azonosító (egyedi nyilvántartási azonosító)
+- 4. Munkáltató szervezet adatai
+- 4.1. jelenlegi szervezet megnevezése
+- 4.2. jelenlegi szervezeti egység megnevezése

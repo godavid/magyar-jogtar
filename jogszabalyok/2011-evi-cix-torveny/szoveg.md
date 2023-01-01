@@ -2,7 +2,9 @@
 
 a Magyar Művészeti Akadémiáról
 
-A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a kulturális értékek védelme és gyarapítása, a művészeti és történeti hagyományok megőrzése, a magas színvonalú művészi alkotómunka közösségi feltételeinek megerősítése, az alkotómunka szabadságának védelme, a magyar művészeti élet kimagasló teljesítményt nyújtó képviselőinek személyes megbecsülése céljából – létrehozza a köztestületként működő Magyar Művészeti Akadémiát.Ennek érdekében az Országgyűlés a következő törvényt alkotja.
+A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a kulturális értékek védelme és gyarapítása, a művészeti és történeti hagyományok megőrzése, a magas színvonalú művészi alkotómunka közösségi feltételeinek megerősítése, az alkotómunka szabadságának védelme, a magyar művészeti élet kimagasló teljesítményt nyújtó képviselőinek személyes megbecsülése céljából – létrehozza a köztestületként működő Magyar Művészeti Akadémiát.
+
+Ennek érdekében az Országgyűlés a következő törvényt alkotja.
 
 ### I. Fejezet — A MAGYAR MŰVÉSZETI AKADÉMIA JOGÁLLÁSA ÉS FELADATAI
 
@@ -153,7 +155,7 @@ rendelkező személy.
 
 #### 4.
 
-12. §
+#### 12. §
 
 #### 5. A közgyűlés
 
@@ -400,7 +402,7 @@ az MMA Titkársága látja el.
 - j) népművészet, valamint
 - k) cirkuszművészet.
 
-(3) A díjazott az adományozásról okiratot kap, jogosult a Nemzet Művésze cím viselésére, és az adományozást követő hónap első napjától élete végéig havi életjáradékban részesül. Az életjáradék összege havonta az öregségi nyugdíj mindenkori legkisebb összegének a huszonháromszorosa.
+(3) A díjazott az adományozásról okiratot kap, jogosult a Nemzet Művésze cím viselésére, és az adományozást követő hónap első napjától élete végéig havi életjáradékban részesül. Az életjáradék összege havonta a szociális vetítési alap összegének huszonháromszorosa.
 
 (4) Ha a díjazott Nemzet Színésze, Magyar Mozgókép Mestere vagy Magyar Állami Operaház Mesterművésze cím (a továbbiakban együtt: egyéb művészeti elismerés) viselésére is jogosult, a (3) bekezdés szerinti életjáradék igénybevételével egyidejűleg az egyéb művészeti elismerésre tekintettel a központi költségvetés terhére havi juttatásban, életjáradékban vagy egyéb jutalomban nem részesíthető.
 
@@ -495,7 +497,7 @@ részesült.
 
 (3) Aki több művészeti elismerésben, vagy több alkalommal azonos elismerésben részesült, csak az egyik elismerése alapján részesülhet művészjáradékban.
 
-(4) A művészjáradék havi mértéke az öregségi teljes nyugdíj jogszabályban meghatározott legkisebb összegének 425%-a. A művészjáradék élethosszig tartó juttatás.
+(4) A művészjáradék havi mértéke a szociális vetítési alap összegének 425%-a. A művészjáradék élethosszig tartó juttatás.
 
 28/M. § (1) A művészjáradék iránti kérelmet írásban kell előterjeszteni az MMA Titkárságán mint az eljáró közigazgatási hatóságnál
 
@@ -563,10 +565,58 @@ részesült.
 
 30/D. § A Módtv2.-vel megállapított 7. § (9) bekezdését első alkalommal a 2022. évi Nemzet Művésze díjak odaítélését követően kell alkalmazni azzal, hogy ezen egyszeri alkalommal nemcsak a Nemzet Művésze díj 2022. évi díjazottja választható – az Alapszabályban rögzített feltételekkel és az Alapszabály szerinti egyszerűsített eljárásban – rendes taggá, hanem a Nemzet Művésze címet a 2022. évet megelőzően elnyert díjazott is.
 
+30/E. § A Módtv2.-vel módosított 7. § (3) bekezdése szerinti létszámnak való megfelelés érdekében a Módtv2.-nek a 7. § (3) bekezdését módosító 30. § (2) bekezdése hatálybalépését követő első alkalommal az MMA rendes és levelező tagjainak megválasztását – a 30/D. §-ban meghatározott kivétellel – a 7. § (4)–(8) bekezdésétől, valamint 8. § (1) bekezdésétől eltérően a 30/F. §-ban és a 30/G. §-ban meghatározott eljárási szabályok szerint kell lefolytatni.
+
+30/F. § (1) Az akadémikus – az MMA elnöke felhívására és az általa megjelölt határidőn belül – ajánlást tehet egy rendes és egy levelező tag megválasztására. Az akadémikus csak olyan személyt ajánlhat, aki
+
+- a) megfelel az e törvény által a rendes vagy levelező taggal szemben támasztott követelményeknek, és
+- b) művészeti vagy művészetelméleti tevékenységét – a (2) bekezdésben meghatározott kivétellel – azon tagozat által képviselt művészeti ágban folytatja, amely tagozatban az ajánló akadémikus a szavazati jogát gyakorolja.
+
+(2) A Művészetelméleti Tagozatban szavazati jogot gyakorló akadémikus bármely művészeti ágra és tagozatra vonatkozóan benyújthat levelező tagságra való ajánlást, feltéve, hogy a levelező tagságra ajánlott művész az ajánló akadémikus által megjelölt tagozat által képviselt művészeti ágban folytatja munkáját.
+
+(3) Érvénytelen az ajánlás, ha az akadémikus
+
+- a) egy tagi státusz kategóriájában egynél több főt ajánl, vagy
+- b) olyan ajánlást tesz, amely nem felel meg az (1) bekezdés b) pontjában vagy a (2) bekezdésben meghatározott feltételeknek.
+
+(4) Az ajánlást az Alapszabály szerinti ajánlólapon kell benyújtani, és ahhoz mellékelni kell
+
+- a) a szakmai indokolást,
+- b) az ajánlott személy írásbeli nyilatkozatát arról, hogy hozzájárul a tagválasztási eljárásban való részvételhez, és megválasztása esetén elfogadja a tagságra vonatkozó előírásokat,
+- c) levelező tagságra való ajánlás esetén az ajánlott személy szakmai életrajzát és a legjelentősebb műveiről készült jegyzéket.
+
+(5) Érvényes, de hiányos ajánlás esetén egy alkalommal hiánypótlásnak van helye.
+
+(6) A tagozat által támogatott tagjelölt – a (7) bekezdésben meghatározott kivétellel – az a személy lehet,
+
+- a) akire nézve az ajánlás érvényes, hiánytalan, és megfelel az (1) bekezdés a) pontjában meghatározott feltételeknek, továbbá
+- b) akinek tagjelöltté válását a tagozat ülésén jelen lévő, a tagozat munkájában szavazati joggal részt vevő akadémikusok egyszerű többsége titkos szavazás során támogatja.
+
+(7) Művészetelméleti szakember – a (6) bekezdés a) pontjának megfelelő, nem a Művészetelméleti Tagozatban tett – levelező tagságra történő ajánlása esetén a tagozat szavaz arról, hogy támogatja-e az ajánlásnak a Művészetelméleti Tagozat részére a (8) bekezdés szerinti szavazás lefolytatása céljából való átadását. A tagozat a legtöbb szavazatot elnyert legfeljebb két jelölt ajánlását adhatja át a Művészetelméleti Tagozatnak. Szavazategyenlőség esetén a döntés érdekében a szavazás korlátlanul ismételhető.
+
+(8) A Művészetelméleti Tagozat által támogatott levelező tagjelöltté az a személy válik,
+
+- a) akinek ajánlása megfelel a (6) bekezdés a) pontjának, és
+- b) akinek levelező tagjelöltté válását a tagozat ülésén jelen lévő, a tagozat munkájában szavazati joggal részt vevő akadémikusok egyszerű többsége titkos szavazás során támogatja.
+
+(9) A tagozat által támogatott tagjelöltek közül – a (6) bekezdés b) pontja és a (8) bekezdés b) pontja szerinti szavazás során megszerzett szavazatok száma alapján, tagi státusz szerinti kategóriánként – az első tíz személy válik regisztrált tagjelöltté. Ha az első tíz helyen szavazategyenlőség miatt tíznél több támogatott tagjelölt áll, valamennyien regisztrált tagjelöltté válnak.
+
+30/G. § (1) Az elnökség meghatározza a felvehető rendes tagi létszámkeretet arra figyelemmel, hogy a Nemzet Művésze címmel nem rendelkező rendes tagok létszáma ne haladja meg a 245 főt.
+
+(2) Az elnökség a regisztrált rendes tagjelöltek művészeti és szakmai kiválósági szempontok alapján való értékelését követően – az (1) bekezdés szerinti létszámkeret figyelembevétele mellett – a jelen lévő tagjai egyszerű többségi szavazatával dönt arról, hogy mely személyek rendes taggá választását kezdeményezi, azzal, hogy szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3) Az elnökség a közgyűlés elé terjesztendő rendes tagjelöltek létszámának és a levelező tagok törvényi létszámhatárának figyelembevételével meghatározza a felvehető levelező tagi létszámkeretet, és a levelező tagok felvételére nézve is lefolytatja a (2) bekezdés szerinti eljárást.
+
+(4) A rendes és a levelező taggá választásról – közvetlen és titkos, listás szavazással, jelenlévő szavazati jogú tagjainak egyszerű többségével – a közgyűlés dönt oly módon, hogy a levelező tagokat a rendes tagok megválasztását követően kell megválasztani. A rendes és levelező tagsági jogviszony kezdőnapja a közgyűlésnek a rendes és a levelező taggá választásról hozott döntését követő nap. A megválasztott tag – a 20. § (3) bekezdésének megfelelően – nyilatkozik arról, hogy mely tagozat munkájában kíván szavazati joggal és tanácskozási joggal részt venni.
+
 #### 12. Módosuló rendelkezések
 
-31–32. §
+#### 31. §
 
-33. §
+#### 32. §
 
-34–35. §
+#### 33. §
+
+#### 34. §
+
+#### 35. §

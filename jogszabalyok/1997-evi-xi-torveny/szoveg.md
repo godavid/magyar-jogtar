@@ -134,7 +134,9 @@ azzal, hogy ahol e törvény korábbi vagy későbbi védjegyet említ, az időb
 - a) kielégíti az 1. §-ban meghatározott követelményeket, és a 2–7. §-ok alapján nincs kizárva a védjegyoltalomból; valamint
 - b) bejelentése megfelel az e törvényben megszabott feltételeknek.
 
-### II. Fejezet — A VÉDJEGYOLTALOMBÓL EREDŐ JOGOKÉS KÖTELEZETTSÉGEK
+### II. Fejezet — A VÉDJEGYOLTALOMBÓL EREDŐ JOGOK
+
+ÉS KÖTELEZETTSÉGEK
 
 ### Védjegyoltalmi igény
 
@@ -287,7 +289,7 @@ vonatkozó bármely feltételét.
 
 (8) A közös védjegyoltalomra vonatkozó szabályokat megfelelően alkalmazni kell a közös védjegyoltalmi igényre is.
 
-22. §
+#### 22. §
 
 ### IV. Fejezet — HASZNÁLATI SZERZŐDÉS
 
@@ -315,7 +317,9 @@ vonatkozó bármely feltételét.
 
 25. § A használati szerződés a jövőre nézve megszűnik a szerződésben megállapított idő vagy a szerződésben meghatározott körülmények bekövetkeztével, valamint akkor, ha a védjegyoltalom megszűnt.
 
-### A használati szerződésre vonatkozó rendelkezésekjellege
+### A használati szerződésre vonatkozó rendelkezések
+
+jellege
 
 26. § (1) A felek a használati szerződésre vonatkozó rendelkezésektől egyező akarattal eltérhetnek, ha jogszabály az eltérést nem tiltja.
 
@@ -468,7 +472,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (3) A megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása miatti megszűnés megállapítására irányuló kérelmet elutasító jogerős határozat kizárja, hogy azonos ténybeli alapon ugyanazzal a védjeggyel kapcsolatban bárki újabb eljárást indítson a védjegyoltalom megszűnésének megállapítása iránt.
 
-35/A. §
+#### 35/A. §
 
 ### A díjak visszakövetelése
 
@@ -518,7 +522,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (3) Védjegyügyekben nem alkalmazandó az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
-(4) Védjegyügyekben nem alkalmazandók az Ákr. jogutódlásra vonatkozó rendelkezései, sommás eljárásnak nincs helye és a kérelem a kormányablaknál nem terjeszthető elő.
+(4) Védjegyügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
 
 (5)
 
@@ -559,7 +563,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 41. § (1) Az e törvény által meghatározott határidők nem hosszabbíthatók meg. E határidők elmulasztásának jogkövetkezményei külön figyelmeztetés nélkül is bekövetkeznek.
 
-(2) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább harmincnapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható. Három hónapot meghaladó, illetve háromnál többszöri határidő-hosszabbítás csak különösen indokolt esetben adható.
+(2) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább egy hónapos, de legfeljebb három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre legalább egy hónappal, de legfeljebb három hónappal meghosszabbítható. Többszöri, illetve három hónapot meghaladó, de legfeljebb hat hónapos határidő-hosszabbítás különösen indokolt esetben adható.
 
 (3) A védjegyeljárásokban nem érvényesül az Ákr.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók az Ákr.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
 
@@ -590,7 +594,11 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala a védjegyeljárást az ügyfél kérelmére vagy hivatalból felfüggeszti, ha az ügy az azzal szorosan összefüggő, a hatáskörébe tartozó egyéb eljárásban hozott döntése nélkül megalapozottan nem dönthető el.
 
+(3a) A védjegyeljárás több ellenérdekű ügyfél esetén az ügyfelek együttes kérelmére szünetel. A szünetelést a Szellemi Tulajdon Nemzeti Hivatala végzéssel állapítja meg. Egy eljárás csak egy alkalommal szünetelhet. Az eljárást bármelyik ügyfél kérelmére folytatni kell. Hat hónap szünetelés után a csak kérelemre folytatható eljárás megszűnik.
+
 (4) A védjegy lajstromozására irányuló eljárás az ügyfél kérelmére nem függeszthető fel, kivéve, ha az (1) vagy a (3) bekezdés alkalmazásának volna helye.
+
+(4a) A védjegy lajstromozására irányuló eljárás – a 61/D. § (1) bekezdésében szabályozott eset kivételével – nem szünetelhet.
 
 (5) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor újra kezdődik.
 
@@ -625,7 +633,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 46. § (1) A védjegybejelentés iratait – a döntések tervezetei, továbbá az azokat és a szakértői véleményeket előkészítő, a felekkel nem közölt iratok, valamint a (2) bekezdésben foglaltak kivételével – bárki megtekintheti.
 
-(1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
+(1a)
 
 (2) Az Ákr.-ben szabályozott eseteken kívül nem tekinthetők meg a védjegylajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha az Ákr. rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
 
@@ -683,7 +691,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 46/D. § (1) Védjegyügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(2) Védjegyügyekben a gazdálkodó szervezet és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
+(2) Védjegyügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 
 ### VIII. Fejezet — A VÉDJEGYLAJSTROM, HATÓSÁGI TÁJÉKOZTATÁS
 
@@ -749,10 +757,11 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (3) A 38. § (2b) bekezdésétől eltérően a védjegybejelentési kérelemnek tartalmaznia kell a bejelentő nevét és lakcímét vagy székhelyét, képviselet esetén a bejelentő képviselőjének nevét és lakcímét vagy székhelyét, továbbá – nem elektronikus úton történő kapcsolattartás esetén – a kérelmező vagy képviselője aláírását.
 
-(3a) Ha a bejelentő vagy képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a védjegybejelentési kérelemnek a (3) bekezdésben meghatározott adatokon túl tartalmaznia kell
+(3a) Ha a kérelmező, illetve képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a kérelemnek a (3) bekezdésben meghatározott adatokon túl tartalmaznia kell
 
-- a) a természetes személy bejelentő, illetve képviselő születési helyét és idejét, valamint anyja nevét,
-- b) a nem természetes személy bejelentő, illetve képviselő adószámát.
+- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét,
+- b) a c) pont szerinti szervezetektől eltérő, nem természetes személy kérelmező, illetve képviselő adószámát, és
+- c) a hivatali kapu tárhely használatára kötelezett szervezetek esetén a hivatali kapu rövid nevét és KRID azonosítóját.
 
 (3b) A védjegybejelentést egyebekben a védjegybejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
@@ -762,7 +771,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (6) A bejelentő a lajstromozásig – a 32. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a védjegybejelentést.
 
-50/A. §
+#### 50/A. §
 
 ### A bejelentés napja
 
@@ -830,7 +839,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 ### Adatközlés
 
-57. §
+#### 57. §
 
 ### Észrevétel
 
@@ -903,14 +912,14 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 61/B. § (1) A védjegybejelentés meghirdetésének napjától számított három hónapon belül a 4–6. §-ok alapján a bejelentett megjelölés védjegyként való lajstromozásával szemben felszólalhat
 
-- a) a korábbi védjegy jogosultja és a védjegylajstromba bejegyzett használója;
+- a) a korábbi védjegy jogosultja és a használati szerződés alapján használati joggal bíró használója;
 - b) az 5. § (1) bekezdés a)–b) pontjában meghatározott jog jogosultja, továbbá iparjogvédelmi jog esetében a hasznosítási szerződés alapján hasznosítási joggal bíró hasznosító, szerzői jogi jogosultság esetében a felhasználási szerződés alapján felhasználásra jogosult személy;
 - c) az 5. § (2) bekezdés a) pontja alapján a korábbi használó, továbbá az 5. § (2) bekezdés b) pontja alapján az eredetmegjelölés vagy földrajzi jelzés oltalmából fakadó jogokat gyakorolni jogosult személy;
 - d) a 6. § alapján a jogosult, akinek az engedélye nélkül a képviselő, illetve az ügynök saját nevében jelentette be a megjelölést lajstromozásra.
 
-(2)
+(2) A felszólalást határidőben beérkezettnek kell tekinteni, ha azt ajánlott küldeményként az (1) bekezdésben meghatározott határidő lejárta előtt postára adták, kivéve, ha a beadvány a határidő lejártát követő két hónap eltelte után érkezett be.
 
-(3) A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), és mellékelni kell az okirati bizonyítékokat.
+(3) A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), azt részletesen indokolni kell, és mellékelni kell az alapul szolgáló bizonyítékokat.
 
 (4) A felszólalásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a felszólalás benyújtásától számított egy hónapon belül.
 
@@ -918,7 +927,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 61/C. § A felszólaló a védjegy lajstromozására irányuló eljárásban – a felszólalás tárgyában – ügyfélként vesz részt.
 
-61/D. § (1) Felszólalás esetén a felek számára – együttes kérelmük alapján – egy alkalommal legalább kettő, de legfeljebb négy hónapos határidőt kell biztosítani egyezségkötésre. Ez alatt az időszak alatt az eljárás szünetel.
+61/D. § (1) Felszólalás esetén a felek számára – együttes kérelmük alapján – egy alkalommal legalább kettő, de legfeljebb hat hónapos határidőt kell biztosítani egyezségkötésre. Ez alatt az időszak alatt az eljárás szünetel. Ha a felek a határidő lejártáig nem kérik az eljárás folytatását, a felszólalást visszavontnak kell tekinteni, és a védjegy lajstromozására irányuló eljárást folytatni kell.
 
 (1a) A Szellemi Tulajdon Nemzeti Hivatala a felszólalással kapcsolatban nyilatkozattételre hívja fel a bejelentőt; majd – a (2) bekezdésben szabályozott eset kivételével – írásbeli előkészítés után határoz a védjegy lajstromozásának kérdésében. Az eljárást befejező végzés és az egyezséget jóváhagyó határozat tárgyaláson kívül is meghozható.
 
@@ -926,7 +935,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (3) Ha a bejelentő a felhívásra a kitűzött határidőben nem nyilatkozik, vagy nem jelenik meg a tárgyaláson, a Szellemi Tulajdon Nemzeti Hivatala a felszólalást a rendelkezésére álló adatok alapján bírálja el.
 
-(4) A tárgyalás folyamán hozott végzéseket és a határozatot a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba is kell foglalni.
+(4) A tárgyalás folyamán hozott végzéseket és a határozatot a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba kell foglalni. Az írásba foglalt határozatot a kihirdetéskor jelen lévő feleknek nyomban, a meg nem jelent felek részére pedig a kihirdetéstől számított három napon belül kézbesíteni kell.
 
 (5) A döntés kihirdetése a rendelkező rész és az indokok rövid ismertetéséből áll.
 
@@ -1040,7 +1049,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (7) A védjegyoltalom megújítása kapcsán a megjelölés nem változtatható meg, az árujegyzék pedig nem bővíthető.
 
-65/A. §
+#### 65/A. §
 
 66. § (1) Ha a megújítási kérelem nem felel meg a 65. §-ban előírt követelményeknek – ideértve a megújítási díj megfizetését is –, a kérelmezőt hiánypótlásra, illetve nyilatkozattételre kell felhívni. Ha a megújítási kérelem díját csak részben fizették meg, a Szellemi Tulajdon Nemzeti Hivatala a kérelmezőt nyilatkozattételre hívja fel arra vonatkozóan, hogy a megújítást az árujegyzék mely részére nézve kéri.
 
@@ -1088,7 +1097,12 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 72. § (1) A védjegy törlését a 33. § alapján – a (2) bekezdésben meghatározott kivétellel – bárki kérheti a védjegyjogosulttal szemben.
 
-(2) A 4–6. §-ok alapján csak a korábbi akadályozó jog vagy jogok jogosultja kérheti a védjegy törlését.
+(2) A 4–6. § alapján a védjegy törlését kérheti
+
+- a) a korábbi védjegy jogosultja és a használati szerződés alapján használati joggal bíró használója,
+- b) az 5. § (1) bekezdésében meghatározott jog jogosultja, továbbá iparjogvédelmi jog esetében a hasznosítási szerződés alapján hasznosítási joggal bíró hasznosító, szerzői jogi jogosultság esetében a felhasználási szerződés alapján felhasználásra jogosult személy,
+- c) az 5. § (2) bekezdés a) pontja alapján a korábbi használó, továbbá az 5. § (2) bekezdés b) pontja alapján az eredetmegjelölés vagy földrajzi jelzés oltalmából fakadó jogokat gyakorolni jogosult személy, vagy
+- d) a 6. § alapján a jogosult, akinek az engedélye nélkül a képviselő, illetve az ügynök saját nevében jelentette be a megjelölést lajstromozásra.
 
 (3) A kérelemben meg kell jelölni a 38. § (2b) bekezdésében meghatározott adatokat, a törlés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat. A törlési kérelem – ha nem a védjegy teljes egészében való törlését célozza – irányulhat a védjegy árujegyzékének egy részére is.
 
@@ -1112,13 +1126,22 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (4) Ha a kérelmező a (2) bekezdésben szabályozott felhívásra nem válaszol, a törlési kérelmet visszavontnak kell tekinteni.
 
+(4a) A Szellemi Tulajdon Nemzeti Hivatala a feleknek a kitűzött határnap előtt legkésőbb három nappal előterjesztett, indokolt közös kérelmére a tárgyalást elhalasztja. Később előterjesztett közös kérelemre a tárgyalás kivételesen fontos okból halasztható el.
+
+(4b) A Szellemi Tulajdon Nemzeti Hivatala a kitűzött tárgyalást hivatalból – a tárgyalást megelőzően vagy a tárgyaláson – a tárgyalás megtartása nélkül csak fontos vagy a Szellemi Tulajdon Nemzeti Hivatala érdekkörében felmerült okból, az ok megjelölésével halaszthatja el.
+
+(4c) A tárgyalás elhalasztása esetén a Szellemi Tulajdon Nemzeti Hivatala az új tárgyalási határnap kitűzéséről egyidejűleg intézkedik.
+
 (5) A tárgyalás folyamán hozott döntéseket a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba is kell foglalni.
 
 (6) A döntés kihirdetése a rendelkező rész és az indokok rövid ismertetéséből áll.
 
 (7) A döntést – kivéve, ha annak kihirdetését a Szellemi Tulajdon Nemzeti Hivatala elhalasztotta – annak meghozatalától számított legkésőbb tizenöt napon belül kell írásba foglalni, és az írásba foglalást követő tizenöt napon belül kézbesíteni kell.
 
-73/A. § (1) A törlési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a védjegy bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
+73/A. § (1) A törlési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha
+
+- a) a védjegy bitorlása miatt pert indítottak és a per a kérelem benyújtásakor folyamatban van, vagy
+- b) a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják, feltéve, hogy az ideiglenes intézkedés iránti kérelem a gyorsított eljárással kapcsolatos kérelem előterjesztéséig nem került jogerősen elutasításra.
 
 (2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
 
@@ -1152,7 +1175,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (4) Ha a megszűnés megállapítása iránti kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megszűnés megállapítására irányuló kérelmet visszavontnak kell tekinteni.
 
-76. § (1) A Szellemi Tulajdon Nemzeti Hivatala a megszűnés megállapítása iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a védjegyjogosultat, majd – ha a védjegyjogosult a felhívásra határidőben nyilatkozik – írásbeli előkészítés után szóbeli tárgyalás alapján határoz a védjegyoltalom használat hiánya, megkülönböztető képesség elvesztése, illetve megtévesztővé válás miatti megszűnésének – teljes körű vagy részleges – megállapításáról vagy a kérelem elutasításáról. Ha a védjegyjogosult a Szellemi Tulajdon Nemzeti Hivatalának felhívására határidőben nem nyilatkozik, a Szellemi Tulajdon Nemzeti Hivatala a rendelkezésére álló adatok alapján, szóbeli tárgyalás megtartása nélkül dönt. Az eljárást befejező végzés tárgyaláson kívül is meghozható. A tárgyalás folyamán hozott döntések kihirdetésére, írásba foglalására és kézbesítésére a 73. § (5)–(7) bekezdését alkalmazni kell.
+76. § (1) A Szellemi Tulajdon Nemzeti Hivatala a megszűnés megállapítása iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a védjegyjogosultat, majd – ha a védjegyjogosult a felhívásra határidőben nyilatkozik – írásbeli előkészítés után szóbeli tárgyalás alapján határoz a védjegyoltalom használat hiánya, megkülönböztető képesség elvesztése, illetve megtévesztővé válás miatti megszűnésének – teljes körű vagy részleges – megállapításáról vagy a kérelem elutasításáról. Ha a védjegyjogosult a Szellemi Tulajdon Nemzeti Hivatalának felhívására határidőben nem nyilatkozik, a Szellemi Tulajdon Nemzeti Hivatala a rendelkezésére álló adatok alapján, szóbeli tárgyalás megtartása nélkül dönt. Az eljárást befejező végzés tárgyaláson kívül is meghozható. A tárgyalás elhalasztására, a tárgyalás folyamán hozott döntések kihirdetésére, írásba foglalására és kézbesítésére a 73. § (4a)–(7) bekezdését alkalmazni kell.
 
 (2) Az egy védjegy ellen irányuló több megszűnés-megállapítási kérelmet, valamint a törlési és a megszűnés megállapítására irányuló kérelmeket lehetőség szerint egy eljárásban kell elintézni.
 
@@ -1174,13 +1197,13 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 - b) európai uniós védjegy: az európai uniós védjegyrendelet 1. cikkének (1) bekezdésében meghatározott védjegy;
 - c) európai uniós védjegybejelentés: az európai uniós védjegyrendelet alapján tett – európai uniós védjegy lajstromozására irányuló – bejelentés.
 
-76/B. §
+#### 76/B. §
 
-76/C. §
+#### 76/C. §
 
 ### Az európai uniós védjegy bitorlásának jogkövetkezményei
 
-76/D. § Az európai uniós védjegy bitorlására – az európai uniós védjegyrendelet 14. cikkében foglaltakkal összhangban – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy bitorlására.
+76/D. § Az európai uniós védjegy bitorlására – az európai uniós védjegyrendelet 17. cikkében foglaltakkal összhangban – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy bitorlására.
 
 ### Nemzeti bejelentéssé való átalakítás
 
@@ -1215,7 +1238,7 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 (4)
 
-76/G. §
+#### 76/G. §
 
 ### Európai uniós védjegybíróság
 
@@ -1341,11 +1364,15 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 (5e) Ha a Szellemi Tulajdon Nemzeti Hivatala az ideiglenes elutasítást az érdemi vizsgálatot követően egészben vagy részben visszavonja, a visszavonásról szóló döntés jogerőre emelkedését követően értesíti a Nemzetközi Irodát az oltalom egészben vagy részben történő elismeréséről. A lajstromozás napjának a visszavonásról szóló döntés keltezésének napját kell tekinteni.
 
-(6)–(7)
+(6)
+
+(7)
 
 (8) A Szellemi Tulajdon Nemzeti Hivatala – a 48. § megfelelő alkalmazásával – bejegyzi a védjegylajstromba, hogy a Jegyzőkönyv 4bis cikke alapján a nemzetközi lajstromozás a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy helyébe lépett.
 
-### Átruházás és használati engedély hatályánakelutasítása
+### Átruházás és használati engedély hatályának
+
+elutasítása
 
 76/R. § (1) Ha a nemzetközi lajstromozásból eredő, Magyarország területére kiterjedő oltalom tekintetében a nemzetközi lajstromba bejegyzett átruházás, illetve használati engedély tárgyában a Szellemi Tulajdon Nemzeti Hivatala úgy találja, hogy az átruházás, illetve a használati engedély – részben vagy egészben – e törvény rendelkezéseibe ütközik, erről a Madridi Megállapodásban és a Jegyzőkönyvben meghatározott módon és határidőn belül – a Nemzetközi Iroda útján – értesíti a bejelentőt.
 
@@ -1530,7 +1557,7 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 93. § A Fővárosi Törvényszék végzése elleni fellebbezés elbírálása során a Pp. 389–391. §-ában foglaltakat kell megfelelően alkalmazni azzal, hogy a másodfokú bíróság erre irányuló kérelem esetén a feleket szóban is köteles meghallgatni, kivéve, ha a fellebbezést a Szellemi Tulajdon Nemzeti Hivatalának a 77. § (1) bekezdésének c) és d) pontjában meghatározott döntései ellen előterjesztett megváltoztatási kérelem tárgyában hozott végzéssel szemben nyújtották be.
 
-94. §
+#### 94. §
 
 ### XII. Fejezet — VÉDJEGYPEREK
 
@@ -1676,7 +1703,9 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 (8) A tanúsító védjegy használatára alkalmazni kell a minőség vagy egyéb jellemzők tanúsításáról rendelkező külön jogszabályok előírásait is.
 
-### XV. Fejezet — A VÉDJEGYEKRE VONATKOZÓ RENDELKEZÉSEK ALKALMAZÁSAAZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
+### XV. Fejezet — A VÉDJEGYEKRE VONATKOZÓ RENDELKEZÉSEK ALKALMAZÁSA
+
+AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 ### A védjegyekre vonatkozó rendelkezések alkalmazása
 
@@ -1694,7 +1723,7 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 (3) Az eredetmegjelölés valamely táj, helység, kivételes esetben ország neve, amelyet az e helyről származó – a meghatározott földrajzi területen termelt, feldolgozott, illetve előállított – olyan termék megjelölésére használnak, amelynek különleges minősége, hírneve vagy egyéb jellemzője kizárólag vagy lényegében az adott földrajzi környezet, az arra jellemző természeti és emberi tényezők következménye.
 
-104. §
+#### 104. §
 
 ### Kizáró okok
 
@@ -1790,7 +1819,11 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárásokban egyebekben a VII. és a VIII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)
 
 ### A földrajzi árujelző lajstromozására irányuló eljárás
 
@@ -1815,11 +1848,11 @@ ha a törlés, illetve a megszűnés megállapításának feltételei a védjegy
 
 (7) A földrajzi árujelző lajstromozására irányuló eljárásban az (1)–(5) bekezdésekben nem szabályozott kérdésekben a IX. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy ahol a törvény árujegyzékre utal, azon a termékjegyzéket kell érteni.
 
-113/A. §
+#### 113/A. §
 
 ### A törlési és a megszűnés megállapítási eljárás
 
-114. § A földrajzi árujelző oltalmának törlésére irányuló eljárásban a 72–74. §-ok, a megszűnés megállapítására irányuló eljárásban pedig a 75. és 76. §-ok rendelkezéseit kell megfelelően alkalmazni.
+114. § A földrajzi árujelző oltalmának törlésére irányuló eljárásban a 72–74. §, a megszűnés megállapítására irányuló eljárásban pedig a 75. és 76. § rendelkezéseit kell alkalmazni, azzal, hogy a Szellemi Tulajdon Nemzeti Hivatala a törlési és megszűnés megállapítása iránti kérelemmel kapcsolatban kizárólag a lajstromba bejegyzett jogosultakat hívja fel nyilatkozattételre.
 
 ### Bírósági eljárás a földrajzi árujelzők oltalmával kapcsolatban
 
@@ -2030,7 +2063,9 @@ meghatározott magatartás megvalósítása esetén.
 
 ## KILENCEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
-### XVIII. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE; ÁTMENETIÉS MÓDOSULÓ RENDELKEZÉSEK
+### XVIII. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE; ÁTMENETI
+
+ÉS MÓDOSULÓ RENDELKEZÉSEK
 
 ### A törvény hatálybalépésére vonatkozó és az átmeneti rendelkezéseket megállapító szabályok
 
@@ -2067,7 +2102,7 @@ meghatározott magatartás megvalósítása esetén.
 
 (5) A 3. § (2) bekezdésének 2009. augusztus 1-jétől hatályos rendelkezéseit alkalmazni kell azokban az ügyekben is, amelyek 2009. augusztus 1-jén folyamatban voltak.
 
-120. §
+#### 120. §
 
 120/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

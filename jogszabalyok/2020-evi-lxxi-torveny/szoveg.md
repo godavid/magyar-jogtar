@@ -16,6 +16,8 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 - b) amely az ingatlan-nyilvántartásban tanyaként szerepel, továbbá
 - c) amely az ingatlan-nyilvántartás szerint a település zártkertjében fekszik és a földrészlet teljes területe – a tényleges használata alapján – nem minősül mező- vagy erdőgazdasági hasznosításúnak.
 
+(3) A (2) bekezdés c) pontjában foglaltaktól eltérően a 2. alcím rendelkezései a (2) bekezdés c) pontja szerinti ingatlanok tekintetében alkalmazhatóak abban az esetben, ha a 6. § (3) bekezdése szerinti egyezség a tulajdonostársak teljes körű beleegyezésével jön létre.
+
 2. § Az e törvény szerinti eljárások során az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.), az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.), a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény, a Földforgalmi törvény, valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 2/A. § A II. Fejezet szerinti eljárások során az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
@@ -40,7 +42,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 (3) A kérelmet vissza kell utasítani, ha
 
-- a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 16., 18., 20., 21., 26., illetve 29. pontjában meghatározott tény szerepel;
+- a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 16., 18., 20., 21., 26., 29., illetve 37. pontjában meghatározott tény szerepel;
 - b) az érintett ingatlan tulajdoni lapján a folyamatban lévő megosztás ténye van feljegyezve;
 - c) az érintett ingatlan tulajdoni lapján széljegy van feltüntetve;
 - d) az érintett ingatlan valamely tulajdoni hányadára vonatkozóan tulajdonátruházás hatósági jóváhagyása iránti eljárás van folyamatban;
@@ -59,7 +61,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 (5) A folyamatban lévő megosztás tényének feljegyzését követően az ingatlan tulajdoni lapján és térképi állományán az öröklés miatt bekövetkezett tulajdonváltozás – ideértve az özvegyi jog bejegyzését is – és a kisajátítás – ideértve a kisajátítást pótló adásvétel és csere esetét is – kivételével más változtatás nem vezethető át. A tény feljegyzését követően benyújtott egyéb kérelmeket vagy megkereséseket az ingatlanügyi hatóság függőben tartja a megosztás tényének törléséig.
 
-(6) A folyamatban lévő megosztás tényét az ingatlanügyi hatóság hivatalból törli, ha a feljegyzést követő 90 napon belül nem kerül benyújtásra a megosztás átvezetése iránti kérelem.
+(6) A folyamatban lévő megosztás tényét az ingatlanügyi hatóság hivatalból törli, ha a feljegyzést követő 120 napon belül nem kerül benyújtásra a megosztás átvezetése iránti kérelem.
 
 (7) Az osztatlan közös tulajdon megszüntetéséért tizenötezer forint igazgatási szolgáltatási díjat kell fizetni.
 
@@ -114,7 +116,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 9. § (1) A tulajdonostársak az egyezség keretében kötelesek rendelkezni a megosztásra kerülő ingatlant érintő jogoknak és tényeknek a megosztás eredményeként létrejövő új ingatlanokra történő átjegyzéséről, kivéve, ha a jog vagy tény igazolt módon megszűnt. A tulajdonostársak az egyezség keretében kötelesek továbbá rendelkezni a megosztásra kerülő ingatlan vonatkozásában a tulajdonostársak valamelyikének tulajdonában álló, a földtől elválaszthatatlan vagyontárgyak tulajdonba adásáról és értékének megtérítéséről vagy további használatuk feltételeinek a meghatározásáról.
 
-(2) Az (1) bekezdésben foglaltak teljesítéséhez a tulajdonostársak adatszolgáltatás keretében kérhetik az ingatlanügyi hatóságtól a megosztandó ingatlan tulajdoni lapján szereplő jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzok kiadását. Az ingatlanügyi hatóság az adatszolgáltatásnak a megkereséstől számított 15 napon belül köteles eleget tenni.
+(2) Az (1) bekezdésben foglaltak teljesítéséhez a tulajdonostársak adatszolgáltatás keretében kérhetik az ingatlanügyi hatóságtól a megosztandó ingatlan tulajdoni lapján szereplő helyhez kötött jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzok kiadását. Az ingatlanügyi hatóság az adatszolgáltatásnak a megkereséstől számított 15 napon belül eleget tesz.
 
 (3) A jogok és tények tervezett átjegyzését a térképvázlaton és a területkimutatáson fel kell tüntetni és azt jóváhagyás céljából meg kell küldeni valamennyi bejegyzett jog vagy tény jogosultja számára.
 
@@ -128,9 +130,9 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 (2) Ha az (1) bekezdésben foglaltak szerint út kialakítására nem kerül sor, úgy az egyezségben rendelkezni kell a megközelítésüket biztosító szolgalmi jog alapításáról.
 
-11. § (1) Az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan – ide nem értve az ingatlanok megközelítésére szolgáló utat – nem lehet szőlő, kert, gyümölcsös, nádas művelési ág esetén 3000 m2-nél, szántó, rét, legelő, erdő és fásított terület művelés ág esetén 10 000 m2-nél kisebb területnagyságú. Vegyes művelési ágú ingatlan esetén a kisebb területi minimummal rendelkező művelési ágra vonatkozó mérték irányadó.
+11. § (1) Az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan – ide nem értve az ingatlanok megközelítésére szolgáló utat – nem lehet szőlő, kert, gyümölcsös, nádas művelési ág esetén 3000 m2-nél, szántó, rét, legelő, erdő és fásított terület művelési ág esetén 10 000 m2-nél kisebb területnagyságú. Vegyes művelési ágú ingatlan esetén a kisebb területi minimummal rendelkező művelési ágra vonatkozó mérték irányadó. Erdőnek minősülő ingatlan esetén az Evt.-nek az erdő megosztására irányadó további előírásait nem kell alkalmazni.
 
-(2) Ha a megosztási eljárás tárgya zártkerti földnek minősülő ingatlan, az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan nem lehet 1500 m2-nél kisebb területnagyságú.
+(2) Ha a megosztási eljárás tárgya zártkerti földnek minősülő ingatlan, az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan nem lehet 500 m2-nél kisebb területnagyságú.
 
 (3) Az (1) bekezdésben az erdő művelési ágra vonatkozó területi minimumot kell alkalmazni az olyan ingatlanra is, amely az ingatlan-nyilvántartásban művelés alól kivett területként van nyilvántartva és amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve.
 
@@ -191,11 +193,11 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 #### 4. A tulajdonszerzés közös szabályai
 
-17. § (1) Az ingatlanban a megosztást megelőzően fennálló tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának e törvény alapján történő megszerzésére csak az a tulajdonostárs jogosult, aki
+17. § (1) Az ingatlanban az osztatlan közös tulajdon megszüntetését megelőzően fennálló tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának e törvény alapján történő megszerzésére csak az a tulajdonostárs jogosult, aki
 
-- a) az adott ingatlanban legalább 3 éve rendelkezik tulajdonrésszel;
-- b) tulajdonrészét öröklés jogcímen szerezte; vagy
-- c) tulajdonrészét közeli hozzátartozójától szerezte.
+- a) az adott ingatlanban legalább 3 éve rendelkezik tulajdonrésszel,
+- b) tulajdonrészét öröklés jogcímen szerezte, vagy
+- c) tulajdonrészét közeli hozzátartozójától szerezte, ha a tulajdonostárs és közeli hozzátartozója együttesen az adott ingatlanban legalább 3 éve rendelkezik tulajdonrésszel.
 
 (2) Az e törvény alapján történő földtulajdonszerzés esetén a Földforgalmi törvény 10. § (2) bekezdését, valamint a 12–17. §-át nem kell alkalmazni.
 
@@ -225,6 +227,12 @@ használja, vagy
 
 (9) Ha az e törvény alapján megszerzett tulajdonrész jelzálogjoggal vagy végrehajtási joggal terhelt, a megszerzett tulajdonrész tulajdonosa csak a megszerzett tulajdonrész értékéig tartozik a követelésért helyt állni.
 
+(9a) Ha az e törvény alapján megszerzett tulajdonrész végrehajtási joggal terhelt és árverés kitűzésére (ideértve a sikertelen árverést követő megismételt árverést is) még nem került sor, a megszerzett tulajdonrész ellenértékét a végrehajtóhoz – több végrehajtási jog esetén az első ranghelyű végrehajtási jog jogosult végrehajtójához – kell teljesíteni.
+
+(9b) A (9a) bekezdésben foglaltak alkalmazása során, ha az ingatlan becsértéke nem került még megállapításra, a tulajdonrész ellenértékeként az e törvény végrehajtására kiadott rendelet szerinti értékbecslési ajánlatban, vagy a 12. § (4) bekezdése, illetve a 16. § (4) bekezdése alapján a tulajdonostársak által készíttetett értékbecslési szakvéleményben megállapított értéket kell figyelembe venni. Ha a végrehajtó az így meghatározott értékkel nem ért egyet, akkor a 12. § (4) bekezdésében és a 16. § (4) bekezdésében foglaltak alkalmazásával igazságügyi szakértővel új értékbecslési szakvéleményt készíttethet. Ha az ingatlan becsértéke megállapításra került, a tulajdonrész ellenértékeként a becsértéket kell figyelembe venni.
+
+(9c) A végrehajtó az ellenérték beérkezését követően az e törvény végrehajtására kiadott rendeletben foglaltak szerint megteszi a szükséges intézkedéseket a tulajdonrészt érintően a lefoglalás megszüntetése és a végrehajtási jognak a tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg történő töröltetése iránt.
+
 (10) Az e törvény alapján történő tulajdonszerzés esetén védett természeti területnek minősülő ingatlanban fennálló állami tulajdoni hányad is elidegeníthető.
 
 17/A. § (1) Ha az ellenérték megfizetését bírósági letétbe helyezéssel kell teljesíteni, annak összegét a letevő akkor követelheti vissza, ha a tulajdonjog bejegyzés iránti kérelemről az ingatlanügyi hatóság olyan tartalmú végleges döntést hozott, mely alapján a tulajdonjog bejegyzésére nem kerülhetett sor.
@@ -245,6 +253,52 @@ használja, vagy
   - bb) a 30 főt meghaladja és az ingatlan hektárban kifejezett területnagyságának mértéke és tulajdonosai számának hányadosa kisebb, mint 0,5.
 
 (2) A Nemzeti Földalap kezeléséért felelős szerv az adott költségvetési évben a földvásárlásra rendelkezésre álló költségvetési keret alapján dönt a kisajátítási eljárás megindításáról.
+
+#### 5/A. Az osztatlan közös tulajdon megszüntetése öröklés esetén
+
+18/A. § (1) Ha a 2022. december 31. napját követően meghalt örökhagyó kizárólagos tulajdonában álló ingatlant a törvényes öröklés szabályai szerint több örököstárs közösen örökli, – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is –, annak érdekében, hogy az ingatlanon ne keletkezzen osztatlan közös tulajdon,
+
+- a) az örököstársak osztályos egyezséget kötnek,
+- b) az ingatlant (az ingatlanból az örökrészét) az örököstárs vagy örököstársak az öröklésben érdekelt más személyre, a kieséses örökösre vagy a hagyatéki hitelezőre átruházza, illetve átruházzák, akként, hogy ezzel közös tulajdon nem keletkezik,
+- c) az örököstársak az ingatlant egyben értékesítik, vagy
+- d) az örököstársak az ingatlant, illetve az örökrészt az állam javára ingyenesen felajánlják.
+
+(2) Az (1) bekezdés c) pontja szerinti értékesítés során eladóként az örököstársak közössége vesz részt. A vevő tulajdonjogának ingatlan-nyilvántartási átvezetéséhez a jogerős teljes hatályú hagyatékátadó végzést, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító jogerős végzést, a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény (a továbbiakban: He.) 89. §-a szerinti jogerős végzést, illetve a hagyatéki perben hozott jogerős ítéletet is csatolni kell. Az ingatlan-nyilvántartásban az örököstársak közösségének tagjait közbenső jogszerzőként kell feltüntetni az egyes örököstársakat illető tulajdoni hányad feltüntetése nélkül.
+
+(3) Ha az (1) bekezdésben foglaltak nem vezetnek eredményre, az ingatlanban fennálló tulajdoni hányadot az örököstársak – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – a törvényes öröklés szabályai szerint öröklik meg (a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örökös pedig kötelesrész kiadása jogcímén szerzi) azzal, hogy azt a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt éven belül
+
+- a) egyben értékesíteniük kell,
+- b) egyikük tulajdonába kell adni,
+- c) az állam javára ingyenesen fel kell ajánlaniuk, vagy
+- d) az ingatlanon fennálló osztatlan közös tulajdont a 2. alcím szerinti eljárás vagy – a feltételeinek fennállása esetén – a 3. alcím szerinti eljárás kezdeményezésével meg kell szüntetniük.
+
+(4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti tulajdoni hányad kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
+
+(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában.
+
+(6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét a (3) bekezdés szerinti jogügyletek ingatlan-nyilvántartási átvezetésével vagy a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg.
+
+18/B. § (1) Ha a 2022. december 31. napját követően megnyílt hagyaték tárgya osztatlan közös tulajdonban álló ingatlanban fennálló tulajdoni hányad és a törvényes öröklés szabályai szerint több örököstárs közösen örökli, – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is –, annak érdekében, hogy az ingatlan tulajdonostársainak száma ne növekedjen,
+
+- a) az örököstársak osztályos egyezséget kötnek,
+- b) az ingatlant (az ingatlanból az örökrészét) az örököstárs vagy örököstársak az öröklésben érdekelt más személyre, a kieséses örökösre vagy a hagyatéki hitelezőre átruházza, illetve átruházzák, akként, hogy ezzel – egymás közötti viszonyukban, az adott tulajdoni hányadra – közös tulajdon nem keletkezik,
+- c) az örököstársak az ingatlanban fennálló tulajdoni hányadot egyben értékesítik, vagy
+- d) az örököstársak az ingatlant, örökrészt, illetve tulajdoni hányadot az állam javára ingyenesen felajánlják.
+
+(2) Az (1) bekezdés c) pontja szerinti eljárásban az örököstársak közössége vesz részt. A vevő tulajdonjogának ingatlan-nyilvántartási átvezetéséhez a jogerős teljes hatályú hagyatékátadó végzést, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító jogerős végzést, a He. 89. §-a szerinti jogerős végzést, illetve a hagyatéki perben hozott jogerős ítéletet is csatolni kell. Az ingatlan-nyilvántartásban az örököstársak közösségének tagjait közbenső jogszerzőként kell feltüntetni az egyes örököstársakat illető tulajdoni hányad feltüntetése nélkül.
+
+(3) Ha az (1) bekezdésben foglaltak nem vezetnek eredményre, az ingatlanban fennálló tulajdoni hányadot az örököstársak – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – a törvényes öröklés szabályai szerint öröklik meg (a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örökös pedig kötelesrész kiadása jogcímén szerzi) azzal, hogy azt a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt éven belül
+
+- a) egyben értékesíteniük kell,
+- b) egyikük tulajdonába kell adni,
+- c) az állam javára ingyenesen fel kell ajánlaniuk, vagy
+- d) az ingatlanon fennálló osztatlan közös tulajdont a 2. alcím szerinti eljárás vagy – a feltételeinek fennállása esetén – a 3. alcím szerinti eljárás kezdeményezésével meg kell szüntetniük.
+
+(4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti tulajdoni hányad kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
+
+(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában.
+
+(6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét a (3) bekezdés szerinti jogügyletek ingatlan-nyilvántartási átvezetésével vagy a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg.
 
 ### III. Fejezet — A FÖLDNEK MINŐSÜLŐ INGATLANOK JOGOSULTJAI ADATAINAK INGATLAN-NYILVÁNTARTÁSI RENDEZÉSÉRŐL
 
@@ -336,6 +390,7 @@ használja, vagy
 - a) a földnek minősülő ingatlanokon fennálló osztatlan közös tulajdonnak az ingatlan megosztásával történő megszüntetésének részletes szabályait,
 - b) a földnek minősülő ingatlanokon fennálló osztatlan közös tulajdonnak az ingatlan egyetlen tulajdonostárs általi megváltása útján történő megszüntetése részletes szabályait.
 - c) a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésére irányuló hatósági eljárás, továbbá ezen eljárás soron kívüli lefolytatásának részletes szabályait.
+- d) a 18/A. § (4) bekezdése és a 18/B. § (4) bekezdése szerinti kényszerértékesítés részletes szabályait.
 
 #### 7. Hatályba léptető rendelkezés
 
@@ -345,43 +400,45 @@ használja, vagy
 
 30/A. § A 16. §-nak az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvénnyel (a továbbiakban: Módtv1.) megállapított rendelkezéseit az ingatlanügyi hatóságnál a Módtv1. hatálybalépését követően megindított ügyekben kell alkalmazni.
 
+30/B. § A 4. § (6) bekezdésének az egyes földügyi tárgyú törvények módosításáról szóló 2022. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit alkalmazni kell az ingatlanügyi hatóságnál a Módtv2. hatálybalépésekor folyamatban lévő tényfeljegyzésre irányuló eljárásokban is, továbbá azokban az esetekben, amikor a tényfeljegyzésre a Módtv2. hatálybalépését megelőzően kerül sor, és a tényfeljegyzés óta 90 nap még nem telt el, feltéve, hogy az ingatlanügyi hatóság a megosztás átvezetése iránti kérelem alapján indult eljárásban a kérelmet még nem utasította vissza, érdemben nem utasította el és az eljárást nem szüntette meg.
+
 #### 8. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 31. § A 2. §, a 7. § (2) bekezdése, a 17. § (1)–(4) bekezdése, a 41. §, és a 42. § az Alaptörvény P) cikkének (2) bekezdése alapján sarkalatosnak minősül.
 
 #### 9. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
 #### 10. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
 #### 11. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
 #### 12. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 13. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
 #### 14. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
 #### 15. A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésére irányuló hatósági eljárás különös szabályai
 

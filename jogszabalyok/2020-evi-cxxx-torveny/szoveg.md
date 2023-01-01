@@ -46,6 +46,7 @@ is alkalmazni kell.
 - 1. alacsonyabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél alacsonyabb besorolási osztályba vagy azonos besorolási osztály esetén alacsonyabb besorolási kategóriába tartozik, azonos besorolási kategória esetén központi szervnél betöltött munkakörhöz képest a területi szervnél betöltött munkakör, továbbá a vezetői munkakört betöltők esetében a nem vezetői munkakör vagy az alacsonyabb vezetői munkakör is;
 - 2. alacsonyabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakörhöz képest alacsonyabb besorolási kategóriába tartozik;
 - 3. alapvető munkáltatói jog: a kinevezés, a jogviszony-megszüntetés, a fegyelmi, a méltatlansági és a kártérítési eljárás, valamint a sérelemdíj megfizetésére irányuló eljárás megindítása, a fegyelmi büntetés, a kártérítés, a sérelemdíj, az összeférhetetlenség megállapítása, a kinevezés tartalmának módosítása;
+- 3a. apa: a Ptk. szerint apai jogállású férfi, vagy az örökbefogadó férfi;
 - 4. azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik, továbbá azonos szervezeti szinten helyezkedik el;
 - 5. azonos vezetői munkakör: az a vezetői munkakör, amelynek besorolási kategóriája megegyezik a betöltött munkakör besorolási kategóriájával;
 - 6. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
@@ -56,7 +57,8 @@ is alkalmazni kell.
 - 11. felettes: a foglalkoztatott vonatkozásában vezetői vagy magasabb vezetői munkakörénél fogva utasítás kiadására vagy munkáltatói jogkör gyakorlására jogosult személy;
 - 12. foglalkoztató NAV szerv: a NAV-nak az a központi vagy területi szerve, amelynek állományába a foglalkoztatott, a munkavállaló tartozik;
 - 13. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
-- 14. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+- 13a. gondozást végző foglalkoztatott: az a foglalkoztatott, aki a kezelőorvos által igazolt súlyos egészségügyi okból jelentős gondozásra vagy támogatásra szoruló hozzátartozójának, vagy a foglalkoztatottal közös háztartásban élő személynek személyes gondozást vagy támogatást nyújt;
+- 14. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik vagy gondozzák, valamint a 13. pont szerinti fogyatékos gyermeket is;
 - 15. gyermekét egyedül nevelő foglalkoztatott: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált vagy házastársától külön él és nincs élettársa;
 - 16. magasabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik vagy magasabb vezetői munkakörnek minősül, azonos besorolási kategória esetén a területi szervnél betöltött munkakörhöz képest a központi szervnél betöltött munkakör, továbbá a nem vezetői munkakört betöltők esetében a vezetői munkakör is;
 - 17. magasabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakör besorolási kategóriájánál magasabb besorolási kategóriába tartozik;
@@ -663,6 +665,22 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) Ha a kinevezés érvénytelenségét a munkába lépés előtt állapítják meg, akkor az érvénytelenséget előidéző ok megszüntetéséig a foglalkoztatott nem állítható munkába. Ha az érvénytelenség oka a munka megkezdése után jut a kinevezési jogkört gyakorló tudomására, a foglalkoztatottat az érvénytelenség orvoslásáig a munkavégzéstől el kell tiltani.
 
+#### 41/A. § [ A munkáltatót terhelő tájékoztatási kötelezettség]
+
+(1) A munkáltatói jogkör gyakorlója legkésőbb a szolgálati jogviszony kezdetétől számított hét napon belül írásban tájékoztatja a foglalkoztatottat
+
+- a) az alkalmazható munkarendekről és azok kereteiről,
+- b) az illetménnyel való elszámolás módjáról, az illetményfizetés gyakoriságáról, a kifizetés napjáról,
+- c) az illetmény- és egyéb juttatások megállapításának szabályairól,
+- d) a szabadságnapok számítási módjáról és kiadásának szabályairól,
+- e) a szolgálati jogviszony megszűnésével vagy megszüntetésével összefüggő szabályokról, különösen a felmentési idő megállapításának szabályairól,
+- f) a munkáltató képzési politikájáról, a foglalkoztatott által igénybe vehető képzésre fordítható idő tartamáról, valamint
+- g) a hatóság megnevezéséről, amely részére a munkáltató a foglalkoztatással kapcsolatos közterhet megfizeti.
+
+(2) Az (1) bekezdésben előírt tájékoztatás szolgálati jogviszonyra vonatkozó szabály rendelkezésére hivatkozással is megadható.
+
+(3) Az (1) bekezdésben meghatározottak változásáról a munkáltató a foglalkoztatottat legkésőbb a változás hatálybalépésének napján írásban tájékoztatja. Nem terheli a munkáltatót tájékoztatási kötelezettség, ha a tájékoztatást a (2) bekezdés szerint adta meg.
+
 #### 42. § [Speciális kinevezési szabályok]
 
 (1) Ha a kinevezés a miniszter vagy a NAV elnöke hatáskörébe tartozik, a pénzügyőri állományba vételt és rendfokozatba kinevezést a miniszter vagy a NAV elnöke, egyéb, a munkakörbe helyezéssel kapcsolatos rendelkezést a munkáltatói jogkör gyakorlójának munkáltatói intézkedése tartalmazza.
@@ -786,6 +804,12 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 (6) Az (1)–(5) bekezdés nem alkalmazható a vezetői munkakört betöltő foglalkoztatott tekintetében.
 
+49/A. § (1) A foglalkoztatott gyermeke nyolcéves koráig, valamint a gondozást végző foglalkoztatott kérheti a részmunkaidőben való foglalkoztatását. A foglalkoztatottnak kérelmét írásban indokolnia kell és meg kell jelölnie a módosítás időpontját.
+
+(2) Az (1) bekezdés szerinti kérelemre a munkáltatói jogkör gyakorlója tizenöt napon belül köteles írásban nyilatkozni. A kérelem elutasítása esetén a munkáltatói jogkör gyakorlója a nyilatkozatát köteles megindokolni. A kérelem jogellenes elutasítása vagy a nyilatkozat elmulasztása esetén a bíróság a munkáltató hozzájáruló nyilatkozatát pótolja.
+
+(3) A gondozást végző foglalkoztatott a részmunkaidőt legkorábban a kezelőorvos által kiállított igazolás munkáltatóhoz történő benyújtásától számított 15 napot követően veheti igénybe, legfeljebb két év időtartamra.
+
 ### VII. Fejezet — KINEVEZÉSTŐL ELTÉRŐ IDEIGLENES FOGLALKOZTATÁS
 
 #### 50. § [Kinevezéstől eltérő ideiglenes foglalkoztatás közös szabályai]
@@ -848,7 +872,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 (1) A munkáltatói jogkör gyakorlója a foglalkoztató NAV szerv a szervezetszerű működési területén kívüli munkavégzésre kötelezheti a foglalkoztatottat (kiküldetés). Ennek feltétele, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlója irányítása és utasítása alapján végezze a munkát. A kiküldetés alapján történő munkavégzés időtartama tisztviselők esetén nem haladhatja meg – a munkáltatói jogkör gyakorlója és a tisztviselő eltérő megállapodása hiányában – naptári évenként a negyvennégy munkanapot. Ha a kiküldetés időtartama egy munkanapon belül a négy órát meghaladja, azt egy munkanapként kell számításba venni.
 
-(2) Ha a foglalkoztató NAV szerv szervezetszerű működési területe a főváros vagy annak egyes kerületei, illetve Pest megye területére terjed ki, kiküldetésnek – feltéve, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlójának irányítása és utasítása alapján végzi a munkát – az minősül, ha a foglalkoztatottat a munkáltatói jogkör gyakorlója a főváros és Pest megye közigazgatási határain kívüli munkavégzésre kötelezi.
+(2) Ha a foglalkoztató NAV szerv szervezetszerű működési területe a főváros vagy annak egyes kerületei, illetve Pest vármegye területére terjed ki, kiküldetésnek – feltéve, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlójának irányítása és utasítása alapján végzi a munkát – az minősül, ha a foglalkoztatottat a munkáltatói jogkör gyakorlója a főváros és Pest vármegye közigazgatási határain kívüli munkavégzésre kötelezi.
 
 (3) Ha a foglalkoztató NAV szerv szervezetszerű működési területe az ország egész területére kiterjed, kiküldetésnek – feltéve, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlójának irányítása és utasítása alapján végzi a munkát – az minősül, ha a foglalkoztatottat a munkáltatói jogkör gyakorlója a munkavégzési hely szerinti régió közigazgatási határain kívüli munkavégzésre kötelezi.
 
@@ -990,6 +1014,22 @@ a NAV elnöke, tábornok esetén a miniszter külföldre vezényli a külföldi 
 
 (5) Az (1) bekezdés szerinti programban egyes részfeladatok végrehajtásáért felelős szakértőként részt vevő, a megvalósítás időtartama alatt esetileg a kedvezményezett országban tartózkodó foglalkoztatottra a (3) bekezdést nem kell alkalmazni.
 
+#### 62/A. § [A munkáltatót terhelő tájékoztatási kötelezettség külföldi munkavégzés esetén]
+
+(1) A várhatóan négy egymást követő hetet meghaladó, a 60–62. §-ban meghatározott külföldön történő munkavégzés esetén a foglalkoztatottat legkésőbb a külföldre való kiutazást megelőző hét nappal írásban tájékoztatni kell
+
+- a) a külföldi munkavégzés helyéről, tartamáról,
+- b) a pénzbeli és a természetbeni juttatásról,
+- c) a munkavégzés helyén irányadó díjazás, valamint az utazási, étkezési és lakhatási költségek megtérítésének szabályairól, feltételeiről,
+- d) a díjazás és egyéb juttatás pénzneméről,
+- e) a hazatérésre irányadó szabályokról.
+
+(2) Nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak, vagy amiről szolgálati jogviszonyra vonatkozó jogszabály rendelkezik.
+
+(3) Az (1) bekezdés c)–e) pontjában előírt tájékoztatás szolgálati jogviszonyra vonatkozó szabály rendelkezésére történő hivatkozással is megadható.
+
+(4) Az (1) bekezdésben meghatározott munkafeltételek változásáról a munkáltató a 41/A. § (3) bekezdésében foglaltak szerint tájékoztatja a foglalkoztatottat.
+
 #### 63. § [Szolgálati jogviszony szünetelése NAV elnökévé történő kinevezés esetén]
 
 (1) Ha a foglalkoztatottat a NAV elnökévé nevezik ki, a kinevezéstől e megbízatás megszűnéséig szünetel a szolgálati jogviszonya.
@@ -1051,6 +1091,18 @@ A szolgálati jogviszony megszüntethető:
 - d) azonnali hatállyal a próbaidő alatt,
 - e) áthelyezéssel a Kttv. szerinti kormányzati szolgálati jogviszonyt és közszolgálati jogviszonyt, hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, közalkalmazotti jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez, illetve a Magyar Honvédséghez (jogviszonyváltás),
 - f) a hivatalvesztés fegyelmi büntetéssel.
+
+#### 67/A. § [Speciális indokolási kötelezettség]
+
+(1) A munkáltató – a foglalkoztatott kérelmére – indokolási kötelesség hiányában is megindokolja a szolgálati jogviszony megszüntetésére irányuló jognyilatkozatát, ha a foglalkoztatott hivatkozása szerint a szolgálati jogviszony megszüntetésére
+
+- a) a 49/A. § szerint biztosított részmunkaidő,
+- b) a 85. § (1) bekezdés p) pontja szerinti munkaidő-kedvezmény, vagy
+- c) a 122. § szerinti apasági szabadság vagy a 122/A. § szerinti szülői szabadság
+
+igénylése vagy igénybevétele miatt került sor.
+
+(2) A foglalkoztatott az (1) bekezdés szerinti jognyilatkozat indokolását annak közlésétől számított tizenöt napon belül írásban kérheti. A munkáltató az indokolást a kérelem kézhezvételétől számított tizenöt napon belül közli.
 
 #### 68. § [Közös megegyezés]
 
@@ -1228,6 +1280,8 @@ azzal, hogy a foglalkoztatott nem jogosult végkielégítésre azon időtartam v
 - g) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap,
 - h) a házastárs vagy élettárs külszolgálata miatt kapott illetmény nélküli szabadság,
 - i) a szolgálati jogviszony szünetelésének
+- j) a 85. § (1) bekezdés m) és p) pontjában meghatározott távollét,
+- k) az apasági és a szülői szabadság
 
 időtartama alatt.
 
@@ -1254,7 +1308,7 @@ időtartama alatt.
 
 (1) A foglalkoztatott, a munkáltatói jogkör gyakorlója, valamint a Kttv. szerinti kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, honvédelmi alkalmazotti jogviszony létrehozására feljogosított munkáltatói szerv vezetője megállapodhatnak a foglalkoztatott kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati, honvédelmi alkalmazotti jogviszonyba történő áthelyezésében.
 
-(2) A foglalkoztatott beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter, vagy a NAV elnöke és a Magyar Honvédség parancsnokának döntése alapján – a Magyar Honvédség állományába áthelyezhető.
+(2) A foglalkoztatott beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter, vagy a NAV elnöke és a Honvéd Vezérkar főnökének döntése alapján – a Magyar Honvédség állományába áthelyezhető.
 
 (3) Az áthelyezéshez történő hozzájárulást a NAV nem tagadhatja meg, ha a megkeresés kézhezvétele és az áthelyezés kért időpontja közötti időtartam a két hónapot meghaladja.
 
@@ -1424,10 +1478,13 @@ időtartama alatt.
 - m) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
 - n) a munkáltatói jogkör gyakorlója engedélye alapján,
 - o) az egészségkárosodási ellátásra jogosultság megállapítására irányuló eljárás alatt az eljárás során elfogadott munkakörbe helyezéséig, vagy ha erre nem kerül sor, az egészségkárosodási ellátásra jogosultság tárgyában hozott döntés meghozataláig.
+- p) a súlyos egészségi okból gondozásra szoruló hozzátartozója, vagy a foglalkoztatottal közös háztartásban élő személy személyes gondozása nyújtása céljából évente legfeljebb öt munkanapra.
 
-(2) A rendelkezésre állási, illetve munkavégzési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében – törvény eltérő rendelkezése hiányában – a foglalkoztatott a távollét idejére távolléti díjra jogosult.
+(2) A rendelkezésre állási, illetve munkavégzési kötelezettség alóli mentesülés (1) bekezdés a)–o) pontja szerinti esetében – törvény eltérő rendelkezése hiányában – a foglalkoztatott a távollét idejére távolléti díjra jogosult.
 
 (3) Az (1) bekezdés m) pontja szerinti esetben az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül kell a foglalkoztatottat mentesíteni a kérésének megfelelő időpontban. Az igénybevételről a foglalkoztatott legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkör gyakorlóját.
+
+(4) Az (1) bekezdés p) pontja szerinti esetben a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.
 
 #### 86. § [Szolgálati jogviszonyban töltött idő számítása]
 
@@ -1492,7 +1549,7 @@ időtartama alatt.
 - a) országgyűlési vagy európai parlamenti képviselő,
 - b) nemzetiségi szószóló,
 - c) főpolgármester, főpolgármester-helyettes,
-- d) megyei közgyűlés elnöke, alelnöke,
+- d) vármegyei közgyűlés elnöke, alelnöke,
 - e) polgármester, alpolgármester,
 - f) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
 - g) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
@@ -1861,7 +1918,7 @@ illeti meg. A NAV elnöke a 150 órát meg nem haladó túlmunka teljesítésén
 
 #### 108. § [A foglalkoztatottat megillető szabadság]
 
-A foglalkoztatott alap-, pót-, szülési és illetmény nélküli szabadságra, továbbá gyermek születése esetén járó pótszabadságra jogosult, emellett a tisztviselő betegszabadságra, a pénzügyőr egészségügyi szabadságra jogosult.
+A foglalkoztatott alap-, pót-, szülési, apasági, szülői és illetmény nélküli szabadságra jogosult, emellett a tisztviselő betegszabadságra, a pénzügyőr egészségügyi szabadságra jogosult.
 
 #### 109. § [Szabadságra jogosító idő]
 
@@ -1969,7 +2026,7 @@ pótszabadság illeti meg.
 
 (4) A (2) és (3) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe, a szabadság nem halmozódhat.
 
-(5) Az (1)–(4) bekezdés nem vonatkozik a 122. § szerinti pótszabadságra.
+(5) Az (1)–(4) bekezdés nem vonatkozik a 122. § és 122/A. § szerinti pótszabadságra.
 
 (6) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen
 
@@ -2003,7 +2060,7 @@ pótszabadság illeti meg.
 
 (1) A szabadságot – a (2)–(5) bekezdésben foglalt kivétellel – megváltani nem lehet.
 
-(2) A szolgálati jogviszony megszűnése, megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a foglalkoztatottnak van fennmaradó szabadsága) meg kell váltani.
+(2) A szolgálati jogviszony megszűnése, megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a foglalkoztatottnak van fennmaradó szabadsága) – az apasági és a szülői szabadságot kivéve – meg kell váltani.
 
 (3) Az 57. § szerinti kirendelés, vezénylés esetén a kirendelés, vezénylés időtartama alatt a foglalkoztatott részére a kirendelés, vezénylés helye szerinti szervnél kell kiadni a szabadságot. Más kirendelés, vezénylés esetén a ki nem adott időarányos tárgyévi szabadság megváltását illetően úgy kell eljárni, mintha az érintett szolgálati jogviszonya megszűnt volna.
 
@@ -2092,13 +2149,23 @@ pótszabadság illeti meg.
 
 azzal, hogy a szülési szabadság időtartama a szülést követően hat hétnél a b)–c) pont szerinti esetekben sem lehet rövidebb.
 
-#### 122. § [Gyermek születése esetén járó pótszabadság]
+#### 122. § [Apasági szabadság]
 
-(1) Gyermeke születése esetén öt munkanap, ikergyermek születése esetén hét munkanap pótszabadság illeti meg az apát, melyet legkésőbb a születést követő második hónap végéig kérésének megfelelő időpontban kell kiadni.
+(1) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a munkavállaló akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
-(2) Az (1) bekezdés szerinti pótszabadság abban az esetben is megilleti az apát, ha gyermeke halva születik, vagy meghal.
+(2) A foglalkoztatottat az apasági szabadság első öt, ikergyermekek születése esetén az első hét munkanapjára távolléti díj, a hatodik munkanapjától a tizedik munkanapjáig, ikergyermekek születése esetén a nyolcadik munkanapjától a tizedik munkanapjáig a távolléti díj negyven százaléka illeti meg.
 
-(3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vér szerinti vagy örökbe fogadó apát kell érteni.
+(3) Az apasági szabadság tekintetében nem alkalmazható a 113. § (6) bekezdése.
+
+#### 122/A. § [Szülői szabadság]
+
+(1) A foglalkoztatottat gyermeke hároméves koráig negyvennégy munkanap szülői szabadság illeti meg.
+
+(2) A szülői szabadság igénybevételének feltétele, hogy a szolgálati jogviszony egy éve fennálljon.
+
+(3) A munkáltatói jogkör gyakorlója a szülői szabadságot a foglalkoztatott kérésének megfelelő időpontban adja ki. A munkáltatói jogkör gyakorlója a 113. § (6) bekezdésében meghatározott esetben a szülői szabadság kiadását – legfeljebb hatvan nappal – elhalaszthatja, ennek indokát és a kiadás általa javasolt időpontját a foglalkoztatottal írásban köteles közölni. A foglalkoztatott már megkezdett szülői szabadságát a munkáltatói jogkör gyakorlója a 113. § (6) bekezdésében meghatározott esetben nem szakíthatja meg.
+
+(4) A foglalkoztatott a szülői szabadság tartamára a távolléti díj tíz százalékára jogosult, amelyet csökkenteni kell az erre az időszakra a foglalkoztatottnak megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
 
 #### 123. § [Illetmény nélküli szabadság a gyermek gondozására tekintettel]
 
@@ -3330,6 +3397,14 @@ különbözetének megtérítése iránti igényt.
 
 (1) A foglalkoztatott a szolgálati jogviszonyból származó igényének érvényesítése érdekében, ha e törvény eltérően nem rendelkezik – a (3) és (4) bekezdésben meghatározott esetek kivételével az igény érvényesítésére vonatkozó elévülési időn belül – közvetlenül bírósághoz fordulhat.
 
+(1a) Ha a foglalkoztatott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen
+
+- a) a 49/A. § szerinti részmunkaidő,
+- b) a 85. § (1) bekezdés p) pontja szerinti munkaidő-kedvezmény, vagy
+- c) a 122. § szerinti apasági szabadság vagy a 122/A. § szerinti szülői szabadság
+
+igénylése vagy igénybevétele miatt szüntették meg, a munkáltató köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ebből az okból került sor.
+
 (2) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a foglalkoztatott bírósághoz akkor fordulhat, ha e törvény megengedi.
 
 (3) A keresetet a sérelmezett munkáltatói intézkedésről szóló irat közlésétől számított harminc napon belül lehet a bírósághoz benyújtani
@@ -3347,6 +3422,8 @@ különbözetének megtérítése iránti igényt.
 - k) az egészségkárosodási ellátásra jogosultság tárgyában hozott NAV vezetői döntéssel
 
 kapcsolatos ügyekben.
+
+(3a) A 49/A. § (2) bekezdése szerinti munkáltató hozzájáruló nyilatkozatának pótlása iránti perben a bíróság soron kívül jár el.
 
 (4) Megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének 21. § (9) bekezdése szerinti megállapításától számított harminc napon belül lehet előterjeszteni.
 
@@ -3383,7 +3460,7 @@ kapcsolatos ügyekben.
 
 (3) Ha a felmentés azért jogellenes, mert e törvényben előírtnál rövidebb felmentési időt állapítottak meg, ez a felmentést nem teszi érvénytelenné, de ilyen esetben a szolgálati jogviszony a szabályos felmentés utolsó napjáig tart.
 
-(4) Az (1) bekezdésben foglalt esetben meg kell téríteni a foglalkoztatott elmaradt illetményét és egyéb járandóságait, továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek, egyéb járandóságnak, illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha az érintett az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, nem köt álláskeresési megállapodást, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló törvényben foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, illetve az érintett felmerült kárának a megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
+(4) Az (1) bekezdésben foglalt esetben meg kell téríteni a foglalkoztatott elmaradt illetményét és egyéb járandóságait, továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek, egyéb járandóságnak, illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha az érintett az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló törvényben foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, illetve az érintett felmerült kárának a megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
 
 (5) Ha a szolgálati jogviszony az (1) bekezdésben foglalt módon történő jogellenes megszüntetése esetén a foglalkoztatott az eredeti munkakörébe való visszahelyezést nem kéri vagy a bíróság mellőzi az érintett eredeti munkakörbe történő visszahelyezését, a szolgálati jogviszony a jogellenességet megállapító határozat jogerőre emelkedésének napján szűnik meg. Ekkor – a (4) bekezdésben foglaltakon felül – a bíróság a NAV-ot az eset összes körülményének, így különösen a jogsértés és annak következményei súlyának mérlegelésével, a foglalkoztatott legalább két-, legfeljebb tizenkét havi illetményének megfelelő összeg megfizetésére kötelezi.
 
@@ -4182,6 +4259,19 @@ alakul át e törvény hatálybalépésének napján.
 
 (6) A tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
+#### 257/B. § [Átmeneti rendelkezések az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvényhez]
+
+(1) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – e törvény eltérő rendelkezése hiányában – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
+(2) A 41/A. § és a 62/A. § rendelkezéseiben foglalt tájékoztatási kötelezettség a munkáltatót a 2022. július 31-én szolgálati viszonyban állók vonatkozásában csak a foglalkoztatott, a Módtv. hatálybalépését követő három hónapon belül benyújtott, erre irányuló írásbeli kérelme esetén terheli. A kérelem előterjesztése esetén a munkáltatói jogkört gyakorló az írásbeli tájékoztatási kötelezettségét harminc napon belül teljesíti.
+
+(3) A foglalkoztatott 2022. augusztus 2. és 2022. december 31. között született vagy örökbefogadott gyermeke után a Módtv. hatálybalépésétől számított két hónapon belül jogosult a 122. § szerinti apasági szabadságot igénybe venni, ha a Módtv. hatálybalépése előtt
+
+- a) a 122. § szerinti gyermek születése esetén járó pótszabadságot nem vette igénybe, vagy
+- b) a 122. § szerinti gyermek születése esetén járó pótszabadságot igénybe vette, annak és a 122. § szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+(4) A munkáltatói jogkör gyakorlója, ha a foglalkoztatott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a foglalkoztatott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
 #### 258. § [Átmeneti rendelkezések az elektronikus ügyintézéshez]
 
 (1) A NAV-val 2020. december 31-én munkaviszonyban álló munkavállaló köteles 19. § (9) bekezdése szerinti szolgáltatással 2021. február 1. napjától rendelkezni.
@@ -4204,6 +4294,8 @@ E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 - d) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelv;
 - e) a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv;
 - f) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről [tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében] szóló, 1992. október 19-i 92/85/EGK tanácsi irányelv.
+- g) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és a tanácsi irányelv,
+- h) a szülők és gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelv.
 
 ### 1. melléklet a 2020. évi CXXX. törvényhez
 
@@ -4322,7 +4414,7 @@ a szolgálati jogviszonyt létesítő személy kifogástalan életvitele ellenő
 | Társaságban való részvétel formája: |  |  |
 |  |  |  |
 | VI. A jelentkező jövedelmi és vagyoni viszonyaira vonatkozó adatok |  |  |
-| A jelentkezőnek a jelentkezést megelőző egy évben szerzett jövedelmei: | Munkajövedelem Befektetésből származó jövedelem Gazdasági társaságból származó jövedelem Szociális vagy munkanélküli ellátás Ösztöndíj Egyéb forrás (pl. vagyonértékesítés, jogdíj) Eltartott |  |
+| A jelentkezőnek a jelentkezést megelőző egy évben szerzett jövedelmei: | Munkajövedelem Befektetésből származó jövedelem Gazdasági társaságból származó jövedelem Szociális vagy álláskeresési ellátás Ösztöndíj Egyéb forrás (pl. vagyonértékesítés, jogdíj) Eltartott |  |
 | A jelentkezést megelőző egy év havi nettó átlagos jövedelme: |  |  |
 | A jelentkező tulajdonában lévő ingatlanok, ingatlanrészek: |  |  |
 | Tulajdonában lévő jelentősebb (legalább 300 000 Ft) értékű ingóságok és vagyoni értékű jogok: |  |  |
@@ -4472,7 +4564,7 @@ aláírás, lakcím
 
 #### Vezetői munkakörök alapilletménye
 
-| A | B | C | D | E | F |
+|  | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- |
 | 1. | vezetői munkakör | területi szerv |  | központi szerv |  |
 | 2. |  |  |  |  |  |

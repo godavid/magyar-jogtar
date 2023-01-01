@@ -102,7 +102,7 @@ az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről 
 
 #### 11. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-40. §
+40. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (1) bekezdés e) pontjában a „tevékenység” szövegrész helyébe a „tevékenység, távszerencsejáték szervezése kivételével” szöveg lép.
 
 #### 12. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
 

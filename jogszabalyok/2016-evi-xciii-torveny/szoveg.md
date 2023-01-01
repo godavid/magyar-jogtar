@@ -125,9 +125,9 @@ független jogkezelő szervezetekre, és az általuk végzett jogkezelési tevé
 
 (2) A közös jogkezelő szervezet köteles az (1) bekezdésben foglaltaknak megfelelő megbízást elfogadni.
 
-(3) A jogosult ugyanazon ország tekintetében ugyanazon típusú műveivel vagy kapcsolódó jogi teljesítményeivel kapcsolatos ugyanazon szerzői jog vagy kapcsolódó jog kezelésével kizárólag egy közös jogkezelő szervezetet bízhat meg. E rendelkezés nem vonatkozik arra az esetre, amikor a zeneművek szerzője e törvény Második Része alapján zeneművei 62. § szerinti felhasználásának több EGT-állam területére kiterjedő hatályú engedélyezésével kapcsolatos közös jogkezelésre ad jogkezelési megbízást az ehhez szükséges feltételeket teljesítő közös jogkezelő szervezet részére.
+(3) A jogosult ugyanazon ország tekintetében ugyanazon típusú műveivel vagy kapcsolódó jogi teljesítményeivel kapcsolatos ugyanazon szerzői jog vagy kapcsolódó jog kezelésével kizárólag egy közös jogkezelő szervezetet bízhat meg.
 
-(4) Jogkezelési megbízás kizárólag a jogosult adott mű- vagy teljesítménytípusba tartozó valamennyi művére vagy kapcsolódó jogi teljesítményére kiterjedő hatállyal adható. E rendelkezés nem vonatkozik a Második Rész alapján a zeneművek szerzői által a zeneműveik 62. § szerinti felhasználásának több EGT-állam területére kiterjedő hatályú engedélyezésével kapcsolatos közös jogkezelésre adott jogkezelési megbízásra.
+(4) Jogkezelési megbízás kizárólag a jogosult adott mű- vagy teljesítménytípusba tartozó valamennyi művére vagy kapcsolódó jogi teljesítményére kiterjedő hatállyal adható.
 
 (5) Ha a reprezentatív közös jogkezelő szervezet által a 17. § (1) bekezdése alapján már képviselt jogosult a képviselet körébe tartozó műveivel vagy kapcsolódó jogi teljesítményeivel kapcsolatos szerzői jog vagy kapcsolódó jog kezelésével egy másik közös jogkezelő szervezet részére ad jogkezelési megbízást, az ilyen jogkezelési megbízás a jogkezelési megbízás elfogadása szerinti naptári év végét követő év első napján lép hatályba, feltéve, hogy
 
@@ -1446,23 +1446,67 @@ teljesíti.
 
 #### 88. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-167. §
+#### 167. §
 
 #### 89. A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosítása
 
-168–170. §
+#### 168. §
 
-171. §
+#### 169. §
 
-172. §
+#### 170. §
+
+#### 171. §
+
+#### 172. §
 
 #### 90. Az Szjt. egyes rendelkezéseinek módosítása
 
-173–193. §
+#### 173. §
+
+#### 174. §
+
+#### 175. §
+
+#### 176. §
+
+#### 177. §
+
+#### 178. §
+
+#### 179. §
+
+#### 180. §
+
+#### 181. §
+
+#### 182. §
+
+#### 183. §
+
+#### 184. §
+
+#### 185. §
+
+#### 186. §
+
+#### 187. §
+
+#### 188. §
+
+#### 189. §
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
+
+#### 193. §
 
 #### 91. A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény módosítása
 
-194. §
+#### 194. §
 
 ### 1. melléklet a 2016. évi XCIII. törvényhez
 

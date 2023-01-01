@@ -297,7 +297,7 @@ Külföldi állam megkeresése kiadatás iránt
 
 35. § A 24. § (1) bekezdését, a 27. §-t, a 29. § (2) bekezdését és a 30. § (1) és (4) bekezdését külföldi állam kiadatás iránti megkeresése esetén is értelemszerűen alkalmazni lehet.
 
-36. § A kiadatási kérelem teljesítése esetén a kiadatási kérelem alapján külföldön történt fogva tartás idejét a bíróság által megállapított büntetésbe be kell számítani.
+36. § A kiadatási kérelem alapján külföldön történt fogvatartás teljes időtartamát a Btk.-nak az előzetes fogvatartás és a bűnügyi felügyelet beszámítására vonatkozó szabályai szerint, a külföldi fogvatartás jellegére figyelemmel kell beszámítani a bíróság által kiszabott büntetésbe vagy szabadságelvonással járó intézkedésbe.
 
 ### 3. Cím
 
@@ -401,7 +401,9 @@ Az Egyesült Királyság, az Izlandi Köztársaság, vagy a Norvég Királyság 
 
 (6) Ha a végrehajtó igazságügyi hatóság a kiadatás elhalasztásáról döntött, a keresett személy ideiglenes átadásának kezdeményezésére, valamint a megállapodás megkötésére – a miniszter útján – a bíróság jogosult.
 
-### III. Fejezet — A büntetőeljárás átadása és átvétele;feljelentés külföldi államnál
+### III. Fejezet — A büntetőeljárás átadása és átvétele;
+
+feljelentés külföldi államnál
 
 ### 1. Cím
 
@@ -1041,13 +1043,13 @@ Kihallgatás telekommunikációs eszköz útján
 
 ### 8. Cím
 
-68. §
+#### 68. §
 
 ### 9. Cím
 
 Ellenőrzött szállítás
 
-69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtására irányuló eljárási jogsegély iránti megkeresés teljesítésére a megyei főügyészség rendelkezik hatáskörrel.
+69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtására irányuló eljárási jogsegély iránti megkeresés teljesítésére a vármegyei főügyészség rendelkezik hatáskörrel.
 
 (2) Ellenőrzött szállítás végrehajtására irányuló megkeresés olyan bűncselekménnyel kapcsolatban engedélyezhető, amely tekintetében kiadatásnak van helye.
 

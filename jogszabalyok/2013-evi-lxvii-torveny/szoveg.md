@@ -33,7 +33,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 15. szerződött díjfizető: aki az útdíjköteles elemi útszakasz használata érdekében, szerződésben vállalta egy vagy több útdíjköteles gépjárműre vonatkozó útdíj megfizetését;
 - 16. tanúsító szerv: az elektronikus díjszedési rendszer átjárhatósági rendszerelemeinek alkalmasságát tanúsító, a 12. alcímben meghatározott feladatokat ellátó szerv;
 - 17. UD rendszer: az útdíj bevallását, kivetését, beszedését, az útdíj megfizetése és az útdíjköteles elemi útszakaszok jogszerű használata ellenőrzésének támogatását lehetővé tévő elektronikus rendszer;
-- 18. útdíj: az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, a megtett úttal arányos úthasználat alapján az útdíjszedő által kivetett díj;
+- 18. útdíj: az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, a megtett úttal arányos úthasználat alapján az útdíjszedő által kivetett díj; a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg nem minősül útdíjnak;
 - 19. díjfizetésre kötelezett: elsősorban a szerződött díjfizető, ennek hiányában a gépjármű üzembentartója, illetve az úthasználó, tekintet nélkül állampolgárságára és az általa vezetett vagy üzemben tartott, illetve tulajdonát képező gépjárművet nyilvántartásba vevő országra;
 - 20. útdíjköteles elemi útszakasz: az útdíjfizetés ellenében használható közúthálózatnak a díjmeghatározás szempontjából két útszelvényében lehatárolt része;
 - 21. útdíjköteles gépjármű: a 3,5 tonnánál nagyobb megengedett legnagyobb össztömegű tehergépkocsi, vontató – ideértve a nyerges vontatót is –, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból álló járműszerelvény;
@@ -47,6 +47,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 29. viszonteladó: az útdíjszolgáltató által az útdíjszedési feladatainak teljesítéséhez bevont, szerződött közreműködő;
 - 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság;
 - 31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.
+- 32. egyenleg: úthasználati jogosultság keletkezése érdekében, a fizetendő útdíj-követelés kiegyenlítése céljából a szerződött díjfizető által megfizetett, az egyetemes útdíjszolgáltató által nyilvántartott és rendelkezésre tartott, forintban kifejezett pénzösszeg, a szolgáltatás ellenértéke, amelynek terhére a szerződött díjfizető útdíjfizetési kötelezettségének eleget tehet.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
 
@@ -455,6 +456,7 @@ jogosult kezelni.
 - p) állapítsa meg a bevallási közreműködővel szemben támasztott követelményeket, valamint a bevallási közreműködőkkel megkötendő szerződés tartalmi elemeit;
 - q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
 - r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
+- s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

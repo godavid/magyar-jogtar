@@ -97,6 +97,10 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 8/A. § Mindaddig, amíg az államadósság a bruttó hazai termék felét meghaladja, ha az államot terhelő olyan mértékű közvetlen kiadás keletkezik, amelynek teljesítésére a központi költségvetésről szóló törvényben megállapított, a Kormány irányítása alá tartozó fejezetekben rendelkezésre álló előirányzatok nem elegendők, a Kormány jogosult az Áht.-ban foglalt egyes intézkedések megtételére, vagy javaslatot tehet az ilyen kiadások teljesítéséhez szükséges, a 28. § szerinti fizetési kötelezettség törvényben történő megállapítására.
 
+8/B. § (1) Ha törvény eltérően nem rendelkezik, mindaddig, amíg az államadósság a bruttó hazai termék felét meghaladja, Magyarország nem támogatja az Európai Unió saját forrás felső korlátainak rendkívüli és átmeneti megemelését, ha annak célja az Európai Unió nevében történő tőkepiaci hitelfelvételhez szükséges fedezet vagy garancia biztosítása.
+
+(2) Az (1) bekezdés tekintetében az Áht. 95. §-a nem alkalmazható.
+
 9. § (1) A kormányzati szektorba sorolt egyéb szervezet a 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. E rendelkezést nem kell alkalmazni a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet igénybevételére, valamint az olyan adósságot keletkeztető ügyletre, amelyben valamennyi fél az államháztartás valamely alrendszerébe tartozó jogi személy, illetve kormányzati szektorba sorolt egyéb szervezet.
 
 (2) Az államháztartásért felelős miniszter a hozzájárulást abban az esetben adja meg, ha
@@ -710,7 +714,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
-#### 52. §
+52. § E törvénynek a pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvénnyel megállapított 8/B. §-t nem kell alkalmazni a pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvény hatálybalépését megelőzően a magyar állam nevében vállalt, vagy a magyar államot bármilyen módon érintő kötelezettségei tekintetében.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

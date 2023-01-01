@@ -22,7 +22,7 @@ terjed ki.
 
 3. § (1) A honvédelmi alkalmazott kinevezésében vállalja a honvédelmi szervezet feladatkörébe tartozó közszolgáltatások végrehajtását, valamint azt, hogy a honvédelmi alkalmazottak részére tartott, éves kötelező honvédelmi továbbképzéseken részt vesz, a honvédelemért felelős miniszter rendeletében (a továbbiakban: miniszteri rendelet) meghatározottak szerint.
 
-(2) A honvédelmi alkalmazott az (1) bekezdésben foglaltakon túlmenően önkéntesen vállalhatja, hogy rendkívüli állapot vagy megelőző védelmi helyzet idején a hadkötelezettség bevezetését követően tényleges katonai szolgálatot teljesít. Ebben az esetben a honvédelmi alkalmazott az (1) bekezdésben meghatározott továbbképzésen felül a hadkötelezettség bevezetését követően a katonai szolgálathoz szükséges kiképzésen, illetve felkészítésen is köteles részt venni.
+(2) A honvédelmi alkalmazott az (1) bekezdésben foglaltakon túlmenően önkéntesen vállalhatja, hogy a hadkötelezettség bevezetését követően tényleges katonai szolgálatot teljesít. Ebben az esetben a honvédelmi alkalmazott az (1) bekezdésben meghatározott továbbképzésen felül a katonai szolgálathoz szükséges kiképzésen, illetve felkészítésen is köteles részt venni.
 
 (3) A (2) bekezdés szerinti többletkötelezettség vállalását miniszteri rendelet szerint ellentételezni kell.
 
@@ -54,9 +54,9 @@ terjed ki.
 
 6. § (1) A munkáltatói jogkörök gyakorlására jogosultak körét és hatáskörüket miniszteri rendelet határozza meg.
 
-(2) A miniszter magához vonhatja a Magyar Honvédség parancsnokának, a honvédelmi szervezet vezetőjének, valamint a központi személyügyi szerv vezetőjének munkáltatói jogköreit.
+(2) A miniszter magához vonhatja a Honvéd Vezérkar főnökének, a honvédelmi szervezet vezetőjének, valamint a központi személyügyi szerv vezetőjének munkáltatói jogköreit.
 
-(3) A Magyar Honvédség parancsnoka magához vonhatja a honvédségi szervezet vezetőjének és a központi személyügyi szerv vezetőjének munkáltatói jogköreit.
+(3) A Honvéd Vezérkar főnöke magához vonhatja a honvédségi szervezet vezetőjének és a központi személyügyi szerv vezetőjének munkáltatói jogköreit.
 
 (4) A honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonyával kapcsolatos jogviták a közigazgatási perrendtartásról szóló 2017. évi I. törvény hatálya alá tartoznak.
 
@@ -313,7 +313,7 @@ hatályos.
 
 20. § (1) Ha a honvédelmi alkalmazott munkaköre ellátása mellett a honvédelmi szervezet rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, és ezáltal jelentős többletmunkát végez, illetményén felül miniszteri rendeletben meghatározott külön díjazás (helyettesítési díj) is megilleti.
 
-(2) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (V., VII. és IX. fejezet) közül a 32–35. §, a 42–43. §, a 44/A. §, a 45. § (1) bekezdése, a 45. § (5) bekezdése, a 46. § (4) bekezdése, az 50. § és a 62. § nem alkalmazható.
+(2) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (V., VII. és IX. fejezet) közül a 32–35. §, a 42–43. §, a 44/A. §, a 45. § (1) bekezdése, a 45. § (5) bekezdése, a 46. § (1), (3)–(6) bekezdése, az 50. § és a 62. § nem alkalmazható.
 
 (3) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató személyében bekövetkező változásról szóló VI. fejezete megfelelően abban az esetben alkalmazható, ha az átadó és az átvevő munkáltató e törvény hatálya alá tartozik.
 
@@ -321,18 +321,25 @@ hatályos.
 
 (5) A honvédelmi alkalmazotti jogviszony tekintetében az Mt. 40. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a honvédelmi alkalmazott a (4) bekezdés szerinti lemondást – a 27. § (1) bekezdésében foglalt szabályok alkalmazásával – köteles megindokolni.
 
-20/A. § A honvédelmi szervezet
+20/A. § (1) A honvédelmi szervezet legkésőbb a honvédelmi alkalmazotti jogviszony kezdetétől számított hét napon belül írásban tájékoztatja a honvédelmi alkalmazottat
 
-- a) a megnevezésének, lényeges adatainak,
-- b) a napi munkaidőnek,
-- c) az illetménynek, honvédelmi illetménykiegészítésnek, keresetkiegészítésnek, pótlékoknak és egyéb juttatásoknak,
-- d) az illetménnyel való elszámolás módjának, az illetményfizetés gyakoriságának, a kifizetés napjának,
-- e) a munkakörbe tartozó feladatoknak,
-- f) a szabadság mértékének, számítási módjának és kiadásának,
-- g) a honvédelmi szervezetre és a honvédelmi alkalmazottra irányadó felmondási idő megállapítása szabályainak, továbbá
-- h) a munkáltatói jogkör gyakorlójának
+- a) a munkáltatói jogkör gyakorlójáról,
+- b) a honvédelmi alkalmazotti jogviszony kezdetéről, tartamáról,
+- c) a munkavégzés helyéről,
+- d) a munkakörbe tartozó feladatokról,
+- e) a napi munkaidő tartamáról, a hét napjairól, amelyekre munkaidő osztható be, a beosztás szerinti napi munkaidő lehetséges kezdő és befejező időpontjáról, a rendkívüli munkaidő lehetséges tartamáról, a munkáltató tevékenységének sajátos jellegéről,
+- f) az illetménnyel való elszámolás módjáról, az illetményfizetés gyakoriságáról, a kifizetés napjáról,
+- g) az illetményről, a honvédelmi illetménykiegészítésről, a keresetkiegészítésről, a pótlékokról és egyéb juttatásról,
+- h) a szabadságnapok számáról, számítási módjáról és kiadásának szabályairól,
+- i) a honvédelmi alkalmazotti jogviszony megszüntetésével összefüggő szabályokról, különösen a felmondási idő megállapításának szabályairól,
+- j) a honvédelmi szervezet képzési politikájáról, a honvédelmi alkalmazott által igénybe vehető képzésre fordítható idő tartamáról, valamint
+- k) a hatóság megnevezéséről, amely részére a munkáltató a munkaviszonnyal kapcsolatos közterhet megfizeti.
 
-változásáról a honvédelmi alkalmazottat a változást követő tizenöt napon belül írásban tájékoztatja.
+(2) Nem terheli a honvédelmi szervezetet tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak.
+
+(3) Az (1) bekezdés e)–i) pontjában előírt tájékoztatás honvédelmi alkalmazotti jogviszonyra vonatkozó szabály rendelkezésére hivatkozással is megadható.
+
+(4) Az (1) bekezdésben meghatározottak változásáról a honvédelmi alkalmazottat legkésőbb a változás hatálybalépésének időpontjában írásban tájékoztatni kell. Nem terheli a honvédelmi szervezetet tájékoztatási kötelezettség, ha a tájékoztatást a (3) bekezdés szerint adta meg.
 
 #### 7. A honvédelmi alkalmazotti jogviszony megszűnése
 
@@ -378,7 +385,7 @@ hatálya alá tartozó munkáltatók között,
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
-(5) A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény XII. Fejezetében szabályozott különleges jogrend, illetve veszélyhelyzet kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
+(5) Különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
 (6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
 
@@ -679,7 +686,7 @@ távolléti díjnak megfelelő összeg.
 - b) a felmentési időből hátralevő idő tekintetében távolléti díjra nem jogosult,
 - c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
 
-43. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–79. § és a 85. § nem alkalmazható.
+43. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63. §, a 64. § (1)–(2) bekezdés, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–79. § és a 85. § nem alkalmazható.
 
 (2) A létszámcsökkentést eredményező döntést megelőzően a miniszter a 7. § szerinti érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.
 
@@ -705,6 +712,12 @@ távolléti díjnak megfelelő összeg.
 címet adományozhat.
 
 (6) Miniszteri rendelet az (5) bekezdésben foglaltakon kívül egyéb címeket is alapíthat és megállapíthatja az adományozás feltételeit.
+
+44/A. § (1) A Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) személyi állományába tartozó honvédelmi alkalmazottat, a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 102. §-ában foglaltakon túl, el kell látni munkáltatói igazolvánnyal, valamint jelvénnyel.
+
+(2) A munkáltatói igazolvány igazolja a KNBSZ honvédelmi alkalmazott állományába tartozást.
+
+(3) Az azonosítószámmal ellátott jelvény a munkáltatói igazolvánnyal együttesen igazolja a honvédelmi alkalmazott állomány tagjának a (2) bekezdés szerinti állományba tartozást.
 
 45. § (1) A honvédelmi alkalmazottat
 
@@ -784,7 +797,7 @@ minősíteni kell.
 
 (5b) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés k) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult.
 
-(5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
+(5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3a) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
 
 (6) A Hvt. 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 
@@ -817,7 +830,7 @@ alapszabadság illeti meg.
 
 (5) A honvédelmi szervezetek köznevelési feladatot ellátó szervezeti egységénél pedagógus-munkakörben foglalkoztatott honvédelmi alkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató az oktatással összefüggő feladatok ellátására.
 
-55. § Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+55. § Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a honvédelmi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 56. § A férjnek és a feleségnek a házasságkötést követően öt munkanap pótszabadság jár, feltéve, hogy legalább az egyik házastárs első házasságát kötötte. Ezt a pótszabadságot az igénybe vevő kérésének megfelelően a házasságkötés napját követő 365 napon belül kell kiadni.
 
@@ -831,18 +844,18 @@ alapszabadság illeti meg.
 
 (3) Az (1) és (2) bekezdés, valamint az Mt. 128–132. §-án túl a honvédelmi alkalmazott kérelmére – méltányolható egyéb egyéni indokból – a munkáltatói jogkört gyakorló fizetés nélküli szabadságot engedélyezhet.
 
-59. § (1) A szabadságot az esedékesség évében kell kiadni.
+59. § (1) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – az esedékességének évében kell kiadni.
 
 (2) Ha erre a honvédelmi szervezet kivételesen fontos érdeke vagy a működését közvetlenül és súlyosan érintő ok miatt nincs lehetőség, úgy azt a következő év június 30-ig, a honvédelmi alkalmazott betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni, ha az esedékesség éve letelt.
 
-(3) A munkáltatói jogkört gyakorló a honvédelmi szervezet kivételesen fontos érdeke vagy a működését közvetlenül és súlyosan érintő ok esetén a honvédelmi alkalmazott szabadság kiadásának közölt időpontját módosíthatja, illetve a honvédelmi alkalmazott már megkezdett szabadságát megszakíthatja.
+(3) A munkáltatói jogkört gyakorló a honvédelmi szervezet kivételesen fontos érdeke vagy a működését közvetlenül és súlyosan érintő ok esetén a honvédelmi alkalmazott szabadság-kiadásának közölt időpontját – az apasági szabadság kivételével – legfeljebb hatvan nappal elhalaszthatja, illetve a honvédelmi alkalmazott már megkezdett szabadságát megszakíthatja. A munkáltatói jogkört gyakorló az e bekezdés szerinti intézkedését írásban indokolja, továbbá a szabadság kiadásának általa javasolt időpontját egyidejűleg közli a honvédelmi alkalmazottal.
 
 (4) A honvédelmi alkalmazott szabadság kiadására vonatkozó igénye a honvédelmi alkalmazotti jogviszony fennállása alatt nem évül el. A szabadság megváltásával kapcsolatos igény elévülése a honvédelmi alkalmazotti jogviszony megszűnésének napján kezdődik.
 
 60. § (1) A honvédelmi alkalmazotti jogviszony tekintetében
 
 - a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. Fejezet) közül
-  - aa) a 92. § (4) bekezdése, a 99. § (7) bekezdés b) pontja, a 109. § (2) bekezdése, a 116. és 117. §-a, a 118. § (4) bekezdése, a 119. § (2) bekezdése, a 123. § (1)–(6) bekezdése, a 135. § (3)–(6) bekezdése és a 146. § (2) bekezdése – az ab) alpontban foglaltak kivételével – nem alkalmazható,
+  - aa) a 92. § (4) bekezdése, a 99. § (7) bekezdés b) pontja, a 109. § (2) bekezdése, a 116. és 117. §-a, a 118. § (4) bekezdése, a 119. § (2) bekezdése, a 123. § (1)–(6) bekezdése, a 135. § (3)–(7) bekezdése és a 146. § (6) bekezdése – az ab) alpontban foglaltak kivételével – nem alkalmazható,
   - ab) az aa) alponttól eltérően a KNBSZ és a Magyar Honvédség Egészségügyi Központ által foglalkoztatott honvédelmi alkalmazottra a 109. § (2) bekezdését alkalmazni kell, azzal az eltéréssel, hogy az önként vállalt túlmunkáról az Mt. 109. § (1) bekezdésében foglalt és az 52/A. §-ban engedélyezett mértéket meghaladóan lehet megállapodni,
 - b) miniszteri rendelet – ágazati, szakmai sajátosságokra tekintettel – az Mt. 86. § (3) bekezdés a) pontjától a honvédelmi alkalmazott javára eltérhet.
 
@@ -1299,12 +1312,12 @@ eltöltött időt.
 
 89/A. § (1) E fejezet alkalmazásában
 
-- a) egészségügyi honvédelmi alkalmazott: a honvédelmi egészségügyi szolgáltatónál vagy a Katonai Nemzetbiztonsági Szolgálatnál honvédelmi alkalmazotti jogviszonyban foglalkoztatott, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és a 4. § c) pontja szerinti rezidens,
-- b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
+- a) egészségügyi honvédelmi alkalmazott: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltatónál (a továbbiakban: honvédelmi egészségügyi szolgáltató) vagy a KNBSZ-nél honvédelmi alkalmazotti jogviszonyban foglalkoztatott, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
+- b) egészségügyi tevékenység: az Eütv. 3. § y) pontjában meghatározott tevékenység,
 - c) magasabb vezető:
-  - ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
-  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 16. § (3) bekezdése szerinti helyettese (a továbbiakban: felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
-- d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
+  - ca) a honvédelmi egészségügyi szolgáltató vezetője, valamint
+  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese,
+- d) vezető: a c) pontban foglaltakat kivéve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese.
 
 (2) Az egészségügyi honvédelmi alkalmazott tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
@@ -1330,7 +1343,7 @@ eltöltött időt.
 
 (5) Az egészségügyi honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszony keretében – az Eütv. 3. § i) pontja szerinti sürgős szükség esetét és jogszabályban meghatározott eseteket kivéve – nem nyújthat egészségügyi szolgáltatást ugyanazon személy számára, akinek más – e törvény hatálya alá nem tartozó – jogviszonyban már ugyanazon betegség tekintetében egészségügyi szolgáltatást nyújtott.
 
-(6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+(6)
 
 (7) Ha az Eszjtv. és a felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi honvédelmi alkalmazottra is alkalmazni kell.
 
@@ -1517,6 +1530,7 @@ kivéve, ha hozzájárul a kirendeléséhez.
 - 34. a helyettesítési díjra való jogosultság eseteit, annak mértékét.
 - 35. a 89/D. § (1) bekezdés b) pontja szerinti munkaköröket.
 - 36. a 99/E. § szerinti árvák kiegészítő támogatása megállapításának és folyósításának szabályait.
+- 37. a KNBSZ személyi állományába tartozó honvédelmi alkalmazottak – 44/A. § (1) bekezdése szerinti – munkáltatói igazolványának, valamint jelvényének rendszeresítésével és kiadásának rendjével összefüggő szabályokat.
 
 93/A. § A miniszter a Katonai Nemzetbiztonsági Szolgálat honvédelmi alkalmazottai pszichikai alkalmasságának vizsgálatára vonatkozó szabályokat közjogi szervezetszabályozó eszközben határozza meg.
 
@@ -1610,6 +1624,19 @@ jogviszony-megszűnésnek.
 
 99/E. § E törvénynek a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépését megelőző napon hatályos 82/A. §-a és 82/B. §-a alapján a 2020. július 1-je és a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépése közötti időszakra járó árvák kiegészítő támogatását utólag, egy összegben, miniszteri rendeletben meghatározottak szerint kell megállapítani és folyósítani, és 2022. december 31-ig, de legkésőbb a jogosultság jogerős megállapítását követő 60. napig kell kifizetni.
 
+99/F. § (1) A honvédelmi alkalmazott a 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvény (a továbbiakban: Módtv1.) hatálybalépésétől számított két hónapon belül jogosult az 55. § szerinti apasági szabadságot igénybe venni, ha a Módtv1. hatálybalépése előtt
+
+- a) az 55. § szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) ha az 55. § szerinti apai pótszabadságot igénybe vette, annak és a Módtv1. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
+(2) E törvénynek a Módtv1.-el megállapított rendelkezéseit – e törvény eltérő rendelkezése hiányában – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
+(3) Az Mt. 46. §-ában foglalt kiegészítő tájékoztatást a Módtv1. hatálybalépésekor fennálló jogviszony esetén a Módtv1. hatálybalépését követő három hónapon belül a honvédelmi alkalmazott írásban kérheti a munkáltatótól.
+
+(4) A (3) bekezdés szerinti tájékoztatást a munkáltató a kérelem közlésétől számított 30 napon belül köteles megadni.
+
+(5) A munkáltató, ha a honvédelmi alkalmazott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, az Mt. 118/A. §-a szerinti szülői szabadságot – a honvédelmi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
 #### 18.
 
 #### 100. §
@@ -1624,7 +1651,13 @@ jogviszony-megszűnésnek.
 
 #### 19. Az Európai Unió jogi aktusainak való megfelelés
 
-105. § E törvény a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 6. cikkének, a 16. cikk b) pontjának, valamint a 19. cikkének – való megfelelést szolgálja.
+105. § E törvény
+
+- a) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 6. cikkének, a 16. cikk b) pontjának, valamint a 19. cikkének,
+- b) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelvnek,
+- c) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és a tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 ### 1. melléklet a 2018. évi CXIV. törvényhez
 

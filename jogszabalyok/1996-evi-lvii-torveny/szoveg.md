@@ -143,7 +143,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 16. § A megállapodások meghatározott csoportjait a Kormány rendeletben mentesítheti a 11. §-ban foglalt tilalom alól. A Kormány a megállapodások csoportos mentesüléséről a törvény 17. §-ában foglalt szempontok figyelembevételével rendelkezhet.
 
-16/A. § (1) Nem vonatkozik a versenykorlátozás tilalma alóli csoportos mentesülés a megállapodásra, ha a megállapodás és az érintett piacon érvényesülő további hasonló megállapodások együttes hatásaként a 17. §-ban foglaltak nem teljesülnek.
+16/A. § (1) Nem vonatkozik a versenykorlátozás tilalma alóli csoportos mentesülés a megállapodásra, ha a megállapodás hatásaként vagy a megállapodás és az érintett piacon érvényesülő további hasonló megállapodások együttes hatásaként a 17. §-ban foglaltak nem teljesülnek.
 
 (2) A Gazdasági Versenyhivatal eljárása során megállapíthatja, hogy az (1) bekezdésben foglaltakra tekintettel a csoportos mentesülés kedvezménye a jövőre nézve nem vonatkozik a megállapodásra.
 
@@ -211,7 +211,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 (5) E törvény alkalmazásában vállalkozásrésznek minősülnek az olyan eszközök vagy jogok – ideértve a vállalkozás ügyfél állományát is –, amelynek megszerzése önmagában vagy a megszerző vállalkozás rendelkezésére álló eszközökkel és jogokkal együtt elégséges a piaci tevékenység végzéséhez.
 
-24. § (1) A vállalkozások összefonódását a Gazdasági Versenyhivatalnak be kell jelenteni, ha valamennyi érintett vállalkozáscsoport [26. § (5) bekezdés], valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen a tizenötmilliárd forintot meghaladja, és az érintett vállalkozáscsoportok között van legalább két olyan vállalkozáscsoport, melynek az előző évi nettó árbevétele a vállalkozáscsoport tagjai és más vállalkozások által közösen irányított vállalkozások előző évi nettó árbevételével együtt egymilliárd forint felett van.
+24. § (1) A vállalkozások összefonódását a Gazdasági Versenyhivatalnak be kell jelenteni, ha valamennyi érintett vállalkozáscsoport [26. § (5) bekezdése], valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen a húszmilliárd forintot meghaladja, és az érintett vállalkozáscsoportok között van legalább két olyan vállalkozáscsoport, amelynek az előző évi nettó árbevétele a vállalkozáscsoport tagjai és más vállalkozások által közösen irányított vállalkozások előző évi nettó árbevételével együtt egymilliárd-ötszázmillió forint felett van.
 
 (2) Az egymilliárd forintos küszöbérték meghatározásakor figyelembe kell venni az összefonódás következtében az irányítását elvesztő vállalkozáscsoportba tartozott vállalkozásokkal az összefonódást megelőző kétéves időszakban az irányítást megszerző vállalkozáscsoport által végrehajtott minden olyan összefonódást, amely tekintetében versenyfelügyeleti eljárás lefolytatására nem került sor, kivéve a bejelentett és a 43/N. § (1) bekezdés b) pontja szerint tudomásul vett összefonódást.
 
@@ -226,11 +226,11 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 kell figyelembe venni.
 
-(4) Az (1)–(3) bekezdés alapján bejelentési kötelezettség alá nem tartozó összefonódást is be kell jelenteni a Gazdasági Versenyhivatalnál, ha nem nyilvánvaló, hogy az nem csökkenti jelentős mértékben a versenyt az érintett piacon (14. §), különösen gazdasági erőfölény létrehozása vagy megerősítése következményeként, és ha valamennyi érintett vállalkozáscsoport, valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen az ötmilliárd forintot meghaladja (a továbbiakban: összefonódás-vizsgálati küszöbérték).
+(4) Az (1)–(3) bekezdés alapján bejelentési kötelezettség alá nem tartozó összefonódást is be lehet jelenteni a Gazdasági Versenyhivatalnál, ha nem nyilvánvaló, hogy az nem csökkenti jelentős mértékben a versenyt az érintett piacon (14. §), különösen gazdasági erőfölény létrehozása vagy megerősítése következményeként, és ha valamennyi érintett vállalkozáscsoport, valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen az ötmilliárd forintot meghaladja (a továbbiakban: összefonódás-vizsgálati küszöbérték).
 
 24/A. § A Kormány a vállalkozások összefonódását közérdekből – így különösen a munkahelyek megőrzése, az ellátás biztonsága érdekében – nemzetstratégiai jelentőségűnek minősítheti. Az ilyen összefonódást nem kell a Gazdasági Versenyhivatalnak a 24. § szerint bejelenteni.
 
-25. § (1) A 24. §-tól eltérően nem kell bejelenteni a biztosítóintézet, a hitelintézet, a pénzügyi holding társaság, a vegyes tevékenységű holding társaság, a befektetési vállalkozás vagy a vagyonkezelő szervezet átmeneti irányítás- vagy vagyonszerzését, amelynek célja a továbbértékesítés előkészítése, és az irányításszerző vállalkozás irányítási jogait nem vagy kizárólag az ehhez feltétlenül szükséges mértékben gyakorolja, ha az irányítás- vagy vagyonszerzés időtartama az egy évet nem haladja meg.
+25. § (1) A 24. §-tól eltérően nem kell bejelenteni a biztosító, a biztosítói holdingtársaság, a hitelintézet, a pénzügyi holding társaság, a vegyes pénzügyi holding társaság, a vegyes tevékenységű biztosítói holding társaság, a befektetési vállalkozás, a befektetési alap vagy a befektetési alapkezelő átmeneti irányítás- vagy vagyonszerzését, amelynek célja a továbbértékesítés előkészítése, és az irányításszerző vállalkozás irányítási jogait nem vagy kizárólag az ehhez feltétlenül szükséges mértékben gyakorolja, ha az irányítás- vagy vagyonszerzés időtartama az egy évet nem haladja meg.
 
 (2) Ha a továbbértékesítés egy éven belül mégsem valósul meg, az összefonódást – legkésőbb az egyéves átmeneti idő lejártától számított tizenöt napon belül – be kell jelenteni a Gazdasági Versenyhivatalnak. A bejelentés elmulasztása esetén az összefonódás a 29. § szerinti tilalomba ütközően végrehajtott összefonódásnak minősül.
 
@@ -264,13 +264,15 @@ kell figyelembe venni.
 
 (5) A közösen irányított vállalkozás nettó árbevételét egyenlő arányban kell megosztani az azt irányító vállalkozások között, oly módon, hogy az azonos vállalkozás-csoporthoz tartozó vállalkozásokat az irányítási arány számítása szempontjából egynek kell tekinteni.
 
-(6) A nettó árbevételt az összefonódás létrejöttének a 28. § (2) bekezdése szerinti időpontjához képest – ha az összefonódást már végrehajtották, az összefonódás végrehajtásának időpontjához képest – utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
+(6) Az összefonódás bejelentése esetén a nettó árbevételt az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének, az irányítási jog megszerzésének vagy az összefonódás-bejelentés benyújtásának időpontjai közül a legkorábbi időpontot megelőző utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
+
+(6a) A 67. § (3) bekezdése szerinti eljárás indítása esetén a nettó árbevételt az összefonódás végrehajtásának időpontjához képest utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
 
 (7) A külföldi devizában meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank által közzétett, az adott vállalkozás üzleti évének lezárásakor érvényes deviza-középárfolyamot kell alkalmazni.
 
 28. § (1) A 24. § szerinti összefonódást összeolvadás vagy beolvadás, valamint közös vállalkozás létrehozása esetén a közvetlen résztvevő, minden más esetben a vállalkozásrészt, illetve a közvetlen irányítást megszerző vagy az azt irányító vállalkozás köteles bejelenteni.
 
-(2) Az összefonódás-bejelentés az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, a szerződés megkötésének vagy az irányítási jog megszerzésének időpontjai közül a legkorábbit követően nyújtható be.
+(2) Az összefonódás-bejelentés az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, a szerződés megkötésének vagy az irányítási jog megszerzésének időpontjai közül a legkorábbit követően nyújtható be. A bejelentés az összefonódás jóhiszemű elhatározásának igazolása mellett is benyújtható.
 
 29. § (1) A 24. § (1) bekezdése szerinti összefonódás az összefonódás-bejelentés elintézésére a 43/N. § (1) bekezdésében előírt határidő leteltéig, illetve – ha az összefonódás-bejelentés alapján e határidőn belül az összefonódás vizsgálatára versenyfelügyeleti eljárás indult – a versenyfelügyeleti eljárást befejező döntésig, de legfeljebb az eljárásra irányadó ügyintézési határidő lejártáig nem hajtható végre, így különösen az összefonódás következtében szerzett szavazati jogok, illetve a vezető tisztségviselők kijelölésére vagy megválasztására vonatkozó jogosultságok nem gyakorolhatók; az összeolvadó vagy beolvadó, illetve a korábban független vállalkozás vagy vállalkozásrész döntéseinek meghozatala és az összefonódó vállalkozások közötti üzleti kapcsolatok folytatása során az összefonódást megelőző helyzet alapján kell eljárni.
 
@@ -345,6 +347,8 @@ kell figyelembe venni.
 
 (2c) A Gazdasági Versenyhivatal tagja az Európai Unió tagállamainak versenyhatóságai és az Európai Bizottság közötti együttműködésnek teret adó Európai Versenyhatóságok Hálózatának. A Gazdasági Versenyhivatal az Európai Versenyhatóságok Hálózatába tartozó versenyhatóságok közötti szoros együttműködés sérelme nélkül látja el feladatait, és gyakorolja hatásköreit.
 
+(2d) A Gazdasági Versenyhivatal a digitális ágazat vonatkozásában a versengő és tisztességes piacokról, valamint az (EU) 2019/1937 és az (EU) 2020/1828 irányelv módosításáról (digitális piacokról szóló jogszabály) szóló, 2022. szeptember 14-i (EU) 2022/1925 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/1925 európai parlamenti és tanácsi rendelet] szerinti illetékes hatóságként az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazása során együttműködik az Európai Bizottsággal és az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságokkal.
+
 (3) A Gazdasági Versenyhivatal véleményezi a feladat- és hatáskörét érintő, továbbá a versenyt – különösen valamely tevékenység gyakorlása, a piacra lépés feltételeinek meghatározása vagy kizárólagossági jogok biztosítása révén – korlátozó vagy a verseny feltételeit – ideértve a verseny szabadságát sértő magatartásokkal szembeni fellépést is – befolyásoló, valamint az árakra vagy az értékesítési feltételekre vonatkozó előírásokat tartalmazó szabályozási koncepciókat, jogszabálytervezeteket az önkormányzati rendeletek kivételével. A jegyző kezdeményezheti az önkormányzati rendelet tervezetének véleményezését a Gazdasági Versenyhivatalnál.
 
 (4) A Gazdasági Versenyhivatal a verseny társadalmi elfogadottsága, a vállalkozások jogkövető magatartásának előmozdítása, a versenybarát, illetve a tudatos fogyasztói döntéshozatalt biztosító szabályozási környezet megalkotásának elősegítése, valamint a fogyasztói tudatosság növelése érdekében – különösen a versenyjog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok, a versenyjoggal, verseny-, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésének támogatásával, a versenypolitikával, valamint a fogyasztói döntéshozatallal és az annak védelmével kapcsolatos tájékozottság növelésével – hozzájárul a versenykultúra és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztéséhez, a verseny, valamint a fogyasztói döntéshozatal közgazdasági és jogi kérdéseivel foglalkozó szakmai közélet fejlődéséhez.
@@ -399,7 +403,7 @@ kell figyelembe venni.
 - b) képviseli a Gazdasági Versenyhivatalt,
 - c) megállapítja a Gazdasági Versenyhivatal szervezeti és működési szabályzatát, jóváhagyja a Versenytanács szervezeti és működési szabályzatát, meghatározza a Gazdasági Versenyhivatal szervezetét, alaplétszámát, kiadmányozási rendjét, szabályzatban meghatározhatja az álláshelyek besorolási kategóriáit,
 - d) gyakorolja – az e törvényben meghatározott kivételekkel – a munkáltatói jogokat a Gazdasági Versenyhivatal elnökhelyettesei, a Versenytanács tagjai, valamint a Gazdasági Versenyhivatal köztisztviselői és munkavállalói felett, ellátja a Küt.-ben a hivatali szerv vezetője számára meghatározott feladatokat,
-- e) kijelöli az 1/2003/EK tanácsi rendelet szerinti Versenykorlátozó Magatartások és Erőfölényes Helyzetek Tanácsadó Bizottságában, valamint a 139/2004/EK tanácsi rendelet szerinti Összefonódások Tanácsadó Bizottságában a Gazdasági Versenyhivatalt képviselő személyeket,
+- e) kijelöli az 1/2003/EK tanácsi rendelet szerinti Versenykorlátozó Magatartások és Erőfölényes Helyzetek Tanácsadó Bizottságában, a 139/2004/EK tanácsi rendelet szerinti Összefonódások Tanácsadó Bizottságában, valamint az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti Digitális Piac Tanácsadó Bizottságában és – az Európai Versenyhatóságok Hálózatától érkező felkérés esetén – a Digitális Piacok Magas Szintű Szakértői Bizottságában a Gazdasági Versenyhivatalt képviselő személyeket,
 - f) irányítja a Gazdasági Versenyhivatal versenykultúrát és a tudatos fogyasztói döntéshozatal kultúráját fejlesztő tevékenységét,
 - g) megállapítja a Gazdasági Versenyhivatalnál foglalkoztatottakra vonatkozó hivatásetikai alapelveket és az etikai, valamint a fegyelmi eljárásra vonatkozó részletszabályokat.
 
@@ -412,7 +416,33 @@ kell figyelembe venni.
 
 (3) A (2) bekezdés c) pontja szerinti éves beszámolónak tartalmaznia kell különösen a Versenytanács tagjainak kinevezéséről és felmentéséről, a 33/A. § (2) bekezdésével összefüggésben az adott évben kiutalt források összegéről, valamint az ezen összegben az előző évekhez képest bekövetkező bármely változásról szóló tájékoztatást. Az éves beszámolót a Gazdasági Versenyhivatal honlapján nyilvánosan hozzáférhetővé teszi.
 
-(4)
+(4) A Gazdasági Versenyhivatal elnöke
+
+- a) a Gazdasági Versenyhivatal hatáskörébe tartozó, feltételezetten jogsértő piaci magatartással kapcsolatos aggályainak ismertetése érdekében, és
+- b) a feltételezetten jogsértő piaci magatartásnak a magatartást tanúsító vállalkozás általi felülvizsgálata, valamint a jogkövető magatartás elősegítése céljából
+
+felszólító levelet (a továbbiakban: felszólító levél) küldhet a magatartást tanúsító vállalkozás részére.
+
+(4a) A felszólító levél
+
+- a) nem jelenti jogsértés megállapítását, és
+- b) nem képezi akadályát a Gazdasági Versenyhivatal hatáskörébe tartozó eljárások lefolytatásának.
+
+(4b) A felszólító levél tartalmazza
+
+- a) a címzett vállalkozás megnevezését,
+- b) a feltételezetten jogsértő magatartás ismertetését, és
+- c) a válaszadásra rendelkezésre álló, legalább 45 napos – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvt.) 3. § (2) bekezdése szerinti kisvállalkozás esetében legalább 60 napos – határidőt.
+
+(4c) A felszólító levélben címzett vállalkozás önkéntes válaszadás keretében jelezheti a Gazdasági Versenyhivatal részére a felszólító levélben foglaltakkal kapcsolatos álláspontját, különösen, hogy milyen lépéseket tett vagy kíván tenni a jogkövető magatartás helyreállítása érdekében.
+
+(4d) A Gazdasági Versenyhivatal honlapján évente közzéteszi
+
+- a) a feltételezett jogsértést,
+- b) az érintett piacot, és
+- c) az érintett piacok bontásában, a tárgyévben kiküldött felszólító levelek számát
+
+tartalmazó listát.
 
 (5) A Kormány, a miniszterek vagy a nemzetközi szervezetek felkérésére a Gazdasági Versenyhivatal elnöke tájékoztatást ad a gazdasági versenyt érintően a működése során szerzett tapasztalatairól és a gazdasági versennyel kapcsolatos kérdésekről.
 
@@ -639,9 +669,10 @@ vonatkozó rendelkezéseit azzal, hogy ügyfél alatt a bejelentőt és – az a
 
 - a) a 67. § (2), (3) vagy (5) bekezdése alapján vizsgálatot rendel el,
 - b) megállapítja, hogy a bejelentésben foglalt, illetve a bejelentés alapján lefolytatott eljárásban beszerzett adatok alapján a versenyfelügyeleti eljárás megindításának a 67. § (2), (3) vagy (5) bekezdésében meghatározott feltételei nem állnak fenn,
-- c) az eljárást megszünteti, ha a bejelentésben foglaltak tekintetében
-  - ca) a bejelentettel szemben már versenyfelügyeleti eljárás van folyamatban, vagy
+- c) az eljárást megszünteti, ha
+  - ca) a bejelentésben foglaltak tekintetében a bejelentettel szemben már versenyfelügyeleti eljárás van folyamatban,
   - cb) a Gazdasági Versenyhivatal a bejelentésben foglaltakat – a bejelentésben foglaltakkal azonos tényállás és változatlan jogi szabályozás mellett – már elbírálta, vagy
+  - cc) a bejelentő a bejelentést visszavonta, vagy
 - d) hatáskör hiányában a bejelentést átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
 
 (8) A (7) bekezdés szerinti határidőt a Gazdasági Versenyhivatal elnöke indokolt esetben annak letelte előtt egy alkalommal legfeljebb két hónappal meghosszabbíthatja.
@@ -892,7 +923,7 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 - d) az egyéb védett adatot, kivéve, ha
   - da) az adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogának gyakorlását, és az érintett adat védelmét szabályozó külön törvény az iratbetekintést nem zárja ki, vagy
   - db) az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak,
-- e) a Gazdasági Versenyhivatal, az Európai Bizottság, valamint a tagállami versenyhatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, valamint a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok közti, vagy az utóbbiak egymás közötti levelezését, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,
+- e) a Gazdasági Versenyhivatal, az Európai Bizottság, valamint a tagállami versenyhatóságok, valamint az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, valamint a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok vagy az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok közti, vagy ezek egymás közötti levelezését, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,
 - f) e törvény eltérő rendelkezése hiányában, a 65/B. § vagy a 65/C. § hatálya alá tartozó kutatási másolatot, köztes munkamásolatot, illetve vizsgálati munkamásolatot.
 
 (2) Valamely iratba való betekintés meghatározott adat üzleti titok vagy magántitok jellegére hivatkozással – az adat e jellege egyéb törvényi feltételeinek fennállása esetén – csak abban az esetben korlátozható, ha az adatot szolgáltató, illetve az, akitől az adat a Gazdasági Versenyhivatal birtokába jutott (a továbbiakban együtt: adatot szolgáltató személy), az adat szolgáltatásával egyidejűleg vagy – ha az adat a 65/B. §-ban meghatározott módon került a Gazdasági Versenyhivatal birtokába – a vizsgáló erre irányuló felhívásában megjelölt határidőn belül megjelölte az üzleti titokként vagy magántitokként kezelendő adatokat, továbbá – ha a titok jogosultja eltér az adatot szolgáltató személytől – a titok jogosultját.
@@ -1058,7 +1089,7 @@ kell figyelembe venni.
 
 (3) A fizetési kedvezményre vonatkozó szabályokat kell megfelelően alkalmazni meghatározott cselekmény teljesítésére irányuló kötelezettség esetén is.
 
-(4) A teljesítési határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem rendelték el – a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Ha a vizsgáló, illetve az eljáró versenytanács elutasítja az igazolási kérelmet és a fizetési kedvezmény iránti kérelmet, egyidejűleg dönt a végrehajtás elrendeléséről is.
+(4) A teljesítési határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem rendelték el – a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Az igazolási kérelem, illetve a fizetési kedvezmény iránti kérelem elutasítása esetén a vizsgáló dönt a végrehajtás elrendeléséről is.
 
 ### Az ügyintézési határidő
 
@@ -1289,7 +1320,7 @@ számított hatvan napon belül kell előterjeszteni.
 - a) nem nyilvánvaló, hogy az összefonódás az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését, vagy
 - b) az összefonódás-bejelentés nem felel meg a 43/J. § (1) bekezdésében foglalt követelményeknek vagy – a 24. § (1) bekezdése szerinti összefonódás esetén – a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 171. §-a alapján be kell szerezni a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) szakhatósági állásfoglalását, és nem áll rendelkezésre a Médiatanács olyan előzetes szakhatósági hozzájárulása, amely az összefonódást feltétel és kötelezettség előírása nélkül engedélyezi.
 
-(5) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a bejelentésköteles összefonódás vizsgálatát akkor is, ha a valószínűsíthetően az összefonódás-vizsgálati küszöbértéket elérő nem bejelentett összefonódás tekintetében nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
+(5) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a 24. § (4) bekezdése szerinti összefonódás vizsgálatát akkor is, ha a valószínűsíthetően az összefonódás-vizsgálati küszöbértéket elérő nem bejelentett összefonódás tekintetében nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
 
 (5a) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a 25/B. § (1) bekezdése szerinti összefonódás vizsgálatát, ha nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
 
@@ -1317,7 +1348,7 @@ számított hatvan napon belül kell előterjeszteni.
 - a) a III. Fejezet rendelkezéseibe ütköző magatartás elkövetése óta három év,
 - b) a IV., illetve az V. Fejezet rendelkezéseibe ütköző magatartás elkövetése óta öt év,
 - c) összefonódás vizsgálatára irányuló eljárás esetén
-  - ca) a csak a 24. § (4) bekezdése szerint bejelentésköteles összefonódás vagy a 25/B. § (1) bekezdése szerinti összefonódás végrehajtása óta hat hónap,
+  - ca) a 24. § (4) bekezdése vagy a 25/B. § (1) bekezdése szerinti összefonódás végrehajtása óta hat hónap,
   - cb) a ca) alpont hatálya alá nem tartozó esetben az összefonódás végrehajtása óta öt év,
 - d) a 67. § (7) bekezdés a)és b) pontja szerinti esetben az összefonódás végrehajtása óta öt év,
 - e) a 67. § (7) bekezdés c) pontja szerinti esetben a határozat véglegessé válása óta öt év
@@ -1584,7 +1615,7 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 
 (7) Az (5)–(6b) bekezdésben meghatározott végzés ellen önálló jogorvoslatnak van helye.
 
-(8) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvénynek a hatósági ellenőrzést végző szervek részéről a bírságtól való eltekintésre vonatkozó rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatók. Az említett törvény szerinti mikro-, kis- vagy középvállalkozással (a továbbiakban együtt: kis- vagy középvállalkozás) szemben az első esetben előforduló jogsértés esetén az eljáró versenytanács bírság kiszabása helyett figyelmeztetést is alkalmazhat, ha a vállalkozásnak az eljárás során tanúsított magatartása alapján alaposan feltételezhető, hogy a vállalkozás jövőbeni magatartásának jogszerűsége, az újabb jogsértés elkövetésétől való tartózkodása így is biztosítható.
+(8) A Kkvt.-nek a hatósági ellenőrzést végző szervek részéről a bírságtól való eltekintésre vonatkozó rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatók. A Kkvt. szerinti mikro-, kis- vagy középvállalkozással (a továbbiakban együtt: kis- vagy középvállalkozás) szemben az első esetben előforduló jogsértés esetén az eljáró versenytanács bírság kiszabása helyett figyelmeztetést is alkalmazhat, ha a vállalkozásnak az eljárás során tanúsított magatartása alapján alaposan feltételezhető, hogy a vállalkozás jövőbeni magatartásának jogszerűsége, az újabb jogsértés elkövetésétől való tartózkodása így is biztosítható.
 
 (9) Az eljáró versenytanács nem tekinthet el a bírságtól a (8) bekezdés alapján, ha
 
@@ -1766,6 +1797,8 @@ vonatkozik.
 
 (4) Ha az Európai Bizottság a 139/2004/EK tanácsi rendelet 9. cikke alapján hozott döntésével az uniós léptékű összefonódás elbírálását a Gazdasági Versenyhivatalhoz teszi át, összefonódás-bejelentésként az Európai Bizottságnak megküldött bejelentést kell tekinteni, és az összefonódás vizsgálatát el kell rendelni; a versenyfelügyeleti eljárásra a 67. § (4) bekezdés a) pontja alapján indított eljárásra vonatkozó szabályokat kell alkalmazni. A 139/2004/EK tanácsi rendelet 9. cikk (6) bekezdés második albekezdésében előírt tájékoztatási kötelezettség végrehajtására a vizsgálatot elrendelő végzés közlésével kerül sor.
 
+(4a) A Gazdasági Versenyhivatal felhasználhatja az (EU) 2022/1925 európai parlamenti és tanácsi rendelet 14. cikk (4) bekezdése alapján rendelkezésére bocsátott információkat arra, hogy a 139/2004/EK tanácsi rendelet 22. cikk (1) bekezdése alapján kérelmezze az Európai Bizottságnál az összefonódás vizsgálatát.
+
 (5) Ha a Gazdasági Versenyhivatal a 139/2004/EK tanácsi rendelet 22. cikk (1) bekezdése szerinti kérelemmel fordul az Európai Bizottsághoz, a vizsgáló az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást felfüggeszti. Ha az Európai Bizottság a Gazdasági Versenyhivatal kérelme alapján az összefonódás vizsgálatáról dönt, a vizsgáló az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást megszünteti. Ha az Európai Bizottság az összefonódás vizsgálatát mellőzi, a vizsgáló a versenyfelügyeleti eljárás felfüggesztését megszünteti, és az eljárást folytatja.
 
 (6) Ha a versenyfelügyeleti eljárásban vizsgált összefonódáshoz kapcsolódóan az Európai Bizottság a 139/2004/EK tanácsi rendelet 22. cikk (2) bekezdése alapján arról tájékoztatja a Gazdasági Versenyhivatalt, hogy más tagállamtól a 139/2004/EK tanácsi rendelet 22. cikk (1) bekezdése szerinti kérelem érkezett hozzá, a vizsgáló, illetve az eljáró versenytanács az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást felfüggeszti. Ha a Gazdasági Versenyhivatal nem kíván a kérelemhez csatlakozni, a vizsgáló, illetve az eljáró versenytanács – miután erről az Európai Bizottságot tájékoztatta – a versenyfelügyeleti eljárás felfüggesztését megszünteti, és az eljárást folytatja. Ha a Gazdasági Versenyhivatal a kérelemhez csatlakozik, és az Európai Bizottság az összefonódás vizsgálatáról dönt, a vizsgáló, illetve az eljáró versenytanács az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárást megszünteti. Ha a Gazdasági Versenyhivatal a kérelemhez csatlakozik, azonban az Európai Bizottság az összefonódás vizsgálatát mellőzi, a vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárás felfüggesztését megszünteti, és az eljárást folytatja.
@@ -1780,7 +1813,7 @@ vonatkozik.
 
 (3) Ha az Európai Bizottság vizsgálati cselekményének végrehajtásához a rendőrség közreműködése szükséges, annak biztosítása érdekében az Európai Bizottság kérésére a Gazdasági Versenyhivatal jár el.
 
-80/F. § Ha az 1/2003/EK tanácsi rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, e foganatosításra a versenyfelügyeleti eljárás szabályait kell megfelelően alkalmazni. Ilyen esetben az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról és – az 1/2003/EK tanácsi rendelet 22. cikk (1) bekezdése szerinti esetben – az eljárás során felmerült, a Gazdasági Versenyhivatal által megelőlegezett költség megállapításáról szóló végzésével zárul.
+80/F. § Ha az 1/2003/EK tanácsi rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, e foganatosításra a versenyfelügyeleti eljárás szabályait kell alkalmazni. Ilyen esetben az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul. A Bizottság vagy másik tagállam versenyhatósága nem kötelezhető az eljárás során felmerült költségek viselésére.
 
 ### XI/B. Fejezet — Eljárás az (EU) 2017/2394 rendelet alkalmazása során
 
@@ -1805,19 +1838,21 @@ vonatkozik.
 
 ### XI/C. Fejezet — A TAGÁLLAMI VERSENYHATÓSÁGOK KÖZÖTTI KÖLCSÖNÖS SEGÍTSÉGNYÚJTÁS
 
-80/I. § (1) Ha az 1/2003/EK tanácsi rendelet 22. cikk (1) bekezdése alapján más tagállam versenyhatósága vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, arra a versenyfelügyeleti eljárás szabályait kell megfelelően alkalmazni. Ilyen esetben az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról és az eljárás során felmerült, a Gazdasági Versenyhivatal által megelőlegezett költség megállapításáról szóló végzésével zárul.
+80/I. § (1) Ha az 1/2003/EK tanácsi rendelet 22. cikk (1) bekezdése alapján más tagállam versenyhatósága vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, arra a versenyfelügyeleti eljárás szabályait kell alkalmazni. Ilyen esetben az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul. A másik tagállam versenyhatósága nem kötelezhető az eljárás során felmerült költségek viselésére.
 
 (2) Ha a Gazdasági Versenyhivatal az (1) bekezdés alapján helyszíni kutatást végez vagy meghallgatást tart, az e vizsgálati cselekmény foganatosítását kérő más tagállami versenyhatóság (e fejezet alkalmazásában a továbbiakban: megkereső versenyhatóság) tisztviselője, valamint az e tisztviselőt kísérő személyek a vizsgálati cselekményt foganatosító vizsgáló felügyelete mellett részt vehetnek a vizsgálati cselekményen.
 
-(3) A Gazdasági Versenyhivatal az (1) bekezdés szerint jár el akkor is, ha a megkereső versenyhatóság annak megállapítása érdekében kéri vizsgálati cselekmény foganatosítását a Gazdasági Versenyhivataltól, hogy a vállalkozás vagy a vállalkozások társulása eleget tett-e a megkereső versenyhatóság által hozott, a vállalkozás vagy vállalkozások társulása székhelyeként vagy telephelyeként bejelentett vagy egyébként általa gazdasági tevékenység folytatására, illetve ilyen célból használt ingatlanon, járművön vagy adathordozón végzett helyszíni kutatást, adat vagy irat szolgáltatását vagy ideiglenes intézkedést elrendelő, jogsértés tényét megállapító és a jogsértés megszüntetését elrendelő vagy kötelezettségvállalást jóváhagyó döntésben foglalt rendelkezéseknek. Az e bekezdés szerinti vizsgálati cselekményt a Gazdasági Versenyhivatal a megkereső versenyhatóság nevében és költségére foganatosítja.
+(3) A Gazdasági Versenyhivatal az (1) bekezdés szerint jár el akkor is, ha a megkereső versenyhatóság annak megállapítása érdekében kéri vizsgálati cselekmény foganatosítását a Gazdasági Versenyhivataltól, hogy a vállalkozás vagy a vállalkozások társulása eleget tett-e a megkereső versenyhatóság által hozott, a vállalkozás vagy vállalkozások társulása székhelyeként vagy telephelyeként bejelentett vagy egyébként általa gazdasági tevékenység folytatására, illetve ilyen célból használt ingatlanon, járművön vagy adathordozón végzett helyszíni kutatást, adat vagy irat szolgáltatását vagy ideiglenes intézkedést elrendelő, jogsértés tényét megállapító és a jogsértés megszüntetését elrendelő vagy kötelezettségvállalást jóváhagyó döntésben foglalt rendelkezéseknek. Az e bekezdés szerinti vizsgálati cselekményt a Gazdasági Versenyhivatal a megkereső versenyhatóság nevében foganatosítja. A megkereső versenyhatóság nem kötelezhető az eljárás során felmerült költségek viselésére.
 
 (4) A Gazdasági Versenyhivatal jogosult a (3) bekezdés szerinti eljárásban a megkereső versenyhatósággal információt cserélni. Az információcsere során az 1/2003/EK tanácsi rendelet 12. cikkében foglalt biztosítékok alkalmazandók.
 
-80/J. § (1) A Gazdasági Versenyhivatal a megkereső versenyhatóság nevében, költségére és a 80/L. §-ban meghatározottaknak megfelelő kérelmére értesíti a megkereső hatóság által eljárás alá vont vállalkozást vagy vállalkozások társulását vagy az eljárás egyéb résztvevőjét (e fejezet alkalmazásában a továbbiakban: címzett)
+80/J. § (1) A Gazdasági Versenyhivatal a megkereső versenyhatóság nevében és a 80/L. §-ban meghatározottaknak megfelelő kérelmére értesíti a megkereső hatóság által eljárás alá vont vállalkozást, vállalkozások társulását vagy az eljárás egyéb résztvevőjét (e fejezet alkalmazásában a továbbiakban együtt: címzett)
 
 - a) az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások feltételezett elkövetésével szembeni előzetes kifogásokról és az e cikkeket alkalmazó döntésekről,
 - b) a megkereső versenyhatóság jogérvényesítési eljárásai során elfogadott minden olyan eljárási aktusról, amely a megkereső versenyhatóság joga alapján értesítési kötelezettséggel jár, és
 - c) az EUMSz. 101. vagy 102. cikkének alkalmazásához kapcsolódó minden egyéb releváns okiratról, beleértve a bírságokat vagy eljárási bírságokat kiszabó döntések végrehajtására vonatkozó iratokat is.
+
+(1a) A megkereső versenyhatóság nem kötelezhető az eljárás során felmerült költségek viselésére.
 
 (2) Az (1) bekezdés szerinti értesítésre a versenyfelügyeleti eljárás szabályait kell megfelelően alkalmazni azzal, hogy az eljárás a vizsgálónak az értesítés teljesítéséről és az eljárás során felmerült, a Gazdasági Versenyhivatal által megelőlegezett költség megállapításáról szóló végzésével zárul.
 
@@ -1833,7 +1868,7 @@ vonatkozik.
 
 (5) Az (1) vagy (2) bekezdés szerinti megkeresés alapján elrendelt végrehajtás eredményeként beszedett összeg a megkereső versenyhatóság bevétele.
 
-(6) A Gazdasági Versenyhivatal az e § szerinti intézkedéseivel kapcsolatban felmerülő költségeit levonhatja a megkereső versenyhatóság nevében behajtott bírságból vagy eljárási bírságból. Ha a bírság e költségeket nem fedezi, a Gazdasági Versenyhivatal kérheti költségeinek megtérítését a megkereső versenyhatóságtól.
+(6) A Gazdasági Versenyhivatal nem kérheti az e § szerinti intézkedéseivel kapcsolatban felmerülő költségeinek megtérítését a megkereső versenyhatóságtól.
 
 (7) A Gazdasági Versenyhivatal az e § szerinti intézkedéseivel kapcsolatban felmerülő költségeinek megtérítésére a végrehajtás alá vont vállalkozást is kötelezheti.
 
@@ -1896,15 +1931,36 @@ jogszerűsége tárgyában.
 
 80/P. § A Gazdasági Versenyhivatal a nyomozó hatóság kérésére kapcsolatot tart a Büntető Törvénykönyvről szóló 2012. évi C. törvény 420. § (5) és (6) bekezdésében meghatározott mentesség megállapítását lehetővé tevő eljárást lefolytató tagállami versenyhatósággal.
 
+### XI/D. Fejezet — Eljárás az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazása során
+
+80/Q. § (1) Az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazása során e törvény rendelkezéseit az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+
+(2) E fejezet alkalmazásában kapuőr vállalkozás az (EU) 2022/1925 európai parlamenti és tanácsi rendelet 3. cikke szerint kijelölt kapuőr vállalkozás.
+
+80/R. § Ha az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, a foganatosításra a versenyfelügyeleti eljárás szabályait kell alkalmazni azzal az eltéréssel, hogy
+
+- a) az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul,
+- b) a Gazdasági Versenyhivatal által végzett helyszíni kutatáson vagy az általa tartott meghallgatáson az Európai Bizottság tisztviselője és a tisztviselőt kísérő személy – a vizsgálati cselekményt foganatosító vizsgáló felügyelete mellett – részt vehet,
+- c) a helyszíni kutatáshoz szükséges előzetes bírói engedély iránti kérelmet az Európai Bizottság közvetlenül vagy a Gazdasági Versenyhivatal útján terjeszti a bíróság elé, és
+- d) ha az Európai Bizottság vizsgálati cselekményének végrehajtásához a rendőrség közreműködése szükséges, annak biztosítása érdekében az Európai Bizottság kérésére a Gazdasági Versenyhivatal jár el.
+
+80/S. § (1) Ha az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alapján az Európai Bizottság vagy valamely, az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóság azt kéri, vagy a tájékoztatás az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alapján kötelező, a Gazdasági Versenyhivatal az Európai Bizottság és az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok rendelkezésére bocsáthat – a korlátozottan megismerhető adatot is ideértve – bármely, az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti tájékoztatási kötelezettség hatálya alá tartozó, az általa végzett eljárási cselekményekre, jogi vagy ténykérdésre vonatkozó információt.
+
+(2) A Gazdasági Versenyhivatal versenyfelügyeleti eljárást indíthat annak megállapítása érdekében, hogy álláspontja szerint a kijelölt kapuőr vállalkozás megfelel-e az (EU) 2022/1925 európai parlamenti és tanácsi rendelet 5–7. cikke szerinti kötelezettségeknek. Az e bekezdés szerinti versenyfelügyeleti eljárás a vizsgálónak a jelentés Európai Bizottság részére történő átadásáról szóló végzésével zárul.
+
+80/T. § Az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazásával a bíróság által hozott jogerős ítélet másolatát a határozatot hozó bíróság a felekkel való közlést követően megküldi az Országos Bírósági Hivatal részére. Az Országos Bírósági Hivatal a jogerős ítélet másolatát haladéktalanul továbbítja az igazságügyért felelős miniszter felé az Európai Bizottsághoz történő továbbítás céljából.
+
 ### XII. Fejezet — Jogorvoslat a Gazdasági Versenyhivatal versenyfelügyeleti eljárásában
 
-### A közigazgatási hatósági eljárás szabályainak alkalmazása
-
-80/Q. § A jogorvoslatra az e fejezetben nem szabályozott kérdésekben az Ákr. rendelkezéseit kell megfelelően alkalmazni.
+#### 80/Q. §
 
 ### A vizsgálati kifogás
 
 81. § Az ügyfél a vizsgálati eljárás szabálytalanságát a szabálytalannak tartott intézkedéstől számított nyolc napon belül kifogásolhatja. A kifogás figyelmen kívül hagyását a vizsgáló a jelentésben, az eljáró versenytanács az eljárást befejező döntésében köteles megindokolni.
+
+### A közigazgatási hatósági eljárás szabályainak alkalmazása
+
+81/A. § A jogorvoslatra az e fejezetben nem szabályozott kérdésekben az Ákr. rendelkezéseit kell alkalmazni.
 
 ### Az eljárás során hozott végzések elleni jogorvoslat
 
@@ -2483,10 +2539,10 @@ végrehajtási eljárásokra is alkalmazni kell.
 
 (3) E törvény
 
-- a) 1. § (2) bekezdése, 33. § (1) és (2a) bekezdése, 36. § (1) bekezdés e) pontja, 43/H. § (11) bekezdése, 80/A. § (1) bekezdése, 80/B. §-a, 80/C. §-a, 80/D. § (1)–(3) bekezdése, 80/E. §-a és 80/F. §-a a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendeletnek,
-- b) 36. § (1) bekezdés e) pontja, 80/A. § (2) bekezdése, 80/D. § (4)–(7) bekezdése és 80/F. §-a a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendeletnek,
+- a) 1. § (2) bekezdése, 33. § (1) és (2a) bekezdése, 36. § (1) bekezdés e) pontja, 43/H. § (11) bekezdése, 80/A. § (1) bekezdése, 80/B. §-a, 80/C. §-a, 80/D. § (1)–(3) bekezdése, 80/E. §-a, 80/F. §-a és 80/I–80/K. §-a a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendeletnek,
+- b) 36. § (1) bekezdés e) pontja, 80/A. § (2) bekezdése, 80/D. § (4)–(7) bekezdése, 80/F. §-a és 80/I–80/K. §-a a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendeletnek,
 - c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendeletnek,
-- d)
+- d) 33. § (2d) bekezdése, 36. § (1) bekezdés e) pontja, 55/A. § (1) bekezdés e) pontja, 80/D. § (4a) bekezdése és 80/Q–80/S. §-a a digitális ágazat vonatkozásában a versengő és tisztességes piacokról, valamint az (EU) 2019/1937 és az (EU) 2020/1828 irányelv módosításáról (digitális piacokról szóló jogszabály) szóló, 2022. szeptember 14-i (EU) 2022/1925 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
