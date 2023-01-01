@@ -22,7 +22,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 2. § E törvény alkalmazásában
 
-- 1. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által kiadott Útmutató a munkaügy-statisztikai adatszolgáltatáshoz című kiadvány 2009. január 1. napján érvényes szabályai szerint meghatározott állományi létszám;
+- 1. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által a munkaügyi-statisztikai adatszolgáltatáshoz kiadott, az adóév első napján hatályos kiadvány szerint meghatározott állományi létszám;
 - 2. beszámoló: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.), vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 - 3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
 - 4. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvényben egyéni cégként meghatározott jogalany;
@@ -54,7 +54,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 - 20. kedvezményezett foglalkoztatott után érvényesíthető kedvezmény:
   - a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka;
   - b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első két évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás harmadik évében;
-  - c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
+  - c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
   - d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a foglalkoztatott után megállapított Szocho. tv. szerinti adóalap, de havonta legfeljebb a minimálbér kétszerese;
   - e) a 19. pont e) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 500 ezer forint;
   - f) a 19. pont f) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 100 ezer forint;
@@ -114,7 +114,11 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 
 #### 11. Számviteli alapelvek
 
-15. § A III. Fejezetet az Szt. rendelkezéseire figyelemmel, azokkal összhangban kell értelmezni. Az Szt. előírásaitól a megbízható és valós összkép biztosítása érdekében történő eltérés nem eredményezheti az adókötelezettség változását. A kisvállalati adó alanya az Szt. hatálya alá tartozik.
+15. § (1) A III. Fejezetet az Szt. rendelkezéseire figyelemmel, azokkal összhangban kell értelmezni. Az Szt. előírásaitól a megbízható és valós összkép biztosítása érdekében történő eltérés nem eredményezheti az adókötelezettség változását.
+
+(2) A kisvállalati adó alanya – a fiókteleppel nem rendelkező külföldi vállalkozót és a belföldi üzletvezetési hellyel rendelkező külföldi személy kivételével – az Szt. hatálya alá tartozik.
+
+(3) A fiókteleppel nem rendelkező külföldi vállalkozó és a belföldi üzletvezetési hellyel rendelkező külföldi személy az adóigazgatási rendtartásról szóló törvény és az Art. bizonylatokra, könyvvezetésre és nyilvántartásra előírt kötelezettségeit az Szt. előírásai szerint, a kettős könyvvitelt vezető vállalkozókra vonatkozó szabályok megfelelő alkalmazásával teljesíti.
 
 #### 12. Az adó alanya
 
@@ -143,7 +147,7 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 - d) üzleti évének mérlegforduló napja december 31.;
 - e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg a 3 milliárd forintot;
 - f) ellenőrzött külföldi társasággal az adóévet megelőző adóévben nem rendelkezik;
-- g) az az összeg, amellyel az adózó vállalkozási tevékenysége érdekében felmerült, Tao. tv. szerinti finanszírozási költségei meghaladják az adózó adóköteles kamatbevételeit és a gazdasági értelemben azzal egyenértékűnek tekintendő adóköteles bevételeit, az adóévet megelőző adóévben várhatóan nem haladja meg a 939 810 000 forintot.
+- g) az adóévet megelőző adóévben a Tao. tv. 7. § (1) bekezdés ny) pontja, illetve 8. § (1) bekezdés j) pontja alkalmazásával társasági adóalap módosítást várhatóan nem kell végrehajtania.
 
 (3) A (2) bekezdésben meghatározott állományi létszám és bevételi határok számítása során a kapcsolt vállalkozások átlagos statisztikai állományi létszámát és bevételét együttesen, az utolsó beszámolóval lezárt üzleti év adatai alapján kell figyelembe venni.
 
@@ -153,7 +157,7 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 18. § Az adóalany nem határozhatja el mérlegforduló napjának megváltoztatását, továbbá számviteli beszámolóját csak forintban állíthatja össze.
 
-18/A. § A fiókteleppel nem rendelkező külföldi vállalkozó és a belföldi üzletvezetési hellyel rendelkező külföldi személy az adóigazgatási rendtartásról szóló törvény és az Art. bizonylatokra, könyvvezetésre és nyilvántartásra előírt kötelezettségeit az Szt. előírásai szerint, a kettős könyvvitelt vezető vállalkozókra vonatkozó szabályok megfelelő alkalmazásával teljesíti.
+#### 18/A. §
 
 #### 13. Az adóalanyiság keletkezése és megszűnése
 
@@ -171,14 +175,15 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 - b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 - d) az adóalany egyesülését, szétválását megelőző nappal;
-- e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
+- e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtakibocsátási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért véglegessé vált döntéssel mulasztási bírságot, jövedéki bírságot állapított meg;
 - f) az adóalany adószámának alkalmazását törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
 - g) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásának napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha az adóalany az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti;
 - h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
 - i) a Tao. tv. szerinti kedvezményezett eszközátruházás vagy kedvezményezett részesedéscsere esetén az eszközátruházás vagy részesedéscsere napját megelőző napon;
 - j) az üzleti év mérlegfordulónapjának megváltoztatása esetén a választott mérlegfordulónappal;
 - k) ha az adózó ellenőrzött külföldi társasággal rendelkezik, annak az adóévnek az első napját megelőző nappal, amely adóévben a külföldi vállalkozónak nem minősülő külföldi személy vagy külföldi telephely ellenőrzött külföldi társaságnak minősül;
-- l) ha az az összeg, amellyel az adózó vállalkozási tevékenysége érdekében felmerült, Tao. tv. szerinti finanszírozási költségei meghaladják az adózó adóköteles kamatbevételeit és a gazdasági értelemben azzal egyenértékűnek tekintendő, adóköteles bevételeit az adóévben várhatóan meghaladja a 939.810.000 forintot, az adóév első napját megelőző nappal.
+- l) ha az adózónak az adóévben a Tao. tv. 7. § (1) bekezdés ny) pontja, illetve 8. § (1) bekezdés j) pontja alkalmazásával társasági adóalap módosítást kellene végrehajtania, az adóév első napját megelőző nappal,
+- m) ha az adózónak az adóévben a Tao. tv. 16/A. §-a, illetve 16/B. §-a alkalmazásával társasági adóalap módosítást kellene végrehajtania, az adóév első napját megelőző nappal.
 
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az állami adó- és vámhatóságnak.
 
@@ -200,7 +205,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 (2) E fejezet alkalmazásában személyi jellegű kifizetésnek minősül
 
 - a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
-- b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
+- b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 - c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 - d) a Szocho. tv. 1. § (4) bekezdés b) pontja szerinti béren kívüli juttatásnak nem minősülő egyes meghatározott juttatás.
 
@@ -222,7 +227,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 - a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke növekedéseként elszámolt összeget,
 - b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként,
 - c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
-- d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
+- d)
 
 (5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint, a Tao. tv. 18. § (9), (11) és (12) bekezdésében foglalt rendelkezések figyelembevételével kell megállapítani.
 
@@ -347,7 +352,7 @@ együttes összegének a 10 százaléka.
 - a) a Tanács 2003/49/EK irányelve (2003. június 3.) a különböző tagállambeli társult vállalkozások közötti kamat- és jogdíjfizetések közös adózási rendszeréről;
 - b) a Tanács 2009/133/EK irányelve (2009. október 19.) a különböző tagállamok társaságainak egyesülésére, szétválására, részleges szétválására, eszközátruházására és részesedéscseréjére, valamint az SE-k vagy az SCE-k létesítő okirat szerinti székhelyének a tagállamok közötti áthelyezésére alkalmazandó adóztatás közös rendszeréről;
 - c) a Tanács 2011/96/EU irányelve (2011. november 30.) a különböző tagállamok anya- és leányvállalatai esetében alkalmazandó adóztatás közös rendszeréről;
-- d) a Tanács 2016/1164 EU irányelve (2016. július 12.) a belső piac működését közvetlenül érintő adókikerülési gyakorlatok elleni szabályok megállapításáról.
+- d) a Tanács 2016/1164 EU irányelve (2016. július 12.) a belső piac működését közvetlenül érintő adókikerülési gyakorlatok elleni szabályok megállapításáról és a Tanács 2017/952 EU irányelve (2017. május 29.) az (EU) 2016/1164 irányelvnek a harmadik országokat érintő hibrid struktúrákból adódó diszkrepanciák tekintetében történő módosításáról.
 
 (2) E törvény a Gazdasági Együttműködési és Fejlesztési Szervezet Adóalap-erózió és Nyereség-átcsoportosítás Projekt 4. akciópontja kapcsán publikált jelentés figyelembevételével készült szabályozást tartalmaz.
 
@@ -377,9 +382,9 @@ együttes összegének a 10 százaléka.
 
 (5) Az állami adó- és vámhatóság e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított módosításairól 2016. november 1-jéig tájékoztatást nyújt az érintett adózónak.
 
-(6) Az állami adó- és vámhatóság a nyilvántartásában szereplő adatok alapján megállapítja az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontja szerinti csökkentő tétel összegét és arról, valamint annak levezetéséről 2017. december 31-ig tájékoztatást küld az érintett adózónak.
+(6)
 
-(7) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontját az adózó abban az adóévben alkalmazhatja, melynek első napja 2017-ben van.
+(7)
 
 (8) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontját és 20. § (4) bekezdés b) pontját a 2017. adóévi adókötelezettség megállapításakor a kisvállalati adóalanyiság időszaka alatt jóváhagyott, de még be nem folyt vagy ki nem fizetett osztalék összegére is alkalmazni kell.
 
@@ -411,4 +416,6 @@ együttes összegének a 10 százaléka.
 
 32/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 20. § (5) bekezdését első alkalommal a 2022. adóévi adókötelezettség megállapítása során kell alkalmazni.
 
-#### 33–34. §
+#### 33. §
+
+#### 34. §

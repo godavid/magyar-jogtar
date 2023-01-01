@@ -778,7 +778,7 @@ nincs helye.
 - a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, az Országos Bírósági Hivatal, a Legfőbb Ügyészség,
 - b)
 - c) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
-- d) a fővárosi és megyei kormányhivatal.
+- d) a fővárosi és vármegyei kormányhivatal.
 
 (3) A (2) bekezdésben nem szereplő közfeladatot ellátó szervek a 37. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
 
@@ -907,7 +907,7 @@ adatait teszik közzé.
 
 40. § (1) A Hatóságot elnök vezeti. A Hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki, azok közül a jogász végzettségű, az országgyűlési képviselők választásán választható, magyar állampolgárok közül, akik az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében legalább tíz év szakmai tapasztalattal rendelkeznek, vagy e területek valamelyikén tudományos fokozatot szereztek.
 
-(2) A Hatóság elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnöke, nemzetiségi önkormányzat tagja, illetve párt tisztségviselője vagy alkalmazottja volt.
+(2) A Hatóság elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, vármegyei közgyűlés elnöke vagy alelnöke, nemzetiségi önkormányzat tagja, illetve párt tisztségviselője vagy alkalmazottja volt.
 
 (3) A köztársasági elnök a Hatóság elnökét kilenc évre nevezi ki. A Hatóság elnöke a megbízatásának megszűnését követően a Hatóság elnökének egy alkalommal újra kinevezhető.
 
@@ -1711,7 +1711,7 @@ való megfelelést szolgálja.
 |  | Adat | Frissítés | Megőrzés |
 | --- | --- | --- | --- |
 | 1. | A közfeladatot ellátó szerv feladatát, hatáskörét és alaptevékenységét meghatározó, a szervre vonatkozó alapvető jogszabályok, közjogi szervezetszabályozó eszközök, valamint a szervezeti és működési szabályzat vagy ügyrend, az adatvédelmi és adatbiztonsági szabályzat hatályos és teljes szövege | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
-| 2. | Az országos illetékességű szervek, valamint a fővárosi és megyei kormányhivatal esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven | A változásokat követően azonnal | Az előző állapot törlendő |
+| 2. | Az országos illetékességű szervek, valamint a fővárosi és vármegyei kormányhivatal esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven | A változásokat követően azonnal | Az előző állapot törlendő |
 | 3. | A helyi önkormányzat önként vállalt feladatai | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
 | 4. | Államigazgatási, önkormányzati, és egyéb hatósági ügyekben ügyfajtánként és eljárástípusonként a hatáskörrel rendelkező szerv megnevezése, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv megnevezése, illetékességi területe, az ügyintézéshez szükséges dokumentumok, okmányok, eljárási illetékek (igazgatási szolgáltatási díjak) meghatározása, alapvető eljárási szabályok, az eljárást megindító irat benyújtásának módja (helye, ideje), ügyfélfogadás ideje, az ügyintézés határideje (elintézési, fellebbezési határidő), az ügyek intézését segítő útmutatók, az ügymenetre vonatkozó tájékoztatás és az ügyintézéshez használt letölthető formanyomtatványok, az igénybe vehető elektronikus programok elérése, időpontfoglalás, az ügytípusokhoz kapcsolódó jogszabályok jegyzéke, tájékoztatás az ügyfelet megillető jogokról és az ügyfelet terhelő kötelezettségekről | A változásokat követően azonnal | Az előző állapot törlendő |
 | 5. | A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások megnevezése, tartalma, a közszolgáltatások igénybevételének rendje, a közszolgáltatásért fizetendő díj mértéke, az abból adott kedvezmények | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |

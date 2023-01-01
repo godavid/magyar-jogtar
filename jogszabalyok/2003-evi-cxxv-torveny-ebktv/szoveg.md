@@ -2,7 +2,15 @@
 
 az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról
 
-Az Országgyűléselismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,kinyilvánítva azt, hogy az esélyegyenlőség és a társadalmi felzárkózás előmozdítása elsősorban állami kötelezettség,tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
+Az Országgyűlés
+
+elismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,
+
+azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,
+
+kinyilvánítva azt, hogy az esélyegyenlőség és a társadalmi felzárkózás előmozdítása elsősorban állami kötelezettség,
+
+tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
 
 a következő törvényt alkotja:
 
@@ -353,8 +361,9 @@ ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen
 - f) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a munka törvénykönyvéről szóló 2012. évi I. törvény 12. § (2) bekezdésében meghatározott munkabér megállapításában és biztosításában;
 - g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteiben;
 - h) az előmeneteli rendszerben;
-- i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során, valamint
-- j) a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő szülői szabadság kérelmezésével, illetve igénybevételével összefüggésben.
+- i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során,
+- j) a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő apasági szabadság, szülői szabadság és a gyermek gondozása céljából a gyermek hároméves koráig igénybe vehető fizetés nélküli szabadság kérelmezésével, vagy igénybevételével összefüggésben, valamint
+- k) a gondozói munkaidő-kedvezmény kérelmezésével vagy igénybevételével összefüggésben.
 
 22. § (1) Nem jelenti az egyenlő bánásmód követelményének megsértését
 
@@ -511,35 +520,67 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 ### V/A. Fejezet
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-39/A. §
+#### 39/A. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46–62. §
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -555,7 +596,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 63/A. § E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Ebktv.
 
-64. §
+#### 64. §
 
 64/A. § A 31. § (6) és (7) bekezdését 2013. július 1-jét követően kell alkalmazni.
 
@@ -583,7 +624,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 - f) a Tanács 2000/43/EK irányelve a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének végrehajtásáról,
 - g) a Tanács 2000/78/EK irányelve a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek a létrehozásáról,
 - h) a Tanács 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
-- i) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelv,
+- i) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelv,
 - j) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK tanácsi irányelv,
 - k) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv,
 - l) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv,

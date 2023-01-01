@@ -251,7 +251,9 @@ szükséges, az eljáró jogi képviselő megkövetelheti a cégalapításhoz ka
 
 (4) Ha a cégiratban a jogszabályban előírt, illetve a cégjegyzék adattartalmát meghaladó személyes adat kerül feltüntetésre, a cégiratot szerkesztő jogi képviselő köteles felhívni a természetes személy figyelmét arra, hogy a személyes adatának az okiratban való feltüntetéséhez való hozzájárulása egyben azzal is jár, hogy az a cégiratok nyilvánosságának elve alapján bárki számára megismerhetővé válik.
 
-(5)–(6)
+(5)
+
+(6)
 
 11. § A cégnyilvánosságot a cégbíróság, a céginformációs szolgálat, valamint a Cégközlöny biztosítja.
 
@@ -292,7 +294,9 @@ megismerhetők.
 
 (3)
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Az eltiltott személyekre vonatkozó adatok ingyenes céginformációként – külön jogszabályban meghatározott módon – keresőprogram segítségével, csoportosított lekérdezés útján ismerhetőek meg.
 
@@ -515,7 +519,8 @@ megismerhetők.
 - t) a cég üzleti évének mérlegfordulónapját, amennyiben az üzleti év eltér a naptári évtől,
 - u) ha a cég tagja (tulajdonosa) a Magyar Állam, az állam tulajdonosi jogait gyakorló szerv nevét és székhelyét,
 - v) azt a tényt, ha a cég tagja, képviseletére jogosult személy eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
-- z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
+- z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg,
+- zs) a cég Európai Unió más tagállamában bejegyzett fióktelepe esetén a fióktelep nevét, további megnevezés esetén e megnevezéseit, székhelyét, nyilvántartásba vételének napját, ha ilyen adattal rendelkezik, működése megkezdésének napját.
 
 (1a) A cégbíróság hivatalból jegyzi be az EUID-val rendelkező cég cégjegyzékébe a cég Európai Unió más tagállamában bejegyzett fióktelepét, ha a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül értesítést kap a fióktelep bejegyzéséről.
 
@@ -667,8 +672,11 @@ megismerhetők.
 
 (12) Közjegyzői iroda esetében
 
-- a) tagok nevét, lakóhelyét, a közjegyző tag esetében a hivatali helyiségének (irodájának) címét is,
-- b) a közjegyző tag (tagok) szavazati jogának terjedelmét.
+- a) a tagok nevét, lakóhelyét, a közjegyző tag esetében a hivatali helyiségének (irodájának) címét is,
+- b) a közjegyző tag (tagok) szavazati jogának terjedelmét, valamint
+- c) a helyettes irodavezető nevét, lakóhelyét, születési idejét, anyja születési nevét, valamint e tisztségét, e jogviszonya keletkezésének időpontját, továbbá azt a tényt, ha a helyettes irodavezető közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája benyújtásra került.
+
+(13) A helyettes irodavezető bejegyzése iránti változásbejegyzési kérelemnek – a területi kamara elnökségének határozata alapján – a cégjegyzékbe bejegyzett irodavezető törlésére irányuló kérelmet is tartalmaznia kell. A helyettes irodavezető cégjegyzékből való törlésére irányuló változásbejegyzési kérelemnek tartalmaznia kell – a területi kamara elnökségének határozata alapján – a közjegyzői iroda képviseletére a továbbiakban jogosult személy cégjegyzékbe bejegyzendő adatait is.
 
 28. § A cégjegyzék cégformánként a 24–26. §-ban meghatározottakon túlmenően az alábbi adatokat is tartalmazza:
 
@@ -1056,7 +1064,7 @@ hiánypótlás nélküli visszautasítása
 
 egyes rendelkezések
 
-53. § (1) A változást illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságnak, ha a változás állami vagy önkormányzati döntés alapján a cég székhelyének (telephelyének, fióktelepének) más megye illetékességi területéhez való csatolására vagy a cégjegyzékbe bejegyzett helységnév, utcanév, illetve házszám változására vonatkozik. A cég a változást annak bekövetkezését követő 180 napon belül köteles bejelenteni a cégbíróságnak.
+53. § (1) A változást illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságnak, ha a változás állami vagy önkormányzati döntés alapján a cég székhelyének (telephelyének, fióktelepének) más vármegye illetékességi területéhez való csatolására vagy a cégjegyzékbe bejegyzett helységnév, utcanév, illetve házszám változására vonatkozik. A cég a változást annak bekövetkezését követő 180 napon belül köteles bejelenteni a cégbíróságnak.
 
 (2) Az adószám, valamint a statisztikai számjel változását az azt megállapító szervezet, a főtevékenység és a további tevékenységi körök változását az állami adóhatóság, a cég pénzforgalmi számlájával kapcsolatos változást pedig a számlát vezető pénzforgalmi szolgáltató közli a cégbírósággal elektronikus úton. A változás bejegyzése automatikusan, elektronikus úton történik meg.
 
@@ -1831,6 +1839,8 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (9) Ha e törvény eltérően nem rendelkezik, a cégbíróság általános intézkedési kötelezettségének határideje tizenöt munkanap.
 
+(10) Ha e fejezet rendelkezése szerint a cégbíróság által hozott végzéssel szemben fellebbezésnek van helye, a másodfokú bíróság a fellebbezést 30 munkanapon belül bírálja el.
+
 ### 2. CÍM — A KÉNYSZERTÖRLÉS LEFOLYTATÁSA, CÉGBÍRÓSÁG ÁLTAL LEFOLYTATOTT VAGYONFELMÉRÉS
 
 117. § (1) A kényszertörlési eljárás megindításáról szóló jogerős végzést a cégbíróság a Cégközlönyben közzéteszi. A közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor. A kényszertörlés kezdő időpontja a közzététel napja.
@@ -1846,6 +1856,8 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 azt a közzétételt követő negyven napon belül jelentse be a cégbíróságnak. A határidő elmulasztása esetén igényét a kényszertörlési eljárásban már nem érvényesítheti.
 
 (2a) A céggel szembeni követelés bejelentése esetén a beadvány tartalmazza a követelés jogosultjának nevét vagy elnevezését, lakcímét vagy székhelyét, szervezet esetén nyilvántartási számát, a követelés jogalapját, összegét és esetleges járulékait, keletkezésének és esedékességének időpontját is. Ha a követelést nem valamely hatóság jelenti be, a beadványhoz a követelést megalapozó okiratokat is csatolni kell.
+
+(2b) A cégbíróság a követelést tartalmazó elkésett bejelentést visszautasítja; e végzés ellen fellebbezésnek van helye.
 
 (3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
 
@@ -1884,6 +1896,8 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (3) Ha a kényszertörlési eljárásra a 116. § (1) bekezdés a) pontjában meghatározott okból került sor, a cégbíróság a cég továbbműködése feltételeinek fennállására tekintettel a megszűntnek nyilvánítással kapcsolatosan a cégjegyzékbe bejegyzett adatokat is törli.
 
+(4) A kényszertörlési eljárás megszüntetése iránti kérelmet visszautasító, valamint elutasító végzéssel szemben fellebbezésnek van helye.
+
 ### 2a. Cím
 
 ### A törvénysértő működésben való közrehatás és a bejelentett követelések vizsgálata
@@ -1907,7 +1921,7 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (8) Ha a céggel szembeni követelés – a cégbíróságnak a hiányok pótlására vonatkozó felhívása ellenére – nem került megfelelő módon bejelentésre és emiatt a követelés fennállása, jogosultja, jogalapja, illetve összegszerűsége nem állapítható meg, vagy a követelés jogosultja, jogalapja, illetve összegszerűsége a cégbíróság által hivatalosan ismert vagy köztudomású tényekkel ellentétesen került megjelölésre, a cégbíróság a bejelentett követelést vitatott követelésként veszi figyelembe, kivéve ha az eltiltással érintett személy e követelést elismeri.
 
-117/E. § (1) Ha az eltiltással érintett személy vitatja a bejelentett követelést vagy annak egy részét, meg kell jelölnie a vitatás indokát és az annak alapjául szolgáló tényeket, valamint csatolnia kell azt az okiratot vagy annak másolatát, amelyre bizonyítékként hivatkozik. Ha a követelés közokiraton alapul, a követelés jogalapja a kényszertörlési eljárásban nem vitatható. Ha az eltiltással érintett személy a vitatás indokát nem jelöli meg vagy az ellentmondásos, a cégbíróság a (3) bekezdés szerinti végzésében elutasítja a követelés vitatását.
+117/E. § (1) Ha az eltiltással érintett személy vitatja a bejelentett követelést vagy annak egy részét, meg kell jelölnie a vitatás indokát és az annak alapjául szolgáló tényeket, valamint csatolnia kell azt az okiratot vagy annak másolatát, amelyre bizonyítékként hivatkozik. Ha a követelés közokiraton alapul, a követelés a kényszertörlési eljárásban nem vitatható, ide nem értve az arra való hivatkozást, hogy a követelés megfizetése részben vagy egészben már megtörtént. Ha az eltiltással érintett személy a vitatás indokát nem jelöli meg vagy az ellentmondásos, vagy a követelés a kényszertörlési eljárásban nem vitatható, a cégbíróság a (3) bekezdés szerinti végzésében elutasítja a követelés vitatását.
 
 (2) Ha az eltiltással érintett bármely személy a követelést vagy annak egy részét vitatja, a cégbíróság az eltiltással érintett személy beadványát megküldi a követelés bejelentőjének, és felhívja, hogy a beadványban foglaltakra tizenöt napos jogvesztő határidőn belül nyilatkozzon. Ha e határidő alatt a követelés bejelentője nem nyilatkozik, a cégbíróság a követelést vitatott követelésként veszi figyelembe.
 
@@ -1943,13 +1957,13 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (5) A cégbíróság – a 117. § szerinti bejelentésre és a vagyonfelmérés adataira tekintet nélkül – megszünteti a kényszertörlési eljárást és kezdeményezi a cég ellen felszámolási eljárás megindítását, ha a cég pénzkövetelés vagy pénzben kifejezhető követelés megtérítésére irányuló peres eljárásban felperesként vesz részt, feltéve hogy az eljárás a kényszertörlés elrendelését megelőzően indult.
 
-(6) Ha a céggel szemben követelés bejelentésére nem került sor, azonban a cég fellelhető vagyonnal rendelkezik, a cégbíróság – eltiltás mellőzése mellett – a céget a 62. § (4) bekezdése figyelembevételével törli a cégjegyzékből. Ha azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, a cégbíróság kezdeményezi a cég ellen a felszámolási eljárás megindítását.
+(6) Ha a céggel szemben követelés bejelentésére nem került sor, azonban a cég fellelhető vagyonnal rendelkezik, a cégbíróság – a 116. § (1) bekezdés d) pontja szerinti esetben eltiltás mellőzése mellett – a céget a 62. § (4) bekezdése figyelembevételével törli a cégjegyzékből. Ha azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, a cégbíróság megszünteti a kényszertörlési eljárást és kezdeményezi a cég ellen a felszámolási eljárás megindítását.
 
 (6a) A cég törlése esetén, ha a cég fellelhető vagyontárggyal rendelkezik, a cégbíróság a Ptk. 3:48. § (2) bekezdése alkalmazásával rendelkezik a vagyontárgynak a tagok közötti felosztásáról, és szükség szerint rendelkezik a vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a tagot megillető tulajdonjog bejegyzéséről. A cégbíróság a cég törléséről rendelkező végzésében szükség szerint rendelkezik valamely vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tény törléséről is. A cégbíróság végzését a vagyontárgy tulajdonosának is megküldi.
 
 (6b) Az érintett nyilvántartásra vonatkozó szabályoktól eltérően a céget megillető vagyoni értékű jogok – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tények törlésére a cég törlését elrendelő, a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tény törléséről is rendelkező végzés csatolásával kerül sor. Az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
 
-(6c) A cégbíróság az eljárást befejező végzésében feltünteti a cég vagyontárgyait és azok – valószínűsíthető – értékét is. A cégbíróság az (1) és a (2) bekezdés szerinti végzésében a kényszertörlési eljárás kezdő időpontjában a cégjegyzékbe bejegyzett tagokat és vezető tisztségviselőit egyetemlegesen kötelezi az eljárás illetékének viselésére, kivéve, ha a kényszertörlési eljárás elrendelésére a 116. § (1) bekezdés d) pontja alapján került sor.
+(6c) A cégbíróság az eljárást befejező végzésében feltünteti a cég vagyontárgyait és azok – valószínűsíthető – értékét is. A cégbíróság az (1), a (2) és a (6) bekezdés szerinti, a cég törlését elrendelő végzésében a kényszertörlési eljárás kezdő időpontjában a cégjegyzékbe bejegyzett tagokat és vezető tisztségviselőit egyetemlegesen kötelezi az eljárás illetékének megfizetésére, kivéve, ha a kényszertörlési eljárás elrendelésére a 116. § (1) bekezdés d) pontja alapján került sor.
 
 (7) Az (1), a (2) és a (6) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a cég törlésére vonatkozó rendelkezésével szemben a végzés közzétételétől számított tizenöt napon belül fellebbezésnek van helye. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni. Ha az eljárás adatai alapján a cég tagja, vezető tisztségviselője, illetve az eltiltással érintett személy elérhető, a végzést a cégbíróság részükre postai úton kézbesíti.
 
@@ -1995,7 +2009,7 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (7) A perfelvétel során további írásbeli perfelvétel elrendelésének nincs helye, és a tárgyalási időköz nyolc nap. A tárgyalás kitűzésére vonatkozó határidő egy hónap.
 
-(8) A követelés jogosultja a pert azon eltiltott vezető tisztségviselővel, illetve taggal szemben indíthatja meg, akivel szemben a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt is alkalmazta.
+(8) A követelés jogosultja a pert azon eltiltott személlyel szemben indíthatja meg, akivel szemben a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt is alkalmazta.
 
 (9) Ha több jogosult terjeszt elő az (1) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti.
 
@@ -2316,7 +2330,9 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (4)
 
-(5)–(6)
+(5)
+
+(6)
 
 #### 136. §
 
@@ -2470,7 +2486,13 @@ c) az egyéni cég nyitó mérleg-tervezete és az Evectv. 27. § (3) bekezdés 
 
 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási, a cégbejegyzést követően az alapító okiratának, illetve cégadatának módosítási engedélye;
 
-11. közjegyzői iroda esetén a területi kamara elnökségének alapítási engedélye.
+11. közjegyzői iroda esetén
+
+a) a területi kamara elnökségének alapítási engedélye, kivéve, ha az alapítási engedélyt megadottnak kell tekinteni, utóbbi esetben a tagok erről szóló, legalább teljes bizonyító erejű magánokiratba foglalt nyilatkozata;
+
+b) a helyettes irodavezető bejegyzése esetén a területi kamara elnökségének a helyettes irodavezető kijelöléséről szóló határozata;
+
+c) a helyettes irodavezető törlése esetén a területi kamara elnökségének a helyettes irodavezetői megbízásnak a megszüntetéséről és a közjegyzői iroda képviseletére jogosult személy kijelöléséről szóló határozata.
 
 III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
@@ -2508,7 +2530,7 @@ fb) a különleges tárgyaló testület határozata arról, hogy a munkavállal�
 
 fc) a határokon átnyúló műveletben részt vevő társaság vezető tisztségviselőjének nyilatkozata, több részt vevő társaság esetén a vezető tisztségviselők közös nyilatkozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásának szabályairól – az európai részvénytársaságról szóló törvényben meghatározott határidőn belül – a különleges tárgyaló testülettel megállapodás nem jött létre.
 
-9. a határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
+9. a határokon átnyúló művelet útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
 
 a) az I. és II. pontban, valamint a 2. számú mellékletben meghatározott okiratok,
 
@@ -2752,11 +2774,11 @@ d) ha az európai szövetkezet a székhelyét Magyarországra helyezi át, a kü
 
 III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
-1.
+1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása;
 
 2. ha ilyen működik a cégnél, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
 
-3.
+3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása;
 
 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
 

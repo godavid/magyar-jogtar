@@ -263,6 +263,8 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 37/A. § A Ptk.-nak az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel módosított 4:181. § (4) bekezdését az azt módosító rendelkezés hatálybalépését követően indult ügyekben kell alkalmazni abban az esetben, ha a kapcsolattartást a bíróság 2021. január 1. napját követően szabályozta.
 
+37/B. § A Ptk.-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel módosított 4:181. § (3) bekezdését a 2023. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
 ### [A Ptk. 4:186. § (2) bekezdéséhez]
 
 38. § A gyámhatóság gyámrendelés iránti intézkedéséig fennmarad a szülő szülői felügyeleti joga, ha az a Ptk. 4:186. § (2) bekezdése értelmében szünetelne. A gyámhatóság a gyermek számára a Ptk. hatálybalépésétől számított hat hónapon belül gyámot rendel.
@@ -496,7 +498,9 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 ### IX. Fejezet — HATÁLYUKAT VESZTŐ JOGSZABÁLYOK
 
-#### 67–68. §
+#### 67. §
+
+#### 68. §
 
 ### X. Fejezet — A PTK. ÉS E TÖRVÉNY MEGNEVEZÉSE, HATÁLYBALÉPÉS
 

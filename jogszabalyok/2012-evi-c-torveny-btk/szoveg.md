@@ -476,7 +476,12 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (7) Nem bocsátható feltételes szabadságra az elítélt, ha ismételten életfogytig tartó szabadságvesztésre ítélik. Ha a korábbi életfogytig tartó szabadságvesztést még nem hajtották végre, az ismételten kiszabott életfogytig tartó szabadságvesztés nem hajtható végre.
 
-(8)
+(8) A bíróság a feltételes szabadságot megszünteti, ha az elítéltet
+
+- a) az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás alatt, vagy
+- b) az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás alatt elkövetett bűncselekmény miatt
+
+ismételten életfogytig tartó szabadságvesztés büntetésre ítélik.
 
 ### Az elzárás
 
@@ -560,7 +565,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 56. § (1) A járművezetéstől eltiltás határozott ideig tart, vagy végleges hatályú.
 
-(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az elkövető vezetői engedélyét – a járművezetéstől eltiltásra ítélését megelőzően – a bűncselekménnyel összefüggésben a helyszínen elvették, vagy azt a hatóságnál leadta.
+(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az elkövető vezetői engedélyét – a járművezetéstől eltiltásra ítélését megelőzően – a bűncselekménnyel összefüggésben a helyszínen elvették, azt a hatóságnál leadta, vagy a vezetési jogosultság azonnali felfüggesztését az engedély-nyilvántartásba a helyszínen bejegyezték.
 
 (3) A határozott ideig tartó eltiltás legrövidebb tartama egy hónap, leghosszabb tartama tíz év. A járművezetéstől eltiltást hónapokban vagy években, illetve években és hónapokban kell meghatározni.
 
@@ -971,7 +976,7 @@ szabadságvesztést lehet kiszabni.
 - a) a próbaidő alatt megállapítják, hogy a szabadságvesztés végrehajtását a 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztették fel,
 - b) az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik, vagy
 - c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi,
-- d) a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére visszatér.
+- d) a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére jogellenesen visszatér.
 
 88. § A büntetés végrehajtásának kegyelemből történt felfüggesztése esetén a végrehajtás elrendelésére a felfüggesztett büntetés végrehajtására vonatkozó rendelkezést megfelelően alkalmazni kell.
 
@@ -2194,7 +2199,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (5) Az a tizennyolcadik életévét betöltött személy, aki tizennyolcadik életévét be nem töltött személyt tiltott teljesítményfokozó szer használatára rábír, vagy ilyen személynek a tiltott teljesítményfokozó szer használatához segítséget nyújt, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(6) E § alkalmazásában tiltott teljesítményfokozó szer: minden olyan szer, amely hatóanyagára tekintettel az anabolikus szerek, peptid hormonok, növekedési faktorok és rokonvegyületeik, hormon antagonisták és modulátorok közé tartozik, és nevesítve szerepel a sportbeli dopping elleni nemzetközi egyezmény I. mellékletének kihirdetéséről szóló kormányrendeletben.
+(6) E § alkalmazásában tiltott teljesítményfokozó szer: minden olyan szer, amely hatóanyagára tekintettel az anabolikus szerek, peptid hormonok, növekedési faktorok és rokonvegyületeik, hormon antagonisták és modulátorok közé tartozik, és nevesítve szerepel a sportbeli dopping elleni nemzetközi egyezményt vagy annak módosítását kihirdető kormányrendeletben.
 
 ### Gyógyszerhamisítás
 
@@ -2208,7 +2213,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Ha az (1) bekezdésben meghatározott bűncselekményt az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének III. vagy IV. Jegyzékében meghatározott pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+(2) Ha az (1) bekezdésben meghatározott bűncselekményt az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 
 (3) A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben
 
@@ -2283,10 +2288,12 @@ követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 187. § (1) Aki ellenszolgáltatásért vagy rendszeresen
 
 - a) az orvosi gyakorlat,
-- b) az egészségügyi szakképesítéshez kötött pszichoterápiás gyakorlat vagy
+- b)
 - c) a nem-konvencionális gyógyító és természetgyógyászati eljárások
 
 körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Az (1) bekezdés szerint büntetendő, aki ellenszolgáltatásért vagy rendszeresen magát jogosulatlanul pszichoterapeutaként feltüntetve egészségügyi szolgáltatást végez.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a kuruzslást az orvosi gyakorlatra jogosultság színlelésével követik el.
 
@@ -4289,7 +4296,7 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a (1) bekezdésben meghatározott bűncselekményt
 
-- a) az 1997. évi CIV. törvénnyel kihirdetett, a vegyi fegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény 1. Mellékletének hatálya alá tartozó vegyi anyagoknak Magyarország területére vagy innen az Európai Unió vámterületére történő átadásával összefüggésben, vagy
+- a) a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény Melléklete módosításának kihirdetéséről szóló 2020. évi LXIII. törvény 1. mellékletének hatálya alá tartozó vegyi anyagoknak Magyarország területére vagy innen az Európai Unió vámterületére történő átadásával összefüggésben, vagy
 - b) nukleáris kettős felhasználású termékre
 
 követik el.
@@ -4619,30 +4626,27 @@ követik el.
 
 ### Jogellenes bevándorlás elősegítése, támogatása
 
-353/A. § (1) Aki szervező tevékenységet folytat annak érdekében, hogy
+353/A. § (1) Aki közreműködik abban, hogy más személy a hatósági eljárást érdemben befolyásoló körülményre nézve valótlan tartalmú nyilatkozattal vagy a valós tény elhallgatásával Magyarországon menekültügyi vagy más, tartózkodási jogcím megszerzését lehetővé tevő eljárást kezdeményezzen, illetve ilyen eljárásban a hatósági eljárást érdemben befolyásoló körülményre nézve valótlan tartalmú nyilatkozatot tegyen vagy a valós tényt elhallgassa, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
 
-- a) Magyarországon menedékjogi eljárás kezdeményezését tegye lehetővé olyan személy részére, aki hazájában vagy a szokásos tartózkodási helye szerinti országban vagy olyan más országban, amelyen keresztül érkezett, nincs faji, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, vallási, illetve politikai meggyőződése miatt üldözésnek kitéve, vagy a közvetlen üldöztetéstől való félelme nem megalapozott, vagy
-- b) a Magyarországra jogellenesen belépő vagy jogszerűtlenül tartózkodó személy tartózkodási jogcímet szerezzen,
-
-ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
-
-(2) Egy évig terjedő szabadságvesztéssel büntetendő, aki az (1) bekezdésben meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat vagy a szervező tevékenységet rendszeresen folytatja.
+(2) Egy évig terjedő szabadságvesztéssel büntetendő az (1) bekezdésben meghatározott bűncselekmény szervezője.
 
 (3) A (2) bekezdés szerint büntetendő, aki az (1) bekezdésben meghatározott bűncselekményt
 
-- a) vagyoni haszonszerzés végett,
-- b) több személynek segítséget nyújtva, vagy
-- c) a személyek határátlépésére irányadó szabályok uniós kódexéről szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 2. pontjának megfelelő Magyarország külső határának határvonalától, illetve a határjeltől számított 8 km-es sávon belül
+- a) vagyoni haszonszerzés végett, vagy
+- b) több személynek segítséget nyújtva
 
 követi el.
 
-(4) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha az elkövető a vádemelésig az elkövetés körülményeit feltárja.
+(4) A (2) bekezdés szerint büntetendő, aki az (1) vagy a (2) bekezdés szerinti bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
 
-(5) E § alkalmazásában szervező tevékenységnek minősül különösen, ha az (1) bekezdésben meghatározott célból
+(5) Az (1)–(4) bekezdésben meghatározott bűncselekmények miatt mindaddig, amíg az az alapügy, amelyben a bűncselekményeket elkövették, nem fejeződik be, büntetőeljárás csak az alapügyben eljáró hatóság feljelentése alapján indítható. Az ilyen feljelentés esetét kivéve az (1)–(4) bekezdésben meghatározott bűncselekmények büntethetőségének elévülése az alapügy befejezésének napján kezdődik.
 
-- a) Magyarország területének Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonalán, illetve határjelénél határmegfigyelést szervez,
-- b) információs anyagot készít, terjeszt vagy ilyenre megbízást ad,
-- c) hálózatot épít vagy működtet.
+(6) Nem büntethető az (1) bekezdésben meghatározott bűncselekmény elkövetője, ha
+
+- a) a valóság feltárása estén a hatósági eljárás alanya önmagát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
+- b) a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.
+
+(7) A büntetés korlátlanul enyhíthető − különös méltánylást érdemlő esetben mellőzhető − a (2)–(4) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.
 
 ### Jogellenes tartózkodás elősegítése
 
@@ -5354,7 +5358,7 @@ követik el.
 
 - a) készpénz-helyettesítő fizetési eszközt meghamisít,
 - b) hamis készpénz-helyettesítő fizetési eszközt készít, vagy
-- c) az elektronikus készpénzhelyesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket technikai eszközzel rögzíti,
+- c) az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket technikai eszközzel rögzíti,
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
@@ -5377,7 +5381,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 ### Készpénz-helyettesítő fizetési eszköz hamisításának elősegítése
 
-394. § (1) Aki készpénz-helyettesítő fizetési eszköz hamisításához vagy a készpénzhelyesítő fizetési eszközön lévő adat technikai eszközzel való rögzítéséhez szükséges anyagot, eszközt, berendezést vagy számítástechnikai programot készít, megszerez, tart, átad, forgalomba hoz, az ország területére behoz, onnan kivisz, vagy azon átszállít, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+394. § (1) Aki készpénz-helyettesítő fizetési eszköz hamisításához vagy a készpénz-helyettesítő fizetési eszközön lévő adat technikai eszközzel való rögzítéséhez szükséges anyagot, eszközt, berendezést vagy számítástechnikai programot készít, megszerez, tart, átad, forgalomba hoz, az ország területére behoz, onnan kivisz, vagy azon átszállít, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
 
@@ -5601,19 +5605,22 @@ a hitelező vagy a hitelezők kielégítését részben vagy egészben meghiús�
 
 ### Jogosulatlan pénzügyi tevékenység
 
-408. § (1) Aki törvényben előírt engedély nélkül
+408. § (1) Aki törvényben vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt engedély nélkül
 
 - a) pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási,
 - b) befektetési szolgáltatási, illetve befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei, központi értéktári vagy központi szerződő fél,
 - c) biztosítási, viszontbiztosítási,
-- d) önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási
+- d) önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, foglalkoztatói nyugdíj-szolgáltatási,
+- e) közösségi finanszírozási szolgáltatási
 
 tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Az (1) bekezdés szerint büntetendő, aki az Európai Biztosítás és Foglalkoztatói-nyugdíj Hatóság által vezetett központi nyilvántartásba vétel nélkül páneurópai egyéni nyugdíjtermék-szolgáltatási vagy -forgalmazási tevékenységet végez.
 
 (2) Aki az (1) bekezdés a)–c) pontjában megjelölt valamely tevékenységhez kapcsolódóan törvényben előírt
 
 - a) engedély nélkül közvetítői tevékenységet végez,
-- b) nyilvántartásba vétel, illetve bejelentés hiányában közvetítői tevékenységet végez oly módon, hogy annak megtörténte ellenőrzését elmulasztotta,
+- b) nyilvántartásba vétel, illetve bejelentés hiányában közvetítői tevékenységet, vagy elektronikuspénz-értékesítői tevékenységet végez oly módon, hogy annak megtörténte ellenőrzését elmulasztotta,
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
@@ -5644,7 +5651,8 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 - a) a bűncselekményt hivatalos személyként követik el,
 - b) a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként követik el,
-- c) a bűncselekménnyel érintett ügylet vagy ügyletek, megbízás vagy megbízások, ajánlat vagy ajánlatok abszolút értéke különösen nagy vagy ezt meghaladó értékű.
+- c) a bűncselekményt a nyilvánosan forgalomba hozott értékpapír-kibocsátónak a bennfentes információhoz feladatkörénél fogva hozzáférő tisztségviselőjeként vagy alkalmazottjaként követik el,
+- d) a bűncselekménnyel érintett ügylet vagy ügyletek, megbízás vagy megbízások, ajánlat vagy ajánlatok abszolút értéke különösen nagy vagy ezt meghaladó értékű.
 
 ### Bennfentes információ jogosulatlan közzététele
 
@@ -5664,11 +5672,12 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (3) Az (1) bekezdés szerint büntetendő az is, aki a gazdálkodó szervezet vagyoni helyzetéről vagy vezető állású személyéről e tevékenységével összefüggésben, illetve a gazdálkodó szervezetre vonatkozóan pénzügyi eszközről valótlan adat közlésével vagy híresztelésével, illetve adat elhallgatásával másokat tőkebefektetésre vagy a befektetés emelésére, illetve tőkebefektetés eladására vagy a befektetés csökkentésére rábír.
 
-(4) Aki az (1) bekezdésben meghatározott bűncselekményt
+(4) Aki az (1)–(3) bekezdésben meghatározott bűncselekményt
 
 - a) bűnszövetségben,
 - b) hivatalos személyként,
-- c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként
+- c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, vagy
+- d) nyilvánosan forgalomba hozott értékpapír-kibocsátó tisztségviselőjeként vagy alkalmazottjaként
 
 követi el, öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -5840,7 +5849,7 @@ követik el.
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint.
+(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint, vagy jelentős érdeksérelmet okoz.
 
 (4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt közérdekű üzem ellen követik el.
 
@@ -6274,7 +6283,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és a végrehajtói kézbesítésre felhatalmazott önálló bírósági végrehajtó jelölt,
   - i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
   - j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
-  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
   - a) a szolgálati feladatot teljesítő honvéd,
@@ -6310,10 +6319,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 15. információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
 - 16. kár: e törvény eltérő rendelkezése hiányában a bűncselekménnyel a vagyonban okozott értékcsökkenés;
 - 17. vagyoni hátrány: e törvény eltérő rendelkezése hiányában a vagyonban okozott kár és az elmaradt vagyoni előny;
-- 18. kábítószer:
-  - a) az 1988. évi 17. törvényerejű rendelettel kihirdetett, az Egységes Kábítószer Egyezmény módosításáról és kiegészítéséről szóló, Genfben, 1972. március 25-én kelt Jegyzőkönyvvel módosított és kiegészített, az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékében meghatározott anyag,
-  - b) az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékében meghatározott veszélyes pszichotróp anyag és
-  - c) az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 2. számú mellékletében meghatározott pszichotróp anyag;
+- 18. kábítószer: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
 - 19. készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz és a forgatható utalvány, a kincstári kártya, az utazási csekk, a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalvány és a váltó, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett;
 - 20. elektronikus készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz mellett a kincstári kártya és a személyi jövedelemadóról szóló törvény felhatalmazása alapján kiadott elektronikus utalvány, feltéve, hogy ezek információs rendszer útján kerülnek felhasználásra;
 - 21. közérdekű üzem:
@@ -6348,14 +6354,14 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - l) a zendülés minősített esetei [442. § (2)–(6) bekezdés] és az elöljáró vagy szolgálati közeg elleni erőszak [445. §];
 - 27. szexuális cselekmény: a közösülés és minden súlyosan szeméremsértő cselekmény, amely a nemi vágy felkeltésére, fenntartására vagy kielégítésére alkalmas, vagy arra irányul;
 - 28. üzletszerűen követi el a bűncselekményt, aki ugyanolyan vagy hasonló jellegű bűncselekmények elkövetése révén rendszeres haszonszerzésre törekszik;
-- 29. védekezésre képtelennek kell tekintetni azt is, aki helyzeténél vagy állapotánál fogva ideiglenesen vagy véglegesen nem képes ellenállás kifejtésére;
+- 29. védekezésre képtelennek kell tekinteni azt is, aki helyzeténél vagy állapotánál fogva ideiglenesen vagy véglegesen nem képes ellenállás kifejtésére;
 - 30. védett kulturális javak alatt érteni kell a védetté nyilvánított kulturális javakat is;
 - 31. visszaeső a szándékos bűncselekmény elkövetője, ha korábban szándékos bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték, és a büntetés kitöltésétől vagy végrehajthatósága megszűnésétől az újabb bűncselekmény elkövetéséig három év még nem telt el;
   - a) különös visszaeső az a visszaeső, aki mindkét alkalommal ugyanolyan vagy hasonló jellegű bűncselekményt követ el;
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
   - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 - 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
-- 33. új pszichoaktív anyag: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott anyag,
+- 33. új pszichoaktív anyag: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében meghatározott anyag;
 - 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
   - a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
   - b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
@@ -6432,14 +6438,14 @@ mértékét meghaladja.
 - b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,
 - c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
 
-(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma
+(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében szereplő jegyzék
 
-- a) az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet [a továbbiakban: 55/2014. (XII. 30.) EMMI rendelet] 1. mellékletében szereplő jegyzék 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
-- b) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,
-- c) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 3. pontja szerinti vegyületcsoport esetében a 2 gramm,
-- d) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 4. pontja szerinti vegyületcsoport esetében az 1 gramm,
-- e) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 4a. pontja szerinti vegyületcsoport esetében a 0,1 gramm,
-- f) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 5. pontja szerinti anyagok esetében a 2 gramm
+- a) 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
+- b) 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,
+- c) 3. pontja szerinti vegyületcsoport esetében a 2 gramm,
+- d) 4. pontja szerinti vegyületcsoport esetében az 1 gramm,
+- e) 5. pontja szerinti vegyületcsoport esetében a 0,1 gramm,
+- f) 6. pontja szerinti anyagok esetében a 2 gramm
 
 mennyiséget nem haladja meg.
 

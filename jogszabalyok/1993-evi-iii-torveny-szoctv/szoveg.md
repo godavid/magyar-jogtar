@@ -12,7 +12,17 @@ A szociális ellátás feltételeinek biztosítása, a nemzetközi egyezményekb
 
 (2) A helyi önkormányzatok az e törvényben szabályozott ellátásokon túl saját költségvetésük terhére egyéb ellátásokat is megállapíthatnak.
 
-2. § A szociális ellátás feltételeinek biztosítása — az egyének önmagukért és családjukért, valamint a helyi közösségeknek a tagjaikért viselt felelősségén túl — az állam központi szerveinek és a helyi önkormányzatoknak a feladata.
+2. § (1) Mindenki felelős önmagáért.
+
+(2) Ha az egyén önmagáról gondoskodni nem képes, őt – a képességeik és lehetőségeik szerint, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rokontartásra vonatkozó szabályai szerinti sorrendben – a hozzátartozók segítik.
+
+(3) Ha az egyén önmagáról gondoskodni nem képes és a hozzátartozók (2) bekezdés szerinti gondoskodásra vonatkozó kötelességüket nem teljesítik, az egyén lakóhelye szerinti települési önkormányzat jogszabályban meghatározott feltételek szerinti gondoskodási kötelezettsége áll fenn.
+
+(4) Ha az egyén önmagáról gondoskodni nem képes, és a hozzátartozók a (2) bekezdés szerinti, a települési önkormányzat pedig a (3) bekezdés szerinti gondoskodásra vonatkozó kötelességet nem teljesítik, az államnak jogszabályban meghatározott feltételek szerinti kötelezettsége áll fenn.
+
+(5) Az állam és a települési önkormányzat a szociális gondoskodás feltételeinek biztosításával összefüggő feladatainak ellátása során együttműködik az egyházi és civil szervezetekkel.
+
+(6) A szociális intézmények és intézkedések rendszerének kialakítása és működési kereteinek biztosítása az állam és a települési önkormányzat feladata e törvényben meghatározott módon.
 
 ### II. CÍM — A törvény hatálya
 
@@ -70,7 +80,7 @@ Nem terjed ki a törvény hatálya a külön jogszabály alapján az egészségk
 (8) E törvény hatálya nem terjed ki azokra a lakhatást biztosító szolgáltatásokra, amelyek esetében
 
 - a) a szolgáltatást igénybe vevőnek,
-- b) a szolgáltatást igénybe vevő hozzátartozójának [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pont],
+- b) a szolgáltatást igénybe vevő hozzátartozójának [Ptk. 8:1. § (1) bekezdés 2. pont],
 - c) a szolgáltatást igénybe vevő tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személynek, vagy
 - d) a térítési díjat vagy az egyszeri hozzájárulást megfizető személynek
 
@@ -84,8 +94,8 @@ a szolgáltatás nyújtására szolgáló ingatlanon tulajdonjoga, haszonélveze
   - aa) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szjatv.) szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a Szjatv. 1. számú melléklete szerinti adómentes bevételt, és
   - ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról szóló törvény, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
 - b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, vagyoni értékű jog, továbbá pénzforgalmi szolgáltatónál kezelt – jövedelemként figyelembe nem vett – összeg, amelynek
-  - ba) külön-külön számított forgalmi értéke, illetve összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
-  - bb) együttes forgalmi értéke az öregségi nyugdíj mindenkori legkisebb összegének a nyolcvanszorosát
+  - ba) külön-külön számított forgalmi értéke, illetve összege a szociális vetítési alap összegének a harmincszorosát, vagy
+  - bb) együttes forgalmi értéke a szociális vetítési alap összegének a nyolcvanszorosát
 
 meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatánál nem minősül vagyonnak az az ingatlan, amelyben az érintett személy életvitelszerűen lakik, az a vagyoni értékű jog, amely az általa lakott ingatlanon áll fenn, továbbá a mozgáskorlátozottságra tekintettel fenntartott gépjármű;
 
@@ -158,7 +168,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 
 - a) a helyi önkormányzat képviselő-testülete,
 - b) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
-- c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
+- c) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
 - d) a szociális hatóság, vagy
 - e) a szociálpolitikáért felelős miniszter
 
@@ -211,7 +221,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (5) A vállalkozási tevékenység akkor tekinthető megszűntnek, ha az egyéni vállalkozói tevékenység az egyéni vállalkozóról szóló törvényben meghatározottak szerint megszűnt, az őstermelői igazolványt visszaadták vagy visszavonták, illetőleg a társas vállalkozást vagy az egyéni céget törölték a cégjegyzékből.
 
-(6) Ha a települési önkormányzat, a járási hivatal vagy a fővárosi és megyei kormányhivatal a hivatalos tudomása vagy környezettanulmány lefolytatása alapján a kérelmező életkörülményeire tekintettel az (1) bekezdés szerinti jövedelemnyilatkozatban foglaltakat vitatja, felhívhatja a kérelmezőt az általa lakott lakás, illetve saját és a családja tulajdonában álló vagyon fenntartási költségeit igazoló dokumentumok benyújtására. Abban az esetben, ha a fenntartási költségek meghaladják a jövedelemnyilatkozatban szereplő jövedelem 50%-át, a jövedelem a fenntartási költségek figyelembevételével vélelmezhető.
+(6) Ha a települési önkormányzat, a járási hivatal vagy a fővárosi és vármegyei kormányhivatal a hivatalos tudomása vagy környezettanulmány lefolytatása alapján a kérelmező életkörülményeire tekintettel az (1) bekezdés szerinti jövedelemnyilatkozatban foglaltakat vitatja, felhívhatja a kérelmezőt az általa lakott lakás, illetve saját és a családja tulajdonában álló vagyon fenntartási költségeit igazoló dokumentumok benyújtására. Abban az esetben, ha a fenntartási költségek meghaladják a jövedelemnyilatkozatban szereplő jövedelem 50%-át, a jövedelem a fenntartási költségek figyelembevételével vélelmezhető.
 
 (7) A szociális hatáskört gyakorló szervek megkeresésére az állami adóhatóság köteles közölni a szociális ellátást igénylő, valamint – írásbeli felhatalmazás alapján – az egy főre jutó havi jövedelem kiszámításánál figyelembe veendő személy személyi jövedelemadójának alapját.
 
@@ -235,7 +245,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (5) A (2) bekezdés szerinti bírósági eljárás illetékmentes, az ellátottat, a törvényes képviselőjét és a térítési díjat vagy az egyszeri hozzájárulást megfizető és a belépési hozzájárulás megfizetését vállaló személyt teljes költségmentesség illeti meg.
 
-12. §
+#### 12. §
 
 13. § (1) A jogosult a végleges határozatból eredő igényét a határozat kézhezvételétől számított hat hónapon belül érvényesítheti.
 
@@ -245,7 +255,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 14. § A végrehajtáshoz való jog a kötelezettséget megállapító döntés véglegessé válásának időpontjától, vagy ha a véglegessé vált döntés teljesítési határidőt vagy határnapot állapított meg, a határidő utolsó napjától, illetve a határnaptól számított egy év elteltével évül el. A végrehajtás elévülését a 17/A. § (1) bekezdése szerinti cselekmény is megszakítja.
 
-15. §
+#### 15. §
 
 16. § A szociális igazgatási eljárás és az azzal összefüggésben indult közigazgatási per költség- és illetékmentes.
 
@@ -265,10 +275,10 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (4) Ha a járási hivatal a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 
-- a) csökkentheti vagy elengedheti, ha a visszafizetésre kötelezett személy családjának egy főre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének két és félszeresét,
+- a) csökkentheti vagy elengedheti, ha a visszafizetésre kötelezett személy családjának egy főre jutó havi jövedelme nem haladja meg a szociális vetítési alap összegének két és félszeresét,
 - b) részletekben fizettetheti meg.
 
-(4a) A jogosulatlanul, de nem rosszhiszeműen igénybevett ellátás megtérítésének elrendelése esetén a járási hivatal a megtérítés összegét méltányosságból csökkentheti vagy elengedheti abban az esetben is, ha a megtérítésre kötelezett családjában az egy főre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének négy és félszeresét.
+(4a) A jogosulatlanul, de nem rosszhiszeműen igénybevett ellátás megtérítésének elrendelése esetén a járási hivatal a megtérítés összegét méltányosságból csökkentheti vagy elengedheti abban az esetben is, ha a megtérítésre kötelezett családjában az egy főre jutó havi jövedelem nem haladja meg a szociális vetítési alap összegének négy és félszeresét.
 
 (5) Ha a képviselő-testület a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 
@@ -378,7 +388,12 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adatkör tekintetében, és
 - c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, az arra való jogosultság fennállásának érdemi elbírálására, a jogosultság megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
 
-(1c) Az (1) bekezdéstől eltérően, a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság a jogosult azonosításához szükséges, valamint a 18/A. § d) és e) pontjában meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, gyermekvédelmi és gyámügyi feladatkörében, valamint – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, valamint a rehabilitációs hatóságként eljáró fővárosi és megyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatai ellátása céljából.
+(1c) Az (1) és (1a) bekezdéstől eltérően a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felület útján – a jogosult azonosításához szükséges adatok tekintetében, valamint
+
+- a) a szociális ellátások tekintetében a 18/A. § d) és e) pontjában, és
+- b) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdés d) pontjában
+
+meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
@@ -429,7 +444,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (10) Az utcai szociális munkát nyújtó szolgáltató a hajléktalan személy életét vagy testi épségét veszélyeztető helyzet megszüntetése, a hajléktalansággal járó ártalmak csökkentése, illetve ehhez kapcsolódóan a szociális és egészségügyi szolgáltatások és ellátások igénybevételének segítése és szervezése, valamint a hajléktalan személynek intézménybe vagy más szálláshelyre juttatása céljából, az e célok megvalósításához szükséges mértékben és időtartamig, de legfeljebb az utcai szociális munkát nyújtó szolgáltatóval fennálló intézményi jogviszony megszűnéséig kezeli a hajléktalan személy nevére, születési helyére és idejére, anyja nevére, Társadalombiztosítási Azonosító Jelére, 4. § (3) bekezdése szerinti tartózkodási helyére, cselekvőképességére, családi körülményeire, jövedelmi viszonyaira, iskolai végzettségére és munkavállalását befolyásoló egyéb tényezőkre, valamint egészségi állapotára vonatkozó adatokat.
 
-20/A. §
+#### 20/A. §
 
 20/B. § A kincstár – a szociális szolgáltatás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert vezet. A fenntartó az országos jelentési rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
 
@@ -485,18 +500,18 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 24/B. § A kincstár az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szervnek.
 
-24/C. § (1) A Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (e § alkalmazásában a továbbiakban: Program) megvalósításához kapcsolódó, a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6. § e) pontjában foglalt szakmatámogatási feladatának elősegítése, a Program igénybevételére jogosult célcsoport tagjainak bevonása, a kapcsolattartás elősegítése és a Programban biztosított szolgáltatás nyújtásának érdekében, a Program megvalósításának ideje alatt kezeli
+24/C. § (1) A Kormány által, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (e § alkalmazásában a továbbiakban: Program) megvalósítására kijelölt jogi személy, a Program megvalósításához kapcsolódó, a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6. § e) pontjában foglalt szakmatámogatási feladatának elősegítése, a Program igénybevételére jogosult célcsoport tagjainak bevonása, a kapcsolattartás elősegítése és a Programban biztosított szolgáltatás nyújtásának érdekében, a Program megvalósításának ideje alatt kezeli
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24/L. §-a szerinti személy (a továbbiakban: Programban részt vevő személy) természetes személyazonosító és lakcímadatait, elhalálozás esetén az elhalálozás és holttá nyilvánítás tényére és idejére vonatkozó adatokat, a külföldön történő letelepedés esetén e tényre vonatkozó adatokat, valamint
 - b) a Programban részt vevő személy által megjelölt, a Programban való részvételt vállaló kontaktszemélynek a természetes személyazonosító és lakcímadatait.
 
-(2) Az (1) bekezdés szerinti időtartam elteltével, illetve ha a Program keretében nyújtott szolgáltatást a Programban részt vevő személy vagy az általa megjelölt kontaktszemély nem kívánja igénybe venni, illetve a kapcsolattartáshoz a továbbiakban nem járul hozzá, az (1) bekezdés szerinti adatokat a SZIN Nonprofit Kft. haladéktalanul törli.
+(2) Az (1) bekezdés szerinti időtartam elteltével, illetve ha a Program keretében nyújtott szolgáltatást a Programban részt vevő személy vagy az általa megjelölt kontaktszemély nem kívánja igénybe venni, illetve a kapcsolattartáshoz a továbbiakban nem járul hozzá, az (1) bekezdés szerinti adatokat a Program megvalósítására kijelölt jogi személy haladéktalanul törli.
 
-(3) A SZIN Nonprofit Kft. az elhalálozás és holttá nyilvánítás tényének bejegyzését követően az elhunyt személy (1) bekezdés szerinti adatait a halálesetről történő hivatalos tudomásszerzést követő 60 napig kezeli, ezt követően haladéktalanul törli.
+(3) A Program megvalósítására kijelölt jogi személy az elhalálozás és holttá nyilvánítás tényének bejegyzését követően az elhunyt személy (1) bekezdés szerinti adatait a halálesetről történő hivatalos tudomásszerzést követő 60 napig kezeli, ezt követően haladéktalanul törli.
 
-(4) A SZIN Nonprofit Kft. a külföldön történő letelepedésről való hivatalos tudomásszerzést követő 60 napig kezeli a külföldön letelepedett személy (1) bekezdés szerinti adatait, ezt követően haladéktalanul törli.
+(4) A Program megvalósítására kijelölt jogi személy a külföldön történő letelepedésről való hivatalos tudomásszerzést követő 60 napig kezeli a külföldön letelepedett személy (1) bekezdés szerinti adatait, ezt követően haladéktalanul törli.
 
-(5) A SZIN Nonprofit Kft. a Programban részt vevő személyekről és az általuk tett jelzésekről – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat a szociálpolitikáért felelős miniszter részére.
+(5) A Program megvalósítására kijelölt jogi személy a Programban részt vevő személyekről és az általuk tett jelzésekről – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat a szociálpolitikáért felelős miniszter részére.
 
 ### II. Fejezet — PÉNZBELI ELLÁTÁSOK
 
@@ -523,10 +538,10 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
-(5) Ha az öregségi nyugdíj legkisebb összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
+(5) Ha a szociális vetítési alap összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
 
-- a) emelkedett, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontjára visszamenőlegesen,
-- b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontját követő harmadik hónap első napjától
+- a) emelkedett, akkor az új összeget a szociális vetítési alap összege emelkedésének időpontjára visszamenőlegesen,
+- b) csökkent, akkor az új összeget a szociális vetítési alap összege emelkedésének időpontját követő harmadik hónap első napjától
 
 kell folyósítani.
 
@@ -581,19 +596,19 @@ figyelmen kívül kell hagyni.
 
 26. § A képviselő-testület a hatáskörébe tartozó pénzbeli ellátásokat kiegészítheti, és a szociálisan rászorultak részére – a rendeletében meghatározott módon és feltételek szerint – más pénzbeli támogatásokat is megállapíthat.
 
-26/A. §
+#### 26/A. §
 
 ### II. CÍM
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
 ### III. CÍM — Szociális rászorultságtól függő pénzbeli ellátások
 
@@ -651,9 +666,9 @@ kell előterjeszteni.
 
 (4)
 
-32/D. §
+#### 32/D. §
 
-32/E. §
+#### 32/E. §
 
 ### Aktív korúak ellátása
 
@@ -662,7 +677,7 @@ kell előterjeszteni.
 - a) aki munkaképességét legalább 67%-ban elvesztette, aki legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket, vagy
 - b) aki vakok személyi járadékában részesül, vagy
 - c) aki fogyatékossági támogatásban részesül [az a)–c) pont szerinti személy a továbbiakban együtt: egészségkárosodott személy], vagy
-- d) akinek esetében a munkanélküli-járadék, álláskeresési járadék, álláskeresési segély, vállalkozói járadék (a továbbiakban együtt: álláskeresési ellátás) folyósítási időtartama lejárt, vagy
+- d) akinek esetében a munkanélküli-járadék, álláskeresési járadék, nyugdíj előtti álláskeresési segély, álláskeresési segély, vállalkozói járadék (a továbbiakban együtt: álláskeresési ellátás) folyósítási időtartama lejárt, vagy
 - e) akinek esetében az álláskeresési ellátás folyósítását keresőtevékenység folytatása miatt a folyósítási idő lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az Flt. alapján álláskeresési ellátásra nem szerez jogosultságot, vagy
 - f) aki az aktív korúak ellátása iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel vagy a rehabilitációs hatósággal legalább egy év időtartamig együttműködött, vagy
 - g) akinek esetében a gyermekek otthongondozási díja, az ápolási díj, a Cst. szerinti gyermekgondozási támogatás, a rendszeres szociális járadék, a bányász dolgozók egészségkárosodási járadéka, az átmeneti járadék, a rehabilitációs járadék, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, a megváltozott munkaképességű személyek ellátása, az ideiglenes özvegyi nyugdíj folyósítása megszűnt, illetve az özvegyi nyugdíj folyósítása a Tny. 52. §-ának (3) bekezdése szerinti okból szűnt meg, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervvel vagy a rehabilitációs hatósággal legalább három hónapig együttműködött,
@@ -673,7 +688,7 @@ feltéve, hogy saját maga és családjának megélhetése más módon nem bizto
 
 (1b) Az (1) bekezdés a) pontja szerinti esetben az egészségkárosodott személy egészségkárosodásának mértékét, az egészségkárosodás felülvizsgálatának szükségességét, valamint a felülvizsgálat szükségessége esetén annak időpontját az eljáró hatóság szakkérdésként megvizsgálja.
 
-(2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
+(2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg a szociális vetítési alap összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
 
 - a) az első nagykorú családtag arányszáma 1,0, azzal, hogy a gyermekét egyedülállóként nevelő szülő arányszáma 0,2-vel növekszik,
 - b) a házas- vagy élettárs arányszáma 0,9,
@@ -750,7 +765,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (3) A foglalkoztatást helyettesítő támogatásra jogosult személy az állami foglalkoztatási szervnél kéri az álláskeresőként történő nyilvántartásba vételét, valamint köteles az állami foglalkoztatási szervvel együttműködni.
 
-(4) A foglalkoztatást helyettesítő támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összegének 80%-a.
+(4) A foglalkoztatást helyettesítő támogatás havi összege a szociális vetítési alap összegének 80%-a.
 
 (5)
 
@@ -792,13 +807,13 @@ kell ismét folyósítani.
 
 (3) A (2) bekezdés e) pontjában meghatározott 30 napos időtartam számításakor az eb)–ee) alpontok szerinti tevékenységeknek a felülvizsgálat időpontját megelőző évben teljesített időtartamát össze kell számítani. Amennyiben a jogosult az e) pont szerinti feltételt így sem tudja teljesíteni, a 30 nap számításánál az általa – a közérdekű önkéntes tevékenységről szóló törvény szerinti nyilvántartásban szereplő fogadó szervezetnél – végzett közérdekű önkéntes tevékenységének időtartamát is figyelembe kell venni.
 
-36/A. §
+#### 36/A. §
 
-36/B. §
+#### 36/B. §
 
-36/C. §
+#### 36/C. §
 
-36/D. §
+#### 36/D. §
 
 37. § (1) Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján
 
@@ -811,11 +826,11 @@ kell ismét folyósítani.
 
 (3a) Az egészségkárosodási és gyermekfelügyeleti támogatásra a 33. § (1) bekezdés a) pontja alapján jogosult személy esetében a jogosultság egészségi állapotra vonatkozó feltétele mindaddig fennáll, amíg az ellátásra való jogosultságot megalapozó, az egészségi állapot minősítését tartalmazó dokumentumban vagy a szakkérdés vizsgálata során előírt felülvizsgálatot el nem végezték.
 
-(4) Az egészségkárosodási és gyermekfelügyeleti támogatás havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval és társadalombiztosítási járulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 95%-ának szorzatával.
+(4) Az egészségkárosodási és gyermekfelügyeleti támogatás havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval és társadalombiztosítási járulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és a szociális vetítési alap összege 95%-ának szorzatával.
 
 (5) Ha az egészségkárosodási és gyermekfelügyeleti támogatás összege a (4) bekezdésben foglalt számítás szerint a havi ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell megállapítani.
 
-37/A. §
+#### 37/A. §
 
 37/B. § (1) A 36. § (1) bekezdése szerinti esetekben az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása szünetel.
 
@@ -823,17 +838,17 @@ kell ismét folyósítani.
 
 (2)
 
-37/C. §
+#### 37/C. §
 
-37/D. §
+#### 37/D. §
 
-37/E. §
+#### 37/E. §
 
-37/F. §
+#### 37/F. §
 
-37/G. §
+#### 37/G. §
 
-37/H. §
+#### 37/H. §
 
 ### Gyermekek otthongondozási díja
 
@@ -1084,7 +1099,7 @@ személy.
 
 (7) A települési önkormányzat rendeletében a 18. életévét betöltött tartósan beteg hozzátartozójának ápolását, gondozását végző személy részére megállapított, havi rendszerességgel nyújtott települési támogatás havi összegét úgy kell szabályozni, hogy az nem haladhatja meg az ápolási díjnak a központi költségvetésről szóló törvényben meghatározott alapösszegét.
 
-46. §
+#### 46. §
 
 ### III. Fejezet — TERMÉSZETBEN NYÚJTOTT SZOCIÁLIS ELLÁTÁSOK
 
@@ -1148,7 +1163,7 @@ tevődik össze.
   - ge) öregségi nyugdíjban részesül, és a nyugdíjra való jogosultságának megállapítását megelőző napon a ga) vagy gb) alpont hatálya alá tartozott;
 - h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi pótlékban részesül.
 
-(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az 50/A. § (4) bekezdése szerint elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve, hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegének 105%-át, egyedül élő esetén a 155%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. § b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
+(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az 50/A. § (4) bekezdése szerint elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) a szociális vetítési alap összegének 10%-át meghaladja, feltéve, hogy a családjában az egy főre jutó havi jövedelem nem éri el a szociális vetítési alap összegének 105%-át, egyedül élő esetén a 155%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. § b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
 
 (3)
 
@@ -1254,14 +1269,14 @@ a járási hivatal a kérelmet visszautasítja.
 
 (2) A járási hivatal és az egészségbiztosítási szerv – kormányrendeletben szabályozott módon – a nyilvántartás adatait évente egyeztetik.
 
-53. §
+#### 53. §
 
 ### Egészségügyi szolgáltatásra való jogosultság
 
 54. § (1) A járási hivatal az egészségügyi szolgáltatás igénybevétele céljából annak a személynek állapítja meg szociális rászorultságát,
 
-- a) akinek családjában az egy főre jutó havi jövedelem az öregségi nyugdíj mindenkori legkisebb összegének 120%-át,
-- b) aki egyedülélő és jövedelme az öregségi nyugdíj mindenkori legkisebb összegének 150%-át
+- a) akinek családjában az egy főre jutó havi jövedelem a szociális vetítési alap összegének 120%-át,
+- b) aki egyedülélő és jövedelme a szociális vetítési alap összegének 150%-át
 
 nem haladja meg, és családjának vagyona nincs.
 
@@ -1271,17 +1286,17 @@ nem haladja meg, és családjának vagyona nincs.
 
 (3) A szociálisan rászorult személyekről a járási hivatal nyilvántartást vezet és a külön jogszabály szerint bejelentési kötelezettséget teljesít az egészségbiztosítási szerv felé.
 
-54/A. §
+#### 54/A. §
 
-55. §
+#### 55. §
 
-55/A. §
+#### 55/A. §
 
-55/B. §
+#### 55/B. §
 
-55/C. §
+#### 55/C. §
 
-55/D. §
+#### 55/D. §
 
 ### IV. Fejezet — Szociális szolgáltatások
 
@@ -1319,7 +1334,7 @@ nyújtja.
 
 (4) A szociálpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a szolgáltatói nyilvántartásból való törléstől számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.
 
-57/A. §
+#### 57/A. §
 
 58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv látja el.
 
@@ -1496,9 +1511,9 @@ esetében kell vizsgálni.
 
 (7) A társulás keretében megszervezett falugondnoki szolgáltatás csak azon települések tekintetében működtethető, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek. A társulás keretében megszervezett tanyagondnoki szolgáltatás csak azon ellátási területen működtethető, amely megfelel a (3) bekezdésben meghatározott feltételeknek.
 
-(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes megyei önkormányzat látja el a szociálpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
+(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes vármegyei önkormányzat látja el a szociálpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
 
-61. §
+#### 61. §
 
 ### Étkeztetés
 
@@ -1575,7 +1590,7 @@ miatt.
 - b) az anyagi nehézségekkel küzdők számára a pénzbeli, természetbeni ellátásokhoz, továbbá a szociális szolgáltatásokhoz való hozzájutás megszervezését,
 - c) a szociális segítőmunkát, így a családban jelentkező működési zavarok, illetve konfliktusok megoldásának elősegítését,
 - d) a közösségfejlesztő programok szervezését, valamint egyéni és csoportos készségfejlesztést,
-- e) a tartós munkanélküliek, a fiatal munkanélküliek, az adósságterhekkel és lakhatási problémákkal küzdők, a fogyatékossággal élők, a krónikus betegek, a szenvedélybetegek, a pszichiátriai betegek, a kábítószer-problémával küzdők, illetve egyéb szociálisan rászorult személyek és családtagjaik részére tanácsadás nyújtását,
+- e) a tartós álláskeresők, a fiatal álláskeresők, az adósságterhekkel és lakhatási problémákkal küzdők, a fogyatékossággal élők, a krónikus betegek, a szenvedélybetegek, a pszichiátriai betegek, a kábítószer-problémával küzdők, illetve egyéb szociálisan rászorult személyek és családtagjaik részére tanácsadás nyújtását,
 - f) a kríziskezelést, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat,
 - g) a Gyvt. 40/A. § (2) bekezdés a) pont ad) alpontja szerinti készenléti szolgálatot az (1) bekezdés szerinti személyek számára,
 - i)
@@ -1650,7 +1665,7 @@ együttműködik.
 
 (4)
 
-65/B. §
+#### 65/B. §
 
 ### Támogató szolgáltatás
 
@@ -1677,7 +1692,7 @@ együttműködik.
 
 (7)
 
-65/D. §
+#### 65/D. §
 
 ### Utcai szociális munka
 
@@ -1725,6 +1740,10 @@ formájában kell nyújtani.
 (2) Az ötven főnél alacsonyabb férőhelyszámú fogyatékos, pszichiátriai vagy szenvedélybeteg személyek otthona ötven férőhelyig bővíthető ápolást, gondozást nyújtó intézményi formában is.
 
 (3) Az (1) bekezdés b) pontjának alkalmazásában nem minősül új intézménynek és új férőhelynek, ha a szolgáltatói nyilvántartásba már bejegyzett fogyatékos, pszichiátriai vagy szenvedélybeteg személyek otthonát vagy férőhelyeit a szolgáltatói nyilvántartásba történő bejegyzés alapján másik fenntartó működteti tovább.
+
+(4) Az ötven fő feletti, fogyatékos vagy pszichiátriai beteg személyek számára tartós ápolást, gondozást nyújtó intézmény nem állami vagy egyházi fenntartója 2025. december 31-ig az európai uniós finanszírozású projekt keretében kialakított új támogatott lakhatási férőhelyek számával csökkenti az ötven fő feletti, fogyatékos vagy pszichiátriai beteg személyek számára tartós ápolást, gondozást nyújtó intézményei férőhelyeinek számát.
+
+(5) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv az európai uniós finanszírozású projekt keretében kialakított, a (4) bekezdés hatálya alá nem tartozó új támogatott lakhatási férőhelyek számával 2025. december 31-ig országos szinten csökkenti az ötven fő feletti, fogyatékos vagy pszichiátriai beteg személyek számára tartós ápolást, gondozást nyújtó intézmények férőhelyeinek számát.
 
 ### Ápolást, gondozást nyújtó intézmények
 
@@ -1909,15 +1928,15 @@ biztosítható.
 - a) az ellátás – a komplex szükségletfelmérés alapján – határozott vagy határozatlan időtartamú,
 - b) az 58/A. § (2) és (2a) bekezdését, a 85/B. §-t, a 94. § (1) bekezdés b)–d) pontját, valamint (2) és (3) bekezdését, a 94/A. § (4) bekezdését, a 94/G. §-t, a 99. §-t , a 99/A. §-t és a 105. §-t nem kell alkalmazni.
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-79/A. §
+#### 79/A. §
 
 ### Átmeneti elhelyezést nyújtó intézmények
 
@@ -1935,7 +1954,7 @@ biztosítható.
 - f) hajléktalan személyek átmeneti szállása;
 - g)
 
-81. §
+#### 81. §
 
 82. § Az idősek gondozóházába azok az időskorúak, valamint azok a 18. életévüket betöltött beteg személyek vehetők fel, akik önmagukról betegségük miatt vagy más okból otthonukban időlegesen nem képesek gondoskodni.
 
@@ -2017,14 +2036,14 @@ biztosítható.
 
 (4) A fővárosi kerületi önkormányzat biztosítja az (1) és (2) bekezdés szerinti szociális szolgáltatásokat, a 88. § (2) bekezdésében foglaltak figyelembevételével. A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az (1) és (2) bekezdés szerinti szolgáltatásokat a fővárosi önkormányzat biztosítja.
 
-87. §
+#### 87. §
 
 88. § (1) Az állam az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv útján köteles gondoskodni
 
 - a) a harmincezer főnél nagyobb állandó lakosságszámú településeken a fogyatékos személyek gondozóháza, a pszichiátriai betegek és szenvedélybetegek átmeneti otthona megszervezéséről és fenntartásáról,
 - b) a fővárosban a pszichiátriai betegek, a szenvedélybetegek, fogyatékos személyek szakosított ellátásának a megszervezéséről és fenntartásáról,
-- c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles,
-- d) a megye területén a támogatott lakhatás megszervezéséről és fenntartásáról,
+- c) a vármegye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles,
+- d) a vármegye területén a támogatott lakhatás megszervezéséről és fenntartásáról,
 - e) a fejlesztő foglalkoztatásról.
 
 (2) A fővárosi önkormányzat köteles gondoskodni
@@ -2034,7 +2053,7 @@ biztosítható.
 
 (3) A fővárosi önkormányzat által fenntartott szakosított ellátást nyújtó intézmények ellátási területe az egész fővárosra kiterjed.
 
-88/A. §
+#### 88/A. §
 
 89. § (1) A települési önkormányzatok ellátási kötelezettsége a település lakosságára, valamint a településen életvitelszerűen tartózkodó hajléktalanokra terjed ki, kivéve, ha az intézményt társulás keretében más önkormányzattal közösen tartják fenn, vagy az intézménnyel nem rendelkező önkormányzattal kötött szerződésben a fenntartó az ellátást más önkormányzat lakosaira kiterjedően is vállalta.
 
@@ -2069,7 +2088,7 @@ tehet eleget.
 
 (4)
 
-(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
+(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott vármegye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
 
 (6) Ha a (2) bekezdés a) pontja szerinti szolgáltató, intézmény fenntartója megváltozik, és az intézményben foglalkoztatott közalkalmazott
 
@@ -2106,7 +2125,7 @@ rendeletet alkot.
 
 (6)
 
-(6a) A megye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
+(6a) A vármegye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
 
 (7)
 
@@ -2175,6 +2194,24 @@ rendeletet alkot.
 
 (4) Megszüntethető – az Mt. 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
 
+(5) Az (1) és (2) bekezdés szerinti képzésre kötelezett személy a képzésre a szociálpolitikáért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter által együttesen kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás online felületén jelentkezik.
+
+(6) A jelentkezési és képzésszervezési nyilvántartás célja az (1) és (2) bekezdés szerinti képzésre kötelezett személy továbbképzésre, vezetőképzésre való jelentkezésének biztosítása, valamint a továbbképzés, vezetőképzés elvégzését igazoló dokumentáció kiállításának elősegítése.
+
+(7) A jelentkezési és képzésszervezési nyilvántartás tartalmazza az (1) és (2) bekezdés szerinti képzésre kötelezett személy
+
+- a) 92/F. § (1) bekezdése szerinti adatait,
+- b) állampolgárságát,
+- c) nemét,
+- d) lakó- és tartózkodási helyét és
+- e) működési nyilvántartási számát.
+
+(8) A jelentkezési és képzésszervezési nyilvántartásból törölni kell annak a személynek az adatait, aki
+
+- a) elhunyt,
+- b) foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll, vagy
+- c) már nem áll munkaviszonyban, közalkalmazotti jogviszonyban az intézménnyel.
+
 92/E. § (1) A személyes gondoskodást végző személy e törvényben meghatározott adatait működési nyilvántartásba kell venni.
 
 (2) A működési nyilvántartás célja a személyes gondoskodást végző személy továbbképzésének és a vezetői megbízással rendelkező személyek képzésének megszervezése, valamint a képzési követelmények teljesítésének ellenőrzése.
@@ -2210,7 +2247,7 @@ rendeletet alkot.
 
 (2) A működési nyilvántartásból adatok a nyilvántartásba vett személy, a munkáltató, a továbbképzést, vezetőképzést szervező, továbbá – az adatvédelmi jogszabályok megtartásával – tudományos, statisztikai feldolgozást végzők részére továbbíthatók.
 
-92/I. §
+#### 92/I. §
 
 ### Az Országos Szociálpolitikai Szakértői Névjegyzék
 
@@ -2233,7 +2270,7 @@ rendeletet alkot.
 - a) a (2) bekezdés b) pont szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
 - b) a (2) bekezdés a) és c) pontja szerinti adatokat a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével kell törölni.
 
-(4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározottak kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
+(4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározott adatok kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
 
 (4b)
 
@@ -2670,13 +2707,13 @@ alapján a munkaviszony ezen időpontot követően megszűnik. Az a) és b) pont
 - b) adatokat szolgáltatni az intézményben e törvény alapján vezetett nyilvántartásokhoz;
 - c) nyilatkozni arról, hogy a szociális ellátásra való jogosultság feltételeit és a jogosult, továbbá a közeli hozzátartozója természetes személyazonosító adataiban beállott változásokat haladéktalanul közli az intézmény vezetőjével.
 
-96/A. §
+#### 96/A. §
 
 ### A jogosultak érdekvédelme
 
 97. § Az intézményvezető az ellátás igénybevételekor a fenntartó által jóváhagyott intézményi házirend egy példányát átadja a jogosultnak. Egyébként a házirendet az intézményben jól látható helyen ki kell függeszteni és gondoskodni kell arról, hogy az a jogosultak hozzátartozói és az intézmény dolgozói számára folyamatosan hozzáférhető legyen.
 
-98. §
+#### 98. §
 
 99. § A tartós bentlakásos intézmény fenntartója köteles a házirendben meghatározni az intézményi jogviszonyban állók és az ellátásra jogosultak érdekvédelmét szolgáló fórum megalakításának és tevékenységének – jogszabályban meghatározottak szerint kialakított – szabályait.
 
@@ -2751,7 +2788,7 @@ történik.
 
 (3) Az (1) bekezdés b) pontja szerinti esetben, ha az ellátott számára fejlesztő foglalkoztatást nyújtó szervezet és a 99/B. § (2) bekezdése szerinti intézményi jogviszony alapján szociális szolgáltatást, ellátást nyújtó intézmény, szolgáltató fenntartója különböző, a fenntartók az ellátottak foglalkoztatására megállapodást kötnek. A megállapodást érintő körülmények változásáról – a fejlesztési jogviszony vagy a munkaviszony megszűnését eredményező esetben legalább 10 nappal korábban írásban – a felek egymást kölcsönösen tájékoztatják.
 
-99/E. §
+#### 99/E. §
 
 ### Az intézményi jogviszony megszűnése
 
@@ -2871,9 +2908,9 @@ történik.
 
 (5) Az (1)–(4) bekezdésben foglaltak az irányadók akkor is, ha a jogosultat egy intézményen belül másik szakosított ellátási formában kell gondozni.
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
 ### A rehabilitációs intézményekre és a rehabilitációs célú lakóotthonokra vonatkozó külön szabályok
 
@@ -2917,17 +2954,17 @@ az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban ke
 - d)
 - e)
 
-113/B. §
+#### 113/B. §
 
-113/C. §
+#### 113/C. §
 
-113/D. §
+#### 113/D. §
 
-113/E. §
+#### 113/E. §
 
-113/F. §
+#### 113/F. §
 
-113/G. §
+#### 113/G. §
 
 ### III. CÍM — Térítési díj
 
@@ -2937,7 +2974,7 @@ az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban ke
 
 - a) az ellátást igénybe vevő jogosult,
 - b) a szülői felügyeleti joggal rendelkező törvényes képviselő,
-- c) a jogosultnak az a házastársa, élettársa, egyeneságbeli rokona, örökbe fogadott gyermeke, örökbe fogadó szülője, akinek családjában az egy főre jutó jövedelem a tartási kötelezettség teljesítése mellett meghaladja az öregségi nyugdíj mindenkori legkisebb összegének két és félszeresét,
+- c) a jogosultnak az a házastársa, élettársa, egyeneságbeli rokona, örökbe fogadott gyermeke, örökbe fogadó szülője, akinek családjában az egy főre jutó jövedelem a tartási kötelezettség teljesítése mellett meghaladja a szociális vetítési alap összegének két és félszeresét,
 - d) a jogosult tartását szerződésben vállaló személy,
 - e) a jogosult tartására bíróság által kötelezett személy [a c)–e) pont alattiak a továbbiakban együtt: tartásra köteles és képes személy]
 
@@ -2968,7 +3005,7 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 (6) A személyi térítési díj összege a megállapítás időpontjától függetlenül évente két alkalommal vizsgálható felül és változtatható meg, kivéve ha az ellátott jövedelme
 
 - a) olyan mértékben csökken, hogy az e törvényben meghatározott térítési díj fizetési kötelezettségének nem tud eleget tenni;
-- b) az öregségi nyugdíj mindenkori legkisebb összegének 25%-át meghaladó mértékben növekedett.
+- b) a szociális vetítési alap összegének 25%-át meghaladó mértékben növekedett.
 
 (7) A felülvizsgálat során megállapított új személyi térítési díj megfizetésének időpontjáról a fenntartó rendelkezik. Az új térítési díj megfizetésére a kötelezett nem kötelezhető a felülvizsgálatot megelőző időszakra, kivéve, ha az ellátott a felülvizsgálatot megelőzően – jövedelem és vagyon hiányában – térítésmentesen vette igénybe az ellátást, és részére visszamenőlegesen rendszeres pénzellátás került megállapításra. Ez utóbbi esetben a személyi térítési díj megfizetésének kezdő időpontja a rendszeres pénzellátásra való jogosultság kezdő napja.
 
@@ -3054,9 +3091,9 @@ nyújtó intézmények esetén.
 
 (6) E § alkalmazásában jelentős pénzvagyonnak az ellátott rendelkezésére álló fizetési számla pozitív egyenlege, betétszerződés vagy takarékbetét-szerződés alapján fennálló követelése és készpénze összegének azon részét kell tekinteni, amely az intézményi térítési díj egyévi összegét a jogosult elhelyezésekor vagy a térítési díj felülvizsgálatakor meghaladja.
 
-(7) E § alkalmazásában jelentős ingatlanvagyonnak az ingatlanvagyon együttes értékének az öregségi nyugdíj mindenkori legkisebb összegének a negyvenszeresét meghaladó részét kell tekinteni. Ingatlanvagyonként kell figyelembe venni az ellátás igénylésének vagy a felülvizsgálat időpontjában az ellátást igénylő, ellátott tulajdonában álló ingatlant, valamint az őt illető hasznosítható, ingatlanon fennálló vagyoni értékű jogot, illetve az ellátás igénylését vagy a felülvizsgálatot megelőző 18 hónapban ingyenesen átruházott ingatlant, ha azok együttes forgalmi értéke az öregségi nyugdíj mindenkori legkisebb összegének a negyvenszeresét meghaladja. Osztatlan közös tulajdon esetén a tulajdoni hányadot kell figyelembe venni.
+(7) E § alkalmazásában jelentős ingatlanvagyonnak az ingatlanvagyon együttes értékének a szociális vetítési alap összegének a negyvenszeresét meghaladó részét kell tekinteni. Ingatlanvagyonként kell figyelembe venni az ellátás igénylésének vagy a felülvizsgálat időpontjában az ellátást igénylő, ellátott tulajdonában álló ingatlant, valamint az őt illető hasznosítható, ingatlanon fennálló vagyoni értékű jogot, illetve az ellátás igénylését vagy a felülvizsgálatot megelőző 18 hónapban ingyenesen átruházott ingatlant, ha azok együttes forgalmi értéke a szociális vetítési alap összegének a negyvenszeresét meghaladja. Osztatlan közös tulajdon esetén a tulajdoni hányadot kell figyelembe venni.
 
-117/A. § (1) A bentlakásos intézményekben – kivéve a hajléktalan személyek átmeneti szállását és az éjjeli menedékhelyet – a jövedelemmel nem rendelkező 16 év fölötti ellátottak részére személyes szükségleteik fedezésére az intézmény költőpénzt biztosít. Költőpénzt kell biztosítani annak az ellátottnak is, aki helyett a térítési díjat jövedelem hiányában kizárólag a tartásra köteles és képes személy fizeti, illetve a térítési díjat vagyona terhére állapították meg. Ha vagyonnal rendelkező ellátottnak költőpénzt állapítanak meg, a költőpénz terhelését a térítési díjra vonatkozó szabályok szerint kell elrendelni. A költőpénz havi összege nem lehet kevesebb a tárgyév január 1-jén érvényes öregségi nyugdíj legkisebb összegének 20%-ánál, ha a térítési díjat úgy állapították meg, hogy az vagyont is terhel, 30%-ánál. Legalább a költőpénz összegére kell kiegészíteni az ellátottnak ezt az összeget el nem érő jövedelmét.
+117/A. § (1) A bentlakásos intézményekben – kivéve a hajléktalan személyek átmeneti szállását és az éjjeli menedékhelyet – a jövedelemmel nem rendelkező 16 év fölötti ellátottak részére személyes szükségleteik fedezésére az intézmény költőpénzt biztosít. Költőpénzt kell biztosítani annak az ellátottnak is, aki helyett a térítési díjat jövedelem hiányában kizárólag a tartásra köteles és képes személy fizeti, illetve a térítési díjat vagyona terhére állapították meg. Ha vagyonnal rendelkező ellátottnak költőpénzt állapítanak meg, a költőpénz terhelését a térítési díjra vonatkozó szabályok szerint kell elrendelni. A költőpénz havi összege nem lehet kevesebb a tárgyév január 1-jén érvényes szociális vetítési alap összegének 20%-ánál, ha a térítési díjat úgy állapították meg, hogy az vagyont is terhel, 30%-ánál. Legalább a költőpénz összegére kell kiegészíteni az ellátottnak ezt az összeget el nem érő jövedelmét.
 
 (2) A bentlakásos intézményben az ellátott által fizetendő térítési díjat úgy kell megállapítani, hogy részére legalább az (1) bekezdés szerinti költőpénz visszamaradjon.
 
@@ -3140,7 +3177,7 @@ nyújtó intézmények esetén.
 - b) havi jövedelmét és pénzvagyonát tartós bentlakásos intézmény esetén,
 - c) havi jövedelmét és ingatlanvagyonát a 117. § (5) bekezdése szerinti esetben.
 
-119/D. §
+#### 119/D. §
 
 ### VI. Fejezet — SZERZŐDÉSES SZOCIÁLIS ELLÁTÁSOK
 
@@ -3249,9 +3286,9 @@ járul hozzá.
 
 (4)
 
-127/A. §
+#### 127/A. §
 
-128. §
+#### 128. §
 
 129. § Fogyatékos személyek ápolást-gondozást nyújtó intézményeinek címzett támogatással történő beruházása esetén kizárólag az ötven főnél nagyobb férőhelyszámú intézmény kiváltása támogatható.
 
@@ -3271,6 +3308,115 @@ járul hozzá.
 
 131/B. § Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális szolgáltatások fenntartásának költségeit az állam feladatfinanszírozás útján biztosítja.
 
+### VII/A. Fejezet — A SZAKÁPOLÁS ÁTALAKÍTÁSA
+
+131/C. § E Fejezet alkalmazásában
+
+- a) átadó fenntartó: az állam egészségügyi fenntartói feladatainak ellátására a Kormány által kijelölt szerv;
+- b) átadó intézmény: szakápolási célú fekvőbeteg-szakellátást nyújtó állami fenntartású egészségügyi intézmény;
+- c) átvett feladat: az egészségügyi közszolgáltatás részeként végzett fekvőbeteg-szakellátás krónikus ellátása közül az egészségügyért felelős miniszternek a szociálpolitikáért felelős miniszterrel egyetértésben kiadott rendeletében kijelölt állami fenntartású egészségügyi intézmény által átadott ápolási ágyakon végzett tevékenység (a továbbiakban: szakápolás), valamint a feladatot ellátó befogadó intézmény működtetésére irányuló intézmény-fenntartási kötelezettség;
+- d) átvett vagyon: a szakápoláshoz kifejezetten és nevesítetten kapcsolódó állami tulajdonban álló ingó és ingatlan vagyon, valamint vagyoni értékű jog;
+- e) átvevő fenntartó: az állam fenntartói feladatainak ellátására a Kormány által kijelölt szerv;
+- f) befogadó intézmény: az átvevő fenntartó fenntartásában álló, központi költségvetési szervként működő szakápolási központ.
+
+131/D. § (1) Az átadó fenntartó által átadott ápolási ágyakon végzett szakápolást az átvevő fenntartó veszi át és a befogadó intézmény útján látja el.
+
+(2) Az átadó intézményt és a befogadó intézményt az egészségügyért felelős miniszter a szociálpolitikáért felelős miniszterrel egyetértésben kiadott rendeletben jelöli ki.
+
+### A feladatátadáshoz kapcsolódó vagyonjogi kérdések
+
+131/E. § (1) Az átvett feladat átvételének időpontjától az átvett vagyon tekintetében a magyar államot megillető tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság gyakorolja.
+
+(2) Az átvett feladat átvételének időpontjában az átvett vagyon vagyonkezelői joga ingyenesen az átvevő fenntartóra száll át, azzal, hogy az átvételt követően az átvevő fenntartó jogosult a vagyonkezelői jogát a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (9) bekezdése alapján átruházni.
+
+(3) Ha az átadásra kerülő ágyakhoz kapcsolódó szakápolást az átadó intézmény az átadás időpontját megelőzően 50 ágynál kevesebb ágyon látja el, az átadó és az átvevő fenntartó a 131/G. § szerinti megállapodásban megegyezhetnek abban, hogy
+
+- a) az átadó fenntartó az ingatlan tekintetében más, a feladatellátás elvégzésére alkalmas ingatlant vagy ingatlanrészt ajánl fel, illetve
+- b) az átvevő fenntartó eltekint a feladatellátást szolgáló ingatlan átvételétől, feltéve, hogy rendelkezik a feladatellátásra alkalmas ingatlannal.
+
+(4) Az (1) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
+
+### A szakápolást végző foglalkoztatottak átvétele
+
+131/F. § (1) A feladat átvételének időpontjától e törvény erejénél fogva a befogadó intézmény foglalkoztatja tovább a szakápolásban részt vevő dolgozókat (a továbbiakban: átvett foglalkoztatott). Az átvett foglalkoztatott az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) szerinti egészségügyi szolgálati jogviszonya a (2)–(15) bekezdésben foglaltak szerint e törvény erejénél fogva a Kjt. szerinti közalkalmazotti jogviszonnyá alakul át.
+
+(2) A továbbfoglalkoztatás elfogadásáról az átvett foglalkoztatott nyilatkozatot tesz.
+
+(3) A befogadó intézmény a feladat átvételének időpontját követő 14 napon belül közalkalmazotti kinevezési okmányt ad át az átvett foglalkoztatottnak, egyidejűleg tájékoztatja a foglalkoztatottat arról, hogy
+
+- a) egészségügyi szolgálati jogviszonya e törvény erejénél fogva, a kinevezési okmány átvételét követő hónap első napjával közalkalmazotti jogviszonnyá alakul át, és
+- b) a kinevezési okmány átvételét követő 15 napon belül nyilatkozhat arról, hogy a továbbfoglalkoztatásához nem járul hozzá.
+
+(4) Ha az átvett foglalkoztatott a továbbfoglalkoztatásához nem járul hozzá, az Eszjtv. 12. §-a szerinti áthelyezése kezdeményezhető.
+
+(5) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a jogviszony, ha az átvett foglalkoztatottal közalkalmazotti jogviszony nem létesíthető. Ebben az esetben az átvett foglalkoztatottat a feladat átvételének időpontját követő 15 napon belül erről tájékoztatni kell, és a tájékoztatással egyidejűleg egészségügyi szolgálati jogviszonyát a munkáltatói felmondás szabályai szerint meg kell szüntetni.
+
+(6) A Kjt. 21. § (1) bekezdésének alkalmazásában a kinevezés elfogadásának minősül, ha az átvett foglalkoztatott a (3) bekezdés b) pontjában meghatározott nyilatkozatot – a jogvesztő – határidőn belül nem teszi meg.
+
+(7) A kinevezési okmányban megállapított illetmény összege nem lehet alacsonyabb mértékű az átadást közvetlenül megelőző 6 hónap átlagában jogszabály és az egészségügyi szolgálati munkaszerződés alapján járó illetmény, illetménypótlék és az illetményen felül járó díjak együttes összegénél.
+
+(8) Az átvett foglalkoztatottra vonatkozóan az egészségügyi ágazati illetmény-előmeneteli szabályokat kell alkalmazni.
+
+(9) Az átvett foglalkoztatottnak az átadó intézménynél az átadást megelőzően megszakítás nélkül jogviszonyban töltött idejét – ideértve a megszakítás nélkül az átadó intézmény jogelődeinél jogviszonyban töltött időt – úgy kell tekinteni, mintha azt a befogadó intézménynél töltötte volna el. Ezen időtartamok együttes figyelembevételével kell a jubileumi jutalmat, valamint a kinevezéssel létesített közalkalmazotti jogviszony megszűnése vagy megszüntetése esetén a munkavállalót megillető felmentési időt és végkielégítést megállapítani.
+
+(10) Az átvett foglalkoztatott részére ki nem adott szabadságot a befogadó intézmény adja ki azzal, hogy az átadás évében a szabadság mértékét a közalkalmazotti jogviszony létrejöttéig az Eszjtv., majd az ezt követő időszakra a Kjt. rendelkezései szerint időarányosan kell megállapítani.
+
+(11) Az átvett foglalkoztatott próbaidejének mértékét az átadás-átvétel nem érinti.
+
+(12) A befogadó intézményben az átadó intézménynél megkezdett munkaidőkeret irányadó.
+
+(13) Az egészségügyi szolgálati jogviszony e törvény erejénél fogva történő közalkalmazotti jogviszonnyá alakulására tekintettel a Kjt. 20. § (4) bekezdését nem kell alkalmazni.
+
+(14) A Kjt. 1. §-ában foglaltaktól eltérően az átvett foglalkoztatottak egészségügyi szolgálati jogviszonya közalkalmazotti jogviszonnyá történő átalakulásáig, vagy az (5) bekezdés szerinti megszüntetéséig a befogadó intézmény egészségügyi szolgálati jogviszonyban álló személyt is foglalkoztathat.
+
+(15) Az átadás-átvétel hónapját megelőző hónapra járó illetményt és járulékait az átadó intézmény fizeti meg az átvett foglalkoztatott után.
+
+### A szakápolás átadásáról szóló megállapodás
+
+131/G. § (1) A feladatátadás és jogutódlás feltételeit, az átadás-átvétel időpontját, és az átvett vagyon körét az átadó és átvevő fenntartó, az átadó és befogadó intézmény, valamint a Nemzeti Egészségbiztosítási Alapkezelő területi szerve megállapodásban rögzítik.
+
+(2) Az (1) bekezdés szerinti megállapodást az átadás-átvétel időpontját megelőzően legalább 45 nappal kell megkötni.
+
+(3) A megállapodás megkötését követő 8 napon belül az átvevő fenntartó megindítja a szakápolási központ szolgáltatói nyilvántartásba történő bejegyzésére irányuló eljárást.
+
+(4) A szolgáltatói nyilvántartásba való bejegyzésre irányuló eljárásban a működést engedélyező szerv ügyintézési határideje 30 nap.
+
+131/H. § (1) A feladat átvételének időpontjában a feladatellátással érintett valamennyi jog és kötelezettség tekintetében – ide nem értve a vagyonkezelői jogot – az átadó intézmény jogutóda a befogadó intézmény. A jogutódlás a követeléseket nem teszi lejárttá.
+
+(2) A befogadó intézmény az átvétel napját követő 60. napig jogosult a feladatellátáshoz kapcsolódó kötelmek megszüntetésére.
+
+(3) A feladatátvétel napján az átadó intézmény és a beteg között, az egészségügyi jogszabályok szerinti ápolási díjról kötött megállapodás hatályát veszti.
+
+(4) A szakápolással összefüggő hatósági engedélyek jogosultjának a feladat átvételének időpontjától a befogadó intézményt kell tekinteni. A hatósági engedély ennek megfelelő módosítását a befogadó intézmény a feladat átvételét követően haladéktalanul kezdeményezi.
+
+(5) Az európai uniós társfinanszírozású projektek tekintetében a feladat átvételének időpontjában az átadó intézmény helyébe az átvevő fenntartó, illetve a befogadó intézmény lép. A jogutódlás miatti szerződésmódosítást az átvevő fenntartó a feladat átvételének időpontjától számított 10 napon belül kezdeményezi. A támogató, illetve a közreműködő szervezet a szerződésmódosításokat a kezdeményezéstől számított 20 napon belül végrehajtja.
+
+(6) A szakápolás átvételének időpontjában folyamatban lévő közbeszerzési eljárásokban a feladat átvételének időpontjától az átadó intézmény helyébe a befogadó intézmény lép.
+
+### A szakápolásban részesülők átvétele
+
+131/I. § (1) Az átadó intézményben szakápolásban részesülő beteg szakápolási központba történő áthelyezéséről a szakápolási szükséglet vizsgálata alapján az átadó intézmény szakellátást végző orvosa dönt.
+
+(2) Az átadó intézmény a feladatátadás-átvétel napját megelőző 35. napig átadja az átvevő fenntartónak az átvett feladattal együtt orvosszakmai döntés alapján átvételre javasolt beteg (a továbbiakban: beteg) nevét, lakcímadatait és a nyilatkozattételre jogosult személynek, vagy a beteg törvényes képviselőjének a nevét, elérhetőségét.
+
+(3) Az átvevő fenntartó az átadás napját megelőző 30. napig tájékoztatja a beteget, valamint a nyilatkozattételre jogosult személyt vagy a törvényes képviselőt a szakápolási központban nyújtott szolgáltatásokról, az intézményi jogviszonyról és a fizetendő térítési díj szabályairól.
+
+(4) A beteg, a nyilatkozattételre jogosult személy vagy a törvényes képviselő a fenntartói tájékoztatás kézhezvételétől számított 8 napon belül nyilatkozik, hogy a beteg elfogadja-e az ápolását, gondozását a szakápolási központban.
+
+(5) Ha a beteg, a nyilatkozattételre jogosult személy vagy a beteg törvényes képviselője a beteg szakápolási központba történő áthelyezéséhez nem járul hozzá, és a beteg fekvőbeteg-gyógyintézeti ellátása szakorvosi döntés alapján a továbbiakban nem indokolt, a szakellátást végző orvos a beteget az otthonába bocsátja.
+
+(6) Ha a beteg, a nyilatkozattételre jogosult személy vagy a beteg törvényes képviselője a (4) bekezdés szerinti nyilatkozatában hozzájárul az áthelyezéshez,
+
+- a) az átadó intézmény legkésőbb az átadás-átvétel napját megelőző hónap 15. napjáig átadja a beteg ellátottak intézményi nyilvántartása vezetéséhez szükséges adatait az átvevő fenntartónak;
+- b) a befogadó intézmény az átadás-átvétel napjától számított, legfeljebb 15 napon belül a 94/C. § szerinti megállapodást köt a beteggel; és
+- c) a beteg, a nyilatkozattételre jogosult személy vagy a beteg törvényes képviselője a nyilatkozat megtételét követő 15 napon belül átadja a beteg jövedelem- és vagyonnyilatkozatát a befogadó intézménynek, amely alapján a befogadó intézmény vezetője további 15 napon belül meghatározza a fizetendő személyi térítési díjat.
+
+(7) A beteg gondozási szükségletének vizsgálatát nem kell elvégezni.
+
+(8) A beteg – a jövedelem- és vagyonnyilatkozat kivételével – mentesül a szociális intézményi jogviszony létesítéséhez előírt dokumentumok benyújtásának kötelezettsége alól.
+
+(9) A szakápolási központ soron kívül fogadja az átadás-átvétellel érintett fekvőbeteg-ellátást biztosító egészségügyi intézményből, továbbá a szakápolási központ székhelye szerinti vármegye egészségügyi szolgáltatójának fekvőbeteg-ellátást nyújtó osztályáról a szakorvosi javaslatra érkező beteget.
+
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 132. § (1) Felhatalmazást kap a Kormány, hogy megállapítsa
@@ -3287,7 +3433,7 @@ járul hozzá.
 - k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m) a tartós ápolást végzők időskori támogatásának igénylésére, megállapítására és folyósítására vonatkozó szabályokat;
-- n) a szociális hatóság és a szociális szakértői szerv kijelölését;
+- n) a szociális hatóság, a 24/C. § szerinti jogi személy és a szociális szakértői szerv kijelölését;
 - o)
 - p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
@@ -3318,6 +3464,8 @@ járul hozzá.
 - o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
 (2a) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+
+(2b) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az átadó intézményeket és a befogadó intézményeket a szociálpolitikáért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
@@ -3519,11 +3667,11 @@ kell elvégezni.
 
 (5) A 2010. december 31-én hatályos 37/C. § (4) bekezdése alapján megkötött hatósági szerződések 2011. január 1-jén megszűnnek, azzal, hogy az aktív korúak ellátására való jogosultság fennállása esetén a 2010. december 31-én hatályos 37/C. § (4) bekezdése szerinti személy részére 2011. január 1-jétől rendszeres szociális segélyt kell folyósítani.
 
-140/B. §
+#### 140/B. §
 
 140/C. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 1999. évi LXXIII. törvény – 2012. június 26-áig hatályos – 56. § (1) bekezdésében meghatározott átmeneti rendelkezés alapján az intézmények a százötven fős férőhelyszámot nem léphetik túl és a százötven fős vagy ezt meghaladó férőhelyszámú intézmények férőhelyeinek száma tovább nem bővíthető.
 
-140/D. §
+#### 140/D. §
 
 140/E. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 38. § (1a)–(3) bekezdését, valamint (6) és (9) bekezdését a lakásfenntartási támogatás megállapítása iránt 2011. augusztus 31-ét követően indult eljárásokban kell alkalmazni.
 
@@ -3542,13 +3690,13 @@ kell elvégezni.
 
 140/J. § A 2012. január 1-jét megelőző időponttól megállapított foglalkoztatást helyettesítő támogatás esetében első alkalommal a 2012. január hónapra járó, február hónapban folyósított ellátást kell a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 35. § (4) bekezdés szerinti összegben folyósítani.
 
-140/K. §
+#### 140/K. §
 
 140/L. § (1) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 25. § (3) bekezdés a) pont ad) alpontjában és 38. § (1) bekezdésében foglaltakat a 2012. január 1-jét követően benyújtott kérelmek esetében kell alkalmazni.
 
 (2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 38. § (9) és (10) bekezdésének rendelkezései a normatív lakásfenntartási támogatás megállapítására a 132. § (4) bekezdés e) pontjában foglalt felhatalmazás alapján megalkotott önkormányzati rendelet hatálybalépését követően benyújtott kérelmek esetében alkalmazhatóak.
 
-140/M. §
+#### 140/M. §
 
 140/N. § (1) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvénnyel megállapított 50. § (1) bekezdés g) pontját a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -3561,13 +3709,13 @@ kell elvégezni.
 
 (2) A közgyógyellátásra való jogosultság megállapítása iránt 2018. január 1-jén folyamatban lévő ügyben a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 2018. január 1-jén hatályos rendelkezéseit kell alkalmazni.
 
-140/P. §
+#### 140/P. §
 
-140/Q. §
+#### 140/Q. §
 
 140/R. § A települési önkormányzatnak legkésőbb 2013. december 31-éig kell megalkotnia az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét.
 
-140/R. §
+#### 140/R. §
 
 140/S. § (1) A 2014. január 1-jét megelőzően jogerős határozattal megállapított átmeneti segély és temetési segély ellátásokra, valamint a 2014. január 1-jén átmeneti segély és temetési segély iránt folyamatban lévő ügyekre a 2013. december 31-én hatályos rendelkezéseket kell alkalmazni, azzal, hogy 2014. január 1-jétől e törvény és más jogszabály alkalmazásában az átmeneti segély és a temetési segély önkormányzati segély ellátásnak minősül.
 

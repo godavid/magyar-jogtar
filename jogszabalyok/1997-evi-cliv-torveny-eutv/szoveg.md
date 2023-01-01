@@ -91,7 +91,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - b) szövet: az emberi test sejtekből álló valamennyi alkotórésze, ide nem értve a vért és a véralkotórészt;
 - c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, ha működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is;
 - d) in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/746 rendelet] 2. cikk 2. pontjában meghatározott fogalom.
-- e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
+- e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a munkavégzés helyének kijelölése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
 - f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.
 
 ### 4. CÍM — A törvény hatálya
@@ -187,6 +187,21 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 (6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjával való kapcsolattartásnak és vallása szabad gyakorlásának joga.
 
 (7) A beteg – törvény eltérő rendelkezése hiányában – jogosult saját ruháinak és személyes tárgyainak a használatára.
+
+(8) Ha a beteg
+
+- a) önmagát nem tudja ellátni,
+- b) állapota miatt folyamatos segítségre szorul,
+- c) hosszútávú fekvőbeteg-ellátást igényel
+- d) pszichés krízishelyzetben van vagy
+- e) haldoklik,
+
+jogosult egy, a beteg által megjelölt személy (a továbbiakban: segítő személy) a látogatási időn túl is a beteg mellett tartózkodni. Cselekvőképtelen beteg esetén a segítő személy megjelölésére a 16. § (1) és (2) bekezdésében meghatározott személy is jogosult.
+
+(9) A segítő személy
+
+- a) kizárólag nagykorú személy lehet,
+- b) az ápolt beteg benntartózkodása ideje alatt tartózkodhat a beteg mellett, ha az egészségügyi szolgáltató infrastrukturális feltételei ezt lehetővé teszik.
 
 ### Az intézmény elhagyásának joga
 
@@ -1089,9 +1104,9 @@ valamint rágcsálók irtása
 
 (4) A menedékjogról szóló törvény szerinti különleges bánásmódot igénylő elismerést kérő személy esetében az (1) bekezdés szerinti szűrővizsgálatot soron kívül, más elismerést kérő személyt megelőzően kell elvégezni.
 
-(5) A szűrővizsgálat eredményét a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala közli a menekültügyi hatósággal.
+(5) A szűrővizsgálat eredményét a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala közli a menekültügyi hatósággal.
 
-(6) A fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala az e törvény szerinti egészségügyi válsághelyzet, vagy az egészségügyi válsághelyzetre vonatkozó szabályok alkalmazása esetén az illetékes rendőrkapitányságnál kezdeményezheti az egészségügyi szolgáltatók fokozottabb őrzéséről való intézkedést.
+(6) A fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala az e törvény szerinti egészségügyi válsághelyzet, vagy az egészségügyi válsághelyzetre vonatkozó szabályok alkalmazása esetén az illetékes rendőrkapitányságnál kezdeményezheti az egészségügyi szolgáltatók fokozottabb őrzéséről való intézkedést.
 
 (7) Az (1)–(6) bekezdésben foglaltakat nem kell alkalmazni a Magyarország területére más hatósági vagy bírósági eljárásban való kötelező megjelenés céljából történő belépés esetén.
 
@@ -1510,6 +1525,12 @@ alapul.
 - c) a speciális ellátásra indokul szolgáló szakmai feltételek esetén a háziorvos
 
 beutalása alapján vehető igénybe.
+
+92/A. § (1) Városi kórház az a gyógyintézet, amely 0–24 órában betegfogadásra alkalmas és legalább kettő, a miniszter által rendeletben meghatározott szakmában nyújt fekvőbeteg-szakellátást.
+
+(2) Vármegyei kórház az a gyógyintézet, amely 0–24 órában biztosít sürgősségi ellátást és legalább öt, a miniszter által rendeletben meghatározott szakmában nyújt fekvőbeteg-szakellátást.
+
+(3) Az (1) és (2) bekezdés szerinti kórházak szakmai összetételét és feladatait a miniszter rendeletben határozza meg.
 
 ### 4. CÍM — Egyéb egészségügyi ellátások
 
@@ -2729,10 +2750,10 @@ költségének fedezetét.
 
 (3) A Tanács tagja
 
-- a) az adott térség megyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
-- b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy népegészségügyi feladatokért felelős képviselője,
+- a) az adott térség vármegyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
+- b) az adott térségben működő fővárosi és vármegyei kormányhivatal egy-egy népegészségügyi feladatokért felelős képviselője,
 - c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
-- d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
+- d) a térségben található járásokban levő önkormányzatok vármegyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 - e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
 - f) az olyan jogi személyiséggel rendelkező vallási közösségek egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - g) az a)–f) pontban foglaltak alapján nem képviselt – a térségben működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
@@ -2821,7 +2842,7 @@ költségének fedezetét.
 
 ### Az állami fenntartású egészségügyi intézményeket irányító miniszter feladatai
 
-151/B. § (1) Az állami fenntartású fekvőbeteg-szakellátó egészségügyi intézmények fenntartója és irányítója a Kormány által kijelölt miniszter azzal, hogy az egyes fenntartói jogokat és irányítói hatásköröket a 154/A. § szerinti egészségügyi szolgáltatás irányításáért felelős szerv és az irányító megyei intézmények közreműködésével gyakorolja.
+151/B. § (1) Az állami fenntartású fekvőbeteg-szakellátó egészségügyi intézmények fenntartója és irányítója a Kormány által kijelölt miniszter azzal, hogy az egyes fenntartói jogokat és irányítói hatásköröket a 154/A. § szerinti egészségügyi szolgáltatás irányításáért felelős szerv és az irányító vármegyei intézmények közreműködésével gyakorolja.
 
 (2) Az (1) bekezdés alá nem tartozó állami fenntartású egészségügyi intézmények tekintetében a fenntartó és az irányító az egészségügyért felelős miniszter azzal, hogy egyes fenntartói jogok és irányítói hatáskörök – az e törvényben meghatározott kivétellel – jogszabályban meghatározottak szerint átadhatóak.
 
@@ -2847,11 +2868,11 @@ költségének fedezetét.
 
 152/A. § A települési önkormányzat együttműködik a lakosságra, közösségekre, családi, munkahelyi, iskolai színterekre irányuló egészségfejlesztési tevékenységekben az ezeket végző szervekkel és személyekkel, valamint támogatja és aktívan kezdeményezi ezen tevékenységeket.
 
-152/B. § A járásra, illetve a fővárosban a fővárosi kerületre vonatkozóan – azon járásokban, ahol működik egészségfejlesztési iroda, az egészségfejlesztési irodák bevonásával – a járásszékhely város önkormányzata a területileg érintett települési önkormányzatokkal vagy azok társulásaival egészségtervet [a továbbiakban: járási (fővárosi kerületi) egészségterv] dolgoz ki, illetve gondoskodik az abban foglaltak megvalósításáról, amelynek során együttműködik a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával, az alapellátást és a szakellátást nyújtó egészségügyi szolgáltatókkal, valamint az egyéb érintett ágazatok szereplőivel.
+152/B. § A járásra, illetve a fővárosban a fővárosi kerületre vonatkozóan – azon járásokban, ahol működik egészségfejlesztési iroda, az egészségfejlesztési irodák bevonásával – a járásszékhely város önkormányzata a területileg érintett települési önkormányzatokkal vagy azok társulásaival egészségtervet [a továbbiakban: járási (fővárosi kerületi) egészségterv] dolgoz ki, illetve gondoskodik az abban foglaltak megvalósításáról, amelynek során együttműködik a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalával, az alapellátást és a szakellátást nyújtó egészségügyi szolgáltatókkal, valamint az egyéb érintett ágazatok szereplőivel.
 
 153. § (1) A települési önkormányzat a környezet- és település-egészségügyi feladatok körében
 
-- a) gondoskodik a köztisztasági és településtisztasági feladatok ellátásáról,
+- a) gondoskodik a köztisztasági és településtisztasági feladatok ellátásáról, ennek körében a közterületek tisztán tartásáról, a közterületről összegyűjtött települési hulladék kezeléséről,
 - b) biztosítja a 73. § (1) bekezdése szerinti külön jogszabályban meghatározott rovarok és rágcsálók irtását,
 - c) folyamatosan figyelemmel kíséri a település környezet-egészségügyi helyzetének alakulását és ennek esetleges romlása esetén – lehetőségeihez képest – saját hatáskörben intézkedik, vagy a hatáskörrel rendelkező és illetékes hatóságnál kezdeményezi a szükséges intézkedések meghozatalát,
 - d)
@@ -2911,7 +2932,7 @@ költségének fedezetét.
 (3) A 151/B. § (1) bekezdése szerinti egészségügyi intézmények esetében
 
 - a) a miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása,
-- b) a Kormány által kijelölt miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára a megyeszékhelyen, illetve megyei jogú városban székhellyel rendelkező, fekvőbeteg- szakellátást nyújtó egészségügyi intézmény (a továbbiakban: megyei intézmény) vezetője tekintetében vezetői megbízás adása és a vezetői megbízás visszavonása.
+- b) a Kormány által kijelölt miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára a vármegyeszékhelyen, illetve megyei jogú városban székhellyel rendelkező, fekvőbeteg- szakellátást nyújtó egészségügyi intézmény (a továbbiakban: vármegyei intézmény) vezetője tekintetében vezetői megbízás adása és a vezetői megbízás visszavonása.
 
 (4) A 151/B. § (2) bekezdése szerinti egészségügyi intézmények esetében a miniszter kizárólagos jogkörébe tartozik az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása.
 
@@ -2920,7 +2941,7 @@ költségének fedezetét.
 - a) a 151/B. § (1) bekezdése szerinti egészségügyi intézményeknek az egészségügyi szolgáltatás irányításáért felelős szerv általi irányítását,
 - b) az egészségügyi szolgáltatás irányításáért felelős szerv közreműködésével a 151/B. § (1) bekezdése szerinti egészségügyi intézmények működését.
 
-(6) A megyei intézmény tekintetében az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja:
+(6) A vármegyei intézmény tekintetében az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja:
 
 - a) az (1) bekezdés a), c), f) és g) pontja szerinti, valamint az (1a) bekezdés szerinti jogköröket,
 - b) a jogszabályban meghatározott mértékű kapacitás módosulását eredményező szervezeti változások jóváhagyását, és
@@ -2928,42 +2949,51 @@ költségének fedezetét.
 
 (7) Az egészségügyi szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az egészségügyi szolgáltatás irányításáért felelős szerv vezetője által az (1a) bekezdés b) és c) pontja alapján előterjesztett kezdeményezésnek megfelelően kell eljárnia.
 
-(8) A megyei intézmény vezetője felett az alapvető és az egyéb munkáltatói jogokat – a (3) bekezdés b) pontja szerinti kivétellel – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja.
+(8) A vármegyei intézmény vezetője felett az alapvető és az egyéb munkáltatói jogokat – a (3) bekezdés b) pontja szerinti kivétellel – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja.
 
-(9) A megyei intézmény (8) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
+(9) A vármegyei intézmény (8) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
 
 - a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
-- b) az egyéb munkáltatói jogokat a megyei intézmény vezetője
+- b) az egyéb munkáltatói jogokat a vármegyei intézmény vezetője
 
 gyakorolja.
 
-(10) Az állami fenntartású, megyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a megyei intézményhez (ide nem értve a megyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező megyei intézményt) tartozik, amelyik megyei intézmény székhelye szerinti megyében a városi intézmény székhelye található azzal, hogy azokban a megyékben, ahol irányítási joggal rendelkező megyei intézmény nem működik, a megyében működő egészségügyi felsőoktatási intézmény klinikai központját, ennek hiányában a megyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell megyei intézmény alatt érteni (a továbbiakban: irányító megyei intézmény).
+(10) Az állami fenntartású, vármegyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a vármegyei intézményhez (ide nem értve a vármegyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező vármegyei intézményt) tartozik, amelyik vármegyei intézmény székhelye szerinti vármegyében a városi intézmény székhelye található azzal, hogy azokban a vármegyékben, ahol irányítási joggal rendelkező vármegyei intézmény nem működik, a vármegyében működő egészségügyi felsőoktatási intézmény klinikai központját, ennek hiányában a vármegyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell vármegyei intézmény alatt érteni (a továbbiakban: irányító vármegyei intézmény).
 
-(11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító megyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító megyei kórház vezetője által tett kezdeményezésekre is.
+(11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító vármegyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító vármegyei kórház vezetője által tett kezdeményezésekre is.
 
 (12) A városi intézmény vezetője tekintetében
 
 - a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
-- b) az egyéb munkáltatói jogokat az irányító megyei intézmény vezetője
+- b) az egyéb munkáltatói jogokat az irányító vármegyei intézmény vezetője
 
 gyakorolja.
 
 (13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
 
-- a) az alapvető munkáltató jogokat az irányító megyei intézmény vezetője,
+- a) az alapvető munkáltató jogokat az irányító vármegyei intézmény vezetője,
 - b) az egyéb munkáltató jogokat a városi intézmény vezetője
 
 gyakorolja.
 
+(13a) A vármegyei intézmény – ideértve az irányítási feladatokat ellátó vármegyei intézményt és klinikai központot is – és a városi intézmény foglalkoztatottjai számára a munkavégzés helyeként bármely, a foglalkoztatási jogviszony szerinti vármegyei vagy városi intézmény székhelye szerinti vármegyében működő vármegyei vagy városi intézmény meghatározható azzal, hogy
+
+- a) a foglalkoztatott a munkavégzés helyeként meghatározott intézmény betegeit az intézmény nevében és utasításai szerint elláthatja,
+- b) a foglalkoztatott javadalmazását a munkavégzés helyeként meghatározott vármegyei vagy városi intézmény biztosítja, amelyet át kell adnia annak az intézménynek, amelyikkel a foglalkoztatott foglalkoztatási jogviszonya fennáll,
+- c) az egészségügyi szolgáltatás nyújtásához szükséges személyi feltételek szempontjából a foglalkoztatottat a munkavégzés helye szerinti vármegyei, illetve városi intézménynél kell figyelembe venni,
+- d) a munkavégzés helyének munkáltató általi egyoldalú meghatározása a foglalkoztatottra nézve – különösen egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem járhat,
+- e) a munkavégzés helye és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a három órát, tíz éven aluli gyermeket nevelő foglalkoztatott esetében a két órát nem haladhatja meg,
+- f) rezidens esetén a munkavégzés helyét a jóváhagyott szakképzési tervével összhangban kell kijelölni.
+
 (14) Az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint az egészségügyi intézmény működőképességének biztosítása
 
-- a) az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felelősségi körébe tartozik a megyei intézmény tekintetében,
-- b) az irányító megyei intézmény vezetője felelősségi körébe tartozik a városi intézmény tekintetében.
+- a) az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felelősségi körébe tartozik a vármegyei intézmény tekintetében,
+- b) az irányító vármegyei intézmény vezetője felelősségi körébe tartozik a városi intézmény tekintetében.
 
 (15) Az országos gyógyintézetek és országos társgyógyintézetek vonatkozásában az (1)–(14) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy:
 
 - a) az országos gyógyintézet és az országos társgyógyintézet vezetőjét – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára – a miniszter nevezi ki és menti fel,
-- b) a (6) bekezdés alkalmazásában megyei intézménynek az országos gyógyintézet minősül,
+- b) a (6) bekezdés alkalmazásában vármegyei intézménynek az országos gyógyintézet minősül,
 - c) az országos gyógyintézet vezetője felett az alapvető munkáltatói jogokat és az egyéb munkáltatói jogokat – az a) pont szerinti kivétellel – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja,
 - d) az országos gyógyintézet c) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja,
 - e) az egészségügyi szolgáltatás irányításáért felelős szerv felelősségi körébe tartozik az országos gyógyintézet tekintetében az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint a gyógyintézet működőképességének biztosítása,
@@ -2974,7 +3004,7 @@ gyakorolja.
 
 (16) A (8), (9), (12), (13) bekezdés és a (15) bekezdés c), d), h) és i) pontja szerinti munkáltatói jogok gyakorlása az egészségügyi szolgáltatás irányításáért felelős szerv által kiadott szabályzatban foglaltak szerint átruházható.
 
-(17) A Budapesten és Pest megyében működő állami tulajdonú és fenntartású egészségügyi szakellátást nyújtó egészségügyi intézményekre az (1)–(14) és a (16) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
+(17) A Budapesten és Pest vármegyében működő állami tulajdonú és fenntartású egészségügyi szakellátást nyújtó egészségügyi intézményekre az (1)–(14) és a (16) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
 
 (18) Törvényben vagy a Kormány rendeletében meghatározott eltérésekkel kell alkalmazni az (1)–(16) bekezdésben foglaltakat
 
@@ -2985,18 +3015,16 @@ fenntartására és irányítására.
 
 (19) Nem alkalmazandóak
 
-- a) az (1)–(17) bekezdésben foglaltak
-  - aa) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató,
-  - ab) a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
-- b) a (2)–(17) bekezdésben foglaltak a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató
+- a) az (1)–(17) bekezdésben foglaltak a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
+- b) a (2)–(17) bekezdésben foglaltak a honvédelemért felelős miniszter irányítása alá tartozó, a vármegyei irányító intézmény kategóriával azonos besorolású, e törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet (a továbbiakban: honvédelmi egészségügyi szolgáltató)
 
-fenntartására és irányítására.
+fenntartására, irányítására.
 
 (20) Egészségügyi válsághelyzetben a Kormány rendeletében az állam tulajdonában és fenntartásában működő egészségügyi intézmények fenntartása és irányítása tekintetében az (1)–(18) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
-(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az az irányító megyei intézmény gyakorolja, amelyik székhelye szerinti megye területén a járóbeteg-szakellátást nyújtó egészségügyi intézmény székhelye található.
+(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az az irányító vármegyei intézmény gyakorolja, amelyik székhelye szerinti vármegye területén a járóbeteg-szakellátást nyújtó egészségügyi intézmény székhelye található.
 
-(22) A Budapesten és Pest megyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
+(22) A Budapesten és Pest vármegyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -3024,60 +3052,7 @@ fenntartására és irányítására.
 
 #### 156/A. §
 
-### A honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók irányítására vonatkozó rendelkezések
-
-156/B. § (1) A Hvt. 16. § (1) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelmi egészségügyi szolgáltató irányítása alá tartozó, a Kormány rendeletében meghatározott, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató (a továbbiakban: honvédelmi irányítású egészségügyi szolgáltató) vonatkozásában – a honvédelemért felelős miniszter felügyelete mellett – gyakorolja a (2)–(9) bekezdés szerinti jogköröket.
-
-(2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője gyakorolja – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének előzetes egyetértésével – a honvédelmi irányítású egészségügyi szolgáltató felett az alábbi jogköröket:
-
-- a) az egészségügyi szolgáltató kapacitásainak átcsoportosításával, csökkentésével, illetve szakmai összetételével kapcsolatos módosítás kezdeményezése,
-- b) az egészségügyi szolgáltató ellátási területe módosításának kezdeményezése,
-- c) az egészségügyi szolgáltató az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
-- d) az egészségügyi szolgáltatót működési engedélyének módosítása iránti kérelem előzetes jóváhagyása az egészségügyi szolgáltató által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és az óraszám tekintetében,
-- e) az egészségügyi szolgáltató működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, ha azt jogszabály a szüneteltetés és annak meghosszabbítása feltételeként előírja,
-- f) az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása, és
-- g) a jogszabályban meghatározott mértékű kapacitás módosulását eredményező szervezeti változások jóváhagyása.
-
-(3) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője gyakorolja – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjével együttműködve – a honvédelmi irányítású egészségügyi szolgáltató felett az alábbi jogköröket:
-
-- a) az egészségügyi szolgáltató szakmai felügyelete,
-- b) az egészségügyi szolgáltató költségvetésével kapcsolatos, jogszabályban meghatározott, az irányító szerv jogkörébe tartozó jogok gyakorlása,
-- c) az egészségügyi szolgáltató működését szabályozó dokumentumok (pl. szervezeti és működési szabályzat, házirend, szakmai program, munkaterv) jóváhagyása,
-- d) az egészségügyi szolgáltató által kötendő egészségügyi ellátási szerződés jóváhagyása,
-- e) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
-- f) a költségvetési irányítás tekintetében az intézmények éves költségvetési keretszámainak megállapítása és költségvetésének jóváhagyása, valamint az Áht. és a végrehajtási rendelete alapján az irányító szerv jogkörébe tartozó intézkedések megtétele,
-- g) az egészségügyi szolgáltató irányításának és működésének törvényességi, szakszerűségi, hatékonysági és pénzügyi szempontú ellenőrzése, és
-- h) a belső minőségügyi rendszerek összehangolása, egységes szakmai minőségértékelési rendszer működtetése.
-
-(4) A honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője a (2) bekezdés szerinti egyetértési kezdeményezést előzetesen az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felé továbbítja, aki az egyetértési jogkörében a megkeresés beérkezésétől számított 15 napon belül – indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének egyetértését vélelmezni kell.
-
-(5)
-
-(6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének felelősségi körébe tartozik a honvédelmi irányítású egészségügyi szolgáltató tekintetében az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint az egészségügyi szolgáltató működőképességének biztosítása. A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője kikérheti az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének álláspontját a honvédelmi irányítású egészségügyi szolgáltató szakmai feltételeinek és működőképességének biztosítása érdekében szükséges intézkedések vonatkozásában. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője köteles érdemben megvizsgálni és állásfoglalást adni a megkeresésre.
-
-(7) A honvédelmi irányítású egészségügyi szolgáltató vezetője tekintetében
-
-- a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
-- b) az egyéb munkáltatói jogokat a honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője
-
-gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
-
-(8) A honvédelmi irányítású egészségügyi szolgáltató vezető-helyettese és a honvédelmi irányítású egészségügyi szolgáltató foglalkoztatottjai felett
-
-- a) az alapvető munkáltatói jogokat a honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője,
-- b) az egyéb munkáltatói jogokat pedig a honvédelmi irányítású egészségügyi szolgáltató vezetője
-
-gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
-
-(9) A munkáltatói jogok
-
-- a) a (7) bekezdés a) pontja esetében a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjére,
-- b) a (7) bekezdés b) pontja és a (8) bekezdés a) pontja esetében a Hvt. 16. § (3) bekezdése szerinti, a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakörbe, vagy ennek megfelelő szolgálati beosztásba kinevezett vagy megbízott személyre,
-- c) a (8) bekezdés b) pontja esetében a honvédelmi irányítású egészségügyi szolgáltató vezetője által meghatározott vezető munkakörű személyre
-
-ruházhatók át.
-
-#### 156/C. §
+#### 156/B. §
 
 #### 156/D. §
 
@@ -4110,13 +4085,13 @@ kezeli.
 
 (2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve az Szkt. 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
+(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve az Szkt. 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több vármegye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
 
 (3a) Az Operatív Törzs (3) bekezdés szerinti döntése elleni közigazgatási perben nincs helye azonnali jogvédelemnek.
 
 (3b) A bíróság az Operatív Törzs (3) bekezdés szerinti döntését helyben hagyja, vagy az ítélet meghozatalának időpontjára tekintettel hatályon kívül helyezi.
 
-(4) Ha az egészségügyi válsághelyzet több megyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
+(4) Ha az egészségügyi válsághelyzet több vármegyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
 (5) A miniszter javaslatára a Kormány meghatározza az egészségügyi válsághelyzet felszámolása érdekében igénybe vehető erőket, eszközöket és szervezeteket, és engedélyezi azok igénybevételét.
 
@@ -4239,7 +4214,7 @@ az adatkezelési céllal közvetlenül összefüggő személyes adatait.
 
 részére – kérésükre – hozzáférést biztosít, ha a megkereső igazolja, hogy az adatot más szervtől beszerezni nem tudja és az adat az érintett kezeléséhez vagy a megkereső szerv járványügyi feladatai ellátásához elengedhetetlenül szükséges.
 
-232/C. § (1) A katasztrófavédelemről szóló törvény szerinti katasztrófaveszély esetén az egészségügyi feladatatok biztosítása érdekében a fővárosi és megyei kormányhivatal egészségügyi veszélyhelyzetet hirdethet és
+232/C. § (1) A katasztrófavédelemről szóló törvény szerinti katasztrófaveszély esetén az egészségügyi feladatatok biztosítása érdekében a fővárosi és vármegyei kormányhivatal egészségügyi veszélyhelyzetet hirdethet és
 
 - a) az illetékességi területén átmenetileg módosíthatja
   - aa) az alapellátás körzethatárait,
@@ -4743,11 +4718,11 @@ rendeletben megállapítsa.
 - g) határozza meg az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei, valamint az igazgatók részére megállapítható személyi illetmény legkisebb összegét,
 - h) kijelölje a 151/B. § (1) bekezdése szerinti egészségügyi intézményeket irányító minisztert,
 - i) határozza meg az állami fenntartású – 151/B. § (1) bekezdése szerinti – egészségügyi intézmények irányításával kapcsolatosan az egészségügyi szolgáltatás irányításáért felelős szerv általi joggyakorlás szabályait,
-- j) határozza meg a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
+- j) határozza meg a Budapesten és Pest vármegyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
 - k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
 - l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
-- m) határozza meg a honvédelmi irányítású egészségügyi szolgáltatókat,
-- n) határozza meg a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.
+- m)
+- n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
 
@@ -4769,6 +4744,7 @@ rendeletben megállapítsa.
 - j) a 74/E. § szerinti eljárásban közreműködő adatfeldolgozókat,
 - k) a 74/K. § (1) bekezdése szerinti szolgáltatásokat, üzlethelyiségeket, egyéb helyeket, eseteket, a védettség igazolásához szükséges okmányokat,
 - l) a 74/K. § (2) bekezdése szerinti személyeket.
+- m) a köztisztaság és a településtisztaság környezet- és település-egészségügyi szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -4828,7 +4804,7 @@ rendeletben megállapítsa.
 - u) az egységes ágazati humánerőforrás-monitoringrendszer működésének, valamint a humánerőforrás-monitoringrendszer részére átadásra kerülő egyes adatok körét, illetve a humánerőforrás-monitoringrendszerből történő adatszolgáltatás részletes szabályait,
 - v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, pótlására, visszavonására és használatára, valamint – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat,
 - w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
-- x)
+- x) a városi és a vármegyei kórház szakmai összetételét és feladatait
 - y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 - z) az egészségügyi szolgáltatóknál végezhető egészségügyi ellátások nyilvántartására és a nyilvántartásba vételére vonatkozó szabályokat,
 - zs) a közúti járművezetői engedély megszerzéséhez szükséges elsősegély-nyújtási ismeretek megszerzésének részletes szabályait, továbbá a gépjárművezetők egészségi alkalmassága elbírálásának szabályait

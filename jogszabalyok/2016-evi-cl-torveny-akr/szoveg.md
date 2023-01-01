@@ -183,7 +183,7 @@ az érdekelt hatóságok kötelesek egymás között azonnal, de legfeljebb hár
 
 (3) Ha az (1) bekezdés szerinti eljárás nem vezetett eredményre, az eljáró hatóságot
 
-- a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és megyei kormányhivatal öt napon belül,
+- a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és vármegyei kormányhivatal öt napon belül,
 - b) hatásköri összeütközés esetén a közigazgatási bíróság
 
 jelöli ki.
@@ -390,7 +390,7 @@ A cselekvőképességet nem érintő támogatott döntéshozatal elősegítése 
 
 (1) A kérelem az illetékes hatóságnál vagy – ha azt törvény vagy kormányrendelet nem zárja ki – a kormányablaknál terjeszthető elő.
 
-(2) Az eljárás a kérelemnek az eljáró hatósághoz történő megérkezését követő napon indul.
+(2) Az eljárás a kérelemnek az eljáró hatósághoz történő megérkezésének időpontjában indul.
 
 #### 38. § [A kérelem elbírálása]
 

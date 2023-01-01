@@ -29,7 +29,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - c) a pénzletétkezelésre, ha annak üzletszerű végzéséről jogszabály rendelkezik,
 - d) a nem pénzügyi intézmény által történő vámkezesség nyújtására, továbbá a vámigazgatási eljárásban a közvetett képviselő által a vámfizetési kötelezettség teljesítése érdekében végzett pénzügyi szolgáltatásra,
 - e) a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalványra, valamint
-- f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére.
+- f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a vármegyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére.
 
 (2) E törvény hatálya nem terjed ki:
 
@@ -1231,7 +1231,10 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 (2) Pénzügyi intézmény, vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság felszámolása esetén
 
 - a) ha egy instrumentumot csak részben ismernek el szavatoló tőke elemként, akkor a teljes instrumentum szavatoló tőkéből származó követelésnek tekintendő,
-- b) az 575/2013/EU rendeletben meghatározott járulékos tőkeelemből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
+- b) szavatoló tőke instrumentumnak nem minősülő alárendelt adósság instrumentumokat az 575/2013/EU rendeletben meghatározott járulékos tőkeelemből eredő tartozást megelőzően és a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni,
+- c) az 575/2013/EU rendeletben meghatározott kiegészítő alapvető tőkeelemből eredő tartozást az elsődleges alapvető tőkeelemből eredő tartozást megelőzően, valamint a járulékos tőkeelemből eredő tartozást követően szükséges kielégíteni.
+
+(2a) Az (1) bekezdéstől eltérően a Cstv. 57. § (1) bekezdés h) pont ha) alpontjába sorolódnak a hitelintézet legalább többségi befolyással rendelkező, természetes személynek nem minősülő tagjainak a hitelintézettel szemben fennálló, az OBA által biztosított, kártalanítási kötelezettséget meghaladó betételhelyezésből eredő követelések.
 
 (3) A felszámolás során tartott egyezségi tárgyaláson az állam és az OBA képviselője – az általuk biztosított betétek tekintetében és értékében – hitelezőként vesznek részt, jogosultak megtenni az egyezség létrejöttéhez szükséges engedményeket.
 
@@ -1378,7 +1381,9 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (9) A többes ügynök az általa megbízott közvetítői alvállalkozó személyét, valamint a közvetítői alvállalkozó megbízásának megszűnését két munkanapon belül bejelenti a megbízó pénzügyi intézményének annak érdekében, hogy a pénzügyi intézmény teljesíteni tudja a 21. § (2) bekezdésében foglalt kötelezettségét.
 
-#### 70–71. §
+#### 70. §
+
+#### 71. §
 
 #### 30. Függő közvetítő
 
@@ -4141,7 +4146,8 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 - i) az MNB,
 - j) a befektetési vállalkozás, a tőzsdetag, az árutőzsdei szolgáltató,
 - k) a kötelező vagy önkéntes betétbiztosítási, intézményvédelmi, befektetővédelmi alap, illetve a Pénztárak Garancia Alapja,
-- l)–m)
+- l)
+- m)
 - n) betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 (2) Az OBA által nyújtott biztosítás nem terjed ki az olyan betétre, amelyről bíróság jogerős ítélettel megállapította, hogy az abban elhelyezett összeg pénzmosásból származik, valamint a hitelintézet szavatoló tőkéjére, továbbá a hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírra és saját váltóra.
@@ -4236,7 +4242,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 - d) a betét tulajdonosa helyi önkormányzat vagy
 - e) a kártalanítást a fióktelep létesítésének helye szerinti ország betétbiztosítási rendszere fizeti ki a 209. § (9)–(10) bekezdése alapján.
 
-(1c) Ha az OBA nem bocsátja rendelkezésre a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
+(1c) Ha az OBA nem bocsátja rendelkezésre a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a szociális vetítési alap összegének négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
 
 (1d) Az (1) bekezdés szerinti határidő lejártát követő naptól számított 5 éves jogvesztő határidőn túl a kártalanítás kifizetését a kártalanításra jogosult személy nem követelheti az OBA-tól.
 
@@ -4306,7 +4312,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (4) Az igazgatótanács ülése akkor határozatképes, ha tagjainak több mint fele jelen van. Az igazgatótanács a határozatait egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
-(5) Az igazgatótanács tagjai közül évenként elnököt és alelnököt választ. Nem választható elnökké és alelnökké az ügyvezető.
+(5) Az igazgatótanács tagjai közül évenként elnököt és legalább egy alelnököt választ. Nem választható elnökké és alelnökké az ügyvezető.
 
 (6)
 
@@ -4372,7 +4378,7 @@ vonatkozásában információt ad.
 
 (4) Az OBA a (2) bekezdésben meghatározott adatokat kizárólag feladatainak ellátása érdekében használhatja fel.
 
-(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
+(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását is – a Felügyelet a helyszínen vagy helyszínen kívül ellenőrzi. A Felügyelet az ellenőrzés során az OBA – Felügyelet által meghatározott módon történő – közreműködését is igénybe veheti, az OBA ezen ellenőrzés keretében a Felügyelet felé intézkedési javaslattal élhet. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
 (6) A tagintézet köteles a betétekre és a betétesekre vonatkozó azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére három munkanapon belül átadhatóak legyenek.
 
@@ -4380,7 +4386,7 @@ vonatkozásában információt ad.
 
 (8)
 
-(9) Kártalanítás esetén a hitelintézet a 213. § (3) bekezdésben meghatározott feltétel teljesülésének ellenőrzése érdekében haladéktalanul megkeresi a számlával, betéttel rendelkező helyi önkormányzatokat. A helyi önkormányzat a kincstár által kiállított igazolást megküldi a hitelintézet részére és a hitelintézet ennek alapján átadja az OBA-nak a betétbiztosítás alá tartozó helyi önkormányzatok betétállományára vonatkozó adatokat.
+(9) A hitelintézet a 213. § (3) bekezdésében meghatározott feltétel teljesülését a Magyar Államkincstár által a tárgyévet megelőző év szeptember 30. napjáig honlapján közzétett adatbázisból minden évben ellenőrzi. A hitelintézet a betétállományában nyilvántartja azokat a betéteket, amelyek a 213. § (3) bekezdésben meghatározott feltételnek megfelelően az OBA által biztosítottak.
 
 229. § (1) Az OBA-val munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, megbízási jogviszonyban álló személy, valamint az igazgatótanács tagja a feladata ellátásával kapcsolatban tudomására jutott banktitkot, üzleti titkot, továbbá minden olyan adatot, tényt vagy körülményt, amelyet törvény előírásai szerint az OBA nem köteles más hatóságok, illetve a nyilvánosság számára hozzáférhetővé tenni, az adat jellege szerinti titokként köteles megőrizni.
 
@@ -4449,7 +4455,7 @@ vonatkozásában információt ad.
 
 kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díjfizetési alap) 0,3%-a.
 
-(2a) A díjfizetési alap meghatározásánál nem kell figyelembe venni a helyi önkormányzatok betéteit, valamint százezer eurónál nagyobb összegben azokat a betéteket, amelyekre a 214/A. § alapján magasabb kártalanítási összeghatár vonatkozik.
+(2a) A díjfizetési alap meghatározásánál nem kell figyelembe venni százezer eurónál nagyobb összegben azokat a betéteket, amelyekre a 214/A. § alapján magasabb kártalanítási összeghatár vonatkozik.
 
 (3) Az éves befizetés összegét a hitelintézet minden évben negyedéves részletekben, legkésőbb a tárgynegyedév tizenötödik napjáig köteles befizetni az OBA pénzforgalmi számlájára.
 
@@ -4912,7 +4918,13 @@ rendelkezhet.
 
 (3) A pénzügyi intézmény – ha törvény ettől eltérően nem rendelkezik – a szerződés megkötése előtt az ügyfelet arról tájékoztatja, ha a szerződéssel kapcsolatos jogvita esetén nem a magyar jog alkalmazását, illetve nem magyar bíróság kizárólagos joghatóságát kötik ki.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 #### 118. A betétesek tájékoztatása
 
@@ -4990,7 +5002,23 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (3) A pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződésben egyértelműen meg kell határozni a kamatot, díjat és minden egyéb költséget vagy feltételt, ideértve a késedelmes teljesítés jogkövetkezményeit és a szerződést biztosító mellékkötelezettségek érvényesítésének módját, következményeit is.
 
-(4)–(12)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
 
 (13) A fogyasztónak nyújtott hitelről szóló törvény hatálya alá nem tartozó pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződések esetén kamatot, díjat vagy egyéb szerződési feltételt csak akkor lehet egyoldalúan, az ügyfél számára kedvezőtlenül módosítani, ha a szerződés ezt a pénzügyi intézmény számára – külön pontban – egyértelműen meghatározott feltételek, illetve körülmények esetére lehetővé teszi. A szerződés kamatot, díjat érintő – az ügyfél számára kedvezőtlen – módosítását a módosítás hatálybalépését tizenöt nappal megelőzően, közzé kell tenni, elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
 
@@ -5151,7 +5179,8 @@ vonatkozó részletes szabályokat.
 - k) 178. cikk (2) bekezdés d) pontjának megfelelően azt a határértéket, amely alapján a hitelkötelezettség-teljesítési késedelem jelentősnek minősül,
 - l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és az annak alapjául szolgáló eszköz kiegyenlítő pozíciója közötti nettósítás alkalmazhatóságának feltételéül szolgáló módszert,
 - m) 395. cikk (1) bekezdésének megfelelően a 150 millió eurónál alacsonyabb nagykockázat-vállalási határérték alkalmazását,
-- n)–o)
+- n)
+- o)
 
 (5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
 
@@ -5317,6 +5346,8 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 304/G. § (1) Ha a 2019. június 27-én már működő pénzügyi holding társaságnak, vegyes pénzügyi holding társaságnak a 15/A. § szerinti külön jóváhagyást kell kérnie a Felügyelettől, akkor a jóváhagyást a pénzügyi holding társaságnak, vegyes pénzügyi holding társaságnak legkésőbb 2021. június 28-ig kell kérelmeznie azzal, hogy a határidő elmulasztása esetén a Felügyelet a pénzügyi holding társasággal, vegyes pénzügyi holding társasággal szemben a 192/A. §-ban foglalt kivételes intézkedéseket is alkalmazhatja.
 
 (2) Ha az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás eszközeinek összértéke 2019. június 27-én legalább 40 milliárd euró volt, a harmadik országbeli csoportnak legkésőbb 2023. december 30-tól kell rendelkeznie közbenső EU-szintű anyavállalattal.
+
+304/H. § A pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvénnyel megállapított 228. § (9) bekezdést 2024. január 1-től kell alkalmazni azzal, hogy 2023. december 31-ig a 228. § (9) bekezdés 2022. december 31-én hatályos rendelkezései alkalmazandóak.
 
 #### 131. Az Európai Unió jogának való megfelelés
 

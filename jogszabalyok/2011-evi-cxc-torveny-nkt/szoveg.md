@@ -117,7 +117,7 @@ lehet,
 - 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 - 20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 - 21. óraadó: megbízási szerződés keretében legfeljebb heti tizennégy óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
-- 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a megyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző megyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
+- 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a vármegyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző vármegyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
 - 23. óvodai csoport, iskolai osztály, kollégiumi csoport: az a legalább egy nevelési évre, tanévre alkotott oktatásszervezési egység, amely meghatározott közös pedagógiai feladatok végrehajtására alakul az óvodába, iskolába, kollégiumba felvételt nyert, azonos feladatellátási helyre járó gyermekekből, tanulókból,
 - 24. összevont osztály: az általános iskola alsó tagozatán, az alapfokú művészeti iskolában, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben legalább kettő, legfeljebb négy iskolai évfolyam tanulóiból alkotott osztály,
 - 25. sajátos nevelési igényű gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi (látási, hallási), értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd,
@@ -131,7 +131,7 @@ lehet,
 - 32. tanítási nap: az egyes osztályokban a tanítási órák, továbbá az iskola pedagógiai programjában rögzített, a tanítási órák keretében meg nem valósítható osztály- vagy csoportfoglalkozás, így különösen a tanulmányi kirándulás, környezeti nevelési program, a kulturális, sportrendezvény megtartására fordított nap, ha a foglalkozási órák száma eléri a hármat,
 - 33. tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a nevelési-oktatási intézmény felügyelete alatt áll,
 - 34. telephely: a székhelyen kívül működő feladatellátási hely,
-- 35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, vagy a főváros határain kívül élők veszik igénybe,
+- 35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több vármegyében, vagy a főváros határain kívül élők veszik igénybe,
 - 36. egyházi köznevelési intézmény: a 2. § (3) bekezdés b) pont bb) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
 - 37. lemorzsolódással veszélyeztetett tanuló: az a tanuló, akinek az adott tanévben a tanulmányi átlageredménye közepes teljesítmény alatti vagy a megelőző tanévi átlageredményéhez képest legalább 1,1 mértékű romlást mutat, és esetében komplex, rendszerszintű pedagógiai intézkedések alkalmazása válik szükségessé,
 - 38.
@@ -773,7 +773,7 @@ váltható ki.
 
 - a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető,
 - b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó egyidejű értesítése mellett,
-- c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
+- c) a vármegyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
 
 rendkívüli szünetet rendel el.
 
@@ -1300,7 +1300,7 @@ továbbítható.
 
 (8) A területileg illetékes tankerületi központ meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a területileg illetékes tankerületi központnak be kell szereznie az érdekelt települési önkormányzatok véleményét.
 
-(9) A sajátos nevelési igényű tanulók nevelés-oktatását több megyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes tankerületi központnak be kell szereznie az érdekelt tankerületi központok véleményét.
+(9) A sajátos nevelési igényű tanulók nevelés-oktatását több vármegyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes tankerületi központnak be kell szereznie az érdekelt tankerületi központok véleményét.
 
 (10) A nemzetiségek jogairól szóló törvény szerinti nemzetiségi köznevelési intézmény vonatkozásában, a nemzetiséghez tartozó gyermekek óvodai nevelését, iskolai nevelés-oktatását ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt be kell szerezni az érdekelt települési nemzetiségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat egyetértését. Több településre kiterjedő működési, felvételi körzet esetén valamennyi érintett települési nemzetiségi önkormányzat egyetértését be kell szerezni, érintett települési nemzetiségi önkormányzat hiányában a területileg illetékes, érintett területi nemzetiségi önkormányzat véleményét kell kikérni.
 
@@ -1615,6 +1615,8 @@ fegyelmi büntetés szabható ki.
 
 (4) A továbbképzési kötelezettség teljesítése szempontjából az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját a hivatal jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzési programok engedélyezése és szervezése – a felnőttképzés adatszolgáltatási rendszerére vonatkozó előírások kivételével – nem tartozik a felnőttképzésről szóló törvény hatálya alá. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal látja el.
 
+(4a) Az Mt. 46. § (1) bekezdés j) pontja alkalmazásakor nem tartozik a munkáltató képzési politikája körébe a pedagógusok e törvény alapján kötelező továbbképzése.
+
 (5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
 
 (6) A teljes munkaidő ötvenöt–hatvanöt százalékában (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el, amelybe bele kell számítani heti két-két óra időtartamban a pedagógus által ellátott osztályfőnöki, kollégiumi, tanulócsoport-vezetői, vagy munkaközösség vezetéssel összefüggő feladatok, továbbá heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok időtartamát. E szabályokat kell alkalmazni abban az esetben is, ha e törvény egyes pedagógus munkakörök esetében az e bekezdésben foglaltaktól eltérően határozza meg a munkaidő egyes feladatokra fordítandó részeinek arányát.. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
@@ -1645,7 +1647,7 @@ fegyelmi büntetés szabható ki.
 - d) a 3. § (3) bekezdésében foglaltak megtartásával saját világnézete és értékrendje szerint végezze nevelő, oktató munkáját, anélkül, hogy annak elfogadására kényszerítené vagy késztetné a gyermeket, tanulót,
 - e) hozzájusson a munkájához szükséges ismeretekhez, intézményi és fenntartói információkhoz,
 - f) a nevelőtestület tagjaként részt vegyen a nevelési-oktatási intézmény pedagógiai programjának megalkotásában, elfogadásában és értékelésében, gyakorolja a nevelőtestület tagjait megillető jogokat,
-- g) szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa, részt vegyen a köznevelési rendszer működtetésével, ellenőrzésével kapcsolatos megyei és országos feladatokban, pedagógiai kísérletekben, tudományos kutatómunkában,
+- g) szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa, részt vegyen a köznevelési rendszer működtetésével, ellenőrzésével kapcsolatos vármegyei és országos feladatokban, pedagógiai kísérletekben, tudományos kutatómunkában,
 - h) szakmai egyesületek tagjaként vagy képviseletében részt vegyen helyi, regionális és országos közneveléssel foglalkozó testületek munkájában,
 - i) az iskola könyvtárán keresztül használatra megkapja a munkájához szükséges tankönyveket, tanári segédkönyveket, az intézmény SZMSZ-ében meghatározottak szerinti informatikai eszközöket,
 - j) az állami szervek és a helyi önkormányzatok által fenntartott könyvtárakat, muzeális intézményeket és más kiállító termeket, színházakat jogszabályban meghatározott kedvezményekre való jogosultságát igazoló pedagógusigazolvánnyal látogassa,
@@ -1685,7 +1687,7 @@ fegyelmi büntetés szabható ki.
 
 (3)
 
-(4) Az illetékes tankerületi központ köteles a Kar területi szervei működéséhez a megyeközponti és fővárosi tankerület székhelyén működő köznevelési intézményben a működéshez szükséges megfelelő hely biztosításáról gondoskodni.
+(4) Az illetékes tankerületi központ köteles a Kar területi szervei működéséhez a vármegyeközponti és fővárosi tankerület székhelyén működő köznevelési intézményben a működéshez szükséges megfelelő hely biztosításáról gondoskodni.
 
 (5)
 
@@ -2243,7 +2245,7 @@ illeti meg.
 - a) rendszeresen, de legalább ötévenként értékeli – az általa létrehozott tanács közreműködésével – az Óvodai nevelés országos alapprogramja és a Nat bevezetésével és alkalmazásával kapcsolatos tapasztalatokat, szükség esetén kezdeményezi a Kormánynál a szükséges módosítást,
 - b) ellenőrzi a tankönyvkiadást és tankönyvforgalmazást, szabályozza a tankönyvekkel kapcsolatos támogatások rendszerét,
 - c) gondoskodik – az országos pedagógiai-szakmai szolgáltatásokról és az állami nevelési-oktatási intézmények számára ingyenesen nyújtott pedagógiai-szakmai szolgáltatások megszervezéséről,
-- d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, megyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
+- d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, vármegyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
 - e) felügyeli a KIR és az INYR működését,
 - f) működteti az oktatási jogok biztosának hivatalát,
 - g) javaslatot tesz statisztikai adatszolgáltatásra,
@@ -2561,7 +2563,7 @@ közalkalmazotti jogviszonnyá alakul át.
 
 (8) Az átvevő munkáltatónál létesítendő közalkalmazotti jogviszony tekintetében próbaidő nem köthető ki.
 
-(9) A fenntartói jog átszállásának időpontját követő tizenöt napon belül a munkavállalót a fenntartói jog átszállásának időpontjával e törvény vagy a közalkalmazottak jogállásáról szóló törvény szerint be kell sorolni, és illetményét meg kell állapítani.
+(9) A fenntartói jog átszállásának napján a munkavállalót e törvény vagy a közalkalmazottak jogállásáról szóló törvény szerint be kell sorolni, és illetményét meg kell állapítani.
 
 (10) Ha a munkavállaló a kinevezést – korábbi további foglalkoztatására vonatkozó jognyilatkozatával ellentétesen – nem írja alá, nem adja hozzájárulását további foglalkoztatásához, vagy a nyilatkozattételt elmulasztja, munkaviszonyát a (2) bekezdés a) pontjában foglaltak alapján megszűntnek kell tekinteni, a munkaviszony megszűnésével összefüggő igazolásokat a (9) bekezdés szerinti határidőt követő öt munkanapon belül ki kell adni.
 
@@ -2868,7 +2870,7 @@ egyetértésben gyakorolja.
   - cb) az érettségi vizsga általános követelményeit,
   - cc) az érettségi vizsgán részt vevő pedagógusok díjazását és az érettségi vizsgán való részvétellel összefüggő vizsgadíj megállapításának elveit,
 - d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
-- e) a pedagógusok fővárosi, megyei állandó helyettesítési rendszerének létrehozását és működtetését,
+- e) a pedagógusok fővárosi, vármegyei állandó helyettesítési rendszerének létrehozását és működtetését,
 - f) a pedagógus-szakvizsga bevezetését, a pedagógus-továbbképzés rendszerét, a továbbképzésben résztvevők juttatásait, kedvezményeit; a pedagógus-továbbképzés programjának, a pedagógus-továbbképzési programok akkreditációjának feltételeit és eljárási rendjét, az akkreditált továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét, a továbbképzés minőségbiztosításának, ellenőrzésének rendjét, az ellenőrzés során feltárt hiányosságok, a minőségbiztosítás követelményeinek megszegése esetén alkalmazható jogkövetkezményeket, az e bekezdésben meghatározott eljárásokkal kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - g) az intézményvezetői megbízás iskolai végzettséggel, szakképzettséggel kapcsolatos és egyéb részletes feltételeit, a nevelési-oktatási intézményben pedagógus-munkakörben, óraadóként foglalkoztatottak végzettségi és szakképzettségi követelményeit, a pedagógusok előmeneteli rendszerét, az egyes fokozatokba történő besoroláshoz szükséges követelményeket, a címzetes fokozatok megszerzésének feltételeit, valamint a fokozatokhoz képest eltérő követelményeit, eljárási szabályait, és az azokhoz kapcsolódó jogosultságokat, a minősítő vizsgát és a minősítési eljárást lefolytató bizottság működését, a szakmai kritériumokra vonatkozó részletes rendelkezéseket, a minősítő vizsga és a minősítési eljárások során adható minősítések feltételeit, a minősítésekhez kapcsolódó fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó illetményt, az illetményeltérítés alapjául szolgáló kompetencia- és teljesítményalapú értékelési rendszert, valamint az ágazati, szakmai sajátosságokra tekintettel a 8. mellékletben meghatározott keretek között az illetménypótlék, az intézmény vezetői részére járó további pótlék, a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározottaknál magasabb mértékű pótlék, keresetkiegészítés és a jutalom megállapításának részletes szabályait, a megismételt minősítő vizsga és minősítési eljárások költségét, valamint a minősítési-, megújítási díj mértékét, befizetésének szabályait, a neveléssel-oktatással lekötött munkaidő számítása szempontjából egyes intézménytípusokban alapul veendő egy tanóra, foglalkozás időtartamát, a kollégiumi nevelőtanár által a neveléssel-oktatással lekötött munkaidejében ellátható, az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók folyamatos pedagógiai felügyeletébe tartozó egyes feladatokat, a nevelési-oktatási intézményekben elrendelhető rendkívüli munkavégzés, ügyelet és készenlét elrendelésének feltételeit, az ügyelet és az ügyelet alatt elrendelt munkavégzés díjazását is magában foglaló átalánydíjazás megállapításának szabályait és mértékét, a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatok körét, az eseti helyettesítésnek minősülő helyettesítést, az alkotói szabadság igénybevételének részletes szabályait, a pedagógusok munkaideje beosztásának szabályait, a nevelő és oktató munkát közvetlenül segítő alkalmazottak, valamint a gazdasági, ügyviteli, műszaki, kisegítő és más, nem pedagógus-munkakörben alkalmazottak besorolásához szükséges követelményeket, a halmozottan hátrányos helyzetű gyermekek, tanulók szülei iskolai végzettséggel összefüggő önkéntes nyilatkozatának kérdéseit, valamint az igazgatótanács munkáltatói jogosítványait,
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
@@ -3134,6 +3136,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 - c) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról, 10. cikk (1)–(2) bekezdés,
 - d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés c) pont,
 - e) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 27. cikk (1) bekezdés.
+- f) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdése és 6. cikk (1) bekezdése.
 
 101. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

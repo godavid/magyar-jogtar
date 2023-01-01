@@ -38,7 +38,7 @@ Ennek érdekében az Országgyűlés a számvitelről a következő törvényt a
 
 3. § (1) E törvény alkalmazásában
 
-- 1. gazdálkodó: a vállalkozó, az államháztartás szervezetei, az egyéb szervezet, a Magyar Nemzeti Bank, továbbá az általuk, illetve a természetes személy által alapított egészségügyi, szociális és oktatási intézmény;
+- 1. gazdálkodó: a vállalkozó, az államháztartás szervezetei, az egyéb szervezet, a Magyar Nemzeti Bank, továbbá az általuk, illetve a természetes személy által alapított egészségügyi, szociális, kulturális és oktatási intézmény;
 - 2. vállalkozó: minden olyan gazdálkodó, amely a saját nevében és kockázatára nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében termelő vagy szolgáltató tevékenységet (a továbbiakban: vállalkozási tevékenység) végez, ideértve a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást és a biztosítót is, továbbá a nonprofit gazdasági társaság, az egyesülés, a szociális szövetkezet, az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, a kisgyermekkel otthon lévők szövetkezete, az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, a vízitársulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalkozás magyarországi fióktelepe és a kezelt vagyon, amennyiben nem tartozik a 3. és 4. pontban felsoroltak közé;
 - 3. államháztartás szervezetei: az államháztartásról szóló törvény alapján az államháztartás központi és önkormányzati alrendszerébe tartozó szervek;
 - 4. egyéb szervezet:
@@ -134,7 +134,7 @@ Ennek érdekében az Országgyűlés a számvitelről a következő törvényt a
 
 - 1. igénybe vett szolgáltatás: minden olyan szolgáltatás, amely nem tartozik a közvetített szolgáltatás, illetve az egyéb szolgáltatás közé; különösen az utazásszervezés, a szállítás-rakodás, a raktározás, a csomagolás, a kölcsönzés, a bérlet, a bérmunka, az eszközök karbantartása, a postai és távközlési szolgáltatás, a mosás és vegytisztítás, a bizományi tevékenység, az ügyletszerzés, az oktatás és továbbképzés, a hirdetés, a reklám és propaganda, a piackutatás, a könyvkiadás, a lapkiadás, a szállodai szolgáltatás, a vendéglátás, a kutatás és kísérleti fejlesztés, a tervezés és lebonyolítás, a könyvvizsgálat, a könyvviteli szolgáltatás;
 - 2. egyéb szolgáltatás: a pénzügyi, a befektetési, a biztosítási, a hatósági igazgatási, az egyéb hatósági szolgáltatás;
-- 3. személyi jellegű egyéb kifizetések: azok a természetes személyek részére teljesített kifizetések, elszámolt összegek, amelyeket a kifizető a természetes személy részére jogszabályi előírás vagy saját elhatározása alapján teljesít, és nem tartoznak a bérköltség, illetve a vállalkozási díj fogalmába. Ilyenek különösen: a szerzői jogdíj, a lakhatási költségtérítés, a lakásépítésre nyújtott támogatás (ideértve az átvállalt kamatot és kezelési költséget is), az étkezési térítés, a munkábajárással kapcsolatos költségtérítés, a jubileumi jutalom, a dolgozó kötelezettségvállalásának térítése, a bányászati keresetkiegészítés, a tárgyjutalmak, az egyéb természetbeni munkajövedelmek, a megváltozott munkaképességű munkavállalók keresetkiegészítése, a betegszabadság díjazása, a munkáltatót terhelő táppénz, táppénz-kiegészítés, a munkavállaló részére kötött, de a munkáltató által fizetett baleset-, élet- és nyugdíjbiztosítás díja, az önkéntes pénztárba befizetett munkáltatói tagdíj-hozzájárulás, a magánnyugdíjpénztárba befizetett munkáltatói tagdíj-kiegészítés, a munkáltatót terhelő, illetve általa átvállalt személyi jövedelemadó, a jóléti és kulturális költségek, a végkielégítés, a munkáltatói hozzájárulás a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás igénybevételéhez, továbbá az alkalmazottakat, munkavállalókat megillető kifizetések, mint a napidíj, a különélési pótlék, a jogszabály alapján fizetett költségtérítések, a sorkatonai vagy polgári szolgálat teljesítését követően fizetett személyi alapbér, a találmányi díj, a szabadalom vételára és hasznosítási díja, az újítási díj, az ezekkel kapcsolatosan fizetett közreműködői díj, valamint nem a munkaviszonnyal összefüggésben fizetett szerzői, írói és más szerzői jogvédelmet élvező munkák díjai, az azokkal kapcsolatos közreműködői díjak, a mezőgazdaságban részesmunkát végzők díjazása, a természetben adott juttatások, a reprezentáció költségei, és minden egyéb, a statisztikai előírások szerint egyéb munkajövedelemnek, szociális költségnek minősített összegek.
+- 3. személyi jellegű egyéb kifizetések: azok a természetes személyek részére teljesített kifizetések, elszámolt összegek, amelyeket a kifizető a természetes személy részére jogszabályi előírás vagy saját elhatározása alapján teljesít, és nem tartoznak a bérköltség, illetve a vállalkozási díj fogalmába. Ilyenek különösen: a szerzői jogdíj, a lakhatási költségtérítés, a lakásépítésre nyújtott támogatás (ideértve az átvállalt kamatot és kezelési költséget is), az étkezési térítés, a munkábajárással kapcsolatos költségtérítés, a jubileumi jutalom, a dolgozó kötelezettségvállalásának térítése, a bányászati keresetkiegészítés, a tárgyjutalmak, az egyéb természetbeni munkajövedelmek, a megváltozott munkaképességű munkavállalók keresetkiegészítése, a betegszabadság díjazása, a munkáltatót terhelő táppénz, táppénz-kiegészítés, a munkavállaló részére kötött, de a munkáltató által fizetett baleset-, élet- és nyugdíjbiztosítás díja, az önkéntes pénztárba befizetett munkáltatói tagdíj-hozzájárulás, a magánnyugdíjpénztárba befizetett munkáltatói tagdíj-kiegészítés, a munkáltatót terhelő, illetve általa átvállalt személyi jövedelemadó, a jóléti és kulturális költségek, a végkielégítés, a munkáltatói hozzájárulás a korhatár előtti ellátás igénybevételéhez, továbbá az alkalmazottakat, munkavállalókat megillető kifizetések, mint a napidíj, a különélési pótlék, a jogszabály alapján fizetett költségtérítések, a sorkatonai vagy polgári szolgálat teljesítését követően fizetett személyi alapbér, a találmányi díj, a szabadalom vételára és hasznosítási díja, az újítási díj, az ezekkel kapcsolatosan fizetett közreműködői díj, valamint nem a munkaviszonnyal összefüggésben fizetett szerzői, írói és más szerzői jogvédelmet élvező munkák díjai, az azokkal kapcsolatos közreműködői díjak, a mezőgazdaságban részesmunkát végzők díjazása, a természetben adott juttatások, a reprezentáció költségei, és minden egyéb, a statisztikai előírások szerint egyéb munkajövedelemnek, szociális költségnek minősített összegek.
 
 (8) E törvény alkalmazásában
 
@@ -251,7 +251,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (2) Az egyéb szervezet beszámolási kötelezettségének, beszámolót alátámasztó könyvvezetési kötelezettségének sajátosságait a vonatkozó külön jogszabály és e törvény alapján kormányrendelet szabályozza.
 
-(3) A gazdálkodó, illetve a természetes személy által alapított egészségügyi, szociális és oktatási intézmény könyvvezetési, beszámoló készítési kötelezettségét – e törvény és a vonatkozó külön jogszabály rendelkezései alapulvételével – a létrehozó szervezet állapítja meg azzal, hogy a létrehozott szervezetet – jogi személyiségének megfelelően – a 3. § (1) bekezdése 2–4. pontjai szerinti szervezetek közé kell besorolnia.
+(3) A gazdálkodó, illetve a természetes személy által alapított egészségügyi, szociális, kulturális és oktatási intézmény könyvvezetési, beszámoló készítési kötelezettségét – e törvény és a vonatkozó külön jogszabály rendelkezései alapulvételével – a létrehozó szervezet állapítja meg azzal, hogy a létrehozott szervezetet – jogi személyiségének megfelelően – a 3. § (1) bekezdése 2–4. pontjai szerinti szervezetek közé kell besorolnia.
 
 (4) A gazdálkodónak a könyvvezetés és a beszámolókészítés során alkalmaznia kell a külön rendelettel kihirdetett, hatályos magyar számviteli standardokat.
 
@@ -293,6 +293,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 (4) Anyavállalatnak nem minősülő konszolidálásba bevont vállalkozás abban az esetben készíthet a (2) bekezdés szerint egyszerűsített éves beszámolót, ha nyilvántartásai alapján biztosítani tudja az összevont (konszolidált) éves beszámoló összeállításához szükséges információkat az anyavállalat részére.
 
 (5) Jogelőd nélkül alapított vállalkozónál – a (2) bekezdés b) pontjában foglaltak alkalmazásakor –, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az éves nettó árbevétel adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható éves nettó árbevételt és – ha van – a megelőző (első) üzleti év éves (éves szintre átszámított) nettó árbevételét kell figyelembe venni. Az előbbiekben foglaltak megfelelő alkalmazásával kell eljárni a (2) bekezdés a) és c) pontja tekintetében is.
+
+(5a) Az (5) bekezdés szerint kell eljárni kiválás esetén a kiválással létrejövő gazdasági társaságnál is.
 
 (6) Egyszerűsített éves beszámolóját – saját választása alapján – a 6. § (5) bekezdés szerinti kormányrendeletben foglaltaknak megfelelően (mikrogazdálkodói egyszerűsített éves beszámoló) is elkészítheti a könyvvizsgálatra nem kötelezett vállalkozó, ha két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
@@ -604,6 +606,8 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (4) Egyéb tartós részesedés mérlegtétel minden olyan tartós tulajdoni részesedést jelentő befektetést tartalmaz, amely nem tartozik a (2) és (3a) bekezdésben meghatározott részesedések közé.
 
+(4a) Egyéb tartós tulajdoni részesedésként kell kimutatni a 3. § (6) bekezdés 3. pontja alá nem tartozó, a 6. § (3) bekezdés szerinti, egészségügyi, szociális, kulturális és oktatási intézményben lévő tulajdoni részesedést is.
+
 (5) Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban mérlegtétel tartalmazza az olyan egyéb részesedési viszonyban lévő adóssal szembeni pénzkölcsönt és tartós bankbetétet, amely nem tartozik a (3) és (3b) bekezdésben meghatározott pénzkölcsönök és tartós bankbetétek közé.
 
 (6) Egyéb tartósan adott kölcsönként kell kimutatni a nem részesedési viszonyban lévő adóssal szembeni pénzkölcsönt és tartós bankbetétet.
@@ -705,7 +709,7 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (6) Az aktív időbeli elhatárolások között halasztott ráfordításként ki lehet mutatni a jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül, véglegesen átadott eszköz (beruházás) nyilvántartás szerinti értékét. A térítés nélkül átadott eszköz (beruházás) időbelileg elhatárolt nyilvántartás szerinti értékét – az átadáskor meghatározott módon és időtartamon belül – kell az egyéb ráfordításokkal szemben megszüntetni.
 
-(7) Aktív időbeli elhatárolásként lehet kimutatni – a 77. § (2) bekezdés d) pontja és (3) bekezdés b) pontja, valamint a rendeltetésszerűen használatba vett immateriális javakhoz, tárgyi eszközökhöz kapcsolódó 77. § (4) bekezdés b) pontja szerinti – jogszabályi előíráson, szerződésen, megállapodáson alapuló támogatások várható, még el nem számolt összegét az egyéb bevételekkel szemben, amennyiben a vállalkozó bizonyítani tudja, hogy teljesíteni fogja a támogatáshoz kapcsolódó feltételeket és valószínű, hogy a támogatást meg fogja kapni. Az aktív időbeli elhatárolást a kapott támogatás 77. § (2) bekezdés d) pontja, (3) bekezdés b) pontja és (4) bekezdés b) pontja szerinti elszámolásakor, illetve a támogatás meghiúsulásakor kell megszüntetni.
+(7) Aktív időbeli elhatárolásként lehet kimutatni – a 77. § (2) bekezdés d) pontja és (3) bekezdés b) pontja, valamint a rendeltetésszerűen használatba vett immateriális javakhoz, tárgyi eszközökhöz kapcsolódó 77. § (4) bekezdés b) pontja szerinti – jogszabályi előíráson, szerződésen, megállapodáson alapuló támogatások – a már felmerült költségekkel (ráfordításokkal) arányos – várható, még el nem számolt összegét az egyéb bevételekkel szemben, amennyiben a vállalkozó bizonyítani tudja, hogy teljesíteni fogja a támogatáshoz kapcsolódó feltételeket és valószínű, hogy a támogatást meg fogja kapni. Az aktív időbeli elhatárolást a kapott támogatás 77. § (2) bekezdés d) pontja, (3) bekezdés b) pontja és (4) bekezdés b) pontja szerinti elszámolásakor, illetve a támogatás meghiúsulásakor kell megszüntetni.
 
 34. § A mérlegben forrásként a saját tőkét, a céltartalékokat, a kötelezettségeket és a passzív időbeli elhatárolásokat kell szerepeltetni.
 
@@ -763,7 +767,7 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 - a) az előző üzleti év adózott eredményét (nyereségét), ideértve az ellenőrzés előző üzleti év(ek) adózott eredményét növelő módosítását (nyereségét) is,
 - b) a jegyzett tőke leszállítását az eredménytartalékkal szemben,
 - c) a veszteség miatti negatív eredménytartalék ellentételezésére felhasznált tőketartalékot, lekötött tartalékot,
-- d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
+- d) a vállalkozó tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
 - f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét,
 - g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a gazdasági társaság tulajdonosa (tagja) lemond, a lemondás időpontjával.
@@ -775,7 +779,7 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 - b) a jegyzett tőke emelését a rendelkezésre álló szabad eredménytartalékból,
 - c) az eredménytartalék lekötött tartalékba átvezetett összegét,
 - d) az osztalékra, részesedésre, a kamatozó részvény kamatára (ide értve az azt terhelő adót is) felhasznált összeget,
-- e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
+- e) a vállalkozó tulajdonosánál (tagjánál) a vállalkozó veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
 - g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékkal szemben átadott pénzeszközök, eszközök értékét, ide értve a gazdasági társaság, szövetkezet tagsági jogviszony megszűnésének időpontjában fennálló vagyonának a megszűnt tagsági jogviszonyra jutó része a jegyzett tőke, a tőketartalék és az eredménytartalék arányos részét meghaladó összegét is,
 - h) a még be nem fizetett pénzbeli vagyoni hozzájárulás teljesítéseként (a jegyzett, de még be nem fizetett tőke feltöltésére) a külön jogszabályban meghatározottak szerint átvezetett összeget.
@@ -788,7 +792,7 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 
 (6)
 
-(7) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.
+(7) Amennyiben a vállalkozó veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.
 
 38. § (1) A lekötött tartalék a tőketartalékból, illetve az eredménytartalékból lekötött összegeket és a kapott pótbefizetés összegét foglalja magában.
 
@@ -806,10 +810,10 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 - c) az alapítás-átszervezés aktivált értékéből, továbbá a kísérleti fejlesztés aktivált értékéből még le nem írt összeget,
 - d) a 33. § (2) bekezdése szerinti nem realizált árfolyamveszteség és a 41. § (4) bekezdése szerinti céltartalék különbözetének összegét,
 - e) a (2) bekezdés szerinti lekötendő tőketartalékot, ha arra a tőketartalék nem nyújt fedezetet,
-- f) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség fedezetére – az arra illetékes testület által megszavazott, de még nem teljesített – fizetendő pótbefizetés összegét,
+- f) a vállalkozó tulajdonosánál (tagjánál) a veszteség fedezetére – az arra illetékes testület által megszavazott, de még nem teljesített – fizetendő pótbefizetés összegét,
 - g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján lekötött – kötelezettségek fedezetét jelentő vagy saját céljait szolgáló – tartalékot.
 
-(4) Lekötött tartalékként kell kimutatni a gazdasági társaságnál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással, az eszközmozgással egyidejűleg történik.
+(4) Lekötött tartalékként kell kimutatni a vállalkozónál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással, az eszközmozgással egyidejűleg történik.
 
 (5) A (3) bekezdés szerinti lekötést az eredménytartalékkal szemben el kell számolni akkor is, ha a lekötött tartalék növekedése miatt az eredménytartaléknak negatív egyenlege lesz, vagy negatív egyenlege nő.
 
@@ -821,9 +825,9 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 
 (9) A lekötött tartalék növekedéseként, illetve csökkenéseként kell kimutatni a pénzmozgással, illetve az eszközmozgással egyidejűleg a külön jogszabály alapján a lekötött tartalékkal szemben átvett, illetve átadott pénzeszközök, egyéb eszközök értékét. A külön jogszabály alapján átvett lekötött tartalék feloldását – a külön jogszabály eltérő rendelkezése hiányában – az eredménytartalékkal szemben kell elszámolni.
 
-(10) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
+(10) Amennyiben a vállalkozó veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
 
-(11) A gazdasági társaságnál a lekötött tartalékban kimutatott pótbefizetés összegét az eredménytartalék javára kell átvezetni, amennyiben a gazdasági társaság tulajdonosa (tagja) a pótbefizetésből származó követeléséről lemond, a lemondás időpontjával.
+(11) A vállalkozónál a lekötött tartalékban kimutatott pótbefizetés összegét az eredménytartalék javára kell átvezetni, amennyiben a vállalkozó tulajdonosa (tagja) a pótbefizetésből származó követeléséről lemond, a lemondás időpontjával.
 
 39. § (1) Értékelési tartalékként, és azon belül elkülönítetten kell kimutatni
 
@@ -885,7 +889,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (8) Bizalmi vagyonkezelés során vagyonkiadásra csak az induló tőke (negatív tartalék, illetve tárgyévi veszteség esetén a tartalékkal, illetve a tárgyévi veszteséggel csökkentett induló tőke) összegéig kerülhet sor. Évközi vagyonkiadásnál a kiadható vagyon megállapításánál a közbenső mérlegben kimutatott negatív adózott eredményt is figyelembe kell venni.
 
-41. § (1) Az adózás előtti eredmény terhére céltartalékot kell képezni – a szükséges mértékben – azokra a múltbeli, illetve a folyamatban lévő ügyletekből, szerződésekből származó, harmadik felekkel szembeni fizetési kötelezettségekre [ideértve különösen a jogszabályban meghatározott garanciális kötelezettséget, a függő kötelezettséget, a biztos (jövőbeni) kötelezettséget, a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás, a végkielégítés miatti fizetési kötelezettséget, a környezetvédelmi kötelezettséget, valamint a megkötött szerződésből vagy annak elszámolási egységéből várható veszteséget], amelyek a mérlegfordulónapon valószínű vagy bizonyos, hogy fennállnak, de összegük vagy esedékességük időpontja még bizonytalan, és azokra a vállalkozó a szükséges fedezetet más módon nem biztosította.
+41. § (1) Az adózás előtti eredmény terhére céltartalékot kell képezni – a szükséges mértékben – azokra a múltbeli, illetve a folyamatban lévő ügyletekből, szerződésekből származó, harmadik felekkel szembeni fizetési kötelezettségekre [ideértve különösen a jogszabályban meghatározott garanciális kötelezettséget, a függő kötelezettséget, a biztos (jövőbeni) kötelezettséget, a korhatár előtti ellátás, a végkielégítés miatti fizetési kötelezettséget, a környezetvédelmi kötelezettséget, valamint a megkötött szerződésből vagy annak elszámolási egységéből várható veszteséget], amelyek a mérlegfordulónapon valószínű vagy bizonyos, hogy fennállnak, de összegük vagy esedékességük időpontja még bizonytalan, és azokra a vállalkozó a szükséges fedezetet más módon nem biztosította.
 
 (2) Az adózás előtti eredmény terhére – a valós eredmény megállapítása érdekében a szükséges mértékben – céltartalék képezhető az olyan várható, jelentős és időszakonként ismétlődő jövőbeni költségekre (különösen a fenntartási, az átszervezési költségekre, a környezetvédelemmel kapcsolatos költségekre), amelyekről a mérlegfordulónapon feltételezhető vagy bizonyos, hogy a jövőben felmerülnek, de összegük vagy felmerülésük időpontja még bizonytalan és nem sorolhatók a passzív időbeli elhatárolások közé.
 
@@ -911,7 +915,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (4) Hátrasorolt kötelezettségként kell kimutatni minden olyan kapott kölcsönt, amelyet ténylegesen a vállalkozó rendelkezésére bocsátottak, és a vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a vállalkozó adóssága rendezésébe, valamint a kölcsönt nyújtó követelése a törlesztések sorrendjében a tulajdonosok előtti legutolsó helyen áll, azt a vállalkozó felszámolása vagy csődje esetén csak a többi hitelező kielégítése után kell kiegyenlíteni, a kölcsön visszafizetési határideje vagy meghatározatlan, vagy a jövőbeni eseményektől függ, de eredeti futamideje öt évet meghaladó lejáratú, a kölcsön törlesztése az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges.
 
-(5) Egyéb hosszú lejáratú kötelezettségként kell kimutatni a lízingbevevőnél a pénzügyi lízingbe vett, beruházásként elszámolt eszköz lízingbeadó (helyette az eladó) által számlázott ellenértékének megfelelő kötelezettséget, valamint az állami vagy önkormányzati vagyon részét képező eszközök – törvényi rendelkezés, illetve felhatalmazás alapján történő – kezelésbevételéhez kapcsolódó kötelezettséget.
+(5) Egyéb hosszú lejáratú kötelezettségként kell kimutatni a lízingbe vevőnél a pénzügyi lízingbe vett, beruházásként elszámolt eszköz lízingbe adó (helyette az eladó) által számlázott ellenértékének megfelelő kötelezettséget (a mérleg fordulónapját követő egy üzleti éven belül esedékes törlesztések levonásával), valamint az állami vagy önkormányzati vagyon részét képező eszközök – törvényi rendelkezés, illetve felhatalmazás alapján történő – kezelésbe vételéhez kapcsolódó kötelezettséget.
 
 (6) A hosszú lejáratra kapott kölcsönöktől elkülönítetten kell kimutatni a részvénnyé átváltoztatható és átváltozó kötvények miatti, továbbá a vállalkozó által kibocsátott egyéb kötvények miatti kötelezettségeket, ha azok nem tartoznak a (7)–(8) bekezdésben foglaltak közé.
 
@@ -1058,6 +1062,8 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (7) Gazdasági társaság beolvadása esetén a külső tulajdonosnál a megszűnt gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés ellenében kapott részesedés bekerülési (beszerzési) értéke a megszűnt részesedésre jutó – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összege.
 
+(8) A 27. § (4a) bekezdés szerinti tulajdoni részesedés esetén – jogszabály eltérő rendelkezése hiányában – a (3)–(7) bekezdések megfelelő alkalmazásával kell eljárni.
+
 50. § (1) Követelés fejében átvett eszköz bekerülési (beszerzési) értéke az eszköz megállapodás, csereszerződés, vagyonfelosztási javaslat szerinti (számlázott, bizonylatolt) értéke.
 
 (2) Csere útján beszerzett eszköz bekerülési (beszerzési) értéke az eszköz csereszerződés szerinti értéke, a cserébe adott eszköz eladási ára.
@@ -1162,6 +1168,8 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 (10) A kezelt vagyonra szóló tartós követelésre értékvesztést kell elszámolni annak könyv szerinti értéke és piaci értéke közötti veszteségjellegű különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
 
 (11) A (10) bekezdés szerinti értékvesztés, illetve annak visszaírása során a piaci érték meghatározásakor a kezelt vagyon üzleti év mérlegfordulónapjára kimutatott saját tőkéjének összegét kell figyelembe venni.
+
+(12) A 27. § (4a) bekezdés szerinti tulajdoni részesedés – ha külön jogszabály eltérően nem rendelkezik – a mérlegben a tulajdonolt egészségügyi, szociális, kulturális és oktatási intézmény legutolsó beszámolójának mérlegében szereplő saját tőke értékén is kimutatható.
 
 55. § (1) A vevő, az adós minősítése alapján az üzleti év mérlegfordulónapján fennálló és a mérlegkészítés időpontjáig pénzügyileg nem rendezett követelésnél (ideértve a hitelintézetekkel, pénzügyi vállalkozásokkal szembeni követeléseket, a kölcsönként, az előlegként adott összegeket, továbbá a bevételek aktív időbeli elhatárolása között lévő követelésjellegű tételeket is) értékvesztést kell elszámolni – a mérlegkészítés időpontjában rendelkezésre álló információk alapján – a követelés könyv szerinti értéke és a követelés várhatóan megtérülő összege közötti – veszteségjellegű – különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
 
@@ -1893,7 +1901,9 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 
 (3) Az adózott eredmény az adózás előtti eredmény és az adófizetési kötelezettség különbözetével egyezik meg.
 
-(4)–(5)
+(4)
+
+(5)
 
 ### Kiegészítő melléklet
 
@@ -2005,7 +2015,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 91. § A kiegészítő mellékletben meg kell adni:
 
-- a) a tárgyévben foglalkoztatott munkavállalók átlagos létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
+- a) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai állományi létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
 - b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény-típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), a kibocsátott átváltoztatható és átváltozó kötvények számát és névértékét, továbbá az opciós utalvány, opció, illetve hasonló értékpapír vagy jog meglétét, jelezve azok számát és a hozzájuk kapcsolódó jogokat;
 - c) azokat az összegeket, amelyek az értékelés következtében a társasági adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
 - d) azon egyéb bevételek és egyéb ráfordítások, illetve pénzügyi műveletek bevételei és ráfordításai tételeinek társasági adóra gyakorolt számszerűsített hatását, amelyek jelentős összegűek;
@@ -2140,7 +2150,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 ### IV. Fejezet — EGYSZERŰSÍTETT ÉVES BESZÁMOLÓ
 
-96. § (1) Az egyszerűsített éves beszámoló a (2)–(4) bekezdés szerinti mérlegből, eredménykimutatásból és kiegészítő mellékletből áll. Üzleti jelentést – az egyszerűsített éves beszámolóhoz kapcsolódóan – nem kell készíteni. Az egyszerűsített éves beszámoló készítésénél az éves beszámoló készítésére vonatkozó szabályok irányadók az e fejezetben foglalt eltérésekkel.
+96. § (1) Az egyszerűsített éves beszámoló a (2)–(5) bekezdés szerinti mérlegből, eredménykimutatásból és kiegészítő mellékletből áll. Üzleti jelentést – az egyszerűsített éves beszámolóhoz kapcsolódóan – nem kell készíteni. Az egyszerűsített éves beszámoló készítésénél az éves beszámoló készítésére vonatkozó szabályok irányadók az e fejezetben foglalt eltérésekkel.
 
 (2) Az egyszerűsített éves beszámoló mérlege az 1. számú melléklet ,,A'', illetve ,,B'' változata közül a vállalkozó által választott mérleg nagybetűvel és római számmal jelölt tételeit tartalmazza.
 
@@ -2148,9 +2158,11 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 (3a) A (2) és (3) bekezdés alkalmazása során összevont, arab számmal jelölt tételek összegét, azok tartalmát külön-külön be kell mutatni a kiegészítő mellékletben, amennyiben azok jelentősnek minősülnek.
 
-(4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 88. § (4), (4a) és (5) bekezdése, a 89. § (4) bekezdés b) pontja, 89. § (6) bekezdése, a 90. § (2) bekezdése, a 90. § (3) bekezdés a)–c) pontja, a 90. § (7) bekezdése és a 90. § (9) bekezdés a)–e), és g) pontja szerinti adatokat kell tartalmaznia. A 91. § a) pont szerinti adatokból csak a tárgyévben foglalkoztatott munkavállalók átlagos létszámát kell bemutatni.
+(4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 88. § (4), (4a) és (5) bekezdése, a 89. § (4) bekezdés b) pontja, 89. § (6) bekezdése, a 90. § (2) bekezdése, a 90. § (3) bekezdés a)–c) pontja, a 90. § (7) bekezdése és a 90. § (9) bekezdés a)–e), és g) pontja szerinti adatokat kell tartalmaznia. A 91. § a) pont szerinti adatokból csak a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai állományi létszámát kell bemutatni.
 
 (4a) Ha az egyszerűsített éves beszámolót készítő vállalkozó él az 57. § (3) bekezdése szerinti lehetőséggel, akkor a kiegészítő mellékletben be kell mutatnia az 58. § (1) bekezdése és az 59. § (1) bekezdése szerinti adatokat.
+
+(4b) Ha az egyszerűsített éves beszámolót készítő vállalkozó él a 4. § (4) bekezdés szerinti lehetőséggel, akkor a kiegészítő mellékletében be kell mutatnia a 4. § (4) bekezdésben meghatározott kiegészítő mellékletre előírtakat is.
 
 (5) Az egyszerűsített éves beszámoló kiegészítő mellékletében a könyvvizsgáló által a 88. § (8) bekezdésének b) pontjában foglalt jogcímeken felszámított díjakat nem kell összegszerűen bemutatni, ha az tartalmazza a díjak jogcímenkénti megoszlását, és a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság részére, annak kérésére, a vállalkozó a díjakról részletes tájékoztatást ad.
 
@@ -2538,6 +2550,10 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (2) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító gazdálkodó a 95–95/C. §-ban, valamint a 134. §-ban meghatározott tartalommal üzleti jelentést is köteles készíteni.
 
+(3) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító vállalkozónak a VI/A. fejezet kormányok részére fizetett összegekről szóló jelentésre vonatkozó előírásait is alkalmaznia kell.
+
+(4) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító vállalkozónak a VI/B. fejezet társaságiadó-információkat tartalmazó jelentésre vonatkozó előírásait is alkalmaznia kell.
+
 ### VI. Fejezet — ÖSSZEVONT (KONSZOLIDÁLT) ÉVES BESZÁMOLÓ
 
 ### Konszolidált éves beszámoló készítési kötelezettség
@@ -2568,7 +2584,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 - a) az összevont (konszolidált) éves beszámolót készítő fölérendelt anyavállalat nevét és székhelyét; valamint
 - b) utalást arra vonatkozóan, ha az összevont (konszolidált) éves beszámoló készítési kötelezettség alól az (1) bekezdés szerint mentesítették.
 
-(4) Az (1)–(2) bekezdés alkalmazása esetén a mentesített anyavállalat éves beszámolójának kiegészítő mellékletében a mentesített anyavállalat és kapcsolt vállalkozásai befektetett eszközeinek, tárgyévi bevételeinek és adózott eredményének, saját tőkéjének, valamint foglalkoztatott munkavállalói átlagos létszámának adatait vállalkozásonként külön-külön be kell mutatni.
+(4) Az (1)–(2) bekezdés alkalmazása esetén a mentesített anyavállalat éves beszámolójának kiegészítő mellékletében a mentesített anyavállalat és kapcsolt vállalkozásai befektetett eszközeinek, tárgyévi bevételeinek és adózott eredményének, saját tőkéjének, valamint foglalkoztatott munkavállalói átlagos statisztikai állományi létszámának adatait vállalkozásonként külön-külön be kell mutatni.
 
 (5) Nem alkalmazható az (1)–(2) bekezdés szerinti mentesítés arra az anyavállalatra, amelynek kibocsátott – a 3. § (6) bekezdésének 2–3. pontjai szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett, vagy az engedélyezést már kérelmezték.
 
@@ -2823,7 +2839,7 @@ kimutatása
 
 - a) az összevont (konszolidált) mérlegben kimutatott azon kötelezettségek teljes összegét, amelyek futamideje öt évnél hosszabb, valamint az összevont (konszolidált) mérlegben kimutatott azon kötelezettségek teljes összegét, amelyek a konszolidálásba bevont vállalkozások részéről zálogjoggal vagy hasonló jogokkal biztosítottak, feltüntetve a biztosítékok fajtáját és formáját;
 - b) azoknak a pénzügyi kötelezettségeknek a teljes összegét, amelyek a pénzügyi helyzet értékelése szempontjából jelentőséggel bírnak, de nem jelennek meg az összevont (konszolidált) mérlegben. Ezek közül külön ki kell emelni a konszolidálásba teljeskörűen be nem vont leányvállalatokkal szembeni kötelezettségek összegét;
-- c) az összevont (konszolidált) éves beszámolóba bevont vállalkozások tárgyévben foglalkoztatott munkavállalóinak átlagos létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonkénti bontásban;
+- c) az összevont (konszolidált) éves beszámolóba bevont vállalkozások tárgyévben foglalkoztatott munkavállalóinak átlagos statisztikai állományi létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonkénti bontásban;
 - d) az anyavállalatnál az igazgatóság, az ügyvezetés (üzletvezetés), a felügyelő bizottság tagjainak tevékenységükért az üzleti év után járó járandóság összegét, ideértve a bérköltséget, a személyi jellegű egyéb kifizetéseket, a gazdasági társaság által átvállalt és így helyettük fizetett összegeket is, csoportonként összevontan, beleértve a leányvállalatoknál végzett tevékenység utáni járandóságokat is;
 - e) az anyavállalat igazgatósága, ügyvezetése (üzletvezetése), felügyelő bizottsága tagjainak az anyavállalat, illetve a leányvállalatai által folyósított kölcsönök és előlegek időpontját, nagyságát, lejáratát, megadva a kamat mértékét, a lényeges feltételeket, a tárgyévben visszafizetett összegeket, továbbá ezen személyek nevében vállalt garanciális kötelezettségeket;
 - f) az értékesítés árbevételének fontosabb tevékenységek (a konszolidálásba bevont vállalkozásokra jellemző termékek, terméktípusok), továbbá az exportárbevételnek az Európai Unió, valamint más, az Európai Unión kívüli országok szerinti, illetve ezen belül földrajzilag meghatározott piacok szerinti megbontását, amennyiben ebből a konszolidálásba bevont vállalkozásoknak jelentősebb hátránya nem származik. Ez utóbbi esetben itt erre utalni kell;
@@ -2939,6 +2955,140 @@ kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre
 - b) a kormányok részére fizetett összegekről szóló összevont jelentés elkészítéséhez a szükséges adatokat az adott leányvállalat – a konszolidálásba először történő bevonása évében az ehhez szükséges adatszolgáltatást még nem tudta kialakítani, vagy vis maior miatt hiányzó adatait nem pótolta – aránytalanul magas költségek mellett és késedelmesen tudja szolgáltatni; vagy
 - c) a leányvállalatban lévő részesedést (részvényt, üzletrészt) kizárólag továbbértékesítés céljából szerezték meg és a forgóeszközök között mutatják ki.
 
+### VI/B. Fejezet — A TÁRSASÁGIADÓ-INFORMÁCIÓKAT TARTALMAZÓ JELENTÉS
+
+### A társaságiadó-információkat tartalmazó jelentéssel kapcsolatos fogalommeghatározások
+
+134/D. § (1) E fejezet alkalmazásában:
+
+- 1. legfelső szintű anyavállalat: az a vállalkozás, amely elkészíti a legnagyobb vállalkozáscsoport összevont (konszolidált) pénzügyi kimutatásait;
+- 2. összevont (konszolidált) pénzügyi kimutatások: valamely vállalkozáscsoport anyavállalata által készített pénzügyi kimutatások [e törvény szerint összevont (konszolidált) éves beszámoló], amelyekben az eszközöket és a forrásokat, a saját tőkét, a bevételeket és a költségeket (ráfordításokat) úgy kell bemutatni, mintha ezek a vállalkozások egyetlen vállalkozásként működnének;
+- 3. adójogrendszer: állam vagy az államtól különböző joghatóság, amely a társasági adó tekintetében adóügyi autonómiával rendelkezik;
+- 4. önálló vállalkozás: olyan vállalkozás, amely nem képezi részét olyan vállalkozáscsoportnak, amelynek tagjait konszolidálásba bevonták.
+
+(2) A 134/E. § alkalmazásában bevételnek tekintendő:
+
+- a) az e törvény hatálya alá tartozó olyan vállalkozók esetében, amelyek nem alkalmazzák az IFRS-eket, a 72–73. § szerinti értékesítés nettó árbevétele, vagy a 6. § szerinti sajátos számviteli szabályokat tartalmazó kormányrendeletek szerinti szokásos tevékenység bevétele;
+- b) az a) ponton kívüli egyéb vállalkozások esetében (ideértve az IFRS-eket alkalmazókat is) a pénzügyi kimutatások készítésének alapját képező pénzügyi beszámolási keret által meghatározott vagy annak értelmében vett, szokásos tevékenység árbevétele, vagy az ennek megfelelő bevétel.
+
+### A társaságiadó-információkat tartalmazó jelentéstételre kötelezett vállalkozások
+
+134/E. § (1) Az e törvény hatálya alá tartozó legfelső szintű anyavállalat, ha két egymást követő üzleti évben a mérleg fordulónapján az összevont (konszolidált) éves beszámoló szerinti bevétele meghaladta a 275 000 millió forintot, társaságiadó-információkat tartalmazó jelentést készít, tesz közzé és hozzáférhetővé az említett két egymást követő üzleti év közül a későbbire vonatkozóan, illetve az azt követő üzleti évekre vonatkozóan.
+
+(2) Mentesül az (1) bekezdés szerinti kötelezettség alól az a legfelső szintű anyavállalat, amelynek az utolsó két egymást követő üzleti évben a mérleg fordulónapján az összevont (konszolidált) éves beszámoló szerinti bevétele nem haladta meg a 275 000 millió forintot.
+
+(3) Az e törvény hatálya alá tartozó önálló vállalkozás [amely nem minősül a 3. § (2) bekezdés 6. pontja szerinti vállalkozásnak], ha két egymást követő üzleti évben a mérleg fordulónapján az éves beszámoló szerinti bevétele meghaladta a 275 000 millió forintot, társaságiadó-információkat tartalmazó jelentést készít, tesz közzé és hozzáférhetővé az említett két egymást követő üzleti év közül a későbbire vonatkozóan, illetve az azt követő üzleti évekre vonatkozóan.
+
+(4) Mentesül a (3) bekezdés szerinti kötelezettség alól az az önálló vállalkozás, amelynek az utolsó két egymást követő üzleti évben a mérleg fordulónapján az éves beszámoló szerinti bevétele nem haladta meg a 275 000 millió forintot.
+
+(5) Nem kell társaságiadó-információkat tartalmazó jelentést készíteniük az e törvény szerinti legfelső szintű anyavállalatoknak (azok konszolidálásba bevont kapcsolt vállalkozásainak), valamint önálló vállalkozásoknak, amennyiben az ilyen vállalkozások, ideértve a fióktelepeiket is, kizárólag Magyarország területén – és más adójogrendszerben nem – telepedtek le, illetve rendelkeznek állandó üzletviteli hellyel vagy állandó üzleti tevékenységgel.
+
+(6) Nem kell társaságiadó-információkat tartalmazó jelentést készíteniük az e törvény szerinti legfelső szintű anyavállalatoknak, valamint önálló vállalkozásoknak, amennyiben az ilyen vállalkozások vagy azok konszolidálásba bevont kapcsolt vállalkozásai a 2013/36/EU európai parlamenti és tanácsi irányelv 89. cikkével összhangban jelentést tesznek közzé, amely jelentés magában foglalja az e fejezet szerinti információkat valamennyi tevékenységükre vonatkozóan, és a legfelső szintű anyavállalatok esetében a konszolidálásba bevont valamennyi kapcsolt vállalkozás valamennyi tevékenységére vonatkozóan.
+
+(7) Az olyan, e törvény szerint éves beszámoló készítésére kötelezett vállalkozó, amely valamely uniós tagállam jogának a hatálya alá nem tartozó legfelső szintű anyavállalat leányvállalata, amennyiben a legfelső szintű anyavállalat összevont (konszolidált) pénzügyi kimutatásai szerinti bevétele két egymást követő üzleti évben a mérleg fordulónapján meghaladta a 750 millió eurót, köteles a legfelső szintű anyavállalatra vonatkozó társaságiadó-információkat tartalmazó jelentést közzé- és hozzáférhetővé tenni az említett két egymást követő üzleti év közül a későbbire vonatkozóan, illetve az azt követő üzleti évekre vonatkozóan.
+
+(8) Amennyiben a (7) bekezdés szerinti információk vagy jelentés nem állnak rendelkezésre, a leányvállalatnak kérnie kell a legfelső szintű anyavállalatától, hogy biztosítsa számára a szükséges információt, amely lehetővé teszi a (7) bekezdés szerinti kötelezettség teljesítését. Amennyiben a legfelső szintű anyavállalat nem biztosítja valamennyi kért információt, a leányvállalatnak el kell készítenie, közzé és hozzáférhetővé kell tennie egy olyan társaságiadó-információkat tartalmazó jelentést, amely tartalmazza valamennyi birtokában lévő, megkapott vagy beszerzett információt és egy nyilatkozatot arról, hogy a legfelső szintű anyavállalat nem bocsátotta rendelkezésére a szükséges információkat.
+
+(9) Mentesül a (7) bekezdés szerinti kötelezettség alól a leányvállalat, amennyiben a legfelső szintű anyavállalat összevont (konszolidált) pénzügyi kimutatásai szerinti bevétele az utolsó két egymást követő üzleti évben nem haladta meg a (7) bekezdés szerinti határértéket.
+
+(10) Uniós tagállam jogának hatálya alá nem tartozó legfelső szintű anyavállalat, valamint önálló vállalkozás e törvény szerinti fióktelepe köteles a (15) bekezdésben említett legfelső szintű anyavállalatra, valamint önálló vállalkozásra vonatkozó társaságiadó-információkat tartalmazó jelentést közzé- és hozzáférhetővé tenni az említett két egymást követő üzleti év közül a későbbire vonatkozóan, illetve az azt követő üzleti évekre vonatkozóan.
+
+(11) Amennyiben a (10) bekezdés szerinti információ vagy jelentés nem áll rendelkezésre, úgy a 134/H. § (3) bekezdés szerinti adatközlési formai követelmények teljesítésére kijelölt személynek kérnie kell a legfelső szintű anyavállalattól vagy az önálló vállalkozástól, hogy biztosítsa számára a szükséges információt, amely lehetővé teszi a (10) bekezdés szerinti kötelezettség teljesítését.
+
+(12) Amennyiben a legfelső szintű anyavállalat vagy az önálló vállalkozás nem biztosítja valamennyi kért információt, a fióktelepnek el kell készítenie, közzé- és hozzáférhetővé kell tennie egy olyan társaságiadó-információkat tartalmazó jelentést, amely tartalmazza valamennyi birtokában lévő, megkapott vagy beszerzett információt és egy nyilatkozatot arról, hogy a legfelső szintű anyavállalat vagy az önálló vállalkozás nem bocsátotta rendelkezésére a szükséges információkat.
+
+(13) A (10) bekezdés szerinti kötelezettség kizárólag azon fióktelepre alkalmazandó, amelynek éves nettó árbevétele két egymást követő üzleti évben a mérleg fordulónapján meghaladta a 9. § (2) bekezdés b) pont szerinti határértéket, az említett két egymást követő üzleti év közül a későbbire vonatkozóan, illetve az azt követő üzleti évekre vonatkozóan.
+
+(14) Mentesül a (10) bekezdés szerinti kötelezettség alól a fióktelep, ha az utolsó két egymást követő üzleti évben a mérleg fordulónapján az éves nettó árbevétele nem haladta meg a 9. § (2) bekezdés b) pont szerinti határértéket.
+
+(15) A (10)–(14) bekezdésben előírtak akkor alkalmazandók a fióktelepre, ha a fióktelepet létrehozó vállalkozás:
+
+- a) vagy egy olyan vállalkozáscsoport kapcsolt vállalkozása, amelynek a legfelső szintű anyavállalata nem tartozik valamely uniós tagállam jogának a hatálya alá, és amelynek két egymást követő üzleti év mindegyikére vonatkozóan a mérleg fordulónapján az összevont (konszolidált) pénzügyi kimutatásai szerinti bevétele meghaladta a 750 millió eurót,
+- b) vagy egy olyan önálló vállalkozás, amely nem tartozik valamely uniós tagállam jogának a hatálya alá, és amelynek két egymást követő üzleti év mindegyikére vonatkozóan a mérleg fordulónapján a pénzügyi kimutatásai szerinti bevétele meghaladta a 750 millió eurót és
+- c) az a) pontban említett legfelső szintű anyavállalatnak nincs a (7) bekezdés szerinti leányvállalata.
+
+(16) Mentesül a (10) bekezdés szerinti kötelezettség alól a fióktelep, amennyiben a (15) bekezdés a) és b) pontjában előírt kritérium az utolsó két egymást követő üzleti évre vonatkozóan már nem teljesül.
+
+(17) Mentesül a leányvállalat a (7) bekezdés, valamint a fióktelep a (10) bekezdés szerinti kötelezettség alól, amennyiben a társaságiadó-információkat tartalmazó jelentést olyan legfelső szintű anyavállalat vagy olyan önálló vállalkozás készíti el a 134/F. §-ban meghatározott módon, amely nem tartozik valamely uniós tagállam jogának a hatálya alá, és a jelentés megfelel a következő kritériumoknak:
+
+- a) azt költségmentesen és géppel olvasható elektronikus beszámolási formátumban hozzáférhetővé teszik a nyilvánosság számára
+  - aa) az említett legfelső szintű anyavállalat vagy az önálló vállalkozás honlapján,
+  - ab) az Unió legalább egy hivatalos nyelvén,
+  - ac) legkésőbb az adott üzleti év mérlegfordulónapját követő 12 hónapon belül, amelyre vonatkozóan a jelentést elkészítették; és
+- b) szerepeltetik azon valamely uniós tagállam jogának hatálya alá tartozó olyan leányvállalat nevét és székhelyét vagy olyan fióktelep nevét és címét, amely a 134/G. § (1) és (2) bekezdése alapján jelentést tett közzé.
+
+(18) A (7) bekezdés hatálya alá nem tartozó leányvállalatnak, valamint a (10) bekezdés hatálya alá nem tartozó fióktelepnek társaságiadó-információkat tartalmazó jelentést kell közzé- és hozzáférhetővé tenni, amennyiben az ilyen leányvállalat vagy fióktelep nem más célt szolgál, mint az e fejezetben meghatározott követelmények elkerülése.
+
+(19) A (7) és (15) bekezdésben a 750 millió euró határértékeket az Európai Unió Hivatalos Lapjában közzétett, a 2021. december 21-én érvényes átváltási árfolyamon kell átszámítani a releváns harmadik országok nemzeti pénznemében kifejezett egyenértékű összegre, a legközelebbi ezresre kerekítve.
+
+### A társaságiadó-információkat tartalmazó jelentés tartalma
+
+134/F. § (1) A társaságadó-információkat tartalmazó jelentésben be kell mutatni az érintett üzleti évben a legfelső szintű anyavállalat vagy az önálló vállalkozás valamennyi tevékenységével kapcsolatos információkat, legfelső szintű anyavállalat esetén ideértve a konszolidálásba bevont valamennyi kapcsolt vállalkozáséit is.
+
+(2) Az (1) bekezdés szerinti társaságiadó-információkat tartalmazó jelentésnek tartalmaznia kell az alábbiakat:
+
+- a) a legfelső szintű anyavállalat vagy az önálló vállalkozás neve, az érintett üzleti év, a jelentés összeállításához alkalmazott pénznem; és adott esetben a legfelső szintű anyavállalatnak az érintett üzleti évre vonatkozó összevont (konszolidált) éves beszámolójában a konszolidálásba bevont valamennyi olyan kapcsolt vállalkozásának a jegyzéke, amelyek az Unióban vagy az adózási szempontból nem együttműködő országok és területek felülvizsgált európai uniós jegyzékéről szóló tanácsi következtetések I. és II. mellékletében foglalt adójogrendszerekben letelepedettek;
+- b) a tevékenységeinek rövid bemutatása;
+- c) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai állományi létszáma;
+- d) a bevételek – ideértve a kapcsolt felekkel lebonyolított ügyleteket is – a következők szerint:
+  - da) értékesítés nettó árbevétele, egyéb bevételek, részesedésekből származó bevételek, árfolyamnyereségek, befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételek, árfolyamnyereségek, egyéb kapott (járó) kamatok és kamatjellegű bevételek, pénzügyi műveletek egyéb bevételei vagy
+  - db) a pénzügyi kimutatások készítésének alapját képező pénzügyi beszámolási keret (ideértve az IFRS-eket is) által meghatározott vagy annak értelmében vett bevételek, az értékmódosítások és a kapcsolt vállalkozásoktól kapott osztalékok nélkül;
+- e) adózás előtti eredmény (nyereség vagy veszteség);
+- f) a tárgyévben fizetendő társasági adó összege;
+- g) a megfizetett társasági adó összege pénzforgalmi alapon, amely magában foglalja a vállalkozáscsoporton belüli vállalkozásoknak és fióktelepeknek teljesített kifizetések tekintetében más vállalkozások által megfizetett forrásadót is;
+- h) a felhalmozott adózott eredmény összege, amely az előző üzleti évekből és az adott üzleti évből származó adózott nyereség összege, amely felosztásáról még nem döntöttek. A fióktelepeket illetően azon vállalkozás felhalmozott nyereségeiről van szó, amely a fióktelepet létrehozta.
+
+(3) A (2) bekezdés szerinti információkat az adózás területén történő közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv III. melléklete III. szakaszának B. és C. részében említett adatszolgáltatási útmutató alapján is be lehet bemutatni.
+
+(4) A 134/E. § hatálya alá tartozó vállalkozások a társaságiadó-információkat tartalmazó jelentésüket az Európai Bizottság által végrehajtási jogi aktusok révén megállapított egységes formanyomtatvány alkalmazásával és géppel olvasható elektronikus beszámolási formátumban készítik el.
+
+(5) A (2) vagy (3) bekezdésben említett információkat tagállami szinten külön-külön kell bemutatni a társaságiadó-információkat tartalmazó jelentésben. Amennyiben egy tagállam több adójogrendszert foglal magában, az információkat tagállami szinten kell összesíteni.
+
+(6) A társaságiadó-információkat tartalmazó jelentésben
+
+- a) külön-külön kell bemutatni a (2) vagy a (3) bekezdésben említett információkat minden egyes olyan adójogrendszerre vonatkozóan, amely azon üzleti év március 1-jén, amelyre vonatkozóan a jelentést el kell készíteni, fel van sorolva az adózási szempontból nem együttműködő országok és területek felülvizsgált európai uniós jegyzékéről szóló tanácsi következtetések I. mellékletében, és
+- b) az ilyen információkat külön-külön kell megadni minden egyes olyan adójogrendszerre vonatkozóan, amely azon üzleti év március 1-jén, amelyre vonatkozóan a jelentést el kell készíteni, és a megelőző üzleti év március 1-jén, említésre került az adózási szempontból nem együttműködő országok és területek felülvizsgált európai uniós jegyzékéről szóló tanácsi következtetések II. mellékletében.
+
+(7) Az egyéb adójogrendszerekre vonatkozóan a társaságiadó-információkat tartalmazó jelentésnek összesített alapon kell bemutatnia a (2) vagy a (3) bekezdésben említett információkat.
+
+(8) Az információkat a székhely, ennek hiányában állandó telephely megléte vagy egy olyan állandó üzleti tevékenység alapján kell hozzárendelni minden egyes releváns adójogrendszerhez, amely – a vállalkozáscsoport vagy az önálló vállalkozás tevékenységét tekintve – társaságiadó-köteles lehet az adott adójogrendszerben.
+
+(9) Amennyiben egy adójogrendszeren belül több vállalkozás tevékenységei társaságiadó-kötelesek, az ezen adójogrendszerhez hozzárendelt információknak az egyes vállalkozásoknak és azok fióktelepeinek az adott adójogrendszerben végzett tevékenységeire vonatkozó információk összesítését kell tartalmazniuk.
+
+(10) Egy konkrét tevékenységre vonatkozó információ nem rendelhető egyszerre egynél több adójogrendszerhez.
+
+(11) A társaságiadó-információkat tartalmazó jelentésben a (2) bekezdés f) és g) pontja szerinti összegek közötti jelentős eltérés tényét és annak indokait be kell mutatni.
+
+(12) A társaságiadó-információkat tartalmazó jelentés pénznemének a legfelső szintű anyavállalat összevont (konszolidált) éves beszámolója szerinti, valamint az önálló vállalkozás éves beszámolója szerinti pénznemmel kell megegyeznie.
+
+(13) A 134/E. § (8) bekezdés szerinti esetben a társaságiadó-információkat tartalmazó jelentésben használt pénznemnek azon pénznemnek kell lennie, amelyben a leányvállalat az éves beszámolóját közzé teszi.
+
+(14) A társaságiadó-információkat tartalmazó jelentésnek meg kell jelölnie, hogy azt a (2) vagy a (3) bekezdéssel összhangban készítették-e el.
+
+### Nyilvánosságra hozatal
+
+### Közzététel és hozzáférhetőség
+
+134/G. § (1) A legfelső szintű anyavállalat a társaságiadó-információkat tartalmazó jelentést az összevont (konszolidált) éves beszámolóval egyidejűleg a 153–154/B. § szerint köteles letétbe helyezni és közzétenni.
+
+(2) Az önálló vállalkozás a társaságiadó-információkat tartalmazó jelentést az éves beszámolóval egyidejűleg a 153–154/B. § szerint köteles letétbe helyezni és közzétenni.
+
+(3) A társaságiadó-információkat tartalmazó jelentést és adott esetben a nyilatkozatot a vállalkozás – az (1) és (2) bekezdéssel összhangban – köteles közzétenni:
+
+- a) a vállalkozás internetes honlapján, amennyiben a 134/E. § (1) és (3) bekezdése alkalmazandó;
+- b) a leányvállalat internetes honlapján, amennyiben a 134/E. § (7) bekezdése alkalmazandó;
+- c) a fióktelep internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
+
+(4) A vállalkozó az üzleti évről készített társaságiadó-információkat tartalmazó jelentést, valamint adott esetben a 134/E. § (8) és (12) bekezdés szerinti nyilatkozatot legalább 8 évig köteles megőrizni.
+
+### A társaságiadó-információkat tartalmazó jelentés elkészítésére, közzé- és hozzáférhetővé tételére vonatkozó felelősség
+
+134/H. § (1) A legfelső szintű anyavállalat vagy az önálló vállalkozás legfőbb irányító (vezető) szervének, ügyvezető szervének és felügyelő testületének tagjai – a jogszabályban meghatározott hatáskörükben eljárva – együttes felelőssége annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+(2) A 134/E. § (7) bekezdés szerinti leányvállalat legfőbb irányító (vezető) szervének, ügyvezető szervének és felügyelő testületének tagjai – a jogszabályban meghatározott hatáskörükben eljárva – együttes felelőssége annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+(3) A 134/E. § (10) bekezdés szerinti fióktelep a társasági jog egyes vonatkozásairól szóló 2017. június 14-i 2017/1132/EU európai parlamenti és tanácsi irányelv 41. cikkében előírt adatközlési formai követelmények teljesítésére kijelölt személy vagy személyek együttes felelőssége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
 ### VII. Fejezet — SAJÁTOS BESZÁMOLÁSI KÖTELEZETTSÉGEK
 
 ### Előtársasági időszak
@@ -2999,7 +3149,9 @@ tartalmazza.
 
 (3) Átértékelés esetében az eszközöket piaci értékükön, a kötelezettségeket az elfogadott, illetve a várható összegben kell a vagyonmérlegben szerepeltetni.
 
-(4)–(5)
+(4)
+
+(5)
 
 ### Az átalakuló gazdasági társaság vagyonmérleg-tervezete
 
@@ -3060,7 +3212,7 @@ tartalmazza.
 
 (6) A lekötött tartalékban kell fedezetet képezni az átalakulással közvetlenül összefüggően keletkező adófizetési kötelezettségre, ha az adófizetési kötelezettség a jogutódot terheli és arra más módon nem képeztek fedezetet.
 
-(7) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az eredménytartalék összege – az (1) bekezdésben foglaltak figyelembevételével – csak az (1), (3)–(6) bekezdés, valamint a 138. § (4) bekezdésének a) pontja, illetve a 139. § (3)–(5) bekezdése alapján növelő-csökkentő tételek összevont pozitív értékével haladhatja meg az átalakuló gazdasági társaság vagyonmérleg-tervezetében egyébként szereplő eredménytartalék összegét.
+(7) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az eredménytartalék összege – az (1) bekezdésben foglaltak figyelembevételével – csak az (1), (3)–(6) bekezdés, valamint a 138. § (4) bekezdésének a) pontja, illetve a 139. § (2) bekezdés e) pontja és (3)–(5) bekezdése alapján növelő-csökkentő tételek összevont pozitív értékével haladhatja meg az átalakuló gazdasági társaság vagyonmérleg-tervezetében egyébként szereplő eredménytartalék összegét.
 
 ### A végleges vagyonmérleg
 
@@ -3363,7 +3515,9 @@ kezeli.
 
 (4) Az anyavállalat köteles az összevont (konszolidált) éves beszámolót a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt közzétenni.
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) Közzétételi kötelezettségének azzal tesz eleget a vállalkozó, a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha az éves beszámolót, az egyszerűsített éves beszámolót, az anyavállalat az összevont (konszolidált) éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben meghatározott módon a céginformációs szolgálatnak elektronikusan megküldi.
 
@@ -3409,6 +3563,8 @@ kezeli.
 - b) az üzleti évet megelőző két üzleti év átlagában a vállalkozó által átlagosan foglalkoztatottak száma nem haladta meg az 50 főt.
 
 (4) Jogelőd nélkül alapított vállalkozónál – a (3) bekezdésben foglaltak alkalmazásakor –, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható adatokat és – ha van – a megelőző (első) üzleti évi (éves szintre átszámított) adatait kell figyelembe venni.
+
+(4a) A (4) bekezdés szerint kell eljárni kiválás esetén a kiválással létrejövő gazdasági társaságnál is.
 
 (5) A (3) bekezdésben foglaltakat nem alkalmazhatja:
 
@@ -3465,7 +3621,7 @@ kezeli.
 - b) a könyvvizsgálat tárgyát képező éves beszámoló, egyszerűsített éves beszámoló, összevont (konszolidált) éves beszámoló azonosítóit (különösen azt, hogy melyik vállalkozó, melyik üzleti évre vonatkozó, milyen mérlegfordulónappal készült, milyen főbb jellemző adatokat tartalmazó beszámolója), a beszámoló összeállításánál alkalmazott beszámolási szabályrendszer megjelölésével együtt;
 - c) a könyvvizsgálat hatókörének leírását, a könyvvizsgálat során alkalmazott könyvvizsgálati standardrendszer megjelölését;
 - d) az elvégzett, a könyvvizsgálói véleményt (a záradékot vagy a záradék megadásának elutasítását) megfelelően alátámasztó vizsgálatok jellegét, összefoglaló bemutatását;
-- e) a könyvvizsgáló éves beszámolóhoz, egyszerűsített éves beszámolóhoz, összevont (konszolidált) éves beszámolóhoz adott, a könyvvizsgálói záradékban vagy a záradék megadásának elutasításában kifejezett véleményét, határozott álláspontját arról, hogy a beszámoló megfelel-e az e törvényben foglaltaknak, továbbá azon egyéb jogszabályok előírásainak, amelyek a könyvvizsgáló számára a beszámolóban szereplő adatok vonatkozásában feladatokat határoznak meg;
+- e) a könyvvizsgáló éves beszámolóhoz, egyszerűsített éves beszámolóhoz, összevont (konszolidált) éves beszámolóhoz adott, a könyvvizsgálói záradékban vagy a záradék megadásának elutasításában kifejezett véleményét, határozott álláspontját arról, hogy a vállalkozó beszámolója megbízható és valós képet ad-e a vállalkozó vagyoni, pénzügyi és jövedelmi helyzetéről az alkalmazott beszámolási szabályrendszerben foglaltaknak megfelelően, továbbá hogy adott esetben, a vállalkozó beszámolója megfelel-e az egyéb jogszabályoknak;
 - f) a (hitelesítő, korlátozott, elutasító) könyvvizsgálói záradékot vagy a záradék megadásának elutasítását;
 - g) hivatkozást bármely olyan kérdésre, amelyre a könyvvizsgáló hangsúlyosan fel kívánja hívni a figyelmet anélkül, hogy az a könyvvizsgáló véleményét minősítette volna (figyelemfelhívó megjegyzés);
 - h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangban van-e a beszámolóval, illetve az e törvény, illetve egyéb más jogszabály vonatkozó előírásaival;
@@ -3476,6 +3632,7 @@ kezeli.
 - m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társaság képviseletére jogosult személy nevét, aláírását, a társaság megnevezését, székhelyét, kamarai nyilvántartási számát is;
 - n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a 95/C. §, illetve a 134. § (5) bekezdés szerinti nem pénzügyi kimutatást.
 - o) a könyvvizsgáló véleményét arról, hogy azon vállalkozó pénzügyi kimutatásai, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, megfelelnek a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletében foglalt előírásoknak.
+- p) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy a könyvvizsgálat tárgyát képező beszámoló üzleti évében, a megelőző üzleti évre vonatkozóan a vállalkozás köteles volt-e társaságiadó-információkat tartalmazó jelentést készíteni és nyilvánosságra hozni, és ha igen, akkor a társaságiadó-információkat tartalmazó jelentést a 134/G. §-sal összhangban tették-e közzé és hozzáférhetővé.
 
 (5a) A közérdeklődésre számot tartó gazdálkodók éves beszámolójára, egyszerűsített éves beszámolójára, továbbá összevont (konszolidált) éves beszámolójára vonatkozó független könyvvizsgálói jelentés tekintetében az (5) bekezdésen túl az 537/2014/EU Rendelet 10. cikkében foglaltakat kell alkalmazni.
 
@@ -3491,7 +3648,13 @@ kezeli.
 
 (4) Az összevont (konszolidált) éves beszámolót felülvizsgáló könyvvizsgálónak – ha a gondos vizsgálat szükségessé teszi – az anya- és leányvállalatokkal, illetve ezek könyvvizsgálóival szemben is megvannak az (1) és (2) bekezdésben előírt jogai, valamint a (3) bekezdésben meghatározott kötelezettsége.
 
-158. § (1)–(4)
+158. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) Amennyiben az éves beszámolót, az összevont (konszolidált) éves beszámolót – a 9/A. §, valamint a 10. § (2) és (3) bekezdése alapján – az IFRS-ek szerint állították össze, úgy erre a könyvvizsgálói záradékban is megfelelően utalni kell.
 
@@ -3732,6 +3895,7 @@ kezeli.
 - d) a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK európai parlamenti és tanácsi irányelv, az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK európai parlamenti és tanácsi irányelv, valamint a 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról szóló 2007/14/EK bizottsági irányelv módosításáról szóló, 2013. október 22-i 2013/50/EU európai parlamenti és tanácsi irányelv.
 - e) a 2013/34/EU irányelvnek a nem pénzügyi és a sokszínűséggel kapcsolatos információknak bizonyos nagyvállalkozások és vállalatcsoportok általi közzététele tekintetében történő módosításáról szóló, 2014. október 22-i 2014/95/EU európai parlamenti és tanácsi irányelv,
 - f) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelv.
+- g) a 2013/34/EU irányelvnek a társaságiadó-információk egyes vállalkozások és fióktelepek általi közzététele tekintetében történő módosításáról szóló, 2021. november 24-i (EU) 2021/2101 európai parlamenti és tanácsi irányelv.
 
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -3917,6 +4081,14 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (83) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 25. § (7) bekezdés a) és c) pontját, 32. § (9) bekezdését, 33. § (7) bekezdését, 44. § (8) bekezdését, 47. § (2) bekezdés e) pontját, (3) és (9) bekezdését, 50. § (6) bekezdését, 73. § (1) bekezdését, (2) bekezdés a)–e) pontját, (3) bekezdését, valamint 156. § (5) bekezdés o) pontját először a 2022. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 (84) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 25. § (7) bekezdés a) és c) pontját, 32. § (9) bekezdését, 33. § (7) bekezdését, 44. § (8) bekezdését, 47. § (2) bekezdés e) pontját, (3) és (9) bekezdését, 50. § (6) bekezdését, 73. § (1) bekezdését, (2) bekezdés a)–e) pontját, (3) bekezdését, valamint 156. § (5) bekezdés o) pontját a 2021. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(85) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 3. § (1) bekezdés 1. pontját, (7) bekezdés 3. pontját, 6. § (3) bekezdését, 9. § (5a) bekezdését, 27. § (4a) bekezdését, 33. § (7) bekezdését, 37. § (1) bekezdés d) pontját, (2) bekezdés e) pontját, (7) bekezdését, 38. § (3) bekezdés f) pontját, (4), (10) és (11) bekezdését, 41. § (1) bekezdését, 42. § (5) bekezdését, 49. § (8) bekezdését, 54. § (12) bekezdését, 91. § a) pontját, 96. § (1), (4) és (4b) bekezdését, 114/I. § (3) bekezdését, 116. § (4) bekezdését, 133. § (4) bekezdés c) pontját, 140. § (7) bekezdését, 155. § (4a) bekezdését, 156. § (5) bekezdés e) pontját először a 2023. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(86) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 3. § (1) bekezdés 1. pontját, (7) bekezdés 3. pontját, 6. § (3) bekezdését, 9. § (5a) bekezdését, 27. § (4a) bekezdését, 33. § (7) bekezdését, 37. § (1) bekezdés d) pontját, (2) bekezdés e) pontját, (7) bekezdését, 38. § (3) bekezdés f) pontját, (4), (10) és (11) bekezdését, 41. § (1) bekezdését, 42. § (5) bekezdését, 49. § (8) bekezdését, 54. § (12) bekezdését, 91. § a) pontját, 96. § (1), (4) és (4b) bekezdését, 114/I. § (3) bekezdését, 116. § (4) bekezdését, 133. § (4) bekezdés c) pontját, 140. § (7) bekezdését, 155. § (4a) bekezdését, 156. § (5) bekezdés e) pontját a 2022. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(87) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 27. § (4a) bekezdése első alkalmazásakor a könyvekben értékkel ki nem mutatott egészségügyi, szociális, kulturális és oktatási intézményben lévő tulajdoni részesedést az 54. § (12) bekezdés szerinti értéken kell a könyvekbe felvenni a saját tőkével (a tőketartalékkal, illetve az annak megfelelő saját tőke elemmel) szemben.
+
+(88) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 114/I. § (4) bekezdését, VI/B. Fejezetét, 156. § (5) bekezdés p) pontját először a 2024. június 22-én vagy azt követően induló üzleti évre kell alkalmazni.
 
 ### Felhatalmazás
 

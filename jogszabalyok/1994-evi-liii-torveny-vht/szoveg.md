@@ -67,7 +67,7 @@ a bírósági végrehajtásról
 - b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási záradékkal látott el,
 - c) a bíróság végrehajtást elrendelő, letiltó, illetve átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
 - d) a bíróság rendbírságról szóló értesítése, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi,
-- e) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
+- e) a 4/2009/EK tanácsi rendelet, valamint a gyermektartás és a családi tartások egyéb formáinak nemzetközi behajtásáról szóló, 2007. november 23-i hágai egyezmény (a továbbiakban: hágai tartási egyezmény) alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés, valamint
 - f) a közjegyzőnek az állam által törvényes öröklés útján megszerzett vagyontárgy értékesítését elrendelő végzése.
 
 ### Végrehajtási kérelem
@@ -149,7 +149,7 @@ a bírósági végrehajtásról
 - k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti járásbíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.
 - l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság,
-- n) az 1215/2012/EU rendelet 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- n) az 1215/2012/EU rendelet 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest vármegyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 - o) a végrehajtó által kiállított – a kifogással megtámadott, jogerősen elbírált vagy a 34. § (8) bekezdésében foglalt feltételek szerinti –, a nem adóst fizetésre kötelező díjjegyzék alapján a végrehajtást foganatosító bíróság.
 - p) a kapcsolattartás tárgyában hozott határozat kivételével a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló (EU) 2019/1111 2019. június 25-i tanácsi rendelet [a továbbiakban: (EU) 2019/1111 tanácsi rendelet] 36. vagy 47. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
@@ -216,7 +216,7 @@ a bírósági végrehajtásról
 - a) a 44/2001/EK tanácsi rendelet szerinti közokiratot az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - b) a 2201/2003/EK tanácsi rendelet szerinti közokiratot a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerinti perbeli egyezséget az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerinti perbeli egyezséget az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest vármegyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - e) a 650/2012/EU európai parlamenti és tanácsi rendelet szerint végrehajtható külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 - f) a kapcsolattartás tárgyában kiállított közokirat vagy létrejött megállapodás kivételével az (EU) 2019/1111 tanácsi rendelet 66. cikke alapján kiállított tanúsítvánnyal ellátott közokirat vagy megállapodás alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - g) a szülői felügyelet tárgyában külföldön létrejött egyezség alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
@@ -270,7 +270,7 @@ a bírósági végrehajtásról
 
 27. § Elsősorban közvetlen letiltással kell behajtani a követelést, ha
 
-- a) a végrehajtást kérő járulék nélkül számított követelése (főkövetelés) a társadalombiztosítási jogszabály szerint a munkaviszony alapján megállapított saját jogú öregségi nyugdíj (a továbbiakban: öregségi nyugdíj) legalacsonyabb összegét nem haladja meg, vagy
+- a) a végrehajtást kérő járulék nélkül számított követelése (főkövetelés) a 60 ezer Ft-ot nem haladja meg, vagy
 - b) a bíróság a 7. §-ban foglaltakra tekintettel a közvetlen letiltást tartja indokoltnak.
 
 ### Közvetlen bírósági felhívás
@@ -321,8 +321,8 @@ a bírósági végrehajtásról
 - a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
 - b) a 805/2004/EK rendelet I–V. melléklete szerinti tanúsítványt,
 - c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot,
-- d) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény VI. melléklete szerinti igazolást,
-- e) az 1215/2012/EU rendelet 60. cikke szerinti tanúsítványt az 1215/2012/EU rendelet II. mellékletében közzétett formanyomtatvány felhasználásával,
+- d) közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, Luganóban 2007. október 30. napján aláírt Luganói Egyezmény V. melléklete szerinti igazolást, egyéb esetekben a VI. melléklete szerinti igazolást,
+- e) közjegyző által fizetési meghagyásos eljárásban hozott, marasztalást tartalmazó határozat esetén az 1215/2012/EU rendelet 53. cikke szerinti tanúsítványt az 1215/2012/EU rendelet I. mellékletében közzétett formanyomtatvány felhasználásával, egyéb esetekben az 1215/2012/EU rendelet 60. cikke szerinti tanúsítványt az 1215/2012/EU rendelet II. mellékletében közzétett formanyomtatvány felhasználásával,
 - f) a 650/2012/EU európai parlamenti és tanácsi rendelet 46. cikke (3) bekezdésének b) pontja szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 1. mellékletében közzétett formanyomtatvány felhasználásával,
 - g) a 650/2012/EU európai parlamenti és tanácsi rendelet 60. cikkének (2) bekezdése szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 2. mellékletében közzétett formanyomtatvány felhasználásával.
 
@@ -409,13 +409,13 @@ KÖZÖS SZABÁLYAI
 
 (4) A biztosítási intézkedés elrendelését követően a biztosítandó követelés teljesítése érdekében elrendelt kielégítési végrehajtás során kiállított végrehajtható okiratot az (1) vagy a (2) bekezdés szerint illetékes, biztosítási intézkedést foganatosító végrehajtó részére kell megküldeni.
 
-33. § (1) Ha az ügygazda végrehajtó székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat elektronikus úton a Kar hivatali szervének, amely továbbítja az ügyelosztás szabályaira figyelemmel az eljárási cselekmény foganatosításának helye szerint illetékes azon végrehajtónak, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó).
+33. § (1) Ha az ügygazda végrehajtó székhelye szerinti fővároson, illetőleg vármegyén (a továbbiakban együtt: vármegye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat elektronikus úton a Kar hivatali szervének, amely továbbítja az ügyelosztás szabályaira figyelemmel az eljárási cselekmény foganatosításának helye szerint illetékes azon végrehajtónak, akinek a székhelye a cselekmény foganatosításának helye szerinti vármegyében van (a továbbiakban: megkeresett végrehajtó).
 
-(1a) Az (1) bekezdésben foglaltaktól eltérően az ingatlan birtokba adása iránt az ingatlan értékesítését végző ügygazda végrehajtó intézkedik, ha az értékesített ingatlan a székhelye szerinti megyén kívül található.
+(1a) Az (1) bekezdésben foglaltaktól eltérően az ingatlan birtokba adása iránt az ingatlan értékesítését végző ügygazda végrehajtó intézkedik, ha az értékesített ingatlan a székhelye szerinti vármegyén kívül található.
 
 (2) A megkeresett végrehajtó az eljárási cselekményeket 30 napon belül foganatosítja, és a keletkezett iratokat a készkiadásairól készült költségelszámolással együtt megküldi az ügygazda végrehajtónak.
 
-(3) Ha az eljárási cselekmények folytatása egyidejűleg több helyszínen, illetve több megye területén szükséges, az ügygazda végrehajtó több végrehajtót is megkereshet az eljárás lefolytatására. A megkeresett végrehajtók munkájának összehangolásáról az ügygazda végrehajtó gondoskodik.
+(3) Ha az eljárási cselekmények folytatása egyidejűleg több helyszínen, illetve több vármegye területén szükséges, az ügygazda végrehajtó több végrehajtót is megkereshet az eljárás lefolytatására. A megkeresett végrehajtók munkájának összehangolásáról az ügygazda végrehajtó gondoskodik.
 
 (4) A feleknek az előlegezett költségeket az ügygazda végrehajtó részére kell megfizetniük, a végrehajtás során befolyt összegeket az ügygazda végrehajtó részére kell átadni, illetve az ő letéti számlájára kell befizetni. Az ügyben az ügygazda végrehajtó állítja ki a díjjegyzéket, és gondoskodik a megkeresett végrehajtó költségeinek megtérítéséről.
 
@@ -657,7 +657,7 @@ bejelentése
 
 (5) A rendőri szerv az intézkedéstől számított 8 napon belül megküldi a költségtérítés megállapításához szükséges igazolást a végrehajtó részére.
 
-(6) A költségtérítés behajtott összegét a végrehajtó a közreműködő rendőri szerv székhelye szerinti megyei (fővárosi) rendőr-főkapitányság részére fizeti meg.
+(6) A költségtérítés behajtott összegét a végrehajtó a közreműködő rendőri szerv székhelye szerinti vármegyei (fővárosi) rendőr-főkapitányság részére fizeti meg.
 
 ### Rendbírság
 
@@ -693,7 +693,7 @@ bejelentése
 
 47. § (1) A végrehajtási eljárás eredményes lefolytatása érdekében a végrehajtó szükség esetén beszerzi az adós személyének azonosítására szolgáló, továbbá az adós lakóhelyére (tartózkodási helyére), székhelyére, telephelyére, munkahelyére (egyéni vállalkozására), jövedelmére és a végrehajtás alá vonható vagyontárgyaira (ingó, ingatlan vagyon, fizetési számla, betét, értékpapír, érdekeltség gazdasági társaságban stb.) vonatkozó adatokat.
 
-(2) A végrehajtó az (1) bekezdésben megjelölt eljárása során megkeresheti az adósra és vagyonára vonatkozó adatokat kezelő hatóságokat, szervezeteket, így különösen a rendőrséget, a gépjárműveket nyilvántartó hatóságot, a személyi adat- és lakcímnyilvántartó szerveket, okmányirodát, nyugdíjbiztosítási igazgatási szervet, az egészségbiztosítási szervet, adóhatóságot, cégbíróságot, pénzforgalmi szolgáltatókat, befektetési szolgáltatókat, ingatlanügyi hatóságot, a vízi és légi járművek lajstromát, illetve nyilvántartását vezető szerveket, a távközlési szervezeteket, az ingó jelzálogjogi nyilvántartást (a továbbiakban: zálogjogi nyilvántartás), a vezető és a hitelbiztosítéki nyilvántartást működtető szervezetet, a közjegyzőket, továbbá a Kart a végrehajtási ügyekről vezetett nyilvántartásba történő betekintés céljából.
+(2) A végrehajtó az (1) bekezdésben megjelölt eljárása során megkeresheti az adósra és vagyonára vonatkozó adatokat kezelő hatóságokat, szervezeteket, így különösen a rendőrséget, a gépjárműveket nyilvántartó hatóságot, a személyi adat- és lakcímnyilvántartó szerveket, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal), nyugdíjbiztosítási igazgatási szervet, az egészségbiztosítási szervet, adóhatóságot, cégbíróságot, pénzforgalmi szolgáltatókat, befektetési szolgáltatókat, ingatlanügyi hatóságot, a vízi és légi járművek lajstromát, illetve nyilvántartását vezető szerveket, a távközlési szervezeteket, az ingó jelzálogjogi nyilvántartást (a továbbiakban: zálogjogi nyilvántartás), a vezető és a hitelbiztosítéki nyilvántartást működtető szervezetet, a közjegyzőket, továbbá a Kart a végrehajtási ügyekről vezetett nyilvántartásba történő betekintés céljából.
 
 (3) A nyilvántartásokat vezető hatóságok és szervezetek a végrehajtó megkeresésének 8 napon belül, illeték- és díjmentesen kötelesek eleget tenni.
 
@@ -955,13 +955,13 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Az (1) bekezdés szerint csökkentett összegből — e törvényben foglalt részletes szabályok szerint — általában legfeljebb 33%-ot, kivételesen legfeljebb 50%-ot lehet levonni.
 
-62. § (1) A 61. § szerinti levonás során mentes a végrehajtás alól a havonta kifizetett munkabérnek az a része, amely megfelel az öregségi nyugdíj [27. § a) pont] legalacsonyabb összegének. Ez a mentesség nem áll fenn a gyermektartásdíj és a szüléssel járó költség (a továbbiakban: gyermektartásdíj) végrehajtása esetén.
+62. § (1) A 61. § szerinti levonás során mentes a végrehajtás alól a havonta kifizetett munkabérnek az a része, amely nem haladja meg a 60 ezer Ft-ot. Ez a mentesség nem áll fenn a gyermektartásdíj és a szüléssel járó költség (a továbbiakban: gyermektartásdíj) végrehajtása esetén.
 
 (2) Ha az adós több munkáltatótól kap munkabért, az (1) bekezdés szerinti mentesség őt abból a munkabérből illeti meg, amelyet elsőként tiltottak le.
 
 (3) Ha az adós ugyanattól a munkáltatótól egyidejűleg több jogcímen kap munkabért, ezeket az (1) bekezdés szerinti mentesség szempontjából összevontan kell figyelembe venni.
 
-63. § A 61. § szerinti levonás után fennmaradó összegből korlátozás nélkül végrehajtás alá vonható a havonta kifizetett munkabérnek az a része, amely meghaladja az öregségi nyugdíj legalacsonyabb összegének ötszörösét.
+63. § A 61. § szerinti levonás után fennmaradó összegből korlátozás nélkül végrehajtás alá vonható a havonta kifizetett munkabérnek az a része, amely meghaladja a 200 ezer Ft-ot.
 
 ### Levonási sorrend
 
@@ -1046,7 +1046,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 73. § A fogva tartott adós esetén a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 134. § (1) bekezdése alapján elvégzett közvetlen levonások után fennmaradó keresményének – a 62. § szerinti mentességre való tekintet nélkül –, illetve egyéb letéti pénzének – a 73/A. §-ban és a 74. §-ban meghatározott kivétellel – legfeljebb 50%-át bármely követelés fejében le lehet vonni.
 
-73/A. § Az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás keretében kifizetett, letéti pénzként kezelt összegre vezetett végrehajtáskor – a fogva tartott adós esetén a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 134. § (1) bekezdése alapján elvégzett közvetlen levonások után fennmaradó – az öregségi nyugdíj legalacsonyabb összegének négyszerese feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig az öregségi nyugdíj legalacsonyabb összege és az öregségi nyugdíj legalacsonyabb összegének négyszerese közötti rész 50%-a vonható végrehajtás alá.
+73/A. § Az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás keretében kifizetett, letéti pénzként kezelt összegre vezetett végrehajtáskor – a fogva tartott adós esetén a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 134. § (1) bekezdése alapján elvégzett közvetlen levonások után fennmaradó – a 150 ezer Ft feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig a 60 ezer Ft és a 150 ezer Ft közötti rész 50%-a vonható végrehajtás alá.
 
 ### Letiltás alól mentes juttatások
 
@@ -1109,9 +1109,9 @@ a letiltással kapcsolatos kötelessége
 
 79/A. § (1) A pénzforgalmi szolgáltatónál kezelt, az adóst megillető pénzösszeg teljes összegben végrehajtás alá vonható, kivéve a természetes személyt megillető pénzösszegeket, amelyek végrehajtás alá vonása a (2) és (3) bekezdés szerint történik.
 
-(2) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető összegből az öregségi nyugdíj legalacsonyabb összegének négyszerese feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig az öregségi nyugdíj legalacsonyabb összege és az öregségi nyugdíj legalacsonyabb összegének négyszerese közötti rész 50%-a vonható végrehajtás alá.
+(2) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető összegből a 200 ezer Ft feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig a 60 ezer Ft és a 200 ezer Ft közötti rész 50%-a vonható végrehajtás alá.
 
-(3) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető pénzösszegnek mentes a végrehajtás alól az a része, amely megfelel az öregségi nyugdíj legalacsonyabb összegének. Ha a végrehajtás gyermektartásdíj vagy szüléssel járó költség behajtására folyik, ennek az összegnek az 50%-a is végrehajtás alá vonható.
+(3) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető pénzösszegnek mentes a végrehajtás alól az a része, amely nem haladja meg a 60 ezer Ft-ot. Ha a végrehajtás gyermektartásdíj vagy szüléssel járó költség behajtására folyik, ennek az összegnek az 50%-a is végrehajtás alá vonható.
 
 (4) E § rendelkezéseit a pénzforgalmi szolgáltató által több szerződés alapján kezelt, adóst megillető együttes összegre kell alkalmazni.
 
@@ -2225,7 +2225,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 164. § (1) A végrehajtás során befolyt összegből mindenekelőtt az adott végrehajtási eljárásban érvényesített – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült – végrehajtási költséget, és abból elsősorban a meg nem fizetett végrehajtási illetéket és az előlegezésre kötelezett szerv által előlegezett költséget kell kielégíteni.
 
-(2) A gyermektartásdíj-követelés, valamint a 4/2009/EK tanácsi rendelet szerinti tartási igény végrehajtására indult ügyben a tartásdíj-követelést – ide nem értve a 165. § (2) bekezdés szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – az e végrehajtási ügyre jutó végrehajtási költségeket megelőzően kell kielégíteni.
+(2) A gyermektartásdíj-követelés, a 4/2009/EK tanácsi rendelet, valamint a hágai tartási egyezmény szerinti tartási igény végrehajtására indult ügyben a tartásdíj-követelést – ide nem értve a 165. § (2) bekezdése szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – az e végrehajtási ügyre jutó végrehajtási költségeket megelőzően kell kielégíteni.
 
 (3) A végrehajtás során befolyt összegből az ügygazda végrehajtót illeti meg a tevékenységéért járó 254. § szerinti díj, költségtérítés és behajtási jutalék.
 
@@ -2864,7 +2864,7 @@ közötti felosztása.
 
 ### XIV. Fejezet — KÖZPONTI HATÓSÁGI MEGKERESÉS VÉGREHAJTÁSA A TARTÁSRA KÖTELEZETT ADATAINAK BESZERZÉSE ÉRDEKÉBEN
 
-210/H. § (1) A 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés (a továbbiakban e §-ban: megkeresés) alapján indult végrehajtás foganatosítására a végrehajtás foganatosításának közös szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy az adóson a tartásra kötelezettet kell érteni.
+210/H. § (1) A 4/2009/EK tanácsi rendelet, valamint a hágai tartási egyezmény alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés (e § alkalmazásában a továbbiakban: megkeresés) alapján indult végrehajtás foganatosítására a végrehajtás foganatosításának közös szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy az adóson a tartásra kötelezettet kell érteni.
 
 (2) Végrehajtást kérőnek az állam minősül, amelynek nevében a központi hatóság jár el; a végrehajtás költségeit az állam viseli.
 
@@ -3077,7 +3077,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (4) A (3) bekezdés a) pontja szerinti esetben a Kar hivatali szervének vezetője a döntését – a kizárási ügyben keletkezett iratokkal együtt –, a b) pontja szerinti esetben pedig a végrehajtó a kizárási indítványt és az indítványra vonatkozó álláspontját tartalmazó iratot beterjeszti a végrehajtást foganatosító bíróságnak.
 
-(5) Ha a bíróság az eljárásból a végrehajtót kizárta, az erről szóló végzést megküldi a Kar hivatali szervének vezetője részére. Az eljáró végrehajtót a Kar hivatali szervének vezetője jelöli ki; ugyanazon járásbíróság mellé kinevezett, ha pedig ez nem lehetséges, a megyében működő járásbíróság mellé kinevezett – Budapesten és Pest megyében egyaránt budapesti és pest megyei székhelyű – végrehajtó jelölhető ki, ha pedig ez sem lehetséges, bármely végrehajtó kijelölhető az eljárás lefolytatására.
+(5) Ha a bíróság az eljárásból a végrehajtót kizárta, az erről szóló végzést megküldi a Kar hivatali szervének vezetője részére. Az eljáró végrehajtót a Kar hivatali szervének vezetője jelöli ki; ugyanazon járásbíróság mellé kinevezett, ha pedig ez nem lehetséges, a vármegyében működő járásbíróság mellé kinevezett – Budapesten és Pest vármegyében egyaránt budapesti és pest vármegyei székhelyű – végrehajtó jelölhető ki, ha pedig ez sem lehetséges, bármely végrehajtó kijelölhető az eljárás lefolytatására.
 
 (6) A bíróság kizárási indítványnak helyt adó végzése ellen és a Kar hivatali szerve vezetőjének a végrehajtó kijelölésére vonatkozó döntése ellen jogorvoslatnak helye nincs.
 
@@ -3166,7 +3166,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (3) A végrehajtó székhelye és illetékességi területe megegyezik annak a járásbíróságnak a székhelyével és illetékességi területével, amely mellé kinevezték.
 
-(4) A végrehajtó az illetékességi területén indult ügyben a székhelye szerinti megye területén, a budapesti és Pest megyei székhelyű végrehajtó Budapest és Pest megye területén jár el.
+(4) A végrehajtó az illetékességi területén indult ügyben a székhelye szerinti vármegye területén, a budapesti és Pest vármegyei székhelyű végrehajtó Budapest és Pest vármegye területén jár el.
 
 (5) A végrehajtó az illetékességi területén indult ügyben az ingatlan-végrehajtást az ország egész területén foganatosítja.
 

@@ -2,7 +2,15 @@
 
 a polgári perrendtartásról
 
-Az Országgyűlésa magyar perjogi hagyományokra és az európai jogfejlődés vívmányaira építő, a felek felelős pervitelén és a bíróság aktív pervezetésén alapuló, a koncentrált per feltételeit biztosító szabályozás megteremtése céljából,a polgárok szolgálatát biztosító, a közjónak és a józan észnek megfelelő jogalkalmazás eszméjétől vezérelve,a magánjogi jogviták tisztességes eljárás elvén nyugvó rendezése és az anyagi jogok hatékony érvényre juttatása érdekébenaz Alaptörvény 25. cikk (2) bekezdése végrehajtására a következő törvényt alkotja:
+Az Országgyűlés
+
+a magyar perjogi hagyományokra és az európai jogfejlődés vívmányaira építő, a felek felelős pervitelén és a bíróság aktív pervezetésén alapuló, a koncentrált per feltételeit biztosító szabályozás megteremtése céljából,
+
+a polgárok szolgálatát biztosító, a közjónak és a józan észnek megfelelő jogalkalmazás eszméjétől vezérelve,
+
+a magánjogi jogviták tisztességes eljárás elvén nyugvó rendezése és az anyagi jogok hatékony érvényre juttatása érdekében
+
+az Alaptörvény 25. cikk (2) bekezdése végrehajtására a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ALAPVETÉSEK
 
@@ -315,7 +323,7 @@ egyezik meg.
 
 (3) Ha az alperes munkahelye nem azonos a lakóhelyével, a bíróság az alperesnek legkésőbb az írásbeli ellenkérelmében előadott kérelmére a pert a munkahely bíróságához teszi át tárgyalás és elbírálás végett.
 
-(4) A nem természetes személyek elleni perekben az általános illetékességet a nem természetes személy székhelye mellett az a hely is megalapozza, ahol a jogvitában érintett ügyben eljáró, képviseletére hivatott szerv, illetve szervezeti egység a működését kifejti. Székhelynek – kétség esetén – az ügyintézés helyét kell tekinteni. Ha a nem természetes személy székhelye Budapesten van, működési köre azonban Pest megye területére terjed ki, a Pest megye területére illetékes bíróság jár el.
+(4) A nem természetes személyek elleni perekben az általános illetékességet a nem természetes személy székhelye mellett az a hely is megalapozza, ahol a jogvitában érintett ügyben eljáró, képviseletére hivatott szerv, illetve szervezeti egység a működését kifejti. Székhelynek – kétség esetén – az ügyintézés helyét kell tekinteni. Ha a nem természetes személy székhelye Budapesten van, működési köre azonban Pest vármegye területére terjed ki, a Pest vármegye területére illetékes bíróság jár el.
 
 (5) Ha a nem természetes személynek belföldön nincs székhelye, belföldi nem természetes személy felperes által indított perben az illetékességet a felperes székhelye – vagy a (4) bekezdés alkalmazásával, működési helye – alapítja meg. Ha a felperes belföldi természetes személy, a bíróság illetékességét a felperes lakóhelye, illetve ennek hiányában a tartózkodási helye is megalapítja.
 
@@ -3757,6 +3765,13 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 - b) a közokirattal tanúsított adatok és tények valóságát,
 - c) a közokiratban foglalt nyilatkozat megtételét, annak idejét és módját.
 
+(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
+
+- a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
+- b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
+
+(3b) Elektronikus közokirat esetében jogszabály a (3a) bekezdéstől eltérő módon is lehetővé teheti az E-ügyintézési tv. szerinti szerepkör teljes bizonyító erejű igazolását.
+
 (4) Elektronikus közokirat kiállításához az is szükséges, hogy a közokirat kiállítására jogosult az elektronikus okiraton – ha jogszabály eltérően nem rendelkezik – minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást vagy bélyegzőt, és amennyiben jogszabály így rendelkezik időbélyegzőt helyezzen el.
 
 (5) Jogszabály egyéb okiratot vagy – adathordozótól függetlenül – más dolgot közokirattá nyilváníthat.
@@ -3786,6 +3801,11 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 (2) Ha az okirat aláírója nem tud olvasni, illetve nem érti azt a nyelvet, amelyen az okirat készült, csak akkor jön létre teljes bizonyító erejű magánokirat, ha magából az okiratból kitűnik, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy az okirat aláírójának megmagyarázta.
 
 (3) A teljes bizonyító erejű magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja, hogy az okirat aláírója az abban foglalt nyilatkozatot megtette, illetve elfogadta vagy magára kötelezőnek ismerte el.
+
+(3a) Az (1) bekezdés f) és g) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
+
+- a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
+- b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
 
 (4) A teljes bizonyító erejű magánokirat valódiságát csak akkor kell bizonyítani, ha azt az ellenfél kétségbe vonja, vagy a valódiság bizonyítását a bíróság szükségesnek találja.
 
@@ -4969,7 +4989,7 @@ A perre az a bíróság is illetékes, amelynek területén az alperes huzamos i
 
 (3) A gondnokság alá helyezés iránt indított kereset csak ugyanazon személy gondnokság alá helyezésére vagy szülői felügyeleti jogának megszüntetésére irányuló keresettel kapcsolható össze.
 
-440. §
+#### 440. §
 
 #### 441. § [A perindítást megelőzően tett intézkedések felülvizsgálata]
 
@@ -5704,7 +5724,7 @@ a pert a munkaügyi perben eljáró tanács bírálja el, feltéve, hogy a pert�
 
 #### 516. § [Soronkívüliség]
 
-(1) A megszüntetett munkaviszony helyreállítására irányuló perben, valamint a felszámolás alatt álló munkáltatóval szembeni igény elbírálása esetén a bíróság soron kívül jár el.
+(1) A megszüntetett munkaviszony helyreállítására irányuló perben, az Mt. 61. § (6) bekezdése szerint a munkáltató hozzájáruló nyilatkozatának pótlása iránti perben, valamint a felszámolás alatt álló munkáltatóval szembeni igény elbírálása esetén a bíróság soron kívül jár el.
 
 (2) Soron kívüli eljárás esetén, a perfelvétel során
 
@@ -6646,40 +6666,67 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 
 (1) E törvény
 
-- 1. a vízügyi, energiaipari, szállítási és távközlési ágazatokban működő vállalkozások beszerzési eljárásairól szóló közösségi szabályok alkalmazására vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 1992. február 25-i 92/13/EGK tanácsi irányelvnek,
-- 2. a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelvnek,
-- 3. a feltételes hozzáférésen alapuló, vagy abból álló szolgáltatások jogi védelméről szóló, 1998. november 20-i 98/84/EK európai parlamenti és tanácsi irányelvnek,
-- 4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
-- 5. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
-- 6.
-- 7. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
-- 8. a férfiak és a nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és a munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK parlamenti és tanácsi irányelvnek,
-- 9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
-- 10. a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
-- 11. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
-- 12. az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
-- 13. a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló, 2010. március 10-i 2010/13/EU parlamenti és tanácsi irányelvnek,
-- 14. a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
-- 15. a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló, 2014. február 26-i 2014/26/EU parlamenti és tanácsi irányelvnek
+1. a vízügyi, energiaipari, szállítási és távközlési ágazatokban működő vállalkozások beszerzési eljárásairól szóló közösségi szabályok alkalmazására vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 1992. február 25-i 92/13/EGK tanácsi irányelvnek,
+
+2. a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelvnek,
+
+3. a feltételes hozzáférésen alapuló, vagy abból álló szolgáltatások jogi védelméről szóló, 1998. november 20-i 98/84/EK európai parlamenti és tanácsi irányelvnek,
+
+4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
+
+5. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
+
+6.
+
+7. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
+
+8. a férfiak és a nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és a munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK parlamenti és tanácsi irányelvnek,
+
+9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
+
+10. a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
+
+11. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
+
+12. az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
+
+13. a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló, 2010. március 10-i 2010/13/EU parlamenti és tanácsi irányelvnek,
+
+14. a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
+
+15. a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló, 2014. február 26-i 2014/26/EU parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (2) E törvény
 
-- 1. az Európai Igazságügyi Hálózat létrehozásáról polgári és kereskedelmi ügyekben szóló, 2001. május 28-i 2001/470/EK tanácsi határozat,
-- 2. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanácsi határozat,
-- 3. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendelet,
-- 4. a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet
-- 5. a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
-- 6. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
-- 7. az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
-- 8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
-- 9. a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
-- 10. a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet,
-- 11. az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
-- 12. a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
-- 13. a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
-- 14. a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+1. az Európai Igazságügyi Hálózat létrehozásáról polgári és kereskedelmi ügyekben szóló, 2001. május 28-i 2001/470/EK tanácsi határozat,
+
+2. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanácsi határozat,
+
+3. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendelet,
+
+4. a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet
+
+5. a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
+
+6. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
+
+7. az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
+
+8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
+
+9. a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
+
+10. a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet,
+
+11. az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
+
+12. a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
+
+13. a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
+
+14. a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
 
 végrehajtását szolgálja.
 
@@ -6687,4 +6734,4 @@ végrehajtását szolgálja.
 
 E törvény nem érinti a diplomáciai és egyéb mentesség hatályát, valamint a diplomáciai és egyéb mentességgel kapcsolatban fennálló különös eljárási szabályokat.
 
-633. §
+#### 633. §

@@ -324,7 +324,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 
 (4) Több terhelt esetében a terheltek egyikére illetékes bíróság a többi terhelttel szemben is eljárhat, ha ez a hatáskörét nem haladja meg. Ha több ilyen bíróság van, a megelőzés alapján kell eljárni.
 
-(5) A törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel
+(5) A törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel
 
 - 1. a közveszély okozása – kivéve a Btk. 322. § (2) bekezdés b) pontja szerinti közveszély okozását –,
 - 2. a közérdekű üzem működésének megzavarása – kivéve a Btk. 323. § (2) bekezdés c) pontja és (3) bekezdés c) pontja szerinti közérdekű üzem működésének megzavarását –,
@@ -456,7 +456,7 @@ merült fel.
 
 (5) A kizárásra irányuló, nyilvánvalóan alaptalan bejelentés érdemi indokolás nélkül elutasítható, és a bejelentés előterjesztője rendbírsággal sújtható.
 
-(6) A megyei főügyészség területén lévő járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Ha a járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránti bejelentés egyúttal a főügyészt is érinti, a kizárásról a legfőbb ügyész határoz.
+(6) A vármegyei főügyészség területén lévő járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Ha a járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránti bejelentés egyúttal a főügyészt is érinti, a kizárásról a legfőbb ügyész határoz.
 
 (7) Az ügyészség vezetője a tudomására jutott kizárási ok miatt az ügyész kizárását hivatalból kezdeményezi.
 
@@ -615,7 +615,7 @@ merült fel.
 (3) A terhelt köteles
 
 - a) az eljárási cselekményeken a bíróság, az ügyészség és a nyomozó hatóság rendelkezéseinek megfelelően az e törvényben meghatározottak szerint jelen lenni,
-- b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, valamint ezek megváltozását – a változást követő három munkanapon belül – az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
+- b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét, valamint ezek megváltozását – a változást követő három munkanapon belül – az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
 
 (4) A bíróság, az ügyészség vagy a nyomozó hatóság a terheltet a büntetőeljárásban történő részvételének kezdetekor a jogairól tájékoztatja és a kötelezettségeire figyelmezteti. A tájékoztatás kiterjed arra, hogy költségkedvezmény iránti kérelmet nyújthat be, annak feltételeire, valamint az anyanyelv használatához való jogra is.
 
@@ -839,7 +839,7 @@ védőt rendel ki.
 (6) A sértett köteles
 
 - a) az eljárási cselekményeken – a szakértői vizsgálatot is ideértve – a bíróság, az ügyészség és a nyomozó hatóság rendelkezéseinek megfelelően az e törvényben meghatározottak szerint részt venni,
-- b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, és – a változást követő három munkanapon belül – ennek megváltozását az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
+- b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét és – a változást követő három munkanapon belül – ennek megváltozását az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
 
 ### Sértetti jogutódlás
 
@@ -865,17 +865,17 @@ esetén a vádat képviseli, feltéve, hogy az elkövető magánindítványra b�
 
 (3) A becsületsértés és a rágalmazás közvádra üldözendő, ha bíró, ügyész vagy rendvédelmi szerv tagjának sérelmére, annak hivatalos eljárása alatt, illetve emiatt követik el.
 
-(4) Ha a magánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet.
+(4) Ha a magánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet. Ha a magánvádlónak nincs törvényes vagy meghatalmazott képviselője, akkor a bíróság felhívja a magánvádlót, hogy a felhívás kézbesítésétől számított egy hónapon belül gondoskodjon a képviseletről.
 
-(5) Ha a (4) bekezdésben meghatározott esetben nem lép képviselő a magánvádló helyébe, és a magánvádló idézés ellenére személyes megjelenési kötelezettségének nem tesz eleget, úgy kell tekintetni, hogy a feljelentést visszavonta, a vádat ejtette vagy a fellebbezést visszavonta.
+(5)
 
 ### A pótmagánvádló
 
 54. § (1) A pótmagánvádló az a sértett, aki vagy amely az e törvényben meghatározott esetekben közvádra üldözendő bűncselekmény miatt a vádat képviseli.
 
-(2) Ha a pótmagánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet.
+(2) Ha a pótmagánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet. Ha a pótmagánvádlónak nincs törvényes vagy meghatalmazott képviselője, akkor a bíróság felhívja a magánvádlót, hogy a felhívás kézbesítésétől számított egy hónapon belül gondoskodjon a képviseletről.
 
-(3) Ha a (2) bekezdésben meghatározott esetben nem lép képviselő a pótmagánvádló helyébe, és a pótmagánvádló idézés ellenére személyes megjelenési kötelezettségének nem tesz eleget, úgy kell tekintetni, hogy a feljelentést visszavonta, a vádat ejtette vagy a fellebbezést visszavonta.
+(3)
 
 ### A magánfél
 
@@ -1833,7 +1833,7 @@ biztosítja.
 - a) huszonnégy órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más ügyészség, illetve nyomozó hatóság,
 - b) hetvenkét órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság
 
-elé kell kísérni.
+elé kell kísérni, vagy jelenlétét telekommunikációs eszköz útján kell biztosítani, ha annak feltételei fennállnak.
 
 (3) Ha hatóság vagy hivatalos személy olyan személy elérhetőségéről szerez tudomást, aki ellen elfogatóparancsot bocsátottak ki, erről a kibocsátó bíróságot, ügyészséget, vagy nyomozó hatóságot tájékoztatja.
 
@@ -2596,7 +2596,7 @@ nyújtotta be.
 - d) állampolgársága,
 - e) személyazonosító okmányának száma,
 - f) lakcíme, értesítési címe, tényleges tartózkodási helye,
-- g) kézbesítési címe, telefonos elérhetősége,
+- g) kézbesítési címe, telefonos elérhetősége, elektronikus levelezési címe vagy más elektronikus elérhetősége,
 - h) foglalkozása.
 
 (3) Az eljárás azonos szakaszában a tanú folytatólagos kihallgatásánál a személyes adatokat – ha azok nem változtak – nem kell rögzíteni.
@@ -2660,7 +2660,7 @@ nyújtotta be.
 - d) állampolgársága,
 - e) személyazonosító okmányának száma,
 - f) lakcíme, értesítési címe, tényleges tartózkodási helye,
-- g) kézbesítési címe, telefonos elérhetősége.
+- g) kézbesítési címe, telefonos elérhetősége, elektronikus levelezési címe vagy más elektronikus elérhetősége.
 
 ### A terhelti figyelmeztetés
 
@@ -4604,9 +4604,11 @@ szükséges.
 (7) Ha a zár alá vételre a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, de a (6) bekezdésben foglaltakat a zár alá vételről rendelkező határozat nem tartalmazza, a zár alá vétel elrendelésére jogosult
 
 - a) ügyészség vagy nyomozó hatóság a 366. § megfelelő alkalmazásával, vagy
-- b) a bíróság a vádemelés előtt az ügyészség, a terhelt, továbbá ha a sértett zár alá vételt indítványozott, a sértett, valamint a vagyoni érdekelt indítványára, a vádemelés után hivatalból
+- b) a bíróság a vádemelés előtt az ügyészség, a terhelt, továbbá ha a sértett zár alá vételt indítványozott, a sértett, valamint a vagyoni érdekelt és a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekelt indítványára, a vádemelés után hivatalból
 
-a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat kiegészítéséről.
+a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat megváltoztatásáról.
+
+(8) A (6) és (7) bekezdés szerinti határozatokat haladéktalanul kézbesíteni kell a vagyoni érdekeltnek, valamint a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekeltnek is.
 
 ### A zár alá vétel végrehajtása
 
@@ -6722,7 +6724,7 @@ tárgyában.
 
 (3) A fellebbezést a bíróság a (4) bekezdésben meghatározott kivétellel tanácsülésen bírálja el.
 
-(4) A 480. § (3) bekezdése esetén a törvényszék másodfokú tanácsa ülést tart. A törvényszék erre irányuló indítvány hiányában is ülést tarthat. Az ülés tartására a 474–475. §-t kell alkalmazni. A fellebbezés elbírálásának nem akadálya, ha a terhelt az ülésen nem jelenik meg. Az ülésen a letartóztatás elrendelését indítványozó ügyészségen működő ügyész vesz részt.
+(4) A 480. § (3) bekezdése esetén, vagy, ha a tanács elnöke egyéb okból szükségesnek tartja, a törvényszék másodfokú tanácsa ülést tart. A törvényszék erre irányuló indítvány hiányában is ülést tarthat. Az ülés tartására a 474–475. §-t kell alkalmazni. A fellebbezés elbírálásának nem akadálya, ha a terhelt az ülésen nem jelenik meg. Az ülésen a letartóztatás elrendelését indítványozó ügyészségen működő ügyész vesz részt.
 
 482. § Nincs helye fellebbezésnek
 
@@ -8026,6 +8028,13 @@ a későbbiekben nem terjesztheti ki.
 
 (4) Ha a megalapozatlanság nyilvánvalóan a 164. § (1) bekezdésében foglalt kötelezettség elmulasztására vezethető vissza, a megalapozatlanság következményei nem alkalmazhatók.
 
+(5) Eltérő tényállás megállapításának a tényállás olyan megváltoztatása minősül, amely
+
+- a) a vádlott felmentését vagy az eljárás vele szemben történt megszüntetését követően a vádlott bűnösségének megállapítását, vagy
+- b) a vádlott bűnösségének megállapítását követően a vádlott felmentését vagy az eljárás megszüntetését
+
+eredményezi.
+
 ### Bizonyítás a másodfokú bírósági eljárásban
 
 594. § (1) A másodfokú bírósági eljárásban bizonyítás felvételének a részbeni megalapozatlanság, az eljárási szabálysértés kiküszöbölése érdekében, vagy akkor van helye, ha a fellebbezésben új tényt állítottak, vagy új bizonyítékra hivatkoztak.
@@ -8342,7 +8351,14 @@ arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
 
 (2) A harmadfokú bírósági eljárásban nincs helye bizonyításnak.
 
-(3) Ha a másodfokú bíróság ítélete a fellebbezéssel sérelmezett ellentétes döntés tekintetében megalapozatlan, és a helyes tényállás az elsőfokú, illetve a másodfokú bíróság által lefolytatott bizonyítást érintő ügyiratok alapján megállapítható, vagy a helytelen ténybeli következtetés az elsőfokú, illetve a másodfokú bíróság által lefolytatott bizonyítást érintő ügyiratok alapján kiküszöbölhető, a harmadfokú bíróság a tényállást hivatalból kiegészíti, illetve helyesbíti.
+(3) Ha a másodfokú bíróság ítélete a fellebbezéssel sérelmezett ellentétes döntés tekintetében megalapozatlan, és a helyes tényállás az elsőfokú, illetve a másodfokú bíróság által lefolytatott bizonyítást érintő ügyiratok alapján megállapítható, vagy a helytelen ténybeli következtetés az elsőfokú, illetve a másodfokú bíróság által lefolytatott bizonyítást érintő ügyiratok alapján kiküszöbölhető, a harmadfokú bíróság
+
+- a) a tényállást kiegészíti, illetve helyesbíti,
+- b) a másodfokú bíróság által megállapított tényállástól eltérő tényállást állapíthat meg, ha a vádlott felmentésének vagy részbeni felmentésének, vagy az eljárás megszüntetésének vagy részbeni megszüntetésének van helye.
+
+(3a) Ha a másodfokú bíróság az 593. § (1) és (2) bekezdésére figyelemmel törvénysértő módon állapított meg az elsőfokú bíróságtól eltérő tényállást, a harmadfokú bíróság az ítéletnek a másodfokú bíróság eltérő tényállás megállapítását eredményező részét kirekeszti és a másodfokú bíróság által felmentett vagy megszüntetéssel érintett vádlott bűnösségét állapíthatja meg.
+
+(3b) A harmadfokú bíróság a (3a) bekezdés alapján irányadó tényállást az elsőfokú, illetve a másodfokú bíróság által lefolytatott bizonyítást érintő ügyiratok, ténybeli következtetés alapján kiegészítheti, helyesbítheti.
 
 (4) Ha a fellebbezést kizárólag a 615. § (3) bekezdés b) pontja vagy a 615. § (4) bekezdése alapján jelentették be, továbbá a fellebbezéssel nem érintett bűncselekmény tekintetében a harmadfokú bíróság nem vizsgálja a másodfokú bíróság ítéletének megalapozottságát és a határozatát a másodfokú bíróság által alapul vett tényállásra alapítja.
 
@@ -8849,7 +8865,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 657. § (1) Ha a felülvizsgálati indítvány elutasításának nincs helye, és az alapügyben a vádat az ügyészség képviselte, a Kúria az indítványt az alapügy ügyirataival együtt nyilatkozattétel érdekében megküldi a Legfőbb Ügyészségnek.
 
-(2) Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül visszaküldi a Kúriának.
+(2) Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül, különösen bonyolult vagy nagy terjedelmű ügyben két hónapon belül visszaküldi a Kúriának.
 
 (3) A Kúria megküldi az ügyészség nyilatkozatát a felülvizsgálati indítvány előterjesztőjének. A terhelt és a védő részére meg kell küldeni a más által benyújtott felülvizsgálati indítványt, és az arra tett ügyészségi nyilatkozatot.
 
@@ -8867,7 +8883,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 (3) A 649. § (3) bekezdésében meghatározott esetben a felülvizsgálati indítványt az alaptörvény-ellenes jogszabály figyelmen kívül hagyásával, illetve az Alkotmánybíróság döntésének alapulvételével kell elbírálni.
 
-(4) A 649. § (5) bekezdésében meghatározott esetben a felülvizsgálati indítványt a törvénnyel kihirdetett nemzetközi szerződéssel ellentétes jogszabály figyelmen kívül hagyásával, illetve a nemzetközi emberi jogi szerv döntésének alapulvételével kell elbírálni.
+(4) A 649. § (4) és (5) bekezdésében meghatározott esetben a felülvizsgálati indítványt a törvénnyel kihirdetett nemzetközi szerződéssel ellentétes jogszabály figyelmen kívül hagyásával, illetve a nemzetközi emberi jogi szerv döntésének alapulvételével kell elbírálni.
 
 (5) A Kúria a jogerős ügydöntő határozatot – a (6) bekezdésben meghatározott kivétellel – csak a felülvizsgálati indítvánnyal megtámadott részében és csak a felülvizsgálati indítványban meghatározott ok alapján bírálja felül.
 
@@ -10141,12 +10157,9 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (2) Ha kölcsönösen elkövetett könnyű testi sértés, rágalmazás vagy becsületsértés esetén mindkét érintett személy feljelentést tett, a személyes meghallgatáson mindkét érintett személy sértettként és feljelentettként is részt vesz.
 
-(3) Ha a sértett a személyes meghallgatáson
+(3) A személyes meghallgatásra szóló idézésben, illetve értesítésben a bíróság a 771. § (1) bekezdésében meghatározott jogkövetkezményekre is figyelmezteti a sértettet.
 
-- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált, vagy
-- b) önhibájából olyan állapotban jelenik meg, hogy az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a feljelentést visszavonta. A sértettet erre az idézésben figyelmeztetni kell.
-
-(3a) A sértett a személyes meghallgatásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a sértett a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a személyes meghallgatás jelenlétében való folytatását, úgy kell tekinteni, hogy a feljelentést visszavonta.
+(3a) A sértett és – ha a sértett jogi képviselőjének jelenléte kötelező – a sértett jogi képviselője a személyes meghallgatásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
 (4) A feljelentettet a sértett nevére és a bűncselekmény lényegére utalással kell idézni.
 
@@ -10166,11 +10179,16 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 769/A. § (1) Ha a sértett a feljelentésében vagy a személyes meghallgatás megkezdéséig úgy nyilatkozik, hogy a kibékítés megkísérlését nem kívánja, és a személyes meghallgatáson való jelenlétről lemond, a személyes meghallgatáson a feljelentő helyébe jogi képviselő léphet. A 768. § (2) bekezdésében foglalt esetben a sértett a (6) bekezdésben foglalt szabályok szerint mondhat le a személyes meghallgatáson való jelenlét jogáról.
 
-(2) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a magánvádas eljárásban a nyilatkozattételt követően a sértett helyett a jogi képviselője jár el.
+(2) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a magánvádas eljárásban a nyilatkozattételt követően a sértett helyett a jogi képviselője jár el. Ebben az esetben a személyes meghallgatáson a sértett jogi képviselőjének jelenléte kötelező.
 
-(3) Ha a sértett a személyes meghallgatás megkezdéséig az (1) bekezdés szerinti nyilatkozatot tett, és a személyes meghallgatáson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a feljelentését visszavonta. A sértettet erre az idézésben figyelmeztetni kell.
+(3) Ha a személyes meghallgatáson a sértett jogi képviselőjének a jelenléte kötelező, és a személyes meghallgatáson
 
-(4) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a személyes meghallgatáson a sértett jogi képviselőjének jelenléte kötelező. Ebben az esetben a 768. § (3) és (3a) bekezdése a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, vagy
+- b) a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a személyes meghallgatás jelenlétében való folytatását,
+
+a bíróság a személyes meghallgatást a jogi képviselő költségére elhalasztja, illetve elnapolja, és a jogi képviselőt rendbírsággal sújthatja. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+
+(4) Ha a személyes meghallgatáson a sértett jogi képviselőjének a jelenléte kötelező és a sértett jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a sértettet, hogy jogi képviseletéről tizenöt napon belül gondoskodjék.
 
 (5) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, és a személyes meghallgatáson megjelenik, vagy úgy nyilatkozik, hogy a személyes meghallgatáson jelen kíván lenni, a továbbiakban a sértett jelenléte az eljárásban kötelező, és utóbb az eljárás során a jelenlétről ismételten nem mondhat le.
 
@@ -10187,12 +10205,19 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 - a) az 512. § (3) bekezdés d) pontjában meghatározott okokon kívül más okból nem függesztheti fel,
 - b) a 492. § (1) bekezdés a) és h) pontja alapján, továbbá törvényben meghatározott egyéb büntethetőséget megszüntető ok miatt a 492. § (1) bekezdés c) pontja alapján nem szüntetheti meg.
 
-771. § (1) A bíróság az eljárást megszünteti, ha
+771. § (1) A bíróság az eljárást ügydöntő végzéssel megszünteti, ha
 
 - a) a sértett a feljelentést visszavonta,
-- b) a sértett mulasztását a feljelentés visszavonásának kell tekinteni,
-- c) a személyes meghallgatáson a sértett és a feljelentett békítése eredményes, vagy
-- d) az illetéket az illetékekről szóló törvény szerinti határidőben nem fizetik meg.
+- b) a sértett jelenléte a személyes meghallgatáson kötelező, és
+  - ba) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált,
+  - bb) önhibájából olyan állapotban jelenik meg, hogy az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, vagy
+  - bc) a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a személyes meghallgatás jelenlétében való folytatását,
+- c) a személyes meghallgatáson a sértett és a feljelentett békítése eredményes,
+- d) az illetéket az illetékekről szóló törvény szerinti határidőben nem fizetik meg,
+- e) a sértett jogi képviselőjének jelenléte a személyes meghallgatáson kötelező, és a 769/A. § (4) bekezdése szerint kitűzött határidő alatt a sértett jogi képviseletéről nem gondoskodik, és a személyes meghallgatáson a sértett sem jelenik meg,
+- f) az 53. § (4) bekezdésében meghatározott esetben nem lép képviselő a magánvádló helyébe, és
+  - fa) a magánvádló a bíróság felhívásának kézbesítésétől számított egy hónapon belül nem gondoskodik képviseletről vagy
+  - fb) a magánvádló idézés ellenére nem tesz eleget a személyes meghallgatáson való megjelenési kötelezettségének.
 
 (2) A bíróság a személyes meghallgatáson minden olyan kérdésben határozhat, amelyre a személyes meghallgatás előtt jogosult.
 
@@ -10213,28 +10238,30 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (2) A tárgyaláson a magánvádló jelenléte – a (2a) bekezdésben foglalt kivétellel – kötelező.
 
-(2a) A magánvádló helyébe a tárgyaláson jogi képviselő léphet, ha a magánvádló úgy nyilatkozik, hogy a tárgyaláson személyesen nem kíván jelen lenni. Ha a magánvádló helyébe jogi képviselő lépett, a magánvádas eljárásban a nyilatkozattételt követően a magánvádló helyett a jogi képviselője jár el.
+(2a) A magánvádló helyébe a tárgyaláson jogi képviselő léphet, ha a magánvádló úgy nyilatkozik, hogy a tárgyaláson személyesen nem kíván jelen lenni. Ha a magánvádló helyébe jogi képviselő lépett, a magánvádas eljárásban a nyilatkozattételt követően a magánvádló helyett a jogi képviselője jár el. Ebben az esetben a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező.
 
 (2b) Viszonvád esetén a magánvádló, korábbi nyilatkozataitól függetlenül, a tárgyaláson való jelenlétről a 430–431. §-ban foglalt szabályok szerint mondhat le.
 
 (2c) A bíróság a tárgyaláson való jelenlétről lemondott magánvádlót a tárgyaláson való jelenlétre kötelezheti, ha bizonyítási cselekmény lefolytatása vagy szakértő meghallgatása érdekében szükséges.
 
-(2d) Ha a magánvádló a tárgyaláson való jelenlétről lemondott, és a tárgyaláson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a vádat ejtette. A magánvádlót erre az idézésben figyelmeztetni kell.
+(2d) A tárgyalásra szóló idézésben, illetve értesítésben a bíróság a 776. § (2) bekezdésében meghatározott jogkövetkezményekre is figyelmezteti magánvádlót.
 
-(2e) A (2a) bekezdés esetén a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező, és az (5) és (6) bekezdés a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+(2e) Ha a tárgyaláson a magánvádló jogi képviselőjének a jelenléte kötelező, és a tárgyaláson
+
+- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki,
+- b) a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását,
+
+a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetve elnapolja, és a jogi képviselőt rendbírsággal sújthatja. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
 
 (2f) Ha a tárgyaláson való jelenlétről lemondott magánvádló a tárgyaláson megjelenik vagy úgy nyilatkozik, hogy a tárgyaláson jelen kíván lenni, a továbbiakban a magánvádló jelenléte a tárgyaláson kötelező, és utóbb tárgyaláson való jelenlétről ismételten nem mondhat le.
 
-(3) Ha a magánvádlónak képviselője van, őt a bíróság a tárgyalásról – ha jelenléte a (2e) bekezdés értelmében nem kötelező – értesíti.
+(3) Ha a magánvádlónak képviselője van, őt a bíróság a tárgyalásról – ha jelenléte a (2a) bekezdés értelmében nem kötelező – értesíti.
 
 (4) A bíróság az idézéssel, illetve az értesítéssel egyidejűleg arról is tájékoztatja a magánvádlót, illetve a képviselőjét, hogy a kitűzött határnapon milyen bizonyítás felvételét tervezi.
 
-(5) Ha a magánvádló a tárgyaláson
+(5) Ha a tárgyaláson a magánvádló jogi képviselőjének a jelenléte kötelező és a magánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a magánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék.
 
-- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált, vagy
-- b) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a vádat ejtette. A magánvádlót erre az idézésben figyelmeztetni kell.
-
-(6) A magánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a magánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, úgy kell tekinteni, hogy a vádat ejtette.
+(6) A magánvádló és − ha a magánvádló jogi képviselete kötelező – a magánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
 774. § (1) A személyes meghallgatást követően a folyamatban lévő magánvádas ügyhöz más magánvádas ügyet nem lehet egyesíteni.
 
@@ -10261,7 +10288,19 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 776. § (1) A magánvádló a vádat bármikor ejtheti. A vád ejtését nem köteles indokolni.
 
-(2) A bíróság az eljárást megszünteti, ha a magánvádló a vádat ejtette vagy a mulasztását a vád ejtésének kell tekinteni. A 771. § (3) bekezdése ezekben az esetekben is irányadó.
+(2) A bíróság az eljárást ügydöntő végzéssel megszünteti, ha
+
+- a) a magánvádló a vádat ejtette,
+- b) a magánvádló jelenléte a tárgyaláson kötelező és
+  - ba) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált,
+  - bb) önhibájából olyan állapotban jelenik meg, hogy az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, vagy
+  - bc) a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását,
+- c) a magánvádló jogi képviselőjének jelenléte a tárgyaláson kötelező, és a 773. § (5) bekezdés szerint kitűzött határidő alatt a magánvádló jogi képviseletéről nem gondoskodik, és a tárgyaláson a magánvádló sem jelenik meg, vagy
+- d) az 53. § (4) bekezdésében meghatározott esetben nem lép képviselő a magánvádló helyébe, és
+  - da) a magánvádló a bíróság felhívásának kézbesítésétől számított egy hónapon belül nem gondoskodik képviseletről vagy
+  - db) a magánvádló idézés ellenére nem tesz eleget a tárgyaláson való megjelenési kötelezettségének.
+
+(2a) A 771. § (3) bekezdése a (2) bekezdésben meghatározott esetekben is irányadó.
 
 (3) Ha az ügyészség a vád képviseletétől elállt, és a sértett jelen van, a bíróság a tárgyalást folytatja. Ellenkező esetben a bíróság a tárgyalás elnapolásával egyidejűleg új tárgyalást tűz ki, a sértettet pedig tájékoztatja, hogy a vádat ismét ő képviseli.
 
@@ -10285,24 +10324,27 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (7) A magánvádas eljárásban hozott jogerős ügydöntő határozatot a bíróság kézbesíti az ügyben korábban eljárt ügyészségnek is.
 
-(8) Ha a fellebbezésért az illetéket az illetékekről szóló törvény szerinti határidőben nem fizetik meg, azt a fellebbezés visszavonásának kell tekinteni.
+(8)
 
 ### A másodfokú bírósági eljárás
 
 779. § (1) A másodfokú bíróság a magánvádlót a tárgyalásra idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti. Ha a magánvádló a tárgyaláson való jelenlétről lemondott, a bíróság a tárgyalásra a magánvádló jogi képviselőjét idézi.
 
-(1a) Ha a magánvádló a tárgyaláson
+(1a) A tárgyalásra szóló idézésben, illetve értesítésben a bíróság a (2) bekezdésben meghatározott jogkövetkezményekre is figyelmezteti a magánvádlót.
 
-- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált, vagy
-- b) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a fellebbezését visszavonta. A magánvádlót erre az idézésben figyelmeztetni kell.
+(1b)
 
-(1b) A magánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a magánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, úgy kell tekinteni, hogy a fellebbezést visszavonta.
+(1c)
 
-(1c) Ha a 773. § (2e) bekezdésére tekintettel a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező, az (1a) és (1b) bekezdés a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+(1d)
 
-(1d) Ha a magánvádló a tárgyaláson való jelenlétről lemondott, és a tárgyaláson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a fellebbezést visszavonta. A magánvádlót erre az idézésben figyelmeztetni kell.
+(2) A másodfokú bíróság az elsőfokú bíróság ítéletét tanácsülésen hatályon kívül helyezi, és az eljárást ügydöntő végzéssel megszünteti,
 
-(2) A másodfokú bíróság az elsőfokú bíróság ítéletét tanácsülésen hatályon kívül helyezi, és az eljárást megszünteti, ha ezt a magánvádló az ügydöntő határozat meghozataláig indítványozza. A 771. § (3) bekezdése ez esetben is irányadó.
+- a) ha ezt a magánvádló az ügydöntő határozat meghozataláig indítványozza,
+- b) ha a fellebbezésért az illetéket az illetékekről szóló törvény szerinti határidőben nem fizetik meg,
+- c) a 776. § (2) bekezdés b)–d) pontjában meghatározott esetben.
+
+(2a) A 771. § (3) bekezdése a (2) bekezdésben meghatározott esetekben is irányadó.
 
 (3) A másodfokú bíróság ügydöntő határozata ellen a magánvádló fellebbezésre jogosult a harmadfokú bírósághoz.
 
@@ -10328,7 +10370,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 782. § (1) Ha a bíróság a vádlottat felmentette, vagy vele szemben az eljárást megszüntette, a magánvádló viseli a 145. § (1) bekezdésében és az 576. § (1) bekezdés b) pontjában meghatározott bűnügyi költséget.
 
-(2) Ha a vádat magánvádló képviselte, és a bíróság a vádlottat az 566. § (3) bekezdésében meghatározott eset kivételével felmenti, vagy vele szemben az eljárást a magánvádló vádejtése miatt megszünteti, a magánvádló az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a magánvádas eljárásban keletkezett.
+(2) Ha a vádat magánvádló képviselte, és a bíróság a vádlottat az 566. § (3) bekezdésében meghatározott eset kivételével felmenti, vagy vele szemben az eljárást a 771. § (1) bekezdése, a 776. § (2) bekezdése vagy a 779. § (2) bekezdése miatt megszünteti, a magánvádló az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a magánvádas eljárásban keletkezett.
 
 (3) A másodfokú bíróság a magánvádlót a másodfokú eljárásban felmerült bűnügyi költség viselésére és az ott felmerült, a (2) bekezdésben meghatározott díj és költség megtérítésére kötelezi, ha az elsőfokú bíróság határozata ellen kizárólag a magánvádló fellebbezett, és a másodfokú bíróság a határozatot helybenhagyja.
 
@@ -10338,7 +10380,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 ### A rendkívüli jogorvoslatokra vonatkozó eltérő szabályok
 
-783. § (1) A magánvádló kizárólag akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették vagy az eljárást – a vádejtést kivéve – megszüntették.
+783. § (1) A magánvádló kizárólag akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették vagy az eljárást – a 771. § (1) bekezdésében, a 776. § (2) bekezdésében és a 779. § (2) bekezdésében foglaltak kivételével – megszüntették.
 
 (2) A perújítási indítványt a perújítás megengedhetőségének kérdésében döntésre jogosult bíróságnál kell írásban benyújtani vagy jegyzőkönyvbe mondani.
 
@@ -10536,14 +10578,25 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (2) Ha a pótmagánvádló jogi képviselője az előkészítő ülésen nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, a bíróság az előkészítő ülést a jogi képviselő költségére elhalasztja, és a jogi képviselőt rendbírsággal sújthatja. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
 
-(3) Ha az előkészítő ülésen a pótmagánvádló
+(2a) Ha a pótmagánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a pótmagánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék.
 
-- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve a pótmagánvádlót azért nem lehetett idézni, mert lakcímének megváltozását nem jelentette be, vagy
-- b) önhibájából olyan állapotban jelenik meg, hogy az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a pótmagánvádló a vádat ejtette. A pótmagánvádlót erre az idézésben figyelmeztetni kell.
+(3) Az előkészítő ülésre szóló idézésben a bíróság az (5) bekezdésében meghatározott jogkövetkezményekre is figyelmezteti a pótmagánvádlót.
 
-(3a) A pótmagánvádló az előkészítő ülésről ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a pótmagánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi az előkészítő ülés jelenlétében való folytatását, úgy kell tekinteni, hogy a vádat ejtette.
+(3a) A pótmagánvádló az előkészítő ülésről ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
 (4) Az előkészítő ülésen a bíróság tagjai, továbbá a vádlott és a védő a pótmagánvádlóhoz kérdést intézhetnek.
+
+(5) A bíróság az eljárást ügydöntő végzéssel megszünteti, ha
+
+- a) a pótmagánvádló a vádat ejtette,
+- b) a pótmagánvádló az előkészítő ülésen
+  - ba) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált,
+  - bb) önhibájából olyan állapotban jelenik meg, hogy az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, vagy
+  - bc) a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi az előkészítő ülés jelenlétében való folytatását,
+- c) a pótmagánvádló a (2a) bekezdés szerint kitűzött határidő alatt jogi képviseletéről nem gondoskodik, vagy
+- d) az 54. § (2) bekezdésében meghatározott esetben nem lép képviselő a pótmagánvádló helyébe, és
+  - da) a pótmagánvádló a bíróság felhívásának kézbesítésétől számított egy hónapon belül nem gondoskodik képviseletről vagy
+  - db) a pótmagánvádló idézés ellenére nem tesz eleget az előkészítő ülésen való megjelenési kötelezettségének.
 
 ### Az elsőfokú bírósági eljárás
 
@@ -10555,12 +10608,9 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (3) Ha a pótmagánvádló jogi képviselője a tárgyaláson nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, és a jogi képviselőt rendbírsággal sújthatja. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
 
-(4) Ha a tárgyaláson a pótmagánvádló
+(4) A tárgyalásra szóló idézésben a bíróság az 806. § (2) bekezdésében meghatározott jogkövetkezményekre is figyelmezteti a pótmagánvádlót.
 
-- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve a pótmagánvádlót azért nem lehetett idézni, mert lakcímének megváltozását nem jelentette be, vagy
-- b) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a pótmagánvádló a vádat ejtette. A pótmagánvádlót erre az idézésben figyelmeztetni kell.
-
-(5) Ha a pótmagánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a pótmagánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék. Ha a pótmagánvádló a kitűzött határidő alatt jogi képviseletéről nem gondoskodik, ezt úgy kell tekinteni, hogy a pótmagánvádló a vádat ejtette, egyúttal az eljárást meg kell szüntetni. A pótmagánvádlót erre figyelmeztetni kell.
+(5) Ha a pótmagánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a pótmagánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék.
 
 (6) A pótmagánvádló a költségkedvezmény engedélyezése iránti kérelmét a bíróság (5) bekezdésben meghatározott felhívásától számított nyolc napon belül terjesztheti elő.
 
@@ -10568,7 +10618,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (8) Ha a pótmagánvádló a (6) bekezdés szerint kérelmet terjesztett elő, erről a körülményről a kérelem előterjesztésétől számított nyolc napon belül tájékoztatja a bíróságot. A tájékoztatás elmulasztása esetén a (7) bekezdés szerinti határidő-számítás nem alkalmazható.
 
-804. § (1) A pótmagánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a pótmagánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, úgy kell tekinteni, hogy a vádat ejtette.
+804. § (1) A pótmagánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
 (2) A pótmagánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a jogi képviselő a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, a bíróság a tárgyalást megszakítja. Ebben az esetben a pótmagánvádló más jogi képviselőt hatalmazhat meg, vagy a jogi segítségnyújtó szolgálattól másik pártfogó ügyvéd kirendelését kérheti. Ha ez nyomban nem lehetséges, a bíróság a tárgyalást a rendzavaró jogi képviselő költségére elnapolja.
 
@@ -10578,7 +10628,17 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 806. § (1) A pótmagánvádló a vádat bármikor ejtheti. A vád ejtését nem köteles indokolni.
 
-(2) A bíróság az eljárást megszünteti, ha a pótmagánvádló a vádat ejtette vagy a mulasztását a vád ejtésének kell tekinteni.
+(2) A bíróság az eljárást ügydöntő végzéssel megszünteti, ha
+
+- a) a pótmagánvádló a vádat ejtette,
+- b) a pótmagánvádló a tárgyaláson
+  - ba) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált,
+  - bb) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, vagy
+  - bc) a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását,
+- c) a pótmagánvádló a 803. § (5) bekezdése szerint kitűzött határidő alatt jogi képviseletéről nem gondoskodik, vagy
+- d) az 54. § (2) bekezdésében meghatározott esetben nem lép képviselő a pótmagánvádló helyébe, és
+  - da) a pótmagánvádló a bíróság felhívásának kézbesítésétől számított egy hónapon belül nem gondoskodik képviseletről vagy
+  - db) a pótmagánvádló idézés ellenére nem tesz eleget a tárgyaláson való megjelenési kötelezettségének.
 
 (3) Ha az ügyészség a vád képviseletétől elállt, valamint a sértett és a jogi képviselő jelen van, a bíróság a tárgyalást folytatja. Ellenkező esetben a bíróság a tárgyalás elnapolásával egyidejűleg új tárgyalást tűz ki, a sértettet pedig tájékoztatja, hogy a vádat ismét ő képviseli.
 
@@ -10608,12 +10668,9 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 810. § (1) A másodfokú bíróság a pótmagánvádlót és jogi képviselőjét a tárgyalásra idézi.
 
-(1a) Ha a tárgyaláson a pótmagánvádló
+(1a) A másodfokú bíróság a 806. § (2) bekezdés b)−d) pontjában meghatározott esetben az elsőfokú bíróság ítéletét tanácsülésen hatályon kívül helyezi, és az eljárást ügydöntő végzéssel megszünteti.
 
-- a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve a pótmagánvádlót azért nem lehetett idézni, mert lakcímének megváltozását nem jelentette be, vagy
-- b) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a pótmagánvádló a fellebbezését visszavonta. A pótmagánvádlót erre az idézésben figyelmeztetni kell.
-
-(1b) A pótmagánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a pótmagánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, úgy kell tekinteni, hogy a fellebbezését visszavonta.
+(1b)
 
 (2) A másodfokú bíróság ügydöntő határozata ellen a pótmagánvádló és – a pótmagánvádló hozzájárulásával – jogi képviselője fellebbezésre jogosult a harmadfokú bírósághoz.
 
@@ -10639,7 +10696,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 813. § (1) Ha a bíróság a vádlottat felmentette vagy vele szemben az eljárást megszüntette, a pótmagánvádló viseli a 145. § (1) bekezdésében és az 576. § (1) bekezdés b) pontjában meghatározott bűnügyi költségből azt a költséget, amely a pótmagánvádló fellépése után keletkezett.
 
-(2) Ha a vádat pótmagánvádló képviselte, és a bíróság a vádlottat az 566. § (3) bekezdésében meghatározott eset kivételével felmenti, vagy vele szemben az eljárást a pótmagánvádló vádejtése miatt megszünteti, a pótmagánvádló az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a pótmagánvádló fellépése után keletkezett.
+(2) Ha a vádat pótmagánvádló képviselte, és a bíróság a vádlottat az 566. § (3) bekezdésében meghatározott eset kivételével felmenti, vagy vele szemben az eljárást a 801. § (5) bekezdése, a 806. § (2) bekezdése vagy a 810. § (1a) bekezdése miatt megszünteti, a pótmagánvádló az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a pótmagánvádló fellépése után keletkezett.
 
 (3) A pótmagánvádlót csak azzal a cselekménnyel, illetve a tényállásnak azzal a részével kapcsolatban felmerült bűnügyi költség viselésére és a (2) bekezdésben meghatározott díj és költség azon részének megtérítésére lehet kötelezni, amelyre a vádindítványt előterjesztette vagy az írásbeli bejelentést tette, és amelyre a bíróság az 566. § (3) bekezdésében meghatározott eset kivételével felmentő ítéletet hozott vagy az eljárást megszüntette.
 
@@ -10649,7 +10706,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 ### A rendkívüli jogorvoslatokra vonatkozó eltérő szabályok
 
-814. § (1) A pótmagánvádló kizárólag akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették vagy az eljárást – a vádejtést kivéve – megszüntették.
+814. § (1) A pótmagánvádló kizárólag akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették vagy az eljárást – a 801. § (5) bekezdésében, a 806. § (2) bekezdésében és a 810. § (1a) bekezdésében foglaltak kivételével – megszüntették.
 
 (2) A perújítási indítványt a perújítás megengedhetőségének kérdésében döntésre jogosult bíróságnál kell írásban benyújtani vagy jegyzőkönyvbe mondani.
 
@@ -10695,7 +10752,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 - a) a korrupciós bűncselekmények (Btk. XXVII. Fejezet), kivéve
   - aa) a vesztegetés egyes enyhébben minősülő eseteit [Btk. 290. § (1) és (6) bekezdés],
   - ab) a vesztegetés elfogadása enyhébben minősülő esetét [Btk. 291. § (1) bekezdés];
-- b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, Katonai Nemzetbiztonsági Szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
+- b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, Katonai Nemzetbiztonsági Szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
 - c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
   - ca) sikkasztás súlyosabban minősülő esetei [Btk. 372. § (4)–(6) bekezdés],
   - cb) csalás súlyosabban minősülő esetei [Btk. 373. § (4)–(6) bekezdés],
@@ -11196,7 +11253,7 @@ rendelhető el.
 
 828. § (1) Az egyesbíró akkor utalhatja a bíróság tanácsa elé az ügyet, ha az eljárás határzárral kapcsolatos bűncselekmény mellett más bűncselekmény miatt is folyik.
 
-(2) A járásbíróság hatáskörébe tartozó ügyben a törvényszék székhelyén lévő járásbíróság, vagy a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel.
+(2) A járásbíróság hatáskörébe tartozó ügyben a törvényszék székhelyén lévő járásbíróság, vagy a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel.
 
 (3) Ha a terhelt különböző járásbíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (2) bekezdés szerint illetékes.
 
@@ -11865,6 +11922,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 - 32. a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló 2016. április 27-i 2016/680/EU parlamenti és tanácsi irányelvnek,
 - 33. a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló 2016. május 11-i 2016/800/EU parlamenti és tanácsi irányelvnek, valamint
 - 34. a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló 2016. október 26-i 2016/1919/EU parlamenti és tanácsi irányelvnek
+- 35. a 2002/465/IB tanácsi kerethatározatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/211 európai parlamenti és tanácsi irányelvnek,
+- 36. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

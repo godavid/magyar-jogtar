@@ -210,7 +210,7 @@ törekszik a hulladékképződés megelőzésére.
 - b) a telefonos eléréssel működtetett ügyfélszolgálat legalább a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan elérhető legyen,
 - c) az ügyfelek részére nyitva álló helyiségben működtetett ügyfélszolgálat esetében a fogyasztóknak lehetőségük legyen elektronikusan és telefonon keresztül is a személyes ügyintézés időpontjának előzetes lefoglalására, a személyes ügyintézés időpontja igénylésének napjától számított öt munkanapon belül a szolgáltató köteles személyes ügyfélfogadási időpontot biztosítani a fogyasztó számára,
 - d) az elektronikus eléréssel működtetett ügyfélszolgálat – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan elérhető legyen, illetve
-- e) amennyiben országos hálózattal rendelkezik, minden megyeszékhelyen ügyfélszolgálatot működtessen.
+- e) amennyiben országos hálózattal rendelkezik, minden vármegyeszékhelyen ügyfélszolgálatot működtessen.
 
 (3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell a fogyasztó által kezdeményezett hívás sikeres felépülésének időpontjától számított öt perc várakozási időn belüli hívásfogadást és az érdemi ügyintézés megkezdését, kivéve, ha az a tevékenységi körén kívül eső elháríthatatlan ok miatt nem lehetséges, feltéve, hogy a vállalkozás úgy járt el, ahogy az az adott helyzetben általában elvárható. A vállalkozás köteles a panasszal kapcsolatos élőhangos ügyintézés választását a fogyasztó beazonosítása nélküli módon – reklám továbbítása nélkül – a telefonos eléréssel működtetett ügyfélszolgálat menüsorrendjének első helyére tenni. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. Ha a hangfelvétel tartalmazza a 17/A. § (5) bekezdése szerinti tartalmi elemeket – ide nem értve a panasz előterjesztésének helyét, a fogyasztó által bemutatott bizonyítékok jegyzékét, a jegyzőkönyvet felvevő személy aláírását, valamint a jegyzőkönyv felvételének helyét és idejét –, a jegyzőkönyv felvétele a fogyasztó beleegyezésével mellőzhető. A hangfelvételt egyedi azonosítószámmal kell ellátni és öt évig meg kell őrizni.
 
@@ -268,7 +268,7 @@ törekszik a hulladékképződés megelőzésére.
 
 (3a) A vállalkozás olyan fogyasztóvédelmi referens foglalkoztatására köteles, akinek az államilag elismert fogyasztóvédelmi szakképesítése, szakképzettsége vagy az iskolarendszeren kívüli hatósági jellegű képzés során kiadott képesítési bizonyítványában szereplő szakiránya illeszkedik a foglalkoztató vállalkozás cégjegyzékben szereplő főtevékenységi köréhez.
 
-(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében és a fővárosban, ahol
+(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan vármegyében és a fővárosban, ahol
 
 - a) székhelyén, telephelyén vagy fióktelepén kiskereskedelmi tevékenységet folytat, továbbá
 - b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ügyfélszolgálat működtetésére kötelezett vállalkozás esetén ügyfélszolgálattal rendelkezik.
@@ -324,7 +324,7 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztói jogvita bírósági eljáráson kívüli rendezése. A békéltető testület feladata, hogy megkísérelje a fogyasztói jogvita rendezése céljából egyezség létrehozását a felek között, ennek eredménytelensége esetén az ügyben döntést hoz a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban.
 
-(2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
+(2) A békéltető testület a vármegyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
 
 (3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
 
@@ -350,7 +350,7 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 (4) Ha több fogyasztó közösen terjeszt elő kérelmet, bármelyik kérelmezőre illetékes testület valamennyi kérelmezőre nézve illetékes.
 
-(5) A békéltető testület illetékességi területe a testületet működtető kamara szerinti megyére (fővárosra) terjed ki.
+(5) A békéltető testület illetékességi területe a testületet működtető kamara szerinti vármegyére (fővárosra) terjed ki.
 
 (6) A békéltető testületi eljárás hivatalos nyelve a magyar.
 
@@ -532,7 +532,7 @@ foglalt személyes adatait.
 
 (10) Ha a vállalkozás válasziratát nem terjeszti elő, a tanács köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
 
-(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Amennyiben a vállalkozás székhelye, telephelye vagy fióktelepe nem a területileg illetékes békéltető testületet működtető kamara szerinti megyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
+(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Amennyiben a vállalkozás székhelye, telephelye vagy fióktelepe nem a területileg illetékes békéltető testületet működtető kamara szerinti vármegyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
 
 (12) A (11) bekezdésben meghatározott együttműködési kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a székhelye szerint illetékes fogyasztóvédelmi hatóságot.
 
@@ -868,6 +868,13 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 (4) A fogyasztóvédelmi hatóság az (1)–(3) bekezdésben foglaltakat az ellátási láncban szereplő gazdálkodó szervezetek vonatkozásában is ellenőrzi és eljár azok megsértése esetén.
 
 45/B. § A fogyasztóvédelmi hatóság ellenőrzi a fogyasztói szerződés megkötésénél alkalmazott vagy e célból nyilvánosan megismerhetővé tett általános szerződési feltételeket abban a tekintetben, hogy azok nem tartalmaznak-e a jóhiszeműség és tisztesség követelményébe ütközően a szerződéses jogokat és kötelezettségeket egyoldalúan és indokolatlanul a fogyasztó hátrányára megállapító feltételt.
+
+45/C. § A Nemzeti Adó- és Vámhivatal a fogyasztóvédelmi hatóság részére a 45/A. § (2) bekezdés szerinti feladatainak ellátása érdekében a tárgyhónapot követő hónap 20. napjáig adatot szolgáltat
+
+- a) a vállalkozások részére tárgyhónapban kiadott, továbbá
+- b) – a vállalkozások tárgyhavi adatszolgáltatása alapján – a vállalkozás által a fogyasztók részére átadott
+
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerinti, az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás egyszeri aktiválásához szükséges adattörlő kódok darabszámáról a vállalkozás elnevezésének, székhelyének és adószámának megadásával.
 
 46. § (1) A fogyasztóvédelmi hatóság eljárása megindításának feltétele, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését.
 
@@ -1237,7 +1244,7 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
   - e) a szavatossággal, illetve jótállással kapcsolatos minőségi kifogások intézése, a fogyasztót megillető jogok,
   - f) a tisztességes szerződési feltételek kialakítása,
   - g) a speciális értékesítési formákra (távollévők között kötött szerződésekre, üzlethelyiségen kívül kötött szerződésekre) vonatkozó szabályok,
-  - h) a megyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
+  - h) a vármegyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
   - i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 - 1.1.2. Szabadon választható szakirányok:
 - 1.1.2.1. Elektronikus hírközlés szakirány:

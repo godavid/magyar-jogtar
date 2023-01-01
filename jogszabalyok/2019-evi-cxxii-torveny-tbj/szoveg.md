@@ -56,7 +56,17 @@ szabályai szerint kell alkalmazni.
   - 2.5. a nem közjegyzői iroda tagjaként tevékenykedő közjegyző,
   - 2.6. a nem végrehajtói iroda tagjaként tevékenykedő önálló bírósági végrehajtó.
 - 3. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
-- 4. Foglalkoztató: 4.1. bármely jogi és természetes személy, egyéni vállalkozó, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat, 4.2. társas vállalkozó esetén a társas vállalkozás, 4.3. az álláskeresési járadékban, keresetpótló juttatásban, valamint álláskeresést ösztönző juttatásban, nyugdíj előtti álláskeresési segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő, biztosítottnak minősülő személy esetén az ellátást folyósító szerv, 4.4. a gyermekgondozást segítő ellátásban, a gyermekgondozási díjban, a gyermeknevelési támogatásban, a gyermekek otthongondozási díjában és az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv, 4.5. a Magyar Államkincstár (a továbbiakban: Kincstár) számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.), az adózás rendjéről szóló törvényben (a továbbiakban: Art.), ezek végrehajtására szolgáló rendeletben, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben előírt kötelezettségek tekintetében a Kincstár, 4.6. a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezete szerinti munkavégzés esetén, ha jogszabály másként nem rendelkezik, a kölcsönbeadó, 4.7. több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén az Art.-ban meghatározott munkáltató, 4.8. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban részesülő személy esetében a Nemzeti Adó- és Vámhivatal, 4.9. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
+- 4. Foglalkoztató:
+  - 4.1. bármely jogi és természetes személy, egyéni vállalkozó, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat,
+  - 4.2. társas vállalkozó esetén a társas vállalkozás,
+  - 4.3. az álláskeresési járadékban, keresetpótló juttatásban, valamint álláskeresést ösztönző juttatásban, nyugdíj előtti álláskeresési segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő, biztosítottnak minősülő személy esetén az ellátást folyósító szerv,
+  - 4.4. a gyermekgondozást segítő ellátásban, a gyermekgondozási díjban, a gyermeknevelési támogatásban, a gyermekek otthongondozási díjában és az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv,
+  - 4.5. a Magyar Államkincstár (a továbbiakban: Kincstár) számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.), az adózás rendjéről szóló törvényben (a továbbiakban: Art.), ezek végrehajtására szolgáló rendeletben, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben előírt kötelezettségek tekintetében a Kincstár,
+  - 4.6. a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezete szerinti munkavégzés esetén, ha jogszabály másként nem rendelkezik, a kölcsönbeadó,
+  - 4.7. több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén az Art.-ban meghatározott munkáltató,
+  - 4.8. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban részesülő személy esetében a Nemzeti Adó- és Vámhivatal,
+  - 4.9. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
+  - 4.10. a 4.1. ponttól eltérően az Mt. szerinti munkaszerződéstől eltérő foglalkoztatás keretében más munkáltatónál történő foglalkoztatás, vezénylés esetén – kivéve, ha a foglakoztatott személy a tevékenységet egyidejűleg más biztosítási kötelezettséggel járó jogviszony alapján látja el – az eredeti munkáltató (szerződő), akkor is, ha az érintettek úgy állapodnak meg, hogy a biztosított munkabérét, egyéb juttatásait az teljesíti, ahol a biztosított ideiglenesen foglalkoztatva van, azzal, hogy a felek egymás között olyan adatátadási, elszámolási módszert működtetnek, amely lehetővé teszi, hogy az eredeti munkáltató (szerződő) a járulékkal összefüggő adókötelezettségét teljesítse.
 - 5. Foglalkoztatott: aki nem minősül egyéni, illetve társas vállalkozónak és foglalkoztatója biztosítással járó jogviszony keretében foglalkoztatja.
 - 6. Fogvatartott: akinek őrizetét rendelték el, az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, továbbá a letartóztatott, a szabadságvesztést vagy elzárást töltő, valamint a kényszergyógykezelés vagy előzetes kényszergyógykezelés alatt álló személy.
 - 7. Harmadik állam: az Európai Gazdasági Térség és Magyarország által kötött kétoldalú szociális biztonságról szóló egyezmény hatálya alá nem tartozó állam.
@@ -243,6 +253,7 @@ tart.
 
 - a) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által Magyarország területén foglalkoztatott, harmadik állam állampolgárságával rendelkező és külföldinek minősülő munkavállalóra, ha a munkavégzésre kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében kerül sor, feltéve, hogy e munkavégzés a két évet nem haladja meg, és az előző belföldi munkavégzés befejezésétől számítva három év eltelt;
 - b) az Nftv. 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra.
+- c) az Szja tv. 1. számú melléklet 4. pont 4.51. alpontja szerinti munkaviszonyra vagy díjazás ellenében munkavégzésre irányuló egyéb (megbízási szerződés, egyéni vállalkozónak nem minősülő vállalkozási szerződés alapján létrejött) jogviszonyra.
 
 18. § (1) A 17. § (2) bekezdés a) pontjában foglalt rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását az 1. melléklet szerint igazolja, függetlenül attól, hogy a kiküldött személy állampolgársága szerinti állammal Magyarországnak hatályos szociális biztonsági egyezménye áll fenn.
 
@@ -474,14 +485,13 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 #### 15. Az egyéni vállalkozók járulékfizetése
 
-40. § (1) A biztosított egyéni vállalkozó a társadalombiztosítási járulékot
+40. § (1) A biztosított vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó tárgyhavi társadalombiztosítási járulékának alapja a vállalkozói kivét.
 
-- a) vállalkozói jövedelem szerinti adózás esetén a vállalkozói kivét,
-- b) átalányadózás esetén az átalányban megállapított jövedelem (ide nem értve az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének adómentes részét)
+(2) Az Szja tv. szerinti átalányadózást alkalmazó biztosított egyéni vállalkozót havonta terhelő társadalombiztosítási járulék alapja az év elejétől [a Tbj. 6. § (1) bekezdés d) pont szerinti biztosítási jogviszony keletkezésétől] a tárgynegyedév utolsó napjáig (az egyéni vállalkozói biztosítási jogviszony megszűnéséig) átalányban megállapított, személyi jövedelemadó köteles jövedelem, csökkentve az év korábbi negyedévében, negyedéveiben járulékalapként figyelembe vett összeggel, elosztva annyi hónappal, ahány hónapban az egyéni vállalkozói biztosítási jogviszony a tárgynegyedévben (akár egyetlen napig is) fennállt.
 
-után fizeti meg. A társadalombiztosítási járulék alapja havonta legalább a minimálbér.
+(3) A biztosított egyéni vállalkozó társadalombiztosítási járulékának alapja havonta legalább a minimálbér.
 
-(2) Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles a társadalombiztosítási járulékot fizetni arra az időtartamra, amely alatt
+(4) Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles a társadalombiztosítási járulékot fizetni arra az időtartamra, amely alatt
 
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül,
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja,
@@ -490,7 +500,7 @@ után fizeti meg. A társadalombiztosítási járulék alapja havonta legalább 
 - e) fogvatartott,
 - f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét szünetelteti.
 
-(3) Ha a (2) bekezdésben meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
+(5) Ha a (4) bekezdésben meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
 
 #### 16. A mezőgazdasági őstermelő járulékfizetése
 
@@ -654,9 +664,9 @@ kívánja szolgálati időként elismertetni.
 
 (8) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás a csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj elbírálása tárgyában hozott határozat elleni jogorvoslatra meghatározott idő lejártáig kezdeményezhető, és a járulékot a megállapodás megkötését követő öt napon belül egy összegben kell megfizetni.
 
-53. § (1) A 48. § szerinti megállapodást a megállapodást kötő személy lakóhelye szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatallal, magyarországi lakóhely hiányában a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi kormányhivatallal kell megkötni.
+53. § (1) A 48. § szerinti megállapodást a megállapodást kötő személy lakóhelye szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatallal, magyarországi lakóhely hiányában a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi kormányhivatallal kell megkötni.
 
-(2) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodást a megállapodást kötő személy lakóhelye szerint illetékes egészségbiztosítási szervként eljáró fővárosi és megyei kormányhivatallal, magyarországi lakóhely hiányában az egészségbiztosítási szervként eljáró fővárosi kormányhivatallal kell megkötni.
+(2) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodást a megállapodást kötő személy lakóhelye szerint illetékes egészségbiztosítási szervként eljáró fővárosi és vármegyei kormányhivatallal, magyarországi lakóhely hiányában az egészségbiztosítási szervként eljáró fővárosi kormányhivatallal kell megkötni.
 
 54. § (1) A 48. § (4) bekezdés b) pontja szerinti megállapodás megkötésére a megállapodást kötő személyre – ha a megállapodást más javára kötik, a kedvezményezettre – irányadó öregségi nyugdíjkorhatár betöltése után kerülhet sor.
 
@@ -690,7 +700,7 @@ kívánja szolgálati időként elismertetni.
 
 57. § (1) A Kincstár központi szerve vezeti az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a szociális és a kapcsolódó nyilvántartások azonosító kódjaként alkalmazandó TAJ számmal rendelkező természetes személyek nyilvántartását (a továbbiakban: TAJ nyilvántartás), és jogszabályban meghatározottak szerint ellátja a TAJ szám képzésével kapcsolatos feladatokat.
 
-(2) A TAJ nyilvántartásban az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a munkanélküli és a szociális ellátásokhoz, szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat:
+(2) A TAJ nyilvántartásban az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, az álláskeresési és a szociális ellátásokhoz, szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat:
 
 - a) TAJ szám,
 - b) név (születési családi és utónév, viselt családi név és utónév),
@@ -739,6 +749,8 @@ kívánja szolgálati időként elismertetni.
 
 (3) Az egészségbiztosítási nyilvántartásban szereplő személyes adatok az érintett természetes személy elhunytát követő 30 évig nem törölhetőek.
 
+(4) Az állami adó- és vámhatóság adóigazgatási eljárás, adategyeztetés és járulékfizetési kötelezettség teljesítésének vizsgálata, valamint biztosítotti jogviszonnyal kapcsolatos adategyeztetés céljából jogosult a (2) bekezdés a)–e), m), o)–r) és t) pontjaiban megjelölt adatok kezelésére. Az egészségbiztosítási nyilvántartást vezető szerv ezen adatokról az állami adó- és vámhatóság részére egyedi megkeresés alapján elektronikus úton adatot szolgáltat.
+
 59. § (1) Az 55. § szerinti nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási járulékalapot képező jövedelem, a biztosított után megfizetett, a tőle levont társadalombiztosítási járulék összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 
 (2) Az 55. § szerinti nyilvántartások az (1) bekezdésben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásoknak minősülnek.
@@ -750,6 +762,23 @@ kívánja szolgálati időként elismertetni.
 (5) Az állami adóhatóság a (4) bekezdésben foglaltakon túl az Art.-ban meghatározott adatokat a társadalombiztosítási igazgatási szervnek átadja. Ha a felhasználás során a felhasználó igazgatási szervnek eltérő tény, adat jut tudomására, erről köteles az állami adóhatóságot értesíteni.
 
 (6) Az egészségbiztosítási szerv az általa nyilvántartott követelésekről kérelemre 8 napon belül hatósági bizonyítványt állít ki.
+
+59/A. § (1) Az 57–58. § szerinti nyilvántartásokban szereplő adatok egyeztetése és egységes vezetése céljából az idegenrendészeti hatóság a Kincstár központi szerve és az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv megkeresésére adatot továbbít a nyilvántartásában szereplő természetes személy alábbi adatairól:
+
+- a) családi és utóneve,
+- b) neme,
+- c) állampolgársága vagy hontalan státusza,
+- d) születési családi és utóneve,
+- e) előző családi és utóneve,
+- f) anyja születési családi és utóneve,
+- g) születési helye és ideje,
+- h) a nyilvántartásba történő bekerülés oka,
+- i) a nyilvántartásból való kikerülés oka,
+- j) szálláshelye,
+
+továbbá a fenti adatok változásáról, azok időpontjáról, nyilvántartási jogcíméről és annak változásáról.
+
+(2) A természetes személy (1) bekezdés szerinti adatait a Kincstár központi szerve és az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv a természetes személy elhunytát követő 30 évig kezeli.
 
 ### VII. Fejezet — AZ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG TERJEDELME, ADATVÉDELMI RENDELKEZÉSEK
 
@@ -775,7 +804,7 @@ kívánja szolgálati időként elismertetni.
 - b) az állami adóhatóság, az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adó-végrehajtási eljárás lefolytatása érdekében a 60. § (1) bekezdés a) pontja szerinti adatok, valamint a 60. § (1) bekezdés d) pontjából a munkahelyre és a foglalkoztatási jogviszony időtartamára vonatkozó adatok, támogatás megállapítása és ellenőrzése érdekében a 60. § (1) bekezdés e) pontjából az egészségkárosodás mértékére vonatkozó,
 - c) a munkaügyi és szociális igazgatás szervei az ellátás megállapítása, folyósítása, munkaügyi ellenőrzés céljából a 60. § (1) bekezdés a)–d) és f)–g) pontja szerinti,
 - d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében a 60. § (1) bekezdés a)–e) és g) pontja szerinti,
-- e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal) és a cégbíróságok külön törvényben meghatározottak szerinti,
+- e) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal) és a cégbíróságok külön törvényben meghatározottak szerinti,
 - f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából a 60. § (1) bekezdés a), d) és f) pontja szerinti,
 - g) az egészségügyi államigazgatási szerv egészségfejlesztési tevékenysége ellátása céljából a 60. § (1) bekezdés a)–e) és g) pontja szerinti,
 - h) a köztartozás behajtására törvény által felhatalmazott szervek e tevékenységük ellátása céljából a 60. § (1) bekezdés a)–d) és f) pontja szerinti,
@@ -870,7 +899,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 68. § (1) Az egészségbiztosítási szerv az egészségügyi szolgáltatást igénybe vevő, de az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő személyekről a bejelentési és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – naponta adatot szolgáltat az állami adóhatóságnak.
 
-(2) Az egészségbiztosítási szerv, a foglalkoztatás-felügyeleti hatóság, az állami adó- és vámhatóság a bejelentési kötelezettség ellenőrzése során az Art. szerinti be nem jelentett foglalkoztatás feltárása esetén a jogsértésről szóló határozatának véglegessé válását követően – az adózó bejelentési kötelezettségének önkéntes teljesítése hiányában – az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti.
+(2) Az egészségbiztosítási szerv, a foglalkoztatás-felügyeleti hatóság, az állami adó- és vámhatóság a bejelentési kötelezettség ellenőrzése során az Art. szerinti be nem jelentett foglalkoztatás feltárása esetén, valamint a munkaviszony megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása esetén a jogsértésről szóló határozatának véglegessé válását követően – az adózó bejelentési kötelezettségének önkéntes teljesítése hiányában – az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti.
 
 (3) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő, de biztosítotti státuszát okirattal hitelesen igazoló természetes személyre vonatkozóan a biztosítotti jogviszony fennállásának az egészségbiztosítási szerv eljárása során történő tisztázását követően az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti az állami adó- és vámhatóság felé.
 
@@ -880,7 +909,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 (6) Az állami adóhatóság az (1)–(4) bekezdésben, valamint a 69. § (3) bekezdésében meghatározott adatszolgáltatás alapján ellenőrzi a bejelentési és járulékfizetési kötelezettség teljesítését.
 
-(7) Ha az állami adóhatóság tudomást szerez arról, hogy a foglalkoztató megszűnt, azonban a biztosítás megszűnéséről bejelentés nem történt, az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és a foglalkoztatottak az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatairól tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató megszűnése miatt már nem áll fenn, akkor az egészségbiztosítási szerv a 45. § (3) bekezdése szerinti adatszolgáltatást teljesít az állami adó- és vámhatóságnak.
+(7) Ha az állami adó- és vámhatóság tudomást szerez arról, hogy a foglalkoztató jogutód nélkül megszűnt, az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és adószámáról tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató jogutód nélküli megszűnése miatt már nem áll fenn, akkor az egészségbiztosítási szerv a 45. § (3) bekezdése szerinti adatszolgáltatást teljesít az állami adó- és vámhatóságnak.
 
 (8) Az idegenrendészeti hatóság az állami adóhatóság kérésére a 43. § (1) bekezdésében előírt járulékfizetésre bejelentkező személyek ellenőrzése céljából adatot szolgáltat az állami adóhatóságnak azokról, akik a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározott tartózkodási feltételek teljesítését más EGT-államban fennálló biztosítással (Európai Egészségbiztosítási Kártyával) igazolják. Az adatszolgáltatás az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatokra terjed ki. Az adatszolgáltatás módjáról az állami adóhatóság megállapodást köt az idegenrendészeti hatósággal.
 
@@ -906,12 +935,12 @@ jelenti be az egészségbiztosítási szervnek.
 
 (6) Ha az állami adó- és vámhatóság az (5) bekezdésben foglaltakról nem az egészségbiztosítási szervtől értesül, azonnal elektronikus úton adatot szolgáltat az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
-(7) Az állami adó- és vámhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő kötelezett személy 43. § szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően igazolja (különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal), hogy
+(7) Az állami adó- és vámhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő kötelezett személy 43. § szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően – különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal – igazolja, hogy
 
 - a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
-- b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll. Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
+- b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
 
-Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
+Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került. Az egészségbiztosítási szerv az adatszolgáltatás alapján a külföldön élő kötelezett személy TAJ számát érvényteleníti és a külföldi biztosításra tekintettel az egészségügyi szolgáltatási járulékfizetési kötelezettséget nyilvántartásában zárja.
 
 (8) Ha egészségügyi szolgáltatás igénybevételére került sor a (7) bekezdésben foglalt időszak alatt, akkor a természetes személy köteles az egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeit megtéríteni. Az igénybe vett egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeinek megfizetésére az egészségbiztosítási szerv kötelezi a természetes személyt a közfinanszírozott szolgáltatótól beérkezett teljesítményjelentés alapján. Ha a kötelezett önként nem téríti meg a költségeket, a követelést az egészségbiztosítási szerv az állami adó- és vámhatóságnak adók módjára behajtandó köztartozásként átadja.
 
@@ -947,7 +976,7 @@ Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, an
 
 15 napon belül az (1) bekezdésben említett igazgatási szervnél bejelentést tesz.
 
-73. § (1) A települési önkormányzat jegyzője, a fővárosban a kerületi jegyző, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében pedig a fővárosi főjegyző, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a 67. § (2) bekezdése szerinti ellátásban részesülő, vagy szociálisan rászorult személyeket az egészségbiztosítási szervnek jelenti be.
+73. § (1) A települési önkormányzat jegyzője, a fővárosban a kerületi jegyző, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében pedig a fővárosi főjegyző, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a 67. § (2) bekezdése szerinti ellátásban részesülő, vagy szociálisan rászorult személyeket az egészségbiztosítási szervnek jelenti be.
 
 (2) A bejelentésre kötelezett a 67. § (3) bekezdés szerinti személyeket a Nemzeti Egészségbiztosítási Alapkezelőnek (a továbbiakban: NEAK) jelenti be.
 
@@ -1003,7 +1032,9 @@ Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, an
 
 77. § (1) A foglalkoztató a foglalkoztatottnak minősülő biztosítottnak a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem, vagy a 27. § (2) bekezdés szerinti járulékfizetési alsó határ alapján köteles a társadalombiztosítási járulékot megállapítani és a biztosítottat terhelő járulékot levonni. A megállapított tárgyhavi járulékot az Art.-ban meghatározottak szerint kell a tárgyhónapot követő hónap 12-éig bevallani, illetve megfizetni az állami adó- és vámhatóságnak. A megállapított járulékot csökkenteni kell azzal az összeggel, amelyet a foglalkoztató az adott jogviszonnyal összefüggésben a tárgyévre vonatkozó túlfizetés miatt fizetett vissza a biztosítottnak. Ha a tárgyhónapban a 27. § (2) bekezdés szerinti járulékfizetési alsó határ után járulék fizetésére kötelezett biztosított részére a járulékfizetési alsó határt elérő jövedelmet nem fizettek, és a tárgyhónapban elszámolt járulék a járulékfizetési alsó határ után számított járulék összegét nem éri el, a foglalkoztató köteles a foglalkoztatottnak minősülő biztosított helyett a járulékalapot képező jövedelem és a járulékfizetési alsó határ közötti különbözet után fizetendő járulékot a törvényben előírt határidőn belül megfizetni. A 27. § (2) bekezdés szerinti járulékfizetési alsó határ vonatkozásában a 82. § szerinti járulék különbözet szabályait alkalmazni nem lehet.
 
-(2) Az egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgyhónapot követő hónap 12-éig vallja be, illetve fizeti meg az állami adóhatóságnak.
+(2) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgyhónapot követő hónap 12. napjáig vallja be, illetve fizeti meg az állami adó- és vámhatóságnak.
+
+(2a) Az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgynegyedévet követő hónap 12. napjáig vallja be, illetve fizeti meg az állami adó- és vámhatóságnak.
 
 (3) A mezőgazdasági őstermelő a társadalombiztosítási járulékot az Art. rendelkezései szerinti adattartalommal elektronikus úton negyedévente, a negyedévet követő hónap 12-éig vallja be és a bevallás benyújtására előírt határidőig fizeti meg az állami adóhatóságnak.
 
@@ -1121,6 +1152,16 @@ Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, an
 - a) a járulék megállapításával, bevallásával, megfizetésével, a kötelezettség keletkezésének bejelentésével, a bejelentett adatok változásával, az ellenőrzéssel, a feltárt jogsértések jogkövetkezményeivel kapcsolatban,
 - b) a járulékkötelezettség teljesítésével kapcsolatos hatósági eljárásra, a tartozások behajtására és végrehajtására, az adatszolgáltatási kötelezettség elmulasztásával és késedelmével, a járulékfizetési kötelezettség, a bejelentési kötelezettség elmulasztásával kapcsolatban,
 - c) a Tny. és az Ebtv. szerinti megtérítési és visszafizetési kötelezettség, mulasztási bírság, késedelmi kamat behajtására, végrehajtására, a behajthatatlan tartozás törlésére, a végrehajtáshoz való jog elévülésére, továbbá a fizetési halasztás, részletfizetés engedélyezésére.
+
+86/A. § (1) Ha a foglalkoztató helyett a biztosítási jogviszony megszűnésének bejelentését az állami adó- és vámhatóság teljesítette az Art. 1. melléklet 3.2. pontja alapján, a biztosítási jogviszony megszűnésének időpontja az állami adó- és vámhatóság által teljesített bejelentésben megjelölt időpont.
+
+(2) Ha a foglalkoztatóról nyilvántartást vezető szerv – ideértve különösen a cégnyilvántartást, egyéni vállalkozói nyilvántartást, civil szervezetek névjegyzékét vezető szervet – által nyilvántartott adatok alapján a foglalkoztató jogutód nélkül megszűnt, és a foglalkoztatott biztosítási jogviszonyának megszűnését az Art. 1. melléklet 3.2. pontja szerint elmulasztotta bejelenteni, a biztosítási jogviszony megszűnésének időpontja az Art. 1. melléklet 3.5. pontjában meghatározott időpont.
+
+86/B. § (1) Ha a magánszemély a biztosítási jogviszony lezárásának a 86/A. § szerinti időpontját vitatja, egyeztetési eljárás lefolytatását kezdeményezheti az egészségbiztosítási szervnél, amely a rá irányadó jogszabályok szerint döntést hoz az egyeztetés eredményéről.
+
+(2) A biztosítottak nyilvántartásáért felelős szerv az (1) bekezdés szerinti egyeztetés eredményéről haladéktalanul elektronikus úton az Art. 1. melléklet 3. pontja szerinti biztosítási jogviszonyra vonatkozó adattartalommal adatszolgáltatást teljesít az állami adó- és vámhatóság részére.
+
+(3) Az állami adó- és vámhatóság a biztosítottak nyilvántartásáért felelős szerv (2) bekezdése szerinti adatszolgáltatása alapján elektronikus úton adatszolgáltatást teljesít a központi nyugdíjbiztosítási szerv részére.
 
 #### 28. Különös szabályok a járulékkötelezettségek teljesítésére vonatkozóan
 
@@ -1565,7 +1606,7 @@ a 25 százalékot.
 
 - 1. A társadalombiztosítási kifizetőhelyet fenntartó foglalkoztató – ideértve a központosított illetményszámfejtő helyeket is – a táppénz-hozzájárulást az általa folyósított társadalombiztosítási ellátások elszámolásán tünteti fel. Ha a biztosított részére az előzőekben meghatározott táppénzt az egészségbiztosítási szerv állapítja meg és folyósítja, a táppénz folyósítását követően a táppénz-hozzájárulás összegét az igazgatási szerv érvényesíti.
 - 2. A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztató 25. § (5) bekezdése szerinti táppénz-hozzájárulás összegét megállapítja, és az általa kifizetett ellátások terhére elszámolja.
-- 3. A társadalombiztosítási kifizetőhellyel nem rendelkező foglalkoztatót terhelő táppénz-hozzájárulás összegét a foglalkoztatott táppénzének megállapítására illetékes, egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: egészségbiztosítási szerv) állapítja meg. A foglalkoztató a határozat véglegessé válását követően a táppénz-hozzájárulást 15 napon belül a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) munkáltatói táppénz-hozzájárulás beszedési számlájára utalja át.
+- 3. A társadalombiztosítási kifizetőhellyel nem rendelkező foglalkoztatót terhelő táppénz-hozzájárulás összegét a foglalkoztatott táppénzének megállapítására illetékes, egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: egészségbiztosítási szerv) állapítja meg. A foglalkoztató a határozat véglegessé válását követően a táppénz-hozzájárulást 15 napon belül a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) munkáltatói táppénz-hozzájárulás beszedési számlájára utalja át.
 - 4. Az egészségbiztosítási szerv a végleges határozatok adatait határozatonként, a foglalkoztató azonosító számát és a követelés összegét, valamint esedékességét tartalmazó adatszolgáltatást teljesít az állami adóhatóság részére. Az adatszolgáltatást elektronikusan, a NAV és a Kincstár közötti megállapodásban rögzített adattartalommal és rendszerességgel, de legkésőbb a tárgyhónapot követő hónap 15-éig kell teljesíteni. Az adatszolgáltatás szerint fennálló követelést az adóhatóság a foglalkoztató adószámláján táppénz-hozzájárulás adónem kötelezettségként írja elő. Az adatszolgáltatás alapját képező végleges határozatok közül az egészségbiztosítási szerv csak azt a határozatot küldi meg kinyomtatva és cégszerűen aláírva az illetékes állami adóhatóság részére, amelyet a végrehajtási kifogás benyújtása esetén az adóhatóság megküldeni kér. Az állami adóhatóság kérésére az egészségbiztosítási szerv a végleges határozatot 8 napon belül papír alapon is megküldi.
 - 5. Az egészségbiztosítási szerv és az állami adóhatóság – a közöttük létrejött megállapodásnak megfelelően – a nyilvántartásában 2011. január 1-jei állapot szerint foglalkoztatónak minősülő szervek tekintetében a foglalkoztató adóazonosító számára, nevére (megnevezésére), címére (székhelyére) vonatkozó adatok tekintetében kölcsönös adategyeztetést valósít meg.
 - 6. A Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Független Rendészeti Panasztestület, a Magyar Honvédség a hivatásos, szerződéses állományú tagjaik, a Nemzeti Adó- és Vámhivatal a pénzügyőri munkakört betöltő foglalkoztatottja részére a társadalombiztosítási ellátás helyett kifizetett pénzbeli juttatásokat a társadalombiztosítási ellátásoknak megfelelő mértékben elszámolhatják.

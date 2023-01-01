@@ -169,7 +169,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - a) köznevelési intézmény vagy szakképző intézmény tanulója, felsőoktatási intézmény első oklevelet szerző hallgatója és jövedelme nincs,
 - b) vakok személyi járadékában vagy fogyatékossági támogatásban részesül,
 - c) megváltozott munkaképességű személyek ellátásában részesül és egyéb jövedelme nincs,
-- d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
+- d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg a szociális vetítési alap összegét, és egyéb jövedelme nincs,
 - e) időskorúak járadékában, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
 - f) a reá irányadó öregségi nyugdíjkorhatárt betöltötte, és jövedelme nincs.
 
@@ -202,9 +202,9 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 16. § Ha a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben vagy szakképző intézményben tanulmányokat folytató gyermeket (személyt) a bíróság szándékos bűncselekmény elkövetése miatt jogerősen bűnösnek mondta ki, de büntetésként rá szabadságvesztést nem szabott ki, a gyermekre (személyre) tekintettel megállapított iskoláztatási támogatást a családtámogatási ügyben eljáró hatóság – az ítéletet hozó bíróság központi családtámogatási szervnek megküldött tájékoztatása alapján, a szüneteltetés elrendelése hónapjától számított 12 naptári hónapon át – szünetelteti.
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
 ### III. Fejezet — GYERMEKGONDOZÁSI TÁMOGATÁSOK
 
@@ -275,7 +275,9 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 24. § A gyermeknevelési támogatásban részesülő személy kereső tevékenységet heti harminc órát meg nem haladó időtartamban folytathat, vagy időkorlátozás nélkül, ha a munkavégzés kizárólag az otthonában történik.
 
-### A gyermekgondozási támogatási formákközös szabályai
+### A gyermekgondozási támogatási formák
+
+közös szabályai
 
 25. § (1) A gyermekgondozási támogatást a gyermekkel közös háztartásban élő szülők bármelyike igénybe veheti. Megállapodás hiányában a támogatást igénylő szülő személyéről – kérelemre – a gyámhatóság dönt.
 
@@ -285,9 +287,9 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (3) Gyermekgondozást segítő ellátásra való jogosultság egyidejűleg legfeljebb két gyermekre tekintettel állhat fenn azzal, hogy a (2a) és e bekezdés, valamint a 26. § (2) bekezdése alkalmazásában az egyazon várandósságból született ikergyermekeket egy gyermeknek kell tekinteni.
 
-26. § (1) A gyermeknevelési támogatás havi összege – függetlenül a gyermekek számától – azonos az öregségi nyugdíj mindenkori legkisebb összegével, töredékhónap esetén egy naptári napra a havi összeg harmincad része jár.
+26. § (1) A gyermeknevelési támogatás havi összege – függetlenül a gyermekek számától – azonos a szociális vetítési alap összegével, töredékhónap esetén egy naptári napra a havi összeg harmincad része jár.
 
-(2) A gyermekgondozást segítő ellátás havi összege gyermekenként – ide nem értve az egyazon várandósságból született ikergyermekeket – azonos az öregségi nyugdíj mindenkori legkisebb összegével. Az egyazon várandósságból született ikergyermekek esetében az ellátás havi összege megegyezik az öregségi nyugdíj mindenkori legkisebb összegének és az ikergyermekek számának szorzatával. Töredékhónap esetén egy naptári napra a havi összeg harmincad része jár.
+(2) A gyermekgondozást segítő ellátás havi összege gyermekenként – ide nem értve az egyazon várandósságból született ikergyermekeket – azonos a szociális vetítési alap összegével. Az egyazon várandósságból született ikergyermekek esetében az ellátás havi összege megegyezik a szociális vetítési alap összegének és az ikergyermekek számának szorzatával. Töredékhónap esetén egy naptári napra a havi összeg harmincad része jár.
 
 27. § (1) Nem jár gyermekgondozási támogatás annak a személynek, aki
 
@@ -321,7 +323,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 30. § Amennyiben az anyasági támogatásra jogosult nő a támogatás felvételét megelőzően meghal, úgy az anyasági támogatást az anyával egy háztartásban élt apának kell kifizetni, ezen személy hiányában annak a személynek, aki a gyermek gondozását ellátja.
 
-31. § Az anyasági támogatás – gyermekenkénti – összege azonos a gyermek születésének időpontjában érvényes öregségi nyugdíj legkisebb összegének 225%-ával, ikergyermekek esetén 300%-ával.
+31. § Az anyasági támogatás – gyermekenkénti – összege azonos a gyermek születésének időpontjában hatályos szociális vetítési alap összegének 225%-ával, ikergyermekek esetén 300%-ával.
 
 32. § (1) Az anyasági támogatás megállapítása iránti kérelmet – a (2) bekezdésben meghatározott kivétellel – a szülést követő hat hónapon belül lehet benyújtani.
 
@@ -541,8 +543,8 @@ fennállásáról, szüneteléséről és megszűnéséről.
 (2) Az egységes szociális nyilvántartásból
 
 - a) a települési önkormányzat jegyzője az általa megállapított támogatások feltételeinek meghatározása érdekében szükséges adatokat,
-- b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
-- c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a Gyvt. szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
+- b) fővárosi és vármegyei kormányhivatal, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
+- c) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a Gyvt. szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
 - d) a Diákhitel Központ Zrt. a célzott kamattámogatás megállapításához és a Diákhitel Központ Zrt. célzott kamattámogatás megállapításával összefüggő döntésével szemben benyújtott kifogás elbírálására jogosult szerv a kifogás elbírálásához szükséges adatokat,
 - e) a települési önkormányzat képviselő-testülete az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
 - f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat,
@@ -581,7 +583,7 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 
 (3) A babaváró támogatással nyújtott kölcsön biztosítékaként az állami készfizető kezességvállaláson túl a hitelintézet további biztosíték előírására nem jogosult.
 
-50/C. §
+#### 50/C. §
 
 50/C. § Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvénnyel megállapított 25. § (2) és (3) bekezdésében és 27. § (1) bekezdés a) pont ab) alpontjában foglaltakat a 2013. december 31-ét követően született vagy a szülő, gyám háztartásába került első gyermek esetében, továbbá azon 2013. december 31-ét követően született vagy a szülő, gyám háztartásába került második vagy további gyermek esetében kell alkalmazni, akinek a szülője, gyámja a háztartásában 2014. január 1-jét megelőzően született vagy háztartásba került, a 20. § (1) bekezdés a)–c) pontja szerinti életkorú gyermeket nevel.
 
@@ -599,7 +601,7 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 - d) a Kormány, hogy a családtámogatási ügyben eljáró hatóságot és a központi családtámogatási szervet rendeletben kijelölje;
 - e) a Kormány arra, hogy rendeletben szabályozza a babaváró támogatással nyújtott kölcsönhöz kapcsolódó állami kezességvállalás részletes szabályait.
 
-52. §
+#### 52. §
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -613,7 +615,7 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 - f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv,
 - g) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv.
 
-53/A. §
+#### 53/A. §
 
 54. § Ez a törvény
 

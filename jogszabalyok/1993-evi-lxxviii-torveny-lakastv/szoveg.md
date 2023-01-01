@@ -14,13 +14,13 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 1/A. § (1) E törvényt és az e törvény végrehajtására kiadott rendeletet kell alkalmazni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan tulajdonjogának külföldi jogi személy vagy külföldi természetes személy által történő megszerzésére, ide nem értve az öröklés esetét.
 
-(2) A külföldi jogi személy vagy a külföldi természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal engedélyével szerezheti meg.
+(2) A külföldi jogi személy vagy a külföldi természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) engedélyével szerezheti meg.
 
 (2a) Az ingatlan tulajdonjogának az (1) bekezdés szerinti megszerzése nem engedélyezhető, ha az a közérdeket sértené. A közérdek sérelmének minősül, ha a kérelmező külföldi természetes személy büntetett előéletű. Külföldi jogi személy kérelmező esetén a közérdek sérelme akkor valósul meg, ha a fióktelep vagy kereskedelmi képviselet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerint alkalmazott tevékenység korlátozására vonatkozó intézkedés hatálya alatt áll. Az e törvény végrehajtására kiadott kormányrendelet a közérdek sérelmének a tulajdonjog megszerzése engedélyezését kizáró további eseteit állapíthatja meg.
 
 (2b)
 
-(3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
+(3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
 
 (4)
 
@@ -80,7 +80,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (2) A lakás rendeltetésszerű használatra akkor alkalmas, ha az épület központi berendezéseinek a lakásban lévő részei és a lakásberendezések üzemképesek.
 
-8. §
+#### 8. §
 
 9. § (1) A bérbeadó és a bérlő megállapodhatnak, hogy a lakást a bérlő teszi rendeltetésszerű használatra alkalmassá és látja el a komfortfokozatának megfelelő lakásberendezésekkel. A megállapodásban a felmerülő költségek megtérítését és annak feltételeit is meg kell határozni.
 
@@ -276,7 +276,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (3) A 26. § (1) bekezdése szerinti felmondás esetén a bérlő igényt tarthat arra, hogy a bérbeadó térítse meg a lakásváltoztatással kapcsolatban felmerült indokolt költségeit.
 
-28. §
+#### 28. §
 
 29. § (1) A bérlő a lakás bérleti jogát – a bérbeadó hozzájárulásával – elcserélheti; a csereszerződést írásba kell foglalni.
 
@@ -476,7 +476,7 @@ illeti meg.
 
 47. § (1) Az e törvény alapján vételi joggal érintett lakásnak az 52. § szerint megállapított forgalmi értékét a vételi jog jogosultjával az erre irányuló kérelme benyújtásától számított hat hónapon belül közölni kell. A közlés késedelméből eredő kárért a tulajdonos állam, illetve önkormányzat felel. A vételi jog jogosultja a forgalmi érték megállapítását a tulajdonos államtól, illetve önkormányzattól e rendelkezés hatálybalépését követő – vagy ha a vételi jog alapjául szolgáló bérleti jogviszony időtartama e rendelkezés hatálybalépésekor az öt évet még nem éri el, úgy az öt év elteltét követő – egy éven belül kérheti, e határidőt követően benyújtott kérelme esetén vételi jogát nem gyakorolhatja.
 
-(2) Ha a tulajdonos önkormányzat az (1) bekezdés szerinti forgalmi értéket a vételi jog jogosultjával hat hónapon belül nem közli, úgy a vételi jog jogosultjának kérésére az állam köteles a forgalmi érték megállapításáról és annak jogosulttal való közléséről gondoskodni, amely esetben az állam részéről ezzel kapcsolatosan felmerült költségeket a tulajdonos önkormányzat köteles az állam részére megtéríteni.
+(2) Ha a tulajdonos állam vagy önkormányzat az (1) bekezdés szerinti forgalmi értéket a vételi jog jogosultjával hat hónapon belül nem közli, úgy a vételi jog jogosultjának kérésére a lakás fekvése szerint illetékes kormányhivatal szakértőt rendel ki a forgalmi érték megállapítása érdekében és gondoskodik a szakértő által megállapított forgalmi érték jogosulttal való közléséről, amely esetben az állam részéről ezzel kapcsolatosan felmerült költségeket a tulajdonos önkormányzat az állam részére megtéríti.
 
 (3) A vételi joggal érintett lakás vételára a forgalmi érték
 
@@ -487,7 +487,7 @@ illeti meg.
 
 (5) A (4) bekezdés szerinti esetben a tulajdonos állam vagy önkormányzat az (1) bekezdésben meghatározott, a lakás forgalmi értékének közlésére rendelkezésre álló időtartamon belül – a forgalmi érték közlésével együtt –, a rendelkezésére álló iratok alapján egyedileg állapítja meg a lakás (4) bekezdés szerinti, annak forgalmi értékéhez viszonyított pontos vételárát és közli azt a vételi jog jogosultjával, melynek során – az eredeti cserére tekintettel megfelelő módon – figyelembe veszi a cserével érintett lakásoknak a csere időpontjában fennálló forgalmi értékét és azok egymáshoz viszonyított arányát.
 
-(6) Ha a vételi jog jogosultja vitatja a tulajdonos állam vagy önkormányzat által közölt forgalmi értéket vagy az (5) bekezdés alapján megállapított vételárat, akkor a forgalmi érték, illetve a vételár közlését követő 60 napon belül a lakás fekvése szerint illetékes fővárosi és megyei kormányhivataltól (a továbbiakban: kormányhivatal) kérheti a forgalmi érték, illetve a lakás forgalmi értékhez viszonyított vételárának megállapítását.
+(6) Ha a vételi jog jogosultja vitatja a tulajdonos állam vagy önkormányzat által közölt forgalmi értéket vagy az (5) bekezdés alapján megállapított vételárat, akkor a forgalmi érték, illetve a vételár közlését követő 60 napon belül a lakás fekvése szerint illetékes kormányhivataltól kérheti a forgalmi érték, illetve a lakás forgalmi értékhez viszonyított vételárának megállapítását.
 
 (7) A vételár egy összegben való megfizetése esetén a jogosultat a vételárból további 5 százalék árengedmény illeti meg.
 
@@ -570,7 +570,7 @@ illeti meg.
 
 (2)
 
-(3) Az életvédelem céljait szolgáló helyiséget a megyei (fővárosi) polgári védelmi parancsnokság hozzájárulásával lehet elidegeníteni.
+(3) Az életvédelem céljait szolgáló helyiséget a vármegyei (fővárosi) polgári védelmi parancsnokság hozzájárulásával lehet elidegeníteni.
 
 (4) A műemléképületben lévő lakást vagy helyiséget a műemléki hatóság hozzájárulásával, a külön jogszabály rendelkezéseinek figyelembevételével lehet elidegeníteni.
 
@@ -656,11 +656,11 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 használható fel.
 
-62/B. §
+#### 62/B. §
 
-63. §
+#### 63. §
 
-63/A. §
+#### 63/A. §
 
 64. § (1) Az önkormányzati tulajdonú lakóépületek (lakóépületrészek) felújításához igénybe vett pénzintézeti kölcsön visszafizetésére az állam garanciát vállal és kamatainak megfizetéséhez támogatást nyújt.
 
@@ -670,7 +670,9 @@ használható fel.
 
 (4) Felhatalmazást kap a Kormány, hogy az állami garanciavállalás és a kamattámogatás feltételeit jogszabályban határozza meg.
 
-### Ingatlanközvetítés,ingatlanvagyon-értékelés és közvetítés
+### Ingatlanközvetítés,
+
+ingatlanvagyon-értékelés és közvetítés
 
 64/A. § (1) Az üzletszerű ingatlanközvetítői tevékenység az ingatlanvállalkozás-felügyeleti hatósághoz benyújtott, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján folytatható.
 
@@ -748,25 +750,25 @@ használható fel.
 
 65. § Önkormányzati lakásra — megállapodás alapján fennálló, illetőleg e törvény hatálybalépésekor jogszabályban biztosított — ismételten gyakorolható bérlőkiválasztási jog jogosultját a bérlő kiválasztásának joga változatlanul megilleti.
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
 68. § (1) A szociális intézményből elbocsátott személynek, ha a lakásügyi hatóság javára a lakásbérleti jogviszonyról az intézménybe utaláskor pénzbeli térítés nélkül mondott le, az az önkormányzat köteles megfelelő és beköltözhető lakást bérbe adni, amelyik a lemondással érintett lakás tulajdonosává vált.
 
 (2) Ha az intézménybe utaláskor a bérlő a lakásbérleti jogviszonyáról pénzbeli térítés ellenében mondott le a lakásügyi hatóság javára, a másik lakás bérbeadásának feltételeit az önkormányzat rendeletben szabályozza.
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
 75. § (1) A szolgálati lakásra kötött szerződés megszűnik akkor is, ha a bérlőnek
 
@@ -788,9 +790,9 @@ használható fel.
 
 (5) E törvény a hatálybalépésekor már fennálló bérlőtársi jogviszonyt nem érinti.
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
 ### IX. Fejezet — Az önkormányzatokra vonatkozó külön rendelkezések
 
@@ -810,7 +812,7 @@ használható fel.
 
 (3) Az (1)–(2) bekezdések rendelkezéseit megfelelően alkalmazni kell az Egészségbiztosítási Önkormányzat tulajdonából állami tulajdonba és az egészségbiztosítási szerv vagyonkezelésébe került, bérbeadás útján hasznosított lakásokra és helyiségekre.
 
-82. §
+#### 82. §
 
 83. § (1) A bérbeadás útján hasznosított önkormányzati lakás és helyiség tulajdonjoga nem pénzbeli hozzájárulásként nem bocsátható gazdasági társaság vagy más, a cégnyilvántartás hatálya alá tartozó jogalany rendelkezésére.
 
@@ -840,15 +842,15 @@ használható fel.
 
 (10) Ha a kényszerbérlet fennállása, a cserelakás megfelelősége vagy más – a kényszerbérleti jogviszonnyal kapcsolatos – kérdésben vita keletkezik, a keresetlevélnek a bírósághoz történő benyújtásától a bíróság határozatának jogerőre emelkedéséig terjedő idő az (1) bekezdés szerinti időtartamba nem számít bele.
 
-85/A. §
+#### 85/A. §
 
-85/B. §
+#### 85/B. §
 
-85/C. §
+#### 85/C. §
 
-85/D. §
+#### 85/D. §
 
-85/E. §
+#### 85/E. §
 
 ### A települési önkormányzat elővásárlási joga lakóingatlan kényszerértékesítése során
 
@@ -899,7 +901,7 @@ használható fel.
 
 87/B. § Felhatalmazást kap a Kormány, hogy az e törvény szerinti üzletszerű ingatlanközvetítői, illetve üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének rendjét, a bejelentés alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat rendeletben szabályozza.
 
-87/C. §
+#### 87/C. §
 
 ### A közös tulajdonra vonatkozó szabályok
 

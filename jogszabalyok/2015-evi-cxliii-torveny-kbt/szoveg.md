@@ -88,7 +88,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - 36. részvételre jelentkező: az a gazdasági szereplő, aki (amely) több szakaszból álló közbeszerzési eljárás első, részvételi szakaszában vagy koncessziós beszerzési eljárásban részvételi jelentkezést nyújt be;
 - 37. szakmai ajánlat: a beszerzés tárgyára, valamint a műszaki leírásban és a szerződéses feltételekben foglalt ajánlatkérői előírásokra tett ajánlat;
 - 38. fejlesztő foglalkoztató: a szociális igazgatásról és a szociális ellátásokról szóló törvény 99/D. § (1) bekezdése szerinti szervezet;
-- 39. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt, a kezességvállalást, és az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott célra nyújtott támogatását, valamint az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott kedvezményezett célra történő felajánlását;
+- 39.
 - 40. tervpályázat: olyan jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként a település- és területrendezés, építészet és építés, adatfeldolgozás területén – olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
 - 40a. védelmi és biztonsági tárgyú koncesszió: a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 4. § (1) és (2) bekezdésében meghatározott célra irányuló olyan beszerzés, amely a 8. § (5)–(6) bekezdése szerint építési vagy szolgáltatási koncessziónak minősül;
 - 41. védett munkahely: az akkreditált munkáltató általi foglalkoztatás, ha a munkáltató biztosít tranzit- vagy tartós foglalkoztatást, és a munkavállalóinak legalább a 30%-a a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személynek minősül, valamint az olyan munkáltató, amely működésének fő célja hátrányos helyzetű munkavállalók foglalkoztatása.
@@ -202,9 +202,9 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - a) a külön törvényben meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott,
 - b) az a) pont alá nem tartozó
   - ba) azon beszerzésekre, amelyek esetében a közbeszerzési szabályok alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes az állam biztonságához fűződő alapvető érdekeivel,
-  - bb) olyan beszerzésekre, amelyek esetében Magyarország alapvető biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak,
+  - bb) olyan beszerzésekre, amelyek esetében Magyarország alapvető biztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárás alóli mentesüléshez képest kisebb beavatkozással járó intézkedésekkel nem garantálhatóak,
 
-és amelyek megrendelésére az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott;
+és amelyek megrendelésére az Országgyűlés illetékes bizottsága jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott;
 
 - c) nemzetközi megállapodásban vagy nemzetközi egyezményben meghatározott külön eljárás szerint történő beszerzésre, ha az Európai Unión kívüli állammal az Európai Unió Működéséről szóló Szerződésnek (a továbbiakban: EUMSZ) megfelelően kötött nemzetközi megállapodás vagy nemzetközi egyezmény projekt közös megvalósításával vagy hasznosításával összefüggő beszerzésre vonatkozik, azzal, hogy a nemzetközi megállapodás vagy nemzetközi egyezmény megkötéséről az Európai Bizottságot tájékoztatni kell;
 - d) csapatok (katonai erők) állomásoztatására, átvonulására, alkalmazására – ideértve a hadműveleti területre kihelyezésre (áthelyezésre), visszahelyezésre kerülő egységek esetében a kihelyezés (áthelyezés), visszahelyezés megvalósításával összefüggő beszerzéseket is – vonatkozó nemzetközi megállapodásban vagy nemzetközi egyezményben meghatározott külön eljárás szerint történő beszerzésre;
@@ -887,6 +887,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (2) Az ajánlatkérő az érvényes ajánlatot tevő ajánlattevő kérésére az eljárás eredményének megküldését követően köteles külön tájékoztatást adni a nyertes ajánlat jellemzőiről és az általa tett ajánlathoz viszonyított előnyeiről, valamint tárgyalásos eljárás, versenypárbeszéd és innovációs partnerség esetén az ajánlattevőkkel folytatott tárgyalások és párbeszéd menetéről a kérés kézhezvételétől számított öt munkanapon belül, figyelembe véve a nyertes ajánlattevő üzleti titokhoz fűződő érdekeit is.
 
+(3) Ha az ajánlatkérő az (1) bekezdés szerinti egyes iratokba való betekintést vagy a (2) bekezdés szerinti tájékoztatást a kérelemmel érintett gazdasági szereplő üzleti titokhoz fűződő érdekeire hivatkozással megtagadja, köteles – az általa elfogadott, a 44. § (1) bekezdése szerinti indokolásnak megfelelően – a kérelmet benyújtó gazdasági szereplővel közölni az érintett információk üzleti titokként való kezelésének indokait és – az információk bizalmasságának fenntartása mellett – az üzleti titokként kezelt információk alapvető jellegét.
+
 ### Az eljárások dokumentálása, határidők számítása
 
 46. § (1) Az ajánlatkérő a közbeszerzési eljárását – annak előkészítésétől az eljárás alapján kötött szerződés teljesítéséig – írásban köteles dokumentálni.
@@ -1368,7 +1370,7 @@ az ajánlatkérő ezen ajánlattevő ajánlatának figyelmen kívül hagyásáva
 
 (3) Az ajánlatkérő a részvételi jelentkezéseket köteles a lehető legrövidebb időn belül elbírálni. Ha a részvételi felhívásban feltüntetett, az ajánlattételi felhívás megküldésének időpontjáig a bírálatot nem tudja befejezni, minden részvételre jelentkezőnek egyidejűleg értesítést küld az ajánlattételi felhívás megküldésének – annak eredeti időpontjától számított hatvan napnál nem későbbi – új időpontjáról, és a részvételi szakasz eredményéről ezt megelőzően kell a részvételre jelentkezőket értesíteni.
 
-(4) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a közbeszerzési eljárás felfüggesztésének ideje alatt az ajánlatkérő nem hozhatja meg az eljárás részvételi szakaszát lezáró döntést vagy az eljárást lezáró döntést, valamint az ajánlatkérőre irányadó folyamatban lévő határidők a felfüggesztés időtartamával meghosszabbodnak.
+(4) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét követően függeszti fel a közbeszerzési eljárást, a közbeszerzési eljárás felfüggesztésének ideje alatt az ajánlatkérő nem hozhatja meg az eljárás részvételi szakaszát lezáró döntést vagy az eljárást lezáró döntést, valamint az ajánlatkérőre irányadó folyamatban lévő határidők a felfüggesztés időtartamával meghosszabbodnak.
 
 ### Hiánypótlás, felvilágosításkérés és a számítási hiba javítása
 
@@ -1380,7 +1382,7 @@ az ajánlatkérő ezen ajánlattevő ajánlatának figyelmen kívül hagyásáva
 
 (3a) Az ajánlati biztosíték 54. § (2) bekezdés szerinti rendelkezésre bocsátása vonatkozásában hiánypótlásra van az ajánlattevőnek lehetősége, ha az ajánlatában a biztosítékra vonatkozó igazolást nem csatolja, vagy nem az előírt formában csatolja, de a biztosíték rendelkezésre bocsátása az előírásoknak megfelelően megtörtént vagy a biztosíték kötelezettje garanciavállalás esetén a garanciavállaló nyilatkozatot, készfizető kezesség biztosítása esetén a kezességvállaló nyilatkozatot vagy a biztosítási szerződés alapján a készfizető kezességvállalást tartalmazó kötelezvényt az ajánlati kötöttség beálltáig kiállította.
 
-(4) Ha az ajánlatkérő megállapítja, hogy az ajánlattevő vagy részvételre jelentkező az alkalmasság igazolásához olyan gazdasági szereplő kapacitásaira támaszkodik, vagy olyan alvállalkozót nevezett meg, amely a 62. § (1) bekezdés a)–f), h) és k)–n) pontja szerinti, korábbi eljárásban tanúsított magatartás alapján a j) pontja szerinti vagy – ha az ajánlatkérő előírta – a 63. § szerinti kizáró ok hatálya alatt áll, a kizáró okkal érintett gazdasági szereplő kizárása mellett hiánypótlás keretében felhívja az ajánlattevőt vagy részvételre jelentkezőt a kizárt helyett szükség esetén más gazdasági szereplő megnevezésére.
+(4) Ha az ajánlatkérő megállapítja, hogy az ajánlattevő vagy részvételre jelentkező az alkalmasság igazolásához olyan gazdasági szereplő kapacitásaira támaszkodik, vagy olyan alvállalkozót nevezett meg, amely a 62. § (1) bekezdése szerinti, vagy – ha az ajánlatkérő előírta – a 63. § szerinti kizáró ok hatálya alatt áll, akkor a kizáró okkal érintett gazdasági szereplő kizárása mellett hiánypótlás keretében felhívja az ajánlattevőt vagy részvételre jelentkezőt a kizárt helyett szükség esetén más gazdasági szereplő megnevezésére, kivéve ha az ajánlat vagy a részvételi jelentkezés a 73. § (1) bekezdés c) pontja szerint érvénytelen.
 
 (5) Amíg bármely ajánlattevő vagy részvételre jelentkező számára hiánypótlásra vagy felvilágosítás nyújtására – a (2) bekezdés szerinti felszólításban, illetve értesítésben megjelölt – határidő van folyamatban, az ajánlattevő vagy részvételre jelentkező pótolhat olyan hiányokat, amelyekre nézve az ajánlatkérő nem hívta fel hiánypótlásra. Amennyiben a hiánypótlási felszólítás az ajánlatkérő 69. § (4) bekezdése szerinti felhívására benyújtott dokumentumokra vonatkozik vagy a hiánypótlási felhívás a 80. § (4) bekezdése alapján történik, csak a hiánypótlásra felhívott ajánlattevő vagy részvételre jelentkező élhet az e bekezdésben szabályozott, önkéntes hiánypótlás lehetőségével.
 
@@ -1435,7 +1437,7 @@ vonatkozik.
 
 - a) azt az ajánlattételi, illetve részvételi határidő lejárta után nyújtották be;
 - b) az ajánlattevőt, részvételre jelentkezőt az eljárásból kizárták;
-- c) ha az ajánlattevő vagy részvételre jelentkező alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet a 62. § (1) bekezdés i) pontja, vagy az adott eljárásban felmerült magatartása alapján j) pontja szerinti kizáró ok miatt kizárásra került;
+- c) az ajánlattevő vagy részvételre jelentkező alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok miatt kizárásra került és az ajánlattevő vagy részvételre jelentkező nem bizonyította, hogy a kizáró ok fennállásáról nem tudott, vagy arról az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie, valamint a 62. § (1) bekezdés o) pontja szerinti esetben az előbbieken túl nem bizonyította, hogy a kizáró ok fennállása a részvételre jelentkezést, illetve az ajánlattételt nem befolyásolta;
 - d) az ajánlattevő vagy részvételre jelentkező nem felel meg a szerződés teljesítéséhez szükséges alkalmassági követelményeknek, vagy nem igazolta megfelelően a követelményeknek való megfelelést;
 - e) egyéb módon nem felel meg az ajánlati, ajánlattételi vagy részvételi felhívásban és a közbeszerzési dokumentumokban, valamint a jogszabályokban meghatározott feltételeknek, ide nem értve a részvételi jelentkezés és az ajánlat ajánlatkérő által előírt formai követelményeit;
 - f) az ajánlattevő vagy részvételre jelentkező
@@ -1455,6 +1457,8 @@ vonatkozik.
 - a) azt az ajánlati kötöttség fennállása ellenére az ajánlattevő visszavonta;
 - b) az ajánlattevő az ajánlati biztosítékot határidőre nem vagy az előírt mértéknél kisebb összegben bocsátotta rendelkezésre;
 - c) az ajánlatkérő az eljárást megindító felhívásban előre meghatározott egy olyan összeget, amelyet meghaladó árat vagy költséget tartalmazó ajánlatot a bírálat során érvénytelenné fog nyilvánítani, és az ajánlat ezen összeget meghaladja.
+
+(7) Az ajánlatkérő, az (1) bekezdés c) pontja szerinti esetben – felvilágosításkérés útján – köteles biztosítani annak lehetőségét, hogy az érintett ajánlattevő vagy részvételre jelentkező bizonyítsa, hogy nem tudott vagy az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie az alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet tekintetében a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok megvalósulásáról, valamint, hogy a 62. § (1) bekezdés o) pontja szerinti esetben a kizáró ok fennállása a részvételre jelentkezést, illetve az ajánlattételt nem befolyásolta.
 
 74. § (1) Az ajánlatkérőnek ki kell zárnia az eljárásból azt az ajánlattevőt, részvételre jelentkezőt, alvállalkozót vagy az alkalmasság igazolásában részt vevő szervezetet, aki
 
@@ -1530,7 +1534,7 @@ vonatkozik.
 
 még akkor is, ha ezek érdemben nem határozzák meg az építési beruházás, áru vagy szolgáltatás végeredményének tulajdonságait.
 
-(8) Az adott építési beruházás, áru vagy szolgáltatás előállításának vagy nyújtásának folyamatához kapcsolódóan értékelhető különösen a munkanélküli vagy tartósan munkanélküliek – ideértve a megelőzően a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvényben meghatározott közfoglalkoztatási jogviszony, valamint az Európai Unió más tagállamában ahhoz hasonló jogviszony keretében foglalkoztatott természetes személyek nem közfoglalkoztatottként történő – foglalkoztatásának megajánlott mértéke, valamint az adott szerződés teljesítésének keretében munkanélküliek képzését célzó intézkedések végrehajtása.
+(8) Az adott építési beruházás, áru vagy szolgáltatás előállításának vagy nyújtásának folyamatához kapcsolódóan értékelhető különösen a álláskereső vagy tartósan álláskeresők – ideértve a megelőzően a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvényben meghatározott közfoglalkoztatási jogviszony, valamint az Európai Unió más tagállamában ahhoz hasonló jogviszony keretében foglalkoztatott természetes személyek nem közfoglalkoztatottként történő – foglalkoztatásának megajánlott mértéke, valamint az adott szerződés teljesítésének keretében álláskeresők képzését célzó intézkedések végrehajtása.
 
 (9) Ha az ajánlatkérő nem egyedüli értékelési szempontként alkalmazza a legalacsonyabb ár szempontját vagy a 78. § szerinti módszerrel meghatározva a legalacsonyabb költség szempontját, köteles meghatározni
 
@@ -2464,10 +2468,10 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 (3) Az (1) bekezdés alkalmazásában szociális feltételnek minősül különösen
 
 - a) a szerződésnek a 33. § szerinti szervezet – illetve az Európai Unió más tagállamának jogi rendelkezései szerint a 2014/24/EU irányelv 20. cikke szerinti szervezet – bevonásával történő teljesítése;
-- b) az álláskeresők, hátrányos helyzetű munkavállalók, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
+- b) az álláskeresők, hátrányos helyzetű munkavállalók, valamint álláskeresők vagy fogvatartottak foglalkoztatása;
 - c) a családok támogatásáról szóló törvényben meghatározott gyermekgondozási támogatások valamelyikében részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban, örökbefogadói díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 - d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása;
-- e) az adott szerződés teljesítése keretében a teljesítésben részt vevő munkanélküliek vagy fiatalok számára a teljesítéshez szükséges készségekre vonatkozó képzés nyújtása.
+- e) az adott szerződés teljesítése keretében a teljesítésben részt vevő álláskeresők vagy fiatalok számára a teljesítéshez szükséges készségekre vonatkozó képzés nyújtása.
 
 ### A szerződés időtartama
 

@@ -57,6 +57,11 @@ alkalmazni kell.
 
 (2) Ha a joggal való visszaélés munkaviszonyra vonatkozó szabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás nyomós közérdeket vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
 
+(3) A joggal való visszaélés tilalmának megsértésére alapított munkajogi igény érvényesítése esetén
+
+- a) az igény érvényesítője bizonyítja a tilalom megsértésének alapjául szolgáló tényt, körülményt és a hátrányt, és
+- b) a jog gyakorlója bizonyítja, hogy az igény érvényesítője által bizonyított tény, körülmény és a hátrány között okozati összefüggés nem áll fenn.
+
 8. § (1) A munkavállaló a munkaviszony fennállása alatt – kivéve, ha erre jogszabály feljogosítja – nem tanúsíthat olyan magatartást, amellyel munkáltatója jogos gazdasági érdekeit veszélyeztetné.
 
 (2) A munkavállaló munkaidején kívül sem tanúsíthat olyan magatartást, amely – különösen a munkavállaló munkakörének jellege, a munkáltató szervezetében elfoglalt helye alapján – közvetlenül és ténylegesen alkalmas munkáltatója jó hírnevének, jogos gazdasági érdekének vagy a munkaviszony céljának veszélyeztetésére. A munkavállaló magatartása a 9. § (2) bekezdésében foglaltak szerint korlátozható. A korlátozásról a munkavállalót írásban előzetesen tájékoztatni kell.
@@ -258,13 +263,15 @@ kézbesítettnek kell tekinteni.
 
 (5) A határidő az utolsó napjának végén jár le. A határidő az általános munkarend szerinti következő munkanap végén jár le, ha az utolsó nap az általános munkarend szerint heti pihenő- vagy munkaszüneti nap.
 
-(6) A határidőt – e törvény eltérő rendelkezése hiányában – akkor kell megtartottnak tekinteni, ha a lejárat napjának végéig a jognyilatkozatot közlik vagy ezen időpontig az egyéb magatartás tanúsítása megtörténik.
+(6) A határidőt – e törvény eltérő rendelkezése hiányában – akkor kell megtartottnak tekinteni, ha a lejárat napjának végéig a jognyilatkozatot közlik vagy ezen időpontig az egyéb magatartás tanúsítása megtörténik. A 61. § (6) bekezdésében, a 64. § (4) bekezdésében és a 78. § (2) bekezdésében meghatározott tizenöt napos határidőt megtartottnak kell tekinteni abban az esetben is, ha a jognyilatkozatot legkésőbb a határidő utolsó napján postára adják.
 
 (7) A határidő elmulasztása akkor menthető ki, ha a határidőt megállapító munkaviszonyra vonatkozó szabály ezt kifejezetten megengedi.
 
 (8) A jognyilatkozatot, egyéb magatartást késedelem nélkül, szükség esetén az egyébként nem a kötelezett által viselendő költségek megelőlegezésével kell megtenni vagy tanúsítani, ha munkaviszonyra vonatkozó szabály a jognyilatkozat megtételére vagy az egyéb magatartás tanúsítására haladéktalanul kötelezi a felet.
 
-26. § A munkaviszonyra vonatkozó szabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a 25. § (4)–(8) bekezdése nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó.
+26. § (1) A munkaviszonyra vonatkozó szabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a 25. § (4)–(8) bekezdése nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó.
+
+(2) Az (1) bekezdés szerinti időtartam alatt a jognyilatkozat érvényesen megtehető úgy is, ha legkésőbb az időtartam utolsó napján postára adják.
 
 ### IV. Fejezet — AZ ÉRVÉNYTELENSÉG
 
@@ -353,7 +360,7 @@ foglaltak nem alkalmazhatók.
 
 37. § Az átadó munkáltató az átszállást megelőzően köteles tájékoztatni az átvevő munkáltatót az átszállással érintett munkaviszonyokból, valamint a versenytilalmi megállapodásokból és a tanulmányi szerződésekből származó jogokról és kötelezettségekről. A tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti.
 
-38. § (1) Az átvevő munkáltató az átszállást követő tizenöt napon belül a munkáltató azonosító adatainak közlésével köteles írásban tájékoztatni a munkavállalót a munkáltató személyében bekövetkezett változásról, valamint a 46. § (1) bekezdésében meghatározott munkafeltételek változásáról.
+38. § (1) Az átvevő munkáltató az átszállás napján a munkáltató azonosító adatainak közlésével írásban tájékoztatja a munkavállalót a munkáltató személyében bekövetkezett változásról, valamint a 46. § (1) bekezdésében meghatározott munkafeltételek változásáról.
 
 (2) Amennyiben az átadó munkáltatónál – a 236. § (1) bekezdésében meghatározott munkavállalói létszám hiányában – üzemi tanács nem működik és üzemi megbízott megválasztására sem került sor, az átadó vagy – a munkáltatók megállapodása alapján – az átvevő munkáltató legkésőbb az átszállást megelőzően tizenöt nappal köteles az érintett munkavállalókat írásban tájékoztatni
 
@@ -443,9 +450,9 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 45. § (1) A munkaszerződésben a feleknek meg kell állapodniuk a munkavállaló alapbérében és munkakörében.
 
-(2) A munkaviszony tartamát a munkaszerződésben kell meghatározni. Ennek hiányában a munkaviszony határozatlan időre jön létre.
+(2) A munkaviszony – eltérő megállapodás hiányában – határozatlan időre jön létre.
 
-(3) A munkavállaló munkahelyét a munkaszerződésben kell meghatározni. Ennek hiányában munkahelynek azt a helyet kell tekinteni, ahol munkáját szokás szerint végzi.
+(3) Eltérő megállapodás hiányában munkahelynek a munkakörben szokásos munkavégzési helyet kell tekinteni.
 
 (4) A munkaviszony – eltérő megállapodás hiányában – általános teljes napi munkaidőben történő foglalkoztatásra jön létre.
 
@@ -453,38 +460,47 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 #### 26. A munkáltató írásbeli tájékoztatási kötelezettsége
 
-46. § (1) A munkáltató legkésőbb a munkaviszony kezdetétől számított tizenöt napon belül írásban tájékoztatja a munkavállalót
+46. § (1) A munkáltató legkésőbb a munkaviszony kezdetétől számított hét napon belül írásban tájékoztatja a munkavállalót
 
-- a) a napi munkaidőről,
-- b) az alapbéren túli munkabérről és egyéb juttatásokról,
-- c) a munkabérről való elszámolás módjáról, a munkabérfizetés gyakoriságáról, a kifizetés napjáról,
+- a) a munkáltatói jogkör gyakorlójáról,
+- b) a munkaviszony kezdetéről, tartamáról,
+- c) a munkahelyről,
 - d) a munkakörbe tartozó feladatokról,
-- e) a szabadság mértékéről, számítási módjáról és kiadásának, valamint
-- f) a munkáltatóra és a munkavállalóra irányadó felmondási idő megállapításának szabályairól, továbbá
-- g) arról, hogy a munkáltató kollektív szerződés hatálya alá tartozik–e, valamint
-- h) a munkáltatói jogkör gyakorlójáról.
+- e) a napi munkaidő tartamáról, a hét azon napjairól, amelyekre munkaidő osztható be, a beosztás szerinti napi munkaidő lehetséges kezdő és befejező időpontjáról, a rendkívüli munkaidő lehetséges tartamáról, a munkáltató tevékenységének sajátos jellegéről (90. §),
+- f) a munkabérről való elszámolás módjáról, a munkabérfizetés gyakoriságáról, a kifizetés napjáról,
+- g) az alapbéren túli munkabérről és egyéb juttatásról,
+- h) a szabadságnapok számáról, számítási módjáról és kiadásának szabályairól,
+- i) a munkaviszony megszüntetésével összefüggő szabályokról, különösen a felmondási idő megállapításának szabályairól,
+- j) a munkáltató képzési politikájáról, a munkavállaló által igénybe vehető képzésre fordítható idő tartamáról,
+- k) a hatóság megnevezéséről, amely részére a munkáltató a munkaviszonnyal kapcsolatos közterhet megfizeti, valamint
+- l) arról, hogy a munkáltató kollektív szerződés hatálya alá tartozik-e.
 
-(2) Az (1) bekezdés a)–c), és e)–f) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére történő hivatkozással is megadható.
+(2) Nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak.
 
-(3) Ha a munkaviszony tizenöt nap eltelte előtt megszűnik, a munkáltató az (1) bekezdésben foglalt kötelezettségét a 80. § (2) bekezdésében meghatározott időpontban köteles teljesíteni.
+(3) Az (1) bekezdés e)–i) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére hivatkozással is megadható.
 
-(4) A munkáltató megnevezésének, lényeges adatainak, továbbá az (1) bekezdésben meghatározottak változásáról a munkavállalót a változást követő tizenöt napon belül írásban tájékoztatni kell.
+(4) Ha a munkaviszony hét nap eltelte előtt megszűnik, a munkáltató az (1) bekezdés szerinti kötelezettségét a 80. § (2) bekezdésében meghatározott időpontban teljesíti.
 
-(5) Nem terheli a munkáltatót a tájékoztatási kötelezettség – az (1) bekezdés h) pontját kivéve –, ha a munkaszerződés alapján
+(5) A munkáltató az (1) bekezdésben, továbbá a 23. § (2) bekezdésében meghatározottak változásáról a munkavállalót legkésőbb a változás hatálybalépésének időpontjában írásban tájékoztatja. Nem terheli a munkáltatót tájékoztatási kötelezettség, ha a tájékoztatást a (3) bekezdés szerint adta meg.
 
-- a) a munkaviszony tartama az egy hónapot, vagy
-- b) a munkaidő a heti nyolc órát nem haladja meg.
+(6) Nem terheli a munkáltatót tájékoztatási kötelezettség – az (1) bekezdés a) pontját és a 193. § szerinti foglalkoztatást kivéve –, ha a napi munkaidő a fél órát nem haladja meg.
 
-47. § A tizenöt napot meghaladó külföldön történő munkavégzés esetén – a 46. §-ban foglaltakon túlmenően – a munkavállalót – legkésőbb a külföldre való kiutazást megelőző hét nappal – írásban tájékoztatni kell
+47. § (1) A várhatóan tizenöt napot meghaladó külföldön történő munkavégzés esetén a munkavállalót – a 46. §-ban foglaltakon túlmenően – legkésőbb a külföldre való kiutazást megelőző hét nappal írásban tájékoztatni kell
 
 - a) a külföldi munkavégzés helyéről, tartamáról,
-- b) a pénzbeli és a természetbeni juttatásokról,
-- c) a díjazás és egyéb juttatás pénzneméről, továbbá
-- d) a hazatérésre irányadó szabályokról.
+- b) a pénzbeli és a természetbeni juttatásról,
+- c) a munkavégzés helyén irányadó díjazás, valamint az utazási, étkezési és lakhatási költségek megtérítésének szabályairól, feltételeiről,
+- d) a díjazás és egyéb juttatás pénzneméről,
+- e) a határon átnyúló szolgáltatásnyújtást végző munkáltató és az általa kiküldött munkavállaló jogaival és kötelezettségeivel összefüggő lényeges információt tartalmazó egységes nemzeti honlap elérhetőségéről, továbbá
+- f) a hazatérésre irányadó szabályokról.
+
+(2) Az (1) bekezdés c) és d) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére történő hivatkozással is megadható.
+
+(3) Az (1) bekezdésben meghatározott munkafeltételek változásáról a munkáltató a 46. § (5) bekezdésében foglaltak szerint tájékoztatja a munkavállalót.
 
 #### 27. A munkaviszony kezdete
 
-48. § A munkaviszony kezdetének napját a munkaszerződésben kell meghatározni. Ennek hiányában a munkaviszony kezdete a munkaszerződés megkötését követő nap.
+48. § A munkaviszony kezdetének napja – eltérő megállapodás hiányában – a munkaszerződés megkötését követő nap.
 
 49. § (1) A felek a munkaszerződés megkötése és a munkaviszony kezdetének napja közötti időszakban nem tanúsíthatnak olyan magatartást, amely a munkaviszony létrejöttét meghiúsítaná.
 
@@ -516,9 +532,12 @@ foglaltaktól nem térhet el.
 
 #### 29. Alapvető kötelezettségek
 
-51. § (1) A munkáltató köteles a munkavállalót a munkaszerződés és a munkaviszonyra vonatkozó szabályok szerint foglalkoztatni, továbbá – a felek eltérő megállapodása hiányában – a munkavégzéshez szükséges feltételeket biztosítani.
+51. § (1) A munkáltató köteles a munkavállalót a munkaszerződés és a munkaviszonyra vonatkozó szabályok szerint foglalkoztatni.
 
-(2) A munkáltató köteles a munkavállalónak azt a költségét megtéríteni, amely a munkaviszony teljesítésével indokoltan merült fel.
+(2) A munkáltató köteles a munkavállaló részére
+
+- a) a munkaviszony teljesítésével felmerült szükséges és indokolt költséget megtéríteni,
+- b) a munkavégzéshez szükséges feltételeket – eltérő megállapodás hiányában – biztosítani.
 
 (3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára, fejlettségére, egészségi állapotára tekintettel rá hátrányos következményekkel nem járhat. A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket, a munkaidő-beosztást – a 6. §-ban foglaltak figyelembevételével – megfelelően módosítani.
 
@@ -563,21 +582,21 @@ foglaltaktól nem térhet el.
 
 #### 31. Az utasítás teljesítésének megtagadása
 
-54. § (1) A munkavállaló köteles megtagadni az utasítás teljesítését, ha annak végrehajtása más személy egészségét vagy a környezetet közvetlenül és súlyosan veszélyeztetné.
+54. § (1) A munkavállaló köteles megtagadni az utasítás teljesítését, ha annak végrehajtása más személy életét, testi épségét, egészségét, vagy a környezetet közvetlenül és súlyosan veszélyeztetné.
 
-(2) A munkavállaló megtagadhatja az utasítás teljesítését, ha annak végrehajtása munkaviszonyra vonatkozó szabályba ütközik, vagy a munkavállaló életét, testi épségét vagy egészségét közvetlenül és súlyosan veszélyeztetné.
+(2) A munkavállaló megtagadhatja az utasítás teljesítését, ha annak végrehajtása munkaviszonyra vonatkozó szabályba ütközik, vagy életét, testi épségét vagy egészségét közvetlenül és súlyosan veszélyeztetné.
 
-(3) A munkavállaló az utasítás megtagadása esetén is köteles rendelkezésre állni.
+(3) A munkavállaló – a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítást kivéve – az utasítás megtagadása esetén is köteles rendelkezésre állni.
 
-(4) A munkavállaló a munkáltató utasításától akkor térhet el, ha ezt a munkáltató károsodástól való megóvása feltétlenül megköveteli és a munkáltató értesítésére nincs mód. Az utasítástól való eltérésről a munkáltatót haladéktalanul tájékoztatni kell.
+(4) A munkavállaló a munkáltató utasításától eltérhet, ha ezt a munkáltató károsodástól való megóvása feltétlenül megköveteli és a munkáltató értesítésére nincs mód. Az utasítástól való eltérésről a munkáltatót haladéktalanul tájékoztatni kell.
 
 #### 32. Mentesülés a munkavégzési kötelezettség alól
 
 55. § (1) A munkavállaló mentesül rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól
 
-- a) keresőképtelensége,
-- b) a jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés, valamint
-- c) a kötelező orvosi vizsgálata tartamára, továbbá
+- a) keresőképtelensége időtartamára, vagy egyébként munkaköre ellátására egészségi okból való alkalmatlansága esetén annak időtartamára,
+- b) a jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés,
+- c) a kötelező orvosi vizsgálata tartamára,
 - d) a véradáshoz szükséges, legalább négy óra időtartamra,
 - e) a szoptató anya a szoptatás első hat hónapjában naponta kétszer egy, ikergyermekek esetén kétszer két órára, a kilencedik hónap végéig naponta egy, ikergyermekek esetén naponta két órára,
 - f) hozzátartozója halálakor két munkanapra,
@@ -585,12 +604,17 @@ foglaltaktól nem térhet el.
 - h) önkéntes vagy létesítményi tűzoltói szolgálat ellátása tartamára,
 - i) bíróság vagy hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
-- k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára, továbbá
-- l) munkaviszonyra vonatkozó szabályban meghatározott tartamra.
+- k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára,
+- l) a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra, vagy
+- m) munkaviszonyra vonatkozó szabályban meghatározott időre.
 
-(2) A munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napos időtartamra mentesítheti a munkavállalót rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.
+(2) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
-(3) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+(3) Az (1) bekezdés l) pontja szerinti mentesülést a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani. A súlyos egészségi ok fennállását és a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.
+
+(4) Az (1) bekezdés j) és l) pontja szerinti esetben a 124. § rendelkezéseit megfelelően alkalmazni kell.
+
+(5) A munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napra mentesítheti a munkavállalót rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.
 
 #### 33. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegésért
 
@@ -608,7 +632,7 @@ foglaltaktól nem térhet el.
 
 57. § (1) A felek megállapodása vagy kollektív szerződés
 
-- a) az 51. § (7) bekezdésében,
+- a) az 51. §-ban,
 - b) az 52. § (3) bekezdésében,
 - c) az 53. § (3)–(4) bekezdésében,
 - d) az 54. § (1) bekezdésében,
@@ -636,9 +660,20 @@ foglaltaktól nem térhet el.
 
 foglalkoztatás lehetőségéről.
 
-(2) A munkavállaló munkaszerződés módosítására irányuló ajánlatára a munkáltató tizenöt napon belül írásban nyilatkozik.
+(2) A munkavállaló – a munkaviszony első hat hónapját kivéve – az (1) bekezdés szerinti tájékoztatás alapján kérheti munkaszerződése módosítását.
 
 (3) A munkáltató a munkavállaló ajánlatára a gyermek négyéves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek hatéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
+
+(4) A munkavállaló gyermeke nyolcéves koráig vagy a gondozást végző munkavállaló – a munkaviszony első hat hónapját kivéve – kérheti
+
+- a) a munkavégzési helyének módosítását,
+- b) a munkarendjének módosítását,
+- c) távmunkavégzésben való foglalkoztatását, illetve
+- d) részmunkaidőben való foglalkoztatását.
+
+(5) A munkavállaló a (2) vagy (4) bekezdés szerinti kérelmét írásban indokolja, továbbá megjelöli a változtatás időpontját.
+
+(6) A munkavállaló kérelmére a munkáltató tizenöt napon belül írásban nyilatkozik. A kérelem elutasítása esetén a munkáltató nyilatkozatát a 64. § (2) bekezdése szerint megindokolja. A kérelem jogellenes elutasítása vagy a nyilatkozat elmulasztása esetén a bíróság a munkáltató hozzájáruló nyilatkozatát pótolja.
 
 #### 35. Eltérő megállapodás
 
@@ -674,6 +709,18 @@ foglalkoztatás lehetőségéről.
 
 (2) A megszüntetés okának az indokolásból világosan ki kell tűnnie. A megszüntető jognyilatkozat indokának valóságát és okszerűségét a nyilatkozattevő bizonyítja.
 
+(3) A munkáltató – a munkavállaló kérelmére – indokolási kötelesség hiányában is a (2) bekezdés szerint megindokolja a munkaviszony megszüntetésére irányuló jognyilatkozatát, ha a munkavállaló hivatkozása szerint a munkaviszony megszüntetésére
+
+- a) az 55. § (1) bekezdés l) pontja szerinti munkaidő-kedvezmény,
+- b) az apasági szabadság,
+- c) a szülői szabadság,
+- d) a 128. § szerint a gyermek gondozása céljából fizetés nélküli szabadság igénybevétele, vagy
+- e) a 61. § (2) és (4) bekezdése szerinti kérelme
+
+miatt került sor.
+
+(4) A munkavállaló a (3) bekezdés szerinti jognyilatkozat indokolását annak közlésétől számított tizenöt napon belül írásban kérheti. A munkáltató az indokolást a kérelem kézhezvételétől számított tizenöt napon belül írásban közli.
+
 #### 38. A felmondás
 
 65. § (1) A munkaviszonyt mind a munkavállaló, mind a munkáltató felmondással megszüntetheti.
@@ -684,13 +731,18 @@ foglalkoztatás lehetőségéről.
 
 - a) a várandósság,
 - b) a szülési szabadság,
-- c) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §, 130. §),
-- d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés, valamint
-- e) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap tartama alatt.
+- c) az apasági szabadság,
+- d) a szülői szabadság,
+- e) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §, 130. §),
+- f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés,
+- g) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap, és
+- h) az 55. § (1) bekezdés l) pontja szerinti mentesülés
+
+tartama alatt.
 
 (4) A (3) bekezdés szerinti védelem alkalmazása szempontjából a felmondás közlésének, csoportos létszámcsökkentés esetén a 75. § (1) bekezdés szerinti tájékoztatás közlésének időpontja az irányadó.
 
-(5) A munkavállaló a (3) bekezdés a) és e) pontjában meghatározott körülményre akkor hivatkozhat, ha erről a munkáltatót tájékoztatta. A felmondás közlését követő munkavállalói tájékoztatástól számított tizenöt napon belül a munkáltató a felmondást írásban visszavonhatja.
+(5) A munkavállaló a (3) bekezdés a) és g) pontjában meghatározott körülményre akkor hivatkozhat, ha erről a munkáltatót tájékoztatta. A felmondás közlését követő munkavállalói tájékoztatástól számított tizenöt napon belül a munkáltató a felmondást írásban visszavonhatja.
 
 (6) A felmondás visszavonása esetén a 83. § (2)–(4) bekezdését kell alkalmazni.
 
@@ -777,7 +829,7 @@ munkaviszonyát kívánja – figyelemmel a (3) bekezdésben foglaltakra – har
 
 (2) Ha a munkáltató fél évnél rövidebb ideje alakult, az (1) bekezdésben meghatározott munkavállalók átlagos statisztikai létszámát az adott időszakra vonatkozóan kell megállapítani.
 
-(3) Ha a munkáltatónak több telephelye van, az (1) bekezdésben foglalt feltételek fennállását telephelyenként kell megállapítani azzal, hogy az azonos megyében (fővárosban) található telephelyek esetében a munkavállalók létszámát össze kell számítani. A munkavállalót azon a telephelyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
+(3) Ha a munkáltatónak több telephelye van, az (1) bekezdésben foglalt feltételek fennállását telephelyenként kell megállapítani azzal, hogy az azonos vármegyében (fővárosban) található telephelyek esetében a munkavállalók létszámát össze kell számítani. A munkavállalót azon a telephelyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
 
 (4) A tengeri hajó személyzetének tagjait érintő csoportos létszámcsökkentés esetén, a munkáltató előzetesen értesíti annak az államnak az illetékes hatóságát, amelynek lobogója alatt a hajó közlekedik.
 
@@ -851,7 +903,7 @@ alapján szűnik meg.
 
 (2) A végkielégítésre való jogosultság feltétele, hogy a munkaviszony a felmondás közlésének vagy a munkáltató jogutód nélküli megszűnésének időpontjában a (3) bekezdésben meghatározott tartamban fennálljon. A végkielégítésre való jogosultság szempontjából nem kell figyelembe venni azt az egybefüggően legalább harminc napot meghaladó tartamot, amelyre a munkavállalót munkabér nem illette meg, kivéve
 
-- a) a szülési szabadság és a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadság (128. §),
+- a) a szülési szabadság, a szülői szabadság és a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadság (128. §),
 - b) a tényleges önkéntes tartalékos katonai szolgálatteljesítés céljából igénybe vett fizetés nélküli szabadság (132. §) három hónapot meg nem haladó
 
 tartamát.
@@ -904,6 +956,13 @@ távolléti díj összegével emelkedik, ha a munkaviszony az (1) bekezdésben m
 
 (2) A munkaviszony felmondással történő megszüntetésekor legkésőbb az utolsó munkában töltött naptól, egyébként legkésőbb a munkaviszony megszűnésétől számított ötödik munkanapon a munkavállaló részére ki kell fizetni a munkabérét, egyéb járandóságait, valamint ki kell adni a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
 
+(3) A munkáltató a (2) bekezdés szerint igazolást ad a munkavállaló részére a kiadott
+
+- a) apasági szabadság, vagy
+- b) szülői szabadság
+
+tartamáról, amelyben feltünteti a korábbi munkáltató által kiadott apasági szabadság vagy szülői szabadság tartamát is.
+
 81. § (1) A munkáltató a munkavállaló kérelmére, ha a munkaviszony legalább egy évig fennállt, a munkaviszony megszüntetésekor (megszűnésekor) vagy legfeljebb az ezt követő egy éven belül a munkavállaló munkájáról írásban értékelést ad.
 
 (2) Az értékelés valótlan ténymegállapításainak megsemmisítését vagy módosítását a munkavállaló bíróságtól kérheti.
@@ -923,11 +982,13 @@ távolléti díj összegével emelkedik, ha a munkaviszony az (1) bekezdésben m
 
 83. § (1) A munkavállaló kérelmére a bíróság a munkaviszonyt helyreállítja, ha
 
-- a) a munkaviszony megszüntetése az egyenlő bánásmód követelményébe,
-- b) a 65. § (3) bekezdésébe,
-- c) a 273. § (1) bekezdésébe ütközött,
-- d) a munkavállaló a munkaviszony megszüntetésekor munkavállalói képviselő volt,
-- e) a munkavállaló a munkaviszony közös megegyezéssel történő megszüntetését vagy erre irányuló saját jognyilatkozatát sikerrel támadta meg.
+- a) a munkaviszony megszüntetése
+  - aa) az egyenlő bánásmód követelményébe,
+  - ab) a joggal való visszaélés tilalmába,
+  - ac) a 65. § (3) bekezdésébe, vagy
+  - ad) a 273. § (1) bekezdésébe ütközött,
+- b) a munkavállaló a munkaviszony megszüntetésekor munkavállalói képviselő volt, vagy
+- c) a munkavállaló a munkaviszony közös megegyezéssel történő megszüntetését vagy erre irányuló saját jognyilatkozatát sikerrel támadta meg.
 
 (2) A munkaviszony helyreállítását követően keletkezett, a munkaviszonyban töltött időhöz kapcsolódó jogosultság tekintetében a munkaviszony megszüntetése (megszűnése) és annak helyreállítása közötti tartamot munkaviszonyban töltött időnek kell tekinteni.
 
@@ -958,12 +1019,13 @@ foglaltaktól nem térhet el.
 
 (2) Kollektív szerződés
 
-- a) a 63. § (2)–(3) bekezdésében,
-- b) a 65–68. §-ban,
-- c) a 71–76. §-ban,
-- d) a 78. §-ban,
-- e) a 81. §-ban,
-- f) a 83. §-ban
+- a) a 61. §-ban,
+- b) a 63. § (2)–(3) bekezdésében,
+- c) a 65–68. §-ban,
+- d) a 71–76. §-ban,
+- e) a 78. §-ban,
+- f) a 81. §-ban,
+- g) a 83. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
 
@@ -1035,7 +1097,7 @@ foglaltaktól csak a munkavállaló javára térhet el.
 
 (3) A munkaidő (2) bekezdés szerinti meghatározásakor a távollét tartamát figyelmen kívül kell hagyni vagy az adott munkanapra irányadó beosztás szerinti napi munkaidő mértékével kell számításba venni. Munkaidő-beosztás hiányában a távollét tartamát a napi munkaidő mértékével kell figyelmen kívül hagyni vagy számításba venni.
 
-(4) A munkaidőkeret kezdő és befejező időpontját írásban meg kell határozni és közzé kell tenni.
+(4) A munkaidőkeret teljesítésének kezdő és befejező időpontját, valamint a teljesítendő munkaidő tartamát írásban meg kell határozni és közzé kell tenni.
 
 94. § (1) A munkaidőkeret tartama legfeljebb négy hónap vagy tizenhat hét.
 
@@ -1091,7 +1153,7 @@ szűnik meg és a munkavállaló a beosztás szerinti munkaidőre járó munkab�
 
 #### 50. A munkaidő-beosztás szabályai
 
-96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg.
+96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg, és erről a 18. § szerint tájékoztatja a munkavállalót.
 
 (2) A munkáltató a munkaidő beosztásának jogát – a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedheti (kötetlen munkarend). A munkarend kötetlen jellegét nem érinti, ha a munkavállaló a munkaköri feladatok egy részét sajátos jellegüknél fogva meghatározott időpontban vagy időszakban teljesítheti.
 
@@ -1122,7 +1184,7 @@ eltérően osztja be.
 
 98. § (1) A munkaidő munkaidőkeret hiányában úgy is beosztható, hogy a munkavállaló a napi munkaidő és az általános munkarend alapulvételével megállapított heti munkaidőt a munkáltató által meghatározott hosszabb, az érintett héttel kezdődő időtartam (elszámolási időszak) alatt teljesítse.
 
-(2) Az elszámolási időszak tekintetében a 93. § (2)–(4) bekezdése, a 94. § és a 95. § megfelelően irányadó.
+(2) Az elszámolási időszak tekintetében a 93. § (2)–(4) bekezdése, a 94. §, a 95. § és a 99. § (7) bekezdése megfelelően irányadó.
 
 (3)
 
@@ -1140,7 +1202,7 @@ lehet.
 - a) napi munkaideje legfeljebb huszonnégy óra,
 - b) heti munkaideje legfeljebb hetvenkét óra
 
-lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A munkavállalót hátrány nem érheti, ha nem egyezik bele az e bekezdés szerinti megállapodás megkötésébe, illetve a megállapodás felmondása esetén.
+lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A munkavállalót hátrány nem érheti, ha nem járul hozzá az e bekezdés szerinti megállapodás megkötéséhez, illetve a megállapodás felmondása esetén.
 
 (4) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2)–(3) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
 
@@ -1233,7 +1295,7 @@ foglalkoztatott munkavállaló esetében.
 
 (4) A (2) vagy a (3) bekezdés alkalmazása esetén a két egymást követően beosztott napi pihenőidők együttes tartama legalább huszonkét óra.
 
-(5) A készenlétet követően nem kell pihenőidőt beosztani, ha a munkavállaló munkát nem végzett.
+(5) Nem kell napi pihenőidőt beosztani, ha a munkáltató a munka befejezését közvetlenül követő napra munkaidőt nem oszt be, vagy rendkívüli munkaidőt nem rendel el.
 
 #### 54. A heti pihenőnap
 
@@ -1257,7 +1319,13 @@ keretében foglalkoztatott munkavállaló számára havonta legalább egy heti p
 
 (2) A munkavállaló számára a heti pihenőidőt – a 101. § (1) bekezdés f) pont kivételével – havonta legalább egy alkalommal vasárnapra kell beosztani.
 
-(3) Egyenlőtlen munkaidő-beosztás esetén – az (1) bekezdésben meghatározott heti pihenőidő helyett és a (2) bekezdésben foglaltak megfelelő alkalmazásával – a munkavállalónak hetenként legalább negyven órát kitevő és egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is biztosítható. A munkavállalónak a munkaidőkeret vagy az elszámolási időszak átlagában legalább heti negyvennyolc óra heti pihenőidőt kell biztosítani.
+(3) Egyenlőtlen munkaidő-beosztás esetén
+
+- a) a megszakítás nélküli,
+- b) a több műszakos,
+- c) az idényjellegű tevékenység
+
+keretében foglalkoztatott munkavállaló számára havonta legalább negyven órát kitevő és egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is beosztható. Ebben az esetben a munkaidőkeret vagy az elszámolási időszak átlagában legalább heti negyvennyolc óra heti pihenőidőt kell beosztani.
 
 #### 56. A rendkívüli munkaidő
 
@@ -1317,35 +1385,52 @@ rendelhető el.
 
 #### 58. Az egyes munkavállalói csoportokra vonatkozó különös rendelkezések
 
-113. § (1) A munka- és pihenőidőre vonatkozó szabályokat a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni
+113. § (1) Rendkívüli munkaidő
 
-- a) a munkavállaló várandóssága megállapításától a gyermek hároméves koráig,
-- b) a gyermekét egyedül nevelő munkavállaló esetén gyermeke hároméves koráig,
-- c) a munkaviszonyra vonatkozó szabályban meghatározott egészségkárosító kockázat fennállásakor.
+- a) a munkavállaló számára várandóssága megállapításától gyermeke hároméves koráig,
+- b) a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves koráig, vagy
+- c) a munkáltató által a munkakörre vagy a munkavállalóra megállapított egészségkárosító kockázat esetén
 
-(2) Az (1) bekezdésben meghatározott esetben
+nem rendelhető el.
 
-- a) egyenlőtlen munkaidő-beosztás csak a munkavállaló hozzájárulása esetén alkalmazható,
-- b) a heti pihenőnapok egyenlőtlenül nem oszthatók be,
-- c) rendkívüli munkaidő vagy készenlét nem rendelhető el.
+(2) Rendkívüli munkaidő a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves korától négyéves koráig – a 108. § (2) bekezdésében foglaltakat kivéve – csak hozzájárulásával rendelhető el.
 
-(3) Az (1) bekezdés a)–b) pontban meghatározott munkavállaló számára éjszakai munka nem rendelhető el.
+(3) A munkaidő a 97. § (3) bekezdés b) és c) pontja szerint az (1) bekezdésben meghatározott munkavállaló számára nem osztható be.
 
-(4) Az (1) bekezdés c) pontban meghatározott esetben a munkavállaló beosztás szerinti napi munkaideje éjszakai munkavégzés során a nyolc órát nem haladhatja meg.
+(4) A munkaidő a 97. § (3) bekezdés a) pontja szerint az (1) bekezdésben meghatározott munkavállaló számára csak a munkavállaló írásbeli hozzájárulásával osztható be.
 
-(5) A gyermekét egyedül nevelő munkavállaló számára – gyermeke hároméves korától négyéves koráig – rendkívüli munkaidő vagy készenlét – a 108. § (2) bekezdésében foglaltakat kivéve – csak hozzájárulásával rendelhető el.
+(5) Éjszakai munka
 
-114. § (1) A fiatal munkavállaló számára éjszakai munka, valamint rendkívüli munkaidő nem rendelhető el.
+- a) a munkavállaló számára várandóssága megállapításától gyermeke hároméves koráig, vagy
+- b) a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves koráig
 
-(2) A fiatal munkavállaló napi munkaideje legfeljebb nyolc óra lehet és a több munkaviszony keretében történő munkavégzés munkaidejét össze kell számítani.
+nem osztható be.
 
-(3) A fiatal munkavállaló számára
+(6) Éjszakai munka
 
-- a) legfeljebb egy heti munkaidőkeretet lehet elrendelni,
-- b) négy és fél órát meghaladó beosztás szerinti napi munkaidő esetén, legalább harminc perc, hat órát meghaladó beosztás szerinti napi munkaidő esetén, legalább negyvenöt perc munkaközi szünetet,
-- c) legalább tizenkét óra tartamú napi pihenőidőt kell biztosítani.
+- a) a nő számára gyermeke hároméves korától tízéves koráig, vagy
+- b) a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves korától tízéves koráig
 
-(4) A fiatal munkavállaló esetében a heti pihenőnap és a heti pihenőidő egyenlőtlenül nem osztható be.
+csak írásbeli hozzájárulásával osztható be.
+
+(7) Éjszakai munka esetén a beosztás szerinti napi munkaidő a munkáltató által a munkakörre vagy a munkavállalóra megállapított egészségkárosító kockázat fennállásakor a nyolc órát nem haladhatja meg.
+
+114. § (1) A fiatal munkavállaló napi munkaideje legfeljebb nyolc óra lehet.
+
+(2) A tizenhat évesnél fiatalabb munkavállaló napi munkaideje legfeljebb hat óra lehet, kivéve azt a nappali rendszerű képzés keretében tanulmányokat folytató tizenötödik életévét betöltött tanulót, aki az iskolai szünet alatt munkát végez.
+
+(3) A fiatal munkavállaló beosztás szerinti napi munkaideje legfeljebb nyolc, a (2) bekezdés szerinti munkavállaló beosztás szerinti napi munkaideje legfeljebb hat óra lehet.
+
+(4) Több munkaviszony keretében történő foglalkoztatás esetén a beosztás szerinti napi munkaidőt össze kell számítani.
+
+(5) A fiatal munkavállaló számára
+
+- a) rendkívüli munkaidő nem rendelhető el,
+- b) a munkaidő a 97. § (3) bekezdés b) és c) pontja szerint nem osztható be,
+- c) éjszakai munka nem osztható be,
+- d) legfeljebb egyheti munkaidőkeretet lehet elrendelni,
+- e) négy és fél órát meghaladó beosztás szerinti napi munkaidő esetén legalább harminc perc, hat órát meghaladó beosztás szerinti napi munkaidő esetén legalább negyvenöt perc munkaközi szünetet kell kiadni, és
+- f) legalább tizenkét óra napi pihenőidőt kell beosztani.
 
 #### 59. A szabadság
 
@@ -1357,9 +1442,8 @@ rendelhető el.
 - b) a szabadság,
 - c) a szülési szabadság,
 - d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
-- e) a keresőképtelenség,
-- f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
-- g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–l) pontban meghatározott
+- e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
+- f) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában és (5) bekezdésében meghatározott
 
 tartama.
 
@@ -1394,7 +1478,11 @@ munkanap pótszabadság jár.
 
 (3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
-(4) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(4) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a munkavállaló akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
+
+118/A. § (1) A munkavállalót gyermeke hároméves koráig negyvennégy munkanap szülői szabadság illeti meg.
+
+(2) A szülői szabadság igénybevételének feltétele, hogy a munkaviszony egy éve fennálljon.
 
 119. § (1) A fiatal munkavállalónak évenként öt munkanap pótszabadság jár, utoljára abban az évben, amelyben a tizennyolcadik életévét betölti.
 
@@ -1408,7 +1496,7 @@ munkanap pótszabadság jár.
 
 évenként öt munkanap pótszabadság jár.
 
-121. § (1) A munkavállaló részére, ha munkaviszonya év közben kezdődött vagy szűnt meg – a 118. § (4) bekezdését kivéve – a szabadság arányos része jár.
+121. § (1) A munkavállaló részére, ha munkaviszonya év közben kezdődött vagy szűnt meg – az apasági szabadságot és a szülői szabadságot kivéve – a szabadság arányos része jár.
 
 (2) A fél napot elérő töredéknap egész munkanapnak számít.
 
@@ -1422,9 +1510,11 @@ munkanap pótszabadság jár.
 
 (4) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt tizenöt nappal közölni kell.
 
+(4a) A munkáltató a szülői szabadságot a munkavállaló kérésének megfelelő időpontban adja ki.
+
 (5) A szabadságot – a 125. §-ban foglaltakat kivéve – megváltani nem lehet.
 
-123. § (1) A szabadságot esedékességének évében kell kiadni.
+123. § (1) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – az esedékességének évében kell kiadni.
 
 (2) A szabadságot, ha a munkaviszony október elsején vagy azt követően kezdődött, a munkáltató az esedékességet követő év március 31-ig adhatja ki.
 
@@ -1434,9 +1524,11 @@ munkanap pótszabadság jár.
 
 (5) A munkáltató kivételesen fontos gazdasági érdek vagy a működését közvetlenül és súlyosan érintő ok esetén
 
-- a) a szabadság kiadásának közölt időpontját módosíthatja,
-- b) a munkavállaló már megkezdett szabadságát megszakíthatja,
+- a) a szabadság kiadását – az apasági szabadságot kivéve – legfeljebb hatvan nappal – elhalaszthatja,
+- b) a munkavállaló már megkezdett szabadságát – az apasági szabadságot és a szülői szabadságot kivéve – megszakíthatja,
 - c) kollektív szerződés rendelkezése esetén a szabadság egynegyedét legkésőbb az esedékességet követő év március 31-ig adhatja ki.
+
+(5a) A munkáltató az (5) bekezdés szerinti intézkedését írásban indokolja, továbbá az (5) bekezdés a) pont szerinti esetben a kiadás általa javasolt időpontját egyidejűleg közli a munkavállalóval.
 
 (6) A munkáltató – a felek naptári évre kötött megállapodása alapján – a 117. § szerinti szabadságot az esedékesség évét követő év végéig adja ki.
 
@@ -1452,7 +1544,7 @@ munkanap pótszabadság jár.
 
 (5) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni, valamint a (4) bekezdésben foglaltakra tekintettel kell nyilvántartani.
 
-125. § A munkaviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt meg kell váltani.
+125. § A munkaviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt – az apasági szabadságot és a szülői szabadságot kivéve – meg kell váltani.
 
 #### 61. Betegszabadság
 
@@ -1470,7 +1562,7 @@ munkanap pótszabadság jár.
 
 127. § (1) Az anya egybefüggő 24 hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
-(2) A szülési szabadság annak a szülőnek is jár, aki a gyermeket az anya egészségi állapota vagy halála miatt végrehajtható bírósági ítélet vagy végrehajtható gyámhatósági határozat alapján gondozza.
+(2) A szülési szabadság annak a munkavállalónak is jár, aki a gyermeket az anya egészségi állapota vagy halála miatt végrehajtható bírósági ítélet vagy végrehajtható gyámhatósági határozat alapján gondozza.
 
 (3) A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
 
@@ -1537,9 +1629,11 @@ szerinti megállapodásokat.
 - a) a 87. §-ban,
 - b) a 96. § (2) bekezdésében,
 - c) a 122. § (5) bekezdésében,
-- d) a 126. § (4) bekezdésében,
-- e) a 127. § (1)–(2) és (4) bekezdésében,
-- f) a 134. §-ban
+- d) a 124. §-ban,
+- e) a 125. §-ban,
+- f) a 126. § (4) bekezdésében,
+- g) a 127. § (1), (2) és (4) bekezdésében,
+- h) a 134. §-ban
 
 foglaltaktól nem térhet el.
 
@@ -1556,9 +1650,9 @@ foglaltaktól nem térhet el.
 - i) a 111. §-ban,
 - j) a 113–121. §-ban,
 - k) a 122. § (3) bekezdésében,
-- l) a 123. § (6) bekezdésében,
-- m) a 124. §-ban,
-- n) a 125. §-ban,
+- l) a 123. § (5)–(6) bekezdésében,
+- m)
+- n)
 - o) a 126. § (1)–(3) és (5) bekezdésében,
 - p) a 127. § (5) bekezdésében,
 - r) a 128–133. §-ban
@@ -1584,6 +1678,8 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 - b) a megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja.
 
 (6) Kollektív szerződés a (4) bekezdés szerint foglalkoztatott munkavállaló esetében osztott munkaidőt állapíthat meg.
+
+(7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legfeljebb negyvennyolc órával módosítható.
 
 ### XII. Fejezet — A MUNKA DÍJAZÁSA
 
@@ -1682,23 +1778,28 @@ havi átalányt állapíthatnak meg.
 
 #### 67. Díjazás munkavégzés hiányában
 
-146. § (1) A munkavállalót, ha a munkáltató foglalkoztatási kötelezettségének a beosztás szerinti munkaidőben nem tesz eleget (állásidő) – az elháríthatatlan külső okot kivéve – alapbér illeti meg.
-
-(2) A munkavállalót, ha a munkáltató hozzájárulása alapján mentesül a munkavégzés alól, a kiesett munkaidőre megállapodásuk szerint illeti meg díjazás.
-
-(3) A munkavállalót távolléti díj illeti meg
+146. § (1) A munkavállalót távolléti díj illeti meg
 
 - a) a szabadság tartamára,
-- b) az 55. § (1) bekezdés c)–g) és j) pontjában, valamint az 55. § (2) bekezdésében meghatározott esetben,
-- c) az 55. § (1) bekezdés i) pontban meghatározott esetben, ha tanúként hallgatják meg,
-- d) óra- vagy teljesítménybérezés esetén a napi munkaidőre, ha az általános munkarend szerinti munkanapra eső munkaszüneti nap miatt csökken a teljesítendő munkaidő,
-- e) ha munkaviszonyra vonatkozó szabály, munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő.
+- b) az 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
+- c) az 55. § (1) bekezdés i) pontjában meghatározott esetben, ha tanúként hallgatják meg,
+- d) óra- vagy teljesítménybérezés esetén a napi munkaidő tartamára, ha az általános munkarend szerinti munkanapra eső munkaszüneti nap miatt csökken a teljesítendő munkaidő,
+- e) az 54. § (3) bekezdésben, az 55. § (5) bekezdésében meghatározott esetben, és
+- f) ha munkaviszonyra vonatkozó szabály rendelkezésre állás vagy munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő.
 
-(4) A (3) bekezdés d) pontjától eltérően, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül.
+(2) Az (1) bekezdés d) pontjától eltérően, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül, vagy egyébként munkaköre ellátására egészségi okból alkalmatlan.
 
-(5) A betegszabadság tartamára a távolléti díj hetven százaléka jár.
+(3) A munkavállaló a betegszabadság tartamára a távolléti díj hetven százalékára jogosult.
 
-147. § A munkavállalót a 146. § (1) bekezdésben meghatározott díjazáson felül bérpótlék is megilleti, ha a munkaidő-beosztása alapján bérpótlékra lett volna jogosult.
+(4) A munkavállaló az apasági szabadság öt munkanapjára távolléti díjra, a hatodik munkanapjától a távolléti díj negyven százalékára jogosult.
+
+(5) A munkavállaló a szülői szabadság tartamára a távolléti díj tíz százalékára jogosult, amelyet csökkenteni kell az erre az időszakra a munkavállalónak megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
+
+(6) A munkavállalót, ha a munkáltató hozzájárulása alapján mentesül a rendelkezésre állási kötelessége alól, a megállapodásuk szerint illeti meg díjazás.
+
+147. § (1) A munkavállalót, ha a munkáltató foglalkoztatási kötelezettségének nem tesz eleget (állásidő) – az elháríthatatlan külső okot kivéve – alapbér illeti meg.
+
+(2) A munkavállalót, ha a munkaidő-beosztása alapján bérpótlékra jogosult, az (1) bekezdésben meghatározott díjazáson felül bérpótlék is megilleti.
 
 #### 68. A távolléti díj számítása
 
@@ -1797,7 +1898,7 @@ figyelembevételével kell megállapítani.
 
 (2) A kizárólag teljesítménybérrel díjazott munkavállaló esetében, ha a részére járó munkabér vagy annak része alapjául szolgáló eredmény csak egy hónapnál hosszabb idő múlva állapítható meg, a munkabért ennek megfelelő időpontban kell kifizetni. Az alapbér felének megfelelő összegű előleget – legalább havonta – fizetni kell.
 
-158. § (1) A munkabért készpénzben vagy a munkavállaló által meghatározott fizetési számlára utalással kell kifizetni.
+158. § (1) A munkabért a munkavállaló által megjelölt fizetési számlára utalással kell megfizetni. A felek írásbeli megállapodása esetén a munkabért készpénzben kell megfizetni.
 
 (2) A munkabér fizetési számlára utalással történő kifizetése esetén, a munkáltatónak úgy kell eljárni, hogy a munkavállaló munkabérével a bérfizetési napon rendelkezhessen.
 
@@ -1982,7 +2083,7 @@ különbözetének megtérítése iránti igényt.
 
 (5) A munkáltató bizonyítja az (1) és a (3) bekezdésben meghatározott feltételek meglétét és a kárt.
 
-(6) Ha a megőrzésre átadott dologban megrongálódása folytán keletkezett kár, a munkavállaló mentesül a felelősség alól, ha bizonyítja, úgy járt el, ahogy az adott helyzetben általában elvárható.
+(6) A megőrzésre átadott dologban megrongálódása folytán keletkezett kárért a munkavállaló a 179. § alapján felel azzal, hogy abban az esetben mentesül a felelősség alól, ha bizonyítja, hogy úgy járt el, ahogy az adott helyzetben általában elvárható.
 
 #### 78. Több munkavállaló együttes felelőssége
 
@@ -2085,13 +2186,15 @@ megszűnik.
 
 (3) Ha a munkaviszony létesítéséhez hatósági engedély szükséges, a munkaviszony legfeljebb az engedélyben meghatározott tartamra létesíthető. Az engedély meghosszabbítása esetén az újabb határozott idejű munkaviszony tartama – a korábban létesített munkaviszony tartamával együtt – az öt évet meghaladhatja.
 
-(4) A határozott idejű munkaviszony meghosszabbítása vagy a határozott idejű munkaviszony megszűnését követő hat hónapon belüli ismételt létesítése csak munkáltatói jogos érdek fennállása esetén lehetséges. A megállapodás nem irányulhat a munkavállaló jogos érdekének csorbítására.
+(4) A határozott idejű munkaviszony meghosszabbítása vagy a határozott idejű munkaviszony megszűnését követő hat hónapon belüli ismételt létesítése csak munkáltatói jogos érdek fennállása esetén lehetséges. A megállapodás nem irányulhat a munkavállaló jogos érdekének csorbítására. A határozott idejű munkaviszony meghosszabbítása vagy a határozott idejű munkaviszony megszűnését követő hat hónapon belül ismételt létesítése esetén azonos vagy hasonló munkakörben történő foglalkoztatás alkalmával próbaidő nem köthető ki.
+
+(5) A legfeljebb tizenkét hónapra létesített munkaviszony esetén a próbaidő tartamát – a 45. § (5) bekezdése és az 50. § (4) bekezdése szerint meghatározott tartam figyelembevételével – arányosan kell megállapítani. Ennek során a 121. § (2) bekezdését kell alkalmazni.
 
 #### 84. Munkavégzés behívás alapján
 
 193. § (1) A legfeljebb napi hat óra tartamú részmunkaidőben foglalkoztatott munkavállaló munkaszerződés alapján a munkakörébe tartozó feladatok esedékességéhez igazodva teljesíti munkavégzési kötelezettségét. Ebben az esetben a munkaidőkeret tartama a négy hónapot nem haladhatja meg.
 
-(2) A munkáltatónak a munkavégzés időpontját legalább három nappal előre közölnie kell a munkavállalóval.
+(2) A munkáltató a beosztás szerinti munkaidő kezdő és befejező időpontját legalább hetvenkét órával korábban közli a munkavállalóval.
 
 #### 85. A munkakör megosztása
 
@@ -2113,7 +2216,7 @@ megszűnik.
 
 (4) A munkaviszonyt – eltérő megállapodás hiányában – bármely munkáltató vagy a munkavállaló jognyilatkozata megszünteti.
 
-(5) A munkaviszony a 63. § (1) bekezdés b) pontban meghatározott okból megszűnik, ha a munkáltatók száma egyre csökken.
+(5) A munkaviszony – eltérő megállapodás hiányában – a 63. § (1) bekezdés b) pontban meghatározott okból megszűnik, ha a munkáltatók száma egyre csökken.
 
 #### 87. A távmunkavégzés
 
@@ -2172,12 +2275,14 @@ megszűnik.
 - d) az 59. §-ban,
 - e) a 61. §-ban,
 - f) a 81. §-ban,
-- g) a 97. § (4) és (5) bekezdésében,
-- h) a 101. §-ban,
-- i) a 122–124. §-ban,
-- j) a 126–133. §-ban,
-- k) a 192. § (4) bekezdésében, valamint
-- l) a 208–211. §-ban
+- g) a 91. §-ban,
+- h) a 92. § (2) bekezdésében,
+- i) a 97. § (4) és (5) bekezdésében,
+- j) a 101. §-ban,
+- k) a 122–124. §-ban,
+- l) a 126–133. §-ban,
+- m) a 192. § (4) bekezdésében, valamint
+- n) a 208–211. §-ban
 
 foglaltak nem alkalmazhatók.
 
@@ -2205,6 +2310,12 @@ meghatározott szabályaitól nem térhet el.
 - a) a 69. § (3) bekezdése nem alkalmazható,
 - b) a 86. § (3) bekezdésétől nem lehet eltérni.
 
+(2a) A felmondási időre, valamint a végkielégítésre való jogosultság megállapításánál – az (1) bekezdéstől eltérően – a korábbi munkáltatónál munkaviszonyban töltött időt is figyelembe kell venni, ha
+
+- a) a jogviszony megszüntetésére közös megegyezéssel került sor,
+- b) a korábbi munkáltató a munkaviszony megszűnésekor köztulajdonban állónak minősült, és
+- c) a munkaviszony létesítésére közvetlenül a jogviszony megszüntetését követően került sor.
+
 (3) A köztulajdonban álló munkáltatóval fennálló munkaviszonyban az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő – az egészségi ártalom vagy veszély kizárása érdekében történő megállapítást kivéve – nem írható elő.
 
 206. § A XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet.
@@ -2229,10 +2340,12 @@ meghatározott szabályaitól nem térhet el.
 
 (2) A vezető munkaszerződése
 
-- a) az 55. § (1) bekezdés b), c), e) és j) pontjában,
-- b) a 65. § (3) bekezdés a), b) és e) pontjában,
-- c) a 113. § (3) bekezdésében, valamint
-- d) a 127. §-ban és a 128. §-ban
+- a) az 55. § (1) bekezdés b), c), e), j), k) és l) pontjában,
+- b) a 65. § (3) bekezdés a)–d) és g) pontjában,
+- c) a 113. § (5) bekezdésében,
+- d) a 118. § (4) bekezdésében,
+- e) a 118/A. §-ban és
+- f) a 127–128. §-ban
 
 foglaltaktól nem térhet el.
 
@@ -2279,7 +2392,7 @@ nem kell alkalmazni.
 213. § A felek megállapodása vagy kollektív szerződés
 
 - a) a 192. §-ban,
-- b) a 195. § (2)–(3) és (5) bekezdésében,
+- b) a 195. § (2)–(3) bekezdésében,
 - c) a 196. §-ban,
 - d)
 - e) a 198. §-ban,
@@ -3056,6 +3169,8 @@ irányuló igény öt év; ha a büntethetőség elévülési ideje ennél hossz
 
 kapcsolatos igény érvényesítése iránt.
 
+(1a) A keresetlevelet a 61. § (6) bekezdése és a 64. § (4) bekezdése szerinti igény érvényesítése esetén a munkáltató jognyilatkozatának közlésétől, vagy a jognyilatkozat megtételére rendelkezésre álló határidő lejártától számított harminc napon belül kell előterjeszteni.
+
 (2) A munkavállaló
 
 - a) 40. § szerinti felmondásával, vagy
@@ -3099,9 +3214,9 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 - a) fiatal munkavállaló: a tizennyolcadik életévét be nem töltött munkavállaló,
 - b) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és a testvér házastársa,
-- c) gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek; fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
+- c) gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák,
 - d) kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is,
-- e) munkavállalói képviselő: az üzemi tanács tagja, az üzemi megbízott, a 273. § (3)–(4) bekezdése szerinti szakszervezeti tisztségviselő, a gazdasági társaság felügyelő bizottságának munkavállaló képviselője.
+- e) munkavállalói képviselő: az üzemi tanács tagja, az üzemi megbízott, a 273. § (3) és (4) bekezdése szerinti szakszervezeti tisztségviselő, a munkavédelemről szóló törvény szerinti munkavédelmi képviselő, a gazdasági társaság felügyelő bizottságának munkavállaló képviselője,
 - f) munkavégzésre irányuló jogviszony: a munkaviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és megbízási szerződés, a gazdasági társaság vezető tisztségviselői vagy felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony és az egyéni vállalkozás,
 - g) nyugdíjas munkavállaló, aki
   - ga) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
@@ -3110,12 +3225,8 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
   - gd) egyházi jogi személytől egyházi, felekezeti nyugdíjban részesül,
   - ge) öregségi, munkaképtelenségi járadékban részesül,
   - gf) növelt összegű öregségi, munkaképtelenségi járadékban részesül, vagy
-  - gg) rokkantsági ellátásban részesül,
-- h) szülő:
-  - ha) a vér szerinti és az örökbefogadó szülő, továbbá az együttélő házastárs,
-  - hb) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
-  - hc) a gyám,
-  - hd) a nevelőszülő és a helyettes szülő,
+  - gg)
+- h) fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 - i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
 - j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész,
 - k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogatásáról szóló törvény szerint szülőként legalább három gyermekre tekintettel
@@ -3126,32 +3237,40 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
   - lb) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány, minősítés időbeli hatálya alatt,
   - lc) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
   - ld) rokkantsági ellátásban részesül.
+- m) apa: a Ptk. szerint szülői felügyelettel rendelkező
+  - ma) apai jogállású férfi, vagy
+  - mb) örökbefogadó férfi,
+- n) gondozást végző munkavállaló: az a munkavállaló, aki a kezelőorvos által igazolt
+  - na) súlyos egészségi okból, és
+  - nb) jelentős gondozásra vagy támogatásra szoruló
+
+hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek személyes gondozást vagy támogatást nyújt.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 
-295. § (1) Ha a külföldi munkáltató – harmadik személlyel kötött megállapodás alapján – a munkavállalót Magyarország területén olyan munkaviszonyban foglalkoztatja, amelyre a 3. § (2) bekezdése alapján e törvény hatálya nem terjed ki, a (4) bekezdésben foglalt kivétellel a munkaviszonyra
+295. § (1) Ha a külföldi munkáltató – harmadik személlyel kötött szolgáltatás nyújtására irányuló megállapodás alapján – a munkavállalót Magyarország területén olyan munkaviszonyban foglalkoztatja, amelyre a 3. § (2) bekezdése alapján e törvény hatálya nem terjed ki, a munkaviszonyra
 
 - a) a leghosszabb munkaidő vagy a legrövidebb pihenőidő mértéke,
 - b) a fizetett éves szabadság legalacsonyabb mértéke,
 - c) a munkavégzés helyén általánosan irányadó díjazás összege,
 - d) a munkaerő-kölcsönzésnek a 214–222. §-ban meghatározott feltételei,
 - e) a munkavédelmi feltételek,
-- f) a várandós vagy kisgyermekes nő, valamint a fiatal munkavállaló munkavállalási és foglalkoztatási feltételei, továbbá
+- f) a várandós vagy kisgyermekes nő, valamint a fiatal munkavállaló munkavállalási és foglalkoztatási feltételei,
 - g) az egyenlő bánásmód követelménye,
-- h) a munkavállalónak a munkáltató által biztosított szállás feltételei,
+- h) a munkavállalónak a munkáltató által biztosított szállás feltételei, valamint
 - i) Magyarország területén ideiglenesen foglalkoztatott munkavállaló kiküldetésekor felmerülő vagy Magyarország területén történő tartózkodás során, a szokásos munkavégzés helyétől eltérő munkahelyre küldés esetén az utazással, ellátással és szállással kapcsolatos költségekre fizetett juttatások vagy költségtérítés mértéke
 
-tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszonyra kiterjesztett hatályú kollektív szerződésben foglalt rendelkezéseiket is.
+tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszonyra kiterjesztett hatályú, illetve az ágazatra vagy alágazatra kiterjedő hatályú kollektív szerződésben foglalt rendelkezéseiket is.
 
 (2) Az (1) bekezdést alkalmazni kell abban az esetben is, ha a foglalkoztatásra a külföldi munkáltató vagy olyan munkáltató magyarországi telephelyén kerül sor, amely azonos cégcsoportba tartozik a külföldi munkáltatóval.
 
 (3) Az (1) bekezdés c) pontjának alkalmazásában a munkavégzés helyén általánosan irányadó díjazás fogalmán a 136–153. §-ban meghatározott díjazást kell érteni. Nem kell a díjazásba beszámítani a kiegészítő foglalkoztatói nyugdíjrendszerekbe történő befizetést, valamint a munkavállalónak nyújtott olyan díjazást, amely nem képezi a személyi jövedelemadó alapját.
 
-(4) Az (1) bekezdésben meghatározott feltételek tekintetében az ágazatra vagy alágazatra kiterjedő hatályú kollektív szerződés rendelkezéseit kell alkalmazni.
+(4)
 
 (5) Ha az (1) bekezdés szerinti kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra e törvény rendelkezéseit – a (7) bekezdésben foglaltak kivételével – megfelelően alkalmazni kell.
 
-(6) Az (5) bekezdés szerinti időtartam további hat hónappal meghosszabbodik a külföldi munkáltató foglalkoztatás-felügyeleti hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
+(6) Az (5) bekezdésben hivatkozott tizenkét hónapos időtartam további hat hónappal meghosszabbodik a külföldi munkáltató foglalkoztatás-felügyeleti hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
 
 (7) A tizenkét hónapot meghaladó kiküldetés esetén
 
@@ -3164,11 +3283,13 @@ nem alkalmazhatóak.
 
 (8) Ha a külföldi munkáltató a munkavállalót Magyarország területén adott munkahelyen végzett feladatot ellátó másik munkavállalóval helyettesíti (felváltó kiküldetés), a kiküldetés időtartama a felváltó kiküldetésben érintett munkavállalók összesített kiküldetési időtartamával egyezik meg. Az adott munkahelyen végzett feladat meghatározásához a nyújtandó szolgáltatás jellegét, az elvégzendő feladatot és a munkavégzés helyét kell figyelembe venni.
 
-(9) Az (1)–(4) bekezdés rendelkezéseit nem kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek tekintetében a munkaviszonyra egyébként irányadó jog a munkavállalóra kedvezőbb.
+(9) Az (1)–(3) bekezdés rendelkezéseit nem kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek tekintetében a munkaviszonyra egyébként irányadó jog a munkavállalóra kedvezőbb.
 
 296. § (1) A 295. § rendelkezéseit nem kell alkalmazni a kereskedelmi hajózási tevékenységet folytató munkáltató tengerjáró hajón foglalkoztatott személyzete tekintetében.
 
-(2) A szerződés alapján az áru első összeszerelését vagy beszerelését végző, a szolgáltató által kiküldött munkavállalóra, a fizetett éves szabadság legalacsonyabb mértéke és a legalacsonyabb munkabér összege tekintetében nem kell alkalmazni a 295. § (1) bekezdés b)–c) pontban foglalt rendelkezéseket, ha a magyarországi munkavégzés időtartama nem haladja meg a nyolc napot, kivéve, ha a 295. § (4) bekezdésében meghatározott tevékenység végzésére kerül sor.
+(2) A szerződés alapján az áru első összeszerelését vagy beszerelését végző, a szolgáltató által kiküldött munkavállalóra, a fizetett éves szabadság legalacsonyabb mértéke és a legalacsonyabb munkabér összege tekintetében nem kell alkalmazni a 295. § (1) bekezdés b)–c) pontban foglalt rendelkezéseket, ha a magyarországi munkavégzés időtartama nem haladja meg a nyolc napot.
+
+(3) A (2) bekezdés nem alkalmazható az épületek építésére, javítására, fenntartására, átalakítására vagy elbontására vonatkozó építőmunkát, így különösen földkiemelést, földmunkát, tényleges építőmunkát, előre gyártott elemek össze- és szétszerelését, felszerelést vagy berendezést, átalakításokat, felújítást, javítást, szétszerelést, elbontást, karbantartást, fenntartást, festési és takarítási munkát végző munkáltatók esetében az e tevékenység keretében kiküldött vagy kölcsönzött munkavállaló foglalkoztatására.
 
 297. § (1) A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. Amennyiben a 215. § (1) bekezdés a) pont szerinti kölcsönbeadó a munkavállalót munkaerő-kölcsönzés keretében Magyarország területén munkavégzésre ideiglenesen átengedi, a kölcsönvevő köteles tájékoztatni a kölcsönbeadót a munkafeltételek és a díjazás tekintetében alkalmazandó foglalkoztatási feltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.
 
@@ -3203,21 +3324,21 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 
 (4) Törvény – ágazati, szakmai sajátosságokra tekintettel – e törvény rendelkezéseitől eltérhet.
 
-(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
+(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő, továbbá meghatározza a tevékenység végzésétől történő eltiltás részletes feltételeit.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 
-(7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére, valamint a pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+(7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető apasági szabadság igénybevételére és az apasági szabadsággal összefüggő díjazás, költségek megtérítésére vonatkozó szabályokat.
 
 (8) E törvény más jogszabályban alkalmazandó rövid megjelölése: Mt.
 
 299. § E törvény az Európai Unió alábbi jogi aktusainak való megfelelést szolgálja:
 
 - a) a Tanács 91/383/EGK irányelve (1991. június 25.) a határozott idejű vagy munkaerő-kölcsönzés céljából létesített munkaviszonyban álló munkavállalók munkahelyi biztonságának és egészségének javítását elősegítő intézkedések kiegészítéséről,
-- b) a Tanács 91/533/EGK irányelve (1991. október 14.) a munkaadónak a munkavállalóval szembeni, a szerződés vagy a munkaviszony feltételeiről való tájékoztatási kötelezettségéről,
+- b) az Európai Parlament és a Tanács (EU) 2019/1152 irányelve (2019. június 20.) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről,
 - c) a Tanács 92/85/EGK irányelve (1992. október 19.) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében),
 - d) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatal személyek munkahelyi védelméről,
-- e) a Tanács 2010/18/EU irányelve (2010. március 8.) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről,
+- e) az Európai Parlament és a Tanács (EU) 2019/1158 irányelve (2019. június 20.) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről,
 - f) az Európai Parlament és a Tanács 96/71/EK irányelve (1996. december 16.) a munkavállalók szolgáltatások nyújtása keretében való kiküldetéséről,
 - g) a Tanács 97/81/EK irányelve (1997. december 15.) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról,
 - h) a Tanács 98/59/EK irányelve (1998. július 20.) a csoportos létszámcsökkentésre vonatkozó tagállami jogszabályok közelítéséről,
@@ -3230,5 +3351,6 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 - o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról,
 - p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról,
 - q) az Európai Parlament és a Tanács (EU) 2018/957 irányelve (2018. június 28.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról.
+- r) a Tanács (EU) 2018/131 irányelve (2018. január 23.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között a 2009/13/EK irányelvnek a 2006-os Tengerészeti Munkaügyi Egyezmény 2014. évi, a Nemzetközi Munkaügyi Konferencia által 2014. június 11-én jóváhagyott módosításával összhangban történő módosítása céljából létrejött megállapodás uniós jogba való átültetéséről.
 
 300. § A 10–11. §, valamint a 11/A. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. árpilis 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.

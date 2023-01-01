@@ -2364,8 +2364,8 @@ eltérő rendelkezéseket állapíthat meg,
 
 (2) A klinikai központ
 
-- a) irányítói megyei intézményi feladatokat ellátó és
-- b) irányítói megyei intézményi feladatokat el nem látó
+- a) irányítói vármegyei intézményi feladatokat ellátó és
+- b) irányítói vármegyei intézményi feladatokat el nem látó
 
 klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő szabályok az irányadók.
 
@@ -2657,7 +2657,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 (3)
 
-(4) A vizsgabizonyítvány tárgyában hozott végleges határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában és az oktatási hivatal honlapján közzé kell tenni.
+(4) A vizsgabizonyítvány tárgyában hozott végleges határozatot – indokolás nélkül – a Magyar Közlöny mellékletét képező Hivatalos Értesítőben és az oktatási hivatal honlapján közzé kell tenni.
 
 (5) Ha a nyelvvizsga-bizonyítványt kiállító vizsgaközpont jogutód nélkül szűnt meg, az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 

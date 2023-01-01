@@ -5602,7 +5602,7 @@ A gyámhatóság, kérelemre vagy a gyermek érdekében hivatalból, a szülői 
 
 (2) A kapcsolattartásról a bíróság vagy a gyámhatóság a gyermek korának, egészségi állapotának, életkörülményeinek, a szülők személyes körülményeinek és az ítélőképessége birtokában lévő gyermek véleményének figyelembevételével rendelkezik.
 
-(3) A kapcsolattartásra vonatkozó határozatban rendelkezni kell a kapcsolattartás gyakoriságáról, időtartamáról, folyamatos vagy időszakos voltáról, arról, hogy felügyelt kapcsolattartásra kerül-e sor, továbbá a gyermek átadásának és visszaadásának helyéről, idejéről és módjáról, a kapcsolattartás elmaradására vonatkozó értesítési kötelezettségről és az elmaradt kapcsolattartás pótlásáról.
+(3) A kapcsolattartásra vonatkozó határozatban rendelkezni kell a kapcsolattartás gyakoriságáról, időtartamáról, folyamatos vagy időszakos voltáról, arról, hogy felügyelt kapcsolattartásra kerül-e sor, a gyermek átadásának és visszaadásának helyéről, idejéről és módjáról, továbbá a gyermek személyes okmányai átadásáról és visszaadásáról, valamint a kapcsolattartás elmaradására vonatkozó értesítési kötelezettségről és az elmaradt kapcsolattartás pótlásáról.
 
 (4) Ha a kapcsolattartás kérdésében a bíróság döntött, a kapcsolattartás megváltoztatását is a bíróságtól lehet kérni.
 
@@ -8544,7 +8544,7 @@ Fogyasztó és vállalkozás közötti szerződésben semmis a fogyasztónak a j
 
 - a) az ügyész;
 - b) a miniszter, az autonóm államigazgatási szerv, a kormányzati főhivatal, a központi hivatal vezetője;
-- c) a fővárosi és megyei kormányhivatal vezetője;
+- c) a fővárosi és vármegyei kormányhivatal vezetője;
 - d) a gazdasági és szakmai kamara vagy érdekképviseleti szervezet; és
 - e) az általa védett fogyasztói érdekek körében a fogyasztói érdekek képviseletét ellátó egyesület, és az Európai Gazdasági Térség bármely tagállamának joga alapján a fogyasztói érdekek védelmére létrejött szervezet.
 

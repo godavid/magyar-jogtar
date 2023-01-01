@@ -64,9 +64,10 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 - a) egyébként nem adóalanyi minőségben eljáró, az 5. § (1) bekezdése értelmében jogképes személy vagy szervezet (a továbbiakban együtt: személy, szervezet) belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszközt értékesít belföldön kívülre, de – a beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi;
 - b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépített ingatlant (ingatlanrészt), és ehhez tartozó földrészletet sorozat jelleggel értékesít, feltéve, hogy
   - ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
+  - bb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, vagy a használatbavétel tudomásulvétele, vagy az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján épített lakóingatlan felépítésének megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
+  - bc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
 
-[a ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
+[a ba), bb) és bc) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
 
 - c) egyébként nem adóalanyi minőségben eljáró személy, szervezet sorozat jelleggel építési telket (telekrészt) értékesít.
 
@@ -335,6 +336,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - h) költségvetési szerv államháztartásról szóló törvény szerinti átalakítását, vagy irányító (felügyeleti) szervének megváltozását.
 - i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában jogutódlásnak tekintendő;
 - j) egyházi jogi személynek a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti átalakulását, jogutódlással történő megszűnését vagy fenntartójának megváltozását.
+- k) az agrárgazdaságok átadásáról szóló törvény szerinti gazdaságátadási szerződés alapján megvalósuló gazdaságátadást.
 
 (4) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás az adóalany általi üzletág-átruházás esetében, feltéve, hogy az a 18. § (1)–(2) bekezdésében meghatározott feltételek szerint történik, és a szerző az üzletágat a további működtetés céljából szerzi meg.
 
@@ -354,7 +356,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - a) az üzletág keretében folytatott gazdasági tevékenység kizárólag adólevonásra jogosító termékértékesítés, szolgáltatásnyújtás, és
 - b) ha a szerzett vagyon olyan ingatlant (ingatlanrészt) tartalmaz
   - ba) amelyre vonatkozóan az üzletágat átruházó adóalany élt a 88. §-ban említett választási jogával, vagy
-  - bb) amelynek értékesítése az üzletág-átruházás időpontjában a 86. § (1) bekezdés j) pont ja) vagy jb) alpontja hatálya alá tartozna,
+  - bb) amelynek értékesítése az üzletág-átruházás időpontjában a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja hatálya alá tartozna,
 
 az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezettséget válasszon. Az üzletágat megszerző adóalanynak ezen választásáról legkésőbb azon a napon kell bejelentést tennie az állami adóhatóságnak, amelyen a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás beállna, ha a 17. § (4) bekezdése nem lenne alkalmazható.
 
@@ -366,7 +368,10 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 - d) az egyéni cég tagját az egyéni cég gazdasági társasággá történő átalakulása esetén,
 - e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére átadja, valamint
 - f) az üzletágat átruházó adóalanyt,
-- g) a 17. § (5) bekezdés a) pontja esetén a vagyonrendelőt, b) pontja esetén pedig a bizalmi vagyonkezelőt, azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
+- g) a 17. § (5) bekezdés a) pontja esetén a vagyonrendelőt, b) pontja esetén pedig a bizalmi vagyonkezelőt,
+- h) a gazdaságot átadó személyt a 17. § (3) bekezdés k) pontja szerinti esetben,
+
+azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
 
 (3) Ha az (1)–(2) bekezdésben meghatározott, az azok közül értelemszerűen alkalmazandó feltételek bármelyike nem teljesül, az apportra, a jogutódlásra, az üzletág-átruházásra, valamint a bizalmi vagyonkezelésre vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.
 
@@ -1158,7 +1163,8 @@ nem minősül közszolgáltatónak.
 - i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is, valamint a szerencsejáték szervezésére vonatkozó tevékenység gyakorlása jogának az állam által koncessziós szerződéssel történő átengedése;
 - j) a beépített ingatlan (ingatlanrész) és az ehhez tartozó földrészlet értékesítése, kivéve annak a beépített ingatlannak (ingatlanrésznek) és az ehhez tartozó földrészletnek az értékesítését, amelynek
   - ja) első rendeltetésszerű használatbavétele még nem történt meg; vagy
-  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
+  - jb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, vagy a használatbavétel tudomásulvétele, vagy az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján épített lakóingatlan felépítésének megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év; vagy
+  - jc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
 - k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 - l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
 - m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
@@ -1868,7 +1874,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 142. § (1) Az adót a termék beszerzője, szolgáltatás igénybevevője fizeti:
 
 - a) a 10. § d) pontja szerinti termékértékesítés esetében;
-- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles, építési hatósági tudomásulvételi eljáráshoz vagy egyszerű bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
+- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését és rendeltetésének megváltoztatását is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása hatósági engedélyhez vagy hatósághoz történő bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
 - c) munkaerő kölcsönzése, kirendelése, rendelkezésre bocsátása esetén, amely az a) pont szerinti termékértékesítéshez vagy szolgáltatásnyújtásnak minősülő olyan építési szerelési és egyéb szerelési munkához kapcsolódik, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve a bontással történő megszüntetését is – irányul;
 - d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
@@ -2466,7 +2472,8 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
 - c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
   - ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
+  - cb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, vagy a használatbavétel tudomásulvétele, vagy az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján épített lakóingatlan felépítésének megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
+  - cc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
 - d) az aa) alpont alá nem tartozó építési telek (telekrész) értékesítése,
 - e) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
 - f) a 86. § (1) bekezdésének a)–g) pontjai szerinti adómentes, kiegészítő jellegű szolgáltatásnyújtás,
@@ -4374,6 +4381,12 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 356. § E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított, illetve módosított 188. § (3) bekezdés h) pontja, 193. § (1) bekezdés a) és d) pontja, 195. § (2) bekezdése, (3) bekezdés b) pontja és (4) bekezdése a 2022. január 1-jén vagy azt követően teljesített ügyletekre alkalmazandó.
 
+357. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel módosított 142. § (1) bekezdés b) pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon szolgáltatások esetében kell először alkalmazni, amelyek teljesítési időpontja 2023. január 1-jére vagy azt követő időpontra esik.
+
+(2) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel módosított 142. § (1) bekezdés b) pontja szerinti szolgáltatás nyújtása esetén továbbra is a 2022. december 31-én hatályos szabályok szerint kell eljárni, ha a teljesítés időpontja 2023. január 1-jére vagy azt követő időpontra esik, de a szolgáltatást igénybe vevő adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2023. január 1-jét megelőzően kellene megállapítani.
+
+(3) Amennyiben az előleg jóváírásának, kézhezvételének időpontja 2023. január 1-jét megelőző napra esik azon e törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel módosított 142. § (1) bekezdés b) pontja szerinti szolgáltatások esetén, amelyek 2022. december 31-én még nem tartoztak a 142. § (1) bekezdés b) pontja hatálya alá, az előleg jóváírására, kézhezvételére, megszerzésére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a szolgáltatás igénybe vevőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -4475,8 +4488,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 47. | Háziasított kecskehús, fagyasztva, egész vagy fél | 0204 50 51-ből |
 | 48. | Háziasított kecskehús, fagyasztva, rövid elülső negyed | 0204 50 53-ból |
 | 49. | Házi sertéshús frissen, hűtve vagy fagyasztva | 0203-ból (kivéve: 0203 1110, 0203 2110) |
-| 50. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert (kivéve az 59. pont szerinti lakást) |  |
-| 51. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert” |  |
+| 50. | A 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert (kivéve az 59. pont szerinti lakást) |  |
+| 51. | A 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert |  |
 | 52. | A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0207 |
 | 53. | Madártojás héjában, frissen | 0407-ből |
 | 54. | Tej (kivéve az anyatejet) | 040110-ből 0401 20-ból |
@@ -4484,7 +4497,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 56. | Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és más belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével | 0302-ből 0303-ból |
 | 57. | Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével | 0304-ből |
 | 58. | Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsősége, frissen, hűtve vagy fagyasztva | 0206 30-ból 0206 41-ből 0206 49-ből |
-| 59. | Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó lakás értékesítése |  |
+| 59. | Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése |  |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 

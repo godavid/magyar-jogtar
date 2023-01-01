@@ -543,15 +543,17 @@ A készpénzfizetés napjától számított tizenöt napon belül az állami ad�
 - a) akinek – a tevékenység megkezdésekor ismert körülmények alapján – az adóévben az Szja tv., illetve a rá vonatkozó kettős adóztatás elkerüléséről szóló egyezmény vagy viszonosság értelmében várhatóan személyi jövedelemadó-kötelezettsége keletkezik,
 - b) akinek a tevékenysége megkezdésekor ismert körülmények változása következtében az adóévben az Szja tv., illetve a rá vonatkozó kettős adóztatás elkerüléséről szóló egyezmény értelmében személyi jövedelemadó-kötelezettsége keletkezik.
 
-(2) Az (1) bekezdés a) pontja esetében a tevékenység megkezdésétől számított harminc napon belül, az (1) bekezdés b) pontja esetében pedig a személyi jövedelemadó-kötelezettség keletkezését követő harminc napon belül kell a bejelentési kötelezettséget teljesíteni.
+(1a) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány és a felsőoktatási intézmény az állami adó- és vámhatósághoz bejelenti azt a külföldi illetőségű természetes személyt, akinek a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal vagy a felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszonya alapján várhatóan személyi jövedelemadó-fizetési kötelezettsége keletkezik.
 
-(3) Az (1) bekezdésben előírt bejelentés tartalmazza:
+(2) Az (1) bekezdés a) pontja és az (1a) bekezdés esetében a tevékenység megkezdésétől számított harminc napon belül, az (1) bekezdés b) pontja esetében pedig a személyi jövedelemadó-kötelezettség keletkezését követő harminc napon belül kell a bejelentési kötelezettséget teljesíteni.
+
+(3) Az (1) és (1a) bekezdésben előírt bejelentés tartalmazza:
 
 - a) a külföldi illetőségű természetes személy természetes személyazonosító adatait, lakcímét, állampolgárságát,
 - b) a munkavégzés megkezdésének időpontját,
 - c) a munkavégzésre megbízást adó külföldi szervezet vagy természetes személy nevét, székhelyét, telephelyét, illetve lakóhelyét.
 
-(4) Az (1) bekezdésben meghatározott személy az állami adó- és vámhatósághoz bejelenti a székhelyére, telephelyére nem önálló tevékenység végzésére kirendelt külföldi illetőségű természetes személy munkavégzése befejezésének időpontját és – ha az adat a munkavégzéssel kapcsolatban rendelkezésére áll – Magyarország területe elhagyásának időpontját. A bejelentést a munkavégzés befejezése, illetve az ország területe elhagyása előtt harminc nappal kell megtenni. Ha a munkavégzés befejezésének időpontja a munkavégzésre irányuló jogviszony azonnali hatályú megszűnése miatt vagy más okból e határidőben nem áll a bejelentésre kötelezett rendelkezésére, akkor a bejelentést a munkavégzés befejezése napját követő napon az ok megjelölésével kell az állami adó- és vámhatósághoz teljesíteni.
+(4) Az (1) bekezdésben, illetve az (1a) bekezdésben meghatározott személy az állami adó- és vámhatósághoz bejelenti a székhelyére, telephelyére nem önálló tevékenység végzésére kirendelt, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal vagy a felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszonyban álló külföldi illetőségű természetes személy munkavégzése befejezésének időpontját és – ha az adat a munkavégzéssel kapcsolatban rendelkezésére áll – Magyarország területe elhagyásának időpontját. A bejelentést a munkavégzés befejezése, illetve az ország területe elhagyása előtt harminc nappal kell megtenni. Ha a munkavégzés befejezésének időpontja a munkavégzésre irányuló jogviszony azonnali hatályú megszűnése miatt vagy más okból e határidőben nem áll a bejelentésre kötelezett rendelkezésére, akkor a bejelentést a munkavégzés befejezése napját követő napon az ok megjelölésével kell az állami adó- és vámhatósághoz teljesíteni.
 
 #### 42. § [Kölcsönvevő bejelentési kötelezettsége munkaerő-kölcsönzésnél]
 
@@ -650,7 +652,9 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - b) a kifizető (ideértve az egyéni vállalkozónak nem minősülő természetes személy munkáltatót is);
 - c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
-(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés e) pontja szerinti egyéni vállalkozó havonta, a tárgyhót követő hónap tizenkettedik napjáig, a Tbj. 6. § (1) bekezdés h) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
+(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés d) pontja szerinti, az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a tárgyhót követő hónap tizenkettedik napjáig, az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó – a tárgynegyedév adatait havonként külön feltüntetve – a tárgynegyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
+
+(1b) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés h) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
 (2) Az (1)–(1a) bekezdés szerinti bevallás tartalmazza:
 
@@ -753,6 +757,8 @@ Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megs
 
 - a) a csoportos általános forgalmi adóalanyiság létrejöttétől, illetve a csoporthoz csatlakozástól számított harminc napon belül a csoporttag az általános forgalmi adójáról,
 - b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
+
+(5) Ha a biztosított mezőgazdasági őstermelő, az Szja tv. rendelkezései szerint átalányadózást alkalmazó biztosított egyéni vállalkozó öregségi nyugdíj iránti igényt nyújt be, az igénylés benyújtását követő harminc napon belül saját magára vonatkozóan soron kívüli adóbevallást tesz az 50. § (2) bekezdésében meghatározott adatokról a bevallással még le nem fedett, az öregségi nyugdíj megállapításának általa kért kezdő napját megelőző napig terjedő időszakra vonatkozóan.
 
 #### 53. § [Bevallásra vonatkozó különös szabályok felszámolási eljárás, végelszámolás, kényszertörlési eljárás esetén]
 
@@ -1793,7 +1799,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 
 (26) Ha az állami adó- és vámhatóság a személygépkocsival személyszállítási szolgáltatást végző adózó tekintetében a nyugtaadási kötelezettségek megsértését állapítja meg, akkor az erről szóló véglegessé vált döntését haladéktalanul megküldi a személyszállítási szolgáltatást folytató vállalkozás működési területén illetékes közlekedési hatóság részére, a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, a tevékenységi engedély visszavonása és a tevékenység végzéstől történő eltiltás feltételeinek vizsgálata céljából.
 
-(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és megyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
+(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és vármegyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
 
 (28) Az állami adó- és vámhatóság ellenőrzi az elektronikus építési naplóban rögzítendő adószám érvényességét, amelynek eredményét az elektronikus építési napló részére automatikus adattovábbítással átadja.
 
@@ -2313,9 +2319,11 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 (1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban ötmillió forint, kétoldalú vagy többoldalú eljárásban nyolcmillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
 
-(2) Meghosszabbítás és módosítás iránti eljárás esetén a díj összege az eredeti eljárásban lerótt díj 50%-a. A kérelem elutasítása, illetve visszavonása esetén a díj összegének nyolcvanöt százalékát vissza kell téríteni.
+(2) Meghosszabbítás és módosítás iránti eljárás esetén a díj összege az (1) bekezdés szerinti díj 50%-a.
 
-(3) Az előzetes konzultáció díjának mértéke konzultációnként ötszázezer forint.
+(3) A kérelem visszautasítása, az eljárás megszüntetése vagy a kérelem elutasítása esetén az adópolitikáért felelős miniszter a befizetett díj 85 százalékát a döntés véglegessé válását követően haladéktalanul visszatéríti az adózó részére.
+
+(4) Az előzetes konzultáció díjának mértéke konzultációnként ötszázezer forint.
 
 #### 176. § [Valódiságvizsgálat]
 
@@ -2326,6 +2334,8 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 #### 177. § [Ügyintézési határidő]
 
 (1) A szokásos piaci ár megállapítására irányuló eljárást százhúsz nap alatt kell lefolytatni. A határidő két alkalommal hatvan nappal meghosszabbítható.
+
+(1a) Kétoldalú vagy többoldalú eljárásnál a külföldi állam illetékes hatóságával az egyeztetést a kérelem benyújtásától számított kettő év alatt kell befejezni. A határidő indokolt esetben egy évvel meghosszabbítható.
 
 (2) Az ügyintézési határidőbe – az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) 50. § (5a) bekezdése szerinti eseteken túl – a külföldi állam illetékes hatóságával folytatott egyeztetés, az állami adó- és vámhatóság által lefolytatott valódiságvizsgálat időtartama sem számít bele. Ha ezek eredményeként az eljárás során az ügy szempontjából jelentős olyan új tény merül fel, kritikus feltételek módosulnak, illetve a szokásos piaci ár megbízhatóságának szempontjából jelentőséggel bíró, a határozathozatal alapjául szolgáló olyan körülmények lényeges mértékben megváltoznak, amelyek a szokásos piaci ár megállapítására érdemben kihatnak, az ügyintézési határidő az ennek alapjául szolgáló tény bekövetkeztének időpontjában újrakezdődik. Erről az adópolitikáért felelős miniszter értesíti a kérelmezőt.
 
@@ -2356,10 +2366,10 @@ A szokásos piaci ár megállapítása iránti eljárásban hozott döntés elle
 
 #### 180. § [Ellenőrzésre és önellenőrzésre vonatkozó különös szabály]
 
-(1) A szokásos piaci ár megállapítása iránti kérelemmel érintett szokásos piaci árral összefüggésben – kiutalás előtti ellenőrzés kivételével – adóellenőrzés nem rendelhető el a kérelem benyújtásától
+(1) A szokásos piaci ár megállapítása iránti kérelemmel érintett szokásos piaci árral összefüggésben – kiutalás előtti ellenőrzés kivételével – adóellenőrzés nem rendelhető el a kérelem benyújtását követően a meghozandó határozat 181. § (1) bekezdése szerint kérelmezett időszakára
 
-- a) a szokásos piaci árat megállapító határozat véglegessé válásától számított hatvan nap elteltéig, ha a kérelemben feltüntetett szerződést vagy egyéb jogügyletet a kapcsolt vállalkozások már megkötötték, vagy
-- b) a kérelmet visszautasító vagy az eljárást megszüntető végzés véglegessé válásáig.
+- a) a szokásos piaci árat megállapító határozat véglegessé válásától számított hatvan nap elteltéig, vagy
+- b) a kérelmet visszautasító vagy az eljárást megszüntető végzés, valamint a kérelmet elutasító határozat véglegessé válásáig.
 
 (2) A határozat véglegessé válásától számított hatvan napon belül az adózó a határozatban foglaltaknak megfelelően önellenőrzést végezhet, ha a szokásos piaci ár megállapítása iránti kérelem benyújtását követően a szerződés vagy egyéb jogügylet alapján teljesítés történt.
 
@@ -2367,13 +2377,13 @@ A szokásos piaci ár megállapítása iránti eljárásban hozott döntés elle
 
 (1) A szokásos piaci árat megállapító határozat hatálya határozott időre, legalább három, legfeljebb öt teljes adóévre állapítható meg. A határozat hatályának kezdő napját a kérelem alapján kell megállapítani, amely azonban nem lehet korábbi, mint a kérelem benyújtása adóévének első napja, és nem lehet későbbi, mint a határozat véglegessé válását követő adóév első napja.
 
-(2) Kétoldalú vagy többoldalú eljárásban az illetékes hatóságok megállapodása alapján a határozat kötőereje a kérelem benyújtása előtti időszakra is kiterjedhet, feltéve, ha ez az időszak
+(2) Ha az adózó kéri, a kétoldalú vagy többoldalú eljárásban az illetékes hatóságok megállapodása alapján a határozat kötőereje a kérelem benyújtása adóévének első napja előtti adóévekre is kiterjedhet, feltéve, ha ezek
 
 - a) ellenőrzéssel le nem zárt,
-- b) el nem évült és
+- b) el nem évült, és
 - c) az illetékes hatóságok megállapodásának megkötésekor folyamatban lévő – ellenőrzéssel lezárt időszakot eredményező – ellenőrzéssel nem érintett
 
-időszak.
+adóévek.
 
 (3) A határozatban foglaltak változatlan tényállás esetén kötik az adóhatóságot, kivéve, ha a határozat véglegessé válását követően megállapítható, hogy
 
@@ -2389,13 +2399,13 @@ időszak.
 
 #### 182. § [A szokásos piaci ár megállapítása érvényességének meghosszabbítása]
 
-(1) A határozat hatályának időtartama kérelemre egy alkalommal három évre meghosszabbítható.
+(1) A határozat hatályának időtartama kérelemre egy alkalommal három adóévre meghosszabbítható.
 
 (2) Az (1) bekezdésétől eltérően a határozat hatálya nem hosszabbítható meg, ha az eredeti határozat alapjául szolgáló tényállás olyan mértékben megváltozott, hogy a szokásos piaci ár megállapítására új határozatot kellene kiadni.
 
 (3) A határozat hatályának meghosszabbítására irányuló kérelmet a határozat hatályának lejártát megelőzően legalább hat hónappal kell előterjeszteni.
 
-(4) A meghosszabbítás iránti kérelem alapján induló eljárásban az eredeti kérelem benyújtásával kapcsolatos eljárási szabályokat kell megfelelően alkalmazni.
+(4)
 
 #### 183. § [A szokásos piaci ár megállapításának módosítása]
 
@@ -2403,7 +2413,7 @@ időszak.
 
 (2) A határozat módosításának abban az esetben van helye, ha az ügy szempontjából jelentős új tény merül fel, amely a korábbi eljárás során nem a kérelmező rosszhiszemű eljárása miatt volt ismeretlen, vagy a szokásos piaci ár megbízhatóságának szempontjából jelentőséggel bíró, a határozathozatal alapjául szolgáló körülmények lényegesen megváltoztak.
 
-(3) A módosítás iránti kérelem alapján induló eljárásban az eredeti kérelem benyújtásával kapcsolatos eljárási szabályokat kell megfelelően alkalmazni.
+(3)
 
 ### XXII. Fejezet — A HOZZÁADOTTÉRTÉKADÓ-VISSZATÉRÍTTETÉSI KÉRELEMMEL KAPCSOLATOS ELJÁRÁS
 
@@ -3307,7 +3317,7 @@ Az állami adó- és vámhatóság a honlapján lekérdezési lehetőséget bizt
 
 Az állami adó- és vámhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi
 
-- a) az általános forgalmiadó-alanynak minősülő, valamint általános forgalmiadó-alanynak nem minősülő, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
+- a) az általános forgalmiadó-alanynak minősülő adózók, valamint általános forgalmiadó-alanynak nem minősülő, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
   - aa) nevét (elnevezését), adószámát, székhelyét, telephelyét,
   - ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoport azonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, illetve a csoportos általános forgalmi adóalanyiságot engedélyező határozat véglegessé válásának napját,
   - ac) közül a pénzforgalmi elszámolást választók esetén e választás tényét, a pénzforgalmi elszámolás időszakának kezdő és befejező időpontját,
@@ -3687,8 +3697,14 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 - 2. Az 1. ponttól eltérően a kezelt vagyon esetében kizárólag az 1.4.–1.8., 1.13. és 1.18. pontok szerinti adatokat kell bejelenteni az állami adó- és vámhatósághoz.
 - 3. A munkáltató és a kifizető (ideértve a kiegészítő tevékenységet folytatónak nem minősülő, a Tbj. 4. § 2. pontja szerinti egyéni vállalkozót és a biztosított mezőgazdasági őstermelőt, és a Tbj. 87. §-a szerinti kötelezettet is), valamint a Tbj. 68. § (2) és (3) bekezdése és a Tbj. 85. § alapján eljáró szerv – a munkáltató, kifizető adóazonosító számának, nevének, elnevezésének, székhelyének, telephelyének, lakóhelyének, továbbá jogelődje nevének és adószámának közlésével – az állami adó- és vámhatóságnak elektronikus úton vagy az erre a célra rendszeresített nyomtatványon bejelenti az általa foglalkoztatott biztosított családi és utónevét, adóazonosító jelét, születési idejét, biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, a TAJ számát. Ha a biztosított nem rendelkezik adóazonosító jellel, a születési családi és utónevét, születési helyét, anyja születési családi és utónevét és a biztosított állampolgárságát is kötelező bejelenteni. A bejelentést
 - 3.1. a biztosítás kezdetére vonatkozóan legkésőbb a biztosítási jogviszony első napján, a foglalkoztatás megkezdése előtt, álláskeresési támogatás esetén a támogatást megállapító határozat jogerőre emelkedését követő tíz napon belül, illetve ha a biztosítás elbírálására utólag kerül sor, legkésőbb a biztosítási kötelezettség megállapítását követő napon kell teljesíteni,
-- 3.2. a jogviszony megszűnését, a szünetelés kezdetét és befejezését, a biztosítás megszűnését követően folyósított ellátás kezdő és befejező időpontját közvetlenül követő 8 napon belül kell teljesíteni,
+- 3.2. a jogviszony megszűnését, a szünetelés kezdetét és befejezését, a biztosítás megszűnését követően folyósított ellátás kezdő és befejező időpontját követő 8 napon belül kell teljesíteni, kivéve, ha a munkáltató az 50. § szerinti havi adó- és járulékbevallásban feltünteti a biztosítási jogviszony megszűnésének időpontját. Ez utóbbi esetben a havi adó- és járulékbevallás beérkezését követően az állami adó- és vámhatóság az adózó által közölt bevallási adatok alapján a biztosítási jogviszony megszűnéséről szóló bejelentést hivatalból e pontban foglaltaknak megfelelően elvégzi, amelyet a 6. pont alapján továbbít az egészségbiztosítás biztosítotti nyilvántartásának, és erről a foglalkoztatottat valamint a foglalkoztatót értesíti. Az állami adó- és vámhatóság a biztosítási jogviszony megszűnésének bejelentését nem pótolhatja, ha a foglalkoztatottnak a foglalkoztatóval egyidejűleg több biztosítási jogviszonya áll fenn.
 - 3.3. ha a foglalkoztató személyében jogutódlás következik be, a jogutód munkáltató, kifizető köteles a jogutódlással érintett, a Tbj. 6. § (1) bekezdés a)–c) és f)–g) pontja, valamint (2) bekezdése szerinti biztosított személyre vonatkozóan teljesíteni; a bejelentési határidőkre a 3.1. és 3.2. pontot, a bejelentendő adatok körére e bekezdést kell alkalmazni, azzal, hogy a bejelentésben fel kell tüntetni a jogelőd nevét, elnevezését és adószámát, a jogutódlás tényét és napját, továbbá a jogutód nevét, elnevezését, adószámát és a jogutód megalakulása napját is.
+- 3.4. Ha a munkáltató, kifizető a 3.2. pont szerinti bejelentési kötelezettségét nem teljesítette, és az adózóról nyilvántartást vezető szerv – ideértve különösen a cégnyilvántartást, egyéni vállalkozói nyilvántartást, civil szervezetek névjegyzékét vezető szervet – által nyilvántartott adatok alapján jogutód nélkül megszűnt, az elmulasztott bejelentési kötelezettséget az állami adó-és vámhatóság hivatalból pótolja a jogutód nélküli megszűnés időpontjáról való tudomásszerzéstől számított tizenöt napon belül, amelyről elektronikus úton adatot szolgáltat az egészségbiztosítás biztosítotti nyilvántartása részére.
+- 3.5. A 3.4. pont szerinti esetben a biztosítási jogviszony megszűnésének vélelmezett időpontja a munkáltató, kifizető megszűnésének időpontja.
+- 3.6. Az állami adó- és vámhatóság a biztosítási jogviszony lezárásáról a természetes személyt értesíti.
+- 3.7. A 3.4. pontban foglalt rendelkezés az egyéni vállalkozó halála vagy gondnokság alá helyezése esetén akkor alkalmazható, ha az egyéni vállalkozó özvegye, örököse vagy törvényes képviselője nem jelenti be törvényi határidőn belül a tevékenység folytatását.
+- 3.8. Határozott idejű foglalkoztatás esetén a bejelentést egyidejűleg a biztosítás kezdetére és a jogviszony megszűnésére vonatkozóan is teljesíteni kell legkésőbb a biztosítási jogviszony első napján, de még a foglalkoztatás megkezdése előtt. A jogviszony megszűnése időpontjának módosulása vagy a határozott időtartam határozatlan időtartamra változása esetén e törvény változás-bejelentésre vonatkozó szabályai az irányadók.
+- 3.9. Ha a munkáltató végelszámolás, felszámolás, illetve kényszertörlési eljárás alatt áll, akkor a 3.2. alpont szerinti foglalkoztatottak biztosítási jogviszonya megszűnésének bejelentésére a végelszámoló, felszámoló, valamint a Bérgarancia biztos kötelezett.
 - 4. Ha a munkáltató az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvényben (a továbbiakban: Efo. tv.) meghatározott korlátok túllépése miatt az Szja tv. és a Tbj. általános adózási és járulékfizetési szabályait köteles alkalmazni, az egyszerűsített foglalkoztatottként bejelentett személy(eke)t a jogsértés feltárásától számított nyolc napon belül – a 3. pontban előírt módon biztosítottként – jelenti be. Ettől eltérően nem kell a 3. pont szabályai szerint biztosítottként bejelenteni azt a természetes személyt, akit a munkáltató egyszerűsített foglalkoztatottként bejelentett, de a munkát nem vette fel és munkavégzés hiányában jövedelem kifizetésére nem került sor.
 - 5. A több munkáltató által létesített munkaviszony esetén a 3. pont szerinti bejelentésben a kijelölt munkáltató bejelenti az ugyanazon munkaviszony tekintetében a további foglalkoztató (e § alkalmazásában a továbbiakban: további foglalkoztató) adóazonosító számát, nevét, elnevezését, székhelyének címét, valamint a több munkáltató által létesített munkaviszonyban való részvétele kezdetét és a munkaviszonyból való kilépésének idejét. A bejelentés határidejére a 3.1. és 3.2. pontja megfelelően alkalmazandó.
 - 6. Az állami adó- és vámhatóság a 3. és 5. pontban meghatározott, munkáltató vagy kifizető, valamint a Tbj. 68. § (2) és (3) bekezdése alapján eljáró szerv által elektronikusan bejelentett adatokat azok beérkezését követően elektronikus úton haladéktalanul megküldi az egészségbiztosítás biztosítotti nyilvántartásának. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az egészségbiztosítás biztosítotti nyilvántartása részére.

@@ -161,7 +161,7 @@ vonatkozó szabályok megszegésével elkövetett szabálysértés miatt jármű
 
 17. § (1) A járművezetéstől eltiltás hatálya a szabálysértési határozat jogerőre emelkedésével kezdődik.
 
-(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az eljárás alá vont személy vezetői engedélyét – a járművezetéstől eltiltás intézkedést megelőzően – a szabálysértéssel összefüggésben a helyszínen elvették, vagy azt a hatóságnál leadta.
+(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az eljárás alá vont személy vezetői engedélyét – a járművezetéstől eltiltás intézkedést megelőzően – a szabálysértéssel összefüggésben a helyszínen elvették, azt a hatóságnál leadta, vagy a vezetési jogosultságának azonnali felfüggesztését az engedély-nyilvántartásba a helyszínen bejegyezték.
 
 #### 11. Az elkobzás
 
@@ -463,7 +463,7 @@ van helye.
 
 (5) Ha vitás, hogy több szabálysértési hatóság közül melyik köteles eljárni, a hatáskörrel, illetékességgel rendelkező szabálysértési hatóságot
 
-- a) rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
+- a) rendőrkapitányság esetén a vármegyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
 - b) több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
 - c) az a) és b) pontban foglaltak hiányában a szabálysértési szabályozásért felelős miniszter
 
@@ -473,7 +473,7 @@ jelöli ki.
 
 (7) A szabálysértési hatóság kijelöléséről hozott határozat ellen jogorvoslatnak nincs helye.
 
-40/A. § A megyei (fővárosi) rendőr-főkapitányság vezetője az illetékességi területén a szabálysértési eljárásban kiszabott pénzbírság és helyszíni bírság végrehajtása iránti eljárásra illetékes szabálysértési hatóság helyett más szabálysértési hatóság illetékességét is megállapíthatja.
+40/A. § A vármegyei (fővárosi) rendőr-főkapitányság vezetője az illetékességi területén a szabálysértési eljárásban kiszabott pénzbírság és helyszíni bírság végrehajtása iránti eljárásra illetékes szabálysértési hatóság helyett más szabálysértési hatóság illetékességét is megállapíthatja.
 
 #### 30. A bíróság hatásköre és illetékessége
 
@@ -585,7 +585,7 @@ jelöli ki.
 
 (2) Ha az ügyész a kizárási okot nem maga jelentette be, a bejelentés elintézéséig eljárhat az ügyben.
 
-(3) A kizárás indokoltságáról a helyi ügyészségi ügyész esetében a helyi vezető ügyész, a helyi vezető ügyész és a megyei főügyészségi ügyész esetében a megyei főügyész dönt. Ha helyt ad a kizárási bejelentésnek, kijelöli a továbbiakban eljáró ügyészt is.
+(3) A kizárás indokoltságáról a helyi ügyészségi ügyész esetében a helyi vezető ügyész, a helyi vezető ügyész és a vármegyei főügyészségi ügyész esetében a vármegyei főügyész dönt. Ha helyt ad a kizárási bejelentésnek, kijelöli a továbbiakban eljáró ügyészt is.
 
 #### 38. A bíró kizárása
 
@@ -610,6 +610,8 @@ jelöli ki.
 (2) Az eljárás alá vont személy jogosult megismerni, hogy mely cselekmény miatt, milyen tények és bizonyítékok alapján folyik ellene szabálysértési eljárás.
 
 (3) Az eljárás alá vont személy – ha e törvény eltérően nem rendelkezik – jogosult az eljárási cselekményeknél jelen lenni, az eljárás bármely szakaszában észrevételt, indítványt tehet, kérdést intézhet, a szabálysértési hatóságtól és a bíróságtól felvilágosítást kérhet, megtekintheti az ügy iratait, azokról másolatot kérhet, illetve készíthet. A minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki.
+
+(4) Az eljárás alá vont személy köteles a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét, valamint ezek megváltozását − a változást követő három munkanapon belül – a szabálysértés miatt eljáró bírósággal vagy szabálysértési hatósággal közölni.
 
 #### 40. Az eljárás alá vont személy képviselője
 
@@ -1093,7 +1095,7 @@ haladéktalanul szabadítani kell. A szabadításról az őrizetet elrendelő re
 
 (3) Ha a szabálysértési hatóság vagy a bíróság az elsőfokú érdemi döntés meghozataláig a (4) bekezdés a) és c) pontjában foglalt feltételek fennállását megállapítja és az eljárás más okból történő felfüggesztésének vagy megszüntetésének nincs helye, továbbá a közvetítői eljárást kizáró ok nem áll fenn, haladéktalanul, 8 napos határidő tűzése mellett nyilatkozattételre hívja fel az eljárás alá vont személyt és a sértettet, feltéve, hogy a nyilatkozatok nem állnak rendelkezésre. A felhívásban tájékoztatást ad a közvetítői eljárás lehetőségéről, annak szabályairól és feltételeiről, a lehetséges költségekről, valamint a pártfogó felügyelői szolgálat vezető közvetítőjének elérhetőségéről.
 
-(4) A szabálysértési hatóság vagy a bíróság az eljárás alá vont személy vagy a sértett indítványára a szabálysértési elzárással is büntethető szabálysértés, a XXVII. és XXVIII. Fejezetben meghatározott szabálysértések, valamint a fiatalkorú által elkövetett szabálysértés miatt indult eljárást legfeljebb 30 napi időtartamra felfüggeszti és az ügyet közvetítői eljárásra utalja, ha
+(4) A szabálysértési hatóság vagy a bíróság az eljárás alá vont személy vagy a sértett indítványára a szabálysértési elzárással is büntethető szabálysértés, a XXVII. és XXVIII. Fejezetben meghatározott szabálysértések, valamint a fiatalkorú által elkövetett szabálysértés miatt indult eljárást 45 napi időtartamra felfüggeszti és az ügyet közvetítői eljárásra utalja, ha
 
 - a) az eljárás alá vont személy a szabálysértés elkövetéséért való felelősségét elismerte, valamint vállalja a szabálysértéssel okozott sérelmet a sértett által elfogadott módon és mértékben jóvátenni,
 - b) az eljárás alá vont személy és a sértett is hozzájárult a közvetítői eljárás lefolytatásához, és
@@ -1332,7 +1334,11 @@ indul meg.
 
 (2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
 
-(3) Az iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot a postai szolgáltató értesítése ellenére nem vette át. Az iratot kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta.
+(3) A postai úton kézbesítendő iratot szabályszerűen kézbesítettnek kell tekinteni
+
+- a) a kézbesítés megkísérlésének napján, ha a címzett vagy a postai küldemények átvételére jogszabály szerint meghatalmazott személy az átvételét megtagadja,
+- b) a kézbesítés második megkísérlésének napját követő ötödik munkanapon, ha a kézbesítés azért volt eredménytelen, mert a címzett vagy helyette a jogszabály szerint átvételre jogosult más személy az iratot nem vette át, ezért az „nem kereste” jelzéssel érkezett vissza, vagy
+- c) a kézbesítés megkísérlésének napját követő ötödik munkanapon, ha a kézbesítés azért volt eredménytelen, mert az irat a címzett értesítési címéről, tényleges tartózkodási helyéről, és lakcíméről „a cím nem azonosítható”, „címzett ismeretlen”, „elköltözött” vagy „kézbesítés akadályozott” jelzéssel érkezett vissza.
 
 (4) Az elővezetést elrendelő határozatot a foganatosításkor kell átadni a határozatban megnevezett személynek.
 
@@ -2107,6 +2113,10 @@ téríti meg.
 a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában vagy az elkülönítési szabályok betartása miatt nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani, amelynek az elkövetőt a hivatali munkarendjén kívül is be kell fogadnia.
 
 (1c) Az (1b) bekezdés szerint megkezdett szabálysértési elzárást a rendőrségi fogdán kell végrehajtani, ha a szabálysértési elzárás hátralévő ideje a büntetés-végrehajtási intézetbe történő befogadáskor kevesebb lenne, mint két nap.
+
+(1d) A szabálysértési elzárást a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában lehet végrehajtani, ha az elkövető a rendőrség őrizetében van, és a 9. § (3) bekezdése szerinti beszámítást követően a szabálysértési elzárás hátralévő tartama a tíz napot nem haladja meg.
+
+(1e) Az (1b) bekezdés szerint megkezdett szabálysértési elzárást a rendőrségi fogdán lehet végrehajtani, ha a szabálysértési elzárás hátralévő tartama a büntetés-végrehajtási intézetbe történő befogadáskor kevesebb lenne, mint tíz nap.
 
 (2)
 
@@ -2918,7 +2928,7 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (2a) Aki földmérési jelet vagy az államhatár megjelölésére szolgáló jelet elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
 
-(3) Aki a kulturális örökség védett elemeit, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
+(3) Aki a kulturális örökség védett elemeit, a vármegye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
 
 (4) Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt a közterület-felügyelő, az erdészeti hatóság arra felhatalmazott ügyintézője, a halászati őr, valamint a mezőőr, a természeti, védett természeti és Natura 2000 területeken a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
 

@@ -223,7 +223,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 (2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál
 
-- a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
+- a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, a nyugdíj előtti álláskeresési segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
 - b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
 - c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
 - d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
@@ -1345,7 +1345,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### Az öregségi nyugdíjak kiszámítása során alkalmazandó szorzószámok
 
-|  | A | B |
+|  |  |  |
 | --- | --- | --- |
 | 1. | Szolgálati idő (év) | Az öregségi nyugdíj alapját képező havi átlagkereset százaléka |
 | 2. | 15 | 43,0 |
