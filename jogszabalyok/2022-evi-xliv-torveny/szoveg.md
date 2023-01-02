@@ -481,11 +481,7 @@ kapcsolatos audithatósági feladatokat.
 
 #### 21. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-40. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdése a következő f) ponttal egészül ki:
-
-(Autonóm államigazgatási szerv)
-
-„f) az Európai Támogatásokat Auditáló Főigazgatóság.”
+#### 40. §
 
 #### 22. A jogszabályok előkészítésében való társadalmi részvételről szóló 2010. évi CXXXI. törvény módosítása
 
@@ -501,29 +497,13 @@ kapcsolatos audithatósági feladatokat.
 
 #### 24. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-45. § Az államháztartásról szóló 2011. évi CXCV. törvény
+#### 45. §
 
-- a) 1. § 11. pontjában a „Hálózat és az Integritás Hatóság fejezetekhez” szövegrész helyébe a „Hálózat, az Integritás Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság fejezetekhez” szöveg,
-- b) 109. § (2) bekezdés a) pontjában az „a kincstárt,” szövegrész helyébe az „a kincstárt, és” szöveg,
-- c) 109. § (2) bekezdés b) pontjában az „a kormányzati ellenőrzési szervet, és” szövegrész helyébe az „a kormányzati ellenőrzési szervet” szöveg
-
-lép.
-
-46. § Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
-
-- a) 68. §-a,
-- b) 68/A. §-a,
-- c) 109. § (2) bekezdés c) pontja.
+#### 46. §
 
 #### 25. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-47. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 44/A. § (1) bekezdése a következő 23. ponttal egészül ki:
-
-[A házelnök]
-
-„23. az Európai Támogatásokat Auditáló Főigazgatóság főigazgatója, főigazgató-helyettese”
-
-[részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.]
+#### 47. §
 
 #### 26.
 
@@ -535,7 +515,7 @@ lép.
 
 #### 50. §
 
-51. § A büntetőeljárásról szóló 2017. évi XC. törvény 817/A. § (1) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+#### 51. §
 
 #### 28. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -557,15 +537,9 @@ lép.
 
 #### 29. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-60. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 2. § (1) bekezdése a következő q) ponttal egészül ki:
+#### 60. §
 
-(E törvény alkalmazásában különleges jogállású szerv:)
-
-„q) az Európai Támogatásokat Auditáló Főigazgatóság.”
-
-61. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 98. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.”
+#### 61. §
 
 #### 30. A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény módosítása
 
@@ -631,7 +605,7 @@ lép.
 - 8.
 - 9.
 - 10.
-- 11. 42. § (1) bekezdés a) pontjában a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
+- 11.
 - 12.
 - 13.
 - 14.

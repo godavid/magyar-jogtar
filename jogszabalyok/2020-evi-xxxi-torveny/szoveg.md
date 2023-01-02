@@ -4,32 +4,9 @@ egyes törvényeknek a polgárok biztonságát erősítő módosításáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 25/A. §-a helyébe a következő rendelkezés lép:
+1. §
 
-„25/A. § (1) A közúti forgalomban
-
-a) a gépkocsi,
-
-b) a motorkerékpár (ideértve a négykerekű motorkerékpárt is),
-
-c) a mezőgazdasági vontató,
-
-d) a négykerekű segédmotoros kerékpár,
-
-e) a pótkocsi,
-
-f) a lassú jármű
-
-– a 25. §-ban meghatározott kivételek alkalmazása mellett – a közúti forgalomban érvényes hatósági engedéllyel és jelzéssel vehet részt.
-
-(2) Az (1) bekezdésben meghatározott jármű magyar hatóság által kiállított hatósági engedélyét a belföldi forgalomban a vezetőnek nem kötelező magánál tartania.”
-
-2. § A Kkt.
-
-- a) 5. § (2) bekezdésében az „engedéllyel” szövegrész helyébe az „engedéllyel vagy az engedély-nyilvántartásba bejegyzett érvényes vezetési jogosultsággal” szöveg,
-- b)
-
-lép.
+2. §
 
 #### 2. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
@@ -189,19 +166,13 @@ lép.
 
 66. §
 
-67. § A Kknyt. 3. §-a helyébe a következő rendelkezés lép:
-
-„3. § Az e törvényben meghatározott adatkezelési és hatósági feladatokat a közúti közlekedési nyilvántartó szerv (a továbbiakban: nyilvántartó), valamint a közlekedési igazgatási hatóság, továbbá az 5/A. §-ban foglalt esetben a közúti közlekedésről szóló törvényben meghatározott közúti közlekedés ellenőrzésére jogosult hatóság (a továbbiakban: közúti közlekedés ellenőrzésére jogosult hatóság) látja el.”
+67. §
 
 68. §
 
 69. §
 
-70. § A Kknyt. „Az okmányellátás rendszere” című alcíme a következő 5/A. §-sal egészül ki:
-
-„5/A. § (1) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben a vezetési jogosultság azonnali felfüggesztését a helyszínen bejegyzi az engedély-nyilvántartásba.
-
-(2) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben, a jármű forgalomban való részvétele jogosultságának azonnali felfüggesztését a helyszínen bejegyzi a járműnyilvántartásba.”
+70. §
 
 71. §
 
@@ -295,9 +266,7 @@ lép.
 
 #### 23. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-107. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 17. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az eljárás alá vont személy vezetői engedélyét – a járművezetéstől eltiltás intézkedést megelőzően – a szabálysértéssel összefüggésben a helyszínen elvették, azt a hatóságnál leadta, vagy a vezetési jogosultságának azonnali felfüggesztését az engedély-nyilvántartásba a helyszínen bejegyezték.”
+107. §
 
 108. §
 
@@ -327,9 +296,7 @@ lép.
 
 #### 25. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-120. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 56. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az elkövető vezetői engedélyét – a járművezetéstől eltiltásra ítélését megelőzően – a bűncselekménnyel összefüggésben a helyszínen elvették, azt a hatóságnál leadta, vagy a vezetési jogosultság azonnali felfüggesztését az engedély-nyilvántartásba a helyszínen bejegyezték.”
+120. §
 
 #### 26. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
@@ -439,15 +406,7 @@ lép.
 
 #### 33. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-165. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 298. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A járművezetéstől eltiltás tartamába a Btk. 56. § (2) bekezdése szerinti beszámítást megalapozza, ha
-
-a) az elítélt terhére a vezetői engedély leadásának elmulasztása nem róható, és az ennek okára vonatkozó bejelentést a hatóságnál megtette, amely esetben a beszámítás kezdő napja a bejelentés napja,
-
-b) az elítéltet az a) pont szerinti bejelentés megtételében elháríthatatlan akadály gátolta, amely esetben a beszámítás kezdő napja az akadály felmerülésének napja, vagy
-
-c) az elítélt vezetői engedélyét a helyszínen nem vették el, de a vezetési jogosultsága azonnali felfüggesztését az engedély-nyilvántartásba a helyszínen bejegyezték, amely esetben a beszámítás kezdő napja a vezetési jogosultság azonnali felfüggesztésének az engedély-nyilvántartásba történő bejegyzésének napja.”
+165. §
 
 #### 34. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 

@@ -6,9 +6,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 1. §
 
-2. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) A polgár az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti szerepkör-tanúsítvány szerepkörének megfelelően az e-aláírási funkcióval más személy, illetve szervezet képviseletében is eljárhat.”
+#### 2. §
 
 #### 3. §
 
@@ -18,10 +16,11 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 6. §
 
-7. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
+#### 7. §
 
-- a)
-- b) 29/E. § (3b) bekezdése.
+a)
+
+b)
 
 #### 2. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
@@ -273,91 +272,31 @@ c)
 
 #### 20. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-74. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. §-a a következő 40a–40c. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„40a. szerepkör: a Kormány rendeletében meghatározott természetes személy közfeladatához kapcsolódó tulajdonság vagy minőség, így különösen tisztség, munkakör, beosztás, álláshely, képesítés, jogosultság;
-
-40b. szerepkör-nyilvántartás: a szerepkört jogszabályban meghatározott feltételeknek megfelelően igazoló, elektronikus nyilvántartás;
-
-40c. szerepkör-tanúsítvány: olyan, a szerepkör-tanúsító szolgáltató által kiállított igazolás, amely egy természetes személyre vonatkozóan alkalmas igazolni azt, hogy a személy az elektronikus aláírás dokumentumon rögzítése időpontjában a szerepkör-tanúsítványban megjelölt igazolt szerepkörrel rendelkezik;”
+#### 74. §
 
 #### 75. §
 
 76. § (1)
 
-(2) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 38. § (1) bekezdés p) pontja helyébe a következő rendelkezés lép:
+(2)
 
-(Az alábbi központi elektronikus ügyintézési szolgáltatásokat a Kormány biztosítja a jogszabályban kijelölt szolgáltató útján:)
-
-„p) szerepkör-tanúsító platform szolgáltatás,”
-
-(3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 38. § (1) bekezdése a következő q) ponttal egészül ki:
-
-(Az alábbi központi elektronikus ügyintézési szolgáltatásokat a Kormány biztosítja a jogszabályban kijelölt szolgáltató útján:)
-
-„q) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.”
+(3)
 
 (4)
 
-77. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény NEGYEDIK Része a következő XXI. Fejezettel egészül ki:
-
-„XXI. FEJEZET
-
-A BIZALMI SZOLGÁLTATÁSOKHOZ KAPCSOLÓDÓ EGYES KÜLÖNÖS, BIZALMI SZOLGÁLTATÁSNAK NEM MINŐSÜLŐ SZOLGÁLTATÁSOK
-
-59/A. Szerepkör tanúsítása
-
-100/A. § A közfeladat gyakorlása ellátása során eljáró természetes személy tanúsítvány alany (jelen alcímben a továbbiakban: alany) szerepkörét a Kormány rendeletében kijelölt szerepkör-tanúsító szolgáltató szerepkör-tanúsítvánnyal igazolhatja. A Kormány szerepkör-tanúsító szolgáltatóként kormányzati hitelesítési szolgáltatót jelölhet ki.
-
-100/B. § (1) Szerepkör-tanúsítvány alkalmazása esetén a szerepkör-tanúsító szolgáltató – az alany elektronikus, a szerepköre igazolására irányuló kérésével – a szerepkör-tanúsítvány kiállítása idejéig jogosult kezelni és a szerepkör-nyilvántartásból átvenni az alany azonosításához és a szerepkör igazolásához szükséges személyes adatokat. A szerepkör-tanúsítvánnyal összefüggő adatokat a szolgáltató köteles fizikailag és logikailag elkülöníteni.
-
-(2) A szerepkör-nyilvántartást vezető szerv az (1) bekezdés szerinti adatok szolgáltatását a szerepkör-tanúsító szolgáltató közreműködésével biztosítja.
-
-100/C. § (1) A Kormány a szerepkör-tanúsítványok egységes felhasználása érdekében – központi elektronikus ügyintézési szolgáltatásként – szerepkör-tanúsító platform szolgáltatást biztosít.
-
-(2) A szerepkör-tanúsító szolgáltató a szerepkör-tanúsítványt a szerepkör-tanúsító platform szolgáltatás útján biztosítja az alany számára.
-
-(3) A szerepkör-tanúsító platform szolgáltatás szolgáltatója a szerepkör-tanúsítvány kiállítása idejéig jogosult kezelni az alany azonosításához és a szolgáltató kiválasztásához szükséges személyes adatokat. A szerepkör-tanúsítvánnyal összefüggő adatokat a szolgáltató köteles fizikailag és logikailag elkülöníteni.
-
-100/D. § A szerepkör igazolásával, a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal, valamint a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat a Kormány rendeletben határozza meg.”
+#### 77. §
 
 78. § (1)
 
-(2) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 105. §-a a következő (5b) bekezdéssel egészül ki:
-
-„(5b) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
-
-a) a szerepköröket, a szerepkör igazolásával kapcsolatos részletszabályokat,
-
-b) a 100/A. § szerinti szolgáltatót,
-
-c) a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal kapcsolatos részletszabályokat,
-
-d) a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat.”
+(2)
 
 #### 21. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-79. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 323. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
-
-a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
-
-b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
-
-(3b) Elektronikus közokirat esetében jogszabály a (3a) bekezdéstől eltérő módon is lehetővé teheti az E-ügyintézési tv. szerinti szerepkör teljes bizonyító erejű igazolását.”
+#### 79. §
 
 80. § (1)
 
-(2) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az (1) bekezdés f) és g) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
-
-a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
-
-b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.”
+(2)
 
 #### 22. Az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény módosítása
 

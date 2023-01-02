@@ -372,13 +372,19 @@ megindítása tárgyában jogerős határozatot közzétették,
 
 (7) A (6) bekezdés szerinti közérdekből nyilvános adatokat az OBH honlapján bárki számára elérhető módon, ingyenesen, keresőprogram igénybevétele útján elérhetővé kell tenni.
 
-(8) A nyilvántartó szervezet a szerkezetátalakítási szakértői feladatra kijelölt természetes személy részére e minőségének igazolására szerkezetátalakítási szakértői igazolványt állít ki. A szerkezetátalakítási szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. A szerkezetátalakítási szakértői feladatra kijelölt természetes személy az igazolványát szerkezetátalakítási szakértők listájára történő felvételét követően veheti át.
+(8) A nyilvántartó szervezet a szerkezetátalakítási szakértői feladatra kijelölt természetes személy részére e minőségének igazolására szerkezetátalakítási szakértői igazolványt állít ki. A szerkezetátalakítási szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) elnöke rendeletben állapítja meg. A szerkezetátalakítási szakértői feladatra kijelölt természetes személy az igazolványát szerkezetátalakítási szakértők listájára történő felvételét követően veheti át.
 
-(9) A szerkezetátalakítási szakértői igazolvány az alábbi személyes adatokat tartalmazza:
+(9) A szerkezetátalakítási szakértői igazolvány a következő személyes adatokat tartalmazza:
 
-- a) a szerkezetátalakítási szakértői feladatra kijelölt természetes személy szakértő nevét, arcképét,
-- b) a szerkezetátalakítási szakértői feladatra kijelölt természetes személyt foglalkoztató szerkezetátalakítási szakértő székhelyét,
-- c) az igazolvány okmányazonosítóját.
+- a) a szerkezetátalakítási szakértői feladatra kijelölt természetes személy szakértő nevét, arcképmását, a (6) bekezdés szerinti hatósági nyilvántartási számát,
+- b) a szerkezetátalakítási szakértői feladatra kijelölt természetes személyt foglalkoztató szerkezetátalakítási szakértő nevét és székhelyét,
+- c) az igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját.
+
+(10) A nyilvántartó szervezet a szerkezetátalakítási szakértői igazolvány kiállításához a (9) bekezdés szerinti személyes adatokat az igazolvány megszemélyesítése céljából az igazolvány megszemélyesítését végző szervezet részére átadhatja, aki azokat az igazolvány megszemélyesítéséig kezeli.
+
+(11) A nyilvántartó szervezet a szerkezetátalakítási szakértői igazolványokról nyilvántartást vezet, amely a (9) bekezdés a) és c) pontja szerinti személyes adatokat tartalmazza.
+
+(12) Ha a szerkezetátalakítási szakértői igazolvány elveszett, eltulajdonították vagy megsemmisült, a nyilvántartó szervezet intézkedik az igazolvány okmányazonosítójának és az érvénytelenség tényének a Hivatalos Értesítőben történő közzététele iránt.
 
 25. § (1) A szerkezetátalakítási szakértő feladata
 
@@ -490,7 +496,7 @@ megindítása tárgyában jogerős határozatot közzétették,
 
 (8) A díj megállapítása tárgyában hozott végzéssel szemben a szakértő és az adós külön fellebbezéssel élhet, – a fellebbezéssel nem érintett részben – a fellebbezésnek a díj kifizetésére nincs halasztó hatálya.
 
-30/A. § A 28. § (1) bekezdés szerinti kijelölés és a 12. alcím szerinti hivatalból történő kirendelés során a bíróság által használt elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztése és működtetése a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) feladata.
+30/A. § A 28. § (1) bekezdés szerinti kijelölés és a 12. alcím szerinti hivatalból történő kirendelés során a bíróság által használt elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztése és működtetése a Hatóság feladata.
 
 #### 13. A szerkezetátalakítási szakértő kijelölésének megszüntetése
 

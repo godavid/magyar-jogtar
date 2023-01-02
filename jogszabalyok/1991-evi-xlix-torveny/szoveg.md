@@ -985,7 +985,7 @@ folytatható le.
 
 (3b) A (3) bekezdés c) pontja szerinti pártatlanságot veszélyeztető tevékenység különösen a nagykereskedelmi és kiskereskedelmi tevékenység, ingatlan-bérbeadás, ingatlankezelési tevékenység, operatív és pénzügyi lízingtevékenység, vagyoni őrző-védő tevékenység, valamint irattározási és raktározási tevékenység.
 
-(4) A felszámolói névjegyzék közhiteles hatósági nyilvántartás. A névjegyzékben fel kell tüntetni:
+(4) A felszámolói névjegyzék – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül. A névjegyzékben fel kell tüntetni:
 
 - a) a felszámoló:
   - aa) nevét, postai és elektronikus levelezési címét,
@@ -1001,9 +1001,15 @@ folytatható le.
   - fc) a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát, valamint az (1a) bekezdés szerinti kötelező továbbképzési kötelezettség teljesítéséről szóló tanúsítvány számát,
   - fd) nyilvántartási számát,
 - g) a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
-- h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult, továbbá a szerkezetátalakítási szakértői tevékenységet végző természetes személyeknek az f) és g) pontban felsorolt adatait.
+- h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult,
+- i) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők
+  - ia) arcképmását,
+  - ib) a 27/D. § (15) bekezdése szerinti fizetésképtelenségi szakértői igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját,
+- j) a h) pont szerinti felszámoló gazdasági társaságnál szerkezetátalakítási szakértői tevékenységet végző természetes személyek
+  - ja) f) pontban felsorolt adatait és arcképmását,
+  - jb) g) pontban felsorolt adatait és a Szát. 24. § (8) bekezdése szerinti szerkezetátalakítási szakértői igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját.
 
-(4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely és a (4) bekezdés f) pontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
+(4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely, valamint a (4) bekezdés f) pontjában, i) pont ia) alpontjában és j) pont ja) alpontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
 
 (4b) Ha a Hatóság a felszámolót a felszámolói névjegyzékbe felveszi, a Hatóság névjegyzék-vezetést támogató informatikai rendszere – a felszámoló által lefolytatott csődeljáráshoz, felszámolási eljáráshoz kapcsolódó bírósági vagy más hatósági eljárásban a bíróság vagy a hatóság számára történő adatszolgáltatás céljából – a felszámoló névjegyzékből való törlését követő 5 évig tárolja a felszámoló által szolgáltatott, a közérdekből nyilvános adatok körét meghaladó (4) bekezdés szerinti adatokat.
 
@@ -1090,11 +1096,17 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 (15) A Hatóság a felszámolóbiztos, a vagyonfelügyelő, az ideiglenes vagyonfelügyelő és a rendkívüli vagyonfelügyelő (e § alkalmazásában a továbbiakban együtt: fizetésképtelenségi szakértő) részére e minőségének igazolására fizetésképtelenségi szakértői igazolványt állít ki. A fizetésképtelenségi szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. A fizetésképtelenségi szakértő az igazolványát a névjegyzékbe történő bejegyzése után veheti át.
 
-(16) A fizetésképtelenségi szakértői igazolvány az alábbi személyes adatokat tartalmazza:
+(16) A fizetésképtelenségi szakértői igazolvány a következő személyes adatokat tartalmazza:
 
-- a) a fizetésképtelenségi szakértő nevét, arcképét,
-- b) a fizetésképtelenségi szakértőt foglalkoztató felszámoló vagy felszámolók székhelyét,
-- c) az igazolvány okmányazonosítóját.
+- a) a fizetésképtelenségi szakértő nevét, arcképmását, a 27/C. § (4) bekezdés f) pont fd) alpontja szerinti nyilvántartási számát,
+- b) a fizetésképtelenségi szakértőt foglalkoztató felszámoló vagy felszámolók nevét és székhelyét,
+- c) az igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját.
+
+(17) A Hatóság a fizetésképtelenségi szakértői igazolvány kiállításához a (16) bekezdés szerinti személyes adatokat az igazolvány megszemélyesítése céljából az igazolvány megszemélyesítését végző szervezet részére átadhatja, aki azokat az igazolvány megszemélyesítéséig kezeli.
+
+(18) A Hatóság a fizetésképtelenségi szakértői igazolványokról nyilvántartást vezet, amely a (16) bekezdés a) és c) pontja szerinti személyes adatokat tartalmazza.
+
+(19) Ha a fizetésképtelenségi szakértői igazolvány elveszett, eltulajdonították vagy megsemmisült, a Hatóság intézkedik az igazolvány okmányazonosítójának és az érvénytelenség tényének a Hivatalos Értesítőben történő közzététele iránt.
 
 ### A felszámolás lefolytatása
 

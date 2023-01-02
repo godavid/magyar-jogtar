@@ -199,179 +199,29 @@ kell elszámolni.
 
 #### 13. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-19. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ingatlan-nyilvántartásba csak az ingatlanhoz kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:
-
-1. a jogosult
-
-1.1. kiskorúsága,
-
-1.2. gondnokság alá helyezése,
-
-2. a jogosulttal szemben megindított
-
-2.1. felszámolási eljárás,
-
-2.2. végelszámolás,
-
-3. a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégjegyzékből történő törlése,
-
-4. kisajátítási eljárás megindítása,
-
-5. telekalakítási eljárás megindítása,
-
-6. felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása,
-
-7. földminősítési eljárás megindítása,
-
-8. az ingatlanügyi hatósági határozat elleni
-
-8.1. jogorvoslati kérelem benyújtása,
-
-8.2. ügyészi felhívás benyújtása,
-
-8.3. ügyészi fellépés benyújtása,
-
-8.4. felügyeleti eljárás megindítása,
-
-9. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati, illetve perújítási kérelem benyújtása,
-
-10. az ingatlan jogi jellege,
-
-11. a bejegyzés, a feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
-
-12. épület
-
-12.1. létesítése,
-
-12.2. lebontása,
-
-13. az ingatlan-nyilvántartási eljárás felfüggesztése,
-
-14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege, környezeti teher ténye és jellege,
-
-15. bírósági ítéleten alapuló tulajdoni korlátozás,
-
-16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
-
-17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló
-
-17.1. elidegenítési és terhelési tilalom,
-
-17.2. elidegenítési tilalom,
-
-17.3. a rendelkezési jogot korlátozó egyéb tilalom,
-
-18. az e törvényben meghatározott
-
-18.1. perek,
-
-18.2. büntetőeljárás
-
-megindítása,
-
-19. árverés vagy nyilvános pályázat kitűzése,
-
-20. a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
-
-21. a tulajdonjog-fenntartással történt eladás,
-
-22. a jelzálogjog (önálló zálogjog) ranghelyének előzetes biztosítása,
-
-23. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,
-
-24. a ranghely megváltoztatása,
-
-25. a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja,
-
-26. az e törvényben meghatározott megismételt hagyatéki eljárás megindítása,
-
-27. a földhasználati jog gyakorlása szerződéses szabályozásának ténye,
-
-28. bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog,
-
-29. a föld tulajdonjogának átruházására irányuló szerződés benyújtása,
-
-30. pénzügyi lízingbeadás ténye,
-
-31. nemzeti emlékhely,
-
-32. történelmi emlékhely,
-
-33. a jogosult természetes személlyel szemben megindított adósságrendezési eljárás,
-
-34. az eljárás megszüntetésének ténye,
-
-35. a 2020. évi LXXI. törvény szerint folyamatban lévő megosztás,
-
-36. A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya alá eső, az adós ellen indított fizetésképtelenségi eljárás ténye,
-
-37. folyamatban levő gazdaságátadás.”
+#### 19. §
 
 #### 14. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-20. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 38. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az élelmiszerlánc-felügyeleti szerv nem állapít meg FELIR azonosítót az ügyfél számára arra a tevékenységre vonatkozóan, amelyet az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvényben meghatározott gazdaságátadási szerződéshez kapcsolódó kérelem alapján törölt.”
+#### 20. §
 
 #### 15. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-21. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 2. §-a a következő (5) bekezdéssel egészül ki:
+#### 21. §
 
-„(5) E törvény rendelkezéseit az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvényben foglalt eltéréssel kell alkalmazni.”
+#### 22. §
 
-22. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 13. § (2) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+#### 23. §
 
-[Az (1) bekezdés alkalmazásában nem minősül a használat átengedésének az, ha a tulajdonjogot szerző fél]
+#### 24. §
 
-„b) társult erdőgazdálkodást folytat vagy az erdőnek minősülő földet erdőkezelésbe adja;
+#### 25. §
 
-c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely érvényes jogcímen engedi át a használatot más személy részére; vagy”
+#### 26. §
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 13. § (2) bekezdése a következő d) és e) ponttal egészül ki:
+#### 27. §
 
-[Az (1) bekezdés alkalmazásában nem minősül a használat átengedésének az, ha a tulajdonjogot szerző fél]
-
-„d) gazdaságátadási szerződés keretében engedi át a használatot;
-
-e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot.”
-
-23. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 19. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 18. § (1) bekezdés b) pontja szerinti földet használó földműves alatt azt a földművest kell érteni, aki a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint legalább 3 éve használja a földet, ideértve azt is, akit a 65. § szerint a föld kényszerhasznosítójaként jelöltek ki. Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint az elővásárlási jogával élni kívánó tulajdonostárs házastársa használta. Ha a föld használati jogosultságát a földet használó földműves gazdaságátadási szerződéssel szerezte, a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint a gazdaságátadó használta.”
-
-24. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 20. § c) pontja helyébe a következő rendelkezés lép:
-
-(Elővásárlási jog nem áll fenn)
-
-„c) földnek gazdaságátadási szerződéssel történő átruházása„
-
-(esetén.)”
-
-25. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 36. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Nem kell a mezőgazdasági igazgatási szerv jóváhagyása)
-
-„f) földnek gazdaságátadási szerződéssel történő átruházásához;”
-
-26. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 47. §-a a következő (2d) bekezdéssel egészül ki:
-
-„(2d) Ha a volt haszonbérlő a föld használati jogosultságát gazdaságátadási szerződéssel szerezte, a 3 évbe beszámít azon időtartam is, amely alatt a földet a gazdaságátadó használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.”
-
-27. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 48. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Előhaszonbérleti jog nem áll fenn)
-
-„b) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló,”
-
-(haszonbérlet esetén.)
-
-28. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 59. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Nem kell a mezőgazdasági igazgatási szerv jóváhagyása)
-
-„d) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló földhasználati szerződéshez;”
+#### 28. §
 
 #### 16. A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény módosítása
 

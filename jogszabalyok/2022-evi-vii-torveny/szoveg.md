@@ -4,17 +4,9 @@ egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kor
 
 #### 1. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-1. § A helyi adókról szóló 1990. évi C. törvény 3. § (4a) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(4a) Mentes az állami tulajdont terhelő vagyoni értékű jog jogosítottjaként őt terhelő építményadó és telekadó alól az egyesület, az alapítvány, és az állam tulajdonában álló, az érintett állami ingatlanon közfeladatot ellátó nonprofit gazdasági társaság.”
-
-2. § A helyi adókról szóló 1990. évi C. törvény 52. § 16. pontja a következő j) alponttal egészül ki:
-
-(E törvény alkalmazásában
-
-telek: az épülettel, épületrésszel be nem épített földterület, ide nem értve)
-
-„j) a folyóval összefüggő vízterületet alkotó, – kizárólag a hajózási hatóság engedélyével megszüntethető – kereskedelmi áruk ki- és berakodásának céljából szabad kikötőként használt, vízzel borított medencét;”
+#### 2. §
 
 #### 2. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 

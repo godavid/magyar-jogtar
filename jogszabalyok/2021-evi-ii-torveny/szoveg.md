@@ -43,7 +43,7 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 
 #### 3. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-#### 3. §
+3. §
 
 #### 4. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
@@ -59,11 +59,11 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 
 #### 5. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-#### 5. §
+5. §
 
 #### 6. A kémiai biztonságról szóló 2000. évi XXV. törvény módosítása
 
-#### 6. §
+6. §
 
 #### 7. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
@@ -75,17 +75,13 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 
 (4)
 
-#### 8. §
+8. §
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
+- a)
+- b)
+- c)
+- d)
+- e)
 
 #### 8. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -109,25 +105,22 @@ e)
 
 (10)
 
-#### 10. §
+10. §
 
-a)
+- a)
+- b)
+- c)
+- d)
 
-b)
-
-c)
-
-d)
-
-#### 11. §
+11. §
 
 #### 9. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-#### 12. §
+12. §
 
 #### 10. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-#### 13. §
+13. §
 
 #### 11. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
@@ -155,33 +148,22 @@ d)
 
 (12)
 
-#### 15. §
+15. §
 
-a)
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
+- k)
+- l)
 
-b)
-
-c)
-
-d)
-
-e)
-
-f)
-
-g)
-
-h)
-
-i)
-
-j)
-
-k)
-
-l)
-
-#### 16. §
+16. §
 
 #### 12. A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény módosítása
 
@@ -195,21 +177,21 @@ l)
 
 (5)
 
-#### 18. §
+18. §
 
 #### 13. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-#### 19. §
+19. §
 
 20. § (1)
 
 (2)
 
-#### 21. §
+21. §
 
 #### 14.
 
-#### 22. §
+22. §
 
 #### 15. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
@@ -223,21 +205,21 @@ l)
 
 #### 16. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-#### 24. §
+24. §
 
 #### 17. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-#### 25. §
+25. §
 
 #### 18. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-#### 26. §
+26. §
 
 #### 19. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-#### 27. §
+27. §
 
-#### 28. §
+28. §
 
 29. § (1)
 
@@ -281,45 +263,45 @@ l)
 
 (21)
 
-#### 30. §
+30. §
 
-#### 31. §
+31. §
 
-#### 32. §
+32. §
 
-#### 33. §
+33. §
 
-#### 34. §
+34. §
 
-#### 35. §
+35. §
 
-#### 36. §
+36. §
 
-#### 37. §
+37. §
 
 38. § (1)
 
 (2)
 
-#### 39. §
+39. §
 
-#### 40. §
+40. §
 
-#### 41. §
+41. §
 
-#### 42. §
+42. §
 
-#### 43. §
+43. §
 
-#### 44. §
+44. §
 
-#### 45. §
+45. §
 
-#### 46. §
+46. §
 
-#### 47. §
+47. §
 
-#### 48. §
+48. §
 
 49. § (1)
 
@@ -333,15 +315,15 @@ l)
 
 (6)
 
-#### 50. §
+50. §
 
 51. § (1)
 
 (2)
 
-#### 52. §
+52. §
 
-#### 53. §
+53. §
 
 54. § (1)
 
@@ -371,71 +353,67 @@ l)
 
 (4)
 
-#### 58. §
+58. §
 
-#### 59. §
+59. §
 
 60. § (1)
 
 (2)
 
-#### 61. §
+61. §
 
-#### 62. §
+62. §
 
-#### 63. §
+63. §
 
-#### 64. §
+64. §
 
-#### 65. §
+65. §
 
 66. § (1)
 
-(2) A Ht. 61. §-a a következő (29) és (30) bekezdéssel egészül ki:
+(2)
 
-„(29) Ha a kötelezett a (4) bekezdésben foglalt elszállítási kötelezettségének nem tesz eleget, a hulladékgazdálkodási hatóság közigazgatási hatósági döntésében kötelezheti az ingatlan fekvése szerinti települési önkormányzatot a végrehajtás foganatosítására. A települési önkormányzat a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított harminc napon belül gondoskodik az elhagyott hulladék felszámolásáról. A felszámolással összefüggésben felmerült költségek a települési önkormányzat költségvetését terhelik azzal, hogy a felmerült költség a kötelezettől adók módjára behajtandó köztartozásnak minősül és az önkormányzat bevételét képezi.
+67. §
 
-(30) Ha a települési önkormányzat a (29) bekezdésben meghatározott kötelezettségének nem tesz eleget, a hulladékgazdálkodási hatóság a tudomásszerzéstől számított harminc napon belül gondoskodik az ingatlanon elhagyott hulladék felszámolásáról. Az ezzel összefüggésben felmerült költségek erejéig a hatóság azonnali beszedési megbízást kezdeményez a települési önkormányzat ellen. Az így befolyt összeg a hulladékgazdálkodási hatóság bevételét képezi.”
+68. §
 
-#### 67. §
+69. §
 
-#### 68. §
-
-#### 69. §
-
-#### 70. §
+70. §
 
 71. § (1)
 
 (2)
 
-#### 72. §
+72. §
 
-#### 73. §
+73. §
 
-#### 74. §
+74. §
 
-#### 75. §
+75. §
 
-#### 76. §
+76. §
 
-#### 77. §
+77. §
 
-#### 78. §
+78. §
 
 79. § (1)
 
 (2)
 
-#### 80. §
+80. §
 
-#### 81. §
+81. §
 
-#### 82. §
+82. §
 
-#### 83. §
+83. §
 
-#### 84. §
+84. §
 
 85. § (1)
 
@@ -461,7 +439,7 @@ l)
 
 (12)
 
-#### 86. §
+86. §
 
 87. § (1)
 
@@ -473,7 +451,7 @@ l)
 
 (2)
 
-#### 89. §
+89. §
 
 90. § (1)
 
@@ -487,9 +465,9 @@ l)
 
 #### 20. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
-#### 92. §
+92. §
 
-#### 93. §
+93. §
 
 #### 21. A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény módosítása
 
@@ -515,15 +493,15 @@ l)
 
 #### 23. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
-#### 96. §
+96. §
 
 #### 24. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-#### 97. §
+97. §
 
 #### 25. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-#### 98. §
+98. §
 
 #### 26. Hatályba léptető rendelkezések
 

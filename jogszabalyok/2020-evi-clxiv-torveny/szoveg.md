@@ -22,15 +22,7 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 #### 5. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-5. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 19. § (1c) bekezdése helyébe a következő rendelkezés lép:
-
-„(1c) Az (1) és (1a) bekezdéstől eltérően a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felület útján – a jogosult azonosításához szükséges adatok tekintetében, valamint
-
-a) a szociális ellátások tekintetében a 18/A. § d) és e) pontjában, és
-
-b) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdés d) pontjában
-
-meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.”
+5. § (1)
 
 (2)
 
@@ -52,13 +44,9 @@ meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hat�
 
 #### 10. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-10. § (1) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvtv.) 52. § (1) bekezdése helyébe a következő rendelkezés lép:
+10. § (1)
 
-„(1) Véglegessé vált hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét, valamint a felszámolási eljárás és a végelszámolás környezet- és természetvédelmi követelményeiről szóló kormányrendelet szerinti bizonyított környezeti teher (a továbbiakban: bizonyított környezeti teher) tényét és jellegét az ingatlan-nyilvántartásban fel kell tüntetni.”
-
-(2) A Kvtv. 52. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A bejegyzés alapjául szolgáló környezetszennyezettség ténye, mértéke és jellege, továbbá a környezeti teher ténye és jellege megszűnését, vagy megváltozását az ingatlan tulajdonosa kérelmére a bejegyzést kérő hatóság, vagy a bejegyzést elrendelő bíróság állapítja meg, majd a bejegyzés törlése, illetve módosítása iránt hivatalból intézkedik.”
+(2)
 
 (3)
 
@@ -96,11 +84,7 @@ meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hat�
 
 #### 18. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-18. § (1) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 17. § (1) bekezdés 14. pontja helyébe a következő rendelkezés lép:
-
-(Az ingatlan-nyilvántartásba csak az ingatlanhoz kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:)
-
-„14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege, környezeti teher ténye és jellege,”
+18. § (1)
 
 (2)
 
@@ -222,7 +206,7 @@ meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hat�
 
 40. § (1)
 
-(2) Nem lép hatályba a 2019. évi CX. törvény 12. § (2) bekezdése.
+(2)
 
 #### 41. Az egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi CXV. törvény módosítása
 

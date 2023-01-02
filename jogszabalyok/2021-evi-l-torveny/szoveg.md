@@ -78,9 +78,7 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 11. § (1)
 
-(2) Az Utv. 7. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) Kérelemre a magánútlevél a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza.”
+(2)
 
 (3)
 
@@ -150,9 +148,7 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 21. § (1)
 
-(2) Az At. 81/D. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (10) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.”
+(2)
 
 #### 22. §
 

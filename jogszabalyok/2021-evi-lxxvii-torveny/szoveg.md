@@ -12,27 +12,13 @@ a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról 
 
 (2)
 
-(3) A Jtv. 5. § (2) bekezdése a következő e) és f) ponttal egészül ki:
-
-[Az (1) bekezdés szerinti éves személyenkénti időkereten felül az állam]
-
-„e) a foglalkoztatásra irányuló jogviszonyban álló hallássérült személy részére évenként 50 óra;
-
-f) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti egyéni vagy társas vállalkozó hallássérült személy részére évenként 50 óra”
-
-(térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.)
+(3)
 
 3. §
 
 4. §
 
-5. § A Jtv.
-
-- a) 5. § (2) bekezdés a) pontjában a „150 óra” szövegrész helyébe a „200 óra”, a „300 óra” szövegrész helyébe a „400 óra”,
-- b) 5. § (2) bekezdés b) pont ba) alpontjában a „150 óra” szövegrész helyébe a „200 óra”,
-- c) 5. § (2) bekezdés c) pontjában a „40 százalékának” szövegrész helyébe a „60 százalékának”
-
-szöveg lép.
+5. §
 
 6. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2022. január 1-jén lép hatályba.
 

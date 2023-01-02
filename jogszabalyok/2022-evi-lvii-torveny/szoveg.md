@@ -171,11 +171,11 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 
 #### 16. §
 
-17. § A Sporttv. 76/C. §-ában az „az MNV Zrt.-vel” szövegrész helyébe az „a tulajdonosi joggyakorlóval” szöveg lép.
+#### 17. §
 
-18. § A budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény (a továbbiakban: 2012. évi LXXV. törvény) 6. § (1) bekezdésében a „Nemzeti Sportközpontok” szövegrész helyébe a „Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság” szöveg lép.
+#### 18. §
 
-19. § Hatályát veszti a 2012. évi LXXV. törvény 6. § (6) bekezdése.
+#### 19. §
 
 ### 1. melléklet a 2022. évi LVII. törvényhez
 

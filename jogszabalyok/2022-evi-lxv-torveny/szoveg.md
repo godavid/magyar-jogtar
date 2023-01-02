@@ -334,329 +334,50 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 53. §
 
-54. § (1) A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tám. tv.) 9. § (1) bekezdés 20. pontja helyébe a következő rendelkezés lép:
+#### 54. §
 
-(E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:)
+#### 55. §
 
-„20. monitoring: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának rendszeres vizsgálata, valamint a 2021/2115/EU európai parlamenti és a tanácsi rendelet 132. cikk szerinti eljárás;”
+#### 56. §
 
-(2) A Tám. tv. 9. § (1) bekezdése a következő 32–34. ponttal egészül ki:
+#### 57. §
 
-(E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:)
+#### 58. §
 
-„32. feltételesség: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, az Európai Parlament és Tanács 2021/2115/EU rendelet 12. cikke és III. melléklete szerinti egységes feltételrendszer;
+#### 59. §
 
-33. kamarai meghatalmazás: a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat, amely alapján a Magyar Agrár- Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) az agrár-, illetve vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljárhat;
+#### 60. §
 
-34. mobilGazda alkalmazás: a mezőgazdasági és vidékfejlesztési támogatási szerv által az ügyfelek számára biztosított, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 25. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás.”
+#### 61. §
 
-55. § A Tám. tv. 24. § (2) bekezdése a következő e) ponttal egészül ki:
+#### 62. §
 
-(Az adatkezelő szerv által kezelt támogatási adatok közül közérdekből nyilvános adat e törvény alapján az adatkezelő szerv által folyósított, a központi költségvetésből, illetve az EMGA-ból, az EMVA-ból, illetve EHA-ból vagy az ETHA-ból finanszírozott támogatásban részesülő ügyfél:)
+#### 63. §
 
-„e) nemzeti forrásból, támogatott szolgáltatás formájában folyósított intézkedések tekintetében a végső kedvezményezett a)–d) pontja szerinti adatai.”
+#### 64. §
 
-56. § (1) A Tám. tv. 26. § (1) bekezdése a következő i) ponttal egészül ki:
+#### 65. §
 
-(A mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási adatok nyilvántartására az alábbi nyilvántartási rendszereket működteti:)
+#### 66. §
 
-„i) képzettségi nyilvántartási rendszer.”
+#### 67. §
 
-(2) A Tám. tv. 26. § (3) bekezdése a következő 43–47. ponttal egészül ki:
+#### 68. §
 
-(Az adatkezelő szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése, továbbá az ügyfelek azonosítása céljából adatokat kell átadni:)
+#### 69. §
 
-„43. a Kármegállapítási Munkafolyamatokat Támogató Rendszerből (KMTR),
+#### 70. §
 
-44. a vízjogi engedélyekkel és víztestek állapotával kapcsolatos adatbázisokból (OVF),
+#### 71. §
 
-45. a Földmegfigyelési Információs Rendszerből (FIR),
+#### 72. §
 
-46. az Elektronikus Gazdálkodási Naplóból (webGN),
+#### 73. §
 
-47. a gyümölcsültetvény-kataszterből.”
+#### 74. §
 
-57. § A Tám. tv. „Az intézkedések kezelésére vonatkozó nyilvántartási és ellenőrzési rendszerek” alcíme a következő 27/A. §-sal egészül ki:
+#### 75. §
 
-„27/A. § A mezőgazdasági és vidékfejlesztési szerv – a 2021/2116/EU európai parlamenti és a tanácsi rendelet 66. cikk (1) bekezdés c) pontjának megfelelően – az integrált igazgatási és ellenőrzési rendszer részeként területi monitoringrendszert üzemeltet. A területi monitoringrendszer által szolgáltatott eredményeket a mezőgazdasági és vidékfejlesztési támogatási szerv a tényállás tisztázásához, illetve bizonyítási eszközként használja fel.”
+#### 76. §
 
-58. § A Tám. tv. 28. § (3) bekezdés a) pont ad) alpontja helyébe a következő rendelkezés lép:
-
-[A mezőgazdasági és vidékfejlesztési támogatási szerv kérelemre induló eljárásaiban való részvétel feltétele, hogy az ügyfél legkésőbb a kérelem benyújtásával egyidejűleg kérelmezze nyilvántartásba vételét az ügyfél-nyilvántartási rendszerben. A nyilvántartásba vétel iránti kérelemnek a (2) bekezdésben foglalt adatok mellett tartalmaznia kell
-
-természetes személy esetén]
-
-  - „ad) lakóhelyét (egyéni vállalkozó esetében székhelyét is),”
-
-59. § A Tám. tv. 28/B. §-a helyébe a következő rendelkezés lép:
-
-„28/B. § (1) A mezőgazdasági támogatási eljárásban az ügyfél helyett az ügyfélnyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású, az elektronikus kapcsolattartás feltételeinek megfelelő meghatalmazott személy (a továbbiakban: meghatalmazott), az ügyfél törvényes képviselője, elsődleges képviselője, valamint kamarai meghatalmazás alapján a NAK is eljárhat.
-
-(2) Az állandó meghatalmazást a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon kell bejelenteni. A meghatalmazást – az eseti meghatalmazás kivételével – a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartásba veszi, hatályát és érvényességét valamennyi eljárási cselekménynél megvizsgálja, és azt ötévente felülvizsgálhatja.
-
-(3) Az állandó meghatalmazás általános jelleggel vagy egyes intézkedésekre szólhat. A meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és cselekményre, ideértve a biztosítási intézkedést és a végrehajtási eljárást.
-
-(4) Az eseti meghatalmazást nem kell nyomtatványon bejelenteni, de legalább teljes bizonyító erejű, a polgári perrendtartásról szóló törvény szerinti magánokiratba kell foglalni, és az adott eljárási cselekménnyel egyidejűleg kell a mezőgazdasági és vidékfejlesztési támogatási szerv részére benyújtani.
-
-(5) Az ügyfél az állandó meghatalmazás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. Az állandó meghatalmazás megszűnését a meghatalmazott is bejelentheti.
-
-(6) Az állandó meghatalmazáson alapuló képviseleti jog keletkezése és megszűnése – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától, vagy ha az ügyfél a bejelentésben későbbi időpontot jelölt meg, akkor a bejelentésben megjelölt, a bejelentés beérkezése napjánál későbbi időponttól hatályos.
-
-(7) A mezőgazdasági és vidékfejlesztési támogatási szerv a (2) és (3) bekezdésben foglaltaknak meg nem felelő állandó meghatalmazás nyilvántartásba vétele iránti kérelmet visszautasítja.
-
-(8) Ha az ügyfél nevében meghatalmazottja jár el az iratokat a mezőgazdasági és vidékfejlesztési támogatási szerv a meghatalmazott részére küldi meg. Ha az ügyfél az iratok saját részére történő kézbesítését kérte, akkor részére kézbesítendő az irat, kivéve, ha kötelező elektronikus kapcsolattartás esetén nem felel meg az elektronikus kapcsolattartás feltételeinek és nem ő volt az adott intézkedésben az utolsó iratot benyújtó személy. Kötelező elektronikus kapcsolattartás esetén az iratokat az adott intézkedésben az utolsó iratot benyújtó, az elektronikus kapcsolattartás feltételeinek megfelelő személynek kell kézbesíteni.
-
-(9) Ha az ügyfél nevében kamarai meghatalmazás alapján a NAK nevében a munkavállalója iratot nyújt be, a keletkezett iratokat a mezőgazdasági és vidékfejlesztési támogatási szerv a NAK részére küldi meg.
-
-(10) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilatkozattételre hívja fel az ügyfelet, ha az eljárás során az ügyfél és az ügyfél meghatalmazottjának, illetve az ügyfél és a kamarai meghatalmazás alapján eljáró NAK nyilatkozata eltér egymástól, vagy egyéb eljárási cselekményeik ellentétesek. Ha az ügyfél eltérően nem nyilatkozik, a mezőgazdasági és vidékfejlesztési támogatási szerv a későbbi cselekményt, nyilatkozatot tekinti érvényesnek.
-
-(11) Ha az ügyfélnek több meghatalmazottja van vagy a meghatalmazottja mellett kamarai meghatalmazással is rendelkezik, az iratokat az adott intézkedésben utoljára iratot benyújtó, hatályos állandó vagy kamarai meghatalmazáson alapuló képviseleti joggal rendelkező részére kell kézbesíteni.
-
-(12) Folyamatban lévő támogatás esetén az ügy megindítását követően rendelkezési nyilvántartásba meghatalmazásra tett új ügyintézési rendelkezést, vagy annak módosítását a mezőgazdasági és vidékfejlesztési támogatási szerv csak akkor veszi figyelembe, ha azt az ügyfél a mezőgazdasági és vidékfejlesztési támogatási szervnek is bejelenti.
-
-(13) Ha az ügyfél nevében kamarai meghatalmazás alapján a NAK jár el, a kamarai meghatalmazás rögzítéséhez a NAK elektronikus úton átadja a mezőgazdasági és vidékfejlesztési támogatási szervnek
-
-- a) a kamarai meghatalmazás alapján eljáró munkavállalója és a természetes személy meghatalmazó ügyfélazonosítóját és születési idejét,
-- b) nem természetes személy meghatalmazó esetén annak ügyfélazonosítóját és adóazonosítóját,
-- c) a kamarai meghatalmazás egyedi azonosítóját és tárgyi hatályát.
-
-(14) A NAK a kamarai meghatalmazás alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 14. § (9) bekezdés szerinti feladatai ellátása érdekében, valamint a 36. § (3) bekezdése szerinti kötelezettség teljesítése céljából a kamarai meghatalmazás megszűnésétől számított tíz évig
-
-- a) a kamarai meghatalmazást és a létrejöttéhez szükséges, jogszabályban meghatározott, az ügyfél beazonosítására és elérhetőségére vonatkozó személyes adatokat nyilvántartja és kezeli,
-- b) a kamarai meghatalmazás alapján végzett eljárás során keletkezett összes dokumentumot megőrzi.
-
-(15) A kamarai meghatalmazás tárgyi hatálya a NAK által meghatározott és honlapján közzétett azon agrártámogatások igénybevételével összefüggő elektronikus ügyintézésére terjedhet ki, amelyek vonatkozásában jogszabály vagy pályázati felhívás a kamarai meghatalmazással való eljárást nem zárja ki.
-
-(16) A kamarai meghatalmazás a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben a NAK által a mezőgazdasági és vidékfejlesztési támogatási szerv részére elektronikus úton történő közlésekor lép hatályba, amely a NAK-ot azonnali ügyintézésre jogosítja a mezőgazdasági és vidékfejlesztési támogatási szerv előtt. A mezőgazdasági és vidékfejlesztési szerv a kamarai meghatalmazás meglétét, valamint tartalmát bármikor ellenőrizheti a képviseleti jog igazolása céljából. A kamarai meghatalmazással keletkezett képviseleti jog a kamarai meghatalmazás visszavonásának a mezőgazdasági és vidékfejlesztési támogatási szervvel történő közlésével szűnik meg. A jogszabályban meghatározott formai és tartalmi követelményeknek megfelelően létrejött kamarai meghatalmazás teljes bizonyító erővel bír.
-
-(17) A kamarai meghatalmazás alapján a NAK kizárólag
-
-- a) a meghatalmazó erre irányuló kifejezett kezdeményezésére és a meghatalmazó által szolgáltatott adatok rögzítésével, a (15) bekezdés szerinti agrártámogatásokra vonatkozó kérelem, dokumentum elektronikus benyújtásáért, és
-- b) a mezőgazdasági és vidékfejlesztési támogatási szerv által a NAK részére a kamarai meghatalmazásra tekintettel küldött, a meghatalmazót érintő iratok kézbesítéséért
-
-felelős.”
-
-60. § A Tám. tv. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ügyfélnyilvántartási rendszerbe bejelentett fizetési számlaszám – az ügyfél és a pénzügyi intézmény közötti finanszírozási kapcsolat miatt szükségessé váló – módosításához az ügyfél és a pénzügyi intézmény erre vonatkozó együttes megállapodása, továbbá a megállapodásnak – az erre rendszeresített nyomtatványon – az ügyfél vagy a pénzügyi intézmény által a mezőgazdasági és vidékfejlesztési támogatási szervnek történt benyújtása szükséges. A megállapodás nyilvántartásba vételéről a mezőgazdasági és vidékfejlesztési támogatási szerv tájékoztatja az ügyfelet és a pénzügyi intézményt. Az ügyfél halála esetén a nyilvántartásba vett megállapodás mezőgazdasági és vidékfejlesztési támogatási szervvel szembeni hatálya megszűnik, és a megállapodást a nyilvántartásból törölni kell.”
-
-61. § A Tám. tv. III. Fejezete a következő alcímmel egészül ki:
-
-### „Képzettségi nyilvántartás
-
-31/D. § (1) Az egyes támogatások feltételeként előírt, képzettséget igazoló dokumentumok nyilvántartására, és az azokban szereplő képzettségre vonatkozó adatok, tények kezelésére, ellenőrzésére a mezőgazdasági és vidékfejlesztési támogatási szerv képzettségi nyilvántartást vezet.
-
-(2) A képzettségre vonatkozó adat, tény az ügyfél által benyújtott, jogszabályban vagy pályázati felhívásban támogatási feltételként rögzített képzettség, végzettség igazolására szolgáló dokumentum (a továbbiakban: igazolás) alapján kerül nyilvántartásba vételre. Az igazolást az ügyfélnek egyszer kell benyújtania a mezőgazdasági és vidékfejlesztési támogatási szervhez nyilvántartásba vétel céljából.
-
-(3) A képzettségi nyilvántartásban szereplő adat, tény valamennyi e törvény hatálya alá tartozó eljárás során felhasználható.”
-
-62. § A Tám. tv. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kérelem vagy a pályázat benyújtására, valamint az adatszolgáltatásra jogszabályban vagy jogszabályi felhatalmazás alapján közleményben meghatározottak szerint nyomtatvány vagy elektronikus űrlap rendszeresíthető. A rendszeresített nyomtatvány vagy az elektronikus űrlap alkalmazása kötelező.”
-
-63. § A Tám. tv. 38. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) E törvény eltérő rendelkezése hiányában a hivatalból indult eljárásokra a kérelemre indult eljárásra vonatkozó szabályokat kell alkalmazni.”
-
-64. § A Tám. tv. 40. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A mezőgazdasági és vidékfejlesztési támogatási szervnek a nyilvánvaló hibát a nemzeti forrásból finanszírozott támogatási eljárásokban is az (1) bekezdésben foglaltak szerint kell kijavítania.”
-
-65. § A Tám. tv. 43/B. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
-
-„(4a) Az ügyfél által a kizárólag a mobilGazda alkalmazáson keresztül benyújtott adatot, megfelelő minőségű képfelvételt a mezőgazdasági és vidékfejlesztési támogatási szerv a tényállás tisztázásához bizonyítékként használja fel.
-
-(4b) A tényállás tisztázásának szempontjából, a mobilGazda alkalmazáson keresztül beküldött képek és a helyszíni ellenőrzésen vagy szemlén felvett adatok ütközése esetén a helyszíni ellenőrzés vagy szemle adatai az irányadók.”
-
-66. § A Tám. tv. 43/C. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A megkeresést kizárólag hivatali kapun keresztül lehet megküldeni, továbbá a mezőgazdasági és vidékfejlesztési támogatási szerv és a végrehajtásban közreműködő szerv a megkeresés során hivatali kapu útján tartanak kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.”
-
-67. § A Tám. tv. 47. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az (5) bekezdés alkalmazásában távérzékeléses ellenőrzésnek minősül az űr- és légi felvételek, valamint – jogszabályban meghatározottak szerint – a területi monitoringrendszer adatainak kiértékelésével lefolytatott ellenőrzés.”
-
-68. § (1) A Tám. tv. 56. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(Fellebbezés benyújtásának nincs helye, amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv)
-
-„f) a kérelemnek maradéktalanul helyt adott.”
-
-(2) A Tám. tv. 56. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A kérelmet vissza kell utasítani, ha:)
-
-„d) a kérelmet az ügyfél nevében előterjesztő képviselő képviseleti joga a kérelem benyújtásakor nem került megfelelően igazolásra;”
-
-69. § (1) A Tám. tv. 57/A. § (1c) bekezdése helyébe a következő rendelkezés lép:
-
-„(1c) A fellebbezést a döntés közlésétől számított 15 napon belül – a fellebbezéssel érintett kérelem benyújtásának módjával azonos módon – lehet előterjeszteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. Ha a fellebbezést a miniszternél nyújtják be, akkor a miniszter a fellebbezést megküldi a mezőgazdasági és vidékfejlesztési támogatási szerv részére. Elkésettség címén a fellebbezés nem utasítható el, ha a fellebbezésre jogosult a fellebbezési határidőben a fellebbezést az elbírálására jogosult szervnél terjeszti elő.”
-
-(2) A Tám. tv. 57/A. § (2a) bekezdése a következő g) ponttal egészül ki:
-
-(A mezőgazdasági és vidékfejlesztési támogatási szerv visszautasítja)
-
-„g) a nem a jogszabályban meghatározott módon, vagy a választott kapcsolattartási formának megfelelően benyújtott fellebbezést.”
-
-(3) A Tám. tv. 57/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a miniszter akkor veszi figyelembe, ha az ügyfél igazolja, vagy az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott, vagy nem volt tudomása arról, hogy ezen új ténynek, új bizonyítéknak az intézkedésben való részvétel szempontjából jelentősége van.”
-
-70. § A Tám. tv. 73/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Jogszabályban meghatározott, nemzeti forrásból folyósított szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél
-
-- a) jogszabályban meghatározott mértékű élőmunka-ráfordítás biztosítását, továbbá
-- b) az előírt elismert tevékenységből származó árbevételi, képzési és beruházási kötelezettség teljesítését
-
-tartalmazó kötelezettségvállalása.”
-
-71. § A Tám. tv. 76. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Azon intézkedések igénybevételéhez megállapított mezőgazdasági vagyoni értékű jogokhoz, amelyek helyett a 2021/2115/EU európai parlamenti és tanácsi rendelet 147. cikk (2) bekezdés második albekezdésével összhangban Magyarország 2023–2027. évekre vonatkozó KAP Stratégiai Tervében foglaltak szerint új mezőgazdasági vagyoni értékű jogok kerülnek megállapításra, az új jogok megállapítását követően, vagy 2023. június 30-áig – a későbbi időpontot figyelembe véve – jogosultságok és kötelezettségek nem kapcsolódnak, azokat a mezőgazdasági és vidékfejlesztési támogatási szerv a továbbiakban nem tartja nyilván.”
-
-72. § A Tám. tv. 80. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) E törvény rendelkezéseit – a 13–18. §, a 24. § és a 25. § kivételével – kell alkalmazni a 2021/2116/EU európai parlamenti és tanácsi rendelet 69. cikk (1) és (2) bekezdése alapján, a 2022/1173/EU felhatalmazáson alapuló bizottsági rendelet 8. és 9. cikke szerint benyújtásra kerülő 2023. évi támogatási kérelemmel kapcsolatos eljárás során.”
-
-73. § (1) A Tám. tv. 81. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„b) a mezőgazdasági vagyoni értékű jogok megállapításának részletes szabályait,”
-
-(rendeletben állapítsa meg.)
-
-(2) A Tám. tv. 81. § (4) bekezdése a következő q)–t) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„q) a területi monitoringrendszer működtetésével kapcsolatos szabályokat;
-
-r) támogatási jogosultságok felső határának megállapítása, és az országos tartalékával összefüggő részletes szabályait;
-
-s) a területi monitoringrendszer kapcsán a helyszíni ellenőrzések mintakiválasztásával, lebonyolításával, tartalmával, az ellenőrzési jelentés részleteivel kapcsolatos szabályokat
-
-t) a kamarai meghatalmazás létrehozására, megszűnésére, annak módjára, a kamarai meghatalmazás tartalmára, a nyilvántartás adataira vonatkozó részletes szabályokat”
-
-(rendeletben állapítsa meg.)
-
-74. § A Tám. tv. 81. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben az Agrár Széchenyi Kártya Program működésének és igénybevételének szabályait rendeletben állapítsa meg.”
-
-75. § A Tám. tv. 84. §-a helyébe a következő rendelkezés lép:
-
-„84. § Ez a törvény
-
-1. az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendelet;
-
-2. az 1698/2005/EK rendeletben előírt vidékfejlesztési támogatásra történő átmenet szabályainak megállapításáról szóló, 2006. szeptember 5-i 1320/2006/EK bizottsági rendelet;
-
-3. a mezőgazdasági termékek után járó export-visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról szóló, 2009. július 7-i 612/2009/EK bizottsági rendelet;
-
-4. az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet;
-
-5. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet;
-
-6. a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet;
-
-7. a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet;
-
-8. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet;
-
-9. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet;
-
-10. az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. május 15-i 508/2014/EU európai parlamenti és tanácsi rendelet;
-
-11. a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról szóló 1307/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről és X. mellékletének módosításáról szóló, 2014. március 11-i 639/2014/EU bizottsági felhatalmazáson alapuló rendelet;
-
-12. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendelet;
-
-13. a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet;
-
-14. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, (2014. június 25-i 702/2014/EU bizottsági rendelet;
-
-15. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet;
-
-16. az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet;
-
-17. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euró használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU bizottsági felhatalmazáson alapuló rendelet;
-
-18. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az Európai Mezőgazdasági Garanciaalapot és az Európai Mezőgazdasági Vidékfejlesztési Alapot érintő szabálytalanságokra vonatkozó jelentéstételre vonatkozó különös rendelkezésekkel történő kiegészítéséről és az 1848/2006/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2015. július 8-i 2015/1971/EU bizottsági felhatalmazáson alapuló rendelet;
-
-19. az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16. 1388/2014/EU bizottsági rendelet;
-
-20. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i 2015/1589/EU tanácsi rendelet;
-
-21. az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) és az Európai Mezőgazdasági Garanciaalapból (EMGA) 2021-ben és 2022-ben nyújtandó támogatásokra vonatkozó egyes átmeneti rendelkezések megállapításáról és az 1305/2013/EU, az 1306/2013/EU és az 1307/2013/EU rendeletnek a források és a 2021-ben és 2022-ben való alkalmazás tekintetében, valamint az 1308/2013/EU rendeletnek a források és az ilyen támogatások 2021-re és 2022-re vonatkozó elosztása tekintetében történő módosításáról szóló, 2020. december 23-i 2020/2220 európai parlamenti és tanácsi rendelet;
-
-22. a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU parlamenti és tanácsi rendelet;
-
-23. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2116/EU parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-76. § A Tám. tv.
-
-1. 4/B. § (8) bekezdésében az „elektronikus levél útján vagy egyéb elektronikus úton” szövegrész helyébe az „a megkeresett szerv vagy személy olyan hivatalos elektronikus elérhetőségén” szöveg,
-
-2. 4/B. § (9) bekezdésében az „elektronikus levél útján vagy egyéb elektronikus úton” szövegrész helyébe a „hivatali kapun keresztül” szöveg,
-
-3. 9. § (1) bekezdés 8. pontjában az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-4. 11. § (1a) bekezdésében az „a 81. § (3) bekezdés b)–d), j) és k) pontja” szövegrész helyébe az „a 81. § (3) bekezdés a)–d), h)–j) és k) pontja” szöveg,
-
-5. 19. § (1) bekezdésében az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-6. 19. § (3) bekezdés nyitó szövegrészében az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-7. 19. § (3) bekezdés a) pontjában az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-8. 19. § (5) bekezdésében az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-9. 22. § (1) bekezdés a) pontjában a „lakcímadatait,” szövegrész helyébe a „lakcímadatait, elektronikus levelezési címét,” szöveg,
-
-10. 26. § (5) bekezdésében az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-11. 28. § (3) bekezdés d) pontjában a „lakóhelyét (székhelyét)” szövegrész helyébe a „levelezési címét” szöveg,
-
-12. 41. § (1a) bekezdésében a „nyilatkozattételre” szövegrész helyébe a „hiánypótlásra vagy nyilatkozattételre” szöveg és a „nem nyilatkozik,” szövegrész helyébe a „nem nyilatkozik vagy a hiánypótlást a hiánypótlásra nyitva álló határidőn túl nyújtja be,” szöveg,
-
-13. 44. § (4) bekezdésében az „1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikkének e) pontja” szövegrész helyébe az „1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikkének e) pontja és a 2021/2115/EU európai parlamenti és tanácsi rendelet 4. cikk (3) és (4) bekezdése” szöveg,
-
-14. 44. § (6) bekezdésében a „sikertelensége esetében” szövegrész helyébe a „vonatkozásában” szöveg,
-
-15. 45. § (4) bekezdésében az „együttes” szövegrész helyébe az „egybehangzó” szöveg,
-
-16. 46. § (1) bekezdésében az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-17. 56. § (2) bekezdés j) pontjában a „betétlapokat, vagy bármelyiket” szövegrész helyébe a „betétlapokat, vagy papír alapú benyújtás esetén bármelyiket” szöveg,
-
-18. „Kölcsönös megfeleltetésre vonatkozó szabályok megsértése miatti külön rendelkezések” alcím címében a „Kölcsönös megfeleltetésre” szövegrész helyébe a „Kölcsönös megfeleltetésre és feltételességre” szöveg,
-
-19. 73. § (1) bekezdésében az „A kölcsönös megfeleltetés” szövegrész helyébe az „A kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-20. 73. § (1a) bekezdésében az „A kölcsönös megfeleltetés” szövegrész helyébe az „A kölcsönös megfeleltetés és a feltételesség” szöveg és a „kölcsönös megfeleltetés” szövegrész helyébe a „kölcsönös megfeleltetés és feltételesség” szöveg,
-
-21. 73. § (2) bekezdésében az „A kölcsönös megfeleltetés” szövegrész helyébe az „A kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-22. 73. § (3) bekezdésében az „A kölcsönös megfeleltetés” szövegrész helyébe az „A kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-23. 73. § (4) bekezdésében az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-24. 81. § (4) bekezdés k) pontjában az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-25. 81. § (4) bekezdés l) pontjában az „a kölcsönös megfeleltetés” szövegrész helyébe az „a kölcsönös megfeleltetés és a feltételesség” szöveg,
-
-26. 81. § (4) bekezdés n) pontjában a „körülmények megállapításának eseteit” szövegrész helyébe a „körülmények megállapításának egyes eseteit” szöveg
-
-lép.
-
-77. § Hatályát veszti a Tám. tv.
-
-- a) 10. § (1) bekezdésében a „vagy egyébként itt tartózkodó és” szövegrész,
-- b) 28/A. § (4) bekezdésében a „ , termelőegységeit, a gazdálkodás végzésének helyeit” szövegrész,
-- c) 30/A. §-ában a „ , valamint az ezek elmulasztása miatt kiszabott mulasztási bírság megfizetéséig” szövegrész,
-- d) 63. § (4) bekezdésében a „külön” szövegrész,
-- e) 79/B. §-a.
+#### 77. §

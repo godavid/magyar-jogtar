@@ -4,45 +4,45 @@ az Országos Kereskedelmi Nyilvántartási Rendszer működéséhez szükséges 
 
 #### 1. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-#### 1. §
+1. §
 
-#### 2. §
+2. §
 
-#### 3. §
+3. §
 
-#### 4. §
+4. §
 
-#### 5. §
+5. §
 
 #### 2. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
-#### 6. §
+6. §
 
-#### 7. §
+7. §
 
-#### 8. §
+8. §
 
 #### 3. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-#### 9. §
+9. §
 
-#### 10. §
+10. §
 
 #### 4. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
 
-#### 11. §
+11. §
 
-#### 12. §
+12. §
 
 #### 5. A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény módosítása
 
-#### 13. §
+13. §
 
-#### 14. §
+14. §
 
 #### 6. Az ingatlan-nyilvántartást, valamint egyes közigazgatási hatósági eljárásokat érintő egyes törvények módosításáról szóló 2019. évi LXXXII. törvény módosítása
 
-#### 15. §
+15. §
 
 #### 7. Záró rendelkezések
 

@@ -272,9 +272,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 105. §
 
-106. § A közúti közlekedésről szóló 1988. évi I. törvény 27. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az (5) bekezdés szerinti engedély adattartalmát a közlekedési hatóság elektronikus adatkapcsolaton keresztül küldi meg a közlekedési nyilvántartó szerv részére.”
+106. §
 
 107. §
 
@@ -334,13 +332,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 133. §
 
-134. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 14. § (2) bekezdés e) pontja a következő ed) alponttal egészül ki:
-
-(A nyilvántartót értesíti:
-
-a közlekedési hatóság elektronikus úton)
-
-„ed) a bontási átvételi igazolás adatairól,”
+134. §
 
 135. §
 
@@ -452,23 +444,9 @@ a közlekedési hatóság elektronikus úton)
 
 #### 23. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-185. § (1) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. § 18. pontja helyébe a következő rendelkezés lép:
+185. §
 
-(E törvény alkalmazásában)
-
-„18. útdíj: az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, a megtett úttal arányos úthasználat alapján az útdíjszedő által kivetett díj; a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg nem minősül útdíjnak;”
-
-(2) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. §-a a következő 32. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„32. egyenleg: úthasználati jogosultság keletkezése érdekében, a fizetendő útdíj-követelés kiegyenlítése céljából a szerződött díjfizető által megfizetett, az egyetemes útdíjszolgáltató által nyilvántartott és rendelkezésre tartott, forintban kifejezett pénzösszeg, a szolgáltatás ellenértéke, amelynek terhére a szerződött díjfizető útdíjfizetési kötelezettségének eleget tehet.”
-
-186. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdése a következő s) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben)
-
-„s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.”
+186. §
 
 #### 24. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
