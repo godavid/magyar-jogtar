@@ -1533,9 +1533,9 @@ feltéve, ha a működtető rendelkezik az ehhez szükséges – jogszabályban 
 
 - a) külön jogszabályban meghatározott szakmai követelmények figyelembevételével kiválasztja, felkéri, felkészíti, nyilvántartásba veszi, és
 - b) tevékenységükben folyamatos szakmai tanácsadással segíti, továbbá
-- c) folyamatosan ellenőrzi a nevelési díj és a külön ellátmány felhasználásában, a szakmai tevékenységük ellátásában.
+- c) folyamatosan ellenőrzi a nevelési ellátmány felhasználásában, a szakmai tevékenységük ellátásában.
 
-(5) A helyettes szülőt a gyermek ellátására az 56. § szerinti nevelési díj és külön ellátmány illeti meg.
+(5) A helyettes szülőt a gyermek ellátására az 56. § szerinti nevelési ellátmány illeti meg.
 
 (6) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a helyettes szülő kérelmére vagy beleegyezésével a (3) bekezdésben meghatározott gyermeklétszámtól – a gyermek érdekében – el lehet térni.
 
@@ -1728,29 +1728,22 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 
 - a) külön jogszabályban meghatározott követelmények figyelembevételével kiválasztja, felkészíti, nyilvántartásba veszi, és
 - b) szakmai tanácsadással és utógondozással segíti, továbbá
-- c) folyamatosan segíti és ellenőrzi a nevelési díj, az ellátmány és a családi pótlék felhasználásában, a szakmai tevékenysége ellátásában.
+- c) folyamatosan segíti és ellenőrzi a nevelési ellátmány és a családi pótlék felhasználásában, a szakmai tevékenysége ellátásában.
 - d)
 
 (6)
 
 (7) A nevelőszülő a saját háztartásában – a működtetője közreműködésével – utógondozói ellátást nyújt.
 
-56. § (1) A nevelőszülőt az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek, valamint a volt gondozott fiatal felnőtt (1a) bekezdésben foglaltak szerinti ellátására nevelési díj illeti meg. A nevelési díj legalacsonyabb összege – gyermekenként, fiatal felnőttenként – az öregségi nyugdíj legkisebb összegének 120%-a.
+56. § (1) A nevelőszülőt az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek, valamint az utógondozói ellátásban részesülő fiatal felnőtt ellátására nevelési ellátmány illeti meg.
 
-(1a) A nevelési díj a gyermek, fiatal felnőtt élelmezésére, ruházkodására, tankönyvére, tanszerére, a tanulmányai végzéséhez és munkavégzéséhez szükséges egyéb eszközökre, a gyermek, fiatal felnőtt költőpénzére, egészségügyi ellátására fordítható a nevelőszülőt megillető családi pótlékkal együtt.
+(2) A különleges, speciális vagy kettős szükségletű gyermek után a nevelőszülőt magasabb összegű nevelési ellátmány illeti meg.
 
-(2) A nevelési díj az öregségi nyugdíj legkisebb összegének
+(3) A nevelőszülő a nevelési ellátmányt a gyermek teljes körű, a fiatal felnőtt szükség szerinti ellátására köteles fordítani.
 
-- a) százötven százaléka, ha a nevelt gyermek a vármegyei, fővárosi gyermekvédelmi szakértői bizottság által készített szakmai vélemény szerint súlyos pszichés vagy súlyos disszociális tüneteket mutat, vagy pszichoaktív szert használó vagy kettős szükségletű,
-- b) száznegyven százaléka, ha a nevelt gyermek tartósan beteg, fogyatékos vagy három éven aluli.
+(4) A nevelési ellátmány a gyermek, fiatal felnőtt élelmezésére, ruházkodására, tankönyvére, tanszerére, a tanulmányai végzéséhez és munkavégzéséhez szükséges egyéb eszközökre, költőpénzére, egészségügyi ellátására, valamint a lakásfenntartási költségeinek kiegészítésére fordítható a nevelőszülőt megillető családi pótlékkal együtt.
 
-(3) A nevelőszülő a nevelési díj mellett külön ellátmányban is részesül a gyermek, fiatal felnőtt élelmezésének és a lakásfenntartás költségeinek kiegészítésére. Az ellátmány éves összege nem lehet kevesebb – gyermekenként, fiatal felnőttenként – az éves nevelési díj 25%-ánál.
-
-(3a) A külön ellátmányból a kizárólagosan a gyermek, fiatal felnőtt ellátására szolgáló nevelési díj, külön ellátmány és családi pótlék fogadása érdekében létesített bankszámla és az ahhoz kapcsolódó bankkártya költségei is fedezhetők.
-
-(4) A (3) bekezdésben meghatározott külön ellátmányt elsősorban pénzben biztosítják, és a nevelési díjjal együtt havonta folyósítják.
-
-(5) A nevelőszülő az (1)–(3) bekezdésben meghatározott juttatásokat kizárólag a gyermek, fiatal felnőtt megfelelő ellátására fordíthatja.
+(5) A gyermek, fiatal felnőtt ellátására szolgáló nevelési ellátmány és családi pótlék fogadása érdekében létesített bankszámla és az ahhoz kapcsolódó bankkártya költségei a nevelési ellátmányból is fedezhetőek.
 
 (6) A gyermek, fiatal felnőtt saját keresményéből a nevelőszülői háztartás költségeihez nem köteles hozzájárulni.
 
@@ -5133,6 +5126,17 @@ esetén nyújtott ellátással és szolgáltatással kapcsolatos adatokat.
 188/D. § (1) Az egyes törvényeknek az egyszülős családok életkörülményeinek javítása érdekében történő módosításáról szóló 2021. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 22. § (1) bekezdését, 22. § (6) bekezdés a) pontját, 23. § (1) bekezdését, valamint 24. § (3) bekezdés b) és c) pontját a 2022. január 1-jén véglegessé vált határozattal le nem zárt ügyekben is alkalmazni kell.
 
 (2) A 2022. január 1-jén gyermektartásdíj megelőlegezésére jogosultak közül azok esetén, akik gyermekenként az öregségi nyugdíj legkisebb összege ötven százalékának megfelelő összegű megelőlegezésben részesülnek, a megelőlegezett gyermektartásdíj összegét – az egyéb jogosultsági feltételek vizsgálata nélkül – a Módtv2.-vel megállapított 23. § (1) bekezdésére tekintettel 2022. január 31-éig felül kell vizsgálni. A 2022. január hónapra tekintettel már a felülvizsgálat eredményeként megállapított összegben kell az ellátást továbbfolyósítani.
+
+188/E. § (1) Az 56. § (1) és (2) bekezdése szerinti nevelési ellátmány legalacsonyabb összege 2023. évben havi
+
+- a) 53 437 forint átlagos szükségletű gyermek,
+- b) 62 344 forint különleges szükségletű gyermek,
+- c) 66 798 forint speciális vagy kettős szükségletű gyermek, és
+- d) 53 437 forint utógondozói ellátásban részesülő fiatal felnőtt
+
+esetén.
+
+(2) Az (1) bekezdés szerinti összegű nevelési ellátmány 2023. január 1-jétől a teljes január hónapra jár abban az esetben, ha a nevelőszülő a nevelési ellátmányra való jogosultság egyéb feltételeinek megfelel.
 
 189. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
