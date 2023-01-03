@@ -148,17 +148,7 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 #### 50. §
 
-51. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 56. § (1)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A nevelőszülőt az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek, valamint az utógondozói ellátásban részesülő fiatal felnőtt ellátására nevelési ellátmány illeti meg.
-
-(2) A különleges, speciális vagy kettős szükségletű gyermek után a nevelőszülőt magasabb összegű nevelési ellátmány illeti meg.
-
-(3) A nevelőszülő a nevelési ellátmányt a gyermek teljes körű, a fiatal felnőtt szükség szerinti ellátására köteles fordítani.
-
-(4) A nevelési ellátmány a gyermek, fiatal felnőtt élelmezésére, ruházkodására, tankönyvére, tanszerére, a tanulmányai végzéséhez és munkavégzéséhez szükséges egyéb eszközökre, költőpénzére, egészségügyi ellátására, valamint a lakásfenntartási költségeinek kiegészítésére fordítható a nevelőszülőt megillető családi pótlékkal együtt.
-
-(5) A gyermek, fiatal felnőtt ellátására szolgáló nevelési ellátmány és családi pótlék fogadása érdekében létesített bankszámla és az ahhoz kapcsolódó bankkártya költségei a nevelési ellátmányból is fedezhetőek.”
+51. § (1)
 
 (2)
 
@@ -184,54 +174,9 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 #### 62. §
 
-63. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 188/E. §-sal egészül ki:
+#### 63. §
 
-„188/E. § (1) Az 56. § (1) és (2) bekezdése szerinti nevelési ellátmány legalacsonyabb összege 2023. évben havi
-
-- a) 53 437 forint átlagos szükségletű gyermek,
-- b) 62 344 forint különleges szükségletű gyermek,
-- c) 66 798 forint speciális vagy kettős szükségletű gyermek, és
-- d) 53 437 forint utógondozói ellátásban részesülő fiatal felnőtt
-
-esetén.
-
-(2) Az (1) bekezdés szerinti összegű nevelési ellátmány 2023. január 1-jétől a teljes január hónapra jár abban az esetben, ha a nevelőszülő a nevelési ellátmányra való jogosultság egyéb feltételeinek megfelel.”
-
-64. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
-
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10. 49. § (4) bekezdés c) pontjában a „nevelési díj és a külön ellátmány” szövegrész helyébe a „nevelési ellátmány” szöveg,
-- 11. 49. § (5) bekezdésében a „nevelési díj és külön ellátmány” szövegrész helyébe a „nevelési ellátmány” szöveg,
-- 12.
-- 13. 55. § (5) bekezdés c) pontjában a „nevelési díj, az ellátmány” szövegrész helyébe a „nevelési ellátmány” szöveg,
-- 14.
-- 15.
-- 16.
-- 17.
-- 18.
-- 19.
-- 20.
-- 21.
-- 22.
-- 23.
-- 24.
-- 25.
-- 26.
-- 27.
-- 28.
-- 29.
-- 30.
-- 31.
-- 32.
-- 33.
+#### 64. §
 
 #### 65. §
 
