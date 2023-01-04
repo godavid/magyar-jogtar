@@ -1707,8 +1707,8 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 (6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, ezen a csoporton belül a következő kielégítési sorrendben előrébb álló hitelezői igény teljes egészében való kielégítését követően kell a hátrébb álló hitelezői igényeket kielégíteni:
 
-- a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény,
-- b) jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
+- a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
+- b) fedezetet biztosító zár alá vétel alapján fennálló bűnügyi hitelezői igény,
 - c) társadalombiztosítási alapok javára fennálló tartozások (ideértve a szociális hozzájárulási adót is) alapján fennálló hitelezői igény,
 - d) bűnügyi költség alapján fennálló bűnügyi hitelezői igény,
 - e) többi hitelezői igény.
@@ -1996,7 +1996,7 @@ hirdetheti ki.
 
 ### IV/A. Fejezet — A BŰNÜGYI VAGYONT ÉRINTŐ FELSZÁMOLÁS
 
-79/A. § (1) E törvény rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni, ha az adós vagyonára
+79/A. § (1) E törvény rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni, ha az adóssal szemben nyilvántartásba vett hitelezői követelésre vonatkozóan büntetőeljárásban zár alá vétel elrendelésére került sor vagy ha az adós vagyonára
 
 - a) a büntetőeljárásról szóló törvényben vagy a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott zár alá vétel elrendelésére vagy bűnügyi költség viselésére kötelezésre,
 - b) a büntetőeljárásról szóló törvényben meghatározott lefoglalás elrendelésére,
@@ -2019,9 +2019,13 @@ került sor.
 - a) amelyet a fedezetet biztosító zár alá vétel biztosít, vagy ha ez kevesebb, amely összegen a fedezetet biztosító zár alá vétellel biztosított vagyont a felszámolási eljárásban értékesítették, vagy
 - b) amely a pénzösszegben kifejezett vagyonelkobzásról, a pénzbírságról, vagy a bűnügyi költségről rendelkező határozatban szerepel.
 
+(3a) A bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés hitelezői igényként történő nyilvántartásba vételére és visszaigazolására a (7) bekezdés szerinti állami felszámoló jogosult.
+
 (4) A felszámoló értesíti a büntetőeljárást lefolytató szervet a bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés összegének a (3) bekezdés a) pontja szerinti változásáról.
 
-(5) Ha az adós vagyonára zár alá vételt, vagyonelkobzást rendeltek el, az adóssal szemben pénzbírságot szabtak ki, vagy az adóst bűnügyi költség viselésére kötelezték, a felszámoló a büntetőeljárást lefolytató szervtől beszerzi az erről szóló határozatot.
+(5) Ha az adós vagyonára zár alá vételt, vagyonelkobzást rendeltek el, az adóssal szemben pénzbírságot szabtak ki, vagy az adóst bűnügyi költség viselésére kötelezték, a felszámoló a tudomásszerzéstől számított 8 napon belül intézkedik az erről szóló határozat büntetőeljárást lefolytató szervtől történő beszerzése iránt.
+
+(5a) A felszámoló az (5) bekezdés szerinti határozat kézhezvételétől számított 8 napon belül megküldi az (5) bekezdés szerinti határozatot az állami adó- és vámhatóság részére.
 
 (6) E törvény alkalmazásában a bűnügyi hitelezői igénybejelentést is hitelezői igénybejelentésnek kell tekinteni.
 
@@ -2039,6 +2043,8 @@ került sor.
 az annak tárgyát képező vagyont a gazdálkodó szervezet vagyonába nem tartozó vagyonként kell kezelni, és a zár alá vételt, a lefoglalást, a vagyonelkobzást vagy az elkobzást végrehajtó szerv rendelkezésére kell bocsátani.
 
 (10) A (9) bekezdésben meghatározott esetekben a 38. § (1) bekezdése nem alkalmazható.
+
+(11) A bíróság a felszámolót az e §-ban meghatározott kötelezettségeinek az elmulasztása miatt 500.000 forintig terjedő – ismételten kiszabható – bírsággal sújthatja.
 
 79/B. § (1) Ha valamely nyilvántartásba vett hitelezői követelésre vonatkozóan büntetőeljárásban zár alá vétel elrendelésére kerül sor, akkor a felszámoló a vagyonfelosztási javaslatban az erre a hitelezői igényre eső vagyont a hitelező jogszerzésével, de zár alá vétellel terhelten tünteti fel. A vagyonfelosztási javaslat jóváhagyása esetén a zár alá vett hitelezői követelés helyébe lépő vagyonra a zár alá vétel a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 332. § (5) bekezdése alapján külön határozat nélkül kiterjed, és azt a hitelező a zár alá vétellel terhelten szerzi meg. Ezt a vagyont a felszámoló a zár alá vételt végrehajtó állami adó- és vámhatóság rendelkezésére bocsátja.
 
@@ -2063,9 +2069,14 @@ az annak tárgyát képező vagyont a gazdálkodó szervezet vagyonába nem tart
 
 (8) Ha valamely nyilvántartásba vett hitelezői követelésre vonatkozóan pénzösszegben kifejezett vagyonelkobzást rendelnek el, annak végrehajtására az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-ában meghatározott rendelkezéseket kell alkalmazni.
 
-79/C. § (1) Ha a Be. 332. § (3) bekezdése alapján a zár alá vett vagyon helyébe előzetes bűnügyi hitelezői igénybejelentés lép, és a zár alá vétel az eredeti vagyon tekintetében megszűnik, a felszámoló intézkedik az eredeti vagyon tekintetében a zár alá vétel közhiteles nyilvántartásból való törlése iránt.
+79/C. § (1) Ha a Be. 332. § (3) bekezdése alapján a zár alá vett vagyon helyébe előzetes bűnügyi hitelezői igénybejelentés lép, és a zár alá vétel az eredeti vagyon tekintetében megszűnik, a kirendelését követően az állami felszámoló intézkedik
 
-(2) Ha a zár alá vétel (1) bekezdésben meghatározottak szerinti törléséhez határozat meghozatala szükséges, a határozatot a felszámoló előterjesztése alapján a felszámolási ügyben eljáró bíróság hozza meg.
+- a) az eredeti vagyon tekintetében a zár alá vétel közhiteles nyilvántartásból való törlése iránt, illetve
+- b) a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresése iránt, a rendelkezési jog felfüggesztésének megszüntetése érdekében.
+
+(2) A zár alá vétel (1) bekezdésben meghatározottak szerinti törléséhez vagy a rendelkezési jog felfüggesztésének a megszüntetéséhez a határozatot az állami felszámoló előterjesztése alapján a felszámolási ügyben eljáró bíróság 8 napon belül hozza meg.
+
+(3) A bíróság a (2) bekezdésben meghatározott végzésben megállapítja, hogy a zár alá vétel az eredeti vagyon tekintetében megszűnt.
 
 79/D. § (1) A felszámoló a bűnügyi hitelezői igénybejelentés alapján hitelezőként a büntetőjogi igényt érvényesítő magyar államot veszi nyilvántartásba. A magyar állam képviselőjeként az állami adó- és vámhatóság jár el, és e követelések tekintetében gyakorolja a hitelezői jogokat. Ha a bűnügyi hitelezői igénybejelentést nem az állami adó- és vámhatóság tette, a felszámoló haladéktalanul értesíti az állami adó- és vámhatóságot annak érdekében, hogy a magyar állam képviselőjeként eljárhasson.
 
@@ -2090,13 +2101,15 @@ az annak tárgyát képező vagyont a gazdálkodó szervezet vagyonába nem tart
 
 79/F. § (1) A felszámoló a vagyonfelosztási javaslatot és az 52. §-ban meghatározott más iratokat csak azt követő két hónap elteltével küldi meg a bíróságnak, hogy a vagyonfelosztási javaslatot a büntetőeljárást lefolytató szervnek megküldte.
 
-(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igénybejelentésre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és a 79/C. § megfelelő alkalmazásával intézkedni kell a zár alá vétel közhiteles nyilvántartásba való bejegyzése iránt.
+(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igénybejelentésre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és a 79/C. § megfelelő alkalmazásával intézkedni kell a zár alá vétel közhiteles nyilvántartásba való bejegyzése, illetve a zár alá vétel végrehajtására a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresése iránt.
 
 ### V. Fejezet — EGYÉB RENDELKEZÉSEK
 
 80. § (1) Az e törvényben szabályozott eljárásokban az államot, a központi költségvetést, az elkülönített állami pénzalapokat, a Nyugdíjbiztosítási és az Egészségbiztosítási Alapot, illetve a helyi és kisebbségi önkormányzatot, önkormányzati társulást megillető követelésről a követelés behajtására jogosult szervezet lemondhat, vagy a követelést engedményezheti. A követelés behajtására jogosult szervezet a felszámolási eljárásban követelésének bejelentését mellőzheti, amennyiben a felszámolási eljárás kezdeményezését közvetlenül megelőzően általa lefolytatott eredménytelen végrehajtási eljárás megállapításai szerint valószínűsíthető, hogy követelésének a nyilvántartásba vételért fizetendő összeget elérő megtérülése sem várható. Ezekről a követelésekről a követelés behajtására jogosult szervezet külön nyilvántartást vezet, feltüntetve benne azokat az adatokat is, melyek a végrehajtás alá vonható vagyon hiányában a követelés megtérülését nem teszik lehetővé. A követelés bejelentésének mellőzése a követelésről történő lemondásnak minősül. A követelés behajtására jogosult szervezet nem engedményezheti a felszámolási eljárás alatt álló adóssal szemben fennálló azon követelését, melynek megfizetéséért az államot helytállási kötelezettség terheli.
 
 (2) Ha a Nyugdíjbiztosítási Alapot megillető követelés a társadalombiztosítási nyugellátásról szóló törvényen alapuló ellátások – ideértve a korengedményes nyugdíjat is – megtérítése címén áll fenn, az állami adóhatóság a követelés behajtására jogosult szervezet.
+
+(3) A 79/D. § (1) bekezdése alapján a magyar állam képviselőjeként eljáró állami adó- és vámhatóság a hitelezői igényként nyilvántartásba vett, bűnügyi hitelezői igénybejelentés alapjául szolgáló követelésről az egyezségkötés érdekében részben lemondhat.
 
 #### 81. §
 
@@ -2263,6 +2276,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 - c) a felszámoló köteles beszerezni a bűnügyi hitelezői igénybejelentés alapjául szolgáló határozatot, valamint értesíteni az állami adó- és vámhatóságot, hogy a bűnügyi hitelezői igénybejelentés végrehajtására a felszámolási eljárásban kerül sor.
 
 (6) A közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete tagjai védelméről szóló 2022. évi XXVI. törvénnyel (a továbbiakban: 2022. évi XXVI. törvény) megállapított 57. § (2) bekezdés a) pont ac) alpontját a folyamatban lévő felszámolási eljárásokban a 2022. évi XXVI. törvény hatálybalépése után esedékessé vált kifizetésekre kell alkalmazni, kivéve, ha a felszámoló a 2022. évi XXVI. törvény hatálybalépése napjáig a zárómérleget már benyújtotta.
+
+(7) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2022. évi LX. törvénnyel (a továbbiakban: 2022. évi LX. törvény) megállapított rendelkezéseit a 2022. évi LX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell, kivéve, ha a folyamatban lévő felszámolási eljárásban már sor került a felszámolási zárómérleg bírósághoz történő benyújtására.
 
 (7) E törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvénnyel (a továbbiakban: 2022. évi LXVIII. törvény) megállapított rendelkezéseit – a (8) és (9) bekezdés szerinti kivétellel – e rendelkezések hatálybalépését követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
