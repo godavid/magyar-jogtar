@@ -4,57 +4,17 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 
 #### 1. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-1. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 57. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, ezen a csoporton belül a következő kielégítési sorrendben előrébb álló hitelezői igény teljes egészében való kielégítését követően kell a hátrébb álló hitelezői igényeket kielégíteni:
+#### 2. §
 
-- a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
-- b) fedezetet biztosító zár alá vétel alapján fennálló bűnügyi hitelezői igény,
-- c) társadalombiztosítási alapok javára fennálló tartozások (ideértve a szociális hozzájárulási adót is) alapján fennálló hitelezői igény,
-- d) bűnügyi költség alapján fennálló bűnügyi hitelezői igény,
-- e) többi hitelezői igény.”
+#### 3. §
 
-2. § (1) A Cstv. 79/A. §-a a következő (3a) bekezdéssel egészül ki:
+#### 4. §
 
-„(3a) A bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés hitelezői igényként történő nyilvántartásba vételére és visszaigazolására a (7) bekezdés szerinti állami felszámoló jogosult.”
+#### 5. §
 
-(2) A Cstv. 79/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az adós vagyonára zár alá vételt, vagyonelkobzást rendeltek el, az adóssal szemben pénzbírságot szabtak ki, vagy az adóst bűnügyi költség viselésére kötelezték, a felszámoló a tudomásszerzéstől számított 8 napon belül intézkedik az erről szóló határozat büntetőeljárást lefolytató szervtől történő beszerzése iránt.”
-
-(3) A Cstv. 79/A. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A felszámoló az (5) bekezdés szerinti határozat kézhezvételétől számított 8 napon belül megküldi az (5) bekezdés szerinti határozatot az állami adó- és vámhatóság részére.”
-
-(4) A Cstv. 79/A. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A bíróság a felszámolót az e §-ban meghatározott kötelezettségeinek az elmulasztása miatt 500.000 forintig terjedő – ismételten kiszabható – bírsággal sújthatja.”
-
-3. § A Cstv. 79/C. §-a helyébe a következő rendelkezés lép:
-
-„79/C. § (1) Ha a Be. 332. § (3) bekezdése alapján a zár alá vett vagyon helyébe előzetes bűnügyi hitelezői igénybejelentés lép, és a zár alá vétel az eredeti vagyon tekintetében megszűnik, a kirendelését követően az állami felszámoló intézkedik
-
-- a) az eredeti vagyon tekintetében a zár alá vétel közhiteles nyilvántartásból való törlése iránt, illetve
-- b) a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresése iránt, a rendelkezési jog felfüggesztésének megszüntetése érdekében.
-
-(2) A zár alá vétel (1) bekezdésben meghatározottak szerinti törléséhez vagy a rendelkezési jog felfüggesztésének a megszüntetéséhez a határozatot az állami felszámoló előterjesztése alapján a felszámolási ügyben eljáró bíróság 8 napon belül hozza meg.
-
-(3) A bíróság a (2) bekezdésben meghatározott végzésben megállapítja, hogy a zár alá vétel az eredeti vagyon tekintetében megszűnt.”
-
-4. § A Cstv. 80. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 79/D. § (1) bekezdése alapján a magyar állam képviselőjeként eljáró állami adó- és vámhatóság a hitelezői igényként nyilvántartásba vett, bűnügyi hitelezői igénybejelentés alapjául szolgáló követelésről az egyezségkötés érdekében részben lemondhat.”
-
-5. § A Cstv. 83/W. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2022. évi LX. törvénnyel (a továbbiakban: 2022. évi LX. törvény) megállapított rendelkezéseit a 2022. évi LX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell, kivéve, ha a folyamatban lévő felszámolási eljárásban már sor került a felszámolási zárómérleg bírósághoz történő benyújtására.”
-
-6. § A Cstv.
-
-- a) 79/A. § (1) bekezdésében az „adós vagyonára” szövegrész helyébe az „adóssal szemben nyilvántartásba vett hitelezői követelésre vonatkozóan büntetőeljárásban zár alá vétel elrendelésére került sor vagy ha az adós vagyonára” szöveg,
-- b) 79/F. § (2) bekezdésében a „bejegyzése” szövegrész helyébe a „bejegyzése, illetve a zár alá vétel végrehajtására a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresése” szöveg
-
-lép.
+#### 6. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
