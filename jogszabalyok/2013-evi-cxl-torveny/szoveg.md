@@ -300,12 +300,13 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (5) A bírság mértéke a 11. § (2) bekezdés c) pontja és a 11. § (3) bekezdés a), f) és h) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet.
 
-(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő bírságot kell kiszabni az e törvényben előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.
+(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő bírságot kell kiszabni az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.
 
 11/B. § A fémkereskedelmi hatóság a fémkereskedőt 1 millió forintig, a nevében eljáró természetes személyt 300 ezer forintig terjedő bírsággal sújtja, ha az e törvényben meghatározott
 
 - a) nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását késedelmesen teljesíti, valamint ha a nyilvántartás-vezetési kötelezettségét valótlan adattartalommal vagy hiányosan teljesíti, vagy abban az adatokat az előírásoktól eltérően vagy eltérő rendszerességgel rögzíti, valamint ha ismételten hiányosan, valótlan adattartalommal vagy az előírásoktól eltérően teljesíti,
 - b) nyilvántartást nem vezeti, nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását nem teljesíti.
+- c) a 4. § (6a) bekezdésben foglalt adatszolgáltatási kötelezettségét nem teljesíti.
 
 11/C. § (1) A kiszabott bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el.
 
