@@ -251,20 +251,9 @@ a hulladékgazdálkodással összefüggő egyes törvények módosításáról
 
 #### 53. §
 
-54. § A fémkereskedelemről szóló 2013. évi CXL. törvény 11/B. §-a a következő c) ponttal egészül ki:
+#### 54. §
 
-(A fémkereskedelmi hatóság a fémkereskedőt 1 millió forintig, a nevében eljáró természetes személyt 300 ezer forintig terjedő bírsággal sújtja, ha az e törvényben meghatározott)
-
-„c) a 4. § (6a) bekezdésben foglalt adatszolgáltatási kötelezettségét nem teljesíti.”
-
-55. § A fémkereskedelemről szóló 2013. évi CXL. törvény
-
-- a)
-- b)
-- c)
-- d) 11/A. § (6) bekezdésében a „törvényben előírt” szövegrész helyébe a „törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt” szöveg
-
-lép.
+#### 55. §
 
 #### 7. Az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvény módosítása
 
