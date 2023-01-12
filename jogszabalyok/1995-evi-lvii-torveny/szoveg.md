@@ -45,6 +45,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - p) a vízkészletek mennyiségi és minőségi számbavétele.
 - q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 - r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
+- s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.
 
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
@@ -54,7 +55,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban
 - e) az állami beruházásokért felelős miniszter, a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter bevonásával az r) pontban meghatározott feladatokat látja el.
 
-(3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.
+(3) Az (1) bekezdés c), d) és s) pontja szerinti feladatokat a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás alapján az érintett miniszterek közreműködésével látja el.
 
 (4) Az állam víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, a vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.
 
@@ -710,7 +711,9 @@ hatáskörébe tartozik.
 
 (2) Ha a károkozó ismeretlen, a kárelhárítás költségeit az elszennyeződött víz vagy vízilétesítmény tulajdonosa viseli.
 
-### VII. Fejezet — A vizekkel és vízilétesítményekkel összefüggőingatlanokra vonatkozó rendelkezések
+### VII. Fejezet — A vizekkel és vízilétesítményekkel összefüggő
+
+ingatlanokra vonatkozó rendelkezések
 
 20. § (1) Az ingatlan tulajdonosa (használója) köteles tűrni, hogy a vízügyi hatóság határozata alapján a közcélú vízilétesítményt az ingatlanán elhelyezzék és üzemeltessék, illetve az ehhez szükséges vízimunkákat elvégezzék, feltéve, ha az ingatlan rendeltetésszerű használatát nem zárja ki (vízvezetési szolgalmi jog).
 
@@ -888,7 +891,7 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 
 csak írásban terjeszthető elő.
 
-28/C. §
+#### 28/C. §
 
 28/D. § (1) A kérelemre indult eljárás megindulásáról
 
@@ -1349,7 +1352,7 @@ céljából jogosult.
 - h) a szennyvízgyűjtő hálózatok és szennyvíztisztító telepek minősítési kritériumainak;
 - i) az ivóvízminőség-javító program megvalósítását szolgáló célelőirányzat igénybevételére, folyósítására, felhasználására, a felhasználás ellenőrzésére és a program teljesítését ellátó szervezetre, továbbá a települési szennyvíz-elvezetési és -tisztítási nemzeti program támogatási rendszerére vonatkozó szabályok;
 - j) a települési szennyvíztisztításra vonatkozó nyilvántartási és jelentési kötelezettség;
-- k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;
+- k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, az ivóvízhez való hozzáférésre, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;
 - l) a vízügyi őrszemélyzet (gát-, csatorna-, meder- és tározó őrök) feladat- és hatáskörének;
 - m) a vízkárelhárítás finanszírozási és elszámolási rendjének, továbbá a vízkárelhárításban foglalkoztatottak díjazásának;
 - n) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó szabályok;
@@ -1431,7 +1434,7 @@ rendeletben történő megállapítására.
 45/A. § (1) Ez a törvény:
 
 - a) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv 2. cikk (4) bekezdésének, (6) bekezdésének és (9) bekezdésének, valamint 3. cikkének;
-- b) az emberi fogyasztásra szánt víz minőségéről szóló, 1998. november 3-i 98/83/EK tanácsi irányelvnek;
+- b) az emberi fogyasztásra szánt víz minőségéről szóló, 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelvnek;
 - c) a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 4. cikk (1) és (2) bekezdésének, 6. cikk (2) bekezdésének, 9. cikkének és 14. cikk (1) bekezdésének;
 - d) – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvénnyel, a természet védelméről szóló 1996. évi LIII. törvénnyel, valamint a hulladékról szóló 2012. évi CLXXXV. törvénnyel, valamint azok kapcsolódó végrehajtási rendeleteivel együtt – a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és tanácsi irányelvnek;
 - e) az árvízkockázatok értékeléséről és kezeléséről szóló, 2007. október 23-i 2007/60/EK európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdésének, 6. cikk (1) bekezdésének, 7. cikk (1) bekezdésének;
@@ -1441,13 +1444,13 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-45/B. §
+#### 45/B. §
 
 45/C. § (1) E törvénynek a hulladékról szóló 2012. évi CLXXXV. törvénnyel (a továbbiakban: Ht.) megállapított rendelkezéseit a Ht. hatálybalépésekor jogerősen még el nem bírált ügyekben is alkalmazni kell azzal, hogy a települési folyékony hulladék begyűjtése és szállítása iránti engedélykérelem a tervezett tevékenység bejelentésének minősül.
 
 (2) A Ht. hatálybalépését megelőzően kiadott és hatályos települési folyékony hulladék begyűjtési és szállítási engedély a nem közművel összegyűjtött háztartási szennyvíz begyűjtési és szállítási tevékenységre vonatkozó bejelentéssel egyenértékű.
 
-45/D. §
+#### 45/D. §
 
 45/E. § (1) Ha a vízügyi igazgatási szerv a 45/D. § (2) bekezdés a) pontja szerinti szakmai ellenőrzés eredményeképpen megállapítja, hogy a felajánlott vízfolyásnak, csatornának a belvízelvezetésben vagy az öntözésben betöltött szerepe közérdekű, a vízfolyás, csatorna tulajdonosával – az üzemeltetési és fenntartási feladatok átvállalásáról – ellenérték nélküli üzemeltetési szerződést köt.
 
