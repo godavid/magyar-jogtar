@@ -84,13 +84,33 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 #### 30. §
 
-#### 9.
+#### 9. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-#### 31. §
+31. § (1) A vízgazdálkodásról szóló 1995. évi LVII. törvény 2. § (1) bekezdése a következő s) ponttal egészül ki:
 
-#### 32. §
+(Az állami feladatok:)
 
-#### 33. §
+„s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.”
+
+(2) A vízgazdálkodásról szóló 1995. évi LVII. törvény 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés c), d) és s) pontja szerinti feladatokat a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás alapján az érintett miniszterek közreműködésével látja el.”
+
+32. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés k) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány)
+
+„k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, az ivóvízhez való hozzáférésre, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;”
+
+(rendeletben történő megállapítására.)
+
+33. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 45/A. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény:)
+
+„b) az emberi fogyasztásra szánt víz minőségéről szóló, 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelvnek;”
+
+(való megfelelést szolgálja.)
 
 #### 10. A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény módosítása
 
@@ -384,11 +404,37 @@ lép.
 
 #### 35. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-#### 131. §
+131. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 23. § (4) bekezdése a következő m) ponttal egészül ki:
 
-#### 132. §
+(A hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében:)
 
-#### 133. §
+„m) ellátja a veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyási engedélyezésével, a gyártás ellenőrzésével és azzal összefüggő szankcionálással kapcsolatos hatósági feladatok irányítását.”
+
+132. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény III. Fejezete a következő 18/B. alcímmel egészül ki:
+
+#### „18/B. A veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyása, a gyártás ellenőrzése és bírság kiszabása
+
+24/E. § (1) A veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során az általános közigazgatási rendtartásról szóló törvény szerinti sommás eljárásnak nincs helye.
+
+(2) A hivatásos katasztrófavédelmi szerv központi szerve a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártásának jóváhagyását követően ellenőrzi a jóváhagyási engedélyében és a vonatkozó jogszabályokban meghatározott előírások betartását.
+
+(3) A hivatásos katasztrófavédelmi szerv központi szerve az ellenőrzés során a gyártásból mintát vehet, és elrendelheti annak soron kívüli vizsgálatát.
+
+(4) A hivatásos katasztrófavédelmi szerv központi szerve az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
+
+(5) Az egyes rendelkezések megsértése esetén kiszabható bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén ugyanabban az eljárásban kiszabható bírság maximális összegét kormányrendelet állapítja meg.
+
+(6) A kiszabott bírság megfizetésére a hatóság legfeljebb 12 havi részletekben történő teljesítést, illetve legfeljebb 6 hónapra történő fizetési halasztást is engedélyezhet a (7) bekezdésben foglaltak alapján.
+
+(7) A kötelezett a bírság megfizetésére nyitva álló határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti a pénzfizetési kötelezettség teljesítésére halasztás vagy részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre történő teljesítést, vagy az számára aránytalan nehézséget jelentene.
+
+(8) Nincs helye bírság kiszabásának, ha a jogsértő cselekmény felderítése a gyártási típus jóváhagyási engedély érvényességének lejártától számított 5 évet követően történik.”
+
+133. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 80. §-a a következő t) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
+
+„t) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyási engedélyezésére, az engedélyben és a kapcsolódó jogszabályokban meghatározott előírások megtartásának hatósági ellenőrzésére, a gyártásból történő mintavételre és annak soron kívüli vizsgálatára, valamint az előírások megsértőivel szemben intézkedések megtételére, az egyes szabálytalanságokért kiszabható bírságok összegének megállapítására, továbbá a bírságolással összefüggő hatósági feladatokra vonatkozó részletes szabályokat.”
 
 #### 134. §
 
