@@ -81,8 +81,9 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 - a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor minősítő határozattal megállapították,
 - b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát,
-- c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig, vagy
-- d) a jogosult a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/D. § (3) bekezdése alapján négy vagy több gyermeket nevelő anyának minősül.
+- c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig,
+- d) a jogosult a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/D. § (3) bekezdése alapján négy vagy több gyermeket nevelő anyának minősül, vagy
+- e) a jogosult a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szerződéses határvadász vagy iskolaőri feladat ellátására irányuló jogviszonyt létesít, a jogviszony létesítését követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig.
 
 (4) Ha a személyi jövedelemadó mértéke megváltozik, a (2) bekezdés szerint csökkentett szolgálati járandóság folyósított összegét módosítani kell.
 
@@ -163,7 +164,10 @@ kell érteni.
 
 (1a) Ha a kötelező legkisebb munkabér havi összege a tárgyévben emelkedik, az éves keretösszeget a megemelt összeg alapján kell meghatározni, és az (1) bekezdés szerint már elrendelt szüneteltetést ennek figyelembevételével – a kötelező legkisebb munkabér megemelt havi összegének hatálybalépését követő 30 napon belül – felül kell vizsgálni.
 
-(2) Szolgálati járandóság esetén az éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
+(2) Szolgálati járandóság esetén az éves keretösszeg számítása során figyelmen kívül kell hagyni
+
+- a) az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatásait, és
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szerződéses határvadásznak és iskolaőrnek az e jogviszonyából származó jövedelmét.
 
 (3) A nyugdíjbiztosítási igazgatási szerv a folyósítás szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett korhatár előtti ellátás, illetve szolgálati járandóság visszafizettetéséről – a korhatár előtti ellátásban, illetve szolgálati járandóságban részesülő személynek a Tny. 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt, az éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
 
@@ -177,7 +181,8 @@ kell érteni.
 
 - a) a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 4. § (2) bekezdés h) pontjára vagy 40. § (6) bekezdésére tekintettel,
 - b) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 11. § (4a) bekezdés a) pontjára vagy 45/A. §-ára tekintettel,
-- c)–d)
+- c)
+- d)
 
 kérelmezi.
 

@@ -26,8 +26,9 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 - d) elektronikus cigaretta,
 - e) utántöltő flakon, patron, nikotinmentes utántöltő flakon,
 - f) dohányzást imitáló elektronikus eszköz,
-- g) dohányzást helyettesítő nikotintartalmú termék, valamint,
-- h) az új dohánytermék-kategóriák kiegészítő termékeinek
+- g) dohányzást helyettesítő nikotintartalmú termék,
+- h) az új dohánytermék-kategóriák kiegészítő termékeinek, valamint
+- i) a dohányzási célú gyógynövénytermék
 
 kiskereskedelme.
 
@@ -243,7 +244,7 @@ kiskereskedelmi értékesítésére.
 
 ### 1. CÍM — A dohánytermékek értékesítési helye
 
-11. § (1) Ha e törvény kivételt nem tesz, a dohánytermék-kiskereskedelem, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme kizárólag dohányboltban folytatható.
+11. § (1) Ha e törvény kivételt nem tesz, a dohánytermék-kiskereskedelem, továbbá az 1. § (1) bekezdés b)–i) pontjában felsorolt termékek kiskereskedelme kizárólag dohányboltban folytatható.
 
 (1a) Dohányboltban kizárólag az (1) bekezdés szerinti termékek, valamint a Hatóság elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete által lehetővé tett termékek értékesítése és szolgáltatások nyújtása folytatható.
 
@@ -256,7 +257,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (3) A (2) bekezdés a) és b) pontjában foglalt feltételek együttes fennállása esetén az állam – a Jöt.-ben meghatározottak szerint – a dohánytermék-kiskereskedelmi tevékenységet mozgóbolt útján is gyakorolhatja. A mozgóboltra a kereskedelemről szóló törvény rendelkezései is irányadók. Az állam e jogosultságát az adott településen akként is gyakorolhatja, hogy a településhez legközelebb eső egy vagy több dohánytermék-kiskereskedővel e feladat ellátására szerződést köt.
 
-(4) A (2) és (3) bekezdésben meghatározott esetben a dohánytermékek értékesítési helyén az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme is folytatható, továbbá a (2) bekezdésben meghatározott esetben a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termékek is forgalmazhatóak és szolgáltatások is nyújthatóak.
+(4) A (2) és (3) bekezdésben meghatározott esetben a dohánytermékek értékesítési helyén az 1. § (1) bekezdés b)–i) pontjában felsorolt termékek kiskereskedelme is folytatható, továbbá a (2) bekezdésben meghatározott esetben a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termékek is forgalmazhatóak és szolgáltatások is nyújthatóak.
 
 12. § (1) A dohánybolt külső felületén a következőket kell jól láthatóan megjeleníteni:
 
@@ -432,7 +433,7 @@ fogadhatja el.
 
 (5) A (2)–(4) bekezdés rendelkezéseibe ütköző jogügylet semmis.
 
-(6) A (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a dohánytermék-nagykereskedő, vagy más személy az általa gyártott, vagy forgalmazott, az 1. § (1) bekezdés d)–h) pontjában felsorolt termék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban.
+(6) A (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a dohánytermék-nagykereskedő, vagy más személy az általa gyártott, vagy forgalmazott, az 1. § (1) bekezdés d)–i) pontjában felsorolt termék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban.
 
 15/E. § (1) A dohánytermék-nagykereskedő a dohánytermék értékesítéséhez kapcsolódóan e törvényben meghatározott mértékű kiskereskedelmi árrést köteles biztosítani.
 
@@ -452,7 +453,7 @@ fogadhatja el.
 
 15/F. § A dohánytermék-kiskereskedő köteles a készletéről, illetve annak forgalmáról külön jogszabály szerint nyilvántartást vezetni, illetve elektronikus úton adatot szolgáltatni.
 
-15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
+15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
 
 ### 6. CÍM — A fiatalkorúak különös védelme
 
@@ -504,18 +505,19 @@ fogadhatja el.
 
 22. § (1) A Hatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedővel vagy a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által a 10. § (1) bekezdése alapján feljogosított személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő (feljogosított személy)
+(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
 
-- a) az engedélyben foglaltaktól eltér, vagy a dohánytermékek kiskereskedelmére, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek üzletszerű értékesítésére vonatkozó jogszabályi rendelkezéseket megsérti,
-- b) az állammal szembeni kötelezettségét nem teljesíti, vagy
-- c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget vagy hamis adatot közöl.
+- a) az engedélyben vagy a kijelölési okiratban foglaltaktól eltér, továbbá ha az 1. § (1) bekezdésében felsorolt termékek üzletszerű értékesítésére vonatkozó vagy a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti jogszabályi rendelkezéseket megsérti,
+- b) az állammal szembeni kötelezettségét nem teljesíti,
+- c) a számára előírt nyilvántartási, adatszolgáltatási kötelezettségnek nem tesz eleget vagy hamis adatot közöl, vagy
+- d) a fiatalkorúak különös védelmére vonatkozó, a 16. §-ban foglalt szabályokat megsérti.
 
 (3) A jogosulatlan dohánytermék kiskereskedelmi tevékenységet folyató személyt a Hatóság
 
 - a) természetes személy esetében 1 millió forinttól 50 millió forintig,
 - b) gazdasági társaság esetében – ideértve az egyéni vállalkozót is – 5 millió forinttól 500 millió forintig
 
-terjedő bírsággal sújtja. Különös méltánylást érdemlő esetben a Hatóság a bírságot 50%-kal mérsékelheti.
+terjedő bírsággal sújtja.
 
 (4) A bírság együttesen, illetve a 23. § és a 23/C. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 
@@ -540,9 +542,21 @@ terjedő bírsággal sújtja. Különös méltánylást érdemlő esetben a Hat�
 - f)
 - g) a dohánytermék-kiskereskedelmi jogosultság megszűnt.
 
-(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a Hatóság a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 47/C. §-ában meghatározott mértékű bírsággal sújthatja.
+(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a Hatóság 30 ezer forinttól
 
-23/A. § Ha a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátó felé az e törvény által előírt – így különösen a dohánytermékek kiszolgálására vonatkozó – kötelezettségének nem tesz eleget, vagy a dohánytermék-kiskereskedőnek e törvénytől eltérően közvetlenül dohányterméket értékesít, úgy őt a Hatóság az Fgytv. 47/C. §-ában meghatározott mértékű bírsággal sújtja. Ha a dohánytermék-kiskereskedő a dohányterméket nem az e törvényben előírt módon szerzi be, úgy őt a Hatóság 5 milliótól 500 millió forintig terjedő bírsággal sújtja.
+- a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
+- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
+
+terjedő bírsággal sújtja.
+
+23/A. § (1) Ha a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátó felé az e törvény által előírt – így különösen a dohánytermékek kiszolgálására vonatkozó – kötelezettségének nem tesz eleget, vagy a dohánytermék-kiskereskedőnek e törvénytől eltérően közvetlenül dohányterméket értékesít, akkor őt a Hatóság 30 ezer forinttól
+
+- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
+- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
+
+terjedő bírsággal sújtja.
+
+(2) Ha a dohánytermék-kiskereskedő a dohányterméket nem az e törvényben előírt módon szerzi be, akkor őt a Hatóság 5 milliótól 500 millió forintig terjedő bírsággal sújtja.
 
 23/B. § A Hatóság a 17. § (1) bekezdése szerinti céljával összefüggésben a dohánytermék-kiskereskedelmi piac folyamatos és teljes körű hatósági felügyeletéhez a 10. § (1) bekezdés alapján kijelölt személyek listáját, illetve a Hatóság elnökének rendeletében meghatározott – személyes adatnak nem minősülő – további adatokat a Hatóság elnökének rendeletében meghatározott módon és rendszerességgel továbbítja az állami adó- és vámhatóság részére.
 
@@ -616,6 +630,8 @@ az általános szabályok szerint, azzal, hogy az a) pont alkalmazásakor a hat�
 
 (13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv felhívására teljesíteni.
 
+(14) E törvénynek az egyes bányászati és gazdasági tárgyú törvények módosításáról szóló 2022. évi LXIV. törvénnyel (a továbbiakban: Módtv.5.) megállapított 11. § (1) bekezdésétől eltérően mindazok, akik a Módtv.5. 41. § 4. pontjának hatálybalépését megelőző napon jogszerűen forgalmaztak az 1. § (1) bekezdés i) pontja szerinti terméket, de a Módtv.5. 41. § 4. pontjának hatálybalépését követően erre a továbbiakban nem jogosultak, a még készleten lévő termékeiket a Módtv.5. 41. § 4. pontjának hatálybalépésétől számított 150 napig tovább forgalmazhatják azzal, hogy a Módtv.5. 41. § 4. pontjának hatálybalépését követően új terméket már nem szerezhetnek be.
+
 24/B. § (1)
 
 (2) A dohánytermék-kiskereskedőkre vonatkozó, a 4. § (2) bekezdésében, a 23. § (3) bekezdésében, valamint a 23/A. §-ban foglalt rendelkezéseket a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv útján – külön feljogosított személyekre is megfelelően alkalmazni kell.
@@ -624,7 +640,7 @@ az általános szabályok szerint, azzal, hogy az a) pont alkalmazásakor a hat�
 
 - a)
 - b)
-- c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
+- c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
 - d)
 - e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
 - f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 24/A. § (2)–(5), (8), (9), (11) és (13) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet,
@@ -698,6 +714,8 @@ vonatkozó részletes szabályokat rendeletben megállapítsa.
 szerinti előzetes bejelentése megtörtént.
 
 (2) A Módtv.3. tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti, valamint a Módtv.3. tervezetének 3. alcíme vonatkozásában a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(3) A Módtv.5. tervezetének 21. §-a, 37. §-a, 40. §-a, valamint a 41. § 4., 5., 15., 16. és 26. pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

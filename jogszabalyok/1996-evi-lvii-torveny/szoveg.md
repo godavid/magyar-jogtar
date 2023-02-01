@@ -1036,8 +1036,8 @@ kell figyelembe venni.
 
 62. § (1) Az összefonódás-bejelentés alapján indított versenyfelügyeleti eljárásért igazgatási szolgáltatási díjat kell fizetni, amelynek mértéke
 
-- a) a 67. § (4) bekezdés a) pontja alapján indított eljárásban, vagy ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, tizenötmillió forint,
-- b) az a) pont hatálya alá nem tartozó esetben hárommillió forint.
+- a) a 67. § (4) bekezdés a) pontja alapján indított eljárásban, vagy ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, tizenkilencmillió forint,
+- b) az a) pont hatálya alá nem tartozó esetben négymillió forint.
 
 (2) Ha a vizsgáló az összefonódás-bejelentés alapján elrendeli az összefonódás vizsgálatát, végzésében – nyolcnapos határidő megjelölésével és a jogkövetkezményekre való figyelmeztetés mellett – kötelezi az összefonódást bejelentőt – az eljárás megindításának okától függően – az (1) bekezdés a) vagy b) pontja szerinti igazgatási szolgáltatási díj megfizetésére.
 
@@ -1592,7 +1592,14 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 
 (1b) A bírság összege legfeljebb a vállalkozás, illetve azon – a határozatban azonosított – vállalkozáscsoport a határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tíz százaléka lehet, amelynek a bírsággal sújtott vállalkozás a tagja. A vállalkozások társulásával szemben kiszabott bírság összege legfeljebb a tagvállalkozások előző üzleti évben elért nettó árbevételének tíz százaléka lehet. Vállalkozások társulása esetén az egyes tagvállalkozások pénzügyi felelőssége nem haladhatja meg a határozat meghozatalát megelőző üzleti évben elért nettó árbevételük tíz százalékát.
 
-(1c) Az (1) bekezdés d) pontja szerinti bírság összege – az (1b) bekezdésre is figyelemmel – az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének vagy az irányítási jog megszerzésének időpontjai közül a legkorábbi időponttól az összefonódásra vonatkozó összefonódás-bejelentés megtételéig, ennek hiányában az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárásnak a 67. § (3) bekezdése szerinti megindításáig számított legalább napi ötvenezer, legfeljebb napi kettőszázezer forint. A bírság összegének számításakor a 25. § szerinti átmeneti időszakot figyelmen kívül kell hagyni.
+(1c) Az (1) bekezdés d) pontja szerinti bírság összege – az (1b) bekezdésre is figyelemmel – az összefonódás végrehajtásának időpontjától
+
+- a) az összefonódásra vonatkozó összefonódás-bejelentés megtételéig, amennyiben az összefonódás-bejelentésre kötelezett az összefonódás bejelentését megelőzően a 43/L. § szerinti előzetes egyeztetést kezdeményezett, akkor ennek időpontjáig,
+- b) ha az a) pont nem alkalmazható,
+  - ba) az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárásnak a 67. § (3) bekezdése szerinti megindításáig, vagy
+  - bb) amennyiben a végrehajtásra az összefonódás-bejelentés elintézésével kapcsolatos eljárás vagy a versenyfelügyeleti eljárás alatt kerül sor, a határozat meghozataláig
+
+számított legfeljebb napi háromszázezer forint. A bírság összegének számításakor a 25. § szerinti átmeneti időszakot figyelmen kívül kell hagyni.
 
 (2) A bírság legmagasabb összegének meghatározásakor a nettó árbevételt a határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló alapján kell meghatározni. Ha a vállalkozás működési ideje az adott évben egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hiteles adat, az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a vizsgáló, illetve az eljáró versenytanács felhívására közölt, a számvitelről szóló törvénynek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni. A nettó árbevétel számítására egyebekben megfelelően alkalmazni kell a 24. § (3) bekezdését és a 27. § (7) bekezdését.
 
