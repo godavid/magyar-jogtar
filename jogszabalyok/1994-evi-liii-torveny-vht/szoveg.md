@@ -3217,7 +3217,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (2) Ha a kérelem elbírálása idején a végrehajtóval szemben a kérelem elbírálására kihatással bíró fegyelmi eljárás van folyamatban, a végrehajtó szolgálati viszonya a fegyelmi eljárás jogerős befejeződését követő, a végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelme elbírálása napjáig meghosszabbodik.
 
-(3) A végrehajtói szolgálat folyamatosságának megállapítása iránti kérelem benyújtási határidejének elmulasztása esetén igazolásnak nincs helye. A kérelmet elbíráló eljárásban az ügyintézési határidő harminc nap.
+(3) A végrehajtó az (1) bekezdés szerinti kérelmet legkorábban a kinevezés lejártát megelőző 120. napon, de legkésőbb a kinevezés lejártát megelőző 30. napon terjesztheti elő. A határidő elmulasztása esetén igazolásnak nincs helye. E kérelmet elbíráló eljárásban sommás eljárásnak nincs helye, az ügyintézési határidő harminc nap, az eljárás szünetelésének nincs helye.
 
 (4) A Kar hivatali szerve a végrehajtó kinevezésének lejártát megelőző egy éven belül tájékoztatja a végrehajtót a kinevezése lejártának időpontjáról és a (3) bekezdésben foglaltakról.
 

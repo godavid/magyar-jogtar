@@ -3064,6 +3064,8 @@ megnevezéssel működik.
 
 (34) Az Eszterházy Károly Egyetem 2021. augusztus 1. napjától Eszterházy Károly Katolikus Egyetem megnevezéssel működik.
 
+(35) A Gábor Dénes Főiskola 2023. február 1-jétől Gábor Dénes Egyetem megnevezéssel, alkalmazott tudományok egyetemeként működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2)
@@ -3257,7 +3259,7 @@ vonatkozó szabályait kell alkalmazni.
 
 |  | A | B | C |
 | --- | --- | --- | --- |
-| 1 | I. Egyetemek |  |  |
+| 1 | I. EGYETEMEK |  |  |
 | 2 |  | I/A. Állami egyetemek |  |
 | 3 |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
 | 4 |  |  | Eötvös Loránd Tudományegyetem, Budapest |
@@ -3294,26 +3296,26 @@ vonatkozó szabályait kell alkalmazni.
 | 35 |  |  | Budapesti Metropolitan Egyetem, Budapest |
 | 36 |  |  | Dunaújvárosi Egyetem, Dunaújváros |
 | 37 |  |  | Edutus Egyetem, Tatabánya |
-| 38 |  |  | Gál Ferenc Egyetem, Szeged |
-| 39 |  |  | Kodolányi János Egyetem, Székesfehérvár |
-| 40 |  |  | Milton Friedman Egyetem, Budapest |
-| 41 |  |  | Neumann János Egyetem, Kecskemét |
-| 42 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 43 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 44 | III. FŐISKOLÁK |  |  |
-| 45 |  | III/A. Állami főiskolák |  |
-| 46 |  |  | Eötvös József Főiskola, Baja |
-| 47 |  | III/B. Nem állami főiskolák |  |
-| 48 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 49 |  |  | Adventista Teológiai Főiskola, Pécel |
-| 50 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 51 |  |  | Baptista Teológiai Akadémia, Budapest |
-| 52 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 53 |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 54 |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 55 |  |  | Egri Hittudományi Főiskola, Eger |
-| 56 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 57 |  |  | Gábor Dénes Főiskola, Budapest |
+| 38 |  |  | Gábor Dénes Egyetem, Budapest |
+| 39 |  |  | Gál Ferenc Egyetem, Szeged |
+| 40 |  |  | Kodolányi János Egyetem, Székesfehérvár |
+| 41 |  |  | Milton Friedman Egyetem, Budapest |
+| 42 |  |  | Neumann János Egyetem, Kecskemét |
+| 43 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
+| 44 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
+| 45 | III. FŐISKOLÁK |  |  |
+| 46 |  | III/A. Állami főiskolák |  |
+| 47 |  |  | Eötvös József Főiskola, Baja |
+| 48 |  | III/B. Nem állami főiskolák |  |
+| 49 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
+| 50 |  |  | Adventista Teológiai Főiskola, Pécel |
+| 51 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
+| 52 |  |  | Baptista Teológiai Akadémia, Budapest |
+| 53 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
+| 54 |  |  | Brenner János Hittudományi Főiskola, Győr |
+| 55 |  |  | Budapest Kortárstánc Főiskola, Budapest |
+| 56 |  |  | Egri Hittudományi Főiskola, Eger |
+| 57 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
 | 58 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
 | 59 |  |  | Pápai Református Teológiai Akadémia, Pápa |
 | 60 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
