@@ -250,10 +250,10 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 (4) E törvény alkalmazásában a dohánygyártmányok adóztatására vonatkozóan
 
 - 1. cigaretta:
-  - a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas és nem minősül szivarnak vagy szivarkának,
-  - b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüvelybe töltenek, vagy cigarettapapír-lappal körbevesznek,
-  - c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a)–b) pontban meghatározott kritériumoknak;
-- 2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;
+  - a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas és nem minősül szivarnak, szivarkának vagy hevített terméknek,
+  - b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüvelybe töltenek vagy cigarettapapír-lappal körbevesznek, és nem minősül hevített terméknek,
+  - c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) és b) pontban meghatározott kritériumoknak;
+- 2. dohánygyártmány: a cigaretta, a szivar, a szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, a hevített termék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és jogszabályban meghatározott hatóság által kiadott hatályos forgalombahozatali engedéllyel rendelkezik;
 - 3. dohánynövény: a 0602 90 50 KN-kód szerinti növény;
 - 4. dohánytörmelék: a dohány feldolgozása és a dohánytermékek előállítása során keletkező dohánylevél-maradvány és melléktermék;
 - 4a. dohányzást helyettesítő nikotintartalmú termék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
@@ -268,6 +268,9 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
   - b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) pontban meghatározott kritériumoknak;
 - 9. fogyasztási dohány: az egyéb fogyasztási dohány és a finomra vágott fogyasztási dohány;
 - 9a. füst nélküli dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
+- 9b. hevített termék:
+  - a) az olyan dohányrúd és a teljesen vagy részben rúdtól eltérő formájú kapszula, amely a használatához rendelt készülék segítségével hevítés által belélegezhető aeroszolt bocsát ki a dohány elégetése nélkül,
+  - b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) pontban meghatározott kritériumoknak;
 - 10. kész dohányvágat: olyan dohánygyártmány, amely pipadohány esetében pipában történő elszívásra, cigarettadohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is;
 - 11. szárított dohány: a tőről leszakított nyersdohány, a 2401 10 35-2401 20 95 KN-kód szerinti feldolgozatlan dohány, továbbá a 2401 30 00 KN-kód szerinti dohányhulladék;
 - 12. szivar, szivarka:
@@ -275,7 +278,7 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
   - b) a kocsányozott dohánykeverékből készült szivarbélből, valamint a szivar szokásos színével megegyező színű, regenerált dohánylevélből készült, és a terméket – adott esetben a füstszűrőt is beleértve, a szopókával ellátott szivaroknál azonban a szopóka kivételével – teljesen körülölelő, külső borítékból álló dohányrúd, amelynek tömege – füstszűrő vagy szopóka nélkül – legalább 2,3 gramm és legfeljebb 10 gramm, valamint amely hosszának legalább egyharmadánál mért kerülete eléri a 34 millimétert,
   - c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) és b) pontban meghatározott kritériumoknak;
 - 13. töltőfolyadék: olyan folyadék, amelyet az elektronikus cigarettába vagy a dohányzást imitáló elektronikus eszközbe a gyártási folyamat során töltenek be, ideértve az elektronikus cigaretta vagy a dohányzást imitáló elektronikus eszköz utántöltésére, többszöri használatára szolgáló folyadékot is;
-- 14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.
+- 14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak, hevített terméknek vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.
 
 #### 3. Általános rendelkezések
 
@@ -1248,6 +1251,7 @@ szolgálhat.
 - k) az új dohánytermék-kategóriák egyszer használatos termékei esetében 800 darab, folyadéka esetében 300 milliliter.
 - l) füst nélküli dohánytermék esetében 500 gramm,
 - m) dohányzást helyettesítő nikotintartalmú termék esetében 500 gramm.
+- n) hevített termék esetében 800 darab.
 
 (5) Nem minősül kereskedelmi célú szállításnak
 
@@ -1414,6 +1418,7 @@ forgalmazhat.
 - k) az étrend-kiegészítőt,
 - l) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott dohányzást helyettesítő nikotintartalmú terméket,
 - m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott füst nélküli dohányterméket.
+- n) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott hevített terméket.
 
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
@@ -2385,6 +2390,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 - g) a dohányzást helyettesítő nikotintartalmú termékre
   - ga) a 2021. január 1. és 2021. március 31. közötti időszakban 22 400 forint kilogrammonként,
   - gb) 2021. április 1-jétől 23 600 forint kilogrammonként.
+- h) a hevített termékre 35 forint darabonként (szálanként).
 
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 
@@ -2519,6 +2525,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (34) Az állami adó- és vámhatóság a 2023. február 13-át megelőzően kiadott adóraktári engedélyt, jövedéki engedélyt, bejegyzett kereskedői engedélyt és bejegyzett feladói engedélyt 2023. február 13-i hatállyal kiegészíti a szabadforgalomba bocsátott, kereskedelmi céllal másik tagállamba feladott, illetve másik tagállamból átvett jövedéki termékek szállításának lehetőségével, továbbá a 2023. február 13-át megelőzően nyilvántartásba vett kisüzemi bortermelő nyilvántartásba vételében szereplő adatokat 2023. február 13-i hatállyal kiegészíti a szabadforgalomba bocsátott, kereskedelmi céllal másik tagállamba feladott jövedéki termékek szállításának lehetőségével.
 
 (35) 2023. február 13-át megelőzően másik tagállamból adózottan feladott jövedéki termék átvételére a feladáskor hatályos szabályokat kell alkalmazni a jövedéki termék átvételéig, de legkésőbb 2023. december 31-ig.
+
+(36) A 74. § rendelkezéseitől eltérően a jövedéki kiskereskedő és a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet folytató a zárjegy nélküli hevített terméket az Fdvtv. 24/A. § (14) bekezdésében meghatározott időpontig értékesítheti.
 
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 

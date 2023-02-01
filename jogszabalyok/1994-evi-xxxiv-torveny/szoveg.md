@@ -81,8 +81,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - a) hivatásos állományú rendőrökből,
 - b) igazságügyi alkalmazottakból,
 - c) rendvédelmi igazgatási alkalmazottakból,
-- d) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból, valamint
-- e) tisztjelöltekből
+- d) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból,
+- e) tisztjelöltekből, valamint
+- f) szerződéses határvadászokból
 
 állhat.
 
@@ -169,9 +170,15 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (13) Az Ügynökség igazgatótanácsának Magyarország képviseletét ellátó tagját és póttagját az országos rendőrfőkapitány jelöli ki.
 
-#### 6/A. §
+6/A. § Az általános rendőrségi feladatok ellátására létrehozott szerv az 1. § (2) bekezdés 10–11. és 13. pontjában meghatározott feladatok ellátásáról a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, szerződéses határvadász jogviszonyban foglalkoztatott tagja (a továbbiakban: határvadász) útján is gondoskodhat.
 
-#### 6/B. §
+6/B. § (1) A határvadász az e törvény szerinti feladatai ellátása során
+
+- a) a IV. Fejezetben foglaltak szerint jár el, ide nem értve a szolgálati időn kívüli intézkedési kötelezettségét,
+- b) – a 34. § és 34/A. §-ban, a 38–40. §-ban, a 45–45/A. §-ban, a 46. § (1) bekezdés b) és c) pontjában, valamint a 46/A. és 46/B. §-ban meghatározott intézkedések kivételével – az V. Fejezet szerinti rendőri intézkedéseket foganatosítja, valamint azon rendőri intézkedések során, amelyek foganatosítására nem jogosult, a végrehajtó rendőr tevékenységét biztosíthatja,
+- c) jogosult a VI. Fejezet szerinti kényszerítő eszközök alkalmazására.
+
+(2) A határvadász intézkedése vagy annak elmulasztása, illetve a kényszerítő eszköz alkalmazása elleni jogorvoslatra a IX. Fejezet rendelkezéseit kell alkalmazni.
 
 #### 6/C. §
 
@@ -202,8 +209,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
 - e) a rendvédelmi igazgatási szolgálati jogviszonyban,
 - f) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban,
-- g) az egészségügyi szolgálati jogviszonyban, és
-- h) a munkaviszonyban
+- g) az egészségügyi szolgálati jogviszonyban,
+- h) a munkaviszonyban, és
+- i) a szerződéses határvadász jogviszonyban
 
 foglalkoztatott.
 
@@ -2316,7 +2324,7 @@ bírálja el.
 - a) 1–2/A. §-a,
 - b) 4. §-a,
 - c) 4/A. § (1)–(2a) bekezdése,
-- d) 5–6. §-a,
+- d) 5–6/B. §-a,
 - e) 7–75/L. §-a,
 - f) 92–101. §-a, valamint
 - g) 103. § (4)–(5) bekezdése

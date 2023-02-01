@@ -2,7 +2,23 @@
 
 a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól
 
-Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészségügyi mutatóira,– annak érdekében, hogy a dohánytermékek forgalmazásának részleges korlátozásával csökkentse ezen termékek kiskorúak számára történő hozzáférhetőségét,– kinyilvánítva abbéli szándékát, hogy a dohánytermékek elsősorban nyilvános helyeken történő fogyasztásának szabályozásával védelmet kell nyújtani a nemdohányzók, valamint az életkoruk vagy egészségi állapotuk miatt egyébként fokozott védelmet igénylő személyek részére a passzív dohányzás káros hatásaival szemben,– felismerve továbbá, hogy a nemdohányzók védelmére vonatkozó szabályozást az egészségtudatos szemléletmód elterjedésével párhuzamosan, rendszeres időközönként felül kell vizsgálni annak érdekében, hogy az állam a magánszféra mind újabb területein is védelmet biztosítson a passzív dohányzás káros hatásaival szemben,– a magánélethez fűződő jogok tiszteletben tartása mellett nyomatékosan hangsúlyozva, hogy kerülni kell a dohányzást különösen kiskorúak, várandós nők, betegek vagy mozgásukban bármilyen okból korlátozott személyek jelenlétében a magánélet színterein is, különösen a zárt légterű helyiségekben vagy gépkocsik zárt utasterében, mivel a dohányfüst minden esetben mérgező, annak nincs biztonságos egészségügyi határértéke,– elősegítve ezzel az egészséghez, valamint az egészséges környezethez fűződő alkotmányos jogok megvalósulását és védelmét,– figyelemmel – az ellentétes érdekek megfelelő egyeztetésével – a dohánytermékek fogyasztási kultúrája fejlesztésének szükségességre, a méltányolható fogyasztási szokásokat elismervea következő törvényt alkotja:
+Az Országgyűlés
+
+– tekintettel a magyar lakosság kedvezőtlen népegészségügyi mutatóira,
+
+– annak érdekében, hogy a dohánytermékek forgalmazásának részleges korlátozásával csökkentse ezen termékek kiskorúak számára történő hozzáférhetőségét,
+
+– kinyilvánítva abbéli szándékát, hogy a dohánytermékek elsősorban nyilvános helyeken történő fogyasztásának szabályozásával védelmet kell nyújtani a nemdohányzók, valamint az életkoruk vagy egészségi állapotuk miatt egyébként fokozott védelmet igénylő személyek részére a passzív dohányzás káros hatásaival szemben,
+
+– felismerve továbbá, hogy a nemdohányzók védelmére vonatkozó szabályozást az egészségtudatos szemléletmód elterjedésével párhuzamosan, rendszeres időközönként felül kell vizsgálni annak érdekében, hogy az állam a magánszféra mind újabb területein is védelmet biztosítson a passzív dohányzás káros hatásaival szemben,
+
+– a magánélethez fűződő jogok tiszteletben tartása mellett nyomatékosan hangsúlyozva, hogy kerülni kell a dohányzást különösen kiskorúak, várandós nők, betegek vagy mozgásukban bármilyen okból korlátozott személyek jelenlétében a magánélet színterein is, különösen a zárt légterű helyiségekben vagy gépkocsik zárt utasterében, mivel a dohányfüst minden esetben mérgező, annak nincs biztonságos egészségügyi határértéke,
+
+– elősegítve ezzel az egészséghez, valamint az egészséges környezethez fűződő alkotmányos jogok megvalósulását és védelmét,
+
+– figyelemmel – az ellentétes érdekek megfelelő egyeztetésével – a dohánytermékek fogyasztási kultúrája fejlesztésének szükségességre, a méltányolható fogyasztási szokásokat elismerve
+
+a következő törvényt alkotja:
 
 ### Értelmező rendelkezések
 
@@ -21,7 +37,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - k) általános figyelmeztetés: a dohányzásra szánt dohánytermékek csomagolási egységén és gyűjtőcsomagján szereplő „A dohányzás halált okoz – szokjon le most!” mondat;
 - l) tájékoztatás: dohányzásra szánt dohánytermékek csomagolási egységén és gyűjtőcsomagján szereplő „A dohányfüst több mint 70 rákkeltő anyagot tartalmaz.” mondat;
 - m) csomagolási egység: a forgalomba hozott dohánytermék vagy kapcsolódó termék legkisebb egyedi csomagolása;
-- n) dohányzási célú gyógynövénytermék: növény-, gyógynövény- vagy gyümölcsalapú termék, amely nem tartalmaz dohányt és égési folyamat során fogyasztható;
+- n) dohányzási célú gyógynövénytermék: növény-, gyógynövény- vagy gyümölcsalapú termék, amely nem tartalmaz dohányt és hevítéssel, vagy égési folyamat során fogyasztható;
 - o) határokon átnyúló távértékesítés: fogyasztók részére történő távértékesítés, amelynek során a fogyasztó a termék kiskereskedelmi egységből való megrendelésének időpontjában egy olyan tagállamban tartózkodik, amely nem a kiskereskedelmi egység letelepedése szerinti tagállam vagy harmadik ország; egy kiskereskedelmi egység akkor tekinthető egy adott tagállamban letelepedett kiskereskedelmi egységnek:
   - oa) természetes személy esetében: ha a természetes személy vállalkozásának telephelye az adott tagállamban található;
   - ob) más esetben: ha a kiskereskedelmi egység létesítő okirat szerinti székhelye, központi ügyintézésének helye vagy telephelye – beleértve a fióktelepet, az ügynökséget vagy bármely más létesítményt – az adott tagállamban található;
@@ -136,7 +152,9 @@ hozható meg.
 
 (4) Azon munkahelyek esetében, ahol dohányzóhely kijelölése a 2. § (2) és (4) bekezdése alapján tilos, illetve ahol dohányzóhely kijelölése a 2. § (3) bekezdése alapján nem kötelező, az (1)–(3) bekezdés nem alkalmazható. Az (1) bekezdés szerint nemdohányzóvá nyilvánított munkahelyen a (2)–(3) bekezdés szerinti szabályok megfelelő alkalmazásával lehet dohányzóhely kijelölését kezdeményezni.
 
-### A dohánytermékek forgalomba hozatalánakegyes korlátai
+### A dohánytermékek forgalomba hozatalának
+
+egyes korlátai
 
 5. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (továbbiakban: Fdvtv.) 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelmére irányuló tevékenység nem végezhető köznevelési intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
 
@@ -168,7 +186,11 @@ hozható meg.
 
 6/C. § Az e törvény végrehajtására kiadott kormányrendelet szerint bejelentett, a dohánytermékhez, annak csomagolási egységéhez vagy bármely gyűjtőcsomaghoz hozzáadott, dohánytól eltérő anyagok (a továbbiakban: adalékanyag) bejelentése esetén, valamint adalékanyagonként évente tárgyév március 31-éig igazgatási szolgáltatási díjat kell fizetni az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
 
-### A dohánytermékek fogyasztására,illetőleg forgalmazására vonatkozó tilalmak,valamint kötelezettségek megszegése
+### A dohánytermékek fogyasztására,
+
+illetőleg forgalmazására vonatkozó tilalmak,
+
+valamint kötelezettségek megszegése
 
 7. § (1) A 2–4/A. §-ban, a 7/H. §-ban, a 9. §-ban foglalt, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-a szerinti rendelkezések betartását az egészségügyi államigazgatási szerv ellenőrzi, és azok megsértése esetén – a jogsértő természetes vagy jogi személlyel, illetve jogi személyiség nélküli szervezettel szemben – egészségvédelmi bírságot szab ki. Az egészségügyi államigazgatási szerv eltekinthet a bírság kiszabásától a 4. § (9) bekezdésében meghatározott személlyel szemben, ha a rendelkezésre jogosult a dohányzásra vagy az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatára vonatkozó korlátozást megsértővel szemben a 3. § (1) bekezdésében meghatározott kötelezettségének bizonyíthatóan eleget tett.
 
@@ -260,9 +282,9 @@ hozható meg.
 
 (4) Az új dohánytermék-kategóriák gyártói vagy forgalomba hozói a (2) bekezdés szerinti bejelentés esetén, valamint évente, tárgyév március 31-éig termékenként igazgatási szolgáltatási díjat fizetnek az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
 
-7/K. §
+#### 7/K. §
 
-7/L. §
+#### 7/L. §
 
 ### Záró rendelkezések
 
@@ -317,7 +339,7 @@ részletes szabályokat rendeletben határozza meg.
 
 (2) E törvénynek a Módtv.-vel megállapított 5. § (1)–(4) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-8/B. §
+#### 8/B. §
 
 9. § (1) A kereskedelemről szóló törvény szerint szálláshelynek minősülő, jogszabály alapján szállodaként üzemeltetett közforgalmú intézményben a Módosító Tv. hatálybalépésekor már működtetett és a (3) és (4) bekezdés szerint engedélyezett zárt légterű dohányzóhely – szivarszobaként – tovább működtethető. A tovább működtetést az egészségügyi államigazgatási szerv engedélyezi.
 

@@ -30,7 +30,7 @@ Magyarország a rendvédelmi feladatokat ellátó szervektől alkotmányos köte
 
 - a) a hivatásos szolgálatra jelentkezőkre,
 - b) a rendvédelmi oktatási intézménybe, hivatásos szolgálat ellátására jogosító képzésre jelentkezőkre,
-- c) a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira, tanulóira,
+- c) a rendvédelmi oktatási intézmény nem hivatásos állományának tanulóira,
 - d) a rendvédelmi tisztjelöltre,
 - e) a szolgálati nyugdíjasokra, valamint
 - f) a hivatásos állomány tagja és a szolgálati nyugdíjas közeli hozzátartozóira
@@ -48,6 +48,8 @@ is alkalmazni kell.
 (9) A 255/A. §-t és a 362/D. §-t a rendvédelmi szerv teljes személyi állományára alkalmazni kell.
 
 (10) A 291–307. §-t a Nemzeti Adó- és Vámhivatal tekintetében is alkalmazni kell.
+
+(11) A 124/A. alcím rendelkezéseit az általános rendőrségi feladatok ellátására létrehozott szervvel szerződéses jogviszonyban álló szerződéses határvadászra is alkalmazni kell.
 
 #### 2. Értelmező rendelkezések
 
@@ -80,6 +82,7 @@ is alkalmazni kell.
 - 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti szolgálati jogviszonyban áll;
 - 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 - 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
+- 24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 10., 11. és 13. pontjában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
 - 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
 - 26. szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, rendvédelmi igazgatási alkalmazottként vagy igazságügyi alkalmazottként foglalkoztatott személy is minősülhet;
 - 27. szolgálati érdek: a rendvédelmi szerv vagy a szervezeti egység jogszerű, rendeltetésszerű és eredményes működéséhez, jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott feladatainak teljesítéséhez szükséges vagy azt meghatározó módon befolyásoló személyi feltétel vagy körülmény;
@@ -477,7 +480,7 @@ kézbesítettnek kell tekinteni.
 
 34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
 
-(2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
+(2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, szerződéses határvadász jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 
 (3) Ha a szolgálati viszony olyan személy áthelyezésével létesül, akinek korábbi szolgálati viszonya áthelyezéssel változott közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti jogviszonyra vagy rendvédelmi igazgatási szolgálati jogviszonyra, a próbaidőre vonatkozó rendelkezések nem alkalmazhatók, feltéve, hogy az érintett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 
@@ -557,7 +560,7 @@ kézbesítettnek kell tekinteni.
 
 #### 29. A kifogástalan életvitel ellenőrzése
 
-42. § (1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény ösztöndíjas hallgatója, valamint tanulója életvitelét a hallgatói, tanulói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja, az ösztöndíjas hallgató, valamint a tanuló életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
+42. § (1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény tanulója, valamint a rendvédelmi tisztjelölt életvitelét a tanulói, valamint a hallgatói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja, a tanuló, valamint a rendvédelmi tisztjelölt életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
 
 (2) A jelentkező, valamint a hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett szolgálati beosztása vagy a hivatásos állomány tagjának szolgálati beosztása nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásnak minősül. Ha a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg
 
@@ -601,16 +604,17 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (9) A kifogástalan életvitelt ellenőrző szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
-- a) adatot igényelhet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, az ösztöndíjas hallgatóról, a tanulóról, valamint a hivatásos állomány tagjáról, továbbá a vele közös háztartásban élő közeli hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a rendvédelmi szervek nyilvántartásaiból, és betekinthet az e szerveknél folyamatban lévő vagy befejezett fegyelmi eljárás irataiba,
-- b) lakóhelyén, tartózkodási helyén, munkahelyén nyíltan vagy a rendőri jelleg leplezésével környezettanulmányt készíthet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, az ösztöndíjas hallgatóról, tanulóról vagy a hivatásos állomány tagjáról.
+- a) adatot igényelhet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, a tanulóról, a rendvédelmi tisztjelöltről, valamint a hivatásos állomány tagjáról, továbbá a vele közös háztartásban élő közeli hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a rendvédelmi szervek nyilvántartásaiból, és betekinthet az e szerveknél folyamatban lévő vagy befejezett fegyelmi eljárás irataiba,
+- b) lakóhelyén, tartózkodási helyén, munkahelyén nyíltan vagy a rendőri jelleg leplezésével környezettanulmányt készíthet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, a tanulóról, a rendvédelmi tisztjelöltről vagy a hivatásos állomány tagjáról.
 
-43. § (1) A hivatásos állomány tagját, a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkezőt, az ösztöndíjas hallgatót, valamint a tanulót az ellenőrzés megkezdéséről, valamint befejezéséről nem kell tájékoztatni, az elvégzett vizsgálat eredményét azonban közölni kell vele.
+43. § (1) A hivatásos állomány tagját, a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkezőt, a tanulót, valamint a rendvédelmi tisztjelöltet az ellenőrzés megkezdéséről, valamint befejezéséről nem kell tájékoztatni, az elvégzett vizsgálat eredményét azonban közölni kell vele.
 
 (2) Az elvégzett vizsgálat eredménye alapján azt, hogy a kifogásolható életvitelt megalapozó, a 42. § (4) bekezdésében meghatározott feltételek fennállnak-e,
 
 - a) a hivatásos állomány tagja esetében az állományilletékes parancsnok,
-- b) az ösztöndíjas hallgató, valamint a tanuló esetében az ösztöndíjas hallgatói vagy tanulói szerződést kötő rendvédelmi szerv országos parancsnoka,
+- b) a tanuló esetében a rendvédelmi oktatási intézmény vezetője,
 - c) a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkező esetében a kifogástalan életvitelt ellenőrző szerv
+- d) a rendvédelmi tisztjelölt esetében a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka
 
 állapítja meg.
 
@@ -618,14 +622,14 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (4) Az állományilletékes parancsnok az elvégzett vizsgálat megállapításai, a (3) bekezdés szerinti meghallgatás alapján és a rendvédelmi szerv szolgálati érdekeit is figyelembe véve dönt arról, hogy a hivatásos állomány tagjának életvitele a 42. § (4) bekezdés c) pontja alapján kifogásolható-e.
 
-(5) Ha az ellenőrzés megállapításai alapján az ösztöndíjas hallgató vagy a tanuló életvitele kifogásolható, az országos parancsnok az ösztöndíjszerződéstől – az érintett meghallgatását követően – egyoldalú nyilatkozattal elállhat. Az ösztöndíjszerződés megszűnésével a hallgatói vagy a tanulói jogviszony is megszűnik.
+(5)
 
-(6) A kifogástalan életvitelt ellenőrző szervet a kifogástalan életvitel ellenőrzését kezdeményező rendvédelmi szerv az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
+(6) A kifogástalan életvitelt ellenőrző szervet a kifogástalan életvitel ellenőrzését kezdeményező rendvédelmi szerv az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati viszony, tanulói jogviszony vagy rendvédelmi tisztjelölti jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
-- a) nem létesül szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony, az erről szóló tájékoztatás kézhezvételétől számított nyolc napon belül, vagy
-- b) a szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony fennállása alatti ellenőrzés kifogásolható életvitelt nem állapít meg, az ellenőrzés befejezésétől számított nyolc napon belül.
+- a) nem létesül szolgálati viszony, tanulói jogviszony vagy rendvédelmi tisztjelölti jogviszony, az erről szóló tájékoztatás kézhezvételétől számított nyolc napon belül, vagy
+- b) a szolgálati viszony, tanulói jogviszony vagy rendvédelmi tisztjelölti jogviszony fennállása alatti ellenőrzés kifogásolható életvitelt nem állapít meg, az ellenőrzés befejezésétől számított nyolc napon belül.
 
-(7) Ha az ellenőrzés azt állapítja meg, hogy kifogásolható a hivatásos állomány tagjának, az ösztöndíjas hallgatónak vagy a tanulónak az életvitele, a keletkezett iratok, adatok az ellenőrzés befejezését követő öt évig kezelhetők, kivéve, ha az iratokat a (6) bekezdésben meghatározottak alapján meg kell semmisíteni.
+(7) Ha az ellenőrzés azt állapítja meg, hogy kifogásolható a hivatásos állomány tagjának, a tanulónak vagy a rendvédelmi tisztjelöltnek az életvitele, a keletkezett iratok, adatok az ellenőrzés befejezését követő öt évig kezelhetők, kivéve, ha az iratokat a (6) bekezdésben meghatározottak alapján meg kell semmisíteni.
 
 #### 30. Kinevezés és szolgálati beosztásba helyezés
 
@@ -953,7 +957,7 @@ kell alkalmazni.
 
 - a) a nemzetközi szervezetek által béketámogató, fegyveres vagy egyéb rendészeti tevékenységre kiírt és a miniszter által támogatott pályázat elnyerése esetén,
 - b) nemzetközi kötelezettségvállalás alapján külföldi béketámogató, fegyveres vagy egyéb rendészeti misszióban való részvételre önkéntes jelentkezés alapján,
-- c) az Európai Unió intézményeibe nemzeti szakértőként, kormányrendeletben meghatározott jelölési eljárás alapján vagy gyakornokként a miniszter támogatásával,
+- c) az Európai Unió intézményeibe, valamint nemzetközi szervezetbe nemzeti szakértőként, kormányrendeletben meghatározott jelölési eljárás alapján vagy gyakornokként a miniszter támogatásával,
 - d) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsolódó feladatok ellátására,
 - e) a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdés f) pontja szerinti feladat ellátása érdekében magyar külképviseletre vagy a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervhez
 
@@ -1002,18 +1006,15 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 (2) Az (1) bekezdés szerinti szolgálati beosztás ellátására vagy helyettesítésre szóló megbízás történhet az eredeti szolgálati beosztás ellátása mellett vagy az eredeti szolgálati beosztás ellátása alóli mentesítéssel. A helyettesítés az egy évet nem haladhatja meg. Az illetmény nélküli szabadságon távollevő helyettesítése az illetmény nélküli szabadság tartamára szólhat. Az egyhavi időtartamot meg nem haladó megbízáshoz a hivatásos állomány tagjának beleegyezése nem szükséges.
 
-(3) A szolgálati beosztáshoz nem tartozó feladatkörrel való megbízás nem esik a (2) bekezdés szerinti időkorlátozás alá.
+(3) A szolgálati beosztáshoz nem tartozó feladatkörrel való megbízás nem esik a (2) bekezdés szerinti időkorlátozás alá. A hivatásos állomány tagja az (5) bekezdés szerinti díjazásra akkor jogosult, ha az (1) bekezdés c) pontja szerinti többletfeladat ellátásával jelentős többletmunkát végez és a szolgálati beosztáshoz nem tartozó feladatkörrel való megbízás nem eseti jellegű.
 
 (4) Ha a megbízott személyt az eredeti szolgálati beosztás ellátása alól mentesítették, részére a megbízással betöltött szolgálati beosztás figyelembevételével megállapított illetmény jár, amely nem lehet kevesebb az eredeti illetményénél. A helyettesítés a viselt rendfokozatot nem érinti.
 
-(5) Ha a hivatásos állomány tagja a megbízást az eredeti szolgálati beosztásának ellátása mellett végzi, a többletszolgálatért a rendvédelmi illetményalap 50–200%-áig terjedő mértékű díjazásra jogosult. A szervezetszerű helyettesnek a szolgálati elöljárója helyettesítéséért díjazás csak az egybefüggő három hónapot meghaladó helyettesítést követő időtartamra jár.
+(5) Ha a hivatásos állomány tagja a megbízást az eredeti szolgálati beosztásának ellátása mellett végzi, a többletszolgálatért a rendvédelmi illetményalap 50–200%-áig terjedő mértékű díjazásra jogosult.
 
-(6) A (4) bekezdés szerinti illetmény és az (5) bekezdés szerinti díjazás a harminc napot meghaladó megbízás esetén visszamenőleg, a megbízás első napjától jár.
+(6) A (4) bekezdés szerinti illetmény és az (5) bekezdés szerinti díjazás az egybefüggően harminc napot meghaladó megbízás esetén visszamenőleg, a megbízás első napjától jár.
 
-(7) E § alkalmazásában:
-
-- a) tartósan akadályozott személy az, aki keresőképtelenség, átrendelés, szolgálati feladatra vezénylés miatt, vagy más okból – ide nem értve a harminc napot meg nem haladó szabadság idejét – harminc napnál hosszabb ideje nem tudja ellátni a szolgálati beosztását vagy abból adódó feladatait, vagy előre láthatóan harminc napnál hosszabb ideig nem fogja azt ellátni,
-- b) szervezetszerű helyettes a hivatásos állománynak az a vezetői beosztást betöltő tagja, akinek a szolgálati beosztását elsődlegesen arra rendszeresítették, hogy távolléte esetén szolgálati elöljáróját általános jelleggel helyettesítse.
+(7) E § alkalmazásában tartósan akadályozott személy az, aki keresőképtelenség, átrendelés, szolgálati feladatra vezénylés miatt, vagy más okból – ide nem értve a 143–146. §, a 289/O. és 289/P. § szerinti szabadság miatti helyettesítést – harminc napnál hosszabb ideje nem tudja ellátni a szolgálati beosztását vagy abból adódó feladatait, vagy előre láthatóan harminc napnál hosszabb ideig nem fogja azt ellátni.
 
 72. § (1) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
 
@@ -1146,7 +1147,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 - d) – a miniszter által vezetett minisztériumba kinevezett állami vezető kivételével – állami vezetővé nevezték ki, vagy
 - e) az egészségi alkalmatlanság megállapítását követően rendvédelmi egészségkárosodási járadékra jogosultságát állapítják meg,
 - f) az egészségi alkalmatlanság megállapítását követően a rendvédelmi szervnél történő munkaviszony létesítésére tekintettel részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
-- g)
+- g) a foglalkozás végzéséhez szükséges engedély visszavonásra kerül.
 
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
@@ -1350,7 +1351,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (3) Az egészségkárosodási ellátásra jogosult az egészségkárosodási ellátásra való jogosultságáról annak kezdőnapját követően írásban lemondhat. Lemondás esetén sem rendvédelmi egészségkárosodási keresetkiegészítés, sem rendvédelmi egészségkárosodási járadék újbóli megállapítása nem kérhető.
 
-(4) Az (1) bekezdés d) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultság, ha az érintett ismételten szolgálati viszonyt létesít, azonban a megállapított illetménye kevesebb a 82/H. § (5) bekezdésére tekintettel a rendvédelmi illetményalap emelkedésének százalékos mértékével megemelt, 82/G. § (1), illetve (2) bekezdése szerinti távolléti díjnál. Ebben az esetben a rendvédelmi egészségkárosodási járadékra való jogosultság a 82/G. §-ban foglalt számítási szabályok alkalmazásával megállapított mértékben továbbra is fennáll.
+(4) Az (1) bekezdés d) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultság, ha az érintett ismételten szolgálati viszonyt létesít, azonban a megállapított illetménye kevesebb a 82/H. § (5) bekezdésére tekintettel a rendvédelmi illetményalap emelkedésének százalékos mértékével megemelt, 82/G. § (1), illetve (2) bekezdése szerinti távolléti díjnál. Ebben az esetben a rendvédelmi egészségkárosodási keresetkiegészítésre való jogosultság a 82/G. §-ban foglalt számítási szabályok alkalmazásával megállapított mértékben továbbra is fennáll.
 
 (5) Az (1) bekezdés i) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultsága annak a rendvédelmi egészségkárosodási járadékra jogosultnak, aki a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. §-ában vagy 2. §-ában, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában felsorolt szervnél létesít foglalkoztatási jogviszonyt. Ebben az esetben a rendvédelmi egészségkárosodási járadék helyett részére a 82/G. § (4) bekezdésében meghatározott mértékű rendvédelmi egészségkárosodási keresetkiegészítést kell megállapítani. A rendvédelmi egészségkárosodási keresetkiegészítést a rendvédelmi szerv folyósítja ezt követően is. Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintett illetményére vagy munkabérére vonatkozó adatokról az országos parancsnokot kérelmére a foglalkoztató szerv vezetője tájékoztatja. Az illetmény vagy munkabér mértékének megváltozásáról az egészségkárosodási ellátásra jogosult köteles tájékoztatni az országos parancsnokot.
 
@@ -1601,7 +1602,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 - b) az állományilletékes parancsnok és a rendvédelmi szerv másik szervezeti egységének munkáltatói jogkört gyakorló elöljárója, vagy
 - c) az állományilletékes parancsnok és a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszony létrehozására feljogosított munkáltatói szerv vezetője
 
-megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
+megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi, igazságügyi alkalmazotti vagy szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
 
 #### 58. Más rendvédelmi szervhez történő áthelyezés
 
@@ -1647,7 +1648,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 
 101. § (1) A szolgálati viszony keretében a munkáltatói jogkört gyakorló elöljáró köteles
 
-- a) a hivatásos állomány tagjának feladatait munkaköri leírásban rögzíteni, őt a szolgálati viszonyra vonatkozó szabályok és az egyéb jogszabályok szerint foglalkoztatni, részére az egészséges és biztonságos szolgálatteljesítés feltételeit biztosítani, annak követelményeiről őt tájékoztatni,
+- a) a hivatásos állomány tagjának a szolgálati beosztásából eredő feladatait, valamint a szolgálati beosztáshoz nem tartozó, a végzettsége, képzettsége alapján részére a szervezeti egység feladatkörén belül meghatározott feladatokat a munkaköri leírásban rögzíteni, őt a szolgálati viszonyra vonatkozó szabályok és az egyéb jogszabályok szerint foglalkoztatni, részére az egészséges és biztonságos szolgálatteljesítés feltételeit biztosítani, annak követelményeiről őt tájékoztatni,
 - b) a szolgálati feladatok ellátását úgy megszervezni, hogy a hivatásos állomány tagja a szolgálati viszonyból eredő jogait gyakorolni, kötelezettségeit teljesíteni tudja,
 - c) a feladatok elvégzéséhez szükséges tájékoztatást és irányítást megadni, a szolgálatteljesítéshez szükséges ismeretek megszerzését biztosítani.
 
@@ -1656,7 +1657,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 102. § (1) A hivatásos állomány tagja a szolgálat ellátásával összefüggésben köteles
 
 - a) az előírt helyen és időben, szolgálatképes állapotban megjelenni, ezt az állapotot a szolgálat teljes ideje alatt fenntartani és feladatát teljesíteni, valamint e célból rendelkezésre állni,
-- b) a szolgálati feladatait a törvényes előírásoknak, a parancsoknak és intézkedéseknek megfelelően – szükség esetén a veszély vállalásával –, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan végrehajtani,
+- b) a szolgálati beosztásából eredő, valamint – a rendes szolgálatteljesítési idején belül külön ellentételezés nélkül – a szolgálati beosztásához nem tartozó, a végzettsége, képzettsége alapján részére a foglalkoztató szervezeti egység feladatkörén belül meghatározott szolgálati feladatait a törvényes előírásoknak, a parancsoknak és intézkedéseknek megfelelően – szükség esetén a veszély vállalásával –, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan végrehajtani,
 - c) a munkatársaival együttműködni, munkáját úgy végezni és általában olyan magatartást tanúsítani, hogy az – kivéve, ha ez a feladat végrehajtásával elkerülhetetlenül együtt jár – más egészségét, testi épségét ne veszélyeztesse, anyagi károsodását ne idézze elő,
 - d) a számára meghatározott oktatásban, képzésben részt venni, és az előírt vizsgákat letenni,
 - e) az egészségi, pszichológiai és fizikai alkalmassági követelményeknek eleget tenni, és az ezek ellenőrzése érdekében szükséges, a miniszter által meghatározott felméréseknek, szűréseknek és vizsgálatoknak magát alávetni, egészségének megóvása, valamint gyógyulása érdekében az előírt orvosi utasításokat betartani,
@@ -2081,6 +2082,13 @@ elő kell írni. Ha a hivatásos állomány tagja az előírt képzési kötelez
 
 (6) A szolgálatteljesítési időbeosztást – ide nem értve a túlszolgálat elrendelését – a szolgálati elöljáró a szolgálatba lépést megelőzően legalább egy héttel előbb közli a hivatásos állomány tagjával.
 
+135/A. § (1) A 135. § (1) bekezdésétől eltérően tizenkét órát meghaladó, de tizenhat óránál nem hosszabb napi szolgálatteljesítési idő határozható meg
+
+- a) a folyamatos szolgálatteljesítést igénylő, folyamatos beavatkozási vagy intézkedési feladatok ellátására rendszeresített, továbbá a részben vagy egészben készenléti jellegű szolgálati beosztásokban,
+- b) azokban a szolgálati beosztásokban, amelyeket olyan feladatokra rendszeresítettek, ahol a szolgálatteljesítési feladat ellátása időszakonként eltérő létszámot igényelhet, továbbá ahol a szolgálati feladatok rendes szolgálatteljesítés keretében történő ellátása előreláthatóan a hét bármely napján, annak bármely időpontjában szükségessé válhat.
+
+(2) Az (1) bekezdés szerinti szolgálatszervezés esetén a 134. § (1) bekezdésétől eltérően a heti szolgálatteljesítési idő meghaladhatja a heti negyven órát, de az alkalmazott szolgálati idő keretben heti átlagban a 48 órát nem haladhatja meg.
+
 136. § (1) A hivatásos állomány
 
 - a) nő tagját várandóssága megállapításától gyermekének egyéves koráig, továbbá
@@ -2180,6 +2188,68 @@ céljából.
 
 (5) A túlszolgálat elrendelésének és elszámolásának, valamint a túlszolgálatért járó szabadidő kiadásának rendjét a miniszter állapítja meg.
 
+(6) A hivatásos állomány tagja – a (7) bekezdésben foglalt kivétellel – a 139. §-ban meghatározott túlszolgálat időtartamán kívül eső időszakban önkéntes elhatározása alapján, a képzettségének, végzettségének, elméleti és gyakorlati felkészültségének megfelelő túlszolgálatot vállalhat (a továbbiakban: önként vállalt túlszolgálat). Az önként vállalt túlszolgálat időtartama alatt a hivatásos állomány tagjának az e törvényből eredő szolgálatteljesítési kötelezettsége fennáll.
+
+(7) A rendvédelmi szerv vezetője és helyettesei, valamint a szervezeti egység vezetője és helyettesei önként vállalt túlszolgálatot nem vállalhatnak.
+
+(8) Az önként vállalt túlszolgálat éves mértéke legfeljebb 150 óra, amelybe nem számít bele a 139. § (2)–(4) bekezdése szerinti időtartam.
+
+(9) Az önként vállalt túlszolgálat ellentételezéseként – a 140. § (3) bekezdésétől eltérően – a hivatásos állomány tagját díjazás illeti meg. Díjazásként az önként vállalt túlszolgálat időtartamára a kinevezés szerinti szolgálati beosztási illetmény alapulvételével számított távolléti díj 150%-a, pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlszolgálat esetén a távolléti díj 200%-a jár, amelyet a túlszolgálat pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
+
+(10) A hivatásos állomány tagja önként vállalt túlszolgálat vállalására nem kényszeríthető, jogos érdeke ezzel összefüggésben nem csorbítható, érdekérvényesítési lehetősége nem korlátozható.
+
+(11) Az önként vállalt túlszolgálatról az állományilletékes parancsnok és a hivatásos állomány tagja megállapodást köt. A megállapodás megkötését a hivatásos állomány tagja kezdeményezheti.
+
+(12) A megállapodás a rendvédelmi szerven belül bármely más állományilletékes parancsnokkal is megköthető, az ilyen megállapodásról a munkáltatói jogkört gyakorló állományilletékes parancsnokot írásban tájékoztatni szükséges. A ténylegesen teljesítendő önként vállalt túlszolgálathoz a hivatásos állomány tagja szolgálati elöljárójának előzetes hozzájárulására a (21) és (22) bekezdést alkalmazni kell. Az önként vállalt túlszolgálat során az eredeti szolgálati beosztásba nem tartozó szolgálati feladatok ellátása nem minősül a szolgálati beosztás módosításának, valamint helyettesítésre megbízásnak.
+
+(13) Az önként vállalt túlszolgálatra irányuló megállapodást írásba kell foglalni, és annak egy példányát – amennyiben a munkáltatói jogkört gyakorló állományilletékes parancsnokkal kerül sor a megállapodás megkötésére – a személyügyi anyaggyűjtőben kell helyezni. A megállapodást
+
+- a) határozatlan időre vagy
+- b) határozott időre, legalább a hivatásos állomány tagjára irányadó szolgálatteljesítési időkeret tartamára
+
+lehet megkötni.
+
+(14) Az önként vállalt túlszolgálatra irányuló megállapodásban
+
+- a) meg kell határozni egész órában kifejezve a hivatásos állomány tagja által önként vállalt túlszolgálat mértékét, és ezen belül az előre tervezetten beosztható és – amennyiben az annak elrendelésére alapot adó ok bekövetkezik – előre nem tervezett rendkívüli szolgálatteljesítésre igénybe vehető önként vállalt túlszolgálat időtartamát,
+- b) meg kell határozni az önként vállalt túlszolgálatért járó díjazást.
+
+(15) Az önként vállalt túlszolgálatra irányuló megállapodást a hivatásos állomány tagja a tárgyév június 30. napjával, valamint a tárgyév december 31. napjával, illetve szolgálati időkeret alkalmazása esetén az időkeret utolsó napjával mondhatja fel.
+
+(16) A hivatásos állomány tagja a (15) bekezdéstől eltérő időpontban is felmondhatja a megállapodást, ha annak teljesítése – a megkötését követően bekövetkezett, illetve ismertté vált – személyi, családi vagy egyéb körülményeire tekintettel rá nézve aránytalan sérelemmel járna.
+
+(17) Az állományilletékes parancsnok az önként vállalt túlszolgálatról nyilvántartást vezet, amely havonkénti bontásban tartalmazza:
+
+- a) a hivatásos állomány azon tagjának nevét, rendfokozatát, születési helyét, születési idejét, anyja születési nevét és az adóazonosító jelét, akivel önként vállalt túlszolgálatról megállapodást kötött,
+- b) az a) pont szerinti foglalkoztatott által vállalt túlszolgálat órakeretét,
+- c) a ténylegesen elrendelt szolgálatteljesítési időt.
+
+(18) Az állományilletékes parancsnok az önként vállalt túlszolgálatra szóló megállapodásról és a ténylegesen teljesített önként vállat túlszolgálatról tájékoztatást ad a hivatásos állomány tagját foglalkoztató rendvédelmi szerv alapellátó orvosa részére.
+
+(19) Az alapellátó orvos vezetője az önként vállalt túlszolgálatot
+
+- a) a hivatásos állomány egészségi állapotában, különösen teherbírásában vagy egyéb, szolgálatteljesítési képességét érintő személyi körülményében beállt változásra tekintettel, vagy
+- b) az ellátottak biztonságával összefüggő okok alapján
+
+korlátozhatja vagy megtilthatja.
+
+(20) A rendvédelmi szerv vezetője a tárgyévet követő január 31-ig statisztikai célú tájékoztatást ad a miniszter részére a tárgyévben:
+
+- a) az önként vállalt túlszolgálatra irányuló megkötött megállapodások számáról,
+- b) a megállapodások alapján ténylegesen teljesített önként vállalt túlszolgálat mértékéről,
+- c) a (19) bekezdés alapján elrendelt korlátozások, illetve tiltások számáról és azok okáról.
+
+(21) Az önként vállalt túlszolgálat keretében történő szolgálatteljesítésre elsősorban az eredeti szolgálati helyen kerül sor. Ha a szolgálatteljesítésre az eredeti szolgálati helytől eltérő szolgálati helyen vagy a (12) bekezdés szerint a rendvédelmi szerven belül bármely más állományilletékes parancsnokkal kötött megállapodás alapján kerül sor, az önként vállalt túlszolgálathoz a hivatásos állomány tagja szolgálati elöljárójának előzetes hozzájárulása szükséges. A hozzájárulás megtagadása miatt a hivatásos állomány tagja kártérítési igényt nem támaszthat.
+
+(22) Ha az előzetes hozzájárulás megadását követően az eredeti szolgálati helyen a 139. § szerinti túlszolgálat elrendelése szükséges, az önként vállalt túlszolgálat nem teljesíthető, amelyről a hivatásos állomány tagját és az önként vállalt túlszolgálattal érintett szervezeti egységet az állományilletékes parancsnok soron kívül tájékoztatja.
+
+(23) Az önként vállalt túlszolgálat időtartama alatt a hivatásos állomány tagjának
+
+- a) szolgálatteljesítési helye azon szervezeti egység székhelye (telephelye) szerinti közigazgatási terület, amely az önként vállalt túlszolgálat keretében foglalkoztatja,
+- b) szolgálati elöljárója az a) pont szerinti szervezeti egység szolgálati elöljárója azzal, hogy a túlszolgálat keretében ellátandó feladatokhoz közvetlenül kapcsolódó munkáltatói intézkedések kivételével a munkáltatói jogkör gyakorlójának személye változatlan.
+
+(24) Az önként vállalt túlszolgálat vállalásának és elszámolásának rendjét a miniszter rendeletben állapítja meg.
+
 #### 75. Készenlét és kiemelt készenlét
 
 141. § (1) A szolgálati elöljáró a hivatásos állomány tagját kötelezheti arra, hogy a szolgálatteljesítési időn kívül szolgálati érdekből, szolgálatképes állapotban olyan elérhető – szolgálati helyen kívüli – helyen tartózkodjon, ahonnan szolgálati feladatra bármikor igénybe vehető.
@@ -2261,6 +2331,10 @@ kell kiadni.
 - b) az örökbefogadó férfit
 
 kell érteni.
+
+145/A. § A hivatásos állományba tartozó nagyszülő unokája születése esetén öt munkanap – ikergyermekek esetében hét munkanap – pótszabadság igénybevételére jogosult, amelyet legkésőbb a születést követő második hónap végéig, a kérésének megfelelő időpontban kell kiadni.
+
+145/B. § A hivatásos állomány tagja részére első házassága megkötése alkalmából legkésőbb a házasságkötést követő második hónap végéig öt munkanap pótszabadság jár.
 
 146. § (1) A hivatásos állomány tagja a folyamatos és átlagon felüli fizikai, pszichikai igénybevételéből származó egészségkárosodás megelőzése, valamint a fizikai állóképességének megőrzése céljából a 143. § szerinti pótszabadságon felül tizennégy nap rekreációs célú pótszabadságra jogosult, ha
 
@@ -2461,7 +2535,9 @@ teljesíti szolgálatát.
 
 (2) Az (1) bekezdés alkalmazásában nem minősül szolgálatban eltöltött időnek a szolgálatból történő felfüggesztés és a szolgálati viszony szünetelésének időtartama, valamint az illetmény nélkül szabadság három évet meghaladó időtartama.
 
-157. § (1) A hivatásos pótlék a hivatásos állomány esküjében vállalt többletkötelezettségek és a szolgálati beosztással járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét a miniszter a rendvédelmi illetményalap 50–650%-a közötti értékben állapítja meg. (2) A hivatásos pótlék mértékének megállapításánál
+157. § (1) A hivatásos pótlék a hivatásos állomány esküjében vállalt többletkötelezettségek és a szolgálati beosztással járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét a miniszter a rendvédelmi illetményalap 50–1070%-a közötti értékben állapítja meg.
+
+(2) A hivatásos pótlék mértékének megállapításánál
 
 - a) a szolgálatellátás sajátosságaiból adódó valóságos és rendszeresen felmerülő – az életet, testi épséget, egészséget fenyegető – kockázatot,
 - b) a fegyverrel való szolgálatteljesítés, fegyverhasználattal vagy annak lehetőségével járó helyzetek gyakoriságát,
@@ -3262,7 +3338,7 @@ kell – a számvitelről szóló törvény szerinti értékcsökkenésre is tek
 
 (1a) Az országos parancsnokkal, országos főigazgatóval, valamint azok kinevezett helyettesével szemben a kártérítési felelősség megállapítására a miniszter jogosult.
 
-(2) Az állományilletékes parancsnok a kár felfedezése után intézkedni köteles a kár összegének és a károkozó személyének megállapítására. A kár összegének és a károkozó személyének megállapítását követő tizenöt napon belül az állományilletékes parancsnok megindítja a kártérítési eljárást (a továbbiakban: a kártérítési eljárás megindítása). Ha a károkozó magatartás miatt fegyelmi eljárás indult, a kárfelelősség vétkességi alapú megállapításával meg kell várni a fegyelmi eljárás jogerős befejezését, kivéve, ha a fegyelmi eljárás alá vont a károkozás tekintetében a vétkességét az eljárás alá vonti meghallgatása során elismerte.
+(2) Az állományilletékes parancsnok a kár felfedezése után intézkedni köteles a kár összegének és a károkozásban érintett személyének megállapítására. A kár összegének és a károkozásban érintett személyének megállapítását követő tizenöt napon belül az állományilletékes parancsnok megindítja a kártérítési eljárást (a továbbiakban: a kártérítési eljárás megindítása). Ha a károkozó magatartás miatt fegyelmi eljárás indult, a kárfelelősség vétkességi alapú megállapításával meg kell várni a fegyelmi eljárás jogerős befejezését, kivéve, ha a fegyelmi eljárás alá vont a károkozás tekintetében a vétkességét az eljárás alá vonti meghallgatása során elismerte.
 
 (3) A kártérítési eljárás során a tényállás megállapításával arra alkalmas, az ügyben érdektelen és elfogulatlan személyt kell megbízni. Ha a tényállás bonyolult, a kártérítési eljárás lefolytatására bizottságot kell kijelölni.
 
@@ -3286,7 +3362,12 @@ kell – a számvitelről szóló törvény szerinti értékcsökkenésre is tek
 
 (5) Ha a kártérítésre kötelezett a (3) bekezdés szerinti másodfokú határozattal vagy (4) bekezdés szerinti határozattal szemben nem él keresettel, a kártérítésre vonatkozó határozat végrehajtható.
 
-240. § (1) Az állományilletékes parancsnok a kártérítést utólag mérsékelheti, ha a kártérítésre kötelezett körülményeiben olyan változás következett be, amely a kártérítés méltányos csökkentését teszi indokolttá.
+240. § (1) Az állományilletékes parancsnok a kártérítést
+
+- a) a kártérítési eljárás alá vont indokolással ellátott kérelmére a méltánylást érdemlő személyi körülmények esetén mérsékelheti,
+- b) a kártérítésre kötelezett indokolással ellátott kérelmére utólag mérsékelheti, ha a kártérítésre kötelezett körülményeiben olyan változás következett be, amely a kártérítés méltányos csökkentését teszi indokolttá.
+
+(1a) A kérelem az (1) bekezdés a) pontja szerinti esetben legkésőbb a kártérítésre kötelező határozattal szemben nyitva álló jogorvoslati határidő lejártáig terjeszthető elő. Az (1) bekezdés b) pontja szerinti esetben a kártérítési határozat végrehajtását vagy önkéntes teljesítését követően kérelem nem terjeszthető elő.
 
 (2) Méltánylást érdemlő személyi körülményekre tekintettel az állományilletékes parancsnok a kártérítés levonását vagy végrehajtását elhalaszthatja, valamint részletfizetést engedélyezhet.
 
@@ -3389,13 +3470,15 @@ kezdődik.
 
 (2) Az (1) bekezdés alá nem tartozó esetekben a kártérítés megállapítása és kifizetése a miniszter által kijelölt szerv hatáskörébe tartozik.
 
-255. § (1) A kártérítési igényt az igénybejelentés beérkezésétől számított hatvan napon belül, a 253. §-ban, vagy a 254. § (2) bekezdésében meghatározott szervnek kell elbírálnia, és a döntést a károsulttal indokolt határozatban kell közölnie. Ha a kártérítési igény vagy annak mértéke alaptalan vagy részben alaptalan, az elbíráló szerv erről a károsultat azzal értesíti, hogy igényével bírósághoz fordulhat.
+255. § (1) A kártérítési igényt az igénybejelentés beérkezésétől számított hatvan napon belül, a 253. §-ban, vagy a 254. § (2) bekezdésében meghatározott szervnek kell elbírálnia, és a döntést a károsulttal indokolt határozatban kell közölnie. A kártérítési igényt elbíráló határozattal szemben a károsult bírósághoz fordulhat.
 
 (2) A határozat keresettel nem érintett részei jogerőre emelkednek.
 
-(3) Ha a kártérítési igény elbírálása olyan előzetes kérdéstől függ, amelynek tárgyában közigazgatási vagy polgári per, illetve szolgálati panasz elbírálására irányuló eljárás van folyamatban, a kártérítési eljárás ennek az eljárásnak a jogerős befejezéséig felfüggeszthető.
+(3) Ha a kártérítési igény elbírálása olyan előzetes kérdéstől függ, amelynek tárgyában közigazgatási vagy polgári per, illetve szolgálati panasz elbírálására irányuló eljárás van folyamatban, a kártérítési eljárás ennek az eljárásnak a jogerős befejezéséig, vagy ha a perben felülvizsgálati eljárást kezdeményeztek, e felülvizsgálati eljárás befejezéséig felfüggeszthető. Ha az előzetes kérdés tárgyában büntetőeljárás van folyamatban, a kártérítési eljárás ennek a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig felfüggeszthető.
 
 (4) Ha a kártérítési eljárás során a kár mértéke vitatott és emiatt a kár összegének vizsgálatára szakértő kirendelése válik szükségessé, a szakértői vizsgálat időtartamára az eljárás felfüggeszthető.
+
+(5) Az (1) bekezdésben megállapított határidőbe a felfüggesztés időtartama nem számít be.
 
 #### 105/A. Kártalanítás
 
@@ -3705,7 +3788,7 @@ kerülhet sor.
 
 280. § (1) Ahol e törvény hivatásos szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni:
 
-- a) a rendvédelmi szervnél szolgálati viszonyban töltött időt,
+- a) a rendvédelmi szervnél szolgálati viszonyban, szerződéses határvadász jogviszonyban töltött időt,
 - b) a rendvédelmi szervnél kormánytisztviselői, köztisztviselői, közalkalmazotti, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban töltött időt,
 - c) e törvény hatálya alá tartozó másik rendvédelmi szervnél szolgálati viszonyban, közalkalmazotti, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban töltött időt,
 - d) a Magyar Honvédség hivatásos és szerződéses katonai állományában töltött időt,
@@ -3717,7 +3800,7 @@ kerülhet sor.
 
 (2) Ahol e törvény tényleges szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni
 
-- a) a valamely rendvédelmi szervnél vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
+- a) a valamely rendvédelmi szervnél szolgálati viszonyban, szerződéses határvadász jogviszonyban vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
 - b) az e törvény hatálybalépése előtt az 1996. évi XLIII. törvény rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati időt.
 - c) a Nemzeti Adó- és Vámhivatalnál pénzügyőri státuszon létesített adó- és vámhatósági szolgálati jogviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
 
@@ -3746,7 +3829,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (2) A rendvédelmi tisztjelöltre e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(3) A rendvédelmi tisztjelölti jogviszonyra nem alkalmazható a 15. §, az 52–72. §, a 78. és 79. §, a 86–95. §, a 96–98. §, a 114–133. §, valamint a 154–178. §.
+(3) A rendvédelmi tisztjelölti jogviszonyra nem alkalmazható a 15. §, az 52–72. §, a 78. és 79. §, a 86–95. §, a 96–98. §, a 111–133. §, a 154–167. §, valamint a 169–178. §.
 
 #### 112. A rendvédelmi tisztjelölti jogviszony létesítése és megszüntetése
 
@@ -3836,6 +3919,8 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 (3) A rendvédelmi tisztjelölt pénzbeli járandóságait a rendvédelmi szerv havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
 
 (4) Nem jogosult illetményre a rendvédelmi tisztjelölt, ha a rendvédelmi tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+
+(5) Távolléti díj fejében a rendvédelmi tisztjelölt részére az alapilletmény, a tanulmányi díj, valamint az illetménypótlék együttes összegének távollét idejére számított időarányos átlaga jár.
 
 #### 115. A rendvédelmi tisztjelölt fegyelmi és kártérítési felelőssége
 
@@ -4272,7 +4357,7 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
 - c) az összeférhetetlenség megszüntetését elmulasztotta,
 - d) állami vezetővé nevezték ki,
-- e)
+- e) a foglalkozás végzéséhez szükséges engedély visszavonásra kerül.
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
@@ -4319,9 +4404,9 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - e) huszonöt év után öt hónappal,
 - f) harminc év után hat hónappal
 
-meghosszabbodik.
+meghosszabbodik. E tekintetben a 289/H. § szerinti szolgálati időt kell figyelembe venni.
 
-(3) Ha a rendvédelmi alkalmazott felmentésére kerül sor, felmentési idő nélkül kell megszüntetni az igazgatási jogviszonyát, ha a rendvédelmi alkalmazott nemzetbiztonsági szempontból alkalmatlanná vált.
+(3) Ha a rendvédelmi alkalmazott felmentésére kerül sor, felmentési idő nélkül kell megszüntetni az igazgatási jogviszonyát, ha a rendvédelmi alkalmazott nem felel meg a kifogástalan életvitel követelményének vagy nemzetbiztonsági szempontból alkalmatlanná vált.
 
 (4) A felmentés időtartamának felére a rendvédelmi alkalmazottat a munkavégzési kötelezettség teljesítése alól mentesíteni kell. Indokolt esetben a munkáltatói jogkört gyakorló a rendvédelmi alkalmazottat a teljes felmentési időre mentesítheti a munkavégzési kötelezettség teljesítése alól.
 
@@ -4385,6 +4470,7 @@ távolléti díjnak megfelelő összeg.
 
 - a) az igazgatási jogviszony megszűnésekor nyugdíjasnak minősül,
 - b) a felmentését maga kérte.
+- c) a felmentésére a kifogástalan életvitel követelményének való meg nem felelése vagy nemzetbiztonsági szempontból való alkalmatlansága miatt került sor.
 
 (6) Ha a rendvédelmi alkalmazott a munkavégzési kötelezettség teljesítése alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős foglalkoztatási jogviszonyt létesít,
 
@@ -4524,7 +4610,7 @@ távolléti díjnak megfelelő összeg.
 - b) a munkakör ellátásához szükséges gyakorlati tapasztalat, készségek és kompetenciák megléte,
 - c) a munkáltató által meghatározott szintű teljesítményértékelés.
 
-(3) A rendvédelmi alkalmazottat és a vezetőt az iskolai végzettség, a munkakör és az igazgatási jogviszonyban eltöltött idő alapján kell a 12. mellékletben megállapított illetménytábla megfelelő fizetési fokozatába sorolni.
+(3) A rendvédelmi alkalmazottat és a vezetőt az iskolai végzettség, a munkakör és az igazgatási jogviszonyban eltöltött idő alapján, a szolgálati idő figyelembevételével kell a 12. mellékletben megállapított illetménytábla megfelelő fizetési fokozatába sorolni.
 
 (4) A rendvédelmi alkalmazottat a 12. mellékletben megállapított illetménytábla szerinti fizetési fokozathoz tartozó szolgálati idő elérése esetén előre kell sorolni és illetményét meg kell állapítani.
 
@@ -4588,6 +4674,8 @@ távolléti díjnak megfelelő összeg.
 (4) A rendvédelmi alkalmazott alapilletményét úgy kell megállapítani, hogy annak összege elérje a munkakör besorolása szerinti fizetési fokozathoz tartozó alsó határt, de – az „F” munkaköri kategória kivételével – ne haladja meg annak felső határát.
 
 (5) A rendvédelmi alkalmazott a munkakör besorolása szerinti fizetési fokozathoz tartozó alsó határ szerinti alapilletményre alanyi jogon jogosult.
+
+(6) A fizetési fokozatokhoz tartozó illetmény 12. mellékletben meghatározott felső határának változása esetén a rendvédelmi alkalmazott alapilletményét – a 362/H. § d) pontja alapján megállapított illetményének változatlanul hagyása mellett – legfeljebb a felső határig lehet emelni, az emelés mértékével a korrekciós díjat csökkenteni kell.
 
 289/A. § (1) A munkaköri kategóriákhoz tartozó fizetési fokozatokat és az azokhoz tartozó illetmények alsó és – az „F” munkaköri kategória kivételével – felső határait a 12. melléklet tartalmazza.
 
@@ -4695,7 +4783,7 @@ távolléti díjnak megfelelő összeg.
 
 - a) a rendvédelmi szervnél
   - aa) igazgatási jogviszonyban,
-  - ab) szolgálati viszonyban,
+  - ab) hivatásos szolgálati viszonyban,
   - ac) közalkalmazotti jogviszonyban,
   - ad) kormányzati szolgálati jogviszonyban,
   - ae) igazságügyi alkalmazotti szolgálati jogviszonyban,
@@ -4800,6 +4888,68 @@ rendelhető el.
 - a) az igazgatási jogviszony év közben kezdődött,
 - b) határozott időre, illetve
 - c) részmunkaidőre jött létre.
+
+(10) A rendvédelmi alkalmazott – a (11) bekezdésben foglalt kivétellel – a (2) bekezdés a) és b) pontja szerinti munkaidőn túl önkéntes elhatározása alapján, a képzettségének, végzettségének, elméleti és gyakorlati felkészültségének megfelelő további túlmunkát vállalhat (a továbbiakban: önként vállalt túlmunka). Az önként vállalt túlmunka csak az e törvényben meghatározott túlmunkán kívül rendelhető el és időtartama alatt a rendvédelmi alkalmazott az e törvényből eredő munkavégzési kötelezettsége fennáll.
+
+(11) A szervezeti egység vezetője és helyettesei önként vállalt túlmunkát nem vállalhatnak.
+
+(12) Az önként vállalt túlmunka éves mértéke legfeljebb 150 óra, amelybe nem számít bele a (8) bekezdés szerinti időtartam.
+
+(13) Az önként vállalt túlmunka ellentételezéseként – a 289/N. § (1)–(2) bekezdésétől eltérően – a rendvédelmi alkalmazottat díjazás illeti meg. Díjazásként az önként vállalt túlmunka időtartamára a távolléti díj 150%-a, pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlmunka esetén a távolléti díj 200%-a jár, amelyet a túlmunka pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
+
+(14) A rendvédelmi alkalmazott önként vállalt túlmunka vállalására nem kényszeríthető, jogos érdeke ezzel összefüggésben nem csorbítható, érdekérvényesítési lehetősége nem korlátozható.
+
+(15) Az önként vállalt túlmunkáról a rendvédelmi szerv és a rendvédelmi alkalmazott megállapodást köt. A megállapodás megkötését a rendvédelmi alkalmazott kezdeményezi.
+
+(16) A megállapodás a rendvédelmi szerven belül bármely más szervezeti egység vezetőjével is megköthető, az ilyen megállapodásról a munkáltatói jogkör gyakorlót írásban tájékoztatni szükséges. A ténylegesen teljesítendő önként vállalt túlmunkához a rendvédelmi alkalmazott közvetlen vezetőjének előzetes hozzájárulására a (25) és (26) bekezdést alkalmazni kell. Az önként vállalt túlmunka során az eredeti munkakörbe nem tartozó feladatok ellátása nem minősül az igazgatási jogviszony módosításának.
+
+(17) Az önként vállalt túlmunkára irányuló megállapodást írásba kell foglalni, és – amennyiben a munkáltatói jogkör gyakorlóval kerül sor a megállapodás megkötésére – a személyügyi anyaggyűjtőbe kell helyezni. A megállapodást
+
+- a) határozatlan időre vagy
+- b) határozott időre, legalább a rendvédelmi alkalmazottra irányadó munkaidőkeret tartamára
+
+lehet megkötni.
+
+(18) Az önként vállalt túlmunkára irányuló megállapodásban
+
+- a) meg kell határozni egész órában kifejezve a rendvédelmi alkalmazott által önként vállalt túlmunka mértékét, és ezen belül az előre tervezetten beosztható és – amennyiben az annak elrendelésére alapot adó ok bekövetkezik – előre nem tervezett rendkívüli túlmunkára igénybe vehető önként vállalt túlmunka időtartamát,
+- b) meg kell határozni az önként vállalt túlmunkáért járó díjazást.
+
+(19) Az önként vállalt túlmunkára irányuló megállapodást a rendvédelmi alkalmazott a tárgyév június 30. napjával, valamint a tárgyév december 31. napjával, illetve munkaidőkeret alkalmazása esetén az időkeret utolsó napjával mondhatja fel.
+
+(20) A rendvédelmi alkalmazott a (19) bekezdéstől eltérő időpontban is felmondhatja a megállapodást, ha annak teljesítése – a megkötését követően bekövetkezett, illetve ismertté vált – személyi, családi vagy egyéb körülményeire tekintettel rá nézve aránytalan sérelemmel járna.
+
+(21) A rendvédelmi szerv az önként vállalt túlmunkáról nyilvántartást köteles vezetni, amely havonkénti bontásban tartalmazza:
+
+- a) azon rendvédelmi alkalmazott nevét, születési helyét, születési idejét, anyja születési nevét és az adóazonosító jelét, akivel önként vállalt túlmunkáról megállapodást kötött,
+- b) az a) pont szerinti foglalkoztatott által vállalt túlmunka órakeretét,
+- c) a vállalt órakeret terhére ténylegesen elrendelt rendkívüli munkavégzés időtartamát.
+
+(22) A rendvédelmi szerv az önként vállalt túlmunkáról szóló megállapodásról és a ténylegesen elrendelt önként vállat túlmunkáról tájékoztatást ad a rendvédelmi alkalmazottat foglalkoztató szervezeti egység egészségügyi szolgálata részére.
+
+(23) Az egészségügyi szolgálat vezetője az önként vállalt túlmunkát
+
+- a) a rendvédelmi alkalmazott egészségi állapotában, különösen teherbírásában vagy egyéb, szolgálatteljesítési képességét érintő személyi körülményében beállt változásra tekintettel vagy
+- b) az ellátottak biztonságával összefüggő okok alapján
+
+korlátozhatja vagy megtilthatja.
+
+(24) A rendvédelmi szerv vezetője a tárgyévet követő év január 31-ig statisztikai célú tájékoztatást ad a miniszter részére a tárgyévben:
+
+- a) az önként vállalt túlmunkára irányuló megkötött megállapodások számáról,
+- b) a megállapodások alapján ténylegesen elrendelt önként vállalt túlmunka mértékéről,
+- c) a (23) bekezdés alapján elrendelt korlátozások, illetve tiltások számáról és azok okáról.
+
+(25) Az önként vállalt túlmunka keretében történő munkavégzésre elsősorban az eredeti szervezeti egységnél kerül sor. Ha a munkavégzésre az eredeti munkavégzési helytől eltérő munkavégzési helyen vagy a (15) bekezdés szerint a rendvédelmi szerven belül bármely más szervezeti egység vezetőjével kötött megállapodás alapján kerül sor, az önként vállalt túlmunkához a rendvédelmi alkalmazott közvetlen vezetőjének előzetes hozzájárulása szükséges. A hozzájárulás megtagadása miatt a rendvédelmi alkalmazott kártérítési igényt nem támaszthat.
+
+(26) Ha az előzetes hozzájárulás megadását követően az eredeti szervezeti egységnél a (2) bekezdés a) és b) pontja szerinti munkaidőn túl túlmunka elrendelése szükséges, az önként vállalt túlmunka nem teljesíthető, amelyről a rendvédelmi alkalmazott és az önként vállalt túlmunkával érintett szervezeti egységet a munkáltatói jogkör gyakorló soron kívül tájékoztatja.
+
+(27) Az önként vállalt túlmunka időtartama alatt a rendvédelmi alkalmazott
+
+- a) munkavégzési helye azon szervezeti egység székhelye (telephelye) szerinti közigazgatási terület, amely az önként vállalt túlmunka keretében foglalkoztatja;
+- b) közvetlen vezetője az a) pont szerinti szervezeti egység vezetője azzal, hogy az önként vállalt túlmunka keretében ellátandó feladatokhoz közvetlenül kapcsolódó munkáltatói intézkedések kivételével a munkáltatói jogkör gyakorlójának személye változatlan.
+
+(28) Az önként vállalt túlmunka vállalásának és elszámolásának rendjét a miniszter rendeletben állapítja meg.
 
 #### 115/R. Ügyelet és készenlét
 
@@ -5092,7 +5242,7 @@ igénylése vagy igénybevétele miatt szüntették meg, a rendvédelmi szerv k�
 
 is alkalmazni kell.
 
-291. § (1) Az MRK a rendvédelmi szervek hivatásos állománya tagjainak, rendvédelmi igazgatási alkalmazottainak, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak önkormányzattal rendelkező rendvédelmi szakmai köztestülete.
+291. § (1) Az MRK a rendvédelmi szervek hivatásos állománya tagjainak, szerződéses határvadász tagjainak, rendvédelmi igazgatási alkalmazottainak, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak önkormányzattal rendelkező rendvédelmi szakmai köztestülete.
 
 (2) Az MRK kötelező tagsági viszony alapján működik. A rendvédelmi szervvel fennálló szolgálati viszony vagy rendvédelmi igazgatási szolgálati jogviszony, illetve a Nemzeti Adó- és Vámhivatallal fennálló szolgálati jogviszony alapján a hivatásos állomány tagja és a közalkalmazott, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottja az MRK tagjává válik.
 
@@ -5408,14 +5558,14 @@ egészségügyi tevékenységet végző személyre e törvényt az e fejezetben 
 
 317/B. § (1) A szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
 
-- a) a 154–158. § szerinti illetmény helyett az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. mellékletében meghatározott illetmény 106%-ára jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
+- a) a 154–158. § szerinti illetmény helyett az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. mellékletében meghatározott illetmény 106%-ára jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése és az Eszjtv. végrehajtásáról szóló kormányrendelet alapján részére meghatározott gyakorlati idő figyelembevételével,
 - b) részére a 180. § (2) bekezdése szerinti tanácsosi és főtanácsosi címpótlék nem folyósítható, azonban a cím használatára jogosult,
 - c) besorolása, rendfokozata, szolgálati ideje e törvény szerint kerül megállapításra,
 - d) esetében nem alkalmazható a 160. §, a 6., 8. és 9. mellékletben foglalt, a beosztási illetményt meghatározó szorzószám és a 10. melléklet.
 
 (2) A rendvédelmi igazgatási szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
 
-- a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
+- a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése és az Eszjtv. végrehajtásáról szóló kormányrendelet alapján részére meghatározott gyakorlati idő figyelembevételével,
 - b) esetében a 289/A. § nem alkalmazható azzal, hogy a rendvédelmi igazgatási szolgálati viszonyban álló e törvény szerinti fizetési fokozatát vezetni kell,
 - c) esetében nem alkalmazható a 289/D. § és a 12. melléklet.
 
@@ -5466,7 +5616,7 @@ jogosult.
 
 kell figyelembe venni.
 
-(4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében foglalt idők figyelembevételével kell megállapítani.
+(4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében és az Eszjtv. végrehajtásáról szóló kormányrendeletben foglalt idők figyelembevételével kell megállapítani.
 
 (5) Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztást és munkakört a középfokú, emeltszintű és felsőfokú végzettséghez kötött szakdolgozói szolgálati beosztásba vagy munkakörbe kell besorolni. Az egészségügyi szakdolgozói pótlék megállapításához szükséges szakdolgozói végzettség szintjeit a miniszter rendeletben határozza meg.
 
@@ -5499,6 +5649,245 @@ kell figyelembe venni.
 (3) A hivatásos állomány (1) bekezdés szerinti tagjának foglalkoztatására vonatkozó speciális szabályokat a miniszter állapítja meg. A költségvetési és társadalombiztosítási kötelezettségek teljesítése és a járandóságok tekintetében az érintett miniszterek együttesen kiadott közjogi szervezetszabályozó eszközben rendelkeznek.
 
 319. § A hivatásos állomány azon tagja részére, aki nemzetközi kötelezettség teljesítése vagy megállapodás alapján közös határ menti járőrszolgálati tevékenységet lát el, és ennek keretében külföldi szolgálati helyen teljesít szolgálatot, az állományilletékes parancsnok változó szolgálatteljesítési helyet állapít meg, azzal, hogy a szolgálatteljesítési hely külföldi szolgálatteljesítési hely is lehet.
+
+#### 124/A. A szerződéses határvadász jogviszonya
+
+319/A. § (1) Ezen alcím hatálya a szerződéses határvadászra (ezen alcím alkalmazásában a továbbiakban: határvadász) terjed ki.
+
+(2) A határvadászra e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni azzal, hogy
+
+- a) szolgálati viszonyon az ezen alcím szerinti szerződéses jogviszonyt,
+- b) hivatásos állomány tagján a határvadászt,
+- c) kinevezésen a jogviszonyt létesítő szerződés megkötését,
+- d) állományilletékes parancsnokon az általános rendőrségi feladatok ellátására létrehozott szerv azon szervezeti egységének vezetőjét, amely a jogviszonyt létesítő szerződést megkötötte,
+- e) szolgálati beosztáson a határvadász beosztást,
+- f) szolgálati elöljárón a határvadásszal szemben parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult, hivatásos szolgálati jogviszonyban álló személyt,
+- g) szolgálati jogviszonyra vonatkozó szabályon a szerződéses jogviszonyra vonatkozó szabályt
+
+kell érteni.
+
+(3) A határvadászra a 13. § (1) bekezdése, a 13. § (3)–(7) bekezdése, a 15. §, a 16. § (2) bekezdése, a 32–33. §, a 36–40. §, a 44–82. §, a 83–100. §, a 106–107. §, a 111–131. §, a 133. §, a 142–143. §, a 147–148. §, a 153–153/A. §, a 154–162. §, a 166. §, a 171. § (1) bekezdés c)–d) pontja, a 171. § (1) bekezdés f)–h) pontja, a 171. § (2) bekezdése, a 172–174/A. §, a 175. § (2)–(7) bekezdése, a 177. §, a 177/A. §, a 179. § (1) bekezdés h) pontja, a 180. §, a 265–266. §, a 277–290. §, a 317/A–317/D. §, a 320–339. § nem alkalmazható.
+
+(4) A határvadászra a 82/A–82/K. §-t azzal az eltéréssel kell alkalmazni, hogy a határvadász a rendvédelmi egészségkárosodási keresetkiegészítésre és rendvédelmi egészségkárosodási járadékra kilenc év szerződéses jogviszony után jogosult.
+
+(5) A határvadászra a 134. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy esetében a heti szolgálatteljesítési idő meghaladhatja a heti negyven órát, de a heti szolgálatteljesítési idő négyhavi átlagban a heti 48 órát nem haladhatja meg.
+
+(6) A határvadász esetében a 135. § (1) bekezdésétől eltérően – amennyiben a folyamatos szolgálatteljesítéshez, a helyszíni váltás biztosításához szükséges – a napi szolgálatteljesítési idő meghaladhatja a napi tizenkét órát, de a napi szolgálatteljesítési idő tizenhat óránál nem lehet hosszabb.
+
+319/B. § (1) A szerződéses jogviszony az általános rendőrségi feladatok ellátására létrehozott szerv és a határvadász között létrejött különleges jogviszony a határvadász feladat ellátása érdekében, amelyben mindkét felet a sajátos rendvédelmi körülményeknek megfelelő, a szerződéses jogviszonyra vonatkozó szabályban és más jogszabályban meghatározott kötelezettségek terhelik és jogosultságok illetik meg.
+
+(2) A határvadász a szerződéses jogviszonyból fakadó kötelezettségeit − az általános rendőrségi feladatok ellátására létrehozott szerv rendeltetés szerinti feladatainak megvalósítása érdekében − egyes alapjogai korlátozásának elfogadásával teljesíti.
+
+(3) Az általános rendőrségi feladatok ellátására létrehozott szerv a határvadász részére a (2) bekezdés szerinti kötelezettségeihez igazodó, azok teljesítéséhez szükséges feltételeket, a törvényben és ezen alcímben megállapított díjazást, juttatásokat és kedvezményeket biztosítja.
+
+319/C. § (1) Szerződéses jogviszony azzal az önként jelentkező, legalább alapfokú iskolai végzettséggel rendelkező, cselekvőképes magyar állampolgárral létesíthető,
+
+- a) aki a tizennyolcadik életévét betöltötte, de az ötvenötödik életévét még nem töltötte be,
+- b) aki vállalja, hogy az e törvény szerinti határvadász vizsgát sikeresen teljesíti,
+- c) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
+- d) aki megfelel a miniszter által meghatározott, a határvadász beosztásnak megfelelő egészségi, pszichológiai és fizikai alkalmassági követelményeknek,
+- e) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, hogy azt a szerződéses jogviszony létesítését megelőzően ellenőrizhetik,
+- f) aki tudomásul veszi, hogy szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti,
+- g) aki tudomásul veszi és elfogadja a szerződéses jogviszonyra vonatkozó szabályokban meghatározott kötelezettségeket, valamint
+- h) akinél nem állnak fenn a szerződéses jogviszony létesítését kizáró, a 41. § szerinti körülmények.
+
+(2) A szerződéses jogviszony létesítésekor az (1) bekezdés szerinti alkalmassági feltételeket az érintett igazolja.
+
+(3) A kifogástalan életvitel-ellenőrzés – a 42. és 43. § szerinti – szabályait a határvadász esetében az alábbi eltérésekkel kell alkalmazni:
+
+- a) a kifogástalan életvitel ellenőrzésére kizárólag a szerződéses jogviszony létesítését megelőzően kerülhet sor,
+- b) a kifogástalan életvitel ellenőrzését az általános rendőrségi feladatok ellátására létrehozott szerv vezetője által kijelölt személy (a továbbiakban: kezdeményező) kezdeményezi,
+- c) a kifogástalan életvitel-ellenőrzést az arra felhatalmazott szerv a kezdeményezéstől számított 10 napon belül lefolytatja,
+- d) a kifogástalan életvitel-ellenőrzés befejezésekor az arra felhatalmazott szerv határozathozatal nélkül, kizárólag az életvitel kifogásolhatóságát megalapozó körülmények fennállásáról vagy azok hiányáról tájékoztatja a kezdeményezőt,
+- e) a kifogástalan életvitel-ellenőrzés eredményétől függetlenül a szerződéses jogviszony – az állományilletékes parancsnok döntése alapján – létrehozható.
+
+319/D. § (1) A jogviszony szerződéssel, hároméves határozott időtartamra jön létre (a továbbiakban: szerződéses állományba vétel).
+
+(2) A szerződéses jogviszonyba kinevezett határvadász esküt tesz, amelynek szövege a következő:
+
+„Én ………………………… becsületemre és lelkiismeretemre fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek; jogszabályait megtartom és másokkal is megtartatom, szolgálati kötelezettségemet, ha kell, életem kockáztatásával is teljesítem; elöljáróim parancsainak engedelmeskedem, alárendeltjeimről legjobb tudásom szerint gondoskodom; Magyarország államhatárának védelme érdekében kötelezettségeimet betartom, hivatásomat, a magyar nemzet javára gyakorolom.
+
+(Az eskütevő meggyőződése szerint:) Isten engem úgy segéljen!”
+
+(3) Ha a határvadász az eskü letételét megtagadja, a szerződéses jogviszony létesítésére az érvénytelenség szabályait kell alkalmazni.
+
+(4) Az eskü letételéig a határvadász nem állítható szolgálatba.
+
+(5) A szerződéses jogviszony létesítéséről szóló szerződésnek tartalmaznia kell a szerződéses jogviszonyra vonatkozó minden lényeges adatot, így különösen a szerződéses jogviszony kezdetét, a határvadász szolgálati és szolgálatteljesítési helyét, rendfokozatát, illetményét, ruházati ellátási normáját, szolgálatteljesítési időrendjét, továbbá a próbaidő tartamát és ha szükséges, a képzettségek megszerzésére kötelezést.
+
+(6) Az (1) bekezdés szerinti szerződést, valamint a munkaköri leírást a határvadász részére legkésőbb a szolgálat első napján át kell adni egy példányban.
+
+(7) A munkáltatói jogkört gyakorló a tájékoztatási kötelezettségét a rendészetért felelős miniszter által kiadott rendeletben meghatározottak szerint teljesíti.
+
+(8) A szerződéses jogviszony létesítésekor hat hónapos próbaidőt kell kikötni.
+
+(9) A határvadász a próbaidő alatt a jogszabályban meghatározott illetményre és a szolgálat teljesítéséhez szükséges egyéb ellátásra jogosult.
+
+(10) A próbaidő alatt a szerződéses jogviszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti.
+
+(11) A szerződéses jogviszony közös megegyezéssel meghosszabbítható, legfeljebb további hároméves időtartamra.
+
+(12) Tömeges bevándorlás okozta válsághelyzet idején a meghosszabbított szerződéses jogviszony közös megegyezéssel a hosszabbítást követően – legfeljebb a tömeges bevándorlás okozta válsághelyzet megszűnését követő harmadik év végéig – meghosszabbítható határozott időtartamra.
+
+319/E. § (1) A határvadász szolgálati érdekből határvadász beosztásában való meghagyása mellett, beleegyezése nélkül az általános rendőrségi feladatok ellátására létrehozott szerv bármely szervezeti egységéhez és bármely helységbe határvadász feladat teljesítésére átrendelhető.
+
+(2) A más helységbe való átrendelések együttes időtartama naptári évenként a négy hónapot nem haladhatja meg. A négy hónap leteltétől számított hat hónapon belül újabb átrendelésre nem kerülhet sor.
+
+(3) Méltánylást érdemlő személyi vagy családi érdekből, illetve a határvadász kérelmére a (2) bekezdésben foglalt korlátozásoktól el lehet térni.
+
+319/F. § (1) A szerződéses jogviszony megszűnik
+
+- a) a határvadász halálával,
+- b) a 10. § (2) bekezdésében meghatározott esetben, ha az érvénytelen jognyilatkozat alapján jött létre,
+- c) a határozott idő leteltével, ha annak meghosszabbítására nem került sor,
+- d) a határvadász hivatásos állományba vételével.
+
+(2) A szerződéses jogviszony megszüntethető:
+
+- a) közös megegyezéssel,
+- b) lemondással,
+- c) a 319/D. § (1) bekezdése szerinti szerződés felbontásával,
+- d) azonnali hatályú lemondással,
+- e) azonnali hatállyal a próbaidő alatt.
+
+(3) A (2) bekezdés c) pontja szerinti szerződés felbontásának esetei:
+
+- a) létszámcsökkentés vagy átszervezés,
+- b) a határvadász feladat megszűnése,
+- c) a beosztás betöltésére alkalmatlanná válás,
+- d) nem megfelelő szolgálatteljesítés,
+- e) az általános rendőrségi feladatok ellátására létrehozott szerv által előírt képzési és ismeretmegújító vizsgakötelezettség nem teljesítése,
+- f) az összeférhetetlenség megszüntetésének elmulasztása,
+- g) a 185. § (1) bekezdés h) pontja szerinti fenyítés kiszabása,
+- h) a szerződéses jogviszony létesítését kizáró, a 41. § (1) bekezdése szerinti körülmények beállta,
+- i) méltatlanná válás.
+
+(4) A szerződéses jogviszony az állományilletékes parancsnok és a határvadász közös megegyezésével bármikor megszüntethető. A megszüntetést bármelyik fél kezdeményezheti, és azt indokolni nem kell.
+
+(5) A (4) bekezdés szerinti közös megegyezést írásba kell foglalni, amelyben rögzíteni kell a szerződéses jogviszony megszüntetésének napját, a határvadásznak és az általános rendőrségi feladatok ellátására létrehozott szervnek a szerződéses jogviszony megszüntetéséből eredő jogait és kötelezettségeit. A jogokban és kötelezettségekben való megegyezés nem feltétele a szerződéses jogviszony közös megegyezéssel történő megszüntetésének. A felek a megállapodástól csak közös akarattal térhetnek el.
+
+(6) A határvadász a szerződéses jogviszonyáról – a hadiállapot vagy a szükségállapot idejét kivéve – lemondhat.
+
+(7) A (6) bekezdés szerinti lemondás esetén a lemondási idő két hónap, de a felek ennél rövidebb időtartamban is megállapodhatnak, a lemondási idő azonban nem terjedhet túl a 319/D. § (1) bekezdése szerinti szerződésben meghatározott határozott időtartamon.
+
+(8) Aki a szerződéses jogviszonyáról lemondott, a lemondási idő elteltével elveszti a jogszabályban meghatározott, a volt határvadász részére a szolgálat alapján a szerződéses jogviszony megszűnését követően is biztosított jogosultságokat.
+
+(9) Ha a szolgálati elöljárója részéről a határvadászt a törvényben meghatározott jogaiban vagy emberi méltóságában olyan súlyos sérelem érte, amely miatt szerződéses jogviszonyának fenntartása nem várható el tőle, az arra okot adó körülmény megjelölésével azonnali hatályú lemondással élhet.
+
+(10) A (9) bekezdés szerinti azonnali hatályú lemondás esetén az arra okot adó körülmény meglétét a határvadásznak kell bizonyítania. Az ok megalapozatlansága esetén a határvadász köteles a (7) bekezdés szerinti lemondási időre járó illetménynek megfelelő összeget az általános rendőrségi feladatok ellátására létrehozott szervnek megtéríteni, és az esetlegesen felmerült kárért helytállni. Ha az azonnali hatályú lemondás oka és az azt megalapozó körülmények valósnak bizonyulnak, vagy a rendvédelmi szerv azt nem vitatja, az általános rendőrségi feladatok ellátására létrehozott szerv a határvadász részére a 319/D. § (1) bekezdése szerinti szerződésből hátralévő időtartamra járó alapilletményt köteles fizetni.
+
+(11) A 319/D. § (1) bekezdése szerinti szerződés
+
+- a) (3) bekezdés a) és b) pontja szerinti felbontása esetén, vagy
+- b) (3) bekezdés c) pontja szerinti felbontása esetén, ha az alkalmatlanság nem a határvadásznak felróható okból következett be,
+
+az általános rendőrségi feladatok ellátására létrehozott szerv a hátralévő időtartamra járó alapilletmény 50%-át köteles kifizetni a határvadász részére.
+
+319/G. § (1) A határvadász a határvadász feladatai ellátását akkor kezdheti meg, ha – az általános rendőrségi feladatok ellátására létrehozott szerv által meghatározott határidőn, de legfeljebb a szerződéses jogviszony létesítésétől számított kilencven napon belül – sikeres határvadász vizsgát tett
+
+- a) a törvényben részére meghatározott intézkedések és kényszerítő eszközök alkalmazásával kapcsolatos elméleti ismeretekből, azok gyakorlati alkalmazásából,
+- b) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben, valamint a Büntető Törvénykönyvről szóló törvényben – az államhatár védelméhez, valamint a hivatalos személy jogállásához kapcsolódóan – meghatározott rendelkezések ismeretéből,
+- c) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló európai parlamenti és tanácsi rendeletben meghatározott rendelkezések ismeretéből.
+
+(2) Az (1) bekezdés szerinti vizsga elméleti és gyakorlati részből áll, amelyet a határvadász a rendészetért felelős miniszter által rendeletben meghatározott képzésen sajátít el. A vizsga részletes tartalmi feltételeit, valamint a vizsgaszabályzatot a rendészetért felelős miniszter rendeletben állapítja meg.
+
+(3) Az e törvény szerinti képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek jegyzékét a rendészetért felelős miniszter rendeletben állapítja meg.
+
+(4) A határvadász az (1) bekezdésben meghatározott képzés elvégzését követően évente ismeretmegújító képzésen és vizsgán köteles részt venni, amelynek során a jogszabályi változásokból és azok gyakorlati alkalmazhatóságából, valamint a kényszerítő eszközök alkalmazásával kapcsolatos elméleti és gyakorlati ismeretekből tesz vizsgát.
+
+319/H. § (1) A határvadász az általános rendőrségi feladatok ellátására létrehozott szerv határvadász ezred kötelékében, a 319/D. § (1) bekezdése szerinti szerződés szerinti szervezeti egységnél szerződéses állományként, tisztesi rendfokozati jelzéssel teljesít szolgálatot.
+
+(2) A határvadász rendfokozata
+
+- a) a szerződéses állományba vétel napjától egy évig határvadász őrvezető,
+- b) a második évtől határvadász tizedes,
+- c) a harmadik évtől határvadász szakaszvezető.
+
+319/I. § (1) A határvadásznak meg kell felelnie a rendészetért felelős miniszter által meghatározott, a határvadász beosztásának megfelelő egészségi, pszichológiai és fizikai alkalmassági követelményeknek.
+
+(2) Az alkalmassági feltételeket a határvadász tudomására kell hozni, és az alkalmasságot rendszeresen ellenőrizni kell.
+
+(3) A határvadász kizárólag olyan vizsgálatra kötelezhető, amelyet az alkalmassági követelményeknek való megfelelés megállapítása érdekében jogszabály vagy közjogi szervezetszabályozó eszköz ír elő, és a vizsgálatot végző orvos vagy pszichológus, illetve – a fizikai alkalmasság vizsgálatakor – a felmérést végző szakmailag indokoltnak tart.
+
+(4) Ha a határvadász az előírt követelményeknek nem felel meg, határidő tűzésével az adott vizsgálatot meg kell ismételni.
+
+(5) Ha a határvadász a megismételt vizsgálaton sem felelt meg a követelményeknek, a 319/F. § (3) bekezdés c) pontja szerint kell eljárni.
+
+(6) Az egészségi, pszichológiai vagy fizikai alkalmasság megállapítására irányuló vizsgálat során keletkezett adat kezelésének célja
+
+- a) az alkalmasság felmérése és a határvadász alkalmasságának minősítése,
+- b) a szerződéses jogviszony létesítéséhez, fenntartásához, megszüntetéséhez az egészségi, pszichológiai vagy fizikai alkalmassági feltételek fennállásának megállapítása.
+
+(7) A (6) bekezdés alapján kezelhető adatnak minősül az alkalmasság felméréséhez és az alkalmassági minősítéshez felhasznált egészségi, pszichológiai és fizikai állapotra vonatkozó adat.
+
+(8) A (6) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adatokat a vizsgálatot végző orvos, pszichológus vagy sportszakember, továbbá e szakemberekből álló bizottság kezeli, az kizárólag részükre továbbítható.
+
+(9) A határvadász jogosult az egészségi vagy pszichológiai állapotára vonatkozó vizsgálat teljes dokumentációját megismerni, és kérelmére annak másolatát az általános adatvédelmi rendelet 15. cikk (3) bekezdésében foglaltak szerint rendelkezésére kell bocsátani.
+
+(10) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat továbbítható.
+
+(11) A (8) bekezdésben meghatározott adat a szerződéses jogviszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére továbbítható.
+
+(12) A (6) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adat és az egészségügyi adat a szerződéses jogviszony megszűnését követő tizedik év december 31-ig kezelhető. Ha a szerződéses jogviszony létesítésére nem kerül sor, a szerződéses jogviszony létesítését célzó alkalmassági vizsgálat során az egészségi, pszichológiai és fizikai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított két éven belül meg kell semmisíteni.
+
+(13) Ha az alkalmassági vizsgálatot végző a vizsgálat során kábítószer fogyasztására utaló körülményeket észlel, arról – kizárólag a felmerült gyanú tényének közlésével – az állományilletékes parancsnokot köteles értesíteni. Az állományilletékes parancsnok az így tudomására jutott egészségügyi adatot is jogosult kezelni. Az adatokat törölni kell, ha az adatok átvételét követő kilencven napon belül fegyelmi vagy büntetőeljárás nem indul.
+
+319/J. § (1) A 109. §-t azzal az eltéréssel kell alkalmazni, hogy a munkavégzéssel járó egyéb jogviszony létesítése akkor lehetséges, ha az nem ellentétes az általános rendőrségi feladatok ellátására létrehozott szerv feladataival, vagy nem veszélyezteti a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, vagy az általános rendőrségi feladatok ellátására létrehozott szerv tekintélyét.
+
+(2) A határvadász a munkavégzéssel járó egyéb jogviszony létesítését az állományilletékes parancsnoknak köteles bejelenteni.
+
+319/K. § (1) A határvadász évente az e szakasz szerinti alapszabadságra és pótszabadságra, továbbá a 144–146. § szerinti pótszabadságra jogosult.
+
+(2) A határvadász e törvényben meghatározott feltételekkel szülési és illetmény nélküli szabadságot vehet igénybe.
+
+(3) Az alap- és pótszabadság, valamint a szülési szabadság idejére távolléti díj jár.
+
+(4) A (3) bekezdésben foglaltaktól eltérően a szülési szabadság idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.
+
+(5) A határvadász alapszabadsága évi huszonöt munkanap.
+
+(6) A határvadászt évente pótszabadság illeti meg:
+
+- a) a szerződéses állományba vétel napjától egy évig 1 munkanap,
+- b) a második évtől 2 munkanap,
+- c) a harmadik évtől 3 munkanap.
+
+(7) Az általános rendőrségi feladatok ellátására létrehozott szerv a határvadász számára a betegség miatti keresőképtelenség időtartamára naptári évenként tizenöt munkanap betegszabadságot ad ki.
+
+(8) A betegszabadság tartamára a távolléti díj 100%-a jár.
+
+(9) A (7) bekezdésben foglaltaktól eltérően nem jár betegszabadság a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenség, valamint a várandósság miatti keresőképtelenség időtartamára.
+
+(10) Év közben kezdődő szerződéses jogviszony esetén a határvadász a betegszabadság arányos részére jogosult.
+
+319/L. § (1) A határvadász a szerződéses jogviszonya alapján alapilletményre, a (8) bekezdés szerinti pótlékra és határvadász szolgálati pótlékra jogosult. A határvadász szolgálati pótlék mértékét és folyósításának rendjét a rendészetért felelős miniszter rendeletben határozza meg.
+
+(2) Az illetményt száz forintra kerekítve kell megállapítani.
+
+(3) Az alapilletménynek el kell érnie a garantált bérminimum összegét.
+
+(4) A határvadász az állományilletékes parancsnok döntése alapján idegennyelv-tudási pótlékra jogosult, ha az idegennyelv-tudás a határvadász feladatának ellátásához szükséges.
+
+(5) Az idegennyelv-tudást az államilag elismert nyelvvizsga eredményét igazoló bizonyítvánnyal vagy azzal egyenértékű okirattal kell igazolni.
+
+(6) Az idegennyelv-tudási pótlék mértéke nyelvvizsgánként
+
+- a) komplex felsőfokú (C1) nyelvvizsga esetében a rendvédelmi illetményalap 50%-a, szóbeli vagy írásbeli nyelvvizsga esetében 25-25%-a,
+- b) komplex középfokú (B2) nyelvvizsga esetében a rendvédelmi illetményalap 30%-a, szóbeli vagy írásbeli nyelvvizsga esetében 15-15%-a,
+- c) komplex alapfokú (B1) nyelvvizsga esetében a rendvédelmi illetményalap 15%-a.
+
+(7) Ha a határvadász ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú vagy különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a határvadász magasabb mértékű pótlékra jogosult.
+
+(8) A határvadász a szolgálatteljesítési helyétől, idejétől és körülményeitől függően, a rendészetért felelős miniszter által kiadott rendeletben meghatározott feltételekkel és folyósítási rend szerint a következő pótlékra jogosult:
+
+- a) az éjszakai pótlék teljesített óránként a rendvédelmi illetményalap 0,5%-a, valamint
+- b) a készenléti pótlék teljesített óránként a rendvédelmi illetményalap 0,25%-a, kiemelt készenlét esetén 1%-a.
+
+(9) A (8) bekezdés a) és b) pontja szerinti pótlék a határvadász részére a pótlékkal elismert tevékenység tényleges kifejtésének idejére jár.
+
+319/M. § (1) A határvadász szerződéses jogviszonyból származó kötelezettségének vétkes megszegésére a XV. Fejezetet – az e §-ban foglalt eltérésekkel – kell alkalmazni.
+
+(2) A határvadász 181. § (1) bekezdése szerinti fegyelemsértése esetén a 181. § (3) és (4) bekezdése, a 184. § (4) bekezdése, a 185. § (1) bekezdés d)–g) pontja, valamint a 215. § nem alkalmazható.
 
 #### 125. Különleges foglalkoztatási állomány
 
@@ -5706,6 +6095,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 7. megállapítsa az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
 - 8. meghatározza a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét,
 - 9. megállapítsa a hivatásos állomány Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként részt vevő tagjának szolgálati viszonyára és sajátos jogállására vonatkozó rendelkezéseket,
+- 9a. meghatározza a nemzeti szakértőként a nemzetközi szervezet intézményeiben alkalmazott hivatásos állomány tagjának szolgálati viszonyára és sajátos jogállására vonatkozó szabályokat,
 - 10. meghatározza a szolgálati viszony szünetelésének eljárási rendjét,
 - 11. meghatározza a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat,
 - 12. megállapítsa az egyéni teljesítményértékelés kötelező elemeit és a teljesítményértékelés szintjeit, valamint a kötelező elemek alkalmazásához kapcsolódó eljárás részletes szabályait,
@@ -5783,6 +6173,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
   - a) a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel összefüggő szabályait, az alkalmazható szolgálati időrendszereket és azok kereteit,
   - b) a túlszolgálat, valamint a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, valamint a nyilvántartás szabályait, továbbá a túlszolgálat elszámolásának és a túlszolgálatért járó szabadidő kiadásának rendjét,
   - c) a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját, továbbá a rekreációs célú pótszabadságra jogosultság szempontjából figyelembe vehető, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások meghatározását,
+  - d) az önként vállalt túlszolgálat vállalásának és elszámolásának rendjét,
 - 21. meghatározza
   - a) az illetmény, illetményjellegű juttatások, pótlékok és egyéb juttatások megállapításának és folyósításának rendjét, a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét,
   - b) az egyes szolgálati beosztásokban a hivatásos pótlék mértékét,
@@ -5851,6 +6242,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - l) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait,
 - m) az egészségügyi és pszichológiai alapellátás igénybevételének módját.
 - n) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
+- o) az önként vállalt túlmunka vállalásának és elszámolásának rendjét.
 
 (2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
 
@@ -5873,11 +6265,40 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 342/D. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
 
+342/E. § Felhatalmazást kap a rendészetért felelős miniszter, hogy a szerződéses határvadászok tekintetében rendeletben határozza meg
+
+- 1. a ruházati ellátási normát, a rendszeresített egyenruha és egyenruházati termékek, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját,
+- 2. a szolgálati igazolvány adattartalmát és a szolgálati jelvénnyel történő ellátás rendjét,
+- 3. mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható a szerződéses határvadász abban, hogy azokat a szolgálatban magánál tartsa, valamint megállapítsa ezen korlátozás feltételeit és a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatának korlátozására vonatkozó szabályokat,
+- 4. a személyügyi igazgatás rendjét,
+- 5. a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok körét és a vizsgálat végrehajtásának szabályait,
+- 6. azon fertőző betegségek körét, amelyek esetében a határvadász beosztáshoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, és a kötelező védőoltás alóli mentesítésnek a részletes szabályait,
+- 7. a technikai ellenőrzés alkalmazásának feltételeit, az alkalmazható eszközök körét és a technikai ellenőrzés alkalmazására vonatkozó eljárási szabályokat,
+- 8. az egészségi, pszichológiai és fizikai alkalmasság követelményeit, az egészségi, pszichológiai és fizikai alkalmassági követelmények felmérésének keretszabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichológiai és fizikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
+- 9. a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást,
+- 10. a szolgálati lőfegyver ideiglenes bevonásának szabályait,
+- 11. a rendvédelmi egészségügyi és pszichológiai alapellátás igénybevételének módját és az igénybe vevők körét, továbbá a társadalombiztosítási szabályok szerinti ellátáson kívüli kiegészítő, térítéses egészségügyi szolgáltatás, valamint a szolgáltatás térítésének módját,
+- 12. a más keresőfoglalkozás bejelentésével, engedélyezésével, az összeférhetetlenség megszüntetésével és tilalma megszegése következményeivel kapcsolatos eljárást,
+- 13. a határvadász képzés részletes tartalmi elemeit, a határvadász vizsga részletes tartalmi feltételeit, a vizsgaszabályzatot, valamint a határvadász képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek jegyzékét, a határvadász képzés más rendészeti képzésbe történő beszámításának rendjét,
+- 14. a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel összefüggő szabályait, az alkalmazható szolgálati időrendszereket és azok kereteit,
+- 15. a túlszolgálat, valamint a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, valamint a nyilvántartás szabályait, továbbá a túlszolgálat elszámolásának és a túlszolgálatért járó szabadidő kiadásának rendjét,
+- 16. a szabadság nyilvántartásának és kiadásának rendjét, valamint a határvadászra irányadó munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját,
+- 17. az illetmény és pótlékok megállapításának és folyósításának rendjét,
+- 18. a juttatások, költségtérítések, kedvezmények, támogatások fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és visszatérítési kötelezettség esetén az elengedés részletes rendjét, a kedvezményes üdültetésben, az üdülési hozzájárulásban részesítés rendjét, feltételeit,
+- 19. a határvadász kiemelkedő munkavégzéséért vagy a feladatok hosszabb időn át történő eredményes végzéséért adható elismerésben részesítés feltételeit és rendjét,
+- 20. a természetbeni ellátás mértékét és feltételeit, az abban való részesítés, a megállapítás, a kifizetés, valamint a kiadás, az elszámolás, a visszatérítés rendjét,
+- 21. a fegyelmi eljárás rendjét,
+- 22. a kártérítési felelősséggel kapcsolatos eljárások részletes szabályait,
+- 23. a szociális és kegyeleti gondoskodás rendjét,
+- 24. a szolgálati panasz elbírálásának rendjét.
+
 343. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – 2015. július 1-jén lép hatályba.
 
 (2) A 284–289. § és a 11. melléklet 2016. július 1-jén lép hatályba.
 
 (3) A 369. § 2024. január 1-jén lép hatályba.
+
+(4) A 370. § 2024. január 1-jén lép hatályba.
 
 344. § (1) 2015. július 1. napjától folyamatosnak tekintendő e törvény szerinti szolgálati viszonya annak, aki 2015. június 30-án az 1996. évi XLIII. törvény alapján hivatásos szolgálati jogviszonyban állt.
 

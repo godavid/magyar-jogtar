@@ -210,8 +210,11 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 - b) elektronikus cigarettára,
 - c) utántöltő flakonra, patronra, nikotinmentes utántöltő flakonra,
 - d) dohányzást imitáló elektronikus eszközre,
-- e) dohányzást helyettesítő nikotintartalmú termékre, valamint
-- f) az új dohánytermék-kategóriák kiegészítő termékeire is megfelelően alkalmazni kell.
+- e) dohányzást helyettesítő nikotintartalmú termékre,
+- f) az új dohánytermék-kategóriák kiegészítő termékeire, valamint
+- g) a dohányzási célú gyógynövénytermékre
+
+is megfelelően alkalmazni kell.
 
 (6)
 
