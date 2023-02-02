@@ -66,7 +66,7 @@ lép.
 
 #### 3. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
-17. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 1. § n) pontjában az „és égési” szövegrész helyébe az „és hevítéssel, vagy égési” szöveg lép.
+#### 17. §
 
 #### 4. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
@@ -76,35 +76,11 @@ lép.
 
 #### 5. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény módosítása
 
-20. § A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 19. § (5) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek, és a 19. § (5) bekezdése a következő g) ponttal egészül ki:
-
-[Ha jogszabály másként nem rendelkezik az (1)–(4) bekezdésben foglaltakat a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben meghatározott]
-
-„e) dohányzást helyettesítő nikotintartalmú termékre,
-
-f) az új dohánytermék-kategóriák kiegészítő termékeire, valamint
-
-g) a dohányzási célú gyógynövénytermékre”
-
-[is megfelelően alkalmazni kell.]
+#### 20. §
 
 #### 6. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosítása
 
-21. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Magyarországon kizárólag e törvény betartásával folytatható
-
-- a) dohánytermék,
-- b) cigarettahüvely és cigarettapapír,
-- c) dohánylevél töltő,
-- d) elektronikus cigaretta,
-- e) utántöltő flakon, patron, nikotinmentes utántöltő flakon,
-- f) dohányzást imitáló elektronikus eszköz,
-- g) dohányzást helyettesítő nikotintartalmú termék,
-- h) az új dohánytermék-kategóriák kiegészítő termékeinek, valamint
-- i) a dohányzási célú gyógynövénytermék
-
-kiskereskedelme.”
+#### 21. §
 
 #### 22. §
 
@@ -136,58 +112,31 @@ kiskereskedelme.”
 
 #### 32. §
 
-33. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
-
-- a) az engedélyben vagy a kijelölési okiratban foglaltaktól eltér, továbbá ha az 1. § (1) bekezdésében felsorolt termékek üzletszerű értékesítésére vonatkozó vagy a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti jogszabályi rendelkezéseket megsérti,
-- b) az állammal szembeni kötelezettségét nem teljesíti,
-- c) a számára előírt nyilvántartási, adatszolgáltatási kötelezettségnek nem tesz eleget vagy hamis adatot közöl, vagy
-- d) a fiatalkorúak különös védelmére vonatkozó, a 16. §-ban foglalt szabályokat megsérti.”
+33. § (1)
 
 (2)
 
-34. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 34. §
 
-„(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a Hatóság 30 ezer forinttól
-
-- a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
-- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
-
-terjedő bírsággal sújtja.”
-
-35. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 23/A. §-a helyébe a következő rendelkezés lép:
-
-„23/A. § (1) Ha a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátó felé az e törvény által előírt – így különösen a dohánytermékek kiszolgálására vonatkozó – kötelezettségének nem tesz eleget, vagy a dohánytermék-kiskereskedőnek e törvénytől eltérően közvetlenül dohányterméket értékesít, akkor őt a Hatóság 30 ezer forinttól
-
-- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
-- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
-
-terjedő bírsággal sújtja.
-
-(2) Ha a dohánytermék-kiskereskedő a dohányterméket nem az e törvényben előírt módon szerzi be, akkor őt a Hatóság 5 milliótól 500 millió forintig terjedő bírsággal sújtja.”
+#### 35. §
 
 #### 36. §
 
-37. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 24/A. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) E törvénynek az egyes bányászati és gazdasági tárgyú törvények módosításáról szóló 2022. évi LXIV. törvénnyel (a továbbiakban: Módtv.5.) megállapított 11. § (1) bekezdésétől eltérően mindazok, akik a Módtv.5. 41. § 4. pontjának hatálybalépését megelőző napon jogszerűen forgalmaztak az 1. § (1) bekezdés i) pontja szerinti terméket, de a Módtv.5. 41. § 4. pontjának hatálybalépését követően erre a továbbiakban nem jogosultak, a még készleten lévő termékeiket a Módtv.5. 41. § 4. pontjának hatálybalépésétől számított 150 napig tovább forgalmazhatják azzal, hogy a Módtv.5. 41. § 4. pontjának hatálybalépését követően új terméket már nem szerezhetnek be.”
+#### 37. §
 
 #### 38. §
 
 #### 39. §
 
-40. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 28. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A Módtv.5. tervezetének 21. §-a, 37. §-a, 40. §-a, valamint a 41. § 4., 5., 15., 16. és 26. pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
+#### 40. §
 
 41. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
 
 - 1.
 - 2.
 - 3.
-- 4. 11. § (1) bekezdésében a „b)–h)” szövegrész helyébe a „b)–i)” szöveg,
-- 5. 11. § (4) bekezdésében a „b)–h)” szövegrész helyébe az „b)–i)” szöveg,
+- 4.
+- 5.
 - 6.
 - 7.
 - 8.
@@ -197,8 +146,8 @@ terjedő bírsággal sújtja.
 - 12.
 - 13.
 - 14.
-- 15. 15/D. § (6) bekezdésében a „d)–h)” szövegrész helyébe a „d)–i)” szöveg,
-- 16. 15/G. §-ában a „d)–h)” szövegrész helyébe a „d)–i)” szöveg,
+- 15.
+- 16.
 - 17.
 - 18.
 - 19.
@@ -208,78 +157,29 @@ terjedő bírsággal sújtja.
 - 23.
 - 24.
 - 25.
-- 26. 24/C. § c) pontjában a „d)–h)” szövegrész helyébe a „d)–i)” szöveg,
+- 26.
 - 27.
 - 28.
 
-42. § Hatályát veszti a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
-
-- a)
-- b)
-- c) 22. § (3) bekezdés záró szövegrészében a „Különös méltánylást érdemlő esetben a Hatóság a bírságot 50%-kal mérsékelheti.” szövegrész,
-- d)
-- e)
-- f)
+#### 42. §
 
 #### 7. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-43. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (4) bekezdés 1. és 2. pontja helyébe a következő rendelkezések lépnek:
-
-(E törvény alkalmazásában a dohánygyártmányok adóztatására vonatkozóan)
-
-„1. cigaretta:
-
-a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas és nem minősül szivarnak, szivarkának vagy hevített terméknek,
-
-b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüvelybe töltenek vagy cigarettapapír-lappal körbevesznek, és nem minősül hevített terméknek,
-
-c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) és b) pontban meghatározott kritériumoknak;
-
-2. dohánygyártmány: a cigaretta, a szivar, a szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, a hevített termék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és jogszabályban meghatározott hatóság által kiadott hatályos forgalombahozatali engedéllyel rendelkezik;”
-
-(2) A jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (4) bekezdése a következő 9b. ponttal egészül ki:
-
-(E törvény alkalmazásában a dohánygyártmányok adóztatására vonatkozóan)
-
-„9b. hevített termék:
-
-a) az olyan dohányrúd és a teljesen vagy részben rúdtól eltérő formájú kapszula, amely a használatához rendelt készülék segítségével hevítés által belélegezhető aeroszolt bocsát ki a dohány elégetése nélkül,
-
-b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) pontban meghatározott kritériumoknak;”
-
-(3) A jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (4) bekezdés 14. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában a dohánygyártmányok adóztatására vonatkozóan)
-
-„14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak, hevített terméknek vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.”
+#### 43. §
 
 #### 44. §
 
 #### 45. §
 
-46. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény 62. § (4) bekezdése a következő n) ponttal egészül ki:
-
-[A (3) bekezdés f) pontja szerinti mennyiség]
-
-„n) hevített termék esetében 800 darab.”
+46. § (1)
 
 (2)
 
-47. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 74. § (1) bekezdése a következő n) ponttal egészül ki:
+#### 47. §
 
-(Dohánygyártmányt és alkoholterméket csak zárjeggyel ellátva bocsáthat szabadforgalomba forgalmazási céllal az adóraktár engedélyese, importálhat az importáló és lehet belföldön forgalmazni, kivéve)
+#### 48. §
 
-„n) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott hevített terméket.”
-
-48. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 145. § (1) bekezdése a következő h) ponttal egészül ki:
-
-(A jövedéki adó mértéke)
-
-„h) a hevített termékre 35 forint darabonként (szálanként).”
-
-49. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 150. §-a a következő (36) bekezdéssel egészül ki:
-
-„(36) A 74. § rendelkezéseitől eltérően a jövedéki kiskereskedő és a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet folytató a zárjegy nélküli hevített terméket az Fdvtv. 24/A. § (14) bekezdésében meghatározott időpontig értékesítheti.”
+#### 49. §
 
 #### 50. §
 

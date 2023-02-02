@@ -118,13 +118,11 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 50. §
 
-51. § Az Nftv. 115. §-a a következő (35) bekezdéssel egészül ki:
-
-„(35) A Gábor Dénes Főiskola 2023. február 1-jétől Gábor Dénes Egyetem megnevezéssel, alkalmazott tudományok egyetemeként működik.”
+#### 51. §
 
 #### 52. §
 
-53. § Az Nftv. 1. melléklete helyébe az 1. melléklet lép.
+#### 53. §
 
 54. § Az Nftv.
 
@@ -321,86 +319,6 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 (2) A 8. alcím a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2022. évi LIX. törvényhez
-
-„1. melléklet a 2011. évi CCIV. törvényhez
-
-Magyarország államilag elismert felsőoktatási intézményei
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | I. EGYETEMEK |  |  |
-| 2 |  | I/A. Állami egyetemek |  |
-| 3 |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 4 |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 5 |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 6 |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 7 |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 8 |  | I/B. Nem állami egyetemek |  |
-| 9 |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 10 |  |  | Állatorvostudományi Egyetem, Budapest |
-| 11 |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 12 |  |  | Debreceni Egyetem, Debrecen |
-| 13 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 14 |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 15 |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 16 |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 17 |  |  | Közép-európai Egyetem, Budapest |
-| 18 |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 19 |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 20 |  |  | Magyar Testnevelési és Sporttudományi Egyetem, Budapest |
-| 21 |  |  | Miskolci Egyetem, Miskolc |
-| 22 |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 23 |  |  | Óbudai Egyetem, Budapest |
-| 24 |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 25 |  |  | Pannon Egyetem, Veszprém |
-| 26 |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 27 |  |  | Pécsi Tudományegyetem, Pécs |
-| 28 |  |  | Semmelweis Egyetem, Budapest |
-| 29 |  |  | Soproni Egyetem, Sopron |
-| 30 |  |  | Széchenyi István Egyetem, Győr |
-| 31 |  |  | Szegedi Tudományegyetem, Szeged |
-| 32 |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 33 | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 34 |  |  | Budapesti Gazdasági Egyetem, Budapest |
-| 35 |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 36 |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 37 |  |  | Edutus Egyetem, Tatabánya |
-| 38 |  |  | Gábor Dénes Egyetem, Budapest |
-| 39 |  |  | Gál Ferenc Egyetem, Szeged |
-| 40 |  |  | Kodolányi János Egyetem, Székesfehérvár |
-| 41 |  |  | Milton Friedman Egyetem, Budapest |
-| 42 |  |  | Neumann János Egyetem, Kecskemét |
-| 43 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 44 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 45 | III. FŐISKOLÁK |  |  |
-| 46 |  | III/A. Állami főiskolák |  |
-| 47 |  |  | Eötvös József Főiskola, Baja |
-| 48 |  | III/B. Nem állami főiskolák |  |
-| 49 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 50 |  |  | Adventista Teológiai Főiskola, Pécel |
-| 51 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 52 |  |  | Baptista Teológiai Akadémia, Budapest |
-| 53 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 54 |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 55 |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 56 |  |  | Egri Hittudományi Főiskola, Eger |
-| 57 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 58 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 59 |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 60 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 61 |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 62 |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 63 |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
-| 64 |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 65 |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
-| 66 |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 67 |  |  | Szent Pál Akadémia, Budapest |
-| 68 |  |  | Tomori Pál Főiskola, Budapest |
-| 69 |  |  | Veszprémi Érseki Főiskola, Veszprém |
-| 70 |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 71 |  |  | Wesley János Lelkészképző Főiskola, Budapest |
-
-”
 
 ### 2. melléklet a 2022. évi LIX. törvényhez
 

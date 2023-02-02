@@ -164,12 +164,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 76. §
 
-77. § A Tpvt. 62. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az összefonódás-bejelentés alapján indított versenyfelügyeleti eljárásért igazgatási szolgáltatási díjat kell fizetni, amelynek mértéke
-
-- a) a 67. § (4) bekezdés a) pontja alapján indított eljárásban, vagy ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, tizenkilencmillió forint,
-- b) az a) pont hatálya alá nem tartozó esetben négymillió forint.”
+#### 77. §
 
 #### 78. §
 
@@ -177,16 +172,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 80. §
 
-81. § A Tpvt. 78. § (1c) bekezdése helyébe a következő rendelkezés lép:
-
-„(1c) Az (1) bekezdés d) pontja szerinti bírság összege – az (1b) bekezdésre is figyelemmel – az összefonódás végrehajtásának időpontjától
-
-- a) az összefonódásra vonatkozó összefonódás-bejelentés megtételéig, amennyiben az összefonódás-bejelentésre kötelezett az összefonódás bejelentését megelőzően a 43/L. § szerinti előzetes egyeztetést kezdeményezett, akkor ennek időpontjáig,
-- b) ha az a) pont nem alkalmazható,
-  - ba) az összefonódás vizsgálatára irányuló versenyfelügyeleti eljárásnak a 67. § (3) bekezdése szerinti megindításáig, vagy
-  - bb) amennyiben a végrehajtásra az összefonódás-bejelentés elintézésével kapcsolatos eljárás vagy a versenyfelügyeleti eljárás alatt kerül sor, a határozat meghozataláig
-
-számított legfeljebb napi háromszázezer forint. A bírság összegének számításakor a 25. § szerinti átmeneti időszakot figyelmen kívül kell hagyni.”
+#### 81. §
 
 #### 82. §
 

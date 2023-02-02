@@ -134,7 +134,7 @@ a hulladékgazdálkodással összefüggő egyes törvények módosításáról
 
 - 1.
 - 2.
-- 3. 12. § (1c) bekezdésében a „megkeresésére” szövegrész helyébe a „felhívására” szöveg,
+- 3.
 - 4.
 - 5.
 - 6.
