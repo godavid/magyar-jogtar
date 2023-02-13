@@ -429,13 +429,29 @@ lép.
 
 (5)
 
-149. §
+149. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 7. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-150. §
+(Az adófizetési kötelezettség keletkezésének időpontja)
+
+„a) az (1) bekezdés b) pontja szerinti esetben az az időpont, amikor a jövedéki terméket a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő átveszi,”
+
+150. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 9. § (4) és (4a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) Az állami adó- és vámhatóság
+
+a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség minősül a 3. § (1) bekezdés 45. pont a) alpontja szerint teljesen megsemmisültnek vagy helyrehozhatatlanul károsodottnak,
+
+b) legfeljebb az Európai Unió kötelező jogi aktusában vagy ennek eltérő rendelkezése hiányában a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
+
+(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában a végrehajtási rendeletben vagy a Btv. végrehajtására kiadott jogszabályban meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.”
 
 151. §
 
-152. §
+152. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 31. alcíme helyébe a következő rendelkezés lép:
+
+„31. Exportáló, tagállamba feladó kisüzemi bortermelő
+
+42. § A csendes bort, saját előállítású csendes borból előállított palackos erjesztésű habzóbort exportáló vagy másik tagállamba feladó kisüzemi bortermelőt az állami adó- és vámhatóság nyilvántartásba veszi.”
 
 153. §
 

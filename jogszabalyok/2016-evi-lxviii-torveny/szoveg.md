@@ -27,33 +27,34 @@ a jövedéki adózás szabályairól a következő törvényt alkotja:
 
 az e törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott eltéréssel az Art.-ot, az adóigazgatási rendtartásról szóló törvényt (a továbbiakban: Air.) és az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényt kell alkalmazni.
 
-(2) A vámfelfüggesztési eljárás alatt álló jövedéki termékre e törvény adózatlan jövedéki termékek engedéllyel történő előállítására és tárolására, valamint a jövedéki termékek adófelfüggesztési eljárás keretében történő szállítására vonatkozó rendelkezései nem alkalmazandóak.
+(2) Az Uniós Vámkódex létrehozásáról szóló 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 952/2013/EU rendelet) 5. cikk 24. pontjában meghatározott nem uniós áruk vámjogi státuszával rendelkező jövedéki termékre e törvény adózatlan jövedéki termékek engedéllyel történő előállítására és tárolására, a jövedéki termékek adófelfüggesztési eljárás keretében történő szállítására és a szabadforgalomba bocsátott jövedéki termékek szállítására és adóztatására vonatkozó rendelkezéseit nem kell alkalmazni.
 
 #### 2. Értelmező rendelkezések
 
 3. § (1) E törvény alkalmazásában
 
 - 1. adó: a jövedéki termékek után fizetendő jövedéki adó és a dohánygyártmányok általános forgalmi adója;
-- 2. adófelfüggesztési eljárás: a jövedéki termék vámfelfüggesztési eljáráson kívüli előállítására, tárolására vagy szállítására alkalmazott, az adófizetési kötelezettséget felfüggesztő adóeljárás;
-- 3. adómentességi igazolás: a jövedéki adómentességi igazolásról szóló 1996. január 10-i 31/96/EK bizottsági rendelet mellékletében közzétett okmány;
-- 4. adóraktár: az adóraktár engedélyese által működtetett, jövedéki termék adófelfüggesztési eljárás keretében történő előállítására, tárolására, felhasználására más termék előállításához, feladására és átvételére szolgáló,
-  - a) belföldön fizikailag, így különösen fallal, kerítéssel, mérési ponttal elkülönített, egy technológiai egységet képező üzem, raktár, amely megfelel az e törvényben meghatározott feltételeknek,
-  - b) egy másik tagállam illetékes hatósága által az adóraktár engedélyezésére meghatározott feltételeknek megfelelő hely;
+- 2. adófelfüggesztési eljárás: a jövedéki termék előállítására, birtoklására, tárolására vagy szállítására alkalmazott, az adófizetési kötelezettséget felfüggesztő adóeljárás;
+- 3. adómentességi igazolás: az (EU) 2020/262 tanácsi irányelvnek a jövedéki termékek adófelfüggesztés melletti szállításához és szabad forgalomba bocsátást követő szállításához kapcsolódó okmányhasználat tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az adómentességi igazoláshoz használandó űrlap meghatározásáról szóló, 2022. július 5-i (EU) 2022/1637 bizottsági végrehajtási rendelet mellékletében közzétett okmány;
+- 4. adóraktár: az adóraktár engedélyese által működtetett, jövedéki termék adófelfüggesztési eljárás keretében történő előállítására, birtoklására, tárolására, felhasználására más termék előállításához, feladására és átvételére, továbbá másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal belföldre feladott jövedéki termék átvételére és szabadforgalomba bocsátott jövedéki termék, kereskedelmi céllal másik tagállamba történő feladására szolgáló,
+  - a) fizikailag, így különösen fallal, kerítéssel, mérési ponttal elkülönített, egy technológiai egységet képező, belföldön található üzem, raktár, amely megfelel az e törvényben meghatározott feltételeknek,
+  - b) egy másik tagállam jogszabálya vagy illetékes hatósága által az adóraktár engedélyezésére meghatározott feltételeknek megfelelő hely;
 - 5. adóraktár engedélyese: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által az adóraktár működtetésére kiadott engedéllyel rendelkező személy;
-- 6. AHK-szám: az e-TKO egyedi adminisztratív hivatkozási kódja;
+- 6. AHK-szám: az e-TKO és az e-EKO egyedi adminisztratív hivatkozási kódja;
 - 7. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló Korm. rendelet szerinti támogatás;
-- 8. bejegyzett feladó: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában harmadik országból behozott jövedéki terméket adófelfüggesztési eljárás keretében feladni jogosult személy;
-- 9. bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki termék átvételére jogosult személy;
+- 8. bejegyzett feladó: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában harmadik országból behozott jövedéki terméket adófelfüggesztési eljárás keretében, valamint szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki terméket másik tagállamba feladni jogosult személy;
+- 9. bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki termék, valamint másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki termék átvételére jogosult személy;
 - 10. csomagküldő kereskedelem: szabadforgalomba bocsátott jövedéki termék másik tagállamba magánszemélynek vagy független gazdasági tevékenységet nem folytató személynek, közvetlen vagy megbízott útján megvalósuló szállítással történő értékesítése, figyelemmel a termékre vonatkozó jogszabály által előírt korlátozásokra;
 - 11. csomagküldő kereskedő: csomagküldő kereskedelmet folytató személy;
 - 12. diplomáciai és konzuli képviselet tagja: a magyar állampolgárt vagy az állandó belföldi tartózkodásra jogosult személyt kivéve
   - a) az 1965. évi 22. törvényerejű rendelettel kihirdetett, a diplomáciai kapcsolatokról szóló egyezmény 1. cikk e) és f) pontja alá tartozó természetes személy, valamint az 1987. évi 13. törvényerejű rendelettel kihirdetett, a konzuli kapcsolatokról szóló egyezmény 1. cikk c)–e) pontja alá tartozó természetes személy feltéve, hogy az illetőt a fogadó állam arra jogosító hatósága ilyen minőségében elismeri, továbbá
   - b) az a családtag, aki az a) pontban megjelölt személlyel igazoltan közös háztartásban él, feltéve, hogy az illetőt a fogadó állam arra jogosított hatósága ilyenként elismeri;
-- 13. EKO: a feladási tagállamban szabadforgalomba bocsátott jövedéki termékek Közösségen belüli szállításának egyszerűsített kísérőokmányáról szóló, 1992. december 17-i 3649/92/EGK bizottsági rendelet szerinti követelményeknek megfelelő okmány;
-- 14. elektronikus átvételi elismervény: az e-TKO-val feladott jövedéki termék címzettje által a jövedéki termék átvételéről az uniós számítógépes rendszerben kiállított, a 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról szóló, 2009. július 24-i 684/2009/EK bizottsági rendeletben (a továbbiakban: 684/2009/EK rendelet) meghatározott adattartalmú elektronikus okmány;
-- 15. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön az állami adó- és vámhatóság) által az uniós számítógépes rendszerben kiállított, a 684/2009/EK rendeletben meghatározott adattartalmú elektronikus okmány;
-- 16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket egy alkalommal átvenni jogosult személy;
-- 17. e-TKO: az uniós számítógépes rendszerben a jövedéki termék feladója által kiállított, AHK-számmal ellátott elektronikus okmány;
+- 13. e-EKO: szabadforgalomba bocsátott jövedéki termék feladója által az uniós számítógépes rendszerben kiállított, AHK-számmal ellátott elektronikus okmány;
+- 14. elektronikus átvételi elismervény: az e-TKO-val vagy e-EKO-val feladott jövedéki termék címzettje által a jövedéki termék átvételéről az uniós számítógépes rendszerben kiállított elektronikus okmány;
+- 15. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön az állami adó- és vámhatóság) által az uniós számítógépes rendszerben kiállított elektronikus okmány;
+- 16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély, másik tagállam illetékes hatóságának bejegyzése birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket, valamint másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki terméket egy alkalommal átvenni jogosult személy;
+- 16a. eseti igazolt feladó: az állami adó- és vámhatóság által kiadott engedély vagy egy másik tagállam illetékes hatóságának bejegyzése birtokában a szabad forgalomba bocsátott jövedéki terméket másik tagállamba kereskedelmi céllal egy alkalommal feladni jogosult személy;
+- 17. e-TKO: adófelfüggesztési eljárás alatt álló jövedéki termék feladója által az uniós számítógépes rendszerben kiállított, AHK-számmal ellátott elektronikus okmány;
 - 17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
 - 18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe, Észak-Írország, valamint Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia), azzal az eltéréssel, hogy
   - a) nem tekintendők a tagállamhoz tartozónak aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
@@ -68,7 +69,7 @@ jogosult személy;
 - 20. harmadik ország: az Európai Unión kívül található állam és terület;
 - 21. hatósági zár: az állami adó- és vámhatóság által a raktárhelyiségen, tárolótartályon, mérőműszeren, egyéb berendezésen, tárgyon, szállítóeszközön, csomagon, mintán elhelyezett ólomzár, műanyag biztonsági plomba, pecsétzár, szalagzár, függőpecsét;
 - 22. háztartás: az egy lakásban életvitelszerűen együtt élő, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége;
-- 23. importálás: jövedéki terméknek harmadik országból közvetlenül vagy másik tagállam(ok)on keresztül belföldre történő behozatala azzal, hogy ha a jövedéki termék vámfelfüggesztési eljárás keretében lép be belföldre, az importálás a vámfelfüggesztési eljárásnak a jövedéki termék vámjogi szabad forgalomba bocsátását eredményező lezárásával egyidejűleg valósul meg;
+- 23. importálás: a jövedéki termékek vámjogi szabadforgalomba bocsátása a 952/2013/EU rendelet 201. cikkével összhangban;
 - 24. importálás helye: az a hely, ahol a jövedéki termék a vámjogi szabad forgalomba bocsátásakor van;
 - 25. importáló: az a személy, aki először szerez jogot arra, hogy az importált termék felett saját nevében rendelkezzen, vagy ilyen személy hiányában az, aki az adófizetési kötelezettség keletkezésének időpontjában az importált jövedéki terméket birtokolja, függetlenül a birtokos tudattartalmától;
 - 26. jövedéki engedélyes kereskedő: a 67. § (1) bekezdése szerinti tevékenységet folytató személy;
@@ -96,7 +97,8 @@ jogosult személy;
   - a) jövedéki termék adófelfüggesztési eljárás alóli kikerülése, ideértve a szabálytalanság esetét is,
   - b) adózatlan jövedéki termék adófelfüggesztési eljáráson kívüli birtoklása, a birtokos tudattartalmától függetlenül,
   - c) jövedéki termék adófelfüggesztési eljáráson kívüli előállítása, ideértve a szabálytalanság esetét is,
-  - d) jövedéki termék importálása, ideértve a szabálytalanság esetét is, kivéve ha a jövedéki termék adófelfüggesztési eljárás alá kerül;
+  - d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján kiegyenlítésre került;
+- 43a. szabálytalan behozatal: olyan jövedéki terméknek az Európai Unió területére való behozatala, amelyeket nem bocsátottak a 952/2013/EU rendelet 201. cikkével összhangban szabad forgalomba, és amelyekre vonatkozóan a 952/2013/EU rendelet 79. cikk (1) bekezdésével összhangban vámtartozás keletkezett, illetve keletkezett volna, ha az áruk vámkötelesek lennének;
 - 44. szabálytalanság: ha
   - a) az adófelfüggesztési eljárás keretében végzett szállítás nem az 53. § (3) bekezdése szerint fejeződik be, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
   - b) az adófelfüggesztési eljárás keretében végzett szállítás során a fuvarszervezési okból megvalósuló szállítójármű-váltás az 54. § (8) bekezdés rendelkezéseinek megsértésével történik,
@@ -104,12 +106,12 @@ jogosult személy;
   - d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék, a 17. § (1) bekezdés a)–b) és d) pontja szerinti készletfelvétel során az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett megállapított hiány és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
   - e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
   - f) a jövedéki terméket a 19. § megsértésével állítják elő,
-  - g) a jövedéki terméket harmadik országból a vámjogszabályok megsértésével hozzák be belföldre;
+  - g) a jövedéki terméket harmadik országból szabálytalan behozatal során hozzák be belföldre;
   - h) a 9. § (1) bekezdés m) pontja szerint külföldre kiszállított dohányzást helyettesítő nikotintartalmú termék kiszállításának végrehajtási rendelet szerinti igazolása a kiszállítást követő 121. napon nem áll rendelkezésre;
 - 45. teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék:
   - a) a baleset vagy – a lopás esetét kivéve – elháríthatatlan ok miatt megsemmisült vagy jövedéki termékként használhatatlanná vált jövedéki termék,
   - b) a termék tulajdonságaiból adódó, elismert mennyiségű hiány;
-- 46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló, 2003. július 16-ai 1152/2003/EK európai parlamenti és tanácsi határozattal létrehozott, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;
+- 46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló 2020. január 15-i 2020/263/EU európai parlamenti és tanácsi határozat szerinti, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;
 - 47. üzemanyag: – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű, nem közúti járművek üzemanyagaként kínált, értékesített vagy felhasznált 2710 12 41 KN-kód szerinti termék kivételével – a benzin, az üzemanyag célú gázolaj, – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – LPG, a biodízel, a bioüzemanyag, az üzemanyag célú földgáz és az E85;
 - 48. üzemi motorikusgáztöltő-állomás: a mérésügyi szerv által hitelesített kútoszloppal és a hatáskörrel rendelkező hatóság által engedélyezett tárolótartállyal ellátott, az LPG kizárólag nem közúti járművekben, üzemen belüli felhasználás céljából történő kiszolgálását végző felhasználói hely;
 - 49. üzemi motorikusgáztöltő-állomás üzemeltetője: az üzemi motorikusgáztöltő-állomás üzemeltetője, valamint az üzemi motorikusgáztöltő-állomás üzemeltetőjével egy telephelyen működő, annak e termék tárolására szolgáló tartályát szerződés alapján használó személy;
@@ -121,7 +123,7 @@ jogosult személy;
 üzemzavar, amely meggátolja az uniós számítógépes rendszer használatát;
 
 - 51. vagyoni hátrány: az e törvényben és a végrehajtási rendeletben foglalt kötelezettség megszegésével az állami költségvetésnek okozott adóbevétel-kiesés és a jogosulatlan adó-visszaigénylés;
-- 52. vámfelfüggesztési eljárás: az Uniós Vámkódex létrehozásáról szóló 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 226. cikke szerinti külső árutovábbítás, VII. cím 3. fejezete szerinti tárolás, 250–253. cikke szerinti ideiglenes behozatal és 256–258. cikke szerinti aktív feldolgozás bármelyike;
+- 52.
 - 53. zárjegy: a zárjegyköteles jövedéki termék legkisebb fogyasztói csomagolási egységére felhelyezett bélyeg;
 - 54. zárjegyhiány: azon zárjegyek mennyisége, amellyel a zárjegyet átvevő személy nem tud elszámolni;
 - 55. zárjegyköteles jövedéki termék: a 74. § (1) bekezdés szerinti termék.
@@ -307,7 +309,7 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 6. § Adókötelezettség keletkezik, ha
 
 - a) a jövedéki terméket belföldön előállítják,
-- b) a jövedéki terméket importálják,
+- b) a jövedéki terméket importálják vagy szabálytalanul behozzák,
 - c) másik tagállamban szabadforgalomba bocsátott jövedéki terméket a 62. § szerinti kereskedelmi céllal vagy csomagküldő kereskedelem keretében belföldre szállítják, vagy
 - d) másik tagállamban szabadforgalomba bocsátott jövedéki termék kereskedelmi célú vagy csomagküldő kereskedelem keretében végzett szállítása során a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanságot belföldön követik el.
 
@@ -342,7 +344,7 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 
 (3) Az adófizetési kötelezettség keletkezésének időpontja
 
-- a) az (1) bekezdés b) pontja szerinti esetben az az időpont, amikor a jövedéki termék belföldre megérkezik,
+- a) az (1) bekezdés b) pontja szerinti esetben az az időpont, amikor a jövedéki terméket a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő átveszi,
 - b) az (1) bekezdés c) pontja szerinti esetben az az időpont, amikor a jövedéki terméket a címzett átveszi,
 - c) az (1) bekezdés d) pontja szerinti esetben az az időpont, amikor a szabálytalanság az állami adó- és vámhatóság tudomására jut,
 - d) az (1) bekezdés e) pontja szerinti esetben az az időpont, amikor a terméket előállítják, kínálják, értékesítik vagy felhasználják,
@@ -355,7 +357,7 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 
 8. § (1) Az adófizetési kötelezettség a
 
-- a) 7. § (1) bekezdés b) pontja szerinti esetben a jövedéki termék EKO-n feltüntetett címzettjét, ennek hiányában a jövedéki termék birtokosát,
+- a) 7. § (1) bekezdés b) pontja szerinti esetben a jövedéki termék e-EKO-n feltüntetett címzettjét, ennek hiányában a jövedéki termék birtokosát,
 - b) 7. § (1) bekezdés c) pontja szerinti esetben a csomagküldő kereskedőt,
 - c) 7. § (1) bekezdés d) pontja szerinti esetben a szállításra a jövedéki biztosítékot nyújtó személyt és a szabálytalanság elkövetésében résztvevő személyt,
 - d) 7. § (1) bekezdés e) pontja szerinti esetben az energiatermék üzemanyagkénti, üzemanyagok adalékakénti, hígítóanyagakénti vagy fűtőanyagkénti kínálóját, értékesítőjét vagy felhasználóját,
@@ -374,7 +376,7 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
   - ob) a 3. § (1) bekezdés 44. pont d) alpontjában meghatározott szabálytalanság esetében az adóraktár engedélyesét,
   - oc) a 3. § (1) bekezdés 44. pont e) alpontjában meghatározott szabálytalanság esetében a jövedéki termék birtokosát és minden olyan személyt, aki a szabálytalan tárolásban részt vesz,
   - od) a 3. § (1) bekezdés 44. pont f) alpontjában meghatározott szabálytalanság esetében a jövedéki termék előállítóját és minden olyan személyt, aki a szabálytalan előállításban részt vesz,
-  - oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt,
+  - oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan behozatalban résztvevő személyt,
   - of) a 3. § (1) bekezdés 44. pont h) alpontjában meghatározott szabálytalanság esetében az adóraktár engedélyesét,
 - p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt
 - q) 7. § (2) bekezdés j) pontja szerinti esetben a bejelentőt
@@ -413,12 +415,12 @@ terheli.
 - b) feltárja az eset körülményeit az állami adó- és vámhatóság vizsgálatáig,
 - c) gondoskodik a helyszín biztosításáról és a további megsemmisülés megakadályozásáról.
 
-(4) Belföldön az állami adó- és vámhatóság
+(4) Az állami adó- és vámhatóság
 
 - a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség minősül a 3. § (1) bekezdés 45. pont a) alpontja szerint teljesen megsemmisültnek vagy helyrehozhatatlanul károsodottnak,
-- b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
+- b) legfeljebb az Európai Unió kötelező jogi aktusában vagy ennek eltérő rendelkezése hiányában a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
 
-(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
+(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában a végrehajtási rendeletben vagy a Btv. végrehajtására kiadott jogszabályban meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
 
 (5) Az állami adó- és vámhatóság a (4) bekezdés a) pontja szerinti döntéséről, ha a jövedéki termék feladója nem belföldi személy, kérésre tájékoztatja a jövedéki termék feladóját és a feladás helye szerinti tagállam illetékes hatóságát.
 
@@ -455,9 +457,9 @@ terheli.
 - a) az a személy, aki adózott jövedéki terméket exportál,
 - b) az adóraktár engedélyese a fogyasztásra alkalmatlanná vált és megsemmisített vagy jövedéki termék előállítására felhasznált, adózott jövedéki termék után,
 - c) a mentesített szervezet a 13. §-ban meghatározott feltételekkel és korlátokkal, a belföldön beszerzett, adózott jövedéki termék után,
-- d) a szabadforgalomba bocsátott jövedéki termék belföldről, kereskedelmi céllal másik tagállamba történő szállítása esetén az EKO szerinti szállító, ha bemutatja az EKO-nak a jövedéki termék címzett által történt átvételét igazoló példányát és a címzett tagállam hatóságának igazolását a jövedéki adó megfizetéséről vagy annak biztosításáról,
+- d) a szabadforgalomba bocsátott jövedéki termék belföldről, kereskedelmi céllal másik tagállamba történő szállítása esetén a terméket feladó adóraktár engedélyes, jövedéki engedélyes kereskedő, bejegyzett feladó, kisüzemi bortermelő vagy eseti igazolt feladó, a szállítás 62. § (12) bekezdése szerinti befejezését követően,
 - e) a csomagküldő kereskedő, ha a másik tagállamban megfizette a jövedéki adót és erről bemutatja a másik tagállam illetékes hatóságának igazolását,
-- f) a szabadforgalomba bocsátott jövedéki termék belföldről, kereskedelmi céllal másik tagállamba történő szállítása esetén az EKO szerinti szállító és a csomagküldő kereskedő, ha a szállítás során nem belföldön elkövetett szabálytalanságot követően a 11. § szerint megfizették a jövedéki adót és erről bemutatja a másik tagállam illetékes hatóságának igazolását,
+- f) a szabadforgalomba bocsátott jövedéki termék belföldről, kereskedelmi céllal másik tagállamba történő szállítása esetén a terméket feladó adóraktár engedélyes, jövedéki engedélyes kereskedő, bejegyzett feladó, kisüzemi bortermelő vagy eseti igazolt feladó és a csomagküldő kereskedő, ha a szállítás során a nem belföldön elkövetett szabálytalanságot követően a 11. § szerint megfizették a jövedéki adót és erről bemutatja a másik tagállam illetékes hatóságának igazolását,
 - g) az a személy, aki adózott jövedéki terméket olyan tevékenységhez használ fel, amelyre adófizetési kötelezettség alóli mentesülés érvényesíthető,
 - h) a 9. § (1) bekezdés a) pontja szerinti adóraktár engedélyese által a másik tagállamba utazó utas részére értékesített, majd az utastól az adóraktár engedélyese által visszavásárolt, adózott jövedéki termék után,
 - i) a törvényben kihirdetett nemzetközi szerződés alapján az adó alól mentesített, a)–h) pont alá nem sorolható személy, szervezet.
@@ -513,7 +515,7 @@ bűncselekmény elkövetése miatt jogerősen nem ítélték el vagy a kérelem 
 - b) – a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabad forgalomban nem szabadforgalomba bocsátáskor vagy nem tagállami szállítás esetén alkalmazott bizonylat kivételével – a 90. § szerinti okmányok aláírására jogosult személy közokiratba foglalt aláírásmintáját, kivéve, ha a végrehajtási rendelet ettől eltérést enged, és
 - c) a 92. (1) bekezdés a) pontjának alkalmazása esetén a hatósági erkölcsi bizonyítványt.
 
-(2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
+(2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő, az eseti igazolt feladó és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
 
 (3) Egy adott, földrajzilag körülhatárolt hely telephelyként való működése a kérelmező részére nem engedélyezhető, ha a korábban ott folytatott, e törvény hatálya alá tartozó tevékenységgel összefüggésben megállapított adó-, bírság-, pótléktartozás vagy zárjegyhiánnyal kapcsolatos tartozás nem került megfizetésre, feltéve, hogy a tartozást eredményező tevékenységet
 
@@ -547,7 +549,7 @@ bűncselekmény elkövetése miatt jogerősen nem ítélték el vagy a kérelem 
 
 (6) Az (5) bekezdés szerinti feltétel fennállását az állami adó- és vámhatóság az engedélyes kérelmére az engedélyben rögzítheti.
 
-(7) Ha az engedély felfüggesztésére okot adó körülményt az állami adó- és vámhatóság által működtetett elektronikus rendszer észleli, az elektronikus rendszer automatikus intézkedése útján megtagadja az elektronikus átvételi elismervény továbbítását és az e-TKO tervezet jóváhagyását, továbbítását, valamint erről értesíti az engedélyest.
+(7) Ha az engedély felfüggesztésére okot adó körülményt az állami adó- és vámhatóság által működtetett elektronikus rendszer észleli, az elektronikus rendszer automatikus intézkedése útján megtagadja az elektronikus átvételi elismervény továbbítását, az e-TKO és az e-EKO tervezet jóváhagyását, továbbítását, valamint erről értesíti az engedélyest.
 
 (8) A (7) bekezdés szerinti automatikus intézkedést az állami adó- és vámhatóság soron kívül, de legkésőbb 3 napon belül felülvizsgálja és fenntartásának szükségessége esetén indokolt döntést hoz az engedély felfüggesztéséről, amely ellen önálló fellebbezésnek van helye. Ha a felülvizsgálat eredményeként az intézkedés fenntartása nem indokolt, az állami adó- és vámhatóság automatikusan megszünteti, és erről az engedélyest tájékoztatja. Az engedély felfüggesztésének időtartama alatt
 
@@ -589,6 +591,8 @@ a tényleges készletet.
 
 18. § (1) Az adófelfüggesztési eljárás keretében történő szállítással, tárolással és az adófizetési kötelezettség teljesítésével járó adókockázatra jövedéki biztosítékot kell nyújtani.
 
+(1a) Szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén az adófizetésre kötelezett személy a termékek feladását megelőzően a belföldön keletkező adófizetési kötelezettségnek megfelelő összegben jövedéki biztosítékot nyújt. E fejezet alkalmazásában szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállításának minősül a töltőfolyadék, az új dohánytermék-kategóriák, a füst nélküli dohánytermék, a hevített termék és a dohányzást helyettesítő nikotintartalmú termék kereskedelmi célú belföldre szállítása is.
+
 (2) A jövedéki biztosíték készpénz, pénzügyi biztosíték és a (16) bekezdés szerinti készfizető kezesség lehet.
 
 (3) Készpénzben nyújtott jövedéki biztosítéknak minősül az állami adó- és vámhatóság által megadott jövedéki biztosíték számlára, jövedéki biztosíték céljára történő átutalás. A készpénzben nyújtott jövedéki biztosíték után az állami adó- és vámhatóságnak kamatfizetési kötelezettsége nincs.
@@ -609,15 +613,28 @@ a tényleges készletet.
 
 (11) Ha a jövedéki termék harmadik országba történő kivitele másik tagállam(ok)on keresztül és a 83/1996. (VI. 14.) Korm. rendelettel kihirdetett, az Egységes Árutovábbítási Eljárásról szóló Egyezményben foglaltak alapján történik, az egyezmény szerinti biztosíték az adófelfüggesztéssel történő szállításra jutó jövedéki biztosítéknak minősül.
 
-(12) Kérelemre engedélyezhető, hogy a jövedéki biztosítékot az adóraktár engedélyese vagy a bejegyzett feladó helyett a fuvarozó, a címzett, a jövedéki termék tulajdonosa vagy azok közül több személy együttesen, továbbá készfizető kezesség esetén a (16) bekezdés szerinti kezességvállalási engedéllyel rendelkező személy nyújtsa.
+(12) Kérelemre engedélyezhető, hogy a jövedéki biztosítékot
+
+- a) adófelfüggesztési eljárás keretében végzett szállítás esetén az adóraktár engedélyese vagy a bejegyzett feladó helyett a címzett,
+- b) szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő helyett a feladó,
+
+a fuvarozó, a jövedéki termék tulajdonosa vagy azok közül több személy együttesen, továbbá készfizető kezesség esetén a (16) bekezdés szerinti kezességvállalási engedéllyel rendelkező személy nyújtsa.
 
 (13) Az adófelfüggesztési eljárás keretében végzett szállításra jutó jövedéki biztosíték az adófelfüggesztési eljárás keretében végzett szállítás 53. § (3) bekezdése szerinti befejeződésekor használható fel ismételten.
+
+(13a) Szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén a jövedéki biztosíték
+
+- a) az adófizetési kötelezettség teljesítését követően, vagy
+- b) ha az adófizetésre kötelezett személy az adófizetési kötelezettség alól a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása miatt mentesül, a mentesüléskor, vagy
+- c) a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanság esetén a jövedéki adó másik tagállamban történt igazoltan megfizetésekor
+
+szabadul fel vagy használható fel ismételten.
 
 (14) Az adókockázat szempontjából az egyéb ellenőrzött ásványolajnak minősülő gázolaj adótartalmát az üzemanyagcélú gázolaj adómértékének alapulvételével kell meghatározni.
 
 (15) Nem kell jövedéki biztosítékot nyújtania a központi költségvetési szervnek.
 
-(16) Az (1) bekezdés szerinti adókockázatért vagy annak meghatározott részéért készfizető kezességet vállalhat, aki rendelkezik az állami adó- és vámhatóság által a (17) bekezdésben meghatározott feltételekkel kiadott, hatályos kezességvállalási engedéllyel, amely tartalmazza a kezességgel összességében vállalható legmagasabb összeghatárt, valamint az engedély időbeli hatályát.
+(16) Az (1) és (1a) bekezdés szerinti adókockázatért vagy annak meghatározott részéért az vállalhat készfizető kezességet, aki rendelkezik az állami adó- és vámhatóság által a (17) bekezdésben meghatározott feltételekkel kiadott, hatályos kezességvállalási engedéllyel, amely tartalmazza a kezességgel összességében vállalható legmagasabb összeghatárt, valamint az engedély időbeli hatályát.
 
 (17) Az állami adó- és vámhatóság a kezességvállalást annak a kérelmezőnek engedélyezi, aki
 
@@ -632,7 +649,7 @@ formájában.
 
 #### 14. Adóraktári engedély
 
-19. § (1) Jövedéki termék adóraktárban állítható elő és tárolható az adófizetési kötelezettség keletkezéséig, kivéve
+19. § (1) Jövedéki termék adóraktárban állítható elő, birtokolható és tárolható az adófizetési kötelezettség keletkezéséig, kivéve
 
 - a) az ellenőrzött energiaterméken kívüli energiaterméket,
 - b) a magánfőzésben előállított párlatot,
@@ -672,12 +689,13 @@ formájában.
 21. § (1) Az adóraktár engedélyese által nyújtott jövedéki biztosíték összegének a 81. § szerinti adóelőleg összegével csökkentve – a 18. § (12) bekezdése szerinti kivétellel – el kell érnie
 
 - a) az adóraktárban adófelfüggesztési eljárás keretében tárolt, nem az adóraktár engedélyese által előállított jövedéki termékek adótartalmának összegét,
-- b) azon jövedéki termékek adótartalmának összegét, amelyeket az 53. § (2) bekezdése szerint elkezdődött, de az 53. § (3) bekezdése szerint még be nem fejeződött adófelfüggesztési eljárás keretében – az energiatermékek csővezetékes szállításának kivételével – szállítanak és
-- c) az adóraktár engedélyesét terhelő, meg nem fizetett adófizetési kötelezettség összegét.
+- b) azon jövedéki termékek adótartalmának összegét, amelyeket az 53. § (2) bekezdése szerint elkezdődött, de az 53. § (3) bekezdése szerint még be nem fejeződött adófelfüggesztési eljárás keretében – az energiatermékek csővezetékes szállításának kivételével – szállítanak,
+- c) a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal az adóraktár engedélyese részére feladott, de még át nem vett jövedéki termékek adótartalmának összegét és
+- d) az adóraktár engedélyesét terhelő, meg nem fizetett adófizetési kötelezettség összegét.
 
 (2) Az adóraktár engedélyese által nyújtandó jövedéki biztosíték összege
 
-- a) ha egy hónapra vetítve átlagosan az adófelfüggesztési eljárás keretében általa feladott, a szabadforgalomba bocsátott és az adófizetési kötelezettség alóli mentesülést eredményező célra kiszolgált jövedéki termékek mennyiségének legalább 75%-át az adóraktár engedélyese állította elő, vagy ha egy hónapra vetítve átlagosan az általa adófelfüggesztési eljárás keretében átvett jövedéki termékek mennyiségének legalább 75%-át adófizetési kötelezettség alóli mentesülést eredményező célra használta fel, az adóraktári engedéllyel 2 éve folytatott tevékenység esetén 10%-kal, majd évente további 10%-kal, de legfeljebb 80%-kal,
+- a) ha egy hónapra vetítve átlagosan az adófelfüggesztési eljárás keretében általa feladott, a szabadforgalomba bocsátott és az adófizetési kötelezettség alóli mentesülést eredményező célra kiszolgált jövedéki termékek mennyiségének legalább 75%-át az adóraktár engedélyese állította elő, vagy ha egy hónapra vetítve átlagosan az általa adófelfüggesztési eljárás keretében átvett és a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal feladott és általa átvett jövedéki termékek mennyiségének legalább 75%-át adófizetési kötelezettség alóli mentesülést eredményező célra használta fel, az adóraktári engedéllyel 2 éve folytatott tevékenység esetén 10%-kal, majd évente további 10%-kal, de legfeljebb 80%-kal,
 - b) egyébként az adóraktári tevékenység 2 éve történő folytatása esetén 10%-kal, majd évente további 10%-kal, de legfeljebb 30%-kal
 
 csökken.
@@ -704,7 +722,7 @@ csökken.
 
 (7) Az (1) bekezdéstől eltérően az adóraktár engedélyesének nem kell jövedéki biztosítékot nyújtani az 5 milliárd forintot meghaladó összegre.
 
-(8) E § alkalmazásában jövedéki termék előállítását végzi az adóraktár engedélyese minden olyan esetben, amikor az adófelfüggesztési eljárás keretében szállított jövedéki termék átvételét követő, változatlan összetételben történő tárolásán, adófizetési kötelezettséget keletkeztető felhasználásán, valamint adófelfüggesztési eljárás keretében történő feladásán vagy szabadforgalomba bocsátásán kívüli tevékenységet végez a jövedéki termékkel vagy terméken.
+(8) E § alkalmazásában jövedéki termék előállítását végzi az adóraktár engedélyese minden olyan esetben, amikor az adófelfüggesztési eljárás keretében szállított és a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal feladott jövedéki termék átvételét követő, változatlan összetételben történő tárolásán, adófizetési kötelezettséget keletkeztető felhasználásán, valamint másik tagállamba történő feladásán vagy szabadforgalomba bocsátásán kívüli tevékenységet végez a jövedéki termékkel vagy terméken.
 
 (9) Nem kell alkalmazni a 15. § (3) bekezdése szerinti engedély felfüggesztést, ha az (1)–(7) bekezdés figyelembevételével nyújtandó jövedéki biztosíték összege legfeljebb 10 ezer forinttal vagy 0,1%-kal, a két tényező közül a nagyobb összegű értékkel, haladja meg az adóraktár engedélyese által ténylegesen nyújtott jövedéki biztosíték összegét.
 
@@ -750,7 +768,7 @@ csökken.
 (2) Az adatszolgáltatásnak ki kell terjednie
 
 - a) az előállított jövedéki termék mennyiségére,
-- b) a szabadforgalomba bocsátott jövedéki termék mennyiségére,
+- b) a belföldön szállítólevéllel szabadforgalomba bocsátott jövedéki termék mennyiségére,
 - c) az átvett zárjegyekről a 78. § szerinti adatokra,
 - d) az adófizetési kötelezettség alóli mentesülés elszámolására,
 - e) a 17. § (4) bekezdése szerinti készletkülönbözet elszámolására,
@@ -758,12 +776,12 @@ csökken.
 - g) a 120. § (3) bekezdés szerinti jegyzőkönyvre, és
 - h) a 89. § (2) bekezdése szerinti jegyzőkönyvre.
 
-(3) Az adatszolgáltatásának nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra, ideértve a (2) bekezdés b) pontja szerinti adatokat, ha az adóraktár engedélyese a jövedéki termék szabadforgalomba bocsátásáról az EKO adattartalmával megegyező, és a végrehajtási rendeletben meghatározott adatokkal kiegészített adatokat, a szabadforgalomba bocsátással egyidejűleg megküldi az állami adó- és vámhatóságnak.
+(3) Az adatszolgáltatásának nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra, ideértve a (2) bekezdés b) pontja szerinti adatokat is, ha az adóraktár engedélyese a jövedéki termék belföldi címzett részére történő szabadforgalomba bocsátásáról a szállítólevél adattartalmával megegyező, és a végrehajtási rendeletben meghatározott adatokkal kiegészített adatokat, a szabadforgalomba bocsátással egyidejűleg megküldi az állami adó- és vámhatóságnak.
 
 (4) Az adóraktár engedélyese
 
 - a) a (2) bekezdés c) pontja szerinti adatszolgáltatást, valamint az (5) bekezdés szerinti bejelentéseket akkor is a változást követő munkanapon küldi meg az állami adó- és vámhatóságnak, ha az (1) bekezdés szerint egyébként nem kötelezett a változást követő munkanapon teljesítendő adatszolgáltatásra, és
-- b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a jövedéki termék szabadforgalomba bocsátásáról az EKO adattartalmával megegyező adatokat a szabadforgalomba bocsátással egyidejűleg küldi meg az állami adó- és vámhatóságnak.
+- b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a jövedéki termék belföldi címzett részére történő szabadforgalomba bocsátásáról a szállítólevél adattartalmával megegyező adatokat a szabadforgalomba bocsátással egyidejűleg küldi meg az állami adó- és vámhatóságnak.
 
 (5) Az adóraktár engedélyese az adatszolgáltatás keretében teszi meg az e törvényben és a végrehajtási rendeletben meghatározott bejelentéseit az állami adó- és vámhatóságnak, kivéve az azonnal vagy papíralapon teljesítendő, így a 9. § (3) bekezdése szerinti, a (6) bekezdés szerinti, az 54. § (8) bekezdése szerinti, az 58–60. § szerinti és a 88. § (3) bekezdése szerinti bejelentéseit.
 
@@ -775,7 +793,7 @@ csökken.
 
 (9) Az elektronikus nyilvántartásban az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék KN-kód szerinti bontásban, a dohánygyártmányok dohánygyártmányonként a jövedéki adó alapjául szolgáló mennyiségi egységben szerepelnek.
 
-(10) Az adóraktár engedélyese az elektronikus átvételi elismervény kiállítását követően a jövedéki terméket haladéktalanul felveszi elektronikus nyilvántartásába.
+(10) Az adóraktár engedélyese az elektronikus átvételi elismervény kiállítását követően a jövedéki terméket haladéktalanul felveszi az elektronikus nyilvántartásába, az adófelfüggesztés alatt álló készletébe.
 
 (11) Az adóraktárban felhasználói engedélyes tevékenységet is folytató engedélyes e tevékenységéről a 31. § (1) és (3) bekezdése szerinti nyilvántartást vezet és a 31. § (4) bekezdése szerinti adatszolgáltatást teljesít.
 
@@ -787,7 +805,7 @@ csökken.
 
 (3) A bejegyzett kereskedőnek az engedély kiadása évét követő évtől független könyvvizsgáló által hitelesített (auditált) mérleggel kell rendelkeznie.
 
-(4) A bejegyzett kereskedő által nyújtott jövedéki biztosíték összegének el kell érnie az adófelfüggesztési eljárás keretében átvett azon jövedéki termékek adótartalmának összegét, amelyek után a bejegyzett kereskedő az adót nem fizette meg.
+(4) A bejegyzett kereskedő által nyújtott jövedéki biztosíték összegének el kell érnie az adófelfüggesztési eljárás keretében, valamint a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított, átvett azon jövedéki termékek adótartalmának összegét, amelyek után a bejegyzett kereskedő az adót nem fizette meg.
 
 #### 19. Az eseti bejegyzett kereskedő
 
@@ -795,13 +813,20 @@ csökken.
 
 - a) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 - b) akinek nincs meg nem fizetett köztartozása, társadalombiztosításijárulék-tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
-- c) aki az adófelfüggesztési eljárás keretében átvett jövedéki termékek adótartalmával megegyező összegű jövedéki biztosítékot nyújt.
+- c) aki az adófelfüggesztési eljárás keretében, valamint a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított, átvett jövedéki termékek adótartalmával megegyező összegű jövedéki biztosítékot nyújt.
 
 #### 20. Bejegyzett feladó
 
 27. § (1) A bejegyzett feladónak az engedély kiadása évét követő évtől független könyvvizsgáló által hitelesített (auditált) mérleggel kell rendelkeznie.
 
 (2) A bejegyzett feladó által nyújtott jövedéki biztosíték összegének – a 18. § (12) bekezdése szerinti kivétellel – el kell érnie azon jövedéki termékek adótartalmának összegét, amelyek adófelfüggesztési eljárás keretében végzett szállítása az 53. § (2) bekezdése szerint elkezdődött, de az 53. § (3) bekezdése szerint még nem fejeződött be.
+
+#### 20/A. Eseti igazolt feladó
+
+27/A. § Eseti igazolt feladói engedélyre – az engedélyek megadásának általános szabályaitól eltérően – olyan személy jogosult
+
+- a) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, és
+- b) akinek nincs meg nem fizetett köztartozása, társadalombiztosításijárulék-tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek.
 
 #### 21. Jövedéki engedélyes kereskedő
 
@@ -831,6 +856,8 @@ csökken.
 
 (6) Ha a jövedéki engedélyes kereskedő kizárólag egyéb ellenőrzött ásványolajat importál vagy hoz be másik tagállamból és felhasználói engedéllyel is rendelkezik, jövedéki biztosítékot csak a felhasználói engedélyéhez kapcsolódóan kell nyújtania.
 
+(7) Ha a másik tagállamban szabadforgalomba bocsátott, a jövedéki engedélyes kereskedő részére feladott jövedéki termékek adótartamára nyújtandó jövedéki biztosíték összege meghaladja az (1)–(3) bekezdés alapján nyújtandó biztosíték összegét, a jövedéki biztosítékot a szállítás megkezdése előtt ki kell egészíteni a jövedéki termék adótartamára nyújtandó biztosítéki összeg erejéig.
+
 29. § (1) Jövedéki engedélyre – az engedélyek megadásának általános szabályain kívül – olyan személy jogosult, aki
 
 - a) a benzin, petróleum, gázolaj, fűtőolaj esetében – a nem ömlesztett formában történő beszerzés kivételével – telephelyenként legalább 500 m3 űrtartalmú tárolótartállyal,
@@ -845,7 +872,7 @@ rendelkezik vagy azt bérel.
 
 (3) Az országos közforgalmú vasút üzemeltetője mentesül az (1) bekezdés a) pontjában meghatározott feltétel teljesítése alól, ha a gázolajat kizárólag a vasúti pályához kötött járművek, munkagépek vasúti szállítási főtevékenységhez közvetlenül kapcsolódó üzemeltetése céljára értékesíti.
 
-(4) A jövedéki engedélyes kereskedő a beszerzéseiről és a készletében csökkenést eredményező eseményekről, valamint a napi zárókészletéről – telephelyenként – folyamatosan elektronikus nyilvántartást vezet, amelyből a tárgyhóra vonatkozóan a végrehajtási rendelet szerinti adattartalmú adatszolgáltatást teljesít az állami adó- és vámhatóság részére a tárgyhót követő hónap 12. napjáig.
+(4) A jövedéki engedélyes kereskedő a beszerzéseiről és a készletében csökkenést eredményező eseményekről, valamint a napi zárókészletéről – telephelyenként – folyamatosan elektronikus nyilvántartást vezet, amelyből a tárgyhóra vonatkozóan a végrehajtási rendelet szerinti adattartalmú adatszolgáltatást teljesít az állami adó- és vámhatóság részére a tárgyhót követő hónap 12. napjáig, amelynek nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra.
 
 (5) A jövedéki engedélyes kereskedő abban az esetben végezhet azonos telephelyen és időben jövedéki kiskereskedelmi tevékenységet is, ha a jövedéki engedélyes és a jövedéki kiskereskedelmi tevékenysége keretében végzett értékesítéseiről nyilvántartást vezet, amely alapján a jövedéki engedélyes és a jövedéki kiskereskedelmi készletek egyértelműen elkülöníthetőek.
 
@@ -922,15 +949,17 @@ folytató személynek, ha nem minősül az Art. szerinti kockázatos adózónak.
 
 (3) A csomagküldő kereskedőnek és a nyilvántartásba vett felhasználónak teljesítenie kell a 14. § (1) bekezdés g) pontja szerinti feltételt.
 
-#### 24. Csomagküldő kereskedő
+#### 24. Csomagküldő kereskedelem
 
-35. § Belföldről másik tagállamba irányuló csomagküldő kereskedelem végzéséhez állami adó- és vámhatósági nyilvántartásba vétel szükséges a csomagküldő kereskedő számára.
+35. § (1) Belföldről másik tagállamba irányuló csomagküldő kereskedelem végzéséhez állami adó- és vámhatósági nyilvántartásba vétel szükséges a csomagküldő kereskedő számára.
 
-#### 25. Csomagküldő kereskedő adóügyi képviselője
+(2) Másik tagállamból belföldre irányuló csomagküldő kereskedelem végzéséhez a csomagküldő kereskedő állami adó- és vámhatóság általi nyilvántartásba vétele vagy belföldi székhelyű, az állami adó- és vámhatóság által nyilvántartásba vett adóügyi képviselő megbízása szükséges.
 
-36. § (1) Másik tagállamból belföldre irányuló csomagküldő kereskedelem végzéséhez belföldi székhelyű, az állami adó- és vámhatóság által nyilvántartásba vett adóügyi képviselő megbízása szükséges.
+(3) A (2) bekezdés szerinti esetben a csomagküldő kereskedőt vagy a csomagküldő kereskedő adóügyi képviselőjét az állami adó- és vámhatóság abban az esetben veszi nyilvántartásba, ha a csomagküldő kereskedő vagy az adóügyi képviselő a 14. § (1) bekezdés c), d), és g) pontja szerinti feltételeket teljesíti.
 
-(2) A csomagküldő kereskedő adóügyi képviselőjét az állami adó- és vámhatóság abban az esetben veszi nyilvántartásba, ha az adóügyi képviselő az engedélyek megadásához meghatározott általános feltételeket teljesíti.
+#### 25.
+
+#### 36. §
 
 #### 26. Jövedéki termék előállítására alkalmas berendezés
 
@@ -1023,9 +1052,9 @@ felhasználásához.
 
 (3) Az üzemi motorikusgáztöltő-állomás üzemeltetője a beszerzett LPG felhasználásáról nyilvántartást vezet.
 
-#### 31. Tagállamba szállító kisüzemi bortermelő
+#### 31. Exportáló, tagállamba feladó kisüzemi bortermelő
 
-42. § Állami adó- és vámhatósági nyilvántartásba vétel szükséges a másik tagállamba csendes bort, saját előállítású csendes borból előállított palackos erjesztésű habzóbort adófelfüggesztési eljárás keretében szállító kisüzemi bortermelőnek.
+42. § A csendes bort, saját előállítású csendes borból előállított palackos erjesztésű habzóbort exportáló vagy másik tagállamba feladó kisüzemi bortermelőt az állami adó- és vámhatóság nyilvántartásba veszi.
 
 ### V. Fejezet — BEJELENTÉSEK
 
@@ -1053,7 +1082,7 @@ felhasználásához.
 
 (2) Az (1) bekezdés szerinti karbantartást végző személy a karbantartási céllal eltávolított repülőgép-üzemanyagról a végrehajtási rendelet szerinti nyilvántartást vezet.
 
-51. § (1) A 2008. december 16-i 2008/118/EK tanácsi irányelv 40. cikke szerinti, másik tagállambeli személy által adófelfüggesztési eljárás keretében feladott csendes és habzóbor átvételét – az 55. §-tól eltérően –
+51. § (1) A jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelv 48. cikke szerinti, másik tagállambeli személy által adófelfüggesztési eljárás keretében feladott csendes és habzóbor átvételét – az 55. §-tól eltérően –
 
 - a) az adóraktár engedélyese a 24. § szerinti adatszolgáltatás keretében,
 - b) a bejegyzett kereskedő 5 munkanapon belül
@@ -1089,7 +1118,7 @@ számára.
 
 54. § (1) Jövedéki termék adófelfüggesztési eljárás keretében – az e törvényben foglalt kivételekkel – e-TKO-val szállítható.
 
-(2) A jövedéki termék feladója – legkorábban a kitárolást 7 nappal megelőzően – kiállítja és az állami adó- és vámhatóságnak megküldi az e-TKO-nak a 684/2009/EK rendeletben, valamint a végrehajtási rendeletben előírtak szerint kitöltött tervezetét.
+(2) A jövedéki termék feladója – legkorábban a kitárolást 7 nappal megelőzően – kiállítja és az állami adó- és vámhatóságnak megküldi az e-TKO tervezetét.
 
 (3) Az állami adó- és vámhatóság az uniós számítógépes rendszerben ellenőrzi az e-TKO tervezetében szereplő adatokat. Ha az adatok
 
@@ -1108,7 +1137,7 @@ az uniós számítógépes rendszerben haladéktalanul továbbítja.
 
 (6) A jövedéki termék feladója a szállítást végző személy részére átadja az e-TKO kinyomtatott példányát vagy az AHK-szám feltüntetését tartalmazó számlát, szállítólevelet vagy más fuvarokmányt, amely a szállítás teljes ideje alatt kíséri a szállítmányt és azt a tagállamok illetékes hatóságainak kérésére be kell mutatni.
 
-(7) A jövedéki termék feladója a 684/2009/EK rendeletre figyelemmel az adófelfüggesztési eljárás keretében végzett szállítás
+(7) A jövedéki termék feladója az adófelfüggesztési eljárás keretében végzett szállítás
 
 - a) kezdetéig törölheti – az uniós számítógépes rendszeren keresztül – az e-TKO-t,
 - b) során megváltoztathatja – az uniós számítógépes rendszerben – az e-TKO-n szereplő rendeltetési helyet kivéve, ha mentesített szervezet a címzett.
@@ -1152,7 +1181,7 @@ az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismer
 
 57. § (1) Ha másik tagállamból belföldön lévő mentesített szervezet számára szállítanak adófelfüggesztési eljárás keretében jövedéki terméket, a jövedéki termék feladásáról az állami adó- és vámhatóság értesíti a mentesített szervezetet.
 
-(2) A mentesített szervezet a jövedéki termék átvételéről írásos nyilatkozatot ad az állami adó- és vámhatóságnak a 684/2009/EK rendeletben meghatározott adattartalommal. Az állami adó- és vámhatóság a mentesített szervezet nyilatkozata alapján kiállítja és az uniós számítógépes rendszerben megküldi az elektronikus átvételi elismervényt a feladás helye szerinti tagállam illetékes hatóságának.
+(2) A mentesített szervezet a jövedéki termék átvételéről írásos nyilatkozatot ad az állami adó- és vámhatóságnak. Az állami adó- és vámhatóság a mentesített szervezet nyilatkozata alapján kiállítja és az uniós számítógépes rendszerben megküldi az elektronikus átvételi elismervényt a feladás helye szerinti tagállam illetékes hatóságának.
 
 (3) A mentesített szervezet legkésőbb a (2) bekezdés szerinti írásos nyilatkozat állami adó- és vámhatóságnak történő kiállításakor megküldi az állami adó- és vámhatóság ellenjegyzését pecsétlenyomattal tartalmazó adómentességi igazolást a jövedéki termék feladójának.
 
@@ -1178,7 +1207,7 @@ az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismer
 
 (5) A jövedéki termék feladója az adó megállapításához való jog elévülési idején belül köteles megőrizni az általa kiállított papíralapú okmány egy példányát.
 
-(6) A jövedéki termék feladója az üzemszünet ideje alatt a rendeltetési hely 54. § (7) bekezdése szerinti megváltoztatását – figyelemmel a 684/2009/EK rendeletre – előzetesen bejelenti az állami adó- és vámhatóságnak. Az üzemszünet végét követően a jövedéki termék adófelfüggesztési eljárás keretében végzett szállítására vonatkozó szabályokat kell alkalmazni.
+(6) A jövedéki termék feladója az üzemszünet ideje alatt a rendeltetési hely 54. § (7) bekezdése szerinti megváltoztatását előzetesen bejelenti az állami adó- és vámhatóságnak. Az üzemszünet végét követően a jövedéki termék adófelfüggesztési eljárás keretében végzett szállítására vonatkozó szabályokat kell alkalmazni.
 
 #### 38. Jövedéki termék átvétele üzemszünet során
 
@@ -1223,11 +1252,19 @@ szolgálhat.
 
 #### 41. Szabadforgalomba bocsátott jövedéki termék szállítása tagállamok között
 
-62. § (1) Az egyik tagállamban szabadforgalomba bocsátott jövedéki termék másik tagállamba kereskedelmi céllal EKO-val szállítható.
+62. § (1) Az egyik tagállamban szabadforgalomba bocsátott jövedéki termék másik tagállamba kereskedelmi céllal e-EKO-val szállítható.
 
-(2) Kereskedelmi célú az (1) bekezdés szerinti szállítás, ha nem magánszemély vagy magánszemély nem saját felhasználására szállítja a jövedéki terméket.
+(1a) Szabadforgalomba bocsátott jövedéki terméket kereskedelmi céllal belföldről másik tagállamba adóraktár engedélyese, bejegyzett feladó, eseti igazolt feladó, jövedéki engedélyes kereskedő és kisüzemi bortermelő adhat fel.
 
-(3) Annak megállapítása érdekében, hogy a jövedéki termék magánszemély saját felhasználását szolgálja, az állami adó- és vámhatóság a következő szempontokat vizsgálja együttesen:
+(1b) Másik tagállamban szabadforgalomba bocsátott jövedéki terméket kereskedelmi céllal adóraktár engedélyese, bejegyzett kereskedő, eseti bejegyzett kereskedő és jövedéki engedélyes kereskedő vehet át belföldön.
+
+(1c) A kereskedelmi célú szállítás akkor kezdődik, amikor a jövedéki termék belföldön elhagyja az adóraktár területét, a jövedéki engedélyes kereskedő telephelyét, az eseti igazolt feladó, illetve a bejegyzett feladó feladási helyét vagy másik tagállamban az illetékes hatóság által bejegyzett személy telephelyét.
+
+(1d) A kereskedelmi célú szállítás akkor fejeződik be, amikor a jövedéki terméket belföldön az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő, vagy másik tagállamban az illetékes hatóság által bejegyzett személy átveszi.
+
+(2) Kereskedelmi célúnak minősül az (1) bekezdés szerinti szállítás, ha a jövedéki terméket a másik tagállamban nem magánszemély veszi át vagy magánszemély a címzett, de a szállítás nem a (3) bekezdés vagy a 63. § rendelkezéseinek megfelelően történt.
+
+(3) Nem kereskedelmi célú a szállítás, ha az egyik tagállamban szabadforgalomba bocsátott, megvásárolt jövedéki terméket a magánszemély saját felhasználására, saját maga szállítja másik tagállamba. Annak megállapítása érdekében, hogy a jövedéki termék magánszemély saját felhasználását szolgálja, az állami adó- és vámhatóság a következő szempontokat vizsgálja:
 
 - a) a magánszemély rendelkezik-e az e törvény szerinti engedéllyel vagy kérte-e e törvény alapján a nyilvántartásba vételét;
 - b) a birtokban tartás indoka;
@@ -1256,38 +1293,41 @@ szolgálhat.
 (5) Nem minősül kereskedelmi célú szállításnak
 
 - a) a két tagállam között közlekedő repülőgépek fedélzetén lévő jövedéki termékek szállítása, ha azokat nem hozzák forgalomba, mialatt a repülőgép belföldön tartózkodik,
-- b) a másik tagállamból belföldön keresztül egy másik tagállamba EKO-val végzett szállítás, vagy
+- b) a másik tagállamból belföldön keresztül egy másik tagállamba e-EKO-val végzett szállítás, vagy
 - c) a 3. § (2) bekezdés 21. pontja szerinti jármű üzemanyagtartályában vagy kiegészítő üzemanyagtartályában található üzemanyag tagállamok közötti szállítása.
 
-(6) Szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén
+(6) A másik tagállamba szabadforgalomban, kereskedelmi céllal szállított jövedéki termék feladása esetén az 54. § (2)–(3) bekezdését, (4) bekezdés a) pontját, (6) bekezdését és (7) bekezdés b) pontját kell alkalmazni azzal az eltéréssel, hogy e-TKO alatt e-EKO-t, az adófelfüggesztési eljárás alatt pedig szabadforgalomban végzett kereskedelmi célú szállítást kell érteni, továbbá a rendeltetési hely csak ugyanazon tagállamon belüli, ugyanazon címzett által üzemeltetett szállítási helyre vagy a feladás helyére módosítható.
 
-- a) az állami adó- és vámhatóság a címzett kérésére az EKO visszaküldendő példányának hátoldalán igazolja a jövedéki termék utáni adókötelezettség teljesítését vagy annak biztosítását;
-- b) az állami adó- és vámhatóság a jövedéki termék feladása előtt – kérelemre – igazolást ad a belföldön keletkező adókötelezettségre nyújtott jövedéki biztosíték rendelkezésre állásáról;
-- c) az adófizetésre kötelezett személy
-  - ca) a beszerzést megelőzően a belföldön keletkező adófizetési kötelezettségnek megfelelő összegben jövedéki biztosítékot nyújt,
-  - cb) a beszerzést megelőzően a beszerzésről – a jövedéki termék beszerzésének, mennyiségének és felhasználási céljának megjelölésével – értesíti az állami adó- és vámhatóságot,
-  - cc) az adófizetési kötelezettség keletkezésének időpontját követő 5 napon belül adóbevallást tesz és megfizeti az adót.
+(7) Az állami adó- és vámhatóság a másik tagállam illetékes hatóságától kapott e-EKO-t megküldi a címzettnek.
 
-(7) A (6) bekezdés c) pont ca) alpontja szerint nyújtott jövedéki biztosíték felszabadul
+(8) A másik tagállamból szabadforgalomban kereskedelmi céllal szállított jövedéki termék átvétele esetében az 55. §-t kell alkalmazni.
 
-- a) az adófizetési kötelezettség teljesítését követően,
-- b) ha az adófizetésre kötelezett személy az adófizetési kötelezettség alól a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása miatt mentesül,
-- c) ha a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanság esetén a jövedéki adót másik tagállamban igazoltan megfizették.
+(9) Az üzemszünet kezdetének és végének időpontjára az 58. § (1) bekezdését kell alkalmazni.
+
+(10) A másik tagállamba szabadforgalomban kereskedelmi céllal szállított jövedéki termék üzemszünet során történő feladása esetében az 58. § (2)–(6) bekezdését kell alkalmazni azzal az eltéréssel, hogy e-TKO alatt e-EKO-t, az adófelfüggesztési eljárás alatt pedig szabadforgalomban végzett kereskedelmi célú szállítást kell érteni.
+
+(11) A másik tagállamból szabadforgalomban kereskedelmi céllal szállított jövedéki termék belföldi, üzemszünet során történő átvétele esetében az 59. §-t kell alkalmazni azzal az eltéréssel, hogy e-TKO alatt e-EKO-t, az adófelfüggesztési eljárás alatt pedig szabadforgalomban végzett kereskedelmi célú szállítást kell érteni.
+
+(12) A szabadforgalomban végzett szállítás befejeződését – figyelemmel a (11) bekezdésre is – az elektronikus átvételi elismervény igazolja, amelyre a 61. § (2) bekezdését, (3) bekezdés a) pontját és (4)–(5) bekezdését kell alkalmazni azzal az eltéréssel, hogy az adófelfüggesztési eljárás alatt szabadforgalomban végzett kereskedelmi célú szállítást kell érteni.
+
+(13) A töltőfolyadék, az új dohánytermék-kategóriák, a füst nélküli dohánytermék, a hevített termék és a dohányzást helyettesítő nikotintartalmú termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén az adófizetésre kötelezett személy a beszerzést megelőzően a beszerzésről – a jövedéki termék beszerzésének, mennyiségének és felhasználási céljának megjelölésével – értesíti az állami adó- és vámhatóságot. Ezekre a szállítmányokra a (6)–(12) bekezdést nem kell alkalmazni.
+
+(14) A (6) bekezdéstől eltérően a töltőfolyadék, az új dohánytermék-kategóriák, a füst nélküli dohánytermék, a hevített termék és a dohányzást helyettesítő nikotintartalmú termék szabadforgalomba bocsátása esetén az e-EKO nem kerül továbbításra a rendeltetési hely szerinti tagállam illetékes hatóságának. Ezen termékek esetén a szállítást az állami adó- és vámhatóság zárja le az uniós számítógépes rendszerben a termék címzett által történt átvételéről kiállított vagy a 61. § (3) bekezdés b) pontja szerinti igazolás alapján.
 
 #### 42. Jövedéki termék szállítása csomagküldő kereskedelem keretében
 
-63. § (1) A jövedéki termék csomagküldő kereskedelem keretében belföldre szállítása esetén a csomagküldő kereskedőt terhelő adókötelezettséget és adófizetési kötelezettséget a csomagküldő kereskedő 36. § szerinti adóügyi képviselője teljesíti.
+63. § (1) A jövedéki termék csomagküldő kereskedelem keretében belföldre szállítása esetén az adókötelezettséget és az adófizetési kötelezettséget a csomagküldő kereskedő vagy a csomagküldő kereskedő 35. § szerinti adóügyi képviselője teljesíti.
 
-(2) Az adóügyi képviselő minden belföldre küldött szállítmányt a belföldre történő feladás napján jelenti be az állami adó- és vámhatósághoz.
+(2) A csomagküldő kereskedő vagy a csomagküldő kereskedő adóügyi képviselője minden belföldre küldött szállítmányt a belföldre történő feladás napján bejelenti az állami adó- és vámhatósághoz.
 
 (3) A csomagküldő kereskedőtől beszerzett jövedéki termék eredete csak a címzett nevére kiállított számlával igazolható.
 
 (4) Az állami adó- és vámhatóság az adó megfizetéséről – kérésre – igazolást ad a csomagküldő kereskedőnek.
 
-(5) Az adóügyi képviselő által nyújtott jövedéki biztosíték felszabadul,
+(5) A csomagküldő kereskedő vagy a csomagküldő kereskedő adóügyi képviselője által nyújtott jövedéki biztosíték felszabadul
 
 - a) az adófizetési kötelezettség teljesítését követően,
-- b) ha az adófizetésre kötelezett személy az adófizetési kötelezettség alól a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása miatt mentesül,
+- b) ha az adófizetésre kötelezett személy az adófizetési kötelezettség alól a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása miatt mentesül, vagy
 - c) ha a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanság esetén a jövedéki adót másik tagállamban igazoltan megfizették.
 
 #### 43. Jövedéki engedélyes kereskedelem és jövedéki kiskereskedelem általános szabályai
@@ -1337,7 +1377,7 @@ járművei részére történő kiszolgálásához.
 
 készpénzfizetéssel is értékesíthető.
 
-(7) A jövedéki termék értékesítéséről a jövedéki engedélyes kereskedő olyan számlát állít ki, amelyen feltünteti a jövedéki termék KN-kódját és az engedélyének számát.
+(7) A jövedéki termék belföldi értékesítéséről a jövedéki engedélyes kereskedő olyan számlát állít ki, amelyen feltünteti a jövedéki termék KN-kódját és az engedélyének számát.
 
 #### 45. Jövedéki kiskereskedelmi tevékenység
 
@@ -1424,7 +1464,7 @@ forgalmazhat.
 
 - a) elszámolási kötelezettség mellett,
 - b) a zárjegy előállítási költségének a megfizetése ellenében,
-- c) a másik tagállamban szabadforgalomba bocsátott terméket kereskedelmi céllal belföldre szállító személy esetében a 62. § (6) bekezdés c) pont ca) alpontjában meghatározott jövedéki biztosíték nyújtása esetén
+- c) a másik tagállamban szabadforgalomba bocsátott terméket kereskedelmi céllal belföldre szállító személy esetében a 28. § (7) bekezdésében meghatározott jövedéki biztosíték nyújtása esetén
 
 a (3) bekezdés szerinti igénylő rendelkezésére.
 
@@ -1519,6 +1559,8 @@ követő munkanapon adatszolgáltatást teljesít az állami adó- és vámható
 (5) A nulla adómértékű csendes borra, valamint a 129. § (2) bekezdés a) pontja szerinti termékre nem kell adóbevallást benyújtani.
 
 (6) Az adóraktár engedélyesének a felszámolási és a végelszámolási eljárás miatti megszűnés kivételével az adóraktári engedélyének hatályvesztését követő 30 napon belül bevallást kell benyújtania. A felszámolási és a végelszámolási eljárás miatti megszűnés esetében az adóbevallásra az Art.-ot, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényt vagy a csődeljárásról és a felszámolási eljárásról szóló törvényt kell alkalmazni.
+
+(7) Ha a jövedéki engedélyes kereskedőnek a tárgyhóban nem keletkezett adófizetési kötelezettsége, akkor nem kell adóbevallást benyújtania.
 
 80. § (1) Az állami adó- és vámhatóság a tárgyhót követő hónap 10. napjáig tájékoztatásul megküldi az adózónak – a tüzelő-, fűtőanyagként kínált, értékesített vagy felhasznált földgázra, valamint a szénre és a villamos energiára vonatkozó adatok kivételével – az adóbevallás alapját képező adatokat. Az adóalany ezen adatok beérkezésétől számított 5 napon belül helyesbítéssel élhet, amelyet megküld az állami adó- és vámhatóság részére.
 
@@ -1624,7 +1666,7 @@ igényelheti.
 
 #### 61. Egyéb eljárási szabályok
 
-90. § (1) Az üzemszünet ideje alatt alkalmazott papíralapú okmány, az EKO, a szabadforgalomba bocsátott termékek szállítása során alkalmazott szállítólevél, a borkísérő okmány, valamint az e törvény szerinti engedélyes által e törvény szerint vezetendő nyilvántartás alapbizonylataként használt egyéb bizonylat szigorú számadású bizonylat, amellyel kapcsolatban elkövetett jogsértésre a számlára, a nyugtára vonatkozó szabályokat kell alkalmazni.
+90. § (1) Az üzemszünet ideje alatt alkalmazott papíralapú okmány, a szabadforgalomba bocsátott termékek szállítása során alkalmazott szállítólevél, a borkísérő okmány, valamint az e törvény szerinti engedélyes által e törvény szerint vezetendő nyilvántartás alapbizonylataként használt egyéb bizonylat szigorú számadású bizonylat, amellyel kapcsolatban elkövetett jogsértésre a számlára, a nyugtára vonatkozó szabályokat kell alkalmazni.
 
 (2) Az állami adó- és vámhatóság a végrehajtási rendeletben meghatározott szigorú számadású bizonylatok esetében kérelemre, elszámolási kötelezettség mellett sorszámtartományt adhat ki.
 
@@ -2353,7 +2395,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (2) A denaturálás időpontját az azt megelőző 3. napig be kell jelenteni az állami adó- és vámhatóságnak.
 
-(3) A teljesen denaturált alkohol EKO-val szállítható.
+(3) A teljesen denaturált alkohol tagállamba e-EKO-val, belföldön, valamint belföld és harmadik ország között a 64. § (1) bekezdése szerinti szállítólevéllel szállítható.
 
 (4) 2 liter vagy annál nagyobb kiszerelésű teljesen denaturált alkoholt adóraktár engedélyese, felhasználói engedélyes vagy nyilvántartásba vett felhasználó használhat fel.
 
@@ -2534,7 +2576,7 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 152. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló, 2008. december 16-i 2008/118/EK tanácsi irányelv,
+- a) a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelv,
 - b) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről szóló, 2003. október 27-i 2003/96/EK tanácsi irányelv,
 - c) az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló 92/83/EGK irányelv módosításáról szóló, 2020. július 29-i (EU) 2020/1151 tanácsi irányelvvel módosított, az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló, 1992. október 19-i 92/83/EGK tanácsi irányelv,
 - d) az alkohol és az alkoholtartalmú italok jövedékiadó-mértékének közelítéséről szóló, 1992. október 19-i 92/84/EGK tanácsi irányelv,
@@ -2542,7 +2584,7 @@ kell kiskereskedelmi eladási árnak tekinteni.
 - f) a gázolaj és a kerozin adóügyi jelölőanyagáról szóló, 1995. november 27-i 95/60/EK tanácsi irányelv,
 - g) a dohánygyártmányokra alkalmazott jövedéki adó szerkezetéről és adókulcsáról szóló, 2011. június 21-i 2011/64/EU tanácsi irányelv,
 - h) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban egyes adalékokra történő alkalmazásáról szóló, 2012. április 20-i 2012/209/EU bizottsági végrehajtási határozat.
-- i) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek és a jövedéki adóra vonatkozó általános rendelkezésekről szóló 2008/118/EK irányelvnek az uniós keretben végzett védelmi feladatok tekintetében történő módosításáról szóló, 2019. december 16-i (EU) 2019/2235 tanácsi irányelv.
+- i)
 
 153. § (1) A törvény tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 

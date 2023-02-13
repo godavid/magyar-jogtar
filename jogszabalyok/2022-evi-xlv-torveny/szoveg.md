@@ -136,17 +136,32 @@ egyes adótörvények módosításáról
 
 #### 7. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-54. § (1)
+54. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 3. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„3. adómentességi igazolás: az (EU) 2020/262 tanácsi irányelvnek a jövedéki termékek adófelfüggesztés melletti szállításához és szabad forgalomba bocsátást követő szállításához kapcsolódó okmányhasználat tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az adómentességi igazoláshoz használandó űrlap meghatározásáról szóló, 2022. július 5-i (EU) 2022/1637 bizottsági végrehajtási rendelet mellékletében közzétett okmány;”
 
 (2)
 
 (3)
 
-#### 55. §
+55. § A Jöt. 144. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 56. §
+„(3) A teljesen denaturált alkohol tagállamba e-EKO-val, belföldön, valamint belföld és harmadik ország között a 64. § (1) bekezdése szerinti szállítólevéllel szállítható.”
 
-#### 57. §
+56. § A Jöt.
+
+- a) 8. § (1) bekezdés a) pontjában és 62. § (5) bekezdés b) pontjában, az „EKO” szövegrész helyébe az „e-EKO” szöveg,
+- b) 54. § (2) bekezdésében az „e-TKO-nak a 684/2009/EK rendeletben, valamint a végrehajtási rendeletben előírtak szerint kitöltött” szövegrész helyébe az „e-TKO” szöveg
+
+lép.
+
+57. § Hatályát veszti a Jöt.
+
+- a) 54. § (7) bekezdésében az „a 684/2009/EK rendeletre figyelemmel” szövegrész,
+- b) 57. § (2) bekezdésében az „a 684/2009/EK rendeletben meghatározott adattartalommal” szövegrész,
+- c) 58. § (6) bekezdésében a „– figyelemmel a 684/2009/EK rendeletre –” szövegrész.
 
 #### 8. Az egyes törvényeknek az otthonteremtési akcióterv bevezetése érdekében szükséges módosításáról szóló 2020. évi CXXXIII. törvény módosítása
 
