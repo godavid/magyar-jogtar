@@ -169,99 +169,35 @@ h)
 
 #### 5. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-41. § A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 41. §
 
-„(2) Az Uniós Vámkódex létrehozásáról szóló 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 952/2013/EU rendelet) 5. cikk 24. pontjában meghatározott nem uniós áruk vámjogi státuszával rendelkező jövedéki termékre e törvény adózatlan jövedéki termékek engedéllyel történő előállítására és tárolására, a jövedéki termékek adófelfüggesztési eljárás keretében történő szállítására és a szabadforgalomba bocsátott jövedéki termékek szállítására és adóztatására vonatkozó rendelkezéseit nem kell alkalmazni.”
+42. § (1)
 
-42. § (1) A Jöt. 3. § (1) bekezdés 2. pontja helyébe a következő rendelkezés lép:
+(2)
 
-(E törvény alkalmazásában)
+(3)
 
-„2. adófelfüggesztési eljárás: a jövedéki termék előállítására, birtoklására, tárolására vagy szállítására alkalmazott, az adófizetési kötelezettséget felfüggesztő adóeljárás;”
+(4)
 
-(2) A Jöt. 3. § (1) bekezdés 4. pontja helyébe a következő rendelkezés lép:
+(5)
 
-(E törvény alkalmazásában)
+(6)
 
-„4. adóraktár: az adóraktár engedélyese által működtetett, jövedéki termék adófelfüggesztési eljárás keretében történő előállítására, birtoklására, tárolására, felhasználására más termék előállításához, feladására és átvételére, továbbá másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal belföldre feladott jövedéki termék átvételére és szabadforgalomba bocsátott jövedéki termék, kereskedelmi céllal másik tagállamba történő feladására szolgáló,
-
-a) fizikailag, így különösen fallal, kerítéssel, mérési ponttal elkülönített, egy technológiai egységet képező, belföldön található üzem, raktár, amely megfelel az e törvényben meghatározott feltételeknek,
-
-b) egy másik tagállam jogszabálya vagy illetékes hatósága által az adóraktár engedélyezésére meghatározott feltételeknek megfelelő hely;”
-
-(3) A Jöt. 3. § (1) bekezdés 6. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„6. AHK-szám: az e-TKO és az e-EKO egyedi adminisztratív hivatkozási kódja;”
-
-(4) A Jöt. 3. § (1) bekezdés 8.–9. pontjai helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„8. bejegyzett feladó: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában harmadik országból behozott jövedéki terméket adófelfüggesztési eljárás keretében, valamint szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki terméket másik tagállamba feladni jogosult személy;
-
-9. bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki termék, valamint másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki termék átvételére jogosult személy;”
-
-(5) A Jöt. 3. § (1) bekezdés 13.–16. pontjai helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„13. e-EKO: szabadforgalomba bocsátott jövedéki termék feladója által az uniós számítógépes rendszerben kiállított, AHK-számmal ellátott elektronikus okmány;
-
-14. elektronikus átvételi elismervény: az e-TKO-val vagy e-EKO-val feladott jövedéki termék címzettje által a jövedéki termék átvételéről az uniós számítógépes rendszerben kiállított elektronikus okmány;
-
-15. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön az állami adó- és vámhatóság) által az uniós számítógépes rendszerben kiállított elektronikus okmány;
-
-16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély, másik tagállam illetékes hatóságának bejegyzése birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket, valamint másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki terméket egy alkalommal átvenni jogosult személy;”
-
-(6) A Jöt. 3. § (1) bekezdése a következő 16a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„16a. eseti igazolt feladó: az állami adó- és vámhatóság által kiadott engedély vagy egy másik tagállam illetékes hatóságának bejegyzése birtokában a szabad forgalomba bocsátott jövedéki terméket másik tagállamba kereskedelmi céllal egy alkalommal feladni jogosult személy;”
-
-(7) A Jöt. 3. § (1) bekezdés 17. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„17. e-TKO: adófelfüggesztési eljárás alatt álló jövedéki termék feladója által az uniós számítógépes rendszerben kiállított, AHK-számmal ellátott elektronikus okmány;”
+(7)
 
 (8)
 
-(9) A Jöt. 3. § (1) bekezdés 23. pontja helyébe a következő rendelkezés lép:
+(9)
 
-(E törvény alkalmazásában)
+(10)
 
-„23. importálás: a jövedéki termékek vámjogi szabadforgalomba bocsátása a 952/2013/EU rendelet 201. cikkével összhangban;”
+(11)
 
-(10) A Jöt. 3. § (1) bekezdés 43. pont d) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában
-
-szabadforgalomba bocsátás:)
-
-„d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján kiegyenlítésre került;”
-
-(11) A Jöt. 3. § (1) bekezdése a következő 43a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„43a. szabálytalan behozatal: olyan jövedéki terméknek az Európai Unió területére való behozatala, amelyeket nem bocsátottak a 952/2013/EU rendelet 201. cikkével összhangban szabad forgalomba, és amelyekre vonatkozóan a 952/2013/EU rendelet 79. cikk (1) bekezdésével összhangban vámtartozás keletkezett, illetve keletkezett volna, ha az áruk vámkötelesek lennének;”
-
-(12) A Jöt. 3. § (1) bekezdés 46. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló 2020. január 15-i 2020/263/EU európai parlamenti és tanácsi határozat szerinti, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;”
+(12)
 
 (13)
 
-43. § A Jöt. 6. § b) pontja helyébe a következő rendelkezés lép:
-
-(Adókötelezettség keletkezik, ha)
-
-„b) a jövedéki terméket importálják vagy szabálytalanul behozzák,”
+#### 43. §
 
 #### 44. §
 
@@ -271,145 +207,37 @@ szabadforgalomba bocsátás:)
 
 (3)
 
-46. § (1)
+#### 46. §
 
-(2) A Jöt. 12. § f) pontja helyébe a következő rendelkezés lép:
+#### 47. §
 
-(A megfizetett adó visszaigénylésére jogosult)
+#### 48. §
 
-„f) a szabadforgalomba bocsátott jövedéki termék belföldről, kereskedelmi céllal másik tagállamba történő szállítása esetén a terméket feladó adóraktár engedélyes, jövedéki engedélyes kereskedő, bejegyzett feladó, kisüzemi bortermelő vagy eseti igazolt feladó és a csomagküldő kereskedő, ha a szállítás során a nem belföldön elkövetett szabálytalanságot követően a 11. § szerint megfizették a jövedéki adót és erről bemutatja a másik tagállam illetékes hatóságának igazolását,”
+#### 49. §
 
-47. § A Jöt. 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 50. §
 
-„(2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő, az eseti igazolt feladó és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.”
+#### 51. §
 
-48. § A Jöt. 15. § (7) bekezdése helyébe a következő rendelkezés lép:
+#### 52. §
 
-„(7) Ha az engedély felfüggesztésére okot adó körülményt az állami adó- és vámhatóság által működtetett elektronikus rendszer észleli, az elektronikus rendszer automatikus intézkedése útján megtagadja az elektronikus átvételi elismervény továbbítását, az e-TKO és az e-EKO tervezet jóváhagyását, továbbítását, valamint erről értesíti az engedélyest.”
+#### 53. §
 
-49. § (1)
+#### 54. §
 
-(2) A Jöt. 18. § (12) bekezdése helyébe a következő rendelkezés lép:
+#### 55. §
 
-„(12) Kérelemre engedélyezhető, hogy a jövedéki biztosítékot
+#### 56. §
 
-a) adófelfüggesztési eljárás keretében végzett szállítás esetén az adóraktár engedélyese vagy a bejegyzett feladó helyett a címzett,
-
-b) szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő helyett a feladó,
-
-a fuvarozó, a jövedéki termék tulajdonosa vagy azok közül több személy együttesen, továbbá készfizető kezesség esetén a (16) bekezdés szerinti kezességvállalási engedéllyel rendelkező személy nyújtsa.”
-
-(3) A Jöt. 18. §-a a következő (13a) bekezdéssel egészül ki:
-
-„(13a) Szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén a jövedéki biztosíték
-
-a) az adófizetési kötelezettség teljesítését követően, vagy
-
-b) ha az adófizetésre kötelezett személy az adófizetési kötelezettség alól a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása miatt mentesül, a mentesüléskor, vagy
-
-c) a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanság esetén a jövedéki adó másik tagállamban történt igazoltan megfizetésekor
-
-szabadul fel vagy használható fel ismételten.”
-
-(4) A Jöt. 18. § (16) bekezdése helyébe a következő rendelkezés lép:
-
-„(16) Az (1) és (1a) bekezdés szerinti adókockázatért vagy annak meghatározott részéért az vállalhat készfizető kezességet, aki rendelkezik az állami adó- és vámhatóság által a (17) bekezdésben meghatározott feltételekkel kiadott, hatályos kezességvállalási engedéllyel, amely tartalmazza a kezességgel összességében vállalható legmagasabb összeghatárt, valamint az engedély időbeli hatályát.”
-
-50. § (1) A Jöt. 21. § (1) bekezdés b)–c) pontja helyébe a következő rendelkezés lép és a bekezdés a következő d) ponttal egészül ki:
-
-[Az adóraktár engedélyese által nyújtott jövedéki biztosíték összegének a 81. § szerinti adóelőleg összegével csökkentve – a 18. § (12) bekezdése szerinti kivétellel – el kell érnie]
-
-„b) azon jövedéki termékek adótartalmának összegét, amelyeket az 53. § (2) bekezdése szerint elkezdődött, de az 53. § (3) bekezdése szerint még be nem fejeződött adófelfüggesztési eljárás keretében – az energiatermékek csővezetékes szállításának kivételével – szállítanak,
-
-c) a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal az adóraktár engedélyese részére feladott, de még át nem vett jövedéki termékek adótartalmának összegét és
-
-d) az adóraktár engedélyesét terhelő, meg nem fizetett adófizetési kötelezettség összegét.”
-
-(2) A Jöt. 21. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az adóraktár engedélyese által nyújtandó jövedéki biztosíték összege)
-
-„a) ha egy hónapra vetítve átlagosan az adófelfüggesztési eljárás keretében általa feladott, a szabadforgalomba bocsátott és az adófizetési kötelezettség alóli mentesülést eredményező célra kiszolgált jövedéki termékek mennyiségének legalább 75%-át az adóraktár engedélyese állította elő, vagy ha egy hónapra vetítve átlagosan az általa adófelfüggesztési eljárás keretében átvett és a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal feladott és általa átvett jövedéki termékek mennyiségének legalább 75%-át adófizetési kötelezettség alóli mentesülést eredményező célra használta fel, az adóraktári engedéllyel 2 éve folytatott tevékenység esetén 10%-kal, majd évente további 10%-kal, de legfeljebb 80%-kal,”
-
-(csökken.)
-
-(3) A Jöt. 21. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) E § alkalmazásában jövedéki termék előállítását végzi az adóraktár engedélyese minden olyan esetben, amikor az adófelfüggesztési eljárás keretében szállított és a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal feladott jövedéki termék átvételét követő, változatlan összetételben történő tárolásán, adófizetési kötelezettséget keletkeztető felhasználásán, valamint másik tagállamba történő feladásán vagy szabadforgalomba bocsátásán kívüli tevékenységet végez a jövedéki termékkel vagy terméken.”
-
-51. § (1) A Jöt. 24. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az adatszolgáltatásának nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra, ideértve a (2) bekezdés b) pontja szerinti adatokat is, ha az adóraktár engedélyese a jövedéki termék belföldi címzett részére történő szabadforgalomba bocsátásáról a szállítólevél adattartalmával megegyező, és a végrehajtási rendeletben meghatározott adatokkal kiegészített adatokat, a szabadforgalomba bocsátással egyidejűleg megküldi az állami adó- és vámhatóságnak.”
-
-(2) A Jöt. 24. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az adóraktár engedélyese)
-
-„b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a jövedéki termék belföldi címzett részére történő szabadforgalomba bocsátásáról a szállítólevél adattartalmával megegyező adatokat a szabadforgalomba bocsátással egyidejűleg küldi meg az állami adó- és vámhatóságnak.”
-
-(3) A Jöt. 24. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az adóraktár engedélyese az elektronikus átvételi elismervény kiállítását követően a jövedéki terméket haladéktalanul felveszi az elektronikus nyilvántartásába, az adófelfüggesztés alatt álló készletébe.”
-
-52. § A Jöt. 25. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bejegyzett kereskedő által nyújtott jövedéki biztosíték összegének el kell érnie az adófelfüggesztési eljárás keretében, valamint a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított, átvett azon jövedéki termékek adótartalmának összegét, amelyek után a bejegyzett kereskedő az adót nem fizette meg.”
-
-53. § A Jöt. 26. § c) pontja helyébe a következő rendelkezés lép:
-
-(Eseti bejegyzett kereskedői engedélyre – az engedélyek megadásának általános szabályaitól eltérően – olyan személy jogosult)
-
-„c) aki az adófelfüggesztési eljárás keretében, valamint a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított, átvett jövedéki termékek adótartalmával megegyező összegű jövedéki biztosítékot nyújt.”
-
-54. § A Jöt. a következő 20/A. alcímmel egészül ki:
-
-„20/A. Eseti igazolt feladó
-
-27/A. § Eseti igazolt feladói engedélyre – az engedélyek megadásának általános szabályaitól eltérően – olyan személy jogosult
-
-a) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, és
-
-b) akinek nincs meg nem fizetett köztartozása, társadalombiztosításijárulék-tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek.”
-
-55. § A Jöt. 28. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha a másik tagállamban szabadforgalomba bocsátott, a jövedéki engedélyes kereskedő részére feladott jövedéki termékek adótartamára nyújtandó jövedéki biztosíték összege meghaladja az (1)–(3) bekezdés alapján nyújtandó biztosíték összegét, a jövedéki biztosítékot a szállítás megkezdése előtt ki kell egészíteni a jövedéki termék adótartamára nyújtandó biztosítéki összeg erejéig.”
-
-56. § A Jöt. 29. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A jövedéki engedélyes kereskedő a beszerzéseiről és a készletében csökkenést eredményező eseményekről, valamint a napi zárókészletéről – telephelyenként – folyamatosan elektronikus nyilvántartást vezet, amelyből a tárgyhóra vonatkozóan a végrehajtási rendelet szerinti adattartalmú adatszolgáltatást teljesít az állami adó- és vámhatóság részére a tárgyhót követő hónap 12. napjáig, amelynek nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra.”
-
-57. § A Jöt. 24. alcíme helyébe a következő rendelkezés lép:
-
-„24. Csomagküldő kereskedelem
-
-35. § (1) Belföldről másik tagállamba irányuló csomagküldő kereskedelem végzéséhez állami adó- és vámhatósági nyilvántartásba vétel szükséges a csomagküldő kereskedő számára.
-
-(2) Másik tagállamból belföldre irányuló csomagküldő kereskedelem végzéséhez a csomagküldő kereskedő állami adó- és vámhatóság általi nyilvántartásba vétele vagy belföldi székhelyű, az állami adó- és vámhatóság által nyilvántartásba vett adóügyi képviselő megbízása szükséges.
-
-(3) A (2) bekezdés szerinti esetben a csomagküldő kereskedőt vagy a csomagküldő kereskedő adóügyi képviselőjét az állami adó- és vámhatóság abban az esetben veszi nyilvántartásba, ha a csomagküldő kereskedő vagy az adóügyi képviselő a 14. § (1) bekezdés c), d), és g) pontja szerinti feltételeket teljesíti.”
+#### 57. §
 
 #### 58. §
 
-59. § (1) A Jöt. 62. § (1) bekezdése helyébe a következő rendelkezés lép és a § a következő (1a)–(1d) bekezdéssel egészül ki:
+59. § (1)
 
-„(1) Az egyik tagállamban szabadforgalomba bocsátott jövedéki termék másik tagállamba kereskedelmi céllal e-EKO-val szállítható.
+(2)
 
-(1a) Szabadforgalomba bocsátott jövedéki terméket kereskedelmi céllal belföldről másik tagállamba adóraktár engedélyese, bejegyzett feladó, eseti igazolt feladó, jövedéki engedélyes kereskedő és kisüzemi bortermelő adhat fel.
-
-(1b) Másik tagállamban szabadforgalomba bocsátott jövedéki terméket kereskedelmi céllal adóraktár engedélyese, bejegyzett kereskedő, eseti bejegyzett kereskedő és jövedéki engedélyes kereskedő vehet át belföldön.
-
-(1c) A kereskedelmi célú szállítás akkor kezdődik, amikor a jövedéki termék belföldön elhagyja az adóraktár területét, a jövedéki engedélyes kereskedő telephelyét, az eseti igazolt feladó, illetve a bejegyzett feladó feladási helyét vagy másik tagállamban az illetékes hatóság által bejegyzett személy telephelyét.
-
-(1d) A kereskedelmi célú szállítás akkor fejeződik be, amikor a jövedéki terméket belföldön az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő, vagy másik tagállamban az illetékes hatóság által bejegyzett személy átveszi.”
-
-(2) A Jöt. 62. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Kereskedelmi célúnak minősül az (1) bekezdés szerinti szállítás, ha a jövedéki terméket a másik tagállamban nem magánszemély veszi át vagy magánszemély a címzett, de a szállítás nem a (3) bekezdés vagy a 63. § rendelkezéseinek megfelelően történt.”
-
-(3) A Jöt. 62. § (3) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
-
-„(3) Nem kereskedelmi célú a szállítás, ha az egyik tagállamban szabadforgalomba bocsátott, megvásárolt jövedéki terméket a magánszemély saját felhasználására, saját maga szállítja másik tagállamba. Annak megállapítása érdekében, hogy a jövedéki termék magánszemély saját felhasználását szolgálja, az állami adó- és vámhatóság a következő szempontokat vizsgálja:”
+(3)
 
 (4)
 
@@ -417,64 +245,55 @@ b) akinek nincs meg nem fizetett köztartozása, társadalombiztosításijárul�
 
 (6)
 
-60. § A Jöt. 63. §-a helyébe a következő rendelkezés lép:
+#### 60. §
 
-„63. § (1) A jövedéki termék csomagküldő kereskedelem keretében belföldre szállítása esetén az adókötelezettséget és az adófizetési kötelezettséget a csomagküldő kereskedő vagy a csomagküldő kereskedő 35. § szerinti adóügyi képviselője teljesíti.
-
-(2) A csomagküldő kereskedő vagy a csomagküldő kereskedő adóügyi képviselője minden belföldre küldött szállítmányt a belföldre történő feladás napján bejelenti az állami adó- és vámhatósághoz.
-
-(3) A csomagküldő kereskedőtől beszerzett jövedéki termék eredete csak a címzett nevére kiállított számlával igazolható.
-
-(4) Az állami adó- és vámhatóság az adó megfizetéséről – kérésre – igazolást ad a csomagküldő kereskedőnek.
-
-(5) A csomagküldő kereskedő vagy a csomagküldő kereskedő adóügyi képviselője által nyújtott jövedéki biztosíték felszabadul
-
-a) az adófizetési kötelezettség teljesítését követően,
-
-b) ha az adófizetésre kötelezett személy az adófizetési kötelezettség alól a jövedéki termék teljes megsemmisülése vagy helyrehozhatatlan károsodása miatt mentesül, vagy
-
-c) ha a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanság esetén a jövedéki adót másik tagállamban igazoltan megfizették.”
-
-61. § A Jöt. 79. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha a jövedéki engedélyes kereskedőnek a tárgyhóban nem keletkezett adófizetési kötelezettsége, akkor nem kell adóbevallást benyújtania.”
+#### 61. §
 
 #### 62. §
 
-63. § (1) A Jöt. 152. § a) pontja helyébe a következő rendelkezés lép:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„a) a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelv,”
+63. § (1)
 
 (2)
 
 (3)
 
-64. § A Jöt.
+#### 64. §
 
-- a)
-- b) 3. § (1) bekezdés 44. pont g) alpontjában az „a vámjogszabályok megsértésével” szövegrész helyébe a „szabálytalan behozatal során” szöveg,
-- c)
-- d) 8. § (1) bekezdés o) pont oe) alpontjában a „szabálytalan importálásban” szövegrész helyébe a „szabálytalan behozatalban” szöveg,
-- e)
-- f) 19. § (1) bekezdés nyitó szövegrészében az „állítható elő” szövegrész helyébe az „állítható elő, birtokolható” szöveg,
-- g) 24. § (2) bekezdésében b) pontjában az „a szabadforgalomba” szövegrész helyébe az „a belföldön szállítólevéllel szabadforgalomba” szöveg,
-- h)
-- i) 51. § (1) bekezdés nyitó szövegrészében a „2008. december 16-i 2008/118/EK tanácsi irányelv 40. cikke” szövegrész helyébe a „jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelv 48. cikke” szöveg,
-- j) 67. § (7) bekezdésében a „jövedéki termék értékesítéséről” szövegrész helyébe a „jövedéki termék belföldi értékesítéséről” szöveg,
-- k)
-- l)
+a)
 
-lép.
+b)
 
-65. § Hatályát veszti a Jöt.
+c)
 
-- a) 3. § (1) bekezdés 52. pontja,
-- b) 25. alcíme,
-- c) 90. § (1) bekezdés „az EKO,” szövegrésze,
-- d)
-- e) 152. § i) pontja.
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+l)
+
+#### 65. §
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
 
 ### III. Fejezet — HELYI ADÓK
 
