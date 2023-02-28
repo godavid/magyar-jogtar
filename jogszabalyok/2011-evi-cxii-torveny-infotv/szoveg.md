@@ -876,7 +876,7 @@ adatait teszik közzé.
 - c) hivatalból titokfelügyeleti hatósági eljárást folytat;
 - d) a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolatos jogsértéssel összefüggésben bírósághoz fordulhat;
 - e) a más által indított perbe beavatkozhat;
-- f)
+- f) bejelentés alapján és hivatalból átláthatósági hatósági eljárást folytat;
 - g) kérelemre adatkezelési engedélyezési eljárást folytat;
 - h) ellátja az Európai Unió kötelező jogi aktusában, így különösen az általános adatvédelmi rendeletben és a 2016/680 (EU) irányelvben a tagállami felügyeleti hatóság részére megállapított, továbbá a törvényben meghatározott egyéb feladatokat.
 
@@ -984,13 +984,13 @@ dönt.
 
 #### 28. A Hatóság elnökének helyettese
 
-46. § (1) A Hatóság elnökének munkáját az általa határozatlan időre kinevezett helyettes segíti. A Hatóság elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
+46. § (1) A Hatóság elnökének munkáját az általa határozatlan időre kinevezett kettő helyettes segíti. A Hatóság elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
 
 (2) Az elnökhelyettesnek meg kell felelnie a Hatóság elnökének kinevezéséhez szükséges, a 40. § (1) és (2) bekezdésében előírt feltételeknek, azzal, hogy az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében öt év szakmai tapasztalattal kell rendelkeznie.
 
 (3) Az elnökhelyettes összeférhetetlenségére a 41. §-ban foglaltakat megfelelően alkalmazni kell.
 
-(4) Az elnökhelyettes az elnök akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, gyakorolja az elnök hatásköreit és ellátja feladatait.
+(4) Az elnökhelyettesek az elnök akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, – az elnök által meghatározott módon – gyakorolják az elnök hatásköreit és ellátják feladatait.
 
 47. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 42. § rendelkezései megfelelően irányadóak, azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a Hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
 
@@ -1049,6 +1049,8 @@ dönt.
 
 (1a) A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.
 
+(1b) A Hatóság vizsgálata a 24/B. alcím szerinti közzétételi kötelezettség teljesítése ellenőrzésével összefüggésben nem indítható, az erre irányuló bejelentést a 63/A. § (2) bekezdése szerinti átláthatósági hatósági eljárás kezdeményezésére irányuló bejelentésnek kell tekinteni.
+
 (2) A Hatóság vizsgálata nem minősül közigazgatási hatósági eljárásnak.
 
 (3) A Hatósághoz tett bejelentése miatt senkit sem érhet hátrány. A bejelentő kilétét a Hatóság csak akkor fedheti fel, ha ennek hiányában a vizsgálat nem lenne lefolytatható. Ha a bejelentő kéri, kilétét a Hatóság akkor sem fedheti fel, ha ennek hiányában a vizsgálat nem folytatható le. Erről a következményről a Hatóság a bejelentőt köteles tájékoztatni.
@@ -1079,6 +1081,8 @@ dönt.
 
 - a) a (3)–(4) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban a vizsgálat megindítását követően jutott a hatóság tudomására,
 - b) a vizsgálat folytatására okot adó körülmény már nem áll fenn.
+
+(5a) A Hatóság – a 33/A. alcím szerinti átláthatósági hatósági eljárás hivatalbóli megindításával egyidejűleg – a vizsgálatot megszünteti vagy a vizsgálatot az e részében megszünteti, ha a vizsgálat során jut arra a megállapításra, hogy a közzétételre kötelezett a 24/B. alcím szerinti közzétételi kötelezettségének feltehetően nem tesz eleget. A megszüntetésről a bejelentőt a 63/A. § (2) bekezdése szerint megfelelően értesíteni kell.
 
 (6) A Hatóság a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről és az elutasítás, illetve a megszüntetés indokairól értesíti a bejelentőt.
 
@@ -1346,6 +1350,36 @@ szerint kiszabott bírság esetén.
 (6) A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
 (7) A (2) bekezdésben meghatározott per során a bírón, a felperesen és az alperesen kívüli személyek a minősített adatot csak akkor ismerhetik meg, ha az adat minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal rendelkeznek
+
+#### 33/A. Átláthatósági hatósági eljárás
+
+63/A. § (1) A 24/B. alcím szerinti közzétételi kötelezettség teljesítése érdekében a Hatóság bejelentés alapján átláthatósági hatósági eljárást indít és hivatalból átláthatósági hatósági eljárást indíthat. Az eljárásra az e törvényben foglaltakkal összhangban alkalmazni kell az általános közigazgatási rendtartásról szóló törvény rendelkezéseit.
+
+(2) Az átláthatósági hatósági eljárás megindítása érdekében bárki bejelentést tehet. Az átláthatósági hatósági eljárást akkor is hivatalból megindított eljárásnak kell tekinteni, ha azt bejelentés előzte meg. A bejelentőt az átláthatósági eljárás megindításáról, illetve befejezéséről a Hatóság értesíti.
+
+(3) A Hatóság hivatalból átláthatósági hatósági eljárást indít akkor, ha a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban folytatott vizsgálata során jut arra a megállapításra, hogy a 24/B. alcím szerinti közzétételre kötelezett a közzétételi kötelezettségét feltehetően nem teljesítette.
+
+(4) Ha az átláthatósági hatósági eljárást a (3) bekezdés szerint bejelentésen alapuló vizsgálat előzte meg, a bejelentőt az átláthatósági hatósági eljárás megindításáról, illetve befejezéséről a Hatóság értesíti.
+
+(5) A (2) bekezdésben meghatározott esetben a bejelentés tartalmazza
+
+- a) a feltételezett jogsértés megjelölését,
+- b) a feltételezett jogsértést megvalósító magatartás vagy állapot leírását,
+- c) a feltételezett jogsértést megvalósító – a 24/B. alcím szerinti, felületen közzétételre kötelezett – adatkezelő azonosításához szükséges, a bejelentő rendelkezésére álló adatokat,
+- d) a feltételezett jogsértéssel kapcsolatos állításokat valószínűsítő tényeket.
+
+63/B. § (1) Az átláthatósági hatósági eljárásban az ügyintézési határidő negyvenöt nap.
+
+(2) Az átláthatósági hatósági eljárásban hozott határozatában a Hatóság a 24/B. alcím szerinti közzétételi kötelezettségekkel összefüggésben
+
+- a) megállapíthatja a közzétételre kötelezett adatkezelő közzétételi kötelezettséggel összefüggő jogsértése tényét – ideértve azt az esetet is, ha a közzétételre a valóságnak nem megfelelő adatokkal vagy hiányosan került sor –,
+- b) az a) ponttal összefüggésben elrendeli a 24/B. alcím szerinti közzétételi kötelezettség – ideértve valós adatok közzétételét, illetve a közzétett adatokból hiányzó adatok pótlását is – soron kívüli, de legfeljebb 15 napon belüli teljesítését.
+
+(3) Ha a 24/B. alcím szerinti közzétételre kötelezett a megállapított kötelezettségnek (2) bekezdés b) pontja szerinti határidőn belül nem tesz eleget, a Hatóság bírságot szabhat ki. A bírság mértéke százezertől ötvenmillió forintig terjedhet.
+
+(4) A Hatóság annak eldöntésében, hogy indokolt-e a (3) bekezdés szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértés súlyát – ideértve a mulasztással érintett adatok számát, a jogsértő állapot fennállásának időtartamát –, valamint azt, hogy a jogsértővel szemben korábban állapítottak-e meg a 24/B. alcím szerinti közzétételi kötelezettséggel kapcsolatos jogsértést.
+
+(5) A Hatóság elrendelheti határozatának – a 24/B. alcím szerint közzétételre kötelezett adatkezelő adatainak közzétételével történő – nyilvánosságra hozatalát, ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
 
 #### 34. A Hatóság által indítható per
 
