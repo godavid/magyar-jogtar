@@ -107,7 +107,7 @@ kiskereskedelmi értékesítésére.
 - d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
 - e)
 - f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
-- g) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
+- g) a dohánytermék-kiskereskedelmi tevékenységet végző személyek részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
 - h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
 - i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
 - j) fogadja a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló rendeletében meghatározott, dohányboltban forgalmazott termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
@@ -287,7 +287,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (4) Dohánytermék-kiskereskedelmi tevékenységet 18 éven aluli személy nem folytathat.
 
-(4a) A dohánytermék-kiskereskedelmi tevékenységet folytató személy szakmai tudását önképzés és kötelező továbbképzés útján fejleszti. A kötelező továbbképzés megszervezése a Hatóság feladata.
+(4a) A dohánytermék-kiskereskedelmi tevékenységet végző személy szakmai tudását önképzés és kötelező képzés útján fejleszti. A képzés teljesítésének részletszabályait a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetéséről, szakmai képzés feltételeiről, annak teljesítéséről és díjáról szóló rendelete tartalmazza. Nem kötelező a képzés azon, a 10. § (1) bekezdése alapján a dohánytermék kiskereskedelmi tevékenység folytatására külön feljogosított személy részére, aki tevékenységét olyan településen folytatja, ahol az állandó lakosok száma a 4000 főt nem haladja meg.
 
 (5) Nem adható meg az engedély, ha
 
@@ -511,6 +511,7 @@ fogadhatja el.
 - b) az állammal szembeni kötelezettségét nem teljesíti,
 - c) a számára előírt nyilvántartási, adatszolgáltatási kötelezettségnek nem tesz eleget vagy hamis adatot közöl, vagy
 - d) a fiatalkorúak különös védelmére vonatkozó, a 16. §-ban foglalt szabályokat megsérti.
+- e) a 13. § (4a) bekezdése szerinti kötelező szakmai képzést nem teljesíti.
 
 (3) A jogosulatlan dohánytermék kiskereskedelmi tevékenységet folyató személyt a Hatóság
 
@@ -697,6 +698,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
 - f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a dohánytermékek árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére, az így keletkező közadatok újrahasznosítására,
 - g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forgalmazható termékekre és nyújtható szolgáltatásokra
+- h) a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetésére, szakmai képzés feltételeire, annak teljesítésére és díjára
 
 vonatkozó részletes szabályokat rendeletben megállapítsa.
 

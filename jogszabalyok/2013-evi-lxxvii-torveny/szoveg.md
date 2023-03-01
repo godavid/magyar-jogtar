@@ -201,7 +201,15 @@ kell folytatnia,
 
 (3) A felnőttképző a felnőttképzési tevékenység végzésére – a képzés személyi és tárgyi feltételei kivételével – más jogalannyal nem állapodhat meg.
 
-#### 11/A. §
+11/A. § (1) A szakképzésről szóló törvény szerinti szakmai képzés kimeneti követelményeit meghatározó programkövetelményekről a felnőttképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közzéteszi.
+
+(2) Programkövetelményre, annak módosítására és törlésére a felnőttképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, a Kormány rendeletében meghatározottak szerinti szakértő rendelhető ki. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet.
+
+(3) Nem köteles a kérelmező a (2) bekezdés szerinti igazgatási szolgáltatási díjat megfizetni az adott ágazat által kezdeményezett és jogszabály valamely munkakör betöltéséhez kapcsolódó szakképesítés megszerzésére vonatkozó programkövetelményének kérelme, valamint a szakgimnázium keretében az alaptevékenységéhez kapcsolódó szakmai képzést érintő kérelmek esetében. Az igazgatási szolgáltatási díj a felnőttképzésért felelős miniszter által vezetett minisztérium bevétele.
+
+(4) A szakképzésről szóló törvény szerinti ágazati készségtanács szakvéleményt adhat a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben.
+
+(5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
 
 #### 6. A képzési program tartalma
 
@@ -537,8 +545,12 @@ rendeletben jelölje ki.
 - f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősítésének feltételeit, eljárását és módját,
 - g) a munkaerő-piaci előrejelző rendszer működésére, az adatszolgáltatás rendjére, továbbá a munkaerő-piaci előrejelző rendszer működéséért felelős szervnek a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat,
 - h) a komplex felzárkózási képzések részletes szabályait, valamint, hogy ezen képzések szervezéséért és a képzések engedélyezéséért, ellenőrzéséért felelős szervet rendeletben jelölje ki.
+- i) a programkövetelmény nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőkre vonatkozó rendelkezéseket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét,
 
-(3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét.
+(3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy
+
+- a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
+- b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
@@ -571,7 +583,7 @@ vonatkozó részletes szabályokat.
 
 31. § Az egyes képzéseket és a foglalkoztatást érintő törvények módosításáról szóló 2021. évi CXLVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (2) bekezdését arra a felnőttképzési szakértőre, aki a felnőttképzési szakértői tevékenység végzését 2022. január 1-jét megelőzően a felnőttképzési államigazgatási szerv számára bejelentette, azzal az eltéréssel kell alkalmazni, hogy ha a felnőttképzési szakértő nem felel meg a Módtv2.-vel megállapított 6. § (2) bekezdés d) pontjában meghatározott feltételeknek, a továbbképzési- és vizsgakötelezettségének a 2022. január 1-jét követő első továbbképzési időszak végéig tehet eleget.
 
-#### 32. §
+32. § E törvénynek az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezései szerint programkövetelményre, annak módosítására és törlésére vonatkozó javaslat 2023. március 1-jétől nyújtható be a felnőttképzésért felelős miniszternek azzal, hogy a 2023. március 1-jén a programkövetelmény nyilvántartásba vétele, módosítása és törlése tárgyában folyamatban lévő eljárásban a Módtv3.-nak a hatálybalépését megelőző napon hatályos, a szakképzésről szóló 2019. évi LXXX. törvény rendelkezéseit kell alkalmazni.
 
 33. § E törvénynek a Módtv3.-mal megállapított 15. § (1) bekezdés d) pontja, 15/A. §-a, 16. § a) pontja, módosított 11. § (1) bekezdés b) pontja és (2) bekezdés e) pontja szerinti rendelkezéseit a Módtv3. hatálybalépésének időpontjában folyamatban levő képzések esetében is alkalmazni kell.
 

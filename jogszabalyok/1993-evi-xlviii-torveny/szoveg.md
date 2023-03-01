@@ -137,7 +137,7 @@ megtiltja az adott tevékenység folytatását.
 - d) földgáz tárolására alkalmas földtani szerkezetek kutatását, kiképezését és tárolásra történő hasznosítását, ha ez a környezetet nem veszélyezteti,
 - e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld alatti gáztároló létesítményei létesítését, használatba vételét, elbontását, illetőleg felhagyását,
 - f) a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazását, a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, valamint felhagyását,
-- g) a geotermikus energia kinyerését és hasznosítását, valamint az ehhez szükséges – külön jogszabályban meghatározott – földalatti és felszíni létesítmények megépítését és használatba vételét, ha a tevékenység nem vízjogi engedély köteles,
+- g) a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
 - h) a bányászati hulladék kezelését,
 - i) a polgári robbantási tevékenységet és a polgári felhasználású robbanóanyag forgalmazását,
 - j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét,
@@ -151,7 +151,7 @@ megtiltja az adott tevékenység folytatását.
 
 (4) A bányafelügyelet az engedély kiadását nem tagadhatja meg, ha az engedély iránti kérelemben foglaltak a jogszabályokban meghatározott követelményeknek megfelelnek.
 
-(4a) A bányafelügyelet kutatási engedély, bányatelek megállapítása, feltárási és kitermelési műszaki üzemi terv jóváhagyása, valamint meddőhányóhasznosítás-engedélyezés iránti kérelmet elutasítja, ha
+(4a) A bányafelügyelet kutatási engedély, bányatelek megállapítása, feltárási és kitermelési műszaki üzemi terv jóváhagyása, a 21/C. § szerinti szerződés megkötése, valamint meddőhányóhasznosítás-engedélyezés iránti kérelmet elutasítja, ha
 
 - a) a kérelmezőnek
   - aa) koncessziós díj, bányajáradék, felügyeleti díj,
@@ -222,7 +222,7 @@ tartozása van, vagy
 
 - a) zárt területen
   - aa) az ásványi nyersanyagok kutatását, feltárását, kitermelését,
-  - ab) a geotermikus energia kutatását, kinyerését és hasznosítását,
+  - ab)
   - ac)
 - b) a kőolaj, a kőolajtermék, továbbá – a földgáz kivételével – az egyéb szénhidrogén-gáz szállítóvezetékek létesítését és üzemben tartását.
 
@@ -230,7 +230,7 @@ tartozása van, vagy
 
 9. § (1) Koncessziós pályázatra kijelölhető területként a Hatóság elnökének rendeletében zárt területté nyilvánított területet lehet figyelembe venni.
 
-(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
+(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata kedvezőnek ígérkezik.
 
 (2a) A (2) bekezdés szerinti érzékenységi és terhelhetőségi vizsgálatot a bányafelügyelet folytatja le. A vizsgálatban a Hatóság elnökének rendelete szerinti adatszolgáltatási és véleményezési körben közreműködik
 
@@ -250,7 +250,7 @@ tartozása van, vagy
 - n) a vízvédelemért felelős miniszter által kijelölt szerv és
 - o) a természetvédelemért felelős miniszter által kijelölt szerv.
 
-(2b) Az érzékenységi és terhelhetőségi vizsgálatban a (2a) bekezdés szerint közreműködő szervezet arról nyilatkozik, hogy a zárt területen fennáll-e a bányászati tevékenység végzését vagy a geotermikus energia kutatását és kinyerését kizáró vagy korlátozó ok. A kizáró vagy korlátozó ok fennállását a közreműködő szervezetnek indokolnia kell.
+(2b) Az érzékenységi és terhelhetőségi vizsgálatban a (2a) bekezdés szerint közreműködő szervezet arról nyilatkozik, hogy a zárt területen fennáll-e a bányászati tevékenység végzését kizáró vagy korlátozó ok. A kizáró vagy korlátozó ok fennállását a közreműködő szervezetnek indokolnia kell.
 
 (2c) A közreműködő szervezet a nyilatkozatában foglaltakhoz a koncessziós tevékenység teljesítéséhez szükséges hatósági eljárások tekintetében kötve van, kivéve, ha a nyilatkozat megadásakor fennálló állapotokhoz képest olyan változások történtek, amelyek alapján a nyilatkozatban foglaltak nem tarthatók fenn. A megváltozott körülményeket a közreműködő szervezetnek kell igazolni.
 
@@ -264,7 +264,7 @@ tartozása van, vagy
 
 (2) A pályázati kiírásnak a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakra is figyelemmel, tartalmaznia kell:
 
-- a) a pályázatban meghirdetett terület vagy térrész meghatározását annak feltüntetésével, hogy a területen, vagy a térrészben harmadik személy rendelkezik-e jogosultsággal ásványi nyersanyag bányászatára, geotermikus energia kinyerésére, hasznosítására vagy az e törvény hatálya alá tartozó egyéb tevékenység gyakorlására,
+- a) a pályázatban meghirdetett terület vagy térrész meghatározását annak feltüntetésével, hogy a területen, vagy a térrészben harmadik személy rendelkezik-e jogosultsággal ásványi nyersanyag bányászatára, vagy az e törvény hatálya alá tartozó egyéb tevékenység gyakorlására,
 - b) a koncessziós tevékenység szakmai követelményeit, valamint az érzékenységi és terhelhetőségi vizsgálat eredménye alapján meghatározott követelményeket, és a követelmények teljesítéséhez szükséges biztosíték-adási kötelezettséget,
 - c) a benyújtandó kutatási munkaprogram tartalmi követelményeit,
 - d) a pályázó gazdálkodási, pénzügyi helyzetének bemutatására vonatkozó követelményre, a részvételi díjra vonatkozó tájékoztatást, valamint
@@ -308,11 +308,11 @@ tartozása van, vagy
 
 ### A kutatás, feltárás és kitermelés
 
-14. § (1) A koncesszió időtartamán belül a tervezett ásványinyersanyag-kutatási, illetve geotermikusenergia-kutatási időszak 4 évnél hosszabb nem lehet. A kutatási időszak legfeljebb egy alkalommal, geotermikus energia és nem hagyományos eredetű szénhidrogén esetében két alkalommal, az eredeti kutatási időszak felével meghosszabbítható.
+14. § (1) A koncesszió időtartamán belül a tervezett ásványinyersanyag-kutatási időszak 4 évnél hosszabb nem lehet. A kutatási időszak legfeljebb egy alkalommal, nem hagyományos eredetű szénhidrogén esetében két alkalommal, az eredeti kutatási időszak felével meghosszabbítható.
 
 (2)
 
-15. § Ha a koncesszió jogosultja a szerződésben meghatározott határidőn belül, legkésőbb azonban a bányatelek megállapításától számított 5 éven, illetve a geotermikus védőidom kijelölésétől számított 3 éven belül a kitermelést, az energetikai célú hasznosítást nem kezdi meg, a szerződésben meghatározott térítést köteles megfizetni. Ha a térítésfizetési kötelezettségnek nem tesz eleget, a koncesszió megszűnik.
+15. § Ha a koncesszió jogosultja a szerződésben meghatározott határidőn belül, legkésőbb azonban a bányatelek megállapításától számított öt éven belül a kitermelést nem kezdi meg, a szerződésben meghatározott térítést köteles megfizetni. Ha a térítésfizetési kötelezettségnek nem tesz eleget, a koncesszió megszűnik.
 
 ### Szénhidrogének szállítása és föld alatti tárolása
 
@@ -442,7 +442,7 @@ f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosít
 
 a) az ásványi nyersanyag fajták,
 
-b) a kitermelés, illetve a geotermikus energia hasznosítás eredményességét befolyásoló természeti adottságok és
+b) a kitermelés eredményességét befolyásoló természeti adottságok és
 
 c) egyéb közérdek
 
@@ -484,11 +484,92 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (3) Az első feltárási, kitermelési műszaki üzemi terv jóváhagyását követően a bányavállalkozónak a bányabezárás (mezőfelhagyás), illetve tájrendezés bányafelügyeleti elfogadásáig folyamatosan rendelkeznie kell hatályos kitermelési, szüneteltetési, bányabezárási vagy tájrendezési műszaki üzemi tervvel.
 
+### Geotermikus energia kutatása és hasznosítása
+
+21/A. § (1) Geotermikus energia kutatását a bányafelügyelet engedélye alapján lehet végezni.
+
+(2) A bányavállalkozó a kutatási engedély alapján a kutatási területen kizárólagosan jogosult a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, továbbá a geotermikus védőidom kijelölésének a kezdeményezésére.
+
+(3) A kutatás engedélyezése iránti kérelemhez mellékelni kell a kutatási munkaprogramot. A kutatási engedély megadásának feltétele a Hatóság elnökének rendeletében megállapított pénzügyi biztosíték nyújtása.
+
+(4) A kutatási időszak legfeljebb négy év lehet, amely az engedélyezett időszak felével egy alkalommal meghosszabbítható.
+
+(5) Ha a bányavállalkozó a kutatási engedélyben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a bányafelügyelet a kutatási engedélyt visszavonja.
+
+(6) A bányavállalkozó az engedélyezett kutatási időszak utolsó napjától számított három hónapos jogvesztő határidőn belül – kutatási zárójelentés benyújtásával – kérheti a geotermikus védőidom megállapítását.
+
+(7) A kutatási terület kialakítására és mértékére, az azonos bányavállalkozó jogosultságában álló kutatási területek számára, valamint a kutatási engedély tartalmi követelményeire vonatkozó szabályokat a Hatóság elnöke rendeletben állapítja meg.
+
+(8) A bányafelügyelet a geotermikus kutatási területről nyilvántartást vezet, amely tartalmazza
+
+- a) a kutatást engedélyező határozat számát és véglegessé válásának napját,
+- b) a kutatási terület közigazgatási megjelölését az érintett települések megnevezésével, valamint az egységes országos vetületi rendszer (a továbbiakban: EOV rendszer) szerinti koordinátákkal történő lehatárolását, a kutatási blokkok EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatási terület alap- és fedőlapját,
+- c) a kutatási engedély jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét,
+- d) a kutatásra engedélyezett időtartamot és
+- e) a kutatási engedély visszavonása esetén, a kutatási engedély megszűnésének napját.
+
+(9) A (8) bekezdés szerinti nyilvántartás – a (8) bekezdés c) pontja szerinti adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+21/B. § (1) Geotermikus energiát kinyerni – a (6) bekezdés szerinti eset kivételével – a földkéreg e célra elhatárolt részéből (geotermikus védőidom) szabad.
+
+(2) A geotermikus védőidomot kérelemre a bányafelügyelet jelöli ki. Geotermikus védőidomok nem lehetnek átfedésben. Ivó-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett vízadók, víztestek geotermikus védőidomként nem jelölhetőek ki.
+
+(3) Geotermikus védőidomként olyan térrészt lehet kijelölni, amely adott technológia alkalmazása mellett legalább huszonöt évig biztosítja a kinyerni tervezett geotermikus energia mennyiségét.
+
+(4) A bányafelügyelet a geotermikus védőidomot kijelölő döntésében – a vízügyi hatóság szakhatósági állásfoglalása alapján – rendelkezik a kitermelhető termálvíz éves mennyiségéről, a kitermelt víz elhelyezésének módjáról és a vízkészletjárulék megállapításához szükséges adatokról.
+
+(5) A geotermikus védőidomon belül e törvény hatálya alá nem tartozó geotermikus energia kinyerésére és hasznosítására szolgáló létesítmény építéséhez a bányafelügyelet előzetes hozzájárulása szükséges.
+
+(6) A természetes felszíntől mért 150 m feletti földkéregrészig a geotermikus energia kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
+
+(7) A geotermikus energia (6) bekezdés alapján történő kinyerésére és hasznosítására a 3. §-t, a 20. §-t, a 21/B. § (8) bekezdését, a 25. § (2) bekezdés b) pontját, a 25. § (3a) bekezdés d) pontját és a 41. §-t alkalmazni kell.
+
+(8) A geotermikusenergia-hasznosító létesítményekről, a kitermelt és hasznosított geotermikus energia mennyiségéről, valamint a megállapított geotermikus védőidomokról a bányafelügyelet nyilvántartást vezet.
+
+21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet.
+
+(2) A szerződés megkötésének feltétele, hogy a bányavállalkozó
+
+- a) rendelkezzen olyan jognyilatkozattal, illetve szándéknyilatkozattal, amely a kinyerni tervezett geotermikus energia hasznosítási célnak megfelelő felhasználását biztosítja,
+- b) rendelkezzen geotermikus védőidomot kijelölő végleges határozattal és
+- c) vállalja, hogy az adott hasznosítási célra felhasználni tervezett geotermikus energia éves mennyiségét kinyeri.
+
+(3) A szerződés legfeljebb harmincöt évi időtartamra köthető, amely egy alkalommal, legfeljebb az eredeti időtartam felével meghosszabbítható.
+
+(4) A szerződés meghosszabbítását annak lejárata előtt legalább hat hónappal korábban kell kezdeményezni. A határidő elmulasztása esetén a szerződést meghosszabbítani nem lehet.
+
+(5) A szerződés tartalmazza a geotermikus energia-kinyerés célját, tervezett hasznosítási formáját és az alkalmazott kinyerési technológiát, valamint a (6) bekezdés szerinti vízvisszasajtolási kötelezettség teljesítésére vonatkozó rendelkezéseket.
+
+(6) A bányavállalkozó a kitermelt vizet a technikai és földtani lehetőségekhez képest teljes mértékben visszasajtolja.
+
+(7) A Hatóság a szerződést felmondhatja, ha a geotermikus energiát felhasználó személy nyilatkozik arról, hogy a bányavállalkozó a szolgáltatási kötelezettségét neki felróhatóan nem teljesíti.
+
+(8) A bányavállalkozó a szerződést hat hónapos felmondási idővel felmondhatja, ha a jogszabályváltozás számára olyan mértékben hátrányos, hogy a szerződés fenntartása a továbbiakban tőle már nem várható el. A felmondásnak valósnak, okszerűnek és részletesen indokoltnak kell lennie.
+
+(9) A Hatóság a szerződést hat hónapos felmondási idővel felmondhatja, ha a bányavállalkozó
+
+- a) a tevékenységére vonatkozó jogszabályt vagy a rá vonatkozó hatósági döntés előírásait súlyosan megsértette és ennek tényét bíróság jogerősen vagy hatóság véglegessé vált döntéssel megállapította, vagy
+- b) a szerződésben megállapított kötelezettségét neki felróható módon súlyosan megsértette.
+
+(10) A (8) és (9) bekezdésben foglalt felmondási okokon túl a szerződés további felmondási okokat is rögzíthet.
+
+(11) Ha a szerződés megszűnésekor a geotermikus energia kinyerésére és hasznosítására kiépített technológia továbbra is alkalmas a szerződés szerinti szolgáltatás teljesítésére, illetve a geotermikus rendszerhez kapcsolódó ellátatlan fogyasztó (a továbbiakban: ellátatlan fogyasztó) marad, a geotermikus energia kinyerésére és hasznosítására vonatkozó jog új jogosultjának kijelölése céljából a bányafelügyelet pályázatot ír ki a Hatóság elnökének rendeletében foglaltak szerint.
+
+(12) A Hatóság a pályázat nyertesével szerződést köt azzal, hogy a nyertes pályázati ajánlat feltételeinek vállalása esetén a Hatóság az ellátatlan fogyasztóval köt szerződést. Ha több ellátatlan fogyasztó is vállalja a feltételeket, a Hatóság a geotermikus rendszerről közvetlenül ellátott fogyasztóval köt szerződést.
+
+(13) Ha a szerződés megszűnik és a geotermikus energia kinyerésére és hasznosítására vonatkozó jog új jogosultjának kijelölése céljából a bányafelügyelet pályázatot nem írhat ki vagy a pályázat eredménytelen, a bányafelügyelet a kijelölt geotermikus védőidomot törli a nyilvántartásából.
+
+(14) A szerződés megszűnését követően – a (15) bekezdés szerinti eset kivételével – a geotermikus energia kinyerésére és hasznosítására szolgáló létesítmények tovább nem üzemeltethetőek, a bányavállalkozó – kivéve, ha a létesítmény más célú hasznosítása a szerződés megszűnését követő egy éven belül lehetséges – azokat elbontja és a területet helyreállítja.
+
+(15) Ha a szerződés megszűnésekor ellátatlan fogyasztó marad, a bányavállalkozó a szolgáltatást a bányafelügyelet (11) bekezdés szerinti pályázat lezárulásának időpontjáról történő tájékoztatásának kézhezvételéig teljesíti.
+
+(16) Ha a (11) bekezdés szerinti pályázat alapján történő kijelölés vagy a (14) bekezdés szerinti más célú hasznosítás meghiúsul, a bányavállalkozót terheli a (14) bekezdés szerinti bontási és helyreállítási kötelezettség.
+
 ### A kutatás engedélyezése
 
-22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
+22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag kutatására a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
 
-(2) Az adományozott kutatási jog vagy a kutatási engedély a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-, illetve geotermikusenergia-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag, illetve geotermikus energia jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának, a geotermikus védőidom kijelölésének kezdeményezésére.
+(2) Az adományozott kutatási jog vagy a kutatási engedély a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának kezdeményezésére.
 
 (3) A kutatási tevékenység az (1) bekezdésben meghatározott feltételen túlmenően csak jóváhagyott kutatási műszaki üzemi terv alapján kezdhető meg. A kutatási műszaki üzemi tervet a bányafelügyelet hagyja jóvá.
 
@@ -496,7 +577,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (5) A tervezett kutatási időszakra a koncessziónál előírt határidőt a kutatás engedélyezése esetében is alkalmazni kell.
 
-(6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező pedig az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. Ennek keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének, illetve a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának, illetve a geotermikus védőidom kijelölésének a kezdeményezésére.
+(6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező pedig az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. Ennek keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának a kezdeményezésére.
 
 (7) Ha a bányavállalkozó a kutatási tevékenység végzése során olyan ásványi nyersanyagra bukkan, amelyre jogosultsága nem terjed ki, az előfordulást köteles bejelenteni a bányafelügyeletnek, és kezdeményezheti a kutatási engedélynek erre az ásványi nyersanyagra történő kiterjesztését. A kutatási engedély nem terjeszthető ki építőipari nyers- és alapanyagra, továbbá olyan ásványi nyersanyagra, amelynek szempontjából a kutatási terület zártnak minősül.
 
@@ -569,21 +650,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (18) A (14) bekezdés szerinti kutatás meghiúsulása nem eredményezi a bányavállalkozó e törvény és a végrehajtására kiadott rendeletek szerinti kötelezettségei alóli mentesülését.
 
-22/B. § (1) Zárt területen a geotermikus energia kutatásának, kinyerésének és hasznosításának engedélyezésére a szénhidrogén-bányászat engedélyezésére vonatkozó sajátos szabályokat kell megfelelően alkalmazni azzal, hogy geotermikus energiára bányatelket megállapítani nem lehet.
-
-(2) Zárt területen geotermikus energiát kinyerni csak a földkéreg e célra elhatárolt részéből (geotermikus védőidom) szabad.
-
-(3) A geotermikus védőidomot az engedélyes kérelme alapján a bányafelügyelet jelöli ki.
-
-(4) A geotermikus védőidomon belül a jogosult írásbeli hozzájáruló nyilatkozata nélkül geotermikus energia kinyerését szolgáló létesítmény más részére nem engedélyezhető.
-
-(5) A geotermikusenergia-hasznosító létesítményekről, a kitermelt és hasznosított geotermikus energia mennyiségéről, valamint a megállapított geotermikus védőidomokról a bányafelügyelet nyilvántartást vezet.
-
-(6) Geotermikus energia szempontjából nyílt területen, a felszín alatti vízkészletből termálvíz használatára adott vízjogi engedély egyidejűleg geotermikus energia kinyerési- és hasznosítási engedélynek is minősül. A geotermikus energia vízjogi engedély alapján történő hasznosítására e törvény 3. §-ának, 20. §-ának, 22/B. § (5) bekezdésének, 25. § (2) bekezdése b) pontjának és 41. §-ának rendelkezéseit megfelelően alkalmazni kell, egyebekben a vízügyi és környezetvédelmi jogszabályok az irányadók.
-
-(7) Nyílt területen geotermikus energia nem vízjogi engedély alapján végzett kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó külön jogszabály rendelkezéseit kell alkalmazni.
-
-(8)
+#### 22/B. §
 
 ### A szénhidrogén mezők ismételt kutatása
 
@@ -715,7 +782,7 @@ vonatkozó információ.
 
 (5) A bányatelek megállapítása és az ingatlan-nyilvántartásba történt bejegyzése nem változtatja meg a bányatelekkel lefedett felszíni ingatlanok tulajdonjogát, rendeltetését és használatát. A bányatelek megállapítása nem minősül a terület-igénybevétel megkezdésének.
 
-26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerinti tevékenység, valamint a (3a) bekezdés szerinti eljárás időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó kizárólagos joga megszűnik.
+26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerinti tevékenység, valamint a (3a) bekezdés szerinti eljárás időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának kezdeményezésére vonatkozó kizárólagos joga megszűnik.
 
 (2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén – ha a (3a) bekezdés szerinti feltételek teljesülése a kérelemben igazolt – a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek-megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására és a környezetvédelmi engedélyezési eljárás véglegessé vált döntéssel való lezárásáig a bányatelek-megállapítási eljárást felfüggeszti.
 
@@ -2004,7 +2071,7 @@ bányahatósági felügyelete
 - 21. „Meddőhányó”: az ásványi nyersanyag kitermelése során vagy azzal együtt kitermelt és attól leválasztott szilárd meddőanyagok felhalmozott tömege.
 - 22. „Szénhidrogén-szállítóvezeték” (távvezeték): tartozékaival és alkotórészeivel együtt az a csővezeték, amely a földgázt, kőolajat vagy ezek termékeit a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (kőolaj, földgáz-előkészítő üzem, kőolaj-finomító, gázfeldolgozó üzem), indító állomásától, illetve az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, illetve az országhatárig szállítja. A szállítóvezeték alkotórészei: – indító- és átadóállomás, – a szállítóvezeték üzemeltetését szolgáló technológiai létesítmények (nyomásfokozó, töltő, lefejtő, lefúvató, szakaszoló, tisztító állomások) és a nyomvonal jelzésére szolgáló berendezés, – a szállítóvezeték üzemeltetését, irányítását, ellenőrzését szolgáló létesítmények és berendezések (távfelügyeleti, hírközlési, korrózióvédelem) a távadat átvitelt biztosító szolgáltatás hozzáférési pontjáig. A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a szállítóvezeték tartozékai.
 - 23. „Energetikai és ipari eredetű szén-dioxid”: a fosszilis ásványi nyersanyagok termikus bomlása és fosszilis energiahordozók elégetése során keletkező szén-dioxid.
-- 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéregrész.
+- 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
 - 25. „Növelt hatékonyságú művelési eljárás”: olyan végső többletszénhidrogén-kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
 - 26. „Szolgáltatásra köteles földtani adat”: azok a földtani adatok, amelyeket a földtani kutatás, a geotermikusenergia-kutatás, az ásványi nyersanyagkutatás vagy a kitermelés során a földtani kutatásra jogosult vagy a bányavállalkozó közvetlenül vagy a földtani alapadatok feldolgozásával közvetett módon megismer.
 - 27. Termőföld: e törvény alkalmazásában a település külterületén elhelyezkedő földrészlet, amelyet a ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert művelési ágban tartanak nyilván és az 1–4. minőségi osztályba tartozik.
@@ -2221,8 +2288,8 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - 9. az ásványvagyon-gazdálkodás részletes követelményeire,
 - 10. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 - 11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra, és a meghirdetett bányászati jog ellenértékének meghatározására,
-- 12. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
-- 13. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
+- 12. a geotermikus energia kutatására, a kutatási terület kialakítására és mértékére, a geotermikus energia kutatásának engedélyezésére, a kutatási engedély tartalmi követelményeire, a kutatási engedélyhez szükséges pénzügyi biztosítékra, az azonos bányavállalkozó jogosultságában álló kutatási területek számára, a geotermikus védőidom meghatározására és kijelölésére, a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződésre, a szerződés megszűnése esetén az új jogosult kijelölése iránti pályázatra, továbbá a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
+- 13. az ásványi nyersanyag természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 - 14. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedély vagy bejelentés alapján történő építésére, használatbavételére, javítására, átalakítására,
 - 15. az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek vonatkozásában
   - a) a potenciális tárolóhely felmérésére,
