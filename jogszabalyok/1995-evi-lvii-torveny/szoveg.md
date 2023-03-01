@@ -538,14 +538,14 @@ vízhasználat.
 
 ### Vízkészletjárulék
 
-15/A. § (1) A vízhasználó a vízjogi létesítési, üzemeltetési engedélyben lekötött vagy engedély nélkül felhasznált, az üzemi fogyasztó a ténylegesen igénybe vett vízmennyiség után vízkészletjárulékot köteles fizetni.
+15/A. § (1) A vízhasználó a vízjogi létesítési, üzemeltetési engedélyben lekötött vagy a termálvíz kitermeléssel történő geotermikus energia kinyerésére és hasznosítására vonatkozó hatósági szerződésben (a továbbiakban: bányafelügyeleti szerződés) engedélyezett vagy engedély nélkül felhasznált, az üzemi fogyasztó a ténylegesen igénybe vett vízmennyiség után vízkészletjárulékot köteles fizetni.
 
 (2) Az (1) bekezdés szerinti
 
-- a) vízhasználó az, aki vízjogi engedély, továbbá a 28/A. § (1a) bekezdésében foglaltak alapján vízhasználatot gyakorol vagy vízjogi engedélyben vízkészletet köt le,
+- a) vízhasználó az, aki vízjogi engedély, bányafelügyeleti szerződés, továbbá a 28/A. § (1a) bekezdésében foglaltak alapján vízhasználatot gyakorol vagy vízjogi engedélyben vízkészletet köt le,
 - b) üzemi vízfogyasztó az, aki ivóvizet szolgáltató közműről a saját gazdasági célú vízhasználatához településenként évi 10 000 m3-nél nagyobb vízmennyiséget használ fel.
 
-(3) A vízjogi engedéllyel rendelkező vízhasználó a vízkészletjárulék mértékének kiszámítását, bevallását és befizetését elektronikusan teljesítheti.
+(3) A vízjogi engedéllyel, bányafelügyeleti szerződéssel rendelkező vízhasználó a vízkészletjárulék mértékének kiszámítását, bevallását és befizetését elektronikusan teljesítheti.
 
 (4) A vízkészletjárulék fizetési kötelezettség fennállásának ellenőrzése és mértékének meghatározása érdekében az illetékes vízügyi hatóság jogosult hozzáférni a vízhasználók minden vízhasználatára vonatkozó adatához az e-vízikönyvi hatósági közhiteles nyilvántartásból.
 
@@ -554,8 +554,8 @@ vízhasználat.
 15/B. § (1) A vízhasználónak a vízkészletjárulékot
 
 - a) 4,50 forint/m3 alapjárulék,
-- b) ha a vízjogi engedélyben meghatározott vízmennyiséget – az egyes külön megjelölt időszakra is tekintettel – 10%-nál nagyobb mértékben túllépi, a teljes többletmennyiség után 9,00 forint/m3 alapjárulék,
-- c) ha a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 28,90 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, külön jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
+- b) ha a vízjogi engedélyben, bányafelügyeleti szerződésben meghatározott vízmennyiséget – az egyes külön megjelölt időszakra is tekintettel – 10%-nál nagyobb mértékben túllépi, a teljes többletmennyiség után 9,00 forint/m3 alapjárulék,
+- c) ha tevékenységét bányafelügyeleti szerződés nélkül vagy a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 28,90 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, külön jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
 
 alapján kell kiszámítania.
 
@@ -572,7 +572,7 @@ alapján kell kiszámítania.
 - c) a vízjogi engedélyenként évi 500 m3-t meg nem haladó vízmennyiség után,
 - d) a talajvízdúsításra betáplált vízmennyiséggel azonos vízmennyiség kitermelése után, ha az a talajvízdúsítással igénybe vett vízadó rétegből történik,
 - e) az ár- és belvíz befogadására kijelölt csatornák, halastavak, tározók védekezési célból történő feltöltésére használt és a főműveken átvezetett, a vízjogi engedélyben meghatározott vízmennyiség után,
-- f) a vízjogi engedély szerinti vízmennyiség azon része után, amely nem vehető igénybe, mert a vízkészlet természeti okokból nem áll rendelkezésre,
+- f) a vízjogi engedély vagy bányafelügyeleti szerződés szerinti vízmennyiség azon része után, amely nem vehető igénybe, mert a vízkészlet természeti okokból nem áll rendelkezésre,
 - g) ha a vízügyi hatóság a vízkivételt korlátozta,
 - h) a használt víz ismételt felhasználása vagy átadása után, kivéve a kettősműködésű csatornákból történő vízkivételt,
 - i) a felszíni vízből történő ökológiai célú vízhasználat vízmennyisége után,
@@ -592,13 +592,13 @@ alapján kell kiszámítania.
 
 (5) Az üzemi fogyasztó köteles fizetési kötelezettségét annak keletkezésétől számított 15 napon belül az illetékes vízügyi hatóságnak az e célra készített nyomtatványon bejelenteni (bejelentkezés).
 
-(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély véglegessé válásával, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
+(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély véglegessé válásával, a bányafelügyeleti szerződés hatálybalépésével, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
 
 (6a) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a 28/A. § (1a) bekezdésében foglalt esetben a bejelentés az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény szerinti öntözési igazgatási szerv (a továbbiakban: öntözési igazgatási szerv) általi jóváhagyás közlésével keletkezik.
 
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 
-(8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben, az adóévben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
+(8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
 
 (9) A tartósan vízhiányos időszak várható kezdetét és végét a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.
 
@@ -864,7 +864,7 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 - e) a 31. § (1) bekezdését,
 - f) a 31/A. §-t.
 
-28/A. § (1) A jogszabály alapján bejelentéshez kötött tevékenységektől eltekintve, vízjogi engedély szükséges
+28/A. § (1) A jogszabály alapján bejelentéshez kötött tevékenységektől eltekintve – a termálvíz kitermeléssel történő geotermikus energia kinyerését és hasznosítását kivéve –, vízjogi engedély szükséges
 
 - a) a vízimunka elvégzéséhez, a vízilétesítmény megépítéséhez és átalakításához (vízjogi létesítési engedély),
 - b) a vízilétesítmény használatbavételéhez és üzemeltetéséhez, a vízhasználathoz (vízjogi üzemeltetési engedély) és
@@ -923,9 +923,9 @@ csak írásban terjeszthető elő.
 - a) nem veszélyezteti a vízkészlet védelméhez fűződő érdekeket, és
 - b) megfelel a vízimunkára, a vízilétesítmények megvalósítására, átépítésére és megszüntetésére, valamint üzemeltetésére és a vízhasználatok gyakorlására kiadott vízgazdálkodási, műszaki és biztonsági szabályoknak, a vízháztartás, vízminőség, felszín alatti és felszíni vizek védelmével összefüggő egyéb szabályozásnak.
 
-(2) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – a jogszabályokban előírt feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
+(2) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó bányafelügyeleti szerződésben – a jogszabályokban előírt feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
 
-(3) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
+(3) Új vízjogi engedély abban az esetben adható vagy bányafelügyeleti szerződés akkor köthető, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 
 (4) Ha a vízimunka elvégzése, illetve a vízilétesítmény megépítése vagy átalakítása végleges hatósági engedély nélkül, vagy a végleges hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a vízügyi hatóság a vízimunka, vízilétesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, egyidejűleg vízgazdálkodási bírság megfizetését kell előírni. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
 

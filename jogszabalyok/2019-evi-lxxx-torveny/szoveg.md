@@ -138,11 +138,11 @@ szerint folyik. Az egyházi jogi személy, illetve a vallási egyesület által 
 
 (2) A programkövetelmény és a szakmai képzés képzési programja nem sértheti más személy szabadalmi vagy szerzői jogát és szakmai tartalma nem lehet azonos a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott tartalmával.
 
-(3) A programkövetelményekről a szakképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a szakképzésért felelős miniszter a honlapon közzéteszi.
+(3)
 
-(3a) Programkövetelményre, annak módosítására és törlésére a szakképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, és a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerinti szakértő kirendelése kötelező. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet. Az igazgatási szolgáltatási díj a szakképzésért felelős miniszter által vezetett minisztérium bevétele.
+(3a)
 
-(4) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a honlapról nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
+(4)
 
 #### 14. § [Az akkreditált vizsgaközpont]
 
@@ -1122,7 +1122,7 @@ A Kormány a szakképzésért felelős miniszter útján irányítja a szakképz
 - a) irányítja az általa alapított szakképzési centrumot és az állam nevében gyakorolja az általa alapított szakképzési centrum részeként működő szakképző intézmények feletti fenntartói irányítási hatásköröket,
 - b) ellátja a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap (a továbbiakban: Alap) képzési alaprésze felhasználásával kapcsolatos feladatokat,
 - c) kiadja a képzési és kimeneti követelményeket és a programtantervet a Kormány adott ágazatért felelős tagjának egyetértésével,
-- d) vezeti a szakmai képzéshez kapcsolódóan megszerezhető szakképesítések programkövetelményeinek nyilvántartását,
+- d)
 - e) – a Kormány adott ágazatért felelős tagjának egyetértésével –
   - ea) javaslatot tesz a Kormány számára a szakmajegyzék megállapítására,
   - eb) kidolgoztatja a szakképzési tankönyveket,
@@ -1172,7 +1172,7 @@ A szakképzési államigazgatási szerv
 
 (2) Az ágazati készségtanács folyamatosan figyelemmel kíséri a saját ágazatában a szakképzési szerkezet fejlesztését, a gazdasági, munkaerő-piaci, technikai-technológiai folyamatokat, és ennek alapján
 
-- a) szakvéleményt ad a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben,
+- a) szakvéleményt ad a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben,
 - b) kidolgozott javaslatot tehet
   - ba) a szakmajegyzékre,
   - bb) a szakmai oktatás időtartamára, a képzési és kimeneti követelményekre és az ágazati alapoktatás szakmai tartalmára,
@@ -1502,7 +1502,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 1. a szakmajegyzéket,
 - 1a. a szakképzésben való részvétel feltételeit,
 - 2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
-- 3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőket és a szakértői szakvélemény elkészítéséért fizetendő szakértői díj mértékét,
+- 3. a szakmai képzés képzési programja meghatározásának szabályait,
 - 4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 - 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
 - 6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
@@ -1553,7 +1553,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 - 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 
-(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 13. § (3a) bekezdése és a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
 
 ### XXII. Fejezet — HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
