@@ -1889,7 +1889,7 @@ egészségügyi elbírálása, illetőleg véleményezése.
 
 (4) A működési nyilvántartásban nem szereplő, Magyarországon elismerhető egészségügyi szakképesítéssel rendelkező személy részére – betegellátási érdekből vagy a kérelmező megfelelő szakmai ismeretének megszerzése érdekében, indokolt esetben – a kormányrendeletben meghatározott hatóság a szakképesítésnek megfelelő tevékenységre, meghatározott időtartamra és helyszínre (munkahelyre) szóló tevékenységre jogosító engedélyt adhat ki, a kormányrendeletben foglalt eljárási rend szerint. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez külön jogszabály szerint előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges.
 
-(4a) A hagyományos kínai gyógyászat területén, legalább 5 éves, felsőoktatási képzést követően megszerzett oklevéllel rendelkező személy részére kérelmére a kormányrendeletben meghatározott hatóság – az Egészségügyi Tudományos Tanács bizottságának az oklevél szerinti szakképesítésnek a kérelemben foglalt egészségügyi tevékenység végzése szempontjából való megfelelősége kérdésében kiadott szakhatósági állásfoglalása alapján – kormányrendeletben foglaltak szerint, a szakképzettségének megfelelő tevékenységre, meghatározott időtartamra szóló tevékenységre jogosító engedélyt adhat ki. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés vagy büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges. A kormányrendeletben meghatározott hatóság az engedélyekről nyilvántartást vezet, amely tartalmazza a kérelmező természetes személyazonosító adatait, oklevelének számát és az engedély tartalmát.
+(4a) A hagyományos kínai gyógyászat területén, legalább 5 éves, felsőoktatási képzést követően megszerzett oklevéllel rendelkező személy részére kérelmére a kormányrendeletben meghatározott hatóság – az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) bizottságának az oklevél szerinti szakképesítésnek a kérelemben foglalt egészségügyi tevékenység végzése szempontjából való megfelelősége kérdésében kiadott szakhatósági állásfoglalása alapján – kormányrendeletben foglaltak szerint, a szakképzettségének megfelelő tevékenységre, meghatározott időtartamra szóló tevékenységre jogosító engedélyt adhat ki. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés vagy büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges. A kormányrendeletben meghatározott hatóság az engedélyekről nyilvántartást vezet, amely tartalmazza a kérelmező természetes személyazonosító adatait, oklevelének számát és az engedély tartalmát.
 
 (4b) A (4a) bekezdés szerinti engedélyezési eljárás ügyintézési határideje két hónap, a szakhatósági eljárás ügyintézési határideje harminc nap.
 
@@ -2590,7 +2590,51 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 (2) Az (1) bekezdés szerint létrehozott helyi érdekképviseleti szervek országos érdekképviseleti szervet hozhatnak létre.
 
-#### 140/B. §
+### Egyes egészségügyi dolgozókra vonatkozó etikai felelősségi szabályok
+
+140/B. § (1) Az orvosokkal, fogorvosokkal, továbbá a nem orvosi- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozókkal (e § alkalmazásában a továbbiakban együtt: orvos) szemben szakmai-etikai eljárás (e § alkalmazásában a továbbiakban: etikai eljárás) lefolytatására az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.) VI. Fejezetében foglaltakat e §-ban foglalt eltérésekkel kell alkalmazni. Etikai vétség a (4) bekezdés szerinti szakmai-etikai szabályzatban foglalt szabályok vagy kötelezettségek vétkes megszegése.
+
+(2) Az etikai eljárást – közfeladatként – az ETT folytatja le, első fokon az ETT-nek a Kormány rendeletében meghatározott testülete, másodfokon az ETT elnöksége jár el. Az etikai eljárásra – törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
+
+- a) nem alkalmazhatók a törvénynek
+  - aa) az eljárási költség viselésére,
+  - ab) a költségmentességre,
+
+vonatkozó rendelkezései, továbbá
+
+- b) az ügyintézési határidő negyvenöt nap.
+
+(3) Az etikai eljárás tekintetében az Ekt. VI. Fejezet rendelkezéseinek alkalmazása során a területi szervezet etikai bizottságán orvos esetén az ETT-nek a Kormány rendeletében meghatározott testületét, országos etikai bizottság esetén az ETT-t, a kamarai tag alatt az orvost kell érteni. Az Ekt. 25. § (3) bekezdésétől eltérően az ETT az etikai eljárás során első és másodfokon legalább háromtagú bizottságként jár el.
+
+(4) Az orvosokra kiterjedő szakmai-etikai szabályzatot – kamarai tagságtól függetlenül – az ETT a miniszter jóváhagyásával adja ki. Az ETT a szakmai-etikai szabályzatot – annak miniszteri jóváhagyását megelőzően – megfelelő határidő tűzésével véleményezés céljából megküldi a Magyar Orvosi Kamara részére. Az ETT a Magyar Orvosi Kamara véleményéről tájékoztatja a minisztert. A szakmai-etikai szabályzatot a miniszter a központi kormányzati honlapon, valamint az ETT a honlapján az elfogadást követő 8 napon belül közzéteszi.
+
+(5) Az etikai gyakorlat egységességének biztosítása érdekében az ETT elvi állásfoglalásokat adhat ki.
+
+(6) Az ETT-nek az etikai eljárás során hozott végleges döntésével szemben bírósági jogorvoslatnak van helye. A kereset a határozat kézbesítésétől számított 30 napon belül terjeszthető elő.
+
+(7) Az orvosok tekintetében kiszabható etikai büntetések:
+
+- a) a figyelmeztetés,
+- b) a megrovás,
+- c) a mindenkori legkisebb kötelező munkabér havi összegének tízszereséig terjedő pénzbírság.
+
+(8) Az ETT a (7) bekezdés szerinti büntetések mellett vagy azok helyett megállapíthatja, hogy az orvos számára vezetői megbízás a határozat véglegessé válásától számított legfeljebb két évig nem adható.
+
+(9) Az egészségügyi intézmény munkáltatója nem adhat vezetői megbízást az orvosnak, ha az a (8) bekezdés szerinti büntetés hatálya alatt áll, erről a tényről az egészségügyi intézmény a működési nyilvántartást vezető szervtől – az érintett orvos természetes személyazonosító adatainak megjelölésével – adatot igényelhet.
+
+(10) Az ETT a (7) és (8) bekezdés szerinti büntetésekről azok véglegessé válását követően haladéktalanul tájékoztatja a működési nyilvántartást vezető szervet.
+
+(11) Az orvosokkal szembeni etikai eljárás részletszabályait a Kormány rendeletben állapítja meg.
+
+(12) Az ETT az orvos és az eljárás egyéb résztvevője azonosításához szükséges természetes személyazonosító adatokat és az ügyfajtát szabályozó törvényben meghatározott személyes adatokat, továbbá – ha törvény másként nem rendelkezik – az eljárás eredményes lefolytatásához elengedhetetlenül szükséges más személyes adatokat kezeli.
+
+(13) Az ETT gondoskodik arról, hogy a törvény által védett titok és törvény által védett egyéb adat (a továbbiakban együtt: védett adat) ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, és e védett adatok törvényben meghatározott védelme az ETT eljárásában is biztosított legyen.
+
+(14) Az ETT az eljárása során annak lefolytatásához – jogszabályban meghatározott módon és körben – kezeli azokat a védett adatokat, amelyek eljárásával összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
+
+(15) Az ETT biztosítja, hogy az etikai eljárásban szereplő beteg azonosítását lehetővé tevő egészségügyi adatot – ha jogszabály vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – kizárólag az e tekintetben külön titoktartási kötelezettséget vállaló orvos ismerhesse meg.
+
+(16) Az ETT az általa kiszabott etikai büntetések adatait – ideértve a büntetésben részesített orvos természetes személyazonosító adatait – az Ekt. szerinti elévülési idő elteltéig kezeli.
 
 #### 140/C. §
 
@@ -2799,7 +2843,7 @@ költségének fedezetét.
 
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
-(3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban: ETT), az egészségügyi szakmai kollégium, a Közép- és Kelet-európai Onkológiai Akadémia Alapítvány, valamint az országos gyógyintézetek segítik.
+(3) A miniszter tevékenységét az ETT, az egészségügyi szakmai kollégium, a Közép- és Kelet-európai Onkológiai Akadémia Alapítvány, valamint az országos gyógyintézetek segítik.
 
 (3a) Az országos gyógyintézet az egészségügyért felelős miniszter által vezetett minisztérium gyógyító-megelőző, szervezési-módszertani, továbbképző és tudományos alapintézményeként, népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül lát el gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenységet.
 
@@ -4636,7 +4680,13 @@ az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/E
 
 244/H. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-#### 244/I. §
+244/I. § (1) Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény és az egészségügyről szóló 1997. évi CLIV. törvény módosításáról szóló 2023. évi I. törvénnyel (a továbbiakban: Módtv4.) megállapított 140/B. § (11) bekezdése szerinti rendelet hatálybalépéséig, valamint a Módtv4.-gyel megállapított 140/B. § (4) bekezdése szerinti szabályzat kiadásáig az ETT a hatáskörébe tartozó etikai eljárást felfüggeszti. A felfüggesztés alatt az elévülési idő szünetel.
+
+(2) A 140/B. § (1) bekezdésében meghatározott személy tekintetében az (1) bekezdés szerinti időpontig etikai vétségnek minősül a Magyar Orvosi Kamara etikai kódexében foglalt szabályok vétkes megszegése azzal, hogy nem minősül etikai vétségnek
+
+- a) a Magyar Orvosi Kamara alapszabályában, más belső szabályában meghatározott, valamint a Magyar Orvosi Kamarán belüli, választott tisztségből eredő kötelezettségnek a vétkes megszegése,
+- b) a Magyar Orvosi Kamara által jegyzékbe vett álláshely elfoglalása, vagy
+- c) az a cselekmény, amelyet a 140/B. § (4) bekezdése szerinti szakmai-etikai szabályzat nem minősít etikai vétségnek.
 
 #### 244/J. §
 
@@ -4721,7 +4771,7 @@ rendeletben megállapítsa.
 - j) határozza meg a Budapesten és Pest vármegyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
 - k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
 - l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
-- m)
+- m) állapítsa meg a 140/B. § (11) bekezdése szerinti etikai eljárás részletszabályait, valamint az ETT etikai eljárásban első fokon eljáró testületét,
 - n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
@@ -4792,7 +4842,7 @@ rendeletben megállapítsa.
   - kf) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére vonatkozó részletes szabályokat,
   - kg) az időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 - l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
-- m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégium és tagozatai feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
+- m) az ETT, annak bizottságai, a szakmai kollégium és tagozatai feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
 - o) az emberen végzett orvostudományi kutatásra vonatkozó részletes szabályokat,
 - p) az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtek és embriók adományozására és fagyasztva tárolására vonatkozó, továbbá az ivarsejtekkel és az embriókkal végzett kutatás részletes szabályokat,
