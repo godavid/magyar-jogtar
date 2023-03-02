@@ -160,17 +160,7 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 56. §
 
-57. § Az Fktv. 5. alcíme a következő 11/A. §-sal egészül ki:
-
-„11/A. § (1) A szakképzésről szóló törvény szerinti szakmai képzés kimeneti követelményeit meghatározó programkövetelményekről a felnőttképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közzéteszi.
-
-(2) Programkövetelményre, annak módosítására és törlésére a felnőttképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, a Kormány rendeletében meghatározottak szerinti szakértő rendelhető ki. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet.
-
-(3) Nem köteles a kérelmező a (2) bekezdés szerinti igazgatási szolgáltatási díjat megfizetni az adott ágazat által kezdeményezett és jogszabály valamely munkakör betöltéséhez kapcsolódó szakképesítés megszerzésére vonatkozó programkövetelményének kérelme, valamint a szakgimnázium keretében az alaptevékenységéhez kapcsolódó szakmai képzést érintő kérelmek esetében. Az igazgatási szolgáltatási díj a felnőttképzésért felelős miniszter által vezetett minisztérium bevétele.
-
-(4) A szakképzésről szóló törvény szerinti ágazati készségtanács szakvéleményt adhat a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben.
-
-(5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.”
+#### 57. §
 
 #### 58. §
 
@@ -186,28 +176,15 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 64. §
 
-65. § (1) Az Fktv. 28. § (2) bekezdése a következő i) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„i) a programkövetelmény nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőkre vonatkozó rendelkezéseket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét,”
+65. § (1)
 
 (2)
 
-(3) Az Fktv. 28. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy
-
-- a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
-- b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,”
+(3)
 
 (4)
 
-66. § (1) Az Fktv. 16. alcíme a következő 32. §-sal egészül ki:
-
-„32. § E törvénynek az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezései szerint programkövetelményre, annak módosítására és törlésére vonatkozó javaslat 2023. március 1-jétől nyújtható be a felnőttképzésért felelős miniszternek azzal, hogy a 2023. március 1-jén a programkövetelmény nyilvántartásba vétele, módosítása és törlése tárgyában folyamatban lévő eljárásban a Módtv3.-nak a hatálybalépését megelőző napon hatályos, a szakképzésről szóló 2019. évi LXXX. törvény rendelkezéseit kell alkalmazni.”
-
-(2)
+#### 66. §
 
 #### 67. §
 
@@ -237,19 +214,11 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 11. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-78. § A szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 123. § (2) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+#### 78. §
 
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+#### 79. §
 
-„3. a szakmai képzés képzési programja meghatározásának szabályait,”
-
-79. § Az Szkt. 99. § (2) bekezdés a) pontjában a „szakvéleményt ad” szövegrész helyébe a „szakvéleményt ad a felnőttképzésért felelős miniszter számára” szöveg lép.
-
-80. § Hatályát veszti az Szkt.
-
-- a) 13. § (3), (3a) és (4) bekezdése,
-- b) 96. § (1) bekezdés d) pontja,
-- c) 123. § (3) bekezdésében a „13. § (3a) bekezdése és a” szövegrész.
+#### 80. §
 
 #### 12. A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény módosítása
 
