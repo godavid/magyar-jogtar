@@ -63,6 +63,10 @@ működik.
 
 2/A. § (1) A 2. § d) pontjában foglaltakon túlmenően a Magyar Orvosi Kamara véleményezési jogot gyakorol a szakmai alkalmasság kérdésében az állami, egészségbiztosítási, illetőleg helyi önkormányzati szervek, valamint az egyetemek orvosképzést, szakképzést végző karai, szervezeti egységei magasabb vezető és vezető állású orvosainak orvosi diplomához kötött tevékenység végzése körében történő vezetői kinevezése, megbízása, a vezetői megbízás visszavonása, vagy – vezetői munkakör esetén – felmentése során, továbbá a háziorvosok, házi gyermekorvosok, fogorvosok e munkakörben, munkavégzésre irányuló jogviszony keretében történő foglalkoztatása, illetőleg a foglalkoztatásnak a munkáltató kezdeményezésére történő megszüntetése tekintetében.
 
+(1a) A Magyar Orvosi Kamara az (1) bekezdés szerinti feladatát kizárólag a tagjai tekintetében gyakorolja.
+
+(1b) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók tekintetében a 2. § d) pont dc) alpontja, valamint a 2. § k) pontja szerinti feladatot a Magyar Orvosi Kamara helyett az egészségügyért felelős miniszter által – a felsőoktatásért felelős miniszter egyetértésével – kiadott rendeletben meghatározott szerv gyakorolja.
+
 (2) A 2. § d) pontjában foglaltakon túlmenően a Magyar Gyógyszerészi Kamara
 
 - a) véleményezési jogot gyakorol a szakmai alkalmasság kérdésében az állami, egészségbiztosítási, illetőleg helyi önkormányzati szervek, valamint az egyetemek gyógyszerészképzést, szakképzést végző karai, szervezeti egységei magasabb vezető és vezető állású gyógyszerészeinek gyógyszerészi diplomához kötött tevékenység végzése körében történő vezetői kinevezése, megbízása, a vezetői megbízás visszavonása, vagy – vezetői munkakör esetén – felmentése során, továbbá a gyógyszerészek költségvetési szerv keretében működő intézményi gyógyszertárban történő foglalkoztatása, illetőleg a foglalkoztatásnak a munkáltató kezdeményezésére történő megszüntetése tekintetében,
@@ -323,11 +327,13 @@ adja ki.
 - c) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 - d) a 25. § (1) bekezdés f) pontja szerinti kizárás fegyelmi büntetés jogerőre emelkedésétől számított két évig az, akit a kamarából kizártak.
 
-14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – a (2) és (2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
+14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – az (1c)–(2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
 
 (1a) A nem orvos- és egészségtudomány képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzés keretében egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (1) bekezdés szerint illetékes szakmai kamara a Magyar Orvosi Kamara.
 
 (1b) A Magyar Orvosi Kamara kérelemre az (1a) bekezdés szerinti szakképesítéssel rendelkező személlyel – amennyiben a kamarai tagság e törvényben meghatározott további feltételei fennállnak – abban az esetben is tagsági viszonyt létesít, ha a kérelmező nem minősül egészségügyi dolgozónak.
+
+(1c) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók egészségügyi tevékenységet akkor is végezhetnek, ha nem tagjai a szakképesítésük szerint illetékes szakmai kamarának.
 
 (2) Kamarai tagság nélkül is végezhető az (1) bekezdésben meghatározott tevékenység, ha azt olyan személy végzi, aki külön jogszabályban meghatározottak szerint ideiglenes működési nyilvántartásba vétellel, tevékenységre jogosító engedély kiadásával vagy előzetes bejelentés alapján jogot szerzett arra, hogy a működési nyilvántartásba történő felvétel nélkül egészségügyi tevékenységet végezzen Magyarországon.
 
@@ -346,6 +352,8 @@ adja ki.
 (2) A szüneteltetés ideje alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel. A kamarai tagságát szüneteltető egészségügyi dolgozó – a 14/A. § eltérő rendelkezése hiányában – egészségügyi tevékenységet nem végezhet.
 
 (3) Az (1) bekezdés alapján szüneteltetett tagsági viszonyt a területi szervezet a tag írásbeli kérelmére határozattal helyreállítja.
+
+14/C. § A tagsági viszonyáról a 18. § (1) bekezdés a) pontja szerint lemondó, az orvos, a fogorvos, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozó tag számára a Magyar Orvosi Kamara az éves tagdíj arányosan fennmaradó részét a tagsági viszony megszűnését követő 8 napon belül visszatéríti.
 
 15. § (1) A szakmai kamara tagjának joga, hogy
 
@@ -434,6 +442,10 @@ adja ki.
 
 - a) a 2. § c) pontja szerinti etikai kódexben foglalt szabályok vétkes megszegése,
 - b) az alapszabályban, illetőleg a szakmai kamara más belső szabályzatában foglalt vagy a választott tisztségből eredő kötelezettségnek a vétkes megszegése.
+
+20/A. § (1) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók etikai eljárását törvényben meghatározott eltérésekkel kell lefolytatni.
+
+(2) A 20. §-tól eltérően az (1) bekezdés szerinti személyek esetében az etikai vétség a törvényben meghatározott szerv által kiadott szakmai-etikai szabályzatban foglalt szabályok vagy kötelezettségek vétkes megszegése.
 
 21. § (1) Etikai ügyben első fokon annak a területi szervezetnek az etikai bizottsága jár el, amelynél az etikai eljárás megindulásakor az eljárás alá vont tag szakmai kamarai tagsági jogviszonya fennáll. Több – eltérő területi szervezeti tagsággal rendelkező – kamarai tag érintettsége esetén az az etikai bizottság jár el, amely elsőként állapítja meg a panaszüggyel érintett valamelyik kamarai tag ügyében a területi illetékességét.
 
@@ -597,7 +609,16 @@ fedezik.
 
 31. § A 11. § (1) bekezdése szerinti korlátozás szempontjából a 2011. április 1. előtt betöltött tisztséget nem kell tekintetbe venni, a korlátozást a 2011. április 1-jét követő első alkalommal történő megválasztástól kell számítani.
 
-#### 32. §
+32. § (1) Aki az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény és az egészségügyről szóló 1997. évi CLIV. törvény módosításáról szóló 2023. évi I. törvény (a továbbiakban: Módtv.) hatálybalépése napján a Magyar Orvosi Kamara tagja, a Módtv. hatálybalépését követő 30 napon belül – a Magyar Orvosi Kamara országos elnökségéhez intézett – egyoldalú, írásbeli nyilatkozattal nyilatkozik arról, hogy fenn kívánja-e tartani a kamarai tagsági viszonyát. A tagsági viszonyt fenntartó nyilatkozattétel hiányában a kamarai tagsági viszony a Módtv. hatálybalépését követő 31. napon megszűnik. A tagságot fenntartó nyilatkozat érvényességéhez a Magyar Orvosi Kamara külön elfogadó nyilatkozata nem szükséges.
+
+(2) A tagsági viszonyukat fenn nem tartó kamarai tagok személyes adatait a kamarai tagsági nyilvántartásokból haladéktalanul, a (4) bekezdés szerinti esetben az ott meghatározott iratok és adatok átadását követően haladéktalanul törölni kell. A Magyar Orvosi Kamara a tagsági viszonyát fenntartani nem kívánó vagy megszüntető tag számára az éves tagdíj arányosan fennmaradó részét a tagsági viszony megszűnését követő 8 napon belül visszatéríti.
+
+(3) A tagsági viszonyukat fenn nem tartó kamarai tagokkal szemben a tagsági viszony megszűnése előtt kiszabott jogerős etikai büntetést a működési nyilvántartást vezető szerv az Eütv. 112. § (4) bekezdés j) pontja szerint annak elévüléséig nyilvántartja azzal, hogy
+
+- a) a kizárás etikai büntetés jogerőre emelkedésétől számított két évig nem végezhet egészségügyi tevékenységet az, akit a 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetéssel a Módtv. hatálybalépését megelőzően a kamarából kizártak,
+- b) nem végezhet egészségügyi tevékenységet az, akivel szemben a Módtv. hatálybalépését megelőzően a Magyar Orvosi Kamara a 25. § (1) bekezdés d) pontja szerinti, a tagsági viszony 1–6 hónapig terjedő felfüggesztése etikai büntetést hozott, a határozat jogerőre emelkedésétől számítva a határozatban foglalt ideig.
+
+(4) A 20/A. § szerinti személyekkel szemben – tekintet nélkül arra, hogy az érintett kamarai tag vagy sem – a folyamatban lévő etikai eljárásokat az Egészségügyi Tudományos Tanács folytatja le. Az érintett taggal szemben folyamatban lévő etikai eljárások iratait és az etikai eljárással kapcsolatos adatokat – az etikai eljárás lefolytatása érdekében – a Magyar Orvosi Kamara a Módtv. hatálybalépését követő 15 napon belül átadja az Egészségügyi Tudományos Tanács részére.
 
 #### 33. §
 
@@ -607,6 +628,11 @@ fedezik.
 
 #### 33/C. §
 
-34. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy az Eütv. szerinti kötelező továbbképzés szervezője tevékenységének az egészségügyben működő szakmai kamarák általi rendszeres minősítésére, a minősítés közzétételére és a minősítés alapján megtehető javaslattételre vonatkozó részletes szabályokat rendeletben megállapítsa.
+34. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy
+
+- a) az Eütv. szerinti kötelező továbbképzés szervezője tevékenységének az egészségügyben működő szakmai kamarák, valamint a b) pont szerinti szerv általi rendszeres minősítésére, a minősítés közzétételére és a minősítés alapján megtehető javaslattételre vonatkozó részletes szabályokat,
+- b) a 2/A. § (1b) bekezdés szerinti szervet – a felsőoktatásért felelős miniszter egyetértésével kiadott –
+
+rendeletben állapítsa meg.
 
 35. § Ez a törvény a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
