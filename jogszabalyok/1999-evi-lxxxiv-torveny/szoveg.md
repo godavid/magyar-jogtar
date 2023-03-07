@@ -57,7 +57,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (1a) A nyilvántartó az (1) bekezdés b) pontjában foglalt feladat- és hatáskörben eljárva, a gyártmány-típus-alvázszám összefüggések helyességének biztosítása érdekében azok előzetes ellenőrzését végzi.
 
-(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja a közúti közlekedési nyilvántartásban érvénytelenítésre került forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
+(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS) továbbítja a közúti közlekedési nyilvántartásban érvénytelenítésre került forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
 
 (3) Ha a (2) bekezdés szerinti okmány, illetve hatósági jelzés
 
@@ -110,7 +110,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
 - i) ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
 - j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat véglegessé válásakor nyilvántartott pontokat törli;
-- k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
+- k) jogosult a törvényben meghatározottak szerint a SIS-ből adatot igényelni.
 
 (1a) A közlekedési igazgatási hatóság és a nyilvántartó a hatáskörébe tartozó okmánykiállításra irányuló eljárás során a személyiadat- és lakcímnyilvántartásból közvetlen hozzáférés útján, az érintett személy azonosítása céljából adatot igényel a személyazonosító igazolvány adatairól, valamint az érintett lakcíméről.
 
@@ -121,7 +121,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - a) végzi a járművek előzetes eredetiségvizsgálatát;
 - b) lefolytatja a járművek azonosító jellel történő utólagos ellátásának engedélyezési eljárását;
 - c) a külföldről behozott használt jármű származás-ellenőrzési adatainak nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében
-  - ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS II-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
+  - ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
   - cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
   - cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
@@ -209,7 +209,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - bc) hivatalos feljegyzések rovatába bejegyzett adatokat, valamint
   - bd) a vezetési jogosultság megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
 
-(2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS II-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
+(2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
 (3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), ai) , aj) és ak) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -368,7 +368,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(6) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során az ideiglenes rendszámtáblák nyilvántartásához informatikai adatkapcsolat útján, közvetlen lekérdezéssel, térítésmentesen jogosult megismerni és átvenni az alvázszámmal vagy rendszámmal azonosított jármű 9. § (2) bekezdés a) és b) pontjában meghatározott adatait.
+(6) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat is.
 
 9/E. § (1) Az okirattár a hatósági eljárások nyomonkövethetősége, ellenőrizhetősége érdekében tartalmazza a kérelemre indult és a hivatalból indított eljárások adatlapjainak adatait, valamint az alapiratokat. Az adatlapok és az alapiratok egymással összekapcsolhatók.
 
@@ -957,7 +957,7 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 43. § (1) E törvény
 
-- a) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. Cikkének,
+- a)
 - b) 19. § (1) bekezdés i) pontja, 27/A. §-a, 32. § (5)–(8) bekezdése és a 32/A. §-a
   - ba) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozatnak,
   - bb) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i, 2008/616/IB tanácsi határozatnak,
@@ -969,12 +969,12 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 való megfelelést szolgálja.
 
-(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. cikkének átültetését szolgálja.
+(2)
 
 (3) E törvény
 
-- a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
-- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének,
+- a) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet 41–45. cikkének,
+- b) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet,
 - c) a 904/2010/EU és az (EU) 2017/2454 rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló, 2018. október 2-i (EU) 2018/1541 tanácsi rendelet
 - d) a gépjárművek osztályozásáról, az európai elektronikus útdíjszedési szolgáltatás felhasználóinak kötelezettségeiről, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a bejelentett szervekre vonatkozó minimális alkalmassági feltételekről szóló, 2019. november 28-i (EU) 2020/203 felhatalmazáson alapuló bizottsági rendelet
 - e) az európai elektronikus útdíjszedési szolgáltatást nyújtó szolgáltatók részletes kötelezettségeiről, az EETS területi nyilatkozatok minimális tartalmáról, az elektronikus kapcsolódási pontokról, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a 2009/750/EK határozat hatályon kívül helyezéséről szóló, 2019. november 28-i (EU) 2020/204 bizottsági végrehajtási rendelet

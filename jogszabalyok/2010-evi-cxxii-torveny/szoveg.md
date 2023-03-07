@@ -751,12 +751,14 @@ használható fel.
 
 ### Rejtett ellenőrzés elrendelése
 
-37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdés a) pont aa) alpontjában meghatározott célból, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+37/A. § (1) A NAV nyomozó hatósága a 13. § (7) bekezdés a) pont aa) alpontjában meghatározott célból, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre vagy célzott ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben
 
 - a) arra a személyre, akiről
-  - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
-  - ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
-- b) az a) pontban meghatározott személlyel kapcsolatba hozható a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.
+  - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (2) bekezdése és 1. számú melléklete szerinti bűncselekményt készít elő,
+  - ab) okkal feltételezhető, hogy az aa) alpontban meghatározott bűncselekményt követhet el valamely Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
+- b) az a) pontban meghatározott személlyel kapcsolatba hozható, az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (1) bekezdésében meghatározott tárgyra, készpénz-helyettesítő fizetési eszközre, értékpapírra.
+
+(2) Ha a figyelmeztető jelzést elrendelő szerv a 37/B. § (3) bekezdés a)–g) pontjában felsoroltakon kívüli információt kíván megszerezni, akkor megjelöli az összes ilyen kért információt a figyelmeztető jelzésben. Az érintett faji vagy etnikai származására, politikai véleményére, vallási vagy világnézeti meggyőződésére vagy szakszervezeti tagságára utaló személyes adatok, továbbá az egészségügyi adatok és az érintett szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok megszerzését csak kivételesen indokolt esetben, a figyelmeztető jelzés konkrét céljának eléréséhez feltétlenül szükséges mértékben lehet indítványozni.
 
 ### A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
 
@@ -764,14 +766,16 @@ használható fel.
 
 (2) A pénzügyőr a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
 
-(3) A pénzügyőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
+(3) A pénzügyőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés, illetve a célzott ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés, illetve a célzott ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést, illetve célzott ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
 
-- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+- a) az intézkedéssel érintett személy, valamint a 37/A. § (1) bekezdés b) pontjában meghatározott tárgyak megtalálásának ténye, körülményei,
 - b) az intézkedés helye, ideje, indoka,
 - c) az utazás útvonala és az úti cél,
-- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
-- e) a használt jármű azonosításához szükséges adatok,
-- f) a szállított tárgyakra vonatkozó adatok.
+- d) a figyelmeztető jelzés hatálya alá tartozó személyt, illetve a 37/A. § (1) bekezdés b) pontjában meghatározott tárgyak birtokosát kísérő személy természetes személyazonosító adatai, akiről feltételezhető, hogy a figyelmeztető jelzés hatálya alá tartozó személlyel kapcsolatban van,
+- e) a figyelmeztető jelzés hatálya alá tartozó kitöltetlen vagy kitöltött okmányt használó személy személyazonossága és személyleírása,
+- f) a 37/A. § (1) bekezdés b) pontja szerinti tárgy,
+- g) a szállított tárgyra vonatkozó adatok, ideértve a felhasznált úti okmány azonosító adatait is,
+- h) a NAV nyomozó hatósága által a 37/A. § (2) bekezdésével összhangban kért minden egyéb információ.
 
 (4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
 
@@ -1739,12 +1743,42 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 105. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36–37. cikkei [37/A–37/B. §],
+- a) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet,
 - b) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [75. §],
 - c) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [72. § (1)–(2) bekezdés, 74. § (2) bekezdés, 77. §, 78. § (1) bekezdés a)–c) pontok],
 - d) az információs technológia vámügyi alkalmazásáról szóló, 2009. november 30-i 2009/917/IB Tanácsi határozat [80. §].
 
 #### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
 
 #### 122. §
 

@@ -11,8 +11,8 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 - a) dolog: a számokból, betűkből, írásjelekből, matematikai műveleti jelekből, ezek kombinációjából, valamint elektronikus azonosítóból álló jelsorozattal megjelölt vagy egyéb egyedi ismérvei alapján ezek hiányában is kétséget kizáróan azonosítható tárgy, állat, növény,
 - b) európai elfogatóparancs: olyan igazságügyi hatósági határozat, amelyet az Európai Unió egy tagállamában bocsátanak ki, és azt a célt szolgálja, hogy egy másik európai uniós tagállam büntetőeljárás lefolytatása, szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából a keresett személyt elfogja és átadja, vagy a keresett tárgyat felkutassa, lefoglalja és átadja,
 - c) kapcsolatba hozható személy: a körözési eljárás során a körözést elrendelő vagy a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy, személyazonossággal visszaélés esetén a személyazonossággal visszaélés áldozata,
-- d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezése, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
-- e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezésével kapcsolatos intézkedések összessége,
+- d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Schengeni Információs Rendszerben rejtett ellenőrzésre, célzott ellenőrzésre irányuló, a jogellenes elvitellel veszélyeztetett gyermekek tekintetében szükséges utazás megakadályozásával járó figyelmeztető jelzés elhelyezése, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
+- e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Schengeni Információs Rendszerben rejtett ellenőrzésre, célzott ellenőrzésre irányuló, valamint a jogellenes elvitellel veszélyeztetett gyermekek tekintetében szükséges utazás megakadályozásával járó figyelmeztető jelzés elhelyezésével kapcsolatos intézkedések összessége,
 - f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar szerv kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást,
 - g) belső azonosító kód: az e törvény alapján rögzített ujj- és tenyérnyomat, valamint DNS-profil meghatározására alkalmas anyaghoz hozzárendelt alfanumerikus azonosító, amelynek célja, hogy tájékoztatást nyújtson arról, hogy a minta levétele megtörtént,
 - h) DNS-elemzés: a DNS-profil meghatározásának folyamata,
@@ -55,9 +55,11 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 (8) A nyilvántartás törvényességi felügyeletét az ügyészség látja el.
 
+(9) A körözési nyilvántartási rendszer az e törvényben meghatározott adatokon kívül tartalmazza a Schengeni Információs Rendszerben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, jogszabályban meghatározott adatokat is.
+
 #### 3. A körözött személyek nyilvántartása
 
-3. § (1) A körözött személyek nyilvántartásának célja az ismeretlen helyen lévő személy felkutatása.
+3. § (1) A körözött személyek nyilvántartásának célja az ismeretlen helyen lévő személy felkutatása, az ismeretlen személyazonosságú személy személyazonosságának megállapítása.
 
 (2) A körözött személyek nyilvántartása a következő adatokat tartalmazza:
 
@@ -108,6 +110,9 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
   - lb) elrendelésének időpontját,
   - lc) befejezésének időpontját, valamint
   - ld) tartalmi leírását,
+- m) az ismeretlen elkövető azonosítása céljából keresett személy ujjnyomatadatát, a rendőrségről szóló törvényben meghatározottak szerint,
+- n) az eltűnés miatt keresett személy közvetlen felmenő ági rokonainak, leszármazóinak és testvéreinek szakértői nyilvántartó szervtől beszerzett DNS-profilját, a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben meghatározott feltételek szerint,
+- o) az eltűnés miatt, a büntetőeljárásban, az európai és nemzetközi elfogatóparancs miatt keresett személy, valamint a személyazonossággal visszaélés áldozatának a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervtől beszerzett ujjnyomat-, tenyérnyomatadatát.
 - p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés azonosítására szolgáló kapcsolati kódot, valamint a szakrendszeri azonosító kódot.
 
 (3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b), d)–j), valamint p) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
@@ -118,7 +123,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 (6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
 
-(7)
+(7) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 14. alcímében meghatározott eljárás esetén rögzítendő – az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 62. cikk (3) bekezdése szerinti – adatokat a körözési nyilvántartási rendszerben a 3. § (2) bekezdés h) pontjában meghatározott adatok között kell rögzíteni.
 
 (8)
 
@@ -153,7 +158,7 @@ kezeli.
 
 #### 4. A körözött dolgok nyilvántartása
 
-4. § (1) A körözött dolgok nyilvántartásának célja az ismeretlen helyen lévő dolog felkutatása.
+4. § (1) A körözött dolgok nyilvántartásának célja az ismeretlen helyen lévő dolog felkutatása, az ismeretlen eredetű dolog azonosítása.
 
 (2) A körözött dolgok nyilvántartása a következő adatokat tartalmazza:
 
@@ -368,7 +373,7 @@ meghatározott adat.
 
 (2) Az igazságügyért felelős miniszter és az ügyészség a kegyelmi ügyek intézése és a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
-(3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
+(3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
 (4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
@@ -376,19 +381,20 @@ meghatározott adat.
 
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
-(6) A személyiadat- és lakcímnyilvántartást kezelő szerv, az útlevélhatóság és a közúti közlekedési nyilvántartó szerv az okmánykiadással kapcsolatos eljárás során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+(6) A személyiadat- és lakcímnyilvántartást kezelő szerv, az útlevélhatóság és a közúti közlekedési nyilvántartó szerv az okmánykiadással kapcsolatos eljárás során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
-(7) A jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+(7) A jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
-(7a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+(7a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
 (7b) A személyazonosság megállapítása céljából
 
-- a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során,
-- b) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során,
-- c) a rendőrségről szóló törvényben meghatározott rendőrség a rendőri igazoltatás során
+- a) a szabálysértési hatóság és a járásbíróság az általa lefolytatott szabálysértési eljárás során,
+- b) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során
 
-közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével.
+
+(7c) A keresett személy és dolog hollétének megállapítása céljából a rendőrség a rendőri igazoltatás során közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek és a körözött dolgok nyilvántartásából.
 
 (8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.
 
@@ -544,7 +550,7 @@ előírja.
 
 (2) Az (1) bekezdés a) pontjában meghatározott adatokat a nyilvántartásba vétel alapjául szolgáló körözést elrendelő szerv – a nyilvántartásba vétel kezdeményezésével egyidejűleg – küldi meg a szakértői nyilvántartó szervnek.
 
-14/J. § (1) Az ismeretlen holttestek vagy holttestrészek ujj- és tenyérnyomatának nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan az ismeretlen holttestek, holttestrészek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+14/J. § (1) Az ismeretlen holttestek vagy holttestrészek ujj- és tenyérnyomatának nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a az ismeretlen holttestek, holttestrészek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
 
 (2) A körözés visszavonásáról, illetve a körözési adatok törléséről a nyilvántartó elektronikus úton értesíti a szakértői nyilvántartó szervet.
 
@@ -611,7 +617,7 @@ előírja.
 
 (3) A DNS-profilt az ismeretlen személyazonosságú holttestből, holttestrészből rögzített anyagmaradványból a szakkérdés vizsgálatára kirendelt szerv meghatározza, és az (1) bekezdésben meghatározott adatokat, a DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a szakértői nyilvántartó szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
 
-14/S. § (1) Az ismeretlen holttestek, holttestrészek DNS-profiljainak nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan az ismeretlen holttestek, holttestrészek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+14/S. § (1) Az ismeretlen holttestek, holttestrészek DNS-profiljainak nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a az ismeretlen holttestek, holttestrészek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
 
 (2) A körözés visszavonásáról, illetve a körözési adatok törléséről a nyilvántartó elektronikus úton értesíti a szakértői nyilvántartó szervet.
 
@@ -701,12 +707,12 @@ felelős.
 
 #### 20. Az eltűnt személyekre, illetve az ismeretlen személyazonosságú holttestekre, holttestrészekre vonatkozó különös körözési eljárási szabályok, a mintavételi eljárás rendje az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából
 
-20. § (1) A rendőrség körözését rendelheti, – eltűnt személy esetén – rendeli el
+20. § (1) A rendőrség a körözését rendelheti, valamint – eltűnt személy, azonosítandó holttest vagy holttestrész esetén – rendeli el
 
 - a) a tartózkodási hely megállapítása érdekében annak az ismeretlen helyen lévő személynek, akinek eltűnését a rendőrségen bejelentették,
 - b) a személyazonosság megállapítása érdekében
   - ba) az ismeretlen, adatait közölni nem képes személynek,
-  - bb) az ismeretlen személyazonosságú holttestnek, holttestrésznek.
+  - bb) az ismeretlen holttestnek, holttestrésznek.
 
 (2) E törvény alkalmazásában, valamint a körözés elrendelése szempontjából eltűntnek kell tekinteni az ismeretlen helyen lévő személyt, ha
 
@@ -985,6 +991,12 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ában, illetve a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 37/B. §-ában foglalt intézkedést foganatosítja.
 
+(4a) A találatot elérő szerv a célzott ellenőrzés végrehajtása során az Rtv. 46/H. §-a szerinti intézkedést foganatosítja.
+
+(4b) Az ismeretlen elkövető Schengeni Információs Rendszerben történő azonosítása érdekében a helyszínen rögzített daktiloszkópiai adatokkal elért találat esetén a találatot elérő szerv az Rtv. 46/K. §-a szerinti intézkedést foganatosítja.
+
+(4c) A jogellenes elvitellel veszélyeztetett gyermek utazásának megakadályozása érdekében szükséges figyelmeztető jelzés végrehajtása során az Rtv. 29. §-a, 32. §-a, 33. §-a, 35/A. §-a, 37. §-a, 39. §-a, 42. §-a és 46/I. §-a szerinti intézkedés alkalmazható.
+
 (5) A körözési eljárást lefolytató szerv az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján elrendelt dolgok körözése végrehajtása során
 
 - a) az Rtv. 29. §-a, 32. §-a, 42. § (1) bekezdése szerinti intézkedéseket alkalmazhatja,
@@ -1053,9 +1065,9 @@ sarkalatosnak minősül.
 
 33. § (1) E törvény 25. § (4)–(6) bekezdése a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. cikke, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 15. cikke, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat 6. és 26–45. cikkének való megfelelést szolgálja.
+(2) Ez a törvény a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3) Ez a törvény a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet 6., 26–47. és 53–55. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 27. Módosuló jogszabályok
 

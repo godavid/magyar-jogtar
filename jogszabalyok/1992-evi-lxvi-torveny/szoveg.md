@@ -1130,7 +1130,7 @@ miatt a külföldre utazásról szóló törvényben meghatározott okból külf
 
 (4) Az (1) bekezdésben szereplő adatokat a kijelölt kormányhivatal kizárólag a személyazonosító igazolvány érvényességének vizsgálata, valamint a személyazonosító igazolvány kiállítása céljából kezeli. A kijelölt kormányhivatal az adatokat a külföldre utazási korlátozás megszűnésétől számított hat évig kezeli.
 
-29/H. § (1) A nyilvántartást kezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja a személyiadat- és lakcímnyilvántartásban érvénytelenítésre került személyazonosító igazolvány törvényben meghatározott adatait, ha az okmány nincs a hatóság birtokában.
+29/H. § (1) A nyilvántartást kezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének hálózati adatbázisa által elérhető eltulajdonított és elveszett úti okmányok adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja a személyiadat- és lakcímnyilvántartásban érvénytelenítésre került személyazonosító igazolványnak törvényben meghatározott adatait, ha az okmány nincs a hatóság birtokában.
 
 (2) Ha az (1) bekezdés szerinti személyazonosító igazolvány
 
@@ -1452,9 +1452,12 @@ kell érteni.
 
 49/A. § Az egyesült királysági állampolgár, valamint egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja szabad mozgás és tartózkodás joga a nyilvántartásban 2021. december 31. napjával megszüntetésre kerül.
 
-50. § (1) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
+50. § Ez a törvény
 
-(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.
+- a) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet,
+- b) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet
+
+végrehajtását szolgálja.
 
 51. § E törvénynek az e-kártya megvalósításához szükséges egyes törvények, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosításáról szóló 2015. évi CXXX. törvénnyel (a továbbiakban: Módtv1.) megállapított 4. § (1) bekezdés a) pontját a folyamatban lévő eljárások során is alkalmazni kell.
 

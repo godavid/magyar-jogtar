@@ -733,9 +733,9 @@ megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és 
 
 (7) A (6) bekezdésben meg nem határozott szervek és gazdasági társaságok – törvény eltérő rendelkezése hiányában – az (1) bekezdésben meghatározott jelzőrendszert a jelzőrendszert működtető nemzetbiztonsági szolgálat költségvetésének terhére alakítják ki és működtetik.
 
-41/A. § (1) A polgári nemzetbiztonsági szolgálatok a Schengeni Információs Rendszerbe rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését kezdeményezhetik a rendőrségnél, ha a birtokukba került adatok alapján Magyarország nemzetbiztonsági érdekeinek érvényesítése érdekében az szükségessé válik.
+41/A. § (1) A polgári nemzetbiztonsági szolgálatok rejtett ellenőrzésre, célzott ellenőrzésre irányuló figyelmeztető jelzés elhelyezését és kiegészítő adat csatolását kezdeményezhetik a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben abban az esetben, ha Magyarország nemzetbiztonságát sértő vagy veszélyeztető tevékenység felderítése vagy elhárítása érdekében indokolt.
 
-(2) A polgári nemzetbiztonsági szolgálatok – az (1) bekezdésben meghatározott esetben – kizárólag a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikk (3) bekezdése szerinti tájékoztatást követően kezdeményezhetik a rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését.
+(2) A polgári nemzetbiztonsági szolgálatok a rejtett ellenőrzésre, célzott ellenőrzésre irányuló figyelmeztető jelzés elhelyezéséről az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (4) bekezdése szerint tájékoztatják a tagállamokat.
 
 41/B. § A Nemzeti Információs Központ a hatáskörébe tartozó ügyekben a 41–41/A. §-ban foglaltakon kívül az együttműködő szerv adatkezelési rendszerében is – kizárólag egyedileg megjelölt adat keletkezéséről vagy megváltozásáról történő értesítés kérése céljából, a cél megjelölésével – elrendelheti jelzés elhelyezését.
 
@@ -1679,7 +1679,7 @@ iránt intézkedik.
 80. § E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
 
 - a) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU Európai Parlament és a Tanács irányelv.
-- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikke [41/A. §],
+- b) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet;
 - c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [11/A. §, 45. §].
 
 81. § E törvény 40. és 41. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

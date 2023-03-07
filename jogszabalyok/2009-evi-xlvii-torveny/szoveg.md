@@ -1519,6 +1519,8 @@ céljából jogosult.
 
 továbbítja.
 
+(1a) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló törvény szerinti, az idegenrendészeti hatóság által elhelyezendő figyelmeztető jelzés, illetve kiegészítő adat adattartalmának beszerzése, technikai minőség-ellenőrzése céljából az idegenrendészeti hatóság részére a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomat azonos másolatát továbbítja.
+
 (1b) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott, az ECRIS-TCN számára történő adattovábbítás, illetve az ECRIS-TCN-ben ujjnyomattal történő adatigénylés céljából a bűnügyi nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujjnyomat azonos másolatát továbbítja.
 
 (2) Az adatigénylésnek tartalmaznia kell az adatigénylő megnevezését, az adatigénylés célját és jogalapját.
@@ -1782,6 +1784,13 @@ rendeletben állapítsa meg.
 való megfelelést szolgálja.
 
 (2) Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) A 83. § (1a) bekezdése
+
+- a) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet,
+- b) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) Ez a törvény
 
