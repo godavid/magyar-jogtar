@@ -36,7 +36,9 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - g) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 - h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki vagy amely hivatásszerűen foglalkozik személyszállítással;
 - i) visszafogadási egyezmény: személyeknek az államhatáron történő átadás-átvételéről, hatósági kísérettel történő átszállításának, illetve átutazásának engedélyezéséről szóló nemzetközi szerződés;
-- j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
+- j) SIS figyelmeztető jelzés:
+  - ja) a kiutasításra vonatkozó SIS figyelmeztető jelzés, amely valamely schengeni állam által a Schengeni Információs Rendszerben a kiutasítási határozat hatálya alá tartozó harmadik országbeli állampolgárokra vonatkozóan a visszatérési kötelezettség teljesítésének ellenőrzése, valamint a kiutasítási határozatok végrehajtásának támogatása céljából elhelyezett adatcsoport, valamint
+  - jb) a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés, amely valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
 - k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 - l)
 - m) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély;
@@ -162,7 +164,7 @@ tartózkodás szabályai
 - f) tartózkodása teljes időtartamára rendelkezik a lakhatását és megélhetését, valamint a kiutazás költségeit is biztosító anyagi fedezettel;
 - g) az egészségügyi ellátások teljes körére biztosítottnak minősül, vagy egészségügyi ellátásának költségeit biztosítani tudja;
 - h) nem áll kiutasítás vagy beutazási és tartózkodási tilalom hatálya alatt, illetve beutazása vagy tartózkodása nem veszélyezteti Magyarország közrendjét, közbiztonságát, nemzetbiztonságát vagy közegészségügyi érdekét.
-- i) nem áll beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt.
+- i) nem áll SIS figyelmeztető jelzés hatálya alatt.
 
 (2) Az (1) bekezdésben meghatározott feltételek hiányában a beutazás és tartózkodás csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezhető.
 
@@ -286,7 +288,7 @@ tartózkodás szabályai
 - b) esetében az (1) bekezdés b) pontjában vagy az (1f) bekezdésben foglaltak megvalósulnak, vagy
 - c) részére az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély érvényességi ideje lejárt.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
+(2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
 
 18/A. § (1) A tanulmányi célból, kutatás céljából, önkéntes és gyakornoki tevékenység folytatása céljából a tartózkodási engedély kiadását, illetve a meghosszabbítását meg kell tagadni, illetve a kiadott tartózkodási engedélyt vissza kell vonni a 18. § (1) bekezdés b)–c) pontjában meghatározott eseteken túl akkor is, ha
 
@@ -969,7 +971,7 @@ kapott.
 
 - a)
 - b) akinek a letelepedése veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát;
-- c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+- c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve SIS figyelmeztető jelzés hatálya alatt áll;
 - d) aki az engedély megszerzése érdekében hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette.
 
 (3) Ha a letelepedett vagy bevándorolt harmadik országbeli állampolgárnak Magyarország területén harmadik országbeli állampolgár gyermeke született, a születés bejelentését követően a gyermek részére
@@ -1181,7 +1183,7 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) po
 - a) nem rendelkezik érvényes úti okmánnyal,
 - b) nem rendelkezik az (1) bekezdés c) pontjában meghatározottakkal,
 - c) beutazási és tartózkodási tilalom hatálya alatt áll,
-- d) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll.
+- d) SIS figyelmeztető jelzés hatálya alatt áll.
 
 (3) A 22/A. § (1) bekezdése szerinti kutatói rövid távú mobilitást gyakorló kutató családtagja jogosult Magyarország területére belépni, amennyiben rendelkezik
 
@@ -1203,7 +1205,7 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) po
 
 (6) Az önkéntes távozásra nem kell határidőt meghatározni, vagy az idegenrendészeti hatóság az Európai Unió tagállamai területe elhagyásának határnapját a kiutasító határozat közlésétől számított hetedik napnál korábbi napra is meghatározhatja, ha a harmadik országbeli állampolgár
 
-- a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+- a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve SIS figyelmeztető jelzés hatálya alatt áll;
 - b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) vagy d) pontja alapján utasította el a hatóság;
 - c) az Európai Unió tagállamai területének önkéntes elhagyását kifejezetten megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasító döntésnek nem fog eleget tenni;
 - d) magyarországi tartózkodása veszélyezteti a közrendet, a közbiztonságot vagy a nemzetbiztonságot.
@@ -1211,6 +1213,8 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) po
 (7) Ha az idegenrendészeti hatóság a kiutasító határozatában a kiutasítás kitoloncolással történő végrehajtásáról rendelkezik, az önkéntes távozásra határnapot nem határoz meg.
 
 (8) A (3)–(4) bekezdés rendelkezéseit a különleges bánásmódot igénylő személyek vonatkozásában a helyzetükből fakadó sajátos szükségleteik figyelembevételével kell alkalmazni.
+
+(9) Az önkéntes távozásra nyitva álló határidő megjelölésével az idegenrendészeti hatóság intézkedik a 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére. A távozásra nyitva álló határidő meghosszabbításának tényét a 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzésben rögzíteni kell. A 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzésben rögzíteni kell továbbá a kiutasítás végrehajtása felfüggesztésének tényét is.
 
 ### Az idegenrendészeti kiutasítás és a beutazási és tartózkodási tilalom
 
@@ -1483,6 +1487,8 @@ illetve végrehajtására vonatkozó tilalom
 (7) A (6) bekezdés c) pontjának alkalmazásában az őrizet időtartamába a kiutasítást előkészítő őrizet időtartama beleszámítandó. A menekültügyi őrizet időtartama az idegenrendészeti őrizet és a kiutasítást előkészítő őrizet időtartamába nem számít bele.
 
 (8) Az idegenrendészeti őrizet (6) bekezdés b), illetve c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kijelölt helyen való tartózkodást rendel el.
+
+(9) Amennyiben az idegenrendészeti őrizet megszüntetésére a kiutasítás foganatosítása nélkül kerül sor, az idegenrendészeti hatóság intézkedik a 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére.
 
 55. § (1) Az idegenrendészeti hatóság az idegenrendészeti eljárás lefolytatása érdekében kiutasítást előkészítő őrizetbe veheti azt a harmadik országbeli állampolgárt, akinek személyazonossága vagy tartózkodásának jogszerűsége nem tisztázott, vagy kétoldalú visszafogadási egyezmény alapján az Európai Unió más tagállama részére visszaadása folyamatban van.
 
@@ -3013,7 +3019,7 @@ részére továbbíthat adatot.
 (4) Az idegenrendészeti hatóság e törvény szerinti eljárása során adatot igényelhet:
 
 - a) a személyi adat- és lakcímnyilvántartásból,
-- b) a bűntettesek, a kényszerintézkedés, illetve a büntetőeljárás alatt állók nyilvántartásából,
+- b) a bűntettesek, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek, illetve a büntetőeljárás hatálya alatt állók nyilvántartásából, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásából,
 - c) a közvetlen hozzáférés útján a körözési nyilvántartásból,
 - d) a munkavállalási engedéllyel rendelkezők nyilvántartásából,
 - e) a cégnyilvántartásból,
@@ -3422,7 +3428,7 @@ való megfelelést szolgálja.
 - f) az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (EU) 2016/1624 rendelet hatályon kívül helyezéséről szóló, 2019. november 13-i (EU) 2019/1896 európai parlamenti és tanácsi rendelet;
 - g) a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i, 343/2003/EK tanácsi rendelet,
 - h) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet,
-- i) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének,
+- i) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet és a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet;
 - j) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének;
 - k) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet;
 - l) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet;

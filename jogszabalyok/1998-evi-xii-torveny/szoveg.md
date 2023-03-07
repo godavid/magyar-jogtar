@@ -211,8 +211,9 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
   - ca) a szabadságvesztés végrehajtásának utolsó napjáig, vagy
   - cb) a szabadságvesztés büntetés végrehajthatóságának megszűnéséig,
 - d) akinek a bíróság a kényszergyógykezelését rendelte el, az ítélet jogerőre emelkedésétől a kényszergyógykezelés tartama alatt,
-- e) akinek a bíróság a javítóintézeti nevelését rendelte el, az ítélet jogerőre emelkedésétől a javítóintézeti nevelés tartama alatt, illetve a javítóintézetből történő ideiglenes elbocsátás tartama alatt, vagy
-- f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltották Magyarország területének elhagyását és úti okmányának átadására kötelezték.
+- e) akinek a bíróság a javítóintézeti nevelését rendelte el, az ítélet jogerőre emelkedésétől a javítóintézeti nevelés tartama alatt, illetve a javítóintézetből történő ideiglenes elbocsátás tartama alatt,
+- f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltották Magyarország területének elhagyását és úti okmányának átadására kötelezték, vagy
+- g) akivel szemben a bíróság a jogellenes elvitellel veszélyeztetett gyermekek tekintetében szükséges utazás megakadályozásával járó figyelmeztető jelzést helyezett el a Schengeni Információs Rendszerben.
 
 (2) Az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén
 
@@ -241,7 +242,7 @@ hajtja végre.
 
 (8) Ha a visszatartott, magyar hatóság által kiállított úti okmány érvényességi ideje lejárt, az úti okmányt visszatartó szerv a 23. § (2) bekezdésében meghatározottak szerint jár el.
 
-16/A. § (1) A külföldre utazási korlátozással kapcsolatos adatokat valamennyi, a 16. § (1) bekezdésében meghatározott kényszerintézkedéssel, büntetéssel, intézkedéssel vagy egyéb korlátozással érintett személy (a továbbiakban: érintett személy) esetében a bűnügyi nyilvántartási rendszer külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kell nyilvántartani.
+16/A. § (1) A külföldre utazási korlátozással kapcsolatos adatokat a 16. § (1) bekezdés a)–f) pontjában meghatározott kényszerintézkedéssel, büntetéssel, intézkedéssel vagy egyéb korlátozással érintett személy (a továbbiakban: érintett személy) esetében a bűnügyi nyilvántartási rendszer külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kell nyilvántartani.
 
 (2) A külföldre utazási korlátozás tényét azon érintett személyek esetében, akik – a bevándorolt, letelepedett, menekült, oltalmazott, menedékes és hontalan úti okmánya kivételével – magyar hatóság által kiállított érvényes úti okmánnyal rendelkeznek, az útiokmány-nyilvántartásban kell nyilvántartani.
 
@@ -471,10 +472,14 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - b) az adatkezelő szervtől a 24. § (1) bekezdése alapján kezelt adatokból, kivéve a 24. § (1) bekezdés g) pontjában meghatározott adatokat, valamint
-- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és az idegenrendészeti vagy menekültügyi hatóságtól,
+- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a körözési nyilvántartási rendszerből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és az idegenrendészeti vagy menekültügyi hatóságtól,
 - d) közvetlenül vagy az adatkezelő szerv útján a vezetői engedély tekintetében a közúti közlekedési nyilvántartás engedély-nyilvántartásából térítésmentesen a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokra vonatkozóan.
 
 (1a) Az útlevélhatóság – saját, illetve közreműködői feladatellátása céljából is – a kérelmező anyakönyvi adatainak beszerzése érdekében elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult adatokat átvenni az elektronikus anyakönyvből.
+
+(1b) Az eljáró útlevélhatóság és közreműködő szerv a kérelmezővel szemben fennálló körözés ellenőrzésének céljából rendszerkapcsolat útján adatokat vehet át a körözési nyilvántartási rendszer körözött személyek nyilvántartásából, valamint a Nemzetközi Bűnügyi Rendőrség Szervezetének hálózati adatbázisa által elérhető körözött személyek adatbázisából (Interpol FIND Nominals).
+
+(1c) Az eljáró útlevélhatóság és közreműködő szerv a kérelmező által személyazonosítás céljából bemutatott okmány nemzetközi körözésének ellenőrzése céljából rendszerkapcsolat útján adatokat vehet át a Nemzetközi Bűnügyi Rendőrség Szervezetének hálózati adatbázisa által elérhető eltulajdonított és elveszett úti okmányok adatbázisából (a továbbiakban: Interpol FIND SLTD).
 
 (2) Hivatalos útlevelek esetében
 
@@ -511,22 +516,22 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (4a) Az útlevélhatóság a közúti közlekedési nyilvántartó szerv és közlekedési igazgatási hatóság részére a közlekedési igazgatási eljárások során a személyazonosítás céljára a 24. § (1) bekezdés a)–b), valamint e) pontjában meghatározott adatokat szolgáltathatja.
 
-(5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevél és magánútlevél törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság, vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
+(5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és az Interpol FIND SLTD-be továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevélnek és magánútlevélnek törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
 
 (6) Ha az (5) bekezdés szerinti hivatalos útlevél vagy magánútlevél
 
 - a) időközben megkerült, vagy
 - b) lefoglalás vagy büntetőeljárásban bizonyítékként történő felhasználása céljából elrendelt körözésének adatai a körözési nyilvántartási rendszerből törlésre kerültek,
 
-az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmeztető jelzés és a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában szereplő tétel törléséről.
+az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmeztető jelzés és az Interpol FIND SLTD-ben szereplő tétel törléséről.
 
-(7) Ha a kitöltetlen úti okmány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen okmány megkerüléséről értesül, az adatkezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő elhelyezéséről, illetve törléséről, valamint az Interpol Magyar Nemzeti Iroda értesítésével kezdeményezi az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisába történő továbbítását, illetve az abban szereplő tétel törlését.
+(7) Ha a kitöltetlen úti okmány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen okmány megkerüléséről értesül, az adatkezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő elhelyezéséről, illetve törléséről, valamint az Interpol Magyar Nemzeti Iroda értesítésével kezdeményezi az okmányadatok Interpol FIND SLTD-be történő továbbítását, illetve az abban szereplő tétel törlését.
 
 (8) Az anyakönyvvezető a személyazonosság és állampolgárság ellenőrzése, valamint az elhunyt személy személyazonosság igazolására alkalmas hatósági igazolványának bevonása céljából a 24. § (1) bekezdés a), e) és f) pontjában foglalt adatokat lekérdezheti.
 
 (9) A büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében – közvetlen adathozzáféréssel – a 24. § (1) bekezdés a), b), e) és f) pontjában meghatározott adatokat átveheti.
 
-(10) Az adatkezelő szerv az (5) és (6) bekezdés szerinti jelzéskezelési művelet végrehajtásával egyidejűleg gondoskodik az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában történő elhelyezéséről, illetve törléséről.
+(10) Az adatkezelő szerv az (5) és (6) bekezdés szerinti jelzéskezelési művelet végrehajtásával egyidejűleg gondoskodik az okmányadatok Interpol FIND SLTD-ben történő elhelyezéséről, illetve törléséről.
 
 (11) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek a 24. § (1) bekezdésének l) pontjában meghatározott adat közlésével is igényelhetnek adatot az útiokmány-nyilvántartásból.
 
@@ -680,8 +685,8 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 
 42. § (1) E törvény 7. § (2)–(4) bekezdése, 20. § (2) bekezdése, valamint 32/A. §-a a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
+(2) Ez a törvény a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet 41–45. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.
+(3) Ez a törvény a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet 38–39. és 54–60. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

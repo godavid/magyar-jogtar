@@ -653,7 +653,7 @@ igazolja.
 
 (5) A igazoltatás vagy a személyazonosság megállapításának sikertelensége esetén az előállítás csak a személyazonosság megállapításához szükséges ideig tarthat.
 
-(6) A rendőr az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása, a közrendet, a közbiztonságot fenyegető veszély elhárítása, bűncselekmény vagy szabálysértés gyanúja szükségessé teszi.
+(6) A rendőr az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása, a közrendet, a közbiztonságot fenyegető veszély elhárítása, bűncselekmény vagy szabálysértés gyanúja szükségessé teszi, vagy ha valamely Schengeni Információs Rendszert alkalmazó állam az igazoltatott személy, illetve az igazoltatott személlyel kapcsolatba hozható személy vagy tárgy vonatkozásában célzott ellenőrzésre irányuló figyelmeztető jelzést helyezett el.
 
 (7) Az igazoltatás során rögzített adatokat – kivéve, ha ezek büntető- vagy szabálysértési eljárásban kerülnek felhasználásra – az intézkedés befejezését követő száznyolcvanadik napon meg kell semmisíteni. Ez a rendelkezés nem vonatkozik a 24. § (4) bekezdése szerinti igazoltatás során rögzített adatok 24. § (5) bekezdésében meghatározott törlési idejére.
 
@@ -986,12 +986,18 @@ igényelhet adatot.
 
 ### Rejtett ellenőrzés elrendelése
 
-46/B. § A rendőrség e törvényben meghatározott bűnmegelőzési feladatai ellátása céljából, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+46/B. § (1) A rendőrség az e törvényben meghatározott bűnmegelőzési feladatai ellátása, a közbiztonságot fenyegető veszély megelőzése, megakadályozása céljából, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben
 
 - a) arra a személyre, akiről
-  - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
-  - ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
-- b) az a) pontban meghatározott személlyel kapcsolatba hozható, a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.
+  - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (2) bekezdése és 1. számú melléklete szerinti bűncselekményt készít elő,
+  - ab) okkal feltételezhető, hogy az aa) alpontban meghatározott bűncselekményt követhet el valamely Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
+- b) az a) pontban meghatározott személlyel kapcsolatba hozható, az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (1) bekezdésében meghatározott tárgyra, készpénz-helyettesítő fizetési eszközre, értékpapírra.
+
+(2) A terrorizmust elhárító szerv az (1) bekezdésben foglaltakon túl a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint a 7/E. § (1) bekezdés e) pontjában meghatározott feladata ellátása érdekében az Nbtv. szabályainak alkalmazásával folytatott titkos információgyűjtés során rejtett ellenőrzésre irányuló figyelmeztető jelzés és kiegészítő adat elhelyezését kezdeményezheti a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben.
+
+(3) A terrorizmust elhárító szerv a (2) bekezdés szerinti figyelmeztető jelzés elhelyezéséről az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (4) bekezdése szerint tájékoztatja a tagállamokat.
+
+(4) Ha a figyelmeztető jelzést elrendelő rendőri szerv a 46/C. § (3) bekezdés a)–g) pontjában felsoroltakon kívüli információt kíván megszerezni, akkor megjelöli az összes ilyen kért információt a figyelmeztető jelzésben. Az érintett faji vagy etnikai származására, politikai véleményére, vallási vagy világnézeti meggyőződésére vagy szakszervezeti tagságára utaló személyes adatok, továbbá az egészségügyi adatok és az érintett szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok megszerzését csak kivételesen indokolt esetben, a figyelmeztető jelzés konkrét céljának eléréséhez feltétlenül szükséges mértékben lehet indítványozni.
 
 ### A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
 
@@ -1001,12 +1007,14 @@ igényelhet adatot.
 
 (3) A rendőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
 
-- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+- a) az intézkedéssel érintett személy, valamint a 46/B. § (1) bekezdés b) pontjában meghatározott tárgyak megtalálásának ténye, körülményei,
 - b) az intézkedés helye, ideje, indoka,
 - c) az utazás útvonala és az úti cél,
-- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
-- e) a használt jármű azonosításához szükséges adatok és
-- f) a szállított tárgyakra vonatkozó adatok.
+- d) a figyelmeztető jelzés hatálya alá tartozó személyt, illetve a 46/B. § (1) bekezdés b) pontjában meghatározott tárgyak birtokosát kísérő személy természetes személyazonosító adatai, akiről feltételezhető, hogy a figyelmeztető jelzés hatálya alá tartozó személlyel kapcsolatban van,
+- e) a figyelmeztető jelzés hatálya alá tartozó kitöltetlen vagy kitöltött okmányt használó személy személyazonossága és személyleírása,
+- f) a 46/B. § (1) bekezdés b) pontja szerinti tárgy,
+- g) a szállított tárgyra vonatkozó adatok, ideértve a felhasznált úti okmány azonosító adatait is,
+- h) a figyelmeztető jelzést elhelyező rendőri szerv által a 46/B. § (4) bekezdésével összhangban kért minden egyéb információ.
 
 (4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
 
@@ -1035,6 +1043,42 @@ igényelhet adatot.
 ### Határbiztosítási távoltartás
 
 46/F. § A rendőr az államhatár rendjének és a határőrizeti tevékenység zavartalanságának biztosítása érdekében megakadályozza, hogy Magyarország területének a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonalától, illetve a határjeltől számított 8 km-es sávon belülre olyan személy lépjen be, valamint az ott tartózkodó olyan személyt távozásra kötelezi, akivel szemben a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §) bűncselekmény miatt büntetőeljárás van folyamatban.
+
+### Célzott ellenőrzés elrendelése
+
+46/G. § (1) A rendőrség a 46/B. § (1) bekezdésében meghatározott célból, célzott ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben a 46/B. § (1) bekezdés a) pontja szerinti személyre és a 46/B. § (1) bekezdés b) pontja szerinti tárgyra.
+
+(2) A terrorizmust elhárító szerv az (1) bekezdésben foglaltakon túl a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint a 7/E. § (1) bekezdés e) pontjában meghatározott feladata ellátása érdekében az Nbtv. szabályainak alkalmazásával folytatott titkos információgyűjtés során célzott ellenőrzésre irányuló figyelmeztető jelzés és kiegészítő adat elhelyezését kezdeményezheti a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben.
+
+(3) A terrorizmust elhárító szerv a (2) bekezdés szerinti figyelmeztető jelzés elhelyezéséről az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (4) bekezdése szerint tájékoztatja a tagállamokat.
+
+(4) Ha a figyelmeztető jelzést elrendelő rendőri szerv a 46/C. § (3) bekezdés a)–g) pontjában felsoroltakon kívüli információt kíván megszerezni, akkor megjelöli az összes ilyen kért információt a figyelmeztető jelzésben. Az érintett faji vagy etnikai származására, politikai véleményére, vallási vagy világnézeti meggyőződésére vagy szakszervezeti tagságára utaló személyes adatok, továbbá az egészségügyi adatok és az érintett szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok megszerzését csak kivételesen indokolt esetben, a figyelmeztető jelzés konkrét céljának eléréséhez feltétlenül szükséges mértékben lehet indítványozni.
+
+### A Schengeni Információs Rendszerben elhelyezett célzott ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
+
+46/H. § Ha a rendőr az e fejezetben meghatározott intézkedése során megállapítja, hogy az intézkedéssel érintett személyre vagy tárgyra a Schengeni Információs Rendszerben célzott ellenőrzésre irányuló érvényes figyelmeztető jelzés szerepel, annak végrehajtása érdekében a 46/C. § szerinti szabályok alkalmazásával intézkedik.
+
+### Biztonsági feltartóztatás
+
+46/I. § (1) A rendőr megakadályozza, hogy Magyarország területét elhagyja az a személy, akivel szemben a jogellenes elvitellel veszélyeztetett gyermekek tekintetében szükséges utazás megakadályozásával járó figyelmeztető jelzés van érvényben.
+
+(2) A rendőr szükség esetén intézkedik az (1) bekezdés szerinti figyelmeztető jelzéssel érintett személy védelem alá helyezéséről és intézményi elhelyezéséről.
+
+(3) A rendőr az intézkedésről haladéktalanul értesíti a figyelmeztető jelzés elhelyezését elrendelő szervet, külföldi figyelmeztető jelzés esetén a SIRENE Irodát.
+
+(4) A rendőr megakadályozza, hogy Magyarország területét elhagyja az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján áldozattá válás kockázata miatt utazás megakadályozásával járó külföldi figyelmeztető jelzés van érvényben.
+
+(5) A rendőr a (4) bekezdés szerinti intézkedésről haladéktalanul értesíti a SIRENE Irodát, szükség esetén intézkedik az érintett személy védelem alá helyezéséről.
+
+### Ismeretlen elkövető azonosítása céljából a helyszínen rögzített daktiloszkópiai adatok alapján a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése
+
+46/J. § (1) A rendőrség – az ismeretlen elkövetők azonosítása céljából – a nyomozás alatt álló terrorcselekmény vagy más súlyos bűncselekmény elkövetésének helyszínén rögzített ujjnyomat vagy tenyérnyomat teljes vagy hiányos sorozatait tartalmazó figyelmeztető jelzés elhelyezését rendelheti el a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben, ha megalapozottan feltehető, hogy az ujj- vagy tenyérnyomat a szóban forgó bűncselekmény egyik elkövetőjétől származik és az egyéb releváns nemzeti, uniós vagy nemzetközi adatbázisokban való keresés nem vezetett eredményre.
+
+(2) A rendőrség az (1) bekezdés szerinti figyelmeztető jelzés Schengeni Információs Rendszerben történő elhelyezése céljából a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervtől jogosult a daktiloszkópiai adatok átvételére.
+
+### Az ismeretlen elkövető azonosítása céljából a helyszínen rögzített daktiloszkópiai adatok alapján a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzések végrehajtása
+
+46/K. § Ha az automatikus ujjnyomat-azonosító rendszer (SIS AFIS) a 46/J. § szerint bevitt figyelmeztető jelzés kapcsán találatot jelez, a rendőr megállapítja és rögzíti az ismeretlen személlyel szemben elrendelt figyelmeztető jelzés alanyának természetes személyazonosító adatait és tájékoztatja a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervet. A rendőr az ismeretlen elkövető természetes személyazonosító adatainak megismerését követően megkeresi a SIRENE Irodát a találattal érintett figyelmeztető jelzéshez kapcsolódó kiegészítő információk beszerzése céljából.
 
 ### VI. Fejezet — A KÉNYSZERÍTŐ ESZKÖZÖK
 
@@ -2341,7 +2385,7 @@ az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 - d) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
 - e) a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelv,
 - f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 9. cikke,
-- g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
+- g) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet,
 - h) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],
 - i) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],
 - j) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
