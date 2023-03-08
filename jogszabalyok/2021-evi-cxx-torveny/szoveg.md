@@ -196,11 +196,7 @@ f)
 
 49. § (1)
 
-(2) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 106. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az idegenrendészeti hatóság e törvény szerinti eljárása során adatot igényelhet:)
-
-  - „b) a bűntettesek, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek, illetve a büntetőeljárás hatálya alatt állók nyilvántartásából, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásából,”
+(2)
 
 (3)
 
@@ -222,18 +218,9 @@ f)
 
 #### 14. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-56. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 83. §-a a következő (1a) bekezdéssel egészül ki:
+#### 56. §
 
-„(1a) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló törvény szerinti, az idegenrendészeti hatóság által elhelyezendő figyelmeztető jelzés, illetve kiegészítő adat adattartalmának beszerzése, technikai minőség-ellenőrzése céljából az idegenrendészeti hatóság részére a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomat azonos másolatát továbbítja.”
-
-57. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 98. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 83. § (1a) bekezdése
-
-- a) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet,
-- b) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 57. §
 
 #### 15. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
@@ -251,9 +238,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 #### 17. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-63. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 15. alcíme a következő 33/A. §-sal egészül ki:
-
-„33/A. § Az idegenrendészeti hatóság kizárólag az általa elhelyezendő figyelmeztető jelzés, illetve kiegészítő adat adattartalmának beszerzése, illetve technikai minőség-ellenőrzése céljából, az ahhoz szükséges mértékben – az adatigénylés céljának meghatározása mellett – jogosult a 16. § b), f) és g) pontja szerinti adatok közül az ujj- és tenyérnyomatokra vonatkozó, valamint a 16. § h) pontja szerinti arcfénykép adatok átvételére.”
+#### 63. §
 
 #### 18. Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény módosítása
 
