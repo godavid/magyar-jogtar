@@ -697,6 +697,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (39) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében ellátja az Unióban történő határon átnyúló fizetésekről szóló 2021. július 14-i (EU) 2021/1230 európai parlamenti és tanácsi rendelet (a továbbiakban: az (EU) 2021/1230 európai parlamenti és tanácsi rendelet) 8. és 9. cikke szerinti illetékes hatóságként az (EU) 2021/1230 európai parlamenti és tanácsi rendelet végrehajtásából eredő feladatokat.
 
+(40) Az MNB a 39. § (1) bekezdés h) és l) pontjában meghatározott feladatai során ellátja a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet végrehajtását.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -3444,6 +3446,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - 21. (34) bekezdése a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet
 - 22. (35) bekezdése a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet
 - 23. (39) bekezdése az (EU) 2021/1230 európai parlamenti és tanácsi rendelet
+- 24. (40) bekezdése a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
