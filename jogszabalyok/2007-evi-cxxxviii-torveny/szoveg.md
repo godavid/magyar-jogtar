@@ -375,7 +375,7 @@ használnak,
 - g) jegyzési garanciavállaláshoz kapcsolódó szolgáltatás,
 - h) a 6. § e)–g), j) és k) pontjaiban foglalt származtatott ügyletek alapjául szolgáló eszközhöz kapcsolódó befektetési szolgáltatási tevékenység vagy kiegészítő szolgáltatás.
 
-6. § Pénzügyi eszköz
+6. § Pénzügyi eszköz – ideértve annak megosztott főkönyvi technológia útján kibocsátott formáját is –
 
 - a) az átruházható értékpapír,
 - b) a pénzpiaci eszköz,
