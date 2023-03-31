@@ -63,7 +63,53 @@ Az Országgyűlés az európai uniós költségvetési források felhasználás�
 
 (5a) A Belső Ellenőrzési és Integritási Igazgatóság a Hatóság kérésére haladéktalanul biztosítja a Hatóság részére a Belső Ellenőrzési és Integritási Igazgatóság által kezelt összeférhetetlenségi nyilatkozathoz és érdekeltségi nyilatkozatokhoz, valamint valamennyi, a Hatóság jogkörének gyakorlásához szükséges irathoz való hozzáférést.
 
-(6)
+(6) A Hatóság feladatainak ellátása során, az ahhoz szükséges mértékben ellenőrizheti
+
+1. a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja,
+
+2. a Médiatanács tagja,
+
+3. az Állami Számvevőszék elnöke és alelnöke,
+
+4. az alapvető jogok biztosa és helyettese,
+
+5. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese,
+
+6. az Alkotmánybíróság tagja,
+
+7. a legfőbb ügyész és a legfőbb ügyész helyettese,
+
+8. a Költségvetési Tanács elnöke,
+
+9. a Nemzeti Választási Iroda elnöke és elnökhelyettese,
+
+10. a Magyar Nemzeti Bank elnöke, alelnökei és a Monetáris Tanácsnak a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai,
+
+11. a Nemzeti Emlékezet Bizottságának tagja,
+
+12. a Közbeszerzési Hatóság keretében működő Tanács elnöke, alelnöke és tagja,
+
+13. az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető,
+
+14. az önkormányzati képviselő és a polgármester és
+
+15. a nemzetiségi önkormányzati képviselő
+
+vagyonnyilatkozatát, és jogosult vagyonnyilatkozati vizsgálati eljárást lefolytatni, és ennek eredménye alapján az 1–15. pontokban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
+
+(6a) A Hatóság feladatainak ellátása során
+
+a) a köztársasági elnök,
+
+b) az országgyűlési képviselő, a nemzetiségi szószóló és az Országgyűlés háznagya,
+
+c) a bíró és
+
+d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető
+
+vagyonnyilatkozatával kapcsolatban jogosult az a)–d) pontokban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
+
+(7) A Hatóság az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) 14. § (1) bekezdés b) pontja szerint bejelentésével kezdeményezheti a Vnytv. szerinti ellenőrzési eljárást azzal a személlyel szemben, akinek vagyonnyilatkozat-tételi kötelezettségét az európai uniós források tekintetében fennálló javaslattételi, döntési vagy ellenőrzési jogosultsága alapozza meg. A Vnytv. szerinti ellenőrzési eljárás eredményéről – ennek keretében különösen a vagyongyarapodási vizsgálat kezdeményezéséről – a Hatóságot tájékoztatni kell.
 
 6. § A Hatóság feladat- és hatáskörei nem érintik más szerv feladatköreit és hatáskörgyakorlását, így különösen az európai uniós források kezelésére létrehozott szervek feladatait, valamint az irányítási és ellenőrzési rendszerben meghatározott szerepüket.
 
@@ -487,7 +533,7 @@ amelynek jogát vagy jogos érdekét a Hatóság egyedi döntése a megbízatás
 
 (3) A Hatóság nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
 
-(4) A Hatóság elnöke és elnökhelyettese kivételével a Hatóság köztisztviselői az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 3. § (1) bekezdése alapján vagyonnyilatkozat-tételre kötelezettek.
+(4) A Hatóság elnöke és elnökhelyettese kivételével a Hatóság köztisztviselői a Vnytv. 3. § (1) bekezdése alapján vagyonnyilatkozat-tételre kötelezettek.
 
 47. § (1) A Hatóság köztisztviselői kötelesek a feladatkörük ellátása során tudomásukra jutott minden törvény által védett titkot, így különösen üzleti titkot megőrizni.
 
@@ -750,6 +796,29 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 77. § (1) A Munkacsoportot 2022. december 1-jéig kell megalakítani. A Munkacsoport az első ülését legkésőbb 2022. december 15-éig megtartja.
 
 (2) A Munkacsoport a 2022. évre vonatkozó első jelentését 2023. március 15-éig fogadja el és küldi meg a Kormánynak.
+
+#### 31/A. Sarkalatossági záradék
+
+77/A. § (1) Az 5. § (6) bekezdés
+
+- a) 2. pontja az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján,
+- b) 3. pontja az Alaptörvény 43. cikk (4) bekezdése alapján,
+- c) 5. pontja az Alaptörvény VI. cikk (4) bekezdése alapján,
+- d) 6. pontja az Alaptörvény 24. cikk (9) bekezdése alapján,
+- e) 7. pontja az Alaptörvény 29. cikk (7) bekezdése alapján,
+- f) 9. pontja az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és a 35. cikk (1) bekezdése alapján,
+- g) 14. pontja az Alaptörvény 31. cikk (3) bekezdése alapján,
+- h) 15. pontja az Alaptörvény XXIX. cikk (3) bekezdése alapján
+
+sarkalatosnak minősül.
+
+(2) Az 5. § (6a) bekezdés
+
+- a) a) pontja az Alaptörvény 12. cikk (5) bekezdése alapján,
+- b) b) pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján,
+- c) c) pontja az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján
+
+sarkalatosnak minősül.
 
 ### IX. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 
