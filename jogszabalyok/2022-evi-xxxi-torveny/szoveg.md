@@ -64,15 +64,7 @@ az európai uniós költségvetési források felhasználásának ellenőrzésé
 
 #### 21. §
 
-22. § (1)
-
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 94. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Mentelmi Bizottság az Országgyűlés honlapján haladéktalanul közzéteszi, amelyhez bárki ingyenesen és korlátozás nélkül hozzáférhet. A vagyonnyilatkozat a honlapról a képviselő megbízatásának megszűnését követő egy év elteltével távolítható el. A családtag vagyonnyilatkozatát a Mentelmi Bizottság őrzi. A 2022. augusztus 1-jén vagy azt követően tett vagyonnyilatkozatok esetében a hozzáférést kereshető módon is biztosítani kell.”
-
-(3)
-
-(4)
+#### 22. §
 
 #### 23. §
 
