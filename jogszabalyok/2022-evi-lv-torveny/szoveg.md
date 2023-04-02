@@ -44,11 +44,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 18. §
 
-19. § A Vht. 15. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az elsőfokon eljárt bíróság végrehajtási lapot állít ki)
-
-„b) a bíróság büntetőügyben hozott határozatának a polgári jogi igénynek helyt adó rendelkezése alapján, valamint a büntetőeljárásban részt vevő személy részére bűnügyi költség megállapításáról szóló rendelkezése alapján,”
+#### 19. §
 
 #### 20. §
 
