@@ -60,7 +60,7 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 (3) Az (1) és a (2) bekezdés szerinti eljárásokban hozott döntések véglegessé válását követően az Ingatlanokat az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – hitéleti, oktatási, felsőoktatási célok elősegítése érdekében – ingyenesen, 1/2 tulajdoni arányban a Dunamelléki Református Egyházkerület, 1/4 tulajdoni arányban a Magyar Bencés Kongregáció Szent Ányos Bencés Perjelség és 1/4 tulajdoni arányban a Magyar Bencés Kongregáció Szent Mór Bencés Perjelség (a továbbiakban együtt: Kedvezményezettek) tulajdonába kell adni.
 
-(3a) A (3) bekezdés alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdése juttatási cél szerinti hasznosítási kötelezettségre vonatkozó rendelkezését, valamint az Nvtv. 13. § (7) és (8) bekezdését.
+(3a) A (3) bekezdés alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4), (5), (7) és (8) bekezdésében foglaltakat.
 
 (4) A (3) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti elő és köti meg. A szerződésben az Ingatlanok forgalmi értékeként az MNV Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződésben rögzíteni kell, hogy az Ingatlanok használata során a Kedvezményezettek kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
 

@@ -160,7 +160,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (4) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlanon az Nvtv. 13. § (4) bekezdés a) pontjától és (5) bekezdésétől eltérően határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
 
-(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanban található állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva a Szír Ortodox Vallási Egyesület tulajdonába kerülnek.
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanban található állami tulajdonú ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva a Szír Ortodox Vallási Egyesület tulajdonába kerülnek.
 
 (6) Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
@@ -196,9 +196,41 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (11) A HAYDNEUM Alapítvány induló vagyonát az alapító a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény szerint biztosítja.
 
-#### 7/A. Egyház részére átadott vagyonelemet érintő rendelkezések
+#### 7/A. Egyházat érintő vagyonátadásra vonatkozó rendelkezések
 
-9/A. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési tilalom alatt álló Budapest belterület 9628 helyrajzi számú ingatlan tulajdonjogát a tulajdonos Magyarországi Református Egyház az egyház belső jogi személyeként működő Svábhegyi Református Egyházközség javára ingyenesen átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. A Svábhegyi Református Egyházközség a tulajdonátruházásra irányuló szerződésben vállalja a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság és a Magyarországi Református Egyház között a Budapest belterület 9628 helyrajzi számú ingatlan egyházi tulajdonba adására vonatkozó szerződésben az átvevő egyházat terhelő kötelezettségek teljesítését azzal az eltéréssel, hogy a Svábhegyi Református Egyházközség jogosult a szerződésben rögzített felhasználási céltól eltérően az ingatlant óvoda és kiszolgáló egységei fenntartása céljából használni.
+9/A. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési tilalom alatt álló Budapest belterület 9628 helyrajzi számú ingatlan tulajdonjogát a tulajdonos Magyarországi Református Egyház (a továbbiakban: Egyház) az Egyház belső jogi személyeként működő Svábhegyi Református Egyházközség javára ingyenesen átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. A Svábhegyi Református Egyházközség a tulajdonátruházásra irányuló szerződésben vállalja a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság és az Egyház között a Budapest belterület 9628 helyrajzi számú ingatlan egyházi tulajdonba adására vonatkozó szerződésben az átvevő egyházat terhelő kötelezettségek teljesítését azzal az eltéréssel, hogy a Svábhegyi Református Egyházközség jogosult a szerződésben rögzített felhasználási céltól eltérően az ingatlant óvoda és kiszolgáló egységei fenntartása céljából használni.
+
+9/B. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési tilalom alatt álló Budapest IX. kerület, belterület 36971 helyrajzi számú, természetben az 1092 Budapest, IX. kerület Kinizsi utca 12. szám alatti ingatlan tulajdonjogát a tulajdonos Egyház átruházhatja, mely esetben nem kell alkalmazni az Nvtv. 13. § (4)–(8) bekezdésében foglaltakat. A magyar állam javára bejegyzett elidegenítési tilalmat az ingatlan-nyilvántartásból e § rendelkezése alapján a tulajdonos Egyház kérelmére törölni kell.
+
+9/C. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – hitéleti, oktatási, felsőoktatási célok elősegítése érdekében –
+
+- a) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10735 helyrajzi számú, természetben az 1120 Budapest, XII. kerület „felülvizsgálat alatt” cím alatt található ingatlan,
+- b) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10736/2 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 20. szám és az 1125 Budapest, XII. kerület Virányos út 5. szám alatti ingatlan,
+- c) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10737 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Virányos út 7. szám alatti ingatlan, valamint
+- d) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, II. kerület belterület 12346 helyrajzi számú, természetben az 1026 Budapest, II. kerület Gábor Áron utca 47. szám és az 1022 Budapest, II. kerület Bimbó út 111–115. szám alatti ingatlan
+
+(e § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Egyház tulajdonába kerülnek azzal, hogy az a) és b) pont szerinti ingatlanra az átruházással együtt az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10739/1 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 22/B. szám alatti és az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10739/2 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 22/C. szám alatti ingatlan javára átjárási telki szolgalmi jogot kell bejegyezni.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az Egyházzal. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
+
+(3) Az Egyház az ingatlanokat a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyház az ingatlanokat terhelő kötelezettségeket a (2) bekezdés szerinti szerződés alapján teljeskörűen átvállalja, továbbá az ingatlanok jogi helyzetével összefüggésben semmilyen megtérítési igénnyel nem él a tulajdonba adó irányába.
+
+(4) Az (1) bekezdés szerinti vagyonjuttatás az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+9/D. § A 9/C. § (1) bekezdése szerinti vagyonjuttatás tekintetében nem kell alkalmazni az Nvtv. 13. § (4), (5), (7) és (8) bekezdésében foglaltakat.
+
+9/E. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – hitéleti, oktatási, szakképzési, szociális, kulturális és felsőoktatási célok elősegítése érdekében –
+
+- a) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, X. kerület belterület 41822 helyrajzi számú, természetben az 1105 Budapest, X. kerület Gergely utca 10. szám alatti ingatlan, valamint
+- b) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XI. kerület belterület 3416 helyrajzi számú, természetben az 1115 Budapest, XI. kerület Halmi utca 40. szám alatti ingatlan
+
+és az a) és b) pont szerinti ingatlanokban található, az a) és b) pont szerinti ingatlan rendeltetésszerű használatát biztosító ingóságok ingyenesen az Egyházkerület tulajdonába kerülnek.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az Egyházkerülettel. A szerződésben az (1) bekezdés szerinti ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
+
+(3) Az Egyházkerület az (1) bekezdés szerinti ingatlanokat és az (1) bekezdés szerinti ingóságokat a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyházkerület az (1) bekezdés szerinti ingatlanokat és az (1) bekezdés szerinti ingóságokat terhelő kötelezettségeket a (2) bekezdés szerinti szerződés alapján teljeskörűen átvállalja, továbbá az (1) bekezdés szerinti ingatlanok és az (1) bekezdés szerinti ingóságok jogi helyzetével összefüggésben semmilyen megtérítési igénnyel nem él a tulajdonba adó irányába.
+
+9/F. § Az Nvtv. 13. § (4) és (5) bekezdésétől eltérően a 9/E. § (1) bekezdése szerinti ingatlanok tulajdonjogát az Egyházkerület az Egyházkerület területén működő, az Egyház belső jogi személye javára átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. Az Egyházkerület és a tulajdonátruházással érintett, az Egyház belső jogi személye közötti tulajdonátruházásra irányuló szerződésben az Egyház belső jogi személye vállalja, hogy a 9/E. § (1) bekezdése szerinti céloknak megfelelően kerül sor a 9/E. § (1) bekezdése szerinti ingatlanok hasznosítására.
 
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -244,7 +276,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 9/A. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
