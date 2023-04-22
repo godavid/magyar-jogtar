@@ -10,7 +10,7 @@ egyes foglalkoztatási tárgyú törvények módosításáról
 
 7–15. §
 
-16. §
+16. § Hatályát veszti az Mvt. 87. § 1/B. és 1/C. pontja.
 
 #### 3. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
