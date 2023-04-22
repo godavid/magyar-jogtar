@@ -106,7 +106,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (3) Munkaeszközt üzembe helyezni, valamint használatba venni csak abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre, mint termékre, külön jogszabályban meghatározott EK-megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal (pl. tanúsítvány).
 
-(4) Egyéni védőeszközt forgalomba hozni, használatba venni akkor szabad, ha az rendelkezik egyéni védőeszköz EK-megfelelőségi nyilatkozattal, illetve egyéni védőeszköz EK típustanúsítvánnyal. Az egyéni védőeszközök megfelelőségének tanúsítását a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak szerint kell elvégezni.
+(4) Egyéni védőeszközt forgalomba hozni és használatba venni akkor szabad, ha rendelkezik EU-megfelelőségi nyilatkozattal és szükség esetén EU-típusvizsgálati tanúsítvánnyal.
 
 (5)
 
@@ -1128,8 +1128,8 @@ kapcsolatban.
 
 - 1. Áttelepítés: munkavédelmi szempontból korábban üzembe helyezésre kötelezett munkaeszköz olyan áthelyezése, amely üzembe helyezési, üzemeltetési körülményei tekintetében lényeges változást okoz.
 - 1/A. Baleset: az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy aránylag rövid idő alatt következik be és sérülést, mérgezést vagy más (testi, lelki) egészségkárosodást, illetőleg halált okoz.
-- 1/B. egyéni védőeszköz EK-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy a védőeszköz a mintának és az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak megfelel.
-- 1/C. egyéni védőeszköz EK típustanúsítvány: megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EK típusvizsgálat alapján megfelel az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak.
+- 1/B.
+- 1/C.
 - 1/D. Foglalkozási megbetegedés: a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
   - a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai, kémiai, biológiai, pszichoszociális és ergonómiai kóroki tényezőkre vezethető vissza, illetve
   - b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye.
