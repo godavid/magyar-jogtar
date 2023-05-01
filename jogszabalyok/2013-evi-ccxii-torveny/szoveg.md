@@ -147,16 +147,22 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (4) Az (1)–(3) bekezdésben foglalt feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
 
-18/C. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti földrajzi árujelzővel ellátott termék előállítása és feldolgozása, az elővásárlási jog gyakorlása során az elővásárlási jog jogosultjának az adásvételi szerződésben vagy az elfogadó nyilatkozatban kötelezettséget kell vállalnia arra, hogy
+18/C. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti oltalom alatt álló földrajzi jelzéssel vagy eredetmegjelöléssel (a továbbiakban együtt: oltalom alatt álló földrajzi árujelzővel) ellátott termék előállítása, az elővásárlásra jogosultnak az elővásárlási jog gyakorlásához szerepelnie kell az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 27. § (3) bekezdése szerinti nyilvántartásban az elővásárlási joggal érintett föld fekvése szerinti földrajzi terület vonatkozásában oltalom alatt álló földrajzi árujelzővel ellátott termék előállítójaként.
 
-- a) az elővásárlási joggal érintett föld teljes területén, a föld birtokbavételét követően, ültetvény esetén annak termőre fordulásától, de legkésőbb a föld birtokbavételétől számított 7 éven belül megkezdve, legalább 10 éven keresztül a földrajzi árujelzővel ellátott terméket fog előállítani és feldolgozni, valamint
-- b) az elővásárlási joggal érintett földterület tulajdonjogának az a) pontban meghatározott 10 éves időtartam alatt történő átruházása esetén a tulajdonjog átruházására azzal a feltétellel kerülhet sor, hogy a tulajdonjogot megszerző személy vállalja az a) pont szerinti kötelezettség teljesítését a 10 éves időtartam hátralévő ideje alatt.
+(2) Az (1) bekezdés szerinti elővásárlási jog gyakorlása során az elővásárlási jog jogosultjának az adásvételi szerződésben vagy az elfogadó nyilatkozatban kötelezettséget kell vállalnia arra, hogy az elővásárlási joggal érintett föld teljes területét az azon fennálló földhasználati jogviszonynak a nyilatkozat megtételének napján hatályos időtartamát követően, de legfeljebb a tulajdonjog megszerzésétől számított 3 éven belül birtokba veszi, továbbá a birtokba lépéstől számított 10 gazdasági évben a birtokba lépést közvetlenül megelőző 5 befejezett gazdasági év számtani átlagához képest legalább az elővásárlási joggal érintett föld területével megegyező területnagysággal nagyobb területen
 
-(2) A Földforgalmi törvény 18. § (2) bekezdés b) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
+- a) a saját maga által előállított, oltalom alatt álló földrajzi árujelzővel ellátott termék alapanyagát, vagy
+- b) oltalom alatt álló földrajzi árujelzővel ellátott terméket
 
-(3) A földet az (1) bekezdésben foglalt elővásárlási jog gyakorlásával megszerző személynek az előállítási és feldolgozási tevékenység megkezdését követő egy éven belül a mezőgazdasági igazgatási szervnél igazolnia kell, hogy az oltalom alatt álló földrajzi árujelzővel ellátott agrártermékek ellenőrzését végző hatóság oltalom alatt álló földrajzi árujelző használatára jogosultként nyilvántartásba vette.
+fog előállítani.
 
-(4) Az (1) bekezdésben foglalt nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
+(3) A Földforgalmi törvény 18. § (2) bekezdés b) pontja alapján tett, az adásvételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adásvételi szerződés megkötését követő legalább 3 évre biztosító földhasználati jogviszony.
+
+(4) A (2) bekezdés a) pontja szerinti alapanyag vagy a (2) bekezdés b) pontja szerinti oltalom alatt álló földrajzi árujelzővel ellátott termék előállítását a föld birtokbavételét követően, ültetvény esetén annak termőre fordulásától, de legkésőbb a föld birtokbavételétől számított 7 éven belül kell megkezdeni.
+
+(5) Az elővásárlási joggal érintett földterület tulajdonjogának a (2) bekezdésben meghatározott 10 éves időtartam alatt történő átruházása esetén a tulajdonjog átruházására azzal a feltétellel kerülhet sor, hogy a tulajdonjogot megszerző személy vállalja a (2) bekezdés szerinti kötelezettség teljesítését a 10 éves időtartam hátralévő ideje alatt.
+
+(6) Az (1) bekezdésben foglaltakat és a (2) bekezdés szerinti nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
 
 19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az elővásárlási joga fennáll, nyilatkozata új ajánlatnak minősül.
 
@@ -490,11 +496,18 @@ kell érteni.
 
 (3) Az (1) és (2) bekezdésben meghatározott feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
 
-55/C. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti földrajzi árujelzővel ellátott termék előállítása és feldolgozása, az előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban kötelezettséget kell vállalnia arra, hogy az előhaszonbérleti joggal érintett föld teljes területén a föld birtokbavételét követően, ültetvény esetén annak termőre fordulásától, de legkésőbb a föld birtokbavételétől számított 7 éven belül megkezdve, a haszonbérlet időtartama alatt a földrajzi árujelzővel ellátott terméket fog előállítani és feldolgozni.
+55/C. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti oltalom alatt álló földrajzi árujelzővel ellátott termék előállítása, az előhaszonbérleti jog jogosultjának az előhaszonbérleti jog gyakorlásához szerepelnie kell az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 27. § (3) bekezdése szerinti nyilvántartásban az előhaszonbérleti joggal érintett föld fekvése szerinti földrajzi terület vonatkozásában oltalom alatt álló földrajzi árujelzővel ellátott termék előállítójaként.
 
-(2) A földet az (1) bekezdésben foglalt előhaszonbérleti jog gyakorlásával megszerző személynek az előállítási és feldolgozási tevékenység megkezdését követő egy éven belül a mezőgazdasági igazgatási szervnél igazolnia kell, hogy az oltalom alatt álló földrajzi árujelzővel ellátott agrártermékek ellenőrzését végző hatóság oltalom alatt álló földrajzi árujelző használatára jogosultként nyilvántartásba vette.
+(2) Az (1) bekezdés szerinti előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartama alatt a haszonbérleti szerződés hatálybalépését közvetlenül megelőző öt befejezett gazdasági év számtani átlagához képest legalább az előhaszonbérleti joggal érintett föld területével megegyező területnagysággal nagyobb területen
 
-(3) Az (1) bekezdésben foglalt nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
+- a) a saját maga által előállított, oltalom alatt álló földrajzi árujelzővel ellátott termék alapanyagát, vagy
+- b) oltalom alatt álló földrajzi árujelzővel ellátott terméket
+
+fog előállítani.
+
+(3) A (2) bekezdés a) pontja szerinti alapanyag vagy a (2) bekezdés b) pontja szerinti oltalom alatt álló földrajzi árujelzővel ellátott termék előállítását a föld birtokbavételét követően, ültetvény esetén annak termőre fordulásától, de legkésőbb a föld birtokbavételétől számított 7 éven belül kell megkezdeni.
+
+(4) Az (1) bekezdésben foglaltakat és a (2) bekezdés szerinti nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
 
 56. § A Földforgalmi törvény 47. § (5) bekezdésében meghatározott esetben az előhaszonbérletre jogosult a haszonbérleti szerződést csak teljes egészében fogadhatja el. E bekezdés alkalmazása során az előhaszonbérletre jogosultak sorrendjére a Földforgalmi törvény 45–47. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő előhaszonbérletre jogosult előhaszonbérleti jogát megalapozó körülmény a haszonbérleti szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az előhaszonbérleti joga fennáll, nyilatkozata új ajánlatnak minősül.
 

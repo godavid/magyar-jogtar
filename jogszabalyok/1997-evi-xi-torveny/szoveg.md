@@ -1711,11 +1711,13 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 102. § Az együttes és a tanúsító védjegyekre, valamint oltalmukra az e részben nem szabályozott kérdésekben a védjegyekre és oltalmukra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a 96. § (1) és (3) bekezdésében, a 97. §-ban, valamint a 101. § (1)–(2) és (4) bekezdésében meghatározott okokra tekintettel is lehet észrevételt tenni.
 
-## HETEDIK RÉSZ — A FÖLDRAJZI ÁRUJELZŐK OLTALMA
+## HETEDIK RÉSZ — AGRÁRTERMÉKNEK NEM MINŐSÜLŐ TERMÉKEK FÖLDRAJZI ÁRUJELZŐINEK OLTALMA
 
 ### XVI. Fejezet — AZ OLTALOM TÁRGYA, TARTALMA, BITORLÁSA ÉS MEGSZŰNÉSE
 
 ### Az oltalomképes földrajzi jelzés és eredetmegjelölés
+
+102/A. § E rész alkalmazásában termék alatt az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 1. § 1. pontjában meghatározott agrártermékek körébe nem tartozó terméket kell érteni.
 
 103. § (1) Földrajzi árujelzőként oltalomban részesülhet a kereskedelmi forgalomban a termék földrajzi származásának feltüntetésére használt földrajzi jelzés és eredetmegjelölés.
 
@@ -1802,7 +1804,7 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 - c) a bejelentett és a lajstromozott földrajzi árujelzők nyilvántartása,
 - d) a földrajzi árujelzők oltalmával kapcsolatos hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az egyes földrajzi árujelzők uniós oltalmára, valamint az eredetmegjelölések és földrajzi jelzések nemzetközi lajstromozására vonatkozó rendelkezések (XVII/A–XVII/B. fejezetek) alkalmazásából eredő ügyek is.
+(2)
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban.
 
@@ -1858,97 +1860,17 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 115. § A földrajzi árujelzők oltalmával kapcsolatos bírósági eljárásban a XI. és XII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-### A szeszes italok földrajzi árujelzőinek ellenőrzése
+#### 116. §
 
-116. § A szeszes italok kereskedelmi forgalmában feltüntetett földrajzi árujelzők használatának a 116/B. § (1) bekezdésében előírt követelmények szempontjából történő ellenőrzése a külön jogszabályban kijelölt szerv hatáskörébe tartozik.
+## NYOLCADIK RÉSZ — AZ EREDETMEGJELÖLÉSEK ÉS FÖLDRAJZI JELZÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK
 
-## NYOLCADIK RÉSZ — EGYES FÖLDRAJZI ÁRUJELZŐK UNIÓS OLTALMÁRA, VALAMINT AZ EREDETMEGJELÖLÉSEK ÉS FÖLDRAJZI JELZÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK
+### XVII/A. Fejezet
 
-### XVII/A. Fejezet — A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK, A BORÁSZATI TERMÉKEK, AZ ÍZESÍTETT BORÁSZATI TERMÉKEK, VALAMINT A SZESZES ITALOK FÖLDRAJZI ÁRUJELZŐINEK UNIÓS OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
+#### 116/A. §
 
-116/A. § (1) A mezőgazdasági termékek és az élelmiszerek földrajzi árujelzőinek uniós oltalmára az 1151/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1151/2012/EU rendelet) rendelkezéseit kell alkalmazni.
+#### 116/B. §
 
-(2) A borászati termékek földrajzi árujelzőinek uniós oltalmára az 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) rendelkezéseit, az ízesített borászati termékek földrajzi árujelzőinek oltalmára a 251/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 251/2014/EU rendelet) rendelkezéseit kell alkalmazni.
-
-(3) A szeszes italok földrajzi jelzéseinek uniós oltalmára az (EU) 2019/787 európai parlamenti és tanácsi rendelet (a továbbiakban: (EU) 2019/787 rendelet) III. fejezetének rendelkezéseit kell alkalmazni.
-
-(4) Az 1151/2012/EU rendelet, az 1308/2013/EU rendelet, a 251/2014/EU rendelet, továbbá az (EU) 2019/787 rendelet alapján a tagállami hatáskörbe tartozó ügyekben az agrárpolitikáért felelős miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
-
-(5) Az 1151/2012/EU rendelet 49. cikke szerinti, az 1308/2013/EU rendelet 94. cikk (1) bekezdése szerinti, a 251/2014/EU rendelet 10. cikk (1) bekezdése szerinti, valamint az (EU) 2019/787 rendelet 24. cikke szerinti kérelmet (e § alkalmazásában a továbbiakban együtt: kérelem) az agrárpolitikáért felelős miniszterhez kell benyújtani. Az agrárpolitikáért felelős miniszter a benyújtást követően haladéktalanul továbbítja a Szellemi Tulajdon Nemzeti Hivatalának a jogszabályban meghatározott feltételeknek megfelelő kérelmet.
-
-(6) A határokon átnyúló földrajzi területet jelölő, szeszes ital földrajzi árujelzőjének bejegyzésére vonatkozó közös kérelem benyújtását megelőzően az agrárpolitikáért felelős miniszter az (EU) 2019/787 rendelet 24. cikk (4) bekezdésében foglaltak szerint konzultációt folytat.
-
-(7) A Szellemi Tulajdon Nemzeti Hivatala a kérelmet soron kívül megvizsgálja, hogy az kielégíti-e a következőket:
-
-- a) a mezőgazdasági termékek és az élelmiszerek esetében az 1151/2012/EU rendelet 5. és 6. cikkében előírt követelmények,
-- b) a borászati termékek esetében az 1308/2013/EU rendelet 93., 100. és 101. cikkében előírt követelmények,
-- c) az ízesített borászati termékek esetében a 251/2014/EU rendelet 2., 17. és 18. cikkében előírt követelmények, és
-- d) a szeszes italok esetében az (EU) 2019/787 rendelet 3., 34. és 35. cikkében előírt követelmények.
-
-(8) A Szellemi Tulajdon Nemzeti Hivatala által végzett vizsgálat nem terjed ki arra, hogy fennáll-e
-
-- a) az 1151/2012/EU rendelet 5. cikk (1) és (2) bekezdése értelmében a mezőgazdasági termék vagy az élelmiszer és a földrajzi elnevezés közötti kapcsolat,
-- b) az 1308/2013/EU rendelet 93. cikk (1) bekezdése értelmében a borászati termék és a földrajzi elnevezés közötti kapcsolat,
-- c) a 251/2014/EU rendelet 2. cikk 3. pontja értelmében az ízesített borászati termék és a földrajzi elnevezés közötti kapcsolat, és
-- d) az (EU) 2019/787 rendelet 3. cikk 4. pontja értelmében a szeszes ital és a földrajzi elnevezés közötti kapcsolat.
-
-(9) A Szellemi Tulajdon Nemzeti Hivatala a kérelem beérkezésétől számított két hónapon belül nyilatkozik az agrárpolitikáért felelős miniszternek arról, hogy a (7) bekezdés szerint vizsgált követelmények alapján egyetért-e a kérelemnek az Európai Bizottsághoz történő, (11) bekezdés szerinti továbbításával.
-
-(10) Az agrárpolitikáért felelős miniszter a Szellemi Tulajdon Nemzeti Hivatalának a (9) bekezdés szerinti nyilatkozatát és a kérelem jogszabály szerint lefolytatott részletes vizsgálatát követően a kérelmet közzéteszi az általa vezetett minisztérium hivatalos lapjában. A kérelemmel szemben a közzétételtől számított két hónapon belül felszólalást lehet benyújtani az 1151/2012/EU rendelet 49. cikk (3) bekezdésében és az (EU) 2019/787 rendelet 24. cikk (6) és (7) bekezdésében foglaltaknak megfelelően, továbbá kifogást lehet benyújtani az 1308/2013/EU rendelet 96. cikk (3) bekezdésében, illetve a 251/2014/EU rendelet 13. cikk (3) bekezdésében foglaltaknak megfelelően. A felszólalást, illetve a kifogást az agrárpolitikáért felelős miniszter – iparjogvédelmi kérdésekben a Szellemi Tulajdon Nemzeti Hivatala egyetértésével – a (11) bekezdés szerinti határozatában bírálja el.
-
-(11) Az agrárpolitikáért felelős miniszter a Szellemi Tulajdon Nemzeti Hivatala nyilatkozatával összhangban és a jogszabály alapján lefolytatott részletes vizsgálatát követően, a kérelem benyújtásától számított kilenc hónapon belül határoz arról, hogy a kérelem megfelel-e az e törvényben, valamint jogszabályban meghatározott feltételeknek. Az agrárpolitikáért felelős miniszter a határozatot a termékleírással együtt közzéteszi az általa vezetett minisztérium hivatalos lapjában. A kérelemnek helyt adó határozat jogerőre emelkedése esetén az agrárpolitikáért felelős miniszter továbbítja az Európai Bizottsághoz az 1151/2012/EU rendelet 8. cikk (2) bekezdésében, az 1308/2013/EU rendelet 96. cikk (5) bekezdésében, a 251/2014/EU rendelet 13. cikk (5) bekezdés b) pontjában, valamint az (EU) 2019/787 rendelet 23. cikk (2) bekezdésében és 24. cikk (7) bekezdésében meghatározott adatokat, illetve iratokat.
-
-(12) A kérelemnek helyt adó, (11) bekezdés szerinti határozat meghozatalával – az 1151/2012/EU rendelet 9. cikk első albekezdésében, az (EU) 2019/33 bizottsági rendelet 8. cikk (1) bekezdésében, a 251/2014/EU rendelet 13. cikk (7) bekezdésében, továbbá az (EU) 2019/787 rendelet 25. cikkében szabályozott – átmeneti oltalom keletkezik a kérelemnek az Európai Bizottsághoz történő benyújtásának napjától kezdődő hatállyal. Az átmeneti oltalom keletkezésének napjáról az agrárpolitikáért felelős miniszter értesíti a kérelmezőt. Bitorlás miatt az a kérelmező is felléphet, akinek földrajzi árujelzője átmeneti oltalomban részesül, de az eljárást fel kell függeszteni mindaddig, amíg a kérelemről az Európai Bizottság jogerősen nem döntött.
-
-(13) Az (1)–(12) bekezdés rendelkezéseit kell alkalmazni
-
-- a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet 53. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint az 54. cikke alapján benyújtott törlési kérelmek tekintetében,
-- b) borászati termékek esetében az 1308/2013/EU rendelet 105. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint a 106. cikke alapján benyújtott törlési kérelmek tekintetében,
-- c) ízesített borászati termékek esetében a 251/2014/EU rendelet 24. cikke alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint a 25. cikke alapján benyújtott törlési kérelmek tekintetében, és
-- d) szeszes italok esetében az (EU) 2019/787 rendelet 31. cikk (3) bekezdés a)–d) pontja alapján a termékleírás módosítása iránt benyújtott kérelmek, valamint a 32. cikke alapján benyújtott törlési kérelmek tekintetében
-
-azzal az eltéréssel, hogy a termékleírás módosítása iránt benyújtott, az oltalom alatt álló földrajzi árujelző elnevezését nem érintő kérelmek, valamint a törlési kérelmek esetében nem szükséges a Szellemi Tulajdon Nemzeti Hivatala nyilatkozatának beszerzése.
-
-(14) Az 1151/2012/EU rendelet 50. cikk (2) bekezdés a) pontja, az (EU) 2019/787 rendelet 26. cikk (2) bekezdése, az 1308/2013/EU rendelet 97. cikk (3) bekezdése, valamint a 251/2014/EU rendelet 14. cikk (3) bekezdése szerinti adatnak, illetve iratnak az Európai Unió Hivatalos Lapjában történő közzétételétől számítva az 1151/2012/EU rendelet 51. cikk (1) bekezdés második albekezdése és az (EU) 2019/787 rendelet 27. cikk (1) bekezdés második albekezdése szerinti felszólalást három hónapon belül, az 1308/2013/EU rendelet 98. cikk első bekezdése, illetve a 251/2014/EU rendelet 15. cikk első bekezdése szerinti kifogást két hónapon belül kell benyújtani az agrárpolitikáért felelős miniszterhez. A felszólalással és kifogással kapcsolatos tagállami feladatokat az agrárpolitikáért felelős miniszter – iparjogvédelmi kérdésekben a Szellemi Tulajdon Nemzeti Hivatala egyetértésével – látja el.
-
-(15) A 27–28. § és a XII. fejezet rendelkezéseit kell alkalmazni
-
-- a) a mezőgazdasági termékek és az élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek uniós oltalmát, illetve a (12) bekezdésben szabályozott átmeneti oltalmát sértő, az 1151/2012/EU rendelet 13. cikk (1) bekezdésében,
-- b) a borászati termékek földrajzi jelzéseinek és eredetmegjelöléseinek uniós oltalmát sértő, az 1308/2013/EU rendelet 103. cikk (2) bekezdésében,
-- c) az ízesített borászati termékek földrajzi jelzéseinek uniós oltalmát, illetve a (12) bekezdésben szabályozott átmeneti oltalmát sértő, a 251/2014/EU rendelet 20. cikk (2) bekezdésében, és
-- d) a szeszes italok földrajzi jelzéseinek uniós oltalmát, illetve a (12) bekezdésben szabályozott átmeneti oltalmát sértő, az (EU) 2019/787 rendelet 21. cikk (2) bekezdésében
-
-meghatározott magatartás megvalósítása esetén.
-
-116/B. § (1) Szeszes italok esetén a termékleírásnak az (EU) 2019/787 rendelet 31. cikk (2) bekezdés b) pontja szerinti standard módosítására irányuló eljárás szabályait kormányrendelet állapítja meg.
-
-(2) A borászati termékek esetén a termékleírásnak az (EU) 2019/33 bizottsági rendelet 17. és 18. cikke, továbbá az (EU) 2019/34 bizottsági rendelet 10. és 11. cikke szerinti standard, valamint átmeneti módosítására irányuló eljárások szabályait kormányrendelet állapítja meg.
-
-116/C. § (1) A 116/A. §-ban és a 116/B. §-ban nem szabályozott kérdésekben jogszabály rendelkezéseit kell alkalmazni. E jogszabály előírhatja, hogy a termékleírásnak való megfelelés ellenőrzését a következő szervezetek is végezhetik:
-
-- a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet 37. cikk (1) bekezdésében említett terméktanúsító szervezetek;
-- b) szeszes italok esetében az (EU) 2019/787 rendelet 38. cikk (2) bekezdésében említett terméktanúsító szervezetek;
-- c) borászati termékek esetében az 1308/2013/EU rendelet 94. cikk (2) bekezdés i) pontjában említett ellenőrző szervezetek; illetve
-- d) ízesített borászati termékek esetében a 251/2014/EU rendelet 23. cikk (1) bekezdésében említett terméktanúsító szervezetek.
-
-(2) Az (1) bekezdés szerinti jogszabály
-
-- a) feltételhez kötheti a földrajziárujelző-oltalomban részesülő mezőgazdasági termékek és élelmiszerek, szeszes italok, borászati termékek, valamint ízesített borászati termékek előállítását, illetve forgalomba hozatalát, valamint
-- b) megtilthatja a földrajzi árujelző használatát.
-
-(3) Ha az előállító nem teljesíti a (2) bekezdés a) pontja szerinti feltételt vagy nem felel meg a (2) bekezdés b) pontja szerinti tilalomnak, és a termékleírásnak nem megfelelő terméken továbbra is használja a földrajzi árujelzőt, – jogszabályban meghatározott mértékű – bírságot köteles fizetni.
-
-(4) A hazai termékek oltalom alatt álló földrajzi árujelzőiről az agrárpolitikáért felelős miniszter nyilvántartást vezet, amelyet az általa vezetett minisztérium honlapján tesz közzé.
-
-(5) A (4) bekezdés szerinti nyilvántartás tartalmazza
-
-- a) az oltalom alatt álló földrajzi árujelzőt,
-- b) a 116/A. § (12) bekezdése szerinti átmeneti oltalom keletkezésének napját,
-- c) az oltalom alatt álló földrajzi árujelző összefoglaló lapja, illetve egységes dokumentuma vagy termékleírása közzétételének napját,
-- d) az elnevezés uniós nyilvántartásba való bejegyzésének napját, valamint
-- e) a c) és a d) pont esetében az Európai Unió Hivatalos Lapjára történő utalást.
-
-(6) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés b) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+#### 116/C. §
 
 ### XVII/B. Fejezet — AZ EREDETMEGJELÖLÉSEK ÉS FÖLDRAJZI JELZÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ SZABÁLYOK
 
@@ -2039,7 +1961,7 @@ meghatározott magatartás megvalósítása esetén.
 
 116/L. § (1) A 116/E. § (1) bekezdésében említett rendeletek hatálya alá tartozó termékekre vonatkozó, az uniós jog alapján oltalomban részesülő eredetmegjelölés vagy földrajzi jelzés genfi szöveg szerinti nemzetközi lajstromozása tekintetében az (EU) 2019/1753 rendelet rendelkezéseit kell alkalmazni.
 
-(2) Az (EU) 2019/1753 rendelet alapján tagállami hatáskörbe tartozó ügyekben az agrárpolitikáért felelős miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
+(2) Az (EU) 2019/1753 rendelet alapján tagállami hatáskörbe tartozó ügyekben az agrárpolitikáért felelős miniszter jár el.
 
 (3) A 116/E. § (1) bekezdésében említett rendeletek hatálya alá tartozó termékekre vonatkozó, az uniós jog alapján oltalomban részesülő eredetmegjelölés vagy földrajzi jelzés tekintetében annak jogosultja, vagy a genfi szöveg 5. cikk (2) bekezdés ii) alpontja szerinti természetes vagy jogi személy kérelmezheti az Európai Bizottságnál a genfi szöveg szerinti nemzetközi bejelentést.
 
@@ -2047,19 +1969,19 @@ meghatározott magatartás megvalósítása esetén.
 
 (5) A genfi szöveg szerinti nemzetközi bejelentést a Szellemi Tulajdon Világszervezetének (WIPO) hivatalos nyelvén – angolul, franciául vagy spanyolul – kell elkészíteni, amelyben fel kell tüntetni a Közös Végrehajtási Szabályzat 5. szabály (2) bekezdésében meghatározott adatokat.
 
-(6) Az agrárpolitikáért felelős miniszter a benyújtást követően haladéktalanul továbbítja a genfi szöveg szerinti nemzetközi bejelentést a Szellemi Tulajdon Nemzeti Hivatalához.
+(6)
 
-(7) A Szellemi Tulajdon Nemzeti Hivatala a genfi szöveg szerinti nemzetközi bejelentést soron kívül megvizsgálja, hogy az kielégíti-e a Közös Végrehajtási Szabályzat 5. szabály (2) bekezdése és az Európai Bizottság által alkalmazott kérelemnyomtatvány szerinti követelményeket.
+(7)
 
-(8) A Szellemi Tulajdon Nemzeti Hivatala a genfi szöveg szerinti nemzetközi bejelentés beérkezésétől számított két hónapon belül nyilatkozik arról, hogy a (7) bekezdés szerint vizsgált követelmények alapján egyetért-e a bejelentésnek az Európai Bizottsághoz történő, (9) bekezdés szerinti megküldésével.
+(8)
 
-(9) Az agrárpolitikáért felelős miniszter a Szellemi Tulajdon Nemzeti Hivatala nyilatkozatával összhangban a genfi szöveg szerinti nemzetközi bejelentés beérkezésétől számított 9 hónapon belül határoz arról, hogy a bejelentés megfelel-e az e törvényben, valamint az (EU) 2019/1753 rendeletben meghatározott feltételeknek. A helyt adó határozat jogerőre emelkedése esetén az agrárpolitikáért felelős miniszter a genfi szöveg szerinti nemzetközi bejelentést megküldi az Európai Bizottság részére.
+(9) Az agrárpolitikáért felelős miniszter a genfi szöveg szerinti nemzetközi bejelentés beérkezésétől számított 3 hónapon belül határoz arról, hogy a bejelentés megfelel-e az e törvényben, valamint az (EU) 2019/1753 rendeletben meghatározott feltételeknek. A helyt adó határozat jogerőre emelkedése esetén az agrárpolitikáért felelős miniszter a genfi szöveg szerinti nemzetközi bejelentést megküldi az Európai Bizottság részére.
 
-(10) A genfi szöveg szerinti nemzetközi bejelentéssel kapcsolatban a Nemzetközi Irodához a genfi szöveg által meghatározott nemzetközi díjat kell közvetlenül, a genfi szövegben előírt határidőn belül és az ott megszabott módon fizetni.
+(10) A genfi szöveg szerinti nemzetközi bejelentéssel kapcsolatban a bejelentést kérelmező a Nemzetközi Irodához a genfi szöveg által meghatározott nemzetközi díjat közvetlenül, a genfi szövegben előírt határidőn belül és az ott megszabott módon fizeti be.
 
 (11) Az eredetmegjelölés vagy földrajzi jelzés genfi szöveg szerinti nemzetközi oltalma megszűnik, ha az alapjául szolgáló eredetmegjelölés vagy földrajzi jelzés oltalma megszűnt.
 
-(12) Az (EU) 2019/1753 rendelet 3. cikke szerinti törlési, valamint 6. cikke szerinti felszólalási eljárásokra az (1)–(10) bekezdést kell alkalmazni.
+(12) Az (EU) 2019/1753 rendelet 3. cikke szerinti törlési, valamint 6. cikke szerinti felszólalási eljárásokra az (1)–(5), (9) és (10) bekezdést kell alkalmazni.
 
 ## KILENCEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -2116,9 +2038,7 @@ meghatározott magatartás megvalósítása esetén.
 
 (5) E törvénynek a 2018. évi LXVII. törvénnyel megállapított 65. § (3)–(5) bekezdését azokra a védjegyekre kell alkalmazni, amelyeknek az oltalma a 2019. június 30-át követően jár le. A korábban lejáró védjegyoltalom tekintetében a 65. § (3)–(4) bekezdésének a 2018. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-120/C. § (1) A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosításáról szóló 2021. évi XXXVI. törvény hatálybalépését követően szeszes italok földrajzi jelzései tekintetében kizárólag uniós oltalom igényelhető. A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosításáról szóló 2021. évi XXXVI. törvény hatálybalépését követően szeszes italok földrajzi jelzéseinek uniós oltalmára irányuló bejelentések alapján a 116/A. § (12) bekezdése szerinti átmeneti oltalom keletkezik.
-
-(2) A szeszes italra vonatkozó földrajzi árujelző uniós oltalmára irányuló bejelentéssel szembeni felszólalással kapcsolatos eljárásra vonatkozó szabályok a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosításáról szóló 2021. évi XXXVI. törvény hatálybalépésétől alkalmazandók.
+#### 120/C. §
 
 120/D. § (1) A Lisszaboni Megállapodás alapján lajstromozott, Magyarországról származó nemzetközi eredetmegjelölések esetében, amelyek mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet, borászati termékek esetében az 1308/2013/EU rendelet, az ízesített borászati termékek esetében a 251/2014/EU rendelet, szeszes italok esetében az (EU) 2019/787 rendelet alapján uniós oltalomban is részesülnek, az agrárpolitikáért felelős miniszter saját kezdeményezésére vagy az eredetmegjelölés jogosultja, továbbá a genfi szöveg 5. cikk (2) bekezdés ii) alpontjában említett természetes vagy jogi személy kérelmére 2022. november 14. napjáig kérheti
 
@@ -2140,10 +2060,7 @@ meghatározott magatartás megvalósítása esetén.
 
 ### Felhatalmazások
 
-121. § (1) Felhatalmazást kap a Kormány, hogy
-
-- a) szeszes italok esetén a termékleírásnak az (EU) 2019/787 rendelet 31. cikk (2) bekezdés b) pontja szerinti standard módosítására irányuló eljárás szabályait, valamint borászati termékek esetén a termékleírásnak az (EU) 2019/33 bizottsági rendelet 17. és 18. cikke, továbbá az (EU) 2019/34 bizottsági rendelet 10. és 11. cikke szerinti standard, valamint átmeneti módosítására irányuló eljárások szabályait rendelettel állapítsa meg,
-- b) a mezőgazdasági termékek és az élelmiszerek, a szeszes italok, a szőlészeti és borászati termékek, valamint az ízesített borászati termékek földrajzi árujelzőinek oltalmára irányuló eljárásra, a termékek ellenőrzésére és az azzal kapcsolatban felmerülő eljárási költségekre, az ellenőrzés során kiszabható bírság mértékére, valamint az (EU) 2019/787 rendelet 37. cikke értelmében oltalomban részesülő szeszes italok, az 1308/2013/EU rendelet 107. cikke értelmében oltalomban részesülő borászati termékek, illetve a 251/2014/EU rendelet 26. cikke értelmében oltalomban részesülő ízesített borászati termékek esetében a termékleírás benyújtására, valamint az érintett forgalombahozatali, előállítási feltételek körére, továbbá a földrajzi árujelző használatának tilalmi körére vonatkozó részletes szabályokat rendelettel megállapítsa, és az ellenőrző hatóságot vagy hatóságokat kijelölje.
+121. § (1)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a védjegybejelentés és a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályait rendelettel megállapítsa.
 
@@ -2159,13 +2076,13 @@ való megfelelést szolgálja.
 (2) Ez a törvény
 
 - a) az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendeletnek;
-- b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i (EU) 1151/2012 európai parlamenti és tanácsi rendeletnek;
-- c) az 1151/2012/EU európai parlamenti és tanácsi rendeletnek az oltalom alatt álló eredetmegjelölések, az oltalom alatt álló földrajzi jelzések és a hagyományos különleges termékek uniós szimbólumainak létrehozása tekintetében, valamint a származásra vonatkozó bizonyos szabályok, bizonyos eljárási szabályok és bizonyos kiegészítő átmeneti szabályok tekintetében történő kiegészítéséről szóló, 2013. december 18-i (EU) 664/2014 felhatalmazáson alapuló bizottsági rendeletnek;
-- d) a szeszes italok meghatározásáról, leírásáról, megjelenítéséről, jelöléséről, a szeszes italok elnevezésének használatáról az egyéb élelmiszerek megjelenítése és jelölése során, a szeszes italok földrajzi jelzéseinek oltalmáról, a mezőgazdasági eredetű etil-alkohol és desztillátumok használatáról az alkoholtartalmú italokban, valamint a 110/2008/EK rendelet hatályon kívül helyezéséről szóló 2019. április 17-i (EU) 2019/787 európai parlamenti és tanácsi rendelet III. fejezetének;
-- e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i (EU) 1308/2013 európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakaszának;
-- f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i (EU) 251/2014 európai parlamenti és tanácsi rendelet III. fejezetének
+- b)
+- c)
+- d)
+- e)
+- f)
 - g) az Uniónak a Lisszaboni Megállapodás eredetmegjelölésekről és földrajzi jelzésekről szóló genfi szövegéhez történő csatlakozását követő fellépéséről szóló, 2019. október 23-i (EU) 2019/1753 európai parlamenti és tanácsi rendeletnek;
-- h) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati eredetmegjelölésekre, földrajzi jelzésekre és hagyományos kifejezésekre vonatkozó oltalom iránti kérelmek, a kifogásolási eljárás, a használatra vonatkozó korlátozások, a termékleírások módosítása, az oltalom törlése, valamint a címkézés és a kiszerelés tekintetében történő kiegészítéséről szóló, 2018. október 17-i (EU) 2019/33 felhatalmazáson alapuló bizottsági rendeletnek;
-- i) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati eredetmegjelölések, földrajzi jelzések és hagyományos kifejezések oltalma iránti kérelmek, a kifogásolási eljárás, a termékleírások módosításai, az oltalom alatt álló elnevezések nyilvántartása, az oltalom törlése és a szimbólumok használata tekintetében, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a megfelelő ellenőrzési rendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2018. október 17-i (EU) 2019/34 felhatalmazáson alapuló bizottsági rendeletnek
+- h)
+- i)
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -195,7 +195,7 @@ tekintetében.
 
 (3) Település és dűlő neve kizárólag oltalom alatt álló eredetmegjelöléssel együtt tüntethető fel a címkén.
 
-12. § Az 1308/2013/EU európai parlamenti és tanácsi rendelet 112. cikk b) pontjában meghatározott hagyományos kifejezés oltalma, az oltalom alatt álló hagyományos kifejezés módosítása és a hagyományos kifejezés oltalmának törlése iránti eljárásban az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) 120 napon belül határoz arról, hogy a kérelem megfelel-e az e törvény végrehajtására kiadott kormányrendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott feltételeknek.
+#### 12. §
 
 #### 6. A földrajzi árujelzőt kezelő hegyközségi szervezet jogosultságai
 
@@ -459,24 +459,24 @@ esetén.
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
