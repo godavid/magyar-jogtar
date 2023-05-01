@@ -1794,7 +1794,7 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
   - bb) a közétkeztetési szolgáltatás hatósági ellenőrzésére,
   - bc) az élelmiszer eredetű megbetegedések esetén követendő hatósági eljárásra,
   - bd) az élelmiszerekkel kapcsolatos tápanyag-összetétel és egészségre vonatkozó állítások bejelentésére, módosítására, továbbá a tápértékjelölés esetén követendő hatósági eljárásra
-  - be) a mezőgazdasági termékek és élelmiszerek hagyományos különleges termék elnevezésének bejegyzési, törlési, termékleírás módosítási eljárására, valamint az ilyen elnevezéssel ellátott termékek ellenőrzésére és az ellenőrzés alapján hozható intézkedésekre;
+  - be)
 
 vonatkozó előírásokat;
 
