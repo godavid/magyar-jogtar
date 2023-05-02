@@ -395,42 +395,18 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 20. Módosító és hatályon kívül helyező rendelkezések
 
-35. § A Vt. HETEDIK RÉSZ címe helyébe a következő rendelkezés lép:
+#### 35. §
 
-## „HETEDIK RÉSZ — AGRÁRTERMÉKNEK NEM MINŐSÜLŐ TERMÉKEK FÖLDRAJZI ÁRUJELZŐINEK OLTALMA”
+#### 36. §
 
-36. § A Vt. „Az oltalomképes földrajzi jelzés és eredetmegjelölés” alcíme a következő 102/A. §-sal egészül ki:
+#### 37. §
 
-„102/A. § E rész alkalmazásában termék alatt az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 1. § 1. pontjában meghatározott agrártermékek körébe nem tartozó terméket kell érteni.”
+#### 38. §
 
-37. § A Vt. NYOLCADIK RÉSZ címe helyébe a következő rendelkezés lép:
+#### 39. §
 
-## „NYOLCADIK RÉSZ — AZ EREDETMEGJELÖLÉSEK ÉS FÖLDRAJZI JELZÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK”
+#### 40. §
 
-38. § A Vt. 116/L. § (10) bekezdése helyébe a következő rendelkezés lép:
+#### 41. §
 
-„(10) A genfi szöveg szerinti nemzetközi bejelentéssel kapcsolatban a bejelentést kérelmező a Nemzetközi Irodához a genfi szöveg által meghatározott nemzetközi díjat közvetlenül, a genfi szövegben előírt határidőn belül és az ott megszabott módon fizeti be.”
-
-39. § A Vt. 116/L. §
-
-- a) (9) bekezdésében a „9 hónapon” szövegrész helyébe a „3 hónapon” szöveg
-- b) (12) bekezdésében az „az (1)–(10)” szövegrész helyébe az „az (1)–(5), (9) és (10)” szöveg
-
-lép.
-
-40. § Hatályát veszti a Vt.
-
-- a) 112. § (2) bekezdése,
-- b) „A szeszes italok földrajzi árujelzőinek ellenőrzése” alcíme,
-- c) XVII/A. Fejezete,
-- d) 116/L. § (2) bekezdésében az „és a Szellemi Tulajdon Nemzeti Hivatala” szövegrész,
-- e) 116/L. § (6)–(8) bekezdése,
-- f) 116/L. § (9) bekezdésében a „Szellemi Tulajdon Nemzeti Hivatala nyilatkozatával összhangban a” szövegrész,
-- g) 120/C. §-a,
-- h) 121. § (1) bekezdése,
-- i) 122. § (2) bekezdés b)–f) pontja,
-- j) 122. § (2) bekezdés h) és i) pontja.
-
-41. § Hatályát veszti az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (1) bekezdés b) pont be) alpontja.
-
-42. § Hatályát veszti a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 12. §-a.
+#### 42. §
