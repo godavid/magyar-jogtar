@@ -201,7 +201,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 25/A. § A miniszterelnök havi illetményének összege megegyezik az Országgyűlés elnöke – az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti – tiszteletdíjának összegével.
 
-#### 25/B. §
+25/B. § A miniszterelnök havi illetményének összegét a 25/A. § alapján minden év július 1-napjával meg kell állapítani, amire a miniszterelnök a következő év június 30. napjáig jogosult.
 
 #### 25/C. §
 
@@ -301,7 +301,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 51. § Az államtitkár a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
-#### 52. §
+52. § A miniszterelnök a 31. § (1) és (2) bekezdése szerinti díjazás, valamint a 39. §, a 40. § és az 51. § szerint illetmény összegét minden év július 1. napjával állapítja meg. Az így megállapított díjazásra vagy illetményre az érintett – a díjazásra, illetve illetményre jogosultság egyéb feltételeinek fennállása esetén és a miniszterelnök eltérő rendelkezése hiányában – a következő év június 30. napjáig jogosult.
 
 #### 53. §
 
@@ -421,4 +421,4 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (4) Ahol jogszabály miniszteri vagy államtitkári illetményt, illetve annak hányadát vagy szorzatát állapítja meg illetményként vagy díjazásként valamely tisztségviselő számára, jogszabály eltérő rendelkezése hiányában e törvénynek a Módtv. hatálybalépését megelőző napon hatályos szabályait kell alkalmazni az illetmény vagy a díjazás összegének megállapítása során.
 
-#### 92. §
+92. § E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel megállapított 25/B. §-a és 52. §-a alapján az illetményt és a díjazást első alkalommal 2024. július 1. napjával kell megállapítani.
