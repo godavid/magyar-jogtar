@@ -3710,7 +3710,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 
-(3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vagy miniszterelnök politikai igazgatója vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira és a START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság igazgatóságának vagy felügyelőbizottságának tagjaira nem kell alkalmazni.
+(3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár és a miniszterelnök politikai igazgatója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
 (3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni, azzal hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
@@ -4099,23 +4099,27 @@ kapcsolatos rendelkezéseit nem kell alkalmazni.
 
 #### 208. § [A főispán összeférhetetlensége]
 
-(1) A főispán további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+(1) A főispán további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, európai parlamenti képviselő, helyi önkormányzati képviselő, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a főispán – a munkáltatói jogkör gyakorlójának engedélye nélkül – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet végezzen és nevelőszülői foglalkoztatási jogviszonyt létesítsen.
 
-#### 209. § [A főispán megbízatásának megszűnése]
+#### 209. § [A főispán megbízatásának megszűnése és megszüntetése]
 
 (1) A főispán megbízatása megszűnik:
 
 - a) a miniszterelnök megbízatásának megszűnésével,
-- b) lemondásával,
-- c) felmentésével,
-- d) halálával,
-- e) ha az országgyűlési képviselők választásán már nem választható,
-- f) összeférhetetlenségének megállapításával,
-- g) közös megegyezéssel.
+- b) a főispán halálával,
+- c) ha a főispán az országgyűlési képviselők választásán már nem választható,
+- d) a főispán összeférhetetlenségének megállapításával,
+- e) a főispán álláshelyének elvonásával, visszavonásával vagy megszüntetésével.
 
-(2) Ha a főispán megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
+(2) A főispán megbízatása megszüntethető:
+
+- a) a főispán lemondásával,
+- b) a főispán felmentésével,
+- c) a felek közös megegyezésével.
+
+(3) Ha a főispán megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
 
 #### 210. § [A főispán illetménye és juttatásai]
 
@@ -4155,7 +4159,7 @@ kapcsolatos rendelkezéseit nem kell alkalmazni.
 
 #### 213. § [A főispán vagyonnyilatkozata]
 
-(1) A főispán a megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését követő harminc napon belül az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) szerinti vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek Vnytv. szerinti vagyonnyilatkozatát.
+(1) A főispán a megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését, illetve a hatáskörgyakorlás 209. § (3) bekezdése szerinti megszűnését követő harminc napon belül az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) szerinti vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek Vnytv. szerinti vagyonnyilatkozatát.
 
 (2) A vagyonnyilatkozatot a kormányhivatal irányítására kormányrendeletben kijelölt miniszter kezeli.
 
@@ -4357,7 +4361,9 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 #### 230. § [A közigazgatási államtitkár illetménye]
 
-A közigazgatási államtitkár a miniszterelnök által megállapított mértékű illetményre jogosult. A közigazgatási államtitkár illetménye eltérhet az 1. mellékletben meghatározott illetménysáv felső határától.
+(1) A közigazgatási államtitkár a miniszterelnök által megállapított mértékű illetményre jogosult. A közigazgatási államtitkár illetménye eltérhet az 1. mellékletben meghatározott illetménysáv felső határától.
+
+(2) A miniszterelnök az (1) bekezdés szerint illetmény összegét minden év július 1. napjával állapítja meg. Az így megállapított illetményre – az illetményre jogosultság egyéb feltételeinek fennállása esetén és a miniszterelnök eltérő rendelkezése hiányában – a közigazgatási államtitkár a következő év június 30. napjáig jogosult.
 
 #### 231. § [A közigazgatási államtitkár jogviszonyának megszűnése és megszüntetése]
 
@@ -4583,7 +4589,7 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 (1) A hivatalvezetőt a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
-(2) Hivatalvezetőnek az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal vagy felsőfokú végzettséggel és közigazgatási szervnél vezetői munkakörben vagy vezetői álláshelyen eltöltött legalább három év gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a vármegyei közgyűlési elnöki és a polgármesteri tisztség ellátása is.
+(2) Hivatalvezetőnek az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal vagy felsőfokú végzettséggel és közigazgatási szervnél vezetői munkakörben vagy vezetői álláshelyen eltöltött legalább három év gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a vármegyei közgyűlési elnöki és a polgármesteri tisztség ellátása is. A főispán kérelmére a kormányhivatal irányítására kormányrendeletben kijelölt miniszter a közigazgatási gyakorlat, illetve a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.
 
 (3) A hivatalvezető a kinevezésében megjelölt időpontban lép hivatalba. A kinevezett hivatalvezető a kormányhivatal irányítására kormányrendeletben kijelölt miniszter előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
@@ -4599,16 +4605,20 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 (2) Ha a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a főispán erre irányuló javaslatáról a kormányhivatal irányítására kormányrendeletben kijelölt miniszter dönt. A főispán javaslatában tájékoztatja a kormányhivatal irányítására kormányrendeletben kijelölt minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.
 
-#### 258. § [A hivatalvezető kormányzati szolgálati jogviszonyának megszűnése]
+#### 258. § [A hivatalvezető kormányzati szolgálati jogviszonyának megszűnése és megszüntetése]
 
-A hivatalvezető kormányzati szolgálati jogviszonya megszűnik:
+(1) A hivatalvezető kormányzati szolgálati jogviszonya megszűnik:
 
-- a) lemondásával,
-- b) felmentésével,
-- c) halálával,
-- d) ha az országgyűlési képviselők választásán már nem választható,
-- e) összeférhetetlenségének megállapításával,
-- f) álláshelyének a központosított álláshelyállományba kerülésével.
+- a) a hivatalvezető halálával,
+- b) ha a hivatalvezető az országgyűlési képviselők választásán már nem választható,
+- c) a hivatalvezető összeférhetetlenségének megállapításával,
+- d) a hivatalvezető álláshelyének elvonásával, visszavonásával vagy megszüntetésével.
+
+(2) A hivatalvezető kormányzati szolgálati jogviszonya megszüntethető:
+
+- a) a hivatalvezető lemondásával,
+- b) a hivatalvezető felmentésével,
+- c) a felek közös megegyezésével.
 
 #### 259. § [A hivatalvezető illetménye]
 
@@ -4909,7 +4919,7 @@ illetménynek megfelelő összeg.
 
 - 1. az e törvény hatálya alá tartozó munkavégzésre irányuló jogviszonyokkal kapcsolatos munkáltatói jogkör gyakorlásának szabályait;
 - 2. az álláshellyel kapcsolatosan a munkáltatói jogkör gyakorlója által megállapítható szakmai és képesítési követelmények meghatározásának szempontjait és kereteit;
-- 3. a főosztályvezetői és az osztályvezetői álláshely betöltéséhez szükséges feltételeket;
+- 3. az álláshely betöltéséhez szükséges feltételeket;
 - 4. a Közszolgálati Személyügyi Szolgáltatási Keretrendszer
   - a) által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet,
   - b) informatikai üzemeltetését végző szervezetet, valamint
@@ -5270,6 +5280,10 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 (2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Miniszterelnöki Kormányirodánál lévő, a politikai felsővezetővel közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a Miniszterelnöki Kormányiroda 2023. augusztus 1. napjáig őrzi, azt követően megsemmisíti.
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
+#### 300/A. § [Átmeneti rendelkezés az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvényhez]
+
+E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel megállapított 230. § (2) bekezdése alapján az illetményt első alkalommal 2024. július 1. napjával kell megállapítani.
 
 #### 301. §
 

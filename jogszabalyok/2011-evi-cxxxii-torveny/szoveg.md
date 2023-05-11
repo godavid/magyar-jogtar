@@ -73,7 +73,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 ### II/A. Fejezet — A TANÁCSADÓ TESTÜLET
 
-9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a felnőttképzésért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
+9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
 
 (2) Az (1) bekezdésben felsorolt miniszterek képviseletét a Tanácsadó Testületben az általuk megbízott más személy is elláthatja.
 
@@ -111,10 +111,10 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 13. § (1) Az Egyetemen munkakört, vezetői beosztást
 
 - a) közalkalmazott,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálya alá tartozó állomány tagja vezényléssel, illetve a Hszt. 71. § (1) bekezdés c) pontja szerinti szolgálati beosztásához nem tartozó feladatkör ellátására, többletfeladatként történő megbízással vagy közalkalmazotti jogviszony keretében,
 - c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
 - d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő foglalkoztatás keretében,
-- e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás keretében,
+- e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás, illetve a Hszt. szerinti tartós átirányítás keretében,
 - f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel, valamint
 - g) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
 
@@ -189,9 +189,13 @@ gyakorolhatja.
 
 (4) Az érdemtelenség megállapítására vonatkozó döntés meghozatala előtt a közalkalmazottnak lehetőséget kell adni a döntés alapjául szolgáló körülmények megismerésére és arra, hogy az arról való tájékoztatástól számított tizenöt napon belül védekezését előadhassa, bizonyítékait előterjeszthesse, kivéve, ha az eset összes körülményeiből következően az az Egyetemtől nem várható el.
 
-16/E. § (1) Az Nftv. 32. § (2) bekezdésében meghatározott címmel rendelkező személy – kivételesen, a szenátus döntése alapján – oktatói vagy tanári munkakörben foglalkoztatható. A munkakör betöltésével kapcsolatos további feltételeket és részletes szabályokat az Egyetem foglalkoztatási követelményrendszerében kell meghatározni.
+16/E. § (1) Az Nftv. 32. § (2) bekezdésében meghatározott címmel rendelkező személy – kivételesen, a szenátus vagy a rektor döntése alapján – oktatói vagy tanári munkakörben foglalkoztatható. Az Nftv. 32. § (2) bekezdés b) pontjában meghatározott címet az Egyetemen a rektor is adományozhat. A címadományozással kapcsolatos feltételeket és részletes szabályokat az Egyetem foglalkoztatási követelményrendszerében kell meghatározni azzal, hogy eltérő feltételek és részletes szabályok állapíthatók meg az oktatói munkakörben foglalkoztatott, címüket a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személyek és az Nftv. 32. § (2) bekezdésében meghatározott címmel rendelkező, címüket a (2) bekezdés alapján nem eltérő elnevezéssel viselő személyek tekintetében. A munkakör betöltésével kapcsolatos további feltételeket és részletes szabályokat az Egyetem foglalkoztatási követelményrendszerében kell meghatározni.
 
-(2) Az Nftv. 32. § (2) bekezdés b) pontja alapján adományozott címmel rendelkező személy részére az Egyetem szervezeti és működési szabályzata lehetővé teheti, hogy az Nftv. 52/B. §-ára is figyelemmel, címét – a címnek az Nftv. 32. § (2) bekezdés b) pontjában foglalt elnevezésétől eltérő – az Egyetemre vagy az oktató hivatására utaló, a szervezeti és működési szabályzatban meghatározott elnevezéssel viselje.
+(2) Az Nftv. 32. § (2) bekezdés b) pontja alapján, illetve az (1) bekezdés szerint a rektor által adományozott címmel rendelkező személy részére az Egyetem szervezeti és működési szabályzata lehetővé teheti, hogy az Nftv. 52/B. §-ára is figyelemmel, címét – a címnek az Nftv. 32. § (2) bekezdés b) pontjában foglalt elnevezésétől eltérő – az Egyetemre vagy az oktató hivatására utaló, a szervezeti és működési szabályzatban meghatározott elnevezéssel viselje.
+
+(3) Az (1) bekezdés szerinti, oktatói munkakörben foglalkoztatott, címét a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személy rektori megbízás kivételével bármilyen vezetői megbízást kaphat, azzal, hogy rektorhelyettesi, dékáni, tanszékvezetői, kutató-intézetvezetői megbízást abban az esetben kaphat, ha rendelkezik tudományos fokozattal.
+
+(4) Az (1) bekezdés szerinti, oktatói munkakörben foglalkoztatott, címét a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személy az Egyetem alapfeladatai ellátása és az azokhoz kapcsolódó felelősségi és hatáskörök gyakorlása tekintetében rendelkezik mindazon jogosítvánnyal és – a (3) bekezdésben meghatározott kivétellel – betöltheti mindazon tisztséget, felelősségi és hatáskört, mint más oktatói vagy kutatói munkakörben foglalkoztatott személy azzal, hogy az ezek betöltésével kapcsolatos feltételek tekintetében teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell figyelembe venni és az e személy által megszerzett kiemelkedő gyakorlati tapasztalatot eredményező tevékenység időtartamát felsőoktatási oktatói szakmai gyakorlatnak, tapasztalatnak kell elismerni.
 
 16/F. § Az Egyetem a szervezeti és működési szabályzatában munkaköröket határozhat meg speciális oktatási, képzési tevékenységre. E munkakörök betöltőit az Egyetem szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni.
 
@@ -228,7 +232,7 @@ gyakorolhatja.
 
 18. § (1) A rektorhelyettest, a dékánt, a főtitkárt és a nemzetközi főigazgatót a rektor a Fenntartó előzetes egyetértésével bízza meg.
 
-(2) Rektorhelyettesi, illetve dékáni vezetői megbízást egyetemi tanár és egyetemi docens kaphat.
+(2) Rektorhelyettesi, illetve dékáni vezetői megbízást egyetemi tanár és egyetemi docens, valamint a 16/E. § (1) bekezdése szerinti, oktatói munkakörben foglalkoztatott, címét a 16/E. § (2) bekezdése alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő, tudományos fokozattal rendelkező személy kaphat.
 
 (3) A gazdasági főigazgatót és a campus főigazgatót a rektor előterjesztésére a Fenntartó bízza meg, illetve vonja vissza vezetői megbízását az államháztartásért felelős miniszter előzetes tájékoztatása mellett.
 
@@ -249,7 +253,7 @@ gyakorolhatja.
 21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
 
 - a) közszolgálati ösztöndíjas hallgató,
-- b) önköltség fizetésére nem kötelezett hallgató, aki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
+- b) önköltség fizetésére nem kötelezett hallgató, aki a Hszt. hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
 - c) önköltséges hallgató, vagy
 - d) a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjában meghatározott ösztöndíjas hallgató (a továbbiakban: rendészeti ösztöndíjas hallgató).
 
