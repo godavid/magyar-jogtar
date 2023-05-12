@@ -453,13 +453,13 @@ helyettesíti.
 
 (1) Az európai uniós források felhasználásáért felelős miniszter munkaszervezetében (a továbbiakban e § alkalmazásában: minisztérium) – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
 
-(1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra.
+(1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény szerinti állami projektértékelőkre.
 
 (2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a minisztérium szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
 
 (3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató – az Igazgatóság közreműködésével – az európai uniós források felhasználásának ellenőrzésével kapcsolatosan a jogszabályokban meghatározott feladatokat látja el, így különösen:
 
-- a) összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat rendszeresen, mintavételes eljárással, valamint hatósági nyilvántartások és nyilvánosan elérhető információk, valamint megkeresés útján megismerhető adatok alapján ellenőriz,
+- a) összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat rendszeresen, mintavételes eljárással, valamint hatósági nyilvántartások és nyilvánosan elérhető információk, valamint megkeresés útján megismerhető adatok, továbbá az ellenőrzött személyes kapcsolataira vonatkozó nyilatkozata alapján ellenőriz,
 - b) kockázatelemzést végez,
 - c) gondoskodik az összeférhetetlenségi helyzetek megelőzése érdekében a tudatosság növeléséről és az intézményrendszer uniós támogatások végrehajtásáért felelős szereplőinek képzéséről,
 - d) együttműködik a büntetőeljárásban eljáró szervekkel.
@@ -478,9 +478,18 @@ helyettesíti.
 - b) iratokba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
 - c) írásbeli felvilágosítást kérhet bármely szervezettől vagy személytől.
 
-(3c) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az ellenőrzéssel összefüggenek, és amelyek kezelése az ellenőrzés eredményes lefolytatása érdekében szükséges.
+(3c) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához szükséges mértékben kezeli mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az ellenőrzéssel összefüggenek, és amelyek kezelése az ellenőrzés eredményes lefolytatása érdekében szükséges.
 
-(3d) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
+(3d) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatása során – a (3c) bekezdésben meghatározottakon túl – az ellenőrzött személyes kapcsolataira vonatkozó nyilatkozat ellenőrzésével összefüggésben kezeli az ellenőrzött nyilatkozattevő
+
+- a) természetes személyazonosító adatait;
+- b) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti – nagykorú – hozzátartozójának természetes személyazonosító adatait;
+- c) egyenesági rokona nagykorú testvérének természetes személyazonosító adatait;
+- d) testvére nagykorú egyenesági rokonának természetes személyazonosító adatait.
+
+(3e) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
+
+(3f) Az Igazgatóság az Európai Unió pénzügyi érdekeinek védelme, valamint Magyarország kötelezettségvállalásának teljesítése érdekében – függetlenségének megtartására és a jogszabályokban meghatározott feladatai ellátásának sértetlenségére figyelemmel – további feladatokat lát el.
 
 (4) Az igazgatót a szervezeti és működési szabályzatban kijelölt, az igazgató irányítása alá tartozó főosztályvezető vagy osztályvezető helyettesíti.
 
@@ -494,7 +503,7 @@ helyettesíti.
 
 (9) Az Igazgatóság működését és eljárásait – a jogszabályokban, illetve a szervezeti és működési szabályzatban nem szabályozott kérdésekben – az igazgató által kiadott és az európai uniós források felhasználásáért felelős miniszter által jóváhagyott ügyrend szabályozza. Az Integritás Hatóság ellenőrzi az Igazgatóság működését, ennek keretében vizsgálja az ügyrend végrehajtását és az Igazgatóság eljárásaira vonatkozó irányelvek betartását. Súlyos vagy visszatérő megfelelési problémák esetén az Integritás Hatóság jogosult az Igazgatóság ellenőrzésére.
 
-(9a) Az igazgató, valamint az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló a megbízatása, illetve a jogviszonya keletkezésekor általános összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot, majd az érdemi eljárási cselekmények megkezdése előtt az adott eljárási cselekményre vonatkozó eseti összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot tesz.
+(9a) Az igazgató, valamint az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló a megbízatása, illetve a jogviszonya keletkezésekor általános összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot, majd az érdemi eljárási cselekmények megkezdése előtt az adott eljárási cselekményre vonatkozó eseti összeférhetetlenségi nyilatkozatot tesz.
 
 (9b) Az Igazgatóság haladéktalanul biztosítja az Integritás Hatóság részére
 
@@ -1118,7 +1127,7 @@ A kormányzati igazgatási szervnek a jogosultságkezelési nyilvántartásban s
 
 (3) A kormánytisztviselő a személyiségi jogáról általános jelleggel előre nem mondhat le, személyiségi jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
 
-(4) Az e törvény hatálya alá tartozók személyiségi jogainak megsértése esetén jogkövetkezményként a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.)
+(4) Az e törvény hatálya alá tartozók személyiségi jogainak megsértése esetén jogkövetkezményként a Ptk.
 
 - a) 2:51. § (1) bekezdését, 2:52. § (1) bekezdését kell alkalmazni, továbbá
 - b) 2:52. § (2) és (3) bekezdését, valamint 2:53. §-át azzal az eltéréssel kell alkalmazni, hogy e rendelkezések alkalmazásakor e törvény kártérítési felelősségre vonatkozó szabályai az irányadóak.
@@ -2012,7 +2021,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - c) a kormánytisztviselő által betöltött álláshelyen ellátandó feladat vagy a kormánytisztviselő által betöltött álláshely átszervezés miatt megszűnik
 - d) a kormányzati igazgatási szerv a feladatok hatékonyabb biztosítása érdekében a kormánytisztviselő álláshelyére másik kormánytisztviselőt alkalmaz;
 - e) a kormánytisztviselő nyugdíjasnak minősül;
-- f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
+- f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában, valamint a személyes kapcsolataira vonatkozó nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
 - g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
 - h)
 
@@ -4784,6 +4793,7 @@ illetménynek megfelelő összeg.
 
 - a) a 107. § (1) bekezdés a) és b) pontja szerinti esetben,
 - b) ha a munkavállaló a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja.
+- c) ha a munkavállaló az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában, valamint a személyes kapcsolataira vonatkozó nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött.
 
 (6) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára az Mt. 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 110. §-át, 116. §-át és 137. §-át kell alkalmazni.
 
@@ -4893,7 +4903,7 @@ illetménynek megfelelő összeg.
 (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - 1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a főispán, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
-- 2.
+- 2. határozza meg a Belső Ellenőrzési és Integritási Igazgatóság 29/B. § (3f) bekezdésében foglalt további feladatait.
 - 3. irányítási jogkörrel ruházza fel a kormánybiztost.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg

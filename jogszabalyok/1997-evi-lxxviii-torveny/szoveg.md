@@ -1678,7 +1678,7 @@ tartalmazza.
 
 (10) Az 58. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
-59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat a Kormány által rendeletben kijelölt szervezet gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.
+59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.
 
 59/B. § (1) Az építtető és a tervező közös nyilatkozatban az építészeti szerzői jogi nyilvántartás részére átadja az építészeti-műszaki dokumentációhoz, valamint az az alapján megépült építményhez fűződő szerzői vagyoni jogok tulajdonosának vagy tulajdonosainak a következő adatait:
 
@@ -1995,7 +1995,7 @@ meghatározott szervezetet rendeletben jelölje ki.
 
 (3c) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy – az igazságügyért felelős miniszterrel egyetértésben – rendelettel állapítsa meg az építészeti szerzői jogi nyilvántartásra vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az illetékekről szóló törvény szerinti termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló eljárás kivételével a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
+(4) Felhatalmazást kap a térképészetért felelős miniszter, hogy az illetékekről szóló törvény szerinti termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló eljárás kivételével a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit az építésgazdaságért felelős miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
 

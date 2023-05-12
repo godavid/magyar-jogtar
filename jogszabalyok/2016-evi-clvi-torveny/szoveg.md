@@ -62,7 +62,7 @@ céljából 100%-ban állami tulajdonban álló nonprofit gazdasági társaságo
 (1a) Az (1) bekezdés szerinti feladatokat elláthatja
 
 - a) a Magyar Turisztikai Ügynökség Zrt. vagy
-- b) olyan 100%-ban állami tulajdonú gazdasági társaság, amely
+- b) olyan gazdasági társaság, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen 100%-os részesedéssel rendelkezik, és az állami tulajdoni részesedést illetően
   - ba) a Magyar Turisztikai Ügynökség Zrt.
   - bb) a turizmusért felelős miniszter vagy
   - bc) a kulturális örökség védelméért felelős miniszter
