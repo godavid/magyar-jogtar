@@ -38,12 +38,7 @@ egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosítá
 
 #### 15. §
 
-16. § Az Étv.
-
-- a) 59/A. §-ában az „a Kormány által rendeletben kijelölt szervezet” szövegrész helyébe az „az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter” szöveg,
-- b) 62. § (4) bekezdésében az „az agrárpolitikáért” szövegrész helyébe az „a térképészetért” szöveg
-
-lép.
+#### 16. §
 
 #### 17. §
 
@@ -93,13 +88,9 @@ lép.
 
 #### 5. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-36. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) 52. § (1) bekezdése a következő k) ponttal egészül ki:
+#### 36. §
 
-(A civil közösségi szolgáltató központok 51. § szerinti tevékenységük keretében az alábbi feladatokat látják el:)
-
-„k) részt vesznek az elektori gyűlések szervezésében és lebonyolításában.”
-
-37. § Hatályát veszti a Civil tv. 56. § (1) bekezdés l) pontjában a „működésének” szövegrész.
+#### 37. §
 
 #### 6.
 
@@ -121,7 +112,7 @@ lép.
 
 44. § A Turizmus törvény
 
-- a) 4. § (1a) bekezdés b) pont nyitó szövegrészében a „100%-ban állami tulajdonú gazdasági társaság, amely” szövegrész helyébe a „gazdasági társaság, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen 100%-os részesedéssel rendelkezik, és az állami tulajdoni részesedést illetően” szöveg,
+- a)
 - b)
 - c)
 

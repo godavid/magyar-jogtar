@@ -78,27 +78,76 @@ Az Országgyűlés az Európai Unió Tanácsa 2024. második félévi magyar eln
 
 (3)
 
-#### 20. §
+20. § A Vht. 230/A. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzése, az ellenőrzéshez kapcsolódó egyéb, jogszabályban meghatározott feladatok elvégzése, az ellenőrzés alapján indítható fegyelmi eljárások lebonyolítása céljából a Kar kezeli a vizsgálat alá vont végrehajtási ügyekben nyilvántartott, felekre vonatkozó, végrehajtói nyilvántartásokban rögzített személyes adatokat az ellenőrzési jelentés lezárásától számított 5 évig, az ellenőrzési jelentést alátámasztó iratokban szereplő adatokat az ellenőrzési jelentés lezárásától számított 10 évig. A végrehajtói nyilvántartásokban rögzített adatok megismerésére kizárólag az adott eljárásban megbízólevéllel rendelkező személy és a Kar hivatali szervének vezetője jogosult. Az ellenőrzési jelentést alátámasztó iratokban szereplő adatok megismerésére kizárólag az adott eljárásban megbízólevéllel rendelkező személy, a Kar hivatali szervének vezetője és a Kar hivatali szervének vezetője által kijelölt személy jogosult.”
 
 #### 21. §
 
 #### 22. §
 
-#### 23. §
+23. § (1) A Vht. 239/A. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 24. §
+„(2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylés eredményéről a Kar hivatali szerve a tárgyhónapot követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.”
+
+(2) A Vht. 239/A. §-a a következő (2b)–(2d) bekezdéssel egészül ki:
+
+„(2b) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt évente június 30-ig a bűnügyi nyilvántartó rendszerben kezelt adatokról törvényben foglaltak szerint kiállított hatósági bizonyítvány megküldésével igazolja a Hatóság elnökénél és a Kar hivatali szerve vezetőjénél, hogy vele szemben a 233. § (2) bekezdés a)–d) vagy j) pontjában meghatározott körülmény fennáll-e.
+
+(2c) Ha a végrehajtóval, a végrehajtó-helyettessel és a végrehajtójelölttel szemben büntető- vagy szabálysértési eljárás indul, köteles azt a Hatóság elnökének és a Kar hivatali szerve vezetőjének haladéktalanul, de legkésőbb 3 munkanapon belül írásban bejelenteni.
+
+(2d) A (2b) és (2c) bekezdés szerinti kötelezettség elmulasztása fegyelmi vétség.”
+
+(3) A Vht. 239/A. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A Kar hivatali szerve, valamint a Hatóság elnöke a 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény vizsgálata céljából kezeli
+
+- a) a végrehajtói állásra pályázó személy,
+- b) a végrehajtó,
+- c) a végrehajtó-helyettes,
+- d) a végrehajtójelölt
+
+azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondnokoltakat nyilvántartó szerv által e célból kiállított igazolás tartalmaz.
+
+(4) A (2)–(2c) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
+
+- a) a végrehajtói kinevezésről meghozott döntésig,
+- b) a végrehajtó esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének, illetve felfüggesztésének megállapítására irányuló eljárásban az eljárás végleges befejezéséig,
+- c) a végrehajtó-helyettes esetén a névjegyzékből történő törlés megállapítására irányuló eljárásban az eljárás végleges befejezéséig, vagy
+- d) a végrehajtójelölt esetén a névjegyzékből történő törlés megállapítására irányuló eljárásban az eljárás végleges befejezéséig
+
+kezeli.”
+
+24. § A Vht. 239/B. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Kar hivatali szervének vezetője a 239/A. § (2)–(2c) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+
+(2) A Kar hivatali szervének vezetője az (1) bekezdés szerinti megállapítása alapján
+
+- a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha közvádra üldözendő gondatlan bűncselekmény miatt áll büntetőeljárás hatálya alatt,
+- b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt.”
 
 #### 25. §
 
 #### 26. §
 
-#### 27. §
+27. § A Vht. 251. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A szolgálatából felfüggesztett végrehajtó végrehajtói kari tagsága fennmarad, de nem gyakorolhatja a kari tagságából és a kari tisztségéből eredő jogokat, valamint nem terhelik az azokból eredő kötelezettségek.”
 
 #### 28. §
 
-#### 29. §
+29. § A Vht. 271/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-30. § (1)
+„(1) A Kar elnöksége – a Hatóság elnökének előzetes egyetértésével – a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 12 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.”
+
+30. § (1) A Vht. a következő 304/L. §-sal egészül ki:
+
+„304/L. § (1) Az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel (a továbbiakban: Módtv.15.) megállapított 230/A. § (7) bekezdését a Módtv.15. hatálybalépésekor folyamatban lévő ügyek esetén és a Módtv.15. hatálybalépésekor már lezárásra került ügyek esetén is alkalmazni kell.
+
+(2) A Módtv.15-tel megállapított 239/A. § (2b) bekezdése szerinti kötelezettségnek a végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a 2023. évben 2023. szeptember 1. napjáig köteles eleget tenni.
+
+(3) A Módtv.15-tel megállapított 271/A. § (1) bekezdését a Módtv.15. hatálybalépését követően megválasztásra kerülő szakülnök esetén kell alkalmazni.”
 
 (2)
 
@@ -110,12 +159,12 @@ Az Országgyűlés az Európai Unió Tanácsa 2024. második félévi magyar eln
 
 - a)
 - b)
-- c)
+- c) 240/C. § (1) bekezdésében a „felmentése,” szövegrész helyébe a „felmentése, felfüggesztése,” szöveg,
 - d)
-- e)
-- f)
-- g)
-- h)
+- e) 251. § (2) bekezdésében a „d) vagy e) pontja” szövegrész helyébe a „c)–e) pontja” szöveg,
+- f) 253/F. § (1) bekezdésében a „miniszter rendeletében” szövegrész helyébe a „Hatóság elnökének rendeletében” szöveg,
+- g) 253/F. § (1) bekezdésében a „miniszter hagyja jóvá” szövegrész helyébe a „Hatóság elnöke hagyja jóvá” szöveg,
+- h) 253/G. § (4) bekezdésében a „miniszter hagyja jóvá” szövegrész helyébe a „Hatóság elnöke hagyja jóvá” szöveg
 
 lép.
 

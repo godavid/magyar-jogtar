@@ -8,15 +8,11 @@ Annak biztosítása érdekében tehát, hogy minden szükséges eszköz rendelke
 
 A vonatkozó felhatalmazás megadására az Országgyűlés a következő törvényt alkotja:
 
-1. § A szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(1) Az Országgyűlés az Alaptörvény 51. cikk (3) bekezdése alapján felhatalmazza a Kormányt, hogy a veszélyhelyzetet 2023. november 25-ig meghosszabbítsa.”
+#### 2. §
 
-2. § A szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 2. § (1) bekezdése 2023. november 26-án hatályát veszti.”
-
-3. § Hatályát veszti a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 1. §-ában az „(a továbbiakban: KR1.)” szövegrész.
+#### 3. §
 
 4. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
