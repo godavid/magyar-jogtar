@@ -3137,6 +3137,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (6) A Hatóság képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.
 
+(7) A végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzése, az ellenőrzéshez kapcsolódó egyéb, jogszabályban meghatározott feladatok elvégzése, az ellenőrzés alapján indítható fegyelmi eljárások lebonyolítása céljából a Kar kezeli a vizsgálat alá vont végrehajtási ügyekben nyilvántartott, felekre vonatkozó, végrehajtói nyilvántartásokban rögzített személyes adatokat az ellenőrzési jelentés lezárásától számított 5 évig, az ellenőrzési jelentést alátámasztó iratokban szereplő adatokat az ellenőrzési jelentés lezárásától számított 10 évig. A végrehajtói nyilvántartásokban rögzített adatok megismerésére kizárólag az adott eljárásban megbízólevéllel rendelkező személy és a Kar hivatali szervének vezetője jogosult. Az ellenőrzési jelentést alátámasztó iratokban szereplő adatok megismerésére kizárólag az adott eljárásban megbízólevéllel rendelkező személy, a Kar hivatali szervének vezetője és a Kar hivatali szervének vezetője által kijelölt személy jogosult.
+
 231. § (1) A Hatóság elnöke
 
 - a) részt vehet a Kar szerveinek ülésén,
@@ -3307,26 +3309,40 @@ esetén van lehetőség.
 
 239/A. § (1) A végrehajtói szolgálat fennállása alatt lefolytatott hatósági ellenőrzés keretében a Kar hivatali szerve ellenőrzi azt is, hogy a végrehajtóval szemben fennáll-e a 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény.
 
-(2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylést a Kar hivatali szerve minden félévet követően valamennyi végrehajtóval szemben lefolytatja, és ennek eredményéről a Kar hivatali szerve félévente utólag, a tárgyfélévet követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
+(2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylés eredményéről a Kar hivatali szerve a tárgyhónapot követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
 
 (2a) A (2) bekezdés szerinti adatigénylést a Kar hivatali szerve a tudomására jutott információ ellenőrzése érdekében eltérő időpontban is lefolytathatja; ennek eredményéről a Kar hivatali szerve az adat megérkezését követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
 
+(2b) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt évente június 30-ig a bűnügyi nyilvántartó rendszerben kezelt adatokról törvényben foglaltak szerint kiállított hatósági bizonyítvány megküldésével igazolja a Hatóság elnökénél és a Kar hivatali szerve vezetőjénél, hogy vele szemben a 233. § (2) bekezdés a)–d) vagy j) pontjában meghatározott körülmény fennáll-e.
+
+(2c) Ha a végrehajtóval, a végrehajtó-helyettessel és a végrehajtójelölttel szemben büntető- vagy szabálysértési eljárás indul, köteles azt a Hatóság elnökének és a Kar hivatali szerve vezetőjének haladéktalanul, de legkésőbb 3 munkanapon belül írásban bejelenteni.
+
+(2d) A (2b) és (2c) bekezdés szerinti kötelezettség elmulasztása fegyelmi vétség.
+
 (3) A Kar hivatali szerve, valamint a Hatóság elnöke a 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény vizsgálata céljából kezeli
 
-- a) a végrehajtói állásra pályázó vagy kijelölt személy,
-- b) a végrehajtó azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondnokoltakat nyilvántartó szerv által e célból kiállított igazolás tartalmaz.
+- a) a végrehajtói állásra pályázó személy,
+- b) a végrehajtó,
+- c) a végrehajtó-helyettes,
+- d) a végrehajtójelölt
 
-(4) A (2) és (2a) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
+azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondnokoltakat nyilvántartó szerv által e célból kiállított igazolás tartalmaz.
 
-- a) a végrehajtói kinevezésről meghozott döntésig, vagy
-- b) a végrehajtói kinevezés esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének, illetve felfüggesztésének megállapítására irányuló eljárásban az eljárás végleges befejezéséig kezeli.
+(4) A (2)–(2c) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
 
-239/B. § (1) A Kar hivatali szervének vezetője a 239/A. § (2) és (2a) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő, 3 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+- a) a végrehajtói kinevezésről meghozott döntésig,
+- b) a végrehajtó esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének, illetve felfüggesztésének megállapítására irányuló eljárásban az eljárás végleges befejezéséig,
+- c) a végrehajtó-helyettes esetén a névjegyzékből történő törlés megállapítására irányuló eljárásban az eljárás végleges befejezéséig, vagy
+- d) a végrehajtójelölt esetén a névjegyzékből történő törlés megállapítására irányuló eljárásban az eljárás végleges befejezéséig
+
+kezeli.
+
+239/B. § (1) A Kar hivatali szervének vezetője a 239/A. § (2)–(2c) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (2) A Kar hivatali szervének vezetője az (1) bekezdés szerinti megállapítása alapján
 
-- a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha az olyan közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, amely 5 évnél nem súlyosabb szabadságvesztés büntetéssel fenyegetett,
-- b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha az olyan közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, amely 5 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett.
+- a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha közvádra üldözendő gondatlan bűncselekmény miatt áll büntetőeljárás hatálya alatt,
+- b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt.
 
 (3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a Hatóság elnökét.
 
@@ -3378,7 +3394,7 @@ a végrehajtói szolgálata szünetel.
 
 ### A végrehajtói szolgálattal kapcsolatos eljárás
 
-240/C. § (1) A Hatóság elnöke a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében az Ákr. rendelkezései szerint jár el.
+240/C. § (1) A Hatóság elnöke a végrehajtó kölcsönös áthelyezése, felmentése, felfüggesztése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében az Ákr. rendelkezései szerint jár el.
 
 (2)
 
@@ -3635,7 +3651,9 @@ a végrehajtói szolgálata szünetel.
 - b) az öttagú elnökség,
 - c) a Kar hivatali szerve.
 
-(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává, egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező végrehajtó tagja a Kar elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
+(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává, egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező végrehajtó tagja a Kar elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés c)–e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
+
+(2a) A szolgálatából felfüggesztett végrehajtó végrehajtói kari tagsága fennmarad, de nem gyakorolhatja a kari tagságából és a kari tisztségéből eredő jogokat, valamint nem terhelik az azokból eredő kötelezettségek.
 
 (3) A Kar a munkájának elősegítésére szakmai bizottságokat hozhat létre.
 
@@ -3775,7 +3793,7 @@ a végrehajtói szolgálata szünetel.
 
 (12) A napló adatait azok keletkezésétől számított 10 évig kell megőrizni, és biztosítani kell az azok megismeréséhez szükséges technikai eszközöket. A napló adatait a Kar hivatali szerve az (5) bekezdés szerint eljárva továbbíthatja.
 
-253/F. § (1) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a miniszter rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a miniszter hagyja jóvá.
+253/F. § (1) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a Hatóság elnökének rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a Hatóság elnöke hagyja jóvá.
 
 (2) A Kar hivatali szerve köteles gondoskodni az elektronikus árverési rendszerben kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni védelméről.
 
@@ -3813,7 +3831,7 @@ kérhetnek adatszolgáltatást.
 
 (3) A napló adatairól megkeresésre annak a bíróságnak, ügyészségnek, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének felügyeletét ellátó szervnek továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
-(4) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi a kézbesítési rendszer működésének és felhasználóként történő igénybevételének technikai feltételeit (felhasználási szabályzat); a felhasználási szabályzatot a miniszter hagyja jóvá.
+(4) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi a kézbesítési rendszer működésének és felhasználóként történő igénybevételének technikai feltételeit (felhasználási szabályzat); a felhasználási szabályzatot a Hatóság elnöke hagyja jóvá.
 
 253/H. § § A Kar a szervezeti és működési szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a Kar tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
@@ -4137,7 +4155,7 @@ kérhetnek adatszolgáltatást.
 - c) a vizsgálóbiztosi tisztségről való lemondással vagy
 - d) ha a fegyelmi bíróság kötelességeinek vétkes megszegése, hosszabb időn át történő elmulasztása vagy súlyos elhanyagolása miatt – titkos szavazással, a fegyelmi bíróság tagjai legalább kétharmadának szavazatával – tagjainak sorából kizárta.
 
-271/A. § (1) A Kar elnöksége a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 12 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.
+271/A. § (1) A Kar elnöksége – a Hatóság elnökének előzetes egyetértésével – a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 12 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.
 
 (2) Szakülnöknek azt a végrehajtót lehet megválasztani, aki egyetemi jogi végzettséggel, jogi szakvizsgával rendelkezik, feltéve, hogy vele szemben nem áll fenn a 275. § szerinti valamely kizáró ok.
 
@@ -4588,6 +4606,12 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (11) A Módtv.14-gyel megállapított 223. § (4) bekezdését a Módtv.14. hatálybalépésekor folyamatban lévő ügyészi megkeresések során is alkalmazni kell.
 
 (12) A Módtv.14-gyel megállapított 276. §-t, valamint 289. § (2) és (3) bekezdését a Módtv.14. hatálybalépésekor folyamatban lévő végrehajtói fegyelmi eljárások során is alkalmazni kell a Módtv.14. hatálybalépését követően benyújtásra kerülő elfogultsági kifogások esetén és a Módtv.14. hatálybalépését követően benyújtott fellebbezés során.
+
+304/L. § (1) Az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel (a továbbiakban: Módtv.15.) megállapított 230/A. § (7) bekezdését a Módtv.15. hatálybalépésekor folyamatban lévő ügyek esetén és a Módtv.15. hatálybalépésekor már lezárásra került ügyek esetén is alkalmazni kell.
+
+(2) A Módtv.15-tel megállapított 239/A. § (2b) bekezdése szerinti kötelezettségnek a végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a 2023. évben 2023. szeptember 1. napjáig köteles eleget tenni.
+
+(3) A Módtv.15-tel megállapított 271/A. § (1) bekezdését a Módtv.15. hatálybalépését követően megválasztásra kerülő szakülnök esetén kell alkalmazni.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 
