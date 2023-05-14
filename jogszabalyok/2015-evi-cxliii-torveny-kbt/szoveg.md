@@ -2518,7 +2518,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (8) A felek a (7) bekezdésben foglalt kötelező mértéket meghaladóan és bármely más esetben is kiköthetik előleg nyújtását a szerződésben. Külön jogszabály a (7) bekezdésben foglalt mértéket meghaladóan és bármely más esetre is előírhatja előleg nyújtását, valamint a (7) bekezdésben foglaltnál nagyobb mértékű előleg nyújtását is kötelezővé teheti biztosíték megkövetelése nélkül.
 
-(9) A (7) bekezdéstől eltérően támogatásból megvalósuló közbeszerzés esetén szállítói kifizetés során az ajánlatkérő – ha külön jogszabály magasabb mértékű szállítói előleg nyújtását nem írja elő – köteles a szerződés – tartalékkeret és általános forgalmi adó nélkül számított – elszámolható összege 30%-ának megfelelő mértékű előleg igénybevételének lehetőségét biztosítani. Ebben az esetben az ajánlatkérő által kikötött biztosíték mértéke nem haladhatja meg a szerződés – tartalékkeret és általános forgalmi adó nélkül számított – elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetének mértékét.
+(9)
 
 (10) Az (1)–(3) és (6)–(7) bekezdésben, illetve a (9) bekezdésben meghatározott feltételek a szerződésnek akkor is részei, ha a felek ezekről nem vagy – ide nem értve a (8) bekezdés szerinti esetet – ezektől eltérően állapodtak meg.
 
