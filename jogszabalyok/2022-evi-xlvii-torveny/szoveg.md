@@ -10,7 +10,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a magyar honosság
 
 2. § A Projekt megvalósítása, a Világkiállításon történő magyar megjelenés kiemelkedően fontos közérdek, amelynek érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendőek, teljesítésükhöz kiemelkedően fontos közérdek fűződik.
 
-3. § (1) A Projekttel kapcsolatos tematikával, koncepciós rajzokkal és koncepciós kiviteli tervekkel összefüggésben lebonyolítandó közbeszerzési eljárások tekintetében az ajánlatkérő jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 98. § (2) bekezdés e) pontja szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására.
+3. § (1) A Projekttel kapcsolatos közbeszerzési eljárások tekintetében az ajánlatkérő jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 98. § (2) bekezdés e) pontja szerinti, rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására.
 
 (2) Az (1) bekezdés szerinti, rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás esetén az ajánlatkérő köteles a Kbt. 99. § (3) bekezdés b) pontja szerint előírt számú ajánlattevőt ajánlattételre felhívni.
 

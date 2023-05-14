@@ -309,7 +309,7 @@ kerül sor. Az elektronikus úton történt regisztráció során megadott adato
 
 #### 23. A szálláshely-szolgáltatás igénybevételével kapcsolatos átmeneti szabályok
 
-28. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (1) bekezdés a) pontja szerinti adatokat a szálláshely-szolgáltató a 14 év alatti szálláshely-szolgáltatást igénybe vevő vonatkozásában a képviselőjének nyilatkozata alapján is rögzítheti. A 14 év alatti szálláshely-szolgáltatást igénybe vevő esetében a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (2) bekezdésétől eltérően 2022. december 31. napjáig az okmányát nem kell bemutatni, és a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (1) bekezdés b) pontjától eltérően nem kell rögzíteni az okmány azonosító adatait.
+28. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (1) bekezdés a) pontja szerinti adatokat a szálláshely-szolgáltató a 14 év alatti szálláshely-szolgáltatást igénybe vevő vonatkozásában a képviselőjének nyilatkozata alapján is rögzítheti. A 14 év alatti szálláshely-szolgáltatást igénybe vevő esetében a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (2) bekezdésétől eltérően 2023. december 31. napjáig az okmányát nem kell bemutatni, és a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (1) bekezdés b) pontjától eltérően nem kell rögzíteni az okmány azonosító adatait.
 
 #### 24. Az aranykalászos gazda részszakképesítés megszerzésével kapcsolatos átmeneti szabályok
 

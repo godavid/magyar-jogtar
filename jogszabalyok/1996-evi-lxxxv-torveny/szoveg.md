@@ -146,7 +146,7 @@ kéri.
 
 (2) A jelzálogjog bejegyzése, valamint – ide nem értve a jelzálogjog törlését – a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
 
-(3)
+(3) A közigazgatási- vagy fekvéshatár-változás bejegyzésének díja a változással érintett ingatlanonként az (1) bekezdésben meghatározott díj, de legfeljebb összesen 200 000 forint.
 
 (4) Törvényben meghatározott soron kívüli ügyintézés kivételével, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 46. §-ában meghatározott soron kívüli eljárás díja ingatlanonként 10 000 forint.
 
@@ -334,5 +334,7 @@ ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 (2) Az (1) bekezdésben meghatározott, közigazgatási hatósági eljárásnak nem minősülő eljárásban elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a pályázónak kell viselnie.
 
 33/B. § E törvénynek az egyes törvényeknek az épített és a természeti környezet védelmével, valamint a kulturális örökségvédelemmel összefüggő módosításáról szóló 2019. évi LXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 32/C. § (1) bekezdés y) és z) pontját a Módtv. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.
+
+34. § E törvénynek az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvénnyel (a továbbiakban Módtv2.) megállapított 32/A. § (3) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Melléklet az 1996. évi LXXXV. törvényhez
