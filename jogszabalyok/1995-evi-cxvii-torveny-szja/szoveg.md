@@ -719,7 +719,7 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 - c) a társas vállalkozás magánszemély tagjának személyes közreműködése,
 - d) a gazdasági társaság vezető tisztségviselőjének tevékenysége,
 - e) a jogszabály alapján választott vagy kijelölt tisztségviselő (ideértve a felügyelőbizottság tagját és a Polgári Törvénykönyv szerinti küldöttgyűlés tagját, de ide nem értve a választott könyvvizsgálót) tevékenysége, ha ezt a tevékenységet nem egyéni vállalkozóként végzi,
-- f)
+- f) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony keretében végzett tevékenység,
 - g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
 - h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
 - i) az országgyűlési képviselői tevékenység,
