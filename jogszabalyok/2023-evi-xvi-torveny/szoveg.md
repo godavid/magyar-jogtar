@@ -53,8 +53,8 @@ a közbeszerzésekről szóló 2015. évi CXLIII. törvény módosításáról
 - g)
 - h)
 - i)
-- j) 135. § (9) bekezdése,
-- k) 135. § (10) bekezdésében az „ , illetve a (9) bekezdésében” szövegrész,
+- j)
+- k)
 - l)
 - m)
 - n)

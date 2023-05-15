@@ -905,7 +905,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (4) Az (1)–(3) bekezdést a KFItv. szerinti hasznosító vállalkozással, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társasággal létesített jogviszonyokra nem kell alkalmazni. Ezen jogviszonyok keretében a közalkalmazott jogosult az (1) bekezdésben megjelölt munkáltatója (2) bekezdés szerinti üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására.
 
-44. § (1) A közalkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység, valamint az állami projektértékelői jogviszony kivételével – köteles a munkáltatónak előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
+44. § (1) A közalkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony kivételével – köteles a munkáltatónak előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
 
 (2) A munkáltatónak a munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen munkaügyi jogvita kezdeményezhető.
 

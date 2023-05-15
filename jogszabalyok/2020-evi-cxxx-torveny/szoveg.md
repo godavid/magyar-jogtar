@@ -1572,6 +1572,7 @@ időtartama alatt.
 - a) tudományos, oktatói, művészeti, lektori, szerkesztői, egészségügyi valamint jogi oltalom alá eső szellemi tevékenységet és nevelőszülői foglalkoztatási jogviszonyt (a továbbiakban együtt: gyakorolható tevékenység),
 - b) közérdekű önkéntes tevékenységet,
 - c) állami projektértékelői jogviszonyt.
+- d) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.
 
 (2) A foglalkoztatott a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat
 
@@ -1583,6 +1584,7 @@ időtartama alatt.
 
 - a) gyakorolható tevékenységet,
 - b) állami projektértékelői jogviszonyt.
+- c) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.
 
 (4) Vezetői munkakört betöltő foglalkoztatott a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
 

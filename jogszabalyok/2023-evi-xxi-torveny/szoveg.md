@@ -30,13 +30,9 @@ egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosítá
 
 #### 2. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-13. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény (a továbbiakban: Díjtv.) 32/A. §-a a következő (3) bekezdéssel egészül ki:
+#### 13. §
 
-„(3) A közigazgatási- vagy fekvéshatár-változás bejegyzésének díja a változással érintett ingatlanonként az (1) bekezdésben meghatározott díj, de legfeljebb összesen 200 000 forint.”
-
-14. § A Díjtv. a következő 34. §-sal egészül ki:
-
-„34. § E törvénynek az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvénnyel (a továbbiakban Módtv2.) megállapított 32/A. § (3) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+#### 14. §
 
 #### 3. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
@@ -114,13 +110,7 @@ egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosítá
 
 #### 43. §
 
-44. § A Turizmus törvény
-
-- a)
-- b) 12/A. § (1) bekezdésében a „2023. január 1. napjától” szövegrész helyébe a „2023. július 1. napjától” szöveg,
-- c) 12/B. § (1) bekezdésében a „2023. január 1. napjától” szövegrész helyébe a „2023. július 1. napjától” szöveg
-
-lép.
+#### 44. §
 
 #### 9.
 
@@ -128,7 +118,7 @@ lép.
 
 #### 10. A veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény módosítása
 
-46. § A veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény 28. §-ában a „2022. december 31. napjáig” szövegrész helyébe a „2023. december 31. napjáig” szöveg lép.
+#### 46. §
 
 #### 11.
 
@@ -136,7 +126,7 @@ lép.
 
 #### 12. A turizmus-vendéglátás ágazatot segítő intézkedésekről szóló 468/2022. (XI. 21.) Korm. rendelet módosítása
 
-48. § Hatályát veszti a turizmus-vendéglátás ágazatot segítő intézkedésekről szóló 468/2022. (XI. 21.) Korm. rendelet 2. alcíme.
+#### 48. §
 
 #### 13. Záró rendelkezések
 

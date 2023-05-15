@@ -512,7 +512,7 @@ a Kormány rendeletében meghatározott feltételek mellett együttműködési m
   - bh) adószámát,
   - bi) Társadalombiztosítási Azonosító Jelét.
 
-27/B. § Az igazságügyért felelős miniszter a jogi szakvizsgára történő jelentkezés céljára informatikai felületet üzemeltet, amelyben a 27/A. §-ban meghatározott személyes adatokat a nyilvántartásba vételtől számított nyolcadik év utolsó napjáig kezeli.
+27/B. § Az igazságügyért felelős miniszter a jogi szakvizsgára való jelentkezés céljára informatikai felületet üzemeltet, amelyben a 27/A. §-ban meghatározott személyes adatokat a nyilvántartásba vételtől számított nyolcadik év utolsó napjáig kezeli.
 
 #### 13/B. Igazságügyi Akkreditációs Testület
 

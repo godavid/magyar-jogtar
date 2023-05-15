@@ -1794,7 +1794,7 @@ továbbítható.
 - a) amelyben – az országos parancsnok és az országos főigazgató által engedélyezett kivétellel – közeli hozzátartozójával közvetlen irányítási, felügyeleti vagy ellenőrzési viszonyba kerül,
 - b) amelynek révén – az állományilletékes parancsnok engedélye nélkül – olyan gazdálkodó szervezettel kerül elszámolási viszonyba, amelyben közeli hozzátartozójának tulajdoni hányada meghatározó, vagy a közeli hozzátartozó az elszámolási viszonyra befolyással bíró tisztséget, munkakört lát el.
 
-(2) A hivatásos állomány tagja – a (3)–(5) bekezdésben foglalt kivételekkel – csak engedéllyel létesíthet munkavégzéssel járó egyéb jogviszonyt. Vezetői beosztást betöltő személy – a (2a), illetve az (5) bekezdésben foglaltak kivételével – munkavégzéssel járó egyéb jogviszonyt nem létesíthet.
+(2) A hivatásos állomány tagja – a (3)–(5) bekezdésben foglalt kivételekkel – csak engedéllyel létesíthet munkavégzéssel járó egyéb jogviszonyt. Vezetői beosztást betöltő személy – a (2a), az (5) és a (8) bekezdésben foglaltak kivételével – munkavégzéssel járó egyéb jogviszonyt nem létesíthet.
 
 (2a) A hivatásos állomány tagja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha
 
@@ -1815,6 +1815,8 @@ továbbítható.
 (6) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a rendvédelmi szerv feladataival, vagy veszélyezteti a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, vagy a rendvédelmi szerv tekintélyét.
 
 (7) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltatói jogkör gyakorlója előzetesen engedélyezte és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.
+
+(8) Vezetői beosztást betöltő személy az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt engedéllyel létesíthet.
 
 110. § (1) A hivatásos állomány tagja köteles az állományilletékes parancsnoknak haladéktalanul bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha szolgálati viszonyának fennállása alatt összeférhetetlen helyzetbe került. Az állományilletékes parancsnok köteles – kivéve, ha a hivatásos állomány tagja a 109. § (1) bekezdés a) pontjában meghatározott engedélyt kapott – írásban felszólítani a hivatásos állomány tagját az összeférhetetlenség megszüntetésére, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
 
