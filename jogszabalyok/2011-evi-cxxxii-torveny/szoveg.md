@@ -9,7 +9,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 1. § (1) A törvény hatálya kiterjed
 
 - a) a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem),
-- b) az általa folytatott felsőoktatási tevékenységre, valamint az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, nemzetközi és európai közszolgálati felsőoktatásra, továbbá az ezekkel összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
+- b) az Egyetem által folytatott felsőoktatási tevékenységre, valamint az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, nemzetközi és európai közszolgálati felsőoktatásra, továbbá az ezekkel összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
 - c) az Egyetem alapítójára, fenntartójára, valamint
 - d) az Egyetem oktatóira, tudományos kutatóira és más alkalmazottjaira, hallgatóira, támogatóira és az oda jelentkezőkre.
 
