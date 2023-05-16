@@ -223,7 +223,7 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 (3) Az 58. § az Alaptörvény 23. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
-17. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 44. § (1) bekezdésében a „valamint az állami projektértékelői jogviszony kivételével” szövegrész helyébe az „az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony kivételével” szöveg lép.
+#### 17. §
 
 #### 18. §
 
@@ -274,19 +274,11 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 lép.
 
-33. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 24. § (1) bekezdése a következő f) ponttal egészül ki:
+#### 33. §
 
-(Nem önálló tevékenység)
+#### 34. §
 
-„f) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony keretében végzett tevékenység,”
-
-34. § (1) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 40. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt a munkáltatói jogkör gyakorlójának engedélyével létesíthet.”
-
-(2) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 40. § (1) bekezdésében az „és a nevelőszülői foglalkoztatási jogviszony kivételével” szövegrész helyébe az „ , a nevelőszülői foglalkoztatási jogviszony és a (2) bekezdés szerinti jogviszony kivételével” szöveg lép.
-
-35. § Az atomenergiáról szóló 1996. évi CXVI. törvény 6/H. § (1) bekezdésében az „és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység)” szövegrész helyébe az „ , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység)” szöveg lép.
+#### 35. §
 
 #### 36. §
 
@@ -294,48 +286,19 @@ lép.
 
 #### 38. §
 
-39. § (1) A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 39. §
 
-(A törvény hatálya kiterjed)
+#### 40. §
 
-„b) az Egyetem által folytatott felsőoktatási tevékenységre, valamint az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, nemzetközi és európai közszolgálati felsőoktatásra, továbbá az ezekkel összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,”
+#### 41. §
 
-(2)
+#### 42. §
 
-(3)
+#### 43. §
 
-(4)
+#### 44. §
 
-(5)
-
-40. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 33. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A munkáltatói jogkört gyakorló miniszteri rendeletben meghatározottak szerint a szolgálati beosztáshoz kapcsolódóan idegennyelv-ismereti követelményt állapíthat meg, figyelemmel a honvédelmi szervezet feladatainak végrehajtására, különösen a nemzetközi kötelezettségvállalások teljesítésére, valamint a munkaköri leírásban rögzített és a beosztásban várható szolgálati feladatokra. Idegennyelv-ismereti követelmény megállapítása esetén a munkáltatói jogkört gyakorló meghatározza az idegen nyelvet, az idegennyelv-ismeret szintjét és típusát. A munkáltatói jogkört gyakorló szaknyelvi nyelvvizsga meglétét is előírhatja.”
-
-41. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 27/B. §-ában a „szakvizsgára történő” szövegrész helyébe a „szakvizsgára való” szöveg lép.
-
-42. § (1) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 109. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Vezetői beosztást betöltő személy az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt engedéllyel létesíthet.”
-
-(2) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 109. § (2) bekezdésében az „a (2a), illetve az (5) bekezdésben” szövegrész helyébe az „a (2a), az (5) és a (8) bekezdésben” szöveg lép.
-
-43. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
-
-- a) 9. § (8) bekezdés g) pontjában az „az állami projektértékelői jogviszony,” szövegrész helyébe az „az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony,” szöveg,
-- b) 198. § (1) bekezdés 23. pontjában az „az ilyen” szövegrész helyébe az „ezen” szöveg
-
-lép.
-
-44. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 18. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(Az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg)
-
-„e) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyból;”
-
-(származó jövedelmet juttató, a 3. § szerint adófizetésre kötelezett kifizető, a Tbj. szerint járulékalapot képező jövedelmet juttató külföldi kifizető. Az adó összegét természetes személy részére kiállított igazoláson nem tünteti fel. Amennyiben az adóalany természetes személy foglalkoztatására tekintettel kedvezményt vagy támogatást vesz igénybe, az Art. rendelkezései szerinti bevallási kötelezettségét úgy kell teljesítenie, hogy a bevallás adataiból a kedvezmény vagy támogatás jogcíme, alapja és a kedvezmény vagy támogatás összege személyenként megállapítható legyen.)
-
-45. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 50. § (1) bekezdésében a „valamint az állami projektértékelői jogviszony kivételével” szövegrész helyébe az „az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony kivételével” szöveg lép.
+#### 45. §
 
 #### 46. §
 
@@ -355,33 +318,18 @@ lép.
 
 54. § A Kit.
 
-- a) 95. § (5) bekezdésében az „és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység)” szövegrész helyébe az „ , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység)” szöveg,
+- a)
 - b)
-- c) 280. § (1) bekezdés 34. pontjában az „és az állami projektértékelői jogviszony.” szövegrész helyébe az „ , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony.” szöveg,
+- c)
 - d)
 
 lép.
 
-55. § A Küt.
+#### 55. §
 
-- a) 51. § (2) bekezdésében az „és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység)” szövegrész helyébe az „ , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység)” szöveg,
-- b) 103. § (1) bekezdés 4. pontjában az „és az állami projektértékelői jogviszony;” szövegrész helyébe az „ , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony;” szöveg
+#### 56. §
 
-lép.
-
-56. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 6. § (1) bekezdés j) pontjában az „állami projektértékelői jogviszonyban álló személy” szövegrész helyébe az „állami projektértékelői jogviszonyban, illetve az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyban álló személy” szöveg lép.
-
-57. § (1) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 90. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(A foglalkoztatott a munkáltatói jogkör gyakorlójának előzetes engedélye nélkül létesíthet, illetve folytathat)
-
-„d) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.”
-
-(2) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 90. § (3) bekezdése a következő c) ponttal egészül ki:
-
-(Vezetői munkakört betöltő foglalkoztatott a munkáltatói jogkör gyakorlójának előzetes engedélye nélkül létesíthet, illetve folytathat)
-
-„c) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.”
+#### 57. §
 
 #### 58. §
 
