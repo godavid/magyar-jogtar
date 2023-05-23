@@ -39,21 +39,21 @@ Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 - 15. elektronikus információs rendszer biztonsága: az elektronikus információs rendszer olyan állapota, amelyben annak védelme az elektronikus információs rendszerben kezelt adatok bizalmassága, sértetlensége és rendelkezésre állása, valamint az elektronikus információs rendszer elemeinek sértetlensége és rendelkezésre állása szempontjából zárt, teljes körű, folytonos és a kockázatokkal arányos;
 - 16. életciklus: az elektronikus információs rendszer tervezését, fejlesztését, üzemeltetését és megszüntetését magába foglaló időtartam;
 - 17. észlelés: a biztonsági esemény bekövetkezésének felismerése;
-- 17a. európai kiberbiztonsági tanúsítási rendszer: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti rendszer;
+- 17a.
 - 18. felhasználó: egy adott elektronikus információs rendszert igénybe vevők köre;
 - 19. fenyegetés: olyan lehetséges művelet vagy esemény, amely sértheti az elektronikus információs rendszer vagy az elektronikus információs rendszer elemei védettségét, biztonságát, továbbá olyan mulasztásos cselekmény, amely sértheti az elektronikus információs rendszer védettségét, biztonságát;
 - 20. fizikai védelem: a fizikai térben megvalósuló fenyegetések elleni védelem, amelynek fontosabb részei a természeti csapás elleni védelem, a mechanikai védelem, az elektronikai jelzőrendszer, az élőerős védelem, a beléptető rendszer, a megfigyelő rendszer, a tápáramellátás, a sugárzott és vezetett zavarvédelem, klimatizálás és a tűzvédelem;
 - 21. folytonos védelem: az időben változó körülmények és viszonyok között is megszakítás nélkül megvalósuló védelem;
 - 22. globális kibertér: a globálisan összekapcsolt, decentralizált, egyre növekvő elektronikus információs rendszerek, valamint ezen rendszereken keresztül adatok és információk formájában megjelenő társadalmi és gazdasági folyamatok együttese;
-- 22a. gyártó: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 12–14. pontjai szerinti IKT-termék, IKT-szolgáltatás, illetve IKT-folyamat gyártója vagy nyújtója;
+- 22a.
 - 23. honvédelmi célú elektronikus információs rendszer:
   - a) a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok zárt célú elektronikus információs rendszereinek, valamint egyéb – funkciója, rendeltetése, feladatellátása szerint – nyílt elektronikus információs rendszereinek összessége, amely ágazatspecifikus módon támogatja a honvédelmi ágazaton belüli és ágazatok közötti működést,
   - b) a honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló kormányrendelet alapján kijelölt ágazaton belüli honvédelmi létfontosságú rendszerelemek elektronikus információs rendszerei,
   - c) az illetékes ágazatban ki nem jelölt, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvényben meghatározott ágazaton kívüli honvédelmi rendszerelem elektronikus információs rendszerei, valamint
   - d) a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá eső szervek elektronikus információs rendszere;
-- 24. IKT-termék: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 12. pontja szerinti termék;
-- 24a. IKT-szolgáltatás: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 13. pontja szerinti szolgáltatás;
-- 24b. IKT-folyamat: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti folyamat;
+- 24.
+- 24a.
+- 24b.
 - 25. információ: bizonyos tényekről, tárgyakról vagy jelenségekről hozzáférhető formában megadott megfigyelés, tapasztalat vagy ismeret, amely valakinek a tudását, ismeretkészletét, annak rendezettségét megváltoztatja, átalakítja, alapvetően befolyásolja, bizonytalanságát csökkenti vagy megszünteti;
 - 26. kiberbiztonság: a kibertérben létező kockázatok kezelésére alkalmazható politikai, jogi, gazdasági, oktatási és tudatosságnövelő, valamint technikai eszközök folyamatos és tervszerű alkalmazása, amelyek a kibertérben létező kockázatok elfogadható szintjét biztosítva a kiberteret megbízható környezetté alakítják a társadalmi és gazdasági folyamatok zavartalan működéséhez és működtetéséhez;
 - 27. kibervédelem: a kibertérből jelentkező fenyegetések elleni védelem, ideértve a saját kibertér képességek megőrzését;
@@ -123,7 +123,7 @@ elektronikus információs rendszereinek védelmére.
 
 (5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(6) A III/A. Fejezetben foglaltakat az IKT-termék, IKT-szolgáltatás vagy IKT-folyamat tanúsításával kapcsolatos hatósági tevékenységre kell alkalmazni.
+(6)
 
 (7) E törvény rendelkezéseit
 
@@ -132,7 +132,7 @@ elektronikus információs rendszereinek védelmére.
 
 meghatározott eltérésekkel kell alkalmazni.
 
-(8) Az e törvényben szabályozott kiberbiztonsági tanúsításra, valamint a tanúsító szervezet tevékenységére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
+(8)
 
 (9) E törvény rendelkezéseit a poszt-kvantumtitkosítás vonatkozásában kizárólag a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetre kell alkalmazni.
 
@@ -525,93 +525,23 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 
 (2) Biztonsági esemény bejelentése bármely csatornán megvalósítható, ha a szervezet elektronikus információs rendszere oly mértékben sérül, hogy az elektronikus kapcsolattartás lehetetlenné válik.
 
-### III/A. Fejezet — A KIBERBIZTONSÁGI TANÚSÍTÁS
+### III/A. Fejezet
 
-#### 12/B. A tanúsító hatóság
+#### 12/B.
 
-22/B. § (1) Az (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti nemzeti kiberbiztonsági tanúsító hatóság (a továbbiakban: tanúsító hatóság) feladatait
+#### 22/B. §
 
-- a) – a b) pont kivételével – az SZTFH,
-- b) a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok tekintetében a Kormány által kijelölt hatóság
+#### 12/C.
 
-látja el.
+#### 22/C. §
 
-(2) A tanúsító hatóság eljárása során a sommás eljárás kizárt. Ha a hatósági eljárás lefolytatásához szakértő vagy a 19. § (1) bekezdése szerinti eseménykezelő központ bevonása szükséges, a tanúsító hatóság ügyintézési határideje 120 nap.
+#### 12/D.
 
-(3) A megfelelőségi önértékelést végző gyártó az uniós megfelelőségi nyilatkozat kiállítását követő 15 napon belül, nyilvántartásba vétel céljából megküldi az uniós megfelelőségi nyilatkozat másolati példányát a tanúsító hatóság részére.
+#### 22/D. §
 
-(4) Megfelelőségértékelési tevékenységet csak olyan szervezet végezhet, amelyet
+#### 12/E.
 
-- a) a vonatkozó európai kiberbiztonsági tanúsítási rendszerben és a miniszteri rendeletben meghatározott követelményekre figyelemmel a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv akkreditált vagy külföldi akkreditált státusz esetén e státuszát elismerte, valamint
-- b) a tanúsító hatóság nyilvántartásba vett.
-
-(5) A tanúsító hatóság a nemzeti akkreditáló szerv által akkreditált megfelelőségértékelő szervezetet a hatósági nyilvántartásba vételről szóló határozat véglegessé válásától számított 15 napon belül bejelenti a Bizottságnak. A kérelmező szervezet az akkreditált státuszát a nemzeti akkreditáló szerv határozatának csatolásával igazolja.
-
-(6) A tanúsító hatóság a megfelelőségértékelő szervezet vonatkozásában engedélyezési eljárást folytat le, amennyiben az IKT-termékre, IKT-szolgáltatásra vagy IKT-folyamatra vonatkozó európai kiberbiztonsági tanúsítási rendszer
-
-- a) konkrét vagy kiegészítő követelményeket ír elő és ez alapján engedélyezési eljárás lefolytatása válik szükségessé, vagy
-- b) „magas” megbízhatósági szintet ír elő a rendszer keretében kiadandó európai kiberbiztonsági tanúsítványra, és a tanúsító hatóság az ilyen tanúsítvány kiállításának feladatát egyes európai kiberbiztonsági tanúsítványok vonatkozásában vagy általános jelleggel átruházza megfelelőségértékelő szervezetre.
-
-(7) A (6) bekezdés b) pontja szerinti esetben az engedély megadásának feltétele, hogy a megfelelőségértékelő szervezet szerepeljen a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvényben meghatározott jegyzéken.
-
-(8) A (6) bekezdés szerinti engedély hatálya legfeljebb az akkreditált státusz lejártáig terjedhet.
-
-(9) A tanúsító hatóság a (6) bekezdés szerinti engedélyezési eljárás lefolytatása esetén a megfelelőségértékelő szervezetet az engedély megadásáról szóló határozat véglegessé válását követő 15 napon belül bejelenti az Európai Bizottságnak.
-
-(10) Az egyes tanúsító hatósági eljárásokért – az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint – igazgatási szolgáltatási díjat kell fizetni.
-
-(11) A tanúsító hatóság részt vesz az európai kiberbiztonsági tanúsítási csoport tevékenységében.
-
-#### 12/C. A nyilvántartás
-
-22/C. § (1) A tanúsító hatóság nyilvántartja és kezeli:
-
-- 1. az IKT-termékek, az IKT-szolgáltatások vagy az IKT-folyamatok gyártója által rendelkezésre bocsátott uniós megfelelőségi nyilatkozat adatait,
-- 2. az uniós megfelelőségi nyilatkozathoz benyújtott műszaki dokumentációt és az IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok tanúsítási rendszernek való megfelelésével kapcsolatos összes egyéb releváns információt,
-- 3. a nemzeti akkreditáló szerv által akkreditált megfelelőségértékelő szervezet és annak kijelölt kapcsolattartója azonosításához szükséges adatokat, valamint amennyiben a megfelelőségértékelő szervezet egyben közjogi szerv, ennek tényét,
-- 4. az akkreditált státuszra vonatkozó határozatban foglalt, valamint az akkreditált státusz változására vonatkozó információkat,
-- 5. amennyiben a 22/B. § (6) bekezdése szerinti engedélyezési eljárás lefolytatására szükség van, úgy az azzal kapcsolatos kérelmet, adatokat, dokumentumokat,
-- 6. az engedélyezési eljárás során kiadott engedélyre, annak felfüggesztésére, részbeni vagy egészben történő visszavonására vonatkozó adatokat, illetve annak tényét, hogy az engedély hatályát vesztette,
-- 7. ha a tanúsító hatóság a „magas” megbízhatósági szintű európai kiberbiztonsági tanúsítvány kiállításának jogát megfelelőségértékelő szervezetre átruházta, a delegált jogkör azonosításához szükséges adatokat,
-- 8. a Bizottság által a megfelelőségértékelő szervezet nyilvántartásba vételekor adott azonosító számot,
-- 9. a megfelelőségértékelő szervezet által igénybe vett közreműködő, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
-- 10. ha a Kiberbiztonsági jogszabály szerinti „magas” megbízhatósági szintű európai kiberbiztonsági tanúsítványt a tanúsító hatóság adja ki
-  - a) a tanúsítvány kiadása iránti kérelmet és az ahhoz benyújtott dokumentumokat, valamint a tanúsítvány jogosultjának és kapcsolattartójának azonosításához szükséges adatokat,
-  - b) a kiadott „magas” megbízhatósági szintű európai kiberbiztonsági tanúsítvány adatait, illetve a kiadott engedély hatályának korlátozására, felfüggesztésére, visszavonására vonatkozó adatokat,
-- 11. a megfelelőségértékelő szervezet által kiadott tanúsítvány, illetve a tanúsított IKT-termék, IKT-szolgáltatás vagy IKT-folyamat azonosításához szükséges adatokat,
-- 12. a gyártó, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
-- 13. a megfelelőségértékelő szervezet tájékoztatását a tanúsítvány kiállításának megtagadásáról, hatályának korlátozásáról vagy felfüggesztéséről, és a tanúsítvány visszavonásáról,
-- 14. a tanúsított IKT-termék, IKT-szolgáltatás vagy IKT-folyamat biztonságát érintő, utólag észlelt sebezhetőséggel vagy rendellenességgel kapcsolatos információt,
-- 15. a felügyeleti tevékenység során tudomására jutott adatokat, dokumentumokat,
-- 16. a benyújtott panaszokkal kapcsolatos adatokat, dokumentumokat.
-
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés 6. és 7. pontjában, valamint 10. pont b) alpontjában meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül.
-
-(3) Az (1) bekezdésben meghatározott adatok kezelésének célja a tanúsított IKT-termékkel, IKT-szolgáltatással vagy IKT-folyamattal kapcsolatos tanúsító hatósági tevékenység ellátása.
-
-(4) Az (1) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – az alábbi szervek részére végezhető adattovábbítás:
-
-- a) a Bizottság részére a bejelentett megfelelőségértékelő szervezetek jegyzékének összeállítása, frissítése,
-- b) a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv részére a megfelelőségértékelő szervezetek tevékenységének akkreditációjával és felügyeletével kapcsolatos feladatok ellátása, valamint
-- c) a 19. § (1) és (2) bekezdése szerinti eseménykezelő központok részére a tanúsított IKT-termék, IKT-szolgáltatás vagy IKT-folyamat biztonságát érintő, utólag észlelt sebezhetőséggel vagy rendellenességgel kapcsolatos tevékenység ellátása
-
-érdekében.
-
-(5) A megfelelőségértékelő szervezet, illetve a gyártó az (1) bekezdés szerinti adatokat és azok változásait 8 napon belül megküldi a tanúsító hatóság részére a nyilvántartásba vétel érdekében.
-
-#### 12/D. Szankciók
-
-22/D. § Ha a tanúsító hatóság tudomására jut, illetve az ellenőrzése során megállapítja, hogy a megfelelőségértékelő szervezet, illetve a gyártó a vonatkozó európai uniós és magyar jogszabályokban foglalt követelményeket és a kapcsolódó eljárási szabályokat nem teljesíti, vagy nem tartja be,
-
-- a) a figyelmeztetést tartalmazó döntésében határidő tűzésével felszólítja a megfelelőségértékelő szervezetet, illetve a gyártót a vonatkozó uniós és magyar jogszabályokban foglalt követelmények és a kapcsolódó eljárási szabályok teljesítésére,b) ha az a) pontban meghatározottak ellenére a szervezet a jogszabályban foglalt biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályokat nem teljesíti, az eset összes körülményeinek mérlegelésével kormányrendeletben meghatározottak szerint bírságot szabhat ki, amely további nem teljesülés esetén megismételhető.
-
-#### 12/E. Adatvédelmi rendelkezések
-
-22/E. § (1) A tanúsító hatóság a feladatellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével jogosult kezelni. A feladatellátáshoz kapcsolódóan rögzített adatokat a megfelelőségértékelő szervezet akkreditált státuszának megszűnését követő 10. év utolsó napjáig, a gyártó által kiadott uniós megfelelőségi nyilatkozat hatályosságának megszűnését követő 10. év utolsó napjáig jogosult kezelni. Ezt követően köteles azt az elektronikus információs rendszereiből és adathordozóiról törölni.
-
-(2) A hatóság eljárása során keletkezett adatok – ha törvény eltérően nem rendelkezik – nem nyilvánosak.
-
-(3) A tanúsító hatóság munkatársait az (1) bekezdés szerint megismert adatok tekintetében – a jogszabályban meghatározott kivételekkel – írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig, minősített adatok tekintetében azok érvényességi idejének végéig, személyes adatok tekintetében pedig időkorlát nélkül fennmarad.
+#### 22/E. §
 
 ### III/B. Fejezet — A POSZT-KVANTUMTITKOSÍTÁS ALKALMAZÁSÁNAK SZABÁLYAI
 
@@ -663,7 +593,7 @@ látja el.
 24. § (1) Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
 - a) a hatóság feladatának részletes szabályait, a hatósági ellenőrzés lefolytatásának részletes eljárási szabályait,
-- b) a hatóság, valamint a tanúsító hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
+- b) a hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
 - c) az információbiztonsági felügyelő kirendelésének szabályait, feladatkörét és eljárásának rendjét,
 - d) a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
 - e) az eseménykezelő központot, annak feladat- és hatáskörét, valamint feladatai ellátásának részletes szabályait,
@@ -676,29 +606,25 @@ látja el.
 - l) a 16. § (1) bekezdése szerinti független, képesített ellenőr igénybevételével kapcsolatos eljárásrendet,
 - m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
 - n) a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a hatóság 14. § (2) bekezdése, valamint a 20. § (1) bekezdése szerinti feladatait, továbbá a sérülékenység vizsgálat, illetve a biztonsági esemény vizsgálat részletes szabályait.
-- o) a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
-- p) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat.
+- o)
+- p)
 - q)
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
 
-(1b) Felhatalmazást kap a Kormány, hogy kijelölje a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóságot.
+(1b)
 
 (2) Felhatalmazást kap
 
 - a) az e-közigazgatásért felelős miniszter, hogy az informatikáért felelős miniszterrel és a minősített adatok védelmének szakmai felügyeletéért felelős miniszterrel egyetértésben – az SZTFH elnöke véleményének kikérésével – az 5. § és 6. §-ban előírt technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre vonatkozó követelményeket, továbbá a 7. § és 8. § szerinti biztonsági osztályba sorolás és a szervezetek 9. § és 10. § szerinti biztonsági szintbe sorolásának követelményeit,
 - b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
 - c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét
-- d) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-- e) a honvédelemért felelős miniszter, hogy a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségértékelő szervezet által teljesítendő követelményeket
+- d)
+- e)
 
 rendeletben határozza meg.
 
-(3) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
-
-- a) a 22/B. § (1) bekezdés a) pontja szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
-- b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
-- c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségértékelő szervezetek által teljesítendő követelményeket.
+(3)
 
 (4) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
 
@@ -757,7 +683,7 @@ kell számítani.
 
 29. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-30. § Ez a törvény az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+#### 30. §
 
 ### 1. melléklet a 2013. évi L. törvényhez
 
