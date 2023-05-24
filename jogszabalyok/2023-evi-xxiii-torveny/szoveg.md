@@ -420,77 +420,42 @@ határozza meg.
 38. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény
 
 - a)
-- b) 1. § (1) bekezdés 17a., 22a. és 24–24b. pontja,
+- b)
 - c)
-- d) 2. § (6) és (8) bekezdése,
-- e) III/A. Fejezete,
-- f) 24. § (1) bekezdés b) pontjában a „ , valamint a tanúsító hatóság” szövegrész,
-- g) 24. § (1) bekezdés o) és p) pontja,
-- h) 24. § (1b) bekezdése,
-- i) 24. § (2) bekezdés d) és e) pontja,
-- j) 24. § (3) bekezdése,
-- k) 30. §-a.
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
+- k)
 
-39. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 1. § (1) bekezdése a következő h) ponttal egészül ki:
-
-[A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)]
-
-„h) nemzeti kiberbiztonsági tanúsítással”
-
-[kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.]
+#### 39. §
 
 #### 40. §
 
-41. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 3. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.”
+#### 41. §
 
 #### 42. §
 
-43. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 5. § (2a) bekezdése helyébe a következő rendelkezés lép:
+#### 43. §
 
-„(2a) A Hatóság a 3. § (6) bekezdése szerinti feladatkörében lefolytatott hatósági eljárásaiban az Ákr. rendelkezéseit az e törvényben, a fogyasztóvédelemről szóló törvényben, a termékek piacfelügyeletéről szóló törvényben és a Kibertan.tv.-ben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.”
+#### 44. §
 
-44. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 5/A. §-a helyébe a következő rendelkezés lép:
-
-„5/A. § A Hatóság a 3. § (6) bekezdése szerinti, nemzeti kiberbiztonsági tanúsító hatósági feladatkörében az ellenőrzés eredményeként a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével – a termékek piacfelügyeletéről szóló törvényben és a Kibertan.tv.-ben foglaltakon túl – a következő jogkövetkezményeket is alkalmazhatja:
-
-- a) kötelezheti a gyártót az uniós és a nemzeti megfelelőségi nyilatkozat módosítására vagy visszavonására,
-- b) a megfelelőségértékelő szervezet tanúsítványkibocsátási jogát részben vagy teljeskörűen felfüggesztheti vagy visszavonhatja,
-- c) a megfelelőségértékelő szervezetet törölheti a nyilvántartásból,
-- d) az engedélyköteles tevékenység végzésére vonatkozó engedélyt módosíthatja vagy visszavonhatja,
-- e) az érintett termék, szolgáltatás vagy folyamat vonatkozásában elrendelheti a tanúsításra utaló kifejezés, jelölés használatával történő forgalmazás, nyújtás, reklámozás korlátozását vagy megtiltását,
-- f) az érintett termék, szolgáltatás vagy folyamat vonatkozásában elrendelheti a megfelelőségi jelölés eltávolíttatását, valamint
-- g) az uniós vagy a nemzeti kiberbiztonsági tanúsítvány hatályát korlátozhatja, felfüggesztheti vagy visszavonhatja.”
-
-45. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 6/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Hatóság a bányafelügyeleti, a szerencsejáték-felügyeleti, a dohánytermék-kiskereskedelem felügyeletével kapcsolatos, valamint a kiberbiztonsági tanúsítással kapcsolatos hatósági feladatokat ellátó személy részére e minősége igazolására szolgálati igazolványt (a továbbiakban: igazolvány) állít ki.”
+#### 45. §
 
 #### 46. §
 
-47. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § q) pontja helyébe a következő rendelkezés lép:
-
-(A Hatóság elnöke)
-
-„q) megállapítja – a Kibertan.tv. 4. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével – a Kibertan.tv. szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat, továbbá meghatározza – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a nemzeti kiberbiztonsági tanúsítási rendszereket,”
+#### 47. §
 
 #### 48. §
 
 #### 49. §
 
-50. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 36/A. §-a helyébe a következő rendelkezés lép:
+#### 50. §
 
-„36/A. § (1) Az 1. § (1) bekezdés h) pontja, a 3. § (6) bekezdése, az 5. § (2a) bekezdése, az 5/A. § és a 13. § q) pontja az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) szóló, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(2) Ez a törvény az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-51. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény
-
-- a) 1. § (1) bekezdés f) pontjában a „nyilvántartásba vételével, valamint” szövegrész helyébe a „nyilvántartásba vételével,” szöveg,
-- b) 1. § (1) bekezdés g) pontjában az „és szabályozásával” szövegrész helyébe az „és szabályozásával, valamint” szöveg
-
-lép.
+#### 51. §
 
 ### 1. melléklet a 2023. évi XXIII. törvényhez
 
