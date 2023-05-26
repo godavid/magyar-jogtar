@@ -452,7 +452,7 @@ szerepelhet a nemzetiségi névjegyzékben.
 
 (2) Az országos nemzetiségi önkormányzat a nemzetiség adott településen való honosságának vizsgálata során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását.
 
-(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választás évében a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
+(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
 
 (4) A területi nemzetiségi önkormányzati képviselők választását ki kell tűzni, ha a fővárosban, vármegyében kitűzött települési választások száma legalább tíz.
 
@@ -698,9 +698,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### A nemzetiségi önkormányzat működése
 
-87. § (1) A nemzetiségi önkormányzat testületének alakuló ülését az illetékes választási bizottság elnöke a választást követő tizenöt, országos nemzetiségi önkormányzat esetében harminc napon belüli időpontra hívja össze.
+87. § (1) A nemzetiségi önkormányzat testületének alakuló ülését az illetékes választási bizottság elnöke a választás eredményének jogerőre emelkedését követő tizenöt, országos nemzetiségi önkormányzat esetében harminc napon belüli időpontra hívja össze.
 
-(2) Az alakuló ülés összehívására legfeljebb további két ízben, a választás napjától számított harminc, országos nemzetiségi önkormányzat esetében negyvenöt napon belüli időpontra kerülhet sor.
+(2) Az alakuló ülés összehívására legfeljebb további két ízben, a választás eredményének jogerőre emelkedésétől számított harminc, országos nemzetiségi önkormányzat esetében negyvenöt napon belüli időpontra kerülhet sor.
 
 (3) Ha az alakuló ülés határidőben nem kerül megtartásra, időközi választást kell kitűzni.
 

@@ -105,17 +105,15 @@ jelöltnek ajánlott.
   - ca) a nemzetiség képviseletét vállalja,
   - cb) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
 
-10. § (1) A 10 000-nél több lakosú településen kompenzációs listát az a jelölő szervezet állíthat, amely a település egyéni választókerületeinek több mint felében jelöltet állított.
+10. § (1) A 10 000-nél több lakosú településen kompenzációs listát az a jelölő szervezet állíthat, amely a település egyéni választókerületeinek legalább kétharmadában jelöltet állított.
 
-(2) Fővárosi kompenzációs listát az a jelölő szervezet állíthat, amely a fővárosi kerületek több mint felében polgármesterjelöltet állított.
+(2) Fővárosi kompenzációs listát az a jelölő szervezet állíthat, amely a fővárosi kerületek legalább kétharmadában polgármesterjelöltet állított.
 
-(2a) A fővárosi kompenzációs listán a fővárosi kompenzációs listát állító jelölő szervezet a fővárosi kerületi polgármesterjelöltjeit és a főpolgármester-jelöltjét állítja jelöltként. A közös fővárosi kompenzációs listán a közös fővárosi kompenzációs listát állító jelölő szervezetek a közös jelöltként állított fővárosi kerületi polgármesterjelölteket és a közös főpolgármester-jelöltet állítják jelöltként.
+(3) A fővárosi kompenzációs listán legfeljebb háromszor annyi jelölt szerepelhet, mint a fővárosi kompenzációs listán megszerezhető mandátumok száma.
 
-(3) A listaindítás jogát nem érinti, ha a nyilvántartásba vett egyéni választókerületi jelölt visszalépett vagy kiesett.
+11. § (1) Azok a jelölő szervezetek, amelyek az egyéni választókerületek legalább kétharmadában közös egyéni jelöltet állítottak, közös kompenzációs listát állíthatnak.
 
-11. § (1) Azok a jelölő szervezetek, amelyek az egyéni választókerületek több mint felében közös egyéni jelöltet állítottak, közös kompenzációs listát állíthatnak.
-
-(2) Azok a jelölő szervezetek, amelyek a fővárosi kerületek több mint felében közös polgármesterjelöltet állítottak, közös fővárosi kompenzációs listát állíthatnak.
+(2) Azok a jelölő szervezetek, amelyek a fővárosi kerületek legalább kétharmadában közös polgármesterjelöltet állítottak, közös fővárosi kompenzációs listát állíthatnak.
 
 (3) Azok a jelölő szervezetek, amelyek a vármegyei választókerületben lévő települések választópolgárai 1%-ának, de legalább 2000 választópolgár közös ajánlását összegyűjtötték, közös vármegyei listát állíthatnak.
 
@@ -226,6 +224,8 @@ jelöltnek ajánlott.
 (4) Ha az egyéni listás választáson az e törvényben meghatározottnál kevesebb képviselőt választanak meg, a be nem töltött képviselői helyekre időközi választást kell kitűzni.
 
 (5) Ha az egyéni választókerületi képviselő vagy a polgármester, főpolgármester megbízatása megszűnik, időközi választást kell kitűzni.
+
+(5a) Ha jelölő szervezet jelöltjeként indult egyéni választókerületi képviselő megbízatása szűnik meg és az időközi választás nem tűzhető ki, a mandátumot a jelölő szervezet − közös kompenzációs lista esetén az érintett jelölő szervezetek − által a kompenzációs listán szereplő jelöltek közül megnevezett jelölt, ennek hiányában a kompenzációs listán soron következő jelölt szerzi meg.
 
 (6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
 

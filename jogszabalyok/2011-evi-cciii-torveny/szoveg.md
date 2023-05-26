@@ -2,7 +2,21 @@
 
 az országgyűlési képviselők választásáról
 
-Az Országgyűlés– alapozva Magyarország népképviseleten alapuló törvényhozási hagyományaira;– garantálva, hogy hazánkban a közhatalom forrása a nép, amely hatalmát elsősorban választott képviselői útján, a választók akaratának szabad kifejezését biztosító választáson gyakorolja;– biztosítva a választópolgárok jogát az általános és egyenlő választójoghoz, továbbá a közvetlen és titkos szavazáshoz;– tekintettel arra, hogy a pártok közreműködnek a nép akaratának kialakításában és kinyilvánításában;– elismerve, hogy a Magyarországon élő nemzetiségek államalkotó tényezők, és Alaptörvényben biztosított joguk az Országgyűlés munkájában való részvétel;– garantálva továbbá, hogy a határainkon kívül élő magyar állampolgárok a politikai közösség részesei;az Alaptörvény végrehajtására, az Alaptörvény XXIII. cikk (1), (4) és (6) bekezdése és 2. cikk (1) és (2) bekezdése alapján, a magyar országgyűlési képviselők választásának anyagi jogi szabályairól a következő törvényt alkotja.
+Az Országgyűlés
+
+– alapozva Magyarország népképviseleten alapuló törvényhozási hagyományaira;
+
+– garantálva, hogy hazánkban a közhatalom forrása a nép, amely hatalmát elsősorban választott képviselői útján, a választók akaratának szabad kifejezését biztosító választáson gyakorolja;
+
+– biztosítva a választópolgárok jogát az általános és egyenlő választójoghoz, továbbá a közvetlen és titkos szavazáshoz;
+
+– tekintettel arra, hogy a pártok közreműködnek a nép akaratának kialakításában és kinyilvánításában;
+
+– elismerve, hogy a Magyarországon élő nemzetiségek államalkotó tényezők, és Alaptörvényben biztosított joguk az Országgyűlés munkájában való részvétel;
+
+– garantálva továbbá, hogy a határainkon kívül élő magyar állampolgárok a politikai közösség részesei;
+
+az Alaptörvény végrehajtására, az Alaptörvény XXIII. cikk (1), (4) és (6) bekezdése és 2. cikk (1) és (2) bekezdése alapján, a magyar országgyűlési képviselők választásának anyagi jogi szabályairól a következő törvényt alkotja.
 
 #### 1. Értelmező rendelkezések
 
@@ -167,6 +181,8 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 (2) Az időközi választást az országgyűlési képviselők megelőző általános választásán alkalmazott választókerületi beosztás szerint kell megtartani.
 
+(3) Ha párt jelöltjeként indult egyéni választókerületi képviselő megbízatása szűnik meg és az időközi választás nem tűzhető ki, a mandátumot a párt − közös pártlista esetén az érintett pártok − által az országos listán szereplő jelöltek közül megnevezett jelölt, ennek hiányában az országos listán soron következő jelölt szerzi meg.
+
 20. § (1) Az országos listán mandátumhoz jutott képviselő megbízatásának megszűnése esetén a mandátumot – az országos listán eredetileg is szereplő jelöltek közül – a párt (közös pártlista esetén az érintett pártok) vagy az országos nemzetiségi önkormányzat által megnevezett, ennek hiányában az országos listán soron következő jelölt szerzi meg.
 
 (2) Ha az országos listán nincs több jelölt, a mandátum betöltetlen marad.
@@ -191,7 +207,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 25. § E törvény – ideértve a mellékleteit is – az Alaptörvény XXIII. cikk (4) bekezdése és 2. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-26. §
+#### 26. §
 
 ### 1. számú melléklet a 2011. évi CCIII. törvényhez
 
