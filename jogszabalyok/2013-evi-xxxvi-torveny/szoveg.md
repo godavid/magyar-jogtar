@@ -124,9 +124,9 @@ számított százhúsz napon belülre kell kitűzni.
 
 (2) Nem lehet kitűzni
 
-- a) az országgyűlési képviselők időközi választását az országgyűlési képviselők általános választása évének január 1. napja és az országgyűlési képviselők általános választásának napja,
-- b) a helyi önkormányzati képviselők és polgármesterek időközi választását a helyi önkormányzati képviselők és polgármesterek általános választása évét megelőző év december 1. napja és a helyi önkormányzati képviselők és polgármesterek általános választásának napja,
-- c) a nemzetiségi önkormányzati képviselők időközi választását a nemzetiségi önkormányzati képviselők általános választása évét megelőző év december 1. napja és a nemzetiségi önkormányzati képviselők általános választásának napja
+- a) az országgyűlési képviselők időközi választását az országgyűlési képviselők általános választása évét megelőző év április 1. napja és az országgyűlési képviselők általános választásának napja,
+- b) a helyi önkormányzati képviselők és polgármesterek időközi választását a helyi önkormányzati képviselők és polgármesterek általános választása évét megelőző év április 1. napja és a helyi önkormányzati képviselők és polgármesterek általános választásának napja,
+- c) a nemzetiségi önkormányzati képviselők időközi választását a nemzetiségi önkormányzati képviselők általános választása évét megelőző év április 1. napja és a nemzetiségi önkormányzati képviselők általános választásának napja
 
 közötti napra.
 
@@ -362,9 +362,9 @@ bízzák meg.
 
 (2) A választási bizottság megbízott tagját – a 27. § (1) bekezdése kivételével – legkésőbb a szavazás napját megelőző kilencedik napon lehet bejelenteni.
 
-(3) A bejelentés tartalmazza a megbízó nevét, a megbízott tag nevét, magyarországi lakcímét és személyi azonosítóját, valamint a választási bizottság megjelölését.
+(3) A bejelentés tartalmazza a megbízó nevét, a megbízott tag nevét és személyi azonosítóját, valamint a választási bizottság megjelölését.
 
-(4) A szavazatszámláló bizottság, valamint az egy szavazókörös településen a helyi választási bizottság megbízott tagjának bejelentését személyesen a helyi választási iroda fekvése szerint illetékes országgyűlési egyéni választókerületi választási iroda vezetőjénél is be lehet nyújtani a (2) bekezdésben foglalt határidő lejártáig. A bejelentést az országgyűlési egyéni választókerületi választási iroda vezetője legkésőbb a benyújtást követő napon az érintett szavazatszámláló bizottság, helyi választási bizottság működési területe szerint illetékes helyi választási iroda vezetőjének továbbítja.
+(4) A szavazatszámláló bizottság, valamint az egy szavazókörös településen a helyi választási bizottság megbízott tagjának bejelentését személyesen vagy meghatalmazott útján a helyi választási iroda fekvése szerint illetékes országgyűlési egyéni választókerületi választási iroda vezetőjénél is be lehet nyújtani a (2) bekezdésben foglalt határidő lejártáig. A bejelentést az országgyűlési egyéni választókerületi választási iroda vezetője legkésőbb a benyújtást követő napon az érintett szavazatszámláló bizottság, helyi választási bizottság működési területe szerint illetékes helyi választási iroda vezetőjének továbbítja.
 
 31. § A megbízott tag választójogát a választási iroda ellenőrzi.
 
@@ -416,7 +416,7 @@ tart.
 
 címzett, a választási iroda vezetőjéhez benyújtott írásbeli nyilatkozattal mondhat le megbízatásáról. A lemondás nem vonható vissza. A megbízatás a nyilatkozat átvételének napján szűnik meg.
 
-(4) A megbízatás (1) bekezdés a) és c)–f) pontja szerinti megszűnését a választási bizottság elnöke a bizottság soron következő ülésén bejelenti. A megbízatás megszűnését a bizottság jegyzőkönyvbe foglalt döntéssel tudomásul veszi.
+(4) A megbízatás (1) bekezdés a) és c)–f) pontja szerinti megszűnését a választási bizottság elnöke a bizottság soron következő ülésén bejelenti.
 
 (5) E § rendelkezéseit a póttagokra is alkalmazni kell.
 
@@ -750,7 +750,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (2) A választási iroda tagjának megbízatását a választási iroda vezetője indokolás nélkül visszavonhatja.
 
-68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott, továbbá a székhelye szerinti polgármesteri vagy közös önkormányzati hivatal, illetve megyei önkormányzati hivatal munkavállalója bízható meg.
+68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott, továbbá a székhelye szerinti polgármesteri vagy közös önkormányzati hivatal, illetve vármegyei önkormányzati hivatal munkavállalója bízható meg.
 
 (2) A külképviseleti választási iroda vezetőjét és többi tagját a Nemzeti Választási Iroda elnöke bízza meg. A külképviseleti választási iroda tagjává a diplomáciai képviselet személyzetének, illetőleg a konzuli személyzet magyar állampolgár tagját is meg lehet bízni.
 
@@ -939,7 +939,7 @@ bejegyzését a központi névjegyzékbe, illetve a bejegyzés törlését.
 
 89. § (1) A választópolgár jogosult megtiltani, hogy a választási szervek a róla nyilvántartott adatokat a 153. § szerint kiadják.
 
-(2) A kérelemben a választópolgár a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti, az adatainak szolgáltatását korlátozó vagy tiltó nyilatkozatot is tehet.
+(2)
 
 #### 44. A választópolgárok tájékoztatása
 
@@ -1906,16 +1906,16 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 211. § A szavazatszámláló bizottság tevékenysége és döntése ellen – a szavazóköri eredményt megállapító döntés kivételével – kifogást lehet benyújtani.
 
-212. § (1) A kifogást írásban – személyesen, levélben, telefaxon vagy elektronikus levélben eljuttatva – lehet benyújtani.
+212. § (1) A kifogást írásban lehet benyújtani.
 
 (2) A kifogásnak tartalmaznia kell
 
 - a) a jogszabálysértés megjelölését,
-- b) a jogszabálysértés bizonyítékait,
-- c) a kifogás benyújtójának nevét, lakcímét (székhelyét) és – ha a lakcímétől (székhelyétől) eltér – postai értesítési címét,
-- d) a kifogás benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló hatósági igazolványának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba-vételi számát.
+- b) a jogszabálysértés bizonyítékait és
+- c) a kifogás benyújtójának nevét, lakcímét (székhelyét),
+- d) a kifogás benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló hatósági igazolványának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba vételi számát.
 
-(3) A kifogás tartalmazhatja benyújtójának telefaxszámát vagy elektronikus levélcímét, illetve kézbesítési megbízottjának nevét és telefaxszámát vagy elektronikus levélcímét.
+(3) A kifogás tartalmazhatja benyújtójának elektronikus levélcímét vagy postai értesítési címét.
 
 #### 95. A kifogás áttétele
 
@@ -1959,13 +1959,13 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 - a) megállapítja a jogszabálysértés tényét,
 - b) a jogsértőt eltiltja a további jogszabálysértéstől,
 - c) a választási eljárást vagy annak a jogorvoslattal érintett részét megsemmisíti és megismételteti,
-- d) a választási kampány szabályainak megsértése, illetve a 124. § (2) bekezdésében és a 155. §-ban foglalt kötelezettség megszegése esetén bírságot is kiszabhat.
+- d) a választási kampány szabályainak megsértése, illetve a 155. §-ban foglalt kötelezettség megszegése esetén bírságot is kiszabhat.
 
 219. § (1) A választási bizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát és területi kiterjedtségét, a jogsértés ismétlődő jellegét – veszi figyelembe. A bírság összegének megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
 
 (2) A bírság legmagasabb összege természetes személy esetén a kötelező legkisebb munkabér havi összegének ötszöröse, egyébként a kötelező legkisebb munkabér havi összegének tizenötszöröse.
 
-(3) A bírság, ha azt a kötelezett az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a Nemzeti Választási Iroda megkeresésére az állami adóhatóság szed be.
+(3) Ha a kötelezett a bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, a Nemzeti Választási Iroda – önkéntes teljesítésre való felhívásban foglalt határidő eredménytelen elteltét követően – a bírság fennmaradó összegének adók módjára behajtandó köztartozásként történő behajtása érdekében megkeresi az állami adóhatóságot.
 
 220. § Ha a választási bizottság a kifogásnak nem ad helyt, azt elutasítja.
 
@@ -1985,7 +1985,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 #### 99. A fellebbezés és a bírósági felülvizsgálati kérelem benyújtása
 
-223. § (1) A fellebbezést személyesen, levélben, telefaxon vagy elektronikus levélben, a bírósági felülvizsgálati kérelmet személyesen vagy levélben, illetve olyan elektronikus dokumentumként lehet benyújtani, amelyet a kérelem benyújtójának jogi képviselője vagy a 224. § (5) bekezdésben meghatározott esetben a kérelem benyújtója minősített elektronikus aláírásával látott el. Ha a bírósági felülvizsgálat iránti kérelmet elektronikus dokumentumként nyújtja be, annak mellékleteit a kérelmező oldalhű másolatban elektronikus okirati formába alakítja.
+223. § (1) A fellebbezést írásban, a bírósági felülvizsgálati kérelmet személyesen vagy levélben, illetve olyan elektronikus dokumentumként lehet benyújtani, amelyet a kérelem benyújtójának jogi képviselője vagy a 224. § (5) bekezdésben meghatározott esetben a kérelem benyújtója minősített elektronikus aláírásával látott el. Ha a bírósági felülvizsgálat iránti kérelmet elektronikus dokumentumként nyújtja be, annak mellékleteit a kérelmező oldalhű másolatban elektronikus okirati formába alakítja.
 
 (2) Nem nyújthat be fellebbezést és bírósági felülvizsgálati kérelmet az ügyben eljárt választási bizottság és annak tagja.
 
@@ -2004,7 +2004,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 - b) a kérelem benyújtójának nevét, lakcímét (székhelyét) és – ha a lakcímétől (székhelyétől) eltér – postai értesítési címét,
 - c) a kérelem benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló igazolványának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba-vételi számát.
 
-(4) A fellebbezés, illetve a bírósági felülvizsgálati kérelem tartalmazhatja benyújtójának telefaxszámát vagy elektronikus levélcímét, illetve kézbesítési megbízottjának nevét és telefaxszámát vagy elektronikus levélcímét.
+(4) A fellebbezés, illetve a bírósági felülvizsgálati kérelem tartalmazhatja benyújtójának elektronikus levélcímét vagy postai értesítési címét.
 
 (5) A bírósági felülvizsgálati eljárásban az ügyvédi képviselet kötelező. A jogi szakvizsgával rendelkező személy – a szakvizsga-bizonyítvány egyszerű másolatának csatolásával – saját ügyében ügyvédi képviselet nélkül is eljárhat.
 
@@ -2022,9 +2022,11 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 (1a) A választási bizottság a fellebbezés benyújtásától számított tizenöt napon belül dönt, ha a kérelem nem olyan választáshoz kapcsolódik, amelynek kitűzése már megtörtént, de a választás eredménye még nem emelkedett jogerőre.
 
-(2) A bírósági felülvizsgálat iránti kérelemről a bíróság legkésőbb a beérkezésétől számított harmadik napon dönt. A bírósági eljárásban a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni.
+(2) A bírósági felülvizsgálat iránti kérelemről a bíróság legkésőbb a beérkezésétől számított harmadik napon dönt. A bírósági eljárásban a közigazgatási perrendtartásról szóló törvény rendelkezéseit kell – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni.
 
-229. § (1) A bírósági felülvizsgálati kérelmet Kúria bírálja el. A Nemzeti Választási Bizottság határozata ellen benyújtott bírósági felülvizsgálati kérelmet a Kúria bírálja el.
+(3) A bíróság a felülvizsgálati kérelem beérkezésétől számított tizenöt napon belül dönt, ha a kérelem nem olyan választáshoz kapcsolódik, amelynek kitűzése már megtörtént, de a választás eredménye még nem emelkedett jogerőre.
+
+229. § (1) A bírósági felülvizsgálati kérelmet a Kúria bírálja el.
 
 (2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
 
@@ -2064,7 +2066,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 - b) azzal, akire a határozat jogot vagy kötelezettséget keletkeztet vagy származtat, és
 - c) azokkal, akikkel a másodfokú határozatot közölték.
 
-(4) A bíróság a határozatát – a személyes adatok kivételével – nyilvánosságra hozza. A határozatban nyilvánosságra hozható a jelölt és a jelölő szervezet neve.
+(4) A bíróság a határozatát – a személyes adatok kivételével – nyilvánosságra hozza. A határozatban nyilvánosságra kell hozni a jelölt és a jelölő szervezet nevét.
 
 (5) A bíróság határozata ellen további jogorvoslatnak helye nincs.
 
@@ -2075,6 +2077,8 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 (2) Az Alkotmánybíróság az e törvény alapján, a választási szerv határozatával kapcsolatos jogorvoslati eljárásban hozott bírói döntés elleni alkotmányjogi panaszról az Alkotmánybíróságról szóló 2011. évi CLI. törvény 56. §-a szerint a beérkezésétől számított három munkanapon belül, a befogadott alkotmányjogi panaszról további három munkanapon belül dönt.
 
 (3) Az e törvény alapján, a választási szerv határozatával kapcsolatos jogorvoslati eljárásban hozott bírói döntés elleni alkotmányjogi panasszal kapcsolatos eljárás során az Alkotmánybíróságról szóló 2011. évi CLI. törvény 30. § (2), (3) és (5) bekezdése, 55. § (3) bekezdése, 57. § (1)–(1f) és (7) bekezdése, 58. § (1) bekezdése és 60. §-a nem alkalmazható.
+
+(4) Az (1)–(3) bekezdés rendelkezéseit nem kell alkalmazni, ha a kérelem nem olyan választáshoz kapcsolódik, amelynek kitűzése már megtörtént, de a választás eredménye a választási szerv határozatának meghozatalakor még nem emelkedett jogerőre.
 
 #### 101. A szavazókörök kialakításával és felülvizsgálatával kapcsolatos jogorvoslat
 
@@ -2143,6 +2147,8 @@ hivatkozással lehet fellebbezést benyújtani.
 (2) Ha a Nemzeti Választási Bizottság eljárási kötelességének határidőn belül nem tesz eleget, a Kúria az erre irányuló kifogás megérkezésétől számított három napon belül megállapítja a jogszabálysértés tényét, és a Nemzeti Választási Bizottságot az eljárás soron kívüli lefolytatására utasítja.
 
 (3) Ha a Nemzeti Választási Bizottság a Kúria (2) bekezdés szerinti utasítását követő két napon belül nem tesz eleget a választás eredményének megállapítására vonatkozó kötelezettségének, a Kúria a jegyzőkönyvek alapján két napon belül megállapítja a választás eredményét. A Kúria döntése elleni alkotmányjogi panaszra a 233. § rendelkezéseit kell megfelelően alkalmazni.
+
+(4) Az (1) és (2) bekezdésben foglalt határidők tekintetében a 214. § (3) bekezdése, valamint a 228. § (1a) és (3) bekezdése rendelkezéseit is alkalmazni kell.
 
 ## KÜLÖNÖS RÉSZ
 
@@ -2419,7 +2425,7 @@ a szavazatszámláló bizottság egy egyéni választókerületi szavazólapot a
 
 277. § (1) A levélben szavazók névjegyzékében szereplő választópolgár számára – annak kivételével, aki a szavazási levélcsomag személyes átvételét kérte – a Nemzeti Választási Iroda a levélben szavazás szavazólapjának elkészültét követően haladéktalanul megküldi a szavazási levélcsomagot. Ha a választópolgár a kettős állampolgárságot tiltó országban lévő szavazólap-átvételi címet adott meg, a szavazási levélcsomagot a külképviselet közreműködésével kézbesíti a Nemzeti Választási Iroda.
 
-(2) Az a magyarországi lakcímmel nem rendelkező választópolgár, aki a 92. § (2) bekezdés b) pontja szerint a szavazást megelőző huszonötödik napig a szavazási levélcsomag személyes átvételét kérte, a szavazást megelőző tizenötödik naptól, a Nemzeti Választási Iroda elnöke által megállapított időben, valamint a szavazás napján a szavazás ideje alatt veheti át a szavazási levélcsomagot a választási irodában az általa megjelölt
+(2) Az a magyarországi lakcímmel nem rendelkező választópolgár, aki a 92. § (3) bekezdés b) pontja szerint a szavazást megelőző huszonötödik napig a szavazási levélcsomag személyes átvételét kérte, a szavazást megelőző tizenötödik naptól, a Nemzeti Választási Iroda elnöke által megállapított időben, valamint a szavazás napján a szavazás ideje alatt veheti át a szavazási levélcsomagot a választási irodában az általa megjelölt
 
 - a) országgyűlési egyéni választókerületi székhely településen,
 - b) a miniszter által rendeletben kijelölt egyéb településen, vagy
@@ -2635,6 +2641,10 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 (4) Az átjelentkezéssel szavazó választópolgár szavazatait annak a szavazókörnek a szavazatszámláló bizottsága számlálja meg, ahol a szavazatát leadta.
 
+#### 132/A. A megüresedett egyéni választókerületi mandátum betöltése
+
+300/A. § Ha az egyéni választókerületben megválasztott képviselő megbízatása megszűnése esetén a mandátumot a jelölő szervezet által megnevezett jelölt szerzi meg, akkor a jelölő szervezet legkésőbb a mandátum megüresedésétől számított harmincadik napon jelentheti be a Nemzeti Választási Bizottságnál a mandátumot szerző jelöltet.
+
 ### XIV. Fejezet — A HELYI ÖNKORMÁNYZATI KÉPVISELŐK ÉS POLGÁRMESTEREK VÁLASZTÁSA
 
 301. § A helyi önkormányzati képviselők és polgármesterek választásán e törvény I–XII. Fejezetét, továbbá a 250. § (6) és (7) bekezdését az e fejezetben foglalt eltérésekkel kell alkalmazni.
@@ -2772,9 +2782,13 @@ visszavonhatja átjelentkezési kérelmét.
 
 (2) A helyi választási iroda törli a nyilvántartásból a kompenzációs listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált egyéni választókerületi jelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
 
+(3) A helyi választási iroda törli a nyilvántartásból a jogerősen nyilvántartásba vett kompenzációs listát, ha egyéni választókerületi jelölt kiesése miatt a jelölő szervezet – közös kompenzációs lista esetén a jelölő szervezetek – jogerősen nyilvántartásba vett egyéni választókerületi jelöltjeinek száma nem éri el a törvényben foglalt minimumot.
+
 307/K. § (1) A fővárosi kompenzációs lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – polgármesterjelöltjeinek számát kell figyelembe venni, kivéve azt a polgármesterjelöltet, akinek nyilvántartásba vételét a helyi választási bizottság elutasította.
 
 (2) A területi választási iroda törli a nyilvántartásból a fővárosi kompenzációs listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált polgármesterjelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
+
+(3) A területi választási iroda törli a nyilvántartásból a jogerősen nyilvántartásba vett fővárosi kompenzációs listát, ha polgármesterjelölt kiesése miatt a jelölő szervezet – közös fővárosi kompenzációs lista esetén a jelölő szervezetek – jogerősen nyilvántartásba vett polgármesterjelöltjeinek száma nem éri el a törvényben foglalt minimumot.
 
 #### 138/H. A szavazólap adattartalma
 
@@ -2827,6 +2841,10 @@ visszavonhatja átjelentkezési kérelmét.
 #### 138/L. A megválasztott képviselő lemondása
 
 307/S. § A szavazás napját követően a képviselő-testület megalakulásáig a megválasztott képviselő az illetékes választási bizottsághoz intézett írásbeli nyilatkozatával mondhat le.
+
+#### 138/M. A megüresedett egyéni választókerületi mandátum betöltése
+
+307/T. § Ha az egyéni választókerületben megválasztott képviselő megbízatása megszűnése esetén a mandátumot a jelölő szervezet által megnevezett jelölt szerzi meg, akkor a jelölő szervezet legkésőbb a mandátum megüresedésétől számított harmincadik napon jelentheti be a választási bizottságnál a mandátumot szerző jelöltet.
 
 ### XV. Fejezet — A NEMZETISÉGI ÖNKORMÁNYZATI KÉPVISELŐK VÁLASZTÁSA
 
@@ -3151,6 +3169,8 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 - a) minden olyan kifogásról, amely nem tartozik az (1) vagy a (2) bekezdés alá, és az elkövetés helye nem határozható meg,
 - b) a területi választási bizottság döntése elleni fellebbezésről.
 
+(4) A helyi önkormányzati képviselők és polgármesterek választásának, valamint a nemzetiségi önkormányzati képviselők választásának eredménye elleni bírósági felülvizsgálat iránti kérelemről a Kúria legkésőbb a kérelem beérkezésétől számított nyolcadik napon dönt.
+
 #### 167/A. A megválasztott képviselő lemondása
 
 345/A. § A szavazás napját követően az Európai Parlamentnek a mandátum érvényességét megállapító határozata meghozataláig a megválasztott képviselő a Nemzeti Választási Bizottsághoz intézett írásbeli nyilatkozatával mondhat le.
@@ -3240,6 +3260,18 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+353/F. § (1) E törvénynek a választási eljárási szabályoknak az elektronikus ügyintézéssel összefüggő módosításáról szóló 2023. évi XXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 8. § (2) bekezdés b) pontjától eltérően a Módtv. hatálybalépésének napja és a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásának napja közötti napra a helyi önkormányzati képviselők és polgármesterek időközi választása nem tűzhető ki és – a (2) bekezdésben meghatározott kivétellel – a már kitűzött választások elmaradnak.
+
+(2) Ha a Módtv. hatálybalépését megelőzően kitűzött időközi választás esetén a Módtv. hatálybalépését megelőzően a választási kampányidőszak elkezdődött, a választást meg kell tartani.
+
+(3) E törvénynek a Módtv.-vel megállapított 307/T. §-ában meghatározott határidő az (1) bekezdés alapján elmaradt időközi választás esetén a Módtv. hatálybalépése napján kezdődik.
+
+353/G. § (1) E törvénynek a Módtv.-vel megállapított 8. § (2) bekezdés c) pontjától eltérően a Módtv. hatálybalépésének napja és a nemzetiségi önkormányzati képviselők 2024. évi általános választásának napja közötti napra a nemzetiségi önkormányzati képviselők időközi választása nem tűzhető ki és – a (2) bekezdésben meghatározott kivétellel – a már kitűzött választások elmaradnak.
+
+(2) Ha a Módtv. hatálybalépését megelőzően kitűzött időközi választás esetén a Módtv. hatálybalépését megelőzően a választási kampányidőszak elkezdődött, a választást meg kell tartani.
+
+(3) E törvénynek a Módtv.-vel megállapított 307/T. §-ában meghatározott határidő az (1) bekezdés alapján elmaradt időközi választás esetén a Módtv. hatálybalépése napján kezdődik.
+
 #### 172. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, a 353/D. §, a 353/E. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
@@ -3250,9 +3282,9 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 (4) A XIII. Fejezet, a 331. § (3) bekezdése, a 7. és a 8. melléklet az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-(5) A XIV. Fejezet, a 331. § (1)–(2) bekezdése, a 333. §, a 162/A. alcím, a 162/B. alcím és a 345. § az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+(5) A XIV. Fejezet, a 331. § (1)–(2) bekezdése, a 333. §, a 162/A. alcím, a 162/B. alcím, a 345. § és a 353/F. § az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-(6) A XV. Fejezet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+(6) A XV. Fejezet és a 353/G. § az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 #### 173. Az Európai Unió jogának való megfelelés
 

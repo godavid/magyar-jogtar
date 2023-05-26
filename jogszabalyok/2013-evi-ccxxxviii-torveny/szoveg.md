@@ -133,13 +133,15 @@ határozatának a 30. § (3) bekezdésében foglaltak szerint a Magyar Közlöny
 - b) jogorvoslat esetén a Kúria döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelenül eltelt, illetve
 - c) az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntése az Alkotmánybíróság Határozatai hivatalos lapban megjelent,
 
-a Nemzeti Választási Iroda haladéktalanul, de legkésőbb öt napon belül átadja a szervező részére a hitelesített kérdést tartalmazó – az általa az a)–c) pontban megjelölt esemény bekövetkezését követően igényelt mennyiségű – aláírásgyűjtő ívet. A Nemzeti Választási Iroda valamennyi aláírásgyűjtő ívet egyedi azonosítóval lát el.
+a Nemzeti Választási Iroda az a)–c) pontban megjelölt esemény bekövetkezését követően haladéktalanul, de legkésőbb öt napon belül átadja a szervező részére a hitelesített kérdést tartalmazó a szervező által igényelt mennyiségű – aláírásgyűjtő ívet. A Nemzeti Választási Iroda valamennyi aláírásgyűjtő ívet egyedi azonosítóval lát el.
+
+(1a) Ha a szervező az aláírásgyűjtő ívek iránti igényét az (1) bekezdésben meghatározott eseményt követően nyújtja be, a Nemzeti Választási Iroda az igénylést követő öt napon belül adja át az aláírásgyűjtő íveket a szervező részére.
 
 (2) A szervező az aláírásgyűjtésre rendelkezésre álló időszakban bármikor igényelhet további aláírásgyűjtő íveket.
 
 (3) Az aláírásgyűjtő íven a Nemzeti Választási Iroda feltünteti a népszavazásra javasolt kérdést.
 
-(4) A Nemzeti Választási Bizottság elnöke a köztársasági elnök vagy a Kormány által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a Kúria hitelesítő határozatot helybenhagyó, a hitelesítő határozat elleni felülvizsgálati kérelmet érdemi vizsgálat nélkül elutasító vagy a kérdést hitelesítő döntésének a Magyar Közlönyben való közzétételét – követő öt napon belül tájékoztatja az Országgyűlés elnökét.
+(4) A Nemzeti Választási Bizottság elnöke a köztársasági elnök vagy a Kormány által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a Kúria döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelen elteltét, illetve az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntésének az Alkotmánybíróság Határozatai hivatalos lapban való megjelenését – követő öt napon belül tájékoztatja az Országgyűlés elnökét.
 
 #### 4. Az aláírásgyűjtés
 
@@ -184,9 +186,9 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 #### 5. Az aláírások ellenőrzése
 
-19. § (1) A szervező az aláírásgyűjtő ívek 14. § (1) bekezdésben meghatározott átvételét követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés b) pontja szerinti szünetelés nem számít bele.
+19. § (1) A szervező az aláírásgyűjtő ívek 14. § (1) vagy (2) bekezdésben meghatározott átvételét, de legkésőbb a 14. § (1) bekezdésében meghatározott eseményt követő tizedik napot követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés b) pontja szerinti szünetelés nem számít bele.
 
-(2) Ha a szervező az aláírásgyűjtő ívek iránti igényét a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik nap után nyújtja be, az (1) bekezdés szerinti határidőt a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik naptól kell számítani.
+(2)
 
 (3) Az (1) bekezdés szerinti benyújtással egyidejűleg, de legkésőbb az (1) bekezdés szerint az aláírásgyűjtő ívek benyújtására rendelkezésre álló határidő utolsó napján a szervezőnek valamennyi aláírásgyűjtő ívet át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
@@ -420,7 +422,7 @@ szervezhet.
 
 43. § (1) A kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelen elteltét, illetve az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntésének az Alkotmánybíróság Határozatai hivatalos lapban történő megjelenését – követő öt napon belül a helyi választási iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek.
 
-(2) A helyi választási bizottság elnöke a képviselő-testület tagjai vagy bizottsága által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék hitelesítő határozatot helybenhagyó vagy a kérdést hitelesítő döntésének közlését – követő öt napon belül tájékoztatja a polgármestert.
+(2) A helyi választási bizottság elnöke a képviselő-testület tagjai vagy bizottsága által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelen elteltét, illetve az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntésének az Alkotmánybíróság Határozatai hivatalos lapban történő megjelenését – követő öt napon belül tájékoztatja a polgármestert.
 
 #### 14. Az aláírásgyűjtés
 
@@ -444,6 +446,7 @@ szervezhet.
 - d) állami, helyi és nemzetiségi önkormányzati szervek hivatali helyiségében,
 - e) egészségügyi szolgáltató helyiségében,
 - f) felsőoktatási és köznevelési intézményben.
+- g) a tulajdonos előzetes, írásbeli hozzájárulásának hiányában közforgalom számára nyitva álló magánterületen.
 
 (3) Az aláírásért az aláíró választópolgár részére előnyt adni vagy ígérni tilos. Az aláíró választópolgár az aláírásért nem kérhet előnyt, illetve nem fogadhat el előnyt vagy annak ígéretét.
 
@@ -457,7 +460,7 @@ szervezhet.
 
 48. § Az aláírásgyűjtő ív benyújtását követően a szervező nem vonhatja vissza a kezdeményezést.
 
-49. § (1) A helyi választási bizottság gondoskodik az aláírások ellenőrzéséről. A 47. § (2) bekezdése szerint benyújtott aláírásgyűjtő íven lévő, továbbá a 45. §-ban foglalt rendelkezések megszegésével gyűjtött aláírást a helyi választási bizottság nem ellenőrzi.
+49. § (1) A helyi választási iroda ellenőrzi az aláírásokat. A 47. § (2) bekezdése szerint benyújtott aláírásgyűjtő íven lévő, továbbá a 45. §-ban foglalt rendelkezések megszegésével gyűjtött aláírást a helyi választási iroda nem ellenőrzi.
 
 (2) Az aláírás ellenőrzése során meg kell vizsgálni a 44. §-ban foglalt követelmények teljesülését, azonosítani kell a kezdeményezést aláíró polgárt, meg kell állapítani, hogy rendelkezik-e választójoggal, továbbá meg kell állapítani az érvényes aláírások számát.
 
@@ -468,6 +471,8 @@ szervezhet.
 (5) Az aláírások ellenőrzése során a szervező képviselője jelen lehet.
 
 (6) Az aláírások ellenőrzését az aláírásgyűjtő ívek benyújtásától számított negyvenöt napon belül kell lefolytatni.
+
+(7) A helyi választási iroda tájékoztatja a helyi választási bizottságot az aláírások ellenőrzésének eredményéről. Az aláírások ellenőrzésének eredményét a helyi választási bizottság határozatban állapítja meg.
 
 50. § Ha az érvényes aláírások száma eléri a helyi népszavazás kezdeményezéséhez szükséges számot, az aláírások ellenőrzésének eredményéről – az azt megállapító határozat jogerőre emelkedésétől számított nyolc napon belül – a helyi választási bizottság elnöke tájékoztatja a polgármestert.
 
@@ -723,9 +728,9 @@ alapján megállapítja a választás eredményét.
 
 #### 35. A választópolgár tájékoztatása
 
-84. § (1) Azt a választópolgárt, aki legkésőbb a szavazás napját megelőző harmincadik napon a szavazóköri névjegyzékben szerepel, a helyi választási iroda értesítő megküldésével tájékoztatja a szavazóköri névjegyzékbe vételéről.
+84. § (1) Azt a választópolgárt, aki legkésőbb a szavazás napját megelőző harmincadik napon a szavazóköri névjegyzékben szerepel, a Nemzeti Választási Iroda értesítő megküldésével tájékoztatja a szavazóköri névjegyzékbe vételéről.
 
-(2) Az értesítőt a választópolgár értesítési címére, ennek hiányában lakcímére a szavazást megelőző huszadik napig kell megküldeni.
+(2) Az értesítőt a szavazást megelőző huszadik napig kell megküldeni.
 
 #### 36. A szavazólap adattartalma
 
@@ -770,7 +775,7 @@ alapján megállapítja a választás eredményét.
 
 (2) Az e fejezetben a helyi választási bizottság számára megállapított hatáskört a területi választási bizottság, a területi választási bizottság számára megállapított hatáskört a Nemzeti Választási Bizottság, a helyi választási iroda és annak vezetője számára megállapított hatáskört a területi választási iroda és vezetője gyakorolja.
 
-(3) Az e fejezetben a törvényszék számára megállapított hatáskört a Kúria gyakorolja.
+(3)
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -821,7 +826,15 @@ sarkalatosnak minősül.
 
 #### 47. Módosító rendelkezések
 
-#### 97–101. §
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
 
 #### 48. Hatályon kívül helyező rendelkezések
 
