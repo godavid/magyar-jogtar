@@ -251,7 +251,9 @@ határozza meg.
 
 (5) A megfelelőségértékelő szervezet és a gyártó az (1) bekezdés szerinti adatokat az adatok rendelkezésre állásától, valamint az adatok változását a változás bekövetkezésétől számított 8 napon belül megküldi a tanúsító hatóság részére a nyilvántartásba vétel érdekében.
 
-#### 15. §
+15. § (1) Ha a tanúsító hatóság tudomására jut vagy az ellenőrzése során megállapítja, hogy a megfelelőségértékelő szervezet vagy a gyártó a vonatkozó európai uniós vagy magyar jogszabályokban foglalt biztonsági követelményeket és a kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, – a figyelmeztetést tartalmazó döntésében határidő tűzésével – felszólítja a megfelelőségértékelő szervezetet vagy a gyártót a vonatkozó európai uniós és magyar jogszabályokban foglalt biztonsági követelmények és a kapcsolódó eljárási szabályok teljesítésére.
+
+(2) Ha az (1) bekezdésben meghatározottak ellenére a megfelelőségértékelő szervezet vagy a gyártó a jogszabályban foglalt biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, a tanúsító hatóság – az eset összes körülményének mérlegelésével, kormányrendeletben meghatározottak szerint – bírságot szabhat ki, amely további nemteljesítés esetén megismételhető.
 
 16. § (1) A tanúsító hatóság a feladatellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, valamint az üzleti titoknak, banktitoknak, fizetési titoknak, biztosítási titoknak, értékpapírtitoknak, pénztártitoknak, orvosi titoknak és más hivatás gyakorlásához kötött titoknak minősülő és törvény által védett egyéb adatot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével kezeli. A tanúsító hatóság a hatósági ellenőrzés eredményeként tett megállapításokat alátámasztó adatokat rögzíti, és az így rögzített adatokat a megfelelőségértékelő szervezet akkreditált státuszának megszűnését követő 10. év utolsó napjáig, vagy a gyártó által kiadott megfelelőségi nyilatkozat hatályosságának megszűnését követő 10. év utolsó napjáig kezeli azzal, hogy ha az ellenőrzéssel érintett IKT-termék, IKT-szolgáltatás vagy IKT-folyamat esetében megfelelőségértékelő szervezet által kiadott tanúsítvány és megfelelőségi önértékelés is rendelkezésre áll, az akkreditált státusz megszűnésének és a megfelelőségi nyilatkozat hatályossága megszűnésének időpontja közül a későbbi időpontot kell figyelembe venni. Ezt követően a tanúsító hatóság az adatokat az elektronikus információs rendszereiből és adathordozóiról törli.
 
@@ -341,7 +343,7 @@ határozza meg.
 
 28. § (1) Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-- a)
+- a) a tanúsító hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait,
 - b) a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat,
 - c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat,
 - d) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a nemzeti kiberbiztonsági tanúsítási rendszerekre figyelemmel a tanúsítási rendszereket,
