@@ -7,7 +7,7 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 1. § (1) E törvény hatálya
 
 - a) a bíróságok,
-- b) az Országos Bírósági Hivatal (a továbbiakban: OBH),
+- b) az Országos Bírósági Hivatal (a továbbiakban: OBH), és az Országos Bírói Tanács (a továbbiakban: OBT),
 - c) az igazságügyi szakértői intézmény (a továbbiakban: egyéb igazságügyi szerv)
 
 igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szolgálati jogviszony) terjed ki.
@@ -70,7 +70,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 8. § (1) A munkáltatói jogkört
 
 - a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke,
-- b)
+- b) az OBT alkalmazottai tekintetében az OBT elnöke,
 - c) az egyéb igazságügyi szerv vezetője, vezetőjének helyettese, valamint az egyéb igazságügyi szerv igazságügyi alkalmazottai tekintetében – a 8/A. § (1) bekezdésében meghatározott kivétellel – jogszabályban meghatározott személy
 - d)
 - e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
@@ -166,7 +166,9 @@ gyakorolja.
 
 (7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is –
 
-- a) az OBH és a bíróságok képesítési követelményei esetében az OBH elnöke véleményének kikérésével az igazságügyért felelős miniszter,
+- a) az igazságügyért felelős miniszter
+  - aa) az OBH és a bíróságok képesítési követelményei esetében az OBH elnöke véleményének kikérésével,
+  - ab) az OBT képesítési követelményei esetében az OBT véleményének beszerzése mellett,
 - b) egyéb igazságügyi szerv esetében – a c) pontban foglalt kivétellel – az a miniszter,
 - c) az egyéb igazságügyi szerv igazságügyi szakértője és szakértőjelöltje esetében a miniszter az igazságügyért felelős miniszterrel egyetértésben
 
@@ -545,7 +547,7 @@ tartalmazza.
 
 (2) Az igazságügyi alkalmazott a munkáltatónak a képzéssel kapcsolatos költségeit akkor is köteles megtéríteni, ha a képzés befejezésétől, illetve a vizsga letételétől számított három éven belül a szolgálati viszonyát neki felróható okból szüntetik meg. Az igazságügyi alkalmazott a költségek megtérítésére kötelezhető, ha a szolgálati viszonyt a kezdeményezésére szüntetik meg.
 
-(3) A képzés és továbbképzés részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
+(3) A képzés és továbbképzés részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
 
 41. § (1) Az igazságügyi alkalmazott a vezetőnek a munkakör ellátására vonatkozó utasításait – a bíróságok szervezetéről és igazgatásáról szóló törvényben és a (2) bekezdésben foglalt kivétellel – köteles végrehajtani.
 
@@ -602,15 +604,15 @@ nem haladhatja meg.
 
 (6) Az igazságügyi alkalmazott a helyettesítés és kirendelés időtartamára az e törvény alapján megállapított díjazásra jogosult.
 
-42/A. § (1) A bírósági titkárt az OBH elnöke az OBH-ba beoszthatja. A beosztáshoz a bírósági titkár hozzájárulása szükséges.
+42/A. § (1) A bírósági titkárt az OBH elnöke az OBH-ba beoszthatja, valamint az OBT elnökének javaslatára az OBT-hez beosztja. A beosztáshoz a bírósági titkár hozzájárulása szükséges.
 
-(2) Az OBH-ba beosztott bírósági titkár tekintetében a munkáltatói jogkört az OBH elnöke gyakorolja.
+(2) A munkáltatói jogkört az OBH-ba beosztott bírósági titkár tekintetében az OBH elnöke, az OBT-hez beosztott bírósági titkár tekintetében az OBT elnöke gyakorolja.
 
-(3) Az OBH-ba beosztott bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
+(3) Az OBH-ba beosztott bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait. Az OBT-hez beosztott bírósági titkár a tevékenysége során köteles végrehajtani az OBT elnökének intézkedéseit, utasításait.
 
-(4) A hivatali beosztás megszűnését követően a bírósági titkárt a hivatali tevékenységét megelőző szolgálati helyére kell beosztani.
+(4) A beosztás megszűnését követően a bírósági titkárt a beosztását megelőző szolgálati helyére kell beosztani.
 
-(5) Az OBH elnöke a bírósági titkár hivatali beosztását megszüntetheti, a bírósági titkár kérelmére megszünteti.
+(5) Az OBH elnöke az OBH-ba beosztott bírósági titkár beosztását megszüntetheti, a bírósági titkár kérelmére megszünteti. Az OBH elnöke az OBT-hez beosztott bírósági titkár beosztását az OBT javaslatára vagy a bírósági titkár kérelmére megszünteti.
 
 (6) A bírósági titkár a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
 
@@ -828,7 +830,7 @@ MUNKÁJÁNAK ÉRTÉKELÉSE
 
 (7) A teljesítményértékeléssel szembeni jogorvoslatra az 53. § (9) bekezdésében foglaltakat kell alkalmazni.
 
-(8) Az igazságügyi alkalmazott teljesítményértékelésének részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
+(8) Az igazságügyi alkalmazott teljesítményértékelésének részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
 
 ### V. Fejezet — AZ IGAZSÁGÜGYI ALKALMAZOTT
 
@@ -1178,7 +1180,7 @@ okozta.
 
 99. § (1) A III. fizetési osztályba az a tisztviselő kaphat besorolást, aki a munkakörére előírt szakirányú felsőfokú iskolai végzettséggel rendelkezik. A besorolásnál a képesítési követelmények részletes szabályairól szóló jogszabály rendelkezéseit is figyelembe kell venni.
 
-(2) A nem szakirányú felsőfokú iskolai végzettséggel és a munkakörére meghatározott, szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazottat kivételesen lehet besorolni a III. fizetési osztályba; a besorolás részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
+(2) A nem szakirányú felsőfokú iskolai végzettséggel és a munkakörére meghatározott, szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazottat kivételesen lehet besorolni a III. fizetési osztályba; a besorolás részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
 
 (3) Az írnoki munkakört ellátó alkalmazott besorolásánál a 101. §-ban foglaltak megfelelő alkalmazásával legfeljebb két fizetési fokozattal csökkentett fokozat állapítható meg.
 
@@ -1222,17 +1224,17 @@ okozta.
 
 ### A beosztási pótlék
 
-105. § (1) A Kúrián és az OBH-nál dolgozó bírósági titkárt, bírósági fogalmazót, tisztviselőt és írnokot, valamint az egyéb igazságügyi szervnél dolgozó igazságügyi szakértőt, szakértőjelöltet, tisztviselőt és technikust beosztási pótlék illeti meg.
+105. § (1) A Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkárt, bírósági fogalmazót, tisztviselőt és írnokot, valamint az egyéb igazságügyi szervnél dolgozó igazságügyi szakértőt, szakértőjelöltet, tisztviselőt és technikust beosztási pótlék illeti meg.
 
 (2) A beosztási pótlék mértéke
 
-- a) a Kúrián és az OBH-nál dolgozó bírósági titkár és az egyéb igazságügyi szervnél dolgozó igazságügyi szakértő esetén az illetményalap 20 százaléka,
-- b) a Kúrián és az OBH-nál dolgozó bírósági fogalmazó, a III. és V. fizetési osztályba sorolt tisztviselő, valamint az egyéb igazságügyi szervnél dolgozó szakértőjelölt, a III. és V. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 15 százaléka,
-- c) a Kúrián és az OBH-nál dolgozó IV. fizetési osztályba sorolt tisztviselő, írnok, valamint az egyéb igazságügyi szervnél dolgozó IV. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 5 százaléka.
+- a) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkár és az egyéb igazságügyi szervnél dolgozó igazságügyi szakértő esetén az illetményalap 20 százaléka,
+- b) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági fogalmazó, a III. és V. fizetési osztályba sorolt tisztviselő, valamint az egyéb igazságügyi szervnél dolgozó szakértőjelölt, a III. és V. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 15 százaléka,
+- c) a Kúrián, az OBH-nál és az OBT-nél dolgozó IV. fizetési osztályba sorolt tisztviselő, írnok, valamint az egyéb igazságügyi szervnél dolgozó IV. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 5 százaléka.
 
 ### A címpótlék
 
-106. § Az igazságügyi alkalmazott az e törvény alapján adományozott címmel az illetményalap 15 százalékának megfelelő összegű címpótlékra jogosult. Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályba tartozó igazságügyi alkalmazott részére is adományozható. A cím adományozására a bíróság és az OBH alkalmazottainak tekintetében az Országos Bírói Tanács, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
+106. § Az igazságügyi alkalmazott az e törvény alapján adományozott címmel az illetményalap 15 százalékának megfelelő összegű címpótlékra jogosult. Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályba tartozó igazságügyi alkalmazott részére is adományozható. A cím adományozására a bíróság, az OBH és az OBT alkalmazottainak tekintetében az OBT, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
 
 #### 107. §
 
@@ -1389,7 +1391,7 @@ okozta.
 
 121/C. § Az igazságügyi szerv költségvetésében biztosított előirányzatoktól függően a nyugalmazott igazságügyi alkalmazott részére szociális és temetési segély, az igazságügyi alkalmazott és a nyugalmazott igazságügyi alkalmazott közeli hozzátartozója részére temetési segély adható.
 
-121/D. § A 121. § és a 121/C. § szerinti egyéb juttatások részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak és közeli hozzátartozóik, valamint a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak és közeli hozzátartozóik, valamint az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében a miniszter az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+121/D. § A 121. § és a 121/C. § szerinti egyéb juttatások részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak és közeli hozzátartozóik, valamint a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak és közeli hozzátartozóik, valamint az OBT-vel szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak és közeli hozzátartozóik, valamint az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében a miniszter az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 ### Az érdemek elismerése
 
@@ -1401,13 +1403,13 @@ okozta.
 - d) főtanácsosi vagy tanácsosi cím adományozása,
 - e) Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett stb.
 
-(2) Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a III. fizetési osztályba tartozó, a tanácsosi cím pedig a IV. fizetési osztályba tartozó igazságügyi alkalmazott részére adományozható. A cím adományozására a bíróság és az OBH alkalmazottainak tekintetében az Országos Bírói Tanács, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
+(2) Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a III. fizetési osztályba tartozó, a tanácsosi cím pedig a IV. fizetési osztályba tartozó igazságügyi alkalmazott részére adományozható. A cím adományozására a bíróság, az OBH és az OBT alkalmazottainak tekintetében az OBT, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
 
 (3) Kiváló munkavégzés esetén és igazságügyi szolgálati jogviszonyban eltöltött legalább tíz év után az I. fizetési osztályba tartozó igazságügyi alkalmazottnak „főtanácsos” cím adományozható.
 
 (4)
 
-123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OBH elnöke, illetve az igazságügyért felelős miniszter, valamint a miniszter állapítja meg.
+123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OBH elnöke, illetve az igazságügyért felelős miniszter, valamint a miniszter, az OBT alkalmazottai tekintetében az OBT állapítja meg.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

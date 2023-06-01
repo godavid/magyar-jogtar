@@ -20,17 +20,14 @@ a következő törvényt alkotja:
 
 #### 1. § [A törvény hatálya]
 
-(1) E törvény hatálya kizárólag – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
+(1) E törvény hatálya kizárólag – a munkavállalói résztulajdon kivételével – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
 
 (2) Ha jogszabály rendelkezése folytán valamely egészségügyi szolgáltató az e törvény hatálya alá tartozó egészségügyi szolgáltatóvá alakul át, az egészségügyi szolgáltatóra és annak foglalkoztatottjára – törvény vagy kormányrendelet eltérő rendelkezése hiányában – e törvény rendelkezéseit az egészségügyi szolgáltató átalakulását követő harmadik hónap első napjától kell alkalmazni.
 
-(3) Egészségügyi szolgálati jogviszonyban foglalkoztatható az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.)
+(3) Egészségügyi szolgálati jogviszonyban foglalkoztatható – a jogszabályban meghatározott esetekben – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.)
 
-- a) 4. § a) pontja szerinti egészségügyi dolgozó,
-- b) 4. § b) pontja szerinti egészségügyben dolgozó,
-- c) 4. § c) pontja szerinti rezidens
-
-a jogszabályban meghatározott esetekben.
+- a) 4. § a) és c) pontja szerinti egészségügyi dolgozó,
+- b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
 (4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – az (5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
 
@@ -84,7 +81,7 @@ a jogszabályban meghatározott esetekben.
 
 (7) A Kormány rendeletében az egészségügyi szolgálati jogviszony létesítésének feltételeként további feltételeket állapíthat meg.
 
-(8) A (3)–(6) bekezdésben és a (7) bekezdés szerinti rendeletben meghatározott alkalmazási feltételek alól felmentés nem adható. Az egészségügyi szolgálati jogviszonyban álló személynek az egészségügyi szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben és a (7) bekezdés szerinti rendeletben meghatározott feltételeknek, azok hiánya azonnali hatályú felmondási oknak minősül.
+(8) A (3)–(6) bekezdésben és a (7) bekezdés szerinti rendeletben meghatározott alkalmazási feltételek alól felmentés nem adható. Az egészségügyi szolgálati jogviszonyban álló személynek az egészségügyi szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben és a (7) bekezdés szerinti rendeletben meghatározott feltételeknek, azok hiánya esetén az érvénytelenség jogkövetkezményeit kell alkalmazni.
 
 (9) Az egészségügyi szolgálati munkaszerződésben a munkavégzés helyeként több – e törvény hatálya alá tartozó – egészségügyi szolgáltató meghatározható, feltéve, hogy az egészségügyi szolgálati jogviszonyban álló személy tekintetében a munkáltató ugyanaz.
 
@@ -106,7 +103,7 @@ a jogszabályban meghatározott esetekben.
 
 (3) A próbaidő nem hosszabbítható meg. A próbaidő tartama alatt az egészségügyi szolgálati jogviszonyt bármelyik fél azonnali hatállyal indokolás nélkül megszüntetheti.
 
-(4) Nem kell próbaidőt kikötni
+(4) Nem lehet próbaidőt kikötni
 
 - a) áthelyezés esetén,
 - b) a meghatározott munka elvégzésére vagy feladat ellátására szóló határozott idejű egészségügyi szolgálati munkaszerződésben, és
@@ -141,7 +138,7 @@ a jogszabályban meghatározott esetekben.
 
 #### 5. § [Munkaidő]
 
-Az egészségügyi szolgálati jogviszonyban álló személy munkaidejére az Mt.-t az Eütev.-ben megállapított eltérésekkel kell alkalmazni azzal, hogy a munkaközi szünet a munkaidő részét képezi.
+Az egészségügyi szolgálati jogviszonyban álló személy munkaidejére az Mt.-t az Eütev.-ben és az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló kormányrendeletben megállapított eltérésekkel kell alkalmazni azzal, hogy a munkaközi szünet a munkaidő részét képezi.
 
 #### 6. § [Szabadság]
 
@@ -260,6 +257,8 @@ ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti 
 
 (10) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó az egészségügyi szolgálati jogviszonyban töltött idő alapján az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerint eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától.
 
+(10a) A fizetési fokozatok közötti várakozási időbe nem számítható be a fizetés nélküli szabadság időtartama, kivéve a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása céljából, továbbá a tizenkét éven aluli gyermek betegsége esetén az otthoni ápolás érdekében igénybe vett fizetés nélküli szabadság időtartamát.
+
 (11) Az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatának (10) bekezdés szerinti változása az egészségügyi szolgálati munkaszerződés módosításának minősül, amiről a munkáltató a Kormány rendeletében foglaltak szerint értesíti az egészségügyi szolgálati jogviszonyban álló személyt.
 
 (12) Az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatán belül illetményére a munkáltató az egészségügyi szolgálati jogviszonyban álló személy minősítésének eredménye alapján tesz javaslatot. Ha a javaslatot az egészségügyi szolgálati jogviszonyban álló személy nem fogadja el, a munkáltató az egészségügyi szolgálati szerződést felmondja.
@@ -268,7 +267,7 @@ ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti 
 
 (14) Ha az egészségügyi szolgálati jogviszonyban álló személy – az 1. § (3) bekezdés b) pontja szerinti egészségügyben dolgozó személyek kivételével – a munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát és ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti. A helyettesítési díj mértékét a Kormány rendeletben állapítja meg.
 
-(15) Ha az egészségügyi szolgálati jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül újabb egészségügyi szolgálati jogviszonyt létesít, akkor az új egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét. Ebben az esetben az 1. melléklet szerint irányadó illetménytől eltérő összegű illetmény is megállapítható.
+(15) Ha az egészségügyi szolgálati jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül újabb egészségügyi szolgálati jogviszonyt létesít, akkor az új egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét. Ebben az esetben az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendelet 7. melléklete szerint irányadó illetménytől eltérő összegű illetmény is megállapítható.
 
 #### 9. § [Szolgálati elismerés]
 
@@ -280,7 +279,7 @@ ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti 
 - b) harminc év jogviszony esetén háromhavi,
 - c) negyven év jogviszony esetén öthavi
 
-illetményének megfelelő összeg.
+alapilletményének megfelelő összeg.
 
 (3) A szolgálati elismerés a (2) bekezdés szerinti egészségügyi szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
 
@@ -313,7 +312,7 @@ illetményének megfelelő összeg.
 
 (1) Az egészségügyi szolgáltató fenntartója döntése alapján – az érintett egészségügyi szolgáltató vezetője véleményének kikérését követően – egészségügyi közfeladat ellátása érdekében az egészségügyi szolgálati jogviszonyban álló személy határozott időre kirendelhető egy másik – ugyanazon fenntartóhoz tartozó – egészségügyi szolgáltatóhoz.
 
-(2) A kirendelés időtartama nem haladhatja meg az egy évet. A kirendelés ugyanarra a feladatra egy alkalommal, legfeljebb egy évvel meghosszabbítható. A kirendelés lejártát követően az egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati munkaszerződése szerinti egészségügyi szolgáltató köteles eredeti munkakörében továbbfoglalkoztatni.
+(2) A kirendelés időtartama nem haladhatja meg tizenkét hónapos időszak alatt összesen a negyvennégy beosztás szerinti munkanapot vagy háromszázötvenkét órát. A kirendelés ugyanarra a feladatra egy alkalommal, legfeljebb egy évvel meghosszabbítható. A kirendelés lejártát követően az egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati munkaszerződése szerinti egészségügyi szolgáltató köteles eredeti munkakörében továbbfoglalkoztatni.
 
 (3) A kirendelés időtartamára az egészségügyi szolgálati jogviszonyban álló személy az egészségügyi szolgálati munkaszerződésben foglalt illetményre jogosult a kirendelés helye szerinti szervtől, a kirendelés időtartama alatt az illetmény csak az egészségügyi szolgálati jogviszonyban álló személy javára módosítható.
 
@@ -337,7 +336,7 @@ illetményének megfelelő összeg.
 
 (5) A (4) bekezdés szerinti áthelyezésre alkalmazni kell a 11. § (4) és (5) bekezdését, valamint az Mt. 53. § (3)–(4) bekezdését.
 
-(6) Az egészségügyi szolgálati jogviszonyt felmondással meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmondási idő leteltekor teljesítő közalkalmazott kérelmezi.
+(6) Az egészségügyi szolgálati jogviszonyt felmondással meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmondási idő leteltekor teljesítő egészségügyi szolgálati jogviszonyban álló személy kérelmezi.
 
 (7) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
 
@@ -378,7 +377,7 @@ illetményének megfelelő összeg.
 
 - a) az egészségügyi szolgálati jogviszonyban álló személy felettese,
 - b) a minősítést végző vezető,
-- c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
+- c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv, valamint a fenntartó,
 - d) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 - e) az egészségügyi szolgálati jogviszonyban álló személy ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
 - f) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
@@ -414,6 +413,10 @@ illetményének megfelelő összeg.
 
 (11) Az állami fenntartású egészségügyi szolgáltatónál a Kormány és az érintett szakszervezetek megállapodásában rögzített sajátos szabályok mellett gyakorolható a sztrájk joga.
 
+#### 15/A. § [A gyógyszerészek és a szakgyógyszerészek egészségügyi szolgálati jogviszonyára vonatkozó eltérő rendelkezések]
+
+Az intézeti és közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása tartalmazza a feladatok ellátásában közreműködő gyógyszerészek és a szakgyógyszerészek azonosításához szükséges – 14. § szerinti nyilvántartás szerinti – adatokat.
+
 #### 16. § [Értelmező rendelkezések]
 
 E törvény alkalmazásában
@@ -421,6 +424,7 @@ E törvény alkalmazásában
 - a) egészségügyi tevékenység: az Eütv. 3. § y) pontjában meghatározott tevékenység;
 - b) magasabb vezető: az egészségügyi szolgáltató vezetője és helyettese, valamint az egészségügyi szolgáltató működése szempontjából meghatározó jelentőségű feladatot ellátó vezető;
 - c) munkáltató: az állami fenntartású egészségügyi szolgáltató esetén a törvényben vagy a Kormány rendeletében kijelölt szerv, a nem állami fenntartású egészségügyi szolgáltató esetén az egészségügyi szolgáltató vezetője.
+- d) intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. § 47. pontja szerinti nyilvántartás.
 
 #### 17. § [Felhatalmazó rendelkezések]
 
@@ -480,7 +484,7 @@ a jogviszony megszűnésekor érvényes illetményének megfelelő összegű vé
 
 (5) E törvény hatálybalépése nem szakítja meg a 2020. december 31. napján fennálló jogviszonyból eredő igények elévülését.
 
-(6) Az egészségügyi szolgálati jogviszonyban álló személy a 2020. december 31-én meglévő szabadságát 2023. december 31-ig kiveheti.
+(6) Az egészségügyi szolgálati jogviszonyban álló személynek a 2020. december 31-én meglévő szabadságát 2023. december 31-ig ki kell adni.
 
 (7) A 2021. március 1. napján fennálló és e törvény alapján engedélykötelessé váló tevékenység, illetve jogviszony engedélyeztetése iránti kérelmet az egészségügyi szolgálati jogviszony létrejöttét követő 60 napon belül kell az egészségügyi szolgálati jogviszonyban álló személynek a Kormány rendeletében meghatározottak szerint előterjesztenie.
 
@@ -527,7 +531,9 @@ gyógyító-megelőző tevékenységet végezhet.
 
 20/A. § (1) Az 1. § (12) bekezdése 2022. december 31. napjáig hatályos rendelkezései szerinti engedély alapján megkötött, munkaerő-kölcsönzésre irányuló szerződés 2024. január 1-jén hatályát veszti. Az e törvény hatálya alá tartozó egészségügyi szolgáltató és a munkaerő-kölcsönző a szerződésből eredő jogok és kötelezettségek tekintetében legkésőbb 2024. január 31. napjáig elszámolnak egymással.
 
-(2) 2024. január 1-jétől nem köthető új szerződés a Kormány rendeletében meghatározott személyes közreműködésre, ide nem értve a Kormány rendeletében meghatározott egészségügyben dolgozóval kötött szerződést.
+(2) 2024. január 1-jétől az egészségügyi szakellátás körében nem köthető új szerződés a Kormány rendeletében meghatározott személyes közreműködésre, ide nem értve a Kormány rendeletében meghatározott egészségügyben dolgozóval kötött szerződést.
+
+(3) Az 1. § (4) bekezdésétől eltérően a 2023. június 1. napján állami fenntartású egészségügyi szolgáltatónál foglalkoztatott, in vitro fertilizációs eljárást végző személyekre az Mt. vonatkozik.
 
 21. § E törvény
 

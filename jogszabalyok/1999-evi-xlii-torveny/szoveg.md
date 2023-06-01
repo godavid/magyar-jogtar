@@ -27,7 +27,7 @@ a következő törvényt alkotja:
 - a) dohánytermék: fogyasztható termék, amely akár csak részben is – géntechnológiával módosított vagy módosítatlan formában – dohányt tartalmaz;
 - b) dohányzás: a dohánytermék, illetve dohányzási célú gyógynövénytermék elégetése, valamint hevítése
 - c) közforgalmú intézmény: az érintettek számára közfeladatot, illetőleg közérdekű vagy egyéb szolgáltatást, ellátást (a továbbiakban együtt: szolgáltatás) végző természetes vagy jogi személynek, illetőleg jogi személyiség nélküli szervezetnek a szolgáltatás, illetve az azzal összefüggő tevékenység biztosítására szolgáló létesítménye vagy egyéb eszköze, függetlenül attól, hogy az oda történő belépés a nyilvánosság számára teljesen szabad vagy valamely feltétel teljesítéséhez kötött;
-- d) rendezvény: a gyülekezési jogról szóló 1989. évi III. törvény 2. §-ának (1) bekezdésében meghatározott, valamint gazdasági, kulturális, – nem szabadidős jellegű – sport, vallási, érdekvédelmi céllal, legalább három személy egyidejű jelenlétével létrejött szervezett összejövetel, illetve esemény;
+- d) rendezvény: békés összejövetelek, felvonulások és tüntetések, gyűlések, valamint gazdasági, kulturális, – nem szabadidős jellegű – sport, vallási, érdekvédelmi céllal, legalább két személy egyidejű jelenlétével létrejött szervezett összejövetel, illetve esemény;
 - e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fizikailag lehatárolt létesítmény, eszköz, amelynek a külső környezetből történő folyamatos légcseréje nem, vagy egy oldalának egészét vagy tetejének legfeljebb 1/2-ét kitevő nyílásokkal, nyílászárókkal, vagy mesterséges szellőztető berendezés útján biztosított,
 - f) kombinált egészségvédő figyelmeztetés: az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint olyan egészségvédő figyelmeztetés, amely szöveges figyelmeztetés és annak megfelelő fénykép vagy illusztráció kombinációjából áll;
 - g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége;
@@ -156,11 +156,11 @@ hozható meg.
 
 egyes korlátai
 
-5. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (továbbiakban: Fdvtv.) 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelmére irányuló tevékenység nem végezhető köznevelési intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
+5. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (továbbiakban: Fdvtv.) 1. § (1) bekezdés b)–i) pontjában felsorolt termékek kiskereskedelmére irányuló tevékenység nem végezhető köznevelési intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
 
-(2) Dohánytermék, valamint az Fdvtv. 1. § (1) bekezdés b)–h) pontjában felsorolt termék árumintaként nem forgalmazható.
+(2) Dohánytermék, valamint az Fdvtv. 1. § (1) bekezdés b)–i) pontjában felsorolt termék árumintaként nem forgalmazható.
 
-(3) Dohánytermék, valamint az Fdvtv. 1. § (1) bekezdés b)–h) pontjában felsorolt termék árusítása automatából nem megengedett.
+(3) Dohánytermék, valamint az Fdvtv. 1. § (1) bekezdés b)–i) pontjában felsorolt termék árusítása automatából nem megengedett.
 
 (4) E § alkalmazásában dohánytermék-kiskereskedelem alatt az Fdvtv-ben ekként meghatározott fogalmat kell érteni.
 

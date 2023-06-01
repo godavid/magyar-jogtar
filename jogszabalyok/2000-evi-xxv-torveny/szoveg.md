@@ -28,7 +28,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (2) E törvény hatálya az embert és a környezetet veszélyeztető veszélyes anyagokra és veszélyes keverékekre, és az ezekkel folytatott tevékenységekre terjed ki.
 
-(3) E törvény hatálya a 23. § (6) bekezdésében meghatározott, és a c) pont tekintetében a 20. § (6) bekezdésében, és a h) és i) pont tekintetében a 8/A. §-ban meghatározott kivétellel nem terjed ki
+(3) E törvény hatálya a 23. § (5) bekezdésében meghatározott, és a c) pont tekintetében a 20. § (6) bekezdésében, és a h) és i) pont tekintetében a 8/A. §-ban meghatározott kivétellel nem terjed ki
 
 - a) az emberi vagy az állatgyógyászati célra használt gyógyszerekre (késztermékekre), és az orvostechnikai eszközökről szóló jogszabályokban meghatározott orvostechnikai eszköznek minősülő termékre és anyagra,
 - b) a pszichotróp anyagokra, a kábítószerekre, és a kábítószer-prekurzorokra,
@@ -48,13 +48,13 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 ### II. Fejezet
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-### III. Fejezet — A VESZÉLYES ANYAGOK ÉS KEVERÉKEK BEJELENTÉSE
+### III. Fejezet — A VESZÉLYES KEVERÉKEK BEJELENTÉSE
 
-5. §
+#### 5. §
 
 ### Bejelentés
 
@@ -63,8 +63,6 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 (2) Az (1) bekezdésben foglaltaktól eltérően nem kell bejelenteni a kizárólag ellenőrzött körülmények között végzett kutatási vagy fejlesztési célra, kísérleti gyártásra és nem termelőüzemi méretű kipróbálásra gyártott, vagy forgalmazott veszélyes keverékeket. A magyarországi gyártó, és forgalmazó a rendelkezésre álló, a veszélyesség meghatározása, a tevékenységet végző egészségének biztonsága szempontjából lényeges adatokat és információkat ebben az esetben is köteles a tevékenységet végző rendelkezésére bocsátani. Minden olyan magyarországi gyártónak és forgalmazónak, amely a bejelentés mellőzésével élni kíván, az egészségügyi államigazgatási szerv által hozzáférhető írásbeli nyilvántartást kell vezetnie a gyártott, vagy forgalomba hozott veszélyes keverékről, a feliratozási és mennyiségi adatokról. A magyarországi gyártót, és forgalmazót a bejelentés mellőzésének lehetősége a gyártástól, vagy a forgalomba hozataltól vagy ezek megkezdésétől számított egy évig illeti meg, amely az egészségügyi államigazgatási szerv engedélyével egy évig meghosszabbítható, ha a magyarországi gyártó, és forgalmazó a meghosszabbítás szükségességét indokolja.
 
 (3) Az egyes fogyasztói, foglalkozásszerű vagy ipari felhasználásra szánt keverékek (1) bekezdés szerinti bejelentési kötelezettsége a CLP VIII. melléklet A. rész 1. pontjában, az adott felhasználásra vonatkozó alkalmazási időpontot követően megszűnik.
-
-### Veszélyes anyag bejelentése
 
 7. § (1)–(2)
 
@@ -104,15 +102,15 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (5)
 
-10. §
+#### 10. §
 
 ### Tájékoztatás a körforgásos gazdaság érdekében
 
 11. § A REACH 3. cikk 33. pontjában meghatározott árucikk bármely szállítója a REACH 33. cikk (1) bekezdésének megfelelően az e célból biztosított formátum és benyújtási eszköz felhasználásával tájékoztatja az Európai Vegyianyag-ügynökséget.
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 ### IV. Fejezet — VESZÉLYES ANYAGOK, VESZÉLYES KEVERÉKEK TÁROLÁSA, SZÁLLÍTÁSA
 
@@ -134,19 +132,19 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 16. § A veszélyes anyagok és a veszélyes keverékek szállítása során az élet, a testi épség, valamint a környezet veszélyeztetésének kockázatát a minimálisra kell csökkenteni. Ennek érdekében a veszélyes anyagok, illetve a veszélyes keverékek csomagolását, illetőleg a szállítóeszközt úgy kell megválasztani, hogy a szállított anyag, keverék a rakodás és szállítás során az egészséget, illetve a környezetet ne veszélyeztethesse, illetőleg ne károsíthassa.
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
 ### V. Fejezet
 
-19. §
+#### 19. §
 
 ### VI. Fejezet — A KOCKÁZAT KEZELÉSE
 
 ### Egészségvédelem, munkavédelem, környezetvédelem
 
-20. § (1) A veszélyes anyagok, illetve a veszélyes keverékek előállításának, gyártásának, feldolgozásának, továbbá felhasználásának megkezdése előtt – ideértve a külföldről történő behozatalt is – a tevékenységhez az azonos célra alkalmas veszélyes anyagok, illetve veszélyes keverékek közül – lehetőség szerint – a kevésbé veszélyes anyagot (keveréket) kell kiválasztani. A kiválasztás indokolására a tevékenységet végző elvégzi a szükséges kockázatbecslést, valamint költség-haszon elemzést és azt az ellenőrzést végző hatóságnak – kérésére – bemutatja.
+20. § (1) A veszélyes anyagok, illetve a veszélyes keverékek előállításának, gyártásának, feldolgozásának, továbbá felhasználásának megkezdése előtt – ideértve a külföldről történő behozatalt is – a tevékenységhez az azonos célra alkalmas veszélyes anyagok, illetve veszélyes keverékek közül – lehetőség szerint – a kevésbé veszélyes anyagot (keveréket) kell kiválasztani.
 
 (2)
 
@@ -168,7 +166,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (5) A (3)–(4) bekezdésben foglalt rendelkezéseket a nem foglalkozásszerűen végzett, magáncélú tevékenység során is megfelelően alkalmazni kell.
 
-22. §
+#### 22. §
 
 ### VII. Fejezet — A KOCKÁZATOK ISMERTETÉSE, KÖZLÉSE, INFORMÁCIÓCSERE
 
@@ -184,7 +182,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (5) A Magyarország területén előforduló bármilyen eredetű, vegyi anyag okozta emberi mérgezési esetet az egészségügyért felelős miniszter által meghatározott módon az egészségügyi államigazgatási szervhez be kell jelenteni.
 
-24. §
+#### 24. §
 
 ### A kémiai biztonságot koordináló tanács
 
@@ -198,7 +196,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (5) A tanács operatív tevékenységét az egészségügyi államigazgatási szervnél működő titkárság segíti.
 
-26. §
+#### 26. §
 
 ### Magyarországi általános hatáskörrel rendelkező (kompetens) nemzeti hatóság
 
@@ -208,7 +206,11 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 27. § A kémiai biztonság, illetőleg a veszélyes anyagok, illetve a veszélyes keverékek helyes kezelésének alapelveit, legfontosabb szabályait – különösen a veszélyes anyagok, a veszélyes keverékek felismerésére, az általánosan használt veszélyes anyagok (keverékek) tárolására, felhasználására vonatkozó ismereteket – a Nemzeti Alaptantervnek tartalmaznia kell.
 
-### VIII. Fejezet — A VESZÉLYES ANYAGOKKAL,ILLETVE VESZÉLYES KEVERÉKEKKEL VÉGZETT TEVÉKENYSÉG FELTÉTELEI,A KÉMIAI BIZTONSÁG HATÓSÁGI ELLENŐRZÉSE
+### VIII. Fejezet — A VESZÉLYES ANYAGOKKAL,
+
+ILLETVE VESZÉLYES KEVERÉKEKKEL VÉGZETT TEVÉKENYSÉG FELTÉTELEI,
+
+A KÉMIAI BIZTONSÁG HATÓSÁGI ELLENŐRZÉSE
 
 ### A veszélyes anyagokkal, veszélyes keverékekkel végzett tevékenység feltételei
 
@@ -218,11 +220,13 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (4) A (3) bekezdésben foglaltaktól eltérően a lakossági felhasználásra forgalomba hozott veszélyes anyagokkal vagy veszélyes keverékekkel a veszélyes anyaghoz vagy veszélyes keverékhez mellékelt, a biztonságos felhasználást lehetővé tevő használati utasítás birtokában is megkezdhető a tevékenység.
 
-29. § (1) Az e törvény hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet – a (3) és (4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek. A bejelentést az egészségügyért felelős miniszter rendeletében meghatározottak szerint, elektronikus úton kell megtenni a telephely, illetve ennek hiánya esetén a székhely szerint illetékes egészségügyi államigazgatási szervnek.
+29. § (1) Az e törvény hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet – a (3) és (4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek. A bejelentést az egészségügyért felelős miniszter rendeletében meghatározottak szerint, elektronikus úton kell megtenni az egészségügyi államigazgatási szervnek.
 
 (2) A bejelentést meg kell ismételni a bejelentett adat megváltozása, vagy a tevékenység megszűnése esetén.
 
 (3) A természetes személyeknek magáncélú, nem foglalkozás körében történő felhasználás céljából veszélyes anyag, illetve veszélyes keverék vásárlását, illetve felhasználását nem kell bejelenteni.
+
+(3a) A lakossági felhasználásra forgalomba hozott veszélyes anyagokkal és veszélyes keverékekkel végzett tevékenységet nem kell bejelenteni, amennyiben az ezekkel végzett tevékenységet nem a gazdasági tevékenységek egységes ágazati osztályozási rendszere, illetve az önálló vállalkozók tevékenységi jegyzéke alapján megadott főtevékenység és további tevékenység keretén belül végzik.
 
 (4) Az engedély visszavonásáig, illetve érvényességének lejártáig nem kell bejelenteni azt a tevékenységet, amelyet az arra jogosult e törvény hatálybalépésének napján érvényes tevékenységi engedély, illetve országos forgalmazási engedély alapján végez. Az e törvény hatálybalépése előtt kiadott általános tevékenységi engedély, illetőleg országos forgalmazási engedély csak abban az esetben vonható vissza, ha a tevékenység végzése nem felel meg az e törvényben, illetőleg a végrehajtásáról szóló jogszabályokban foglalt feltételeknek.
 
@@ -232,11 +236,11 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 30. § Veszélyes anyag, illetve veszélyes keverék foglalkozás körében történő felhasználás céljából csak a tevékenység végzésére jogosult és a veszélyes anyag, illetőleg a veszélyes keverék biztonságos alkalmazására képes olyan nagykorú természetes személy vagy jogi személy, illetve a képviseletében eljáró nagykorú személy részére szolgáltatható ki, aki (amely) a veszélyes anyag, illetve a veszélyes keverék átvételére való jogosultságát hitelt érdemlő módon igazolni tudja.
 
-31. §
+#### 31. §
 
 31/A. § Az egészségügyi államigazgatási szerv által e törvény vagy e törvény szabályozási tárgykörében európai közösségi rendelet alapján a veszélyes anyagok és keverékek kémiai biztonsága, valamint a biocid termékekkel és hatóanyagokkal kapcsolatos tevékenységek körében kérelemre lefolytatott eljárásért vagy igazgatási jellegű szolgáltatásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
-31/B. §
+#### 31/B. §
 
 31/C. § A biocid termékek hazai engedélyezésére irányuló általános közigazgatási rendtartás szerinti eljárás során nincs helye sommás eljárásnak.
 

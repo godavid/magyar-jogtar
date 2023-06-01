@@ -86,6 +86,8 @@ a következő törvényt alkotja:
 
 1/A. § E törvény alkalmazásában az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikkében meghatározott fogalmak irányadók.
 
+1/B. § E törvény alkalmazásában a különös méltánylást érdemlő betegellátási érdeket az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzet kihirdetését megalapozó vagy azzal közvetlenül összefüggő megbetegedésekkel kapcsolatban lefolytatandó, az egészségügyi válsághelyzet kezelésével összefüggő hatósági eljárások során – az egészségügyi válsághelyzet ideje alatt – fennállónak kell tekinteni.
+
 ### A törvény hatálya
 
 2. § (1) E törvény hatálya az emberi felhasználásra kerülő gyógyszer gyártására, előállítására, forgalomba hozatalára, forgalmazására és alkalmazására, valamint a vizsgálati gyógyszerek klinikai vizsgálatára és alkalmazására terjed ki.
@@ -204,9 +206,14 @@ a következő törvényt alkotja:
 
 (6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
-(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A gyógyszerészeti államigazgatási szerv a megújítási kérelmet 90 nap alatt bírálja el. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.
+(7) Az (1)–(6) bekezdés szerint kiadott forgalombahozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. Ha a gyógyszer tekintetében az Európai Gazdasági Térség területén lefolytatott, az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv III. cím 4. fejezetében szabályozott első eljárásban előírt megújítás dátuma az (1)–(6) bekezdés szerint kiadott forgalombahozatali engedély ötéves hatályosságának lejártát megelőzi, a megújítás iránti kérelem benyújtására ezen időpontot megelőzően legalább kilenc hónappal van lehetőség. A gyógyszerészeti államigazgatási szerv a megújítási kérelmet 90 nap alatt bírálja el. A megújítást követően a gyógyszer forgalombahozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy azt öt évre újítja meg, ha azt
 
-(8)
+- a) az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok vagy
+- b) az adott gyógyszerrel történő betegexpozíció elégtelensége
+
+szempontjai alátámasztják.
+
+(8) A (7) bekezdés szerinti megújításnak minősül, ha a gyógyszer forgalombahozatali engedélyét az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv III. cím 4. fejezete szerinti eljárás referencia tagállamában már határozatlan időre megújították.
 
 (9) Ha a gyógyszer gyártója, illetve a forgalomba hozatali engedély jogosultja személyében változás következik be, a forgalomba hozatali engedély jogosultja köteles a változást – a változást megtörténtét követő harminc napon belül – a gyógyszerészeti államigazgatási szervhez bejelenteni.
 
@@ -334,7 +341,7 @@ a következő törvényt alkotja:
 - f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó szervezet esetén a bírósági nyilvántartásba-vételi számát, vagy költségvetési szerv esetén a törzskönyvi számát.
 - g) kábítószer felelősének nevét.
 
-(11) Az egészségügyi államigazgatási szerv a tisztítatlan ipari mákszalmamaradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pellettálását, további ipari mákszalmát, kifejtetlen máktokot és kannabiszt, valamint magas THC-tartalmú kendert tároló, annak megsemmisítését végző gazdálkodó szervezetekről nyilvántartást vezet.
+(11) A tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző gazdálkodó szervezetekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
 (12) A (11) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -351,6 +358,8 @@ a következő törvényt alkotja:
 - h) a biztonsági berendezések, intézkedések leírását,
 - i) a gazdálkodó szervezettel szerződésben álló tevékenységi engedéllyel rendelkező nevét,
 - j) alvállalkozó nevét.
+
+(12a) A (12) bekezdés j) pontja értelmében alvállalkozónak minősül az a természetes személy, aki a nyilvántartásba vett gazdálkodó szervezet részére alacsony THC-tartalmú kendert termeszt.
 
 (13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -729,9 +738,9 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha a felhasználását különös méltánylást érdemlő betegellátási érdek indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették. A különös méltánylást érdemlő betegellátási érdek fennállása a terápiás eljárás biztonságossága és hatékonysága tekintetében szükség szerint a szakmai kollégium véleményét figyelembe véve kerül megállapításra.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően, e törvény alkalmazásában a különös méltánylást érdemlő betegellátási érdeket az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzet kihirdetését megalapozó vagy azzal közvetlenül összefüggő megbetegedésekkel (a továbbiakban e § alkalmazásában: megbetegedés) kapcsolatban lefolytatandó, az egészségügyi válsághelyzet kezelésével összefüggő hatósági eljárások során – az egészségügyi válsághelyzet ideje alatt – fennállónak kell tekinteni.
+(2a) A (2) bekezdésben foglaltaktól eltérően, az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére kiemelt közegészségügyi vagy járványügyi érdekkel összefüggő különös méltánylás érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv a (2b)–(2h) bekezdés szerint határozott időtartamra engedélyezheti EGT-megállapodásban részes államban nem, de más országban forgalombahozatali vagy alkalmazási engedéllyel rendelkező gyógyszer ideiglenes hozzáférhetővé tételét, alkalmazását vagy adományozását.
 
-(2b) A (2a) bekezdés szerinti feltételek fennállása esetén a gyógyszerészeti államigazgatási szerv határozott időtartamra, az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére engedélyezheti EGT-megállapodásban részes államban nem, de más országban forgalombahozatali engedéllyel rendelkező gyógyszer ideiglenes hozzáférhetővé tételét, alkalmazását vagy adományozását a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében, ha a készítmény minőségileg megfelelő, és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal rendelkezik. Az engedély legfeljebb hat hónapos határozott időre adható ki, ami különösen indokolt esetben legfeljebb további hat hónappal meghosszabbítható.
+(2b) A (2a) bekezdés szerinti feltételek fennállása esetén a gyógyszerészeti államigazgatási szerv az engedélyt abban az esetben adhatja ki, ha a készítmény minőségileg megfelelő, és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal rendelkezik. Az engedély legfeljebb egy évre adható ki, ami különösen indokolt esetben kérelmenként legfeljebb további egy évvel meghosszabbítható.
 
 (2c) A (2b) bekezdés szerinti engedélyezés során, kormányrendeletben meghatározottak szerint
 
@@ -740,7 +749,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (2d) A (2b) bekezdés szerint engedélyezett gyógyszerrel történő ellátás igénylési rendjét az állami egészségügyi tartalék kezeléséért felelős szerv állapítja meg.
 
-(2e) A (2a) bekezdés szerinti feltételek fennállása esetén, a (2f)–(2h) bekezdésben foglaltak szerint, a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére a gyógyszerészeti államigazgatási szerv engedélyezheti
+(2e) A (2a) bekezdés szerinti feltételek fennállása esetén, a (2f)–(2h) bekezdésben foglaltak szerint, az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére a gyógyszerészeti államigazgatási szerv engedélyezheti
 
 - a) EGT-megállapodásban részes államban, az EGT-megállapodásban nem részes, de a klinikai vizsgálatok, illetve a gyógyszergyártás tekintetében a Magyarországon hatályos szabályozással egyenértékű szabályozást alkalmazó államban, vagy az Egészségügyi Világszervezet veszélyhelyzeti alkalmazási ajánlással rendelkező gyógyszereket tartalmazó listáján szereplő gyógyszer forgalomba hozatali, illetve alkalmazási engedélye szerinti államban,
 - b) Nagy-Britannia és Észak-Írország Egyesült Királyságában, vagy
@@ -752,7 +761,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (2g) A gyógyszerészeti államigazgatási szerv a (2e) bekezdés szerinti engedélyt a (2b) bekezdés megfelelő alkalmazásával, vagy az adott államban kiadott engedély alapulvételével vagy annak elismerése útján adhatja ki.
 
-(2h) A (2e) bekezdés alapján a gyógyszerészeti államigazgatási szerv az engedélyt legfeljebb egy éves határozott időre adhatja ki, ami különösen indokolt esetben legfeljebb további egy évvel meghosszabbítható. Az engedély kiadása feltételeinek fennállását a gyógyszerészeti államigazgatási szerv folyamatosan figyelemmel kíséri. Az engedély – figyelemmel a 10. § (3) és (4) bekezdésében foglaltakra is – szükség szerint rendelkezik az 5. § (5) bekezdésében foglaltakról, valamint a farmakovigilanciával kapcsolatos követelményekről.
+(2h) A (2e) bekezdés alapján a gyógyszerészeti államigazgatási szerv az engedélyt legfeljebb egy éves határozott időre adhatja ki, ami különösen indokolt esetben kérelmenként legfeljebb további egy évvel meghosszabbítható. Az engedély kiadása feltételeinek fennállását a gyógyszerészeti államigazgatási szerv folyamatosan figyelemmel kíséri. Az engedély – figyelemmel a 10. § (3) és (4) bekezdésében foglaltakra is – szükség szerint rendelkezik az 5. § (5) bekezdésében foglaltakról, valamint a farmakovigilanciával kapcsolatos követelményekről.
 
 (2i) A (2b) és (2h) bekezdés alapján engedélyezett gyógyszer alkalmazásához a Kormány rendeletében további feltételeket állapíthat meg.
 
@@ -866,7 +875,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
   - ab) Magyarországon vagy az aa) alpontban említett országokban forgalomba hozatali engedélyezési eljárás alatt van,
 - b) a gyógyszer alkalmazását a kezelőorvos olyan beteg kezelése érdekében kérelmezi, aki életet veszélyeztető vagy maradandó károsodást okozó betegségben szenved,
 - c) a beteg vagy annak törvényes képviselője az engedélyezés előtti gyógyszeralkalmazáshoz a kockázatokra is kiterjedő tájékoztatáson alapuló írásos beleegyezését adja, és
-- d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt, vagy ha az korábban bekövetkezik, a gyógyszer társadalombiztosítási támogatásba történő befogadásáig, és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
+- d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt – ideértve a kérelemben meghatározott várható kezelési időtartamot meghaladó, a beteg kezeléshez szükséges további időtartamot –, vagy ha az korábban bekövetkezik, a gyógyszer társadalombiztosítási támogatásba történő befogadásáig, és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
 - e) az engedélyezés előtti gyógyszeralkalmazás nem valósít meg a Gyftv. alapján tiltott kereskedelmi gyakorlatot.
 
 (2) Az engedély iránti kérelemben a kezelőorvosnak indokolnia kell az engedélyezés előtti gyógyszeralkalmazás szükségességét, be kell mutatnia a kezelés menetét, és gondoskodnia kell a beteg biztonságát érintő valamennyi esemény dokumentálásáról és a gyógyszerészeti államigazgatási szerv részére történő jelentéséről.
@@ -879,16 +888,18 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (5) A gyógyszerészeti államigazgatási szerv az engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy, sürgős szükség esetén soron kívül, de legkésőbb három napon belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
 
+(5a) Az engedélyezés előtti gyógyszeralkalmazásra irányuló kérelem benyújtásának időpontjában fennálló, az engedélyezés alapjául szolgáló körülmények változása esetén az engedély módosítását kell kérelmezni.
+
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
 
-(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
+(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát a 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
 
-(8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert – kiemelt járványügyi érdekből vagy egyéb, az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzettel közvetlenül összefüggő – kiemelten különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
+(8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert kiemelt közegészségügyi vagy járványügyi érdekkel összefüggő különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
 
 - a) az (1) bekezdés a) pont aa) alpontja szerinti feltétel olyan gyógyszerrel is teljesíthető, amely az adott indikációra vonatkozóan az Európai Gyógyszerügynökség vagy az Egészségügyi Világszervezet ajánlásában vagy programjában szerepel,
-- b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – szponzor is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
+- b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – klinikai vizsgálat megbízója vagy az állami egészségügyi tartalék kezelője is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
 - c) az (1) bekezdés d) pontjától indokolt kérelem alapján a gyógyszerészeti államigazgatási szerv kivételes esetben eltekinthet, amennyiben a gyógyszer gyártója részéről a hozzájárulás, illetve a gyógyszer térítésmentes rendelkezésre bocsátására vonatkozó kötelezettségvállalás beszerzése bizonyíthatóan olyan késedelemmel járna vagy olyan aránytalan nehézségekbe ütközne, amelyek az engedély kiadását ellehetetlenítenék,
-- d) a (2) bekezdés szerinti indokolási kötelezettséget az (1) bekezdés a) pont aa) alpontja szerinti klinikai vizsgálat megbízója is teljesítheti, és
+- d) a (2) bekezdés szerinti indokolási kötelezettséget az (1) bekezdés a) pont aa) alpontja szerinti klinikai vizsgálat megbízója vagy – ha a kérelmet az állami egészségügyi tartalék kezelője nyújtotta be – az állami egészségügyi tartalék kezelője is teljesítheti, és
 - e) a (7) bekezdés szerinti feltétel abban az esetben is teljesül, ha az alkalmazni kívánt gyógyszer kereskedelmi forgalomba hozatala Magyarország területén nem történt meg, és a c) pont szerinti kivétel nem kerül alkalmazásra.
 
 ### Ex tempore előállított radioaktív gyógyszer alkalmazása
@@ -1035,6 +1046,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 (2) A Módtv. 10. § (18) bekezdése szerinti naptári naptól számított egy évig benyújtott, klinikai vizsgálat engedélyezés iránti kérelmek az 536/2014/EU rendelet 98. cikk (2) bekezdésére figyelemmel e törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-a és 1. számú melléklete szerinti is benyújthatók és elbírálhatók azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével az e bekezdés szerint engedélyezett és megkezdett vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.
 
 (3) E törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-át és 1. számú mellékletét kell alkalmazni azon klinikai vizsgálatok esetében, amelyek engedélyezése iránt a kérelmet a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőzően nyújtották be, azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével ezen vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.
+
+32/D. § A 7. § (4) bekezdésétől eltérően a 7. § (1)–(3) bekezdése alapján kiadott engedély érvényességi idejét a gyógyszerészeti államigazgatási szerv a gyártó kérelmére a 7. § (1)–(3) bekezdésében fennálló feltételek fennállása alatt, különös méltánylást érdemlő betegellátási érdekből, kérelmenként legfeljebb 2023. december 31-éig meghosszabbíthatja. A 7. § (1)–(3) bekezdésében foglalt feltételek fennállásának értékelése során a gyógyszerészeti államigazgatási szerv azt is vizsgálja, hogy a vizsgálati gyógyszer vagy gyógyszer hozzáférhetővé tétele és alkalmazása e törvény szerinti más jogalapon biztosítható-e. Ha a vizsgálati gyógyszer vagy gyógyszer hozzáférhetővé tétele e törvény szerinti más jogalapon is biztosítható, a gyógyszerészeti államigazgatási szerv a 7. § (1)–(3) bekezdése alapján kiadott engedélyt hivatalból visszavonja.
 
 33. § Ez a törvény
 
@@ -1275,10 +1288,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | III.G.1. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot csak Magyarországon tervezik folytatni |  |  |  |  |  |  |  | 580 000 |
 | III.G.2. |  | Kismértékű beavatkozással járó klinikai vizsgálat engedélyezése |  |  |  |  |  |  |  | 580 000 |
 | III.G.3. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot több tagállamban tervezik folytatni |  |  |  |  |  |  |  | 750 000 |
-| III.G.4. |  | A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést |  |  |  |  |  |  |  | 435 000 |
-| III.G.5. |  | A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést |  |  |  |  |  |  |  | 145 000 |
-| III.G.6. |  | A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést |  |  |  |  |  |  |  | 562 500 |
-| III.G.7. |  | A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést |  |  |  |  |  |  |  | 187 500 |
+| III.G.4. |  | A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza |  |  |  |  |  |  |  | 435 000 |
+| III.G.5. |  | A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza |  |  |  |  |  |  |  | 145 000 |
+| III.G.6. |  | A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza |  |  |  |  |  |  |  | 562 500 |
+| III.G.7. |  | A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza |  |  |  |  |  |  |  | 187 500 |
 | III.G.8. |  | A III.G.2., III.G.3., a III.G.4. és a III.G.6. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 500 000 |
 | III.G.9. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 110 000 |
 | III.G.10. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés II. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 110 000 |

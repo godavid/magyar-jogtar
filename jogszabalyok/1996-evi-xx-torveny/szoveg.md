@@ -490,7 +490,7 @@ változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
 (1b) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít az élelmiszerlánc-felügyeleti szerv részére az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
-(1c) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a mezőgazdasági és vidékfejlesztési támogatási szerv részére az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartott polgár családi és utónevéről, névváltozásáról, születési nevéről, anyja nevéről, születési helyéről és idejéről, a lakóhelyének változásáról, valamint az érintett elhalálozásáról.
+(1c) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a támogató erre irányuló igénye esetén rendszeres adatátadást teljesít a Kedvezményezetti Nyilvántartási Rendszerben nyilvántartott polgár családi és utónevéről, névváltozásáról, születési nevéről, anyja nevéről, születési helyéről és idejéről, a lakóhelyének változásáról, valamint az érintett elhalálozásáról.
 
 (1d) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít az erdészeti hatóság részére az erdőgazdálkodói nyilvántartásban nyilvántartott polgár családi és utónevéről, névváltozásáról, születési nevéről, anyja nevéről, születési helyéről és idejéről, a lakóhelyének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.
 
