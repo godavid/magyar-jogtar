@@ -1460,6 +1460,10 @@ Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapí
 
 használhatja fel.
 
+#### 112/B. § [Adatszolgáltatás egészségügyi szolgáltatókról]
+
+Az egészségügyi igazgatási és koordinációs feladatokért felelős egészségügyi államigazgatási szerv a tárgynegyedévet követő hó utolsó napjáig elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére a hatósági nyilvántartásában szereplő, az egészségügyről szóló törvény szerinti egészségügyi szolgáltatók azonosító adatairól és azok adószámáról. Az állami adó- és vámhatóság az adatszolgáltatás adatait az e törvényben meghatározott adatszolgáltatási kötelezettségének teljesítése érdekében használja fel.
+
 ### XI. Fejezet — AZ ELEKTRONIKUS KÖZÚTI ÁRUFORGALOM ELLENŐRZŐ RENDSZERHEZ KAPCSOLÓDÓ KÖTELEZETTSÉGEK
 
 #### 113. § [Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszerhez kapcsolódó kötelezettségek]
@@ -1802,6 +1806,8 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 (27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és vármegyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
 
 (28) Az állami adó- és vámhatóság ellenőrzi az elektronikus építési naplóban rögzítendő adószám érvényességét, amelynek eredményét az elektronikus építési napló részére automatikus adattovábbítással átadja.
+
+(29) Ha az állami adó- és vámhatóság az egészségügyről szóló törvény szerinti egészségügyi szolgáltató tekintetében számla- vagy nyugtakibocsátási kötelezettség megszegését állapítja meg, akkor a kötelezettség megszegéséről szóló tényt és az egészségügyi szolgáltató azonosító adatait a 112/B. § szerinti adatszolgáltatást követő 15 napon belül elektronikus úton megküldi az egészségügyi igazgatási és koordinációs feladatokért felelős egészségügyi államigazgatási szerv részére az érintett egészségügyi szolgáltató egészségügyi tevékenységére vonatkozó jogszabályi előírások betartásának ellenőrzése, valamint hatáskörébe tartozó közigazgatási hatósági eljárás lefolytatása céljából.
 
 #### 132. § [Az állami adó- és vámhatóság adatszolgáltatása az állami támogatásokról]
 

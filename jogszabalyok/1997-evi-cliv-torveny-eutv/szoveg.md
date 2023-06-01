@@ -462,7 +462,7 @@ nyilatkozatára is alkalmazni kell.
 
 ### A beteg panaszainak kivizsgálása
 
-29. § (1) A beteg jogosult az egészségügyi ellátással kapcsolatban az egészségügyi szolgáltatónál, illetve fenntartójánál panaszt tenni.
+29. § (1) A beteg jogosult az egészségügyi ellátással kapcsolatban az egészségügyi szolgáltatónál, illetve fenntartójánál szóban, írásban panaszt tenni.
 
 (2) Az egészségügyi szolgáltató, illetve a fenntartó köteles a panaszt kivizsgálni, és ennek eredményéről a beteget a lehető legrövidebb időn belül, de legfeljebb harminc munkanapon belül írásban tájékoztatni. A panaszjog gyakorlása nem érinti a betegnek azon jogát, hogy a külön jogszabályokban meghatározottak szerint – a panasz kivizsgálása érdekében – a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervhez és más szervekhez forduljon. Erre a körülményre a szolgáltató köteles a beteg figyelmét felhívni.
 
@@ -1840,6 +1840,8 @@ egészségügyi elbírálása, illetőleg véleményezése.
 
 108. § (1) Egészségügyi szolgáltatás – a 108/A. §-ban foglalt kivétellel – kizárólag az egészségügyi államigazgatási szerv által kiadott működési engedély birtokában, az abban meghatározottak szerint kezdhető meg, illetve folytatható.
 
+(1a) A működési engedélyezésre irányuló eljárás elektronikus azonosítási szolgáltatás igénybevételét követően elektronikus űrlapon benyújtott kérelem útján kezdeményezhető.
+
 (2) A működési engedély csak abban az esetben adható ki, ha a kérelmezőnek az egészségügyi szolgáltatás során okozott kár megtérítésére van felelősségbiztosítása. A felelősségbiztosítási szerződés megszűnése esetén a biztosító ennek tényét haladéktalanul köteles bejelenteni az engedélyező szervnek, amely a működési engedélyt visszavonja, amennyiben az egészségügyi szolgáltató nem rendezik más biztosítónál felelősségbiztosítással.
 
 (3) A működéshez szükséges feltételek fennállásában bekövetkezett változást a szolgáltató haladéktalanul bejelenti az egészségügyi államigazgatási szervnek.
@@ -1850,7 +1852,7 @@ egészségügyi elbírálása, illetőleg véleményezése.
 
 (6) Az egészségügyi szolgáltatók jogszabályban meghatározott szempontok szerinti elnevezés használatára jogosultak.
 
-108/A. § (1) Egészségügyi szolgáltatás a (2)–(4) bekezdés szerint működési engedély nélkül, az egészségügyi államigazgatási szerv részére megtett bejelentés alapján, hatósági nyilvántartásba vételt követően is megkezdhető és folytatható.
+108/A. § (1) Egészségügyi szolgáltatás a (2)–(4) bekezdés szerint működési engedély nélkül, az egészségügyi államigazgatási szerv részére elektronikus űrlapon megtett bejelentés alapján, hatósági nyilvántartásba vételt követően is megkezdhető és folytatható.
 
 (2) Az (1) bekezdés alapján egészségügyi szolgáltatóként az a személy vagy szervezet működhet, aki vagy amely
 
@@ -1858,12 +1860,16 @@ egészségügyi elbírálása, illetőleg véleményezése.
 - b) az a) pont szerinti közreműködői szerződés alapján a közreműködőt igénybe vevő egészségügyi szolgáltató számára kizárólag az egészségügyi szolgáltatás személyi feltételeit biztosítja, ideértve a személyes szolgáltatásnyújtási kötelezettséggel rendelkező további közreműködőket is,
 - c) közreműködésére kizárólag az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdés b), c), e) vagy j) pontja szerinti jogviszonyok valamelyikében, kizárólag személyes szolgáltatás nyújtásával kerül sor,
 - d) családvédelmi szolgálat keretében nyújt egészségügyi ellátást.
+- e) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 57. § (2) bekezdés a)–d) pontja szerinti bentlakásos intézményeknek a jogszabályban meghatározott kötelező szolgáltatásai körébe tartozó egészségügyi szolgáltatást nyújt,
+- f) igazságügyi szakértői tevékenysége körében, igazságügyi szakértői intézményként jogszabályban meghatározott halottvizsgálatot, halottakkal kapcsolatos orvosi eljárást végez.
 
 (3) Az (1) bekezdés szerinti, hatósági nyilvántartásba vételt követően működő egészségügyi szolgáltatóra az e §-ban és az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.) 6/A. §-ában meghatározott kivételekkel az egészségügyi szolgáltatókra vonatkozó rendelkezések irányadóak.
 
 (4) Az e § alapján működő egészségügyi szolgáltató a 108. § (2) bekezdésében foglaltaktól eltérően – amennyiben a közreműködőt igénybe vevő egészségügyi szolgáltató nem követeli meg – a tevékenységével esetlegesen okozott károk megtérítését biztosító kötelező felelősségbiztosítási szerződés megkötése nélkül, a működési engedéllyel rendelkező egészségügyi szolgáltató felelősségére is működhet.
 
 (5) A (2) bekezdés c) pontja szerinti feltétel az Eütev. 7. § (2) bekezdés e) pontja szerinti munkaviszony létesítésével kizárólag abban az esetben teljesíthető, ha a munkaviszony a közreműködőként működő egészségügyi szolgáltatóval áll fenn. A (2) bekezdés c) pontja és a bekezdés alkalmazásában nem tekinthető munkaviszonynak munkavállaló munkaerőkölcsönzés körében történő foglalkoztatása.
+
+(6) Az egészségügyi államigazgatási szerv felé e törvény alapján megtett bejelentés alapján, hatósági nyilvántartásba vételre irányuló eljárásért vagy igazgatási szolgáltatásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
 ### 2. CÍM — Tárgyi feltételrendszer
 
@@ -1912,6 +1918,8 @@ egészségügyi elbírálása, illetőleg véleményezése.
 - c) a (8) bekezdés szerinti személy megfelelő oktatására vagy felkészítésére vonatkozó kötelezettségének megszegése
 
 okozta.
+
+(9a) Az Eütev. 4. § a) pont ab) alpontja szerinti egészségügyi dolgozó tevékenysége feletti felügyelet a tevékenység végzésének helye szerinti egészségügyi szolgáltatónál tevékenységet végző egészségügyi dolgozó által biztosítandó, foglalkoztatási jogviszonyára tekintet nélkül.
 
 (10) A (4) bekezdésben foglaltaktól eltérően
 
@@ -2001,7 +2009,7 @@ kell alkalmazni, azzal az eltéréssel, hogy az Etv. 18. § (2) bekezdés f) pon
 
 (5) Az alapnyilvántartás vezetéséről – a szakképesítés szintjeinek megfelelően – az egészségügyi államigazgatási szerv gondoskodik.
 
-(6) Az alapnyilvántartást vezető szerv az egészségügyi dolgozók alapnyilvántartásából a (4) bekezdés szerinti – bárki számára megismerhető – adatokat a nyilvántartásba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokat havi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
+(6) Az alapnyilvántartást vezető szerv az egészségügyi dolgozók alapnyilvántartásából a (3) bekezdés szerinti adatokat – kivéve a (3) bekezdés a) pontjából a szakképesítést szerzett személy neme, állampolgársága, lakóhelye és tartózkodási helye, valamint a (3) bekezdés b) pontjából a képzés nyelve – a nyilvántartásba történő felvételt követően, továbbá az ezen adatokban bekövetkezett változásokat napi rendszerességgel – jogszabályban előírt feladatai ellátása érdekében – elektronikus úton, informatikai rendszerkapcsolat útján megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
 
 ### Az egészségügyi dolgozók működési nyilvántartása
 
@@ -2044,6 +2052,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 - l) a külföldi munkavégzés helye, időtartama és a szakterület megnevezése, amely területen az egészségügyi dolgozó a munkát végzi,
 - m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
 - n) a 110. § (16) bekezdés b) pontja szerint kapott, az egészségügyi dolgozó külföldi tevékenységvégzési jogosultágát érintő adat.
+- o) jogszabályban meghatározott halottvizsgálatra jogosult mentőtiszt esetén a halottvizsgálati képzésről szóló igazolást.
 
 (4a) Az egészségügyi dolgozó hivatásának gyakorlásakor
 
@@ -2059,7 +2068,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 (7) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
 
-(7a) A működési nyilvántartást vezető szerv az egészségügyi dolgozók működési nyilvántartásából az (5) bekezdés szerinti – bárki számára megismerhető – adatokat a nyilvántartásba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokat havi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
+(7a) A működési nyilvántartást vezető szerv az egészségügyi dolgozók működési nyilvántartásából a (4) bekezdés b)–c), e), k) és m) pontja, továbbá a (4) bekezdés a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint a (4) bekezdés g) pontjából az egészségügyi tevékenység szüneteltetésének ténye szerinti adatokat a nyilvántartásba történő felvételt követően, továbbá az ezen adatokban bekövetkezett változásokat napi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton, informatikai rendszerkapcsolat útján megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
 
 (8) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, elhalálozás esetén annak dátumáról,, valamint az egészségügyi dolgozók (4) bekezdés b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról – az egészségügyi tevékenység végzéséhez szükséges feltételek fennálltával kapcsolatos adategyeztetés céljából –, annak a működési nyilvántartásba történt bejegyzését követő 15 napon belül elektronikus úton tájékoztatja az illetékes szakmai kamarát. A működési nyilvántartást vezető szerv a szakmai kamara megkeresésére, a kamarai tagság létesítéséhez jogszabály alapján szükséges, a (4) bekezdés b) és k) pontja szerinti adatairól 15 napon belül elektronikus úton tájékoztatja a szakmai kamarát.
 
@@ -2145,7 +2154,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 - j) az egészségügyi ágazati munkaerőigényre vonatkozó adatokat munkakörök és szakképesítések szerinti bontásban,
 - k) az engedélyezett és nyilvántartásba vett gyógyszerismertetői tevékenységet végző egészségügyi szakképesítéssel rendelkező személyek természetes személyazonosító adatait és szakképesítésére vonatkozó adatokat,
 - l) az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatokat, valamint az egészségügyi állás- és létszámkimutatásra vonatkozó adatokat,
-- m) az Ehi. 6. § (4) bekezdése, valamint a 6/A. § (2) bekezdése szerinti nyilvántartás adatait,
+- m) az Ehi. 6. § (4) és (4a) bekezdése, 6/A. § (2) bekezdése, valamint 6/B. § (1) és (2) bekezdése szerinti nyilvántartás adatait,
 - n) az egészségbiztosítási államigazgatási szervvel közvetlenül fennálló finanszírozási szerződés alapján az alapellátás körébe tartozó egészségügyi tevékenységet végző egészségügyi szolgáltatók egészségügyi tevékenység végzésére vonatkozó miniszteri rendeletben meghatározott adatait,
 - o) a vényírási szerződéssel rendelkező orvosok alapnyilvántartási számát és ezen orvosok által felírt vények, beleértve a pro familia vények számára vonatkozó adatokat,
 - p) az Eütev. 16/B. §-a alapján jövedelemkiegészítésben részesíthető egészségügyi dolgozók természetes személyazonosító adatait, valamint a részükre megállapított, az Eütev. 16/A. § szerinti pénzellátás típusára vonatkozó adatokat
@@ -2281,8 +2290,9 @@ a változás bekövetkezésétől számított 15 napon belül köteles bejelente
 
 (3) Az egészségügyi szakirányú szakmai továbbképzésre az vehető fel, aki
 
-- a) az Szkt. alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
-- b) orvos- és egészségtudományi képzési terület egységes osztatlan mesterképzési szakán szerzett szakképzettséggel vagy egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezik, és megfelel az egészségügyi szakirányú szakmai továbbképzésről szóló jogszabályokban meghatározott részvételi követelményeknek.
+- a) az Szkt. alapján egészségügyi szakmával, illetve szakképesítéssel, vagy egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben orvos- és egészségtudományi képzési terület ciklusokra bontott képzés alap- vagy mesterképzési szakán szerzett szakképzettséggel rendelkezik,
+- b) orvos- és egészségtudományi képzési terület egységes osztatlan mesterképzési szakán szerzett szakképzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezik, továbbá megfelel az egészségügyi szakirányú szakmai továbbképzésről szóló jogszabályokban meghatározott részvételi követelményeknek, vagy
+- c) az a) és b) pont alá nem tartozó, felsőoktatási ciklusokra bontott képzés alap- vagy mesterképzési szakon, vagy felsőoktatási egységes osztatlan mesterképzési szakon szerzett szakképzettséggel rendelkezik, és megfelel az egészségügyi szakirányú szakmai továbbképzésről szóló jogszabályokban meghatározott részvételi követelményeknek.
 
 (4)
 
@@ -2594,7 +2604,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 140/B. § (1) Az orvosokkal, fogorvosokkal, továbbá a nem orvosi- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozókkal (e § alkalmazásában a továbbiakban együtt: orvos) szemben szakmai-etikai eljárás (e § alkalmazásában a továbbiakban: etikai eljárás) lefolytatására az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.) VI. Fejezetében foglaltakat e §-ban foglalt eltérésekkel kell alkalmazni. Etikai vétség a (4) bekezdés szerinti szakmai-etikai szabályzatban foglalt szabályok vagy kötelezettségek vétkes megszegése.
 
-(2) Az etikai eljárást – közfeladatként – az ETT folytatja le, első fokon az ETT-nek a Kormány rendeletében meghatározott testülete, másodfokon az ETT elnöksége jár el. Az etikai eljárásra – törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
+(2) Az etikai eljárást – közfeladatként – az ETT folytatja le, első fokon az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testülete, másodfokon az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testülete jár el. Az etikai eljárásra – törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
 
 - a) nem alkalmazhatók a törvénynek
   - aa) az eljárási költség viselésére,
@@ -2604,13 +2614,15 @@ vonatkozó rendelkezései, továbbá
 
 - b) az ügyintézési határidő negyvenöt nap.
 
-(3) Az etikai eljárás tekintetében az Ekt. VI. Fejezet rendelkezéseinek alkalmazása során a területi szervezet etikai bizottságán orvos esetén az ETT-nek a Kormány rendeletében meghatározott testületét, országos etikai bizottság esetén az ETT-t, a kamarai tag alatt az orvost kell érteni. Az Ekt. 25. § (3) bekezdésétől eltérően az ETT az etikai eljárás során első és másodfokon legalább háromtagú bizottságként jár el.
+(3) Az etikai eljárás tekintetében az Ekt. VI. Fejezet rendelkezéseinek alkalmazása során a területi szervezet etikai bizottságán orvos esetén az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testületét, országos etikai bizottság esetén az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testületét, a kamarai tag alatt az orvost kell érteni. Az Ekt. 25. § (3) bekezdésétől eltérően az ETT az etikai eljárás során első és másodfokon legalább háromtagú bizottságként jár el.
 
 (4) Az orvosokra kiterjedő szakmai-etikai szabályzatot – kamarai tagságtól függetlenül – az ETT a miniszter jóváhagyásával adja ki. Az ETT a szakmai-etikai szabályzatot – annak miniszteri jóváhagyását megelőzően – megfelelő határidő tűzésével véleményezés céljából megküldi a Magyar Orvosi Kamara részére. Az ETT a Magyar Orvosi Kamara véleményéről tájékoztatja a minisztert. A szakmai-etikai szabályzatot a miniszter a központi kormányzati honlapon, valamint az ETT a honlapján az elfogadást követő 8 napon belül közzéteszi.
 
 (5) Az etikai gyakorlat egységességének biztosítása érdekében az ETT elvi állásfoglalásokat adhat ki.
 
-(6) Az ETT-nek az etikai eljárás során hozott végleges döntésével szemben bírósági jogorvoslatnak van helye. A kereset a határozat kézbesítésétől számított 30 napon belül terjeszthető elő.
+(6) Az ETT-nek az etikai eljárás során hozott végleges döntésével szemben közigazgatási pernek van helye. A kereset a határozat kézbesítésétől számított 30 napon belül terjeszthető elő.
+
+(6a) Az ETT etikai eljárásban hozott döntését a bíróság nem változtathatja meg.
 
 (7) Az orvosok tekintetében kiszabható etikai büntetések:
 
@@ -3120,7 +3132,7 @@ fenntartására, irányítására.
 
 (2) A kutatás szakmai feltételeit és részletes szabályait a miniszter – az ETT véleményének figyelembevételével – rendeletben állapítja meg, azzal, hogy kutatás engedélyezéséről szóló határozat ellen jogszabály eltérő rendelkezése hiányában fellebbezésnek helye nincs.
 
-(3) A kutatásengedélyezési eljárás ügyintézési határideje ötvenöt nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
+(3) A kutatásengedélyezési eljárás ügyintézési határideje kilencven nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
 
 (3a) A (3) bekezdésben foglaltak az orvostechnikai eszközökkel végzett klinikai vizsgálatok és az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok engedélyezésére nem alkalmazandók.
 
@@ -3395,6 +3407,22 @@ aki megfelel a 171. § (1) bekezdésben foglaltaknak;
 (4) Az ivarsejtek tárolása során a különböző donoroktól származó, az azonos donoroktól nem egyidejűleg levett, a különböző célból adományozott ivarsejtek, valamint az ivarsejt letét céljából tárolt különböző ivarsejtminták nem keverhetők össze.
 
 (5) A tárolt ivarsejtekről, azok kiadásáról, felhasználásáról, illetőleg megsemmisítéséről folyamatos nyilvántartást kell vezetni. A nyilvántartás érdekében a tárolás során az ivarsejteket személyazonosításra alkalmas, kutatási célból végzett tárolás esetén személyazonosításra nem alkalmas módon, tárolási egységenként, azonosítási kóddal kell ellátni.
+
+(6) A (2) bekezdéstől eltérően sejtbanki tevékenységen belül ivarsejtbanki tevékenység végzésére, illetve reprodukciós eljárás végzésére jogosító működési engedéllyel rendelkező egészségügyi szolgáltató ivarsejtet – szakorvosi javaslat alapján – átvehet a (7) bekezdés szerinti letevőtől, annak kérelmére a 166. § (1) bekezdésében meghatározott reprodukciós eljárások jövőbeni, saját célból történő elvégzésének céljából (a továbbiakban: fertilitásprezerváció).
+
+(7) A (6) bekezdés szerinti esetben a letevő kizárólag olyan cselekvőképes személy, vagy életkora miatt korlátozottan cselekvőképes kiskorú lehet, aki orvosi indikációval alátámasztottan, jogszabályban meghatározott betegségének, állapotának, vagy kezelésének következtében a jövőben vélelmezhetően meddővé válik.
+
+(8) A (7) bekezdés szerint letevőt a fertilitásprezerváció feltételeiről előzetesen szóban és írásban egyaránt tájékoztatni kell, a tájékoztatásnak ki kell terjednie különösen az eljárás szükségességének indokaira, céljára, az eljárás alkalmazásától várható eredményre, az eljárás igénybevételének várható költségeire, és az eljárás alkalmazására vonatkozó jogszabályi rendelkezésekre.
+
+(9) Az ivarsejtbanki tevékenységet végző egészségügyi szolgáltató a fertilitásprezerváció céljából letett ivarsejtet a letevő írásbeli rendelkezése alapján csak további sejtbanki tevékenység, vagy reprodukciós eljárás érdekében szolgáltathatja ki a más ivarsejtbanki tevékenység végzésére, vagy reprodukciós eljárás végzésére jogosult egészségügyi szolgáltatónak. Az egészségügyi szolgáltató a letett ivarsejteket a felhasználásig, vagy a (10) bekezdés szerinti megsemmisítésig fagyasztva tárolja.
+
+(10) A (7) bekezdés szerinti letevő írásbeli kérelmére az ivarsejteket a tárolási idő lejárta előtt meg kell semmisíteni. A kérelmet közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
+
+(11) Korlátozottan cselekvőképes kiskorú esetében a (6) bekezdés szerinti szakorvosi javaslat kezdeményezéséhez, és a kérelemhez – beleértve a (10) bekezdés szerinti kérelmet is – a törvényes képviselő hozzájárulása szükséges.
+
+(12) Ha a (11) bekezdés szerinti hozzájárulást a törvényes képviselő nem adja meg, a gyámhatóság a beavatkozás elvégzéséhez a Fővárosi Törvényszéknél kérelmet terjeszthet elő a jognyilatkozat vagy a jognyilatkozatok pótlása iránt. A bírósági eljárásra a 187/A. § (4) és (5) bekezdésében foglaltak alkalmazandók, azzal, hogy a bíróság a jognyilatkozatot abban az esetben pótolja, ha a fertilitásprezerváció elvégzése – figyelembe véve a kérelmező egészségügyi és személyi körülményeit – a kérelmező érdekében áll.
+
+(13) A fertilitásprezerváció keretében letétbe helyezett ivarsejtek esetében a (4) és (5) bekezdésben foglaltakat alkalmazni kell.
 
 ### Embrióadományozás és -letét
 
@@ -3926,7 +3954,9 @@ kezeli.
 
 (3) Az (1) bekezdés a) pontjában foglaltak megállapítására a mentőtiszt vagy a külön jogszabály szerinti orvos jogosult. Az (1) bekezdés b) és c) pontjában foglaltak megállapítására kizárólag kormányrendeletben meghatározott orvos jogosult.
 
-(4) A halottat, perinatális halál esetén a magzatot, valamint az újszülöttet csak a halál bekövetkezését megállapító orvosi halottvizsgálat után lehet kórbonctani vizsgálat, eltemetés, elhamvasztás vagy szerv-, szövetkivétel céljából a halál bekövetkezésének helyéről elszállítani.
+(3a) Az (1) bekezdés b) pontjában foglaltak valószínűsítésére mentőtiszt is jogosult.
+
+(4) A halottat, perinatális halál esetén a magzatot, valamint az újszülöttet csak a halál bekövetkezését megállapító orvosi vagy jogszabályban meghatározott esetekben mentőtiszt által végzett halottvizsgálat után lehet kórbonctani vizsgálat, eltemetés, elhamvasztás vagy szerv-, szövetkivétel céljából a halál bekövetkezésének helyéről elszállítani.
 
 (5) Korai vagy középidős magzati halál esetén halottvizsgálatnak nincs helye, ilyen halálozásról halottvizsgálati bizonyítványt kitölteni nem kell.
 
@@ -4682,6 +4712,13 @@ az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/E
 
 244/I. § (1) Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény és az egészségügyről szóló 1997. évi CLIV. törvény módosításáról szóló 2023. évi I. törvénnyel (a továbbiakban: Módtv4.) megállapított 140/B. § (11) bekezdése szerinti rendelet hatálybalépéséig, valamint a Módtv4.-gyel megállapított 140/B. § (4) bekezdése szerinti szabályzat kiadásáig az ETT a hatáskörébe tartozó etikai eljárást felfüggeszti. A felfüggesztés alatt az elévülési idő szünetel.
 
+(1a) Az (1) bekezdés szerinti ügyekben – a 140/B. § (2) bekezdés b) pontjától eltérően –
+
+- a) az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testülete az elsőfokú döntést,
+- b) az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testülete azon ügyekben, amelyekben az elsőfokú döntést a Magyar Orvosi Kamara hozta meg, a másodfokú döntést
+
+2023. december 31-ig hozza meg.
+
 (2) A 140/B. § (1) bekezdésében meghatározott személy tekintetében az (1) bekezdés szerinti időpontig etikai vétségnek minősül a Magyar Orvosi Kamara etikai kódexében foglalt szabályok vétkes megszegése azzal, hogy nem minősül etikai vétségnek
 
 - a) a Magyar Orvosi Kamara alapszabályában, más belső szabályában meghatározott, valamint a Magyar Orvosi Kamarán belüli, választott tisztségből eredő kötelezettségnek a vétkes megszegése,
@@ -4771,7 +4808,7 @@ rendeletben megállapítsa.
 - j) határozza meg a Budapesten és Pest vármegyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
 - k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
 - l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
-- m) állapítsa meg a 140/B. § (11) bekezdése szerinti etikai eljárás részletszabályait, valamint az ETT etikai eljárásban első fokon eljáró testületét,
+- m) állapítsa meg a 140/B. § (11) bekezdése szerinti etikai eljárás részletszabályait, valamint az ETT etikai eljárásban első és másodfokon eljáró testületét,
 - n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
@@ -4841,6 +4878,7 @@ rendeletben megállapítsa.
   - ke) a nyilvántartásba vételre vonatkozó részletes szabályokat,
   - kf) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére vonatkozó részletes szabályokat,
   - kg) az időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
+  - kh) a megfelelőségértékelési eljárásoktól való eltérésre vonatkozó szabályokat,
 - l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
 - m) az ETT, annak bizottságai, a szakmai kollégium és tagozatai feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
