@@ -227,7 +227,7 @@ a feladatról – a (12) bekezdésben foglaltak figyelembevételével – a 4. h
 
 köthet.
 
-(2) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv 1/A. § (1) bekezdés szerinti ellátási kötelezettségét és felelősségét – a (4) bekezdésben meghatározott kivétellel – nem érinti. A megállapodás, illetve az egészségügyi ellátási szerződés megszűnése esetén az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról haladéktalanul köteles gondoskodni.
+(2) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv 1/A. § (1) bekezdése szerinti ellátási kötelezettségét és felelősségét – a (4) bekezdésben meghatározott kivétellel – nem érinti. A megállapodás, illetve az egészségügyi ellátási szerződés megszűnése esetén az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról haladéktalanul köteles gondoskodni. Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról a megállapodás, illetve az egészségügyi ellátási szerződés megszűnését követő 30 napon belül nem gondoskodik, az egészségügyi államigazgatási szerv a 2. alcím szerinti, a kötelezettség nem teljesítése esetén alkalmazandó szabályok alkalmazásával jár el.
 
 (3) Az (1) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés fennállása esetén a megállapodás, illetve az egészségügyi ellátási szerződés tárgyát képező feladat ellátásához ideiglenesen átadott szakellátási kapacitás tekintetében a szakellátási kapacitás feletti rendelkezési jog az egészségügyi közszolgáltatásért felelős szervet illeti meg.
 
@@ -466,7 +466,7 @@ fennállása esetén.
 
 5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint egészségbiztosító véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
 
-(2) Az ellátási területet településenként kell meghatározni. Ha az ellátási terület valamely településnek csak egy részére terjed ki, akkor az ellátási területet a háziorvosi körzethez igazodva, vagy a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
+(2) Az ellátási területet településenként kell meghatározni. Ha az ellátási terület valamely településnek csak egy részére terjed ki, akkor az ellátási területet a háziorvosi körzethez igazodva, vagy a település érintett része közterületek általi lehatárolásának pontos meghatározásával, vagy az adott település irányítószámának megadásával kell kijelölni.
 
 (3) Az ellátási területeket úgy kell meghatározni, hogy azok – a (9) bekezdésben foglalt kivétellel – átfedés- és hézagmentesen megfeleljenek az adott egészségügyi térség területének, azzal, hogy az (5) bekezdés és a (9) bekezdés b) pontja szerinti esetben az ellátási terület az egészségügyi térség határán túlterjedhet. Amennyiben az adott egészségügyi térségben valamely szakmában ellátást nyújtó egészségügyi szolgáltató nincs, egy másik egészségügyi térségben működő, a hiányzó szakma vonatkozásában megfelelő kapacitással rendelkező szolgáltató ellátási területe a térséghatáron túlterjedhet.
 
@@ -485,7 +485,7 @@ fennállása esetén.
 (8) A kapacitás-nyilvántartás tartalmazza
 
 - a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
-- b) az egészségügyi szolgáltató fenntartójának bejelentése alapján szünetelő kapacitásokra,
+- b)
 - c) a tartalékkapacitásokra,
 - d) a 2. § (2)–(4) bekezdésében foglaltak figyelembevételével az egészségügyi közszolgáltatásért felelős szervre, és
 - e) a 2. § (1) bekezdés a) pontja szerinti megállapodásra, illetve a 2. § (1) bekezdés b) pontja szerinti szerződésre vonatkozóan a (8b)–(8d) bekezdésben meghatározott adatokat.
@@ -499,8 +499,8 @@ fennállása esetén.
 - c) a kapacitással rendelkező egészségügyi szolgáltató szerinti térség megnevezését,
 - d) a kapacitás szerinti szakma megnevezését, kódját,
 - e) a kapacitás mennyiségét (óraszám, illetve ágyszám, illetve egyéb finanszírozási egység),
-- f) a kapacitások módosításának dátumát,
-- g) a szünetelő kapacitások mennyiségét, a szünetelés kezdő időpontját és a szünetelés befejezésének időpontját, továbbá a szünetelés idejére más egészségügyi szolgáltató kijelölésének tényét,
+- f) a kapacitások módosításának, illetve változásának dátumát,
+- g)
 - h) a tartalékkapacitásokat,
 - i) a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve a 2. § (1) bekezdés b) pontja szerinti szerződés
   - ia) típusának megjelölését (ellátási szerződés/megállapodás),
@@ -517,7 +517,7 @@ fennállása esetén.
 
 - a) a térség megnevezését,
 - b) az egészségügyi szolgáltató nevét, egyedi azonosítóját, székhelyét,
-- c) az ellátás nyújtásának telephelyét,
+- c)
 - d) a szakma megnevezését, kódját,
 - e) az ellátás progresszivitási szintjét,
 - f) az ellátási kötelezettséggel érintett ellátási területet településenként, illetve településrészenként.
@@ -553,14 +553,14 @@ fennállása esetén.
 (11a) Az (1) és a (11) bekezdésben foglaltaktól eltérően nem kell ellátási területet megállapítani az e törvény végrehajtásáról szóló rendeletben meghatározott szakmák, ellátási formák és esetek tekintetében, ha
 
 - a) az ellátási terület megállapítása következtében az intézmény által végzett szakmák tekintetében a területi ellátási kötelezettségbe tartozó települések között területi hézag alakulhatna ki, vagy
-- b) az ellátási terület megállapítása a szakmánál kisebb egységekben valósulna meg, és ennek következtében az egészségügyi szolgáltatók által ellátott feladatokkal lefedett települések között területi hézag alakulhatna ki, vagy
-- c) az ellátási érdek alapján a beutalási rend keretében a betegút pontosan meghatározható ellátási terület külön megállapítása nélkül is.
+- b) az ellátási terület megállapítása a szakmánál kisebb egységekben valósulna meg, és ennek következtében az egészségügyi szolgáltatók által ellátott feladatokkal lefedett települések között területi hézag alakulhatna ki,
+- c)
 
 (12) A sürgősségi ellátást igénylő esetben a (2)–(11) bekezdésen foglaltak alapján megállapított ellátási területnek és az e törvény végrehajtásáról szóló kormányrendeletben meghatározott egészségügyi térségnek a határai figyelmen kívül hagyhatóak, amennyiben a beteg sürgősségi ellátására alkalmas legközelebbi egészségügyi szolgáltatónál történő ellátás-igénybevétel érdekében szükséges.
 
 5/B. § (1) A kapacitás-nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
 
-- a) a (2) bekezdésben meghatározott esetekben kérelemre,
+- a) a (2) bekezdésben meghatározott esetekben elektronikus űrlapon benyújtott kérelemre,
 - b) a (4) bekezdésben meghatározott esetben hivatalból módosítja.
 
 (2) A kapacitás-nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
@@ -571,7 +571,9 @@ fennállása esetén.
 
 (3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja.
 
-(4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt, illetve ellátási érdekből szükséges.
+(3a) Ha a fenntartók a (2) bekezdés a) pontja szerint az ellátási terület módosítása ügyében közös kérelmet nyújtanak be az egészségügyi államigazgatási szerv felé, az elektronikus űrlapon történő kérelem benyújtására e fenntartók bármelyike jogosult.
+
+(4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás miatt, vagy ellátási érdekből szükséges.
 
 (5) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján indult eljárásban egészségbiztosító véleményének és a (6) bekezdésben foglaltak, továbbá
 
@@ -600,7 +602,7 @@ fennállása esetén.
 
 (5) Az (1)–(4) bekezdés szerinti átcsoportosítás részletes feltételeit a Kormány rendeletben állapítja meg.
 
-(6)
+(6) A (2) és (4) bekezdés szerinti eljárás keretében az 5/B. §-ban foglaltakat kell alkalmazni.
 
 (7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv ötvenöt napon belül dönt.
 
@@ -748,7 +750,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (4)
 
-(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2017. december 31-éig nem kell megfelelniük a térséghatár figyelembevétele követelményének.
+(5)
 
 (6)
 

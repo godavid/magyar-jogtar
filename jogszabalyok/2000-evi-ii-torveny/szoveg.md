@@ -10,7 +10,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi reform végrehajtása, a 
 
 - a) önálló orvosi tevékenység: a területi ellátási kötelezettség körében az egészségügyi alapellátásról szóló törvény szerint a háziorvos, a házi gyermekorvos, a fogorvos (a továbbiakban együtt: háziorvos) által nyújtott egészségügyi ellátás;
 - b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
-- c) praxisjog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
+- c) praxisjog: a praxiskezelő által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
 
 2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat a kormányrendeletben meghatározott praxiskezelő (a továbbiakban: praxiskezelő) által megállapított háziorvosi körzetben, a praxisjogot engedélyező határozat véglegessé válásától.
 
@@ -25,7 +25,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi reform végrehajtása, a 
 
 jogosult. A b) pontban meghatározott személyek között a leszármazási fok határozza meg a praxisjog folytatására való jogosultság sorrendjét.
 
-(5) Ha a (4) bekezdés b) pontja alapján több, a jogszabályban meghatározott feltételeknek megfelelő személy lenne jogosult a praxisjog folytatására, e jogosultak a korábbi jogosult halálától számított 30 napon belül – jogvesztés terhe mellett – nyújthatják be az egészségügyi államigazgatási szervhez azt a megállapodásukat, amelyben megjelölik a praxisjog folytatására egyedül jogosult személyt.
+(5) Ha a (4) bekezdés b) pontja alapján több, a jogszabályban meghatározott feltételeknek megfelelő személy lenne jogosult a praxisjog folytatására, e jogosultak a korábbi jogosult halálától számított 30 napon belül – jogvesztés terhe mellett – nyújthatják be a praxiskezelőhöz azt a megállapodásukat, amelyben megjelölik a praxisjog folytatására egyedül jogosult személyt.
 
 (6) Ha a (4) bekezdés alapján a praxisjog folytatására jogosult személy nem felel meg a jogszabályban meghatározott feltételeknek:
 
@@ -49,7 +49,7 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (1a) A praxiskezelő kizárólag akkor jelölhet az önkormányzat véleményének kikérését követően más orvost, ha azt jogszabályban meghatározott ellátásbiztonsági és gazdaságossági szempontok indokolják és az ezeknek megfelelő orvost az érintett önkormányzat(ok) a javaslattételt követő 6 hónapon belül sem jelöli(k) meg.
 
-(2) Ha az (1) bekezdés szerinti önkormányzat – a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv véleményének kikérését követően –
+(2) Ha az (1) bekezdés szerinti önkormányzat – a praxiskezelő véleményének kikérését követően –
 
 - a) a praxisjogot megszerezni kívánó orvossal – a praxisjog megszerzése esetén – az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kíván kötni, erről a felek előszerződést kötnek,
 - b) nem kíván a praxisjogot megszerezni kívánó orvossal az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kötni, erről az (1) bekezdés szerinti bejelentés napjától számított 45 napon belül nyilatkoznia kell.
@@ -91,7 +91,9 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (7) Az egészségügyi szolgálati jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – az egészségügyi szolgálati jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
 
-(8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
+(8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxiskezelő – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
+
+(9) Ha a feladatellátási szerződés az (1) bekezdés szerinti tartalmi elemeket nem vagy nem a jogszabályban előírtak szerint tartalmazza, a praxiskezelő annak érvénytelensége megállapítása céljából a bíróság előtt megtámadhatja.
 
 2/C. § A praxiskezelő
 
@@ -112,7 +114,7 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (5) A területi ellátási kötelezettséggel működő háziorvosok működtetési joga 2012. január 1-jével praxisjognak minősül, amely jog arra a körzetre terjed ki, ahol a háziorvos 2012. január 1-jén területi ellátási kötelezettséggel háziorvosi ellátást nyújt, ideértve a munkavégzésben akadályozott, működtetési joggal rendelkező orvost is.
 
-(5a) A praxisjogot a törvény erejénél fogva megszerző háziorvos kérelmére az egészségügyi államigazgatási szerv a praxisjog meglétét hatósági bizonyítvánnyal igazolja.
+(5a) A praxisjogot a törvény erejénél fogva megszerző háziorvos kérelmére a praxiskezelő a praxisjog meglétét hatósági bizonyítvánnyal igazolja.
 
 (6) Azok a működtetési joggal rendelkező háziorvosok, akik 2012. január 1-jén nem rendelkeznek területi ellátási kötelezettséggel (a továbbiakban: működtetési joggal rendelkező háziorvos), tartósan betöltetlen körzetben működtetési joguk alapján területi ellátási kötelezettséget vállalhatnak 2015. december 31-éig. A tartósan betöltetlen körzetek betöltésénél a működtetési joggal rendelkező háziorvosok előnyt élveznek. A működtetési joggal rendelkező háziorvos működtetési joga a tartósan betöltetlen körzet betöltésével – illetékmentesen – praxisjognak minősül. Azon működtetési joggal rendelkező háziorvos működtetési joga, aki 2015. december 31-éig nem tölt be tartósan betöltetlen háziorvosi körzetet, 2015. december 31-i hatállyal megszűnik.
 

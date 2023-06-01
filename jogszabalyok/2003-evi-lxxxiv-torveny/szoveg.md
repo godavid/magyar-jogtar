@@ -123,16 +123,16 @@ terjed ki.
 
 (3) A szabadfoglalkozású jogviszony keretében működő egészségügyi dolgozó az egészségügyi tevékenységet az őt megbízó egészségügyi szolgáltató nevében végzi.
 
-(4) A szabadfoglalkozású egészségügyi tevékenység egyéni vállalkozóként is folytatható. A szabadfoglalkozásra jogosult egyéni vállalkozó esetében az egyéni vállalkozói nyilvántartásban – bárki számára ingyenesen és elektronikusan is elérhetően – fel kell tüntetni az egyéni vállalkozó által folytatható egészségügyi tevékenységet, és azt, hogy kizárólag szabadfoglalkozású egészségügyi tevékenységre jogosult.
+(4) A szabadfoglalkozású egészségügyi tevékenység egyéni vállalkozóként nem folytatható.
 
-(5) A szabadfoglalkozásra jogosult egyéni vállalkozó egészségügyi szolgáltatóként nem működhet, és kizárólag személyesen, csak az egyéni vállalkozói tevékenységeként bejelentett egészségügyi tevékenységet végezheti, alkalmazottat, bedolgozót, segítő családtagot, tanulót nem foglalkoztathat, közreműködőt nem vehet igénybe, nem tarthat fenn telephelyet, fióktelephelyet. Székhelyét azonban nem köteles cégtáblával megjelölni.
+(5)
 
 9. § (1) A szabadfoglalkozású egészségügyi dolgozó és az egészségügyi szolgáltató közötti megbízási szerződésben rögzíteni kell
 
 - a) az ellátandó feladat(ok) pontos megnevezését, a feladatok ellátásához szükséges tárgyi feltételek biztosításának módját, valamint a munkavégzés helyét és idejét,
 - b) a szabadfoglalkozású egészségügyi dolgozó szakmai felettesének megnevezését,
 - c) amennyiben a szabadfoglalkozású egészségügyi dolgozó feladatkörébe más egészségügyi dolgozók szakmai irányítása is beletartozik, az általa irányított, illetve felügyelt egészségügyi dolgozók munkakörének megnevezését,
-- d) az adott időszakban, de legfeljebb 6 hónap alatt a szabadfoglalkozású egészségügyi dolgozó által végzendő egészségügyi tevékenység időtartamát és beosztását, illetve a szabadfoglalkozású egészségügyi dolgozó nyilatkozatát az önkéntesen vállalt többletmunka tervezett mértékéről,
+- d) az adott időszakban, de legfeljebb 6 hónap alatt a szabadfoglalkozású egészségügyi dolgozó által végzendő egészségügyi tevékenység időtartamát és beosztását,
 - e) az ellátott feladatok díjazását,
 - f) a megbízás keretében okozott kár megtérítésének szabályait,
 - g) a szerződés megszüntetésére vonatkozó rendelkezéseket.
@@ -505,7 +505,7 @@ részt vehet.
 
 (6) Az önkéntes segítő egészségügyi dolgozó által – kizárólag az egészségügyi tevékenysége végzésével a betegnek – okozott kár esetén a közérdekű önkéntes tevékenységről szóló törvény alapján a foglalkoztató által követelhető kártérítés mértéke gondatlan károkozás esetén nem haladhatja meg
 
-- a) az (1) bekezdés a) vagy b) pontja szerinti, egészségügyi szakképesítéssel rendelkező személy esetében az egészségügyi szolgáltatónál azonos munkakörben, azonos gyakorlati idővel foglalkoztatott egészségügyi dolgozó munkabére, illetménye, ilyen egészségügyi dolgozó hiányában az adott szakképesítéssel rendelkező egészségügyi dolgozók – Kjt. szabályainak alapulvételével meghatározott besorolási osztályhoz és fokozathoz tartozó – garantált illetménye alapján számított távolléti díja,
+- a) az (1) bekezdés a) és b) pontja szerinti, egészségügyi szakképesítéssel rendelkező személy esetében az egészségügyi szolgáltatónál azonos munkakörben, azonos gyakorlati idővel foglalkoztatott egészségügyi dolgozó munkabére, illetménye, ilyen egészségügyi dolgozó hiányában az adott szakképesítéssel rendelkező egészségügyi dolgozók – Eszjtv. szabályainak alapulvételével meghatározott, az Eszjtv. 8. § (3) bekezdése szerinti személyi kör esetén a fizetési fokozathoz, az egészségügyi szakdolgozók esetén a fizetési osztályhoz és fizetési fokozathoz tartozó – illetménye alapján számított távolléti díjának a,
 - b) az (1) bekezdés c) pontja szerinti, egészségügyi szakképesítéssel nem rendelkező személy esetében a minimálbér négy havi összegét. Szándékos károkozás esetén a teljes kárt kell megtéríteni.
 
 (7) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő személynek a képzés ideje alatt, önkéntes segítői jogviszonyban végzett egészségügyi tevékenysége – a költségtérítéses képzésben részt vevő nem magyar állampolgár, valamint hontalanként elismert személy kivételével – a képzés megszerzéséhez szükséges szakmai gyakorlatként nem ismerhető el.

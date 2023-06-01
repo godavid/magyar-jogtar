@@ -37,7 +37,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (4) Ha a köztársasági elnök által korábban felmentett bírót a munkaügyi jogvita alapján bírói tisztségébe vissza kell helyezni, a köztársasági elnök a felmentést megelőző kinevezés szerinti határozott vagy határozatlan idejű kinevezést ad.
 
-(4a) Ha az Alkotmánybíróság tagja az Alkotmánybíróságról szóló törvény szerint kérelmezte bíróvá történő kinevezését, őt a köztársasági elnök pályázat kiírása nélkül határozatlan időre bíróvá kinevezi.
+(4a)
 
 (5) A kinevezésre vonatkozó javaslat és a kinevezési okirat tartalmazza a bírói szolgálati viszony kezdetét, valamint határozott idejű kinevezés esetén a bírói szolgálati viszony időtartamát, határozatlan idejű kinevezés esetén az erre való utalást.
 
@@ -113,7 +113,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 8. § (1) Nem kell pályázatot kiírni
 
-- a) a 3. § (4) és (4a) bekezdésében,
+- a) a 3. § (4) bekezdésében,
 - b) a 23. § (3) bekezdésében,
 - c) a 24. § (3) bekezdésében,
 - d) a 34. § (2) bekezdésében,
@@ -200,7 +200,7 @@ meghatározott esetben.
 - b) a bírói tanács általi meghallgatás eredményét,
 - c) a betöltendő álláshely szerinti járásbíróság elnökének véleményét,
 
-(4) Az igazságügyért felelős miniszter rendeletben határozza meg az (1)–(3) bekezdésben felsorolt szempontokhoz rendelhető pontszámot a bírói, a magasabb bírói álláshelyre benyújtott pályázat esetén. Magasabb bírói álláshelyre pályázó esetében az (1) és (3) bekezdésben foglaltak súlyozásakor az (1) bekezdés a) pontjában és a (3) bekezdés a) pontjában foglalt szempontnak kell kiemelt jelentőséget tulajdonítani.
+(4) Az igazságügyért felelős miniszter rendeletben határozza meg az (1)–(3) bekezdésben felsorolt szempontokhoz rendelhető pontszámot a bírói, a magasabb bírói álláshelyre benyújtott pályázat esetén. Magasabb bírói álláshelyre pályázó esetében az (1) és (3) bekezdésben foglaltak súlyozásakor az (1) bekezdés a) pontjában és a (3) bekezdés a) pontjában foglalt szempontnak kell kiemelt jelentőséget tulajdonítani. A rendelet tervezetére az OBT által kialakított véleménytől nem térhet el az igazságügyért felelős miniszter. A rendelet kihirdetése és hatálybalépése között legalább 60 napnak el kell telnie.
 
 15. § (1) A pályázati határidő leteltét követő 15 napon belül
 
@@ -239,6 +239,8 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 (4) Ha a javasolt pályázó nem bíró, úgy az OBH elnöke az első három helyen rangsorolt pályázó pályázatát a javasolt pályázó megjelölésével és az eltérés indokait tartalmazó írásos javaslatával egyetértés beszerzése céljából megküldi az OBT-nek. Az OBT a javaslatról 15 napon belül határoz. Ha az OBT az OBH elnökének javaslatával egyetért, az OBH elnöke a pályázót a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti. Ha az OBT az OBH elnökének javaslatával nem ért egyet, az OBH elnöke az első helyen rangsorolt pályázót, ha az nem bíró, a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti, ha bíró, 8 munkanapon belül áthelyezi, vagy az OBT felé új javaslatot tesz, vagy a pályázatot eredménytelenné nyilvánítja.
 
 (5) Ha a javasolt pályázó bíró, úgy az OBH elnöke az első három helyen rangsorolt pályázó pályázatát a javasolt pályázó megjelölésével és az eltérés indokait tartalmazó írásos javaslatával egyetértés beszerzése céljából megküldi az OBT-nek. Az OBT a javaslatról 15 napon belül határoz. Ha az OBT az OBH elnökének javaslatával egyetért, az OBH elnöke a bírót 8 munkanapon belül áthelyezi. Ha az OBT az OBH elnökének javaslatával nem ért egyet, az OBH elnöke az első helyen rangsorolt pályázót, ha az bíró, 8 munkanapon belül áthelyezi, ha nem bíró, a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti, vagy az OBT felé új javaslatot tesz, vagy a pályázatot eredménytelenné nyilvánítja.
+
+(6) Ha a pályázaton legalább egy, a pályázati feltételeknek megfelelő, érvényes pályázatot benyújtó, a bírói tanács rangsorában szereplő pályázó részt vett, és az OBH elnöke a pályázatot eredménytelenné kívánja nyilvánítani, előzetesen be kell kérnie az OBT egyetértését, és az eredménytelenné nyilvánításra az OBT egyetértésével kerülhet sor.
 
 19. § A Kúriára kiírt pályázat esetében a 18. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az OBH elnökének jogköreit a Kúria elnöke gyakorolja, és a pályázat eredményes elbírálása esetén, 8 munkanapon belül a felterjesztés vagy az áthelyezés érdekében megkeresi az OBH elnökét, aki a Kúria elnöke megkeresésének 8 munkanapon belül eleget tesz.
 
@@ -343,7 +345,7 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 (2) A bírót az OBH elnöke az OBH-ba, a Kúria elnökének javaslatára a Kúriára is beoszthatja.
 
-(3) Az (1) és (2) bekezdésben meghatározott esetekben a bíró beosztásához a bíró hozzájárulása szükséges.
+(3) Az (1) és (2) bekezdésben meghatározott esetekben a bíró beosztásához a bíró hozzájárulása szükséges, továbbá a bírónak a Kúriára történő beosztásához az OBT egyetértése is szükséges.
 
 27/A. § (1) Az OBH elnöke a bírót
 
@@ -356,7 +358,7 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 beoszthatja.
 
-(2) Az (1) bekezdés szerinti szervhez (a továbbiakban: érintett szerv) történő beosztást a bíró kérelmére az érintett szerv vezetője – az ügyészség esetén a legfőbb ügyész – kezdeményezheti. A beosztáshoz a bíró felett munkáltatói jogkört gyakorló bíróság elnökének egyetértése szükséges.
+(2) Az (1) bekezdés szerinti szervhez (a továbbiakban: érintett szerv) történő beosztást a bíró kérelmére az érintett szerv vezetője – az ügyészség esetén a legfőbb ügyész – kezdeményezheti. A beosztáshoz a bíró felett munkáltatói jogkört gyakorló bíróság elnökének, valamint az OBT-nek az egyetértése szükséges.
 
 28. § (1) A bíró – hozzájárulásával – az OBH elnökének döntése alapján tartós külszolgálatot láthat el. A tartós külszolgálatot ellátó bíró megtartja bírói tisztségét, de ítélkezési tevékenységet kizárólag a külszolgálat keretében végezhet; a külszolgálat befejezését követően a tényleges bírói munkakörbe történő beosztására pedig az 58. § (3) és (4) bekezdését kell alkalmazni.
 
@@ -378,7 +380,7 @@ beoszthatja.
 
 (2) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 680. § (4) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
 
-(3) Az (1), (1a) és (2) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
+(3) Az (1), (1a), (2) és (7) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
 
 (4) A jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló, valamint a helyi önkormányzat törvényen alapuló jogalkotási kötelezettségének elmulasztása miatti eljárásban eljáró bírákat a Kúria elnöke jelöli ki.
 
@@ -387,6 +389,8 @@ beoszthatja.
 (6) A bíró kijelöléséhez a bíró hozzájárulása szükséges.
 
 (7) Az OBH elnöke a kijelölést a kijelölés kezdeményezésére jogosult indítványára megszünteti.
+
+(7a) Ha az OBH elnöke vagy a Kúria elnöke a kijelölést a bíró hozzájárulása nélkül kívánja megszüntetni, előzetesen be kell kérnie az OBT egyetértését, és a megszüntetésre az OBT egyetértésével kerülhet sor.
 
 (8) Az érintett szervhez történő beosztás kivételével a beosztási hely változása esetén a kijelölés megszűnik.
 
@@ -408,6 +412,10 @@ beoszthatja.
 - b) ítélőtábla
 
 elnökének véleményét.
+
+(1a) Ha a bírót az OBH elnöke kívánja kirendelni, előzetesen be kell kérnie az OBT egyetértését, és a kirendelésre az OBT egyetértésével kerülhet sor.
+
+(1b) Ha az OBH elnöke a bírót a Kúriára kívánja kirendelni, az OBT (1a) bekezdés szerinti egyetértésének kikérését megelőzően be kell kérnie a Kúria bírói tanácsa, valamint a Kúriának a kirendelendő bíró ügyszakának megfelelő ügyszakú kollégiuma egyetértését, és a kirendelésre a bírói tanács és a kollégium, valamint az OBT egyetértésével kerülhet sor.
 
 (2) A kirendelésnél a bíró méltányos érdekét figyelembe kell venni.
 
@@ -552,7 +560,7 @@ elnökének véleményét.
 
 (3) A törvényszék, az ítélőtábla, valamint a Kúria elnöke biztosítja a bíró (1) bekezdésben foglalt kötelezettségeinek teljesítéséhez szükséges feltételeket.
 
-(4) Az (1) bekezdés szerinti képzés rendszerének és a képzési kötelezettség teljesítésének szabályait az OBH elnöke szabályzatban határozza meg.
+(4) Az OBH elnöke az (1) bekezdés szerinti képzés rendszerének és képzési kötelezettség teljesítésének szabályait az OBT egyetértésével kiadott szabályzatban határozza meg.
 
 #### 24. Az elektronikus aláírás használata
 
@@ -660,7 +668,7 @@ történő rendelkezésre állás.
 
 (2) A bíró hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
 
-(3) A hivatali beosztás megszűnését követően a bírót tényleges bírói álláshelyre, indokolt esetben pályázat nélkül tanácselnöki munkakörbe kell beosztani, illetve kinevezni a bíró hivatali tevékenységét megelőző vagy azzal legalább azonos szintű, lehetőleg a bíró lakóhelye szerinti szolgálati helyre.
+(3) A hivatali beosztás megszűnését követően a bírót tényleges bírói álláshelyre, indokolt esetben pályázat nélkül tanácselnöki munkakörbe kell beosztani, illetve kinevezni a bíró hivatali tevékenységét megelőző vagy azzal azonos szintű, lehetőleg a bíró lakóhelye szerinti szolgálati helyre.
 
 (4) A bíró – hozzájárulásával – más szolgálati helyre is beosztható.
 
@@ -911,13 +919,13 @@ előzetesen megküldi a vizsgálati jelentést és az értékelési javaslatot.
 (1a) A bíró szolgálati viszonya – a 96. § (3) bekezdésében foglalt eset kivételével –, ha
 
 - a) a bírót az Országgyűlés az Alkotmánybíróság tagjává választotta, a hivatalba lépésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig,
-- b) a 3. § (4a) bekezdés szerint jön létre, a kinevezésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig
+- b)
 
 szünetel.
 
 (2) A szolgálati viszony szünetelését követően a bíró beosztására az 58. § (3) és (4) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-(3) A szolgálati viszony (1a) bekezdés szerinti szünetelését követően a Kúria elnöke a bírót a Kúriára osztja be.
+(3) A szolgálati viszony (1a) bekezdés a) pontja szerinti szünetelését követően a bírót az Alkotmánybíróság tagjává történt választását megelőző szolgálati helyére kell beosztani.
 
 #### 42. A bírói szolgálati viszonyának megszűnése
 
@@ -974,7 +982,7 @@ szünetel.
 
 (2) Ha a bíró felmentésére azért kerül sor, mert betöltötte a felmentési okként meghatározott életkort, az előterjesztést olyan időpontban kell megtenni, hogy a felmentési idő ennek az életkornak a betöltését megelőzően járjon le.
 
-(3) Ha a bíró szolgálati viszonya a 88. § (1a) bekezdés alapján szünetel, és ez alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
+(3) Ha a bíró szolgálati viszonya a 88. § (1a) bekezdés a) pontja alapján szünetel, és ez alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
 97. § (1) A katonai bíró felmentéséről szóló javaslatot az OBH elnöke a honvédelemért felelős miniszterrel együttesen terjeszti a köztársasági elnök elé.
 
@@ -1698,13 +1706,14 @@ végzi.
 - e) tanulmányi ösztöndíj, képzési, továbbképzési és nyelvtanulási támogatás,
 - f) illetményelőleg,
 - g) a bírói szolgálati viszonyban töltött idő anyagi elismerése,
-- h) hosszú bírói szolgálati viszony esetén megtakarítás jellegű életbiztosítás kötése,
-- i) a helyi munkába járás támogatása,
-- j) kezességvállalással vagy kedvezményes kölcsönnel gépkocsi-vásárlás támogatása.
+- h) jutalom,
+- i) hosszú bírói szolgálati viszony esetén megtakarítás jellegű életbiztosítás kötése,
+- j) a helyi munkába járás támogatása,
+- k) kezességvállalással vagy kedvezményes kölcsönnel gépkocsi-vásárlás támogatása.
 
 (2) A nyugállományú bíró pénzbeli és természetbeni támogatásban részesíthető.
 
-(3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – szabályzatban állapítja meg.
+(3) Az (1) és (2) bekezdésben meghatározott juttatások mértékét és részletes feltételeit – ideértve a juttatások odaítélésének feltételeit is – az OBH elnöke az érdek-képviseleti szervekkel együttműködve, valamint az OBT egyetértésével, szabályzatban állapítja meg.
 
 189/A. § (1) Ha a bírónak átlagilletményt kell fizetni, részére az átlagszámítás alapjául szolgáló időszakra (a továbbiakban: irányadó időszak) kifizetett illetmény és jutalom (a továbbiakban e §-ban együtt: javadalmazás) időarányosan számított átlaga jár.
 
@@ -2215,6 +2224,10 @@ kerülhet sor.
 - a) az 55. § (3a) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
 - b) az 55. § (3a) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
 
+232/X. § (1) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatálybalépésének napjáig hatályos rendelkezések alapján bíróvá kinevezett alkotmánybíró bírói kinevezését. E bíró szolgálati viszonya szünetel a kinevezéstől az Alkotmánybíróságban betöltött tagsága megszűnéséig. A szolgálati viszony szünetelését követően a bírót a választása szerinti ítélőtáblára kell beosztani. Ha e bíró a bírói szolgálati viszony szünetelése alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
+
+(2) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatályba lépésének napjáig hatályos 27. és 27/A. § rendelkezései alapján beosztott bíró jogállását.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2235,7 +2248,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 232/X. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

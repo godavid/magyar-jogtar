@@ -36,6 +36,8 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 
 3/B. § E törvény alkalmazásában személyazonosító adat az olyan, az egészségügyi adat érintettjének azonosítására szolgáló személyes adat, amelyet az adatkezelő az egészségügyi adattal együtt, az egészségügyi adat kezelésével azonos vagy attól elválaszthatatlan céllal az egészségügyi dokumentáció részeként kezel.
 
+3/C. § E törvény alkalmazásában a kezelést végző orvossal egy tekintet alá esik a jogszabályban meghatározott halottvizsgálatra jogosult és azt végző, valamint a mentési feladatokat ellátó mentőtiszt, továbbá igazságügyi szakértői tevékenysége körében jogszabályban meghatározott halottvizsgálatot, halottakkal kapcsolatos orvosi eljárást végző orvos.
+
 ### II. Fejezet — Az adatkezelés célja
 
 4. § (1) Az egészségügyi és személyazonosító adat kezelésének célja:
@@ -461,6 +463,8 @@ tartalmazza.
 
 (6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv az érintett halálát követő 10 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, amely a 10 éves őrzési időn túlmutat, akkor az ügy lezárásának időpontjáig kezeli. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
 
+(7) Az egészségbiztosítási szerv a 4. § (2) bekezdés g) pontja szerinti célból, törvényben meghatározott feladata ellátása során, az ehhez szükséges mértékű egészségügyi adathoz az EESZT útján is hozzáférhet.
+
 22/A. § (1) A 4. § (2) bekezdés v) pontja szerinti célból az egészségügyért felelős miniszter rendelete szerint vezetett Betegségregiszter működik.
 
 (2) A Betegségregisztert az egészségügyi államigazgatási szerv hozza létre, működteti és értékeli a beérkezett adatokat.
@@ -556,6 +560,17 @@ az (1) bekezdés szerinti megkeresést vagy adatkérést rövid úton is előter
 (4) Az (1) és (3) bekezdés szerinti adattovábbításhoz az érintett, illetve az adattal kapcsolatosan egyébként rendelkezésre jogosult beleegyezése nem szükséges.
 
 24/A. § A közúti járművezetők egészségi alkalmassági adatairól a vizsgálatot végző szerv az EESZT útján haladéktalanul értesíti a közúti közlekedési nyilvántartó szervet.
+
+24/B. § (1) Ha jogszabály
+
+- a) a lőfegyverekről és lőszerekről szóló törvény alapján engedélyköteles eszköz megszerzését, illetve tartását az egészségi alkalmasság igazolásához köti, vagy
+- b) a szolgálati lőfegyver viselésére feljogosító jogviszony létesítéséhez, illetve munkakör ellátásához vagy szolgálati beosztás betöltéséhez orvosi, egészségi vagy egyéb egészségügyi alkalmassági vizsgálatot ír elő,
+
+az egészségi alkalmassági vizsgálatot végző orvos jogosult az érintett személynek az EESZT-ben tárolt, az a), illetve a b) pont szerinti alkalmasság megállapításához vagy kizárásához szükséges adatainak a kezelésére.
+
+(2) Ha az érintett a 13. § b) pontja szerinti okból az alkalmasság tekintetében releváns vonatkozó egészségügyi adatot nem vagy a vizsgálathoz nem teljeskörűen adott át vagy az adatok tekintetében ellenőrzés szükséges, az (1) bekezdés a), illetve b) pontja szerinti alkalmasság megállapítására vagy kizárására irányuló vizsgálat eredményes lefolytatása érdekében az egészségi alkalmassági vizsgálatot elvégző orvos számára az EESZT működtetője a 35/C. § (1) bekezdése szerinti korlátozás alá, valamint az érintett önrendelkezésében foglalt korlátozás alá eső adatokat is hozzáférhetővé teszi.
+
+(3) Az (1) bekezdés szerinti, egészségi alkalmassági vizsgálatot végző orvos a (2) bekezdésben meghatározott adatokat a bűncselekmények megelőzése, az élet és a testi épség védelme céljából az (1) bekezdés a), illetve b) pontja szerinti alkalmasság kérdésében adandó véleményének a közléséig kezeli.
 
 25. § Egészségügyi és személyazonosító adatot közigazgatási hatósági eljárás, illetve az érintettnek intézményi elhelyezése, gondozása céljából akkor lehet továbbítani, ha arra az érintett jogai érvényesítéséhez vagy kötelezettségei teljesítéséhez van szükség.
 
@@ -695,11 +710,24 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (7) A miniszter rendeletben határozza meg a (6) bekezdés szerinti követelmények teljesítéséhez szükséges feltételeket.
 
-(8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e.
+(8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e. Ha jogszabály az EESZT működtetőjének erről szóló tájékoztatási kötelezettségét előírja, az ellenőrzésének eredményét a hatósági ellenőrzést végző államigazgatási szerv számára automatizált lekérdező felület útján is – a személyes adatok törvényben meghatározott kezelésének szabályai betartása mellett – biztosíthatja.
 
 (9) Törvényben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
 
 (10) A betegellátás során nem követelhető meg az érintettől olyan egészségügyi dokumentáció bemutatása vagy egészségügyi adat igazolása, amely az EESZT-ben elérhető.
+
+(11) Az EESZT működtetője az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 4. § (5) bekezdése szerinti összeférhetetlenség ellenőrzése és vizsgálata érdekében az Eszjtv. hatálya alá tartozó egészségügyi szolgáltató (a továbbiakban: megkereső munkáltató) megkeresésére adatot szolgáltat arról, hogy az egészségügyi szolgálati jogviszonyban álló foglalkoztatottja a megkeresésben foglalt legfeljebb egyéves időtartamban, az egészségügyi szolgáltató által megjelölt beteget a megkeresésben megjelölt betegségkódok miatt más egészségügyi szolgáltatónál kezelte-e. Az EESZT működtetője a megkeresés adatait legfeljebb az adatszolgáltatás idejéig kezeli.
+
+(12) A megkereső munkáltató a (11) bekezdés szerinti betegségkódokat az általa kezelt betegség, betegségcsoport, valamint az érintett betegség jellegzetes tüneteihez kapcsolódó más betegség, betegségcsoport szerint határozza meg.
+
+(13) Ha a (11) bekezdés szerinti megkeresés alapján az egészségügyi szolgálati jogviszonyban álló személy más egészségügyi szolgáltatónál a megkeresés szerinti betegségkódok valamelyikével kezelte a megkeresés szerinti beteget, a megkereső munkáltató az összeférhetetlenség vizsgálatának eredményes lefolytatása, a betegek biztonságos ellátása és az egészségügyi ellátás iránti közbizalom fenntartása érdekében az EESZT működtetőjétől az egészségügyi szolgálati jogviszonyban álló személy tekintetében a (11) bekezdésben foglalt megkeresésében szereplő adatok következő részletezését kérheti:
+
+- a) az egészségügyi szolgálati jogviszonyban álló személy mely egészségügyi szolgáltató keretében nyújtotta a (11) bekezdés szerinti egészségügyi szolgáltatást,
+- b) az egészségügyi szolgálati jogviszonyban álló személy mikor nyújtotta a (11) bekezdés szerinti egészségügyi szolgáltatást.
+
+(14) Az EESZT működtetője a megkeresés adatait legfeljebb az adatszolgáltatás idejéig kezeli.
+
+(15) A megkereső munkáltató köteles biztosítani, hogy az ellátási összeférhetetlenségi eljárás során beszerzett vagy vizsgált, a beteg azonosítását lehetővé tevő egészségügyi adatot – ha jogszabály vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – a munkáltató által foglalkoztatott és az ellátási összeférhetetlenségi eljárásban közvetlenül részt vevő, e tekintetben külön titoktartási kötelezettséget vállaló orvos ismerheti meg.
 
 35/C. § (1) Az EESZT-t a 35/B. § (3) bekezdése szerint igénybe vevő természetes személy (a továbbiakban: EESZT felhasználó) azonosítását az EESZT használatakor a működtető végzi el. A csatlakozott adatkezelők, valamint az EESZT felhasználók által az EESZT útján hozzáférhető adatok és szolgáltatások körét az érintett adatok kezelésére vonatkozó jogszabályi rendelkezések alapján a működtető korlátozhatja.
 
@@ -732,18 +760,18 @@ Az azonosítási és jogosultságkezelési nyilvántartás az egészségügyi sz
 
 (5)
 
-35/E. § (1) A működtető vezetője a felügyelete alá tartozó, az általános adatvédelmi rendelet 37. cikk (5) bekezdésének megfelelő adatvédelmi tisztviselőt nevez ki, aki az EESZT szolgáltatásai tekintetében ellátja az általános adatvédelmi rendelet 39. cikkében, továbbá a (2) és (3) bekezdésben foglalt feladatokat.
+35/E. § (1) A működtető vezetője a felügyelete alá tartozó, az általános adatvédelmi rendelet 37. cikk (5) bekezdésének megfelelő adatvédelmi tisztviselőt nevez ki, aki az EESZT szolgáltatásai tekintetében ellátja az általános adatvédelmi rendelet 39. cikkében foglalt feladatokat.
 
-(2) Az adatvédelmi tisztviselő a csatlakozott adatkezelőktől és az EESZT felhasználóktól adatot, dokumentumot vagy tájékoztatást kérhet. A kért adatot, dokumentumot vagy tájékoztatást soron kívül, de legkésőbb öt munkanapon belül az adatvédelmi tisztviselő rendelkezésére kell bocsátani.
+(2) Az EESZT működtetője a csatlakozott adatkezelőktől és az EESZT felhasználóktól adatot, dokumentumot vagy tájékoztatást kérhet. A kért adatot, dokumentumot vagy tájékoztatást soron kívül, de legkésőbb öt munkanapon belül az EESZT működtetője rendelkezésére kell bocsátani.
 
-(3) Az adatvédelmi tisztviselő
+(3) Az EESZT működtetője
 
 - a) jogszabályi rendelkezések, illetve biztonsági előírások megsértésének vagy adatvédelmi incidens észlelése esetén annak megszüntetésére, valamint
 - b) a (2) bekezdés szerinti együttműködés hiányában együttműködésre
 
 hívja fel az érintett csatlakozott adatkezelőt.
 
-(4) A (3) bekezdés szerinti felhívás eredménytelensége esetén az adatvédelmi tisztviselő a csatlakozott adatkezelő felügyeleti szervéhez, fenntartójához fordul, és jogszabály szerinti fegyelmi felelősségre vonás felmerülése esetén értesíti a fegyelmi jogkör gyakorlóját is.
+(4) A (3) bekezdés szerinti felhívás eredménytelensége esetén az EESZT működtetője a csatlakozott adatkezelő felügyeleti szervéhez, fenntartójához fordul, és jogszabály szerinti fegyelmi felelősségre vonás felmerülése esetén értesíti a fegyelmi jogkör gyakorlóját is.
 
 ### Központi eseménykatalógus
 

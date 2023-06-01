@@ -342,9 +342,9 @@ tartalmazza.
 
 (4) A (3) bekezdés szerinti nyilvántartás adatait a működtető az (1) bekezdés szerinti beutaló visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, illetve a (2) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
 
-19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárásrend, vizsgálati és terápiás eljárási rend, valamint rehabilitációs ellátási program szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárásrendben, a vizsgálati és terápiás eljárási rendben, valamint a rehabilitációs ellátási programokban foglaltaktól eltérhet.
+19. § (1) Az egészségügyi ellátás keretében a biztosított a finanszírozott egészségügyi szolgáltatások igénybevételére a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által jóváhagyott, az egészségbiztosítási szerv által a honlapján az alkalmazást megelőzően 30 nappal közleményben közzétett, az adott ellátásra meghatározott finanszírozási eljárásrend, az egészségbiztosításért felelős miniszter által meghatározott vizsgálati és terápiás eljárási rend, valamint rehabilitációs ellátási program szerint a finanszírozási jogszabályokban meghatározott egyéb igénybevételi feltételek figyelembevételével jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárásrendben, a vizsgálati és terápiás eljárási rendben, valamint a rehabilitációs ellátási programban foglaltaktól eltérhet.
 
-(2) Amennyiben az adott ellátás tekintetében az egészségbiztosításért felelős miniszter nem határoz meg finanszírozási eljárásrendet, vizsgálati és terápiás eljárási rendet vagy rehabilitációs ellátási programot, a biztosított a kezelőorvos által gyógyító céllal rendelt, a szolgáltatónál rendelkezésre álló mindazon finanszírozott vizsgálati és terápiás ellátásra jogosult, amely egészségi állapotának lehetséges mértékű helyreállításához szükséges.
+(2) Ha az adott ellátás tekintetében nem került meghatározásra az (1) bekezdés szerinti finanszírozási eljárásrend, vizsgálati és terápiás eljárási rend vagy rehabilitációs ellátási program, a biztosított a kezelőorvos által gyógyító céllal rendelt, a szolgáltatónál rendelkezésre álló mindazon finanszírozott vizsgálati és terápiás ellátásra jogosult, amely egészségi állapotának lehetséges mértékű helyreállításához szükséges.
 
 (3) Az egészségügyi szolgáltatás igénybevétele során a biztosított a finanszírozott egészségügyi szolgáltató munkarendje alapján beosztott orvos helyett másik orvost igényelhet, amennyiben azt a biztosított egészségi állapota által indokolt ellátás szakmai tartalma és az ellátás sürgőssége nem zárja ki, azzal, hogy ezt a szabályt az egészségügyi szolgáltatónál nem munkaviszonyban, közalkalmazotti jogviszonyban, illetve egészségügyi szolgálati jogviszonyban foglalkoztatott orvos választására is alkalmazni kell.
 
@@ -378,7 +378,7 @@ tartalmazza.
 
 20. § (1) A finanszírozási szerződés szerinti ellátásra kötelezett szolgáltató
 
-- a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – ha a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
+- a) a fekvőbeteg-gyógyintézeti ellátások elvégzését a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
 - b) a járóbeteg-szakellátások elvégzését a jogszabály szerinti betegfogadási lista alapján teljesíti,
 - c) a jogszabályban meghatározott esetek ellátását intézményi regisztrációs lista alapján tervezi, ütemezi és teljesíti
 
@@ -432,9 +432,9 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
 
-(9) Az intézményi várólistát vezető személy gondoskodik a biztosított intézményi várólistára történő felvételéről és az intézményi előjegyzési listából történő egyidejű törléséről, ha az intézményi várólista szerint adható legkorábbi időpont eléri vagy meghaladja a beteg kérésére az intézményi előjegyzési listában rögzített időpontot.
+(9)
 
-(10) Az intézményi előjegyzési lista tekintetében a (3c) és (9) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
+(10) Az intézményi előjegyzési lista tekintetében a (3c) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
 
 (11) Az intézményi regisztrációs lista tekintetében a (2) bekezdés a) pontjában, a (2a) és (2b) bekezdésben, a (3b) bekezdésben, a (6) bekezdésben és a (8) bekezdésben, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
 
@@ -514,8 +514,8 @@ megfelelően kell eljárni.
 
 (6) Az utazási költségekhez nyújtott támogatás a külön jogszabályban foglaltak szerint illeti meg
 
-- a) a 16 éven aluli gyermek kísérőjét,
-- b) a 16 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet az utazási költségtérítési támogatásra vonatkozó igényt rögzítő egészségügyi szolgáltató szükségesnek tartja.
+- a) a 18 éven aluli gyermek kísérőjét,
+- b) a 18 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet az utazási költségtérítési támogatásra vonatkozó igényt rögzítő egészségügyi szolgáltató szükségesnek tartja.
 
 (7) Helyi utazás költségeihez támogatás nem vehető igénybe.
 
@@ -608,6 +608,7 @@ egészségügyi szolgáltatások
 kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van,
 
 - c) a 3000 forint havi terápiás költséget el nem érő készítményekre.
+- d) a vény nélkül kiadható, nem támogatott gyógyszerekre.
 
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 
@@ -661,7 +662,7 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
-(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló, tartósan harmadik államban foglalkoztatott biztosított, a vele életvitelszerűen együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti külképviselet által foglalkoztatott házastársa, továbbá a biztosított Magyar Honvédségnél a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban harmadik államban foglalkoztatott házastársa, élettársa által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségét az egészségbiztosító megtéríti. Külföldön bekövetkezett üzemi baleset esetén, ha az ellátás is külföldön történik, az egészségbiztosító a felmerült költségeket megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségét, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
+(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló, tartósan harmadik államban foglalkoztatott biztosított, a vele életvitelszerűen együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti külképviselet által foglalkoztatott házastársa, továbbá a biztosított Magyar Honvédségnél a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban harmadik államban foglalkoztatott házastársa, élettársa által a (2) bekezdésben meghatározott, indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségét az egészségbiztosító az ellátás igénybevételekor hatályos jogszabályok alapján megtéríti. Külföldön bekövetkezett üzemi baleset esetén, ha az ellátás is külföldön történik, az egészségbiztosító a felmerült költségeket megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségét, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
 
 (6) A határon átnyúló egészségügyi ellátás keretében, ha a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – a II. fejezet 1–3. címében meghatározott egészségügyi szolgáltatásokat vesz igénybe, ugyanolyan jogállással rendelkezik, mintha hasonló helyzetben Magyarországon vett volna igénybe egészségügyi ellátást. Az egészségbiztosító az ellátás hitelt érdemlően igazolt tényleges költségét téríti meg azzal, hogy az egészségbiztosító által fizetendő térítés összege nem haladhatja meg az igénybevétel idején az ellátásra vonatkozó magyarországi közfinanszírozott ellátás belföldi költségének mértékét. A biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – ezen egészségügyi szolgáltatások közül csak előzetes engedély alapján jogosult a külföldi gyógykezelések rendjéről szóló kormányrendeletben meghatározott ellátások igénybevételére. Amennyiben a biztosított olyan ellátást kíván igénybe venni, amely a magyarországi jogszabályok alapján beutalóhoz kötött, a költség megtérítésének további feltétele, hogy a biztosított az ellátásra rendelkezzen az ellátásra vonatkozó és a jogszabályoknak megfelelő módon kiállított beutalóval.
 
@@ -676,7 +677,14 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 - a) az egészségbiztosító azzal az indokkal utasítja el a külföldi gyógykezelésre irányuló kérelmet, hogy a biztosítottat Magyarországon közfinanszírozott egészségügyi szolgáltató el tudja látni a kérelemben megjelölt orvosilag indokolt időn belül, vagy
 - b) az egészségbiztosító a külföldi gyógykezelésre jogosult személy által választott külföldi egészségügyi szolgáltató helyett a jogosultság-igazolásban az EGT tagállamban vagy Svájcban letelepedett másik külföldi egészségügyi szolgáltatóra tesz javaslatot.
 
-(10) Ha a biztosított valamely EGT tagállam területén ellátást vesz igénybe, az egészségbiztosító engedélyezheti a magyarországi egészségügyi szolgáltatóhoz történő szállítás megtérítését. Az engedély tárgyában hozott döntés ellen fellebbezésnek van helye.
+(10) Ha a biztosított valamely EGT-tagállam területén ellátást vesz igénybe, az egészségbiztosító engedélyezheti a magyarországi egészségügyi szolgáltatóhoz történő szállítás megtérítését. Az egészségbiztosító az engedélyezési eljárás során figyelembe veszi, hogy
+
+- a) a beteg ellátása az adott EGT-tagállamban megfelelő színvonalú-e,
+- b) a szállítás okozhat-e állapotromlást,
+- c) igényel-e a beteg ellátása Magyarországon további fekvőbeteg-ellátást,
+- d) az E. Alap vonatkozásában költséghatékonyabb-e a hazaszállítás és a beteg hazai további ellátása, mint az adott EGT-tagállamban történő ellátás költségeinek átvállalása.
+
+(10a) A (10) bekezdés szerinti engedély tárgyában hozott döntés ellen fellebbezésnek van helye.
 
 (11) A biztosított által valamely EGT tagállam területén történő ideiglenes tartózkodása során igénybe vett egészségügyi szolgáltatásra – az uniós rendeletek szerint – jogosító, az egészségbiztosító által kibocsátott Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya), illetve az azt helyettesítő nyomtatványt az egészségbiztosító a biztosított kérelmére, a (12) bekezdésben foglaltak kivételével díjmentesen, a külön jogszabályban foglaltak figyelembevételével bocsátja a biztosított rendelkezésére.
 
@@ -724,7 +732,7 @@ igazolja.
 
 (8) A nemzetközi egyezmény vagy az uniós rendeletek hatálya alá tartozó személy az egyezményben vagy az uniós rendeletekben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy az uniós rendeletekben meghatározott módon igazolja.
 
-(9) Az egészségügyi szolgáltatás igénybevételére való jogosultság a Tbj.-ben meghatározott belföldi személy részére a biztosítási jogviszonynak, illetve a Tbj. 22. § (1) bekezdés a)–o) és r) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
+(9) A magyar közfinanszírozott egészségügyi szolgáltatónál az egészségügyi szolgáltatás igénybevételére való jogosultság a Tbj.-ben meghatározott belföldi személy részére a biztosítási jogviszonynak, illetve a Tbj. 22. § (1) bekezdés a)–o) és r) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
 
 - a) 45 napig marad fenn, ha a jogosultsági feltétel a megszűnést megelőzően megszakítás nélkül legalább 45 napig fennállt,
 - b) ha a jogosultsági feltétel fennállásának az időtartama 45 napnál rövidebb volt, akkor ezen időtartammal hosszabbodik meg,
@@ -736,13 +744,13 @@ igazolja.
 
 ### Szerződéses kapcsolatok
 
-30. § (1) Az egészségbiztosító az egészségügyi szolgáltatások nyújtására – a külön jogszabályban foglaltak figyelembevételével – finanszírozási szerződést köt az adott szolgáltatás nyújtására jogosító működési engedéllyel rendelkező egészségügyi szolgáltatóval, amennyiben az nem rendelkezik olyan, az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti köztartozással (a továbbiakban: köztartozás), amely esedékességének időpontja 60 napnál régebben lejárt.
+30. § (1) Az egészségbiztosító az egészségügyi szolgáltatások nyújtására – a külön jogszabályban foglaltak figyelembevételével – finanszírozási szerződést köt az adott szolgáltatás nyújtására jogosító működési engedéllyel rendelkező egészségügyi szolgáltatóval, amennyiben az nem rendelkezik olyan, az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti köztartozással (a továbbiakban: köztartozás) vagy az Egészségbiztosítási Alap felé fennálló tartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
 
 (2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
 
 - a) erre külön jogszabályban foglaltak szerint jogosult, valamint
 - b) megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek, így különösen a finanszírozással kapcsolatos adatkezeléssel, adatellenőrzéssel és a társadalombiztosítási támogatás elszámolásával kapcsolatos személyi és tárgyi feltételeknek, és
-- c) nem rendelkezik olyan köztartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
+- c) nem rendelkezik olyan köztartozással vagy az E. Alap felé fennálló tartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
 
 (3) Az egészségbiztosító külön jogszabályban meghatározott esetben külön jogszabály szerinti hatósági bizonyítvánnyal rendelkező nem egészségügyi szolgáltatóval is köthet szerződést gyógyászati segédeszköz egyedi méretvétel alapján társadalombiztosítási támogatással történő gyártására, illetve ezen eszközök társadalombiztosítási támogatással történő javítására.
 
@@ -943,7 +951,9 @@ alapuló rendszerben történik.
 
 (4) Az egészségbiztosító ellenőrzi az egészségügyi dokumentáció vezetésére, a beutalás rendjére, továbbá a támogatással rendelhető gyógyszer, gyógyászati segédeszköz rendelésére, készletben tartására, kiszolgáltatására és nyilvántartására, valamint gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás támogatással történő rendelésére és nyújtására vonatkozó előírások megtartását, érvényesülését. A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás támogatással történő rendelésére a 32. § alapján jogosult orvos az ellenőrzést végző személy rendelkezésére bocsátja az érintett biztosítottra vonatkozó, az ellenőrzés lefolytatásához szükséges egészségügyi dokumentációt.
 
-(5) Az (1)–(4) bekezdésben foglaltak során az ellenőrzéssel érintett személyes és egészségügyi adatok kezelésére az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény vonatkozó rendelkezéseit kell alkalmazni.
+(4a) A bértámogatások igénylésének és felhasználásának nyomon követése és jogszerűségének ellenőrzése érdekében az egészségbiztosító jogosult megismerni a jogosult nevét, születési idejét, adóazonosító jelét, TAJ-számát, valamint a foglalkoztatása teljesítésére vonatkozó adatokat.
+
+(5) Az (1)–(4a) bekezdésben foglaltak során az ellenőrzéssel érintett személyes és egészségügyi adatok kezelésére az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény vonatkozó rendelkezéseit kell alkalmazni.
 
 (6) Az egészségbiztosító az ellenőrzés megállapításairól és javaslatairól tájékoztatja a szolgáltatót és a közszolgáltatásért felelős szervet, továbbá az egészségügyi szolgáltató fenntartóját, ha az nem a közszolgáltatásért felelős szerv.
 
@@ -960,7 +970,7 @@ alapuló rendszerben történik.
 (2) A finanszírozott egészségügyi szolgáltató megtéríti az elszámolt ellátás finanszírozási összegét, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató
 
 - a) vagy a beutalásra jogosult orvosa nem a hatályos jogszabályoknak vagy szakmai előírásoknak megfelelően járt el az egészségügyi szolgáltatások rendelésénél,
-- b) a miniszteri rendeletben kihirdetett finanszírozási eljárásrendeknek, rehabilitációs ellátási programoknak, ennek hiányában az érvényes vizsgálati és terápiás eljárási rendeknek vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
+- b) a finanszírozási eljárásrendeknek, rehabilitációs ellátási programoknak, ennek hiányában az érvényes vizsgálati és terápiás eljárási rendeknek vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
 - c) más forrásból megtérülő ellátást számolt el.
 
 (3) A finanszírozott egészségügyi szolgáltató megtéríti a kifizetett finanszírozási többletet, ha az egészségbiztosító az ellenőrzése során megállapítja, hogy egy ellátást több vagy magasabb összegű finanszírozásra jogosító jogcímen számolt el.
@@ -1043,11 +1053,11 @@ alapuló rendszerben történik.
 
 38/A. § Ha az egészségbiztosító az ellenőrzés során megállapítja, hogy az egészségügyi szolgáltató
 
-- a) a finanszírozási szerződés szerinti,
-- b) más forrásból megtérülő,
+- a) a finanszírozási szerződés vagy ártámogatás nyújtására kötött szerződés szerinti,
+- b) más forrásból megtérülő vagy
 - c) el nem végzett
 
-ellátásért a biztosítottal térítési díjat fizettetett, kötelezi az egészségügyi szolgáltatót a térítési díjnak a biztosított részére történő visszafizetésére.
+ellátásért, ki nem szolgált termékért a biztosítottal a jogszabály szerinti térítési díjat meghaladóan térítési díjat fizettetett, kötelezi az egészségügyi szolgáltatót a térítési díjnak a biztosított részére történő visszafizetésére.
 
 ### Az egészségügyi szolgáltatások igénybevételének ellenőrzése
 
@@ -1364,7 +1374,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 44. § Keresőképtelen,
 
 - a) aki betegsége miatt munkáját nem tudja ellátni;
-- b) aki várandóssága, illetőleg szülése miatt nem tudja munkáját ellátni, és csecsemőgondozási díjra nem jogosult;
+- b) aki várandóssága, illetőleg szülése miatt nem tudja munkáját ellátni;
 - c) az anya, ha kórházi ápolás alatt álló egyévesnél fiatalabb gyermekét szoptatja;
 - d) a szülő a tizenkét évesnél fiatalabb gyermeke kórházi kezelése időtartamára abban az esetben, ha a gyermeke mellett tartózkodik a fekvőbeteg-ellátást nyújtó intézményben;
 - e) a szülő, aki tizenkét évesnél fiatalabb beteg gyermekét otthon ápolja és a gyermeket a saját háztartásában neveli;
@@ -1382,11 +1392,13 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (3) A keresőképtelenség a vizsgálatra jelentkezés időpontjától eltérően, legfeljebb öt napra visszamenőleg is igazolható.
 
-(3a) Visszamenőleges keresőképtelenségi igazolás esetén, orvosi dokumentáció alapján a kormányhivatal szakértő főorvosa – a (3) bekezdésben foglaltaktól eltérően – 30 napig visszamenőleg igazolhatja a keresőképtelenséget.
+(3a) Visszamenőleges keresőképtelenségi igazolás esetén, orvosi dokumentáció alapján a kormányhivatal szakértő főorvosa – a (3) bekezdésben foglaltaktól eltérően – 30 napig visszamenőleg bírálhatja el a keresőképtelenséget.
 
-(4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.
+(4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is elbírálhatja.
 
 (5) Ha a fővárosi és vármegyei kormányhivatal a keresőképtelenség felülvizsgálata során az egészségügyi dokumentációban hiányosságot észlel, adminisztrációs kötelezettség elmulasztása vagy szakmai hiányosság miatt közigazgatási bírságot szab ki.
+
+(6) A (3a) és a (4) bekezdés szerint kiadott orvosszakértői vélemény alapján a háziorvos igazolja a keresőképtelenséget.
 
 46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
@@ -1407,7 +1419,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 - a) tizennyolc éves kora előtt válik keresőképtelenné, vagy
 - b) iskolai tanulmányai megszűnését követő 180 napon belül biztosítottá válik, és keresőképtelenségéig megszakítás nélkül biztosított.
 
-(5) Ha a biztosított a keresőképtelenség első napját közvetlenül megelőző egy éven belül már táppénzben vagy a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése szerinti díjazásban részesült, ennek időtartamát az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani.
+(5) Ha a biztosított a táppénzre való jogosultság első napját közvetlenül megelőző egy éven belül már táppénzben vagy a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése szerinti díjazásban részesült, ennek időtartamát az újabb táppénz folyósításának időtartamába be kell számítani, kivéve, ha a biztosított a 44. § g) pontja alapján minősül keresőképtelennek.
 
 (6) Az (5) bekezdés alkalmazásában nem számít előzménynek az az idő, amely alatt a biztosított
 
@@ -1887,6 +1899,8 @@ kell érteni.
 - a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
 - b) a Tbj. 17. § (1) bekezdés a) pontja hatálya alá tartozó magyar állampolgár, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
+(5a) Ha a TAJ-számmal rendelkező személy nem teljesíti az (5) bekezdés szerinti bejelentési kötelezettségét, azonban a külföldi biztosító részéről jogosultságigazolás kerül kiadásra, akkor a jogosultságigazolást a külföldi biztosítás létrejöttére vonatkozó bejelentésnek kell tekinteni.
+
 (6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
 
 - a) természetes személy 10 ezertől 100 ezer forintig,
@@ -2118,7 +2132,7 @@ meghatározására.
 
 - a) a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokat,
 - b) a szűrővizsgálatok igazolására vonatkozó rendelkezéseket,
-- c) az egyes főbb betegségcsoportok finanszírozási, vizsgálati és terápiás eljárási rendje, valamint a gyógyszerterápiás ajánlások kidolgozásának, szerkesztésének, valamint az ezeket érintő szakmai egyeztetések lefolytatásának egységes szabályait,
+- c) az egyes főbb betegségcsoportok finanszírozási eljárásrendje szerkesztésének, a szakmai ellenőrzés alapját képező szempontoknak, valamint az egyes főbb betegségcsoportok vizsgálati és terápiás eljárási rendje és a gyógyszerterápiás ajánlások kidolgozásának, szerkesztésének, valamint az ezeket érintő szakmai egyeztetések lefolytatásának egységes szabályait,
 - d) a meddőség kezelésére vonatkozó rendelkezéseket,
 - e) a központi várólisták körébe tartozó PET/CT várólista
   - ea) működési rendjére,
@@ -2155,11 +2169,11 @@ vonatkozó szabályokat,
 
 (6) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben határozza meg
 
-- a) a (4) bekezdés c) pontja alapján kiadott rendeletben előírt szabályoknak megfelelően a finanszírozási eljárásrendeket,
+- a)
 - b) a sürgős szükség körébe tartozó egészségügyi szolgáltatásokat,
 - c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szabályokat,
 - d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
-- e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket,
+- e) a háziorvosi és fogorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, és a háziorvosok és fogorvosok gyógyító-megelőző tevékenységének értékelési módszerét, és ennek alapjául szolgáló célértéket,
 - f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
 - g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait,
 - h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
