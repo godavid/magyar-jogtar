@@ -8,6 +8,6 @@ a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársas
 
 (2) A 3. § 2023. június 1-jén lép hatályba.
 
-3. § Hatályát veszti a 23/1987. (VII. 22.) MT rendelet.
+#### 3. §
 
 4. § E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.

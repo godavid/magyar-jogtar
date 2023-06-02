@@ -2668,13 +2668,7 @@ nem biztosítható.
 
 (6) A (4) és (5) bekezdés határidőre vonatkozó rendelkezéseit nem kell alkalmazni az (1) bekezdés a) pontja szerinti fizetés nélküli szabadságra.
 
-#### 132. § [A kormányzati igazgatási szünet]
-
-(1) A Kormány a kormányzati igazgatási szervekre vonatkozóan rendeletben állapíthatja meg azt az időszakot (kormányzati igazgatási szünet), amely alatt lehetőség szerint ki kell adni az esedékessége évére járó szabadság azon részét, amellyel a munkáltatói jogkör gyakorlója rendelkezik.
-
-(2) A kormányzati igazgatási szerv hivatali szervezetének vezetője a Kormány által megállapított kormányzati igazgatási szünet időtartamán belül, az egyes szervezeti egységek esetében eltérő időszakban, illetve időtartamban határozhatja meg a szabadság kiadását.
-
-(3) A munkáltató jogkör gyakorlója a kormányzati igazgatási szünet alatt a szabadságot úgy adja ki, hogy biztosítja a zavartalan ügymenetet, valamint a lakossági ügyfélszolgálattal rendelkező szervek esetében a folyamatos feladatellátást.
+#### 132. §
 
 #### 133. § [A munka- és a pihenőidő nyilvántartása]
 
@@ -4951,7 +4945,7 @@ illetménynek megfelelő összeg.
 - 18. a kormánytisztviselő elismerésben való részesítésének feltételeit és az elismeréssel járó juttatás e törvényben meg nem határozott mértékét;
 - 19. a teljesítményértékelésre vonatkozó részletes szabályokat;
 - 20. a kormánytisztviselő képzésére, továbbképzésére, átképzésére, illetve közigazgatási vezetőképzésére, valamint a továbbképzés ágazati irányítására és felügyeletére vonatkozó szabályokat;
-- 21. a kormányzati igazgatási szünet időszakát;
+- 21.
 - 22. a Közszolgálati Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Közszolgálati Döntőbizottság jogállására, juttatásaira, továbbá a Közszolgálati Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat;
 - 23. az elhelyezkedési korlátozással érintett ágazatokat és álláshelyeket, a korlátozás alóli mentesítés szabályait, valamint az ágazati tevékenységet főtevékenységként végző gazdasági társaság meghatározásának szempontjait;
 - 24. a közszolgálati alapnyilvántartásra, valamint a munkaügyi nyilvántartásra vonatkozó részletes szabályokat;
