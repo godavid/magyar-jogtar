@@ -2924,6 +2924,8 @@ jelentős érdeksérelmet okoz.
 
 követik el.
 
+(3) Nem büntetendő rágalmazás miatt annak a cselekménye, aki az (1) bekezdésben meghatározottakat a közügyek szabad megvitatása körében sajtótermék vagy médiaszolgáltatás útján követi el, feltéve, hogy cselekménye nem irányul a sértett emberi méltóságának nyilvánvaló és súlyosan becsmérlő tagadására.
+
 ### Becsület csorbítására alkalmas hamis hang- vagy képfelvétel készítése
 
 226/A. § (1) Aki abból a célból, hogy más vagy mások becsületét csorbítsa, hamis, hamisított vagy valótlan tartalmú hang- vagy képfelvételt készít, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
@@ -2949,6 +2951,8 @@ követik el.
 a becsület csorbítására alkalmas kifejezést használ, vagy egyéb ilyen cselekményt követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki a becsületsértést tettlegesen követi el.
+
+(3) Nem büntetendő becsületsértés miatt annak a cselekménye, aki az (1) bekezdésben meghatározottakat a közügyek szabad megvitatása körében sajtótermék vagy médiaszolgáltatás útján követi el, feltéve, hogy cselekménye nem irányul a sértett emberi méltóságának nyilvánvaló és súlyosan becsmérlő tagadására.
 
 ### Kegyeletsértés
 
