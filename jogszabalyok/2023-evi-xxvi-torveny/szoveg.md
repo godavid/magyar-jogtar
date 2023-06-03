@@ -165,7 +165,4 @@ jogosult.
 
 12. § A 7. § (5) bekezdése az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-13. § Hatályát veszti a Kit.
-
-- a) 132. §-a,
-- b) 281. § (4) bekezdés 21. pontja.
+#### 13. §
