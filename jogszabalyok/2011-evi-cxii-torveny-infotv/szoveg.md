@@ -1314,7 +1314,7 @@ szerint kiszabott bírság esetén.
 
 #### 33. Titokfelügyeleti hatósági eljárás
 
-62. § (1) Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
+62. § (1) Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése vagy a minősítési jelölésének megismétlése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
 
 (1a) Ha a bíróság a 31. § (6a) bekezdésében meghatározottak szerint a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, a Hatóság titokfelügyeleti hatósági eljárást indít.
 
@@ -1326,7 +1326,10 @@ szerint kiszabott bírság esetén.
 
 (3) A titokfelügyeleti hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, vagy a titokfelügyeleti hatósági eljárást a bíróság a 31. § (6a) bekezdésében meghatározottak alapján kezdeményezte. Ha azonban a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt a titokfelügyeleti hatósági eljárás megindításáról és befejezéséről értesíteni kell.
 
-(4) A titokfelügyeleti hatósági eljárásban ügyfél a minősítő.
+(4) A titokfelügyeleti hatósági eljárásban ügyfél
+
+- a) a minősítés jogellenessége vizsgálata esetén a minősítő,
+- b) a minősítési jelölés megismétlése jogellenessége vizsgálata esetén a minősítési jelölést megismétlő.
 
 (5) A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
 
@@ -1334,12 +1337,28 @@ szerint kiszabott bírság esetén.
 
 63. § (1) A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság
 
-- a) a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására vagy a minősítés megszüntetésére hívja fel, vagy
-- b) megállapítja, hogy a minősítő a nemzeti minősített adat minősítésére vonatkozó jogszabályoknak megfelelően járt el.
+- a) a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén
+  - aa) a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására vagy a minősítés megszüntetésére hívja fel, vagy
+  - ab) megállapítja, hogy a nemzeti minősített adat minősítése jogszerűen nem jött létre, és felhívja a minősítőt, hogy a megfelelő intézkedésekkel szüntesse meg a jogellenes állapotot,
+- b) a nemzeti minősített adat minősítési jelölésének megismétlésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítési jelölést megismétlőt a nemzeti minősített adat minősítési jelölése jogszabályoknak megfelelő megismétlésére vagy a megismételt minősítési jelölés alkalmazásának megszüntetésére hívja fel, vagy
+- c) megállapítja, hogy a minősítő a nemzeti minősített adat minősítésére, a minősítési jelölést megismétlő a minősítési jelölés megismétlésére vonatkozó jogszabályoknak megfelelően járt el.
 
-(2) A minősítő a Hatóság (1) bekezdés a) pontja szerinti határozatát a közlésétől számított hatvan napon belül támadhatja meg. A keresetlevél benyújtásának a határozat hatályosulására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+(2) A minősítő a Hatóság (1) bekezdés a) pontja, a minősítési jelölést megismétlő a Hatóság (1) bekezdés b) pontja szerinti határozatát a közlésétől számított hatvan napon belül támadhatja meg. A keresetlevél benyújtásának a határozat hatályosulására halasztó hatálya van.
 
-(2a)
+(2a) Ha a minősítő a Hatóság (1) bekezdés a) pontja, a minősítést megismétlő a Hatóság (1) bekezdés b) pontja szerinti határozata közlésétől számított hatvan napon belül nem fordul bírósághoz,
+
+- a) az (1) bekezdés a) pont aa) alpontja szerinti határozat esetén a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik,
+- b) az (1) bekezdés a) pont ab) alpontja szerinti határozat esetén a határozat közlésétől számított hatvanegyedik naptól a nemzeti minősített adat minősítési jelölése a határozatban foglaltak szerint megszűnik, vagy
+- c) az (1) bekezdés b) pontja szerinti határozat esetén a határozat közlésétől számított hatvanegyedik napon,
+  - ca) ha a határozat a minősítési jelölést megismétlőt a nemzeti minősített adat minősítési jelölése alkalmazásának megszüntetésére hívja fel, a megismételt minősítési jelölés a határozatban foglaltak szerint megszűnik, vagy
+  - cb) ha a határozat a minősítési jelölést megismétlőt a minősítési jelölés jogszabályoknak megfelelő megismétlésére hívja fel, a megismételt minősítés minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+
+(2b) A minősítő és a minősítési jelölést megismétlő a minősített adat védelméről szóló 2009. évi CLV. törvény 8. § (3) és (3a) bekezdése szerinti értesítési kötelezettségét az (1) bekezdés a) és b) pontja szerinti esetben legkésőbb a határozat közlésétől számított hatvanegyedik napon, illetve – a határozat (2) bekezdés szerinti megtámadása esetén – a határozat jogerőre emelkedését követően haladéktalanul teljesíti.
+
+(2c) Az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott titokfelügyeleti hatósági eljárást, ha
+
+- a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+- b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
 
 (3) A (2) bekezdésben meghatározott perben a bíróság zárt tárgyalást tart.
 
@@ -1679,6 +1698,8 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 75/E. § A 37/C. § (3) bekezdés b) pont bb) alpontja tekintetében a Kbt. szerinti nemzeti értékhatárt meg nem haladó beszerzések esetén az európai uniós forrás felhasználásának tényét a 2023. március 31-én vagy azt követően megvalósított beszerzések esetén kell megjelölni.
 
 75/F. § Az Európai Bizottsággal való megegyezés érdekében az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2022. évi XL. törvénnyel megállapított 31. § (1), (4) és (6) bekezdését, valamint 31/A–31/C. §-át a 2022. december 31-én vagy azt követően benyújtott közérdekű adat megismerésére irányuló igényekre kell alkalmazni.
+
+75/G. § A minősített adat védelméről szóló 2009. évi CLV. törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2023. évi XXXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 62. § (1) és (4) bekezdését, valamint 63. § (1)–(2c) bekezdését a Módtv2. hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
 
 76. § E törvény V. Fejezete és 75/B–75/C. §-a az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
