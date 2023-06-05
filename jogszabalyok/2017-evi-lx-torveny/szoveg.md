@@ -98,7 +98,7 @@ a választottbíráskodásról
 
 #### 9. A választottbírósági szerződés összeegyeztethetősége a bíróság, valamint a közjegyző intézkedéseivel
 
-10. § A félnek a választottbírósági eljárás megindítása előtti fizetési meghagyás kibocsátása iránti, vagy a választottbírósági eljárás előtt vagy alatt magyar bírósághoz benyújtott, előzetes bizonyítás (Pp. XXIV. Fejezet), ideiglenes intézkedés (Pp. VIII. Fejezet), biztosítási intézkedés [a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) X. Fejezet], okirat végrehajtási záradékkal ellátása [Vht. 23/B. § (1) bekezdés a) pont és 23/C. §] vagy biztosíték adása [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:523. §] iránti kérelme, illetve bármely külföldi bírósághoz benyújtott hasonló intézkedés iránti kérelme és a bíróság e kérelemnek helyt adó intézkedése nem összeegyeztethetetlen a választottbírósági szerződéssel.
+10. § A félnek a választottbírósági eljárás megindítása előtti fizetési meghagyás kibocsátása iránti, európai fizetési meghagyás kibocsátása iránti, vagy a választottbírósági eljárás előtt vagy alatt magyar bírósághoz benyújtott, a Pp. VIII. Fejezete szerinti perindítást megelőző ideiglenes intézkedés vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:523. § c) pontja szerinti biztosíték adása iránti kérelme, magyar bírósághoz vagy magyar közjegyzőhöz benyújtott előzetes bizonyítás, nemperes eljárásban történő igazságügyi szakértő kirendelése, nemperes eljárásban történő egyezségi kísérletre idézés, a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) X. Fejezete szerinti biztosítási intézkedés, vagy az okirat Vht. 23/B. § (1) bekezdés a) pontja és 23/C. §-a szerinti végrehajtási záradékkal való ellátása iránti kérelme, magyar közjegyzőhöz benyújtott közjegyzői okirat szerkesztése iránti kérelme, a felek magyar közjegyző előtti egyezségkötés iránti együttes kérelme, illetve bármely külföldi bírósághoz benyújtott hasonló intézkedés iránti kérelme és a bíróság, illetve a közjegyző e kérelem tárgyában történő intézkedése nem összeegyeztethetetlen a választottbírósági szerződéssel.
 
 ### III. Fejezet — A VÁLASZTOTTBÍRÓSÁGI TANÁCS ÖSSZETÉTELE
 
@@ -415,8 +415,9 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
   - ac) a választottbírósági ítélet a választottbíráskodásnak való alávetésben figyelembe nem vett, vagy azon kívül eső vitára terjed ki, illetve az ilyen alávetés terjedelmén túli döntést tartalmaz, azzal, hogy amennyiben az alá- és alá nem vetett ügyek egymástól elválaszthatók, a választottbírósági ítélet érvénytelenítése csak az alávetésen kívüli részben hozott döntés tekintetében kérhető; vagy
   - ad) a választottbírósági tanács összetétele vagy a választottbírósági eljárás nem felelt meg a felek megállapodásának – kivéve, ha a megállapodás ellentétes e törvény kötelezően alkalmazandó szabályával –, vagy ilyen megállapodás hiányában nem felelt meg e törvény rendelkezéseinek; vagy
 - b) a bíróság úgy ítéli meg, hogy
-  - ba) a vita tárgya a magyar jog szerint választottbírósági útra nem tartozhat, vagy
-  - bb) a választottbírósági ítélet a magyar közrendbe ütközik.
+  - ba) a vita tárgya a magyar jog szerint választottbírósági útra nem tartozhat,
+  - bb) a választottbírósági ítélet a magyar közrendbe ütközik, vagy
+  - bc) a választottbíróság a felek bármelyike által becsatolt Teljesítésigazolási Szakértői Szerv által készített szakvélemény tartalmát – a bizonyítékként történő értékelés vagy mellőzés okaira kiterjedően – ítéletében érdemben nem értékelte.
 
 (3) Az érvénytelenítés iránti kereset a választottbírósági ítéletnek, ha pedig a 46. § szerinti kérelmet terjesztettek elő, a választottbírósági tanács e kérelem alapján hozott döntésének átvételét követő hatvan napon belül terjeszthető elő. E határidő elmulasztása jogvesztéssel jár.
 
@@ -615,4 +616,6 @@ szekció szerinti részletezést is készít a lista részeként.
 
 (10) A Kereskedelmi Választottbíróság ügyrendje és eljárási szabályzata szövegének, valamint a lista előkészítése céljából 2017. október 1. napján előkészítő bizottságot kell létrehozni, amelybe egy-egy tagot a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara, további 3 tagot pedig a Magyar Kereskedelmi és Iparkamara delegál.
 
-#### 68–69. §
+68. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 47. § (2) bekezdés b) pontját az e rendelkezés módosításának hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 69. §

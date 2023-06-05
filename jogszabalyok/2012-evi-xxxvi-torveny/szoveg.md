@@ -1564,7 +1564,7 @@ a (2) bekezdésben foglaltak biztosítására nem használható.
 
 (5) Az alelnök és a képviselőcsoport vezetője akkor is jogosult budapesti hivatali lakás használatára, ha az ő vagy vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten vagy közvetlen vonzáskörzetében csak olyan lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
 
-111. § (1) A képviselő választókerületének székhelyén, illetve a választókerületben általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületben meghatározott helyen, az országos listán megválasztott képviselő esetében az általa megválasztott településen a képviselői tevékenység ellátására alkalmas az Országgyűlés Hivatala által biztosított, egy vagy több ingatlanban megvalósuló irodai elhelyezésre jogosult, amely minden képviselő esetében egy irodánál magában foglalja a megfelelő színvonalú irodai berendezést és felszerelést, továbbá az iroda vagy irodák működtetésével – így különösen a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével – összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
+111. § (1) A képviselő választókerületének székhelyén, illetve a választókerületben általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületben meghatározott helyen, az országos listán megválasztott képviselő esetében az általa megválasztott településen a képviselői tevékenység ellátására alkalmas az Országgyűlés Hivatala által biztosított, egy vagy több ingatlanban megvalósuló irodai elhelyezésre jogosult, amely magában foglalja az iroda vagy irodák működtetésével – így különösen a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével – összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
 
 (1a) Bármely képviselő, illetve közeli hozzátartozója, valamint a (3) bekezdésben meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
 
@@ -1590,11 +1590,11 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 112. § (1) A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
 
-(2) A képviselő 111. § (1) bekezdése szerinti jogosultságai biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 70 %-ának megfelelő összeget használhat fel.
+(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 70 %-ának megfelelő összeget biztosít.
 
 (3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj kétszeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
-(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére.
+(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére. A képviselőcsoport vezetője az e bekezdés szerinti átruházott jogait személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
 
 (4a) Az Országgyűlés Hivatala a társadalombiztosítási nyugellátásra való jogosultság és a jogviszony igazolása céljából a (4) bekezdés szerinti képviselő tevékenységét segítő alkalmazott
 
@@ -1779,6 +1779,8 @@ felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalán�
 
 - a) szakmai munkájának ellenőrzésére, értékelésére a kultúráért felelős miniszter a házelnök kezdeményezése alapján jogosult,
 - b) számára a házelnök kiemelt feladatot határozhat meg.
+
+(5) Az Országgyűlés Hivatala az (1)–(3) bekezdésben meghatározott feladatai ellátásához kapcsolódó könyvkiadási tevékenységet végezhet, az általa kiadott könyveket és egyéb kiadványokat jogszabályban meghatározottak szerint átruházhatja.
 
 ### XII/A. Fejezet — AZ ORSZÁGGYŰLÉSI KÖZTISZTVISELŐKRE VONATKOZÓ RENDELKEZÉSEK
 

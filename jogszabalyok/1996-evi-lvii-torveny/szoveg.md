@@ -213,7 +213,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 24. § (1) A vállalkozások összefonódását a Gazdasági Versenyhivatalnak be kell jelenteni, ha valamennyi érintett vállalkozáscsoport [26. § (5) bekezdése], valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen a húszmilliárd forintot meghaladja, és az érintett vállalkozáscsoportok között van legalább két olyan vállalkozáscsoport, amelynek az előző évi nettó árbevétele a vállalkozáscsoport tagjai és más vállalkozások által közösen irányított vállalkozások előző évi nettó árbevételével együtt egymilliárd-ötszázmillió forint felett van.
 
-(2) Az egymilliárd forintos küszöbérték meghatározásakor figyelembe kell venni az összefonódás következtében az irányítását elvesztő vállalkozáscsoportba tartozott vállalkozásokkal az összefonódást megelőző kétéves időszakban az irányítást megszerző vállalkozáscsoport által végrehajtott minden olyan összefonódást, amely tekintetében versenyfelügyeleti eljárás lefolytatására nem került sor, kivéve a bejelentett és a 43/N. § (1) bekezdés b) pontja szerint tudomásul vett összefonódást.
+(2) Az egymilliárd-ötszázmillió forintos küszöbérték meghatározásakor figyelembe kell venni az összefonódás következtében az irányítását elvesztő vállalkozáscsoportba tartozott vállalkozásokkal az összefonódást megelőző kétéves időszakban az irányítást megszerző vállalkozáscsoport által végrehajtott minden olyan összefonódást, amely tekintetében versenyfelügyeleti eljárás lefolytatására nem került sor, kivéve a bejelentett és a 43/N. § (1) bekezdés b) pontja szerint tudomásul vett összefonódást.
 
 (3) A nettó árbevétel helyett
 
@@ -236,7 +236,7 @@ kell figyelembe venni.
 
 25/A. § A 24. §-tól eltérően nem kell bejelenteni a Gazdasági Versenyhivatalnak a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap részvételével a COVID-19 koronavírus miatt szükségessé vált finanszírozási ügylettel – az e célra létrehozott tőkeprogramon keresztül – megvalósuló összefonódást, amely révén a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap egyedül vagy más vállalkozásokkal közös, befektetésvédelmi célú irányítási jogokat szerez.
 
-25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten állami irányítás alatt álló kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd forintot.
+25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten állami irányítás alatt álló kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd-ötszázmillió forintot.
 
 (2) Az (1) bekezdés szerinti összefonódás végrehajtásáról az irányításszerző tőkealap a végrehajtás időpontját követő 30 napon belül tájékoztatja a Gazdasági Versenyhivatalt.
 
@@ -264,9 +264,9 @@ kell figyelembe venni.
 
 (5) A közösen irányított vállalkozás nettó árbevételét egyenlő arányban kell megosztani az azt irányító vállalkozások között, oly módon, hogy az azonos vállalkozás-csoporthoz tartozó vállalkozásokat az irányítási arány számítása szempontjából egynek kell tekinteni.
 
-(6) Az összefonódás bejelentése esetén a nettó árbevételt az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének, az irányítási jog megszerzésének vagy az összefonódás-bejelentés benyújtásának időpontjai közül a legkorábbi időpontot megelőző utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
+(6) A nettó árbevételt az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének, az irányítási jog megszerzésének vagy az összefonódás-bejelentés benyújtásának időpontjai közül a legkorábbi időpontot megelőző utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
 
-(6a) A 67. § (3) bekezdése szerinti eljárás indítása esetén a nettó árbevételt az összefonódás végrehajtásának időpontjához képest utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
+(6a)
 
 (7) A külföldi devizában meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank által közzétett, az adott vállalkozás üzleti évének lezárásakor érvényes deviza-középárfolyamot kell alkalmazni.
 
@@ -1305,6 +1305,14 @@ számított hatvan napon belül kell előterjeszteni.
 
 (3) A tárgyalásra egyebekben az Ákr. rendelkezéseit kell alkalmazni.
 
+(4) A tárgyalás az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlő hálózat (a továbbiakban: elektronikus hírközlő hálózat) útján is megtartható. Az eljáró versenytanács, amennyiben a tárgyalást elektronikus hírközlő hálózat útján tartja meg, erre irányuló tárgyalási értesítőben közli az elektronikus hírközlő hálózathoz való hozzáféréshez szükséges technikai adatokat.
+
+(5) Az elektronikus hírközlő hálózat útján történő meghallgatás esetén a tárgyalás nyilvánosságára vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a nyilvánosságot előzetes regisztrációhoz kötve szükséges biztosítani. Az eljáró versenytanács az elektronikus hírközlő hálózat útján meghallgatottak személyazonosságát a személyazonosság igazolására alkalmas, elektronikus úton bemutatott vagy megküldött hatósági igazolvány alapján állapítja meg.
+
+(6) Az elektronikus hírközlő hálózat útján tartott tárgyalás esetén is lehetővé kell tenni a (2) bekezdés alkalmazásával a nyilvánosság egész tárgyalásról vagy annak egy részéről történő kizárását, illetve zárt tárgyalás tartását.
+
+(7) Az elektronikus hírközlő hálózat útján történő tárgyalás esetén a tárgyalásról készült jegyzőkönyvnek ki kell terjednie az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatása körülményeinek rögzítésére is.
+
 ### XI. Fejezet — A Gazdasági Versenyhivatal versenyfelügyeleti eljárásának lefolytatása
 
 ### A versenyfelügyeleti eljárás megindítása
@@ -1605,6 +1613,8 @@ számított legfeljebb napi háromszázezer forint. A bírság összegének szá
 
 (3) A bírság összegét az eset összes körülményeire – így különösen a jogsérelem súlyára, a jogsértő állapot időtartamára, a jogsértéssel elért előnyre, a jogsértő piaci helyzetére, a magatartás felróhatóságára, az eljárást segítő együttműködő magatartására, a jogsértő magatartás ismételt tanúsítására, gyakoriságára – tekintettel kell meghatározni. A jogsérelem súlyát különösen a gazdasági verseny veszélyeztetettségének foka, a végső üzletfelek érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
+(3a) Az eljáró versenytanácsot a (3) bekezdés szerinti mérlegelés körében az (1b) bekezdés nem köti. Az (1b) bekezdést a 76. § (1) bekezdés k) pontja szerinti döntés meghozatalakor kell alkalmazni.
+
 (4) Az (1) bekezdés c) pontja, illetve az (1a) bekezdés szerinti bírság összegét az eset összes körülményeire – így különösen a kötelezettség megszegésének súlyára, a kötelezettséggel érintett piaci, gazdasági viszonyok jellegére, a fennálló versenyfeltételekre, valamint a vállalt kötelezettséget előíró határozat alapját képező közérdekre, a vállalkozás piaci helyzetére, a kötelezettség megszegésének felróhatóságára, a kötelezettség addigi teljesítésére – tekintettel kell meghatározni. A kötelezettség megszegésének súlyát különösen a gazdasági verseny veszélyeztetettségének foka, az üzletfelek, versenytársak érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
 (5) Az eljáró versenytanács a vállalkozáscsoport jogsértést megvalósító tagját és a vállalkozáscsoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság megfizetésére.
@@ -1791,6 +1801,8 @@ vonatkozik.
 (1a) A vizsgáló vagy az eljáró versenytanács a versenyfelügyeleti eljárás megszüntetéséről értesíti az Európai Bizottságot, ha az 1/2003/EK tanácsi rendelet 11. cikk (3) bekezdése alapján a versenyfelügyeleti eljárás megindításáról értesítette.
 
 (2) A vállalkozások európai uniós jog hatálya alá tartozó összefonódásának ellenőrzése során e törvény rendelkezéseit akkor kell alkalmazni, ha a 139/2004/EK tanácsi rendelet így rendelkezik. Ebben az esetben az eljárásra alkalmazni kell a 80/D. § (4)–(8) bekezdését, a 80/E. §-t és a 80/F. §-t.
+
+(3) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta.
 
 80/B. § Az eljáró versenytanács a 74. § szerinti tárgyalás kitűzése előtt megküldi előzetes álláspontját az Európai Bizottságnak, továbbá indokolt esetben az érintett tagállami versenyhatóságnak is. A tárgyalás leghamarabb az előzetes álláspontnak az Európai Bizottság részére történt megküldését követő harmincadik napra tűzhető ki. Ilyen esetben a versenyfelügyeleti eljárásra irányadó ügyintézési határidő harminc nappal meghosszabbodik.
 
@@ -2352,7 +2364,7 @@ jogszerűsége tárgyában.
 
 (3) Az Európai Bizottság észrevételeinek, véleményének megtételével és az eljárás felfüggesztésével összefüggésben megfelelően alkalmazni kell a 88/B. § (1), (2) és (4)–(7) bekezdését.
 
-(4) A bíróság – azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta – az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak.
+(4) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából azokban a polgári jogi igény érvényesítése iránti perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak is.
 
 ### XIV/B. Fejezet — A III. Fejezet rendelkezéseinek megsértésén alapuló polgári jogi igények bíróság előtti érvényesítése
 
