@@ -135,7 +135,7 @@ minősítési szintű.
 
 (11) Amennyiben épület, építmény vagy annak valamely műszaki vagy technikai adata képez nemzeti minősített adatot, az érvényességi idő új minősítési eljárás lefolytatásával, több alkalommal meghosszabbítható, alkalmanként legfeljebb 10 évre az épület, építmény használatának idejére.
 
-6. § (1) A minősítést az köteles kezdeményezni, akinél az állami vagy közfeladata ellátása során a minősítési feltételeknek megfelelő adat keletkezik.
+6. § (1) A minősítést az adat keletkezésekor az köteles kezdeményezni, akinél az állami vagy közfeladata ellátása során a minősítési feltételeknek megfelelő adat keletkezik.
 
 (2) A minősítendő adat minősítéséhez a kezdeményező indokolással ellátott minősítési javaslatot készít.
 
@@ -143,7 +143,7 @@ minősítési szintű.
 
 (4) A minősítési eljárás alatt álló, minősíthető adatot tartalmazó adathordozót a kezdeményező minősítés céljából a minősítési javaslattal együtt haladéktalanul felterjeszti a minősítőhöz. A minősítő a felterjesztés kézhezvételét követő 30 napon belül dönt az adat minősítéséről. Ha a minősítő a határidő lejártáig az adat minősítéséről nem dönt, a nemzeti minősített adat nem jön létre.
 
-(5) Ha az (1) bekezdésben meghatározott adat a minősítőnél keletkezik, döntését a (3) bekezdésben meghatározott minősítési javaslat tartalmával megegyező módon köteles írásba foglalni és az adatot minősíteni.
+(5) Ha az (1) bekezdésben meghatározott adat a minősítőnél keletkezik, döntését a (3) bekezdésben meghatározott minősítési javaslat tartalmával megegyező módon köteles írásba foglalni és a keletkezéskor az adatot minősíteni.
 
 (6) A minősítési eljárás alatt álló adatot a minősítő döntéséig a kezdeményezett minősítési szintre vonatkozó személyi, fizikai, adminisztratív és elektronikus biztonsági szabályok szerint kell kezelni.
 
@@ -168,6 +168,8 @@ minősítési szintű.
 - c) minősítését megszünteti, ha minősítésének feltételei a továbbiakban nem állnak fenn.
 
 (3) A minősítés megszüntetéséről, illetve a minősítési szint vagy az érvényességi idő módosításáról minden olyan címzettet vagy annak jogutódját értesíteni kell, akinek a nemzeti minősített adatot továbbították.
+
+(3a) Minősítési jelölés megismétlésével készült minősített adat esetén a (3) bekezdés alapján kapott felülvizsgálat eredményéről vagy a megismételt minősítési jelölés egyéb okból történő módosulásáról a minősítési jelölést megismétlő szerv értesíti a megismételt minősítési jelöléssel ellátott és továbbított minősített adat címzettjét vagy annak jogutódját.
 
 (4) A minősítésre jogosult személy az általa minősítői jogkörrel felruházott személyek minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
@@ -817,9 +819,11 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 
 40/A. § Ez a törvény az EUROPOL-információk titoktartási szabályzatának elfogadásáról szóló 2009. november 30-i 2009/968/IB tanácsi határozat 10. cikk (4) bekezdésének és az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozatnak a végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
-41–42. §
+#### 41. §
 
-43. §
+#### 42. §
+
+#### 43. §
 
 ### 1. számú melléklet a 2009. évi CLV. törvényhez
 

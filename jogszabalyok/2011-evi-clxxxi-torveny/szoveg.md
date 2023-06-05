@@ -405,6 +405,13 @@ sem.
 
 (4) A 30. § (5) bekezdésében és a 30. § (1) bekezdésben megállapított határidőbe a 30. § (4) bekezdésében foglaltakon túlmenően, nem számít bele a (3) bekezdésben meghatározott idő sem.
 
+(5) Ha a változásbejegyzési kérelem kizárólag a szervezet nevében szereplő, megyére utaló elnevezés Magyarország Alaptörvényének tizenegyedik módosítása folytán szükséges vármegyére utaló elnevezésre történő megváltoztatására irányul, a szervezet változásbejegyzésére vonatkozó eljárási szabályokat az alábbi eltérésekkel kell alkalmazni:
+
+- a) a bíróság a változásbejegyzési kérelmet a 28. § (1) bekezdésétől eltérően a benyújtásától számított öt napon belül megvizsgálja, és
+- b) a bíróság a változásbejegyzési kérelemről a 30. § (1) és (5) bekezdésétől eltérően legkésőbb a kérelem benyújtásától számított húsz napon belül dönt.
+
+(6) Az (5) bekezdés b) pontjában megállapított határidőbe nem számít bele a 30. § (4) bekezdésében, valamint a (3) bekezdésben meghatározott idő.
+
 38. § (1) A létesítő okirat módosítását változásbejegyzési kérelemmel kell bejelenteni a bíróságnak.
 
 (2) Az egységes szerkezetbe foglalt létesítő okiraton a kérelmező – ha a kérelmező jogi képviselővel jár el, a jogi képviselő – igazolja, hogy a létesítő okirat egységes szerkezetbe foglalt szövege megfelel a létesítőokirat-módosítások alapján hatályos tartalmának. Az egységes szerkezetű okiratból egyértelműen ki kell tűnnie, hogy az egységes szerkezetű okirat elkészítésére a létesítő okirat mely pontjának változása adott okot.
@@ -1425,13 +1432,13 @@ a) munkavállaló neve, adóazonosító jele
 
 b) jogcím (kölcsön/támogatás)
 
-c) kölcsön, vissza nem térítendő támogatás összege.”
+c) kölcsön, vissza nem térítendő támogatás összege.
 
 (5) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 360. § (1) bekezdés 37. pontja a következő szöveggel lép hatályba:
 
 [Az Art.]
 
-„37. 100. § (2) bekezdésében az „egyszerűsített ellenőrzés kivételével” szövegrész helyébe a „egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével” szöveg, illetve a „kérheti” szövegrész helyébe az „egy alkalommal kérheti” szöveg;”
+„37. 100. § (2) bekezdésében az „egyszerűsített ellenőrzés kivételével” szövegrész helyébe a „egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével” szöveg, illetve a „kérheti” szövegrész helyébe az „egy alkalommal kérheti” szöveg;
 
 [lép]
 
