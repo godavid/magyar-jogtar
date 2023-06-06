@@ -64,40 +64,19 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 6. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-26. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 27. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 26. §
 
-„(6) A nettó árbevételt az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének, az irányítási jog megszerzésének vagy az összefonódás-bejelentés benyújtásának időpontjai közül a legkorábbi időpontot megelőző utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.”
+#### 27. §
 
-27. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 66. §-a a következő (4)–(7) bekezdéssel egészül ki:
+#### 28. §
 
-„(4) A tárgyalás az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlő hálózat (a továbbiakban: elektronikus hírközlő hálózat) útján is megtartható. Az eljáró versenytanács, amennyiben a tárgyalást elektronikus hírközlő hálózat útján tartja meg, erre irányuló tárgyalási értesítőben közli az elektronikus hírközlő hálózathoz való hozzáféréshez szükséges technikai adatokat.
+#### 29. §
 
-(5) Az elektronikus hírközlő hálózat útján történő meghallgatás esetén a tárgyalás nyilvánosságára vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a nyilvánosságot előzetes regisztrációhoz kötve szükséges biztosítani. Az eljáró versenytanács az elektronikus hírközlő hálózat útján meghallgatottak személyazonosságát a személyazonosság igazolására alkalmas, elektronikus úton bemutatott vagy megküldött hatósági igazolvány alapján állapítja meg.
+#### 30. §
 
-(6) Az elektronikus hírközlő hálózat útján tartott tárgyalás esetén is lehetővé kell tenni a (2) bekezdés alkalmazásával a nyilvánosság egész tárgyalásról vagy annak egy részéről történő kizárását, illetve zárt tárgyalás tartását.
+#### 31. §
 
-(7) Az elektronikus hírközlő hálózat útján történő tárgyalás esetén a tárgyalásról készült jegyzőkönyvnek ki kell terjednie az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatása körülményeinek rögzítésére is.”
-
-28. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 78. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az eljáró versenytanácsot a (3) bekezdés szerinti mérlegelés körében az (1b) bekezdés nem köti. Az (1b) bekezdést a 76. § (1) bekezdés k) pontja szerinti döntés meghozatalakor kell alkalmazni.”
-
-29. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 80/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta.”
-
-30. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 88/U. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából azokban a polgári jogi igény érvényesítése iránti perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak is.”
-
-31. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény
-
-- a) 24. § (2) bekezdésében az „egymilliárd” szövegrész helyébe az „egymilliárd-ötszázmillió” szöveg,
-- b) 25/B. § (1) bekezdésében az „egymilliárd” szövegrész helyébe az „egymilliárd-ötszázmillió” szöveg
-
-lép.
-
-32. § Hatályát veszti a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 27. § (6a) bekezdése.
+#### 32. §
 
 #### 7.
 
@@ -217,14 +196,7 @@ lép.
 
 #### 18. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
-79. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 37. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Ha a változásbejegyzési kérelem kizárólag a szervezet nevében szereplő, megyére utaló elnevezés Magyarország Alaptörvényének tizenegyedik módosítása folytán szükséges vármegyére utaló elnevezésre történő megváltoztatására irányul, a szervezet változásbejegyzésére vonatkozó eljárási szabályokat az alábbi eltérésekkel kell alkalmazni:
-
-- a) a bíróság a változásbejegyzési kérelmet a 28. § (1) bekezdésétől eltérően a benyújtásától számított öt napon belül megvizsgálja, és
-- b) a bíróság a változásbejegyzési kérelemről a 30. § (1) és (5) bekezdésétől eltérően legkésőbb a kérelem benyújtásától számított húsz napon belül dönt.
-
-(6) Az (5) bekezdés b) pontjában megállapított határidőbe nem számít bele a 30. § (4) bekezdésében, valamint a (3) bekezdésben meghatározott idő.”
+#### 79. §
 
 #### 80. §
 
@@ -234,17 +206,9 @@ lép.
 
 #### 82. §
 
-83. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 124/A. §-a a következő (5) bekezdéssel egészül ki:
+#### 83. §
 
-„(5) Az Országgyűlés Hivatala az (1)–(3) bekezdésben meghatározott feladatai ellátásához kapcsolódó könyvkiadási tevékenységet végezhet, az általa kiadott könyveket és egyéb kiadványokat jogszabályban meghatározottak szerint átruházhatja.”
-
-84. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény
-
-- a) 111. § (1) bekezdésében a „minden képviselő esetében egy irodánál magában foglalja a megfelelő színvonalú irodai berendezést és felszerelést, továbbá” szövegrész helyébe a „magában foglalja” szöveg,
-- b) 112. § (2) bekezdésében a „jogosultságai biztosítására” szövegrész helyébe a „jogosultságaira” szöveg és a „használhat fel” szövegrész helyébe a „biztosít” szöveg,
-- c) 112. § (4) bekezdésében az „a képviselőcsoport vezetőjére.” szövegrész helyébe az „a képviselőcsoport vezetőjére. A képviselőcsoport vezetője az e bekezdés szerinti átruházott jogait személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.” szöveg
-
-lép.
+#### 84. §
 
 #### 20. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
@@ -416,25 +380,11 @@ lép.
 
 #### 31. A választottbíráskodásról szóló 2017. évi LX. törvény módosítása
 
-154. § A választottbíráskodásról szóló 2017. évi LX. törvény 10. §-a helyébe a következő rendelkezés lép:
+#### 154. §
 
-„10. § A félnek a választottbírósági eljárás megindítása előtti fizetési meghagyás kibocsátása iránti, európai fizetési meghagyás kibocsátása iránti, vagy a választottbírósági eljárás előtt vagy alatt magyar bírósághoz benyújtott, a Pp. VIII. Fejezete szerinti perindítást megelőző ideiglenes intézkedés vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:523. § c) pontja szerinti biztosíték adása iránti kérelme, magyar bírósághoz vagy magyar közjegyzőhöz benyújtott előzetes bizonyítás, nemperes eljárásban történő igazságügyi szakértő kirendelése, nemperes eljárásban történő egyezségi kísérletre idézés, a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) X. Fejezete szerinti biztosítási intézkedés, vagy az okirat Vht. 23/B. § (1) bekezdés a) pontja és 23/C. §-a szerinti végrehajtási záradékkal való ellátása iránti kérelme, magyar közjegyzőhöz benyújtott közjegyzői okirat szerkesztése iránti kérelme, a felek magyar közjegyző előtti egyezségkötés iránti együttes kérelme, illetve bármely külföldi bírósághoz benyújtott hasonló intézkedés iránti kérelme és a bíróság, illetve a közjegyző e kérelem tárgyában történő intézkedése nem összeegyeztethetetlen a választottbírósági szerződéssel.”
+#### 155. §
 
-155. § A választottbíráskodásról szóló 2017. évi LX. törvény 47. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A választottbírósági ítélet a másik fél ellen előterjesztett kereset alapján a 7. § (2) bekezdésében meghatározott bíróság által és csak abban az esetben érvényteleníthető, ha]
-
-„b) a bíróság úgy ítéli meg, hogy
-
-ba) a vita tárgya a magyar jog szerint választottbírósági útra nem tartozhat,
-
-bb) a választottbírósági ítélet a magyar közrendbe ütközik, vagy
-
-bc) a választottbíróság a felek bármelyike által becsatolt Teljesítésigazolási Szakértői Szerv által készített szakvélemény tartalmát – a bizonyítékként történő értékelés vagy mellőzés okaira kiterjedően – ítéletében érdemben nem értékelte.”
-
-156. § A választottbíráskodásról szóló 2017. évi LX. törvény a következő 68. §-sal egészül ki:
-
-„68. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 47. § (2) bekezdés b) pontját az e rendelkezés módosításának hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
+#### 156. §
 
 #### 32.
 
