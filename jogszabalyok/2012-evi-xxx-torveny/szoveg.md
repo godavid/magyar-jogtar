@@ -2,7 +2,23 @@
 
 a magyar nemzeti értékekről és a hungarikumokról
 
-Az Országgyűlés Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől vezérelve megállapítja, hogya) a magyar nemzeti értékek, köztük a hungarikumok megőrzendő és egyedülálló értékek;b) az összetartozás, az egység és a nemzeti tudat erősítése érdekében nemzetünk értékeit össze kell gyűjteni, dokumentálni, az értékvédelem alapjául szolgáló dokumentációt a szigorú nyilvántartás és kutathatóság szabályai szerint meg kell őrizni, az értékeket pedig ápolni, védelmezni és támogatni kell;c) örökségünket, a magyar kultúra évezredes értékeit, a magyarság szellemi és anyagi alkotásait, ember alkotta és természet adta értékeit átfogó értéktárban kell összesíteni;d) a nemzeti értékeink védelme hozzájárul a nemzeti azonosság-tudat kialakulásához és megszilárdításához;e) nemzeti értékeink széles körű hazai és külföldi bemutatása, megismertetése nyelvi, szellemi, kulturális, gazdasági teljesítményünk, természeti és épített értékeink elismertetése, valamint a nemzeti arculat erősítése egyaránt kiemelkedő jelentőségű.Az Országgyűlés kinyilvánítja, hogy a nemzeti értékeket az egyetemes értékek részének tekinti, amely értékek a magyarság múltjának, jelenének és jövőjének dinamikusan fejlődő tárháza, az értékalapú nemzeti összefogás alapja.A nemzeti értékek tárházát gazdagítják a magyarországi együtt élő népek, az államalkotó tényezőként elismert nemzetiségek és az országhatáron túli, valamint szerte a világban élő, magukat magyarnak valló egyének, közösségek értékei.Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
+Az Országgyűlés Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől vezérelve megállapítja, hogy
+
+a) a magyar nemzeti értékek, köztük a hungarikumok megőrzendő és egyedülálló értékek;
+
+b) az összetartozás, az egység és a nemzeti tudat erősítése érdekében nemzetünk értékeit össze kell gyűjteni, dokumentálni, az értékvédelem alapjául szolgáló dokumentációt a szigorú nyilvántartás és kutathatóság szabályai szerint meg kell őrizni, az értékeket pedig ápolni, védelmezni és támogatni kell;
+
+c) örökségünket, a magyar kultúra évezredes értékeit, a magyarság szellemi és anyagi alkotásait, ember alkotta és természet adta értékeit átfogó értéktárban kell összesíteni;
+
+d) a nemzeti értékeink védelme hozzájárul a nemzeti azonosság-tudat kialakulásához és megszilárdításához;
+
+e) nemzeti értékeink széles körű hazai és külföldi bemutatása, megismertetése nyelvi, szellemi, kulturális, gazdasági teljesítményünk, természeti és épített értékeink elismertetése, valamint a nemzeti arculat erősítése egyaránt kiemelkedő jelentőségű.
+
+Az Országgyűlés kinyilvánítja, hogy a nemzeti értékeket az egyetemes értékek részének tekinti, amely értékek a magyarság múltjának, jelenének és jövőjének dinamikusan fejlődő tárháza, az értékalapú nemzeti összefogás alapja.
+
+A nemzeti értékek tárházát gazdagítják a magyarországi együtt élő népek, az államalkotó tényezőként elismert nemzetiségek és az országhatáron túli, valamint szerte a világban élő, magukat magyarnak valló egyének, közösségek értékei.
+
+Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 ## I. RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -132,7 +148,7 @@ Az Országgyűlés Magyarország Alaptörvényének P) cikke alapján a magyar n
 
 10. § A HB az e törvény végrehajtására kiadott jogszabályban meghatározottak és az alapszabálya szerint eljárva dönt a hozzá az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint benyújtott javaslat alapján a javasolt nemzeti érték kiemelkedő nemzeti értékké történő nyilvánításáról, és a Magyar Értéktárba történő felvételéről.
 
-11. §
+#### 11. §
 
 ## III. RÉSZ — A HUNGARIKUMOK
 
@@ -244,6 +260,12 @@ tagból áll.
 
 18/A. § Jogi személy, továbbá kereskedelmi vagy vendéglátó-ipari létesítmény elnevezésében a „hungarikum” kifejezés a HB hozzájárulása alapján használható.
 
+#### 12. Digitális közszolgáltatás
+
+18/B. § (1) Az állam a külhoni magyarság digitális tájékozódási igényének kielégítése, a magyar nemzeti értékek és a hungarikumok megismertetése, a magyar kultúra megőrzése, védelme, a magyar nyelv ápolása, továbbá a külhoni magyarság közügyeinek Magyarországon történő ügyintézése és a demokratikus közéletben való részvételének elősegítése érdekében az interneten ingyenesen elérhető információs portált üzemeltet.
+
+(2) Az információs portál igénybevételét, az elérhető szolgáltatásokat és tartalmakat az információs portál üzemeltetője (a továbbiakban: Üzemeltető) megkülönböztetés nélkül, ingyenesen, átlátható és objektív feltételek alapján biztosítja. A regisztráció részletes feltételeit az Üzemeltető vagy a virtuális magánhálózatot (VPN) biztosító szolgáltató által rögzített felhasználási feltételek tartalmazzák.
+
 ## IV. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 19. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -256,6 +278,7 @@ tagból áll.
 - f) a nemzeti értékek, a kiemelkedő nemzeti értékek és a hungarikumok digitális formában megjelenő tartalmainak nyilvántartására, és nyilvánosság számára történő hozzáférhetőségének biztosítására vonatkozó szabályokat,
 - g) a nemzeti értékek értéktárakba történő felvételének eljárására vonatkozó szabályokat, valamint
 - h) a kiemelkedő nemzeti értékké és a hungarikummá minősítés eljárására vonatkozó részletes szabályokat.
+- i) a 12. alcímben meghatározott digitális közszolgáltatásra vonatkozó részletes szabályokat és jelölje ki az Üzemeltetőt.
 
 20. § Ez a törvény a kihirdetését követő harmadik hónap első napján lép hatályba.
 
