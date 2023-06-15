@@ -24,18 +24,23 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (2) Magyarország konzuli tisztviselője a diplomáciai vagy konzuli képviseleten a miniszter megbízása alapján konzuli feladatot ellátó személy. Konzuli tisztviselőnek minősül a hivatásos konzuli tisztviselő és a tiszteletbeli konzuli tisztviselő.
 
-(2a) Hivatásos konzuli tisztviselőnek a külpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: a minisztérium) kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
+(2a) Hivatásos konzuli tisztviselőnek a külpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
 
-- a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesült, és legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább három hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, vagy
-- b) jogi szakvizsgával vagy közigazgatási szakvizsgával, illetve jogszabály alapján ezzel egyenértékű vizsgával rendelkezik, és legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, és
+- a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesül,
+- b) a minisztérium konzuli ügyekért felelős főosztályán legalább
+  - ba) két hónap szakmai gyakorlatot szerzett, amennyiben első alkalommal kerül tartós külszolgálatra konzuli feladatkört magában foglaló beosztott diplomata külszolgálati munkakörbe – konzulként – külszolgálati kihelyezésre, vagy
+  - bb) – a (2i) bekezdés kivételével – egy hónap szakmai gyakorlatot szerzett, amennyiben nem első alkalommal kerül konzuli feladatkört magában foglaló beosztott diplomata külszolgálati munkakörbe – konzulként – tartós külszolgálatra kihelyezésre, és
+- c) a konzuli szakmai tanfolyamot magában foglaló felkészítő képzésen való részvételt követően sikeres konzuli szakvizsgát tett.
 
-a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szakmai vizsgát tett.
+(2b) Konzuli szakvizsgára a minisztérium diplomáciai ranggal rendelkező munkatársa bocsátható. A jelöltnek a – konzuli szakvizsga részét képező – konzuli vizsga során a minisztérium és az igazságügyért felelős miniszter vezetése alatt álló minisztérium képviselőjéből álló vizsgabizottság előtt számot kell adnia a konzuli tevékenységgel kapcsolatos magyar és nemzetközi jogi háttérre vonatkozó, normatív utasításban meghatározott ismereteiről.
 
-(2b) Konzuli szakmai vizsgára a minisztérium diplomáciai ranggal rendelkező munkatársa bocsátható. A jelöltnek a konzuli szakmai vizsga során a minisztérium és az igazságügyért felelős miniszter vezetése alatt álló minisztérium képviselőjéből álló vizsgabizottság előtt számot kell adnia a konzuli tevékenységgel kapcsolatos magyar és nemzetközi jogi háttérre vonatkozó, normatív utasításban meghatározott ismereteiről.
+(2c) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő feladatainak ellátásában – ideértve a hatósági tevékenységet is – való közreműködésre igazgatási munkakörben eljáró személyként (konzuli ügyintéző) a minisztériummal kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
 
-(2c) A konzuli tisztviselő konzuli feladatainak ellátásában – ideértve a hatósági tevékenységet is – a miniszter által felhatalmazott, a diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben eljáró személy közreműködik.
+- a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesül,
+- b) legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekért felelős főosztályán, és
+- c) a konzuli szakmai tanfolyamot magában foglaló felkészítő képzésen való részvételt követően sikeres konzuli ügyintézői szakvizsgát tett.
 
-(2d) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő munkájában igazgatási munkakörben való közreműködésre a minisztériummal kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesült és legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, továbbá a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli ügyintézői vizsgát tett.
+(2d)
 
 (2e) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő munkájában igazgatási munkakörben való közreműködéssel a külképviseletekről és a tartós külszolgálatról szóló törvényben meghatározott külképviselet által foglalkoztatott munkavállalóként, illetve külképviselet által foglalkoztatott házastársként olyan személy bízható meg, aki
 
@@ -46,9 +51,15 @@ a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szak
 - e) jogszabályban meghatározott típusú és szintű nyelvismerettel rendelkezik, kivéve, ha a fogadó ország hivatalos vagy munkanyelve az anyanyelve vagy legalább két évig a fogadó ország hivatalos vagy munkanyelvén tartott iskolarendszerű oktatásban vett részt, és
 - f) legalább egy hónap szakmai gyakorlatot követően, a munkakörének ellátásához szükséges konzuli ismeretekből sikeres vizsgát tett.
 
-(2f) A (2a) bekezdés szerinti konzuli szakmai vizsgát, illetve a (2d) és (2e) bekezdések szerinti konzuli ügyintézői vizsgát minden tartós külszolgálat, illetve konzuli feladatok ellátásában közreműködő munkakörben való foglalkoztatás megkezdése előtt teljesíteni kell, kivéve, ha a kormánytisztviselő, külképviselet által foglalkoztatott házastárs illetve külképviselet által foglalkoztatott munkavállaló az újabb kirendelés vagy foglalkoztatás napját megelőző egy éven belül legalább hat hónapos időtartamban a vizsga típusának megfelelő konzuli feladatokat látott el.
+(2f) A (2a) bekezdés c) pontja szerinti konzuli szakvizsgát, illetve a (2c) bekezdés c) pontja szerinti konzuli ügyintézői szakvizsgát minden konzuli vagy konzuli ügyintézői feladatkört magában foglaló tartós külszolgálati munkakörbe tartós külszolgálat teljesítése céljából történő kihelyezés előtt teljesíteni kell, kivéve ha a kormánytisztviselő a kihelyezés napját megelőző egy éven belül eredményes konzuli szakvizsgát vagy konzuli ügyintézői szakvizsgát tett.
 
-(2g) A konzuli munkát érintő joganyagban történt lényeges változás esetén a miniszter – a konzuli tisztviselőként vagy a konzuli feladatokban közreműködő munkatársként való további foglalkoztatás feltételeként – az adott részanyagból kötelező jelleggel, kiegészítő vizsga letételét rendelheti el.
+(2g) A (2a) bekezdés c) pontja szerinti konzuli szakvizsgát, illetve a (2c) bekezdés c) pontja szerinti konzuli ügyintézői szakvizsgát minden konzuli vagy konzuli ügyintézői feladatok ellátására történő ideiglenes külföldi kiküldetés előtt teljesíteni kell, kivéve ha az ideiglenes külföldi kiküldetésre a minisztérium konzuli ügyekért felelős főosztályának személyi állományából kerül sor, és a kormánytisztviselő a kiküldetés időpontját megelőző öt éven belül – a kiküldetés keretében ellátandó feladatkörtől függően – eredményes konzuli vagy konzuli ügyintézői szakvizsgát tett.
+
+(2h) A (2e) bekezdés f) pontja szerinti konzuli ügyintézői vizsgát minden, külképviselet által foglalkoztatott munkavállalóként, valamint külképviselet által foglalkoztatott házastársként történő foglalkoztatás előtt teljesíteni kell.
+
+(2i) Ha a kormánytisztviselő előző kihelyezése az újabb kihelyezés napját megelőző egy éven belül szűnt meg és az előző kihelyezés során konzuli vagy konzuli ügyintézői (rész)munkakört látott el, a kormánytisztviselőnek az újabb kihelyezés előtt a konzuli szakmai tanfolyamot magában foglaló felkészítő képzésen való részvételt követően konzuli vagy konzuli ügyintézői szakvizsgát kell tennie, azonban a minisztérium konzuli ügyekért felelős főosztályán nem kell szakmai gyakorlatot szereznie.
+
+(2j) A konzuli munkát érintő joganyagban történt lényeges változás esetén a miniszter – a konzuli tisztviselőként vagy a konzuli feladatokban közreműködő konzuli ügyintézőként való további foglalkoztatás feltételeként – az adott részanyagból kötelező jelleggel kiegészítő vizsga letételét rendelheti el.
 
 (3) A miniszter tiszteletbeli konzuli tisztviselőnek a fogadó vagy harmadik állam azon állampolgárát vagy a fogadó államban élő azt a magyar állampolgárt nevezheti ki, aki a magyar jog és a fogadó állam joga szerint is büntetlen előéletű, külön rendeletben meghatározott feltételek szerint alkalmas az e tisztséggel járó feladatok teljesítésére, és írásban vállalja azok ellátását. A tiszteletbeli konzuli tisztviselőt a miniszter jogszabályban meghatározott korlátozásokkal és terjedelemben bízhatja meg konzuli feladatok ellátásával.
 
@@ -84,11 +95,20 @@ a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szak
 
 4. § (1) A konzuli szolgálat minden megengedett módon tájékozódik a külföldi államokban a magyar állampolgárok alapvető jogait és érdekeit közvetlenül érintő, utazásukkal kapcsolatos körülményekről, belső jogszabályokról és azok változásairól, valamint a jogalkalmazásról, és ezekről a megfelelő úton – ideértve a tömegtájékoztatási eszközöket és az interneten való közzétételt, valamint a szóbeli felvilágosítást is – tájékoztatja az állampolgárokat annak érdekében, hogy elősegítse megfelelő felkészülésüket a külföldi utazásra, tartózkodásra.
 
-(2) A konzuli szolgálat figyelemmel kíséri a magyar állampolgárok konzuli védelmét érintő nemzetközi jogi szabályok érvényesülését a külföldi államban, s ezek megsértése, különösen a magyar állampolgárok hátrányos megkülönböztetése, alapvető jogaik súlyos vagy rendszeres sérelme esetén haladéktalanul fellép az adott állam illetékes hatóságainál.
+(2) A külföldre utazó magyar állampolgárnak lehetősége van elektronikus úton a konzuli szolgálat számára megadnia személyes adatait, elérhetőségeit, és a külföldi tartózkodásával kapcsolatos adatokat azon célból, hogy a konzuli szolgálat az utazás célországában történt rendkívüli eseményekről értesítse, illetve bajba jutása esetén felvegye vele a kapcsolatot a konzuli segítség biztosítása érdekében.
 
-(3) A konzuli szolgálat a kormányzati portálon általa működtetett felületen az egyes országokat (térségeket) kockázati tényezők mérlegelése alapján kategorizálja, majd a biztonsági besorolásukról körültekintő mérlegelést követően, a magyar külképviseletektől kapott információk alapján és az európai uniós konzuli együttműködés keretében folytatott egyeztetés figyelembevételével dönt.
+(3) A konzuli szolgálat figyelemmel kíséri a magyar állampolgárok konzuli védelmét érintő nemzetközi jogi szabályok érvényesülését a külföldi államban, s ezek megsértése, különösen a magyar állampolgárok hátrányos megkülönböztetése, alapvető jogaik súlyos vagy rendszeres sérelme esetén haladéktalanul fellép az adott állam illetékes hatóságainál.
 
-(4) A konzuli szolgálat három kategóriába sorolja az egyes országokat (térségeket): a legenyhébb biztonsági besorolású (III. biztonsági kategória), a fokozott biztonsági kockázatot jelentő (II. biztonsági kategória), valamint, az utazásra nem javasolt (I. biztonsági kategória) országok (térségek).
+(4) A konzuli szolgálat az általa működtetett felületen az egyes országokat (térségeket) kockázati tényezők mérlegelése alapján kategorizálja, majd a biztonsági besorolásukról körültekintő mérlegelést követően, a magyar külképviseletektől kapott információk alapján és az európai uniós konzuli együttműködés keretében folytatott egyeztetés figyelembevételével dönt.
+
+(5) A konzuli szolgálat biztonsági szempontból négy kategóriába sorolja az egyes országokat (térségeket):
+
+- a) IV. biztonsági kategória: alacsony biztonsági kockázatot rejtő, látogatható,
+- b) III. biztonsági kategória: biztonsági kockázatot rejtő, fokozott óvatossággal látogatható,
+- c) II. biztonsági kategória: kiemelt biztonsági kockázatot rejtő, utazásra csak halaszthatatlan esetben javasolt, valamint
+- d) I. biztonsági kategória: az utazásra nem javasolt, ott-tartózkodás esetén azonnali elhagyásra javasolt
+
+országok (térségek).
 
 ### Bajba jutott magyar állampolgárok védelme
 
@@ -236,16 +256,17 @@ a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szak
 
 ### Adatvédelem, adatszolgáltatás
 
-16. § (1) A konzuli szolgálat a konzuli védelem során – jogainak érvényesítése és érdekeinek védelme céljából, továbbá a védelemhez szükséges adatkörben – a védelemre szoruló személy következő személyes adatait kezelheti:
+16. § (1) A konzuli szolgálat a konzuli védelem, illetve a külföldre utazás bejelentése során – jogainak érvényesítése és érdekeinek védelme céljából, továbbá a védelemhez szükséges adatkörben – a védelemre szoruló személy következő adatait kezelheti:
 
 - a) természetes személyazonosító adatai,
 - b)–c)
 - d) magyarországi lakóhelye,
 - e) állampolgársága,
 - f) személyazonosító okmányának okmányazonosító adatai,
-- g) a védelem biztosításához szükséges egyéb adatok.
+- g) a külföldi tartózkodásával kapcsolatos adatok, és
+- h) a védelem biztosításához szükséges egyéb adatok.
 
-(2) A konzuli szolgálat az érdekvédelem során birtokába került személyes adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató bíróság, ügyészség, nyomozó hatóság adatkérése, a rendőrségről szóló törvényben meghatározott, a bajba jutott magyar állampolgárok mentésére, hazatérésük biztosítására, illetve az evakuálás végrehajtására irányuló feladatainak ellátásával összefüggésben a terrorizmust elhárító szerv vagy a magyar nemzetbiztonsági szolgálatok megkeresése, valamint a (3) és (4) bekezdésben foglaltak kivételével – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. A 14. §-ban foglalt konzuli tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
+(2) A konzuli szolgálat az érdekvédelem során birtokába került adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató bíróság, ügyészség, nyomozó hatóság adatkérése, a rendőrségről szóló törvényben meghatározott, a bajba jutott magyar állampolgárok mentésére, hazatérésük biztosítására, illetve az evakuálás végrehajtására irányuló feladatainak ellátásával összefüggésben a terrorizmust elhárító szerv vagy a magyar nemzetbiztonsági szolgálatok megkeresése, valamint a (3) és (4) bekezdésben foglaltak kivételével – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. A 14. §-ban foglalt konzuli tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
 
 (3) A közeli hozzátartozó érdeklődése esetén, amennyiben az érintett személy baleset, fogva tartás vagy más ok miatt nincs abban a helyzetben, hogy maga vegye fel a kapcsolatot közeli hozzátartozójával, illetve holléte ismeretlen, a konzuli szolgálat vélelmezi az érdekelt magyar állampolgár hozzájárulását az ügyről adott tájékoztatáshoz, feltéve, hogy a konzuli szolgálatnak nincs tudomása az érintett és közeli hozzátartozójának érdekei között fennálló nyilvánvaló ellentétről. Amint a konzuli szolgálatnak sikerül kapcsolatba lépnie az érintettel, felkéri arra, hogy nyilatkozzon: közeli hozzátartozójának adható-e a továbbiakban tájékoztatás.
 
@@ -284,7 +305,7 @@ a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szak
 - b) munkakörhöz tartozó konzuli feladatok;
 - c) konzuli feladatok ellátásához szükséges jogosultságok, azok gyakorolhatóságának kezdő és befejező időpontja.
 
-(4) A konzuli szolgálat a (2)–(3) bekezdésben meghatározott adatokat a 2. § (2a) és a 2. § (2d) bekezdésben meghatározott szakmai gyakorlat megkezdésének időpontjától kezeli.
+(4) A konzuli szolgálat a (2)–(3) bekezdésben meghatározott adatokat a 2. § (2a) és (2c) bekezdésében meghatározott szakmai gyakorlat megkezdésének időpontjától kezeli.
 
 17. § (1) Az érdekvédelem ellátása során, az adatok felhasználása céljának és az igényelt adatok körének megjelölésével a konzuli szolgálat az adatkezelést szabályozó külön törvény alapján adatot igényelhet:
 
@@ -326,7 +347,7 @@ a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szak
 
 (6) A konzuli tisztviselő, azokban az állampolgársági és közigazgatási hatósági eljárásokban, melyekben közreműködőként vesz részt, jogosult a hatóság által kiállított elektronikus közokiratról papíralapú hiteles másolatot kiállítani.
 
-(7) Ha közigazgatási hatósági ügyben első fokon a konzuli tisztviselő jár el, a fellebbezés elbírálására a miniszter jogosult.
+(7)
 
 (8) A konzuli tisztviselő a közigazgatási hatósági eljárásokban kizárólag a jogszabályoknak, valamint a vonatkozó nemzetközi jogi szabályoknak van alávetve, hatósági eljárása során és hatósági döntéseinek tartalmával összefüggésben – a feladat elvégzésére vagy mulasztás pótlására irányuló utasítás kivételével – nem utasítható.
 
@@ -379,7 +400,7 @@ a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szak
 
 (2)
 
-23. §
+#### 23. §
 
 24. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
