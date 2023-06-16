@@ -209,7 +209,7 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (4) A kérelmet írásban lehet előterjeszteni, vagy az illetékes bíróságon jegyzőkönyvbe lehet mondani.
 
-15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
+15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
 
 (2) Hivatalból indult eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
 
@@ -233,7 +233,7 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (2b) A megelőző távoltartás elrendelésével egyidejűleg – a bántalmazott erre irányuló kérelmére – a bíróság védelmi tanúsítványt állít ki.
 
-(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
+(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
 
 (3a) A bíróság a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést a (3) bekezdésben foglaltak szerint közli.
 
@@ -300,7 +300,15 @@ a védelmi tanúsítványt kiállító elsőfokú bíróság a 606/2013/EU rende
 
 ### Módosuló jogszabályok
 
-19–23. §
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
 
 ### Hatálybalépés
 

@@ -3667,7 +3667,7 @@ főbb szabályai
 
 (3a) A (3) bekezdésben meghatározott, személyes megjelenéshez nem kötött jognyilatkozatokat postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján vagy személyesen lehet előterjeszteni. A gyámhatóság az e törvény szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
 
-(3b) Életvitelszerűen külföldön tartózkodó ügyfél esetén személyesen megtett jognyilatkozatnak kell tekinteni a kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton megtett jognyilatkozatot.
+(3b) Személyesen megtett jognyilatkozatnak kell tekinteni a kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton megtett jognyilatkozatot. Az ügyfél kérelmére a gyámhatóság a jognyilatkozat kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton történő felvételét – az örökbefogadási és a származás megállapításával összefüggő ügyek kivételével – nem tagadhatja meg.
 
 (4) A gyámhatósági eljárásban a támogató (hivatásos támogató)
 
