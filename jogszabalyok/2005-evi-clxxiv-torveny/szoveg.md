@@ -157,7 +157,7 @@ jár.
 - e) nyilvántartja
   - ea) az a) pont af) alpont szerinti adatokat,
   - eb) a települési önkormányzat(ok) befizetéseit,
-  - ec) az ea) alpontban foglalt rendelkezéstől függetlenül is, a 6. § (5) bekezdésének rendelkezése alapján a szülő, illetőleg a gyermek lakóhelyét, levelezési címét.
+  - ec) az ea) alpontban foglalt rendelkezéstől függetlenül is, a szülő, illetőleg a gyermek lakóhelyét, levelezési címét.
 
 (15) Az életkezdési letéti számlán nyilvántartott összeget a kiutaló a Start-számlára annak megnyitásától számított 8 munkanapon belül vezeti át.
 
@@ -200,25 +200,17 @@ azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasznál
 - b) a Magyarországon nevelésbe vett gyermeket az (1) bekezdés a) pontja szerinti befizetéstől függetlenül évi 24 ezer forint összegben;
 - c) az a) pontban nem említett gyermeket az (1) bekezdés a) pontja szerinti befizetés esetén a naptári évben befizetett összeg 10 százalékának megfelelő, de legfeljebb 12 ezer forint összegben.
 
-(3) A támogatást a gyermek javára a Start-számláját vezető számlavezető a naptári évet követő év március első munkanapjáig igényli a kiutalónál. A számlavezető a támogatásra jogosult gyermekekről – a (2) bekezdés b) pontja szerinti gyermek esetében a kiutaló által a számlavezetőnek megküldött, a (7) bekezdés szerinti adatszolgáltatás alapján – a (2) bekezdés a)–c) pontja szerinti csoportosításban készített kimutatást a kiutalóval kötött szerződés szerint küldi meg a kiutalónak. A kimutatás tartalmazza a gyermekek adóazonosító jelét, Start-számláik nyilvántartási számát és a támogatásra jogosító befizetések összegét. A gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermekek esetében a kimutatáshoz csatolni kell a magasabb összegű támogatásra való jogosultság igazolására a szülő által a számlavezető részére benyújtott (5) bekezdés szerinti okiratot. Az iratokat számlavezetőnként egy csomagban kísérőjegyzékkel együtt kell a kiutalóhoz eljuttatni.
+(3) A támogatást a (2) bekezdés a) és c) pontja esetében a gyermek javára a Start-számláját vezető számlavezető a naptári évet követő év március első munkanapjáig igényli a kiutalónál. A számlavezető a támogatásra jogosult gyermekekről készített kimutatást a kiutalóval kötött szerződés szerint küldi meg a kiutalónak. A kimutatás tartalmazza a gyermekek adóazonosító jelét, Start-számláik nyilvántartási számát és a támogatásra jogosító befizetések összegét.
 
-(4) A támogatást a kiutaló a (3) bekezdés alapján kapott igénylésben feltüntetett befizetések után, illetőleg a Magyarországon nevelésbe vett gyermek esetében a jogosultság időszakával arányos összegben az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül a számlavezetőhöz utalja
+(4) A Magyarországon nevelésbe vett gyermekekről, valamint a rendszeres gyermekvédelmi kedvezményre jogosult gyermekekről az e törvényben biztosított támogatásokhoz az adatokat a kiutaló az általa vezetett nyilvántartásból kérdezi le a naptári évet követő év március első munkanapján.
 
-- a) a (2) bekezdés c) pontja és az 5. § (21) bekezdése szerint, vagy
-- b) a (2) bekezdés a)–b) pontja szerint, ha a gyermeknek a rendelkezésekben meghatározott magasabb összegű támogatásra való jogosultsága igazolása céljából az (5) bekezdésben említett iratot a számlavezető az igényléshez csatolta.
+(5) A támogatást a kiutaló a (3) bekezdés alapján kapott igénylésben feltüntetett befizetések után a benyújtási határidő lejártától, (2) bekezdés b) pontja szerinti támogatás összegét a (4) bekezdés szerinti lekérdezéstől számított 30 napon belül utalja a számlavezetőhöz.
 
-(5) A (4) bekezdés b) pontja szerinti jogosultság igazolására alkalmas, az államháztartásért felelős miniszter rendeletében meghatározott formában és tartalommal kiállított okiratot
+(5a)
 
-- a) a (2) bekezdés a) pontja szerinti támogatáshoz kapcsolódóan a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek a számlavezető írásbeli megkeresése alapján a naptári évet követő év január 15-éig a számlavezetőhöz,
-- b) a (2) bekezdés b) pontja szerinti támogatáshoz kapcsolódóan a gyámhivatal a naptári évet követő év február első munkanapján a kiutalóhoz
+(6) A (3) és (5) bekezdésben meghatározott határidő felróható elmulasztása esetén a számlavezető, illetve a kiutaló a támogatás összege után napi 3,5 ezrelék késedelmi kamatot fizet a Start-számla javára.
 
-juttatja el.
-
-(5a) A kiutaló esetében az (5) bekezdésben meghatározott számlavezető általi írásbeli megkeresésnek minősül az államháztartásért felelős miniszter rendeletében meghatározott formában és tartalommal kiállított bármely államigazgatási szerv által megküldött okirat is.
-
-(6) A (3)–(4) bekezdésben meghatározott határidő(k) felróható elmulasztása esetén a számlavezető, illetőleg a kiutaló a támogatás összege után napi 3,5 ezrelék késedelmi kamatot fizet a Start-számla javára.
-
-(7) A kiutaló a területi gyermekvédelmi szakszolgálat adatszolgáltatásában szereplőket – a nyilvántartása alapján – Start-számla vagy életkezdési letéti számla szerint elkülönítetten tartja nyilván. A kiutaló a Start-számlával rendelkezők esetében a (2) bekezdés b) pontja szerinti támogatásra jogosultak adatait a naptári évet követő év február 25-éig elektronikusan megküldi a számlavezető részére.
+(7)
 
 ### Az életkezdési letéti számlán nyilvántartott, illetőleg a Start-számla követelés kezelése
 
@@ -234,8 +226,10 @@ juttatja el.
 
 a jóváírás évét megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat, negatív éves fogyasztói árindex esetén nullaszázalékos kamat alapján a nyilvántartott követelés utolsó fordulónapjától számított időszakban meghatározott átlagos állománya után számított támogatást,
 
-- b) a területi gyermekvédelmi szakszolgálat által a naptári évet követő év február első munkanapjáig megküldött – a nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legkorábban a benyújtási határidő lejártától számított 30 naptári napon belül évi 24 ezer forint támogatást,
-- c) a tárgyévben legalább hat hónapig Magyarországon nevelésbe vett és az adatszolgáltatás napján is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a kiutaló a területi gyermekvédelmi szakszolgálat adatszolgáltatása alapján (1) bekezdés b) pontja szerinti támogatáson felül további 24 ezer forint támogatást ír jóvá.
+- b) a nevelés naptári évben fennálló időtartamával arányosan a 6. § (5) bekezdésében meghatározott határidőn belül évi 24 ezer forint támogatást,
+- c) a tárgyévben legalább hat hónapi Magyarországon nevelésbe vett és a tárgyévet követő év február 1-jén is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a b) pont szerinti támogatáson felül további 24 ezer forint támogatást
+
+ír jóvá.
 
 (1a) Az (1) bekezdés a) pontja szerinti esetben, ha a támogatás jóváírására okot adó körülmény felmerülése időpontjában a megelőző évre vonatkozó éves átlagos fogyasztói árindex százalékos mértéke nem ismert, a támogatás mértékének megállapítása a jóváírás évét kettővel megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat alapján történik.
 
@@ -265,7 +259,7 @@ kibocsátásra kerülő, 19 éves futamidejű állampapírban kell kezelni.
 (8) Az életkezdési támogatást, illetőleg a gyermek halála esetén az örököst megillető összeget a fiatal felnőtt, illetőleg az örökös kérelmére
 
 - a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt módon kifizeti;
-- b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (4) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással, a magyarországi lakcímmel nem rendelkező jogosult esetében kizárólag átutalással fizeti ki.
+- b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (5) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással, a magyarországi lakcímmel nem rendelkező jogosult esetében kizárólag átutalással fizeti ki.
 
 (9) A kiutaló a (8) bekezdésben említetteket megillető összeget az örökös kérelmének és a jogerős magyar nyelvű öröklési bizonyítvány vagy a magyar nyelvű hagyatéki határozat – feltéve, ha az a nemzetközi magánjog szabályai szerint Magyarországon joghatást fejt ki – eredeti vagy hiteles másolati példányának kézhezvételétől, valamint az örökös személyazonosságának igazolását követő 8 munkanapon belül
 
@@ -308,19 +302,22 @@ kibocsátásra kerülő, 19 éves futamidejű állampapírban kell kezelni.
 
 9/A. § Amennyiben a Start-számla megnyitását a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését megelőzően nem a kiutalónál kezdeményezték, az életkezdési támogatásnak a kiutalótól eltérő számlavezetőhöz történő áthelyezésére e törvény 2012. szeptember 30-án hatályos rendelkezéseit kell alkalmazni.
 
-9/B. § A területi gyermekvédelmi szakszolgálat adatot szolgáltat a kincstár részére azon gyermekek természetes személyazonosító adatairól, továbbá – ha az ismert – adóazonosító jeléről, akik a tárgyévben a 7. vagy 14. életévük betöltésének napján, végleges határozat alapján Magyarországon nevelésbe vett gyermekek voltak. Az adatszolgáltatás tartalmazza annak tényét, hogy a 2005. december 31-ét követően született gyermek nevelésbe vételének időtartama elérte-e a hat hónapot. Az adatszolgáltatást a tárgyévet követő év március 20-áig kell elektronikus úton teljesíteni. A gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermekek adatait a kiutaló a szociális és gyermekvédelmi ellátások országos nyilvántartásából kéri be.
+9/B. § A 6. § (4) bekezdésében meghatározottak teljesítéséhez a kiutaló az általa vezetett nyilvántartásból lekérdezi
 
-9/C. §
+- a) azon gyermekek természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, akik a tárgyévben 7. vagy 14. életévük betöltésének napján végleges határozat alapján Magyarországon nevelésbe vett gyermekek voltak, azzal, hogy a kiutaló vizsgálja, hogy a nevelésbe vétel időtartama elérte-e a hat hónapot, továbbá, hogy a gyermekek a tárgyévet követő év február 1-jén is nevelésben álltak, valamint
+- b) azon gyermekek személyazonosító adatait és társadalombiztosítási azonosító jelét, akik a tárgyévben 7. vagy 14. életévük betöltése napján rendszeres gyermekvédelmi kedvezményre voltak jogosultak.
+
+#### 9/C. §
 
 ### Záró rendelkezések
 
 10. § (1) Ez a törvény 2006. január 1-jén lép hatályba.
 
-(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a 6. § (5) bekezdése szerinti irat, valamint a 7. § (1) bekezdés b) pontja és a 9/B. § szerinti adatszolgáltatás egységes tartalmi és formai követelményeit rendeletben határozza meg.
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a 7. § (1) bekezdés b) pontja és a 9/B. § szerinti adatszolgáltatás egységes tartalmi és formai követelményeit rendeletben határozza meg.
 
 (3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az 5. § (4) bekezdés szerinti kérelmek egységes tartalmi követelményeit rendeletben határozza meg.
 
-11. §
+#### 11. §
 
 12. § E törvénynek a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2013. évi CXC. törvénnyel megállapított 7. § (2a) bekezdését a 2014. február 1-jét megelőzően született gyermek esetében a kincstárnál vezetett Start-számlán 2013. november 30-át követően jóváírásra kerülő összegből eredő követelésre is alkalmazni kell azzal, hogy azt a tőkepiacról szóló törvény szerint nyilvánosan forgalomba hozott, a 2013. évben kibocsátani kezdett, 19 éves futamidejű állampapírban kell kezelni.
 
