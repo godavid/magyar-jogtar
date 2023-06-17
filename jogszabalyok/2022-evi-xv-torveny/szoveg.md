@@ -18,7 +18,7 @@ a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a közú
 
 (3) A Módosító Megállapodás, a 2. §, a 3. §, az 1. melléklet és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-6. § (1) A 4. § a Módosító Megállapodás 4. cikk (1) bekezdésében meghatározott időpontban hatályát veszti.
+6. § (1)
 
 (2) Az (1) bekezdés szerinti időpont naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
