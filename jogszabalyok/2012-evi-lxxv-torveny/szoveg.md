@@ -36,6 +36,8 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 6. § (1) A beruházás tekintetében az építtetői feladatokat a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság látja el. Az építtető a Magyar Állam nevében és javára jár el.
 
+(1a) Az (1) bekezdésben foglalt rendelkezésektől eltérően a Nemzeti Korcsolyázó Központ építtetője az állami beruházásokért felelős miniszter által vezetett minisztérium, amely ebben a minőségében a magyar állam nevében és javára eljár.
+
 (2) Az építtető a beruházás előkészítéseként teljes körűen elkészíti vagy elkészítteti a szükséges terveket, tanulmányokat. Az építtető ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, a saját nevére megszerzi az építési engedélyeket, továbbá elvégzi vagy elvégezteti a munkaterület előkészítését. Az építtető gondoskodik a közbeszerzési eljárások lefolytatásáról, a megvalósításra vonatkozó építési és egyéb szerződések megkötéséről, az építési műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja a műszaki átadás-átvételt.
 
 (3) A beruházás megvalósítása fontos közérdekű és közcélú tevékenység. A beruházás megvalósításához szükséges ingatlant a kisajátításról szóló 2007. évi CXXIII. törvény szerinti adásvétel útján vagy más, jogszabályban meghatározott jogcímen kell megszerezni.

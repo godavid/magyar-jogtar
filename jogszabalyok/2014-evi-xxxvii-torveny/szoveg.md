@@ -2906,7 +2906,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - d) meghatározza az Alap által e törvény értelmében teljesítendő kifizetések rendjét,
 - e) dönt az Alap költségvetéséről, ezen belül a működési költségeiről,
 - f) évente egyszer, legkésőbb a gazdasági év befejezését követő év május 30. napjáig elfogadja az Alap éves beszámolóját és a könyvvizsgáló jelentését, megállapítja az Alap vagyoni helyzetét és az ezekről szóló beszámolóját benyújtja az Állami Számvevőszéknek,
-- g)
+- g) elfogadja az Alap szabályzatait,
 - h) határoz a megemelt, illetve rendkívüli díjfizetési kötelezettség előírásáról,
 - i) ellátja az e törvényben meghatározott egyéb feladatokat, valamint
 - j) dönt – a szanálási feladatkörében eljáró MNB előterjesztése alapján – az Alap pénzeszközeinek szanálási célú felhasználásáról.
@@ -2940,7 +2940,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 (4) Az Alap – 126. § (3) bekezdése szerinti célok megvalósítása érdekében – kötvényt bocsáthat ki.
 
-(4a) Az Alap kizárólag akkor vehet fel hitelt, valamint bocsáthat ki kötvényt, ha a tagjai által fizetett díjak nem elegendőek a 126. § (3) bekezdése szerinti célok megvalósításához. Az Alap más EGT-állam szanálást finanszírozó rendszerétől kizárólag akkor vehet fel hitelt, ha más jogi személytől történő hitelfelvételre, valamint kötvény kibocsátására észszerű feltételek mellett rövid időn belül nincs lehetőség.
+(4a) Az Alap kizárólag akkor vehet fel hitelt, valamint bocsáthat ki kötvényt, ha az Alap rendelkezésére álló pénzügyi eszközök nem elegendőek a 126. § (3) bekezdése szerinti célok megvalósításához. Az Alap más EGT-állam szanálást finanszírozó rendszerétől kizárólag akkor vehet fel hitelt, ha más jogi személytől történő hitelfelvételre, valamint kötvény kibocsátására észszerű feltételek mellett rövid időn belül nincs lehetőség.
 
 (5) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a 126. § (3) bekezdése szerinti kötelezettségei teljesítése érdekében – a Kormány által jóváhagyott összegű – felvett hiteleiből, kölcsöneiből és kötvénykibocsátásából erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat kell fizetnie.
 
@@ -2972,7 +2972,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 138. § (1) Az Alap tagjai éves díjat fizetnek, amelynek mértékét a szanálási feladatkörében eljáró MNB határozza meg és arról értesíti az Alap tagjait.
 
-(1a) Azon időpontot követően, hogy az Alap eszközei első alkalommal elérték a Magyarországon engedélyezett hitelintézetek biztosított betétállománya kártalanítási összeghatárának 1%-át (e bekezdés alkalmazásában a továbbiakban: célszint), az éves díjfizetési kötelezettséget úgy kell megállapítani, hogy az Alap eszközeinek a célszint kevesebb mint kétharmadára csökkenése esetén az Alap eszközei hat éven belül ismét elérjék a célszintet.
+(1a) Azon időpontot követően, hogy az Alap rendelkezésére álló pénzügyi eszközei első alkalommal elérték a Magyarországon engedélyezett hitelintézeteknél elhelyezett biztosított betétek kártalanítási kötelezettség alá tartozó betétrészeinek 1%-át (e bekezdés alkalmazásában a továbbiakban: célszint), az éves díjfizetési kötelezettséget úgy kell megállapítani, hogy az Alap rendelkezésre álló pénzügyi eszközeinek a célszint kevesebb mint kétharmadára csökkenése esetén az Alap rendelkezésre álló pénzügyi eszközei hat éven belül ismét elérjék a célszintet.
 
 (1b) Az éves díjfizetési kötelezettség meghatározásakor megfelelően figyelembe kell venni az üzleti ciklus fázisát és azokat a hatásokat, amelyeket a prociklikus hozzájárulások eredményezhetnek az éves hozzájárulások meghatározására.
 
@@ -2980,7 +2980,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 (2) A rendszeres éves díj összegét az Alap tagja minden évben féléves részletekben, legkésőbb a tárgyfélév utolsó hónapjának tizenötödik napjáig köteles befizetni az Alap pénzforgalmi számlájára.
 
-139. § Az intézmény a tevékenységi engedélye visszavonásának évében a tevékenységi engedélye visszavonásának napjáig terjedő időszakra vonatkozóan köteles időarányos éves díjat fizetni.
+#### 139. §
 
 #### 74/A. A harmadik országbeli intézmények magyarországi fióktelepeinek díjfizetési kötelezettsége
 
@@ -3068,7 +3068,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - a) az Alaphoz való csatlakozásra vonatkozó nyilatkozatot az Alaphoz eljuttatni e törvény hatálybalépését követő 30 napon belül, és
 - b) a jegyzett tőkéjének egy tízezrelékével megegyező összegű csatlakozási díjat az Alapba befizetni legkésőbb e törvény hatálybalépését követő 45 napon belül azzal, hogy a csatlakozási díj fennmaradó négy tízezrelékét e törvény hatálybalépését követő 90 napon belül teljesíti.
 
-(2) A 138. § (1) bekezdésben foglalt díjakat úgy kell megállapítani, hogy az Alap eszközei legkésőbb 2028. december 31. napjáig – és ezen időszakra egyenletesen elosztva – elérjék a Magyarországon engedélyezett hitelintézetek biztosított betétállománya kártalanítási összeghatárának legalább 1%-át.
+(2) A 138. § (1) bekezdésben foglalt díjakat úgy kell megállapítani, hogy az Alap rendelkezésre álló pénzügyi eszközei legkésőbb 2028. december 31. napjáig – és ezen időszakra egyenletesen elosztva – elérjék a Magyarországon engedélyezett hitelintézeteknél elhelyezett biztosított betétek kártalanítási kötelezettség alá tartozó betétrészeinek legalább 1%-át.
 
 (3)
 

@@ -20,7 +20,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban, a belső
 - b) kényszertörlési eljárás alatt áll,
 - c) a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény szerinti szerkezetátalakítási eljárás alatt áll,
 - d) olyan polgári nemperes eljárás alatt áll, amelynek célja, hogy a társaság a hitelezőivel való megegyezéssel képes legyen a pénzügyi vagy vagyoni helyzetének, illetve működésének reorganizációjára vagy restrukturálására, vagy
-- e) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény szerinti szanálási eszközök, hatáskörök és mechanizmusok hatálya alatt áll.
+- e) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény, vagy a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet szerinti szanálási eszközök, hatáskörök és mechanizmusok hatálya alatt áll.
 
 (2) A 7. § (2) bekezdése, a 13. § és a 44. § nem érinti a magyar közigazgatási szervekkel, hatóságokkal szemben fennálló pénzbeli vagy nem pénzbeli kötelezettségek teljesítésére vagy biztosítására vonatkozó jogszabályi rendelkezések alkalmazását.
 
@@ -608,6 +608,8 @@ is.
 (2) Ez a törvény az (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek a nyilvántartások összekapcsolására szolgáló rendszerre vonatkozó műszaki leírások és eljárások tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az (EU) 2020/2244 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. június 18-i (EU) 2021/1042 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Ez a törvény az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(4) Ez a törvény a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valaminta 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 #### 19. Módosító rendelkezések
 

@@ -536,7 +536,7 @@ köteles megőrizni, illetve tárolni.
 
 36/D. § Az olyan gondnokolt és gondnok, akinek a számára pénzforgalmi szolgáltató nem bocsát ki automata bankjegykiadó gépből készpénzfelvételt lehetővé tevő készpénz-helyettesítő fizetési eszközt, jogosult a 36/A. §-ban meghatározott feltételű készpénzfelvételre a fizetési számláját vezető pénzforgalmi szolgáltatója bármely pénztárában, ha a pénzforgalmi szolgáltatójának tevékenysége pénztári szolgáltatás nyújtására is kiterjed.
 
-36/E. § A fogyasztó díjtól és költségtől mentesen jogosult benyújtani a fizetési számlája terhére a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (2) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott egységes adatbeviteli megoldás útján vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízást.
+36/E. § A fogyasztó díjtól és költségtől mentesen jogosult benyújtani a fizetési számlája terhére a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (3) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott egységes adatbeviteli megoldás útján vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízást.
 
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 
@@ -726,12 +726,12 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 46. § (1) A fizető fél pénzforgalmi szolgáltatója visszatéríti a kedvezményezett által vagy rajta keresztül kezdeményezett, és a fizető fél által jóváhagyott fizetési művelet összegét, ha:
 
-- a) a jóváhagyás időpontjában a fizető fél a fizetési művelet összegét nem ismerte, és
+- a) a jóváhagyás a megadásának időpontjában nem tartalmazta a fizetési művelet pontos összegét, és
 - b) a fizetési művelet összege meghaladta azt az összeget, amely a fizető fél részéről az adott helyzetben észszerűen elvárható volt.
 
 (2) A fizető fél részéről a fizetési művelet adott helyzetben észszerűen elvárható összegének megítélése során a pénzforgalmi szolgáltatónak a fizető fél korábbi fizetési műveleteit, a keretszerződésben foglaltakat és a fizetési művelet körülményeit kell figyelembe vennie.
 
-(3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a bizonyítás a fizető felet terheli.
+(3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a pénzforgalmi szolgáltató kérésére a bizonyítás a fizető felet terheli.
 
 (3a) A visszatérítendő összeg megegyezik a teljesített fizetési művelet teljes összegével. A fizető fél fizetési számláján a jóváírás értéknapja nem lehet későbbi, mint az összeggel való megterhelés napja.
 

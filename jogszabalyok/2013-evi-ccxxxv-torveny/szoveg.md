@@ -362,13 +362,13 @@ az egyes fizetési szolgáltatókról
 - a) annak az EGT-államnak a megnevezését, amelyben a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a fióktelepet létesíteni szándékozik,
 - b) a végezni kívánt szolgáltatás megnevezését,
 - c) a fióktelep szervezeti felépítésére, vállalatirányítási és belső ellenőrzési rendjére vonatkozó dokumentumokat, ideértve az adminisztratív, kockázatkezelési és számviteli eljárásokat is, a fióktelep címét, az első három évre vonatkozó üzleti tervét (amelyek bemutatják, hogy a vállalatirányítási, ellenőrzési rend arányos, helyénvaló, megbízható és megfelelő), és a fióktelep vezetéséért felelős személy nevét, valamint
-- d) közvetítő igénybevétele esetén az 55. § (3) bekezdése szerinti információkat.
+- d) pénzforgalmi közvetítő igénybevétele esetén az 55. § (3) bekezdése szerinti információkat.
 
-(3) A Felügyelet a (2) bekezdésben meghatározott információk hiánytalan kézhezvételétől számított egy hónapon belül továbbítja azokat a másik EGT-állam illetékes felügyeleti hatósága felé. A fióktelep legkorábban a Felügyelet által történő nyilvántartásba vételét követően kezdheti meg a tevékenységét.
+(3) A Felügyelet a (2) bekezdésben meghatározott információk hiánytalan kézhezvételétől számított egy hónapon belül továbbítja azokat a másik EGT-állam illetékes felügyeleti hatósága felé. A fióktelep, illetve pénzforgalmi közvetítő legkorábban a Felügyelet által történő nyilvántartásba vételét követően kezdheti meg a tevékenységét.
 
 (4) Ha a Felügyelet nem ért egyet a másik EGT-állam illetékes hatósága által elvégzett vizsgálat eredményével, akkor a Felügyelet tájékoztatja az említett hatóságot ennek okairól.
 
-(5) Ha a Felügyelet a vizsgálat során – így különösen a másik EGT-állam illetékes hatóságától kapott információk alapján – kedvezőtlen eredményre jut, akkor megtagadja a fióktelep nyilvántartásba vételét, illetve ha a nyilvántartásba vétel már megtörtént, akkor törli a fióktelepet a nyilvántartásból.
+(5) Ha a Felügyelet a vizsgálat során – így különösen a másik EGT-állam illetékes hatóságától kapott információk alapján – kedvezőtlen eredményre jut, akkor megtagadja a fióktelep, illetve a pénzforgalmi közvetítő nyilvántartásba vételét, illetve ha a nyilvántartásba vétel már megtörtént, akkor törli a fióktelepet, illetve a pénzforgalmi közvetítőt a nyilvántartásból.
 
 (6) A Felügyelet a (2) bekezdésben meghatározott információk kézhezvételét követő három hónapon belül tájékoztatja döntéséről a másik EGT-állam illetékes felügyeleti hatóságát és a bejelentő pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt.
 

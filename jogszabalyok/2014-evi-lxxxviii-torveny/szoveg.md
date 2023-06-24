@@ -163,7 +163,7 @@ kapcsán megvalósuló büntetlen előélet;
 - 79. nagykockázat:
   - a) az 1. melléklet A) rész 4–7., valamint 11. és 12. pontjában meghatározott ágazatba besorolt kockázatok, amennyiben a biztosítási összeg meghaladja az 500 millió forintot;
   - b) az 1. melléklet A) rész 14. és 15. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő szakmája szerint ipari vagy kereskedelmi tevékenységet végez vagy szellemi szabadfoglalkozású és a kockázatok ehhez a tevékenységhez kapcsolódnak, valamint amennyiben a biztosítási összeg meghaladja az 200 millió forintot;
-  - c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép: ca) a 6,6 millió euró összegű mérlegfőösszeg, cb) a 13,6 millió euró összegű nettó árbevétel, cc) a pénzügyi év során az átlagos alkalmazotti létszáma eléri vagy meghaladja a 250 főt;
+  - c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép – konszolidálásba bevont szerződő esetén az összevont (konszolidált) éves beszámolóra vonatkozóan –: ca) a 6,6 millió euró összegű mérlegfőösszeg, cb) a 13,6 millió euró összegű nettó árbevétel, cc) a pénzügyi év során az átlagos alkalmazotti létszáma eléri vagy meghaladja a 250 főt;
 - 80. Nemzeti Iroda: a Gfbt.-ben meghatározott fogalom;
 - 81. passzív viszontbiztosítás: viszontbiztosítási szerződés alapján a biztosító egyes kockázatainak egy viszontbiztosítónak vagy biztosítónak történő átadása;
 - 82. pénzügyi szervezet: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdés a), c), f), h), valamint k)–m) pontjában meghatározott törvények hatálya alá tartozó szervezet;
@@ -4498,7 +4498,7 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 (3) Biztosításközvetítői tevékenységet csak olyan természetes személy kezdhet, illetve végezhet – beleértve a biztosításközvetítői tevékenységet végző gazdálkodó szervezet, vagy e szervezettel megbízási jogviszonyban álló, biztosításközvetítői tevékenységet végző szervezet keretein belül végzett tevékenységet is –, aki
 
-- a) felsőfokú végzettséggel vagy biztosításközvetítő (függő és független) szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
+- a) felsőfokú végzettséggel vagy közgazdasági területen szerzett középfokú végzettséggel, illetve szakképzettséggel vagy felsőoktatásban szerezhető felsőfokú szakképzésen, illetve felsőoktatási szakképzésen szerzett gazdaságtudományi szakképesítéssel, illetve szakképzettséggel vagy biztosításközvetítő (függő és független) szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
 - b) a 376. §-ban meghatározott szakmai továbbképzési kötelezettségnek eleget tesz, és
 - c) a 69/A. § szerinti jó hírnévvel rendelkezik.
 

@@ -1941,7 +1941,7 @@ adatok megismerésére és kezelésére.
 
 számított 5 évig kezelheti.
 
-91/A. § (1) Az MNB piacfelügyeleti eljárásában az érdemi döntés meghozataláig terjedő időtartamra ideiglenes biztosítási intézkedésként elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység kifejtését készíti, illetve segíti elő, ha a piacfelügyeleti eljárásban vizsgált személy vagy szervezet ügyfelei (ezen alcím alkalmazásában a továbbiakban: befektetők) érdekeit a közzétett adat veszélyezteti.
+91/A. § (1) Az MNB piacfelügyeleti eljárásában az érdemi döntés meghozataláig terjedő időtartamra ideiglenes biztosítási intézkedésként elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele e törvény 90. § (1) bekezdés a) pontja szerinti, engedély nélküli vagy bejelentés hiányában végzett tevékenység kifejtését készíti, illetve segíti elő, ha a piacfelügyeleti eljárásban vizsgált személy vagy szervezet ügyfelei (ezen alcím alkalmazásában a továbbiakban: befektetők) érdekeit a közzétett adat veszélyezteti.
 
 (2) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adat feletti rendelkezési jog ideiglenes korlátozása és az adathoz való hozzáférés ideiglenes megakadályozása.
 
@@ -2010,7 +2010,7 @@ terjedhet.
 
 (11) A piacfelügyeleti eljárás során az e törvény szerinti ellenőrzési eljárás szabályait – a 64. § (1)–(6) bekezdésében, a 65. § (3)–(6) bekezdésében, a 67. § (10) bekezdésében, a 67/A. §-ban, a 67/B. § (2) bekezdésében, a 69–71. §-ban, a 73. §-ban, a 76. §-ban és a 78. §-ban meghatározott rendelkezések kivételével – alkalmazni kell.
 
-93/A. § (1) Ha a befektetők érdekeinek megóvása érdekében szükséges, az MNB biztosítási intézkedésként 365 napra elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység kifejtését készítette, illetve segítette elő, és az MNB jogsértést megállapító döntésében a 93. § (1) bekezdés a) pontja vagy (2) bekezdés a) pontja szerinti intézkedést alkalmazott.
+93/A. § (1) Ha a befektetők érdekeinek megóvása érdekében szükséges, az MNB biztosítási intézkedésként 365 napra elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek hozzáférhetővé tétele e törvény 90. § (1) bekezdés a) pontja szerinti, engedély nélküli vagy bejelentés hiányában végzett tevékenység kifejtését készítette, illetve segítette elő, és az MNB jogsértést megállapító döntésében a 93. § (1) bekezdés a) pontja vagy (2) bekezdés a) pontja szerinti intézkedést alkalmazott.
 
 (2) Az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés fenntartásának indokoltságát a véglegessé válásától számított 365 nap múlva felülvizsgálja és dönt annak megszüntetéséről vagy – ha a befektetők érdekeinek megóvása szükségessé teszi – egy ízben annak további 365 napra történő hatályban tartásáról.
 
@@ -2623,7 +2623,7 @@ terjedhet.
   - 5.1. az egy vagy több rendszerkockázati tőkepufferráta meghatározása vagy módosítása esetén a 35/A. § (2) bekezdésben meghatározott információkról,
   - 5.2. a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,
   - 5.3. a 35. § (2) bekezdésében meghatározott információkról,
-  - 5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
+  - 5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik, továbbá teljeskörű indokolást készít arra vonatkozóan, hogy miért élt vagy nem élt a Hpt. 89. § (11) bekezdés a), b) vagy c) pontja szerinti lehetőséggel,
   - 5.5. a 35. § (1) bekezdésében és a Hpt. 89. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
   - 5.6. a Szantv. 113. § (2) bekezdésében foglaltakról;
 - 6. az EKB-t
@@ -2684,6 +2684,8 @@ azzal, hogy az elutasítás tényéről és indokáról a Felügyelet részletes
 (4) A kollégium ülésein az MNB elnöke által kijelölt személy látja el az elnöki feladatokat. Az MNB dönt arról, hogy a felügyeleti kollégium adott ülésén vagy adott tevékenységében a többi érintett tagállam hatáskörrel rendelkező pénzügyi felügyeleti hatóságai közül melyek vegyenek részt, tekintettel a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának adott tevékenységben betöltött szerepére. Az MNB tájékoztatja a felügyeleti kollégium tagjait az ülés várható témáiról és az azon hozott döntésekről.
 
 (5) Az MNB akkor is köteles felügyeleti kollégiumot létrehozni, ha magyarországi székhelyű, összevont alapú felügyelet alá nem tartozó hitelintézet, biztosító, viszontbiztosító vagy befektetési vállalkozás az Európai Unió másik tagállamában rendszerszinten jelentős fióktelepet létesített, azzal, hogy ezen felügyeleti kollégium működésére a (3) és (4) bekezdésben foglaltak megfelelően alkalmazandóak.
+
+(5a) A felügyeleti kollégiumot akkor is létre kell hozni, ha az EU-szintű hitelintézeti anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat valamennyi határon túli leányvállalata harmadik országban rendelkezik székhellyel, feltéve, hogy az adott harmadik ország hatáskörrel rendelkező pénzügyi felügyeleti hatóságára a magyar szabályozással legalább egyenértékű titoktartási védelem vonatkozik.
 
 (6) Az MNB tájékoztatja az Európai Bankhatóságot és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot a felügyeleti kollégium őket érintő tevékenységéről és közli velük a felügyeleti konvergencia szempontjából lényeges információkat.
 
@@ -3130,10 +3132,11 @@ fordítható.
 
 irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.
 
-- b) a forgalomban lévő törvényes fizetőeszközről, továbbá az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének vagy készíttetésének engedélyezésére irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj megfizetésére,
+- b) a forgalomban lévő törvényes fizetőeszközről, továbbá az MNB által forgalomból bevont bankjegyről és érméről utánzat készítésének vagy készíttetésének engedélyezésére irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj megfizetésére,
 - c) az MNB által elfogadott, illetve a nemzetközi pénzügyi piacokon általában használt nyelvekre,
 - d) a 59. § (4) bekezdésében meghatározottak alapján alkalmazandó formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására,
 - e) az 1. mellékletben meghatározott elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára
+- f) a 174/A. §-ban meghatározott informatikai rendszer működtetésének minimum követelményeire, auditálásának módjára, valamint az e rendszer útján végzett adat továbbításra
 
 vonatkozó részletes szabályokat.
 
@@ -3144,6 +3147,14 @@ vonatkozó részletes szabályokat.
 (2) A 171. § (1) bekezdés c) pontja alapján kiadott rendeletet annak hatálybalépése előtt 15 nappal kell kihirdetni.
 
 (3) Az MNB a 171. § (1) bekezdés k) pontjában meghatározott rendelet kibocsátását megelőzően tájékoztatja az Európai Rendszerkockázati Testületet.
+
+#### 52/A. Vegyes rendelkezések
+
+174/A. § (1) A 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó szervezet az ügyfele kifejezett kérésére jogosult arra, hogy az ügyfele által írásban tett jognyilatkozatot az MNB elnökének rendeletében meghatározott követelményeknek megfelelő informatikai rendszerben rögzítse és a jognyilatkozatot e rendszer útján a címzettnek továbbítsa.
+
+(2) Az (1) bekezdés szerint továbbított jognyilatkozat a címzettel szemben a továbbítással válik hatályossá.
+
+(3) A jognyilatkozatot rögzítő szervezet felelős a valótlan vagy hiányos tartalmú adat rögzítéséből eredő kárért.
 
 #### 53. Hatálybalépés
 

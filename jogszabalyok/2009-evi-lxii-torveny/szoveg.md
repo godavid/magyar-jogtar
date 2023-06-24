@@ -140,7 +140,7 @@ indokolás nélkül felmondhatja.
 
 (4) A szerződés érdekmúlással szűnik meg a tulajdonjog átszállása esetén, ha a szerződéskötésre kötelezett üzemben tartó személyében változás áll be.
 
-(5) Ha az üzemben tartó változása a jogi személy jogutódlással történő megszűnése miatt következik be, a szerződés érdekmúlással nem szűnik meg.
+(5) Ha az üzemben tartó változása a jogi személy jogutódlással történő megszűnése, vagy – az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény alapján – az egyéni vállalkozói tevékenység folytatására való jogosultság egyszemélyes korlátolt felelősségű társaság alapítása miatti megszűnése okán következik be, a szerződés érdekmúlással nem szűnik meg.
 
 8. § (1) A járműnyilvántartásban szereplő gépjárművek vonatkozásában a fennálló biztosítás által érintett biztosítót az e törvényben előírt feladatainak ellátása céljából, a gépjármű forgalomból történő kivonásának, a gépjármű első és ismételt forgalomba helyezésének, valamint a gépjármű tulajdonjogát érintő változásnak – ideértve a régi tulajdonos (átruházó) külön jogszabályban meghatározott, tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettsége teljesítésének időpontját is – járműnyilvántartásba történő bejegyzéséről, továbbá az üzemben tartó és a járműnyilvántartásba bejegyzett üzemben tartó személyét érintő változás járműnyilvántartásba történő bejegyzéséről – e tény járműnyilvántartásba történő bejegyzésével egyidejűleg – a kötvénynyilvántartó szerv elektronikus úton értesíti, amely értesítést a biztosító a feladatai ellátása során figyelembe veszi.
 
@@ -979,7 +979,7 @@ vizsgálatára terjed ki.
 - a) amelyben a MABISZ legfőbb szerve vagy ellenőrző szerve tagjának vagy e személy közeli hozzátartozójának tulajdonosi részesedése van, vagy
 - b) amelynek a MABISZ legfőbb szervének, ellenőrző szervének tagja vagy e személy közeli hozzátartozója vezető tisztségviselője.
 
-(9) A kiszervezésre vonatkozó szerződésnek – az elkülönített szervezeti egység tevékenységének jellege figyelembe vételével – megfelelően tartalmaznia kell a Bit. 212. §-ában meghatározott elemeket.
+(9) A kiszervezésre vonatkozó szerződésnek – az elkülönített szervezeti egység tevékenységének jellege figyelembe vételével – megfelelően tartalmaznia kell a Bit. 214. §-ában meghatározott elemeket.
 
 56/J. § (1) A biztonságos üzletmenet érdekében a MABISZ elkülönített szervezeti egységének a mérlegfordulónapján fennálló, várható kötelezettségei teljesítésére, a károk ingadozására biztosítástechnikai tartalékokat kell képeznie.
 
@@ -1163,6 +1163,10 @@ vizsgálatára terjed ki.
 
 62/D. § E törvénynek a kötelező gépjármű-felelősségbiztosítással összefüggésben egyes biztosítási tárgyú törvények módosításáról szóló 2015. évi CXLVII. törvénnyel megállapított rendelkezéseit a hatálybalépéskor már folyamatban lévő ügyekre is alkalmazni kell, azzal, hogy folyamatban lévő ügy esetében a 36. § (6c) bekezdésében meghatározott átadási kötelezettséget a 36. § (6a) bekezdés a) pontjában meghatározott biztosító legkésőbb e törvény hatálybalépését követő három munkanapon belül köteles teljesíteni.
 
+62/E. § (1) A Kártalanítási Alap kezelője 2023. december 23-ig jogosult és törekszik megállapodást kötni – az e törvény 2023. december 23-án hatályba lépő, A Kártalanítási Alap helytállási kötelezettsége alcímében foglaltak végrehajtása érdekében – másik tagállamok kártérítési szervezeteivel feladatköreik, kötelezettségeik és a megtérítési eljárások meghatározása céljából.
+
+(2) Az (1) bekezdés szerinti megállapodás megkötéséről a Kártalanítási Alap kezelője haladéktalanul tájékoztatja az Európai Bizottságot és a biztosítási piac szabályozásáért felelős minisztert.
+
 ### Módosuló és hatályukat vesztő rendelkezések
 
 #### 63. §
@@ -1210,3 +1214,4 @@ rendeletben állapítsa meg.
 - f) az Európai Parlament és a Tanács 2000. május 16-i 2000/26/EK irányelve a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a 73/239/EGK és a 88/357/EGK tanácsi irányelv módosításáról (negyedik gépjármű-biztosítási irányelv),
 - g) az Európai Parlament és a Tanács 2005. május 11-i 2005/14/EK irányelve a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról,
 - h) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/103/EK irányelve a a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről.
+- i) az Európai Parlament és Tanács 2021. november 24-i 2021/2118 (EU) irányelve a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről szóló 2009/103/EK irányelv módosításáról.

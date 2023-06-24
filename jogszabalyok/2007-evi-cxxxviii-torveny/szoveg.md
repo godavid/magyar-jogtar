@@ -279,9 +279,9 @@ használnak,
   - a) ha a külföldi befektetési vállalkozás természetes személy, az az EGT-állam, amelyben a központi irodája található;
   - b) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
   - c) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás jogi személy és a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
-  - d) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM természetes személy, az az EGT-állam, amelyben a központi irodája található;
-  - e) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
-  - f) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy és nemzeti joga szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
+  - d)
+  - e)
+  - f)
 - 63. szoros kapcsolat: olyan helyzet, amelyben két vagy több természetes vagy jogi személy a következő tényezők valamelyike révén kapcsolatban áll egymással:
   - a) részesedés, amely valamely vállalkozás szavazati jogai vagy tőkéje 20%-ának vagy annál nagyobb részének közvetlen vagy ellenőrző befolyás útján történő birtoklása,
   - b) ellenőrző befolyás, amely az anyavállalat és a leányvállalat közötti kapcsolat, a leányvállalat leányvállalatát is azon anyavállalat leányvállalatának tekintve, amely e vállalkozások élén áll, vagy más hasonló kapcsolat bármely természetes vagy jogi személy és jogi személy között,
@@ -881,7 +881,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 (3) A befektetési vállalkozás a jogsértés befektetési vállalkozáson belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.
 
-(4) A jogsértések jelentésére vonatkozó rendelkezéseket az adatszolgáltatókra is alkalmazni kell.
+(4) A jogsértések jelentésére vonatkozó rendelkezéseket az adatszolgáltatókra és a piacműködtetőkre is alkalmazni kell.
 
 ### Személyi összeférhetetlenség
 
@@ -2811,7 +2811,7 @@ részére,
 - m) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek,
 - n) a vele szoros kapcsolatban álló személyek körét.
 
-(1a) Az adatszolgáltatási tevékenységet végző APA, ARM és CTP, a 154/I. §-ban meghatározott vezető testületének tagjaiban bekövetkezett változást a (4) bekezdés d) pontjában meghatározottaknak megfelelően bejelenti a Felügyeletnek, és ezzel egyidejűleg közzéteszi azt.
+(1a)
 
 (2) A fióktelep az (1) bekezdésben foglaltakon kívül köteles a Felügyeletnek bejelenteni és ezzel egyidejűleg nyilvánosságra hozni
 
