@@ -41,7 +41,7 @@ valamint a céginformációs szolgálat feladatai
 - a) az egyszerűsített cégeljárás, az egyéni cég, a közkereseti társaság, a betéti társaság, valamint a 45. § (2) bekezdésében szabályozott visszautasító végzés kivételével a bejegyzési eljárásban hozott határozatok;
 - b) az egyéni cég, a közkereseti társaság, a betéti társaság, – e törvényben meghatározott esetekben – a korlátolt felelősségű társaság, valamint a 45. § (2) bekezdésében szabályozott visszautasító végzés kivételével a változásbejegyzési eljárásban hozott határozatok;
 - c)
-- d) a cég átalakulásának, egyesülésének, szétválásának (a továbbiakban együtt: átalakulás) a bejegyzésére irányuló eljárásban hozott határozatok;
+- d) a cég átalakulásának, egyesülésének, szétválásának a bejegyzésére irányuló eljárásban hozott határozatok;
 - e)
 - f) törvényességi felügyeleti eljárásban hozott intézkedés, ha a kérelmező a cég cégjegyzékébe bejegyzett személy vagy szervezet;
 - g) különleges törvényességi felügyeleti eljárásban hozott érdemi határozat, továbbá más hatóság eljárásának a kezdeményezése;
@@ -1112,7 +1112,7 @@ irányuló eljárás
 
 (5) Az (1)–(4) bekezdésben foglaltak – az adóhatóság elektronikus értesítésére vonatkozó rendelkezés kivételével – megfelelően irányadók a külföldiek magyarországi kereskedelmi képviseletének törlésére is.
 
-### 16. CÍM — A cég átalakulásának bejegyzése iránti eljárás
+### 16. CÍM — A cég átalakulásának, egyesülésének, szétválásának bejegyzése iránti eljárás
 
 57. § (1) Átalakulás esetén a kérelem elbírálására nyitva álló határidő harminc munkanap, amely akkor kezdődik, amikor az átalakulásban részt vevő valamennyi cég cégirata az eljárásra illetékes cégbíróság rendelkezésére áll.
 

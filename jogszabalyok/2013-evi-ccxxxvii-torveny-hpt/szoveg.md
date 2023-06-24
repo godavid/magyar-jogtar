@@ -1147,7 +1147,7 @@ induló tőkével alapítható.
 
 (2) Azon engedményezett követelések esetében, amelyek beszámítását a hitelintézet végelszámolási vagy felszámolási eljárásában e törvény vagy más törvény lehetővé teszi, a jogosult a beszámítási jogát csak akkor gyakorolhatja, ha azt legkésőbb a hitelintézet tevékenységi engedélyének visszavonását követő nyolc munkanapon belül a hitelintézetnél bejelentette.
 
-50. § (1) A cégbíróság a végelszámolást elrendelő határozat kézhezvételét követően soron kívül jár el, és rendeli el annak Cégközlönyben való közzétételét.
+50. § (1) A Felügyelet a pénzügyi intézményre vonatkozó végelszámolást elrendelő határozatát haladéktalanul megküldi a cégbíróságnak. A cégbíróság a végelszámolást elrendelő határozat kézhezvételét követően soron kívül jár el, és rendeli el annak Cégközlönyben való közzétételét.
 
 (2) A végelszámoló díjának összege nem haladhatja meg a pénzügyi intézménynek a Ctv. 98. § (3) bekezdés a) pontja szerinti éves beszámolója szerinti eszközök könyv szerinti értékének fél százalékát.
 
@@ -1163,7 +1163,7 @@ induló tőkével alapítható.
 
 (2) Pénzügyi intézmény esetén a felszámolási eljárásban az eljárás felfüggesztésének nincs helye.
 
-(3) A pénzügyi intézménnyel szemben fennálló követelések esetében a Cstv. 46. § (7) bekezdése nem alkalmazható.
+(3) A pénzügyi intézménnyel szemben fennálló követelések esetében a Cstv. 46. § (7) és (7a) bekezdése nem alkalmazható.
 
 (4) A Cstv. 40. § (1) bekezdés c) pontja és (2) bekezdése nem alkalmazható a Szantv.-ben meghatározott szanálás alatt álló pénzügyi intézmény eszközeinek, forrásainak, jogainak és kötelezettségeinek a szanálási feladatkörében eljáró MNB szanálási eszköz alkalmazásáról szóló határozata – az annak megfelelően kötött ügyletek – alapján egy másik jogalanyhoz történő átruházása tekintetében.
 
@@ -1702,7 +1702,7 @@ mértékű anticiklikus tőkepufferáta alkalmazására az adott EGT-államban v
 
 (8) A hitelintézet a (7) bekezdésben meghatározott tőkepuffert elsődleges alapvető tőkéből képzi, amelynek összege a globálisan rendszerszinten jelentős hitelintézet (9) bekezdésben meghatározott alkategórába való besorolásától függően kerül meghatározásra.
 
-(9) A globálisan rendszerszinten jelentős hitelintézeteket a makroprudenciális feladatkörében eljáró MNB a (2) bekezdés alkalmazásával legalább öt alkategóriába sorolja. Az alkategóriák közötti határértékek egyértelműen meghatározottak. A legalacsonyabb alkategóriába a rendszerszinten legkevésbé jelentős hitelintézetet kell sorolni azzal, hogy alkategóriánként azonos mértékben növekedik a rendszerszintű jelentőség mértéke. A makroprudenciális feladatkörében eljáró MNB évente felülvizsgálja a hitelintézetek alkategóriákba való besorolását.
+(9) A globálisan rendszerszinten jelentős hitelintézeteket a makroprudenciális feladatkörében eljáró MNB a (2) bekezdés alkalmazásával legalább öt alkategóriába sorolja. Az alkategóriák közötti határértékek egyértelműen meghatározottak. A legalacsonyabb alkategóriába a rendszerszinten legkevésbé jelentős hitelintézetet kell sorolni azzal, hogy alkategóriánként azonos mértékben növekedik a rendszerszintű jelentőség mértéke. A makroprudenciális feladatkörében eljáró MNB évente felülvizsgálja a hitelintézetek alkategóriákba való besorolását. E bekezdés alkalmazásában a rendszerszinten jelentőség alatt a globálisan rendszerszinten jelentős hitelintézet működési zavarai által a globális pénzpiacra kifejtett várható hatás értendő.
 
 (10) A legalacsonyabb alkategóriába tartozó hitelintézet az 575/2013/EU rendelet 92. cikke szerinti teljes kockázati kitettségérték 1 százalékának megfelelő, globálisan rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffert képez. Az egyes alkategóriákba sorolt hitelintézetekre vonatkozó tőkepufferráta – az ötödik, valamint minden további, annál magasabb alkategória kivételével – 0,5 százalékponttal növekszik.
 
@@ -3216,7 +3216,7 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 169. § (1) A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan rendkívüli adatszolgáltatási kötelezettséget írhat elő, amelyet
 
 - a) a likviditás,
-- b) a szolvencia,
+- b) a szolvencia (ideértve a tőkeáttételt is),
 - c) a kockázatvállalás,
 - d) a pénzügyi és a kiegészítő pénzügyi szolgáltatási tevékenység szabályainak betartása,
 - e) a szervezet működésének, valamint
@@ -3280,6 +3280,8 @@ tekintetében a Felügyelet és az EU-szintű hitelintézeti anyavállalat vagy 
 - a) az (1) bekezdés a) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által elkészített összevont alapú kockázatértékelési jelentésnek (amely kiterjed arra is, hogy a csoport szavatoló tőkéje összevont alapon megfelel-e a csoport pénzügyi helyzetének és kockázati jellemzőinek) az eljárásban résztvevő illetékes felügyeleti hatóságok részére történő továbbításától számított négy hónap,
 - b) az (1) bekezdés b) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által elkészített összevont alapú likviditási kockázat-elemzési jelentésnek (amely kiterjed a likviditási felügyelethez kapcsolódó jelentős problémák kezelésére szolgáló intézkedésekre, ideértve a kockázatkezeléssel vagy a hitelintézet-specifikus likviditási követelmények szükségességével kapcsolatos intézkedéseket is) az eljárásban résztvevő felügyeleti hatóságok részére történő továbbításától számított négy hónap, illetve
 - c) az (1) bekezdés c) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által a tőke ajánlásban megállapítottaknak megfelelően a csoport kockázatértékeléséről elkészített jelentésnek az eljárásban résztvevő felügyeleti hatóságok részére történő továbbításától számított négy hónap.
+
+(3a) A Felügyelet többoldalú eljárás keretében hozott határozata figyelembe veszi az eljárásban részt vevő EGT-állam illetékes felügyeleti hatóságának a tőkemegfelelés belső értékelési eljárása és a felügyeleti felülvizsgálata és értékelése, valamint a tőke ajánlás alapján elvégzett, a leányvállalatokra vonatkozó kockázatértékeléseket.
 
 (4) Ha az eljárásban résztvevő EGT-állam illetékes felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (3) bekezdésben rögzített határidőn belül az eljárásban résztvevő bármelyik EGT-állam illetékes felügyeleti hatósága kérésére a Felügyelet az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyeztetést folytathat.
 
@@ -3631,7 +3633,9 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 
 (2) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény prudens működését jelentősen vagy súlyosan veszélyezteti – a Felügyelet a következő intézkedéseket alkalmazhatja:
 
-- a)
+- a) előírhatja
+  - aa) a szavatoló tőke követelmények tekintetében egyedi értékvesztés képzési vagy céltartalék képzési eljárások alkalmazását, vagy egyes eszközök kezelésének módját,
+  - ab) a pénzügyi intézmény szolgáltatásaiban és rendszereiben rejlő kockázat csökkentését, ideértve a kiszervezett tevékenységhez kapcsolódó kockázatokat is;
 - b) kötelezheti a pénzügyi intézményt
   - ba) belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására vagy alkalmazására,
   - bb) az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére,
@@ -3641,7 +3645,7 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
   - bf) az igazgatóság vagy a felügyelő bizottság összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel e testületek figyelmét,
   - bg) más könyvvizsgáló választására;
 - c) megtilthatja, korlátozhatja vagy feltételhez kötheti
-  - ca) az osztalék kifizetését,
+  - ca) a részvényeseknek, a tagoknak vagy az egyéb alapvető tőkeinstrumentumok tulajdonosainak járó osztalék-, nyereség- vagy kamatfizetést, amennyiben ez nem minősül a pénzügyi intézmény általi nemteljesítésnek,
   - cb) a vezető tisztségviselők díjainak kifizetését,
   - cc) a pénzügyi intézmény tulajdonosainak kölcsönfelvételét vagy, hogy a hitelintézet részükre kockázatvállalással járó szolgáltatást nyújtson,
   - cd) a tagok és a vezető tisztségviselők érdekeltségi körébe tartozó vállalkozások részére a pénzügyi intézmény által történő kölcsön nyújtását,
@@ -3650,6 +3654,7 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
   - cg) fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését;
 - d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelmények teljesítésével;
 - e) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
+- f) egyedi likviditási követelményt írhat elő, ideértve a források és az eszközök lejárati eltérésének korlátozását is.
 
 (3)
 
@@ -4955,7 +4960,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (4) A hitelintézet az (1) bekezdésben meghatározott kivonatot, valamint a (3) bekezdésben meghatározott kimutatást – a felek eltérő megállapodásának hiányában – magyar nyelven köteles kiállítani és megküldeni.
 
-(5) A hitelintézet évente az OBA által meghatározott formában kimutatást készít a betétesnek a hitelintézetnél elhelyezett biztosított betétei összevont egyenlegéről és az annak alapján a betétes javára fennálló betétbiztosítási összegről.
+(5)
 
 (6) Az OBA tagintézet által a betétes részére küldött kivonaton fel kell tüntetni, hogy vonatkozik-e rá a betétbiztosítás és utalni kell a 6. melléklet szerinti tájékoztatóra. A 6. melléklet szerinti tájékoztatót az OBA tagintézete legalább évente egyszer megküldi a betétes részére.
 
@@ -5397,7 +5402,7 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 E törvény alkalmazásában a közvetett tulajdon számításának szabályai:
 
-- 1. A közvetett tulajdon arányának megállapításához a közvetett tulajdonnal rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni.
+- 1. A közvetett tulajdon arányának megállapításához a közvetett tulajdonnal rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb (multiplikációs kritérium szerinti számítási mód). Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni (többségi tulajdon szerinti számítási mód).
 - 2. Természetes személy esetében a természetes személynek a közeli hozzátartozóival együtt birtokolt, illetve gyakorolt tulajdoni vagy szavazati hányadokat egybe kell számítani.
 - 3. A szavazati jogot a tulajdoni hányaddal azonos módon kell számításba venni.
 

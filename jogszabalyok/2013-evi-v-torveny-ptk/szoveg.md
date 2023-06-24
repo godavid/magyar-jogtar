@@ -6793,7 +6793,7 @@ Zálogjog megalapításához zálogszerződés és erre tekintettel
 
 (4) A zálogtárgy fajta és mennyiség szerint vagy más, a zálogtárgy azonosítására alkalmas körülírással is meghatározható. A meghatározás magában foglalhat olyan vagyontárgyat is, amely még nem létezik, vagy amely felett a zálogkötelezettet nem illeti meg a rendelkezési jog.
 
-(5) A zálogjoggal biztosított követelést annak azonosítására alkalmas módon - az alapul fekvő egy vagy több jogviszonyra utalással és az összeg meghatározásával vagy a biztosított követelés azonosítására alkalmas más hasonló módon - kell meghatározni. A meghatározás magában foglalhat olyan követelést is, amely még nem jött létre.
+(5) A zálogjoggal biztosított követelést – ideértve az olyan követelést is, amely még nem jött létre – annak azonosítására alkalmas módon, az alapjául szolgáló egy vagy több jogviszonyra és a követelés összegére utalással vagy az alapul szolgáló egy vagy több jogviszonyra utalással és annak az összegnek a megjelölésével kell meghatározni, amelynek erejéig a zálogjogosult a zálogtárgyból kielégítést kereshet.
 
 (6) A zálogszerződést írásba kell foglalni. Kézizálogjog esetén a zálogszerződést pótolhatja a zálogjogosult által kiállított értékpapír, amely a zálogjogosulttal szemben feljogosítja az okirat birtokosát arra, hogy az értékpapírban meghatározott összeg ellenében, az értékpapírban meghatározott időtartamon belül megkapja a zálogtárgyat.
 
@@ -6802,7 +6802,7 @@ Zálogjog megalapításához zálogszerződés és erre tekintettel
 Ha a zálogkötelezett természetes személy, és a zálogtárgy elsősorban a zálogkötelezett szakmája, önálló foglalkozása vagy üzleti tevékenysége körébe nem tartozó célra használatos, továbbá a zálogjoggal biztosított követelés nem a kötelezett szakmája, önálló foglalkozása vagy üzleti tevékenysége körébe tartozó jogviszonyból fakad, a zálogszerződésre vonatkozó rendelkezéseket az alábbi eltérésekkel kell alkalmazni:
 
 - a) zálogtárgy a zálogkötelezett tulajdonában álló, egyedileg meghatározott vagyontárgy vagy olyan vagyontárgy lehet, amelynek tulajdonjogát a zálogkötelezett a zálogjogosult által nyújtott kölcsön, illetve fizetési haladék segítségével szerzi meg;
-- b) a biztosított követelés meghatározásának tartalmaznia kell a követelés – járulékok nélküli – összegének megjelölését, vagy azt az összeget, amelynek erejéig a zálogjogosult a zálogtárgyból kielégítést kereshet.
+- b)
 
 #### 5:91. § [A zálogszerződés felek közötti hatálya]
 
@@ -6896,13 +6896,13 @@ is alapítható.
 
 (2) A zálogtárggyal való helytállás kiterjed a zálogjoggal biztosított követelés kamataira, a követelés és a zálogjog érvényesítésének szükséges költségeire és a zálogtárgyra fordított szükséges költségekre.
 
-(3) Ha a felek meghatározták azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet a zálogtárgyból, a zálogjog a követelést és járulékait annyiban biztosítja, amennyiben azok a keretösszeget nem haladják meg.
+(3) Ha a felek a zálogszerződésben a követelést nem a követelés összegére utalással, hanem annak az összegnek a megjelölésével határozták meg, amelynek erejéig a zálogjogosult a zálogtárgyból kielégítést kereshet, a zálogjog a követelést és járulékait annyiban biztosítja, amennyiben azok a keretösszeget nem haladják meg.
 
 #### 5:99. § [A biztosított követelés átruházása és megterhelése]
 
-(1) A biztosított követelés átruházásával vagy egyéb módon való átszállásával a zálogjog is átszáll a követelés új jogosultjára. A követelés átruházója köteles a zálogtárgyat vagy a jelzálogjog átszállásának a bejegyzéséhez szükséges engedélyt az új zálogjogosult részére kiadni.
+(1) A biztosított követelés átruházásával vagy egyéb módon való átszállásával a zálogjog is átszáll a követelés új jogosultjára, aki a korábbi zálogjogosult helyébe lép. A követelés átruházója köteles a zálogtárgyat vagy a jelzálogjog átszállásának a bejegyzéséhez szükséges jognyilatkozatokat az új zálogjogosult részére kiadni.
 
-(2) A biztosított követelés egy részének átruházása esetén a régi és az új zálogjogosultat azonos ranghelyen, a követeléseik arányában illeti meg a zálogjog.
+(2) A biztosított követelés egy részének átruházása vagy egyéb módon történő átszállása esetén – a felek vagy jogszabály eltérő rendelkezése hiányában – a régi és az új zálogjogosultat a zálogjog a követeléseik arányában akként illeti meg, hogy a régi zálogjogosult a rangsorban megelőzi az új zálogjogosultat. Ha a követelés átruházásával vagy átszállásával többen egyidejűleg szereznek zálogjogot, a zálogjog őket azonos ranghelyen illeti meg.
 
 (3) A zálogjogot – az önálló zálogjog kivételével – a zálogjoggal biztosított követeléssel együtt lehet átruházni vagy megterhelni.
 
@@ -6922,7 +6922,7 @@ is alapítható.
 
 (6) A zálogkötelezett az önálló zálogjog mindenkori jogosultjával szemben hivatkozhat azokra a kifogásokra is, amelyek a biztosítéki szerződésben meghatározott követelés kötelezettjét megilletik. A biztosítéki szerződés szerint kielégíthető követelés összegét a kielégítési jog gyakorlása során befolyt vételár csökkenti.
 
-(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést kielégítő kötelezettet, zálogkötelezettet vagy harmadik személyt a megtérítési követelése biztosítására – ha az nem pénzügyi intézmény – az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A megtérítési követelése biztosítékaként a követelést kielégítő pénzügyi intézményre az önálló zálogjog átszáll.
+(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést teljesítő kötelezettet, zálogkötelezettet vagy harmadik személyt – ha az nem pénzügyi intézmény – a teljesítése erejéig a megtérítési igénye kielégítéséül az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A biztosítéki szerződés szerint kielégíthető követelést teljesítő pénzügyi intézményre a teljesítése erejéig a megtérítési igénye kielégítéséül az önálló zálogjog átszáll.
 
 (8) Ha a biztosítéki szerződés nem jött létre, az önálló zálogjog létesítésének a biztosítéki szerződésben megjelölt célja véglegesen meghiúsult, vagy a biztosítéki szerződés, illetve a biztosítéki szerződés szerint a zálogtárgyból kielégíthető követelés – ideértve a megtérítési követelést is – megszűnt, továbbá, ha a biztosítéki szerződésbe foglalt más, az önálló zálogjog megszűnését eredményező ok vagy feltétel bekövetkezett, a zálogjogosult a zálogkötelezett írásbeli felszólítására köteles hozzájárulni ahhoz, hogy
 
@@ -7302,7 +7302,9 @@ Semmis az olyan megállapodás, amely szerint a zálogjogosult kielégítési jo
 
 #### 5:139. § [Az elzálogosított jog vagy követelés érvényesítése]
 
-Ha a jelzálogjog tárgya követelés, a zálogjogosult teljesítési utasítást adhat a követelés kötelezettje számára, és a követelés esedékessé válását követően az eredeti jogosult helyett a követelés kötelezettjével szemben érvényesítheti is a követelést. Ezt a szabályt megfelelően alkalmazni kell akkor is, ha a jelzálogjog tárgya jog.
+(1) Ha a jelzálogjog tárgya követelés, a zálogjogosult teljesítési utasítást adhat a követelés kötelezettje számára, és a követelés esedékessé válását követően az eredeti jogosult helyett a követelés kötelezettjével szemben érvényesítheti is a követelést. Ebben az esetben a zálogjogosult a követelés eredeti jogosultjával elszámolni köteles. Ezeket a szabályokat megfelelően alkalmazni kell akkor is, ha a jelzálogjog tárgya jog.
+
+(2) Ha az elzálogosított követelés kezességgel van biztosítva, a zálogjogosult a kezességből fakadó jogokat a követelés kezesével szemben a kezesség jogosultjára irányadó szabályok szerint – a vele való elszámolási kötelezettség mellett – gyakorolhatja.
 
 #### 5:140. § [Alzálogjog érvényesítése]
 
@@ -7329,7 +7331,7 @@ Az elzálogosított jog vagy követelés érvényesítésére és az aljelzálog
 - e) a zálogjoggal biztosított követelés elévül, ez azonban a követelést biztosító kézizálogból való kielégítést nem akadályozza;
 - f) a zálogjogosult a kielégítési jogát gyakorolva a zálogtárgyat értékesíti vagy a zálogtárgy tulajdonjogát megszerzi.
 
-(2) A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására akként, hogy a fennmaradó zálogjog a megtérítési követelés jogosultját illeti meg.
+(2) A zálogjoggal biztosított követelést kielégítő személyes kötelezettre, zálogkötelezettre vagy harmadik személyre – teljesítése erejéig a megtérítési igénye kielégítéséül átszálló követeléssel együtt – a zálogjog is átszáll.
 
 (3) A zálogjog fennmarad a zálogjoggal biztosított követelés biztosítékául, ha ugyanaz a személy lesz a zálogkötelezett és a zálogjogosult.
 
@@ -7476,6 +7478,72 @@ Ha a haszonélvezetnek olyan jog a tárgya, amelynél fogva valaminek a szolgál
 (1) A használat jogánál fogva a jogosult a dolgot a saját, valamint vele együtt élő családtagjai szükségleteit meg nem haladó mértékben használhatja és hasznait szedheti. Jogi személy a használat jogánál fogva a dolgot a létesítő okiratában meghatározott céljával és tevékenységével összhangban használhatja és szedheti annak hasznait. A használat jogának gyakorlása másnak nem engedhető át.
 
 (2) A használatra egyebekben a haszonélvezet szabályait kell alkalmazni.
+
+### XXXII/A. Fejezet — AZ ÉPÍTMÉNYI JOG
+
+#### 5:159/A. § [Az építményi jog fogalma]
+
+(1) Az építményi jogánál fogva a jogosult az ingatlanon vagy annak felszíne alatt épületet létesíthet, illetve hasznosíthat. Ennek során jogosult az épület építésére vagy építtetésére, és ennek érdekében az ingatlan igénybevételére, jogosult továbbá a felépült vagy az ingatlanon már fennálló épület birtoklására, használatára és hasznainak szedésére.
+
+(2) Az építményi jog kiterjed az annak alapján létesített vagy hasznosított épületre és annak alkotórészeire.
+
+(3) Az építményi jog átruházható és jogutódlás tárgya lehet. Az átruházással, illetve jogutódlással szerzett építményi jog jogosultja e jogát az építményi jog alapjául szolgáló szerződés szerint gyakorolhatja. Az építményi jog zálogjoggal az erre irányuló zálogszerződés alapján az ingatlan-nyilvántartásba történő bejegyzéssel terhelhető meg.
+
+(4) Az építményi jog több jogosultat egyidejűleg és együttesen is megillethet, jogaik gyakorlására és kötelezettségeik teljesítésére ilyen esetben a közös tulajdonra vonatkozó szabályok megfelelően irányadók.
+
+#### 5:159/B. § [Az építményi jog alapítása]
+
+(1) Az építményi jog határozott időre alapítható. A szerződést írásba kell foglalni.
+
+(2) Az építményi jog létrejöttéhez az erre irányuló szerződésen vagy más jogcímen kívül az építményi jognak a jogosult javára az ingatlan-nyilvántartásba történő bejegyzése szükséges. Építményi jogot az ingatlan tulajdonosa egyoldalú nyilatkozattal a saját javára is alapíthat.
+
+(3) Ingatlannak földhasználati joggal terhelt részén építményi jogot csak a földhasználati jog jogosultjának javára és a földhasználati jogának törlésével egyidejűleg lehet alapítani.
+
+(4) Az építményi jogot alapító szerződésben e jog gyakorlására vonatkozóan előírt további korlátozások harmadik személyekkel szemben annyiban hatályosak, amennyiben e korlátozások az ingatlan-nyilvántartási bejegyzésből, illetve az annak alapjául szolgáló okiratból megismerhetők.
+
+(5) Közös tulajdonban álló ingatlanon építményi jog csak úgy alapítható, ha ez valamennyi tulajdonostárs tulajdoni hányadát együttesen terheli.
+
+(6) Építményi jogot fogyasztó a tulajdonát képező ingatlanon nem alapíthat és ilyen jogot fogyasztó – az öröklés kivételével – nem szerezhet.
+
+#### 5:159/C. § [Az építményi jog megszűnése]
+
+(1) Az építményi jog megszűnik, ha a jogosult azt tizenöt éven át nem gyakorolja. Ennek az időnek a számítására az ingatlan elbirtoklására vonatkozó szabályok az irányadók.
+
+(2) Az épület megsemmisülése az építményi jogot nem érinti. Az építményi jog nem szűnik meg azzal, ha az építményi jogot az ingatlan tulajdonosa, vagy ha az ingatlan tulajdonjogát az építményi jog jogosultja szerzi meg.
+
+(3) Az építményi jog jogügylettel való megszüntetéséhez a jogosultnak e jogáról való írásbeli lemondó nyilatkozata és az építményi jognak az ingatlan-nyilvántartásból való törlése szükséges.
+
+(4) Ha az építményi jogot ötven évnél hosszabb időre alapították, az a megalapításától számított ötven év elteltével megszűnik.
+
+(5) A határozott idő vagy az ötven év eltelte előtt az építményi jogot a bíróság a tulajdonos keresete alapján megszüntetheti, ha az ingatlan tulajdonosa bizonyítja, hogy az építményi jog jogosultja az őt megillető jogok gyakorlására vonatkozó szabályokat súlyosan megsértette vagy az őt terhelő kötelezettségeket súlyosan megszegte.
+
+#### 5:159/D. § [Az építményi jog átruházása és megterhelése]
+
+(1) Az építményi jog fennállása alatt az e joggal terhelt ingatlan átruházása vagy megterhelése az építményi jogot nem érinti, ennek jogosultjával szemben csak azok a terhek hatályosak, amelyek az építményi jog bejegyzését a rangsorban megelőzték.
+
+(2) Az építményi jog átruházása vagy megterhelése az ingatlanra vonatkozó tulajdonjogot nem érinti. Az építményi jogból, illetve az ennek átruházásából vagy megterheléséből származó követelésekre a tulajdonjogból, illetve ennek átruházásából vagy megterheléséből eredő követelésekre irányadó szabályokat kell megfelelően alkalmazni.
+
+#### 5:159/E. § [Az építményi jog jogosultja és a tulajdonos közötti jogviszony]
+
+(1) Az építményi jog gyakorlására vonatkozóan a rendes gazdálkodás követelménye és az építésügyi szabályok keretei között az építményi jogot alapító szerződés további korlátozásokat és követelményeket is megállapíthat.
+
+(2) Az építményi jogot alapító szerződésben kiköthető, hogy az építményi jogot a jogosult csak az ingatlan tulajdonosának hozzájárulásával idegenítheti el vagy terhelheti meg.
+
+(3) Ha a felek másként nem állapodnak meg, az ingatlannal, illetve az azon létesített épülettel kapcsolatos terheket, ideértve az épülettel kapcsolatos kárveszélyt is, az építményi jog jogosultja viseli, és őt terhelik az ingatlan és az azon létesített vagy fennálló épület használatával és hasznosításával kapcsolatos kötelezettségek is.
+
+(4) Ha az építményi jog ellenértékeként a jogosult egyösszegű vagy időszakonként visszatérő szolgáltatás (építménybér) teljesítésére köteles, ennek mértékét és esedékességét az építményi jogot alapító szerződésben kell meghatározni. Az építménybérhez való jog – a még esedékessé nem vált szolgáltatás tekintetében is – az ingatlan mindenkori tulajdonosát illeti meg.
+
+(5) Az építményi jog megszűnésével az ingatlannal tartósan egyesített épület az ingatlan alkotórésze marad, kivéve, ha a felek az építményi jogot alapító szerződésben az épület és a föld elváló tulajdonára vonatkozó szabályok szerint abban állapodtak meg, hogy az épület önálló ingatlanként az építményi jog jogosultjának tulajdonába kerül.
+
+(6) Ha az építményi jog megszűnésével az épület az ingatlan alkotórésze marad, az ingatlan tulajdonosa az épület értékének megtérítésére – a felek eltérő megállapodása hiányában – nem köteles.
+
+(7) Az önálló ingatlannak nem minősülő olyan épület tekintetében, amely az ingatlanról eltávolítható, az építményi jog jogosultja e jogának megszűnésekor az elvitel jogával élhet.
+
+#### 5:159/F. § [Az építményi jog terheinek alakulása annak megszűnése esetén]
+
+(1) Ha az építményi jogot annak megszűnésekor jelzálogjog vagy más dologi jog terheli, e teher tekintetében az építményi jog helyébe az építményi jog jogosultját megillető más jog vagy megtérítési követelés lép.
+
+(2) Az építményi jog megszűnése esetén – ha az épület az ingatlan alkotórésze marad – az építményi jog jogosultja által bérbeadással vagy haszonbérbeadással hasznosított épület tekintetében a bérbe vagy haszonbérbe adott ingatlan elidegenítése esetére irányadó szabályokat kell megfelelően alkalmazni. Ha azonban az épület hasznosítására kötött szerződés határozott időtartama az építményi jog határozott vagy fennállásának ötvenéves időtartamát meghaladja, a tulajdonos hozzájárulása hiányában a szerződés fennmaradó idejére a határozatlan időtartamú jogviszonyra vonatkozó szabályok az irányadók.
 
 ### IX. CÍM — SZOLGALOM ÉS KÖZÉRDEKŰ HASZNÁLAT
 
@@ -7711,7 +7779,7 @@ Az anyagi jog szerinti jogosult vagy a bejegyzés törlése esetén jogosulttá 
 
 A kötelem megszűnik
 
-- a) a szolgáltatás teljesítésével;
+- a) a szolgáltatás teljesítésével, ha e törvény eltérően nem rendelkezik;
 - b) abban az esetben, ha ugyanaz a személy lesz a jogosult és a kötelezett, ha e törvény eltérően nem rendelkezik;
 - c) a kötelezett halálával vagy jogutód nélküli megszűnésével, ha kötelezettsége személyesen teljesíthető szolgáltatás nyújtására irányult;
 - d) a jogosult halálával vagy jogutód nélküli megszűnésével, ha a szolgáltatást - annak jellegénél fogva - kifejezetten részére kellett nyújtani;
@@ -8154,7 +8222,9 @@ A beszámítás szabályait megfelelően alkalmazni kell akkor is, ha a kötelez
 
 (2) Ha a kötelezett és a harmadik személy közötti jogviszonyból más nem következik, a harmadik személyt megtérítési igény illeti meg a kötelezettel szemben.
 
-(3) Ha a követelés teljesítésére tekintettel a harmadik személynek követelése keletkezik a kötelezettel szemben, a megszűnt követelés biztosítékai fennmaradnak, és e követelést biztosítják. Ezt a rendelkezést kell alkalmazni akkor is, ha a követelés kielégítésére zálogjog vagy biztosítékot nyújtó személy helytállása alapján kerül sor.
+(3) Ha a jogosultnak harmadik személy teljesít, ennek erejéig a megtérítési igénye kielégítéséül a követelés és annak biztosítékai a teljesítő harmadik személyre szállnak át. Ezt a rendelkezést kell alkalmazni akkor is, ha a követelés kielégítésére zálogjog vagy biztosítékot nyújtó személy helytállása alapján kerül sor.
+
+(4) A kötelezettnek a harmadik személy teljesítéséről való értesítése a harmadik személyre átszálló követelés elévülését megszakítja.
 
 ## MÁSODIK RÉSZ — A SZERZŐDÉS ÁLTALÁNOS SZABÁLYAI
 
@@ -9250,7 +9320,9 @@ Kötbér után kamat kikötése semmis. Az esedékessé vált kötbér után a k
 
 (2) A követelés átruházással való megszerzéséhez az átruházásra irányuló szerződés vagy más jogcím és a követelés engedményezése szükséges. Az engedményezés az engedményező és az engedményes szerződése, amellyel az engedményes az engedményező helyébe lép.
 
-(3) Az engedményezéssel az engedményesre szállnak át a követelést biztosító zálogjogból és kezességből eredő jogok, valamint a kamatkövetelés is.
+(3) Az engedményezéssel az engedményesre szállnak át a követelés teljesítését elősegítő és annak érvényesítéséhez kapcsolódó jogok, a követelés biztosítékai, valamint a kamatkövetelés is. Az engedményes követelheti a zálogtárgy birtokának átruházását, illetve a rá átszálló jelzálogjognak a javára való bejegyzéséhez szükséges jognyilatkozatok kiadását.
+
+(4) Ha az engedményezett követelés esedékessége a jogosult jognyilatkozatától vagy egyéb általa teljesítendő feltételtől függ, az engedményes megteheti e jognyilatkozatot vagy teljesítheti az esedékesség bekövetkezéséhez szükséges feltételt.
 
 #### 6:194. § [Az engedményezhető követelések]
 
@@ -9274,7 +9346,7 @@ Az engedményező köteles az engedményest a követelés érvényesítéséhez 
 
 (1) Az engedményező köteles az engedményes választásának megfelelően a kötelezettet az engedményezésről az engedményezés tényét és az engedményezett követelést megjelölve írásban értesíteni, vagy az engedményes személyét is meghatározó engedményezési okiratot az engedményesnek átadni.
 
-(2) A kötelezett értesítését követően az engedményessel szemben hatálytalan a kötelezett és az engedményező szerződésének módosítása. A kötelezett az engedményessel szemben azokat a kifogásokat érvényesítheti és azokat az ellenköveteléseket számíthatja be, amelyek az engedményezővel szemben az értesítésekor már fennállt jogalapon keletkeztek.
+(2) A kötelezett értesítését követően az engedményessel szemben hatálytalan a kötelezett és az engedményező szerződésének módosítása vagy megszüntetése. A kötelezett az engedményessel szemben azokat a kifogásokat érvényesítheti és azokat az ellenköveteléseket számíthatja be, amelyek az engedményezővel szemben az értesítésekor már fennállt jogalapon keletkeztek.
 
 (3) Az engedményezésről szóló értesítés a (2) bekezdés szerinti joghatást akkor váltja ki, ha az engedményezőtől származik, vagy az engedményes az engedményezési okirattal vagy más hitelt érdemlő módon igazolja az engedményezés megtörténtét.
 
