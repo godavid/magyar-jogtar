@@ -609,7 +609,7 @@ van lehetőség.
 - m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolgálat a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése, valamint 11. § (1) bekezdése szerinti feladata körében a hozzátartozó felkutatása, felvilágosítása, illetve értesítése céljából;
 - n) az Elektronikus Egészségügyi Szolgáltatási Tér útján az intézetben történt születést bejelentő intézet a születés bejelentéséhez, a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez szükséges adatok továbbításával kapcsolatos kötelezettségeinek teljesítéséhez.
 - o) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez.
-- p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság, valamint a személyazonosító igazolvány kiadása során közreműködő hatóságként eljáró bv. szerv, e hatósági hatáskörében ellátandó feladatai végrehajtásához.
+- p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság az e hatósági hatáskörében ellátandó feladatai végrehajtásához.
 
 23. § E törvény felhatalmazása alapján a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
 
@@ -664,7 +664,7 @@ van lehetőség.
 
 24/H. § (1) A nyilvántartást kezelő szerv az egészségbiztosítási szerv és az állami adó- és vámhatóság részére, illetve – amennyiben kiállítást megakadályozó nyilatkozatot nem tettek – az útiokmány-nyilvántartás, és a közúti közlekedési nyilvántartás részére továbbítja a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő magyar állampolgárok esetében a hivatalbóli okmánykiállításhoz szükséges adatokat, továbbá közli az állami adó- és vámhatósággal azt a tényt, hogy a névváltozásra házasságkötésre tekintettel került sor.
 
-(2) Az intézetben történt születést bejelentő intézet a születés bejelentéséhez – az Elektronikus Egészségügyi Szolgáltatási Tér útján – jogosult a szülőknek a személyiadat- és lakcímnyilvántartásban szereplő személyazonosság igazolására alkalmas hatósági igazolványainak okmányazonosítója, érvényességi ideje, valamint a személyazonosságuk igazolására alkalmas hatósági igazolványait kiállító hatóság megnevezése adatának igénylésére.
+(2) Az intézetben történt születést bejelentő intézet a születés bejelentéséhez – az Elektronikus Egészségügyi Szolgáltatási Tér útján – jogosult a szülőknek a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság igazolására alkalmas hatósági igazolványai okmányazonosítójának, valamint azok érvényességére vagy érvénytelenségük tényére vonatkozó adatok igénylésére.
 
 24/I. § A nyilvántartást kezelő szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 42/B. §-a szerinti ügyfél-átvilágítás során a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény szerinti szolgáltató automatikus információátadásra vonatkozó jelzésére a polgár 11. § (1) bekezdés h) pontja szerinti adatát, állampolgárságát, a személyazonosító igazolványának okmányazonosítóját, aláírását, valamint arcképmását átadja.
 
@@ -686,7 +686,7 @@ adatot igényelhet.
 
 (2) Az (1) bekezdés szerinti adatigénylés az elhunyt viselt neve, születési neve, születési helye és ideje, anyja neve adatok közül a halottvizsgálatot végző orvos tudomására jutottak, de legalább a viselt név, a születési hely és idő és az anyja családi neve adatok megadásával történik.
 
-24/N. § A személyazonosító igazolványt kiadó és nyilvántartó hatóság, valamint a személyazonosító igazolvány kiadása során közreműködő hatóságként eljáró bv. szerv a kérelmező személyazonosságának, valamint személyi adatainak és vezetői engedélye adatainak ellenőrzése céljából térítésmentesen igényelheti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
+24/N. § A személyazonosító igazolványt kiadó és nyilvántartó hatóság a kérelmező személyazonosságának, valamint személyi adatainak és vezetői engedélye adatainak ellenőrzése céljából térítésmentesen igényelheti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
 
 ### V. Fejezet — A nyilvántartási eljárás
 
@@ -1506,6 +1506,8 @@ végrehajtását szolgálja.
 (2) A járási hivatal 2021. június 15-ig az értesítési címmel rendelkező személyeket az (1) bekezdés szerinti változásról – a lakcímükön – értesíti.
 
 52/L. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv részére haladéktalanul átadja a nyilvántartás hatálya alá tartozó polgárok tekintetében az útiokmány-nyilvántartó szerv az útiokmány-nyilvántartásban szereplő útlevelek okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokat, valamint a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető közúti közlekedési nyilvántartó szerve a közúti közlekedési nyilvántartás engedély-nyilvántartásában szereplő kártyaformátumú vezetői engedélyek okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka, 2021. szeptember 11-én fennálló adatokat.
+
+52/M. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv adategyeztetés céljából egyszeri, eseti módon átadja az ingatlanügyi hatóság részére az ingatlan-nyilvántartásban és a földhasználati nyilvántartásban szereplő polgárok természetes személyazonosító adatait, továbbá az állampolgárságra, személyi azonosítóra, családi állapotra, valamint elhalálozás tényére, helyére és idejére vonatkozó adatokat.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

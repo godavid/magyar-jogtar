@@ -276,7 +276,12 @@ ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 
 (7) Átutalással történő fizetési mód esetén az átutalási megbízáson fel kell tüntetni a külön jogszabályban meghatározott kincstári tranzakciós kódot, valamint az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát. Készpénz-átutalási megbízással történő fizetés esetén a készpénz-átutalási megbízás „Közlemény” rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
 
-(8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
+(8) Ha e törvény másként nem rendelkezik, a díjfizetési kötelezettség az ingatlanügyi hatóságnál
+
+- a) a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy bankkártyával, vagy
+- b) az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással
+
+teljesíthető.
 
 (8a) Új épület építése vagy meglévő épület – ingatlan-nyilvántartásban változást eredményező – átalakítása esetén, a változás ingatlan-nyilvántartási átvezetésére (az épület feltüntetésére) irányuló eljárás igazgatási szolgáltatási díját az ehhez szükséges változási vázrajz záradékolása iránt történő benyújtásával egyidejűleg kell megfizetni.
 
