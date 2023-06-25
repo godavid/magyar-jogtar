@@ -16,25 +16,17 @@ a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartás
 
 #### 5. §
 
-6. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 22. § p) pontja helyébe a következő rendelkezés lép:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:]
-
-„p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság az e hatósági hatáskörében ellátandó feladatai végrehajtásához.”
+#### 6. §
 
 #### 7. §
 
 #### 8. §
 
-9. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24/H. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az intézetben történt születést bejelentő intézet a születés bejelentéséhez – az Elektronikus Egészségügyi Szolgáltatási Tér útján – jogosult a szülőknek a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság igazolására alkalmas hatósági igazolványai okmányazonosítójának, valamint azok érvényességére vagy érvénytelenségük tényére vonatkozó adatok igénylésére.”
+#### 9. §
 
 #### 10. §
 
-11. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24/N. §-a helyébe a következő rendelkezés lép:
-
-„24/N. § A személyazonosító igazolványt kiadó és nyilvántartó hatóság a kérelmező személyazonosságának, valamint személyi adatainak és vezetői engedélye adatainak ellenőrzése céljából térítésmentesen igényelheti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.”
+#### 11. §
 
 #### 12. §
 
@@ -126,13 +118,7 @@ a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartás
 
 #### 15. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-44. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény VI/C. Fejezete a következő 72/D. §-sal egészül ki:
-
-„72/D. § A 72/C. § rendelkezéseit nem kell alkalmazni, ha a tömegrendezvény helyszíne
-
-- a) a külvilágtól minden irányból fizikai akadállyal elválasztott,
-- b) az év minden napján a nap 24 órájában élőerővel őrzött és
-- c) beléptető és kamerarendszerrel felszerelt.”
+#### 44. §
 
 #### 16.
 
