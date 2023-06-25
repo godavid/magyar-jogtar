@@ -1702,7 +1702,7 @@ betartását, és – ide nem értve a szerződés létrejöttének, érvényess
 - b) a panasz kivizsgálása nem a 39. §-ban meghatározott törvények hatálya alá tartozó személyre vagy szervezetre vonatkozó szabályok szerint történt,
 - c) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válaszából egyéb, az (1) bekezdésben meghatározott jogszabályokban előírt fogyasztói jogot sértő körülményt vélelmez.
 
-82. § (1) A fogyasztóvédelmi eljárásban az általuk védett érdekek védelme körében az ügyfél jogai illetik meg a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésére hivatkozással az EGT bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
+82. § (1) A fogyasztóvédelmi eljárásban az általuk védett érdekek védelme körében az ügyfél jogai illetik meg a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésére hivatkozással az EGT bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2020. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
 (2) A fogyasztóvédelmi eljárásban az ügyfél jogai megilletik azt a külföldi pénzügyi hatóságot, amelynek feladatkörét az ügy érinti.
 
@@ -2623,7 +2623,7 @@ terjedhet.
   - 5.1. az egy vagy több rendszerkockázati tőkepufferráta meghatározása vagy módosítása esetén a 35/A. § (2) bekezdésben meghatározott információkról,
   - 5.2. a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,
   - 5.3. a 35. § (2) bekezdésében meghatározott információkról,
-  - 5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik, továbbá teljeskörű indokolást készít arra vonatkozóan, hogy miért élt vagy nem élt a Hpt. 89. § (11) bekezdés a), b) vagy c) pontja szerinti lehetőséggel,
+  - 5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
   - 5.5. a 35. § (1) bekezdésében és a Hpt. 89. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
   - 5.6. a Szantv. 113. § (2) bekezdésében foglaltakról;
 - 6. az EKB-t

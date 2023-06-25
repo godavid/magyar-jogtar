@@ -135,7 +135,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (2) A gyártó köteles a terméket azonosításra alkalmas jelöléssel ellátni. Az azonosító jelölésnek olyannak kell lennie, hogy az alapján a termék pontosan beazonosítható legyen. A termék azonosító jelölése lehet a termék típus-, tétel-, modell- vagy sorozatszáma, vagy más egyedi jelölése, amely megfelel ezen bekezdés követelményeinek.
 
-(3) A gyártó köteles a terméken feltüntetni a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és a székhelyét.
+(3) A gyártó köteles a terméken feltüntetni a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és azt a címét, amelyen kapcsolatba lehet lépni vele.
 
 (4) Amennyiben a termék mérete, kialakítása vagy egyéb sajátossága miatt az azonosító jelölés és a (3) bekezdésben meghatározott adatok nem tüntethetők fel magán a terméken, azokat jogszabály eltérő rendelkezésének hiányában a termék csomagolásán vagy a termék kísérő dokumentációján kell megadni.
 
@@ -170,7 +170,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (2) Az importőr a termék forgalomba hozatala előtt köteles meggyőződni arról, hogy a gyártó elvégezte a megfelelőségértékelési eljárást, összeállította a műszaki dokumentációt, a terméken elhelyezte a jogszabály által előírt megfelelőségi jelölést és egyéb jelöléseket, mellékelte hozzá a jogszabály által előírt dokumentumokat, valamint eleget tett a 8. § (2) és (3) bekezdésében meghatározott követelményeknek.
 
-(3) Az importőr köteles a terméken feltüntetni a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és a székhelyét. Az importőr által feltüntetett adatok nem takarhatják el a gyártó 8. § (3) bekezdése alapján feltüntetett adatait.
+(3) Az importőr köteles a terméken feltüntetni a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és azt a címét, amelyen kapcsolatba lehet lépni vele. Az importőr által feltüntetett adatok nem takarhatják el a gyártó 8. § (3) bekezdése alapján feltüntetett adatait.
 
 (4) Amennyiben a termék mérete, kialakítása vagy egyéb sajátossága miatt a (3) bekezdésben meghatározott adatok nem tüntethetők fel magán a terméken, azokat jogszabály eltérő rendelkezésének hiányában a termék csomagolásán vagy a termék kísérő dokumentációján kell megadni.
 
