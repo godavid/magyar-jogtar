@@ -6684,7 +6684,7 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 
 9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
 
-10. a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
+10. a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2022. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelvnek,
 
 11. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
 

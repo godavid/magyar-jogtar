@@ -1119,7 +1119,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - n) magánszemély lakástulajdonát elidegenítő szerződés érvénytelenségének megállapítása iránt indított perben;
 - o) külön törvényben meghatározott referenciaadat-szolgáltató és központi hitelinformációs rendszert kezelő pénzügyi vállalkozás ellen, a központi hitelinformációs rendszerbe történő adatátadás és kezelés miatt, illetőleg a referenciaadatok helyesbítése vagy törlése iránt indított perben;
 - p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
-- r)
+- r) a fogyasztóvédelemről szóló törvény alapján indított képviseleti kereseti eljárásban,
 - s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 - t) a bűncselekménnyel vagy szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban;
 - u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
