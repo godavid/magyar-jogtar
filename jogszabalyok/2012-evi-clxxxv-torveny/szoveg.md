@@ -2125,7 +2125,8 @@ kezeli.
 - 12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek és a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint az elektromos és elektronikus berendezések vissza- és átvételi díját;
 - 13. az elem és akkumulátor hulladékká válását megelőző tevékenységek, valamint a hulladékká vált elemmel és akkumulátorral kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 14. a gépjárművek hulladékká válását megelőző tevékenységek, valamint a hulladékká vált gépjárművekkel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
-- 15. az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+- 15. – a 15a. pont kivételével – az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+- 15a. az országos vagy helyi közúton végzett állami beruházások kapcsán, valamint az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett építési tevékenységekhez kapcsolódó hulladékképződés megelőzésével kapcsolatos tevékenységek részletes szabályait;
 - 16. a szennyvíziszapok és a szennyvíziszapkomposzt mezőgazdasági felhasználásának és a szennyvíziszapokkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 17. a hulladékgazdálkodási közszolgáltatási díj megállapításának részletes szabályait, valamint a hulladékgazdálkodási közszolgáltatási díj szerkezetét;
 - 18. a közszolgáltató kiválasztásának módját és a hulladékgazdálkodási közszolgáltatási szerződés tartalmi követelményeit;
