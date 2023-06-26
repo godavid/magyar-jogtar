@@ -41,7 +41,7 @@ a következő törvényt alkotja:
 
 (4) A személyszállítási közszolgáltatások tekintetében e törvény a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelettel (a továbbiakban: 1370/2007/EK rendelet) együttesen alkalmazandó.
 
-(5) A vasúti személyszállítási szolgáltatásra a vasúti személyszállítási szolgáltatást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-ai 1371/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1371/2007/EK rendelet) e törvénnyel és a 49. § (1) bekezdés c) pontja alapján kiadott jogszabályokkal együttesen alkalmazandó.
+(5) A vasúti személyszállítási szolgáltatásra a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/782 rendelet] e törvénnyel és a 49. § (1) bekezdés c) pontja alapján kiadott jogszabályokkal együttesen alkalmazandó.
 
 (6) Az autóbuszos személyszállítási szolgáltatásra az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-ai 181/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 181/2011/EU rendelet) e törvénnyel és a 49. § (1) bekezdés d) pontja alapján megalkotott jogszabályokkal, az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-ei 1073/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1073/2009/EK rendelet) e törvénnyel és az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen alkalmazandó.
 
@@ -59,7 +59,7 @@ a következő törvényt alkotja:
 - 4a. elkülönült vasútegészségügyi szervezet: Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint a MÁV Kórház és Rendelőintézet, Szolnok;
 - 5. ellátásért felelős: a 4. § (3)–(4) bekezdésében meghatározott, 1370/2007/EK rendelet 2. cikk b) pontja szerinti illetékes hatóság;
 - 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
-- 6a. egyéb kötöttpályás közlekedési mód: az országos, elővárosi, regionális vasúti személyszállítási szolgáltatásoktól eltérő technológiai és működési megoldásokkal üzemeltetett kötöttpályás közlekedési szolgáltatások, különösen a metró, a villamos, a budapesti elővárosi helyi érdekű vasút (HÉV);
+- 6a.
 - 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
 - 8. helyi személyszállítási szolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a közúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső vasútállomására (vasúti megállóhelyére), komp- vagy révátkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is;
 - 9. igényvezérelt személyszállítási szolgáltatás: az e törvényben e szolgáltatásokra meghatározott engedéllyel rendelkező szolgáltató által közszolgáltatási szerződés vagy járati engedély alapján végzett, információs technológiai eszközök alkalmazásával szervezett, változó útvonalon vagy változó időrendben, vagy változó útvonalon és változó időrendben közlekedő személyszállítási szolgáltatás;
@@ -114,6 +114,8 @@ a következő törvényt alkotja:
 - 49. összekapcsolt személyszállítási közszolgáltatás: az 5. § (3) és (4) bekezdése szerinti, vagy a 32. § (2) bekezdése szerinti együttműködési megállapodás alapján biztosított személyszállítási közszolgáltatás;
 - 50. összekapcsolt díjtermék: összekapcsolt személyszállítási közszolgáltatás igénybevételére jogosító bérlet vagy menetjegy, amely az 5. § (3) és (4) bekezdés szerinti, vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra;
 - 51. integrált díjtermék: integrált személyszállítási közszolgáltatás igénybevételére jogosító bérlet és menetjegy, amely az 5. § (3) és (4) bekezdés szerinti vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra.
+- 52. személyhez kötött utazási jogosultság: kizárólag az utazásra jogosító menetjegy, utazási bérlet megvásárlásának időpontjában az utasmédia vagy utazási okmány által azonosítható módon megjelölt utast megillető utazási jogosultság;
+- 53. közlekedési elektronikus azonosító: olyan – közhiteles adatokkal megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, jogszabályban meghatározott – elektronikus azonosító, amely biztosítja a személyszállítási szolgáltatások igénybe vételét; közlekedési elektronikus azonosítónak minősül az a közforgalmú személyszállítási szolgáltatás igénybevétele céljából, a 7. § (1) bekezdése szerinti szervezetek által kibocsátott vagy működtetett (a továbbiakban együtt: kibocsátott), elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó vagy elektronikus rendszer is, amely a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 29. § (19) és (20) bekezdésében meghatározottak szerint a személyazonosító igazolvány szolgáltatásazonosítójához rendelten kezeli a polgár adatait, és igazolja a polgár utazásra, utazási kedvezményre vonatkozó jogosultságait.
 
 #### 3. Együttműködési kötelezettség
 
@@ -210,26 +212,20 @@ más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (4) A (3) bekezdés szerinti megállapodásban meg kell határozni a helyi személyszállítási közszolgáltatásra, így különösen a közszolgáltatási menetrendre, annak módosítására, a díjrendszerre és a közszolgáltatási kötelezettség körébe eső személyszállítási szolgáltatást végző közlekedési szolgáltató kiválasztására, valamint annak esetleges veszteségei ellentételezésére vonatkozó rendelkezéseket.
 
-(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé. A jelentést a miniszter és az önkormányzat megküldi a 21. § (1a) bekezdésében meghatározott szervezet részére, amely a jelentéseket saját honlapján közzéteszi.
+(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé. A jelentést a miniszter és az önkormányzat megküldi a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KTI Kft.) részére, amely a jelentéseket saját honlapján közzéteszi.
 
-#### 4/A. Végső menedékes helyi személyszállítási közszolgáltató kijelölése
+(6) A KTI Kft. a
 
-5/A. § (1) A helyi közösségi közlekedést fenntartó önkormányzat haladéktalanul jelzi a miniszter számára, ha az önkormányzat valamennyi erre irányuló intézkedése ellenére a lakosság helyi utazási igényeit kielégítő helyi személyszállítási közszolgáltatás fenntartását a jövőben nem képes biztosítani, és ez a település lakossága, valamint a település és annak térségében működő termelő, közüzemi, vagy egyéb közcélú szervezetek számára jelentős érdeksérelmet jelent. Ebben az esetben a lakosság helyi utazási igényeit kielégítő helyi személyszállítási közszolgáltatást még 60 napig fenn kell tartania.
+- a) 4. § (3) bekezdés i) és j) pontjában,
+- b) 26–28. §-ban,
+- c) 31–32. §-ban, valamint
+- d) 35. §-ban
 
-(2) A helyi közszolgáltatás fenntartásának ellehetetlenülése áll fenn különösen,
+szabályozott feladatok tekintetében ellátja a miniszter szakmai háttértámogatását, közreműködik a szakmai előkészítésben.
 
-- a) ha a helyi önkormányzat a helyi személyszállítási közszolgáltatások finanszírozásához szükséges forrásokat az önkormányzati alapfeladatok ellátásának sérelme nélkül nem tudja biztosítani,
-- b) ha a személyszállítási közszolgáltató a tevékenység nyújtását gazdálkodási, működési, vagy egyéb objektív szempontra tekintettel nem tudja folytatni,
-- c) ha a helyi közlekedési tevékenység ellátására kiírt pályázat vagy kijelölő határozat nem vezetett eredményre, vagy
-- d) egyéb, az önkormányzat vagy a helyi személyszállítási közszolgáltatást nyújtó érdekkörében felmerülő objektív, elháríthatatlan, a tevékenység fenntartását megakadályozó ok esetén.
+#### 4/A.
 
-(3) A miniszter az önkormányzat bejelentése alapján soron kívül, de legfeljebb 30 napon belül megvizsgálja az ellehetetlenülés bekövetkezését, valamint a helyi személyszállítási közszolgáltatás fenntartásának indokoltságát. A vizsgálat eredménye alapján, ha az indokoltság fennáll, a helyi személyszállítási közszolgáltatás ellátására a (2) bekezdésben meghatározott körülmény megszűnéséig, de legfeljebb 2 évre végső menedékes szolgáltatót jelöl ki a 24. § (4) bekezdésében meghatározott eljárásrend alkalmazásával az alkalmazandó tarifa, menetrend, valamint egyéb szolgáltatási feltételek egyidejű meghatározása, valamint a szolgáltatáshoz kapcsolódó pénzügyi ellentételezés biztosítása mellett.
-
-(4) Végső menedékes helyi szolgáltatóként személyszállítási közszolgáltatások ellátására az e törvényben meghatározott feltételeknek megfelelő közlekedési szolgáltató jelölhető ki.
-
-(5) A végső menedékes helyi személyszállítási közszolgáltató kijelölésével kapcsolatos eljárásrendet a miniszter
-
-– az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg.
+#### 5/A. §
 
 #### 5. A személyszállítási szolgáltatáshoz szükséges hálózatok és műszaki eszközök összekapcsolása, fejlesztése
 
@@ -243,26 +239,28 @@ más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (2) A közlekedési kártya olyan, az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) 2. § 5. pontja szerinti, közhiteles adatokkal, vizuálisan megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, jogszabályban meghatározott elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó, amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét. A Nektv. 1. § (4) bekezdés a) pontja szerinti elsődleges kártyához a közlekedési kártya mint másodlagos kártya – amennyiben annak műszaki és technikai feltételei adottak – a jogosult kérelmére hozzárendelhető. A Nektv. 2. § 5. pontja szerinti közlekedési kártyához a jogosult kérelmére további – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – utasmédia rendelhető, amely biztosítja a személyszállítási szolgáltatások igénybe vételét.
 
-(3) Közlekedési kártyának minősül az a közforgalmú személyszállítási szolgáltatás igénybevétele céljából, a 7. § (1) bekezdése szerinti szervezet által kibocsátott vagy működtetett (a továbbiakban együtt: kibocsátott), elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó vagy elektronikus rendszer is, amely a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 29. § (19) és (20) bekezdésében meghatározottak szerint a személyazonosító igazolvány szolgáltatásazonosítójához rendelten kezeli a polgár adatait és igazolja a polgár utazásra, utazási kedvezményre vonatkozó jogosultságait, valamint amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét.
+(3) Közlekedési kártyának minősül az a közforgalmú személyszállítási szolgáltatás igénybevétele céljából, a 7. § (1) bekezdése szerinti szervezet által kibocsátott vagy működtetett (a továbbiakban együtt: kibocsátott), elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó vagy elektronikus rendszer is, amely az Nytv. 29. § (19) és (20) bekezdésében meghatározottak szerint a személyazonosító igazolvány szolgáltatásazonosítójához rendelten kezeli a polgár adatait és igazolja a polgár utazásra, utazási kedvezményre vonatkozó jogosultságait, valamint amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét.
+
+6/B. § A 7. § (1) bekezdése szerinti szervezetek a személyhez kötött utazási jogosultság, valamint az egyes kedvezmények ellenőrzése érdekében közlekedési elektronikus azonosítót bocsáthatnak ki, illetve üzemeltethetnek.
 
 #### 6. A közforgalmú személyszállítási szolgáltatások működésével kapcsolatos adatkezelési, közrend- és vagyonvédelmi, valamint megfigyelési szabályok
 
-7. § (1) A személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosíthatósága, a személyhez kötött utazási jogosultság ellenőrzése, valamint a közszolgáltatási utazási kedvezmények igénybevétele jogszerűségének megállapítása céljából
+7. § (1) A személyszállítási szerződés teljesítésével összefüggésben a személyhez kötött utazási jogosultság ellenőrzése, a közszolgáltatási utazási kedvezmények igénybevétele jogszerűségének megállapítása, továbbá a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosíthatósága, valamint a szolgáltatót megillető menetdíj és a kiszabott pótdíj érvényesítése céljából,
 
 - a) a közforgalmú személyszállítási szolgáltatást teljesítő közlekedési szolgáltató,
 - b) az egységes elektronikus értékesítési rendszer működtetője,
 - c) a 35/A. §-ban meghatározott működtető, továbbá
-- d) – ha a bevételek beszedését a közlekedésszervező végzi – a közlekedésszervező
+- d) − ha a bevételek beszedését a közlekedésszervező végzi − a közlekedésszervező
 
-vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt vevő utas azonosíthatóságához szükséges, a (4) bekezdésben meghatározott adatok megismerésére.
+jogosult a személyszállítási szolgáltatásban részt vevő utas (4) bekezdésben meghatározott személyes adatainak kezelésére.
 
 (2) Az (1) bekezdésben meghatározott szervezet a személyes adatok védelmére vonatkozó előírások érvényesítése mellett, továbbá az e törvényben meghatározott korlátozó rendelkezések megtartásával az elektronikus adathordozón rögzített, nem személyhez kötött utazási jogosultság igénybevételével történő, egy alkalomnál több utazásra jogosító személyszállítási szerződés teljesítése érdekében, a szerződés teljesítéséhez szükséges mértékben – a személyszállítási üzletszabályzatban közzétett feltételek mellett – a (4) bekezdés a) pontjában meghatározott adatok kezelésére vonatkozó adatkezelési megállapodást köthet a személyszállítási szolgáltatásban részt vevő személlyel.
 
-(3) Az (1) bekezdésben meghatározott szervezet a közszolgáltatási utazási kedvezmény vagy személyhez kötött utazási jogosultság keretében teljesítendő, elektronikus adathordozón rögzített utazási jogosultság igénybevételével történő utazásra jogosító személyszállítási közszolgáltatásra vonatkozó személyszállítási szerződés teljesítésével összefüggésben jogosult a (4) bekezdésben meghatározott adatoknak a szerződés teljesítéséhez szükséges mértékben történő kezelésére.
+(3) Az (1) bekezdésben meghatározott szervezet a közszolgáltatási utazási kedvezmény vagy személyhez kötött utazási jogosultság keretében teljesítendő, közlekedési elektronikus azonosítóhoz rendelt utazási jogosultság igénybevételével történő utazásra jogosító személyszállítási közszolgáltatásra vonatkozó személyszállítási szerződés teljesítésével összefüggésben jogosult a (4) bekezdésben meghatározott adatoknak a szerződés teljesítéséhez szükséges mértékben történő kezelésére.
 
-(4) Az (1) bekezdésben meghatározott szervezet adatmegismerési, adatkezelési jogosultsága a személyszállítási szolgáltatás alapjául szolgáló szerződés teljesítése érdekében a következő adatokra terjed ki:
+(4) Az (1) bekezdésben meghatározott szervezet adatkezelési jogosultsága a személyszállítási szolgáltatás alapjául szolgáló szerződés teljesítése érdekében a következő adatokra terjed ki:
 
-- a) a jogosult természetes személyazonosító adatai (családi és utónév, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve), lakcíme, valamint személyazonosításra alkalmas hatósági igazolványának típusa és száma – ha 14. életévét betöltötte, akkor – aláírása is, vagy a jogosult részére elektronikusan kiállított, utazásra jogosító közlekedési kártya esetén annak egyedi sorszáma és a jogosult arcképmása,
+- a) a jogosult természetes személyazonosító adatai (családi és utónév, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve), lakcíme, valamint személyazonosításra alkalmas hatósági igazolványának típusa és száma – ha 12. életévét betöltötte, akkor aláírása is –, vagy a jogosult részére elektronikusan kiállított, utazásra jogosító közlekedési kártya vagy közlekedési elektronikus azonosító esetén annak egyedi sorszáma és a jogosult arcképmása,
 - b) az e törvényben meghatározottak szerinti, a közszolgáltatási utazási kedvezményekről szóló jogszabály alapján biztosított utazási kedvezmény esetén a kedvezmény jogcíme, a jogcímet megalapozó okmány azonosítója, típusa, érvényessége, kibocsátója, a jogosult adóazonosító jele és társadalombiztosítási azonosító jele,
 - c) az utazási viszonylathoz kötött kedvezmény esetén az utazási viszonylat, meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényesség időszaka vagy időpontja.
 
@@ -270,19 +268,19 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 
 (6) A Nektv.-ben meghatározott működtető, az Nytv. hatálya alá tartozó természetes személynek, valamint az egyéb, a közlekedési kártyára jogosult személynek a Nektv.-ben meghatározott regisztrációs szerv által folytatott kártyafelhasználói regisztráció során felvételezett és kezelt természetes személyazonosító adatait, lakcímét, egységes arcképmás- és aláírás-felvételezés során rögzített arcképmását és – ha a 12. életévét betöltötte – aláírását, valamint az általa képzett kapcsolati kódot közlekedési kártya kártyakibocsátása és nyilvántartása céljából az (1) bekezdés szerinti szervezet részére átadja. A közlekedési kártya tekintetében a Nektv. szerinti kártyakibocsátónak az (1) bekezdés szerinti szervezet minősül.
 
-(6a) A 6/A. § (3) bekezdése szerinti közlekedési kártya esetén az Nytv. szerinti nyilvántartást kezelő szerv az (1) bekezdés szerinti szervezet megkeresésére az Nytv. hatálya alá tartozó természetes személynek a természetes személyazonosító adatait, a személyazonosító igazolványának okmány- és szolgáltatásazonosítóját, valamint lakcímadatát a közlekedési kártya kártyakibocsátása és nyilvántartása céljából átadja.
+(6a) A 6/A. § (3) bekezdése szerinti közlekedési kártya vagy a 6/B. § szerinti közlekedési elektronikus azonosító esetén az Nytv. szerinti nyilvántartást kezelő szerv az (1) bekezdés szerinti szervezet megkeresésére az Nytv. hatálya alá tartozó természetes személynek a természetes személyazonosító adatait, a személyazonosító igazolványának okmány- és szolgáltatásazonosítóját, valamint lakcímadatát a közlekedési kártya és a közlekedési elektronikus azonosító kibocsátása és nyilvántartása céljából átadja.
 
-(7) Az (1) bekezdés szerinti szervezet a közlekedési kártya kibocsátása iránti kérelemben a jogosult által megadott adatok, valamint az általa kibocsátott közlekedési kártya megszemélyesítését végző szervezetek adatközlése alapján a 30. § (2) bekezdésében rögzített feltételek biztosítása, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szolgáltatási kötelezettsége teljesítése céljából, a Nemzeti Személyszállítási Intelligens Közlekedési Rendszerek Platform keretein belül központi nyilvántartást vezet, amely tartalmazza
+(7) Az (1) bekezdés szerinti szervezet a közlekedési kártya vagy közlekedési elektronikus azonosító kibocsátása iránti kérelemben a jogosult által megadott adatok, valamint az általa kibocsátott közlekedési kártya vagy közlekedési elektronikus azonosító megszemélyesítését végző szervezetek adatközlése alapján a 30. § (2) bekezdésében rögzített feltételek biztosítása, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szolgáltatási kötelezettsége teljesítése céljából, a Nemzeti Személyszállítási Intelligens Közlekedési Rendszerek Platform keretein belül központi nyilvántartást vezet, amely tartalmazza
 
 - a) a (6) és (6a) bekezdés szerinti adatokat,
-- b) a közlekedési kártya egyedi sorszámát és elektronikus egyedi azonosítóját,
-- c) a közlekedési kártya érvényességére vonatkozó adatokat,
+- b) a közlekedési kártya vagy közlekedési elektronikus azonosító egyedi sorszámát és elektronikus egyedi azonosítóját,
+- c) a közlekedési kártya vagy közlekedési elektronikus azonosító érvényességére vonatkozó adatokat,
 - d) a közszolgáltatási utazási kedvezmények igénybevételére való jogosultsági adatokat, valamint
-- e) a közlekedési kártya egyes közlekedési szolgáltató szervezeteknél való érvényesítési adatait.
+- e) a közlekedési kártya vagy közlekedési elektronikus azonosító egyes közlekedési szolgáltató szervezeteknél való érvényesítési adatait.
 
-(8) Az (1) bekezdés b) pontjában meghatározott szervezet a (7) bekezdés a) és d) pontjában meghatározott adatokat a közlekedési kártya érvényességének vagy a polgári jogi igény érvényesíthetőségének időpontjáig kezeli.
+(8) Az (1) bekezdés b) pontjában meghatározott szervezet a (7) bekezdés a) és d) pontjában meghatározott adatokat a közlekedési kártya vagy közlekedési elektronikus azonosító érvényességének vagy a polgári jogi igény érvényesíthetőségének időpontjáig kezeli.
 
-(9) Az (1) bekezdésben meghatározott szervek a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása céljából a polgárok személyi adatainak és lakcímének nyilvántartásából természetes személyazonosító adatok, lakcím és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosultak a nyilvántartó szervtől az adatigénylés indokoltságának igazolása mellett.
+(9) Az (1) bekezdésben meghatározott szervezet a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása, valamint a menetdíj és a kiszabott pótdíj érvényesítése céljából a polgárok személyi adatainak és lakcímének nyilvántartásából természetes személyazonosító adatok, lakcím és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosult a nyilvántartást kezelő szervtől az adatigénylés indokoltságának igazolása mellett.
 
 8. § (1) E § alkalmazásában szolgáltatónak minősül:
 
@@ -290,9 +288,14 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 - b) a vasút-, trolibusz-, autóbusz-, hajóállomás vagy megállóhely, kikötő üzemeltetője, valamint
 - c) a 22. § (4a) bekezdése szerint működtetett közösségi kerékpáros rendszer vagy közösségi autóbérlő rendszer üzemeltetője.
 
-(2) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai védelme, valamint a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyon védelme érdekében – az (5) bekezdésben meghatározott helyeken, elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+(2) Az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai védelme, valamint a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyon védelme érdekében
 
-(3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren; így különösen testkamerán a gépjárműben elhelyezett vagy a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán keresztül az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
+- a) a szolgáltató az (5) bekezdésben meghatározott helyeken, valamint
+- b) az (1) bekezdés a) és b) pontjában meghatározott szolgáltató – az a) ponton túlmenően – a jármű közlekedése során, a jármű közlekedésével közvetlenül érintett területen
+
+elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+
+(3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren keresztül működtetett testkamerán, valamint a gépjárműben elhelyezett, a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
 
 (4) A szolgáltató a jogszabályi felhatalmazás alapján végzett szolgáltatás minőségének és mennyiségének ellenőrzése érdekében, valamint bűnüldözési célból, az (5) bekezdésben meghatározott helyeken elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytat megfigyelést, készít rögzített képfelvételt, és kezeli a rögzített képfelvételeket.
 
@@ -304,6 +307,8 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 - d) személyszállítási szolgáltatás céljára alkalmazott járművein,
 - e) közösségi kerékpár gyűjtőállomásán, valamint
 - f) közösségi autóbérlő rendszer személygépkocsijának belső terében.
+
+(5a) Az (5) bekezdéstől eltérően a (3) bekezdésben meghatározott célból és feltételekkel működtetett testkamerán keresztül felvétel a járművet érintő baleset, illetve káreset bekövetkezése esetén – a baleset, illetve káreset körülményeinek rögzítése érdekében – a járművet érintő balesettel, illetve káresettel közvetlenül érintett területen is készíthető.
 
 (6) A szolgáltató a (2) és (3) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazásáról az (5) bekezdésben felsorolt helyeken megjelenő személyek számára észlelhető módon figyelemfelhívó jelzést helyez el, továbbá – a vakok és gyengén látók tájékoztatására alkalmas módon, valamint a magyar nyelvet nem ismerők számára legalább angol nyelven, továbbá indokolt esetben a szolgáltató által meghatározott más nyelven – a személyes adatok kezeléséről tájékoztatást nyújt
 
@@ -318,13 +323,13 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 
 (8) Felvétel nem készíthető olyan helyen, ahol az az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
 
-(9) A szolgáltató a felvételt a rögzítéstől számított 16. napon törli, ha annak felhasználására bírósági vagy hatósági eljárásban nem kerül sor.
+(9) A szolgáltató a felvételt a rögzítéstől számított 16. napon törli.
 
 (10) Akinek jogát vagy jogos érdekét a felvétel érinti, jogának vagy jogos érdekének igazolásával, aki a felvételen maga is szerepel (a továbbiakban együtt e § alkalmazásában: érintett), jogának vagy jogos érdekének igazolása nélkül kérheti, hogy a felvételt a szolgáltató a (9) bekezdésben meghatározottak szerint ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat.
 
-(11) Bíróság vagy hatóság erre irányuló megkeresése esetén a szolgáltató a felvételt haladéktalanul megküldi a megkereső részére.
+(11) Bíróság vagy hatóság erre irányuló megkeresése esetén a szolgáltató a felvételt haladéktalanul megküldi a megkereső részére. A szolgáltató a felvételt a bíróság vagy hatóság részére történő megküldést követő 90. napon törli, kivéve, ha a (13) bekezdés szerinti vizsgálat lefolytatása miatt, vagy a (12) bekezdés szerint az érintett által előterjesztett kérelemben megjelölt ok miatt a felvétel további megőrzése indokolt.
 
-(12) A (10) bekezdés szerint benyújtott kérelmet követően a felvétel mindaddig nem törölhető, amíg a (11) bekezdés szerinti megkeresés meg nem érkezik a szolgáltatóhoz vagy az érintett által a (10) bekezdés szerint előterjesztett kérelemben megjelölt indok miatt arra szükség van, de legfeljebb a kérelem beérkezésétől számított hat hónapig.
+(12) A (10) bekezdés szerint benyújtott kérelmet követően a felvétel mindaddig nem törölhető, amíg a (11) bekezdés szerinti megkeresés meg nem érkezik a szolgáltatóhoz, vagy az érintett által a (10) bekezdés szerint előterjesztett kérelemben megjelölt indok miatt annak további kezelésére szükség van, de legfeljebb a kérelem beérkezését követő hat hónapig. A szolgáltató köteles a jelen bekezdés szerinti hat hónapos törlési határidőt megelőzően legalább 30 nappal tájékoztatni az érintettet a törlés időpontjáról, valamint köteles kérni az érintett arra vonatkozó nyilatkozatát, hogy kéri-e a felvétel további megőrzését. Ha az érintett a szolgáltató felhívására nem nyilatkozik, úgy a felvételt a jelen bekezdésben foglaltak szerint törölni kell. Ha az érintett nyilatkozata alapján – az abban megjelölt indok miatt – a felvétel további megőrzésére szükség van, úgy a nyilatkozatot a (10) bekezdés szerinti új kérelemnek kell tekinteni.
 
 (13) A szolgáltató a felvételt felhasználhatja:
 
@@ -337,9 +342,11 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 
 érintő esemény, baleset, káreset körülményeinek, továbbá a szolgáltatónál tett panaszbejelentések kivizsgálása érdekében.
 
-(14) A (9) bekezdésben meghatározott időtartam a (13) bekezdés szerinti vizsgálat időtartamával, de legfeljebb 45 nappal meghosszabbodik.
+(13a) Az (1) bekezdés a) és b) pontjában megjelölt szolgáltatók a (13) bekezdés alapján lefolytatott vizsgálatukhoz a (2) és (3) bekezdésben foglalt célból egymás felvételeit – a felvétel rendelkezésre bocsátására irányuló kérelem előterjesztését és a felvétel rendelkezésre bocsátását követően – felhasználhatják. A felvétel rendelkezésre bocsátása iránti kérelem akkor teljesíthető, ha a kérelmező szolgáltató igazolja a (13) bekezdés szerinti vizsgálati eljárás megindítását és azt, hogy a vizsgálat megfelelő lefolytatásához a felvétel szükséges. A felvétel rendelkezésre bocsátása iránti kérelem előterjesztésének módjára, a kérelem elbírálására és a felvétel rendelkezésre bocsátására vonatkozó részletes szabályokat – a személyes adatok kezelésére irányadó szabályok figyelembevételével – a szolgáltatók megállapodásban rendezik.
 
-(15) A vizsgálat során felhasznált felvételt a vizsgálat és az annak eredményeként tett intézkedés, továbbá bírósági vagy hatósági eljárás esetén az azt lezáró határozat jogerőre emelkedését vagy véglegessé válását követő 15. napon törölni kell.
+(14) A (13) bekezdés szerint lefolytatott vizsgálat esetén a felvételt a vizsgálat lezárását követő 15. napon törölni kell.
+
+(15) Ha a szolgáltató által a (13) bekezdés szerint lefolytatott vizsgálat eredményeként bírósági vagy hatósági eljárás kezdeményezésére kerül sor, a szolgáltató a felvételt a bírósági vagy hatósági eljárást lezáró határozat jogerőre emelkedéséről vagy véglegessé válásáról szóló bírósági, hatósági tájékoztatás kézhezvételét követő 16. napon törli.
 
 (16) A szolgáltató az (5) bekezdésben meghatározott felvételt a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (9) bekezdése szerinti tisztántartási kötelezettség teljesítéséről való meggyőződés érdekében is felhasználhatja.
 
@@ -358,7 +365,7 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 
 is felhasználható.
 
-(3) Felhasználásnak minősül, ha a 8. § (5) bekezdésében meghatározott felvételt a szolgáltató a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (2) bekezdésben meghatározott célból.
+(3) A szolgáltató a 8. § (5) és (5a) bekezdésében foglaltak szerint rögzített felvételt a (2) bekezdésben meghatározott célból erre irányuló megkeresés esetén a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére továbbítani köteles.
 
 ### II. Fejezet — A SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSSAL KAPCSOLATOS HATÓSÁGI TEVÉKENYSÉG
 
@@ -419,6 +426,19 @@ járati engedéllyel végezhet. Járati engedély a szolgáltató kérelmére, k
 
 - a) a 2013. június 30. napjáig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti az élet, a testi épség és az egészség elleni bűncselekmények (1978. évi IV. törvény XII. fejezet I. cím), kényszerítés (1978. évi IV. törvény 174. §), közösség tagja elleni erőszak (1978. évi IV. törvény 174/B. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §), emberrablás (1978. évi IV. törvény 175/A. §), emberkereskedelem (1978. évi IV. törvény 175/B. §), magánlaksértés (1978. évi IV. törvény 176. §), zaklatás (1978. évi IV. törvény 176/A. §), magántitok megsértése (1978. évi IV. törvény 177. §), visszaélés személyes adattal (1978. évi IV. törvény 177/A. §), levéltitok megsértése (1978. évi IV. törvény 178. §), magántitok jogosulatlan megismerése (1978. évi IV. törvény 178/A. §), közlekedési bűncselekmények (1978. évi IV. törvény XIII. fejezet), kiskorú veszélyeztetése (1978. évi IV. törvény 195. §), erőszakos közösülés (1978. évi IV. törvény 197. §), szemérem elleni erőszak (1978. évi IV. törvény 198. §), megrontás (1978. évi IV. törvény 201. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése (1978. évi IV. törvény 205. §), kitartottság (1978. évi IV. törvény 206. §), kerítés (1978. évi IV. törvény 207. §), szeméremsértés (1978. évi IV. törvény 208. §), a választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény [1978. évi IV. törvény 211. § a)–b) és e) pont], embercsempészés (1978. évi IV. törvény 218. §), bántalmazás hivatalos eljárásban (1978. évi IV. törvény 226. §), kényszervallatás (1978. évi IV. törvény 227. §), jogellenes fogvatartás (1978. évi IV. törvény 228. §), hivatalos személy elleni bűncselekmények (1978. évi IV. törvény XV. fejezet 5. cím), hatósági eljárás akadályozása (1978. évi IV. törvény 242/A. §), hatóság eljárásának megzavarása (1978. évi IV. törvény 242/B. §), bűnpártolás [1978. évi IV. törvény 244. § (3) bekezdés a) pont], fogolyzendülés (1978. évi IV. törvény 246. §), közveszélyokozás (1978. évi IV. törvény 259. §), közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegése [1978. évi IV. törvény 261/A. § (2) bekezdés a) pont és (3) bekezdés], légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), garázdaság (1978. évi IV. törvény 271. §), rendbontás (1978. évi IV. törvény 271/A. §), önbíráskodás (1978. évi IV. törvény 273. §), közbizalom elleni bűncselekmények (1978. évi IV. törvény XVI. fejezet III. cím), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), fogyasztó megtévesztése (1978. évi IV. törvény 296/A. §), pénzhamisítás [1978. évi IV. törvény 304. § (1)–(3) bekezdés], lopás (1978. évi IV. törvény 316. §), csalás (1978. évi IV. törvény 318. §), rablás (1978. évi IV. törvény 321. §), kifosztás (1978. évi IV. törvény 322. §), zsarolás (1978. évi IV. törvény 323. §), rongálás (1978. évi IV. törvény 324. §), orgazdaság (1978. évi IV. törvény 326. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §), szökés [1978. évi IV. törvény 343. § (2) bekezdés a) és d) pont], zendülés [1978. évi IV. törvény 352. § (2)–(3) bekezdés], elöljáró vagy szolgálati közeg elleni erőszak (1978. évi IV. törvény 355. §), valamint
 - b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), testi sértés (Btk. 164. §), testi sértés (Btk. 164. §), foglalkozás körében elkövetett veszélyeztetés [Btk. 165. § (3) bekezdés], segítségnyújtás elmulasztása (Btk. 166. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184–184/C. §), az emberi szabadság elleni bűncselekmények (Btk. XVIII. Fejezet), szexuális kényszerítés (Btk. 196. §), szexuális erőszak (Btk. 197. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés (Btk. 205. §), kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), kapcsolati erőszak (Btk. 212/A. §), közösség tagja elleni erőszak (Btk. 216. §), személyes adattal visszaélés (Btk. 219. §), magánlaksértés (Btk. 221. §), zaklatás (Btk. 222. §), magántitok megsértése (Btk. 223. §), levéltitok megsértése (Btk. 224. §), a közlekedési bűncselekmények (Btk. XXII. Fejezet), kényszerítés hatósági eljárásban (Btk. 278. §), hatósági eljárás megzavarása (Btk. 279. §), bűnpártolás [Btk. 282. § (3) bekezdés a)–c) pont], fogolyzendülés (Btk. 284. §), bántalmazás hivatalos eljárásban (Btk. 301. §), bántalmazás közfeladatot ellátó személy eljárásában (Btk. 302. §), kényszervallatás (Btk. 303. §), jogellenes fogvatartás (Btk. 304. §), a hivatalos személy elleni bűncselekmények (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorizmus finanszírozása (Btk. 318–319. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása (Btk. 322. §), közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), garázdaság (Btk. 339. §), rendbontás (Btk. 340. §), közokirat-hamisítás (Btk. 342–343. §), biztonsági okmány hamisítása (Btk. 344. §), hamis magánokirat felhasználása (Btk. 345. §), okirattal visszaélés (Btk. 346. §), egyedi azonosító jellel visszaélés (Btk. 347. §), gépjármű kilométer-számláló műszer által jelzett érték meghamisítása (Btk. 348. §), a választás, népszavazás és európai polgári kezdeményezés rendje elleni bűncselekmény [Btk. 350. § (1) bekezdés a)–b) és e) pont], határzár megrongálása (Btk. 352/B. §), embercsempészés (Btk. 353. §), a vagyon elleni erőszakos bűncselekmények (Btk. XXXV. Fejezet), lopás (Btk. 370. §), rongálás (Btk. 371. §), csalás (Btk. 373. §), gazdasági csalás (Btk. 374. §), információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a 2020. december 31-ig hatályban volt orgazdaság (Btk. 379. §), jármű önkényes elvétele (Btk. 380. §), pénzhamisítás [Btk. 389. § (1)–(2) bekezdés], fogyasztók megtévesztése (Btk. 417. §), szökés [Btk. 434. § a) és d) pont], zendülés [Btk. 442. § (2)–(4) bekezdés], elöljáró vagy szolgálati közeg elleni erőszak (Btk. 445. §), elöljáró vagy szolgálati közeg védelmére kelt vagy arra rendelt személy elleni erőszak (Btk. 446. §) miatt vagy bűnszervezet keretében elkövetett bűntett miatt nem ítéltek el, vagy a mentesítésre meghatározott időtartam már eltelt.
+
+(11) A személytaxi-szolgáltatást közvetítő és szervező szolgálat a személyszállító szolgáltatást igénybe vevők jogainak védelme, valamint a személytaxi-szolgáltatási és a diszpécserszolgáltatási tevékenység jogszerű végzésének utólagos ellenőrizhetősége céljából a megrendelések tekintetében – függetlenül a megrendelés formájától – rögzíti
+
+- a) a személyszállító szolgáltatást megrendelés alapján igénybe vevő személy nevét (e bekezdés alkalmazásában a továbbiakban: utas),
+- b) a rendelés felvételének időpontját,
+- c) az utas felvételének helyét,
+- d) a személytaxi-szolgáltatás célállomását,
+- e) a személytaxi-szolgáltatás teljesítésének kezdő és befejező időpontját,
+- f) a személytaxi-szolgáltatást teljesítő járművezető nevét,
+- g) a személytaxi-szolgáltatást teljesítő jármű rendszámát, valamint
+- h) a személytaxi-szolgáltatást teljesítő járművet üzemben tartó vállalkozás nevét, székhelyét.
+
+(12) A személytaxi-szolgáltatást közvetítő és szervező szolgálat a (11) bekezdés szerinti adatokat a megrendelést követő három hónapig megőrzi, valamint azt a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, ellenőrzésre jogosult hatóság felhívására rendelkezésére bocsátja.
 
 #### 9/A. A különleges személyszállító szolgáltatást nyújtó járművel végzett személyszállítási szolgáltatás
 
@@ -533,18 +553,16 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 #### 13. A személyszállítást igénybevevő utasok jogainak védelme
 
-17. § (1) A vasúti igazgatási szerv felügyeli a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezések vasúti társaságok és a közlekedésszervező általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi az 1371/2007/EK rendeletben, e törvényben, a vasúti személyszállítás részletes feltételeiről szóló rendeletben, a vasúti társaságok személyszállítási üzletszabályzatában és a közlekedésszervező személyszállítási üzletszabályzatában foglaltak megtartását.
+17. § (1) A vasúti igazgatási szerv felügyeli a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezések vasúti társaságok és a közlekedésszervező általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi az (EU) 2021/782 rendeletben, e törvényben, a vasúti személyszállítás részletes feltételeiről szóló kormányrendeletekben, a vasúti társaságok személyszállítási üzletszabályzatában és a közlekedésszervező személyszállítási üzletszabályzatában foglaltak megtartását.
 
 (2) A vasúti igazgatási szerv (1) bekezdés szerinti eljárására a Vtv. 77. § (2) bekezdésében és 79/E. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (3) Az autóbuszos hatóság felügyeli az autóbuszos személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezéseknek az autóbuszos személyszállító szolgáltatók, az autóbusz-állomást és az autóbusz-megállóhelyet üzemeltető szervek, valamint a közlekedésszervezők általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi a 181/2011/EU rendeletben, az e törvényben és az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a 181/2011/EU rendeletben foglaltak alóli mentességekre, a közúti személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat meghatározó kormányrendeletben, az autóbuszos személyszállító szolgáltatók személyszállítási üzletszabályzatában és a közlekedésszervezők személyszállítási üzletszabályzatában foglaltak megtartását.
 
-(4) Ha a vasúti igazgatási szerv az (1) bekezdésben meghatározott valamely rendelkezés megsértését állapítja meg, a vasúti társaság vagy a közlekedésszervező számára
+(4) Ha a vasúti igazgatási szerv megállapítja az (1) bekezdésben meghatározott rendelkezés megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, valamint a jogsértéssel elért előnynek – a mérlegelésével az alábbi jogkövetkezményeket állapíthatja meg a vasúti társasággal vagy a közlekedésszervezővel szemben:
 
-- a)
-- b)
-- c) utasjogi felügyeleti bírságot szab ki,
-- d)
+- a) előírhatja a jogsértő mulasztás, állapot megszüntetését,
+- b) utasjogi felügyeleti bírságot szabhat ki.
 
 (5) Ha az autóbuszos hatóság a (3) bekezdésben meghatározott valamely rendelkezés megsértését állapítja meg, az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező számára
 
@@ -561,13 +579,15 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (5d)
 
-(6) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha a (4) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv, felfüggesztheti vagy visszavonhatja a személyszállítási szolgáltatás végzésére jogosító működési engedélyt, valamint a vasúti igazgatási szerv által tudomásul vett bejelentés esetén a tevékenység folytatását megtiltja vagy a személyszállító szolgáltatót a közhiteles nyilvántartásból törli.
+(6) Ha a jogsértő a jogsértést a kötelezés ellenére nem szünteti meg, a vasúti igazgatási szerv a jogsértőt a tevékenység végzésétől a jogsértés megszüntetéséig, de legfeljebb 180 napra eltiltja. Az eltiltás időtartamát naptári napokban kell meghatározni.
+
+(6a) A vasúti igazgatási szerv a vasúti társaság működési engedélyét visszavonja, és ezt a közhiteles nyilvántartásban rögzíti, ha a jogsértés a (6) bekezdés szerinti eltiltás elteltével is fennáll.
 
 (7) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – az autóbuszos hatóság a személyszállítási szolgáltatás végzésére jogosító engedély felfüggesztését vagy visszavonását kezdeményezi.
 
 18. § (1) A vasúti vagy az autóbuszos személyszállítási szolgáltatást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, vagy az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton – abban az esetben terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
 
-(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében (a továbbiakban: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv visszautasítja. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
+(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében az eljárásra meghatározott határidő leteltét követő 3 hónapon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panasz vizsgálatát a vasúti igazgatási szerv mellőzi. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
 
 (3) Autóbuszos személyszállítás esetén panaszt benyújtani a szolgáltató vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében vagy azon szolgáltatók esetében, amelyek nem rendelkeznek az autóbuszos hatóság által jóváhagyott üzletszabályzattal, önálló panaszkezelési szabályzatban (a továbbiakban együtt: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet az autóbuszos hatóságnál. A szolgáltató vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben az autóbuszos hatósághoz fordulhat. E határidőn túl az autóbuszos hatósághoz benyújtott panaszokat az autóbuszos hatóság visszautasítja. A szolgáltató vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot az autóbuszos hatóság részére a panasz mellékleteként be kell nyújtani. Ennek hiányában az autóbuszos hatóság hiánypótlási felhívást bocsát ki. A panasz kivizsgálása során az autóbuszos hatóság a tényállás tisztázása érdekében több ízben is bocsáthat ki hiánypótlásra felhívást. Az autóbuszos hatóság abban az esetben is visszautasítja a kérelmet, ha az nem az előterjesztésre jogosulttól származik. Az autóbuszos hatóság panaszkezelési eljárására vonatkozó további szabályokat a 49. § (1) bekezdés d) pontjában adott felhatalmazás alapján megalkotott rendelet tartalmazza.
 
@@ -579,6 +599,8 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (7) A panasz alapján – ha az alaposnak bizonyul – a vasúti igazgatási szerv, illetve az autóbuszos hatóság dönt a szükséges hatósági lépések megtételéről, s erről a panaszost tájékoztatja.
 
+(8) E § alkalmazásában panaszkezelési eljárást lezáró dokumentum a panaszos eredeti panaszára a vasúti társaság vagy közlekedésszervező által adott első érdemi, indokolással ellátott válasz.
+
 ## MÁSODIK RÉSZ — A MENETREND SZERINTI SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSRA VONATKOZÓ SZABÁLYOK
 
 ### III. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
@@ -589,7 +611,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (1a) A vízi személyszállítási közszolgáltatás lebonyolítására alkalmas és ahhoz szükséges vízparti ingatlanok, kikötőhelyek, kikötői infrastruktúra használatával kapcsolatban a miniszter közlekedésszakmai és hozzáférési feltételeket írhat elő. A szakmai feltételek kiterjednek a kikötői infrastruktúra használatára, szolgáltatási színvonalára, forgalmi rendjére, az infrastruktúrához történő hozzáféréssel kapcsolatos szabályokra, a kikötői infrastruktúra üzemeltetésével és fenntartásával kapcsolatos részletes előírásokra, valamint a személyi és képesítési követelményekre.
 
-(2) A közúti és vízi járművel végzett személyszállítási szolgáltatásra, valamint az 1371/2007/EK rendeletben nem szabályozott kérdésekben a vasúti személyszállítási szolgáltatásra kötött szerződésekre a Ptk.-nak a szerződésekre vonatkozó általános, továbbá a vállalkozási szerződésre vonatkozó rendelkezéseit a vasúti személyszállítási szolgáltatás részletes feltételeiről, valamint a közúti személyszállítási szerződésekről, továbbá a vízi személyszállítási szolgáltatás feltételeiről szóló jogszabályban foglalt kiegészítésekkel kell alkalmazni.
+(2) A közúti és vízi járművel végzett személyszállítási szolgáltatásra, valamint az (EU) 2021/782 rendeletben nem szabályozott kérdésekben a vasúti személyszállítási szolgáltatásra kötött szerződésekre a Ptk.-nak a szerződésekre vonatkozó általános, továbbá a vállalkozási szerződésre vonatkozó rendelkezéseit a vasúti személyszállítás részletes feltételeiről szóló jogszabályokban, valamint a közúti személyszállítási szerződésekről, továbbá a vízi személyszállítás feltételeiről szóló jogszabályban foglalt kiegészítésekkel kell alkalmazni.
 
 (3) A közlekedési szolgáltató a közforgalmú személyszállítási szolgáltatás körében a közforgalmú menetrendben meghatározott vonalon az ott meghirdetett járatokat közlekedteti.
 
@@ -627,40 +649,15 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 21. § (1) Az önkormányzat a 4. § (4) bekezdés c–e) pontjában, az 5. §-ában, 12. § (7) bekezdésében, 23–31. §-ában, és a 35. §-ában szabályozott feladatokat a feladat ellátásához szükséges forrásokkal együtt – az állam vagy az önkormányzat kizárólagos tulajdonában, vagy kizárólag az állam és az önkormányzat közös tulajdonában álló korlátolt felelősségű társaság vagy részvénytársaság, vagy irányítása alatt álló költségvetési szerv formájában működő – közlekedésszervezőnek adhatja át. A közlekedésszervező működése alatt az állam vagy az önkormányzat kizárólagos tulajdonjogának, vagy az állam és az önkormányzat közös kizárólagos tulajdonjogának fennállását folyamatosan biztosítani szükséges.
 
-(1a) A miniszter a 4. § (3) bekezdésében, az 5. §-ban, az 5/A. §-ban, a 23–32. §-ban, és a 35. §-ban szabályozott feladatait a feladat ellátásához szükséges forrásokkal együtt a magyar állam kizárólagos tulajdonában álló gazdasági társaság, vagy irányítása alatt álló költségvetési szerv formájában működő, a miniszter által rendeletben kijelölt országos közlekedésszervező (a továbbiakban: országos közlekedésszervező) látja el, amely egyidejűleg ellátja a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény szerinti Vasúti Pályakapacitás-elosztó Szervezet feladatait.
+(1a)
 
-(2) Az önkormányzat az átadott feladatok tekintetében szakmai felügyeletet gyakorol a közlekedésszervező felett, ennek során az ellátásért felelős a közlekedésszervező által az (1) és (1a) bekezdésben meghatározott rendelkezések alapján ellátott feladatok tekintetében hozott döntéseit megváltoztathatja vagy megsemmisítheti. A szakmai felügyelet körében a miniszter és az önkormányzat évente legalább egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
+(2) Az önkormányzat az átadott feladatok tekintetében szakmai felügyeletet gyakorol a közlekedésszervező felett, ennek során az ellátásért felelős a közlekedésszervező által az (1) bekezdésben meghatározott rendelkezések alapján ellátott feladatok tekintetében hozott döntéseit megváltoztathatja vagy megsemmisítheti. A szakmai felügyelet körében az önkormányzat évente legalább egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
 
-(2a) A miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg a (2) bekezdésben meghatározott felügyeleti jog gyakorlásának részletes feltételeit, a kötelezettségvállalás részletes feltételeit és felelősségi rendjét, valamint a 21/A. §-ban meghatározott feladatok teljesítésének, és a döntési jogok megosztásának módját.
+(2a)
 
 (3) Amennyiben a közlekedésszervező valamely közszolgáltatási tevékenysége gazdasági tevékenységnek minősül akkor azt kizárólag az Európai Unió által az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének alkalmazása érdekében kiadott kötelező jogi aktusnak és az 1370/2007/EK rendeletnek megfelelő közszolgáltatási szerződés alapján végezheti.
 
-21/A. § (1) Az országos közlekedésszervező a 21. § (1) és (1a) bekezdésében meghatározott feladatokon túl ellátja
-
-- a) az országos, elővárosi és regionális személyszállítási közszolgáltatások menetrendjének előkészítésével és meghatározásával kapcsolatos feladatokat, a jármű és személyzeti vezénylés kivételével,
-- b) a 35/A–35/C. §-ban meghatározott feladatokat,
-- c) a Vtv. 28. § (1) bekezdésében meghatározott feladatokat.
-- d) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletértékesítéssel, a bevételek beszedésével kapcsolatos feladatokat,
-- e) a b) pontban meghatározott bevételekhez kapcsolódó szociálpolitikai menetdíj-támogatás igénybevételével kapcsolatos feladatokat,
-- f) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletellenőrzési feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
-- g) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő utastájékoztatási feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
-- h) az országos, elővárosi és regionális személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások arculati, utastájékoztatási, utaskapcsolati és utaskezelési szabályait,
-- i) a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását,
-- j) a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedések meghatározását, amely végrehajtását a közlekedési szolgáltató csak abban az esetben tagadhatja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti,
-- k) a Vtv. 3/B. § (8) bekezdésében és 67/P. §-ában meghatározott feladatokat,
-- l) az országos, elővárosi, regionális autóbusszal végzett személyszállítási közszolgáltatással érintett közvetett vagy közvetlen állami tulajdonban álló autóbuszpályaudvarok fenntartásával és működtetésével kapcsolatos feladatokat, ideértve a hozzáférés biztosításával kapcsolatos tevékenységeket is.
-
-(2) Az országos közlekedésszervező a közlekedésszervezői feladat ellátásának finanszírozásával, valamint a 21. § (2a) bekezdésében foglaltaknak az országos közlekedésszervező gazdálkodási felügyeletével, bevételeinek és indokolt költségeinek elszámolásával összefüggő részletes szabályait a miniszter és az országos közlekedésszervező között az államháztartásért felelős miniszter egyetértésével 20 évre kötött közfeladatellátási szerződés tartalmazza.
-
-(3) A (2) bekezdésben meghatározott közfeladatellátási szerződés – éves gördülőtervezéssel történő felülvizsgálat mellett – legalább 3 éves, ha a közfeladatellátási szerződés ennél rövidebb időre szól, akkor a közfeladatellátási szerződés időbeli hatályával megegyező időszakra vonatkozó éven túli kötelezettségvállalásként – keret jelleggel – tartalmazza az országos közlekedésszervező által biztosítandó személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások
-
-- a) mennyiségi és minőségi előírásait,
-- b) az a) pontban meghatározott előírásokhoz kapcsolódó pénzügyi és gazdálkodási kereteket és eljárásrendeket, valamint
-- c) a b) pontban meghatározott keretektől történő eltérések kezelésének eljárási és finanszírozási felelősségi rendjét.
-
-(4) Az országos közlekedésszervező feladatai ellátásának finanszírozásával, valamint a források átadásával kapcsolatos részletes szabályokat a (2) bekezdésben meghatározott közfeladatellátási szerződés tartalmazza.
-
-(5) Az országos közlekedésszervező köteles a belső számvitelében elkülönített nyilvántartást vezetni a 21. § (1) és (1a) bekezdésében, valamint az e §-ban meghatározott tevékenységével összefüggésben, a tevékenységhez kapcsolódó eszközökről és forrásokról, bevételekről és ráfordításokról a számvitelről szóló törvény alapján meghatározott számviteli politikában rögzített, az átcsoportosítás lehetőségét kizáró elszámolási rendnek megfelelően. Az országos közlekedésszervezőnek az elkülönített elszámolást az adózás rendjére vonatkozó jogszabályokban előírt határidőig meg kell őriznie, kivéve, ha az európai uniós állami támogatási szabályok ennél hosszabb határidőt állapítanak meg.
+#### 21/A. §
 
 22. § (1) Az önkormányzat a közlekedésszervezőt az e törvényben meghatározott feladatok átadására vonatkozó jogszabályban (a továbbiakban: kijelölő jogszabály) jelöli ki.
 
@@ -725,6 +722,8 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 - k) a közszolgáltatási szerződés módosításának, felmondásának feltételeit és
 - l) minden olyan további feltételt, amelyet az ellátásért felelős a közszolgáltatási szerződésben érvényesíteni kíván.
 
+(5a) Az (1a)–(2b) bekezdésben megjelölt versenyeztetési eljárások során az országos, elővárosi, regionális autóbusszal végzett személyszállítási közszolgáltatással érintett közvetett vagy közvetlen állami tulajdonban álló, e szolgáltatások kiszolgálásával érintett telephelyek bérletére, üzletrészként vagy vagyonelemként történő kivásárlására, gazdasági egységként való átvételére a pályázók ajánlatot tehetnek.
+
 (6) A pályázati kiírásban szereplő feltételeket és a pályázat elbírálásának szempontjait az e §-ban foglalt szempontokat is figyelembe véve kell meghatározni. A feltételek körében az ellátásért felelős a közlekedési szolgáltató kötelezettségeként előírhatja a letelepedést, a korábbi közlekedési szolgáltató munkavállalóinak vagy azok meghatározott körének meghatározott feltételekkel történő átvételét, továbbá alvállalkozó meghatározott mértékű bevonását a közszolgáltatásba, az alvállalkozó személyének megjelölése nélkül. Közszolgáltatási szerződés csak a nemzeti vagyonról szóló törvény szerint átlátható szervezetnek minősülő közlekedési szolgáltatóval köthető. A vasúti személyszállítási közszolgáltatások előkészítése tekintetében biztosítani kell a 1370/2007/EK rendelet 4. cikk (8) bekezdésében meghatározott előírások teljesülését.
 
 (7) A pályázók többváltozatú ajánlat tételére is felkérhetők. Hálózatra, hálózatrészre vagy vonalcsoportra vonatkozó pályázat esetén az ellátásért felelős az érvényes pályázatok alapján – a pályázati kiírásban meghatározott módon – előminősítéssel élhet és annak eredményétől függően tárgyalást kezdeményezhet az alkalmasnak minősített pályázókkal benyújtott ajánlatuk részleteiről. A pályázat nyertesének csak az összességében legelőnyösebb ajánlatot tevő pályázó nyilvánítható.
@@ -757,7 +756,7 @@ valósulhat meg.
 
 (6) A (3)–(4) bekezdésben foglalt eseteken túl a belső szolgáltató pályáztatás nélkül is megbízható a szolgáltatás elvégzésével (a továbbiakban: közvetlen odaítélés). A közvetlen odaítélés alapján szolgáltatást nyújtó belső szolgáltató a közszolgáltatási tevékenységét az 1370/2007/EK rendelet 5. cikk (2) bekezdés a)–c) és e) pontjában meghatározott szabályok alapján, kizárólag az ellátásért felelős illetékességi területén végzi.
 
-(7) Az, akinek érdekében állt vagy áll a közszolgáltatási szerződés elnyerése, és az 5/A. §-ban, a 23. §-ban, valamint jelen §-ban foglalt szabályok megszegésével kötött közszolgáltatási szerződés folytán sérelmet szenvedett, vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.
+(7) Az, akinek érdekében állt vagy áll a közszolgáltatási szerződés elnyerése, a 23. §-ban, valamint jelen §-ban foglalt szabályok megszegésével kötött közszolgáltatási szerződés folytán sérelmet szenvedett, vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.
 
 (8) Az 1370/2007/EK rendelet 8. cikk (2) bekezdésében előírt jelentéstételi kötelezettséget a miniszter teljesíti.
 
@@ -765,7 +764,7 @@ valósulhat meg.
 
 #### 18. Közszolgáltatási szerződés
 
-25. § (1) A közszolgáltatási szerződés megkötésére az országos közlekedésszervező a miniszter nevében, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a fővárosban a főpolgármester), vagy – a 22. §-ban meghatározott kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében, 5. cikk (3a), (4b) és (6) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves, amennyiben a szerződés érvényessége kevesebb, mint 3 év, akkor a szerződés érvénytartamával megegyező időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
+25. § (1) A közszolgáltatási szerződés megkötésére a miniszter az államháztartásért felelős miniszterrel egyetértésben, az önkormányzat nevében az önkormányzat képviselő-testületének felhatalmazása alapján a polgármester (a fővárosban a főpolgármester), vagy – a kijelölő jogszabályban foglaltak alapján – a rendeletben megjelölt közlekedésszervező jogosult. A közszolgáltatási szerződés érvényességi idejére és esetleges meghosszabbításának feltételeire az 1370/2007/EK rendelet 4. cikk (3)–(4) bekezdésében, 5. cikk (3a), (4b) és (6) bekezdésében meghatározott rendelkezések az irányadóak. Amennyiben a közszolgáltatási szerződés a közlekedési szolgáltatónál gazdasági hátrányt okozó kötelezettséget tartalmaz, annak a pénzügyi ellentételezés tekintetében legalább 3 éves – amennyiben a szerződés érvényessége kevesebb mint 3 év, akkor a szerződés érvénytartamával megegyező – időszakra vonatkozó pénzügyi (éven túli) kötelezettségvállalást kell tartalmaznia.
 
 (2) A személyszállítási közszolgáltatási szerződés része a közszolgáltatási menetrend, amely elkülönülten tartalmazza az országos, a regionális és elővárosi személyszállítási szolgáltatásokat. Helyi személyszállítási szolgáltatás esetén a személyszállítási közszolgáltatási szerződés része a helyi közszolgáltatási menetrend. Ha az 1370/2007/EK rendelet vagy e törvény másként nem rendelkezik, a személyszállítási közszolgáltatási szerződésre a Ptk. szerződésekre vonatkozó általános szabályai az irányadók.
 
@@ -902,7 +901,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (3) A személyszállítási közszolgáltatási utazási kedvezmények mértékét, a jogosultak körét és a kedvezmények igénybevételének feltételeit a Kormány rendeletben állapítja meg.
 
-(3a) Amennyiben a szolgáltatás tekintetében elektronikus jegyrendszer kerül bevezetésre, jogszabály – az elektronikus jegyrendszer bevezetésével érintett szolgáltatási területen – a közszolgáltatási utazási kedvezmények igénybevételét, meglétének igazolását közlekedési kártya vagy ahhoz kapcsolt utasmédia használatához kötheti.
+(3a) A szolgáltatás tekintetében elektronikus jegyrendszer bevezetése esetén, jogszabály – az elektronikus jegyrendszer bevezetésével érintett szolgáltatási területen – a közszolgáltatási utazási kedvezmények igénybevételét, meglétének igazolását közlekedési kártya vagy közlekedési elektronikus azonosító vagy azokhoz kapcsolt utasmédia használatához kötheti.
 
 (4) A közszolgáltatási szerződésben és a feladatellátási szerződésben meghatározott díjak, a kedvezményes díjak és a díjmentes utazások igénybevételéhez szükséges utazási okmányok alkalmazását – a közszolgáltatási szerződésben és a feladatellátási szerződésben rögzített kereteken belül – a közlekedési szolgáltató díjszabásában köteles rögzíteni és közzétenni.
 
@@ -929,7 +928,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (4) Az országos, regionális és elővárosi közlekedési szolgáltató a bevételeket időponthoz, járatokhoz, menetjegyhez, árkategóriákhoz, valamint indulási és érkezési állomáshoz rendelhető adatstruktúrában köteles nyilvántartani.
 
-(5) Ha a bevételek beszedését a 21/A. § vagy a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
+(5) Ha a bevételek beszedését a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
 
 (6) Az ellátásért felelős a főváros és elővárosa tekintetében a fővárosi személyszállítási közszolgáltatás és az elővárosi személyszállítási közszolgáltatások igénybevételére jogosító egységes jegy- és bérletrendszert működtet, a megyei jogú város tekintetében a helyi személyszállítási közszolgáltatások és az elővárosi személyszállítási közszolgáltatások igénybevételére vonatkozó egységes jegy- és bérletrendszert működtethet.
 
@@ -939,15 +938,15 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (2) A személyszállítási közszolgáltatási utazási kedvezmények ellentételezésére szociálpolitikai menetdíj-támogatás vehető igénybe – az e törvényben meghatározott feltételek szerint – személyszállítási közszolgáltatás tevékenység közszolgáltatási szerződés alapján történő nyújtása esetén.
 
-(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 21/A. § vagy a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
+(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
 
-(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 21/A. § vagy a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
+(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
 
 (4) Nem vehető igénybe szociálpolitikai menetdíj-támogatás
 
 - a) azon utazási kedvezmények után, amelynek pénzügyi fedezetére jogszabály más forrást határoz meg,
 - b) azon utazási kedvezmények után, amelyet a támogatás alanya üzletpolitikai céllal nyújt, vagy
-- c) a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére – a tankerületi központ által fenntartott intézmény esetében a tankerület, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
+- c) a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után, kivéve a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére, valamint ezen gyermekek, tanulók, ellátottak csoportját kísérő felnőttek részére a tankerületi központ által fenntartott intézmény esetében a tankerület, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlásokat.
 
 (5) A nemzeti mobil fizetési szervezet, vagy közlekedésszervező, vagy közlekedési szolgáltató általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy a közlekedésszervezőtől vagy a közlekedési szolgáltatótól vagy ezek viszonteladójától megvásárolja.
 
@@ -993,7 +992,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 35/A. § (1) Az országos, elővárosi, regionális és helyi személyszállítási közszolgáltatásokban működő, illetve kialakításra kerülő elektronikus jegyrendszer, utastájékoztatási rendszer, valamint elektronikus forgalomtervező és irányítási rendszerek országos átjárhatóságát, az egységes működési tartalmának biztosítását, valamint a személyszállítási közszolgáltatások megrendelését támogató funkciókat a Központi Rendszer biztosítja.
 
-(2) Az (1) bekezdésben meghatározott Központi Rendszer kialakításával, működtetésével és fejlesztésével kapcsolatos feladatokat az e törvény 21. § (1a) bekezdésében meghatározott szervezet (a továbbiakban: 35/A. § szerinti működtető) látja el.
+(2) Az (1) bekezdésben meghatározott Központi Rendszer kialakításával, működtetésével és fejlesztésével kapcsolatos feladatokat az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott működtető (a továbbiakban: 35/A. §-a szerinti működtető) látja el, amely ezen feladatok ellátására a miniszterrel közszolgáltatási szerződést köthet.
 
 (3) A Központi Rendszerhez történő kapcsolódás feltételeinek biztosítása érdekében a 35/A. § szerinti működtető
 
@@ -1192,7 +1191,7 @@ adja ki.
 
 (5) A miniszter az e § alkalmazásával összefüggésben keletkezett információkat megőrzi, annak biztosítása érdekében, hogy a pénzügyi ellentételezés eredete és azok felhasználása nyomon követhetővé váljon, és az Európai Bizottság rendelkezésére bocsátja.
 
-48/A. § (1) Az 1371/2007/EK európai parlamenti és tanácsi rendelet és a 2010/40/EU európai parlamenti és tanácsi irányelv sérelme nélkül, a miniszter rendeletben előírhatja a belföldi személyszállítási szolgáltatásokat működtető vállalkozó vasúti társaságok számára, hogy a menet- és átszállójegy-kiadás, valamint a helyfoglalások vonatkozásában csatlakozzanak egy közös információs és integrált jegykiadó rendszerhez.
+48/A. § (1) Az (EU) 2021/782 rendelet és a 2010/40/EU európai parlamenti és tanácsi irányelv sérelme nélkül, a miniszter rendeletben előírhatja a belföldi személyszállítási szolgáltatásokat működtető vállalkozó vasúti társaságok számára, hogy a menet- és átszállójegy-kiadás, valamint a helyfoglalások vonatkozásában csatlakozzanak egy közös információs és integrált jegykiadó rendszerhez.
 
 (2) A közös információs és integrált jegykiadó rendszer létrehozását követően a miniszter gondoskodik arról, hogy az ne okozzon piaci torzulást vagy a vállalkozó vasúti társaságok közötti megkülönböztetést, és hogy a rendszert egy jogi személy vagy a személyszállítási szolgáltatásokat nyújtó összes vállalkozó vasúti társaságot tömörítő társulás irányítsa.
 
@@ -1204,16 +1203,15 @@ adja ki.
 
 - a) a közszolgáltatási utazási kedvezmények mértékének és igénybevételének szabályait,
 - b) a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályait,
-- c) a vasúti személyszállításnak az 1371/2007/EK rendeletben nem szabályozott részletes feltételeit, az 1371/2007/EK rendeletben foglaltak alóli mentességeket, a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó részletes szabályokat,
+- c) a vasúti személyszállításnak az (EU) 2021/782 rendeletben nem szabályozott részletes feltételeit, az (EU) 2021/782 rendeletben foglaltak alóli mentességeket, a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó részletes szabályokat,
 - d) az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a 181/2011/EU rendeletben foglaltak alóli mentességekre, a közúti személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
 - e) az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenység végzésére vonatkozó szabályokat,
 - f) az autóbuszos közúti személyszállítási tevékenységre, a közlekedésszervező tevékenységére vonatkozó piacfelügyeleti eljárásra, a piacfelügyeleti díj megfizetésére vonatkozó részletes szabályokat, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokat,
 - g) a vasúti személyszállítási szolgáltatások területén a kötelező nem baleseti kárfedezet biztosításának részletes szabályait,
 - h) a személygépkocsival díj ellenében végzett közúti személyszállítás részletes szabályait,
 - i) a vízi személyszállítási szolgáltatás feltételeire, a víziközlekedési személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
-- j) az 5. § (1) bekezdés e) pontjában, valamint a 32. § (1) bekezdés e)–h) pontjában, a (4) és (6) bekezdésében, a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, valamint a 35/A–35/C. §-ban meghatározott Központi Rendszer és Kapcsolódó Szolgáltatások kialakításával, működtetésével, fejlesztésével, igénybevételével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, a 35/C. § (5) bekezdése szerinti közreműködő szervezet kijelölésével, valamint a közreműködő szervezettel köthető szolgáltatási szerződés tartalmi elemeire vonatkozó szabályokat, a közlekedési kártya és kapcsolódó utasmédia kibocsátásával és működtetésével kapcsolatos szabályokat, a személyszállítási közszolgáltatási kedvezményekkel, és egyéb kedvezményekkel összefüggésben a 35/C. §-ban meghatározott nyilvántartással és adatszolgáltatásokkal kapcsolatos részletes szabályokat,
-- k)
-- k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat, továbbá,
+- j) az 5. § (1) bekezdés e) pontjában, a 32. § (1) bekezdés e)–h) pontjában, a 32. § (4) és (6) bekezdésében, valamint a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, valamint a 35/A–35/C. §-ban meghatározott Központi Rendszer és Kapcsolódó Szolgáltatások kialakításával, működtetésével, fejlesztésével, igénybevételével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, a 35/A. § szerinti működtető kijelölésével, a 35/C. § (5) bekezdése szerinti közreműködő szervezet kijelölésével, valamint a közreműködő szervezettel köthető szolgáltatási szerződés tartalmi elemeire vonatkozó szabályokat, a közlekedési kártya és kapcsolódó utasmédia kibocsátásával és működtetésével kapcsolatos szabályokat, a személyszállítási közszolgáltatási kedvezményekkel, és egyéb kedvezményekkel összefüggésben a 35/C. §-ban meghatározott nyilvántartással és adatszolgáltatásokkal kapcsolatos részletes szabályokat,
+- k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat, továbbá
 - l) a közösségi autóbérlő rendszer részletes szabályait
 
 rendeletben állapítsa meg.
@@ -1228,9 +1226,9 @@ rendeletben állapítsa meg.
 - f) a 19. § (1a) bekezdése szerinti közlekedésszakmai feltételek és hozzáférési feltételek részletes szabályait,
 - g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgáltatások eljárásainak díjait
 - h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésére kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
-- i) a 21. § (1a) bekezdése szerinti országos közlekedésszervezőt rendeletben jelölje ki,
-- j) a 21. § (2) bekezdésében meghatározott felügyeleti jog gyakorlásának részletes feltételeit, a kötelezettségvállalás részletes feltételeit és felelősségi rendjét, valamint a 21/A. §-ban meghatározott feladatok teljesítésének és a döntési jogok megosztásának részletes szabályait az államháztartásért felelős miniszter egyetértésével,
-- k) a végső menedékes helyi személyszállítási közszolgáltató kijelölésére vonatkozó, az 5/A. §-ban meghatározott eljárás részletes szabályait az államháztartásért felelős miniszter egyetértésével
+- i)
+- j)
+- k)
 
 rendeletben állapítsa meg.
 
@@ -1279,7 +1277,7 @@ vonatkozó önkormányzati rendelet kiadására.
 
 (11) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésével a KTI Nonprofit Kft. menetrend szerinti személyszállítással, közlekedési stratégiai és hálózat tervezéssel, forgalmi modellezéssel, elektronikus jegyrendszerrel, valamint utastájékoztatással kapcsolatos feladatai, tárgyi eszközei, vagyoni értékű jogai tulajdonjoga az országos közlekedésszervezőre, mint jogutódra szállnak át térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező és a KTI Nonprofit Kft. számára adó- és közteherfizetési kötelezettséget nem keletkeztet.
 
-(12) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésével az országos közlekedésszervező feladatainak teljesítése érdekében jogutódként átveszi a közvetlen vagy közvetett állami tulajdonú személyszállítási közszolgáltató társaságoktól a feladatok teljesítéséhez szükséges vagyonelemeket és egyéb erőforrásokat térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező és a személyszállítási közszolgáltató társaságok számára adó- és közteherfizetési kötelezettséget nem keletkeztet.
+(12)
 
 #### 36. Az Európai Unió jogának való megfelelés
 
@@ -1288,11 +1286,12 @@ vonatkozó önkormányzati rendelet kiadására.
 - a) az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv;
 - b) a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdése;
 - c) a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i 2016/2370 európai parlamenti és tanácsi irányelv
+- d) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 - a) az Európai Parlament és a Tanács 1370/2007/EK rendelete (2007. október 23.) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről;
-- b) az Európai Parlament és a Tanács 1371/2007/EK rendelete (2007. október 23.) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről,
+- b) az Európai Parlament és a Tanács (EU) 2021/782 rendelete (2021. április 29.) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről,
 - c) a 49. § (1) bekezdés d) pontja alapján kiadott jogszabállyal együttesen az Európai Parlament és a Tanács 181/2011/EU rendelete az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról, valamint
 - d) az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen az Európai Parlament és a Tanács 1073/2009/EK rendelete az autóbusszal végzett személyszállítás való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról,
 - e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
@@ -1301,15 +1300,21 @@ vonatkozó önkormányzati rendelet kiadására.
 
 #### 37. Módosító rendelkezések
 
-#### 53–54. §
+#### 53. §
+
+#### 54. §
 
 #### 55. §
 
-#### 56–57. §
+#### 56. §
+
+#### 57. §
 
 #### 38. Hatályon kívül helyező rendelkezések
 
-#### 58–59. §
+#### 58. §
+
+#### 59. §
 
 ### 1. melléklet a 2012. évi XLI. törvényhez
 

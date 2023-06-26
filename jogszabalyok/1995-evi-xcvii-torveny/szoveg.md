@@ -61,7 +61,7 @@ látja el.
 
 (3) A miniszter látja el – az általa kijelölt szervezet útján – a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
 
-(4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását – megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
+(4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását, valamint a légiutas-kísérők tanúsítványát – megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
 
 (4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
 
@@ -137,6 +137,7 @@ hatósági eljárásokban.
 - g) az állami légijármű és a pilóta nélküli állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
 - h) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
 - i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
+- j) a légiközlekedés-védelmi háttérellenőrzési eljárásban.
 
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
@@ -664,7 +665,7 @@ elkövetésének alapos gyanúja miatt büntetőeljárás hatálya alatt áll,
 
 (5) Ha a jó hírnév követelményét nem magyar állampolgárnak kell teljesítenie, kizáró oknak kell tekinteni a tevékenységi engedélynek – a (3) bekezdésben meghatározott okok alapján – az engedélyt kiadó országban történő elvesztését is.
 
-23/C. § (1) A légiközlekedési hatóság a gazdasági célú légiközlekedési tevékenység végzésére vagy a légiközlekedéssel összefüggő tevékenység végzésére engedélyt kérelemre annak a vállalkozási tevékenységet – ide nem értve a léginavigációs szolgáltatást – folytató természetes-, vagy jogi személynek adja ki, amely igazolja a megfelelő pénzügyi teljesítőképességét.
+23/C. § (1) A légiközlekedési hatóság a gazdasági célú légiközlekedési tevékenység végzésére, légi járművel végzett egyéb gazdasági tevékenység végzésére vagy a légiközlekedéssel összefüggő tevékenység végzésére engedélyt kérelemre annak a vállalkozási tevékenységet – ide nem értve a léginavigációs szolgáltatást – folytató természetes, jogi személynek vagy egyéb szervezetnek adja ki, amely igazolja a megfelelő pénzügyi teljesítőképességét.
 
 (2) E § alkalmazásában a pénzügyi teljesítőképesség abban az esetben tekinthető igazoltnak, ha a vállalkozási tevékenységet folytató természetes-, vagy jogi személy, vagy egyéb szervezet,
 
@@ -969,7 +970,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (4) Az (1) bekezdés b) pont bb) és bc) alpontjaiban meghatározott repülőterek létesítésére, fejlesztésére és megszüntetésére – az illetékes települési önkormányzat véleményének megkérésével – a honvédelemért felelős miniszter ad engedélyt.
 
-(5) A 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében, továbbá azon repülőterek esetében, ahol a tárgyévet megelőző év legforgalmasabb 6 hónapjának összesített műveletszáma meghaladja a 4500-at, legalább a repülőtér területét magába foglaló biztonsági és zajgátló védőövezetet vagy fokozottan zajos területet kell kijelölni.
+(5) Zajgátló védőövezetet kell kijelölni a 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében, továbbá azon repülőterek esetében, ahol a tárgyévet megelőző év legforgalmasabb 6 hónapjának összesített műveletszáma meghaladja a 4500-at.
 
 (6) A 2018/1139 EU európai parlamenti és tanácsi rendelet 33. cikkében meghatározott alapvető követelményeket alkalmazni kell azon repülőtérre, amely a 2018/1139 EU európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet kapott, és a közös felhasználású repülőtérre, amennyiben az ilyen repülőteret megnyitják a nyilvánosság számára.
 
@@ -1235,9 +1236,15 @@ köteles elhelyezni és karbantartani.
 
 (3a) A pilóta nélküli állami légijármű parancsnoka a pilóta nélküli állami légijármű kezelője.
 
-(4) A meghosszabbító vizsgák kivételével vizsgáztatóval együtt végzett vizsgarepülés során a légijármű parancsnoka a vizsgáztató, amennyiben kezelőszervekkel ellátott pilótaülésben foglal helyet. A meghosszabbító vizsgák során az 54. § (1) bekezdésében foglaltakat kell alkalmazni.
+(4) Egypilótás légijármű esetén a vizsgáztatóval együtt végzett vizsgarepülés során a légijármű parancsnoka a vizsgáztató.
 
-(5) Vizsgáztatóval együtt végzett vizsgarepülés során a vizsgázó a légijármű parancsnoka, amennyiben a vizsgáztató nem kezelőszervekkel ellátott ülésben foglal helyet.
+(5) A (4) bekezdéstől eltérően a légijármű parancsnoka a vizsgázó, ha
+
+- a) a vizsgáztató nem kezelőszervekkel ellátott ülésben foglal helyet,
+- b) a vizsga oktatói vagy vizsgáztatói jogosultság megszerzésére, meghosszabbítására vagy megújítására irányul, vagy
+- c) a vizsga jogosítás meghosszabbítására irányul.
+
+(6) Többpilótás légijármű esetén a vizsgáztatóval együtt végzett vizsgarepülés során az (1) bekezdésben foglaltakat kell alkalmazni.
 
 55. § (1) Motor nélküli légijárműnek motoros légijárművel való vontatásakor az egész vontatmány parancsnoka a motoros légijármű vezetője.
 
@@ -1615,7 +1622,7 @@ folytatja le.
 
 (5) A (3) bekezdésben meghatározott esetben az általános rendőrségi feladatok ellátására létrehozott szerv a védelmi ellenőrzés átvételéről határozatot hoz.
 
-(6) A repülőtér üzembentartója a légiközlekedés védelme érdekében, továbbá a (17) bekezdésben meghatározott védelmi háttérellenőrzés, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartása céljából, a repülőtérre repülőtéri belépőkártyát kapott személyek természetes személyazonosító adatait, lakcímét, az általuk választott kapcsolattartási formára vonatkozó adatot, a behajtáshoz használt gépjárművek adatait, a korábban bevont állandó repülőtéri belépőkártya bevonásának idejére és annak indokára vonatkozó adatokat, a belépőkártya kibocsátásától számított 5 évig kezeli.
+(6) A repülőtér üzembentartója a légiközlekedés védelme érdekében, továbbá a (12) bekezdésben meghatározott védelmi háttérellenőrzés, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartása céljából, a repülőtérre repülőtéri belépőkártyát kapott személyek természetes személyazonosító adatait, lakcímét, az általuk választott kapcsolattartási formára vonatkozó adatot, a behajtáshoz használt gépjárművek adatait, a korábban bevont állandó repülőtéri belépőkártya bevonásának idejére és annak indokára vonatkozó adatokat, a belépőkártya kibocsátásától számított 5 évig kezeli.
 
 (7) Az (1) bekezdésben meghatározott szervezetek és személyek légiközlekedés védelmével kapcsolatos tevékenységét a légiközlekedési hatóság és az általános rendőrségi feladatok ellátására létrehozott szerv, a Kormány által rendeletben meghatározottak szerint felügyeli és ellenőrzi.
 
@@ -1625,37 +1632,42 @@ folytatja le.
 
 (10) A felügyeleti díjat a légiközlekedési hatóság csak a légiközlekedés védelmével kapcsolatos feladatainak ellátásával összefüggésben használhatja fel.
 
-(11) A légiközlekedés védelme érdekében a 185/2010/EU európai parlamenti és bizottsági rendelet szerint védelmi háttérellenőrzésre vagy foglalkoztatást megelőző ellenőrzésre kötelezett személyeknél minden esetben védelmi háttérellenőrzést kell végezni.
+(11) A légiközlekedés védelme érdekében a 2015/1998 bizottsági végrehajtási rendelet szerint az ellenőrzésre kötelezett személyeknél védelmi háttérellenőrzést kell végezni.
 
-(12) A (11) bekezdésben meghatározott védelmi háttérellenőrzésre kötelezett személyeken kívül védelmi háttérellenőrzést kell végezni
+(12) A légiközlekedés védelme érdekében a 2015/1998 bizottsági végrehajtási rendelet Melléklet
 
-- a) a repülőtérnek a polgári légiközlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletben meghatározott szigorított védelmi területére (a továbbiakban: SRA),
-- b) a légiforgalmi irányító szolgálatot ellátó szervezet létesítménye légiközlekedés védelme szempontjából korlátozott hozzáférésű területére
+- a) 11.1.3. pont a) és c) alpontjában, valamint 11.1.4. pont a) és c) alpontjában megjelölt adatokat a légiközlekedés védelmében közreműködő szervezet,
+- b) 11.1.3. pont b) alpontjában és 11.1.4. pont b) alpontjában megjelölt adatokat az általános rendőrségi feladatokat ellátó szerv,
+- c) 11.1.3. pont d) alpontjában megjelölt adatokat a terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal
 
-rendszeres belépésre jogosító személyazonosító kártyát igénylő személy esetében is.
+kezeli.
 
-(13) A védelmi háttérellenőrzés a belépésre jogosultság fennállása, valamint a védelmi ellenőrző tevékenység végzésének időtartama alatt megismételhető.
+(12a) A légiközlekedési hatóság a védelmi háttérellenőrzés alá vont személy természetes személyazonosító adatait, valamint az általa lefolytatott hatósági eljárás során a (12) bekezdésben foglaltakkal összefüggésben tudomására jutott adatokat a védelmi háttérellenőrzésre kötelezett személy foglakoztatásának megszűnésétől számított 5 évig jogosult kezelni.
 
-(14) A (11) és (12) bekezdésben nem említett esetekben, az SRA-ra kíséret nélkül belépő vagy ott tartózkodó személyek ellenőrzését az általános rendőrségi feladatok ellátására létrehozott szerv végzi.
+(13) A (12) bekezdés b) és c) pontja szerinti szervek a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzés keretében történő megalapozott döntéshozatal érdekében adattovábbításra felhívhatják azt a szervet, intézményt, gazdasági szereplőt, amelynek a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzéssel érintett személy tekintetében a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont c) alpontja szerinti adatok rendelkezésére állnak. A megkeresésben kizárólag a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzés céljából szükséges adat továbbítása kérhető. Az adattovábbítást a megkeresésétől számított nyolc munkanapon belül kell teljesíteni. Az adattovábbításért ellenszolgáltatás nem kérhető.
 
-(15) Az SRA-ra és a légiforgalmi irányító szolgálatot ellátó szervezet létesítménye légiközlekedés védelme szempontjából korlátozott hozzáférésű területére belépő személy sikeres védelmi háttérellenőrzést követően vagy sikeres védelmi háttérellenőrzésen átesett személy kíséretével léphet be.
+(14) A (12) bekezdés b) és c) pontja szerinti szervek a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzés során ellenőrizhetik a kezelésükben lévő valamennyi olyan adatot, amely szükséges és alkalmas annak megállapítására, hogy a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzéssel érintett személy alkalmas olyan munkakörben dolgozni, amelynek előfeltétele a védelmi háttérellenőrzés elvégzése.
 
-(16) Az SRA-ra kizárólag utasként vagy kísérettel léphet be, továbbá a légiközlekedés területén – e törvény eltérő rendelkezése hiányában – nem foglalkoztatható és a repülőtér légi oldalára állandó belépési engedélyt nem kaphat
+(15) A (12) bekezdésben meghatározott szervezetek és szervek a védelmi háttérellenőrzés keretében általuk kezelt adatokat a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzésre kötelezett személy foglalkoztatásának megszűnésétől számított 5 évig megőrzik. A védelmi háttérellenőrzés a kötelezett személyekkel szemben a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.7. pont b) alpontjában meghatározott időtartamon belül is bármikor megismételhető.
 
-- a) aki büntetett előéletű,
-- b) az a külföldi állampolgár, aki a magyarországi tartózkodás szabályait megszegi, magyarországi tartózkodásának jogszerűségét hitelt érdemlően nem tudja igazolni, illetve aki a schengeni információs rendszerben körözés hatálya alatt áll,
-- c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség miatt büntetőeljárás hatálya alatt áll,,
-- d) aki ezzel nemzetbiztonsági érdeket sért,
-- e) aki esetében a védelmi háttérellenőrzést 5 évre visszamenőleg a hatóságok nem tudják végrehajtani.
+(16) Foglalkoztatást kizáró oknak minősül, ha a 2015/1998 bizottsági végrehajtási rendelet szerinti háttérellenőrzés alkalmával végrehajtott vizsgálat a következő tények valamelyikét állapítja meg a háttérellenőrzésre kötelezett személyről:
 
-(17) A rendőrség a légiközlekedés védelme és a védelmi háttérellenőrzés céljából jogosult kezelni és közvetlen hozzáféréssel átvenni a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás alatt állók nyilvántartásából, az idegenrendészeti nyilvántartásból és a schengeni információs rendszer körözési adatbázisából, valamint a repülőtér üzemben tartója által kiadott repülőtéri belépőkártyák, továbbá a személyek és gépjárművek repülőtéri mozgásának nyilvántartására szolgáló nyilvántartásból a (16) bekezdésben meghatározott feltételekre vonatkozó adatokat, valamint az arra vonatkozó adatokat, hogy az igazolás alanya nem áll-e a munkakörének megfelelő foglalkoztatástól eltiltás hatálya alatt
+- a) büntetett előéletű,
+- b) bűntett vagy három évi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség, továbbá a 2. mellékletben felsorolt bűncselekmények miatt folyamatban lévő büntetőeljárás hatálya alatt áll, annak jogerős befejezéséig,
+- c) vele szemben munkaköréből adódóan elzárással is büntethető szabálysértési eljárás van folyamatban,
+- d) a schengeni információs rendszerben és nemzeti körözési rendszerben körözött személyként szerepel,
+- e) külföldi állampolgárként a magyarországi tartózkodás szabályait megszegi, magyarországi tartózkodásának jogszerűségét hitelt érdemlően igazolni nem tudja,
+- f) az érintettel szemben a védelmi háttérellenőrzést 5 évre visszamenőleg a hatóságok nem tudják végrehajtani,
+- g) a személye vagy tevékenysége nemzetbiztonsági érdeket sért,
+- h) az érintettel szemben a légiközlekedés elleni jogellenes cselekménnyel kapcsolatos kockázati tényező merül fel,
+- i) terrorkockázati szempontból a légiközlekedés biztonságára fenyegetést jelent,
+- j) a vele szemben fennálló, törvényben nevesített kizáró okról a munkáltatójának nem tett bejelentést.
 
-- a) a (12) bekezdés a) pontjában meghatározott területre történő belépést megelőző, illetve azt követő ellenőrzés során,
-- b) annak ellenőrzése céljából, hogy a foglalkoztatott személy foglalkoztatására irányuló jogviszonya létesítésekor és annak fennállása alatt rendelkezik-e a feltételekkel.
+(17) A (16) bekezdés szerinti kizáró ok fennállása ellenére foglalkoztatható az a személy, akinek vonatkozásában a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzést végzők nemzetbiztonsági, bűnüldözési érdeket állapítanak meg.
 
-(18) A (17) bekezdés alapján átvett adatokat a rendőrség a légiközlekedés védelme és a közbiztonsági feltételek vizsgálatára irányuló ellenőrzés befejezéséig, az ellenőrzés során feltárt adatok alapján hivatalból indult eljárás esetén az eljárás végleges döntéssel történő befejezéséig kezelheti. A rendőrség a (17) bekezdésben meghatározott adatokat az SRA-ra történő belépés ellenőrzésének időtartamáig kezelheti. A légiközlekedési hatóság és a katonai légügyi hatóság az eljárásában a kizáró ok fennállásának tényére vagy hiányára vonatkozó adatokat kezelheti az eljárása végleges befejezéséig.
+(18) A más tagállamban sikeresen elvégzett, a 2015/1998 bizottsági végrehajtási rendelet szerinti háttérellenőrzés nem mentesíti a kérelmezőt a jogszabályok szerinti védelmi háttérellenőrzés alól, azonban annak adatai az e § szerinti védelmi háttérellenőrzés során figyelembe vehetők.
 
-(19) A rendőrség és az Alkotmányvédelmi Hivatal a (11) és (12) bekezdésben meghatározott védelmi háttérellenőrzés alapján felmerülő kizáró ok fennállásának tényéről vagy annak hiányáról az SRA-ra történő belépésre jogosító engedélyt kiállító szervet, szervezetet tájékoztatja.
+(19)
 
 (20) A védelmi ellenőrzést végzők vizsgáztatását az általános rendőrségi feladatok ellátására létrehozott szerv végzi.
 
@@ -1770,6 +1782,7 @@ rendszeres belépésre jogosító személyazonosító kártyát igénylő szemé
 - 54. állami szerv feladatának végrehajtása érdekében végzett UAS-művelet: pilóta nélküli légijárművel valamely állami szerv vagy közfeladatot ellátó szervezet feladatának végrehajtása érdekében, az állami szerv vagy közfeladatot ellátó szervezet által vagy annak megbízásából végzett tevékenység;
 - 55. gazdasági célú UAS-művelet: pilóta nélküli légijármű megrendelésre vagy saját célra történő, gazdasági tevékenységként végzett vagy gazdasági céllal összefüggő használata, ideértve különösen a filmforgatást, a sajtótermékek előállítását vagy a kereskedelmi célból végzett képfelvétel készítését;
 - 56. szabadidős célú UAS-művelet: pilóta nélküli légijármű kedvtelési célú, gazdasági célú használattal össze nem függő, és nem állami szerv feladatának végrehajtása érdekében végzett használata.
+- 57. légiközlekedés védelmében közreműködő szervezet: a 300/2008/EK európai parlamenti és tanácsi rendelet 3. cikk 3–6. pontjában felsorolt olyan vállalkozás vagy jogalany, amely a védelmi háttérellenőrzésre kötelezett személyt foglalkoztatja, illetve repülőtér esetében az állandó belépési engedélyt kibocsátja.
 
 #### 71/A. §
 
@@ -1873,7 +1886,7 @@ rendeletben állapítsa meg.
 - n) a miniszter, hogy a honvédelemért felelős miniszterrel – valamint az 5. § (1) bekezdés b) pont ba) alpontjában említett esetben a környezetvédelemért felelős miniszterrel is – egyetértésben a magyar légtérnek az 5. §-ban meghatározott részeit, azok típusait és igénybevételük rendjét,
 - o) a miniszter, hogy a földi kiszolgálás feltételeinek a részletes szabályait,
 - p)
-- q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (11) és (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
+- q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
 - r) a miniszter, hogy a nem gazdasági célú légiközlekedési tevékenységet ellátó légijármű fedélzetén hajózó személyzet, valamint a légiutas-kísérő repülési idejére vonatkozó szabályokat,
 - s) a miniszter, hogy a repülőrendezvényekre vonatkozó szabályokat,
 - t) a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a védelmi ellenőrzést végző személyek képzésének és vizsgáztatásának szabályait,
@@ -1888,7 +1901,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap
 
-- a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
+- a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
 - b) a miniszter, hogy a 19. § (1) bekezdésének a) és c) pontjában meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzembentartási engedély kiadásával, felfüggesztésével és visszavonásával összefüggő anyagi jogi szabályokat,
 - c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait,
 - d) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes anyagi jogi szabályait,
@@ -2068,3 +2081,51 @@ rendeletben állapítsa meg.
 | 5. | AFIS képzési szervezet éves felügyelete | 20 000 |
 | 6. | ATCO képzési szervezet éves felügyelete | 300 000 |
 | 7. | Nyelvismereti vizsgaközpont éves felügyelete | 100 000 |
+
+### 2. melléklet az 1995. évi XCVII. törvényhez
+
+#### Foglalkoztatást kizáró oknak minősülő bűncselekmények
+
+- 1. a Btk. 164. § (2) bekezdése szerinti testi sértés,
+- 2. a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása,
+- 3. a Btk. 181. § (1) bekezdése szerinti kóros szenvedélykeltés,
+- 4. a Btk. 183. § (2) bekezdése szerinti kábítószer-prekurzorral visszaélés,
+- 5. a Btk. 188. § (1) bekezdése szerinti méreggel visszaélés,
+- 6. a Btk. 205. § (1) bekezdése szerinti szeméremsértés,
+- 7. a Btk. 219. § (1) bekezdése szerinti személyes adattal visszaélés,
+- 8. a Btk. 220. § (1) bekezdése szerinti közérdekű adattal visszaélés,
+- 9. a Btk. 222. § (1) bekezdése szerinti zaklatás,
+- 10. a Btk. 225. § (1) bekezdése szerinti kiszolgáltatott személy megalázása,
+- 11. a Btk. 233. § (3) bekezdése szerinti vasúti, légi vagy vízi közlekedés veszélyeztetése,
+- 12. a Btk. 239. §-a szerinti cserbenhagyás,
+- 13. a Btk. 265. § (1) bekezdése szerinti minősített adattal visszaélés,
+- 14. a Btk. 271. § (1) bekezdése szerinti hatóság félrevezetése,
+- 15. a Btk. 279. § (1) bekezdése szerinti hatósági eljárás megzavarása,
+- 16. a Btk. 280. § (1) bekezdése szerinti igazságszolgáltatással összefüggő titoksértés,
+- 17. a Btk. 282. § (1) bekezdése szerinti bűnpártolás,
+- 18. a Btk. 287. § (1) bekezdése szerinti zártörés,
+- 19. a Btk. 323. § (5) bekezdése szerinti közérdekű üzem működésének megzavarása,
+- 20. a Btk. 339. § (1) bekezdése szerinti garázdaság,
+- 21. a Btk. 344. §-a szerinti biztonsági okmány hamisítása,
+- 22. a Btk. 345. §-a szerinti hamis magánokirat felhasználása,
+- 23. a Btk. 346. § (1) bekezdése szerinti okirattal visszaélés,
+- 24. a Btk. 352. §-a szerinti közbiztonsági tevékenység jogellenes szervezése,
+- 25. a Btk. 354. § (1) bekezdése szerinti jogellenes tartózkodás elősegítése,
+- 26. a Btk. 361. §-a szerinti járványügyi szabályszegés,
+- 27. a Btk. 370. § (1) bekezdése szerinti lopás,
+- 28. a Btk. 371. § (1) bekezdése szerinti rongálás,
+- 29. a Btk. 372. § (1) bekezdése szerinti sikkasztás,
+- 30. a Btk. 373. § (1) bekezdése szerinti csalás,
+- 31. a Btk. 374. § (1) bekezdése szerinti gazdasági csalás,
+- 32. a Btk. 376. § (1) bekezdése szerinti és (2) bekezdése szerint minősülő hűtlen kezelés,
+- 33. a Btk. 377. § (1) bekezdése szerinti hanyag kezelés,
+- 34. a Btk. 378. § (1) bekezdése szerinti jogtalan elsajátítás,
+- 35. a Btk. 390. § (1) bekezdése szerinti pénzhamisítás elősegítése,
+- 36. a Btk. 392. § (1) bekezdése szerinti készpénz-helyettesítő fizetési eszköz hamisítása,
+- 37. a Btk. 393. § (1) bekezdése szerinti készpénz-helyettesítő fizetési eszközzel visszaélés,
+- 38. a Btk. 394. § (1) bekezdése szerinti készpénz-helyettesítő fizetési eszköz hamisításának elősegítése,
+- 39. a Btk. 396. § (1) bekezdése szerinti költségvetési csalás,
+- 40. a Btk. 399. § (5) bekezdése, valamint a Btk. 400. § (1) bekezdése szerinti pénzmosás,
+- 41. a Btk. 413. § (1) bekezdése szerinti gazdasági titok megsértése,
+- 42. a Btk. 423. § (1) bekezdés szerinti információs rendszer vagy adat megsértése, valamint
+- 43. a Btk. 424. § (1) bekezdése szerinti információs rendszer védelmét biztosító technikai intézkedés kijátszása.
