@@ -42,7 +42,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - m) vízgyűjtő-gazdálkodási terv készítése;
 - n) az állami tulajdonú vízi utak fenntartásának, valamint fejlesztésének felügyelete;
 - o) a vízrajzi tevékenység ellátása;
-- p) a vízkészletek mennyiségi és minőségi számbavétele.
+- p) a vízkészletek mennyiségi és minőségi számbavétele, a vízkészletvédelmi országtérkép elkészítése és felülvizsgálata,
 - q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 - r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
 - s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.
@@ -58,6 +58,15 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 (3) Az (1) bekezdés c), d) és s) pontja szerinti feladatokat a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás alapján az érintett miniszterek közreműködésével látja el.
 
 (4) Az állam víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, a vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.
+
+2/A. § (1) A vízkészlet fenntartása és a jövő nemzedékek számára történő megőrzése érdekében a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttes feladata az ország területének vízkészletvédelmi szempontból történő vizsgálata tudományos és monitoringmódszerekkel, valamint e vizsgálat eredményeként a vízkészletvédelmi országtérkép elkészítése. A vízkészletvédelmi országtérkép meghatározza
+
+- a) a vízkészletvédelmi szempontból kockázatos területeket és
+- b) a vízkészletvédelmi szempontból kockázatmentes területeket.
+
+(2) A vízkészletvédelmi országtérképet az országos vízügyi igazgatási szerv készíti el, és legalább vízgyűjtő-gazdálkodási tervezési ciklusonként, illetve rendkívüli környezeti körülmények esetén szükség szerint tudományos és monitoringmódszerekkel felülvizsgálja. Ha a felülvizsgálat eredménye alapján az (1) bekezdés szerinti besorolás megváltoztatása szükséges, az országos vízügyi igazgatási szerv új vízkészletvédelmi országtérképet készít.
+
+(3) Az országos vízügyi igazgatási szerv a vízkészletvédelmi országtérképet, továbbá az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalóját a Hivatalos Értesítőben, valamint a vízügyi hatóság központi szervének honlapján történő közzététel érdekében a vízgazdálkodásért felelős miniszternek továbbítja. A vízgazdálkodásért felelős miniszter a vízügyi hatóság központi szerve útján intézkedik a vízkészletvédelmi országtérkép, valamint az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalójának közzétételéről.
 
 3. § (1) A vizekkel és a vízilétesítményekkel összefüggő állami feladatok körében az igazgatási tevékenységeket (a továbbiakban: vízügyi igazgatás) a vízügyi igazgatási szervek végzik.
 
@@ -936,7 +945,7 @@ csak írásban terjeszthető elő.
 - a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesítésért való felelősség nem őt terheli, vagy
 - b) a kivitelező személye nem ismert.
 
-(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki – a 45/N. § (3) bekezdésben meghatározott kivétellel – engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Vgtv.mód3.) hatálybalépését megelőzően felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezés iránti kérelmét 2023. december 31-ig előterjeszti.
+(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2023. december 31-ig kérelmezi vagy ha a vízjogi fennmaradási engedélyezési eljárást e törvény rendelkezései alapján nem kell lefolytatni.
 
 (8) Nem szabható ki vízgazdálkodási bírság
 
@@ -1395,6 +1404,8 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 
 (7f) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 3. § (2a) bekezdése szerinti feladatok ellátásának részletes szabályait.
 
+(7g) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a vízkészletvédelmi országtérkép, valamint a kockázati besorolás elkészítésének és felülvizsgálatának szakmai és eljárási szabályait.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
@@ -1527,6 +1538,10 @@ való megfelelést szolgálja.
 (3) Mentesül a 29. § (4) bekezdése szerinti vízgazdálkodási bírság megfizetése alól az (1) bekezdés szerinti mezőgazdasági öntözési célú kút üzemeltetője, ha a kút bejelentése a (2) bekezdés szerint megtörtént.
 
 (4) Az üzemeltető felelős azért, hogy a felszín alatti vizet – az e törvényben foglaltak figyelembevételével – csak olyan mértékben vegye igénybe, hogy a vízkivétel és a vízutánpótlódás egyensúlya minőségi károsodás nélkül megmaradjon, és teljesüljenek a vizek jó állapotára vonatkozó célkitűzések elérését biztosító követelmények. A vízügyi hatóság, valamint a felszín alatti vizek vagyonkezelője e kötelezettség betartását ellenőrizheti. Ha az üzemeltető vízhasználata veszélyezteti más engedélyezett vízhasználatok biztosítását vagy károsítja a felszín alatti vízkészleteket, a vízügyi hatóság hivatalból, vagy a felszín alatti vizek vagyonkezelőjének kezdeményezésére az üzemeltetőt a szükséges mértékben megelőző, valamint kárelhárító intézkedések megtételére kötelezi.
+
+45/P. § E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2023. évi LI. törvénnyel (a továbbiakban: Vgtv.mód4.) módosított 29. § (7) bekezdését a Vgtv.mód4. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+46. § A vízkészletvédelmi országtérképet, valamint az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalóját első alkalommal 2023. augusztus 31-ig kell közzétenni.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 
