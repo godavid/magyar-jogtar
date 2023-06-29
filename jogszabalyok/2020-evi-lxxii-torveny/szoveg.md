@@ -14,7 +14,7 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (4)
 
-2. §
+#### 2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
@@ -64,6 +64,18 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (2) A 3/F. § (3) bekezdése alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
+3/H. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – Budapest 36781/0/A/3 helyrajzi számú, állami tulajdonban álló ingatlan az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok elősegítése érdekében alapítói vagyoni juttatásként indulótőke növelése érdekében, ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerül.
+
+(2) Az (1) bekezdés szerinti ingatlan tulajdonjogát az Alapítvány terhekkel és kötelezettségekkel együtt szerzi meg.
+
+(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanban található, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Alapítvány tulajdonába kerülnek.
+
+(4) Az Alapítvány a tulajdonába adott ingatlant a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+3/I. § (1) A 3/H. § (1) bekezdése tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg.
+
+(2) 3/H. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási, művészeti alkotótevékenység körébe tartozó feladatok ellátását szolgáló, az 1. mellékletben felsorolt állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
@@ -96,13 +108,13 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3) A 8. § és a 9. § 2022. január 1-jén lép hatályba.
 
-7. § (1) Az 1. § (3) bekezdése, a 3/A. §, a 3/C. §, a 3/E. §, a 3/F. §, az 5. § (1) és (3) bekezdése és a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+7. § (1) Az 1. § (3) bekezdése, a 3/A. §, a 3/C. §, a 3/E. §, a 3/F. §, a 3/H. §, az 5. § (1) és (3) bekezdése és a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § (1) és (2) bekezdése és az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
 ### 1. melléklet a 2020. évi LXXII. törvényhez
 
@@ -136,3 +148,4 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 | 2 | Budapest | 8398/3 | 1/1 | kivett múzeum |
 | 3 | Budapest | 8398/2 | 1/1 | kivett beépítetlen terület |
 | 4 | Budapest | 7488 | 1/1 | kivett épület |
+| 5 | Budapest | 36781/0/A/3 | 1/1 | egyéb helyiség |

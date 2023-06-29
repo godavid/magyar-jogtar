@@ -30,6 +30,14 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 (4) Az ingatlant az Alapítvány a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladatai ellátása érdekében használja.
 
+2/B. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – a Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaságban az állam tulajdonában álló, 1. mellékletében foglalt táblázat 5. sora szerinti üzletrészt ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Ha az Alapítvány a tulajdonába adott, (1) bekezdés szerinti üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
+
+(3) Az (1) bekezdés szerinti tulajdonba adást 2023. július 31. napjáig kell teljesíteni.
+
+2/C. § A 2/B. §-ban meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki az üzletrész felett a tulajdonosi jogokat gyakorolja.
+
 #### 3. A Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatás
 
 3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, 2. mellékletben felsorolt ingatlanok (a továbbiakban: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítványnak a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Ügynökség) útján ellátott, KEKVA tv. 1. melléklete szerinti közfeladatai ellátásának elősegítése érdekében az Ügynökség tulajdonába kerülnek.
@@ -66,7 +74,7 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 5. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-6. § (1) Az 1. § (3) és (4) bekezdése, a 2. § (1) és (3) bekezdése, a 3. § (1), (1a), (3) és (5) bekezdése, a 4/A. § és a 4/C. §, az 1. melléklet és a 2. mellékletben foglalt táblázat 2–9., 11., 13–20. pontja, valamint a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+6. § (1) Az 1. § (3) és (4) bekezdése, a 2. § (1) és (3) bekezdése, a 2/B. §-a, a 3. § (1), (1a), (3) és (5) bekezdése, a 4/A. § és a 4/C. §, az 1. melléklet és a 2. mellékletben foglalt táblázat 2–9., 11., 13–20. pontja, valamint a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 2/A. §, 4. §, 4/B. §, a 2. mellékletben foglalt táblázat 10. és 12. pontja és a 3. melléklet az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
 
@@ -84,6 +92,7 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 | 2. | Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság | üzletrész 100%-a |
 | 3. | MANK Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság | üzletrész 100%-a |
 | 4. | Nemzeti Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság | üzletrész 100%-a |
+| 5 | Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaság | üzletrész 100%-a |
 
 ### 2. melléklet a 2021. évi XVI. törvényhez
 

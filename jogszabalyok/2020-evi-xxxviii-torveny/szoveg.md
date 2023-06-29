@@ -52,6 +52,18 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 3/E. § A 3/C. §-ban meghatározott intézkedések végrehajtása során az állam képviseletében a felsőoktatásért felelős miniszter jár el, aki 2022. december 20. napjától a 3/C. § szerinti társasági részesedés felett a tulajdonosi jogokat gyakorolja.
 
+3/G. § A KEKVA tv. 12. § (3) bekezdése szerinti felelős gazdálkodás keretei között az Alapítvány jogosult az e törvény alapján tulajdonába került társasági részesedéseket a kizárólagos tulajdonába vagy kizárólagos befolyása alá tartozó gazdasági társaság tulajdonába adni, kizárólag az ilyen célból történő elidegenítés esetén a KEKVA tv. 12. § (4) bekezdése nem alkalmazható.
+
+3/H. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló, a 4. mellékletben felsorolt állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek.
+
+(2) A 4. mellékletben meghatározott ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+
+(3) Az Alapítvány a tulajdonába adott ingatlanokat – az e §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány – a (4) bekezdésben foglalt kivétellel – a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(4) Ha a 4. mellékletben szereplő ingatlan a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező- és erdőgazdasági hasznosítású földterület, akkor a tulajdonosi joggyakorló a tulajdonátruházási szerződés megkötését megelőzően gondoskodik az ingatlan-nyilvántartásban kivett területként történő átminősítése iránt.
+
+3/I. § A 4. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 4. § (1) Az Nvtv. 13. § (3) bekezdésében valamint a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
@@ -66,11 +78,11 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 (6) Az 1. mellékletben meghatározott ingatlan, ingatlan tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
-5. § (1) A 4. § alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+5. § (1) A 4. § és 4/A. § alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(2) Az Egyetem a tulajdonába adott ingatlant, – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(2) Az Egyetem a tulajdonába adott ingatlant, – a 4. §-ban és 4/A. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
-(3) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+(3) A 4. § és 4/A. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 5/A. § Az Egyetem az 1. mellékletben foglalt táblázat 59. és 60. sorában meghatározott ingatlanon a Kiskúti Védelmi Központot érintő fejlesztések befejezéséig az Észak-dunántúli Vízügyi Igazgatóságnak térítésmentes használati jogot biztosít, amelynek feltételeit az Egyetem és az Észak-dunántúli Vízügyi Igazgatóság megállapodással kötelesek rendezni.
 
@@ -89,6 +101,8 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 #### 9. §
 
 10. § A 3/A. §, a 3/C. §, a 3/D. §, az 5. § (2) bekezdése, az 1. melléklet 6a., 59–61. sora, a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+11. § A 3/G. §, a 3/H. §, a 4/A. §, az 1. melléklet 63–65. sora és a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXVIII. törvényhez
 
@@ -180,3 +194,12 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 | 2 | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 100% |
 | 3 | HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 100% |
 | 4 | TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban | 100% |
+
+### 4. melléklet a 2020. évi XXXVIII. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 2 | PÉR | 052/2 | 1/2 | kivett repülőtér |

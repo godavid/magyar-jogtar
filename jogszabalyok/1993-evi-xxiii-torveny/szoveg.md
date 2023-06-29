@@ -42,7 +42,7 @@ a Nemzeti Kulturális Alapról
 
 (5) Ha az érintett az összeférhetetlenség fennállásáról valótlanul nyilatkozik vagy valótlan adatot szolgáltat, az Alap alelnöke javaslatot tesz a miniszternek a tisztségviselő visszahívására.
 
-2/B. § Az Alapot az Emberi Erőforrás Támogatáskezelő (a továbbiakban: kezelő szerv) kezeli. A kezelő szerv felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
+2/B. § Az Alapot a Nemzeti Kulturális Támogatáskezelő (a továbbiakban: kezelő szerv) kezeli. A kezelő szerv felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
 
 3. § Az Alap pótlólagos forrást biztosít a célja szerint megvalósítandó feladatokhoz.
 
@@ -71,9 +71,9 @@ a Nemzeti Kulturális Alapról
 
 (2) A pályázatkezelés ügyviteli részletszabályait a kezelő szerv vezetője szabályzatban állapítja meg.
 
-5/A. §
+#### 5/A. §
 
-5/B. §
+#### 5/B. §
 
 6. § Az állami adóhatóság megbízásából a kincstár a befolyt ötöslottó szerencsejáték játékadó összegének 90 százalékát havonta átutalja az Alap számlája javára. A kulturális adó esetében az állami adóhatóság megbízásából a kincstár a befolyt kulturális adó összegét naponta utalja át az Alap számlája javára.
 
@@ -149,12 +149,6 @@ rendeletben állapítsa meg.
 
 (2) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel megállapított 8. § (2) bekezdésében foglaltakat az e rendelkezés hatálybalépésekor folyamatban levő támogatási igények esetén is alkalmazni kell, amennyiben támogatási szerződés megkötésére még nem került sor.
 
-10/C. § (1) A Nemzeti Kulturális Alap Igazgatósága 2016. december 31-én, az Emberi Erőforrás Támogatáskezelőbe való beolvadással megszűnik.
-
-(2) A Nemzeti Kulturális Alap Igazgatósága állami vagy önkormányzati tulajdonban lévő ingó és ingatlan vagyonon fennálló vagyonkezelői joga 2017. január 1-jén, ingyenesen átszáll az Emberi Erőforrás Támogatáskezelőre.
-
-(3) A vagyonkezelői jog ingatlan-nyilvántartásba jogutódlás jogcímén történő bejegyeztetéséről – a Nemzeti Kulturális Alap Igazgatósága ingatlan-nyilvántartásban szereplő vagyonkezelői joga törlésének kezdeményezésével együtt – az Emberi Erőforrás Támogatáskezelő köteles legkésőbb 2017. február 1-jéig gondoskodni.
-
-(4) A vagyoni jogutódlással kapcsolatos részletes rendelkezéseket a felek közötti átadás-átvételi megállapodás rögzíti. Az átadás-átvételi megállapodás elválaszthatatlan mellékletét képezi az átadás-átvétel tárgyát képező ingatlanok azonosító adatokkal történő felsorolása, valamint ingó vagyontárgyak esetében az ingó vagyontárgyakról felvett teljes körű leltár.
+#### 10/C. §
 
 ### Melléklet az 1993. évi XXIII. törvényhez

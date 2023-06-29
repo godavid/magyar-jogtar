@@ -34,6 +34,8 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 - n) a 4. § (1) bekezdése szerinti szakrendszerek 1–6. mellékletben meghatározott adatai.
 - o) nyilvántartás jogcímének adata.
 
+2/A. § Az oktatási nyilvántartás működéséért felelős szerv az egészségügyi szolgáltatásra való jogosultság megállapítása céljából a természetes személy társadalombiztosítási azonosító jelét is kezeli az oktatási nyilvántartásban.
+
 3. § (1) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban az 1. § (2) bekezdés a) pontja szerinti azonosítás céljából a természetes személy alábbi adatait kezeli:
 
 - a) adóazonosító jel vagy
@@ -223,8 +225,8 @@ jogosult kérni.
 (5) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés g) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszer 5. melléklet szerinti adataiban történő változások követése, ellenőrzése céljából történő adatigényléshez az állami foglalkoztatási szervnek, a kincstárnak, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj, az örökbefogadói díj és a gyermekgondozási díj nyilvántartásáért felelős szervnek, az anyakönyvi nyilvántartás központi nyilvántartó szervének, a családtámogatási ügyben eljáró hatóságnak, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságnak és az adóhatóságnak megküldheti a nyilvántartott személyek adatait, ez alapján
 
 - a) az állami foglalkoztatási szerv a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
-- b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
-- c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony létesítésére és időtartamára, a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára, a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
+- b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak, az ápolási díjnak, a gyermekek otthongondozási díjának, a gyermeknevelési támogatásnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
+- c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony létesítésére és időtartamára, a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak, az ápolási díjnak, a gyermekek otthongondozási díjának, a gyermeknevelési támogatásnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára, a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 - d) az anyakönyvi nyilvántartás központi nyilvántartó szervétől a (volt) magyar állami ösztöndíjas hallgató gyermekének születési anyakönyvi kivonatára,
 - e) a családtámogatási ügyben eljáró hatóság a tartós betegség megállapításához szükséges, a fővárosi és vármegyei kormányhivatalnak vagy jogelődjének a tartós betegségre tekintettel megállapított magasabb összegű családi pótlék megállapításáról szóló határozatára, vagy ennek folyósításáról kiadott igazolására, vagy a tartós betegséget megállapító, a magasabb összegű családi pótlék igénybevételéhez szükséges érvényes és hatályos szakvéleményére, szakhatósági állásfoglalására; a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fb) alpontja szerinti állapotra, illetve a magasabb összegű családi pótlékra jogosultság tartós betegségére tekintettel való igazolására,
 - f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására
@@ -266,13 +268,15 @@ a pályakövetési rendszerbe – a Kormány rendeletében meghatározottak szer
 
 (5) A pályakövetési rendszerben nyilvántartott adatok személyazonosításra alkalmatlan módon dolgozhatók fel és hozhatók nyilvánosságra.
 
-6/B. § (1) A DPR célja a felsőoktatásban tanuló és végzett hallgatók munkaerőpiaci nyomonkövetése, a munkaerőpiacra lépésük korai szakaszának elemzése. A DPR Frissdiplomás Kutatás és Hallgatói Kutatás online kérdőíves kutatási moduljai a felsőoktatásért felelős miniszter által meghatározott személyes adatnak nem minősülő adatokat tartalmazzák.
+6/B. § (1) A DPR célja a felsőoktatásban tanuló, valamint végzett hallgatók munkaerőpiaci nyomonkövetése, a munkaerőpiacra lépésük korai szakaszának elemzése. A DPR Frissdiplomás Kutatás és Hallgatói Kutatás online kérdőíves kutatási moduljai a felsőoktatásért felelős miniszter által meghatározott személyes adatnak nem minősülő adatokat tartalmazzák.
 
 (2) A DPR Hallgatói Kutatás modulja esetében a kötelező intézményi adatszolgáltatás a jogviszonyban álló hallgatók, a Frissdiplomás Kutatás modulja esetében a vizsgált időszakot megelőző első és ötödik év között abszolutóriumot szerzettek körében egységes módszertannal és kérdőívvel végrehajtott önkéntes online kérdőíves vizsgálat alapján történik.
 
 (3)
 
 (4) Az online kérdőíves vizsgálatok eredményeit legalább évente rövidített összefoglaló formájában a felsőoktatási intézmény a honlapján nyilvánosságra hozza.
+
+(5) Az oktatási nyilvántartás működéséért felelős szerv az állami és magán felsőoktatási intézmények hatékony működéséhez, a közfeladatot ellátó közérdekű vagyonkezelő alapítványok keret-megállapodásaihoz, az egyházi felsőoktatási intézmények fenntartóival kötött közfeladat-finanszírozási szerződéshez szükséges adatszolgáltatás érdekében is üzemelteti az évente előállított DPR adatintegrációs modulját.
 
 #### 3/A. Az oktatási nyilvántartáshoz kapcsolódó egyéb adatkezelés
 
@@ -367,7 +371,7 @@ továbbíthatóak a Diákhitel Központnak.
 
 (16) A Felsőoktatási alkalmazotti személyi törzsből továbbítható – az érintetten kívül – a fenntartónak a fenntartói jogok gyakorlásához szükséges valamennyi adat; a Magyar Felsőoktatási Akkreditációs Bizottságnak a szakértői tevékenyég ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek az alkalmazottjával kapcsolatos adatok.
 
-(17) A Felsőoktatási felvételi alrendszerből a felsőoktatási intézménynek a hozzá jelentkező, illetve felvett személyre vonatkozó, az adott felsőoktatási intézmény képzésével kapcsolatos valamennyi adat továbbítható.
+(17) A Felsőoktatási felvételi alrendszerből a felsőoktatási intézménynek a hozzá jelentkező, illetve felvett személyre vonatkozó, a jelentkező által a felvételi kérelemben megjelölt jelentkezési helyre vonatkozó, a jelentkezési kérelem elbírálásához szükséges valamennyi adat és dokumentum továbbítható.
 
 (18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított három évig kezeli.
 
@@ -994,7 +998,7 @@ A felsőoktatási felvételi alrendszer a jelentkező alábbi személyes adatait
 
 IV. Hallgatói személyi törzs
 
-A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
+A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
 
 1. oktatási azonosító száma, adóazonosító jele,társadalombiztosítási azonosító jele,
 
@@ -1153,6 +1157,9 @@ A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása 201
 - 11. a visszatérítési kötelezettsége átvállalására vonatkozó jognyilatkozat adata,
 - 12. a költségmentességi kérelmének igazolására vonatkozó adat.
 - 13. örökbefogadói díj folyósításának időtartamára vonatkozó adat.
+- 14. ápolási díj folyósításának időtartamára vonatkozó adat,
+- 15. gyermekek otthongondozási díja folyósításának időtartamára vonatkozó adat,
+- 16. gyermeknevelési támogatás folyósításának időtartamára vonatkozó adat.
 
 ### 6. melléklet a 2018. évi LXXXIX. törvényhez
 

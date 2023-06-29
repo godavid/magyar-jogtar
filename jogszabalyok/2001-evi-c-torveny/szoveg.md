@@ -8,7 +8,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya a 4. § szerinti eljáró hatóságra, a 4/A. § szerinti segítségnyújtó központra, a 41. § szerinti előzetes ellenőrzést végző eljáró hatóságra, továbbá, állampolgárságra való tekintet nélkül, azon természetes személyekre terjed ki, akik külföldön vagy Magyarországon működő külföldi közoktatási vagy felsőoktatási intézményben, vagy képzést folytató más intézményben (a továbbiakban: külföldi oktatási intézményben) bizonyítványt vagy oklevelet szereztek.
+1. § (1) E törvény hatálya a 4. § szerinti eljáró hatóságra, a 4/A. § szerinti segítségnyújtó központra, a 41. § szerinti előzetes ellenőrzést végző eljáró hatóságra, valamint állampolgárságra való tekintet nélkül, azon természetes személyekre terjed ki, akik külföldön vagy Magyarországon működő külföldi közoktatási vagy felsőoktatási intézményben, vagy képzést folytató más intézményben (a továbbiakban: külföldi oktatási intézményben) bizonyítványt vagy oklevelet szereztek.
 
 (1a) E törvény hatálya a XI/B. Fejezetben foglaltak alkalmazása tekintetében kiterjed mindazon természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervekre és szervezetekre, amelyek szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó törvényi és egyéb jogszabályi rendelkezések, közjogi szervezetszabályozó eszközök (a továbbiakban együtt: rendelkezések) előkészítésében részt vesznek.
 
@@ -21,6 +21,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 (5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
 
 (6) E törvényt kell alkalmazni a szabályozott szakmákra vonatkozó arányossági értékelésre annak érdekében, hogy a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó, bevezetni tervezett rendelkezések, vagy a hatályos rendelkezésekhez fűzött módosítások alkalmasak legyenek az elérni kívánt cél megvalósításának biztosítására, és ne lépjék túl az adott cél eléréséhez szükséges mértéket.
+
+(7) E törvény rendelkezéseit a 6. § (4) bekezdésében meghatározott foglalkoztatók érdekkörében felmerült elismerési ügyekben a Kormány rendeletében foglalt eltérésekkel kell alkalmazni.
 
 ### Az elismerés és a honosítás alapelvei
 
@@ -90,7 +92,9 @@ közös eljárási szabályai
 
 (3) A tagállam állampolgárának nem minősülő, valamint az azzal azonos megítélés alá nem eső, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést – ha a (2) bekezdésben foglaltak teljesítésén túlmenően keresőtevékenység folytatása vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
 
-(4)
+(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha keresőtevékenység folytatása céljából a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló kormányrendeletben meghatározott kiemelt foglalkoztató által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a keresőtevékenység folytatása céljából kiadott tartózkodási engedélyt bemutatja.
+
+(5) Az eljáró hatóság megszünteti a (4) bekezdés szerinti eljárást, ha a kérelmező az elismerési eljárás kezdő napját követő 90 napon belül nem nyújtja be a keresőtevékenység folytatása céljából szükséges vízumot, és nem kéri az eljárási határidő meghosszabbítását. Az eljárási határidő kérelemre 30 nappal meghosszabbítható.
 
 7. § (1) Ha a kérelmező által benyújtott okiratok valódisága tekintetében kétség merül fel, vagy a kérelmező az oklevél elismeréséhez vagy honosításához szükséges okiratokkal nem rendelkezik, és azok az eljáró hatóság megítélése szerint általa nem, vagy nehezen szerezhetők be, az eljáró hatóság megkeresést intézhet az illetékes külföldi intézményhez, szervezethez vagy hatósághoz. A Harmadik rész hatálya alá tartozó eljárások kivételével, ha olyan külföldi bizonyítvány vagy oklevél jogi hatályát kell megállapítani, amelyet valamely, a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt (a továbbiakban: Lisszaboni Egyezmény) magára nézve kötelezőnek elismerő államban [13. § (1) bekezdés] állítottak ki, az eljáró hatóság a megkeresést a Lisszaboni Egyezmény IX.2. Cikke szerinti külföldi információs központhoz intézi.
 
@@ -231,6 +235,8 @@ közös eljárási szabályai
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a külföldi tudományos fokozat honosítását feltételekhez (doktori szigorlat, a doktori értekezés megvédése stb.) kötheti.
 
+(2a) Az eljáró hatóság a 14/A. § (4) bekezdés a) pontjában foglaltaktól eltekinthet, amennyiben a tudományos fokozat honosítására foglalkoztatási célból kerül sor.
+
 (3) Az eljáró hatóság a tudományos fokozat honosításáról rendelkező határozatban feljogosítja a kérelmezőt a doktori cím használatára.
 
 ### IV. Fejezet — AZ ALAPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS ÉS A KÖZÉPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS, ILLETVE SZAKKÉPZETTSÉG ELISMERÉSE
@@ -270,6 +276,8 @@ közös eljárási szabályai
 (4) Az (1) bekezdés rendelkezéseitől eltérően a külföldi oklevél által tanúsított szakképzettség a hazai osztatlan mesterképzésben megszerezhető szakképzettségként ismerhető el, ha a külföldi oklevél végzettségi szintje a hazai felsőoktatási intézményben megszerezhető alapfokozat végzettségi szintjével egyenértékű, feltéve, hogy a külföldi képzés legalább ötéves időtartamú.
 
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.
+
+(6) A kérelmező kérheti külföldi csecsemő- és kisgyermeknevelői, óvodapedagógus, tanítói és tanári oklevele által tanúsított szakképzettsége elismerését olyan módon is, hogy az egy adott nemzetiségi vagy idegen nyelven való oktatásra, illetve nevelésre jogosítsa fel.
 
 19. § (1) Az eljáró hatóság az oklevél elismeréséről rendelkező határozatában a kérelmezőt feljogosítja a megfelelő hazai szakmai cím viselésére.
 
@@ -997,9 +1005,10 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 67. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat,
-- b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették, továbbá
+- b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették,
 - c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
 - d) közzétegye az 53/A. § (1) bekezdése szerinti szakmai tevékenységek felsorolását, kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása, megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
+- e) állapítsa meg a 6. § (4) bekezdésében meghatározott foglalkoztatók érdekkörében felmerült elismerési ügyekre az e törvényben foglaltaktól eltérő rendelkezéseket, valamint az általuk foglalkoztatottak tevékenységére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a felsőoktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
