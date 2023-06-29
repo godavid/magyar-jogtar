@@ -3299,6 +3299,8 @@ a) klímavédelmi célú alapítványtól származó, az alapítvány céljainak
 
 b) a COVID-19 vírus járványban elhunytak hozzátartozóit segítő alapítványtól származó, az alapítvány céljainak megvalósítása érdekében adott juttatás.
 
+  - c) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32/A. §-a szerinti alapítványtól származó, az alapítvány céljainak megvalósítása érdekében nyilvánosan meghirdetett ösztöndíj- és támogatási program keretében, a pályázati feltételeknek megfelelő juttatás;
+
 3.9. a magánszemély részére kifizetett azon összeg, amelyet ösztöndíj címén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladatának ellátásával összhangban folyósít.
 
 4. Egyes tevékenységekhez kapcsolódóan adómentes:

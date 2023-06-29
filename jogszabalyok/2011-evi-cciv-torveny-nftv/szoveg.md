@@ -129,7 +129,7 @@ jogosult folytatni.
 
 (8) Diákotthon alapítója egyházi vagy magán felsőoktatási intézmény lehet, valamint az, aki felsőoktatási intézményt alapíthat.
 
-(9) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a diákotthon minimális létesítési és működési feltételeit.
+(9) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a diákotthon és a kollégium minimális létesítési és működési feltételeit.
 
 9. § (1) A felsőoktatási intézmény egyetem vagy főiskola lehet.
 
@@ -181,7 +181,7 @@ jogosult folytatni.
 - f) az e törvényben foglaltak szerint meghatározza és közzéteszi a hallgatói jogviszony létesítésének követelményeit (a továbbiakban: felvételi követelmények),
 - g) működése során biztosítja, hogy feladatainak végrehajtásában közreműködők a hallgatókkal, az oktatókkal és a felsőoktatásban dolgozókkal kapcsolatos döntéseik meghozatala során az egyenlő bánásmód és az egyenlő esélyű hozzáférés követelményét megtartsák.
 
-(2) A felsőoktatási intézménynek az alaptevékenységéhez igazodóan biztosítania kell egészségfejlesztést is beleértve a rendszeres testmozgás és sporttevékenység megszervezését, a könyvtári szolgáltatást, a tudásalapú gazdasághoz kapcsolódó pénzügyi- és vállalkozói-, az anyanyelvi, szaknyelvi ismeretek fejlesztését, lehetőséget kell teremtenie az idegen nyelvi szaknyelvi ismeretek fejlesztésére.
+(2) A felsőoktatási intézménynek az alaptevékenységéhez igazodóan biztosítania kell testi és lelki egészségfejlesztést is beleértve a rendszeres testmozgás és sporttevékenység megszervezését, a könyvtári szolgáltatást, a tudásalapú gazdasághoz kapcsolódó pénzügyi- és vállalkozói-, az anyanyelvi, szaknyelvi ismeretek fejlesztését, lehetőséget kell teremtenie az idegen nyelvi szaknyelvi ismeretek fejlesztésére.
 
 #### 6. A felsőoktatási intézmény felépítése
 
@@ -414,9 +414,13 @@ folytathat tevékenységet.
 
 17. § (1) A felsőoktatásban a képzés, a képzési és kimeneti követelményekben foglaltak szerint megszervezhető teljes idejű képzésként, részidős képzésként, továbbá távoktatásként. A teljes idejű képzés félévenként legalább kettőszáz, doktori képzés esetén legalább negyven tanórából vagy ennek megfelelő zárt rendszerű elektronikus távolléti oktatásból áll.
 
-(2) A teljes idejű képzést a nappali képzés munkarendje szerint heti öt napból álló tanítási hét keretében, a munkanapokon kell megszervezni. E rendelkezéstől a felsőoktatási intézmény hallgatói önkormányzatának egyetértésével el lehet térni. A teljes idejű képzés duális képzésként is megszervezhető.
+(2) A teljes idejű képzést a nappali képzés munkarendje szerint heti öt napból álló tanítási hét keretében, a munkanapokon kell megszervezni. E rendelkezéstől a felsőoktatási intézmény hallgatói önkormányzatának egyetértésével el lehet térni.
 
 (3) A részidős képzés lehet esti vagy levelező képzés munkarendje szerint szervezett képzés. A részidős képzés időtartama – kivéve a szakirányú továbbképzést – a teljes idejű képzés tanóráinak legalább harminc, legfeljebb ötven százaléka lehet. A szakirányú továbbképzés időtartama a teljes idejű képzés tanóráinak legalább húsz, legfeljebb ötven százaléka lehet.
+
+(4) A felsőoktatási intézmény az (1) bekezdésben foglalt minimum tanóraszámtól a doktori képzés tekintetében a doktori szabályzatában eltérhet, azzal, hogy szigorúbb követelményt nem határozhat meg.
+
+(5) A képzés duális képzésként is megszervezhető.
 
 ### V. Fejezet — ADATKEZELÉS A FELSŐOKTATÁSI INTÉZMÉNYEKBEN, A FELSŐOKTATÁS INFORMÁCIÓS RENDSZERE
 
@@ -501,7 +505,7 @@ nélkülözhetetlenül szükséges személyes és különleges adatokat tartja n
 
 (2) A jogutód nélküli megszűnés esetén a vagyon a felsőoktatási intézmény fenntartóját illeti meg.
 
-(3) Az oktatási hivatal a felsőoktatási intézmény átalakulásával kapcsolatos végleges határozatát a Kormány által meghatározottak szerint, továbbá a miniszter által vezetett minisztérium honlapján közhírré teszi.
+(3)
 
 ## HARMADIK RÉSZ — A FELSŐOKTATÁSBAN ALKALMAZOTTAK
 
@@ -795,7 +799,7 @@ címet adományozhat.
 
 (4) A felvételre jelentkező egy felvételi eljárásban kormányrendeletben meghatározott számú jelentkezést nyújthat be. Amennyiben ugyanazon szakra magyar állami (rész)ösztöndíjjal támogatott és önköltséges képzési formára egyaránt jelentkezik, az egy jelentkezésnek minősül.
 
-(4a) A hallgató és a felsőoktatási intézmény további hallgatói jogviszonyt létesíthet a központi felvételi eljáráson kívül is mesterképzési szakkal párhuzamos képzésben felvett tanárszakra.
+(4a) A hallgató és a felsőoktatási intézmény további képzési jogviszonyt létesíthet a központi felvételi eljáráson kívül is mesterképzési szakkal párhuzamos képzésben felvett tanárszakra.
 
 (4b) A hallgató a felsőoktatási intézményben az alapképzési szakjának megfelelő tanárszakon tanulmányokat folytathat, ekkor a 49. § (2) bekezdésében foglalt, a szabadon választható tárgyak mennyiségére vonatkozó korlátozást nem kell alkalmazni.
 
@@ -813,6 +817,7 @@ címet adományozhat.
 - b) feltétele lehet meghatározott szintű nyelvtudás,
 - c) feltétele lehet egészségügyi –, szakmai –, pályaalkalmassági vizsgálat,
 - d) feltétele lehet gyakorlati vizsga teljesítése.
+- e) feltétele lehet a felsőoktatási intézmény döntése alapján felvételi vizsga sikeres teljesítése.
 
 (3) A felvételi eljárást megelőzően legalább két évvel a miniszter a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzéteszi:
 
@@ -826,6 +831,8 @@ címet adományozhat.
 (5) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 
 (6) Doktori képzésre az vehető fel, aki a mesterképzésben szerzett fokozattal és szakképzettséggel, valamint a doktori iskola szabályzatában meghatározott, a tudományterület műveléséhez szükséges idegen nyelvismerettel rendelkezik.
+
+(6a) A felsőoktatási intézmény a (6) bekezdéstől eltérően a kivételes tehetségű jelentkezőt alapképzésben szerzett fokozattal és szakképzettséggel – párhuzamosan a mesterképzéssel – felveheti doktori képzésre is. A felsőoktatási intézmény az ilyen felvételi döntés feltételéül előírja, hogy a jelentkező tegyen sikeres felvételi vizsgát, és emellett igazolja, hogy kiemelkedő tanulmányi, tudományos és nyelvi ismeretekkel rendelkezik.
 
 (7) A mesterképzésre, a szakirányú továbbképzésre és a doktori képzésre történő felvétel további feltételeit a felsőoktatási intézmény határozhatja meg, azzal a megkötéssel, hogy azonos felvételi követelményeket köteles alkalmazni, függetlenül attól, hogy a jelentkező mely felsőoktatási intézményben szerezte az oklevelét.
 
@@ -860,9 +867,9 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 41/D. § (1) A felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntésről határozatot hoz, egyéb döntés esetében végzést bocsát ki. A döntéseket kormányrendeletben meghatározott módon kell közölni.
 
-(2) A besorolási döntés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elérhetőségét, személyes azonosítására szolgáló adatokat, az érdemi döntést, a döntés alapjául szolgáló jogszabályokról való tájékoztatást, a döntés helyét, idejét, kiadmányozója aláírását. A besorolási döntés indokolásának tartalmaznia kell a jelentkező valamennyi jelentkezésére vonatkozóan a számított pontszámát, valamint tájékoztatni kell a jelentkezőt a jogorvoslati lehetőségekről.
+(2) A besorolási döntés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elektronikus elérhetőségét, személyes azonosítására szolgáló adatokat, az érdemi döntést, a döntés alapjául szolgáló jogszabályokról való tájékoztatást, a döntés helyét, idejét, kiadmányozója aláírását. A besorolási döntés indokolásának tartalmaznia kell a jelentkező valamennyi jelentkezésére vonatkozóan a számított pontszámát, valamint tájékoztatni kell a jelentkezőt a jogorvoslati lehetőségekről.
 
-(3) A végzés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elérhetőségét, személyes azonosítására szolgáló adatokat, a döntést, a döntés helyét, idejét, valamint a jogorvoslatról szóló tájékoztatást.
+(3) A végzés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elektronikus elérhetőségét, személyes azonosítására szolgáló adatokat, a döntést, a döntés helyét, idejét, valamint a jogorvoslatról szóló tájékoztatást.
 
 (4)
 
@@ -898,6 +905,8 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 41/G. § Az eljárás során igazolási kérelem nem terjeszthető elő.
 
 41/H. § (1) A jelentkező – jogszabálysértésre hivatkozással – a döntés ellen a döntés közlésétől számított tizenöt napon belül közigazgatási pert indíthat.
+
+(1a) Perbe kell állítani a felsőoktatási intézményt alperesként, ha az (1) bekezdés szerinti közigazgatási per a felsőoktatási intézmény döntését is érinti.
 
 (2) A keresetlevél alapján a felsőoktatási információs rendszer működéséért felelős szerv az általános közigazgatási rendtartásról szóló törvény 115. § (1) és (2) bekezdésében foglaltak szerint módosíthatja vagy visszavonhatja a döntését.
 
@@ -1002,7 +1011,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (2a)
 
-(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
+(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének egy részét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
 
 (4) A miniszter évente − a 39. § (5) és (6) bekezdésében megállapított keretek között − határozattal állapítja meg azt, hogy mely, a felsőoktatási intézmények által folytatott szakos képzésen vehető igénybe magyar állami (rész)ösztöndíj. A határozatot Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzé kell tenni.
 
@@ -1043,7 +1052,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 - c) azt a félévet sem, amelyet tanulmányai folytatásánál a felsőoktatási intézmény a megszűnt intézményben befejezett félévekből nem ismert el,
 - d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a), b) és d) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
 - e) azt a félévet, amelyet a hallgató a 39. § (4a) bekezdése szerint felvett tanári mesterszakon vett igénybe, továbbá
-- f) a nem tanári osztatlan vagy mesterképzési szakkal párhuzamos képzésben vagy a nem tanári osztatlan vagy mesterképzési szakot követően felvett tanári mesterszakon, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
+- f) a 2, 3, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
 
 (7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
@@ -1095,6 +1104,8 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (4) Amennyiben a hallgató olyan képzésen folytat tanulmányokat magyar állami (rész)ösztöndíjjal támogatott formában, melyet az adott intézmény önköltséges formában nem indított, a (2) bekezdésben meghatározott számításokat az adott képzésre más intézményekben megállapított költségek közül a legalacsonyabb figyelembevételével kell elvégezni.
 
+(5) Amennyiben a felsőoktatási intézmény a fogyatékossággal élő hallgató támogatási idejét a 47. § (4) bekezdésében foglaltak szerint kedvezményes félévekkel megnövelte, a hallgatónak a 48/A. § a) pontja szerinti, az adott képzéshez kapcsolódó oklevélszerzési határideje a kedvezményes félévekkel meghosszabbodik. A kedvezményes féléveket az oklevélszerzési határidő számításakor a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv azon magyar állami ösztöndíjas képzések esetében veszi figyelembe, amelyek esetében a kedvezményes féléveknek a felsőoktatási információs rendszerbe történt bejelentésének idején a 48/A. § a) pontja szerinti oklevélszerzési határidő még nem járt le, továbbá, ha a kedvezményes féléveknek a felsőoktatási információs rendszerbe történt bejelentését követően jött létre a magyar állami ösztöndíjas képzés.
+
 48/D. § (1)
 
 (2) Az állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkező a beiratkozáskor, az ilyen képzésre átsorolt hallgató az átsorolást követő első bejelentkezéskor nyilatkozik a képzés feltételeinek vállalásáról.
@@ -1135,7 +1146,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 48/L. § A hazai munkaviszony időtartamába beleszámít
 
-- a) a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozást segítő ellátás és a gyermekgondozási díj folyósításának időtartama,
+- a) a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozást segítő ellátás, a gyermekgondozási díj, az ápolási díj, a gyermekek otthongondozási díja, a gyermeknevelési támogatás folyósításának időtartama,
 - b) az az időszak, amely alatt a volt magyar állami (rész)ösztöndíjas hallgató részére álláskeresési járadékot folyósítottak.
 
 48/M. § (1) A volt magyar állami (rész)ösztöndíjas hallgatónak nem kell teljesítenie a 48/A. § a) pontjában meghatározott feltételt, a 48/A. § b) pont szerint fennálló, még nem teljesített kötelezettséget, illetve a 48/A. § c) pont alapján fennálló még nem teljesített kötelezettséget, ha három gyermeket szül.
@@ -1145,7 +1156,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 - a) felsőoktatási szakképzés, illetve osztott képzés esetén legfeljebb egy félévig,
 - b) osztatlan képzés esetén legfeljebb két félévig
 
-folytatott tanulmányokat magyar állami (rész)ösztöndíjjal támogatott képzésben és szakváltásra nem került sor.
+folytatott tanulmányokat magyar állami (rész)ösztöndíjjal támogatott képzésben.
 
 48/N. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató – 48/A. § a) pontjában meghatározott határidőt megelőzően benyújtott – kérelmére a 48/A. § a) pontja alapján meghatározott feltétel teljesítésének felfüggesztését engedélyezi
 
@@ -1165,7 +1176,7 @@ tekintettel.
 
 (2) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § b)–d) pontja alapján meghatározott feltételt vagy annak egy részét teljesítettnek tekinti, ha a hallgató a kötelezettségét megváltozott munkaképességére tekintettel, tartós betegsége, balesete, szülés, kettő vagy több gyermek nevelésére tekintettel vagy más váratlan ok miatt, önhibáján kívül nem képes teljesíteni.
 
-(3) A (2) bekezdésben a gyermeknevelésre vonatkozó kedvezményt a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv ugyanazon gyermekekre tekintettel csak az egyik szülő számára engedélyezi.
+(3)
 
 48/P. § (1) Amennyiben a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat véglegessé válását követő harminc napon belül kell megfizetni (esedékesség).
 
@@ -1189,6 +1200,8 @@ részletfizetést engedélyez.
 (2) A fizetési kötelezettség az esedékességet megelőzően is teljesíthető.
 
 (3) A részletfizetés ideje alatt megvalósuló – 48/M. § (1) bekezdés, illetve 48/O. § szerinti – körülmény, a mentesség megállapításának időpontjában még fennálló kötelezettség teljesítésére vonatkozik.
+
+(4) Az (1) bekezdés szerinti részletfizetési kedvezményt havi részletekben kell megállapítani, azzal, hogy a havi részlet összege legalább tízezer forint.
 
 48/R. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a visszatérítési kötelezettség összegét megállapító végleges határozatot a magyar államot megillető igény érvényesítéséhez szükséges adatokkal együtt megküldi az állami adóhatóságnak a visszatérítendő összeg behajtása érdekében, ha a véglegesen megállapított visszatérítési kötelezettséget a volt magyar állami (rész)ösztöndíjas hallgató vagy a 48/P. § (3) bekezdése szerint azt tőle átvállaló személy az átvállalt összeg erejéig határidőre nem teljesíti.
 
@@ -1234,6 +1247,8 @@ vehessen fel.
 esetében.
 
 (8) A fogyatékossággal élő hallgató részére biztosítani kell a fogyatékossághoz igazodó felkészítést és vizsgáztatást, továbbá segítséget kell nyújtani részére ahhoz, hogy teljesíteni tudja a hallgatói jogviszonyából eredő kötelezettségeit. Indokolt esetben mentesíteni kell egyes tantárgyak, tantárgyrészek tanulása vagy a beszámolás kötelezettsége alól. Szükség esetén mentesíteni kell az idegen szaknyelvi ismeretek tudásmérése vagy annak egy része, illetve szintje alól. A tudásmérés során biztosítani kell a hosszabb felkészülési időt, az írásbeli beszámolón lehetővé kell tenni a segédeszköz – így különösen írógép, számítógép – alkalmazását, szükség esetén az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását. Az e bekezdés alapján nyújtott mentesítés kizárólag a mentesítés alapjául szolgáló körülménnyel összefüggésben biztosítható és nem vezethet az oklevél által tanúsított szakképzettség megszerzéséhez szükséges alapvető tanulmányi követelmények alóli felmentéshez.
+
+(9) A (8) bekezdés rendelkezéseit a 40. § (6) bekezdése és az 53. § (5) bekezdés b) pontja szerinti idegen nyelvi követelményekre, valamint a doktori képzésre alkalmazni kell.
 
 49/A. § A felsőoktatási intézmény gondoskodik az adott szakon szerezhető szakképzettség gyakorlásához szükséges idegen szaknyelvi ismeretek oktatásáról, a tanterv részeként biztosítja a feltételeket ahhoz, hogy a hallgató megszerezhesse a tantervben meghatározott, az adott szakon szerezhető szakképzettség gyakorlásához szükséges idegen szaknyelvi ismereteket. A felsőoktatási intézmény a tantervben foglaltak szerint biztosítja a tudásmérés lehetőségét a hallgató részére és értékeli az idegen szaknyelvi ismeretek megszerzését. A felsőoktatási intézmény a tantervben meghatározhat az idegen szaknyelvi ismeretként elfogadható államilag elismert nyelvvizsgát vagy más nyelvtudásmérést.
 
@@ -1582,8 +1597,8 @@ a felsőoktatással összefüggő tevékenységét,
 
 - a) közhiteles nyilvántartást vezet a felsőoktatási intézmények alapító okiratában, valamint az oktatási nyilvántartásról szóló törvényben meghatározott személyes – valamint jogszabályban meghatározott személyes adatnak nem minősülő egyéb – adatokról,
 - b) dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről,
-- c) nyilvántartásba veszi a Felsőoktatási Tervezési Testületet, a Magyar Rektori Konferenciát, a MAB-ot, és a Hallgatói Önkormányzatok Országos Konferenciáját, a Doktoranduszok Országos Szövetségét, az Országos Tudományos Diákköri Tanácsot, az Országos Doktori Tanácsot, továbbá
-- d) vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását.
+- c) nyilvántartásba veszi a Felsőoktatási Tervezési Testületet, a Magyar Rektori Konferenciát, a MAB-ot, és a Hallgatói Önkormányzatok Országos Konferenciáját, a Doktoranduszok Országos Szövetségét, az Országos Tudományos Diákköri Tanácsot, az Országos Doktori Tanácsot,
+- d) vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, továbbá
 
 (2) Az oktatási hivatal látja el a felsőoktatási intézmények, a közösségi felsőoktatási képzési központok nyilvántartásba vételével, tevékenységének megkezdésével és módosításával, a nyilvántartásban bekövetkezett változások vezetésével, a nyilvántartásból való törlésével kapcsolatos hatósági feladatokat.
 
@@ -1939,6 +1954,8 @@ egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szin
 
 (2b) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
 
+(2c) A (2) bekezdés h) pontjában meghatározott egészségügyi alkalmassági vizsgálat elrendelése esetén az ösztöndíjprogram lebonyolító szerve, az ösztöndíjprogram megvalósításában részt vevő felsőoktatási vagy egyéb képző intézmények, valamint az ösztöndíjprogram működéséért felelős szakmai felügyeleti szerv (e § alkalmazásában a továbbiakban együtt: adatkezelők) az ösztöndíjra pályázó, illetve az ösztöndíjban részesülő személy egészségügyi alkalmassági vizsgálata céljából a pályázati eljárásban való részvétel és az ösztöndíj elnyerése érdekében a benyújtott pályázat benyújtásától az ösztöndíjas jogviszony megszűnéséig kezeli az ösztöndíjra pályázó és az ösztöndíjban részesülő személynek az egészségügyi alkalmassági vizsgálat elvégzéséhez szükséges személyes adatait. Az adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó, illetve az ösztöndíjas e bekezdésben meghatározott adatait.
+
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 
 (4) A kedvezménytörvény hatálya alatt álló – külföldi felsőoktatási intézménnyel hallgatói jogviszonyban álló – személy magyar felsőoktatási intézményben magyar állami (rész)ösztöndíjjal támogatott képzés keretében alkalmanként legfeljebb fél évig tartó részképzésben vehet részt.
@@ -2011,7 +2028,7 @@ egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szin
 
 (2) Az állami támogatás célja
 
-- a) a hallgatói juttatások,
+- a) a hallgatói juttatások, gyermekét nevelő hallgatók támogatása,
 - b) a felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének
 - c) nemzetgazdasági, térségfejlesztési feladatok ellátásának,
 - d) egyes további közfeladatok ellátásának
@@ -2675,7 +2692,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 - 1a. doktori értekezés: a doktorandusz által készített írásmű, alkotás vagy munka, amellyel bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
 - 1b. duális képzés: a műszaki, informatika, agrár, természettudomány, egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, diakónia és szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
 - 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
-- 2a. egyetemi kórház: az az egészségügyi szolgáltató, amely az egészségügyi felsőoktatási intézmény szervezeti egységeként az Eütv. alapján a működési engedélyében meghatározott ellátási területen és progresszivitási szinten járó- és fekvőbetegek diagnosztikus és terápiás szakorvosi ellátását, rehabilitációt és követéses gondozást, valamint a működési engedélyében meghatározott egyéb egészségügyi szolgáltatásokat végez, valamint közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő gyakorlati képzési és kutatási feladatok ellátásában;
+- 2a.
 - 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
 - 4. felmenő rendszer: képzésszervezési elv, amely alapján az új vagy módosított tanulmányi és vizsgakövetelményt azokra a hallgatókra lehet érvényesíteni, akik a bevezetését követően kezdték meg tanulmányaikat, illetve ha azt a felsőoktatási intézmény szabályzata lehetővé teszi, azokra, akik azt megelőzően kezdték meg tanulmányaikat, de választásuk alapján az új vagy módosított tanulmányi és vizsgakövetelmények alapján készülnek fel;
 - 4a. felsőoktatási kutatás-fejlesztési vállalkozási tevékenység: államháztartáson kívülről származó bevételből, megrendelés alapján vagy együttműködés keretében az állami felsőoktatási intézmény alaptevékenységként végzett, a tudományos kutatásról, fejlesztésről és innovációról szóló törvény 3. § 6. pontjában meghatározott innovációs és 11. pontjában meghatározott kutatás-fejlesztési tevékenységek, továbbá ezek résztevékenységei;
@@ -2887,7 +2904,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (3) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 46. § (3) bekezdését és 48/C. § (2) bekezdését a 2013 szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, felsőoktatási szakképzésre, szakirányú továbbképzésre, valamint az azt követő évfolyamokra felvett hallgatók tekintetében kell alkalmazni.
 
-(4) A doktori képzésre évente felvehető magyar állami ösztöndíjjal támogatott létszám 2000 fő.
+(4) A doktori képzésre évente felvehető magyar állami ösztöndíjjal támogatott létszám legalább 2000 fő.
 
 114/B. § E törvénynek az Európai Unió Bírósága C-66/18. számú ügyben hozott ítéletének végrehajtása érdekében a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2021. évi LIV. törvénnyel megállapított 76. § (1), (5), (5a) és (5b) bekezdése és 77. § (1)–(4) bekezdése alapján a magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézmények működési engedélyét az oktatási hivatal 2023. december 31-ig felülvizsgálja. A felülvizsgálat eredményeként az oktatási hivatal határozatában a feltételeknek nem megfelelő külföldi felsőoktatási intézmény magyarországi működési engedélyét visszavonja azzal, hogy a már megkezdett képzések változatlan feltételek mellett kifutó rendszerben – de legkésőbb a 2026/2027-es tanévben – fejezhetők be.
 
@@ -2912,7 +2929,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 - a)–b)
 - c) bármely szakon költségtérítéses képzésből az intézmény döntése alapján, az intézménynél már meglévő államilag finanszírozott helyre átvett hallgató a kilépett hallgató képzési idejéből még hátralévő időtartamban.
 
-114/E. § (1) E törvénynek az egyes törvényeknek az egyetemi kórházak létrehozásával, fenntartásával és működésével kapcsolatos módosításáról szóló 2016. évi CXIII. törvénnyel (a továbbiakban: Tv.) megállapított 97. és 97/A. §-ára, 98. § (1), (2) és (4) bekezdésére, 99. §-ára, 108. § 2a. és 22. pontjára tekintettel az egészségügyi felsőoktatási intézmények az irányítási hatáskörök átruházását követő 60 napon belül módosítják szervezeti és működési szabályzatukat.
+114/E. § (1)
 
 (2) A Tv. hatálybalépését megelőző napon orvos- és egészségtudományi központként működő egészségügyi szolgáltató a Tv. hatálybalépésének napjával klinikai központként működik tovább, ami nem érinti a központ vezetője megbízásának a fennállását. A Tv.-vel megállapított 99. § (2) bekezdésében meghatározott személyi képesítési és megbízási feltételeket a klinikai központ vezetője tekintetében első alkalommal a Tv. hatálybalépését követően meghirdetett pályázat alapján létesített vezetői megbízásra kell alkalmazni.
 
@@ -2994,7 +3011,7 @@ a Módtv5.-tel módosított 51. § (1) bekezdését azzal az eltéréssel kell a
 
 (5) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 12. § (7) bekezdés e) pontja alapján 2019. június 30-ig a szenátust meg kell választani.
 
-(6) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 28. § (1a) bekezdése alkalmazása során azon tanársegédeket, akik 2018. szeptember 1-jéig megfelelnek a foglalkoztatási követelményrendszerben meghatározott feltételeknek és doktori fokozattal legalább három éve rendelkeznek, legkésőbb 2018. szeptember 1-jén adjunktusi munkakörbe kell átsorolni.
+(6)
 
 (7) E törvénynek – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2017. évi XXV. törvénnyel (a továbbiakban: Módtv2.) megállapított – 9. § (2a) és (2b) bekezdésében, 76. § (1) és (1a) bekezdésében meghatározott feltételeket – föderatív állam esetében annak központi kormányzatával létrejött előzetes megállapodás kivételével – a 2017. szeptember 1-jén magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézménynek 2019. január 1-jéig kell teljesíteni. Föderatív állam esetén az ennek alapjául szolgáló előzetes megállapodást 2018. augusztus 31-éig kell megkötni. A feltételeket nem teljesítő külföldi felsőoktatási intézmény működési engedélyét az oktatási hivatal visszavonja és 2019. január 1-jét követően a külföldi felsőoktatási intézmény magyarországi képzésének első évfolyamára hallgató nem vehető fel azzal, hogy a 2019. január 1-jén már megkezdett magyarországi képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2021/2022-es tanévben – fejezhetők be.
 
@@ -3024,7 +3041,7 @@ a Módtv5.-tel módosított 51. § (1) bekezdését azzal az eltéréssel kell a
 
 (20) A Zsigmond Király Főiskola 2016. augusztus 1. napjától Zsigmond Király Egyetem megnevezéssel működik.
 
-(21) A (17)–(19) bekezdés alapján létesített felsőoktatási intézmény tekintetében a konzisztórium alakuló üléséig a 13/A–13/D. §-t olyan módon kell alkalmazni, hogy a konzisztórium egyetértési jogosultságait a kancellári hatáskörben eljárni jogosult személy gyakorolja.
+(21)
 
 (22) 2017. február 1-jétől
 
@@ -3076,7 +3093,7 @@ megnevezéssel működik.
 
 (5) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2016. évi CXXVI. törvénnyel megállapított – 52. § (6) bekezdése alapján az európai és nemzetközi üzleti jog, a kodifikátor és az összehasonlító állam- és jogtudományok mesterképzési szakon vagy a mesterfokozatot eredményező jogászképzésre épülő szakirányú továbbképzésben oklevelet szerzettek – az oklevél kiállításának időpontjától függetlenül – a „Legum Magister” vagy „Master of Laws” (rövidítve: LL. M.) cím használatára jogosultak.
 
-(6) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 28. § (1) bekezdés b) pontját, valamint 31. § (2) és (3) bekezdését a 2015. augusztus 31-én adjunktusi munkakört betöltők tekintetében 2018. szeptember 1-jétől kell alkalmazni.
+(6)
 
 (7) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 31. § (5) bekezdés a) pontja alapján a felülvizsgálatot, ellenőrzést a munkáltató első alkalommal 2016-ban folytatja le.
 
@@ -3088,7 +3105,7 @@ megnevezéssel működik.
 
 (11)
 
-(12) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 24. § (6) bekezdése alapján a 2016. január 1-jét követő időszakra vonatkozó minősítésre tekintettel lehet vezetői illetménypótlékot megállapítani.
+(12)
 
 117. § (1)
 
@@ -3108,7 +3125,7 @@ megnevezéssel működik.
 
 117/A. § (1)–(3)
 
-(4) E törvénynek – az egyes oktatási tárgyú törvények módosításáról szóló 2014. évi XXXVI. törvénnyel megállapított – 37. § (3) bekezdését az egyes oktatási tárgyú törvények módosításáról szóló 2014. évi XXXVI. törvény hatálybalépését követően adott magasabb vezetői megbízások tekintetében kell alkalmazni.
+(4)
 
 (5) E törvénynek – az egyes oktatási tárgyú törvények módosításáról szóló 2014. évi XXXVI. törvénnyel megállapított – 71. § (1) és (4) bekezdése alapján a Magyar Kereskedelmi és Iparkamara által delegált tag megbízása 2018. február 28-ig, a Hallgatói Önkormányzatok Országos Konferenciája által delegált tag megbízása 2016. február 29-ig terjedő időszakra történik. A megjelölt határnapot követően a Magyar Kereskedelmi és Iparkamara, valamint a Hallgatói Önkormányzatok Országos Konferenciája a 71. § (4) bekezdésében meghatározottak szerint jogosult tagot delegálni azzal, hogy a MAB tagjaként 2018. február 28-ig, illetve 2016. február 29-ig teljesített megbízást a hosszabbítás szempontjából figyelembe kell venni.
 
@@ -3147,7 +3164,7 @@ kell érteni.
 
 (4a) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény fenntartóváltás napját megelőző fordulónappal az államháztartási számviteli szabályok szerinti záró beszámolót készít, azzal hogy a záró beszámolót megalapozó könyvviteli zárlat során az aktív és a passzív időbeli elhatárolásokat nem kell kivezetni. Az általános és kizárólagos jogutód felsőoktatási intézmény a fenntartóváltás napján nyitó mérleget köteles készíteni, amelybe az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény záró beszámolója mérlegében kimutatott vagyoni elemeket azok jellegének, és a záró beszámoló mérlegében bemutatott könyv szerinti értékének megfelelően veszi fel azzal, hogy a saját tőkén belül a nemzeti vagyon induláskori értéke jegyzett tőkeként, a nemzeti vagyon változásai és az egyéb eszközök induláskori értéke és változásai tőketartalékként, a mérleg szerinti eredmény és a felhalmozott eredmény eredménytartalékként veendő fel a nyitómérlegbe.
 
-(4b) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan ingyenes vagyonjuttatásként kapott eszközöket – ide nem értve a (4c) bekezdésben foglalt pénzeszközöket – nyilvántartási értéken mint bekerülési értéken a tőketartalékkal szemben köteles a könyveibe felvenni. Azon eszközöknél, amelyekhez a jogelődnél részben vagy egészben halasztott bevétel kapcsolódott, az ingyenes vagyonjuttatásként történő átvételt a jogelőd könyveiben halasztott bevételként megjelenő összeg erejéig a tőketartalék helyett a halasztott bevételekkel szemben kell elszámolni. A vagyonjuttatásként történő átvételkor azon tárgyi eszközök és immateriális javak esetében, amelyeket a jogelődnél 2014. január 1-jét megelőzően szereztek be, az eszközök vagyonjuttatáskori bekerülési értékének megfelelő összegben a tőketartalék terhére halasztott bevétel képezhető azzal, hogy azok a felsőoktatási intézmények, amelyek esetében 2020. december 31. napját megelőzően kerültek közérdekű vagyonkezelő alapítvány fenntartásába, 2021. január 1-jén élhetnek az érintett eszközök nettó értékének megfelelő összegben a halasztott bevétel tőketartalék terhére történő felvételével.
+(4b) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan és azt követően a későbbiekben a közfeladata ellátásához a (4c) bekezdésben foglalt pénzeszközök kivételével ingyenes állami vagyonjuttatásként kapott eszközöket – ide nem értve a 117/K. §-ban foglaltakat – az átadó tulajdonosi joggyakorló könyveiben szereplő könyv szerinti értéken mint bekerülési értéken a tőketartalékkal szemben köteles a könyveibe felvenni. Azon eszközöknél, amelyekhez a jogelődnél részben vagy egészben halasztott bevétel kapcsolódott, az ingyenes vagyonjuttatásként történő átvételt a jogelőd könyveiben halasztott bevételként megjelenő összeg erejéig a tőketartalék helyett a halasztott bevételekkel szemben kell elszámolni. A vagyonjuttatásként történő átvételkor azon tárgyi eszközök és immateriális javak esetében, amelyeket a jogelődnél 2014. január 1-jét megelőzően szereztek be, az eszközök vagyonjuttatáskori bekerülési értékének megfelelő összegben a tőketartalék terhére halasztott bevétel képezhető azzal, hogy azok a felsőoktatási intézmények, amelyek esetében 2020. december 31. napját megelőzően kerültek közérdekű vagyonkezelő alapítvány fenntartásába, 2021. január 1-jén élhetnek az érintett eszközök nettó értékének megfelelő összegben a halasztott bevétel tőketartalék terhére történő felvételével.
 
 (4c) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan a jogelőd felsőoktatási intézmény által az állami fenntartó útján a jogutód felsőoktatási intézmény részére átadott pénzeszközt az eredménytartalékkal szemben köteles a könyveibe felvenni.
 
@@ -3226,6 +3243,26 @@ vonatkozó szabályait kell alkalmazni.
 117/I. § (1) E törvénynek a Módtv5.-tel megállapított 47. § (6) bekezdés e) pontját a 2020/21. tanév őszi félévétől megkezdett párhuzamos tanárképzésekre kell alkalmazni.
 
 (2) E törvénynek a Módtv5.-tel megállapított 47. § (6) bekezdés f) pontját a 2022/23. tanév őszi félévétől megkezdett tanárképzésekre kell alkalmazni.
+
+117/J. § (1) E törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel (a továbbiakban: Módtv6.) megállapított 40. § (2) bekezdés e) pontját, 41/D. § (2) és (3) bekezdését, valamint 41/H. § (1a) bekezdését a 2024. évi általános felsőoktatási felvételi eljárásban kell először alkalmazni.
+
+(2) E törvénynek a Módtv6.-tal megállapított 47. § (6) bekezdés f) pontját a képzésüket a 2023/2024. tanévben kezdőkre kell először alkalmazni.
+
+117/K. § (1) Az Országos Kórházi Főigazgatóság fenntartásában működő egészségügyi szolgáltató költségvetési szerv [a továbbiakban az (1)–(7) bekezdés alkalmazásában: beolvadó egészségügyi szolgáltató] azon fenntartóváltásának következtében, amelynek eredményeként a költségvetési szervként megszűnő, beolvadó egészségügyi szolgáltató fenntartója egy közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott közhasznú felsőoktatási intézmény lesz, a felsőoktatási intézmény általános és kizárólagos jogutódja a költségvetési szervként megszűnő, beolvadó egészségügyi szolgáltatónak mindazon jogok és kötelezettségek tekintetében, amelyek nem kizárólag költségvetési szervként működő egészségügyi szolgáltató által gyakorolható jogosultságok és kötelezettségek.
+
+(2) Az (1) bekezdés szerinti fenntartóváltással érintett beolvadó egészségügyi szolgáltató a fenntartóváltás (beolvadás) napját megelőző fordulónappal az államháztartási számviteli szabályok szerinti záró beszámolót készít azzal, hogy a záró beszámolót megalapozó könyvviteli zárlat során az aktív és a passzív időbeli elhatárolásokat nem kell kivezetni.
+
+(3) Az általános és kizárólagos jogutód felsőoktatási intézmény a fenntartóváltás napján a fenntartóváltással érintett beolvadó egészségügyi szolgáltató záróbeszámolójának a mérlegét köteles a számvitelről szóló 2000. évi C. törvény közhasznú felsőoktatási intézményre irányadó szabályai szerint készítendő mérlegének megfelelő struktúrába átrendezni, azzal, hogy a beolvadó egészségügyi szolgáltató megszűnő vagyonkezelési szerződésében foglalt állami tulajdonban lévő eszközök kivételével a zárómérlegben szereplő eszközöket és a kötelezettségeket jellegüknek megfelelően egy rendező mérlegbe rendezi. A zárómérlegben szereplő aktív és passzív időbeli elhatárolások az állami tulajdonban lévő vagyonkezelt eszközökhöz tartozó, a beolvadó egészségügyi szolgáltató vagyonkezelési szerződésének megszűnésével együtt a tulajdonosi joggyakorló felé átadandó halasztott bevételek mint passzív időbeli elhatárolások kivételével teljeskörűen felveendők a rendező mérlegbe.
+
+(4) A rendező mérlegbe a saját tőkén belül a zárómérlegben kimutatott nemzeti vagyon induláskori értéke jegyzett tőkeként, a mérleg szerinti eredmény és a felhalmozott eredmény eredménytartalékként veendő fel. A költségvetési szervként megszűnő egészségügyi szolgáltató zárómérlegében szereplő nemzeti vagyon változásai és az egyéb eszközök induláskori értéke és változásai az állami tulajdonban lévő vagyonkezelt eszközök és a kapcsolódó halasztott bevételek összegével csökkentett értéküknek megfelelően tőketartalékként veendők fel a rendező mérlegbe.
+
+(5) A felsőoktatási intézmény a (3) és (4) bekezdés szerinti rendező mérlegben szereplő eszközöket és forrásokat a folyó könyvvezetés keretében köteles a könyveibe felvenni.
+
+(6) Az (1) bekezdés szerinti felsőoktatási intézménynél a vagyonjuttatás keretében ingyenesen kapott vagyon elszámolása során a 117/C. § (4b) és (4c) bekezdését kell alkalmazni.
+
+(7) Az (1) bekezdés szerinti felsőoktatási intézmény abban az esetben, ha a (4)–(6) bekezdésben foglaltak végrehajtását követően negatív tőketartalék keletkezik, akkor ennek összegét köteles legkésőbb a (4)–(6) bekezdés végrehajtását követő első üzleti évi számviteli beszámolójának mérlegében az eredménytartalék terhére megszüntetni, továbbá az ezt követően kimutatott negatív eredménytartalék összegét a fenntartó ezirányú döntése alapján a jegyzett tőke terhére részben vagy egészen megszüntetheti.
+
+(8) Amennyiben az Országos Kórházi Főigazgatóság fenntartásában működő egészségügyi szolgáltató költségvetési szerv – ekként való továbbműködése mellett – egészségügyi szakellátási feladatot ad át egy közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott közhasznú felsőoktatási intézmény fenntartásában működő klinikai központnak, akkor a feladatátadáshoz kapcsolódó ingyenes vagyonjuttatás keretében kapott vagyon elszámolása során a 117/C. § (4b) és (4c) bekezdését kell alkalmazni.
 
 #### 71. Az Európai Unió jogának való megfelelés
 

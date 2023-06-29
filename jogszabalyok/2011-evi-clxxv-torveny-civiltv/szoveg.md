@@ -633,7 +633,9 @@ tevékenységet folytathat.
 - b) a közhasznú tevékenység érdekében felmerült költségek, ráfordítások elérik az összes ráfordítás felét a két év átlagában, vagy
 - c) közhasznú tevékenységének ellátását tartósan (két év átlagában) legalább tíz közérdekű önkéntes tevékenységet végző személy segíti a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvénynek megfelelően.
 
-(6) A beszámoló adatai alapján minden letétbe helyezés alkalmával a közhasznú jogállás nyilvántartásba vételére illetékes szerv megvizsgálja az (1) bekezdés szerinti feltételek teljesülését. Ha az (1) bekezdés szerinti feltételek nem teljesülnek, a szervezet közhasznú jogállását a bíróság megszünteti és az erre vonatkozó adatot a nyilvántartásból törli.
+(6) A beszámoló adatai alapján minden – a 30. § szerinti – letétbe helyezés alkalmával a közhasznú jogállás nyilvántartásba vételére illetékes szerv megvizsgálja az (1) bekezdés szerinti feltételek teljesülését. Ha az (1) bekezdés szerinti feltételek nem teljesülnek, a szervezet közhasznú jogállását a bíróság megszünteti és az erre vonatkozó adatot a nyilvántartásból törli.
+
+32/A. § E törvény erejénél fogva közhasznú jogállásúnak minősül a köztársasági elnök által a megbízatásának időtartama alatt alapított, az e törvény szerinti közcélú tevékenység végzése céljára létrehozott alapítvány.
 
 33. § A közhasznú szervezetté minősíthető szervezet közhasznú jogállását a közhasznú szervezetként való nyilvántartásba vétellel szerzi meg (a továbbiakban: közhasznúsági nyilvántartásba vétel).
 
@@ -1173,7 +1175,9 @@ rendeletben szabályozza.
 
 (15) A Nemzeti Civil Alapprogram terhére kötött támogatási szerződés alapján visszafizetett vagy más jogcímen bevételként elszámolt összeget a (10) bekezdés szerinti feladatok ellátására kell fordítani és az a 73. § (2) bekezdés a) pontja szerinti Alapkezelőt illeti.
 
-(16)–(17)
+(16) A 32/A. § szerinti alapítvány közhasznú jogállását a nyilvántartó bíróság az e törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel megállapított 32/A. §-a hatálybalépését követő 60 napon belül benyújtott kérelemre jegyzi be a nyilvántartásba.
+
+(17)
 
 (18)
 
