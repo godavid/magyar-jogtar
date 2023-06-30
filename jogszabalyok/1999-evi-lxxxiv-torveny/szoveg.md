@@ -642,6 +642,8 @@ A NYILVÁNTARTÁSBÓL
 
 vonatkozó adatairól.
 
+(3d) A nyilvántartó a 9. § (1), (2) és (4) bekezdésben, a 9/A. § (1) bekezdés e) pontjában, valamint a 9/B. § (1) bekezdés h) pontjában meghatározott adatok térítésmentes, informatikai adatkapcsolat útján történő közvetlen átadását biztosítja a jármű tulajdonjogának és az üzembentartó személyének változását igazoló teljes bizonyító erejű magánokirat Automatikus Közigazgatási Döntéshozatali szolgáltatás igénybevételével történő létrehozásához szükséges ellenőrzéséhez és az automatikus döntéshozatali eljárás lefolytatásához.
+
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 
 - a) kérje írásos hozzájárulását ahhoz, hogy a kérelemben felsorolt adatait a kérelmező rendelkezésére bocsáthassa, vagy

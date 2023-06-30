@@ -44,6 +44,7 @@ A postai szolgáltatások fejlődése és liberalizációja, az Európai Unió j
 - 19. időgarantált szolgáltatás: a postai szolgáltató kötelezettségvállalása, amellyel a postai küldemény meghatározott időtartamon belüli vagy meghatározott időpontban történő kézbesítésére vállal kötelezettséget;
 - 20. kézbesítés: azon tevékenység, amely során a postai küldemény a postai szolgáltató hálózatából, illetve személyes felügyelet alól az átvételre jogosult személy részére történő átadással vagy levélszekrénybe, továbbá egyéb, a küldemény kézbesítésére alkalmas eszközbe történő elhelyezéssel kikerül;
 - 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
+- 21a. kézbesítést lehetővé tevő automatizált eszköz: olyan, a postai szolgáltató vagy a 4. § b) pontja szerinti saját kézbesítést ellátó szervezet fizikai jelenléte nélkül üzemelő eszköz, amely megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozóan megállapított feltételeknek és követelményeknek, és ezzel lehetővé teszi a személyes átadással kézbesítendő postai küldemény kézbesítését vagy a küldemény 4. § b) pontja szerinti saját kézbesítését.
 - 22. könyvelt küldemény: olyan postai küldemény, amelynek a postai szolgáltató a felvételét – írásban vagy más bizonyítható módon –, valamint a jogosult átvevő részére történő kézbesítését – az erre szolgáló okiraton, vagy a kézbesítés tényét rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával – a feladó irányában elismeri;
 - 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;
 - 24. levélküldemény: az a postai küldemény, amely írásos formában megjelenített, vagy fizikai adathordozón rögzített egyedi vagy személyes jellegű közlést, adatot vagy információt tartalmaz;
@@ -112,7 +113,7 @@ lehet.
 (2) Az egyetemes postai szolgáltatásnak az (1) bekezdésben foglaltaknak és a 14–17. §-ban meghatározott követelményeknek megfelelően nyújtott, a 8. §-ban meghatározott postai szolgáltatásoktól eltérő, az alábbi postai küldeményekkel kapcsolatos szolgáltatások minősülnek:
 
 - a) a kettő kilogrammot meg nem haladó tömegű, – a b)–d) pontban meghatározott küldeményektől eltérő – belföldi vagy nemzetközi viszonylatú nem könyvelt postai küldemények;
-- b) a húsz kilogrammot meg nem haladó tömegű, belföldi vagy nemzetközi viszonylatú postacsomagok;
+- b) a tíz kilogrammot meg nem haladó tömegű, belföldi vagy nemzetközi viszonylatba feladott postacsomagok;
 - c) a vakok írását tartalmazó, belföldi vagy nemzetközi viszonylatú küldemények;
 - d) a hivatalos iratok.
 
@@ -329,12 +330,12 @@ szerződést nem köthet. A postai szolgáltató a már megkötött szerződése
 
 (2) Az egyetemes postai szolgáltatás keretében a postai küldemények felvételét és kézbesítését minden településen biztosítani kell.
 
-(3) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatási kötelezettség teljesítéséhez szükséges hálózatát köteles úgy szervezni, hogy a felvételi pontok – ide nem értve a postai támpontokat és a levélgyűjtő szekrényeket – ne legyenek légvonalban 5 km-nél távolabb a lakosság 95%-ától és légvonalban 10 km-nél távolabb a lakosság 99,5%-ától.
+(3)
 
 (4) Az egyetemes postai szolgáltató
 
 - a) településenként legalább egy kézbesítési ponton,
-- b) huszonötezernél nagyobb – bejelentett lakóhellyel rendelkező – népességszámú településeken huszonötezer lakosonként legalább egy kézbesítési ponton
+- b) harmincezernél nagyobb – bejelentett lakóhellyel rendelkező – népességszámú településeken harmincezer lakosonként legalább egy kézbesítési ponton
 
 köteles – a személyes kézbesítés sikertelensége esetén a jogosult átvevő részére történő rendelkezésre tartásával – a levélküldemény és a hivatalos irat kézbesítését lehetővé tenni.
 
@@ -552,7 +553,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 35. § (1) A postai szolgáltatás nyújtása során teljesíteni kell a jogszabályokban, az Egyetemes Postai Közszolgáltatási Szerződésben, az általános szerződési feltételekben, valamint a szolgáltatási engedélyben meghatározott vagy a bejelentésben vállalt feltételeket, továbbá teljesíteni kell a jogszabályokban előírt, valamint a postai szolgáltató által a postai szolgáltatási szerződésben vállalt kötelezettségeket.
 
-(2) A postai szolgáltatások és az azokkal kapcsolatos ügyfélszolgálati, panaszkezelési tevékenységek igénybevételét a postai szolgáltatók kötelesek magyar nyelven a felhasználók számára biztosítani, továbbá kötelesek magyar nyelven, közérthetően megfogalmazni és rendelkezésre bocsátani a postai szolgáltatások nyújtásával kapcsolatosan a felhasználók számára meghirdetett általános szerződési feltételeket, szerződésmintákat, a szolgáltatás igénybevételéhez szükséges nyomtatványokat, valamint egyéb tájékoztatókat.
+(2) A postai szolgáltatók a postai szolgáltatások és az azokkal kapcsolatos ügyfélszolgálati, panaszkezelési tevékenységek igénybevételét kötelesek magyar nyelven a felhasználók számára biztosítani, továbbá kötelesek magyar nyelven, közérthetően megfogalmazni és elektronikus úton elérhetővé tenni a postai szolgáltatások nyújtásával kapcsolatban a felhasználók számára meghirdetett általános szerződési feltételeket, szerződésmintákat, valamint egyéb tájékoztatókat és nyomtatványokat. A postai szolgáltatók a szolgáltatás igénybevételéhez szükséges nyomtatványokat papíralapon is kötelesek rendelkezésre bocsátani.
 
 (3) Belföldi forgalomban az egyetemes és az egyetemes postai szolgáltatást helyettesítő szolgáltatás esetében a levélküldemények legalább 97%-át a feladást követő ötödik munkanap végéig kézbesíteni kell vagy kézbesítését meg kell kísérelni. Az egyetemes postai szolgáltatást helyettesítő szolgáltatások vonatkozásában a postai szolgáltató az általános szerződési feltételeiben köteles az elveszett, megsemmisült vagy megsérült könyvelt küldeményeknek a feladott könyvelt küldemények számához viszonyított maximális arányát megállapító – a szolgáltatás megbízhatóságára vonatkozó – minőségi mutatókat meghatározni.
 
@@ -591,7 +592,7 @@ igénybevétele útján végezheti. A postai küldemények kézbesítését vég
 
 (4) A postai szolgáltatók az egyetemes és az egyetemes szolgáltatást helyettesítő szolgáltatásokra vonatkozó általános szerződési feltételeinek az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott részeit, továbbá azok módosításait kötelesek az alkalmazás kezdő időpontját legkésőbb 15 nappal megelőzően a Hatóság részére megküldeni.
 
-(5) A postai szolgáltató köteles az általános szerződési feltételeket, a díjszabást, valamint azok módosítását a bevezetést megelőző legalább tizenötödik naptól kezdődően internetes honlapján közzétenni. A postai szolgáltatónak minden postai szolgáltatóhelyen lehetővé kell tenni az általános szerződési feltételek és a díjszabás megtekintését.
+(5) A postai szolgáltató köteles az általános szerződési feltételeket, a díjszabást, valamint azok módosítását a bevezetést megelőző legalább tizenötödik naptól kezdődően internetes honlapján közzétenni. A postai szolgáltatónak minden postai szolgáltatóhelyen lehetővé kell tenni a díjszabás megtekintését.
 
 (6) E törvényben foglaltaktól a postai szolgáltató az általános szerződési feltételeiben csak akkor térhet el, ha e törvény az eltérést megengedi. Ez a rendelkezés nem zárja ki azt, hogy a postai szolgáltató általános szerződési feltételeiben olyan szolgáltatásokat is meghirdessen, amelyeket e törvény nem szabályoz.
 
@@ -649,7 +650,7 @@ igénybevétele útján végezheti. A postai küldemények kézbesítését vég
 
 (3a) A személyes átadással kézbesítendő könyvelt postai küldemény átvételének megtagadása esetén a címzett vagy e törvény felhatalmazása alapján kiadott kormányrendelet szerint a postai küldemény átvételének megtagadására jogosult egyéb jogosult átvevő az azonnali átvételtől elzárkózó egyértelmű nyilatkozatát – a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérő okiraton aláírása feltüntetésével – köteles a postai szolgáltató részére írásban megadni. Az aláírás feltüntetésének megtagadása esetén, továbbá a küldemény átvételét megtagadó nyilatkozat alapján a postai küldemény további kezelésére vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
-(4) A könyvelt postai küldemény személyes átadásával egyenértékűnek minősül az az eset, amikor a feladó vagy a címzett és a postai szolgáltató között létrejött szerződés alapján a postai szolgáltató által létesített, a kézbesítést lehetővé tevő automatizált eszköz útján történik a kézbesítés oly módon, hogy az átvételi jogosultságot biztosító azonosító, a küldemény azonosítója és a kézbesítés pontos időpontja rögzítésre kerül.
+(4) A könyvelt postai küldemény személyes átadásával egyenértékűnek minősül az az eset, amikor a feladó vagy a címzett és a postai szolgáltató között létrejött szerződés alapján a kézbesítést lehetővé tevő automatizált eszköz útján történik a kézbesítés oly módon, hogy az átvételi jogosultságot biztosító azonosító, a küldemény azonosítója és a kézbesítés pontos időpontja rögzítésre kerül. A kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozó feltételeket és követelményeket a Kormány rendeletben állapítja meg.
 
 (5) A postai szolgáltató az általa felvett postai küldeményt, amíg azt a címzettnek vagy más jogosult átvevőnek nem kézbesítették az ellenkező bizonyításáig a feladó tulajdonának tekinti. A postai szolgáltató a postai küldemény címzetti tulajdonlásának bizonyításaként köteles elfogadni, ha a címzett rendelkezésére bocsátja a távollévők között kötött szerződésről a vállalkozás által a jogszabály alapján részére mint fogyasztónak adott, a termék adásvételével kapcsolatban ellenszolgáltatásként megfizetett teljes összeget is tartalmazó visszaigazolást és a postai küldeményhez nem kapcsolódik a címzett által a kézbesítéskor még megfizetendő további díj.
 
@@ -661,7 +662,7 @@ igénybevétele útján végezheti. A postai küldemények kézbesítését vég
 
 (8) A személyes átadással kézbesítendő könyvelt postai küldemény igazolt átvételi jogosultsággal és igazolt személyazonossággal rendelkező címzettnek vagy az egyéb jogosult átvevőnek – az erre szolgáló okiraton vagy a kézbesítés tényét rögzítő eszközön az átvevő személyazonosságának igazolására alkalmas okmány elnevezése, betűjele és száma postai szolgáltató által történő rögzítését követően – kézbesíthető. A személyazonosság és az átvételi jogosultság igazolásával kapcsolatos részletes technikai szabályokat, valamint a személyazonosság és az átvételi jogosultság igazolásának módját az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg. A postai szolgáltató a személyazonosság igazolását – ha az e küldemények kézbesítése nem levélszekrénybe történő elhelyezéssel történik és az átvétel érdekében a kézbesítési ponton megjelenő személy átvételi jogosultsága vagy a személyazonossága kétséges – nem könyvelt postai küldemény, valamint rögzített ajánlott levélküldemény kézbesítése esetén is kéri.
 
-(9) Amennyiben a könyvelt postai küldemény kézbesítésére – levélszekrény kivételével – az erre alkalmas eszközbe történő elhelyezéssel kerül sor, a címzett vagy az egyéb jogosult átvevő átvételi jogosultságát az átvevő által az átvétellel egyidejűleg megadott azonosító kóddal köteles igazolni.
+(9) Amennyiben a könyvelt postai küldemény kézbesítésére kézbesítést lehetővé tevő automatizált eszközből történő átvétellel kerül sor, a címzett vagy az egyéb jogosult átvevő átvételi jogosultságát az átvevő által az átvétellel egyidejűleg megadott azonosító kóddal köteles igazolni.
 
 (10) Amennyiben a könyvelt postai küldeményt a postai szolgáltató személyes átadással kézbesíti, a személyazonosságot igazoló okmány elnevezését, betűjelét és számát vagy az átvevő által az átvétellel egyidejűleg megadott azonosító kódot a postai szolgáltató – kormányrendelet eltérő rendelkezése hiányában – a kézbesítési okiraton vagy annak elektronikus helyettesítőjén megfelelő módon rögzíti. Ha az okirat tulajdonosa ez ellen tiltakozik, a szolgáltató ezt – mint a kézbesítést meghiúsító körülményt – a kézbesítési okiraton rögzíti, és a postai küldeményt az ok megjelölésével visszaküldi a feladónak.
 
@@ -1197,10 +1198,10 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 78. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
-- a) a postai szolgáltatások nyújtásának részletes szabályait;
+- a) a postai szolgáltatások nyújtásának és igénybevételének részletes szabályait;
 - b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 - c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
-- d)
+- d) a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozó feltételeket és követelményeket.
 - e) a postai szolgáltatások különleges jogrend időszaki, valamint az összehangolt védelmi tevékenységre való felkészítésének rendszerét, feladatait, működési feltételeit;
 - f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
 - g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait;

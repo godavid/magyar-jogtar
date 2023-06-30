@@ -798,7 +798,7 @@ megegyező mértékben csökkentheti.
 
 (3) Az ülést vezető elnök a kizárás elrendeléséről szóló döntését – az intézkedés okának és jogalapjának megjelölésével – a kizárást követő három munkanapon belül írásban is közli a képviselővel.
 
-49. § (1) A kitiltott képviselő az Országház és az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területét köteles elhagyni, a kitiltás időtartama alatt azok területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
+49. § (1) A kitiltott képviselő az Országház területét köteles elhagyni, a kitiltás időtartama alatt területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
 
 (2) Ha az ülést vezető elnök által azonnali hatállyal kitiltott képviselő az ülést vezető elnök ülésterem elhagyására irányuló felszólításának nem tesz eleget, a vele szemben elrendelendő tiszteletdíj-csökkentés összegének a felső határa a kétszeresére emelkedik.
 
@@ -808,17 +808,17 @@ megegyező mértékben csökkentheti.
 
 (5) A kitiltás időtartamának számításakor a rendes ülésszakok közötti időtartamot is figyelembe kell venni. Az ülésnapokra elrendelt kitiltás hatálya kiterjed a kitiltással érintett ülésnapok közötti naptári napokra is.
 
-49/A. § (1) A kitiltott képviselő az Országgyűlés ülésén a szavazati jogát – nyílt szavazás esetén – megbízott útján gyakorolhatja.
+49/A. § (1)
 
-(2) A képviselőcsoporthoz tartozó kitiltott képviselő a szavazati jogának (1) bekezdés szerinti gyakorlása érdekében kitiltása teljes időtartamára a képviselőcsoport vezetője részére adhat képviseleti megbízást. A képviselőcsoport-vezető a képviseleti megbízást nem utasíthatja vissza. A képviselőcsoport-vezető akadályoztatása esetén a megbízást a képviselőcsoport-vezető által kijelölt vezetőhelyettes látja el.
+(2)
 
-(3) A kitiltott képviselőcsoport-vezető a szavazati jogának (1) bekezdés szerinti gyakorlása érdekében vezetőhelyettese részére adhat megbízást.
+(3)
 
-(4) A kitiltott független képviselő a szavazati jogának (1) bekezdés szerinti gyakorlása érdekében kitiltása teljes időtartamára egy képviselő részére adhat képviseleti megbízást.
+(4)
 
-(5) A megbízást ellátó képviselő a kitiltott képviselő nevében és megbízása szerint gyakorolja a szavazati jogot. A kitiltott képviselő és a megbízást ellátó képviselő előzetesen, írásbeli megállapodásban is rögzítheti a kitiltott képviselő szavazási szándékát. A megbízást ellátó képviselőt a kitiltott képviselő egyéb jogai nem illetik meg és egyéb kötelezettségei nem terhelik.
+(5)
 
-(6) Ha a kitiltott képviselő a gépi szavazást követően úgy ítéli meg, hogy az elektronikus nyilvántartás nem a szándéka szerinti eredményt tartalmazza, egy napon belül bejelentést tehet az Országgyűlés jegyzőihez. A kihirdetett szavazási eredményt ez nem módosítja.
+(6)
 
 (7) Titkos szavazás esetén a kitiltott képviselő a szavazás időtartama alatt a házelnök által kijelölt helyiségben gyakorolhatja a szavazati jogát.
 
