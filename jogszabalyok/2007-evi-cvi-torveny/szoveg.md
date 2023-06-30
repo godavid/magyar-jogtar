@@ -50,7 +50,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 (2) A tulajdonosi jogokat
 
 - a) a Magyar Posta Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
-- b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
+- b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az MNV Zrt. vagy – a 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint az annak végrehajtására kiadott rendeletben meghatározottak szerint,
 - c)
 - d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
@@ -1252,15 +1252,7 @@ lép.
 
 (5) a tulajdonosi joggyakorló – annak érdekében, hogy a jogügylet számviteli elszámolása a gazdasági társaság vagyonában ne eredményezzen vagyonvesztést – jogosult a gazdasági társaság visszapótlási kötelezettségét elengedni, a visszapótlási kötelezettségből származó követelést a gazdasági társaság javára nem pénzbeli hozzájárulásként rendelkezésre bocsátani vagy az elszámolásról egyéb módon rendelkezni. A jogügylet és az annak végrehajtására irányuló eljárások (így különösen az ingatlan-nyilvántartási bejegyzés, telekalakítás, más célú hasznosítási eljárás) adó-, illeték-, díj-, valamint járulékmentesek és nem minősülnek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alapján termékértékesítésnek, illetve szolgáltatásnyújtásnak, a megállapodás esetleges egyéb költségei az MNV Zrt.-vel szerződő gazdasági társaságot terhelik.
 
-69/B. § (1) A Nyugdíjreform és Adósságcsökkentő Alap által az állam tulajdonába térítésmentesen átadott eszközök felett a tulajdonosi jogokat az MNV Zrt. gyakorolja.
-
-(2) Az MNV Zrt. az átadott vagy az azok helyébe lépő eszközöket elkülönítetten köteles nyilvántartani.
-
-(3) Az átadott vagy – a vagyongazdálkodási tevékenység eredményeként bármely típusú tranzakcióval – az azok helyébe lépő eszközök MNV Zrt. általi értékesítéséből, hasznosításából származó bevétel felhasználásának célja az államadósság csökkentése vagy a Kormány határozata alapján az állami vagy önkormányzati vagyon gyarapítása.
-
-(4) Az államadósság csökkentésére való felhasználás esetén a (3) bekezdés szerinti bevételt képező pénzeszközök költségvetési bevételként nem számolhatók el, azok az államháztartásról szóló törvény szerinti finanszírozási bevételnek minősülnek.
-
-(5) Az MNV Zrt. az államadósság csökkentésére felhasználandó (3) bekezdés szerinti bevételek összegéről, azok beérkezését követő hónap 15. napjáig írásos tájékoztatást küld az Államadósság Kezelő Központ Zrt. részére, amely az értékesítési, hozam- vagy más hasznosítási bevétellel egyező összegű államadósság-csökkentési műveletet hajt végre.
+#### 69/B. §
 
 69/C. § (1) Az MNV Zrt. rábízott vagyonába tartozó, az MNV Zrt. működéséhez szükséges számviteli törvény szerinti immateriális javak, tárgyi eszközök, készletek 2015. december 31-i nyilvántartási értéken e törvény erejénél fogva 2016. január 1-jén ingyenesen az MNV Zrt. tulajdonába kerülnek. Az MNV Zrt. gondoskodik a vagyonmozgás nyilvántartásokon történő átvezetéséről.
 

@@ -6,9 +6,9 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 1. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján az állam tulajdonában lévő Bakonybél, belterület 781 és 782 helyrajzi számú ingatlanok ingyenesen Bakonybél Község Önkormányzata (a továbbiakban: Önkormányzat) tulajdonába kerülnek, az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a sport- és kulturális, valamint egyéb feladatok ellátásának elősegítése céljából.
 
-(2) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Bakonybél, belterület 783 és 784 helyrajzi számú ingatlanok ingyenesen a Katolikus Szeretetszolgálat tulajdonába kerülnek a fenntartásában működő, bakonyszücsi Daganatos Betegek Lelki Rehabilitációs Otthona bővítésének biztosítása céljából.
+(2) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Bakonybél, belterület 783 és 784 helyrajzi számú ingatlanok ingyenesen a Katolikus Karitász tulajdonába kerülnek szociális és karitatív tevékenyégének elősegítése, menekült és krízishelyzetbe került családok ideiglenes lakhatásául szolgáló krízislakások kialakítása céljából.
 
-(3) Az (1) bekezdés szerinti ingatlanokat az Önkormányzat és a (2) bekezdés szerinti ingatlanokat a Katolikus Szeretetszolgálat a terhekkel együtt szerzi meg. Az (1) és (2) bekezdés szerinti tulajdonátruházás feltétele, hogy az Önkormányzat és a Katolikus Szeretetszolgálat az ingatlanokat terhelő kötelezettségeket a (4) bekezdés szerinti szerződésben teljeskörűen átvállalja.
+(3) Az (1) bekezdés szerinti ingatlanokat az Önkormányzat és a (2) bekezdés szerinti ingatlanokat a Katolikus Karitász a terhekkel együtt szerzi meg. Az (1) és (2) bekezdés szerinti tulajdonátruházás feltétele, hogy az Önkormányzat és a Katolikus Karitász az ingatlanokat terhelő kötelezettségeket a (4) bekezdés szerinti szerződésben teljeskörűen átvállalja.
 
 (4) Az (1) és (2) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) készíti elő és köti meg. A szerződésekben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
 
@@ -54,90 +54,90 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 #### 4. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 5. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 6. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 7. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
 #### 8. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-17. §
+#### 17. §
 
 #### 9. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
 #### 10. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
 #### 11. A megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 2015. évi LXXV. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 12. Az Erzsébet-táborokról szóló 2020. évi LXIV. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 13. Az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az állami vagyonról szóló 2007. évi CVI. törvény módosításáról szóló 2020. évi CXXII. törvény módosítása
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §

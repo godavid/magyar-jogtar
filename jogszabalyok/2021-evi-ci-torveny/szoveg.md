@@ -124,7 +124,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
-#### 5/B. A Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat részére történő vagyonjuttatás
+#### 5/B. Egyes önkormányzatok részére történő vagyonjuttatás
 
 7/C. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület, belterület 9328 helyrajzi számon nyilvántartott, természetben a Budapest XII. kerület, Művész út 7. szám alatt található ingatlan a Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat tulajdonába kerül óvodai ellátás, valamint szociális és gyermekjóléti szolgáltatások és ellátások biztosításának elősegítése céljából.
 
@@ -149,6 +149,16 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 (4) Az Ingatlan vonatkozásában fennálló vagyonkezelői jog – külön elszámolás nélkül – Budapest Főváros XII. kerület Hegyvidéki Önkormányzat tulajdonszerzésével egyidejűleg megszűnik, azzal, hogy az MNV Zrt. és a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat a vagyonkezelői jog megszűnéséből fakadóan az Ingatlan tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
 
 (5) Az (1) bekezdés szerinti vagyonjuttatás az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+7/E. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a magyar állam tulajdonában álló, a kézdivásárhelyi 26135-C1 számú telekkönyvbe az 1127 "S" telekkönyvi számmal, a kézdivásárhelyi 26137-C1 számú telekkönyvbe az 1128 "S" telekkönyvi számmal, a kézdivásárhelyi 26131-C1 számú telekkönyvbe az 1125 S telekkönyvi számmal bejegyzett, természetben a Kézdivásárhely 40. Udvartér 3. szám alatti épületeket (a továbbiakban: Épületek) és az épületekben található, a magyar állam tulajdonában álló ingóságokat (a továbbiakban: Ingóságok) ingyenesen Kézdivásárhely Megyei Jogú Város (román nyelven: Municipiul Târgu Secuiesc, Cod. fiscal: 4201813, székhelye: Kézdivásárhely, Gábor Áron tér 24, Kovászna megye) tulajdonába kell adni közművelődési és kulturális örökségvédelmi feladatai ellátásának elősegítése érdekében.
+
+(2) Az Épületek és az Ingóságok tulajdonjogát Kézdivásárhely Megyei Jogú Város terhekkel és kötelezettségekkel együtt szerzi meg.
+
+(3) Az Épületek tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló köti meg Kézdivásárhely Megyei Jogú Várossal. A szerződésben az Épületek forgalmi értékeként a könyv szerinti értéket kell megjelölni. Az Ingóságok átruházására vonatkozó szerződést az állam nevében a tulajdonosi joggyakorló köti meg Kézdivásárhely Megyei Jogú Várossal. A szerződésben az Ingóságok forgalmi értékeként, a független szakértő által megállapított forgalmi értéket kell megjelölni.
+
+(4) Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy Kézdivásárhely Megyei Jogú Város az Épületeket terhelő kötelezettségeket és az (1) bekezdés szerinti tulajdonátruházással kapcsolatos valamennyi költséget a (3) bekezdés szerinti szerződésben teljeskörűen átvállalja, valamint, hogy Kézdivásárhely Megyei Jogú Város erre irányuló kérelem esetén biztosítja az Épületek és az Ingóságok használatát a Kézdivásárhelyi Múzeumbarátok Egyesülete részére az MNV Zrt. és a Kézdivásárhelyi Múzeumbarátok Egyesülete között fennálló megbízási szerződés szerinti időtartamra, a megbízási szerződésben foglaltak szerint.
+
+7/F. § A 7/E. § (1) bekezdés alapján tulajdonba adott Épületeken e törvény erejénél fogva 49 évre elidegenítési tilalom áll fenn. Az elidegenítési tilalomra vonatkozó rendelkezést a 7/E. § (3) bekezdése szerinti szerződés az Épületekre vonatkozó teherként rögzíti.
 
 #### 6. Ingatlan ingyenes tulajdonba adása a Szír Ortodox Vallási Egyesület részére
 
@@ -276,7 +286,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 

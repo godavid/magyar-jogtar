@@ -30,29 +30,11 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 - a) nem kell átadni a biztosított részére, hanem azt az orvos elektronikus úton – ideértve az e-mailt – is továbbíthatja, valamint
 - b) a biztosított elektronikus úton – ideértve az e-mailt – is továbbíthatja a foglalkoztató részére.
 
-#### 5. A Covid19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló európai parlamenti és tanácsi rendelet alkalmazásával, valamint a külföldön kapott Covid19 elleni védőoltás magyarországi regisztrációjával összefüggő rendelkezések
+#### 5.
 
-5. § (1) Az (EU) 2021/953 európai parlamenti és tanácsi rendelet szerinti uniós digitális Covid-igazolvány (a továbbiakban: uniós digitális Covid-igazolvány) kiállításáért felelős szerv (a továbbiakban: kiállító szerv) – ha az adat az EESZT-ben nem áll rendelkezésre – jogosult az érintett név- és születési idő adatát igényelni – szükség esetén az összerendelési nyilvántartás szolgáltatás útján – a személyiadat- és lakcímnyilvántartást kezelő szervtől, a személyiadat- és lakcímnyilvántartásban nem szereplő érintett esetén az idegenrendészeti nyilvántartásokból.
+#### 5. §
 
-(2) Ha az érintett Társadalombiztosítási Azonosító Jele az EESZT-ben nem áll rendelkezésre, a kiállító szerv jogosult a Társadalombiztosítási Azonosító Jelet az azt képző szervtől – szükség esetén az összerendelési nyilvántartás szolgáltatás útján – átvenni.
-
-(3) A kiállító szerv az uniós digitális Covid-igazolvány kiállítása érdekében jogosult – ha az nem áll a rendelkezésére – az (EU) 2021/953 európai parlamenti és tanácsi rendeletben meghatározott, az uniós digitális Covid-igazolványon feltüntetendő adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti elsődleges információforrásból – a technikai lehetőségek fennállása esetén automatikus információátadással – átvenni.
-
-(4) A kiállító szerv az (EU) 2021/953 európai parlamenti és tanácsi rendeletben meghatározott, az uniós digitális Covid-igazolványon feltüntetendő adatokat az elsődleges információforrás akadályoztatása esetén másodlagos információforrásból is átveheti.
-
-(5) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 60. § (3) bekezdésétől eltérően e § alkalmazásában elsődleges információforrásnak kell tekinteni bármilyen olyan közfeladatot ellátó vagy egészségügyi tevékenységet végző szervet vagy személyt, amelynél vagy akinél az adat
-
-- a) az általa vezetett közhiteles nyilvántartásban szerepel,
-- b) közfeladata ellátása vagy egészségügyi tevékenysége során keletkezett, vagy
-- c) tekintetében jogszabály az elsődleges információforrás megjelölésével így rendelkezik.
-
-(6) Az uniós digitális Covid-igazolvány kiállításának részletes szabályait, valamint a kiállító szervet a Kormány rendeletben határozza meg.
-
-(7) Az (EU) 2021/953 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése szerinti, az oltottságot igazoló digitális Covid-igazolványt a kiállító szerv annak állítja ki, aki – az egészségügyért felelős miniszter és a közbiztonságért felelős miniszter egyetértésével – a külpolitikáért felelős miniszter által megjelölt országban kapta meg Covid–19-oltását.
-
-6. § (1) Felhatalmazást kap a Kormány, hogy a kiállító szervet, valamint az uniós digitális Covid-igazolvány kiállításának részletszabályait rendeletben határozza meg.
-
-(2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter és a közbiztonságért felelős miniszter egyetértésével rendeletben határozza meg az 5. § (7) bekezdése szerinti országokat.
+#### 6. §
 
 #### 6. Az igazságügyi szakértők statisztikai adatszolgáltatási kötelezettségének teljesítési határidejére, valamint az igazságügyi szakértői névjegyzéket vezető hatóság ellenőrzési tevékenységének megindítási határidejére vonatkozó átmeneti szabályok
 
@@ -212,273 +194,273 @@ rendelkezésre állása biztosítandó.
 
 #### 12. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 #### 13. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
 #### 14. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
 #### 15. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 16. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 17. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 18. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
 #### 19. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
 #### 20. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-34. §
+#### 34. §
 
 #### 21. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
 #### 22. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
 #### 23. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-48. §
+#### 48. §
 
 #### 24. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 25. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 26. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
 #### 27. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-53. §
+#### 53. §
 
 #### 28. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-54. §
+#### 54. §
 
 #### 29. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
 #### 30. Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
 #### 31. Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-59. §
+#### 59. §
 
 #### 32. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
 #### 33. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
 #### 34. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-65. §
+#### 65. §
 
 #### 35. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
 #### 36. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
 #### 37. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
-76. §
+#### 76. §
 
 #### 38. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
 #### 39. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
 #### 40. A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény módosítása
 
 89. §
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
 #### 41. A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény módosítása
 
-95. §
+#### 95. §
 
 #### 42. A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény módosítása
 
-96. §
+#### 96. §
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
 #### 43. A veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény módosítása
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
 #### 44. Az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvény módosítása
 
-117. §
+#### 117. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

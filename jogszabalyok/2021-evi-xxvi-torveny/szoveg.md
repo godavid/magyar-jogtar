@@ -60,7 +60,7 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 
 8. § A Szekszárd 4443/1 helyrajzi számú ingatlant ingyenesen, nyilvántartási értékén történő átvezetéssel az Egyetem tulajdonába kell adni.
 
-8/A. § A 8. § szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva, e § hatályba lépésének napjával az Egyetem tulajdonába kerülnek.
+8/A. § A 8. § szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló, a Tolna Megyei Szakképzési Centrum vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva, e § hatályba lépésének napjával az Egyetem tulajdonába kerülnek.
 
 8/B. § Az átszálló ingóságokról jegyzőkönyvet kell felvenni a rendelkezés hatályba lépésétől számított 30 napon belül, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 

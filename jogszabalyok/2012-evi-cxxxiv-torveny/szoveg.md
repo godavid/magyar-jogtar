@@ -72,6 +72,7 @@ kiskereskedelmi értékesítésére.
 - 14. dohánylevél-töltő: kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére alkalmas.
 - 15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdés szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító engedély nélküli vagy a 10. § (1) bekezdés szerinti feljogosítás hiányában történő értékesítése; továbbá olyan termék értékesítése, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján, Magyarországon történő forgalomba hozatala tilos.
 - 16. dohánytermék-kiskereskedelmi tevékenységet végző személy: a dohánytermék-kiskereskedő, a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy és a 13. § (8a) bekezdése szerinti helyettes gyakorló.
+- 17. termékregisztrátor: a dohánytermék-nagykereskedő vagy az adatszolgáltatással érintett terméket belföldön először forgalomba hozó személy.
 
 (2) E törvény alkalmazásában
 
@@ -80,8 +81,11 @@ kiskereskedelmi értékesítésére.
 - c) az új dohánytermék-kategóriák kiegészítő terméke,
 - d) az elektronikus cigaretta,
 - e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon,
-- f) a dohányzást imitáló elektronikus eszköz, valamint
-- g) a dohányzást helyettesítő nikotintartalmú termék a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott termék.
+- f) a dohányzást imitáló elektronikus eszköz,
+- g) a dohányzást helyettesítő nikotintartalmú termék, valamint
+- h) dohányzási célú gyógynövénytermék
+
+a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott termék.
 
 ### II. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEMMEL KAPCSOLATOS ALAPVETŐ ÁLLAMI FELADATOK
 
@@ -110,14 +114,14 @@ kiskereskedelmi értékesítésére.
 - g) a dohánytermék-kiskereskedelmi tevékenységet végző személyek részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
 - h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
 - i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
-- j) fogadja a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló rendeletében meghatározott, dohányboltban forgalmazott termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
-- k) a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
+- j) a termékregisztrátorokról és a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott, a dohánytermék-kiskereskedelmi tevékenységet végzők adatszolgáltatási kötelezettségével érintett termékekről (a továbbiakban: érintett termék) hatósági nyilvántartást vezet; fogadja a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott bejelentéseket és a nyilvántartott adatokat a dohánytermék-kiskereskedelmi tevékenységet végzők, valamint a dohány-kiskereskedelmi ellátó részére átadja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedelmi tevékenységet végzők készlet- és forgalmi adatait kezeli, feldolgozza, az arra jogosultak részére átadja.
+- k) a dohánygyártmányok árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 - l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről közhiteles nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
 - m) eljár a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet folytatókkal szemben.
 
 (4)
 
-4/A. § (1) Ha a dohánykiskereskedelem-ellátási feladatokat az állam maga látja el, úgy az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) e feladatok ellátására 100%-os állami tulajdonban lévő zártkörűen működő részvénytársaságot alapít.
+4/A. § (1) Ha a dohánykiskereskedelem-ellátási feladatokat az állam maga látja el, úgy a kormányrendeletben kijelölt miniszter e feladatok ellátására 100%-os állami tulajdonban lévő zártkörűen működő részvénytársaságot alapít.
 
 (2) Ha a dohánykiskereskedelem-ellátási feladatokat az állam nem maga látja el, úgy e tevékenység ellátására a Ktv. rendelkezéseinek megfelelően koncessziós szerződést köt. A dohánykiskereskedelem-ellátási feladatokra vonatkozó koncessziós szerződést nyilvános pályázat eredményeként, vagy a Ktv. 10/D. §-a alapján kell megkötni úgy, hogy a dohánykiskereskedelem-ellátás az egész ország területén biztosított legyen. Koncessziós szerződés a nyilvános pályázat nyertesével, vagy olyan személlyel köthető, amelyik megbízható dohánykereskedőnek, illetve e személy legalább többségi tulajdonában álló gazdasági társaságnak minősül, és amelyik a Jöt.-ben meghatározott jövedéki engedéllyel rendelkezik.
 
@@ -218,11 +222,11 @@ kiskereskedelmi értékesítésére.
 
 ### 4. CÍM — A koncessziós szerződés alapján keletkező bevételek
 
-10/B. § (1) A koncessziós díjat a miniszter szedi be.
+10/B. § (1) A koncessziós díjat a kormányrendeletben kijelölt miniszter szedi be.
 
-(2) A miniszter a beszedett koncessziós díjak, jogosultsági díjak és ezen felül keletkező egyéb bevételek összegét az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletként számolja el.
+(2) A kormányrendeletben kijelölt miniszter a beszedett koncessziós díjak, jogosultsági díjak és ezen felül keletkező egyéb bevételek összegét az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletként számolja el.
 
-(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által irányított költségvetési fejezet bevételei.
+(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a kormányrendeletben kijelölt miniszter által irányított költségvetési fejezet bevételei.
 
 (4)
 
@@ -451,9 +455,45 @@ fogadhatja el.
 
 (8) A (6) bekezdésben foglaltaktól eltérően a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedők számára a dohány-kiskereskedelmi ellátó által a tárgyévben értékesített dohánytermékek kiskereskedelmi eladási áron számolt összértéke és az egyes dohánytermék-nagykereskedők dohánytermékeinek ebből való részesedése alapján a dohány-kiskereskedelmi ellátó által alkalmazott általános szerződési feltételek keretein belül, valamennyi szerződött dohánytermék-nagykereskedőre kiterjedően, versenysemleges módon pénzbeli visszatérítést adhat. A visszatérítés mértéke nem haladhatja meg a dohány-kiskereskedelmi ellátó tárgyévre vonatkozó, a számvitelről szóló törvény alapján meghatározott adózott eredménye összegét.
 
-15/F. § A dohánytermék-kiskereskedő köteles a készletéről, illetve annak forgalmáról külön jogszabály szerint nyilvántartást vezetni, illetve elektronikus úton adatot szolgáltatni.
+#### 15/F. §
 
 15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
+
+### 5/A. CÍM — Nyilvántartás-vezetés és adatszolgáltatás
+
+15/H. § A dohánytermék-kiskereskedelmi tevékenységet végző személy a készletéről, illetve annak forgalmáról a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározottak szerint – személyes adatot nem tartalmazó adattartalommal – nyilvántartást vezet és adatot szolgáltat.
+
+15/I. § (1) A 15/H. § szerinti adatszolgáltatás egységes teljesítése érdekében a Hatóság a termékregisztrátorokról hatósági nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
+
+- a) a termékregisztrátor
+  - aa) nevét,
+  - ab) székhelyét,
+  - ac) kapcsolattartásra megjelölt elektronikus levelezési címét, és
+  - ad) adószámát, valamint
+- b) a termékregisztrátor képviseletében eljáró, a nyilvántartási kötelezettség teljesítését szolgáló termékregisztrációs portál használatához jogosultsággal rendelkező személy
+  - ba) nevét,
+  - bb) a Hatóság által biztosított felhasználó nevét, és
+  - bc) telefonszámát.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés b) pont bb) alpontja vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(4) A termékregisztrátor az első érintett termék nyilvántartásba vétele előtt legalább 15 nappal a termékregisztrációs portál használatához – a (2) bekezdés b) pont bb) alpontja szerinti felhasználónév kivételével – a (2) bekezdés szerinti adatok megadásával kéri a Hatóságnál a nyilvántartásba vételét.
+
+(5) A (2) bekezdés b) pont bb) alpontja szerinti felhasználónév kivételével a (2) bekezdés szerinti adatokban bekövetkezett változást a termékregisztrátor a változást követő 8 napon belül bejelenti a Hatóság részére.
+
+15/J. § (1) A Hatóság a 15/H. § szerinti adatszolgáltatási kötelezettséggel érintett termékekről – az érintett termékekre vonatkozó nyilvántartás-vezetési és adatszolgáltatási kötelezettségnek a dohánytermék-kiskereskedelmi tevékenységet végző személyek általi egységes teljesítése érdekében – a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározottak szerint, a termékregisztrátor adatszolgáltatása alapján – személyes adatot nem tartalmazó adattartalommal – hatósági nyilvántartást vezet.
+
+(2) Az érintett termékeket a Hatóság hatósági azonosító számmal látja el. Az (1) bekezdés szerinti nyilvántartás a hatósági azonosító szám tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+15/K. § (1) A Hatóság a 15/H. § szerinti adatszolgáltatás keretében beérkezett adatokat kezeli, feldolgozza, a hatósági eljárásokban és a hatósági ellenőrzések során felhasználja, illetve azokból elemzést, összesítést készít. A Hatóság a dohánytermék-kiskereskedő forgalmi adatait, az adatszolgáltató neve és a dohánybolt címe szerint, a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározott adattartalommal és rendszerességgel az állami adó- és vámhatóság részére kockázatelemzési és bűnmegelőzési célból elektronikus úton átadja.
+
+(2) A Hatóság a 15/H. § szerinti forgalmi adatokat és az azokból készült elemzéseket, kimutatásokat, illetve összesítéseket a termékregisztrátor részére egyedi szerződés alapján ellenérték fejében átadhatja. A Hatóság a fizetendő ellenértéket a termékregisztrátornak a 15/H. § szerinti adatszolgáltatás alapulvételével megállapított piaci részesedésére figyelemmel határozza meg.
+
+(3) A 15/H. § szerinti forgalmi adatokat és az azokból készült elemzéseket, kimutatásokat, illetve összesítéseket a termékregisztrátor által forgalmazott termékek vonatkozásában az utolsó lezárt adatszolgáltatási naptól – a többi termékregisztrátor által forgalmazott termék vonatkozásában 42 nap késleltetéssel – legfeljebb két évre visszamenőleg adja át a Hatóság a vele szerződő termékregisztrátornak.
+
+(4) A Hatóság a hozzá beérkezett adatokból készült elemzéseket, kimutatásokat és összesítéseket, továbbá a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározottak szerint végzett terméknyilvántartásba vétel során keletkező adatokat a dohány-kiskereskedelmi ellátó részére egyedi szerződés alapján továbbíthatja.
 
 ### 6. CÍM — A fiatalkorúak különös védelme
 
@@ -501,7 +541,7 @@ fogadhatja el.
 
 21. § (1) A Hatóság vezetője és helyettesei, közeli hozzátartozói valamint dohánytermék-kiskereskedelem tárgyában felügyeleti feladatkörében eljáró alkalmazottai dohánytermék-kiskereskedelmi tevékenységet nem végezhetnek.
 
-(2) Az (1) bekezdésben felsorolt személy a hatóságnál fennálló foglalkoztatási jogviszonyának megszűnését követő két évig dohánytermék-kiskereskedelmi tevékenységet nem folytathat, mely tilalom alól a miniszter – különös méltánylást érdemlő esetben – felmentést adhat.
+(2) Az (1) bekezdésben felsorolt személy a hatóságnál fennálló foglalkoztatási jogviszonyának megszűnését követő két évig dohánytermék-kiskereskedelmi tevékenységet nem folytathat, mely tilalom alól a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv – különös méltánylást érdemlő esetben – felmentést adhat.
 
 22. § (1) A Hatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
@@ -566,7 +606,7 @@ terjedő bírsággal sújtja.
 (2) Az (1) bekezdés alkalmazása során a Hatóság különösen a következőket veszi figyelembe:
 
 - a) a dohánytermék-kiskereskedelmi tevékenységet végző személy által három éven belül megvalósított e törvény szerinti korábbi jogsértést,
-- b) a dohánytermék-kiskereskedelmi tevékenységet végző személy vonatkozásában a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló rendeletében foglaltak szerint a Hatóság rendelkezésére álló, a tárgyévet megelőző év készlet- és forgalmi adatait.
+- b) a dohánytermék-kiskereskedelmi tevékenységet végző személy vonatkozásában a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében foglaltak szerint a Hatóság rendelkezésére álló, a tárgyévet megelőző év készlet- és forgalmi adatait.
 
 23/D. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési könnyítés) a bírság megfizetésére kötelezett (a továbbiakban e § alkalmazásában: kérelmező) kérelmére az e törvény alapján kiszabott közigazgatási bírságra engedélyezhető.
 
@@ -601,7 +641,7 @@ az általános szabályok szerint, azzal, hogy az a) pont alkalmazásakor a hat�
 
 (5) A (3) bekezdés 2013. július 1-jén hatályát veszti.
 
-(6) Az e törvényben foglaltaktól eltérően a miniszter köteles a dohánytermék-kiskereskedelmi jogosultságra vonatkozó pályázatokat első alkalommal legkésőbb 2012. november 15. napjáig kiírni úgy, hogy a pályázatok benyújtására a kiírás megjelenését követő 60 napos határidő álljon rendelkezésre, továbbá a benyújtási határidő elteltét követő 60 napos határidőn belül a pályázatok eredményeit ki kell hirdetni.
+(6)
 
 (7) Azok a kiskereskedők, akik a 2. § hatálybalépését megelőzően dohánytermékek értékesítésére jogosultak voltak, a 2. § hatálybalépését követően dohányterméket a dohánytermék-nagykereskedőktől már nem vásárolhatnak, és a meglévő dohánytermék-készletük értékesítését legfeljebb a 2. § hatálybalépését követő 15 napig folytathatják. A dohánytermék-nagykereskedő köteles az általa értékesített és az e bekezdés rendelkezései miatt a kiskereskedőknél megmaradt – sértetlen csomagolású – dohánytermékeket a kiskereskedő kérelmére 30 napon belül azon az áron visszavásárolni, amelyen a dohánytermék a kiskereskedő részére értékesítésre került.
 
@@ -633,18 +673,20 @@ az általános szabályok szerint, azzal, hogy az a) pont alkalmazásakor a hat�
 
 (14) E törvénynek az egyes bányászati és gazdasági tárgyú törvények módosításáról szóló 2022. évi LXIV. törvénnyel (a továbbiakban: Módtv.5.) megállapított 11. § (1) bekezdésétől eltérően mindazok, akik a Módtv.5. 41. § 4. pontjának hatálybalépését megelőző napon jogszerűen forgalmaztak az 1. § (1) bekezdés i) pontja szerinti terméket, de a Módtv.5. 41. § 4. pontjának hatálybalépését követően erre a továbbiakban nem jogosultak, a még készleten lévő termékeiket a Módtv.5. 41. § 4. pontjának hatálybalépésétől számított 150 napig tovább forgalmazhatják azzal, hogy a Módtv.5. 41. § 4. pontjának hatálybalépését követően új terméket már nem szerezhetnek be.
 
+(15) Azokat a termékregisztrátorokat, akik az egyes gazdasági, vagyongazdálkodási és postaügyet érintő törvények módosításáról szóló 2023. évi XLVI. törvény (a továbbiakban: Módtv.6.) hatálybalépését megelőzően a termékregisztrációs portálhoz hozzáféréssel rendelkeztek, a Módtv.6. hatálybalépését megelőzően a termékregisztráció során önként megadott adataikkal a Hatóság hivatalból nyilvántartásba veszi.
+
 24/B. § (1)
 
 (2) A dohánytermék-kiskereskedőkre vonatkozó, a 4. § (2) bekezdésében, a 23. § (3) bekezdésében, valamint a 23/A. §-ban foglalt rendelkezéseket a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv útján – külön feljogosított személyekre is megfelelően alkalmazni kell.
 
 24/C. § Felhatalmazást kap a Kormány, hogy
 
-- a)
-- b)
+- a) a 4/A. § (1) bekezdése szerinti esetben a dohánykiskereskedelem-ellátási feladatokat ellátó gazdasági társaság alapításáért felelős minisztert,
+- b) a koncessziós díj beszedésével kapcsolatos 10/B. § (1)–(3) bekezdése szerinti feladatok ellátásáért felelős minisztert,
 - c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
 - d)
 - e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
-- f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 24/A. § (2)–(5), (8), (9), (11) és (13) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet,
+- f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 21. § (2) bekezdésében, a 24/A. § (2)–(5), (8), (9), (11) és (13) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet,
 - g) a 24/H. § szerinti kompenzáció igénylésére, elbírálására és kifizetésére irányuló eljárás részletes szabályait,
 
 rendeletben állapítsa meg.
@@ -664,16 +706,11 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 
 24/G. § (1) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.4.) megállapított 10/A. § (8) bekezdését a Módtv.4. hatálybalépésekor hatályos, a dohánykiskereskedelem-ellátási jogosultság átengedésére vonatkozó koncessziós szerződésre is alkalmazni kell.
 
-(2) A miniszter a Módtv.4. hatálybalépését követő 60 napon belül gondoskodik az e § rendelkezéseinek megfelelő szerződés-módosítás előkészítéséről és előterjesztéséről, illetve – a feltételekben való megállapodást követően – annak aláírásáról.
+(2)
 
-(3) A (2) bekezdés szerinti szerződés-módosítás feltételeinek meghatározása során a következőknek kell érvényt szerezni:
+(3)
 
-- a) az (1) bekezdésben meghatározott koncessziós szerződés jogosultja akkor támaszthat követelést átalány-kártérítés (kártalanítás) jogcímén, ha e törvény rendelkezéseinek, vagy bármely, a koncessziós szerződésre kötelezően alkalmazandó jogszabálynak vagy jogi tartalmú szabályozásnak megváltozása (érvényre jutása) következtében, vagy a magyar állam szerződésszegése okán a koncessziós szerződés változatlan feltételekkel történő teljesítése a koncesszió jogosultja számára aránytalanul terhessé vagy lehetetlenné vált, vagy gazdasági hátrányt, kárt vagy jogi érdeksérelmet okozna, továbbá, ha az előbbiek bármelyikére tekintettel a koncessziós szerződés bármely módon megszűnt;
-- b) a magyar állam akkor támaszthat követelést átalány-kártérítés jogcímén, ha a jogosult a teljesítést jogos ok nélkül megtagadja vagy olyan súlyos szerződésszegést követ el, amely a koncessziós szerződés fenntartását lehetetlenné teszi;
-- c) az alkalmazandó átalány-kártérítés (kártalanítás) mértéke nem lehet kisebb, mint a jogosult által az általány-kártérítés (kártalanítás) követelésére okot adó körülmény bekövetkezését megelőző évben megfizetett éves koncessziós díj és a koncessziós szerződésben rögzített határozott időből hátralévő évek számának szorzata azzal, hogy a törtévet egy egészként kell figyelembe venni és a szorzó nem lehet kevesebb 3-nál;
-- d) a felek az a)–c) pontban meghatározottakat nem érintő egyéb feltételekben is megállapodhatnak, így különösen arról, hogy a felek bármelyike mely további esetekben jogosult átalány-kártérítés (kártalanítás) jogcímén igényt támasztani. Az átalány-kártérítés (kártalanítás) követelése nem érinti a felek bármelyikének azon jogát, hogy a jogszabályokban meghatározott bármely további jogával éljen, így különösen az átalány-kártérítés (kártalanítás) összegén felüli kárigényt támasszon és bizonyítson.
-
-(4) Amennyiben a (2) bekezdésben meghatározott határidőben a szerződés-módosítás írásbeli formában nem jön létre, úgy a jogosult a (3) bekezdés a) és c) pontjában számára biztosított jogokra – a magyar állammal szemben – a szerződés-módosítás nélkül is hivatkozhat, továbbá kezdeményezheti a szerződés-módosítás létrehozását bírósági úton.
+(4)
 
 24/H. § (1) Kiskereskedelmi tevékenység körében elektronikus cigaretta, utántöltő flakon, vagy dohányzást imitáló elektronikus eszköz forgalmazására 2016. május 20-án jogosult személy vagy szervezet – az e törvényben, valamint a Kormány rendeletében meghatározottak szerint – anyagi kompenzációra jogosult, amennyiben 2016. május 20. napját követően az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény 65. §-a alapján ezen jogosultságát elvesztette.
 
@@ -696,7 +733,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - c) a dohánytermék-kiskereskedelem engedélyezésére, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartására,
 - d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére,
 - e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
-- f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a dohánytermékek árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére, az így keletkező közadatok újrahasznosítására,
+- f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a termékregisztrátorok és az általuk forgalmazott érintett termékek körének meghatározására, azok hatósági nyilvántartásba vételére, a dohánygyártmányok árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére,
 - g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forgalmazható termékekre és nyújtható szolgáltatásokra
 - h) a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetésére, szakmai képzés feltételeire, annak teljesítésére és díjára
 

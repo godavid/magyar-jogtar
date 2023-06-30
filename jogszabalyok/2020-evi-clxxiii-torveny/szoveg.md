@@ -12,6 +12,18 @@ egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongaz
 
 (4) A (2) bekezdés szerinti szerződésben a Máltai Szeretetszolgálatnak vállalnia kell, hogy az Ingatlanokon az M1-es autópálya bicskei szakaszának építésekor létesült munkásszálló barakképületeinek és irodaépületeinek bontását, a bontásból származó anyagok elszállítását, a Ingatlanokhoz kapcsolódó tereprendezési feladatokat (a továbbiakban együttesen: Tereprendezés) elvégzi, és a Tereprendezést a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzését követő 6 hónapon belül megkezdi.
 
+1/A. § (1) Az állami tulajdonban álló Pomáz, külterület, 0311/1 helyrajzi számú ingatlant (e § alkalmazásában a továbbiakban: ingatlan) „kivett kórház, udvar” megnevezésű ingatlanként kell az ingatlan-nyilvántartásban rögzíteni. A művelés alól kivett terület elnevezés változásának átvezetésére irányuló eljárást a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) kérelmére az ingatlanügyi hatóságként eljáró Pest Vármegyei Kormányhivatal folytatja le. A művelés alól kivett terület megnevezésváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület megnevezése szerinti hivatkozását, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésre kell hivatkozni. Az ingatlanügyi hatóság további dokumentum benyújtását, díj fizetését nem írhatja elő. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
+
+(2) Az (1) bekezdés szerinti eljárásban hozott döntés véglegessé válását követően az állami tulajdonban álló Pomáz, külterület, 0311/1, 0311/3 és 0311/4 helyrajzi számú ingatlanokat (a továbbiakban együtt: ingatlanok) és a rendeltetésszerű használathoz szükséges, az ingatlanokban található ingóságok az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján ingyenesen a Máltai Szeretetszolgálat tulajdonába kell adni, a Máltai Szeretetszolgálat által átvállalt állami közfeladatok, közhasznú szociális és egészségügyi feladatai ellátásának elősegítése érdekében.
+
+(3) A (2) bekezdés szerinti tulajdonátruházás feltétele, hogy a Máltai Szeretetszolgálat az ingatlanokat terhelő kötelezettségeket a (4) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
+
+(4) A (2) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti elő és köti meg. A szerződésben az Ingatlanok forgalmi értékeként az MNV Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződésben rögzíteni kell, hogy az Ingatlanok használata során a Szeretetszolgálat kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
+
+(5) A (2) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+1/B. § Az 1/A. § (2) bekezdése alapján ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan időre szóló elidegenítési tilalom áll fenn. Az elidegenítési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
+
 #### 2. Záró rendelkezések
 
 2. § (1) Ez a törvény – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetését követő harmadik napon lép hatályba.
@@ -22,67 +34,69 @@ egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongaz
 
 (4) A (3) bekezdésben meghatározott feltétel bekövetkezéséről szóló határozatot az állami vagyon felügyeletéért felelős miniszter a Magyar Közlönyben, a feltétel bekövetkezésének a napján közzéteszi.
 
+2/A. § Az 1/B. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
 #### 3. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
 #### 5. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
 #### 6. A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény módosítása
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 #### 7. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
 #### 8. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
 #### 9. A sportról szóló 2004. évi I. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 10. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
 #### 11. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
@@ -90,23 +104,23 @@ egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongaz
 
 (2)
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
 #### 12. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
 35. § (1)
 
@@ -114,63 +128,64 @@ egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongaz
 
 #### 13. A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény módosítása
 
-36. §
+#### 36. §
 
 #### 14. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosítása
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
 #### 15. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 16. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-- a)
-- b)
+a)
 
-45. §
+b)
+
+#### 45. §
 
 #### 17. A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény módosítása
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
 #### 18. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
 #### 19. A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény módosítása
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
 ### 1. melléklet a 2020. évi CLXXIII. törvényhez

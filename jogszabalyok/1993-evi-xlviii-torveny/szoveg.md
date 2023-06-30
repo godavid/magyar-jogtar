@@ -520,11 +520,13 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (5) A geotermikus védőidomon belül e törvény hatálya alá nem tartozó geotermikus energia kinyerésére és hasznosítására szolgáló létesítmény építéséhez a bányafelügyelet előzetes hozzájárulása szükséges.
 
-(6) A természetes felszíntől mért 150 m feletti földkéregrészig a geotermikus energia kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
+(6) A nem termálvízzel történő geotermikus energia kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
 
 (7) A geotermikus energia (6) bekezdés alapján történő kinyerésére és hasznosítására a 3. §-t, a 20. §-t, a 21/B. § (8) bekezdését, a 25. § (2) bekezdés b) pontját, a 25. § (3a) bekezdés d) pontját és a 41. §-t alkalmazni kell.
 
 (8) A geotermikusenergia-hasznosító létesítményekről, a kitermelt és hasznosított geotermikus energia mennyiségéről, valamint a megállapított geotermikus védőidomokról a bányafelügyelet nyilvántartást vezet.
+
+(9) A bányafelügyelet törli a nyilvántartásából a kijelölt geotermikus védőidomot, ha a bányavállalkozóval a 21/C. § (1) bekezdése szerinti szerződés nem jön létre.
 
 21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet.
 
@@ -1102,7 +1104,7 @@ foglaltakat kell alkalmazni.
 
 ### Bányatérkép
 
-33. § (1) A bányavállalkozó köteles a bányaműveléssel és a bányászati létesítményekkel kapcsolatos, a bányabiztonsági szabályzatokban előírt térképeket (bányatérkép) elkészíteni és a változásokkal kiegészíteni.
+33. § (1) A bányavállalkozó köteles a bányaműveléssel és a bányászati létesítményekkel kapcsolatos, a bányabiztonsági szabályzatokban előírt térképeket (bányatérkép) elkészíteni és a változásokkal kiegészíteni, valamint a bányabiztonsági szabályzatokban meghatározott határidőben a bányafelügyeletnek megküldeni.
 
 (2) A bányaművelés befejeztével a bányatérkép egy példányát megőrzésre át kell adni a bányafelügyeletnek.
 
@@ -1427,7 +1429,7 @@ gyakorolja.
 - g) e törvény hatálya alá tartozó tevékenységek végzése során a villamos berendezés és készülék, a villamos fogyasztó berendezés létesítésére és üzemben tartására vonatkozó biztonsági előírást megszegi,
 - h) a bányafelügyelet hatáskörébe tartozó polgári robbantási tevékenységre vonatkozó biztonsági szabályokat vagy a hatósági határozatban előírtakat megszegi.
 
-(1a) Ha az (1) bekezdés d) pontja szerinti jogsértést az ingatlan tulajdonosa (kezelője, használója) követi el, a bírság vele szemben akkor alkalmazható, ha az ingatlan tulajdonosa (kezelője, használója) az (1) bekezdés d) pontja szerinti létesítmény tulajdonosát vagy üzemeltetőjét a jogellenes állapot megszüntetésében akadályozza.
+(1a)
 
 (1b)
 
@@ -2425,6 +2427,8 @@ rendeletben történő megállapítására.
 (5) A Módtv9. 4. §-a hatálybalépésekor termálvíz kitermelésére vonatkozó vízjogi létesítési engedéllyel és vízjogi üzemeltetési engedéllyel rendelkező vízilétesítmény esetén a vízilétesítmény vízjogi üzemeltetési engedélyének módosítása vagy időtartamának meghosszabbítása esetén az eljárást a Módtv9. 4. §-a hatálybalépését megelőző napon hatályos jogszabályi rendelkezések szerint kell lefolytatni.
 
 (6) A (4) és (5) bekezdés szerinti vízilétesítménnyel történő geotermikus energia kinyerésére és hasznosítására a Módtv9. 4. §-a hatálybalépését megelőző napon hatályos jogszabályi rendelkezéseket kell alkalmazni.
+
+50/J. § Az egyes gazdasági, vagyongazdálkodási és postaügyet érintő törvények módosításáról szóló 2023. évi XLVI. törvénnyel (a továbbiakban: Módtv10.) megállapított 21/B. § (6) és (9) bekezdését, valamint 33. § (1) bekezdését a Módtv10. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 51. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
