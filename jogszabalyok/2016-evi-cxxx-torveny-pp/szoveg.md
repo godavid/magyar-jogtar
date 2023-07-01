@@ -5180,7 +5180,10 @@ kérdésében.
 
 (2) Az elsőfokú bíróságnak a házasság érvénytelenítése iránt indított perben hozott ítéletét az ügyésszel akkor is közölni kell, ha a perben nem vett részt, és az ügyész az ítélet ellen ilyenkor is fellebbezhet.
 
-(3) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után a statisztikai jogszabályok szerinti népmozgalmi adatokat tartalmazó adatlapot közli az illetékes anyakönyvvezetővel.
+(3) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után
+
+- a) az anyakönyvi eljárásról szóló törvényben foglalt adatokat megküldi az illetékes anyakönyvvezetőnek, valamint
+- b) a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározottak szerint – az illetékes anyakönyvvezető útján – teljesíti a népmozgalmi statisztikai adatszolgáltatási kötelezettségét.
 
 #### 461. § [Perújítás és felülvizsgálat]
 
@@ -6615,7 +6618,7 @@ Az elektronikus hírközlő hálózat útján történő meghallgatás esetén a
 - b) – az államháztartásért felelős miniszterrel egyetértésben – az ügygondnok részére járó díjazásra,
 - c) a bírósági letétkezelésre,
 - d) a tanú által a peres és nemperes eljárásban felszámítható költségekre,
-- e) az elővezetés végrehajtásával felmerült költség mértékére, megtérítésére,
+- e) az elővezetés végrehajtásával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésére,
 - f) – az informatikáért felelős miniszterrel egyetértésben, az Országos Bírósági Hivatal elnöke véleményének kikérésével –a tárgyalás (meghallgatás) elektronikus hírközlő hálózat útján történő megtartására,
 - g) a polgári peres eljárásban alkalmazható nyomtatványokra,
 - h) a bíróságokkal történő elektronikus kapcsolattartásra és az elektronikus bírósági iratkezelésre,

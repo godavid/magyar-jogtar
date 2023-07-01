@@ -125,7 +125,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (3) Ha a gyermek együtt élő szülők háztartásában él, a családi pótlékot – együttes nyilatkozatuk alapján – bármelyik szülő igényelheti, mégpedig nyilatkozatuk szerint gyermekenként. Megállapodás hiányában az ellátást igénylő szülő személyéről – kérelemre – a gyámhatóság dönt.
 
-(4) Ha a szülők időszakonként felváltva gondozzák gyermeküket és a szülői felügyeleti jog mindkét szülő esetében fennáll, a családi pótlékra – közös kérelmükre, 50-50%-os arányban – mindkét szülő jogosult. A kérelemhez csatolni kell a szülők arról szóló közös nyilatkozatát, hogy a gyermek gondozásáról, neveléséről saját háztartásaikban felváltva gondoskodnak.
+(4) Ha a gyermeket a – közös szülői felügyeletet gyakorló – külön élő szülők felváltva, azonos időtartamban nevelik és gondozzák, a családi pótlékra 50-50%-os arányban mindkét szülő jogosult.
 
 10. § (1) A családi pótlékot – függetlenül az igénylés és a megszüntetés időpontjától – teljes hónapra kell megállapítani és folyósítani.
 
@@ -314,6 +314,7 @@ közös szabályai
 - a) a szülést követően az a nő, aki várandóssága alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – várandósgondozáson vett részt;
 - b) az örökbefogadó szülő, ha az örökbefogadást véglegessé vált határozatban engedélyezték, és a gyermeket a végleges engedélyezés időpontját megelőzően legfeljebb egy éve nevelte folyamatosan saját háztartásában;
 - c) a gyám, ha a gyermek a születését követően hat hónapon belül – véglegessé vált határozat alapján – a gondozásába kerül.
+- d) a vér szerinti apa, ha a szülő nő az anyasági támogatás igénylését megelőzően meghal, és a gyermekről a vér szerinti apa saját háztartásában gondoskodik.
 
 (2) Az anyasági támogatás az (1) bekezdés a) pontja szerinti jogosultat akkor is megilleti, ha a gyermek halva született.
 
@@ -550,6 +551,7 @@ fennállásáról, szüneteléséről és megszűnéséről.
 - f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat,
 - g) a nevelési-oktatási intézmény a feladatkörébe tartozó támogatások, kedvezmények megállapításához szükséges adatokat,
 - h) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a központi családtámogatási szerv által kibocsátott, az utazási kedvezményre való jogosultságot igazoló hatósági igazolványon szereplő személyekre vonatkozóan az ellenőrzéshez szükséges adatokat,
+- i) az állami foglalkoztatási szerv a gyermekek után járó támogatások lekérdezése, nyilvántartásba vétel, ellátás megállapítása érdekében szükséges adatokat
 
 közvetlen lekérdezéssel díjmentesen elérheti.
 

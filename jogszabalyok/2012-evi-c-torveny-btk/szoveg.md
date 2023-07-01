@@ -6287,7 +6287,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és a végrehajtói kézbesítésre felhatalmazott önálló bírósági végrehajtó jelölt,
   - i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
   - j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
-  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+  - k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
   - a) a szolgálati feladatot teljesítő honvéd,

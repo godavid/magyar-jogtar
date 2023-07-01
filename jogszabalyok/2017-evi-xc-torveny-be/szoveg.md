@@ -11736,7 +11736,7 @@ terjeszti fel.
 - 2. a büntetőeljárásban a telekommunikációs eszközök alkalmazásának szabályait,
 - 3. a különleges bánásmódot igénylő személy részvételét igénylő eljárási cselekmény elvégzésére szolgáló helyiség kialakítására és ellenőrzésére vonatkozó szabályokat,
 - 4. a büntetőeljárás ügyiratai megismerésének szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
-- 5. a bűnügyi költség előlegezésének a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
+- 5. a bűnügyi költség előlegezésének, valamint a büntetőeljárásban elrendelt elővezetés végrehajtásával, illetve a terhelt előállításával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésének – ide nem értve az elővezetés költsége mértéke megállapítását – a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 - 6.
 - 7. a büntetőeljárásban a pártfogó ügyvéd és a kirendelt védő díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - 8. a terhelt és a meghatalmazott védő költségeinek és a meghatalmazott védő díja állam, pótmagánvádló vagy magánvádló általi megtérítésének szabályait az államháztartásért felelős miniszterrel egyetértésben,
@@ -11761,7 +11761,7 @@ rendeletben megállapítsa.
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy
 
 - a) az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét az igazságügyért felelős miniszterrel egyetértésben,
-- b) a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogásával és előállításával felmerült költség megtérítésének szabályait az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben,
+- b)
 - c) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
 
 rendeletben megállapítsa.

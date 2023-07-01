@@ -49,7 +49,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - b) kezelőorvos: a beteg adott betegségével, illetve egészségi állapotával kapcsolatos vizsgálati és terápiás tervet meghatározó, továbbá ezek keretében beavatkozásokat végző orvos, illetve orvosok, akik a beteg gyógykezeléséért felelősséggel tartoznak;
 - c) egészségügyi ellátás: a beteg adott egészségi állapotához kapcsolódó egészségügyi tevékenységek összessége;
 - d) egészségügyi dolgozó: az orvos, a fogorvos, a gyógyszerész, az egyéb felsőfokú egészségügyi szakképesítéssel rendelkező személy, az egészségügyi szakképesítéssel rendelkező személy, továbbá az egészségügyi tevékenységben közreműködő egészségügyi szakképesítéssel nem rendelkező személy;
-- e) egészségügyi szolgáltatás: az egészségügyi államigazgatási szerv által kiadott működési engedély birtokában vagy – törvényben meghatározott esetben – az egészségügyi államigazgatási szerv által történő nyilvántartásba vétel alapján végezhető egészségügyi tevékenységek összessége, amely az egyén egészségének megőrzése, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, életveszély elhárítása, a megbetegedés következtében kialakult állapot javítása vagy a további állapotromlás megelőzése céljából a beteg vizsgálatára és kezelésére, gondozására, ápolására, egészségügyi rehabilitációjára, a fájdalom és a szenvedés csökkentésére, továbbá a fentiek érdekében a beteg vizsgálati anyagainak feldolgozására irányul, ideértve a gyógyszerekkel, a gyógyászati segédeszközökkel, a gyógyászati ellátásokkal kapcsolatos külön jogszabály szerinti tevékenységet, valamint a mentést és a betegszállítást, a szülészeti ellátást, az emberi reprodukcióra irányuló különleges eljárásokat, a művi meddővétételt, az emberen végzett orvostudományi kutatásokat, továbbá a halottvizsgálattal, a halottakkal kapcsolatos orvosi eljárásokkal, – ideértve az ehhez kapcsolódó – a halottak szállításával összefüggő külön jogszabály szerinti tevékenységeket is;
+- e) egészségügyi szolgáltatás: az egészségügyi államigazgatási szerv által kiadott működési engedély birtokában vagy – törvényben meghatározott esetben – az egészségügyi államigazgatási szerv által történő nyilvántartásba vétel alapján végezhető egészségügyi tevékenységek összessége, amely az egyén egészségének megőrzése, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, életveszély elhárítása, a megbetegedés következtében kialakult állapot javítása vagy a további állapotromlás megelőzése céljából a beteg vizsgálatára és kezelésére, gondozására, ápolására, egészségügyi rehabilitációjára, a fájdalom és a szenvedés csökkentésére, továbbá a fentiek érdekében a beteg vizsgálati anyagainak feldolgozására irányul, ideértve a plasztikai helyreállító és az esztétikai plasztikai invazív és minimál invazív beavatkozásokat, a gyógyszerekkel, a gyógyászati segédeszközökkel, a gyógyászati ellátásokkal kapcsolatos külön jogszabály szerinti tevékenységet, valamint a mentést és a betegszállítást, a szülészeti ellátást, az emberi reprodukcióra irányuló különleges eljárásokat, a művi meddővétételt, az emberen végzett orvostudományi kutatásokat, továbbá a halottvizsgálattal, a halottakkal kapcsolatos orvosi eljárásokkal, – ideértve az ehhez kapcsolódó – a halottak szállításával összefüggő külön jogszabály szerinti tevékenységeket is;
 - f) egészségügyi szolgáltató: a tulajdoni formától és fenntartótól függetlenül minden, egészségügyi szolgáltatás nyújtására és az egészségügyi államigazgatási szerv által kiadott működési engedély alapján jogosult egyéni egészségügyi vállalkozó, jogi személy vagy jogi személyiség nélküli szervezet;
 - g) egészségügyi intézmény: az f) pontban meghatározott egészségügyi szolgáltatók közül
   - ga) a rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó szolgáltatók (a továbbiakban együtt: gyógyintézet), továbbá
@@ -3014,7 +3014,12 @@ költségének fedezetét.
 
 gyakorolja.
 
-(10) Az állami fenntartású, vármegyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a vármegyei intézményhez (ide nem értve a vármegyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező vármegyei intézményt) tartozik, amelyik vármegyei intézmény székhelye szerinti vármegyében a városi intézmény székhelye található azzal, hogy azokban a vármegyékben, ahol irányítási joggal rendelkező vármegyei intézmény nem működik, a vármegyében működő egészségügyi felsőoktatási intézmény klinikai központját, ennek hiányában a vármegyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell vármegyei intézmény alatt érteni (a továbbiakban: irányító vármegyei intézmény).
+(10) Az állami fenntartású, vármegyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból
+
+- a) egészségügyi felsőoktatási intézmény klinikai központja esetében törvény vagy
+- b) az a) pont hatálya alá nem tartozó esetben a Kormány rendelete
+
+által kijelölt, a városi intézménnyel azonos vármegyében működő irányító vármegyei intézményhez (a továbbiakban: irányító vármegyei intézmény) tartozik.
 
 (11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító vármegyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító vármegyei kórház vezetője által tett kezdeményezésekre is.
 
@@ -3078,7 +3083,7 @@ fenntartására, irányítására.
 
 (20) Egészségügyi válsághelyzetben a Kormány rendeletében az állam tulajdonában és fenntartásában működő egészségügyi intézmények fenntartása és irányítása tekintetében az (1)–(18) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
-(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az az irányító vármegyei intézmény gyakorolja, amelyik székhelye szerinti vármegye területén a járóbeteg-szakellátást nyújtó egészségügyi intézmény székhelye található.
+(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az érintett vármegyében működő irányító vármegyei intézmény gyakorolja.
 
 (22) A Budapesten és Pest vármegyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
 
@@ -4833,6 +4838,8 @@ rendeletben megállapítsa.
 - l) a 74/K. § (2) bekezdése szerinti személyeket.
 - m) a köztisztaság és a településtisztaság környezet- és település-egészségügyi szabályait.
 
+(1d) Felhatalmazást kap a Kormány, hogy a 155. § (10) bekezdés b) pontja szerinti irányító vármegyei intézményeket rendeletben jelölje ki.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás közegészségügyi-járványügyi szabályait,
@@ -4914,7 +4921,7 @@ rendeletben állapítsa meg.
 - i) a Szoptatást Támogató Nemzeti Bizottság működésére vonatkozó szabályokat,
 - j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 - k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
-- l)
+- l) az orvosi esztétikai tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat
 - m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
 - n) egyes, környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegek és létesítmények vonatkozásában
   - na) a fertőzés kockázatának csökkentésére és megelőzésére irányuló közegészségügyi előírásokat,

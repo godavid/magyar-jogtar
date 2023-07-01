@@ -110,7 +110,7 @@ képes ellátni.
 - 16. nemzetiségi ügyek;
 - 17. közreműködés a település közbiztonságának biztosításában;
 - 18. helyi közösségi közlekedés biztosítása;
-- 19. hulladékgazdálkodás;
+- 19.
 - 20. távhőszolgáltatás;
 - 21. víziközmű-szolgáltatás, amennyiben a víziközmű-szolgáltatásról szóló törvény rendelkezései szerint a helyi önkormányzat ellátásért felelősnek minősül.
 
@@ -251,7 +251,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - 8. fővárosi szintű sport és szabadidősport;
 - 9. közvilágítás biztosítása, köztemetők fenntartása, kéményseprő-ipari szolgáltatás biztosítása;
 - 10. helyi közösségi közlekedés biztosítása és működtetése, valamint a főváros területén a parkolás feltételrendszerének kialakítása;
-- 11. távhőszolgáltatás, ivóvíz-ellátás, szennyvízelvezetés, -kezelés és -ártalmatlanítás (csatornaszolgáltatás), hulladékgazdálkodás;
+- 11. távhőszolgáltatás, ivóvíz-ellátás, szennyvízelvezetés, -kezelés és -ártalmatlanítás (csatornaszolgáltatás);
 - 12. környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás;
 - 13. honvédelem, polgári védelem, katasztrófavédelem;
 - 14. fővárosi helyi adóval kapcsolatos feladatok;

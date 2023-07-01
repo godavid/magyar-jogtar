@@ -2381,10 +2381,10 @@ eltérő rendelkezéseket állapíthat meg,
 
 (2) A klinikai központ
 
-- a) irányítói vármegyei intézményi feladatokat ellátó és
-- b) irányítói vármegyei intézményi feladatokat el nem látó
+- a) a 99. § (1a) bekezdése szerinti esetben irányítói vármegyei intézményi feladatokat ellátó és
+- b) az a) pont szerinti kijelölés hiányában irányítói vármegyei intézményi feladatokat el nem látó
 
-klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő szabályok az irányadók.
+klinikai központ lehet, amelyre ezen alcím rendelkezései szerinti eltérő szabályok az irányadók.
 
 (3) A klinikai központ fenntartója a felsőoktatási intézmény, a fenntartói jogokat a rektor a jogszabályban meghatározott, egészségügyi szolgáltatás irányításáért felelős szerv (a továbbiakban: egészségügyi szolgáltatás irányításáért felelős szerv) ezen alcímben foglalt jogkörei, továbbá a kancellár – ahol kancellár nem kerül megbízásra, a gazdasági vezető – e törvény szerinti jogkörei figyelembevételével gyakorolja.
 
@@ -2420,6 +2420,8 @@ klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő s
 - f) a klinikai központ működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, valamint
 - g) az egészségügyi intézmények irányítására vonatkozó jogszabályban foglaltakat nem érintve a Kormány által kijelölt miniszter által meghatározott szakmai irányítási feladatok ellátása.
 
+(1a) A Baranya, Csongrád-Csanád, valamint Hajdú-Bihar vármegyében működő klinikai központ az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) szerinti irányító vármegyei intézményi feladatokat ellátó klinikai központnak minősül. Ha törvény eltérően nem rendelkezik, úgy ezen klinikai központokat irányító vármegyei intézménynek kell tekinteni.
+
 (2) A szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az (1) bekezdés b) és c) pontja szerinti kezdeményezésnek megfelelően kell eljárnia.
 
 (3) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi szolgáltatás irányításáért felelős szerv az e törvényben foglaltak szerint gyakorolja a működtetéssel és gazdálkodással kapcsolatos irányítási jogköröket.
@@ -2428,7 +2430,7 @@ klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő s
 
 (5) Az egészségügyi szolgáltatás irányításáért felelős szerv e törvényben megállapított jogköre nem vonható el, és a jogkör gyakorlása során nem utasítható.
 
-99/A. § (1) A klinikai központ működésére és szervezetére, a klinikai központ vezetőjének jogaira és kötelezettségeire vonatkozó szabályokat – e törvény és az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) irányadó rendelkezéseinek figyelembevételével –, valamint a klinikai központ gazdálkodására vonatkozó szabályokat az egészségügyi felsőoktatási intézmény intézményi dokumentumában kell meghatározni.
+99/A. § (1) A klinikai központ működésére és szervezetére, a klinikai központ vezetőjének jogaira és kötelezettségeire vonatkozó szabályokat – e törvény és az Eütv. irányadó rendelkezéseinek figyelembevételével –, valamint a klinikai központ gazdálkodására vonatkozó szabályokat az egészségügyi felsőoktatási intézmény intézményi dokumentumában kell meghatározni.
 
 (2) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatának az egészségügyi tevékenységet közvetlenül meghatározó rendelkezései, valamint az egészségügyi felsőoktatási intézmény egyéb belső szabályzatának egészségügyi tevékenységet közvetlenül meghatározó rendelkezései elfogadásához a klinikai központ elnökének javaslata alapján az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének jóváhagyását be kell szerezni.
 

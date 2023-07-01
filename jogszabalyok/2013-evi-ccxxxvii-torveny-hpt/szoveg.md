@@ -3019,7 +3019,7 @@ e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
 - a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a hitelintézetek integrációja feladatkörében eljáró integrációs üzleti irányító szervezetével, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
-- b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
+- b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, az Európai Unió tagállamának eljáró hatóságával (ideértve a külföldi eljárásban közreműködő végrendeleti végrehajtót vagy kirendelt hagyatéki gondnokot is), valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 - e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,

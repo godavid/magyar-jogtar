@@ -1222,9 +1222,9 @@ Az állami adó- és vámhatóság megkeresésére a jövedéki adóvisszaigény
 - b) az erdészeti hatóság az erdő erdészeti azonosítója alapján az erdő nagyságáról, a használó személyéről, az erdőfelújítási kötelezettség elvégzéséről,
 - c) a vízügyi hatóság a halastó helyrajzi száma alapján a halastó nagyságáról, a használó személyéről, a halgazdálkodási tevékenység végzéséről.
 
-#### 102. § [Élelmiszerlánc felügyeleti hatóság adatszolgáltatása]
+#### 102. § [Élelmiszerlánc felügyeleti szerv adatszolgáltatása]
 
-Az élelmiszerlánc-felügyeleti hatóság az állami adó- és vámhatóság megkeresésére adatot szolgáltat a nyilvántartásában szereplő adatokról, ha az az ellenőrzés lefolytatásához szükséges.
+Az élelmiszerlánc-felügyeleti szerv az állami adó- és vámhatóság megkeresésére adatot szolgáltat a nyilvántartásában szereplő adatokról, ha az az ellenőrzés lefolytatásához szükséges.
 
 #### 103. § [Idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hatóság adatszolgáltatása]
 

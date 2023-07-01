@@ -2936,7 +2936,7 @@ feltételei fennállnak.
 
 ### Végrehajtási kifogás
 
-217. § (1) A végrehajtónak a végrehajtási eljárás szabályait és a végrehajtási kifogást előterjesztő jogát vagy jogos érdekét lényegesen sértő intézkedése, illetőleg intézkedésének elmulasztása (a továbbiakban együtt: intézkedése) ellen a fél vagy más érdekelt végrehajtási kifogást (a továbbiakban: kifogás) terjeszthet elő a végrehajtást foganatosító bírósághoz. E § alkalmazásában a végrehajtási eljárás szabályainak lényeges megsértése az olyan jogszabálysértés, amelynek a végrehajtási eljárás lefolytatására érdemi kihatása volt.
+217. § (1) A végrehajtónak a végrehajtási eljárás szabályait és a végrehajtási kifogást előterjesztő jogát vagy jogos érdekét lényegesen sértő intézkedése, illetőleg intézkedésének elmulasztása (a továbbiakban együtt: intézkedése) ellen a fél vagy más érdekelt végrehajtási kifogást (a továbbiakban: kifogás) terjeszthet elő a végrehajtást foganatosító bírósághoz. Ezen alcím alkalmazásában a végrehajtási eljárás szabályainak lényeges megsértése az olyan jogszabálysértés, amelynek a végrehajtási eljárás lefolytatására érdemi kihatása volt.
 
 (2) A kifogást a végrehajtó intézkedésétől számított 15 napon belül kell benyújtani a végrehajtónál, aki azt – a kifogásolt intézkedésre vonatkozó iratok másolatával együtt – 3 munkanapon belül továbbítja a végrehajtást foganatosító bíróságnak. Ha az intézkedés később jutott a kifogást előterjesztő tudomására, vagy a kifogás előterjesztésében a végrehajtó intézkedésétől számított 15 napon túl is akadályozva volt, a végrehajtási kifogás előterjesztésének határidejét a tudomásszerzéstől, illetőleg az akadály megszűnésétől kell számítani, amennyiben a kifogást előterjesztő a későbbi tudomásszerzés vagy az akadályoztatás tényét kellően igazolja. A végrehajtó intézkedésétől számított 3 hónap eltelte után nem lehet kifogást előterjeszteni; e határidő elmulasztása miatt nincs helye igazolásnak.
 
@@ -2965,6 +2965,10 @@ feltételei fennállnak.
 (5) Ha a kifogásolt intézkedés a jogszabályoknak megfelel vagy nem lényegesen jogszabálysértő, a bíróság a kifogásolt intézkedést hatályában fenntartja és a kifogást elutasítja. Ha a kifogásolt intézkedés lényegesen jogszabálysértő, a bíróság a kifogásolt intézkedést egészben vagy részben megsemmisíti, vagy – ha jogszabály ezt lehetővé teszi és a döntéshez szükséges tények megállapíthatók – a végrehajtó intézkedését egészben vagy részben megváltoztatja, intézkedés elmulasztása esetén pedig az elmulasztott intézkedés megtételére utasítja a végrehajtót.
 
 217/B. § (1) Lényegesen jogszabálysértő végrehajtói intézkedés vagy intézkedés elmulasztása esetén az önálló bírósági végrehajtó – a (2) bekezdésben foglalt kivétellel – köteles a kifogással érintett végrehajtási ügyben járó munkadíja 20%-ának, ugyanazon végrehajtási cselekmény tekintetében ismételt eljárási szabálysértés esetén pedig 50%-ának megfelelő pénzösszeg megfizetésére a (3) és (4) bekezdésben meghatározottak szerint.
+
+(1a) E § alkalmazásában a végrehajtó pénzkezelésére vagy díjszabására vonatkozó szabályok megsértése lényegesen jogszabálysértő végrehajtói intézkedésnek minősül abban az esetben is, ha annak a végrehajtási eljárás lefolytatására érdemi kihatása nem volt.
+
+(1b) A bíróság a végrehajtóval szemben meghozott pénzösszeg megfizetésére kötelező határozatát anonimizált formában – kizárólag a 230. § (1b) bekezdésében szereplő adatok megjelölésével – a jogerőre emelkedését követő 15 napon belül elektronikus úton megküldi a Hatóságnak.
 
 (2) Nem terheli a végrehajtót az (1) bekezdés szerinti kötelezettség akkor, ha a kifogás elbírálása keretében történik az ingatlan forgalmi értékének meghatározása, vagy ha a lényeges eljárási szabálysértéshez nem a végrehajtó érdekkörében felmerülő ok vezetett.
 
@@ -3118,6 +3122,15 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (1a) A Hatóság felügyeli a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyek intézését, a bíróság hatáskörébe tartozó ügyek kivételével.
 
+(1b) A Hatóság a 217/B. § (1b) bekezdése szerinti végzés alapján a végrehajtókról – az alábbi adattartalommal – nyilvántartást vezet:
+
+- a) a végrehajtó természetes személyazonosító adatai és lakcíme,
+- b) a végrehajtót pénzösszeg megfizetésére kötelező bíróság megnevezése,
+- c) a végrehajtót pénzösszeg megfizetésére kötelező jogerős határozat száma, kelte,
+- d) a megfizetendő pénzösszeg mértéke.
+
+(1c) Az (1b) bekezdés szerinti adatokat a Hatóság a végrehajtó szolgálata folyamatosságának megállapítása iránti kérelem elbírálása érdekében, az arról szóló határozat véglegessé válása napjáig kezeli.
+
 (2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének vizsgálatát kezdeményezheti.
 
 (3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a Kar hivatali szervének feladata.
@@ -3218,7 +3231,10 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 234. § A végrehajtói állást pályázat útján kell betölteni, kivéve, ha a határozott idő lejárta előtt a Hatóság elnöke megállapítja a végrehajtó szolgálata folyamatosságát.
 
-234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha a kinevezését követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál.
+234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha
+
+- a) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál, és
+- b) a kérelem benyújtásáig, a kérelem előterjesztésének évében, és az azt megelőző két év alatt a végrehajtót legfeljebb három alkalommal kötelezte a bíróság pénzösszeg 217/B. § szerinti megfizetésére.
 
 (2) Ha a kérelem elbírálása idején a végrehajtóval szemben a kérelem elbírálására kihatással bíró fegyelmi eljárás van folyamatban, a végrehajtó szolgálati viszonya a fegyelmi eljárás jogerős befejeződését követő, a végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelme elbírálása napjáig meghosszabbodik.
 
@@ -4615,6 +4631,10 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (2) A Módtv.15-tel megállapított 239/A. § (2b) bekezdése szerinti kötelezettségnek a végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a 2023. évben 2023. szeptember 1. napjáig köteles eleget tenni.
 
 (3) A Módtv.15-tel megállapított 271/A. § (1) bekezdését a Módtv.15. hatálybalépését követően megválasztásra kerülő szakülnök esetén kell alkalmazni.
+
+(4) A Módtv.15-tel megállapított 217/B. § (1a) és (1b) bekezdését, valamint a 230. § (1b) bekezdését a Módtv.15. hatálybalépésekor folyamatban lévő végrehajtási eljárások során is alkalmazni kell a Módtv.15. hatálybalépését követően jogerőre emelkedő határozatok esetén.
+
+(5) A 2026. január 1-jét megelőzően benyújtott szolgálat folyamatosságának megállapítása iránti kérelmek esetében a Módtv.15.-tel megállapított 234/A. § (1) bekezdés b) pontja szerinti feltétel fennállásának megállapítása során a 2023. július 1-jétől a kérelem benyújtásáig terjedő időszakot kell figyelembe venni.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

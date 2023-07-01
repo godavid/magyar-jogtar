@@ -1248,7 +1248,7 @@ továbbítható.
 
 (10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható.
 
-(11) A tehetséggondozás kereteit a Nemzeti Tehetség Program jelöli ki, amelyet a Nemzeti Tehetség Alap támogat. A Nemzeti Tehetség Program és Alap a köznevelésért felelős miniszter irányítása alatt, jogszabályban foglaltak szerint működik. A Nemzeti Tehetség Program elérendő célokat jelölhet ki a köznevelési intézmények számára, és tartalmazza a feladatok finanszírozásának módját is.
+(11) A tehetséggondozás kereteit a Nemzeti Tehetség Program jelöli ki, amelyet a Nemzeti Tehetség Alap támogat. A Nemzeti Tehetség Program és Alap a gyermek- és ifjúságpolitikáért felelős miniszter irányítása alatt, jogszabályban foglaltak szerint működik. A Nemzeti Tehetség Program elérendő célokat jelölhet ki a köznevelési intézmények számára, és tartalmazza a feladatok finanszírozásának módját is.
 
 #### 29. A tanulók közösségei, a diákönkormányzat
 
@@ -2922,6 +2922,8 @@ rendeletben határozza meg.
 kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje ki.
 
 (4h) Felhatalmazást kap a Kormány, hogy az egyéni munkarenddel kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje ki.
+
+(4i) Felhatalmazást kap a Kormány, hogy a Nemzeti Tehetség Program finanszírozására vonatkozó részletszabályokat rendeletben állapítsa meg.
 
 (5) A (4) bekezdés a)–c) és f) pontjában meghatározott kormányrendeleteknek a Kormány részére történő benyújtásához – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését, oktatását érintő kérdésekben – be kell szerezni az országos nemzetiségi önkormányzatok véleményét.
 

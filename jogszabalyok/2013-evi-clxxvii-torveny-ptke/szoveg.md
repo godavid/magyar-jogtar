@@ -387,9 +387,11 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (5) Ha az ügyészi keresettel érintett vagyontárgy ingatlan, az ügyész a (2) és (3) bekezdés szerinti szerződésekkel kapcsolatos széljegyzett beadványok elintézésének függőben tartása érdekében kérheti az ingatlanügyi hatóság megkeresését. A bíróság e kérelem tárgyában a tárgyalás előkészítésére irányuló intézkedések körében dönt. A bíróság megkeresése alapján az ingatlanügyi hatóság a megkereséssel érintett beadványok elintézését a bíróság jogerős döntéséig függőben tartja.
 
-#### 22/B.
+#### 22/B. A tisztességtelenségtől eltérő okból semmis általános szerződési feltétellel kapcsolatos közérdekű kereset
 
-#### 53/B. §
+### [A Ptk. 6:105. §-ához]
+
+53/B. § A tisztességtelen általános szerződési feltétellel kapcsolatos közérdekű kereset megindítására jogosult személy a fogyasztó és a vállalkozás közötti szerződés részévé váló általános szerződési feltétel érvénytelenségének megállapítását – a tisztességtelen általános szerződési feltétellel kapcsolatos közérdekű keresetre vonatkozó szabályok szerint – akkor is kérheti a bíróságtól, ha a kikötés a tisztességtelenségtől eltérő egyéb okból semmis.
 
 #### 22/C. Szerződésátruházás
 
@@ -463,6 +465,12 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 64. § A Ptk. örökbefogadással kapcsolatos öröklési jogi rendelkezéseit a Ptk. hatálybalépése után indult örökbefogadási eljárás alapján keletkezett öröklési jogviszonyra kell alkalmazni.
 
+#### 28/A. Az állam és az önkormányzat mint törvényes örökös
+
+### (A Ptk. 7:74. §-ához)
+
+64/A. § A Ptk.-nak az állami vagyonnal való gazdálkodás hatékonyságának növelése érdekében egyes vagyongazdálkodást érintő törvények módosításáról szóló 2022. évi LI. törvénnyel módosított 7:74. §-át a 2023. július 1-jén vagy azt követően megnyíló öröklés vonatkozásában kell alkalmazni.
+
 #### 29. Kötelesrész
 
 ### (A Ptk. 7:78. és 7:82. §-ához)
@@ -513,3 +521,5 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 ### XI. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
 72. § A 11. §-nak a civil szervezetek és a cégek nyilvántartásával összefüggő eljárások módosításáról és gyorsításáról szóló 2016. évi CLXXIX. törvény 35. §-ával megállapított rendelkezéseit arra az egyesületre és alapítványra kell alkalmazni, amely 2017. január 1-jéig jogerősen még nem tett eleget a civil szervezetek és a cégek nyilvántartásával összefüggő eljárások módosításáról és gyorsításáról szóló 2016. évi CLXXIX. törvény hatálybalépését megelőző napon hatályos 11. §-ban foglalt létesítő okirat módosítási kötelezettségének, ideértve azt az esetet is, ha 2017. január 1. napján a 11. § (4) bekezdés szerinti változásbejegyzési kérelme még nem került benyújtásra.
+
+73. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 53/B. §-át az e rendelkezés módosításának hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.
