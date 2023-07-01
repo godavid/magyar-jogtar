@@ -170,7 +170,7 @@ látja el.
 
 #### 6/A. Nemzeti Turisztikai Adatszolgáltató Központ
 
-9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, valamint hivatalos statisztikai adatok előállításának segítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
+9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, valamint hivatalos statisztikai adatok előállításának segítése, továbbá az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség teljesítésére alkalmas, a 9/G. § (2) és (4) bekezdése szerinti szoftver üzembe helyezésének elősegítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
 
 9/B. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ
 
@@ -180,6 +180,8 @@ látja el.
 személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolgáltató által a szálláshelykezelő szoftver, vendéglátó üzlet üzemeltetője által a vendéglátó szoftver, valamint a turisztikai attrakció üzemeltetője által a jegykezelő szoftver igénybevételével átadott adatokat tartalmazza, valamint a b) pont alá nem tartozó, a Vhr.-ben meghatározott vendéglátó üzlet üzemeltetője által a vendéglátó szoftver, valamint a turisztikai attrakció üzemeltetője által a jegykezelő szoftver igénybevételével átadott adatokat tartalmazza.
 
 (2) Az (1) bekezdés szerinti adatkörről a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központ honlapján tájékoztatót tesz közzé.
+
+(3) A Nemzeti Turisztikai Adatszolgáltató Központ közreműködik az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség 9/G. § (2) és (4) bekezdése szerinti szoftverrel történő teljesítésének az állami adóhatóságnál történő bejelentésében.
 
 9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
 
@@ -236,6 +238,12 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 (3) A turisztikai attrakció üzemeltetője a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan jegykezelő szoftvert alkalmaz, amely alkalmas arra, hogy a 9/B. § (1) bekezdésében meghatározott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ részére továbbítsa.
 
 (4) A Magyar Turisztikai Ügynökség Zrt. a (3) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja.
+
+(5) A (2) és (4) bekezdés szerint biztosított szoftvernek alkalmasnak kell lennie az (1) és (3) bekezdésben foglalt kötelezettség teljesítése mellett az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási, és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség teljesítésére is.
+
+(6) A Kormány rendeletében meghatározottak szerint a Nemzeti Turisztikai Adatszolgáltató Központ részére adatszolgáltatásra kötelezett vendéglátó üzlet és a turisztikai attrakció üzemeltetője az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettségét az állami adóhatóság részére – a Nemzeti Turisztikai Adatszolgáltató Központban elektronikusan – tett bejelentése alapján a (2), illetve a (4) bekezdés szerinti szoftverrel is teljesítheti. A bejelentő azonosítását és képviseleti jogosultságának ellenőrzését a Nemzeti Turisztikai Adatszolgáltató Központ végzi a 9/C. §-ban meghatározott azonosítási szolgáltatások és nyilvántartások útján.
+
+(7) Az állami adóhatóság a Nemzeti Turisztikai Adatszolgáltató Központ útján közli a vendéglátó üzlet, illetve a turisztikai attrakció üzemeltetőjével a (6) bekezdés szerinti bejelentés alapján képzett, az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség (2), illetve (4) bekezdés szerinti szoftverrel való teljesítésének megkezdéséhez szükséges üzembehelyezési kódot.
 
 #### 6/B. A szálláshely-szolgáltatást igénybe vevők bejelentkezésével kapcsolatos adatszolgáltatás
 

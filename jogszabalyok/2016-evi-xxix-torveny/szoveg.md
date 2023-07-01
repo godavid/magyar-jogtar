@@ -465,6 +465,8 @@ minősítést kap.
 
 (4) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: igazságügyi szakértői testületi tag.
 
+(4a) A (3) bekezdés szerinti eskü olyan módon is megszervezhető, hogy az eskütételre kötelezett az erről szóló okmányt elektronikusan írja alá.
+
 (5) Az igazságügyi szakértői testület szakértőként vélemény nyilvánítására eseti bizottságot hoz létre. A bizottság legalább három-, de legfeljebb öttagú, eljárása során független, munkájáért külön díjazásban részesül. Az igazságügyi szakértői testület és a bizottság eljárásának részletes szabályait külön jogszabály állapítja meg.
 
 #### 17. Az igazságügyi szakértői testületek feletti törvényességi felügyelet
@@ -701,6 +703,8 @@ minősítést kap.
 (2) A hatósági ellenőrzés keretében a szakértő tevékenységét a névjegyzéket vezető hatóság bármikor megvizsgálhatja, és ennek során közvetlenül a szakértőtől bekérheti a szakértői tevékenységről vezetett nyilvántartást.
 
 (3) A vizsgálatot a hatóság és a Kamara is kezdeményezheti.
+
+(4) A névjegyzéket vezető hatóság hivatalból, a személyiadat- és lakcímnyilvántartásból történő adatigényléssel, hatósági ellenőrzés keretében ellenőrzi az igazságügyi szakértő 1. melléklet 1.1.–1.5. és 1.7. pontjában foglalt adatait, valamint az 1.14.7. pontjában foglalt tényt a hatósági feladatainak ellátása, valamint a hatóságok igazságszolgáltatási feladatainak adatszolgáltatás nyújtásával történő elősegítése érdekében.
 
 #### 26. A hatóság kötelezettségei a szakértő eljárásával összefüggésben
 

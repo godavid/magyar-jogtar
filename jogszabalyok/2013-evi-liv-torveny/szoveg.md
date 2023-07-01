@@ -63,9 +63,9 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 (2) A 4. § (2) és (3) bekezdésében meghatározott tájékoztatási kötelezettség az (1) bekezdés szerinti díjat alkalmazó víziközmű-szolgáltatót vagy közvetített víziközmű-szolgáltatást nyújtó szervezetet egyaránt terheli.
 
-5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékgazdálkodási közszolgáltató (a továbbiakban: szolgáltató) a tárgyévet követő év január 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
+5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó közszolgáltató (a továbbiakban: szolgáltató) a tárgyévet követő év január 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
 
-6. § Az 5. §-ban meghatározott kötelezettség a víziközmű-szolgáltatót, a hulladékgazdálkodási közszolgáltatót, valamint – a közvetítésével nyújtott és az általa kiszámlázott ivóvíz-szolgáltatás esetében – a távhőszolgáltatót, a 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában terheli.
+6. § Az 5. §-ban meghatározott kötelezettség a víziközmű-szolgáltatót, a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó közszolgáltatót, valamint – a közvetítésével nyújtott és az általa kiszámlázott ivóvíz-szolgáltatás esetében – a távhőszolgáltatót, a 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában terheli.
 
 7. § (1) A szolgáltató részéről a közszolgáltatási-, közüzemi- vagy az egyetemes szolgáltatási szerződés megszegésének minősül, ha az 1–5. §-ban meghatározott kötelezettségét nem teljesíti.
 
@@ -83,6 +83,10 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 9. § Rezsicsökkentés alatt a közszolgáltatások végfogyasztói árainak jogszabályok alapján megvalósuló csökkenését kell érteni.
 
-#### 10–12. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
 
 13. § Ez a törvény a kihirdetését követő napon lép hatályba.

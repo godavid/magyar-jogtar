@@ -78,21 +78,11 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 5/B. § Az ingatlanügyi hatóság az 5/A. § (1) bekezdése szerinti vagyonkezelői jogot a vagyonkezelő kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási bejegyeztetésére és a vagyonkezelői jog gyakorlására a vagyonkezelő vagyonkezelési szerződés kötése nélkül jogosult.
 
-#### 5. Az OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság állami tulajdonban álló ingatlanok vagyonkezelőjeként történő kijelöléséről
+#### 5.
 
-6. § (1) Az Nvtv. 11. § (5) bekezdése alapján az állami tulajdonban álló, a 3. mellékletben felsorolt ingatlanok, valamint az azokhoz kapcsolódó ingóságok vagyonkezelője az OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OMSZI) a szociális, valamint köznevelési, oktatási feladatainak elősegítése céljából.
+#### 6. §
 
-(2) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése és gyakorlása ingyenesen történik.
-
-(3) Az (1) és (2) bekezdés szerint keletkező vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal (a továbbiakban: MNV Zrt.) kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket – a (4) és (5) bekezdésben foglalt eltérésekkel – kell alkalmazni azzal, hogy a vagyonkezelési szerződés felmondása csak jogszabályban meghatározott rendkívüli felmondási ok bekövetkezése esetén lehetséges bármelyik fél részéről.
-
-(4) Az OMSZI főtevékenysége, valamint általa a vagyonkezelői joggyakorlás keretében kezelt vagyonnal végzett valamennyi tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
-
-(5) Az OMSZI által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozásával vagy beszerzésével összefüggésben a (3) bekezdés szerinti feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. A vagyonkezelői jogviszony tárgyát képező állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek az OMSZI – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban részére történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
-
-(6) Az (1) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot – a (3) bekezdés szerinti vagyonkezelési szerződés megkötését követően – az OMSZI kérelme alapján kell az ingatlan-nyilvántartásba bejegyezni.
-
-7. § Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond az államnak az OMSZI-val szemben, az OMSZI jogcím nélküli használatában álló, a 3. melléklet 7–10. pontjában megjelölt állami vagyonra vonatkozó, a tulajdonosi joggyakorló által kezelt nettó 817.651.380 forint összegű használati díj követeléséről azzal, hogy az OMSZI vállalja, hogy a jogcím nélküli használat időtartama alatt az állami ingatlanokon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
+#### 7. §
 
 #### 5/A. A Dunamelléki Református Egyházkerület részére történő vagyonjuttatás
 
@@ -992,21 +982,6 @@ b)
 | 3. | Budapest VI. kerület belterület, 1066 Budapest, Jókai u. 2. | 29038/2/A/4 | 1/1 | színház |
 
 ### 3. melléklet a 2021. évi CI. törvényhez
-
-#### Az OMSZI vagyonkezelésébe kerülő állami tulajdonú ingatlanok
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | KIJELÖLÉSSEL ÉRINTETT ÁLLAMI TULAJDONI HÁNYAD | MEGNEVEZÉS |
-| 2. | Budapest VIII. kerület | 38721 | magyar állam 655/10000 tulajdonában álló ingatlan 2. emelete és 2 db parkolóhely | kivett üzem |
-| 3. | Budapest VI. kerület | 28317 | 1/1 | kivett szociális otthon, művészotthon |
-| 4. | Budapest V. kerület | 24141 | 1/1 | kivett szociális otthon |
-| 5. | Budapest II. kerület | 51584/1 | 1/1 | kivett idősek otthon |
-| 6. | Sopron | 7087/1 | 1/1 | kivett szociális intézmény |
-| 7. |  |  |  |  |
-| 8. |  |  |  |  |
-| 9. | Budapest II. kerület | 12248 | 1/1 | kivett lakóház, udvar, egyéb épület |
-| 10. | Budapest II. kerület | 12239/2 | 1/1 | kivett lakóház, udvar |
 
 ### 4. melléklet a 2021. évi CI. törvényhez
 

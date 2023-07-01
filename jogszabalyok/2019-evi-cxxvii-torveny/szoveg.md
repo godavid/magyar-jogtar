@@ -588,7 +588,7 @@ az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésé
 
 (3)
 
-(4)
+(4) Az Nsztv. 63. §-ában „Az online gyűjtési rendszer megfelelőségéről szóló igazolás kiállítása, a” szövegrész helyébe az „A” szöveg lép.
 
 #### 66. A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása
 

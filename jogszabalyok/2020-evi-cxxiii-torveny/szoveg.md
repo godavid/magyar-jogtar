@@ -2,7 +2,17 @@
 
 a családi gazdaságokról
 
-Az Országgyűlés – az Alaptörvény P) cikkének (2) bekezdésére figyelemmel – jelen törvény megalkotásával– kifejezi elköteleződését a családok gazdasági szerepének erősítése mellett;– kiemelten fontosnak tartja, hogy a mezőgazdasági termelés gerincét a családi gazdaságokon alapuló termelési forma határozza meg;– kifejezi meggyőződését arra nézve, hogy a generációkat átfogó keretekben végzett termelési tevékenység képes tartósan biztosítani a vidék megtartó erejét és gyarapodását;– hosszú távon biztosítani kívánja a mezőgazdaság sokszínűségének megőrzését és alkalmazkodóképességének erősítését;– köszönetét fejezi ki a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara részére a jelen törvény előkészítésében végzett szervező tevékenységéért.
+Az Országgyűlés – az Alaptörvény P) cikkének (2) bekezdésére figyelemmel – jelen törvény megalkotásával
+
+– kifejezi elköteleződését a családok gazdasági szerepének erősítése mellett;
+
+– kiemelten fontosnak tartja, hogy a mezőgazdasági termelés gerincét a családi gazdaságokon alapuló termelési forma határozza meg;
+
+– kifejezi meggyőződését arra nézve, hogy a generációkat átfogó keretekben végzett termelési tevékenység képes tartósan biztosítani a vidék megtartó erejét és gyarapodását;
+
+– hosszú távon biztosítani kívánja a mezőgazdaság sokszínűségének megőrzését és alkalmazkodóképességének erősítését;
+
+– köszönetét fejezi ki a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara részére a jelen törvény előkészítésében végzett szervező tevékenységéért.
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -23,7 +33,13 @@ terjed ki.
 2. § E törvény alkalmazásában:
 
 - a) hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pontjában meghatározott hozzátartozó;
-- b) hozzátartozói láncolat: a Ptk. 8:1. § (1) bekezdés 1. pontjának megfelelő közeli hozzátartozói kapcsolatban lévő természetes személyek, valamint e személyek hozzátartozói és egyenesági rokonai által alkotott csoport;
+- b) hozzátartozói láncolat:
+  - ba) a Ptk. 8:1. § (1) bekezdés 1. pontjának megfelelő közeli hozzátartozói kapcsolatban lévő természetes személyek,
+  - bb) a ba) alpont szerinti személyek hozzátartozói, és
+  - bc) a bb) alpont szerinti személyek egyenesági rokonai
+
+által alkotott csoport;
+
 - c) kiegészítő őstermelői tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása mező-, erdőgazdasági tevékenységből származó termékfeldolgozás kivételével, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, továbbá mező- és erdőgazdasági szolgáltatás;
 - d) mező-, erdőgazdasági hasznosítású föld: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 5. § 17. pontjában meghatározott mező-, erdőgazdasági hasznosítású föld;
 - e) mező-, erdőgazdasági tevékenység: a Földforgalmi törvény 5. § 18. pontjában meghatározott mező-, erdőgazdasági tevékenység, valamint továbbá e tevékenységből származó termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget;
@@ -128,6 +144,8 @@ terjed ki.
 - c) a tag elhalálozik,
 - d) a tag vonatkozásában a hozzátartozói láncolat megszakad.
 
+(2a) A tag vonatkozásában a hozzátartozói láncolat fennállása nem szűnik meg a házastárs halálával.
+
 (3) Ha az elhunyt tag örököse mezőgazdasági őstermelőnek minősül és a többi taggal hozzátartozói láncolatban áll, akkor a tagok hozzájárulásával az őstermelők családi gazdaságába tagként beléphet.
 
 (4) Ha az őstermelők családi gazdasága képviselőjének a tagsági jogviszonya megszűnik, a bejelentéssel egyidejűleg meg kell jelölni az új képviselő személyét. Ha az őstermelők családi gazdasága képviselőjének a tagsági jogviszonya a (2) bekezdés b)–d) pontjában meghatározott esetben szűnik meg, akkor a tagoknak 15 napon belül be kell jelenteniük az új képviselő személyét.
@@ -146,7 +164,7 @@ terjed ki.
 
 #### 10. A mezőgazdasági őstermelők és az őstermelők családi gazdaságainak nyilvántartása
 
-12. § (1) A mezőgazdasági őstermelők és az őstermelők családi gazdaságának adatait (a továbbiakban: őstermelői nyilvántartás) az élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) kell nyilvántartani, amely a 13. § (1) bekezdésének 7–17. pontjában meghatározott adatok tekintetében közhitelesnek minősül.
+12. § (1) A mezőgazdasági őstermelők és az őstermelők családi gazdaságának adatait (a továbbiakban: őstermelői nyilvántartás) az élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) kell nyilvántartani, amely a 13. § (1) bekezdésének 1. pont h) alpontjában, 2–9., 11. és 13. pontjában meghatározott adatok tekintetében közhitelesnek minősül.
 
 (2) A mezőgazdasági őstermelőknek őstermelők családi gazdaságában való részvételének tényét az őstermelői nyilvántartásban fel kell tüntetni.
 
@@ -158,31 +176,32 @@ terjed ki.
 
 13. § (1) Az őstermelői nyilvántartás tartalmazza
 
-- 1. a mezőgazdasági őstermelő családi és utónevét, születési családi és utónevét,
-- 2. születési helyét és idejét,
-- 3. adóazonosító jelét,
-- 4. anyja születési családi és utónevét,
-- 5. lakcímét,
-- 6. értesítési címét, telefonszámát, elektronikus levélcímét,
-- 7. a mezőgazdasági termelő FELIR azonosítóját és tevékenységazonosítóját,
-- 8. a mezőgazdasági őstermelő nyilvántartásba vételének, nyilvántartásból törlésének dátumát a 19. §-nak megfelelően, valamint az őstermelői igazolvány érvényesítésének dátumát,
-- 9. az őstermelői tevékenység végzésének helyét,
-- 10. a mezőgazdasági őstermelő által termesztett növénykultúrák, -fajok megnevezését,
-- 11. a mezőgazdasági őstermelő által tartott állatfajok megnevezését,
-- 12. a mezőgazdasági őstermelő által értékesíteni kívánt növényi, illetve állati eredetű termékek megnevezését,
-- 13. a mezőgazdasági őstermelő által vadon gyűjthető termékek körét,
-- 14. a mezőgazdasági őstermelő által folytatott tevékenységek körét, azok tevékenység-azonosítóját és a tevékenységek kezdetének és befejezésének dátumát,
-- 15. az arra vonatkozó adatot, hogy a mezőgazdasági őstermelő őstermelők családi gazdasága tagjaként végzi-e őstermelői tevékenységét, és ez esetben az őstermelők családi gazdaságának nyilvántartási számát,
-- 16. az őstermelők családi gazdaságának központját,
-- 17. az arra vonatkozó adatot, hogy a mezőgazdasági őstermelő az őstermelők családi gazdaságát képviseli,
-- 18. az őstermelők családi gazdaságának tagjainak hozzátartozói minőségére, illetve a hozzátartozói láncolatban elfoglalt helyére vonatkozó adatot,
-- 19. az őstermelők családi gazdasága működésének alapjául szolgáló szerződés példányát,
-- 20. a mezőgazdasági őstermelői tevékenységtől eltiltás tényét, kezdő és záró időpontját,
-- 21. a mezőgazdasági őstermelői tevékenység felfüggesztésének okát, kezdő és záró időpontját.
-- 22. az őstermelők családi gazdasága nyilvántartásba vételének, nyilvántartásból törlésének dátumát a 19. §-nak megfelelően,
-- 23. az őstermelők családi gazdasága tagjait és FELIR azonosítójukat a 19. §-nak megfelelően, valamint a családi gazdálkodót.
+- 1. a mezőgazdasági őstermelő
+  - a) családi és utónevét, születési családi és utónevét,
+  - b) születési helyét és idejét,
+  - c) elhalálozásának dátumát,
+  - d) adóazonosító jelét,
+  - e) anyja születési családi és utónevét,
+  - f) lakcímét,
+  - g) értesítési címét, telefonszámát, elektronikus levélcímét,
+  - h) FELIR azonosítóját, tevékenységeinek azonosítóját,
+- 2. a mezőgazdasági őstermelő nyilvántartásba vételének, nyilvántartásból való törlésének dátumát a 19. §-nak megfelelően, valamint az őstermelői igazolvány érvényesítésének dátumát,
+- 3. az őstermelői tevékenység végzésének helyét,
+- 4. a mezőgazdasági őstermelő által termesztett növénykultúrák, -fajok megnevezését,
+- 5. a mezőgazdasági őstermelő által tartott állatfajok megnevezését,
+- 6. a mezőgazdasági őstermelő által értékesíteni kívánt növényi, illetve állati eredetű termékek megnevezését,
+- 7. a mezőgazdasági őstermelő által vadon gyűjthető termékek körét,
+- 8. a mezőgazdasági őstermelő által folytatott tevékenységek körét, azok tevékenység-azonosítóját és a tevékenységek kezdetének és befejezésének dátumát,
+- 9. az arra vonatkozó adatot, hogy a mezőgazdasági őstermelő őstermelők családi gazdasága tagjaként végzi-e őstermelői tevékenységét, és ez esetben az őstermelők családi gazdaságának nyilvántartási számát,
+- 10. az őstermelők családi gazdaságának tagjait és FELIR azonosítójukat, valamint a nyilvántartásba vételük és a nyilvántartásból való törlésük dátumát a 19. §-nak megfelelően,
+- 11. az arra vonatkozó adatot, hogy a mezőgazdasági őstermelő az őstermelők családi gazdaságát képviseli,
+- 12. az őstermelők családi gazdasága tagjainak hozzátartozói minőségére, illetve a hozzátartozói láncolatban elfoglalt helyére vonatkozó adatot,
+- 13. az őstermelők családi gazdaságának központját,
+- 14. az őstermelők családi gazdasága működésének alapjául szolgáló szerződés példányát,
+- 15. a mezőgazdasági őstermelői tevékenységtől eltiltás tényét, kezdő és záró időpontját,
+- 16. a mezőgazdasági őstermelői tevékenység felfüggesztésének okát, kezdő és záró időpontját.
 
-(2) Az őstermelői nyilvántartás adatai közül az őstermelők tevékenységének átláthatósága céljából a mezőgazdasági igazgatási szerv honlapján való közzététellel bárki számára megismerhető az (1) bekezdés 1., 7., 8., 10–17., 20., 21., 22. és 23. pontja.
+(2) Az őstermelői nyilvántartás adatai közül az őstermelők tevékenységének átláthatósága céljából a mezőgazdasági igazgatási szerv honlapján való közzététellel bárki számára megismerhető az (1) bekezdés 1. pont a) és h) alpontja, 2., 4–11., 13., 15 és 16. pontja szerinti adat.
 
 (3) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokat, ha az őstermelő
 
@@ -191,7 +210,7 @@ terjed ki.
 
 tárolja.
 
-(4) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokról és azok változásáról adatot szolgáltat az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a társadalombiztosítási és családtámogatási szervnek, a kormányhivatalnak, a vásár, piac fenntartójának, üzemeltetőjének a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladatainak ellátása érdekében.
+(4) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokról és azok változásáról adatot szolgáltat az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a társadalombiztosítási és családtámogatási szervnek, a kormányhivatalnak, a vásár, piac fenntartójának, üzemeltetőjének a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladatainak ellátása érdekében, valamint ellátja az őstermelői tevékenység igazolásával kapcsolatos feladatokat.
 
 (5) Az őstermelői nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárpolitikáért felelős miniszter irányítása alatt álló agrárgazdasági elemzésekkel foglalkozó intézmény részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra személyazonosításra alkalmatlan módon átadhatók.
 
@@ -314,175 +333,175 @@ sarkalatosnak minősül.
 
 #### 17. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 18. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
 #### 19. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 20. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
 #### 21. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 22. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 23. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
 #### 24. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 25. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
 
-47. §
+#### 47. §
 
 #### 26. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-48. §
+#### 48. §
 
 #### 27. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 28. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
 #### 29. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
 #### 30. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
 #### 31. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
-76. §
+#### 76. §
 
 #### 32. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
-77. §
+#### 77. §
 
 #### 33. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-78. §
+#### 78. §
 
 #### 34. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
 #### 35. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
 ### 1. melléklet a 2020. évi CXXIII. törvényhez
 

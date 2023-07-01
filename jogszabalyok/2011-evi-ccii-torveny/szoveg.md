@@ -93,44 +93,47 @@ véleményét.
 
 ### II. Fejezet — AZ ÁLLAMI KITÜNTETÉSEK
 
-13. § Magyarország Országgyűlése az állami szuverenitásból következően a kimagasló teljesítmények megbecsülésére és elismerésére az alábbi állami kitüntetéseket és rendjeleket (a továbbiakban: állami kitüntetések) alapítja, illetve megújítja:
+13. § (1) Magyarország Országgyűlése az állami szuverenitásból következően a kimagasló teljesítmények megbecsülésére és elismerésére az alábbi állami kitüntetéseket és rendjeleket alapítja, illetve megújítja:
 
 - a) Magyar Szent István Rend;
 - b) Magyar Corvin-lánc;
 - c) Magyar Becsület Rend;
 - d) Magyar Érdemrend és Magyar Érdemkereszt.
 
-14. § A Magyar Szent István Rend (a továbbiakban: Szent István Rend) – a Mária Terézia magyar királynő által 1764. május 5-én alapított Szent István Rend megújításaként – Magyarország érdekében tett legkiemelkedőbb különleges érdemek, kimagasló életművek, nemzetközi téren szerzett jelentős értékek elismerésére szolgál.
+(2) A Magyar Corvin-lánc adományozására, valamint a Magyar Corvin-lánccal kapcsolatos jogosultságokra, kötelezettségekre és feladatokra vonatkozó szabályokat törvény állapítja meg.
 
-15. § (1) A Magyar Corvin-lánc (a továbbiakban: Corvin-lánc) a magyar tudomány és művészet, valamint a magyar oktatás és művelődés fellendítése terén szerzett kimagasló érdemek elismerésére szolgál.
+14. § A Magyar Szent István Rend – a Mária Terézia magyar királynő által 1764. május 5-én alapított Magyar Szent István Rend megújításaként – Magyarország érdekében tett legkiemelkedőbb különleges érdemek, kimagasló életművek, nemzetközi téren szerzett jelentős értékek elismerésére szolgál.
 
-(2) A Corvin-lánc kitüntetéssel adományozottak alkotják a Magyar Corvin-lánc Testületet (a továbbiakban: Corvin-lánc Testület).
-
-(3) A Corvin-lánccal kapcsolatos feladatokat a nemzetpolitikáért felelős miniszter által vezetett minisztériumban működő Magyar Corvin-lánc Iroda (a továbbiakban: Corvin-lánc Iroda) látja el.
+#### 15. §
 
 16. § A Magyar Becsület Rend Magyarország és a nemzet érdekében teljesített kiemelkedő szolgálat vagy tanúsított hősiesség elismerésére szolgál.
 
-17. § A Magyar Érdemrend és Magyar Érdemkereszt a nemzet szolgálatában, az ország fejlődésének elősegítésében, a haza érdekeinek előmozdításában és az egyetemes emberi értékek gyarapításában végzett kimagasló, példamutató tevékenység elismerésére szolgál.
+17. § A Magyar Érdemrend és a Magyar Érdemkereszt a nemzet szolgálatában, az ország fejlődésének elősegítésében, a haza érdekeinek előmozdításában és az egyetemes emberi értékek gyarapításában végzett kimagasló, példamutató tevékenység elismerésére szolgál.
 
-18. § (1) Magyarország állami kitüntetéseit a miniszterelnök előterjesztésére a köztársasági elnök adományozza.
+18. § (1) A Magyar Szent István Rend, a Magyar Becsület Rend, a Magyar Érdemrend és a Magyar Érdemkereszt kitüntetést (a továbbiakban együtt: e törvény szerinti állami kitüntetések) a miniszterelnök előterjesztésére a köztársasági elnök adományozza.
 
-(2) A Magyar Érdemkereszt adományozására a miniszter tesz javaslatot a miniszterelnöknek az előterjesztésre.
+(2) A Magyar Szent István Rend és a Magyar Becsület Rend adományozására a Kormány kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáért felelős tagja tesz javaslatot a miniszterelnöknek az előterjesztésre.
 
-(3) Külföldi állampolgár esetében a külpolitikáért felelős miniszter tesz javaslatot a miniszterelnöknek az előterjesztésre.
+(3) A Magyar Érdemrend és a Magyar Érdemkereszt adományozására
 
-(4) Magyar állampolgár számára külföldi állami kitüntetés viselését a külpolitikáért felelős miniszter előterjesztése alapján a köztársasági elnök megtilthatja.
+- a) – a b) pontban foglalt kivétellel – a feladatköre szerint illetékes miniszter,
+- b) külföldi állampolgár esetében a külpolitikáért felelős miniszter vagy – külhoni magyar állampolgárra vonatkozóan – a nemzetpolitikáért felelős miniszter
+
+tesz javaslatot a miniszterelnöknek az előterjesztésre.
+
+(4) Magyar állampolgár számára külföldi állami kitüntetés viselésének engedélyezését a külpolitikáért felelős miniszter kezdeményezheti a köztársasági elnöknél.
 
 (5) Annak, akit bűncselekmény elkövetése miatt jogerősen elítéltek – függetlenül attól, hogy az elítéléshez fűződő jogkövetkezmények alól mentesült-e –, csak kivételes méltánylást érdemlő esetben lehet kitüntetést adományozni.
 
-19. § (1) Az állami kitüntetéseket a köztársasági elnök vagy személyes megbízottja adja át ünnepélyes körülmények között.
+19. § (1) Az e törvény szerinti állami kitüntetéseket a köztársasági elnök vagy személyes megbízottja adja át ünnepélyes körülmények között.
 
 (2) A kitüntetett az adományozást igazoló okiratot és igazolványt kap.
 
-(3) Az állami kitüntetések adományozásáról szóló határozatot a Magyar Közlönyben közzé kell tenni.
+(3) Az e törvény szerinti állami kitüntetések adományozásáról szóló határozatot a Magyar Közlönyben közzé kell tenni.
 
-(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a nemzetpolitikáért felelős miniszter látja el. Az állami kitüntetések adományozásával összefüggő további teendőket a Köztársasági Elnöki Hivatal látja el, az ezekkel összefüggő kiadások fedezetét a Köztársasági Elnöki Hivatal költségvetésében kell biztosítani.
+(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a nemzetpolitikáért felelős miniszter látja el. Az e törvény szerinti állami kitüntetések adományozásával összefüggő további teendőket a Sándor-palota látja el, az ezekkel összefüggő kiadások fedezetét a Sándor-palota költségvetésében kell biztosítani.
 
-20. § Az állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető közös szabályokat az 1. melléklet, az egyes állami kitüntetésekkel kapcsolatos részletes szabályokat a 2. melléklet tartalmazza.
+20. § Az e törvény szerinti állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető közös szabályokat az 1. melléklet, az egyes, e törvény szerinti állami kitüntetésekkel kapcsolatos részletes szabályokat a 2. melléklet tartalmazza.
 
 ### III. Fejezet — EGYÉB DÍJAK, ELISMERÉSEK
 
@@ -148,11 +151,11 @@ véleményét.
 - d) a helyi önkormányzat képviselő-testülete,
 - e) a Honvéd Vezérkar főnöke.
 
-(2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az állami kitüntetésekhez, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.
+(2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az e törvény szerinti állami kitüntetésekhez, a Magyar Corvin-lánchoz, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.
 
 23. § (1) A 22. § (1) bekezdése szerint elismerés alapítására és adományozására jogosult elismerést akkor adományozhat, ha
 
-- a) az elismerés elnevezését, fajtáit (osztályait),
+- a) az elismerés elnevezését, fajtáit,
 - b) az elismerésben részesíthető személyek körét,
 - c) az évente adományozható elismerések számát,
 - d) az elismerés adományozásának feltételeit és rendjét, valamint
@@ -177,8 +180,8 @@ rendeletben szabályozza.
 - a) díjat alapítson azok elismerésére, akik Magyarország hírnevének öregbítése, a reális és korszerű Magyarország-kép kialakítása és terjesztése érdekében kiemelkedő tevékenységet folytatnak, és meghatározza az adományozás feltételeit és szabályait,
 - b) művészeti díjat alapítson, és meghatározza az adományozás feltételeit és szabályait,
 - c) életmentő emlékérmet alapítson, és meghatározza az adományozás feltételeit és szabályait,
-- d) állapítsa meg az e törvény, a Kormány és a miniszterelnök által alapított kitüntetések, díjak adományozására vonatkozó részletes eljárási szabályokat, valamint
-- e) állapítsa meg a Corvin-lánc adományozásával, a Corvin-lánccal kapcsolatos jogosultságokkal, kötelezettséggel és feladatokkal, valamint a Corvin-lánc Testülettel és a Corvin-lánc Irodával kapcsolatos részletes szabályokat.
+- d) állapítsa meg az e törvény szerinti állami kitüntetések, valamint a Kormány és a miniszterelnök által alapított kitüntetések, díjak adományozására vonatkozó részletes eljárási szabályokat
+- e)
 
 (3) Felhatalmazást kapnak a miniszterek, hogy rendeletben szabályozzák
 
@@ -203,7 +206,7 @@ rendeletben szabályozza.
 
 26. § Az e törvény hatálybalépését megelőzően adományozott kitüntetések és elismerések tovább viselhetők, kivéve a Munkás-Paraszt Hatalomért Érdemérmet, az 1956 után adományozott Szabadság Érdemrendet, valamint azokat a kitüntetéseket, amelyeknek viselését jogszabály megtiltotta.
 
-27. § (1) Az I. és II. Fejezet, a 24. § (1) bekezdése, a 24. § (2) bekezdés d) és e) pontja, a 24. § (3)–(5) bekezdése, a 25. §, a 26. § és a 31. § az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül.
+27. § (1) Az I. és II. Fejezet, a 24. § (1) bekezdése, a 24. § (2) bekezdés d) pontja, a 24. § (3)–(5) bekezdése, a 25. §, a 26. § és a 31. § az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 28. § (2) bekezdése az Alaptörvény 45. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
@@ -223,48 +226,44 @@ rendeletben szabályozza.
 
 ### 1. melléklet a 2011. évi CCII. törvényhez
 
-#### Az állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető szabályok
+#### Az e törvény szerinti állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető szabályok
 
-- 1. Magyarország köztársasági elnöke a Szent István Rend és a Magyar Érdemrend nagykereszt a lánccal és az arany sugaras csillaggal osztályának kitüntetettje.
-- 2. Az állami kitüntetések adományozása díjmentesen történik, kérelmezésük nem engedhető meg.
-- 3. A kitüntetett személy jogosult magát a megfelelő állami kitüntetés tulajdonosának nevezni. Kiváltság az adományozással nem jár.
-- 4. Az állami kitüntetések e törvényben meghatározott ugyanazon osztálya ugyanazon személy részére egy ízben adományozható.
-- 5. Az állami kitüntetések magasabb osztályának adományozása esetében a kitüntetett az előzetesen kapott alacsonyabb osztálynak is kitüntetettje marad. A polgári és katonai tagozat jelvényei együtt is viselhetők.
-- 6. Állami kitüntetések posztumusz adományozására nem kerül sor.
-- 7. Az állami kitüntetések adományozását a kitüntetési javaslatok előkészítéséért felelős, külön jogszabályban meghatározott szervnél vagy a feladatkör alapján érintett miniszternél (a továbbiakban: előterjesztő) lehet indítványozni, azzal, hogy önmaga, továbbá a Polgári Törvénykönyv szerinti közeli hozzátartozója kitüntetését senki nem indítványozhatja.
-- 8. Állami kitüntetés adományozására javaslatot előterjesztőként a Kormány tagja – nem magyar állampolgár esetében a külpolitikáért felelős miniszter – tehet.
-- 9. A 2. mellékletben meghatározott kivételektől eltekintve az állami kitüntetéssel kitüntetett személy újabb kitüntetésre az előző állami kitüntetés adományozásától számított tíz éven belül csak kivételesen, abban az esetben javasolható, ha az előző állami kitüntetés adományozását követően szerzett, az annak alapjául szolgáló érdemeket felülmúló, kimagasló érdemek azt indokolják.
-- 10. Az állami kitüntetési javaslatok előkészítéséért felelős szerv és az előterjesztő az adományozásra irányuló eljárásban a kitüntetésre érdemesség megállapítása és a többszöri kitüntetés megelőzése céljából kezelheti az indítványozott és a javaslatban megjelölt személy (a továbbiakban: jelölt) nevét, születési helyét és idejét, valamint az életútjára és a kitüntetésre méltatott érdemeire közvetlenül vonatkozó, az állami kitüntetés adományozásához figyelembe vett adatokat, a javaslatot tartalmazó előterjesztésről való döntés időpontjáig.
-- 11. A jelölt állami kitüntetésre való érdemessége megállapítása céljából az előkészítésért felelős szerv vagy az előterjesztő a külön törvényben meghatározott bűntettesek nyilvántartásából vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából adatot igényelhet, amely kizárólag arra irányulhat, hogy a jelölt megfelel-e a 18. § (5) bekezdésében meghatározott feltételeknek. Az ellenőrzést követően a bűnügyi nyilvántartásból kapott adatot haladéktalanul törölni kell, és az előkészítő iratban a kizáró ok fennállásának tényét vagy annak hiányát kell feltüntetni.
-- 12. Az e törvénnyel alapított állami kitüntetések adományozásáról a nemzetpolitikáért felelős miniszter nyilvántartást vezet. A nyilvántartás a kitüntetett személy nevét, születési helyét és idejét, az adományozott kitüntetési osztály megjelölését, valamint az adományozás rövid indokolását, az átadás időpontját tartalmazza.
-- 13. Az e törvénnyel alapított állami kitüntetés adományozására irányuló előterjesztésben a megalapozott döntéshez szükséges részletességgel be kell mutatni a jelölt személy életútját, valamint az állami kitüntetés alapjául szolgáló érdemeket.
-- 14. Az adományozásra jelölt az adományozást megelőzően nyilatkozatot tesz az állami kitüntetés elfogadásáról.
-- 15. Az adományozási eljárás lefolytatásához szükséges adatok biztosítása céljából a kitüntetési javaslat előkészítéséért felelős szerv, az előterjesztő, valamint az elismerés adományozására jogosult a 12. pont szerinti nyilvántartásból adatot igényelhet. A köztársasági elnök, illetve hivatalának köztisztviselője a nyilvántartásba jogosult betekinteni.
+- 1. Magyarország köztársasági elnöke a Magyar Szent István Rend és a Magyar Érdemrend nagykereszt a nyaklánccal és az arany sugaras csillaggal fokozatának kitüntetettje.
+- 2. Az e törvény szerinti állami kitüntetések adományozása díjmentesen történik, kérelmezésük nem engedhető meg.
+- 3. A kitüntetett személy jogosult magát a megfelelő, e törvény szerinti állami kitüntetés tulajdonosának nevezni. Kiváltság az adományozással nem jár.
+- 4. Az e törvény szerinti állami kitüntetések e törvényben meghatározott ugyanazon fokozata ugyanazon személy részére egy ízben adományozható.
+- 5. Az e törvény szerinti állami kitüntetések magasabb fokozatának adományozása esetében a kitüntetett az előzetesen kapott alacsonyabb fokozatnak is kitüntetettje marad. A polgári és katonai tagozat jelvényei együtt is viselhetők.
+- 6. Az e törvény szerinti állami kitüntetések posztumusz adományozására nem kerül sor.
+- 7. Az e törvény szerinti állami kitüntetések adományozását a feladatkör alapján érintett miniszternél (a továbbiakban: javaslattevő) lehet indítványozni, azzal, hogy önmaga, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti közeli hozzátartozója kitüntetését senki nem indítványozhatja.
+- 8.
+- 9. A 2. mellékletben meghatározott kivételektől eltekintve az e törvény szerinti állami kitüntetéssel kitüntetett személy újabb kitüntetésre az előző e törvény szerinti állami kitüntetés adományozásától számított tíz éven belül csak kivételesen, abban az esetben javasolható, ha az előző e törvény szerinti állami kitüntetés adományozását követően szerzett, az annak alapjául szolgáló érdemeket felülmúló, kimagasló érdemek azt indokolják.
+- 10. Az e törvény szerinti állami kitüntetésekre jelölt személy természetes személyazonosító adatait és lakcím adatát, az adományozásra vonatkozó döntés megalapozásához szükséges, az indítványban szereplő adatait – különösen titulusát (végzettségét, munkahelyét és beosztását), állampolgárságát és elérhetőségeit, korábbi állami kitüntetéseit, valamint az életútjára és a kitüntetésre alapot adó érdemeire közvetlenül vonatkozó, az adományozáshoz figyelembe vett adatokat – a javaslattevő, valamint a miniszterelnök (a továbbiakban: előterjesztő) a kitüntetésre érdemesség megállapítása és a többszöri kitüntetés megelőzése céljából kezeli.
+- 11. A jelölt e törvény szerinti állami kitüntetésre való érdemessége megállapítása céljából a javaslattevő és az előterjesztő a külön törvényben meghatározott bűntettesek nyilvántartásából vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából adatot igényelhet, amely kizárólag arra irányulhat, hogy a jelölt megfelel-e a 18. § (5) bekezdésében meghatározott feltételeknek. Az ellenőrzést követően a bűnügyi nyilvántartásból kapott adatot haladéktalanul törölni kell, és az előkészítő iratban a kizáró ok fennállásának tényét vagy annak hiányát kell feltüntetni.
+- 12. Az e törvény szerinti állami kitüntetések adományozásáról a Kormány kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáért felelős tagja a kitüntetésre vonatkozó döntés előkészítése, a többszöri kitüntetés megelőzése, valamint az adományozási eljárás lefolytatásához szükséges adatok biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza a kitüntetett személyek természetes személyazonosító adatait és lakcím adatát, az adományozásra irányuló indítványban szereplő, a 10. pont szerinti adatokat, az adományozott kitüntetési fokozat megjelölését, az adományozás rövid indokolását és az átadás időpontját.
+- 13. Az e törvény szerinti állami kitüntetés adományozására irányuló előterjesztésben a megalapozott döntéshez szükséges részletességgel be kell mutatni a jelölt személy életútját, valamint az állami kitüntetés alapjául szolgáló érdemeket.
+- 14. Az adományozásra jelölt az adományozást megelőzően nyilatkozatot tesz az e törvény szerinti állami kitüntetés elfogadásáról.
+- 15. Az adományozási eljárás lefolytatásához szükséges adatok biztosítása céljából a javaslattevő, az előterjesztő, valamint az elismerés adományozására jogosult a 12. pont szerinti nyilvántartásból adatot igényelhet. A köztársasági elnök, illetve a Sándor-palota köztisztviselője a nyilvántartásba jogosult betekinteni.
 
 ### 2. melléklet a 2011. évi CCII. törvényhez
 
-#### Az állami kitüntetések leírása és az adományozás részletes szabályai
+#### Az e törvény szerinti állami kitüntetések leírása és az adományozás részletes szabályai
 
 #### I. A Magyar Szent István Rend
 
-- 1. A Magyar Szent István Rend jelvénye a Szent Korona megjelenített arany ábrázolásáról függ le. A rendjel aranyszegélyű, zöld zománcozású, hullámos talpú kereszt, mely mindkét oldalán egyformán kidolgozott. A kereszt előlapja vörös középmedalionjában, arany szegélyezésű, zöld hármas halmon álló, fehér kettős kereszt, ennek talpánál nyitott-, leveles arany koronával. E motívumtól balra, illetve jobbra a rendalapítóra utaló arany M T (=MARIA THERESIA) betűkkel. Az előlap középmedalionjának arany szegélyű, fehér körgyűrűjében a Rend hagyományos jelmondata szerepel arany betűkkel: PUBLICUM MERITORUM PRAEMIUM. A kereszt hátlapja fehér középmedalionjában a Rendnek nevet adó első magyar királyra vonatkozó felirat szerepel arany betűkkel: SANCTO/STEPHANO/REGIS/APOSTOLICO. A hátlap középmedalionjának arany szegélyű, fehér zománcozású körgyűrűjében, körben zöld tölgyfakoszorú van.
-- 2. Az adományozott jogosult
+- 1. A Magyar Szent István Rend jelvénye a Szent Korona megjelenített arany ábrázolásáról függ le. A rendjel aranyszegélyű, zöld zománcozású, hullámos talpú kereszt, mely mindkét oldalán egyformán kidolgozott. A kereszt előlapja vörös középmedalionjában, arany szegélyezésű, zöld hármas halmon álló, fehér kettős kereszt, ennek talpánál nyitott-, leveles arany koronával. E motívumtól balra, illetve jobbra a rendalapítóra utaló arany M T (=MARIA THERESIA) betűkkel. Az előlap középmedalionjának arany szegélyű, fehér körgyűrűjében a Rend hagyományos jelmondata szerepel arany betűkkel: PUBLICUM MERITORUM PRAEMIUM. A kereszt hátlapja fehér középmedalionjában a Rendnek nevet adó első magyar királyra vonatkozó felirat szerepel arany betűkkel: SANCTO/STEPHANO/REGI/APOSTOLICO. A hátlap középmedalionjának arany szegélyű, fehér zománcozású körgyűrűjében, körben zöld tölgyfakoszorú van.
+- 2. A kitüntetett jogosult
   - a) a kitüntetést élete végéig birtokolni és magát a kitüntetés birtokosának nevezni;
   - b) a kitüntetést a nemzeti és az állami ünnepeken viselni, meghívottként részt venni Magyarország nemzeti és állami ünnepeinek központi állami rendezvényein, valamint a nemzeti és állami ünnepnek nem minősülő kiemelkedő fontosságú rendezvényeken.
-- 3. Magyar állampolgárok számára évenként legfeljebb három Szent István Rend kitüntetés adományozható.
+- 3. Magyar állampolgárok számára évenként legfeljebb három Magyar Szent István Rend kitüntetés adományozható.
 
-#### II. A Magyar Corvin-lánc
+#### II.
 
-Az adományozás rendje és feltételei
-
-- 1. A Corvin-lánc azon magyar és külföldi állampolgár részére adományozható, aki
-  - a) a kitüntetés alapszabályát elfogadja,
-  - b) vállalja, hogy közreműködik a Corvin-lánc Testület (a továbbiakban e fejezetben: Testület) munkájában.
-- 2. A Corvin-lánccal adományozottak száma egy időben a tizenötöt nem haladhatja meg.
-- 3. Ha az adományozottak száma a tizenötöt eléri, további adományozásra az adományozottak egyikének kiesése esetén van lehetőség. A Corvin-lánc adományozására csak a Testület által támogatott javaslat terjeszthető elő.
-- 4. A Corvin-lánc ugyanazon személy részére egy ízben adományozható. A kitüntetés leírása
-- 5. A Corvin-lánc kitüntetés az olasz művésztől eredő, XV. századbeli, harmincöt milliméter átmérőjű érem másolata, amely Mátyás királyt mellképben, jobboldali profilban ábrázolja „Mathias Rex Hungariae” körirattal. Az érmet gazdag, részben zománcozott, áttört művű renaissance díszítmény övezi, melybe felül mondatszalag fonódik „Pro scientia – litteris – et artibus” felirattal. A díszítményes érem fölött aranykoszorúban Mátyás király zománcos címere van, amely arany bevonatú ezüst nyakláncon függ. A függőrész teljes hossza száz milliméter.
-- 6. A Corvin-lánc kisebbített alakja a Magyar Corvin-lánc függő részének hű másolata negyven milliméteres méretben.
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
 
 #### III. A Magyar Becsület Rend
 
@@ -277,37 +276,37 @@ A Magyar Érdemrend
 
 - 1. A Magyar Érdemrend fehér zománcozású görög kereszt. Az adományozott jelvények – a tiszti kereszt kivételével – mindkét oldalon zománcozottak. Az előlap középmedalionja arany körgyűrűjében aranyszegélyű, hármas levelekből álló zöld zománcozású babérkoszorú van. Ez a koszorú alul keresztbe fektetett arany szalaggal összekötött, felül nyitott. A vörös középmedalionban Magyarország színes zománcozott címere van. A hátlap arany középmedalionjában 1946, az alapítás és 1991, a megújítás évszáma. A keresztszárak arany, ezen belül a polgári tagozatnál keskeny zöld, a katonai tagozatnál keskeny vörös szegélyűek.
 - 2. A Magyar Érdemrend szalagja a polgári tagozatnál vörös-fehér szegélyezésű, smaragdzöld színű, a katonai tagozatnál keskeny zöld-fehér szegélyezésű, élénk vörös színű.
-- 3. A Magyar Érdemrend osztályai:
+- 3. A Magyar Érdemrend fokozatai:
   - a) nagykereszt a nyaklánccal és az arany sugaras csillaggal,
   - b) nagykereszt,
-  - c) középkereszt a csillaggal,
-  - d) középkereszt,
+  - c) parancsnoki kereszt a csillaggal,
+  - d) parancsnoki kereszt,
   - e) tisztikereszt,
   - f) lovagkereszt.
 - 4. A Magyar Érdemrend nagykeresztje 56 mm átmérőjű. A jobb vállról a bal csípő felé húzódó 100 mm széles szalagon viselendő. A polgári tagozat nagykeresztjének szalagján a 88 mm széles sötét smaragdzöld sávot jobbról-balról 2 mm széles fehér és 4 mm széles vörös csík szegélyezi. A katonai tagozat nagykeresztjének szalagján a 88 mm széles vörös sávot jobbról-balról 2 mm széles fehér és 4 mm széles zöld csík szegélyezi. A nagykereszthez nyolc egyenlő sugarú, a bal mellre tűzendő ezüstös, domború csillag jár. Ennek átmérője 90 mm, közepét az 1. pontban leírt kereszt ékesíti.
-- 5. A nagykereszt a nyaklánccal osztály kizárólag államfők részére adományozható. Az arany nyakláncon viselt nagykereszthez, arany sugaras csillag tartozik.
-- 6. A Magyar Érdemrend középkeresztje 52 mm átmérőjű. 40 mm széles szalagon a nyakban viselendő. A polgári tagozat középkeresztjének szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles vörös csík szegélyezi. A katonai tagozat középkeresztjének szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi. A középkereszthez a bal mellre tűzendő, nyolc egyenlő sugarú, ezüstös domború csillag adományozható. A korábban adományozott középkereszthez újabb érdemek elismeréseként külön is adományozható a csillag.
+- 5. A nagykereszt a nyaklánccal és az arany sugaras csillaggal fokozat kizárólag államfők részére adományozható. Az arany nyakláncon viselt nagykereszthez, arany sugaras csillag tartozik.
+- 6. A Magyar Érdemrend parancsnoki keresztje 52 mm átmérőjű. 40 mm széles szalagon a nyakban viselendő. A polgári tagozat parancsnoki keresztjének szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles vörös csík szegélyezi. A katonai tagozat parancsnoki keresztjének szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi. A parancsnoki kereszthez a bal mellre tűzendő, nyolc egyenlő sugarú, ezüstös domború csillag adományozható. A korábban adományozott parancsnoki kereszthez újabb érdemek elismeréseként külön is adományozható a csillag.
 - 7. A Magyar Érdemrend tisztikeresztje 52 mm átmérőjű. A bal mellre tűzve viselendő, szalagja nincs.
 - 8. A Magyar Érdemrend lovagkeresztje 42 mm átmérőjű. A polgári tagozat lovagkeresztjének a háromszög alakban összehajtott 40 mm széles szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles vörös sáv szegélyezi. A katonai tagozat lovagkeresztjének háromszög alakban összehajtott 40 mm széles szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld sáv szegélyezi.
-- 9. A Magyar Érdemkereszt osztályai:
+- 9. A Magyar Érdemkereszt fokozatai:
   - a) Magyar Arany Érdemkereszt,
   - b) Magyar Ezüst Érdemkereszt,
   - c) Magyar Bronz Érdemkereszt.
-- 10. A Magyar Érdemkereszt 2 mm széles kör alakú, egymásba fonódó babérkoszorúban elhelyezett 42 mm átmérőjű fényezett szélű kereszt, melynek rajza a Magyar Érdemrenddel azonos, de zománcozás nélküli, és az osztály szerint arany, ezüst, illetve bronz bevonatú.
-- 11. A Magyar Érdemkereszt háromszögben összehajtott 40 mm széles szalagon a bal mell fölé tűzve viselendő. Polgári tagozatának szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles vörös csík szegélyezi; a bronz osztály szalagjának közepén egy 2 mm széles vörös sáv, az ezüst osztály szalagján két 2 mm széles vörös sáv, az arany osztály szalagján három 2 mm széles vörös sáv húzódik. A katonai tagozat szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi; a bronz osztály szalagjának közepén egy 2 mm széles zöld sáv, az ezüst osztály szalagján két 2 mm széles zöld sáv, az arany osztály szalagján három 2 mm széles zöld sáv húzódik. A kis díszítmény
+- 10. A Magyar Érdemkereszt 2 mm széles kör alakú, egymásba fonódó babérkoszorúban elhelyezett 42 mm átmérőjű fényezett szélű kereszt, melynek rajza a Magyar Érdemrenddel azonos, de zománcozás nélküli, és a fokozat szerint arany, ezüst, illetve bronz bevonatú.
+- 11. A Magyar Érdemkereszt háromszögben összehajtott 40 mm széles szalagon a bal mell fölé tűzve viselendő. Polgári tagozatának szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles vörös csík szegélyezi; a bronz fokozat szalagjának közepén egy 2 mm széles vörös sáv, az ezüst fokozat szalagján két 2 mm széles vörös sáv, az arany fokozat szalagján három 2 mm széles vörös sáv húzódik. A katonai tagozat szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi; a bronz fokozat szalagjának közepén egy 2 mm széles zöld sáv, az ezüst fokozat szalagján két 2 mm széles zöld sáv, az arany fokozat szalagján három 2 mm széles zöld sáv húzódik. A kis díszítmény
 - 12. Ha a katonai szolgálati szabályzat rendelkezései nem írják elő a Magyar Érdemrend jelvényeinek eredeti alakjukban való viselését,
   - a) a nagykereszt eredeti szalagja, keresztje és csillagja helyett a lovagkereszt viselendő a nagykereszt csillagjának 25 mm átmérőjű kicsinyített másával ékesített szalagon,
-  - b) a középkereszt a csillaggal eredeti szalagja, keresztje és csillagja helyett a lovagkereszt viselendő a középkereszt csillagjának 20 mm átmérőjű kicsinyített másával ékesített szalagon,
-  - c) a középkereszt eredeti szalagja és keresztje helyett a lovagkereszt viselendő a középkereszt keresztjének 18 mm átmérőjű kicsinyített másával ékesített szalagon,
-  - d) a tisztikereszt eredeti jelvénye helyett a lovagkereszt viselendő a tisztikereszt jelvényének 16 mm átmérőjű, valósághű másával ékesített szalagon.
+  - b) a parancsnoki kereszt a csillaggal eredeti szalagja, keresztje és csillagja helyett a lovagkereszt viselendő a parancsnoki kereszt csillagjának 20 mm átmérőjű kicsinyített másával ékesített szalagon,
+  - c) a parancsnoki kereszt eredeti szalagja és keresztje helyett a lovagkereszt viselendő a parancsnoki kereszt keresztjének 18 mm átmérőjű kicsinyített másával ékesített szalagon,
+  - d)
 - 13. A 12. pont irányadó a Magyar Érdemrend jelvényeinek olyan alkalmakkor való viselésére is, amikor a polgári ruházat nem teszi lehetővé a jelvényeknek eredeti alakjukban való viselését.
 - 14. A jelvények eredeti alakját helyettesítő, a 12. pontban leírt jelvények elnevezése: „Kis díszítmény”.
-- 15. Az alapszabályokban felsorolt kitüntetések helyett a katonai szabályzatokban előírt esetekben 40 mm széles és 10 mm magas szalagsávok viselendők; a nagykereszt szalagsávján a nagykereszt csillagjának, a csillagdíszítményes középkereszt, és a középkereszt szalagsávján a középkereszt keresztjének, a tisztikereszt szalagsávján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
-- 16. Magánalkalmakkor a kitüntetések osztályainak megfelelő, arányosan kicsinyített miniatűr viselhető szalagon.
-- 17. Az alapszabályokban felsorolt kitüntetések helyett polgári ruhán magánalkalmakkor 12 mm átmérőjű rozetta viselhető; a nagykereszt rozettáján a nagykereszt csillagjának, a csillagdíszítményes középkereszt rozettáján a középkereszt csillagjának, a középkereszt rozettáján a középkereszt keresztjének, a tisztikereszt rozettáján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
+- 15. Az alapszabályokban felsorolt kitüntetések helyett a katonai szabályzatokban előírt esetekben 40 mm széles és 10 mm magas szalagsávok viselendők; a nagykereszt szalagsávján a nagykereszt csillagjának, a csillagdíszítményes parancsnoki kereszt, és a parancsnoki kereszt szalagsávján a parancsnoki kereszt keresztjének, a tisztikereszt szalagsávján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
+- 16.
+- 17. Az alapszabályokban felsorolt kitüntetések helyett polgári ruhán magánalkalmakkor 12 mm átmérőjű rozetta viselhető; a nagykereszt rozettáján a nagykereszt csillagjának, a csillagdíszítményes parancsnoki kereszt rozettáján a parancsnoki kereszt csillagjának, a parancsnoki kereszt rozettáján a parancsnoki kereszt keresztjének, a tisztikereszt rozettáján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
 - 18. A 12–17. pontban foglalt szabályoknak meg nem felelő jelvények viselése tilos. Az adományozásra vonatkozó irányelvek
-- 19. Magyar állampolgár kitüntetése esetében a kitüntetés alapjául szolgáló érdemek nagyságán kívül a felterjesztendő személy közéleti szerepének, életkorának, esetleges korábbi kitüntetéseinek figyelembevételével a miniszterelnök terjeszti elő az adományozandó osztályt.
-- 20. Magyar állampolgárok számára a Magyar Érdemrend nagykeresztjéből évenként legfeljebb öt, középkeresztjéből a csillaggal évenként legfeljebb húsz, középkeresztjéből évenként legfeljebb negyven, tisztikeresztjéből évenként legfeljebb száznegyven, lovagkeresztjéből évenként legfeljebb kettőszáznyolcvan adományozható.
-- 21. Magyar állampolgárok számára a Magyar Arany Érdemkeresztből évenként legfeljebb kettőszáz, a Magyar Ezüst Érdemkeresztből évente legfeljebb kettőszázötven, a Magyar Bronz Érdemkeresztből évente legfeljebb háromszázötven adományozható.
+- 19. Magyar állampolgár kitüntetése esetében a kitüntetés alapjául szolgáló érdemek nagyságán kívül a felterjesztendő személy közéleti szerepének, életkorának, esetleges korábbi kitüntetéseinek figyelembevételével a miniszterelnök terjeszti elő az adományozandó fokozatot.
+- 20. Magyar állampolgárok számára a Magyar Érdemrend nagykeresztjéből évenként legfeljebb öt, parancsnoki keresztjéből a csillaggal évenként legfeljebb húsz, parancsnoki keresztjéből évenként legfeljebb negyven, tisztikeresztjéből évenként legfeljebb száznegyven, lovagkeresztjéből évenként legfeljebb háromszáz adományozható.
+- 21. Magyar állampolgárok számára a Magyar Arany Érdemkeresztből évenként legfeljebb kettőszázötven, a Magyar Ezüst Érdemkeresztből évente legfeljebb kettőszázötven, a Magyar Bronz Érdemkeresztből évente legfeljebb kettőszázötven adományozható.
 - 21a. A Nemzetközi Olimpiai Bizottság által szervezett nyári vagy téli olimpiai játékokon, továbbá a Nemzetközi Paralimpiai Bizottság által szervezett nyári és téli paralimpiai játékokon (a továbbiakban együtt: olimpiai és paralimpiai játékok) annak a magyar állampolgárnak, aki a magyar nemzeti válogatott tagjaként egyéni számban vagy csapattagként első, második vagy harmadik helyezést ért el (a továbbiakban együtt: érmes), valamint az érmes felkészítésében közreműködő sportszakember részére – az olimpiai és paralimpiai játékok évében – Magyar Érdemrend és Magyar Érdemkereszt a 20. pontban meghatározott kereteken felül is adományozható.
 - 22. Külföldi állampolgár kitüntetése esetében a nemzetközi protokolláris szabályok az irányadók.

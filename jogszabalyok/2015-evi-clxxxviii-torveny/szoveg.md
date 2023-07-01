@@ -170,6 +170,8 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 (3) A (2) bekezdésben meghatározott adatokban bekövetkezett változásról, így különösen a hozzáférési felhatalmazás megszűnéséről az igénybevételre jogosult szerv – az adatváltozást követő három munkanapon belül – értesíti a központi szervet.
 
+(4) A központi szerv a kérelem alapján a személyiadat- és lakcímnyilvántartásban történő azonosítás céljából az adatszolgáltatás igénybevételéhez, e cél megvalósulásához szükséges ideig kezeli az érintett kérelemben megadott személyi azonosítóját, amelyet kizárólag a személyiadat- és lakcímnyilvántartást vezető szerv részére jogosult továbbítani.
+
 8. § A központi szerv az egyedi azonosító iránti kérelem beérkezésétől számított nyolc munkanapon belül tájékoztatja az igénybevételre jogosult szervet a hozzáférésre felhatalmazott személy egyedi azonosítóiról, valamint az arcképelemző tevékenység igénybevételéhez szükséges technikai ismeretekről.
 
 #### 6. Az igénybevételre jogosult szervek

@@ -2144,7 +2144,7 @@ kell megállapítani.
 - 2. a minisztériumban és a költségvetési fejezetet irányító más szervnél,
 - 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
 - 4. a kincstár központi szervénél – ide nem értve a kincstár nyugdíjfolyósító szervét –, valamint Budapest és Pest vármegye területére kiterjedő illetékességű területi szervénél,
-- 5. az élelmiszerlánc-felügyeleti szervnél,
+- 5.
 - 6. a Nemzeti Földalapkezelő Szervezetnél,
 - 7.
 - 8.
@@ -2342,7 +2342,9 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 - a) 25 évi jogviszony esetén kéthavi,
 - b) 30 évi jogviszony esetén háromhavi,
 - c) 35 évi jogviszony esetén négyhavi,
-- d) 40 évi jogviszony esetén öthavi illetménynek megfelelő összeg.
+- d) 40 évi jogviszony esetén öthavi
+
+illetménynek megfelelő összeg.
 
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
@@ -2354,7 +2356,9 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 - f) az e törvény, a Ktv., Ktjv. és a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban, a kormányzati igazgatásról szóló törvény és a Küt. hatálya alá tartozó szervnél ösztöndíjas jogviszonyban,
 - g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
 - h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban,
-- i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban töltött időt kell figyelembe venni.
+- i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
+
+töltött időt kell figyelembe venni.
 
 (4) A kormánytisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta.
 

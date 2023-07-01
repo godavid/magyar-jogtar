@@ -58,7 +58,31 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 
 (7) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
-7. § Az Egyetem a tulajdonába adott ingatlant – a 6. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. melléketében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+6/A. § A KEKVA tv. 12. § (7) bekezdésére tekintettel, az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Csongrád-Csanád Megyei Mellkasi Betegségek Szakkórháza és a Csongrád-Csanád Megyei Dr. Bugyi István Kórház (a továbbiakban együtt: Kórház) fenntartói jogát az Egyetem tulajdonába kell adni.
+
+6/B. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 2. melléklet 82–94. sorában szereplő helyrajzi számú ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+
+(2) Az (1) bekezdésben meghatározott ingatlanok tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(3) Az (1) és (2) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg a közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek – ideértve a rendelkezésre álló, és a Kórház vagyonkezelésében, valamint a Hódmezővásárhely 12540/1 helyrajzi számú ingatlanban lévő állami tulajdonú ingó vagyontárgyak tulajdonjogát – az általános jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
+
+6/C. § A Kórház költségvetési szervi jogállása a 6/A. § szerinti átadással egyidejűleg megszűnik, és az Egyetem klinikai központja részeként működik tovább. A Kórház általános jogutóda az Egyetem.
+
+6/D. § A 6/B. § (1) bekezdése szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló és a Kórház köti meg az Egyetemmel.
+
+6/E. § A 6/B. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+6/F. § A Kórház európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Kórház jogutódja az Egyetem. A projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
+
+6/G. § (1) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel összhangban az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, 2. melléklet 95. sorában szereplő ingatlant az állam tulajdonszerzését követően ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+
+(2) Az (1) bekezdésben meghatározott ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(3) Az (1) bekezdés szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló, az Egyetem használatában levő, állami tulajdonú ingó vagyontárgyak, valamint vagyoni értékű jogok az Egyetem tulajdonába kerülnek.
+
+6/H. § A 6/G. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+7. § Az Egyetem a tulajdonába adott ingatlant – a 6. §-ban, a 6/A. §-ban, a 6/B. § (1) és (2) bekezdésében, a 6/C. és a 6/D. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. melléketében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 8. § (1) A 3. melléklet szerinti ingatlan és a hozzá funkcionálisan kapcsolódó ingóságok az Egyetem – KEKVA tv. 1. mellékletében meghatározott – közfeladatai ellátásához szükséges vagyonként ingyenesen az Egyetem vagyonkezelésébe kerülnek.
 
@@ -90,7 +114,13 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 
 (3) Az 5. § 2021. december 20-án lép hatályba.
 
-11. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1) és (4)–(5) bekezdése, a 6. § (1), (5) és (7) bekezdése, a 7. §, a 8. §, a 9. § (1) és (3) bekezdése, a 9/A. §, a 12. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10/A. § Az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú törvények módosításáról szóló 2023. évi XIX. törvénnyel megállapított 6/A–6/F. § szerinti jogutódlással az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § b) pontja szerinti egészségügyben dolgozó – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (3) bekezdés b) pontjában meghatározott – egészségügyi szolgálati jogviszonya e törvény erejénél fogva, 2023. július 1-jei hatállyal – ideértve a határozott idejű jogviszonyt is – a munka törvénykönyve szerinti munkaviszonnyá alakul át. Az átalakulás során létrejövő munkaviszony tekintetében próbaidő nem köthető ki, és a jogviszonyt folyamatosnak kell tekinteni. A jogviszony átalakulása
+
+- a) nem szakítja meg az egészségügyi szolgálati jogviszonnyal kapcsolatos igények elévülését,
+- b) nem érinti az e § szerinti időpontban hatályban lévő határozott idejű áthelyezést,
+- c) nem érinti a jogviszony időtartamát, valamint a munkaidő mértékét.
+
+11. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1) és (4)–(5) bekezdése, a 6. § (1), (5) és (7) bekezdése, a 6/A. §, a 6/B. §, a 6/G. §, a 7. §, a 8. §, a 9. § (1) és (3) bekezdése, a 9/A. §, a 12. §, valamint az 1–4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 12. §
 
@@ -231,6 +261,20 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 | 79. | SZEGED III. KERÜLET | 25851/5 | 1/1 | kivett szálloda |
 | 80. | SZEGED III. KERÜLET | 26013/1 | 1/1 | kivett beépítetlen terület |
 | 81. | SZEGED III. KERÜLET | 26122 | 1/1 | kivett beépítetlen terület |
+| 82. | DESZK | 685 | 1/1 | kivett szanatórium |
+| 83. | HÓDMEZŐVÁSÁRHELY | 12540/1 | 1/1 | kivett egészségház |
+| 84. | SZEGED | 3090 | 1/1 | kivett kutatóintézet |
+| 85. | SZENTES | 8344/2 | 1/1 | kivett kórház |
+| 86. | SZENTES | 8344/2/A | 1/1 | egyéb épület |
+| 87. | SZENTES | 8344/3 | 1/1 | kivett orvosi rendelő |
+| 88. | SZENTES | 8344/5 | 1/1 | kivett kórház |
+| 89. | SZENTES | 8344/6 | 1/1 | kivett kórház |
+| 90. | SZENTES | 107/1 | 1/1 | kivett fürdő |
+| 91. | SZENTES | 186/1 | 1/1 | kivett kórház |
+| 92. | SZENTES | 186/2 | 1/1 | kivett kórház |
+| 93. | SZENTES | 186/2/A | 1/1 | egyéb épület |
+| 94. | SZENTES | 1147/6/A/25 | 1/1 | lakás |
+| 95 | SZEGED III. KERÜLET | 20306/1 | 1/1 | kivett gazdasági épület udvar és vasút |
 
 ### 3. melléklet a 2021. évi XXIII. törvényhez
 
@@ -240,7 +284,8 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 | --- | --- | --- | --- | --- |
 | 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
 | 2. | SZEGED II. KERÜLET | 01392/2 | 1/1 | kivett közforgalom számára megnyitott magánút |
-| 3. | SZEGED II. KERÜLET | 01392/16 | 1/1 | kivett közforgalom számára megnyitott magánút |
+| 3. | SZEGED II. KERÜLET | 01392/33 | 1/1 | kivett közforgalom számára megnyitott magánút |
 | 4. | SZEGED II. KERÜLET | 01392/19 | 1/1 | kivett beruházási terület |
 | 5. | SZEGED II. KERÜLET | 01392/20 | 1/1 | kivett beépítetlen terület |
 | 6. | SZEGED II. KERÜLET | 01392/21 | 1/1 | kivett közforgalom számára megnyitott magánút |
+| 7 | SZEGED II. KERÜLET | 01392/34 | 1/1 | kivett közforgalom számára megnyitott magánút |

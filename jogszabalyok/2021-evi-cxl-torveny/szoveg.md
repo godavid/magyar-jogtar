@@ -1542,7 +1542,7 @@ rendelhető el.
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg
 
-- 1. a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
+- 1. a Honvédség által a Sándor-palotánál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
 - 2. a nyugállományú honvédek és a honvédelmi szervezettől nyugdíjba vonult honvédelmi alkalmazottak, közalkalmazottak segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat,
 - 3. a katonai futárszolgálat feladatait,
 - 4. a katonai rendészeti tevékenységet, az intézkedések végrehajtásának eljárási szabályait, módját, a kényszerítő eszközök alkalmazásának szabályait, a kényszerítő eszközök alkalmazása kivizsgálásának eljárási szabályait,
@@ -1638,7 +1638,7 @@ alapján sarkalatosnak minősül.
 - 1.11. II. kategóriájú meghagyásba bevont szervek, szervezetek vezetői.
 - 2. II. kategória
 - 2.1. az Országgyűlés Hivatala,
-- 2.2. a Köztársasági Elnöki Hivatal,
+- 2.2. a Sándor-palota,
 - 2.3. az Alkotmánybíróság Hivatala,
 - 2.4. az Alapvető Jogok Biztosának Hivatala,
 - 2.5. a Magyar Tudományos Akadémia,

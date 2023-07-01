@@ -379,6 +379,8 @@ meghatározható.
 - m) állapítsa meg ágazatonként a 2/B. § (6) bekezdése szerinti küszöbértékeket és a 2/A. § szerinti jelentős zavar mértékét,
 - n) állapítsa meg az IHR működésének a részletszabályait.
 
+14/A. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a biztonsági összekötő személy rendszeres szakmai képzésére, továbbképzésére vonatkozó szabályokat.
+
 15. § (1) Ez a törvény – a (2) és a (3) bekezdésben foglaltak kivételével – a kihirdetését követő negyedik hónap első napján lép hatályba.
 
 (2) A 2. melléklet 2013. július 1-jén lép hatályba.

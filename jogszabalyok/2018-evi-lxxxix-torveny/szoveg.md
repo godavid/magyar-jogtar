@@ -329,7 +329,12 @@ továbbítható.
 
 (5) A társadalombiztosítási azonosító jel hitelességét a társadalombiztosítási azonosító jellel rendelkező személyek azonosító adatainak nyilvántartásával való összevetéssel elektronikus úton kell ellenőrizni.
 
-(6) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére továbbítható.
+(6) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – a jogszabály alapján jogosult erre irányuló megkeresése alapján, az abban foglaltak teljesítéséhez szükséges mértékben
+
+- a) az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére jogosult részére,
+- b) a pedagógus, illetve az oktató oktatási intézménnyel fennálló jogviszonyából fakadó továbbképzési kötelezettségének teljesítésével összefüggésben a továbbképzés szervezésére jogszabályban kijelölt szerv vagy szervezet részére
+
+továbbítható.
 
 (7) Az alkalmazotti nyilvántartás adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság, illetve a szakképzési államigazgatási szerv részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 

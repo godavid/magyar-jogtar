@@ -70,6 +70,8 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 5. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben meghatározott egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
+(1a) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. melléklet 227a. sorában szereplő, Herceghalom 267/3 helyrajzi számú ingatlant ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
 (2) A 3. melléklet szerinti ingatlanok, illetve ingatlanok tulajdoni hányada tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
 
 (3) Az (1) bekezdés szerinti vagyonjuttatás során a 3. mellékletben szereplő védett ingatlanok esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdését, valamint a Vhr. 25. § (5) bekezdését.
@@ -85,9 +87,11 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 az Egyetem tulajdonába kerülnek.
 
+(5b) Az (1a) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek – ideértve a rendelkezésre álló, és a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak tulajdonjogát is – az Egyetemre szállnak át.
+
 (6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
-(6a) Az (5a) bekezdés szerint átszálló ingóságokról az (5a) bekezdés hatályba lépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+(6a) Az (5a) és (5b) bekezdés szerint átszálló ingóságokról az (5a) és (5b) bekezdés hatályba lépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (7) A 3. mellékletben meghatározott ingatlanok, illetve ingatlanok tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
@@ -111,11 +115,11 @@ az Egyetem tulajdonába kerülnek.
 
 6. § (1) Az Erdőtelek 364/1, a Keszthely 1418/1 és a Keszthely 1418/3 helyrajzi számú, ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan idejű elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
 
-(2) Az 5. § (1) bekezdése alapján ingyenesen tulajdonba adott ingatlanok – az (1) bekezdésben meghatározott ingatlant ide nem értve – tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+(2) Az 5. § (1) és (1a) bekezdése alapján ingyenesen tulajdonba adott ingatlanok – az (1) bekezdésben meghatározott ingatlant ide nem értve – tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
 (3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlan értékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
-(4) Az 5. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással egy tekintet alá esik.
+(4) Az 5. § (1) és (1a) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással egy tekintet alá esik.
 
 7. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – az Egyetem közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében – a Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság szétválását követően a Cegléd, Sarród, Érd és Budapest központi telephelyen tevékenységet folytató kiválással létrejött jogutód nonprofit gazdasági társaságban az állam tulajdonában álló üzletrészeket ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
 
@@ -151,7 +155,7 @@ az Egyetem tulajdonába kerülnek.
 
 #### 11. §
 
-12. § A 4. § (9) bekezdése, az 5. § (1) bekezdése, a 6. § (3) bekezdése, a 7. § (1) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., a 193a., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+12. § A 4. § (9) bekezdése, az 5. § (1) és (1a) bekezdése, az 5. § (5b) bekezdése, a 6. § (3) bekezdése, a 7. § (1) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., 193a., 227a., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi CXLII. törvényhez
 
@@ -410,6 +414,7 @@ az Egyetem tulajdonába kerülnek.
 | 225. | GYÖNGYÖS | 717/5 | 1/1 | kivett tanműhely, udvar |
 | 226. | GYÖNGYÖS | 1197 | 1/1 | kivett egyetem konyha és étterem, udvar, üzlet és könyvtár, mezőgazdasági tároló, iroda, oktató épület |
 | 227. | HERCEGHALOM | 268 | 1/1 | kivett beépítetlen terület |
+| 227a. | HERCEGHALOM | 267/3 | 1/1 | kivett major |
 | 228. | IREGSZEMCSE | 410/2 | 1/1 | kivett gazdasági épület, udvar |
 | 229. | IREGSZEMCSE | 411 | 1/1 | kivett gazdasági épület, udvar |
 | 230. | IREGSZEMCSE | 415/1 | 1/1 | kivett beépítetlen terület |

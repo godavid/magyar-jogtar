@@ -23,11 +23,12 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
   - af) aa)–ae) pontokban meghatározott vagyonelemekhez kapcsolódó jogok és kötelezettségek;
 - b) gazdaságátadó: az az öregségi nyugdíjkorhatárt elért vagy a szerződés megkötésétől számítva legfeljebb 5 éven belül elérő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki
   - ba) legalább 10 éve saját nevében és saját kockázatára folytat mező- erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet és ebből igazoltan árbevétele származott, valamint
-  - bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója vagy az akként bejegyzett gazdasági társaság tulajdonosa;
+  - bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója vagy az akként bejegyzett gazdasági társaság tulajdonosa, vagy
+  - bc) a ba) és bb) alpontban meghatározott feltételeknek megfelelő mezőgazdasági őstermelő vagy egyéni vállalkozó törvényes örököse;
 - c) gazdaságátvevő: az a gazdaságátadónál legalább tíz évvel fiatalabb, az 50. életévét el nem érő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki az átvenni kívánt gazdaság működtetésére a jogszabályban előírt feltételeknek megfelel és aki
   - ca) a gazdaságátadóval a családi gazdaságokról szóló törvényben meghatározott hozzátartozói láncolatban áll, vagy
   - cb) a gazdaságátadóval legalább 7 éve munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
-- d) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, valamint az egyéni vállalkozói tevékenység.
+- d) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, valamint a személyes közreműködéssel járó gazdasági társasági tevékenység.
 
 ### II. Fejezet — GAZDASÁGÁTADÁSI SZERZŐDÉS
 
@@ -42,7 +43,7 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
 - c) a gazdaságátvevő a gazdaságátadó, illetve a gazdaságátadó által megjelölt személy haláláig körülményeinek és szükségleteinek megfelelő ellátásra, gondozásra, a gazdaságátadó a gazdaság tulajdonjogának és a gazdasághoz kapcsolódó vagyoni értékű jogok átruházására köteles (a továbbiakban: gazdaságátadási tartási szerződés), vagy
 - d) a gazdaságátvevő a gazdaságátadó haláláig meghatározott pénzösszeg vagy más helyettesíthető dolog időszakonként visszatérő szolgáltatására a gazdaságátadó a gazdaság tulajdonjogának és a gazdasághoz kapcsolódó vagyoni értékű jogok átruházására köteles (a továbbiakban: gazdaságátadási életjáradéki szerződés).
 
-(3) A felek megállapodhatnak akként, hogy a gazdaságátadó a tulajdonában és használatában álló mező- és erdőgazdasági földek vagy azok egy részének használatát a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) szerinti haszonbérlet, szívességi földhasználat vagy erdőnek minősülő föld esetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) meghatározott jogcímen átengedi a gazdaságátvevőnek. Ebben az esetben a (2) bekezdésben meghatározott gazdaságátadási szerződés alapján a gazdaságátadó a (2) bekezdésben meghatározott kötelezettsége mellett a gazdaságátadási szerződésben meghatározott mező- és erdőgazdasági föld használatát átengedi, a gazdaságátvevő a (2) bekezdésben meghatározott kötelezettsége mellett a földet használatba veszi és – szívességi földhasználat kivételével – haszonbért fizet, vagy a Fétv. alapján meghatározott szolgáltatást, ellenszolgáltatást teljesít.
+(3) A felek megállapodhatnak akként, hogy a gazdaságátadó a tulajdonában és használatában is álló mező- és erdőgazdasági földek vagy azok egy részének használatát a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) szerinti haszonbérlet, szívességi földhasználat vagy erdőnek minősülő föld esetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) meghatározott jogcímen átengedi a gazdaságátvevőnek. Ebben az esetben a (2) bekezdésben meghatározott gazdaságátadási szerződés alapján a gazdaságátadó a (2) bekezdésben meghatározott kötelezettsége mellett a gazdaságátadási szerződésben meghatározott mező- és erdőgazdasági föld használatát átengedi, a gazdaságátvevő a (2) bekezdésben meghatározott kötelezettsége mellett a földet használatba veszi és – szívességi földhasználat kivételével – haszonbért fizet, vagy a Fétv. alapján meghatározott szolgáltatást, ellenszolgáltatást teljesít.
 
 (4) Ha a felek a (2)–(3) bekezdésben meghatározott szerződések szabályait vegyesen alkalmazzák, a gazdaság egyes elemei tekintetében meg kell határozni az azokra vonatkozó szerződési rendelkezéseket.
 
@@ -50,7 +51,10 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
 
 (6) A gazdaságátvevő egy személy lehet.
 
-4. § (1) A gazdaságátadó a gazdaságátadási szerződés megkötését követően az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó – az átadott gazdaságot érintő – új tevékenységet nem kezdhet, a gazdaság elemei tulajdonjogának átadását követően az erdőgazdálkodói nyilvántartásban nyilvántartandó erdőgazdálkodói jogokat és kötelezettségeket – a haszonvételi joggyakorlás kivételével – nem gyakorolhatja. A gazdaságátadónak a gazdaságátadási szerződésben meghatározott gazdasághoz kapcsolódó, az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó tevékenységeit törölni kell.
+4. § (1) A gazdaságátadási szerződés megkötését követően a gazdaságátadó az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó – az átadott gazdaságot érintő – új tevékenységet nem kezdhet. A gazdaság elemei tulajdonjogának átadását követően a gazdaságátadó
+
+- a) az erdőgazdálkodói nyilvántartásban nyilvántartandó erdőgazdálkodói jogokat és kötelezettségeket – a haszonvételi joggyakorlás kivételével – nem gyakorolhatja,
+- b) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó tevékenységeit törölni kell.
 
 (2) A gazdaságátadó csak akkor kérheti újra az élelmiszer-felügyeleti információs rendszerbe, valamint az erdőgazdálkodói nyilvántartásba történő felvételét, ha a gazdaságátadási szerződés az 5. § vagy a 11. § alapján megszűnik vagy a gazdaságátvevő halálát követően a gazdaságátadó a gazdaságátvevő örököseként a gazdaság részét képező mező- és erdőgazdasági hasznosítású föld tulajdonjogát vagy földhasználati jogosultságát megszerzi.
 
@@ -93,7 +97,7 @@ kell megfelelnie.
 - d) a gazdaság egyes elemeihez kapcsolódó mező- és erdőgazdálkodási tevékenységek folytatására irányuló engedélyek, – ha a jogosultságok gyakorlása hatósági nyilvántartásba vételhez kötött – a kérelem benyújtására vonatkozó kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 - e) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény hatálya alá tartozó folyamatban lévő eljárásokat, folyamatban lévő támogatásokat és a gazdaságátvevő nyilatkozatát arra vonatkozóan, hogy megismerte és magára nézve kötelezőnek ismeri el az azokból eredő jogosultságokat és kötelezettségeket,
 - f) az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletek alapján benyújtott és még el nem bírált támogatási kérelmeket, valamint a létrejött támogatási jogviszonyok létesítő okiratait és a gazdaságátvevő nyilatkozatát arra vonatkozóan, hogy megismerte és magára nézve kötelezőnek ismeri el az azokból eredő jogosultságokat és kötelezettségeket,
-- g) ha a felek a gazdaságátadás során a 10. és a 11. § szerint közösen gazdálkodnak, akkor a gazdaságátadás folyamatának biztosításához szükséges rendelkezéseket, az együttműködés időtartamát, a gazdaság egyes elemei átruházásának időpontját, valamint
+- g) ha a felek a gazdaságátadás során a 10. és a 11. § szerint közösen gazdálkodnak, akkor a gazdaságátadás folyamatának biztosításához szükséges rendelkezéseket, az együttműködés időtartamát, valamint
 - h) azokat a rendelkezéseket, amelyeket a gazdaság egyes elemeinek átruházása esetében jogszabály előír.
 
 #### 5. A gazdaságátadási adásvételi szerződés szabályai
@@ -165,7 +169,7 @@ kell elszámolni.
 
 #### 9. Jogutódlás
 
-13. § (1) A gazdaságátvevő a gazdaság egyes elemeihez kapcsolódó, a gazdaságátadási szerződésben meghatározott polgári jogi szerződésekben a Ptk. 6:211. §-a szerint a szerződésben maradó harmadik fél hozzájárulása nélkül lép a gazdaságátadó helyébe.
+13. § (1) A gazdaságátvevő a gazdaság egyes elemeihez kapcsolódó, a gazdaságátadási szerződésben meghatározott polgári jogi szerződésekben a Ptk. 6:211. §-a szerint a szerződésben maradó harmadik fél hozzájárulása nélkül lép a gazdaságátadó helyébe, és a gazdaságátadási szerződésben meghatározott polgári jogi szerződések biztosítékai nem szűnnek meg.
 
 (2) A gazdaságátvevő a gazdaságátadási szerződéssel kötelezettséget vállal a 7. § c) pontjában meghatározott szerződés szerinti kötelezettségek teljesítésére.
 

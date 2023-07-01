@@ -62,13 +62,33 @@ az állami vagyonnal való gazdálkodás hatékonyságának növelése érdekéb
 
 #### 20. §
 
-#### 11.
+#### 11. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-#### 21. §
+21. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény Hetedik Könyv XI. címe helyébe a következő rendelkezés lép:
 
-#### 12.
+XI. Az állam és az önkormányzat mint törvényes örökös
 
-#### 22. §
+#### 7:74. § [Az állam szükségképpeni törvényes öröklése és az önkormányzat törvényes öröklése]
+
+(1) Más örökös hiányában – ideértve azt is, ha a települési önkormányzat mint törvényes örökös az örökséget visszautasítja – az állam a törvényes örökös.
+
+(2) Az államot mint törvényes örököst az örökség visszautasításának joga nem illeti meg.
+
+(3) Az (1) bekezdéstől eltérően az örökhagyó tulajdonát képező belföldi ingatlan esetében más örökös hiányában – ide nem értve, ha az örökhagyónak az örökség visszautasítása folytán nincs más örököse – az ingatlan fekvése szerinti települési önkormányzat a törvényes örökös.
+
+(4) A (3) bekezdés szerinti öröklés alá esik az ingatlanon található azon ingó dolog is, amely az örökhagyó tulajdonában állt halálakor.
+
+(5) Nem esik a (3) bekezdés szerinti öröklés alá azon ingatlan, amelynek bármely alrészlete állami tulajdonba kerülése esetén a nemzeti földalapról szóló törvény hatálya alá tartozna, vagy gazdaságnak minősülő dologösszesség részét képezi.”
+
+#### 12. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
+
+22. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény a következő 28/A. alcímmel egészül ki:
+
+#### „28/A. Az állam és az önkormányzat mint törvényes örökös
+
+### (A Ptk. 7:74. §-ához)
+
+64/A. § A Ptk.-nak az állami vagyonnal való gazdálkodás hatékonyságának növelése érdekében egyes vagyongazdálkodást érintő törvények módosításáról szóló 2022. évi LI. törvénnyel módosított 7:74. §-át a 2023. július 1-jén vagy azt követően megnyíló öröklés vonatkozásában kell alkalmazni.”
 
 #### 13. Záró rendelkezések
 

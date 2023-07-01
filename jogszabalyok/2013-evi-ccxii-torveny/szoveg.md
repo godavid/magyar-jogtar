@@ -238,6 +238,8 @@ fog előállítani.
 
 (3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, továbbá az adásvételi szerződésnek az elővásárlásra jogosultakkal történő közlése érdekében a jegyző részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát, valamint kamarai tagsági azonosító számát a helyi földbizottság részére adhatja át.
 
+(4) A mezőgazdasági igazgatási szerv a jogügylet hatósági jóváhagyásával kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni mindazon adatokat, melyek a helyi földbizottság állásfoglalásának alapjául szolgáltak.
+
 29. § (1) A jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv részére
 
 - a) az ingatlan-nyilvántartásból a tulajdoni lap másolatát,
@@ -252,6 +254,7 @@ fog előállítani.
 - j) a családi mezőgazdasági társaságról, illetve az őstermelők családi gazdaságáról vezetett nyilvántartásban szereplő adatokat,
 - k) a takarmány-vállalkozásokról vezetett nyilvántartásban szereplő adatokat,
 - l) a vetőmag-előállítókról vezetett nyilvántartásban szereplő adatokat
+- m) az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 27. § (3) bekezdése szerinti nyilvántartásban szereplő adatokat
 
 díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vonatkozó adatszolgáltatási formáktól, módoktól.
 
@@ -342,7 +345,7 @@ használhatja fel.
 
 (4) A mezőgazdasági igazgatási szerv döntése szóban nem közölhető.
 
-(5) A mezőgazdasági igazgatási szerv a hatósági jóváhagyásról szóló határozat véglegessé válását követően az adásvételi szerződés (3) bekezdés szerint záradékolt két példányát az ingatlanügyi hatóság részére küldi meg, amennyiben az adásvételi szerződésre az elővásárlási jog gyakorlására nyitva álló 60 napos határidő alatt egyetlen elfogadó jognyilatkozat sem került benyújtásra, az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, továbbá amennyiben az adásvételi szerződés hatályosságához a mezőgazdasági igazgatási szerv jóváhagyásán kívül más hatóság jóváhagyása, vagy engedélye nem szükséges. Az ingatlanügyi hatóság a mezőgazdasági igazgatási szerv által megküldött iratok alapján lefolytatja a tulajdonjog bejegyzésére irányuló eljárást.
+(5) A mezőgazdasági igazgatási szerv a hatósági jóváhagyásról szóló határozat véglegessé válását követően az adásvételi szerződés (3) bekezdés szerint záradékolt két példányát az ingatlanügyi hatóság részére küldi meg, amennyiben az adásvételi szerződésre az elővásárlási jog gyakorlására nyitva álló 30 napos határidő alatt egyetlen elfogadó jognyilatkozat sem került benyújtásra, az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, továbbá amennyiben az adásvételi szerződés hatályosságához a mezőgazdasági igazgatási szerv jóváhagyásán kívül más hatóság jóváhagyása, vagy engedélye nem szükséges. Az ingatlanügyi hatóság a mezőgazdasági igazgatási szerv által megküldött iratok alapján lefolytatja a tulajdonjog bejegyzésére irányuló eljárást.
 
 38. § A hatósági eljárás során
 
@@ -408,7 +411,7 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 
 kell érteni.
 
-45/A. § (1) A Földforgalmi törvényben meghatározott földhasználati szerződés esetén a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerződésátruházásra vonatkozó rendelkezései nem alkalmazhatók.
+45/A. § (1) A Földforgalmi törvényben meghatározott földhasználati szerződés esetén a Ptk.-nak a megállapodáson alapuló szerződésátruházásra vonatkozó rendelkezései nem alkalmazhatók.
 
 (2) Az (1) bekezdésbe ütköző szerződés semmis.
 
@@ -419,6 +422,8 @@ kell érteni.
 46/A. § A Földforgalmi törvény 42. § (1) bekezdése szerinti, a föld használatának más részére át nem engedése iránti kötelezettségvállalás megsértésével kötött szerződés semmis.
 
 47. § A földhasználati szerződés – ide értve a X. Fejezet szerinti használati megosztásról szóló megállapodást is – létrejöttében érdekeltek, illetve szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxon, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve a haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
+
+47/A. § Kizárólagos tulajdonban lévő föld esetében, ha a földhasználó a haszonbérleti szerződés időtartamát meg kívánja hosszabbítani, vagy annak lejáratát követően új haszonbérleti szerződés keretében tovább kívánja használni a földet és a tulajdonos részére az ajánlat közlése a 71. § (3) bekezdés a) pont szerint lehetetlen vagy a 71. § (3) bekezdés b) pont szerint meghiúsul, mert a postai küldemény a „címzett elköltözött” vagy a „címzett ismeretlen” jelzéssel érkezik vissza, az ajánlatban foglaltakat elfogadottnak kell tekinteni.
 
 48. § (1) A földhasználati szerződésnek – a Földforgalmi törvényben meghatározottakon túl – tartalmaznia kell a szerződő feleknek, illetve a szerző félnek a 13. § (1)–(2) bekezdésében meghatározott adatait.
 
@@ -450,7 +455,7 @@ kell érteni.
 
 (3) Ha a kezdeményezésben megjelölt piaci haszonbérleti díj mértéke a haszonbérleti szerződés szerinti haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
 
-(4) Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a (3) bekezdésben foglaltak alkalmazására nincs mód, vagy azzal nem kíván élni, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni. A bíróság a kezdeményezésben megjelölt kezdő időpontra nézve állapítja meg a piaci haszonbérleti díjat.
+(4) Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a (3) bekezdésben foglaltak alkalmazására nincs mód, vagy azzal nem kíván élni, és a felek között a haszonbérleti díj tekintetében nem jön létre megegyezés, az ellenérdekű fél a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni. A bíróság a kezdeményezésben megjelölt kezdő időpontra nézve állapítja meg a piaci haszonbérleti díjat.
 
 (5) Ha a bíróság által meghatározott haszonbérleti díj mértéke a korábbi haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a bíróság határozatának jogerőre emelkedésétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
 
@@ -1137,7 +1142,7 @@ szolgáltat.
   - aa) természetes személyazonosító adatait,
   - ab) állampolgárságát,
   - ac) lakcímét,
-  - ad) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyes esetében a személyi azonosítóját,
+  - ad) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy esetében a személyi azonosítóját,
   - ae) mezőgazdasági vagy erdészeti szakirányú képzettség esetén az ezt igazoló okirat számát,
   - af) az ae) alpontban foglaltak hiányában az arra való utalást, hogy a Földforgalmi törvény 5. § 7. pont a) vagy a b) pontja szerint végzi az ott meghatározott tevékenységet,
   - ag) kényszerhasznosítóként való jelentkezésének tényét;

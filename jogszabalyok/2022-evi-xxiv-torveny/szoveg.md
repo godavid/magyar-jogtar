@@ -4,333 +4,337 @@ Magyarország 2023. évi központi költségvetésének megalapozásáról
 
 #### 1. A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
 #### 2. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
 #### 3. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 4. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
 #### 5. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 6. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
 #### 7. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 8. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 9. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 10. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 #### 11. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 12. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosítása
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
 #### 13. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 29. § (1)
 
 (2)
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
 #### 14. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-32. §
+#### 32. §
 
 #### 15. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-33. §
+#### 33. §
 
 #### 16. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
 #### 17. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
 #### 18. A sportról szóló 2004. évi I. törvény módosítása
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
 #### 19. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 20. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
 #### 21. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 22. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
 #### 23. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
 #### 24. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
 #### 25. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
 #### 26. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
 #### 27. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
 #### 28. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
-70. §
+#### 70. §
 
 #### 29. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
 #### 30. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
 #### 31. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-75. §
+#### 75. §
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
 #### 32. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
 #### 33. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-83. §
+#### 83. §
 
 #### 34. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
-96. §
+#### 96. §
 
-97. §
+#### 97. §
 
 #### 35. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
 #### 36. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-113. §
+#### 113. §
 
 #### 37. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §
 
 #### 38. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
 #### 39. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-121. §
+#### 121. §
 
-122. §
+#### 122. §
 
-123. §
+123. § A hulladékról szóló 2012. évi CLXXXV. törvény 29. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-124. §
+„(1) Ha törvény másként nem rendelkezik, a gyártók, a forgalmazók – a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék és annak hulladéka kivételével – a 22–28. §-ban foglalt kötelezettsége ellátása érdekében közvetítő szervezetet hozhatnak létre vagy bízhatnak meg azzal, hogy e kötelezettségeiket a közvetítő szervezet a gyártóktól, a forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja.”
 
-125. §
+124. § A hulladékról szóló 2012. évi CLXXXV. törvény 30/A. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.”
+
+#### 125. §
 
 126. § (1)
 
@@ -338,11 +342,13 @@ Magyarország 2023. évi központi költségvetésének megalapozásáról
 
 (3)
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
-129. §
+129. § A hulladékról szóló 2012. évi CLXXXV. törvény 28. alcíme a következő 66/A. §-sal egészül ki:
+
+„66/A. § A kiterjesztett gyártói felelősségi rendszerrel kapcsolatos adatszolgáltatási és nyilvántartási kötelezettség teljesítéséről kormányrendeletben meghatározott módon és adattartalommal a gyártó, a koncessziós társaság és a koncesszori alvállalkozó gondoskodik. A koncessziós társaság, az állami adó- és vámhatóság, a hulladékgazdálkodási hatóság és a Hivatal a gyártóknak a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termékekkel, és az azokból származó hulladékokkal kapcsolatos adatait kezeli.”
 
 130. § (1)
 
@@ -352,70 +358,81 @@ Magyarország 2023. évi központi költségvetésének megalapozásáról
 
 (4) (rendeletben állapítsa meg.)
 
-131. §
+#### 131. §
 
 132. § A hulladékról szóló 2012. évi CLXXXV. törvény
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
+1. 2. § (1) bekezdés 26b. pontjában a „hulladékának, kiterjesztett” szövegrész helyébe a „hulladékának, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott kiterjesztett” szöveg,
+
+2. 2. § (1) bekezdés 38a. pontjában a „környezetvédelmi termékdíjról szóló törvény szerinti, a termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő, valamint az egyes gyűjtési és hasznosítási célok elérését szolgáló” szövegrész helyébe a „kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termékekre vonatkozóan a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő” szöveg,
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
 
 lép.
 
-133. §
+#### 133. §
 
 #### 40. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-134. §
+#### 134. §
 
 #### 41. A választási eljárásról szóló 2013. évi XXXVI. törvény módosítása
 
-135. §
+#### 135. §
 
 #### 42. Az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló 2013. évi LXXXVII. törvény módosítása
 
-136. §
+#### 136. §
 
 #### 43. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény módosítása
 
-137. §
+#### 137. §
 
 #### 44. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
-138. §
+#### 138. §
 
 #### 45. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-139. §
+#### 139. §
 
-140. §
+#### 140. §
 
-141. §
+#### 141. §
 
 #### 46. Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény módosítása
 
-142. §
+#### 142. §
 
 #### 47. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-143. §
+#### 143. §
 
-144. §
+#### 144. §
 
-145. §
+#### 145. §
 
-146. §
+#### 146. §
 
-147. §
+#### 147. §
 
 #### 48. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
@@ -429,143 +446,143 @@ lép.
 
 (5)
 
-149. §
+#### 149. §
 
-150. §
+#### 150. §
 
-151. §
+#### 151. §
 
-152. §
+#### 152. §
 
-153. §
+#### 153. §
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
-156. §
+#### 156. §
 
 #### 49. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
-157. §
+#### 157. §
 
-158. §
+#### 158. §
 
-159. §
+#### 159. §
 
-160. §
+#### 160. §
 
-161. §
+#### 161. §
 
-162. §
+#### 162. §
 
-163. §
+#### 163. §
 
-164. §
+#### 164. §
 
-165. §
+#### 165. §
 
-166. §
+#### 166. §
 
-167. §
+#### 167. §
 
-168. §
+#### 168. §
 
-169. §
+#### 169. §
 
-170. §
+#### 170. §
 
-171. §
+#### 171. §
 
-172. §
+#### 172. §
 
-173. §
+#### 173. §
 
-174. §
+#### 174. §
 
-175. §
+#### 175. §
 
 #### 50. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-176. §
+#### 176. §
 
-177. §
+#### 177. §
 
-178. §
+#### 178. §
 
-179. §
+#### 179. §
 
-180. §
+#### 180. §
 
-181. §
+#### 181. §
 
-182. §
+#### 182. §
 
-183. §
+#### 183. §
 
-184. §
+#### 184. §
 
-185. §
+#### 185. §
 
 #### 51. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-186. §
+#### 186. §
 
 #### 52. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-187. §
+#### 187. §
 
 #### 53. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-188. §
+#### 188. §
 
-189. §
+#### 189. §
 
-190. §
+#### 190. §
 
-191. §
+#### 191. §
 
-192. §
+#### 192. §
 
-193. §
+#### 193. §
 
-194. §
+#### 194. §
 
 #### 54. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
-195. §
+#### 195. §
 
-196. §
+#### 196. §
 
-197. §
+#### 197. §
 
 #### 55. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény módosítása
 
-198. §
+#### 198. §
 
-199. §
+#### 199. §
 
-200. §
+#### 200. §
 
-201. §
+#### 201. §
 
 #### 56. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-202. §
+#### 202. §
 
-203. §
+#### 203. §
 
-204. §
+#### 204. §
 
-205. §
+#### 205. §
 
-206. §
+#### 206. §
 
-207. §
+#### 207. §
 
 #### 57. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-208. §
+#### 208. §
 
 209. § (1)
 
@@ -573,123 +590,131 @@ lép.
 
 #### 58. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-210. §
+#### 210. §
 
-211. §
+#### 211. §
 
-212. §
+#### 212. §
 
-213. §
+#### 213. §
 
-214. §
+#### 214. §
 
 #### 59. Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény módosítása
 
-215. §
+#### 215. §
 
 #### 60. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-216. §
+#### 216. §
 
 #### 61. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-217. §
+#### 217. §
 
-218. §
+#### 218. §
 
 #### 62. Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény módosítása
 
-219. §
+#### 219. §
 
-220. §
+#### 220. §
 
-221. §
+#### 221. §
 
 #### 63. A családi gazdaságokról szóló 2020. évi CXXIII. törvény módosítása
 
-222. §
+#### 222. §
 
-223. §
+#### 223. §
 
 #### 64. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-224. §
+#### 224. §
 
-225. §
+#### 225. §
 
-226. §
+#### 226. §
 
-227. §
+#### 227. §
 
 #### 65. A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény módosítása
 
-228. §
+#### 228. §
 
 #### 66. A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény módosítása
 
-229. §
+#### 229. §
 
-230. §
+#### 230. §
 
-231. §
+#### 231. §
 
 #### 67. Az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvény módosítása
 
-232. §
+#### 232. §
 
-233. §
+233. § Nem lép hatályba az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvény
+
+- 1. 40. § (2) bekezdése,
+- 2. 45. §-a,
+- 3. 47. §-a,
+- 4. 50. §-a,
+- 5. 85. § (10) bekezdése,
+- 6. 85. § (12) bekezdése, és
+- 7. 90. § (2) bekezdés 10. pontja.
 
 #### 68. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
-234. §
+#### 234. §
 
 #### 69. Az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvény módosítása
 
-235. §
+#### 235. §
 
 #### 70. Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény módosítása
 
-236. §
+#### 236. §
 
 #### 71. Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény módosítása
 
-237. §
+#### 237. §
 
 #### 72. A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. XCIX. törvény módosítása
 
-238. §
+#### 238. §
 
 #### 73. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény eltérő tartalommal történő hatálybalépése
 
-239. §
+#### 239. §
 
 #### 74. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
-240. §
+#### 240. §
 
-241. §
+#### 241. §
 
-242. §
+#### 242. §
 
-243. §
+#### 243. §
 
-244. §
+#### 244. §
 
 #### 75. Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvény módosítása
 
-245. §
+#### 245. §
 
-246. §
+#### 246. §
 
 #### 76. Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény módosítása
 
-247. §
+#### 247. §
 
 #### 77. Egyes budapesti ingatlanokat érintő feladat- és hatáskör átruházásról
 
-248. §
+#### 248. §
 
-249. §
+#### 249. §
 
 #### 78. A nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő szabályok
 
@@ -728,7 +753,7 @@ lép.
 
 (11) A 149. §, a 150. § és a 152. § 2023. február 13-án lép hatályba.
 
-(12) A 123–125. §, a 129. §, a 130. § (3) bekezdése, a 132. § 1. és 2. pontja, a 232. § és a 233. § 2023. július 1-jén lép hatályba.
+(12) A 123. § és 124. §, a 129. §, a 132. § 1. és 2. pontja és a 233. § 2023. július 1-jén lép hatályba.
 
 (13) A 148. § (1)–(3) és (5) bekezdése és a 151. §, 153–156. § 2023. augusztus 1-jén lép hatályba.
 
@@ -738,18 +763,29 @@ lép.
 
 254. § E törvény
 
-- 1. 1. §-a az Alaptörvény VIII. cikk (4) bekezdése,
-- 2. 18. §-a az Alaptörvény 46. cikk (6) bekezdése,
-- 3. 70. §-a az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
-- 4. 71. §-a és 72. §-a az Alaptörvény 29. cikk (7) bekezdése,
-- 5. 80. §-a és 82. §-a az Alaptörvény XXIX. cikk (3) bekezdése,
-- 6. 222. §-a, 223. §-a és 247. §-a az Alaptörvény P) cikk (2) bekezdése,
-- 7. 135. §-a az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése,
-- 8. 136. §-a az Alaptörvény 2. cikk (1) bekezdése,
-- 9. 219. § (1) bekezdése, 220. §-a, a 234. §-a és 9. melléklete az Alaptörvény 38. cikk (6) bekezdése,
-- 10. 219. § (2) bekezdése Alaptörvény 38. cikk (1), (2) és (6) bekezdése,
-- 11. 238. §-a és 245. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése, és
-- 12. 248. § (1), (3) és (6) bekezdése az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) és (2) bekezdése
+1. 1. §-a az Alaptörvény VIII. cikk (4) bekezdése,
+
+2. 18. §-a az Alaptörvény 46. cikk (6) bekezdése,
+
+3. 70. §-a az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
+
+4. 71. §-a és 72. §-a az Alaptörvény 29. cikk (7) bekezdése,
+
+5. 80. §-a és 82. §-a az Alaptörvény XXIX. cikk (3) bekezdése,
+
+6. 222. §-a, 223. §-a és 247. §-a az Alaptörvény P) cikk (2) bekezdése,
+
+7. 135. §-a az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése,
+
+8. 136. §-a az Alaptörvény 2. cikk (1) bekezdése,
+
+9. 219. § (1) bekezdése, 220. §-a, a 234. §-a és 9. melléklete az Alaptörvény 38. cikk (6) bekezdése,
+
+10. 219. § (2) bekezdése Alaptörvény 38. cikk (1), (2) és (6) bekezdése,
+
+11. 238. §-a és 245. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése, és
+
+12. 248. § (1), (3) és (6) bekezdése az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) és (2) bekezdése
 
 alapján sarkalatosnak minősül.
 

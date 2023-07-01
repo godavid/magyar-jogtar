@@ -108,6 +108,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - f) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti besorolás;
 - g) elektronikus elérhetőségek (e-mail, honlap);
 - h) törvényes képviselő, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy neve és elérhetőségei.
+- i) az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosító.
 
 (3) A kamarai nyilvántartásba az a gazdálkodó szervezet jegyezhető be, amely a (2) bekezdésben meghatározott adatait tartalmazó kamarai adatlapot kitöltve és cégszerűen aláírva a területi gazdasági kamara részére elektronikus úton vagy papíralapon benyújtotta, valamint a 34/A. §-ban meghatározott kamarai hozzájárulást megfizette. Egyéni vállalkozó esetében a papír alapú kamarai adatlapot az egyéni vállalkozók nyilvántartását végző hatóság továbbítja a területi gazdasági kamara részére.
 
@@ -180,7 +181,9 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (3) Az országos gazdasági kamara – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározza azoknak a szakmáknak a körét, amelyekre mesterképzés folytatható és mestervizsga szervezhető.
 
-### A területi gazdasági kamarák feladataiaz üzleti forgalom biztonságával kapcsolatban
+### A területi gazdasági kamarák feladatai
+
+az üzleti forgalom biztonságával kapcsolatban
 
 10. § (1) A gazdasági kamarák az üzleti forgalom biztonságának és a piaci magatartás tisztességének megteremtése, megőrzése, illetve fokozása érdekében
 
@@ -380,7 +383,11 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 26. § A területi kereskedelmi és iparkamarán belül – e törvény rendelkezéseinek keretei között – kereskedelmi, ipari és kézműipari tagozatot kell létrehozni. A gazdasági kamara feladatainak ellátásához további szervezeti egységeket hozhat létre. Ebben az esetben meg kell állapítani a szervezeti egységek feladatkörét, továbbá a kamara más szerveivel való kapcsolódásuk rendjét. A kereskedelmi és iparkamarán belül az e törvényben meghatározottakon túlmenő tagozatok létrehozásáról – a választási időszakok megtartásának figyelembevételével – a kamara alapszabálya rendelkezhet.
 
-### A kamarai küldöttekkel, a testületi szervek tagjaival,a tisztségviselőkkel szemben támasztott követelményekés az összeférhetetlenség szabályai
+### A kamarai küldöttekkel, a testületi szervek tagjaival,
+
+a tisztségviselőkkel szemben támasztott követelmények
+
+és az összeférhetetlenség szabályai
 
 27. § (1) A gazdasági kamara tisztségviselői:
 
@@ -436,7 +443,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (6) A kamara feloszlatása vagy megszűnésének megállapítása esetén a nyilvántartásból való törléséről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg. A megszűntnek nyilvánítás esetén a megszűnő kamara általános jogutódát a bíróság jelöli ki.
 
-29. §
+#### 29. §
 
 ### Választási szabályok
 
@@ -547,7 +554,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 ### VII. Fejezet — AZ ÁLLAMI SZÁMVEVŐSZÉK ELLENŐRZÉSI JOGKÖRE
 
-38. §
+#### 38. §
 
 ### VIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -561,7 +568,9 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (5) A (4) bekezdés szerinti szavazati jogot gyakorló küldötteket a kézműipari tagozatban tartott választások útján a kézműves kamarákban küldöttnek megválasztott személyek közül kell kiválasztani.
 
-40–41. §
+#### 40. §
+
+#### 41. §
 
 42. § A területi gazdasági kamarák által 2000. október 31. napjáig terjedő időszakra megállapított és meg nem fizetett tárgyévi tagdíj köztartozás, amelyet a gazdasági kamara – az adózás rendjéről szóló törvény rendelkezéseinek megfelelő alkalmazásával – adók módjára hajt be a tagdíj megállapítása tárgyában hozott, a végrehajtás alapját képező fizetési kötelezettséget megállapító végleges határozat alapján. A kézműves kamarákat megillető meg nem fizetett tagdíjtartozás behajtásáról 2000. március 31. napjától a kereskedelmi és iparkamarák gondoskodnak.
 
@@ -596,7 +605,7 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 46. § Ahol jogszabály területi kereskedelmi és iparkamarát, vagy területi kézműves kamarát, illetve Magyar Kereskedelmi és Iparkamarát, vagy Magyar Kézműves Kamarát említ, azon 2000. március 31. napjától a kereskedelmi és iparkamarát, illetve Magyar Kereskedelmi és Iparkamarát kell érteni.
 
-47. §
+#### 47. §
 
 48. § (1) A gazdasági kamara a tulajdonában lévő ingatlanok, gépjárművek, üzletrészek tulajdonjogát 2000. október 31. napjáig nem ruházhatja át, illetve ezeket nem terhelheti meg, közhasznú társasága ilyen ügyleteihez nem járulhat hozzá. Közhasznú társaságot 2000. október 31. napjáig nem alapíthat, ilyen társaságban részesedést nem szerezhet, a külön törvényben meghatározott kötelező eseteken kívül törzstőkét nem emelhet, és a törzstőke emeléséhez nem járulhat hozzá, ha abban többségi tulajdonnal vagy többségi szavazati joggal rendelkezik.
 
@@ -611,8 +620,10 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 50. § Felhatalmazást kap a Kormány, hogy azokban a közigazgatási ügyekben, amelyekben a gazdasági kamarák nem törvény rendelkezése alapján járnak el, rendelkezzen e feladatok további ellátásáról.
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53–54. §
+#### 53. §
+
+#### 54. §

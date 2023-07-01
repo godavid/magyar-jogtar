@@ -2,7 +2,15 @@
 
 a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról
 
-Magyarország nemzetgazdasági stabilitása, gazdasági termelőképességének előmozdítása és versenyképességének fokozása, valamint kiemelt gazdasági jelentőséggel bíró területei gazdasági fejlődésének előmozdítása érdekében,a meglévő munkahelyek megőrzésével és új munkahelyek létesítésével az Alaptörvény XII. cikkében foglaltak szerint törekszik megteremteni annak feltételeit, hogy minden munkaképes ember, aki dolgozni akar, dolgozhasson,abból a célból, hogy elkülönített területek létrehozásával kedvező körülményeket teremtsen a gazdasági tevékenység folytatására,az ilyen tevékenységből származó pozitív gazdasági eredmények és azok hasznainak arányos, a területén élők jólétének és biztonságának kiteljesedése, az életminőség javítása, ezáltal a közösség gyarapodása valamint az érintett helyi önkormányzatok hatékonyabb feladatellátása céljára történő felosztása érdekébenaz Országgyűlés a következő törvényt alkotja:
+Magyarország nemzetgazdasági stabilitása, gazdasági termelőképességének előmozdítása és versenyképességének fokozása, valamint kiemelt gazdasági jelentőséggel bíró területei gazdasági fejlődésének előmozdítása érdekében,
+
+a meglévő munkahelyek megőrzésével és új munkahelyek létesítésével az Alaptörvény XII. cikkében foglaltak szerint törekszik megteremteni annak feltételeit, hogy minden munkaképes ember, aki dolgozni akar, dolgozhasson,
+
+abból a célból, hogy elkülönített területek létrehozásával kedvező körülményeket teremtsen a gazdasági tevékenység folytatására,
+
+az ilyen tevékenységből származó pozitív gazdasági eredmények és azok hasznainak arányos, a területén élők jólétének és biztonságának kiteljesedése, az életminőség javítása, ezáltal a közösség gyarapodása valamint az érintett helyi önkormányzatok hatékonyabb feladatellátása céljára történő felosztása érdekében
+
+az Országgyűlés a következő törvényt alkotja:
 
 1. § (1) E törvény hatálya annak a beruházásnak a helyszínére és közvetlen környezetére (a továbbiakban együtt: Terület) terjed ki, amely beruházással összefüggő közigazgatási hatósági ügyeket a Kormány rendeletben nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánította, és az új beruházás vagy bővítés
 
@@ -55,13 +63,7 @@ megállapító rendelete a különleges gazdasági övezet területén csak akko
 
 (5) Amennyiben az (1) bekezdés a) pontja szerinti beépítési szabály, építési követelmény meghatározásából a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt megillető kártalanításra a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 11/C. §-át kell alkalmazni.
 
-5. § (1) A hulladékgazdálkodási közszolgáltatást a különleges gazdasági övezetben fekvő településen a különleges gazdasági övezet kijelöléséről szóló kormányrendelet hatálybalépése napján hatályos hulladékgazdálkodási közszolgáltatásról szóló települési önkormányzati rendelet és a megfelelőségi véleménnyel rendelkező közszolgáltatóval kötött közszolgáltatási szerződés szabályai szerint kell ellátni mindaddig, amíg a különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzatának az e törvény felhatalmazása alapján megalkotott, a hulladékgazdálkodási közszolgáltatással kapcsolatos rendelete hatályba nem lép és hulladékgazdálkodási közszolgáltatási szerződése hatályossá nem válik.
-
-(2) A különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzata az (1) bekezdésben megjelölt rendeletének hatálybalépését és hulladékgazdálkodási közszolgáltatási szerződése hatályossá válását megelőzően az érintett települési önkormányzatot legalább 15 nappal korábban értesíti, annak érdekében, hogy az gondoskodhasson a hulladékgazdálkodási közszolgáltatást szabályozó önkormányzati rendeletének és közszolgáltatási szerződésének módosításáról a különleges gazdasági övezet tekintetében.
-
-(3) Ha a különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzata (1) bekezdés szerinti rendeletének hatálybalépéséig és közszolgáltatási szerződésének hatályossá válásáig az (1) bekezdés szerinti közszolgáltatási szerződés megszüntetésére vagy megszűnésére (a továbbiakban együtt: megszűnés) kerül sor, akkor az érintett települési önkormányzat e tényről haladéktalanul, de legkésőbb 5 napon belül tájékoztatja a különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzatát a megszűnés időpontjának megjelölésével.
-
-(4) A különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzata a különleges gazdasági övezet hulladékgazdálkodási közszolgáltatójának kiválasztása során a közszolgáltató kiválasztásáról és a hulladékgazdálkodási közszolgáltatási szerződésről szóló kormányrendelet szabályait azzal az eltéréssel alkalmazza, hogy a különleges gazdasági övezet hulladékgazdálkodási közszolgáltatójának a kiválasztását megelőzően beszerzi a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 32/A. § (2) bekezdésében megjelölt Koordináló szerv (a továbbiakban: Koordináló szerv) javaslatát a közszolgáltató személyét illetően. A Koordináló szerv javaslatától a különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzata csak abban az esetben térhet el, ha a választani kívánt közszolgáltató a hulladékgazdálkodási közszolgáltatást a korábbinál alacsonyabb közszolgáltatási díjért látná el a korábbi műszaki tartalom csökkentése nélkül.
+#### 5. §
 
 6. § A 2. § (1) bekezdése alapján a különleges gazdasági övezet fekvése szerinti vármegye vármegyei önkormányzata tulajdonába kerülő közút üzemeltetési és fenntartási feladatainak ellátása érdekében a vármegyei önkormányzat szerződést köthet a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal.
 
@@ -77,10 +79,10 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a különleges gazdasági övezet fekvése szerinti, vagy a 3. § (6) bekezdése alapján kijelölt vármegye vármegyei önkormányzatának közgyűlése, hogy a különleges gazdasági övezet területén
 
 - a) – az (1) bekezdés c) pontja szerinti felhatalmazás alapján kiadott jogszabályban szabályozottak kivételével – a különleges gazdasági övezetre vonatkozó 4. § (1) bekezdése szerinti szabályokat;
-- b) a hulladékgazdálkodási közszolgáltatás ellátásának és igénybevételének szabályait, illetve a Ht. 35. §-ában foglalt rendelkezések érvényesítéséhez szükséges szabályokat;
-- c) az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
-- d) a közterület tisztán tartására vonatkozó részletes szabályokat;
-- e) a hulladékgazdálkodási közszolgáltatási díjra vonatkozó, a Ht. 88. § (3) bekezdés b) pont bb) alpontja szerinti miniszteri rendeletben nem szabályozott díjalkalmazási és díjfizetési feltételeket
+- b) a hulladékról szóló törvény alapján önkormányzati rendeletalkotási körbe tartozó szabályokat;
+- c)
+- d)
+- e)
 
 rendeletben határozza meg.
 
@@ -102,38 +104,38 @@ rendeletben határozza meg.
 
 (2) A 3. § és a 4. § (1) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §

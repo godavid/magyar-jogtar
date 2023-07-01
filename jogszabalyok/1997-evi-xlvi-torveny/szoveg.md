@@ -61,7 +61,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 4. § (1) A kamara tagjairól vezetett nyilvántartásban fel kell tüntetni a kamara tagjának következő adatait:
 
-- a) családi és utónevét, lakóhelyét,
+- a) családi és utónevét, magyarországi vagy külföldi lakóhelyét;
 - b) állampolgárságát,
 - c) születési helyét és idejét,
 - d) anyja nevét,
@@ -242,6 +242,8 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 (2) A kamara az alapszabályban meghatározott feltételekkel pártoló tagságot is létesíthet.
 
 (2a) A tagjelölt kamarai felvételéről sportvadász kérelmező esetén a lakóhelye szerint, hivatásos vadász esetén a szolgálati helye szerint illetékes területi szervezet a vadász kérelme esetén a vadászjegy kiállításával, pártoló tagság iránti kérelem esetén a nyilvántartásba felvételről szóló határozattal dönt.
+
+(2b) A magyar állampolgársággal és külföldi lakóhellyel rendelkező sportvadász tagjelölt kamarai felvételéről a kamara Fővárosi és Pest vármegyei szervezete a vadászjegy kiállításával dönt.
 
 (3) Elutasítható a tagfelvételi kérelme annak a személynek, akivel szemben olyan etikai kifogás merül fel, amely a tagsági viszony felfüggesztését, illetve etikai büntetést vonna maga után, feltéve, hogy az elutasítás okaként megjelölt cselekmény vagy mulasztás elkövetésétől két év még nem telt el.
 

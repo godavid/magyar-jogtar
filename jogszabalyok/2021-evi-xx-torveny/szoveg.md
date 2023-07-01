@@ -40,13 +40,15 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 5. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben felsorolt állami tulajdonban lévő ingatlanok, valamint ingatlanok állami tulajdonban lévő tulajdoni hányada (ezen alcím alkalmazásában a továbbiakban együtt: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
+(1a) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. melléklet 57. sorában szereplő, Herceghalom 267/4 helyrajzi számú ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül átadásra. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
 
 (3) A költségvetési szervi formában működő Egyetem és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság között fennálló vagyonkezelési szerződés megszűnik.
 
-(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(4) Az (1) és (1a) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
-(5) A (4) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+(5) A (4) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
@@ -60,9 +62,9 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (2) Az 1. § (4) bekezdése, a 2–6. §, a 9. § és az 1–3. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (4) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (1a), (4) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. §
+#### 9. §
 
 ### 1. melléklet a 2021. évi XX. törvényhez
 
@@ -154,3 +156,4 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 | 54. | CEGLÉD | 4736 | 1/3 | kivett lakóház, udvar |
 | 55. | ZALAEGERSZEG | 2543 | 6/12 | kivett lakóház, udvar |
 | 56. | ZALAEGERSZEG | 2544 | 2/4 | kivett beépített terület |
+| 57. | HERCEGHALOM | 267/4 | 1/1 | kivett major |

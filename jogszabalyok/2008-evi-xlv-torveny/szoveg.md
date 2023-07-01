@@ -177,6 +177,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (3) A közjegyző a határozatait és más iratait az alkalmazáson keresztül állítja elő, illetve az alkalmazásban rögzíti. Az alkalmazáson keresztül előállított elektronikus közokiratot minősített elektronikus aláírással, illetve minősített elektronikus bélyegzővel kell ellátni.
 
+(3a) A közjegyző által elektronikus úton meghozott határozaton – a helyszíni eljárás során, valamint a székhelyén kívüli hivatali helyiségében meghozott határozat kivételével – a keltezés helyeként a közjegyző székhelyét kell feltüntetni.
+
 (4) Az eljárásban keletkezett papíralapú vagy elektronikus iratok adattartalma, valamint az egyes eljárási cselekmények megtételének ténye az alkalmazásba kerül bevitelre, illetve rögzítésre. Az alkalmazásban rögzített adatokat a közjegyző és – az alkalmazás működtetésével kapcsolatban hozzáférésre jogosult személyek titoktartási kötelezettségének biztosítása mellett – az országos kamara kezeli.
 
 (5) Az alkalmazás a közjegyző, illetve a közjegyző (közjegyzői iroda) alkalmazottja számára fenntartott műveletek elvégzését a közjegyző (alkalmazott) azonosítását követően teszi lehetővé, és naplózza. Az alkalmazásban a beadványok adatainak rögzítését – azonosítását követően – a közjegyző (közjegyzői iroda) alkalmazottja is végezheti.
@@ -293,17 +295,17 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 27/A. § A közjegyző a szakértői véleményt a kérelmezőn kívül kizárólag bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére vagy adatkérésére küldheti meg, ha a megkereső vagy az adatszolgáltatást kérő törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére és megjelölte annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ezek a szabályok alkalmazandók a szakértői véleménybe való betekintés engedélyezésére is.
 
-27/B. §
+#### 27/B. §
 
-27/C. §
+#### 27/C. §
 
-27/D. §
+#### 27/D. §
 
-27/E. §
+#### 27/E. §
 
-27/F. §
+#### 27/F. §
 
-27/G. §
+#### 27/G. §
 
 ### A közjegyző előtti egyezségi eljárás
 
@@ -318,7 +320,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - c) a közérdekből indított perekkel összefüggő ügyben,
 - d) a jogi személyek alapításával és törvényes működésével kapcsolatos ügyben,
 - e) a jogi személyek és tagjaik, volt tagjaik közötti, illetve a tagok, volt tagok egymás közötti, a tagsági jogviszonyon alapuló ügyben,
-- f) a személyi állapotot érintő és egyéb családjogi tárgyú ügyben,
+- f) a személyi állapotot érintő és egyéb családjogi tárgyú ügyben, kivéve a házassági vagyonjogi tárgyú egyezséget,
 - g) a végrehajtási perre tartozó ügyben,
 - h) munkaügyi perre tartozó ügyben,
 - i) állami vagyonnal kapcsolatos ügyben,
@@ -501,7 +503,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (8) Az élettársi nyilvántartás adatait a közjegyző és az országos kamara kezeli. Az országos kamara működteti a nyilvántartásban szereplő adatok kezelésére szolgáló, folyamatosan a felhasználók rendelkezésére álló informatikai alkalmazást. Az országos kamara a (4) bekezdés a) pontjában foglalt adatokban bekövetkezett változásokat és a (4) bekezdés d) pontjában foglalt adatokat a nyilvántartásban átvezeti, e célból a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervtől elektronikus úton adatot igényelhet.
 
-(9) Az Élettársi Nyilatkozatok Nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(9) Az Élettársi Nyilatkozatok Nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen az országos kamara adja át és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 36/F. § (1) A nyilatkozat felvételére irányuló eljárás élettársak közös kérelemre vagy az élettársi kapcsolat fenn nem állásáról szóló nyilatkozat esetén bármelyik élettárs kérelmére indul. Közös kérelem esetén a közjegyző illetékességét az élettársak bármelyikének lakóhelye vagy tartózkodási helye megalapítja.
 
@@ -590,7 +592,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 (2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
 
-(2a) Az (1) bekezdés szerinti nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a: Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(2a) Az (1) bekezdés szerinti nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a: Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen az országos kamara adja át és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (3) A vagyonjogi szerződés fennállásának tényére vonatkozóan a nyilvántartásba bárki bármely közjegyzőnél díj megfizetése ellenében betekinthet és annak alapján saját céljára feljegyzést készíthet. A betekintés a vagyonjogi szerződést megkötő felek valamelyikének az (1) bekezdés b) pontjában szereplő adatainak megadása és az ehhez fűződő jogi érdek igazolása alapján történhet. A jogi érdek igazolása során meg kell jelölni azt a jogügyletet, illetve egyéb okot, amely az adatfelhasználás jogszerű célját és jogalapját megalapozza. A lekérdezés eredményéről a közjegyző – kérelemre – tanúsítványt állít ki. A közjegyzői tanúsítvány a lekérdezéstől függően valamennyi bejegyzést hitelesen igazolja.
 
@@ -693,7 +695,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 ### Átmeneti rendelkezés
 
-39. §
+#### 39. §
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -701,6 +703,6 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 ### Módosuló rendelkezések
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §

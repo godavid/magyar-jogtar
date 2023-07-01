@@ -42,11 +42,11 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 (3) A kérelmet vissza kell utasítani, ha
 
-- a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 16., 18., 20., 21., 26., 29., illetve 37. pontjában meghatározott tény szerepel;
+- a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 18., 20., 21., 26., 29., illetve 37. pontjában meghatározott tény szerepel;
 - b) az érintett ingatlan tulajdoni lapján a folyamatban lévő megosztás ténye van feljegyezve;
 - c) az érintett ingatlan tulajdoni lapján széljegy van feltüntetve;
 - d) az érintett ingatlan valamely tulajdoni hányadára vonatkozóan tulajdonátruházás hatósági jóváhagyása iránti eljárás van folyamatban;
-- e) az ingatlant érintően a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény vagy a 15. alcím szerinti részarány földkiadás eredményeként keletkezett osztatlan közös tulajdon megszüntetésére vonatkozó eljárásban a kiosztás sorrendjének megállapítása érdekében már a sorsolás megtörtént vagy az egyezség befogadásra került; vagy
+- e) az ingatlant érintően a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény vagy a 15. alcím, illetve a 16. alcím szerinti részarány földkiadás eredményeként keletkezett osztatlan közös tulajdon megszüntetésére vonatkozó eljárásban a kiosztás sorrendjének megállapítása érdekében már a sorsolás megtörtént vagy az egyezség befogadásra került; vagy
 - f) a folyamatban lévő megosztás tényének bármely okból bekövetkezett törlésétől számított 30 napon belül az adott ingatlant érintően ismételten kérelmet nyújtanak be, ide nem értve azt az esetet, ha a törlésre a tulajdonjog öröklés jogcímen történő bejegyzése, illetve a kisajátítás folytán bekövetkező tulajdonváltozás átvezetése alapján kerül sor.
 
 (3a) A kérelmet függőben kell tartani, ha a kérelemmel érintett földrészlet tekintetében az ingatlanügyi hatóság vizsgálati záradékolási eljárása folyamatban van, vagy ha az ingatlanügyi hatóság a térképi adatbázist érintő előzetes változást már nyilvántartásba vette és hatályos záradékkal látta el. A kérelem függőben tartása esetén a változási vázrajz újrazáradékolása a kisajátítás kivételével nem végezhető el. Ha a záradék érvényessége lejár, a vázrajzot törölni kell az előzetes nyilvántartásból és a folyamatban lévő megosztás tényének feljegyzése iránti eljárást kell lefolytatni.
@@ -116,7 +116,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 9. § (1) A tulajdonostársak az egyezség keretében kötelesek rendelkezni a megosztásra kerülő ingatlant érintő jogoknak és tényeknek a megosztás eredményeként létrejövő új ingatlanokra történő átjegyzéséről, kivéve, ha a jog vagy tény igazolt módon megszűnt. A tulajdonostársak az egyezség keretében kötelesek továbbá rendelkezni a megosztásra kerülő ingatlan vonatkozásában a tulajdonostársak valamelyikének tulajdonában álló, a földtől elválaszthatatlan vagyontárgyak tulajdonba adásáról és értékének megtérítéséről vagy további használatuk feltételeinek a meghatározásáról.
 
-(2) Az (1) bekezdésben foglaltak teljesítéséhez a tulajdonostársak adatszolgáltatás keretében kérhetik az ingatlanügyi hatóságtól a megosztandó ingatlan tulajdoni lapján szereplő helyhez kötött jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzok kiadását. Az ingatlanügyi hatóság az adatszolgáltatásnak a megkereséstől számított 15 napon belül eleget tesz.
+(2) Az (1) bekezdésben foglaltak teljesítéséhez az ingatlanügyi hatóság a megosztandó ingatlan tulajdoni lapján szereplő helyhez kötött jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzokat a folyamatban lévő megosztás tényének feljegyzésétől számított 15 napon belül kiadja a megosztási eljárást kezdeményező tulajdonostársnak.
 
 (3) A jogok és tények tervezett átjegyzését a térképvázlaton és a területkimutatáson fel kell tüntetni és azt jóváhagyás céljából meg kell küldeni valamennyi bejegyzett jog vagy tény jogosultja számára.
 
@@ -132,7 +132,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 11. § (1) Az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan – ide nem értve az ingatlanok megközelítésére szolgáló utat – nem lehet szőlő, kert, gyümölcsös, nádas művelési ág esetén 3000 m2-nél, szántó, rét, legelő, erdő és fásított terület művelési ág esetén 10 000 m2-nél kisebb területnagyságú. Vegyes művelési ágú ingatlan esetén a kisebb területi minimummal rendelkező művelési ágra vonatkozó mérték irányadó. Erdőnek minősülő ingatlan esetén az Evt.-nek az erdő megosztására irányadó további előírásait nem kell alkalmazni.
 
-(2) Ha a megosztási eljárás tárgya zártkerti földnek minősülő ingatlan, az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan nem lehet 500 m2-nél kisebb területnagyságú.
+(2) Ha a megosztási eljárás tárgya zártkerti földnek minősülő ingatlan, az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan nem lehet 1000 m2-nél kisebb területnagyságú.
 
 (3) Az (1) bekezdésben az erdő művelési ágra vonatkozó területi minimumot kell alkalmazni az olyan ingatlanra is, amely az ingatlan-nyilvántartásban művelés alól kivett területként van nyilvántartva és amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve.
 
@@ -146,7 +146,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 (4) Az (1) bekezdés szerinti esetben a területi minimumot el nem érő tulajdoni hányaddal rendelkező tulajdonostárs részére a bekebelező tulajdonostársnak ellenértékként legalább az ingatlan – e törvény végrehajtására kiadott rendelet szerinti értékbecslési ajánlatban megállapított – értékének megfelelő összeget kell megfizetnie. Ha a bekebelező tulajdonostárs nem ért egyet az értékbecslési ajánlatban foglalt összeggel, vagy a területi minimumot el nem érő tulajdoni hányaddal rendelkező tulajdonostárs nem ért egyet a bekebelező tulajdonostárs által az értékbecslési ajánlat figyelembevételével ajánlott összeggel, úgy igazságügyi szakértővel új értékbecslési szakvéleményt készíttethet. Az új értékbecslési szakvélemény elkészítésének költségeit a bekebelező tulajdonostárs abban az esetben viseli, ha annak elkészíttetését ő kezdeményezte, vagy ha az új értékbecslési szakvéleményben foglalt összeg legalább 20%-kal meghaladja a bekebelező tulajdonostárs által ajánlott összeget. Ha az új értékbecslési szakvéleményben foglalt összeg meghaladja a bekebelező tulajdonostárs által ajánlott összeget, a bekebelező tulajdonostársnak ellenértékként legalább az új értékbecslési szakvéleményben meghatározott összeget kell megfizetnie. Ha az új értékbecslési szakvéleményben foglalt összeg kevesebb, mint a bekebelező tulajdonostárs által ajánlott összeg, a bekebelező tulajdonostársnak ellenértékként legalább az új értékbecslési szakvéleményben meghatározott összeget kell megfizetnie. Ha több új értékbecslési szakvélemény készült, azt kell figyelembe venni, amelyben a legmagasabb összeg szerepel.
 
-(5) Az ellenérték megfizetését – annak összegétől függetlenül – az egyezségi döntésben részt nem vevő, az 5. § (2) bekezdése szerinti tulajdonostárs, valamint az 5. § (4) bekezdése szerinti értesítettnek tekintendő tulajdonostárs részére bírósági letétbe helyezéssel kell teljesíteni.
+(5) Az ellenérték megfizetését – annak összegétől függetlenül – az egyezségi döntésben részt nem vevő, az 5. § (2) bekezdése szerinti tulajdonostárs, valamint az 5. § (4) bekezdése szerinti értesítettnek tekintendő tulajdonostárs részére a föld fekvése szerint illetékes bíróságnál letétbe helyezéssel kell teljesíteni.
 
 (6) Az e § szerinti bekebelezés esetén a tulajdonszerzés jogcíme közös tulajdon megszüntetése.
 
@@ -181,7 +181,7 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 (4) A többi tulajdonostárs részére a bekebelező tulajdonostársnak ellenértékként legalább az ingatlan – e törvény végrehajtására kiadott rendelet szerinti értékbecslési ajánlatban megállapított – értékének megfelelő összeget kell megfizetnie. Ha a bekebelező tulajdonostárs nem ért egyet az értékbecslési ajánlatban foglalt összeggel, vagy a többi tulajdonostárs nem ért egyet a bekebelező tulajdonostárs által az értékbecslési ajánlat figyelembevételével ajánlott összeggel, úgy igazságügyi szakértővel új értékbecslési szakvéleményt készíttethet. Az új értékbecslési szakvélemény elkészítésének költségeit a bekebelező tulajdonostárs abban az esetben viseli, ha annak elkészíttetését ő kezdeményezte, vagy ha az új értékbecslési szakvéleményben foglalt összeg legalább 20%-kal meghaladja a bekebelező tulajdonostárs által ajánlott összeget. Ha az új értékbecslési szakvéleményben foglalt összeg meghaladja a bekebelező tulajdonostárs által ajánlott összeget, a bekebelező tulajdonostársnak ellenértékként legalább az új értékbecslési szakvéleményben meghatározott összeget kell megfizetnie. Ha az új értékbecslési szakvéleményben foglalt összeg kevesebb, mint a bekebelező tulajdonostárs által ajánlott összeg, a bekebelező tulajdonostársnak ellenértékként legalább az új értékbecslési szakvéleményben meghatározott összeget kell megfizetnie. Ha több új értékbecslési szakvélemény készült, azt kell figyelembe venni, amelyben a legmagasabb összeg szerepel.
 
-(5) Az ellenérték megfizetését – annak összegétől függetlenül – bírósági letétbe helyezéssel kell teljesíteni az 5. § (2) bekezdése szerinti bizonytalan személyű tulajdonostárs, a tulajdonostárs ismeretlen örököse, valamint az 5. § (4) bekezdése szerinti értesítettnek tekintendő tulajdonostárs, továbbá azon tulajdonostárs részére, aki a teljesítéshez szükséges adatokat nem bocsátja a bekebelező tulajdonostárs rendelkezésére.
+(5) Az ellenérték megfizetését – annak összegétől függetlenül – a föld fekvése szerint illetékes bíróságnál letétbe helyezéssel kell teljesíteni az 5. § (2) bekezdése szerinti bizonytalan személyű tulajdonostárs, a tulajdonostárs ismeretlen örököse, valamint az 5. § (4) bekezdése szerinti értesítettnek tekintendő tulajdonostárs, továbbá azon tulajdonostárs részére, aki a teljesítéshez szükséges adatokat nem bocsátja a bekebelező tulajdonostárs rendelkezésére.
 
 (6) Az e § szerinti bekebelezés esetén a tulajdonszerzés jogcíme közös tulajdon megszüntetése.
 
@@ -231,7 +231,7 @@ használja, vagy
 
 (9b) A (9a) bekezdésben foglaltak alkalmazása során, ha az ingatlan becsértéke nem került még megállapításra, a tulajdonrész ellenértékeként az e törvény végrehajtására kiadott rendelet szerinti értékbecslési ajánlatban, vagy a 12. § (4) bekezdése, illetve a 16. § (4) bekezdése alapján a tulajdonostársak által készíttetett értékbecslési szakvéleményben megállapított értéket kell figyelembe venni. Ha a végrehajtó az így meghatározott értékkel nem ért egyet, akkor a 12. § (4) bekezdésében és a 16. § (4) bekezdésében foglaltak alkalmazásával igazságügyi szakértővel új értékbecslési szakvéleményt készíttethet. Ha az ingatlan becsértéke megállapításra került, a tulajdonrész ellenértékeként a becsértéket kell figyelembe venni.
 
-(9c) A végrehajtó az ellenérték beérkezését követően az e törvény végrehajtására kiadott rendeletben foglaltak szerint megteszi a szükséges intézkedéseket a tulajdonrészt érintően a lefoglalás megszüntetése és a végrehajtási jognak a tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg történő töröltetése iránt.
+(9c) A végrehajtó az ellenérték beérkezését követően a 17/B. §-ban foglaltak szerint megteszi a szükséges intézkedéseket a tulajdonrészt érintően a lefoglalás megszüntetése és a végrehajtási jognak a tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg történő töröltetése iránt.
 
 (10) Az e törvény alapján történő tulajdonszerzés esetén védett természeti területnek minősülő ingatlanban fennálló állami tulajdoni hányad is elidegeníthető.
 
@@ -242,6 +242,18 @@ használja, vagy
 (3) A bírósági letétbe helyezéssel kapcsolatban felmerült költségeket és illetéket a letevő viseli, az a letétbe helyezett összegből nem vonható le.
 
 (4) Ha a letétbe helyezett összegnek a letevő részére való visszafizetésének nincs helye, a bírósági kezelés (őrzés) megszüntetésére akkor kerül sor, ha a tulajdonjogot bejegyző határozat véglegessé válásától számított tizenöt éven belül a pénzt a jogosult nem veszi át. A letétként kezelt pénzt ezen határidő elteltét követően a Nemzeti Földalap kezeléséért felelős szerv részére kell átutalni, mely összeget az állam földvásárlásra használhat fel.
+
+17/B. § (1) Ha a megosztással együtt vagy a 16. § alapján bekebelezéssel megszerzett tulajdonrész ellenértékét a 17. § (9a) bekezdése alapján a végrehajtóhoz kell teljesíteni, a végrehajtó a végrehajtási jog törlésére vonatkozó végrehajtható határozatával az ellenérték beérkezését követő 8 napon belül megkeresi az ingatlanügyi hatóságot, és erről az ellenértéket teljesítő tulajdonostársat értesíti.
+
+(2) A 16. § szerinti bekebelezés esetén a végrehajtási jog törlésére vonatkozó megkeresést a végrehajtó azzal küldi meg az ingatlanügyi hatóságnak, hogy az ingatlanügyi hatóság a tulajdonostárs tulajdonjog-bejegyzés iránti kérelmének beérkezéséig függessze fel a végrehajtási jog törlésére vonatkozó megkeresés elintézését.
+
+(3) Az ingatlanügyi hatóság a végrehajtási jog törlésére vonatkozó megkeresés elintézését az osztatlan közös tulajdon megszüntetésével bekövetkező változás átvezetése iránti kérelem, illetve a 16. § szerinti bekebelezés ingatlan-nyilvántartási átvezetése iránti kérelem beérkezéséig, a (2) bekezdés szerinti végrehajtási megkeresés esetén végrehajtói rendelkezés alapján, az osztatlan közös tulajdon megszüntetésével bekövetkező változás átvezetése iránti kérelem, illetve a bekebelezés ingatlan-nyilvántartási átvezetése iránti kérelem elintézését a végrehajtási jog törlésére vonatkozó megkeresés beérkezéséig hivatalból felfüggeszti.
+
+(4) Az ingatlanügyi hatóság az osztatlan közös tulajdon megszüntetésével bekövetkező változás ingatlan-nyilvántartási átvezetésével, illetve a bekebelezés ingatlan-nyilvántartási átvezetésével egyidejűleg intézkedik a végrehajtási jog törlése iránt. Ha az ellenérték megfizetését az e törvény alapján bírósági letétbe helyezéssel kell teljesíteni, a végrehajtó az ellenértéknek a végrehajtás során behajtani kívánt valamennyi követelés és a végrehajtási költség fedezésével nem érintett részét bírósági letétbe helyezi.
+
+(5) Az ingatlanügyi hatóság az osztatlan közös tulajdon megszüntetésével bekövetkező változás ingatlan-nyilvántartási átvezetésére irányuló kérelem, illetve a bekebelezés ingatlan-nyilvántartási átvezetésére irányuló kérelem visszautasítására, az eljárás megszüntetésére, illetve a kérelem elutasítására irányuló döntésével egyidejűleg a végrehajtási jog törlésére irányuló megkeresést elutasítja. A végrehajtó az ingatlanügyi hatóság elutasító döntésének beérkezését követő 8 napon belül intézkedik az ellenértéknek a tulajdonostárs részére történő visszautalásáról.
+
+(6) Az osztatlan közös tulajdon megszüntetéséért – a 4. § (7) bekezdése szerint – fizetendő igazgatási szolgáltatási díj magában foglalja a végrehajtási jog ingatlan-nyilvántartásból való törléséért fizetendő díjat is. A 16. § szerinti bekebelezés ingatlan-nyilvántartási átvezetésére irányuló eljárásért fizetendő igazgatási szolgáltatási díj magában foglalja a végrehajtási jog ingatlan-nyilvántartásból való törléséért fizetendő díjat is.
 
 #### 5. Az osztatlan közös tulajdon megszüntetése az ingatlan kisajátítása útján
 
@@ -274,7 +286,7 @@ használja, vagy
 
 (4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti tulajdoni hányad kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
 
-(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában.
+(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
 
 (6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét a (3) bekezdés szerinti jogügyletek ingatlan-nyilvántartási átvezetésével vagy a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg.
 
@@ -296,7 +308,7 @@ használja, vagy
 
 (4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti tulajdoni hányad kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
 
-(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában.
+(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
 
 (6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét a (3) bekezdés szerinti jogügyletek ingatlan-nyilvántartási átvezetésével vagy a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg.
 

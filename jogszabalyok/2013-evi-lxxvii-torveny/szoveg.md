@@ -54,7 +54,7 @@ szervez.
 - 7a. komplex felzárkózási képzés: a személyek társadalmi és gazdasági felzárkózásának részeként a kompetenciafejlesztés, illetve a humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzés, a közfoglalkoztatáshoz és a szociális szövetkezetben történő foglalkoztatáshoz kapcsolódóan szervezett képzés, a szakképzettséggel nem rendelkezők a társadalmi felzárkózását szolgáló és kompetenciáját fejlesztő képzés, valamint az esélyegyenlőségi mentorok és a helyi esélyegyenlőségi programok készítésében résztvevők képzése,
 - 8. kontaktóra: a képzésben részt vevő személyes jelenlétét vagy – az olyan tanóra kivételével, amely olyan kompetencia átadására irányul, amely kizárólag személyes jelenlét mellett sajátítható el – interaktív és távolléti kapcsolattal vagy zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósuló jelenlétét igénylő tanóra,
 - 9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy vagy csoport és az oktató, tutor közötti megbeszélés, amely interaktív és távolléti kapcsolattal, továbbá zárt rendszerű távoktatási képzésmenedzsment rendszerrel is megvalósulhat,
-- 9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével az iparügyekért felelős miniszter által ilyennek minősített oktatás, képzés,
+- 9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével a felnőttképzésért felelős miniszter által ilyennek minősített oktatás, képzés,
 - 10. tananyagegység: a képzési program felépítését adó, önálló tartalommal bíró képzési egység,
 - 10a. tanulmányi rendszer: a nemzeti köznevelésről szóló törvény szerinti szakgimnáziumok és szakiskolák a szakképzésről szóló törvény szerinti szakképző intézmények, a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatásai intézmények, valamint e törvény szerinti felnőttképzők által jogszerűen használt olyan oktatási, informatikai rendszer, amely a felnőttképzés adatszolgáltatási rendszerébe (a továbbiakban: FAR) elektronikusan – az adatok elektronikus feldolgozására alkalmas módon – teljesít adatszolgáltatásokat,
 - 11. távoktatás: az oktatásnak az a formája, amelynél a képzésben részt vevő személy a képzési idő több, mint felében egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a felnőttképző bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a képzésben részt vevő személy önállóan szerzett ismereteit pontosítják, illetve elmélyítik, a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti,
@@ -254,9 +254,13 @@ kell folytatnia,
 
 (2) A szakképzésről szóló törvény szerinti szakképző intézmény a szakképzésről szóló törvény szerinti szakmai oktatás keretében megszerzett ismeretekről, készségekről a szakképzésről szóló törvényben meghatározott módon, tartalommal és feltételek alapján mikrotanúsítványt állíthat ki.
 
-(3) A mikrotanúsítvány közokirat. E törvény alkalmazásában a mikrotanúsítvány elnevezéssel megegyező a „kredit igazolás” és a „micro-credentials” kifejezés.
+(2a) A felnőttképző a felnőttképzésért felelős miniszter rendeletében meghatározott tartalommal és feltételek alapján mikrotanúsítványt állíthat ki, a FAR-rendszeren keresztül, a szakképzésről szóló törvény szerinti szakmai képzés keretében elsajátított tanulási eredmény igazolására, amennyiben a mikrotanúsítvány kiadásának alapjául szolgáló képzési tartalom oktatására a szakképzésről szóló törvény szerinti szakképzési tankönyv felhasználásával kerül sor oly módon, hogy a felnőttképző a szakképzési tankönyv teljes ismeretanyagának megfelelő elsajátításáról dokumentáltan meggyőződik. Amennyiben a felnőttképző mikrotanúsítványt kíván kiállítani, a kiállítás alapjául szolgáló képzésről a 15. § szerinti adatszolgáltatást kell teljesítenie a FAR-rendszerben. A felnőttképző által kiállításra kerülő mikrotanúsítványra a (3) és (4) bekezdés rendelkezéseit nem lehet alkalmazni.
 
-(4) A mikrotanúsítványt a kiállítója által használt tanulmányi rendszerben elektronikusan kell kiállítani, tárolni és a FAR-ba – az adatok elektronikus feldolgozására alkalmas módon – elektronikusan feltölteni, továbbá a mikrotanúsítvány kiállítója által elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.
+(2b) A (2a) bekezdés szerinti mikrotanúsítványt a felnőttképző a FAR-rendszerben állítja ki és elektronikus formában tárolja oly módon, hogy a mikrotanúsítványt a FAR-rendszer üzemeltetője elektronikus aláírással és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A mikrotanúsítványt a felnőttképző a képzésben részt vevő személy részére a FAR-rendszeren keresztül elektronikus úton továbbítja.
+
+(3) Az (1) és (2) bekezdés szerinti mikrotanúsítvány közokirat. E törvény alkalmazásában a mikrotanúsítvány elnevezéssel megegyező a „kredit igazolás” és a „micro-credentials” kifejezés.
+
+(4) Az (1) és (2) bekezdés szerinti mikrotanúsítványt a kiállítója által használt tanulmányi rendszerben elektronikusan kell kiállítani, tárolni és a FAR-ba – az adatok elektronikus feldolgozására alkalmas módon – elektronikusan feltölteni, továbbá a mikrotanúsítvány kiállítója által elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.
 
 #### 8. Minőségirányítási rendszer
 
@@ -271,7 +275,7 @@ kell folytatnia,
 - a) az oktatás, képzés megnevezésére, jellegére, helyére, óraszámára, első képzési napjára és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontjára,
 - b) a képzésben részt vevő személyek természetes személyazonosító adataira, elektronikus levelezési címére, valamint legmagasabb iskolai végzettségére,
 - c) a képzési díjra és annak költségviselőjére
-- d) a zárt rendszerű elektronikus távoktatás keretében megvalósuló, valamint a belső képzés kivételével az oktatás, képzés képzési csoport szerinti haladásának napokra, időpontokra és helyszínekre bontott, óraszám szerinti ütemezésére, valamint befejezésének tervezett időpontjára azon oktatás, képzés esetében
+- d) a zárt rendszerű elektronikus távoktatás keretében megvalósuló, a belső képzés, valamint a jogszabály alapján szervezett képzés kivételével az oktatás, képzés képzési csoport szerinti haladásának napokra, időpontokra és helyszínekre bontott, óraszám szerinti ütemezésére azon oktatás, képzés esetében
   - da) amely részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból valósul meg, vagy
   - db) amelynek esetében a képzési hitelt nyújtó szerv legalább egy képzésben résztvevővel szerződést kötött
 
@@ -439,7 +443,7 @@ kapcsolatosak.
 - a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
 - b) felnőttképzési tevékenység keretében szervezett képzésre,
 - c) a felnőttképzők technikai feltételei fejlesztésére
-- d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre és.
+- d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
 
 24. § A képzésben részt vevő személy az általa megkötött felnőttképzési szerződéshez kapcsolódóan a Kormány rendeletében meghatározottak szerint
 
@@ -551,6 +555,8 @@ rendeletben jelölje ki.
 
 - a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
 - b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,
+- c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
+- d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a mikrotanúsítvány felnőttképző kiállító által a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 

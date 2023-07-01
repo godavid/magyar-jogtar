@@ -772,9 +772,11 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 #### 237. §
 
-#### 141.
+#### 141. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény eltérő szöveggel történő hatálybaléptetése
 
-#### 238. §
+238. § (1)
+
+(2)
 
 #### 142. A Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzettséget és tudományos fokozatokat tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2021. évi CIX. törvény módosítása
 
@@ -798,7 +800,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 244. § A határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény 1. alcíme, 9. §-a, 10. §-a, 5. alcíme, 21–24. §-a, 7. alcíme, 28. §-a, 30. §-a és 11. alcíme 2024. január 1-jén lép hatályba.
 
-#### 147.
+#### 147. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény eltérő szöveggel történő hatálybalépése
 
 #### 245. §
 

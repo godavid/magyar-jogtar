@@ -78,6 +78,16 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 (6) Az 1. mellékletben meghatározott ingatlan, ingatlan tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
+4/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló, Győr belterület 3899/4, Vitnyéd belterület 0325/5 és 0325/8 helyrajzi számú állami tulajdonban álló ingatlanokat az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok elősegítése érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+
+(2) Az (1) bekezdés szerinti ingatlan tulajdonjogát az Alapítvány terhekkel és kötelezettségekkel együtt szerzi meg.
+
+(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+
+4/B. § (1) A 4/A. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg az Egyetemmel.
+
+(2) A 4/A. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
 5. § (1) A 4. § és 4/A. § alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
 (2) Az Egyetem a tulajdonába adott ingatlant, – a 4. §-ban és 4/A. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
@@ -173,6 +183,9 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 | 60. | GYŐR | 8509/1 | 1/1 | Kivett beépítetlen terület |
 | 61. | GYŐR | 10140/3 | 1/1 | kivett beépítetlen terület |
 | 62. | RAJKA | 0241/5 | 1/1 | kivett egyéb épület és udvar |
+| 63 | GYŐR | 3899/4 | 1/1 | kivett kórház |
+| 64 | VITNYÉD | 0325/5 | 1/1 | kivett gazdasági épület, udvar |
+| 65 | VITNYÉD | 0325/8 | 1/1 | kivett gazdasági épület, udvar |
 
 ### 2. melléklet a 2020. évi XXXVIII. törvényhez
 

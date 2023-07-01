@@ -4,209 +4,230 @@ egyes energetikai és közszolgáltatási tárgyú törvények módosításáró
 
 #### 1. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
 #### 2. Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 3. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
 #### 4. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
 #### 5. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-- a)
-- b)
-- c)
+a)
+
+b)
+
+c)
 
 #### 6. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
 #### 7. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-62. §
+#### 62. §
 
 #### 8. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
 #### 9. A közművezetékek adójáról szóló 2012. évi CLXVIII. törvény módosítása
 
-70. §
+#### 70. §
 
 #### 10. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
-76. §
+#### 76. §
 
 77. § (1)
 
-(2)
+(2) A Ht.
+
+- a) 43. § (1) bekezdésében a „közszolgáltatás” szövegrész helyébe a „közszolgáltatási résztevékenység” szöveg, a „Koordináló szerv tulajdonába és a közszolgáltató birtokába” szövegrész helyébe a „koncessziós társaság tulajdonába és a koncessziós társaság vagy a koncesszori alvállalkozó birtokába” szöveg,
+- b) 43. § (2) bekezdésében a „Koordináló szerv tulajdonát képezi és egyben a közszolgáltató birtokába” szövegrész helyébe a „koncessziós társaság tulajdonába és a koncessziós társaság vagy a koncesszori alvállalkozó birtokába” szöveg,
+- c) 91. § (5a) bekezdésében az „a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani” szövegrész helyébe a „továbbítani kell” szöveg
+
+lép.
 
 78. § (1)
 
-(2)
+(2) Hatályát veszti a Ht. 88. § (4) bekezdés a) pontja.
 
 #### 11. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
-79. §
+#### 79. §
 
 #### 12. A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény módosítása
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
 #### 13. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-#### 14.
+#### 14. Az egyes energetikai és hulladékgazdálkodási tárgyú jogszabályok módosításáról szóló
 
-85. §
+2021. évi II. törvény módosítása
+
+85. § (1) Az egyes energetikai és hulladékgazdálkodási tárgyú jogszabályok módosításáról szóló 2021. évi II. törvény (a továbbiakban: Ehtv.)
+
+- a)
+- b) 90. § (2) bekezdés 2. pontja az „53. § (2) bekezdés nyitó szövegrészében és (3)–(5) bekezdésében” szövegrész helyett az „53. § (2) bekezdés nyitó szövegrészében, (3) és (4) bekezdésében” szöveggel,
+- c) 90. § (2) bekezdés 18. pontja a „32/A. §-ban” szövegrész helyett az „32/A. § (4e) bekezdésében” szöveggel
+
+lép hatályba.
+
+(2) Nem lép hatályba az Ehtv.
+
+- a) 90. § (2) bekezdés 15. pontja,
+- b)
 
 #### 15. Záró rendelkezések
 
@@ -228,6 +249,8 @@ egyes energetikai és közszolgáltatási tárgyú törvények módosításáró
 
 (3) A 67. § a víz újrafelhasználásra vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(4) A 10. alcím az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i(EU) 2019/904 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(4) A 10. alcím az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i
+
+(EU) 2019/904 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (5) A 72. § és a 75. § (3) bekezdése a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

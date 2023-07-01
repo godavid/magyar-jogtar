@@ -1103,7 +1103,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (7) A közös háztartásban élő gyermek jogán – választásuk szerint – a szülők valamelyike gyermekápolási táppénzre szerezhet jogosultságot.
 
-39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszonyban személyi jövedelemadó-előleg (a továbbiakban: adóelőleg) megállapításához bevallott jövedelmet kell figyelembe venni.
+39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján kizárólag ugyanannál a foglalkoztatónál fennálló biztosítási jogviszonyban személyi jövedelemadó-előleg (a továbbiakban: adóelőleg) megállapításához bevallott jövedelmet kell figyelembe venni.
 
 (2) Az (1) bekezdés szerinti ellátások alapjának megállapításánál a jogosultság kezdőnapjának hónapjára járó, szerződés szerinti jövedelmet kell figyelembe venni, ha a tényleges jövedelem 30 naptári napnál kevesebb.
 
@@ -1279,7 +1279,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
   - ae) magyar állampolgár vagy másik EGT tagállam állampolgára, és
   - af) a gyermek születésének napján rendelkezik magyarországi bejelentett lakóhellyel; vagy
 - b) akinek
-  - ba) gyermeke az a) pont alapján megállapított gyermekgondozási díj igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és
+  - ba) gyermeke az e bekezdés alapján megállapított gyermekgondozási díj igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és
   - bb) tekintetében az a) pont aa) és ad)–af) alpontjában meghatározottak fennállnak.
 
 (2) Az (1) bekezdés alapján megállapított gyermekgondozási díj a gyermek születésének napjától a gyermek 2 éves koráig jár.
@@ -1293,14 +1293,14 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (4a) A gyermek születését követő 169. napot megelőzően nem jár gyermekgondozási díj az (1) és (3) bekezdés alapján jogosult részére arra az időszakra, amikor bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
 
-(5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
+(5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj naptári napi összege
 
 - a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes minimálbér,
 - b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes garantált bérminimum
 
-70 százaléka.
+70 százalékának harmincad része.
 
-(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a gyermek születésének napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
+(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a gyermek születésének napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb minimálbér kétszerese 70 százalékának harmincad részénél.
 
 (7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított a számítási időszakban nem rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás naptári napi alapját a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része alapján kell megállapítani azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni. Az így megállapított gyermekgondozási díj összege nem lehet alacsonyabb az (5) bekezdésben meghatározott összegnél.
 
@@ -1400,15 +1400,15 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (6) A (3a) és a (4) bekezdés szerint kiadott orvosszakértői vélemény alapján a háziorvos igazolja a keresőképtelenséget.
 
-46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
+46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a táppénzre való jogosultság első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
 - a) de legfeljebb egy éven át;
 - b) egyévesnél fiatalabb gyermek szoptatása, illetve otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén a gyermek egyéves koráig;
-- c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek nyolcvannégy naptári napon át;
-- d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek negyvenkettő, egyedülálló szülőnek nyolcvannégy naptári napon át;
-- e) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek tizennégy, egyedülálló szülőnek huszonnyolc naptári napon át.
+- c) egyéves vagy annál idősebb, de háromévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek nyolcvannégy, egyedülálló szülőnek százhatvannyolc naptári napon át;
+- d) hároméves vagy annál idősebb, de hatévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek negyvenkettő, egyedülálló szülőnek nyolcvannégy naptári napon át;
+- e) hatéves vagy annál idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek tizennégy, egyedülálló szülőnek huszonnyolc naptári napon át.
 
-(1a) Ha a biztosított szülő a gyermek ápolása címén igényel táppénzt, előzményként a gyermek előző születésnapjától a gyermek következő születésnapjáig eltöltött táppénzes napokat kell figyelembe venni.
+(1a) Ha a biztosított szülő a gyermek ápolása címén igényel táppénzt, előzményként a gyermek előző születésnapjától a gyermek következő születésnapját megelőző napig eltöltött táppénzes napokat kell figyelembe venni.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a biztosított, ha részére külön törvény rendelkezése szerint betegszabadság jár, a 44. § a) és f) pontjában említett keresőképtelenség esetében táppénzre legkorábban a betegszabadságra való jogosultság lejártát követő naptól jogosult.
 
@@ -1433,8 +1433,8 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (2) Nem jár táppénz
 
-- a) a keresőképtelenségnek arra az időtartamára, amely alatt a biztosítás szünetel, munkavégzési kötelezettség hiányában keresetveszteség nincs, továbbá a betegszabadság lejártát követő szabadnapra és heti pihenőnapra, ha az azt követő munkanapon (munkaszüneti napon) a keresőképtelenség már nem áll fenn,
-- b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes keresetét megkapja, illetve, ha a keresetét részben kapja meg, a részben megkapott kereset után,
+- a) a betegszabadság lejártát követő szabadnapra , heti pihenőnapra és munkaszüneti napra, ha az ezen napokat követő első munkanapon a keresőképtelenség már nem áll fenn,
+- b) a táppénzre való jogosultság első napjának azon részére, amely alatt a biztosított keresőtevékenységet folytatott,
 - c) a gyermekgondozást segítő ellátás folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
 - d) a letartóztatás és a szabadságvesztés tartamára,
 - e) a saját jogú nyugdíj folyósításának időtartamára.
@@ -1444,7 +1444,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (4)
 
-48. § (1) Ha a biztosítási idő a táppénzre való jogosultság kezdő napját megelőzően a 48/A. § (1) bekezdése szerint folyamatos, a táppénz alapját a táppénzre jogosultság kezdőnapját közvetlenül megelőző naptári év első napjától a jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjáig terjedő időszakban az időszak utolsó napjához időben legközelebb eső 180 naptári napra jutó jövedelem alapján kell megállapítani. A folyamatos biztosítási idő megszakítása esetén a táppénz alapjaként a megszakítást megelőző jövedelmet nem lehet figyelembe venni.
+48. § (1) Ha a biztosítási idő a táppénzre való jogosultság kezdő napját megelőzően a 48/A. § (2) bekezdése szerint folyamatos, a táppénz alapját a táppénzre jogosultság kezdőnapját közvetlenül megelőző naptári év első napjától a jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjáig terjedő időszakban az időszak utolsó napjához időben legközelebb eső 180 naptári napra jutó jövedelem alapján kell megállapítani. A folyamatos biztosítási idő megszakítása esetén a táppénz alapjaként a megszakítást megelőző jövedelmet nem lehet figyelembe venni.
 
 (2) Ha a biztosított az (1) bekezdésben meghatározott időszakban nem rendelkezik 180 naptári napi jövedelemmel, azonban az (1) bekezdés szerinti időszak utolsó napjához időben legközelebb eső időszakban rendelkezik legalább 120 naptári napi jövedelemmel, és van legalább a táppénzre való jogosultság kezdő napjától 180 napnyi – a 48/A. § (2) bekezdése szerinti – folyamatos biztosítási jogviszonya, akkor a táppénz naptári napi alapját a 120 napi tényleges jövedelem alapján kell megállapítani.
 
@@ -1470,12 +1470,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (2) A 48. § (2)–(4) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 6. §-ában meghatározott biztosításban töltött napokat lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
 
-49. § (1) A gyermeknevelési támogatás, az ápolási díj, a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék vagy az átmeneti bányászjáradék mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
-
-- a) a táppénzfolyósítás időtartamának megállapításánál biztosítási időként csak a gyermeknevelési támogatás, az ápolási díj, a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék vagy az átmeneti bányászjáradék folyósításának időtartama alatt biztosítási jogviszonyban töltött napokat lehet figyelembe venni,
-- b) a táppénz összegének megállapításánál a biztosítási jogviszonynak az a) pontban meghatározott időtartama alatt a 39/A. § (1) bekezdés szerint elért, biztosítási jogviszonyból származó jövedelmet kell figyelembe venni a 48. §-ban foglaltak szerint.
-
-(2)
+#### 49. §
 
 ### Méltányosságból igénybe vehető pénzbeli ellátások
 
@@ -1646,11 +1641,11 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (4) Ha a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, és ezért az egészségbiztosítás ellátásai közül a pénzbeli ellátás vagy a baleseti táppénz összege magasabb összegben kerül megállapításra, úgy a különbözet kiutalására akkor kerülhet sor, ha az meghaladja az ezer forintot.
 
-(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az egészségbiztosító honlapján közzétett számítógépes program segítségével töltheti ki és az egészségbiztosítási szervnél történt regisztrációt követően, kizárólagosan elektronikus azonosítását követően elektronikus úton nyújthatja be.
+(5) A kifizetőhellyel nem rendelkező foglalkoztató, az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti személy a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz és a méltányosságból igénybe vehető pénzbeli ellátás iránti kérelmet kizárólag az egészségbiztosító által erre a célra rendszeresített, a Kormány rendeletében meghatározott egységes, személyre szabott ügyintézési felületen (a továbbiakban: személyre szabott ügyintézési felület) közzétett űrlap alkalmazásával, kizárólagosan az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus úton (a továbbiakban: elektronikus út) nyújthatja be.
 
-(5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
+(5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmek benyújtása, továbbá a kifizetőhely feladatellátása során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján, illetve a személyre szabott ügyintézési felületen közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 
-(5b) Az igénylő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet az egészségbiztosító által rendszeresített és az egészségbiztosító honlapján közzétett nyomtatványon nyújthatja be.
+(5b) A gyermek születésének napján nem biztosított szülő nő és vér szerinti apa a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet, továbbá a biztosított az utazási költségtérítési támogatás és az egyszeri segély iránti kérelmet az egészségbiztosító által erre a célra rendszeresített és a személyre szabott ügyintézési felületen közzétett nyomtatványon is benyújthatja.
 
 (6) Az Ákr. 40. §-ában meghatározott feltételek fennállása esetén az elektronikus úton benyújtott utazási költségtérítési támogatás iránti kérelmet az egészségbiztosító automatikus döntéshozatali eljárásban bírálja el.
 
@@ -1662,21 +1657,30 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (10) A jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőre emelkedése napjától számított egy éven belül.
 
-(11)
+(11) Az 1 és 2 forintos címletű érmék bevonása következtében szükséges kerekítés szabályairól a társadalombiztosítási és szociális ellátások megállapítása során, továbbá a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosításáról szóló 2008. évi IV. törvény (a továbbiakban: kerekítési törvény) szerinti kerekítési szabályokat az egészségbiztosítási pénzbeli ellátás, a baleseti táppénz, az utazási költségtérítési támogatás, a méltányosságból igénybe vehető pénzbeli ellátás és az 50. § (5) bekezdése szerinti segély iránti kérelmek elbírálásakor kizárólag a folyósítás során kell alkalmazni olyan módon, hogy a kerekítést az adott időszakra vonatkozóan folyósítandó ellátás bruttó összegére és az ellátásból teljesített levonás után fennmaradó összegre vonatkozóan is végre kell hajtani. Az ellátások megállapítása és összegük módosítása során a naptári napi alapot, illetve összeget a kerekítési törvény szerinti kerekítési szabályokra tekintet nélkül, két tizedesjegy pontossággal kell meghatározni.
+
+(12) Az egészségbiztosítási szerv a pénzbeli egészségbiztosítási ellátás összegének a 42/D. § (4), (9) és (11) bekezdése és 42/E. § (9) bekezdése szerinti felülvizsgálatáról szóló tájékoztatását az ellátásban részesülő személy (a továbbiakban: ellátott) részére – amennyiben az ellátott biztonságos kézbesítési szolgáltatási címmel rendelkezik – az Eüsztv. szerinti elektronikus úton kézbesíti. Az elektronikus dokumentum kézbesítésére az Eüsztv. 14. §-ában és 15. § (2) és (3) bekezdésében foglalt rendelkezéseket alkalmazni kell azzal, hogy az Eüsztv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon. Biztonságos kézbesítési szolgáltatási címmel nem rendelkező ellátott részére a tájékoztatás postai úton is kézbesíthető. A tájékoztatáshoz – annak kézbesítési módjától függetlenül – joghatás nem kapcsolódik.
+
+(13) Az egészségbiztosítási szerv a tárgyév december 1. napján csecsemőgondozási díjban, örökbefogadói díjban vagy gyermekgondozási díjban részesülő ellátottat a tárgyév december 15. napjáig elektronikus úton tájékoztatja az adóelőleg-nyilatkozat lehetőségéről és annak következményeiről a tárgyévet követő év vonatkozásában. Az elektronikus dokumentum kézbesítésére az Eüsztv. 14. §-ában és 15. § (2) és (3) bekezdésében foglalt rendelkezéseket alkalmazni kell azzal, hogy az Eüsztv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon. Biztonságos kézbesítési szolgáltatási címmel nem rendelkező ellátott részére a tájékoztatás postai úton is kézbesíthető. A tájékoztatáshoz – annak kézbesítési módjától függetlenül – joghatás nem kapcsolódik.
+
+(14) Az egészségbiztosítási szerv az általa kifizetett pénzbeli egészségbiztosítási ellátás, baleseti táppénz és méltányosságból igénybe vehető pénzbeli ellátás teljes összegéről, a kifizetett összegről és a levont adóelőlegről a naptári évet követő január 31. napjáig az igazolást elektronikus úton küldi meg. Az elektronikus dokumentum kézbesítésére az Eüsztv. 14. §-ában és 15. § (2) és (3) bekezdésében foglalt rendelkezéseket alkalmazni kell azzal, hogy az Eüsztv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon. Biztonságos kézbesítési szolgáltatási címmel nem rendelkező ellátott részére a tájékoztatás postai úton is kézbesíthető. A tájékoztatáshoz – annak kézbesítési módjától függetlenül – joghatás nem kapcsolódik.
 
 ### Betegség és anyaság esetére járó
 
 pénzbeli ellátások iránti igény
 
-62. § (1) A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz iránti kérelmet a biztosítottnak a Tbj. 4. § 4. pontja szerinti foglalkoztatónál kell előterjeszteni.
+62. § (1) A pénzbeli egészségbiztosítási ellátás és a baleseti táppénz iránti kérelmet – az (1a) bekezdésben foglalt kivételekkel – a biztosítottnak a Tbj. 4. § 4. pontja szerinti foglalkoztatójánál kell előterjeszteni. E szerint kell a kérelmet benyújtani akkor is, ha a volt biztosított a megszűnt jogviszonyából kíván ellátást igényelni.
 
-(1a) A vér szerinti apa, valamint a gyermek születésének napján nem biztosított szülő nő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet a lakóhelye szerint illetékes egészségbiztosítóhoz nyújthatja be.
+(1a) Az egyéni vállalkozónak, a mezőgazdasági őstermelőnek és a Tbj. 87. § (3) bekezdése szerinti természetes személynek a pénzbeli egészségbiztosítási ellátás és a baleseti táppénz iránti kérelmet, továbbá a gyermek születésének napján nem biztosított szülő nőnek és vér szerinti apának a 42/E. § szerinti gyermekgondozási díj megállapítása iránti kérelmet az egészségbiztosítóhoz kell benyújtania.
 
-(2) A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj – ide nem értve a 42/G. § szerint a nagyszülő részére történő megállapítás iránt benyújtott kérelmet – és a táppénz iránti kérelmet
+(1b) A kérelemnek az (1a) bekezdés szerinti előterjesztése során az eljárást kezdeményező természetes személy ügyfél ügyintézési rendelkezést tesz, amelyben nyilatkozik arról, hogy vállalja-e az Eüsztv. 14. §-a szerinti követelmények teljesítését. Elektronikus úton történő kapcsolattartás választása esetén az egészségbiztosítási szerv az eljárás során keletkező döntéseit, iratait, nyilatkozatait az Eüsztv. 15. § (2) bekezdése szerint kézbesíti.
+
+(1c) Az (1b) bekezdést az (1) bekezdés szerinti kérelem előterjesztése során akkor kell alkalmazni, ha a foglalkoztató kifizetőhellyel nem rendelkezik.
+
+(2) A csecsemőgondozási díj, az örökbefogadói díj, – a (2d) és (2e) bekezdés kivételével – a gyermekgondozási díj és a táppénz iránti kérelmet
 
 - a) a kifizetőhellyel rendelkező munkáltató esetében a kifizetőhely,
-- b)
-- c) egyéb esetben a munkáltató székhelye szerint illetékes egészségbiztosító
+- b) egyéb esetben a munkáltató székhelye szerint illetékes egészségbiztosító
 
 bírálja el.
 
@@ -1693,9 +1697,11 @@ folyósítja.
 
 (2d) A gyermekgondozási díjnak a 42/G. § szerint a nagyszülő részére történő megállapítása iránt benyújtott kérelmet a nagyszülő munkáltatójának székhelye szerint illetékes egészségbiztosító bírálja el.
 
-(3) Ha a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, illetve a baleseti táppénz folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról a (2c) bekezdés a) vagy b) pontja szerinti szerv gondoskodik. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, a (2c) bekezdés a) vagy b) pontja szerinti szerv folyósítja a már megállapított ellátást.
+(2e) A gyermekgondozási díjnak a 42/E. § szerint a vér szerinti apa részére történő megállapítása iránt benyújtott kérelmet, ha a vér szerinti apa a gyermek születése napján biztosított, a munkáltatójának a székhelye szerint, egyéb esetben a lakóhelye (tartózkodási helye) szerint illetékes egészségbiztosító bírálja el. A gyermekgondozási díjnak a 42/E. § szerint a szülő nő részére történő megállapítása iránti benyújtott kérelmet, ha a szülő nő a gyermek születése napján nem biztosított, a lakóhelye (tartózkodási helye) szerint illetékes egészségbiztosító bírálja el.
 
-(4)
+(3) Ha a csecsemőgondozási díj, az örökbefogadói díj, illetve a gyermekgondozási díj folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról ugyanazon szerv gondoskodik, amely a folyósításra a biztosítási jogviszony megszűnéséig is hatáskörrel rendelkezett. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, az új foglalkoztató szerinti – a (2c) bekezdés a) vagy b) pontja szerint meghatározott – szerv folyósítja a már megállapított ellátást.
+
+(4) A biztosítási jogviszony megszűnését követően a baleseti táppénzt ugyanazon szerv folyósítja tovább, amely a folyósításra a biztosítási jogviszony megszűnéséig is hatáskörrel rendelkezett. Ha a baleseti táppénznek a biztosítási jogviszony megszűnését követő folyósítása alatt az ellátásban részesülő újabb biztosítási jogviszonyt létesít, az újabb biztosítási jogviszony kezdetét megelőző nappal a (2) bekezdés a) vagy b) pontja szerinti szerv az ellátás folyósítását megszünteti. A keresőképtelenség folyamatos fennállása esetén a biztosított – az újabb biztosítási jogviszonya alapján benyújtott kérelme alapján – az 55. § (1b) bekezdése alkalmazásával válhat jogosulttá ismételten baleseti táppénzre.
 
 (5)
 
@@ -1886,6 +1892,51 @@ kell érteni.
 - b) azon gyermek TAJ száma, aki után az ellátás igénybevételére sor kerül vagy került, és
 - c) az ellátás folyósításának kezdete és vége.
 
+79/B. § (1) Az egészségbiztosító a megállapított, illetve folyósított pénzbeli egészségbiztosítási ellátásokról, a baleseti táppénzről, az utazási költségtérítési támogatásról, a méltányosságból engedélyezett pénzbeli ellátásokról és az egyszeri segélyről a hatáskörébe tartozó ellenőrzési feladatok hatékony ellátása, a társadalombiztosítási kifizetőhelyek E. Alappal szembeni elszámolásának biztosítása, statisztikai adatszolgáltatások előállítása és teljesítése, más szervek részére adatszolgáltatás teljesítése, továbbá jogszabályban meghatározott egyéb feladat ellátása érdekében nyilvántartást vezet.
+
+(2) Az (1) bekezdésben meghatározott célra az egészségbiztosító nyilvántartást vezet az ellátott
+
+- 1. természetes személyazonosító adataira és TAJ-számára,
+- 2. családi állapotára és az ellátás szempontjából releváns hozzátartozói kapcsolatára,
+- 3. lakóhelyére és tartózkodási helyére,
+- 4. levelezési címére, folyósítási címére, szállása címére,
+- 5. bankszámlaszámára,
+- 6. biztosítási idejére,
+- 7. foglalkoztatójára, foglalkozására, munkakörére, tevékenységére,
+- 8. tanulmányi idejére,
+- 9. más rendszeres pénzellátásban való részesülése tényére és időtartamára,
+- 10. jövedelmeire,
+- 11. részére megállapított, illetve folyósított egészségbiztosítási ellátás jogcímére, az ellátásra való jogosultság és a folyósítás időtartamára, az ellátás összegére,
+- 12. keresőképtelenségére, keresőképtelenségének jogcímére,
+- 13. balesetével összefüggő körülményekre,
+- 14. részére folyósított ellátás melletti keresőtevékenység végzésének tényére,
+- 15. ellátásának megállapításához szükséges egészségügyi adatokra,
+- 16. ellátás iránti kérelmének az elbírálása során figyelembe vett gyermekre
+
+vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes adatról vagy jogszabályban előírt egyéb adatról, amely az ellátás iránti kérelem elbírálása, az ellátás megállapítása, illetve folyósítása szempontjából jelentőséggel bír.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés 11. pontja szerinti adatok tekintetében közhiteles nyilvántartásnak minősül.
+
+(4) Az (1) bekezdés szerinti nyilvántartás vezetése céljából a kifizetőhellyel rendelkező foglalkoztató minden hónap 20. napjáig, kizárólagosan elektronikus úton a (7) bekezdés szerinti adatszolgáltatást köteles teljesíteni. Adatszolgáltatást akkor is teljesíteni kell, ha a tárgyhónapban nem került sor pénzbeli egészségbiztosítási ellátás, illetve baleseti táppénz folyósítására.
+
+(5) A (4) bekezdés szerinti adatszolgáltatást a kifizetőhellyel rendelkező foglalkoztató kizárólag az egészségbiztosító által erre a célra rendszeresített – a személyre szabott ügyintézési felületen közzétett – nyomtatvány alkalmazásával küldheti meg az egészségbiztosító részére.
+
+(6) Ha a (4) bekezdés szerinti adatszolgáltatás teljesítését követően megállapításra kerül, hogy a biztosított ellátás iránti kérelmét a kifizetőhely tévesen utasította el, az ellátás összegét tévesen állapította meg, vagy az ellátást tévesen folyósította, az adatszolgáltatásban emiatt tévesen közölt adatokat a téves adatközlést követően benyújtott havi adatszolgáltatásban köteles módosítani.
+
+(7) A (4) bekezdés szerinti adatszolgáltatáson a kifizetőhellyel rendelkező foglalkoztató feltünteti
+
+- a) a foglalkoztató nevét, adószámát, székhelyét,
+- b) az adatszolgáltatás hónapját,
+- c) az általa folyósított ellátások tárgyhavi összesített elszámolására vonatkozó adatokat,
+- d) ellátottanként az ellátásban részesülő személyekre, szükség szerint a gyermekekre, valamint a folyósított ellátásokra vonatkozó jogszabály szerinti adatokat,
+- e) ellátottanként a pénzbeli egészségbiztosítási, illetve a családtámogatási ellátások közötti választási szabályok alkalmazására tekintettel felmerült beszámításra vagy levonásra vonatkozó adatokat,
+- f) ellátottanként a korábban már elszámolt ellátásokkal összefüggésben a tárgyhónapban bekövetkezett változásokra vonatkozó, jogszabály szerinti adatokat,
+- g) tárgyhónapra összesítve a korábban már elszámolt ellátásokkal összefüggésben utólagosan, a tárgyhónapban teljesített kifizetésekkel, illetve a biztosított által visszafizetett jogalap nélküli ellátásokkal kapcsolatos, az egészségbiztosító által a kifizetőhellyel szemben hozott fizetési meghagyásban szereplő, valamint az állami adóhatóságtól visszaigénylendő közterhekkel kapcsolatos adatokat.
+
+(8) A (4)–(7) bekezdéstől eltérően a polgári nemzetbiztonsági szolgálatok az egészségbiztosító részére az általuk megállapított és folyósított pénzbeli egészségbiztosítási ellátásokról és baleseti táppénzről kizárólag összesített elszámolási adatokra vonatkozó adatszolgáltatást teljesítenek. Az adatszolgáltatást a polgári nemzetbiztonsági szolgálatok papíralapon, minden hónap 20. napjáig kötelesek teljesíteni.
+
+(9) Az (1) bekezdés szerinti nyilvántartásba felvett adatok igénylésére alkalmazni kell a 79. § (3)–(6) bekezdését.
+
 80. § (1) A foglalkoztatók, az egyéni vállalkozók és egyéb szervek az egészségbiztosítás pénzbeli és baleseti ellátásainak megállapításához szükséges nyilvántartások vezetésére, valamint adatok bejelentésére kötelezhetők. A foglalkoztatók és egyéb szervek nem kezelhetnek egészségügyi adatot. A nyilvántartások vezetése, illetve az adatszolgáltatás az egészségbiztosító által meghatározott esetben és módon elektronikus adathordozón is teljesíthető. A foglalkoztató e törvényben előírt adatszolgáltatási és nyilvántartási kötelezettségeit a felszámolás és a végelszámolás kezdő időpontjától a felszámoló, illetve a végelszámoló teljesíti.
 
 (2) Az egészségbiztosító felhívására a társadalombiztosítási feladatok ellátásához szükséges adatokat tizenöt napon belül kell közölni.
@@ -2049,6 +2100,14 @@ foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pont
 (2) A biztosított az utazási költségeihez nyújtott támogatásra való jogosultságát 2022. július 1-jéig a beutaló orvos által, vagy ha az ellátásra – azonnali ellátás szükségessége miatt – beutaló nélkül került sor, az ellátást nyújtó egészségügyi szolgáltató orvosa által kiállított igazolással igazolja.
 
 (3) E törvénynek a Magyarország 2022. évi központi költségvetésének megalapozásáról szóló 2021. évi LXXXIX. törvénnyel megállapított 61. § (6) bekezdését 2022. július 1-jéig nem kell alkalmazni.
+
+82/T. § A kifizetőhellyel nem rendelkező foglalkoztató, az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti személy 2023. december 31. napjáig a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz és a baleseti táppénz iránti kérelmet elektronikus úton a 61. § (5) bekezdésének 2023. június 30. napján hatályos rendelkezése alapján is benyújthatja, ha 2023. június 30-ig az illetékes kormányhivatalnál kezdeményezte a regisztrációját.
+
+82/U. § A 79/B. § (4)–(8) bekezdése szerinti adatszolgáltatást a kifizetőhellyel rendelkező foglalkoztató első alkalommal – a 2023. július hónapban folyósított ellátásokra vonatkozóan – 2023. augusztus 20. napjáig köteles teljesíteni.
+
+82/V. § Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvény által megállapított 39/A. § (1) bekezdését, 42/E. § (5) és (6) bekezdését, 61. § (5)–(5b) bekezdését és 62. § (1b)–(1c), (4) bekezdését a 2023. június 30-át követően benyújtott kérelmek elbírálása során kell alkalmazni.
+
+82/W. § Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvény által megállapított, illetve módosított 46. § (1)–(1a) bekezdését, 47. § (2) bekezdését, 48. § (1) bekezdését, 61. § (11)–(14) bekezdését és 62. § (1)–(1a), (2), (2e)–(3) bekezdését a 2023. július 1-jén folyamatban lévő eljárásokban, illetve 2023. július 1-jén folyósított ellátások esetében is alkalmazni kell.
 
 ### Záró rendelkezések
 

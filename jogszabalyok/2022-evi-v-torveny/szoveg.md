@@ -476,7 +476,7 @@ rendelkezésre állása biztosítandó.
 
 (5) E törvény hatálybalépésének naptári napját a miniszterelnök annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-119. § (1) Az 5. alcím az (EU) 2021/953 európai parlamenti és tanácsi rendelet hatályvesztésének napján hatályát veszti.
+119. § (1)
 
 (2) Az 5. alcím hatályvesztésének naptári napját az európai uniós ügyek koordinációjáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 

@@ -39,8 +39,11 @@ Az Országgyűlés a szőlő-bor ágazat átlátható és fenntartható működ�
 - 22. törzsültetvény: a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény 2. § 25. pontja szerinti fogalom;
 - 23. új telepítési engedély: az 1308/2013/EU európai parlamenti és tanácsi rendelet 64. cikke szerinti, szőlőültetvény telepítésére vonatkozó engedély;
 - 24. ültetvény használója:
-  - a) a szőlőültetvény földterülete tekintetében a földhasználati nyilvántartásba bejegyzett földhasználó, vagy
+  - a) a szőlőültetvény földterülete tekintetében a földhasználati nyilvántartásba bejegyzett földhasználó,
   - b) ahol jogszabály nem teszi lehetővé a földhasználó földhasználati nyilvántartásba való bejegyzését, a szőlőültetvény használatára jogosult természetes személy vagy gazdálkodó szervezet, ennek hiányában tulajdonosa;
+  - c) folyamatban lévő földhasználati nyilvántartási eljárás esetén az ültetvényhasználatot szerződéssel és nyilatkozattal igazoló természetes személy vagy gazdálkodó szervezet, ennek hiányában a tulajdonos,
+  - d) az a)–c) pontban meghatározott jogosult hiányában a folyamatban lévő hagyatéki eljárásban a hagyaték átadásának időpontjáig az ültevényhasználatot a hegybíró felé nyilatkozattal igazoló vélelmezett örökös, vagy
+  - e) az a)–d) pontban meghatározott jogosult hiányában a jegyző által kiállított és az adott ültetvény használatának tényét a hegybíró felé igazoló hatósági bizonyítvánnyal rendelkező személy.
 - 25. VINGIS: a szőlő termőhelyi kataszter, valamint a földrajzi árujelzők termékleírásban rögzített termőhelyeinek térképi megjelenítésére szolgáló térinformatikai rendszer.
 
 #### 2. Szőlőtermesztés
@@ -55,6 +58,8 @@ Az Országgyűlés a szőlő-bor ágazat átlátható és fenntartható működ�
 
 - a) a szőlő termőhelyi kataszterbe sorolt földterületen a csemegeszőlő-telepítést kivéve gyümölcsös, erdő vagy fásítás telepítéséhez, faiskola, halastó és nádas létesítéséhez, valamint a termőföld más célú hasznosításához,
 - b) a földterület szőlő termőhelyi kataszterből történő törléséhez.
+
+(4a) Ha a hegyközségi rendtartás másként nem rendelkezik, a hegyközség a földterület szőlő termőhelyi kataszterből történő törléséhez a (4) bekezdés b) pontja szerinti hozzájárulást megadja, ha az érintett földterületen és annak határától mért háromszáz méteres távolságon belül eső ingatlan területén a hegybíró a kataszterből történő törlésre irányuló kérelem benyújtásának időpontját megelőző tíz borpiaci évben termő szőlőültetvényt vagy hatályos üzemengedéllyel rendelkező borászati üzemet nem tartott nyilván.
 
 (5) A gazdasági aktában szőlőültetvényként nyilvántartott földterület határától számított ötven méteren belül új erdő vagy új fásítás telepítése nem végezhető, továbbá az ilyen földrészletnek a szőlő termőhelyi kataszterből való kivonása erdő vagy fásítás telepítése céljából nem engedélyezhető.
 
@@ -79,9 +84,15 @@ szükséges.
 
 (2) Az új telepítési engedély kiadására irányuló eljárásban az ügyintézési határidő 70 nap.
 
-(3) Az (1) bekezdés szerinti ültetvények telepítésének és kivágásának tényét az ültetvény használója – a munka befejezését követően haladéktalanul – bejelenti a hegybírónak. A bejelentését követő 120 napon belül a hegybíró ellenőrzi a telepítés vagy a kivágás megtörténtét.
+(3) Az (1) bekezdés szerinti ültetvények telepítésének vagy kivágásának tényét az ültetvény használója – a művelet befejezését követő 15 napon belül – bejelenti a hegybírónak. A bejelentést követő 240 napon belül a hegybíró ellenőrzi a telepítés vagy a kivágás megtörténtét.
 
 (4) Ha az új telepítések számára engedélyezhető terület nagyságát meghaladó mértékű területnagyságra érkezik be új telepítési engedély iránti kérelem, e törvény végrehajtására kiadott rendeletben foglaltak szerint a Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT) a kérelmek összesítését követően a kérelmekben szereplő területnagyságot arányosan visszaosztja, vagy e törvény végrehajtására kiadott miniszteri rendeletben foglalt elsőbbségi szempontok alapján rangsorolja a kérelmeket.
+
+(5) Osztatlan közös tulajdonban álló ingatlan esetén a szőlőtelepítéshez valamennyi tulajdonostárs hozzájáruló nyilatkozata szükséges. A kérelmezőnek a szőlőtelepítéshez szükséges hozzájáruló nyilatkozatot írásban, igazolt módon kell kérnie (a továbbiakban: hozzájáruló nyilatkozat iránti kérelem) a tulajdonostársaktól.
+
+(6) A hozzájáruló nyilatkozat iránti kérelmet kézbesítettnek kell tekinteni, ha a postai küldemény a második kézbesítést követően azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste”, „ismeretlen”, az „átvételt megtagadta”, „elköltözött” vagy a „kézbesítés akadályozott”.
+
+(7) A kézbesítettnek tekintett hozzájáruló nyilatkozat iránti kérelem esetén a telepítés helye szerint illetékes hegybíró a HNT-nél kezdeményezi a telepítéshez szükséges hozzájárulás megadására vonatkozó felhívás közzétételét. A HNT a telepítéshez szükséges hozzájárulás megadására vonatkozó felhívást a beérkezését követően haladéktalanul honlapján közzéteszi. A hozzájáruló nyilatkozatot megadottnak kell tekinteni, ha a tulajdonostársak a felhívásnak a HNT honlapján való közzétételétől számított 30. napig nem nyújtanak be kifogást a telepítés ellen.
 
 5. § (1) A szőlőültetvényt az ültetvény használója köteles rendeltetésének megfelelően művelni, a tulajdonos köteles a szőlőültetvény rendeltetésnek megfelelő művelését biztosítani.
 
@@ -89,7 +100,10 @@ szükséges.
 
 (3) Ha a (2) bekezdés szerinti figyelmeztetés ellenére sem az ültetvény használója, sem a szőlőültetvény tulajdonosa nem nyilatkozik a (2) bekezdésben meghatározott határidőn belül a szőlőültetvény rendeltetésszerű művelésével kapcsolatban, a hegybíró mulasztási bírság kiszabása mellett kötelezi a tulajdonost a szőlőültetvény kivágására. A rendeltetésszerű művelés elmulasztása miatt kiszabott bírság a szőlőültetvény fekvése szerinti hegyközség bevétele.
 
-(4) Ha a (2) bekezdés szerinti nyilatkozattételnek az ültetvény használója vagy a szőlőültetvény tulajdonosa eleget tesz, de a szőlőültetvény a figyelmeztetéstől számított négy hónap elteltével sem áll rendeltetésszerű művelés alatt, a hegybíró értesíti a növénytermesztési hatóságot, amely elrendeli a szőlőültetvény tulajdonos költségére történő kivágását.
+(4) A hegybíró értesíti a növénytermesztési hatóságot, amely elrendeli a szőlőültetvény tulajdonos költségére történő kivágását, ha
+
+- a) a (2) bekezdés szerinti nyilatkozattételnek az ültetvény használója vagy a szőlőültetvény tulajdonosa eleget tesz, vagy a tulajdonos bemutatja a szőlőültetvény megfelelő hasznosítását biztosító szerződést, de a szőlőültetvény a figyelmeztetéstől számított négy hónap elteltével sem áll rendeltetésszerű művelés alatt, valamint
+- b) a szőlőültetvény használója vagy tulajdonosa a (3) bekezdés szerinti kivágásra vonatkozó kötelezettségét nem teljesíti.
 
 6. § (1) Ha a szőlőtermést nem az ültetvény használója dolgozza fel, a szőlőtermés felvásárlásáról a felvásárló felvásárlási jegyet készít, amelyet megküld a hegybírónak. A felvásárlási jegy a felvásárlási okirat Áfa tv.-ben meghatározott adatain kívül tartalmazza
 
@@ -109,7 +123,7 @@ szükséges.
 
 (2) Az (1) bekezdéstől eltérően a borászati hatóság engedélyével borászati termék borászati üzem területén kívül is kiszerelhető.
 
-(3) Nem kiszerelt, valamint kiszerelt, de forgalombahozatali azonosítóval nem rendelkező borászati termék – e törvény végrehajtására kiadott miniszteri rendeletben meghatározott borászati termék kivételével – kizárólag borászati üzemben tárolható.
+(3) Közfogyasztásra történő forgalomba hozatalra szánt borászati termék – e törvény végrehajtására kiadott miniszteri rendeletben meghatározott borászati termék kivételével – kizárólag borászati üzemben tárolható.
 
 (4) A borászati üzemengedélyekről a borászati hatóság a tevékenységére vonatkozó jogszabályban foglalt ellenőrzési feladatainak ellátása érdekében nyilvántartást vezet, amely tartalmazza
 
@@ -150,14 +164,18 @@ lehetséges.
 
 (2) Nem kell alkalmazni az (1) bekezdés
 
-- a) b)–d) pontját a szőlőmust, a sűrített szőlőmust, a finomított szőlőmustsűrítmény és a borecet,
-- b) b) és c) pontját – az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben – a még erjedésben lévő újbor
+- a) b)–d) pontját a Magyarország területéről kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény,
+- b) b) és c) pontját
+  - ba) az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben a még erjedésben lévő újbor,
+  - bb) a borecet,
+  - bc) a nem borászati termék előállítása céljából Magyarország területén forgalomba hozni kívánt borászati termék, valamint
+  - bd) a Magyarország területén forgalomba hozott szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény
 
 tekintetében.
 
 (2a) Szőlőmust Magyarország területéről való kivitele esetén a 9. § (1) bekezdés a) pontja szerinti származási bizonyítványt a kivitelt követően az e törvény végrehajtására kiadott kormányrendeletben meghatározott határidőn belül szükséges beszerezni.
 
-(2b) Borászati termék nem borászati termék előállítása céljából történő forgalomba hozatala az (1) bekezdés a) és d) pontjában meghatározott feltételek teljesítésével lehetséges.
+(2b)
 
 (3) A hegybíró az első származási bizonyítványt az érintett borászati termékhez kapcsolódó szüreti bejegyzés alapján adja ki.
 
@@ -186,12 +204,12 @@ tekintetében.
 11. § (1) Oltalom alatt álló földrajzi jelzéssel rendelkező borászati termék előállításához kizárólag olyan szőlő használható fel,
 
 - a) amelynek cukortartalma legalább 134,8 g/l, és
-- b) amely hektáronként legfeljebb 22 tonna szőlő vagy 160 hektoliter seprős újbor hozamot adó szőlőültetvényről származik.
+- b) amely hektáronként legfeljebb 22 tonna szőlőhozamot vagy 160 hektoliter seprős újbor hozamot, vagy e mértéknek legfeljebb a 13. § (1) bekezdés b) pont ba) alpontja alapján meghatározott mértékkel megemelt mennyiségű szőlőhozamot vagy seprős újbor hozamot adó szőlőültetvényről származik.
 
 (2) Az oltalom alatt álló eredetmegjelöléssel rendelkező borászati termék előállításához – e törvény végrehajtására kiadott kormányrendeletben meghatározott kivétellel – kizárólag olyan szőlő használható fel,
 
 - a) amelynek cukortartalma legalább 153,1 g/l, és
-- b) amely hektáronként legfeljebb 14 tonna szőlő vagy 100 hektoliter seprős újbor hozamot adó szőlőültetvényről származik.
+- b) amely hektáronként legfeljebb 14 tonna szőlőhozamot vagy 100 hektoliter seprős újbor hozamot vagy e mértéknek legfeljebb a 13. § (1) bekezdés b) pont ba) alpontja alapján meghatározott mértékkel megemelt mennyiségű szőlőhozamot vagy seprős újbor hozamot adó szőlőültetvényről származik.
 
 (3) Település és dűlő neve kizárólag oltalom alatt álló eredetmegjelöléssel együtt tüntethető fel a címkén.
 
@@ -205,6 +223,7 @@ tekintetében.
 - b) az évjárat jellegétől vagy a piaci helyzettől függően az adott évi szüret vonatkozásában a földrajzi árujelző termékleírásának
   - ba) a szőlőültetvény maximális hozamára vonatkozó előírását legfeljebb egyötödével megemelheti vagy csökkentheti,
   - bb) a szőlő minimális cukortartalmára vonatkozó előírását legfeljebb 12,5 g/l mértékben megemelheti vagy csökkentheti földrajzi jelzéseknél és eredetmegjelölések esetén azon bortípusoknál, amelyeknél a szőlő minimális cukortartalma a termékleírás értelmében legalább 166,7 g/l.
+  - bc) a borászati termékek kémiai összetételére vonatkozó határértékeit legfeljebb egyötödével megemelheti vagy csökkentheti.
 
 (2) A miniszter az (1) bekezdés szerinti hozzájárulását akkor tagadhatja meg, ha a földrajzi árujelzőt kezelő hegyközségi szervezet tervezett intézkedése a szőlő-bor ágazat általános érdekeivel ellentétes.
 
@@ -302,7 +321,7 @@ tekintetében.
 20. § (1) A gazdasági akta az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott kötelezettségek teljesítése érdekében tartalmazza
 
 - a) az adatszolgáltató
-  - aa) nevét,
+  - aa) nevét, természetes személy esetén születési helyét és idejét, anyja nevét, állampolgárságát,
   - ab) lakcímét vagy székhelyét,
   - ac) adószámát, adóazonosító jelét,
   - ad) FELIR azonosítóját,
@@ -334,7 +353,7 @@ tekintetében.
 
 #### 10. Ellenőrzések végzése és jogkövetkezmények
 
-21. § (1) A szüretelt szőlő mennyiségének és cukortartalmának ellenőrzésére a HNT főtitkára éves tervet készít, amelyet minden borpiaci év március 1. napjáig megküld a miniszter részére.
+21. § (1) A szüretelt szőlő mennyiségének és cukortartalmának ellenőrzésére a HNT főtitkára éves tervet készít, amelyet minden borpiaci év május 31. napjáig megküld a miniszter részére. A miniszter az éves ellenőrzési tervet a következő borpiaci év kezdetéig jóváhagyja. A jóváhagyott ellenőrzési terv alapján a borászati hatóság és a hegybíró a helyszínen jogosult ellenőrizni a szüretelt és feldolgozott szőlő, valamint az előállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény mennyiségét és cukortartalmát.
 
 (2) A borászati hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője, valamint jelenlétében a hegybíró, hatósági ellenőrzés végzése során – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 69. §-ában foglaltakon túl – jogosult
 
@@ -343,6 +362,8 @@ tekintetében.
 - c) élelmiszerlánc-esemény alapos gyanúja esetén, továbbá élelmiszerlánc-esemény elhárítása, illetve a felügyeleti díj bevallási és fizetési kötelezettség ellenőrzése érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
 
 (3) A borászati hatóság az Éltv. 44. § (2)–(7) bekezdésében foglaltak alkalmazásával próbavásárlást végezhet.
+
+(4) A borászati hatóság ellenőrzési tevékenységének támogatása érdekében az állami adó- és vámhatóság az egyszerűsített adóraktár-engedélyes nevének, címének, cégnevének, székhelyének és adószámának megjelölésével az Európai Gazdasági Térség valamely szerződő államából további feldolgozás céljából, vagy az Európai Gazdasági Térségen kívüli országból behozott borászati termék – Jövedéki Árumozgás és Ellenőrző Rendszerben nyilvántartott – kísérőokmányának nyilvántartott adatait átadja a borászati hatóság részére.
 
 22. § (1) A hegybíró a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szankciókon kívül az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint kötelezheti az ültetvény használóját a szőlőültetvény kivágására.
 

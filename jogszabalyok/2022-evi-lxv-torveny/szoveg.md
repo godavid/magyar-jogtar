@@ -33,12 +33,12 @@ Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi a
 - 1. adatkezelő: a Nemzeti Irányító Hatóság, a Nemzeti Kifizető Ügynökség, a közreműködő szervezet valamint az együttműködő szervezet;
 - 2. agrártámogatási jogviszony: e törvény alapján a támogató és a kedvezményezett között létrejövő valamennyi jogviszony, ideértve a kifizetéssel nem járó intézkedéseket és az abban való részvételt is;
 - 3. állatlétszámhoz kötött támogatási jogosultság: a közvetlen támogatásokhoz kapcsolódó intézkedések keretében a kedvezményezett számára megállapított olyan vagyoni értékű jog, amelynek azonosítását és nyilvántartását jogszabály írja elő, és amely a támogatás igénybevételének szükséges feltétele;
-- 4. beruházás: a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. § (1) bekezdés a) pontjában meghatározott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés, azzal, hogy a társasági tulajdon, illetve szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
+- 4. beruházás: a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 53. §-ában meghatározott erdőnevelésnek minősülő tevékenységek, azzal, hogy a társasági tulajdon, illetve szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 - 5. egyéb szervezet: támogatásban nem részesülő, de az eljárásban részt vevő;
 - 6. feltételesség: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU (2021. december 2.) európai parlamenti és tanácsi rendelet (a továbbiakban: KAP I rendelet) 12. cikke és III. melléklete, valamint a feltételességről szóló jogszabály szerinti egységes feltételrendszer;
 - 7. folyamatban lévő eljárás: a kérelemre vagy hivatalból indult, véglegessé vált döntéssel még le nem zárt eljárás;
 - 8. hatáskörrel rendelkező hatóság: a feltételesség körébe tartozó előírások és követelmények ellenőrzését, igazolását végző szerv;
-- 9. intézkedés: a KAP Stratégiai Terv által tartalmazott egyes beavatkozások, valamint nemzeti hatáskörben nyújtott egyes agrártámogatások;
+- 9. intézkedés: a KAP Stratégiai Terv által tartalmazott egyes beavatkozások, valamint nemzeti hatáskörben nyújtott egyes agrártámogatások és egyéb, támogatás kifizetésével nem járó piacszabályozási beavatkozások;
 - 10. irat: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény szerinti irat, ideértve a polgári perrendtartásról szóló törvény szerinti okirat, közokirat és magánokirat, illetve az egyes intézkedésekkel kapcsolatban keletkezett egyéb iratok;
 - 11. KAP Stratégiai Terv: a KAP I rendelet 104. cikke szerinti tagállami tervezési dokumentum;
 - 12. kedvezményezett:
@@ -57,7 +57,7 @@ Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi a
 - 19. szabálytalanság: a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2116/EU (2021. december 2.) európai parlamenti és tanácsi rendelet (a továbbiakban: KAP II rendelet) 2. cikk a) pontja szerint megállapított tényállás;
 - 20. szociális feltételesség: a KAP I rendelet 14. cikke szerinti követelmény;
 - 21. támogató:
-  - a) az Európai Mezőgazdasági Garanciaalap tekintetében a jogi szabályozás során a Nemzeti Irányító Hatóság, az eljárás során a Nemzeti Kifizető Ügynökség,
+  - a) az Európai Mezőgazdasági Garanciaalap tekintetében a jogi szabályozás során a Nemzeti Irányító Hatóság, az eljárás során a Nemzeti Kifizető Ügynökség, valamint egyes jogszabályban meghatározott esetekben a támogatási döntés meghozataláig a Nemzeti Irányító Hatóság, ezt követően a Nemzeti Kifizető Ügynökség,
   - b) az Európai Mezőgazdasági Garanciaalap egyes piaci és a KAP II rendelet 5. cikk (2) bekezdés b) pontja szerinti ágazatokra vonatkozó egyes intézkedései tekintetében a jogi szabályozás és az intézkedésben való részvételre jogosultág megállapítása során, valamint támogatás megállapítása esetén a támogatási döntés meghozataláig a Nemzeti Irányító Hatóság, az eljárás során a Nemzeti Kifizető Ügynökség,
   - c) az Európai Mezőgazdasági Vidékfejlesztési Alap tekintetében a támogatási döntés meghozataláig a Nemzeti Irányító Hatóság, ezt követően a Nemzeti Kifizető Ügynökség,
   - d) a kizárólag nemzeti hatáskörben nyújtott támogatások tekintetében a jogi szabályozás során az agrárpolitikáért felelős miniszter, az eljárás során a Nemzeti Kifizető Ügynökség;
@@ -92,6 +92,15 @@ Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi a
 benyújtásával kezdeményezett eljárásra.
 
 (4) Ha törvény másként nem rendelkezik, a vámszabad területre is e törvény rendelkezéseit kell alkalmazni.
+
+(5) E törvény rendelkezéseit kell alkalmazni
+
+- a) a Magyarország területén gazdasági tevékenységet folytató
+  - aa) lakóhellyel, tartózkodási hellyel rendelkező – jogszabály eltérő rendelkezése hiányában – tizenhatodik életévét betöltött természetes személy, valamint
+  - ab) székhellyel, telephellyel rendelkező jogi személy vagy egyéb szervezet egyes intézkedésekben való részvételének rendjére, továbbá
+- b) a támogatásokkal összefüggő egyes eljárásokban érintett egyéb személy vagy szervezet
+
+tekintetében.
 
 #### 4. KAP Alapok szervezete
 
@@ -531,6 +540,8 @@ számított öt év elteltével évül el.
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó különös feltételeket rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben az Agrár Széchenyi Kártya Konstrukciók működésének és igénybevételének szabályait rendeletben állapítsa meg.
 
 #### 25. Hatályba léptető és átmeneti rendelkezések
 

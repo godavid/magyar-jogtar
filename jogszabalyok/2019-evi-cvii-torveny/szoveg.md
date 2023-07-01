@@ -20,7 +20,7 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 
 (1) E törvény alkalmazásában különleges jogállású szerv:
 
-- a) a Köztársasági Elnöki Hivatal,
+- a) a Sándor-palota,
 - b) az Alkotmánybíróság Hivatala,
 - c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 - d) az Alapvető Jogok Biztosának Hivatala,
@@ -733,7 +733,7 @@ köteles foglalkoztatni. Ezt követően a köztisztviselő munkaidejét a kérel
 
 jogviszonyt létesít, közszolgálati jogviszonya az a) vagy b) pont szerinti jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 
-(4) Ha a közszolgálati jogviszonyt létesítő személy a közszolgálati jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít közszolgálati jogviszonyt, jogviszonyát folyamatosnak kell tekinteni.
+(4) Ha a közszolgálati jogviszonyt létesítő személy a közszolgálati jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti közszolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít az e törvény szerinti közszolgálati jogviszonyt, jogviszonyát folyamatosnak kell tekinteni.
 
 (5) Ha a köztisztviselő a közszolgálati jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb közszolgálati jogviszonyt létesít, közszolgálati jogviszonyát folyamatosnak kell tekinteni.
 
@@ -888,7 +888,7 @@ meghosszabbodik, ha azt a köztisztviselő kéri.
 (5) A (3) és (4) bekezdés alkalmazása szempontjából közszolgálati jogviszonyban töltött időnek minősül
 
 - a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál –,
-- b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
+- b) a költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 - c) átminősítés esetén a hivatásos szolgálati vagy katonai szolgálati viszonyban
 
 eltöltött idő is.
@@ -924,6 +924,8 @@ Az a) pont alkalmazása szempontjából a köztisztviselő besorolása szerinti 
 
 - a) ha végkielégítés illeti meg, egyhavi végkielégítésre jogosult, és a részére kifizetett végkielégítés összegének az egyhavi mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábbi munkáltató részére köteles visszafizetni,
 - b) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
+
+(12) Az (5) bekezdés b) pontja szerinti esetben a köztisztviselő nem jogosult végkielégítésre azon időtartam vonatkozásában, amely alapján korábbi jogviszonyának megszűnésekor vagy megszüntetésekor végkielégítésben részesült.
 
 #### 42. § [A felmentési védelem]
 
@@ -1679,7 +1681,7 @@ időtartamát.
 
 #### 69. § [Az illetmény]
 
-(1) A Köztársasági Elnöki Hivatal és az Alkotmánybíróság Hivatala köztisztviselője közszolgálati jogviszonya alapján havonta az 1. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
+(1) Az Alkotmánybíróság Hivatala köztisztviselője közszolgálati jogviszonya alapján havonta az 1. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
 
 (2) Az Alapvető Jogok Biztosának Hivatala, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, a Nemzeti Választási Iroda, a Nemzeti Emlékezet Bizottságának Hivatala és a Nemzeti Adatvédelmi és Információszabadság Hatóság köztisztviselője közszolgálati jogviszonya alapján havonta a 2. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
 
@@ -1820,7 +1822,7 @@ illetménynek megfelelő összeg.
 
 (3) Az elismerésre jogosító idő megállapításánál
 
-- a) az e törvény, a Kit., a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.), a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, az állami tisztviselőkről szóló törvény és a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, állami szolgálati és adó- és vámhatósági szolgálati jogviszonyban töltött időt,
+- a) az e törvény, a Kit., a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, az állami tisztviselőkről szóló törvény és a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, állami szolgálati és adó- és vámhatósági szolgálati jogviszonyban töltött időt,
 - b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 - c) a hivatásos szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony időtartamát,
 - d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban töltött időt,
@@ -2456,7 +2458,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Sándor-palota, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 
@@ -2478,11 +2480,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (4) Az Alkotmánybíróság Hivatalának szervezetét a szervet létrehozó törvény vagy annak felhatalmazása alapján a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
 
-#### 100. § [A Köztársasági Elnöki Hivatalra vonatkozó eltérő szabályok]
-
-(1) A Köztársasági Elnöki Hivatal vezetője a különleges jogállású szervet létrehozó törvényben, vagy annak felhatalmazása alapján az alapító okiratban vagy a szervezeti és működési szabályzatban meghatározott mértékű illetményre és pótszabadságra jogosult.
-
-(2) A 22. § (1) bekezdése, a 24. § (10) bekezdése, a 39. § (1) bekezdés d) pontja szerinti jogkört a Köztársasági Elnöki Hivatal vezetője vonatkozásában a köztársasági elnök gyakorolja.
+#### 100. §
 
 ### XVI. Fejezet — A KÜLÖNLEGES JOGÁLLÁSÚ SZERVNÉL FOGLALKOZTATOTT MUNKAVÁLLALÓK
 
@@ -2650,6 +2648,8 @@ kell figyelembe venni.
 
 (30) Ha a köztisztviselő gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a köztisztviselő kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig kell kiadni.
 
+(31) Az egyes törvényeknek a köztársasági elnök jogállásával összefüggő módosításáról szóló 2023. évi XXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 38. § (4) bekezdését, 41. § (5) bekezdés b) pontját és 41. § (12) bekezdését a Módtv2. hatálybalépése időpontjában fennálló közszolgálati jogviszonyok tekintetében is alkalmazni kell.
+
 #### 106. § [Az Alaptörvény sarkalatosságra vonatkozó követelményeinek való megfelelés]
 
 (1) A 99. § (4) bekezdése és a 109. § az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
@@ -2679,7 +2679,7 @@ E törvény az Európai Unió következő uniós jogi aktusainak való megfelel�
 
 ### 1. melléklet a 2019. évi CVII. törvényhez
 
-#### Illetménytábla a 69. § (1) bekezdése szerinti szervek részére
+#### Illetménytábla a 69. § (1) bekezdése szerinti szerv részére
 
 |  | A) | B) | C) |
 | --- | --- | --- | --- |

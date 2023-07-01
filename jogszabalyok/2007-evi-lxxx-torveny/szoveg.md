@@ -532,7 +532,7 @@ rendelkezik;
   - ac) az élelmezésének saját költségén történő kiegészítésére,
   - ad) a vallásának gyakorlására, ideértve a vallási előírásoknak megfelelő étkezést is,
   - ae) a rendelkezésre álló közművelődési lehetőségek igénybevételére,
-  - af) kifogás, kérés, panasz, közérdekű bejelentés megtételére, valamint
+  - af) kifogás, kérés, panasz, közérdekű bejelentés, visszaélés-bejelentés megtételére, valamint
   - ag) a napirendben foglaltak szerint, de napi legalább egy óra időtartamban a szabad levegőn tartózkodásra, továbbá
 - b) köteles
   - ba) a menekültügyi őrizet végrehajtására szolgáló létesítmény rendjét megtartani, az ezzel összefüggő utasításoknak eleget tenni,

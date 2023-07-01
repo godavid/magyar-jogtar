@@ -378,7 +378,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) A reorganizációs hitel forint, euró vagy svájci frank devizanemekben nyújtható, amelyek árfolyama a költségvetési törvényben rögzített devizaárfolyam alapján kerül megállapításra. A reorganizációs hitel euróban vagy svájci frankban annak a helyi önkormányzatnak nyújtható, amelynek a korábban felvett hitele vagy az általa kibocsátott kötvény is euróban vagy svájci frankban van nyilvántartva. A forinttól eltérő reorganizációs hitel devizaneme arányaiban is meg kell, hogy egyezzen a korábbi hitel vagy kötvény devizanem arányával.
 
-34/A. §
+#### 34/A. §
 
 34/B. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig az államháztartásról szóló törvényben a költségvetési szervek átalakítására, megszüntetésére vonatkozó döntés kihirdetésére, közzétételére előírt határidő mellőzhető.
 
@@ -386,7 +386,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 34/D. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamra az adósságrendezés alá vont helyi önkormányzat mentesül az építtetői fedezetkezelői díj fizetésének kötelezettsége alól.
 
-34/E. §
+#### 34/E. §
 
 ### VI. Fejezet — Záró rendelkezések
 
@@ -411,7 +411,9 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 38. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 23. § (7) bekezdését és 32. § (4a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő adósságrendezési eljárásokban is alkalmazni kell, amelynél a bíróság a vagyonfelosztási javaslatot még nem hagyta jóvá.
 
-39–40. §
+#### 39. §
+
+#### 40. §
 
 ### Melléklet az 1996. évi XXV. törvényhez
 
@@ -419,7 +421,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 - 1. A kegyeleti közszolgáltatás biztosítása, szociális temetésről való gondoskodás (a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény)
 - 2.
-- 3. A hulladékgazdálkodási közszolgáltatás ellátásának biztosítása (a hulladékról szóló 2012. évi CLXXXV. törvény)
+- 3. A hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának biztosítása (a hulladékról szóló 2012. évi CLXXXV. törvény)
 - 4. A közterület tisztán tartása (a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény)
 - 5. A helyi vízrendezés és vízkárelhárítás, az árvíz- és belvízelvezetés, a vízgazdálkodási közszolgáltatás ellátásának biztosítása (a vízgazdálkodásról szóló 1995. évi LVII. törvény)
 - 6. A közműves ivóvízellátással és a közműves szennyvízelvezetéssel és -tisztítással kapcsolatos víziközmű-szolgáltatási feladatok elvégzése (a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény)

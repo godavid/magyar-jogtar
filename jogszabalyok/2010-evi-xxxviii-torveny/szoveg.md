@@ -216,7 +216,7 @@ az örökhagyó haláláról értesül.
   - ac) cselekvőképességet érintő gondnokság alatt álló nagykorú,
   - ad) ismeretlen helyen lévő személy,
   - ae) ügyeinek vitelében akadályozott természetes személy, vagy
-- b) csak a Magyar Állam.
+- b) csak az állam vagy belföldi települési önkormányzat (a továbbiakban: települési önkormányzat).
 
 (5) A hagyatékot akkor is leltározni kell, ha az örökhagyó végintézkedésével alapítvány létesítését rendelte.
 
@@ -299,7 +299,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
-(3) A jegyző vagy a közjegyző a (2) bekezdés a), c)–f) pontjában meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
+(3) A jegyző vagy a közjegyző a (2) bekezdés a), c)–e) pontjában meghatározott szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
 
 (4) A jegyző vagy a közjegyző a szükséges intézkedések megtétele végett haladéktalanul értesíti a halálesetről – ha adat merül fel arra vonatkozóan, hogy a halál pillanatában ilyen személy volt – az örökhagyó gondnokát, illetve gyámját.
 
@@ -310,7 +310,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 29. § (1) A leltározást a belföldi vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
 
 - a) az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
-- b) örökösként csak a Magyar Állam érdekelt, vagy
+- b) örökösként csak az állam vagy települési önkormányzat érdekelt, vagy
 - c) a jegyző vagy a közjegyző – az eset arra okot adó körülményeire figyelemmel és azokat a leltárban feltüntetve – indokoltnak tartja, vagy
 - d) helyszíni leltározást az örökösként érdekelt személy, a végrendeleti végrehajtó, a hagyatéki hitelező vagy a gyámhatóság kéri.
 
@@ -383,7 +383,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 36. § (1) A biztosítási intézkedés költségeit az köteles előlegezni, aki a biztosítási intézkedést kérte.
 
-(2) A jegyző vagy a közjegyző felhívja a biztosítási intézkedést kérelmezőt, hogy a biztosítási intézkedés foganatosításával várhatóan felmerülő költségeket helyezze közjegyzői letétbe. Ha a kérelmező a felhívásnak nem tesz eleget, a kérelmet el kell utasítani.
+(2) A jegyző vagy a közjegyző felhívja a biztosítási intézkedést kérelmezőt, hogy a biztosítási intézkedés foganatosításával várhatóan felmerülő költségeket a Kjnp. megfelelő alkalmazásával előlegezze meg. Ha a kérelmező a felhívásnak nem tesz eleget, a kérelmet vissza kell utasítani.
 
 37. § (1) Az elrendelt biztosítási intézkedést a leltárban fel kell tüntetni.
 
@@ -404,7 +404,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 40. § (1) A biztosítási intézkedéssel érintett vagyontárgy értékesítéséből befolyt ellenérték a biztosítási intézkedéssel érintett vagyontárgy helyébe lép.
 
-(2) Ha más törvényes örökös hiányában a Magyar Állam öröklése valószínűsíthető, és a temetési költségek fedezése céljából feltétlenül szükséges, a jegyző, illetőleg a közjegyző a biztosítási intézkedés elrendelésére és foganatosítására vonatkozó szabályok megfelelő alkalmazásával a Magyar Állam kérelmére hozzájárulhat a hagyatékhoz tartozó egyes ingóságok értékesítéséhez. Az értékesítés során befolyt összeget a temetési költségek fedezésére kell fordítani, a fennmaradó összeget pedig bírósági letétbe vagy közjegyzői letétbe kell helyezni.
+(2) Ha más törvényes örökös hiányában az állam vagy települési önkormányzat öröklése valószínűsíthető, és a temetési költségek fedezése céljából feltétlenül szükséges, a jegyző, illetőleg a közjegyző a biztosítási intézkedés elrendelésére és foganatosítására vonatkozó szabályok megfelelő alkalmazásával a Magyar Állam vagy települési önkormányzat kérelmére hozzájárulhat a hagyatékhoz tartozó egyes ingóságok értékesítéséhez. Az értékesítés során befolyt összeget a temetési költségek fedezésére kell fordítani, a fennmaradó összeget pedig bírósági letétbe vagy közjegyzői letétbe kell helyezni.
 
 41. § (1) A biztosítási intézkedést haladéktalanul meg kell szüntetni, ha elrendelésének oka megszűnt.
 
@@ -628,11 +628,11 @@ feltéve, hogy a hagyatéki leltár a hagyaték átadásához szükséges valame
 
 (2) Ha az ismeretlen öröklésben érdekelt igényét a hirdetményben megadott határidőn belül nem jelenti be, és a tárgyaláson sem jelenik meg, az eljárás további szakaszában őt mint öröklésben érdekeltet és igényét figyelmen kívül kell hagyni.
 
-64. § (1) Ha arra vonatkozó adat merül fel, hogy más törvényes örökös hiányában a Magyar Állam örököl, a közjegyző a hirdetményi kézbesítés szabályait megfelelően alkalmazva hirdetményt bocsát ki, amelyben felhív mindenkit, aki a hagyatékra öröklésben érdekeltként igényt tart, hogy azt számára a kézbesítéstől számított 30 napon belül írásban jelentse be.
+64. § (1) Ha arra vonatkozó adat merül fel, hogy más törvényes örökös hiányában az állam vagy települési önkormányzat örököl, a közjegyző a hirdetményi kézbesítés szabályait megfelelően alkalmazva hirdetményt bocsát ki, amelyben felhív mindenkit, aki a hagyatékra öröklésben érdekeltként igényt tart, hogy azt számára a kézbesítéstől számított 30 napon belül írásban jelentse be.
 
-(2) A közjegyző a hagyatéki eljárásról az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban képviselő szerven keresztül a hirdetmény egyidejű megküldésével tájékoztatja a Magyar Államot.
+(2) A közjegyző a hagyatéki eljárásról az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban képviselő szerven keresztül a hirdetmény egyidejű megküldésével tájékoztatja az államot vagy települési önkormányzat törvényes öröklése esetén az érintett települési önkormányzatot.
 
-(3) Ha az (1) bekezdésben meghatározott határidő alatt a hagyatékra örökösként érdekelt nem jelentkezik, a közjegyző a Magyar Állam törvényes öröklését állapítja meg és a hagyatékot, az arra más jogcímeken bejelentett igényekre is tekintettel az általános szabályok szerint adja át.
+(3) Ha az (1) bekezdésben meghatározott határidő alatt a hagyatékra örökösként érdekelt nem jelentkezik, a közjegyző az állam vagy települési önkormányzat törvényes öröklését állapítja meg és a hagyatékot, az arra más jogcímeken bejelentett igényekre is tekintettel az általános szabályok szerint adja át.
 
 65. § (1) Az ismeretlen hagyatéki tartozás jogosultját a közjegyző bármely, öröklésben érdekelt kérelmére a hirdetményi kézbesítés szabályait megfelelően alkalmazva hirdetmény útján hívja fel arra, hogy követelését a kézbesítéstől számított 30 napon belül a közjegyzőnél írásban jelentse be.
 
@@ -753,7 +753,7 @@ tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
 
 (5) Ha a hagyatéki eljárás költségének előlegezésére, illetve viselésére többen kötelesek, e kötelezettség őket egyetemlegesen terheli.
 
-74. § A költségek megelőlegezésére szolgáló pénzösszeget – a jegyző vagy a közjegyző felhívásának megfelelően – közjegyzői letétbe kell helyezni.
+74. § A költségek megelőlegezésére szolgáló pénzösszeget – a jegyző vagy a közjegyző felhívásának megfelelően – a Kjnp. megfelelő alkalmazásával a közjegyzőnél kell megfizetni.
 
 75. § (1) A hagyatéki eljárás költségeinek megfizetésére megfelelő határidőt kell tűzni, amely az eljárást befejező végzés jogerőre emelkedésétől számított 15 napnál későbbi nem lehet.
 
@@ -890,7 +890,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 ### Az eljárás befejezését követő intézkedések
 
-91. § (1) A fellebbezéssel megtámadható végzés jogerőre emelkedését a közjegyző állapítja meg. A jogerőre emelkedésről az érdekelteket – kivéve a vagyontárgyat törvényes öröklés útján megszerző államot – külön értesíteni nem kell, de az érdekelt kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
+91. § (1) A fellebbezéssel megtámadható végzés jogerőre emelkedését a közjegyző állapítja meg. A jogerőre emelkedésről az érdekelteket – kivéve a vagyontárgyat törvényes öröklés útján megszerző államot vagy települési önkormányzatot – külön értesíteni nem kell, de az érdekelt kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
 
 (2) Ha a hagyatékot teljes hatállyal átadó végzés vagy a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés jogkövetkezményeinek foganatosításához közhiteles nyilvántartásba való bejegyzés szükséges, annak foganatosítása iránt a közjegyző a nyilvántartást vezető belföldi hatóságot a végzés egy példányának megküldésével megkeresi.
 
@@ -931,7 +931,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés jogcímén megszerzett hagyatéki vagyon egészét vagy részét az öröklésben érdekelt más személyre, a kieséses örökösre vagy a hagyatéki hitelezőre átruházza, vagy az igénylőnek – az eredetileg a hagyatékhoz tartozónak tekintett – vagyontárgyra vonatkozó igényét elismeri, a közjegyző ezeket a jognyilatkozatokat egyezségbe foglalja, és dönt az egyezség jóváhagyásáról. Ha a közjegyző ezen egyezséget jóváhagyta, a hagyatékot az egyezség szerinti jogcímen szerző félnek adja át, átruházás esetén az átruházó örökösként érdekelt jogszerzésének (öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés) megfelelő jogcímen történt közbenső jogszerzése megállapításával.
 
-(3) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés jogcímén megszerzett, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású földet, vagy tanyát, az ahhoz tartozó berendezést, felszerelési tárgyakat, állatállományt, munkaeszközöket ajándék jogcímén a Magyar Államnak felajánlja, az ajándékot elfogadottnak kell tekinteni, és a közjegyző a felajánlott vagyontárgyat ajándék jogcímén a Magyar Államnak adja át az ajándékozó örökösként érdekelt jogszerzésének (öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés) megfelelő jogcímen történt közbenső jogszerzése megállapításával.
+(3) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés jogcímén megszerzett, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású földet, vagy tanyát, az ahhoz tartozó berendezést, felszerelési tárgyakat, állatállományt, munkaeszközöket ajándék jogcímén az államnak felajánlja, az ajándékot elfogadottnak kell tekinteni, és a közjegyző a felajánlott vagyontárgyat ajándék jogcímén az államnak adja át az ajándékozó örökösként érdekelt jogszerzésének (öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés) megfelelő jogcímen történt közbenső jogszerzése megállapításával.
 
 (4) A (3) bekezdésben foglaltak esetén az örökös illetékfizetési kötelezettségére az örököstársnak való ingyenes átengedés szabályait kell alkalmazni.
 
@@ -1089,7 +1089,9 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (3) A közjegyző a hagyatékátadó végzés meghozatalát megelőzően hivatalból intézkedik az alaphagyatéki iratok beszerzése érdekében.
 
-#### 104. §
+### A települési önkormányzat törvényes öröklése
+
+104. § A települési önkormányzat törvényes öröklése esetén minden olyan, a hagyaték tárgyát képező ingatlanon található ingó dolog tekintetében, amelynek a tulajdonjoga nem állapítható meg, vélelmezni kell azt, hogy az örökhagyó tulajdonában állt halálakor.
 
 ### V. Fejezet — A KÖZJEGYZŐ ELJÁRÁSÁVAL KAPCSOLATOS JOGORVOSLATOK
 
@@ -1168,8 +1170,18 @@ ellen fellebbezésnek van helye.
 - 13. a megismételt hagyatéki eljárás ingatlan-nyilvántartásba való feljegyzése tárgyában hozott,
 - 14. a leltárba felvett vagyonra, vagyonrészre vagy vagyontárgyra az örökhagyó túlélő házastársa (volt házastársa) által házastársi vagyonközösség jogcímén, vagy az örökhagyót túlélő élettársa (volt élettársa) által az együttélés alatt keletkezett vagyonközösségből őt megillető részesedés jogcímén bejelentett igény tárgyában hozott,
 - 15. a végintézkedéssel alapított bizalmi vagyonkezelési jogviszony létrejötte tárgyában hozott,
-- 16. a 75. § szerinti törvényes zálogjog létrejötte tárgyában hozott, valamint
-- 17. a fellebbezést visszautasító
+- 16. a 75. § szerinti törvényes zálogjog létrejötte tárgyában hozott,
+- 17. a fellebbezést visszautasító,
+- 18. az ügygondnok díjáról rendelkező,
+- 19. a kézbesítési kifogást elutasító és visszautasító,
+- 20. az igazolási kérelmet elutasító és visszautasító,
+- 21. az önálló fellebbezéssel támadható végzés rendelkező részét kijavító,
+- 22. a végzés rendelkező részének kijavítása iránt előterjesztett kérelmet elutasító és visszautasító,
+- 23. az önálló fellebbezéssel támadható végzés kiegészítése tárgyában hozott,
+- 24. a papíralapú kapcsolattartás iránti kérelmet elutasító és visszautasító,
+- 25. az áttételt elrendelő,
+- 26. a tárgyalás tartása iránti kérelmet elutasító és visszautasító, valamint
+- 27. a tárgyalás kitűzése iránti kérelmet elutasító és visszautasító
 
 végzés ellen.
 
@@ -1192,6 +1204,14 @@ végzés ellen.
 - a) méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy,
 - b) ismeretlen helyen levő személy vagy
 - c) ügyeinek vitelében egyébként akadályozott személy.
+
+(3) A kérelmet, illetve fellebbezést visszautasító, valamint a 110. § (2) bekezdés 19., 20. és 24. pontjában meghatározott végzéssel szemben kizárólag a kérelmet, illetve fellebbezést előterjesztő élhet fellebbezéssel. A 110. § (2) bekezdés 18. pontjában meghatározott végzéssel szemben az ügygondnok saját jogán is élhet fellebbezéssel. A 110. § (2) bekezdés 21. és 23. pontjában meghatározott végzéssel szemben a kérelmet előterjesztőn kívül az élhet fellebbezéssel, akit a kijavított, illetve kiegészített végzéssel szemben is fellebbezési jog illetett meg. A végzés rendelkező részének kijavítása iránt előterjesztett kérelmet elutasító végzéssel szemben a kérelmet előterjesztőn kívül az élhet fellebbezéssel, akit a kijavítani kért végzéssel szemben is fellebbezési jog illetett meg.
+
+(4) A 110. § (2a) bekezdésében meghatározott végzéssel szemben a 650/2012/EU európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdésében meghatározott személy élhet fellebbezéssel.
+
+(5) A (3) és (4) bekezdésben meghatározott esetekben a gyámhatóság akkor élhet fellebbezéssel, ha az e bekezdések szerint fellebbezésre jogosult a (2) bekezdés szerinti személy.
+
+(6) A fellebbezést észrevételezésre a fellebbezésre nem jogosultak részére nem kell megküldeni.
 
 112. § A fellebbezési jogról előzetesen lemondani nem lehet. A végzés közlése után sem mondhat le képviseltje nevében a fellebbezési jogról a természetes személy törvényes képviselője, valamint a gyám, az eseti gyám, az eseti és az ügygondnok.
 

@@ -883,7 +883,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 #### 41/A. §
 
-42. § A munkáltató a vele közalkalmazotti jogviszonyban álló közalkalmazottal munkaköri feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet.
+42. § A munkáltató a vele közalkalmazotti jogviszonyban álló közalkalmazottal munkaköri feladatai ellátására munkavégzésre irányuló további jogviszonyt – a szakképzési munkaszerződés alapján létrejött munkaviszony kivételével – nem létesíthet.
 
 43. § (1) Amennyiben a közalkalmazott munkaideje a közalkalmazotti jogviszonyban és a munkavégzésre irányuló további jogviszonyban — részben vagy egészben — azonos időtartamra esik, a munkavégzésre irányuló további jogviszony csak a munkáltató előzetes írásbeli hozzájárulásával létesíthető.
 

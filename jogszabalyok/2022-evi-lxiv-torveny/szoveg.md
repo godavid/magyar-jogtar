@@ -60,7 +60,19 @@ egyes bányászati és gazdasági tárgyú törvények módosításáról
 
 #### 23. §
 
-#### 24. §
+24. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 10/C. §-a helyébe a következő rendelkezés lép:
+
+„10/C. § (1) A Hatóság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
+
+- a) médiakampány szervezése, lebonyolítása, szakmai támogatása,
+- b) közösségi megjelenés,
+- c) sportrendezvényeken történő megjelenés,
+- d) a leszokást elősegítő szervezetekkel, egészségügyi intézményekkel történő együttműködés és
+- e) egészségvédelmi programokban történő részvétel
+
+útján.
+
+(2) A Hatóság a dohányzásról való leszokást támogató egészségvédelmi tájékoztatót készít, amelyet a dohánytermék-kiskereskedő választása szerint papír alapon megküld, illetve elektronikus úton elérhetővé tesz a dohánytermék-kiskereskedő részére.”
 
 #### 25. §
 
@@ -112,7 +124,7 @@ egyes bányászati és gazdasági tárgyú törvények módosításáról
 - 14.
 - 15.
 - 16.
-- 17.
+- 17. 16/A. §-ában a „felvilágosítást megadni” szövegrész helyébe a „felvilágosítást, tájékoztatást megadni és a Hatóság által a 10/C. §-ban foglalt feladatainak ellátása kapcsán megküldött aktuális tájékoztatót – a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló rendeletében meghatározott módon – a dohányboltban, valamint az elkülönített helyen kihelyezni, vagy elektronikus eszköz útján megjeleníteni” szöveg,
 - 18.
 - 19.
 - 20.

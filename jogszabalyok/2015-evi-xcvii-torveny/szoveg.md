@@ -22,11 +22,11 @@ a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelő
 
 2. § (1) E törvény alkalmazásában:
 
-- a) ágazat: a Rendelet 1. cikk (2) bekezdésében felsorolt ágazatok;
+- a) ágazat: a Rendelet 1. cikk (2) bekezdésében, valamint a Halkereskedelmi Rendelet 5. cikk d) pontjában meghatározott ágazatok;
 - b) kiterjesztés: az elismert termelői szervezet, termelői szervezetek elismert társulása vagy elismert szakmaközi szervezet egyes piacszervezési intézkedéseinek jogszabályban történő kihirdetése;
 - c) piacszervezési intézkedés: elismert termelői szervezeten, termelői szervezetek elismert társulásán vagy elismert szakmaközi szervezeten belül létrejött megállapodás, döntés vagy összehangolt magatartás;
-- d) reprezentativitás: az elismert termelői szervezetnek, termelői szervezetek elismert társulásának vagy elismert szakmaközi szervezetnek a Rendelet 164. cikkében meghatározott képviseleti szintje;
-- e) szakmaközi szervezet: a Rendelet vagy a Halkereskedelmi Rendelet hatálya alá tartozó terméket termelő, feldolgozó és forgalmazó szervezetek és személyek által az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény alapján létrehozott, bírósági nyilvántartásba vett, a Rendelet vagy a Halkereskedelmi Rendelet előírásainak megfelelő és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által elismert egyesület vagy köztestület;
+- d) reprezentativitás: az elismert termelői szervezetnek, termelői szervezetek elismert társulásának vagy elismert szakmaközi szervezetnek a Rendelet 164. cikkében vagy a Halkereskedelmi Rendelet 22–23. cikkében meghatározott képviseleti szintje;
+- e) szakmaközi szervezet: a Rendelet vagy a Halkereskedelmi Rendelet hatálya alá tartozó terméket termelő, feldolgozó és forgalmazó szervezetek és személyek által az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény alapján létrehozott, bírósági nyilvántartásba vett, a Rendelet előírásainak vagy a Halkereskedelmi Rendelet 11. cikke szerinti ágazatközi szervezetekre vonatkozó előírásoknak megfelelő és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által elismert egyesület vagy köztestület;
 - f) termelői szervezet: e törvény hatálya alá tartozó terméket termelő szervezetek és személyek kezdeményezésére létrehozott, a Rendelet vagy a Halkereskedelmi Rendelet előírásainak megfelelő, és a miniszter által elismert jogi személy.
 
 (2) A szakmaközi szervezetekre vonatkozó szabályok tekintetében Magyarország egy régiónak és egy gazdasági térségnek minősül.
@@ -112,7 +112,7 @@ kell tartalmaznia.
 
 - a) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek meggy esetében az adott év május 15. napjáig,
 - b) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek alma esetében az adott év augusztus 1. napjáig,
-- c) szerződésnek torma esetében az adott év augusztus 1. napjáig
+- c) a felvásárló által az adott évben felvásárolt zöldség legalább 60 százalékának felvásárlására irányuló szerződésnek torma esetében az adott év augusztus 1. napjáig
 
 hatályba kell lépnie.
 
@@ -183,14 +183,14 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 
 14. § A miniszter
 
-- a) a szervezet kérelme alapján – amennyiben a Rendelet másként nem rendelkezik – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított négy hónapon belül dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének felfüggesztéséről vagy visszavonásáról;
+- a) a szervezet kérelme alapján – amennyiben a Rendelet vagy a Halkereskedelmi Rendelet másként nem rendelkezik – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított négy hónapon belül – a halászati és akvakultúra ágazat esetében három hónapon belül – dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének felfüggesztéséről vagy visszavonásáról;
 - b) a szakmaközi szervezet kérelme és az adott ágazatra vonatkozó gazdasági adatok alapján egyedileg vizsgálja az elismerési feltételek, a szakmaközi célok megvalósítására való alkalmasság, illetve a 15. § (1) bekezdése szerinti jelentős arány meglétét;
 - c) ellátja a szakmaközi szervezetek ellenőrzésével kapcsolatos feladatokat;
 - d) gondoskodik az elismerésről és annak visszavonásáról szóló döntésnek a Hivatalos Értesítőben és a miniszter által vezetett minisztérium honlapján (a továbbiakban: honlap) történő közzétételéről;
 - e) az elismert szakmaközi szervezetekről mindenki számára a honlapon ingyenesen elérhető nyilvántartást vezet, amely tartalmazza a szakmaközi szervezet nevét, elérhetőségeit, céljait, vezető tisztségviselőjének megnevezését;
 - f) teljesíti a szakmaközi szervezetekkel összefüggő, a Bizottság irányában fennálló tájékoztatási kötelezettséget.
 
-15. § (1) Szakmaközi szervezetként ismerhető el az a Rendelet 1. cikk (2) bekezdésében felsorolt valamely meghatározott ágazatban működő egyesület vagy köztestület, amely megfelel e törvény és a Rendelet rendelkezéseinek, és amelynek tagsága az adott termék előállításának, feldolgozásának, illetve kereskedelmének jelentős arányát végzi.
+15. § (1) Szakmaközi szervezetként ismerhető el az a 2. § (1) bekezdés a) pontja szerinti ágazatban működő egyesület vagy köztestület, amely megfelel e törvény és a Rendelet vagy a Halkereskedelmi Rendelet rendelkezéseinek, és amelynek tagsága az adott termék előállításának, feldolgozásának, illetve kereskedelmének jelentős arányát végzi.
 
 (2) Egy ágazatban csak egy szakmaközi szervezet ismerhető el.
 
@@ -208,11 +208,7 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 
 16. § Az elismert szakmaközi szervezet az elismeréssel kapcsolatosan fennálló tájékoztatási és adatszolgáltatási kötelezettségét a miniszter felé évente egyszer, e törvény végrehajtására kiadott rendeletben meghatározott határidőig teljesíti.
 
-17. § (1) A szakmaközi szervezetnek a Rendelet 210. cikk (2) bekezdés a) pontjában meghatározott kötelezettségét a miniszterhez intézett bejelentéssel kell teljesíteni, amelyet a miniszter haladéktalanul továbbít a Bizottság felé.
-
-(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell a piacszervezési intézkedés szövegét, illetve pontos tartalmát, valamint annak – szükség szerint piaci adatokkal alátámasztott – indokolását.
-
-(3) A Bizottságnak a Rendelet 210. cikk (5) bekezdése szerinti határozatáról a miniszter haladéktalanul tájékoztatja a szakmaközi szervezetet.
+17. § A szakmaközi szervezet haladéktalanul tájékoztatja a minisztert a Rendelet 210. cikk (2) bekezdése alapján a Bizottsághoz benyújtott kérelméről, valamint a Bizottság kérelem alapján kiadott véleményéről.
 
 #### 9. Termelői szervezetek és csoportok elismerése, működése
 
@@ -221,15 +217,15 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 (2) A miniszter az (1) bekezdésben foglalt feladatai körében különösen
 
 - a) dönt a termelői csoport, termelői szervezetek, illetve azok társulásainak elismerés iránti kérelméről;
-- b) dönt a termelői szervezet működési programja és a termelői szervezetek társulásának részleges működési programja elfogadása iránti kérelméről;
-- c) gondoskodik az a) és b) pontban meghatározott eljárásokhoz kapcsolódó ellenőrzésekről, és alkalmazza az ellenőrzések eredménye alapján jogszabályban meghatározott szankciókat;
+- b)
+- c) gondoskodik az a) pontban meghatározott eljárásokhoz kapcsolódó ellenőrzésekről, és alkalmazza az ellenőrzések eredménye alapján jogszabályban meghatározott szankciókat;
 - d) teljesíti az Európai Bizottság felé történő adatszolgáltatást.
 
 #### 10. Piacszervezési intézkedés kiterjesztése
 
-19. § (1) Az elismert termelői szervezet, termelői szervezetek elismert társulása vagy elismert szakmaközi szervezet, amennyiben egy adott termék előállításának – szakmaközi szervezet esetén előállításának, kereskedelmének vagy feldolgozásának – tekintetében reprezentatívnak minősül, a miniszternél kezdeményezheti az adott termékre vonatkozó piacszervezési intézkedésnek a Rendelet 164. cikk szerinti kiterjesztését.
+19. § (1) Az elismert termelői szervezet, termelői szervezetek elismert társulása vagy elismert szakmaközi szervezet, amennyiben egy adott termék előállításának – szakmaközi szervezet esetén előállításának, kereskedelmének vagy feldolgozásának – tekintetében reprezentatívnak minősül, a miniszternél kezdeményezheti az adott termékre vonatkozó piacszervezési intézkedésnek a Rendelet 164. cikk, vagy a Halkereskedelmi Rendelet 22–23. cikk szerinti kiterjesztését.
 
-(2) A kiterjesztésről a miniszter a körülmények mérlegelését követően a Rendeletben foglaltak szerint dönt. A kiterjesztés a piacszervezési intézkedés miniszteri rendeletben történő kihirdetésével valósul meg.
+(2) A kiterjesztésről a miniszter a körülmények mérlegelését követően a Rendeletben vagy a Halkereskedelmi Rendeletben foglaltak szerint dönt. A kiterjesztés a piacszervezési intézkedés miniszteri rendeletben történő kihirdetésével valósul meg.
 
 (3) A kiterjesztett piacszervezési intézkedéssel ellentétes szerződési kikötés semmis.
 
@@ -249,7 +245,7 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 
 #### 12. Pénzügyi hozzájárulás
 
-21. § (1) A miniszter kérelemre a Rendeletben foglaltak szerint dönt a Rendelet 165. cikkében meghatározott pénzügyi hozzájárulásról.
+21. § (1) A miniszter kérelemre dönt a Rendelet 165. cikkében vagy a Halkereskedelmi Rendelet 24. cikkében meghatározott pénzügyi hozzájárulásról.
 
 (2) A miniszter a piacszervezési intézkedést kihirdető rendeletében határozza meg a pénzügyi hozzájárulás mértékét és a hozzájárulás fizetésére kötelezettek körét. A miniszter a hozzájárulás előírásának megállapítása során az intézkedés nyomán jelentkező előnyök és hátrányok mérlegelésével jár el.
 
@@ -279,7 +275,7 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 
 #### 15. Megállapodások és összehangolt magatartások
 
-25. § (1) Az elismert szakmaközi szervezet által megkötött, a Rendelet 210. cikke szerinti megállapodás és összehangolt magatartás nyilvános és ahhoz a szakmaközi szervezetekhez nem tartozó további ágazati szereplők írásos nyilatkozatban csatlakozhatnak. A csatlakozás feltételeit a felek a megállapodásban határozzák meg.
+25. § (1) Az elismert szakmaközi szervezet által megkötött, a Rendelet 210. cikke, 210a. cikke, valamint a Halkereskedelmi Rendelet 41. cikke szerinti megállapodás és összehangolt magatartás nyilvános és ahhoz a szakmaközi szervezetekhez nem tartozó további ágazati szereplők írásos nyilatkozatban csatlakozhatnak. A csatlakozás feltételeit a felek a megállapodásban határozzák meg.
 
 (2) A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) szerinti beszállítók érdekképviseletét ellátó szervezet és a szakmaközi szervezet a tagjai számára az adott piacra, illetve az ott alkalmazásra kerülő árakra, beszerzési és értékesítési lehetőségekre, ösztönzők alkalmazására, a termékek piaci helyzetének javítására, illetve kiegyensúlyozott piaci viszonyok biztosítására vonatkozó felmérést végezhet, információt adhat, valamint a tagok között erre irányuló koordinatív egyeztetést folytathat. Amennyiben az ilyen tevékenység révén megvalósuló gazdasági és társadalmi előnyök meghaladják a tevékenység révén kialakuló versenyt korlátozó magatartásból adódó hátrányokat az ilyen tevékenység nem minősül a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ában foglalt tilalom megsértésének.
 

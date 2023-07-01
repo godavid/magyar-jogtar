@@ -48,13 +48,37 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 
 6. § (1) A 2. mellékletben foglalt táblázat 54. sorában meghatározott, ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan idejű elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
 
-(2) Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésekben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(2) Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban, a 6/A. §-ban, a 6/B. § (1) és (2) bekezdésében, a 6/C. §-ban, a 6/D. §-ban foglaltak alapján – a tulajdonátruházási szerződésekben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+6/A. § A KEKVA tv. 12. § (7) bekezdésére tekintettel, az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Komlói Egészségcentrum, a Mohácsi Kórház és a Szigetvári Kórház (a továbbiakban együtt: Kórház) fenntartói jogát az Egyetem tulajdonába kell adni.
+
+6/B. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 2. melléklet 80–96. sorában szereplő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+
+(2) Az (1) bekezdésben meghatározott ingatlanok tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(3) Az (1) és (2) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg a közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek – ideértve a rendelkezésre álló, és a Kórház vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak tulajdonjogát – az általános jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
+
+6/C. § A Kórház költségvetési jogállása a 6/A. § szerinti átadás hatálybalépésével megszűnik, és az Egyetem klinikai központja részeként működik tovább. A Kórház általános jogutódja az Egyetem.
+
+6/D. § A 6/B. § (1) bekezdése szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést – a 2. melléklet 96. sorában szereplő ingatlan kivételével – a tulajdonosi joggyakorló és a Kórház köti meg az Egyetemmel. A 2. melléklet 96. sorában szereplő ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezet készíti elő és köti meg az Egyetemmel.
+
+6/E. § A 6/B. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+6/F. § A Kórház európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Kórház jogutódja az Egyetem. A projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
 
 7. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – az Egyetem közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – a PTE Politechnika Kutató, Fejlesztő és Tervező Korlátolt Felelősségű Társaság, valamint a PÉCSI TUDÁSKÖZPONT Korlátolt Felelősségű Társaság – az állam tulajdonában álló – üzletrészeit ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az Egyetem első alkalommal a 2021. év után járó osztalékra jogosult.
 
 (2) Az (1) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától az (1) bekezdésben meghatározott társaságok felett a tulajdonosi jogokat gyakorolja.
 
 (3) Az (1) bekezdésben foglalt üzletrészek elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Egyetem közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
+
+(4) Az Egyetem jogutód nélküli megszűnése esetén az (1) bekezdés szerinti vagyonelemek tulajdonjoga az államra száll vissza.
+
+7/A. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – az Egyetem közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – a Siklósi Kórház Nonprofit Kft.-nek az állam tulajdonában álló üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az Egyetem első alkalommal a 2023. év után járó osztalékra jogosult.
+
+(2) Az (1) bekezdésben meghatározott intézkedések végrehajtása során a miniszter jár el, aki az (1) bekezdés szerinti gazdasági társaság felett 2023. július 1-jétől gyakorolja a tulajdonosi jogokat.
+
+(3) Az (1) bekezdésben foglalt üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Egyetem közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
 (4) Az Egyetem jogutód nélküli megszűnése esetén az (1) bekezdés szerinti vagyonelemek tulajdonjoga az államra száll vissza.
 
@@ -70,7 +94,13 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 
 (2) Az 1. § (4) bekezdése, a 2–8. §, a 11. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-10. § (1) Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. § (2) bekezdése, a 7. § (1), (3) és (4) bekezdése, a 8. §, 8/A. §, a 11. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+9/A. § Az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú törvények módosításáról szóló 2023. évi XIX. törvénnyel megállapított 6/A–6/F. § és 7/A. § szerinti jogutódlással az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § b) pontja szerinti egészségügyben dolgozó – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (3) bekezdés b) pontjában meghatározott – egészségügyi szolgálati jogviszonya e törvény erejénél fogva, 2023. július 1-jei hatállyal – ideértve a határozott idejű jogviszonyt is – a munka törvénykönyve szerinti munkaviszonnyá alakul át. Az átalakulás során létrejövő munkaviszony tekintetében próbaidő nem köthető ki, és a jogviszonyt folyamatosnak kell tekinteni. A jogviszony átalakulása
+
+- a) nem szakítja meg az egészségügyi szolgálati jogviszonnyal kapcsolatos igények elévülését,
+- b) nem érinti az e § szerinti időpontban hatályban lévő határozott idejű áthelyezést,
+- c) nem érinti a jogviszony időtartamát, valamint a munkaidő mértékét.
+
+10. § (1) Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. § (2) bekezdése, a 6/A. §, a 6/B. §, a 7. § (1), (3) és (4) bekezdése, a 7/A. §, a 8. §, 8/A. §, a 11. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 6. § (1) bekezdése az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
 
@@ -204,3 +234,20 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 | 77. | SZOMBATHELY | 5622 | 1/1 | kivett kollégium |
 | 78. | ZALAEGERSZEG | 4983/2 | 1/1 | kivett egyetem |
 | 79. | ZALAEGERSZEG | 4983/34 | 1/1 | kivett iskola |
+| 80. | KOMLÓ | 0642/2 | 1/1 | kivett vízmű |
+| 81. | KOMLÓ | 954 | 1/1 | kivett lakóház, udvar |
+| 82. | KOMLÓ | 955 | 1/1 | kivett kórház |
+| 83. | KOMLÓ | 956/5 | 4/10 | kivett garázssor |
+| 84. | KOMLÓ | 956/7 | 1/1 | kivett beépítetlen terület |
+| 85. | KOMLÓ | 956/8 | 1/1 | kivett kórház |
+| 86. | KOMLÓ | 956/11 | 1/1 | kivett közterület |
+| 87. | KOMLÓ | 956/12 | 1/1 | kivett út |
+| 88. | KOMLÓ | 5930 | 1/1 | kivett üdülőépület, udvar |
+| 89. | MOHÁCS | 588 | 1/1 | kivett kórház |
+| 90. | MOHÁCS | 592 | 1/1 | kivett kórház |
+| 91. | MOHÁCS | 679/14 | 1/1 | kivett épület, udvar |
+| 92. | SZIGETVÁR | 1785/12 | 1/1 | kivett beépítetlen terület |
+| 93. | SZIGETVÁR | 1785/13 | 1/1 | kivett kórház |
+| 94. | SZIGETVÁR | 1785/15 | 1/1 | kivett parkoló |
+| 95. | SIKLÓS | 1091 | – | Kivett kórház |
+| 96. | HARKÁNY | 2458/A/2 | 1/1 | egészségügyi egység |

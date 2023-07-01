@@ -157,7 +157,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - 8. kedvezményezett eszközátruházás: a Tao. tv. 4. § 23/b. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 9. kedvezményezett részesedéscsere: a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 10. kőolajtermék: a jövedéki adóról szóló törvény szerinti, üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálásra, értékesítésre vagy felhasználásra szánt benzin, petróleum, gázolaj, fűtőolaj és LPG;
-- 11. közszolgáltató: 11.1. a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató, 11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató, 11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatást végző közszolgáltató.
+- 11. közszolgáltató: 11.1. a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató, 11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató, 11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenységet végző gazdálkodó szervezet.
 - 12. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére.
 
 ### III. Fejezet — AZ ÁRKÉPZÉS ÁTLÁTHATÓSÁGÁNAK ÉRDEKÉBEN SZÜKSÉGES TÖRVÉNYMÓDOSÍTÁSOK

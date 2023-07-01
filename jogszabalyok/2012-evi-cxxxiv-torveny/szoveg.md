@@ -234,15 +234,17 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 
 ### 5. CÍM — A Hatóság közreműködése az egészségvédelmet érintő feladatokban
 
-10/C. § A Hatóság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
+10/C. § (1) A Hatóság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
 
 - a) médiakampány szervezése, lebonyolítása, szakmai támogatása,
 - b) közösségi megjelenés,
 - c) sportrendezvényeken történő megjelenés,
-- d) a leszokást elősegítő szervekkel, egészségügyi intézményekkel történő együttműködés és
+- d) a leszokást elősegítő szervezetekkel, egészségügyi intézményekkel történő együttműködés és
 - e) egészségvédelmi programokban történő részvétel
 
 útján.
+
+(2) A Hatóság a dohányzásról való leszokást támogató egészségvédelmi tájékoztatót készít, amelyet a dohánytermék-kiskereskedő választása szerint papír alapon megküld, illetve elektronikus úton elérhetővé tesz a dohánytermék-kiskereskedő részére.
 
 ### III. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEM FOLYTATÁSA
 
@@ -511,7 +513,7 @@ fogadhatja el.
 
 (7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
 
-16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást megadni.
+16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást, tájékoztatást megadni és a Hatóság által a 10/C. §-ban foglalt feladatainak ellátása kapcsán megküldött aktuális tájékoztatót – a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló rendeletében meghatározott módon – a dohányboltban, valamint az elkülönített helyen kihelyezni, vagy elektronikus eszköz útján megjeleníteni.
 
 ### 7. CÍM — A dohánytermékek árusításával feljogosított személyekre vonatkozó különös rendelkezések
 

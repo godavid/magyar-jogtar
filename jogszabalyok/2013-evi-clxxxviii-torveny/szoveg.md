@@ -4,7 +4,7 @@ az egységes közszolgáltatói számlaképről
 
 Az Országgyűlés – összhangban az Alaptörvény fogyasztók érdekeit védő rendelkezéseivel – a közüzemi szolgáltatási területeken való egységes, érthető és átlátható számlakép megteremtése érdekében, figyelemmel a rezsicsökkentési törekvésekre és szabályozásokra, a villamos energia és a földgáz egyetemes szolgáltató, a villamos energia és földgázelosztó, a távhőszolgáltató, a víziközmű-szolgáltató, a hulladékgazdálkodási és a kéményseprő-ipari közszolgáltató által kibocsátott számlák számlaképének formai és tartalmi meghatározására az alábbi törvényt alkotja:
 
-1. § Ez a törvény a villamos energia és a földgáz egyetemes szolgáltató, valamint a villamos energia és földgázelosztó által az egyetemes szolgáltatásra jogosult felhasználók, a távhőszolgáltató, a víziközmű-szolgáltató és a hulladékgazdálkodási közszolgáltató (a továbbiakban együtt: szolgáltató) által a felhasználók részére kibocsátott, szolgáltatási díjat tartalmazó számla számlaképére (a továbbiakban: számlakép) vonatkozó tartalmi és formai követelményeket határozza meg.
+1. § Ez a törvény a villamos energia és a földgáz egyetemes szolgáltató, valamint a villamos energia és földgázelosztó által az egyetemes szolgáltatásra jogosult felhasználók, a távhőszolgáltató, a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó szolgáltató (a továbbiakban: hulladékgazdálkodási közszolgáltató), a víziközmű-szolgáltató (a továbbiakban együtt: szolgáltató) által a felhasználók részére kibocsátott, szolgáltatási díjat tartalmazó számla számlaképére (a továbbiakban: számlakép) vonatkozó tartalmi és formai követelményeket határozza meg.
 
 2. § (1) Ha az egyetemes szolgáltatásra jogosult felhasználó hálózathasználati és villamosenergia-vásárlási szerződését a villamos energia egyetemes szolgáltató megbízottként, összevontan kezeli, akkor a villamos energia egyetemes szolgáltató által alkalmazható számlaképre vonatkozó részletes előírásokat
 
@@ -74,7 +74,7 @@ szerepelteti.
 - b) földgázszolgáltatás esetében a #FF8C00 kódszámú (pantone 151; darkorange),
 - c) távhőszolgáltatás esetében a #DDA0DD kódszámú (pantone 251; plum),
 - d) a víziközmű-szolgáltatás esetében #00FFFF kódszámú (pantone 297; aqua),
-- e) hulladékgazdálkodási közszolgáltatás esetében #32CD32 kódszámú (pantone 802 2x; limegreen),
+- e) hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység (a továbbiakban: hulladékgazdálkodási közszolgáltatás) esetében #32CD32 kódszámú (pantone 802 2x; limegreen),
 - f)
 
 színárnyalatot kell használni.
@@ -119,7 +119,9 @@ számlát (a továbbiakban: akadálymentes számla) – az eredeti számlával a
 
 (2)–(6)
 
-#### 16–17. §
+#### 16. §
+
+#### 17. §
 
 18. § (1)
 
@@ -143,7 +145,7 @@ számlát (a továbbiakban: akadálymentes számla) – az eredeti számlával a
 | Bankszámlaszáma: |  |
 |  |  |
 
-„”
+„
 
 3. A részszámla harmadik oldala: „oldalszám
 
@@ -1128,7 +1130,7 @@ Tájékoztató adatok:
 - 4.3. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
 - 4.4. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
 - 4.5 Edénybérleti díj: amennyiben a kiállított számla vonatkozásában értelmezhető.
-- 4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolt időszakban: a hatályos árképzésből eredő megtakarítás a 2013. június 30-án hatályos árképzéshez képest (a 2013. július 1-jét követően elszámolt összes díj a 2013. június 30-án hatályos árképzése alapján számított ellenértékének bruttó értéke és a 2013. július 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve). Társasház vagy lakásszövetkezet esetében a megtakarítás összegét a hulladékról szóló törvény 91. § (3) bekezdésében foglalt tájékoztatási kötelezettség teljesítésére figyelemmel kell meghatározni.
+- 4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolt időszakban: a hatályos árképzésből eredő megtakarítás a 2013. június 30-án hatályos árképzéshez képest (a 2013. július 1-jét követően elszámolt összes díj a 2013. június 30-án hatályos árképzése alapján számított ellenértékének bruttó értéke és a 2013. július 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve). Társasház vagy lakásszövetkezet esetében a megtakarítás összegét a hulladékról szóló 2012. évi CLXXXV. törvény 91. § (3) bekezdésében foglalt tájékoztatási kötelezettség teljesítésére figyelemmel kell meghatározni. Hulladékgazdálkodási közszolgáltatás esetén a 2023. július 1-jét megelőző időszak vonatkozásában felhalmozott összeget a 2023. július 1-jei záródátum szerint kell figyelembe venni.
 - 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. július 1-je óta összesen: 2013. július 1-jét követően a 4.6. pont alapján számított megtakarítások összesen.
 - 4.8. Tétel megnevezése a harmadik oldalon: Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható.
 - 4.9. Teljesítés kelte: Az általános forgalmi adóról szóló törvény rendelkezései alapján nem kell feltüntetni, ha az megegyezik a számla kibocsátásának keltével.

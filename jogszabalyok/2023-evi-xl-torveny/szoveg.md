@@ -130,9 +130,7 @@ lép.
 
 #### 29. §
 
-30. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 24. §-a a következő (3d) bekezdéssel egészül ki:
-
-„(3d) A nyilvántartó a 9. § (1), (2) és (4) bekezdésben, a 9/A. § (1) bekezdés e) pontjában, valamint a 9/B. § (1) bekezdés h) pontjában meghatározott adatok térítésmentes, informatikai adatkapcsolat útján történő közvetlen átadását biztosítja a jármű tulajdonjogának és az üzembentartó személyének változását igazoló teljes bizonyító erejű magánokirat Automatikus Közigazgatási Döntéshozatali szolgáltatás igénybevételével történő létrehozásához szükséges ellenőrzéséhez és az automatikus döntéshozatali eljárás lefolytatásához.”
+#### 30. §
 
 #### 31. §
 
@@ -279,11 +277,7 @@ lép.
 
 #### 15. A Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény módosítása
 
-83. § Nem lép hatályba a Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény
-
-- a) 89. §-a,
-- b) 90. § 1–12. pontja,
-- c) 90. § 14–16. pontja.
+#### 83. §
 
 #### 16. Záró rendelkezések
 

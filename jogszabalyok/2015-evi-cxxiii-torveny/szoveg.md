@@ -60,7 +60,7 @@ a következő törvényt alkotja:
 - a) a háziorvosi, házi gyermekorvosi ellátásról,
 - b) a fogorvosi alapellátásról,
 - c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról, valamint Budapest területén az alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról, és
-- d) a védőnői ellátásról, és
+- d)
 - e) az iskola-egészségügyi ellátásról.
 
 (2) Az alapellátás nyújtását érintő jogviszony megváltoztatásáról szóló döntésének meghozatala során a települési önkormányzat kikéri az alapellátást végző orvos, illetve védőnő véleményét.
@@ -76,6 +76,15 @@ a következő törvényt alkotja:
 (4) Nem kell alkalmazni a települési önkormányzatnak a körzethatárok megállapításáról szóló rendeletét, ha a praxiskezelő az egészségügyi alapellátási körzetet az (1) bekezdés szerint kialakította.
 
 6/A. § Az állami mentőszolgálat gondoskodik – az 5. § (1) bekezdés c) pontjában foglalt kivétellel – az egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról.
+
+6/B. § (1) Az állam az egészségügyi alapellátás körében – a települési önkormányzattal együttműködésben – gondoskodik a védőnői ellátásról.
+
+(2) A védőnői ellátás biztosításáért a Kormány által rendeletben kijelölt állami intézményfenntartó szerv – az irányító vármegyei intézmény útján – felelős azzal, hogy
+
+- a) az ellátás jogszabályban előírt tárgyi feltételeit az állam a települési önkormányzattal kötött megállapodás útján is biztosíthatja, és
+- b) a Kormány által rendeletben kijelölt állami intézményfenntartó szerv a települési önkormányzat részére tájékoztatásul megküldi a védőnői ellátás megszervezésével összefüggő, a személyi és a tárgyi feltételek biztosítására vonatkozó döntéseket.
+
+6/C. § Az egészségbiztosítási szerv a közfinanszírozott egészségügyi alapellátási szolgálat finanszírozási szerződésének egyedi adatait, továbbá a szolgálat díjazását meghatározó adatait havonta megküldi a praxiskezelő részére.
 
 #### 4. Nyilvántartás vezetése az egészségügyi alapellátásról
 

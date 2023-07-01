@@ -31,7 +31,7 @@ a következő törvényt alkotja:
 
 (4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – az (5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
 
-(5) A (4) bekezdés nem zárja ki – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
+(5) A (4) bekezdés nem zárja ki szakképzési munkaszerződés megkötését, továbbá – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
 
 (5a) A kormányzati igazgatási szervként működő egészségügyi szolgáltatónál kormányzati szolgálati jogviszonyban is lehet egészségügyi tevékenységet végezni.
 
@@ -113,7 +113,7 @@ a következő törvényt alkotja:
 
 #### 4. § [Összeférhetetlenség]
 
-(1) Az egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység) kivételével – kizárólag a Kormány által kijelölt szerv előzetes engedélyével létesíthet.
+(1) Az egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, illetve az ugyanazzal az egészségügyi szolgáltatóval kötött szakképzési munkaszerződés alapján létrejött jogviszony (a továbbiakban együtt: gyakorolható tevékenység) kivételével – kizárólag a Kormány által kijelölt szerv előzetes engedélyével létesíthet.
 
 (2) Az egészségügyi szolgálati jogviszonyban álló személy az őt foglalkoztató egészségügyi szolgáltató székhelyén vagy telephelyén kizárólag a Kormány által kijelölt szerv előzetes engedélyével végezhet olyan egészségügyi tevékenységet, amire az egészségügyi szolgálati jogviszonya nem terjed ki. Az előzetes engedély kizárólag a Kormány rendeletében meghatározott szakmában történő tevékenységvégzésre adható meg.
 
@@ -191,7 +191,9 @@ pótszabadság illeti meg.
 
 (2) A 8. § (3) és (6) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy minősítését a munkáltató évente legalább egyszer elvégzi.
 
-(3) A (2) bekezdés szerinti minősítés alapján az egészségügyi szolgálati jogviszonyban álló személy illetménye az adott fizetési fokozathoz tartozó összeghez képest legfeljebb 20%-kal növelhető.
+(3) A (2) bekezdés szerinti minősítés alapján, az adott fizetési fokozathoz tartozó összeghez képest a 8. § (3) és (6) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy illetménye 40%-kal növelhető.
+
+(3a) A (2) bekezdés szerinti minősítés alapján a 8. § (3) és (6) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy illetménye – a 8. § (2) és (3) bekezdésétől és az Eütev. 11/A. § (4)–(6b) bekezdésétől eltérően – az adott fizetési fokozathoz tartozó összeghez képest legfeljebb 20%-kal csökkenthető.
 
 (4) A 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy minősítésének részletes szabályait a Kormány rendeletben határozza meg.
 
@@ -432,7 +434,7 @@ E törvény alkalmazásában
 
 - a) az egészségügyi szolgálati jogviszony létesítésének e törvényben foglaltakon túli további feltételeit,
 - b) az egészségügyi szolgálati munkaszerződés tartalmi elemeit,
-- c) az egészségügyi szolgálati jogviszonyban álló személy minősítésének szabályait,
+- c) az egészségügyi szolgálati jogviszonyban álló személy minősítésének szabályait, és a minősítés alapján alkalmazható illetménycsökkentés részletes feltételeit,
 - d) az egyes fizetési fokozatokhoz tartozó illetmény felső összegét és az egészségügyi szolgáltató vezetője illetményének felső összegét,
 - e) a fizetési fokozatok közötti előrelépéshez kapcsolódó várakozási idővel összefüggő szabályokat,
 - f) az önként vállalt többletmunkáért járó díjazás megállapítása során figyelembe veendő szempontokat és az önként vállalt többletmunkáért járó díjazás lehetséges mértékét,
