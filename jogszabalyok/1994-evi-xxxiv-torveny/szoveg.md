@@ -239,6 +239,8 @@ foglalkoztatott.
 - b) a rendelkezésre álló erőkkel és eszközökkel közreműködhet a büntetőeljárásról szóló törvényben meghatározott leplezett eszközök (a továbbiakban: leplezett eszközök) alkalmazásának végrehajtásában, illetve
 - c) közreműködhet eljárási cselekmény végrehajtásában.
 
+(5) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv lefolytatja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott előzetes véleményalkotási eljárást.
+
 ### Megbízhatósági vizsgálat
 
 7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali, illetve jogszabályban, kollektív szerződésben, üzemi megállapodásban, valamint munkaszerződésben előírt munkaköri kötelezettségének. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
@@ -272,7 +274,7 @@ foglalkoztatott.
 
 (3) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat során a (2) bekezdés szerinti bűncselekményt, szabálysértést vagy közigazgatási bírsággal sújtandó szabályszegést akkor követhet el, ha megalapozottan feltehető, hogy az a 7/A. § (1) bekezdésében foglaltak ellenőrzésére alkalmas, valamint az a 7/A. § (1) bekezdésében foglaltak ellenőrzéséhez elengedhetetlenül szükséges.
 
-(4) A 7/A. § (2) bekezdése alkalmazása során a 15. §-ban meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
+(4) A (2) bekezdés alkalmazása során a 15. §-ban meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
 
 (5) A megbízhatósági vizsgálat célja szempontjából érdektelen adatot, valamint az ügyben nem érintett személy adatait a rögzítést követő 3 napon belül törölni kell.
 
@@ -1425,7 +1427,7 @@ szükségesek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-(3) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
+(3) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
 
 (4) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
@@ -2185,6 +2187,8 @@ részére.
 
 (3) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálat során keletkezett adataiba betekinthet, felvilágosítást vagy értesítést kérhet – a 91/D. §-ban meghatározottakon túl – a vizsgálattal érintett foglalkoztatását végző szerv vezetője a munkáltatói jogkörébe tartozó feladatai ellátása céljából.
 
+(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a 7. § (5) bekezdése szerinti előzetes véleményalkotási eljárás során a személyügyi alapnyilvántartásba és az annak alapjául szolgáló iratokba tekinthet be. Az előzetes véleményalkotási eljárás lefolytatását követően a keletkezett adatokat törölni kell.
+
 ### A terrorizmust elhárító szerv adatkezelése
 
 91/T. § A terrorizmust elhárító szerv kezeli azokat az adatokat, amelyek a 7/E. § szerint meghatározott feladatai ellátásához – megelőzési, felderítési, felszámolási, személyvédelmi célból – szükségesek.
@@ -2320,7 +2324,7 @@ bírálja el.
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
-  - aa) az elővezetés és a kísérés végrehajtásával kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait, továbbá
+  - aa) a kísérés, az előállítás és az elővezetés végrehajtásával kapcsolatban felmerült költségek egyes tételeit, azok mértékét, valamint a költségek elrendelő szerv részére történő igazolásának részletes szabályait, továbbá
   - ab) az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről szóló törvényben meghatározott szakértői vizsgálat biztonságos és eredményes végrehajtásának biztosítása céljából történő rendőri közreműködés nyomán felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
 - b) a honvédelemért felelős miniszterrel egyetértésben rendeletben állapítsa meg a katonai alakulatok és szállítmányok államhatáron történő átléptetésének rendjét,
 - c) a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben jelölje ki azokat a vasútvonalakat és vízi utakat, amelyeken a menet közbeni ellenőrzés végezhető,

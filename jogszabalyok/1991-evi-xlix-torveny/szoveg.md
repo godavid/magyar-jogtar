@@ -457,7 +457,7 @@ kapcsolatosak.
 (2) A csődeljárás elrendeléséről szóló, közzétételre kerülő végzésnek tartalmaznia kell
 
 - a) az adós nevét, székhelyét, cégjegyzékszámát, adószámát,
-- b) a bíróság által kirendelt vagyonfelügyelő nevét, székhelyét,
+- b) a bíróság által kirendelt vagyonfelügyelő nevét, székhelyét, elektronikus levelezési címét,
 - c) a bíróság nevét és az ügy számát,
 - d) utalást arra, hogy a csődeljárás kezdő időpontja a végzés Cégközlöny honlapján történő közzétételének napja,
 - e) azt, hogy a végzés közzétételétől az adóst fizetési moratórium illeti meg a vele szemben a fizetési haladék kezdő időpontját megelőzően, vagy az azt követően esedékessé váló pénzkövetelések vonatkozásában,
@@ -1123,8 +1123,8 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 - c) a felszámolási eljárás megindítására irányuló kérelem benyújtásának időpontját,
 - d) azt, ha a felszámolási eljárást csődeljárás előzte meg;
 - e) utalást arra, hogy a felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés Cégközlöny honlapján történő közzétételének napja,
-- f) a hitelezőknek [ideértve a zálogjogosultat, az alzálogjog jogosultját, továbbá a zálogjogosulti bizományost is – ez utóbbit abban az esetben is, ha a biztosított követelés nem, vagy nemcsak őt illeti meg – valamint a biztosítéki célú vételi jog alapításával, illetve jog vagy követelés biztosítéki célú átruházásával érintett, a hitelbiztosítéki nyilvántartásba vagy ingatlan-nyilvántartásba bejegyzett jogosultakat, továbbá a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
-- g) a felszámoló nevét, székhelyét, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét, vagy a személyiadat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;
+- f) a hitelezőknek [ideértve a zálogjogosultat, az alzálogjog jogosultját, továbbá a zálogjogosulti bizományost is – ez utóbbit abban az esetben is, ha a biztosított követelés nem, vagy nem csak őt illeti meg – valamint a biztosítéki célú vételi jog alapításával, illetve jog vagy követelés biztosítéki célú átruházásával érintett, a hitelbiztosítéki nyilvántartásba vagy ingatlan-nyilvántartásba bejegyzett jogosultakat, továbbá a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be, továbbá a hitelezői követelések bejelentésére irányuló jogvesztő határidőre vonatkozó tájékoztatást;
+- g) a felszámoló nevét, székhelyét, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét, adószámát, elektronikus levelezési címét, valamint a felszámolóbiztos nevét, anyja születési nevét, nyilvántartási számát, fizetésképtelenségi szakértői igazolvány számát, valamint elektronikus levelezési címét;
 - h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát és a 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számla számát;
 - i) ha az adós egyszemélyes társaság, az alapítója (tagja, részvényese) nevét és lakóhelyét (székhelyét);
 - j) az egyéb lényeges körülményeket.

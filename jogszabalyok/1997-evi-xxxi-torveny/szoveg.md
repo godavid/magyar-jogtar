@@ -1296,6 +1296,8 @@ vezeti.
 
 (3) Bölcsődei ellátás keretében a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek nevelése és gondozása is végezhető.
 
+(3a) A sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátása történhet a többi gyermekkel közös bölcsődei csoportban vagy speciális bölcsődei csoportban.
+
 (4) A bölcsődei ellátás keretében az (1) bekezdés szerinti ellátáson túl – szolgáltatásként – speciális tanácsadás, időszakos gyermekfelügyelet, gyermekhotel működtetése vagy más gyermeknevelést segítő szolgáltatás is biztosítható. Ezeket a szolgáltatásokat a gyermek hatodik életévének betöltéséig lehet igénybe venni.
 
 (5) A bölcsődei nevelési év szeptember 1-jétől a következő év augusztus 31-éig tart.
@@ -1592,7 +1594,7 @@ feltéve, ha a működtető rendelkezik az ehhez szükséges – jogszabályban 
 
 (9) Titkos menedékházként kizárólag a családok átmeneti otthona működhet.
 
-(10) A titkos menedékház befogadja a kapcsolati erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
+(10) A titkos menedékház befogadja a hozzátartozók közötti erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
 
 (11) A titkos menedékház a (10) bekezdésben foglalt személy számára
 
@@ -3151,7 +3153,13 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (6) A települési önkormányzat és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekjóléti és gyermekvédelmi feladatainak ellátásáról minden év május 31-éig – a külön jogszabályban meghatározott tartalommal – átfogó értékelést készít. Az értékelést – települési önkormányzat esetén a képviselő-testület általi megtárgyalást követően – meg kell küldeni a gyámhatóságnak. A gyámhatóság az értékelés kézhezvételétől számított harminc napon belül javaslattal élhet a települési önkormányzat, illetve az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv felé, amely hatvan napon belül érdemben megvizsgálja a gyámhatóság javaslatait és állásfoglalásáról, intézkedéséről tájékoztatja.
 
-(7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a gyermek- és ifjúságpolitikáért felelős miniszter által kijelölt szervezet, egyéb esetben a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
+(7) A jogszabályban meghatározott szakmai, módszertani feladatokat
+
+- a) gyermekek napközbeni ellátása esetén a gyermek- és ifjúságpolitikáért felelős miniszter által kijelölt szervezet,
+- b) a hozzátartozók közötti erőszak elleni fellépéssel összefüggésben a családpolitikáért felelős miniszter által kijelölt szervezet, illetve
+- c) az a) és b) pont alá nem tartozó esetben a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv
+
+[az a)–c) pontban foglaltak a továbbiakban együtt: módszertani feladatokat ellátó szerv] látja el.
 
 (8) Az egyházi fenntartó kérelmére
 
@@ -3173,6 +3181,18 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 (11) A kijelölt egyházi módszertani intézmény módszertani tevékenységének biztosítása során együttműködik a módszertani feladatokat ellátó szervvel.
 
 (12) A miniszter – tanoda szolgáltatás esetén a társadalmi felzárkózásért felelős miniszter – a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
+
+(12a) A családpolitikáért felelős miniszter a (7) bekezdés b) pontja alapján kijelölt szervezet feladatainak ellátásához egyedi támogatást nyújt.
+
+(12b) A (7) bekezdés b) pontja alapján kijelölt szervezet feladatkörében
+
+- a) szakmai szempontból monitorozza a hozzátartozók közötti erőszak áldozatait segítő ellátórendszert,
+- b) szakmai iránymutatásokat, ajánlásokat és útmutatókat fogalmaz meg,
+- c) szolgáltatásfejlesztéssel kapcsolatos javaslatot fogalmaz meg,
+- d) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszer működésével kapcsolatban statisztikát vezet,
+- e) a hozzátartozók közötti erőszak tárgyában és az áldozatokat segítő ellátórendszer működésével kapcsolatban kutatásokat folytat,
+- f) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszerben dolgozók számára továbbképzést és tapasztalatcserét biztosít, valamint
+- g) szakmai tanácsadást nyújt.
 
 (13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha az egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
 

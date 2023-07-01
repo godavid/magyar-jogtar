@@ -244,7 +244,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
-(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott, e törvény alapján fennálló fizetési kötelezettségének teljesítésére szolgáló célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
+(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott, e törvény alapján fennálló fizetési kötelezettségének teljesítésére szolgáló „Igazságügyi miniszter feladatkörébe tartozó jogszabályok alapján teljesítendő fizetési kötelezettségek” elnevezésű előirányzat (a továbbiakban: előirányzat) javára megfizetni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb tizenkét hónap halasztást vagy részletfizetést engedélyezhet.
 
@@ -283,13 +283,15 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Illeték-, díj- és költségmentesség
 
-17. § Az áldozatsegítő eljárások illeték- és díjmentesek. A magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló ügyfél helyett a fordítás és tolmácsolás költségét a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
+17. § Az áldozatsegítő eljárások illeték- és díjmentesek. A magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló ügyfél helyett a fordítás és tolmácsolás költségét az előirányzat terhére az áldozatsegítő szolgálat viseli.
 
-18. § Az áldozatsegítő szolgálat 40. § szerinti eljárása során, a nyomtatvány kitöltésével kapcsolatban felmerülő fordítás költségét az adott tagállam döntő hatósága előtti eljárásban használható nyelvet nem ismerő ügyfél helyett a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
+18. § Az áldozatsegítő szolgálat 40. § szerinti eljárása során, a nyomtatvány kitöltésével kapcsolatban felmerülő fordítás költségét az adott tagállam döntő hatósága előtti eljárásban használható nyelvet nem ismerő ügyfél helyett az előirányzat terhére az áldozatsegítő szolgálat viseli.
 
-### A pénzbeli támogatás fedezete
+### A pénzbeli támogatás fedezete és az előirányzat felhasználása
 
-19. § Az áldozat részére az azonnali pénzügyi segélyt, illetve a kárenyhítést a célelőirányzat terhére kell kifizetni.
+19. § Az áldozat részére az azonnali pénzügyi segélyt, illetve a kárenyhítést az előirányzat terhére kell kifizetni.
+
+19/A. § Az áldozatsegítéssel kapcsolatos állami feladatok ellátását biztosító áldozatsegítő rendszer fejlesztésével, valamint az országosan egységes informatikai rendszerrel összefüggésben felmerülő költségeket az előirányzat terhére az áldozatsegítő szolgálat viseli.
 
 ### Egyéb eljárási szabályok
 
@@ -297,7 +299,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (2) Az eljárás irataiba a 16. § (4) és (5) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
-(3)
+(3) Gyermekkorúnak kell tekinteni az áldozatot, ha az életkora nem állapítható meg és okkal feltételezhető, hogy a tizennyolcadik életévét még nem töltötte be.
 
 (4)
 
@@ -310,6 +312,10 @@ meghatározott feltételek vizsgálatát kell érteni.
 22. § (1)
 
 (2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény, illetve a tulajdon elleni szabálysértés elkövetését követő nyolc napon belül lehet előterjeszteni.
+
+(3) Ha a kérelmező igazolja, hogy az azonnali pénzügyi segély iránti kérelem előterjesztése elháríthatatlan akadályba ütközik, akkor a (2) bekezdésben meghatározott határidőt az akadály megszűnésétől kell számítani.
+
+(4) A bűncselekmény, illetve a tulajdon elleni szabálysértés elkövetésétől számított hat hónap eltelte után az azonnali pénzügyi segély iránti kérelem előterjesztésének nincs helye.
 
 ### Elintézési határidő
 
@@ -374,7 +380,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 26/B. § (1) Az áldozatsegítő szolgálat az áldozat szükségleteinek felmérését követően érzelmi segítséget nyújt az azt igénylő áldozat számára.
 
-(2) Az érzelmi segítség célja az áldozat lelki egyensúlyi állapotának kialakítása. Kiterjed a bűncselekmény, illetve a tulajdon elleni szabálysértés következményeként kialakult feszültség csökkentésére, az érzelmi biztonság légkörének megteremtésére, a jelentkező feszültség vagy negatív érzelmek kiadásának, levezetésének biztosítására, a probléma tárgyilagos megfogalmazására, a valóság elfogadtatására, a megoldáshoz vezető lépések közös megkeresésére és az áldozat ezek irányába történő elmozdítására.
+(2) Az érzelmi segítség célja az áldozat lelki egyensúlyi állapotának kialakítása. Kiterjed a bűncselekmény, illetve a tulajdon elleni szabálysértés következményeként kialakult feszültség csökkentésére, az áldozat kérelmére a krízishelyzet orvoslása érdekében biztosított pszichológiai szolgáltatásra, az érzelmi biztonság légkörének megteremtésére, a jelentkező feszültség vagy negatív érzelmek kiadásának, levezetésének biztosítására, a probléma tárgyilagos megfogalmazására, a valóság elfogadtatására, a megoldáshoz vezető lépések közös megkeresésére és az áldozat ezek irányába történő elmozdítására.
 
 (3) Érzelmi segítség egyéni és csoportos formában is nyújtható.
 
@@ -565,7 +571,7 @@ lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektroniku
 
 - a) jelölje ki az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat,
 - b) állapítsa meg az e törvény szerinti szolgáltatások engedélyezése iránti eljárás, a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályait és
-- c) állapítsa meg az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait.
+- c) állapítsa meg az emberkereskedelem áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait.
 
 (2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -592,6 +598,8 @@ lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektroniku
 (6) Ez a törvény a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i EU 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikkének való megfelelést szolgálja.
 
 (7) Ez a törvény a készpénz-helyettesítő fizetési eszközzel elkövetett csalás és a készpénz-helyettesítő fizetési eszközök hamisítása elleni küzdelemről, valamint a 2001/413/IB tanácsi kerethatározat felváltásáról szóló, 2019. április 17-i (EU) 2019/713 európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
+
+(8) E törvény 20. § (3) bekezdése a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 18. cikk (3) bekezdésének való megfelelést szolgálja.
 
 48. § (1)–(6)
 

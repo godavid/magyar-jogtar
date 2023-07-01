@@ -484,7 +484,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
-- n) a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) részére az Nytv. 24/L. §-ában meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
+- n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítására a Kormány által kijelölt jogi személy részére az Nytv.-ben meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
@@ -513,32 +513,31 @@ változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
 - a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a hadköteles korba lépő polgárok, a magyar állampolgárságot megszerző, magyarországi lakóhellyel rendelkező polgárok, valamint a külföldről hazatérő magyar állampolgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, lakóhelyéről, tartózkodási helyéről, családi állapotáról, személyi azonosítójáról, valamint a hadköteles nyilvántartásban lévő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról vagy külföldön történő letelepedésről;
-- b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
+- b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, külföldön történő letelepedéséről, továbbá a bevándorolt és a letelepedett polgár családi állapotának változásáról;
 - c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 - d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
 - e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
 - f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szervnek a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 - g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
-(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek,
+(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek –
 
 - a) az (1) bekezdés a) pontja szerinti állami adóhatóság,
 - b) az (1) bekezdés b) pontja szerinti egészségbiztosítási nyilvántartást vezető Nemzeti Egészségbiztosítási Alapkezelő,
-- c) az (1) bekezdés d) pontja szerinti TAJ nyilvántartást vezető kincstár,
+- c) az (1) bekezdés d) pontja szerinti TAJ-nyilvántartást vezető kincstár,
 - d) az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv,
-- e) az (1) bekezdés j) pontja szerinti az oktatási nyilvántartás működéséért felelős szerv,
+- e) az (1) bekezdés j) pontja szerinti, az oktatási nyilvántartás működéséért felelős szerv,
 - f) az (1) bekezdés l) pontja szerinti Központi Statisztikai Hivatal,
 - g) a (2) bekezdés a) pontja szerinti Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
 - h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv, valamint kizárólag az érintett elhalálozása, vagy a nyilvántartásból történő kikerülésének egyéb oka, és időpontja adatok vonatkozásában a közúti közlekedési nyilvántartásról szóló törvény szerinti engedély-nyilvántartást vezető szerv,
 - i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
 - j) az (1) bekezdés k) pontja szerinti kincstár,
 - k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
-- l) az (1) bekezdés n) pontja szerinti SZIN Nonprofit Kft.,
-- l) a (2) bekezdés h) pontja szerinti ingatlan-nyilvántartás és földhasználati nyilvántartás szervei,
-- m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartást vezető szerv,
+- l) az (1) bekezdés n) pontja szerinti, a Kormány által a Program megvalósítására kijelölt jogi személy,
+- m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásokról szóló törvény szerinti nyilvántartását vezető szerv,
 - n) a (2) bekezdés f) pontja szerinti gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv
 
-kivételével, az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
+kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
 
 ### VI. Fejezet — A személyazonosító jel kezelésére, továbbítására vonatkozó átmeneti rendelkezések
 

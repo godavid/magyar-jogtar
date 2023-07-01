@@ -2,11 +2,14 @@
 
 egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról
 
-1. § (1) Ha a települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátását a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 33–34. §-ában foglaltak szerint nem biztosítja vagy a hulladékgazdálkodási közszolgáltatás a Ht. 33–34. §-ában meghatározott eljárás eredménytelensége miatt nem biztosítható, a Ht. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
+1. § (1) Ha a koncesszor az állami hulladékgazdálkodási közfeladat ellátását a hulladékról szóló 2012. évi CLXXXV. törvényben (a továbbiakban: Ht.) foglaltak szerint nem biztosítja vagy az bármely okból nem biztosítható, és a (2) bekezdés szerinti beavatkozás lehetősége fennáll, a Ht. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A települési önkormányzat az (1) bekezdésben meghatározott körülmény bekövetkezéséről haladéktalanul, de legfeljebb 3 napon belül tájékoztatja a kormányrendeletben kijelölt állami szervet (a továbbiakban: állami szerv).
+(2) A Ht. szerinti állami hulladékgazdálkodási közfeladat koncessziós szerződés szerinti megengedett beavatkozás lehetősége fennáll
 
-(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel és minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a Ht. 32/A. § (2) bekezdése szerinti szervezet (a továbbiakban: Koordináló szerv) által meghatározott szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj mértékét és megállapításának rendjét miniszteri rendelet határozza meg.
+- a) a Magyarországot fenyegető, a koncessziós szerződésben meghatározott rendkívüli külső események bekövetkeztekor, vagy
+- b) a koncessziós szerződésben az ellátás biztonságát, vagy a környezet állapotát súlyosan hátrányosan érintő koncesszori cselekmény vagy mulasztás esetén.
+
+(3) Az állami szerv az állami hulladékgazdálkodási közfeladat ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatás kézhezvételét követő 15 napon belül hatósági eljárás keretében hulladékgazdálkodási engedéllyel rendelkező közérdekű szolgáltatót vagy szolgáltatókat jelöl ki. A közérdekű szolgáltató az ideiglenes ellátást szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj megállapításának rendjét az e törvény végrehajtására kiadott miniszteri rendelet határozza meg.
 
 (4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek nincs helye.
 
@@ -14,13 +17,13 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (6) Az állami szerv az ideiglenes ellátásra irányuló kijelölés során az ellátás hatékonyságához, gyorsaságához, gazdaságosságához fűződő közérdeket, továbbá a lakosság méltányos érdekeit veszi figyelembe.
 
-(7) Az ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb kormányrendeletben meghatározott időtartamra érvényes.
+(7) Az ideiglenes ellátásra irányuló kijelölés az új koncessziós szerződés megkötéséig hatályos.
 
-(8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a minősítési engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
+(8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
 
 (9) Ha a (6) bekezdés szerinti közérdek érvényesítését a (3) bekezdésben meghatározott feltételekkel rendelkező szolgáltatók száma korlátozza, közérdekű szolgáltatóként az ideiglenes szolgáltatáshoz szükséges feltételek megléte esetén kijelölhető az a szolgáltató is, amelyik
 
-- a) minősítési engedéllyel nem, de hulladékgazdálkodási engedéllyel rendelkezik,
+- a) hulladékgazdálkodási engedéllyel rendelkezik,
 - b) hulladékgazdálkodási engedély megszerzése érdekében kérelmet nyújtott be, vagy
 - c) korábban hulladékgazdálkodási engedéllyel rendelkezett, de az engedélyének időbeli hatálya a kijelölés időpontját megelőző legfeljebb 60 napon belül szűnt meg.
 
@@ -32,20 +35,20 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 csak írásban tehető meg.
 
-2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy a hulladékgazdálkodási közszolgáltatás ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
+2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy az állami hulladékgazdálkodási közfeladat ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
 
-3. § (1) A hulladékgazdálkodási hatóság, valamint a helyi önkormányzat – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
+3. § (1) A hulladékgazdálkodási hatóság, valamint a koncessziós társaság – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
 
-(1a) A kijelölt közérdekű szolgáltató megad minden adatot és információt, amely a Koordináló szerv díjbeszedési feladatkörének gyakorlásához szükséges, ideértve a Ht. 38. § (3) bekezdésében meghatározott adatokat is. Az adatokat, személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti és nyilvántarthatja.
+(1a)
 
 (1b) A kijelölt közérdekű szolgáltató a Ht. 38. § (3) bekezdésében meghatározott adatokat, személyes adatokat az általa ellátandó feladatok, valamint jogszabályban foglalt kötelezettségei teljesítése érdekében kezelheti és nyilvántarthatja. A kijelölt közérdekű szolgáltató a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az e bekezdésben meghatározott célból történt vagy az adatkezelés célja megszűnt.
 
 (2) Kártalanítás mellett az ideiglenes ellátáshoz és a szükségellátáshoz szükséges szállítóeszköz rendelkezésre bocsátására kötelezhető
 
-- a) a más településen végzett hulladékgazdálkodási közszolgáltatás veszélyeztetése nélkül, közvetlenül az ideiglenes ellátás előtt hulladékgazdálkodási közszolgáltatást végző közszolgáltató a közérdekű szolgáltatót kijelölő állami szerv hatósági döntésével;
+- a) a más településen végzett hulladékgazdálkodási közszolgáltatás veszélyeztetése nélkül a koncessziós társaság a közérdekű szolgáltatót kijelölő állami szerv hatósági döntésével;
 - b) a katasztrófavédelmi gazdasági és anyagi szolgáltatási kötelezettség szabályainak megfelelő alkalmazásával a szükségellátás végrehajtására alkalmas teherszállító jármű tulajdonosa vagy üzemben tartója a szükségellátás megszervezéséért felelős állami szerv hatósági döntésével.
 
-(3) A szükségellátás megszervezéséért felelős állami szerv és az 1. § (3) bekezdése szerint kijelölt közérdekű szolgáltató közfoglalkoztatottakkal is elláthatja feladatát. A közérdekű szolgáltató az önkormányzati kötelező feladat ellátásában történő közreműködése erejéig minősül közfoglalkoztatónak.
+(3) A szükségellátás megszervezéséért felelős állami szerv és az 1. § (3) bekezdése szerint kijelölt közérdekű szolgáltató közfoglalkoztatottakkal is elláthatja feladatát. A közérdekű szolgáltató az ellátásban történő közreműködése erejéig minősül közfoglalkoztatónak.
 
 (4) A hulladékkezelő létesítmény üzemeltetője a települési hulladék átvételét nem tagadhatja meg amiatt, hogy annak összegyűjtése és szállítása ideiglenes ellátás vagy szükségellátás keretében történik.
 
@@ -53,9 +56,17 @@ csak írásban tehető meg.
 
 (5a) Az (5) bekezdés nem érinti az ingatlanhasználó hulladékgazdálkodási közszolgáltatásra vonatkozó díjfizetési kötelezettségét.
 
-(6) Az ellátásért felelős települési önkormányzat – az állami szerv intézkedésétől függetlenül – folyamatosan megtesz minden intézkedést a Ht. 33. § (1) bekezdésében foglalt hulladékgazdálkodási közszolgáltatás biztosítása érdekében.
+(6)
 
-3/A–3/E. §
+#### 3/A. §
+
+#### 3/B. §
+
+#### 3/C. §
+
+#### 3/D. §
+
+#### 3/E. §
 
 3/F. § (1) Ha a települési önkormányzat a nem közművel összegyűjtött háztartási szennyvíz begyűjtési közszolgáltatás (a továbbiakban: közszolgáltatás) ellátását a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 44/F. és 44/G. §-ában foglaltak szerint nem biztosítja vagy a közbeszerzési eljárás eredménytelensége miatt az nem biztosítható, a települési önkormányzat e körülmény bekövetkezéséről haladéktalanul, de legfeljebb 3 napon belül tájékoztatja az állami szervet.
 
@@ -83,7 +94,7 @@ csak írásban tehető meg.
 
 (5) Az ellátásért felelős települési önkormányzat – az állami szerv intézkedésétől függetlenül – folyamatosan megtesz minden intézkedést a Vgtv. 44/C. §-ában foglalt, nem közművel összegyűjtött háztartási szennyvíz begyűjtési közszolgáltatás helyreállítása érdekében.
 
-4. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a hulladékgazdálkodási közszolgáltatás ellátásának kiesése esetére
+4. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának kiesése esetére
 
 - a) vonatkozó részletes szabályokat;
 - b) a díjfizetés és az érintettek közötti elszámolás szabályait;
@@ -91,7 +102,7 @@ csak írásban tehető meg.
 - d) a települési hulladék szükségellátás keretében történő elszállításának megszervezéséért felelős állami szerv kijelölését;
 - e) az ideiglenes ellátásra irányuló kijelölés lehetséges időtartamát.
 
-4/A. §
+4/A. § A 2023. július 1-jét megelőzően meghozott, hulladékgazdálkodási közszolgáltatás ideiglenes ellátására vonatkozó kijelölések hatályukat vesztik.
 
 4/B. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a nem közművel összegyűjtött háztartási szennyvíz begyűjtési közszolgáltatás ellátásának kiesése esetére
 
@@ -102,4 +113,10 @@ csak írásban tehető meg.
 
 5. § E törvény a kihirdetését követő nyolcadik napon lép hatályba.
 
-6–9. §
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §

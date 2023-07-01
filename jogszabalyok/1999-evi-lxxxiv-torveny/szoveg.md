@@ -23,7 +23,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 5. Járműazonosító adat: a jármű hatósági jelzése (rendszám) és alvázszáma.
 - 6. Járműokmány: a jármű tulajdonjogát, nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmányok.
 - 7. Egyedi adatszolgáltatás: egy személyre (ideértve a nem természetes személyt is), egy vezetői engedélyre, egy, a mozgásában korlátozott személy parkolási igazolványára (a továbbiakban: parkolási igazolvány), egy járműre, egy járműokmányra vonatkozó adat közlése.
-- 8. Csoportos adatszolgáltatás: az adatigénylő által meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése, továbbá azon adatszolgáltatás, amely a kapcsolatfelvételi eljárást kezdeményező kérelem kapcsán, azzal összefüggésben, egyedi járműadatra vonatkozik.
+- 8. Csoportos adatszolgáltatás: az adatigénylő által, vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése, továbbá azon adatszolgáltatás, amely a kapcsolatfelvételi eljárást kezdeményező kérelem kapcsán, azzal összefüggésben, egyedi járműadatra vonatkozik.
+- 8a. Rendszeres adatszolgáltatás: a nyilvántartási adatoknak az e törvényben, valamint az e törvény végrehajtásához kapcsolódó jogszabályban meghatározottak szerinti rendszeres közlése.
 - 9. Üzembentartó: a jármű tulajdonosa, illetve akit a jármű jogszerű üzemeltetésére szerződés vagy más hitelt érdemlően igazolt jogcím alapján a járműnyilvántartásba bejegyeztek.
 - 10. A jármű előzetes eredetiségvizsgálata: olyan hatósági eljárás, melynek célja a járművek azonosító adatai és a jármű okmányok valódiságának megállapítása.
 - 11. Származás-ellenőrzési nyilvántartás: olyan elektronikus nyilvántartás, amely tartalmazza a külföldről belföldi forgalomba helyezés céljából behozott használt jármű azonosító adatait, a jármű származását igazoló külföldi okmány adatait, a jármű tulajdonjoga megszerzőjének és a származás-ellenőrzési nyilvántartásba vételt kérelmezőnek az adatait, valamint a származás-ellenőrzés eredményét.
@@ -370,6 +371,8 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (6) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat is.
 
+(7) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során az ideiglenes rendszámtáblák nyilvántartásához informatikai adatkapcsolat útján, közvetlen lekérdezéssel, térítésmentesen jogosult megismerni és átvenni az alvázszámmal vagy rendszámmal azonosított jármű 9. § (2) bekezdés a) és b) pontjában meghatározott adatait.
+
 9/E. § (1) Az okirattár a hatósági eljárások nyomonkövethetősége, ellenőrizhetősége érdekében tartalmazza a kérelemre indult és a hivatalból indított eljárások adatlapjainak adatait, valamint az alapiratokat. Az adatlapok és az alapiratok egymással összekapcsolhatók.
 
 (2) Az okirattár a kérelemre indult és a hivatalból indított eljárások adatlapjai tekintetében tartalmazza
@@ -381,7 +384,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - e) az eljárásban érintett lakcímét, nem természetes személy esetén székhelyét,
 - f) a kérelmező ügyfél nevében eljáró személy természetes személyazonosító adatait, lakcímét.
 
-10. § A nyilvántartó és a közlekedési igazgatási hatóság a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § p) pontja és 36. § n) pontja szerint kezelt személyi azonosítót csak belső azonosítóként, valamint a személyiadat- és lakcímnyilvántartással történő kapcsolat biztosítására, az érintett beazonosítására használhatja fel.
+10. § A nyilvántartó és a közlekedési igazgatási hatóság a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 17. pontja és 36. § 14. pontja szerint kezelt személyi azonosítót csak belső azonosítóként, valamint a személyiadat- és lakcímnyilvántartással történő kapcsolat biztosítására, az érintett beazonosítására használhatja fel.
 
 11. § Az engedély – típusától függően – tartalmazza a járművezető
 
@@ -497,7 +500,7 @@ A NYILVÁNTARTÁSBÓL
 
 16. § (1) A nyilvántartásból
 
-- a) a nyilvántartótól csoportos adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
+- a) a nyilvántartótól csoportos adatszolgáltatás, rendszeres adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
 - b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás igényelhető.
 
 (2) Az okirattárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a nyilvántartótól igényelhető.
@@ -530,7 +533,7 @@ A NYILVÁNTARTÁSBÓL
 - f) az adóhatóság az adóigazgatási eljáráshoz a 8. § (1) bekezdés a) pont aa) és ab) alpontjában, a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) és (2)–(6a) bekezdésében, 9/A. § (1) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat;
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 8. § (1) bekezdés a) pont aa) és ab) alpontjában és b) pont ba), bc) és bd) alpontjában meghatározott adatokat;
 - h) a közterület-felügyelet
-  - ha) közúti közlekedéssel összefüggő feladati ellátása céljából a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat,
+  - ha) közúti közlekedéssel összefüggő feladatai ellátása céljából a 8. § (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában, a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, valamint e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, valamint e) pontjában, továbbá a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat;
   - hb) a várakozásidíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 - j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
@@ -538,7 +541,7 @@ A NYILVÁNTARTÁSBÓL
 - l) a térítésmentesen a gépjármű-felelősségbiztosítást ellátó biztosító a biztosítási szerződés megkötéséhez, nyilvántartásához, módosításához, megszüntetéséhez, továbbá a kárrendezési eljáráshoz, valamint a Magyar Biztosítók Szövetsége a Gfbt. 56. § (1) bekezdése szerinti feladatainak ellátásához a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 - n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása, és a várakozási hozzájárulás kiadása iránti kérelem elbírálása érdekében a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdésében, a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében meghatározott adatokat;
-- o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat és a 9. § (4) bekezdésében meghatározott adatokat. A KSH az átvett adatokat az statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli;
+- o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) jogszabályban meghatározott feladatai ellátásához szükséges adatokat;
 - p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében, a 9/C. §-ban, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (4) bekezdése, valamint a 9/D. § (1) bekezdése szerinti adatokat;
 - r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározott közútkezelői hozzájárulás kiadására és a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésében, a (2) bekezdés a) és b), valamint d) és e) pontjában, a 9/C. § (1) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
@@ -548,6 +551,8 @@ A NYILVÁNTARTÁSBÓL
 - v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a)–b) és d)–e) pontjában, valamint a 9/D. § (1) bekezdésében megjelölt adatokat.
 - w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 - z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
+
+(1a) A KSH az (1) bekezdés o) pontja szerint átvett adatokat a statisztikai adat-előállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az adatoknak az adatigénylő által meghatározott célra történő és az ahhoz kapcsolódó feldolgozásának, felhasználásának lezárását követően a KSH az adatokat törli.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
@@ -660,10 +665,12 @@ továbbítására jogosult.
 
 (7) A nyilvántartó a vezetői engedély kiadásáról szóló döntését követően a vezetői engedély okmány megszemélyesítésével egyidejűleg a vezetői engedély okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
 
-25. § (1) A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, valamint az adatokat
+25. § (1) A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, valamint az adatokat a KSH részére
 
-- a) a Központi Statisztikai Hivatal részére egyedi azonosításra alkalmas módon,
-- b) egyéb esetekben személyazonosításra alkalmatlan módon statisztikai célra továbbíthatja.
+- a) egyedi azonosításra alkalmas módon,
+- b) egyéb esetekben személyazonosításra alkalmatlan módon
+
+statisztikai célra továbbíthatja.
 
 (2)
 
@@ -675,7 +682,7 @@ továbbítására jogosult.
 
 (3) A (2) bekezdés rendelkezései nem alkalmazhatók a 21. § b), c) és d) pontjaiban meghatározott célból történő adatkérés esetén.
 
-27. § A kérelemre indult adatszolgáltatási eljárásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért igazgatási szolgáltatási díjat kell fizetni.
+27. § A kérelemre indult adatszolgáltatási eljárásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 ### Automatizált keresés
 

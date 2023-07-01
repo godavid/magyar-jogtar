@@ -8,7 +8,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 1. § (1) A köztársasági elnök székhelye Budapest.
 
-(2) A köztársasági elnök és a Köztársasági Elnöki Hivatal (a továbbiakban: Hivatal) elhelyezésére a budavári Sándor-palota szolgál.
+(2) A köztársasági elnök és hivatala (a továbbiakban: Sándor-palota) elhelyezésére elsősorban a 1014 Budapest, Szent György tér 1. szám alatti ingatlan szolgál.
 
 #### 2. A köztársasági elnök jogállása
 
@@ -32,9 +32,9 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a köztársasági elnök tisztségét nem gyakorolhatja, javadalmazásban nem részesül. A vagyonnyilatkozat-tétel elmulasztásának – egyben a köztársasági elnök átmeneti akadályoztatásának – tényét az Országgyűlés állapítja meg.
 
-(4) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Hivatal gazdasági ügyekért felelős vezetője a Hivatal honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a Hivatal honlapjáról a köztársasági elnök megbízatásának megszűnését követő egy év elteltével távolítható el.
+(4) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Sándor-palota gazdasági ügyekért felelős vezetője a Sándor-palota honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a Sándor-palota honlapjáról a köztársasági elnök megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(5) A vagyonnyilatkozatot a Hivatal gazdasági ügyekért felelős vezetője kezeli.
+(5) A vagyonnyilatkozatot a Sándor-palota gazdasági ügyekért felelős vezetője kezeli.
 
 (6) A családtag vagyonnyilatkozatába csak az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottságának (a továbbiakban: alkotmányügyi bizottság) tagjai tekinthetnek be a köztársasági elnök vagyonnyilatkozatával kapcsolatos eljárás során.
 
@@ -42,7 +42,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (8) A vagyonnyilatkozattal kapcsolatos eljárás során az alkotmányügyi bizottság felhívására a köztársasági elnök köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az adatokba csak az alkotmányügyi bizottság tagjai tekinthetnek be. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről az alkotmányügyi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az alkotmányügyi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Hivatal gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
+(9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Sándor-palota gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
 
 #### 3. A köztársasági elnök személyvédelme
 
@@ -66,25 +66,25 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (3) A köztársasági elnök jogosult rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára.
 
-(4) A köztársasági elnök – a szolgáltatást nyújtó egészségügyi intézmény és a Hivatal megállapodása szerint – valamennyi egészségügyi ellátást térítésmentesen vehet igénybe.
+(4) A köztársasági elnök – a szolgáltatást nyújtó egészségügyi intézmény és a Sándor-palota megállapodása szerint – valamennyi egészségügyi ellátást térítésmentesen vehet igénybe.
 
 11. § (1) A köztársasági elnök hivatalos külföldi kiküldetése idején kíséretre, a politikai és szakmai felsővezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légiutazásra jogosult.
 
 (2) Ha a külföldre utazás menetrendszerű repülőgéppel, illetve vonattal történik, a köztársasági elnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe.
 
-(3) Az (1) és a (2) bekezdésben meghatározott juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a Hivatal a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt miniszterrel együttműködve látja el.
+(3) Az (1) és a (2) bekezdésben meghatározott juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a Sándor-palota a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt miniszterrel együttműködve látja el.
 
 (4) A köztársasági elnök külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára.
 
-12. § A köztársasági elnök, valamint a vele együtt üdülő felesége vagy férje, gyermeke, szülője, unokája és gyermekének felesége vagy férje – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
+12. § A köztársasági elnök, valamint a vele együtt üdülő házastársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
 
-12/A. § (1) Ha a köztársasági elnök felesége vagy férje közéletben való részvétele indokolja, kérelmére őt legfeljebb kétfős titkárság alkalmazása illeti meg. A titkárság elhelyezésére szolgáló helyiség biztosításának költségeit, valamint a titkárság egyéb dologi és személyi feltételeit a Hivatal biztosítja.
+12/A. § (1) Ha a köztársasági elnök házastársa közéletben való részvétele indokolja, kérelmére őt legfeljebb kétfős titkárság alkalmazása illeti meg. A titkárság elhelyezésére szolgáló helyiség biztosításának költségeit, valamint a titkárság egyéb dologi és személyi feltételeit a Sándor-palota biztosítja.
 
-(2) A köztársasági elnök feleségére vagy férjére, ha a köztársasági elnöki tisztséghez kapcsolódó közfeladattal összefüggő hivatalos programon való részvétel céljából külföldre utazik, a 11. §-t azzal az eltéréssel kell alkalmazni, hogy a köztársasági elnök felesége vagy férje különjáratú légiutazásra csak abban az esetben jogosult, ha a köztársasági elnökkel együtt utazik.
+(2) A köztársasági elnök házastársára, ha a köztársasági elnöki tisztséghez kapcsolódó közfeladattal összefüggő hivatalos programon való részvétel céljából külföldre utazik, a 11. §-t azzal az eltéréssel kell alkalmazni, hogy a köztársasági elnök házastársa különjáratú légiutazásra csak abban az esetben jogosult, ha a köztársasági elnökkel együtt utazik.
 
-(3) A köztársasági elnök felesége vagy férje – személyi és hivatali célra – személygépkocsi használatára jogosult.
+(3) A köztársasági elnök házastársa – személyi és hivatali célra – személygépkocsi használatára jogosult.
 
-13. § (1) A köztársasági elnök halála esetén feleségét vagy férjét (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
+13. § (1) A köztársasági elnök halála esetén özvegyét – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
 
 (2) A köztársasági elnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori köztársasági elnöki tiszteletdíj havi összegét kell a köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
@@ -116,21 +116,55 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (4) Az (1) bekezdés szerinti előirányzat a köztársasági elnök előzetes írásos kötelezettségvállalása alapján, a kedvezményezettel kötött külön szerződés nélkül is felhasználható.
 
-(5) A Hivatal a honlapján a (4) bekezdés szerinti kötelezettségvállalástól számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
+(5) A Sándor-palota a honlapján a (4) bekezdés szerinti kötelezettségvállalástól számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
-#### 6. A Köztársasági Elnöki Hivatal
+#### 6. A Sándor-palota
 
-15. § (1) A köztársasági elnököt feladatainak ellátásában a Hivatal segíti.
+15. § (1) A köztársasági elnököt feladatainak ellátásában hivatal segíti. A köztársasági elnök hivatalának elnevezése Sándor-palota.
 
-(2) A Hivatal Alapító Okiratát a köztársasági elnök adja ki. A Hivatal Szervezeti és Működési Szabályzatát – az Alapító Okirat alapján – a köztársasági elnök adja ki.
+(2) A Sándor-palota alapító okiratát, valamint szervezeti és működési szabályzatát a köztársasági elnök adja ki.
 
-(3) A Hivatal működési költségeit a központi költségvetés Köztársasági Elnökség fejezete biztosítja.
+16. § (1) A Sándor-palota vezetőinek és foglalkoztatottainak jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
 
-(4) A Hivatal ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat és a köztársasági elnök feladatellátásának válsághelyzetben és különleges jogrend idején történő folyamatos biztosítására való felkészülés tekintetében együttműködik a védelmi és biztonsági igazgatás központi szervével, a rendőrséggel, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal.
+(2) A köztársasági elnök
 
-16. § (1) A köztársasági elnök a tevékenységéhez közvetlenül kapcsolódó feladatok ellátására elnöki főtanácsadói, elnöki tanácsadói álláshelyet létesíthet. Az elnöki főtanácsadóra, elnöki tanácsadóra a kormányzati igazgatásról szóló törvény politikai főtanácsadóra, politikai tanácsadóra irányadó rendelkezéseit kell alkalmazni a (2) bekezdésben foglalt eltérésekkel.
+- a) meghatározza a Sándor-palota szervezeti tagolódását és vezetői rendjét,
+- b) az alapító okiratban meghatározottak szerint kinevezi a Sándor-palota vezetőit, gyakorolja felettük a munkáltatói jogokat, e vezetők tekintetében megállapítja az illetmény, a juttatások és a vezetői pótszabadság mértékét, valamint a közszolgálati jogviszonyukra irányadó esetleges különös szabályokat,
+- c) a b) pont hatálya alá nem tartozó vezetők, valamint a további foglalkoztatottak tekintetében megállapíthatja a munkáltatói jogok gyakorlásának rendjét.
 
-(2) Az elnöki főtanácsadó, elnöki tanácsadó kinevezése a köztársasági elnök megbízatásának idejére szól. Az elnöki főtanácsadó, elnöki tanácsadó felett a munkáltatói jogokat a köztársasági elnök gyakorolja.
+(3) A Sándor-palota hivatali szervezetének vezetője – a (2) bekezdés b) és c) pontjában foglaltak sérelme nélkül –
+
+- a) gyakorolja a munkáltatói jogokat a Sándor-palotánál foglalkoztatottak felett,
+- b) meghatározza a Sándor-palota feladatainak ellátásához szükséges álláshelyek rendszerét és meghatározhatja az álláshelyek besorolási kategóriáit,
+- c) megállapítja a (2) bekezdés b) pont hatálya alá nem tartozó vezetőket megillető illetmény, juttatások és vezetői pótszabadság mértékére vonatkozó alapelveket,
+- d) dönt a Sándor-palota további illetménypolitikai alapelveiről, valamint
+- e) kijelöli azokat az álláshelyeket, amely álláshelyeken foglalkoztatottak a feladataikat munkaviszony keretében látják el.
+
+(4) A közszolgálati munkaszerződésben a felek megállapodnak a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
+
+(5) A köztársasági elnök személyéhez közvetlenül kapcsolódó feladatok ellátására létesített közszolgálati jogviszony felmentéssel akkor is megszüntethető, ha a köztársasági elnök megbízatása megszűnik.
+
+16/A. § (1) A Sándor-palota működési költségeit a központi költségvetés Köztársasági Elnökség fejezete biztosítja.
+
+(2) A Sándor-palota központi költségvetési törvény szerinti személyi juttatások kiemelt előirányzata összegét úgy kell megállapítani, hogy az nem lehet kevesebb, mint a tárgyévet megelőző évre vonatkozó, központi költségvetésről szóló törvény szerinti előirányzatnak a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, az azt megelőző naptári évre vonatkozó, a bruttó átlagkeresetek éves növekedését kimutató kereseti indexszel korrigált összege. A tárgyévre meghatározott személyi juttatások kiemelt előirányzata összegét év közben az e bekezdés szerinti index kilenc tizenketted részével korrigálni kell. A korrekció összegét a tárgyév március 31. napjáig kell a Sándor-palota rendelkezésére bocsátani. Ezt a rendelkezést kell alkalmazni az egyéb működési kiadások előirányzatán belül a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzata összegének meghatározása esetében is.
+
+(3) A Sándor-palota ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat, és a köztársasági elnök feladatellátásának válsághelyzetben és különleges jogrend idején történő folyamatos biztosítására való felkészülés tekintetében együttműködik a védelmi és biztonsági igazgatás központi szervével, a rendőrséggel, a honvédelmi szervezetekkel, illetve a nemzetbiztonsági szolgálatokkal.
+
+#### 6/A. A megválasztott, esküt tett, de még hivatalba nem lépett köztársasági elnök jogállása és juttatásai
+
+16/B. § (1) A megválasztott, esküt tett, de még hivatalba nem lépett köztársasági elnököt
+
+- a) legfeljebb ötfős titkárság alkalmazása,
+- b) térítésmentes egészségügyi ellátás és
+- c) személyes gépkocsihasználat
+
+illeti meg.
+
+(2) Az (1) bekezdés a) pontja szerinti titkárság elhelyezéséhez megfelelő helyiségeket kell biztosítani. A titkárság elhelyezésére szolgáló helyiségek biztosításának költségeit, valamint a titkárság egyéb dologi és személyi feltételeit a Sándor-palota biztosítja. A titkárság munkatársa – választása szerint – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti közszolgálati jogviszonyban vagy megbízási szerződéssel foglalkoztatható, vele a Sándor-palota hivatali szervezetének vezetője köt szerződést. A titkárság munkatársának szakmai tevékenységét a megválasztott, esküt tett, de még hivatalba nem lépett köztársasági elnök irányítja.
+
+(3) Az (1) bekezdés b) pontja szerinti ellátás biztosítása céljából a Sándor-palota egészségügyi intézménnyel megállapodást köt. Az (1) bekezdés c) pontja szerinti gépjárművet és a biztonsági gépjárművezetőt a rendőrség biztosítja.
+
+(4) A megválasztott, esküt tett, de még hivatalba nem lépett köztársasági elnök megismerheti mindazon információkat, amelyek szükségesek ahhoz, hogy hivatalba lépését követően feladatköreit megfelelően el tudja látni.
 
 #### 7. A volt köztársasági elnök jogállása és juttatásai
 
@@ -183,7 +217,7 @@ illeti meg.
 
 (5) Az Országgyűlés Hivatala a honlapján a köztársasági elnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
-(6) A volt köztársasági elnök közéletben való szerepvállalásával összefüggő, külföldi hivatalos programon való részvételére vonatkozóan a 11. §-t – az állami vezetők tekintetében irányadó napidíjra vonatkozó rendelkezés és a különjáratú légiutazásra való jogosultság kivételével – alkalmazni kell, azzal, hogy e juttatások igénybevételével kapcsolatban felmerült költségeket az Országgyűlés Hivatala biztosítja.
+(6) A volt köztársasági elnök közéletben való szerepvállalásával összefüggő, külföldi hivatalos programon való részvételére vonatkozóan a 11. §-t – az állami vezetők tekintetében irányadó napidíjra vonatkozó rendelkezés és a különjáratú légiutazásra való jogosultság kivételével – alkalmazni kell, azzal, hogy az e juttatások igénybevételével kapcsolatban felmerült költségeket a külpolitikáért felelős miniszter által vezetett minisztérium biztosítja.
 
 22. § (1) A volt köztársasági elnökre, valamint a köztársasági elnök és a volt köztársasági elnök özvegyére a 14. § (1) és (2) bekezdésében foglaltakat alkalmazni kell.
 
@@ -195,7 +229,7 @@ illeti meg.
 
 23. § Ez a törvény 2012. január 1-jén lép hatályba.
 
-24. § Az 1., a 2., a 4., az 5. és a 7. alcím, valamint a 26–28. § az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
+24. § Az 1., a 2., a 4., az 5., a 6/A. és a 7. alcím, valamint a 26–28. § az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
 25. § (1) E törvény rendelkezéseit a hivatalban lévő köztársasági elnökre és az e törvény hatálybalépését megelőzően hivatalt betöltött volt köztársasági elnökre is alkalmazni kell.
 
@@ -213,7 +247,7 @@ illeti meg.
 
 27. § (1) A köztársasági elnök az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 6. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
 
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Hivatal gazdasági ügyekért felelős vezetőjénél lévő, a köztársasági elnökkel közös háztartásban élő feleségének vagy férjének, gyermekeinek vagyonnyilatkozatát a Hivatal gazdasági ügyekért felelős vezetője 2023. augusztus 1. napjáig őrzi.
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Sándor-palota gazdasági ügyekért felelős vezetőjénél lévő, a köztársasági elnökkel közös háztartásban élő házastársának, gyermekeinek vagyonnyilatkozatát a Sándor-palota gazdasági ügyekért felelős vezetője 2023. augusztus 1. napjáig őrzi.
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
@@ -221,4 +255,12 @@ illeti meg.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
-#### 29. §
+29. § (1) A 2023. július 1-jén a Sándor-palotában foglalkoztatott köztisztviselők esetében a közszolgálati munkaszerződést – a 16. § (4) bekezdése szerinti tartalommal, figyelemmel a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 98. § (3) bekezdésére is – 2023. július 21-éig kell megkötni.
+
+(2) A közszolgálati munkaszerződést a köztisztviselő 2023. június 30-án hatályos kinevezése szerinti időtartamra kell megkötni. A köztisztviselő közszolgálati munkaszerződésben megállapított illetménye nem lehet kevesebb annál, mint amekkora összegre illetményként a kinevezési okirata alapján 2023. június 30-án jogosult volt.
+
+(3) Ha a közszolgálati munkaszerződés megkötésére az (1) bekezdés szerinti határidőben a köztisztviselőnek felróható okból, vagy annak ellenére nem kerül sor, hogy a közszolgálati munkaszerződés tervezete a 2023. június 30-án fennálló kinevezés lényeges tartalmi elemeihez képest a köztisztviselő számára hátrányos eltérést nem állapít meg, a köztisztviselő közszolgálati jogviszonya a lemondásra vonatkozó szabályok szerint szűnik meg azzal, hogy a lemondás közlése napjának 2023. július 21-ét kell tekinteni.
+
+(4) A köztisztviselőt – ha a (3) bekezdés szerinti eset nem áll fenn – a közszolgálati munkaszerződés tervezetének vele való közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 29. § (8) bekezdésének alkalmazásával, a kinevezésmódosítást megelőző illetménye alatt a 2023. június 30-án irányadó illetményét értve – fel kell menteni.
+
+(5) Az egyes törvényeknek a köztársasági elnök jogállásával összefüggő módosításáról szóló 2023. évi XXVII. törvény hatálybalépésekor fennálló jogviszonyokban a Köztársasági Elnöki Hivatal alatt 2023. július 1-jétől Sándor-palotát kell érteni.

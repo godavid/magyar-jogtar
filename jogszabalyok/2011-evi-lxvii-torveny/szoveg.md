@@ -153,6 +153,8 @@ irányul, a központi hatóság a tartási igény peren kívüli teljesítése �
 
 25. § Ha a tartásdíj önkéntes megfizetéséről határidőben nem érkezett nyilatkozat és igazolás, továbbá halasztási vagy részletfizetési kérelmet sem terjesztett elő a kötelezett, vagy ha a kérelmező ezek ellenére is fenntartja kérelmét, a központi hatóság a 22. § megfelelő alkalmazásával intézkedik a szükséges bírósági eljárás megindítása iránt.
 
+25/A. § Ha a kérelmező a hágai egyezmény alapján előterjesztett, határozat elismerése és végrehajtása iránti kérelemhez a végrehajtani kért határozat mellett benyújtja a határozatnak az eredeti eljárás helye szerinti állam hatáskörrel rendelkező hatósága által a hágai egyezményhez ajánlott nyomtatvány formájában készített összefoglalását vagy kivonatát és annak magyar nyelvű fordítását, a bíróság eltekint a határozat teljes szövegének magyar nyelvű fordításától. A bíróság akkor rendelheti el a végrehajtani kért határozat magyar nyelvű fordításának benyújtását, ha az az elismerés és végrehajtás közrendbe ütközésének vizsgálatához vagy a végrehajthatóvá nyilvánítás tárgyában hozott végzés ellen benyújtott fellebbezés elbírálásához szükséges.
+
 #### 9. A különleges intézkedés megtétele iránti megkereséssel érintett személy adatainak beszerzése
 
 26. § Ha a különleges intézkedés megtétele iránti megkeresés a tartásra jogosult vagy kötelezett lakó- vagy tartózkodási helyének meghatározására irányul, a központi hatóság megkeresi a polgárok személyi adatait kezelő szervet a lakóhelyre vagy tartózkodási helyre vonatkozó adat beszerzése érdekében, és a beszerzett adatot továbbítja a megkereső központi hatóságnak.
@@ -196,9 +198,19 @@ irányul, a központi hatóság a tartási igény peren kívüli teljesítése �
 
 #### 14. Módosuló jogszabályok
 
-#### 32–34. §
+#### 32. §
 
-#### 35–38. §
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
 
 #### 39. §
 

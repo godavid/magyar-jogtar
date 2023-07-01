@@ -1293,12 +1293,12 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (9) Ha az idegenrendészeti hatóság a (3)–(5) bekezdésben meghatározott okokból a harmadik országbeli állampolgár kiutasításától eltekint, és a harmadik országbeli állampolgár nem rendelkezik a tartózkodás törvényi feltételeivel, az idegenrendészeti hatóság humanitárius tartózkodási engedéllyel látja el.
 
-45/A. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően, az idegenrendészeti hatóság nem utasítja ki azt a harmadik országbeli állampolgárt, akit az Európai Unió más tagállamának hatósága határozatával
+45/A. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően, az idegenrendészeti hatóság nem utasítja ki azt a harmadik országbeli állampolgárt, akit az Európai Unió más tagállamának vagy más schengeni államnak a hatósága határozatával
 
 - a) a nemzetbiztonság vagy a közbiztonság súlyos és tényleges megsértése vagy veszélyeztetése,
 - b) a határozatot hozó állam törvénye alapján legalább egyévi szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetéséért kiszabott bírósági ítélet,
 - c) súlyos bűncselekmény gyanúja, vagy
-- d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok súlyos megsértése
+- d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok megsértése
 
 miatt utasított ki.
 
@@ -3305,7 +3305,7 @@ végrehajtási eljárásokra is alkalmazni kell.
 - l) a közösségi szálláson, illetve befogadó állomáson tartózkodók és az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok ellátásának, támogatásának szabályait;
 - m) a közösségi szállás létesítésének követelményeit, a közösségi szállás házirendjét;
 - n) a NATO-SOFA Megállapodás hatálya alá tartozó polgári állomány tagjai és a hozzátartozók beutazásának és tartózkodásának részletes szabályait;
-- o) a tagállamok által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
+- o) az Európai Unió tagállama vagy más schengeni állam által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
 - p) a hontalanság megállapítására irányuló eljárás részletes szabályait;
 - q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
 - r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;

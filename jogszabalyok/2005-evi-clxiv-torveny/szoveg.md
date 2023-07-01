@@ -267,7 +267,7 @@ nyilvántartást vezet.
 
 (3) A 6/G. § a)–c) pontjában meghatározott nyilvántartások adatai – a (2) bekezdésben meghatározott adatok kivételével – nyilvánosak.
 
-(4) Az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint járási hivatal törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
+(4) Az élelmiszerlánc-felügyeleti szerv törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
 
 ### A szálláshely-minősítési eljárással kapcsolatban benyújtott panasz elbírálása
 
@@ -430,7 +430,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy
 
-- a) egyes ipari, kereskedelmi tevékenységek végzéséhez szükséges szakképesítéseket,
+- a) az egyes kereskedelmi tevékenységek végzéséhez szükséges képesítéseket,
 - b)
 - c)
 - d)
@@ -466,7 +466,12 @@ rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
-(7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+(7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+
+- a) az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+- b) az élelmiszeriparért felelős miniszterrel egyetértésben az egyes ipari tevékenységek végzéséhez szükséges képesítéseket
+
+rendeletben határozza meg.
 
 (8)
 

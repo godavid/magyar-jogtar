@@ -48,6 +48,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - d) a népegészségügyi [16. §], közegészségügyi és járványügyi érdekből szükségessé váló intézkedések megtétele,
 - e) a betegjogok érvényesítése.
 - f) az egyéni betegút követése.
+- g) a humán reprodukciós eljárás nyomon követése az eljárás orvosszakmai eredményességének, és ennek alapján a humán reprodukciós eljárások orvosszakmai minőségének értékelése, az értékelés szempontjainak felülvizsgálata és fejlesztése.
 
 (2) Egészségügyi és személyazonosító adatot az (1) bekezdésben meghatározottakon túl – törvényben meghatározott esetekben – az alábbi célból lehet kezelni:
 
@@ -386,6 +387,14 @@ tartalmazza.
 (4) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti szervek által más adatkezelési célból létrehozott és a 4. § (2) bekezdés x) pontja szerinti célból átadott, az (1) bekezdés szerinti személyazonosító adattal összekapcsolt adatbázisokat, illetve nyilvántartásokat a kapcsolati kód képzését követően haladéktalanul törli.
 
 (5) A 4. § (2) bekezdés x) pontja szerinti célból egyedi ügy kivizsgálása érdekében a minőségértékelésért felelős szerv, az ügy kivizsgálásának lezárását követő 5 évig kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát.
+
+(6) A szakmai minőségértékelésért felelős szerv a 4. § (1) bekezdés g) pontja szerinti célból az egyes humán reprodukciós eljárások végzéséhez kapcsolódó TAJ számot, nemet, születési dátumot és postai irányítószámot kezeli. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
+
+(7) A szakmai minőségértékelésért felelős szerv a humán reprodukciós eljárásban érintett nő, férfi, illetve az eljárás eredményeképpen megszületett gyermek egészségügyi adatait, valamint TAJ számát, nemét, születési dátumát és postai irányítószámát a – 4. § (1) bekezdés g) pontjában foglalt cél érdekében – az érintettek személyazonosító adatainak összekapcsolásával is kezeli.
+
+(8) A (6) és (7) bekezdés szerinti személyes adatokat tartalmazó adatkezelés esetében a szakmai minőségértékelésért felelős szerv – álnevesítés alkalmazásával – az érintett személyek azonosítását lehetővé tevő adatokat – az adatok részére történő átadását követően haladéktalanul – elválasztja az érintettekre vonatkozó egyéb adatoktól, továbbá az így elválasztott adatokat olyan technikai azonosítóval látja el, amelynek ismerete nélkül a kapcsolat a szolgáltatott adatok és az érintett személy között nem állítható helyre. Az így elválasztott adatok közötti kapcsolat kizárólag a szakmai minőségértékelésért felelős szerv által, a 4. § (1) bekezdésének g) pontjában meghatározott cél elérése céljából, az ahhoz szükséges időtartamig állítható helyre. Az adatkezelési cél teljesülése esetén az adatokat haladéktalanul és véglegesen személyazonosításra alkalmatlanná kell tenni.
+
+(9) A szakmai minőségértékelésért felelős szerv a (6) és (7) bekezdés szerint kezelt személyes adatot más szerv vagy személy részére nem továbbíthat.
 
 18/A. § A teljesítményértékelésért felelős szerv a 4. § (2) bekezdés y) pontja szerinti célból kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát az adatok átadása, az adatkezelés és a kapcsolati kód képzése tekintetében a 18.§ (1)–(4) bekezdésében foglaltak szerint.
 

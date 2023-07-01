@@ -525,6 +525,8 @@ engedélyezésekor.
 
 (2) Az (1) bekezdésben meghatározott kijelölés tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
 
+(3) Egy adott földrészletnek a Natura 2000 területbe tartozását az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló jogszabály által meghatározott területek térképszelvényei – és szükség szerint a térképszelvényeknek a kormányzati honlap elektronikus tájékoztatásra szolgáló oldalán közzétett digitális térinformatikai határvonala – alapján kell megállapítani.
+
 ### Védett növény- és állatfajok, társulások
 
 42. § (1) Tilos a védett növényfajok egyedeinek veszélyeztetése, engedély nélküli elpusztítása, károsítása, élőhelyeinek veszélyeztetése, károsítása.
@@ -578,7 +580,7 @@ engedélyezésekor.
 
 (6)
 
-44. § (1) Az állategészségügyi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
+44. § (1) A természetvédelmi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
 
 (2) Elhullott, elejtett védett állat egyedét a megtalálónak – ha e törvény másként nem rendelkezik – az igazgatósághoz be kell jelentenie.
 

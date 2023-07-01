@@ -23,7 +23,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - i) elektronikus hírközlési szolgáltatás;
 - j) örökségvédelem;
 - k) természetvédelem;
-- l) vízgazdálkodás, víziközmű-szolgáltatás;
+- l) vízgazdálkodás, víziközmű-szolgáltatás, öntözéses gazdálkodás;
 - m) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés;
 - n) építésügyi korlátozások felszámolása;
 - o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;
@@ -83,7 +83,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - ja) védett természeti területen a védelem céljával oly mértékig össze nem egyeztethető tevékenység folyik, amely a kisajátítás hiányában a védett természeti terület elpusztulását eredményezi,
   - jb) a védett természeti területek természetvédelmi kezeléséért felelős szerv – törvény rendelkezése szerint – a védett természeti területek védettségi szintjének helyreállítása érdekében kezdeményezi,
   - jc) védett természeti területen a védett természeti területek természetvédelmi kezeléséért felelős szerv által megvalósítandó élőhely-rekonstrukciós beruházások beavatkozási vagy célterületén az élőhely helyreállítása másképp nem végezhető el;
-- k) vízgazdálkodási és víziközmű-szolgáltatási feladatok ellátása céljából, ha
+- k) vízgazdálkodási és víziközmű-szolgáltatási feladatok ellátása, valamint az öntözéses gazdálkodás kialakítása és fenntartása céljából, ha
   - ka) a Vásárhelyi Terv Továbbfejlesztése szerinti nyomvonalas létesítménynek jogszabállyal megállapított nyomvonalon való megépítése,
   - kb) vízkár elhárítási (árvíz, belvíz, aszály) célú vízilétesítmények megvalósítása,
   - kc) közműves vízellátó és szennyvízkezelő és -elvezető létesítmények megvalósítása,
@@ -467,7 +467,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 30. § Ha a kisajátítás az ingatlannak csak egy részét érinti, az ingatlan megosztásáról – telekalakítási eljárás lefolytatása nélkül, a kisajátítási terv alapján – a kisajátítási hatóság dönt.
 
-31. §
+#### 31. §
 
 31/A. § (1) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetében e törvény kisajátítási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -517,7 +517,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 (3) Ha a kisajátított ingatlan vagyonkezelőjét törvény jelöli ki, akkor a vagyonkezelő a kisajátítás iránti kérelem benyújtásakor – a költségek megelőlegezésével – megküldheti a vagyonkezelői jog ingatlan-nyilvántartási bejegyzésére irányuló kérelmét a kisajátítási hatóság részére. Ebben az esetben a kisajátítási hatóság a vagyonkezelő kérelmét is megküldi a véglegessé vált kisajátítási határozat (1) bekezdés szerinti megküldésekor az ingatlanügyi hatóság részére.
 
-34. §
+#### 34. §
 
 35. § (1) A kisajátított ingatlan csak a kérelemben megjelölt célra használható fel.
 
@@ -859,7 +859,7 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 
 46. § E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és az azzal összefüggő egyes törvények módosításáról szóló 2016. évi XCII. törvénnyel (a továbbiakban: 2016. évi XCII. törvény) megállapított rendelkezéseit a 2016. évi XCII. törvény hatálybalépését követően indult kisajátítási hatósági eljárásokban kell alkalmazni.
 
-47. §
+#### 47. §
 
 48. § (1) E törvénynek a közlekedéssel összefüggő egyes törvények módosításról szóló 2016. évi CXLIV. törvénnyel (a továbbiakban: 2016. évi CXLIV. törvény) megállapított 32. § (1) bekezdés f) pontját annak hatálybalépését követően indult hatósági eljárásban hozott döntés bírósági felülvizsgálata során kell alkalmazni.
 

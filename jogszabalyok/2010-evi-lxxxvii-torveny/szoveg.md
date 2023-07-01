@@ -13,7 +13,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) művelés alól kivett területként nyilvántartott olyan terület, amely a Nemzeti Földalapba tartozó földrészlet mező-, erdőgazdasági tevékenységét szolgálja, vagy ahhoz szükséges.
 - d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet;
 - e) a termőföld védelméről szóló törvényben állandó jellegű növényházként meghatározott és az ingatlan-nyilvántartásban ekként nyilvántartott művelés alól kivett földrészlet.
-- f) művelés alól kivett területként nyilvántartott belvízelvezető csatorna, állandó jellegű öntözőcsatorna (rizstelep elárasztó és lecsapoló főcsatornái), valamint egyéb árok.
+- f) művelés alól kivett területként nyilvántartott, az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvényben meghatározott azon harmadlagos műnek minősülő csatorna vagy árok, amely elsődlegesen öntözési, öntözésfejlesztési célt szolgál.
 
 (2) Az (1) bekezdésben foglaltakon túl a Nemzeti Földalap részét képezik az (1) bekezdésben meghatározott területekhez kapcsolódó vagyoni értékű jogok is.
 
@@ -384,6 +384,8 @@ a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését
 
 (9) Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény alapján az NFK kompenzációs tulajdonszerzési szerződést köt.
 
+(10) A Nemzeti Földalapba tartozó földrészlet vonatkozásában az adott területen felépítménnyel rendelkező személy javára legfeljebb 20 éves időtartamra építményi jog alapítható. Az építményi jog ellenértékének meghatározása során az adott terület használati jogosultságának tényleges értékét kell figyelembe venni.
+
 19. § (1) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződés nem köthető azzal, aki
 
 - a) csőd- vagy felszámolási eljárás, végelszámolás, önkormányzati adósságrendezési eljárás alatt áll;
@@ -463,7 +465,7 @@ követő napon.
 
 (5) A mintagazdasági földhasználati szerződés részletes szabályait az e törvény végrehajtására kiadott rendelet tartalmazza.
 
-20/B. § (1) A védett természeti területek természetvédelmi kezeléséért felelős szerv a (2) bekezdésben meghatározott feltételek együttes fennállása esetén – a 18. § (1) bekezdésében foglaltaktól eltérően nyilvános pályáztatás mellőzésével – természetvédelmi kijelölés útján is köthet a vagyonkezelésében lévő, Nemzeti Földalapba tartozó rét, legelő (gyep) művelési ágú, továbbá többségében rét vagy legelő (gyep) művelési ágú birtoktesthez kapcsolódó szántó művelési ágú földrészlet vonatkozásában haszonbérleti szerződést.
+20/B. § (1) A védett természeti területek természetvédelmi kezeléséért felelős szerv a (2) bekezdésben meghatározott feltételek együttes fennállása esetén – a 18. § (1) bekezdésében foglaltaktól eltérően nyilvános pályáztatás mellőzésével – természetvédelmi kijelölés útján is köthet a vagyonkezelésében lévő, Nemzeti Földalapba tartozó rét, legelő (gyep) művelési ágú, továbbá többségében rét vagy legelő (gyep) művelési ágú birtoktesthez kapcsolódó földrészlet vonatkozásában haszonbérleti szerződést.
 
 (2) A védett természeti területek természetvédelmi kezeléséért felelős szerv a vagyonkezelésében lévő, Nemzeti Földalapba tartozó földrészletet természetvédelmi kijelölés útján akkor adhatja haszonbérbe, ha a használati jogosultságot szerző fél
 
@@ -478,6 +480,8 @@ követő napon.
 (3) A (2) bekezdés a) alpontja alkalmazásában volt földhasználónak az a földműves vagy mezőgazdasági termelőszervezet minősül, aki vagy amely a természetvédelmi kijelölés tárgyát képező földet vagy annak területi mértékben meghatározott legalább 80%-át a kijelölést közvetlenül megelőző legalább 3 éven keresztül a 18. § (1) bekezdése szerinti jogcímeken használta.
 
 (4) A (2) bekezdés a) alpontja alkalmazásában földhasználónak az a természetes személy vagy mezőgazdasági termelőszervezet minősül, aki vagy amely a természetvédelmi kijelölés tárgyát képező földet vagy annak területi mértékben meghatározott legalább 80%-át legalább 3 éve a 18. § (1) bekezdés szerinti jogcímeken használja.
+
+(4a) A (2) bekezdés g) pontja, valamint a (3) és (4) bekezdés alkalmazásában öröklés esetén a 3 évbe beleszámít azon időtartam is, amely alatt a földet az örökhagyó a 18. § (1) bekezdés szerinti jogcímeken használta, valamint amely alatt az örökhagyó rendelkezett a természetvédelmi érdekeknek megfelelő területfenntartást, -gondozást és ezzel a természetvédelmi kezelés ellátását is biztosító, legeltethető állatállománnyal.
 
 (5) Az (1) bekezdés szerinti természetvédelmi kijelölés útján történő haszonbérbe adás időtartama legfeljebb 25 év lehet.
 

@@ -8,7 +8,7 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 
 #### 1. A Magyar Energetikai és Közmű-szabályozási Hivatal jogállása
 
-1. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) az állam villamosenergia-, földgáz- és távhőellátással, víziközmű-szolgáltatással, valamint hulladékgazdálkodási közszolgáltatás díjszabályozásának előkészítésével kapcsolatos feladatait ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
+1. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) az állam villamosenergia-, földgáz- és távhőellátással, víziközmű-szolgáltatással, valamint állami hulladékgazdálkodási közfeladat díjszabályozásának előkészítésével kapcsolatos feladatait ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
 (2) A Hivatal székhelye Budapest.
 

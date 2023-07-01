@@ -382,7 +382,7 @@ során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 
 (1a) A Magyar Nemzeti Levéltár illetékességébe tartozik – a 18. §-ban és a 19. § (2) bekezdésében meghatározott kivétellel –
 
-- a) a köztársasági elnök és a Köztársasági Elnöki Hivatal, az Országgyűlés és az Országgyűlés Hivatala, az Alapvető Jogok Biztosa és az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és az Alkotmánybíróság Hivatala, a Kúria, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
+- a) a köztársasági elnök és a Sándor-palota, az Országgyűlés és az Országgyűlés Hivatala, az Alapvető Jogok Biztosa és az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és az Alkotmánybíróság Hivatala, a Kúria, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
 - b) a miniszterelnök és a központi államigazgatási szerv,
 - c) a központi államigazgatási szerv területi szervei és a rendvédelmi szerv,
 - d) illetékes közlevéltárral nem rendelkező országos köztestület és közalapítvány,
@@ -589,7 +589,9 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 
 (4)
 
-### V/A. Fejezet — A levéltárak költségvetési támogatásával összefüggőegyes kérdések
+### V/A. Fejezet — A levéltárak költségvetési támogatásával összefüggő
+
+egyes kérdések
 
 34/A. § (1) A közlevéltárakban és a nyilvános magánlevéltárakban őrzött levéltári anyag évi 2%-ának átvizsgálásához, a szükséges selejtezés elvégzéséhez és a 13. § f) pontjában meghatározott biztonsági másolatok elkészítéséhez, valamint a veszélyeztetett állapotú iratok és a bennük lévő információk tartós megőrzését szolgáló egyéb teendők ellátásához szükséges pénzügyi feltételeket a kultúráért felelős miniszter által vezetett minisztérium fejezeti kezelésű költségvetési előirányzatából kell biztosítani.
 
@@ -605,7 +607,7 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 
 (3) Az (1) bekezdés szerinti előirányzat nyilvános magánlevéltárak közötti elosztásának rendjét a kultúráért felelős miniszter állapítja meg.
 
-34/D. §
+#### 34/D. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

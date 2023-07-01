@@ -235,7 +235,14 @@ használhatja fel.
 
 (7) Az adatkezelés során a kamarának biztosítania kell, hogy az adatokat illetéktelen személy ne ismerhesse meg, azokat a törvényben, illetve az alapszabályban meghatározottól eltérő célra ne használják fel.
 
-(8) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás nem nyilvános. Harmadik személy – a tagra vonatkozó adatok tekintetében – csak az érintett tag hozzájárulásával vagy törvényi felhatalmazás alapján tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
+(8) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás nem nyilvános. Harmadik személy – a tagra vonatkozó adatok tekintetében – csak
+
+- a) az érintett tag hozzájárulásával,
+- b) közérdekű feladat ellátása érdekében,
+- c) közhatalom gyakorlása körében, vagy
+- d) törvényi felhatalmazás alapján
+
+tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 7/B. § (1) Az agrárkamara az üzleti forgalom biztonságának, a gazdaság fejlesztésének előmozdítása, valamint az etikus üzleti magatartás vizsgálata érdekében a gazdálkodó szervezetek gazdasági tevékenységére jellemző, nyilvánosan elérhető nyilvántartásból származó információkat tartalmazó adatbázist működtethet.
 
@@ -462,9 +469,29 @@ használhatja fel.
 
 (8) A mezőgazdasági őstermelők és őstermelők családi gazdasága, valamint családi mezőgazdasági társaságok nyilvántartásával kapcsolatos hatósági feladatokat az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazdaságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére, továbbá az őstermelői nyilvántartásba vétel iránti kérelem előállításához a jogszabályban meghatározott őstermelői nyilvántartásban szereplő ügyféladatok és az ügyfélhez kapcsolódó igazolványadatok lekérdezésére.
 
-(9) Az agrárkamara a kamarai meghatalmazás alapján technikai közreműködőként jogosult képviselni a meghatalmazót az agrártámogatások igénybevételével összefüggő elektronikus ügyintézésben, ezzel kapcsolatban az agrárkamara létrehozza és üzemelteti a kamarai meghatalmazások nyilvántartását.
+(9)
 
-#### 14/A. §
+14/A. § (1) Az agrárkamara a kamarai meghatalmazás alapján technikai közreműködőként jogosult képviselni a meghatalmazót az agrártámogatások igénybevételével összefüggő elektronikus ügyintézés során.
+
+(2) Ha a meghatalmazó nevében kamarai meghatalmazás alapján az agrárkamara jár el, a kamarai meghatalmazás rögzítéséhez az agrárkamara elektronikus úton átadja a mezőgazdasági és vidékfejlesztési támogatási szervnek
+
+- a) a kamarai meghatalmazás alapján eljáró munkavállalója és a természetes személy meghatalmazó ügyfélazonosítóját és születési idejét,
+- b) nem természetes személy meghatalmazó esetén annak ügyfélazonosítóját és adóazonosítóját,
+- c) a kamarai meghatalmazás egyedi azonosítóját és tárgyi hatályát.
+
+(3) Az agrárkamara a kamarai meghatalmazás alapján az (1) bekezdés szerinti feladatai ellátása érdekében, a kamarai meghatalmazás megszűnésétől számított tíz évig
+
+- a) a kamarai meghatalmazást és a létrejöttéhez szükséges, jogszabályban meghatározott, a meghatalmazó beazonosítására és elérhetőségére vonatkozó személyes adatokat nyilvántartja és kezeli, továbbá
+- b) a kamarai meghatalmazás alapján végzett eljárás során keletkezett összes dokumentumot megőrzi.
+
+(4) A kamarai meghatalmazás tárgyi hatálya az agrárkamara által meghatározott és honlapján közzétett azon agrártámogatások igénybevételével összefüggő elektronikus ügyintézésre terjedhet ki, amelyek vonatkozásában jogszabály vagy pályázati felhívás a kamarai meghatalmazással való eljárást nem zárja ki. A honlapon közzétett agrártámogatási listát az agrárkamara – a mezőgazdasági és vidékfejlesztési támogatási szerv előzetes tájékoztatását követően – legalább háromhavonta felülvizsgálja azzal, hogy annak módosítása nem érinti a hatályos kamarai meghatalmazás alapján folyamatban lévő ügyeket.
+
+(5) A kamarai meghatalmazás alapján az agrárkamara kizárólag
+
+- a) a meghatalmazó erre irányuló kifejezett kezdeményezésére és a meghatalmazó által szolgáltatott adatok rögzítésével, a (4) bekezdés szerinti agrártámogatásokra vonatkozó kérelem, dokumentum elektronikus benyújtásáért, és
+- b) a mezőgazdasági és vidékfejlesztési támogatási szerv által az agrárkamara részére a kamarai meghatalmazásra tekintettel küldött, a meghatalmazót érintő iratok továbbításáért
+
+felelős.
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért, valamint az agrár-, vidékfejlesztésért felelős miniszter és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 
@@ -927,6 +954,8 @@ használhatja fel.
 (2) E törvénynek a 2018. évi CXXXVII. törvénnyel megállapított 2. § j) pontját a megismételt eljárásokban is alkalmazni kell.
 
 (3)
+
+60. § E törvénynek az egyes törvényeknek az agrárminiszter feladatkörét érintő módosításáról szóló 2023. évi XLIV. törvénnyel (a továbbiakban: 2023. évi XLIV. törvény) megállapított 14/A. §-át a 2023. évi XLIV. törvény hatálybalépésekor a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján folyamatban lévő ügyekben is alkalmazni kell.
 
 ### 1. melléklet a 2012. évi CXXVI. törvényhez
 

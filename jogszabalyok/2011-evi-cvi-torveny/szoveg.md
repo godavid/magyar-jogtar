@@ -18,7 +18,7 @@ ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, 
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
-(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 15 nap időtartamú munkaerő-piaci szolgáltatásban, valamint a mentális, szociális, egészségügyi problémákkal küzdő álláskereső naptári évenként legfeljebb 15 nap időtartamú egészségügyi és szociális szolgáltatásban vesz részt.
+(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerőpiaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 120 munkaóra időtartamú munkaerőpiaci szolgáltatásban, valamint naptári évenként legfeljebb 120 munkaóra időtartamú egészségügyi és szociális szolgáltatásban vesz részt.
 
 (2c) A hatósági szerződés megszűnése esetén a közfoglalkoztatási jogviszony megszűnik.
 
@@ -229,7 +229,7 @@ vonatkozó szabályai nem alkalmazhatók,
 
 4. § A közfoglalkoztatási jogviszonyra a munkaviszonyra irányadó társadalombiztosítási, adózási, munkavédelmi szabályokat kell alkalmazni.
 
-4/A. § (1) Amennyiben több hátrányos helyzetű személy egy közfoglalkoztatónál áll legalább egyéves időtartamban közfoglalkoztatási jogviszonyban, és a közfoglalkoztatottak vállalják, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet együtt fognak dolgozni, a közfoglalkoztatás során használt ingó tárgyi eszközöket az általuk megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
+4/A. § (1) Ha a szociális szövetkezet megfelel a szövetkezetekről szóló 2006. évi X. törvény 21/B. § (2) bekezdésében foglalt start szociális szövetkezet feltételeinek, a közfoglalkoztatási támogatásból beszerzett ingó tárgyi eszközöket a start szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
 
 (2) Amennyiben a hátrányos helyzetű személy képzési programmal egybekötött mezőgazdasági célú közfoglalkoztatásban eredményesen vesz részt, és vállalja, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet fog dolgozni, a képzési programmal összefüggésben használt ingó tárgyi eszközöket az általa megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
 
@@ -253,9 +253,9 @@ vonatkozó szabályai nem alkalmazhatók,
 
 (6) A szociális szövetkezetet – az (1) és (2) bekezdésben meghatározott feltételek teljesítése esetén – a közfoglalkoztatási jogviszony megszűnésétől számított három hónapon belül kell megalapítani.
 
-(7) Amennyiben a szociális szövetkezet európai uniós versenyjogi értelemben vett gazdasági tevékenységet végez, és a helyi önkormányzat, a nemzetiségi önkormányzat, vagy ezek jogi személyiségű társulása, mint közfoglalkoztató nem tagja a szövetkezetnek, az ehhez a tevékenységhez az állam által biztosított ingó tárgyi eszköz, termőföld, állatállomány meg nem fizetett használati díja csekély összegű (de minimis) támogatásnak minősül, és az az állami támogatásokra vonatkozó uniós jogi aktusok rendelkezéseivel összhangban nyújtható.
+(7)
 
-(8) Az (1)–(7) bekezdés rendelkezései alkalmazandók abban az esetben, ha a magyar állam, az önkormányzat vagy a közalapítvány a szociális szövetkezet részére egyéb ingatlant ad ingyenesen használatba.
+(8) Az (1)–(6) bekezdés rendelkezései alkalmazandók abban az esetben, ha a magyar állam, az önkormányzat vagy a közalapítvány a szociális szövetkezet részére egyéb ingatlant ad ingyenesen használatba.
 
 4/B. § Az 1. § (4) bekezdés c) pontja szerinti személy foglalkoztatása esetén a 2. § (3a) és (3c) bekezdése, az 1. § (4) bekezdés d) pontja szerinti személy foglalkoztatása esetén a 4/A. § nem alkalmazható.
 

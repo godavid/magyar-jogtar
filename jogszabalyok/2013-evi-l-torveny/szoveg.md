@@ -95,7 +95,7 @@ Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 2. § (1) E törvény rendelkezéseit kell alkalmazni:
 
 - a) a központi államigazgatási szervekre, a Kormány és a kormánybizottságok kivételével,
-- b) a Köztársasági Elnöki Hivatalra,
+- b) a Sándor-palotára,
 - c) az Országgyűlés Hivatalára,
 - d) az Alkotmánybíróság Hivatalára,
 - e) az Országos Bírósági Hivatalra és a bíróságokra,
