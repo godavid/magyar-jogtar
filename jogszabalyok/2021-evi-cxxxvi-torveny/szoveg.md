@@ -6,53 +6,53 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 #### 1. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
 11. § (1)
 
 (2)
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 14. § (1)
 
 (2)
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
 20. § (1)
 
 (2)
 
-21. §
+#### 21. §
 
 22. § (1)
 
@@ -70,63 +70,63 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 (4)
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
 #### 2. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 #### 3. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-29. §
+#### 29. §
 
 #### 4. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 5. Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 6. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
 49. § (1)
 
@@ -134,63 +134,63 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 (3)
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
 #### 7. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
 #### 8. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
 #### 9. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
 #### 10. A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény módosítása
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
 75. § (1)
 
@@ -198,285 +198,283 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 (3)
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
 #### 11. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-84. § A hulladékról szóló 2012. évi CLXXXV. törvény 90. §-a a következő (3) bekezdéssel egészül ki:
+#### 84. §
 
-„(3) A hulladékgazdálkodási közszolgáltatás 2023. június 30. napjáig történő igénybevételéért az ingatlanhasználót terhelő díjhátralék és az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségeinek végrehajtására az e törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel hatályon kívül helyezett 52. §-ában foglaltakat kell alkalmazni.”
+#### 85. §
 
-85. §
+#### 86. §
 
-86. §
-
-87. § Hatályát veszti a hulladékról szóló 2012. évi CLXXXV. törvény 52. §-a.
+#### 87. §
 
 #### 12. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
 #### 13. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
 #### 14. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
-95. §
+#### 95. §
 
-96. §
+#### 96. §
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
 #### 15. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
-100. §
+#### 100. §
 
 ### II. Fejezet — AZ EGYES KÖZLEKEDÉSI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSÁRÓL
 
 #### 16. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
-121. §
+#### 121. §
 
 #### 17. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
-125. §
+#### 125. §
 
-126. §
+#### 126. §
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
-129. §
+#### 129. §
 
-130. §
+#### 130. §
 
-131. §
+#### 131. §
 
-132. §
+#### 132. §
 
 #### 18. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-133. §
+#### 133. §
 
-134. §
+#### 134. §
 
-135. §
+#### 135. §
 
-136. §
+#### 136. §
 
 #### 19. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-137. §
+#### 137. §
 
-138. §
+#### 138. §
 
-139. §
+#### 139. §
 
-140. §
+#### 140. §
 
-141. §
+#### 141. §
 
-142. §
+#### 142. §
 
-143. §
+#### 143. §
 
-144. §
+#### 144. §
 
-145. §
+#### 145. §
 
-146. §
+#### 146. §
 
-147. §
+#### 147. §
 
-148. §
+#### 148. §
 
-149. §
+#### 149. §
 
-150. §
+#### 150. §
 
 #### 20. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-151. §
+#### 151. §
 
-152. §
+#### 152. §
 
-153. §
+#### 153. §
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
-156. §
+#### 156. §
 
-157. §
+#### 157. §
 
-158. §
+#### 158. §
 
-159. §
+#### 159. §
 
-160. §
+#### 160. §
 
-161. §
+#### 161. §
 
-162. §
+#### 162. §
 
-163. §
+#### 163. §
 
-164. §
+#### 164. §
 
-165. §
+#### 165. §
 
-166. §
+#### 166. §
 
-167. §
+#### 167. §
 
-168. §
+#### 168. §
 
-169. §
+#### 169. §
 
-170. §
+#### 170. §
 
-171. §
+#### 171. §
 
-172. §
+#### 172. §
 
-173. §
+#### 173. §
 
 #### 21. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-174. §
+#### 174. §
 
-175. §
+#### 175. §
 
-176. §
+#### 176. §
 
-177. §
+#### 177. §
 
-178. §
+#### 178. §
 
 #### 22. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-179. §
+#### 179. §
 
-180. §
+#### 180. §
 
-181. §
+#### 181. §
 
-182. §
+#### 182. §
 
-183. §
+#### 183. §
 
-184. §
+#### 184. §
 
 #### 23. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-185. §
+#### 185. §
 
-186. §
+#### 186. §
 
 #### 24. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
-187. §
+#### 187. §
 
 ### III. Fejezet — A SZABÁLYOZOTT TEVÉKENYSÉGEK FELÜGYELETI HATÓSÁGÁRÓL SZÓLÓ 2021. ÉVI XXXII. TÖRVÉNY ÉS AZ AZZAL ÖSSZEFÜGGŐ TÖRVÉNYEK MÓDOSÍTÁSÁRÓL
 
 #### 25. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-188. §
+#### 188. §
 
-189. §
+#### 189. §
 
-190. §
+#### 190. §
 
-191. §
+#### 191. §
 
-192. §
+#### 192. §
 
 #### 26. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-193. §
+#### 193. §
 
-194. §
+#### 194. §
 
 #### 27. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-195. §
+#### 195. §
 
 #### 28. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosítása
 
@@ -484,31 +482,31 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 (2)
 
-197. §
+#### 197. §
 
-198. §
+#### 198. §
 
-199. §
+#### 199. §
 
-200. §
+#### 200. §
 
-201. §
+#### 201. §
 
-202. §
+#### 202. §
 
-203. §
+#### 203. §
 
 #### 29. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosítása
 
-204. §
+#### 204. §
 
-205. §
+#### 205. §
 
-206. §
+#### 206. §
 
-207. §
+#### 207. §
 
-208. §
+#### 208. §
 
 209. § (1)
 
@@ -522,29 +520,29 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 (6)
 
-210. §
+#### 210. §
 
-211. §
+#### 211. §
 
-212. §
+#### 212. §
 
 #### 30. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-213. §
+#### 213. §
 
-214. §
+#### 214. §
 
 #### 31. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-215. §
+#### 215. §
 
-216. §
+#### 216. §
 
 217. § (1)
 
 (2)
 
-218. §
+#### 218. §
 
 219. § (1)
 
@@ -562,19 +560,19 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 (8)
 
-220. §
+#### 220. §
 
-221. §
+#### 221. §
 
-222. §
+#### 222. §
 
-223. §
+#### 223. §
 
-224. §
+#### 224. §
 
-225. §
+#### 225. §
 
-226. §
+#### 226. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

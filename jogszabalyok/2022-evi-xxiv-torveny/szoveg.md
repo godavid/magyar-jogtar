@@ -326,13 +326,9 @@ Magyarország 2023. évi központi költségvetésének megalapozásáról
 
 #### 122. §
 
-123. § A hulladékról szóló 2012. évi CLXXXV. törvény 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 123. §
 
-„(1) Ha törvény másként nem rendelkezik, a gyártók, a forgalmazók – a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék és annak hulladéka kivételével – a 22–28. §-ban foglalt kötelezettsége ellátása érdekében közvetítő szervezetet hozhatnak létre vagy bízhatnak meg azzal, hogy e kötelezettségeiket a közvetítő szervezet a gyártóktól, a forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja.”
-
-124. § A hulladékról szóló 2012. évi CLXXXV. törvény 30/A. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.”
+#### 124. §
 
 #### 125. §
 
@@ -346,25 +342,17 @@ Magyarország 2023. évi központi költségvetésének megalapozásáról
 
 #### 128. §
 
-129. § A hulladékról szóló 2012. évi CLXXXV. törvény 28. alcíme a következő 66/A. §-sal egészül ki:
+#### 129. §
 
-„66/A. § A kiterjesztett gyártói felelősségi rendszerrel kapcsolatos adatszolgáltatási és nyilvántartási kötelezettség teljesítéséről kormányrendeletben meghatározott módon és adattartalommal a gyártó, a koncessziós társaság és a koncesszori alvállalkozó gondoskodik. A koncessziós társaság, az állami adó- és vámhatóság, a hulladékgazdálkodási hatóság és a Hivatal a gyártóknak a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termékekkel, és az azokból származó hulladékokkal kapcsolatos adatait kezeli.”
-
-130. § (1)
-
-(2)
-
-(3)
-
-(4) (rendeletben állapítsa meg.)
+130. § (3)
 
 #### 131. §
 
 132. § A hulladékról szóló 2012. évi CLXXXV. törvény
 
-1. 2. § (1) bekezdés 26b. pontjában a „hulladékának, kiterjesztett” szövegrész helyébe a „hulladékának, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott kiterjesztett” szöveg,
+1.
 
-2. 2. § (1) bekezdés 38a. pontjában a „környezetvédelmi termékdíjról szóló törvény szerinti, a termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő, valamint az egyes gyűjtési és hasznosítási célok elérését szolgáló” szövegrész helyébe a „kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termékekre vonatkozóan a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő” szöveg,
+2.
 
 3.
 
@@ -654,15 +642,7 @@ lép.
 
 #### 232. §
 
-233. § Nem lép hatályba az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvény
-
-- 1. 40. § (2) bekezdése,
-- 2. 45. §-a,
-- 3. 47. §-a,
-- 4. 50. §-a,
-- 5. 85. § (10) bekezdése,
-- 6. 85. § (12) bekezdése, és
-- 7. 90. § (2) bekezdés 10. pontja.
+#### 233. §
 
 #### 68. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 

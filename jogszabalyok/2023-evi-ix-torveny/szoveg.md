@@ -225,22 +225,9 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 #### 17. §
 
-18. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 217/B. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+#### 18. §
 
-„(1a) E § alkalmazásában a végrehajtó pénzkezelésére vagy díjszabására vonatkozó szabályok megsértése lényegesen jogszabálysértő végrehajtói intézkedésnek minősül abban az esetben is, ha annak a végrehajtási eljárás lefolytatására érdemi kihatása nem volt.
-
-(1b) A bíróság a végrehajtóval szemben meghozott pénzösszeg megfizetésére kötelező határozatát anonimizált formában – kizárólag a 230. § (1b) bekezdésében szereplő adatok megjelölésével – a jogerőre emelkedését követő 15 napon belül elektronikus úton megküldi a Hatóságnak.”
-
-19. § (1) A Vht. 230. §-a a következő (1b)–(1c) bekezdéssel egészül ki:
-
-„(1b) A Hatóság a 217/B. § (1b) bekezdése szerinti végzés alapján a végrehajtókról – az alábbi adattartalommal – nyilvántartást vezet:
-
-- a) a végrehajtó természetes személyazonosító adatai és lakcíme,
-- b) a végrehajtót pénzösszeg megfizetésére kötelező bíróság megnevezése,
-- c) a végrehajtót pénzösszeg megfizetésére kötelező jogerős határozat száma, kelte,
-- d) a megfizetendő pénzösszeg mértéke.
-
-(1c) Az (1b) bekezdés szerinti adatokat a Hatóság a végrehajtó szolgálata folyamatosságának megállapítása iránti kérelem elbírálása érdekében, az arról szóló határozat véglegessé válása napjáig kezeli.”
+19. § (1)
 
 (2)
 
@@ -248,12 +235,7 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 #### 20. §
 
-21. § A Vht. 234/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha
-
-- a) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál, és
-- b) a kérelem benyújtásáig, a kérelem előterjesztésének évében, és az azt megelőző két év alatt a végrehajtót legfeljebb három alkalommal kötelezte a bíróság pénzösszeg 217/B. § szerinti megfizetésére.”
+#### 21. §
 
 #### 22. §
 
@@ -273,11 +255,7 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 30. § (1)
 
-(2) A Vht. 304/L. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A Módtv.15-tel megállapított 217/B. § (1a) és (1b) bekezdését, valamint a 230. § (1b) bekezdését a Módtv.15. hatálybalépésekor folyamatban lévő végrehajtási eljárások során is alkalmazni kell a Módtv.15. hatálybalépését követően jogerőre emelkedő határozatok esetén.
-
-(5) A 2026. január 1-jét megelőzően benyújtott szolgálat folyamatosságának megállapítása iránti kérelmek esetében a Módtv.15.-tel megállapított 234/A. § (1) bekezdés b) pontja szerinti feltétel fennállásának megállapítása során a 2023. július 1-jétől a kérelem benyújtásáig terjedő időszakot kell figyelembe venni.”
+(2)
 
 (3)
 
@@ -285,7 +263,7 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 32. § A Vht.
 
-- a) 217. § (1) bekezdésében az „E § alkalmazásában” szövegrész helyébe az „Ezen alcím alkalmazásában” szöveg,
+- a)
 - b)
 - c)
 - d)

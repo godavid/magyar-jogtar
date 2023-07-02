@@ -46,14 +46,7 @@ Az egészségben eltöltött évek számának további növelése, az egészség
 
 #### 16. §
 
-17. § Az Eatv. 3/A. alcíme a következő 6/B. §-sal egészül ki:
-
-„6/B. § (1) Az állam az egészségügyi alapellátás körében – a települési önkormányzattal együttműködésben – gondoskodik a védőnői ellátásról.
-
-(2) A védőnői ellátás biztosításáért a Kormány által rendeletben kijelölt állami intézményfenntartó szerv – az irányító vármegyei intézmény útján – felelős azzal, hogy
-
-- a) az ellátás jogszabályban előírt tárgyi feltételeit az állam a települési önkormányzattal kötött megállapodás útján is biztosíthatja, és
-- b) a Kormány által rendeletben kijelölt állami intézményfenntartó szerv a települési önkormányzat részére tájékoztatásul megküldi a védőnői ellátás megszervezésével összefüggő, a személyi és a tárgyi feltételek biztosítására vonatkozó döntéseket.”
+#### 17. §
 
 #### 18. §
 
@@ -63,32 +56,15 @@ Az egészségben eltöltött évek számának további növelése, az egészség
 
 #### 21. §
 
-22. § Hatályát veszti az Eatv.
-
-- a) 5. § (1) bekezdés d) pontja,
-- b)
-- c)
-- d)
+#### 22. §
 
 #### 6. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
 #### 23. §
 
-24. § (1) Az Eszjtv. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 24. §
 
-„(3) A (2) bekezdés szerinti minősítés alapján, az adott fizetési fokozathoz tartozó összeghez képest a 8. § (3) és (6) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy illetménye 40%-kal növelhető.”
-
-(2) Az Eszjtv. 7. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (2) bekezdés szerinti minősítés alapján a 8. § (3) és (6) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy illetménye – a 8. § (2) és (3) bekezdésétől és az Eütev. 11/A. § (4)–(6b) bekezdésétől eltérően – az adott fizetési fokozathoz tartozó összeghez képest legfeljebb 20%-kal csökkenthető.”
-
-25. § (1) Az Eszjtv. 17. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg)
-
-„c) az egészségügyi szolgálati jogviszonyban álló személy minősítésének szabályait, és a minősítés alapján alkalmazható illetménycsökkentés részletes feltételeit,”
-
-(2)
+#### 25. §
 
 #### 26. §
 
