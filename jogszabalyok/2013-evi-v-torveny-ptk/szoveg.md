@@ -3345,11 +3345,11 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:326. § [A szövetkezet tagságával kapcsolatos általános rendelkezések]
 
-(1) A szövetkezet nem természetes személy tagjainak száma nem haladhatja meg a taglétszám húsz százalékát; a szövetkezetnek a szövetkezeti formában működő jogi személy tagjait a nem természetes személy tagok számítása során figyelmen kívül kell hagyni.
+(1) A szövetkezet nem természetes személy tagjainak száma nem haladhatja meg a taglétszám harmadát; a szövetkezetnek a szövetkezeti formában működő jogi személy tagjait a nem természetes személy tagok számítása során figyelmen kívül kell hagyni.
 
-(2) A szövetkezet személyes közreműködést nem vállaló tagjainak száma nem haladhatja meg a taglétszám negyedét.
+(2) A szövetkezet személyes közreműködést nem vállaló tagjainak száma nem haladhatja meg a taglétszám harmadát.
 
-(3) A szövetkezet egyes tagjainak vagyoni hozzájárulása nem haladhatja meg a tőke tizenöt százalékát; a nem természetes személy tagok vagyoni hozzájárulásának összege nem haladhatja meg a tőke harmadát.
+(3) A szövetkezet egyes tagjainak vagyoni hozzájárulása nem haladhatja meg a tőke harmincöt százalékát; a nem természetes személy tagok vagyoni hozzájárulásának összege nem haladhatja meg a tőke harmadát. A szociális szövetkezetek esetén a nem természetes személy tagok vagyoni hozzájárulásának összege nem haladhatja meg a tőke felét.
 
 (4) Nem lehet a tagokat nyilvános felhívás útján gyűjteni.
 
@@ -3389,7 +3389,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:331. § [A szövetkezet létesítő okirata]
 
-(1) A szövetkezet létesítő okirata az alapszabály. Az alapszabály elfogadásához legalább hét személy egybehangzó akaratnyilatkozata szükséges.
+(1) A szövetkezet létesítő okirata az alapszabály. Az alapszabály elfogadásához legalább három személy egybehangzó akaratnyilatkozata szükséges.
 
 (2) Az elfogadott alapszabályt minden alapító tagnak alá kell írnia. Az alapszabályt a tag helyett közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező képviselője is aláírhatja.
 
@@ -3497,9 +3497,9 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:340. § [Jegyzőkönyv]
 
-(1) Az ügyvezetés köteles gondoskodni arról, hogy a közgyűlésről jegyzőkönyv készüljön. A jegyzőkönyv tartalmazza a közgyűlés helyét és idejét, a jelenlévőket, továbbá a taggyűlésen lezajlott fontosabb eseményeket, nyilatkozatokat és a határozatokat, valamint az azokra leadott szavazatok és ellenszavazatok számát, a szavazástól tartózkodókat vagy az abban részt nem vevőket.
+(1) Az ügyvezetés köteles gondoskodni arról, hogy a közgyűlésről jegyzőkönyv készüljön. A jegyzőkönyv tartalmazza a közgyűlés helyét és idejét, a szövetkezet taglétszámát, a jelenlévők számát, a szavazásra jogosultak számát, továbbá a taggyűlésen lezajlott fontosabb eseményeket, nyilatkozatokat és a határozatokat, valamint az azokra leadott szavazatok és ellenszavazatok számát, a szavazástól tartózkodókat vagy az abban részt nem vevőket.
 
-(2) A jegyzőkönyv mellékletét képezi a jelenléti ív, valamint a képviseleti meghatalmazásokat tartalmazó okiratok.
+(2) Az ügyvezetés köteles a közgyűlési jegyzőkönyvet, a jelenléti ívet, valamint a képviseleti meghatalmazásokat tartalmazó okiratokat a szövetkezet dokumentumai között elhelyezni és megőrizni.
 
 (3) A jegyzőkönyvet a levezető elnök, a jegyzőkönyvvezető és a jegyzőkönyvet hitelesítő két szövetkezeti tag írja alá.
 
@@ -3547,7 +3547,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:345. § [Igazgató elnök]
 
-Tizenöt főnél kisebb taglétszámú szövetkezetben az alapszabály igazgatóság helyett igazgató elnöki tisztséget rendszeresíthet, aki az igazgatóság hatáskörében jár el.
+Háromfős taglétszámú szövetkezetben igazgató elnök jár el az igazgatóság hatáskörében. Három főnél nagyobb, de tizenöt főnél kisebb taglétszámú szövetkezetben az alapszabály igazgatóság helyett igazgató elnöki tisztséget rendszeresíthet, aki az igazgatóság hatáskörében jár el.
 
 #### 3:346. § [A szövetkezet vezető tisztségviselői; kizáró és összeférhetetlenségi okok]
 
@@ -3633,7 +3633,7 @@ A vezető tisztségviselői megbízatás megszűnésének a jogi személyek ált
 
 (4) A szövetkezetbe tagként belépni kívánó személy nem köteles vagyoni hozzájárulás teljesítésére annyiban, amennyiben más tag a szövetkezeti részesedését vagy annak egy hányadát rá átruházza.
 
-(5) Ha a szövetkezet tagjainak száma hét fő alá csökken, hat hónapos határidőn belül a szövetkezet köteles megfelelő számú új tagot felvenni, vagy a szövetkezet átalakulását, egyesülését, jogutód nélküli megszüntetését elhatározni.
+(5) Ha a szövetkezet tagjainak száma három fő alá csökken, hat hónapos határidőn belül a szövetkezet köteles megfelelő számú új tagot felvenni, vagy a szövetkezet átalakulását, egyesülését, jogutód nélküli megszüntetését elhatározni.
 
 #### 3:355. § [Tagnyilvántartás]
 
