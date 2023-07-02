@@ -4,7 +4,23 @@ a szövetkezetekről
 
 Az Országgyűlés
 
-felismerve, hogy a szövetkezeti forma nagymértékben képes társadalmi erőforrásokat mozgásba hozni, az elkülönült gazdasági szereplők helyzetét megerősíteni, közösségi szükségleteket kielégíteni, ösztönözni kívánja a szövetkezést és állami eszközökkel támogatást kíván nyújtani a szövetkezeti mozgalom továbbfejlődéséhez,
+felismerve, hogy a szövetkezeti forma nagymértékben képes társadalmi erőforrásokat hatékonyan egyesíteni, az elkülönült gazdasági szereplők helyzetét megerősíteni, a közösségteremtésben és a közösségmegtartásban kiemelten értékes szerepet betölteni, továbbá felismerve, hogy a szövetkezet a tagjai javára, más társas vállalkozási formáktól eltérően működik és a működése során érvényre juttatja a Szövetkezetek Nemzetközi Szövetsége által kinyilvánított nemzetközi szövetkezeti alapelveket, amelyek a következők:
+
+1. önkéntes és nyitott tagság,
+
+2. demokratikus tagi ellenőrzés,
+
+3. tagok gazdasági részvétele,
+
+4. autonómia és függetlenség,
+
+5. oktatás, képzés, tájékoztatás,
+
+6. szövetkezetek közötti együttműködés,
+
+7. felelősség a közösségért,
+
+elismerve, hogy a szövetkezetnek a fentiekre figyelemmel a gazdasági, társadalmi, környezeti, kulturális fenntarthatóság elősegítésében meghatározó a jelentősége, ösztönözni kívánja a szövetkezést és állami eszközökkel támogatást kíván nyújtani a szövetkezeti mozgalom továbbfejlődéséhez,
 
 a következő törvényt alkotja:
 
@@ -12,7 +28,7 @@ a következő törvényt alkotja:
 
 1. § E fejezet rendelkezéseit a Polgári Törvénykönyvvel (a továbbiakban: Ptk.) együtt kell alkalmazni.
 
-2. § A Ptk. szövetkezeti tagsággal kapcsolatos általános rendelkezései alapján kizárólag szövetkezetek tagságával másodlagos szövetkezet is alapítható és működtethető.
+2. § A szövetkezetek másodlagos szövetkezetet hozhatnak létre és működtethetnek. A másodlagos szövetkezet olyan szövetkezet, amelyet kizárólag szövetkezetek alapíthatnak abból a célból, hogy tevékenységük előmozdítása érdekében egy másodlagos szerveződési szintet alakítsanak ki.
 
 3. § A szövetkezet és a tag között kötött tagsági megállapodásban határozhatóak meg – az alapszabály keretei között – a szövetkezet és a tag gazdasági együttműködése keretében teljesítendő feladatok és vállalások, valamint a tag által igénybe vehető szövetkezeti szolgáltatások köre.
 
@@ -140,7 +156,7 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (5) Az iskolaszövetkezet alapszabálya nem jogosíthatja fel a közgyűlést arra, hogy a szövetkezet veszteségének fedezésére pótbefizetést írjon elő.
 
-13. § (1) Az iskolaszövetkezeti tagsági jogviszony is megszűnik a tanulói vagy a hallgatói jogviszony megszűnésével.
+13. § (1) Az iskolaszövetkezeti tagsági jogviszony megszűnik a tanulói, a felnőttképzési vagy a hallgatói jogviszony megszűnését követően a diákigazolványra való jogosultság lejártával.
 
 (2) Az iskolaszövetkezet nem alakulhat át gazdasági társasággá. Az iskolaszövetkezet csak más iskolaszövetkezettel egyesülhet.
 
@@ -152,13 +168,15 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (2) Az iskolaszövetkezet az éves nettó árbevételének legalább 85%-át a tagok között személyes közreműködésük arányában osztja fel.
 
-13/B. § (1) Az iskolaszövetkezet az adózott eredményének (nyereségének) legalább 10%-át oktatási, képzési célt szolgáló közösségi alapba köteles helyezni. Az iskolaszövetkezet oktatási, képzési célt szolgáló közösségi alapja fel nem osztható szövetkezeti vagyonnak minősül.
+13/B. § (1) Az iskolaszövetkezet az adózott eredményének (nyereségének) legalább 10%-át oktatási, képzési és rekreációs célt szolgáló közösségi alapba köteles helyezni. Az iskolaszövetkezet oktatási, képzési és rekreációs célt szolgáló közösségi alapja fel nem osztható szövetkezeti vagyonnak minősül.
 
-(2) Az oktatási, képzési célt szolgáló közösségi alap felhasználása célhoz kötött, a szövetkezet tagjainak oktatását, képzését, továbbképzését fedezi.
+(2) Az oktatási, képzési és rekreációs célt szolgáló közösségi alap felhasználása célhoz kötött, a szövetkezet tagjainak oktatását, képzését, továbbképzését, rekreációját fedezi.
 
-(3) Az iskolaszövetkezet jogutód nélküli megszűnése esetén – a hitelezőkkel való elszámolást követően – az oktatási, képzési célt szolgáló közösségi alapot az alapszabály rendelkezése szerinti iskolaszövetkezet vagy iskolaszövetkezeti szövetség részére kell átadni.
+(3) Az iskolaszövetkezet jogutód nélküli megszűnése esetén – a hitelezőkkel való elszámolást követően – az oktatási, képzési és rekreációs célt szolgáló közösségi alapot az alapszabály rendelkezése szerinti iskolaszövetkezet vagy iskolaszövetkezeti szövetség részére kell átadni.
 
-(4) Az oktatási, képzési célt szolgáló közösségi alap terhére nyújtott szolgáltatás a nyereségből való részesedésként és a tagsági jogviszony megszűnéséhez kapcsolódó elszámolás során nem vehető figyelembe.
+(4) Az oktatási, képzési és rekreációs célt szolgáló közösségi alap terhére nyújtott szolgáltatás a nyereségből való részesedésként és a tagsági jogviszony megszűnéséhez kapcsolódó elszámolás során nem vehető figyelembe.
+
+13/C. § Az iskolaszövetkezet oktatási, képzési és rekreációs célt szolgáló közösségi alapja felhasználásának általános szabályait a Kormány rendeletben állapítja meg.
 
 #### 3. Szociális szövetkezet
 
@@ -557,7 +575,7 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (3) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet, a nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendeletben állapítsa meg.
 
-(4)
+(4) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet oktatási, képzési és rekreációs célt szolgáló közösségi alapja felhasználásának általános szabályait rendeletben állapítsa meg.
 
 108. § E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel (a továbbiakban: Ptk.htv.) megállapított rendelkezéseinek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvényben (a továbbiakban: Ptké.) foglaltak szerint kell megfelelni azzal, hogy a Ptk.htv.-vel megállapított 15. § (3) bekezdésében foglalt korlátozást a Ptk. hatálybalépésekor a cégjegyzékbe bejegyzett, vagy a Ptké. szerint bejegyzés alatt álló szociális szövetkezet esetében nem kell alkalmazni, azonban a Ptk. rendelkezéseivel összhangban álló továbbműködés időpontját követően e szociális szövetkezet tagsága nem változtatható meg úgy, hogy a tagok számának aránya a 15. § (3) bekezdésében foglaltaktól – a változást megelőző állapothoz képest – nagyobb arányban térjen el.
 
