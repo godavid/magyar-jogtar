@@ -118,7 +118,7 @@ az Országgyűlés a következő törvényt alkotja:
 
 13. § E törvény alkalmazása tekintetében a Budai Palotanegyeden a Kormány által e törvény felhatalmazása alapján kiadott rendeletében Budai Palotanegyed területébe tartozó ingatlanként meghatározott, a Budapest I. kerületben elhelyezkedő,
 
-- a) a Dísz tér 1–2. szám alatti ingatlant,
+- a) a Dísz tér 1–2. és 15. szám alatti ingatlant,
 - b) a Dísz tértől délre, a várfalon belül elhelyezkedő ingatlanokat, valamint
 - c) a várfalon túl, a várfal mellett elhelyezkedő, a Palota út–Váralja utca–Apród utca–Ybl Miklós tér–Lánchíd utca–Sikló utca–Hunyadi János út és Dísz tér által lehatárolt állami és önkormányzati tulajdonú ingatlanokat
 
@@ -133,7 +133,7 @@ kell érteni.
 15. § A 14. § (3) bekezdése alapján az állam által ellátandó közfeladatként
 
 - a) a Kormány Várnegyed rehabilitációs programot valósít meg, amely keretében a Budai Palotanegyed területén található ingatlanokon értékmegőrző, valamint értékteremtő fejlesztéseket és beruházásokat kell elvégezni,
-- b) a Kormány biztosítja – a világörökségre, valamint a kulturális örökség védelmére vonatkozó előírásokkal összhangban – az egységes településképi és építészeti követelmények érvényesítését, amely érdekében a Kormány rendeletben állapíthatja meg az egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat,
+- b) a Kormány biztosítja – a világörökségre, valamint a kulturális örökség védelmére vonatkozó előírásokkal összhangban – az egységes településképi és építészeti követelmények érvényesítését, amely érdekében a Kormány rendeletben állapíthatja meg az egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat, egyedi hatósági eljárási szabályokat,
 - c) a Kormány rendeletben határozza meg a Budai Palotanegyed területe tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 - d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt közterületek fenntartása, fejlesztése és üzemeltetése körében a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztését és karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett látja el.
 
@@ -170,7 +170,9 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (2) Az (1) bekezdés szerinti ingatlanok tekintetében településrendezési feladatok megvalósítása, végrehajtása érdekében építési, telekalakítási és változtatási tilalom nem alkalmazható.
 
-(3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) bekezdésben foglaltakat kell alkalmazni.
+(2a) Az (1) bekezdés szerinti beruházások megvalósítása érdekében a közúton burkolatbontással járó munka a közút fejlesztését, felújítását, továbbá a közút burkolatának teljes szélességű helyreállítását követő 5 éven belül is végezhető. Ezen munkálatok kérelemben megjelölt időszakban történő kivitelezéséhez a kezelői hozzájárulás nem tagadható meg, ha a kérelem az egyéb jogszabályban rögzített feltételeknek megfelel.
+
+(3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) és (2a) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) és (2a) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) és (2a) bekezdésben foglaltakat kell alkalmazni.
 
 19. § (1) A Vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a Vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon célszerinti fenntartására fordítani.
 
@@ -255,7 +257,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a Budai Palotanegyed területébe tartozó ingatlanok felsorolását,
-- b) a Budai Palotanegyed területére vonatkozó egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat,
+- b) a Budai Palotanegyed területére vonatkozó egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat, egyedi hatósági eljárási szabályokat,
 - c) a Budai Palotanegyed tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 - d) a 18. és 19/A. §-ok szerinti kiemelten közérdekű beruházások megnevezését, helyszínét, illetve szükség szerint közvetlen környezetét,
 - e) a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztésére és karbantartására kijelölt, a 15. § d) pontja szerinti gazdasági társaságot,
