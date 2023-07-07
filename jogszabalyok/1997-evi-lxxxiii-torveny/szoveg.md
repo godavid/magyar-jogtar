@@ -746,6 +746,20 @@ igazolja.
 
 30. § (1) Az egészségbiztosító az egészségügyi szolgáltatások nyújtására – a külön jogszabályban foglaltak figyelembevételével – finanszírozási szerződést köt az adott szolgáltatás nyújtására jogosító működési engedéllyel rendelkező egészségügyi szolgáltatóval, amennyiben az nem rendelkezik olyan, az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti köztartozással (a továbbiakban: köztartozás) vagy az Egészségbiztosítási Alap felé fennálló tartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
 
+(1a) Törvény eltérő rendelkezése hiányában a helyi önkormányzat által biztosított járóbeteg-szakellátás nyújtására az egészségbiztosítás keretében csak költségvetési szervként működő egészségügyi intézménnyel köthető finanszírozási szerződés.
+
+(1b) A computer tomográf, valamint a mágneses rezonancia vizsgálatok alkalmazási körébe tartozó képalkotó diagnosztikai eljárások (a továbbiakban együtt: CT-MRI vizsgálat) egészségbiztosítás keretében történő végzésére az (1) bekezdésnek megfelelő
+
+- a) állami fenntartású egészségügyi szolgáltatóval,
+- b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központtal,
+- c) egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltatóval,
+- d) önkormányzati fenntartású egészségügyi szolgáltatóval, valamint
+- e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltatóval
+
+köthető finanszírozási szerződés.
+
+(1c) Az egészségbiztosítási ellátás keretében diagnosztikai célból kizárólag az (1b) bekezdésnek megfelelő egészségügyi szolgáltató által közvetlenül elvégzett CT-MRI vizsgálat végezhető, a finanszírozási szerződésben ezen eljárások tekintetében közreműködő igénybevétele – az (1b) bekezdés szerinti szolgáltatók által biztosított közreműködés kivételével – a tárgyi és személyi feltételek biztosítása érdekében nem köthető ki.
+
 (2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
 
 - a) erre külön jogszabályban foglaltak szerint jogosult, valamint
@@ -2013,6 +2027,24 @@ vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes 
 
 (18) Az egészségbiztosító az egészségügyről szóló 1997. évi CLIV. törvény 169. § (2) bekezdésének nem megfelelő egészségügyi szolgáltató finanszírozási szerződését az egészségügyi államigazgatási szerv tájékoztatása alapján 2022. június 30-ával megszünteti. Ezen finanszírozási szerződés tekintetében az egészségbiztosító elszámolásra köteles.
 
+(19) Az egészségbiztosító e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1a) bekezdésének nem megfelelő egészségügyi szolgáltatóval megkötött finanszírozási szerződését az egészségügyi államigazgatási szerv tájékoztatása alapján 2024. június 30. napjával megszünteti. Ezen finanszírozási szerződés alapján az egészségbiztosító elszámolásra köteles.
+
+(20) Az egészségbiztosítás keretében e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1a) bekezdésének meg nem felelő, a helyi önkormányzat által biztosított járóbeteg-szakellátás 2024. június 30-áig nyújtható. Az egészségügyi államigazgatási szerv hivatalból jár el a működési engedélyek visszavonása, kiadása és módosítása, valamint a szakellátási kapacitások és területi ellátási kötelezettség megállapítása, módosítása tekintetében.
+
+(21) Az egészségbiztosító e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1b) bekezdésének nem megfelelő egészségügyi szolgáltatóval megkötött finanszírozási szerződését az egészségügyi államigazgatási szerv tájékoztatása alapján 2024. november 1-jével megszünteti. Ezen finanszírozási szerződés alapján az egészségbiztosító elszámolásra köteles.
+
+(22) 2024. május 1-jét követően CT-MRI vizsgálat egészségbiztosítás keretében történő végzésére irányuló új finanszírozási szerződést kizárólag e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1c) bekezdése szerinti feltételek megléte esetén köthető. Az egészségbiztosítás keretében e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1c) bekezdésének meg nem felelő egészségügyi szolgáltatás 2024. november 1-jéig nyújtható.
+
+(23) Az egészségügyi államigazgatási szerv hivatalból eljár, amennyiben a (21) és (22) bekezdésben foglaltak végrehajtása során az érintett egészségügyi szolgáltatók működési engedélyének visszavonása, módosítása, valamint a szakellátási kapacitások és területi ellátási kötelezettség megállapítása, módosítása, a tevékenység végzésére jogosító működési engedélyének kiadása, módosítása válik szükségessé.
+
+(24) E törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1c) bekezdésének nem megfelelően nyújtott egészségügyi szolgáltatás esetén a finanszírozott egészségügyi szolgáltató finanszírozási szerződésének módosítását 2024. augusztus 1-jéig kezdeményezi az egészségbiztosítónál. A kérelemhez az egészségügyi szolgáltató csatolja az egészségügyi államigazgatási szerv által kiadott működési engedélyét, vagy annak módosítását arról, hogy kérelme az e törvényben foglalt feltételeknek megfelel.
+
+(25) A finanszírozási szerződést a (24) bekezdés szerinti kérelem alapján az egészségbiztosító 2024. november 1-jei hatállyal módosítja. A kérelem benyújtásának hiányában, vagy annak elutasítása esetén a finanszírozási szerződés módosításával, vagy annak megszüntetésével az egészségbiztosító a (21) bekezdés szerint jár el.
+
+(26) A finanszírozott egészségügyi szolgáltató kérelme alapján, ellátási érdekből az egészségbiztosításért felelős miniszter – legfeljebb 2025. november 1-jéig – engedélyezheti a 30. § (1b) és (1c) bekezdésének meg nem felelő egészségügyi szolgáltatás egészségbiztosítási ellátás keretében történő nyújtását. Az ellátási érdek fennállását az egészségbiztosításért felelős miniszter – az egészségügyi államigazgatási szerv és az egészségügyi szolgáltatás irányításáért felelős szerv javaslatára figyelemmel, a kérelmező egészségügyi szolgáltatónak a finanszírozott egészségügyi szolgáltatás tekintetében fennálló, az egészségügyi ellátórendszer fejlesztéséről szóló törvény szerint megállapított ellátási kötelezettsége alapján, legfeljebb annak keretei között – állapítja meg. Az ellátási érdek fennállta esetén a (22)–(24) bekezdésben foglaltakat az engedélyben foglalt finanszírozási mérték, és határidő tekintetében az engedélyben foglaltak szerinti eltéréssel kell alkalmazni.
+
+(27) Az egészségügyi szolgáltató a (26) bekezdés szerinti kérelmét, indokolással ellátva 2024. május 1-jéig nyújthatja be az egészségbiztosításért felelős miniszterhez. Az ellátási érdek fennállásáról az egészségbiztosításért felelős miniszter 2024. július 1-jéig dönt. Az ellátási érdek fennállásának szempontjait és a kérelem benyújtásának részletes szabályait a Kormány rendeletben határozza meg.
+
 82/A. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény és az egészségügyi szakellátási kötelezettségről, továbbá egyes egészségügyet érintő törvények módosításáról szóló 2001. évi XXXIV. törvény módosításáról szóló 2005. évi CLXXXII. törvény hatálybalépése nem érinti az annak hatálybalépése előtt szerv- vagy szövetátültetésre jogosító várólistára felkerült személyek szerv- vagy szövetátültetésre való jogosultságát.
 
 (2) Azt a személyt, akinek esetében ugyanazon szerv vagy szövet átültetése a Magyarországon elvégzett korábbi szerv- vagy szövetátültetést követően, a beültetett szerv vagy szövet kilökődése miatt indokolttá vált, arra tekintet nélkül kell felvenni a várólistára, hogy az érintett személy 2006. január 1-jétől az (1) bekezdésben meghatározott törvény alapján arra jogosult.
@@ -2109,6 +2141,12 @@ foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pont
 
 82/W. § Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvény által megállapított, illetve módosított 46. § (1)–(1a) bekezdését, 47. § (2) bekezdését, 48. § (1) bekezdését, 61. § (11)–(14) bekezdését és 62. § (1)–(1a), (2), (2e)–(3) bekezdését a 2023. július 1-jén folyamatban lévő eljárásokban, illetve 2023. július 1-jén folyósított ellátások esetében is alkalmazni kell.
 
+82/X. § (1) Ha jogszabály alapján az egészségügyi szolgáltató egyes ingatlanüzemeltetési feladatait a Kormány rendeletében kijelölt központi logisztikai szerv látja el, úgy az egészségügyi szolgáltató az e feladatok ellátására engedményezi a 2022. évi finanszírozásból a központi logisztikai szerv feladat- és hatásköréről szóló kormányrendelet szerinti ingatlanüzemeltetési szolgáltatásokra fordított összeg figyelembevételével – az egészségbiztosításért felelős miniszter által az államháztartásért felelős miniszterrel egyetértésben – meghatározott forrást a központi logisztikai szerv javára. Az e § szerinti engedményezéskor a 35. § (1) bekezdésben meghatározott mérték túlléphető és a 35. § (1) bekezdéstől eltérően a fenntartó jóváhagyása nem szükséges.
+
+(2) Az az egészségügyi szolgáltató, amely 2024. október 31-én hatályos, e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1b) és (1c) bekezdésének meg nem felelő finanszírozási szerződés alapján finanszírozott egészségügyi szolgáltatóként CT-MRI vizsgálatot végzett, és ezen vizsgálatok egészségbiztosítás keretében történő végzésére való jogosultságát e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 82. § (21) és (22) bekezdése, valamint (26) és (27) bekezdése szerint megállapított jogosultsági határidő lejártával veszíti el, állami kártalanításra jogosult. Az állami kártalanítás a jogosultat a finanszírozási szerződés megszűnését vagy módosítását közvetlenül megelőzően meghatározott mérték és időtartam alapján a jogosultság megszűnésének hiányában őt megillető finanszírozás erejéig, de legfeljebb a (3) bekezdés szerint meghatározott összeg mértékéig illeti meg.
+
+(3) A kártalanítás mértéke megegyezik az egészségügyi szolgáltató egészségbiztosítás keretében történő CT-MRI vizsgálatok végzésére való jogosultságának a (2) bekezdés szerinti megszűnését megelőző három üzleti év – ha a működését később kezdte meg, az adott évek – megszűnt jogosultság szerinti gazdasági tevékenységéből származó, adózott eredménye átlagának összegével. A kártalanítás mértékét az egészségbiztosításért felelős miniszter állapítja meg.
+
 ### Záró rendelkezések
 
 83. § (1) E törvény hatálybaléptetéséről a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény rendelkezik.
@@ -2176,6 +2214,8 @@ meghatározására.
 
 (2m) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközökkel kapcsolatos egészségbiztosítói ellenjegyzés eljárási szabályait.
 
+(2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 - a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
@@ -2240,6 +2280,7 @@ vonatkozó szabályokat,
 - j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét,
 - k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját,
 - l) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
+- m) a 82/X. § (3) bekezdése szerinti kártalanítás mértékét.
 
 (6a) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben határozza meg – Magyarország Európai Unió melletti Állandó Képviselete kivételével – a tartós külszolgálatra kihelyezésre kerülő kormánytisztviselők és kormányzati ügykezelők vonatkozásában a tartós külszolgálathoz kapcsolódó munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálat körét, az azokon történő kötelező részvételnek és biztosításuk eljárásrendjének sajátos szabályait.
 
@@ -2263,3 +2304,5 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 83/D. § Ez a törvény a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 83/E. § Ez a törvény a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+84. § E törvény 30. § (1b) és (1c) bekezdése, 82. § (21)–(27) bekezdése és 82/X. §-a az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.

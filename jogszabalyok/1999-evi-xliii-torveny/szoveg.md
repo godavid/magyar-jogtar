@@ -119,7 +119,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (2) A temető területén belüli közcélú zöldfelületek és utak területe újabb temetési helyek létesítésével nem csökkenthető.
 
-14. §
+#### 14. §
 
 15. § (1) Nemzeti sírkerthez tartozó temetőket, hősi temetőket, hősi temetési helyeket, temetkezési emlékhelyeket, kegyeleti emlékhelyeket, temetési helyeket a Nemzeti Kegyeleti Bizottság határozza meg.
 
@@ -341,7 +341,7 @@ kell igazolnia.
 
 (3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat véglegessé válásától számított 5 évig kezeli.
 
-32. §
+#### 32. §
 
 33. § (1) A pénzügyi teljesítőképesség akkor megfelelő, ha az egyéni cég, a gazdasági társaság vagy az egyéni vállalkozó
 
@@ -443,13 +443,13 @@ kell igazolnia.
 - c) a temetői létesítmények, illetve az üzemeltető által biztosított szolgáltatások igénybevételéért a temetkezési szolgáltatók által fizetendő díjat,
 - d) a temetőbe való behajtás díját.
 
-(3) A (2) bekezdésben meghatározott díjfajtákon belül a köztemetőkre vonatkozó díjak mértékét az önkormányzat rendeletben állapítja meg. A díjmértékeket évente felül kell vizsgálni.
+(3) A (2) bekezdésben meghatározott díjfajtákon belül a köztemetőkre vonatkozó díjak mértékét az önkormányzat rendeletben állapítja meg.
 
-(4) Az egyes díjfajtákon belül a temetőben vállalkozásszerűen munkát végzők által fizetendő temetőfenntartási hozzájárulási díj mértéke az adott évben az egyes sírhelyekre megállapított megváltási díjtételek egyszerű számtani átlagának 5%-át nem haladhatja meg.
+(4) A temetőfenntartási hozzájárulási díjon felül sem a tulajdonos, sem az üzemeltető – a temetkezési szolgáltatók kivételével – a temetőben vállalkozásszerűen munkát végzők számára egyéb díjat nem állapíthat meg, illetve nem szedhet.
 
-(5) A települési önkormányzat képviselő-testülete, fővárosban a közgyűlés a díj megállapításakor kikéri a fogyasztók területileg illetékes érdekképviseleti szerveinek véleményét.
+(5)
 
-(6) A temető üzemeltetője a szabályzatban megállapított díjakon felül más díjat nem állapíthat meg. Nem szedhető díj a temetőlátogatásért, a temetői utak használatáért és a temetési hely gondozásához igénybe vett vízért.
+(6) A temető tulajdonosa és üzemeltetője a temetőszabályzatban, köztemető esetén az önkormányzat rendeletében megállapított díjakon felül más díjat nem állapíthat meg. Ez a tilalom nem vonatkozik az üzemeltetőnek az (1) bekezdésben foglalt, valamint a temetőüzemeltetéssel össze nem függő szolgáltatásaira. Nem szedhető díj – ha e törvény eltérően nem rendelkezik – a temetőlátogatásért, a temetői utak használatáért és a temetési hely gondozásához igénybe vett vízért.
 
 ### A hősi temetőre, hősi temetési helyre vonatkozó különös szabályok
 
@@ -528,9 +528,9 @@ kell igazolnia.
 - f) a Nemzeti Emlékhely és Kegyeleti Bizottság szervezetére, tagjaira, feladataira, működésére vonatkozó szabályokat, továbbá kijelölje a Bizottság létrehozásával és felügyeletével kapcsolatos feladatokat ellátó minisztert;
 - g) a temetőszabályzat kötelező tartalmi elemeit;
 - h) a Nemzeti Kegyeleti Bizottság javaslatára a ,,Nemzeti Gyásznap'' állandó vagy eseti meghatározására, a gyász nemzeti méretű kifejezésére és megformálására vonatkozó szabályokat;
-- i) a szociális és köztemetésekhez kapcsolódó hamvasztás legmagasabb díját;
-- j) a szociális temetési helyekre vonatkozó eltérő szabályok, a szociális temetés igénybevételének részletes szabályait;
-- k) a szociális temetés esetén a holttest egészségügyi intézményben történő hűtésének részletes szabályait.
+- i) a köztemetésekhez kapcsolódó hamvasztás legmagasabb díját;
+- j)
+- k)
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -540,7 +540,7 @@ kell igazolnia.
 
 rendeletben állapítsa meg.
 
-(3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan – különösen
+(3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan –
 
 - a) a temető rendeltetésszerű használatához szükséges egyéb helyi tárgyi és infrastrukturális feltételeket;
 - b) a temető, ravatalozó használatának és igénybevételének szabályait;

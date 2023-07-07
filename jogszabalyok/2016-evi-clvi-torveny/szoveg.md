@@ -170,7 +170,7 @@ látja el.
 
 #### 6/A. Nemzeti Turisztikai Adatszolgáltató Központ
 
-9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, valamint hivatalos statisztikai adatok előállításának segítése, továbbá az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség teljesítésére alkalmas, a 9/G. § (2) és (4) bekezdése szerinti szoftver üzembe helyezésének elősegítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
+9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, valamint hivatalos statisztikai adatok előállításának segítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
 
 9/B. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ
 
@@ -181,7 +181,7 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 (2) Az (1) bekezdés szerinti adatkörről a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központ honlapján tájékoztatót tesz közzé.
 
-(3) A Nemzeti Turisztikai Adatszolgáltató Központ közreműködik az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség 9/G. § (2) és (4) bekezdése szerinti szoftverrel történő teljesítésének az állami adóhatóságnál történő bejelentésében.
+(3)
 
 9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
 
@@ -229,21 +229,23 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 - b) az állami adóhatóság, valamint
 - c) a KSH.
 
+(4) A helyi önkormányzat, valamint a KSH a hatáskörükbe tartozó feladatok ellátása során nem kérhetnek olyan adatot, amely a Nemzeti Turisztikai Adatszolgáltató Központban az (1)–(3) bekezdés szerinti hozzáférési jogosultság alapján a rendelkezésükre áll.
+
 9/F. § A Nemzeti Turisztikai Adatszolgáltató Központ részére, e alcím szerint történő adattovábbítás, valamint a Nemzeti Turisztikai Adatszolgáltató Központból történő adatátvétel térítésmentes.
 
 9/G. § (1) A vendéglátó üzlet üzemeltetője a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan vendéglátó szoftvert alkalmaz, amely alkalmas arra, hogy a 9/B. § (1) bekezdésében meghatározott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ részére továbbítsa.
 
-(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja.
+(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja a Vhr. szerint adatszolgáltatásra kötelezett azon vendéglátó üzlet üzemeltetője részére, amelynek a mindenkor hatályos TEÁOR nómenklatúra szerinti vendéglátás tevékenységből származó, a tárgyévet megelőző lezárt üzleti év nettó árbevétele meghaladta a 12 millió forintot, de nem érte el az 50 millió forintot. A vendéglátó üzlet üzemeltetője egy térítésmentesen biztosított szoftverre jogosult, amelyet kizárólag egy általa üzemeltetett vendéglátó üzletben alkalmazhat.
 
 (3) A turisztikai attrakció üzemeltetője a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan jegykezelő szoftvert alkalmaz, amely alkalmas arra, hogy a 9/B. § (1) bekezdésében meghatározott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ részére továbbítsa.
 
-(4) A Magyar Turisztikai Ügynökség Zrt. a (3) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja.
+(4) A Magyar Turisztikai Ügynökség Zrt. a (3) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja a Vhr. szerint adatszolgáltatásra kötelezett azon turisztikai attrakció üzemeltetője részére, amelynek a tárgyévet megelőző lezárt üzleti évben a turisztikai attrakció szolgáltatásaihoz kapcsolódó jegyértékesítésből származó nettó árbevétele meghaladta a 12 millió forintot, de nem érte el az 50 millió forintot. A turisztikai attrakció üzemeltetője egy térítésmentesen biztosított szoftverre jogosult, amelyet kizárólag egy általa üzemeltetett turisztikai attrakció esetében alkalmazhat.
 
-(5) A (2) és (4) bekezdés szerint biztosított szoftvernek alkalmasnak kell lennie az (1) és (3) bekezdésben foglalt kötelezettség teljesítése mellett az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási, és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség teljesítésére is.
+(5) A (2) és (4) bekezdés szerint térítésmentesen biztosított szoftver használatának lehetőségét a Magyar Turisztikai Ügynökség Zrt. évente felülvizsgálja, a vendéglátó üzlet üzemeltető és a turisztikai attrakció üzemeltető (2) és (4) bekezdés szerinti nettó árbevételei alapján.
 
-(6) A Kormány rendeletében meghatározottak szerint a Nemzeti Turisztikai Adatszolgáltató Központ részére adatszolgáltatásra kötelezett vendéglátó üzlet és a turisztikai attrakció üzemeltetője az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettségét az állami adóhatóság részére – a Nemzeti Turisztikai Adatszolgáltató Központban elektronikusan – tett bejelentése alapján a (2), illetve a (4) bekezdés szerinti szoftverrel is teljesítheti. A bejelentő azonosítását és képviseleti jogosultságának ellenőrzését a Nemzeti Turisztikai Adatszolgáltató Központ végzi a 9/C. §-ban meghatározott azonosítási szolgáltatások és nyilvántartások útján.
+(6)
 
-(7) Az állami adóhatóság a Nemzeti Turisztikai Adatszolgáltató Központ útján közli a vendéglátó üzlet, illetve a turisztikai attrakció üzemeltetőjével a (6) bekezdés szerinti bejelentés alapján képzett, az Áfa tv. szerinti egyszerűsített számla-, illetve nyugtaadási és az ehhez kapcsolódó, az állami adóhatóság felé történő adatszolgáltatási kötelezettség (2), illetve (4) bekezdés szerinti szoftverrel való teljesítésének megkezdéséhez szükséges üzembehelyezési kódot.
+(7)
 
 #### 6/B. A szálláshely-szolgáltatást igénybe vevők bejelentkezésével kapcsolatos adatszolgáltatás
 
@@ -317,13 +319,27 @@ rendeletben határozza meg.
 
 (7) Az (5) bekezdés szerinti csatlakozás elmulasztása esetén a kereskedelmi hatóság 2021. szeptember 1. napját követően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/D. §-a szerinti jogkövetkezményeket alkalmaz.
 
-12/A. § (1) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni, az adatok szolgáltatására és továbbítására 2023. július 1. napjától köteles.
+12/A. § (1) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni.
+
+(1a) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő adatok szolgáltatására és továbbítására
+
+- a) 2023. július 1. napjától köteles, amennyiben a mindenkor hatályos TEÁOR nómenklatúra szerinti vendéglátás tevékenységből származó előző lezárt üzleti év nettó árbevétele meghaladta a 100 millió forintot,
+- b) 2024. január 1. napjától köteles, amennyiben a mindenkor hatályos TEÁOR nómenklatúra szerinti vendéglátás tevékenységből származó előző lezárt üzleti év nettó árbevétele meghaladta a 12 millió forintot.
 
 (2) A 9/C. § (1) bekezdésében foglalt regisztrációs kötelezettséget a vendéglátó üzlet üzemeltetője vonatkozásában a vendéglátó üzlet üzemeltetői tevékenységet 2021. november 1. napján már ellátókra, illetve azt követően megkezdő szolgáltatókra kell alkalmazni.
 
-12/B. § (1) A turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni, az adatok szolgáltatására és továbbítására 2023. július 1. napjától köteles.
+12/B. § (1) A turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni.
+
+(1a) A turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő adatok szolgáltatására és továbbítására
+
+- a) 2023. július 1. napjától köteles, amennyiben az előző lezárt üzleti évben a turisztikai attrakció szolgáltatásaihoz kapcsolódó jegyértékesítéséből származó nettó árbevétele meghaladta a 100 millió forintot,
+- b) 2024. január 1. napjától köteles, amennyiben az előző lezárt üzleti évben a turisztikai attrakció szolgáltatásaihoz kapcsolódó jegyértékesítéséből származó nettó árbevétele meghaladta a 12 millió forintot.
 
 (2) A 9/C. § (1) bekezdésében foglalt regisztrációs kötelezettséget a turisztikai attrakció üzemeltetője vonatkozásában a turisztikai attrakció üzemeltetői tevékenységet 2021. november 1. napján már ellátókra, illetve azt követően megkezdő szolgáltatókra kell alkalmazni.
+
+12/C. § A 12/A. § (1a) bekezdése és a 12/B. § (1a) bekezdése szerint megkezdett adatszolgáltatást a vendéglátó üzlet és a turisztikai attrakció üzemeltetői tevékenységének megszűnéséig köteles teljesíteni.
+
+12/D. § A 9/G. § (2) és (4) bekezdése, a 12/A. § (1a) bekezdése és a 12/B. § (1a) bekezdése szerinti árbevétel számításakor a termékértékesítés vagy a szolgáltatásnyújtás teljesítési helye szerinti bevétel mértékét kell figyelembe venni, azzal, hogy több teljesítési hely azonos működtetője vagy azonos üzemeltetője esetén sem alkalmazható az egybeszámítás.
 
 #### 10. Az Európai Unió jogának való megfelelés
 

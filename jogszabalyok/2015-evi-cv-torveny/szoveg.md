@@ -766,6 +766,8 @@ nincs helye.
 
 (8) A bírósági adósságrendezési eljárásban a Pp. szerinti költségkedvezmények engedélyezésének nincs helye.
 
+(8a) A bírósági adósságrendezési eljárásban a bíróság az e törvény felhatalmazása alapján kiadott kormányrendeletekben meghatározott felső összeghatárok, illetve értékhatárok változására tekintettel az adós által benyújtott kérelem tárgyában hozott végzésben a korábban, az adósságrendezési egyezség, illetve az adósságtörlesztési terv tárgyában hozott, és még jogerőre nem emelkedett végzését hatályon kívül helyezheti.
+
 (9) Amennyiben bíróságon kívüli adósságrendezési eljárásra főhitelező hiányában nem került sor, a családi vagyonfelügyelő elvégzi a 23–25. § szerinti adatellenőrzéseket és vizsgálatokat és ennek eredményéről az eljáró bíróságot és a feleket értesíti.
 
 37. § (1) A bírósági adósságrendezési eljárásban a jogi személy hitelező, a bíróság, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő közötti kapcsolattartás 2016. január 1-jétől a Pp. szerinti elektronikus kapcsolattartás útján történik. Az ezzel összefüggő részletes szabályokat – ideértve az elektronikus beadvány benyújtásával az eljárásba történő bejelentkezést, az elektronikus kézbesítést és más irattovábbítást is – e törvény végrehajtási rendelete tartalmazza.
@@ -1815,7 +1817,9 @@ van helye.
 
 105/A. § (1) E törvénynek a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosításáról szóló 2016. évi XVI. törvénnyel módosított 104/A. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
-105/B. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított 8. § (1) bekezdés a) pontját, 16. § (2) bekezdés e) pontját, 21. § (1) bekezdését, 26. § (3) bekezdését, 30. § (7a) és (7b) bekezdését, 40. § (1a) és (4)–(6) bekezdését, 41. § (6) bekezdését, 55. § (4a) bekezdését, 79. § (1) és (1a) bekezdését és 86. § (7) bekezdését az e rendelkezések hatálybalépése napján folyamatban lévő adósságrendezési eljárásokban a hatálybalépést követő eljárási cselekményekre is alkalmazni kell.
+105/B. § (1) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított 8. § (1) bekezdés a) pontját, 16. § (2) bekezdés e) pontját, 21. § (1) bekezdését, 26. § (3) bekezdését, 30. § (7a) és (7b) bekezdését, 40. § (1a) és (4)–(6) bekezdését, 41. § (6) bekezdését, 55. § (4a) bekezdését, 79. § (1) és (1a) bekezdését és 86. § (7) bekezdését az e rendelkezések hatálybalépése napján folyamatban lévő adósságrendezési eljárásokban a hatálybalépést követő eljárási cselekményekre is alkalmazni kell.
+
+(2) A Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 36. § (8a) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő adósságrendezési eljárásokban is alkalmazni kell.
 
 105/C. § (1) E törvénynek a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvénnyel (a továbbiakban: 2021. évi LXIV. törvény) megállapított rendelkezéseit a 2021. évi LXIV. törvény hatálybalépésekor már folyamatban lévő adósságrendezési ügyekre is alkalmazni kell, a (2) bekezdésben foglaltak figyelembevételével.
 

@@ -196,6 +196,12 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 (6) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a kézbesítési kifogás az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a fikció beálltától számított 3 hónapon belül terjeszthető elő a bíróságnál. A kézbesítési kifogásra egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
+#### 7/A. Az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézbesítése
+
+8/A. § (1) Az állomány tagja köteles az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézhezvétele érdekében a honvédelmi miniszter által vezetett minisztérium központi pénzügyi és számviteli feladatokat ellátó szervezete által üzemeltetett elektronikus ügyintézési felületen (a továbbiakban: Ügyfélszolgálati Rendszer) biztosított, jóváhagyott elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni.
+
+(2) A 8. § (4) bekezdésétől eltérően, ha az Ügyfélszolgálati Rendszer azt igazolja vissza, hogy az elektronikus formában kiadott összesített adóigazolást és a társadalombiztosítási nyilvántartás adatairól szóló igazolást a címzett kétszeri értesítés ellenére sem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés időpontját követő ötödik munkanapon.
+
 #### 8. A képviselet
 
 9. § (1) A honvédelmi szervezetet a munkáltatói jogkört gyakorló képviseli.
@@ -3198,7 +3204,7 @@ különbözetének megtérítése iránti igényt.
 
 191. § (1) A KNBSZ hivatásos állományú tagjára e törvény állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2) Nem alkalmazható a 28. § (7) bekezdése, a 31. § (4) bekezdése, a 34/A. §, a 40. § (3) bekezdése, a 49. § (3) bekezdése,, a 87. § (4) bekezdés b) pontja, a 91. § továbbá a 162. és 163. §. A 77. § (1) bekezdésétől eltérően a szolgálati beosztásokat, az azokhoz kapcsolódó előmeneteli rendet és a rendszeresített rendfokozatot, valamint a kettős rendfokozattal rendszeresíthető szolgálati beosztásokat, továbbá a 81. § (4) bekezdése, a 99. § (2) bekezdése és 104. § (4) bekezdése szerinti vezetői beosztásokat miniszteri utasítás határozza meg.
+(2) Nem alkalmazható a 8/A. §, a 28. § (7) bekezdése, a 31. § (4) bekezdése, a 34/A. §, a 40. § (3) bekezdése, a 49. § (3) bekezdése,, a 87. § (4) bekezdés b) pontja, a 91. § továbbá a 162. és 163. §. A 77. § (1) bekezdésétől eltérően a szolgálati beosztásokat, az azokhoz kapcsolódó előmeneteli rendet és a rendszeresített rendfokozatot, valamint a kettős rendfokozattal rendszeresíthető szolgálati beosztásokat, továbbá a 81. § (4) bekezdése, a 99. § (2) bekezdése és 104. § (4) bekezdése szerinti vezetői beosztásokat miniszteri utasítás határozza meg.
 
 (3) A miniszter utasításban határozza meg a fedőbeosztásban szolgálatot teljesítő hivatásos katonának a beosztás jellegére tekintettel nyújtható juttatások formáit és feltételeit.
 
@@ -3661,7 +3667,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 233. § (1) A honvéd altiszt-jelöltekre e törvény állomány tagjára és a honvéd tisztjelöltre vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2) Nem alkalmazható a 33. § (3) bekezdése, a 34. és 35. §, a 38. § (1), (2) és (6) bekezdése, a 39. §, a 40. § (2) bekezdése, a 41. § (1)–(4) bekezdése, a 42. § (1) bekezdése, 42. § (2) bekezdés b)–f) pontja, 42. § (3) bekezdése, 43–58/A. §, az 59. § (1) bekezdés d) és e) pontja, (2) bekezdés b) és c) pontja, a 61. § (1), (2) és (5) bekezdése, a 62–67. §, a 68. § (1) bekezdés a), b), g)–k), n) és o) pontja, a 68/A–68/J. §, a 69. §, a 70. § (3) bekezdése, a 71. és 73–76. §, a 77. § (4) bekezdése, a 83–87. §, a 88. § (1)–(4) és (5) bekezdése, a 89–91. §, a 94–101. §, a 103–104. §, a 108. § (1) bekezdés g), j) és k) pontja, a 109–113. §, a 115–118. §, a 119. § (1)–(2) bekezdése, a 120–128. §, a 132. §, a 132/B–138. §, a 140. § (2) bekezdés a)–d) és h) pontja, (4) és (5) bekezdése, a 140/C. §, a 142–144/B. §.
+(2) Nem alkalmazható a 8/A. §, a 33. § (3) bekezdése, a 34. és 35. §, a 38. § (1), (2) és (6) bekezdése, a 39. §, a 40. § (2) bekezdése, a 41. § (1)–(4) bekezdése, a 42. § (1) bekezdése, 42. § (2) bekezdés b)–f) pontja, 42. § (3) bekezdése, 43–58/A. §, az 59. § (1) bekezdés d) és e) pontja, (2) bekezdés b) és c) pontja, a 61. § (1), (2) és (5) bekezdése, a 62–67. §, a 68. § (1) bekezdés a), b), g)–k), n) és o) pontja, a 68/A–68/J. §, a 69. §, a 70. § (3) bekezdése, a 71. és 73–76. §, a 77. § (4) bekezdése, a 83–87. §, a 88. § (1)–(4) és (5) bekezdése, a 89–91. §, a 94–101. §, a 103–104. §, a 108. § (1) bekezdés g), j) és k) pontja, a 109–113. §, a 115–118. §, a 119. § (1)–(2) bekezdése, a 120–128. §, a 132. §, a 132/B–138. §, a 140. § (2) bekezdés a)–d) és h) pontja, (4) és (5) bekezdése, a 140/C. §, a 142–144/B. §.
 
 (3) A 140. § (2) bekezdés h) pontja a honvéd altiszt-jelöltre utolsó tanéve megkezdése évének július 1-jétől alkalmazható.
 

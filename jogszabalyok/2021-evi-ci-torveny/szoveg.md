@@ -62,6 +62,22 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
+#### 3/A. Állami vagyonelemek ingyenes tulajdonba adása Nagyvisnyó Község Önkormányzata részére
+
+4/A. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Nagyvisnyó külterület 0341/1 helyrajzi számú ingatlant (ezen alcím alkalmazásában a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a természetvédelmi-, sport-, ifjúsági- valamint egyéb feladatai ellátásának elősegítése céljából Nagyvisnyó Község Önkormányzata tulajdonába kerül.
+
+(2) Nagyvisnyó Község Önkormányzata az (1) bekezdés szerinti ingatlant terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy Nagyvisnyó Község Önkormányzata az (1) bekezdés szerinti ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljes-körűen átvállalja.
+
+(3) Az (1) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság készíti el és köti meg. A szerződésben rögzíteni kell, hogy az az (1) bekezdés szerinti ingatlan használata során Nagyvisnyó Község Önkormányzatának kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával egyidejűleg az (1) bekezdés szerinti ingatlanban található állami tulajdonú ingó vagyonelemek (ezen alcím alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva Nagyvisnyó Község Önkormányzata tulajdonába kerülnek Nagyvisnyó Község Önkormányzata (1) bekezdés szerinti feladatainak hatékonyabb ellátása érdekében.
+
+(5) A (4) bekezdés alapján átszálló ingóságokról átadás-átvételi jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az ingóságokra vonatkozó, az átadó könyveiben szereplő nyilvántartási értékkel.
+
+(6) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+4/B. § A 4/A. § (1) bekezdése alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
+
 #### 4. Ingatlanok ingyenes vagyonkezelésbe adása Rácalmás Város Önkormányzat részére
 
 5. § (1) A Dunaújváros Megyei Jogú Város Önkormányzata tulajdonában álló, az ingatlan-nyilvántartás szerinti, Rácalmás külterület 053/2 és 053/8 helyrajzi számú ingatlanok ingyenesen, 100 évre Rácalmás Város Önkormányzata (e § alkalmazásában a továbbiakban: vagyonkezelő) vagyonkezelésébe kerülnek.
@@ -276,7 +292,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 

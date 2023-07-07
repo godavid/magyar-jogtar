@@ -1536,6 +1536,7 @@ is érteni kell.
 - k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
 - l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
 - m) a 25/D. § szerint a két jogviszony között
+- n) az egészségügyi szolgálati jogviszonyban
 
 töltött időt.
 
@@ -1553,6 +1554,8 @@ eltöltött időt.
 (4) A (3) bekezdéstől eltérően a közalkalmazotti jogviszonyban töltött idő számításakor figyelmen kívül kell hagyni a sor- vagy tartalékos katonai szolgálatnak, illetve a polgári szolgálatnak azt a tartamát, amely e § rendelkezése szerint egyébként közalkalmazotti jogviszonyban töltött időnek minősül.
 
 (5) Ha a közalkalmazotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+
+(6) A 37. § (5) bekezdés a) pontjától eltérően azon egészségügyi szolgálati jogviszonyban álló személy esetén, akinek az egészségügyi szolgálati jogviszonya azért kerül megszüntetésre, mert jogszabály alapján az őt foglalkoztató egészségügyi szolgáltató egyes ingatlanüzemeltetési feladatait a Kormány rendeletében kijelölt központi logisztikai szerv veszi át, majd egészségügyi szolgálati jogviszonya megszüntetését követő 180 napon belül a Kormány rendeletében kijelölt központi logisztikai szervvel közalkalmazotti jogviszonyt létesít, a végkielégítésre jogosító időt az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 22. § (2) bekezdése szerinti esetben az ott meghatározott időtartammal csökkentett mértékben kell figyelembe venni.
 
 #### 88. §
 

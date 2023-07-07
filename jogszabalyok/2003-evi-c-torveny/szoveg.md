@@ -1661,6 +1661,8 @@ nem kell alkalmazni.
 
 86/A. § Az elektronikus hírközlő hálózat üzemeltetője vagy az elektronikus hírközlési szolgáltató nem írhat elő a végfelhasználó számára az állampolgársága, lakóhelye vagy székhelye helye szerinti tagállamra tekintettel eltérő követelményeket vagy az érintett hálózathoz, illetve szolgáltatáshoz való csatlakozás feltételeként különböző általános hozzáférési, szerződési vagy használati követelményeket, kivéve, ha ez az eltérő bánásmód objektív módon alátámasztható.
 
+86/B. § Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
+
 ### A tevékenység elkülönítése
 
 87. § (1) Ha az elektronikus hírközlési szolgáltató más iparágban kizárólagos vagy különleges jogok alapján Magyarországon vagy más tagállamban tevékenységet végez, és az Európai Unió területén nyújtott elektronikus hírközlési szolgáltatásból származó éves bevétele meghaladja a 10 milliárd forintot, akkor könyveiben és nyilvántartásaiban köteles az elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos költségeit, ráfordításait és bevételeit, valamint befektetett eszközeit – azok számításának alapjával és a felosztási módszerekkel együtt – a más iparágban keletkezett költségeitől, ráfordításaitól és bevételeitől elkülönítetten kimutatni. Amennyiben az elkülönített számviteli nyilvántartás vezetésére kötelezett szolgáltató nem tartozik a számviteli törvény hatálya alá, köteles az elkülönített számviteli nyilvántartás könyvvizsgálatát elvégezni.
@@ -3494,6 +3496,8 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 (3) A közvélemény-kutató a Módtv2. által megállapított 162. § (6) bekezdése szerinti kötelezettségét első alkalommal a Módtv2. hatálybalépését követő harminc napon belül teljesíti.
 
+163/P. § E törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 86/B. §-át e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményekre vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 30. naptól kell alkalmazni.
+
 ### Hatálybalépés
 
 164. § (1) E törvény – a (2)–(3) bekezdésben meghatározott rendelkezések kivételével – 2004. január 1-jén lép hatályba.
@@ -3624,6 +3628,8 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 - 40. a kis hatótávolságú, vezeték nélküli hozzáférési pontok kiépítése érdekében a 94. § (7) bekezdése alapján együttműködésre kötelezettek megállapodásának részletes szabályait.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
+
+(5) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben határozza meg az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményeket.
 
 ### Módosuló jogszabályok
 

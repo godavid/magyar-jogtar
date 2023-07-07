@@ -81,6 +81,7 @@ keretein belül.
 - 23. meghagyásba bevont szerv: a honvédelmi feladatok ellátásában közreműködő, az 1. mellékletben meghatározott, továbbá a területi védelmi bizottság által egyedileg, határozattal kijelölt szerv,
 - 24. műveleti terület: a műveleti tervben meghatározott és kijelölt földrajzi terület és a felette levő légtér, továbbá a kibertér,
 - 25. NATO Állandó Védelmi Tervek: az Észak-atlanti Tanács által előzetesen jóváhagyott műveleti tervek, amelyek végrehajtásáról az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) tagállamai a gyorsított döntéshozatali eljárásrend alapján hoznak döntést,
+- 25a. NATO Biztonsági Beruházási Program: azon katonai célú beruházások, fejlesztések összessége, amelyeket a NATO a védelmi képességének megőrzése vagy fokozása érdekében tervez és valósít meg,
 - 26. rendvédelmi szerv: a Vbö. 5. § 8. pontja szerint ekként meghatározott fogalom,
 - 27. szövetséges fegyveres erők: a kölcsönös katonai fegyveres segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés vagy az Európai Unió szerződései szerint a Magyarországgal szövetséges államok fegyveres erői, valamint az e nemzetközi szerződések alapján, a NATO, illetve az Európai Unió által vagy jóváhagyásával létrehozott közös katonai szervezetek,
 - 28. szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület,
@@ -689,6 +690,8 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 (2) A hiánypótlásra vonatkozó felhívásban meg kell jelölni a kérelem hiányosságait és a hiánypótlási határidőt, amely harminc napnál hosszabb nem lehet.
 
 (3) A honvédelemért felelős miniszter a gazdálkodó szervezet szakmai és gazdasági alkalmasságáról hatvan napos ügyintézési határidőn belül dönt.
+
+(4) A NATO Biztonsági Beruházási Program keretében megvalósuló beruházások, fejlesztések – a jogszabályban meghatározott bírságok kivételével – mentesek a közterhektől.
 
 ### V. Fejezet — A HONVÉDELMI SZERVEZET SZEMÉLYI ÁLLOMÁNYÁRA VONATKOZÓ EGYES SZABÁLYOK
 

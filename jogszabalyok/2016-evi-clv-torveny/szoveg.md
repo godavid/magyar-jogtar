@@ -107,6 +107,8 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (2) A KSH székhelye Budapest.
 
+(2a) A KSH a feladatainak ellátásához kapcsolódóan a vármegyékben irodákat működtethet.
+
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
 (4) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 263. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
@@ -188,7 +190,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 - a) magyar állampolgár,
 - b) felsőfokú végzettséggel rendelkezik,
-- c) a közigazgatásban vagy a statisztikai tudomány területén legalább öt év vezetői gyakorlatot szerzett.
+- c) a Hivatalos Statisztikai Szolgálatban, az Európai Statisztikai Rendszerben, a közigazgatásban vagy a statisztikai tudomány területén legalább öt év szakmai gyakorlatot szerzett.
 
 (3) Nem nevezhető ki a KSH elnökének, illetve elnökhelyettesének büntetett előéletű, valamint olyan személy, aki a kinevezést megelőző négy évben országgyűlési vagy európai parlamenti képviselő, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, köztársasági elnök, fővárosi és vármegyei kormányhivatalt vezető főispán, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, vármegyei közgyűlés elnöke vagy alelnök, illetve nemzetiségi önkormányzat tagja vagy párt tisztségviselője volt.
 
@@ -694,7 +696,7 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 
 48. § Ez a törvény a kihirdetését követő hónap első napján lép hatályba.
 
-49. §
+#### 49. §
 
 #### 24. Átmeneti rendelkezések
 
@@ -717,4 +719,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 26. Módosító rendelkezés
 
-53. §
+#### 53. §

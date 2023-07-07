@@ -20,7 +20,7 @@ a következő törvényt alkotja:
 
 #### 1. § [A törvény hatálya]
 
-(1) E törvény hatálya kizárólag – a munkavállalói résztulajdon kivételével – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
+(1) E törvény hatálya kizárólag – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár működtetőjére, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
 
 (2) Ha jogszabály rendelkezése folytán valamely egészségügyi szolgáltató az e törvény hatálya alá tartozó egészségügyi szolgáltatóvá alakul át, az egészségügyi szolgáltatóra és annak foglalkoztatottjára – törvény vagy kormányrendelet eltérő rendelkezése hiányában – e törvény rendelkezéseit az egészségügyi szolgáltató átalakulását követő harmadik hónap első napjától kell alkalmazni.
 
@@ -415,9 +415,13 @@ alapilletményének megfelelő összeg.
 
 (11) Az állami fenntartású egészségügyi szolgáltatónál a Kormány és az érintett szakszervezetek megállapodásában rögzített sajátos szabályok mellett gyakorolható a sztrájk joga.
 
-#### 15/A. § [A gyógyszerészek és a szakgyógyszerészek egészségügyi szolgálati jogviszonyára vonatkozó eltérő rendelkezések]
+#### 15/A. § [Az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár főgyógyszerészének, szakgyógyszerészének és gyógyszerészének, szakdolgozójának egészségügyi szolgálati jogviszonya]
 
-Az intézeti és közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása tartalmazza a feladatok ellátásában közreműködő gyógyszerészek és a szakgyógyszerészek azonosításához szükséges – 14. § szerinti nyilvántartás szerinti – adatokat.
+(1) Az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertárat vezető főgyógyszerész (a továbbiakban: főgyógyszerész) egészségügyi szolgálati jogviszonya, valamint az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár szakgyógyszerészének, gyógyszerészének, szakdolgozójának egészségügyi szolgálati jogviszonya tekintetében a munkáltatói jogkört az állami fenntartású fekvőbeteg-ellátást végző intézmény munkáltatói jogkör gyakorlója (a továbbiakban: állami munkáltatói jogkör gyakorló) és az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertárat működtető jogi személy vezetője (a továbbiakban: szerződéses munkáltató jogkör gyakorló) az e §-ban foglaltak szerint gyakorolja.
+
+(2) Az egységes intézeti gyógyszertári szolgáltatás keretében történő működtetés tekintetében, az ezen feladatokhoz kapcsolódó munkáltatói utasítási jogokat az állami munkáltatói jogkör gyakorlója és a szerződéses munkáltatói jogkör gyakorlója – a Kormány rendeletében meghatározottak szerint – együttesen gyakorolja.
+
+(3) A (2) bekezdésben foglaltakon túlmenően a munkáltatói jogkört az állami munkáltatói jogkört gyakorló gyakorolja.
 
 #### 16. § [Értelmező rendelkezések]
 
@@ -426,7 +430,7 @@ E törvény alkalmazásában
 - a) egészségügyi tevékenység: az Eütv. 3. § y) pontjában meghatározott tevékenység;
 - b) magasabb vezető: az egészségügyi szolgáltató vezetője és helyettese, valamint az egészségügyi szolgáltató működése szempontjából meghatározó jelentőségű feladatot ellátó vezető;
 - c) munkáltató: az állami fenntartású egészségügyi szolgáltató esetén a törvényben vagy a Kormány rendeletében kijelölt szerv, a nem állami fenntartású egészségügyi szolgáltató esetén az egészségügyi szolgáltató vezetője.
-- d) intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. § 47. pontja szerinti nyilvántartás.
+- d) egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti egységes intézeti gyógyszertári szolgáltatás nyújtására a közbeszerzésekről szóló 2015. évi CXLIII. törvény szerint lefolytatott eljárás nyertesével megkötött szerződés alapján működtetett intézeti gyógyszertár.
 
 #### 17. § [Felhatalmazó rendelkezések]
 
@@ -454,6 +458,7 @@ E törvény alkalmazásában
 - m) a munkáltató tájékoztatási és értesítési kötelezettségére vonatkozó szabályokat,
 - n) a helyettesítési díj mértékét,
 - o) az egészségügyi szakdolgozók körét.
+- p) az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár főgyógyszerészének, szakgyógyszerészének, gyógyszerészének és szakdolgozójának egészségügyi szolgálati jogviszonya tekintetében az együttes munkáltatói jogkörgyakorlás eseteit és részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki
 
@@ -545,7 +550,29 @@ gyógyító-megelőző tevékenységet végezhet.
 
 való megfelelést szolgálja.
 
-#### 22. §
+22. § (1) Az egészségügyi szolgálati jogviszonyban álló személy egészségügyi szolgálati jogviszonya az e törvény hatálya alá tartozó egészségügyi szolgáltató és a Kjt. hatálya alá tartozó központi logisztikai szerv közötti áthelyezéssel is megszüntethető, ha az őt foglalkoztató egészségügyi szolgáltató egyes ingatlanüzemeltetési feladatait a Kormány rendeletében kijelölt központi logisztikai szerv veszi át.
+
+(2) Azon egészségügyi szolgálati jogviszonyban álló személy esetén, akinek az egészségügyi szolgálati jogviszonya azért kerül megszüntetésre, mert jogszabály alapján az őt foglalkoztató egészségügyi szolgáltató egyes ingatlanüzemeltetési feladatait a Kormány rendeletében kijelölt központi logisztikai szerv veszi át, majd egészségügyi szolgálati jogviszonya megszüntetését követő 180 napon belül a Kormány rendeletében kijelölt központi logisztikai szervvel közalkalmazotti jogviszonyt létesít, a végkielégítés – a 13. §-ban foglaltaktól eltérően – az egészségügyi szolgálati jogviszony megszűnése és a közalkalmazotti jogviszony létrejötte között eltelt idő alapján az alábbiak szerint illeti meg:
+
+- a) 30 napon belül, legfeljebb egyhavi végkielégítés,
+- b) 31. és 60. nap közötti időszakban, legfeljebb kéthavi végkielégítés,
+- c) 61. és 90. nap közötti időszakban, legfeljebb háromhavi végkielégítés,
+- d) 91. és 120. nap közötti időszakban, legfeljebb négyhavi végkielégítés,
+- e) 121. és 150. nap közötti időszakban, legfeljebb öthavi végkielégítés,
+- f) 151. és 180. nap közötti időszakban, legfeljebb hathavi végkielégítés,
+
+és a részére kifizetett végkielégítés összegének az a)–f) pont szerinti mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábban őt foglalkoztató munkáltató részére vissza kell fizetnie.
+
+(3) Az (1) bekezdés alapján létrejött új közalkalmazotti jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során az (1) bekezdés szerint megszüntetésre került egészségügyi szolgálati jogviszony alapján végkielégítésre jogosító időt
+
+- a) a (2) bekezdés a) pontja szerinti esetben három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni,
+- b) a (2) bekezdés b) pontja szerinti esetben öt év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni,
+- c) a (2) bekezdés c) pontja szerinti esetben nyolc év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni,
+- d) a (2) bekezdés d) pontja szerinti esetben tíz év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni,
+- e) a (2) bekezdés e) pontja szerinti esetben tizenhárom év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni,
+- f) a (2) bekezdés f) pontja szerinti esetben tizenhat év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
+
+(4) Azon egészségügyi szolgálati jogviszonyban álló személy esetén, akinek egészségügyi szolgálati jogviszonya azért kerül megszüntetésre, mert jogszabály alapján az őt foglalkoztató egészségügyi szolgáltató egyes ingatlanüzemeltetési feladatai átadásra kerülnek a Kormány rendeletében kijelölt központi logisztikai szerv részére, a felmondási idő – az Mt. 69. §-ától eltérően – 30 nap. A felmondási idő felére – figyelemmel az Mt. 70. § (1) bekezdésére – az egészségügyi szolgálati jogviszonyban álló személyt a munkavégzés alól fel kell menteni.
 
 ### 1. melléklet a 2020. évi C. törvényhez
 

@@ -115,7 +115,7 @@ figyelembevételével kell számítani.
 
 #### 3. A Magyar Szénhidrogén Készletező Szövetség
 
-12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés elkészítésében.
+12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében.
 
 13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-, villamosenergia-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a Szövetség működésére, a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés elkészítésében való közreműködésre, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak. A Szövetség a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény szerinti egyéb szervezetnek minősül.
 
@@ -445,7 +445,7 @@ az e törvény, valamint az Fbkt. hatálya alá tartozó termékkör vonatkozás
 
 rendeletben állapítsa meg.
 
-49/A. §
+#### 49/A. §
 
 50. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő hónap első napján lép hatályba.
 
@@ -457,7 +457,7 @@ rendeletben állapítsa meg.
 
 52. § E törvénynek az energetikai tárgyú törvények módosításáról szóló 2016. évi CXLIII. törvény (a továbbiakban: Módtv.) 75. §-ával megállapított 38. § (1) bekezdését a Módtv. hatálybalépésekor fennálló tagi hozzájárulás tartozásokra is alkalmazni kell.
 
-52/A. §
+#### 52/A. §
 
 53. § (1) E törvény
 
@@ -480,7 +480,7 @@ való megfelelést szolgálja.
 
 #### A kőolaj és kőolajtermékek behozott átlagos napi mennyiségének számítása
 
-- 1. A behozott kőolaj és kőolajtermék mennyiségének meghatározása Qbehozott_napi = ((Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás – Qvegyipari_benzin_korrekció) + (Qkőolajtermék_nettó_import + Qkőolajtermék_készletváltozás) * 1,065) / T
+- 1. A behozott kőolaj és kőolajtermék mennyiségének meghatározása Qbehozott_napi= ((Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás – Qvegyipari_benzin_korrekció) + (Qkőolajtermék_nettó_import + Qkőolajtermék_készletváltozás) * 1,065) / T
 - 2. ahol:
 - 2.1. Qfinomítói_alapanyag_nettó_import: az energiastatisztikáról szóló 1099/2008/EK rendelet A. melléklete 3.4. pontjában meghatározott nyersolaj, földgáz-kondenzátumok, finomítói nyersanyagok, adalékok, oxigenátok és egyéb szénhidrogének referencia évi nettó behozatali mennyisége (toe);
 - 2.2. Qfinomítói_készletváltozás: a finomítói alapanyag kereskedelmi és biztonsági készletek évi nyitó és záró mennyiségének különbözete (toe), amely során nem számítható be az a technológiai készlet, amely a finomító rendeltetésszerű működését biztosítja;
