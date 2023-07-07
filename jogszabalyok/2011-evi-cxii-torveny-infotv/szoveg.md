@@ -994,7 +994,7 @@ dönt.
 
 47. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 42. § rendelkezései megfelelően irányadóak, azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a Hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
 
-48. § (1) Az elnökhelyettes a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+48. § (1) Az elnökhelyettes a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti, a helyettes államtitkárra vonatkozó illetményre jogosult, amelynek összegét a Hatóság elnöke állapítja meg.
 
 (1a) Az elnökhelyettes az (1) bekezdésben meghatározott illetményen túl helyettes államtitkári juttatásra jogosult.
 

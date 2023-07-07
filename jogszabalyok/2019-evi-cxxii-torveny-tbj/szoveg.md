@@ -696,7 +696,7 @@ kívánja szolgálati időként elismertetni.
 - d) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás vonatkozásában a rehabilitációs hatóság,
 - e) a TAJ nyilvántartás vonatkozásában a Kincstár központi szerve.
 
-56. § A nyugdíjbiztosítási nyilvántartás, az egészségbiztosítási nyilvántartás és a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól az adatkezelő irányítására kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+56. § A nyugdíjbiztosítási nyilvántartás, az egészségbiztosítási nyilvántartás és a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával kizárólag államigazgatási szervet vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti, belföldi székhelyű átlátható szervezetet bízhat meg.
 
 57. § (1) A Kincstár központi szerve vezeti az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a szociális és a kapcsolódó nyilvántartások azonosító kódjaként alkalmazandó TAJ számmal rendelkező természetes személyek nyilvántartását (a továbbiakban: TAJ nyilvántartás), és jogszabályban meghatározottak szerint ellátja a TAJ szám képzésével kapcsolatos feladatokat.
 

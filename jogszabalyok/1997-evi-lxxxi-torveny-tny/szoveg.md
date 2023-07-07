@@ -183,7 +183,11 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 #### 18/B. §
 
-#### 19. §
+19. § A 18. § (2) és (3) bekezdésének alkalmazása során az öregségi nyugdíjra történő jogszerzés szempontjából szolgálati időnek kell tekinteni a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy által az Európai Unió tagállamának területén székhellyel rendelkező nemzetközi szervezet szociális biztonsági rendszerében szerzett biztosítási időt, ha
+
+- a) ezen időszak más jogcímen nem ismerhető el szolgálati időnek,
+- b) a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet, valamint a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet alkalmazása során ezen időszak nem kerül figyelembevételre, és
+- c) az igénylő a magyar nyugdíjrendszerben legalább egy év szolgálati időt szerzett.
 
 ### Az öregségi nyugdíj összege
 
@@ -195,7 +199,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 (3) Az öregségi teljes nyugdíj összege nem lehet kevesebb az öregségi nyugdíj külön jogszabályban meghatározott legkisebb összegénél. Ha az öregségi teljes nyugdíj alapját képező havi átlagkereset az öregségi nyugdíj külön jogszabályban meghatározott legkisebb összegét nem éri el, az öregségi teljes nyugdíj összege azonos az alapját képező havi átlagkereset összegével.
 
-(4) A (3) bekezdésben foglaltak nem alkalmazhatók, ha az öregségi nyugdíj kiszámítása során figyelembe vett szolgálati idő a 39. § szerinti arányos elismerés miatt nem éri el a húsz évet.
+(4) A (3) bekezdésben foglaltak nem alkalmazhatók, ha az öregségi nyugdíj kiszámítása során figyelembe vett szolgálati idő a 19. §-ban foglaltak vagy a 39. § szerinti arányos elismerés miatt nem éri el a húsz évet.
 
 21. § (1) Az öregségi nyugdíj összege – a (3) bekezdésben foglalt kivétellel – az annak alapját képező havi átlagkeresetnél több nem lehet.
 
@@ -346,7 +350,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 39. § (1) Ha a biztosítottnak a Tbj. 6. § (1) bekezdés a)–b), f) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben, valamint a szakképzési munkaszerződés keretében foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
-(2) Az (1) bekezdés rendelkezéseit a mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
+(2) Az (1) bekezdés rendelkezéseit a mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó és a kisadózó vállalkozók tételes adójáról szóló törvény szerinti kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
 40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a Tbj. 6. § (1) bekezdés a) pontja szerinti jogviszony jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
 
@@ -390,6 +394,8 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 (3) A kereseti, jövedelmi adatokat a nyugdíjbiztosítás nyilvántartása alapján kell számításba venni. A nyugdíjbiztosítási nyilvántartásban nem szereplő keresetre, jövedelemre vonatkozó adatokat a foglalkoztatónak vagy jogutódjának az egykorú munkaügyi, bérszámfejtési, könyvelési nyilvántartásai alapján kiállított írásbeli igazolásával, ennek hiányában más egykorú okirattal – így különösen a Tbj. 75. § (2) bekezdése vagy 77. § (5) bekezdése szerinti foglalkoztatói igazolással, a személyi jövedelemadó megállapításához a foglalkoztató által kiadott igazolással, a kereset, jövedelem kifizetését, elszámolását igazoló bizonylattal, munkakönyvvel, személyijövedelemadó-bevallással – lehet igazolni.
 
+(4) A 19. § szerinti biztosítási időt a nemzetközi szervezet által kiállított okirattal kell igazolni.
+
 43/A. § (1) A 43. § (1) bekezdés szerint számított szolgálati időn túl az egészségügyi dolgozók esetében kiegészítő szolgálati időként kell figyelembe venni a külön törvényben meghatározott, a heti 48 órát meghaladó önként vállalt többletmunkavégzésnek – a munkáltató által munkaórában igazolt – 2004. május 1-jét követő, – napi 8 óra alapulvételével átszámított – időtartamát.
 
 (2) Az (1) bekezdés és a 43. § (1) bekezdés szerint külön-külön számított szolgálati idő együttes időtartamát a 20. § alkalmazásánál kell figyelembe venni.
@@ -421,7 +427,7 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 (2) A hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg nem lehet kisebb az öregségi nyugdíj legkisebb összegénél. Ha a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg alapját képező átlagkereset az öregségi nyugdíj legkisebb összegét nem éri el, a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg azonos az alapját képező havi átlagkereset összegével.
 
-(3) A (2) bekezdésben foglaltak nem alkalmazhatók, ha a hozzátartozói nyugellátás kiszámítása során figyelembe vett szolgálati idő a 39. § szerinti arányos elismerés miatt nem éri el a jogosultsághoz előírt szolgálati időt.
+(3) A (2) bekezdésben foglaltak nem alkalmazhatók, ha a hozzátartozói nyugellátás kiszámítása során figyelembe vett szolgálati idő a 46. § (3) bekezdés a) pontjában foglaltak vagy a 39. § szerinti arányos elismerés miatt nem éri el a jogosultsághoz előírt szolgálati időt.
 
 44/E. § (1) Aki egyidejűleg több hozzátartozói nyugellátásra jogosult, választhat az őt megillető hozzátartozói nyugellátások közül.
 
@@ -455,7 +461,7 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 (3) Az (1) és (2) bekezdés alkalmazása során az özvegyi nyugdíjra történő jogszerzés szempontjából szolgálati időként kell figyelembe venni
 
-- a)
+- a) a 19. § szerinti időszakot,
 - b) azt az időtartamot, ami alatt az elhunyt jogszerző rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban vagy rokkantsági ellátásban részesült.
 
 47. § (1) Az ideiglenes özvegyi nyugdíj a házastárs halálának időpontjától legalább egy évig, továbbá az elhunyt jogán árvaellátásra jogosult, másfél évesnél fiatalabb gyermeket eltartó özvegynek az árva 18 hónapos életkorának betöltéséig jár. Fogyatékos vagy tartósan beteg gyermek esetén az ideiglenes özvegyi nyugdíj azonos feltétellel a gyermek harmadik születésnapjáig folyósítható.
@@ -496,11 +502,15 @@ annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megil
 
 (3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban, rokkantsági ellátásban, rehabilitációs ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy ellátásának összegére tekintet nélkül jár.
 
-(4)
+(4) Ha az özvegyi nyugdíjat a jogszerző halálának naptári évét követő kezdő időponttól állapítják meg, vagy mértékének megváltozása, illetve feléledés miatt a jogszerző halálának naptári évét követő kezdő időponttól újra megállapítják, az özvegyi nyugdíjat – a (4a) és (4b) bekezdésben foglaltak kivételével – annak a saját jogú nyugellátásnak az összegéből kell kiszámítani, amely az elhunyt jogszerzőt a kezdő időpontot megelőző év december 31-én megillette vagy megillette volna. Az így kiszámított özvegyi nyugdíjat meg kell emelni a kezdő időpont naptári évére járó nyugdíjemelések mértékével.
+
+(4a) A jogszerző halálának naptári évét követő kezdő időponttól megállapított ideiglenes özvegyi nyugdíjat és az ideiglenes özvegyi nyugdíj megszűnését követő naptól megállapított özvegyi nyugdíjat az (1), illetve a (2) bekezdésben foglaltak szerint, az időközi nyugdíjemelések mértékével megemelt összegben kell megállapítani.
+
+(4b) Ha a jogosultnak korábban már állapítottak meg az elhunyt jogszerző után azonos mértékű özvegyi nyugdíjat, a mérték megváltozása és feléledés esetén az özvegyi nyugdíjat a korábbi, azonos mértékű özvegyi nyugdíjnak az időközi nyugdíjemelések mértékével megemelt összegében kell megállapítani.
 
 (5) A 49. § alapján megállapított özvegyi nyugdíj a tartásdíj összegénél több nem lehet.
 
-(6) A házastárs 1998. január 1-je előtti halála esetén a saját jogú nyugellátást az özvegyi nyugellátással – a megállapításuk időpontjára tekintet nélkül – a Kormány rendeletében meghatározott összeghatárig kell együtt folyósítani. Az özvegy kérelmére azonban a saját jogú nyugellátást a (2) bekezdés b) pontja szerinti mértékben az özvegyi nyugellátással kiegészítve kell folyósítani, ha ez számára kedvezőbb. A (2) bekezdés b) pontja szerinti összeget abból a saját jogú nyugellátási összegből kell meghatározni, amely a jogszerzőt 1997. december 31-én megillette, vagy megillette volna. Ha az özvegyi nyugdíjra az igény 1998. december 31-ét követően nyílik meg, olyan összegű saját jogú nyugdíjból kell az özvegyi nyugdíjat megállapítani, amely a jogszerzőt az özvegyi nyugdíj megállapításának időpontját megelőző naptári év december 31-én megillette volna.
+(6) A jogszerző 1998. január 1-je előtti halála esetén a saját jogú nyugellátást az özvegyi nyugdíjjal – a megállapításuk időpontjára tekintet nélkül – a Kormány rendeletében meghatározott összeghatárig együtt kell folyósítani. A saját jogú nyugellátást a (2) bekezdés b) pontja szerinti mértékű özvegyi nyugdíjjal kiegészítve kell folyósítani, ha ez az özvegy számára kedvezőbb.
 
 ### Az özvegyi nyugdíj megosztása
 
@@ -538,7 +548,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 - a) az igénylő a házasságkötéskor az 1998. január 1-jét megelőzően hatályos rendelkezések alapján végkielégítést nem vett fel, és
 - b) az igénylőt a házasság létrejötte nélkül az özvegyi nyugdíj egyébként megilletné.
 
-(4) Az özvegyi nyugdíj feléledése esetén a jogosultat az özvegyi nyugdíj megszűnését követő emelések, kiegészítések megilletik.
+(4)
 
 (5) Ha 1997. december 31-ét követően az 1998. január 1-je előtt megszüntetett özvegyi nyugdíjra a jogosultság az (1)-(2) bekezdés szerint feléled, az özvegy az öregségi nyugdíja, rokkantsági ellátása, rehabilitációs ellátása mellett – a megállapítás időpontjára tekintet nélkül – kérheti az özvegyi nyugdíj 50. § (2) bekezdés b) pontja szerinti folyósítását, ha ez számára kedvezőbb.
 
@@ -579,7 +589,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (3) Ha a gyermek mindkét szülője után jogosult az árvaellátásra, azt az árvaellátást kell folyósítani, amelynek összege számára előnyösebb.
 
-(4)
+(4) Az árvaellátás összegének kiszámítására az 50. § (4) és (4b) bekezdésében foglaltakat is alkalmazni kell azzal, hogy özvegyi nyugdíj alatt árvaellátást, feléledés alatt újbóli megállapítást kell érteni.
 
 #### 57. §
 
@@ -610,6 +620,8 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 59. § (1) A szülői nyugdíj mértéke azonos az 50. § (2) bekezdés a), illetve b) pontja szerinti özvegyi nyugdíj mértékével. Ha a szülői nyugdíjra többen jogosultak, azt közöttük – az özvegyi nyugdíj megosztására vonatkozó rendelkezések alkalmazásával – egyenlő arányban meg kell osztani.
 
 (2) A szülői nyugdíjat újból meg kell osztani, ha a jogosultak száma megváltozik. Az újbóli megosztásra legkorábban a jogosultak számának a változását követő hónap első napjától kerülhet sor.
+
+(3) A szülői nyugdíj összegének kiszámítására az 50. § (4) és (4b) bekezdésében foglaltakat is alkalmazni kell azzal, hogy özvegyi nyugdíj alatt szülői nyugdíjat, feléledés alatt újbóli megállapítást kell érteni.
 
 ### 4. CÍM — A baleseti hozzátartozói nyugellátások
 
@@ -744,7 +756,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (5) A nyugellátás megállapításakor a nyugellátás összegébe a folyósított nyugdíjelőleget be kell számítani.
 
-74. § Ha az igénylő az igénybejelentését a döntés véglegessé válásáig visszavonja, a felvett nyugellátást harminc napon belül köteles visszafizetni.
+74. § Ha az igénylő az igénybejelentését visszavonja, a felvett nyugellátást, nyugdíjelőleget harminc napon belül köteles visszafizetni.
 
 75. § Ha az egészségi állapottól függő nyugellátás iránti igényt arra tekintettel utasították el, hogy az igénylő nem megváltozott munkaképességű, az elutasító határozat véglegessé válását követő egy éven belül a nyugellátás iránt újabb igény akkor nyújtható be, ha az igénylő az igénybejelentéshez csatolja a háziorvos (szakorvos) igazolását arról, hogy az egészségi állapota az igény elutasítását követően rosszabbodott.
 
@@ -939,7 +951,7 @@ kell megtéríteni.
 
 91. § (1) Aki a nyugdíjbiztosítási igazgatási szerv részére történő, jogszabályban meghatározott bejelentési, nyilvántartási, adatszolgáltatási, vagy a nyugdíjbiztosítási feladatok ellátásával kapcsolatos egyéb kötelezettségét nem teljesíti, vagy késedelmesen teljesíti, illetve annak nem az előírt módon tesz eleget, 50 000 forinttól 500 000 forintig terjedő, a jogsértés egy éven belüli ismételt megállapítása esetén 1 000 000 forintig terjedő mulasztási bírságot köteles fizetni.
 
-(2) A mulasztási bírságot az ügyben eljárt nyugdíjbiztosítási igazgatási szervhez kell befizetni.
+(2) A mulasztási bírságot a Nyugdíjbiztosítási Alapnak kell befizetni.
 
 (3) Az (1) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetésnek helye nincs.
 
@@ -1026,7 +1038,7 @@ tarthatók nyilván.
 - c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
 - d) a cégbíróság törvény,
 - e) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
-- f) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), g) és h) pontja,
+- f) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, ellátás megállapítása, folyósítása és ellenőrzése, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), g) és h) pontja,
 - g) a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontja,
 - h) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából a (2) bekezdés a)–e) pontja,
 - i) az oktatási nyilvántartás működéséért felelős szerv a pályakövetési rendszer működtetése céljából a (2) bekezdés d) pontja,
@@ -1190,7 +1202,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - c) a nyugellátás megállapítására és folyósítására vonatkozó részletes szabályokat,
 - d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó részletes szabályokat, valamint a (6) bekezdés a) pontja szerinti szorzószámot,
 - e) a nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
-- f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
+- f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíj és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 - g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
 - h) az igény érvényesítésével, az igény elbírálásával, a megállapító és a folyósító szervek közötti adatszolgáltatással kapcsolatos eljárást, továbbá a rögzített öregségi nyugdíj megállapítására vonatkozó részletes szabályokat,
 - i) a visszafizetési és megtérítési kötelezettség teljesítésével, elmulasztásával, továbbá a követelés érvényesítésével, valamint a mérséklés, elengedés, fizetési halasztás, részletfizetés engedélyezésével kapcsolatos eljárási rendelkezéseket,
@@ -1385,4 +1397,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 36. | 49 | 98,0 |
 | 37. | 50 vagy több | 100,0 |
 
-Ha az öregségi nyugdíj kiszámítása során figyelembe vett szolgálati idő a 39. § szerinti arányos elismerés miatt nem éri el a 15 évet, az öregségi nyugdíj kiszámítása során alkalmazandó szorzószámot úgy kell meghatározni, hogy a 43%-os mértéket annyiszor 2 százalékponttal kell csökkenteni, ahány év a 15 év szolgálati időből hiányzik.
+Ha az öregségi nyugdíj kiszámítása során figyelembe vett szolgálati idő a 19. §-ban foglaltak vagy a 39. § szerinti arányos elismerés miatt nem éri el a 15 évet, az öregségi nyugdíj kiszámítása során alkalmazandó szorzószámot úgy kell meghatározni, hogy a 43%-os mértéket annyiszor 2 százalékponttal kell csökkenteni, ahány év a 15 év szolgálati időből hiányzik.

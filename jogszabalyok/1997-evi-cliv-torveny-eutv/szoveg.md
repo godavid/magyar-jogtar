@@ -2918,7 +2918,7 @@ költségének fedezetét.
 
 (3a) A helyi önkormányzat (3) bekezdés szerinti vagyona a (3) bekezdés szerinti intézményműködtetési kötelezettség keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgálja.
 
-(4)
+(4) A helyi önkormányzat járóbeteg-szakellátást nyújtó egészségügyi intézményt kizárólag költségvetési szervként hozhat létre és működtethet.
 
 (5)
 
@@ -4730,11 +4730,34 @@ az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/E
 - b) a Magyar Orvosi Kamara által jegyzékbe vett álláshely elfoglalása, vagy
 - c) az a cselekmény, amelyet a 140/B. § (4) bekezdése szerinti szakmai-etikai szabályzat nem minősít etikai vétségnek.
 
-#### 244/J. §
+244/J. § (1) Az Egészségbiztosítási Alapból finanszírozott és az egészségügyi szolgáltatás irányításáért felelős szerv fenntartása alá tartozó aktív fekvőbeteg-ellátást költségvetési szervként nyújtó vármegyei intézmények (a továbbiakban: vármegyei kórházak) vagyonkezelői joga, valamint vagyonkezelési szerződése e törvény erejénél fogva 2024. január 1. napjával megszűnik azon állami tulajdonú ingóságok tekintetében, amelyek a vármegyei kórházak Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF) által átvételre kerülő ingatlanüzemeltetési feladatainak ellátását szolgálják. Az e bekezdés szerinti ingóságok vagyonkezelői joga ingyenesen, e törvény erejénél fogva 2024. január 1. napjával a KEF-re, mint vagyonkezelőre száll át, és az ingóságok a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) mint vagyonkezelésbe adó között fennálló vagyonkezelési szerződés hatálya alá kerülnek.
 
-#### 244/K. §
+(2) Az (1) bekezdés szerinti vagyonkezelői jog megszűnésével érintett, jogszabály alapján nem az MNV Zrt. tulajdonosi joggyakorlása alatt álló ingóságok tekintetében a tulajdonosi joggyakorló tulajdonosi joggyakorlása e törvény erejénél fogva 2024. január 1. napjával megszűnik.
 
-#### 244/L. §
+(3) Az (1) bekezdés szerinti ingóságok tekintetében 2024. január 1. napjától az MNV Zrt. gyakorolja a tulajdonosi jogokat és teljesíti a tulajdonos kötelezettségeit.
+
+(4) Az a tulajdonosi joggyakorló, amelynek a tulajdonosi joggyakorlása a (3) bekezdés szerint megszűnik, az államháztartási számviteli nyilvántartások rendezése céljából legkésőbb a tulajdonosi joggyakorlása megszűnése időpontját követő 30 napon belül átadja az MNV Zrt. részére az (1) bekezdés szerinti ingóságokat.
+
+(5) Az ingóságok (4) bekezdés szerinti átadására – az ingóságoknak a tulajdonosi joggyakorlás megszűnésének a (2) bekezdés szerinti időpontját megelőző napon érvényes bruttó nyilvántartási értékét, az elszámolt terv szerinti és terven felüli értékcsökkenést, az elszámolt értékvesztést, továbbá a kapcsolódó értékhelyesbítést és időbeli elhatárolást is tartalmazó – tételes, aláírt mennyiségi és értékbeni leltár vármegyei kórházak és KEF által közösen történő felvétele mellett kerül sor. A tételes nyilvántartási adatokat és értékeket tartalmazó leltár alapján az ingóságokat az MNV Zrt. a leltár megküldését követően a vagyonnyilvántartásban rögzíti.
+
+244/K. § (1) A települési önkormányzat legkésőbb 2024. június 30. napjáig köteles gondoskodni arról, hogy a tulajdonában álló gazdasági társasági formában működő járóbeteg-szakellátó egészségügyi intézmények a 152. § (4) bekezdésének megfelelően kizárólag költségvetési szervként működjenek tovább.
+
+(2) A 152. § (4) bekezdésében, valamint az (1) bekezdésben foglaltakat, továbbá az Ebtv. 30. § (1a) bekezdését nem kell alkalmazni a 2023. május 1. napján nem 100%-os önkormányzati tulajdonban álló gazdasági társasági formában működő önkormányzati járóbeteg-szakellátó egészségügyi intézményekre, ide nem értve a több önkormányzat kizárólagos tulajdonában álló gazdasági társasági formában működő önkormányzati járóbeteg szakellátó egészségügyi intézményeket.
+
+244/L. § (1) Ha az állami vagy önkormányzati fenntartású, egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltató, valamint a klinikai központ részére computer tomográfia valamint a mágneses rezonancia vizsgálatok alkalmazási körébe tartozó képalkotó diagnosztikai eljárásokat (a továbbiakban: CT-MRI vizsgálatok) az egészségbiztosítási ellátások keretében történő elvégzésére jogosító, az Ebtv.-nek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1c) bekezdésének meg nem felelő közreműködő (a továbbiakban: közreműködő magánszolgáltató) biztosítja, az e tevékenységre vonatkozó közreműködői szerződések a törvény erejénél fogva – kivéve, ha az egészségbiztosításért felelős miniszter az Ebtv. 82. § (26) és (27) bekezdése alapján ellátási érdekből a közreműködés hosszabbítását engedélyezte – 2024. november 1. napjával megszűnnek.
+
+(2) A közreműködő magánszolgáltató az (1) bekezdés szerinti szerződés megszűnésével állami kártalanításra jogosult. Az állami kártalanítás a közreműködői szerződés megszűnését vagy módosítását közvetlenül megelőzően meghatározott mérték és időtartam alapján a jogosultság megszűnésének hiányában őt megillető vállalkozási díj erejéig, de legfeljebb a (3) bekezdés szerint meghatározott összeg mértékéig illeti meg.
+
+(3) A kártalanítás mértéke megegyezik
+
+- a) határozott idejű szerződés esetén a 2024. november 1-jéhez képest hátralévő időtartammal azonos időtartamra vonatkozó, de legfeljebb három évnyi,
+- b) határozatlan idejű szerződés esetén három üzleti év – ha a működését később kezdte meg, az adott évek – az egészségügyi szolgáltató egészségbiztosítás keretében történő CT-MRI vizsgálatok végzésére való jogosultságának (1) bekezdés szerinti megszűnését megelőző
+
+időtartamnak a megszűnt jogosultság szerinti gazdasági tevékenységéből származó, adózás szerinti eredménye átlagának összegével. A kártalanítás mértékét az egészségügyért felelős miniszter állapítja meg.
+
+(4) Állami vagy önkormányzati fenntartású egészségügyi szolgáltató területén CT-MRI vizsgálatok alkalmazási körébe tartozó képalkotó diagnosztikai eljárások elvégzése céljából az Ebtv.-nek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1b) és (1c) bekezdésének meg nem felelő szolgáltatóval eszköz- vagy helyiségbérleti szerződés nem köthető.
+
+(5) A Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvény hatálybalépése napján fennálló, a (4) bekezdésnek nem megfelelő bérleti szerződések 2024. november 1. napjával megszűnnek.
 
 #### 244/M. §
 
@@ -4939,6 +4962,8 @@ rendeletben állapítsa meg.
 
 (4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
 
+(4b) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 244/L. § (3) bekezdése szerinti kártalanítás mértékét rendeletben állapítsa meg.
+
 (5) Felhatalmazást kap
 
 - a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
@@ -4999,3 +5024,10 @@ rendeletben állapítsa meg.
 - d) az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló 2017. április 5-i (EU) 2017/746 parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+248. § E törvény
+
+- a) 152. § (4) bekezdése és 244/K. §-a az Alaptörvény 31. cikk (3) bekezdése alapján, és
+- b) 244/L. §-a az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (6) bekezdése alapján
+
+sarkalatosnak minősül.
