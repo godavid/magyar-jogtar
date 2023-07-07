@@ -74,7 +74,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 (6) A gépjármű üzemben tartója – a (7) bekezdésben foglaltak kivételével – felel azért, hogy az általa üzemeltetett gépjárművel az e törvényben meghatározott előírások betartásra kerüljenek.
 
-(7) Amennyiben a közúti forgalomban történő ellenőrzés során a úthasználó személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért a úthasználó felelős.
+(7) Amennyiben a közúti forgalomban történő ellenőrzés során az úthasználó személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért az úthasználó felelős.
 
 #### 4. Az útdíj mértékének meghatározásával kapcsolatos alapelvek
 

@@ -215,7 +215,9 @@ gazdasági előny vagy haszonszerzés céljából.
 
 14/B. § (1) Ha a Magyarországon forgalomba hozott élelmiszer megegyezik egy másik tagállamban forgalmazott élelmiszerrel, az élelmiszer előállítója, nem hazai előállítású élelmiszer esetében pedig az első magyarországi forgalomba hozó felelős azért, hogy a Magyarországon forgalomba hozott élelmiszer a másik tagállamban forgalmazott élelmiszertől összetételében vagy jellemzőiben ne térjen el jelentősen, kivéve, ha azt jogszerű és objektív ok fennállása teszi szükségessé.
 
-(2) Az (1) bekezdés szerinti jogszerű és objektív oknak minősül különösen, ha az élelmiszer összetételében vagy jellemzőjében jelentkező eltérést az e törvény végrehajtására kiadott rendeletben meghatározottak szerint jogszabály által előírt követelményeknek való megfelelés, valamely alapanyag élelmiszer-jelölésen feltüntetett eredete, időszakos jellege vagy a hazai fogyasztók egészséges és tápláló élelmiszerekhez való fokozottabb hozzáférésére érdekében tett receptúramódosítás indokolja.
+(2) Az (1) bekezdés szerinti jogszerű és objektív oknak minősül különösen, ha az élelmiszer összetételében vagy jellemzőjében jelentkező eltérést az e törvény végrehajtására kiadott rendeletben meghatározottak szerint jogszabály által előírt követelményeknek való megfelelés, valamely alapanyag élelmiszer-jelölésen feltüntetett eredete, időszakos jellege vagy a hazai fogyasztók egészséges és tápláló élelmiszerekhez való fokozottabb hozzáférése érdekében tett receptúramódosítás indokolja.
+
+14/C. § Az egészségügyért felelős miniszter – az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) egyetértésével – rendeletében határozhat meg az étrend-kiegészítők vagy azok egyes csoportjai tekintetében olyan feltételeket, amely feltételeknek nem megfelelő étrend-kiegészítők – az egészségügyért felelős miniszter rendeletében meghatározottak szerint – csak gyógyszertárban vagy az egészségügyért felelős miniszter rendeletében meghatározott feltételeknek megfelelő üzletekben forgalmazhatóak.
 
 15. § (1) Az élelmiszer fogyaszthatósági vagy minőségmegőrzési időtartamának megállapítása az előállító felelőssége.
 
@@ -454,7 +456,7 @@ köteles e tevékenység folytatására irányuló szándékát az élelmiszerl�
 
 27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat látnak el
 
-- a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter),
+- a) a miniszter,
 - b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző állami laboratóriumok,
 - c)
 - d) az élelmiszerlánc-felügyeleti szerv,
@@ -1954,8 +1956,9 @@ vonatkozó előírásokat;
 (9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben szabályozza
 
 - a) a különleges táplálkozási célú élelmiszerek előállítására és forgalomba hozatalára;
-- b) az étrend-kiegészítők előállítására és forgalomba hozatalára;
-- c) a vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadására, az ilyen élelmiszerek bejelentésére, értékelésére
+- b) azon feltételekre, amelyeknek nem megfelelő étrend-kiegészítők csak gyógyszertárban vagy jogszabályban meghatározott feltételeknek megfelelő üzletekben forgalmazhatóak;
+- c) a b) pont alapján meghatározott feltételeknek nem megfelelő étrend-kiegészítő forgalmazásra jogosultak körének meghatározására, valamint a forgalmazásra jogosult üzletekre vonatkozó feltételekre;
+- d) a vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadására, az ilyen élelmiszerek bejelentésére, értékelésére
 
 vonatkozó előírásokat.
 

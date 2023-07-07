@@ -125,6 +125,16 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (10) Az államháztartásért felelős miniszter a kormányzati szektorba sorolt pénzügyi intézmény vagy a pénzügyi közvetítőrendszer stabilitásának megőrzése érdekében a keretszámtól eltérő adósságot keletkeztető ügyletet is engedélyezhet. A döntés során a miniszter mérlegeli az államadósság-mutató alakulását, a mutatóra vonatkozó követelmény veszélyeztetéséből vagy be nem tartásából eredő hatás összevetését a pénzügyi intézmény vagy a pénzügyi közvetítőrendszer stabilitása megőrzésének hatásával, a pénzügyi intézmény által a működőképessége tekintetében jelzett kockázatok mértékét.
 
+9/A. § (1) Az állam az államadósság terheinek csökkentése érdekében, az állam szabad pénzeszközeinek kezelése keretében kölcsönt nyújthat a kormányzati szektorba sorolt egyéb szervezetnek, amennyiben az nem veszélyezteti a 11. § (1) bekezdése szerinti feladatok ellátását és a kölcsön felhasználásának átfogó közgazdasági elemzése a kölcsön visszafizetése szempontjából megnyugtató eredményre vezet.
+
+(2) Az (1) bekezdés szerinti kölcsön nyújtására új adósságot keletkeztető ügyletnél az államháztartásért felelős miniszter a 9. § szerinti hozzájárulásának megszerzésére irányuló folyamat keretében tehet javaslatot. Az államháztartásért felelős miniszter egyidejűleg az eredeti kezdeményezés szerinti adósságot keletkeztető ügyletről is döntést hoz, arra az esetre, ha a kormányzati szektorba sorolt egyéb szervezet nem él e kölcsön lehetőségével.
+
+(3) Az államháztartásért felelős miniszter fennálló adósságot keletkeztető ügylet esetén is javaslatot tehet az (1) bekezdés szerinti kölcsön nyújtására a fennálló adósság kedvezőbb terhek melletti kiváltása érdekében.
+
+(4) Az (1) bekezdés szerinti kölcsön nyújtására olyan pénzügyi feltételekkel kerülhet sor, amelyek biztosítják az állam számára az annak finanszírozása kapcsán felmerülő terhek megtérülését.
+
+(5) Az (1) bekezdés szerinti kölcsön teljesítése során az állam nevében az államháztartásért felelős miniszter az ÁKK Zrt. útján jár el.
+
 10. § (1) Az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat a Polgári Törvénykönyv szerinti kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.
 
 (2) Települési önkormányzat adósságot keletkeztető ügyletet csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette. E rendelkezést nem kell alkalmazni a települési önkormányzat olyan adósságot keletkeztető ügyletére, amelyhez nincs szükség a Kormány hozzájárulására, illetve amelynek célja meglévő adósság visszafizetése, ha annak összege nem haladja meg az adósság összegét.
@@ -185,7 +195,7 @@ köthet naptári éven túli futamidejű működési célú adósságot keletkez
 
 (6) A Kormány hozzájárulása az adósságot keletkeztető ügylet tárgyévben történő megkötésére, illetve a tárgyévben történő kezesség-, illetve garanciavállalásra vonatkozik.
 
-10/C. § (1) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, – a 10. § (3) bekezdés b) pontja, valamint c) pont cb) és cd) alpontja, továbbá a 10/A. § szerinti működési célú adósságot keletkeztető és a 10/B. § (3) bekezdése szerinti adósságmegújító ügyletek kivételével – az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a helyi önkormányzatokért felelős minisztert és az államháztartásért felelős minisztert előzetesen tájékoztatja.
+10/C. § (1) Az önkormányzat az Áht. 23. §-a szerinti költségvetési rendelet, illetve az Áht. 29/A. §-a szerinti kitekintő határozat elfogadását követően nyújtja be a Kormány hozzájárulása iránti kérelmét az adósságot keletkeztető ügylethez.
 
 (2) Az önkormányzat a hozzájárulás iránti kérelméhez
 
@@ -206,7 +216,7 @@ mellékeli.
 
 10/E. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság
 
-- a) adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet és az 50 millió forintot el nem érő ügylet kivételével, figyelemmel a 10. § (4) bekezdés a) pontja szerinti egybe számítási szabályra is – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint,
+- a) adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet, valamint az 50 millió forintot el nem érő ügylet kivételével, figyelemmel a 10. § (4) bekezdés a) pontja szerinti egybe számítási szabályra is – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint,
 - b) szerződésmódosítását és adósságmegújítását pedig olyan adósságot keletkeztető ügyletnek, amely a 10/D. § (1) bekezdése szerint
 
 a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az adott gazdasági társaságban legnagyobb tulajdoni részesedéssel vagy hányaddal rendelkező önkormányzat nyújtja be. Egyenlő tulajdoni részesedés vagy hányad esetén a kérelmet az érintett önkormányzatok megállapodása szerinti önkormányzat nyújtja be.
@@ -217,6 +227,8 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 - b) működési célú ügylet esetében a gazdasági társaságot tulajdonoló önkormányzat támogatása nélkül biztosított.
 
 (3) A Kormány eltekinthet a (2) bekezdésben foglaltak alkalmazásától, amennyiben a szerződés-módosítás vagy az adósságmegújítás során keletkező ügylet az eredetivel megegyező, vagy kedvezőbb kondíciót tartalmaz az ügyletet keletkeztető, kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság vagy az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság számára.
+
+(4) A Kormány a (2) és (3) bekezdés szerinti hozzájárulását megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozásához kapcsolódik, vagy ha a kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság a fejlesztési célt adósságot keletkeztető ügylet megkötése nélkül is képes megvalósítani, vagy ha a fejlesztés megvalósításának ütemezése pénzügyileg nem kellően előkészített, megalapozott, valamint a fejlesztés révén létrehozandó kapacitás jövőbeli működtetése nem kellően alátámasztott.
 
 10/F. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-nál kisebb önkormányzati tulajdonban álló gazdasági társaság és a 100%-os önkormányzati tulajdonban álló gazdasági társaság 100%-nál kisebb tulajdonában álló gazdasági társaság (a továbbiakban együtt: részben önkormányzati tulajdonban lévő gazdasági társaság) esetében a tulajdonos önkormányzatot – a Kormány (2) bekezdés szerinti előzetes hozzájárulása hiányában – a gazdasági társaság által kötött adósságot keletkeztető ügylettel összefüggésben nem terhelik fizetési kötelezettségek és ilyen kötelezettséget az önkormányzat önként sem vállalhat.
 
@@ -280,6 +292,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 - c) közreműködhet az Országos Betétbiztosítási Alap és a Szanálási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjainak kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
 - d) jogszabály felhatalmazása alapján az MVM Paks II. Atomerőmű Fejlesztő Zártkörűen Működő Részvénytársaság számára az állam nevében nyújtott, a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény 1. § (1) bekezdésében meghatározott beruházást finanszírozó tőkeemelés megvalósításához kapcsolódó fizetési kötelezettségeket (beleértve az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás kihirdetéséről szóló 2014. évi XXIV. törvénnyel kihirdetett Megállapodás 1. cikk 2. pontja szerinti fizetéseket is) teljesíthet az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló szervezet által meghatározott módon, összegben és ütemezés szerint;
 - e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
+- f) az államháztartásért felelős miniszter döntése alapján ellátja a 9/A. § szerint az állam által a kormányzati szektorba sorolt egyéb szervezetnek nyújtott kölcsön teljesítésével kapcsolatos feladatokat.
 
 (5) Az ÁKK Zrt. (1) bekezdés szerinti tevékenysége körében az állam által kibocsátott, vagy állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. § a)-d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. § (1) bekezdésében meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. § (2) bekezdés a), b), d), g) és h) pontjában meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
 
@@ -287,9 +300,12 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 14. § (1) Az állam átmenetileg szabad pénzeszközeinek kezeléséről az államháztartásért felelős miniszter az ÁKK Zrt. útján gondoskodik. E feladatkörében az ÁKK Zrt. jogosult a 13. § (1) bekezdése szerinti műveletek végzésére. Az e tevékenységből származó kamatokat a központi költségvetés javára kell elszámolni.
 
-(2) Az államadósság-kezeléssel kapcsolatos polgári jogi jogviszonyban az államot az államháztartásért felelős miniszter képviseli, ezt a képviseleti jogát az államháztartásért felelős miniszter az ÁKK Zrt. útján is gyakorolhatja vagy írásban az ÁKK Zrt.-re átruházhatja.
+(2) Az államadósság-kezeléssel kapcsolatos polgári jogi jogviszonyban az államot az államháztartásért felelős miniszter képviseli, azzal, hogy
 
-(2a) A (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a magyar állam által belföldön nyomdai úton előállított értékpapírként kibocsátásra kerülő állampapírok okiratán a kibocsátó magyar állam képviseletében eljárva az államháztartásért felelős miniszter vagy a miniszterelnök aláírása szerepel.
+- a) a belföldön, nyomdai úton előállított értékpapírként kibocsátásra kerülő állampapíron a kibocsátó állam képviseletében eljárva az államháztartásért felelős miniszter vagy a miniszterelnök aláírása szerepel,
+- b) az államháztartásért felelős miniszter a képviseleti jogát az ÁKK Zrt. útján is gyakorolhatja vagy írásban az ÁKK Zrt.-re vagy a Kormány más tagjára átruházhatja.
+
+(2a) A nemzetközi pénzügyi intézményekkel létrejövő szerződéses jogviszonyokban – ideértve a magánszektor beruházásaihoz kapcsolódó szerződésekkel összefüggő egyetértő nyilatkozat kiadását – az államot a nemzetközi pénzügyi kapcsolatokért felelős miniszter képviseli, – amelynek során felel a szerződések előkészítéséért, megkötéséért, módosításáért, megszüntetéséért és a szerződésből eredő kötelezettségek teljesítéséért – azzal, hogy az államadósság-kezeléssel kapcsolatos polgári jogi jogviszonyok tekintetében a (2) bekezdés alkalmazandó.
 
 (3) Az ÁKK Zrt. által az államadósság-kezelés körében megkötött ügylet az állam javára, illetve terhére megkötött ügyletnek minősül.
 
@@ -715,6 +731,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 52. § E törvénynek a pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvénnyel megállapított 8/B. §-t nem kell alkalmazni a pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvény hatálybalépését megelőzően a magyar állam nevében vállalt, vagy a magyar államot bármilyen módon érintő kötelezettségei tekintetében.
+
+52/A. § Az e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel (a továbbiakban: Módtv.) megállapított 14. § (2) és (2a) bekezdését a Módtv. hatálybalépését megelőzően nemzetközi pénzügyi intézményekkel létrejött szerződéses jogviszonyokban is alkalmazni kell.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

@@ -56,7 +56,7 @@ az alábbi törvényt alkotja:
 - 15. referencia gyógyászati segédeszköz: az a meghatározott (fix) támogatási csoportba tartozó gyógyászati segédeszköz, amely a közfinanszírozás alapjául elfogadott ára, kölcsönzési díja, illetve forgalmi részesedése alapján az adott támogatási csoportra meghatározott, a külön jogszabály szerinti százalékos támogatásban részesül;
 - 16. közforgalmú gyógyszertár: teljes körű közvetlen lakossági gyógyszerellátást biztosító egészségügyi intézmény;
 - 17. fiókgyógyszertár: a közforgalmú gyógyszertár részeként működő, de azzal nem azonos telephelyű, vagy mozgó, illetve ideiglenesen telepített egységként működtetett, közvetlen lakossági gyógyszerellátást biztosító egészségügyi intézmény;
-- 18. intézeti gyógyszertár: a fekvőbeteg-ellátást végző intézmény részeként működő, annak teljes körű gyógyszerellátását végző egészségügyi intézmény, mely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
+- 18. intézeti gyógyszertár: a fekvőbeteg-ellátást végző intézmény részeként működő vagy az egységes intézeti gyógyszertári szolgáltatás keretében működtetett, a fekvőbeteg-ellátást végző intézmény teljes körű gyógyszerellátását végző egészségügyi intézmény, amely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
 - 19. kézigyógyszertár: a háziorvos, házi gyermekorvos (a továbbiakban: háziorvos) gyógyító munkájához szükséges, a gyógyszerek meghatározott körét szolgáltató ellátási forma;
 - 20. személyes gyógyszertár működtetési jog: szakmai gyakorlattal rendelkező gyógyszerész részére, adott közforgalmú gyógyszertár vezetésére és működtetésére szóló engedély (a továbbiakban: személyi jog);
 - 21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár gyógyszerkészítési tevékenységet végez, a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten, a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása;
@@ -85,7 +85,8 @@ az alábbi törvényt alkotja:
 - 44. gyógyszertári ügyelet: a gyógyszertár által gyógyszerész jelenléte mellett a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás;
 - 45. gyógyszertári készenlét: a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás biztosítása olyan módon, hogy a készenlétet teljesítő gyógyszerész az ellátást telefonhívást követően 30 perces várakozási időn belül kezdi meg.
 - 46. tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszer: az egészségbiztosítási szerv által közbeszerzés útján természetben vagy pénzügyi keret formájában biztosított, speciális támogatásban részesülő gyógyszer;
-- 47. intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása: átlátható és technikailag zárt, kizárólag hatósági ellenőrzési tevékenység részére hozzáférhető elektronikus szakmai nyilvántartási rendszer.
+- 47. egységes intézeti gyógyszertári szolgáltatás: az állami fenntartású fekvőbeteg-ellátást végző intézmények részére egységes rendszerben azonos szolgáltatásszínvonalú intézeti gyógyszertári szolgáltatás nyújtása Magyarország területén (ideértve az ennek ellátásához szükséges beszerzési, járulékos közbeszerzési szolgáltatási, koordinációs és logisztikai tevékenységet is);
+- 48. egyedi gyógyszeradagoló rendszer: betegszintű gyógyszerelési mód, amely során az intézeti gyógyszertár által a fekvőbeteg-ellátásban részesülők számára előírt gyógyszerek személyre szabott adagokban kerülnek kiszerelésre.
 
 ## I. RÉSZ — A BIZTONSÁGOS ÉS GAZDASÁGOS GYÓGYSZER- ÉS GYÓGYÁSZATISEGÉDESZKÖZ-ELLÁTÁS
 
@@ -462,7 +463,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (9) A társadalombiztosítási támogatással rendelhető sorozatgyártású gyógyászati segédeszközök forgalmazása esetében a forgalmazó köteles az adott eszköz funkcionális csoportjának referenciaeszközét vagy azzal azonos árú eszközt forgalmazni.
 
-(9a) Társadalombiztosítási támogatással csak olyan gyógyászati segédeszköz forgalmazható, amelyet a forgalmazó az eszköznek a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozójától, vagy olyan – a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 10. pontja szerinti – gazdasági szereplőtől szerzett be, amely az áru átvételére szolgáló bizonylattal igazolja, hogy az eszköz a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozótól származik.
+(9a) Társadalombiztosítási támogatással csak olyan gyógyászati segédeszköz forgalmazható, amelyet a forgalmazó az eszköznek a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozójától, vagy olyan – a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 3. § 10. pontja szerinti – gazdasági szereplőtől szerzett be, amely az áru átvételére szolgáló bizonylattal igazolja, hogy az eszköz a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozótól származik.
 
 (9b) Ha a gyógyászati segédeszköz forgalomba hozója azonos a forgalmazójával, a (9a) bekezdést nem kell alkalmazni.
 
@@ -1295,6 +1296,8 @@ a befizetést követően haladéktalanul átutalja.
 
 (2) A vállalt többletszolgáltatásnak az (1) bekezdés szerinti csökkentését és az annak alapjául szolgáló vis maiort a működtető az egészségügyi államigazgatási szervnek haladéktalanul, de legkésőbb a vis maior bekövetkezését követő 12 órán belül bejelenti.
 
+49/D. § Az állami fenntartású fekvőbeteg-ellátást végző intézmény területén új közforgalmú gyógyszertár nem létesíthető.
+
 ### A fiókgyógyszertár létesítése
 
 50. § (1) Azon a településen vagy önálló településrészi önkormányzattal (részönkormányzattal) rendelkező településrészen, ahol közforgalmú vagy fiókgyógyszertár nem működik, kérelemre fiókgyógyszertár létesítését és működtetését engedélyezi az egészségügyi államigazgatási szerv, amennyiben a kérelmező megfelel e törvényben előírt feltételeknek. A fiókgyógyszertár épületben, illetve mozgó egységként működtethető. A fiókgyógyszertár működése az ügyfél kérelmére – amennyiben annak e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott feltételei fennállnak – meghatározott időszakra (idényre) is engedélyezhető. Erről a működtetést engedélyező határozatban rendelkezni kell.
@@ -1336,7 +1339,31 @@ az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén 
 
 (2) Az intézeti gyógyszertár köteles biztosítani az intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönítését szolgáló feltételeket. Az intézeti gyógyszertár működésének részletes szakmai szabályait, személyi és tárgyi feltételeit, nyilvántartási kötelezettségeit az intézeti és közvetlen lakossági gyógyszerellátási feladatok elkülönítésével kapcsolatos feladatok részletes szabályait jogszabály állapítja meg.
 
-51/A. § Az intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartásának hatékony ellenőrzéséhez szükséges hozzáférést a működtető az átláthatóság és a nyomonkövethetőség elvének megfelelően, jogszabályban meghatározottak szerint biztosítja az egészségügyi államigazgatási szerv részére.
+51/A. § (1) Az állam az állami fenntartású fekvőbeteg-ellátást végző intézmények részére az egységes intézeti gyógyszertári szolgáltatást hirdetménnyel induló, a Kbt. szerint lefolytatott eljárás alapján az eljárás nyertesével a Kbt. szerint megkötött szerződés útján is biztosíthatja.
+
+(2) Az állam nevében a Kbt. szerinti eljárás lefolytatására, az eljárás nyertesével a Kbt. szerinti szerződés megkötésére, valamint e szerződés módosítására és megszüntetésére az egyes beszerzési eljárások tekintetében kormányrendeletben kijelölt miniszter jogosult.
+
+(3) A Kbt. szerinti eljárás nyertese az egységes intézeti gyógyszertári szolgáltatás nyújtására projekttársaságot köteles létrehozni.
+
+(4) A (3) bekezdés szerinti projekttársaság az egységes intézeti gyógyszertári szolgáltatás nyújtásával kapcsolatos engedélyeket a Kbt. szerinti szerződés megkötésétől számított egy naptári éven belül köteles megszerezni, ennek hiányában a Kbt. szerinti szerződés a megkötésétől számított egy naptári év elteltét követő napon megszűnik.
+
+(5) A Kormány rendeletben határozza meg az egységes intézeti gyógyszertári szolgáltatás nyújtása engedélyezésének, végzésének és hatósági ellenőrzésének részletes szabályait.
+
+(6) Az egységes intézeti gyógyszertári szolgáltatás nyújtása során a (3) bekezdés szerinti projekttársaság a Kbt. szerinti szerződésben és a jogszabályokban meghatározott szolgáltatási színvonalat és ellátást folyamatosan köteles biztosítani (a továbbiakban: szolgáltatásbiztonság). A szolgáltatásbiztonság bármely okból bekövetkező sérelme esetén a Kbt. szerinti eljárás nyertese és a projekttársaság az állam részére az azonnali, teljes körű beavatkozás lehetőségét – ideértve az informatikai és beszerzési rendszerhez való közvetlen hozzáférést is – a Kbt. szerinti szerződés hatálya alatt folyamatosan köteles biztosítani.
+
+(7) A Kbt. szerinti szerződés időtartamának leteltét követően az üzembe helyezett egyedi gyógyszeradagoló rendszert a Kbt. szerinti eljárás nyertese ingyenesen átadja az állami fenntartású fekvőbeteg-ellátást végző intézmény részére visszavételi eljárás keretében.
+
+(8) A Kbt. szerinti szerződésben előírható, hogy ha a Kbt. szerinti szerződés megkötését követően e törvény rendelkezéseinek, valamint az ágazati szabályozás megváltozása következtében a Kbt. szerinti szerződés változatlan feltételek melletti teljesítése a Kbt. szerinti eljárás nyertesének gazdasági hátrányt vagy jogi érdeksérelmet okoz vagy okozna, és e törvény rendelkezéseinek, valamint az ágazati szabályozás megváltozásának lehetősége a Kbt. szerinti szerződés megkötésének időpontjában a Kbt. szerinti eljárás nyertese számára nem volt előrelátható, úgy a Kbt. szerinti eljárás nyertesének választása szerint
+
+- a) a Kbt. szerinti szerződést legalább három hónapos felmondási idő mellett felmondhatja,
+- b) a Kbt. szerinti szerződés bírósági módosítása útján az egységes intézeti gyógyszertári szolgáltatás nyújtója által az egységes intézeti gyógyszertári szolgáltatás nyújtásáért fizetendő díj arányos csökkentését kérheti, vagy
+- c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos egyösszegű vagy részletekben teljesítendő pénzbeli kompenzációra tarthat igényt.
+
+(9) A (8) bekezdés alkalmazásában ágazati szabályozásnak minősül az állam és az Európai Unió által alkotott valamennyi jogszabály és jogi tartalmú szabályozás, így különösen az egységes intézeti gyógyszertári szolgáltatásra vonatkozó közterhekkel kapcsolatos és más jogi szabályozás, kötelezést tartalmazó szakmai előírás, szabvány, szabályzat és belső szabályozás, továbbá nemzetközi szerződés és megállapodás, amely az egységes intézeti gyógyszertári szolgáltatásra vonatkozik.
+
+(10) A (3) bekezdés szerinti projekttársaság az egységes intézeti gyógyszertári szolgáltatás nyújtása során együttműködik az állami fenntartású fekvőbeteg-ellátó intézménnyel a jogszabályban és a Kbt. szerinti szerződésben meghatározott egészségügyi ágazati kötelező informatikai és iratkezelési előírás, szabvány, szoftver, eljárásrend (a továbbiakban: kötelező egészségügyi informatikai előírás) alkalmazásában. A (3) bekezdés szerinti projekttársaság biztosítja az egységes intézeti gyógyszertári szolgáltatásnyújtás teljesítéséhez az általa használt tárgyi eszközök, berendezések, szoftverek, valamint az általa irányított vagy felügyelt munkafolyamatok és eljárásrendek folyamatos és teljes körű megfelelését a kötelező egészségügyi informatikai előírásoknak.
+
+(11) A nem állami fenntartású fekvőbeteg-ellátást végző intézmény intézeti gyógyszertára vonatkozásában önkéntesen, szerződéses úton csatlakozhat az egységes intézeti gyógyszertári szolgáltatás nyújtására a Kbt. és az (1)–(9) bekezdés szerint megkötött szerződéshez, a Kormány által rendeletben meghatározott részletes szabályok alapján.
 
 ### A kézigyógyszertár működtetése
 
@@ -1786,7 +1813,7 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 
 #### 74/B. §
 
-75. § Nem valósítható meg olyan összefonódás, amelynek eredményeképpen négynél több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport vagy ugyanazon természetes személy közvetlen vagy közvetett irányítása alá, továbbá nem valósítható meg olyan összefonódás sem, amelynek következményeként húszezer lélekszám alatti településen három vagy annál több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport vagy ugyanazon természetes személy közvetlen vagy közvetett irányítása alá.
+75. § Nem valósítható meg olyan összefonódás, amelynek eredményeképpen négynél több közforgalmú gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport vagy ugyanazon természetes személy közvetlen vagy közvetett irányítása alá, továbbá nem valósítható meg olyan összefonódás sem, amelynek következményeként húszezer lélekszám alatti településen három vagy annál több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport vagy ugyanazon természetes személy közvetlen vagy közvetett irányítása alá.
 
 76. § (1) A közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerész – ide nem értve azt az esetet, amikor a személyi jog jogosultja gazdasági társaság tagja a társadalombiztosítási és a pénzügyi jogszabályok alkalmazása során az egyéni vállalkozóval esik egy tekintet alá, továbbá közforgalmú gyógyszertár egyéni cég formájában is működtethető.
 
@@ -1808,7 +1835,10 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 - j) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének eljárási szabályait,
 - k) a gyógyászatisegédeszköz-szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes eljárási szabályokat,
 - l) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait
-- m) az intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartásának hatékony ellenőrzéséhez szükséges hatósági hozzáférés részletes szabályait
+- m) az egységes intézeti gyógyszertári szolgáltatás nyújtása engedélyezésének, végzésének és hatósági ellenőrzésének részletes szabályait,
+- n) az egységes intézeti gyógyszertári szolgáltatás nyújtásának engedélyezésére és hatósági ellenőrzésére jogosult szervet,
+- o) az 51/A. § (2) bekezdése szerinti miniszter kijelölését,
+- p) a nem állami fenntartású fekvőbeteg-ellátást végző intézménynek az egységes intézeti gyógyszertári szolgáltatás nyújtására a Kbt. és az 51/A. § (1)–(9) bekezdés szerint megkötött szerződéshez történő önkéntes csatlakozás részletes szabályait.
 
 rendeletben állapítsa meg.
 
