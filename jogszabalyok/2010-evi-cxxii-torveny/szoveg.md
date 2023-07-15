@@ -779,6 +779,14 @@ használható fel.
 
 (4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
 
+### Az Europol által javasolt információs figyelmeztető jelzés elhelyezése
+
+37/C. § (1) Az Europol által javasolt információs figyelmeztető jelzés elhelyezését a NAV Bűnügyi Főigazgatóság főigazgatója hagyja jóvá.
+
+(2) A jóváhagyást követően a Nemzetközi Bűnügyi Együttműködési Központ információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
+
+(3) Ha a pénzügyőr az e fejezetben meghatározott intézkedése során megállapítja, hogy az intézkedéssel érintett személy azonos a Schengeni Információs Rendszerben elhelyezett információs figyelmeztető jelzés szerinti harmadik országbeli állampolgárral, rögzíti az intézkedés megtörténtének tényét és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 37. cikk (1) bekezdése szerinti adatokat, valamint az e fejezetben meghatározott intézkedéseket foganatosíthatja.
+
 ### Közös szabályok a kényszerítő eszközökre
 
 38. § (1)
@@ -1015,7 +1023,7 @@ szükségesek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
+(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
 
 (4) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
@@ -1743,12 +1751,15 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 105. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet,
+- a)
 - b) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [75. §],
 - c) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [72. § (1)–(2) bekezdés, 74. § (2) bekezdés, 77. §, 78. § (1) bekezdés a)–c) pontok],
 - d) az információs technológia vámügyi alkalmazásáról szóló, 2009. november 30-i 2009/917/IB Tanácsi határozat [80. §].
 
-#### 106. §
+106. § E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
+
+- a) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet,
+- b) az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet (37/C. §).
 
 #### 107. §
 
