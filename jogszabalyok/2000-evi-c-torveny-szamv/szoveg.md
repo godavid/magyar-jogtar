@@ -22,17 +22,7 @@ Ennek érdekében az Országgyűlés a számvitelről a következő törvényt a
 
 (3) A törvény hatálya nem terjed ki az egyéni vállalkozóra, a polgári jogi társaságra, az építőközösségre, továbbá a külföldi székhelyű vállalkozás magyarországi kereskedelmi képviseletére.
 
-2/A. § (1) E törvény hatálya nem terjed ki arra a közkereseti társaságra, betéti társaságra, egyéni cégre és ügyvédi irodára, amely az üzleti évben (az adóévben) nyilvántartásait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
-
-(2) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti közkereseti társaság, betéti társaság, egyéni cég, valamint ügyvédi iroda attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
-
-(3) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságra, betéti társaságra, egyéni cégre, valamint ügyvédi irodára a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
-
-(4) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságnak, betéti társaságnak, egyéni cégnek, valamint ügyvédi irodának – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
-
-(4a) Az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint alapított egyéni cégnek és korlátolt felelősségű társaságnak az alapítása időpontjával a (4) bekezdés megfelelő alkalmazásával nyitó mérleget kell készítenie azzal, hogy a nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval nem kell ellenőriztetni.
-
-(5) A törvény hatálya alá tartozó közkereseti társaság, betéti társaság, egyéni cég, valamint ügyvédi iroda beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
+2/A. § Az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint alapított egyéni cégnek és korlátolt felelősségű társaságnak az alapítása időpontjával – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval nem kell ellenőriztetni.
 
 ### Értelmező rendelkezések, fogalmak
 
@@ -362,7 +352,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy a konszolidálásba történő bevonáskor, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett.
 
-(4) Az üzleti év időtartama – az (5)–(15) bekezdésben foglaltak kivételével – 12 naptári hónap.
+(4) Az üzleti év időtartama – az (5)–(13) bekezdésben foglaltak kivételével – 12 naptári hónap.
 
 (5) Üzleti év a jogelőd nélkül alapított vállalkozónál – ha e törvény eltérően nem rendelkezik – alapítása időpontjától (létesítő okirata ellenjegyzésének, illetve közokiratba foglalásának napjától) létrejöttének (a cégjegyzékbe való bejegyzésének), illetve a cégbejegyzés iránti kérelem jogerős elutasításának, vagy a cégbejegyzési eljárás megszüntetésének napjáig – mint mérlegfordulónapig – terjedő időszak, függetlenül annak időtartamától (előtársasági időszak).
 
@@ -384,9 +374,9 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (13) Az anyavállalat összevont (konszolidált) éves beszámolóját az anyavállalat éves beszámolójának üzleti évéről kell elkészíteni. Amennyiben az anyavállalat leányvállalatainak üzleti éve eltér az anyavállalat éves beszámolójának üzleti évétől, akkor az összevont (konszolidált) éves beszámoló üzleti éve lehet a leglényegesebb leányvállalat vagy a leányvállalatok többsége beszámolójának üzleti éve is. Ez esetben az eltérés tényét és annak indokait az összevont (konszolidált) éves beszámoló kiegészítő mellékletében be kell mutatni. Ezen túlmenően közölni kell az összevont (konszolidált) éves beszámoló kiegészítő mellékletében az eszközökkel, a forrásokkal, a pénzügyi és jövedelmi helyzet alakulásával kapcsolatos olyan lényeges események hatását, amelyek az anyavállalati éves beszámoló mérlegfordulónapja és az összevont (konszolidált) mérleg fordulónapja közötti időszakban következtek be.
 
-(14) Üzleti év a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá kerülő közkereseti társaságnál, betéti társaságnál, egyéni cégnél és ügyvédi irodánál az előző üzleti év mérlegfordulónapját követő naptól az adóalanyiság létrejöttét megelőző napig terjedő időszak, amennyiben a vállalkozó a nyilvántartásait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény külön előírásai szerint teljesíti, és az áttérést megelőzően e törvény hatálya alatt volt.
+(14)
 
-(15) Üzleti év a 2/A. § (3) bekezdésében felsorolt, e törvény hatálya alá átkerülő (visszakerülő) vállalkozónál a visszatérés időpontjától a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
+(15)
 
 ### Könyvvezetési kötelezettség
 
@@ -4090,6 +4080,12 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (88) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 114/I. § (4) bekezdését, VI/B. Fejezetét, 156. § (5) bekezdés p) pontját először a 2024. június 22-én vagy azt követően induló üzleti évre kell alkalmazni.
 
+(89) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 11. § (10) bekezdését, 142. §-át, 151. § (2) bekezdését először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(90) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 11. § (10) bekezdését, 142. §-át, 151. § (2) bekezdését a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(91) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 134/G. § (3a) bekezdését először a 2024. június 22-én vagy azt követően induló üzleti évről készített beszámolóra kell alkalmazni.
+
 ### Felhatalmazás
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:
@@ -4102,6 +4098,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 - f) a végelszámolás, valamint a felszámolás számviteli feladatait;
 - g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait;
 - h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait.
+- i) a mérlegképes könyvelői hatósági képesítés szakmai és vizsgakövetelményeit, a hatósági képzés és a hatósági vizsgáztatás megvalósításának részletszabályait, a hatósági képzés eredményes elvégzésének, illetve a hatósági vizsga teljesítésének követelményeit és igazolási módját, a hatósági képzés és a hatósági vizsgáztatás szakmai ellenőrzésének szabályait, a hatósági képzés és a hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a vizsgaelnöki és a vizsgabiztosi névjegyzékbe történő felvételi eljárásnak a részletes szabályait.
 
 (2)
 
@@ -4112,6 +4109,8 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (5) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszter egyetértésével – rendeletben állapítsa meg a könyvviteli szolgáltatást végzők engedélyezési és nyilvántartásba vételi eljárásáért, a nyilvántartásból való törlésért, a hatósági igazolvány pótlásával, cseréjével, és a nyilvántartásban szereplő adatok módosításával összefüggő eljárásért, valamint a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, továbbá a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért, a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásáért és a szakmai szervezetként történő elismerés eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréhez nyújtott támogatás elszámolásának részletes szabályait.
+
+(7) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a mérlegképes könyvelői hatósági képzés és hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
 
 ### 1. számú melléklet a 2000. évi C. törvényhez
 

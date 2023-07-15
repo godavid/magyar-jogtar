@@ -331,7 +331,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - e) egyéni vállalkozó, mezőgazdasági termelő halálát, vagy cselekvőképességének elvesztését, feltéve, hogy az egyéni vállalkozói, őstermelői tevékenységet
   - ea) elhalálozás esetében az özvegy vagy örökös folytatja; illetőleg
   - eb) cselekvőképesség elvesztése esetében az egyéni vállalkozó, mezőgazdasági őstermelő nevében és javára a törvényes képviselője folytatja;
-- f) a 8. § (5), (9) és (12) bekezdéseiben említett eseteket.
+- f) a 8. § (5), (9), (10) és (12) bekezdése szerinti eseteket;
 - g) a mezőgazdasági tevékenységét megszüntető természetes személy adóalanynak a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére történő gazdaságátadását, feltéve, hogy a gazdaságátadás az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatással történik.
 - h) költségvetési szerv államháztartásról szóló törvény szerinti átalakítását, vagy irányító (felügyeleti) szervének megváltozását.
 - i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában jogutódlásnak tekintendő;
@@ -345,7 +345,9 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - a) a kezelt vagyon bizalmi vagyonkezelő részére történő átadásakor, valamint
 - b) a kezelt vagyon vagy annak haszna egészének vagy egy részének a vagyonrendelővel megegyező kedvezményezett részére történő kiadásakor, feltéve, hogy az a 18. § (1) és (2) bekezdésében foglalt feltételek szerint történik [az a) és b) pontban foglaltak a továbbiakban együtt: bizalmi vagyonkezelés].
 
-18. § (1) Az apport [17. § (1) bekezdés], a jogutódlás [17. § (2) bekezdés], az üzletág-átruházás [17. § (4) bekezdés], továbbá a bizalmi vagyonkezelés [17. § (5) bekezdés] útján szerzett vagyon (vagyonrész) és vagyoni értékű jog (e § alkalmazásában a továbbiakban együtt: vagyon) tekintetében a szerzőnek a következő feltételeknek kell egyidejűleg megfelelnie:
+(6) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás, ha az adóalany jogszabályban meghatározott feladat ellátását az ahhoz kapcsolódó vagyonnal átadja a – jogszabály által a feladat ellátására jogutódként kijelölt – szerző részére, feltéve, hogy az a 18. § (1) és (2) bekezdésében meghatározott feltételek szerint történik.
+
+18. § (1) Az apport [17. § (1) bekezdés], a jogutódlás [17. § (2) bekezdés], az üzletág-átruházás [17. § (4) bekezdés], a jogszabályban meghatározott feladat ellátásának átadása [17. § (6) bekezdés], továbbá a bizalmi vagyonkezelés [17. § (5) bekezdés] útján szerzett vagyon (vagyonrész) és vagyoni értékű jog (e § alkalmazásában a továbbiakban együtt: vagyon) tekintetében a szerzőnek a következő feltételeknek kell egyidejűleg megfelelnie:
 
 - a) a szerzéskor vagy annak közvetlen következményeként belföldön nyilvántartásba vett adóalany legyen;
 - b) kötelezettséget vállal arra, hogy a szerzéshez és a szerzett vagyonhoz fűződő, az e törvényben szabályozott jogok és kötelezettségek – a (2) bekezdésben említett eltéréssel – a szerzéstől kezdődően jogutódként őt illetik és terhelik;
@@ -366,14 +368,15 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 - b) a jogelődöt a jogutódlással történő megszűnés azon esetében, amelyben a jogelőd nem szűnik meg,
 - c) azt a volt egyéni vállalkozót, akinek egyéni vállalkozói tevékenység folytatására vonatkozó jogosultsága egyéni cég vagy korlátolt felelősségű társaság alapítására tekintettel megszűnt,
 - d) az egyéni cég tagját az egyéni cég gazdasági társasággá történő átalakulása esetén,
-- e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére átadja, valamint
+- e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére átadja,
 - f) az üzletágat átruházó adóalanyt,
 - g) a 17. § (5) bekezdés a) pontja esetén a vagyonrendelőt, b) pontja esetén pedig a bizalmi vagyonkezelőt,
-- h) a gazdaságot átadó személyt a 17. § (3) bekezdés k) pontja szerinti esetben,
+- h) a gazdaságot átadó személyt a 17. § (3) bekezdés k) pontja szerinti esetben, valamint
+- i) a jogszabályban meghatározott feladat ellátását átadó adóalanyt a 17. § (6) bekezdése szerinti esetben,
 
 azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
 
-(3) Ha az (1)–(2) bekezdésben meghatározott, az azok közül értelemszerűen alkalmazandó feltételek bármelyike nem teljesül, az apportra, a jogutódlásra, az üzletág-átruházásra, valamint a bizalmi vagyonkezelésre vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.
+(3) Ha az (1)–(2) bekezdésben meghatározott, az azok közül értelemszerűen alkalmazandó feltételek bármelyike nem teljesül, az apportra, a jogutódlásra, az üzletág-átruházásra, a jogszabályban meghatározott feladat ellátásának átadására, valamint a bizalmi vagyonkezelésre vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.
 
 ### Az utalványok átruházására vonatkozó szabályok
 
@@ -1827,7 +1830,7 @@ terjedő tartamban az adóalany adólevonási jogát – az adólevonási jog gy
 
 (3) A (2) bekezdés szerinti különbözetre a 153/C. § (1)–(2) bekezdését kell megfelelően alkalmazni.
 
-(4) Abban az esetben, ha a tárgyi eszközt a 17. § szerinti apport, jogutódlás vagy üzletág-átruházás keretében naptári év közben szerzi meg az apportot fogadó, a jogutód vagy az üzletágat megszerző adóalany oly módon, hogy a terméket változatlanul tárgyi eszközként használja, a (2) bekezdés alkalmazásában úgy kell tekinteni, hogy a tárgyi eszközt a szerzés évében mind az apportáló, a jogelőd vagy az üzletágat átruházó adóalany, mind az apportot fogadó, a jogutód vagy az üzletágat megszerző adóalany a naptári év teljes időtartamában használta azzal, hogy a számítást időarányosan kell elvégezni.
+(4) Abban az esetben, ha a tárgyi eszközt a 17. § szerinti apport, jogutódlás, üzletág-átruházás vagy jogszabályban meghatározott feladat ellátásának átadása keretében naptári év közben szerzi meg az apportot fogadó, a jogutód, az üzletágat megszerző vagy a jogszabály által a feladat ellátására jogutódként kijelölt adóalany oly módon, hogy a terméket változatlanul tárgyi eszközként használja, a (2) bekezdés alkalmazásában úgy kell tekinteni, hogy a tárgyi eszközt a szerzés évében mind az apportáló, a jogelőd, az üzletágat átruházó vagy a jogszabályban meghatározott feladat ellátását átadó adóalany, mind az apportot fogadó, a jogutód, az üzletágat megszerző vagy a jogszabály által a feladat ellátására jogutódként kijelölt adóalany a naptári év teljes időtartamában használta azzal, hogy a számítást időarányosan kell elvégezni.
 
 (5) Abban az esetben, ha az adóalany olyan vagyoni értékű jogot hasznosít vállalkozásán belül, amely rendeltetésszerű használatot feltételezve legalább 1 évet meghaladó időtartamban szolgálja a gazdasági tevékenység folytatását,
 
@@ -2175,7 +2178,7 @@ de legfeljebb az attól számított ésszerű időn belül köteles gondoskodni.
 (2) Az (1) bekezdésben említett ésszerű idő
 
 - a) a 89. § szerinti termékértékesítés vagy olyan szolgáltatásnyújtás esetén, amely után az adót a Héa-irányelv 196. cikkének tartalmában megfelelő tagállami szabályozás alapján a szolgáltatást igénybevevő fizeti, a teljesítés hónapját követő hónap 15. napján belüli,
-- b) az a) pont alá nem tartozó, valamint a 167. § c) pontjától eltérő olyan esetekben, ahol az ellenértéket – ideértve az előleget is – készpénzzel vagy készpénz-helyettesítő fizetési eszközzel térítik meg, haladéktalan,
+- b) az a) pont alá nem tartozó, valamint a 167. § c) pontjától eltérő olyan esetekben, ahol az ellenértéket az (1) bekezdés a) pontjában, illetve a 164. § (1) bekezdés a) pontjában említett időpontig, előleg fizetése esetén a fizetendő adó megállapításáig megtérítik, haladéktalan,
 - c) egyéb, a b) pont alá nem tartozó olyan esetben, amelyben a számla áthárított adót tartalmaz, vagy annak áthárított adót kellene tartalmaznia, 8 napon belüli
 
 számlakibocsátási kötelezettséget jelent.
@@ -3035,7 +3038,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 - a) amelyet egy másik adóalany – akár a jogalap, akár az összegszerűség tekintetében – tévesen vagy egyéb okból jogszabálysértően hárított át;
 - b) amely olyan termék beszerzését terheli, amelynek értékesítése a 89. § vagy 98. § (1) bekezdésének b) pontja értelmében mentes az adó alól, vagy az ott meghatározottak szerint mentes lenne az adó alól;
-- c) amely ingatlan beszerzését terheli.
+- c) amely ingatlan beszerzését terheli, kivéve, ha az ingatlant a Közösség más tagállamában letelepedett adóalany szerzi be.
 
 247. § (1) Abban a mértékben, amilyen mértékben a belföldön nem letelepedett adóalany által belföldön beszerzett, importált terméket és belföldön igénybe vett szolgáltatást
 
@@ -3855,6 +3858,8 @@ közösségi adószám birtokában végezhet.
 - 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 - 5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést; 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
+- 6/B. e-nyugta: e-pénztárgéppel kiállított nyugta;
+- 6/C. e-pénztárgép: elektronikus nyugta és egyszerűsített adattartalmú számla kibocsátására alkalmas, pénztárgéptől eltérő, engedélyezett műszaki megoldás;
 - 7. építési telek: az olyan
   - a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
   - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak. 7/A. halottszállító személygépkocsi: az olyan személygépkocsi, amelyet a közúti járművek műszaki megvizsgálásáról szóló rendelet szerinti halottszállító kocsiként tüntetnek fel a járműnyilvántartásban. 7/B. internet-hozzáférési szolgáltatás: csomagkapcsolt módon felépülő, a nyílt internet-hozzáférés megteremtéséhez szükséges intézkedések meghozataláról, továbbá az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv és az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló 531/2012/EU rendelet módosításáról szóló 2015/2120/EU európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti internet-hozzáférési szolgáltatás. Az elektronikus hírközlésről szóló 2003. évi C. törvény szerinti hálózati szolgáltatás nem minősül e törvény alkalmazásában internet-hozzáférési szolgáltatásnak.
@@ -3872,10 +3877,12 @@ közösségi adószám birtokában végezhet.
   - c) között az egyik fél a másik félnek vezető tisztségviselője vagy felügyelőbizottsági tagja;
   - d) között a 6. § (5) bekezdése szerinti viszony áll fenn;
   - e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója; 13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
+- 13/B. nyugtatár: az e-pénztárgéppel kiállított nyugtának, nyugtával egy tekintet alá eső okiratnak, számlának, számlával egy tekintet alá eső okiratnak a terméket beszerző, szolgáltatást igénybe vevő részére történő rendelkezésre bocsátására, megőrzésére szolgáló rendszer;
+- 13/C. nyugtatár-szolgáltató: a nyugtatárat üzemeltető szerv;
 - 14. pénz: a névértéken elfogadott pénz;
 - 15. pénzhelyettesítő eszköz: fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 - 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
-- 17.
+- 17. pénztárgép: papír alapú gépi nyugta és papíralapú egyszerűsített adattartalmú számla kibocsátására alkalmas, engedélyezett műszaki megoldás;
 - 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek,
   - a) amely tulajdon kisajátításának tárgyát képezi, vagy
   - b) amelynek szerzése az értékesítőnél – az illetékekről szóló törvény alapján – öröklési illeték tárgyát képezte, az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem minősül sorozat jellegűnek, továbbá azon – lakóterület besorolású – építési telkek (telekrészek), amelyeket telekmegosztással egyazon építési telekből (telekrészből) alakítottak ki – darabszámtól függetlenül – az előzőekben említett darabszámba egy építési telekként (telekrészként) számítanak be.
@@ -3893,7 +3900,7 @@ közösségi adószám birtokában végezhet.
   - a) szárazföldi közlekedési eszköz esetében azt a gépjárművet jelenti, amelynek beépített erőgépének hengerűrtartalma meghaladja a 48 cm3-t, vagy teljesítménye meghaladja a 7,2 kilowattot, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 6 hónap telt el, vagy az általa megtett távolságból legfeljebb 6000 kilométert tett meg;
   - b) víziközlekedési eszköz esetében azt a járművet jelenti, amelynek hosszúsága meghaladja a 7,5 métert – kivéve: a nyílt tengeri forgalomban használt olyan járművet, amelyet kereskedelmi személyszállításra, egyéb kereskedelmi, ipari és halászati tevékenységre, valamint tengeri mentésre vagy segítségnyújtásra használnak, továbbá a partmenti halászati tevékenységre használt járművet is –, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa hajózott órákból legfeljebb 100 órát hajózott;
   - c) légiközlekedési eszköz esetében azt a járművet jelenti, amelynek teljes felszállási tömege meghaladja az 1550 kilogrammot – kivéve: azt a járművet, amelyet kizárólag vagy túlnyomó részben nemzetközi légikereskedelmi forgalomban részt vevő vállalkozás használ – feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa repült órákból legfeljebb 40 órát repült; 25/A. üzletág: a vállalkozásnak olyan működő egysége, amely szervezeti szempontból függetlenül, a hozzá tartozó vagyonnal alkalmas az önálló gazdasági tevékenység tartós folytatására;
-- 26.
+- 26. vevői alkalmazás: olyan engedélyezett műszaki megoldás, amelynek kizárólagos célja, hogy a terméket beszerző, szolgáltatást igénybe vevő számára olvashatóan elérhetővé tegye az e-pénztárgéppel kibocsátott nyugtát és számlát, és számára biztosítsa az adatok megismerésének és feldolgozásának a lehetőségét.
 
 ### XXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3905,12 +3912,15 @@ közösségi adószám birtokában végezhet.
 - b) a Közösség más tagállamában [244. § (2) bekezdésének a) pontja] és az elismert harmadik államban [244. § (2) bekezdésének b) pontja] letelepedett adóalanyra, valamint a 200. § (3) bekezdésében említett nem adóalany jogi személyre vonatkozó adó-visszatéríttetési kérelem kötelező adattartalmát, formátumát és kitöltésének módját, továbbá az elismert harmadik államban letelepedett adóalanyt és a 200. § (3) bekezdésében említett nem adóalany jogi személyt terhelő igazolási kötelezettségeket;
 - c) a számla és a nyugta kiállításának módjára vonatkozó szabályokat, ideértve a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megállapítását is,
 - d) a számla és a nyugta adóigazgatási azonosítására vonatkozó szabályokat,
-- e) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgéppel, gépi nyugta kiállítására szolgáló egyéb technikai megoldással rögzített adatok állami adóhatóság felé történő adatszolgáltatásának és az állami adóhatóság által a pénztárgépek és gépi nyugta adására szolgáló egyéb technikai megoldások működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait;
-- f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazása engedélyezésének szabályait – ideértve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat;
-- g) a pénztárgép, taxaméter, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
-- h) a pénztárgép, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat;
+- e) a pénztárgéppel rögzített adatok állami adó- és vámhatóság felé történő adatszolgáltatásának és az állami adó- és vámhatóság által a pénztárgépek működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait;
+- f) a pénztárgép, taxaméter forgalmazása engedélyezésének szabályait – ideértve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat;
+- g) a pénztárgép, taxaméter forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
+- h) a pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat;
 - i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket, valamint ezen programokkal kiállított számlák adatainak állami adóhatóság felé történő adatszolgáltatásának szabályait, és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat;
 - j) a számla, egyszerűsített adattartalmú számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit.
+- k) a nyugtatár működésére vonatkozó szabályokat;
+- l) a vevői alkalmazás követelményeire, engedélyezésére vonatkozó szabályokat;
+- m) az e-nyugta, számla e-pénztárgéppel rögzített adatainak állami adó- és vámhatóság részére történő továbbítására vonatkozó részletszabályokat.
 
 (2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § és 108. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
 
@@ -4386,6 +4396,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 (2) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel módosított 142. § (1) bekezdés b) pontja szerinti szolgáltatás nyújtása esetén továbbra is a 2022. december 31-én hatályos szabályok szerint kell eljárni, ha a teljesítés időpontja 2023. január 1-jére vagy azt követő időpontra esik, de a szolgáltatást igénybe vevő adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2023. január 1-jét megelőzően kellene megállapítani.
 
 (3) Amennyiben az előleg jóváírásának, kézhezvételének időpontja 2023. január 1-jét megelőző napra esik azon e törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel módosított 142. § (1) bekezdés b) pontja szerinti szolgáltatások esetén, amelyek 2022. december 31-én még nem tartoztak a 142. § (1) bekezdés b) pontja hatálya alá, az előleg jóváírására, kézhezvételére, megszerzésére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a szolgáltatás igénybe vevőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
+359. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel módosított 246. § c) pontja azon előzetesen felszámított adó összegére alkalmazandó először, amelyet fizetendő adóként 2021. december 31-ét követően kellett megállapítani, azzal, hogy azon előzetesen felszámított adó összegének a XVIII. fejezet szerinti visszatéríttetésére az adóalany nem jogosult, amelyet levonható adóként a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény kihirdetését követő napot megelőzően már érvényesített.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

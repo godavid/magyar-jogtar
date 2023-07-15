@@ -180,6 +180,10 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - 24. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben ilyenként meghatározott vállalkozás, ideértve az említett törvényben előírt feltételeknek megfelelő ügyvédi irodát, végrehajtói irodát, szabadalmi ügyvivői irodát, és közjegyzői irodát is azzal, hogy kisvállalkozásnak minősül az említett törvény szerinti mikrovállalkozás is;
 - 24/a. munkahelyi óvoda: olyan óvodai nevelési ellátást nyújtó intézmény, amely az éves átlagos gyermeklétszámot figyelembe véve legalább 80 százalékban az adózó által foglalkoztatottak gyermekeinek az óvodai nevelését biztosítja;
 - 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely vármegyei, régiós vagy szakmai szövetségként működik;
+- 25a. nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű beruházás: olyan beruházás, amelynek célja
+  - a) akkumulátor, szolárpanel, szélturbina, hőszivattyú, elektrolizátor, szén-dioxid-leválasztást és -tárolást szolgáló berendezés gyártása,
+  - b) az a) pont szerinti berendezés gyártásához tervezett és közvetlenül használt kulcsfontosságú alkatrész gyártása,
+  - c) az a) pont szerinti berendezés és a b) pont szerinti alkatrész gyártásához szükséges nyersanyag előállítása vagy visszanyerése;
 - 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 - 27. külföldi személy: a külföldi jogszabályok alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet;
 - 28. önálló környezetvédelmi beruházás: az a beruházás, amely kizárólag a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 1. § (2) bekezdés a)–c) pontja szerinti célt szolgál;
@@ -864,9 +868,9 @@ adóalapja és az adó mértéke
 
 (11) A jogutód az átalakulást, egyesülést, szétválást követően a jogelődtől átvett eszközöket és kötelezettségeket (ideértve a céltartalékot és a passzív időbeli elhatárolást is) figyelembe véve, adóalapját – az adózás előtti eredmény módosítása révén – úgy határozza meg, mintha az átalakulás, egyesülés, szétválás nem történt volna meg. A jogutód az átértékelt eszközöket és kötelezettségeket elkülönítve tartja nyilván, és e nyilvántartásban feltünteti a jogelődnél az átalakulás, egyesülés, szétválás napjára kimutatott bekerülési értéket, könyv szerinti értéket, számított nyilvántartási értéket, valamint az eszköz, a kötelezettség alapján általa az átalakulást, egyesülést, szétválást követően az adózás előtti eredmény módosításaként elszámolt összeget is.
 
-(12) Kedvezményezett eszközátruházás esetén az átruházó társaság – választása szerint, az átvevő társasággal írásban kötött szerződés alapján, a (13) bekezdésben meghatározott feltételekkel – adózás előtti eredményét csökkenti az önálló szervezeti egység átruházása alapján elszámolt bevételnek az átadott eszközök könyv szerinti értékét meghaladó részével, illetve növeli az átadott eszközök könyv szerinti értékének az elszámolt bevételt meghaladó részével feltéve, hogy a megszerzett részesedést az átruházó társaság vagy kapcsolt vállalkozása addig nem vezeti ki az állományból, amíg az átvevő társaság az átruházó társaságtól átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is) figyelembe véve adóalapját a (14) bekezdés szerint állapítja meg, kivéve, ha a részesedés kivezetése elháríthatatlan külső ok miatt következett be.
+(12) Kedvezményezett eszközátruházás esetén az átruházó társaság – választása szerint, az átvevő társasággal írásban kötött szerződés alapján, a (13) bekezdésben meghatározott feltételekkel – adózás előtti eredményét csökkenti az önálló szervezeti egység átruházása alapján átadott eszközök és átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetnek, valamint a kapott (járó) vagy fizetett (fizetendő) összegnek a nyereségjellegű különbözetével, illetve növeli az átadott eszközök és átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetnek, valamint a kapott (járó) vagy fizetett (fizetendő) összegnek a veszteségjellegű különbözetével feltéve, hogy a megszerzett részesedést az átruházó társaság vagy kapcsolt vállalkozása addig nem vezeti ki az állományból, amíg az átvevő társaság az átruházó társaságtól átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is) figyelembe véve adóalapját a (14) bekezdés szerint állapítja meg, kivéve, ha a részesedés kivezetése elháríthatatlan külső ok miatt következett be.
 
-(12a) Amennyiben az átruházó társaság nem teljesíti a (12) bekezdésben előírt tartási kötelezettséget, akkor a nemteljesítés napját magában foglaló adóévében az adózás előtti eredményét növeli az önálló szervezeti egység átruházása alapján elszámolt bevételnek az átadott eszközök könyv szerinti értékét meghaladó összeg azon részével, amelyet az átvevő társaság a (14) bekezdést figyelembe véve az adóalapjában korábban nem érvényesített. Az átvevő társaság az átruházó társaság nemteljesítésére tekintettel a továbbiakban adóalapját a (14) bekezdés figyelembe vétele nélkül állapítja meg.
+(12a) Amennyiben az átruházó társaság nem teljesíti a (12) bekezdésben előírt tartási kötelezettséget, akkor a nemteljesítés napját magában foglaló adóévében az adózás előtti eredményét növeli az önálló szervezeti egység átruházása alapján átadott eszközök és átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetének, valamint a kapott (járó) vagy fizetett (fizetendő) összeg nyereségjellegű különbözetének azon részével, amelyet az átvevő társaság a (14) bekezdést figyelembe véve az adóalapjában korábban nem érvényesített. Az átvevő társaság az átruházó társaság nemteljesítésére tekintettel a továbbiakban adóalapját a (14) bekezdés figyelembe vétele nélkül állapítja meg.
 
 (13) A (12) bekezdésben foglaltak alkalmazásának feltétele, hogy a kedvezményezett eszközátruházás alapjául szolgáló írásbeli szerződés tételesen tartalmazza az átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is), és azoknak az átadás napjára az átruházó társaságnál kimutatott bekerülési értékét, könyv szerinti értékét és számított nyilvántartási értékét, valamint a (14) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást, továbbá, hogy az átruházó társaság e választását a kedvezményezett eszközátruházás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
 
@@ -983,7 +987,10 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 (12) Amennyiben az adózó adókötelezettsége a felszámolási eljárás (annak megfelelő más eljárás) befejezését követő napon folytatódik, az adózó az (1)–(3) bekezdésben, illetve a VII. fejezetben foglaltakat alkalmazza a felszámolás kezdő napját megelőző napig keletkezett, és az adózás előtti eredmény csökkentéseként még nem érvényesített elhatárolt veszteségre, azzal, hogy a felszámolási időszak egy adóévnek minősül.
 
-(13) A (2) bekezdéstől eltérően, amennyiben az adózóval szemben kezdeményezett csődeljárás vagy felszámolási eljárás jogerős bírósági végzéssel jóváhagyott egyezséggel szűnik meg, akkor a korábbi adóévek elhatárolt vesztesége legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékának az egyezségre tekintettel elengedett (az adózás előtti eredmény javára elszámolt, időbelileg el nem határolt) kötelezettség felével növelt összegben számolható el az adózás előtti eredmény csökkentéseként.
+(13) A (2) bekezdéstől eltérően, a korábbi adóévek elhatárolt vesztesége legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékának az egyezségre, a reorganizációs tervre, illetve a szerkezetátalakítási tervre tekintettel elengedett (az adózás előtti eredmény javára elszámolt, időbelileg el nem határolt) kötelezettség felével növelt összegben számolható el az adózás előtti eredmény csökkentéseként, amennyiben
+
+- a) az adózóval szemben kezdeményezett csődeljárás vagy felszámolási eljárás jogerős bírósági végzéssel jóváhagyott egyezséggel szűnik meg, vagy
+- b) a kötelezettség elengedésére reorganizációs eljárás vagy szerkezetátalakítási eljárás során jogerős bírósági végzésben jóváhagyott reorganizációs terv, illetve szerkezetátalakítási terv alapján kerül sor.
 
 (14)
 
@@ -1354,7 +1361,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 megvalósított beruházás,
 
 - j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás,
-- k)
+- k) a nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű beruházás
 - l)
 
 üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén.
@@ -1417,9 +1424,42 @@ megvalósított beruházás,
 
 (19) A fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe.
 
-(20)
+(20) Az (1) bekezdés k) pontja szerinti beruházás esetén igénybe vehető fejlesztési adókedvezmény átmeneti fejlesztési adókedvezménynek minősül, amely a (6), (9), (15), (17), (19) bekezdésben, továbbá a (21)–(35) bekezdésben foglaltak alapján vehető igénybe.
 
-(21)
+(21) Az átmeneti fejlesztési adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás megkezdése előtt kérelmet nyújtson be az adópolitikáért felelős miniszterhez. A benyújtás késedelmes teljesítése esetén igazolási kérelem előterjesztésének nincs helye.
+
+(22) Az átmeneti fejlesztési adókedvezmény igénybevétele iránti kérelmet az adózó a Magyar Nemzeti Bank hivatalos, a kérelem benyújtását megelőző hónap utolsó napján érvényes devizaárfolyamának alapulvételével nyújtja be.
+
+(23) Amennyiben az (1) bekezdés k) pontja szerinti beruházáshoz igényelt összes állami támogatás folyó áron nem haladja meg Budapesten megvalósított beruházás esetén a 150 millió eurónak megfelelő forintösszeget, Budapesten kívüli településen megvalósított beruházás esetén a 350 millió eurónak megfelelő forintösszeget, akkor az adópolitikáért felelős miniszter a kérelem nyilvántartásba vételéről a külgazdasági ügyekért felelős miniszter, a környezetvédelemért felelős miniszter és az energiaügyekért felelős miniszter véleményét figyelembe véve dönt. Az adópolitikáért felelős miniszter a kérelem nyilvántartásba vételéről az adózót a nyilvántartásba vételt követő 30 napon belül tájékoztatja.
+
+(24) A (23) bekezdés szerinti eljárásban az átmeneti fejlesztési adókedvezmény iránti kérelmet az adópolitikáért felelős miniszter legkésőbb 2025. december 31. napján veszi nyilvántartásba.
+
+(25) Amennyiben az (1) bekezdés k) pontja szerinti beruházáshoz igényelt összes állami támogatás folyó áron meghaladja Budapesten megvalósított beruházás esetén a 150 millió eurónak megfelelő forintösszeget, Budapesten kívüli településen megvalósított beruházás esetén a 350 millió eurónak megfelelő forintösszeget, akkor az adózó az adókedvezményt az adópolitikáért felelős miniszter határozata alapján, a határozatban meghatározott feltételek szerint veheti igénybe.
+
+(26) A (25) bekezdés szerinti határozatot az adópolitikáért felelős miniszter az adózó kérelmére, a kérelemben bemutatott fejlesztési program és az Európai Bizottság engedélye alapján hozza meg, ha a fejlesztési program és a kérelem megfelel az e törvényben és a kormányrendeletben meghatározott valamennyi feltételnek.
+
+(27) A (25) bekezdés szerinti határozatot az adópolitikáért felelős miniszter az Európai Bizottság engedélye napját, amennyiben hiánypótlási felhívásra kerül sor, a hiánypótlás benyújtásának napját követő 90 napon belül hozza meg. A határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A határozat meghozatalára az e bekezdésben nem szabályozott kérdésekben a (2b) bekezdésben foglaltak alkalmazandóak.
+
+(28) A (25) bekezdés szerinti eljárásban az adópolitikáért felelős miniszter utoljára 2025. december 31. napján határoz.
+
+(29) Az adózó által igénybe vehető átmeneti fejlesztési adókedvezmény mértéke nem haladhatja meg az igényelt összes állami támogatással együttesen, jelenértéken a beruházás elszámolható költsége
+
+- a) Budapesten 15 százalékának,
+- b) Budapesten kívüli településen megvalósított beruházás esetén 35 százalékának
+
+megfelelő forintösszeget, azzal, hogy a beruházásra igénybe vehető összes állami támogatás mértéke nem haladhatja meg az elszámolható költségek 100 százalékát, figyelembe véve a részben vagy egészben ugyanazon elszámolható költségekhez kapcsolódó állami támogatásokra vonatkozó szabályokat.
+
+(30) A (7) bekezdés alkalmazásakor az átmeneti fejlesztési adókedvezményt folyó áron számított összegben kell figyelembe venni.
+
+(31) Átmeneti fejlesztési adókedvezmény kizárólag olyan beruházáshoz nyújtható, amely állami támogatás hiányában EGT-tagállamon kívül valósulna meg.
+
+(32) A (25) bekezdés szerinti esetben az átmeneti fejlesztési adókedvezmény igénybevételének feltétele, hogy az adózó az (1) bekezdés k) pontja szerinti beruházásával megvalósuló tevékenységéhez a környezeti kibocsátások szempontjából a legújabb, kereskedelmi forgalomban elérhető legkorszerűbb termelési technológiát használja.
+
+(33) Az adózó nem veheti igénybe az átmeneti fejlesztési adókedvezményt attól az adóévtől kezdődően, amelyben a jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket jogerős határozattal megállapított módon túllépi, továbbá az igénybe vett átmeneti fejlesztési adókedvezményt késedelmi pótlékkal növelten köteles visszafizetni.
+
+(34) Nem jogosult átmeneti fejlesztési adókedvezményre az adózó, ha nehéz helyzetben lévő társaságnak minősül.
+
+(35) Nem veheti igénybe az átmeneti fejlesztési adókedvezményt az Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából című, 2022/C 131 I/01 számú európai bizottsági közlemény és az azt módosító, vagy annak helyébe lépő európai bizottsági közleményben (a továbbiakban: Válságközlemény) felsorolt jogi aktusokban meghatározott szankciók, valamint a Válságközlemény elfogadását követően az Európai Unió szervei által Oroszország Ukrajna elleni agressziójára tekintettel bevezetett egyéb szankciók hatálya alá tartozó személy, így különösen nem részesülhet támogatásban a szankciókat bevezető jogi aktusokban kifejezetten megnevezett személy, valamint az ilyen személy meghatározó befolyása alatt levő személy. Továbbá nem vehet igénybe átmeneti fejlesztési adókedvezményt az adózó az előbbi szankciókkal érintett ágazatokban folytatott tevékenységéhez, ha az átmeneti fejlesztési adókedvezmény veszélyeztetné a szankciók célkitűzéseit.
 
 ### Látvány-csapatsportok támogatásának adókedvezménye
 
@@ -1961,7 +2001,7 @@ akkor a növekedési adóhitel összegének vonatkozásában adóbevallási és 
 
 (5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 29/A. § (3)–(4) bekezdését a MÁV Magyar Államvasutak Zrt. és a MÁV-START Zrt. a 2014. évi adókötelezettségének megállapítása során is alkalmazhatja.
 
-(6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteséget az adózó a 2014. december 31-én hatályos előírások szerint írhatja le azzal, hogy az elhatárolt veszteséget legkésőbb 2030. december 31. napját magában foglaló adóévben lehet az adózás előtti eredmény csökkentéseként érvényesíteni.
+(6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteséget az adózó a 2014. december 31-én hatályos előírások szerint írhatja le.
 
 (7) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 18. § (9) bekezdését első alkalommal a 2015. évben kezdődő adóévi adókötelezettség megállapítása során kell alkalmazni.
 
@@ -2130,7 +2170,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (82) A (81) bekezdéstől eltérően az adózó a 2019. adóéve utolsó hónapja 20. napjáig az állami adó- és vámhatóság felé benyújtott nyilatkozatban tett választása szerint a 2019. adóévi társasági adóelőleg-kiegészítési kötelezettségre, továbbá ehhez kapcsolódva a 22. § (1)–(12) bekezdése szerinti támogatásra, a 22/C. § szerinti támogatásra, illetve a 24/A. § szerinti adóról való rendelkezésre a (81) bekezdésben említett rendelkezéseknek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseit alkalmazza, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint a (81) bekezdésben említett rendelkezések hatálybalépésének vagy hatályon kívül helyezésének napja. Az e bekezdés szerinti választás a 2019. adóév utolsó hónapjának 20. napját követően nem módosítható és nem vonható vissza. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(83) A 2019. július 1. és 2023. december 31. közötti, a reklámadóról szóló törvény 11. §-a szerint meghatározott reklámadó-kötelezettséggel összefüggő költségre nem kell alkalmazni a 3. számú melléklet A) rész 16. pontját.
+(83)
 
 (84) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (5e) bekezdését és 18/D. § (10) bekezdését az adózó a rendelkezés hatálybalépésének napját magában foglaló adóévére vonatkozóan választása szerint alkalmazhatja.
 
@@ -2182,7 +2222,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (108) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 7. § (1) bekezdés l) pontját és (31) bekezdését első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában kell alkalmazni, figyelemmel a (112) bekezdésben foglaltakra.
 
-(109) Az e törvény hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban igénybe vehető csekély összegű (de minimis) támogatás az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: Válságközlemény) 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban is igénybe vehető, figyelemmel a (110)–(113) bekezdésekre, valamint a 4. számú mellékletre.
+(109) Az e törvény hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban igénybe vehető csekély összegű (de minimis) támogatás az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint a Válságközlemény 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban is igénybe vehető, figyelemmel a (110)–(113) bekezdésekre, valamint a 4. számú mellékletre.
 
 (110) A (109) bekezdés szerinti választás első alkalommal a 2022-ben kezdődő adóévről a (109) bekezdés hatálybalépését követően benyújtott adóbevallás vonatkozásában alkalmazható.
 
@@ -2193,6 +2233,10 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (113) A (109) bekezdés szerinti adózói választás és nyilatkozat utoljára a Válságközlemény alkalmazhatóságának határidejéig benyújtott adóbevallásban tehető meg.
 
 (114) A 29/A. § (6) bekezdése hatálya alá tartozó, a 7. § (1) bekezdés ny) pontja szerinti csökkentő tételt, illetve a 8. § (1) bekezdés j) pontja szerinti növelő tételt alkalmazó adózó a 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteségét legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalapnak a 7. § (1) bekezdés ny) pontja szerinti csökkentő tétellel növelt és a 8. § (1) bekezdés j) pontja szerinti növelő tétellel csökkentett összegének 50 százalékáig számolhatja el az adózás előtti eredmény csökkentéseként. E rendelkezés az adózó választása szerint első alkalommal a 2021. december 31-ét követően kezdődő adóévre alkalmazható.
+
+(115) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 25a. pontját, 22/B. § (1) bekezdés k) pontját és (20)–(35) bekezdését a támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően, és ezen bizottsági határozatban foglalt feltételeknek megfelelően kell alkalmazni, figyelemmel a (116) bekezdésben foglaltakra.
+
+(116) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 25a. pontját, 22/B. § (1) bekezdés k) pontját és (20)–(35) bekezdését az adózó választása szerint alkalmazhatja a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény vonatkozó rendelkezéseinek hatálybalépését megelőzően a 22/B. § (3) bekezdése alapján benyújtott bejelentésre, kérelemre, azzal a feltétellel, hogy a beruházás vonatkozásában a 22/B. § (21) bekezdése szerinti kérelmet az adópolitikáért felelős miniszterhez benyújtja és az igényelt átmeneti fejlesztési adókedvezmény összege nem haladja meg a 22/B. § (3) bekezdése alapján eredetileg igényelt fejlesztési adókedvezmény összegét.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
@@ -2524,7 +2568,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 ### Jogharmonizációs záradék
 
-30/A. § E törvény 4. § 23/d. pontja, 7. § (12) bekezdés b) pontja, 22/A. § (4) bekezdés b) pontja, 22/B. §-a, 1. számú melléklet 14. pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikke, és a cikkeket módosító, a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet módosításáról szóló, 2021. július 23-i (EU) 2021/1237 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+30/A. § E törvény 4. § 23/d. pontja, 7. § (12) bekezdés b) pontja, 22/A. § (4) bekezdés b) pontja, 22/B. § (1) bekezdés a)–j) pontja, (1a)–(19) bekezdése, 1. számú melléklet 14. pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikke, és a cikkeket módosító, a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet módosításáról szóló, 2021. július 23-i (EU) 2021/1237 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
 30/B. § (1) E törvény 29/A. § (3) és (4) bekezdése
 
@@ -2559,6 +2603,8 @@ hatálya alá tartozó támogatást tartalmaz.
 az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 55. cikkével összhangban sportlétesítményhez nyújtott működési támogatásként nyújtható.
 
 30/J. § A 3. számú melléklet B) rész 9. pontjának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+30/K. § A 4. § 25a. pontja, a 22/B. § (1) bekezdés k) pontja és (20)–(35) bekezdése szerint igénybe vett támogatás a Válságközlemény 2.8. szakaszának szabályaival és a támogatási programot jóváhagyó határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatásnak minősül.
 
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 
@@ -2784,13 +2830,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 15. a kutatás-fejlesztési tevékenység közvetlen költsége, ha az adózó vállalkozási, bevételszerző tevékenységéhez nem kapcsolódik.
 
-16. a reklámadóról szóló törvény (a továbbiakban e pont alkalmazásában: Rtv.) szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha annak összege az adóévben összesen a 30 millió forintot meghaladja és
-
-a) az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy nincs reklámadó-fizetési kötelezettsége és
-
-b) az adóalany nem igazolja, hogy az a) pont szerint nyilatkozat kiadását a reklámadó alanyától ő vagy a reklám közzétételnek az Rtv. 3. § (2) bekezdés szerinti megrendelője kérte és
-
-c) a reklámadó alanya a reklám-közzététel megrendelésének időpontjában nem szerepelt az állami adóhatóság honlapján az Rtv. 7/A. § szerint közzétett nyilvántartásban.
+16.
 
 17.
 
@@ -2830,7 +2870,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 16. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás;
 
-17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyházi jogi személy, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt.
+17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyházi jogi személy, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt, azzal, hogy a Nemzeti Összefogás Számlaszáma javára adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás tekintetében az adózónak nem kell az adóalap megállapítása céljából kiállított – a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt tartalmazó – igazolással rendelkeznie.
 
 18. az adóévben az adózó által átvállalt kamarai tagsághoz kapcsolódó tagdíj összege, feltéve, hogy az kötelező kamarai tagsághoz kapcsolódódik;
 
@@ -2856,7 +2896,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 - 1. E törvény 29/A. § (109)–(113) bekezdése szerint a Válságközlemény 2.1. szakaszának szabályaival, és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatás állami támogatásnak minősül.
 - 2. Az 1. pont szerinti támogatást az adózó akkor veheti igénybe, amennyiben működését a háború gazdasági hatásai hátrányosan érintik és erről adóbevallásában nyilatkozatot tesz.
-- 3. Nem veheti igénybe az 1. pont szerinti támogatást a Válságközlemény 9–14. pontjában felsorolt jogi aktusokban meghatározott szankciók, valamint a Válságközlemény elfogadását követően az Európai Unió szervei által Oroszország Ukrajna elleni agressziójára tekintettel bevezetett egyéb szankciók hatálya alá tartozó személy, így különösen nem részesülhet támogatásban a szankciókat bevezető jogi aktusokban kifejezetten megnevezett személy, valamint az ilyen személy meghatározó befolyása alatt levő személy.
+- 3. Nem veheti igénybe az 1. pont szerinti támogatást a Válságközlemény 1.1. szakaszában felsorolt jogi aktusokban meghatározott szankciók, valamint a Válságközlemény elfogadását követően az Európai Unió szervei által Oroszország Ukrajna elleni agressziójára tekintettel bevezetett egyéb szankciók hatálya alá tartozó személy, így különösen nem részesülhet támogatásban a szankciókat bevezető jogi aktusokban kifejezetten megnevezett személy, valamint az ilyen személy meghatározó befolyása alatt levő személy.
 - 4. Nem vehet igénybe az 1. pont szerinti támogatást az adózó a 3. pont szerinti szankciókkal érintett ágazatokban folytatott tevékenységéhez, ha az 1. pont szerinti támogatás veszélyeztetné a szankciók célkitűzéseit.
 - 5. Az 1. pont szerinti támogatás támogatástartalma a Válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt adózónként – az adózó kapcsolt vállalkozásainak adatait is figyelembe véve – nem haladhatja meg a Válságközlemény szerinti, euróban meghatározott keretnek megfelelő forintösszeget.
 - 6. Azonos vagy részben azonos elszámolható költségek esetén az 1. pont szerinti támogatás abban az esetben halmozható más állami támogatással, ha az nem vezet sem az Atr. 2. § 2a. pontja szerinti csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás, sem az azokban meghatározott legmagasabb támogatási összeg túllépéséhez.

@@ -44,7 +44,9 @@ Az adóigazgatási eljárásban az adózókkal való kapcsolattartás nyelvezet�
 
 #### 9. § [Az adóigazgatási eljárás]
 
-Az adóigazgatási eljárásban az adóhatóság megállapítja az adózó jogait, kötelezettségeit, ellenőrzi az adókötelezettségek teljesítését, a joggyakorlás törvényességét, nyilvántartást vezet az adózást érintő tényekről, adatokról, körülményekről, és adatot igazol, illetve az ezeket érintő döntését érvényesíti.
+(1) Adóigazgatási eljárás mindazon eljárás, amelyben az adóhatóság megállapítja az adózó jogait, kötelezettségeit, ellenőrzi az adókötelezettségek teljesítését, a joggyakorlás törvényességét, nyilvántartást vezet az adózást érintő tényekről, adatokról, körülményekről, és adatot igazol, valamint az ezeket érintő döntését érvényesíti.
+
+(2) Adóigazgatási eljárás az adókötelezettség teljesítésére szolgáló technikai eszköz állami adó- és vámhatóság által végzett tanúsítási és engedélyezési eljárása.
 
 #### 10. § [Az adópolitikáért felelős miniszter és az állami adó- és vámhatóságot irányító miniszter eljárása]
 
@@ -104,19 +106,20 @@ az eljáró adóhatóság gondoskodik ügygondnok kirendeléséről.
 
 #### 15. § [Meghatalmazás]
 
-(1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (2) bekezdés szerinti felületen adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
+(1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (3) bekezdés b) vagy c) pontja szerint adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
 
 (2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet, továbbá az erre a célra rendszeresített elektronikus űrlapon fogadja az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottra vonatkozó bejelentést.
 
 (3) Meghatalmazást elektronikusan
 
 - a) az önkormányzati adóhatóság hatáskörébe tartozó ügyben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézést biztosító információs rendszeren keresztül,
-- b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen, vagy
-- c) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
+- b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen,
+- c) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a meghatalmazó által benyújtott, az állandó meghatalmazások bejelentésére rendszeresített elektronikus űrlapon, ha az állandó meghatalmazott nem kamarai jogtanácsos, ügyvéd, ügyvédi iroda vagy európai közösségi jogász, vagy
+- d) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
 
 lehet tenni.
 
-(4) Az állami adó- és vámhatóság által működtetett elektronikus felületen tett képviseletre vonatkozó jognyilatkozat megfelel az (1) bekezdésben meghatározott alaki követelményeknek.
+(4) Az állami adó- és vámhatóság által működtetett elektronikus felületen, továbbá a meghatalmazó által benyújtott, az állandó meghatalmazások bejelentésére rendszeresített elektronikus űrlapon tett képviseletre vonatkozó jognyilatkozat megfelel az (1) bekezdésben meghatározott alaki követelményeknek.
 
 (5) Ha a meghatalmazásból más nem tűnik ki, az kiterjed az eljárással kapcsolatos valamennyi nyilatkozatra és cselekményre.
 
@@ -836,8 +839,9 @@ Az adóhatóság az adóügy érdemében határozattal, az eljárás során eld�
 
 - a) az eljáró adóhatóság, az adózó és az ügy azonosításához szükséges minden adatot,
 - b) a rendelkező részt az adóhatóság döntésével, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel,
-- c) a megállapított tényállásra és az annak alapjául elfogadott bizonyítékokra, az adózó által felajánlott és mellőzött bizonyítékokra, a mérlegelés és a döntés indokaira, az ügyintézési határidő leteltének napjára, továbbá a döntést megalapozó, valamint a hatóság hatáskörét és illetékességét megállapító jogszabályhelyek megjelölésére is kiterjedő indokolást, valamint
-- d) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, hivatali beosztását, valamint a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával.
+- c) a megállapított tényállásra és az annak alapjául elfogadott bizonyítékokra, az adózó által felajánlott és mellőzött bizonyítékokra, a mérlegelés és a döntés indokaira, az ügyintézési határidő leteltének napjára, továbbá a döntést megalapozó, valamint a hatóság hatáskörét és illetékességét megállapító jogszabályhelyek megjelölésére is kiterjedő indokolást,
+- d) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, hivatali beosztását, valamint a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával, valamint
+- e) a d) ponttól eltérően a döntéshozatal helyét és idejét, valamint a „Nemzeti Adó- és Vámhivatal” megjelölést, ha az eljáró adóhatóság jogszabályban meghatározott automatikus döntéshozatalt és szervezeti aláírást alkalmaz.
 
 (2) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható, ha az adóhatóság a kérelemnek teljes egészében helyt ad.
 
@@ -1030,7 +1034,7 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
   - aa) a kockázatos adózónál, ha végelszámolását rendelték el,
   - ab) az Állami Számvevőszék elnökének megkeresése alapján,
   - ac) az állami adó- és vámhatóságot irányító miniszter utasítása alapján,
-  - ad) annál a gazdasági társaságnál, amelynek két egymást követő üzleti évben elért nettó árbevétele mindkét üzleti évben külön-külön eléri a 60 milliárd forintot és az adózott eredménye mindkét üzleti évben nulla vagy negatív,
+  - ad)
 - b) az önkormányzati adóhatóság hatáskörébe tartozó adóellenőrzés esetén
   - ba) az önkormányzat képviselő-testületének, a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testületének határozata alapján,
   - bb) az Állami Számvevőszék elnökének megkeresése alapján
@@ -1100,7 +1104,7 @@ valósítja meg.
 
 Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költségvetési támogatás ismételt vizsgálatára kerülhet sor
 
-- a) ha az elsőfokú adóhatóság a korábbi ellenőrzés megállapításának végrehajtását vizsgálja (utóellenőrzés),
+- a)
 - b) az adózó kérelmére, ha az adózó által feltárt új tény, körülmény tisztázása a korábbi ellenőrzés megállapításainak megváltoztatását eredményezné, feltéve, hogy az új tény, körülmény korábban nem állt és jóhiszemű eljárás esetén nem állhatott az adózó rendelkezésére, illetve arról az adózó nem tudott és jóhiszemű eljárás esetén nem is tudhatott,
 - c) ha az adóhatóság rendelkezésére álló adatok alapján az ismételt ellenőrzés eredménye ellátási jogosultságot teremt, vagy
 - d) felülellenőrzés keretében.
@@ -1605,6 +1609,7 @@ Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 - e) az adóigazgatási eljárásban kirendelt ügygondok tevékenységének részletes szabályait,
 - f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait,
 - g) az ügyintézési határidőre és az adóhatóság előtti képviseletre vonatkozó részletes szabályokat.
+- h) az automatikus döntéshozatallal kapcsolatos részletes szabályokat.
 
 #### 55. Hatálybalépés
 
@@ -1655,6 +1660,10 @@ A Magyarország 2023. évi központi költségvetésének megalapozásáról sz�
 #### 139/E. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2022. évi XLV. törvényhez]
 
 E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvény (a továbbiakban: Módtv.4.) által megállapított 53. § (7) bekezdését a Módtv.4. hatálybalépését követően benyújtott igazolási kérelmekre kell alkalmazni.
+
+#### 139/F. § [Átmeneti rendelkezés a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvényhez]
+
+E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény által megállapított 20. § (2) bekezdésében foglalt jegyzett tőkére vonatkozó feltételeknek a rendelkezés hatálybalépésekor az állami adó- és vámhatóság által már nyilvántartásba vett pénzügyi képviselőknek 2025. január 1-jével kell megfelelnie.
 
 #### 57. Az Európai Unió jogának való megfelelés
 
