@@ -181,7 +181,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 (2) A tanú a vallomását tartalmazó iratba, a szemletárgy birtokosa a szemléről készített iratba tekinthet be.
 
-(3) Harmadik személy akkor tekinthet be a személyes adatot vagy védett adatot tartalmazó iratba, ha igazolja, hogy az adat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges, valamint ha a védett adat megismerésének törvényi feltételei fennállnak. Az iratbetekintési jog – a személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratról való másolat készítéséért – az adópolitikáért felelős miniszter (a továbbiakban: miniszter) által rendeletben meghatározott költségtérítés ellenében gyakorolható.
+(3) Harmadik személy akkor tekinthet be a személyes adatot vagy védett adatot tartalmazó iratba, ha igazolja, hogy az adat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges, valamint ha a védett adat megismerésének törvényi feltételei fennállnak.
 
 (4) Nem lehet betekinteni
 
@@ -1398,7 +1398,7 @@ a vámhatóság a bírság kiszabását mellőzi és figyelmezteti az érintett 
 
 (2) Az (1) bekezdés nem alkalmazható a 84. § (12) bekezdése szerinti jogsértés esetén.
 
-(3) A (4) bekezdésben foglaltak kivételével nem lehet vámigazgatási bírságot megállapítani árunyilatkozat-adással, árunyilatkozat adatainak helytállóságával összefüggésben, ha a nyilatkozattevő a Vámkódex 173. cikk (3) bekezdése szerint a közölt vámokat és egyéb terheket is érintő információ alapján kérelmezi a vám-árunyilatkozat módosítását.
+(3) A (4) bekezdésben foglaltak kivételével nem lehet vámigazgatási bírságot megállapítani árunyilatkozat-adással, árunyilatkozat adatainak helytállóságával összefüggésben, ha a nyilatkozattevő a Vámkódex 173. cikk (3) bekezdése szerint a közölt vámokat és egyéb terheket is érintő információ alapján kérelmezi a vám-árunyilatkozat módosítását, vagy a 174. cikk szerint kérelmezi a vám-árunyilatkozat érvénytelenítését a kiviteli vámeljárásokra vonatkozóan.
 
 (4) Ha a nyilatkozattevő a Vámkódex 173. cikk (3) bekezdése szerint a közölt vámokat és egyéb terheket is érintő információ alapján a vámhatóság erre irányuló áruátengedést követő ellenőrzésének megkezdését követően, de még az áruátengedést követő ellenőrzés megállapításait tartalmazó jegyzőkönyv közlése előtt kérelmezi a vám-árunyilatkozat módosítását az ellenőrzés tárgykörét érintően, vámigazgatási bírságként – az (1) bekezdésben és a 86. §-ban meghatározott kivétellel – a 84. § (8), (10) és (13) bekezdése szerint megállapítható bírságösszeg 50%-át kell kiszabni. A jogsértéssel érintett vám-árunyilatkozat ellenőrzés tárgykörét érintő módosítását az ellenőrzést lefolytató vámszervnek az ellenőrzés során kell elvégeznie.
 
@@ -1761,7 +1761,7 @@ Eltérő rendelkezés hiányában az ellenőrzött személy jogosult
 - g) az ellenőrzést lefolytató vámszerv megállapításait, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével és annak bizonyítékait, az ellenőrzött személy által felajánlott és visszautasított bizonyítékok felsorolását és a visszautasítás indokolását,
 - h) a tapasztalt hiányosságok megszüntetésére vonatkozó esetleges javaslatokat,
 - i) ha a jegyzőkönyvben foglalt tényállás alapján hátrányos döntés meghozatalára kerül sor, akkor a Vámkódex 22. cikk (6) bekezdés alapján biztosított meghallgatáshoz való jogról és annak határidejéről szóló tájékoztatást,
-- j) az ellenőrzést végző személy nevét és aláírását, az ellenőrzést lefolytató vámszerv bélyegzőlenyomatát és a keltezést.
+- j) az ellenőrzést végző személy nevét és aláírását, az ellenőrzést lefolytató vámszerv bélyegzőlenyomatát és a keltezést. Elektronikus hitelesítés esetén az ellenőrzést végző személy nevét és az elektronikus hitelesítésre szolgáló bélyegzőt.
 
 (3) Az ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött személlyel, illetve azzal a személlyel kell közölni, akivel szemben az alapján a hátrányos döntés meghozatala várható.
 
@@ -2709,28 +2709,28 @@ A 2011. évi XXXVII. törvénnyel kihirdetett, a Nemzetközi Vasúti Árufuvaroz
 
 #### 193. § [EMGA finanszírozás rendszerébe tartozó fogalommeghatározások]
 
-(1) Az 1306/2013/EU európai parlamenti és tanácsi rendelet V. cím III. fejezetét az e Részben foglaltak alapján kell végrehajtani.
+(1) Az (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV. cím III. fejezetét az e Részben foglaltak alapján kell végrehajtani.
 
 (2) A Harmadik Rész alkalmazásában
 
 - a) EMGA utólagos ellenőrzést végző szerv: a hatóságnak a vonatkozó jogszabály által kijelölt szervezeti egysége,
 - b) hatóság: a NAV feladat- és hatáskörrel rendelkező szerve,
-- c) Különleges Szolgálat: az 1306/2013/EU európai parlamenti és tanácsi rendelet 85. cikk (1) bekezdése szerinti szervezeti egység,
+- c) Különleges Szolgálat: az (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV. cím III. fejezetében foglalt feladatok végrehajtásáért felelős szervezeti egység,
 - d) ügyfél: akit a Harmadik Rész alapján jogok illetnek meg, illetve kötelezettségek terhelnek, illetve ügyfélnek kell tekinteni e feladata ellátása során a vagyonfelügyelőt, a felszámolót és a végelszámolót is.
 
 #### 74. A Harmadik Rész hatálya
 
 #### 194. § [A Harmadik Rész hatálya]
 
-E Rész személyi hatálya a hatóságra és az 1306/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó személyekre terjed ki, ideértve a Ptk.-ban meghatározott valamennyi szervezeti formát is.
+E Rész személyi hatálya a hatóságra és az (EU) 2021/2116 európai parlamenti és tanácsi rendelet hatálya alá tartozó személyekre terjed ki, ideértve a Ptk.-ban meghatározott valamennyi szervezeti formát is.
 
-### XXXII. Fejezet — A 1306/2013/EU EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET V. CÍM III. FEJEZETÉNEK VÉGREHAJTÁSA
+### XXXII. Fejezet — A (EU) 2021/2116 EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET IV. CÍM III. FEJEZETÉNEK VÉGREHAJTÁSA
 
-#### 75. A 1306/2013/EU európai parlamenti és tanácsi rendelet 80. és 81. cikkéhez
+#### 75. A (EU) 2021/2116 európai parlamenti és tanácsi rendelet 77. és 78. cikkéhez
 
-#### 195. § [Az 1306/2013/EU európai parlamenti és tanácsi rendelet 80. és 81. cikkének végrehajtása]
+#### 195. § [Az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 77. és 78. cikkének végrehajtása]
 
-(1) A hatóság az 1306/2013/EU európai parlamenti és tanácsi rendelet V. cím III. fejezete szerint ellenőrzi az Európai Mezőgazdasági Garanciaalap (a továbbiakban: EMGA) finanszírozási rendszeréhez közvetve vagy közvetlenül kapcsolódó kifizetések jogosultjait, illetve kötelezettjeit vagy képviselőiket (a továbbiakban: EMGA utólagos ellenőrzés). Az EMGA utólagos ellenőrzés célja annak megállapítása, hogy az EMGA finanszírozási rendszerébe tartozó ügyletek ténylegesen megvalósultak-e, illetve azok végrehajtása szabályszerű volt-e.
+(1) A hatóság az (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV. cím III. fejezete szerint ellenőrzi az Európai Mezőgazdasági Garanciaalap (a továbbiakban: EMGA) finanszírozási rendszeréhez közvetve vagy közvetlenül kapcsolódó kifizetések jogosultjait, illetve kötelezettjeit vagy képviselőiket (a továbbiakban: EMGA utólagos ellenőrzés). Az EMGA utólagos ellenőrzés célja annak megállapítása, hogy az EMGA finanszírozási rendszerébe tartozó ügyletek ténylegesen megvalósultak-e, illetve azok végrehajtása szabályszerű volt-e.
 
 (2) Az EMGA ellenőrzések végrehajtása tekintetében e törvény hivatalból indult eljárásra vonatkozó rendelkezéseit a Harmadik Részben foglalt eltérésekkel kell alkalmazni.
 
@@ -2914,15 +2914,15 @@ E Rész személyi hatálya a hatóságra és az 1306/2013/EU európai parlamenti
 
 (7) Az EMGA utólagos ellenőrzés során az ellenőrzött ügyfél köteles a hatóság kérésére a szolgáltatott adatok és a rendelkezésre bocsátott dokumentációk teljességéről nyilatkozatot tenni.
 
-#### 84. Az 1306/2013/EU európai parlamenti és tanácsi rendelet 83. cikkéhez
+#### 84. Az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 79. cikkéhez
 
-#### 205. § [Az 1306/2013/EU európai parlamenti és tanácsi rendelet 83. cikkének végrehajtása]
+#### 205. § [Az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 79. cikkének végrehajtása]
 
 (1) Ha a hatóság a tényállás tisztázása érdekében külföldi hatóságot keres meg, az ellenőrzési határidőt az EMGA utólagos ellenőrzést végző szerv vezetője egyszer, legfeljebb 180 napig terjedő időtartammal meghosszabbíthatja.
 
 (2) A megkereséssel érintett tárgykörben a hatóság az ügyfelet a külföldi hatóság megkereséséről és a külföldi hatóság válaszának az EMGA utólagos ellenőrzést végző szervhez történő megérkezéséről 5 napon belül értesíti.
 
-(3) Ha a külföldi hatóság az ellenőrzési határidőn belül nem válaszol, az EMGA utólagos ellenőrzést le kell zárni a megkereséssel érintett tárgykörben is, és a megkereséssel érintett tárgykörben a külföldi hatóságnak az EMGA utólagos ellenőrzés befejezését követően megérkező válasza esetén, szükség szerint ismételt ellenőrzés végezhető.
+(3) Ha a külföldi hatóság 180 napon belül nem válaszol, az EMGA utólagos ellenőrzést le kell zárni a megkereséssel érintett tárgykörben is, és a megkereséssel érintett tárgykörben a külföldi hatóságnak az EMGA utólagos ellenőrzés befejezését követően megérkező válasza esetén, szükség szerint ismételt ellenőrzés végezhető.
 
 #### 85. Bírság
 
@@ -3199,6 +3199,8 @@ rendeletben állapítsa meg.
 
 (16) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 2. § 6. pontját a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
 
+(17) E törvények a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 85. § (3) bekezdését a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
 ### XXXVIII. Fejezet
 
 #### 91. Az Európai Unió jogának való megfelelés
@@ -3212,7 +3214,7 @@ rendeletben állapítsa meg.
 - 3. a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i (EU) 2015/2446 felhatalmazáson alapuló bizottsági rendeletnek,
 - 4. az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i (EU) 2015/2447 bizottsági végrehajtási rendeletnek,
 - 5. a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó, a szükséges elektronikus rendszerek működésbe lépéséig alkalmazandó átmeneti szabályok tekintetében történő kiegészítéséről, valamint a 2015/2446/EU felhatalmazáson alapuló rendelet módosításáról szóló, 2015. december 17-i (EU) 2016/341 felhatalmazáson alapuló bizottsági rendeletnek,
-- 6. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 78/352/EGK, a 94/165/EK, a 98/2799/EK, a 2000/814/EK, az 2005/1290/EK és a 2008/485/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 2013/1306/EU európai parlamenti és tanácsi rendelet V. cím III. fejezetének,
+- 6. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról , valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV.cím III. fejezetének,
 - 7. az Uniós Vámkódex értelmében történő információcserét és információtárolást szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló 2017. november 14-i (EU) 2017/2089 bizottsági végrehajtási rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.

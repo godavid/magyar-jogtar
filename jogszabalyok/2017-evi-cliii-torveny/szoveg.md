@@ -12,7 +12,7 @@ az adóhatóság által foganatosítandó végrehajtási eljárásokról
 
 (3) E törvény rendelkezéseit kell alkalmazni azon köztartozások, igazgatási és bírósági szolgáltatási díjak és egyéb tartozások végrehajtása során, amelyekre törvény az adók módjára való behajtást rendeli el (a továbbiakban: adók módjára behajtandó köztartozás).
 
-(4) E törvény rendelkezéseit kell alkalmazni az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozaton, bíróság által jogerősen jóváhagyott egyezségen, továbbá a bírósági eljárási illetéket megállapító bírósági határozaton alapuló kötelezettségek, valamint azon egyéb kötelezettségek végrehajtása során is, amelyek tekintetében az állami adó- és vámhatósághoz érkezett megkeresések e törvény alapján végrehajtható okiratnak minősülnek.
+(4) E törvény rendelkezéseit kell alkalmazni az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozaton, bíróság által jogerősen jóváhagyott egyezségen, továbbá a bírósági eljárási illetéket megállapító bírósági határozaton, illetve a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott biztosíték nyújtásra kötelező jogerős végzésen alapuló kötelezettségek, valamint azon egyéb kötelezettségek végrehajtása során is, amelyek tekintetében az állami adó- és vámhatósághoz érkezett okiratok e törvény alapján végrehajtható okiratnak minősülnek.
 
 #### 2. Az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szabályainak alkalmazása
 
@@ -327,6 +327,7 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 - 22. a termékdíjátalány fizetésére jogosult mezőgazdasági termelő termékdíj kötelezettségét tartalmazó bejelentés, és
 - 23. a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
 - 24. a kisadózó vállalkozók tételes adójáról szóló törvény 7. § (11) bekezdés szerinti bejelentés.
+- 25. a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott, biztosíték nyújtásra kötelező jogerős végzés.
 
 (2) Az okirat végrehajthatóságához külön intézkedésre nincs szükség.
 
@@ -1173,6 +1174,8 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (8) Az állami adó- és vámhatóság az elvégzendő cselekmény pontos meghatározása, valamint közreműködő szervezet kirendelése, illetve a szükséges műszaki tervdokumentáció elkészítése érdekében szakértőt vehet igénybe, ha a (7) bekezdésben foglalt eljárás nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre. A szakértő költségét a behajtást kérő hatóság előlegezi.
 
+(9) Ha a döntés ingatlant érintő meghatározott cselekmény végrehajtására irányul, az állami adó- és vámhatóság az ingatlan tulajdonosának kezdeményezésére a végrehajtási eljárást felfüggeszti, amennyiben az ingatlan tulajdonosa vállalja, hogy a behajtást kérő hatóság döntésében foglaltakat soron kívül önként teljesíti. A felfüggesztés az ingatlan tulajdonosának kérelmére egy ízben, legfeljebb 6 hónapra rendelhető el.
+
 123. § (1) Ha a 122. § (6) bekezdése szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság jogszabályban kijelölt központi beszerző szerv bevonásával jár el, vagy a közbeszerzésekről szóló törvény szabályai alapján választja ki az eljárásban közreműködő szervezetet.
 
 (2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezeteket – az elvégzendő feladatot tartalmazó műszaki leírás megküldése mellett – elektronikusan értesíti a feladatról, és ajánlattételre hívja fel azokat.
@@ -1376,6 +1379,12 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 (6) Az állami adó- és vámhatóság az 5 ezer forintot el nem érő késedelmi pótlékot nem írja elő.
 
+#### 57/D. A 29. § (1) bekezdés 25. pontja szerinti pénzkövetelés végrehajtásának szabályai
+
+125/I. § (1) A 29. § (1) bekezdés 25. pontja szerinti pénzkövetelés végrehajtását az állami adó- és vámhatóság az 57/C. alcím rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja azzal, hogy e kötelezettségek végrehajtása során 125/H. § (2)–(6) bekezdés alkalmazásának nincs helye.
+
+(2) Az állami adó- és vámhatóság a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti biztosíték nyújtásra kötelező jogerős végzés végrehajtása során behajtott összeget átutalja a biztosíték tárgyában végzést hozó bíróság gazdasági hivatalának letéti számlájára. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az állami adó- és vámhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át.
+
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 58. Felhatalmazó rendelkezések
@@ -1445,6 +1454,8 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 (3) Az állami adó- és vámhatóság az 54. alcím szabályai szerint hajtja végre a 2021. január 1-jét megelőző időszak vonatkozásában, gépjárműadóval összefüggésben keletkezett tartozásokat.
 
 131/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 69/A. §-át, a 122. § (1) bekezdését és a 125/B. § (2) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+131/H. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel (a továbbiakban: Módtv.6.) megállapított 1. § (4) bekezdését, a 29. § (1) bekezdés 25. pontját és 125/I. §-át azok hatálybalépésekor a folyamatban lévő, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A. §-a szerinti perekben is alkalmazni kell.
 
 #### 61. A törvény hivatalos rövid megjelölése
 

@@ -522,7 +522,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
   - o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
   - p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
 - 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
-- 14. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
+- 14. saját jogú nyugdíjas: a Tbj. szerint saját jogú nyugdíjasnak minősülő természetes személy;
 - 15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK

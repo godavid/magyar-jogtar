@@ -78,12 +78,14 @@ kiadása érdekében.
 
 ### Az egyszerűsített foglalkoztatáshoz kapcsolódó közteherfizetés
 
-7. § (1) Az egyszerűsített foglalkoztatás keretében alkalmazott személy utáni személyi jövedelemadó- és járulékfizetési kötelezettségekre – a (2) bekezdésben meghatározott kivételekkel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja.tv.), illetve a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) rendelkezéseit kell alkalmazni.
+7. § (1) Az egyszerűsített foglalkoztatás keretében alkalmazott személy utáni személyi jövedelemadó-, szociális hozzájárulási adó- és járulékfizetési kötelezettségekre – a (2) bekezdésben meghatározott kivételekkel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.), a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) rendelkezéseit kell alkalmazni.
 
-(2) A személyi jövedelemadó- és járulékfizetési kötelezettségekre az egyszerűsített foglalkoztatás esetén
+(2) A személyi jövedelemadó-, szociális hozzájárulási adó- és járulékfizetési kötelezettségekre az egyszerűsített foglalkoztatás esetén
 
-- a) a 2. § 1. és 2. pontjában meghatározott mezőgazdasági és turisztikai idénymunka esetén,
-- b) a 2. § 3. pontjában meghatározott alkalmi munka eseteiben az Szja.tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt eltérésekkel kell alkalmazni.
+- a) a mezőgazdasági és turisztikai idénymunka esetén,
+- b) az alkalmi munka eseteiben
+
+az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt eltérésekkel kell alkalmazni.
 
 8. § (1) A munkáltató a 7. § (2) bekezdésében meghatározott egyszerűsített foglalkoztatásra irányuló munkaviszony alapján a (2) bekezdésben meghatározott közterhet fizet.
 

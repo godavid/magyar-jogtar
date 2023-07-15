@@ -752,7 +752,7 @@ Isten engem úgy segéljen!”
 - c) a tisztviselő munkavégzési helyének kizárólag a település területén belüli megváltoztatásához, továbbá a pénzügyőr munkavégzési helyének az adott NAV szerven belüli módosításához,
 - d) azonos besorolású más munkakörbe helyezéséhez, kivéve, ha a pénzügyőri munkakört betöltő pénzügyőr tisztviselői munkakörbe, illetve a tisztviselői munkakört betöltő foglalkoztatott pénzügyőri munkakörbe kerül áthelyezésre,
 - e) az érintett alacsonyabb besorolású munkakörbe helyezéséhez, ha az érintett teljesítménye – az általa betöltött munkakör alapján – átlag alatti fokozatú, azzal, hogy az érintettet a szervezeti egység és a munkavégzési hely megváltoztatása nélkül kell alacsonyabb besorolású munkakörben tovább foglalkoztatni, és ha ilyen munkakör a szervezeti egység, illetve a munkavégzési hely megváltoztatása nélkül nem biztosítható, a szervezeti egység, illetve a (6) bekezdésben foglalt korlátozás figyelembevételével a munkavégzési hely is megváltoztatható, a tisztviselő esetében kizárólag a település területén belül,
-- f) a kinevezés módosításához a NAV-on belüli átszervezés, illetve létszámcsökkentés esetén, azzal, hogy a tisztviselő tekintetében a munkavégzési hely kizárólag a település területén belül változtatható meg,
+- f) a kinevezés tartalmának bármely módosításához átszervezés, vagy létszámcsökkentés esetén, beleértve a NAV más szervéhez történő áthelyezést is, azzal, hogy a tisztviselő tekintetében a munkavégzési hely kizárólag a település területén belül változtatható meg, pénzügyőr esetén a munkakör a státusz megváltoztatása nélkül módosítható,
 - g) a kinevezési okirat szerinti szervezeti egység megváltoztatása esetén, ha a foglalkoztató NAV szerv nem változik, és tisztviselő esetében a munkavégzési hely legfeljebb a település területén belül változik meg,
 - h) törvényben meghatározott esetekben.
 
@@ -881,6 +881,8 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 (5) A belföldi kiküldetésben lévő foglalkoztatott többletköltségei fedezetére és a napidíjára vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 (6) Az ideiglenes – három hónapot meg nem haladó – külföldi kiküldetés e §-tól eltérő szabályait a Kormány rendeletben állapítja meg.
+
+(7) Nem minősül külföldi kiküldetésnek, ha a pénzügyőr Magyarországgal szomszédos ország területén létesített közös határátkelőhelyen végez munkát, feltéve, hogy a napi munkaidejét Magyarország területén kezdi meg és fejezi be.
 
 #### 54. § [Kirendelés, vezénylés más szervhez]
 
@@ -1124,7 +1126,7 @@ igénylése vagy igénybevétele miatt került sor.
 
 (1) A szolgálati jogviszony felmentéssel akkor szüntethető meg, ha
 
-- a) a Kormány döntése alapján a NAV-nál létszámcsökkentést kell végrehajtani, és emiatt a foglalkoztatott továbbfoglalkoztatására nincs lehetőség;
+- a) a Kormány, a miniszter döntése alapján a NAV-nál, vagy a NAV elnökének döntése alapján a NAV szervnél a foglalkoztatottak létszámának csökkentését kell végrehajtani;
 - b) megszűnt a NAV-nak az a tevékenysége, amelynek körében a foglalkoztatottat foglalkoztatták;
 - c) átszervezés következtében a foglalkoztatott munkaköre megszűnik, vagy pénzügyőri munkaköre tisztviselői munkakörré módosul, és a foglalkoztatott a számára felajánlott, a végzettségének és képzettségének megfelelő más munkakört nem fogadta el;
 - d) a foglalkoztatott nyugdíjasnak minősül [kivéve, ha a jogviszony a 66. § (1) bekezdés e) pontja alapján megszűnt].
@@ -4508,77 +4510,80 @@ aláírás, lakcím
 | 12. | 11 |  | főosztályvezető-helyettes |
 | 13. | 12. |  | osztályvezető |
 
-### 5. melléklet a 2020. évi CXXX. törvényhez
+### 5. melléklet a 2020. évi CXXX. törvényhez:
 
-#### I. Alapilletmény az I. besorolási osztályba tartozó munkakörökhöz
+I. Alapilletmény az I. besorolási osztályba tartozó munkakörökhöz
 
-- 1. Területi szerv
+1. Területi szerv
 
-| 1. | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok területi szervnél |  |  |  |  |  |
+|  | A | B | C | D | E | F | G | H |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2. | A |  | B |  | C |  |
-| 3. | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
-| 4. | 1 | 0 - 8 | 340 000 Ft | 460 000 Ft | 420 000 Ft | 540 000 Ft | 500 000 Ft | 620 000 Ft |
-| 5. | 2 | 8 - 16 | 360 000 Ft | 480 000 Ft | 440 000 Ft | 560 000 Ft | 520 000 Ft | 640 000 Ft |
-| 6. | 3 | 16 - 24 | 380 000 Ft | 500 000 Ft | 460 000 Ft | 580 000 Ft | 540 000 Ft | 660 000 Ft |
-| 7. | 4 | 24 - 32 | 400 000 Ft | 520 000 Ft | 480 000 Ft | 600 000 Ft | 560 000 Ft | 680 000 Ft |
-| 8. | 5 | 32 felett | 420 000 Ft | 540 000 Ft | 500 000 Ft | 620 000 Ft | 580 000 Ft | 700 000 Ft |
+| 1 | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok területi szervnél |  |  |  |  |  |
+| 2 | A besorolási kategória |  | B besorolási kategória |  | C besorolási kategória |  |
+| 3 | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
+| 4 | 1 | 0–8 | 340 000 Ft | 600 000 Ft | 420 000 Ft | 680 000 Ft | 500 000 Ft | 760 000 Ft |
+| 5 | 2 | 8–16 | 360 000 Ft | 620 000 Ft | 440 000 Ft | 700 000 Ft | 520 000 Ft | 780 000 Ft |
+| 6 | 3 | 16–24 | 380 000 Ft | 640 000 Ft | 460 000 Ft | 720 000 Ft | 540 000 Ft | 800 000 Ft |
+| 7 | 4 | 24–32 | 400 000 Ft | 660 000 Ft | 480 000 Ft | 740 000 Ft | 560 000 Ft | 820 000 Ft |
+| 8 | 5 | 32 felett | 420 000 Ft | 680 000 Ft | 500 000 Ft | 760 000 Ft | 580 000 Ft | 840 000 Ft |
 
-- 2. Központi szerv
+2. Központi szerv
 
-| 1. | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok központi szervnél |  |  |  |  |  |
+|  | A | B | C | D | E | F | G | H |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2. | A |  | B |  | C |  |
-| 3. | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
-| 4. | 1 | 0 - 8 | 400 000 Ft | 520 000 Ft | 480 000 Ft | 600 000 Ft | 560 000 Ft | 680 000 Ft |
-| 5. | 2 | 8 - 16 | 420 000 Ft | 540 000 Ft | 500 000 Ft | 620 000 Ft | 580 000 Ft | 700 000 Ft |
-| 6. | 3 | 16 - 24 | 440 000 Ft | 560 000 Ft | 520 000 Ft | 640 000 Ft | 600 000 Ft | 720 000 Ft |
-| 7. | 4 | 24 - 32 | 460 000 Ft | 580 000 Ft | 540 000 Ft | 660 000 Ft | 620 000 Ft | 740 000 Ft |
-| 8. | 5 | 32 felett | 480 000 Ft | 600 000 Ft | 560 000 Ft | 680 000 Ft | 640 000 Ft | 760 000 Ft |
+| 1 | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok központi szervnél |  |  |  |  |  |
+| 2 | A besorolási kategória |  | B besorolási kategória |  | C besorolási kategória |  |
+| 3 | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
+| 4 | 1 | 0–8 | 400 000 Ft | 660 000 Ft | 480 000 Ft | 740 000 Ft | 560 000 Ft | 820 000 Ft |
+| 5 | 2 | 8–16 | 420 000 Ft | 680 000 Ft | 500 000 Ft | 760 000 Ft | 580 000 Ft | 840 000 Ft |
+| 5 | 3 | 16–24 | 440 000 Ft | 700 000 Ft | 520 000 Ft | 780 000 Ft | 600 000 Ft | 860 000 Ft |
+| 7 | 4 | 24–32 | 460 000 Ft | 720 000 Ft | 540 000 Ft | 800 000 Ft | 620 000 Ft | 880 000 Ft |
+| 8 | 5 | 32 felett | 480 000 Ft | 740 000 Ft | 560 000 Ft | 820 000 Ft | 640 000 Ft | 900 000 Ft |
 
-#### II. Alapilletmény a II. besorolási osztályba tartozó munkakörökhöz
+II. Alapilletmény a II. besorolási osztályba tartozó munkakörökhöz
 
-- 1. Területi szerv
+1. Területi szerv
 
-| 1. | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok területi szervnél |  |  |  |
+|  | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2. | A |  | B |  |
-| 3. | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
-| 4. | 1 | 0 - 8 | 220 000 Ft | 340 000 Ft | 300 000 Ft | 420 000 Ft |
-| 5. | 2 | 8 - 16 | 240 000 Ft | 360 000 Ft | 320 000 Ft | 440 000 Ft |
-| 6. | 3 | 16 - 24 | 260 000 Ft | 380 000 Ft | 340 000 Ft | 460 000 Ft |
-| 7. | 4 | 24 - 32 | 280 000 Ft | 400 000 Ft | 360 000 Ft | 480 000 Ft |
-| 8. | 5 | 32 felett | 300 000 Ft | 420 000 Ft | 380 000 Ft | 500 000 Ft |
+| 1 | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok területi szervnél |  |  |  |
+| 2 | A besorolási kategória |  | B besorolási kategória |  |
+| 3 | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
+| 4 | 1 | 0–8 | 220 000 Ft | 500 000 Ft | 300 000 Ft | 580 000 Ft |
+| 5 | 2 | 8–16 | 240 000 Ft | 520 000 Ft | 320 000 Ft | 600 000 Ft |
+| 6 | 3 | 16–24 | 260 000 Ft | 540 000 Ft | 340 000 Ft | 620 000 Ft |
+| 7 | 4 | 24–32 | 280 000 Ft | 560 000 Ft | 360 000 Ft | 640 000 Ft |
+| 8 | 5 | 32 felett | 300 000 Ft | 580 000 Ft | 380 000 Ft | 660 000 Ft |
 
-- 2. Központi szerv
+2. Központi szerv
 
-| 1. | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok központi szervnél |  |  |  |
+|  | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2. | A |  | B |  |
-| 3. | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
-| 4. | 1 | 0 - 8 | 250 000 Ft | 370 000 Ft | 330 000 Ft | 450 000 Ft |
-| 5. | 2 | 8 - 16 | 270 000 Ft | 390 000 Ft | 350 000 Ft | 470 000 Ft |
-| 6. | 3 | 16 - 24 | 290 000 Ft | 410 000 Ft | 370 000 Ft | 490 000 Ft |
-| 7. | 4 | 24 - 32 | 310 000 Ft | 430 000 Ft | 390 000 Ft | 510 000 Ft |
-| 8. | 5 | 32 felett | 330 000 Ft | 450 000 Ft | 410 000 Ft | 530 000 Ft |
+| 1 | Fizetési fokozat | Jogviszony időtartama (év) | Besorolási kategóriákhoz tartozó alapilletmény sávok központi szervnél |  |  |  |
+| 2 | A besorolási kategória |  | B besorolási kategória |  |
+| 3 | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | alapilletmény felső határa |
+| 4 | 1 | 0–8 | 250 000 Ft | 530 000 Ft | 330 000 Ft | 610 000 Ft |
+| 5 | 2 | 8–16 | 270 000 Ft | 550 000 Ft | 350 000 Ft | 630 000 Ft |
+| 6 | 3 | 16–24 | 290 000 Ft | 570 000 Ft | 370 000 Ft | 650 000 Ft |
+| 7 | 4 | 24–32 | 310 000 Ft | 590 000 Ft | 390 000 Ft | 670 000 Ft |
+| 8 | 5 | 32 felett | 330 000 Ft | 610 000 Ft | 410 000 Ft | 690 000 Ft |
 
 ### 6. melléklet a 2020. évi CXXX. törvényhez
 
 #### Vezetői munkakörök alapilletménye
 
-|  | B | C | D | E | F |
+|  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1. | vezetői munkakör | területi szerv |  | központi szerv |  |
-| 2. |  |  |  |  |  |
-| 3. |  | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | Maximum alapilletmény |
-| 4. | elnökhelyettes |  |  | 1 450 000 Ft | 1 650 000 Ft |
-| 5. | főigazgató |  |  | 1 250 000 Ft | 1 450 000 Ft |
-| 6. | főigazgató-helyettes |  |  | 1 100 000 Ft | 1 220 000 Ft |
-| 7. | igazgató | 880 000 Ft | 1 000 000 Ft | 890 000 Ft | 1 010 000 Ft |
-| 8. | igazgatóhelyettes | 790 000 Ft | 910 000 Ft | 820 000 Ft | 940 000 Ft |
-| 9. | főosztályvezető | 710 000 Ft | 830 000 Ft | 890 000 Ft | 1 010 000 Ft |
-| 10. | főosztályvezető-helyettes | 650 000 Ft | 770 000 Ft | 820 000 Ft | 940 000 Ft |
-| 11. | osztályvezető | 600 000 Ft | 720 000 Ft | 740 000 Ft | 860 000 Ft |
+| 1 | vezetői munkakör | területi szerv |  | központi szerv |  |
+| 2 |  | alapilletményalsó határa | alapilletményfelső határa | alapilletményalsó határa | maximum alapilletmény |
+| 3 | elnökhelyettes |  |  | 1 450 000 Ft | 2 100 000 Ft |
+| 4 | főigazgató |  |  | 1 250 000 Ft | 1 900 000 Ft |
+| 5 | főigazgató-helyettes |  |  | 1 100 000 Ft | 1 700 000 Ft |
+| 6 | igazgató | 880 000 Ft | 1 500 000 Ft | 890 000 Ft | 1 500 000 Ft |
+| 7 | igazgatóhelyettes | 790 000 Ft | 1 400 000 Ft | 820 000 Ft | 1 400 000 Ft |
+| 8 | főosztályvezető | 710 000 Ft | 1 300 000 Ft | 890 000 Ft | 1 500 000 Ft |
+| 9 | főosztályvezető-helyettes | 650 000 Ft | 1 200 000 Ft | 820 000 Ft | 1 400 000 Ft |
+| 10 | osztályvezető | 600 000 Ft | 1 100 000 Ft | 740 000 Ft | 1 300 000 Ft |
 
 ### 7. melléklet a 2020. évi CXXX. törvényhez
 

@@ -1357,8 +1357,9 @@ a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenység –
 
 (1a) A Magyar Honvédségnek nem szükséges az (1) bekezdés szerinti engedéllyel rendelkeznie a tulajdonában álló, adózott üzemanyagnak
 
-- a) az Észak-atlanti Szerződésben részes állam fegyveres erejének, polgári állományának
-- b) a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának
+- a) az Észak-atlanti Szerződésben részes állam fegyveres erejének, polgári állományának,
+- b) a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának, vagy
+- c) a rendvédelmi feladatokat ellátó szervek és az Országos Mentőszolgálat
 
 járművei részére történő kiszolgálásához.
 
@@ -1511,6 +1512,8 @@ követően bocsátja a bérfőzető rendelkezésre.
 #### 49. Adó-visszaigénylés zárjegyköteles jövedéki termék után
 
 77. § (1) A 12. § a), b) és d) pontja szerinti adó-visszaigénylés feltétele, hogy a jogosult a zárjegyet a zárjegyköteles jövedéki termékről az állami adó- és vámhatóság képviselőjének jelenlétében eltávolítsa és megsemmisítse vagy felülragasztással érvénytelenítse.
+
+(1a) Az (1) bekezdéstől eltérően nem szükséges az állami adó- és vámhatóság képviselőjének jelenléte, ha a jogosult az alkoholtermékről a zárjegy eltávolításának és megsemmisítésének vagy felülragasztással érvénytelenítésének időpontját a tevékenység megkezdését megelőzően legalább 3 munkanappal bejelenti az állami adó- és vámhatósághoz. Az eltávolított és megsemmisített vagy felülragasztással érvénytelenített zárjegyek sorszámát a jogosult nyilvántartásában feltünteti és adatszolgáltatásában az állami adó- és vámhatóság felé bejelenti.
 
 (2) A központi költségvetési szerv mentesül az (1) bekezdésben meghatározott kötelezettségek alól, ha az általa exportált jövedéki termék harmadik országban szolgálatot teljesítő Magyar Honvédség fegyveres erői részére kerül kiszállításra.
 
@@ -2569,6 +2572,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (35) 2023. február 13-át megelőzően másik tagállamból adózottan feladott jövedéki termék átvételére a feladáskor hatályos szabályokat kell alkalmazni a jövedéki termék átvételéig, de legkésőbb 2023. december 31-ig.
 
 (36) A 74. § rendelkezéseitől eltérően a jövedéki kiskereskedő és a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet folytató a zárjegy nélküli hevített terméket az Fdvtv. 24/A. § (14) bekezdésében meghatározott időpontig értékesítheti.
+
+(37) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 67. § (1a) bekezdés c) pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
 
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
