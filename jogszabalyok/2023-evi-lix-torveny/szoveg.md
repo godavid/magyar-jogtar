@@ -657,157 +657,41 @@ lép.
 
 #### 31. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
-218. § (1) A fémkereskedelemről szóló 2013. évi CXL. törvény 2. § (1) bekezdése a következő 5a. és 5b. ponttal egészül ki:
+#### 218. §
 
-(E törvény alkalmazásában:)
+#### 219. §
 
-„5a. hulladékgazdálkodási intézményi résztevékenység: a hulladékról szóló törvény szerinti hulladékgazdálkodási intézményi résztevékenység,
+#### 220. §
 
-5b. hulladékgazdálkodási koncessziós társaság: a hulladékról szóló törvény szerinti koncessziós társaság,”
-
-(2) A fémkereskedelemről szóló 2013. évi CXL. törvény 2. § (1) bekezdés 6. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„6. hulladékgazdálkodási közszolgáltatási résztevékenység: a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység,”
-
-(3) A fémkereskedelemről szóló 2013. évi CXL. törvény 2. § (1) bekezdése a következő 8a–8d. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„8a. koncesszori alvállalkozó: a hulladékról szóló törvény szerinti koncesszori alvállalkozó,
-
-8b. koncesszori fémkereskedelmi engedély: a fémkereskedelmi hatóság által kiadott, koncesszori fémkereskedelmi tevékenységre jogosító engedély,
-
-8c. koncesszori fémkereskedelmi tevékenység: a fémkereskedelmi engedélyköteles anyagnak koncesszori alvállalkozóként hulladékgazdálkodási intézményi résztevékenység keretében történő átvétele, amely nem minősül a 4. pontban meghatározott felvásárlásnak,
-
-8d. koncesszori fémkereskedő: hatályos koncesszori fémkereskedelmi engedéllyel rendelkező jogi személy vagy jogi személyiség nélküli szervezet,”
-
-(4) A fémkereskedelemről szóló 2013. évi CXL. törvény 2. § (3) bekezdése helyébe a következő rendelkezés lép, és a 2. § a következő (4) bekezdéssel egészül ki:
-
-„(3) A vállalkozó a (2) bekezdésben foglalt tevékenysége során az értékesíthető alkatrészek, tartozékok és felszerelések kinyerése után megmaradt fémet, annak törmelékét vagy ötvözetét tartalmazó, de a rendeltetése szerint már nem felhasználható dolgot – a (4) bekezdésben foglaltakra tekintettel – kizárólag fémkereskedőnek értékesítheti vagy koncesszori fémkereskedőnek adhatja át.
-
-(4) A hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körébe tartozó, (3) bekezdés szerinti dolog kizárólag koncesszori fémkereskedőnek adható át.”
-
-219. § (1) A fémkereskedelemről szóló 2013. évi CXL. törvény 3. § (3) bekezdése helyébe a következő rendelkezés lép, és a 3. § a következő (3a) bekezdéssel egészül ki:
-
-„(3) Hulladékgazdálkodási közszolgáltatási résztevékenység körében végzett tevékenység koncesszori fémkereskedelmi engedély nélkül végezhető.
-
-(3a) Ha a fémkereskedelmi engedélyköteles anyag nem kerül közvetlenül a hulladékgazdálkodási koncessziós társaság birtokába, a hulladékgazdálkodási koncessziós társaság fémkereskedelmi engedélyköteles anyaggal kapcsolatos tevékenysége koncesszori fémkereskedelmi engedély nélkül végezhető.”
-
-(2) A fémkereskedelemről szóló 2013. évi CXL. törvény 3. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek, és a 3. § a következő (6a) bekezdéssel egészül ki:
-
-„(5) Az e törvény végrehajtására kiadott kormányrendeletben meghatározott felismerésre alkalmas jellemzővel rendelkező fémkereskedelmi engedélyköteles anyagok a (6), (6a) és (7) bekezdésben meghatározottak szerint értékesíthetők fémkereskedő, illetve adhatók át koncesszori fémkereskedő részére. A hulladékról szóló törvény szerinti állami hulladékgazdálkodási közfeladattal érintett hulladéknak minősülő fémkereskedelmi engedélyköteles anyag kizárólag koncesszori fémkereskedő vagy hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó részére adható át.
-
-(6) A közszolgáltatást nyújtó gazdálkodó szervezetnél termelődött vagy közszolgáltatást nyújtó gazdálkodó szervezet által begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése vagy átadása írásbeli szerződés alapján, az abban meghatározott telephellyel rendelkező fémkereskedő vagy koncesszori fémkereskedő részére, a közszolgáltatást nyújtó gazdálkodó szervezet által kiállított igazolás mellett történhet. A közszolgáltatást nyújtó gazdálkodó szervezet a fémkereskedővel vagy koncesszori fémkereskedővel kötött szerződés eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől számított 15 napon belül megküldi.
-
-(6a) A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozónál termelődött vagy általa begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése vagy átadása a hulladékgazdálkodási koncessziós társaság felhatalmazása alapján, az abban meghatározott telephellyel rendelkező fémkereskedő vagy koncesszori fémkereskedő részére, a hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó által kiállított igazolással történhet. A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó a fémkereskedő részére történő értékesítés esetén a szerződés vagy a koncesszori fémkereskedő részére történő átadás esetén a részére kiállított igazolás eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől, illetve az igazolás kiállításától számított 15 napon belül megküldi.”
-
-(3) A fémkereskedelemről szóló 2013. évi CXL. törvény 3. §-a a következő (7c) bekezdéssel egészül ki:
-
-„(7c) Ha a (7) bekezdés szerinti anyag a hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körébe tartozik, az koncesszori fémkereskedőnek adható át.”
-
-220. § A fémkereskedelemről szóló 2013. évi CXL. törvény 4. §-a a következő (3a)–(3c) bekezdéssel egészül ki:
-
-„(3a) Ha a fémkereskedő nem rendelkezik koncesszori fémkereskedelmi engedéllyel, csak olyan átvételre kínált fémkereskedelmi engedélyköteles anyagot vehet át, amelyről szemrevételezéssel egyértelműen megállapítható, hogy az nem tartozik a hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körébe. Egyéb esetben az átvételt meg kell tagadni, és a fémkereskedelmi engedélyköteles anyagot a hulladékgazdálkodási intézményi résztevékenység körébe tartozó fémhulladéknak kell tekinteni, ha az azt felkínáló hitelt érdemlően nem igazolja annak a hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körén kívül eső besorolását. A megtagadással egy időben a fémkereskedő tájékoztatja az átadást kezdeményezőt a koncesszori fémkereskedő által üzemeltetett legközelebbi telephely címéről és nyitvatartásáról.
-
-(3b) Ha fémkereskedő koncesszori fémkereskedelmi engedéllyel is rendelkezik, akkor a (3a) bekezdés szerinti kötelezettsége keretében a (3a) bekezdés szerinti vélelem alapján a hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladéknak minősülő fémkereskedelmi engedélyköteles anyagot a koncesszori fémkereskedői minőségében átveszi.
-
-(3c) A (3a) és (3b) bekezdés szerinti kötelezettség betartását a fémkereskedelmi hatóság hivatalból, az ellenőrzés célcsoportjait kockázatelemzés alapján meghatározva, lehetőség szerint negyedévente egyszer ellenőrzi.”
-
-221. § A fémkereskedelemről szóló 2013. évi CXL. törvény a következő 4/A. alcímmel egészül ki:
-
-#### „4/A. A koncesszori fémkereskedelmi tevékenységre vonatkozó szabályok
-
-9/A. § (1) Koncesszori fémkereskedelmi tevékenységet koncesszori fémkereskedő folytathat.
-
-(2) A koncesszori fémkereskedelmi tevékenységre a 4–9. §-t és a 11. §-t ezen alcímben meghatározott eltérésekkel és azzal kell alkalmazni, hogy
-
-- a) fémkereskedő alatt koncesszori fémkereskedőt,
-- b) fémkereskedelmi tevékenység alatt koncesszori fémkereskedelmi tevékenységet,
-- c) fémkereskedelmi engedély alatt koncesszori fémkereskedelmi engedélyt,
-- d) vásárlás és felvásárlás alatt átvételt,
-- e) eladó alatt átadót,
-- f) vevő alatt átvevőt,
-- g) beszerzett alatt átvettet,
-- h) értékesített alatt átadottat,
-- i) megvétel alatt átvételt,
-- j) – ha ellenérték fizetésére sor kerül – vételár alatt fizetett ellenértéket, továbbá
-- k) számla alatt mérlegjegyet
-
-kell érteni.
-
-(3) A 4. § (11) bekezdése és a 9. § (1) bekezdése a koncesszori fémkereskedőre nem alkalmazható.
-
-9/B. § (1) Koncesszori fémkereskedelmi engedély legfeljebb a koncesszori alvállalkozói szerződés időtartamára adható.
-
-(2) Koncesszori fémkereskedelmi engedélyt az kaphat, aki – a 6. § (1) bekezdésében foglaltakon túl – a hulladékról szóló törvény szerinti koncesszori alvállalkozói nyilvántartásban a koncesszori fémkereskedelemi tevékenységre vonatkozó – koncesszori alvállalkozói tevékenységre, és az ahhoz tartozó hulladéktípusra vonatkozó – adatok megadásával szerepel.
-
-(3) A fémkereskedelmi hatóság a koncesszori fémkereskedő koncesszori fémkereskedelmi engedélyét visszavonja, ha a koncesszori alvállalkozó vagy a koncesszori fémkereskedelemre irányuló tevékenysége a (2) bekezdés szerinti koncesszori alvállalkozói nyilvántartásból törlésre került.
-
-(4) A koncesszori fémkereskedelmi engedély iránti kérelem – a 8. § (1) bekezdésében foglaltakon túl – tartalmazza a kérelmező koncesszori alvállalkozói nyilvántartási számát.
-
-(5) Fémkereskedelmi és koncesszori fémkereskedelmi tevékenység azonos telephelyen történő végzésére irányuló kérelem esetén a 7. § (2) bekezdés szerinti helyszíni szemle során a két tevékenység feltételeit külön-külön kell vizsgálni.
-
-(6) A hulladékgazdálkodási koncessziós társaság a fémkereskedelmi engedélyköteles anyagért fizetett ellenértékről a fémkereskedelmi hatóság részére – az e törvény végrehajtására kiadott rendeletben meghatározott határidőre – írásbeli nyilatkozatot tesz.”
+#### 221. §
 
 #### 222. §
 
 #### 223. §
 
-224. § (1) A fémkereskedelemről szóló 2013. évi CXL. törvény 15. § (7) bekezdés d) pontja helyébe a következő rendelkezés lép:
+#### 224. §
 
-(Felhatalmazást kap a Kormány, hogy)
-
-„d) a fémkereskedelmi engedélyköteles anyag anyagkísérő okmányára, továbbá a fémkereskedő, valamint a koncesszori fémkereskedő bejelentési, nyilvántartási és adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat,”
-
-(rendeletben állapítsa meg.)
-
-(2) A fémkereskedelemről szóló 2013. évi CXL. törvény 15. § (7) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„f) a fémkereskedő, valamint a koncesszori fémkereskedő telephelye működésére, valamint az általa átvett vagy felvásárolt anyaggal kapcsolatos tevékenységére vonatkozó követelményeket,”
-
-(rendeletben állapítsa meg.)
-
-(3) A fémkereskedelemről szóló 2013. évi CXL. törvény 15. § (7) bekezdés n) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„n) a fémkereskedelmi és a koncesszori fémkereskedelmi engedélyre, a fémkereskedelmi és a koncesszori fémkereskedelmi engedély iránti kérelemre és a kérelem elbírálására vonatkozó részletes szabályokat,”
-
-(rendeletben állapítsa meg.)
-
-225. § A fémkereskedelemről szóló 2013. évi CXL. törvény a következő 15/A. §-sal egészül ki:
-
-„15/A. § (1) Ha a 2023. július 1-jén hatályos fémkereskedelmi engedéllyel és koncesszori alvállalkozói szerződéssel rendelkező személy a koncesszori fémkereskedelmi tevékenységet meg kívánja kezdeni, a koncesszori fémkereskedelmi engedély iránti kérelmét 2023. július 20-ig be kell nyújtania a fémkereskedelmi hatósághoz.
-
-(2) A fémkereskedelmi hatóság az (1) bekezdés szerint benyújtott kérelmet – az általános közigazgatási rendtartásról szóló törvény szerinti határidőkre vonatkozó szabályoktól eltérően – legkésőbb 2023. szeptember 15-ig bírálja el.
-
-(3) Az (1) bekezdés szerinti kérelmet benyújtó személy – a koncesszori fémkereskedelmi engedélyesre vonatkozó rendelkezések betartásával – a koncesszori fémkereskedelmi engedély hiányában is végezhet koncesszori fémkereskedelmi tevékenységet a fémkereskedelmi hatóság által kiállított engedély kiadásának vagy a kérelem elutasításának időpontjáig, de legkésőbb 2023. szeptember 15-ig.
-
-(4) Az a fémkereskedő, aki 2023. július 1-jén rendelkezik hulladékgazdálkodási intézményi résztevékenység hatálya alá tartozó hulladékkal, e hulladékot – a hulladékról szóló törvény rendelkezéseitől eltérően – 2023. december 31-ig fémkereskedő, illetve fémkereskedelmi engedélyköteles anyag hasznosítását végző személy részére is értékesítheti, aki azt megvásárolhatja, felvásárolhatja.”
+#### 225. §
 
 226. § A fémkereskedelemről szóló 2013. évi CXL. törvény
 
-- 1. 1. § (1) bekezdésében az „engedélyezésére,” szövegrész helyébe az „engedélyezésére, a koncesszori fémkereskedelmi tevékenységre, a koncesszori fémkereskedelmi tevékenység engedélyezésére,” szöveg,
-- 2. 3. § (1) bekezdés a) pontjában az „értékesítését” szövegrész helyébe az „értékesítését, vagy koncesszori fémkereskedő részére történő átadását,” szöveg,
-- 3. 3. § (2) bekezdésében az „a 3. §” szövegrész helyébe az „az” szöveg,
-- 4. 3. § (4) bekezdésében és 3/A. §-ában a „fémkereskedő vagy hulladékgazdálkodási közszolgáltatást nyújtó szervezet” szövegrész helyébe a „fémkereskedő, koncesszori fémkereskedő vagy hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó” szöveg,
-- 5. 3. § (7) bekezdés nyitó szövegrészében az „értékesítést” szövegrész helyébe az „értékesítést vagy átadást” szöveg, a „követően kizárólag fémkereskedő részére értékesítheti.” szövegrész helyébe a „követően – a (7c) bekezdésben foglaltakra tekintettel – kizárólag fémkereskedő részére értékesítheti vagy koncesszori fémkereskedőnek adhatja át.” szöveg,
-- 6. 3. § (7) bekezdés b) pontjában és (8) bekezdésében a „fémkereskedő” szövegrész helyébe a „fémkereskedő vagy átvevő koncesszori fémkereskedő” szöveg,
-- 7. 3. § (7a) bekezdésében az „értékesítő” szövegrész helyébe az „értékesítő vagy átadó” szöveg,
-- 8. 3. § (7b) bekezdésében az „értékesített” szövegrész helyébe az „értékesített vagy át nem adott” szöveg, az „értékesítéséhez” szövegrész helyébe az „értékesítéséhez vagy átadásához” szöveg,
-- 9. 3. § (8a) bekezdésében, a 3. § (8b) bekezdés nyitó szövegrészében és a 3. § (8b) bekezdés b) pontjában a „fémkereskedő” szövegrész helyébe a „fémkereskedő vagy a koncesszori fémkereskedő” szöveg,
-- 10. 3. § (12) bekezdésében a „Fémkereskedő” szövegrész helyébe a „Fémkereskedő vagy koncesszori fémkereskedő” szöveg,
-- 11. 10. § (1) bekezdés b) pontjában a „fémkereskedőtől” szövegrész helyébe a „fémkereskedőtől vagy koncesszori fémkereskedőtől” szöveg,
-- 12. 10. § (3) bekezdésében a „Korm. rendelet” szövegrész helyébe a „kormányrendelet” szöveg,
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
+- 10.
+- 11.
+- 12.
 - 13.
 - 14.
 - 15.
 
-227. § Hatályát veszti a fémkereskedelemről szóló 2013. évi CXL. törvény 3. § (11) bekezdése.
+#### 227. §
 
 #### 32. Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény módosítása
 
