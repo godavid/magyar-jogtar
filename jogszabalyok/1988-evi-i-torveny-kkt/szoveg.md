@@ -503,6 +503,10 @@ oktatása, szakképzése és utánképzése
 
 (12) A közlekedési hatóság a névjegyzékből törli az elhunyt iskolavezetőt, szakoktatót, vizsgabiztost, utánképzés-foglalkozásvezetőt.
 
+(12a) A vizsga nélküli tehergépkocsi-vezető, valamint az autóbuszvezető-továbbképzési szaktanfolyamot igazoltan elvégzők tekintetében a képző szerv felügyeleti díjat fizet a közlekedési hatóság részére. A felügyeleti díj összege megegyezik a továbbképzést vizsgával elvégzők vizsgadíjának összegével.
+
+(12b) A (12a) bekezdésben meghatározott közlekedési hatósági felügyeleti tevékenységben a vizsgaközpont az általa végzett képzésfelügyelet útján közreműködik. A képző szerv a felügyeleti díjat negyedévente, a negyedévet követő hónap 15. napjáig – első alkalommal 2023. október 15. napjáig – a közlekedési hatóság részére fizeti meg. A felügyeleti díj 70%-a a közlekedési hatóságot, 30%-a a vizsgaközpontot illeti meg. A vizsgaközpontot megillető rész megfizetéséről a közlekedési hatóság gondoskodik. A felügyeleti díjat a közlekedési hatóság az ellenőrzési, felügyeleti, a vizsgaközpont a képzésfelügyeleti feladataival összefüggésben használhatja fel.
+
 (13) A közúti járművezetők és a közúti közlekedési szakemberek képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről a közúti járművezetők részére a vizsgaigazolást, illetve a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a vizsgaközpont adja ki.
 
 (14)
@@ -1168,6 +1172,8 @@ műszaki feltételei
 
 (3) Jármű egyedi előállításához (összeépítéséhez), átalakításához, forgalomba helyezéséhez a közlekedési hatóság előzetes engedélye szükséges.
 
+(3a) A muzeális minősítő szervezet által kiadott, a járművek muzeális minősítését tanúsító érvényes muzeális jármű-igazolással rendelkező jármű – ide nem értve a közlekedési hatóság által kiadott összeépítési engedély alapján összeépített járművet – a magyarországi első forgalomba helyezési eljárásában mentesül a közlekedési hatóság által kiadott egyedi forgalomba helyezési engedély meglétének kötelezettsége alól.
+
 (4) A közlekedési hatóság az engedélyezett járműtípusok, valamint a jóváhagyott alkatrészek, tartozékok és önálló műszaki egységek típus-meghatározó műszaki adatairól nyilvántartást vezet.
 
 (5) Az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre a közlekedési hatóság
@@ -1305,7 +1311,7 @@ adatokat.
 
 (9)
 
-#### 24/B. §
+24/B. § A polgári nemzetbiztonsági szolgálatok – ha az általuk üzemeltetett jármű (a továbbiakban: szolgálati jármű) forgalomba helyezés előtti vagy időszakos vizsgálatát a polgári nemzetbiztonsági szolgálatok vizsgáló állomásán végzik – mentesülnek a szolgálati járműveik forgalomba helyezés előtti és időszakos műszaki vizsgálatával, valamint hatósági engedéllyel és jelzéssel történő ellátásával kapcsolatos hatósági eljárások díjainak megfizetése alól.
 
 25. § E törvénynek
 

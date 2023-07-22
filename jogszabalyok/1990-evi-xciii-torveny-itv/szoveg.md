@@ -296,7 +296,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (4) A vállalkozói vagyon tulajdonjogát megszerző magánszemély örökös esetén a vállalkozói vagyon után az őt egyébként terhelő öröklési illeték alapját 25%-kal, de legfeljebb 2,5 millió forinttal csökkentett összegben kell megállapítani.
 
-(5) A vállalkozói vagyon tulajdonjogát vagy haszonélvezeti jogát ajándékozás útján megszerző magánszemély esetén a vállalkozói vagyon után az őt egyébként terhelő ajándékozási illeték alapját 25%-kal, de legfeljebb 2,5 millió forinttal csökkentett összegben kell megállapítani.
+(5) A vállalkozói vagyon tulajdonjogát, építményi jogát vagy haszonélvezeti jogát ajándékozás útján megszerző magánszemély esetén a vállalkozói vagyon után az őt egyébként terhelő ajándékozási illeték alapját 25%-kal, de legfeljebb 2,5 millió forinttal csökkentett összegben kell megállapítani.
 
 (6) Ha a (4)–(5) bekezdés szerinti kedvezményben részesülő vagyonszerző az (1) bekezdés a)–b) pontjai szerinti feltételeket nem teljesíti, továbbá az (1) bekezdés szerinti 3 éves időtartam letelte előtt a vállalkozási tevékenységet a gazdasági tevékenységgel együtt járó üzleti kockázaton túlmutató elháríthatatlan külső ok hiányában megszünteti, vagy egyéni cégében fennálló vagyoni betétjét elidegeníti, illetve a többségi tulajdonában álló gazdasági társaságban fennálló részesedésének arányát csökkenti, az általa igénybe vett illetékkedvezmény alapján élvezett illetékteher-csökkenés összegének kétszeresét köteles pótlólag megfizetni.
 
@@ -335,7 +335,7 @@ visszterhes átruházása.
 (2) Az illetékfizetési kötelezettség a következő vagyoni értékű jogokra és ingókra terjed ki:
 
 - a) az ingatlanhoz kapcsolódó vagyoni értékű jog megszerzése, továbbá e jognak a megszüntetése folytán bekövetkező vagyonszerzés;
-- b) az ingatlanon fennálló haszonélvezet gyakorlásának átengedése;
+- b) az ingatlanon fennálló építményi jog, haszonélvezet gyakorlásának átengedése;
 - c) ingónak hatósági árverésen történő megszerzése;
 - d) gépjármű, illetőleg pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzése;
 - e) közterületen álló, ingatlannak nem minősülő felépítmény tulajdonjogának, vagyoni értékű jogának megszerzése;
@@ -343,7 +343,7 @@ visszterhes átruházása.
 - g) az értékpapír öröklési szerződéssel való megszerzése;
 - h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részesedés, átalakított befektetői részjegy) megszerzésére.
 
-(3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
+(3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő építményi jognak, haszonélvezetnek, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött építményi jognak, haszonélvezetnek, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 
 (4) A (2) bekezdés h) pontjában foglalt vagyonszerzés után akkor kell az illetéket megfizetni, ha
 
@@ -355,7 +355,7 @@ tulajdonában álló vagyoni betétek aránya önállóan vagy együttesen elér
 
 ### Az illeték általános mértéke
 
-19. § (1) A visszterhes vagyonátruházási illeték általános mértéke – ha a törvény másként nem rendelkezik – a megszerzett vagyon terhekkel nem csökkentett forgalmi értéke után 4%, ingatlan, illetve belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét megszerzése esetén ingatlanonként 1 milliárd forintig 4%, a forgalmi érték ezt meghaladó része után 2%, de ingatlanonként legfeljebb 200 millió forint. Ingatlan résztulajdonának szerzése esetén az 1 milliárd forintnak a szerzett tulajdoni hányaddal arányos összegére kell alkalmazni a 4%-os illetéket, illetve az ingatlanonként legfeljebb 200 millió forintot a tulajdoni hányad arányában kell figyelembe venni. Ingatlanhoz kapcsolódó vagyoni értékű jog megszerzése esetén az illetékalapból az 1 milliárd forint olyan hányadára kell alkalmazni a 4%-os illetékmértéket, illetve a 200 millió forint olyan hányadát kell figyelembe venni, mint amilyen arányt a vagyoni értékű jog értéke képvisel az ingatlan forgalmi értékében. Vagyoni értékű joggal terhelt ingatlan – ideértve a tulajdonszerzéssel egyidejűleg alapított vagyoni értékű jogot – szerzése esetén a vagyoni értékű jog értékével csökkentett forgalmi értékből az 1 milliárd forint olyan hányadára kell alkalmazni a 4%-os illetékmértéket, illetve a 200 millió forint olyan hányadát kell figyelembe venni, mint amilyen arányt a tulajdonjog értéke képvisel az ingatlan forgalmi értékében.
+19. § (1) A visszterhes vagyonátruházási illeték általános mértéke – ha a törvény másként nem rendelkezik – a megszerzett vagyon terhekkel nem csökkentett forgalmi értéke után 4%, ingatlan, illetve belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét megszerzése esetén ingatlanonként 1 milliárd forintig 4%, a forgalmi érték ezt meghaladó része után 2%, de ingatlanonként legfeljebb 200 millió forint. Ingatlan résztulajdonának szerzése esetén az 1 milliárd forintnak a szerzett tulajdoni hányaddal arányos összegére kell alkalmazni a 4%-os illetéket, illetve az ingatlanonként legfeljebb 200 millió forintot a tulajdoni hányad arányában kell figyelembe venni. Ingatlanhoz kapcsolódó vagyoni értékű jog megszerzése esetén az illetékalapból az 1 milliárd forint olyan arányára kell alkalmazni a 4%-os illetékmértéket, illetve a 200 millió forint olyan arányát kell figyelembe venni, mint amilyen arányt a vagyoni értékű jog értéke képvisel az ingatlan forgalmi értékében. Vagyoni értékű joggal terhelt ingatlan – ideértve a tulajdonszerzéssel egyidejűleg alapított vagyoni értékű jogot, de ide nem értve az építményi jogot – szerzése esetén a vagyoni értékű jog értékével csökkentett forgalmi értékből az 1 milliárd forint olyan hányadára kell alkalmazni a 4%-os illetékmértéket, illetve a 200 millió forint olyan hányadát kell figyelembe venni, mint amilyen arányt a tulajdonjog értéke képvisel az ingatlan forgalmi értékében.
 
 (2) Ingatlanok tulajdonjogának cseréje esetén az illeték alapja — a 21. §-ban foglaltak kivételével — a cserével megszerzett ingatlan forgalmi értéke.
 
@@ -1207,13 +1207,13 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### A vagyoni értékű jogok értékének megállapítása
 
-72. § (1) A vagyoni értékű jogok egy évi értékéül az ezzel terhelt dolog — terhekkel nem csökkentett — forgalmi értékének egyhuszad részét kell tekinteni.
+72. § (1) A vagyoni értékű jogok – kivéve az építményi jogot – egy évi értékéül az ezzel terhelt dolog — terhekkel nem csökkentett — forgalmi értékének egyhuszad részét kell tekinteni.
 
-(2) A meghatározott időre szóló vagyoni értékű jog értéke az egyévi érték és a kikötött évek szorzata. A jog így számított értéke azonban nem haladhatja meg az egyévi érték 20-szorosát, illetve természetes személy javára kikötött haszonélvezet, használat joga esetén az egyévi értéknek a (4) bekezdés a) pontjában meghatározott életkor szerinti többszörösét.
+(2) A meghatározott időre szóló vagyoni értékű jog – kivéve az építményi jogot – értéke az egyévi érték és a kikötött évek szorzata. A jog így számított értéke azonban nem haladhatja meg az egyévi érték 20-szorosát, illetve természetes személy javára kikötött haszonélvezet, használat joga esetén az egyévi értéknek a (4) bekezdés a) pontjában meghatározott életkor szerinti többszörösét.
 
-(3) A bizonytalan időre terjedő vagyoni értékű jog esetében a jog értéke — a (4) bekezdésben foglaltak kivételével — az egy évi érték ötszöröse.
+(3) A bizonytalan időre terjedő vagyoni értékű jog – kivéve az építményi jogot – esetében a jog értéke — a (4) bekezdésben foglaltak kivételével — az egy évi érték ötszöröse.
 
-(4) Ha a vagyoni értékű jog valamely személy életének, házasságának vagy özvegységének idejére terjed, annak értékét az illető személy életkorához képest a következő módon kell megállapítani:
+(4) Ha a vagyoni értékű jog – kivéve az építményi jogot – valamely személy életének, házasságának vagy özvegységének idejére terjed, annak értékét az illető személy életkorához képest a következő módon kell megállapítani:
 
 - a) ha a vagyoni értékű jog jogosultja: 25 évesnél fiatalabb, az egyévi érték 10-szerese, 25—50 éves, az egyévi érték 8-szorosa, 51—65 éves, az egyévi érték 6-szorosa, 65 évnél idősebb, az egyévi érték 4-szerese;
 - b) ha a vagyoni értékű jog tartama mind a jogosult, mind a kötelezett élete, házassága vagy özvegysége idejétől függ, az a) pontban megállapított szorzók alkalmazásánál a két személy közül az idősebbnek az életkora az irányadó;
@@ -1222,7 +1222,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (5) Az időleges üdülőhasználati jog és a szállás időben megosztott használati jogának értéke: e jogok egy évi értékének [72. § (1) bekezdés] annyiszor háromszázhatvanötöd része, ahány nap megszerzéséről szól a szerződés. Egyebekben a 72. § (2)—(3) bekezdésében foglaltak az irányadóak.
 
-(6)
+(6) Az építményi jog értéke megegyezik e jog forgalmi értékével.
 
 ### IX. Fejezet — AZ ILLETÉK MEGFIZETÉSE
 
@@ -1697,7 +1697,7 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
 - a) vagyon:az ingatlan, az ingó, a vagyoni értékű jog;
 - b) ingatlan:a föld és a földdel alkotórészi kapcsolatban álló minden dolog;
 - c) ingó: a fizetőeszköz, az értékpapír, a gazdálkodó szervezetben fennálló vagyoni betét, valamint mindaz, ami ingatlannak nem minősülő dolog;
-- d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve az üdülőhasználati jogot és a szállás időben megosztott használati jogát is –, továbbá a vagyonkezelői jog, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
+- d) vagyoni értékű jog: az építményi jog, a földhasználat, a haszonélvezet, a használat joga – ideértve az üdülőhasználati jogot és a szállás időben megosztott használati jogát is –, a vagyonkezelői jog, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
 - e) forgalmi érték: az a pénzben kifejezett érték, amely a vagyontárgy eladása esetén az illetékkötelezettség keletkezésekor volt állapotában – a vagyontárgyat terhelő adósságok, továbbá az ingatlanon a vagyonszerző javára az elidegenítéskor megszűnő bérleti jog figyelembevétele nélkül – árként általában elérhető, azzal, hogy:
   - ea) vagyontárgy kiadására vonatkozó követelés esetén a vagyontárgy illetékkötelezettség keletkezésének napján fennálló forgalmi értéke;
   - eb) szolgáltatás nyújtására irányuló követelés esetén a szolgáltatás – független felek közötti ügylet estén irányadó – pénzben kifejezhető értéke,
@@ -1723,7 +1723,7 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
 - r) természeti katasztrófa: az ár- és belvíz, a földcsuszamlás, valamint a földrengés;
 - s) lakóépület: kizárólag vagy túlnyomó részben lakást tartalmazó épület;
 - sz) kisvállalkozás: az az egyéni cég, illetve gazdasági társaság, amelynél az éves összes foglalkoztatott létszám az 50 főt nem éri el és éves nettó árbevétele legfeljebb 700 millió forint. Az éves foglalkoztatottak létszámát az egyes foglalkoztatottak munkaviszonyának kezdetétől annak megszűnéséig eltelt naptári napok összegezésével, majd az így kapott összeg 365-tel történő elosztásával, tört hányados esetén lefelé kerekítve kell meghatározni;
-- t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog;
+- t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó építményi jog, haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog;
 - u) vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény szerinti vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a vagyonkezelő alapítványokról szóló törvény által előírt, a vagyonkezelő alapítványok alapítására és működésére vonatkozó feltételeket;
 - v) alapítvány: a Civil törvény szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt; valamint az alapítás évében és az azt követő két évben az az újonnan létrejött alapítvány, amely vállalja, hogy az alapítás évét követő második év végéig e feltételeknek eleget tesz;
 - w) közigazgatási hatósági eljárás: az az eljárás, amelynek intézése során a hatóság döntésével az ügyfél jogát vagy kötelezettségét megállapítja, jogvitáját eldönti, jogsértését megállapítja, tényt, állapotot, adatot igazol vagy nyilvántartást vezet, illetve az ezeket érintő döntését érvényesíti, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés;

@@ -533,10 +533,11 @@ meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hat�
 
 (4) A jogosultságot megállapító szerv
 
-- a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra, a gyermekek otthongondozási díjára és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
-- b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente
+- a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra, valamint az ápolási díjra való jogosultság feltételeinek fennállását kétévente legalább egyszer,
+- b) a gyermekek otthongondozási díjára való jogosultság [az a) és b) pont szerinti ellátások a továbbiakban együtt: havi rendszeres szociális ellátás] feltételeinek fennállását az önellátási képesség hiányát igazoló, a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott dokumentumok érvényességi idejének lejártakor, határozatlan idejű érvényesség esetén a Büntető Törvénykönyvről szóló törvény szerinti hivatalos vagy közfeladatot ellátó személy megkeresésére vagy a felülvizsgálat szükségességéről történő hivatalos tudomásszerzés esetén,
+- c) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente legalább egyszer
 
-legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
+felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
 (5) Ha a szociális vetítési alap összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
 
@@ -869,7 +870,10 @@ gondoskodik.
 
 (6) Egyazon gyermekre tekintettel csak egy szülő számára állapítható meg a gyermekek otthongondozási díja.
 
-39. § (1) A gyermekek otthongondozási díjára való jogosultság – a 38. §-ban a gyermekre meghatározott feltételek teljesülése esetén – a szülőn kívül a gyermek más, a gyermekkel közös háztartásban élő hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont] számára is megállapítható, ha a szülő meghalt, a szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a), c), e) vagy h) pontja vagy 4:186. § (2) bekezdése alapján szünetel, illetve azt a bíróság megszüntette, vagy a gyermek állandó és tartós gondozásában a saját egészségi állapotára figyelemmel akadályozottá vált.
+39. § (1) A gyermekek otthongondozási díjára való jogosultság – a 38. §-ban a gyermekre meghatározott feltételek teljesülése esetén – a szülőn kívül a gyermek más, a gyermekkel közös háztartásban élő hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont] számára is megállapítható, ha
+
+- a) a szülő meghalt, vagy a gyermek állandó és tartós gondozásában a saját egészségi állapotára figyelemmel akadályozottá vált, vagy
+- b) a szülő szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a), c), e) vagy h) pontja vagy 4:186. § (2) bekezdése alapján szünetel, illetve azt a bíróság megszüntette.
 
 (2) A szülő egészségi állapotára figyelemmel fennálló akadályozottság tényét és várható időtartamát a járási hivatal a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott igazolás alapján állapítja meg.
 
@@ -3577,6 +3581,10 @@ járul hozzá.
 
 - a) a 2021. január 1-jét megelőzően, étkeztetésre vonatkozóan kiadott szakhatósági állásfoglalások alapján a fenntartó kérelmének megfelelően kell bejegyezni a szociális konyha vagy népkonyha szolgáltatási formát,
 - b) 2021. január 1-jét követően a népkonyha szolgáltatás ellátási területének módosítása esetében az adatmódosítás feltétele a bővített ellátási terület szerint érintett valamennyi települési, fővárosi kerületi önkormányzat hozzájárulása.
+
+134/K. § (1) A szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv.) megállapított 39. § (1) bekezdését a Módtv. hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(2) A Módtv. hatálybalépését megelőző napon hatályos 39. § (1) bekezdése alapján gyermekek otthongondozási díjában részesülő hozzátartozó jogosultsága az e törvény szerinti – 39. § (1) bekezdésén kívüli – jogosultsági feltételek fennállásáig nem szüntethető meg.
 
 135. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel megállapított 45. § (2a) bekezdését a 2015. február 28-án hatályos 43/B. § alapján 2015. március 1-jét megelőző kezdő időponttal megállapított és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjra is alkalmazni kell.
 

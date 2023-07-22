@@ -406,10 +406,12 @@ A kérelem automatikus döntéshozatali eljárásban, sommás vagy teljes eljár
 
 Automatikus döntéshozatalnak van helye, ha
 
-- a) azt törvény vagy kormányrendelet megengedi,
-- b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll, vagy azokat automatikus információátvétel útján meg tudja szerezni,
-- c) a döntés meghozatala mérlegelést nem igényel, és
-- d) nincs ellenérdekű ügyfél.
+- a) az Eüsztv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak és nincs ellenérdekű ügyfél, vagy
+- b) a kérelem tekintetében
+  - ba) törvény vagy kormányrendelet lehetővé teszi,
+  - bb) a hatóság részére a benyújtásakor minden adat rendelkezésére áll,
+  - bc) a döntés meghozatala mérlegelést nem igényel, és
+  - bd) nincs ellenérdekű ügyfél.
 
 #### 41. § [A sommás eljárás]
 
@@ -1645,7 +1647,7 @@ vonatkozó szabályokat.
 
 Ez a törvény 2018. január 1. napján lép hatályba.
 
-142. §
+#### 142. §
 
 #### 81. Átmeneti rendelkezések
 
