@@ -1811,7 +1811,7 @@ ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi 
 (10) A kormánytisztviselő
 
 - a) pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve a helyi önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat;
-- b) nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy állam által alapított vagy az állam által létrehozott szervezet által önállóan, vagy más állam által alapítottal, állam által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítvány közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító tulajdonosi részesedés alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
+- b) nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy állam által alapított vagy az állam által létrehozott szervezet által önállóan, vagy más állam által alapítottal, állam által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítvány közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító megállapodás vagy részesedés alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
 
 (11) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, auditbizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
@@ -3399,7 +3399,19 @@ tárgyában.
 
 (15) A Közszolgálati Döntőbizottság az eljárásában érvényesített igény elbírálása céljából, azzal összefüggésben megismert személyes adatokat az adatkezelés céljának megvalósulásáig, de legkésőbb az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltárba adásáig kezeli.
 
-#### 169. §
+#### 169. § [A Közszolgálati Döntőbizottság határozatainak nyilvánossága]
+
+(1) A Közszolgálati Döntőbizottság a véglegessé vált határozatot (e § alkalmazásában a továbbiakban: határozat) a véglegesség megállapításától számított harminc napon belül a honlapján közzéteszi.
+
+(2) A közzétett határozatban szereplő személyek azonosítását lehetővé tevő adatokat – a (3) bekezdésben foglaltak kivételével – törölni kell, amely nem járhat a megállapított tényállás sérelmével. A közzétett határozatban szereplő egyes személyeket az eljárásban betöltött szerepüknek megfelelően kell megjelölni.
+
+(3) A közzétett határozatból nem kell törölni
+
+- a) a kormányzati igazgatási szerv nevét,
+- b) a képviselőként eljárt ügyvéd, kamarai jogtanácsos, a kormányzati igazgatási szerv vezetője, tisztviselője nevét,
+- c) a közérdekből nyilvános adatot.
+
+(4) A határozat szövegében a (2) és (3) bekezdésben meghatározottakon túl további szerkesztés nem végezhető.
 
 ### XXIII. Fejezet — AZ ÉRDEKEGYEZTETÉS
 
@@ -5299,6 +5311,10 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 #### 300/A. § [Átmeneti rendelkezés az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvényhez]
 
 E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel megállapított 230. § (2) bekezdése alapján az illetményt első alkalommal 2024. július 1. napjával kell megállapítani.
+
+#### 300/B. § [Átmeneti rendelkezés a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvényhez]
+
+E törvénynek a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv6.) megállapított 169. §-át a Módtv6. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 301. §
 

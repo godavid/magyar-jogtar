@@ -194,11 +194,19 @@ teljesítheti.
 
 #### 5. Automatikus döntéshozatali eljárás
 
-11. § (1) Jogszabályban meghatározott feltételek fennállása esetén az elektronikus ügyintézést biztosító szerv az eljárást automatikus döntéshozatal útján folytatja le. Az elektronikus ügyintézést biztosító szerv automatikus döntéshozatal esetén a rendelkezésére álló, valamint az automatikus információátvétel útján megszerzett adatok alapján, emberi közbeavatkozás nélkül hozza meg a döntését és közli az ügyféllel.
+11. § (1) Az elektronikus ügyintézést biztosító szerv az eljárást automatikus döntéshozatal útján folytathatja le, ha
 
-(2) Kérelemre induló automatikus döntéshozatali eljárás során az ügyfél az elektronikus azonosítást követően az elektronikus ügyintézést biztosító szerv által biztosított elektronikus űrlap útján nyújtja be kérelmét.
+- a) kérelemre indult ügy esetén az ügyfél a kérelmét elektronikus úton nyújtja be,
+- b) a döntés meghozatala mérlegelést nem igényel és
+- c) az ügy intézéséhez szükséges adatok automatizált feldolgozásra alkalmas módon az elektronikus ügyintézést biztosító szerv rendelkezésére állnak, vagy azokat automatikus információátvétel útján, automatizált feldolgozásra alkalmas formátumban átveszi.
 
-(3) Az elektronikus ügyintézést biztosító szerv a honlapján, valamint a személyre szabott ügyintézési felületen is elérhető módon közzéteszi az alkalmazott döntéshozatali eljárás módszertanát és lényeges szabályait.
+(2) Automatikus döntéshozatal esetén az elektronikus ügyintézést biztosító szerv emberi közbeavatkozás nélkül hozza meg az eljárást lezáró és az ügyintézéshez szükséges egyéb döntéseket és gondoskodik az ügyféllel való közlésről. Az elektronikus ügyintézést biztosító szerv közli az ügyféllel, ha a döntést automatikus döntéshozatali eljárásban hozta meg.
+
+(3) Az ügyintézéshez szükséges egyéb döntés, értesítés emberi közbeavatkozás nélkül akkor is meghozható, ha az eljárást az elektronikus ügyintézést biztosító szerv nem automatikus döntéshozatal útján folytatja le.
+
+(4) Nincs helye automatikus döntéshozatali eljárásnak, ha azt az adott ügyben törvény vagy kormányrendelet kizárja.
+
+(5) Az elektronikus ügyintézést biztosító szerv a személyre szabott ügyintézési felületen elérhető módon, valamint a 10. § b) pontja szerinti elektronikus út biztosítása esetén alkalmazott ügyintézési felületen közzéteszi az automatikus döntéshozatali eljárás módszertanát és lényeges szabályait.
 
 #### 6. Átjárás a papír alapú és az elektronikus ügyintézés között
 
@@ -832,7 +840,8 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - n) általános célú elektronikus kéreleműrlap szolgáltatás,
 - o) összerendelési nyilvántartás.
 - p) szerepkör-tanúsító platform szolgáltatás,
-- q) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
+- q) automatikus közigazgatási döntéshozatali rendszer,
+- r) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
 
 (2) Amennyiben a központi elektronikus ügyintézési szolgáltatás igénybevételéhez regisztráció szükséges, a regisztrációra jogszabály eltérő rendelkezése hiányában kizárólag elektronikus azonosítási szolgáltatással kerülhet sor. A regisztráció során az elektronikus azonosítási szolgáltató az igénybe vevő hozzájárulása alapján jogosult a kijelölt szolgáltató részére átadni a regisztrációhoz szükséges, az elektronikus azonosítási szolgáltató által kezelt személyes adatokat.
 
@@ -1966,7 +1975,7 @@ kell biztosítani.
 - c) a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal kapcsolatos részletszabályokat,
 - d) a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat.
 
-(6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért, a szabályozott elektronikus ügyintézési szolgáltatásokat érintő változások bejelentésért fizetendő igazgatási szolgáltatási díj mértékét, a díj megfizetésével, kezelésével, nyilvántartásával kapcsolatos szabályokat rendeletben állapítsa meg.
+(6)
 
 106. § Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy
 

@@ -173,9 +173,9 @@ nyújt [az a)–c) pont a továbbiakban együtt: tájékoztatási szolgáltatás
 
 12. § (1) A nemzeti adatvagyon részét képező adatállomány tekintetében törvény az adatfeldolgozással megbízható személyek és szervezetek körét korlátozhatja, vagy az adatfeldolgozásnak az adatkezelőtől különböző személy vagy szervezet általi ellátását kizárhatja.
 
-(2) Ha törvény arról rendelkezik, hogy az adatfeldolgozást csak államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet láthatja el, az adatkezelő kizárólag a Kormány rendeletében az adott nyilvántartás tekintetében meghatározott szervvel vagy szervezettel köthet adatfeldolgozási szerződést. Ha a Kormány rendelete az adott nyilvántartás tekintetében meghatározott adatfeldolgozó igénybevételét teszi kötelezővé, az adatkezelő ezen adatfeldolgozót bízza meg az adatfeldolgozással.
+(2) Ha törvény arról rendelkezik, hogy az adatfeldolgozást csak államigazgatási szerv vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti, belföldi székhelyű átlátható szervezet láthatja el, az adatkezelő kizárólag a Kormány rendeletében az adott nyilvántartás tekintetében meghatározott szervvel vagy szervezettel köthet adatfeldolgozási szerződést. Ha a Kormány rendelete az adott nyilvántartás tekintetében meghatározott adatfeldolgozó igénybevételét teszi kötelezővé, az adatkezelő ezen adatfeldolgozót bízza meg az adatfeldolgozással.
 
-(3) A Kormány rendeletben határozza meg a (2) bekezdés szerinti államigazgatási szerveket és kizárólagos állami tulajdonú gazdálkodó szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a (2) bekezdés szerinti adatfeldolgozó megbízására az adatkezelő köteles.
+(3) A Kormány rendeletben határozza meg a (2) bekezdés szerinti államigazgatási szerveket és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti, belföldi székhelyű átlátható szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a (2) bekezdés szerinti adatfeldolgozó megbízására az adatkezelő köteles.
 
 (4) A (3) bekezdés szerinti kormányrendelet az adatfeldolgozók körének meghatározásáról – ideértve az adatfeldolgozó kötelező megbízásának esetét – az elektronikus adatfeldolgozásra és a nem elektronikus adatfeldolgozásra külön-külön is rendelkezhet.
 
@@ -206,7 +206,7 @@ rendeletben jelölje ki.
 - f) a közfeladatot ellátó szerv és az együttműködő szerv részére az adatoknak az e törvény szerint rendelkezésre bocsátásával összefüggésben felmerült többletköltségek megállapítására vonatkozó részletes szabályokat,
 - g) a 16. § (1) bekezdése szerinti nyilvántartásokat.
 
-(3) Felhatalmazást kap a Kormány, hogy a 12. § (2) bekezdése szerinti államigazgatási szerveket és kizárólagos állami tulajdonú gazdálkodó szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a 12. § (2) bekezdése szerinti adatfeldolgozó megbízására az adatkezelő köteles, rendeletben határozza meg.
+(3) Felhatalmazást kap a Kormány, hogy a 12. § (2) bekezdése szerinti államigazgatási szerveket és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti, belföldi székhelyű átlátható szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a 12. § (2) bekezdése szerinti adatfeldolgozó megbízására az adatkezelő köteles, rendeletben határozza meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a kulcsszolgáltató szervezet tevékenységének ellátásáért fizetendő igazgatási szolgáltatási díjra, valamint annak beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
 

@@ -228,7 +228,11 @@ lép.
 
 (2)
 
-(3)
+(3) Az államháztartásról szóló 2011. évi CXCV. törvény 56/B. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) Ha a támogató vagy a támogató nevében eljáró szervezet az 56/C. § (1) bekezdése szerinti, 2023. január 1-jétől rögzítendő támogatási döntéshez kapcsolódó adatátadását nem teljesítette, a kincstár határozatában a Kormány rendeletében meghatározott mértékű bírságot szab ki.
+
+(4) A (3) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.”
 
 #### 78. §
 
@@ -250,7 +254,9 @@ lép.
 
 #### 84. §
 
-#### 85. §
+85. § Az államháztartásról szóló 2011. évi CXCV. törvény 111. §-a a következő (39) bekezdéssel egészül ki:
+
+„(39) Az 56/B. § (3) bekezdése szerinti bírság megállapítása a 2023. január 1. és 2023. augusztus 31-e között rögzítendő támogatási döntések tekintetében nem alkalmazható, amennyiben a támogató vagy a támogató nevében eljáró szervezet a kapcsolódó adatátadásnak 2023. augusztus 31-éig eleget tett.”
 
 #### 86. §
 

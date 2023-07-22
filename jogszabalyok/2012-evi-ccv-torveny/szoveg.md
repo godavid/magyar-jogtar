@@ -879,17 +879,17 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 (9) Az állomány tagjának a megbízás megszüntetésére irányuló kérelme elutasítása esetén a megbízás fenntartását indokolni kell.
 
-#### 33. A határozott időre szóló kinevezés, előléptetés
+#### 33. Egyes kinevezések, előléptetés
 
-56. § (1) A Honvéd Vezérkar főnöki és a Magyar Honvédség vezénylő zászlósi beosztásba történő kinevezés határozott időre, legfeljebb 5 évre szól. A kinevezés legfeljebb 5 év időtartamban meghosszabbítható.
+56. § (1) A Honvéd Vezérkar főnöki és a Magyar Honvédség vezénylő zászlósi beosztásba történő kinevezés határozatlan időre szól.
 
 (2) A Honvéd Vezérkar főnöke – egyéb feltételek fennállása esetén – kizárólag kérelmére helyezhető át nyugdíj előtti rendelkezési állományba.
 
 57. § (1) Ha az állomány 42. § (2) bekezdés b)–f) pontja alapján vezényelt tagjának viselt rendfokozata egy rendfokozati szinttel eltér a vezénylés idejére tervezett általános előmeneteli rendű beosztáshoz rendszeresített, illetve alacsonyabb a vezénylés idejére tervezett speciális előmeneteli rendű beosztásban elérhető, jogszabályban meghatározott rendfokozattól, az állomány tagja a vezénylés vagy a vezénylés során adott beosztás betöltésének időtartamára egy rendfokozattal magasabb rendfokozatba előléptethető, kinevezhető vagy részére eggyel alacsonyabb rendfokozat állapítható meg.
 
-(1a) A 42. § (2) bekezdés b)–f) pontja szerinti vezénylés megszűnése, megszüntetése esetén az (1) bekezdés alapján a vezénylés időtartamára meghatározott rendfokozat külön munkáltatói döntés nélkül megszűnik.
+(2) A 42. § (2) bekezdés b)–f) pontja szerinti vezénylés megszűnése, megszüntetése esetén az (1) bekezdés alapján a vezénylés időtartamára meghatározott rendfokozat külön munkáltatói döntés nélkül megszűnik.
 
-(2) A vezénylés megszűnését, megszüntetését követően a 46. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy megfelelő szolgálati beosztásnak a viselt rendfokozatnak megfelelő beosztás minősül.
+(3) A vezénylés megszűnését, megszüntetését követően a 46. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy megfelelő szolgálati beosztásnak a viselt rendfokozatnak megfelelő beosztás minősül.
 
 #### 34. A szolgálati viszony szünetelése
 
@@ -4079,6 +4079,8 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 - b) a 114. § szerinti apai pótszabadságot igénybe vette, annak és a Módtv8. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
 
 (2) Ha az állomány tagjának gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – az állomány tagja kérésének megfelelő időpontban – legkésőbb a 2023. június 30-ig terjedő időszakban kell kiadni.
+
+246/B. § A szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv9.) megállapított 56. § (1) bekezdését a Módtv9. hatálybalépése előtt kinevezett Honvéd Vezérkar főnöke, és a Magyar Honvédség vezénylő zászlósi beosztása esetében is alkalmazni kell azzal, hogy a határozott idejű kinevezése e törvény erejénél fogva, a Módtv9. hatálybalépése napjával határozatlan idejű kinevezésre módosul.
 
 247. § (1) 2013. július 1-jén érvényes ösztöndíjszerződéssel rendelkező, polgári felsőoktatási intézményben tanuló honvédségi ösztöndíjasok állományba vételére az ösztöndíjszerződésben foglaltak az irányadók.
 

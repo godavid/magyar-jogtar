@@ -127,10 +127,12 @@ vezetnek.
 
 (3) Az (1) bekezdés szerinti nyilvántartás adatainak megismerésére jogosult
 
-- a) a miniszter,
-- b) a védelemgazdaság központi tervező szerve,
-- c) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
-- d) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+- a) a miniszterelnök,
+- b) a miniszter,
+- c) a védelemgazdaság központi tervező szerve,
+- d) a védelmi és biztonsági igazgatás központi szervének vezetője,
+- e) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
+- f) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
 
 10. § A 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv által jogszabály alapján vagy egyedileg, határozattal meghagyásba bevont személy és szerv a jogszabályban meghatározott meghagyási jegyzéket – a határozat kézbesítésétől számított 30 napon belül – megküldi a 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv részére.
 

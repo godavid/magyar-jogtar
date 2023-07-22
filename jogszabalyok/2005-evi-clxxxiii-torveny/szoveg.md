@@ -1160,13 +1160,13 @@ hagyja jóvá a közlekedési hatóság.
 (5a) Az éves felügyeleti díj mértéke:
 
 - a) pályahálózat-működtető, valamint vertikálisan integrált vállalkozás vasúti pályahálózatot működtető szervezeti egysége esetén
-  - aa) 200 km üzemeltetett vasúti hálózatig: 1 016 000 forint,
-  - ab) 200 km feletti üzemeltetett vasúti hálózatnál: 1 845 000 forint,
+  - aa) 200 km üzemeltetett vasúti hálózatig: 2 540 000 forint,
+  - ab) 200 km feletti üzemeltetett vasúti hálózatnál: 4 612 500 forint,
 - b) vállalkozó vasúti társaság, valamint vertikálisan integrált vállalkozás vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
-  - ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 601 000 forint,
-  - bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 782 000 forint,
-  - bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 1 024 000 forint;
-- c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 421 000 forint,
+  - ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 1 502 000 forint,
+  - bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 1 955 000 forint,
+  - bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 2 560 000 forint,
+- c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 052 500 forint,
 - d)
 - e)
 - f) a kizárólag történelmi és muzeális vasúti járműveket üzembentartó vasúti társaságok egységes biztonsági tanúsítványa esetén a b)–f) pontokban meghatározott díjtételek 30%-a.
@@ -1336,10 +1336,10 @@ műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fen
 (7) Az éves felügyeleti díj mértéke
 
 - a) a vasúti járművek gyártását, javítását végző személyek és szervezetek
-  - aa) járműgyártása, főjavítás végzése esetén 967 000 forint,
-  - ab) fővizsgák végzése esetén 725 000 forint,
-  - ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 484 000 forint,
-- b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 727 000 forint.
+  - aa) járműgyártása, főjavítás végzése esetén 2 417 500 forint,
+  - ab) fővizsgák végzése esetén 1 812 500 forint,
+  - ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 1 210 000 forint,
+- b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.
 
 ### TÍPUSENGEDÉLY
 
@@ -2699,6 +2699,8 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 (2) Az e törvényben, valamint e törvény felhatalmazása alapján kiadott jogszabályban meghatározott adatszolgáltatásokat azok kötelezettjei elektronikusan, az (1) bekezdés szerinti elektronikus információs rendszer útján kötelesek teljesíteni.
 
 (3) Az (1) bekezdés szerinti elektronikus információs rendszer üzembe helyezése, annak naprakészen tartása érdekében az e törvényben, valamint e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, adatszolgáltatásra kötelezett szervezetek a közlekedési hatóság felhívására, az abban meghatározott módon és határidőben kötelesek az adatszolgáltatási kötelezettség alá eső adataikat, adatállományokat, tömeges adatállományaikat – az elektronikus információs rendszer üzembe helyezéséhez szükséges adatfeltöltés, valamint a rendszeres adatszolgáltatás teljesítése érdekében – elektronikus úton a közlekedési hatóság részére átadni.
+
+(3a) A közlekedési hatóság a (3) bekezdésben meghatározott adatszolgáltatási kötelezettség nem határidőben, valamint nem megfelelő adattartalommal történő teljesítése esetén közigazgatási bírságot szabhat ki, amelynek mértéke 50 millió forintig terjedhet.
 
 (4) A személyiadat- és lakcímnyilvántartást kezelő szerv
 
