@@ -1246,6 +1246,8 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 
 (4) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a halgazdálkodásra nem jogosult természetes vagy jogi személyre, aki halgazdálkodási vízterületen halgazdálkodási tevékenységet folytat, ideértve különösen a horgászat lehetővé tételét állami horgászjegy és horgász fogási napló vagy turista állami horgászjegy és fogási napló nélkül, továbbá a jogosulatlan haltelepítést.
 
+(4a) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a természetes vagy jogi személyre, aki vagy amely halgazdálkodási vízterületről kifogott halat – a 8. § (1) és (2) bekezdése szerint történő állománymentés és a mesterséges körülmények közötti szaporítási célból fogott halak halgazdálkodási hatóság engedélyével végzett telepítésének, valamint a horgászati célú haltermelés keretében a horgászathoz szükséges halállomány biztosításának, továbbá a 13. § (2) bekezdése szerint a halgazdálkodási vízterületről kifogott nem őshonos halak haltermelési létesítménybe halhústermelési vagy takarmányozási célból végzett telepítésének kivételével – más halgazdálkodási vízterületre, illetve haltermelési létesítménybe telepít.
+
 (5) A halgazdálkodási bírság legkisebb összege ötvenezer forint, legmagasabb összege ötmillió forint, a jogsértő személyére tekintet nélkül.
 
 67. § (1) A halgazdálkodási hatóság halvédelmi bírságot szab ki
@@ -1272,6 +1274,8 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 - t) a 34. §-ban foglalt kötelezettséget megszegő,
 - u) nem nyilvántartott halgazdálkodási vízterületre területi jegyet kiadó, ott horgászatot engedélyező, vagy onnan térítés nélkül vagy térítésért őshonos halfaj elvitelét engedélyező,
 - v) a 21. § (1a) bekezdésében meghatározott tilalmat megszegő
+- w) a kifogott hal tárolására vonatkozó szabályokat megszegő,
+- x) a megfogott halnak a halász-, illetve horgászmódszerből adódó elkerülhetetlen minimumot meghaladó fizikai sérülést okozó
 
 személlyel szemben.
 

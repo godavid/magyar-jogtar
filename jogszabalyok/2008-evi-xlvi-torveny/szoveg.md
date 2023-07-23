@@ -1681,6 +1681,7 @@ esetén.
   - ao) a gombaszakellenőri tevékenység folytatására
   - ap) az élelmiszerláncban felhasználásra szánt fertőtlenítőszerek előállítására, forgalmazására, felhasználására;
   - aq) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására és forgalomba hozatalára
+  - ar) a nem állami laboratóriumok működésére
 
 vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előírásokat megszegi;
 
