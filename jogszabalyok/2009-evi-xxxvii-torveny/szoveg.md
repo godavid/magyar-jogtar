@@ -287,7 +287,7 @@ erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivé
 
 (7) Az erdészeti hatóság a szabad rendelkezésű erdőt a földhasználati nyilvántartásban szereplő földhasználónak – a tulajdonos és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának hozzájárulásával benyújtott – kérelmére átminősíti a 6. § (1) bekezdés a) pontja szerinti erdővé.
 
-(8) A szabad rendelkezésű erdő esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire (45. §), a károsítók károkozása elleni védelemre (58. és 59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, 61. § (2) bekezdés], az erdő talajának védelmére (62. § és 63. §), az erdő tűz elleni védelmére (64–67. §), erdőgazdálkodási célú erdei járműforgalomra (87. § és 88. §), az erdő látogatására (91–96. §), valamint a bejelentési kötelezettségre (102. §) vonatkozó rendelkezéseket is alkalmazni kell.
+(8) A szabad rendelkezésű erdő esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire (45. §), a károsítók károkozása elleni védelemre (58. és 59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, 61. § (2) bekezdés], az erdő talajának védelmére (62. § és 63. §), az erdő tűz elleni védelmére (64–67. §), erdőgazdálkodási célú erdei járműforgalomra (87. § és 88. §), az erdő látogatására (91–96. §), a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §), valamint az erdőben folyó tevékenységtől történő eltiltásra (111/B. §) vonatkozó rendelkezéseket is alkalmazni kell.
 
 ### A fásítás
 
@@ -300,7 +300,7 @@ erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivé
 
 (3) Fásításban tervezett – a fa tövében mérve – 10 centimétert meghaladó átmérőjű fa kitermelését, annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(4) Fásítás esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire [45. § (1) és (3)–(6) bekezdés], a károsítók károkozása elleni védelemre (58. § és 59. §), az erdő tűz elleni védelmére (64–67. §), valamint a bejelentési kötelezettségre (102. §) vonatkozó rendelkezéseket is alkalmazni kell.
+(4) Fásítás esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire [45. § (1) és (3)–(6) bekezdés], a károsítók károkozása elleni védelemre (58. § és 59. §), az erdő tűz elleni védelmére (64–67. §), a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §) valamint az erdőben folyó tevékenységtől eltiltásra (111/B. §) vonatkozó rendelkezéseket is alkalmazni kell.
 
 ### Erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
 

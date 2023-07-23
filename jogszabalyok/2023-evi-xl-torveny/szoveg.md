@@ -4,15 +4,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1. § (1)
-
-(2)
-
-(3) A közúti közlekedésről szóló 1988. évi I. törvény 18. §-a a következő (12a) és (12b) bekezdéssel egészül ki:
-
-„(12a) A vizsga nélküli tehergépkocsi-vezető, valamint az autóbuszvezető-továbbképzési szaktanfolyamot igazoltan elvégzők tekintetében a képző szerv felügyeleti díjat fizet a közlekedési hatóság részére. A felügyeleti díj összege megegyezik a továbbképzést vizsgával elvégzők vizsgadíjának összegével.
-
-(12b) A (12a) bekezdésben meghatározott közlekedési hatósági felügyeleti tevékenységben a vizsgaközpont az általa végzett képzésfelügyelet útján közreműködik. A képző szerv a felügyeleti díjat negyedévente, a negyedévet követő hónap 15. napjáig – első alkalommal 2023. október 15. napjáig – a közlekedési hatóság részére fizeti meg. A felügyeleti díj 70%-a a közlekedési hatóságot, 30%-a a vizsgaközpontot illeti meg. A vizsgaközpontot megillető rész megfizetéséről a közlekedési hatóság gondoskodik. A felügyeleti díjat a közlekedési hatóság az ellenőrzési, felügyeleti, a vizsgaközpont a képzésfelügyeleti feladataival összefüggésben használhatja fel.”
+#### 1. §
 
 #### 2. §
 
@@ -24,13 +16,9 @@ egyes közlekedési tárgyú törvények módosításáról
 
 (2)
 
-5. § A közúti közlekedésről szóló 1988. évi I. törvény 22. §-a a következő (3a) bekezdéssel egészül ki:
+#### 5. §
 
-„(3a) A muzeális minősítő szervezet által kiadott, a járművek muzeális minősítését tanúsító érvényes muzeális jármű-igazolással rendelkező jármű – ide nem értve a közlekedési hatóság által kiadott összeépítési engedély alapján összeépített járművet – a magyarországi első forgalomba helyezési eljárásában mentesül a közlekedési hatóság által kiadott egyedi forgalomba helyezési engedély meglétének kötelezettsége alól.”
-
-6. § A közúti közlekedésről szóló 1988. évi I. törvény a következő 24/B. §-sal egészül ki:
-
-„24/B. § A polgári nemzetbiztonsági szolgálatok – ha az általuk üzemeltetett jármű (a továbbiakban: szolgálati jármű) forgalomba helyezés előtti vagy időszakos vizsgálatát a polgári nemzetbiztonsági szolgálatok vizsgáló állomásán végzik – mentesülnek a szolgálati járműveik forgalomba helyezés előtti és időszakos műszaki vizsgálatával, valamint hatósági engedéllyel és jelzéssel történő ellátásával kapcsolatos hatósági eljárások díjainak megfizetése alól.”
+#### 6. §
 
 #### 7. §
 
@@ -116,13 +104,9 @@ lép.
 
 #### 23. §
 
-24. § A légiközlekedésről szóló 1995. évi XCVII. törvény a következő 79/A. §-sal egészül ki:
+#### 24. §
 
-„79/A. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2023. évi XL. törvénnyel megállapított 1. mellékletében meghatározottak szerinti felügyeleti díjat, vagy az 1. melléklet szerinti felügyeleti díj és a 2023. január 31. napjáig befizetett felügyeleti díj különbözetét 2023. szeptember 30. napjáig kell megfizetni.”
-
-25. § (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 1. melléklete helyébe az 1. melléklet lép.
-
-(2)
+#### 25. §
 
 #### 26. §
 
@@ -176,31 +160,13 @@ lép.
 
 #### 45. §
 
-46. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 82/B. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A közlekedési hatóság a (3) bekezdésben meghatározott adatszolgáltatási kötelezettség nem határidőben, valamint nem megfelelő adattartalommal történő teljesítése esetén közigazgatási bírságot szabhat ki, amelynek mértéke 50 millió forintig terjedhet.”
+#### 46. §
 
 #### 47. §
 
 #### 48. §
 
-49. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
-
-- a) 35. § (5a) bekezdés a) pont aa) alpontjában az „1 016 000 forint,” szövegrész helyébe a „2 540 000 forint,” szöveg,
-- b) 35. § (5a) bekezdés a) pont ab) alpontjában az „1 845 000 forint,” szövegrész helyébe a „4 612 500 forint,” szöveg,
-- c) 35. § (5a) bekezdés b) pont ba) alpontjában a „601 000 forint,” szövegrész helyébe az „1 502 000 forint,” szöveg,
-- d) 35. § (5a) bekezdés b) pont bb) alpontjában a „782 000 forint,” szövegrész helyébe az „1 955 000 forint,” szöveg,
-- e) 35. § (5a) bekezdés b) pont bc) alpontjában az „1 024 000 forint;” szövegrész helyébe a „2 560 000 forint,” szöveg,
-- f) 35. § (5a) bekezdés c) pontjában a „421 000 forint,” szövegrész helyébe az „1 052 500 forint,” szöveg,
-- g)
-- h) 36/I. § (7) bekezdés a) pont aa) alpontjában a „967 000 forint,” szövegrész helyébe a „2 417 500 forint,” szöveg,
-- i) 36/I. § (7) bekezdés a) pont ab) alpontjában a „725 000 forint,” szövegrész helyébe az „1 812 500 forint,” szöveg,
-- j) 36/I. § (7) bekezdés a) pont ac) alpontjában a „484 000 forint,” szövegrész helyébe az „1 210 000 forint,” szöveg,
-- k) 36/I. § (7) bekezdés b) pontjában a „727 000 forint.” szövegrész helyébe az „1 817 500 forint.” szöveg,
-- l)
-- m)
-
-lép.
+#### 49. §
 
 50. § Hatályát veszti a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
 
@@ -328,86 +294,5 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 való megfelelést szolgálja.
 
 ### 1. melléklet a 2023. évi XL. törvényhez
-
-„1. melléklet az 1995. évi XCVII. törvényhez
-
-Felügyeleti díjak
-
-| A | B | C |
-| --- | --- | --- |
-| Sorszám | Légiközlekedési hatósági eljárások megnevezése | Díj (forintban) |
-| I. A 1178/2011 EU rendelet és a 1321/2014 EU rendelet alapján deklarált vagy engedélyezett, szakszolgálati engedélyekhez képzéseket nyújtó szervezetek, repülés szimulációs oktatóeszközt üzemben tartó szervezetek és repülőorvosi központok |  |  |
-| 1. | Légitársasági pilóta, kereskedelmi pilóta és többfős személyzet pilóta szakszolgálati engedélyekhez és kapcsolódó tanúsítványokhoz és jogosításokhoz képzéseket nyújtó, jóváhagyott képző szervezet (ATO) éves felügyelete | 2 000 000 |
-| 2. | Kizárólag magánpilóta, vitorlázó pilóta, ballon pilóta szakszolgálati engedélyekhez, valamint könnyű légijárműre érvényes pilóta szakszolgálati engedélyekhez és kapcsolódó tanúsítványokhoz és jogosításokhoz képzéseket nyújtó, jóváhagyott képző szervezet (ATO) éves felügyelete | 800 000 |
-| 3. | Karbantartás-oktató szervezet éves felügyelete | 800 000 |
-| 4. | Alapszintű műszeres repülésgyakorló berendezés (BITD) éves felügyelete minősítő bizonyítványonként | 100 000 |
-| 5. | Repülés- és navigációseljárás-gyakorló berendezés (FNPT) éves felügyelete minősítő bizonyítványonként | 500 000 |
-| 6. | Teljes repülésszimulátor (FFS) és repülésgyakorló berendezés (FTD) éves felügyelete minősítő bizonyítványonként | 2 000 000 |
-| 7. | Repülőorvosi központ éves felügyelete | 800 000 |
-| 8. | Bejelentett képző szervezetek (DTO) éves felügyelete | 500 000 |
-| 9. | Légiutaskísérő alapképző szervezet éves felügyelete | 500 000 |
-| 10. | Nyelvismereti értékelő testület éves felügyelete | 500 000 |
-| II. A 29. § (1) bekezdése, illetve a 748/2012 EU rendelet alapján engedélyezett, légijárműveket és komponenseket gyártó szervezetek |  |  |
-| 1. | Ejtőernyő, siklóernyő, ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművet gyártó szervezet tevékenységének éves felügyelete | 740 000 |
-| 2. | Egyhajtóműves légijárművet gyártó szervezet tevékenységének éves felügyelete | 1 300 000 |
-| 3. | Gázturbinás és többhajtóműves légijárművet gyártó szervezet éves felügyelete, légijárműtípusonként. | 5 000 000 |
-| 4. | Légijárműberendezés- és -alkatrész-gyártó, összeszerelő szervezet éves felügyelete | 900 000 |
-| III. A 29. § (1) bekezdése, illetve a 1321/2014 EU rendelet alapján engedélyezett, légijárműveket és komponenseiket karbantartó szervezetek |  |  |
-| 1. | Ejtőernyő, siklóernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, valamint máshová nem sorolt légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet éves felügyelete egy kategóriára | 250 000 |
-| 2. | Ejtőernyő, siklóernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, valamint máshová nem sorolt légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet éves felügyelete további kategóriánként | 50 000 |
-| 3. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet éves felügyelete egy kategóriára | 250 000 |
-| 4. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet éves felügyelete további kategóriánként | 25 000 |
-| 5. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet felügyelete egy típusra | 750 000 |
-| 6. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet éves felügyelete további típusonként | 75 000 |
-| 7. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet éves felügyelete egy típusra | 1 500 000 |
-| 8. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének éves felügyelete további típusonként | 150 000 |
-| 9. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet éves felügyelete egy hajtóműtípusra | 750 000 |
-| 10. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet éves felügyelete további típusonként | 75 000 |
-| 11. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet éves felügyelete egy hajtóműcsaládra | 300 000 |
-| 12. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet éves felügyelete további típuscsaládonként | 30 000 |
-| 13. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet éves felügyelete egy kategóriára | 750 000 |
-| 14. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet éves felügyelete további kategóriánként | 75 000 |
-| 15. | Légijármű sárkány- vagy hajtóműszerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet éves felügyelete | 500 000 |
-| IV. A 29. § (1) bekezdése, illetve a 1321/2014 EU rendelet alapján engedélyezett, légijármű légialkalmasság fenntartó és légijármű légialkalmasság tanúsító szervezetek |  |  |
-| 1. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete egy légijármű kategóriára | 100 000 |
-| 2. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete további légijármű kategóriánként | 10 000 |
-| 3. | 5700 kg és annál kisebb maximális felszálló tömegű lajstromozott légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete egy légijármű kategóriára. | 250 000 |
-| 4. | 5700 kg és annál kisebb maximális felszálló tömegű lajstromozott légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete további légijármű kategóriánként. | 25 000 |
-| 5. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete egy légijárműtípusra | 750 000 |
-| 6. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete további légijárműtípusonként | 75 000 |
-| 7. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete egy légijárműtípusra | 1 500 000 |
-| 8. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet éves felügyelete további légijárműtípusonként | 150 000 |
-| V. A 965/2012 EU rendelet alapján deklarált vagy engedélyezett, légijárműveket üzemben tartó szervezetek |  |  |
-| 1. | 40000 kg feletti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 19 légijárműig | 3 000 000 |
-| 2. | 40000 kg feletti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 20–44 légijármű esetén | 7 500 000 |
-| 3. | 40000 kg feletti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 45–149 légijármű esetén | 15 000 000 |
-| 4. | 40000 kg feletti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 150 vagy több légijármű felett | 25 000 000 |
-| 5. | 5700 kg feletti, és 40000 kg alatti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 9 légijárműig | 1 500 000 |
-| 6. | 5700 kg feletti, és 40000 kg alatti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 10–24 légijármű esetén | 2 500 000 |
-| 7. | 5700 kg feletti, és 40000 kg alatti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 25 vagy több légijármű felett | 4 000 000 |
-| 8. | 750 kg feletti, és 5700 kg alatti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 4 légijárműig | 1 000 000 |
-| 9. | 750 kg alatti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 4 légijárműig | 500 000 |
-| 10. | 750 kg alatti maximális felszálló tömegű légijárművet üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 5 vagy több légijármű felett | 750 000 |
-| 11. | 5700 kg feletti maximális felszálló tömegű helikoptert üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 4 légijárműig | 500 000 |
-| 12. | 5700 kg feletti maximális felszálló tömegű helikoptert üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 5–9 légijármű esetén | 1 000 000 |
-| 13. | 5700 kg feletti maximális felszálló tömegű helikoptert üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 10 vagy több légijármű felett | 2 500 000 |
-| 14. | 5700 kg alatti maximális felszálló tömegű helikoptert üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 4 légijárműig | 250 000 |
-| 15. | 5700 kg alatti maximális felszálló tömegű helikoptert üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 5 vagy több légijármű felett | 500 000 |
-| 16. | Ballont üzemben tartó szervezet éves felügyelete | 350 000 |
-| VI. A 139/2014 EU rendelet alapján engedélyezett repülőterek |  |  |
-| 1. | I. osztályú repülőteret üzemben tartó szervezet éves felügyelete 700 000 utas /év feletti forgalom esetén | 10 000 000 |
-| 2. | I. osztályú repülőteret üzemben tartó szervezet éves felügyelete 700 000 utas /év alatti forgalom esetén | 5 000 000 |
-| 3. | II. osztályú repülőteret üzemben tartó szervezet éves felügyelete 10 000 utas /év feletti forgalom esetén | 2 500 000 |
-| 4. | II. osztályú repülőteret üzemben tartó szervezet éves felügyelete 10 000 utas /év alatti forgalom esetén | 1 500 000 |
-| VII. A 2017/373 EU rendelet alapján engedélyezett léginavigációs szolgáltatók és légiforgalmi szolgáltatást ellátó szakszemélyzetképző szervezetek |  |  |
-| 1. | CNS szolgáltató éves felügyelete ATC szolgáltatást nyújtó repülőtér esetén | 5 000 000 |
-| 2. | CNS szolgáltatók éves felügyelete AFIS szolgáltatást nyújtó repülőtér esetén | 2 500 000 |
-| 3. | AFIS szolgáltató éves felügyelete kijelölt repülőtéri repüléstájékoztató szolgálatonként | 2 500 000 |
-| 4. | Repülésmeteorológiai szolgáltató éves felügyelete | 5 000 000 |
-| 5. | AFIS képzési szervezet éves felügyelete | 2 000 000 |
-| 6. | ATCO képzési szervezet éves felügyelete | 5 000 000 |
-| 7. | Nyelvismereti vizsgaközpont éves felügyelete | 1 000 000 |
-
-”
 
 ### 2. melléklet a 2023. évi XL. törvényhez

@@ -1419,9 +1419,9 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 - j) aki a vadászkutya vezetőjeként a vadászat megkezdésekor a jogszabályban előírt megkülönböztető jelzéssel a vadászkutyát nem látja el.
 - k) aki vadtenyésztési tevékenységet engedély nélkül folytat, vadat engedély nélkül tart, vadat engedély nélkül szállít, vagy vadat vadászterületre engedély nélkül helyez ki.
 
-(2) Az (1) bekezdés a)–f), i) és j) pontja esetében a vadvédelmi bírság mértéke legalább ötvenezer forint, legfeljebb egymillió forint. A vadvédelmi bírság ismételten is kiszabható.
+(2) A vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább ötvenezer, legfeljebb ötmillió forint. A vadvédelmi bírság ismételten is kiszabható.
 
-(3) Az (1) bekezdés g)–h) és k) pontja szerinti esetben a vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább százezer és legfeljebb ötmillió forint.
+(3)
 
 (4) A törvény alkalmazásában jogosulatlan vadászatnak minősül a 64. § (1) bekezdésében felsorolt igazolások hiányában történő, továbbá a vadászatra jogosult hozzájárulása nélküli vadászat, valamint az, ha a vadász az általa elejtett vadat e törvénynek megfelelően nem jelöli meg.
 
