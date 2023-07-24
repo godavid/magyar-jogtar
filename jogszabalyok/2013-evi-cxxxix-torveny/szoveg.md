@@ -2961,7 +2961,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 164/A. § (1) Az MNB-hez a 39. §-ban meghatározott személy vagy szervezet működésének a szabálytalanságával kapcsolatban bárki bejelentéssel élhet.
 
-(2) Az MNB a hozzá beérkezett bejelentéseket a panaszokról és a közérdekű bejelentésekről szóló törvény (a továbbiakban: Pkbtv.) közérdekű bejelentésre vonatkozó szabályai szerint az e §-ban meghatározott eltéréssel köteles elintézni azzal, hogy ahol a Pkbtv. rendelkezése közérdekű bejelentést említ, azon az e §-ban meghatározott bejelentést kell érteni.
+(2) Az MNB a hozzá beérkezett bejelentéseket a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény (a továbbiakban: Pkbtv.) közérdekű bejelentésre vonatkozó szabályai szerint az e §-ban meghatározott eltéréssel köteles elintézni azzal, hogy ahol a Pkbtv. rendelkezése közérdekű bejelentést említ, azon az e §-ban meghatározott bejelentést kell érteni.
 
 (3) A bejelentés olyan körülményre hívja fel az MNB figyelmét, amely alapján megalapozottan feltehető a 39. §-ban meghatározott személy vagy szervezet működésére vonatkozó törvényben vagy egyéb jogszabályban meghatározott – fogyasztóvédelmi rendelkezések körébe nem tartozó – rendelkezés megsértése. A bejelentés javaslatot is tartalmazhat.
 

@@ -441,19 +441,21 @@ tevékenységét.
 
 (3) Az (1) bekezdés szerinti esetben, ha a visszásság feltárása minősített adatot érintene, az ügyet az alapvető jogok biztosa éves beszámolójával egyidejűleg, vagy – ha a visszásság kirívóan súlyos, illetve a természetes személyek nagyobb csoportját érinti – az éves beszámolót megelőzően, a minősített adat védelméről szóló törvényben meghatározott minősítési szintű jelentésben az Országgyűlés hatáskörrel rendelkező bizottsága elé terjeszti. A napirendre tűzés kérdéséről a bizottság zárt ülésen dönt.
 
-#### 11/A. Közérdekű bejelentések vizsgálata
+#### 11/A. A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvénnyel összefüggő feladatok
 
-38/A. § Az alapvető jogok biztosa vizsgálja a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti közérdekű bejelentéseknek a 18. § (1) bekezdés a)–k) pontja szerinti hatóságok általi kezelésének gyakorlatát, valamint kérelemre az egyes közérdekű bejelentések megfelelő intézését.
+38/A. § (1) Az alapvető jogok biztosa vizsgálja a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentéseknek a 18. § (1) bekezdés a)–k) pontja szerinti hatóságok általi kezelésének gyakorlatát, valamint kérelemre az egyes közérdekű bejelentések megfelelő intézését.
 
-38/B. § (1) Az alapvető jogok biztosa gondoskodik a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti, a közérdekű bejelentések megtételére és nyilvántartására szolgáló elektronikus rendszer (a továbbiakban: elektronikus rendszer) üzemeltetéséről.
+(2) Az alapvető jogok biztosa vizsgálja a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti elkülönített visszaélés-bejelentési rendszerek működésének a gyakorlatát, valamint kérelemre az elkülönített visszaélés-bejelentési rendszerben megtett bejelentések megfelelő intézését.
 
-(2) A 18. § (1) bekezdés a)–k) pontja szerinti hatóságok az alapvető jogok biztosának a feladatai ellátásához szükséges körben adatot szolgáltatnak az elektronikus rendszeren keresztül tett közérdekű bejelentésekkel és azok kivizsgálásával kapcsolatban.
+38/B. § Az alapvető jogok biztosa gondoskodik a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentések védett elektronikus rendszerének üzemeltetéséről.
 
-38/C. § A közérdekű bejelentő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához, ha
+38/C. § (1) A közérdekű bejelentő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához, ha
 
-- a) a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti eljárásra jogosult szerv (a továbbiakban: eljárásra jogosult szerv) a közérdekű bejelentést megalapozatlannak nyilvánítja,
-- b) a közérdekű bejelentő a vizsgálat eredményével nem ért egyet,
-- c) a közérdekű bejelentő álláspontja szerint az eljárásra jogosult szerv a közérdekű bejelentést nem vizsgálta ki teljeskörűen.
+- a) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti eljárásra jogosult szerv (a továbbiakban: eljárásra jogosult szerv) a közérdekű bejelentést megalapozatlannak nyilvánítja,
+- b) a közérdekű bejelentő a vizsgálat eredményével nem ért egyet, vagy
+- c) a közérdekű bejelentő álláspontja szerint az eljárásra jogosult szerv a közérdekű bejelentést nem vizsgálta ki teljes körűen.
+
+(2) Az elkülönített visszaélés-bejelentési rendszerben bejelentést tevő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához az (1) bekezdésben meghatározott esetekben, illetve ha a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti, az elkülönített visszaélés-bejelentési rendszerre vonatkozó szabályokat nem tartották meg.
 
 38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
 
@@ -777,6 +779,7 @@ tevékenységét.
 - b) a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének alkalmazásáról szóló, 2000. június 29-i 2000/43/EK tanácsi irányelvnek,
 - c) a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról szóló, 2004. december 13-i 2004/113/EK tanácsi irányelvnek, és
 - d) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK tanácsi irányelvnek
+- e) az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
