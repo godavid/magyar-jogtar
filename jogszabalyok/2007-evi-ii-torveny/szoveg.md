@@ -1574,7 +1574,7 @@ illetve végrehajtására vonatkozó tilalom
 - d) az élelmezésének saját költségén történő kiegészítésére;
 - e) vallásának gyakorlására, ideértve a vallási előírásoknak megfelelő étkezést is;
 - f) a rendelkezésre álló közművelődési lehetőségek igénybevételére;
-- g) kifogás, kérés, panasz, közérdekű bejelentés megtételére;
+- g) kifogás, kérés, panasz, közérdekű bejelentés, visszaélés-bejelentés megtételére;
 - h) napi legalább egy óra időtartamú szabad levegőn tartózkodásra;
 - i) a kiskorú őrizetes jogosult továbbá szabadidős tevékenységek végzésére, beleértve a korának megfelelő játék- és rekreációs tevékenységeket;
 - j) a kiskorú őrizetes részére az őrizet időtartamának függvényében biztosítani kell a korának megfelelő oktatást.

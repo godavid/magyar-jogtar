@@ -1340,7 +1340,7 @@ végzését.
 - b) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
 - c) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalmát, továbbá a kérelem elbírálásához csatolt dokumentum adatait,
 - d) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
-- e) a panasz vagy közérdekű bejelentés esetén a panasztevő által megjelölt személyes adatokat és a panaszra okot adó eseményt és a panasszal érintett pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt, valamint
+- e) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő, vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és a panasszal, a közérdekű bejelentéssel vagy a visszaélés-bejelentéssel érintett pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt, valamint
 - f) a szavatoló tőkét és a tőkemegfelelés kiszámításának dokumentálását.
 
 (3) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.

@@ -142,7 +142,7 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 - b) közvetlenül fordulhat az alapvető jogok biztosához, valamint a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni fakultatív jegyzőkönyv 3. cikke szerinti nemzeti megelőző mechanizmus (a továbbiakban: nemzeti megelőző mechanizmus) feladatainak teljesítésére felhatalmazott munkatársához,
 - c) kérelemmel, panasszal fordulhat törvényben kihirdetett nemzetközi egyezményben elismerten erre hatáskörrel rendelkező nemzetközi jogvédő szervezethez.
 
-(6) Az (1) bekezdésen kívüli egyéb jogviszonyokat érintően az elítélt és az egyéb jogcímen fogvatartott az általános szabályok szerint, korlátozás nélkül – ide nem értve a fogvatartás tényéből eredő eltéréseket – érvényesítheti jogait, vagy fordulhat a bírósághoz, illetve az állami szervekhez, tehet panaszt vagy közérdekű bejelentést.
+(6) Az (1) bekezdésen kívüli egyéb jogviszonyokat érintően az elítélt és az egyéb jogcímen fogvatartott az általános szabályok szerint, korlátozás nélkül – ide nem értve a fogvatartás tényéből eredő eltéréseket – érvényesítheti jogait, vagy fordulhat a bírósághoz, illetve az állami szervekhez, tehet panaszt, visszaélés-bejelentést vagy közérdekű bejelentést.
 
 (7) A (3) bekezdés szerinti személy alatt a Be. 81–82. §-ai szerinti különleges bánásmódot igénylő személyt is érteni kell.
 
@@ -2563,7 +2563,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
   - ea) naponta – a szabadságvesztés végrehajtási rezsimjeinél megállapított rendelkezések szerint, de legalább egy óra – szabad levegőn tartózkodásra,
   - eb) önképzésre, sajtótermékek megrendelésére, a bv. intézet művelődési és sportolási lehetőségeinek – a szabadságvesztés végrehajtási rezsimjeinél megállapított rendelkezések szerinti – igénybevételére,
   - ec) tanuláshoz való jogát e törvényben meghatározottak szerint gyakorolni; általános iskolai, középfokú, valamint felsőfokú tanulmányok megkezdésére, illetve folytatására, a vizsgákra való felkészüléshez tanulmányi és vizsgaszabadságra,
-- f) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére,
+- f) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, visszaélés-bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére,
 - g) a büntetés végrehajtása során jogorvoslati joggal élni,
 - h) a rendelkezésére álló pénzből havonta meghatározott összeget személyes szükségleteire fordítani, illetve azzal egyéb módon rendelkezni,
 - i) a szabadságvesztés végrehajtása során keletkezett kárának megtérítésére,
@@ -4406,7 +4406,7 @@ illeti meg.
 - g) csomagot hetente kaphat,
 - h) a bv. intézetben a rendelkezésre álló sport- és közművelődési lehetőségeket igénybe veheti,
 - i) naponta legalább egy óra szabad levegőn tartózkodásra jogosult,
-- j) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére jogosult.
+- j) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, visszaélés-bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére jogosult.
 
 (2) Az elzárásra ítélt részére kimaradás nem engedélyezhető, ha ellene szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
 

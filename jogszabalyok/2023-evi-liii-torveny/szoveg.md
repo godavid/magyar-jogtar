@@ -12,9 +12,27 @@ Magyarország 2024. évi központi költségvetésének megalapozásáról
 
 #### 2. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-#### 4. §
+4. § A közjegyzőkről szóló 1991. évi XLI. törvény 9. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 5. §
+„(1a) A közjegyzőt nem terheli titoktartási kötelezettség a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti belső visszaélés-bejelentési rendszer (a továbbiakban: belső visszaélés-bejelentési rendszer) működtetőjével szemben. Az (1) bekezdés szerinti titoktartási kötelezettség a titok megismerésére jogosult belső visszaélés-bejelentési rendszer működtetőjére is kiterjed.”
+
+5. § A közjegyzőkről szóló 1991. évi XLI. törvény a következő VI/A. Fejezettel egészül ki:
+
+### „VI/A. Fejezet — A BELSŐ VISSZAÉLÉS-BEJELENTÉSI RENDSZER MŰKÖDTETÉSE
+
+68/A. § (1) A Magyar Országos Közjegyzői Kamara a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerint működteti a belső visszaélés-bejelentési rendszert az olyan közjegyző, illetve közjegyzői iroda vonatkozásában, amely
+
+- a) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvényben meghatározottak figyelembevételével olyan foglalkoztató, amely foglalkoztatásra irányuló jogviszony keretében 250 főnél kevesebb személyt foglalkoztat és
+- b) a belső visszaélés-bejelentési rendszer működtetésére a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvénnyel összhangban e feladatkörében pártatlan személyt vagy szervezeti egységet nem jelölt ki, illetve bejelentővédelmi ügyvédet vagy más külső szervezetet nem bízott meg.
+
+(2) A közjegyző, illetve közjegyzői iroda a Magyar Országos Közjegyzői Kamarának haladéktalanul bejelenti, ha
+
+- a) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvényben meghatározottak figyelembevételével olyan foglalkoztató, amely foglalkoztatásra irányuló jogviszony keretében legalább 250 személyt foglalkoztat, vagy
+- b) a belső visszaélés-bejelentési rendszer működtetésére a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvénnyel összhangban e feladatkörében pártatlan személyt vagy szervezeti egységet jelölt ki, illetve bejelentővédelmi ügyvédet vagy más külső szervezetet bízott meg.
+
+(3) A Magyar Országos Közjegyzői Kamara a (2) bekezdés szerinti bejelentés megtételének tényéről jegyzéket vezet, és a jegyzék változásait folyamatosan frissíti. A bejelentésben a belső visszaélés-bejelentési rendszert működtető személyt vagy szervezeti egységet, illetve a bejelentővédelmi ügyvédet vagy más külső szervezetet nem kell megjelölni.
+
+(4) A Magyar Országos Közjegyzői Kamara szervei, tisztségviselői és munkavállalói az e fejezetben meghatározott feladatgyakorlásuk során megismert közjegyzői titkot kötelesek megtartani.”
 
 #### 3. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
@@ -397,11 +415,35 @@ lép.
 
 #### 38. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-#### 126. §
+126. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 10. § (4) bekezdése a következő d) ponttal egészül ki:
 
-#### 127. §
+(Az ügyvédi tevékenység gyakorlóját nem terheli titoktartási kötelezettség a helyettes ügyvédjével szemben, valamint – az általuk nyújtott szolgáltatás nyújtásához szükséges mértékben – az alábbi személyek irányában:)
 
-#### 128. §
+„d) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti belső visszaélés-bejelentési rendszer (a továbbiakban: belső visszaélés-bejelentési rendszer) működtetője.”
+
+127. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 158. § (1) bekezdése a következő 38. ponttal egészül ki:
+
+(A küldöttgyűlés szabályzatban rendelkezik)
+
+„38. az ügyvéd, az európai közösségi jogász, az ügyvédi iroda, illetve az európai közösségi jogászi iroda által a belső visszaélés-bejelentési rendszer működtetésével megbízható külső szervezettel, továbbá a vele kötött szerződéssel szemben támasztott – az ügyvédi titok kezeléséhez, illetve a titoktartás biztosításához szükséges – követelményekről.”
+
+128. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény a következő XXVI/A. Fejezettel egészül ki:
+
+### „XXVI/A. Fejezet — A BELSŐ VISSZAÉLÉS-BEJELENTÉSI RENDSZER MŰKÖDTETÉSE
+
+194/A. § (1) A Magyar Ügyvédi Kamara a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerint működteti a belső visszaélés-bejelentési rendszert az olyan ügyvéd, európai közösségi jogász, ügyvédi iroda, illetve európai közösségi jogászi iroda vonatkozásában, amely
+
+- a) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvényben meghatározottak figyelembevételével olyan foglalkoztató, amely foglalkoztatásra irányuló jogviszony keretében 250 főnél kevesebb személyt foglalkoztat és
+- b) a belső visszaélés-bejelentési rendszer működtetésére a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvénnyel összhangban e feladatkörében pártatlan személyt vagy szervezeti egységet nem jelölt ki, illetve bejelentővédelmi ügyvédet vagy más külső szervezetet nem bízott meg.
+
+(2) Az ügyvéd, európai közösségi jogász, ügyvédi iroda, illetve európai közösségi jogászi iroda a Magyar Ügyvédi Kamarának haladéktalanul bejelenti, ha
+
+- a) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvényben meghatározottak figyelembevételével olyan foglalkoztató, amely foglalkoztatásra irányuló jogviszony keretében legalább 250 személyt foglalkoztat, vagy
+- b) a belső visszaélés-bejelentési rendszer működtetésére a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvénnyel összhangban e feladatkörében pártatlan személyt vagy szervezeti egységet jelölt ki, illetve bejelentővédelmi ügyvédet vagy – a (4) bekezdés szerint meghatározott követelményeknek megfelelő – más külső szervezetet bízott meg.
+
+(3) A Magyar Ügyvédi Kamara a (2) bekezdés szerinti bejelentés megtételének tényéről jegyzéket vezet, és köteles a jegyzék változásait folyamatosan frissíteni. A bejelentésben a belső visszaélés-bejelentési rendszert működtető személyt vagy szervezeti egységet, illetve a bejelentővédelmi ügyvédet vagy más külső szervezetet nem kell megjelölni.
+
+(4) Az ügyvéd, az európai közösségi jogász, az ügyvédi iroda, illetve az európai közösségi jogászi iroda által a belső visszaélés-bejelentési rendszer működtetésével megbízható külső szervezettel, továbbá a vele kötött szerződéssel szemben támasztott – az ügyvédi titok kezeléséhez, illetve a titoktartás biztosításához szükséges – követelményeket a Magyar Ügyvédi Kamara szabályzatban állapítja meg.”
 
 #### 129. §
 
@@ -475,7 +517,17 @@ lép.
 
 #### 49. A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény módosítása
 
-#### 154. §
+154. § A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény
+
+1. 17. §-ában a „csak akkor kell alkalmazni” szövegrész az „az 1. melléklet szerinti európai uniós jogi aktus végrehajtására vagy az annak való megfelelés érdekében kiadott jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó, 1. melléklet szerinti kötelező jogi aktusa hatálya alá tartozó esetekben csak akkor kell alkalmazni” szöveggel,
+
+2. 18. § (3) bekezdésében a „közösen is létrehozhatják.” szövegrész a „közösen, illetve az erre jogosult más foglalkoztatóval is létrehozhatják. A (2) bekezdés szerinti foglalkoztatók, amelyek legfeljebb 249 személyt foglalkoztatásra irányuló jogviszony keretében foglalkoztatnak, a belső visszaélés-bejelentési rendszert közösen, illetve az erre jogosult más foglalkoztatóval is létrehozhatják.” szöveggel,
+
+3. 19. § (2) bekezdésében az „összeférhetetlenségi és” szövegrész az „összeférhetetlenségi szabályokat, valamint az (1) bekezdés szerinti” szöveggel, és
+
+4. 22. § (4) bekezdésében az „összeférhetetlenségi és” szövegrész az „összeférhetetlenségi szabályokat, valamint a 19. § (1) bekezdése szerinti” szöveggel
+
+lép hatályba.
 
 #### 50. Az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvény módosítása
 

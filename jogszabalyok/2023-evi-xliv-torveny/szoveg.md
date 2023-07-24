@@ -64,9 +64,7 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 25. §
 
-26. § A Vtv. 84. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább ötvenezer, legfeljebb ötmillió forint. A vadvédelmi bírság ismételten is kiszabható.”
+#### 26. §
 
 #### 27. §
 
@@ -82,15 +80,7 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 30. §
 
-31. § Hatályát veszti a Vtv.
-
-- a)
-- b)
-- c)
-- d)
-- e)
-- f) 84. § (3) bekezdése,
-- g)
+#### 31. §
 
 #### 4. Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosítása
 
@@ -140,21 +130,9 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 48. §
 
-49. § (1)
+#### 49. §
 
-(2) A Tfvt. 16. §-a a következő (11c) és (11d) bekezdéssel egészül ki:
-
-„(11c) Ha a (11) bekezdés szerinti 10 éves időtartam eltelt és a más célú hasznosítás utólagos engedélyezésének nincs helye, az ingatlanügyi hatóság megállapítja az engedély nélküli más célú hasznosítás tényét, és az igénybevevőt a 24. § (3b) bekezdésének figyelembevételével földvédelmi bírság megfizetésére kötelezi.
-
-(11d) Az ingatlanügyi hatóság az eljárást megszünteti, ha a (11) bekezdés szerinti 10 éves időtartam eltelt, a más célú hasznosítás utólagos engedélyezésének nincs helye és a 24. § (3a) és (3b) bekezdésének figyelembevételével földvédelmi bírság kiszabására sincs lehetőség.”
-
-50. § (1) A Tfvt. 24. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Nincs helye földvédelmi bírság kiszabásának, ha a cselekménynek az ingatlanügyi hatóság tudomására jutásától számított 1 év, illetve – a (3b) bekezdés kivételével – a cselekmény elkövetésétől számított 5 év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.”
-
-(2) A Tfvt. 24. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) Az (1) bekezdés f) pontja alapján nincs helye földvédelmi bírság kiszabásának, ha a 16. § (11) bekezdése szerinti elévülési időtartam elteltétől számított öt év eltelt.”
+#### 50. §
 
 #### 51. §
 
@@ -208,15 +186,7 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 75. §
 
-76. § Az Éltv. 63. § (1) bekezdés a) pontja a következő ar) alponttal egészül ki:
-
-(Élelmiszerlánc-felügyeleti bírságot kell kiszabni
-
-azzal szemben, aki tevékenységével vagy mulasztásával)
-
-  - „ar) a nem állami laboratóriumok működésére”
-
-(vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előírásokat megszegi;)
+#### 76. §
 
 #### 77. §
 
@@ -264,41 +234,7 @@ azzal szemben, aki tevékenységével vagy mulasztásával)
 
 #### 98. §
 
-99. § Az Evt.
-
-1. 11. § (8) bekezdésében a „valamint a bejelentési kötelezettségre (102. §) vonatkozó” szövegrész helyébe az „a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §), valamint az erdőben folyó tevékenységtől történő eltiltásra (111/B. §) vonatkozó” szöveg,
-
-2. 12. § (4) bekezdésében a „valamint a bejelentési kötelezettségre (102. §) vonatkozó” szövegrész helyébe az „a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §) valamint az erdőben folyó tevékenységtől eltiltásra (111/B. §) vonatkozó” szöveg,
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-lép.
+#### 99. §
 
 100. § Az Evt.
 
@@ -423,19 +359,9 @@ lép.
 
 #### 150. §
 
-151. § A Hhtv. 66. §-a a következő (4a) bekezdéssel egészül ki:
+#### 151. §
 
-„(4a) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a természetes vagy jogi személyre, aki vagy amely halgazdálkodási vízterületről kifogott halat – a 8. § (1) és (2) bekezdése szerint történő állománymentés és a mesterséges körülmények közötti szaporítási célból fogott halak halgazdálkodási hatóság engedélyével végzett telepítésének, valamint a horgászati célú haltermelés keretében a horgászathoz szükséges halállomány biztosításának, továbbá a 13. § (2) bekezdése szerint a halgazdálkodási vízterületről kifogott nem őshonos halak haltermelési létesítménybe halhústermelési vagy takarmányozási célból végzett telepítésének kivételével – más halgazdálkodási vízterületre, illetve haltermelési létesítménybe telepít.”
-
-152. § A Hhtv. 67. § (1) bekezdése a következő w) és x) ponttal egészül ki:
-
-(A halgazdálkodási hatóság halvédelmi bírságot szab ki)
-
-„w) a kifogott hal tárolására vonatkozó szabályokat megszegő,
-
-x) a megfogott halnak a halász-, illetve horgászmódszerből adódó elkerülhetetlen minimumot meghaladó fizikai sérülést okozó”
-
-(személlyel szemben.)
+#### 152. §
 
 #### 153. §
 

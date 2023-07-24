@@ -1117,7 +1117,7 @@ szolgáltat.
 
 - a) a hatóság megkeresésére annak hivatalból indított eljárásához,
 - b) a kisajátítási eljáráshoz,
-- c) a közérdekű bejelentés és panasz elbírálásához,
+- c) a közérdekű bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés és a panasz elbírálásához,
 - d) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
 - e) mezőgazdasági igazgatási szerv részére a (4) bekezdés c) pontjában meghatározott feladatai ellátásához.
 - f) a Hktv. 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró részére.

@@ -2430,7 +2430,9 @@ jogszerűsége tárgyában.
 
 94. § A külföldi versenyfelügyeleti szervekkel való együttműködés eljárási rendjét nemzetközi szerződés vagy külön jogszabály állapítja meg.
 
-94/A. § Az e törvény hatálya alá eső ügyekben a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései nem alkalmazhatók.
+94/A. § (1) A Gazdasági Versenyhivatal által létrehozott, a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti elkülönített visszaélés-bejelentési rendszer a Gazdasági Versenyhivatal e törvény szerinti panaszkezelési rendszere.
+
+(2) Az e törvény hatálya alá eső ügyekben e törvény eltérő rendelkezése hiányában kell alkalmazni a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény rendelkezéseit.
 
 ### Hatályba léptető rendelkezés, rövid megjelölés
 

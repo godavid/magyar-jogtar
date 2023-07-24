@@ -98,7 +98,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - e) a földmérési és térinformatikai államigazgatási szerv hatósági feladatai ellátásához szükséges, illetve ha azt
 - f) az eljáró szerv
   - fa) közigazgatási hatósági eljáráshoz,
-  - fb) közérdekű bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz,
+  - fb) közérdekű bejelentés, elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz,
   - fc) gondnokság alá helyezés iránti eljáráshoz,
 - g) a közigazgatási vagy polgári perben eljáró bíróság eljárásához,
 - h) a büntetőügyben eljáró bíróság eljárásához,
@@ -204,7 +204,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - f) a lakástörvény alapján vételi, elővásárlási joggal rendelkező személy részére elidegenített önkormányzati vagy állami tulajdonban álló lakás tulajdonjogának, haszonélvezeti jogának, továbbá az ezzel összefüggő elidegenítési és terhelési tilalomnak, valamint jelzálogjognak az ingatlan-nyilvántartási bejegyzésével vagy törlésével kapcsolatos eljárás;
 - g) a birtok-összevonási célú földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
 - h) a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának feljegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
-- i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
+- i) a közérdekű bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés, a javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
 - j) a költségmentesség engedélyezése iránti eljárás;
 - k) a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
 - l) a lakóingatlanon alapított zálogjog fedezetével kötött, devizaalapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvény, valamint az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló törvény alapján

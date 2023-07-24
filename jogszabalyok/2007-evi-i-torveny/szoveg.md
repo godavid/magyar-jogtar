@@ -605,7 +605,7 @@ meghosszabbítása
 - d) az élelmezésének saját költségén történő kiegészítésére,
 - e) a külön jogszabályban meghatározottak szerint vallásának gyakorlására,
 - f) a rendelkezésre álló közművelődési lehetőségek igénybevételére,
-- g) kifogás, kérés, panasz, közérdekű bejelentés megtételére,
+- g) kifogás, kérés, panasz, közérdekű bejelentés, visszaélés-bejelentés megtételére,
 - h) napi legalább egy óra időtartamú szabad levegőn tartózkodásra.
 
 (4) A kitoloncolási őrizetben lévő személy köteles:
