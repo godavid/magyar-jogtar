@@ -1926,7 +1926,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 1. | A költségmentesség engedélyezése iránti eljárás |
 | 2. | A költségmentesség feltételei fennállásának igazolásához szükséges irat kiállítása |
 | 3. | A jogi segítségnyújtás engedélyezésére irányuló eljárás |
-| 4. | A közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás |
+| 4. |  |
 | 5. | Az egyenlő bánásmód követelményének megsértésével kapcsolatban indított eljárás |
 | 6. | A személyes adatok védelméhez fűződő jog megsértésével kapcsolatban indított eljárás |
 | 7. | A külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat elrendelésére irányuló eljárás |

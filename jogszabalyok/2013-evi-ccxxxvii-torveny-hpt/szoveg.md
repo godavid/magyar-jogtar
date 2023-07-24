@@ -3966,7 +3966,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - e) a hitelintézet belső szabályait, így különösen az alapszabályt, az üzletszabályzatot, az adós- vagy hitelminősítési szabályzatot, a fizetőképesség biztosítására vonatkozó szabályzatot, a belső hitelszabályzatot,
 - f) a pénzügyi intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
 - g) a hitelintézet közgyűléséről, az igazgatóság és a felügyelő bizottsági üléséről készült jegyzőkönyveket,
-- h) a panasz vagy közérdekű bejelentés esetén a panasztevő által megjelölt személyes adatokat és a panaszra okot adó eseményt és az érintett pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtót,
+- h) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és az érintett pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtót,
 - i) a szavatoló tőke és a tőkemegfelelés kiszámításának dokumentálását,
 - j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
 - k) a fióktelep formájában működő hitelintézet esetében az a)–j) ponton túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat, valamint

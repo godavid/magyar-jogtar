@@ -3464,11 +3464,11 @@ szabálysértést követ el.
 
 (2)
 
-#### 160/A. Közérdekű bejelentő üldözése
+#### 160/A. A bejelentő üldözése
 
-206/A. § (1) Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, szabálysértést követ el.
+206/A. § (1) Aki a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentés vagy visszaélés-bejelentés miatt a közérdekű bejelentővel vagy a visszaélés bejelentőjével szemben a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti hátrányos intézkedést tesz, szabálysértést követ el.
 
-(2)
+(2) Aki a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti visszaélés-bejelentés megtételét akadályozza vagy megkísérli akadályozni, szabálysértést követ el.
 
 #### 160/B. Hamis statisztikai adatszolgáltatás
 
@@ -4050,6 +4050,7 @@ részletes szabályait rendeletben szabályozza.
 - b) 71. § (2) bekezdése és 73. § (10)–(12) bekezdése a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek, valamint
 - c) 53. § (1), (3) és (4) bekezdése, 57. § (3) bekezdése, valamint 73. § (7) bekezdése a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló, 2013. október 22-i 2013/48/EU európai parlamenti és tanácsi irányelvnek,
 - d) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek
+- e) az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
