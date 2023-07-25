@@ -484,123 +484,47 @@ jogellenesnek minősül akkor is, ha egyébként jogszerű lenne.
 
 (2) Ez a törvény az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-60. § Hatályát veszti az illetékekről szóló 1990. évi XCIII. törvény 2. mellékletében foglalt táblázat XIII. rész 4. sora.
+#### 60. §
 
-61. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 94/A. §-a helyébe a következő rendelkezés lép:
+#### 61. §
 
-„94/A. § (1) A Gazdasági Versenyhivatal által létrehozott, a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti elkülönített visszaélés-bejelentési rendszer a Gazdasági Versenyhivatal e törvény szerinti panaszkezelési rendszere.
+#### 62. §
 
-(2) Az e törvény hatálya alá eső ügyekben e törvény eltérő rendelkezése hiányában kell alkalmazni a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény rendelkezéseit.”
+#### 63. §
 
-62. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény
+#### 64. §
 
-- a) 31. § (1) bekezdés f) pont fb) alpontjában a „bejelentés, javaslat” szövegrész helyébe a „bejelentés, elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés, javaslat” szöveg,
-- b) 32/C. § (1) bekezdés i) pontjában a „bejelentés, javaslat” szövegrész helyébe a „bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés, a javaslat” szöveg
+#### 65. §
 
-lép.
+#### 66. §
 
-63. § A tőkepiacról szóló 2001. évi CXX. törvény 200. §-ában az „a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény” szövegrész helyébe az „a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény” szöveg lép.
+#### 67. §
 
-64. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 59. § (3) bekezdés g) pontjában a „bejelentés megtételére” szövegrész helyébe a „bejelentés, visszaélés-bejelentés megtételére” szöveg lép.
+#### 68. §
 
-65. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 61. § (3) bekezdés g) pontjában a „bejelentés megtételére” szövegrész helyébe a „bejelentés, visszaélés-bejelentés megtételére” szöveg lép.
+#### 69. §
 
-66. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 161. § (4) bekezdés g) pontja helyébe a következő rendelkezés lép:
+#### 70. §
 
-[A nyilvántartás a (2) bekezdésben megjelölt adatokon túl tartalmazza]
+#### 71. §
 
-„g) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő vagy a visszaélést bejelentő által megadott személyes adatokat, valamint a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és befektetési vállalkozás nevét,”
+#### 72. §
 
-67. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 11/A. alcím címe helyébe a következő rendelkezés lép:
+#### 73. §
 
-#### „11/A. A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvénnyel összefüggő feladatok”
+#### 74. §
 
-68. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 38/A–38/C. §-a helyébe a következő rendelkezések lépnek:
+#### 75. §
 
-„38/A. § (1) Az alapvető jogok biztosa vizsgálja a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentéseknek a 18. § (1) bekezdés a)–k) pontja szerinti hatóságok általi kezelésének gyakorlatát, valamint kérelemre az egyes közérdekű bejelentések megfelelő intézését.
+#### 76. §
 
-(2) Az alapvető jogok biztosa vizsgálja a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti elkülönített visszaélés-bejelentési rendszerek működésének a gyakorlatát, valamint kérelemre az elkülönített visszaélés-bejelentési rendszerben megtett bejelentések megfelelő intézését.
+#### 77. §
 
-38/B. § Az alapvető jogok biztosa gondoskodik a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentések védett elektronikus rendszerének üzemeltetéséről.
+#### 78. §
 
-38/C. § (1) A közérdekű bejelentő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához, ha
+#### 79. §
 
-- a) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti eljárásra jogosult szerv (a továbbiakban: eljárásra jogosult szerv) a közérdekű bejelentést megalapozatlannak nyilvánítja,
-- b) a közérdekű bejelentő a vizsgálat eredményével nem ért egyet, vagy
-- c) a közérdekű bejelentő álláspontja szerint az eljárásra jogosult szerv a közérdekű bejelentést nem vizsgálta ki teljes körűen.
-
-(2) Az elkülönített visszaélés-bejelentési rendszerben bejelentést tevő az általa vélelmezett visszásság orvoslása érdekében beadvánnyal fordulhat az alapvető jogok biztosához az (1) bekezdésben meghatározott esetekben, illetve ha a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti, az elkülönített visszaélés-bejelentési rendszerre vonatkozó szabályokat nem tartották meg.”
-
-69. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 46/A. §-a a következő e) ponttal egészül ki:
-
-(Ez a törvény)
-
-„e) az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-70. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 160/A. alcíme helyébe a következő rendelkezés lép:
-
-#### „160/A. A bejelentő üldözése
-
-206/A. § (1) Aki a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentés vagy visszaélés-bejelentés miatt a közérdekű bejelentővel vagy a visszaélés bejelentőjével szemben a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti hátrányos intézkedést tesz, szabálysértést követ el.
-
-(2) Aki a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti visszaélés-bejelentés megtételét akadályozza vagy megkísérli akadályozni, szabálysértést követ el.”
-
-71. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 253. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(E törvény)
-
-„e) az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-72. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 164/A. § (2) bekezdésében a „panaszokról és a közérdekű bejelentésekről szóló törvény” szövegrész helyébe a „panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény” szöveg lép.
-
-73. § Hatályát veszti a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény.
-
-74. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 99. § (5) bekezdés c) pontjában a „bejelentés és panasz” szövegrész helyébe a „bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés és a panasz” szöveg lép.
-
-75. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 86. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(A nyilvántartás az 1. mellékletben megjelölt azonosító adatokon túl a következőket tartalmazza:)
-
-„e) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő, vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és a panasszal, a közérdekű bejelentéssel vagy a visszaélés-bejelentéssel érintett pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt, valamint”
-
-76. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 204. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(A nyilvántartás a 2. mellékletben megjelölt azonosító adatokon túl a következőket tartalmazza:)
-
-„h) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és az érintett pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtót,”
-
-77. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény
-
-- a) 10. § (6) bekezdésében a „panaszt vagy” szövegrész helyébe a „panaszt, visszaélés-bejelentést vagy” szöveg,
-- b) 122. § f) pontjában a „bejelentés, panasz” szövegrész helyébe a „bejelentés, visszaélés-bejelentés, panasz” szöveg,
-- c) 275. § (1) bekezdés j) pontjában a „bejelentés, panasz” szövegrész helyébe a „bejelentés, visszaélés-bejelentés, panasz” szöveg
-
-lép.
-
-78. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 323. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(A nyilvántartás az azonosító adatokon túl a következőket tartalmazza:)
-
-„h) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő, vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és az érintett intézményt,”
-
-79. § A büntetőeljárásról szóló 2017. évi XC. törvény 98. § (2a) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[A (2) bekezdésben meghatározottak biztosítása érdekében]
-
-„c) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentő vagy visszaélést bejelentő védelme érdekében a közérdekű bejelentő vagy a visszaélést bejelentő kihallgatásáig a közérdekű bejelentést vagy a visszaélés-bejelentési rendszerben megtett bejelentést tartalmazó ügyiratot”
-
-[zártan kell kezelni.]
-
-80. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény
-
-- a) 4. § (1) bekezdésében az „a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény (a továbbiakban: Pkbtv.) 1. § (2) bekezdésétől” szövegrész helyébe az „a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény (a továbbiakban: Pkbtv.) rendelkezéseitől” szöveg,
-- b) 4. § (2) bekezdésében a „Pkbtv. 1. § (4) bekezdésétől” szövegrész helyébe a „Pkbtv. rendelkezéseitől” szöveg
-
-lép.
+#### 80. §
 
 ### 1. melléklet a 2023. évi XXV. törvényhez
 
