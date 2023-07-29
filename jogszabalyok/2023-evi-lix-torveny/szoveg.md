@@ -542,7 +542,7 @@ lép.
 
 187. § A Vtv.
 
-- 1.
+- 1. 2. § 6. pontjában a „10 euró alatti vámtartozás” szövegrész helyébe a „10 euró alatti vám és egyéb terhek összege” szöveg,
 - 2.
 - 3.
 - 4.
