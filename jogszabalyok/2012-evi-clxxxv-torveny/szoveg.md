@@ -736,6 +736,7 @@ kezdeményezheti, legfeljebb a kérelem benyújtását 90 nappal megelőző idő
 
 - a) az állam tulajdonában álló valamennyi, az állami hulladékgazdálkodási közfeladat ellátását szolgáló hulladékgazdálkodási eszközzel összefüggő vagyonkezelői feladat, és
 - b) a 2023. július 1-et megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól (a továbbiakban: Korábbi Koordináló szerv) átvett számlázási, kintlévőség-kezelési, szolgáltatásidíj-elszámolási és ezekhez kapcsolódó ügyfélszolgálati feladat
+- c) ha a koncessziós társaság és az állam között a hulladékgazdálkodási közszolgáltatási résztevékenység számlázása tárgyában szerződés jön létre, e szerződés alapján a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatai
 
 ellátására.
 
@@ -2486,9 +2487,9 @@ kezdeményezheti az Európai Bizottságnál.
 - a) ha a települési önkormányzat hulladékgazdálkodási feladatai ellátása érdekében létrehozott társulásból való kiválása a Mód. tv. hatálybalépése előtt megtörtént, de a vagyon kiadása a Mötv. 90. § (5) bekezdése szerint elhalasztásra került és a vagyon kiadására vonatkozó megállapodás még nem került megkötésre, vagy
 - b) ha a települési önkormányzat hulladékgazdálkodási feladatai ellátása érdekében létrehozott társulásból való kiválása után a vagyon kiadására vonatkozó megállapodás a Mód. tv. hatálybalépése előtt már megkötésre került és az abban foglaltak szerint a vagyon tulajdonosként való rendelkezésre jogosító átengedése a Mód. tv. hatálybalépését követően valósul meg.
 
-92/F. § (1) A közszolgáltató részére a 2020. évben kiállított és 2021. december 31. napját megelőzően lejáró megfelelőségi vélemény hatálya 2022. június 30-ig meghosszabbodik.
+92/F. § (1) A Korábbi Koordináló szerv a 2023. július 1-jén a tulajdonában lévő hulladékot a 31. § (2) bekezdés a) pontja alapján a koncessziós társaságnak átadja, és ha az átadott hulladék rendelkezik pénzben kifejezhető értékkel, annak átadásakor a hulladék pénzbeli értékének megtérítésére jogosult, egyéb esetben az átadott hulladék kezelésének költségét a koncessziós társaság részére megfizeti. Az elszámolás során a piaci érték független értékbecslő által meghatározott módszertant alkalmazva kell eljárni.
 
-(2) Az a gazdálkodó szervezet, amely közszolgáltatói tevékenységét 2021. január 1-jét követően kezdte meg, továbbá a közszolgáltatói alvállalkozó a megfelelőségi véleményt első alkalommal 2022. június 30. napjáig köteles beszerezni.
+(2) A Korábbi Koordináló szerv a személyes adatok kezelésére vonatkozó rendelkezések megtartásával a koncessziós társaság rendelkezésére bocsátja a 2023. június 30-i állapot szerinti ügyféladatbázist. A Koordináló szerv – ha a koncessziós társaság erre igényt tart – felhasználási jogot biztosít a koncessziós társaság részére 2023. július 1. napjától kezdődően a számlázási tevékenységet végző szoftverhez és a szükséges adatbázisokhoz, a piaci érték meghatározásakor az (1) bekezdés szerinti módszertant alkalmazva.
 
 (3) E törvény Mód. tv.-nyel megállapított 16/A. alcíme szerinti követelményeinek a 2018. július 4. előtt létrehozott kiterjesztett gyártói felelősségi rendszereknek 2023. január 5-től kell megfelelni.
 
