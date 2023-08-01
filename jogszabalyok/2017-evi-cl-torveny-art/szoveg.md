@@ -667,12 +667,13 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 3. a természetes személy természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát,
 - 4. a természetes személy adóazonosító jelét, társadalombiztosítási azonosító jelét (a továbbiakban: TAJ szám),
 - 5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
-- 6. a természetes személy tekintetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+- 6. a természetes személy esetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a kedvezmény közös érvényesítésének tényét, annak arányát,
-  - b) a magzat kivételével minden eltartott (kedvezményezett eltartott) nevét, adóazonosító jelét,
-  - c) az arra vonatkozó adatot, hogy e személyek – ideértve a magzatot is – a tárgyhónapban eltartottnak, kedvezményezett eltartottnak, illetve felváltva gondozott gyermeknek minősülnek-e,
-  - d) az Szja tv. 29/A. § (3) bekezdése szerinti jogcímét,
-  - e) a családi kedvezmény közös érvényesítése esetén a másik fél adóazonosító jelét,
+  - b) a magzat kivételével minden eltartott, kedvezményezett eltartott nevét, adóazonosító jelét,
+  - c) az arra vonatkozó adatot, hogy e személyek – ideértve a magzatot is – a tárgyhónapban eltartottnak, kedvezményezett eltartottnak vagy felváltva gondozott gyermeknek minősülnek-e,
+  - d) az arra vonatkozó adatot, hogy a kedvezményezett eltartott a tárgyhónapban a családok támogatásáról szóló törvény szerint tartósan beteg vagy súlyosan fogyatékos személynek minősül-e,
+  - e) az Szja tv. 29/A. § (3) bekezdése szerinti jogcímet,
+  - f) a családi kedvezmény közös érvényesítése esetén a másik fél adóazonosító jelét,
 - 7. a természetes személy tekintetében az Szja. tv. 29/C. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a házastárs nevét, adóazonosító jelét,
   - b) a kedvezmény igénybe vételének módjára (egyedül, megosztással) vonatkozó döntést,
@@ -682,6 +683,12 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 7b. a természetes személy tekintetében az Szja tv. 29/F. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a születési idejét,
   - b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+- 7c. a természetes személy esetében az Szja tv. 29/G. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+  - a) a születési idejét,
+  - b) a természetes személy családi kedvezményre való jogosultságának az Szja tv. 29/A. § (3) bekezdés a) pontja vagy b) pontja szerinti jogcímét,
+  - c) – a magzat kivételével – a gyermek nevét, adóazonosító jelét,
+  - d) várandósság esetén ennek tényét, valamint
+  - e) az Szja tv. 29/G. § (3) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 - 8. a 6–7b. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 - 9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
 - 10. a társadalombiztosítási járulék levonása, illetve levonás elmaradásának okát,
@@ -905,6 +912,42 @@ kell számítani.
 (4) Költségvetési támogatás, adó-visszaigénylés faktorálása esetén – ha az adózó bevallásához az erről szóló szerződést mellékeli – az adóhatóság a költségvetési támogatás, adó-visszaigénylés összegét a faktorálási tevékenységet végző pénzügyi intézmény bankszámlájára átutalással teljesíti. Az adóhatóság visszatartási jogát az adózó tartozása tekintetében gyakorolhatja. Az adózó bevallásában nem rendelkezhet arról, hogy az igényelt költségvetési támogatást, adó-visszaigénylést az adóhatóság az általa megjelölt adó megfizetésére számolja el. Késedelmes kiutalás esetén a késedelmi kamat a faktorálási tevékenységet végző pénzügyi intézményt illeti meg.
 
 (5) Jogszabály az e §-ban meghatározott fizetési módoktól eltérő fizetési módot is megállapíthat.
+
+#### 66/A. § [A társasági adó megfizetése devizában]
+
+(1) Az adózó az állami adó- és vámhatóságnál bejelentheti, hogy a 66. § (1) bekezdésében foglaltaktól eltérően, társasági adó-fizetési kötelezettségét USA dollárban vagy euróban teljesíti.
+
+(2) Az (1) bekezdés szerinti bejelentést az adózó az állami adó- és vámhatóság által rendszeresített formanyomtatványon az adóév első napját megelőző hónap első napjáig az adóév egészére nézve tehet. Tevékenységét az év közben megkezdő adózó az (1) bekezdés szerinti bejelentését az állami adó- és vámhatósághoz való bejelentkezéssel egyidejűleg teheti meg.
+
+(3) Ha az adózó az (1) bekezdés szerinti bejelentésben szereplő devizáról a másik választható devizára akar áttérni, bejelentését az adóév utolsó napjáig módosíthatja. A bejelentés módosítása a következő adóév első napjától hatályos.
+
+(4) Az az adózó, aki az (1) bekezdésben meghatározott bejelentést tett, az adóév utolsó napjáig az állami adó- és vámhatóság felé bejelentheti, hogy az adó devizában történő megfizetésének lehetőségével nem kíván élni. A bejelentés a következő adóév első napjától hatályos.
+
+(5) Az állami adó- és vámhatóság az adózó e § szerinti bejelentéseiről nyilvántartást vezet.
+
+(6) Az e §-ban foglalt határidők jogvesztőek.
+
+(7) Az (5) bekezdés szerint nyilvántartásba vett bejelentés alapján az adózó társasági adóelőleg-, társasági adó-fizetési kötelezettségének a kincstár által e célból vezetett, deviza adófizetésre nyitott számlára történő átutalással, a bejelentésének megfelelő devizában tesz eleget.
+
+(8) A bejelentéstől eltérő devizanemben vezetett számláról érkező átutalás esetén az átváltás költsége az adózót terheli.
+
+(9) A (7) bekezdés szerint utalt euró- vagy USA dollár-összeg az utalással érintett bankszámla megterhelésének napja szerinti, a Magyar Nemzeti Bank által e napra közzétett árfolyammal számított forintösszegben kerül jóváírásra az adózó adószámláján. Amennyiben a terhelés napján nincs a Magyar Nemzeti Bank által e napra közzétett árfolyam, akkor az ezen a napon érvényes legutolsó közzétett árfolyammal számított forintösszeg kerül jóváírásra az adózó adószámláján.
+
+(10) A (9) bekezdés szerinti forintösszeget az állami adó- és vámhatóság átvezeti a társasági adó befizetése céljából vezetett államháztartási számlára.
+
+(11) Az állami adó- és vámhatóság az adószámlán nyilvántartott adatokról előállított kivonaton, valamint az adószámla tételes adatainak elektronikus lekérdezése során feltünteti a (7) bekezdés alapján euróban vagy USA dollárban teljesített befizetés euró- vagy USA dollár-összegét és devizanemét, az alkalmazott átváltási árfolyamot, valamint az elszámolt forintösszeget.
+
+#### 66/B. § [A helyi iparűzési adó megfizetése devizában]
+
+(1) Az adózó az esedékessé váló helyi iparűzési adóelőleg- és helyi iparűzési adó-fizetési kötelezettségét a kincstár által a helyi iparűzési adót bevezető illetékes önkormányzat, illetve – a különleges gazdasági övezetbe tartozó adózó esetén – az állami adó- és vámhatóság részére e célból euró vagy USA dollár devizanemben történő adófizetésre nyitott számlára történő átutalással is teljesítheti.
+
+(2) A kincstár a fizetési kötelezettség teljesítésére az (1) bekezdés szerinti számlára utalt euró- vagy USA dollár-összegnek a Magyar Nemzeti Bankhoz mint a kincstár számlavezető bankjához történő beérkezésekor érvényes árfolyamon számított és a Magyar Nemzeti Bank mindenkor hatályos Általános Üzleti Feltételeiben foglaltak szerint a kincstár számláján jóváírt forintösszegét haladéktalanul átutalja az illetékes önkormányzat, illetve az állami adó- és vámhatóság helyi iparűzési adó-beszedési számlájára. Az átutalt összegekre vonatkozó, feldolgozáshoz szükséges információkat a kincstár az önkormányzati ASP rendszer útján biztosítja az önkormányzatok számára.
+
+(3) Az illetékes adóhatóság az adózó adószámláján a kincstár által a (2) bekezdés szerint az illetékes önkormányzat, illetve az állami adó- és vámhatóság helyi iparűzési adó-beszedési számlájára átutalt összeget tünteti fel befizetésként.
+
+(4) Az adó megfizetésének napja az illetékes önkormányzat, illetve az állami adó- és vámhatóság helyi iparűzési adó befizetésére szolgáló beszedési számláján való jóváírás napja.
+
+(5) Az illetékes adóhatóság az adószámlán nyilvántartott adatokról előállított kivonaton feltünteti, valamint az adószámla tételes adatainak elektronikus lekérdezése során elérhetővé teszi az (1) bekezdés alapján euróban vagy USA dollárban teljesített befizetés összegét, devizanemét, valamint a (2) bekezdés szerinti árfolyamot és az elszámolt forintösszeget.
 
 #### 67. § [Megfizetés bűncselekmény esetén]
 
@@ -1695,6 +1738,8 @@ esetén a támogatást nyújtó, a felajánló adózó megnevezése, az általa 
 - c) felajánlott adó vagy adóelőleg
 
 adóévben összesített mértéke.
+
+(9) A kincstár és a Magyar Nemzeti Bank az adókötelezettség euró vagy USA dollár devizanemben történő teljesítése során tudomására jutott adótitkot e törvény által meghatározott feladatellátása céljából az adótitok tudomására jutása évének utolsó napjától számított 5 évig kezeli.
 
 #### 128. § [Adótitok alapos okkal történő felhasználása]
 
@@ -3787,6 +3832,7 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 - 29. A helyi iparűzési adó alanya az állami adó- és vámhatósághoz bejelentheti
 - 29.1. a helyi adókról szóló 1990. évi C. törvény szerinti telephelyének címét,
 - 29.2. az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottját.
+- 30. A társasági adó alanya az állami adó- és vámhatósághoz bejelenti, ha a társasági adó-fizetési kötelezettségének devizában tesz eleget.
 
 ### 2. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
 

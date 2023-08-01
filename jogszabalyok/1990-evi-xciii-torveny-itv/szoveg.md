@@ -447,7 +447,7 @@ a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és a
 
 ### Hitelintézet ingatlanszerzésének visszterhes vagyonátruházási illetéke
 
-23/B. § (1) Amennyiben a hitelintézet legkésőbb a fizetési meghagyás véglegessé válásáig nyilatkozik, hogy az ingatlant – az illetékkötelezettség keletkezésétől számított legfeljebb hároméves időtartamra – a pénzügyi veszteség mérséklése, illetve elhárítása érdekében hitel-ingatlan csereügylettel, az adósával szembeni felszámolási vagy végrehajtási eljárás útján szerezte, akkor a fizetendő illeték mértéke az ingatlan – terhekkel nem csökkentett – forgalmi értékének 2%-a.
+23/B. § (1) Amennyiben a hitelintézet legkésőbb a fizetési meghagyás véglegessé válásáig nyilatkozik, hogy az ingatlant – az illetékkötelezettség keletkezésétől számított legfeljebb hároméves időtartamra – a pénzügyi veszteség mérséklése, illetve elhárítása érdekében hitel-ingatlan csereügylettel, az adósával szembeni felszámolási, reorganizációs, szerkezetátalakítási vagy végrehajtási eljárás útján szerezte, akkor a fizetendő illeték mértéke az ingatlan – terhekkel nem csökkentett – forgalmi értékének 2%-a.
 
 (2) Az (1) bekezdésben meghatározott három év elteltét követően az ingatlan elidegenítését az állami adóhatóság saját nyilvántartása vagy az ingatlan fekvése szerint illetékes ingatlanügyi hatóság megkeresése útján ellenőrzi. Amennyiben az ingatlan értékesítése nem történt meg, a vagyonszerzésre a 19. § (1) bekezdés alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét a hitelintézet terhére pótlólag előírja.
 
@@ -487,7 +487,7 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 (5) Gépjármű, pótkocsi tulajdonjoga, illetve gépjárműre, pótkocsira vonatkozó haszonélvezeti, használati jog meghatározott hányadának megszerzése esetén a megszerzett hányadra arányosan eső illetéket kell fizetni.
 
-(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés bejelentésével egyidejűleg külföldi kivitel céljából Z betűjelű ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem értékesíti.
+(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés bejelentésével egyidejűleg külföldi kivitel céljából ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem értékesíti.
 
 (7)
 
@@ -1023,7 +1023,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - f) a megszűnt cég törlése iránti kérelem, ideértve az egyszerűsített végelszámolásban – a végelszámoló személyének bejelentésével együtt – előterjesztett törlés iránti kérelmet;
 - g) a határozat kijavítása, kiigazítása, illetve kiegészítése iránti kérelem;
 - h) a választói névjegyzékkel kapcsolatos eljárás;
-- i)
+- i) a kisajátítási eljárással, valamint a közérdekű használati jog alapításával összefüggő kártalanítási összeg letétbe helyezése;
 - j) az áttételt elrendelő végzés elleni fellebbezés;
 - k) a kárpótlási ügyekben hozott közigazgatási döntés ellen indított közigazgatási per;
 - l) a helyi önkormányzat adósságrendezési eljárása;
@@ -1043,7 +1043,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
   - zsa) a cég cégkivonatának, cégbizonyítványának és cégmásolatának kiállítása,
   - zsb) a cég cégnyilvántartásban szereplő elektronikus okiratainak elektronikus úton történő megküldése.
 
-(2)
+(2) Illetékmentes a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény felhatalmazása alapján kiadott kormányrendeletekben meghatározott felső összeghatárok, illetve értékhatárok változására tekintettel az adós által a bírósághoz benyújtott kérelem és az e kérelmet elbíráló végzés ellen benyújtott fellebbezés.
 
 (3)
 
@@ -1125,7 +1125,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
 - v) a Csődtv. 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
-(2)
+(2) Illetékfeljegyzési jog illeti meg a reorganizációs és a szerkezetátalakítási eljárás alatt állót a reorganizációs és a szerkezetátalakítási eljárás alatt indított bírósági eljárásokban.
 
 (3) Az (1) bekezdés i) pontjában meghatározott, a munkaviszonyból származó munkabér- és egyéb követelésre tekintettel indított felszámolási eljárás esetén az illeték viseléséről a bíróság az eljárást megszüntető vagy a felszámolást elrendelő végzésében dönt.
 
@@ -1752,6 +1752,8 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
 102/B. § E törvénynek az illetékekről szóló 1990. évi XCIII. törvény és a szövetkezetekről szóló 2006. évi X. törvény módosításáról szóló 2017. évi CXXII. törvénnyel (a továbbiakban: 2017. évi CXXII. törvény) megállapított 45. § (1a) bekezdését a 2017. évi CXXII. törvény hatálybalépésekor bejegyzett, vagy bejegyzés alatt álló közérdekű nyugdíjas szövetkezet esetében is alkalmazni kell. A közérdekű nyugdíjas szövetkezetnek a megfizetett illetéket az állami adóhatóság a cégbíróság visszatérítésről szóló végzése alapján, a végzés közlésétől számított 30 napon belül, hivatalból téríti vissza a 79. § (4) bekezdésének alkalmazásával. A végzést a cégbíróság az állami adóhatósággal elektronikus úton közli.
 
 102/C. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról szóló 2019. évi XCIX. törvénnyel megállapított 18. § (1a) bekezdését, 19. § (6) bekezdését, 26. § (21) bekezdését, 27. § (4) bekezdését, 91. § (1a) bekezdését, 102. § (1a) bekezdését azon belterületbe vont ingatlanok, belterületbe vont ingatlannal rendelkező társaság vagyoni betétjének átruházása esetén kell alkalmazni, amely ingatlanok belterületbe vonása 2020. január 31-ét követően történt.
+
+102/E. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel beiktatott 57. § (2) bekezdést az e rendelkezés hatálybalépésekor folyamatban lévő adósságrendezési eljárásokban is alkalmazni kell.
 
 103. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

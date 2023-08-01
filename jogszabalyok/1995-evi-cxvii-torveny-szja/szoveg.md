@@ -212,7 +212,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 - 52.
 - 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.
 - 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
-- 55.
+- 55. 30 év alatti anya: az a 30. életévét be nem töltött, gyermeket vállaló nő, akinek családi kedvezményre való jogosultsága magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a 30. életéve betöltését megelőző napig megnyílik.
 - 56.
 - 57.
 - 58.
@@ -737,7 +737,9 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 - a) az utazási bérlettel, az utazási jeggyel történő, az említett kormányrendelet által előírt elszámolás ellenében, legfeljebb a bérlet, a jegy árát meg nem haladó értékben (ideértve azt az esetet is, ha a juttatás a munkáltató nevére szóló számla ellenében történő térítés formájában valósul meg), vagy
 - b) költségtérítés címén (ideértve különösen a saját gépjárművel történő munkába járás költségtérítését is)
   - ba) a munkában töltött napokra a munkahely és a lakó- vagy tartózkodási hely között és/vagy
-  - bb) hazautazásra a munkahely és a lakóhely között közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként 15 forint értékben kap a magánszemély.
+  - bb) hazautazásra a munkahely és a lakóhely között
+
+közforgalmi úton mért oda-vissza távolság figyelembevételével kilométerenként legfeljebb 30 forint értékben kap a magánszemély.
 
 (3) A (2) bekezdés b) pontjában meghatározott összeget meghaladó költségtérítés – ha a törvény másként nem rendelkezik – a magánszemély (1) bekezdés szerinti jövedelme.
 
@@ -879,12 +881,10 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 (2) A családi kedvezmény – az eltartottak lélekszámától függően – kedvezményezett eltartottanként és jogosultsági hónaponként
 
 - a) egy eltartott esetén 66 670 forint,
-- b) kettő eltartott esetén
-  - ba) 2016-ban 83 330 forint,
-  - bb) 2017-ben 100 000 forint,
-  - bc) 2018-ban 116 670 forint,
-  - bd) 2019-ben és az azt követő években 133 330 forint,
+- b) kettő eltartott esetén 133 330 forint,
 - c) három és minden további eltartott esetén 220 000 forint.
+
+(2a) A (2) bekezdés szerinti családi kedvezmény minden olyan kedvezményezett eltartott után, aki a családok támogatásáról szóló törvény szerint tartósan beteg, illetve súlyosan fogyatékos személynek minősül, jogosultsági hónaponként és kedvezményezett eltartottanként 66 670 forinttal növelt összegben vehető igénybe.
 
 (3) A családi kedvezmény érvényesítésére jogosult
 
@@ -923,16 +923,17 @@ kapja;
 
 (1b) Ha az adott jogosultsági hónap után járó családi kedvezményre egy magánszemély jogosult, az őt megillető családi kedvezményt adóbevallásban megoszthatja a vele közös háztartásban élő, jogosultnak nem minősülő házastársával, élettársával, ideértve azt az esetet is, ha a családi kedvezményt a jogosult egyáltalán nem tudja érvényesíteni. Azon jogosultsági hónapokra eső családi kedvezményre, amelyre vonatkozóan a jogosult vagy házastársa, élettársa a gyermeket nevelő egyedülálló családi pótlékát igénybe veszi, a megosztás nem alkalmazható, ide nem értve, ha a jogosult a családok támogatásáról szóló 1998. évi LXXXIV. törvény 12. § (3) bekezdése alapján minősül egyedülállónak.
 
-(1c) A családi kedvezmény közös igénybevétele, megosztása az adóbevallásban a 29/A. § (3) bekezdés c)–d) pontjában nem említett jogosultak esetében független attól, hogy az adóelőleg megállapításánál mely jogosultnál történt annak figyelembevétele.
+(1c) A családi kedvezmény közös igénybevétele, megosztása az adóbevallásban független attól, hogy az adóelőleg megállapításánál mely jogosultnál történt annak figyelembevétele.
 
 (1d) Több jogosult vagy a kedvezmény megosztása esetén az igénybevétel feltétele az érintett magánszemélyek adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, továbbá a kedvezmény összegének – az összeg vagy a kedvezményezett eltartottak számának felosztásával történő – közös igénybevételére, megosztására vonatkozó döntésüket.
 
 (1e) Ha jogerős bírósági döntés, egyezség, közös nyilatkozat alapján a szülők egyenlő időszakokban felváltva gondozzák gyermeküket, és ezért a családi pótlékra 50-50 százalékos arányban mindkét szülő jogosult, a gyermek mindkét szülő – valamint a szülő házastársa – vonatkozásában kedvezményezett eltartottnak minősül. A felváltva gondozott gyermek után a szülő (házastársa) a családi kedvezmény 29/A. § (2) bekezdés szerint meghatározott összege 50 százalékának érvényesítésére jogosult. A gyermeket felváltva gondozó szülők a családi kedvezmény közös érvényesítésére egymás között nem jogosultak.
 
-(2) A családi kedvezmény érvényesítésének feltétele a magánszemély adóbevalláshoz vagy munkáltatói adómegállapításhoz tett írásbeli nyilatkozata
+(2) A családi kedvezmény érvényesítésének feltétele a magánszemély adóbevalláshoz tett írásbeli nyilatkozata
 
-- a) a jogosultság 29/A. § (3) bekezdés szerinti jogcíméről, és
-- b) a családi kedvezmény megosztása, közös érvényesítése esetén erről a tényről,
+- a) a jogosultság 29/A. § (3) bekezdés szerinti jogcíméről,
+- b) a 29/A. § (2a) bekezdése szerinti növelt összegű kedvezmény szempontjából figyelembe vehető kedvezményezett eltartottról, és
+- c) a családi kedvezmény megosztása, közös érvényesítése esetén erről a tényről,
 
 amelyen fel kell tüntetnie – a magzat kivételével – minden eltartott (kedvezményezett eltartott) adóazonosító jelét, továbbá azt, hogy e személyek – ideértve a magzatot is – az adóév mely hónapjaiban minősültek eltartottnak, kedvezményezett eltartottnak. A családi kedvezmény megosztása, közös érvényesítése esetén a másik fél adóazonosító jelét is fel kell tüntetni.
 
@@ -1035,6 +1036,35 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 (4) Amennyiben a 25 év alatti fiatalok kedvezményére való jogosultság az adóév egészében nem áll fenn, és a jogosultsági hónapokban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelem másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelemnek a jogosultsági hónapokkal arányos részeként kell figyelembe venni.
 
 (5) Ha a 29/C. § szerinti első házasok kedvezményére jogosult házaspár esetén mindkét házastárs 25 év alatti fiatal, az első házasok kedvezménye érvényesítésének első jogosultsági hónapja a 29/C. § (4) bekezdésétől eltérően az a hónap, amelyet megelőző hónapban a házastársak valamelyike a 25. életévét betölti.
+
+### A 30 év alatti anyák kedvezménye
+
+29/G. § (1) A 30 év alatti anya a 29. § szerint meghatározott összevont adóalapját a 30 év alatti anyák kedvezményével csökkenti. A 30 év alatti anyák kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét és a 25 év alatti fiatalok kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+
+(2) A 30 év alatti anyák kedvezményére jogosult az a 30 év alatti anya, aki
+
+- a) a 29/A. § (3) bekezdés a) pontja szerint a vér szerinti vagy örökbe fogadott gyermekére tekintettel, vagy
+- b) a 29/A. § (3) bekezdés b) pontja szerinti magzatra tekintettel
+
+családi kedvezmény érvényesítésére jogosult.
+
+(3) A 30 év alatti anyák kedvezménye a 30 év alatti anya által a jogosultsági hónapokban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági hónapokra elszámolt), összevont adóalapba tartozó,
+
+- a) a 3. § 21. pontja szerint bérnek minősülő jövedelme,
+- b) az a) pontban nem említett nem önálló tevékenységből származó jövedelmeinek összege, ide nem értve a munkaviszony megszüntetésére tekintettel kapott végkielégítés törvényben előírt mértéket meghaladó összegét,
+- c) önálló tevékenységből származó jövedelmei közül
+  - ca) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétje, átalányadózás esetén az átalányban megállapított jövedelme;
+  - cb) a mezőgazdasági őstermelő e tevékenységéből származó jövedelme;
+  - cc) az európai parlamenti képviselő e tevékenységéből származó jövedelme;
+  - cd) a helyi önkormányzati képviselő e tevékenységéből származó jövedelme;
+  - ce) a választott könyvvizsgáló e tevékenységéből származó jövedelme;
+  - cf) a magánszemély által nem egyéni vállalkozóként kötött, díjazás ellenében történő munkavégzésre irányuló más szerződés alapján folytatott tevékenységéből származó jövedelme,
+
+de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes munkaidőben alkalmazásban állók Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző év július hónapjára vonatkozó nemzetgazdasági szintű bruttó átlagkeresetének szorzata.
+
+(4) Jogosultsági hónapként az a hónap vehető figyelembe, amelyben a 30 év alatti anya családi kedvezményre való jogosultsága a (2) bekezdés szerint fennáll, de legkorábban a 25. életéve betöltésének hónapját követő hónap. A kedvezmény legfeljebb annak az évnek az utolsó jogosultsági hónapjáig érvényesíthető, amely évben a 30 év alatti anya betölti a 30. életévét.
+
+(5) Amennyiben a 30 év alatti anyák kedvezményére való jogosultság az adóév egészében nem áll fenn, és a jogosultsági hónapokban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelem másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelemnek a jogosultsági hónapokkal arányos részeként kell figyelembe venni.
 
 ### VII. Fejezet — AZ ÖSSZEVONT ADÓALAP ADÓJÁNAK MEGHATÁROZÁSA
 
@@ -1244,7 +1274,14 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát;
 - c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatkozik arról, hogy a 17. § (5) bekezdését alkalmazza.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett négy vagy több gyermeket nevelő anyák kedvezményét, a 25 év alatti fiatalok kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
+
+- a) négy vagy több gyermeket nevelő anyák kedvezményét,
+- b) 25 év alatti fiatalok kedvezményét,
+- c) 30 év alatti anyák kedvezményét,
+- d) személyi kedvezményt,
+- e) első házasok kedvezményét,
+- f) családi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 
@@ -1316,6 +1353,7 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 - c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről,
 - d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
 - e) a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítéséről.
+- f) a 30 év alatti anyák kedvezményének érvényesítéséről.
 
 (3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
@@ -1341,12 +1379,20 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 (3e) A 25 év alatti fiatalok kedvezményét érvényesítő fiatal a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 25 év alatti fiatalok kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
+(3f) A magánszemély a (3) bekezdés szerinti adóelőleg-nyilatkozatban feltüntetheti, ha a kedvezményezett eltartott a 29/A. § (2a) bekezdése szerinti növelt összegű kedvezmény szempontjából figyelembe vehető kedvezményezett eltartottnak minősül.
+
+(3g) A 30 év alatti anya elsőként a 25. életéve betöltése hónapját követő hónapra vonatkozóan tehet a 30 év alatti anyák kedvezményének érvényesítése érdekében adóelőleg-nyilatkozatot. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, a gyermek nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést.
+
+(3h) A 30 év alatti anyák kedvezményét érvényesítő 30 év alatti anya a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 30 év alatti anyák kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével (8. §) meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 - a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
 - b) a nyilatkozattételkor fennálló körülmények ellenére négy vagy több gyermeket nevelő anyák kedvezménye, családi kedvezmény, első házasok kedvezménye, tevékenységi kedvezmény, személyi kedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pont szerinti esetben is, a befizetési különbözet 12 százalékát különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 
 (4a) A fiatal a (3d) bekezdés szerinti nyilatkozatot – megjelölve abban azt az összeget, amelyre nem kéri a 25 év alatti fiatalok kedvezménye érvényesítését – akkor tesz, ha a nyilatkozat hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot meghaladná. Ha a fiatal a (3d) bekezdés szerint nem tesz nyilatkozatot, és a nyilatkozata hiányában keletkező befizetési különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a fiatal az adóévre vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti-bírságot állapít meg, amelyet a személyi jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.
+
+(4b) A 30 év alatti anya a (3g) bekezdés szerinti nyilatkozatát visszavonja, ha a visszavonás hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot meghaladná. Ha a 30 év alatti anya nem tesz visszavonó nyilatkozatot, és a visszavonás hiányában keletkező befizetési különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a 30 év alatti anya az adóévre vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti bírságot állapít meg, amelyet a személyi jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.
 
 (5) Az adóelőleg-levonásra kötelezett kifizető a kifizetést megelőzően tájékoztatja a magánszemélyt az adóelőleg-nyilatkozat lehetőségéről és az adott vagy nem adott nyilatkozat következményeiről.
 
@@ -1672,6 +1718,7 @@ költséghányad levonásával állapítja meg (átalányban megállapított jö
 - i) fényképészet (TESZOR 74.20);
 - j) textil, szőrme mosása, tisztítása (TESZOR 96.01), fodrászat, szépségápolás (TESZOR 96.02), hobbiállat-gondozás (TESZOR 96.09.11);
 - k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (TESZOR 56).
+- l) személygépjármű-vezető képzés tevékenység (TESZOR’08 85.53.11).
 
 (3) Abban az esetben, ha az egyéni vállalkozó tevékenysége év közben oly módon változik, hogy a korábban alkalmazott költséghányad alkalmazására már nem jogosult, a változás időpontjában az év első napjára visszamenőlegesen át kell térnie a tevékenységének megfelelő alacsonyabb költséghányad alkalmazására.
 
@@ -2303,8 +2350,10 @@ azzal, hogy a b) pont szerinti esetekben a megszerzés alapjául szolgáló tev�
 
 - a) a juttatás hónapja kötelezettségeként;
 - b) a 70. § (5) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként;
-- c) a 70. § (7) bekezdés a)–b) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
-- d) a 70. § (7) bekezdés b) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania és megfizetnie.
+- c) a 70. § (7) bekezdése szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
+- d) az a) ponttól eltérően, ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben szerzett béren kívüli juttatások együttes értéke az éves rekreációs keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész után béren kívüli juttatásként már teljesített közteher beszámításával
+
+kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania és megfizetnie.
 
 (6) Ha a magánszemély a kifizetőt terhelő adó mellett nem pénzben juttatott vagyoni értéket elidegeníti, annak szerzési értéke az a jövedelem, amely után a kifizető az adót megfizette.
 
@@ -2330,12 +2379,7 @@ azzal, hogy a b) pont szerinti esetekben a megszerzés alapjául szolgáló tev�
 
 azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
-(7) Egyes meghatározott juttatásnak minősül
-
-- a) a 71. § (1) bekezdés szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
-- b) a 71. § (1) bekezdés szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része;
-- c) a 71. § (2) bekezdés a) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
-- d) a 71. § (2) bekezdés b) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része.
+(7) Egyes meghatározott juttatásnak minősül a 71. § (1) bekezdése szerinti juttatásnak a rekreációs keretösszeget meghaladó része.
 
 (8) A (7) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 
@@ -2355,11 +2399,13 @@ a magánszemély által meg nem térített része.
 
 ### Béren kívüli juttatások
 
-71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak az adóévben a Széchenyi Pihenő Kártya
+71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak az adóévben a Széchenyi Pihenő Kártya juttatás céljából nyitott korlátozott rendeltetésű fizetési számlájára utalt, a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendeletben meghatározott
 
-- a) szálláshely alszámlájára utalt, kormányrendeletben meghatározott szálláshely-szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb évi 225 ezer forint támogatás;
-- b) vendéglátás alszámlájára utalt, melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) kormányrendeletben meghatározott étkezési szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb évi 150 ezer forint támogatás;
-- c) szabadidő alszámlájára utalt, a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló, kormányrendeletben meghatározott szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb évi 75 ezer forint támogatás.
+- a) szálláshely-szolgáltatásra,
+- b) melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) étkezési szolgáltatásra,
+- c) a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló szolgáltatásra
+
+felhasználható, a 70. § (8) bekezdése szerinti éves rekreációs keretösszeget – több juttatótól származóan együttvéve sem – meg nem haladó mértékű támogatás.
 
 (2) Béren kívüli juttatásnak minősül
 

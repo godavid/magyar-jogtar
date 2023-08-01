@@ -821,7 +821,7 @@ kerülhet sor.
 
 36. § (1) A cég bejegyzése (változásbejegyzése) iránti kérelmet elektronikus úton kell benyújtani. A cégbírósághoz elektronikus úton benyújtott kérelmek érkezéséről az e törvényben meghatározott feltételek fennállása esetén a cégbíróság elektronikus tanúsítványt, illetve változásbejegyzési kérelem esetében igazolást küld a jogi képviselőnek.
 
-(2) A cégbejegyzési (változásbejegyzési) eljárás során az elektronikus úton küldött okiratokat minősített elektronikus aláírással és időbélyegzővel kell ellátni, oly módon, hogy az időbélyegző alapján a minősített elektronikus aláírás használatára való jogosultság – az okirat aláírásának időpontjában való – fennállása megállapítható legyen. A jogi képviselő e kötelezettséget úgy is teljesítheti, ha a cégbejegyzési (változásbejegyzési) kérelmet látja el minősített elektronikus aláírással és időbélyegzővel. A cégbíróság által küldött elektronikus okirat közokiratnak minősül. Ügyvéd vagy kamarai jogtanácsos jogi képviselő esetén az ügyvédi tevékenységről szóló törvényben meghatározott elektronikus aláírás és elektronikus bélyegző is használható.
+(2) A cégbejegyzési (változásbejegyzési) eljárás során az elektronikus úton küldött okiratokat minősített elektronikus aláírással és időbélyegzővel kell ellátni, oly módon, hogy az időbélyegző alapján a minősített elektronikus aláírás használatára való jogosultság – az okirat aláírásának időpontjában való – fennállása megállapítható legyen. A cégbíróság által küldött elektronikus okirat közokiratnak minősül. Ügyvéd vagy kamarai jogtanácsos jogi képviselő esetén az ügyvédi tevékenységről szóló törvényben meghatározott elektronikus aláírás és elektronikus bélyegző is használható.
 
 (3) A cégbíróság a cégre vonatkozó iratokat elektronikus okirat formájában tartja nyilván.
 
@@ -847,7 +847,7 @@ kerülhet sor.
 
 (6) A bejegyzési (változásbejegyzési) kérelem jogerős elbírálásáig – ide nem értve a cégbejegyzési (változásbejegyzési) kérelmet visszautasító végzés közlését követő nyolc napon belüli ismételt benyújtás lehetőségét – ugyanazon cég bejegyzésére (változásbejegyzésére) irányuló kérelem ismételten nem nyújtható be.
 
-38. § (1) A céginformációs szolgálat a kérelem formanyomtatványát és annak mellékleteit informatikai szempontból (így az elektronikus aláírás hitelessége, az adatok sértetlensége, az időbélyegző dátuma és hitelessége, az elektronikus okirat formátuma tekintetében), valamint a kérelem formanyomtatványában foglalt adatok formai megfelelőségét megvizsgálja.
+38. § (1) A céginformációs szolgálat a kérelem formanyomtatványát és annak mellékleteit informatikai szempontból (így az elektronikus aláírás hitelessége, az adatok sértetlensége, az időbélyegző dátuma és hitelessége, az elektronikus okirat eredete, sértetlensége és formátuma tekintetében), valamint a kérelem formanyomtatványában foglalt adatok formai megfelelőségét megvizsgálja.
 
 (2) A céginformációs szolgálat a kérelem formanyomtatványában megjelölt természetes személyek adatainak ellenőrzése és a bűnügyi nyilvántartási rendszerből történő e törvény szerinti adatigényléshez szükséges adatok beszerzése céljából a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/E. §-ában megjelölt módon adatot igényel a személyiadat- és lakcímnyilvántartásból, továbbá a központi idegenrendészeti nyilvántartásból (a továbbiakban együtt: természetes személyek nyilvántartása).
 
@@ -1205,6 +1205,26 @@ illetve a cég tájékoztatási kötelezettsége
 (3) Európai gazdasági egyesülés esetében a (2) bekezdésben foglaltakon túlmenően a cég írásbeli képviselete, illetve hivatalos levelezése során azt is fel kell tüntetni, ha a vezető tisztségviselők képviseleti joga együttes.
 
 (4) Külföldi vállalkozás magyarországi fióktelepének, valamint külföldiek magyarországi közvetlen kereskedelmi képviseletének, illetve az európai gazdasági egyesülés telephelyének írásbeli képviselete, illetve hivatalos levelezése során a külföldi vállalkozásra vonatkozó adatokat kell feltüntetni a (2)–(3) bekezdésnek megfelelően. Emellett szerepeltetni kell a fióktelep, valamint a kereskedelmi képviselet, illetve a telephely cégjegyzékét vezető cégbíróság nevét és a cég nevét, székhelyét, valamint cégjegyzékszámát is.
+
+63/A. § (1) Ha a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül erre vonatkozó tagállami megkeresés érkezik, a cégbíróság megvizsgálja, hogy a megkeresésben megjelölt személy e törvény szerinti eltiltás hatálya alatt áll-e, vagy vele szemben fennáll-e a Ptk. 3:22. § (4), illetve (5) bekezdésében meghatározott kizáró ok. A tagállami megkeresésre sor kerülhet az Európai Unió tagállamában történő társaságalapítás és új vezető tisztségviselő, felügyelőbizottsági tag bejegyzése során is.
+
+(2) Ha a tagállami megkeresés a szükséges adatokat tartalmazza, a cégbíróság a 38. § (2) bekezdése szerinti módon a vizsgálat lefolytatásához adatot igényel a természetes személyek nyilvántartásából.
+
+(3) A cégbíróság elsődlegesen elektronikusan, számítógépes program útján ellenőrzi, hogy a cégjegyzék tartalmaz-e e törvény szerinti eltiltási bejegyzést a megkeresésben megjelölt személy vonatkozásában. Ha a cégjegyzék eltiltási bejegyzést nem tartalmaz, a cégbíróság további vizsgálatot folytatva a 44/B. §-ban foglaltak megfelelő alkalmazásával – a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül érkezett tagállami megkeresés megválaszolása céljából – adatot igényel a bűnügyi nyilvántartó szervtől.
+
+(4) A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül tájékoztatja a megkereső tagállamot a (2) és a (3) bekezdés szerinti vizsgálat eredményéről, ideértve azt is, ha a megjelölt személy nem azonosítható. A cégbíróság a tájékoztatást a tagállami megkeresés érkezésétől számított egy munkanapon belül küldi meg a megkereső tagállam részére. Ha a bűnügyi nyilvántartó szervtől a cégbíróság adatot igényel, a tájékoztatás megküldésének határideje a bűnügyi nyilvántartó szerv értesítésének érkezését követő munkanap.
+
+(5) A megkereső tagállam további tájékoztatást is kérhet. Az e törvény szerinti eltiltásra vonatkozó adatokról a cégbíróság tájékoztatást nyújt. A Ptk. 3:22. § (4), illetve (5) bekezdésében meghatározott kizáró ok esetén a cégbíróság kizárólag arról ad tájékoztatást, hogy a kizáró ok fennállása a Ptk. mely rendelkezésén alapul.
+
+(6) A cégbíróság e § szerinti információcsere során okiratokat nem küld a megkereső tagállam részére.
+
+(7) A cégbíróság a természetes személyre vonatkozó adatokat – a csalárd vagy más visszaélésszerű magatartás megelőzése, az Európai Unión belüli társasággal vagy fiókteleppel kapcsolatba kerülő személyek védelme biztosítása céljából – az e § szerinti információcsere biztosítása érdekében a (8) bekezdésben meghatározott ideig kezeli.
+
+(8) A cégbíróság informatikai rendszere az e törvény szerinti eltiltás fennállása esetén a 10. § (3) bekezdésében meghatározott időpontig, egyéb esetben az (1) bekezdésben foglalt megkeresés megválaszolásáig, de legfeljebb 60 napig tárolja a megkeresésben megjelölt személyre vonatkozó személyes adatokat.
+
+63/B. § (1) A 63/A. § szerinti információcserére e törvényben foglaltak figyelembevétele mellett az Európai Bizottság vonatkozó végrehajtási rendeletében előírt tartalomban és formában kerül sor.
+
+(2) A 63/A. § szerinti információcsere lefolytatására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
 
 ### V. Fejezet — JOGORVOSLATOK
 
@@ -2304,7 +2324,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 - h) a részvénytársaságok egyesüléséről szóló, 2011. április 5-i 2011/35/EU európai parlamenti és tanácsi irányelv;
 - i) a 89/666/EGK tanácsi irányelvnek, valamint a 2005/56/EK és a 2009/101/EK európai parlamenti és tanácsi irányelvnek a központi nyilvántartások, a kereskedelmi nyilvántartások és a cégjegyzékek összekapcsolása tekintetében történő módosításáról szóló, 2012. június 13-i 2012/17/EU európai parlamenti és tanácsi irányelv;
 - j) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról (átdolgozás) szóló, 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelv.
-- k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelv, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, és 16. cikk (6) bekezdését megállapító rendelkezéseit.
+- k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelv.
 
 (1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

@@ -385,7 +385,7 @@ a járulékfizetési alsó határ meghatározása során az a)–c) pontok szeri
 (3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban álló és
 
 - a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermeknevelést segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
-- b) a nemzeti köznevelésről szóló törvény hatálya alá tartozó köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban, a szakképzésről szóló törvény szerint szakképző intézményben nappali rendszerű szakmai oktatásban, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató esetében.
+- b) a köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban tanulmányokat folytató tanuló, a szakképző intézmény által szervezett szakmai oktatásban jogszabály alapján ingyenesen részt vevő tanuló, illetve képzésben részt vevő személy, továbbá a felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató hallgató esetében.
 
 (4) Járulékalapot képező jövedelemként kell figyelembe venni azt az (1) bekezdés a) és b) pontja szerinti jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban e törvény alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától, ha a kifizetés, juttatás időpontjában a 3. § alapján más ország járulékszabályai alkalmazandók.
 

@@ -744,7 +744,7 @@ céljára használható fel olyan módon, hogy az államháztartásért felelős
 - g) adósságszolgálattal kapcsolatos kiadás,
 - h) a jegybanki alapkamat előző évi átlagától függő költségvetési kiadás.
 
-33. § (1) A fejezetet irányító szerv a Kormány rendeletében és az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére, valamint az előirányzat nevének módosítására a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
+33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére, valamint az előirányzat nevének módosítására a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
 
 (1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére.
 

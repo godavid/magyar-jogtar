@@ -1279,7 +1279,7 @@ esetében.
 
 (4) Oklevél kiállítására csak az e törvény hatálya alá tartozó felsőoktatási intézmény jogosult. Az oklevél megnevezést csak a felsőoktatási intézmények által e törvény alapján kiállított szakképzettséget és – a felsőoktatási szakképzés és a szakirányú továbbképzés kivételével – felsőfokú végzettségi szintet, doktori fokozatot igazoló okiratra lehet használni.
 
-(5) Az oklevél Magyarország címerével ellátott közokirat, amely tartalmazza a kiállító felsőoktatási intézmény nevét, intézményi azonosító számát, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség megnevezését, az oklevél minősítését, a kiállítás helyét, évét, hónapját és napját, az oklevél által tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, az Európai Képesítési Keretrendszer szerinti besorolását, valamint a képzésnek a képzési és kimeneti követelmény szerinti időtartamát. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének – illetve a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek – eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát.
+(5) Az oklevél Magyarország címerével ellátott közokirat, amely tartalmazza a kiállító felsőoktatási intézmény nevét, intézményi azonosító számát, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség megnevezését, az oklevél minősítését, a kiállítás helyét, évét, hónapját és napját, az oklevél által tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, az Európai Képesítési Keretrendszer szerinti besorolását, valamint a képzésnek a képzési és kimeneti követelmény szerinti időtartamát. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének – illetve az intézmény szabályzatában meghatározott vezetőnek, akadályoztatása esetén további vezetőknek – nevét, beosztását és eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát.
 
 (6) A kiadott oklevelekről központi nyilvántartást kell vezetni.
 
@@ -3085,6 +3085,8 @@ megnevezéssel működik.
 
 (35) A Gábor Dénes Főiskola 2023. február 1-jétől Gábor Dénes Egyetem megnevezéssel, alkalmazott tudományok egyetemeként működik.
 
+(36) A Budapest Kortárstánc Főiskola 2023. augusztus 1-jétől Budapest Cirkuszművészeti és Kortárstánc Főiskola megnevezéssel működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2)
@@ -3352,7 +3354,7 @@ vonatkozó szabályait kell alkalmazni.
 | 52 |  |  | Baptista Teológiai Akadémia, Budapest |
 | 53 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
 | 54 |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 55 |  |  | Budapest Kortárstánc Főiskola, Budapest |
+| 55 |  |  | Budapest Cirkuszművészeti és Kortárstánc Főiskola, Budapest |
 | 56 |  |  | Egri Hittudományi Főiskola, Eger |
 | 57 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
 | 58 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
