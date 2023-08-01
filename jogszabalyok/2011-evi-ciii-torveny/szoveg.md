@@ -23,51 +23,26 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 - 5. értékesítés: az adóköteles termék ellenérték fejében történő átadása akként, hogy az az átvevőt tulajdonosként való rendelkezésre jogosítja;
 - 6. teljesítési hely: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) szerinti teljesítési hely;
-- 7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet I. mellékletében meghatározott Kombinált Nómenklatúra 2018. január 1-jén hatályos szövege szerinti vámtarifaszám;
+- 7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet I. mellékletében meghatározott Kombinált Nómenklatúra 2022. május 15-én hatályos szövege szerinti vámtarifaszám;
 - 8. teljesítési időpont: az Áfa törvény szerinti teljesítési időpont;
 - 9. taurin: a H2N-CH2-CH2-SO2-OH kémiai képlettel leírható vegyület (2-aminoetán-szulfonsav);
 - 10. sör: a 2203 VTSZ szám alá tartozó termék.
 - 11. cukrozott kakaópor: a 1806 10 VTSZ szám alá tartozó termék.
 - 12. metil-xantin: a koffein (1,3,7-trimetil-xantin), a teobromin (3,7-dimetil-xantin), a teofillin (1,3-dimetil-xantin).
 - 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
-- 14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
+- 14. szörp: a Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból, cukorszirupból vagy édesítőszerből, ízesítőanyagok, adalékanyagok vagy ezek kombinációjának hozzáadásával állítottak elő;
 - 15. adalékanyag: az élelmiszer-adalékanyagokról szóló, 2008. december 16-ai 1333/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1333/2008/EK rendelet) szerinti élelmiszer-adalékanyag és az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-ai 1334/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1334/2008/EK rendelet) szerinti aroma és aroma tulajdonságokkal rendelkező élelmiszer-összetevő, ide nem értve a 1333/2008/EK rendelet II. melléklet B. részének 1. Színezékek felsorolásában meghatározott színezőanyagként használt karamellt;
 - 16.
 - 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
 - 18.
-- 19. egészségmegőrző program: az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
+- 19. élmény- és szabadidősport, valamint egészségmegőrző program: az aktív Magyarországért felelős miniszter munkaszervezete tulajdonosi joggyakorlása alatt álló gazdasági társaság (a továbbiakban: Társaság) egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden tevékenysége, akciója, szemléletformáló kampánya vagy programja, továbbá a Társaság ezeket szolgáló beruházása;
 - 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 - 21. édesítőszer: az 1333/2008/EK rendelet II. melléklet B. részének 2. Édesítőszerek felsorolásában szereplő anyagok;
 - 22.
 
 #### 2. Az adókötelezettség
 
-2. § Adóköteles terméknek minősül az előrecsomagolt termékként forgalomba hozott,
-
-- a) hozzáadott cukrot tartalmazó, 8 gramm cukor/100 milliliter mennyiséget meghaladó cukortartalmú
-  - aa) 2009, 2202 VTSZ szám alá tartozó – energiaitalnak nem minősülő – termék a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével,
-  - ab) szörp a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó szörpök kivételével,
-
-[az aa) és ab) alpont a továbbiakban együtt: üdítőital];
-
-- b) a 2009, 2202 VTSZ szám alá tartozó termék, ha metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és
-  - ba) taurint tartalmaz, ideértve azt az esetet is, ha a taurint a termék valamely összetevője tartalmazza, feltéve, hogy metil-xantin-tartalma meghaladja az 1 milligramm metil-xantin/100 milliliter mennyiséget vagy taurintartalma meghaladja a 100 milligramm taurin/100 milliliter mennyiséget, vagy
-  - bb) metil-xantin-tartalma meghaladja a 15 milligramm metil-xantin/100 milliliter mennyiséget,
-
-(a továbbiakban: energiaital);
-
-- c) a hozzáadott cukrot tartalmazó
-  - ca) 1704, 1905, 2105 VTSZ szám alá tartozó termék, ha cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, ide nem értve azt a terméket, amely legalább 20 gramm méz/100 gramm mennyiséget tartalmaz, feltéve, hogy cukortartalma nem haladja meg a 40 gramm cukor/100 gramm mennyiséget,
-  - cb) 1806 VTSZ szám alá tartozó termék a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget és kakaótartalma 40 gramm/100 gramm terméknél alacsonyabb
-
-[a ca) és cb) alpont a továbbiakban együtt: előrecsomagolt cukrozott készítmény];
-
-- d) a c) pont hatálya alá nem tartozó 1905, 2005 20 20, 2008 VTSZ szám alá tartozó, gabona, burgonya vagy olajos magvak felhasználásával készült, sütött, extrudált vagy pörkölt, ízesített és azonnali fogyasztásra alkalmas termék, ha sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget, ide nem értve a kenyeret és a Magyar Élelmiszerkönyv szerinti, legfeljebb 2 gramm só/100 gramm sótartalmú sütőipari terméket (a továbbiakban: sós snack);
-- e) a 2103, 2104 VTSZ szám alá tartozó – gyermektápszernek, fogyasztásra kész levesnek vagy mártásnak nem minősülő – termék, ha sótartalma meghaladja az 5 gramm só/100 gramm mennyiséget (a továbbiakban: ételízesítő), kivéve a mustár, a ketchup és az olyan, nem szárított, aprított vagy pépesített, sózott ételízesítő zöldség készítményt, amelynek sótartalma nem haladja meg a 15 gramm só/100 gramm mennyiséget;
-- f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot, illetve édesítőszert tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert, feltéve, hogy a termék cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
-- g) a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt vagy adalékanyagot tartalmaz, feltéve, hogy a termék hozzáadott cukrot, illetve édesítőszert tartalmaz és a cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
-- h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
-- i) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt és a Jöt. 133. § (1) bekezdés e)–i) pontja hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
+2. § Adóköteles az 1. mellékletben meghatározott, előrecsomagolt termék.
 
 3. § (1) Adókötelezettség terheli az adóköteles termék:
 
@@ -91,22 +66,7 @@ személy, szervezet.
 
 #### 5. Az adó mértéke
 
-6. § Az adó mértéke
-
-- a) a 2. § a) pont aa) alpontja szerinti üdítőital esetében 15 forint/liter, ab) alpontja szerinti üdítőital esetében 240 forint/liter,
-- b) a 2. § b) pontjának ba) alpontja szerinti energiaital esetében 300 forint/liter, bb) alpontja szerinti energiaital esetében 50 forint/liter,
-- c) cukrozott kakaópor esetében 85 forint/kilogramm, más előrecsomagolt cukrozott készítmény esetében 160 forint/kilogramm,
-- d) sós snack esetében 300 forint/kilogramm,
-- e) ételízesítő esetében 300 forint/kilogramm,
-- f) ízesített sör és alkoholos frissítő esetében 25 forint/liter,
-- g) gyümölcsíz esetén 600 forint/kilogramm,
-- h) alkoholos ital esetében, ha annak alkoholtartalma
-  - ha) 1,2 térfogatszázaléknál nagyobb, de az 5 térfogatszázalékot nem éri el, 25 forint/liter,
-  - hb) 5 térfogatszázalék vagy annál nagyobb, de a 15 térfogatszázalékot nem éri el, 120 forint/liter,
-  - hc) 15 térfogatszázalék vagy annál nagyobb, de a 25 térfogatszázalékot nem éri el, 360 forint/liter,
-  - hd) 25 térfogatszázalék vagy annál nagyobb, de a 35 térfogatszázalékot nem éri el, 600 forint/liter,
-  - he) 35 térfogatszázalék vagy annál nagyobb, de a 45 térfogatszázalékot nem éri el, 850 forint/liter,
-  - hf) 45 térfogatszázalék vagy annál nagyobb, 1100 forint/liter.
+6. § Az adó mértékét az 1. melléklet szerinti táblázat tartalmazza.
 
 #### 6. Mentesség az adó alól
 
@@ -114,9 +74,30 @@ személy, szervezet.
 
 (2) Mentes az adó alól a 3. § (1) bekezdése szerinti értékesítés, ha az megfelel az Áfa törvény 89. § (1) bekezdése vagy 98. §-a szerinti feltételeknek.
 
-(3) Mentes az adó alól annak az adóköteles terméknek a 3. § (1) bekezdése szerinti értékesítése, amelyet vevője az Áfa törvény 89. § (1) bekezdése vagy 98. §-a szerinti feltételeknek megfelelően továbbértékesít, feltéve hogy e tényről a vevő az adóalany felé az értékesítéskor nyilatkozik, valamint a továbbértékesítés tényét – a továbbértékesített adóköteles termék mennyiségének közlésével – számára hitelt érdemlően igazolja. Ha a vevő a nyilatkozatában foglaltak ellenére az adóköteles terméket belföldön értékesíti tovább, akkor erről a tényről – a belföldön értékesített termék mennyiségének megjelölésével – az adó alanyát a belföldi értékesítés teljesítési időpontját követő 8 napon belül köteles értesíteni. Az adó alanya a vevő által belföldön továbbértékesített adóköteles termék utáni adót – az eredeti esedékességtől számított késedelmi pótlékkal növelten – a vevő által megküldött értesítés kézhezvételének napját magában foglaló adómegállapítási időszakban köteles megállapítani és esedékességkor megfizetni. Amennyiben a vevő a belföldi értékesítésről szóló értesítési kötelezettségének határidőben nem tesz eleget, akkor a belföldön értékesített adóköteles termék után az adóalany által meg nem fizetett adót, a nyilatkozattétel esedékességétől számított késedelmi pótlékot, illetve – ha a mulasztást az állami adó- és vámhatóság tárja fel – a meg nem fizetett adóval összefüggő adóbírságot és késedelmi pótlékot a vevő köteles megfizetni.
+(3) Mentes az adó alól annak az adóköteles terméknek a 3. § (1) bekezdés szerinti értékesítése, amelyet vevője
 
-(4) Mentes az adó alól annak az adóköteles terméknek a beszerzése, amelyet az adóalany belföldön saját adóköteles termék előállításához használ fel anélkül, hogy a beszerzett termék előrecsomagolt jellegét megváltoztatná.
+- a) az Áfa törvény 89. § (1) bekezdése vagy az Áfa törvény 98. §-a szerinti feltételeknek megfelelően továbbértékesít,
+- b) olyan saját termék előállításához használ fel, melyet az Áfa törvény 89. § (1) bekezdése vagy az Áfa törvény 98. §-a szerinti feltételeknek megfelelően értékesít, vagy
+- c) olyan saját, adóköteles termék előállításához használ fel, mely után a népegészségügyi termékadót megfizeti.
+
+(4) A (3) bekezdés szerinti mentesség feltétele, hogy a (3) bekezdés a)–c) pontja szerinti értékesítés, felhasználás szándékáról a vevő az adóalany felé az értékesítéskor nyilatkozik, valamint a (3) bekezdés a) vagy b) pontja szerinti értékesítés vagy (3) bekezdés c) pontja szerinti adófizetés tényét és
+
+- a) a (3) bekezdés a) pontja szerint továbbértékesített adóköteles termék mennyiségét,
+- b) a (3) bekezdés b) pontja szerint értékesített saját termék előállításához felhasznált, az adóalanytól beszerzett adóköteles termék mennyiségét,
+- c) a (3) bekezdés c) pontja szerinti adóköteles termék előállításához felhasznált, az adóalanytól beszerzett adóköteles termék mennyiségét
+
+az adóalany számára – a nyilatkozattétel napjától számított 366 napon belül – hitelt érdemlően igazolja.
+
+(5) Ha a vevő a (4) bekezdés szerinti nyilatkozatában foglaltak ellenére az általa beszerzett adóköteles terméket
+
+- a) a (3) bekezdés a) vagy b) pont szerinti termék esetében belföldön értékesíti, vagy
+- b) a (3) bekezdés c) pont szerinti termék esetében olyan saját termék előállításához használta fel, amelynek értékesítése esetén népegészségügyi termékadót nem fizetett,
+
+akkor erről a tényről – a belföldön továbbértékesített adóköteles termék, vagy értékesített saját termék előállításához felhasznált adóköteles termék mennyiségének megjelölésével – az adó alanyát a továbbértékesítés vagy a saját termék értékesítése teljesítési időpontját követő 8 napon belül köteles értesíteni. Az adó alanya a vevő által belföldön továbbértékesített adóköteles termék vagy az értékesített saját termék előállításához felhasznált adóköteles termék utáni adót – az eredeti esedékességtől számított késedelmi pótlékkal növelten – a vevő által megküldött értesítés kézhezvételének napját magában foglaló adómegállapítási időszakban köteles megállapítani és esedékességkor megfizetni.
+
+(6) Amennyiben a vevő a (4) bekezdés szerinti igazolási vagy a belföldi értékesítésről szóló, (5) bekezdés szerinti értesítési kötelezettségének határidőben nem tesz eleget, akkor a számára értékesített adóköteles termék után az adóalany által meg nem fizetett adót, a (4) bekezdés szerinti nyilatkozattétel esedékességétől számított késedelmi pótlékot, illetve – ha a mulasztást az állami adó- és vámhatóság tárja fel – a meg nem fizetett adóval összefüggő adóbírságot és késedelmi pótlékot a vevő köteles megfizetni.
+
+(7) Mentes az adó alól annak az adóköteles terméknek a beszerzése, amelyet az adóalany belföldön saját adóköteles termék előállításához használ fel anélkül, hogy a beszerzett termék előrecsomagolt jellegét megváltoztatná.
 
 #### 7. Az adó megállapítása
 
@@ -131,18 +112,18 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (3) Ha az adómegállapítási időszakban értékesített adóköteles termék mennyisége a bevallás benyújtását követően csökken, az adó alanya az adó összegét abban az adómegállapítási időszakban jogosult csökkenteni, amelyben a helyesbítésről, érvénytelenítésről szóló számlát, számviteli bizonylatot vagy más okiratot kiállították.
 
-(4) Az adó alanya a fizetendő adóját felajánlhatja egészségmegőrző program finanszírozására az adóbevallásában tett rendelkező nyilatkozatával, azzal, hogy az adófelajánlás összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
+(4) Az adó alanya a fizetendő adóját felajánlhatja élmény- és szabadidősport, valamint egészségmegőrző program finanszírozására az adóbevallásában tett rendelkező nyilatkozatával, azzal, hogy az adófelajánlás összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
 
 (5) A rendelkező nyilatkozat az adóbevallás benyújtását követően nem módosítható és nem pótolható, késedelmesen benyújtott bevallás esetén a rendelkező nyilatkozat érvénytelen.
 
-(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult egészségügyi államigazgatási szervnek átutalja, feltéve, hogy az adóalany
+(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult Társaságnak átutalja, feltéve, hogy az adóalany
 
 - a) hatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása az átutaláskor nem haladja meg a százezer forintot és
 - b) a rendelkező nyilatkozatot magában foglaló adóbevallásában fizetendő adóként megjelölt összeget határidőben megfizette.
 
 (7) Nem érinti a (6) bekezdés szerint átutalt összeget, ha a hatóság határozata vagy az adóalany önellenőrzése eredményeképpen a fizetendő adó (4) bekezdés szerinti 10%-ának megfelelő összeg módosul.
 
-(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja az egészségügyi államigazgatási szervet a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
+(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja a Társaságot a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
 
 #### 8. Nyilvántartás-vezetési kötelezettség
 
@@ -183,9 +164,9 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 (4) Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2012. évi XVIII. törvény 43. §-ával megállapított 2. § h) pontját 2012. január 1-jétől kell alkalmazni.
 
-(5) Ha az alkoholos ital első belföldi teljesítési helyű értékesítése 2014-ben, a Jöt. szerinti szabad forgalomba bocsátása pedig 2014. december 31-ét követően valósul meg, akkor – a 3. § (1) bekezdés a) pontjában foglaltaktól eltérően – az adókötelezettség az alkoholos ital Jöt. szerinti szabad forgalomba bocsátását terheli. Az adó alanya – a 4. § a) pontjában foglaltaktól eltérően – az alkoholos ital Jöt. szerinti szabad forgalomba bocsátója.
+(5)
 
-(6) Az (5) bekezdés szerinti adókötelezettség utáni adót – a 8. § (1) bekezdésében foglaltaktól eltérően – az alkoholos ital szabad forgalomba bocsátásának napját magában foglaló, 10. § (2) bekezdése vagy a 10. § (3) bekezdése szerinti bevallási időszakra kell megállapítani és a 10. § (2) bekezdése vagy a 10. § (3) bekezdése szerint bevallani.
+(6)
 
 11. § A népegészségügyi termékadóból és a baleseti adóból származó bevétel az Egészségbiztosítási Alap bevételét képezi.
 
@@ -242,3 +223,48 @@ adóköteles termék mennyisége termékenkénti bontásban.
 (2)
 
 13. § E törvény a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 8–10. cikke szerinti bejelentése az Európai Bizottság részére az irányelv 10. cikk (4) bekezdése szerint történik.
+
+### 1. melléklet a 2011. évi CIII. törvényhez
+
+#### A népegészségügyi termékadó-köteles termékek meghatározása és az adó mértéke
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1. |  | Adóköteles termék | Adómérték |
+| 2. | a) | Üdítőital |  |
+| 3. | aa) | a 2009, 2202 VTSZ szám alá tartozó – energiaitalnak, szörpnek nem minősülő – olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 8 gramm cukor/100 milliliter mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, a – legalább 50% gyümölcs, illetve zöldséghányadot tartalmazó nektárok, gyümölcslevek és zöldséglevek, valamint – legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével | 23 forint/liter |
+| 4. | ab) | a 2009, 2202 VTSZ szám alá tartozó – energiaitalnak, szörpnek nem minősülő – olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 8 gramm cukor/100 milliliter mennyiséget nem haladja meg, a – legalább 50% gyümölcs, illetve zöldséghányadot tartalmazó nektárok, gyümölcslevek és zöldséglevek, valamint – legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével | 8 forint/liter |
+| 5. | ac) | a szörp, mely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 8 gramm cukor/100 milliliter mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, a – a Magyar Élelmiszerkönyv szerinti kivonatalapú szörpök, valamint – a legalább 50% gyümölcs, illetve zöldséghányadot tartalmazó szörpök kivételével | 310 forint/liter |
+| 6. | ad) | a szörp, mely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 8 gramm cukor/100 milliliter mennyiséget nem haladja meg, a – a Magyar Élelmiszerkönyv szerinti kivonatalapú szörpök, valamint – a legalább 50% gyümölcs, illetve zöldséghányadot tartalmazó szörpök kivételével | 105 forint/liter |
+| 7. | b) | Energiaital |  |
+| 8. | ba) | a bb) alpont hatálya alá nem tartozó, 2009, 2202 VTSZ szám alá tartozó termék, ha metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és metil-xantin-tartalma meghaladja a 15 milligramm metil-xantin/100 milliliter mennyiséget | 65 forint/liter |
+| 9. | bb) | a 2009, 2202 VTSZ szám alá tartozó termék, ha metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és ginsenget, L-arginint vagy legalább 10 milligramm/100 milliliter mennyiségű taurint vagy ezek kombinációját tartalmazza | 390 forint/liter |
+| 10. | c) | Előrecsomagolt cukrozott készítmény |  |
+| 11. | ca) | a 1704, a d) pont hatálya alá nem tartozó 1905, 2105 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, ide nem értve azt a terméket, amely legalább 20 gramm méz/100 gramm mennyiséget tartalmaz, feltéve, hogy cukortartalma nem haladja meg a 40 gramm cukor/100 gramm mennyiséget, valamint a 1905 10 és a 1905 40 VTSZ szám alá tartozó termékeket | 210 forint/kilogramm |
+| 12. | cb) | a 1704, a d) pont hatálya alá nem tartalmazó 1905, 2105 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz és cukortartalma a 25 gramm cukor/100 gramm mennyiséget nem haladja meg, ide nem értve – azt a terméket, amely legalább 20 gramm méz/100 gramm mennyiséget tartalmaz, feltéve, hogy cukortartalma nem haladja meg a 25 gramm cukor/100 gramm mennyiséget, – a 1905 10 és a 1905 40 VTSZ szám alá tartozó termékeket, valamint – a kenyeret és a Magyar Élelmiszerkönyv szerinti vizes zsömlét és tejes kiflit | 65 forint/kilogramm |
+| 13. | cc) | a 1806 VTSZ szám alá tartozó, 40 gramm/100 gramm mennyiségnél alacsonyabb kakaótartalmú olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget, vagy amely hozzáadott cukrot és édesítőszert egyaránt tartalmaz, – a legalább 50%-ban tejalapanyag felhasználásával készült termékek és – a ce) alpont hatálya alá eső termékek kivételével | 210 forint/kilogramm |
+| 14. | cd) | a 1806 VTSZ szám alá tartozó, 40 gramm/100 gramm mennyiségnél alacsonyabb kakaótartalmú olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 40 gramm cukor/100 gramm mennyiséget nem haladja meg, – a legalább 50%-ban tejalapanyag felhasználásával készült termékek és – a ce) alpont hatálya alá eső termékek kivételével | 65 forint/kilogramm |
+| 15. | ce) | a 1806 10 VTSZ szám alá tartozó, 40 gramm/100 gramm mennyiségnél alacsonyabb kakaótartalmú olyan termék, amely hozzáadott cukrot és édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 40 gramm cukor/100 gramm mennyiséget meghaladja | 110 forint/kilogramm |
+| 16. | cf) | a 1806 10 VTSZ szám alá tartozó, 40 gramm/100 gramm mennyiségnél alacsonyabb kakaótartalmú olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 40 gramm cukor/100 gramm mennyiséget nem haladja meg | 40 forint/kilogramm |
+| 17. | d) | Ropogtatnivaló (snack) |  |
+| 18. | da) | a 1904, 1905, 2005 20 20, 2005 99, 2008 VTSZ szám alá tartozó, gabona, burgonya, zöldség vagy olajos magvak felhasználásával készült, sütött, extrudált, pirított, puffasztott vagy pörkölt és azonnali fogyasztásra alkalmas termék, ha – sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget, vagy – telített zsírsavtartalma meghaladja a 2 gramm telített zsírsav/100 gramm mennyiséget, ide nem értve: – a kenyeret, – a Magyar Élelmiszerkönyv szerinti, legfeljebb 2 gramm só/100 gramm sótartalmú sütőipari terméket, – a db) alpont szerinti terméket – a dc) alpont szerinti terméket | 390 forint/kilogramm |
+| 19. | db) | a 2008 VTSZ szám alá tartozó, legalább 90%-ban olajos magvakat tartalmazó, hozzáadott zsiradék felhasználása nélkül előállított termék | 90 forint/kilogramm |
+| 20. | dc) | a 1905 VTSZ szám alá tartozó, legfeljebb 1 gramm só/100 gramm sótartalmú – hozzáadott cukrot tartalmazó, legfeljebb 25 gramm cukor/100 gramm cukortartalmú termék – olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz vagy hozzáadott cukrot és édesítőszert sem tartalmaz | 65 forint/kilogramm |
+| 21. |  | Ételízesítő |  |
+| 22. | e) | a 2103, 2104 VTSZ szám alá tartozó - gyermektápszernek, fogyasztásra kész levesnek vagy mártásnak nem minősülő - termék, ha sótartalma meghaladja az 5 gramm só/100 gramm mennyiséget, kivéve – a mustárt, – a ketchupot és – az olyan, nem szárított, aprított vagy pépesített, sózott ételízesítő zöldség készítményt, amelynek sótartalma nem haladja meg a 15 gramm só/l00 gramm mennyiséget | 390 forint/kilogramm vagy 390 forint/liter |
+| 23. | f) | Ízesített sör |  |
+| 24. | fa) | olyan ital, amely sört és hozzáadott cukrot tartalmaz, és cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert | 33 forint/liter |
+| 25. | fb) | olyan ital, amely sört tartalmaz és hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma az 5 gramm cukor/100 milliliter mennyiséget nem haladja meg, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert | 10 forint/liter |
+| 26. | g) | Alkoholos frissítő |  |
+| 27. | ga) | a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt vagy adalékanyagot és hozzáadott cukrot tartalmaz, és cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert | 33 forint/liter |
+| 28. | gb) | a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt vagy adalékanyagot tartalmaz és hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma az 5 gramm cukor/100 milliliter mennyiséget nem haladja meg, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert | 10 forint/liter |
+| 29. | h) | Gyümölcsíz |  |
+| 30. | ha) | a 2007 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével | 780 forint/kilogramm |
+| 31. | hb) | a 2007 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 35 gramm cukor/100 gramm mennyiséget nem haladja meg, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével | 260 forint/kilogramm |
+| 32. | i) | Csemege |  |
+| 33. | ia) | a d) pont hatálya alá nem tartozó 1904, a 2006, a d) pont hatálya alá nem tartozó, olajos magvak felhasználásával készült 2008 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot tartalmaz, ha cukortartalma meghaladja a 15 gramm cukor/100 gramm mennyiséget, vagy hozzáadott cukrot és édesítőszert egyaránt tartalmaz, a 8 gramm/100 gramm rosttartalmat elérő termék kivételével | 210 forint/kilogramm |
+| 34. | ib) | a d) pont hatálya alá nem tartozó 1904, a 2006, a d) pont hatálya alá nem tartozó, olajos magvak felhasználásával készült 2008 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 15 gramm cukor/100 gramm mennyiséget nem haladja meg, a 8 gramm/100 gramm rosttartalmat elérő termék kivételével | 65 forint/kilogramm |
+| 35 | j) | Előrecsomagolt édes, sós tészta |  |
+| 36. | ja) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, vagy amely hozzáadott cukrot és édesítőszert egyaránt tartalmaz, ide nem értve a jc) alpont hatálya alá tartozó termékeket | 210 forint/kilogramm |
+| 37. | jb) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 25 gramm cukor/100 gramm mennyiséget nem haladja meg, ide nem értve a jc) alpont hatálya alá tartozó termékeket | 65 forint/kilogramm |
+| 38. | jc) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amelynek sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget | 210 forint/kilogramm |

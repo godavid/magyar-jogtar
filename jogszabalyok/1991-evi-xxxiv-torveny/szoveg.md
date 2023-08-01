@@ -66,7 +66,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (10) Távszerencsejáték és online kaszinójáték esetében a (8) bekezdésben meghatározott összegű kifizetéskor nyereményigazolás akkor állítható ki, ha figyelemmel a játékosi egyenlegről történt kifizetések és az egyenlegre történt befizetések különbözetére, a játékosnak kiadott utolsó nyereményigazolás kiadásától számított időszakra vonatkozóan, illetve az első nyereményigazolás kiadása esetén a játékos nyilvántartásba vételétől számított időszakra vonatkozóan a tényleges nyeremény a 2 millió forintot, illetve az ennek megfelelő, a Magyar Nemzeti Bank által az egyes nyereményfizetések napján közzétett középárfolyam alapján meghatározott valutaösszeget meghaladja. A nyereményigazolásnak tartalmaznia kell a vizsgált időszak megjelölését is.
 
-(11) A játékos részére a szervező által létrehozott közös játékosi egyenleg esetében a (10) bekezdésben foglaltakat alkalmazni kell.
+(11) A játékos részére a szervező által létrehozott közös, vagy több játékosi egyenleg esetében a (10) bekezdésben foglaltakat alkalmazni kell. Több egyenleg esetén a különbözet számításakor a különböző játékosi egyenlegek számadatait összesítetten kell figyelembe venni.
 
 (12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
 
@@ -605,23 +605,23 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 - c)
 - d) egyéb sorsolásos játék. (24. §).
 
-21. § Sorsjáték az a rendezvény, amelynek keretében a sorsjáték szervezője ellenérték fejében folyamatos számozással megjelölt vagy az esetleges nyeremény összegét megjelölő sorsjegyet bocsát ki, és kötelezettséget vállal arra, hogy az előre meghatározott helyen és időben nyilvánosan megtartott sorsoláson, vagy a sorsjegy megvásárlásával egy időben a véletlenszerűen kihúzott számot vagy nyereményösszeget megjelölő sorsjegy birtokosát meghatározott vagyoni értéket képviselő nyereményhez juttatja.
+21. § Sorsjáték az az esemény, amelynek keretében a sorsjáték szervezője ellenérték fejében folyamatos számozással megjelölt vagy az esetleges nyeremény összegét megjelölő sorsjegyet bocsát ki, és kötelezettséget vállal arra, hogy az előre meghatározott helyen és időben nyilvánosan megtartott sorsoláson, vagy a sorsjegy megvásárlásával egy időben a véletlenszerűen kihúzott számot vagy nyereményösszeget megjelölő sorsjegy birtokosát meghatározott vagyoni értéket képviselő nyereményhez juttatja. Sorsjátéknak minősül a kaparós sorsjegy is.
 
 21/A. § A szerencsejáték-felügyeleti hatóság a szervező kérelmére engedélyezi – a 16. § szerinti tombolajáték kivételével – több, a 21. § szerinti sorsjátékhoz kapcsolódó együttes különsorsolás szervezését az érintett sorsjátékok át nem vett nyereményei terhére.
 
-22. § Számsorsjáték az a rendezvény, amelynek keretében a szerencsejáték szervező köteles a meghatározott pénzösszegért megvásárolt sorsjegy birtokosának előre meghatározott nyereményt adni, ha a sorsjegy számsorában megjelölt egy vagy több szám azonos a nyilvános sorsoláson kihúzott számmal.
+22. § (1) Számsorsjáték az a rendezvény, amelynek keretében a szerencsejáték-szervező a meghatározott pénzösszegért megvásárolt sorsjegy birtokosának előre meghatározott nyereményt ad, ha a sorsjegy számsorában megjelölt egy vagy több szám azonos a nyilvános sorsoláson kihúzott számmal.
+
+(2) A bingójáték olyan bingóteremben folyamatosan szervezett számsorsjáték, amelyben a játékos által a helyszínen megvásárolt sorsjegyen lévő számok felhasználásával felépített számvariációk vagy számsorok helyszínen történő eltalálása jogosít nyereményre.
+
+(3) A kenó olyan számsorsjáték, melyben a játékos nyerés esetén a játéktervben összegszerűen meghatározott nyereményre válik jogosulttá.
+
+(4) A joker olyan folyamatosan szervezett számsorsjáték, amelyben a játékos nyerés esetén a játéktervben összegszerűen vagy arányosan meghatározott nyereményre válik jogosulttá. A joker – a szerencsejáték-felügyeleti hatóság engedélye alapján – más szerencsejátékokkal együtt is szervezhető. Ebben az esetben a jokerben való részvétel a kapcsolt másik játékban való részvételtől függővé tehető.
 
 #### 23. §
 
 23/A. § A bejelentésköteles játékok megbízás alapján történő lebonyolításakor a megbízási szerződés egy eredeti példányát is mellékelni kell a bejelentéshez. A megbízási szerződés hiányában a bejelentési kötelezettség teljesítőjét kell a bejelentésköteles játékok szervezőjének tekinteni.
 
-24. § (1) A 21. és 22. §-ban nem szabályozott sorsolásos játék (a továbbiakban: egyéb sorsolásos játék) a törvénynek a sorsolásos játékokra meghatározott rendelkezései alkalmazásával a szerencsejáték-felügyeleti hatóság engedélyével szervezhető.
-
-(2) Bingójáték bingóteremben folyamatosan szervezett számsorsjáték, amelyben a játékos által a helyszínen megvásárolt sorsjegyen lévő számok felhasználásával felépített számvariációk, vagy számsorok helyszínen történő eltalálása jogosít nyereményre.
-
-(3) A keno olyan számsorsjáték, melyben a játékos nyerés esetén a játéktervben összegszerűen meghatározott nyereményre válik jogosulttá.
-
-(4) A joker olyan folyamatosan szervezett számsorsjáték, amelyben a játékos nyerés esetén a játéktervben összegszerűen vagy arányosan meghatározott nyereményre válik jogosulttá. A joker – a szerencsejáték-felügyeleti hatóság engedélye alapján – más szerencsejátékokkal együtt is szervezhető. Ebben az esetben a jokerben való részvétel a kapcsolt másik játékban való részvételtől függővé tehető.
+24. § A 21. és 22. §-ban nem szabályozott sorsolásos játék (a továbbiakban: egyéb sorsolásos játék) a szerencsejáték-felügyeleti hatóság engedélyével szervezhető. Egyéb sorsolásos játék minden olyan folyamatosan szervezett sorsolásos játék, amely esetében a sorsjátéktól és a számsorsjátéktól különböző, az egyéb sorsolásos játék szerencsejáték-felügyeleti hatóság által jóváhagyott játéktervében rögzített azonosítási módszer alapján kerülnek meghatározásra azok a sorsolási körülmények, amelyek fennállásától vagy bekövetkezésétől a nyerés vagy a vesztés függ. A nyeremény vagy nyereményhányad előre meghatározott az azonosítási módszer és a sorsolás eredményének függvényében.
 
 24/A. § (1) A szerencsejáték szervező a folyamatosan szervezett sorsolásos játék esetén az engedélyben meghatározott időszakonként és meghatározott formában időközi elszámolást, a játék megszűnése esetén végelszámolást készít. A szerencsejáték szervező a nem folyamatosan szervezett sorsolásos játék lebonyolításáról – a sorsolási eseménytől számított százötven napon belül – végelszámolást készít. A szerencsejáték szervező a végelszámolást megküldi a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság dönt az engedélyezett sorsolásos játék végelszámolásának jóváhagyásáról.
 
@@ -764,7 +764,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 ### 4. CÍM — Fogadás
 
-28/A. § (1) Fogadási esemény az a jövőbeli esemény, amelynek legalább két nyilvánosságra kerülő kimenetele lehetséges és ezek bekövetkezésére a játékszervező semmilyen befolyással nem rendelkezik. E törvény alkalmazásában fogadásnak minősül a tét fizetése fejében történő, egy jövőbeli esemény véletlen bekövetkezésének eltalálására, vagy egy jövőbeli esemény kimenetelének eltalálására vonatkozó játék. Nem köthető fogadás akkor, ha ez harmadik személy érdekét sértené.
+28/A. § (1) Fogadási esemény az a jövőbeli esemény, amelynek legalább két nyilvánosságra kerülő kimenetele lehetséges és ezek bekövetkezésére a játékszervező semmilyen befolyással nem rendelkezik. E törvény alkalmazásában fogadásnak minősül a tét fizetése fejében történő, egy jövőbeli esemény véletlen bekövetkezésének eltalálására, vagy – a (8) bekezdésben foglalt eltéréssel – egy jövőbeli esemény kimenetelének eltalálására vonatkozó játék. Nem köthető fogadás akkor, ha ez harmadik személy érdekét sértené.
 
 (2) Lóversenyfogadás kivételével totalizatőri rendszerű fogadást kizárólag az az állami játékszervező szervezhet, amely legalább 1 milliárd forint alap-(törzs-)tőkével rendelkezik és a fogadás szervezését megelőzően legalább 5 évig az e törvény hatálya alá tartozó szerencsejáték(ok) szervezésével foglalkozott.
 
@@ -777,6 +777,8 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 (6) A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
+
+(8) A szerencsejáték-szervező lehetőséget biztosíthat a fogadónak arra, hogy a tétfizetést követően – a tét egésze, vagy egy része vonatkozásában –, a fogadási esemény kimenetelének bekövetkezése előtt, a játéktervben meghatározott esetekben korai kifizetésre váljon jogosulttá. A korai kifizetés könyvviteli elszámolása a számvitelről szóló törvény szerinti előleg szabályainak megfelelően történik. A korai kifizetésre a nyereménykifizetésre vonatkozó szabályok irányadók.
 
 28/B. § (1) A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
 
@@ -943,7 +945,9 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (4) Játékosként kizárólag természetes személy vehető nyilvántartásba. Ha a játékos életkora nem állapítható meg, vagy a 18. életév betöltése egyébként kétséges, a szervező a játékos nyilvántartásba vételét megtagadja.
 
-(5) A szervező a játékos nyilvántartásba vételének megkezdésekor a játékos részére játékosi egyenleget hoz létre. Egy játékos részére egy szervezőnél egy játékosi egyenleg nyitható. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és külön jogszabályban meghatározottak szerint vezeti. A szervező a kifizetésre alkalmas (ajándék bónuszok, bónusz nyeremények és speciális bónuszok nélküli) játékosi egyenlegek fedezetét egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán köteles tartani. Az elkülönített bankszámlán elhelyezett összegnek fedeznie kell az összes kifizetésre alkalmas játékosi egyenleg összegét. Ha a kifizetésre alkalmas játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, a szervező 30 napon belül köteles a különbözet pótlására. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén, valamint abban az esetben, ha a játékos végleges nyilvántartásba vételére nem kerül sor, a szervező a játékügyletekkel kapcsolatban a játékossal a külön jogszabályban meghatározottak szerint elszámol.
+(5) A szervező a játékos nyilvántartásba vételének megkezdésekor a játékos részére játékosi egyenleget hoz létre. Egy játékban történő részvétel céljából egy szervezőnél egy játékosi egyenleg nyitható. Egy játékosnak különböző játékokra egy szervezőnél több játékosi egyenlege is lehet, beleértve a több közös játékosi egyenleget is. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és a végrehajtására kiadott rendeletben meghatározottak szerint vezeti. A szervező a kifizetésre alkalmas (ajándék bónuszok, bónusznyeremények és speciális bónuszok nélküli) játékosi egyenlegek fedezetét egy minden egyéb pénzügyi eszköztől elkülönített magyarországi bankszámlán tartja. Az elkülönített bankszámlán elhelyezett összegnek fedeznie kell az összes kifizetésre alkalmas játékosi egyenleg összegét. Ha a kifizetésre alkalmas játékosi egyenlegek összege meghaladja az elkülönített bankszámlán található összeget, a szervező 30 napon belül pótolja a különbözetet. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén, valamint abban az esetben, ha a játékos végleges nyilvántartásba vételére nem kerül sor, a szervező a játékügyletekkel kapcsolatban a játékossal az e törvény végrehajtására kiadott rendeletben meghatározottak szerint elszámol.
+
+(6) A távszerencsejáték szervezője ajánlatot ajándék bónusz vagy speciális bónusz igénybevételére akkor tehet, ha annak részleteit a játéktervben világos és érthető módon szabályozza. Ha ezt a szervező jóváhagyott játékterve lehetővé teszi, az ajándék bónusz és speciális bónusz nem növeli a bevételt.
 
 29/I. § (1) A szervező távszerencsejáték-szervezéssel kapcsolatban használt honlapján az e törvény szerint nyújtott szerencsejáték-szolgáltatással kapcsolatban magyar nyelven kell feltüntetni legalább a következő információkat:
 
@@ -1021,7 +1025,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 29/R. § (1) Az online kaszinó üzemeltetője ajánlatot ajándék bónusz vagy speciális bónusz igénybevételére akkor tehet, ha annak részleteit a játéktervben világos és érthető módon szabályozza.
 
-(2) Az (1) bekezdés szerinti ajándék bónusz és speciális bónusz nem növeli a bevételt.
+(2) Ha ezt a szervező jóváhagyott játékterve lehetővé teszi, az (1) bekezdés szerinti ajándék bónusz és speciális bónusz nem növeli a bevételt.
 
 29/S. § Az online kaszinó üzemeltetője az online kaszinóban elnyert nyereményt abban a pénznemben fizeti ki, amelyben az keletkezett.
 
@@ -1325,7 +1329,7 @@ is köteles hatáskörében eljárni, vagy jogszabálysértés bizonyítékait �
 
 2.2. Tiszta játékbevétel online kaszinójáték esetén: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete; ha a magyarországi online kaszinó üzemeltetője más szolgáltató által üzemeltetett, a 29/O. § (1) bekezdés c) pontja szerinti, más játékos elleni kártyajátékhoz csatlakozik az ilyen játékok esetében a tiszta játékbevétel a játékosok felé a magyarországi online kaszinó üzemeltetője által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok összege azzal, hogy a játékadó alapjának megállapítása során a kétféle módon keletkezett tiszta játékbevétel összegét kell figyelembe venni.
 
-3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
+3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére – beleértve a 28/A. § (8) bekezdésében foglaltakat is – a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 
 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 
@@ -1363,7 +1367,11 @@ b) a 16. §-ban meghatározott tevékenységet folytató szervezet vagy személy
 
 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 
-20.
+20. Kaparós sorsjegy: az a sorsjegy, amelynek a nyerésre jogosító jelzései
+
+a) megjelenítésére a játékmenetben virtuálisan kerül sor, vagy
+
+b) biztonságos – virtuális vagy fizikális – módszerrel eltakartak, és az eltakarás eredményeként csak különleges – virtuális vagy fizikális – eljárással ismerhetők meg, és amelynek előállítása előre meghatározott nyerőosztályok és azokhoz tartozó nyereményösszegek szerint történik.
 
 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 
@@ -1381,7 +1389,7 @@ b) a 16. §-ban meghatározott tevékenységet folytató szervezet vagy személy
 
 28. Szerver: a szerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 
-29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező többfajta szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egyetlen közös játékosi egyenleg is létrehozható.
+29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező több szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egy vagy több közös játékosi egyenleg is létrehozható.
 
 30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
 

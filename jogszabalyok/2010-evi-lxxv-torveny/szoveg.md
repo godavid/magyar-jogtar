@@ -55,7 +55,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 (1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
 
-(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a 18 000 forintot.
+(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a tárgyhónap első napján érvényes minimálbér 12 százalékát, amely összeget száz forintra kerekítve kell meghatározni.
 
 (3)
 
@@ -89,7 +89,13 @@ az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt elt
 
 8. § (1) A munkáltató a 7. § (2) bekezdésében meghatározott egyszerűsített foglalkoztatásra irányuló munkaviszony alapján a (2) bekezdésben meghatározott közterhet fizet.
 
-(2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a 7. § (2) bekezdés a) pontja esetén a munkaviszony minden naptári napjára munkavállalónként 500 forint, a 7. § (2) bekezdés b) pontja esetén a munkaviszony minden naptári napjára munkavállalónként 1000 forint. A 2. § 8. pontjában meghatározott filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a munkaviszony minden naptári napjára munkavállalónként 4000 forint.
+(2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a munkaviszony minden naptári napjára munkavállalónként
+
+- a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,5 százaléka,
+- b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1 százaléka,
+- c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
+
+azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
@@ -104,6 +110,8 @@ az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt elt
 - b) a 11. § (3) bekezdése szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
 
 a munkáltató közterhet nem fizet.
+
+(6) Az állami adó- és vámhatóság a minimálbér változásának napját magában foglaló hónap 10. napjáig honlapján közzéteszi a 8. § (2) bekezdése szerinti közterhek mértékét, valamint a 4. § (2) bekezdése szerinti összeget és a nyugellátás 10. § (2) bekezdés szerint meghatározott alapját.
 
 9. § (1) E törvény alkalmazásában a 7. § (2) bekezdésében említett foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni.
 
@@ -125,7 +133,12 @@ napibérként meghatározott összege 130 százalékának szorzatát (a további
 - a) nem minősül a Tbj. szerinti biztosítottnak,
 - b) nyugellátásra, baleseti egészségügyi szolgáltatásra, valamint álláskeresési ellátásra szerez jogosultságot.
 
-(2) A nyugellátás számításának alapja napi 500 forint közteher esetén 1370 forint/nap, napi 1000 forint vagy azt meghaladó közteher esetén 2740 forint/nap.
+(2) A nyugellátás számítási alapja
+
+- a) a 8. § (2) bekezdés a) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 1,4 százaléka,
+- b) a 8. § (2) bekezdés b) és c) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,8 százaléka,
+
+azzal, hogy az ellátási alapot száz forintra kerekítve kell meghatározni.
 
 (3) A 8. § (5) bekezdésében említett személy nyugellátásra, baleseti egészségügyi szolgáltatásra és álláskeresési ellátásra nem szerez jogosultságot.
 
