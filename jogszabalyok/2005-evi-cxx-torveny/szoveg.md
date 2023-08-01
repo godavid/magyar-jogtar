@@ -103,13 +103,13 @@ c) a magánszemély igazolja, hogy az (1) bekezdés a) pontjában említett cím
 
 (2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhót fizet. Ettől eltérően, ha a magánszemély az adóév 183 napját meghaladóan a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint saját jogú nyugdíjas, az ekho mértéke 9,5 százalék. Ha a magánszemély nyugdíjas, e körülményről a kifizetést megelőzően nyilatkozhat.
 
-(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 13 százalék ekhót fizet.
+(3)
 
 (4) A kifizető a magánszemélyt terhelő ekhot levonással állapítja meg, ideértve azt az esetet is, ha a kifizetést számla alapján – akár egyéni vállalkozónak, akár más magánszemélynek – teljesíti, kivéve, ha a magánszemély az 5. § (3) bekezdése szerinti nyilatkozatot tesz.
 
 (5) Az (1)–(4) bekezdés rendelkezésétől eltérően az EGT-államban biztosított személy esetében a kifizető ekhot nem fizet, a magánszemélynek juttatott ekho alapul szolgáló bevételből 9,5 százalék ekhot állapít meg és von le.
 
-(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló, a nemzetközi sportszövetség munkavállalója, és a saját jogú nyugdíjas részére az e foglalkozása ellenértékeként juttatott bevétel után.
+(6)
 
 ### Az ekho választására vonatkozó nyilatkozat
 
@@ -158,7 +158,7 @@ minősül.
 
 (1a) A 9,5 százalékos mértékkel levont, magánszemélyt terhelő ekho személyi jövedelemadónak minősül.
 
-(2) A 4. § (3) bekezdése szerint a kifizetőt terhelő ekho és a 6. § szerint a magánszemélyt terhelő különadó szociális hozzájárulási adónak minősül.
+(2) A 6. § szerint a magánszemélyt terhelő különadó szociális hozzájárulási adónak minősül.
 
 (3) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag magánszemélyt terhelő ekhoból – az (1) bekezdés c) pontjától eltérően – az ekhoalap 3,9 százaléka nyugdíjjáruléknak minősül.
 

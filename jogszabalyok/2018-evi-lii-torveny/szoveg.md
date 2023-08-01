@@ -297,13 +297,14 @@ megváltozott munkaképességű személynek minősül e § alapján.
 (3) E § értelmében megváltozott munkaképességű személynek minősül az,
 
 - a) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű, vagy
-- b) aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a, vagy a 19. § (1a) bekezdése, vagy a 38/C. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül.
+- b) aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a, vagy a 19. § (1a) bekezdése, vagy a 38/C. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül, vagy
+- c) fogyatékossági támogatásban, vagy vakok személyi járadékában részesül.
 
 (4) A részkedvezmény egyenlő az adómegállapítási időszakra a kifizető által a foglalkoztatott után, az egyéni vállalkozó által saját maga után megállapított, a tag után a kifizető által megállapított adóalap [ide nem értve az 1. § (4)–(5) bekezdés szerinti jövedelmeket], de legfeljebb a minimálbér kétszerese után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeggel.
 
-(5) A kedvezményt az arra jogosult a komplex minősítésről szóló érvényes dokumentum, vagy a (3) bekezdés szerinti megváltozott munkaképességű személyek ellátásainak folyósítását igazoló határozat birtokában érvényesítheti.
+(5) A kedvezményt az arra jogosult a komplex minősítésről szóló érvényes dokumentum, vagy a (3) bekezdés szerinti megváltozott munkaképességű személyek ellátásainak, illetve fogyatékossági támogatás, vagy vakok személyi járadékának folyósítását igazoló határozat birtokában érvényesítheti.
 
-(6) A megváltozott munkaképességű személy a (3) bekezdés a) vagy b) pontja szerinti jogosultság megszűnéséről, az arról szóló határozat kézhezvételétől számított 5 munkanapon belül köteles tájékoztatni a kifizetőt.
+(6) A megváltozott munkaképességű személy a (3) bekezdés a)–c) pontja szerinti jogosultság megszűnéséről, az arról szóló határozat kézhezvételétől számított 5 munkanapon belül köteles tájékoztatni a kifizetőt.
 
 (7) Amennyiben az adókedvezmény érvényesítésének feltételei már nem teljesülnek, akkor az adókedvezmény a jogosultság megszűnését követő hónaptól nem vehető igénybe.
 
@@ -370,12 +371,12 @@ munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek m
   - aa) szakképző intézménnyel tanulói jogviszonyban álló tanulónként, illetve felnőttképzési jogviszonyban álló képzésben részt vevő személyenként a szakirányú oktatás, illetve
   - ab) szakiskolával tanulói jogviszonyban álló tanulónként az Nkt. 13/A. § (3) bekezdése szerinti nevelés-oktatás
 
-arányosított önköltsége alapján az egy munkanapra vetített mérték és – a szakképző intézményben, illetve a szakiskolában teljesített oktatási nap és az olyan munkanap kivételével, amire tekintettel a tanuló, illetve a képzésben részt vevő munkabérre nem jogosult – a tárgyhónap munkanapjai számának szorzataként számított összege,
+arányosított önköltsége alapján az egy munkanapra vetített mérték és a tárgyhónap duális képzőhelyen folytatott szakirányú oktatással érintett napjai számának szorzataként a szakirányú oktatásnak az általános teljes napi munkaidőhöz, fiatalkorú munkavállaló esetén napi hét órához viszonyított arányában számított összege azzal, hogy nem vehető figyelembe az olyan munkanap , amire a tanuló, illetve a képzésben részt vevő személy munkabérre vagy távolléti díjra nem jogosult , vagy az Szkt. 84. § (6) bekezdése szerint mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól (ide nem értve a betegszabadság olyan munkanapjait, amely a duális képzőhelyen folytatott szakirányú oktatásra esik),
 
-- b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett – az Szkt. 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos időtartamban fennálló szakképzési munkaszerződésre tekintettel az a) pont alapján jogszerűen igénybe vett adókedvezmény húsz százalékának megfelelő összeg,
+- b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett – az Szkt. 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos egybefüggő időtartamban fennálló szakképzési munkaszerződésre tekintettel az a) pont alapján jogszerűen igénybe vett adókedvezmény húsz százalékának megfelelő összeg,
 - c) hallgatónként az Nftv. szerinti duális képzés és gyakorlatigényes alapképzési szak arányosított alapnormatívája alapján az egy munkanapra vetített mérték és a tárgyhónapban ténylegesen teljesített képzési napok számának szorzataként számított összege.
 
-(2) Az (1) bekezdéstől eltérően, ha a felnőttképzési jogviszonyban álló képzésben részt vevő személy az Szkt. szerinti szakirányú oktatásban a szakképzési munkaszerződéssel párhuzamosan fennálló foglalkoztatásra irányuló más olyan jogviszonya mellett vesz részt, amelyben a foglalkoztató a duális képzőhelytől eltérő harmadik személy, az adófizetési kötelezettség az (1) bekezdés a) és b) pont szerinti összeg ötven százalékával csökkenthető.
+(2)
 
 (3) Az önköltség és az alapnormatíva mértékét a központi költségvetésről szóló törvény, az önköltség szakmánként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját a Kormány rendeletben határozza meg.
 
@@ -397,6 +398,8 @@ arányosított önköltsége alapján az egy munkanapra vetített mérték és �
 származó jövedelmet juttató, a 3. § szerint adófizetésre kötelezett kifizető, a Tbj. szerint járulékalapot képező jövedelmet juttató külföldi kifizető. Az adó összegét természetes személy részére kiállított igazoláson nem tünteti fel. Amennyiben az adóalany természetes személy foglalkoztatására tekintettel kedvezményt vagy támogatást vesz igénybe, az Art. rendelkezései szerinti bevallási kötelezettségét úgy kell teljesítenie, hogy a bevallás adataiból a kedvezmény vagy támogatás jogcíme, alapja és a kedvezmény vagy támogatás összege személyenként megállapítható legyen.
 
 (2) Az (1) bekezdésben foglaltakon kívül a kifizető az adót a természetes személytől levonja, és a juttatást követő hónap 12. napjáig fizeti meg és vallja be.
+
+(2a) Ha az Szja tv. szerint egyéb jövedelemnek minősülő jövedelem kifizetőtől származik, az adót a kifizető az Art. rendelkezései szerint havonta állapítja meg és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg, kivéve, ha a jövedelem adóelőlegét a kifizető nem köteles megállapítani.
 
 (3) Amennyiben a jövedelem nem kifizetőtől, nem külföldi kifizetőtől származik vagy a juttatásból az adó, az adóelőleg levonása nem lehetséges, az adó megállapítására és megfizetésére a természetes személy kötelezett a 27. § rendelkezéseinek megfelelő alkalmazásával.
 

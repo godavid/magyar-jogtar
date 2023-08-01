@@ -1644,8 +1644,10 @@ tartalmazza.
 (3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
 
 - a) a településfejlesztési, -rendezési és építésügyi dokumentációk országos központi tervtárának működtetéséről, fenntartásáról, fejlesztéséről, valamint a dokumentációk megőrzéséről és közérdekű hasznosításáról,
-- b) a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről, valamint a fenntartást biztosító, a Nyilvántartás elektronikus alkalmazásai jogszabályban előírt kötelező használatának – a rendszerhasználattal arányos díj ellenében történő – biztosításáról,
+- b)
 - c) a nyilvánosság, a közösségi ellenőrzés, a tájékoztatási, véleménynyilvánítási és javaslattételi lehetőség biztosítására vonatkozó, a 3. § (2) bekezdésében meghatározott, továbbá információs feladatai teljesítéséről az országos illetékességű – a személyes adatok kezelése tekintetében adatfeldolgozóként kijelölt – Dokumentációs Központ útján gondoskodik.
+
+(3a) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről, valamint a fenntartást biztosító, a Nyilvántartás elektronikus alkalmazásai jogszabályban előírt kötelező használatának – a rendszerhasználattal arányos díj ellenében történő – biztosításáról a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
 
 (4) A Dokumentációs Központ, valamint a Nyilvántartás elektronikus úton kapcsolódik az alábbi nyilvántartásokhoz, és ezúton biztosítja a kormányrendeletben meghatározott nem személyes és e törvényben meghatározott személyesadat-tartalom lekérdezését az alábbiak szerint:
 

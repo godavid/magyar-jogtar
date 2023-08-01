@@ -424,7 +424,11 @@ lép.
 
 #### 48. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-148. § (1)
+148. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (3) bekezdése a következő 15. ponttal egészül ki:
+
+(E törvény alkalmazásában a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék adóztatására vonatkozóan)
+
+„15. kedvezményes párlat: kisüzemi bortermelő, illetve egyszerűsített adóraktár engedélyese vagy a vele a Btv. 1. § 4. pontjában meghatározott borgazdasági egységbe tartozó szőlőtermelő által megtermelt szőlőből készült bor lepárlása útján adóraktárban előállított, legalább 37,5 térfogatszázalék tényleges alkoholtartalmú, palackozott és zárjeggyel ellátott, adózott párlat;”
 
 (2)
 
@@ -432,23 +436,79 @@ lép.
 
 (4)
 
-(5)
+(5) A jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (3) bekezdés 25. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék adóztatására vonatkozóan)
+
+„25. termelői borkimérés: az egyszerűsített adóraktár engedélyes vagy a kisüzemi bortermelő
+
+a) saját előállítású csendes borának,
+
+b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának és
+
+c) kedvezményes párlatának
+
+az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a kisüzemi bortermelő, egyszerűsített adóraktár engedélyese használatában lévő, a kereskedelemről szóló törvény szerinti üzletben elvitelre vagy kóstolás céljából helyben fogyasztásra történő, a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő értékesítése;”
 
 #### 149. §
 
 #### 150. §
 
-#### 151. §
+151. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 22. §-a a következő (8) és (9) bekezdéssel egészül ki:
+
+„(8) Az adóraktár engedélyese kizárólag zárjeggyel ellátott palackból kóstoltathat alkoholterméket a kereskedelmről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő közvetlen értékesítés keretében.
+
+(9) Alkoholtermékből a (8) bekezdés szerinti kóstoltatási tevékenységet végző adóraktár engedélyese választékonként legfeljebb egy bontott palackot tarthat készleten.”
 
 #### 152. §
 
-#### 153. §
+153. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 64. §-a a következő (3) bekezdéssel egészül ki:
 
-#### 154. §
+„(3) Az adóraktár engedélyese a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő közvetlen értékesítés keretében végzett kóstoltatás miatti készletcsökkenésről naponta egy darab összesített, az (1) bekezdés szerinti bizonylatot állít ki.”
 
-#### 155. §
+154. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény 134. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 156. §
+„(2) Egyszerűsített adóraktárban nem állítható elő, nem tárolható, nem palackozható sör, a (3) bekezdés szerinti eseten túl habzóbor, a 129. § (2) bekezdés a) pontja szerinti termék kivételével egyéb csendes vagy habzó erjesztett ital, köztes alkoholtermék, a (3a) bekezdés szerinti eseten túl alkoholtermék.”
+
+(2) A jövedéki adóról szóló 2016. évi LXVIII. törvény 134. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az egyszerűsített adóraktár engedélyese egyszerűsített adóraktárban a fogyasztó számára történő közvetlen értékesítés céljából egy borpiaci évben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de legfeljebb összesen 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot vehet át. Az egyszerűsített adóraktár engedélyese egyidőben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de összesen legfeljebb 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot tarthat készleten.”
+
+(3) A jövedéki adóról szóló 2016. évi LXVIII. törvény 134. §-a a következő (8) és (9) bekezdéssel egészül ki:
+
+„(8) Egyszerűsített adóraktár engedélyese csak abban az esetben vehet át és értékesíthet kedvezményes párlatot, ha
+
+a) nem minősül az Art. szerinti kockázatos adózónak,
+
+b) a 136. § (2) bekezdése szerinti adatszolgáltatásnak az utolsó három lezárt borpiaci év során eleget tett,
+
+c) nem minősül a Btv. végrehajtására kiadott jogszabály szerinti kockázatos üzemengedélyesnek, és
+
+d) az egyszerűsített adóraktár engedélyese, vezető tisztségviselője, közvetlen vagy közvetett meghatározó befolyással rendelkező tulajdonosa vagy ezek közös háztartásban élő hozzátartozója nem magánfőző vagy bérfőzető.
+
+(9) Az egyszerűsített adóraktár engedélyese a kockázatos adózói és a Btv. végrehajtására kiadott jogszabály szerinti kockázatos üzemengedélyesi minősítés megszűnésének évét követő három évig nem vehet át kedvezményes párlatot.”
+
+155. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 136. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az egyszerűsített adóraktár engedélyese a vásárolt és a saját termésű szőlő, az átvett, előállított (kiszerelt), tárolt és feladott csendes bor, valamint a 134. § (3) bekezdése szerinti termék, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről – elkülönítve a bérmunkára átvett, bérmunkában tárolt mennyiséget –, a készletváltozásokról és a borpiaci év tényleges zárókészletéről az (1) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő év szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára.”
+
+156. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény 137. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint palackos erjesztésű habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő év szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.”
+
+(2) A jövedéki adóról szóló 2016. évi LXVIII. törvény 137. §-a a következő (9) és (10) bekezdéssel egészül ki:
+
+„(9) Kisüzemi bortermelő csak abban az esetben vehet át és értékesíthet kedvezményes párlatot, ha
+
+a) nem minősül az Art. szerinti kockázatos adózónak,
+
+b) a (3) bekezdés szerinti adatszolgáltatásnak az utolsó három lezárt borpiaci év során eleget tett,
+
+c) nem minősül a Btv. végrehajtására kiadott jogszabály szerinti kockázatos üzemengedélyesnek, és
+
+d) a kisüzemi bortermelő, vezető tisztségviselője, közvetlen vagy közvetett meghatározó befolyással rendelkező tulajdonosa vagy ezek közös háztartásban élő hozzátartozója nem magánfőző vagy bérfőzető.
+
+(10) A kisüzemi bortermelő a kockázatos adózói és a Btv. végrehajtására kiadott jogszabály szerinti kockázatos üzemengedélyesi minősítés megszűnésének évét követő három évig nem vehet át kedvezményes párlatot.”
 
 #### 49. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 

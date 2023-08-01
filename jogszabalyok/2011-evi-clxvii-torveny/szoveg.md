@@ -175,7 +175,7 @@ kell érteni.
 
 (5) Az e §-ban foglalt rendelkezések nem alkalmazhatók arra a személyre, aki a korhatár előtti ellátásának, illetve szolgálati járandóságának folyósítását a 12. § alapján teljes naptári évre szünetelteti.
 
-11/A. § A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a 11. §-ban meghatározottakon túl – a Tny. 83/C. § (1), (2) és (4) bekezdését is alkalmazni kell azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
+11/A. § A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a 11. §-ban meghatározottakon túl – a Tny. 83/C. § (1), (2) és (4) bekezdését, valamint a Tny. 83/C. §-a szerinti szüneteltetés alóli kivételekre vonatkozó szabályokat is alkalmazni kell azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
 
 12. § (1) A korhatár előtti ellátás és a szolgálati járandóság folyósítását szüneteltetni kell, ha a jogosult
 

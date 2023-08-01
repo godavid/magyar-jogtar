@@ -54,21 +54,7 @@ a hulladékgazdálkodással összefüggő egyes törvények módosításáról
 
 #### 23. §
 
-24. § (1)
-
-(2)
-
-(3)
-
-(4) A hulladékról szóló 2012. évi CLXXXV. törvény 32/A. § (4e) bekezdése a következő c) ponttal egészül ki:
-
-[Az állam koordináló szervezetet (a továbbiakban: Koordináló szerv) hoz létre]
-
-„c) ha a koncessziós társaság és az állam között a hulladékgazdálkodási közszolgáltatási résztevékenység számlázása tárgyában szerződés jön létre, e szerződés alapján a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatai”
-
-[ellátására.]
-
-(5)
+#### 24. §
 
 #### 25. §
 
@@ -110,11 +96,7 @@ a hulladékgazdálkodással összefüggő egyes törvények módosításáról
 
 #### 43. §
 
-44. § A hulladékról szóló 2012. évi CLXXXV. törvény 92/F. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A Korábbi Koordináló szerv a 2023. július 1-jén a tulajdonában lévő hulladékot a 31. § (2) bekezdés a) pontja alapján a koncessziós társaságnak átadja, és ha az átadott hulladék rendelkezik pénzben kifejezhető értékkel, annak átadásakor a hulladék pénzbeli értékének megtérítésére jogosult, egyéb esetben az átadott hulladék kezelésének költségét a koncessziós társaság részére megfizeti. Az elszámolás során a piaci érték független értékbecslő által meghatározott módszertant alkalmazva kell eljárni.
-
-(2) A Korábbi Koordináló szerv a személyes adatok kezelésére vonatkozó rendelkezések megtartásával a koncessziós társaság rendelkezésére bocsátja a 2023. június 30-i állapot szerinti ügyféladatbázist. A Koordináló szerv – ha a koncessziós társaság erre igényt tart – felhasználási jogot biztosít a koncessziós társaság részére 2023. július 1. napjától kezdődően a számlázási tevékenységet végző szoftverhez és a szükséges adatbázisokhoz, a piaci érték meghatározásakor az (1) bekezdés szerinti módszertant alkalmazva.”
+#### 44. §
 
 #### 45. §
 

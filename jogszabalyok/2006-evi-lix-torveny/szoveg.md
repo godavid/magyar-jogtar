@@ -14,15 +14,15 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### A magánszemély adókötelezettsége
 
-2. §
+#### 2. §
 
 ### A társas vállalkozás adókötelezettsége
 
-3. §
+#### 3. §
 
 ### A hitelintézetek járadéka
 
-4. §
+#### 4. §
 
 ### Pénzügyi szervezetek különadója
 
@@ -105,13 +105,20 @@ támogatása.
 
 (39) A 575/2013/EU rendelet 400. cikk (2) bekezdés d) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
 
+(40) Nem kell a különadót megfizetnie a pénzügyi szervezetnek, ha
+
+- a) a szolgáltatásait határon átnyúló szolgáltatásként Magyarországon bejegyzett székhelyéről nyújtotta az adóévet megelőző két adóévben, és
+- b) az adóévet megelőző második adóévi éves nettó díj- és jutalékbevétele, valamint nettó kamatbevétele legalább kétharmad részben devizakülföldi ügyfelektől származik.
+
+(41) A (40) bekezdés szerinti pénzügyi szervezet az adóév március 10. napjáig adóbevallás helyett bevallást helyettesítő nyomtatványon nyilatkozatot tesz arról, hogy a (40) bekezdés szerinti feltételek együttesen fennállnak. A 2009. december 31. napját követően jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó e nyilatkozatot az adóév szeptember 10. napjáig teljesíti.
+
 ### A hitelintézetek különadója
 
-4/B. §
+#### 4/B. §
 
 ### Hitelintézeti hozzájárulás
 
-4/C. §
+#### 4/C. §
 
 ### A forgalmazó és a befektetési alap különadója
 
@@ -140,7 +147,7 @@ támogatása.
 
 (8) Amennyiben a külföldi kollektív befektetési értékpapírokat a befektetési alapkezelő forgalmazza és ehhez kapcsolódóan értékpapírszámla vezetést is végez, akkor a (2) bekezdés a) pontja szerint adóalany, és e tevékenysége körében megfelelően alkalmaznia kell az (1)–(5) bekezdés rendelkezéseit.
 
-4/E. §
+#### 4/E. §
 
 ### Vegyes rendelkezések
 
@@ -204,7 +211,7 @@ támogatása.
 - 23–24.
 - 25.
 
-7/A. §
+#### 7/A. §
 
 ### Hatályba léptető és átmeneti rendelkezések
 
@@ -216,15 +223,15 @@ támogatása.
 
 (9)
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
 12. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 4/D. §-át első alkalommal a 2015. évi adókötelezettségre kell alkalmazni.
 
-13. §
+#### 13. §
 
 14. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel módosított 4/A. § (3) és (8a) bekezdését a 2016. adóévi adókötelezettség megállapításakor is alkalmazni kell. E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 4/A. § (8a) bekezdését a hitelintézet 2016. adóévi adókötelezettség teljesítésekor úgy alkalmazza, hogy a jogutódlással 2011. január 1-jét követően megszűnő hitelintézet jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét az adóév 2016. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – 2016. szeptember 10-éig és 2016. december 10-éig – megfizeti.
 

@@ -159,6 +159,8 @@ a szakmai vizsga és a képesítő vizsga megszervezéséről az országos közp
 
 (3) A szakképzésért felelős miniszter a kiállított oklevelet, szakmai bizonyítványt és képesítő bizonyítványt annak kiállításától számított öt éven belül visszavonja, ha azt jogellenesen szerezték meg. A szakképzésért felelős miniszter a kiállított oklevelet, szakmai bizonyítványt és képesítő bizonyítványt időbeli korlátozás nélkül – a bíróság, illetve az ügyészség erre vonatkozó tájékoztatása alapján – megsemmisíti, ha annak kiállítását bűncselekmény befolyásolta és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el és a megsemmisítés jóhiszeműen szerzett és gyakorolt jogot nem érint. A visszavont és a megsemmisített oklevél, szakmai bizonyítvány és képesítő bizonyítvány sorozatjelét és sorszámát, az érvénytelenítés időpontját és okát a honlapon közzé kell tenni.
 
+(4) A szakképzésben alkalmazható oklevél- és bizonyítványnyomtatványok pótlásával, másodlatainak kiadásával összefüggésben nyújtott szolgáltatásokért – a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerint – térítési díjat kell fizetni.
+
 ## HARMADIK RÉSZ — A SZAKKÉPZŐ INTÉZMÉNY
 
 ### III. Fejezet — A SZAKKÉPZŐ INTÉZMÉNY TÍPUSAI, TEVÉKENYSÉGE ÉS GAZDÁLKODÁSA
@@ -925,7 +927,7 @@ létrehozott nonprofit gazdasági társaság ágazati képzőközpontként műk�
 
 (2) A szakirányú oktatás és az Nftv. szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott ágazati képzőközpont tudásközpontként működhet.
 
-(3) Önállóan vagy más gazdálkodó szervezet megbízása alapján folytatandó szakirányú oktatás céljából a saját tanműhellyel rendelkező nagyvállalkozás, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
+(3) Önállóan vagy más gazdálkodó szervezet megbízása alapján folytatandó szakirányú oktatás céljából a saját tanműhellyel rendelkezőnagyvállalkozás, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
 
 (4) Az ágazati képzőközpont és a tudásközpont szervezeti minőséget – a társaság alapításakor vagy később – a gazdasági társaság kérelmére a cégbíróság állapítja meg. A gazdasági társaság az ágazati képzőközponti és a tudásközponti szervezeti minőséget cégnevében feltüntetheti.
 

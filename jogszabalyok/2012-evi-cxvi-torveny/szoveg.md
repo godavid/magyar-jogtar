@@ -6,7 +6,14 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 
 #### 1. A törvény hatálya
 
-1. § (1) E törvény hatálya – a (2) bekezdésben meghatározott kivétellel – a Magyarországon székhellyel vagy fiókteleppel rendelkező pénzforgalmi szolgáltatóra, a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézményre, a pénzváltási tevékenység végzésére jogosult hitelintézetre, valamint a pénzváltás közvetítésére jogosult kiemelt közvetítőre terjed ki.
+1. § (1) E törvény hatálya – a (2) bekezdésben meghatározott kivétellel –
+
+- a) a Magyarországon székhellyel vagy fiókteleppel rendelkező pénzforgalmi szolgáltatóra, a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézményre, a pénzváltási tevékenység végzésére jogosult hitelintézetre, valamint a pénzváltás közvetítésére jogosult kiemelt közvetítőre,
+- b) a pénzforgalmi szolgáltatási, hitel- és pénzkölcsönnyújtási, pénzváltási, pénzváltás-közvetítési tevékenységeket Magyarországon határon átnyúló szolgáltatásként végző, külföldi székhellyel, fiókteleppel rendelkező személyre,
+- c) a Magyarországon székhellyel vagy fiókteleppel rendelkező befektetési szolgáltatási tevékenység végzésére jogosult befektetési vállalkozásra és hitelintézetre,
+- d) a befektetési szolgáltatási tevékenységet Magyarországon határon átnyúló szolgáltatásként végző, külföldi székhellyel, fiókteleppel rendelkező személyre
+
+terjed ki.
 
 (2) E törvény hatálya nem terjed ki a Magyar Nemzeti Bankra (a továbbiakban: MNB).
 
@@ -25,7 +32,7 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - 9. kedvezményezett: a Pft. 2. § 12. pontja szerinti jogalany;
 - 10. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott fizetési mód;
 - 11. kiemelt közvetítői tevékenység: a Hpt. szerint meghatározott kiemelt közvetítői tevékenység;
-- 12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája, valamint a helyi iparűzési adó devizában történő megfizetésével kapcsolatosan a kincstárban vezetett technikai számla;
+- 12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája, valamint a helyi iparűzési adó devizában történő megfizetésével kapcsolatosan a kincstárban vezetett technikai számla;
 - 13. kölcsöntörlesztés: az a művelet, amelynek során a pénzforgalmi szolgáltató az ügyfele nála vezetett fizetési számláját kölcsönszerződés alapján fennálló követelése részbeni vagy teljes kielégítése céljából megterheli, továbbá az a művelet, amelynek során a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménnyel fennálló kölcsönszerződés alapján fennálló kötelezettségét házipénztárába vagy fizetési számlájára az ügyfele készpénz megfizetésével részben vagy teljesen kielégíti, ide nem értve a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetést;
 - 14. egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás: a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (2) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott fizetési művelet;
 - 15. pénzforgalmi szolgáltatás: a Hpt. szerint meghatározott pénzforgalmi szolgáltatás;
@@ -36,6 +43,10 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - 20. ügyfélszámla: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 5. § 130. pontja szerinti számla;
 - 21. fizetőeszköz útján történő eladás: külföldi fizetőeszköz, vagy törvényes fizetőeszköz eladása a pénzváltási tevékenység végzésére jogosult hitelintézet, a pénzváltás közvetítésére jogosult kiemelt közvetítő útján,
 - 22. pénzügyi szolgáltatásból eredő ügyfélkövetelés állomány: a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságáról szóló kormányrendeletben meghatározott pénzügyi szolgáltatásból eredő követelés, vagy az éves beszámolóját, a könyvviteli zárlatát a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint összeállító adózónál – külön e célra szolgáló nyilvántartás alapján – az ennek megfeleltethető összeg.
+- 23. ügyfél illetőségének helye: az az állam, ahol
+  - a) a természetes személynek az Szja tv. szerinti illetőségi helye található, figyelembe véve az Szja tv. 7. számú melléklet 6. pontjában foglaltakat is,
+  - b) a jogi személynek vagy egyéb jogi megállapodásnak a székhelye található, azzal, hogy az olyan jogi személyt és az olyan egyéb jogi megállapodást, amely nem rendelkezik adóügyi illetőséggel vagy adóügyi illetőségeként a tényleges üzletvezetési helyét jelölte meg, a tényleges üzletvezetési helye szerinti joghatóságban kell illetőséggel rendelkezőnek tekinteni;
+- 24. határon átnyúló szolgáltatás: a Hpt. szerinti határon átnyúló szolgáltatás.
 
 #### 3. A pénzügyi tranzakciós illeték tárgya
 
@@ -67,10 +78,7 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - r) a természetes személyek fizetési számlája és a kincstár által állampapír-forgalmazás érdekében vezetett számla között lebonyolított fizetési művelet, illetve ugyanezen célból a Posta Elszámoló Központot működtető intézmény útján kezdeményezett, a kincstár által vezetett számlára történő készpénzbefizetés, ha természetes személy a megbízó (befizető),
 - s)
 
-(5) A (4) bekezdés n) pontja alkalmazása során a pénzforgalmi szolgáltató a nem magyar (a más tagállambeli vagy más állambeli) illetőség meghatározásához
-
-- a) természetes személy esetén a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. számú melléklet 6. pontjában foglalt szabályokat veszi figyelembe,
-- b) a jogi személy vagy egyéb jogi megállapodás esetén a székhely, illetve a tényleges üzletvezetés helye szerinti joghatóságot veszi figyelembe, azzal, hogy az olyan jogi személyt és az olyan egyéb jogi megállapodást, amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
+(5)
 
 #### 4. A pénzügyi tranzakciós illetékfizetési kötelezettség keletkezése
 
@@ -119,14 +127,14 @@ köteles teljesíteni.
 
 7. § (1) A pénzügyi tranzakciós illeték mértéke
 
-- a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint,
+- a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint,
 - b) a h) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 - c) a pénzügyi tranzakciós illeték alapjának 0,6 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
 - d)
 - e) a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén – az f) pont szerinti kivétellel – 800 forint,
 - f) az érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
 - g)
-- h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
+- h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 
 (2) Az (1) bekezdés alkalmazásában a csoportos átutalás egyes átutalási megbízásai és a csoportos beszedési megbízás egyes beszedési megbízásai önálló fizetési műveletnek minősülnek.
 
@@ -141,6 +149,10 @@ köteles teljesíteni.
 8. § (1) A pénzforgalmi szolgáltató, a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézmény, a pénzváltási tevékenység végzésére jogosult hitelintézet és a pénzváltás közvetítésére jogosult kiemelt közvetítő a pénzügyi tranzakciós illetékfizetési kötelezettséget havonta, a teljesítési napot követő hónap 20. napjáig állapítja meg, és az állami adóhatóság által rendszeresített nyomtatványon vallja be és fizeti meg. A fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a pénzforgalmi szolgáltató a naptári év első hónapjának 20. napjáig állapítja meg, vallja be és fizeti meg illetékkötelezettségét. Amennyiben a pénzforgalmi szolgáltató, pénzváltási tevékenység végzésére jogosult hitelintézet vagy a pénzváltás közvetítésére jogosult kiemelt közvetítő a bevallás benyújtását követően tárja fel, hogy valamely művelet nem illetékköteles, akkor az ezen művelettel kapcsolatos, a fizetendő illetéket csökkentő tételt jogosult a feltárás napját magában foglaló hónapról szóló bevallásban figyelembe venni.
 
 (2) A pénzforgalmi szolgáltató, a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézmény, a pénzváltási tevékenység végzésére jogosult hitelintézet és a pénzváltás közvetítésére jogosult kiemelt közvetítő az egyes műveletek utáni pénzügyi tranzakciós illeték összegét a számviteli elszámolási elvekkel összhangban, a belső szabályzataiban meghatározott módon állapítja meg, 1000 forintra kerekítve vallja be és fizeti meg.
+
+(2a) Az (1) és (2) bekezdés rendelkezéseit az 1. § (1) bekezdés b) pontja szerinti személy is alkalmazza.
+
+(2b) Az 1. § (1) bekezdés b) pontja szerinti személy az állami adóhatósági nyilvántartásba vétele érdekében az állami adóhatóság által rendszeresített külön nyomtatványon köteles az állami adóhatósághoz bejelentkezni az alannyá válás napját követő hónap 1. napjáig. Az állami adóhatóság a bejelentkezés alapján nyilvántartásba veszi az 1. § (1) bekezdés b) pontja szerinti személyt.
 
 (3) Az a pénzforgalmi szolgáltató, amelynél a pénzügyi szolgáltatásból eredő ügyfélkövetelés állomány az adóévet megelőző második adóévre vonatkozó beszámoló mérlegfordulónapja és az adóévre vonatkozó beszámoló mérlegfordulónapja között legalább 20 százalékkal növekedett, az adóévre fizetendő tranzakciós illeték összegét a (4)–(7) bekezdésben meghatározottak szerint csökkentheti. Ha a pénzforgalmi szolgáltató 2014. december 31-ét követően jogelőd nélkül jött létre, a (4)–(7) bekezdésben meghatározott csökkentést legkorábban az első adóévét követő harmadik adóévtől kezdődően érvényesítheti, ha a pénzügyi szolgáltatásból eredő ügyfélkövetelés állománya az adóévet megelőző második adóévére vonatkozó beszámoló mérlegfordulónapja és az érvényesítés adóévére vonatkozó beszámoló mérlegfordulónapja között legalább 20 százalékkal növekedett.
 
@@ -158,11 +170,31 @@ köteles teljesíteni.
 
 (10) A (3)–(5) bekezdés szerinti kedvezmény érvényesítése érdekében a pénzügyi szolgáltatásból eredő ügyfélkövetelés állomány növekedésének megállapításakor szükséges első (korábbi) beszámolóban szereplő, a kedvezmény kiszámításának alapjául szolgáló adatok helyességét az állami adóhatóság a beszámoló mérlegfordulónapját követő nyolc éven belül jogosult ellenőrizni.
 
+#### 8/A. Értékpapír tranzakciós illeték
+
+8/A. § (1) Az 1. § (1) bekezdés c) és d) pontja szerinti személy a Bszt. 6. § a)–c) pontjában meghatározott, a KELER Központi Értéktár Zrt. által kibocsátott ISIN-azonosítóval rendelkező pénzügyi eszköz ügyfélszámla vagy saját számla javára történő vétele után a (2)–(7) bekezdésben foglaltak szerinti tranzakciós illeték önadózás útján történő megállapítására, bevallására és megfizetésére kötelezett.
+
+(2) Az e § szerinti tranzakciós illeték alapja a pénzügyi eszköz ügyfélszámlán (értékpapírszámlán) jóváírt értéke (vételára), azzal hogy amennyiben ezen érték külföldi pénznemben denominált, akkor a Magyar Nemzeti Bank által közzétett, a teljesítési napon érvényes hivatalos devizaárfolyamon kell forintra átszámítani.
+
+(3) Az e § szerinti tranzakciós illeték mértéke az illeték alapjának 0,3 százaléka, de vételenként legfeljebb 10 ezer forint.
+
+(4) Az e § szerinti tranzakciós illetékfizetési kötelezettség a pénzügyi eszköz vétele teljesítésének napján keletkezik.
+
+(5) Mentesül az e § szerinti kötelezettség alól a pénzügyi eszköz vétele, ha
+
+- a) a befektetési szolgáltatást a Magyar Államkincstár vagy a Posta Elszámoló Központot működtető intézmény nyújtja,
+- b) magánszemély (kivéve egyéni vállalkozói minőségében) javára vételenként 20 ezer forintot meg nem haladó értékben történik,
+- c) az ügyfélszámla (értékpapírszámla) tulajdonosa kizárólag olyan természetes személy, jogi személy vagy egyéb jogi megállapodás (különösen a gazdasági társaság, a polgári jogi társasági szerződés, a bizalmi vagyonkezelési szerződés vagy az alapítvány), aki (amely) az Európai Unió más tagállama vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt.
+
+(6) Az 1. § (1) bekezdés c) és d) pontja szerinti személy az e § szerinti tranzakciós illetékfizetési kötelezettséget havonta, a teljesítési napot követő hónap 20. napjáig állapítja meg, és az állami adóhatóság által rendszeresített nyomtatványon ezer forintra kerekítve vallja be és fizeti meg.
+
+(7) Az 1. § (1) bekezdés d) pontja szerinti személy az állami adóhatósági nyilvántartásba vétele érdekében az állami adóhatóság által rendszeresített külön nyomtatványon köteles az állami adóhatósághoz bejelentkezni az alannyá válás napját követő hónap 1. napjáig. Az állami adóhatóság a bejelentkezés alapján nyilvántartásba veszi az 1. § (1) bekezdés d) pontja szerinti személyt.
+
 #### 9. Eljárási rendelkezések
 
-9. § (1) A pénzügyi tranzakciós illetékkel kapcsolatos adóhatósági feladatokat az állami adóhatóság látja el.
+9. § (1) A pénzügyi és az értékpapír tranzakciós illetékkel kapcsolatos adóhatósági feladatokat az állami adóhatóság látja el.
 
-(2) A pénzügyi tranzakciós illetékből származó bevétel a központi költségvetés bevételét képezi.
+(2) A pénzügyi és az értékpapír tranzakciós illetékből származó bevétel a központi költségvetés bevételét képezi.
 
 #### 10. Záró rendelkezések
 
