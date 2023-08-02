@@ -72,13 +72,7 @@ Magyarország 2024. évi központi költségvetésének megalapozásáról
 
 #### 26. §
 
-27. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(A Kormány felhatalmazást kap arra, hogy)
-
-„g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes szabályait, valamint a 83/C. § szerinti szüneteltetés alóli kivételeket és azok részletes szabályait,”
-
-(rendeletben határozza meg.)
+#### 27. §
 
 28. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
 
@@ -94,7 +88,7 @@ Magyarország 2024. évi központi költségvetésének megalapozásáról
 
 6.
 
-7. 83/C. § (1) bekezdésében az „Az öregségi” szövegrész helyébe az „A Kormány rendeletében – a közfeladat-ellátás biztosítása érdekében – meghatározott kivétellel az öregségi” szöveg,
+7.
 
 8.
 
@@ -200,7 +194,7 @@ lép.
 
 #### 21. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
-64. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11/A. §-ában a „bekezdését” szövegrész helyébe a „bekezdését, valamint a Tny. 83/C. §-a szerinti szüneteltetés alóli kivételekre vonatkozó szabályokat” szöveg lép.
+#### 64. §
 
 #### 22. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
@@ -289,7 +283,7 @@ lép.
 - 1.
 - 2.
 
-(2) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében az „és az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben” szövegrész.
+(2)
 
 #### 24. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 

@@ -92,31 +92,13 @@ az innovációs és tudományos eredmények gazdasági hasznosításának előse
 
 #### 37. §
 
-38. § Az Nftv. 115. §-a a következő (36) bekezdéssel egészül ki:
-
-„(36) A Budapest Kortárstánc Főiskola 2023. augusztus 1-jétől Budapest Cirkuszművészeti és Kortárstánc Főiskola megnevezéssel működik.”
+#### 38. §
 
 #### 39. §
 
 #### 40. §
 
-41. § Az Nftv.
-
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i) 51. § (5) bekezdésében az „a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek –” szövegrész helyébe az „az intézmény szabályzatában meghatározott vezetőnek, akadályoztatása esetén további vezetőknek – nevét, beosztását és” szöveg,
-- j)
-- k)
-- l)
-- m) 1. mellékletében foglalt táblázat C:55 mezőjében a „Kortárstánc” szövegrész helyébe a „Cirkuszművészeti és Kortárstánc” szöveg
-
-lép.
+#### 41. §
 
 #### 42. §
 
