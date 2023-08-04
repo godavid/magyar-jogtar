@@ -1290,7 +1290,7 @@ felfüggeszti.
 
 (2) A felületen keresztül megismert adatokat az érintett adatainak megismerésére jogosult személy köteles bizalmasan kezelni, azok kizárólag a 75/B. § (1) bekezdésében meghatározott célból használhatóak fel, és tehetők harmadik személy számára megismerhetővé. A felületen keresztül megismert adatokról másolat – így különösen képernyőfotó, kivonat vagy más összefoglaló – nem készíthető, továbbá azokat tilos nyilvánosságra hozni, sokszorosítani, nyilvántartásba rendezni vagy adatbázisba foglalni.
 
-(3) A bűnügyi nyilvántartó szerv megfelelő technikai és szervezési intézkedések alkalmazásával – a lehetséges mértékben – biztosítja, hogy a felületen
+(3) A bűnügyi nyilvántartó szerv megfelelő technikai és szervezési intézkedések alkalmazásával biztosítja, hogy a felületen
 
 - a) a 75/B. § (1) bekezdése szerint megismerhető adatokról szöveges másolat ne legyen készíthető, valamint
 - b) a 75/B. § (1) bekezdés a) pont ad) alpontja szerint megismerhető adat – különösen vízjelezéssel vagy más hatékonynak tekinthető adatrejtési intézkedéssel – olyan módon jelenjen meg, hogy abból a (2) bekezdés szerint tilalmazott felhasználás esetén egyértelműen megállapítható legyen az a körülmény, hogy az adat a felületről származik.
