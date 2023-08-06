@@ -138,7 +138,7 @@ a körforgásos gazdasággal összefüggő törvénymódosításokról
 
 15.
 
-16.
+16. 69/A. § (1) bekezdésében a „hulladéklerakó” szövegrész helyébe a „hulladéklerakót is magában foglaló hulladékgazdálkodási létesítmény” szöveg,
 
 17.
 
