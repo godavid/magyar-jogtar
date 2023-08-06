@@ -1532,7 +1532,7 @@ lerakása valósul meg,
 
 (6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után 68. § (2) bekezdésében meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.
 
-69/A. § (1) A hulladéklerakási járulékkal kapcsolatos jogsértő cselekmények megelőzése, valamint a ténylegesen lerakott hulladékmennyiség után fizetendő hulladéklerakási járulék megfizetésének biztosítása érdekében a járulékfizetésre kötelezett a hulladéklerakó területén napi 24 órában szünetmentesen működő elektronikus megfigyelő- és beléptető rendszert épít ki.
+69/A. § (1) A hulladéklerakási járulékkal kapcsolatos jogsértő cselekmények megelőzése, valamint a ténylegesen lerakott hulladékmennyiség után fizetendő hulladéklerakási járulék megfizetésének biztosítása érdekében a járulékfizetésre kötelezett a hulladéklerakót is magában foglaló hulladékgazdálkodási létesítmény területén napi 24 órában szünetmentesen működő elektronikus megfigyelő- és beléptető rendszert épít ki.
 
 (2) A járulékfizetésre kötelezett az elektronikus megfigyelőrendszerrel a hulladék hulladéklerakóba történő beszállításáról, a hulladék tömegének hídmérlegen történő méréséről, valamint a gépjármű hulladéklerakóból történő kilépéséről elektronikus berendezéssel – hang rögzítése nélkül – mozgóképfelvételt (a továbbiakban: felvétel) készít.
 
