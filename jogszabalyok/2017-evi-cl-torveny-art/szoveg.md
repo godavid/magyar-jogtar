@@ -161,6 +161,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 48. tényleges üzletvezetés helye: a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a Tao tv. alkalmazásában a tényleges üzletvezetési hely, üzletvezetés helye,
 - 48a. termékegység: egy feladótól egy címzett részére, egy gépjárművel, a gépjármű adott útvonalon történő egyszeri mozgása során fuvarozott termék,
 - 49. tételes elszámolású fizetési kötelezettség: vám, importtermék általános forgalmi adó, regisztrációs adó, importtal kapcsolatos jövedéki adó,
+- 49a. típusszerződés: az adózó és előre meg nem határozható számú, vagy előre meghatározható számú, de nem azonosítható személy vagy személyek közötti ügylet,
 - 50. útdíjköteles gépjármű: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjköteles gépjármű,
 - 51. vállalkozási tevékenység: az a rendszeres gazdasági tevékenység, amelyet a természetes személy, illetve a jogi személy vagy egyéb szervezet saját nevében és kockázatára üzletszerűen végez,
 - 52. vállalkozó: a természetes személy, ha belföldön saját nevében és kockázatára az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói tevékenységet végez és az egyéni vállalkozók nyilvántartásában szerepel, továbbá az az egyéb természetes személy, akinek a tevékenységét törvény vállalkozási tevékenységnek minősíti, valamint a jogi személy, egyéb szervezet, amely rendszeresen üzletszerű gazdasági tevékenységet folytat.
@@ -2091,7 +2092,7 @@ A feltárt kockázat megszüntetése érdekében az adóhatóság
 
 (6) Az állami adó- és vámhatóság a cégbíróságot elektronikus úton haladéktalanul tájékoztatja az adózóval szemben folytatott, az e § szerinti eljárás(ok) végleges befejezéséről, illetve végelszámolás esetén arról is, hogy az adózónak van-e az állami adó- és vámhatóságnál nyilvántartott köztartozása.
 
-(7) Ha a végelszámolás alatt álló adózó a végelszámolás megszüntetéséről, a működésének továbbfolytatásáról határoz, akkor a változás bejelentését követően az általános eljárási szabályok alkalmazandók, feltéve, hogy az ellenőrzés megállapításait tartalmazó jegyzőkönyv átadására még nem került sor.
+(7) Ha a végelszámolás alatt álló adózó a végelszámolás megszüntetéséről, a működésének továbbfolytatásáról határoz, akkor a változás bejegyzését követően az általános eljárási szabályok alkalmazandók, feltéve, hogy az ellenőrzés megállapításait tartalmazó jegyzőkönyv átadására még nem került sor.
 
 #### 146. § [Határozat utólagos adómegállapításról]
 
@@ -2268,7 +2269,7 @@ Ha a 155. § (1) és (2) bekezdése és a 161. § alapján egyidejűleg kellene 
 
 #### 164. § [A feltételes adómegállapítás általános szabályai]
 
-(1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés(ek) vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát.
+(1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre, vagy típusszerződésre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát.
 
 (2) Az adó feltételes megállapítására irányuló kérelemként nem terjeszthető elő
 
@@ -2289,8 +2290,8 @@ Ha a 155. § (1) és (2) bekezdése és a 161. § alapján egyidejűleg kellene 
 
 (1) A feltételes adómegállapításra irányuló kérelem díjköteles, a díj mértéke:
 
-- a) ötmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén nyolcmillió forint,
-- b)
+- a) típusszerződés esetén tízmillió forint,
+- b) egyéb esetben nyolcmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén tizenkettőmillió forint.
 
 (2)
 
@@ -2379,7 +2380,7 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 #### 175. § [A szokásos piaci ár megállapítására irányuló eljárás és az előzetes konzultáció igazgatási szolgáltatási díja]
 
-(1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban ötmillió forint, kétoldalú vagy többoldalú eljárásban nyolcmillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
+(1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban nyolcmillió forint, kétoldalú vagy többoldalú eljárásban tizenkettőmillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
 
 (2) Meghosszabbítás és módosítás iránti eljárás esetén a díj összege az (1) bekezdés szerinti díj 50%-a.
 
@@ -3714,6 +3715,8 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 (1) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény (a továbbiakban: Módtv.11.) által megállapított 52. § (1) bekezdés e) pontját első alkalommal a hatálybalépését követően esedékes, az 50. § (1a) bekezdése szerinti bevallás benyújtása tekintetében kell alkalmazni.
 
 (2) E törvénynek a Módtv.11. által megállapított 153. § (1) bekezdés c) pontját, valamint a 153. § (1a) bekezdését első alkalommal a hatálybalépését követő negyedév minősítése során kell alkalmazni.
+
+(3) E törvénynek a Módtv.11. által megállapított 145. § (7) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
