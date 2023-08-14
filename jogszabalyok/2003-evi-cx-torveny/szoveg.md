@@ -64,7 +64,7 @@ feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba
 
 ### Adóelőleg fizetésére kötelezett személy
 
-5. §
+#### 5. §
 
 ### Az adófizetési kötelezettség keletkezése
 
@@ -119,7 +119,13 @@ keletkezik.
 
 (9) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az uniós vámjog végrehajtásáról szóló törvény tartalmazza.
 
-10. §
+### Az elektronikus kapcsolattartás szabályai
+
+10. § (1) Az elektronikus úton zajló adóigazgatási eljárás során az információcsere és adattárolás a vámhatóság által biztosított informatikai rendszeren vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben meghatározott elektronikus úton történik.
+
+(2) Ha az elektronikus úton zajló adóigazgatási eljárás során az adózó a vámhatóság által biztosított informatikai rendszert veszi igénybe, úgy egy regisztrációhoz kötött, meghatározott technikai előírásoknak megfelelő elektronikus sémát tölt ki, majd ezt egy elektronikus azonosítással egybekötve benyújtja a vámhatósághoz.
+
+#### 10. §
 
 ### Az adó különös szabályok szerinti megállapítása
 
@@ -163,7 +169,7 @@ keletkezik.
 
 10/G. § A vámhatóság adót megállapító határozata ellen a gépjármű tényleges értékcsökkenésének figyelmen kívül hagyására történő hivatkozással az az adóalany élhet jogorvoslati kérelemmel, aki (amely) az elsőfokú adóigazgatási eljárásban indítványozta az adó különös szabályok szerinti megállapítását. A 10/E. § szerinti esetben a döntésnek az adó különös szabályok szerinti megállapítása iránti indítványt elutasító és a díj viseléséről szóló rendelkezése ellen önálló jogorvoslatnak nincs helye.
 
-11. §
+#### 11. §
 
 ### Adómentességek
 
@@ -226,7 +232,7 @@ kell igazolni.
 
 ### Módosuló jogszabály
 
-16. §
+#### 16. §
 
 ### Gépjárműflotta-üzemeltető által bérbe adott személygépkocsi adókötelezettsége
 
@@ -256,7 +262,7 @@ kell igazolni.
 
 (2) Mentesül az adó megfizetése alól az a természetes személy, aki az általános forgalmi adóról szóló törvény szerint nem adóalany, és 2004. február 1. napja előtt a Fat. alapján a fogyasztási adó alanyaként a személygépkocsit terhelő fogyasztási adót a nevére szóló vámhatósági határozat alapján megfizette, de a személygépkocsit e törvény hatálybalépését követően helyezteti forgalomba. Mentesül az adó megfizetése alól az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet is, aki (amely) olyan, 5-nél rosszabb környezetvédelmi osztályba sorolt személygépkocsit helyeztet forgalomba, amelyről a vámhatóság – a vámeljárást kezdeményező, a fogyasztási adó alanyának kérésére – külön igazolta, hogy a személygépkocsit 2004. január 1. napja előtt hozták be belföldre, és a személygépkocsit terhelő fogyasztási adót a fogyasztási adó alanya megfizette.
 
-(3) A 8. § (3) bekezdését akkor is alkalmazni kell, ha a személygépkocsit 2004. február 1. napja előtt helyezték forgalomba, de 2004. február 1. napját követően alakították át. Ha az átalakítás révén különbözeti vámteher is keletkezik, a 8. § (3) bekezdésében foglaltakat akkor is alkalmazni kell azzal, hogy a különbözeti vámteher megállapítása során az e törvényben megállapított regisztrációs adót is figyelembe kell venni.
+(3)
 
 (4) A 14. § (1) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.
 
@@ -268,9 +274,9 @@ kell igazolni.
 
 21. § A 2. § 3. pontjának az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított módosítását az e módosítás hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-21/A. § Ha a vámhatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 21/A. §
 
-22. §
+#### 22. §
 
 ### Melléklet a 2003. évi CX. törvényhez
 
@@ -293,7 +299,7 @@ Adótételek az egyes adókategóriákban
 | 8. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet- védelmi osztályba sorolása: 5E, 5P, 5N, 5Z) | 0 Ft/db |  |  |  |  |
 | 9. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó más személygépkocsi. | 76 000 Ft/db |  |  |  |  |
 
-- 2. Az adó összege motorkerékpárok esetén A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
+- 2. Az adó összege motorkerékpárok esetén
 
 | Adókategória | A motorkerékpár műszaki tulajdonságai | Adótétel |
 | --- | --- | --- |
@@ -304,9 +310,13 @@ Adótételek az egyes adókategóriákban
 | 5. | 901 cm3-től | 230 000 Ft/db |
 | 6. | Elektromos és hibrid meghajtású motorkerékpárok | 0 Ft/db |
 
+A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
+
 #### II. rész rész
 
-Az adó összegének meghatározása a gépjármű forgalomba helyezésétől számított időtartamfigyelembevételével
+Az adó összegének meghatározása a gépjármű forgalomba helyezésétől számított időtartam
+
+figyelembevételével
 
 Az adó összegét a vámhatóság az alábbi táblázat és képlet együttes alkalmazásával állapítja meg. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon vagy az egyedi forgalomba helyezési engedélyen rögzített első forgalomba helyezés vagy az első hazai nyilvántartásba vétel időpontja értendő. Ezen adatok hiányában a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók.
 

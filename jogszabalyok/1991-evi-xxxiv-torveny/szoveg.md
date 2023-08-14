@@ -1077,7 +1077,16 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 ### Sorsolásos játékok, fogadások és a távszerencsejáték játékadója
 
-32. § (1) Az e törvény 16. §-ában foglaltak kivételével, más, nem folyamatosan szervezett sorsolásos játékok játékadója a nyereményalap 16%-a. A sorsjáték játékadója a havi tiszta játékbevétel 30%-a, a lottójáték játékadója a 30. § (5) bekezdése szerinti havi nyereményalap 24%-a, a bingójáték játékadója a havi nyereményalap 7%-a, a jokerjáték játékadója a havi nyereményalap 17%-a, más számsorsjáték játékadója a havi nyereményalap 17%-a. A kenójáték játékadója a havi tiszta játékbevétel 24%-a.
+32. § (1) A játékadó mértéke a sorsolásos játékok esetében:
+
+- a) a 16. §-ban foglaltak kivételével, más, nem folyamatosan szervezett sorsolásos játékok játékadója a nyereményalap 16%-a;
+- b) a sorsjáték játékadója a havi tiszta játékbevétel 30%-a;
+- c) a lottójáték játékadója a 30. § (5) bekezdése szerinti havi nyereményalap 24%-a;
+- d) a bingójáték játékadója a havi nyereményalap 7%-a;
+- e) a jokerjáték játékadója a havi nyereményalap 17%-a;
+- f) a c)–e) pontban fel nem sorolt más számsorsjáték játékadója a havi nyereményalap 17%-a;
+- g) a kenójáték játékadója a havi tiszta játékbevétel 24%-a;
+- h) az egyéb sorsolásos játék játékadója a havi tiszta játékbevétel 24%-a.
 
 (2) A folyamatosan szervezett totalizatőri rendszerű fogadások játékadója a havi nyereményalap 17%-a, a nem folyamatosan szervezett totalizatőri rendszerű fogadások játékadója pedig a nyereményalap 17%-a.
 
@@ -1101,7 +1110,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 34. § (1) A kártyaterem játékadója a tiszta játékbevétel 40%-a.
 
-(2)
+(2) A tiszta játékbevételt növeli a tárgyhónapban elfogadott borravaló 50%-a.
 
 ### Játékkaszinó és online kaszinó játékadója
 
