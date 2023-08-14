@@ -120,13 +120,21 @@ kell érteni.
 
 #### 7. A végrehajtás költsége
 
-11. § (1) Az adós – jogszabályban meghatározottak szerint – köteles a végrehajtással kapcsolatban felmerült valamennyi költség, így a készkiadás, a költségminimum és jogszabályban meghatározottak szerint a végrehajtási költségátalány megfizetésére.
+11. § (1) Az adós – jogszabályban meghatározottak szerint – köteles a végrehajtással kapcsolatban felmerült valamennyi költség, így a készkiadás, a költségminimum és a végrehajtási költségátalány megfizetésére.
 
-(2) Költségminimumként ingó- és ingatlanfoglalás esetén 5 ezer forint fizetendő.
+(2) Költségminimumként ingó- és ingatlanfoglalás esetén 10 ezer forint fizetendő.
 
-(3) Az adóhatóság a költségekről – a végrehajtási költségátalány, illetve költségminimum kivételével – végzést hoz.
+(3) Az adóhatóságot a pénzkövetelés végrehajtásának foganatosításáért – a (4) és (5) bekezdésben meghatározott kivételekkel – 10 ezer forint költségátalány illeti meg, minden más jogszabály alapján felszámítható költségtől és költségátalánytól függetlenül.
 
-(4) Az adóhatóság a költségátalány, illetve költségminimum felszámításától számított 8 napon belül az adóst értesíti. A költségátalány, illetve költségminimum felszámítását az adós az azok alapjául szolgáló végrehajtási cselekménnyel szemben benyújtható végrehajtási kifogásban sérelmezheti.
+(4) Nem illeti meg az adóhatóságot a (3) bekezdés szerinti költségátalány, amennyiben a végrehajtási eljárásban kizárólag túlfizetés átvezetésére került sor.
+
+(5) Nem illeti meg az adóhatóságot a (3) bekezdés szerinti költségátalány, amennyiben az adós általános közigazgatási rendtartás alapján behajtandó tartozása a behajtást kérő hatóság megkeresésének időpontjában nem éri el a 10 ezer forintot, és az adóssal szemben az állami adó- és vámhatóság az általános közigazgatási rendtartás alapján behajtandó tartozásán felül további tartozás behajtására végrehajtási eljárást nem foganatosít.
+
+(6) Az adóhatóságot a meghatározott cselekmények végrehajtására irányuló végrehajtási eljárásban – az önkéntes teljesítésre történő előzetes felszólítást követően – helyszíni eljárásonként 10 ezer forint végrehajtási költségátalány illeti meg. Amennyiben a meghatározott cselekmény végrehajtása a 122. § (6) bekezdés b) pontja alapján nem tűr halasztást, és emiatt az önkéntes teljesítésre történő előzetes felszólítás mellőzendő, e költségátalány a helyszíni eljárásért önkéntes teljesítésre történő előzetes felszólítás hiányában is felszámítandó.
+
+(7) Az adóhatóság a költségekről – a végrehajtási költségátalány, illetve költségminimum kivételével – végzést hoz.
+
+(8) Az adóhatóság a költségátalány, illetve költségminimum felszámításától számított 8 napon belül az adóst értesíti. A költségátalány, illetve költségminimum felszámítását az adós az azok alapjául szolgáló végrehajtási cselekménnyel szemben benyújtható végrehajtási kifogásban sérelmezheti.
 
 #### 8. A kötelezettségek és befizetések nyilvántartása és elszámolása
 
@@ -477,6 +485,17 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 43. § (1) Ingófoglalás foganatosítására a végrehajtási eljárás megindításával egyidejűleg vagy azt követően bármikor sor kerülhet.
 
 (2) Az adóhatóság az adóst a vagyontárgyait terhelő zálogjogról kizárólag helyszíni eljárás keretében köteles nyilatkoztatni.
+
+43/A. § (1) Ha az adós székhelye székhelyszolgáltatóhoz van bejegyezve, az adóhatóság – eljárási bírság kilátásba helyezése mellett – a székhelyszolgáltatót nyilatkozatra hívja fel arra vonatkozóan, hogy a székhelyszolgáltatónál az adós lefoglalható vagyontárgya fellelhető-e.
+
+(2) Ha a székhelyszolgáltató az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható.
+
+(3) Ha a székhelyszolgáltató nyilatkozata alapján megállapítható, hogy az adós székhelyén nincs az adósnak lefoglalható vagyontárgya, mellőzhető az adós székhelyén az ingófoglalás foganatosítása.
+
+(4) Az adóhatóság a székhelyszolgáltatót helyszíni eljárás keretében nyilatkoztatja az adós vagyontárgyairól, ha
+
+- a) a székhelyszolgáltató az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette nyilatkozattételi kötelezettségét, vagy
+- b) az ügy körülményeire tekintettel az állami adó- és vámhatóság szerint indokolt.
 
 44. § Az állami adó- és vámhatóság az adós által fuvarozónak fuvarozásra átadott dolgot a címzettnek történő átadásig lefoglalhatja.
 
@@ -1455,7 +1474,11 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 131/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 69/A. §-át, a 122. § (1) bekezdését és a 125/B. § (2) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-131/H. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel (a továbbiakban: Módtv.6.) megállapított 1. § (4) bekezdését, a 29. § (1) bekezdés 25. pontját és 125/I. §-át azok hatálybalépésekor a folyamatban lévő, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A. §-a szerinti perekben is alkalmazni kell.
+131/H. § (1) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel (a továbbiakban: Módtv.6.) által megállapított 1. § (4) bekezdését, 29. § (1) bekezdés 25. pontját és 125/I. §-át azok hatálybalépésekor a folyamatban lévő, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A. §-a szerinti perekben is alkalmazni kell.
+
+(2) E törvénynek a Módtv.6. által módosított 11. § (2) bekezdését az annak hatálybalépését követően foganatosított ingó- és ingatlanfoglalás esetén is alkalmazni kell.
+
+(3) E törvénynek a Módtv.6. által megállapított 43/A. §-át a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 #### 61. A törvény hivatalos rövid megjelölése
 

@@ -248,7 +248,10 @@ nyújtható.
 
 (3) Az (1) és (2) bekezdés alkalmazásánál az üzleti év első napján fennálló állapot az irányadó.
 
-16. § (1) A járulék alapja a Htv. 39. § (1) bekezdése alapján meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével.
+16. § (1) A járulék alapja
+
+- a) a Htv. 39. § (1) bekezdése alapján – a Htv. 39. § (11) és (12) bekezdésére figyelemmel – meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével,
+- b) az a) ponttól eltérően, ha a járulékfizetésre kötelezett a kisvállalati adó alanya és a helyi iparűzési adó alapját a Htv. 39/B. § (1) bekezdése szerint állapítja meg, akkor választása szerint a Htv. 39/B. § (1) bekezdése alapján meghatározott adóalap, figyelemmel a Htv. 39/B. § (3) bekezdésére is.
 
 (2) A járulék mértéke az (1) bekezdés szerinti járulékalap 0,3%-a.
 
@@ -269,7 +272,7 @@ nyújtható.
 
 (9) A járulékfizetésre kötelezettnek a járulékfizetési kötelezettség keletkezésének évében a (3)–(6) bekezdés megfelelő alkalmazásával az adóévet megelőző adóév adatai alapján kell járulékelőlegét megállapítania és arról az adóév ötödik hónapjának utolsó napjáig járulékelőleg-bevallást benyújtania. A járulékfizetési kötelezettség keletkezése évének első két előlegfizetési időszakára vonatkozóan az adózó az előlegfizetéssel egyidejűleg bevallást tesz. Az előleg mértéke a járulék várható éves összegének időarányos része. Nem lehet járulékelőleget bevallani arra a negyedévre és a negyedév azon naptári hónapjára, amelyre az adózó már vallott be járulékelőleget.
 
-(10)
+(10) A járulék alapjának az (1) bekezdés b) pontja szerinti megállapítása – a jogosultság fennállása esetén – adóévre választható. A választás bejelentését az adóévről szóló bevallásban legkésőbb az annak benyújtására előírt határidőig kell megtenni az állami adóhatóságnál.
 
 (11) A befizetett előleg és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
@@ -872,6 +875,8 @@ vonatkozó szabályait kell alkalmazni.
 51. § (1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévre és a 2023. adóév első két negyedévére innovációs járulék előleg megállapítására kötelezett. A telephely a 2022. adóévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg, vallja be és fizeti meg azzal, hogy a 2022. adóévi innovációs járulék előleget a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napjától kezdődő a 2022. adóév végéig tartó időszakra számított, várható fizetendő innovációs járulék alapján állapítja meg. A telephely a 2023. adóév első két negyedévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg és vallja be, valamint a 2023. adóév első és második negyedévét követő hónap 20. napjáig fizeti meg azzal, hogy a negyedévenként fizetendő összeget a teljes 2022. adóévre számított, várható fizetendő innovációs járulék alapján, annak 25 százalékában állapítja meg.
 
 (2) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévi járulékkötelezettségét a teljes 2022. évre számított járulékkötelezettségnek a 2022. adóév hatály alatti napokkal arányosan számított összegében, vagy választása szerint nyilvántartásainak a járulék hatálya alá kerülést megelőző napra készített zárását figyelembe véve számított járulékkötelezettséggel csökkentett összegében határozza meg.
+
+(3) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 16. § (1) bekezdés b) pontját első alkalommal azon 2023. adóévi járulékkötelezettség vonatkozásában lehet alkalmazni, amelynek bevallási határideje e törvény 16. § (1) bekezdése módosításának hatálybalépésekor még nem járt le.
 
 ### 1. melléklet a 2014. évi LXXVI. törvényhez
 

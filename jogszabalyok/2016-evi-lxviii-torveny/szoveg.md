@@ -1648,6 +1648,10 @@ igényelheti.
 
 (4) A kötelező érvényű KN-kód besorolás kiadása iránti kérelem adattartalmát a végrehajtási rendelet tartalmazza.
 
+(5) A kötelező érvényű KN-kód besorolásról szóló határozat jogosultja haladéktalanul bejelenti az állami adó- és vámhatóságnak, ha a határozat véglegessé válását követően a határozatban megállapított KN-kódot vagy adójogi besorolást befolyásoló változásról szerez tudomást.
+
+(6) Az állami adó- és vámhatóság visszavonja a kötelező érvényű KN-kód besorolásról szóló határozatot, ha a határozatban szereplő jövedéki termék összetételének változása, jogszabályi változás, bírósági ítélet miatt, vagy más okból a határozatban megállapított adójogi besorolás vagy KN-kód megállapítás nem felel meg a megváltozott körülményeknek. Az e tárgyban hozott határozat a közlés napján végleges és végrehajtható.
+
 #### 58. Megsemmisítés
 
 87. § (1) Jövedéki termék megsemmisítése, ha utána az arra jogosult adó-visszaigénylést vagy adófizetési kötelezettség alóli mentesülést kíván érvényesíteni, az állami adó- és vámhatóság jelenlétében végezhető a végrehajtási rendeletben előírt módon, kivéve
@@ -1713,13 +1717,13 @@ kezeli.
 
 #### 62. Állami támogatási szabályok
 
-94. § (1) A 110. § (1) bekezdés i) pontja szerinti adómérték, az Európai Bizottság SA.35767. számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+94. § (1) A 110. § (1) bekezdés i) pontja szerinti adómérték, a csoportmentességi rendelet 44. cikke alapján, a 2003/96/EK tanácsi irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatásnak minősül.
 
 (2) Az adó mértéke az E85 esetében – a 110. § (1) bekezdés i) pontjától eltérően – a 110. § (1) bekezdés a) pont szerinti adómérték, ha az E85-öt olyan adóraktár engedélyese bocsátja szabadforgalomba, aki regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban részesült és a 110. § (1) bekezdés a) pontja szerinti adómérték, valamint a 110. § (1) bekezdés i) pontja szerinti adómérték különbségének és a 110. § (1) bekezdés a) pontja szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott regionális beruházási támogatás, a környezetvédelmi beruházási támogatás vagy a mezőgazdasági beruházási támogatás összegét.
 
-95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, az Európai Bizottság SA. SA.46672. számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
-(2) A 113. § (1) bekezdés szerinti adó-visszaigénylés az Európai Bizottság SA.46672. számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+(2) A 113. § (1) bekezdése szerinti adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
 (3) A 113. § (5) bekezdés szerinti adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK tanácsi irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatás.
 
@@ -1727,7 +1731,7 @@ kezeli.
 
 (5) A 117. § (1) bekezdés a) és b) pontja szerinti adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás.
 
-(6) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369/37, 2014. 12. 14., a továbbiakban: halászati csoportmentességi rendelet) I. melléklete szerinti kis- és középvállalkozások esetén a halászati csoportmentességi rendelet 45. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás.
+(6) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2473 bizottsági rendelet (a továbbiakban: halászati csoportmentességi rendelet) I. melléklete szerinti kis- és középvállalkozások esetén a halászati csoportmentességi rendelet 56. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás.
 
 (7) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés a halászati csoportmentességi rendelet I. melléklete szerinti nagyvállalkozás esetén az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190, 2014. 6. 18.) szerinti csekély összegű támogatásnak minősül.
 
@@ -1740,6 +1744,8 @@ kezeli.
 (11) Amennyiben a 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1) bekezdése szerinti adó-visszaigénylés mértéke éves szinten meghaladja a (9) bekezdés szerinti határértéket, a visszaigényelt adó határértékeket meghaladó részét visszafizetni, valamint a mentesség határértékeket meghaladóan igénybe vett részét az adózó köteles megfizetni az állami adó- és vámhatóságnak.
 
 (12) A (9) bekezdés szerinti költségek megállapításának, a határértékeket meghaladóan visszaigényelt adó visszafizetésének, valamint a határértékeket meghaladóan igénybe vett mentesülés megfizetésének módját a végrehajtási rendelet szabályozza.
+
+(13) A 112. § (1) bekezdés b) pontja és a 113. § (1) bekezdése szerinti támogatások nem nyújthatók olyan vállalkozás részére, amely nem tett eleget az Európai Bizottság valamely korábbi támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánító, és annak visszatérítését elrendelő határozatának.
 
 ### IX. Fejezet — ELLENŐRZÉS ÉS JOGKÖVETKEZMÉNYEK
 
@@ -1875,7 +1881,7 @@ alapulvételével kell meghatározni.
   - ab) ha a jövedéki kötelezettségszegés elkövetésének véglegessé vált döntésben történő megállapítására az elkövető ismeretlen személye következtében nem került sor,
 - b) a lefoglalt dolgot, ha azon a jövedéki törvénysértés elkövetését célzó átalakítást végeztek,
 - c) a jogosulatlanul megszerzett és lefoglalt adóügyi jelzést.
-- d) a 97. § megsértésével birtokolt, lefoglalt csendes bort, ha a jövedéki ügyben a 100. § (6) bekezdése szerinti bírság kerül kiszabásra.
+- d) a 97. § megsértésével birtokolt, lefoglalt jövedéki terméket, ha a jövedéki ügyben a 100. § (6) bekezdése szerinti bírság kerül kiszabásra vagy a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte.
 
 (2) Ha az eset összes körülményeinek vizsgálata alapján további jogsértés elkövetése valószínűsíthető, a 37. § szerinti jövedéki termék előállítására alkalmas berendezést az állami adó- és vámhatóság elkobozhatja, ha a 37. § szerinti nyilvántartásba-vételi kötelezettségét a berendezést előállító, értékesítő vagy birtokló nem teljesíti.
 
@@ -2600,6 +2606,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (36) A 74. § rendelkezéseitől eltérően a jövedéki kiskereskedő és a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet folytató a zárjegy nélküli hevített terméket az Fdvtv. 24/A. § (14) bekezdésében meghatározott időpontig értékesítheti.
 
 (37) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 67. § (1a) bekezdés c) pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
+
+(38) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 86. § (5) és (6) bekezdés rendelkezéseit a kötelező érvényű vámtarifabesorolásra is alkalmazni kell, azzal az eltéréssel, hogy kötelező érvényű KN-kód besorolás alatt kötelező érvényű vámtarifabesorolást kell érteni, továbbá KN-kód alatt a vizsgált határozatban megállapított vámtarifaszámot is kell érteni.
 
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
