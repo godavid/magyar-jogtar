@@ -628,15 +628,15 @@ oktatása, szakképzése és utánképzése
 
 (3) Nem tekinthető kiküldött munkavállalónak a kétoldalú áruszállítási műveletet végrehajtó járművezető, ha
 
-- a) egy berakodási és kirakodási
-- b) egy berakodási vagy
+- a) egy berakodási és kirakodási,
+- b) egy berakodási, vagy
 - c) egy kirakodási
 
-tevékenységet is elvégez azokban a tagállamokban vagy EGT-n kívüli országban, amelyeken áthalad, feltéve, hogy a járművezető nem ugyanabban a tagállamban rakodja be és ki az árukat.
+tevékenységet is elvégez azokban a tagállamokban vagy EGT-n kívüli országokban, amelyeken áthalad, feltéve, hogy a járművezető nem ugyanabban a tagállamban rakodja be és ki az árukat, és a jármű fel van szerelve a tachográfokra vonatkozó uniós rendelet 8–10. cikke szerinti intelligens menetíró készülékkel.
 
-(4) Ha a fuvarozást végző gazdálkodó szervezet székhelye szerinti államból kiinduló olyan kétoldalú áruszállítási műveletet – amely során nem került sor a (3) bekezdés szerinti további tevékenységre – a gazdálkodó szervezet székhelye szerinti állam területére irányuló kétoldalú áruszállítási művelet követ, a (3) bekezdésben a további tevékenységek tekintetében meghatározott mentességet a (3) bekezdésben említett feltételek mellett legfeljebb két további berakodási és kirakodási vagy két berakodási vagy két kirakodási műveletre kell alkalmazni.
+(4) Ha a fuvarozást végző gazdálkodó szervezet székhelye szerinti államból kiinduló olyan kétoldalú áruszállítási műveletet, amelynek során nem került sor a (3) bekezdés szerinti tevékenységre, a gazdálkodó szervezet székhelye szerinti állam területére irányuló kétoldalú áruszállítási művelet követ, a (3) bekezdés szerinti tevékenységek tekintetében meghatározott mentességet a (3) bekezdésben említett feltételek teljesülése esetén legfeljebb két további berakodási és kirakodási vagy két berakodási vagy két kirakodási műveletre kell alkalmazni, ha a jármű fel van szerelve a tachográfokra vonatkozó uniós rendelet 8–10. cikkében előírtak szerinti intelligens menetíró készülékkel.
 
-(5) Nem tekinthető kiküldött munkavállalónak a kétoldalú személyszállítási műveletet végrehajtó járművezető, ha egy alkalommal utasokat vesz fel és tesz le, vagy vesz fel vagy tesz le azon tagállamokban vagy EGT-n kívüli országban, amelyeken áthalad, amennyiben a járművezető nem kínál személyszállítási szolgáltatásokat az útja során érintett tagállamban található két helyszín között. Ez a rendelkezés a visszaútra is megfelelően alkalmazandó.
+(5) Nem tekinthető kiküldött munkavállalónak a kétoldalú személyszállítási műveletet végrehajtó járművezető, ha egy alkalommal utasokat vesz fel, vagy tesz le azon tagállamban vagy EGT-n kívüli országban, amelyen áthalad, ha a járművezető nem kínál személyszállítási szolgáltatásokat az útja során érintett tagállamban található két helyszín között, és ha a jármű fel van szerelve a tachográfokra vonatkozó uniós rendelet 8–10. cikke szerinti intelligens menetíró készülékkel. Ezt a rendelkezést a visszaútra is alkalmazni kell.
 
 (6) Nem tekinthető kiküldött munkavállalónak a járművezető, ha kombinált szállítási műveletek részét képező kezdeti vagy végső közúti szállítást végez, ha a szóban forgó közúti szakasz maga is kétoldalú szállítási műveletekből áll.
 
