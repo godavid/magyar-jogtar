@@ -20,7 +20,7 @@ a helyi önkormányzati képviselők és polgármesterek választásáról
 
 ### II. Fejezet — VÁLASZTÓKERÜLETEK, SZAVAZÓKÖRÖK
 
-3. § A települési önkormányzat képviselő-testülete és a vármegyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszáma alapján kell meghatározni.
+3. § A települési önkormányzat képviselő-testülete és a vármegyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választását megelőző év szeptember 1-jei lakosságszáma alapján kell meghatározni.
 
 4. § A 10 000 vagy ennél kevesebb lakosú település – egyéni listás választási rendszerben – egy választókerületet alkot, amelyben a képviselők száma:
 
