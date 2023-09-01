@@ -1082,6 +1082,14 @@ igényelhet adatot.
 
 46/K. § Ha az automatikus ujjnyomat-azonosító rendszer (SIS AFIS) a 46/J. § szerint bevitt figyelmeztető jelzés kapcsán találatot jelez, a rendőr megállapítja és rögzíti az ismeretlen személlyel szemben elrendelt figyelmeztető jelzés alanyának természetes személyazonosító adatait és tájékoztatja a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervet. A rendőr az ismeretlen elkövető természetes személyazonosító adatainak megismerését követően megkeresi a SIRENE Irodát a találattal érintett figyelmeztető jelzéshez kapcsolódó kiegészítő információk beszerzése céljából.
 
+### Az Europol által javasolt információs figyelmeztető jelzés elhelyezése
+
+46/L. § (1) Az Europol által javasolt információs figyelmeztető jelzés elhelyezését – az elrendelés alapjául szolgáló információtól függően – az országos rendőrfőkapitány vagy a terrorizmust elhárító szerv főigazgatója hagyja jóvá.
+
+(2) A jóváhagyást követően a Nemzetközi Bűnügyi Együttműködési Központ, vagy a terrorizmust elhárító szerv információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
+
+(3) Ha a rendőr az e fejezetben meghatározott intézkedése során megállapítja, hogy az intézkedéssel érintett személy azonos a Schengeni Információs Rendszerben elhelyezett információs figyelmeztető jelzés szerinti harmadik országbeli állampolgárral, rögzíti a rendőri intézkedés megtörténtének tényét és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 37b. cikk (1) bekezdése szerinti adatokat, valamint az e fejezetben meghatározott intézkedéseket foganatosíthatja.
+
 ### VI. Fejezet — A KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Testi kényszer
@@ -2402,7 +2410,12 @@ az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 106. §
 
-#### 107. §
+107. § A 46/L. §
+
+- a) az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet és
+- b) az (EU) 2018/1862 rendeletnek a harmadik országbeli állampolgárokra vonatkozó, az Unió érdekében álló információs figyelmeztető jelzéseknek a Schengeni Információs Rendszerbe (SIS) való bevitele tekintetében történő módosításáról szóló, 2022. július 6-i (EU) 2022/1190 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 108. §
 

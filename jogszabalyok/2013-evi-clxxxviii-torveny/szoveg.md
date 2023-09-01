@@ -56,7 +56,11 @@ szerepelteti.
 
 6. § A hulladékgazdálkodási közszolgáltató által a természetes személy ingatlanhasználó, valamint a társasház és a lakásszövetkezet részére kiállított számlák tekintetében alkalmazható számlaképre vonatkozó részletes előírásokat a 11. melléklet tartalmazza.
 
-#### 7. §
+7. § (1) A szolgáltató jogosult az e törvénnyel nem szabályozott, általa közvetlenül vagy közvetítőként biztosított termék árát, szolgáltatás díját, valamint egyéb tételt a kibocsátott számlán – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásaira figyelemmel – feltüntetni és kiszámlázni.
+
+(2) Az (1) bekezdés alapján a szolgáltató közvetítőként, illetve a szolgáltató által igénybe vett közreműködő személy közvetítői alvállalkozóként a felhasználó és a szolgáltató kapcsolt vállalkozásaként működő pénzügyi intézmény között létrejött megállapodás alapján, az abban foglaltak szerint jogosult a megállapodás szerint esedékes tőketörlesztés, valamint ügyleti és késedelmi kamat összegét – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásaira figyelemmel – a számlarészletezőn feltüntetni.
+
+(3) Az (1) bekezdés szerinti kibocsátott összevont számla részleges pénzügyi teljesítése esetében elsődlegesen a közműszolgáltatásra kell elszámolni a befizetett összeget, továbbá a számla nem vagy részleges teljesítése esetén kizárólag közműtartozás esetén kerülhet sor a felhasználónak az ellátásból való kikapcsolására.
 
 8. § (1) Az 1–12. mellékletekben meghatározott adatokat a szolgáltató az ott meghatározott elrendezésben, Times New Roman betűtípussal, a címzést Arial betűtípussal köteles feltüntetni. A számlák első oldalán, színes mezőben szereplő adatokat 11 pontos betűmérettel kell feltüntetni. A számlában szereplő további adatokat a szolgáltató jól olvashatóan, – figyelemmel a méretarányokra és a kitöltendő adatok karaktereinek számára – minimum 8 pontos betűmérettel köteles szerepeltetni. A betűméret megválasztása és az adatok kitöltése nem járhat a számlakép elrendezésének sérelmével.
 
@@ -87,7 +91,7 @@ színárnyalatot kell használni.
 
 9. § Amennyiben a számlát a szolgáltatóval kötött szerződés alapján egy másik vállalkozás állítja ki, úgy e törvény előírásainak megtartásáért egyetemleges felelősség terheli a szolgáltatót és a vállalkozást.
 
-10. § A szolgáltató köteles a számlán alkalmazott, a felhasználók számára nehezen érthető szakkifejezések magyarázatát rendszeresen, legalább évente egyszer a számlához csatoltan megadni.
+10. § A szolgáltató köteles a számlán alkalmazott, a felhasználók számára nehezen érthető szakkifejezések magyarázatát a számlakép változáskor írásbeli tájékoztatással megadni, valamint a honlapon és a személyes ügyfélfogadó helyeken folyamatosan biztosítani.
 
 10/A. § (1) A fogyatékos személy (e § alkalmazásában a továbbiakban: fogyasztó) írásbeli kérelmére az eredeti számla mellett a villamos energia és a földgáz egyetemes szolgáltató, valamint a villamos energia és a földgázelosztó az egyetemes szolgáltatásra jogosult felhasználó, a távhőszolgáltató, a víziközmű-szolgáltató és a hulladékgazdálkodási közszolgáltató a fogyasztó választása alapján köteles
 
@@ -115,9 +119,7 @@ számlát (a továbbiakban: akadálymentes számla) – az eredeti számlával a
 
 14. § Felhatalmazást kap a Kormány, hogy az akadálymentes számla kibocsátásának részletes szabályait rendeletben állapítsa meg.
 
-15. § (1)
-
-(2)–(6)
+15. § Ez a törvény a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i 2019/944/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 16. §
 
@@ -224,7 +226,12 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.5.1. Nem lakossági fogyasztó esetében a díjtételek között a számlarészletező részben az „Jövedéki adó” tételt is fel kell feltüntetni.
 - 4.5.2. A „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 - 4.5.3. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
-- 4.6. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
+- 4.6. Egyéb: csak abban az esetben szükséges feltüntetni, ha
+- 4.6.1. a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló, egyetemes villamosenergia-szolgáltatáshoz vagy villamosenergia-elosztáshoz kapcsolódó tétel felmerült (különösen kamat, tartozás), vagy
+- 4.6.2. a számla a 7. § (1) vagy (2) bekezdése alapján számlaképpel nem szabályozott termék árát, szolgáltatás díját vagy egyéb tételt tartalmaz, azzal, hogy a számla 3. pontjában a szolgáltatás megnevezése résznél az egyéb szolgáltatást is fel kell tüntetni.
+
+A számlának tartalmaznia kell a tétel feltüntetését megalapozó jogcímet. A tételeket külön sorokban kell szerepeltetni.
+
 - 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetében a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a villamos energia termékdíjat, rendszerhasználati díjakat, pénzeszköz jellegű tételeket – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
 - 4.8. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. január 1-je óta: 2013. január 1-jét követően a 4.7. pont alapján számított megtakarítások összesen.
 - 4.9. Tájékoztató adatok:
@@ -333,7 +340,12 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.4.2. Nem lakossági fogyasztó esetében a díjtételek között az „Elszámolt jövedéki adó összesen”, „Részszámlákban elszámolt jövedéki adó”, „Fizetendő jövedéki adó” tételeket is fel kell tüntetni.
 - 4.4.3. A „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket, valamint az ezekhez kapcsolódó, részszámlákban elszámolt fizetendő tételekre vonatkozó sorokat kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 - 4.4.4. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
-- 4.5. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
+- 4.5. Egyéb: csak abban az esetben kell feltüntetni, ha
+- 4.5.1. a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló, egyetemes villamosenergia-szolgáltatáshoz vagy villamosenergia-elosztáshoz kapcsolódó tétel felmerült (különösen kamat, tartozás), vagy
+- 4.5.2. a számla a 7. § (1) vagy (2) bekezdése alapján számlaképpel nem szabályozott termék árát, szolgáltatás díját vagy egyéb tételt tartalmaz, azzal, hogy a számla 3. pontjában a szolgáltatás megnevezése résznél az egyéb szolgáltatást is fel kell tüntetni.
+
+A számlának tartalmazni kell a tétel feltüntetését megalapozó jogcímet. A tételeket külön sorokban kell szerepeltetni.
+
 - 4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetén a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a villamos energia termékdíjat, rendszerhasználati díjakat, pénzeszköz jellegű tételeket – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
 - 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. január 1-je óta: 2013. január 1-jét követően az 4.6. pont alapján számított megtakarítások összesen.
 - 4.8. Tájékoztató adatok: Ha a részszámla a felhasználó havonként történő közlése alapján kerül kiállításra, a számla harmadik oldalán a tájékoztató adatok között a következő leolvasás várható időpontjával együtt a következő diktálási időszakot is fel kell tüntetni.
@@ -428,7 +440,13 @@ Földgáz egyetemes szolgáltatás és földgázelosztás
 
 4.5.3. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „bruttó számlaérték összesen” sorban a nettó érték kitöltése nem értelmezhető).
 
-4.6. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
+4.6. Egyéb: csak abban az esetben kell feltüntetni, ha
+
+4.6.1. a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló, egyetemes földgázszolgáltatáshoz vagy földgázelosztáshoz kapcsolódó tétel felmerült (különösen kamat, tartozás), vagy
+
+4.6.2. a számla a 7. § (1) vagy (2) bekezdése alapján számlaképpel nem szabályozott termék árát, szolgáltatás díját vagy egyéb tételt tartalmaz, azzal, hogy a számla 3. pontjában a szolgáltatás megnevezése résznél az egyéb szolgáltatást is fel kell tüntetni.
+
+A számlának tartalmazni kell a tétel feltüntetését megalapozó jogcímet. A tételeket külön sorokban kell szerepeltetni.
 
 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetében a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a földgáz egyetemes szolgáltatás árát, ártámogatást és a biztonsági készletezési díjat – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
 
@@ -544,7 +562,12 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.4.1. Nem lakossági fogyasztó esetében az „Jövedéki adó összesen”, a „Részszámlákban elszámolt jövedéki adó” és a „Fizetendő jövedéki adó” tételt is fel kell feltüntetni.
 - 4.4.2. A díjtételek között a „Biztonsági készletezési díj összesen”, a „Részszámlákban elszámolt biztonsági készletezési díj”, és a „Fizetendő biztonsági készletezési díj” tételeket is fel kell tüntetni, ha azok értéke nem nulla.
 - 4.4.3. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „bruttó számlaérték összesen” sorban a nettó érték kitöltése nem értelmezhető).
-- 4.5. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
+- 4.5. Egyéb: csak abban az esetben kell feltüntetni, ha
+- 4.5.1. a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló, egyetemes földgázszolgáltatáshoz vagy földgázelosztáshoz kapcsolódó tétel felmerült (különösen kamat, tartozás), vagy
+- 4.5.2. a számla a 7. § (1) vagy (2) bekezdése alapján számlaképpel nem szabályozott termék árát, szolgáltatás díját vagy egyéb tételt tartalmaz, azzal hogy a számla 3. pontjában a szolgáltatás megnevezése résznél az egyéb szolgáltatást is fel kell tüntetni.
+
+A számlának tartalmazni kell a tétel feltüntetését megalapozó jogcímet. A tételeket külön sorokban kell szerepeltetni.
+
 - 4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetében a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a földgáz egyetemes szolgáltatás árát, ártámogatást, és a földgáz biztonsági készletezés díját – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
 - 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. január 1-je óta: 2013. január 1-jét követően az 4.6. pont alapján számított megtakarítások összesen.
 - 4.8. Tájékoztató adatok: Ha a részszámla a felhasználó havonként történő közlése alapján kerül kiállításra, a számla harmadik oldalán a tájékoztató adatok között a következő leolvasás várható időpontjával együtt a következő diktálási időszakot is fel kell tüntetni.

@@ -118,9 +118,9 @@ a következő törvényt alkotja:
 
 (3) A Kormány a kutatás-fejlesztés és innováció közfinanszírozású támogatását elsődlegesen a Nemzeti Kutatási, Fejlesztési és Innovációs Alapból (a továbbiakban: NKFI Alap) biztosítja. A Kormány által az NKFI Alapból központilag biztosított személyi jellegű kutatói pályázatok nem foglalják magukban a felsőoktatási intézmények doktori iskoláiban doktori képzésben részt vevők állami ösztöndíját.
 
-5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és az Eötvös Loránd Kutatási Hálózat Titkárságának (a továbbiakban: ELKH Titkárság) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
+5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és a Magyar Kutatási Hálózat Titkárságának (a továbbiakban: MKH Titkárság) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
 
-(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és az ELKH Titkárság elnöke feladatkörükben együttműködve
+(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és az MKH Titkárság elnöke feladatkörükben együttműködve
 
 - a) irányítják, felügyelik az általuk irányított fejezetbe sorolt költségvetési kutatóhelyeket,
 - b) gondoskodnak az általuk irányított fejezetbe sorolt előirányzatok terhére támogatott kutatás-fejlesztési és innovációs programok értékeléséről,
@@ -128,13 +128,15 @@ a következő törvényt alkotja:
 - d) elősegítik a kutatás-fejlesztési és innovációs eredmények hasznosítását, kutatás-fejlesztési célú szakmai együttműködések és innovációs hálózatok kialakítását, működését,
 - e) a szakterületükre irányuló támogatott kutatás-fejlesztési és innovációs programok tekintetében részt vesznek a tartalmi követelmények, a támogatási feltételek és az értékelési mutatók meghatározásában.
 
-(3) A miniszterek, az MTA elnöke és az ELKH Titkárság elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
+(3) A miniszterek, az MTA elnöke és az MKH Titkárság elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
+
+6. § (1) A Kormány – a Magyar Formatervezési Tanács útján – elősegíti a hazai formatervezési kultúra fejlesztését, valamint a formatervező alkotók helyzetének javítását. A Magyar Formatervezési Tanácsot a Kormány által kijelölt szerv működteti.
+
+(2) A Magyar Formatervezési Tanács feladatainak, szervezetének és működésének részletes szabályait a Kormány rendeletben állapítja meg.
 
 ### III. Fejezet
 
 #### 4.
-
-#### 6. §
 
 #### 7. §
 
@@ -154,7 +156,7 @@ a következő törvényt alkotja:
 
 10/A. § (1) A Nemzeti Tudománypolitikai Tanács (a továbbiakban: NTT) az NKFI Alap működésének szakmai felügyeletében közreműködő és a Kormány kutatás-fejlesztési és innovációs tevékenységét támogató véleményező testület.
 
-(2) Az NTT 12 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT társelnökét és további tagjait – az elnök javaslatára – a miniszterelnök kéri fel, nevezi ki és vonja vissza kinevezésüket. A kinevezés három évre szól és több alkalommal meghosszabbítható. A kinevezett tagokat a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül kell kiválasztani a következők szerint: három tagot a gazdasági szféra, négy tagot a tudományos szféra és három tagot az állami szféra szereplői közül, egy tagot pedig az Eötvös Loránd Kutatási Hálózat (a továbbiakban: ELKH) tagjai közül kell kinevezni.
+(2) Az NTT 12 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT társelnökét és további tagjait – az elnök javaslatára – a miniszterelnök kéri fel, nevezi ki és vonja vissza kinevezésüket. A kinevezés három évre szól és több alkalommal meghosszabbítható. A kinevezett tagokat a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül kell kiválasztani a következők szerint: három tagot a gazdasági szféra, négy tagot a tudományos szféra és három tagot az állami szféra szereplői közül, egy tagot pedig a Magyar Kutatási Hálózat (a továbbiakban: MKH) tagjai közül kell kinevezni.
 
 10/B. § Az NTT
 
@@ -518,7 +520,7 @@ nyújtható.
 
 (3) A költségvetési kutatóhely – a (4) bekezdésben foglalt kivétellel –, valamint a felsőoktatási intézmény évente, a tárgyévet követő év március 31. napjáig beszámolót készít a tudománypolitika koordinációjáért felelős miniszter részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
 
-(4) Az ELKH-hoz tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
+(4) Az MKH-hoz tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
 
 (5) A Központi Statisztikai Hivatal a tárgyév vonatkozásában, a tárgyévet követő év június 30. napjáig átadja a Kormány által kijelölt szerv részére a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatos elemi adatokat.
 
@@ -539,153 +541,77 @@ nyújtható.
 
 ### VI. Fejezet — A KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
 
-36. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) kérelemre minősíti a kérelemben megjelölt
+36. § (1) A kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv kérelemre minősíti
 
-- a) projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek,
-- b) projektcsoportot abból a szempontból, hogy a kérelmező által a projektcsoportba sorolt projektek
+- a) a projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek, valamint
+- b) a projektcsoportot abból a szempontból, hogy a kérelmező által a projektcsoportba sorolt projektek
 
 a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 
-(2) A projekt vagy projektcsoport minősítésére vonatkozó eljárás (a továbbiakban együttesen: minősítési eljárás) keretében hozott határozat
+(2) A projekt vagy projektcsoport minősítése (a továbbiakban együtt: minősítés) keretében hozott szakértői vélemény a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez használható fel.
 
-- a) a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez,
-- b)
+(3) A kutatás-fejlesztési támogatási rendszerben a minősítés keretében hozott szakértői vélemény akkor használható fel, ha a támogató a pályázati felhívásban ezt lehetővé teszi.
 
-használható fel.
+(4) A minősítés díjköteles.
 
-(3) A kutatás-fejlesztési támogatási rendszerben a minősítési eljárás keretében hozott határozat akkor használható fel, ha a támogató a pályázati felhívásban ezt lehetővé teszi.
+37. § (1) A minősítés tárgya
 
-37. § (1) A minősítési eljárás tárgya
+- a) az időtartamában pontosan meghatározott projekt vagy projektrész (a továbbiakban: projektminősítés), vagy
+- b) a projektcsoport.
 
-- a) az időtartamában pontosan meghatározott és a kérelem benyújtását követően megkezdett projekt vagy projektrész (a továbbiakban: projektminősítési eljárás) vagy
-- b) a projektcsoport (a továbbiakban: projektcsoport-minősítési eljárás).
+(2) Projektminősítés akkor kérelmezhető egy adott projekt egyes részeire, ha azok egyértelműen elválaszthatóak egymástól.
 
-(2) Projektminősítési eljárás akkor kérelmezhető egy adott projekt egyes részeire, ha azok egyértelműen elválaszthatóak egymástól.
+(3) A minősítés keretében hozott szakértői vélemény elkészítésének határideje 30 nap, amely egyszer 15 nappal meghosszabbítható. A határidőbe nem számít bele a hiánypótlási felhívás teljesítésének ideje.
 
-(3) A projektcsoport minősítésének részletes szempontrendszerét az SZTNH – a Kormány által kijelölt szerv vezetője véleményének kikérését követően – módszertani útmutatóban határozza meg, amit tájékoztatásul a honlapján közzétesz.
+(4) A kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátásának segítése érdekében a Kormány által kijelölt szerv módszertani útmutatót készít, amelyet tájékoztatásul a honlapján közzétesz.
 
-38. § (1) Kérelemre az SZTNH a projektminősítési eljárásban
+#### 38. §
 
-- a) meghatározza a projekt alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységeinek arányát,
-- b) meghatározza, hogy az adott tevékenységet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
+#### 39. §
 
-(2) A projektcsoport-minősítési eljárásban az SZTNH meghatározza, hogy az adott tevékenységet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
+#### 40. §
 
-(3) Az (1) és a (2) bekezdés szerinti kérdésben az SZTNH abban az esetben hoz érdemi döntést, ha a projektminősítési eljárásban vagy a projektcsoport-minősítési eljárásban a projektet vagy a projektcsoportot kutatás-fejlesztésnek minősíti.
+41. § A minősítés során a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(4) A projektcsoport-minősítés hatálya a projektcsoportba tartozó valamennyi projektre kiterjed.
+42. § (1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szervet.
 
-(5) Ha az SZTNH jogerős határozatban kutatás-fejlesztési tevékenységnek minősített valamely projektet vagy a projektcsoportot, a minősítésről hozott határozat köti a 36. § (2) bekezdés a) pontja szerinti eljárásban vagy azzal összefüggő más eljárásban eljáró hatóságot annak megítélése tekintetében, hogy a tevékenység kutatás-fejlesztési tevékenységnek minősül-e.
+(2) Más hatóság vagy bíróság általi kirendelés, továbbá harmadik személy megkeresése alapján a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv szakértői véleményt ad a kirendelésben vagy a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítésével összefüggő kérdésben, ideértve a kutatás-fejlesztési tevékenységnek minősített projektben az alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységek arányát, valamint annak meghatározását is, hogy az adott tevékenységet az érintett személy a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
 
-(6) A projektminősítési eljárás keretében hozott határozat az (5) bekezdés szerinti más hatóságra csak a projektnek a projektminősítési eljárás lefolytatására irányuló kérelemben foglaltakhoz képest változatlan megvalósítása mellett kötelező. Ha a projekt a projektminősítési eljárás lefolytatására irányuló kérelemben foglaltakhoz képest eltérően valósul meg, a tevékenység a 36. § (2) bekezdés a) pontja szerinti kedvezmények érvényesítése szempontjából új projektnek minősül, amelyre a minősítés hatálya nem terjed ki.
+(3) Az (1) és (2) bekezdés szerinti eljárásban a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban további adatok szolgáltatását kérheti a megkereső bíróságtól, hatóságtól vagy harmadik személytől.
 
-39. § (1) Az SZTNH e fejezetben szabályozott eljárására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
+(4) Ha az (1) és a (2) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv nem rendelkezik, akkor a megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
 
-- a) a kérelmet csak írásban, az e célra rendszeresített formanyomtatványon vagy elektronikus űrlapon lehet előterjeszteni,
-- b) az SZTNH a tényeket az ügyfél nyilatkozatai és állításai alapján vizsgálja,
-- c) az eljárásban – tájékoztatás kérése és annak teljesítése kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján,
-- d) nem alkalmazandóak az általános közigazgatási rendtartásról szóló törvénynek a határozat közhírré tételére, az ügygondnokra, a sommás eljárásra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései,
-- e) a projektminősítési eljárás ügyintézési határideje harminc nap,
-- f) a projektcsoport-minősítési eljárásban az egyes kijelölt projektek vizsgálatára és ezzel egyidejűleg a projektcsoport minősítésére vonatkozó ügyintézési határidő az egyes kijelölt projektekre vonatkozó külön kérelem benyújtását követő hatvan nap.
+### VI/A. Fejezet — A MAGYAR KUTATÁSI HÁLÓZAT
 
-(2) Az SZTNH döntéseivel kapcsolatban nincs helye fellebbezésnek, közigazgatási pernek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek, az SZTNH-nak a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott határozatait a Fővárosi Törvényszék – a 40. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
+#### 13/A. A Magyar Kutatási Hálózat szervezete
 
-(3) Az SZTNH a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott döntését az általános közigazgatási rendtartásról szóló törvény 120. §-ában foglaltak szerint módosíthatja vagy visszavonhatja.
+42/A. § Az MKH az MKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
 
-(4) A 36. § (1) bekezdése és a 38. § (1) bekezdése szerinti kérelem benyújtása esetén jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+#### 13/B. A Magyar Kutatási Hálózat Titkársága
 
-(5) A minősítési eljárások magyar nyelven és – az általános közigazgatási rendtartásról szóló törvény 20. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folynak, a kérelmet magyar nyelven és – az általános közigazgatási rendtartásról szóló törvény 20. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
+42/B. § (1) Az MKH Titkárság gazdasági szervezettel rendelkező központi költségvetési szerv, mely az MKH tagjaként központi költségvetési szerv formában működtetett kutatóhelyekkel a központi költségvetésről szóló törvényben önálló költségvetési fejezetet képez. Az MKH Titkárság tudományos kutatások folytatása céljából a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn.
 
-(6) Ha a minősítési eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított nyolc napon belül az SZTNH értesíti
+(2) Az MKH Titkárság gyakorolja a 42/A. § szerint általa működtetett központi költségvetési szervként működő kutatóhelyek felett az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-a szerinti irányítási hatásköröket, valamint a gazdasági társaságként működő kutatóhelyeknek a tulajdonosi joggyakorlót megillető jogait, és ellátja a kutatóhelyek igazgatási és ellenőrzési feladatait.
 
-- a) az ügy iktatási számáról, az ügyintéző nevéről és hivatali elérhetőségéről,
-- b) az eljárás megindításának napjáról, az ügyintézési határidőről, az ügyintézési határidőbe nem számító időtartamokról, az SZTNH eljárási kötelezettségének elmulasztása esetén követendő eljárásról,
-- c) az iratokba való betekintés és nyilatkozattétel lehetőségéről, és
-- d) arról, hogy kérelme a szükséges adatainak kezeléséhez és belföldi jogsegély céljából történő továbbításához való hozzájárulásnak minősül.
+(3) Az MKH Titkárság közfeladata a jelen fejezetben meghatározott intézményesített keretek között folytatott kutatások intézményrendszerének fenntartása, működtetése.
 
-40. § (1) A bíróság kérelemre megváltoztathatja az SZTNH
+(4) Az MKH Titkárság – megállapodás útján – a (3) bekezdésben meghatározott közfeladat ellátásában más szervezet részvételét is biztosíthatja.
 
-- a) a minősítési eljárásban hozott határozatát,
-- b) 38. § (1) bekezdése szerinti döntését,
-- c) eljárást felfüggesztő végzését,
-- d) kérelmet érdemi vizsgálat nélkül elutasító és az eljárást megszüntető végzését,
-- e) iratbetekintést kizáró vagy azt korlátozó azon végzését, amellyel szemben az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye,
-- f) iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott végzését.
+(5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit az MKH Titkárság – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
 
-(2) Az SZTNH-nak az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemmel támadható meg. A bíróság az SZTNH döntését megváltoztathatja.
+(6) A Kormány MKH-val és az MKH Titkársággal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
 
-(2a) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
+(7) Az MKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, valamint a kutatóhelyeket érintő jogszabályok megalkotása és módosítása során.
 
-- a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+#### 13/C. Az MKH Titkárság szervezete
 
-(2b) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
-
-- a) a megváltoztatási kérelemmel érintett döntés számát, valamint a döntésnek a megváltoztatási kérelem által érintett rendelkezését vagy részét,
-- b) a döntés bíróság általi megváltozatására irányuló határozott kérelmet, valamint
-- c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
-
-(2c) A megváltoztatási kérelem záró részében fel kell tüntetni:
-
-- a) bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
-- b) a megfizetett illeték összegét és megfizetésének módját, vagy az eljárási illeték részleges megfizetése esetén a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
-- c) a meghatalmazott képviseleti jogát megalapozó tényeket és bizonyítékokat, valamint
-- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
-
-(3) A 39. § (2) bekezdése szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül az SZTNH-nál kell benyújtani vagy részére a feladás utólagos igazolását lehetővé tevő postai szolgáltatás igénybevételével megküldeni. Az SZTNH a kérelmet az ügy irataival együtt tizenöt napon belül továbbítja a Fővárosi Törvényszékhez kivéve, ha a megtámadott döntést a kérelemben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja vagy visszavonja, valamint, ha a kérelmet a Fővárosi Törvényszékhez való továbbítást megelőzően a kérelmező visszavonta.
-
-(4) Ha az (1) bekezdés szerinti kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
-
-(5) A 39. § (2) bekezdése szerinti nemperes eljárásban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló törvény szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
-
-(6) A Fővárosi Törvényszék három hivatásos bíróból álló tanácsban jár el, akik közül két tag felsőfokú műszaki vagy ezzel egyenértékű szakképesítéssel rendelkezik.
-
-(7) A bíróság előtti eljárásban a jogi képviselet kötelező, ideértve a jogorvoslati eljárásokat is.
-
-41. § A minősítési eljárásban az SZTNH az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
-
-42. § (1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti az SZTNH-t. Ebben az esetben az SZTNH szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
-
-(2) Más hatóság vagy bíróság általi kirendelés, továbbá harmadik személy megkeresése alapján az SZTNH szakértői véleményt ad a kirendelésben vagy a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítésével összefüggő kérdésben, ideértve a kutatás-fejlesztési tevékenységnek minősített projektben az alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységek arányát, valamint annak meghatározását is, hogy az adott tevékenységet az érintett személy a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
-
-(3) Az (1) és (2) bekezdés szerinti eljárásban az SZTNH a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban az SZTNH további adatok szolgáltatását kérheti a megkereső bíróságtól, hatóságtól vagy harmadik személytől.
-
-(4) Ha az (1) és a (2) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel az SZTNH nem rendelkezik, az SZTNH megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
-
-(5) A (2) bekezdés szerinti eljárásban az SZTNH díjazására az igazságügyi szakértői tevékenységet végzők díjazására vonatkozó szabályokat kell alkalmazni.
-
-### VI/A. Fejezet — AZ EÖTVÖS LORÁND KUTATÁSI HÁLÓZAT
-
-#### 13/A. Az Eötvös Loránd Kutatási Hálózat szervezete
-
-42/A. § Az ELKH az ELKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
-
-#### 13/B. Az Eötvös Loránd Kutatási Hálózat Titkársága
-
-42/B. § (1) Az ELKH Titkárság gazdasági szervezettel rendelkező központi költségvetési szerv, mely az ELKH tagjaként központi költségvetési szerv formában működtetett kutatóhelyekkel a központi költségvetésről szóló törvényben önálló költségvetési fejezetet képez. Az ELKH Titkárság tudományos kutatások folytatása céljából a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn.
-
-(2) Az ELKH Titkárság gyakorolja a 42/A. § szerint általa működtetett központi költségvetési szervként működő kutatóhelyek felett az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-a szerinti irányítási hatásköröket, valamint a gazdasági társaságként működő kutatóhelyeknek a tulajdonosi joggyakorlót megillető jogait, és ellátja a kutatóhelyek igazgatási és ellenőrzési feladatait.
-
-(3) Az ELKH Titkárság közfeladata a jelen fejezetben meghatározott intézményesített keretek között folytatott kutatások intézményrendszerének fenntartása, működtetése.
-
-(4) Az ELKH Titkárság – megállapodás útján – a (3) bekezdésben meghatározott közfeladat ellátásában más szervezet részvételét is biztosíthatja.
-
-(5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit az ELKH Titkárság – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
-
-(6) A Kormány ELKH-val és az ELKH Titkársággal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
-
-(7) Az ELKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, valamint a kutatóhelyeket érintő jogszabályok megalkotása és módosítása során.
-
-#### 13/C. Az ELKH Titkárság szervezete
-
-42/C. § (1) Az ELKH Titkárság fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
+42/C. § (1) Az MKH Titkárság fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
 
 (2) Az Irányító Testület kilenc főből áll.
 
-(2a) Az Irányító Testület és az ELKH Titkárság vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki és vonja vissza kinevezését. Az Irányító Testület elnöke az „Eötvös Loránd Kutatási Hálózat elnöke” cím használatára jogosult.
+(2a) Az Irányító Testület és az MKH Titkárság vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki és vonja vissza kinevezését. Az Irányító Testület elnöke a „Magyar Kutatási Hálózat elnöke” cím használatára jogosult.
 
-(2b) Az Irányító Testület elnökön felüli nyolc tagjának kinevezésére a tudománypolitika koordinációjáért felelős miniszter az MTA elnökével közösen és az ELKH elnökének egyetértésével tesz javaslatot, azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerül kiválasztásra.
+(2b) Az Irányító Testület elnökön felüli nyolc tagjának kinevezésére a tudománypolitika koordinációjáért felelős miniszter az MTA elnökével közösen és az MKH elnökének egyetértésével tesz javaslatot, azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerül kiválasztásra.
 
 (2c) A javaslattétel során figyelemmel kell lenni arra, hogy a (2b) bekezdés szerinti nyolc főből legalább két fő a 42/A. § szerinti kutatóközpontok és kutatóintézetek vezetői vagy munkavállalói közül kerüljön kiválasztásra.
 
@@ -694,34 +620,34 @@ használható fel.
 (3) Az Irányító Testület
 
 - 1.
-- 2. elfogadja az ELKH működésével kapcsolatos stratégiai elveket;
+- 2. elfogadja az MKH működésével kapcsolatos stratégiai elveket;
 - 3. dönt a kutatóhelyek megalapításáról, átszervezéséről, megszüntetéséről;
 - 4. jóváhagyja a kutatóhelyek céljait, feladatait, elfogadja alapító okiratukat;
 - 5. meghatározza a kutatóhelyek vezetői munkaköre betöltését szolgáló nyilvános pályázati felhívás tartalmát és megválasztja a kutatóhelyek vezetőit;
-- 6. dönt az ELKH Titkárság, valamint a kutatóhelyek szervezeti és működési szabályairól;
-- 7. elfogadja az ELKH vagyongazdálkodásával kapcsolatos szabályokat;
-- 8. előzetesen jóváhagyja az ELKH Titkárság szervezeti és működési szabályzatában meghatározott értékhatárt meghaladó kötelezettségvállalását;
+- 6. dönt az MKH Titkárság, valamint a kutatóhelyek szervezeti és működési szabályairól;
+- 7. elfogadja az MKH vagyongazdálkodásával kapcsolatos szabályokat;
+- 8. előzetesen jóváhagyja az MKH Titkárság szervezeti és működési szabályzatában meghatározott értékhatárt meghaladó kötelezettségvállalását;
 - 9. meghatározza a kutatóhelyek támogatásának szempontjait;
-- 10. jóváhagyja az ELKH Titkárság és a kutatóhelyek következő évi költségvetésének irányelveit és elfogadja az ELKH Titkárság és a kutatóhelyek következő évi költségvetésének kereteit;
+- 10. jóváhagyja az MKH Titkárság és a kutatóhelyek következő évi költségvetésének irányelveit és elfogadja az MKH Titkárság és a kutatóhelyek következő évi költségvetésének kereteit;
 - 11. értékeli a kutatóhelyek tevékenységét szolgáló támogatások felhasználását;
-- 12. jóváhagyja az ELKH Titkárság és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
+- 12. jóváhagyja az MKH Titkárság és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
 - 13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolót;
 - 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
-- 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az ELKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
+- 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
 - 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
 
 (4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2., 3., 5., és 10. pontja szerinti döntésekhez.
 
 42/D. § (1)
 
-(2) Az ELKH Titkárság tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
+(2) Az MKH Titkárság tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
 
 (3) Az elnök
 
-- a) az ELKH mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
-- b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol az ELKH működésének eredményeiről;
-- c) az ELKH Titkárság vagyona tekintetében gyakorolja a tulajdonosi jogokat;
-- d) képviseli az ELKH Titkárságot;
+- a) az MKH mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
+- b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol az MKH működésének eredményeiről;
+- c) az MKH Titkárság vagyona tekintetében gyakorolja a tulajdonosi jogokat;
+- d) képviseli az MKH Titkárságot;
 - e) munkáltatói jogot gyakorol
   - ea) a főtitkár,
   - eb) a főtitkárhelyettes
@@ -732,7 +658,7 @@ felett;
 - f) a főtitkár útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról,
 - g) ellátja az alapító okirat által hatáskörébe utalt további feladatokat.
 - h) meghatározza a főtitkári és a főtitkárhelyettesi munkakör betöltését szolgáló nyilvános pályázati felhívás tartalmát; a nyilvános pályázati eljárás eredményére tekintettel kinevezi a főtitkárt és a főtitkárhelyettest;
-- i) dönt az ELKH Titkárság szabályzatairól.
+- i) dönt az MKH Titkárság szabályzatairól.
 
 (4) Az elnököt – akadályoztatása esetén – a főtitkár helyettesíti, egyebekben az elnök a (3) bekezdés c)–e) pontjában foglalt jogköreit vagy azok meghatározott részét a főtitkárra ruházhatja, aki ezt a jogát nem ruházhatja át.
 
@@ -740,9 +666,9 @@ felett;
 
 #### 42/F. §
 
-42/G. § (1) A főtitkár az ELKH Titkárság igazgatási vezetője, ezáltal közvetetten ellátja a kutatóhálózat adminisztratív irányítását. A főtitkár ellátja továbbá az alapító okiratban, a szervezeti és működési szabályzatban foglalt feladatokat, és eljár azokban az ügyekben, melyekben átruházott jogkört gyakorol.
+42/G. § (1) A főtitkár az MKH Titkárság igazgatási vezetője, ezáltal közvetetten ellátja a kutatóhálózat adminisztratív irányítását. A főtitkár ellátja továbbá az alapító okiratban, a szervezeti és működési szabályzatban foglalt feladatokat, és eljár azokban az ügyekben, melyekben átruházott jogkört gyakorol.
 
-(2) A főtitkár az „Eötvös Loránd Kutatási Hálózat főtitkára” cím használatára jogosult.
+(2) A főtitkár a „Magyar Kutatási Hálózat főtitkára” cím használatára jogosult.
 
 #### 13/D. Kutatóhálózat
 
@@ -776,7 +702,7 @@ felett;
 
 (2) Az elnök és a főtitkár a tevékenységéért az Irányító Testületnek felel.
 
-(3) Az ELKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
+(3) Az MKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
 
 (4) A kutatóhelyeknél foglalkoztatottak jogviszonyára az Mt. rendelkezéseit kell alkalmazni.
 
@@ -792,11 +718,11 @@ felett;
 - b) a programok és projektek értékelésének részletes szabályait, tartalmi követelményeit és rendszerét,
 - c) a hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásával kapcsolatos részletes rendelkezéseket,
 - d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket,
-- e) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait,
+- e)
 - f) a Magyar Formatervezési Tanács feladatainak, szervezetének és működésének részletes szabályait,
 - g) a kutatóhely költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait.
 
-(2) Felhatalmazást kap az SZTNH felügyeletét ellátó miniszter, hogy – az adópolitikáért felelős miniszter egyetértésével és az SZTNH elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
+(2)
 
 (3) Felhatalmazást kap a tudománypolitika koordinációjáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítéséért fizetendő díj mértékét és a megfizetés módjára vonatkozó részletes szabályokat.
 
@@ -849,6 +775,8 @@ vonatkozó szabályait kell alkalmazni.
 (6) A munkáltató és a foglalkoztatott közötti egyéb megállapodást a jogállásváltozás nem érinti.
 
 47/B. § Az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvény (a továbbiakban: Mód2.tv.) hatálybalépését megelőzően kinevezett ELKH Irányító Testületi tagok megbízatása – az elnök kivételével – a Mód2.tv. hatálybalépését követő 15. napon megszűnik.
+
+47/C. § A Mód2.tv. hatálybalépését megelőzően a Szellemi Tulajdon Nemzeti Hivatalához benyújtott kutatás-fejlesztési tevékenység minősítésére irányuló kérelem alapján a Mód2.tv. hatálybalépésekor folyamatban lévő minősítési eljárásokat a Szellemi Tulajdon Nemzeti Hivatala folytatja le.
 
 #### 17. Módosító rendelkezések
 

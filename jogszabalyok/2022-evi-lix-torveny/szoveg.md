@@ -68,7 +68,9 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 26. §
 
-#### 27. §
+27. § Az Nftv. 26. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az oktató – függetlenül attól, hogy hány felsőoktatási intézményben lát el oktatói feladatot – az intézmény működési feltételei meglétének mérlegelése során – zárt rendszerű elektronikus távolléti oktatás kivételével – egy felsőoktatási intézményben vehető figyelembe. Az oktató írásban adott nyilatkozata határozza meg, hogy melyik az a felsőoktatási intézmény, amelyiknél figyelembe lehet őt venni, illetve más felsőoktatási intézmény által meghirdetett, zárt rendszerű elektronikus távolléti oktatással megvalósuló és videótartalom-kezelőt is alkalmazó tantárgy esetén az oktató írásban adott nyilatkozata alapján kreditenként húsz százalékkal elszámolható az oktató rendelkezésre állása az intézmény működési feltételei meglétének mérlegelése során.”
 
 #### 28. §
 
@@ -78,13 +80,17 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 31. §
 
-#### 32. §
+32. § Az Nftv. 42. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A felsőoktatási intézmény az (1) bekezdés a) pontja szerinti tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt állít ki és azt elektronikusan a tanulmányi rendszeren keresztül átadja azon felsőoktatási intézmény tanulmányi rendszerének, amellyel a vendéghallgató hallgatói jogviszonyban áll.”
 
 #### 33. §
 
 #### 34. §
 
-#### 35. §
+35. § Az Nftv. 49. § (6a) bekezdése helyébe a következő rendelkezés lép:
+
+„(6a) A kreditátviteli bizottság személyes adatokat nem tartalmazó pozitív döntéseit és azok érvényességi idejét, továbbá a felsőoktatási intézmény összes kurzusának, moduljának tárgyleírását a tanulmányi rendszerében minden hallgató és oktató számára hozzáférhetővé és a többi felsőoktatási intézmény tanulmányi rendszere számára letölthetővé kell tenni.”
 
 #### 36. §
 
@@ -92,17 +98,30 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 38. §
 
-#### 39. §
+39. § Az Nftv. 51. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 40. §
+„(1) A felsőfokú tanulmányok befejezését igazoló oklevél kiadásának előfeltétele a sikeres záróvizsga.
 
-#### 41. §
+(2) A felsőoktatási intézmény az oklevelet a sikeres záróvizsga napjától számított harminc napon belül állítja ki és adja át a hallgató részére.”
+
+40. § Az Nftv. 51. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A kiadott oklevelekről és mikrotanúsítványokról a felsőoktatási intézmény tanulmányi rendszeréből közhiteles adatot szolgáltat, az oklevelekről és a mikrotanúsítványokról nyilvántartást vezet. E nyilvántartás alapján a felsőoktatási intézmény az adott okiratot megszerző kérelmére hiteles másolatot állít ki. Az oklevelet és a mikrotanúsítványt megszerző személy kérésére elektronikus másolat formájában is kiállítja, amelyet az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.”
+
+41. § Az Nftv. 52. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az alapképzésben és mesterképzésben, felsőoktatási szakképzésben szerzett oklevél mellé ki kell adni az Európai Bizottság és az Európa Tanács által meghatározott oklevélmellékletet magyar és angol nyelven. A hallgató kérésére az oklevélmellékletet nemzetiségi képzés esetében magyar nyelven és az érintett nemzetiség nyelvén, nem magyar nyelven folyó képzés esetében magyar nyelven és a képzés nyelvén kell kiadni. A hallgató kérésére az oklevélmelléklet szakirányú továbbképzés esetében is kiadható. A kiadott oklevélmellékletről a tanulmányi rendszerben elektronikus másolatot kell tárolni, amelyet az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. A kiadott oklevélmellékletről a felsőoktatási intézmény tanulmányi rendszerében meglévő nyilvántartás alapján a felsőoktatási intézmény az oklevélmellékletet megszerző kérelmére köteles másolatot kiadni. Az oklevélmellékletet megszerző személy kérésére az oklevélmellékletet elektronikus másolati formában is ki kell adni, amelyet az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.”
 
 #### 42. §
 
 43. § (1)
 
-(2)
+(2) Az Nftv. 64. §-a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A miniszter
+
+- a) engedélyezi a felsőoktatásban alkalmazható – integrált modulokkal és funkcionalitásokkal rendelkező – tanulmányi rendszereket,
+- b) meghatározza a tárgyakhoz és modulokhoz tartozó – tanulmányi rendszerben tárolt – tárgytematikák formai követelményeit.”
 
 #### 44. §
 
@@ -114,7 +133,29 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 48. §
 
-#### 49. §
+49. § (1) Az Nftv. 108. §-a a következő 28a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„28a. mikrotanúsítvány: tárgyleírást és kreditértéket is tartalmazó olyan igazolás, amely a felsőoktatási intézmény valamely kurzusának, moduljának elvégzése révén megszerzett tanulási eredményt igazoló közokirat;”
+
+(2) Az Nftv. 108. §-a a következő 29a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„29a. projektfeladat: olyan, tantárgyhoz vagy modulhoz tartozó tanulási és az ismeretek, készségek és képességek elsajátításának, megszerzésének – értékeléssel egybekötött – ellenőrzési formája, amelynek a középpontjában egy meghatározott téma áll, célja az önálló feladatvégzéssel megvalósuló kutatási tevékenység, amelynek végeredménye önálló produktum létrehozása, a probléma meghatározása, megoldása, és ahhoz az összefüggések feltárása;”
+
+(3) Az Nftv. 108. §-a a következő 47a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„47a. videótartalom-kezelő: a tanulmányi rendszerbe vagy a zárt rendszerű távoktatási képzésmenedzsment-rendszerbe (a továbbiakban együtt: képzési rendszerek) integrált streamelési (streaming) technológiával megvalósított mobil használatra is alkalmas videóplatform, amelyben a felhasználó a képzési rendszereken keresztüli egyéni autentikációval éri el a tantárgyaihoz vagy moduljaihoz tartozó videókönyvtárba szervezett – az oktatót, előadót és a prezentációját is megjelenítő – tartalmakat, továbbá amely lehetőséget biztosít a felhasználónak a videótartalomhoz rögzített egyéni és mentésre kerülő jegyzetelésre és a beállított tartalomjegyzék szerinti navigálásra, videókon belül bármely kimondott vagy megjelenített szóra való keresésre, az előadói és prezentációs nézet együttes vagy külön-külön nézetei közötti szabad váltásra, a kiajánlott nyelveken történő feliratozás előhívására;”
+
+(4) Az Nftv. 108. § 48. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„48. vizsga: az ismeretek, készségek és képességek elsajátításának, megszerzésének – értékeléssel egybekötött – ellenőrzési formája, amely projektfeladat megvalósításával is teljesíthető;”
 
 #### 50. §
 
@@ -126,28 +167,28 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 54. § Az Nftv.
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
+- 1. 2. § (6) bekezdésében az „előírt nyilvántartásokat” szövegrész helyébe az „előírt közhiteles adatokat szolgáltató és egyéb nyilvántartásokat” szöveg,
+- 2. 6. § (3) bekezdésében a „dokumentumok” szövegrész helyébe a „dokumentumok, tanulmányi rendszerében kötelezően tárolt nyilvántartások és adatok ” szöveg,
+- 3. 17. § (2) bekezdésében a „szerint heti” szövegrész helyébe a „szerint – zárt rendszerű elektronikus távolléti oktatás kivételével – heti” szöveg,
+- 4. 19. § (1) bekezdésében a „kell érteni.” szövegrész helyébe a „kell érteni. A felsőoktatási információs rendszer az intézményektől adatot kizárólag a tanulmányi rendszeréből fogadhat, és minden adatszolgáltatást elsősorban a tanulmányi rendszerbe kell teljesítenie.” szöveg,
+- 5. 25. § (3) bekezdésében „az eseti,” szövegrész helyébe „az eseti, zárt rendszerű elektronikus távolléti oktatással megvalósuló, továbbá” szöveg,
 - 6.
 - 7.
-- 8.
+- 8. 42. § (2) bekezdésében az „igazolást” szövegrészt helyébe a „mikrotanúsítványt” szöveg,
 - 9.
 - 10.
 - 11.
 - 12.
 - 13.
-- 14.
-- 15.
+- 14. 81. § (1) bekezdés a) pontjában a „beszámolók, vizsgák” szövegrész helyébe a „beszámolók, projektfeladatok, vizsgák” szöveg,
+- 15. 82. § (2) bekezdésében a „terepgyakorlatok ismételt” szövegrész helyébe a „terepgyakorlatok, projektfeladatok ismételt” szöveg,
 - 16.
 - 17.
 - 18.
 - 19.
 - 20.
-- 21.
-- 22.
+- 21. 108. § 43a. pontjában az „intézmény iratkezelésének biztosításához” szövegrész helyébe az „intézmény iratkezelésének, továbbá pénzügyi, számviteli, illetve bér- és humánügyviteli funkcióinak biztosításához” szöveg,
+- 22. 108. § 49. pontjában a „digitális tananyaggal, továbbá” szövegrész helyébe a „digitális tananyaggal, videótartalom-kezelővel, továbbá” szöveg,
 - 23.
 - 24.
 - 25.

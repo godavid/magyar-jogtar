@@ -460,7 +460,9 @@ esetén,
 
 (3) Ha a természetes személy az adót a fizetési kötelezettségét meghaladóan fizette meg vagy a fizetendő adónál a kifizető többet vont le, a túlfizetést a természetes személy az adóévre benyújtott személyi jövedelemadóról benyújtott bevallásában visszaigényelheti. Ha az adóévben fizetendő adó meghaladja a kifizető által levont összeget, a különbözetet a természetes személy az adóévre vonatkozó személyi jövedelemadóról benyújtott bevallásában vallja be, és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
 
-(4) Ha a természetes személy az 1. § (5) bekezdés a)–d) pontjában foglaltak szerint adó fizetésére kötelezett, vagy a (3) bekezdés szerint visszaigénylési jogosultságát gyakorolja, az adóévről köteles személyi jövedelemadó bevallást benyújtani. Nem kell az adót a természetes személynek bevallania, ha a kifizető az adót levonta, és a természetes személy az Szja tv. alapján nem köteles bevallás benyújtására.
+(3a) Ha az adó tekintetében a természetes személy nem köteles bevallás benyújtására, és igazolja, hogy a Tbj. szerint külföldinek minősül vagy a szociális biztonsági rendszerek koordinálásáról szóló rendeletek hatálya alá tartozó másik tagállamban vagy az Európai Unió intézményeiben biztosított, akkor a kifizető által a levont adóról kiállított igazolás benyújtásával az állami adó- és vámhatóságnál adóvisszatérítési kérelmet terjeszthet elő. Az adókülönbözetet az állami adó- és vámhatóság a természetes személy által megjelölt fizetési számlára utalja át.
+
+(4) Ha a természetes személy az 1. § (5) bekezdés a)–d) pontjában foglaltak szerint adó fizetésére kötelezett, vagy a (3) bekezdés szerint visszaigénylési jogosultságát gyakorolja, az adóévről köteles személyi jövedelemadó bevallást benyújtani. Nem kell az adót a természetes személynek bevallania, ha a kifizető az adót levonta, és a természetes személy az Szja tv. alapján az adó alapjaként figyelembe vett jövedelmet nem köteles bevallani.
 
 30. § A külföldi pénznemben megszerzett jövedelem utáni adó megállapítására az Szja tv. külföldi pénznemről forintra történő átszámításra vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -470,13 +472,11 @@ esetén,
 
 31. § A tanulmányokat folytató tanuló, hallgató jogviszonyát
 
-- a) a köznevelési intézmény által kiállított tanulói jogviszony-igazolás,
-- b) a felsőoktatási intézmény által kiállított hallgatói jogviszony-igazolás,
-- c) az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott, nappali típusú diákigazolvány,
-- d) a közreműködő intézmény által kiadott, a c) pont szerinti diákigazolványra való jogosultságról szóló igazolás,
-- e) az oktatási igazolványokról szóló kormányrendelet szerint a tanköteles kor felső határát az adott tanévben betöltő tanuló esetén az érvényesítő matrica nélküli diákigazolvány
+- a) az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott, nappali típusú diákigazolvány,
+- b) a közreműködő intézmény által kiadott, az a) pont szerinti diákigazolványra való jogosultságról szóló igazolás,
+- c) az oktatási igazolványokról szóló kormányrendelet szerint a tanköteles kor felső határát az adott tanévben betöltő tanuló esetén az érvényesítő matrica nélküli diákigazolvány
 
-tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvány érvényességi idején belül, az e) pont szerinti esetben a tanévet követő október 31-éig.
+tanúsítja, az a) és b) pont szerinti esetben az igazolás vagy a diákigazolvány érvényességi idején belül, a c) pont szerinti esetben a tanévet követő október 31-éig.
 
 32. § A tanulói, hallgatói jogviszony szünetelésének időtartama alatt azt az időtartamot kell érteni, amíg a tanulói, hallgatói jogviszony szünetel, valamint a szünetelést közvetlenül követő 3 hónapot.
 

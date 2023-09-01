@@ -48,7 +48,13 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 10. § (1)
 
-(2)
+(2) Az Nkt. 27. alcíme a következő 46/A. §-sal egészül ki:
+
+„46/A. § (1) A tankötelezettség időtartama alatt, annak a tanévnek a végéig, amelyben a tanuló a tizenhatodik életévét betölti, a tanulói jogviszony igazolása – törvényben vagy kormányrendeletben meghatározott kivétellel – a szülőtől, a törvényes képviselőtől vagy a tanulótól nem kérhető.
+
+(2) Az (1) bekezdésben foglalt tanévet követő évtől a tanulói jogviszony – törvényben vagy kormányrendeletben meghatározott kivétellel – érvényes diákigazolvánnyal igazolható.
+
+(3) Ha az (1) vagy (2) bekezdésben foglalt időtartam alatt a tanulói jogviszony fennállása tekintetében a bíróság vagy közigazgatási hatóság eljárásában kétség merül fel, a bíróság vagy a hatóság megkeresheti a tanulói jogviszony igazolása céljából a hivatalt.”
 
 (3)
 
@@ -58,7 +64,11 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 9. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-#### 13. §
+13. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 24. alcíme a következő 43/A. §-sal egészül ki:
+
+„43/A. § (1) A hallgatói jogviszony – törvényben vagy kormányrendeletben meghatározott kivétellel – érvényes diákigazolvánnyal igazolható.
+
+(2) Ha a hallgatói jogviszony fennállása tekintetében a bíróság vagy közigazgatási hatóság eljárásában kétség merül fel, a bíróság vagy a hatóság megkeresheti a hallgatói jogviszony igazolása céljából az oktatási hivatalt.”
 
 #### 10. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2015. évi LXV. törvény hatályon kívül helyezése
 
@@ -78,7 +88,15 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 14. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-#### 18. §
+18. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 31. §-a helyébe a következő rendelkezés lép:
+
+„31. § A tanulmányokat folytató tanuló, hallgató jogviszonyát
+
+- a) az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott, nappali típusú diákigazolvány,
+- b) a közreműködő intézmény által kiadott, az a) pont szerinti diákigazolványra való jogosultságról szóló igazolás,
+- c) az oktatási igazolványokról szóló kormányrendelet szerint a tanköteles kor felső határát az adott tanévben betöltő tanuló esetén az érvényesítő matrica nélküli diákigazolvány
+
+tanúsítja, az a) és b) pont szerinti esetben az igazolás vagy a diákigazolvány érvényességi idején belül, a c) pont szerinti esetben a tanévet követő október 31-éig.”
 
 #### 15. Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvény hatályon kívül helyezése
 
@@ -86,7 +104,15 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 16. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-#### 20. §
+20. § A szakképzésről szóló 2019. évi LXXX. törvény 11. alcíme a következő 56/A. §-sal egészül ki:
+
+#### „56/A. § [A tanuló jogviszony igazolása]
+
+(1) A tankötelezettség időtartama alatt, annak a tanévnek a végéig, amelyben a tanuló a tizenhatodik életévét betölti, a tanulói jogviszony igazolása – törvényben vagy kormányrendeletben meghatározott kivétellel – a szülőtől, a törvényes képviselőtől, a tanulótól nem kérhető.
+
+(2) Az (1) bekezdésben foglalt tanévet követő évtől a tanulói jogviszony – törvényben vagy kormányrendeletben meghatározott kivétellel – érvényes diákigazolvánnyal igazolható.
+
+(3) Ha az (1) vagy (2) bekezdésben foglalt időtartam alatt a tanulói jogviszony fennállása tekintetében a bíróság vagy közigazgatási hatóság eljárásában kétség merül fel, a bíróság vagy a hatóság megkeresheti a tanulói jogviszony igazolása céljából a szakképzési államigazgatási szervet.”
 
 #### 17. A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény módosítása
 
@@ -96,7 +122,7 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 18. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-#### 23. §
+23. § Hatályát veszti a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 1. melléklet 1. pont a)–c) alpontja.
 
 #### 19. Záró rendelkezések
 

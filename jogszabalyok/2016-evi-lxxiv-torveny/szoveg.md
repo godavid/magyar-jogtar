@@ -168,7 +168,7 @@ szabályokat.
 
 (4) A településképi rendelet vagy a 2. § (2a), (2b), (2c) és (2e) bekezdés szerinti jogszabály legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
 
-11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 500 000 forinttól 3 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
+11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 650 000 forinttól 4 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
 
 (2)
 
@@ -232,7 +232,7 @@ szabályokat.
 
 (9) E § alkalmazásában reklámnak minősül a járművön elhelyezett gazdasági reklám is.
 
-(10) Az e § szerinti rendelkezések ismételt vagy többrendbeli megsértése esetén a hatóság jogellenesen elhelyezett plakátonként 150 000 forint közigazgatási bírságot szab ki a médiahirdetésifelület-értékesítővel és a reklámozóval szemben, kivéve, ha az eset összes körülményének mérlegelése alapján megállapítható, hogy a plakát elhelyezése nem a reklámozó vagy a médiahirdetésifelület-értékesítő közrehatására vezethető vissza.
+(10) Az e § szerinti rendelkezések ismételt vagy többrendbeli megsértése esetén a hatóság jogellenesen elhelyezett plakátonként 200 000 forint közigazgatási bírságot szab ki a médiahirdetésifelület-értékesítővel és a reklámozóval szemben, kivéve, ha az eset összes körülményének mérlegelése alapján megállapítható, hogy a plakát elhelyezése nem a reklámozó vagy a médiahirdetésifelület-értékesítő közrehatására vezethető vissza.
 
 #### 5. Záró és átmeneti rendelkezések
 

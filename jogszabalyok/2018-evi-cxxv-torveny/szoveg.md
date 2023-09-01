@@ -3401,18 +3401,6 @@ tárgyában.
 
 #### 169. § [A Közszolgálati Döntőbizottság határozatainak nyilvánossága]
 
-(1) A Közszolgálati Döntőbizottság a véglegessé vált határozatot (e § alkalmazásában a továbbiakban: határozat) a véglegesség megállapításától számított harminc napon belül a honlapján közzéteszi.
-
-(2) A közzétett határozatban szereplő személyek azonosítását lehetővé tevő adatokat – a (3) bekezdésben foglaltak kivételével – törölni kell, amely nem járhat a megállapított tényállás sérelmével. A közzétett határozatban szereplő egyes személyeket az eljárásban betöltött szerepüknek megfelelően kell megjelölni.
-
-(3) A közzétett határozatból nem kell törölni
-
-- a) a kormányzati igazgatási szerv nevét,
-- b) a képviselőként eljárt ügyvéd, kamarai jogtanácsos, a kormányzati igazgatási szerv vezetője, tisztviselője nevét,
-- c) a közérdekből nyilvános adatot.
-
-(4) A határozat szövegében a (2) és (3) bekezdésben meghatározottakon túl további szerkesztés nem végezhető.
-
 ### XXIII. Fejezet — AZ ÉRDEKEGYEZTETÉS
 
 #### 170. § [A kormánytisztviselői érdekegyeztetés]
@@ -4786,7 +4774,7 @@ illetménynek megfelelő összeg.
 
 (1) A kormányzati igazgatási szervnél foglalkoztatott munkavállalók munkaviszonyára az Mt.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, valamint a 95. § (5)–(7) bekezdését kell alkalmazni.
+(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, a 95. § (5)–(7) bekezdését, valamint a 104. § (1) bekezdés k)–m) pontját alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult.
 
 (3) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
 

@@ -1628,7 +1628,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (3) A kölcsönbe adott értékpapír tulajdonjoga átszáll a kölcsönbe vevőre.
 
-(4) Értékpapírkölcsön-szerződés kizárólag határozott időre köthető.
+(4) Értékpapírkölcsön-szerződés intézményi befektetőnek nem minősülő féllel kizárólag határozott időre köthető.
 
 169. § Ha a kölcsönbe vevő az értékpapír-kölcsönzésre vonatkozó szerződésben vállalt esedékességkor az értékpapírt visszaszolgáltatni nem tudja, akkor a kölcsönbe adó részére fizetendő pénzbeli kártérítés legkisebb összegeként a kölcsönbe adás, illetőleg az esedékesség napjának árfolyamai közül a magasabbat kell figyelembe venni.
 
@@ -1639,7 +1639,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 - a) a kölcsönbe adható, illetőleg a kölcsönbe adott értékpapír megnevezését, ISIN kódját, sorozatát;
 - b) a kölcsönbe adható, illetőleg a kölcsönbe adott értékpapír mennyiségét;
 - c) keretszerződés esetén azon időszak megjelölését, amely alatt az értékpapír kölcsönbe adható;
-- d) az értékpapírkölcsön futamidejét;
+- d) az értékpapírkölcsön futamidejét (határozott vagy határozatlan, előbbi esetben a lejáratot is megjelölve);
 - e) a kölcsönzési díjat;
 - f) arra vonatkozó figyelemfelhívást, hogy a kölcsön futamideje alatt az értékpapírban megtestesített és azzal kapcsolatos jogokat a kölcsönbe adó nem gyakorolhatja; és
 - g) részvény esetén a felek megállapodását a szavazati jog gyakorlására vonatkozóan.

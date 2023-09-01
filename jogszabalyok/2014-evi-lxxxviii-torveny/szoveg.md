@@ -3428,6 +3428,8 @@ igazolását.
 - j) a 238. § g) és h) pontjában meghatározott nyilatkozatokat;
 - k) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
+(3a) A részesedésszerzés vagy ellenőrző befolyás létrejötte engedélyezése iránti, (2) bekezdés szerinti kérelemhez a (3) bekezdés a), d), g) és i)–k) pontja szerinti feltételek igazolását kell mellékelni akkor, ha a nem természetes személy kérelmező a biztosítóval vagy viszontbiztosítóval egy csoportba tartozik.
+
 (4) A részesedésszerzés feltétele, hogy a kérelmező – közvetlen részesedésszerzés esetén – a részesedésszerzéshez szükséges tőke pénzbeli részét valamely tagállamban bejegyzett hitelintézetnél helyezze el.
 
 (5) Ha a kérelmező harmadik országbeli biztosító, viszontbiztosító, hitelintézet vagy befektetési vállalkozás, a (3)–(4) bekezdésekben foglaltakon kívül a kérelemhez mellékelni kell a székhely szerinti állam érintett felügyeleti hatóságának arra vonatkozó igazolását, illetve nyilatkozatát, hogy a vállalkozás a tevékenység végzésére vonatkozó szabályok betartásával működik.
@@ -3451,11 +3453,11 @@ akkor a Felügyelet kikéri a befektetési vállalkozás, a hitelintézet, a biz
 
 (2) A Felügyelet az engedélyezéshez szükséges feltételek igazolása vagy ellenőrzése céljából a kérelmező székhelye vagy lakóhelye szerinti érintett hatósághoz fordulhat.
 
-260. § (1) A Felügyelet a kérelem, az ahhoz mellékelt iratok átvételét legkésőbb két munkanapon belül írásban igazolja a kérelmező személy felé. A Felügyelet az igazolásban tájékoztatja a kérelmezőt az ügyintézési határidő lejártának időpontjáról.
+260. § (1) A Felügyelet a kérelem, illetve az ahhoz csatolandó dokumentumok átvételét minden esetben legkésőbb két munkanapon belül írásban igazolja a kérelmező személy felé. A Felügyelet az igazolásban tájékoztatja a kérelmezőt az ügyintézési határidőről.
 
-(2) A Felügyeletnek az (1) bekezdésben meghatározott átvételi igazolás kiállításának napjától számított legfeljebb ötven munkanap áll rendelkezésére a kérelemmel összefüggő és rendelkezésre álló okiratok és információk értékelésére (a továbbiakban: ügyintézési határidő), és a 258. § (1) bekezdésében előírt engedély megadására.
+(2) A hiánytalan kérelem és az ahhoz csatolandó valamennyi dokumentum benyújtását követően kibocsátott igazolás (a továbbiakban: teljességi igazolás) kiállításának napjától számított legfeljebb hatvan munkanap áll a Felügyelet rendelkezésére a kérelemmel összefüggő és rendelkezésre álló okiratok és információk értékelésére (a továbbiakban: ügyintézési határidő), és a 258. § (1) bekezdésében előírt engedély megadására. A Felügyelet a teljességi igazolásban tájékoztatja a kérelmezőt az ügyintézési határidő lejártának időpontjáról.
 
-(3) A Felügyelet a kérelem beérkezésének napjától számított negyvenöt munkanapon belül, a döntés meghozatalához szükséges információk pótlására hívhatja fel a kérelmezőt.
+(3) A Felügyelet a kérelem beérkezésének napjától számított ötven munkanapon belül, a döntés meghozatalához szükséges információk pótlására hívhatja fel a kérelmezőt.
 
 (4) A kérelmezőnek az információk pótlására húsz munkanap áll a rendelkezésére, az információk pótlásáig az ügyintézési határidő nyugszik. A (3) bekezdésben meghatározott információk pótlásának átvételét a Felügyelet legkésőbb két munkanapon belül írásban igazolja a kérelmező személy felé.
 

@@ -68,15 +68,95 @@ a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartás
 
 #### 25. §
 
-#### 9.
+#### 9. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
 
-#### 26. §
+26. § (1) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 6. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 27. §
+„(2) Fegyveres biztonsági őr az lehet, aki
 
-#### 28. §
+- a) magyar állampolgár vagy a szabad mozgás és tartózkodás jogával rendelkezik,
+- b) tizennyolcadik életévét betöltötte,
+- c) fegyver viselésére való egészségi és pszichológiai alkalmasságát az e törvényben foglaltak szerint igazolja, és
+- d) rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel.”
 
-#### 29. §
+(2) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 6. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
+
+(2b) A (2) bekezdés szerinti alkalmassági követelményt az e törvény végrehajtására kiadott rendeletben foglaltak szerint, rendszeres időközönként ellenőrizni kell.”
+
+(3) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A jogviszony létesítésekor a (2) bekezdés szerinti alkalmassági feltételeket – az (5b) bekezdés szerinti kivétellel – az érintett igazolja.”
+
+(4) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 6. §-a a következő (5a)–(5e) bekezdéssel egészül ki:
+
+„(5a) A (2) bekezdés c) pontja szerinti alkalmassági feltétel igazolásához szükséges vizsgálatok elvégzését a jogviszony létesítését megelőzően a fegyveres biztonsági őr munkáltatója kezdeményezi.
+
+(5b) Ha e törvény lehetővé teszi,
+
+- a) a (2) bekezdés c) pontja szerinti alkalmassági feltétel a fegyveres biztonsági őrséget működtető szervezet vonatkozásában meghatározott egészségi és pszichikai alkalmassági követelményeknek való megfeleléssel,
+- b) a (2) bekezdés d) pontja szerinti alkalmassági feltétel a fegyveres biztonsági őrséget működtető szervezet által lebonyolított belső képzés keretében tett eredményes vizsgával
+
+is igazolható.
+
+(5c) Az (5b) bekezdés b) pontja szerinti belső képzésre csak a fegyver viselésére való egészségi és pszichológiai alkalmasság igazolását követően kerülhet sor.
+
+(5d) A jogviszony létesítését megelőzően az érintett köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenységtől vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt.
+
+(5e) A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.”
+
+27. § (1) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A fegyveres biztonsági őrrel akkor létesíthető jogviszony, ha)
+
+„b) rendelkezik a miniszteri rendeletben előírt képesítéssel vagy a 6. § (5b) bekezdés b) pontja szerinti vizsgával, valamint”
+
+(2) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. §-a a következő (1b) és (1c) bekezdéssel egészül ki:
+
+„(1b) A rendészetért felelős miniszter által irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben, a büntetés-végrehajtásért felelős miniszter által irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben, valamint a katasztrófák elleni védekezésért felelős miniszter által irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben (a továbbiakban együtt: rendvédelmi szervnél működő fegyveres biztonsági őrség) fegyveres biztonsági őr jogviszony azzal létesíthető, aki megfelel
+
+- a) a 6. § (2) bekezdés a) és b) pontjában meghatározott feltételeknek,
+- b) az e törvény felhatalmazásán alapuló miniszteri rendeletben meghatározott egészségi és pszichikai alkalmassági követelményeknek, és
+- c) a 6. § (2) bekezdés d) pontjában meghatározott feltételnek, vagy a 6. § (5b) bekezdés b) pontja szerinti belső képzés keretében eredményes vizsgát tett.
+
+(1c) Az egészségi és pszichikai alkalmassági követelményeknek való megfelelés megállapítása céljából
+
+- a) az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi és pszichológiai dokumentációját az egészségi és pszichikai alkalmasságot vizsgáló szerv,
+- b) az alkalmasság minősítésére vonatkozó adatot a fegyveres biztonsági őrséget működtető rendvédelmi szerv
+
+kezeli.”
+
+(3) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. §-a a következő (2a)–(2d) bekezdéssel egészül ki:
+
+„(2a) A rendvédelmi szervnél működő fegyveres biztonsági őrségben foglalkoztatott fegyveres biztonsági őr (1b) bekezdés b) pontja szerinti egészségi és pszichikai alkalmasságát az e törvény felhatalmazásán alapuló miniszteri rendeletben meghatározott módon kell ellenőrizni.
+
+(2b) Az (1b) bekezdés b) pontja szerinti egészségi és pszichikai alkalmassági követelményeknek meg nem felelő személy a rendvédelmi szervnél működő fegyveres biztonsági őrségben fegyveres biztonsági őri szolgálatot nem láthat el.
+
+(2c) A (2b) bekezdés szerinti körbe tartozó személy egészségi és pszichikai alkalmasságának visszaállítását célzó – az e törvény felhatalmazásán alapuló jogszabályban meghatározott – intézkedésekről a fegyveres biztonsági őrséget működtető rendvédelmi szerv gondoskodik.
+
+(2d) A (2a) bekezdés szerinti ellenőrzés lefolytatása vagy a (2c) bekezdés szerinti, az egészségi és pszichikai alkalmasság visszaállítását célzó fejlesztést szolgáló intézkedések megtétele céljából
+
+- a) az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi és pszichológiai dokumentációját az egészségi és pszichikai alkalmasságot vizsgáló szerv,
+- b) az alkalmasság minősítésére, és a javasolt fejlesztési intézkedésekre vonatkozó adatot a fegyveres biztonsági őrséget működtető rendvédelmi szerv
+
+kezeli.”
+
+(4) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. § (4) bekezdés a) pont ab) alpontja helyébe a következő rendelkezés lép:
+
+(A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenötödik napon a hatósági szolgálati igazolványt határozattal
+
+visszavonja, ha)
+
+  - „ab) a hatósági szolgálati igazolvány kiadásának feltételei – a (2b) bekezdés szerinti eset kivételével, amíg az egészségi és pszichikai alkalmasságának visszaállítására tett intézkedésnek helye van – megszűntek,”
+
+28. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 30. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
+
+„(5a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben rendeletben meghatározza a 6. § (2) bekezdés c) pontjában előírt, a fegyver viselésére való alkalmasság feltételeit és a fegyver viselésére való alkalmasság vizsgálatának és ellenőrzésének szabályait.
+
+(5b) Felhatalmazást kap a rendészetért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben meghatározza az általa irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben foglalkoztatott fegyveres biztonsági őr, illetve az e munkakörbe jelentkező személy egészségi és pszichikai alkalmasságának követelményeit, az egészségi és pszichikai alkalmasság vizsgálatát végző szervezetet, az egészségi és pszichikai alkalmasság vizsgálatának és ellenőrzésének fajtáit és eljárási szabályait, az egészségi és pszichikai alkalmasság visszaállítását célzó intézkedések rendjét, valamint az egészségi és pszichikai alkalmassági követelményeknek való meg nem felelés esetén követendő eljárás szabályait.”
+
+29. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. § (2) bekezdésében az „A fegyveres” szövegrész helyébe az „A (2a) bekezdés hatálya alá tartozó személyek egészségi és pszichikai alkalmasságát ide nem értve, a fegyveres” szöveg lép.
 
 #### 10.
 

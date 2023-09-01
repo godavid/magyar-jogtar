@@ -449,7 +449,7 @@ az egyes fizetési szolgáltatókról
 
 29. § (1) A Felügyelet előzetes engedélyével választható meg vagy nevezhető ki a pénzforgalmi intézménynél, az elektronikuspénz-kibocsátó intézménynél a vezető állású személy.
 
-(2)
+(2) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény vezető állású személyei felelősek azért, hogy a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az engedélyezett tevékenységeket az e törvény, továbbá a prudens működésre vonatkozó jogszabályok előírásainak megfelelően végezze. A vezető állású személy és a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátás szolgáltatási üzletág alkalmazottja mindenkor a beosztásával járó fokozott szakmai követelményeknek megfelelően, elvárható gondossággal és szakértelemmel, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az ügyfelek érdekeinek figyelembevételével, a jogszabályok szerint jár el.
 
 (3) Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 

@@ -52,13 +52,53 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 20. §
 
-21. § (1)
+21. § (1) A Vtv. 74. § (1)–(4) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (4a) bekezdéssel egészül ki:
+
+„(1) A vadászati hatóság annak a vadnak a trófeabírálatát folytatja le, amely egyedi azonosítójelének számát a róka, az aranysakál és a borz kivételével, a vadászatra jogosult által vezetett teríték-nyilvántartásba bevezették.
+
+(2) A vadászati hatóság a vadászatra jogosult részére – a (4) bekezdésben meghatározott eset kivételével – a trófeabírálatról hatósági bizonyítványt állít ki, amely tartalmazza
+
+- a) az elejtő nevét,
+- b) az elejtő vadászjegyének vagy vadászati engedélyének számát,
+- c) az elejtés helye szerinti vadászterület nevét és kódszámát,
+- d) a vadászati hatóság megnevezését, bélyegzőlenyomatát,
+- e) a jogorvoslattal kapcsolatos tájékoztatást,
+- f) a felmerült eljárási költségekkel kapcsolatos megállapítást,
+- g) a hatásköri, illetékességi szabályokat,
+- h) a kiállítás helyét és időpontját,
+- i) a hatáskör gyakorlójának nevét, hivatali beosztását, valamint a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával,
+- j) a kiadmányozásra jogosult aláírását, valamint
+- k) az e törvény végrehajtására kiadott rendeletben meghatározott adatokat.
+
+(3) A vadászatra jogosult csak a hatósági bizonyítvány birtokában szerzi meg a trófea – ideértve az elhullott vad trófeáját is – feletti rendelkezési jogot. A 73. § (1) bekezdésében felsorolt trófea csak a (2) bekezdésben, valamint a 74/B. § (4) bekezdés a) pontjában meghatározott esetben kiállított hatósági bizonyítvány birtokában hozható forgalomba, valamint vihető ki az ország területéről.
+
+(4) Ha a vadászati hatóság a trófeabírálat során megállapítja, hogy a trófea az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt eléri, akkor a trófea trófeabírálaton történt bemutatásáról igazolást állít ki azzal, hogy a trófeát az Országos Trófeabíráló Testületnek felülbírálatra be kell mutatni.
+
+(4a) A trófeabírálat alkalmával a gímszarvas, a dámszarvas, a szikaszarvas, az őz, valamint a muflon trófeát vagy a koponyát maradandó módon meg kell jelölni.”
 
 (2)
 
 #### 22. §
 
-#### 23. §
+23. § (1) A Vtv. 74/B. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az Országos Trófeabíráló Testület a (2) bekezdés c) pontja alapján meghatározott feladatkörében a Nemzetközi Vadászati és Vadvédelmi Tanács (C.I.C.) bírálati képleteinek figyelembevételével egységes trófeabírálati útmutatót állít össze, amelyet a vadgazdálkodásért felelős miniszter az általa vezetett minisztérium honlapján közzétesz. A trófeabírálatot az egységes trófeabírálati útmutató alapján kell lefolytatni.”
+
+(2) A Vtv. 74/B. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A miniszter az Országos Trófeabíráló Testület szakmai javaslata alapján)
+
+„a) a 74. § (2) bekezdésében meghatározott adatok figyelembevételével hatósági bizonyítványt állít ki az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt elérő trófeák felülbírálati eredményéről,”
+
+(3) A Vtv. 74/B. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a (2) bekezdés a) pontja szerinti felülbírálat alkalmával szakszerűtlen elejtés kerül megállapításra, akkor a vadászati hatóság a 74/B. § (4) bekezdés a) pontja szerinti hatósági bizonyítvány alapján hivatalból dönt az elejtés szakszerűtlenségéről.”
+
+(4) A Vtv. 74/B. § (6) bekezdése helyébe a következő rendelkezés lép, és a § a következő (7) bekezdéssel egészül ki:
+
+„(6) A trófeabírálati eljárásban hozott elsőfokú döntés ellen a vadászati hatóság útján a miniszterhez benyújtandó fellebbezésnek van helye. Az eljárásban a vadászatra jogosult és a trófeás vadat elejtő vadász ügyfélnek minősül. A fellebbezés benyújtásakor az e törvény végrehajtására kiadott rendeletben megállapított összegű igazgatási szolgáltatási díjat kell fizetni.
+
+(7) A (4) bekezdés a) pontja szerinti hatósági bizonyítvány kiállításáról hozott döntés, valamint a 74. § (4) bekezdése szerinti igazolás kiállításáról szóló döntés ellen nincs helye fellebbezésnek.”
 
 #### 24. §
 
@@ -461,7 +501,43 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 193. §
 
-#### 194. §
+194. § A Foktftv. a következő 16. alcímmel egészül ki:
+
+#### „16. A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésére irányuló, a kormányhivatal, mint segítő közreműködésével zajló eljárás különös szabályai
+
+51. § (1) A részarány-tulajdonnak megfelelő föld kiadása, illetve a részarány-földtulajdon helyének meghatározására irányuló eljárás eredményeként kialakított földrészleten fennálló közös tulajdon megszüntetésére irányuló, a kormányhivatal, mint segítő közreműködésével lefolytatott eljárásra ezen alcím rendelkezéseit kell alkalmazni.
+
+(2) Ezen alcím rendelkezéseit olyan földrészleteket érintően kell alkalmazni, amelyek esetében
+
+- a) a földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait megillető tulajdoni hányadokat az ingatlan-nyilvántartásba végleges hatósági döntéssel bejegyezték,
+- b) valamely tulajdonostárs 2012. június 1. napjáig az ingatlanügyi hatóságnál kezdeményezte az ingatlan megosztását annak érdekében, hogy saját tulajdoni hányadát önálló ingatlanként kaphassa meg (jelen alcím vonatkozásában a továbbiakban: kérelmező tulajdonostárs), és
+- c) a 15. alcím szerinti eljárásban még nem került sor az első egyezségi tárgyalásra szóló meghívók kiküldésére.
+
+(3) Ezen alcím rendelkezései nem alkalmazhatók a halastó művelési ágú ingatlanokra, valamint az erdő művelési ágú ingatlanokra, ide nem értve a külterületen található – az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 12. § (1) bekezdése szerinti – fásítást.
+
+52. § Az ezen alcím szerinti megosztások költségeit – a kitűzés és a helyszíni bemutatás költségei kivételével – az állam viseli.
+
+53. § (1) Egy adott földrészleten belül az önálló földrészletek kialakítását – az egyezség vagy a sorsolás alapján – minden kérelmező tulajdonostárs vonatkozásában el kell végezni.
+
+(2) A megosztási folyamat megkezdéséről az ingatlanügyi hatóságnak írásban kell értesítenie valamennyi, az ingatlanban tulajdoni hányaddal rendelkező tulajdonostársat.
+
+(3) Ha a kérelmező tulajdonostárs vagy jogutódja nem kívánja az eljárás ezen alcím szerinti lefolytatását, a kérelmét az ingatlanügyi hatósághoz intézett írásbeli nyilatkozatával, az értesítés kézhezvételét követő 15 napon belül visszavonhatja.
+
+(4) Az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint az ingatlanügyi hatóság, mint segítő közreműködő elvégzi a megosztás földmérési és sorsolással kapcsolatos feladatait. Egyezség esetén a kormányhivatal jogtanácsosa készíti, illetve jegyzi ellen a jogváltozás bejegyzésének alapjául szolgáló egyezségi okiratot.
+
+(5) A kérelmező tulajdonostársak közötti egyezség érvényességéhez az egyezség megkötésekor jelenlévő kérelmező tulajdonostársak tulajdoni hányad szerint számított egyszerű többségének döntése szükséges.
+
+(6) A kérelmező tulajdonostársak közötti egyezség hiányában az adott földrészlet vonatkozásában a kiosztás sorrendjét sorsolással kell megállapítani. Az egyezségnek vagy a kisorsolt sorrendnek megfelelően a tulajdonostársakat tulajdoni hányaduknak megfelelően a földrészlet meghatározott részéhez kell rendelni. Teljes körű egyezség esetén a kiosztás sorrendjét és a teljes körű egyezségben foglaltak szerinti területeket kell a tulajdonosokhoz rendelni.
+
+(7) A sorsolást és a megosztást a 46. § (2)–(8) és (11) bekezdésében foglaltak szerint kell elvégezni.
+
+(8) Azok a tulajdonostársak, akik önálló földrészlet kialakítását nem kérték – ha teljes körű egyezség megkötésére nem kerül sor –, a visszamaradó földrészleten tulajdonközösségben maradnak.
+
+54. § Ezen alcím szerinti eljárás nem minősül telekalakítási eljárásnak.
+
+55. § Az ingatlanügyi hatóság nem hoz határozatot a megosztás kiindulási helyéről és irányáról, de azokat a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra figyelemmel kell megállapítani.
+
+56. § Ha a közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) alatt – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben meghatározott – használati megosztásról szóló megállapodás a tulajdonostársak között fennáll, e megállapodást a megosztási eljárásban úgy kell tekinteni, mintha a tulajdonostársak a kiosztási sorrend egymás közötti meghatározására teljes körű egyezséget kötöttek volna. Ez esetben a megosztási eljárás során a megosztás kiindulási helyének és az osztás irányának a használati megosztásról szóló megállapodásban foglaltakat kell tekinteni.”
 
 #### 195. §
 

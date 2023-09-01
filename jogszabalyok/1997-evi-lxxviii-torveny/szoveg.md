@@ -893,7 +893,7 @@ eljárásokat folytat, és jogszabályban meghatározott esetben és módon ép�
 
 (3) Aki energetikai tanúsítói tevékenységet kíván folytatni, köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 20 000 forintig terjedő közigazgatási bírsággal sújtja.
+(4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 50 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (5) A Budapesti és Pest Megyei Mérnöki Kamara független ellenőrzési rendszert működtet az energetikai tanúsítványok tekintetében. Ennek keretében jogszabályban meghatározott tartalmú ellenőrzés céljából évente véletlenszerűen kiválasztja a Nyilvántartásban rendelkezésre álló összes energetikai tanúsítványnak kormányrendeletben meghatározott statisztikailag jelentős hányadát, és az ellenőrzések alapján a hatáskörrel rendelkező szervnél kezdeményezi a jogszabályban meghatározott hatósági intézkedéseket.
 

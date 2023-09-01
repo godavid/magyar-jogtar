@@ -24,7 +24,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (5) A vármegyei önkormányzat képviselőtestülete a bevezetendő helyi adóról szóló rendeletének tervezetét – legalább 15 napos határidővel – véleményezésre megküldi a különleges gazdasági övezet fekvése szerinti és a különleges gazdasági övezetről szóló kormányrendelet szerint a beruházással közvetlenebbül érintett települési önkormányzatnak minősülő önkormányzatoknak, továbbá a Kormány részére.
 
-1/A. § (1) A települési önkormányzat az illetékességi területén rendelettel olyan települési adót, települési adókat vezethet be, amelyet vagy amelyeket más törvény nem tilt. A települési önkormányzat települési adót bármely adótárgyra megállapíthat, feltéve, hogy arra nem terjed ki törvényben szabályozott közteher hatálya. A települési adónak nem lehet alanya állam, önkormányzat, szervezet, továbbá – e minőségére tekintettel – vállalkozó [52. § 26. pont].
+1/A. § (1) A települési önkormányzat az illetékességi területén rendelettel olyan települési adót, települési adókat vezethet be, amelyet vagy amelyeket törvény nem tilt. A települési önkormányzat települési adót – a termőföld, a termőföld tulajdonjoga, a termőföldre ingatlan-nyilvántartásba bejegyzett vagyoni értékű jog kivételével – bármely adótárgyra megállapíthat, feltéve, hogy arra nem terjed ki törvényben szabályozott közteher hatálya. A települési adónak nem lehet alanya állam, önkormányzat, szervezet, továbbá – e minőségére tekintettel – vállalkozó [52. § 26. pont].
 
 (2) Az e § alapján megállapított települési adóra kizárólag az 1. § (1) bekezdését, a 42/B. §-t és a 43. § (3) bekezdését kell alkalmazni.
 
@@ -867,7 +867,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 
 (2) A 2011-ben kezdődő adóévben nem állapítható meg mulasztási bírság annak a vezetékes távközlési tevékenységet végző vállalkozónak, amelyik a helyi iparűzési adó bejelentkezési kötelezettségét a bejelentkezésre nyitva álló határidő utolsó napját követő 45. napig teljesíti.
 
-#### 49. §
+49. § A települési önkormányzat 2023. szeptember 2-ig megteszi a szükséges intézkedéseket, ha a helyi adókról szóló 1990. évi C. törvény módosításáról szóló 2023. évi LVIII. törvény hatálybalépésekor hatályos települési adóról szóló rendelete nem felel meg az 1/A. § (1) bekezdése 2023. szeptember 1-jétől hatályos rendelkezésének.
 
 #### 50. §
 

@@ -106,7 +106,16 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 
 (1a) A szolgálati igazolvány kiállításáig a fegyveres biztonsági őr e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által rendszeresített és a szolgálati igazolvány kiállításának kezdeményezését alátámasztó, a rendőrség által hitelesített igénylőlap igazolja.
 
-(2) Fegyveres biztonsági őr az a magyar állampolgár, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki tizennyolcadik életévét betöltötte, fegyver viselésére alkalmas, és rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel. A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
+(2) Fegyveres biztonsági őr az lehet, aki
+
+- a) magyar állampolgár vagy a szabad mozgás és tartózkodás jogával rendelkezik,
+- b) tizennyolcadik életévét betöltötte,
+- c) fegyver viselésére való egészségi és pszichológiai alkalmasságát az e törvényben foglaltak szerint igazolja, és
+- d) rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel.
+
+(2a) A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
+
+(2b) A (2) bekezdés szerinti alkalmassági követelményt az e törvény végrehajtására kiadott rendeletben foglaltak szerint, rendszeres időközönként ellenőrizni kell.
 
 (3) Nem lehet fegyveres biztonsági őr,
 
@@ -129,7 +138,22 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 
 (4a) A (4) bekezdés szerinti időtartam leteltét követően sem lehet nukleáris és más radioaktív anyag, valamint nukleáris létesítmény őrzését, őrségének irányítását ellátó fegyveres biztonsági őr az, akit a (4) bekezdésben meghatározottak szerint elítéltek.
 
-(5) A jogviszony létesítésekor az alkalmassági feltételeket az érintett igazolja. Ennek során köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenység vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt. A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
+(5) A jogviszony létesítésekor a (2) bekezdés szerinti alkalmassági feltételeket – az (5b) bekezdés szerinti kivétellel – az érintett igazolja.
+
+(5a) A (2) bekezdés c) pontja szerinti alkalmassági feltétel igazolásához szükséges vizsgálatok elvégzését a jogviszony létesítését megelőzően a fegyveres biztonsági őr munkáltatója kezdeményezi.
+
+(5b) Ha e törvény lehetővé teszi,
+
+- a) a (2) bekezdés c) pontja szerinti alkalmassági feltétel a fegyveres biztonsági őrséget működtető szervezet vonatkozásában meghatározott egészségi és pszichikai alkalmassági követelményeknek való megfeleléssel,
+- b) a (2) bekezdés d) pontja szerinti alkalmassági feltétel a fegyveres biztonsági őrséget működtető szervezet által lebonyolított belső képzés keretében tett eredményes vizsgával
+
+is igazolható.
+
+(5c) Az (5b) bekezdés b) pontja szerinti belső képzésre csak a fegyver viselésére való egészségi és pszichológiai alkalmasság igazolását követően kerülhet sor.
+
+(5d) A jogviszony létesítését megelőzően az érintett köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenységtől vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt.
+
+(5e) A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
 
 (6) Az ellenőrzés során a közbiztonsági feltételek biztosítása céljából a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel a (3)–(5) bekezdésben meghatározott feltételekre vonatkozó adatokat átvenni és kezelni.
 
@@ -145,7 +169,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 7. § (1) A fegyveres biztonsági őrrel akkor létesíthető jogviszony, ha
 
 - a) megfelel az e törvényben meghatározott feltételeknek, és
-- b) rendelkezik a miniszteri rendeletben előírt képesítéssel, valamint
+- b) rendelkezik a miniszteri rendeletben előírt képesítéssel vagy a 6. § (5b) bekezdés b) pontja szerinti vizsgával, valamint
 - c) a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
 
 (1a) A honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségben – a Katonai Nemzetbiztonsági Szolgálat létesítményei vonatkozásában létrehozott fegyveres biztonsági őrség kivételével – fegyveres biztonsági őr jogviszony létesíthető azzal is, aki
@@ -156,7 +180,33 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 - d) a Magyar Honvédséggel önkéntes tartalékos katonai szolgálati viszony létrehozására irányuló szerződést köt, és
 - e) a Magyar Honvédség állománytáblájában az adott beosztáshoz előírt rendfokozathoz tartozó iskolai végzettséggel rendelkezik.
 
-(2) A fegyveres biztonsági őr elméleti és gyakorlati felkészültségét, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében, jogszabályban meghatározott – fizikai állóképességét kétévente, a rendőrség képviselőiből, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottságnak ellenőrizni kell.
+(1b) A rendészetért felelős miniszter által irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben, a büntetés-végrehajtásért felelős miniszter által irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben, valamint a katasztrófák elleni védekezésért felelős miniszter által irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben (a továbbiakban együtt: rendvédelmi szervnél működő fegyveres biztonsági őrség) fegyveres biztonsági őr jogviszony azzal létesíthető, aki megfelel
+
+- a) a 6. § (2) bekezdés a) és b) pontjában meghatározott feltételeknek,
+- b) az e törvény felhatalmazásán alapuló miniszteri rendeletben meghatározott egészségi és pszichikai alkalmassági követelményeknek, és
+- c) a 6. § (2) bekezdés d) pontjában meghatározott feltételnek, vagy a 6. § (5b) bekezdés b) pontja szerinti belső képzés keretében eredményes vizsgát tett.
+
+(1c) Az egészségi és pszichikai alkalmassági követelményeknek való megfelelés megállapítása céljából
+
+- a) az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi és pszichológiai dokumentációját az egészségi és pszichikai alkalmasságot vizsgáló szerv,
+- b) az alkalmasság minősítésére vonatkozó adatot a fegyveres biztonsági őrséget működtető rendvédelmi szerv
+
+kezeli.
+
+(2) A (2a) bekezdés hatálya alá tartozó személyek egészségi és pszichikai alkalmasságát ide nem értve, a fegyveres biztonsági őr elméleti és gyakorlati felkészültségét, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében, jogszabályban meghatározott – fizikai állóképességét kétévente, a rendőrség képviselőiből, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottságnak ellenőrizni kell.
+
+(2a) A rendvédelmi szervnél működő fegyveres biztonsági őrségben foglalkoztatott fegyveres biztonsági őr (1b) bekezdés b) pontja szerinti egészségi és pszichikai alkalmasságát az e törvény felhatalmazásán alapuló miniszteri rendeletben meghatározott módon kell ellenőrizni.
+
+(2b) Az (1b) bekezdés b) pontja szerinti egészségi és pszichikai alkalmassági követelményeknek meg nem felelő személy a rendvédelmi szervnél működő fegyveres biztonsági őrségben fegyveres biztonsági őri szolgálatot nem láthat el.
+
+(2c) A (2b) bekezdés szerinti körbe tartozó személy egészségi és pszichikai alkalmasságának visszaállítását célzó – az e törvény felhatalmazásán alapuló jogszabályban meghatározott – intézkedésekről a fegyveres biztonsági őrséget működtető rendvédelmi szerv gondoskodik.
+
+(2d) A (2a) bekezdés szerinti ellenőrzés lefolytatása vagy a (2c) bekezdés szerinti, az egészségi és pszichikai alkalmasság visszaállítását célzó fejlesztést szolgáló intézkedések megtétele céljából
+
+- a) az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi és pszichológiai dokumentációját az egészségi és pszichikai alkalmasságot vizsgáló szerv,
+- b) az alkalmasság minősítésére, és a javasolt fejlesztési intézkedésekre vonatkozó adatot a fegyveres biztonsági őrséget működtető rendvédelmi szerv
+
+kezeli.
 
 (3) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
 
@@ -164,7 +214,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 
 - a) visszavonja, ha
   - aa) a fegyveres biztonsági őr foglalkoztatási jogviszonya megszűnt,
-  - ab) a hatósági szolgálati igazolvány kiadásának feltételei megszűntek,
+  - ab) a hatósági szolgálati igazolvány kiadásának feltételei – a (2b) bekezdés szerinti eset kivételével, amíg az egészségi és pszichikai alkalmasságának visszaállítására tett intézkedésnek helye van – megszűntek,
   - ac) a fegyveres biztonsági őr a továbbképzési kötelezettségének nem tesz eleget, valamint a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őr nem teljesíti a fizikai állóképességi követelményeket, vagy
   - ad) a hatósági szolgálati igazolványban szereplő adatok megváltoztak;
 - b) bevonja, ha a fegyveres biztonsági őrt a szolgálatellátás alól ideiglenesen felfüggesztették.
@@ -563,6 +613,10 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 (4a) Felhatalmazást kap a Kormány, hogy az e törvény szerinti közigazgatási hatósági eljárások vonatkozásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő közigazgatási hatósági eljárási szabályokat rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendeletben meghatározza a fegyveres biztonsági őrség működési és szolgálati szabályzatát, ennek keretében különösen a fegyveres biztonsági őrség keretében végzett szolgálat irányítási, szervezési, tervezési és ellenőrzési szabályait, a szolgálat ellátásához kapcsolódó képesítési feltételeket, a képzési és a továbbképzési renddel összefüggő szabályokat, a 7. §-ban előírt vizsga követelményeit és a vizsgáztatás rendjét, a szolgálatellátási renddel összefüggő szabályokat, a kényszerítő eszközök – különös tekintettel a lőfegyverre – alkalmazásával kapcsolatos részletes szabályokat.
+
+(5a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben rendeletben meghatározza a 6. § (2) bekezdés c) pontjában előírt, a fegyver viselésére való alkalmasság feltételeit és a fegyver viselésére való alkalmasság vizsgálatának és ellenőrzésének szabályait.
+
+(5b) Felhatalmazást kap a rendészetért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben meghatározza az általa irányított rendvédelmi szervnél működő fegyveres biztonsági őrségben foglalkoztatott fegyveres biztonsági őr, illetve az e munkakörbe jelentkező személy egészségi és pszichikai alkalmasságának követelményeit, az egészségi és pszichikai alkalmasság vizsgálatát végző szervezetet, az egészségi és pszichikai alkalmasság vizsgálatának és ellenőrzésének fajtáit és eljárási szabályait, az egészségi és pszichikai alkalmasság visszaállítását célzó intézkedések rendjét, valamint az egészségi és pszichikai alkalmassági követelményeknek való meg nem felelés esetén követendő eljárás szabályait.
 
 (6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a rendészetért felelős miniszterrel – a közúton a jármű megállításával és ellenőrzésével kapcsolatban a közlekedésért felelős miniszterrel – egyetértésben a mezőőr és a hegyőr képzési és vizsgáztatási rendjének, nyilvántartása vezetésének, működésének, szolgálati viszonyának, valamint szakmai felügyeletének szabályait rendeletben állapítsa meg.
 

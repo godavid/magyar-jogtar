@@ -481,6 +481,12 @@ alapján kerülhet sor.
 
 (3) Az (1) és (2) bekezdés rendelkezéseit megfelelően alkalmazni kell az önálló zálogjog átruházása esetén, illetve azokban az esetekben is, ha a jelzálogjog szerződésátruházás, illetve állományátruházás folytán száll át más jogosultra.
 
+32/B. § Alzálogjog alapításának ingatlan-nyilvántartási bejegyzése esetén a bejegyzés alapjául szolgáló okirat az elzálogosított követelést biztosító zálogjog jogosultjának egyoldalú nyilatkozata, továbbá a bejegyzési engedélynek minősülő, az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány, ha az az érdekeltek megállapodása kivételével rendelkezik azokkal az alaki és tartalmi kellékekkel, amelyeket e törvény a bejegyzés alapjául szolgáló okiratokra vonatkozóan előír.
+
+32/C. § (1) Ha az alzálogjogosult az elzálogosított követelést biztosító zálogjog jogosultjának helyébe lép, az alzálogjogosultnak a helyébe lépés tényét, az ingatlan helyrajzi számát, az érintett jogok, tények megjelölését, valamint a jelzálog jogosultjának hozzájáruló nyilatkozatát tartalmazó okirattal kell kérnie az ingatlanügyi hatóságtól az érintett jogok módosítását.
+
+(2) Az ingatlanügyi hatóság a kérelem alapján az elzálogosított követelést biztosító zálogjog bejegyzését módosítva az alzálogjog jogosultját tünteti fel jogosultként – az alzálogjog bejegyzésének egyidejű törlésével – az ingatlan-nyilvántartásban.
+
 33. § (1)
 
 (2) Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, illetve látta el kézjegyével, csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani. Ha a felet a közjegyzői okirat elkészítésénél meghatalmazott képviseli, az ingatlan-nyilvántartási eljárásban azt a magánokiratban foglalt meghatalmazást is el kell fogadni, amelyben a fél aláírását közjegyző vagy magyar külképviseleti szerv hitelesítette.

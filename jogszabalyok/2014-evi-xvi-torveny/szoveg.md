@@ -1246,7 +1246,7 @@ tekintetében.
 
 (9) A kockázati tőkealap-kezelő a kockázati, illetve magántőkealap futamidejét – amennyiben azt a kezelési szabályzat lehetővé teszi – meghosszabbíthatja, legfeljebb az eredeti futamidőt nem meghaladó időtartammal.
 
-(9a) A kockázati tőkealap és a magántőkealap pénzkölcsönt nyújthat olyan vállalkozás részére, amelyben részesedéssel rendelkezik. A pénzkölcsön időtartama nem haladhatja meg a kockázati tőkealap, illetve a magántőkealap futamidejéből a kölcsönnyújtás időpontjában hátralévő időtartamot.
+(9a) A kockázati tőkealap és a magántőkealap pénzkölcsönt nyújthat azzal, hogy a pénzkölcsön időtartama nem haladhatja meg a kockázati tőkealap, illetve a magántőkealap futamidejéből a kölcsönnyújtás időpontjában hátralévő teljes időtartamot.
 
 (10) Az értékpapíralapok és az ingatlanalapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
 

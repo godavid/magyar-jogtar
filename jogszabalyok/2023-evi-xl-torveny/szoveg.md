@@ -10,7 +10,9 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 3. §
 
-4. § (1)
+4. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 20. § (4a) bekezdése helyébe a következő rendelkezés lép:
+
+„(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m), p) vagy q) pontjában, vagy a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) és q) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja a (4) bekezdés szerinti közigazgatási bírság összegével megegyező összegben közigazgatási bírságként helyszíni bírságot szabhat ki.”
 
 (2)
 
@@ -24,9 +26,18 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 9. §
 
-10. § (1)
+10. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 33/B. §-a a következő (3a) bekezdéssel egészül ki:
 
-(2)
+„(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő két évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.”
+
+(2) A közúti közlekedésről szóló 1988. évi I. törvény 33/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A használati díj beszedésére jogosult szervezetek a használati díj megfizetésének elmulasztása esetén a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet szerinti pótdíj behajtása céljából, továbbá a (8) bekezdésben meghatározott szervezetek a díjfizetés ellenőrzése és a hatáskörükbe tartozó pótdíjkövetelés, vagy a pótdíjkülönbözetre vonatkozó követelés behajtására irányuló eljárás megindítása céljából az adat rögzítésétől a követelés elévülésének vagy az (5) bekezdésben meghatározott jogvesztő határidő eredménytelen elteltének időpontjáig jogosultak kezelni
+
+- a) a (3a) bekezdésben meghatározott adatokat,
+- b) a gépjárműről és annak hatósági jelzéséről készített képfelvételt,
+- c) a természetes személy üzembentartó nevét, lakóhelyét, anyja nevét, születési helyét és idejét, valamint
+- d) a jogi személy üzembentartó nevét, székhelyét, cégjegyzékszámát vagy az azt bejegyző hatóság által kiadott más azonosítóját.”
 
 (3)
 
@@ -38,7 +49,15 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 11. §
 
-12. § (1)
+12. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pontja a következő 57. alponttal egészül ki:
+
+(Felhatalmazást kap
+
+a Kormány, hogy)
+
+„57. a közúti árufuvarozásra, a személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok szabályait,”
+
+(rendeletben állapítsa meg.)
 
 (2)
 
@@ -48,13 +67,13 @@ egyes közlekedési tárgyú törvények módosításáról
 
 15. § A közúti közlekedésről szóló 1988. évi I. törvény
 
-- a)
+- a) 9. § (5) bekezdésében a „közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal” szövegrész helyébe a „közlekedési hatóság” szöveg,
 - b)
 - c)
 - d)
 - e)
 - f)
-- g)
+- g) 21. § (4b) bekezdésében a „rendeletben kijelölt hatóság által” szövegrész helyébe a „rendeletben kijelölt hatóság – kivéve a közlekedési hatóság – által” szöveg,
 - h)
 - i)
 - j)
@@ -75,13 +94,13 @@ lép.
 - e)
 - f)
 - g)
-- h)
-- i)
-- j)
+- h) 20. § (2b) bekezdésében az „ , a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal –” szövegrész,
+- i) 20. § (4b) és (4c) bekezdése,
+- j) 20. § (9) bekezdésében a „(4a) bekezdés szerint kiszabott bírságról, illetve a” szövegrész,
 - k)
 - l)
-- m)
-- n)
+- m) 48. § (3) bekezdés e) pontjában az „a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, a pályaalkalmassági eljárás díját,” szövegrész,
+- n) 48. § (3) bekezdés j) pontja,
 - o)
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
@@ -112,11 +131,11 @@ lép.
 
 - a)
 - b)
-- c)
+- c) 74. § (3) bekezdés d) pontjában az „a vizsgán való részvétel díját,” szövegrész.
 
-#### 4.
+#### 4. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-#### 28. §
+28. § Hatályát veszti a közterület-felügyeletről szóló 1999. évi LXIII. törvény 17/A. §-ában az „és a (4b)” szövegrész.
 
 #### 5. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
@@ -171,7 +190,7 @@ lép.
 - a)
 - b)
 - c)
-- d)
+- d) 88. § (2) bekezdés 38. pontja.
 
 #### 8. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 

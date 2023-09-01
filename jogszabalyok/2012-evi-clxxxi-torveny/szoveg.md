@@ -66,7 +66,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (2) A SIRENE Iroda
 
-- a) kiegészítő információkat cserél más SIS-t alkalmazó államok SIRENE Irodáival,
+- a) kiegészítő információkat cserél más SIS-t alkalmazó államok SIRENE Irodáival és az Europol SIRENE Irodájával,
 - b) koordinálja a CS.SIS-ben magyar jelzéskezelők által elhelyezett adatok minőségének ellenőrzését,
 - c) összeegyeztethetetlen többszörös figyelmeztetőjelzés-elhelyezés kezdeményezése esetén elvégzi a több jelzéskezelőt érintő, valamint a nemzetközi egyeztetést igénylő feladatokat, ha az elhelyezendő figyelmeztető jelzés a jogszabályban foglalt prioritási sorrend szerint elsőbbséget élvez a már elhelyezett jelzéshez képest,
 - d) ellátja az (EU) 2018/1861 európai parlamenti és tanácsi rendelet 46. és 47. cikke, illetve az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 61. és 62. cikke szerint a személyazonossággal való visszaélés elkerülése, illetve kezelése, valamint a hasonló jellemzőkkel rendelkező személyek megkülönböztetése érdekében végzendő adatkezelési tevékenységet,
@@ -568,7 +568,7 @@ való megfelelést szolgálja.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-#### 46. §
+46. § A 3. § (2) bekezdés a) pontja az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 47. § (1)
 

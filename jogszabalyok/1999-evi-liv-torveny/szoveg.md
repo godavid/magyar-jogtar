@@ -43,22 +43,9 @@ történő hozzáférést lehetővé tevő hálózati adatbázis.
 
 4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel, illetve a leplezett eszközök alkalmazásával érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
 
-(1a) A NEBEK az EUROPOL-nak az alábbi személyekre vonatkozó személyes adatokat továbbíthatja:
+(1a)
 
-- a) akiket magyar törvény értelmében olyan bűncselekmény elkövetésével vagy abban való részességgel gyanúsítanak, amely az EUROPOL hatáskörébe tartozik, vagy akiket ilyen bűncselekményért elítéltek, vagy
-- b) akikről megalapozottan feltehető, hogy az EUROPOL hatáskörébe tartozó bűncselekményt fognak elkövetni vagy készítenek elő Magyarország, illetve más tagállam területén.
-
-(1b) Az EUROPOL-nak a következő, az (1a) bekezdésben meghatározott személyekre vonatkozó személyes adatok továbbíthatóak:
-
-- a) az érintett vezetékneve, leánykori neve, utóneve, illetve bármilyen álneve vagy felvett neve,
-- b) az érintett születési helye és ideje,
-- c) az érintett állampolgársága,
-- d) az érintett neme,
-- e) az érintett lakóhelye, tartózkodási helye, illetve foglalkozása,
-- f) az érintett társadalombiztosítási azonosítását szolgáló magyar vagy külföldi azonosító jele,
-- g) az érintett járművezetői engedélyének, személyazonosítására szolgáló okmányának és útlevelének az adatai,
-- h) – szükség esetén – az érintett személyazonosítását valószínűleg elősegítő ismertetőjelére vonatkozó adat, ideértve bármely különleges, objektív és nem változó testi ismertetőjelre vonatkozó adatot is, így különösen a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti ujj- és tenyérnyomatot, illetve DNS-profilt, és
-- i) az érintett a)–h) pontba nem tartozó egyéb, a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/795/EU európai parlamenti és tanácsi rendelet alapján az EUROPOL által tárolható, törvény alapján a NEBEK által kezelhető személyes adata.
+(1b)
 
 (2) A NEBEK jogosult – közvetlen hozzáféréssel is – az (1) bekezdés alapján érkezett megkeresés teljesítéséhez szükséges személyes és bűnüldözési adatot térítés nélkül átvenni az együttműködő szervek által kezelt adatállományokból, amennyiben törvény vagy az Európai Unió jogi aktusa az adatok átvételét, illetőleg külföldre továbbítását az 1. § (1) bekezdésében meghatározott célok valamelyikéből lehetővé teszi.
 
@@ -103,12 +90,7 @@ történő hozzáférést lehetővé tevő hálózati adatbázis.
 
 9/A. § A NEBEK ellátja a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben a SIRENE Irodára ruházott feladatokat.
 
-9/B. § (1) Ha a 4. § (1a) bekezdésben meghatározott személlyel szemben a büntetőeljárást megszüntették vagy vele szemben felmentő ítéletet hoztak,
-
-- a) az a szerv, amelynél e személyre vonatkozó, a NEBEK által az Europol Információs Rendszerbe továbbított adat keletkezett, illetve
-- b) az a szerv, amely e személyre vonatkozó, a NEBEK által az Europol Információs Rendszerbe továbbított adat továbbítását kezdeményezte, haladéktalanul köteles a NEBEK-nél kezdeményezni ezen adatok törlését az Europol Információs Rendszerből.
-
-(2) A NEBEK az EUROPOL-nak továbbított adatok tekintetében az adattovábbítást követően az EUROPOL erre vonatkozó értesítését követően haladéktalanul az adat további tárolása szükségességének felülvizsgálatát kezdeményezi annál a szervnél, amelynél az adat keletkezett, illetve amely az adat továbbítását kezdeményezte.
+#### 9/B. §
 
 10. § (1) A NEBEK vezetője, illetőleg az adattovábbításban érintett hazai adatkezelő szerv vezetője gondoskodik a nemzetközi szervezet által meghatározott, illetőleg a külön törvényben, az Európai Unió jogi aktusában vagy nemzetközi szerződésben foglalt adatvédelmi, adatbiztonsági és titokvédelmi követelmények betartásáról.
 
@@ -286,25 +268,30 @@ kiadható.
 
 (3) E törvénynek a magyar együttműködő szerv és a Schengeni Információs Rendszer együttműködésére vonatkozó rendelkezései az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyarország számára lehetővé tevő határozatában meghatározott napon lépnek hatályba.
 
-17. §
+#### 17. §
 
 ### Az Európai Unió jogának való megfelelés
 
 18. § (1) E törvény
 
-- 1. 3. §-a, 6. §-a, és 10. §-a a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkeinek,
-- 2. 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozatnak
+1. 3. §-a, 6. §-a, és 10. §-a a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkeinek,
+
+2. 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozatnak
 
 való megfelelést szolgálja.
 
 (2) E törvény
 
-- a) 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet,
-- b) 11. §-a a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikkének, valamint
-- c) 12. §-a az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont végrehajtásához szükséges rendelkezéseket állapít meg.
+a) 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet,
+
+b) 11. §-a a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikkének, valamint
+
+c) 12. §-a az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspontvégrehajtásához szükséges rendelkezéseket állapít meg.
 
 19. § Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/795/EU európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
 
 20. § Ez a törvény az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i, 2013/40/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 21. § E törvény 2. alcíme az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspontnak való megfelelést szolgálja.
+
+22. § Ez a törvény az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
