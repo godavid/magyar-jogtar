@@ -1226,6 +1226,8 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 37. § (1) A befektetési vállalkozásban történő minősített befolyás megszerzéséhez a Felügyelet előzetes engedélye szükséges.
 
+(1a) Az (1) bekezdéstől eltérően nem szükséges a Felügyelet engedélye, ha a minősített befolyást szerző a befektetési vállalkozással egy csoportba tartozik, és a minősített befolyás megszerzésére vagy a határérték növekedésére a csoporton belül egyesülés, szétválás vagy átalakulás következtében kerül sor.
+
 (2) Az (1) bekezdés szerinti engedély iránti kérelemhez mellékelni kell – a (2b) bekezdésében foglaltak figyelembevételével –:
 
 - a) a kérelmező természetes személyazonosító adatait,
@@ -1310,6 +1312,8 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 37/B. § (1) Ha a kérelmező a minősített befolyását úgy kívánja módosítani, hogy az meghaladja a húsz, harminchárom vagy ötven százalékos mértéket, a (2) bekezdésben foglaltak szerinti tartalommal kérelmet nyújt be a Felügyeletnek.
 
+(1a) A 37. § (1) bekezdésétől eltérően nem szükséges a Felügyelet engedélye, ha az (1) bekezdésben meghatározott határértéket átlépő befolyásszerző a befektetési vállalkozással egy csoportba tartozik, és a minősített befolyás megszerzésére vagy a határérték növekedésére a csoporton belül egyesülés, szétválás vagy átalakulás következtében kerül sor.
+
 (2) Az (1) bekezdés szerinti kérelemben fel kell tüntetni
 
 - a) a minősített befolyásnak a bejelentés pillanatában meglévő mértékét,
@@ -1320,7 +1324,9 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (4) Az (1) és (3) bekezdésben meghatározott kérelem átvételét a Felügyelet a kérelem benyújtásától számított két munkanapon belül, írásban igazolja a kérelmező vagy a befolyással rendelkező felé (a továbbiakban: átvételi igazolás), és egyben tájékoztatja a 38. § (1) bekezdésében meghatározott ügyintézési határidőről. Ez a rendelkezés megfelelően alkalmazandó a 38. § (2) bekezdésében meghatározott hiánypótlás esetében is.
 
-38. § (1) A Felügyelet az átvételi igazolás kiállításától számított hatvan munkanapon belül (a továbbiakban: ügyintézési határidő) dönt a befolyásszerzési szándékról abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e. Ha a Felügyelet az értékelés alapján a minősített befolyás megszerzését vagy a minősített befolyás mértékének növelését megtagadja, akkor erről az értékelés befejezését követő két munkanapon belül, de legkésőbb az ügyintézési határidőn belül írásban értesíti a kérelmezőt, megadva a döntés indokait.
+(5) Az átvételi igazolás kibocsátását követően a Felügyelet, ha a beadvány a törvény által előírt, a kérelemhez csatolandó valamennyi dokumentumot tartalmazza, ezt a tényt írásban igazolja a kérelmező, valamint a befolyással rendelkező felé (teljességi igazolás), és egyben tájékoztatja a 38. § (1) bekezdésében meghatározott ügyintézési határidőről.
+
+38. § (1) A Felügyelet a teljességi igazolás kiállításától számított hatvan munkanapon belül (a továbbiakban: ügyintézési határidő) dönt a befolyásszerzési szándékról abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e. Ha a Felügyelet az értékelés alapján a minősített befolyás megszerzését vagy a minősített befolyás mértékének növelését megtagadja, akkor erről az értékelés befejezését követő két munkanapon belül, de legkésőbb az ügyintézési határidőn belül írásban értesíti a kérelmezőt, megadva a döntés indokait.
 
 (2) A Felügyelet a 37/B. § (2) bekezdésében meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén az átvételi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást és a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
 

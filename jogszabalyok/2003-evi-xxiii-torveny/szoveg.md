@@ -26,7 +26,7 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 - c) biztosíték: a rendszerrel kapcsolatban felmerülő jogok gyakorlásának és kötelezettségek teljesítésének biztosítására szolgáló jogügyletek, így különösen a Polgári Törvénykönyvről szóló törvény szerinti óvadék – ideértve az Európai Parlament és Tanács 2002/47/EK irányelv 1. cikk (4) bekezdés a) pontját átültető EGT-állam jogszabályai szerinti pénzügyi biztosítékot is –, valamint az EGT-állam központi bankja, illetve az Európai Központi Bank által biztosítékként elfogadott eszközök;
 - d) fizetést korlátozó eljárás:
   - da) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése,
-  - db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 48. § (5) bekezdése, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés,
+  - db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés, valamint a Hpt. 48. § (1) bekezdése szerinti határozat, továbbá, ha azt megelőzően vagy azzal egyidejűleg kifizetési tilalom vagy a Hpt. 185. § (2) bekezdés c) pont cf) alpontja szerinti intézkedés került elrendelésre, akkor a Hpt. 189. § (1) bekezdés e) pontja szerinti kivételes intézkedés,
   - dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
   - dd) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés h) és j) pontjai, valamint a (4) bekezdése szerinti felügyeleti intézkedés,
   - de) a szerkezetátalakításról szóló törvényben (a továbbiakban: Szát.) szabályozott eljárásokban a bíróság által elrendelt, egyedi végrehajtási intézkedéseket felfüggesztő moratórium,
@@ -92,7 +92,7 @@ amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bek
 
 (2) E törvény alkalmazásában a fizetést korlátozó eljárás megindításának időpontja:
 
-- a) a fellebbezésre tekintet nélkül végrehajtható határozat, ennek hiányában
+- a) a fellebbezésre tekintet nélkül végrehajtható döntés, ennek hiányában
 - b) az első fokon jogerős végzés esetében a jogerőre emelkedést megállapító végzés, ennek hiányában
 - c) a jogerős határozat
 

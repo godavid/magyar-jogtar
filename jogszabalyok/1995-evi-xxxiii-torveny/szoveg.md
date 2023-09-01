@@ -2452,7 +2452,7 @@ bírósági eljárásokra alkalmazandó szabályok
 - d) a szellemi tulajdon védelmét szabályozó jogszabályok előkészítésében való részvétel;
 - e) a szellemi tulajdon védelmére irányuló kormányzati stratégia kidolgozása és érvényesítése, az ehhez szükséges állami intézkedések kezdeményezése, illetve végrehajtása;
 - f) a szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködés szakmai feladatainak ellátása;
-- g) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői feladatok ellátása;
+- g)
 - h) a korai fázisú vállalkozásokat támogató vállalkozások által igénybe vehető adóalap-kedvezményhez kapcsolódó nyilvántartási feladatok ellátása.
 
 115/H. § (1) A Hivatal a következő – e törvényben és külön jogszabályokban meghatározott – iparjogvédelmi hatósági feladatokat látja el:
@@ -2462,7 +2462,7 @@ bírósági eljárásokra alkalmazandó szabályok
 
 (2) A vámhatóság megkeresésére a Hivatal tájékoztatást ad az iparjogvédelmi jogosult személyéről a szellemi tulajdonjogok megsértése miatt indult vámigazgatási eljárásban.
 
-(2a) A Hivatal – külön jogszabály alapján – ellátja a kutatás-fejlesztési tevékenység előzetes minősítésének feladatait, valamint közreműködik olyan szakkérdések eldöntésében, amelyek a tevékenység kutatás-fejlesztésnek való minősítését, valamint egyes költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetőségét érintik.
+(2a)
 
 (2b) A Hivatal – jogszabály alapján – ellátja a korai fázisú vállalkozásokat támogató vállalkozások által igénybe vehető adóalap-kedvezményre való jogosultság igazolásához kapcsolódó nyilvántartásba vétellel, továbbá a nyilvántartásból való törléssel összefüggő feladatokat.
 
@@ -2505,7 +2505,7 @@ bírósági eljárásokra alkalmazandó szabályok
 - d) terjeszti a szellemi tulajdon védelmével kapcsolatos ismereteket, fejleszti az iparjogvédelmi és a szerzői jogi kultúrát; tájékoztatással, ügyfélszolgálattal, szaktanácsadással és más eszközökkel gyarapítja a vállalkozások – különösen a kis- és középvállalkozások – iparjogvédelmi és szerzői jogi ismereteit, előmozdítja körükben a szellemi tulajdonjogok tiszteletben tartását;
 - e)
 - f) szakmailag felügyeli a szellemi tulajdonnal kapcsolatos – iskolarendszeren kívüli – képzést, működteti annak rendszerét, továbbá gondoskodik az iparjogvédelmi szakvizsgák és a szabadalmi ügyvivői vizsgák megszervezéséről;
-- g) működteti a Magyar Formatervezési Tanácsot, továbbá közreműködik a nemzeti formatervezési díjak és ösztöndíjak adományozásának lebonyolításában;
+- g)
 - h) elősegíti, hogy a szellemi tulajdon védelmének eszközeit megfelelően használják fel az országkép formálásához, az egységes országmárka kialakításához, valamint a jellegzetes magyar termékek ismertségének javításához és hírnevének megóvásához.
 
 115/L. § A szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködésben a Hivatal – együttműködve az érintett központi államigazgatási szervekkel – különösen a következő képviseleti és egyéb szakmai feladatokat látja el:

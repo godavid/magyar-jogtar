@@ -56,7 +56,7 @@ a következő törvényt alkotja:
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 
-2. § (1) A dohányzás számára kijelölt helyek kivételével – a (3) bekezdésben foglalt eltéréssel – nem szabad dohányozni, elektronikus cigarettát vagy dohányzást imitáló elektronikus eszközt használni
+2. § (1) A dohányzás számára kijelölt helyek kivételével – a (3) bekezdésben foglalt eltéréssel – nem szabad dohányozni, elektronikus cigarettát , dohányzást imitáló elektronikus eszközt vagy vízipipát használni
 
 - a) közforgalmú intézménynek a nyilvánosság számára nyitva álló helyiségeiben,
 - b) közösségi közlekedési eszközön,

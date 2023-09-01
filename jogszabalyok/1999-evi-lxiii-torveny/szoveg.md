@@ -55,7 +55,7 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 (2) A felügyelő szolgálata teljesítésekor egyenruhájára kitűzve viseli az országosan egységes, egyedi azonosító számmal ellátott felügyelői jelvényt. A felügyelő – a helyi önkormányzat rendeleti szabályozása esetén – a település jelképét karjelzésként viseli.
 
-5. §
+#### 5. §
 
 6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a hivatásos katasztrófavédelmi szervvel (a továbbiakban: rendvédelmi szervek), a Nemzeti Adó- és Vámhivatallal, az egyéb állami ellenőrző és önkormányzati szervekkel, egyesülettel, így különösen a helyi polgárőr szervezettel, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
 
@@ -148,7 +148,7 @@ haladéktalanul törli.
 
 13. § A felügyelő szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
 
-13/A. §
+#### 13/A. §
 
 ### A felügyelői intézkedések
 
@@ -156,13 +156,13 @@ haladéktalanul törli.
 
 15. § A felügyelő – az 1. § (4) bekezdés i) pontjában meghatározott feladata kivételével – a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az e törvényben, továbbá az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.
 
-16. §
+#### 16. §
 
 17. § A felügyelő a szabálysértés elkövetőjét – a cselekmény súlyától függően – jogosult a jogszabályban meghatározott esetekben helyszíni bírsággal sújtani.
 
-17/A. § A felügyelő a feladatkörébe tartozó, a Kkt.-ban meghatározott közlekedési szabályszegés esetén jogosult a Kkt. 20. § (4a) és a (4b) bekezdésében meghatározott közigazgatási bírságot alkalmazni.
+17/A. § A felügyelő a feladatkörébe tartozó, a Kkt.-ban meghatározott közlekedési szabályszegés esetén jogosult a Kkt. 20. § (4a) bekezdésében meghatározott közigazgatási bírságot alkalmazni.
 
-18. §
+#### 18. §
 
 19. § A közterület használatára vonatkozó végleges határozatban, tulajdonosi (kezelői) hozzájárulásban foglaltak megszegése vagy elmulasztása esetén a felügyelő köteles felhívni a kötelezettet az előírások betartására.
 
@@ -204,17 +204,17 @@ haladéktalanul törli.
 
 ### III. Fejezet — A felügyelő által használható kényszerítő eszközök
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
 26/A. § (1) A felügyelői könnygázszóró palack típusa megegyezik a rendőrségnél rendszeresített típussal.
 
 (2) A felügyelet könnygázszóró palackot – térítés ellenében – a rendőrségtől igényelhet.
 
-26/B. §
+#### 26/B. §
 
 ### IV. Fejezet — Záró rendelkezések
 
