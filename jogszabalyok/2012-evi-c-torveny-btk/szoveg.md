@@ -513,7 +513,7 @@ ismételten életfogytig tartó szabadságvesztés büntetésre ítélik.
 
 (2) Akit haszonszerzés céljából elkövetett bűncselekmény miatt határozott ideig tartó szabadságvesztésre ítélnek, ha megfelelő jövedelme vagy vagyona van, pénzbüntetésre is kell ítélni.
 
-(3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezer, legfeljebb ötszázezer forintban kell meghatározni.
+(3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezerháromszáz, legfeljebb hatszázötvenezer forintban kell meghatározni.
 
 (4) A bíróság az ügydöntő határozatában – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.
 
@@ -1208,7 +1208,7 @@ jogára.
 
 113. § (1) Fiatalkorúval szemben pénzbüntetést akkor lehet kiszabni, ha önálló keresete, jövedelme vagy megfelelő vagyona van.
 
-(2) Fiatalkorú esetén a pénzbüntetés legkisebb mértéke tizenöt, legnagyobb mértéke kétszázötven napi tétel, az egynapi tétel összegét legalább ötszáz, legfeljebb ötvenezer forintban kell meghatározni.
+(2) Fiatalkorú esetén a pénzbüntetés legkisebb mértéke tizenöt, legnagyobb mértéke kétszázötven napi tétel, az egynapi tétel összegét legalább hatszázötven, legfeljebb hatvanötezer forintban kell meghatározni.
 
 (3) Fiatalkorú esetén a pénzbüntetést behajthatatlansága esetén
 
@@ -2213,7 +2213,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Ha az (1) bekezdésben meghatározott bűncselekményt az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+(2) Ha az (1) bekezdésben meghatározott bűncselekményt az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet [a továbbiakban: 78/2022. (XII. 28.) BM rendelet] 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 
 (3) A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben
 
@@ -6323,7 +6323,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 15. információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
 - 16. kár: e törvény eltérő rendelkezése hiányában a bűncselekménnyel a vagyonban okozott értékcsökkenés;
 - 17. vagyoni hátrány: e törvény eltérő rendelkezése hiányában a vagyonban okozott kár és az elmaradt vagyoni előny;
-- 18. kábítószer: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
+- 18. kábítószer: a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
 - 19. készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz és a forgatható utalvány, a kincstári kártya, az utazási csekk, a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalvány és a váltó, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett;
 - 20. elektronikus készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz mellett a kincstári kártya és a személyi jövedelemadóról szóló törvény felhatalmazása alapján kiadott elektronikus utalvány, feltéve, hogy ezek információs rendszer útján kerülnek felhasználásra;
 - 21. közérdekű üzem:
@@ -6365,7 +6365,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
   - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 - 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
-- 33. új pszichoaktív anyag: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében meghatározott anyag;
+- 33. új pszichoaktív anyag: a 78/2022. (XII. 28.) BM rendelet 3. mellékletében meghatározott anyag;
 - 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
   - a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
   - b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
@@ -6442,7 +6442,7 @@ mértékét meghaladja.
 - b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,
 - c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
 
-(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében szereplő jegyzék
+(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 78/2022. (XII. 28.) BM rendelet 3. mellékletében szereplő jegyzék
 
 - a) 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
 - b) 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,

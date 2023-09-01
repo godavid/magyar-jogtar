@@ -108,13 +108,13 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 #### 8. A pénzbírság
 
-11. § (1) A pénzbírság legalacsonyabb összege – e törvény eltérő rendelkezése hiányában – ötezer forint, legmagasabb összege százötvenezer forint, szabálysértési elzárással is büntethető szabálysértések esetén háromszázezer forint.
+11. § (1) A pénzbírság legalacsonyabb összege – e törvény eltérő rendelkezése hiányában – hatezerötszáz forint, legmagasabb összege kettőszázezer forint, szabálysértési elzárással is büntethető szabálysértések esetén négyszázezer forint.
 
-(2) A pénzbírság összegébe a pénzbírság alapjául szolgáló szabálysértéssel összefüggésben elrendelt szabálysértési őrizet teljes idejét, valamint a pénzbírság alapjául szolgáló szabálysértéssel összefüggésben elrendelt, négy órát meghaladó tartamú előállítás tartamát be kell számítani. A szabálysértési őrizet, valamint a négy órát meghaladó tartamú előállítás minden megkezdett órája helyébe kettőszáz forint pénzbírságot kell beszámítani.
+(2) A pénzbírság összegébe a pénzbírság alapjául szolgáló szabálysértéssel összefüggésben elrendelt szabálysértési őrizet teljes idejét, valamint a pénzbírság alapjául szolgáló szabálysértéssel összefüggésben elrendelt, négy órát meghaladó tartamú előállítás tartamát be kell számítani. A szabálysértési őrizet, valamint a négy órát meghaladó tartamú előállítás minden megkezdett órája helyébe háromszáz forint pénzbírságot kell beszámítani.
 
 (3) A XXVII. és a XXVIII. Fejezetben meghatározott egyes szabálysértések esetén a Kormány – a pénzbírság legalacsonyabb és legmagasabb mértékére vonatkozó rendelkezés keretei között – rendelettel megállapíthatja a pénzbírság kötelező mértékét.
 
-12. § (1) A pénzbírságot meg nem fizetése esetén a bíróság szabálysértési elzárásra változtatja át. E törvény eltérő rendelkezése hiányában az átváltoztatás során ötezer forintonként egy napi szabálysértési elzárást kell számítani. A meg nem fizetett pénzbírságnak ötezerrel nem osztható részét nem kell figyelembe venni.
+12. § (1) A pénzbírságot meg nem fizetése esetén a bíróság szabálysértési elzárásra változtatja át. E törvény eltérő rendelkezése hiányában az átváltoztatás során hatezerötszáz forintonként egy napi szabálysértési elzárást kell számítani. A meg nem fizetett pénzbírságnak hatezerötszázzal nem osztható részét nem kell figyelembe venni.
 
 (2) Nem lép a meg nem fizetett pénzbírság helyébe szabálysértési elzárás, ha az eljárás alá vont személy
 
@@ -273,8 +273,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (2) Fiatalkorú esetén
 
 - a) a szabálysértési elzárás leghosszabb tartama harminc nap, halmazati büntetés esetén negyvenöt nap,
-- b) a pénzbírság legmagasabb összege ötvenezer forint, szabálysértési elzárással is büntethető szabálysértések esetén százezer forint,
-- c) a helyszíni bírság legmagasabb összege huszonötezer forint.
+- b) a pénzbírság legmagasabb összege hatvanötezer forint, szabálysértési elzárással is büntethető szabálysértések esetén százharmincezer forint,
+- c) a helyszíni bírság legmagasabb összege harminckettőezer-ötszáz forint.
 
 (2a) Kormányrendeletben meghatározott kötelező mértékű pénzbírsággal vagy helyszíni bírsággal sújtandó szabálysértés elkövetése esetén, ha
 
@@ -1495,12 +1495,12 @@ téríti meg.
 
 99. § (1) Helyszíni intézkedés során a szabálysértés elkövetését elismerő személlyel szemben helyszíni bírság kiszabásának van helye.
 
-(2) A helyszíni bírság összege – a (2a) bekezdés kivételével – ötezer forinttól ötvenezer forintig, hat hónapon belül újabb szabálysértés elkövetése esetén hetvenezer forintig terjedhet.
+(2) A helyszíni bírság összege – a (2a) bekezdés kivételével – hatezerötszáz forinttól hatvanötezer forintig, hat hónapon belül újabb szabálysértés elkövetése esetén kilencvenezer forintig terjedhet.
 
 (2a) A helyszíni bírság összege
 
 - a) a védelmi intézkedés megszegése szabálysértés (239/A. §) esetén megegyezik a 11. § (1) bekezdése szerinti pénzbírság összegével,
-- b) közérdekű üzem működésének megzavarása szabálysértés (177/A. §) esetén – ha azt az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség ideje alatt követik el – ötezer forinttól százötvenezer forintig terjedhet.
+- b) közérdekű üzem működésének megzavarása szabálysértés (177/A. §) esetén – ha azt az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség ideje alatt követik el – hatezerötszáz forinttól kettőszázezer forintig terjedhet.
 
 (3) Ha az eljárás alá vont személy a helyszíni bírság kiszabását – a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről szóló tájékoztatás után – aláírásával igazoltan tudomásul veszi, a helyszíni bírság ellen nincs helye jogorvoslatnak.
 
@@ -1520,7 +1520,7 @@ téríti meg.
 
 (8) A helyszíni bírság kiszabása során, ha kötelező mértékű helyszíni bírsággal sújtandó több szabálysértés elbírálására kerül sor, az elkövetett szabálysértésekhez rendelt helyszíni bírságok közül a legmagasabb bírságot kell alkalmazni.
 
-(9) Ha kötelező mértékű helyszíni bírsággal sújtandó szabálysértés és más szabálysértés egyidejű elbírálására kerül sor, a kiszabható helyszíni bírság nem lehet kevesebb, mint a kötelező mértékű helyszíni bírság, de az nem haladhatja meg az ötvenezer forintot, ismételt elkövetés esetén a hetvenezer forintot.
+(9) Ha kötelező mértékű helyszíni bírsággal sújtandó szabálysértés és más szabálysértés egyidejű elbírálására kerül sor, a kiszabható helyszíni bírság nem lehet kevesebb, mint a kötelező mértékű helyszíni bírság, de az nem haladhatja meg az hatvanötezer forintot, ismételt elkövetés esetén a kilencvenezer forintot.
 
 (10) A (2) bekezdésben meghatározott ismételt elkövetésre vonatkozó rendelkezés alkalmazásánál nem lehet figyelembe venni a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértéseket.
 
@@ -2316,13 +2316,13 @@ elektronikus formában automatikusan továbbítja.
 - a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg-ellátásban részesül,
 - b) a várandósság tizenkettedik hetét elérő nő.
 
-(3) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka végrehajtásában az állami foglalkoztatási szerv működik közre. A meg nem fizetett pénzbírság helyébe ötezer forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett pénzbírságnak ötezerrel nem osztható részét nem kell figyelembe venni. Az állami foglalkoztatási szerv, illetve a kijelölt munkahely a 144. § (5), (7)–(11), (14), (16) és (18) bekezdésekben foglaltak szerint köteles az elkövető részére közérdekű munkát – a nyilvántartása alapján – felajánlani, illetve az elkövetőt foglalkoztatni.
+(3) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka végrehajtásában az állami foglalkoztatási szerv működik közre. A meg nem fizetett pénzbírság helyébe hatezerötszáz forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett pénzbírságnak hatezerötszázzal nem osztható részét nem kell figyelembe venni. Az állami foglalkoztatási szerv, illetve a kijelölt munkahely a 144. § (5), (7)–(11), (14), (16) és (18) bekezdésekben foglaltak szerint köteles az elkövető részére közérdekű munkát – a nyilvántartása alapján – felajánlani, illetve az elkövetőt foglalkoztatni.
 
 (4) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka tartama eltérhet a közérdekű munka tartamára vonatkozó e törvény szerinti előírástól, azonban a végrehajtás időpontjára és időtartamára a 144. § (12)–(13) és (15) bekezdése az irányadó.
 
 (5) Az elkövető végrehajtás során tanúsított 144. § (17) bekezdésben foglalt mulasztása esetén az abban foglalt rendelkezéseket kell alkalmazni.
 
-(6) Az (5) bekezdésben meghatározott esetben a bíróság a fennmaradó pénzbírság vagy helyszíni bírság összegét elzárásra változtatja át azzal, hogy a pénzbírság, illetve helyszíni bírság összegének számításakor egy óra ledolgozott közérdekű munka nyolcszáz forintnak felel meg.
+(6) Az (5) bekezdésben meghatározott esetben a bíróság a fennmaradó pénzbírság vagy helyszíni bírság összegét elzárásra változtatja át azzal, hogy a pénzbírság, illetve helyszíni bírság összegének számításakor egy óra ledolgozott közérdekű munka ezer forintnak felel meg.
 
 (6a) A szabálysértési elzárásra átváltoztatás tárgyában hozott végzés indokolása a szükséges mértékben tartalmazza a joghátrányt kiszabó jogerős határozatra utalást, az alkalmazott jogszabályok megjelölését és a további végrehajtással kapcsolatos jogszabályi tájékoztatást.
 

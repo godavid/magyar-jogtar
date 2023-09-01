@@ -102,7 +102,7 @@ alapvető jogai és kötelezettségei
 
 (4)
 
-(5) A 20. § (11) bekezdésében – a foglalkoztatás-felügyeleti hatóság és a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
+(5) A 20. § (11) bekezdésében – a foglalkoztatás-felügyeleti hatóság és a közlekedési hatóság kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
 
 (6) A miniszter e törvény szerinti döntésével szemben indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
@@ -271,7 +271,7 @@ alapvető jogai és kötelezettségei
 - e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges, és
 - f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
 
-(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 130 000 forinttól 650 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
 
@@ -319,7 +319,7 @@ jogosultak.
 - b) az ingatlan közvetlen környezete nem sűrűn lakott és
 - c) az ingatlanon tárolt, a (6) bekezdésben meghatározott járművek által okozott környezeti zaj vagy bűzhatás által okozott zavaró hatás – tekintettel a lakókörnyezet jellegére is – nem jelentős.
 
-(8) Ha a (6) bekezdésben meghatározott járművek tényleges tárolási helyéül szolgáló székhely, telephely címe szerinti ingatlan tárolásra való alkalmasságáról a jegyző által kiállított hatósági bizonyítvány alapjául szolgáló körülmények megváltozása miatt az ingatlan a továbbiakban nem felel meg a (7) bekezdésben meghatározott feltételeknek, a jegyző kötelezi az üzembentartót a (6) bekezdésben meghatározott járművek adott ingatlanon történő tárolásának megszüntetésére. Ha az üzemben tartó a kötelezésnek határidőn belül nem tesz eleget, a jegyző 500 000 forintig terjedő közigazgatási bírsággal sújtja.
+(8) Ha a (6) bekezdésben meghatározott járművek tényleges tárolási helyéül szolgáló székhely, telephely címe szerinti ingatlan tárolásra való alkalmasságáról a jegyző által kiállított hatósági bizonyítvány alapjául szolgáló körülmények megváltozása miatt az ingatlan a továbbiakban nem felel meg a (7) bekezdésben meghatározott feltételeknek, a jegyző kötelezi az üzembentartót a (6) bekezdésben meghatározott járművek adott ingatlanon történő tárolásának megszüntetésére. Ha az üzemben tartó a kötelezésnek határidőn belül nem tesz eleget, a jegyző 650 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (9) Ha az ingatlannak a (6) bekezdésben említett járművek tárolására való alkalmassága a (7) bekezdés b) pontjában foglalt okból változott meg, a jegyző nem alkalmazhatja a (8) bekezdésben foglaltakat. Ebben az esetben a jegyző kötelezi az üzembentartót a (6) bekezdésben meghatározott járműveknek a megváltozott lakókörnyezethez igazodó mértékű tárolására.
 
@@ -458,7 +458,7 @@ oktatása, szakképzése és utánképzése
 - a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az a vezetői engedély visszavonásával nem jár;
 - b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
-(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
+(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság összege legfeljebb 13 000 000 Ft lehet, a bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
 
 (7a) A (7) bekezdésben meghatározott eljárásokban figyelmeztetés alkalmazásának nincs helye.
 
@@ -518,7 +518,7 @@ oktatása, szakképzése és utánképzése
 (17) Ha a felügyeleti szerv a lefolytatott vizsgálat alapján megállapítja, hogy a vizsgaközpont nem a jogszabályoknak megfelelően végzi a tevékenységet, az alábbi jogkövetkezményeket alkalmazhatja:
 
 - a) a figyelmeztetést tartalmazó döntésében felhívja a vizsgaközpont figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére, vagy
-- b) bírságot szab ki, amelynek mértéke 10 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
+- b) bírságot szab ki, amelynek mértéke 13 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
 
 ### Az utazó munkavállalók munkaideje
 
@@ -755,17 +755,17 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
 
-(2b) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
+(2b) A rendőrség, a katasztrófavédelmi hatóság és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 13 000 forinttól 1 040 000 forintig, a k) és m) pontokban foglalt esetben 13 000 forinttól 390 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
-(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m) , p) vagy q) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) és q) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
+(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m), p) vagy q) pontjában, vagy a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) és q) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja a (4) bekezdés szerinti közigazgatási bírság összegével megegyező összegben közigazgatási bírságként helyszíni bírságot szabhat ki.
 
-(4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
+(4b)
 
-(4c) Ha a gépjármű üzemben tartója a (4b) bekezdés alapján kiszabott közigazgatási bírságot nem veszi tudomásul, a közigazgatási hatósági eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni. Így kell eljárni akkor is, ha a gépjármű üzemben tartója egyéb esetekben a közigazgatási bírságot harminc napon belül nem fizeti meg.
+(4c)
 
 (4d) A közigazgatási bírság kiszabására jogosult szerv a közigazgatási bírság kiszabására irányuló eljárásban közvetlen adathozzáféréssel átveheti a gépjármű-nyilvántartásból a szabályszegés bizonyításához szükséges külön jogszabály szerinti jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
 
@@ -782,7 +782,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni, és a jármű forgalmi engedélyét és hatósági jelzését – az átvételét igazoló elismervény egyidejű kiállítása és annak a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt és hatósági jelzést – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
 
-(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint az Európai Unió hivatalos nyelvén, továbbá – a jármű honossága szerint – orosz, szerb, török vagy ukrán nyelven írásban tájékoztatni kell a (4a) bekezdés szerint kiszabott bírságról, illetve a (8) bekezdés szerint kijelölt várakozási helyről, valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
+(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint az Európai Unió hivatalos nyelvén, továbbá – a jármű honossága szerint – orosz, szerb, török vagy ukrán nyelven írásban tájékoztatni kell a (8) bekezdés szerint kijelölt várakozási helyről, valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
 
 (10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
 
@@ -863,8 +863,8 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
-- a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 10 000 forinttól 300 000 forintig,
-- b) az (1) bekezdés d) és i) pontja szerinti esetben 10 000 forinttól 800 000 forintig
+- a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 13 000 forinttól 390 000 forintig,
+- b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 040 000 forintig
 
 terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 
@@ -880,7 +880,7 @@ terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megs�
 
 (4a) Az (1) bekezdés a)–c) és e)–g) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő négy hónapon belül, az (1) bekezdés d), h) és i) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő öt hónapon belül be kell fejezni.
 
-(4b) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság által hozott határozat ellen fellebbezésnek van helye.
+(4b) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság – kivéve a közlekedési hatóság – által hozott határozat ellen fellebbezésnek van helye.
 
 (4c) Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
@@ -1192,7 +1192,7 @@ műszaki feltételei
 - d) hatástalanító berendezés alkalmazási tilalmat megszegő és
 - e) információhoz való hozzáférés biztosítási kötelezettségét nem teljesítő
 
-gyártóval szemben 100 000 forinttól 1 000 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét külön jogszabály határozza meg.
+gyártóval szemben 130 000 forinttól 1 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét külön jogszabály határozza meg.
 
 (2) A kivetett bírság összegének megfizetése meghatározott számlaszámra történő befizetéssel történhet.
 
@@ -1235,7 +1235,7 @@ meghatározott piacfelügyeleti feladatokat.
 
 (4a) A (4) bekezdés szerinti eljárásokban a járműforgalmazó a közlekedési hatóság által kiadott engedély alapján a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározottak szerint, tanúsítóként a tényállás tisztázásában közreműködik.
 
-(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 100 000 forinttól 1 000 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.
+(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 130 000 forinttól 1 300 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.
 
 (5) Egyedileg előállított (összeépített) vagy átalakított jármű esetén a közlekedési hatóság azt vizsgálja, hogy a jármű megfelel-e az előzetes engedélyben foglaltaknak. Előzetes engedély nélkül előállított vagy átalakított járműre hatósági engedély és jelzés nem adható.
 
@@ -1301,7 +1301,7 @@ adatokat.
 
 (5) A vizsgáló állomás tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait a közlekedési hatóság látja el.
 
-(5a) A vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a közlekedési hatóság a vizsgáló állomással szemben 100 000 forinttól 1 000 000 forintig terjedő bírságot szabhat ki.
+(5a) A vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a közlekedési hatóság a vizsgáló állomással szemben 130 000 forinttól 1 300 000 forintig terjedő bírságot szabhat ki.
 
 (6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 
@@ -1761,7 +1761,14 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (3) A használati díj nem tartalmazhat sem közvetett, sem közvetlen megkülönböztetést, így különösen tilos a diszkrimináció a gépjárművek nemzetisége vagy a gépjárművek tulajdonosának (üzemben tartójának) nemzetisége, illetve letelepedési országa, valamint a járművek nyilvántartásba vételi helye, illetve a közlekedési tevékenység kiindulási pontja vagy rendeltetési helye alapján.
 
-(4) A használati díj beszedésére jogosult szervezetek a díjfizetés elmulasztása esetén a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet szerinti pótdíj behajtása céljából, továbbá a (8) bekezdésben meghatározott szervezetek a díjfizetés ellenőrzése és a hatáskörükbe tartozó pótdíjkövetelés, vagy a pótdíjkülönbözetre vonatkozó követelés behajtására irányuló eljárás megindítása céljából a követelés elévülésének vagy az (5) bekezdés szerinti jogvesztő határidő eredménytelen elteltének időpontjáig kezelhetik a használati díjjal, vagy az annak meg nem fizetése esetén fizetendő pótdíjjal összefüggésben megismert valamennyi adatot, különös tekintettel a jármű-azonosító adatokra és a természetes személy üzemben tartó személyes adataira.
+(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő két évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
+
+(4) A használati díj beszedésére jogosult szervezetek a használati díj megfizetésének elmulasztása esetén a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet szerinti pótdíj behajtása céljából, továbbá a (8) bekezdésben meghatározott szervezetek a díjfizetés ellenőrzése és a hatáskörükbe tartozó pótdíjkövetelés, vagy a pótdíjkülönbözetre vonatkozó követelés behajtására irányuló eljárás megindítása céljából az adat rögzítésétől a követelés elévülésének vagy az (5) bekezdésben meghatározott jogvesztő határidő eredménytelen elteltének időpontjáig jogosultak kezelni
+
+- a) a (3a) bekezdésben meghatározott adatokat,
+- b) a gépjárműről és annak hatósági jelzéséről készített képfelvételt,
+- c) a természetes személy üzembentartó nevét, lakóhelyét, anyja nevét, születési helyét és idejét, valamint
+- d) a jogi személy üzembentartó nevét, székhelyét, cégjegyzékszámát vagy az azt bejegyző hatóság által kiadott más azonosítóját.
 
 (4a) A használati díj beszedésére jogosult szervezetek (4) bekezdésben meghatározott pótdíj behajtása érdekében megbízottat vehetnek igénybe.
 
@@ -2342,6 +2349,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 54. a járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését ellátó állami tulajdonú gazdasági társaságot,
   - 55. az országos közutak meghatározott időtartamban történő használatáért felszámított díjak (pótdíjak) beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését ellátó útdíjszolgáltatási gazdasági társaságot,
   - 56. a közúti hírközlő hálózat vagyonkezelési feladatait ellátó hálózatkezelő gazdasági társaságot
+  - 57. a közúti árufuvarozásra, a személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok szabályait,
 - b) a miniszter, hogy
   - 1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,
   - 2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat
@@ -2400,7 +2408,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 54. a közlekedési hatóság részére fizetendő felügyeleti díj megfizetésének részletszabályait,
 - c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 - d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
-- e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, a pályaalkalmassági eljárás díját, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
+- e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
 - f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
 - g) a miniszter, hogy az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben
   - 1. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
@@ -2410,7 +2418,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 5. a 33/A. § szerinti időtartamot,
 - h) az iparügyekért felelős miniszter, hogy az elektromos töltőberendezésekre vonatkozó műszaki-biztonsági követelményeket
 - i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
-- j) a miniszter, hogy a közlekedésrendészetért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos hatósági feladatok szabályait,
+- j)
 - k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 - l) a miniszter, hogy a közúti áruszállításhoz kapcsolódó árumozgatásra alkalmas gépek, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint a közutak építéséhez, fenntartásához használt emelő-, rakodó- és útépítő gépek kezelőinek képzésére és vizsgáztatására vonatkozó szabályokat az iparügyekért és a kereskedelemért felelős miniszterrel egyetértésben,
 - m) a közlekedésért felelős miniszterrel egyetértésben

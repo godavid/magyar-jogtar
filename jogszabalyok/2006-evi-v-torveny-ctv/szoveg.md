@@ -19,14 +19,15 @@ valamint a céginformációs szolgálat feladatai
 - c) a cégjegyzék adatairól, valamint a cégiratokról tájékoztatás nyújtása,
 - d) a cégnyilvántartás közhitelességének és a cég törvényes működésének biztosítása érdekében – hivatalból, illetve kérelemre – törvényességi felügyeleti eljárás lefolytatása,
 - e) a Polgári Törvénykönyvben (a továbbiakban: Ptk.) és más, az egyes cégformákra vonatkozó törvényekben, illetve az Európai Unió rendeleteiben meghatározott, a kisebbségi jogok gyakorlását, valamint a hitelezői jogok védelmét biztosító kérelmek elbírálása,
-- f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése, továbbá
-- g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal.
+- f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése,
+- g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal, továbbá
+- h) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről és szétválásáról szóló törvényben foglalt feladatok ellátása.
 
 (2) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat (a továbbiakban: céginformációs szolgálat) feladatai a következők:
 
 - a) az e törvényben szabályozott módon hozzájárul a cégnyilvánosság követelményének megvalósításához, a cégjegyzékben szereplő adatok és cégiratok megismeréséhez;
 - b) biztosítja a cégeljárásban és más, külön törvényben szabályozott nemperes eljárások során az elektronikus ügyintézést támogató rendszer üzemeltetését;
-- c) biztosítja a tagállami központi nyilvántartások, kereskedelmi nyilvántartások és cégjegyzékek összekapcsolására szolgáló rendszerrel (a továbbiakban: tagállami cégnyilvántartások összekapcsolására szolgáló rendszer) való kapcsolattartást;
+- c) biztosítja a tagállami központi nyilvántartások, kereskedelmi nyilvántartások és cégjegyzékek összekapcsolására szolgáló rendszerrel (a továbbiakban: tagállami cégnyilvántartások összekapcsolására szolgáló rendszer) való kapcsolattartást, valamint a tőkeegyesítő társaságok határokon átnyúló átalakulásával, egyesülésével és szétválásával kapcsolatos elektronikus adatszolgáltatást;
 - d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és kisvállalkozások a cégalapítással, a cégek megszüntetésével összefüggő jogilag jelentős információkat – korszerű informatikai eszközök alkalmazása révén – közérthető megfogalmazásban, költségmentesen is megismerhessék;
 - e)
 
@@ -1031,6 +1032,13 @@ hiánypótlás nélküli visszautasítása
 (6) Ha e törvény rendelkezése alapján a cég jogosult az érintett adat változásának időpontját meghatározni, akkor a kérelem már a változás bekövetkezte előtt benyújtható, azonban a kérelem benyújtásának napja ebben az esetben sem lehet korábbi, mint a változásról hozott döntés napja, és – e törvény eltérő rendelkezése hiányában – legfeljebb harminc nappal előzheti meg az adat kérelemben megjelölt változásának időpontját.
 
 (7) Ha e törvény rendelkezései alapján a cégadat változásának időpontja a bejegyzés napját követő időpont, nem nyújtható be olyan változásbejegyzési kérelem, amely a cégadatot a változás időpontjának bekövetkezte előtti időponttal úgy kéri törölni a cégjegyzékből, hogy az mint törölt adat se legyen megismerhető.
+
+50/A. § Ha a változásbejegyzési kérelem kizárólag a cég nevében szereplő, megyére utaló elnevezés Magyarország Alaptörvényének tizenegyedik módosítása folytán szükséges vármegyére utaló elnevezésre történő megváltoztatására irányul, a változásbejegyzési kérelem elbírálása során a cégbíróság azzal az eltéréssel jár el, hogy
+
+- a) a 45. § szerinti formai vizsgálatot a kérelem érkezését követő egy munkanapon belül végzi el,
+- b) a 46. § (1) bekezdése szerinti vizsgálatot a kérelem érkezését követően legkésőbb három munkanapon belül végzi el,
+- c) a 46. § (3) bekezdése szerinti hiánypótlásra felhívó végzést legkésőbb a kérelem érkezésétől számított harmadik munkanapon adja ki, és
+- d) a 46. § (7) bekezdése szerinti döntést és intézkedéseket legkésőbb a kérelem érkezésétől számított tíz munkanapon belül teszi meg.
 
 ### 11. CÍM — A létesítő okirat módosítása
 

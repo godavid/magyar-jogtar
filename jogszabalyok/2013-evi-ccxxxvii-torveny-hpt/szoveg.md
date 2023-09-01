@@ -344,6 +344,7 @@ feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenö
 - c) a biztosító által az életbiztosítási kötvény tulajdonosának nyújtott kötvénykölcsön,
 - d) az önkéntes kölcsönös biztosító pénztár által nyújtott tagi kölcsön, valamint
 - e) az önkormányzat által adott lakáscélú vagy szociális kölcsön.
+- f) a tőkévé konvertálható kölcsönnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti korlátozott körű, egy naptári évben legfeljebb tizenöt alkalommal történő nyújtása, amennyiben a nyújtott kölcsönök összesített állománya természetes személy esetében legfeljebb ötszázmillió forint, jogi személy esetében legfeljebb kettőmilliárd forint.
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
@@ -2467,9 +2468,9 @@ tekintetében, ha a hitelintézet kitettségeinek speciális kockázata abszolú
 
 (3) A pénzügyi intézmény tagja a tagi részesedéséhez vagy a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak a Felügyelet engedélyével köthet.
 
-(4) Pénzügyi intézményben befolyásoló részesedéssel rendelkező vállalkozásban többségi részesedés szerzéséhez a Felügyelet engedélye szükséges.
+(4) Az (1) bekezdéstől eltérően nem szükséges a Felügyelet engedélye, ha a befolyásoló részesedést szerző vagy a meghatározott határértéket átlépő személy a pénzügyi intézménnyel egy csoportba tartozik, és a befolyásoló részesedés megszerzésére vagy a határérték növekedésére a csoporton belül egyesülés, szétválás vagy átalakulás következtében kerül sor.
 
-(5) Az (1)–(4) bekezdés szerinti engedély iránti kérelem tartalmazza
+(5) Az (1)–(3) bekezdés szerinti engedély iránti kérelem tartalmazza
 
 - a) a pénzügyi intézményben befolyásoló részesedéssel rendelkező megnevezését,
 - b) a pénzügyi intézményben befolyásoló részesedéssel rendelkező vállalkozásból a kérelmező birtokában lévő részesedés megjelölését,
@@ -2523,7 +2524,7 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 129. § (1) A Felügyelet a 126. § (1) és (3) bekezdésében meghatározott kérelem átvételét a benyújtástól számított két munkanapon belül, írásban igazolja a kérelmező, illetve a befolyással rendelkező felé (a továbbiakban: átvételi igazolás), és egyben tájékoztatja a (2)–(6) bekezdésben meghatározott ügyintézési határidőről. Ez a rendelkezés megfelelően alkalmazandó a hiánypótlás esetében is.
 
-(2) A Felügyelet az átvételi igazolás kiállításától számított hatvan munkanapon belül megvizsgálja a befolyásszerzési szándékot abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e.
+(2) A Felügyelet a kérelemhez csatolandó valamennyi dokumentum – azaz a teljes kérelem – benyújtását követő átvételi igazolás (a továbbiakban: teljességi igazolás) kiállításától számított hatvan munkanapon belül megvizsgálja a befolyásszerzési szándékot abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e.
 
 (3) A Felügyelet az e törvényben meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén az átvételi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást, illetve a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
 
@@ -3842,9 +3843,9 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (3) Az (1) és (2) bekezdéstől eltérően az irányítási vagy a felügyeleti jogkörrel rendelkező vezető testület tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
 
-197. § (1) Ha a Felügyelet a 185. § (2) bekezdés c) pont cf) alpontja, a 48. § (5) bekezdése és az 55. § (2) bekezdése szerinti intézkedését a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
+197. § (1) Ha a Felügyelet a 185. § (2) bekezdés c) pont cf) alpontja, a 189. § (1) bekezdés e) pontja és az 55. § (2) bekezdése szerinti intézkedését, valamint a 48. § (1) bekezdés szerinti határozatát a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
 
-(2) A Felügyelet az (1) bekezdés szerinti határozat tekintetében érintett, a fizetési rendszerhez közvetlenül csatlakozó résztvevő értesítése mellett haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét is.
+(2) A Felügyelet az (1) bekezdés szerinti döntés tekintetében érintett, a fizetési rendszerhez közvetlenül csatlakozó résztvevő értesítése mellett haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét is.
 
 (3) A Tvt. 3. § (1) bekezdés a) pontjában meghatározott időponttól kezdődően a közvetlenül csatlakozó résztvevő javára benyújtott fizetési megbízás elszámolása és teljesítése az (1) bekezdés szerinti döntés rendszerüzemeltetővel történt közlésétől függetlenül végrehajtható és megtámadhatatlan.
 
@@ -4213,7 +4214,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 215. § (1) Az OBA által biztosított betétek esetében a hitelintézet és a betétes közötti beszámításnak kizárólag akkor van helye, ha a betétesnek a hitelintézettel szemben a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontját megelőzően lejárt tartozása van. A beszámítás feltétele, hogy a hitelintézet a betétre vonatkozó szerződés megkötésekor a vonatkozó szerződési feltételek rögzítésével tájékoztatja a betétest az e bekezdés szerinti beszámításról a kártalanítási összeg meghatározásánál.
 
-(2) A hitelintézet kártalanítás esetén a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az OBA-val közölni. A hitelintézet köteles a szerződési feltételek bemutatásával igazolni, hogy az (1) bekezdésnek megfelelően tájékoztatta a betétest. Ha a beszámításra sor kerül, akkor az OBA a 214. § szerinti összegből a hitelintézetet megillető és részére átutalt összeg levonása után fennmaradó összeget fizeti ki a betétes részére.
+(2) A hitelintézet kártalanítás esetén a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az OBA-val közölni. Ha a beszámításra sor kerül, akkor az OBA az ügyfél szabad rendelkezése alatt álló betétkövetelés összegéből a hitelintézetet megillető összeg levonása után fennmaradó összeget fizeti ki a betétes részére. Az OBA a hitelintézetet megillető összeggel szemben jogosult a Cstv. alapján beszámítási jogát gyakorolni.
 
 (3) A kártalanítás mértékének megállapítása során az ügyfélnek az OBA tagjánál fennálló valamennyi betétkövetelését össze kell számítani.
 
@@ -4462,7 +4463,7 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 (2a) A díjfizetési alap meghatározásánál nem kell figyelembe venni százezer eurónál nagyobb összegben azokat a betéteket, amelyekre a 214/A. § alapján magasabb kártalanítási összeghatár vonatkozik.
 
-(3) Az éves befizetés összegét a hitelintézet minden évben negyedéves részletekben, legkésőbb a tárgynegyedév tizenötödik napjáig köteles befizetni az OBA pénzforgalmi számlájára.
+(3) Az éves befizetés összegét a hitelintézet az OBA igazgatótanácsa által elfogadott Díjfizetési Szabályzatában meghatározott ütemezés szerint köteles befizetni az OBA pénzforgalmi számlájára.
 
 (4) A hitelintézet által fizetendő díj összegének meghatározása azon nyilatkozatok alapján történik, amelyeket a hitelintézet továbbít az OBA-nak az OBA szabályzatában meghatározott formában és időpontban.
 

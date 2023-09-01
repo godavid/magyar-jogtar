@@ -20,7 +20,7 @@ a bírósági végrehajtásról
 
 (3) Az (1) bekezdésben foglalt esetben, ha a közigazgatási végrehajtás bűnügyi követelés behajtására irányul, a végrehajtás során az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény eltérő rendelkezéseit is alkalmazni kell.
 
-4/A. § Ha a zálogkötelezettel szemben a zálogtárgyra is kiterjedő bírósági végrehajtás folyik, a zálogjogosult kielégítési jogát – a zálogtárgy lefoglalásától kezdődően – a bírósági végrehajtáson kívül nem gyakorolhatja, kielégítést kizárólag bírósági végrehajtás útján kereshet.
+4/A. § Ha a zálogkötelezettel szemben a zálogtárgyra is kiterjedő bírósági végrehajtás folyik, a zálogjogosult (alzálogjog esetén az alzálogjogosult) kielégítési jogát – a zálogtárgy lefoglalásától kezdődően – a bírósági végrehajtáson kívül nem gyakorolhatja, kielégítést kizárólag bírósági végrehajtás útján kereshet.
 
 ### A végrehajtási kényszer alkalmazása
 
@@ -78,18 +78,30 @@ a bírósági végrehajtásról
 
 - a) az adós nevét (szervezet esetén elnevezését, cég esetén cégnevét) és az azonosításához szükséges adatokat (legalább a születési helyét, idejét és az anyja nevét, illetve a szervezet nyilvántartási számát, cég esetén a cégjegyzékszámát), továbbá
 - b) az ügy körülményeitől függően: az adós lakóhelyét, munkahelyét, illetőleg székhelyét, telephelyét (a továbbiakban: székhelyét) és a végrehajtás alá vonható vagyontárgyának helyét; e pontban felsorolt adatok közül legalább egyet közölni kell.
+- c) azt, hogy terheli-e a követelést biztosító zálogjogot ingatlan-nyilvántartásba bejegyzett alzálogjog (a továbbiakban: alzálogjog),
+- d) az alzálogjog jogosultjának (a továbbiakban: alzálogjogosult) nevét (szervezet esetén elnevezését, cég esetén cégnevét) és az azonosításához szükséges adatokat (legalább a születési helyét, idejét és az anyja nevét, illetve a szervezet nyilvántartási számát, cég esetén a cégjegyzékszámát), valamint
+- e) az alzálogjoggal érintett ingatlan adatait, továbbá csatolni köteles az ingatlan 15 napnál nem régebbi hiteles tulajdoni lapját.
 
 (3) Ingatlan-végrehajtás kérése esetén közölni kell az ingatlan-nyilvántartási adatokat.
 
 12. § (1) A végrehajtási kérelmet – a 18. § (3) bekezdésében foglaltak figyelembevételével – a kellő példányban, megfelelően kitöltött végrehajtható okirat nyomtatványon kell előterjeszteni.
 
-(2) A bíróság a végrehajtási kérelmet nyomban, de legkésőbb a beérkezését követő 15 napon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e helye az áttételének vagy visszautasításának, illetve azt – a jogi képviselővel rendelkező fél kivételével – nem kell-e hiánypótlásra visszaadni, és a szükséges intézkedéseket megteszi. Ha a jogi képviselővel nem rendelkező végrehajtást kérő a kérelmét nem a nyomtatványon terjesztette elő, a nyomtatványt nem a kellő példányban nyújtotta be, vagy nem megfelelően töltötte ki, a bíróság a hiányokat saját hatáskörben, a bírósági iratokban rendelkezésre álló adatok alapján is pótolhatja. A jogi képviselővel rendelkező fél hiányos kérelmét a bíróság visszautasítja.
+(2) A bíróság a végrehajtási kérelmet nyomban, de legkésőbb a beérkezését követő 15 napon belül megvizsgálja annak megállapítása érdekében, hogy van-e helye áttételnek vagy visszautasításnak, illetve azt – a jogi képviselővel rendelkező fél kivételével – nem kell-e hiánypótlásra visszaadni, és a szükséges intézkedéseket megteszi. Ha a jogi képviselővel nem rendelkező végrehajtást kérő a kérelmét nem a nyomtatványon terjesztette elő, a nyomtatványt nem a kellő példányban nyújtotta be, vagy nem megfelelően töltötte ki, a bíróság a hiányokat saját hatáskörben, a bírósági iratokban rendelkezésre álló adatok alapján is pótolhatja. A jogi képviselővel rendelkező fél hiányos kérelmét a bíróság visszautasítja. A bíróság az e § szerinti – valamint a közjegyző a 23/C. § szerinti – eljárása során a 11. § (2) bekezdés d) pontja szerinti alzálogjogosultra vonatkozó információk beszerzése érdekében megkeresi az ingatlanügyi hatóságot.
 
 (3) A bíróság a szóban előterjesztett kérelmet a végrehajtható okirat nyomtatvány kitöltésével foglalja írásba.
 
 (4) A bíróság a kérelem beérkezésétől, hiánypótlás esetén a hiányok pótlásától számított 15 napon belül dönt a végrehajtási kérelemről.
 
 (5) A végrehajtási eljárásban a végrehajtást kérő munkáltatót nem illeti meg a költségmentesség és a költségfeljegyzési jog.
+
+(6) Ha a végrehajtási kérelem tárgyát képező követelést zálogjog biztosítja és a zálogjogot alzálogjog is terheli, a bíróság – valamint a közjegyző a 23/C. § szerinti eljárása során – az alzálogjogosultra vonatkozó információk ingatlanügyi hatóság általi közlését követő 15 munkanapon belül tájékoztatja
+
+- a) az alzálogjogosultat, hogy a zálogjoggal biztosított követelésre vonatkozóan végrehajtási kérelmet terjesztett elő a zálogjogosult és arról, hogy amennyiben az alzálogjogosult a Polgári Törvénykönyv szerinti jogait gyakorolni kívánja, akkor azt a tájékoztatás kézhezvételét követő 15 munkanapon belül kell kérelmeznie a bíróságnál, vagy a 23/C. § szerinti eljárás esetén a közjegyzőnél, illetve
+- b) a zálogjogosultat, hogy felhívta az alzálogjogosultat, hogy amennyiben az a Polgári Törvénykönyv szerinti jogait gyakorolni kívánja, akkor azt a tájékoztatás kézhezvételét követő 15 munkanapon belül kell kérelmeznie a bíróságnál, vagy a 23/C. § szerinti eljárás esetén a közjegyzőnél.
+
+(7) Amennyiben az alzálogjogosult élni kíván a Polgári Törvénykönyv szerinti jogaival, a bíróság – valamint a közjegyző a 23/C. § szerinti eljárása során – a végrehajtható okiratot a kérelemtől eltérően állítja ki és az alzálogjogosultat jelöli meg végrehajtást kérőként. Erről a bíróság – a 23/C. § szerinti eljárás esetén a közjegyző – végzést hoz, amelyben kötelezi az alzálogjogosultat a végrehajtási kérelem előterjesztéséért fizetett illeték, díj összegének a kérelmet előterjesztő zálogjogosult részére történő megfizetésére. A bíróság – a 23/C. § szerinti eljárás esetén a közjegyző – a végzést a zálogjogosult és az alzálogjogosult részére is kézbesíti.
+
+(8) A (7) bekezdés szerint meghozott végzés ellen a zálogjogosult és az alzálogjogosult fellebbezéssel élhet.
 
 12/A. § (1) Az önálló bírósági végrehajtó hatáskörébe tartozó ügyben a végrehajtás iránti kérelmet a 11. § (2) és (3) bekezdésében foglaltak közlésével az illetékes végrehajtónál is elő lehet terjeszteni. Ebben az esetben a végrehajtható okirat nyomtatványt a végrehajtó tölti ki, és továbbítja a végrehajtás elrendelésére jogosult bírósághoz.
 
@@ -753,7 +765,7 @@ szereplő adatok alapján ellenőrizheti.
 
 48. § (1) A végrehajtást foganatosító bíróság köteles a végrehajtást felfüggeszteni, ha ezt kívánta a végrehajtást kérő, és a felfüggesztés másnak a jogát nem sérti.
 
-(2) Ha a zálogjogosult a 114/A. § (1) bekezdése, illetve a 140. § (6) bekezdése szerinti kérelmet terjesztett elő, a kérelem beérkezését követő 3 munkanapon belül a bíróság a végrehajtást felfüggeszti. A bíróság a végrehajtás felfüggesztéséről a végrehajtót azonnal értesíti, egyúttal részére a felfüggesztést elrendelő végzést haladéktalanul megküldi.
+(2) Ha a zálogjogosult – alzálogjog esetén az alzálogjogosult – a 114/A. § (1) bekezdése, illetve a 140. § (6) bekezdése szerinti kérelmet terjesztett elő, a kérelem beérkezését követő 3 munkanapon belül a bíróság a végrehajtást felfüggeszti. A bíróság a végrehajtás felfüggesztéséről a végrehajtót azonnal értesíti, egyúttal részére a felfüggesztést elrendelő végzést haladéktalanul megküldi.
 
 (3) A végrehajtást foganatosító bíróság az adós kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha az adós a felfüggesztésre okot adó, méltányolható körülményt igazolta, és az adóst a végrehajtási eljárás során korábban nem sújtották rendbírsággal.
 
@@ -1462,36 +1474,40 @@ ismételten benyújtja.
 
 ### A zálogjogosult bekapcsolódása a végrehajtási eljárásba
 
-114/A. § (1) A zálogjogosultnak a 114. § szerinti értesítés kézhezvételét követő 15 munkanapon belül előterjesztett kérelmére a végrehajtást foganatosító bíróság a soron kívül meghozott végzésével megállapítja a zálogjogosult kielégítési jogának megnyíltát, és engedélyezi, hogy a végrehajtási eljárásba bekapcsolódjék, ha a zálogjoggal biztosított követelés jogalapja és összegszerűsége – önálló zálogjog esetén a jogalap és az összegszerűség – nem vitatott.
+114/A. § (1) A zálogjogosultnak a 114. § szerinti – alzálogjog esetén az alzálogjogosultnak a 140. § (6) bekezdés szerinti – értesítés kézhezvételét követő 15 munkanapon belül előterjesztett kérelmére a végrehajtást foganatosító bíróság – alzálogjog esetén a 140. § (6a) és (6b) bekezdésére figyelemmel – a soron kívül meghozott végzésével megállapítja a zálogjogosult – alzálogjog esetén az alzálogjogosult – kielégítési jogának megnyíltát, és engedélyezi, hogy a végrehajtási eljárásba bekapcsolódjék, ha a zálogjoggal biztosított követelés jogalapja és összegszerűsége – önálló zálogjog esetén a jogalap és az összegszerűség – nem vitatott.
 
 (2) A kielégítési jog megnyíltát – szemben a végrehajtás általános feltételeivel – a bíróság az alapján állapítja meg, hogy a zálogtárgyat végrehajtási eljárás során lefoglalták. A kielégítési jog megnyíltát a foglalás ténye alapján nem lehet megállapítani, ha a zálogjogosult az adós hozzátartozója vagy olyan jogi személy, amelynek az adóssal való viszonyában többségi befolyás áll fenn, illetve a zálogjog alapítására a gazdálkodó szervezet és tagja között került sor.
 
-(3) A végzésnek tartalmaznia kell:
+(3) Az (1) bekezdésben meghatározott végzésnek tartalmaznia kell:
 
-- a) a zálogjogosult és az adós adatait,
+- a) a zálogjogosult – alzálogjog esetén az alzálogjogosult – és az adós adatait,
 - b) az adóssal szemben folyamatban levő végrehajtási ügy számát, az eljáró végrehajtó nevét,
-- c) a zálogjogosultnak a végrehajtási eljárásba történő bekapcsolódásáról hozott döntést,
+- c) a zálogjogosultnak – alzálogjog esetén az alzálogjogosultnak – a végrehajtási eljárásba történő bekapcsolódásáról hozott döntést,
 - d) a zálogjoggal biztosított, a végzés meghozatalának időpontjában fennálló követelés összegét,
 - e) a zálogtárgy adatait,
-- f) a zálogjognak az ingatlan-nyilvántartásba, a légi vagy vízi járművek lajstromába, illetőleg a MOKK-nál vezetett nyilvántartásba történő bejegyzésének időpontját.
+- f) a zálogjognak – alzálogjog esetén az alzálogjognak – az ingatlan-nyilvántartásba, a zálogjognak a légi vagy vízi járművek lajstromába, illetve a MOKK-nál vezetett nyilvántartásba történő bejegyzésének időpontját.
 
-(4) A bíróság a zálogjogosult kérelmét az adósnak és a végrehajtást kérőnek azzal a felhívással kézbesíti: a kézhezvételtől számított 8 napon belül nyilatkozzon arról, hogy a zálogjoggal biztosított követelés jogalapját – önálló zálogjog esetén a jogalapot – és összegszerűségét elismeri-e, illetőleg milyen összegben ismeri el. E §-ban foglalt eljárás során a jogalapot és összegszerűséget nem lehet vitatottnak tekinteni, ha azt közokiratba foglalták.
+(4) A bíróság a zálogjogosult kérelmét az adósnak és a végrehajtást kérőnek, valamint bejegyzett alzálogjog esetén az alzálogjogosultnak is azzal a felhívással kézbesíti, hogy a kézhezvételtől számított 8 napon belül nyilatkozzon arról, hogy a zálogjoggal biztosított követelés jogalapját – önálló zálogjog esetén a jogalapot – és összegszerűségét elismeri-e, illetve milyen összegben ismeri el. E §-ban foglalt eljárás során a jogalapot és összegszerűséget nem lehet vitatottnak tekinteni, ha azt közokiratba foglalták.
 
-(5) Ha az adós vagy bármelyik végrehajtást kérő a jogalapot vagy az összegszerűséget vitatja, és állítását valószínűsítette, az (1) bekezdés szerinti kérelmet a bíróság végzéssel elutasítja. Ebben az esetben a zálogjogosult perrel érvényesítheti a zálogjogból eredő igényét.
+(5) A bíróság az alzálogjogosult kérelmét a (4) bekezdéstől eltérően az adósnak, a végrehajtást kérőnek és az alzálogjoggal terhelt követelés zálogjogosultjának kézbesíti a (4) bekezdés szerinti felhívással.
 
-(6) Ha az adós vagy bármelyik végrehajtást kérő a zálogjoggal biztosított követelés összegszerűségét a zálogjogosult kérelmében foglalttól eltérő összegben ismerte el, a bíróság tájékoztatja erről a zálogjogosultat, aki ezen összeg tekintetében is kérheti az (1) bekezdés szerinti végzés meghozatalát.
+(6) Ha az adós vagy bármelyik végrehajtást kérő a jogalapot vagy az összegszerűséget vitatja, és állítását valószínűsítette, az (1) bekezdés szerinti kérelmet a bíróság végzéssel elutasítja. Ebben az esetben a zálogjogosult – alzálogjog esetén az alzálogjog jogosultja – perrel érvényesítheti a zálogjogból eredő igényét.
 
-(7) Az (1) bekezdés szerinti végzés jogerőre emelkedését követően a végrehajtást foganatosító bíróság a végrehajtásnak a 48. § (2) bekezdése alapján történt felfüggesztését megszünteti, és erről a végrehajtót értesíti. Meg kell szüntetni a végrehajtás felfüggesztését akkor is, ha a jogosult nem igazolta, hogy az (5) bekezdés szerinti végzés kézhezvételétől számított 8 munkanapon belül a pert megindította.
+(7) Ha az adós vagy bármelyik végrehajtást kérő a zálogjoggal biztosított követelés összegszerűségét a zálogjogosult kérelmében foglalttól eltérő összegben ismerte el, a bíróság tájékoztatja erről a zálogjogosultat – alzálogjog esetén az alzálogjogosultat is –, aki ezen összeg tekintetében is kérheti az (1) bekezdés szerinti végzés meghozatalát.
 
-(8) Az (1) bekezdés szerinti végzést meg kell küldeni a zálogjogosultnak, az adósnak, a végrehajtást kérőnek és a végrehajtónak.
+(8) Az (1) bekezdés szerinti végzés jogerőre emelkedését követően a végrehajtást foganatosító bíróság a végrehajtásnak a 48. § (2) bekezdése alapján történt felfüggesztését megszünteti, és erről a végrehajtót értesíti. Meg kell szüntetni a végrehajtás felfüggesztését akkor is, ha a jogosult nem igazolta, hogy a (6) bekezdés szerinti végzés kézhezvételétől számított 8 munkanapon belül a pert megindította.
 
-(9) A zálogjogosult, az adós és a végrehajtást kérő a végzés ellen fellebbezhet. Ha az adós vagy a végrehajtást kérő az (5) és (6) bekezdés szerint nyilatkozatot nem terjesztett elő, vagy nyilatkozatában a követelés fennállását vagy összegszerűségét elismerte, az ezzel ellentétes álláspontját fellebbezéssel sem érvényesítheti.
+(9) Az (1) bekezdés szerinti végzést meg kell küldeni a zálogjogosultnak – alzálogjog esetén az alzálogjogosultnak és az alzálogjoggal terhelt követelés zálogjogosultjának –, az adósnak, a végrehajtást kérőnek és a végrehajtónak.
 
-(10) A végrehajtási eljárásba e § alapján bekapcsolódó zálogjogosultra a végrehajtási eljárás illetékének és egyéb költségeinek (34. §) előlegezése és viselése, valamint a jogosultat a végrehajtási eljárás során megillető jogok és kötelezettségek tekintetében a végrehajtást kérőre irányadó szabályokat kell alkalmazni.
+(10) A zálogjogosult, az adós és a végrehajtást kérő – alzálogjog esetén az alzálogjogosult és az alzálogjoggal terhelt követelés zálogjogosultja is – a végzés ellen fellebbezhet. Ha az adós vagy a végrehajtást kérő a (6) és (7) bekezdés szerint nyilatkozatot nem terjesztett elő, vagy nyilatkozatában a követelés fennállását vagy összegszerűségét elismerte, az ezzel ellentétes álláspontját fellebbezéssel sem érvényesítheti.
 
-(11) Ha a végrehajtási eljárás folyamatban léte alatt a zálogtárgyat a bekapcsolódás engedélyezését követően másik végrehajtási eljárásban is lefoglalják, a bekapcsolódás hatálya e további végrehajtásra is kiterjed.
+(11) A végrehajtási eljárásba e § alapján bekapcsolódó zálogjogosultra – alzálogjog esetén az alzálogjogosultra – a végrehajtási eljárás illetékének és egyéb költségeinek (34. §) előlegezése és viselése, valamint a jogosultat a végrehajtási eljárás során megillető jogok és kötelezettségek tekintetében a végrehajtást kérőre irányadó szabályokat kell alkalmazni.
 
-(12) A bekapcsolódással indult végrehajtási eljárás – ha a zálogjogosultnak a bekapcsolódással érintett költségei megtérültek – a végrehajtás (bekapcsolódással érintett több végrehajtás esetén valamennyi végrehajtás) befejeződésével megszűnik.
+(12) Ha a végrehajtási eljárás folyamatban léte alatt a zálogtárgyat a bekapcsolódás engedélyezését követően másik végrehajtási eljárásban is lefoglalják, a bekapcsolódás hatálya e további végrehajtásra is kiterjed.
+
+(13) A bekapcsolódással indult végrehajtási eljárás – ha a zálogjogosultnak (alzálogjog esetén az alzálogjogosultnak) a bekapcsolódással érintett költségei megtérültek – a végrehajtás (bekapcsolódással érintett több végrehajtás esetén valamennyi végrehajtás) befejeződésével megszűnik.
+
+(14) Amennyiben a zálogjogosult (alzálogjog esetén az alzálogjogosult) – végrehajtható okirat kiállításával – kielégítési végrehajtást indít, úgy köteles a követelését biztosító végrehajtási jog bejegyzését követő 15 munkanapon belül kérelmezni a zálogjogosulti (alzálogjog esetén az alzálogjogosulti) bekapcsolódással indult ügy befejezését azzal, hogy ebben az ügyben kizárólag a (13) bekezdés szerinti bekapcsolódással érintett költségekre tarthat igényt.
 
 ### Az ingóság értékesítésének időpontja
 
@@ -1903,7 +1919,11 @@ ismételten benyújtja.
 
 (5) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a feleket a részletfizetés lehetőségéről és feltételeiről.
 
-(6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
+(6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat (alzálogjog esetén az alzálogjogosultat is) arról, hogy a zálogjogból (alzálogjog esetén alzálogjogból) fakadó igényét – ha az alapügyben a zálogjoggal biztosított követelése tekintetében nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb az annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
+
+(6a) A (6) bekezdés szerinti eljárás során az alzálogjogosult kizárólag abban az esetben érvényesítheti a végrehajtási eljárás során az alzálogjogból fakadó igényét, ha az alapügyben az alzálogjogosult és az alzálogjoggal terhelt követelés zálogjogosultja sem végrehajtást kérő.
+
+(6b) A (6) bekezdés szerinti eljárás során az alzálogjoggal terhelt követelés zálogjogosultja kizárólag abban az esetben érvényesítheti a végrehajtási eljárás során a zálogjogból fakadó igényét, ha az alzálogjogosult az alzálogjogból fakadó igényének érvényesítésére vonatkozó kérelmét nem jelentette be a végrehajtónál, és az alapügyben az alzálogjogosult és az alzálogjoggal terhelt követelés zálogjogosultja sem végrehajtást kérő.
 
 (7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság – szükség esetén szakértő közreműködésével – állapítja meg. A becsérték megállapításával szemben előterjesztett, a becsérték bíróság általi megállapítására irányuló végrehajtási kifogás előterjesztésével együtt letétbe kell helyezni az igazságügyi szakértő díjának fedezésére szolgáló, a miniszter rendeletében meghatározott összeget.
 
@@ -1911,7 +1931,7 @@ ismételten benyújtja.
 
 ### A zálogjogosult bekapcsolódása a végrehajtási eljárásba
 
-140/A. § A végrehajtást foganatosító bíróság a zálogjogosult végrehajtási eljárásba történő bekapcsolódásáról a zálogjogosultnak a 140. § (6) bekezdése szerinti kérelmére a 114/A. § szerint dönt.
+140/A. § A végrehajtást foganatosító bíróság a zálogjogosult (alzálogjog esetén az alzálogjogosult) végrehajtási eljárásba történő bekapcsolódásáról a zálogjogosultnak (alzálogjog esetén az alzálogjogosultnak) a 140. § (6) bekezdése szerinti kérelmére – figyelemmel a 140. § (6a)–(6b) bekezdésre – a 114/A. § szerint dönt.
 
 ### Az ingatlan-nyilvántartásba bejegyzett jogok jogosultjainak értesítése
 
@@ -2150,7 +2170,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 157. § (1) A végrehajtó az ingatlant a felek kívánságára — az általuk meghatározott vevő részére és az általuk megállapított becsértéken — árverésen kívül, de árverési vétel hatályával adja el.
 
-(2) Ha az (1) bekezdés szerinti értékesítésből befolyó vételárból a végrehajtási eljárás költsége és valamennyi végrehajtást kérő – ideértve a végrehajtási eljárásba bekapcsolódott zálogjogosultakat is – követelése előreláthatólag kielégíthető, és az ingatlanra vonatkozólag más érdekeltnek nincs az ingatlan-nyilvántartásba bejegyzett joga, az árverésen kívüli eladáshoz nem szükséges a végrehajtást kérők beleegyezése. Ebben az esetben a végrehajtó az ingatlant az adós által megjelölt személynek az adós által megállapított becsértéken adja el.
+(2) Ha az (1) bekezdés szerinti értékesítésből befolyó vételárból a végrehajtási eljárás költsége és valamennyi végrehajtást kérő – ideértve a végrehajtási eljárásba bekapcsolódott zálogjogosultakat (alzálogjog esetén az alzálogjogosultat) is – követelése előreláthatólag kielégíthető, és az ingatlanra vonatkozólag más érdekeltnek nincs az ingatlan-nyilvántartásba bejegyzett joga, az árverésen kívüli eladáshoz nem szükséges a végrehajtást kérők beleegyezése. Ebben az esetben a végrehajtó az ingatlant az adós által megjelölt személynek az adós által megállapított becsértéken adja el.
 
 (3) Ha az ingatlanra vonatkozólag más érdekeltnek az ingatlan-nyilvántartásba bejegyzett — a 137. §-ban fel nem sorolt — joga van, az árverésen kívüli eladáshoz az ő beleegyezése szükséges.
 
@@ -2259,9 +2279,9 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 170. § (1) Ha az ingatlan, továbbá a vízi, illetőleg a légi jármű értékesítéséből befolyt összegből jelzálogjoggal biztosított követelést is ki kell elégíteni, az ilyen követelést – a (3) bekezdésben foglalt kivétellel – a 165. § (1) bekezdés d)–h) pontjában meghatározott követeléseket megelőzően kell kielégíteni.
 
-(2) Jelzálogjoggal biztosított több követelés esetén e követeléseket a bejegyzett jelzálogjogok rangsorában kell kielégíteni.
+(2) Jelzálogjoggal biztosított (alzálogjog esetén alzálogjoggal terhelt) több követelés esetén e követeléseket a bejegyzett jelzálogjogok (alzálogjog esetén az alzálogjoggal terhelt követelés zálogjogosultjának zálogjoga) rangsorában kell kielégíteni.
 
-(3) Ha a jelzálogjog ingatlan-nyilvántartásba történő bejegyzésére a végrehajtási jog ranghelyét követően került sor, a jelzálogjoggal biztosított követelést azon követelést követően lehet – az (1) és (2) bekezdés rendelkezéseinek alkalmazásával – kielégíteni, amelyre e végrehajtási jog vonatkozik.
+(3) Ha a jelzálogjog – alzálogjog esetén az alzálogjoggal terhelt követelés zálogjogosultjának zálogjoga – ingatlan-nyilvántartásba történő bejegyzésére a végrehajtási jog ranghelyét követően került sor, a jelzálogjoggal biztosított – alzálogjog esetén az alzálogjoggal terhelt – követelést azon követelést követően lehet – az (1) és (2) bekezdés rendelkezéseinek alkalmazásával – kielégíteni, amelyre e végrehajtási jog vonatkozik.
 
 ### Kielégítés a gépjármű értékesítéséből befolyt összegből
 
@@ -4637,6 +4657,10 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (4) A Módtv.15-tel megállapított 217/B. § (1a) és (1b) bekezdését, valamint a 230. § (1b) bekezdését a Módtv.15. hatálybalépésekor folyamatban lévő végrehajtási eljárások során is alkalmazni kell a Módtv.15. hatálybalépését követően jogerőre emelkedő határozatok esetén.
 
 (5) A 2026. január 1-jét megelőzően benyújtott szolgálat folyamatosságának megállapítása iránti kérelmek esetében a Módtv.15.-tel megállapított 234/A. § (1) bekezdés b) pontja szerinti feltétel fennállásának megállapítása során a 2023. július 1-jétől a kérelem benyújtásáig terjedő időszakot kell figyelembe venni.
+
+304/M. § (1) A 2023. szeptember 1. és 2024. december 31. napja közötti időszakban benyújtott végrehajtási kérelmek esetén a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel (a továbbiakban: Módtv.16.) megállapított 11. § (2) bekezdése, valamint 12. § (2) és (6)–(8) bekezdése szerinti eljárás során az alzálogjogosult – ha nincs az ingatlan-nyilvántartásba bejegyzett alzálogjoga – jogosultságát igazolhatja a közjegyző által az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény alapján kiállított, az alzálogjog fennállásának igazolásáról szóló jogerős bizonyítvánnyal.
+
+(2) A Módtv.16.-tal megállapított 114/A. § (14) bekezdés rendelkezéseit a 2023. szeptember 1. napján folyamatban lévő zálogjogosulti bekapcsolódással indult végrehajtási ügyekben is alkalmazni kell.
 
 304/O. § A Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 243. § (2a) bekezdés rendelkezéseit a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvény hatálybalépésekor folyamatban lévő helyettesítések során is alkalmazni kell a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvény hatálybalépését követő 30. naptól.
 

@@ -406,7 +406,7 @@ együttesen kell figyelembe venni.
 
 30. § A biztosítással járó jogviszony megszűnését követően, e jogviszony alapján kifizetett (juttatott) járulékalapot képező jövedelmet úgy kell figyelembe venni, mintha annak kifizetésére a jogviszony fennállásának utolsó napján került volna sor.
 
-31. § A biztosítás szünetelése alatt a szünetelést megelőzően fennálló biztosítással járó jogviszony alapján kifizetett (juttatott) járulékalapot képező jövedelmet úgy kell figyelembe venni, mintha annak kifizetésére a szünetelés kezdő napját megelőző napon került volna sor.
+31. § A biztosítás szünetelése alatt a szünetelést megelőzően fennálló biztosítással járó jogviszony alapján kifizetett (juttatott), megszerzett járulékalapot képező jövedelmet (ideértve az olyan bevételt, amelyből jövedelmet kell megállapítani) úgy kell figyelembe venni, mintha annak kifizetésére, megszerzésére a szünetelés kezdő napját megelőző napon került volna sor.
 
 #### 10. Járulékalapot nem képező jövedelem
 
@@ -1585,9 +1585,9 @@ a 25 százalékot.
 #### Igazolások
 
 - 1. A 6. § (1) bekezdés b) pontjában meghatározott tanulmányokat folytató tanuló, hallgató e minőségét a következő dokumentumokkal igazolja:
-  - a) a köznevelési intézmény által kiállított tanulói jogviszony-igazolás,
-  - b) a szakképző intézmény által kiállított tanulói jogviszony-igazolás,
-  - c) a felsőoktatási intézmény által kiállított hallgatói jogviszony-igazolás,
+  - a)
+  - b)
+  - c)
   - d) az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott, nappali típusú diákigazolvány,
   - e) az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet szerint a tanköteles kor felső határát az adott tanévben betöltő tanuló esetén az érvényesítő matrica nélküli diákigazolvány, vagy
   - f) a közreműködő intézmény által kiadott, a d) pont szerinti diákigazolványra való jogosultságról szóló igazolás.

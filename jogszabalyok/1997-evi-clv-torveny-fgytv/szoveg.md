@@ -141,7 +141,7 @@ törekszik a hulladékképződés megelőzésére.
 
 (2) Tilos tizennyolcadik életévét be nem töltött személy részére szexuális terméket értékesíteni, illetve kiszolgálni.
 
-(3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket értékesíteni, illetve kiszolgálni.
+(3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket, valamint vízipipát értékesíteni, illetve kiszolgálni.
 
 (4) Az (1)–(3) bekezdésben meghatározott korlátozás érvényesítése érdekében a vállalkozás vagy annak képviselője kétség esetén felhívja a fogyasztót életkorának hitelt érdemlő igazolására. Az életkor megfelelő igazolásának hiányában a termék értékesítését, illetve kiszolgálását meg kell tagadni.
 

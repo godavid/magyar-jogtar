@@ -5520,7 +5520,7 @@ Ha a közös szülői felügyelet gyakorlása során a szülők valamely kérdé
 
 (1) A szülői felügyelet gyakorlásának és a gyermek harmadik személynél történő elhelyezésének megváltoztatása a bíróságtól akkor kérhető, ha azok a körülmények, amelyeken a szülők megállapodása vagy a bíróság döntése alapult, utóbb lényegesen módosultak, és ennek következtében a megváltoztatás a gyermek érdekében áll. Nem hivatkozhat a körülmények megváltozása folytán a gyermek érdekére az a szülő, aki a változást felróható magatartásával maga idézte elő, így különösen, ha a gyermeket jogosulatlanul vette magához vagy tartja magánál.
 
-(2) Ha a közös szülői felügyelet gyakorlása során a szülők már nem tudnak együttműködni, a közös szülői felügyeletet a bíróság bármelyik szülő kérelmére megszünteti.
+(2) Ha a közös szülői felügyelet gyakorlása során a szülők már nem tudnak együttműködni, a közös szülői felügyeletet a bíróság bármelyik szülő kérelmére megszüntetheti.
 
 #### 4:171. § [A szülői felügyelet gyakorlásának rendezése és a gyermek harmadik személynél történő elhelyezése iránti per]
 
@@ -6848,6 +6848,8 @@ kell bejegyezni.
 
 alapítható.
 
+(1a) A fogyasztói zálogszerződés kivételével az óvadékot alapító zálogszerződésben az alapul szolgáló jogviszonyon kívül mellőzhető a követelés összegének vagy annak az összegnek a meghatározása, amelynek erejéig a zálogjogosult az óvadékból kielégítést kereshet.
+
 (2) Óvadékot pénzen és nem dematerializált értékpapíron kézizálogjogként, dematerializált értékpapíron, fizetésiszámla-követelésen és jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon pedig úgy kell alapítani, hogy annak eredményeként az óvadék tárgya egyértelműen azonosítható módon az óvadék kötelezettjének hatalmából az óvadék jogosultjának hatalmába kerüljön, vagy az óvadék kötelezettjének korlátlan rendelkezése alól egyébként kikerüljön.
 
 (3) Dematerializált értékpapíron és fizetésiszámla-követelésen óvadék
@@ -6906,7 +6908,7 @@ is alapítható.
 
 (3) A zálogjogot – az önálló zálogjog kivételével – a zálogjoggal biztosított követeléssel együtt lehet átruházni vagy megterhelni.
 
-(4) A zálogjoggal biztosított követelés alzálogjog alapítása útján terhelhető meg zálogjoggal. Az alzálogjog tárgya a zálogjog és az általa biztosított követelés, az alzálogjogra – ha e törvény eltérően nem rendelkezik – a zálogjogra vonatkozó szabályok irányadók.
+(4) Alzálogjog a zálogjoggal biztosított követelés elzálogosításával alapítható. Az alzálogjog tárgya a zálogjog és az általa biztosított követelés, az alzálogjogra – ha e törvény eltérően nem rendelkezik – a zálogjogra vonatkozó szabályok irányadók azzal, hogy jelzálogjoggal biztosított követelés elzálogosítása esetén az alzálogjogot az ezt alapító zálogszerződésben megjelölt követelés összegének a nyilvántartásban történő feltüntetése nélkül abba a nyilvántartásba kell bejegyezni, amelybe az alzálogjog tárgyául szolgáló követelést biztosító jelzálogjogot bejegyezték.
 
 #### 5:100. § [Az önálló zálogjog]
 
@@ -7306,13 +7308,22 @@ Semmis az olyan megállapodás, amely szerint a zálogjogosult kielégítési jo
 
 (2) Ha az elzálogosított követelés kezességgel van biztosítva, a zálogjogosult a kezességből fakadó jogokat a követelés kezesével szemben a kezesség jogosultjára irányadó szabályok szerint – a vele való elszámolási kötelezettség mellett – gyakorolhatja.
 
-#### 5:140. § [Alzálogjog érvényesítése]
+#### 5:140. § [Az alzálogjog érvényesítése]
 
-(1) Az alzálogjog jogosultja a zálogjogosultnak a zálogjogból fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.
+(1) Az alzálogjog jogosultja (a továbbiakban: alzálogjogosult) – a kielégítési jogának megnyílását követően – választása szerint
 
-(2) Az alzálogjog jogosultja e jogából fakadó jogait úgy köteles gyakorolni, hogy azzal a zálogjogosult zálogjoggal biztosított követelésének megtérülését ne veszélyeztesse. Az alzálogjog érvényesítése eredményeként az ennek jogosultjához az alzálogjoggal biztosított követelést meghaladóan befolyt pénzösszegen vagy más vagyontárgyon a zálogjogosultat az alzálogjogosulttal szembeni elszámolási igénye biztosítására zálogjog illeti meg.
+- a) gyakorolhatja az elzálogosított követelést biztosító zálogjog jogosultjának jogait, vagy
+- b) az elzálogosított követelést biztosító zálogjog jogosultja helyébe léphet.
 
-(3) Ha a zálogjog tárgyául szolgáló követelés kezességgel van biztosítva, a zálogjogosult a kezességből fakadó jogait a követelés kezesével szemben – a (2) bekezdés megfelelő alkalmazásával – a kezesség jogosultjára irányadó szabályok szerint gyakorolhatja.
+A felek megállapodhatnak abban, hogy az alzálogjogosult csak az a) vagy csak a b) pont szerint járhat el.
+
+(2) Az alzálogjogosult az alzálogjog érvényesítésének (1) bekezdés szerinti módjáról a zálogjogosultat, a zálogjoggal biztosított követelés kötelezettjét, vagy ha az nem azonos a zálogjoggal biztosított követelés kötelezettjével, akkor a zálogkötelezettet is címzett írásbeli nyilatkozattal értesíti.
+
+(3) Az alzálogjogosult e jogából fakadó jogait úgy köteles gyakorolni, hogy azzal a zálogjogosult zálogjoggal biztosított követelésének megtérülését ne veszélyeztesse. Az alzálogjog érvényesítése eredményeként az alzálogjogosult a zálogjogosulttal köteles elszámolni és az alzálogjoggal biztosított követelését meghaladóan befolyt pénzösszeget vagy ennek helyébe lépő más vagyontárgyat részére kiadni.
+
+(4) Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjogosult kérésére köteles a zálogtárgy birtokát részére átruházni.
+
+(5) Ha az alzálogjogosult a zálogjogosult helyébe lép, a zálogjoggal biztosított követelés és a zálogjog az alzálogjogosultra száll át, aki zálogjogosultként követelheti a zálogtárgy birtokának (4) bekezdés szerinti átruházását, illetve a rá átszálló jelzálogjognak a javára való bejegyzéséhez szükséges jognyilatkozatok kiadását.
 
 #### 5:141. § [Követelést megtestesítő értékpapírok]
 
@@ -8790,7 +8801,7 @@ A teljesítéssel a kárveszély - ha e törvény eltérően nem rendelkezik - a
 - d) rendelkeznie kell a kötelezett által adott leírásban szereplő vagy az általa a jogosultnak mintaként bemutatott szolgáltatásra jellemző tulajdonságokkal; és
 - e) meg kell felelnie a jogszabályban meghatározott minőségi követelményeknek.
 
-(2) A szolgáltatásnak nem kell megfelelnie a (2) bekezdés c) pontjában említett nyilvános kijelentésnek, ha a kötelezett bizonyítja, hogy
+(2) A szolgáltatásnak nem kell megfelelnie az (1) bekezdés c) pontjában említett nyilvános kijelentésnek, ha a kötelezett bizonyítja, hogy
 
 - a) a nyilvános kijelentést nem ismerte, és azt nem is kellett ismernie;
 - b) a nyilvános kijelentést a szerződéskötés időpontjáig már megfelelő módon helyesbítették; vagy

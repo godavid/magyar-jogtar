@@ -981,6 +981,7 @@ irányuló követelés érvényesíthető, amely a vád tárgyává tett cselekm
 - l) a kézbesítési megbízott,
 - m) a Védelmi Programban részt vevő személy védelmét ellátó személy,
 - n) a pártfogó ügyvéd.
+- o) a tolmácsolási feladatokat ellátó személy.
 
 (2) Nem lehet segítő,
 
@@ -1203,17 +1204,30 @@ terjed ki.
 
 (2) Ha az anyanyelv használata aránytalan nehézségbe ütközne, a magyar nyelvet nem ismerő személy által ismertként megjelölt más nyelv használatát kell tolmács útján biztosítani.
 
-(3) Ha a kihallgatandó személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásbeli vallomást is tehet.
+(3) Ha a büntetőeljárásban részt vevő személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásbeli vallomást is tehet.
 
-(4) Ha a kihallgatandó személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni.
+(4) Ha a büntetőeljárásban részt vevő személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni.
 
-(5) Ha a kihallgatandó személy beszédfogyatékos, kérésére a kihallgatás helyett írásban tehet vallomást.
+(5) Ha a büntetőeljárásban részt vevő személy beszédfogyatékos, kérésére a kihallgatás helyett írásban tehet vallomást.
 
-(6) Ha a kihallgatandó személy a (3)–(5) bekezdésben meghatározottakon kívül más okból nem képes kommunikálni, vagy abban súlyos fokban korlátozott, jelnyelvi tolmács közreműködésével kell kihallgatni vagy a kommunikációt más megfelelő módon kell biztosítani.
+(6) Ha a büntetőeljárásban részt vevő személy a (3)–(5) bekezdésben meghatározottakon kívül más okból nem képes kommunikálni, vagy abban súlyos fokban korlátozott, jelnyelvi tolmács közreműködésével kell kihallgatni vagy a kommunikációt más megfelelő módon kell biztosítani.
 
 (7) Az e törvény szerint kézbesítendő ügyirat lefordításáról az a bíróság, ügyészség, illetve nyomozó hatóság gondoskodik, amelyik a határozatot meghozta vagy az egyéb ügyiratot kibocsátotta.
 
 (8) Törvény eltérő rendelkezése hiányában a kézbesítendő ügyiratot nem kell lefordítani, ha erről a címzett kifejezetten lemond.
+
+(9) Az eljárási cselekményről értesített büntetőeljárásban részt vevő személy részére az (1) és (2) bekezdés alapján akkor kell tolmácsot kirendelni, ha azt a büntetőeljárásban részt vevő személy az értesítés közlését követő, az eljáró szerv által – az eljárási cselekmény időpontjára figyelemmel – meghatározott határidőn belül indítványozza.
+
+(10) A (9) bekezdésben foglaltakra az eljárási cselekményről értesített büntetőeljárásban részt vevő személyt az értesítésben figyelmeztetni kell.
+
+(11) Az eljárási cselekményen jelenlétre jogosult sértett, vagyoni érdekelt, egyéb érdekelt nyelvhasználatának biztosítása érdekében igénybe veheti az általa megjelölt, az eljárási cselekményen jelenlevő, tolmácsnak nem minősülő, tolmácsolási feladatokat ellátó személyt (a továbbiakban: tolmácsolási feladatokat ellátó segítő). Az eljáró bíróság, ügyészség, nyomozó hatóság a tolmácsolási feladatokat ellátó segítő igénybe vételére vonatkozó indítványról határozat meghozatala nélkül dönt.
+
+(12) A tolmácsolási feladatokat ellátó segítő nem vehető igénybe
+
+- a) a magánvádló vagy a pótmagánvádló részvételével tartott eljárási cselekményen, és
+- b) az olyan eljárási cselekményen, amelyen a sértettet, a vagyoni érdekeltet, illetve az egyéb érdekeltet tanúként vagy terheltként kell kihallgatni, szakértőként kell meghallgatni vagy tőle tárgyi bizonyítási eszközt vagy elektronikus adatot kell lefoglalni.
+
+(13) A tolmácsolási feladatokat ellátó segítő igénybevételét a bíróság, az ügyészség és a nyomozó hatóság megtagadhatja, ilyenkor azonban köteles tolmácsot kirendelni.
 
 ### Soron kívüli eljárás
 
@@ -2284,6 +2298,7 @@ rendelkezéseket kell értelemszerűen alkalmazni.
 - a) az a díj vagy költség, amelyet a büntetőeljárásban, illetve a büntetőeljárással összefüggésben az állam előlegezett,
 - b) a terhelt, a sértett, a vagyoni érdekelt és az egyéb érdekelt költsége, akkor is, ha azt az állam nem előlegezte,
 - c) a kirendelt védő, a törvényes képviselő és a meghatalmazott képviselő díja és költsége, akkor is, ha azt az állam nem előlegezte.
+- d) tolmácsolási feladatokat ellátó segítő díja és költsége, ha azt az állam közigazgatási eljárásban előlegezte.
 
 (2) Az (1) bekezdés a) pontja szerinti bűnügyi költség különösen a tanú költsége, a szakértő, és a szaktanácsadó munkadíja és költsége, illetve a lefoglalt dolog szállításának és megőrzésének költsége.
 
@@ -3784,6 +3799,8 @@ határidő állapítható meg.
 
 (5) A szaktanácsadó a közreműködésével végzett eljárási cselekményre vonatkozóan tanúként hallgatható ki.
 
+(6) Az Europol tisztviselője az (1) bekezdés alapján a büntetőeljárásban szaktanácsadóként vehető igénybe.
+
 ## NYOLCADIK RÉSZ — A KÉNYSZERINTÉZKEDÉSEK
 
 ### XLIII. Fejezet — A KÉNYSZERINTÉZKEDÉSEK ALKALMAZÁSÁNAK ÁLTALÁNOS SZABÁLYAI
@@ -4991,6 +5008,22 @@ fejezi be.
 
 (5) Ha a Btk. 75. § (1) bekezdés alkalmazásának lehet helye, a zár alá vételt elsősorban a terhelt rendelkezése alatt álló vagyonra kell elrendelni.
 
+### A nyomozó hatóság jogszabályban meghatározott szerve
+
+354/A. § (1) Ha az egyidejűleg elvégzendő eljárási cselekmények számára tekintettel vagy egyéb okból célszerű, akkor az általa meghatározott eljárási cselekmény elvégzése érdekében a nyomozó hatóság a szervezetén belül megkeresheti a jogszabályban meghatározott szervét (e § alkalmazásában a továbbiakban: nyomozó hatóság kijelölt szerve).
+
+(2) Az ügyészség az (1) bekezdésben meghatározottak érdekében bármely nyomozó hatóság kijelölt szervét megkeresheti.
+
+(3) A nyomozó hatóság kijelölt szerve minden olyan adatot megismerhet, amely a megkeresés teljesítéséhez szükséges.
+
+(4) A nyomozó hatóság kijelölt szerve a megkeresésben szereplő eljárási cselekményt a megkereső rendelkezése alapján, önállóan elvégzi. A nyomozó hatóság kijelölt szerve az eljárási cselekmény elvégzése során felmerülő, késedelmet nem tűrő esetben önállóan elvégzi a megkereséssel összefüggő egyéb eljárási cselekményt is.
+
+(5) Az eljárási cselekmény elvégzéséhez szükséges határozat meghozataláról a megkereső gondoskodik.
+
+(6) A nyomozó hatóság kijelölt szerve az eljárási cselekmény elvégzését követően az eljárási cselekménnyel összefüggő ügyiratokat megküldi a megkeresőnek, továbbá gondoskodik az őrizetben lévő személy elszállításáról, valamint a vagyont érintő kényszerintézkedés tárgyának a jogszabályban meghatározottak szerinti kezeléséről.
+
+(7) A megkereső intézkedik az eljárási cselekmény alapjául szolgáló, valamint az eljárási cselekmény során hozott határozattal szemben bejelentett panasz elbírálása érdekében.
+
 ### A polgári jogi igény érvényesítése a nyomozás során
 
 355. § (1) A sértett a polgári jogi igény érvényesítésének szándékát jogszabályban meghatározottak szerint a vádemelés előtt is bejelentheti. Ha az ügyészség vádat emel, a sértett e bejelentését a vádirattal egyidejűleg továbbítja a bíróságnak.
@@ -5452,6 +5485,8 @@ elrendelését sérelmezte,
 (4) A külföldi állampolgár terhelt, bűncselekmény elkövetésével megalapozottan gyanúsítható személy, ezek védője, illetve külföldi állampolgár sértett vagy tanú indítványára a kihallgatásán, valamint a részvételével tartott más eljárási cselekményen jelen lehet államának konzuli tisztviselője.
 
 (5) A támogatót és a konzuli tisztviselőt kivéve akinek a jelenlétét az eljárási cselekményen e törvény lehetővé teszi, a gyanúsítotthoz, a szakértőhöz és a tanúhoz kérdéseket intézhet, észrevételeket, indítványokat tehet. A kérdésfeltevés tilalmára, illetve a válaszadás megtiltására a tanú és a terhelt kihallgatására, valamint a szakértő kirendelésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(6) A tolmácsolási feladatokat ellátó segítő az eljárási cselekményről értesített sértett, vagyoni érdekelt vagy egyéb érdekelt nyelvhasználatának biztosítása érdekében jelen lehet az eljárási cselekményen.
 
 384. § (1) Az ügyészség és a nyomozó hatóság az eljárási cselekmény helyszínéről eltávolíthatja azt, akinek a jelenléte az eljárást akadályozza és azt is, aki az eljárási cselekményen nem lehet jelen, illetve a nyomozás elősegítése érdekében a büntetőeljárásban részt vevő személyt az eljárási cselekmény helyszínén való tartózkodásra kötelezhet.
 
@@ -6460,6 +6495,8 @@ tárgyában.
 (6) A magyar nyelvet nem értő vádlott részére a kihirdetés után az ítélet és az ügydöntő végzés rá vonatkozó részét az általa az eljárásban korábban használt nyelvre le kell fordítani, és azt a részére kézbesíteni kell.
 
 (7) Az ügydöntő határozat közlésével egyidejűleg tájékoztatni kell a terheltet a kártalanítási igényének jogalapjáról, arról, hogy választása szerint igényét egyszerűsített kártalanítási eljárásban vagy kártalanítási perben érvényesítheti, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről.
+
+(8) Az ügydöntő határozat közlésével egyidejűleg tájékoztatni kell a terheltet a kiszabott büntetéssel vagy alkalmazott intézkedéssel kapcsolatos végrehajtási jogsegély kezdeményezésének lehetőségéről, a végrehajtás átadásának feltételeiről és következményeiről.
 
 ### A határozatok jogereje, véglegessége és ennek tanúsítása
 
@@ -9031,7 +9068,7 @@ terjeszthet elő felülvizsgálati indítványt.
 - 7.
 - 8. a Btk. 52. § (3) bekezdésben meghatározott foglalkozástól eltiltásról, vagy arról, hogy mely foglalkozástól tiltja el a terheltet,
 - 9. a járművezetéstől eltiltás utólagos beszámításáról,
-- 10. a kitiltás helyéről,
+- 10. a kitiltás helyéről vagy a Btk. 60. § (2a) bekezdésében meghatározott esetben a kiutasítás tartamáról,
 - 11. sportrendezvények látogatásától való eltiltás esetén sportszövetség vagy sportlétesítmény meghatározásáról,
 - 12. az elkobzásról, a vagyonelkobzásról vagy az elektronikus adat végleges hozzáférhetetlenné tételéről, a lefoglalt dologról, a zár alá vétel feloldásáról,
 - 13. a próbára bocsátás megszüntetéséről,
@@ -11862,6 +11899,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 
 (4) Jogegységi eljárást az e törvény hatálybalépése előtt befejezett vagy a hatálybalépéskor folyamatban lévő ügyben is lehet indítványozni.
 
+(5) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 671. § 10. pontja alapján egyszerűsített felülvizsgálatnak csak az e rendelkezés módosításának hatálybalépését követően benyújtott rendkívüli jogorvoslati indítvány esetén van helye a Btk. 60. § (2a) bekezdésében meghatározott kiutasítás tartamával kapcsolatos törvénysértés miatt.
+
 876. § (1) Ha a bíróság e törvény hatálybalépését megelőzően a bíróság elé állítás során az ügyiratokat az ügyészségnek visszaküldi, e törvény hatálybalépését követően a további eljárást e törvény rendelkezései szerint kell lefolytatni.
 
 (2) Ha a bíróság a végzését tárgyalás mellőzésével e törvény hatálybalépése előtt hozta meg, és tárgyalás tartását kérték, az eljárást e törvény szerint kell lefolytatni.
@@ -11932,6 +11971,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 való megfelelést szolgálja.
 
 878/A. § Ez a törvény a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+878/B. § Ez a törvény az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Hatályon kívül helyező rendelkezés
 
