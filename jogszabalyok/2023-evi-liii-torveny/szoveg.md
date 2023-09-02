@@ -8,29 +8,7 @@ Magyarország 2024. évi központi költségvetésének megalapozásáról
 
 #### 2. §
 
-3. § A közúti közlekedésről szóló 1988. évi I. törvény
-
-1. 12. § (4) bekezdésében a „100 000 forinttól 500 000 forintig” szövegrész helyébe a „130 000 forinttól 650 000 forintig” szöveg,
-
-2. 14/A. § (8) bekezdésében az „500 000 forintig” szövegrész helyébe a „650 000 forintig” szöveg,
-
-3. 18. § (7) bekezdésében az „A bírság ismételten kiszabható.” szövegrész helyébe az „A bírság összege legfeljebb 13 000 000 Ft lehet, a bírság ismételten kiszabható.” szöveg,
-
-4. 18. § (17) bekezdés b) pontjában a „10 millió forintig” szövegrész helyébe a „13 millió forintig” szöveg,
-
-5. 20. § (4) bekezdésében a „10 000 forinttól 800 000 forintig” szövegrész helyébe a „13 000 forinttól 1 040 000 forintig” szöveg, a „10 000 forinttól 300 000 forintig” szövegrész helyébe a „13 000 forinttól 390 000 forintig” szöveg,
-
-6. 21. § (2) bekezdés a) pontjában a „10 000 forinttól 300 000 forintig” szövegrész helyébe a „13 000 forinttól 390 000 forintig” szöveg,
-
-7. 21. § (2) bekezdés b) pontjában a „10 000 forinttól 800 000 forintig” szövegrész helyébe a „13 000 forinttól 1 040 000 forintig” szöveg,
-
-8. 22/A. § (1) bekezdésében a „100 000 forinttól 1 000 000 forintig” szövegrész helyébe a „130 000 forinttól 1 300 000 forintig” szöveg,
-
-9. 23. § (4b) bekezdésében a „100 000 forinttól 1 000 000 forintig” szövegrész helyébe a „130 000 forinttól 1 300 000 forintig” szöveg, és
-
-10. 24/A. § (5a) bekezdésében a „100 000 forinttól 1 000 000 forintig” szövegrész helyébe a „130 000 forinttól 1 300 000 forintig” szöveg
-
-lép.
+#### 3. §
 
 #### 2. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
@@ -66,13 +44,11 @@ lép.
 
 #### 7. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-15. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 78. § (1b) bekezdése helyébe a következő rendelkezés lép:
-
-„(1b) A bírság összege legfeljebb a vállalkozás, illetve azon – a határozatban azonosított – vállalkozáscsoport a határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tizenhárom százaléka lehet, amelynek a bírsággal sújtott vállalkozás a tagja. A vállalkozások társulásával szemben kiszabott bírság összege legfeljebb a tagvállalkozások előző üzleti évben elért nettó árbevételének tizenhárom százaléka lehet. Vállalkozások társulása esetén az egyes tagvállalkozások pénzügyi felelőssége nem haladhatja meg a határozat meghozatalát megelőző üzleti évben elért nettó árbevételük tizenhárom százalékát.”
+#### 15. §
 
 #### 8. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-16. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 38/C. § (4) bekezdésében a „20 000” szövegrész helyébe az „50 000” szöveg lép.
+#### 16. §
 
 #### 9. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
@@ -172,7 +148,7 @@ lép.
 
 #### 14. A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény módosítása
 
-48. § A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 6. § (1) és (3) bekezdésében az „ötszázezer” szövegrész helyébe a „hatszázötvenezer” szöveg lép.
+#### 48. §
 
 #### 15. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -278,27 +254,7 @@ lép.
 
 #### 86. §
 
-87. § Az államháztartásról szóló 2011. évi CXCV. törvény
-
-1. 1. § 11. pontjában az „az Eötvös Loránd Kutatási” szövegrész helyébe az „a Magyar Kutatási” szöveg,
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8. 106/D. § (3) bekezdésében az „az Eötvös Loránd Kutatási” szövegrész helyébe az „a Magyar Kutatási” szöveg, és
-
-9.
-
-lép.
+#### 87. §
 
 #### 88. §
 
@@ -311,39 +267,13 @@ lép.
 
 #### 24. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-90. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 90. §
 
-„(1) A pénzbírság legalacsonyabb összege – e törvény eltérő rendelkezése hiányában – hatezerötszáz forint, legmagasabb összege kettőszázezer forint, szabálysértési elzárással is büntethető szabálysértések esetén négyszázezer forint.”
+#### 91. §
 
-91. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 27. § (2) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+#### 92. §
 
-(Fiatalkorú esetén)
-
-„b) a pénzbírság legmagasabb összege hatvanötezer forint, szabálysértési elzárással is büntethető szabálysértések esetén százharmincezer forint,
-
-c) a helyszíni bírság legmagasabb összege harminckettőezer-ötszáz forint.”
-
-92. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A helyszíni bírság összege – a (2a) bekezdés kivételével – hatezerötszáz forinttól hatvanötezer forintig, hat hónapon belül újabb szabálysértés elkövetése esetén kilencvenezer forintig terjedhet.”
-
-(2) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Ha kötelező mértékű helyszíni bírsággal sújtandó szabálysértés és más szabálysértés egyidejű elbírálására kerül sor, a kiszabható helyszíni bírság nem lehet kevesebb, mint a kötelező mértékű helyszíni bírság, de az nem haladhatja meg az hatvanötezer forintot, ismételt elkövetés esetén a kilencvenezer forintot.”
-
-93. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény
-
-1. 11. § (2) bekezdésében a „kettőszáz forint” szövegrész helyébe „háromszáz forint” szöveg,
-
-2. 12. § (1) bekezdésében az „ötezer forintonként” szövegrész helyébe „hatezerötszáz forintonként” szöveg és az „ötezerrel” szövegrész helyébe „hatezerötszázzal” szöveg,
-
-3. 99. § (2a) bekezdés b) pontjában az „ötezer forinttól százötvenezer forintig” szövegrész helyébe a „hatezerötszáz forinttól kettőszázezer forintig” szöveg,
-
-4. 142. § (3) bekezdésében az „ötezer forintonként” szövegrész helyébe a „hatezerötszáz forintonként” szöveg és az „ötezerrel” szövegrész helyébe „hatezerötszázzal” szöveg, és
-
-5. 142. § (6) bekezdésében a „nyolcszáz forintnak” szövegrész helyébe az „ezer forintnak” szöveg
-
-lép.
+#### 93. §
 
 #### 25. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
@@ -351,13 +281,7 @@ lép.
 
 #### 26. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-95. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény
-
-1. 50. § (3) bekezdésében az „ezer” szövegrész helyébe az „ezerháromszáz”, az „ötszázezer” szövegrész helyébe a „hatszázötvenezer” szöveg, és
-
-2. 113. § (2) bekezdésében az „ötszáz” szövegrész helyébe a „hatszázötven”, az „ötvenezer” szövegrész helyébe a „hatvanötezer” szöveg
-
-lép.
+#### 95. §
 
 #### 27. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
@@ -427,9 +351,9 @@ lép.
 
 1.
 
-2. 11/C. § (1) bekezdésében az „500 000 forinttól 3 000 000” szövegrész helyébe a „650 000 forinttól 4 000 000” szöveg, és
+2.
 
-3. 11/G. § (10) bekezdésében a „150 000” szövegrész helyébe a „200 000” szöveg
+3.
 
 lép.
 

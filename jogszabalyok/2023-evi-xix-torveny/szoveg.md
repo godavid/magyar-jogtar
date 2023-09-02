@@ -90,9 +90,7 @@ egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú t�
 
 #### 5. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-40. § A fogyasztóvédelemről szóló 1997. CLV. törvény 16/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket, valamint vízipipát értékesíteni, illetve kiszolgálni.”
+#### 40. §
 
 #### 6. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
@@ -100,7 +98,7 @@ egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú t�
 
 42. § Az Nvt.
 
-- a) 2. § (1) bekezdésében a „vagy dohányzást imitáló elektronikus eszközt” szövegrész helyébe a „ , dohányzást imitáló elektronikus eszközt vagy vízipipát” szöveg,
+- a)
 - b)
 - c)
 
