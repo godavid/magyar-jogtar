@@ -299,10 +299,7 @@ fennállt.
 - b) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, igazolja, hogy a kizáró ok alapjául szolgáló adótartozás már nem áll fenn,
 - c) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, igazolja, hogy jogviszonya öröklés útján létesült és a kizáró ok alapjául szolgáló adótartozás nem tagi, illetve részvényesi jogviszonyának időtartama alatt, vagy jogviszonya megszűnését követő száznyolcvan napon belül keletkezett.
 
-(3) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a 19. § (2) bekezdés a) pont ac) alpontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta,
-
-- a) az adószám megtagadására okot adó adószám törléssel érintett adózóban (a továbbiakban: törölt adózó) tagi, részvényesi jogviszonnyal nem rendelkezett, és
-- b) bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+(3) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a 19. § (2) bekezdés a) pont ac) alpontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
 (4) A (3) bekezdés alkalmazásában kimentési oknak minősül, ha az adószám törléséről szóló határozat véglegessé válására tekintettel indult cégbírósági törvényességi felügyeleti eljárás arra figyelemmel került megszüntetésre, hogy az adózó a cég törvényes működését helyreállította.
 
@@ -771,6 +768,8 @@ Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megs
 - b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
 
 (5) Ha a biztosított mezőgazdasági őstermelő, az Szja tv. rendelkezései szerint átalányadózást alkalmazó biztosított egyéni vállalkozó öregségi nyugdíj iránti igényt nyújt be, az igénylés benyújtását követő harminc napon belül saját magára vonatkozóan soron kívüli adóbevallást tesz az 50. § (2) bekezdésében meghatározott adatokról a bevallással még le nem fedett, az öregségi nyugdíj megállapításának általa kért kezdő napját megelőző napig terjedő időszakra vonatkozóan.
+
+(6) Ha az alkalmazandó bevallási gyakoriság – a 2. melléklet B. rész 3.4. pontjának figyelembevételével – az adómegállapítási időszak közben megváltozik, az általános forgalmi adó bevallás benyújtására kötelezett adózó az általános forgalmi adóról az áttérést megelőző naptól számított harminc napon belül soron kívüli bevallást nyújt be a bevallással még le nem fedett időszakról.
 
 #### 53. § [Bevallásra vonatkozó különös szabályok felszámolási eljárás, végelszámolás, kényszertörlési eljárás esetén]
 
@@ -1485,6 +1484,7 @@ Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapí
 - e) a jogosult és az ellátásra jogosító gyermek lakó-, illetve tartózkodási helyére vonatkozó adatot;
 - f) a jogosult házastársa, bejegyzett élettársa, élettársa lakó-, illetve tartózkodási helyére vonatkozóan rendelkezésre álló adatot;
 - g) az ellátás kifizetésével összefüggő adatot (fizetési számlaszám vagy postai utalási cím).
+- h) a családi pótlékra való jogosultság jogcímét.
 
 (2) Az (1) bekezdés szerinti adatokról a honvédelemért felelős miniszter által vezetett minisztérium mint családtámogatási kifizetőhely is adatszolgáltatást teljesít elektronikus úton az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig.
 
@@ -1940,7 +1940,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 
 #### 133. § [Adóhatósági adatszolgáltatás-támogatásról]
 
-(1) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetve az Szja tv. 3. § 41. pontjában meghatározott és az Szja tv. 39. § (1) bekezdése alapján igénybe vett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.
+(1) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetve az Szja tv. 3. § 41. pontjában és az Szja tv. 3. § 50. pontjában meghatározott, továbbá az Szja tv. 39. § (1) bekezdése alapján igénybe vett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.
 
 (2) Az adóhatóság a csekély összegű (de minimis) támogatások összegéről adózónként az adóbevallás határidejét követő kilencven napon belül adatot szolgáltat a kincstárnak, amely az adatokat a kincstári monitoring-rendszerben rögzíti.
 
@@ -2899,9 +2899,11 @@ Ha az adózó az utólagos adómegállapításról hozott első fokú határozat
 
 (1) Az adóhatóság a bejelentkezési kötelezettség, a foglalkoztatotti bejelentés, a gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzésével kapcsolatos bejelentési, valamint az EKAER bejelentési kötelezettség kivételével
 
-- a) a bevallási, adatbejelentési, vagyonszerzési illetékkel kapcsolatos bejelentési, változásbejelentési, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettségének, regisztrációs kötelezettségének nem teljesítése,
-- b) a bevallási, adatbejelentési, vagyonszerzési illetékkel kapcsolatos bejelentési, (változás)bejelentési, adatszolgáltatási kötelezettségének hiányos, a bevallási hiba kivételével hibás teljesítése,
-- c) a bejelentési, változásbejelentési, adatszolgáltatási kötelezettségének valótlan adattartalommal történő teljesítése esetén – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adózót az adókötelezettség jogszerű teljesítésére.
+- a) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettségének, regisztrációs kötelezettségének nem teljesítése,
+- b) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási kötelezettségének hiányos, a bevallási hiba kivételével hibás teljesítése,
+- c) a bejelentési, változásbejelentési, adatszolgáltatási kötelezettségének valótlan adattartalommal történő teljesítése
+
+esetén – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adózót az adókötelezettség jogszerű teljesítésére.
 
 (2) Az (1) bekezdés szerinti adókötelezettség határidőn belüli nem, illetve nem jogszerű teljesítése esetén az adóhatóság a természetes személy adózót ötvenezer forint, a nem természetes személy adózót százezer forint mulasztási bírsággal sújtja és – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével ismételten felhívja az adókötelezettség jogszerű teljesítésére. A kötelezettség határidőben történő teljesítése esetén az e bekezdés alapján kiszabott bírság mérsékelhető vagy elengedhető.
 
@@ -3142,7 +3144,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 - d) az adózó a rá irányadó szabályoknak megfelelő törvényes képviselőt az állami adó- és vámhatósághoz annak felszólítása ellenére sem jelentette be,
 - e) az adózó ellenőrzése alapján hitelt érdemlően tudomást szerez arról, hogy az adózó által bejelentett törvényes képviselő nem valós személy,
 - f) azt a támogató az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (3) és (4) bekezdésében meghatározott esetben kezdeményezi,
-- g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási kötelezettségének a törvényi határidőtől számított háromszázhatvanöt napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget.
+- g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási kötelezettségének a törvényi határidőtől számított száznyolcvan napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget.
 - h) az adózó által bejelentett székhelyszolgáltató nem szerepel a székhelyszolgáltatók nyilvántartásában és az ilyen irányú tevékenység végzésére vonatkozó szándékát sem jelentette be, és az adózó az adóhatóság (2) bekezdés szerinti felhívása ellenére bejelentését nem vonta vissza, és nem gondoskodott másik megfelelő székhely vagy székhelyszolgáltató bejelentéséről sem.
 
 (2) Az állami adó- és vámhatóság az (1) bekezdés a), b) és h) pontja szerinti esetben az adózót az adószám törléséről szóló figyelmeztetéssel felhívja – a felhívás kézbesítésétől számított harmincnapos határidő tűzésével – a törvényes állapot helyreállítására. A határidő eredménytelen eltelte esetén az állami adó- és vámhatóság az adózó adószámát törli. Nincs helye az adószám törlésének, ha az adózó az adószám törléséről szóló határozat véglegessé válását megelőzően a törvényes állapotot helyreállította.
@@ -3370,11 +3372,11 @@ Az állami adó- és vámhatóság a honlapján lekérdezési lehetőséget bizt
 
 #### 265. § [Be nem jelentett foglalkoztatottat foglalkoztatók közzététele]
 
-(1) Az állami adó- és vámhatóság a honlapján a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján folyamatosan nyilvánosságra hozza azoknak az adózóknak a nevét, székhelyét, adószámát (adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét), akik vagy amelyek tekintetében végleges és végrehajtható közigazgatási vagy jogerős bírósági határozat megállapította, hogy nem tettek eleget a munkaviszony létesítésével összefüggő bejelentési kötelezettségüknek. Az e bekezdés szerinti adatok mellett az állami adó- és vámhatóság a honlapján a jogsértést megállapító határozat keltét és végrehajthatóvá válásának napját is nyilvánosságra hozza. Ha az adóhatóság határozata ellen a közigazgatási bíróság előtt pert indítottak, az adatok közzétételére a bíróság jogerős és végrehajtható határozata alapján kerül sor. Az adóhatóság a honlapján közzétett adózók adatait – feltéve, hogy a közzététel alapjául szolgáló jogsértést az adózó ismételten nem követte el – a közzétételtől számított két év elteltével törli. E bekezdés nem alkalmazható azon adózók esetében, amelyek vonatkozásában az állami adó- és vámhatóság a mulasztási bírság kiszabását a 225. § (4) bekezdése alapján mellőzte.
+(1) Az állami adó- és vámhatóság a honlapján a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján folyamatosan nyilvánosságra hozza azoknak az adózóknak a nevét, székhelyét, adószámát (adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét), akik vagy amelyek tekintetében végleges közigazgatási vagy jogerős bírósági határozat megállapította, hogy nem tettek eleget a munkaviszony létesítésével összefüggő bejelentési kötelezettségüknek. Az e bekezdés szerinti adatok mellett az állami adó- és vámhatóság a honlapján a jogsértést megállapító határozat keltét, véglegessé válásának napját, közigazgatási per esetén a bírósági határozat jogerőssé válásának napját is nyilvánosságra hozza. Ha az adóhatóság határozata ellen a közigazgatási bíróság előtt pert indítottak, az adatok közzétételére a bíróság jogerős és végrehajtható határozata alapján kerül sor. Az adóhatóság a honlapján közzétett adózók adatait – feltéve, hogy a közzététel alapjául szolgáló jogsértést az adózó ismételten nem követte el – a közzétételtől számított két év elteltével törli. E bekezdés nem alkalmazható azon adózók esetében, amelyek vonatkozásában az állami adó- és vámhatóság a mulasztási bírság kiszabását a 225. § (4) bekezdése alapján mellőzte.
 
-(2) Az állami adó- és vámhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából az (1) bekezdés szerinti közzététellel egyidejűleg nyilvánosságra hozza, hogy a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján szereplő adózók közül az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerint mely adózók nem felelnek meg a rendezett munkaügyi kapcsolatok követelményének.
+(2) Az állami adó- és vámhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából az (1) bekezdés szerinti közzététellel egyidejűleg nyilvánosságra hozza, hogy a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján szereplő adózók közül a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021 (III. 10.) Korm. rendelet szerint mely adózók nem felelnek meg a rendezett munkaügyi kapcsolatok követelményének.
 
-(3) Az állami adó- és vámhatóság (1) bekezdés szerinti közzétételi kötelezettségét nem érinti, ha az adózó a terhére megállapított, végleges közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+(3) Az állami adó- és vámhatóság (1) bekezdés szerinti közzétételi kötelezettségét nem érinti, ha az adózó a végleges közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
 #### 266. § [Egyéb közzétételek]
 
@@ -3717,6 +3719,10 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 (2) E törvénynek a Módtv.11. által megállapított 153. § (1) bekezdés c) pontját, valamint a 153. § (1a) bekezdését első alkalommal a hatálybalépését követő negyedév minősítése során kell alkalmazni.
 
 (3) E törvénynek a Módtv.11. által megállapított 145. § (7) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+(4) E törvénynek a Módtv.11. által megállapított 20. § (3) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(5) E törvénynek a Módtv.11. által megállapított 221. § (1) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 

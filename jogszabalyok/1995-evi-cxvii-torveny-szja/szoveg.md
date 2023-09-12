@@ -2080,6 +2080,23 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 
 (10)
 
+### A bizalmi vagyonkezelési jogviszony alapján kezelt vagyon és a magánalapítványi vagyon adókötelezettségével összefüggő rendelkezések
+
+65/C. § (1) E törvény alkalmazásában ellenérték fejében történő átruházásnak (értékesítésnek) kell tekinteni, ha bizalmi vagyonkezelési jogviszony alapján a vagyonrendelő, magánalapítvány esetében az alapító, csatlakozó magánszemély tulajdonában álló vagyoni értéket vagyonkezelésbe ad, a magánalapítvány részére tulajdonba ad (a továbbiakban együtt: vagyonátadás). Az értékesítésből származó bevételnek az átadott, tulajdonba adott vagyoni értéknek azon értékét kell tekinteni, amelyen azt az átvevő (kezelt vagyon, alapítvány) számviteli nyilvántartásba vette. A nyilvántartási értékről a vagyonkezelő, a magánalapítvány – az (5) bekezdés szerinti eset kivételével – a vagyonátadást követő 30 napon belül igazolást állít ki a vagyonrendelő, az alapító vagy a csatlakozó részére, valamint az igazolásban feltüntetett adatokról az igazolás kiállítását követő 30 napon belül az erre rendszeresített nyomtatványon adatot szolgáltat az állami adó- és vámhatóság részére. Az értékesítésből származó jövedelem után az adót a magánszemélynek adóbevallásában kell megállapítania és az adóbevallás benyújtására előírt határidőig kell megfizetnie. A magánszemély választhatja, hogy az adót három egyenlő részletben állapítja meg, az első részletet az értékesítés adóévének kötelezettségeként, a második és a harmadik részletet a következő két adóév kötelezettségeként vallja be az értékesítés adóévéről készített bevallásában, és az adót az értékesítés adóévére vonatkozó bevallás, valamint a következő két adóévre vonatkozó bevallás benyújtására nyitva álló határidőig fizeti meg.
+
+(2) A vagyoni érték kiadásakor a nem pénzben – ideértve a külföldi pénzt és a devizát is – juttatott vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély
+
+- a) – az osztalékként megszerzett vagyoni érték kivételével – azt az értéket veheti figyelembe, amelyen a vagyoni érték a kezelt vagyon, magánalapítványi vagyon számviteli nyilvántartásában a vagyoni érték kiadásakor értékhelyesbítés nélkül szerepel;
+- b) a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy a magánalapítványi vagyon nem pénzben juttatott osztalékaként megszerzett vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veheti figyelembe.
+
+(3) A kedvezményezett által a (2) bekezdés szerint figyelembe vehető szerzési értékről a vagyonkezelő, a magánalapítvány a vagyonelem kiadását követő 30 napon belül tájékoztatja a kedvezményezettet és egyidejűleg adatot szolgáltat az állami adó- és vámhatóság részére az állami adó- és vámhatóság által közzétett módon.
+
+(4) A vagyonelem tulajdonba adását nem eredményező vagyoni érték magánszemély részére történő juttatása – ideértve különösen az ingyenes vagy kedvezményes használat biztosítását – esetén adóköteles az e juttatással összefüggő a kezelt vagyont, a magánalapítványi vagyont terhelő költség, ráfordítás. Az adót a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy az alapítványi vagyon terhére kell elszámolni, és a költség, ráfordítás elszámolási időpontja hónapjának kötelezettségeként kell a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre bevallani és megfizetni.
+
+(5) Az (1) bekezdéstől eltérően nem kell értékesítésnek tekinteni, ha az átvevő (magánalapítvány, vagyonkezelő) a vagyoni érték tulajdonjogát a vagyonrendelő, az alapító (csatlakozó) elhunytával szerzi meg.
+
+(6) Az (1) bekezdéstől eltérően nem kell az adót megfizetni, ha a bizalmi vagyonkezelési jogviszony feltételei alapján ugyanazon vagyoni érték tulajdonjogát a kedvezményezett a vagyonrendelő elhunytát követően szerezheti meg. Az adó összegét – vagyoni értékenként beazonosítható módon – a vagyonrendelő ebben az esetben is tájékoztató adatként feltünteti adóbevallásában. Amennyiben a kedvezményezett utóbb mégsem az említettek szerint szerzi meg a vagyoni érték tulajdonjogát, az adó 20 százalékkal növelt összegben a vagyoni érték kiadását követő 30 napon belül esedékes. A vagyonkezelő az említett feltételnek meg nem felelő vagyoni érték kiadásról a kiadást követő 8 napon belül az erre rendszeresített nyomtatványon értesíti az állami adó- és vámhatóságot. Az állami adó- és vámhatóság határozattal kötelezi az adó megfizetésére a kiadott vagyoni értéket megszerző kedvezményezettet, ha az adót a vagyonrendelő nem fizeti meg és az tőle végre sem hajtható.
+
 ### Az osztalékból származó jövedelem
 
 66. § (1) A magánszemély osztalékból, osztalékelőlegből származó bevételének egésze jövedelem. E törvény alkalmazásában (azzal, hogy nem minősül osztaléknak az a)–b) pontban említett jogcímen szerzett bevétel, ha azt a törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni)
@@ -2089,9 +2106,9 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
   - ab) a kamatozó részvény kamata;
   - ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
   - ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozama;
-  - ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
+  - ae) a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére a számviteli szabályok szerinti tartalék terhére juttatott vagyoni érték;
   - af)
-  - ag) a közhasznúnak nem minősülő alapítvány által az alapítványi vagyon hozamainak terhére a kedvezményezett magánszemély részére juttatott vagyoni érték;
+  - ag) a magánalapítvány által a kedvezményezett magánszemély részére a számviteli szabályok szerinti felhalmozott adózott eredmény értékét meg nem haladó összegben juttatott vagyoni érték;
   - ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
 - b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
@@ -2106,7 +2123,7 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 
 (4) Nem alkalmazható az (1) bekezdés a) pont ae) és ag) alpontja, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
-(5) Az (1) bekezdés a) pont ae) és ag) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett először a hozamot szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni. Nem kell jövedelemként figyelembe venni az (1) bekezdés a) pont ae) és ag) alpontja szerinti osztalékból azt a részt, amelynek forrása a 67/B. § (14) bekezdés szerinti tartós befektetési szerződésből származó hozam. A jövedelemként figyelembe nem veendő osztalék forrásáról a vagyonkezelő és az alapítvány nyilvántartást vezet.
+(5) Nem kell jövedelemként figyelembe venni az (1) bekezdés a) pont ae) és ag) alpontja szerinti osztalékból azt a részt, amelynek forrása a 67/B. § (14) bekezdése szerinti tartós befektetési szerződésből származó hozam. A jövedelemként figyelembe nem veendő osztalék forrásáról a vagyonkezelő és az alapítvány nyilvántartást vezet.
 
 ### Árfolyamnyereségből származó jövedelem
 
@@ -3217,6 +3234,18 @@ veszi figyelembe a személyijövedelemadó-bevallásban.
 
 (3) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 58. § (13) bekezdése az őstermelői tevékenység keretében hasznosított kizárólag üzemi célt szolgáló tárgyi eszköz 2022. január 1-jét követően megvalósuló értékesítése esetén is alkalmazható.
 
+105. § (1) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. §-t, 66. § (1) bekezdés a) pont ae) és ag) alpontját és 1. számú melléklet 7.26. pontja a) alpontját az e rendelkezések hatálybalépését követően létrejött bizalmi vagyonkezelési jogviszony és olyan magánalapítvány esetében kell alkalmazni, amelynek bejegyzését e rendelkezések hatálybalépését követően kezdeményezték (a továbbiakban: bejegyzett magánalapítvány).
+
+(2) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. § (1) bekezdését annak hatálybalépésétől alkalmazni kell a már létrejött bizalmi vagyonkezelési jogviszony keretében, vagy a már bejegyzett magánalapítvány részére történő, a hatálybalépést követő vagyonátadás esetében is.
+
+(3) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. § (4) bekezdését annak hatálybalépésétől alkalmazni kell a már létrejött bizalmi vagyonkezelési jogviszony keretében kezelt vagyon, vagy a már bejegyzett magánalapítványi vagyon terhére történő, a hatálybalépést követő juttatás esetében is.
+
+(4) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. § (2) bekezdés a) pontját és (3) bekezdését a hatálybalépésüket megelőzően már létrejött bizalmi vagyonkezelési jogviszony keretében kezelt vagyon, vagy már bejegyzett magánalapítvány kedvezményezettje és a juttató abban az esetben alkalmazza, ha a juttatás az e rendelkezések hatálybalépésétől bizalmi vagyonkezelésbe, magánalapítvány részére átadott vagyon terhére történik. A korábban átadott vagyon terhére történő juttatásra a 65/C. § (2) bekezdés a) pontja és (3) bekezdése a hatálybalépésüket követő három év elteltétől kezdődően megszerzett vagyoni érték esetében alkalmazandó.
+
+(5) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 1. számú melléklet 7.26. pontja hatálybalépése előtt létrejött bizalmi vagyonkezelési jogviszony, bejegyzett magánalapítvány kedvezményezettje a b) pont rendelkezését annak hatálybalépésétől alkalmazhatja.
+
+(6) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 66. § (1) bekezdés a) pont ae) és ag) alpontjának, 65/C. §-ának és 1. számú melléklet 7.26. pontjának hatálybalépését megelőzően létrejött bizalmi vagyonkezelési jogviszony, bejegyzett magánalapítvány esetében a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy a magánalapítványi vagyon nem pénzben juttatott osztalékaként megszerzett vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély a vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veheti figyelembe.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -3699,7 +3728,13 @@ kerül sor.
 
 7.25.
 
-7.26. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ide nem értve az említett vagyonok hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól;
+7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona terhére
+
+a) – ide nem értve az említett vagyonok osztaléknak minősülő hozamait – a kedvezményezett magánszemély részére juttatott vagyoni érték,
+
+b) a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot),
+
+azzal hogy nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte,
 
 7.27. külföldön bejegyzett pártalapítvány által, a bejegyzés helye szerinti állam állampolgárságával rendelkező munkavállalója részére a munkavégzésre irányuló jogviszonyra tekintettel kifizetett összeg, amennyiben e jogviszonyra tekintettel a bejegyzés helye szerinti állam nem vet ki rá adót.
 
