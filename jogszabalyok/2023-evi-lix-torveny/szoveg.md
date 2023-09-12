@@ -85,9 +85,44 @@ a következő törvényt alkotja:
 
 #### 15. §
 
-#### 16. §
+16. § Az Szja tv. a 65/B. §-t követően a következő alcím címmel és 65/C. §-sal egészül ki:
 
-#### 17. §
+### „A bizalmi vagyonkezelési jogviszony alapján kezelt vagyon és a magánalapítványi vagyon adókötelezettségével összefüggő rendelkezések
+
+65/C. § (1) E törvény alkalmazásában ellenérték fejében történő átruházásnak (értékesítésnek) kell tekinteni, ha bizalmi vagyonkezelési jogviszony alapján a vagyonrendelő, magánalapítvány esetében az alapító, csatlakozó magánszemély tulajdonában álló vagyoni értéket vagyonkezelésbe ad, a magánalapítvány részére tulajdonba ad (a továbbiakban együtt: vagyonátadás). Az értékesítésből származó bevételnek az átadott, tulajdonba adott vagyoni értéknek azon értékét kell tekinteni, amelyen azt az átvevő (kezelt vagyon, alapítvány) számviteli nyilvántartásba vette. A nyilvántartási értékről a vagyonkezelő, a magánalapítvány – az (5) bekezdés szerinti eset kivételével – a vagyonátadást követő 30 napon belül igazolást állít ki a vagyonrendelő, az alapító vagy a csatlakozó részére, valamint az igazolásban feltüntetett adatokról az igazolás kiállítását követő 30 napon belül az erre rendszeresített nyomtatványon adatot szolgáltat az állami adó- és vámhatóság részére. Az értékesítésből származó jövedelem után az adót a magánszemélynek adóbevallásában kell megállapítania és az adóbevallás benyújtására előírt határidőig kell megfizetnie. A magánszemély választhatja, hogy az adót három egyenlő részletben állapítja meg, az első részletet az értékesítés adóévének kötelezettségeként, a második és a harmadik részletet a következő két adóév kötelezettségeként vallja be az értékesítés adóévéről készített bevallásában, és az adót az értékesítés adóévére vonatkozó bevallás, valamint a következő két adóévre vonatkozó bevallás benyújtására nyitva álló határidőig fizeti meg.
+
+(2) A vagyoni érték kiadásakor a nem pénzben – ideértve a külföldi pénzt és a devizát is – juttatott vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély
+
+- a) – az osztalékként megszerzett vagyoni érték kivételével – azt az értéket veheti figyelembe, amelyen a vagyoni érték a kezelt vagyon, magánalapítványi vagyon számviteli nyilvántartásában a vagyoni érték kiadásakor értékhelyesbítés nélkül szerepel;
+- b) a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy a magánalapítványi vagyon nem pénzben juttatott osztalékaként megszerzett vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veheti figyelembe.
+
+(3) A kedvezményezett által a (2) bekezdés szerint figyelembe vehető szerzési értékről a vagyonkezelő, a magánalapítvány a vagyonelem kiadását követő 30 napon belül tájékoztatja a kedvezményezettet és egyidejűleg adatot szolgáltat az állami adó- és vámhatóság részére az állami adó- és vámhatóság által közzétett módon.
+
+(4) A vagyonelem tulajdonba adását nem eredményező vagyoni érték magánszemély részére történő juttatása – ideértve különösen az ingyenes vagy kedvezményes használat biztosítását – esetén adóköteles az e juttatással összefüggő a kezelt vagyont, a magánalapítványi vagyont terhelő költség, ráfordítás. Az adót a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy az alapítványi vagyon terhére kell elszámolni, és a költség, ráfordítás elszámolási időpontja hónapjának kötelezettségeként kell a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre bevallani és megfizetni.
+
+(5) Az (1) bekezdéstől eltérően nem kell értékesítésnek tekinteni, ha az átvevő (magánalapítvány, vagyonkezelő) a vagyoni érték tulajdonjogát a vagyonrendelő, az alapító (csatlakozó) elhunytával szerzi meg.
+
+(6) Az (1) bekezdéstől eltérően nem kell az adót megfizetni, ha a bizalmi vagyonkezelési jogviszony feltételei alapján ugyanazon vagyoni érték tulajdonjogát a kedvezményezett a vagyonrendelő elhunytát követően szerezheti meg. Az adó összegét – vagyoni értékenként beazonosítható módon – a vagyonrendelő ebben az esetben is tájékoztató adatként feltünteti adóbevallásában. Amennyiben a kedvezményezett utóbb mégsem az említettek szerint szerzi meg a vagyoni érték tulajdonjogát, az adó 20 százalékkal növelt összegben a vagyoni érték kiadását követő 30 napon belül esedékes. A vagyonkezelő az említett feltételnek meg nem felelő vagyoni érték kiadásról a kiadást követő 8 napon belül az erre rendszeresített nyomtatványon értesíti az állami adó- és vámhatóságot. Az állami adó- és vámhatóság határozattal kötelezi az adó megfizetésére a kiadott vagyoni értéket megszerző kedvezményezettet, ha az adót a vagyonrendelő nem fizeti meg és az tőle végre sem hajtható.”
+
+17. § (1) Az Szja tv. 66. § (1) bekezdés a) pont ae) alpontja helyébe a következő rendelkezés lép:
+
+[A magánszemély osztalékból, osztalékelőlegből származó bevételének egésze jövedelem. E törvény alkalmazásában (azzal, hogy nem minősül osztaléknak az a)–b) pontban említett jogcímen szerzett bevétel, ha azt a törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni)
+
+osztalék]
+
+  - „ae) a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére a számviteli szabályok szerinti tartalék terhére juttatott vagyoni érték;”
+
+(2) Az Szja tv. 66. § (1) bekezdés a) pont ag) alpontja helyébe a következő rendelkezés lép:
+
+[A magánszemély osztalékból, osztalékelőlegből származó bevételének egésze jövedelem. E törvény alkalmazásában (azzal, hogy nem minősül osztaléknak az a)–b) pontban említett jogcímen szerzett bevétel, ha azt a törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni)
+
+osztalék]
+
+  - „ag) a magánalapítvány által a kedvezményezett magánszemély részére a számviteli szabályok szerinti felhalmozott adózott eredmény értékét meg nem haladó összegben juttatott vagyoni érték;”
+
+(3) Az Szja tv. 66. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Nem kell jövedelemként figyelembe venni az (1) bekezdés a) pont ae) és ag) alpontja szerinti osztalékból azt a részt, amelynek forrása a 67/B. § (14) bekezdése szerinti tartós befektetési szerződésből származó hozam. A jövedelemként figyelembe nem veendő osztalék forrásáról a vagyonkezelő és az alapítvány nyilvántartást vezet.”
 
 #### 18. §
 
@@ -99,11 +134,23 @@ a következő törvényt alkotja:
 
 #### 22. §
 
-#### 23. §
+23. § Az Szja tv. a következő 105. §-sal egészül ki:
+
+„105. § (1) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. §-t, 66. § (1) bekezdés a) pont ae) és ag) alpontját és 1. számú melléklet 7.26. pontja a) alpontját az e rendelkezések hatálybalépését követően létrejött bizalmi vagyonkezelési jogviszony és olyan magánalapítvány esetében kell alkalmazni, amelynek bejegyzését e rendelkezések hatálybalépését követően kezdeményezték (a továbbiakban: bejegyzett magánalapítvány).
+
+(2) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. § (1) bekezdését annak hatálybalépésétől alkalmazni kell a már létrejött bizalmi vagyonkezelési jogviszony keretében, vagy a már bejegyzett magánalapítvány részére történő, a hatálybalépést követő vagyonátadás esetében is.
+
+(3) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. § (4) bekezdését annak hatálybalépésétől alkalmazni kell a már létrejött bizalmi vagyonkezelési jogviszony keretében kezelt vagyon, vagy a már bejegyzett magánalapítványi vagyon terhére történő, a hatálybalépést követő juttatás esetében is.
+
+(4) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 65/C. § (2) bekezdés a) pontját és (3) bekezdését a hatálybalépésüket megelőzően már létrejött bizalmi vagyonkezelési jogviszony keretében kezelt vagyon, vagy már bejegyzett magánalapítvány kedvezményezettje és a juttató abban az esetben alkalmazza, ha a juttatás az e rendelkezések hatálybalépésétől bizalmi vagyonkezelésbe, magánalapítvány részére átadott vagyon terhére történik. A korábban átadott vagyon terhére történő juttatásra a 65/C. § (2) bekezdés a) pontja és (3) bekezdése a hatálybalépésüket követő három év elteltétől kezdődően megszerzett vagyoni érték esetében alkalmazandó.
+
+(5) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 1. számú melléklet 7.26. pontja hatálybalépése előtt létrejött bizalmi vagyonkezelési jogviszony, bejegyzett magánalapítvány kedvezményezettje a b) pont rendelkezését annak hatálybalépésétől alkalmazhatja.
+
+(6) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 66. § (1) bekezdés a) pont ae) és ag) alpontjának, 65/C. §-ának és 1. számú melléklet 7.26. pontjának hatálybalépését megelőzően létrejött bizalmi vagyonkezelési jogviszony, bejegyzett magánalapítvány esetében a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy a magánalapítványi vagyon nem pénzben juttatott osztalékaként megszerzett vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély a vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veheti figyelembe.”
 
 24. § Az Szja tv.
 
-- a)
+- a) 1. számú melléklete az 1. melléklet,
 - b)
 
 szerint módosul.
@@ -403,11 +450,15 @@ lép.
 
 #### 135. §
 
-#### 136. §
+136. § Az Art. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a 19. § (2) bekezdés a) pont ac) alpontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.”
 
 #### 137. §
 
-#### 138. §
+138. § Az Art. 52. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha az alkalmazandó bevallási gyakoriság – a 2. melléklet B. rész 3.4. pontjának figyelembevételével – az adómegállapítási időszak közben megváltozik, az általános forgalmi adó bevallás benyújtására kötelezett adózó az általános forgalmi adóról az áttérést megelőző naptól számított harminc napon belül soron kívüli bevallást nyújt be a bevallással még le nem fedett időszakról.”
 
 #### 139. §
 
@@ -417,7 +468,11 @@ lép.
 
 #### 142. §
 
-#### 143. §
+143. § Az Art. 112/A. § (1) bekezdése a következő h) ponttal egészül ki:
+
+(A kincstár elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig azoknak a magánszemélyeknek az adatairól, akiknek a tárgyhónapban családi pótlékot folyósított. Az adatszolgáltatás tartalmazza)
+
+„h) a családi pótlékra való jogosultság jogcímét.”
 
 #### 144. §
 
@@ -425,7 +480,9 @@ lép.
 
 #### 146. §
 
-#### 147. §
+147. § Az Art. 133. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetve az Szja tv. 3. § 41. pontjában és az Szja tv. 3. § 50. pontjában meghatározott, továbbá az Szja tv. 39. § (1) bekezdése alapján igénybe vett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.”
 
 #### 148. §
 
@@ -441,7 +498,15 @@ lép.
 
 (4)
 
-#### 152. §
+152. § Az Art. 221. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adóhatóság a bejelentkezési kötelezettség, a foglalkoztatotti bejelentés, a gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzésével kapcsolatos bejelentési, valamint az EKAER bejelentési kötelezettség kivételével
+
+- a) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettségének, regisztrációs kötelezettségének nem teljesítése,
+- b) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási kötelezettségének hiányos, a bevallási hiba kivételével hibás teljesítése,
+- c) a bejelentési, változásbejelentési, adatszolgáltatási kötelezettségének valótlan adattartalommal történő teljesítése
+
+esetén – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adózót az adókötelezettség jogszerű teljesítésére.”
 
 #### 153. §
 
@@ -457,7 +522,15 @@ lép.
 
 #### 159. §
 
-#### 160. §
+160. § Az Art. 265. §-a helyébe a következő rendelkezés lép:
+
+#### „265. § [Be nem jelentett foglalkoztatottat foglalkoztatók közzététele]
+
+(1) Az állami adó- és vámhatóság a honlapján a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján folyamatosan nyilvánosságra hozza azoknak az adózóknak a nevét, székhelyét, adószámát (adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét), akik vagy amelyek tekintetében végleges közigazgatási vagy jogerős bírósági határozat megállapította, hogy nem tettek eleget a munkaviszony létesítésével összefüggő bejelentési kötelezettségüknek. Az e bekezdés szerinti adatok mellett az állami adó- és vámhatóság a honlapján a jogsértést megállapító határozat keltét, véglegessé válásának napját, közigazgatási per esetén a bírósági határozat jogerőssé válásának napját is nyilvánosságra hozza. Ha az adóhatóság határozata ellen a közigazgatási bíróság előtt pert indítottak, az adatok közzétételére a bíróság jogerős és végrehajtható határozata alapján kerül sor. Az adóhatóság a honlapján közzétett adózók adatait – feltéve, hogy a közzététel alapjául szolgáló jogsértést az adózó ismételten nem követte el – a közzétételtől számított két év elteltével törli. E bekezdés nem alkalmazható azon adózók esetében, amelyek vonatkozásában az állami adó- és vámhatóság a mulasztási bírság kiszabását a 225. § (4) bekezdése alapján mellőzte.
+
+(2) Az állami adó- és vámhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából az (1) bekezdés szerinti közzététellel egyidejűleg nyilvánosságra hozza, hogy a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján szereplő adózók közül a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021 (III. 10.) Korm. rendelet szerint mely adózók nem felelnek meg a rendezett munkaügyi kapcsolatok követelményének.
+
+(3) Az állami adó- és vámhatóság (1) bekezdés szerinti közzétételi kötelezettségét nem érinti, ha az adózó a végleges közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.”
 
 #### 161. §
 
@@ -469,7 +542,11 @@ lép.
 
 (2)
 
-(3)
+(3) Az Art. 274/P. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) E törvénynek a Módtv.11. által megállapított 20. § (3) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(5) E törvénynek a Módtv.11. által megállapított 221. § (1) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.”
 
 (4)
 
@@ -483,7 +560,7 @@ lép.
 - 2.
 - 3.
 - 4.
-- 5.
+- 5. 246. § (1) bekezdés g) pontjában a „háromszázhatvanöt napon” szövegrész helyébe a „száznyolcvan napon” szöveg,
 - 6.
 - 7.
 - 8.
@@ -756,7 +833,15 @@ lép.
 
 ### 1. melléklet a 2023. évi LIX. törvényhez
 
-- 1.
+- 1. Az Szja tv. 1. számú melléklet 7. pont 7.26. alpontja helyébe a következő rendelkezés lép:
+
+(Egyéb indokkal adómentes:)
+
+- „7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona terhére
+  - a) – ide nem értve az említett vagyonok osztaléknak minősülő hozamait – a kedvezményezett magánszemély részére juttatott vagyoni érték,
+  - b) a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot),
+
+azzal hogy nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte,”
 
 ### 2. melléklet a 2023. évi LIX. törvényhez
 
