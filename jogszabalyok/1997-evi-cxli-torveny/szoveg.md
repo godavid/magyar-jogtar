@@ -695,7 +695,7 @@ kell csatolnia.
 
 (3b) Az ingatlanügyi hatóság felfüggeszti az eljárását akkor is, ha a kérelem érdemi elbírálása a gyámhatóság hatáskörébe tartozó kérdés előzetes elbírálásától függ, a végleges gyámhatósági döntés meghozataláig. Ha a bejelentést tevő személy az ingatlanügyi hatósági hiánypótlási felhívásban meghatározott határidő alatt a gyámügyi eljárás megindítását a kérelemnek a gyámhatóság által iktatott példányával vagy annak hiteles másolatával nem igazolja, az ingatlanügyi hatóság érdemi határozatot hoz a bejegyzési, feljegyzési kérelem tekintetében.
 
-(3c) Közös tulajdonban álló ingatlanok esetében a tulajdonostársak egy részével kötött – bányaszolgalmi jogot alapító – szerződés alapján történő bányaszolgalmi jog bejegyzésére irányuló eljárást fel kell függeszteni mindaddig, amíg a megállapodásban nem részes tulajdonostársak vonatkozásában a bányaszolgalmi jog alapítását elrendelő végleges hatósági határozat, vagy a bányaszolgalmi jog alapítására irányuló hatósági eljárás más módon történő lezárásáról szóló végleges döntés benyújtásra nem kerül.
+(3c)
 
 (4) Az ingatlanügyi hatóság az eljárást felfüggeszti, ha a kérelem érdemi elbírálása külföldi jogi vagy természetes személy mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan megszerzésének engedélyezésétől függ. Az ingatlanügyi hatóság megfelelő határidő tűzése mellett felhívja az ügyfelet az engedély iránti kérelem benyújtására, amennyiben a felfüggesztés időpontjáig az a hatósághoz nem érkezett meg. Az ingatlanügyi hatóság az eljárást megszünteti, ha az ügyfél a kérelem benyújtására vonatkozó felhívásnak határidőben nem tesz eleget.
 
@@ -800,7 +800,7 @@ bejegyzésével egyidejűleg.
 - e) a földrészlet tulajdonosának, ha egyéb önálló ingatlan tulajdonjogát ruházták át,
 - f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezetnek és mindazoknak, akiknek jogát az új bejegyzés érinti, kivéve ha az ingatlanügyi hatóság hatósági határozat alapján vagy a bíróság megkeresésére a 17. § (1) bekezdés 1–10. pontjában meghatározott tényt jegyezte be az ingatlan-nyilvántartásba,
 - g) telekalakítás esetén az építésügyi hatóság részére,
-- h)
+- h) bányatelek jogi jelleget érintő telekalakítás átvezetése esetén a bányafelügyelet részére,
 - i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 - j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 - k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,
@@ -1060,7 +1060,7 @@ bejegyzésével egyidejűleg.
 
 (2) Az (1) bekezdés szerinti rendelkezés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-- a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság vagy az előkészítő eljárást folytató szerv törvényben meghatározott feladatai ellátása céljából,
+- a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
 - b) az ügyészség a közérdekvédelmi feladatai ellátásához,
 - c) a jegyző a hagyatéki leltár elkészítéséhez, a közjegyző a hagyatéki eljárás lefolytatásához,
 - d) a mezőgazdasági igazgatási szerv, valamint az ingatlanügyi hatóság az Fftv. szerinti hatósági eljárásaihoz,
