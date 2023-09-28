@@ -533,7 +533,7 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 (5) A 84. §, a 131. §, a 137. §, és a 139. § (1) bekezdése 2024. január 1-jén lép hatályba.
 
-(6) A 2. §, a 3. §, a 4. § (1) bekezdése, az 5. §, a 6. §, a 43. §, a 100. § b) pontja, a 188. § (1) bekezdése és a 216. § 2024. február 1-jén lép hatályba.
+(6) A 2. §, a 3. §, a 4. § (1) bekezdése, az 5. §, a 6. §, a 43. §, a 100. § b) pontja, a 188. § (1) bekezdése és a 216. § 2024. október 1-jén lép hatályba.
 
 221. § E törvény
 

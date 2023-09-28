@@ -232,7 +232,7 @@ fog előállítani.
   - bc) statisztikai azonosítóját a statisztikáról szóló törvény hatálya alá tartozó szervezet esetében,
   - bd) cégjegyzékszámát a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében,
   - be) adószámát,
-  - bf) vezető tisztségviselőjének, cégvezetőjének természetes személyazonosító adatait és lakcímét.
+  - bf) vezető tisztségviselőjének, cégvezetőjének természetes személyazonosító adatait, lakcímét és adóazonosító jelét.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott adatokat a jogügylet hatósági jóváhagyásával és a szerzési korlátozások hatósági ellenőrzésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 
@@ -1020,6 +1020,8 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 
 (3) Az ingatlanügyi hatóság az (1) bekezdés b) pont ba)–bd) alpontjában, valamint c) pont ca)–cd) alpontjában meghatározott adatokat a földhasználati nyilvántartás vezetésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 
+(3a) Az ingatlanügyi hatóság a földhasználati nyilvántartás vezetésével kapcsolatos eljárásban kezeli az eljárással érintett, az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
+
 (4) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni. Az (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt adatok a földhasználati nyilvántartásból szolgáltatható földhasználati lap másolaton, a földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethetőek fel.
 
 (5) Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől személyi azonosító vagy természetes személyazonosító adatok alapján a természetes személy földhasználók azonosításához igényelhet adatot.
@@ -1165,6 +1167,8 @@ szolgáltat.
 - b) a gazdálkodó szervezet ügyfélnek a (3) bekezdés b) pont ba)–bd) alpontjában meghatározott adatait.
 
 (4a) A (3) bekezdés a) pont ad) alpontjában, valamint a b) pont bb)–bc) alpontjában és a be) alpont 4. alpontjában foglalt adatok a nyilvántartásból szolgáltatható másolaton, továbbá a nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
+
+(4b) A mezőgazdasági igazgatási szerv a nyilvántartás vezetésével kapcsolatos eljárásban kezeli az eljárással érintett, az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
 
 (5) A mezőgazdasági igazgatási szerv a nyilvántartás számítógépes adatbázisából papír alapú vagy elektronikus másolattal díj- és illetékmentesen szolgáltat adatot. Elektronikus másolat a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásaira az ingatlan-nyilvántartásról szóló törvényben meghatározott jogosultak részére, adatátviteli vonalon keresztül szolgáltatható. Ez esetben a jogosultnak a szolgáltatás igénybevételekor meg kell jelölni a feladata ellátására vonatkozó pontos jogszabályhelyet és annak az ügyiratnak a számát, amely elintézéséhez az adatszolgáltatást kéri.
 

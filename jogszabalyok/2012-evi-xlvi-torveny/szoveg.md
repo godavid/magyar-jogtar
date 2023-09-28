@@ -22,7 +22,7 @@ a következő törvényt alkotja:
 - 2. állami alapadat: állami földmérési és térképészeti alapmunkák, valamint ingatlan-nyilvántartási és egyéb célú földmérési és térképészeti tevékenység során keletkezett, e törvény végrehajtási rendeletében meghatározott minőségi követelményeknek megfelelő, államilag átvett földmérési és térképi adat, valamint ezek sokszorosított, kinyomtatott változata; állami alapadat, továbbá bármelyik állami térképnek és térképi adatbázisnak vagy részletének sokszorosított vagy kinyomtatott példánya;
 - 3. állami térképi adatbázisok: a térképészetért felelős miniszter (a továbbiakban: miniszter) és a honvédelemért felelős miniszter hatáskörébe tartozó térképi adatbázisok (az állami földmérési alaptérképi adatbázis, az állami ingatlan-nyilvántartási térképi adatbázis, az állami topográfiai térképi adatbázisok és a honvédelmi célú térképi adatbázisok) összessége;
 - 4. egységes ingatlan-nyilvántartási adatbázis: az ingatlan-nyilvántartásról szóló törvényben meghatározott adatbázis;
-- 5. elhatárolás: új földmérési alaptérképi adatbázis készítése, valamint a felmérési térképezési és területszámítási hiba kijavítása esetén, a földrészletek természetbeni határvonalának megállapítására irányuló joghatással járó hatósági tevékenység;
+- 5. elhatárolás: új földmérési alaptérképi adatbázis készítése, valamint a felmérési, térképezési vagy területszámítási hiba kijavítása esetén, a földrészletek természetbeni határvonalának megállapítására irányuló joghatással járó hatósági tevékenység;
 - 6. földmérési és térképészeti tevékenység:
   - a) az ország teljes területére vonatkozóan a földmérési, térképészeti és távérzékelési állami alapfeladatok,
   - b) az állami alapmunkák,
@@ -417,6 +417,8 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 - a) a településhatár természetes határvonal (folyó, patak, vízmosás, határút), amely a természeti folyamatok (erózió) miatt megváltozott;
 - b) a szomszédos települések közötti határ a különböző felmérési technológiák miatt eltérően lett megállapítva.
 
+14/A. § Az ingatlanügyi hatóság a műszaki dokumentáció nyilvántartásba vételére irányuló, a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló és a szakfelügyeleti eljárásaiban kezeli az eljárással érintett, az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
+
 #### 12. A háromdimenziós állami ingatlan-nyilvántartási térképi adatbázis
 
 15. § (1)
@@ -581,7 +583,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 - d) földrészleten belüli (épület, alrészlet, művelési ág) változások földmérési munkái,
 - e) egyéb önálló ingatlanok kialakításával és változásával kapcsolatos földmérési munkák,
 - f) a földvédelmi, földminősítési tevékenységgel kapcsolatos földmérési munkák,
-- g) a felmérési, térképezési és területszámítási hibák kiigazítására irányuló munkák,
+- g) a felmérési, térképezési vagy területszámítási hibák kiigazítására irányuló munkák,
 - h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák, valamint
 - i) a földrendező és földkiadó bizottságokról szóló törvény, illetve a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 15. alcíme szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
 
@@ -627,7 +629,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) A földmérési és térinformatikai államigazgatási szerv országos hatáskörében eljárva dönt a 10. § (3) bekezdés a)–f) és h) pontjában meghatározott alapponthálózati pontok áthelyezéséről és megszüntetéséről, valamint az elpusztult alapponthálózati pontok pótlásáról, vagy az adatbázisból való törléséről.
 
-(5) Azon (4) bekezdésben meghatározott alapponthálózati pontok vonatkozásában, amelyek egyben a katonai tájékozási hálózat pontjai is, a földmérési és térinformatikai államigazgatási szerv a honvédelem térképészeti támogatásáért felelős szerv előzetes hozzájárulásával intézkedik.
+(5) Azon (4) bekezdésben meghatározott alapponthálózati pontok vonatkozásában, amelyek egyben a katonai tájékozási hálózat pontjai is, a földmérési és térinformatikai államigazgatási szerv a honvédelmi térképészeti hatósági feladatokért felelős szerv előzetes hozzájárulásával intézkedik.
 
 (6) A 10. § (3) bekezdés i) pontjában meghatározott alappontok áthelyezéséről vagy megszüntetéséről a honvédelmi térképészeti hatósági feladatokért felelős szerv dönt.
 
@@ -981,7 +983,7 @@ rendeletben állapítsa meg.
 
 (3) A 14. § (8) bekezdése 2014. január 1-jén lép hatályba.
 
-(4) A 11. § (1) bekezdés m)–o) pontja, a 13. § (2) bekezdése, valamint a 15. § (1) bekezdése 2024. február 1-jén lép hatályba.
+(4) A 11. § (1) bekezdés m)–o) pontja, a 13. § (2) bekezdése, valamint a 15. § (1) bekezdése 2024. október 1-jén lép hatályba.
 
 (5)
 

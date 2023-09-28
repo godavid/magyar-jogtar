@@ -31,6 +31,8 @@ a termőföld védelméről
 
 1/B. § E törvény alkalmazásában, ha a termőföld állami tulajdonban áll, akkor a tulajdonos alatt az ingatlan-nyilvántartásba bejegyzett vagyonkezelőt, ennek hiányában a tulajdonosi joggyakorló szervezetet kell érteni.
 
+1/C. § Az ingatlanügyi hatóság az e törvény szerinti eljárásokban kezeli az eljárással érintett, az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
+
 ### Fogalommeghatározások
 
 2. § E törvény alkalmazásában

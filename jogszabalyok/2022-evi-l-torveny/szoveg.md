@@ -626,7 +626,7 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 (10) Az 51. § (2) bekezdése, a 188. §, a 195. §, a 200. § és a 203. § 2024. január 1-jén lép hatályba.
 
-(11) A 41. §, a 43. § (6) bekezdése, az 58. alcím és a 60. alcím 2024. február 1-jén lép hatályba.
+(11) A 41. §, a 43. § (6) bekezdése, az 58. alcím és a 60. alcím 2024. október 1-jén lép hatályba.
 
 (12) A 23. §, a 39. alcím és az 53. alcím a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet 79. cikk (2) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 

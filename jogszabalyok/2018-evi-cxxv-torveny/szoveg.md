@@ -1811,7 +1811,7 @@ ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi 
 (10) A kormánytisztviselő
 
 - a) pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve a helyi önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat;
-- b) nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy állam által alapított vagy az állam által létrehozott szervezet által önállóan, vagy más állam által alapítottal, állam által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítvány közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító megállapodás vagy részesedés alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
+- b) nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy állam által alapított vagy az állam által létrehozott szervezet által önállóan, vagy más állam által alapítottal, állam által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítvány közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, illetve az állam vagy az állam többségi tulajdonában álló gazdasági társaság megállapodás vagy részesedés alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
 
 (11) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, auditbizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
@@ -3713,6 +3713,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - e) hazai, külföldi vagy nemzetközi sportszövetség vagy sportegyesület, nemzetközi sportszervezet tagja, elnökségi tagja, vezető tisztségviselője vagy egyéb tisztségviselője legyen,
 - f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
+- h) közjegyzői szolgálata a politikai felsővezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár és a miniszterelnök politikai igazgatója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
@@ -4106,6 +4107,8 @@ kapcsolatos rendelkezéseit nem kell alkalmazni.
 (1) A főispán további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, európai parlamenti képviselő, helyi önkormányzati képviselő, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a főispán – a munkáltatói jogkör gyakorlójának engedélye nélkül – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet végezzen és nevelőszülői foglalkoztatási jogviszonyt létesítsen.
+
+(3) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a főispán közjegyzői szolgálata a politikai vezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 
 #### 209. § [A főispán megbízatásának megszűnése és megszüntetése]
 
@@ -4602,6 +4605,8 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 (1) A hivatalvezető munkavégzésre irányuló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység tekintetében a 95. § (6)–(9) bekezdését alkalmazni kell.
+
+(3) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a hivatalvezető közjegyzői szolgálata a szakmai vezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 
 #### 257. § [A hivatalvezető feletti munkáltatói jogkör gyakorlása]
 
@@ -5303,6 +5308,10 @@ E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnöks
 #### 300/B. § [Átmeneti rendelkezés a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvényhez]
 
 E törvénynek a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv6.) megállapított 169. §-át a Módtv6. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+#### 300/C. § [Átmeneti rendelkezés az egyes közigazgatási tárgyú törvények módosításáról szóló 2023. évi LXI. törvényhez]
+
+Az egyes közigazgatási tárgyú törvények módosításáról szóló 2023. évi LXI. törvénnyel (a továbbiakban: Módtv7.) megállapított 95. § (10) bekezdés b) pontját a Módtv7. hatálybalépése előtt megválasztott vezető tisztségviselő és felügyelőbizottsági tag vonatkozásában is alkalmazni kell.
 
 #### 301. §
 

@@ -135,6 +135,10 @@ jogosult.
 - h) a 2. § (5) bekezdése alapján a foglalkoztatott szabadságának a szabadságolási tervtől eltérő kiadására az Mt. 122. § (2) bekezdését kell alkalmazni,
 - i) a 3. § (6) bekezdése és az 5. § nem alkalmazható.
 
+(4a) Az igazgatási szünet időtartama nem számít bele a 3. § (2) bekezdése szerinti határidőbe, ha az eljárásban eljáró szervként, félként (ügyfélként) olyan helyi önkormányzat vesz részt, vagy az eljárás olyan helyi önkormányzat megkeresésével jár, illetve a kötelezettség teljesítésére vagy jog gyakorlására olyan helyi önkormányzat kötelezett vagy jogosult, amelyik képviselő-testülete vagy közgyűlése az (1) bekezdés alapján elrendelte az igazgatási szünetet. A 3. § (8) bekezdése alkalmazása során kormányzati igazgatási szerv alatt azt a helyi önkormányzatot is érteni kell, amelyik képviselő-testülete vagy közgyűlése az (1) bekezdés alapján elrendelte az igazgatási szünetet.
+
+(4b) A 3. § (5) bekezdését arra a helyi önkormányzatra is alkalmazni kell, amelynek a képviselő-testülete vagy a közgyűlése az (1) bekezdés alapján elrendelte az igazgatási szünetet.
+
 (5) Ha a képviselő-testület vagy a közgyűlés az igazgatási szünet elrendeléséről döntött, és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 21. § (3) bekezdése szerinti, az elővásárlási jog jogosultja számára jognyilatkozatának megtételére nyitva álló 60 napos határidő, vagy a Földforgalmi tv. 49. § (3) bekezdése szerinti, az előhaszonbérleti jog jogosultja számára jognyilatkozatának megtételére nyitva álló határidő utolsó napja olyan nap, amely az igazgatási szünet idejére esik, akkor
 
 - a) a jognyilatkozatok benyújtásának határideje az igazgatási szünetet követő első munkanapig meghosszabbodik, és
