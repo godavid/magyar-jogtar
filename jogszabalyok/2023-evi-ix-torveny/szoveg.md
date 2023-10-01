@@ -229,27 +229,57 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 19. § (1)
 
-(2)
+(2) A Vht. 230. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-(3)
+„(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése – a (7) bekezdésben foglaltak kivételével – a Kar hivatali szervének feladata.”
+
+(3) A Vht. 230. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A 242. § szerinti szakmai beszámoló készítési kötelezettség teljesítését a Hatóság ellenőrzi.”
 
 #### 20. §
 
 #### 21. §
 
-#### 22. §
+22. § A Vht. 234/A. § (1) bekezdése a következő c) és d) ponttal egészül ki:
+
+„c) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották bírsággal a szakmai beszámoló készítési kötelezettség megszegése miatt, és
+
+d) a végrehajtó a 241/B. § szerinti szakmai továbbképzési kötelezettségének maradéktalanul eleget tett.”
 
 #### 23. §
 
 #### 24. §
 
-#### 25. §
+25. § A Vht. „Képzési, továbbképzési kötelezettség” című alcíme helyébe a következő rendelkezés lép:
 
-#### 26. §
+### „Képzési, továbbképzési és beszámolási kötelezettség
+
+241/A. § (1) A végrehajtójelölt köteles az igazságügyért felelős miniszter rendeletében meghatározott szervezet képzésein és továbbképzésein részt venni.
+
+(2) A végrehajtó köteles az alkalmazásában álló végrehajtójelölt részére az (1) bekezdés szerinti képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.
+
+241/B. § (1) A végrehajtónak és a végrehajtó-helyettesnek legalább kétévenként a Hatóság elnöke rendeletében meghatározott szakmai továbbképzésen kell részt vennie, és az erről szóló tanúsítványt a Kar hivatali szerve vezetőjének be kell mutatnia.
+
+(2) A végrehajtó köteles az alkalmazásában álló végrehajtó-helyettes részére az (1) bekezdés szerinti továbbképzésen történő részvétel lehetőségét biztosítani, ennek érdekében a továbbképzés idejére őt a munkavégzés alól mentesíteni.
+
+242. § (1) A végrehajtó a Hatóság elnökének rendeletében foglaltak szerint szakmai beszámoló benyújtásával évente január 31-ig beszámol az előző évi szakmai tevékenységéről.
+
+(2) Ha a végrehajtó állandó helyettesként helyettesítési feladatokat is ellát, a helyettesített végrehajtó által betöltött álláshelyre vonatkozó szakmai tevékenységéről külön szakmai beszámolót nyújt be az (1) bekezdésben meghatározottak szerint.”
+
+26. § A Vht. 250/A. § (2) bekezdése a következő 24. ponttal egészül ki:
+
+(A végrehajtók névjegyzéke a következő adatokat tartalmazza:)
+
+„24. a 241/B. § szerinti kötelező szakmai továbbképzési kötelezettség teljesítéséről szóló tanúsítvány száma.”
 
 #### 27. §
 
-#### 28. §
+28. § A Vht. 254/H. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) A Hatóság elnöke a 242. § szerinti szakmai beszámolóval kapcsolatos ügyekben az Ákr. rendelkezéseit a (7) bekezdésben foglalt eltéréssel alkalmazza.
+
+(7) A szakmai beszámoló készítési kötelezettség megszegése esetén figyelmeztetés szankció alkalmazása kizárt.”
 
 #### 29. §
 
@@ -257,16 +287,26 @@ céljából kezeli a meghívásos eljárásban EU elnökségi jogviszonyt létes
 
 (2)
 
-(3)
+(3) A Vht. 304/L. §-a a következő (6) és (7) bekezdéssel egészül ki:
 
-#### 31. §
+„(6) A Módtv.15-tel megállapított 241/B. § szerinti szakmai továbbképzési kötelezettségnek a végrehajtónak és a végrehajtó-helyettesnek először 2025. június 30-ig kell eleget tennie, és a továbbképzésen való részvételről kiállított dokumentumot 2025. július 31-ig kell a Kar hivatali szerve vezetőjének megküldeniük.
+
+(7) A Módtv.15-tel megállapított 242. § szerinti kötelezettségnek a végrehajtó először 2024. január 31-ig köteles eleget tenni.”
+
+31. § A Vht. 307. § (1a) bekezdése a következő p) és q) ponttal egészül ki:
+
+(Felhatalmazást kap a Hatóság elnöke, hogy rendeletben állapítsa meg)
+
+„p) az önálló bírósági végrehajtók és önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat,
+
+q) az önálló bírósági végrehajtó szakmai beszámoltatására, a szakmai beszámoló elkészítésére, tartalmára, benyújtására, valamint a szakmai beszámoló készítésére vonatkozó kötelezettség teljesítésének hatósági ellenőrzésére vonatkozó részletes szabályokat.”
 
 32. § A Vht.
 
 - a)
-- b)
+- b) 234/A. § (1) bekezdés a) pontjában a „megrovásnál, és” szövegrész helyébe a „megrovásnál,” szöveg,
 - c)
-- d)
+- d) 250/A. § (3) bekezdés a) pontjában a „3–5. és 18–19. pontjában” szövegrész helyébe a „3–5., 18–19. és 24. pontjában” szöveg,
 - e)
 - f)
 - g)
@@ -324,7 +364,7 @@ lép.
 
 #### 57. §
 
-#### 58. §
+58. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § k) pontjában az „ügykezelés részletes szabályait,” szövegrész helyébe az „ügykezelés részletes szabályait, az önálló bírósági végrehajtók és önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzésének megszervezésére és teljesítésére, továbbá az önálló bírósági végrehajtó szakmai beszámoltatására, a szakmai beszámoló elkészítésére, tartalmára, benyújtására, valamint a szakmai beszámoló készítésére vonatkozó kötelezettség teljesítésének hatósági ellenőrzésére vonatkozó részletes szabályokat,” szöveg lép.
 
 ### 1. melléklet a 2023. évi IX. törvényhez
 

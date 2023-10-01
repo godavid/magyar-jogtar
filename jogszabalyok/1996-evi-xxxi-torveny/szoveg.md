@@ -83,7 +83,7 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 - w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület;
 - x) tűz- vagy robbanásveszélyes technológia: a tűz- vagy robbanásveszélyes készülék, gép, berendezés fogalmába nem tartozó, olyan anyag- vagy energiaátalakításra szolgáló szerkezetekből álló rendszer, amelyben az ia)-ik) alpontban meghatározott anyag vagy keverék előállítása, feldolgozása, használata, tárolása vagy kimérése történik;
 - y) megfelelőségi nyilatkozat: a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló 2008. július 9-i 2008/768/EK európai parlamenti és tanácsi határozat III. mellékletének tartalmán alapuló, a tűzoltó-technikai termékre, a tűz- vagy robbanásveszélyes készülékre, gépre, berendezésre vonatkozó tűzvédelmi, biztonságossági követelményeknek való megfelelőség igazolására alkalmas irat;
-- z) tűzoltó szolgálat: a Nemzetközi Polgári Légiközlekedési Szervezet (ICAO) által kiadott, a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezményhez tartozó, aktuális 14. Függelék I-es kötetében (ANNEX 14/I., Repülőterek) meghatározott repülőtereken mentő-, tűzoltó feladatokat ellátó szervezet.
+- z)
 
 ### A tűzjelzés
 
@@ -381,7 +381,11 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)
 
 21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
 
@@ -434,7 +438,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 - h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét,
 - i) meghatározza a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és azokat a feltételeket, amelyek teljesítése esetén a beavatkozó önkéntes tűzoltó egyesület részére az önállóan végezhető tűzoltási, műszaki mentési feladatok végzésére megállapodás köthető,
 - j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást,
-- k) meghatározza a tűzoltó szolgálat tűzoltási, műszaki mentési tevékenysége végrehajtásának módjára vonatkozó szakmai szabályokat és a hivatásos katasztrófavédelmi szervvel való együttműködés rendjét.
+- k)
 
 #### 25. §
 
@@ -673,7 +677,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 42. § A létesítményi tűzoltóság létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a tűzoltóság létesítője gondoskodik.
 
-42/A. § A Budapest Liszt Ferenc Nemzetközi Repülőtéren (a továbbiakban: Repülőtér) működő Repülőtéri Hivatásos Tűzoltóság működési, fenntartási és alapfeladatai ellátásához szükséges fejlesztési költségeit – a személyi állomány bér- és bérjellegű költségei és általános tűzoltó-szakmai képzési költségei kivételével –, továbbá a repülőtér és a légijárművek szakismereteivel összefüggő, a Nemzetközi Polgári Repülési Szervezet (ICAO) szabványainak és ajánlott gyakorlatainak megfelelő alap- és éves megújító képzés (elméleti és gyakorlati) szervezését és költségeit a Repülőtér üzembentartója biztosítja a Repülőtér üzemben tartója és a hivatásos katasztrófavédelmi szerv központi szerve erre vonatkozó megállapodása szerint.
+#### 42/A. §
 
 ### VI. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -693,7 +697,9 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (2) A területi katasztrófavédelmi szervet, valamint a tűzoltó szakiskolát ingyenes használati jog illeti meg a használatukban lévő, de nem állami tulajdonban álló ingatlanok és ingóságok tekintetében.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) A tűzoltóság vonatkozásában központi gazdálkodás körébe tartoznak:
 
@@ -793,7 +799,9 @@ kezeli.
 - 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 - 18.
 - 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
-- 20–22.
+- 20.
+- 21.
+- 22.
 - 23. a tűzvédelem műszaki követelményeinek megállapítását,
 - 24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit,
 - 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
@@ -809,7 +817,7 @@ kezeli.
 (6) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy
 
 - a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
-- b) a Budapest Liszt Ferenc Nemzetközi Repülőtér tűzvédelmi, műszaki mentési feladatait ellátó hivatásos tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
+- b)
 - c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
 - d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
 - e) a tűzvédelmi tervezői tevékenység engedélyezési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.

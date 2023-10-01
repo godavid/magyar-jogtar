@@ -224,19 +224,35 @@ a következő törvényt alkotja:
 
 #### 69. §
 
-#### 70. §
+70. § A Jöt. 7. § (1) bekezdés f)–i) pontja helyébe a következő rendelkezés lép:
+
+(Adófizetési kötelezettség keletkezik)
+
+„f) ha az adóraktár engedélyese az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem másik adóraktár engedélyesének, felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti vagy szállítja,
+
+g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti vagy szállítja, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
+
+h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti vagy szállítja, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
+
+i) ha a felhasználói engedélyes az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem másik tagállamba vagy harmadik országba értékesíti vagy szállítja, valamint a megfigyelt terméket nem felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti vagy szállítja,”
 
 #### 71. §
 
 72. § (1)
 
-(2)
+(2) A Jöt. 67. §-a a következő (1b) bekezdéssel egészül ki:
 
-#### 73. §
+„(1b) Az adóraktár engedélyesének nem szükséges az (1) bekezdés szerinti engedéllyel rendelkeznie az általa belföldön szabadforgalomba bocsátott jövedéki terméknek az adóraktárába kereskedelmi céllal történő visszaszállításához, tárolásához, birtoklásához és továbbforgalmazásához.”
+
+73. § A Jöt. 74. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdéstől eltérően az importáló a zárjegy alkoholtermékre történő felhelyezését az állami adó- és vámhatóságnak tett bejelentést követően a telephelyén is végezheti.”
 
 #### 74. §
 
-#### 75. §
+75. § A Jöt. 82. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdéstől eltérően a 67. § (1b) bekezdéséhez kapcsolódó adó-visszaigénylés esetén visszaigényelhető adóként a jövedéki termék szabadforgalomba bocsátásakor hatályos adómértékkel számított adó vehető figyelembe.”
 
 #### 76. §
 

@@ -34,7 +34,11 @@ Magyarország 2024. évi központi költségvetésének megalapozásáról
 
 #### 11. §
 
-#### 12. §
+12. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg)
+
+„e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga, a végrehajtó-jelölti képzés, továbbképzés és a végrehajtó-jelölti kézbesítési vizsga szabályait,”
 
 #### 13. §
 

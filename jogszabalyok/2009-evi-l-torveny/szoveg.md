@@ -76,6 +76,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Ha a kizárási okot a MOKK elnökével, mint a fizetési meghagyásos eljárásban eljáró közjegyzővel szemben jelentik be, vagy ha a kizárási okot mind a MOKK elnökével, mind elnökhelyettesével kapcsolatban bejelentettek, a kizárás és másik közjegyző kijelölése ügyében a MOKK székhelye szerint illetékes járásbíróság jár el.
 
+(3) Ha másik közjegyző kerül kijelölésre az ügyben, a MOKK rendszere a kijelölt közjegyzőről és az új ügyszámról automatikusan, az elektronikus úton eljáró felet elektronikus úton, a nem elektronikus úton eljáró felet postai úton értesíti.
+
 ### Illetékesség
 
 8. § (1) A fizetési meghagyásos eljárásban a közjegyző az ország egész területére illetékes.
@@ -166,6 +168,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) A fizetési meghagyás kibocsátása iránti kérelmét elektronikusan előterjesztő jogosult részére az iratokat – a jelenlévő félnek nyomban kézbesítésre kerülő irat kivételével – a 16/A. § szerint elektronikus úton kell kézbesíteni, illetve megküldeni.
 
+(6) Az (5) bekezdés hatálya alá nem tartozó, az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy részére az iratokat elektronikusan, az E-ügyintézési törvény szerint kell kézbesíteni.
+
 16/A. § (1) Az elektronikus úton kézbesítendő irathoz a címzett az üggyel érintett regisztrációjához tartozó felhasználói felületről férhet hozzá.
 
 (2) A kézbesítendő irat felhasználói felületről történő hozzáférhetővé tételével egyidejűleg erről a MOKK rendszere útján a címzett részére a felhasználói azonosítást követően megadott elektronikus levelezési címére értesítést kell küldeni.
@@ -184,9 +188,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A fizetési meghagyásos eljárásban nincs helye keresetkiterjesztésnek és keresetváltoztatásnak.
 
-(3) A kézbesítési kifogás és az igazolási kérelem tárgyában hozott végzést, valamint a visszautasító végzés ellen előterjesztett fellebbezést a kérelmet előterjesztő félen kívüli feleknek megküldeni nem kell. A visszautasító végzés ellen a kérelmet előterjesztő fél fellebbezhet. Ha a jogosult az igény polgári eljárás útján történő érvényesítésére külön jogszabályban meghatározott határidő elmulasztása miatt terjeszt elő igazolási kérelmet, az erről döntő jogerős végzés a perben eljáró bíróságot nem köti.
+(3) A kézbesítési kifogás és az igazolási kérelem tárgyában hozott végzést, valamint a visszautasító és elutasító végzés ellen előterjesztett fellebbezést a kérelmet előterjesztő félen kívüli feleknek megküldeni nem kell. A visszautasító és elutasító végzés ellen a kérelmet előterjesztő fél fellebbezhet. Ha a jogosult az igény polgári eljárás útján történő érvényesítésére külön jogszabályban meghatározott határidő elmulasztása miatt terjeszt elő igazolási kérelmet, az erről döntő jogerős végzés a perben eljáró bíróságot nem köti.
 
-(4) Az eljárásban a felet nem képviselheti olyan személy, aki az ellenérdekű fél vagy az ellenérdekű fél képviselője is. Ilyen esetben a közjegyző rövid határidő tűzésével az ügygondnoki díjnak a Kjnp. megfelelő alkalmazásával történő előlegezésére hívja fel a jogosultat, ennek megtörténtét követően az ellenérdekű fél képviseletére ügygondnokot rendel. Ha a jogosult a közjegyző felhívására nem előlegezi meg az ügygondnok díját, a közjegyző a fizetési meghagyás kibocsátása iránti kérelmét visszautasítja, illetve az eljárást megszünteti.
+(4) A közjegyző a fél részére ügygondnokot rendel akkor is, ha a felet olyan személy képviseli, aki az ellenérdekű fél vagy az ellenérdekű fél képviselője is.
+
+(5) Ügygondnokrendelés szükségessége esetén a közjegyző rövid határidő tűzésével az ügygondnoki díjnak a Kjnp. megfelelő alkalmazásával történő előlegezésére hívja fel a jogosultat, ennek megtörténtét követően a fél képviseletére ügygondnokot rendel. Ha a jogosult a közjegyző felhívására nem előlegezi meg az ügygondnok díját, a közjegyző a fizetési meghagyás kibocsátása iránti kérelmét visszautasítja vagy az eljárást megszünteti.
 
 18. § (1) A fizetési meghagyásos eljárásban a fél meghallgatásának nincs helye, kivéve a beadvány szóbeli előterjesztését, a fél szóbeli tájékoztatását és a költségkedvezmény iránti kérelem tárgyában való döntéshez szükséges meghallgatást. Egyebekben ahol a Pp. meghallgatást említ, ott ezen a fél írásbeli nyilatkoztatását kell érteni.
 
@@ -204,14 +210,16 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (8) Az eljárásban a jogi képviselet nem kötelező. Ha a fizetési meghagyásos eljárás során a fél jogi képviselővel jár el, az a Pp. 244. §-ának alkalmazása szempontjából nem minősül a jogi képviselővel történő eljárás választásának.
 
+(9) A közjegyző által elektronikus úton meghozott határozaton a keltezés helyeként a közjegyző székhelyét kell feltüntetni.
+
 ### A fizetési meghagyás kibocsátása iránti kérelem
 
 19. § A fizetési meghagyás kibocsátása iránti kérelmet írásban, az erre rendszeresített űrlapon vagy szóban kell előterjeszteni.
 
 20. § (1) A kérelemben fel kell tüntetni:
 
-- a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában törvényes képviselőjének a nevét és kézbesítési címét;
-- b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, székhelyét, telefonszámát, elektronikus levélcímét;
+- a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett azzal rendelkezik – a kötelezett adószámát;
+- b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, kézbesítési címét, telefonszámát, elektronikus levélcímét;
 - c) külföldi székhelyű vállalkozás esetén a 3. § (6) bekezdés szerinti képviselet nevét, székhelyét és azonosító adatait;
 - d) a követelés alapjául szolgáló jogviszonyt és az érvényesíteni kívánt jogot, valamint a követelésnek és járulékainak összegét;
 - e) a követelés alapjául szolgáló jogviszony létrejöttének és a követelés lejártának időpontját;
@@ -223,7 +231,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (3)
 
-(4) A kérelemben röviden elő lehet adni az érvényesíteni kívánt jog alapjául szolgáló tényeket, és meg lehet jelölni azok bizonyítékait. A 285. § (1)–(3) bekezdésének alkalmazása esetén azonban a tanú személyi adatait külön lapon sem kell bejelenteni, ebben az esetben a tanú zártan kezelendő adatait a kérelem nem tartalmazza.
+(4) A kérelemben röviden elő lehet adni az érvényesíteni kívánt jog alapjául szolgáló tényeket, és meg lehet jelölni azok bizonyítékait. A Pp. 285. § (1)–(3) bekezdésének alkalmazása esetén azonban a tanú személyi adatait külön lapon sem kell bejelenteni, ebben az esetben a tanú zártan kezelendő adatait a kérelem nem tartalmazza.
 
 (5) A kérelemben megjelölhető perré alakulás esetére a perben illetékes bíróság azokkal az adatokkal együtt, amelyekből a bíróság hatásköre és illetékessége megállapítható.
 
@@ -233,7 +241,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (8) A kérelemben a jogosult megjelölheti azt a fizetési számlaszámot, amelyre díjtúlfizetés esetén a különbözet visszautalását várja.
 
-21. § (1) A kérelem a kötelezett ellen fennálló több követelés tekintetében kizárólag a Pp. 173. § (1) bekezdése szerinti feltételek, valamint több kötelezett ellen fennálló azonos követelés tekintetében a Pp. 36. § és 37. § a), illetve b) pontja szerinti feltételek fennállása esetén terjeszthető elő együttesen. Több kötelezett ellen fennálló követelés esetében az egyes kötelezetteket terhelő összegeket határozottan meg kell jelölni, egyetemleges kötelezettség esetében pedig a kérelemben ennek tényét kell feltüntetni. E rendelkezéseket megfelelően kell alkalmazni arra az esetre, ha a kérelmet több jogosult terjeszti elő.
+21. § (1) A kérelem a kötelezett ellen fennálló több követelés tekintetében kizárólag a Pp. 173. § (1) bekezdése szerinti feltételek, valamint több kötelezett ellen fennálló azonos követelés tekintetében a Pp. 36. § vagy 37. § a), illetve b) pontja szerinti feltételek fennállása esetén terjeszthető elő együttesen. Több kötelezett ellen fennálló követelés esetében az egyes kötelezetteket terhelő összegeket határozottan meg kell jelölni, egyetemleges kötelezettség esetében pedig a kérelemben ennek tényét kell feltüntetni. E rendelkezéseket megfelelően kell alkalmazni arra az esetre, ha a kérelmet több jogosult terjeszti elő.
 
 (2) Ha a jogosult a papír alapon beadott kérelmet nem az arra rendszeresített űrlapon terjesztette elő, vagy ha a fél az űrlapot nem megfelelően töltötte ki, őt a közjegyző a kérelem adatainak a MOKK rendszerébe történő bevitele után a hiányok pótlására hívja fel.
 
@@ -272,16 +280,16 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - j) külön jogszabály az igény polgári eljárás útján történő érvényesítésére határidőt állapít meg és azt a jogosult elmulasztotta;
 - k) a jogi képviselő által benyújtott kérelem nem tartalmazza az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban foglaltakat, a meghatalmazásáról szóló nyilatkozatot, vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
 - l) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy a kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve, ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §);
-- m) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el, vagy a jogosult nem előlegezte meg az ügygondnoki díjat [17. § (4) bekezdés]; vagy
+- m) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el, vagy a jogosult nem előlegezte meg az ügygondnoki díjat; vagy
 - n) a jogosult eljárási költségként anyagi jogi követelést érvényesít.
 
-(2) Ha a meghagyást a kötelezettnek – ide nem értve a kézbesítési fikció eseteit – nem lehet kézbesíteni, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kötelezett új belföldi idézési címét harminc napon belül jelentse be.
+(2) Ha a meghagyást a kötelezettnek – ide nem értve a kézbesítési fikció eseteit – nem lehet kézbesíteni, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kötelezett új belföldi kézbesítési címét harminc napon belül jelentse be.
 
 (3) Ha a jogosult az adatokat bejelenti, a kézbesítést ismételten meg kell kísérelni, és ha az ismét sikertelen, a kérelmet az (1) bekezdés h) pontja alapján vissza kell utasítani.
 
 (4) Ha az adatokat a jogosult nem, vagy hiányosan jelenti be, a kérelmet az (1) bekezdés m) pontja alapján kell visszautasítani.
 
-(5) A fizetési meghagyás iránti kérelem visszautasítására a Pp. 176. §-ának (4) bekezdését megfelelően alkalmazni kell.
+(5) A fizetési meghagyás iránti kérelem visszautasítására a Pp. 176. §-ának (3) és (4) bekezdését megfelelően alkalmazni kell.
 
 (6) A fizetési meghagyás iránti kérelem visszautasítása esetén a már kibocsátott fizetési meghagyás hatályát veszti.
 
@@ -293,11 +301,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (3) Ha a jogosult a követelését a (2) bekezdés szerint érvényesíti, ezt a fellebbezési jogáról való lemondásnak, ha pedig már fellebbezést terjesztett elő, de azt még jogerősen nem bírálták el, a fellebbezés visszavonásának kell tekinteni.
 
-(4) A (2) bekezdésben meghatározott esetekben a kérelem beadásához fűződő joghatályok fennmaradnak, ha a jogosult a fizetési meghagyás kibocsátása iránti újabb kérelmet vagy a keresetlevelet a végzés jogerőre emelkedését követő harminc napon belül benyújtja vagy ajánlott küldeményként postára adja, illetőleg e határidőn belül követelését egyéb úton szabályszerűen érvényesíti. E határidő elmulasztása esetén igazolásnak nincs helye. A fizetési meghagyás kibocsátása iránti újabb kérelemben hivatkozni kell a kérelmet visszautasító végzés számára, a keresetlevélhez pedig mellékelni kell az visszautasító végzést.
+(4) A (2) bekezdésben meghatározott esetekben a kérelem beadásához fűződő joghatályok fennmaradnak, ha a jogosult a fizetési meghagyás kibocsátása iránti újabb kérelmet vagy a keresetlevelet a végzés jogerőre emelkedését követő harminc napon belül benyújtja vagy ajánlott küldeményként postára adja, illetőleg e határidőn belül követelését egyéb úton szabályszerűen érvényesíti. E határidő elmulasztása esetén igazolásnak nincs helye. A fizetési meghagyás kibocsátása iránti újabb kérelemben hivatkozni kell a kérelmet visszautasító végzés számára, a keresetlevélhez pedig mellékelni kell a visszautasító végzést.
 
 ### A fizetési meghagyás kibocsátása
 
-26. § (1) Ha a fizetési meghagyás kibocsátása iránti kérelem visszautasításának nincs helye, és ha nem kell a felet a hiányok pótlására felhívni, vagy a fél a hiánypótlási kötelezettségének eleget tett, a közjegyző az ellenfél meghallgatása (nyilatkoztatása) nélkül köteles a fizetési meghagyást kibocsátani. A közjegyző a fizetési meghagyást legkésőbb a kérelem beérkezésétől számított tizenöt napon belül – elektronikus úton beadott kérelem esetén három munkanapon belül – papír alapon bocsátja ki. A közjegyző a fizetési meghagyást elektronikusan bocsátja ki és kézbesítteti a félnek, ha e törvény elektronikus kézbesítést ír elő.
+26. § (1) Ha a fizetési meghagyás kibocsátása iránti kérelem visszautasításának nincs helye, és ha nem kell a felet a hiányok pótlására felhívni, vagy a fél a hiánypótlási kötelezettségének eleget tett, a közjegyző az ellenfél meghallgatása (nyilatkoztatása) nélkül köteles a fizetési meghagyást kibocsátani. A közjegyző a fizetési meghagyást legkésőbb a kérelem beérkezésétől számított tizenöt napon belül – elektronikus úton beadott kérelem esetén három munkanapon belül – bocsátja ki és papír alapon kézbesítteti. A közjegyző a fizetési meghagyást elektronikusan kézbesítteti, ha e törvény elektronikus kézbesítést ír elő.
 
 (2) A határidőbe nem számít bele hiánypótlási felhívás esetén a hiánypótlási felhívás kibocsátásától a hiányok pótlásáig terjedő idő, valamint a kizárás, az igazolási kérelem és a költségkedvezmény iránti kérelem tárgyában való döntéshez szükséges idő. Ha a kérelem csak a hiányok pótlása után válik alkalmassá a fizetési meghagyás kibocsátására, a fizetési meghagyást a hiányok pótlásának a MOKK rendszerén történő rögzítésétől (elektronikus beadvány esetén a benyújtástól) számított két munkanapon belül kell kibocsátani, ha az ügyintézési határidőből egyébként ennél kevesebb lenne hátra.
 
@@ -310,7 +318,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 27. § (1) A fizetési meghagyásnak tartalmaznia kell:
 
 - a) az eljáró közjegyző nevét és székhelyét, valamint az ügyszámot;
-- b) a 20. § (1) bekezdés a)–f) pontjában és (4)–(7) bekezdésében meghatározott adatokat;
+- b) a 20. § (1) bekezdés a)–g) pontjában, és ha a jogosult megjelölte, a (4)–(7) bekezdésében meghatározott adatokat;
 - c) azt a meghagyást, hogy a kötelezett a követelésnek a meghagyás kézbesítésétől számított tizenöt nap alatt tegyen eleget, és az összegszerűen meghatározott eljárási költségeket is fizesse meg;
 - d) azt a tájékoztatást, hogy a közjegyző a meghagyással érvényesített követelés jogalapját és az annak bizonyítására szolgáló tényeket érdemben e törvény alapján nem vizsgálta, és a meghagyás akkor válik jogerőssé és végrehajthatóvá, ha a kötelezett határidőben nem mond ellent;
 - e) azt a figyelmeztetést, hogy a kötelezett – ha a követelést alaptalannak tartja – a meghagyás ellen a 28. §, illetve – ha azt e törvény nem zárja ki – a 32. § szerint ellentmondással élhet;
@@ -347,7 +355,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Ha a jogosult a kötelezett állítását elismeri, vagy a felhívásra nem nyilatkozik, a közjegyző az eljárást megszünteti, ha pedig a jogosult a kötelezett állítását vitatja, akkor a közjegyző a 37. és 38. § rendelkezései szerint jár el. Ha a jogosult a kötelezett nyilatkozata alapján a fizetési meghagyásban érvényesített követelését leszállítja, a bíróság a tárgyalást csak erre a követelésre tűzi ki.
 
-31. § (1) Nem tekinthető a fizetési meghagyás megtámadásának, ha a kötelezett arra hivatkozik, hogy az érvényesített követelést a fizetési meghagyás kézhezvételét követően teljesítette; ebben az esetben a meghagyás az ellentmondásra nyitva álló határidő utolsó napját követő napon jogerőre emelkedik. A kötelezettnek – ha a teljesítésről bizonylatot kapott, vagy a teljesítést egyedi azonosítóval rendelkező pénzügyi művelettel hajtotta végre – a nyilatkozatban meg kell jelölnie a bizonylat sorszámát és keltét, illetve a pénzügyi művelet azonosítóját (tranzakcióazonosító, befizetőazonosító stb.) és időpontját.
+31. § (1) Nem tekinthető a fizetési meghagyás megtámadásának, ha a kötelezett arra hivatkozik, hogy az érvényesített követelést a fizetési meghagyás kézhezvételét követően teljesítette; ebben az esetben a meghagyás az ellentmondásra nyitva álló határidő utolsó napját követő naptól kezdve jogerős. A kötelezettnek – ha a teljesítésről bizonylatot kapott, vagy a teljesítést egyedi azonosítóval rendelkező pénzügyi művelettel hajtotta végre – a nyilatkozatban meg kell jelölnie a bizonylat sorszámát és keltét, illetve a pénzügyi művelet azonosítóját (tranzakcióazonosító, befizetőazonosító stb.) és időpontját.
 
 (2) A közjegyző a kötelezett nyilatkozatának beérkezését követően e nyilatkozatról szóló értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy tizenöt napon belül nyilatkozzék a követelés fennállásáról. Ha a jogosult a kötelezett állítását elismeri, vagy a felhívásra nem nyilatkozik, a közjegyző a jogerősítési záradékban feltünteti, hogy a követelés – vagy annak a nyilatkozattal, illetve az elismeréssel érintett része – tárgyában végrehajtásnak nincs helye.
 
@@ -361,7 +369,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 34. § (1) A közjegyző a meghagyásnak a kötelezett részére történő kézbesítése után, de annak jogerőre emelkedése, ellentmondás esetén pedig az ügynek a bírósághoz való megküldése előtt az eljárást megszünteti
 
-- a) ha a kérelmet már a 24. § (1) bekezdésének a)–j) vagy m) pontja alapján vissza kellett volna utasítani;
+- a) ha a kérelmet már a 24. § (1) bekezdésének a)–j) pontja alapján vissza kellett volna utasítani;
 - b) ha a jogosult kérelmétől elállt;
 - c) ha a felek az eljárás megszüntetését közösen kérték;
 - d) a fél halála vagy megszűnése esetén, ha megállapítható, hogy a jogviszony természete a jogutódlást kizárja;
@@ -369,11 +377,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - f) a 30. § (2) bekezdésében meghatározott esetben;
 - g) a 15. § (3) bekezdésének b) pontjában, a 17. § (4) bekezdésében, illetve a 18. § (2) bekezdésében meghatározott esetben.
 
-(2) A közjegyző az (1) bekezdés a) és d) pontja esetében az eljárást annak bármely szakában hivatalból megszüntetni köteles.
+(2) A közjegyző az (1) bekezdés a), d), f) és g) pontja esetében az eljárást annak bármely szakában hivatalból megszüntetni köteles.
 
 (3) A jogosult a kérelmétől a kötelezett hozzájárulása nélkül is elállhat, a kötelezett ebben az esetben költségekre nem tarthat igényt.
 
-(4) Az eljárás megszüntetésével a meghagyás hatályát veszti. Az eljárást megszüntető végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
+(4) Az eljárás megszüntetésével a meghagyás hatályát veszti.
 
 (5) Az eljárás megszüntetése esetén a jogosult a követelés érvényesítése végett választása szerint ismét fizetési meghagyás kibocsátása iránti kérelmet terjeszthet elő, vagy a bíróságnál keresetet indíthat, illetőleg követelését egyéb úton szabályszerűen érvényesítheti. Ebben az esetben a 3. § (2) bekezdésében meghatározott korlátozás nem alkalmazható.
 
@@ -381,7 +389,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (7) Ha az eljárás megszüntetésére a 34. § (1) bekezdésének a) pontja alapján került sor, az (5) bekezdésben meghatározott esetekben a kérelem beadásának és a meghagyás kötelezettnek történő kézbesítésének a jogi hatályai fennmaradnak, ha az újabb fizetési meghagyás kibocsátása iránti kérelmet vagy a keresetlevelet a végzés jogerőre emelkedését követő harminc napon belül a jogosult benyújtja vagy ajánlott küldeményként postára adja, vagy e határidőn belül követelését egyéb úton szabályszerűen érvényesíti. E határidő elmulasztása esetén igazolásnak nincs helye. A kérelemben hivatkozni kell az eljárást megszüntető végzés számára, a keresetlevélhez pedig mellékelni kell az eljárást megszüntető végzést.
 
-35. § (1) A megszüntető végzés ellen a jogosult fellebbezhet. A közjegyző olyan határozata ellen, amely az eljárás megszüntetésére irányuló kérelmet visszautasítja vagy elutasítja, külön fellebbezésnek nincs helye.
+35. § (1) A megszüntető végzés ellen a jogosult fellebbezhet, fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell. A közjegyző olyan határozata ellen, amely az eljárás megszüntetésére irányuló kérelmet visszautasítja vagy elutasítja, külön fellebbezésnek nincs helye.
 
 (2) Ha az eljárás megszüntetését a kötelezett vagy a kötelezett is kérte, és a közjegyző e kérelemnek a felek nyilatkoztatása nélkül nem ad helyt, a kérelmet külön végzés hozatala nélkül ellentmondásnak kell tekinteni, és a 37., valamint a 38. § szerint kell eljárni.
 
@@ -400,7 +408,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - a) az elkésett,
 - b) nem az ellentmondás előterjesztésére jogosulttól származik,
 - c) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, vagy
-- d) a 32. § (2) bekezdésben vagy az 55. § (8) bekezdésben meghatározott ok áll fenn.
+- d) a 32. § (2) bekezdésben meghatározott ok áll fenn.
 
 (6) Ha a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy ellentmondását nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, az ellentmondást hiánypótlási felhívás nélkül kell visszautasítani.
 
@@ -439,13 +447,16 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 38. § (1) A közjegyző az ellentmondásról szóló értesítésének a jogosult részére történő kézbesítését követően a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített iratait (a továbbiakban: iratanyag) elektronikus úton megküldi az Országos Bírósági Hivatal (a továbbiakban: OBH) útján a közjegyző felhívásában megjelölt bíróságnak.
 
-(2) Ha a 30. § alkalmazásának van helye, a közjegyző az ellentmondásról szóló értesítést azt követően kézbesíti a jogosult részére, ha a jogosult a kötelezett állítását vitatja.
+(2) Ha a 30. § alkalmazásának van helye, a közjegyző a 37. § (3) bekezdése szerinti felhívást csak azt követően kézbesíti a jogosult részére, ha a jogosult a kötelezett állítását vitatja. Ebben az esetben a 37. § (3) bekezdésében meghatározott határidő e felhívás kézbesítésétől kezdődik.
 
 (3) Az iratanyag a közjegyző aláírása nélkül is hiteles.
 
 ### Egyéb perorvoslatok
 
-39. § (1) A fizetési meghagyásos eljárásban hozott azon végzések ellen, amelyek ellen e törvény vagy a Pp. a fellebbezést megengedi, fellebbezésnek van helye.
+39. § (1) A fizetési meghagyásos eljárásban hozott végzés ellen fellebbezésnek van helye, ha a fellebbezést
+
+- a) e törvény megengedi, vagy
+- b) a Pp. megengedi és e törvény nem zárja ki.
 
 (2) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon az ügyben eljáró közjegyzőnél nyújthatja be.
 
@@ -583,9 +594,9 @@ kell megfizetni.
 
 52. § (1) A végrehajtási kérelmet, valamint a biztosítási intézkedés iránti kérelmet az erre rendszeresített űrlapon, papír alapon vagy elektronikus úton kell benyújtani. A kérelem benyújtására a 10–13. § rendelkezéseit megfelelően alkalmazni kell.
 
-(2) A végrehajtás elrendelésére a fizetési meghagyást kibocsátó közjegyző jogosult; a végrehajtás elrendelése iránti ügyek elosztására a 9. § (3) bekezdésében foglalt rendelkezést alkalmazni kell. Ha a fizetési meghagyást kibocsátó közjegyző valamely okból – ide nem értve a kizárás esetét – nem tud eljárni, az eljáró közjegyzőt a MOKK elnöke (elnökhelyettese) jelöli ki.
+(2) A végrehajtás elrendelésére a fizetési meghagyást kibocsátó közjegyző jogosult; a végrehajtás elrendelése iránti ügyek elosztására a 9. § (3) bekezdésében foglalt rendelkezést is megfelelően alkalmazni kell. Ha a fizetési meghagyást kibocsátó közjegyző valamely okból – ide nem értve a kizárás esetét – nem tud eljárni, az eljáró közjegyzőt a MOKK elnöke (elnökhelyettese) jelöli ki.
 
-(3) A 10–13. §-t, 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) és (5) bekezdését, a 24. § (1) bekezdés k) pontját, a 25. § (3) bekezdését, a 26. § (1) és (2) bekezdését, valamint a 39. § (2)–(5) bekezdését és 44. § (3) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell.
+(3) A 4–7. §-t, 10–13. §-t, 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) és (5) bekezdését, a 24. § (1) bekezdés l) pontját, a 25. § (3) bekezdését, a 26. § (1) és (2) bekezdését, valamint a 39. § (2)–(5) bekezdését és 44. § (3) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell. A 15. §-ban meghatározott jogkövetkezmények a végrehajtást kérővel szemben akkor alkalmazhatók, ha a Vht. 37/B. §-a szerint a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az iratokat a kézbesítési megbízott részére kézbesíteni nem lehet.
 
 (4) A végrehajtás elrendelésére a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített adatai alapján kizárólag végrehajtási lappal, illetve biztosítási intézkedést elrendelő végzéssel (a továbbiakban együtt: végrehajtási lap) kerül sor.
 
@@ -624,7 +635,7 @@ kell megfizetni.
 - c) a végrehajtási eljárást megszünteti, vagy
 - d) a végrehajtási lapot visszavonja.
 
-(8) Ha a közjegyző a végrehajtási eljárást a 32. § (2) bekezdése alapján szünteti meg és a végrehajtást kérő díjfeljegyzési joga folytán a végrehajtási díjat nem fizette meg, a közjegyző felhívja a kötelezettet, hogy a feljegyzett végrehajtási díjat a MOKK részére a végzés kézhezvételétől számított tizenöt napon belül fizesse meg; ezt a végrehajtási díjat a kötelezett viseli. Ha a kötelezett a végrehajtási díjat határidőn belül a MOKK részére nem fizeti meg, a közjegyző az ellentmondást visszautasítja.
+(8)
 
 (9) A végrehajtási lap visszavonása iránti kérelem előterjesztéséért a MOKK részére – a MOKK rendszere üzemeltetési költségeinek, valamint a közjegyzők munkadíjának és költségeinek fedezése érdekében – 15.000 Ft díjat kell fizetni; a díj öthatodát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén megosztja, a fennmaradó összeget a MOKK a működésére fordítja. Ha a kérelem alapos, a közjegyző a végrehajtási lap visszavonása tárgyában hozott döntésében hivatalból rendelkezik a megfizetett díjnak a kérelmet előterjesztő részére történő visszafizetéséről.
 
@@ -691,9 +702,9 @@ vonatkozó rendelkezéseit kell megfelelően alkalmazni; az a) és b) pontban me
 
 (9) Az európai fizetési meghagyás végrehajtásának magyar közjegyző általi elrendelése iránti eljárásra e törvénynek a végrehajtás elrendelésére vonatkozó szabályait kell alkalmazni.
 
-(10) Az európai fizetési meghagyásos eljárásban a beadványokat kizárólag papír alapon írásban az eljáró közjegyzőnél lehet előterjeszteni, e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók. Az európai fizetési meghagyásos eljárásban kizárólag papír alapú beadványok alkalmazhatók; az eljáró közjegyző az iratokat papíron állítja elő, és kézbesítteti a félnek.
+(10) Az európai fizetési meghagyásos eljárásban a beadványokat az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon, elektronikusan az eljáró közjegyzőhöz, más személy az eljáró közjegyzőnél papír alapon írásban terjesztheti elő. Az eljárásban a Kjnp. 15/A–15/D. §-a megfelelően alkalmazandó, és az e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók.
 
-(11) Az európai fizetési meghagyásos eljárásért a közjegyző részére külön jogszabály szerint meghatározott módon eljárási díjat kell fizetni; a 42. § (1) és (2) bekezdését, és a 46. § (3)–(5) bekezdését nem lehet alkalmazni. Az európai fizetési meghagyás végrehajtásának elrendeléséért az 55. § (1) és (2) bekezdésében meghatározott összegű díjat a közjegyző részére külön jogszabály szerint meghatározott módon kell megfizetni, a díj az eljáró közjegyzőt illeti.
+(11) Az európai fizetési meghagyásos eljárásért a közjegyző részére külön jogszabály szerint meghatározott módon eljárási díjat kell fizetni; a 42. § (1) és (2) bekezdését, és a 46. § (3)–(5) bekezdését nem lehet alkalmazni. Az európai fizetési meghagyás végrehajtásának elrendeléséért az 55. § (1) és (2) bekezdésében meghatározott összegű díjat, valamint a végrehajtási lap visszavonása iránti kérelem előterjesztéséért az 55. § (9) bekezdésében meghatározott összegű díjat a közjegyző részére külön jogszabály szerint meghatározott módon kell megfizetni, a díj az eljáró közjegyzőt illeti.
 
 ### Felhatalmazó rendelkezések
 
@@ -740,7 +751,31 @@ rendeletben állapítsa meg.
 
 ### Módosuló jogszabályok
 
-62–74. §
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
 
 ### Jogharmonizációs záradék
 

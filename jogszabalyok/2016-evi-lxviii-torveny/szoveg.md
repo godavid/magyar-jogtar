@@ -321,10 +321,10 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 - c) jövedéki termék csomagküldő kereskedelem keretében belföldre szállításával,
 - d) másik tagállamban szabadforgalomba bocsátott jövedéki termék kereskedelmi célú vagy csomagküldő kereskedelem keretében végzett szállítása során a 3. § (1) bekezdés 44. pont c) alpontja szerinti szabálytalanság belföldön történő elkövetésével,
 - e) bármilyen energiatermék üzemanyagkénti, üzemanyagok adalékakénti, hígítóanyagakénti vagy fűtőanyagkénti kínálásával, értékesítésével vagy felhasználásával, ha korábban nem keletkezett adófizetési kötelezettség az adott felhasználásra megállapított adómértékkel,
-- f) ha az adóraktár engedélyese az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem másik adóraktár engedélyesének, felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti,
-- g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
-- h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
-- i) ha a felhasználói engedélyes az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem másik tagállamba vagy harmadik országba értékesíti, valamint a megfigyelt terméket nem felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti,
+- f) ha az adóraktár engedélyese az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem másik adóraktár engedélyesének, felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti vagy szállítja,
+- g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti vagy szállítja, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
+- h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti vagy szállítja, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
+- i) ha a felhasználói engedélyes az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem másik tagállamba vagy harmadik országba értékesíti vagy szállítja, valamint a megfigyelt terméket nem felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti vagy szállítja,
 - j) a felhasználói engedélyesnél, valamint egyéb ellenőrzött ásványolaj és megfigyelt termék vonatkozásában az adóraktár engedélyesnél a készletfelvétellel megállapított tényleges készlet és a nyilvántartás szerinti készlet különbözete szerinti hiányra, illetve
 - k) a jövedéki engedélyes kereskedőnél az üzemanyag készletfelvétellel megállapított tényleges készletének és nyilvántartás szerinti készletének – a végrehajtási rendeletben meghatározott mértéket meghaladó – különbözete szerinti többletre.
 
@@ -1370,6 +1370,8 @@ a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenység –
 
 járművei részére történő kiszolgálásához.
 
+(1b) Az adóraktár engedélyesének nem szükséges az (1) bekezdés szerinti engedéllyel rendelkeznie az általa belföldön szabadforgalomba bocsátott jövedéki terméknek az adóraktárába kereskedelmi céllal történő visszaszállításához, tárolásához, birtoklásához és továbbforgalmazásához.
+
 (2) A jövedéki engedélyes kereskedő jövedéki terméket belföldön csak adóraktár engedélyesétől (ideértve a megszűnt adóraktárt az engedély hatályvesztését követő 30 napig), termékét adóraktárban tároló személytől, felhasználói engedélyestől, kisüzemi bortermelőtől és jövedéki engedélyes kereskedőtől szerezhet be.
 
 (3) A jövedéki engedélyes kereskedő – a (2) bekezdéstől eltérően – a jövedéki kiskereskedő vagy végfelhasználó részére értékesített jövedéki termékeket vagy azok egy részét a jövedéki kiskereskedő vagy végfelhasználó kérésére visszavásárolhatja.
@@ -1467,6 +1469,8 @@ forgalmazhat.
 - l) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott dohányzást helyettesítő nikotintartalmú terméket,
 - m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott füst nélküli dohányterméket.
 - n) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott hevített terméket.
+
+(1a) Az (1) bekezdéstől eltérően az importáló a zárjegy alkoholtermékre történő felhelyezését az állami adó- és vámhatóságnak tett bejelentést követően a telephelyén is végezheti.
 
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
@@ -1592,6 +1596,8 @@ fizeti meg.
 #### 53. Adó-visszaigénylés közös eljárási szabályai
 
 82. § (1) Adó-visszaigénylés esetén visszaigényelhető adóként a jövedéki termék adóval növelt áron történt beszerzését igazoló bizonylat kiállításának napján hatályos adómértékkel számított adó vehető figyelembe.
+
+(1a) Az (1) bekezdéstől eltérően a 67. § (1b) bekezdéséhez kapcsolódó adó-visszaigénylés esetén visszaigényelhető adóként a jövedéki termék szabadforgalomba bocsátásakor hatályos adómértékkel számított adó vehető figyelembe.
 
 (2) Adó-visszaigénylés a jövedéki termék adóval növelt áron történt beszerzését igazoló bizonylaton szereplő ellenértékből legalább az (1) bekezdés szerinti adótartalom kiegyenlítését követően érvényesíthető.
 
