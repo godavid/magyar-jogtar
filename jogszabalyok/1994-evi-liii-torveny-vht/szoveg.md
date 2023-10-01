@@ -3170,13 +3170,15 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének vizsgálatát kezdeményezheti.
 
-(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a Kar hivatali szervének feladata.
+(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése – a (7) bekezdésben foglaltak kivételével – a Kar hivatali szervének feladata.
 
 (4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Hatóság elnökének rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Hatóság elnökének rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
 
 (5)
 
 (6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a Hatóság elnökét soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
+
+(7) A 242. § szerinti szakmai beszámoló készítési kötelezettség teljesítését a Hatóság ellenőrzi.
 
 230/A. § (1)
 
@@ -3270,8 +3272,10 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha
 
-- a) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál, és
+- a) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál,
 - b) a kérelem benyújtásáig, a kérelem előterjesztésének évében, és az azt megelőző két év alatt a végrehajtót legfeljebb három alkalommal kötelezte a bíróság pénzösszeg 217/B. § szerinti megfizetésére.
+- c) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották bírsággal a szakmai beszámoló készítési kötelezettség megszegése miatt, és
+- d) a végrehajtó a 241/B. § szerinti szakmai továbbképzési kötelezettségének maradéktalanul eleget tett.
 
 (2) Ha a kérelem elbírálása idején a végrehajtóval szemben a kérelem elbírálására kihatással bíró fegyelmi eljárás van folyamatban, a végrehajtó szolgálati viszonya a fegyelmi eljárás jogerős befejeződését követő, a végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelme elbírálása napjáig meghosszabbodik.
 
@@ -3521,13 +3525,19 @@ a végrehajtói szolgálata szünetel.
 
 (7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) és i) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.
 
-### Képzési, továbbképzési kötelezettség
+### Képzési, továbbképzési és beszámolási kötelezettség
 
-241/A. § (1) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt köteles a jogszabályban meghatározott szervezet képzésein és továbbképzésein részt venni.
+241/A. § (1) A végrehajtójelölt köteles az igazságügyért felelős miniszter rendeletében meghatározott szervezet képzésein és továbbképzésein részt venni.
 
-(2) A végrehajtó köteles az alkalmazásában álló végrehajtó-helyettes és végrehajtójelölt részére a képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.
+(2) A végrehajtó köteles az alkalmazásában álló végrehajtójelölt részére az (1) bekezdés szerinti képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.
 
-#### 242. §
+241/B. § (1) A végrehajtónak és a végrehajtó-helyettesnek legalább kétévenként a Hatóság elnöke rendeletében meghatározott szakmai továbbképzésen kell részt vennie, és az erről szóló tanúsítványt a Kar hivatali szerve vezetőjének be kell mutatnia.
+
+(2) A végrehajtó köteles az alkalmazásában álló végrehajtó-helyettes részére az (1) bekezdés szerinti továbbképzésen történő részvétel lehetőségét biztosítani, ennek érdekében a továbbképzés idejére őt a munkavégzés alól mentesíteni.
+
+242. § (1) A végrehajtó a Hatóság elnökének rendeletében foglaltak szerint szakmai beszámoló benyújtásával évente január 31-ig beszámol az előző évi szakmai tevékenységéről.
+
+(2) Ha a végrehajtó állandó helyettesként helyettesítési feladatokat is ellát, a helyettesített végrehajtó által betöltött álláshelyre vonatkozó szakmai tevékenységéről külön szakmai beszámolót nyújt be az (1) bekezdésben meghatározottak szerint.
 
 ### A végrehajtó helyettesítése
 
@@ -3672,10 +3682,11 @@ a végrehajtói szolgálata szünetel.
 - 21. a végrehajtó irodájának és kézbesítési irodájának címe,
 - 22. a végrehajtó azonosító száma,
 - 23. a végrehajtó hivatali elektronikus aláírás-tanúsítványa érvényességének kezdete és lejárta.
+- 24. a 241/B. § szerinti kötelező szakmai továbbképzési kötelezettség teljesítéséről szóló tanúsítvány száma.
 
 (3) A végrehajtó-helyettesek névjegyzéke a következő adatokat tartalmazza:
 
-- a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,
+- a) a (2) bekezdés 1., 3–5., 18–19. és 24. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,
 - b) a névjegyzékbe vétel és az abból történő törlés időpontja,
 - c) a végrehajtó-helyettest alkalmazó végrehajtó neve és székhelye, a végrehajtó-helyettes alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú – 90 napot meghaladó – kiesésre vonatkozó adatok,
 - d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
@@ -4057,7 +4068,9 @@ kérhetnek adatszolgáltatást.
 - c) végrehajtó-helyettes és végrehajtójelölt névjegyzékbe vétele esetén nevét, születési helyét és időpontját, anyja nevét, a névjegyzékbe vétel időpontját, az alkalmazó végrehajtó nevét és székhelyét,
 - d) a végrehajtói irodák nyilvántartásába történő felvétel esetén a végrehajtói iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
 
-(6)
+(6) A Hatóság elnöke a 242. § szerinti szakmai beszámolóval kapcsolatos ügyekben az Ákr. rendelkezéseit a (7) bekezdésben foglalt eltéréssel alkalmazza.
+
+(7) A szakmai beszámoló készítési kötelezettség megszegése esetén figyelmeztetés szankció alkalmazása kizárt.
 
 #### 254/I. §
 
@@ -4675,6 +4688,10 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (5) A 2026. január 1-jét megelőzően benyújtott szolgálat folyamatosságának megállapítása iránti kérelmek esetében a Módtv.15.-tel megállapított 234/A. § (1) bekezdés b) pontja szerinti feltétel fennállásának megállapítása során a 2023. július 1-jétől a kérelem benyújtásáig terjedő időszakot kell figyelembe venni.
 
+(6) A Módtv.15-tel megállapított 241/B. § szerinti szakmai továbbképzési kötelezettségnek a végrehajtónak és a végrehajtó-helyettesnek először 2025. június 30-ig kell eleget tennie, és a továbbképzésen való részvételről kiállított dokumentumot 2025. július 31-ig kell a Kar hivatali szerve vezetőjének megküldeniük.
+
+(7) A Módtv.15-tel megállapított 242. § szerinti kötelezettségnek a végrehajtó először 2024. január 31-ig köteles eleget tenni.
+
 304/M. § (1) A 2023. szeptember 1. és 2024. december 31. napja közötti időszakban benyújtott végrehajtási kérelmek esetén a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel (a továbbiakban: Módtv.16.) megállapított 11. § (2) bekezdése, valamint 12. § (2) és (6)–(8) bekezdése szerinti eljárás során az alzálogjogosult – ha nincs az ingatlan-nyilvántartásba bejegyzett alzálogjoga – jogosultságát igazolhatja a közjegyző által az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény alapján kiállított, az alzálogjog fennállásának igazolásáról szóló jogerős bizonyítvánnyal.
 
 (2) A Módtv.16.-tal megállapított 114/A. § (14) bekezdés rendelkezéseit a 2023. szeptember 1. napján folyamatban lévő zálogjogosulti bekapcsolódással indult végrehajtási ügyekben is alkalmazni kell.
@@ -4879,6 +4896,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - m) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 - n) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
 - o) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolásra, ügyvitelre és ügykezelésre vonatkozó részletes szabályokat.
+- p) az önálló bírósági végrehajtók és önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat,
+- q) az önálló bírósági végrehajtó szakmai beszámoltatására, a szakmai beszámoló elkészítésére, tartalmára, benyújtására, valamint a szakmai beszámoló készítésére vonatkozó kötelezettség teljesítésének hatósági ellenőrzésére vonatkozó részletes szabályokat.
 
 (1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.
 
@@ -4888,7 +4907,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - b)
 - c)
 - d)
-- e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
+- e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga, a végrehajtó-jelölti képzés, továbbképzés és a végrehajtó-jelölti kézbesítési vizsga szabályait,
 - f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 - g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
 - h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
