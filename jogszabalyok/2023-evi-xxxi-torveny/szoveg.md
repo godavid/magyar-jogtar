@@ -4,151 +4,43 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 1. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-1. § A közjegyzőkről szóló 1991. évi XLI. törvény 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(2) A közjegyző a jogügyletekről és jogi jelentőségű tényekről közokiratot állít ki, okiratokat őriz meg, a felek kérelmére pénzt, értéktárgyat és értékpapírt vesz át a jogosult részére történő átadás végett, a feleket a hatáskörébe utalt eljárásokkal kapcsolatban – a felek esélyegyenlőségének biztosításával, az adott eljárásra vonatkozó jogszabály rendelkezései szerint – kioktatással segíti jogaik gyakorlásában és kötelességeik teljesítésében.”
+#### 2. §
 
-2. § A közjegyzőkről szóló 1991. évi XLI. törvény 11/A. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A területi közjegyzői kamara hatósági eljárásában hozott határozat ellen fellebbezésnek van helye. Nincs helye fellebbezésnek a kérelemnek teljes egészében helyt adó elsőfokú döntés ellen, ha az ügyben nincs ellenérdekű ügyfél.”
-
-3. § A közjegyzőkről szóló 1991. évi XLI. törvény 12. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az e törvényben szabályozott eljárásokban az a közjegyző jár el, akihez a fél a kérelmét előterjeszti. Ha a fél a kérelmét az eljárás folyamatban léte alatt több közjegyzőhöz is előterjeszti, az a közjegyző jár el, akinél az eljárás előbb indult meg.”
+#### 3. §
 
 #### 4. §
 
-5. § A közjegyzőkről szóló 1991. évi XLI. törvény 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 5. §
 
-„(3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyzővel tölti be, a közjegyzőt e székhelyre helyezi át. A közjegyző a kinevezésétől számított 3 éven belül csak a kinevezését követően felmerült különös méltánylást érdemlő okból helyezhető át. A különös méltánylást érdemlő okra a pályázó közjegyzőnek a pályázat benyújtásával egyidejűleg hivatkoznia kell.”
+#### 6. §
 
-6. § A közjegyzőkről szóló 1991. évi XLI. törvény 29. § (2a) és (2b) bekezdése helyébe a következő rendelkezések lépnek:
+#### 7. §
 
-„(2a) A közjegyzőjelölt a közjegyző utasítása és felelőssége mellett jogosult a közjegyző hatáskörébe utalt adatigénylés alapján adatot beszerezni, továbbá önálló aláírási joggal járhat el közjegyzői nemperes ügyekben azzal, hogy a közjegyzőjelölt közjegyzői okiratot (ügyleti okiratot és ténytanúsító okiratot) nem készíthet, az ügy érdemében hozott vagy az eljárást befejező egyéb határozatot nem hozhat, tárgyalást nem tarthat és – ide nem értve a beadvány szóbeli előterjesztését – a feleket személyesen nem hallgathatja meg. A 21/A. § rendelkezései a közjegyzőjelölt tekintetében megfelelően alkalmazandók. A közjegyzőjelölt jogosult a közjegyző (közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző) határozatát kiadmányozni.
+#### 8. §
 
-(2b) A közjegyzői irodai ügyintéző a közjegyző utasítása és felelőssége mellett jogosult a közjegyző hatáskörébe utalt adatigénylés alapján adatot beszerezni, e körben önálló aláírási joggal járhat el. A 21/A. § rendelkezései a közjegyzői irodai ügyintéző tekintetében megfelelően alkalmazandók. A közjegyzői irodai ügyintéző jogosult a közjegyző (közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző) határozatát kiadmányozni.”
+#### 9. §
 
-7. § A közjegyzőkről szóló 1991. évi XLI. törvény 37. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 10. §
 
-„(4) Ha a helyettes olyan közjegyző, aki a helyettesített közjegyzővel azonos székhelyen működik, a helyettes közjegyző a helyettesítés során a saját székhelyén is, illetve a saját irodája útján is eljárhat. Ha a helyettes közjegyző illetékességi területe a helyettesített közjegyző illetékességi területével határos, saját székhelyén, illetve saját irodája útján akkor járhat el, ha arra a területi kamara elnöksége a helyettesítésről szóló megállapodást jóváhagyó vagy ennek hiányában a kirendelésről szóló határozatában feljogosította.”
+#### 11. §
 
-8. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 37/D. §-a a következő (2) bekezdéssel egészül ki:
+#### 12. §
 
-„(2) A közjegyzői díj a tartós helyettest, illetve közjegyzői irodáját illeti. A helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a helyettesítés időtartama alatt a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a területi kamara elnökének előzetes írásbeli engedélye alapján intézkedhet. Ha a tartós helyettes mint közjegyző közjegyzői iroda keretében folytatja tevékenységét, akkor a helyettesítési tevékenységet is a közjegyzői irodája keretében folytatja.”
+#### 13. §
 
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 37/D. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 14. §
 
-„(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető). A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni, ebben az esetben a (2) bekezdésben foglaltak nem alkalmazhatóak. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki.”
+#### 15. §
 
-9. § A közjegyzőkről szóló 1991. évi XLI. törvény 114. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 16. §
 
-(Az országos elnök a nyelvi jogosítványt visszavonja, ha)
+#### 17. §
 
-„b) a közjegyzőhelyettesnek nem áll fenn olyan munkaviszonya, amely esetében a közjegyző rendelkezik az adott nyelvre nyelvi jogosítvánnyal.”
+#### 18. §
 
-10. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 120. § (1) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
-
-(A közjegyzői okirat elkészítése alkalmával a közjegyző kötelessége, hogy)
-
-„a) meggyőződjék a fél ügyleti képességéről és jogosultságáról, továbbá ügyleti szándékáról,
-
-b) jogi tájékoztatást nyújtson a fél számára a jogügylet lényegéről és jogi következményeiről,”
-
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 120. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(A közjegyzői okirat elkészítése alkalmával a közjegyző kötelessége, hogy)
-
-„e) a fél nyilatkozata alapján meggyőződjék arról, hogy a közjegyzői okiratban foglaltak megfelelnek a fél ügyleti akaratának,”
-
-11. § A közjegyzőkről szóló 1991. évi XLI. törvény a következő 123/A. §-sal egészül ki:
-
-„123/A. § Az azonossági tanúk legalább a fél – képviselő útján való eljárás esetén a képviselő – személyazonosságának a megállapításánál, valamint a közjegyzői okirat aláírásánál vannak jelen.”
-
-12. § A közjegyzőkről szóló 1991. évi XLI. törvény 128. §-a helyébe a következő rendelkezés lép:
-
-„128. § Ha a közjegyzőnek a magyar nyelven nem beszélő fél – képviselő útján történő eljárás esetén a képviselő – által beszélt nyelvből nincs nyelvi jogosítványa, a közjegyzői okiratot tolmács közreműködésével készíti el.”
-
-13. § A közjegyzőkről szóló 1991. évi XLI. törvény 132. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A jogi képviselő számára az okirat-szerkesztési eljárásban adott meghatalmazás érvényességéhez nem szükséges, hogy azt a meghatalmazott aláírja vagy az a meghatalmazott elfogadó nyilatkozatát tartalmazza.”
-
-14. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 136. § (1) bekezdése a következő k) és l) ponttal egészül ki:
-
-(A közjegyző tanúsítványt állít ki)
-
-„k) személy életben létéről,
-
-l) a képviseleti jogról.”
-
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 136. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A tanúsítvány kiállítása esetén a törvénynek a közjegyzői okiratokra vonatkozó általános szabályait kell megfelelően alkalmazni azzal, hogy
-
-- a) a közjegyző az okirat, a fordítás, a nyilatkozat vagy értesítés, a tanácskozás, a határozat, a váltó, a csekk, más értékpapír, a közhitelességű nyilvántartás tartalma, tanúsított képviseleti jog, egyéb jogi jelentőségű tény, illetve a 144. § (1) bekezdésében meghatározott egyéb tények és körülmények, a peren kívüli eskü vagy fogadalom jogszerűségét, érvényességét nem vizsgálja,
-- b) a közjegyző felelőssége kizárólag a tanúsítvány mint közokirat alakiságának megtartásáért és a tanúsítvány tartalmi valódiságáért áll fenn,
-- c) a 120. § (1) bekezdés a), b) és e) pontját nem kell alkalmazni,
-- d) a közjegyző a tanúsítvány készítésénél nem köteles segédszemélyeket igénybe venni,
-- e) a fél képviselőjének képviseleti jogosultságáról a közjegyzőnek csak akkor kell meggyőződnie, ha a félnek a tanúsítványt jogszabály rendelkezése szerint alá kell írnia.”
-
-15. § A közjegyzőkről szóló 1991. évi XLI. törvény 142. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve az E-ügyintézési törvényben meghatározott módon a másik fél részére továbbítja. A közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő – képviselő eljárása esetén a képviselő – előtt felolvassa, e jegyzőkönyvet a nyilatkozattevőnek – képviselő eljárása esetén a képviselőnek – alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek jegyzőkönyvet állít ki, amelybe belefoglalja a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, ennek hiányában tartózkodási helyét, illetve székhelyét, a feladás évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.”
-
-16. § A közjegyzőkről szóló 1991. évi XLI. törvény a következő 146/B. §-sal egészül ki:
-
-„146/B. § (1) A közjegyző a fél képviseleti jogosultságát (a továbbiakban: képviselet valódisága) akkor tanúsítja, ha a fél által e képviselői minőségében aláírt okiratán a fél aláírásának valódiságát közjegyző vagy magyar konzuli tisztviselő a 139. § szerint tanúsítja vagy tanúsította.
-
-(2) A képviselet valódiságát a közjegyző
-
-- a) belföldön kiállított közokirat,
-- b) – ha az Európai Unió kötelező jogi aktusa vagy a kiállítás helye szerinti állammal hatályos nemzetközi szerződés eltérően nem rendelkezik – külföldön kiállított közokirat,
-- c) belföldi közhiteles nyilvántartás tartalma, vagy
-- d) közokiratba vagy a képviselt meghatalmazó vagy képviselője aláírása tekintetében közjegyző, bíróság, más hatóság vagy magyar konzuli tisztviselő által hitelesítéssel ellátott magánokiratba foglalt meghatalmazás
-
-alapján tanúsíthatja.
-
-(3) Képviselő útján adott meghatalmazás esetén szükséges továbbá a meghatalmazó e képviselője képviseleti jogának a (2) bekezdés szerinti okirattal történő igazolása.
-
-(4) Nem természetes személy nyilvántartási adatainak igazolása esetében a (2) bekezdés a) pontjának alkalmazása során 30 napnál, a (2) bekezdés b) pontjának alkalmazása során 3 hónapnál nem régebben kiállított okirat fogadható el.
-
-(5) A tanúsítványt záradék formájában a 139. § megfelelő alkalmazásával kell kiállítani. A tanúsítvány a 139. § szerinti tanúsítvánnyal egy záradékba is foglalható. Ha a fél meghatalmazottként jár el, a meghatalmazásra a 132. § (2) bekezdését is megfelelően alkalmazni kell.
-
-(6) A tanúsítvány a 139. § (4) bekezdésében foglaltakon túl tartalmazza
-
-- a) a képviselt természetes személy
-  - aa) családi és utónevét,
-  - ab) lehetőség szerint születési helyét,
-  - ac) születési idejét,
-  - ad) lehetőség szerint anyja születési nevét;
-- b) a képviselt jogi személy vagy egyéb szervezet
-  - ba) elnevezését,
-  - bb) székhelyét,
-  - bc) cégjegyzékszámát vagy adószámát,
-  - bd) – a bc) alpontban foglaltak hiányában – nyilvántartási számát és a nyilvántartó hatóságának elnevezését,
-  - be) – a bc) és bd) alpontban foglaltak hiányában – egyéb azonosítóját;
-- c) azt, hogy a fél a képviseleti jogosultságát a (2) és (3) bekezdés szerint mivel igazolta.”
-
-17. § A közjegyzőkről szóló 1991. évi XLI. törvény 182. §-a a következő (19) bekezdéssel egészül ki:
-
-„(19) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 142. § (2) bekezdését az e rendelkezés módosításának hatálybalépését követően indult, a 142. § szerinti nyilatkozat vagy értesítés közlésének tanúsítása iránti eljárásokra kell alkalmazni.”
-
-18. § A közjegyzőkről szóló 1991. évi XLI. törvény
-
-- a) 49/A. § (6) bekezdés a) pontjában a „közjegyzőnél” szövegrész helyébe a „közjegyzői irodával” szöveg,
-- b) 49/A. § (6a) bekezdés a) pontjában a „közjegyzőnél” szövegrész helyébe a „közjegyzői irodával” szöveg,
-- c) 49/C. § (1) bekezdésében a „közjegyzőkről” szövegrész helyébe az „a közjegyzői irodákról, közjegyzőkről” szöveg,
-- d) 54. § (1) bekezdés q) pontjában a „tárolására, valamint” szövegrész helyébe a „tárolására, tudományos és történelmi, valamint” szöveg,
-- e) 119. § (2) bekezdésében a „bíróságnak” szövegrész helyébe a „bíróságnak, az országos kamarának” szöveg,
-- f) 119. § (3) bekezdésében a „ha a” szövegrész helyébe a „ha az országos kamara, illetve a” szöveg,
-- g) 122. § (7) bekezdésében a „kamara” szövegrész helyébe a „kamara, illetve országos kamara” szöveg,
-- h) 132. § (1) bekezdésében a „külképviseleti szerv” szövegrész helyébe a „konzuli tisztviselő” szöveg,
-- i) 133. § (1) bekezdésében a „117–132” szövegrész helyébe a „117. § (1)–(3) bekezdésében, valamint a 120–129” szöveg,
-- j) 138. § (1) bekezdésében az „ezen a nyelven” szövegrész helyébe az „erről az idegen nyelvről magyar nyelvre, valamint magyar nyelvről erre az idegen nyelvre” szöveg,
-- k) 157. §-ában a „külképviseleti hatóság” szövegrész helyébe a „konzuli tisztviselő” szöveg
-
-lép.
-
-19. § Hatályát veszti a közjegyzőkről szóló 1991. évi XLI. törvény 160. § (1) bekezdése.
+#### 19. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -252,85 +144,31 @@ lép.
 
 #### 14. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-57. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 7. §-a a következő (3) bekezdéssel egészül ki:
+#### 57. §
 
-„(3) Ha másik közjegyző kerül kijelölésre az ügyben, a MOKK rendszere a kijelölt közjegyzőről és az új ügyszámról automatikusan, az elektronikus úton eljáró felet elektronikus úton, a nem elektronikus úton eljáró felet postai úton értesíti.”
+#### 58. §
 
-58. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 16. §-a a következő (6) bekezdéssel egészül ki:
+#### 59. §
 
-„(6) Az (5) bekezdés hatálya alá nem tartozó, az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy részére az iratokat elektronikusan, az E-ügyintézési törvény szerint kell kézbesíteni.”
+#### 60. §
 
-59. § (1) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 17. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 61. §
 
-„(4) A közjegyző a fél részére ügygondnokot rendel akkor is, ha a felet olyan személy képviseli, aki az ellenérdekű fél vagy az ellenérdekű fél képviselője is.”
+#### 62. §
 
-(2) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 17. §-a a következő (5) bekezdéssel egészül ki:
+#### 63. §
 
-„(5) Ügygondnokrendelés szükségessége esetén a közjegyző rövid határidő tűzésével az ügygondnoki díjnak a Kjnp. megfelelő alkalmazásával történő előlegezésére hívja fel a jogosultat, ennek megtörténtét követően a fél képviseletére ügygondnokot rendel. Ha a jogosult a közjegyző felhívására nem előlegezi meg az ügygondnok díját, a közjegyző a fizetési meghagyás kibocsátása iránti kérelmét visszautasítja vagy az eljárást megszünteti.”
+#### 64. §
 
-60. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 18. §-a a következő (9) bekezdéssel egészül ki:
+#### 65. §
 
-„(9) A közjegyző által elektronikus úton meghozott határozaton a keltezés helyeként a közjegyző székhelyét kell feltüntetni.”
+#### 66. §
 
-61. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 20. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 67. §
 
-(A kérelemben fel kell tüntetni:)
+#### 68. §
 
-„a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett azzal rendelkezik – a kötelezett adószámát;”
-
-62. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 26. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a fizetési meghagyás kibocsátása iránti kérelem visszautasításának nincs helye, és ha nem kell a felet a hiányok pótlására felhívni, vagy a fél a hiánypótlási kötelezettségének eleget tett, a közjegyző az ellenfél meghallgatása (nyilatkoztatása) nélkül köteles a fizetési meghagyást kibocsátani. A közjegyző a fizetési meghagyást legkésőbb a kérelem beérkezésétől számított tizenöt napon belül – elektronikus úton beadott kérelem esetén három munkanapon belül – bocsátja ki és papír alapon kézbesítteti. A közjegyző a fizetési meghagyást elektronikusan kézbesítteti, ha e törvény elektronikus kézbesítést ír elő.”
-
-63. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 27. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A fizetési meghagyásnak tartalmaznia kell:)
-
-„b) a 20. § (1) bekezdés a)–g) pontjában, és ha a jogosult megjelölte, a (4)–(7) bekezdésében meghatározott adatokat;”
-
-64. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 38. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a 30. § alkalmazásának van helye, a közjegyző a 37. § (3) bekezdése szerinti felhívást csak azt követően kézbesíti a jogosult részére, ha a jogosult a kötelezett állítását vitatja. Ebben az esetben a 37. § (3) bekezdésében meghatározott határidő e felhívás kézbesítésétől kezdődik.”
-
-65. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 39. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A fizetési meghagyásos eljárásban hozott végzés ellen fellebbezésnek van helye, ha a fellebbezést
-
-- a) e törvény megengedi, vagy
-- b) a Pp. megengedi és e törvény nem zárja ki.”
-
-66. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 52. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 4–7. §-t, 10–13. §-t, 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) és (5) bekezdését, a 24. § (1) bekezdés l) pontját, a 25. § (3) bekezdését, a 26. § (1) és (2) bekezdését, valamint a 39. § (2)–(5) bekezdését és 44. § (3) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell. A 15. §-ban meghatározott jogkövetkezmények a végrehajtást kérővel szemben akkor alkalmazhatók, ha a Vht. 37/B. §-a szerint a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az iratokat a kézbesítési megbízott részére kézbesíteni nem lehet.”
-
-67. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 59. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az európai fizetési meghagyásos eljárásban a beadványokat az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon, elektronikusan az eljáró közjegyzőhöz, más személy az eljáró közjegyzőnél papír alapon írásban terjesztheti elő. Az eljárásban a Kjnp. 15/A–15/D. §-a megfelelően alkalmazandó, és az e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók.”
-
-68. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény
-
-- a) 17. § (3) bekezdésében a „visszautasító végzés” szövegrészek helyébe a „visszautasító és elutasító végzés” szöveg,
-- b) 20. § (1) bekezdés b) pontjában a „székhelyét” szövegrész helyébe a „kézbesítési címét” szöveg,
-- c) 20. § (4) bekezdésében az „A 285” szövegrész helyébe az „A Pp. 285” szöveg,
-- d) 21. § (1) bekezdésében a „36. § és 37. §” szövegrész helyébe a „36. § vagy 37. §” szöveg,
-- e) 24. § (2) bekezdésében az „idézési” szövegrész helyébe a „kézbesítési” szöveg,
-- f) 24. § (5) bekezdésében a „(4) bekezdését” szövegrész helyébe a „(3) és (4) bekezdését” szöveg,
-- g) 25. § (4) bekezdésében az „az visszautasító” szövegrész helyébe az „a visszautasító” szöveg,
-- h) 31. § (1) bekezdésében a „napon jogerőre emelkedik” szövegrész helyébe a „naptól kezdve jogerős” szöveg,
-- i) 34. § (2) bekezdésében az „a) és d)” szövegrész helyébe az „a), d), f) és g)” szöveg,
-- j) 35. § (1) bekezdésében a „fellebbezhet.” szövegrész helyébe a „fellebbezhet, fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.” szöveg,
-- k) 52. § (2) bekezdésében a „rendelkezést alkalmazni” szövegrész helyébe a „rendelkezést is megfelelően alkalmazni” szöveg,
-- l) 59. § (11) bekezdésében a „díjat a” szövegrész helyébe a „díjat, valamint a végrehajtási lap visszavonása iránti kérelem előterjesztéséért az 55. § (9) bekezdésében meghatározott összegű díjat a” szöveg
-
-lép.
-
-69. § Hatályát veszti a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény
-
-- a) 24. § (1) bekezdés m) pontjában a „[17. § (4) bekezdés]” szövegrész,
-- b) 34. § (1) bekezdés a) pontjában a „vagy m)” szövegrész,
-- c) 34. § (4) bekezdésében az „Az eljárást megszüntető végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.” szövegrész,
-- d) 36. § (5) bekezdés d) pontjában a „vagy az 55. § (8) bekezdésben” szövegrész,
-- e) 55. § (8) bekezdése.
+#### 69. §
 
 #### 15. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
