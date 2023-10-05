@@ -3064,7 +3064,7 @@ munkavállalók létszámának tíz százalékát.
 
 (7) A kollektív szerződés kötésére irányuló ajánlat tárgyalása nem utasítható vissza.
 
-(8) Az a szakszervezet (szakszervezeti szövetség), amely a kollektív szerződés megkötését követően felel meg a (2) bekezdésben meghatározott feltételnek, jogosult a kollektív szerződés módosítását kezdeményezni, és a módosítással kapcsolatos tárgyaláson – tanácskozási joggal – részt venni.
+(8) Az a szakszervezet (szakszervezeti szövetség), amely a kollektív szerződés megkötését követően felel meg a (2) bekezdésben meghatározott feltételnek, jogosult a kollektív szerződés módosítását kezdeményezni, és a módosítással kapcsolatos tárgyaláson részt venni.
 
 277. § (1) A kollektív szerződés szabályozhatja
 
