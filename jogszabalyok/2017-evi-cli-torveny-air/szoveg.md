@@ -177,7 +177,7 @@ Az általános forgalmi adóról szóló törvény (a továbbiakban: Áfa tv.) s
 
 (1) Az a külföldi vállalkozás, amely belföldi gazdasági tevékenységével összefüggésben gazdasági célú letelepedésre nem köteles, belföldi adókötelezettségeinek teljesítésére pénzügyi képviselőt bízhat meg.
 
-(2) Pénzügyi képviselő az a korlátolt felelősségű társaság, részvénytársaság lehet, amelynek jegyzett tőkéje az ötvenmillió forintot eléri, vagy ennek megfelelő összegű bankgaranciával rendelkezik, továbbá az adóhatóságnál nyilvántartott adótartozása nincs. A pénzügyi képviselő a feltételek meglétét a képviselet elfogadásának bejelentésekor, illetve ezt követően a tevékenység folyamatos végzése alatt évente az adóhatóságnál igazolja.
+(2) Pénzügyi képviselő az a korlátolt felelősségű társaság, részvénytársaság lehet, amelynek jegyzett tőkéje a százötvenmillió forintot eléri, vagy ennek megfelelő összegű bankgaranciával rendelkezik, továbbá az adóhatóságnál nyilvántartott adótartozása nincs. A pénzügyi képviselő a feltételek meglétét a képviselet elfogadásának bejelentésekor, illetve ezt követően a tevékenység folyamatos végzése alatt évente az adóhatóságnál igazolja.
 
 (3) A pénzügyi képviselő a külföldi vállalkozás képviseletére irányuló megbízás elfogadásától és a képviselet megszűnésétől számított tizenöt napon belül az állami adó- és vámhatósághoz bejelenti a képviselet elfogadását, illetve megszűnését, a külföldi vállalkozás adatait, továbbá a külföldi vállalkozás adóügyeivel összefüggésben nyitott belföldi pénzforgalmi számlaszámát.
 

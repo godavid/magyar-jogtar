@@ -2668,7 +2668,11 @@ Az adóhatóság az önellenőrzés előterjesztésétől számított tizenöt n
 
 (2) A vállalkozási tevékenységet nem folytató, általános forgalmi adó fizetésére nem kötelezett természetes személy – a bevallás benyújtására előírt határidőig – személyi jövedelemadó-bevallásában nyilatkozhat úgy, hogy a bevallott, együttesen ötszázezer forintot meg nem haladó személyi jövedelemadó és szociális hozzájárulási adó-fizetési kötelezettségét pótlékmentes részletfizetés keretében, az esedékességtől számított legfeljebb tizenkettő hónapon keresztül, havonként egyenlő részletekben teljesíti. Az első részlet megfizetésének határideje a személyi jövedelemadó fizetési kötelezettség törvényben meghatározott esedékességének napja. A nyilatkozat megtételére előírt határidő jogvesztő.
 
-(3) Ha az adózó az esedékes részlet befizetését nem teljesíti, az (1) és (2) bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. Ebben az esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
+(2a) A nem természetes személy adózó kérelmére az adóhatóság az általa nyilvántartott, legfeljebb egymillió forint összegű adótartozásra évente egy alkalommal legfeljebb hathavi pótlékmentes részletfizetést engedélyez.
+
+(3) Ha az adózó az esedékes részlet befizetését nem teljesíti, az (1)–(2a) bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. Ebben az esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
+
+(4) Az (1)–(1a) és a (2a) bekezdés szerint engedélyezett részletfizetésről szóló határozat ellen fellebbezésnek helye nincs.
 
 #### 200. § [Pótlékok fizetési könnyítés esetén]
 
@@ -3148,6 +3152,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 - f) azt a támogató az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (3) és (4) bekezdésében meghatározott esetben kezdeményezi,
 - g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási kötelezettségének a törvényi határidőtől számított száznyolcvan napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget.
 - h) az adózó által bejelentett székhelyszolgáltató nem szerepel a székhelyszolgáltatók nyilvántartásában és az ilyen irányú tevékenység végzésére vonatkozó szándékát sem jelentette be, és az adózó az adóhatóság (2) bekezdés szerinti felhívása ellenére bejelentését nem vonta vissza, és nem gondoskodott másik megfelelő székhely vagy székhelyszolgáltató bejelentéséről sem.
+- i) az Eüsztv. alapján elektronikus ügyintézésre köteles adózó az Eüsztv. szerinti hivatalos elérhetőséggel nem rendelkezik.
 
 (2) Az állami adó- és vámhatóság az (1) bekezdés a), b) és h) pontja szerinti esetben az adózót az adószám törléséről szóló figyelmeztetéssel felhívja – a felhívás kézbesítésétől számított harmincnapos határidő tűzésével – a törvényes állapot helyreállítására. A határidő eredménytelen eltelte esetén az állami adó- és vámhatóság az adózó adószámát törli. Nincs helye az adószám törlésének, ha az adózó az adószám törléséről szóló határozat véglegessé válását megelőzően a törvényes állapotot helyreállította.
 
