@@ -428,17 +428,27 @@ lép.
 
 151. § (1)
 
-(2)
+(2) Az Art. 199. §-a a következő (2a) bekezdéssel egészül ki:
 
-(3)
+„(2a) A nem természetes személy adózó kérelmére az adóhatóság az általa nyilvántartott, legfeljebb egymillió forint összegű adótartozásra évente egy alkalommal legfeljebb hathavi pótlékmentes részletfizetést engedélyez.”
 
-(4)
+(3) Az Art. 199. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az adózó az esedékes részlet befizetését nem teljesíti, az (1)–(2a) bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. Ebben az esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.”
+
+(4) Az Art. 199. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az (1)–(1a) és a (2a) bekezdés szerint engedélyezett részletfizetésről szóló határozat ellen fellebbezésnek helye nincs.”
 
 #### 152. §
 
 #### 153. §
 
-#### 154. §
+154. § Az Art. 246. § (1) bekezdése a következő i) ponttal egészül ki:
+
+(Az állami adó- és vámhatóság az adószámot törli, ha)
+
+„i) az Eüsztv. alapján elektronikus ügyintézésre köteles adózó az Eüsztv. szerinti hivatalos elérhetőséggel nem rendelkezik.”
 
 #### 155. §
 
@@ -500,7 +510,7 @@ lép.
 
 #### 173. §
 
-#### 174. §
+174. § Az Air. 20. § (2) bekezdésében a „tőkéje az ötvenmillió forintot” szövegrész helyébe a „tőkéje a százötvenmillió forintot” szöveg lép.
 
 #### 175. §
 
