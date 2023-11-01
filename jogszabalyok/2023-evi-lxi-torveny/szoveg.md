@@ -6,9 +6,13 @@ egyes közigazgatási tárgyú törvények módosításáról
 
 #### 1. §
 
-#### 2.
+#### 2. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-#### 2. §
+2. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 37. § (1) bekezdése a következő o) ponttal egészül ki:
+
+(A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:)
+
+„o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, továbbá állampolgárságának változásáról.”
 
 #### 3. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 

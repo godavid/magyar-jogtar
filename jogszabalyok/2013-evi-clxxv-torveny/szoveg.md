@@ -43,6 +43,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
   - ba) a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából,
   - bb) a polgári célú pirotechnikai tevékenységek hatósági engedélyezésével és ellenőrzésével összefüggő feladatok ellátása céljából,
   - bc) a rendészeti feladatokat ellátó személyek szolgálati igazolványával és szolgálati jelvényével összefüggő hatósági feladatainak az ellátása során,
+  - bd) a fegyver jogszerű használatához előírt feltételek kiskorú számára történő igazolásával, illetve ellenőrzésével összefüggő hatósági feladatainak az ellátása során,
 - c) az ügyészség a gondnokság alá helyezés, annak megszüntetése vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
 - d) a közjegyző polgári nemperes eljárás lefolytatása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - e) az önálló bírósági végrehajtó a bírósági végrehajtási cselekmények ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,

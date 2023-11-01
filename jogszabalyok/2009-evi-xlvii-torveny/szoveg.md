@@ -950,7 +950,7 @@ részére tett nyilatkozatával tiltakozzon.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
-- a) közbiztonság-védelmi feladatai ellátása során a kábítószerre, a pszichotróp anyagra, a kábítószer-prekurzorra, a polgári felhasználású robbanóanyagra, a polgári célú pirotechnikai termék engedélyezéséhez, valamint a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 3. § (1) bekezdése szerinti hatósági jogkörben, továbbá a haditechnikai termék, gyártásához és a kapcsolódó szolgáltatások közbiztonsági feltételeinek ellenőrzéséhez
+- a) közbiztonság-védelmi feladatai ellátása során a kábítószerre, a pszichotróp anyagra, a kábítószer-prekurzorra, a polgári felhasználású robbanóanyagra, a polgári célú pirotechnikai termék engedélyezéséhez, valamint a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 3. § (1) bekezdése és 4/J. §-a szerinti hatósági jogkörben, továbbá a haditechnikai termék, gyártásához és a kapcsolódó szolgáltatások közbiztonsági feltételeinek ellenőrzéséhez
   - aa) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - ab) a 16. § (1) bekezdés c), f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
   - ac) a 23. § c), f) és g) pontjában meghatározott adatok;

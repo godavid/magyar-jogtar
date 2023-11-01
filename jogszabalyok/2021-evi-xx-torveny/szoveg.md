@@ -42,13 +42,17 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (1a) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. melléklet 57. sorában szereplő, Herceghalom 267/4 helyrajzi számú ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül átadásra. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
+(1b) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 58. sorában meghatározott, Budapest 38239 helyrajzi számú ingatlan ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül átadásra. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
 
 (3) A költségvetési szervi formában működő Egyetem és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság között fennálló vagyonkezelési szerződés megszűnik.
 
-(4) Az (1) és (1a) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(4) Az (1), az (1a) és az (1b) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
-(5) A (4) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+(5) A (4) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, tulajdonosi joggyakorló szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(5a) Az (1b) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg az (1b) bekezdés szerinti közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
 
 (6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
@@ -56,13 +60,25 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 6. § Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban foglaltak értelmében – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
+6/A. § A Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja a Merényi Gusztáv telephely (a továbbiakban: Merényi telephely) traumatológiai járó- és fekvőbeteg-szakellátása tekintetében az Egyetem. A Merényi telephely traumatológiai járó- és fekvőbeteg-szakellátását 2023. november 1. napjától az Egyetem klinikai központja látja el.
+
+6/B. § Az 5. § (1b) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló és a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet köti meg az Egyetemmel.
+
+6/C. § A Merényi telephelyet érintő, európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
+
 #### 4. Záró rendelkezések
 
 7. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1. § (4) bekezdése, a 2–6. §, a 9. § és az 1–3. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (1a), (4) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+7/A. § A Magyarország 2024. évi központi költségvetésének a megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 5. § (1b) bekezdése és 6/A–6/C. § szerinti feladatátadással, illetve jogutódlással az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § b) pontja szerinti egészségügyben dolgozó – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (3) bekezdés b) pontjában meghatározott – egészségügyi szolgálati jogviszonya e törvény erejénél fogva, 2023. november 1-jei hatállyal – ideértve a határozott idejű jogviszonyt is – a munka törvénykönyve szerinti munkaviszonnyá alakul át. Az átalakulás során létrejövő munkaviszony tekintetében próbaidő nem köthető ki, és a jogviszonyt folyamatosnak kell tekinteni. A jogviszony átalakulása
+
+- a) nem szakítja meg az egészségügyi szolgálati jogviszonnyal kapcsolatos igények elévülését,
+- b) nem érinti az e § szerinti időpontban hatályban lévő határozott idejű áthelyezést, valamint
+- c) nem érinti a jogviszony időtartamát, valamint a munkaidő mértékét.
+
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (1a), (1b), (4), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 9. §
 
@@ -157,3 +173,4 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 | 55. | ZALAEGERSZEG | 2543 | 6/12 | kivett lakóház, udvar |
 | 56. | ZALAEGERSZEG | 2544 | 2/4 | kivett beépített terület |
 | 57. | HERCEGHALOM | 267/4 | 1/1 | kivett major |
+| 58. | BUDAPEST | 38239 | 1/1 | Kivett lakóház, udvar |

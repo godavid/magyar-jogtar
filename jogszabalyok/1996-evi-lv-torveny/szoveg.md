@@ -636,7 +636,7 @@ az élelmiszerlánc-felügyeleti szervnek haladéktalanul jelenteni.
 
 - 1. a mérgezett hegyű és robbanó fejű nyílvessző;
 - 2. a számszeríj;
-- 3. a lőfegyverre szerelt hangtompító eszköz;
+- 3. e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek meg nem felelő, lőfegyverre szerelt hangtompító eszköz;
 - 4. a hurok, horog, madárlép, verem;
 - 5. a működése vagy felhasználása körülményei folytán nem szelektív háló;
 - 6.
@@ -975,23 +975,33 @@ rendelkező szakmai irányítót nevez ki, akinek nevét és elérhetőségét a
 
 ### A vadász
 
-59. § Vadászati tevékenységet érvényes vadászjegy vagy vadászati engedély birtokában az a természetes személy folytathat, aki
+59. § (1) Vadászati tevékenységet érvényes vadászjegy vagy vadászati engedély birtokában – a (2) és (3) bekezdésben foglalt kivétellel – az a természetes személy folytathat, aki
 
 - a) vadászlőfegyverrel folytatott vadászat esetén a vadászlőfegyver tartására jogosító engedéllyel,
 - b) a ragadozó madárral folytatott vadászat esetén a természetvédelmi hatóság által ragadozó madár tartására kiadott engedéllyel és ragadozó madárral történő vadászatra feljogosító kiegészítő vizsgával,
 - c) elöltöltő fegyverrel folytatott vadászat esetén az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel,
 - d) vadászíjjal folytatott vadászat esetén vadászíjászatra feljogosító kiegészítő vizsgával, vagy
-- e) magyar agárral folytatott vadászat esetén agarászatra feljogosító kiegészítő vizsgával, és vadászatra alkalmas magyar agárral
+- e) magyar agárral folytatott vadászat esetén agarászatra feljogosító kiegészítő vizsgával és vadászatra alkalmas magyar agárral
 
 rendelkezik.
 
+(2) Érvényes vadászjeggyel és a fegyvertartáshoz szükséges érvényes egészségi alkalmasságot tanúsító igazolással rendelkező, de a tizennyolcadik életévét be nem töltött személy egyéni vadászatot úgy folytathat, ha részére e célra a legalább öt éve érvényes vadászjeggyel és vadászlőfegyver-tartási engedéllyel rendelkező, a vadászterületen vele együtt tartózkodó személy a sörétes- vagy legfeljebb 0.22 kaliberű golyós vadászlőfegyverét engedi át, és a vadászat teljes időtartama alatt a közvetlen felügyeletét és kíséretét biztosítja.
+
+(3) Érvényes vadászjeggyel és a tevékenység szerinti kiegészítő vizsgával rendelkező, de a tizennyolcadik életévét be nem töltött személy egyéni vadászatot ragadozó madárral, vadászíjjal vagy magyar agárral is folytathat, ha részére a legalább öt éve érvényes vadászjeggyel és ragadozó madárral folytatott vadászat esetén a természetvédelmi hatóság által ragadozó madár tartására kiadott engedéllyel és a ragadozó madárral történő vadászatra feljogosító kiegészítő vizsgával, vadászíjjal folytatott vadászat esetén vadászíjászatra feljogosító kiegészítő vizsgával, magyar agárral folytatott vadászat esetén agarászatra feljogosító kiegészítő vizsgával rendelkező, a vadászterületen vele együtt tartózkodó személy a vadászat teljes időtartama alatt a közvetlen felügyeletét és kíséretét biztosítja.
+
+(4) A (2) és a (3) bekezdés szerinti esetben a vétőképes kiskorú károkozása során a kiskorú felügyeletére köteles gondozójának a közvetlen felügyeletét és kíséretét biztosító személyt kell tekinteni.
+
 ### A vadászjegy és a vadászati engedély
 
-60. § Vadászjegyet kérelemre az a magyarországi állandó lakóhellyel rendelkező tizennyolcadik életévét betöltött személy kaphat, aki
+60. § Vadászjegyet kérelemre az a magyarországi állandó lakóhellyel vagy magyar állampolgársággal rendelkező
 
-- a) eredményes vadászvizsgát tett;
-- b) nem áll vadászjegyet visszavonó határozat hatálya alatt; továbbá
-- c) a vadászat során másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással rendelkezik.
+- a) tizennyolcadik életévét betöltött személy kaphat, aki
+  - aa) eredményes vadászvizsgát tett,
+  - ab) nem áll vadászjegyet visszavonó határozat hatálya alatt, továbbá
+  - ac) a vadászat során másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással rendelkezik; vagy
+- b) tizenhatodik életévét betöltött személy kaphat, aki
+  - ba) megfelel az a) pont aa)–ac) alpont szerinti feltételeknek, továbbá
+  - bb) rendelkezik a lőfegyver jogszerű használatához előírt feltételek meglétét bizonyító, a rendőrség által kiadott igazolással.
 
 61. § (1) A vadászjegy Magyarország területén jogosít vadászatra.
 
@@ -1620,6 +1630,7 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 - b) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 - c) rendeletben szabályozza 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat, 2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, továbbá a tájegységi vadgazdálkodási terv nem védett természeti területekre vonatkozó előírásait, 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének mintáját, 4. a vadjelölési szabályokat, 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, 6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, érvénytelenítésére, valamint az értük fizetendő költségtérítés mértékére vonatkozó szabályokat, 7. a vadászkutya használatának, valamint vizsgáztatásának szabályait, 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait, 9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga, valamint a vadászíjjal, ragadozó madárral, illetve magyar agárral való vadászatra feljogosító kiegészítő vizsga tartalmát és szabályait, továbbá a vizsgaszabályzatot és a vadászvizsga főkönyv vezetésének szabályait, 10. az egyes vadfajok vadászatának formáját, 11. a vadászat rendjének általános szabályait, valamint a nem vízivad vadfajok vadászata rendjének szabályait, 12. a trófeabírálat szabályait, 13. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait, 14. a vad elejtésével kapcsolatos szabályokat, 15. a vad, vadhús felvásárlása, feldolgozása, forgalomba hozatala során vezetett nyilvántartásra vonatkozó szabályokat, 16. a vadászterület kialakításának, valamint határa megállapításának részletes szabályait, 17. a vadászterületek nyilvántartásának szabályait, 18. az önálló és a társult vadászati jog gyakorlásának szabályait, 19. a bérvadászat szabályait, 20. a zárttéri vadtartás létesítésének szabályait, 21. a hatósági vadászat szabályait, 22. a vadvédelmi és vadászati célú kerítés létesítésének szabályait, 23. a mesterséges vadtenyésztés, továbbá a vad befogásának szabályait, 24. a hivatásos vadász alkalmazásának, tevékenységének, nyilvántartásának és kötelező felszerelésének szabályait, 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat, 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat, 27. az elektronikus képnagyítóból vagy képátalakítóból álló, éjszakai lövésre alkalmas célzóeszközöknek a vadállomány hatékony szabályozása vagy állategészségügyi célból történő használatának lehetséges eseteit és az éjszakai vadászat rendjének különös szabályait, 28. a vadgazdálkodási üzemtervi időszak lejártát követően az elévülési időn túl fel nem vett haszonbérleti díj összegének a vad élőhelyének fejlesztésére és a vadállomány védelmére történő fordításának szabályait, 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját, 30. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét, 31. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat, 32. a földhasználót érintő fokozott közreműködéssel járó eseteket, és az ilyenkor követendő eljárást, 33. az egyes növénykultúrákban keletkezett vadkárra vonatkozó bejelentési időszakokat és határidőket, 34. a tájegységi fővadász működésével és szakmai irányításával kapcsolatos feladatokat, 35. a védett természeti területet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területet, továbbá az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve a vadászterületen a vad mozgását befolyásoló tartós telepítésű kerítés létesítésének feltételeit, 36. a vadászati hatósági feladatokat ellátó személyek egyenruházatára, szolgálati felszerelésére, jelvényére és igazolványára vonatkozó részletes szabályokat.
 - 37. a vadászatra jogosult adatszolgáltatására vonatkozó részletes szabályokat,
+- 38. a lőfegyverre szerelt hangtompító eszköz vadászat során történő használatának részletes szabályait.
 
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 

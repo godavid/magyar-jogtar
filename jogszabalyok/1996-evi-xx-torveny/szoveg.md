@@ -486,6 +486,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
 - n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítására a Kormány által kijelölt jogi személy részére az Nytv.-ben meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
+- o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, továbbá állampolgárságának változásáról.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
