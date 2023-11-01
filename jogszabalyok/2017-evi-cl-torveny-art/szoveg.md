@@ -3347,7 +3347,9 @@ ingyenesen hozzáférhet.
 
 (1) A köztartozásmentes adózói adatbázis az állami adó- és vámhatóság honlapján közzétett, az adózó nevét, elnevezését, adóazonosító számát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akik vagy amelyek a közzétételt megelőző hónap utolsó napján az alábbi együttes feltételeknek megfelelnek
 
-- a) nincs az állami adó- és vámhatóságnál nyilvántartott nettó tartozása, valamint köztartozása;
+- a) az állami adó- és vámhatóságnál nyilvántartott
+  - aa) adótartozásnak nem minősülő köztartozása nem haladja meg a harmincezer forintot,
+  - ab) nettó adótartozása nem haladja meg az ötezer forintot;
 - b)
 - c) az adózó nyilatkozata alapján az esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz vagy tett;
 - d) nem áll csődeljárás, végelszámolás, kényszertörlési, illetve felszámolási eljárás alatt;

@@ -2732,7 +2732,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 
 - a) a bíróság, a szabálysértési eljárás lefolytatása céljából,
 - b) az ügyészség, az ügyész szabálysértési eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
-- c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint törvényben meghatározott engedélyezési eljárás során az engedély kiadása feltételeinek a megállapítása, továbbá a megbízhatósági vizsgálat lefolytatása céljából,
+- c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint a törvényben meghatározott engedélyezési, illetve a fegyver jogszerű használatához előírt feltételek kiskorú számára történő igazolására vagy ellenőrzésére irányuló eljárás során az engedély kiadásához, illetve a fegyver jogszerű használatához előírt feltételek megállapítása és ellenőrzése, továbbá a megbízhatósági vizsgálat lefolytatása céljából,
 - d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
 - e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
 - f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés, belső biztonsági és bűnmegelőzési célú ellenőrzés, kifogástalan életvitel ellenőrzés, illetve megbízhatósági vizsgálat lefolytatása céljából, valamint
