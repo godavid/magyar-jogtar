@@ -1198,6 +1198,8 @@ kapcsolatban.
   - ad) a munkabalesetek bejelentésének, kivizsgálásának és nyilvántartásának;
   - ae) a kollektív munkaügyi vita munkavédelmi képviselet által történő kezdeményezése feltételének;
   - af) az ipari alpintechnikai tevékenység biztonsági követelményeinek;
+  - ag) a munkavédelmi oktatásnak megfelelő általános oktatási tematika átadásának és az alkalmazhatóság feltételeinek;
+  - ah) az általános oktatási tematika
 
 részletes szabályait;
 

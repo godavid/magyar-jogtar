@@ -115,7 +115,24 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítási kérelmet elutasítja vagy ha a 20/A. § szerinti eljárásra nem kerül sor – a honosítást kérő külföldi nevével kell kiadni.
 
-7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (2a), (3), (3a) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat.
+7. § (1) A honosított, illetve a visszahonosított (a továbbiakban együtt: honosított) személy, cselekvőképtelen személy nevében a törvényes képviselője a választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat
+
+- a) a honosított lakóhelye szerint illetékes polgármester,
+- b) – erre irányuló kérelem és az eskütételi igazgatási szerv jóváhagyása esetén – az eskütételi igazgatási szerv vezetője vagy
+- c) a 4. § (2a), (3), (3a) és (7) bekezdésének, illetve az 5. §-nak a hatálya alá tartozó honosított választása szerint bármely polgármester vagy a magyar külképviselet vezetője
+
+előtt kell letenni.
+
+(1a) Az eskü vagy fogadalomtétel során
+
+- a) a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő,
+- b) az eskütételi igazgatási szerv vezetője helyett az eskütételi igazgatási szerv tisztviselője
+
+is eljárhat.
+
+(1b) Az eskütételi igazgatási szerv az eskü- és fogadalomtétellel kapcsolatos feladatokat ellátó, kormányrendeletben kijelölt központi kormányzati igazgatási szerv.
+
+(1c) A kormányrendeletben kijelölt központi kormányzati igazgatási szerv vezetője nevezi ki az eskütételi igazgatási szerv vezetőjét. Az eskütételi igazgatási szerv vezetőjének jogviszonya más tisztség, megbízatás, egyéb munkavégzéssel együtt járó tevékenység végzése, illetve jogviszony létrehozása szempontjából nem keletkeztet összeférhetetlenséget.
 
 (2) A honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg. Az eskütétel, illetve fogadalomtétel tényét és napját a honosítási okiraton fel kell tüntetni.
 
@@ -250,26 +267,34 @@ ellátva kell csatolni.
 
 (4) Házastársak, illetve szülő együttélő kiskorú vagy cselekvőképtelen nagykorú gyermekével közös honosítási, visszahonosítási kérelmet, illetve a magyar állampolgárságról lemondó nyilatkozatot terjeszthet elő.
 
-16. § (1) A honosítási okiratot az állampolgársági ügyekben eljáró szerv a kiállításától számított 15 napon belül megküldi a kérelmező lakóhelye szerint illetékes polgármesternek, a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított esetében a kérelmező választása szerint a polgármesternek vagy diplomáciai futár útján a magyar külképviselet vezetőjének.
+16. § (1) A honosítási okiratot az állampolgársági ügyekben eljáró szerv a kiállításától számított 15 napon belül megküldi a honosított választása szerint
 
-(2) A polgármester vagy a magyar külképviselet vezetője az okirat megérkezését követő harminc napon belül értesíti a kérelmezőt az állampolgársági eskü vagy fogadalom letételének időpontjáról és helyéről.
+- a) a kérelmező lakóhelye szerint illetékes polgármesternek,
+- b) az eskütételi igazgatási szervnek vagy
+- c) a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított esetében a polgármesternek vagy diplomáciai futár útján a magyar külképviselet vezetőjének.
 
-(3) A 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy egy alkalommal – legkésőbb a (2) bekezdés szerinti felhívásban meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyen tegye le.
+(2) Az eskütételi igazgatási szerv, polgármester vagy a magyar külképviselet vezetője az okirat megérkezését követő harminc napon belül értesíti a kérelmezőt az állampolgársági eskü vagy fogadalom letételének időpontjáról és helyéről.
 
-(3a) A (3) bekezdésben meghatározott esetben a polgármester vagy a magyar külképviselet vezetője haladéktalanul megküldi a honosítási okiratot a (3) bekezdés szerinti kérelemben megjelölt polgármesternek vagy – diplomáciai futár útján – a magyar külképviselet vezetőjének, aki gondoskodik a (2) bekezdésben meghatározott feladatok ellátásáról. Ebben az esetben a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy újabb, a (3) bekezdés szerinti kérelemmel nem élhet.
+(3) A 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy – az (5) bekezdésben foglalt kivétellel – egy alkalommal – legkésőbb a (2) bekezdés szerinti értesítésben meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyszínen tegye le.
 
-(4) A személyazonosság ellenőrzése során az állampolgársági eskü- vagy fogadalomtétel helye szerint illetékes polgármester, külképviselet esetén a magyar külképviselet vezetője vagy az általa kijelölt konzuli tisztviselő a hivatalból kiállított állandó személyazonosító igazolvány, valamint a személyazonosságot igazoló érvényes igazolványa alapján – a cselekvőképtelen honosított kivételével – azonosítja a honosított személyt.
+(4) Az eskütételi igazgatási szerv a honosított 7. § (1) bekezdés b) pontja alapján megküldött kérelmét a beérkezéstől számított 15 napon belül hagyja jóvá, vagy utasítja el. A honosított, jóváhagyás esetén az eskütételi igazgatási szerv által biztosított helyszíntől eltérő helyszínen is leteheti az állampolgársági esküt vagy fogadalmat, ha ezt az eskütételi igazgatási szerv külön jóváhagyta. Az eskütételi igazgatási szerv az eltérő helyszínnel járó többletszolgáltatásért a honosított részére költségtérítést számolhat fel.
 
-(5) A cselekvőképtelen honosított kivételével a honosított személy akkor tehet esküt vagy fogadalmat, ha a részére hivatalból kiállított állandó személyazonosító igazolvány alapján megállapítható, hogy a honosított és az eskü vagy fogadalom letétele céljából megjelent személy azonos.
+(5) Az eskütételi igazgatási szerv előtti eskü vagy fogadalomtételre vonatkozó kérelem egy alkalommal terjeszthető elő. Elutasítás esetén a honosított a választása szerint a 7. § (1) bekezdés a) és c) pontja szerint meghatározott személy előtt teheti le az esküt vagy fogadalmat.
 
-(5a) A honosított az (5) bekezdéstől eltérően az esküt vagy fogadalmat abban az esetben is leteheti, ha
+(6) A (3) bekezdésben meghatározott esetben az eskütételi igazgatási szerv, a polgármester vagy a magyar külképviselet vezetője haladéktalanul megküldi a honosítási okiratot a (3) bekezdés szerinti kérelemben megjelölt eskütételi igazgatási szervnek, polgármesternek vagy – diplomáciai futár útján – magyar külképviselet vezetőjének, aki gondoskodik a (2) bekezdésben meghatározott feladatok ellátásáról. Ebben az esetben a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy újabb, a (3) bekezdés szerinti kérelemmel nem élhet.
+
+(7) A személyazonosság ellenőrzése során az állampolgársági eskü- vagy fogadalomtétel helye szerint illetékes polgármester, az eskütételi igazgatási szerv vezetője, külképviselet esetén a magyar külképviselet vezetője vagy az általa kijelölt konzuli tisztviselő a hivatalból kiállított állandó személyazonosító igazolvány, valamint a személyazonosságot igazoló érvényes igazolványa alapján azonosítja – a cselekvőképtelen honosított kivételével – a honosított személyt.
+
+(8) A cselekvőképtelen honosított kivételével a honosított személy akkor tehet esküt vagy fogadalmat, ha a részére hivatalból kiállított állandó személyazonosító igazolvány alapján megállapítható, hogy a honosított és az eskü vagy fogadalom letétele céljából megjelent személy azonos.
+
+(9) A honosított a (7) bekezdéstől eltérően az esküt vagy fogadalmat abban az esetben is leteheti, ha
 
 - a) a részére hivatalból kiállítandó állandó személyazonosító igazolvány kiállítására irányuló eljárást az eljáró hatóság (a továbbiakban e § alkalmazásában: hatóság) az okmánykiállításhoz szükséges jogszabályban előírt feltételek hiánya miatt megszüntette,
-- b) az a) pont szerinti eljárás megszüntetéséről a hatóság a honosított személyt az eskü- vagy fogadalomtétel helye szerint illetékes polgármester vagy külképviselet útján megküldött döntésében értesítette,
+- b) az a) pont szerinti eljárás megszüntetéséről a hatóság a honosított személyt az eskü- vagy fogadalomtétel helye szerint illetékes polgármester, az eskütételi igazgatási szerv vagy külképviselet útján megküldött döntésében értesítette,
 - c) a hatóság a b) pontban megjelölt szerv vagy személy részére megküldte a honosított személy arcképmását, és
 - d) a honosított személy rendelkezik más érvényes, személyazonosság igazolására alkalmas hatósági igazolvánnyal és azzal a személyazonossága kétséget kizáró módon megállapítható.
 
-(6) Ha az állampolgársági eskü vagy fogadalom letételére a felhívás kézbesítésétől számított egy éven belül, a honosított hibájából nem kerül sor, a honosítási, visszahonosítási határozat hatályát veszti, és a honosítási okiratot a felhívás kézbesítésétől számított 13 hónap elteltével a polgármester vagy – a soron következő diplomáciai posta útján – a magyar külképviselet vezetője megküldi az állampolgársági ügyekben eljáró szervnek. Ha a 4. § (2a), (3), (3a) és (7) bekezdése alapján honosított, illetve az 5. § alapján visszahonosított személy a (3) bekezdés szerinti kérelmet terjeszt elő, akkor a határidőt az első felhívás kézbesítésétől kell számítani.
+(10) Ha az állampolgársági eskü vagy fogadalom letételére a felhívás kézbesítésétől számított egy éven belül, a honosított hibájából nem kerül sor, a honosítási, visszahonosítási határozat hatályát veszti, és a honosítási okiratot a felhívás kézbesítésétől számított 13 hónap elteltével az eskütételi igazgatási szerv, a polgármester vagy – a soron következő diplomáciai posta útján – a magyar külképviselet vezetője megküldi az állampolgársági ügyekben eljáró szervnek. Ha a 4. § (2a), (3), (3a) és (7) bekezdése alapján honosított, illetve az 5. § alapján visszahonosított személy a (3) bekezdés szerinti kérelmet terjeszt elő, akkor a határidőt az első felhívás kézbesítésétől kell számítani.
 
 16/A. § Az állampolgársági eljárásban – a tájékoztatást kivéve – az állampolgársági ügyekben eljáró szerv elektronikus úton nem tart kapcsolatot.
 
@@ -330,16 +355,16 @@ ellátva kell csatolni.
 18. § Az állampolgársági iratba betekinthet:
 
 - a) az ügyben érintett személy, halála után leszármazója, valamint felmenője;
-- b) az igazságszolgáltatási, a bűnüldöző és a nemzetbiztonsági feladatokat ellátó szervek, valamint a miniszter és az anyakönyvi ügyekért felelős miniszter a hatáskörükbe tartozó ügyben, törvényben szabályozott eljárásuk során.
+- b) az igazságszolgáltatási, a bűnüldöző és a nemzetbiztonsági feladatokat ellátó szervek, valamint a miniszter, az anyakönyvi ügyekért felelős miniszter és az általános politikai koordinációért felelős miniszter a hatáskörükbe tartozó ügyben, törvényben szabályozott eljárásuk során.
 
-19. § (1) Az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (2a), (3), (3a) és (7) bekezdése, továbbá az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, külképviseleten történt állampolgársági eskü- vagy fogadalomtétel esetén az állampolgársági ügyekben eljáró szerv a magyar állampolgárság honosítással vagy visszahonosítással történő megszerzéséről – az eskü- vagy fogadalomtétel időpontjának, a honosított 14. § (1) bekezdés a) pontja, valamint a 20/A. § szerinti adatainak közlésével – elektronikus úton értesítést küld
+19. § (1) Az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (2a), (3), (3a) és (7) bekezdése, továbbá az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, az eskütételi igazgatási szerv, külképviseleten történt állampolgársági eskü- vagy fogadalomtétel esetén az állampolgársági ügyekben eljáró szerv a magyar állampolgárság honosítással vagy visszahonosítással történő megszerzéséről – az eskü- vagy fogadalomtétel időpontjának, a honosított 14. § (1) bekezdés a) pontja, valamint a 20/A. § szerinti adatainak közlésével – elektronikus úton értesítést küld
 
 - a) a honosított anyakönyvi eseményeit, valamint a gyermeke születését nyilvántartó anyakönyvvezetőnek,
 - b) a személyiadat- és lakcímnyilvántartást kezelő szervnek,
 - c) a külföldön élő személyek kivételével az idegenrendészeti hatóságnak, és
 - d) a menekült, oltalmazott, menedékes vagy befogadott jogállású személy esetében a menekültügyi hatóságnak.
 
-(1a) A polgármester előtt tett eskü vagy fogadalom esetén az anyakönyvvezető, külképviseleten tett eskü vagy fogadalom esetén az állampolgársági ügyekben eljáró szerv továbbítja a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény felhatalmazása alapján elrendelt, a honosított önkéntes adatszolgáltatásán alapuló adatokat. A Központi Statisztikai Hivatal az adatszolgáltatás körében közölt adatokat a statisztikai célú feldolgozást követően haladéktalanul személyazonosításra alkalmatlanná teszi.
+(1a) A polgármester előtt tett eskü vagy fogadalom esetén az anyakönyvvezető, az eskütételi igazgatási szerv, külképviseleten tett eskü vagy fogadalom esetén az állampolgársági ügyekben eljáró szerv továbbítja a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény felhatalmazása alapján elrendelt, a honosított önkéntes adatszolgáltatásán alapuló adatokat. A Központi Statisztikai Hivatal az adatszolgáltatás körében közölt adatokat a statisztikai célú feldolgozást követően haladéktalanul személyazonosításra alkalmatlanná teszi.
 
 (2) Az állampolgársági ügyekben eljáró szerv a magyar állampolgárság megszűnéséről a személyiadat- és lakcímnyilvántartást kezelő szervet és az útlevélhatóságot, a magyar állampolgárság megállapításáról, valamint a magyar állampolgárság megszűnéséről a születést, a fennálló házasságot vagy bejegyzett élettársi kapcsolatot, valamint az érintett gyermekének születését nyilvántartó anyakönyvvezetőt elektronikus úton értesíti.
 
@@ -424,10 +449,15 @@ ellátva kell csatolni.
 - e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét, továbbá a vizsga szervezésére jogosult szervet és annak a vizsgával kapcsolatos feladatait,
 - f) a névmódosítási kérelemhez a névmódosítási kérelemben foglaltak alátámasztására szolgáló okiratok körét.
 
+(5) Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) jelölje ki az eskütételi igazgatási szervet,
+- b) határozza meg az eskütételi igazgatási szerv részletes feladat- és hatáskörét, valamint eljárásának szabályait.
+
 25. § E törvénynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor folyamatban lévő honosítási, visszahonosítási eljárásra is alkalmazni kell.
 
 25/A. § A magyar állampolgársággal összefüggő egyes törvények módosításáról szóló 2019. évi XCVII. törvénnyel megállapított 16. § (4) és (5) bekezdését a Magyarországon lakóhellyel nem rendelkező honosított személyek vonatkozásában az e rendelkezések hatálybalépését követően benyújtott honosítási vagy visszahonosítási kérelem esetén kell alkalmazni.
 
-#### 25/B. §
+25/B. § Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel megállapított 7. § (1) és (1a)–(1c) bekezdését, 16. §-t, 24. § (5) bekezdését, 18. § b) pontját, és 19. § (1) és (1a) bekezdését a 2024. július 1-jét követően indult eljárásokban kell alkalmazni.
 
 26. § E törvény 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) és (5) bekezdése, 9. § (1), (4) és (5) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése alapján sarkalatosnak minősül.
