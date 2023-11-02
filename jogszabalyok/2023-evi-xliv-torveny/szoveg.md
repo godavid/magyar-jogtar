@@ -30,47 +30,15 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 10. §
 
-11. § (1) A Vtv. 37/A. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában tiltott vadászati eszköznek minősül:)
-
-„3. e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek meg nem felelő, lőfegyverre szerelt hangtompító eszköz;”
-
-(2)
+#### 11. §
 
 #### 12. §
 
 #### 13. §
 
-14. § A Vtv. 59. §-a helyébe a következő rendelkezés lép:
+#### 14. §
 
-„(1) Vadászati tevékenységet érvényes vadászjegy vagy vadászati engedély birtokában – a (2) és (3) bekezdésben foglalt kivétellel – az a természetes személy folytathat, aki
-
-- a) vadászlőfegyverrel folytatott vadászat esetén a vadászlőfegyver tartására jogosító engedéllyel,
-- b) a ragadozó madárral folytatott vadászat esetén a természetvédelmi hatóság által ragadozó madár tartására kiadott engedéllyel és ragadozó madárral történő vadászatra feljogosító kiegészítő vizsgával,
-- c) elöltöltő fegyverrel folytatott vadászat esetén az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel,
-- d) vadászíjjal folytatott vadászat esetén vadászíjászatra feljogosító kiegészítő vizsgával, vagy
-- e) magyar agárral folytatott vadászat esetén agarászatra feljogosító kiegészítő vizsgával és vadászatra alkalmas magyar agárral
-
-rendelkezik.
-
-(2) Érvényes vadászjeggyel és a fegyvertartáshoz szükséges érvényes egészségi alkalmasságot tanúsító igazolással rendelkező, de a tizennyolcadik életévét be nem töltött személy egyéni vadászatot úgy folytathat, ha részére e célra a legalább öt éve érvényes vadászjeggyel és vadászlőfegyver-tartási engedéllyel rendelkező, a vadászterületen vele együtt tartózkodó személy a sörétes- vagy legfeljebb 0.22 kaliberű golyós vadászlőfegyverét engedi át, és a vadászat teljes időtartama alatt a közvetlen felügyeletét és kíséretét biztosítja.
-
-(3) Érvényes vadászjeggyel és a tevékenység szerinti kiegészítő vizsgával rendelkező, de a tizennyolcadik életévét be nem töltött személy egyéni vadászatot ragadozó madárral, vadászíjjal vagy magyar agárral is folytathat, ha részére a legalább öt éve érvényes vadászjeggyel és ragadozó madárral folytatott vadászat esetén a természetvédelmi hatóság által ragadozó madár tartására kiadott engedéllyel és a ragadozó madárral történő vadászatra feljogosító kiegészítő vizsgával, vadászíjjal folytatott vadászat esetén vadászíjászatra feljogosító kiegészítő vizsgával, magyar agárral folytatott vadászat esetén agarászatra feljogosító kiegészítő vizsgával rendelkező, a vadászterületen vele együtt tartózkodó személy a vadászat teljes időtartama alatt a közvetlen felügyeletét és kíséretét biztosítja.
-
-(4) A (2) és a (3) bekezdés szerinti esetben a vétőképes kiskorú károkozása során a kiskorú felügyeletére köteles gondozójának a közvetlen felügyeletét és kíséretét biztosító személyt kell tekinteni.”
-
-15. § A Vtv. 60. §-a helyébe a következő rendelkezés lép:
-
-„60. § Vadászjegyet kérelemre az a magyarországi állandó lakóhellyel vagy magyar állampolgársággal rendelkező
-
-- a) tizennyolcadik életévét betöltött személy kaphat, aki
-  - aa) eredményes vadászvizsgát tett,
-  - ab) nem áll vadászjegyet visszavonó határozat hatálya alatt, továbbá
-  - ac) a vadászat során másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással rendelkezik; vagy
-- b) tizenhatodik életévét betöltött személy kaphat, aki
-  - ba) megfelel az a) pont aa)–ac) alpont szerinti feltételeknek, továbbá
-  - bb) rendelkezik a lőfegyver jogszerű használatához előírt feltételek meglétét bizonyító, a rendőrség által kiadott igazolással.”
+#### 15. §
 
 #### 16. §
 
@@ -96,19 +64,7 @@ rendelkezik.
 
 #### 27. §
 
-28. § (1)
-
-(2)
-
-(3)
-
-(4) A Vtv. 100. § (1) bekezdés c) pontja a következő 38. alponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy
-
-rendeletben szabályozza)
-
-„38. a lőfegyverre szerelt hangtompító eszköz vadászat során történő használatának részletes szabályait.”
+#### 28. §
 
 #### 29. §
 
@@ -297,134 +253,31 @@ rendeletben szabályozza)
 
 #### 15. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény módosítása
 
-109. § (1) A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk.tv.) 2. § 6. pontja helyébe a következő rendelkezés lép:
+#### 109. §
 
-(E törvény és az e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:)
+#### 110. §
 
-„6. egységes kérelem: a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet 69. cikk (1) és (2) bekezdése alapján, az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet 8. és 9. cikke szerint benyújtásra kerülő támogatási, illetve kifizetési kérelem;”
+#### 111. §
 
-(2) A Mkk.tv. 2. § 33. pontja helyébe a következő rendelkezés lép:
+#### 112. §
 
-(E törvény és az e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:)
+#### 113. §
 
-„33. üzemi szint: a tárgyévi kárbejelentő kérelemben vagy egységes kérelemben bejelentett összes használatban lévő termőföldön termesztett növénykultúra figyelembevételével megállapított üzemméret;”
+#### 114. §
 
-110. § A Mkk.tv. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 115. §
 
-„(3) A (2) bekezdés szerint vállalt kötelezettség esetén, ha a kockázatközösségben tag mezőgazdasági termelő a tárgyévi egységes kérelem benyújtását követően a tárgyévet követő évi egységes kérelem benyújtási időszak kezdetéig fennálló időszakban meghal vagy jogutód nélkül megszűnik, akkor a kockázatközösségi tagsága a tárgyév október 31. napjával megszűnik.”
+#### 116. §
 
-111. § A Mkk.tv. 10. §-a a következő (3a) bekezdéssel egészül ki:
+#### 117. §
 
-„(3a) Ha a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló döntés adott tárgyév augusztus 16. után kerül közlésre a 6. § (5) bekezdése szerinti örökös részére, úgy ebben az esetben az örökös általi kárenyhítési hozzájárulás megfizetése kizárólag akkor tekinthető határidőben történő befizetésnek, ha az agrárkár-enyhítési szerv e törvény végrehajtására kiadott rendeletben meghatározott számláján a teljes összeg jóváírásra került a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló határozat véglegessé válástól számított 15 napon belül.”
+#### 118. §
 
-112. § A Mkk.tv. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 119. §
 
-„(5) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő – jogszabály eltérő rendelkezése hiányában – a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően nem rendelkezik – az adott kárenyhítési évre vonatkozóan – a hozamcsökkenést kiváltó káresemény bekövetkezése előtt megkötött és biztosítási szerződés szerint díjrendezett, az adott növénykultúrára jellemző, e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káreseményre kiterjedő hatályú mezőgazdasági biztosítással.”
+#### 120. §
 
-113. § Az Mkk.tv. 14. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Az agrárkár-megállapító szerv a mezőgazdasági termelő kárenyhítő juttatás iránti kérelmére dönt:)
-
-„f) az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékéről, hozamérték-csökkenés összegéről,”
-
-114. § (1) A Mkk.tv. 15. § (1) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
-
-(Az agrárkár-enyhítési szerv a kockázatközösségben tag mezőgazdasági termelő kérelmére indult eljárásban a kárenyhítő juttatásra való jogosultságról, valamint a kárenyhítő juttatás összegéről)
-
-„d) a biztosító által adott, e törvény végrehajtására kiadott rendeletben meghatározott dokumentumok és nyilatkozatok,
-
-e) a rendelkezésre álló pénzforrás, valamint”
-
-(alapján dönt.)
-
-(2) A Mkk.tv. 15. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(Az agrárkár-enyhítési szerv a kockázatközösségben tag mezőgazdasági termelő kérelmére indult eljárásban a kárenyhítő juttatásra való jogosultságról, valamint a kárenyhítő juttatás összegéről)
-
-„f) e törvény végrehajtására kiadott rendeletben meghatározott egyéb szempontok”
-
-(alapján dönt.)
-
-115. § Az Mkk.tv. 17. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A biztosító a lábon álló növénykultúrára megkötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról köteles tájékoztatást adni – abban az esetben is, ha a szerződő fél nem a biztosított mezőgazdasági termelő – az agrárkár-enyhítési szervnek és a mezőgazdasági igazgatási szervnek:
-
-- a) a biztosított mezőgazdasági termelő azonosítására szolgáló adatok (név, eljárási tv. szerinti ügyfél-azonosító),
-- b) a kockázatviselés helye szerint, növénykultúránkénti bontásban a biztosítónak bejelentett káresemény,
-- c) a mezőgazdasági termelő részére a mezőgazdasági biztosítási szerződés alapján megállapított kártérítés káreseményenkénti összege, és
-- d) szerződés kötvényszáma.”
-
-116. § Az Mkk.tv. 18. §-a a következő (2e) bekezdéssel egészül ki:
-
-„(2e) Az agrárkár-megállapító szerv jogosult a kármegállapítás során, valamint a kárenyhítő juttatás iránti kérelemre hozott döntésnek a mezőgazdasági termelő értesítési tárhelyére történő megküldése érdekében egyedi azonosításra alkalmas módon megismerni a mezőgazdasági termelő adatait.”
-
-117. § (1) A Mkk.tv. 19/C. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) A mezőgazdasági termelő csatlakozási kérelmét a krízisbiztosítási szerv elutasítja, ha a mezőgazdasági termelő a csatlakozási kérelem krízisbiztosítási szervhez történő benyújtását követően az e törvény végrehajtására kiadott rendeletben meghatározott adatszolgáltatási kötelezettségének határidőben és teljeskörűen nem tesz eleget.
-
-(1b) A mezőgazdasági termelő a krízisbiztosítási szerv tárgyév szeptember 15-éig a tagsági jogviszony megállapításáról és a krízisbiztosítási hozzájárulás megfizetéséről meghozott, egybefoglalt döntése közlését megelőzően a csatlakozási kérelmét visszavonhatja.”
-
-(2) A Mkk.tv. 19/C. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A behajtásra került krízisbiztosítási hozzájárulást a mezőgazdasági termelő által nem határidőben megfizetett hozzájárulásnak kell tekinteni.”
-
-118. § (1) A Mkk.tv. 19/D. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(A krízisbiztosítási rendszerben tag mezőgazdasági termelő az e törvényben foglalt feltételek teljesítése esetén krízisbiztosítási kompenzációra jogosult, ha)
-
-„e) az adatszolgáltatási kötelezettségeit folyamatosan és teljeskörűen teljesíti.”
-
-(2) A Mkk.tv. 19/D. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A krízisbiztosítási kompenzáció igénybevételére akkor szerezhet jogosultságot az örökös vagy a jogutód, ha az örökhagyó vagy a jogelőd tárgyévi krízisbiztosítási kompenzáció igénybevételével összefüggő kötelezettségei teljesülnek és az örökhagyó vagy a jogelőd megfelel az (1) bekezdésben meghatározott feltételeknek is.”
-
-119. § (1) Az Mkk.tv. 19/E. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a krízisbiztosítási pénzeszköz rendelkezésre álló összege nem fedezi a tárgyévre vonatkozóan megállapított összes krízisbiztosítási kompenzáció összegét, akkor a krízisbiztosítási kompenzáció mértékét az adott évben valamennyi krízisbiztosítási kompenzációra jogosult mezőgazdasági termelőnél arányosan csökkenteni kell.”
-
-(2) Az Mkk.tv. 19/E. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha az (5) bekezdésben foglalt arányos csökkentés mértéke eléri vagy meghaladja az 50%-ot, akkor jogszabály alapján azon mezőgazdasági termelők részére, akiknél a pótlólagos kompenzáció várhatóan meghaladja a pótbefizetés 120%-át, pótbefizetés írható elő annak érdekében, hogy az arányos csökkentés mértéke mérsékelhető vagy megszüntethető legyen.”
-
-(3) A Mkk.tv. 19/E. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) A részleges kompenzációban részesült mezőgazdasági termelő a krízisbiztosítási szerv felhívására a mezőgazdasági krízisbiztosítási rendszer működésének szabályairól szóló miniszteri rendeletben meghatározott határidőig nyilatkozik a pótbefizetés vállalásáról. A krízisbiztosítási szerv azon mezőgazdasági termelők részére állítja ki a pótbefizetés megállapításáról szóló határozatot, akik vállalták annak teljesítését.”
-
-(4) Az Mkk.tv. 19/E. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A pótbefizetés összegét a tárgyévi krízisbiztosítási hozzájárulás többszöröseként – a mezőgazdasági krízisbiztosítási rendszer működésének szabályairól szóló miniszteri rendeletben meghatározottak szerint – évente kell megállapítani azzal, hogy az nem haladhatja meg a fizetésre kötelezett mezőgazdasági termelő tárgyévi krízisbiztosítási hozzájárulása ötszörösét. A pótbefizetést krízisbiztosítási hozzájárulásnak kell tekinteni. A pótbefizetés nem teljesítése esetén a fizetésre kötelezett mezőgazdasági termelő a tárgyévi pótlólagos kompenzációra nem jogosult.”
-
-(5) A Mkk.tv. 19/E. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) A (7) bekezdés szerinti pótbefizetés előírása esetén pótlólagos kompenzációs kifizetést kell teljesíteni. A pótlólagos kompenzációs kifizetés forrása kizárólag a pótbefizetés és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatás összege. A pótlólagos kompenzációra a krízisbiztosítási kompenzációra vonatkozó szabályokat kell alkalmazni, ha jogszabály eltérően nem rendelkezik.”
-
-(6) A Mkk.tv. 19/E. §-a a következő (10a) és (10b) bekezdéssel egészül ki:
-
-„(10a) Ha a mezőgazdasági termelő részére megállapított pótlólagos kompenzáció összege kevesebb, mint a pótbefizetés összege, akkor a krízisbiztosítási szerv a pótlólagos kompenzáció összegét a pótbefizetés összegében állapítja meg.
-
-(10b) A krízisbiztosítási kompenzáció és a pótlólagos kompenzáció összege az adott év vonatkozásában nem haladhatja meg a mezőgazdasági termelő befizetéseinek húszszorosát.”
-
-120. § Az Mkk.tv.
-
-- a) 11. § (1) bekezdés b) pontjában az „elektronikus felületen bejelentette” szövegrész helyébe az „elektronikus felületen határidőben bejelentette” szöveg,
-- b) 12. § (1) bekezdésében a „kifizetett kártérítési összeget” szövegrész helyébe a „megállapított kártérítési összeget” szöveg,
-- c) 16. § (2) bekezdésében a „január 31-ig” szövegrész helyébe a „január 15-ig” szöveg és a „március 31-ig” szövegrész helyébe a „február 28-ig” szöveg,
-- d) 18. § (2) bekezdés e) pontjában a „díjtámogatott konstrukcióban kötött” szövegrész helyébe a „lábon álló növénykultúrára kötött” szöveg,
-- e) 18. § (6) bekezdés b) pontjában az „az érintett biztosító által díjtámogatott konstrukcióban” szövegrész helyébe a „lábon álló növénykultúrára kötött biztosítási szerződéssel” szöveg,
-- f) 19/A. § (3) bekezdésében az „A (2) bekezdés szerinti pénzösszeg” szövegrész helyébe az „Az országos jégkármegelőző rendszer működtetésének” szöveg,
-- g) 19/C. § (4) bekezdésében az „ügyfél-azonosító, valamint az adószám vagy adóazonosító jel” szövegrész helyébe az „ügyfél-azonosító” szöveg,
-- h) 19/D. § (1) bekezdés c) pontjában a „befizette, és” szövegrész helyébe a „befizette,” szöveg,
-- i) 19/D. § (1) bekezdés d) pontjában a „költségektől.” szövegrész helyébe a „költségektől, és” szöveg,
-- j) 19/E. § (4) bekezdésében a „kompenzáció kifizetésére” szövegrész helyébe a „kompenzáció és a pótlólagos kompenzáció kifizetésére” szöveg,
-- k) 19/G. § (2a) bekezdésében a „jogosult megismerni” szövegrész helyébe az „egyedi azonosításra alkalmas módon jogosult megismerni” szöveg,
-- l) 24. § (2) bekezdés d) pontjában a „kárenyhítő juttatás” szövegrész helyébe a „kárenyhítő juttatásra való jogosultság és a kárenyhítő juttatás” szöveg
-
-lép.
-
-121. § Hatályát veszti az Mkk.tv.
-
-- a) 19/A. § (2), (8) és (9) bekezdése,
-- b) 19/E. § (9) bekezdése.
+#### 121. §
 
 #### 16. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 

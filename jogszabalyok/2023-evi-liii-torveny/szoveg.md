@@ -417,41 +417,15 @@ lép.
 
 #### 43. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-139. § (1) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1b) bekezdéssel egészül ki:
+#### 139. §
 
-„(1b) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletbenfoglalt táblázat 58. sorában meghatározott, Budapest 38239 helyrajzi számú ingatlan ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül átadásra. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.”
+#### 140. §
 
-(2) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (5a) bekezdéssel egészül ki:
+#### 141. §
 
-„(5a) Az (1b) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg az (1b) bekezdés szerinti közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.”
+#### 142. §
 
-140. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. alcíme a következő 6/A–6/C. §-sal egészül ki:
-
-„6/A. § A Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja a Merényi Gusztáv telephely (a továbbiakban: Merényi telephely) traumatológiai járó- és fekvőbeteg-szakellátása tekintetében az Egyetem. A Merényi telephely traumatológiai járó- és fekvőbeteg-szakellátását 2023. november 1. napjától az Egyetem klinikai központja látja el.
-
-6/B. § Az 5. § (1b) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló és a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet köti meg az Egyetemmel.
-
-6/C. § A Merényi telephelyet érintő, európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
-
-141. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 4. alcíme a következő 7/A. §-sal egészül ki:
-
-„7/A. § A Magyarország 2024. évi központi költségvetésének a megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 5. § (1b) bekezdése és 6/A–6/C. § szerinti feladatátadással, illetve jogutódlással az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § b) pontja szerinti egészségügyben dolgozó – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (3) bekezdés b) pontjában meghatározott – egészségügyi szolgálati jogviszonya e törvény erejénél fogva, 2023. november 1-jei hatállyal – ideértve a határozott idejű jogviszonyt is – a munka törvénykönyve szerinti munkaviszonnyá alakul át. Az átalakulás során létrejövő munkaviszony tekintetében próbaidő nem köthető ki, és a jogviszonyt folyamatosnak kell tekinteni. A jogviszony átalakulása
-
-- a) nem szakítja meg az egészségügyi szolgálati jogviszonnyal kapcsolatos igények elévülését,
-- b) nem érinti az e § szerinti időpontban hatályban lévő határozott idejű áthelyezést, valamint
-- c) nem érinti a jogviszony időtartamát, valamint a munkaidő mértékét.”
-
-142. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. melléklete az 1. melléklet szerint módosul.
-
-143. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény
-
-1. 5. § (4) bekezdésében az „Az (1) és (1a) bekezdés” szövegrész helyébe az „Az (1), az (1a) és az (1b) bekezdés” szöveg,
-
-2. 5. § (5) bekezdésében az „átadó szervezet” szövegrész helyébe a „tulajdonosi joggyakorló szervezet” szöveg, és
-
-3. 8. §-ában az „az 5. § (1), (1a), (4)” szövegrész helyébe az „az 5. § (1), (1a), (1b), (4), (5a)” szöveg
-
-lép.
+#### 143. §
 
 #### 44. A Szabályozott Tevékenységek Felügyeleti Hatósáról szóló 2021. évi XXXII. törvény módosítása
 
@@ -552,16 +526,3 @@ lép.
 alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2023. évi LIII. törvényhez
-
-A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. mellékletében foglalt táblázat a következő 58. sorral egészül ki:
-
-|  | (A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
-
-„
-
-| 58. | BUDAPEST | 38239 | 1/1 | Kivett lakóház, udvar |
-| --- | --- | --- | --- | --- |
-
-”
