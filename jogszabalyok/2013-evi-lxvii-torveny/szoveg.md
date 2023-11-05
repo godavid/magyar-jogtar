@@ -57,6 +57,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 39. útdíjbevallás: az útdíjszedőnek tett bejelentés, amely az útdíjszolgáltató és az útdíjszedő között megállapodott formátumban igazolja egy adott gépjármű jelenlétét egy EETS-területen;
 - 40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
 - 41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
+- 73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
 
@@ -124,7 +125,15 @@ feladatokat lát el.
 
 (9) Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni a külön jogszabályban foglalt követelményeknek megfelelő bevallási közreműködőkkel.
 
-(10) Az útdíjszolgáltató az úthasználati jogosultság ellenértékének kiegyenlítésére üzemanyagkártya elfogadását biztosíthatja az úthasználók számára. Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni az e törvény végrehajtására kiadott jogszabályban foglaltak szerint az üzemanyagkártya-kibocsátókkal.
+(10) Az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett biztosíthatja.
+
+(11) Az egyetemes útdíjszolgáltató az útdíjfizetés lehetséges módjára vonatkozóan a szerződött díjfizetővel a (10) bekezdésben foglaltaktól eltérő egyedi megállapodást köthet.
+
+(12) Ha az egyetemes útdíjszolgáltató az általa nyújtott szolgáltatásokat utólagos fizetés mellett is nyújtja, fizetési közreműködőt vehet igénybe annak érdekében, hogy a szerződött díjfizető az utólagos fizetési kötelezettségét a fizetési közreműködőn keresztül teljesítse az egyetemes útdíjszolgáltató felé.
+
+(13) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény végrehajtására kiadott rendeletben foglalt követelményeknek megfelelő fizetési közreműködőkkel.
+
+(14) Az egyetemes útdíjszolgáltató a fizetési közreműködő közreműködésével beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet a fizetési közreműködőnek.
 
 7. § (1) Viszonylati jegyet az egyetemes útdíjszolgáltatónál lehet váltani. A viszonylati jegy ellenértékét annak megváltásakor kell kiegyenlíteni.
 
@@ -136,7 +145,9 @@ feladatokat lát el.
 
 (5) A szerződött díjfizető köteles az útdíjszolgáltatóval való szerződéskötés során, valamint a szerződés hatálya alatt az útdíjszolgáltatóval a valóságnak megfelelő adatokat közölni. Az adatszolgáltatás pontatlanságából, illetve a valótlan adatszolgáltatásból eredő kár a szerződött díjfizetőt terheli.
 
-8. § Az útdíjszedő, az útdíjszolgáltató és a bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendelet szerint meghatározott útdíj összegén felül nem számíthat fel a díjfizetésre kötelezettnek további díjat vagy indokolatlan költséget az UD rendszerhez való hozzáférésért.
+8. § (1) Az útdíjszedő, az útdíjszolgáltató és a bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendelet szerint meghatározott útdíj összegén felül nem számíthat fel a díjfizetésre kötelezettnek további díjat vagy indokolatlan költséget az UD rendszerhez való hozzáférésért.
+
+(2) A fizetési közreműködő az e törvény felhatalmazása alapján kiadott rendelet szerint meghatározott útdíj összegén felül nem számíthat fel a díjfizetésre kötelezettnek további indokolatlan költséget az UD rendszerhez való hozzáférésért.
 
 8/A. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az útdíj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneiből eredő fizetési kötelezettsége 100%-ának teljesítéséért.
 
@@ -475,6 +486,7 @@ jogosult kezelni.
 - q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
 - r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 - s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
+- t) állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -485,7 +497,7 @@ jogosult kezelni.
 - e) rendeletben jelölje ki a tanúsító szervet,
 - f)
 
-(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a viszonteladók és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
 
 28/A. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy az úttestbe épített áthajtásos tömegmérő pontok működtetésének részletszabályait rendeletben határozza meg.
 
@@ -499,9 +511,9 @@ jogosult kezelni.
 
 #### 29/A. §
 
-#### 16.
+#### 16. Átmeneti rendelkezések
 
-#### 30. §
+30. § E törvénynek az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel megállapított 2. § 73. pont szerinti fizetési közreműködők a tényleges tevékenységüket legkorábban 2024. január 1-jén kezdhetik meg.
 
 #### 17. Az Európai Unió jogának való megfelelés
 
