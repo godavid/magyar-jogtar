@@ -112,7 +112,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - c) a nemzetközi egyezményekből adódó állami feladatok ellátásáról,
 - d) az országos kutatási, műszaki fejlesztési programok kialakításáról és érvényre juttatásáról.
 
-(3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait, az egyedi építési követelményeket és a területrendezési szabályokat.
+(3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait, az egyedi építési követelményeket és a területrendezési szabályokat.
 
 (3b) A (3a) bekezdésben meghatározott beruházásokkal összefüggő különös hatósági eljárási szabályokat a Kormány rendeletben állapíthatja meg.
 
@@ -127,7 +127,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 4/A. § (1) Kiemelten fontos közérdekű cél az egészséges lakó- és munkakörülmények javítása, a környezet- és a természetvédelem szempontjainak figyelembevétele, az infrastrukturális erőforrások optimális kihasználása, a rozsdaövezeti akcióterületek alkalmassá tétele a lakhatási feltételek biztosítására és városszövetbe integrálása, a munkahelyek megőrzése és új munkahelyek teremtése érdekében.
 
-(2) Az (1) bekezdésben rögzített célok megvalósítása érdekében a rozsdaövezeti akcióterületen megvalósítani kívánt beruházások megvalósítására a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 11/B–11/G. §-ában foglalt, a kiemelten közérdekű beruházások megvalósítására vonatkozó rendelkezéseket kell alkalmazni.
+(2) Az (1) bekezdésben rögzített célok megvalósítása érdekében a rozsdaövezeti akcióterületen megvalósítani kívánt beruházások megvalósítására a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 1/A–1/E. §-ában foglalt, a kiemelt beruházások megvalósítására vonatkozó rendelkezéseket kell alkalmazni.
 
 5. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében:
 
@@ -647,7 +647,7 @@ kivételével más építési munkát végezni nem szabad.
 
 (5) A (3) bekezdés b) pontja szerinti szerződésben kikötött vagy vállalt kötelezettségek és a megvalósuló településrendezési cél között településfejlesztési vagy településrendezési összefüggésnek kell lennie. A településrendezési szerződésben a telek tulajdonosa vagy annak hozzájárulásával a beruházó által vállalt kötelezettségek teljesítése érdekében a településrendezési kötelezettség tényét a települési önkormányzat jegyzőjének megkeresésére a mellékelt szerződés alapján az ingatlan-nyilvántartásba fel kell jegyeztetni. A kötelezettség megszűnését követő 15 munkanapon belül az önkormányzat jegyzője megkeresi az ingatlanügyi hatóságot a tény törlése érdekében.
 
-(5a) Az (5) bekezdésben foglaltaktól eltérően a településrendezési kötelezettség tényét a nemzetgazdasági szempontból kiemelt közlekedési infrastruktúra-beruházások esetében az ingatlan-nyilvántartásba nem kell feljegyezni, ha a kisajátítási vázrajzok földhivatali záradékolása megtörtént vagy a végleges építési engedély rendelkezésre áll.
+(5a)
 
 (6) Törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában az önkormányzat a szerződést a (3) bekezdés a) pontja szerinti esetben a települési önkormányzat képviselő-testületének döntésétől számított 30 napon belül írásban köti meg.
 
@@ -831,7 +831,7 @@ eljárásokat folytat, és jogszabályban meghatározott esetben és módon ép�
 
 (5) Az építésügyi hatóság tény, állapot, egyéb adat igazolása céljából az ingatlan adataiban bekövetkezett változásnak – jogszabályban meghatározottak szerinti – ingatlan-nyilvántartásban történő átvezetéséhez helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
-(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra, valamint a kiemelten közérdekű beruházásokra eltérő eljárási szabályok állapíthatók meg.
+(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra eltérő eljárási szabályok állapíthatók meg.
 
 35. § (1)
 
@@ -1243,7 +1243,7 @@ nem alkalmazható.
 
 53/A. § Az építésügyi és építésfelügyeleti eljárásokban az eljáró hatóság és szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le.
 
-53/B. § Azon építési beruházás építésügyi hatósági eljárására, amely legalább – az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított – 90 millió forint építmény értékű, és ipari vagy szolgáltatási rendeltetésű, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) rendelkezéseit kell alkalmazni, az Ngtv. 1/A. §-a kivételével.
+53/B. § Azon építési beruházás építésügyi hatósági eljárására, amely legalább – az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított – 90 millió forint építmény értékű, és ipari vagy szolgáltatási rendeltetésű, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) rendelkezéseit kell alkalmazni, az Ngtv. 1/B. § (1) bekezdése kivételével.
 
 53/C. § (1) A kérelemre indult építésügyi és építésfelügyeleti hatósági eljárás esetében az ügyintézési határidő a kérelemnek a hatósághoz történő beérkezését követő első munkanapon kezdődik.
 
@@ -1901,7 +1901,7 @@ is alkalmazni kell.
 
 26. a 6. § (2) bekezdése szerinti határidőt,
 
-27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint a az Ngtv. szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a beépítés szabályait, és a beruházásokkal összefüggő különös hatósági eljárási szabályokat,
+27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a beépítés szabályait, és a beruházásokkal összefüggő különös hatósági eljárási szabályokat,
 
 28. az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
 
