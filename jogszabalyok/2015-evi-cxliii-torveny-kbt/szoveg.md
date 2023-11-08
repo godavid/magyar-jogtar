@@ -37,6 +37,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - a) azon gazdasági szereplőt, amely tevékenységét kizárólagos jog alapján végzi,
   - b) a szerződés teljesítéséhez igénybe venni kívánt gyártót, forgalmazót, alkatrész vagy alapanyag eladóját,
   - c) építési beruházás esetén az építőanyag-eladót;
+- 2a. állami közbeszerzési szaktanácsadó: az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) alpontja és – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – cb) alpontja szerinti szervezet által foglalkoztatott személy, aki járulékos közbeszerzési feladatot lát el az őt foglalkoztató ajánlatkérő számára;
 - 3. címke: olyan dokumentum, bizonyítvány vagy tanúsítvány, amely igazolja, hogy az adott építmény, termék, szolgáltatás, folyamat vagy eljárás megfelel bizonyos követelményeknek;
 - 4. címkézési követelmény(ek): az a követelmény, amelyet az adott építménynek, terméknek, szolgáltatásnak, folyamatnak vagy eljárásnak teljesítenie kell a kérdéses címke megszerzéséhez;
 - 5. egységes európai közbeszerzési dokumentum: a Második Rész alkalmazásában a kizáró okok fenn nem állása, az alkalmassági követelményeknek való megfelelés, illetve a 82. § (5) bekezdés szerinti objektív kritériumok teljesülése előzetes igazolását szolgáló dokumentum, amely a gazdasági szereplőnek az Európai Bizottság által meghatározott egységes formanyomtatvány szerint tett nyilatkozatát tartalmazza;
@@ -66,7 +67,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - 22. közbeszerzés előkészítése: az adott közbeszerzési vagy koncessziós beszerzési eljárás megkezdéséhez szükséges cselekmények elvégzése, így különösen az adott közbeszerzéssel kapcsolatos helyzet- és piacfelmérés, előzetes piaci konzultáció, a közbeszerzés becsült értékének felmérése, a közbeszerzési dokumentumok előkészítése;
 - 23. közbeszerzés megkezdése: a közbeszerzési vagy koncessziós beszerzési eljárást megindító vagy meghirdető hirdetmény feladásának időpontja, a hirdetmény nélkül induló eljárás esetében pedig az eljárást megindító felhívás vagy a tárgyalási meghívó megküldésének, ennek hiányában a tárgyalás megkezdésének időpontja;
 - 24. közbeszerzési szerződés: e törvény szerinti ajánlatkérő által, írásban megkötött, árubeszerzésre, szolgáltatás megrendelésre vagy építési beruházásra irányuló visszterhes szerződés;
-- 24a. közbeszerzési szolgáltató: olyan szervezet vagy személy, amely járulékos közbeszerzési szolgáltatást kínál a piacon, különösen a felelős akkreditált közbeszerzési szaktanácsadó;
+- 24a. közbeszerzési szolgáltató: olyan szervezet vagy személy, amely járulékos közbeszerzési szolgáltatást kínál a piacon;
 - 25. központi beszerző szerv: a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 - 26. központosított közbeszerzés: központi beszerző szerv által állandó jelleggel ellátott olyan tevékenység, amelynek célja
   - a) áruk vagy szolgáltatások megrendelése e törvény szerinti ajánlatkérők számára való továbbértékesítés céljából, illetve
@@ -570,14 +571,16 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (2) Ha az ajánlatkérő nem rendelkezik általános jellegű, az (1) bekezdésnek megfelelő közbeszerzési szabályzattal, vagy a szabályzattól – az abban meghatározott módon – való eltérés feltételei fennállnak, legkésőbb az adott közbeszerzési eljárás előkészítését megelőzően kell meghatároznia az (1) bekezdésben foglaltakat.
 
-(3) A közbeszerzési eljárás előkészítése, a felhívás és a közbeszerzési dokumentumok elkészítése, valamint az ajánlatok értékelése során és az eljárás más szakaszában az ajánlatkérő nevében eljáró, illetve az eljárásba bevont személyeknek és szervezeteknek együttesen rendelkezniük kell a közbeszerzés tárgya szerinti szakmai, közbeszerzési, jogi és pénzügyi szakértelemmel. Az ajánlatkérő köteles felelős akkreditált közbeszerzési szaktanácsadót bevonni
+(3) A közbeszerzési eljárás előkészítése, a felhívás és a közbeszerzési dokumentumok elkészítése, valamint az ajánlatok értékelése során és az eljárás más szakaszában az ajánlatkérő nevében eljáró, illetve az eljárásba bevont személyeknek és szervezeteknek együttesen rendelkezniük kell a közbeszerzés tárgya szerinti szakmai, közbeszerzési, jogi és pénzügyi szakértelemmel. Az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti szervezet – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – köteles állami közbeszerzési szaktanácsadót bevonni
 
 - a) árubeszerzés és szolgáltatás megrendelése esetén az uniós értékhatárt elérő értékű közbeszerzési eljárásba,
 - b) építési beruházás esetén a hétszázmillió forintot elérő értékű közbeszerzési eljárásba, vagy
 - c) a részben vagy egészben európai uniós forrásból megvalósuló közbeszerzési eljárásba, kivéve a keretmegállapodás alapján történő, az a)–b) pontban meghatározott értéket el nem érő beszerzés megvalósításába,
 - d) keretmegállapodás alapján történő, az a)–b) pontban meghatározott értékű beszerzés megvalósításába.
 
-(3a) Az ajánlatkérő – a (3) bekezdéstől eltérően – nem köteles felelős akkreditált közbeszerzési szaktanácsadót bevonni a keretmegállapodás alapján történő, ajánlatkérő általi közvetlen megrendelés esetén.
+(3a) Az ajánlatkérő – a (3) bekezdéstől eltérően – nem köteles az állami közbeszerzési szaktanácsadót bevonni a keretmegállapodás alapján történő, ajánlatkérő általi közvetlen megrendelés esetén.
+
+(3b) Az állami közbeszerzési szaktanácsadó az őt foglalkoztató ajánlatkérő engedélyével más ajánlatkérővel közbeszerzési szakértelem biztosítása céljából megbízási jogviszonyt létesíthet.
 
 (4) Az ajánlatkérő a (3) bekezdésben meghatározott szakértelemmel együttesen rendelkező, legalább háromtagú bírálóbizottságot köteles létrehozni az ajánlatoknak – szükség esetén a hiánypótlás, felvilágosítás vagy indokolás [71–72. §] megadását követő – e törvény szerinti elbírálására és értékelésére. A bírálóbizottság írásbeli szakvéleményt és döntési javaslatot készít az eljárást lezáró döntést meghozó személy vagy testület részére. A bírálóbizottsági munkáról jegyzőkönyvet kell készíteni, amelynek – amennyiben az ajánlatkérő alkalmaz ilyet – részét képezhetik a tagok indokolással ellátott bírálati lapjai.
 
@@ -896,7 +899,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (4a) A közbeszerzésekért felelős miniszter az EKR-ben az alábbi személyes adatokat kezeli:
 
-- a) a rendszer üzemeltetése, a közbeszerzési és koncessziós beszerzési eljárások és azok módosításainak közbeszerzési-jogi ellenőrzése céljából a természetes személyazonosító, valamint kapcsolattartást szolgáló adatokat, a felelős akkreditált közbeszerzési szaktanácsadó eljárásához kapcsolódó személyazonosító adatait, a kizáró okok fenn nem állására, a közbeszerzési kizáró okot jelentő jogsértésre vonatkozó adatokat, az alkalmasság megítélése és az értékelési szempontok alapján a gazdaságilag legelőnyösebb ajánlat kiválasztásához kapcsolódóan az ajánlatban vagy részvételi jelentkezésben megnevezett személyek természetes személyazonosító adatait, valamint képzettségre és végzettségre, szakmai gyakorlatra, szervezeti, köztestületi tagságra, nyilvántartásban szereplésre és gazdasági társaságban fennálló tagságra vonatkozó adatait, valamint az eljárási cselekményekkel összefüggő naplóadatokat;
+- a) a rendszer üzemeltetése, a közbeszerzési és koncessziós beszerzési eljárások és azok módosításainak közbeszerzési-jogi ellenőrzése céljából a természetes személyazonosító, valamint kapcsolattartást szolgáló adatokat, az állami közbeszerzési szaktanácsadó eljárásához kapcsolódó személyazonosító adatait, a kizáró okok fenn nem állására, a közbeszerzési kizáró okot jelentő jogsértésre vonatkozó adatokat, az alkalmasság megítélése és az értékelési szempontok alapján a gazdaságilag legelőnyösebb ajánlat kiválasztásához kapcsolódóan az ajánlatban vagy részvételi jelentkezésben megnevezett személyek természetes személyazonosító adatait, valamint képzettségre és végzettségre, szakmai gyakorlatra, szervezeti, köztestületi tagságra, nyilvántartásban szereplésre és gazdasági társaságban fennálló tagságra vonatkozó adatait, valamint az eljárási cselekményekkel összefüggő naplóadatokat;
 - b) a rendszerhasználók azonosítása, nyilvántartása, a rendszerhez való szükséges hozzáférések biztosítása céljából a természetes személyazonosító, valamint kapcsolattartást szolgáló adatokat;
 - c) a rendszerhasználati díj számviteli nyilvántartása céljából, valamint a számlázásához kapcsolódó célból szükséges adatokat.
 
@@ -2160,7 +2163,7 @@ ajánlattevőt kell ajánlattételre felhívnia.
 - e) nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység keretében történő beszerzésre;
 - f) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, kenyér és pékáru, méz, tojás, kertészeti növény beszerzésére;
 - g) olyan szolgáltatás megrendelése esetében, amely az ajánlatkérő alaptevékenysége ellátásához szükséges irodalmi (szakirodalmi, tudományos) mű létrehozására, tanácsadói vagy személyi tolmácsolási tevékenység végzésére irányul;
-- h) felelős akkreditált közbeszerzési szaktanácsadói tevékenység igénybevételére;
+- h)
 - i) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontja, valamint veszélyhelyzet vagy egészségügyi válsághelyzet esetén humánjárvány vagy az állatok járványos megbetegedésének megelőzése vagy elhárítása, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
 - j) fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére;
 - k) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
@@ -2734,7 +2737,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 (6) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését. Törvény ilyen tartalmú rendelkezése esetén a Közbeszerzési Döntőbizottság hatáskörébe tartozhat a védelmi és biztonsági tárgyú, továbbá a minősített adatot, illetve alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzésre, beszerzési eljárásra vonatkozó jogszabályok megsértése miatt indult eljárás lefolytatása.
 
-(7) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban a felelős akkreditált közbeszerzési szaktanácsadói, kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
+(7) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban az állami közbeszerzési szaktanácsadói, kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
 
 ### Az eljáró közbeszerzési biztosok
 
@@ -3324,7 +3327,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 - g) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
 - h) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák – köztük a Magyar Agrár, Élelmiszergazdasági és Vidékfejlesztési Kamara – által kijelölt három személy;
 - i) a Magyar Mérnöki Kamara elnöke és a Magyar Építész Kamara elnöke által közösen kijelölt személy;
-- j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy;
+- j) a közbeszerzési tanácsadók szakmai testülete által kijelölt személy;
 - k) az innovációért felelős miniszter által kijelölt személy;
 - l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 - m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy és
@@ -3389,7 +3392,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
   - ab) – a gazdasági szereplő megbízhatóságának mérlegelése nélkül – a 62. § (1) bekezdés i) és j) pontja szerinti kizárás megalapozására alkalmas ajánlatkérői döntések tényét, leírását és lényeges körülményeinek összefoglalását, és a 62. § (1) bekezdés i) és j) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát, a határozat elektronikus elérhetőségét (amennyiben elérhető) és a határozathozatal napját,
   - ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak az EKR-ben a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
   - ad) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
-  - ae) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét;
+  - ae) az állami közbeszerzési szaktanácsadók névjegyzékét;
 - b) nyilvántartást vezet a közbeszerzésekről;
 - c) a gazdasági, valamint szakmai kamara által létrehozott minősített ajánlattevői jegyzékbe vétel feltételeinek megfelelőségét ellenőrzi, a jegyzéket nyilvántartja;
 - d) az Európai Bizottság által kért, hiányzó statisztikai adatokat az Európai Bizottságnak megküldi, az e törvényben előírt tájékoztatásokat az Európai Bizottság részére megküldi;
@@ -3437,17 +3440,17 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (11) A Hatóság (2) bekezdés a) pont aa) és ab) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett minősített ajánlattevő a Hatóság határozatát közigazgatási perben megtámadhatja a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
 
-(12) A Hatóság a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult a felelős akkreditált közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és a felelős akkreditált közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy a felelős akkreditált közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
+(12) A Hatóság az állami közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult az állami közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és az állami közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy az állami közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
 
-(13) A Hatóság a (12) bekezdésben foglalt adatokat a felelős akkreditált közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből a felelős akkreditált közbeszerzési szaktanácsadót,
+(13) A Hatóság a (12) bekezdésben foglalt adatokat az állami közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből az állami közbeszerzési szaktanácsadót,
 
 - a) ha nem felel meg a jogszabályban meghatározott bejegyzési feltételeknek,
-- b) ha a (14) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy a felelős akkreditált közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el,
+- b) ha a (14) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy az állami közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el,
 - c) ha a névjegyzékbe vétel hatálya lejárt és a névjegyzékbe vétel hatályának lejárta előtt nem nyújtottak be megújítási kérelmet vagy azt elutasították, illetve az eljárást megszüntették,
-- d) ha azt a felelős akkreditált közbeszerzési szaktanácsadó kéri, vagy
+- d) ha azt az állami közbeszerzési szaktanácsadó kéri, vagy
 - e) a névjegyzékben szereplő személy halála esetén.
 
-(14) Nem lehet felelős akkreditált közbeszerzési szaktanácsadó, aki
+(14) Nem lehet állami közbeszerzési szaktanácsadó, aki
 
 - a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
 - b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
@@ -3460,7 +3463,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (17) A névjegyzékbe vétel iránti kérelmet írásban kell előterjeszteni. A hatósági eljárás során az elektronikus kapcsolattartás kötelező. A kérelem kormányablaknál nem terjeszthető elő. A névjegyzékbe vétel feltételeinek igazolásához benyújtandó dokumentumok az ügyfél nyilatkozatával nem pótolhatóak.
 
-(18) A Hatóság (12) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóságnak köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a Hatóság határozatát annak kézhezvételétől számított tizenöt napon belül támadhatja meg. A bíróság ítélete ellen fellebbezésnek nincs helye.
+(18) A Hatóság (12) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóságnak köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett állami közbeszerzési szaktanácsadó a Hatóság határozatát annak kézhezvételétől számított tizenöt napon belül támadhatja meg. A bíróság ítélete ellen fellebbezésnek nincs helye.
 
 188. § (1) Bármely gazdasági szereplő, akivel (amellyel) szemben a 62. § (1) bekezdés a) pont aa)–ah) alpontjában, b) és f) pontjában említett kizáró okok kivételével bármely egyéb kizáró ok fennáll, kérelmet nyújthat be a Hatósághoz annak megállapítása érdekében, hogy az általa hozott intézkedések a kizáró ok fennállásának ellenére kellőképpen igazolják a megbízhatóságát. A benyújtott kérelem informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Hatóság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Hatóság egy munkanapon belül visszaigazol. A megtett intézkedésekkel kapcsolatos bizonyítékokat a kérelemmel együtt kell benyújtani a Közbeszerzési Hatóság részére.
 
@@ -3620,7 +3623,7 @@ rendelkezik.
 
 (2) A közbeszerzésekért felelős miniszter hagyja jóvá a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítását, valamint irányítja, felügyeli és ellenőrzi a közbeszerzési tárgyú képzéseket.
 
-(2a) A közbeszerzésekért felelős miniszter jogosult a (2) bekezdésben foglalt közbeszerzési tárgyú, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges szakmai képzéseknek az elismerése céljából a képzéseken előadó oktatók természetes személyazonosító adatait, elérhetőségi adatait, végzettségét, szakmai tapasztalatát érintő adatok kezelésére.
+(2a) A közbeszerzésekért felelős miniszter jogosult a (2) bekezdésben foglalt közbeszerzési tárgyú, az állami közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges szakmai képzéseknek az elismerése céljából a képzéseken előadó oktatók természetes személyazonosító adatait, elérhetőségi adatait, végzettségét, szakmai tapasztalatát érintő adatok kezelésére.
 
 (3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat jogszabály tartalmazza.
 
@@ -3628,13 +3631,13 @@ rendelkezik.
 
 (5)
 
-(6) A közbeszerzésekért felelős miniszter naprakészen vezeti a képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat. E nyilvántartás vezetése körében jogosult a képzéseken részt vevők személyazonosító adatainak, elérhetőségi adatainak kezelésére.
+(6) A közbeszerzésekért felelős miniszter naprakészen vezeti a képző szervezetek által megküldött dokumentumok alapján az állami közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat. E nyilvántartás vezetése körében jogosult a képzéseken részt vevők személyazonosító adatainak, elérhetőségi adatainak kezelésére.
 
 (7) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
 
 (8) A közbeszerzésekért felelős miniszter az EKR működtetésével kapcsolatos feladatok ellátása körében statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket rendszeres időközönként közzétesz.
 
-(9) A képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékébe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat a közbeszerzésekért felelős miniszter az EKR-ben vezeti. A listában szereplő, egyes természetes személyek által elismert szakmai képzéseken való részvétel alapján megszerzett tanulmányi pontokhoz a névjegyzékbe történő bejegyzés vagy névjegyzékbe vétel megújítás érdekében a Hatósághoz benyújtott kérelem alapján a közbeszerzésekért felelős miniszter a Hatóság részére hozzáférést biztosít.
+(9) A képző szervezetek által megküldött dokumentumok alapján az állami közbeszerzési szaktanácsadók névjegyzékébe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat a közbeszerzésekért felelős miniszter az EKR-ben vezeti. A listában szereplő, egyes természetes személyek által elismert szakmai képzéseken való részvétel alapján megszerzett tanulmányi pontokhoz a névjegyzékbe történő bejegyzés vagy névjegyzékbe vétel megújítás érdekében a Hatósághoz benyújtott kérelem alapján a közbeszerzésekért felelős miniszter a Hatóság részére hozzáférést biztosít.
 
 (10)
 
@@ -3727,6 +3730,24 @@ indult eljárásban kell alkalmazni.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+197/D. § (1) A felelős akkreditált közbeszerzési szaktanácsadó az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Beruházási törvény) hatálybalépése előtt megindult közbeszerzési eljáráshoz kapcsolódó tevékenységét a Beruházási törvény hatálybalépését követően is folytathatja. Ebben az esetben tevékenysége során a felelős akkreditált közbeszerzési szaktanácsadói megnevezés használatára továbbra is jogosult.
+
+(2) A Beruházási törvény hatálybalépése napján a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 257/2018. (XII. 18.) Korm. rendelet alapján a Közbeszerzési Hatóság által vezetett felelős akkreditált közbeszerzési szaktanácsadó névjegyzékben szereplő felelős akkreditált közbeszerzési szaktanácsadó a törvény erejénél fogva az állami közbeszerzési szaktanácsadói névjegyzékbe vételre kerül, amelyről a Közbeszerzési Hatóság 15 napon belül írásban tájékoztatja.
+
+(3) A felelős akkreditált közbeszerzési szaktanácsadó a (2) bekezdés szerinti tájékoztatás kézhezvételétől számított 30 napon belül írásban nyilatkozik arról, hogy vállalja-e tevékenységének állami közbeszerzési szaktanácsadóként való végzését.
+
+(4) A Közbeszerzési Hatóság törli a felelős akkreditált közbeszerzési szaktanácsadót a névjegyzékből, ha a felelős akkreditált közbeszerzési szaktanácsadó
+
+- a) a (3) bekezdés szerinti határidőben nem nyilatkozik,
+- b) nyilatkozatában nem vállalja tevékenységének állami közbeszerzési szaktanácsadóként való végzését, vagy
+- c) a (3) bekezdés szerinti határidőben nem igazolja a Közbeszerzési Hatóság felé az 5. (1) bekezdés a) és b) pontja, valamint az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti ajánlatkérő szervezettel létesített foglalkoztatási jogviszonya fennállását a munkáltató adatainak megadásával.
+
+197/E. § (1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. június 30. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) Kormányrendeletben meghatározott közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos szabályai alapján a közbeszerzési eljárásaiba felelős akkreditált közbeszerzési szaktanácsadót bevonhat. Ezekben az esetekben a felelős akkreditált közbeszerzési szaktanácsadó e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos rendelkezései alapján jár el.
+
+(3) Az a felelős akkreditált közbeszerzési szaktanácsadó, aki a 197/D. § alapján nem vállalja, hogy tevékenységét állami közbeszerzési szaktanácsadóként végezze, a továbbiakban a közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén a (2) bekezdésben foglaltak szerint végzi felelős akkreditált közbeszerzési szaktanácsadó tevékenységét azzal, hogy a Közbeszerzési Hatóság nem törli a névjegyzékből.
+
 ### Felhatalmazás
 
 198. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
@@ -3753,15 +3774,16 @@ indult eljárásban kell alkalmazni.
 - 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 - 20. az előzetes piaci konzultáció kötelező alkalmazásának eseteit és feltételeit, a közbeszerzési eljárásokban a verseny szintjének növelése érdekében hozandó intézkedési terv közzétételére irányuló kötelezettség feltételeit, valamint a közbeszerzésekben a verseny javítása érdekében szükséges monitoring és szervezeti intézkedések szabályait;
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
-- 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
+- 22. az állami közbeszerzési szaktanácsadók tevékenységére, az állami közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, az állami közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, az állami közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a közbeszerzési tanácsadók szakmai testületére, valamint az állami közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 - 23. a közétkeztetés tárgyú közbeszerzések – e törvénytől ezen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
 - 24. az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos, szükség esetén e beszerzések sajátosságai miatt e törvénytől eltérő szabályait.
+- 25. a 197/E. § (2) bekezdés szerinti ajánlatkérői kört.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
 - a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - b) a hirdetmények, és a bírálati összegezések mintáját, a hirdetmények egyes tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
-- c) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
+- c) az állami közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 - d) az EKR használatáért fizetendő szolgáltatási díjjal, az EKR használatáért fizetendő díj befizetésének elmulasztása esetén a rendszer üzemeltetője által alkalmazható intézkedésekkel, az EKR fenntartásával és működtetésével kapcsolatos sajátos szabályokat;
 - e) a Közbeszerzési Döntőbizottság eljárásáért fizetendő igazgatási szolgáltatási díj – az adópolitikáért felelős miniszter egyetértésével megállapított – mértékét, megfizetésének módját, továbbá megfizetésének, valamint viselésének szabályait;
 - f)
