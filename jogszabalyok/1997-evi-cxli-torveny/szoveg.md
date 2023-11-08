@@ -163,7 +163,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 16. § Az ingatlan-nyilvántartásba az ingatlanhoz kapcsolódó következő jogok, illetőleg annak jogosultjai jegyezhetők be:
 
-- a) tulajdonjog, illetőleg állami tulajdonban álló ingatlan esetében az állam tulajdonosi jogait gyakorló szervezet, és a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog helyi önkormányzati tulajdon esetében a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog
+- a) tulajdonjog, építtetői tulajdonosi joggyakorlásra vonatkozó jog, valamint állami tulajdonban álló ingatlan esetében az állam tulajdonosi jogait gyakorló szervezet, és a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog helyi önkormányzati tulajdon esetében a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog
 - b) a lakásszövetkezeti tagot megillető állandó használati jog,
 - c) megállapodáson és bírósági határozaton alapuló földhasználati jog,
 - d) haszonélvezeti jog és használat joga,

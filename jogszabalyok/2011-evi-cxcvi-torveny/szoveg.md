@@ -20,6 +20,8 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 - h) a régészeti lelet,
 - i) a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvény szerinti nemzeti adatvagyon.
 
+(3) A (2) bekezdés szerinti nemzeti vagyon kezelésének és védelmének – állami építési beruházások során irányadó – szabályait külön törvény állapítja meg.
+
 2. § E törvény hatálya nem terjed ki az alábbi, nemzeti vagyonba tartozó vagyonelemekre:
 
 - a) az államháztartás körébe tartozó szervek és személyek pénzvagyonára,
@@ -361,6 +363,7 @@ javára történik.
 - m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
 - n) a hulladékról szóló törvény szerinti állami hulladékgazdálkodási közfeladat,
 - o) az a)–n) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
+- p) a külön törvény szerinti állami építési beruházás.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 

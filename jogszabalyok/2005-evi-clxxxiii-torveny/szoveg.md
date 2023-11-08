@@ -78,7 +78,7 @@ terjed ki.
 
 2.2. elővárosi vasúti pályahálózat: elővárosi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
-2.3. fejlesztési közreműködő: a Kormány rendeletében kijelölt olyan közvetett vagy közvetlen állami tulajdonú gazdasági társaság vagy szerv, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül pályahálózat-működtetőnek, valamint tevékenységének folytatásához nincs szüksége az e törvény szerinti vasútbiztonsági engedélyre;
+2.3. fejlesztési közreműködő: törvényben kijelölt olyan szerv vagy a Kormány rendeletében kijelölt olyan közvetett vagy közvetlen állami tulajdonú gazdasági társaság vagy szerv, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül pályahálózat-működtetőnek, valamint tevékenységének folytatásához nincs szüksége az e törvény szerinti vasútbiztonsági engedélyre;
 
 2.4. gazdasági társaság: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti gazdasági társaság;
 
