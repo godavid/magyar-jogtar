@@ -91,37 +91,22 @@ kell megvalósítani.
 
 (3) A Kormány – az e törvény felhatalmazása alapján kiadott rendeletében – állapít meg mentesítést vagy kötelezettséggel kapcsolatos kedvezményt a 15. § (2) bekezdése szerinti projektszervezet tagja számára
 
-1. a 35. § (2) bekezdése szerinti – az építtető által jóváhagyott – előzetes tervezési programnak, költségbecslésnek, beruházási keretnek a tervpályázat kiírásának időpontjában történő meglétére,
-
-2. a 36. § (3) bekezdése szerinti, a tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás megindításáig a telekingatlan jogi helyzetének rendezettségére, valamint kisajátítási tervek rendelkezésre állására,
-
-3. a 37. § szerinti, tartalmi követelményeknek – ennek keretében a Tervezői Szolgáltatások Rendszerének – kötelező alkalmazására,
-
-4. a 39. § (1) bekezdése szerinti közműszolgáltatói nyilatkozatnak az engedélyezés iránti kérelem benyújtása előtt történő beszerzésére,
-
-5. a 39. § (3)–(6) bekezdése szerinti engedélyezési dokumentáció véleményezésére és jóváhagyására, valamint jóváhagyási tervvel történő kiváltására,
-
-6. a 40. § (2) bekezdése szerinti, költségbecslés aktualizálására, ennek alapján a megvalósíthatósági tanulmány átdolgozására,
-
-7. a 41. § (1)–(3) bekezdése szerinti kivitelezési dokumentáció elkészítésére,
-
-8. a 42. § szerinti kivitelezési dokumentáció tartalmára, annak előkészítése során a tervellenőr, illetve a költségszakértő általi felülvizsgálatra, a felülvizsgálat szempontjaira, valamint a kivitelezési dokumentáció véleményezésére és jóváhagyására,
-
-9. a 43. § (1) bekezdése szerinti – a kivitelező kiválasztására irányuló – közbeszerzési eljárás megindításakor a kivitelezési dokumentáció rendelkezésre állására,
-
-10. a 46. § (1) bekezdése szerinti kivitelezési szerződésminta alkalmazásának kötelezettségére,
-
-11. a 46. § (2) bekezdése szerinti – a kivitelezési szerződésre meghatározott – egyes tartalmi elemek alkalmazásának kötelezettségére,
-
-12. a 47. § (2)–(7) bekezdése szerinti költségváltozási kockázat kezelésének módjára,
-
-13. a 48. § (1) bekezdése szerinti – minimálisan alkalmazandó – tartalékkeret mértékére,
-
-14. a 48. § (3) bekezdése szerinti tartalékkeret felhasználhatóságához szükséges nyilatkozatok beszerzésére,
-
-15. a 49. § (2) bekezdése szerinti – műszakilag egyenértékű kiváltásról történő – döntésre, valamint
-
-16. az 55. § (2) és (3) bekezdése szerinti – az állami magasépítési beruházás részét képező sajátos építményfajták körébe tartozó építmény létrehozására vagy bővítésére
+- 1. a 35. § (2) bekezdése szerinti – az építtető által jóváhagyott – előzetes tervezési programnak, költségbecslésnek, beruházási keretnek a tervpályázat kiírásának időpontjában történő meglétére,
+- 2. a 36. § (3) bekezdése szerinti, a tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás megindításáig a telekingatlan jogi helyzetének rendezettségére, valamint kisajátítási tervek rendelkezésre állására,
+- 3. a 37. § szerinti, tartalmi követelményeknek – ennek keretében a Tervezői Szolgáltatások Rendszerének – kötelező alkalmazására,
+- 4. a 39. § (1) bekezdése szerinti közműszolgáltatói nyilatkozatnak az engedélyezés iránti kérelem benyújtása előtt történő beszerzésére,
+- 5. a 39. § (3)–(6) bekezdése szerinti engedélyezési dokumentáció véleményezésére és jóváhagyására, valamint jóváhagyási tervvel történő kiváltására,
+- 6. a 40. § (2) bekezdése szerinti, költségbecslés aktualizálására, ennek alapján a megvalósíthatósági tanulmány átdolgozására,
+- 7. a 41. § (1)–(3) bekezdése szerinti kivitelezési dokumentáció elkészítésére,
+- 8. a 42. § szerinti kivitelezési dokumentáció tartalmára, annak előkészítése során a tervellenőr, illetve a költségszakértő általi felülvizsgálatra, a felülvizsgálat szempontjaira, valamint a kivitelezési dokumentáció véleményezésére és jóváhagyására,
+- 9. a 43. § (1) bekezdése szerinti – a kivitelező kiválasztására irányuló – közbeszerzési eljárás megindításakor a kivitelezési dokumentáció rendelkezésre állására,
+- 10. a 46. § (1) bekezdése szerinti kivitelezési szerződésminta alkalmazásának kötelezettségére,
+- 11. a 46. § (2) bekezdése szerinti – a kivitelezési szerződésre meghatározott – egyes tartalmi elemek alkalmazásának kötelezettségére,
+- 12. a 47. § (2)–(7) bekezdése szerinti költségváltozási kockázat kezelésének módjára,
+- 13. a 48. § (1) bekezdése szerinti – minimálisan alkalmazandó – tartalékkeret mértékére,
+- 14. a 48. § (3) bekezdése szerinti tartalékkeret felhasználhatóságához szükséges nyilatkozatok beszerzésére,
+- 15. a 49. § (2) bekezdése szerinti – műszakilag egyenértékű kiváltásról történő – döntésre, valamint
+- 16. az 55. § (2) és (3) bekezdése szerinti – az állami magasépítési beruházás részét képező sajátos építményfajták körébe tartozó építmény létrehozására vagy bővítésére
 
 vonatkozó rendelkezés(ek) alkalmazása alól, ha így az építési beruházás a felelős költségvetési gazdálkodás követelményére és a legkisebb költség elvére figyelemmel alacsonyabb mértékű központi költségvetési forrás felhasználásával vagy egyébként kedvezőbb pénzügyi feltételek mentén valósítható meg. A mentesítés vagy a kedvezmény megadása nem járhat az 1. és 2. §-ban foglalt rendelkezések sérelmével, nem sérthet más jogszabályból származó kötelezettségeket, valamint az élet- és vagyonbiztonságot. A Kormány e törvény felhatalmazása alapján kiadott rendeletében rendelkezni kell a mentesítés, valamint a kedvezmény végleges vagy ideiglenes jellegéről, utóbbi esetben a kötelezettség maradéktalan teljesítésének határidejéről és módjáról.
 
@@ -262,45 +247,26 @@ vonatkozó rendelkezés(ek) alkalmazása alól, ha így az építési beruházá
 
 (2) A Tanács tagjai:
 
-1. a miniszter,
-
-2. a Magyar Államkincstár,
-
-3. a Magyar Mérnöki Kamara,
-
-4. a Magyar Építész Kamara,
-
-5. az Építési Vállalkozók Országos Szakszövetsége,
-
-6. a Vállalkozók és Munkáltatók Országos Szövetsége,
-
-7. a Magyar Kereskedelmi és Iparkamara,
-
-8. a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság,
-
-9. a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,
-
-10. a Magyar Út- és Vasútügyi Társaság,
-
-11. a Nemzeti Kulturális Tanács,
-
-12. a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság,
-
-13. az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság,
-
-14. a Gazdasági Versenyhivatal,
-
-15. a Közbeszerzési Hatóság,
-
-16. az országos főépítész,
-
-17. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti bevett egyház,
-
-18. a Megyei Jogú Városok Szövetsége,
-
-19. a Települési Önkormányzatok Országos Szövetsége, valamint
-
-20. Budapest Főváros Önkormányzata
+- 1. a miniszter,
+- 2. a Magyar Államkincstár,
+- 3. a Magyar Mérnöki Kamara,
+- 4. a Magyar Építész Kamara,
+- 5. az Építési Vállalkozók Országos Szakszövetsége,
+- 6. a Vállalkozók és Munkáltatók Országos Szövetsége,
+- 7. a Magyar Kereskedelmi és Iparkamara,
+- 8. a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság,
+- 9. a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,
+- 10. a Magyar Út- és Vasútügyi Társaság,
+- 11. a Nemzeti Kulturális Tanács,
+- 12. a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság,
+- 13. az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság,
+- 14. a Gazdasági Versenyhivatal,
+- 15. a Közbeszerzési Hatóság,
+- 16. az országos főépítész,
+- 17. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti bevett egyház,
+- 18. a Megyei Jogú Városok Szövetsége,
+- 19. a Települési Önkormányzatok Országos Szövetsége, valamint
+- 20. Budapest Főváros Önkormányzata
 
 által delegált személy azzal, hogy a 2–20. pont szerinti szervezetek egy-egy fő jelölésére jogosultak.
 
@@ -308,21 +274,14 @@ vonatkozó rendelkezés(ek) alkalmazása alól, ha így az építési beruházá
 
 (4) A Tanács
 
-a) előkészíti az állami építési beruházás típusonként kialakítandó Tervezői Szolgáltatások Rendszerét és az Építési Beruházási Folyamatok Rendszerét,
-
-b) javaslatot tesz a Kbt. 3. § 40. pontja szerinti tervpályázat (a továbbiakban: tervpályázat), az engedélyezési dokumentáció és a kivitelezési dokumentáció elkészítésére irányuló közbeszerzési dokumentáció tartalmi elemét képező szakmai alkalmassági és értékelési kritériumrendszerre,
-
-c) előkészíti az építményinformációs modell (BIM) alapú tervezés és műszaki megvalósítás feltételrendszerét, legalább kétévente – a hazai és a nemzetközi tapasztalatok és trendek alapján – azt felülvizsgálja, korrekcióját és továbbfejlesztését előkészíti, amennyiben ebből adódóan szükségesnek látja, javaslatot tesz a miniszternek az (5) bekezdés szerint megalkotott miniszteri rendelet új szakmai iránymutatásokra vonatkozó javaslatai figyelembevételével történő módosítására,
-
-d) előkészíti a tervező és az építtetővel kivitelezési szerződést kötő fővállalkozó kivitelező (a továbbiakban: kivitelező) közreműködésének értékelési rendszerét,
-
-e) javaslatot tesz a műszaki egyenértékűség, helyettesíthetőség és kiváltások (a továbbiakban együtt: műszakilag egyenértékű kiváltás) elfogadásának kritériumrendszerére,
-
-f) az érintett szervekkel és szervezetekkel történő előzetes egyeztetés alapján javaslatot tesz a minősített szolgáltatásokra vonatkozóan az alkalmazandó címkék jegyzékére (a továbbiakban: jegyzék),
-
-g) az építési beruházásokban részt vevő szakemberek szakmai képzésére vonatkozó állami, kamarai és piaci képzések rendszerének felülvizsgálata alapján javaslatot fogalmaz meg az új képzési rendszer kidolgozására, a szakmai képzések formájára és feltételeire, valamint
-
-h) javaslatot tesz – az államháztartási szabályok figyelembevétele mellett – az állami építési beruházások esetén alkalmazandó, beruházástípusonként és építményfunkciónként eltérő szerződésmintákra.
+- a) előkészíti az állami építési beruházás típusonként kialakítandó Tervezői Szolgáltatások Rendszerét és az Építési Beruházási Folyamatok Rendszerét,
+- b) javaslatot tesz a Kbt. 3. § 40. pontja szerinti tervpályázat (a továbbiakban: tervpályázat), az engedélyezési dokumentáció és a kivitelezési dokumentáció elkészítésére irányuló közbeszerzési dokumentáció tartalmi elemét képező szakmai alkalmassági és értékelési kritériumrendszerre,
+- c) előkészíti az építményinformációs modell (BIM) alapú tervezés és műszaki megvalósítás feltételrendszerét, legalább kétévente – a hazai és a nemzetközi tapasztalatok és trendek alapján – azt felülvizsgálja, korrekcióját és továbbfejlesztését előkészíti, amennyiben ebből adódóan szükségesnek látja, javaslatot tesz a miniszternek az (5) bekezdés szerint megalkotott miniszteri rendelet új szakmai iránymutatásokra vonatkozó javaslatai figyelembevételével történő módosítására,
+- d) előkészíti a tervező és az építtetővel kivitelezési szerződést kötő fővállalkozó kivitelező (a továbbiakban: kivitelező) közreműködésének értékelési rendszerét,
+- e) javaslatot tesz a műszaki egyenértékűség, helyettesíthetőség és kiváltások (a továbbiakban együtt: műszakilag egyenértékű kiváltás) elfogadásának kritériumrendszerére,
+- f) az érintett szervekkel és szervezetekkel történő előzetes egyeztetés alapján javaslatot tesz a minősített szolgáltatásokra vonatkozóan az alkalmazandó címkék jegyzékére (a továbbiakban: jegyzék),
+- g) az építési beruházásokban részt vevő szakemberek szakmai képzésére vonatkozó állami, kamarai és piaci képzések rendszerének felülvizsgálata alapján javaslatot fogalmaz meg az új képzési rendszer kidolgozására, a szakmai képzések formájára és feltételeire, valamint
+- h) javaslatot tesz – az államháztartási szabályok figyelembevétele mellett – az állami építési beruházások esetén alkalmazandó, beruházástípusonként és építményfunkciónként eltérő szerződésmintákra.
 
 (5) A Tanács (4) bekezdés a)–g) pontja szerinti szakmai iránymutatásokra vonatkozó javaslatai figyelembevételével a miniszter rendeletet alkot.
 
@@ -929,242 +888,34 @@ jelöl ki vagy bíz meg.
 
 #### 24. Módosító rendelkezések
 
-67. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 67. §
 
-„(1) Az országos közutak építtetője – a (11) bekezdésben foglaltak figyelembevételével – az országos közúthálózat fejlesztési és építtetői feladatainak ellátásáért felelős gazdasági társaság vagy szerv (a továbbiakban: közútfejlesztési gazdasági társaság). A Kormány közútfejlesztési gazdasági társaságként
+#### 68. §
 
-- a) állami tulajdonban álló gazdasági társaságot,
-- b) a nemzeti vagyonról szóló törvény szerinti vagyonkezelői jog jogosultját,
-- c) a nemzeti vagyonról szóló törvény szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultját, vagy
-- d) költségvetési szervet jelöl ki. Az út 33. § (1) bekezdés b) pontja szerinti kezelője a (11) bekezdésben foglaltak figyelembevételével építtetőnek minősül a miniszter rendelete alapján – önkormányzati tulajdonú helyi közút esetében az érintett önkormányzat egyetértése esetén –, valamint jogszabály szerinti felújítási, karbantartási és fejlesztési feladatok ellátása tekintetében. A közút kezelője a feladatok finanszírozására a forrást biztosító szervezettel szerződést köt. A vízi létesítmény építtetője a vízgazdálkodási beruházás részeként megvalósuló közúti felújítás, karbantartás, valamint fejlesztés tekintetében is – ha rendelkezik a közútkezelő hozzájárulásával és országos közút esetén a vagyonkezelő hozzájárulásával – építtetőnek minősül.”
+#### 69. §
 
-68. § A Kkt.
+#### 70. §
 
-- a) 32/B. § (1) bekezdésében az „állami tulajdonú gazdasági társaság” szövegrész helyébe az „állami tulajdonú gazdasági társaság vagy költségvetési szerv” szöveg,
-- b) 32/B. § (2) bekezdésében az „állami tulajdonú gazdasági társaság” szövegrészek helyébe az „állami tulajdonú gazdasági társaság vagy költségvetési szerv” szöveg
+#### 71. §
 
-lép.
+#### 72. §
 
-69. § (1) A Vgtv. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 73. §
 
-„(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. Az állami beruházásokért felelős miniszter felelős a kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építésért és fejlesztéséért. Ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.”
+#### 74. §
 
-(2) Hatályát veszti a Vgtv. 16. § (4) bekezdés b) pontja.
+#### 75. §
 
-70. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.)
+#### 76. §
 
-- a) 4/A. § (2) bekezdésében a „11/B–11/G. §-ában foglalt, a kiemelten közérdekű beruházások” szövegrész helyébe az „1/A–1/E. §-ában foglalt, a kiemelt beruházások” szöveg,
-- b) 53/B. §-ában az „1/A. §-a” szövegrész helyébe az „1/B. § (1) bekezdése” szöveg
+#### 77. §
 
-lép.
+#### 78. §
 
-(2) Hatályát veszti az Étv.
+#### 79. §
 
-- a) 4. § (3a) bekezdésében a „valamint a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre,” szövegrész,
-- b) 30/A. § (5a) bekezdése,
-- c) 34. § (6) bekezdésében a „ , valamint a kiemelten közérdekű beruházásokra” szövegrész,
-- d) 62. § (1) bekezdés 27. pontjában a „valamint a az Ngtv. szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre,” szövegrész.
+#### 80. §
 
-71. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § a) pontjában a „tulajdonjog, illetőleg” szövegrész helyébe a „tulajdonjog, építtetői tulajdonosi joggyakorlásra vonatkozó jog, valamint” szöveg lép.
+#### 81. §
 
-72. § A Vtv. 2. § 2. pont 2.3. alpontjában az „a Kormány” szövegrész helyébe a „törvényben kijelölt olyan szerv vagy a Kormány” szöveg lép.
-
-73. § (1) Az Ngtv. 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A törvény hatálya a részben vagy egészben európai uniós támogatást, továbbá a részben vagy egészben központi költségvetési támogatást felhasználó azon beruházásokra terjed ki, amely
-
-- a) honvédelmi, nemzetbiztonsági vagy rendvédelmi célú és rendeltetésű építmény,
-- b) környezetvédelmi, oktatási, kulturális, egészségügyi és szociális, valamint az oktatáshoz és egészségügyhöz kötődő kutatás-fejlesztési és innovációs célok megvalósítását elősegítő építmény,
-- c) közcélú nyomvonalas építmény,
-- d) egyházi és nemzetiségi célú és rendeltetésű építmény,
-- e) az energetika terén az ellátásbiztonságot érintő építmény,
-- f) a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény (a továbbiakban: Budapest tv.) III–III/B. Fejezetében meghatározott beruházások,
-- g) a kiemelt nemzeti emlékhelyen és annak külön jogszabály szerinti településkép-védelmi környezetében, továbbá nemzeti és történelmi emlékhelyen megvalósuló építmény,
-- h) nemzetgazdasági szempontból stratégiai fontosságú, a kormánnyal stratégiai megállapodást kötött gazdálkodó szervezet által tervezett építmény, vagy
-- i) az a)–h) pont alá nem tartozó, legalább 10 milliárd forint teljes költségigényű és legalább 50 új munkahely megteremtését biztosító beruházás
-
-megvalósítására irányul és azt az 1/A. §-ban foglaltak szerint kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánították.”
-
-(2) Az Ngtv. 1. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) A törvény hatálya kiterjed a szénhidrogén-kutatáshoz és -termeléshez kapcsolódó kiemelt beruházások megvalósítására és az azokkal összefüggő kiemelt jelentőségű ügyekre is.”
-
-(3) Az Ngtv. 1. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Az (1) és (1b) bekezdés szerinti kiemelt beruházások nemzetgazdasági szempontból kiemelt jelentőségű beruházásnak, a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű ügynek minősülnek. Az (1) bekezdés a)–g) pontja, valamint az (1b) bekezdés szerinti közcélú kiemelt beruházásokra az (1) bekezdés h) és i) pontja szerinti magáncélú kiemelt beruházásokhoz képest a törvény eltérő szabályokat is megállapít.”
-
-(4) Az Ngtv. 1. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés szerinti kiemelt beruházások az általános építmények mellett az Étv. szerinti sajátos építményfajták megvalósítását is magukban foglalják.”
-
-74. § Az Ngtv. „A kiemelt jelentőségű ügyben eljáró hatóságok” alcíme helyébe a következő rendelkezés lép:
-
-### „A kiemelt jelentőségű ügyekre irányadó különös szabályok
-
-1/A. § Kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg – a kiemelt jelentőségű üggyé nyilvánítással egyidejűleg – a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az 1. § (1) bekezdés a)–g) pontja és az 1. § (1b) bekezdése szerinti kiemelt beruházás esetén az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát.
-
-1/B. § (1) Kiemelt jelentőségű ügyben törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint hatóságként jár el.
-
-(2) Az 1. § (1) bekezdés a), b), d) és f)–i) pontja szerinti általános, valamint az 1. § (1) bekezdés c), e) és i) pontja és az 1. § (1b) bekezdése szerinti sajátos építmények megvalósítására irányuló kiemelt beruházás építészeti-műszaki dokumentációját az építési engedély iránti kérelem benyújtása előtt meg kell küldeni az országos főépítész által vezetett Országos Építészeti Tervtanácsnak (a továbbiakban: OÉT) az atomenergiáról szóló törvény szerinti atomenergia alkalmazására szolgáló építmény kivételével. Az OÉT eljárására a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet eljárási rendelkezései irányadóak. Az építésügyi hatóság az építési engedély iránti kérelmet elutasítja, ha az OÉT az építészeti-műszaki tervet szakmai véleményében engedélyezésre nem ajánlotta.
-
-(3) Kiemelt beruházás esetén törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárást folytat le.
-
-1/C. § (1) Kiemelt beruházás esetében az 1/A. § szerinti jogszabályban a kiemelt beruházás helyszínére és közvetlen környezetére vonatkozóan törvényben vagy miniszteri rendeletben foglalt területrendezési követelményekhez, valamint kormányrendeletben foglalt településrendezési, építési és telekalakítási követelményekhez képest eltérő követelmény állapítható meg. Az 1. § (1) bekezdés a)–g) pontja, valamint az 1. § (1b) bekezdése szerinti kiemelt beruházások esetében a törvényben vagy kormányrendeletben foglalt örökségvédelmi követelményekhez, miniszteri rendeletben foglalt országos tűzvédelmi követelményekhez, továbbá kormányrendeletben vagy miniszteri rendeletben foglalt környezetvédelmi tárgyú és a fás szárú növényekre vonatkozó követelményekhez képest is megállapítható eltérő szabály.
-
-(2) Kiemelt beruházás esetében az 1/A. § szerinti jogszabályban a kiemelt beruházás helyszínére és közvetlen környezetére vonatkozóan a helyi építési szabályzatban foglalt településrendezési, építési és telekalakítási követelményhez képest eltérő követelmény állapítható meg. Az önkormányzat által megállapított településképi követelménytől eltérés nem adható.
-
-(3) Törvény az elrendelt változtatási és építési tilalom alkalmazását felfüggesztheti.
-
-(4) Amennyiben a településrendezési, építési vagy telekalakítási követelmény megállapításából a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott módon – egyösszegű, az Étv. 30. § (2) és (3) bekezdése szerinti kártalanítás illeti meg. Nem jár kártalanítás az Étv. 30. § (5) bekezdésében foglalt esetekben.
-
-(5) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kártalanítási igényt támasztó kérelmének benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kisajátítási kártalanítás szabályai szerinti kártalanítási eljárás lefolytatásának van helye.
-
-(6) A kártalanítás tárgyában hozott közigazgatási határozat elleni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat is alkalmazni kell.
-
-(7) Az (1) bekezdés szerinti anyagi jogszabályi követelmények meghatározásával együtt az 1/A. § szerinti jogszabályban különös eljárási szabályok is megállapíthatóak.
-
-1/D. § (1) Ha kiemelt beruházás esetében a beruházással érintett közművezeték-üzemeltető – a jogszabályban meghatározott határidőn belül – nem nyilatkozik az építtető által benyújtott tervek jóváhagyásáról, a nyilatkozatot – a megkeresésben foglalt tartalommal – megadottnak kell tekinteni.
-
-(2) Kiemelt beruházáshoz közvetlenül kapcsolódó közműszakasz bontása, kiváltása vagy fejlesztése (a továbbiakban együtt: a közműszakaszt érintő munka) esetében az 1/A. § szerinti jogszabály rendelkezhet úgy, hogy a közműszakaszt érintő munkát a (3)–(8) bekezdésben foglaltak alapján kell elvégezni és elszámolni.
-
-(3) Az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti közműegyeztetést követően a kiemelt beruházás építtetője (e szakasz tekintetében a továbbiakban: építtető) köteles írásban értesíteni a kiemelt beruházással érintett közmű tulajdonosát és üzemeltetőjét arról, hogy a beruházás során mely közműszakasz bontása, kiváltása vagy fejlesztése szükséges.
-
-(4) Az építtető a közműszakaszt érintő munka elvégzésére vagy elvégeztetésére a körülmények és a műszaki szükségesség által indokolt mértékű – a közmű tulajdonosa számára biztosított, legalább 10 napos határidőn belül adott véleménye figyelembevételével –, 180 napnál nem rövidebb határidőt határoz meg. A közmű tulajdonosa az egyeztetett, egyetértés hiányában az építtető által meghatározott határidőn belül köteles a közműszakaszt érintő munkát elvégezni vagy elvégeztetni.
-
-(5) Ha a közmű tulajdonosa a közműszakaszt érintő munkát a (4) bekezdés szerinti véleménye szerint nem kívánja elvégezni vagy elvégeztetni, és az építtetővel másképp nem állapodik meg, akkor az építtető jogosult a közműszakaszt érintő munkát megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amit a közmű tulajdonosa tűrni köteles. A közmű tulajdonosa jogosult a munkát ellenőrizni, erre külön szakfelügyeletet biztosíthat.
-
-(6) A közmű tulajdonosa által elvégzett, a közműszakaszt érintő munka indokolt költségeit az építtető a közmű tulajdonosának köteles megtéríteni. Ha a közműszakaszt érintő munkára a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, akkor a műszakilag feltétlenül szükséges mértéket meghaladó munkák költségét a közmű tulajdonosa köteles megtéríteni, illetve viselni. Az építtető által létrehozott közmű – a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, az építtető által nyilvántartott nyilvántartási értéken való átvezetéssel a (7) bekezdés szerinti közműtulajdonos tulajdonába – Budapesten a víziközmű szolgáltatásról szóló törvényben meghatározott ellátásért felelős tulajdonába – és a közmű üzemeltetőjének üzemeltetésébe kerül.
-
-(7) Kiemelt beruházás megvalósításához közvetlenül kapcsolódó útépítési, közműcsatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával az építtető a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve köteles elszámolni a beruházással érintett közművagyon-elemek tulajdonosával.
-
-(8) A felek kötelesek a (3) bekezdés szerinti értesítést követően legkésőbb 90 napon belül megállapodást kötni – a teljes beruházási időszakban elvégzésre kerülő munkálatok figyelembevételével – az elszámolás feltételeiről, valamint a felmerülő terhek viselésének megosztásáról.
-
-1/E. § (1) A kiemelt beruházással kapcsolatos feladatok ellátására – törvényben, kormányrendeletben vagy kormányhatározatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt beruházás megvalósításában közreműködő bármely szervezettől, továbbá az érintett önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
-
-(2) A tájékoztatáskérésre az érintett szerv 15 napon belül köteles érdemi választ adni. Ha az érintett szerv az intézkedési javaslattal nem ért egyet, akkor az érintett szerv első számú vezetője – önkormányzat esetén a főpolgármester, illetve a polgármester – részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított 15 napon belül.”
-
-75. § Az Ngtv. 12. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
-
-- a) a kiemelt jelentőségű ügyek körét, a kiemelt beruházások körét, a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az 1. § (1) bekezdés a)–g) pontja és az 1. § (1b) bekezdése szerinti kiemelt beruházás esetében az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát,
-- b) a kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését,
-- c) a kiemelt jelentőségű ügyben a főispán feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
-- d) a kiemelt beruházás megvalósításával összefüggő, az általánostól eltérő területrendezési, településrendezési, építési és telekalakítási szabályokat, az 1. § (1) bekezdés a)–g) pontja és az 1. § (1b) bekezdése szerinti kiemelt beruházások esetében az örökségvédelmi szabályokat, tűzvédelmi követelményeket, környezetvédelmi és fás szárú növények védelmére vonatkozó követelményeket, valamint mindezekhez kapcsolódó eljárási szabályokat,
-- e) az 1/C. § (2) bekezdésében foglalt esetekben a sajátos településrendezési, építési és telekalakítási követelményeket,
-- f) a kiemelt beruházással kapcsolatos, az 1/C. § (4) bekezdése szerinti kártalanítás részletes szabályait,
-- g) a kiemelt beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégzésére és elszámolására vonatkozó részletes szabályokat, valamint
-- h) a kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait.”
-
-76. § Az Ngtv. a következő 18. §-sal egészül ki:
-
-„18. § (1) Az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Módtv.4.) hatálybalépéséig kiemelten közérdekű beruházássá, illetve nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházássá nyilvánított beruházásokkal összefüggő ügyekre a Módtv.4. által megállapított 1. § (1) bekezdés a)–g) pontja és 1. § (1b) bekezdése szerinti kiemelt beruházásokra vonatkozó szabályokat kell alkalmazni.
-
-(2) Az (1) bekezdésben meghatározottak kivételével a Módtv.4. hatálybalépéséig nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított beruházásokkal összefüggő ügyekre a Módtv.4.-gyel megállapított 1. § (1) bekezdés h) és i) pontjára vonatkozó szabályokat kell alkalmazni.
-
-(3) A magyar építészetről szóló törvény hatálybalépéséig nem európai uniós támogatás vagy központi költségvetési támogatás felhasználásával megvalósuló beruházások nemzetgazdasági szempontból kiemelt jelentőségű beruházássá nyilvánítására, a beruházással kapcsolatos eljárási szabályokra és eltérési lehetőségekre e törvénynek a Módtv.4. hatálybalépését megelőző napon hatályos szabályait kell alkalmazni.”
-
-77. § Az Ngtv. 11/F. § (8) bekezdésében a „Kiemelten közérdekű beruházás” szövegrész helyébe az „A Budapest tv. III. Fejezete szerinti beruházás” szöveg lép.
-
-78. § Hatályát veszti az Ngtv.
-
-- a) „A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő ügyekre vonatkozó eltérő rendelkezések” alcíme,
-- b) 11–11/E. §-a,
-- c) 11/F. § (1)–(7) bekezdése,
-- d) 11/G. §-a,
-- e) 12. § (5) bekezdése.
-
-79. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 1. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A (2) bekezdés szerinti nemzeti vagyon kezelésének és védelmének – állami építési beruházások során irányadó – szabályait külön törvény állapítja meg.”
-
-(2) Az Nvtv. 12. § (1) bekezdése a következő p) ponttal egészül ki:
-
-(Az állam kizárólagos gazdasági tevékenységei a következők:)
-
-„p) a külön törvény szerinti állami építési beruházás.”
-
-80. § (1) A Kbt. 3. §-a a következő 2a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„2a. állami közbeszerzési szaktanácsadó: az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) alpontja és – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – cb) alpontja szerinti szervezet által foglalkoztatott személy, aki járulékos közbeszerzési feladatot lát el az őt foglalkoztató ajánlatkérő számára;”
-
-(2) A Kbt. 27. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) Az állami közbeszerzési szaktanácsadó az őt foglalkoztató ajánlatkérő engedélyével más ajánlatkérővel közbeszerzési szakértelem biztosítása céljából megbízási jogviszonyt létesíthet.”
-
-(3) A Kbt. „Átmeneti rendelkezések” alcíme a következő 197/D. §-sal egészül ki:
-
-„197/D. § (1) A felelős akkreditált közbeszerzési szaktanácsadó az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Beruházási törvény) hatálybalépése előtt megindult közbeszerzési eljáráshoz kapcsolódó tevékenységét a Beruházási törvény hatálybalépését követően is folytathatja. Ebben az esetben tevékenysége során a felelős akkreditált közbeszerzési szaktanácsadói megnevezés használatára továbbra is jogosult.
-
-(2) A Beruházási törvény hatálybalépése napján a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 257/2018. (XII. 18.) Korm. rendelet alapján a Közbeszerzési Hatóság által vezetett felelős akkreditált közbeszerzési szaktanácsadó névjegyzékben szereplő felelős akkreditált közbeszerzési szaktanácsadó a törvény erejénél fogva az állami közbeszerzési szaktanácsadói névjegyzékbe vételre kerül, amelyről a Közbeszerzési Hatóság 15 napon belül írásban tájékoztatja.
-
-(3) A felelős akkreditált közbeszerzési szaktanácsadó a (2) bekezdés szerinti tájékoztatás kézhezvételétől számított 30 napon belül írásban nyilatkozik arról, hogy vállalja-e tevékenységének állami közbeszerzési szaktanácsadóként való végzését.
-
-(4) A Közbeszerzési Hatóság törli a felelős akkreditált közbeszerzési szaktanácsadót a névjegyzékből, ha a felelős akkreditált közbeszerzési szaktanácsadó
-
-- a) a (3) bekezdés szerinti határidőben nem nyilatkozik,
-- b) nyilatkozatában nem vállalja tevékenységének állami közbeszerzési szaktanácsadóként való végzését, vagy
-- c) a (3) bekezdés szerinti határidőben nem igazolja a Közbeszerzési Hatóság felé az 5. (1) bekezdés a) és b) pontja, valamint az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti ajánlatkérő szervezettel létesített foglalkoztatási jogviszonya fennállását a munkáltató adatainak megadásával.”
-
-(4) A Kbt. „Átmeneti rendelkezések” alcíme a következő 197/E. §-sal egészül ki:
-
-„197/E. § (1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. június 30. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
-
-(2) Kormányrendeletben meghatározott közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos szabályai alapján a közbeszerzési eljárásaiba felelős akkreditált közbeszerzési szaktanácsadót bevonhat. Ezekben az esetekben a felelős akkreditált közbeszerzési szaktanácsadó e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos rendelkezései alapján jár el.
-
-(3) Az a felelős akkreditált közbeszerzési szaktanácsadó, aki a 197/D. § alapján nem vállalja, hogy tevékenységét állami közbeszerzési szaktanácsadóként végezze, a továbbiakban a közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén a (2) bekezdésben foglaltak szerint végzi felelős akkreditált közbeszerzési szaktanácsadó tevékenységét azzal, hogy a Közbeszerzési Hatóság nem törli a névjegyzékből.”
-
-(5) A Kbt. 198. § (1) bekezdés 22. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
-
-„22. az állami közbeszerzési szaktanácsadók tevékenységére, az állami közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, az állami közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, az állami közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a közbeszerzési tanácsadók szakmai testületére, valamint az állami közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;”
-
-(6) A Kbt. 198. § (1) bekezdése a következő 25. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
-
-„25. a 197/E. § (2) bekezdés szerinti ajánlatkérői kört.”
-
-(7) A Kbt.
-
-- a) 27. § (3) bekezdés nyitó szövegrészében az „ajánlatkérő köteles felelős akkreditált” szövegrész helyébe az „5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti szervezet – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – köteles állami” szöveg,
-- b) 27. § (3a) bekezdésében a „felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- c) 46. § (4a) bekezdés a) pontjában az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- d) 145. § (7) bekezdésében az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- e) 182. § (2) bekezdés j) pontjában az „a felelős akkreditált közbeszerzési szaktanácsadók” szövegrész helyébe az „a közbeszerzési tanácsadók” szöveg,
-- f) 187. § (2) bekezdés a) pont ae) alpontjában az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- g) 187. § (12) bekezdésében az „a felelős akkreditált” szövegrészek helyébe az „az állami” szöveg,
-- h) 187. § (13) bekezdés nyitó szövegrészében az „a felelős akkreditált” szövegrészek helyébe az „az állami” szöveg,
-- i) 187. § (13) bekezdés b) pontjában az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- j) 187. § (13) bekezdés d) pontjában az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- k) 187. § (14) bekezdés nyitó szövegrészében a „felelős akkreditált” szövegrész helyébe az „állami” szöveg,
-- l) 187. § (18) bekezdésében a „felelős akkreditált” szövegrész helyébe az „állami” szöveg,
-- m) 195. § (2a) bekezdésében az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- n) 195. § (6) bekezdésében az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- o) 195. § (9) bekezdésében az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg,
-- p) 198. § (2) bekezdés c) pontjában az „a felelős akkreditált” szövegrész helyébe az „az állami” szöveg
-
-lép.
-
-(8) Hatályát veszti a Kbt.
-
-- a) 3. § 24a. pontjában a „ , különösen a felelős akkreditált közbeszerzési szaktanácsadó” szövegrész,
-- b) 111. § h) pontja.
-
-81. § (1) A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus tv.) 5. §-a helyébe a következő rendelkezés lép:
-
-„5. § (1) A kiemelt állami turisztikai beruházások, valamint az egyéb kiemelt turisztikai jelentőségű állami ingatlanon történő fejlesztés megvalósítása során
-
-- a) az állami építési beruházások rendjéről szóló törvény szerinti építési beruházás esetében az állami beruházásokért felelős miniszter,
-- b) az a) pont hatálya alá nem tartozó beruházás, illetve fejlesztés esetében a vagyonkezelő – a vagyonkezelésében lévő ingatlan vonatkozásában –
-
-járhat el építtetőként.
-
-(2) Az (1) bekezdésben megjelölt beruházást az építtető az állam nevében és javára végzi.”
-
-(2) Hatályát veszti a Turizmus tv. 8. §-a.
-
-82. § Hatályát veszti a BEÜ Törvény.
+#### 82. §
