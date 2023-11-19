@@ -22,7 +22,9 @@ a menedékjogról a következő törvényt alkotja:
 
 (2) E törvény rendelkezéseit arra a külföldire kell alkalmazni, aki dublini eljárás hatálya alatt áll, elismerés iránti kérelmet nyújtott be, menedékjogot élvez, vagy akire nézve a menekültügyi nyilvántartás adatot tartalmaz.
 
-(3) Magyarországon e törvény hatálya alá tartozó külföldi egy jogcímen tartózkodhat. Amennyiben az e törvény hatálya alatt álló e törvényben meghatározott magyarországi tartózkodásra jogosító jogcíme mellett más jogcímen igényel magyarországi tartózkodásra jogosító engedélyt – ide nem értve a menedékjogi kérelem ismételt előterjesztését –, az ügyfelet írásban tájékoztatni kell, hogy az újonnan kért engedély megadásával egyidőben e törvény szerinti tartózkodásra jogosító jogcíme visszavonásra kerül.
+(3) Magyarországon az e törvény hatálya alá tartozó külföldi – ha jogszabály ettől eltérően nem rendelkezik – egy jogcímen tartózkodhat. Amennyiben az e törvény hatálya alatt álló külföldi e törvényben meghatározott magyarországi tartózkodásra jogosító jogcíme mellett más jogcímen igényel magyarországi tartózkodásra jogosító engedélyt – ide nem értve a menedékjogi kérelem ismételt előterjesztését –, az ügyfelet írásban tájékoztatni kell, hogy az újonnan kért engedély megadásával egyidőben e törvény szerinti tartózkodásra jogosító jogcíme visszavonásra kerül.
+
+(4) Az Európai Unió valamely tagállama által menekültként vagy oltalmazottként elismert külföldi e jogcíme mellett a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § r) pontja szerinti EU Kék Kártyát (a továbbiakban: EU Kék Kártya) kaphat. Ha a Magyarország által menekültként vagy oltalmazottként elismert külföldi EU Kék Kártyában részesül, a menekültügyi hatóság intézkedik a külföldi személyazonosító igazolványa visszavonása érdekében.
 
 ### Értelmező rendelkezések
 
@@ -2098,6 +2100,7 @@ az Alaptörvény XIV. cikk (5) bekezdése alapján sarkalatosnak minősül.
 - p) a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv;
 - q) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló 2013. június 26-i 2013/33/EU európai parlamenti és tanácsi irányelv;
 - r) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelvnek.
+- s) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv.
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
