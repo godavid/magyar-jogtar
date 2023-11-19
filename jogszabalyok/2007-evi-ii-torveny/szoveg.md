@@ -18,7 +18,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (6) A IX. Fejezetet a (3) bekezdésben meghatározott személyek beutazásával és tartózkodásával kapcsolatos eljárásokra is alkalmazni kell.
 
-(7) Magyarországon harmadik országbeli állampolgár egy jogcímen tartózkodhat. Amennyiben a tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgár meglévő jogcíme mellett más jogcímen kap tartózkodásra jogosító engedélyt – ide értve a menedékjogról szóló törvény szerinti jogcímeket is – a korábbi tartózkodási jogcímen kiadott tartózkodásra jogosító engedélyét az idegenrendészeti hatóság érvényteleníti.
+(7) Magyarországon harmadik országbeli állampolgár – a 2. § r) pontja szerinti EU Kék Kártya kivételével – egy jogcímen tartózkodhat. Amennyiben a tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgár meglévő jogcíme mellett más jogcímen kap tartózkodásra jogosító engedélyt – ideértve a menedékjogról szóló törvény szerinti jogcímeket is –, a korábbi tartózkodási jogcímen kiadott tartózkodásra jogosító engedélyét az idegenrendészeti hatóság érvényteleníti.
 
 2. § E törvény alkalmazásában
 
@@ -44,7 +44,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - m) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély;
 - n) dublini rendeletek: egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet, valamint egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1560/2003/EK rendelet módosításáról szóló, 2014. január 30-i, 118/2014/EU bizottsági végrehajtási rendelet;
 - o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- vagy foglalkoztatási formát magában foglaló, munkavégzésre irányuló jogviszony alapján történő, valamely munkáltató javára, vagy irányítása alatt végzett tevékenység;
-- p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
+- p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel vagy jogszabály szerinti, meghatározott idejű releváns magas szintű szakmai képzettséggel;
 - q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés;
 - r) EU Kék Kártya: olyan tartózkodási engedély, amely magas szintű képzettséggel rendelkező birtokosát valamely tagállam területén történő tartózkodásra és egyúttal magas szintű képzettséget igénylő, a 20/C. §-ban meghatározott feltételek szerinti munkavállalásra jogosítja;
 - s) különösen kizsákmányoló foglalkoztatási feltételek: olyan feltételek – a nemi vagy egyéb alapú megkülönböztetésből származó feltételeket is beleértve –, amelyek feltűnően aránytalanul eltérnek a legálisan foglalkoztatott munkavállalók foglalkoztatási feltételeitől, amely eltérés különösen a munkavállalók egészségét és biztonságát érinti, és sérti az emberi méltóságot;
@@ -53,6 +53,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - v) összevont engedély: olyan tartózkodási engedély, amely a harmadik országbeli állampolgárt Magyarország területén meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére és tartózkodásra jogosítja;
 - w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.
 - x) Fehér Kártya: olyan tartózkodási engedély, amelynek birtokosa Magyarországon kívüli országban igazolt foglalkoztatásra irányuló jogviszonyban áll, és a munkáját Magyarországról fejlett digitális technológiai megoldással végzi, vagy Magyarországon kívüli országban igazolt nyereséggel rendelkező vállalkozásban tulajdoni részesedéssel rendelkezik, és a munkáját vagy a vállalkozása irányítását Magyarországról fejlett digitális technológiai megoldással végzi.
+- y) magas szintű szakmai képzettség: olyan tudás, készségek és kompetenciák, amelyeket a felsőfokú végzettséggel és szakképzettséggel összehasonlítható olyan szakmai tapasztalat igazol, amely a munkaszerződésben vagy a kötelező érvényű állásajánlatban meghatározott szakma vagy ágazat terén releváns, és amelyet jogszabályban meghatározott időszak alatt szereztek.
 
 2/A. § E törvény alkalmazásában
 
@@ -71,9 +72,11 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - g) első tagállam: az Európai Unió azon tagállama, amely elsőként állít ki
   - ga) valamely vállalaton belül áthelyezett személy számára szóló engedélyt az adott harmadik országbeli állampolgár részére;
   - gb) engedélyt a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv alapján a harmadik országbeli állampolgárnak;
+  - gc) EU Kék Kártyát a harmadik országbeli állampolgár számára;
 - h) második tagállam: az első tagállamtól eltérő minden olyan tagállam, amelyben
   - ha) a vállalaton belül áthelyezett személy gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot;
   - hb) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv alapján a harmadik országbeli állampolgár gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot.
+  - hc) az EU Kék Kártya birtokosa gyakorolni kívánja vagy gyakorolja a 20/B. § szerinti mobilitáshoz való jogot.
 
 2/B. § E törvény alkalmazásában
 
@@ -91,7 +94,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 4. § E törvényt a diplomáciai vagy egyéb személyes mentességet élvező, illetve nemzetközi szerződés alapján beutazó harmadik országbeli állampolgárra akkor kell alkalmazni, ha nemzetközi szerződés másként nem rendelkezik.
 
-5. § (1) A magyar menekültügyi hatóság vagy bíróság, vagy az Európai Unió tagállama által menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárra kizárólag a IV., V., és X. Fejezet rendelkezéseit kell alkalmazni.
+5. § (1) A menekültügyi hatóság vagy bíróság, vagy az Európai Unió tagállama által menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárra kizárólag a III. Fejezet EU Kék Kártyára vonatkozó rendelkezéseit, valamint a IV., V., és X. Fejezet rendelkezéseit kell alkalmazni.
 
 (2) A magyar menekültügyi hatóság vagy bíróság által ideiglenes védelemben részesített harmadik országbeli állampolgárra a IV. Fejezet nemzeti letelepedési engedélyre vonatkozó, valamint az V. és X. Fejezet rendelkezéseit kell alkalmazni.
 
@@ -255,13 +258,21 @@ tartózkodás szabályai
 
 (1b) Az EU Kék Kártya meghosszabbítását meg kell tagadni, illetve a kiadott EU Kék Kártyát vissza kell vonni, ha a harmadik országbeli állampolgár
 
-- a) nem felel meg vagy az EU Kék Kártya kiadásakor nem felelt meg a 20/A. § (1) bekezdésében foglalt valamely feltételnek,
-- b) a munkakörhöz szükséges felsőfokú szakmai képesítéssel nem rendelkezik,
+- a) nem felel meg vagy az EU Kék Kártya kiadásakor nem felelt meg a 20/A. § (1) bekezdés a), c) és d) pontjában foglalt valamely feltételnek,
+- b) a munkakörhöz szükséges felsőfokú szakmai képesítéssel, vagy jogszabály szerinti, meghatározott idejű releváns magas szintű szakmai képzettséggel nem rendelkezik,
 - c) megélhetése Magyarország területén nem biztosított, kivéve, ha a harmadik országbeli állampolgár oly módon nem áll foglalkoztatásra irányuló jogviszonyban, hogy az e) vagy f) pontban foglalt feltételek nem valósulnak meg,
 - d) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette, illetve tartózkodásának célja az engedélyezettől eltér,
-- e) legalább egymást követő három hónapon keresztül nem áll foglalkoztatásra irányuló jogviszonyban,
-- f) foglalkoztatásra irányuló jogviszonya az EU Kék Kártya érvényességi ideje alatt legalább két alkalommal megszűnt, vagy
+- e) az EU Kék Kártya kiállítását követő két évben legalább egymást követő három hónapon keresztül, vagy az EU Kék Kártya kiállítását követő két év eltelte után legalább egymást követő hat hónapon keresztül nem áll foglalkoztatásra irányuló jogviszonyban,
+- f) foglalkoztatásra irányuló jogviszonya az EU Kék Kártya érvényességi ideje alatt legalább két alkalommal megszűnt,
 - g) az EU Kék Kártya kiadását követő két évben előzetes írásbeli engedély nélkül végzett a korábban engedélyezettektől eltérő munkát.
+- h) a 20/A. § (1) bekezdés b) pontjában foglalt feltételnek azért nem felel meg, mert
+  - ha) a munkáltató nem teljesítette a jogszabály szerinti társadalombiztosításra, adózásra, munkáltatói jogokra, illetve munkakörülményekre vonatkozó jogi kötelezettségeit, vagy
+  - hb) már nem teljesülnek az érintett foglalkozási ágazatban a magas szintű képzettséget igénylő munkavállalásra vonatkozó feltételek,
+
+és az idegenrendészeti hatóság által jogszabály szerint biztosított időtartam alatt új munkaviszonyt nem jelent be,
+
+- i) nem jelentette be a 20/A. § (1) bekezdésében meghatározott feltételekben bekövetkezett változást vagy a 29/A. § (9) bekezdés a) pontjában foglaltakat, kivéve, ha igazolja, hogy a bejelentés rajta kívül álló okból nem érkezett meg az illetékes hatósághoz, vagy
+- j) nem tesz eleget a 20/B. §-ban meghatározott feltételeknek.
 
 (1c) Szezonális munkavállalás céljából a tartózkodási engedély kiadását meg kell tagadni az (1) bekezdés a)–c) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár
 
@@ -391,32 +402,46 @@ rendelkezik.
 (2) Nem kaphat EU Kék Kártyát:
 
 - a) az a harmadik országbeli állampolgár, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
-- b) akit Magyarország menekültként ismert el, vagy ideiglenes vagy kiegészítő védelemben részesített,
+- b) akit Magyarország ideiglenes védelemben részesített,
 - c) a befogadott,
 - d) az a harmadik országbeli állampolgár, aki kutatás céljából kiállított tartózkodási engedéllyel rendelkezik,
-- e) a külön törvényben meghatározottak szerint szabad mozgás és tartózkodás jogával rendelkező személy,
+- e)
 - f) az a harmadik országbeli állampolgár, aki az Európai Unió más tagállama által kiadott huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkezik,
-- g) az a harmadik országbeli állampolgár, aki a kereskedelem és befektetések terén tevékenykedő természetes személyek egyes kategóriáinak beutazását és tartózkodását megkönnyítő nemzetközi megállapodásban foglalt kötelezettségvállalás alapján utazott be Magyarország területére,
-- h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalás céljából kiadott tartózkodási engedéllyel tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
+- g) az a harmadik országbeli állampolgár, aki a kereskedelem és befektetések terén tevékenykedő természetes személyek egyes kategóriáinak beutazását és tartózkodását megkönnyítő nemzetközi megállapodásban foglalt kötelezettségvállalás alapján utazott be Magyarország területére, kivéve azokat a harmadik országbeli állampolgárokat, akiknek beutazását egy tagállam területére vállalaton belüli áthelyezés keretében engedélyezték,
+- h)
 - i) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
 
 (2a) Az EU kék kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
 
-(3) Az EU Kék Kártyát legalább egy évre kell kiállítani. Amennyiben a foglalkoztatásra irányuló szerződés ennél rövidebb időtartamra szól, akkor az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
+(2b) Ha az EU Kék Kártya visszavonására vagy meghosszabbításának megtagadására a 18. § (1b) bekezdés h) pont ha) vagy hb) alpontja alapján kerül sor, az idegenrendészeti hatóság köteles értesíteni az EU Kék Kártya birtokosát, valamint észszerű határidőt kell biztosítani az érintett harmadik országbeli állampolgár részére új munkahely keresésére.
+
+(2c) Ha az EU Kék Kártya birtokában történő foglalkoztatás nem haladja meg a kettő évet, a (2b) bekezdés szerinti határidő legalább három hónap, kettő éven túli foglalkoztatás esetén legalább hat hónap.
+
+(3) Az EU Kék Kártyát legalább kettő évre kell kiállítani. Amennyiben a foglalkoztatásra irányuló szerződés ennél rövidebb időtartamra szól, akkor az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
 
 (4) Az EU Kék Kártya érvényességi ideje legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható.
 
-20/B. § Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU kék kártyát kap, ha
+(5) Az idegenrendészeti hatóság az EU Kék Kártya kiadásáról, visszavonásáról, illetve meghosszabbításának megtagadásáról szóló döntésről értesíti az Európai Unió azon tagállamát, amely által a harmadik országbeli állampolgár nemzetközi védelemben részesül, egyúttal tájékoztatást kér a védelem fennállásáról.
 
-- a) az EU Kék Kártyát kiállító tagállamban legalább tizennyolc hónapig jogszerűen tartózkodott és
-- b) rendelkezik a 20/A. § (1) bekezdés a)–d) pontjában meghatározott feltételekkel.
+(6) Az Európai Unió valamely tagállamától Magyarországnak címzett (5) bekezdés szerinti tájékoztatáskérést a menekültügyi hatóság a tájékoztatáskérés iránti megkeresés kézhezvételét követő egy hónapon belül megválaszolja.
 
-20/C. § Az EU Kék Kártya a kiadásától számított két éves időszak alatt kizárólag
+20/B. § (1) Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU Kék Kártyát kap, ha
 
-- a) a kiadását megalapozó munkaviszonyban, vagy
-- b) hazai foglalkoztatáspolitikai érdek mérlegelése alapján engedélyezett munkaviszonyban
+- a) az EU Kék Kártyát kiállító tagállamban legalább tizenkettő hónapig jogszerűen tartózkodott vagy második tagállamban hat hónapot tartózkodott, és
+- b) rendelkezik a 20/A. § (1) bekezdésében meghatározott feltételekkel.
 
-való, magas szintű képzettséget igénylő munkavállalásra jogosít.
+(2) Az idegenrendészeti hatóság az (1) bekezdés szerinti EU Kék Kártya iránti kérelem tárgyában hozott döntésről – a 13. § (1) bekezdés h) pontja vagy a 18. § (1b) bekezdés d) pontja alapján történő elutasítás esetén a döntés okának megjelölésével – legfeljebb harminc napon belül értesíti az első tagállamot.
+
+(3) Az idegenrendészeti hatóság a 18. § (1b) bekezdése szerinti EU Kék Kártyát visszavonó döntés előtt – ha a harmadik országbeli állampolgár bejelentette második tagállamba költözését – értesítést kér a második tagállamtól az EU Kék Kártya iránti kérelem tárgyában hozott döntésről. A második tagállam döntése előtt az EU Kék Kártya visszavonásának nincs helye.
+
+20/C. § (1) Az EU Kék Kártya a kiadásától számított egyéves időszak alatt kizárólag
+
+- a) a kiadását megalapozó munkaviszonyban való, vagy
+- b) hazai foglalkoztatáspolitikai érdek mérlegelése alapján engedélyezett munkaviszonyban való,
+
+magas szintű képzettséget igénylő munkavállalásra jogosít.
+
+(2) Az EU Kék Kártya birtokosa az (1) bekezdés b) pontja szerinti megváltozott munkaviszonyt a jogszabályban meghatározott állásfoglalás kiadásáig, de legfeljebb 30 napig nem kezdheti meg.
 
 20/D. § (1) Szezonális munkavállalás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, akinek tartózkodási célja, hogy külön jogszabályban meghatározott szezonális munkát végezzen.
 
@@ -1093,7 +1118,7 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) po
 - a) a kérelem benyújtását közvetlenül megelőzően legalább öt éven át jogszerűen és megszakítás nélkül Magyarország területén tartózkodott, vagy
 - b) az EU kék kártyával rendelkezik, és
   - ba) a kérelem benyújtását közvetlenül megelőzően legalább két évig jogszerűen és megszakítás nélkül Magyarország területén tartózkodott, és
-  - bb) legalább öt évig jogszerűen és megszakítás nélkül az Európai Unió tagállamainak területén tartózkodott.
+  - bb) legalább öt évig EU Kék Kártyával, illetve magas szintű képzettséget igénylő munkavállalás céljából, kutatási vagy tanulmányi célú tartózkodási engedéllyel jogszerűen és megszakítás nélkül az Európai Unió tagállamainak területén tartózkodott.
 
 (2) Nem kaphat EK letelepedési engedélyt:
 
@@ -3402,7 +3427,7 @@ az Alaptörvény XIV. cikk (1) bekezdése alapján sarkalatosnak minősül.
 - n) a Tanács 1997. június 26-i állásfoglalása a harmadik állambeli kísérő nélküli kiskorúakról;
 - o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről;
 - p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv;
-- q) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről
+- q) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv;
 - r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról;
 - s) a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és a tanácsi irányelv [5. §, 32. § (5) bekezdés, 34. § (9) és (10) bekezdés, 38. § (2) bekezdés d) és f) és g) pont, 38. § (5a) bekezdés, 39. § (1a) bekezdés, 45. § (2a)–(2e) bekezdés, 107. § (4) bekezdés],
 - t) a menedékkérők befogadása minimumszabályainak megállapításáról szóló, 2003. január 27-i 2003/9/EK tanácsi irányelv;

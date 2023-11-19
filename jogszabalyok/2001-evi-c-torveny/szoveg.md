@@ -90,7 +90,7 @@ közös eljárási szabályai
 
 (2) Bizonyítványa vagy oklevele elismertetésére vagy honosíttatására az jogosult, aki kérelme benyújtásakor állampolgárságát, személyes adatait az állampolgárság és a személyi adat igazolására szolgáló hatósági igazolvánnyal igazolja.
 
-(3) A tagállam állampolgárának nem minősülő, valamint az azzal azonos megítélés alá nem eső, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést – ha a (2) bekezdésben foglaltak teljesítésén túlmenően keresőtevékenység folytatása vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
+(3) A 28. § (1) bekezdése szerinti tagállam állampolgárának nem minősülő, valamint a 28. § (2) bekezdése hatálya alá nem tartozó, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést –, ha a (2) bekezdésben foglaltak teljesítésén túlmenően keresőtevékenység folytatása vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
 
 (4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha keresőtevékenység folytatása céljából a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló kormányrendeletben meghatározott kiemelt foglalkoztató által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a keresőtevékenység folytatása céljából kiadott tartózkodási engedélyt bemutatja.
 
@@ -293,7 +293,7 @@ közös eljárási szabályai
 
 21. § (1) E törvény rendelkezéseit az ebben a részben foglalt eltérésekkel kell alkalmazni, ha a kérelmező
 
-- a) magyar állampolgár, valamely tagállam [28. § (1) bekezdés] állampolgára vagy azzal azonos megítélés alá eső személy [28. § (2) bekezdés],
+- a) magyar állampolgár, valamely tagállam állampolgára vagy azzal azonos megítélés alá eső személy,
 - b) a képzés sikeres elvégzését tanúsító okiratát valamely tagállamban szerezte, és
 - c) Magyarországon szabályozott szakmát szándékozik gyakorolni, tekintet nélkül arra, hogy a szakmát önálló vállalkozóként vagy foglalkoztatottként kívánja-e gyakorolni, valamint hogy a szakma, illetve a kérelmező szabadfoglalkozású-e.
 
@@ -370,7 +370,7 @@ felhasználása
 - a) a valamely tagállam állampolgárának, valamint a magyar állampolgárnak külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező családtagja,
 - b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
 - c) a bevándorolt, illetve letelepedett jogállású személy, valamint
-- d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
+- d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából Magyarország vagy valamely tagállam által kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
 - e) az összevont engedéllyel rendelkező harmadik országbeli állampolgár.
 
 (3) Szabályozott szakmának minősül az olyan szakmai tevékenység vagy szakmai tevékenységek csoportja, amelynek a megkezdését, folytatását vagy meghatározott módon történő folytatását jogszabály, közvetlenül vagy közvetve, meghatározott szakmai képesítés birtoklásához köti, továbbá, amelyet külön jogszabály szabályozott szakmának minősít. A szakma meghatározott módon történő gyakorlásának minősül különösen az, ha jogszabály meghatározott szakmai cím használatát meghatározott képesítés birtoklásához köti.
@@ -1053,7 +1053,7 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) az Európai Parlament és a Tanács 2005/36/EK irányelve a szakmai képesítések elismeréséről, 1–20. cikk és 50–55. cikk, 57–64. cikk,
 - e) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek,
-- f) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés d) pont,
+- f) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv,
 - g) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés d) pont,
 - h) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 28. cikk,
 - i) a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2013. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv,
