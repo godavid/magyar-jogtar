@@ -1536,7 +1536,7 @@ azzal, hogy a szanálási feladatkörében eljáró MNB figyelembe veszi az ért
 - a) az (1) bekezdés a) pontja és a (2) bekezdés a) pontja szerinti követelmény nem elegendő a 67. §-ban foglalt feltételek teljesítéséhez, és
 - b) nem haladja meg a kötelezés eredményeként a 67. §-ban foglalt követelményeket.
 
-(4) Ha egy globálisan rendszerszinten jelentős intézményhez egynél több szanálás alá vonható globálisan rendszerszinten jelentős intézmény tartozik, akkor a 68/D. § (4) bekezdésének alkalmazásában a (3) bekezdés szerinti összeget a szanálási feladatkörében eljáró MNB meghatározza minden szanálás alá vonható szervezetre és az EU-szintű anyavállalatra, mintha az lenne a globálisan rendszerszinten jelentős intézmény egyetlen szanálás alá vonható szervezete.
+(4) Ha egy globálisan rendszerszinten jelentős intézményhez egynél több olyan globálisan rendszerszinten jelentős intézmény tartozik, amely szanálás alá vonható szervezetnek minősül vagy olyan harmadik országbeli szervezet tartozik, amely szanálás alá vonható szervezetnek minősülne, ha EGT-államban telepedne le, akkor a 68/D. § (4) bekezdésének alkalmazásában a (3) bekezdés szerinti összeget a szanálási feladatkörében eljáró MNB meghatározza minden szanálás alá vonható szervezetre, vagy ezen harmadik országbeli szervezetre és az EU-szintű anyavállalatra, mintha az EU-szintű anyavállalat lenne a globálisan rendszerszinten jelentős intézmény egyetlen szanálás alá vonható szervezete.
 
 (5) A szanálási feladatkörében eljáró MNB az e § szerinti határozatának indokolásában kitér a (3) bekezdésben foglaltak teljes körű értékelésére és a határozatát rendszeresen felülvizsgálja a Hpt. 186. § szerinti követelményhez való igazítás érdekében.
 
@@ -1635,10 +1635,10 @@ szanálási hatósága az érintett szervezet rendelkezésére bocsátja azt.
 
 (3) Ha a szanálási stratégiával összeegyeztethető és a szanálás alá vonható szervezet közvetve vagy közvetlenül nem vásárolt elegendő, a 68/B. § szerinti követelményeknek megfelelő instrumentumot, akkor az e § szerinti többoldalú eljárás keretében hozott döntés rendelkezhet úgy, hogy a 67. §-ban meghatározott követelményeket a leányvállalat a 68/B. §-sal összhangban részben olyan instrumentumokkal teljesíti, amelyeket a szanálás alá vonható csoporthoz nem tartozó szervezetek számára bocsátottak ki és vásárolták meg.
 
-(4) Ha ugyanahhoz a globálisan rendszerszinten jelentős intézményhez több globálisan rendszerszinten jelentős intézménynek minősülő szanálás alá vonható szervezet tartozik, akkor a szanálási feladatkörében eljáró MNB tárgyalásokat folytat a többi érintett hatósággal és a globálisan rendszerszinten jelentős intézmény szanálási stratégiájával összhangban megállapodik az érintett hatóságokkal az 575/2013/EU rendelet 72e. cikkének alkalmazásáról és minden olyan korrekcióról, amely az egyedi szanálás alá vonható szervezet esetében
+(4) Ha ugyanahhoz a globálisan rendszerszinten jelentős intézményhez több olyan globálisan rendszerszinten jelentős intézmény tartozik, amely szanálás alá vonható szervezetnek minősül, vagy olyan harmadik országbeli szervezet tartozik, amely szanálás alá vonható szervezetnek minősülne, ha EGT-államban telepedne le, akkor a szanálási feladatkörében eljáró MNB tárgyalásokat folytat a többi érintett hatósággal és a globálisan rendszerszinten jelentős intézmény szanálási stratégiájával összhangban megállapodik az érintett hatóságokkal az 575/2013/EU rendelet 72e. cikkének alkalmazásáról és minden olyan korrekcióról, amely
 
-- a) a 68. § (4) bekezdés alapján minden egyes szanálás alá vont szervezetre megállapított és az 575/2013/EU rendelet 12. cikkében meghatározott értékek összege, valamint
-- b) a 68. § (4) bekezdés alapján az EU-szintű anyavállalatra megállapított és az 575/2013/EU rendelet 12. cikkében meghatározott értékek összege
+- a) a 68. § (4) bekezdés alapján minden egyes szanálás alá vonható szervezetre, vagy olyan harmadik országbeli, EGT-államban történő letelepedése esetén szanálás alá vonható szervezetnek minősülő szervezetre megállapított és az 575/2013/EU rendelet 12a. cikk a) pontjában meghatározott értékek összege, valamint
+- b) a 68. § (4) bekezdés alapján az EU-szintű anyavállalatra megállapított és az 575/2013/EU rendelet 12a. cikk b) pontjában meghatározott értékek összege
 
 közötti különbség minimalizálásához vagy kiküszöböléséhez szükséges azzal, hogy az a) pont szerinti összeg nem lehet kisebb, mint a b) pont szerinti összeg.
 
@@ -3138,6 +3138,7 @@ való megfelelést szolgálja.
 
 - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek, és
 - b) az 575/2013/EU rendeletnek a tőkeáttételi mutató, a nettó stabil forrásellátottsági ráta, a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó követelmények, a partnerkockázat, a piaci kockázat, a központi szerződő felekkel szembeni kitettségek, a kollektív befektetési formákkal szembeni kitettségek, a nagykockázat-vállalások és az adatszolgáltatási és nyilvánosságra hozatali követelmények tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/876 európai parlamenti és tanácsi rendeletnek
+- c) az 575/2013/EU rendeletnek és a 2014/59/EU irányelvnek a több pontból kiinduló szanálási stratégiával rendelkező globálisan rendszerszinten jelentős intézmények prudenciális kezelése, valamint a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelménynek való megfelelés szempontjából figyelembe vehető instrumentumok közvetett jegyzésére vonatkozó módszerek tekintetében történő módosításáról szóló 2022. október 19-i (EU) 2022/2036 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 

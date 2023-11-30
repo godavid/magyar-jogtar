@@ -2,7 +2,9 @@
 
 a Magyar Fejlesztési Bank Részvénytársaságról
 
-Az Országgyűlésa Magyar Fejlesztési Bank Részvénytársaságról (a továbbiakban: MFB Zrt.) a nemzetgazdaság előtt álló és állami részvételt is igénylő fejlesztési, beruházási feladatokat, valamint az Európai Unióhoz történő csatlakozással kapcsolatos különleges fejlesztési igényeket és forráskezelési feladatokat, továbbá az egyes állami és nemzetközi források hatékony felhasználásának követelményét szem előtt tartva
+Az Országgyűlés
+
+a Magyar Fejlesztési Bank Részvénytársaságról (a továbbiakban: MFB Zrt.) a nemzetgazdaság előtt álló és állami részvételt is igénylő fejlesztési, beruházási feladatokat, valamint az Európai Unióhoz történő csatlakozással kapcsolatos különleges fejlesztési igényeket és forráskezelési feladatokat, továbbá az egyes állami és nemzetközi források hatékony felhasználásának követelményét szem előtt tartva
 
 a következő törvényt alkotja:
 
@@ -85,7 +87,7 @@ a következő törvényt alkotja:
 
 (7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
 
-(8)
+(8) A hallgatói hitelrendszerről szóló jogszabályban meghatározott Diákhitel szervezet számára nyújtott szolgáltatások teljesítése érdekében a Diákhitel szervezet a személyes adatokat továbbítja az MFB Zrt.-nek. Az MFB Zrt. a személyes adatokat kizárólag e szolgáltatások nyújtása céljából jogosult kezelni, mindaddig, amíg a hallgatói hitelszerződés alapján a Diákhitel szervezetet vagy a hallgatót jogok illethetik meg, illetve kötelezettségek terhelhetik.
 
 (9) Az MFB Zrt. saját vagyonát, illetve annak nyilvántartását el kell különíteni annak a vagyonnak a nyilvántartásától, amely felett az állam nevében az MFB Zrt. gyakorolja a tulajdonosi jogokat (rábízott vagyon).
 
@@ -117,7 +119,9 @@ a következő törvényt alkotja:
 
 (6) Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1) pontja szerint átlátható szervezetnek minősül, kivéve a természetes személyeket (ideértve a mezőgazdasági őstermelőket és az őstermelők családi gazdaságának tagját is) és a társasházakat.
 
-### III. Fejezet — AZ MFB ZRT. KÖLTSÉGVETÉSIÉS KORMÁNYZATI KAPCSOLATAI
+### III. Fejezet — AZ MFB ZRT. KÖLTSÉGVETÉSI
+
+ÉS KORMÁNYZATI KAPCSOLATAI
 
 ### Költségvetési kapcsolatok
 
@@ -158,6 +162,8 @@ a következő törvényt alkotja:
 
 (8) Az MFB Zrt. javára vagy érdekében fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség – az államháztartásért felelős miniszter külön hozzájárulása nélkül – az alapjogviszony változásához igazodva áll fenn, feltéve, ha a változás nem érinti a fennálló kezességvállalással biztosított alapjogviszonynak az állami kezességvállalásra vonatkozó jogszabályokban vagy kormányhatározatban rögzített feltételeit.
 
+(9) Az MFB Zrt., az NTH Nemzeti Tőkeholding Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság, a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság, a Diákhitel Központ Zártkörűen Működő Részvénytársaság, valamint ezen gazdasági társaságok közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságok az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. §-a alkalmazásában együttesen kapcsolt vállalkozásnak minősülnek.
+
 ### Az MFB Zrt. kormányzati kapcsolatai
 
 5/A. § A Kormánynak biztosítania kell az MFB Zrt. hosszú távú és stabil működőképességét.
@@ -176,7 +182,9 @@ a következő törvényt alkotja:
 
 (2)
 
-### Az MFB Zrt. prudens működésére vonatkozószabályok
+### Az MFB Zrt. prudens működésére vonatkozó
+
+szabályok
 
 8. § (1) Az 575/2013/EU rendelet 395. cikk (1) bekezdésében foglalt rendelkezéstől eltérően az MFB Zrt. által
 
@@ -356,9 +364,9 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 ### Titoktartás
 
-18/A. §
+#### 18/A. §
 
-18/B. §
+#### 18/B. §
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -370,7 +378,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 20. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza azon gazdasági társaságokat, amelyekben az MFB Zrt. a 8. § (3) bekezdés c) pontja szerint tulajdont szerezhet.
 
-20/A. §
+#### 20/A. §
 
 21. § E törvény alkalmazásában
 
