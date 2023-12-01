@@ -53,7 +53,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 4. § (1) E törvény alkalmazásában:
 
-- 1. adómegállapítási jogsegély: az 5. § (1) bekezdésben meghatározott adókkal kapcsolatos tagállami jogszabályok végrehajtása szempontjából előreláthatólag releváns információk cseréje céljából folytatott közigazgatási együttműködés az Európai Unió tagállamainak hatáskörrel rendelkező hatóságai között;
+- 1. adómegállapítási jogsegély: az 5. § (1) bekezdésben meghatározott adókkal kapcsolatos tagállami jogszabályok végrehajtása szempontjából előreláthatólag releváns információk cseréje céljából folytatott közigazgatási együttműködés az Európai Unió tagállamainak, vagy más államoknak hatáskörrel rendelkező hatóságai között;
 - 2. behajtási jogsegély: az információkérés, a kézbesítés, a behajtás és a biztosítási intézkedés iránti megkereséssel kapcsolatos, 22–41. §-ban szabályozott eljárás;
 - 3. nemzetközi adóegyezmény: Magyarország által a kettős adóztatás elkerülése tárgyában más állammal kötött, továbbá két- vagy többoldalú adóügyi információcserét, valamint adóügyi együttműködést szabályozó, jogszabályban kihirdetett nemzetközi szerződés;
 - 4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény;
@@ -173,7 +173,7 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
 
 - 1. adóegyezmények szerinti kölcsönös egyeztető eljárás: a jövedelem és adott esetben a vagyon kettős adóztatásának elkerülésére vonatkozó nemzetközi egyezmények (a továbbiakban: adóegyezmények) értelmezéséből és alkalmazásából eredő vitás kérdés rendezésére irányuló eljárás;
 - 2. vitás kérdés: az adóegyezmények értelmezéséből és alkalmazásából eredő vitákhoz vezető ügy;
-- 3. érintett személy: a vitás kérdésben alkalmazandó adóegyezmény alapján magyar belföldi illetőségű személy – a természetes személyt is ideértve –, akinek vagy amelynek adóztatására a vitás kérdés közvetlen hatással van;
+- 3. érintett személy: a vitás kérdésben alkalmazandó adóegyezményben részes valamely államban belföldi adóügyi illetőségű személy – a természetes személyt is ideértve –, akinek vagy amelynek adóztatására a vitás kérdés közvetlen hatással van;
 - 4. érintett állam: vitás kérdésben érintett állam.
 
 (5) Az V/A. fejezet alkalmazásában:
@@ -357,7 +357,7 @@ kapcsolatos eljárásban.
 
 (2) A megkeresett hatóság az (1) bekezdésben meghatározott megkeresés beérkezésétől számított 60 napon belül visszajelzést küld a megkeresett hatóságnak a megkeresés teljesítéséről vagy a megkeresést indokolással elutasítja.
 
-(3) A magyar megkeresett hatóság magyarországi eljárása során a megkereső hatóság tisztviselője természetes személyt nem nyilatkoztathat, és nyilvántartást nem vizsgálhat meg. A megkereső hatóság tisztviselője e cselekmények elvégzésére tett indítványait a megkeresett magyar hatóság a közigazgatási vizsgálat eredményes elvégzése érdekében figyelembe veszi és azokat indokolt esetben saját intézkedésként végrehajtja.
+(3) A megkereső hatóság tisztviselője a magyar megkeresett hatóság magyarországi eljárása során, a közigazgatási vizsgálat eredményes elvégzése érdekében, indokolt esetben jogosult természetes személyt nyilatkozattételre felhívni és nyilvántartást megvizsgálni.
 
 (4) A magyar megkeresett hatóság az olyan okiratokról, amelyekhez a magyarországi közigazgatási vizsgálat során a magyar megkeresett hatóság tisztviselői hozzáférhetnek, a megkereső hatóság tisztviselője részére kérelemre másolatot ad.
 
@@ -454,7 +454,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 18. § (1) Ha a magyar megkereső hatóság az adómegállapítási jogsegély teljesítésével kapcsolatban más tagállam hatáskörrel rendelkező hatóságát keresi meg, e § és a 19. § rendelkezéseit a 7–17. §-okban foglaltak figyelembevételével kell alkalmazni.
 
-(2) A magyar megkereső hatóság a megkeresésre történő információcsere és a spontán információcsere esetén a megkeresett hatóság kérésére késedelem nélkül, de legkésőbb a szerzett információ felhasználása eredményének ismertté válásától számított 3 hónapon belül visszajelzést küld a megkeresett hatóság részére. Ha a szerzett információ felhasználásának eredménye adóigazgatási eljárásban hozott döntésként jelentkezik, a magyar megkereső hatóság a visszajelzési kötelezettséget a döntés jogerőre emelkedése előtt is teljesítheti. Utóbbi esetben a visszajelzésben utalni kell arra, hogy a döntés még nem emelkedett jogerőre.
+(2) A magyar megkereső hatóság a megkeresésre történő információcsere és a spontán információcsere esetén a megkeresett hatóság kérésére késedelem nélkül, de legkésőbb a szerzett információ felhasználása eredményének ismertté válásától számított 3 hónapon belül visszajelzést küld a megkeresett hatóság részére. Ha a szerzett információ felhasználásának eredménye adóigazgatási eljárásban hozott döntésként jelentkezik, a magyar megkereső hatóság a visszajelzési kötelezettséget a döntés véglegessé válása előtt is teljesítheti. Utóbbi esetben a visszajelzésben utalni kell arra, hogy a döntés még nem vált véglegessé.
 
 19. § (1) A magyar megkereső hatóság az 5. § (1) bekezdés szerinti információt a (2) bekezdés szerinti esetekben spontán információcsere keretében legkésőbb az információ beérkezésétől, illetve rendelkezésre állásától számított 1 hónapon belül közli az Európai Unió tagállamai hatáskörrel rendelkező hatóságaival.
 
@@ -551,7 +551,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 ### II/A. Fejezet — A PLATFORMÜZEMELTETŐKET ÉRINTŐ ADATSZOLGÁLTATÁS, ÁTVILÁGÍTÁS ÉS AUTOMATIKUS INFORMÁCIÓCSERE EGYES SZABÁLYAIRÓL
 
-21/A. § (1) Az 5. melléklet I/A/4. pontjában meghatározott, Magyarországon adóügyi illetőséggel rendelkező, továbbá I/A/4. pont a) alpontjában szereplő feltételek egyikének megfelelő, Magyarországot választó, valamint az 5. melléklet I/A/4. pont b) alpontjában meghatározott, Magyarországot választó Adatszolgáltatásra kötelezett platformüzemeltető – e minőségét az annak keletkezését követő 15 napon belül a (6) bekezdésben meghatározott adattartalommal bejelenti az állami adó- és vámhatóságnak.
+21/A. § (1) Az 5. melléklet I/A/4. pont a) alpontjában meghatározott feltételek egyikének megfelelő, valamint az 5. melléklet I/A/4. pont b) alpontjában meghatározott, Magyarországot választó Adatszolgáltatásra kötelezett platformüzemeltető e minőségét az annak keletkezését követő 15 napon belül a (6) bekezdésben meghatározott adattartalommal bejelenti az állami adó- és vámhatóságnak.
 
 (2) Az 5. melléklet I/A/4. pont a) alpontjában szereplő feltételek egyikének megfelelő Adatszolgáltatásra kötelezett platformüzemeltető az 5. melléklet III. pontjában meghatározott adatszolgáltatási kötelezettségét választása szerint Magyarországon teljesíti.
 
@@ -579,14 +579,14 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (2) Ha az Adatszolgáltatásra kötelezett platformüzemeltetőnek az (1) bekezdés alapján nem keletkezik adatszolgáltatási kötelezettsége, erről a tényről az azonosító adatainak feltüntetésével az (1) bekezdésben foglaltaknak megfelelő határidőben bejelentést tesz az állami adó- és vámhatósághoz.
 
-(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió tagállamának hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat.
+(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió azon tagállamának hatáskörrel rendelkező hatóságával, amelyben a Jelentendő értékesítő az 5. melléklet II/D. pontja szerinti illetőséggel rendelkezik, valamint – ingatlan-bérbeadási szolgáltatás nyújtása esetén – az ingatlan helye szerinti tagállam hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat.
 
 (4) A (3) bekezdés szerinti információk a következők:
 
 - a) az Adatszolgáltatásra kötelezett platformüzemeltető neve, bejegyzett székhelyének címe, Adóazonosító száma, egyedi azonosító száma, valamint a Platform(ok) neve(i), amely(ek)re vonatkozóan az Adatszolgáltatásra kötelezett platformüzemeltető adatot szolgáltat;
 - b) a magánszemély Jelentendő értékesítő családi neve és utóneve, valamint a Szervezetnek minősülő Jelentendő értékesítő hivatalos elnevezése;
 - c) a magánszemély vagy a Szervezet Értékesítő Elsődleges címe;
-- d) a Jelentendő értékesítő tagállamonként kiadott bármely Adóazonosító száma, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;
+- d) a Jelentendő értékesítő tagállamonként kiadott bármely Adóazonosító száma az adószámot kiadó tagállam megnevezésével, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;
 - e) a Szervezetnek minősülő Jelentendő értékesítő cégnyilvántartási száma;
 - f) a Jelentendő értékesítő HÉA azonosító száma (ha ilyennel rendelkezik);
 - g) magánszemélynek minősülő Jelentendő értékesítő esetében a születési dátum;
@@ -606,7 +606,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 21/C. § Az Adatszolgáltatásra kötelezett platformüzemeltető az átvilágítással és adatszolgáltatási kötelezettséggel összefüggő valamennyi intézkedéséről és ezek alapjául szolgáló információról nyilvántartást vezet és az ezzel kapcsolatos dokumentációt annak nyilvántartási módjától függetlenül az adatszolgáltatási kötelezettség 21/B. § (1) bekezdésében meghatározott határidejétől számított 10 évig megőrzi.
 
-21/D. § (1) Az Adatszolgáltatásra kötelezett platformüzemeltető a 21/A. § (1), (3), (6) bekezdése, valamint a 21/B. § (1)–(2) bekezdése szerinti bejelentési, változás-bejelentési és adatszolgáltatási kötelezettségét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített elektronikus űrlapon teljesíti az állami adó- és vámhatósághoz. Az Adatszolgáltatásra nem kötelezett platformüzemeltető a 21/A. § (8) bekezdése szerinti kérelmét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített elektronikus űrlapon nyújtja be az állami adó- és vámhatósághoz.
+21/D. § (1) Az Adatszolgáltatásra kötelezett platformüzemeltető a 21/A. § (1), (3), (6) bekezdése és a 21/B. § (2) bekezdése szerinti bejelentési, változásbejelentési kötelezettségét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített meghatározott formátumban, a 21/B. § (1) bekezdése szerinti adatszolgáltatási kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti az állami adó- és vámhatósághoz. Az Adatszolgáltatásra nem kötelezett platformüzemeltető a 21/A. § (8) bekezdése szerinti kérelmét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített elektronikus űrlapon nyújtja be az állami adó- és vámhatósághoz.
 
 (2) Az állami adó- és vámhatóság a 21/B. §-ban meghatározott, automatikus információcsere keretében az Európai Unió tagállamába továbbított információt egységes számítógépesített formátum használatával továbbítja.
 
@@ -885,6 +885,8 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 41/B. § (1) Az európai uniós kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).
 
+(1a) A magyar illetékes hatóság döntése ellen nincs helye fellebbezésnek.
+
 (2) Az érintett személy – az (5) bekezdésben meghatározott érintett személyeket kivéve – az illetékes hatósághoz benyújtott, vitás kérdés rendezésére irányuló kérelem (a továbbiakban: panasz) alapján kérelmezheti annak rendezését, feltéve, hogy a panasz minden egyes érintett tagállam illetékes hatóságához benyújtásra került.
 
 (3) A panaszt a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló elsőfokú adóhatósági határozat közlésétől számított három éven belül kell benyújtani függetlenül attól, hogy az érintett személy igénybe veszi-e az érintett tagállamok bármelyikének nemzeti joga értelmében rendelkezésére álló jogorvoslati lehetőségeket. Az érintett személynek az illetékes hatósághoz egyidejűleg és ugyanazon információk megadásával kell benyújtania a panaszt, amely információkat a többi érintett tagállam számára is megadta. A panaszban fel kell tüntetni a többi érintett tagállam megjelölését. A magyar illetékes hatósághoz a panaszt magyar és angol nyelven kell benyújtani.
@@ -892,6 +894,8 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 (4) A magyar illetékes hatóság a panasz kézhezvételét az érintett személynek visszaigazolja annak beérkezésétől számított két hónapon belül. A magyar illetékes hatóság a kézhezvételtől számított két hónapon belül a többi érintett tagállam illetékes hatóságát is tájékoztatja a panasz beérkezéséről. A magyar illetékes hatóság ezzel egy időben tájékoztatja a többi érintett tagállam illetékes hatóságát arról is, hogy a vonatkozó eljárásokban folytatott kommunikáció során mely nyelvet vagy nyelveket szándékozik használni.
 
 (5) A magyar belföldi illetőségű természetes személy vagy kis- és középvállalkozás érintett személy panaszát csak a magyar illetékes hatósághoz nyújtja be. A magyar illetékes hatóság a panaszt annak beérkezésétől számított 2 hónapon belül egyidejűleg továbbítja a többi érintett tagállam illetékes hatóságának. A panasz továbbításának időpontjával úgy kell tekinteni, hogy az összes érintett tagállam megkapta azt.
+
+(6) A magyar illetékes hatóság a külföldi adóügyi illetőségű természetes személy vagy kis- és középvállalkozás érintett személy külföldi illetékes hatóság által továbbított panasza alapján is megindítja az európai uniós nemzetközi vitarendezési eljárást. A külföldi illetékes hatóság megkeresésére induló eljárásban a magyar illetékes hatóság a megkeresés kézhezvételét a külföldi illetékes hatóságnak igazolja vissza annak kézhezvételétől számított két hónapon belül.
 
 41/C. § (1) A magyar illetékes hatóság a panaszt csak akkor fogadja el, ha a panaszt tevő érintett személy a magyar illetékes hatóság és a többi érintett tagállam illetékes hatósága számára is megadja az alábbi információkat:
 
@@ -913,7 +917,7 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 (3) Az érintett személy a magyar illetékes hatóság részére a panasz megküldésével egyidejűleg nyilatkozik arról, hogy panasza valamennyi érintett tagállam részére benyújtásra került. Amennyiben az érintett személy természetes személy vagy kis-és középvállalkozás ezen nyilatkozat csatolására nincs szükség.
 
-(4) A magyar illetékes hatóság a panasz kézhezvételétől számított 3 hónapon belül kérheti az (1) bekezdés g) pontjában említett információkat magyar és angol nyelven, a hiánypótlásra nyitva álló határidő az erre irányuló felhívás kézhezvételét követő 3 hónap. Az érintett személy a hiánypótlás egy példányát egyidejűleg megküldi a többi érintett tagállam illetékes hatóságának. További információk a kölcsönös egyeztető eljárás során több alkalommal is kérhetők.
+(4) A magyar illetékes hatóság a panasz kézhezvételétől számított 3 hónapon belül kérheti az (1) bekezdés g) pontjában említett információkat magyar és angol nyelven, a hiánypótlásra nyitva álló határidő az erre irányuló felhívás kézhezvételét követő 3 hónap. A külföldi adóügyi illetőségű érintett személy panasza alapján indult eljárásban a magyar illetékes hatóság az értesítés kézhezvételétől számított 3 hónapon belül a hiányok pótlása céljából a külföldi illetékes hatóságot keresi meg, hiányos válasz esetében akár több alkalommal is. Az érintett személy a hiánypótlás egy példányát egyidejűleg megküldi a többi érintett tagállam illetékes hatóságának. További információk a kölcsönös egyeztető eljárás során több alkalommal is kérhetők.
 
 (5) A magyar belföldi illetőségű természetes személy vagy kis-és középvállalkozás érintett személy az (1) bekezdés g) pontja szerinti kiegészítő információkat csak a magyar illetékes hatósághoz nyújtja be. A magyar illetékes hatóság a kiegészítő információkat azok beérkezésétől számított 2 hónapon belül egyidejűleg továbbítja a többi érintett tagállam illetékes hatóságának. A kiegészítő információk továbbításának időpontjával úgy kell tekinteni, hogy az összes érintett tagállam megkapta azokat.
 
@@ -1364,6 +1368,8 @@ vonatkozó szabályoktól.
 
 42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az adópolitikáért felelős miniszter (a továbbiakban: illetékes hatóság) jár el.
 
+(1a) A magyar illetékes hatóság döntése ellen nincs helye fellebbezésnek.
+
 (2) Vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panasz) terjeszthet elő a magyar illetékes hatóság részére a magyar belföldi adóügyi illetőségű érintett személy, illetve a külföldi illetékes hatóság a külföldi adóügyi illetőségű érintett személy kérelme alapján.
 
 (3) A panasz benyújtására a 42/B. § (3)–(5) bekezdésben foglalt rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az illetékes hatóságnak az érintett személy, illetve a külföldi illetékes hatóság részére történő visszaigazolás, tájékoztatás megküldésére egy hónapos határidő az irányadó.
@@ -1378,7 +1384,7 @@ vonatkozó szabályoktól.
 
 (8) Amennyiben a magyar illetékes hatóság és a többi érintett állam illetékes hatósága is elfogadja a panaszt, akkor a vitás kérdést kölcsönös egyeztető eljárás útján rendezheti a magyar illetékes hatóság és a többi érintett állam illetékes hatósága.
 
-(9) A Választottbírósági Egyezmény 7. cikk (1) bekezdése szerinti kétéves időszak kezdőnapja az a nap, amikor a panasz tartalma a (4) bekezdésben előírt tartalomnak további hiánypótlás nélkül megfelel. A kölcsönös egyeztető eljárás lefolytatására és a kölcsönös megállapodás végrehajtására a 42/H. § (2)–(9) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+(9) A Választottbírósági Egyezmény 7. cikk (1) bekezdése szerinti kétéves időszak kezdőnapja az a nap, amikor a panasz tartalma a (4) bekezdésben előírt tartalomnak további hiánypótlás nélkül megfelel. A kölcsönös egyeztető eljárás lefolytatására és a kölcsönös megállapodás végrehajtására a 42/H. § (2)–(10) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 (10) A nemzeti eljárásokkal való kölcsönhatások és az azoktól való eltérések tekintetében 42/I. §-ban foglalt rendelkezéseket kell alkalmazni.
 
@@ -1393,6 +1399,8 @@ vonatkozó szabályoktól.
 #### 14/O. A panasz benyújtása, tartalma, visszavonása
 
 42/B. § (1) A kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).
+
+(1a) A magyar illetékes hatóság döntése ellen nincs helye fellebbezésnek.
 
 (2) A vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panaszt) terjeszthet elő a magyar illetékes hatóság részére
 
@@ -1420,7 +1428,7 @@ vonatkozó szabályoktól.
 - g) a magyar illetékes hatóság által hiánypótlásban kért bármely olyan kiegészítő információ, amelyet a magyar illetékes hatóság szükségesnek tart a panasz érdemi elbírálásához,
 - h) a szokásos piaci ár meghatározásával kapcsolatban nyilvántartásra kötelezett érintett személy panaszával egyidejűleg köteles megküldeni e nyilvántartást a magyar illetékes hatóság részére.
 
-(2) A magyar illetékes hatóság az érintett személytől a panasz kézhezvételétől számított 3 hónapon belül hiánypótlást kérhet, a hiánypótlásra nyitva álló határidő az erre irányuló felhívás kézhezvételét követő 3 hónap. A hiánypótlás során benyújtandó dokumentumokat a magyar illetékes hatóság felhívására angol nyelven is be kell nyújtani. Amennyiben a külföldi adóügyi illetőségű érintett személy részére a külföldi illetékes hatóság továbbítja a magyar illetékes hatóság hiánypótlásra szóló felhívását, úgy a hiánypótlásra nyitva álló határidő a külföldi illetékes hatóság erre irányuló felhívásának kézhezvételét követő 3 hónap. A magyar illetékes hatóság a hiánypótlás egy példányát haladéktalanul megküldi a többi érintett állam illetékes hatóságának. További információk a kölcsönös egyeztető eljárás során több alkalommal is kérhetők.
+(2) A magyar illetékes hatóság az érintett személytől a panasz kézhezvételétől számított 3 hónapon belül hiánypótlást kérhet, a hiánypótlásra nyitva álló határidő az erre irányuló felhívás kézhezvételét követő 3 hónap. A hiánypótlás során benyújtandó dokumentumokat a magyar illetékes hatóság felhívására angol nyelven is be kell nyújtani. A külföldi adóügyi illetőségű érintett személy panasza alapján indult eljárásban a magyar illetékes hatóság az értesítés kézhezvételétől számított 3 hónapon belül a hiányok pótlása céljából a külföldi illetékes hatóságot keresheti meg, hiányos válasz esetében több alkalommal is. A hiánypótlás a külföldi adóügyi illetőségű kérelmező érintett belföldi adóügyi illetőségű kapcsolt vállalkozásától is kérhető. A magyar illetékes hatóság a hiánypótlás egy példányát haladéktalanul megküldi a többi érintett állam illetékes hatóságának. További információk a kölcsönös egyeztető eljárás során több alkalommal is kérhetők.
 
 (3) A továbbított információk védelmére, illetve a szakmai, üzleti, ipari vagy foglalkozási titok vagy szakmai eljárások védelmére vonatkozó jogszabályokat az e fejezet szerinti eljárások lefolytatása során is megfelelően alkalmazni kell.
 
@@ -1470,6 +1478,8 @@ számított 6 hónapon belül határozattal dönthet a vitás kérdés egyoldal�
 
 42/H. § (1) Amennyiben a magyar illetékes hatóság és a többi érintett állam illetékes hatósága is elfogadja a panaszt, akkor a vitás kérdést kölcsönös egyeztető eljárás útján rendezheti a magyar illetékes hatóság és a többi érintett állam illetékes hatósága.
 
+(1a) A kölcsönös egyeztető eljárásra nyitva álló határidő az érintett államok illetékes hatóságainak panasz elfogadását tartalmazó döntéseire vonatkozó értesítések közül a legkésőbbi időpontjától számított két év. A határidő indokolt esetben egy évvel meghosszabbítható.
+
 (2) Ha az érintett államok illetékes hatóságai megállapodásra jutottak a vitás kérdés rendezésének módjáról, akkor erről a magyar illetékes hatóság a kölcsönös megállapodás időpontját követően soron kívül határozattal értesíti az érintett személyt.
 
 (3) A kölcsönös megállapodás alapján hozott határozat akkor válik véglegessé, és a magyar illetékes hatóságra, valamint az adóhatóságra kötelezővé, ha az érintett személy az érintett államok illetékes hatóságai kölcsönös megállapodásában foglalt határidőn belül
@@ -1502,6 +1512,13 @@ számított 6 hónapon belül határozattal dönthet a vitás kérdés egyoldal�
 (4) Az érintett személy haladéktalanul értesítést küld a magyar illetékes hatóság részére a többi érintett államban történő jogorvoslati kezdeményezésről.
 
 (5) Amennyiben az érintett személy az ügyben magyar bíróság előtt jogorvoslatot kezdeményezett és az ügy jogerős bírósági ítélettel zárult azt megelőzően, hogy az érintett államok illetékes hatóságai a vitás kérdésről a 42/H. § szerinti kölcsönös egyeztető eljárás keretében megállapodásra jutottak volna, a magyar illetékes hatóság értesíti a többi érintett állam illetékes hatóságát a bíróság határozatáról. A kölcsönös egyeztető eljárás ebben az esetben is folytatódik, azzal, hogy a magyar illetékes hatóság a magyar bíróság ítéletében foglaltaktól nem térhet el.
+
+(6) Ha
+
+- a) a vitás kérdést valószínűleg okozó ellenőrzés megállapítása vagy más intézkedés még nem végleges; vagy
+- b) az érintett személy a vitás kérdéssel kapcsolatban bármely érintett államban közigazgatási vagy bírósági jogorvoslati eljárást kezdeményez,
+
+a hiánypótlás kérésének, a panasz elbírálásának és a kölcsönös egyeztető eljárásnak a határideje megszakad, és a határidő azon a napon újra kezdődik, amelyen az ellenőrzés megállapítása, más intézkedés vagy a jogorvoslati eljárásokban hozott döntés véglegessé vált, vagy amelyen a jogorvoslati eljárást más módon véglegesen lezárták, vagy felfüggesztették.
 
 ### V. Fejezet — NEMZETKÖZI ADÓEGYEZMÉNYEKHEZ KAPCSOLÓDÓ EGYES ELJÁRÁSI SZABÁLYOK
 
@@ -2574,7 +2591,7 @@ D. Jelentendő Pénzügyi Számla
 
 1. Jelentendő Pénzügyi Számla: olyan Pénzügyi Számla, amelyet a Jelentő Magyar Pénzügyi Intézmény vezet, és tulajdonosa egy vagy több Jelentendő Személy, vagy olyan Passzív Nem Pénzügyi Jogalany, amelyben egy vagy több Ellenőrzést gyakorló személy egyúttal Jelentendő Személy is, feltéve, hogy a számla e melléklet II–VII. pontjában meghatározott átvilágítási eljárások eredményeként Jelentendő Pénzügyi Számlának minősül.
 
-2. Jelentendő Személy: olyan, tagállamban vagy más államban illetőséggel bíró személy, aki vagy amely nem minősül az alábbiaknak:
+2. Jelentendő Személy: olyan, tagállamban, más államban vagy joghatósággal rendelkező területen illetőséggel bíró személy, aki vagy amely nem minősül az alábbiaknak:
 
 a) olyan vállalat, amely részvényeivel egy vagy több szabályozott értékpapír-piacon rendszeresen kereskednek;
 
@@ -3053,7 +3070,7 @@ B. Az adatszolgáltatás tartalma
 
 Az Adatszolgáltatásra kötelezett platformüzemeltető a következő információt jelenti be az állami adó- és vámhatósághoz:
 
-1. Az Adatszolgáltatásra kötelezett platformüzemeltető neve, bejegyzett székhelyének címe, Adóazonosító száma és a IV/F/4. pont szerint hozzárendelt egyedi azonosító száma, továbbá a platform(ok) neve(i), amely(ek)re vonatkozóan az Adatszolgáltatásra kötelezett platformüzemeltető adatot szolgáltat.
+1. Az Adatszolgáltatásra kötelezett platformüzemeltető neve, bejegyzett székhelyének címe, Adóazonosító száma és az e törvény 21/A. § (5) bekezdése szerint hozzárendelt egyedi azonosító száma, továbbá a platform(ok) neve(i), amely(ek)re vonatkozóan az Adatszolgáltatásra kötelezett platformüzemeltető adatot szolgáltat.
 
 2. Az ingatlan-bérbeadástól eltérő Érintett tevékenységet folytató Jelentendő értékesítő esetében:
 
