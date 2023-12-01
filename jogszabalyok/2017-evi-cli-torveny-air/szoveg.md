@@ -819,7 +819,7 @@ tolmácsot kell alkalmazni.
 
 #### 71. § [A hatósági tanú]
 
-(1) Az adóhatóság az e törvényben meghatározott esetekben hatósági tanút vehet igénybe. A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre senki nem kötelezhető.
+(1) Az adóhatóság az e törvényben meghatározott esetekben hatósági tanút vehet igénybe. A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre – ha jogszabály eltérően nem rendelkezik – senki nem kötelezhető.
 
 (2) Nem lehet hatósági tanú az adózó, az adózó hozzátartozója vagy képviselője, az eljáró adóhatósággal adó- és vámhatósági szolgálati jogviszonyban, közszolgálati jogviszonyban, munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
 
@@ -1136,7 +1136,7 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
-(3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama a csoportos adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
+(3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
 (3a) Az önkormányzati adóhatóság által végzett adóellenőrzés időtartama a cégbejegyzésre nem kötelezett adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
@@ -1170,6 +1170,8 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 (1) Az ellenőrzés az erről szóló előzetes értesítés kézbesítésével, ennek mellőzése esetén a megbízólevél kézbesítésével, egy példányának átadásával vagy az általános megbízólevél bemutatásával kezdődik.
 
 (2) Ha az adózó vagy képviselője, meghatalmazottja, foglalkoztatottja a megbízólevél átvételét megtagadja, az ellenőrzés két hatósági tanú jelenlétében az erről szóló jegyzőkönyv felvételével és aláírásával kezdődik.
+
+(3) A kezelőszemélyzet nélküli automataberendezést, csomagautomatát érintő helyszíni ellenőrzés az adózó közreműködése nélkül, két hatósági tanú jelenlétében, az erről szóló jegyzőkönyv felvételével és aláírásával is megindítható.
 
 #### 42. Az adózó jogai és kötelezettségei az ellenőrzési eljárásban
 
@@ -1664,6 +1666,12 @@ E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XL
 #### 139/F. § [Átmeneti rendelkezés a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvényhez]
 
 E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény által megállapított 20. § (2) bekezdésében foglalt jegyzett tőkére vonatkozó feltételeknek a rendelkezés hatálybalépésekor az állami adó- és vámhatóság által már nyilvántartásba vett pénzügyi képviselőknek 2025. január 1-jével kell megfelelnie.
+
+#### 139/G. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvényhez]
+
+(1) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény (a továbbiakban: Módtv.5.) által megállapított 71. § (1) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv.5. által megállapított 96. § (3) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

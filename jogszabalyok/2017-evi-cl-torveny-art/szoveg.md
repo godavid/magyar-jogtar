@@ -1030,7 +1030,7 @@ Az adóhatóságnál nyilvántartott adótartozás, vagy tartozás összegét �
 
 #### 74/A. § [Hatósági átvezetés]
 
-(1) Az adózót megillető túlfizetés összegét az adóhatóság hivatalból elszámolhatja az általa nyilvántartott, az adózót terhelő tartozásra, ideértve az adók módjára behajtandó köztartozást, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelést, az általános közigazgatási rendtartás alapján behajtandó köztartozást és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozást is.
+(1) Az adózót megillető túlfizetés összegét az adóhatóság hivatalból elszámolhatja az általa nyilvántartott, az adózót terhelő tartozásra, ideértve az adók módjára behajtandó köztartozást, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (a továbbiakban: Avt.) 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelést, az általános közigazgatási rendtartás alapján behajtandó köztartozást és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozást is.
 
 (2) Az elhalálozás napját megelőző napon fennálló túlfizetés összegét az adóhatóság hivatalból számolja el az általa nyilvántartott, az adózót terhelő tartozásra.
 
@@ -1044,7 +1044,7 @@ Az adóhatóságnál nyilvántartott adótartozással vagy köztartozással rend
 
 (1) Az adózó a költségvetési támogatás (visszaigénylés, visszatérítés) igénylésekor az önkormányzati adóhatóságnál az erre a célra rendszeresített nyomtatványon nyilatkozik arról, hogy a nyilatkozat időpontjában más adóhatóságnál van-e esedékessé vált tartozása, és az milyen összegű. Az önkormányzati adóhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (adó-visszaigénylést, adó-visszatérítést), az általa nyilvántartott adótartozás, adók módjára behajtandó köztartozás, az adózó nyilatkozatában vagy más adóhatóság megkeresésében közölt – más adóhatóságot megillető – tartozás összegéig visszatarthatja, és ezzel ennek erejéig a tartozás megfizetettnek minősül.
 
-(2) Az állami adó- és vámhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (visszaigénylést, visszatérítést) az általa nyilvántartott 2020. július 1. napja utáni időszakra vonatkozóan keletkezett egészségügyi szolgáltatási járulék kötelezettség, egyéb adó- és vámtartozás, adók módjára behajtandó köztartozás, az általános közigazgatási rendtartás alapján behajtandó köztartozás, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelés és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozás összegéig visszatarthatja, és ezzel ennek erejéig a tartozás megfizetettnek minősül.
+(2) Az állami adó- és vámhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (visszaigénylést, visszatérítést) az általa nyilvántartott 2020. július 1. napja utáni időszakra vonatkozóan keletkezett egészségügyi szolgáltatási járulék kötelezettség, egyéb adó- és vámtartozás, adók módjára behajtandó köztartozás, az általános közigazgatási rendtartás alapján behajtandó köztartozás, az Avt. 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelés és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozás összegéig visszatarthatja, és ezzel ennek erejéig a tartozás megfizetettnek minősül.
 
 (3) A visszatartásról az adózót az adóhatóság végzéssel értesíti. Az adózó nyilatkozatában feltüntetett tartozásra gyakorolt visszatartás esetében az adóhatóság a végzés mellőzésével, írásban értesíti az adózót a visszatartás tényéről.
 
@@ -1213,7 +1213,7 @@ Ha jogszabály költségvetési támogatás igénybevételéhez más szerv álta
 
 (1) A jegyző az ingatlanokat terhelő adókról szóló adatbejelentés, bevallás benyújtására nyitva álló határidő lejártát követő negyvenöt napon belül adatot szolgáltat az állami adó- és vámhatóságnak az önkormányzat illetékességi területén, a korrigált forgalmi érték szerinti adóztatás esetén az ötszázmillió forint forgalmi értéket elérő ingatlannal, alapterület szerinti adóztatás esetén az ezer m2-t elérő épülettel, illetve tízezer m2-t elérő telekkel rendelkező külföldön bejegyzett szervezetek tagjairól (tulajdonosairól), illetve az egyes tagokat megillető részesedés arányáról a külföldi szervezetek építményadóról, telekadóról szóló adatbejelentésében, bevallásában feltüntetett adatok alapján.
 
-(2) A jegyző az (1) bekezdésben meghatározott határidőn belül az állami adó- és vámhatóságnak adatot szolgáltat az Európai Unió más tagállamában illetőséggel rendelkező személy önkormányzat illetékességi területén található földje haszonbérbeadásából származó jövedelméről.
+(2)
 
 (3) A jegyző elektronikus úton adatot szolgáltat azokról a személyekről, akiknek köztartozás-mentessége a Magyarország helyi önkormányzatairól, valamint a nemzetiségek jogairól szóló törvény méltatlansági eljárásra vonatkozó szabályai szerint vizsgálat tárgyát képezheti.
 
@@ -1291,7 +1291,7 @@ Az idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hat�
 
 Ha a tényállás tisztázásához szükséges, az állami adó- és vámhatóság megkeresi a belföldön letelepedett, telekommunikációs szolgáltatást nyújtó adózót az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti elektronikus kereskedelemi szolgáltatásnak a szolgáltatás nyújtójára, valamint a szolgáltatás ellenértékére vonatkozó forgalmi adatai az elektronikus kereskedelmi szolgáltatást igénybevevő személyhez nem köthető módon történő beszerzése érdekében. A belföldön letelepedett, telekommunikációs szolgáltatást nyújtó adózó a megkeresést tizenöt napon belül teljesíti.
 
-#### 106. § [Adatszolgáltatás online pénztárgéppel és az adatszolgáltatás minőségét biztosító követelmények]
+#### 106. § [Adatszolgáltatás pénztárgéppel és az adatszolgáltatás minőségét biztosító követelmények]
 
 (1) Jogszabályban meghatározottak szerinti adóigazgatási azonosításra alkalmas nyugta kibocsátására az a pénztárgép felel meg, amelynek forgalmazását a jogszabályban meghatározottak szerint engedélyezték, és amelyet a jogszabályban meghatározottak szerint helyeztek üzembe.
 
@@ -1335,11 +1335,11 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (14) A pénztárgép üzemeltetésével kapcsolatos ellenőrzés során – ha az elektronikus hírközlő hálózat elérhetetlenségére vonatkozó tény vagy adat merül fel – az állami adó- és vámhatóság kérheti a Nemzeti Média- és Hírközlési Hatóság szakhatóságként történő közreműködését az elektronikus hírközlő hálózat elérhetősége kérdésében.
 
-(15) Az állami adó- és vámhatóság az üzemeltető, a forgalmazó, a szerviz vagy más személy (13) bekezdés szerinti ellenőrzése során talált pénztárgépet vizsgálat céljából átvételi elismervény ellenében legfeljebb tizenöt napra bevonhatja, ha a pénztárgéppel történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható. A bevont pénztárgépet az állami adó- és vámhatóság annak megállapítása érdekében, hogy a pénztárgép megfelel a jogszabályban meghatározott műszaki követelményeknek (a továbbiakban e § alkalmazásában: ellenőrző vizsgálat), átadja az online pénztárgépet engedélyező hatóság részére. A bevonás időszaka alatt az adózó a nyugta kibocsátási kötelezettségét, ha a jogszabályban meghatározottaknak megfelelő, adóigazgatási azonosításra alkalmas nyugta adására szolgáló másik pénztárgéppel is rendelkezik, annak alkalmazásával, pénztárgép hiányában kézi úton előállított nyugtával teljesíti.
+(15) Az állami adó- és vámhatóság az üzemeltető, a forgalmazó, a szerviz vagy más személy (13) bekezdés szerinti ellenőrzése során talált pénztárgépet vizsgálat céljából átvételi elismervény ellenében legfeljebb tizenöt napra bevonhatja, ha a pénztárgéppel történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható. A bevont pénztárgépet az állami adó- és vámhatóság annak megállapítása érdekében, hogy a pénztárgép megfelel a jogszabályban meghatározott műszaki követelményeknek (a továbbiakban e § alkalmazásában: ellenőrző vizsgálat), átadja a pénztárgépet engedélyező hatóság részére. A bevonás időszaka alatt az adózó a nyugta kibocsátási kötelezettségét, ha a jogszabályban meghatározottaknak megfelelő, adóigazgatási azonosításra alkalmas nyugta adására szolgáló másik pénztárgéppel is rendelkezik, annak alkalmazásával, pénztárgép hiányában kézi úton előállított nyugtával teljesíti.
 
 (16) A (15) bekezdésben foglaltakat kell alkalmazni, ha a pénztárgép működésének jogszabályban meghatározott hírközlő eszköz és rendszer útján történő felügyelete során az állami adó- és vámhatóság pénztárgéppel történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható.
 
-(17) Ha az ellenőrző vizsgálat eredményeként megállapítást nyer, hogy a pénztárgép a jogszabályban meghatározott követelményeknek nem felel meg, és ez befolyásolja az adózással összefüggő funkciókat és a hiba, hiányosság nem küszöbölhető ki, vagy azt az arra kötelezett az előírt határidőn belül nem teljesíti, az online pénztárgépet engedélyező hatóság határozattal előírja a pénztárgépet engedélyező hatóság részére történő leadását. A leadott pénztárgépet az engedélyező hatóság megsemmisíti, erről az állami adó- és vámhatóságot értesíti.
+(17) Ha az ellenőrző vizsgálat eredményeként megállapítást nyer, hogy a pénztárgép a jogszabályban meghatározott követelményeknek nem felel meg, és ez befolyásolja az adózással összefüggő funkciókat és a hiba, hiányosság nem küszöbölhető ki, vagy azt az arra kötelezett az előírt határidőn belül nem teljesíti, a pénztárgépet engedélyező hatóság határozattal előírja a pénztárgépet engedélyező hatóság részére történő leadását. A leadott pénztárgépet az engedélyező hatóság megsemmisíti, erről az állami adó- és vámhatóságot értesíti.
 
 (18) Az állami adó- és vámhatóság honlapján folyamatosan nyilvánosságra hozza a nyilvántartásba vett vagy törölt szervizek, valamint az érvényes és az érvénytelen műszerészi igazolványok, plombanyomók adatait.
 
@@ -1353,7 +1353,7 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 - d) az üzemeltetésnek az adózó érdekkörén kívül eső okból bekövetkezett megszűnését, legkésőbb az üzemeltetés megszűnésének napján,
 - e) haladéktalanul, a jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
-(2) Az automataberendezéseket automata felügyeleti egységgel (a továbbiakban: AFE) kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+(2) Az automataberendezéseket AFE-val kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
 (3) Az automataberendezések működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyeli.
 
@@ -1361,7 +1361,7 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (5) A felügyeleti szolgáltatói tevékenység hatósági engedélyhez kötött tevékenység. A felügyeleti szolgáltatói tevékenységre vonatkozó rendelkezéseket a határon átnyúló szolgáltatásnyújtás esetén is alkalmazni kell.
 
-(6) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a mérésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: engedélyező hatóság) jár el.
+(6) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a mérésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (e § alkalmazásában a továbbiakban: engedélyező hatóság) jár el.
 
 (7) A (2) és (3) bekezdésben meghatározott kötelezettség teljesítéséhez szükséges feltételek folyamatos biztosítása érdekében a Kormány rendeletében ideiglenes jelleggel – legfeljebb 2 éves időtartamban – menedékes felügyeleti szolgáltatót jelölhet ki a jogszabály szerinti felügyeleti szolgáltatói feladatok ellátására, ha az engedélyező hatóság arról tájékoztatja, hogy a felügyeleti szolgáltatói engedély kiadására nem került sor.
 
@@ -1580,7 +1580,7 @@ Az egészségügyi igazgatási és koordinációs feladatokért felelős egészs
 
 (1) A csoportos társasági adóalanyhoz való csatlakozást a csatlakozni kívánó adózó és a csoporttagok által kijelölt csoporttag mint csoportképviselő (a továbbiakban: csoportképviselő) közös kérelmére az állami adó- és vámhatóság engedélyezi a Tao tv.-ben meghatározott feltételek teljesülése esetén. A csoporttagság az állami adó- és vámhatóság engedélyével, a kérelem benyújtását követő adóév első napján jön létre.
 
-(2) A csoportos társasági adóalanyhoz való csatlakozás engedélyezésére irányuló kérelem az adóév utolsó előtti hónapjának első napjától az adóév utolsó előtti hónapjának 20. napjáig, a tevékenységét év közben kezdő személy esetén az állami adó- és vámhatósághoz történő bejelentkezéssel egyidejűleg nyújtható be. A határidő elmulasztása esetén igazolási kérelem előterjesztésének helye nincs.
+(2) A csoportos társasági adóalanyhoz való csatlakozás engedélyezésére irányuló kérelem az adóév utolsó előtti hónapjának első napjától az adóév utolsó előtti hónapjának 20. napjáig, a tevékenységét év közben kezdő személy esetén az állami adó- és vámhatósághoz történő bejelentkezéstől számított 30 napon belül nyújtható be. A határidő elmulasztása esetén igazolási kérelem előterjesztésének helye nincs.
 
 (3) A csoportos társasági adóalanyhoz történő csatlakozást engedélyező határozat ellen fellebbezésnek helye nincs.
 
@@ -1826,7 +1826,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - j) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
 - k) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
 - l) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
-- m) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás az online pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
+- m) a pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás a pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
 - n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 - o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
 
@@ -1886,12 +1886,12 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - e) a tízmillió eurónak megfelelő forintösszeget meghaladó, de a harmincmillió eurónak megfelelő forintösszeget meg nem haladó támogatástartalom;
 - f) a harmincmillió eurónak megfelelő forintösszeget meghaladó mértékű támogatástartalom.
 
-(4) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió Működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. június 25-ei 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről a 702/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében a kedvezmény összege jogcímenként a hatvanezer eurónak megfelelő forintösszeget, a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az Európai Unió működéséről szóló Szerződés 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében az ötszázezer eurónak megfelelő forintösszeget meghaladja.
+(4) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió Működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i (EU) 2022/2472 bizottsági rendelet [a továbbiakban: (EU) 2022/2472 bizottsági rendelet] hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről az (EU) 2022/2472 bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében a kedvezmény összege jogcímenként a tízezer eurónak megfelelő forintösszeget, a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az Európai Unió működéséről szóló Szerződés 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében a százezer eurónak megfelelő forintösszeget meghaladja.
 
 (5) A (4) bekezdés szerinti adatszolgáltatást havi gyakoriságú adóbevallás benyújtására kötelezett adózók esetén az adóévet követő év március tizenötödikéig, éves adóbevallás benyújtására kötelezett adózók esetén a bevallás benyújtásának határidejét követő szeptember tizenötödikéig kell teljesíteni az alábbi adatokról:
 
 - a) az adózó neve, székhelye, adószáma,
-- b) az adózónak a 702/2014/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
+- b) az adózónak a 2022/2472/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
 - c) az adózó főtevékenysége a mindenkor hatályos TEÁOR-nómenklatúra szerint, egyéni vállalkozó esetén ÖVTJ-kódok szerint,
 - d) az adóbevallás benyújtásának az esedékessége.
 
@@ -1905,12 +1905,12 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - f) a tízmillió eurónak megfelelő forintösszeget meghaladó, de a harmincmillió eurónak megfelelő forintösszeget meg nem haladó támogatástartalom;
 - g) a harmincmillió eurónak megfelelő forintösszeget meghaladó mértékű támogatástartalom.
 
-(7) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. december 16-i 1388/2014/EU bizottsági rendelet (a továbbiakban: 1388/2014/EU bizottsági rendelet) hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről a 1388/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként a harmincezer eurónak megfelelő forintösszeget meghaladja.
+(7) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i (EU) 2022/2473 bizottsági rendelet [a továbbiakban: (EU) 2022/2473 bizottsági rendelet] hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről az (EU) 2022/2473 bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként a tízezer eurónak megfelelő forintösszeget meghaladja.
 
 (8) A (7) bekezdés szerinti adatszolgáltatást havi gyakoriságú adóbevallás benyújtására kötelezett adózók esetén az adóévet követő év március tizenötödikéig, éves adóbevallás benyújtására kötelezett adózók esetén a bevallás benyújtásának határidejét követő szeptember tizenötödikéig kell teljesíteni az alábbi adatokról:
 
 - a) az adózó neve, székhelye, adószáma,
-- b) az adózónak a 1388/2014/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
+- b) az adózónak a 2022/2473/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
 - c) az adózó főtevékenysége a mindenkor hatályos TEÁOR-nómenklatúra szerint, egyéni vállalkozó esetén ÖVTJ-kódok szerint,
 - d) az adóbevallás benyújtásának az esedékessége.
 
@@ -2094,7 +2094,7 @@ A feltárt kockázat megszüntetése érdekében az adóhatóság
 
 (6) Az állami adó- és vámhatóság a cégbíróságot elektronikus úton haladéktalanul tájékoztatja az adózóval szemben folytatott, az e § szerinti eljárás(ok) végleges befejezéséről, illetve végelszámolás esetén arról is, hogy az adózónak van-e az állami adó- és vámhatóságnál nyilvántartott köztartozása.
 
-(7) Ha a végelszámolás alatt álló adózó a végelszámolás megszüntetéséről, a működésének továbbfolytatásáról határoz, akkor a változás bejegyzését követően az általános eljárási szabályok alkalmazandók, feltéve, hogy az ellenőrzés megállapításait tartalmazó jegyzőkönyv átadására még nem került sor.
+(7) Ha a végelszámolás alatt álló adózó a végelszámolás megszüntetéséről határoz, vagy a cégbíróság az eljárás megszüntetéséről dönt, akkor a változás bejegyzését követően az általános eljárási szabályok alkalmazandók, feltéve, hogy az ellenőrzés befejezésére még nem került sor.
 
 #### 146. § [Határozat utólagos adómegállapításról]
 
@@ -2158,7 +2158,7 @@ Ha az adózó vitatja a 150. § szerinti minősítését, a minősítéstől vag
 
 - a) legalább három éve folyamatosan működik, vagy legalább három éve áfa-regisztrált adóalanynak minősül,
 - b) a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó terhére megállapított összes adókülönbözet nem haladta meg az adózó tárgyévre megállapított adóteljesítményének három százalékát, azzal, hogy az adózó terhére megállapított összes adókülönbözetet csökkenteni kell a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó javára megállapított összes adókülönbözettel,
-- c) a tárgyévben és az azt megelőző négy évben az állami adó- és vámhatóság nem indított ellene adótartozás behajtására irányuló végrehajtási eljárást, továbbá az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 29. § (1) bekezdés 6–21. pontján alapuló, megkeresésenként százezer forintot meghaladó összegre irányuló végrehajtást.
+- c) a tárgyévben és az azt megelőző négy évben az állami adó- és vámhatóság nem indított ellene adótartozás behajtására irányuló végrehajtási eljárást, továbbá az Avt. 29. § (1) bekezdés 6–21. pontján alapuló, megkeresésenként százezer forintot meghaladó összegre irányuló végrehajtást.
 - d) a tárgyévben és az azt megelőző öt évben nem állt és nem áll csőd-, felszámolási, illetve kényszertörlési eljárás alatt,
 - e) nem rendelkezik ötszázezer forintot meghaladó nettó adótartozással,
 - f) a tárgyévben és az azt megelőző öt évben nem állt és nem áll adószám törlés hatálya alatt,
@@ -3478,7 +3478,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a 268. § (1) bekezdés 17. pontja szerinti bejelentési és nyilvántartásba vételi eljárásért, a nyilvántartásban szereplő adatok módosításával, a hatósági igazolvány pótlásával, cseréjével összefüggő eljárásért, a nyilvántartásból való törlésért, valamint a továbbképzési programok szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásáért, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy az online pénztárgép éves felülvizsgálatának részletes szabályait rendeletben állapítsa meg.
+(5) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a pénztárgép éves felülvizsgálatának részletes szabályait rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel, e-pénztárgéppel történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait rendeletben állapítsa meg.
 
@@ -3732,6 +3732,10 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 (4) E törvénynek a Módtv.11. által megállapított 20. § (3) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (5) E törvénynek a Módtv.11. által megállapított 221. § (1) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+#### 274/Q. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvényhez]
+
+E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény (a továbbiakban: Módtv.12.) által megállapított 114/B. § (2) bekezdését a tevékenységét a 2023-ban kezdődő adóévben kezdő személy azzal az eltéréssel alkalmazza, hogy a 114/B. § (2) bekezdésben meghatározott határidőt a rendelkezés hatálybalépésétől számítja.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 

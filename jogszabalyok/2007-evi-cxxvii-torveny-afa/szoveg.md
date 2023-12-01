@@ -4401,6 +4401,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 359. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel módosított 246. § c) pontja azon előzetesen felszámított adó összegére alkalmazandó először, amelyet fizetendő adóként 2021. december 31-ét követően kellett megállapítani, azzal, hogy azon előzetesen felszámított adó összegének a XVIII. fejezet szerinti visszatéríttetésére az adóalany nem jogosult, amelyet levonható adóként a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény kihirdetését követő napot megelőzően már érvényesített.
 
+361. § Az az adóalany, aki (amely) gazdasági tevékenységének székhelye, ennek hiányában pedig lakóhelye a Közösség területén kívül van, de belföldön rendelkezik állandó telephellyel, szokásos tartózkodási hellyel, 2025. évre vonatkozóan nem élhet a 187. § (1) bekezdés szerinti alanyi adómentesség választásának jogával.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -4457,7 +4459,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 2. | Hagyományos gyógynövény drogok közvetlen lakossági fogyasztásra, kiskereskedelemben szokásos kiszerelésben | 1211 90 86; 1211 50 00-ból 1302-ből |
 | 3. | Az arra feljogosított hatóság által engedélyezett humán célra felhasználásra kerülő diagnosztikai reagensek | 3002 11-ből; 3002 12-ből; 3002 13-ból; 3002 14-ből; 3002 15-ből 3002 19-ből 3002 90-ből 3006 20-ból 3006 30-ból 3821-ből 3822-ből |
 | 4. | Orvosi radioaktív izotópok | 2844 40 20 00-ból |
-| 5. | Speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek (élelmiszerek), | 1901 10 00-ból 2106 90 92-ből 2106 90 98-ból |
+| 5. | Külön jogszabályban meghatározott speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek (élelmiszerek) | 1901 10 00-ból 2106 90 92-ből 2106 90 98-ból 2202 99-ből 3004 50 00-ból |
 | 6. | Egészségügyi oxigén (max. 10, ill. 20 liter űrtartalmú, 150, ill. 200 bar nyomású palackban kiszerelve vagy cseppfolyós formában, kizárólag gyógyszerkönyvi minőségű termék) | 2804 40-ből |
 | 7. | Braille-tábla műanyagból | 3926 90-ből |
 | 8. | Fehér bot vakoknak | 6602-ből |
