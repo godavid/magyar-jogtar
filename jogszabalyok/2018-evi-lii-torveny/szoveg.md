@@ -343,7 +343,7 @@ munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek m
 
 (2) Az adókedvezmény összegét a kifizető havonta állapítja meg. A kedvezmény egyenlő a tárgyhónapban a kutatás-fejlesztési tevékenység közvetlen költségeként elszámolt bérköltség után a 2. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel.
 
-(3) A kedvezmény igénybevétele esetén a kifizető a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja alapján a saját tevékenységi körben végzett kutatás-fejlesztési tevékenység közvetlen költségeként nem vonhatja le a kutató-fejlesztő munkavállaló azon munkabérének a hozzá kapcsolódó szociális hozzájárulási adóval és szakképzési hozzájárulással növelt összegét, amelyre e § szerinti kedvezményt érvényesít.
+(3) A kedvezmény igénybevétele esetén a kifizető a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja alapján a saját tevékenységi körben végzett kutatás-fejlesztési tevékenység közvetlen költségeként nem vonhatja le a kutató-fejlesztő munkavállaló azon munkabérének a hozzá kapcsolódó szociális hozzájárulási adóval növelt összegét, amelyre e § szerinti kedvezményt érvényesít.
 
 (4) E § alkalmazásában
 

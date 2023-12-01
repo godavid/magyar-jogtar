@@ -274,7 +274,11 @@ jelöltnek ajánlott.
 
 23. § E törvény a kihirdetése napján lép hatályba, rendelkezéseit a helyi önkormányzati képviselők és a polgármesterek 2010. évi általános választása során kell először alkalmazni.
 
-24. § E törvénynek a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Mód. tv. hatályba lépését követően kitűzött általános választásán kell először alkalmazni.
+24. § (1) Ha a képviselő, a polgármester vagy a főpolgármester megbízatása 2024. október 1-jét megelőzően megszűnik, időközi választás nem tűzhető ki.
+
+(2) Ha az egyéni listás, kompenzációs listás, vármegyei listás vagy fővárosi kompenzációs listás képviselő megbízatása 2024. október 1-jét megelőzően megszűnik, a mandátum betöltésére a 21. § (1)–(3) bekezdésének rendelkezéseit kell alkalmazni.
+
+(3) A 20. § (5) bekezdése és a 21. § (4) bekezdése alkalmazásában a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásán megválasztott képviselőt, polgármestert és főpolgármestert úgy kell tekinteni, mintha a megbízatása a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választása eredményének jogerőre emelkedésekor keletkezett volna.
 
 24/A. § E törvény I-V/A. Fejezete, 22. §-a és 24. §-a az Alaptörvény XXIII. cikk (4) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 

@@ -702,7 +702,7 @@ kell értékesíteni.
 
 (6) Az árverést addig kell folytatni, amíg ajánlatot tesznek. Ha nincs további ajánlat, a végrehajtó – figyelemmel a (4) bekezdésben megállapított legkisebb vételárra – a felajánlott legmagasabb vételár háromszori kikiáltása után megnevezi a nyertes árverési vevőt.
 
-(7) Az árverési vevő nyertességének a (6) bekezdésben foglaltak szerinti kikiáltását követően azonnal köteles a teljes vételárat készpénzben megfizetni, vagy ha arra a helyszínen lehetőség van, bankkártyával teljesíteni.
+(7) Az árverési vevő nyertességének a (6) bekezdésben foglaltak szerinti kikiáltását követően azonnal köteles a teljes vételárat készpénzben vagy átutalási megbízással megfizetni, vagy ha arra a helyszínen lehetőség van, bankkártyával teljesíteni. Átutalási megbízás esetén a végrehajtó az ingóság átadása iránt csak az árverési vételárnak a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára történő megérkezését követően intézkedik.
 
 (8) Ha az árverési vevő a (7) bekezdésben meghatározott fizetési kötelezettségének nem tesz eleget, az ingóságra e § rendelkezései szerint az árverést tovább kell folytatni a 64. § (2) bekezdés e) pontjában foglaltak alkalmazásával.
 
@@ -755,7 +755,7 @@ kell értékesíteni.
 
 (7) A végrehajtónak az árverést az első értesítést követően 2 órán belül meg kell kezdenie.
 
-(8) A (6) bekezdés szerinti kereskedő és a jelenlévő érvényes ajánlatot legalább a becsérték 35%-át elérő összegben tehet. A dolgot az szerzi meg, aki a legmagasabb összegű érvényes ajánlatot tette, azonos vételi ajánlat esetén pedig az, aki az ajánlatát korábban tette. Az árverés nyertese köteles a vételárat haladéktalanul készpénzben megfizetni, vagy ha az árverés helyszínén ennek lehetősége biztosított, bankkártyával is teljesítheti. Ha az árverési vevő a vételárat nem fizeti meg, az adóhatóság a 103. § szerint jár el. A határozat a végrehajtási eljárásban végrehajtható okirat.
+(8) A (6) bekezdés szerinti kereskedő és a jelenlévő érvényes ajánlatot legalább a becsérték 35%-át elérő összegben tehet. A dolgot az szerzi meg, aki a legmagasabb összegű érvényes ajánlatot tette, azonos vételi ajánlat esetén pedig az, aki az ajánlatát korábban tette. Az árverés nyertese köteles a vételárat haladéktalanul készpénzben vagy átutalási megbízással megfizetni, vagy ha az árverés helyszínén ennek lehetősége biztosított, bankkártyával is teljesítheti. Átutalási megbízás esetén a végrehajtó az ingóság átadása iránt, csak az árverési vételárnak a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára történő megérkezését követően intézkedik. Ha az árverési vevő a vételárat nem fizeti meg, az adóhatóság a 103. § szerint jár el. A határozat a végrehajtási eljárásban végrehajtható okirat.
 
 (9) Ha a (4) és (5) bekezdés alapján a romlandó dolog értékesítésére nincs mód, vagy az eredménytelen maradt, az állami adó- és vámhatóság – a lefoglalt vagyontárgy őrzésének biztosítása mellett – intézkedhet az Elektronikus Árverési Felületen (a továbbiakban: EÁF) történő gyorsított értékesítés iránt. Az árverés a hirdetmény közzétételével egy időben indul és a közzétételtől számított 24 órán át tart.
 
@@ -1070,7 +1070,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (8) Az adók módjára behajtandó köztartozások esetén a 30. § (2) bekezdés alkalmazásának nincs helye.
 
-107. § Az állami adó- és vámhatóság 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás esetén – a 30. § (1) bekezdése és a 32. § szerinti intézkedéseken túl – kizárólag hatósági átutalási megbízást, illetve jövedelemletiltást foganatosít az adók módjára behajtandó köztartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 113. § (3) bekezdése szerint jár el. Ha a 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás mellett az adóst adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 113. § (3) bekezdésében írtak szerint jár el.
+107. § Az állami adó- és vámhatóság 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás esetén – a 30. § (1) bekezdése szerinti intézkedésen túl – kizárólag hatósági átutalási megbízást, illetve jövedelemletiltást foganatosít az adók módjára behajtandó köztartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 113. § (3) bekezdése szerint jár el. Ha a 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás mellett az adóst adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 113. § (3) bekezdésében írtak szerint jár el.
 
 108. § Az adók módjára behajtandó köztartozásra az adóhatóság késedelmi pótlékot nem számít fel, azzal összefüggésben felszámolási eljárást nem kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési, a szerkezetátalakítási és a reorganizációs eljárásban e kötelezettségeket hitelezői igényként nem jelenti be, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nem tartja nyilván, illetve a kötelezettséggel összefüggésben mögöttes felelősséget nem érvényesít.
 
@@ -1235,7 +1235,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (5) A (4) bekezdésben foglalt esetben a végrehajtó az építmény ajtajára kifüggeszti a helyszíni eljárásáról készített jegyzőkönyvet, és abban megjelöli az ingóságok átvételének helyét, valamint azt, hogy az eljárásban mely gyámhatóság vesz részt. Az állami adó- és vámhatóság a helyszíni eljárásáról készített jegyzőkönyvet soron kívül megküldi az építmény fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek is.
 
-(6) Az ingóságok megőrzésére és értékesítésére a 90. § (4) bekezdését kell alkalmazni, azzal, hogy az értékesítésből befolyó vételár az (1) bekezdésben írt adóst vagy harmadik személyt illeti meg.
+(6) Az ingóságok megőrzésére és értékesítésére a 90. § (5) bekezdését kell alkalmazni, azzal, hogy az értékesítésből befolyó vételár az (1) bekezdésben írt adóst vagy harmadik személyt illeti meg.
 
 (7) Ha a meghatározott cselekmény végrehajtásához elegendő az építmény egy részének elhagyása, az állami adó- és vámhatóság az érintett építményrészt az (1)–(6) bekezdésben foglaltak alkalmazásával kiüríti, a kiürített építményrészt lezárja és lepecsételi.
 

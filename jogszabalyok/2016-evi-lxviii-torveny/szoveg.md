@@ -1522,7 +1522,7 @@ követően bocsátja a bérfőzető rendelkezésre.
 
 #### 49. Adó-visszaigénylés zárjegyköteles jövedéki termék után
 
-77. § (1) A 12. § a), b) és d) pontja szerinti adó-visszaigénylés feltétele, hogy a jogosult a zárjegyet a zárjegyköteles jövedéki termékről az állami adó- és vámhatóság képviselőjének jelenlétében eltávolítsa és megsemmisítse vagy felülragasztással érvénytelenítse.
+77. § (1) A 12. § a), b) és d) pontja szerinti adó-visszaigénylés feltétele, hogy a jogosult a zárjegyet a zárjegyköteles jövedéki termékről az állami adó- és vámhatóság képviselőjének jelenlétében eltávolítsa és megsemmisítse vagy felülragasztással, illetve az azzal egy tekintet alá eső, a végrehajtási rendeletben meghatározott egyéb megoldással érvénytelenítse.
 
 (1a) Az (1) bekezdéstől eltérően nem szükséges az állami adó- és vámhatóság képviselőjének jelenléte, ha a jogosult az alkoholtermékről a zárjegy eltávolításának és megsemmisítésének vagy felülragasztással érvénytelenítésének időpontját a tevékenység megkezdését megelőzően legalább 3 munkanappal bejelenti az állami adó- és vámhatósághoz. Az eltávolított és megsemmisített vagy felülragasztással érvénytelenített zárjegyek sorszámát a jogosult nyilvántartásában feltünteti és adatszolgáltatásában az állami adó- és vámhatóság felé bejelenti.
 

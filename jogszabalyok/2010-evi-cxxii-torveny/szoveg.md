@@ -110,7 +110,7 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 - g) az állományába tartozók részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 - h) a foglalkoztatottai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
-- i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
+- i) az informatikai rendszerek, az elektronikus ügyintézés fejlesztése érdekében, valamint az elektronikus pénztárgépek által nyújtott adatszolgáltatáshoz és az azokból származó adatok továbbításához, fogadásához, tárolásához szükséges elektronikai felület és adattár működtetéséhez gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja.
 - j) végzi a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos, feladatkörébe utalt ellenőrzési, hatósági felügyeleti feladatokat,
 - k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában,
 - l) végzi az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott feladatokat.

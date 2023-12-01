@@ -454,7 +454,7 @@ szervezhet.
 
 #### 15. Az aláírások ellenőrzése
 
-47. § (1) A szervező az aláírásgyűjtő ív mintapéldányának hitelesítési záradékkal történő ellátását követő harminc napon belül, egy alkalommal nyújthatja be a helyi népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a helyi választási bizottsághoz az aláírások ellenőrzése céljából.
+47. § (1) A szervező az aláírásgyűjtő ív mintapéldányának hitelesítési záradékkal történő ellátását követő harminc napon belül, egy alkalommal nyújthatja be a helyi népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a helyi választási irodához az aláírások ellenőrzése céljából.
 
 (2) A késedelmesen, pótlólag, valamint a nem a szervező által benyújtott aláírásgyűjtő íven szereplő aláírás érvénytelen.
 
@@ -482,7 +482,7 @@ szervezhet.
 
 (2) A választópolgár és az aláírást gyűjtő polgár adatait, valamint a technikai nyilvántartást a választási szervek és a törvényszék ellenőrizhetik.
 
-(3) A szervezőknek a be nem nyújtott aláírásgyűjtő íveket a benyújtásukra rendelkezésre álló határidő lejártát követő három napon belül meg kell semmisíteniük, és erről jegyzőkönyvet kell készíteniük. A jegyzőkönyvet három napon belül a helyi választási bizottságnak át kell adni.
+(3) A szervezőknek a be nem nyújtott aláírásgyűjtő íveket a benyújtásukra rendelkezésre álló határidő lejártát követő három napon belül meg kell semmisíteniük, és erről jegyzőkönyvet kell készíteniük. A jegyzőkönyvet három napon belül a helyi választási irodának át kell adni.
 
 (4) A benyújtott aláírásgyűjtő íveket, valamint a technikai nyilvántartást a helyi választási iroda az érvényes aláírások számának megállapítását követő harmincadik és negyvenötödik nap között megsemmisíti.
 
@@ -610,17 +610,13 @@ szervezhet.
 
 #### 24. Adatszolgáltatás a névjegyzékből
 
-70. § (1) A szavazóköri névjegyzékben szereplő választópolgárok nevét és lakcímét – a Ve. 89. § rendelkezéseire is figyelemmel – a kezdeményezés szervezői, továbbá a kezdeményezés szervezésében részt nem vevő, de országgyűlési képviselőcsoporttal rendelkező pártok kérésére a Nemzeti Választási Iroda öt napon belül, de legkorábban a népszavazás napját megelőző ötvenedik napon átadja.
+70. § (1) A Ve. 153. § szerinti adatszolgáltatást a kezdeményezés szervezői, továbbá a kezdeményezés szervezésében részt nem vevő, de országgyűlési képviselőcsoporttal rendelkező pártok igényelhetik.
 
-(2) Az adatszolgáltatás teljesítésének feltétele, hogy a kezdeményezés szervezői, illetve az országgyűlési képviselőcsoporttal rendelkező párt igazolja a kötelező legkisebb munkabér tíz havi összegének megfelelő összegű adatszolgáltatási díjnak a Nemzeti Választási Iroda számlájára történt befizetését.
+(2) Az adatszolgáltatást a Nemzeti Választási Iroda legkorábban a népszavazás napját megelőző ötvenedik, közös eljárás esetén harminchatodik napon teljesíti.
 
-(3) Közös eljárás esetén a szavazóköri névjegyzékben szereplő választópolgárok nevét és lakcímét – a Ve. 89. § rendelkezéseire is figyelemmel – a Nemzeti Választási Iroda legkorábban a népszavazás napját megelőző harminchatodik napon átadja.
+(3) A magánszemély szervező a Ve. 154. § (1) bekezdésében megjelölt adatszolgáltatási díj 25%-ának megfelelő díj befizetésére köteles.
 
-(4) Közös eljárás esetén az adatszolgáltatás teljesítésének feltétele, hogy a – magánszemély szervező kivételével – az adatszolgáltatásra jogosult igazolja a kötelező legkisebb munkabér kilencvenhárom havi összegének megfelelő összegű adatszolgáltatási díjnak a Nemzeti Választási Iroda számlájára történt befizetését.
-
-(5) A magánszemély szervező a (4) bekezdésében megjelölt adatszolgáltatási díj 25%-ának megfelelő díj befizetését köteles igazolni.
-
-(6) Az országgyűlési képviselőcsoporttal rendelkező párt a közös eljárásban a népszavazási kampányban való, Ve. 155. § (1) bekezdése szerinti részvétel céljából felhasználhatja az országos listát állító jelölő szervezetként igényelt és megkapott adatszolgáltatást.
+(4) Az országgyűlési képviselőcsoporttal rendelkező párt a közös eljárásban a népszavazási kampányban való, Ve. 155. § (1) bekezdése szerinti részvétel céljából felhasználhatja az országos listát állító jelölő szervezetként igényelt és megkapott adatszolgáltatást.
 
 #### 25. A szavazólap adattartalma
 

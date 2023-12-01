@@ -35,7 +35,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 16.
 - 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
 - 18.
-- 19. élmény- és szabadidősport, valamint egészségmegőrző program: az aktív Magyarországért felelős miniszter munkaszervezete tulajdonosi joggyakorlása alatt álló gazdasági társaság (a továbbiakban: Társaság) egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden tevékenysége, akciója, szemléletformáló kampánya vagy programja, továbbá a Társaság ezeket szolgáló beruházása;
+- 19. élmény- és szabadidősport, valamint egészségmegőrző program: az aktív Magyarországért felelős miniszter (a továbbiakban: miniszter) munkaszervezete által, annak e célt szolgáló fejezeti kezelésű előirányzatáról (a továbbiakban: előirányzat) támogatott, egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére, a lelki egészség megőrzésére irányuló minden tevékenység, akció, szemléletformáló kampány vagy program, továbbá ezeket szolgáló beruházás;
 - 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 - 21. édesítőszer: az 1333/2008/EK rendelet II. melléklet B. részének 2. Édesítőszerek felsorolásában szereplő anyagok;
 - 22.
@@ -116,14 +116,14 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (5) A rendelkező nyilatkozat az adóbevallás benyújtását követően nem módosítható és nem pótolható, késedelmesen benyújtott bevallás esetén a rendelkező nyilatkozat érvénytelen.
 
-(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult Társaságnak átutalja, feltéve, hogy az adóalany
+(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult előirányzat javára átutalja, feltéve, hogy az adóalany
 
 - a) hatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása az átutaláskor nem haladja meg a százezer forintot és
 - b) a rendelkező nyilatkozatot magában foglaló adóbevallásában fizetendő adóként megjelölt összeget határidőben megfizette.
 
 (7) Nem érinti a (6) bekezdés szerint átutalt összeget, ha a hatóság határozata vagy az adóalany önellenőrzése eredményeképpen a fizetendő adó (4) bekezdés szerinti 10%-ának megfelelő összeg módosul.
 
-(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja a Társaságot a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
+(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja a minisztert a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
 
 #### 8. Nyilvántartás-vezetési kötelezettség
 
@@ -170,11 +170,14 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 11. § A népegészségügyi termékadóból és a baleseti adóból származó bevétel az Egészségbiztosítási Alap bevételét képezi.
 
+11/A. § E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 1. § 19. pontját, valamint 8. § (6) és (8) bekezdését azokban az ügyekben is alkalmazni kell, amelyekben
+
+- a) a hatóság a rendelkező nyilatkozatban megjelölt összeget a Módtv. hatálybalépéséig még nem utalta át,
+- b) a hatóság által – a népegészségügyi termékadóról szóló 2011. évi CIII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 441/2023. (IX. 27.) Korm. rendelet (a továbbiakban: Kr.) hatálybalépését megelőzően – a kedvezményezett részére átutalt, élmény- és szabadidősport, valamint egészségmegőrző programra fel nem használt összeg a Kr. hatálybalépését követően az előirányzat javára teljesítésre került.
+
 ### II. Fejezet — BALESETI ADÓ
 
 #### 1. Az adókötelezettség, az adó alanya
-
-#### 11/A. §
 
 #### 11/B. §
 

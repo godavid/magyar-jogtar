@@ -372,9 +372,9 @@ A NAV elnöke, vagy a munkáltatói jogkör gyakorlója munkabiztonsági okból 
 
 #### 25. § [A munkáltatói jogkör gyakorlása]
 
-(1) A foglalkoztatott felett a munkáltatói jogokat a Kormány nevében – e törvény vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény eltérő rendelkezése hiányában – annak a NAV szervnek a vezetője gyakorolja, amelynek állományába a foglalkoztatott tartozik. A NAV Központi Irányítása állományába tartozó foglalkoztatott tekintetében a munkáltatói jogokat a NAV elnöke gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása vezetői munkakört betöltő foglalkoztatottra a NAV szervezeti és működési szabályzatában, illetve a foglalkoztató NAV szerv ügyrendjében, vagy egyedi ügyben írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
+(1) A foglalkoztatott felett a munkáltatói jogokat a Kormány nevében – e törvény vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény eltérő rendelkezése hiányában – annak a NAV szervnek a vezetője gyakorolja, amelynek állományába a foglalkoztatott tartozik. A NAV Központi Irányítása állományába tartozó foglalkoztatott tekintetében a munkáltatói jogokat a NAV elnöke gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása vezetői munkakört betöltő foglalkoztatottra a NAV szervezeti és működési szabályzatában vagy foglalkoztatási szabályzatában, illetve a foglalkoztató NAV szerv ügyrendjében, vagy egyedi ügyben írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
 
-(2) A NAV elnöke bármely foglalkoztatott esetében magához vonhatja a munkáltatói jogkört, vagy annak egy részét. A munkáltatói jogkör elvonásáról az eredeti munkáltatói jogkör gyakorlóját és a foglalkoztatottat értesíteni kell.
+(2) A NAV elnöke bármely foglalkoztatott esetében magához vonhatja a munkáltatói jogkört, vagy annak egy részét. A munkáltatói jogkör elvonásáról az eredeti munkáltatói jogkör gyakorlóját és a foglalkoztatottat – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 72/B. § (3) bekezdése szerinti felülvizsgálati eljárás kezdeményezésének kivételével – értesíteni kell.
 
 (3) Ha a munkáltatói jogkört nem az arra jogosított személy gyakorolta, eljárása érvénytelen, kivéve, ha a munkáltatói jogkör gyakorlója a jognyilatkozatot annak kiadása után hat hónapon belül, vagy az érvénytelenségre irányuló észrevétel munkáltatói jogkör gyakorlója általi tudomásul vételétől számított harminc napon belül írásban jóváhagyta.
 
@@ -413,7 +413,7 @@ létesíthető.
 
 (2) Nem érinti a pénzügyőri státuszú foglalkoztatott szolgálati jogviszonyának státuszát, ha a szolgálati jogviszony fennállása alatt tisztviselői munkakörbe kerül áthelyezésre. A pénzügyőri státuszú foglalkoztatott szolgálati jogviszonya kizárólag kérelemre, vagy a foglalkoztatott hozzájárulásával módosítható tisztviselői státuszú szolgálati jogviszonyra.
 
-(3) A tisztviselői munkakört betöltő pénzügyőri státuszú foglalkoztatott rendfokozat és társasági egyenruha viselésére jogosult, egyebekben – e törvény eltérő rendelkezése hiányában – rá a tisztviselőkre irányadó szabályok vonatkoznak.
+(3) A tisztviselői munkakört betöltő pénzügyőri státuszú foglalkoztatott rendfokozat és a szolgálati egyenruha kivételével egyenruha viselésére jogosult, egyebekben – e törvény eltérő rendelkezése hiányában – rá a tisztviselőkre irányadó szabályok vonatkoznak.
 
 (4) A tisztviselői munkakört betöltő pénzügyőri státuszú foglalkoztatott akkor helyezhető ismételten pénzügyőri munkakörbe, ha megfelel a pénzügyőr kinevezése tekintetében a 33. §-ban meghatározott feltételeknek, ide nem értve a 33. § (1) bekezdés a) pontja szerinti feltételt.
 
@@ -1321,6 +1321,8 @@ időtartama alatt.
 (1) A foglalkoztatott jogviszonya megszüntetésekor, illetve megszűnésekor a feladataival kapcsolatos iratait köteles átadni és a foglalkoztató NAV szervvel elszámolni. Az átadás-átvétel és az elszámolás feltételeit a munkáltatói jogkör gyakorlója köteles biztosítani.
 
 (2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a foglalkoztatott részére ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+
+(2a) Ha a szolgálati jogviszonyt a foglalkoztatott a 67. § d) pontja alapján az igazgatási szünet alatt szünteti meg, a jogviszony megszüntetésével kapcsolatos munkáltatói intézkedéseket az igazgatási szünetet követő első munkanapon kell megtenni.
 
 (3) A foglalkoztatott részére a (2) bekezdés szerint kiadandó igazolás tartalmazza
 
@@ -2351,7 +2353,13 @@ A magasabb besorolású munkakörbe – a munkáltatói jogkör gyakorlójának 
 
 (3) Ha a pénzügyőri státuszra kinevezett személy már viselt pénzügyőri rendfokozatot, akkor az első rendfokozatát a régi rendfokozata szerint kell megállapítani, ha az magasabb, mint a (2) bekezdés alapján megállapított rendfokozat.
 
-(4) Ha a II. besorolási osztályba tartozó munkakört betöltő pénzügyőri státuszú foglalkoztatott I. besorolási osztályba tartozó munkakörbe kerül kinevezésre, az első tiszti rendfokozatának megállapításakor a tiszthelyettesi és zászlósi rendfokozatban eltöltött tényleges szolgálati idejének az 50%-át kell figyelembe venni.
+(4) Ha a II. besorolási osztályba tartozó munkakört betöltő pénzügyőri státuszú foglalkoztatott I. besorolási osztályba tartozó munkakörbe kerül kinevezésre, az első tiszti rendfokozatának megállapításakor a tiszthelyettesi és zászlósi rendfokozatban eltöltött tényleges szolgálati idejének az 50%-át kell figyelembe venni. Ha a Hszt. hatálya alá tartozó szerv hivatásos állományába, vagy a Magyar Honvédség állományába tartozó tiszthelyettesi vagy zászlósi rendfokozati állománycsoportba, vagy rendfokozati csoportba tartozó személyt áthelyezéssel az I. besorolási osztályba tartozó pénzügyőri munkakörbe nevezik ki, az első rendfokozatának megállapításakor a tiszthelyettesi és zászlósi rendfokozatban eltöltött tényleges szolgálati idejének az 50%-át kell figyelembe venni.
+
+(5) Ha a pénzügyőri státuszra kinevezett személy adó- és vámhatósági szolgálati jogviszonya a Hszt. hatálya alá tartozó szerv, vagy a Magyar Honvédség állományából áthelyezéssel jött létre, első rendfokozatként a közvetlenül az áthelyezés előtt viselt rendfokozatot kell meghatározni feltéve, ha az magasabb, mint a (2) bekezdés szabályai szerint meghatározott rendfokozat.
+
+(6) Az (5) bekezdés rendelkezései nem alkalmazhatók a II. besorolási osztályba tartozó munkakörbe kinevezés esetén, ha a viselt rendfokozat közvetlenül az áthelyezés előtt hadnagy, vagy magasabb rendfokozat volt.
+
+(7) Az (5) bekezdés rendelkezéseinek alkalmazása esetén a 131. § (2) bekezdés szerinti soron következő rendfokozatra előírt várakozási időbe a közvetlenül az áthelyezés előtt viselt rendfokozatban eltöltött tényleges idő 50%-át, de legfeljebb négy évet kell beszámítani.
 
 #### 136. § [Rendfokozatban soron történő előmenetel]
 
@@ -3282,6 +3290,10 @@ kell – az avulásra is tekintettel – figyelembe venni.
 (2) Ha a tényállás megítélése egyszerű és a kár összege ismert a munkáltatói jogkör gyakorlója kártérítési eljárás megindítása nélkül (egyszerűsített eljárásban) – az adott károkozás meghatározása és a kártérítés összegének közlése mellett – értesítésben a károkozót fizetésre szólítja fel.
 
 (3) Ha a foglalkoztatott szolgálati jogviszonya megszűnik vagy megszüntetésre kerül, a NAV a kártérítési felelősség megállapítása érdekében közvetlenül bírósághoz fordulhat. A leltárhiányért fennálló felelősség megállapítása érdekében ilyenkor a 202. § (8) bekezdésben meghatározott határidőn belül lehet bírósághoz fordulni.
+
+(4) Ha a tényállás megítélése egyszerű, és a kár összege ismert, a munkáltatói jogkör gyakorlója – a 206. § (1) bekezdése szerinti – körülményekre tekintettel mellőzheti a kártérítési eljárás lefolytatását.
+
+(5) Ha a foglalkoztatott a munkaköri feladatainak ellátása érdekében szolgálati gépjárművet vezet, és a gépjármű vezetésekor gondatlanul kárt okoz – kivéve, ha a 201. § (1) bekezdése szerinti vétkességtől független kártérítési felelősség áll fenn –, a munkáltatói jogkör gyakorlója a foglalkoztatottat legfeljebb a havi illetménye összegének 30%-áig kötelezheti a kár megfizetésére.
 
 #### 206. § [Kártérítés alóli mentesítés]
 
