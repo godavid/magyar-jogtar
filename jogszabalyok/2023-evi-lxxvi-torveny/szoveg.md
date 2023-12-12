@@ -52,23 +52,48 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs és 
 
 #### 4. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-#### 21. §
+21. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB tv.) 2. § h) pontja helyébe a következő rendelkezés lép:
 
-22. § (1)
+(Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen)
 
-(2)
+„h) az európai uniós források, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában, vissza nem térítendő támogatás nyújtásában;”
+
+22. § (1) Az MFB tv. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott forrásokból finanszírozott programokhoz kapcsolódó feladatokat láthat el, így különösen:
+
+- a) támogatott pályázatok kezelését;
+- b) döntés-előkészítést;
+- c) pénzügyi lebonyolítást;
+- d) monitoring végzését;
+- e) a forrásfelhasználás és a támogatott cél megvalósításának vizsgálatát;
+- f) visszatérítendő, valamint vissza nem térítendő európai uniós források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
+- g) tanácsadást; valamint
+- h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.”
+
+(2) Az MFB tv. 3. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A (3) bekezdésben meghatározott forrásokkal kapcsolatos feladatkörében az MFB Zrt. jár el a bírósági és a hatósági eljárásokban a visszafizetési kötelezettséggel kihelyezett források behajtása érdekében, ideértve a követelések és a biztosítékok érvényesítését is.”
 
 (3)
 
-(4)
+(4) Az MFB tv. 3. §-a a következő (15) bekezdéssel egészül ki:
 
-23. § (1)
+„(15) Az MFB Zrt. veszteségmérséklés céljából pénzügyi intézménytől hitelállományt vehet át és követelést vásárolhat.”
+
+23. § (1) Az MFB tv. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását a miniszterrel egyeztetve, az államháztartásért felelős miniszter egyidejű tájékoztatása mellett végzi.”
 
 (2)
 
-#### 24. §
+24. § Az MFB tv. 8. § (1b) bekezdése helyébe a következő rendelkezés lép:
 
-#### 25. §
+„(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt, és amelyek a befektetési alapra, az alapkezelőre, az alapkezelők keresztkapcsolataira, vagy a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre tekintettel képeznének egyetlen kockázati tényezőt.”
+
+25. § Az MFB tv. 13/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) E § rendelkezéseit az 1. mellékletben szereplő pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az 1. mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.”
 
 #### 5.
 
