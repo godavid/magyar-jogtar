@@ -12,6 +12,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 - a) egyedi ügy: a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet jogát vagy kötelezettségét, jogos érdekét vagy jogi helyzetét érintő vagy eldöntő bírósági eljárás,
 - b) bíró: a bíró, valamint a bírósági titkár, ha törvény rendelkezése alapján az egyesbíró hatáskörében bírósági titkár eljárhat.
+- c) Európai Unió Bírósága: az Európai Unióról szóló szerződés szerinti Bíróság, Törvényszék és különös hatáskörű törvényszékek.
 
 #### 2. Az Alkotmánybíróság jogállása
 
@@ -55,7 +56,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 #### 10/A. §
 
-11. § (1) Az Alkotmánybíróság tagja a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+11. § (1) Az Alkotmánybíróság tagja a megválasztását követő 30 napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) Az Alkotmánybíróság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az Alkotmánybíróság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
@@ -382,6 +383,22 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (2) Ha a konkrét alkotmányjogi probléma állami szerv jogállásával, működésével, vagy feladat- és hatáskörével összefüggésben merül fel, az Alkotmánybíróság az Alaptörvény rendelkezésének értelmezését az (1) bekezdés alapján akkor végzi, ha az alkotmányjogi probléma az Alaptörvénnyel összhangban történő működést, illetve feladat- és hatáskörgyakorlást ellehetetleníti, illetve az értelmezési bizonytalanság a jogbiztonságot veszélyezteti.
 
+#### 16/A. Előzetes európai uniós értelmező véleményről szóló döntés
+
+38/A. § Az Alkotmánybíróság az Európai Unió Bírósága megkeresésére és az uniós alapító szerződésekben biztosított hatáskörének tiszteletben tartása mellett Magyarország
+
+- a) alkotmányos berendezkedése, ideértve az alapvető állami funkciói – köztük az állam területi integritásának biztosítása, a közrend fenntartása és a nemzeti biztonság védelme –,
+- b) alkotmányos
+  - ba) rendje,
+  - bb) követelményei, és
+  - bc) hagyományai,
+- c) nemzeti identitása,
+- d) szuverenitása,
+- e) népességére vonatkozó elidegeníthetetlen rendelkezési joga,
+- f) Alaptörvényében védett alapvető jogok és szabadságok, valamint emberi méltóság
+
+értelmezésére vonatkozóan előzetes véleményt nyilvánít az Alaptörvénnyel való összhang szempontjából, ha az Európai Unió Bírósága előtt folyamatban lévő ügyben történő döntéshozatallal összefüggésben felmerül ezen kérdések érintettsége, és az értelmezés közvetlenül levezethető az Alaptörvényből.
+
 #### 17. Az Alkotmánybíróság határozatainak jogkövetkezményei
 
 39. § (1) Ha e törvény eltérően nem rendelkezik, az Alkotmánybíróság döntése mindenkire nézve kötelező.
@@ -420,7 +437,7 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (4) Az Alkotmánybíróság a bírói döntés megsemmisítése esetén megsemmisítheti a döntéssel felülvizsgált más bírósági vagy hatósági döntéseket is.
 
-44. § (1) Az Alkotmánybíróságnak az Alaptörvény, az Alaptörvény módosítása és a jogszabály megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának vagy végzésének a Magyar Közlönyben való közzétételét is. Az Alkotmánybíróság határozatait és végzéseit az Alkotmánybíróság Határozatai hivatalos lapban is közzé kell tenni.
+44. § (1) Az Alkotmánybíróságnak az Alaptörvény, az Alaptörvény módosítása és a jogszabály megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről, továbbá az előzetes európai uniós értelmező véleményéről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának vagy végzésének a Magyar Közlönyben való közzétételét is. Az Alkotmánybíróság határozatait és végzéseit az Alkotmánybíróság Határozatai hivatalos lapban is közzé kell tenni.
 
 (2) Az Alkotmánybíróság határozatai az Alkotmánybíróság Hivatalának honlapján digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, díjmentesen hozzáférhetőek. A határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló törvény bírósági határozatok nyilvánosságára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
