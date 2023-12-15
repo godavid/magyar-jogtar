@@ -4,40 +4,15 @@ az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságán
 
 #### 1. Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény módosítása
 
-1. § Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 19. § (1) bekezdésében a „harminc” szövegrész helyébe a „30” szöveg lép.
+#### 1. §
 
 #### 2. Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása
 
-2. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 1. §-a a következő c) ponttal egészül ki:
+#### 2. §
 
-(E törvény alkalmazásában)
+#### 3. §
 
-„c) Európai Unió Bírósága: az Európai Unióról szóló szerződés szerinti Bíróság, Törvényszék és különös hatáskörű törvényszékek.”
-
-3. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény a következő 16/A. alcímmel egészül ki:
-
-#### „16/A. Előzetes európai uniós értelmező véleményről szóló döntés
-
-38/A. § Az Alkotmánybíróság az Európai Unió Bírósága megkeresésére és az uniós alapító szerződésekben biztosított hatáskörének tiszteletben tartása mellett Magyarország
-
-- a) alkotmányos berendezkedése, ideértve az alapvető állami funkciói – köztük az állam területi integritásának biztosítása, a közrend fenntartása és a nemzeti biztonság védelme –,
-- b) alkotmányos
-  - ba) rendje,
-  - bb) követelményei, és
-  - bc) hagyományai,
-- c) nemzeti identitása,
-- d) szuverenitása,
-- e) népességére vonatkozó elidegeníthetetlen rendelkezési joga,
-- f) Alaptörvényében védett alapvető jogok és szabadságok, valamint emberi méltóság
-
-értelmezésére vonatkozóan előzetes véleményt nyilvánít az Alaptörvénnyel való összhang szempontjából, ha az Európai Unió Bírósága előtt folyamatban lévő ügyben történő döntéshozatallal összefüggésben felmerül ezen kérdések érintettsége, és az értelmezés közvetlenül levezethető az Alaptörvényből.”
-
-4. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 11. § (1) bekezdésében
-
-- a) a „harminc” szövegrész helyébe a „30” szöveg,
-- b) 44. § (1) bekezdésében az „értelmezéséről szóló” szövegrész helyébe az „értelmezéséről, továbbá az előzetes európai uniós értelmező véleményéről szóló” szöveg
-
-lép.
+#### 4. §
 
 #### 3. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
@@ -111,7 +86,7 @@ lép.
 
 #### 8. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-34. § A büntetőeljárásról szóló 2017. évi XC. törvény 817/F. § (1) bekezdésében az „iratokat,” szövegrész helyébe az „iratokat és” szöveg lép.
+#### 34. §
 
 #### 35. §
 
@@ -173,12 +148,7 @@ lép.
 
 #### 14. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
-55. § Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény
-
-- a) 7/A. § (2) bekezdésében az „(1) bekezdés szerinti” szövegrész helyébe az „(1) bekezdésben foglalt” szöveg,
-- b) 2. mellékletében foglalt táblázat D:74 mezőjében az „udvar” szövegrész helyébe az „és udvar” szöveg
-
-lép.
+#### 55. §
 
 #### 15.
 
