@@ -64,6 +64,10 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 3/I. § A 4. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
 
+3/J. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása, továbbá ehhez kapcsolódóan a ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: ZalaZONE Zrt.) részére nem pénzbeli vagyoni hozzájárulásként történő tulajdonátruházás érdekében – az 5. mellékletben meghatározott ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek azzal, hogy az Alapítvány az 5. mellékletben meghatározott ingatlanokat a ZalaZONE Zrt. részére, a társasági részesedésének megszerzését követő 60 napon belül tőkeemeléssel tulajdonba adja.
+
+3/K. § Az 5. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 4. § (1) Az Nvtv. 13. § (3) bekezdésében valamint a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
@@ -78,11 +82,11 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 (6) Az 1. mellékletben meghatározott ingatlan, ingatlan tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
-4/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló, Győr belterület 3899/4, Vitnyéd belterület 0325/5 és 0325/8 helyrajzi számú állami tulajdonban álló ingatlanokat az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok elősegítése érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+4/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló, Győr belterület 3899/4, Vitnyéd külterület 0325/5 és 0325/8 helyrajzi számú állami tulajdonban álló ingatlanokat az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok elősegítése érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
 
-(2) Az (1) bekezdés szerinti ingatlan tulajdonjogát az Alapítvány terhekkel és kötelezettségekkel együtt szerzi meg.
+(2) Az (1) bekezdés szerinti ingatlanok tulajdonjogát az Alapítvány terhekkel és kötelezettségekkel együtt szerzi meg.
 
-(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a meghatározott közfeladatok ellátására rendelkezésre álló, a vagyonkezelő központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
 4/B. § (1) A 4/A. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg az Egyetemmel.
 
@@ -112,7 +116,7 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 10. § A 3/A. §, a 3/C. §, a 3/D. §, az 5. § (2) bekezdése, az 1. melléklet 6a., 59–61. sora, a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-11. § A 3/G. §, a 3/H. §, a 4/A. §, az 1. melléklet 63–65. sora és a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+11. § A 3/G. §, a 3/H. §, a 3/J. §, a 4/A. §, az 1. melléklet 63–65. sora, a 4. és az 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXVIII. törvényhez
 
@@ -216,3 +220,13 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 | --- | --- | --- | --- | --- |
 | 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
 | 2 | PÉR | 052/2 | 1/2 | kivett repülőtér |
+
+### 5. melléklet a 2020. évi XXXVIII. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő ingatlanok a ZalaZONE Zrt. tőkeemelése érdekében
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 2 | ZALAEGERSZEG | külterület 0829/15 | 1/1 | kivett beruházási célterület |
+| 3 | EGERVÁR | külterület 02030 | 1/1 | kivett beruházási célterület |

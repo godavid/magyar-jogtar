@@ -46,7 +46,7 @@ A Budapesti Gazdasági Egyetem stratégiai céljainak, a Közép-Európa vezető
 
 (7) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
-(8) A Budapest belterület 31905/11 helyrajzi számú ingatlant az ingatlanon folyamatban lévő beruházás megvalósulását követően – az (1)–(7) bekezdés, valamint a 6. § alkalmazásával – ingyenesen az Egyetem tulajdonába kell adni.
+(8) A Budapest belterület 31905/11 helyrajzi számú ingatlant és az ingatlanon folyamatban lévő beruházás során beszerzésre kerülő ingóságokat a beruházás megvalósulását követően – az (1)–(7) bekezdés, valamint a 6. § alkalmazásával – ingyenesen az Egyetem tulajdonába kell adni.
 
 6. § Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
@@ -58,7 +58,7 @@ A Budapesti Gazdasági Egyetem stratégiai céljainak, a Közép-Európa vezető
 
 8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (5), (7) és (8) bekezdése, a 6. §, a 9. §, valamint az 1. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. §
+#### 9. §
 
 ### 1. melléklet a 2021. évi X. törvényhez
 
