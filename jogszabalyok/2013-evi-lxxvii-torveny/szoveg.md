@@ -70,12 +70,13 @@ szervez.
 
 (2) Ha a felnőttképző
 
-- a) a szakképzésről szóló törvény szerinti szakmai képzést vagy – nem szakképző intézményként – részszakmára felkészítő szakmai oktatást vagy
-- b) – a belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést
+- a) a szakképzésről szóló törvény szerinti szakmai képzést vagy – nem szakképző intézményként – részszakmára felkészítő szakmai oktatást,
+- b) – a belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést, vagy
+- c) mikrotanúsítványt adó képzést
 
 szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti engedély alapján végezheti.
 
-(3) A szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységet engedély nélkül is végezhet.
+(3) A szakképző intézmény és a felsőoktatási intézmény a (2) bekezdés szerinti felnőttképzési tevékenységeket engedély nélkül is végezhet.
 
 2/B. § (1) A 2/A. § (2) bekezdése szerinti felnőttképzési tevékenység folytatására engedély annak adható,
 
@@ -249,6 +250,8 @@ kell folytatnia,
 13/B. § (1) A belső képzés kivételével a felnőttképző a képzés elvégzésének igazolására a felnőttképzés adatszolgáltatási rendszerében tanúsítványt állít ki és azt a képzésben részt vevő személy választása szerint elektronikus úton vagy papíralapon a képzésben részt vevő személy rendelkezésére bocsátja. A bejelentéshez kötött felnőttképzési tevékenység esetén – ide nem értve a szakképző intézmény 2/A. § (3) bekezdés szerinti felnőttképzési tevékenységét – a tanúsítványt a képzésben részt vevő személy kérésére kell kiállítani.
 
 (2) A tanúsítvány, ha a képzéshez jogszabályban meghatározottak szerint vizsga kapcsolódik, a vizsgára jelentkezés feltétele.
+
+(3) A tanúsítványt magyar és angol nyelven, vagy magyar és német nyelven kell kiállítani a képzésben résztvevő választása szerint.
 
 13/C. § (1) A nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény a felsőoktatási intézmény bármely tantárgyának, kurzusának, moduljának elvégzését követően a tanulási eredmény igazolására szolgáló, tárgyleírást, tematikát is tartalmazó mikrotanúsítványt állíthat ki a nemzeti felsőoktatásról szóló törvényben meghatározott feltételek alapján.
 
