@@ -79,6 +79,8 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (7a) Az adóhatóság a szervezetet abban az esetben is törli a nyilvántartásból, ha a szervezet a (6) bekezdés szerinti kiutaláshoz szükséges adatokra vonatkozó bejelentési kötelezettségének hiánypótlásra történő felszólítás ellenére sem tesz eleget.
 
+(7b) Az adóhatóság a szervezetet abban az esetben is törli a nyilvántartásból, ha a szervezet – az Állami Számvevőszék megállapítása szerint – megsértette a választási eljárásról szóló 2013. évi XXXVI. törvény 307/D. § (4) bekezdésében foglaltakat.
+
 (8) Az adóhatóság minden év január 1-jén a honlapján teszi közzé az adott rendelkező évben felajánlásra jogosult kedvezményezettek adószámát, nevét, székhelyét. A közzétett listát az adóhatóság a (7) bekezdés szerinti bejelentések alapján folyamatosan frissíti. Az adóhatóság biztosítja a közzétett listát tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére a Civil Információs Portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 
 (9) Köztartozás fennállása esetén az adóhatóság az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései alapján intézkedik a kedvezményezett javára felajánlott adóösszegnek az általa nyilvántartott köztartozásra történő átvezetéséről. A kedvezményezett részére a köztartozások kiegyenlítését követően fennmaradó összeg utalható.

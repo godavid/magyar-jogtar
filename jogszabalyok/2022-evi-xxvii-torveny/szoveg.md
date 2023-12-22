@@ -103,11 +103,13 @@ a) a köztársasági elnök,
 
 b) az országgyűlési képviselő, a nemzetiségi szószóló és az Országgyűlés háznagya,
 
-c) a bíró és
+c) a bíró,
 
-d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető
+d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető és
 
-vagyonnyilatkozatával kapcsolatban jogosult az a)–d) pontokban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
+e) a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese
+
+vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.
 
 (7) A Hatóság az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) 14. § (1) bekezdés b) pontja szerint bejelentésével kezdeményezheti a Vnytv. szerinti ellenőrzési eljárást azzal a személlyel szemben, akinek vagyonnyilatkozat-tételi kötelezettségét az európai uniós források tekintetében fennálló javaslattételi, döntési vagy ellenőrzési jogosultsága alapozza meg. A Vnytv. szerinti ellenőrzési eljárás eredményéről – ennek keretében különösen a vagyongyarapodási vizsgálat kezdeményezéséről – a Hatóságot tájékoztatni kell.
 
@@ -817,6 +819,7 @@ sarkalatosnak minősül.
 - a) a) pontja az Alaptörvény 12. cikk (5) bekezdése alapján,
 - b) b) pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján,
 - c) c) pontja az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján
+- d) e) pontja az Alaptörvény R) cikk (4) bekezdése alapján
 
 sarkalatosnak minősül.
 

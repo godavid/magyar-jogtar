@@ -216,6 +216,8 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - e) a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Kormány, valamint a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport részére tájékoztató tevékenységet folytat;
 - f) az általa kezelt adatok elemzésének eredményeként személyazonosításra alkalmatlan statisztikai adatok szolgáltatásával segítséget nyújt a biztonsági és bűnügyi kérdésekkel kapcsolatos kormányzati döntések meghozatalához.
 
+(2a) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.
+
 (3) A Nemzeti Információs Központ támogató, koordinációs elemző-értékelő tevékenység során
 
 - a) elemző, tájékoztató és koordinációs tevékenysége kiterjed

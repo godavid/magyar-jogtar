@@ -257,6 +257,8 @@ biztonsági feltételeket.
 - h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - i) az Állami Számvevőszék elnöke nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
 
+(3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat, illetve felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.
+
 (4) A minősített adatot kezelő szerv vezetője, valamint a biztonsági vezető felhasználói engedély nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó – a 18. §-ban meghatározott – rendelkezési jogosultságok gyakorlására.
 
 (5) A bírót – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül megilleti az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges rendelkezési jogosultságok gyakorlása.
