@@ -62,6 +62,7 @@ ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette
 - 13. település: a község, a város, járásszékhely város, megyei jogú város és a fővárosi kerület,
 - 14. települési szintű lakóhely: olyan lakóhely, amely esetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartás a bejelentett település neve mellett a „lakcím nélküli” bejegyzést tartalmazza,
 - 15. választási szerv: a választási bizottság és a választási iroda.
+- 16. külföldi támogatás: más államtól, külföldi természetes vagy jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó vagyoni hozzájárulás.
 
 (2)
 
@@ -427,13 +428,13 @@ tart.
 (3) A területi választási bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság
 
 - a) választott tagjának megbízatása a következő általános választásra megválasztott választási bizottság alakuló üléséig,
-- b) megbízott tagjának megbízatása a 28. §-ban megjelölt, a megbízás jogalapját képező jelöléshez, listaállításhoz kapcsolódó választás eredményének jogerőssé válásáig
+- b) megbízott tagjának megbízatása valamennyi – a 28. § (1)–(3) bekezdése és a 333. § (2) bekezdése szerint az adott választási bizottságba történő megbízás jogalapjaként figyelembe vehető jelöléshez, listaállításhoz kapcsolódó – választás eredményének jogerőssé válásáig
 
 tart.
 
 (4) A szavazatszámláló bizottságok választott tagjainak megbízatása a következő általános választásra megválasztott szavazatszámláló bizottsági tagok megválasztásáig tart.
 
-(5) A szavazatszámláló bizottság megbízott tagjának megbízatása a 28. §-ban megjelölt, a megbízás jogalapját képező jelöléshez, listaállításhoz kapcsolódó választás eredményének jogerőssé válásáig tart.
+(5) A szavazatszámláló bizottság megbízott tagjának megbízatása valamennyi – a 28. § (4) bekezdése szerint az adott szavazatszámláló bizottságba történő megbízás jogalapjaként figyelembe vehető jelöléshez, listaállításhoz kapcsolódó – választás eredményének jogerőssé válásáig tart.
 
 34. § (1) A választási bizottság tagjának megbízatása a 33. §-ban foglaltakon túl megszűnik:
 
@@ -1346,6 +1347,14 @@ kell benyújtani.
 
 124. § (1) A jelöltet az ajánlóívek átadásával kell bejelenteni a nyilvántartásba vételére illetékes választási bizottságnál.
 
+(1a) A jelölt bejelentésekor a jelöltnek nyilatkoznia kell arról, hogy megfelel a jelöltekkel szemben az (1b) bekezdésben támasztott követelménynek, és arról, hogy a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használ fel. A választási bizottság azt a jelöltet veszi nyilvántartásba, aki e nyilatkozatot megtette.
+
+(1b) A jelöltkénti nyilvántartásba vételét kérő, illetve a nyilvántartásba vett jelölt a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használhat fel. Az e bekezdésben foglaltakat jogszabálysértés gyanúja esetén az Állami Számvevőszék ellenőrzi.
+
+(1c) Ha a jelölt nyilvántartásba vételét követően az Állami Számvevőszék megállapítja, hogy a jelölt megsértette az (1b) bekezdésben foglaltakat, akkor köteles a jelölt a támogatás kétszeresét az Állami Számvevőszék felhívására tizenöt napon belül a központi költségvetés részére befizetni.
+
+(1d) Ha a jelölt az (1c) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, a tartozást az állami adóhatóság az Állami Számvevőszék megkeresésére adók módjára hajtja be.
+
 (2) A független jelöltként indulni szándékozó választópolgár, illetve a jelöltet állítani szándékozó jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet köteles átadni a választási irodának a jelölt bejelentésére rendelkezésre álló határidőben. E kötelezettség elmulasztása esetén a jelölt nyilvántartásba vételére illetékes választási bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott ajánlóív után ezer forint.
 
 (3) Nem szabható ki bírság a legkésőbb a (2) bekezdés szerinti határidő elteltét követő napon benyújtott, ajánlást nem tartalmazó ajánlóív után.
@@ -1393,7 +1402,7 @@ kell benyújtani.
 
 - a) a jelölést elfogadja,
 - b) nincs olyan tisztsége, amely összeférhetetlen a képviselői megbízatással, illetve megválasztása esetén az összeférhetetlenséget megszünteti,
-- c)
+- c) a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használ fel.
 
 (2) A listán legfeljebb háromszor annyi jelölt állítható, mint a listán megszerezhető mandátumok száma. A listán szereplő jelöltek sorrendjét a jelölő szervezet határozza meg.
 
@@ -2789,11 +2798,21 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 #### 138/C. A jelölő szervezet bejelentése
 
-307/D. § (1) A jelölő szervezetet a területi választási bizottság vagy a Nemzeti Választási Bizottság – amelynél a jelölő szervezetet bejelentették – veszi nyilvántartásba.
+307/D. § (1) A jelölő szervezetet a területi választási bizottság vagy a Nemzeti Választási Bizottság − amelynél a jelölő szervezetet bejelentették − veszi nyilvántartásba.
 
 (2) Időközi választáson a jelölt, illetve lista nyilvántartásba vételére illetékes választási bizottság veszi nyilvántartásba a jelölő szervezetet.
 
-(3) A nemzetiségi szervezet bejelentésekor a szervezetnek nyilatkoznia kell arról, hogy a szervezet megfelel a nemzetiségi szervezettel szemben a nemzetiségek jogairól szóló törvényben támasztott követelményeknek.
+(3) Az egyesület bejelentésekor az egyesületnek nyilatkoznia kell arról, hogy megfelel az egyesületekkel szemben a (4) bekezdésben támasztott követelménynek, és arról, hogy a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást és belföldi jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó támogatást, névtelen adományt vagy ezekből származó vagyonelemet az adott választás vonatkozásában nem használ fel. A választási bizottság azt az egyesületet veszi nyilvántartásba jelölő szervezetként, amely e nyilatkozatot megtette.
+
+(4) A jelölő szervezetkénti nyilvántartásba vételét kérő, illetve a nyilvántartásba vett egyesület a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást és belföldi jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó támogatást, névtelen adományt vagy ezekből származó vagyonelemet az adott választás vonatkozásában nem használhat fel. Az e bekezdésben foglaltakat jogszabálysértés gyanúja esetén az Állami Számvevőszék ellenőrzi.
+
+(5) Ha az egyesület jelölő szervezetként való nyilvántartásba vételét követően az Állami Számvevőszék megállapítja, hogy az egyesület megsértette a (4) bekezdésben foglaltakat, akkor az egyesület köteles a támogatás kétszeresét az Állami Számvevőszék felhívására tizenöt napon belül a központi költségvetés részére befizetni.
+
+(6) Ha az egyesület a (4) bekezdésben foglaltakat megsérti, az Állami Számvevőszék e tényről tájékoztatja az adóhatóságot, illetve közhasznú jogállású egyesület esetén az egyesületet nyilvántartásba vevő bíróságot.
+
+(7) Ha az egyesület az (5) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, a tartozást az állami adóhatóság az Állami Számvevőszék megkeresésére adók módjára hajtja be.
+
+(8) A nemzetiségi szervezet bejelentésekor a szervezetnek nyilatkoznia kell arról, hogy a szervezet megfelel a nemzetiségi szervezettel szemben a nemzetiségek jogairól szóló törvényben támasztott követelményeknek.
 
 #### 138/D. A jelölt- és listaállításhoz szükséges ajánlások számának megállapítása
 
@@ -2832,7 +2851,7 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 (2) A kompenzációs listát a helyi választási bizottság, a vármegyei listát, illetve a fővárosi kompenzációs listát a területi választási bizottság veszi nyilvántartásba.
 
-(3) A listán állított jelölt bejelentésének tartalmaznia kell a 120. § (3) bekezdés a) és b) pontja szerinti adatokat és nyilatkozatokat. A 307/F. § (1) és (2) bekezdésének, valamint a 307/H. § rendelkezéseit a listán állított jelöltekre is alkalmazni kell.
+(3) A 307/F. § (1) és (2) bekezdésének, valamint a 307/H. § rendelkezéseit a listán állított jelöltekre is alkalmazni kell.
 
 (4) A kompenzációs listára, a fővárosi kompenzációs listára és a nemzetiségi kompenzációs listára a 129. § (4) bekezdésének rendelkezéseit nem kell alkalmazni.
 
@@ -3172,7 +3191,7 @@ ingyenesen átadja a jelölő szervezet számára a névjegyzékben a nemzetisé
 
 (3a) A magyarországi lakcímmel nem rendelkező választópolgár az ajánlóívre a személyi azonosítója és a lakcíme helyett a személyazonosságát igazoló hatósági igazolványa számát és a születési idejét is rávezetheti.
 
-(4) A listán állított jelölt bejelentésének tartalmaznia kell a 120. § (3) bekezdése szerinti adatokat és nyilatkozatokat.
+(4)
 
 339. § (1) Az Európai Unió más tagállama állampolgárának jelöltként történő bejelentéséhez csatolni kell a jelölt nyilatkozatát, amely tartalmazza
 
