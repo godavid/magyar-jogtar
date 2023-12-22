@@ -536,6 +536,8 @@ ismételten életfogytig tartó szabadságvesztés büntetésre ítélik.
 
 (4) A kiskorú veszélyeztetése bűncselekmény elkövetőjét el kell tiltani bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll. Különös méltánylást érdemlő esetben a foglalkozástól eltiltás kötelező alkalmazása mellőzhető.
 
+(5) A választói akarat tiltott befolyásolása bűncselekmény elkövetőjét el kell tiltani attól, hogy bármely civil szervezetben felelős személy és pártban vezető tisztségviselő legyen. Különös méltánylást érdemlő esetben a foglalkozástól eltiltás kötelező alkalmazása mellőzhető.
+
 53. § (1) A foglalkozástól eltiltás határozott ideig tart, vagy végleges hatályú.
 
 (2) A határozott ideig tartó eltiltás legrövidebb tartama egy év, leghosszabb tartama tíz év. Végleges hatállyal az tiltható el, aki a foglalkozás gyakorlására alkalmatlan vagy arra méltatlan.
@@ -4542,6 +4544,10 @@ bűntettet követ el és három évig terjedő szabadságvesztéssel büntetend�
 
 (2)
 
+### Választói akarat tiltott befolyásolása
+
+350/A. § A választási eljárásról szóló törvény szerinti jelölő szervezet azon tagja, felelős személye vagy vezető tisztségviselője, valamint a választási eljárásról szóló törvény szerinti jelölt, aki tiltott külföldi támogatást, vagy e tilalom kijátszása érdekében a tiltott külföldi támogatás eredetét leplező megállapodásból származó vagyoni előnyt használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
 ### Egyesülési joggal visszaélés
 
 351. § (1) Aki a bíróság által feloszlatott egyesület vezetésében részt vesz, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
@@ -6371,6 +6377,8 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
 - 35. humanitárius művelet: a fogadó ország beleegyezésével vagy erre jogosult nemzetközi szervezet felhatalmazásával a Honvédség érdemi közreműködésével folytatott segítő tevékenység, amely a fegyveres konfliktus, a természeti vagy civilizációs katasztrófa által okozott olyan helyzet elhárítására és következményeinek csökkentésére irányul, amely emberek életét, egészségét, anyagi értékeit, alapvető ellátását, a természeti környezetet súlyos mértékben veszélyezteti, károsítja;
 - 36. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében.
+- 37. tiltott külföldi támogatás: olyan külföldről származó támogatás, amelynek elfogadását vagy felhasználását a pártok működéséről és gazdálkodásáról szóló törvény, illetve a választási eljárásról szóló törvény tiltja.
+- 38. felelős személy: a civil szervezetekről szóló törvényben meghatározott felelős személy.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 

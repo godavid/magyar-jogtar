@@ -773,6 +773,8 @@ vonatkozó szabályokat.
 
 (4) A bíróság az ügyész indítványa alapján megvizsgálja, hogy a közhasznú szervezet a közhasznúvá minősítés követelményeinek továbbra is megfelel-e. Ha e követelmények a vizsgált időszakban – az adatokból megállapíthatóan – nem teljesültek, a bíróság a közhasznú jogállás megszüntetéséről határoz, és az erre vonatkozó adatot a nyilvántartásból törli.
 
+(5) A bíróság az Állami Számvevőszék indítványa alapján megvizsgálja, hogy a közhasznú szervezet megsértette-e a választási eljárásról szóló 2013. évi XXXVI. törvény 307/D. § (4) bekezdésében foglaltakat. Ha a közhasznú szervezet e követelményt – az adatokból megállapíthatóan – megsértette, a bíróság a közhasznú jogállás megszüntetéséről határoz, és az erre vonatkozó adatot a nyilvántartásból törli.
+
 50. § A közhasznú szervezet a közhasznú jogállásának megszűnésekor köteles esedékes köztartozásait rendezni, illetve közszolgáltatás ellátására irányuló szerződéséből eredő kötelezettségeit időarányosan teljesíteni.
 
 ### VIII. Fejezet — CIVIL KÖZÖSSÉGI SZOLGÁLTATÓ KÖZPONTOK
