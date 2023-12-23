@@ -81,7 +81,7 @@ céljából.
 - b) a könyvvizsgáló megbízásáról és visszahívásáról és
 - c) a könyvvizsgáló díjazásának megállapításáról.
 
-(2) A részvényest az igazgatóság a 12. § (4) bekezdés b) pontja alapján megállapított, könyvvizsgálói záradékkal ellátott számviteli beszámolóról – annak megküldésével – tájékoztatja.
+(2) A részvényest az igazgatóság a 12. § (4) bekezdés b) pontja szerinti határozatairól – azok megküldésével – tájékoztatja.
 
 7. § A Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) rendelkezéseit az MNB tekintetében az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -186,7 +186,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 (4) Az igazgatóság hatáskörébe tartozik:
 
 - a) a Monetáris Tanács és a Pénzügyi Stabilitási Tanács által hozott döntések végrehajtásának irányítása,
-- b) az MNB számviteli beszámolójának megállapítása, a 166. § (1a) bekezdése szerinti osztalék fizetéséről való döntés meghozatala, továbbá az üzletvezetésről és az MNB vagyoni helyzetéről szóló, a részvényesnek küldendő jelentés tervezetének jóváhagyása,
+- b) az MNB számviteli beszámolójának megállapítása, a 166. § (1a) bekezdése szerinti osztalék fizetéséről való döntés meghozatala, továbbá az MNB saját tőkéjének az előző év végi, előzetes mértékéről és annak várható alakulásáról szóló, évenkénti előrejelzés tervezetének, valamint az üzletvezetésről és az MNB vagyoni helyzetéről szóló, a részvényesnek küldendő jelentés tervezetének jóváhagyása,
 - c) az MNB szervezetével és belső irányításával összefüggő kérdések jóváhagyása,
 - d) az MNB működésével, illetve feladatainak ellátásával kapcsolatos szakmai tervek és programok – ideértve a fejlesztési és működési költségtervet is – jóváhagyása,
 - e) a felügyelőbizottság hatáskörébe nem tartozó feladatok tekintetében az MNB belső ellenőrzési szervezetének irányítása, valamint a belső ellenőrzés tapasztalatainak és tervének megtárgyalása,
@@ -203,6 +203,8 @@ A Monetáris Tanács hatáskörébe tartozik:
 - b) a 4. § (6) bekezdése szerinti feladatkörben eljárva kibocsátott MNB rendeletben foglaltak megtartásának ellenőrzésével
 
 kapcsolatos hatósági eljárásokban a hatáskörgyakorlási jogot átruházza.
+
+(8) Az igazgatóság a (4) bekezdés b) pontja szerinti előrejelzést annak jóváhagyását követően, legkésőbb április 30-ig megküldi a Költségvetési Tanács és a részvényes részére.
 
 #### 9. A Pénzügyi Stabilitási Tanács
 
@@ -3004,7 +3006,7 @@ szervezetben.
 
 (2) Az MNB osztalékelőleget nem fizet.
 
-(3) Amennyiben a tárgyév végére vonatkozóan a saját tőke összege a jegyzett tőke alá csökken, a különbözetet a központi költségvetés 5 éven belül, évente egyenlő részletben – a 6. § (2) bekezdése szerinti tájékoztatás részvényes általi kézhezvételét követő 30 napon belül – közvetlenül az eredménytartalék javára megtéríti. Amennyiben a saját tőke összege meghaladja a jegyzett tőkét, a még fennálló összes térítési kötelezettség megszűnik. Amennyiben az 5 éves időtartamon belül a központi költségvetésnek újabb térítési kötelezettsége keletkezik, annak teljesítésére e bekezdésben meghatározottak alkalmazandók azzal, hogy a központi költségvetés biztosítja, hogy az MNB saját tőkéje huzamosabb ideig ne maradjon a jegyzett tőke szintje alatt.
+(3) Ha a saját tőke hosszabb ideig a jegyzett tőke szintje alatt van, a központi költségvetés terhére közvetlenül az eredménytartalék javára történő térítéssel biztosítani kell, hogy elfogadható időn belül – a pénzügyi függetlenség elvének való megfelelés érdekében – legalább a jegyzett tőke mértékének megfelelő mértékű saját tőke álljon az MNB rendelkezésére.
 
 (4) A részvényes az eredménytartalék javára pénzben tőkejuttatást nyújthat.
 
@@ -3059,7 +3061,7 @@ fordítható.
 171. § (1) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben szabályozza:
 
 - a) a Monetáris Tanács döntésének megfelelően az alapkamat mértékét,
-- b) a Monetáris Tanács döntésének megfelelően a kötelező tartalékráta mértékét, és a kötelező jegybanki tartalék után fizetendő kamat mértékét,
+- b) a Monetáris Tanács döntésének megfelelően a kötelező tartalékráta mértékét, a kötelező jegybanki tartalék után fizetendő kamat mértékét, valamint a kötelező tartalékráta mértékét meghaladóan az MNB-nél elhelyezett pénzösszegre meghatározott kamatot,
 - c) a kötelező jegybanki tartalék kiszámítását, képzésének és elhelyezésének módját, valamint a teljesítés elmaradása esetén alkalmazandó intézkedéseket,
 - d) a bankjegyek és az érmék – ideértve az emlékbankjegyeket és az emlékérméket is – kibocsátását, címletét, külső jegyeit, bevonását,
 - e) a magyar és a külföldi törvényes fizetőeszközök hamisítás elleni védelmével kapcsolatos, a 24. § (1) bekezdésében meghatározott technikai és egyéb feladatokat,
@@ -3358,9 +3360,11 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) A Módtv.4.-gyel módosított 149. § (1)–(3), (5), (6) és (8) bekezdését első alkalommal a Módtv.4. hatálybalépésének napjától 2023. február 28-ig terjedő időszakra vonatkozóan kell alkalmazni.
 
+183/O. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2023. évi CXII. törvénnyel (a továbbiakban: Módtv.5.) megállapított 12. § (4) bekezdés b) pontját és 12. § (8) bekezdését 2023-ban azzal az eltéréssel kell alkalmazni, hogy az igazgatóság a 12. § (4) bekezdés b) pontja szerinti, a saját tőke várható alakulásáról szóló jóváhagyott előrejelzését a Módtv.5. hatálybalépését követő három napon belül küldi meg egyidejűleg a részvényesnek és a Költségvetési Tanácsnak.
+
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
-184. § Az 1–14. §, a 16–21. §, a 23. § (1), (2) és (10) bekezdése, a 24. § (1), (2), (4) és (5) bekezdése, a 26. § (1) és (2) bekezdése, a 27–28. §-a, a 29–32. §-a, a 33. § (1) bekezdése, a 34. §, a 35. § (1) bekezdése, a 36. §, a 39. § (1) és (2) bekezdése, a 42. §, a 96–101. §, a 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése és a 183. § (1) és (5) bekezdése az Alaptörvény 41. cikk (1), (2), (5) és (6) bekezdése alapján sarkalatosnak minősül.
+184. § Az 1–14. §, a 16–21. §, a 23. § (1), (2) és (10) bekezdése, a 24. § (1), (2), (4) és (5) bekezdése, a 26. § (1) és (2) bekezdése, a 27–28. §-a, a 29–32. §-a, a 33. § (1) bekezdése, a 34. §, a 35. § (1) bekezdése, a 36. §, a 39. § (1) és (2) bekezdése, a 42. §, a 96–101. §, a 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése, a 183. § (1) és (5) bekezdése, valamint a 183/O. § az Alaptörvény 41. cikk (1), (2), (5) és (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 56. Az Európai Unió jogának való megfelelés
 
@@ -3472,6 +3476,20 @@ végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkör
 - g) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv
 
 végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
+
+#### 56/A. Jogszabály tervezetének egyeztetése
+
+186/A. § (1) E törvény tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés harmadik franciabekezdése szerinti előzetes bejelentése megtörtént.
+
+(2) E törvénynek a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvénnyel módosított rendelkezései tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés harmadik franciabekezdése szerinti előzetes bejelentése megtörtént.
+
+(3) E törvénynek a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvénnyel módosított rendelkezései tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés harmadik franciabekezdése szerinti előzetes bejelentése megtörtént.
+
+(4) E törvénynek a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel módosított rendelkezései tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés harmadik franciabekezdése szerinti előzetes bejelentése megtörtént.
+
+(5) E törvénynek a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2022. évi LXXVII. törvénnyel módosított rendelkezései tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés harmadik franciabekezdése szerinti előzetes bejelentése megtörtént.
+
+(6) E törvénynek a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2023. évi CXII. törvénnyel módosított rendelkezései tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés harmadik franciabekezdése szerinti előzetes bejelentése megtörtént.
 
 #### 57. Módosító és hatályon kívül helyező rendelkezések
 

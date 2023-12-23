@@ -4,243 +4,471 @@ egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefügg�
 
 #### 1. A helyi önkormányzatokról szóló 1990. évi LXV. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-2. §
+#### 2. §
 
 #### 3. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. A statisztikáról szóló 1993. évi XLVI. törvény módosítása
 
-4. §
+#### 4. §
 
 #### 5. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-5–8. §
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 #### 6. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 7. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 8. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 9. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 10. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 11. A közraktározásról szóló 1996. évi XLVIII. törvény módosítása
 
-14–15. §
+#### 14. §
+
+#### 15. §
 
 #### 12. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosítása
 
-16–34. §
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
 
 #### 13. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-35. §
+#### 35. §
 
 #### 14. A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény módosítása
 
-36–38. §
+#### 36. §
+
+#### 37. §
+
+#### 38. §
 
 #### 15. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 16. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 17. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 18. A helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 19. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 20. Az elektronikus aláírásról szóló 2001. évi XXXV. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 21. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 22. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-46–67. §
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
 
 #### 23. A fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény módosítása
 
-68–69. §
+#### 68. §
+
+#### 69. §
 
 #### 24. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-70–86. §
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
 
 #### 25. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-87. §
+#### 87. §
 
 #### 26. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-88. §
+#### 88. §
 
 #### 27. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
 
-89. §
+#### 89. §
 
 #### 28. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
 
-90. §
+#### 90. §
 
-#### 29. A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény módosítása
+#### 29. A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló
 
-91. §
+2005. évi XXV. törvény módosítása
+
+#### 91. §
 
 #### 30. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-92–93. §
+#### 92. §
+
+#### 93. §
 
 #### 31. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-94–95. §
+#### 94. §
+
+#### 95. §
 
 #### 32. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-96. §
+#### 96. §
 
-#### 33. A döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló 2007. évi CI. törvény módosítása
+#### 33. A döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló
 
-97. §
+2007. évi CI. törvény módosítása
+
+#### 97. §
 
 #### 34. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-98–100. §
+#### 98. §
 
-#### 35. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény módosítása
+#### 99. §
 
-101–105. §
+#### 100. §
+
+#### 35. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló
+
+2007. évi CXXXVI. törvény módosítása
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
 
 #### 36. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-106–115. §
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
 
 #### 37. A viszontbiztosítókról szóló 2007. évi CLIX. törvény módosítása
 
-116–121. §
+#### 116. §
 
-#### 38. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény módosítása
+#### 117. §
 
-122–126. §
+#### 118. §
 
-#### 39. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény módosítása
+#### 119. §
 
-127–128. §
+#### 120. §
+
+#### 121. §
+
+#### 38. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló
+
+2008. évi XLVII. törvény módosítása
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 39. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló
+
+2008. évi XLVIII. törvény módosítása
+
+#### 127. §
+
+#### 128. §
 
 #### 40. A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény módosítása
 
-129–133. §
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
 
 #### 41. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-134–137. §
+#### 134. §
 
-138. §
+#### 135. §
 
-139. §
+#### 136. §
+
+#### 137. §
+
+#### 138. §
+
+#### 139. §
 
 #### 42. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-140. §
+#### 140. §
 
-141–142. §
+#### 141. §
 
-143. §
+#### 142. §
+
+#### 143. §
 
 #### 43. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
-144–145. §
+#### 144. §
+
+#### 145. §
 
 #### 44. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-146. §
+#### 146. §
 
 #### 45. A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosítása
 
-147. §
+#### 147. §
 
 #### 46. A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény módosítása
 
-148. §
+#### 148. §
 
 #### 47. A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény módosítása
 
-149–151. §
+#### 149. §
+
+#### 150. §
+
+#### 151. §
 
 #### 48. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-152. §
+#### 152. §
 
 #### 49. A befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény módosítása
 
-153–158. §
+#### 153. §
+
+#### 154. §
+
+#### 155. §
+
+#### 156. §
+
+#### 157. §
+
+#### 158. §
 
 #### 50. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-159–161. §
+#### 159. §
+
+#### 160. §
+
+#### 161. §
 
 #### 51. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-162. §
+#### 162. §
 
 #### 52. A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény módosítása
 
-163. §
+#### 163. §
 
 #### 53. A közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény módosítása
 
-164. §
+#### 164. §
 
 #### 54. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-165–166. §
+#### 165. §
 
-#### 55. A MÁV Általános Biztosító Egyesülettel kötött kötelező gépjármű-felelősségbiztosítási szerződéseken alapuló kártérítési igények érvényesítésével kapcsolatos szabályokról szóló 2012. évi CLXII. törvény módosítása
+#### 166. §
 
-167. §
+#### 55. A MÁV Általános Biztosító Egyesülettel kötött kötelező gépjármű-felelősségbiztosítási szerződéseken alapuló kártérítési igények érvényesítésével kapcsolatos szabályokról szóló
+
+2012. évi CLXII. törvény módosítása
+
+#### 167. §
 
 #### 56. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
-168. §
+#### 168. §
 
 #### 57. A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény módosítása
 
-169. §
+#### 169. §
 
 #### 58. A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény módosítása
 
-170. §
+#### 170. §
 
 #### 59. Záró rendelkezések
 
@@ -262,12 +490,12 @@ egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefügg�
 
 (7) A 174. § b) pontja az Alaptörvény 23. és 42. cikke alapján sarkalatosnak minősül.
 
-173. §
+#### 173. §
 
 174. § Nem lép hatályba
 
 - a) az egyes biztosítási tárgyú törvények módosításáról szóló 2013. évi LXXXVI. törvény 58–59. §-a és 62. §-a,
-- b) az egyes biztosítási tárgyú törvények módosításáról szóló 2013. évi LXXXVI. törvény 57. §-a, a 60–61. §-a,
+- b)
 - c) a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény – az egyes biztosítási tárgyú törvények módosításáról szóló 2013. évi LXXXVI. törvény 54. §-ában megállapított – 57/F. § (3) bekezdése.
 
 ### 1. melléklet a 2013. évi CXLIII. törvényhez

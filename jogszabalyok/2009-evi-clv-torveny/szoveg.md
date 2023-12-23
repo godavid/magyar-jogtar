@@ -815,9 +815,9 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 
 (2)
 
-(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2023. december 31-éig kell beszereznie.
+(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2026. december 31-ig kell beszereznie.
 
-(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2023. december 31-ig kell megteremteni.
+(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2026. december 31-ig kell megteremteni.
 
 40/A. § Ez a törvény az EUROPOL-információk titoktartási szabályzatának elfogadásáról szóló 2009. november 30-i 2009/968/IB tanácsi határozat 10. cikk (4) bekezdésének és az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozatnak a végrehajtáshoz szükséges rendelkezéseket állapít meg.
 

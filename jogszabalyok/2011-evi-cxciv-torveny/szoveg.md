@@ -399,7 +399,10 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 23. § (1) A Tanács
 
-- a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja a költségvetési hiány mértékét, valamint a 3/A. § (2) bekezdésének való megfelelést,
+- a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja
+  - aa) a költségvetési hiány mértékét,
+  - ab) a 3/A. § (2) bekezdésének való megfelelést, továbbá
+  - ac) a Magyar Nemzeti Bank tőkehelyzete tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 166. § (3) bekezdésében meghatározottnak való megfelelést,
 - b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
 - c) félévente véleményt nyilvánít a központi költségvetésről szóló törvény végrehajtásának helyzetéről és az államadósság várható alakulásáról,
 - d) véleményt nyilváníthat a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatokról, ideértve a 28. § szerinti fizetési kötelezettségre vonatkozó törvényjavaslatot is,
@@ -733,6 +736,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 52. § E törvénynek a pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvénnyel megállapított 8/B. §-t nem kell alkalmazni a pénzügyi szektort érintő törvények módosításáról szóló 2022. évi LXIX. törvény hatálybalépését megelőzően a magyar állam nevében vállalt, vagy a magyar államot bármilyen módon érintő kötelezettségei tekintetében.
 
 52/A. § Az e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel (a továbbiakban: Módtv.) megállapított 14. § (2) és (2a) bekezdését a Módtv. hatálybalépését megelőzően nemzetközi pénzügyi intézményekkel létrejött szerződéses jogviszonyokban is alkalmazni kell.
+
+52/B. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2023. évi CXII. törvénnyel (a továbbiakban: Módtv.1.) megállapított 23. § (1) bekezdés a) pontját 2023-ban azzal az eltéréssel kell alkalmazni, hogy a Tanács a Módtv.1. hatálybalépését követő hét napon belül véleményt nyilvánít arról, hogy a Magyar Nemzeti Bank megfelelő tőkeellátottsága érdekében szükséges-e 2024-ben a központi költségvetés terhére térítést nyújtani.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

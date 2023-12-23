@@ -271,162 +271,34 @@ ha azok Magyarország szuverenitását sérthetik vagy veszélyeztethetik;
 
 (7) A 38. § (1) bekezdése az Alaptörvény 12. cikk (5) bekezdése, 4. cikk (2) és (5) bekezdése, 25. cikk (8) bekezdése, 26. cikk (1) és (2) bekezdése, valamint az R) cikk (4) bekezdése alapján sarkalatosnak minősül.
 
-24. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. §-a a következő (2a) bekezdéssel egészül ki:
+#### 24. §
 
-„(2a) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.”
+#### 25. §
 
-25. § A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-a következő (7b) bekezdéssel egészül ki:
-
-„(7b) Az adóhatóság a szervezetet abban az esetben is törli a nyilvántartásból, ha a szervezet – az Állami Számvevőszék megállapítása szerint – megsértette a választási eljárásról szóló 2013. évi XXXVI. törvény 307/D. § (4) bekezdésében foglaltakat.”
-
-26. § (1) A minősített adat védelméről szóló 2009. évi CLV. törvény 13. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat, illetve felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.”
+26. § (1)
 
 (2)
 
-27. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdése a következő g) ponttal egészül ki:
+#### 27. §
 
-(Autonóm államigazgatási szerv)
+#### 28. §
 
-„g) a Szuverenitásvédelmi Hivatal.”
+#### 29. §
 
-28. § Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 5. §-a a következő (14) bekezdéssel egészül ki:
+#### 30. §
 
-„(14) Az Állami Számvevőszék a választási eljárásról szóló törvényben meghatározottak szerint ellenőrzési feladatokat lát el.”
+#### 31. §
 
-29. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 49. §-a a következő (5) bekezdéssel egészül ki:
+#### 32. §
 
-„(5) A bíróság az Állami Számvevőszék indítványa alapján megvizsgálja, hogy a közhasznú szervezet megsértette-e a választási eljárásról szóló 2013. évi XXXVI. törvény 307/D. § (4) bekezdésében foglaltakat. Ha a közhasznú szervezet e követelményt – az adatokból megállapíthatóan – megsértette, a bíróság a közhasznú jogállás megszüntetéséről határoz, és az erre vonatkozó adatot a nyilvántartásból törli.”
+#### 33. §
 
-30. § Az államháztartásról szóló 2011. évi CXCV. törvény 1. § 11. pontja helyébe a következő rendelkezés lép:
+#### 34. §
 
-(E törvény alkalmazásában)
+#### 35. §
 
-„11. Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi alrendszerébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Bíróságok, az Ügyészség, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, a Magyar Kutatási Hálózat, az Integritás Hatóság, az Európai Támogatásokat Auditáló Főigazgatóság és a Szuverenitásvédelmi Hivatal fejezetekhez tartozó költségvetési szervek kivételével,”
+#### 36. §
 
-31. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 44/A. § (1) bekezdése a következő 24. ponttal egészül ki:
+#### 37. §
 
-[A házelnök]
-
-„24. a Szuverenitásvédelmi Hivatal elnöke, elnökhelyettese”
-
-[részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.]
-
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 61/A. § (2) bekezdése a következő m) ponttal egészül ki:
-
-(A jelen lévő képviselők kétharmadának szavazata szükséges)
-
-„m) a Szuverenitásvédelmi Hivatal elnöke mentelmi jogának felfüggesztéséhez a nemzeti szuverenitás védelméről szóló 2023. évi LXXXVIII. törvény 15. § (6) bekezdésében foglaltak szerint,”
-
-32. § (1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 52. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A választói akarat tiltott befolyásolása bűncselekmény elkövetőjét el kell tiltani attól, hogy bármely civil szervezetben felelős személy és pártban vezető tisztségviselő legyen. Különös méltánylást érdemlő esetben a foglalkozástól eltiltás kötelező alkalmazása mellőzhető.”
-
-(2) A Büntető Törvénykönyvről szóló 2012. évi C. törvény a következő alcímmel egészül ki:
-
-### „Választói akarat tiltott befolyásolása
-
-350/A. § A választási eljárásról szóló törvény szerinti jelölő szervezet azon tagja, felelős személye vagy vezető tisztségviselője, valamint a választási eljárásról szóló törvény szerinti jelölt, aki tiltott külföldi támogatást, vagy e tilalom kijátszása érdekében a tiltott külföldi támogatás eredetét leplező megállapodásból származó vagyoni előnyt használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.”
-
-(3) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdése a következő 37. és 38. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„37. tiltott külföldi támogatás: olyan külföldről származó támogatás, amelynek elfogadását vagy felhasználását a pártok működéséről és gazdálkodásáról szóló törvény, illetve a választási eljárásról szóló törvény tiltja.
-
-38. felelős személy: a civil szervezetekről szóló törvényben meghatározott felelős személy.”
-
-33. § (1) A választási eljárásról szóló 2013. évi XXXVI. törvény 3. § (1) bekezdése a következő 16. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„16. külföldi támogatás: más államtól, külföldi természetes vagy jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó vagyoni hozzájárulás.”
-
-(2) A választási eljárásról szóló 2013. évi XXXVI. törvény 33. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A területi választási bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság)
-
-„b) megbízott tagjának megbízatása valamennyi – a 28. § (1)–(3) bekezdése és a 333. § (2) bekezdése szerint az adott választási bizottságba történő megbízás jogalapjaként figyelembe vehető jelöléshez, listaállításhoz kapcsolódó – választás eredményének jogerőssé válásáig”
-
-(tart.)
-
-(3) A választási eljárásról szóló 2013. évi XXXVI. törvény 33. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A szavazatszámláló bizottság megbízott tagjának megbízatása valamennyi – a 28. § (4) bekezdése szerint az adott szavazatszámláló bizottságba történő megbízás jogalapjaként figyelembe vehető jelöléshez, listaállításhoz kapcsolódó – választás eredményének jogerőssé válásáig tart.”
-
-(4) A választási eljárásról szóló 2013. évi XXXVI. törvény 124. §-a a következő (1a)–(1d) bekezdéssel egészül ki:
-
-„(1a) A jelölt bejelentésekor a jelöltnek nyilatkoznia kell arról, hogy megfelel a jelöltekkel szemben az (1b) bekezdésben támasztott követelménynek, és arról, hogy a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használ fel. A választási bizottság azt a jelöltet veszi nyilvántartásba, aki e nyilatkozatot megtette.
-
-(1b) A jelöltkénti nyilvántartásba vételét kérő, illetve a nyilvántartásba vett jelölt a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használhat fel. Az e bekezdésben foglaltakat jogszabálysértés gyanúja esetén az Állami Számvevőszék ellenőrzi.
-
-(1c) Ha a jelölt nyilvántartásba vételét követően az Állami Számvevőszék megállapítja, hogy a jelölt megsértette az (1b) bekezdésben foglaltakat, akkor köteles a jelölt a támogatás kétszeresét az Állami Számvevőszék felhívására tizenöt napon belül a központi költségvetés részére befizetni.
-
-(1d) Ha a jelölt az (1c) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, a tartozást az állami adóhatóság az Állami Számvevőszék megkeresésére adók módjára hajtja be.”
-
-(5) A választási eljárásról szóló 2013. évi XXXVI. törvény 129. § (1) bekezdése a következő c) ponttal egészül ki:
-
-(A lista bejelentésének tartalmaznia kell a listán állított valamennyi jelölt nevét, személyi azonosítóját – ennek hiányában a személyazonosságát igazoló hatósági igazolványának számát –, lakcímét, valamint nyilatkozatát arról, hogy)
-
-„c) a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használ fel.”
-
-(6) A választási eljárásról szóló 2013. évi XXXVI. törvény 138/C. alcíme helyébe a következő alcím lép:
-
-#### „138/C. A jelölő szervezet bejelentése
-
-307/D. § (1) A jelölő szervezetet a területi választási bizottság vagy a Nemzeti Választási Bizottság − amelynél a jelölő szervezetet bejelentették − veszi nyilvántartásba.
-
-(2) Időközi választáson a jelölt, illetve lista nyilvántartásba vételére illetékes választási bizottság veszi nyilvántartásba a jelölő szervezetet.
-
-(3) Az egyesület bejelentésekor az egyesületnek nyilatkoznia kell arról, hogy megfelel az egyesületekkel szemben a (4) bekezdésben támasztott követelménynek, és arról, hogy a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást és belföldi jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó támogatást, névtelen adományt vagy ezekből származó vagyonelemet az adott választás vonatkozásában nem használ fel. A választási bizottság azt az egyesületet veszi nyilvántartásba jelölő szervezetként, amely e nyilatkozatot megtette.
-
-(4) A jelölő szervezetkénti nyilvántartásba vételét kérő, illetve a nyilvántartásba vett egyesület a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást és belföldi jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó támogatást, névtelen adományt vagy ezekből származó vagyonelemet az adott választás vonatkozásában nem használhat fel. Az e bekezdésben foglaltakat jogszabálysértés gyanúja esetén az Állami Számvevőszék ellenőrzi.
-
-(5) Ha az egyesület jelölő szervezetként való nyilvántartásba vételét követően az Állami Számvevőszék megállapítja, hogy az egyesület megsértette a (4) bekezdésben foglaltakat, akkor az egyesület köteles a támogatás kétszeresét az Állami Számvevőszék felhívására tizenöt napon belül a központi költségvetés részére befizetni.
-
-(6) Ha az egyesület a (4) bekezdésben foglaltakat megsérti, az Állami Számvevőszék e tényről tájékoztatja az adóhatóságot, illetve közhasznú jogállású egyesület esetén az egyesületet nyilvántartásba vevő bíróságot.
-
-(7) Ha az egyesület az (5) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, a tartozást az állami adóhatóság az Állami Számvevőszék megkeresésére adók módjára hajtja be.
-
-(8) A nemzetiségi szervezet bejelentésekor a szervezetnek nyilatkoznia kell arról, hogy a szervezet megfelel a nemzetiségi szervezettel szemben a nemzetiségek jogairól szóló törvényben támasztott követelményeknek.”
-
-(7) A választási eljárásról szóló 2013. évi XXXVI. törvény 307/I. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 307/F. § (1) és (2) bekezdésének, valamint a 307/H. § rendelkezéseit a listán állított jelöltekre is alkalmazni kell.”
-
-34. § Hatályát veszti a választási eljárásról szóló 2013. évi XXXVI. törvény 338. § (4) bekezdése.
-
-35. § Az adózás rendjéről szóló 2017. évi CL. törvény 131. § (14) bekezdése a következő p) ponttal egészül ki:
-
-(Az adóhatóság megkeresésre vagy adatkérésre tájékoztatja az adótitokról)
-
-„p) a Szuverenitásvédelmi Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.”
-
-36. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 2. § (1) bekezdése a következő r) ponttal egészül ki:
-
-(E törvény alkalmazásában különleges jogállású szerv:)
-
-„r) Szuverenitásvédelmi Hivatal.”
-
-37. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 98. § (1) bekezdésében a „Főigazgatóság” szövegrész helyébe a „Főigazgatóság, Szuverenitásvédelmi Hivatal” szöveg lép.
-
-38. § (1) Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 5. § (6a) bekezdése helyébe a következő rendelkezés lép:
-
-„(6a) A Hatóság feladatainak ellátása során
-
-- a) a köztársasági elnök,
-- b) az országgyűlési képviselő, a nemzetiségi szószóló és az Országgyűlés háznagya,
-- c) a bíró,
-- d) az országgyűlési képviselői megbízatással rendelkező politikai felsővezető és
-- e) a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese
-
-vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott személyi körre vonatkozó szabályok szerinti vagyonnyilatkozattal kapcsolatos eljárást kezdeményezni. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Hatóságot tájékoztatni kell.”
-
-(2) Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 77/A. § (2) bekezdése a következő d) ponttal egészül ki:
-
-[Az 5. § (6a) bekezdés]
-
-„d) e) pontja az Alaptörvény R) cikk (4) bekezdése alapján”
-
-[sarkalatosnak minősül.]
+#### 38. §
