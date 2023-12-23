@@ -11,71 +11,117 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed:
 
 - a) minden magyarországi telephelyű gépjármű üzemben tartójára, továbbá más tagállami telephelyű gépjármű – ha annak rendeltetés helye szerinti tagállama Magyarország – tulajdonosára, és az általuk kötött kötelező gépjármű-felelősségbiztosítási szerződésre;
-- b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén a fogalomban történő részvételének feltételeire;
+- b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén történő használatának feltételeire;
 - c) a biztosítók, a kárrendezési megbízott, kárképviselő, a levelező, a Kártalanítási Számla, a Kártalanítási Alap, a Nemzeti Iroda, a Kártalanítási Szervezet, az Információs Központ, valamint a Magyar Biztosítók Szövetségének (a továbbiakban: MABISZ) e törvényben szabályozott tevékenységére;
 - d) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet), a biztosító felszámolójának, a kötelező gépjármű-felelősségbiztosítást igazoló okirat (a kötvényt is beleértve) adatait, valamint egyéb vonatkozó adatokat nyilvántartó szervnek (a továbbiakban: kötvénynyilvántartó szerv), a kárnyilvántartással kapcsolatos feladatokat ellátó kárnyilvántartó szervnek, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) és a vámhatóságnak e törvényben szabályozott tevékenységére.
 
 2. § E törvény hatálya nem terjed ki:
 
 - a) a nemzetközi gépjármű-biztosítási – a tagállamok és más államok nemzeti irodái közötti – megállapodásból és a kapcsolódó megállapodásokból eredő – e törvényben nem szabályozott – feladatok ellátására;
-- b) Magyarország területén rendezett gépjárműversenyen (edzésen) részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre;
+- b) Magyarország területén rendezett gépjárműsport-rendezvényen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre;
 - c) arra az esetre, ha az e törvényben foglaltaktól Magyarország területén állomásozó vagy áthaladó külföldi katonai gépjárművek vonatkozásában jogszabály eltérő szabályokat állapít meg.
 
 ### Értelmező rendelkezések
 
 3. § E törvény alkalmazásában:
 
-- 1. Belső Szabályzat: a Bizottság 2003. július 28-i, a 72/166/EGK tanácsi irányelvnek a gépjármű-felelősségbiztosítás ellenőrzésére vonatkozó alkalmazásáról szóló 2003/564/EK határozatának függelékében foglalt, a nemzeti irodák egymás közötti kapcsolatait rendező szabályzat;
-- 2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
-- 3. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
-- 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
-- 5. díjtarifa: miniszteri rendeletben meghatározott gépjármű-kategóriánként és – a flotta kivételével – bonus-malus osztályonként a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
-- 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
-- 6a. e-kárbejelentő: a MABISZ által üzemeltetett, a kötelező gépjármű felelősségbiztosítási káresemények bejelentésére szolgáló online formában működtetett informatikai megoldás;
-- 7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
-- 8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja; 8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
-- 9. gépjárműflotta: egy adott biztosítónál ugyanazon – jogi személy, egyéni vállalkozó, egyéni cég – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
-- 10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
-- 11. gépjárműverseny: zárt versenypályán vagy a forgalom elől elzárt közúton (útszakaszon) tartott, gépjárművek számára rendezett sportrendezvény;
-- 12. harmadik ország: a Bit.-ben meghatározott fogalom;
-- 13. harmadik országbeli biztosító: a Bit.-ben meghatározott fogalom;
-- 14. határon átnyúló szolgáltatás: a Bit.-ben meghatározott fogalom;
-- 15. hozott kárelőzményi igazolás: más tagállam által előírt kötelezettség alapján megkötött gépjármű-felelősségbiztosítási szerződésre vonatkozó igazolás, amely tartalmazza az adott biztosítónál nyilvántartott időszakot, valamint a szerződés hatálya alatt harmadik személyeknek okozott és a más tagállami biztosító által az igazolás kiadásának napjáig elismert, vagy vele szemben jogerősen megítélt kártérítések alapjául szolgáló káresetek számát, időpontját, illetve a kármentesség tényét;
-- 16. Információs Központ: a gépjármű üzemeltetésével harmadik személyeknek okozott károkból eredő kártérítési igények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása érdekében létrehozott szervezet;
-- 17. ismeretlen gépjármű: az a gépjármű, amely nem azonosítható, illetve utólag sem azonosítható, mivel elhagyta a baleset helyszínét, vagy azonosító adatokkal nem rendelkezik, illetve azokat meghamisították vagy nem felismerhetők;
-- 18. kárképviselő: a határon átnyúló szolgáltatás esetében a biztosító által a gépjármű-felelősségbiztosítási károk rendezésével, a biztosító peres és peren kívüli képviseletével megbízott, illetve arra jogosult személy vagy szervezet;
-- 19. károsult: a gépjárművel okozott kár esetén kártérítésre jogosult személy vagy szervezet;
-- 20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kártérítési igényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
-- 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában e törvény szerinti biztosítási szerződés alapján fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a biztosító tevékenységét engedélyező tagállamban felszámolási eljárás megindult;
-- 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, és az ismeretlen gépjárművel okozott károk, valamint az e törvényben meghatározott egyéb károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
-- 23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kártérítési igények elbírálása és kielégítése e törvényben meghatározott esetekben;
-- 24. kötelezettségvállalás országa: bármely fajta gépjármű biztosítása esetén a
-  - a) telephely szerinti ország, vagy
-  - b) baleset bekövetkezésének helye szerinti ország, amennyiben a hatósági jelzés viselésére kötelezett gépjármű baleset részesévé vált, és nem rendelkezik érvényes hatósági jelzéssel, illetve a rajta lévő hatósági jelzés nem rendelhető, vagy már nem rendelhető hozzá, vagy
-  - c) rendeltetés helye szerinti tagállam;
-- 25. külföldi: a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ának 2. pontjában meghatározott fogalom;
-- 26. levelező: olyan biztosító, a biztosító részére kárrendezési tevékenységet végző szervezet, kárrendezési megbízott, egyéb szervezet vagy személy, akit vagy amelyet a működése szerinti ország nemzeti irodájának jóváhagyásával a zöldkártyarendszerhez tartozó ország biztosítója jelöl a biztosítottjai által a levelező országában okozott gépjármű-felelősségbiztosítási károk kezelésére és rendezésére;
-- 27. Nemzeti Iroda: az e törvény szerinti biztosítók szervezete, amely ellátja a nemzetközi gépjármű-biztosítási megállapodásból és a kapcsolódó egyezményekből eredő koordinációs, kárrendezési és elszámolási feladatokat;
-- 28. rendeltetés helye szerinti tagállam: gépjármű tulajdonjogának átruházása esetén a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartam folyamán az – a gépjármű telephely szerinti országától eltérő – tagállam,
-  - a) ahol a tulajdont szerző természetes személy állandó lakóhelye, a jogi személy, egyéni vállalkozó, egyéni cég tulajdonszerzése esetén annak székhelye található, illetve
-  - b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a szerződő jogi személy, egyéni vállalkozó, egyéni cég, az a tagállam, amelyben a tulajdont szerzőnek a szerződéssel érintett telephelye, fióktelepe található;
-- 29. Rendszámegyezmény: a nemzeti irodák között létrejött olyan megállapodás, amely alapján az egyezményben részes országok hatóságai a zöldkártyában megtestesülő igazolás helyett az illető országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául a jármű hatósági jelzését (forgalmi rendszámát) az országjellel együtt elfogadják;
-- 30. súlyos személyi sérülés: a balesetből eredően legalább 25%-os össz-szervezeti egészségkárosodással járó maradandó fogyatékosságot okozó, vagy a balesetből eredő, legalább 6 hónapos gyógytartammal járó súlyos egészségromlást okozó sérülés;
-- 31. székhely szerinti tagállam: az a tagállam, ahol a kötelezettséget vállaló biztosító, biztosításközvetítő, valamint szaktanácsadó székhelye található;
-- 32. tagállam: az Európai Gazdasági Térségről szóló megállapodásban részes állam és Svájc;
-- 33. telephely szerinti ország: az az ország,
-  - a) amelynek hatósága a gépjárművet állandó vagy ideiglenes hatósági jelzéssel ellátta, vagy
-  - b) amelyben a hatósági jelzés viselésére nem kötelezett gépjárművek esetében a tulajdonos vagy a gépjármű felett egyébként rendelkezési jogot gyakorló személy (jogi személy, egyéni vállalkozó, egyéni cég) állandó lakóhelye (székhelye), illetve szokásos tartózkodási helye (az érintett telephelye, fióktelepe) található;
-- 34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – díjnemfizetéssel megszűnik;
-- 35. üzemben tartó: a gépjármű telephelye szerinti ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos;
-- 36. zöldkártya: a zöldkártyarendszer országaiban elfogadott, egységes szabványnak megfelelő nemzetközi gépjármű-felelősségbiztosítási igazolvány (kártya), amelyet a nemzeti iroda nevében a biztosítási szerződésnek megfelelően a biztosítók állítanak ki az üzemben tartó számára, a meglátogatott országban megkövetelt gépjármű-felelősségbiztosítási fedezet meglétének igazolására;
-- 37. zöldkártyarendszer: a nemzeti irodák közötti megállapodások alapján az ezen megállapodásokban részes országok rendszere, mely rendszerhez tartozó országok hatóságai a zöldkártyában megtestesülő igazolást az országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául elfogadják.
+1. Belső Szabályzat: a Bizottság 2003. július 28-i, a 72/166/EGK tanácsi irányelvnek a gépjármű-felelősségbiztosítás ellenőrzésére vonatkozó alkalmazásáról szóló 2003/564/EK határozatának függelékében foglalt, a nemzeti irodák egymás közötti kapcsolatait rendező szabályzat;
+
+2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
+
+3. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
+
+4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
+
+5. díjtarifa: miniszteri rendeletben meghatározott gépjármű-kategóriánként és – a flotta kivételével – bonus-malus osztályonként a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
+
+6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
+
+6a. e-kárbejelentő: a MABISZ által üzemeltetett, a kötelező gépjármű felelősségbiztosítási káresemények bejelentésére szolgáló online formában működtetett informatikai megoldás;
+
+7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
+
+8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja;8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
+
+9. gépjárműflotta: egy adott biztosítónál ugyanazon – jogi személy, egyéni vállalkozó, egyéni cég – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
+
+10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
+
+10a. gépjárműhasználat: egy gépjármű bármely használata, amely összeegyeztethető azon rendeltetésével, hogy a baleset időpontjában szállítási, illetve közlekedési eszközként szolgáljon, függetlenül a gépjármű jellemzőitől és attól, hogy a gépjárművet milyen terepen használják, valamint attól, hogy az – akár huzamos ideig – álló helyzetben vagy mozgásban van azzal, hogy a forgalomba helyezésre kötelezett gépjárművek esetén gépjárműhasználatnak minősül különösen az a teljes tartam, ami a gépjármű hatósági engedéllyel és jelzéssel történő ellátásának időpontjától a gépjármű forgalomból történő átmeneti vagy végleges kivonásáig tart, az ideiglenes forgalomban tartás engedélyezése, illetve ideiglenes forgalmi engedély kiadása esetén pedig gépjárműhasználatnak minősül az ideiglenes forgalomban tartási engedély, illetve az ideiglenes forgalmi engedély érvényességének időtartama;
+
+11. gépjárműsport-rendezvény: a gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó szabályokról szóló kormányrendeletben meghatározott fogalom;
+
+12. harmadik ország: a Bit.-ben meghatározott fogalom;
+
+13. harmadik országbeli biztosító: a Bit.-ben meghatározott fogalom;
+
+14. határon átnyúló szolgáltatás: a Bit.-ben meghatározott fogalom;
+
+15. hozott kárelőzményi igazolás: más tagállam által előírt kötelezettség alapján megkötött gépjármű-felelősségbiztosítási szerződésre vonatkozó igazolás, amely tartalmazza az adott biztosítónál nyilvántartott időszakot, valamint a szerződés hatálya alatt harmadik személyeknek okozott és a más tagállami biztosító által az igazolás kiadásának napjáig elismert, vagy vele szemben jogerősen megítélt kártérítések alapjául szolgáló káresetek számát, időpontját, illetve a kármentesség tényét;
+
+16. Információs Központ: a gépjármű használatával harmadik személyeknek okozott károkból eredő kártérítési igények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása érdekében létrehozott szervezet;
+
+17. ismeretlen gépjármű: az a gépjármű, amely nem azonosítható, illetve utólag sem azonosítható, mivel elhagyta a baleset helyszínét, vagy azonosító adatokkal nem rendelkezik, illetve azokat meghamisították vagy nem felismerhetők;
+
+18. kárképviselő: a határon átnyúló szolgáltatás esetében a biztosító által a gépjármű-felelősségbiztosítási károk rendezésével, a biztosító peres és peren kívüli képviseletével megbízott, illetve arra jogosult személy vagy szervezet;
+
+19. károsult: a gépjárművel okozott kár esetén kártérítésre jogosult személy vagy szervezet;
+
+20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű használatával kapcsolatban felmerült kártérítési igényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
+
+21. Kártalanítási Alap: az e törvény szerinti, Magyarországon székhellyel rendelkező biztosítók által létrehozott és finanszírozott pénzalap, amely a Magyarországon lakóhellyel rendelkező személyeknek – akár Magyarország területén, akár a 37. § (4) bekezdése szerinti esetben – okozott károk megtérítését fedezi, attól az időponttól kezdve, amikor azzal a biztosítóval szemben, amelynél a károkozó gépjármű a károkozás időpontjában biztosítási szerződés alapján fedezettel rendelkezett, a biztosító tevékenységét engedélyező tagállamban csőd-, vagy felszámolási eljárást indítottak, továbbá megtéríti a másik tagállam kártérítési szervezete által az adott tagállamban lakóhellyel rendelkező károsultak részére fizetett azon károkat, amelyeket a Magyarországon székhellyel rendelkező biztosító által biztosított gépjárművek okoztak, ha ezen biztosító ellen felszámolási eljárás indult;
+
+22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata különösen a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, és az ismeretlen gépjárművel okozott károk, továbbá az e törvényben meghatározott egyéb károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
+
+23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű használatából eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kártérítési igények elbírálása és kielégítése e törvényben meghatározott esetekben;
+
+24. kötelezettségvállalás országa: bármely fajta gépjármű biztosítása esetén a
+
+a) gépjármű telephelye szerinti ország,
+
+b) baleset bekövetkezésének helye szerinti ország, ha a hatósági jelzés viselésére kötelezett gépjármű baleset részesévé vált, és nem rendelkezik érvényes hatósági jelzéssel, illetve a rajta lévő hatósági jelzés nem rendelhető, vagy már nem rendelhető hozzá, vagy
+
+c) rendeltetés helye szerinti tagállam, ha a tulajdonszerzést követően a gépjármű tulajdonosa ezen tagállamban köt biztosítási szerződést;
+
+25. külföldi: a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ának 2. pontjában meghatározott fogalom;
+
+26. levelező: olyan biztosító, a biztosító részére kárrendezési tevékenységet végző szervezet, kárrendezési megbízott, egyéb szervezet vagy személy, akit vagy amelyet a működése szerinti ország nemzeti irodájának jóváhagyásával a zöldkártyarendszerhez tartozó ország biztosítója jelöl a biztosítottjai által a levelező országában okozott gépjármű-felelősségbiztosítási károk kezelésére és rendezésére;
+
+26a. másik tagállam kártérítési szervezete: valamely Magyarországtól eltérő tagállamban létrehozott azon szervezet, amely ezen tagállamban lakóhellyel rendelkező károsultak részére kártérítést nyújt a bármely tagállamban székhellyel rendelkező csőd- vagy felszámolási eljárás alatt álló biztosító által biztosított gépjárművek által okozott károk tekintetében;
+
+27. Nemzeti Iroda: az e törvény szerinti biztosítók szervezete, amely ellátja a nemzetközi gépjármű-biztosítási megállapodásból és a kapcsolódó egyezményekből eredő koordinációs, kárrendezési és elszámolási feladatokat;
+
+28. rendeltetés helye szerinti tagállam: gépjármű tulajdonjogának átruházása esetén a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartam folyamán az – a gépjármű telephely szerinti országától eltérő – tagállam,
+
+a) ahol a tulajdont szerző természetes személy állandó lakóhelye, a jogi személy, egyéni vállalkozó, egyéni cég tulajdonszerzése esetén annak székhelye található, illetve
+
+b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a szerződő jogi személy, egyéni vállalkozó, egyéni cég, az a tagállam, amelyben a tulajdont szerzőnek a szerződéssel érintett telephelye, fióktelepe található;
+
+29. Rendszámegyezmény: a nemzeti irodák között létrejött olyan megállapodás, amely alapján az egyezményben részes országok hatóságai a zöldkártyában megtestesülő igazolás helyett az illető országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául a jármű hatósági jelzését (forgalmi rendszámát) az országjellel együtt elfogadják;
+
+30. súlyos személyi sérülés: a balesetből eredően legalább 25%-os össz-szervezeti egészségkárosodással járó maradandó fogyatékosságot okozó, vagy a balesetből eredő, legalább 6 hónapos gyógytartammal járó súlyos egészségromlást okozó sérülés;
+
+31. székhely szerinti tagállam: az a tagállam, ahol a kötelezettséget vállaló biztosító központi irodája található;
+
+32. tagállam: az Európai Gazdasági Térségről szóló megállapodásban részes állam és Svájc;
+
+33. telephely szerinti ország: az a szokásos üzemben tartási hely szerinti ország,
+
+a) amelynek hatósága a gépjárművet állandó vagy ideiglenes hatósági jelzéssel ellátta, vagy
+
+b) amelyben a hatósági jelzés viselésére nem kötelezett gépjárművek esetében a tulajdonos vagy a gépjármű felett egyébként rendelkezési jogot gyakorló személy (természetes személy, jogi személy, egyéni vállalkozó, egyéni cég) állandó lakóhelye (székhelye), illetve szokásos tartózkodási helye (az érintett telephelye, fióktelepe) található;
+
+34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – díjnemfizetéssel megszűnik;
+
+35. üzemben tartó: a gépjármű telephelye szerinti ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos, hatósági nyilvántartásba nem vett gépjárművek esetében a gépjármű tulajdonosa vagy használója;
+
+36. zöldkártya: a zöldkártyarendszer országaiban elfogadott, egységes szabványnak megfelelő nemzetközi gépjármű-felelősségbiztosítási dokumentum, illetve elektronikus úton előállított tanúsítvány, amelyet a nemzeti iroda nevében a biztosítási szerződésnek megfelelően a biztosítók, illetve a biztosítók által meghatározott tartalommal az általuk feljogosított személyek bocsátanak ki az üzemben tartó számára, a meglátogatott országban megkövetelt gépjármű-felelősségbiztosítási fedezet meglétének igazolására;
+
+37. zöldkártyarendszer: a nemzeti irodák közötti megállapodások alapján az ezen megállapodásokban részes országok rendszere, mely rendszerhez tartozó országok hatóságai a zöldkártyában megtestesülő igazolást az országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául elfogadják.
 
 3/A. § E törvény alkalmazásában kár és kártérítés alatt a sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelem és a sérelemdíj is értendő.
 
-3/B. § (1) Ahol e törvény euróban meghatározott összegről rendelkezik, azon a tárgyév január 1-jétől december 31-ig tartó időszakára (a továbbiakban: alkalmazási időszak) vonatkozó, forintban meghatározott összegét kell érteni.
-
-(2) Az adott alkalmazási időszakra vonatkozó forintban meghatározott összeget az alkalmazási időszakot megelőző naptári év első tíz hónapjára és az euró forintra való átszámítására vonatkozó – Magyar Nemzeti Bank által közzétett – hivatalos napi árfolyamok átlagának alkalmazásával, a következő milliós forintértékre felkerekítve kell kiszámítani.
+3/B. § Ahol e törvény euróban meghatározott összegről rendelkezik, azt 368,54 HUF/EUR árfolyamon kell átváltani forintra és ezen forint összeget kell érteni alatta.
 
 ## MÁSODIK RÉSZ — A GÉPJÁRMŰ-FELELŐSSÉGBIZTOSÍTÁS SZABÁLYAI
 
@@ -83,9 +129,9 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### A biztosítási kötelezettség
 
-4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles – a külön jogszabály alapján mentesített gépjárművek kivételével – az e törvény szerinti biztosítóval a gépjármű üzemeltetése során okozott károk fedezetére, az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
+4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles – a külön jogszabály alapján mentesített gépjárművek kivételével – az e törvény szerinti biztosítóval a gépjárműhasználat során okozott károk fedezetére az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
 
-(2) A biztosítási kötelezettség, ha jogszabály másként nem rendelkezik, a mindenkori üzemben tartót a gépjármű hatósági engedéllyel és jelzéssel való ellátásának időpontjától – a szünetelés kivételével – a gépjármű forgalomból történő kivonásáig, illetve a külön jogszabályban meghatározott forgalomba helyezésre nem kötelezett gépjármű esetében a forgalomban történő részvétel kezdetétől a részvétel végleges megszüntetéséig terheli.
+(2) A biztosítási kötelezettség – ha jogszabály másként nem rendelkezik – a mindenkori üzemben tartót a gépjárműhasználat kezdetétől a gépjárműhasználat végleges megszűnéséig terheli.
 
 (3) A szerződés megkötésére vonatkozó kötelezettség tekintetében üzemben tartónak minősül a gépjármű tulajdonosa által – szerződés vagy más hitelt érdemlően igazolt jogcím alapján – üzemben tartóként megnevezett személy.
 
@@ -97,11 +143,15 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (6) Az üzemben tartó halála esetén, ha a biztosítási kötelezettség címzettje nem állapítható meg, a szerződés legkésőbb a hagyatéki eljárást lezáró határozat jogerőre emelkedésétől számított 30 napig tartható hatályban, amennyiben a gépjármű birtokosa a halál tényét a biztosítónak bejelentette, és a szerződést díjfizetéssel hatályban tartja.
 
-(7) Más tagállami telephelyű gépjármű tulajdonosa – ha a gépjármű rendeltetés helye szerinti tagállama Magyarország – köteles a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartamra az e törvény szerinti biztosítással rendelkezni.
+(7) Más tagállami telephelyű gépjármű tulajdonszerzését követően a gépjármű tulajdonosa – ha a gépjármű rendeltetési helye szerinti tagállama Magyarország – a tulajdonszerzését követően a gépjármű rendelkezésére bocsátásától számított 30 napos időtartamra köteles – választásától függően – vagy az e törvény szerinti biztosítóval vagy a gépjármű telephelye szerinti tagállam biztosítójával biztosítási szerződést kötni.
+
+(8) Az e törvény szerinti biztosítási kötelezettség nem terjed ki azon gépjárművekre, amelyek közutakon való használata nem megengedett vagy amelyeket kizárólag olyan területeken használnak, ahová a belépés a vonatkozó rendelkezések alapján korlátozott.
+
+(9) Az e törvény szerinti biztosítási kötelezettség, valamint a Kártalanítási Számla kártérítési kötelezettsége nem terjed ki a nyilvánosság elől elzárt olyan területen okozott kárra, ahová a belépés a vonatkozó rendelkezések alapján jogilag vagy fizikailag korlátozott, amennyiben ezen kárt olyan gépjármű okozta, amelynek közutakon való használata nem megengedett.
 
 ### A szerződés létrejötte és megszűnése
 
-5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama Magyarország, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni. A biztosító a biztosítási időszak kezdetét hatvan nappal megelőzően tett ajánlatot nem fogadhatja el, és ezen időpontot megelőzően szerződést nem köthet, az így létrejött szerződés érvénytelen. A biztosító az ajánlat elutasításáról annak beérkezésétől számított tizenöt napon belül értesíti az üzemben tartót.
+5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, amelynek rendeltetés helye szerinti tagállama Magyarország, továbbá a magyarországi telephelyű, de a rendeltetés helye szerint másik tagállamú gépjármű tulajdonszerzését követő tulajdonosának az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni. A biztosító a biztosítási időszak kezdetét hatvan nappal megelőzően tett ajánlatot nem fogadhatja el, és ezen időpontot megelőzően szerződést nem köthet, az így létrejött szerződés érvénytelen. A biztosító az ajánlat elutasításáról annak beérkezésétől számított tizenöt napon belül értesíti az ajánlattevő üzemben tartót.
 
 (2) Ha a biztosítási szerződés a biztosítási időszak tartama alatt a 21. § (4) bekezdésében meghatározottak szerint (díjnemfizetés) szűnik meg, az üzemben tartónak az adott biztosítási időszak hátralévő részére fedezetet nyújtó szerződés megkötésére vonatkozó ajánlatát kizárólag az a biztosító jogosult és köteles elfogadni, amelynél a szerződés az adott biztosítási időszakban díjnemfizetéssel szűnt meg.
 
@@ -146,7 +196,7 @@ indokolás nélkül felmondhatja.
 
 (1a) Az ideiglenes rendszámtáblák nyilvántartásában szereplő gépjárművek vagy rendszámok vonatkozásában a fennálló biztosítás által érintett biztosítót az e törvényben előírt feladatainak ellátása céljából az ideiglenes rendszámtáblák kiadásának, érvényességi ideje kezdetének és végének, továbbá a visszavonásának a nyilvántartásába történő bejegyzéséről a kötvénynyilvántartó szerv elektronikus úton értesíti, amely értesítést a biztosító a feladatai ellátása során figyelembe vesz.
 
-(2) A járműnyilvántartásban nem szereplő gépjármű üzemben tartója a hatósági engedély visszavonását, a tulajdonjog átruházását, illetve az üzemben tartó változását igazoló okiratot, a forgalomban történő részvétel végleges megszüntetését tanúsító nyilatkozatát köteles a biztosítónál 15 napon belül bemutatni.
+(2) A járműnyilvántartásban nem szereplő gépjármű üzemben tartója a hatósági engedély visszavonását, a tulajdonjog átruházását, illetve az üzemben tartó változását igazoló okiratot, a gépjárműhasználat végleges megszüntetését tanúsító nyilatkozatát köteles a biztosítónál 15 napon belül bemutatni.
 
 (3) A biztosító köteles – a díjnemfizetéssel történő megszűnés esetének kivételével – a biztosítási szerződés megszűnésének tényéről és a megszűnt szerződés külön rendeletben meghatározott bonus-malus besorolásáról a megszűnést, illetve az arról történt tudomásszerzést követő 30 napon belül az üzemben tartót írásban tájékoztatni.
 
@@ -182,7 +232,7 @@ indokolás nélkül felmondhatja.
 
 ### A helytállási kötelezettség és annak mértéke
 
-12. § A biztosítás kiterjed a felelősség kérdésének vizsgálatára, és azoknak a megalapozott kártérítési igényeknek a kielégítésére, amelyeket a biztosított személyekkel szemben a biztosítási szerződésben megjelölt gépjármű üzemeltetése során okozott károk miatt támasztanak.
+12. § A biztosítás kiterjed a felelősség kérdésének vizsgálatára, és azoknak a megalapozott kártérítési igényeknek a kielégítésére, amelyeket a biztosított személyekkel szemben a biztosítási szerződésben megjelölt gépjármű használata során okozott károk miatt támasztanak.
 
 13. § (1) Egy biztosítási esemény vonatkozásában a károsultak számától függetlenül a biztosító dologi károk esetén káreseményenként egymillió-háromszázezer eurónak megfelelő forintösszeg-határig, személyi sérülés miatti károk esetén káreseményenként hatmillió-négyszázötvenezer eurónak megfelelő forintösszeg-határig köteles helytállni, amely összegek magukban foglalják a káresemény kapcsán bármilyen jogcímen érvényesíthető követeléseket, az igényérvényesítés költségeit (beleértve a jogi képviseleti költségeket is), valamint a teljesítés időpontjáig eltelt időszakra járó kamatokat.
 
@@ -209,12 +259,12 @@ indokolás nélkül felmondhatja.
 - c) a károkozó gépjármű biztosítottjainak egymással szembeni igényéből származó dologi kárként, illetve elmaradt haszonként keletkezett;
 - d) sugárzó, toxikus anyagok és termékek hatására, vagy az egészségügyi hatóságok részéről a sugárzás káros hatásainak megszüntetését célzó intézkedések folytán keletkezett;
 - e) a gépjármű balesete nélkül az út burkolatában keletkezett;
-- f) a gépjármű – forgalomban való részvétele nélkül – munkagépként való használata során keletkezett;
-- g) álló gépjárműre fel-, illetve arról való lerakodás következtében keletkezett;
-- h) üzemi balesetnek minősül, és a gépjármű javítási vagy karbantartási munkái során keletkezett;
-- i) gépjárműverseny vagy az ahhoz szükséges edzés során következett be;
+- f) a gépjármű szállítási, illetve közlekedési eszközkénti rendeltetésétől eltérő módon, munkagépként való használata során keletkezett;
+- g)
+- h) munkabalesetnek minősül, és a gépjármű javítási vagy karbantartási munkái során keletkezett;
+- i) gépjárműsport-rendezvény során következett be;
 - j) környezetszennyezéssel a gépjármű balesete nélkül keletkezett;
-- k) a gépjármű üzemeltetésével egyéb vagyontárgyban folyamatos állagrongálással okozott, illetőleg állagromlásból adódott;
+- k) a gépjármű használatával egyéb vagyontárgyban folyamatos állagrongálással okozott, illetőleg állagromlásból adódott;
 - l) háború, háborús cselekmény, terrorcselekmény következményeként keletkezett.
 
 ### A biztosítási szerződés időbeli hatálya, és a biztosítási időszak
@@ -254,7 +304,7 @@ indokolás nélkül felmondhatja.
 
 (4) A biztosító kockázatviselése a 21. § (4) bekezdésében meghatározott türelmi időben fennáll.
 
-(5) A szerződés érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a forgalomból történő kivonás, a forgalomban történő részvétel végleges megszüntetése, a szerződéskötésre kötelezett üzemben tartó személyének változása esetén a tulajdonjog átszállása, illetve az üzemben tartói jogosultság megszűnésének – járműnyilvántartásba bejegyzett – időpontjában szűnik meg.
+(5) A szerződés érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a forgalomból történő kivonás, a gépjárműhasználat végleges megszüntetése, a szerződéskötésre kötelezett üzemben tartó személyének változása esetén a tulajdonjog átszállása, illetve az üzemben tartói jogosultság megszűnésének – járműnyilvántartásba bejegyzett – időpontjában szűnik meg.
 
 (5a) A szerződés 7. § (3a) bekezdésében meghatározott érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a peres, nemperes eljárásban hozott döntés jogerőre emelkedését vagy hatósági eljárásban hozott döntés véglegessé válását követő harmincadik napon szűnik meg, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
 
@@ -372,13 +422,13 @@ indokolás nélkül felmondhatja.
 
 (2) A biztosítót az (1) bekezdésben meghatározott ideiglenes kivonás tényéről, valamint annak kezdő és záró időpontjáról a kötvénynyilvántartó szerv elektronikus úton értesíti.
 
-(3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb egy évig tart.
+(3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától – hivatalból történő ideiglenes kivonás esetén a (6) bekezdésben meghatározott naptól – a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb egy évig tart.
 
 (4) Ha az újbóli üzembe helyezés a kivonás napjától számított egy éven belül nem történik meg, a szerződés az egyéves időszak utolsó napját követő napon megszűnik.
 
 (5) A szünetelést követő díjrészlet fizetésének esedékessége – a felek eltérő megállapodásának hiányában – a szünetelés megszűnésének a napja.
 
-(6) A hivatalból történő ideiglenes kivonás következtében fennálló szünetelés esetén a biztosító a (2) bekezdésben meghatározott értesüléstől számított 15 napon belül tájékoztatja az üzemben tartót a kockázatviselés szünetelésének tényéről és az esetlegesen bekövetkező károkozás következményeiről.
+(6) A hivatalból történő ideiglenes kivonás következtében fennálló szünetelés esetén a biztosító a (2) bekezdésben meghatározott értesüléstől számított három munkanapon belül tájékoztatja az üzemben tartót a kockázatviselés – értesüléstől számított nyolcadik munkanapot követő napon bekövetkező – szünetelésének tényéről és az esetlegesen bekövetkező károkozás következményeiről.
 
 (7) A szünetelés időtartama alatt az üzemben tartó kötelezettsége a szerződés folyamatos díjfizetéssel történő hatályban tartására nem áll fenn.
 
@@ -386,13 +436,18 @@ indokolás nélkül felmondhatja.
 
 ### Kártérítési igények érvényesítése
 
-27. § A biztosító, a Kártalanítási Számla kezelője, a Nemzeti Iroda, a kárrendezési megbízott, valamint a Kártalanítási Szervezet a gépjármű üzemeltetése során okozott kárt az e törvényben foglaltak szerint megtéríti. E kártérítés nem érinti a károsultnak a Polgári Törvénykönyv szerződésszegéssel okozott károkért való felelősség szabályai alapján érvényesíthető további kártérítési igényét.
+27. § A biztosító, a Kártalanítási Számla kezelője, a Nemzeti Iroda, a kárrendezési megbízott, valamint a Kártalanítási Szervezet a gépjármű használata során okozott kárt az e törvényben foglaltak szerint megtéríti. E kártérítés nem érinti a károsultnak a Polgári Törvénykönyv szerződésszegéssel okozott károkért való felelősség szabályai alapján érvényesíthető további kártérítési igényét.
 
-28. § (1) A károsult kártérítési igényét e törvény alapján, a biztosítási szerződés keretei között a károkozó gépjármű üzemben tartójának biztosítójával szemben közvetlenül, illetve az e törvényben meghatározott esetekben a Kártalanítási Számla kezelőjével szemben jogosult érvényesíteni.
+28. § (1) A károsult kártérítési igényét e törvény alapján, a biztosítási szerződés keretei között a károkozó gépjármű üzemben tartójának biztosítójával szemben közvetlenül, illetve az e törvényben meghatározott esetekben a Kártalanítási Számla kezelőjével vagy a Kártalanítási Alap kezelőjével szemben jogosult érvényesíteni.
 
 (2) A más tagállam területén lakóhellyel (székhellyel) rendelkező károsult keresetet indíthat a károkozó Magyarország területén székhellyel rendelkező biztosítójával szemben a lakóhelye (székhelye) szerinti tagállamban, vagy a baleset bekövetkezésének helye szerinti tagállamban, amennyiben a baleset a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában következett be.
 
 (3) A biztosítóval szemben támasztott követeléseket a károsult választása szerint a kárképviselővel szemben is érvényesítheti a biztosítóra kiterjedő joghatállyal.
+
+(4) Pótkocsiból és az azt vontató gépjárműből álló járműszerelvény által okozott baleset esetén – ha a pótkocsi azonosítható, azonban a vontató gépjármű nem azonosítható – a pótkocsi biztosítója, feltéve, hogy a teljes kár megtérítésére nem köteles, a károsultat annak kérelmére haladéktalanul tájékoztatja:
+
+- a) a pótkocsit vontató gépjármű biztosítójának nevéről, vagy
+- b) – amennyiben a pótkocsi biztosítója nem tudja azonosítani a pótkocsit vontató gépjármű biztosítóját – a Kártalanítási Számla helytállási kötelezettségéről.
 
 29. § (1) A biztosítási esemény bekövetkeztekor a baleset részesei a helyszínen kötelesek átadni egymásnak a személy, a gépjármű és a biztosítási szerződés azonosításához szükséges – a 46. § (2) bekezdésének a), b) és d) pontjaiban meghatározott – adatokat, valamint a baleset lényeges körülményeire vonatkozó információkat. Az így átadott adatok az e törvényben meghatározott feladatainak ellátása céljából kizárólag a biztosítóhoz, a Nemzeti Irodához, a Kártalanítási Számla kezelőjéhez, a Kártalanítási Szervezethez, a MABISZ mint az e-kárbejelentő működtetője részére, a levelezőhöz, a kárrendezési megbízotthoz, a kárképviselőhöz, az egészségbiztosítási szervhez, a nyugdíjbiztosítási szervhez továbbíthatók és a Bit. biztosítási titokra vonatkozó szabályai szerint kezelendők.
 
@@ -445,6 +500,8 @@ indokolás nélkül felmondhatja.
 - f) a vezetőtől, ha a kárt segítségnyújtás elmulasztásával, illetve foglalkozás körében elkövetett szándékos veszélyeztetéssel okozta;
 - g) az üzemben tartótól, illetve a vezetőtől, ha a szerződés megkötésekor, a biztosítási esemény bekövetkezésekor, vagy egyébként terhelő közlési, változásbejelentési, kárbejelentési kötelezettségét nem teljesítette, oly mértékben, ahogyan ez a fizetési kötelezettséget befolyásolta.
 
+(1a) A Nemzeti Iroda, valamint a Kártalanítási Számla kezelője az általa kifizetett kártérítési összeg megtérítését követelheti az üzemben tartótól, illetve a vezetőtől, ha a kárt a 4. § (8) bekezdésében meghatározott gépjárművel okozták.
+
 (2) Ha a biztosított az (1) bekezdés c) pontjában, valamint a vezető az f) pontban felsorolt esetekben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 5 millió Ft-ig érvényesítheti követelését.
 
 (3) Ha a biztosított az (1) bekezdés d) pontjában, valamint az üzemben tartó az (1) bekezdés e) pontjában meghatározott esetben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 1,5 millió Ft-ig érvényesítheti követelését.
@@ -457,7 +514,7 @@ indokolás nélkül felmondhatja.
 
 ### A Kártalanítási Számla helytállási kötelezettsége
 
-35. § (1) A károsult a biztosítási kötelezettség ellenére szerződéssel nem rendelkező, vagy ismeretlen üzemben tartó gépjárműve által vagy az ismeretlen gépjárművel Magyarország területén okozott, vagy a 26. §-ban meghatározott szünetelés ideje alatt bekövetkezett kárának megtérítése iránti igényét az e törvényben foglaltak alapján – a 36. §-ban foglalt kivételekkel – a Kártalanítási Számla kezelőjével szemben is érvényesítheti. A Kártalanítási Számla kezelője a 13. § (1) bekezdésében meghatározott összeghatárokig köteles helytállni. A károsult kárát a Kártalanítási Számla kezelője akkor is köteles megtéríteni, ha a kárt forgalomba nem helyezett vagy a forgalomból kivont gépjárművel okozták.
+35. § (1) A károsult a biztosítási kötelezettség ellenére szerződéssel nem rendelkező, vagy ismeretlen üzemben tartó gépjárműve által, vagy az ismeretlen gépjárművel vagy a 4. § (8) bekezdésében meghatározott gépjárművel Magyarország területén okozott, vagy a 26. §-ban meghatározott szünetelés ideje alatt bekövetkezett kárának megtérítése iránti igényét az e törvényben foglaltak alapján – a 36. §-ban foglalt kivételekkel – a Kártalanítási Számla kezelőjével szemben is érvényesítheti. A Kártalanítási Számla kezelője a 13. § (1) bekezdésében meghatározott összeghatárokig köteles helytállni. A károsult kárát a Kártalanítási Számla kezelője akkor is köteles megtéríteni, ha a kárt forgalomba nem helyezett vagy a forgalomból kivont gépjárművel okozták.
 
 (2) Ha biztosítási fedezettel nem rendelkező üzemben tartó magyarországi telephelyű gépjárművével más tagállam területén kárt okoz, vagy ha a károkozó gépjármű rendeltetés helye szerinti tagállama Magyarország, a Kártalanítási Számla kezelője a 13. § (2) bekezdésében meghatározott mértékig megtéríti a károsult kárát, vagy a külföldi nemzeti iroda, illetve tagja, a tagállam kártalanítási szervezete, vagy garanciaalapja visszakövetelési igényét. Nem tagállam területén okozott károk esetében a Kártalanítási Számla kezelőjét e kötelezettség a nemzeti irodák közötti ez irányú megállapodás alapján terheli.
 
@@ -467,6 +524,8 @@ indokolás nélkül felmondhatja.
 
 (2) A vagyon- és felelősségbiztosításból, valamint a társadalombiztosításból eredő megtérítési követeléseket a Kártalanítási Számla nem fedezi.
 
+(2a) A Kártalanítási Számla kezelőjének kártalanítási kötelezettsége nem terjed ki a 4. § (9) bekezdésében meghatározott feltételek megléte esetén okozott károkra.
+
 (3) A Kártalanítási Számla kezelőjének kártalanítási kötelezettsége nem terjed ki az ismeretlen gépjárművel a károsult gépjárműben, az útban, az út tartozékát képező közlekedési műtárgyakban, az elektromos és a hírközlési berendezésekben és egyéb közművekben, ezek tartozékaiban, a reklámhordozó eszközökben, továbbá az egyéb vagyontárgyakban okozott károkra.
 
 (4) Ha az ismeretlen gépjárművel okozott baleset halállal vagy súlyos személyi sérüléssel jár, a Kártalanítási Számla kezelője megtéríti a károsult gépjárműben okozott károkat is.
@@ -475,24 +534,21 @@ indokolás nélkül felmondhatja.
 
 (6) Ha a Kártalanítási Számla kezelője és a biztosító között vitás az, hogy ki köteles a vétlen károsult kárát megtéríteni, a kártérítés összegét a Kártalanítási Számla kezelője megelőlegezi, és utólag a károkozó biztosítójával elszámol. A Kártalanítási Számla kezelője előlegezi meg a kártérítés összegét abban az esetben is, ha a biztosítók között vitás az, hogy ki köteles a vétlen károsult kárát megtéríteni.
 
-(6a) A Kártalanítási Számla kezelője téríti meg a – még meg nem térített – jogalapjában és összegszerűségében dokumentumokkal alátámasztott kártérítés összegét a károsultnak abban az esetben is, ha
+(6a)
 
-- a) Magyarországon határon átnyúló szolgáltatás keretében vagy fióktelep útján tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító – kötelező gépjármű-felelősségbiztosítás művelésére vonatkozó – tevékenységi engedélyét a székhely szerinti tagállam felügyeleti hatósága visszavonta és
-- b) az a) pontban meghatározott biztosító a kötelező gépjármű-felelősségbiztosítási szerződésen alapuló kártérítési igényeket – a székhely szerinti tagállam felügyeleti hatósága vagy a Felügyelet által megállapítottan – nem teljesíti.
+(6b)
 
-(6b) A (6a) bekezdésben meghatározott kártérítési összeg megtérítésére a Kártalanítási Számla kezelője akkor köteles, ha a Felügyelet a (6a) bekezdésben meghatározott feltételek fennállására vonatkozó tájékoztatóját a honlapján közzétette és a károsult a megtérítésre vonatkozó bejelentését a Felügyelet által közzétett tájékoztatóban meghatározottak szerint megtette.
+(6c)
 
-(6c) A kártérítési igények fennállásának, valamint jogalapjának és összegszerűségének megállapítása érdekében a (6a) bekezdés a) pontjában meghatározott biztosító a (6b) bekezdésben meghatározott tájékoztatás közzétételét követő 15 napon belül köteles a nála bejelentett, még ki nem elégített kártérítési igényekre vonatkozó adatokat és okiratokat vagy azok másolatát, valamint a károkozás időpontjában a biztosítási fedezet meglétére vonatkozó igazolást a Kártalanítási Számla kezelője részére átadni. Az adatok, okirat(másolat)ok és igazolás átadása informatikai módszerrel történik nyílt szabványoknak vagy elterjedt elektronikus formátumnak megfelelő, informatikailag olvasható formátumban.
+(6d)
 
-(6d) A (6b) bekezdésben meghatározott – bejelentett – megtérítési igényekkel kapcsolatban a (6a) bekezdés a) pontjában meghatározott biztosító a Kártalanítási Számla kezelője kérésére három napon belül köteles kiegészítő tájékoztatást adni.
+(6e)
 
-(6e) A (6c) bekezdés szerinti adatok, okirat(másolat)ok és igazolás beszerzését a Felügyelet a (6a) bekezdés a) pontjában meghatározott biztosító székhelye szerinti tagállam felügyeleti hatóságával történő felügyeleti együttműködése keretében elősegíti.
+(6f)
 
-(6f) A (6a) bekezdés a) pontjában meghatározott biztosító a (6c) bekezdés szerinti adatok, okirat(másolat)ok és igazolás átadásának napját követően – a (6h) bekezdésben meghatározott eset kivételével – a károsultaktól kárigényt nem fogadhat be.
+(6g)
 
-(6g) A (6a) bekezdésben meghatározott megtérítési kötelezettség a Kártalanítási Alap megtérítési kötelezettségének beálltával megszűnik.
-
-(6h) A (6a) bekezdésben meghatározott megtérítési kötelezettség akkor is megszűnik, ha a (6a) bekezdésben meghatározott biztosító, a kárrendezés lefolytatására feljogosított garanciaalap vagy egyéb szervezet, illetve ezek megbízottja a kárrendezési eljárást megkezdi. Ebben az esetben a Kártalanítási Számla kezelője a nála folyamatban lévő ügyek aktáit – 15 napon belül – lezárja és azokat a kárrendező részére átadja.
+(6h)
 
 (7) A harmadik országbeli károsult kárát a Kártalanítási Számla kezelője kizárólag akkor téríti meg, ha a károsult országában magyar állampolgár részére a baleset időpontjában hasonló esetben kártalanítás jár.
 
@@ -506,15 +562,11 @@ indokolás nélkül felmondhatja.
 - f) a vezetőtől, ha a gépjárművet alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotban vezette;
 - g) a vezetőtől, ha a gépjármű vezetésére jogosító engedéllyel nem rendelkezett;
 - h) a vezetőtől, ha a kárt segítségnyújtás elmulasztásával, illetve foglalkozás körében elkövetett szándékos veszélyeztetéssel okozta.
+- i) egyetemlegesen a 4. § (8) bekezdésében meghatározott gépjármű üzemben tartójától és vezetőjétől.
 
-(8a) A (6a) bekezdésben meghatározott megtérítés folytán a Kártalanítási Számlára száll át – a kötelező gépjármű-felelősségbiztosítási szerződés, továbbá magyar vagy tagállami jogszabályi rendelkezés alapján – a károsultat
+(8a)
 
-- a) a nem teljesítő biztosítóval szemben, továbbá
-- b) az a) pontban meghatározott biztosítóra tekintettel a kártérítésre, illetve megtérítésre kötelezett külföldi szervezettel, illetve a Kártalanítási Alappal szemben
-
-megillető minden jog és követelés.
-
-(8b) A Kártalanítási Számlát a (8a) bekezdés szerinti engedményezés következtében megillető jogok és követelések érvényesítése során a károsult a Kártalanítási Számla kezelőjével – az érvényesítéshez szükséges adatok, okiratok, igazolások, nyilatkozatok beszerzése elősegítése érdekében – együttműködni köteles.
+(8b)
 
 (9) A Kártalanítási Számla kezelője e törvény alapján feladatainak ellátása, illetve őt megillető igényének érvényesítése érdekében pert indíthat.
 
@@ -524,15 +576,17 @@ megillető minden jog és követelés.
 
 (12) A (11) bekezdésben meghatározott jogosultság azon káreseményből eredő követelés vonatkozásában nem illeti meg a Kártalanítási Számla kezelőjét, amely a felszámolás kezdő időpontjának napjától az azt követő hatvanadik nap végéig bekövetkezett. Azon felszámolás alatt álló biztosító esetén, amely Magyarország területén székhellyel vagy fiókteleppel nem rendelkezik és Magyarország területén határon átnyúló szolgáltatás keretében végezte a tevékenységét, a hatvannapos időtartam a felszámolásról szóló döntés Európai Közösségek Hivatalos Lapjában a 11. melléklet A) részében meghatározott nyomtatványban megjelölt döntés jogerőre emelkedésének a napján kezdődik.
 
+36/A. § A forgalomból kivont gépjárművel vagy a 4. § (8) bekezdésében meghatározott gépjárművel Magyarország területén okozott károk megtérítése esetében a Kártalanítási Számla kezelője megtérítéssel élhet a balesetet okozó gépjármű telephelye szerinti tagállam garanciaalapjával szemben.
+
 ### A kárrendezési megbízott
 
 37. § (1) A Magyarország területén székhellyel rendelkező biztosító a (2) bekezdésben meghatározott feladatok ellátására kárrendezési megbízottat jelöl ki.
 
-(2) Ha a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában magyarországi telephelyű gépjármű üzemeltetésével kárt okoznak, és a károkozónak a Magyarország területén székhellyel rendelkező biztosítójával szemben a más tagállam területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt kártérítési igénye keletkezik, a károsult kártérítési igényét lakóhelye (székhelye) szerinti tagállam területén a károkozó biztosítója által kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó biztosítójával szemben közvetlenül is érvényesítheti.
+(2) Ha a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában magyarországi telephelyű gépjármű használatával kárt okoznak, és a károkozónak a Magyarország területén székhellyel rendelkező biztosítójával szemben a más tagállam területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt kártérítési igénye keletkezik, a károsult kártérítési igényét lakóhelye (székhelye) szerinti tagállam területén a károkozó biztosítója által kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó biztosítójával szemben közvetlenül is érvényesítheti.
 
 (3) A Magyarország területén székhellyel rendelkező biztosító kárrendezési megbízottja a kártérítési igényekkel kapcsolatban köteles összegyűjteni a kártérítési igények rendezéséhez szükséges valamennyi információt, és köteles a kárrendezés elintézéséhez szükséges minden intézkedést megtenni, valamint a kárrendezési eljárást a károsult lakóhelye, illetve székhelye szerinti tagállam hivatalos nyelvén lefolytatni.
 
-(4) Ha – Magyarország területén kívül – a zöldkártyarendszer valamely országában más tagállam területén telephellyel rendelkező gépjármű (nem magyarországi telephelyű gépjármű) üzemeltetésével kárt okoznak, és a Magyarország területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt a károkozó gépjármű-felelősségbiztosítójával szemben kártérítési igénye keletkezik („szenvedett kár”), kártérítési igényét a károkozó gépjármű-felelősségbiztosítója által Magyarországra kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó gépjármű-felelősségbiztosítójával szemben közvetlenül is érvényesítheti.
+(4) Ha – Magyarország területén kívül – a zöldkártyarendszer valamely országában más tagállam területén telephellyel rendelkező gépjármű (nem magyarországi telephelyű gépjármű) használatával kárt okoznak, és a Magyarország területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt a károkozó gépjármű-felelősségbiztosítójával szemben kártérítési igénye keletkezik („szenvedett kár”), kártérítési igényét a károkozó gépjármű-felelősségbiztosítója által Magyarországra kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó gépjármű-felelősségbiztosítójával szemben közvetlenül is érvényesítheti.
 
 ### A kárképviselő
 
@@ -578,9 +632,9 @@ megillető minden jog és követelés.
 
 ### Külföldi telephelyű gépjárművekre vonatkozó rendelkezések
 
-41. § A külföldi telephelyű gépjármű Magyarország területére harmadik ország, valamint a Rendszámegyezményhez nem csatlakozott tagállam területéről csak akkor léphet be, illetve Magyarország területén akkor vehet részt a forgalomban, ha
+41. § A külföldi telephelyű gépjármű Magyarország területére harmadik ország, valamint a Rendszámegyezményhez nem csatlakozott tagállam területéről csak akkor léphet be, illetve Magyarország területén akkor közlekedhet, ha
 
-- a) üzemben tartója (vezetője) érvényes gépjármű-felelősségbiztosítási fedezetet igazoló nemzetközi igazolvánnyal rendelkezik, vagy
+- a) üzemben tartója (vezetője) érvényes gépjármű-felelősségbiztosítási fedezetet igazoló zöldkártyával rendelkezik, vagy
 - b) a gépjármű olyan ország hatósági jelzéseit és országjelét viseli, amely a Rendszámegyezmény részese.
 
 42. § (1) Ha a külföldi telephelyű gépjármű üzemben tartója (vezetője) az érvényes gépjármű-felelősségbiztosítási fedezet fennállását a 41. §-ban meghatározott módon nem igazolja, Magyarország területére való belépéskor köteles az e törvény szerinti biztosítóval, vagy biztosítók e célra létrehozott csoportjával határozott időre szóló szerződést (határbiztosítást) kötni, azt a tartózkodás idején folyamatosan fenntartani, s az ezt tanúsító okiratot magánál tartani. E szerződésre a magyar jogot kell alkalmazni és fedezetet kell nyújtania a tagállamok területén okozott károkra.
@@ -591,17 +645,24 @@ megillető minden jog és követelés.
 
 (4) A külföldi telephelyű gépjárművek Magyarország területére történő belépésekor a vámhatóság ellenőrzi a 41. §-ban foglaltak fennállását.
 
-(5) A (2) bekezdés szerinti gépjárművek esetében abban az esetben végezhetnek a jogszabályokban a biztosítás ellenőrzésére feljogosított szervek a biztosításra vonatkozó ellenőrzést, ha az nem rendszeres és nem megkülönböztető jellegű, és olyan ellenőrzés részeként végzik, amely nem kizárólag a biztosítás ellenőrzésére irányul.
+(5) A (2) bekezdés szerinti gépjárművek esetében abban az esetben végezhetnek jogszabályban a biztosítás ellenőrzésére feljogosított szervek a biztosításra vonatkozó ellenőrzést, ha az szükséges, az elérendő céllal arányos, nem megkülönböztető jellegű, és
+
+- a) olyan ellenőrzés részeként végzik, amely nem kizárólag a biztosítás ellenőrzésére irányul, vagy
+- b) az általános ellenőrzési rendszer részét képezi, amelynek keretében magyarországi szokásos üzemben tartási hellyel rendelkező gépjárműveket is ellenőrzik, és ahhoz nem szükséges a gépjármű megállítása.
+
+(6) Az (5) bekezdés szerinti ellenőrzés során – a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséról szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelettel (általános adatvédelmi rendelet) összhangban – a személyes adatok kezelhetők, amennyiben ez a nem magyarországi szokásos üzembentartási hellyel rendelkező gépjárművek biztosítás nélküli használatával szembeni fellépés céljából szükséges.
+
+(7) A (6) bekezdés szerinti adatkezelés során meg kell határozni az adatkezelés pontos célját, hivatkozni kell a vonatkozó jogalapra, meg kell felelni a vonatkozó biztonsági követelményeknek és tiszteletben kell tartani a szükségesség, az arányosság és a célhoz kötöttség elvét, továbbá arányos adatmegőrzési időszakot kell megállapítani. A kizárólag a biztosítás ellenőrzése céljából kezelt személyes adatok csak addig őrizhetők meg, amíg azokra szükség van az említett cél eléréséhez, és amint ez megvalósult, azokat teljes egészében törölni kell. Ha a biztosítás ellenőrzése során megállapítják, hogy egy gépjármű rendelkezik érvényes és hatályos kötelező gépjármű-felelősségbiztosítással, úgy az adatkezelő haladéktalanul törli az adatokat. Ha az ellenőrzés során nem sikerül megállapítani, hogy a gépjármű rendelkezik-e érvényes és hatályos kötelező gépjármű-felelősségbiztosítással, az adatok csak a biztosítási fedezet meglétének ellenőrzéséhez szükséges ideig őrizhetőek meg.
 
 ### Nemzeti Iroda
 
-43. § (1) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt, a kártérítési igényt – a 13. § (1) bekezdésében meghatározott értékhatárt figyelembe véve – a Nemzeti Irodával szemben is lehet érvényesíteni. Ha a károkozó gépjármű-felelősségbiztosítója – a Nemzeti Iroda hozzájárulásával – a biztosítottjai által Magyarország területén okozott károk rendezésére levelezővel megállapodást kötött, a károk rendezését és a Nemzeti Iroda perbeli képviselete ellátását – a Nemzeti Iroda ellentétes rendelkezése hiányában – e levelező, illetve képviselője végzi.
+43. § (1) Ha Magyarország területén külföldi telephelyű gépjármű használatával okoztak kárt, a kártérítési igényt – a 13. § (1) bekezdésében meghatározott értékhatárt figyelembe véve – a Nemzeti Irodával szemben is lehet érvényesíteni. Ha a károkozó gépjármű-felelősségbiztosítója – a Nemzeti Iroda hozzájárulásával – a biztosítottjai által Magyarország területén okozott károk rendezésére levelezővel megállapodást kötött, a károk rendezését és a Nemzeti Iroda perbeli képviselete ellátását – a Nemzeti Iroda ellentétes rendelkezése hiányában – e levelező, illetve képviselője végzi.
 
 (2) A Nemzeti Iroda ellátja a Kártalanítási Szervezet és az Információs Központ e jogszabályban meghatározott feladatait.
 
 (2a) A Nemzeti Iroda a határbiztosítással kapcsolatos feladatok ellátásáról gondoskodik, ezen feladatok elvégzésére biztosítóval megbízási szerződést köthet.
 
-(3) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
+(3) Ha Magyarország területén külföldi telephelyű gépjármű használatával okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
 
 (3a) A Nemzeti Iroda megtérítése folytán a károsultat a károkozóval és biztosítójával szemben megillető követelés a Nemzeti Irodára száll át.
 
@@ -616,6 +677,55 @@ változás következik be.
 (5) A MABISZ a (4) bekezdésben meghatározott kategóriák szerinti országok listájáról minden év január 15-éig tájékoztatót jelentet meg, valamint változás esetén az aktuális listát a tájékoztatás kézhezvételétől számított 15 napon belül az internetes honlapján közzéteszi és gondoskodik róla, hogy ezen információk a honlapján folyamatosan elérhetőek legyenek.
 
 (6) Az Európai Bizottság – a tagállamok gépjármű-felelősségbiztosításra és a biztosítási kötelezettség ellenőrzésére vonatkozó jogszabályainak közelítéséről szóló 1972. április 24-i, 72/166/EGK tanácsi irányelv 2. cikk (2) bekezdése alapján – a csatlakozással kapcsolatosan a Hivatalos Lapban közzétett határozatában megjelölt időponttól kell az országot a Rendszámegyezményhez csatlakozott országnak tekinteni.
+
+### A Kártalanítási Alap helytállási kötelezettsége
+
+43/A. § (1) Ha azzal a biztosítóval szemben, amelynél az üzemben tartó a károkozó gépjárműve vonatkozásában a károkozás időpontjában biztosítási szerződés alapján fedezettel rendelkezett, a biztosító tevékenységét engedélyező tagállamban csőd- vagy felszámolási eljárást indítottak, a csőd- vagy felszámolási eljárás megindításának időpontjától kezdve a magyarországi lakóhellyel rendelkező károsult a kárának megtérítése iránti igényét a Kártalanítási Alap kezelőjével szemben is érvényesítheti függetlenül attól, hogy a kárt Magyarország területén, vagy a 37. § (4) bekezdése szerinti esetben Magyarország területén kívül okozták.
+
+(2) Ha a károsult az (1) bekezdés szerint kártérítési igényét a Kártalanítási Alaphoz nyújtotta be, a Kártalanítási Alap erről a tényről a kártérítési igény kézhezvételét követően tájékoztatja
+
+- a) a károkozó gépjármű biztosítójának székhelye szerinti másik tagállam kártérítési szervezetét,
+- b) a Kártalanítási Szervezetet, és
+- c) a károkozó gépjármű csődeljárás vagy felszámolási eljárás alatt álló
+  - ca) biztosítóját vagy
+  - cb) biztosítójának a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelv (a továbbiakban: Szolvencia 2 irányelv) 268. cikk (1) bekezdés e) pontjában meghatározott vagyonfelügyelőjét, illetve f) pontjában meghatározott felszámolóját.
+
+(3) A felszámolási eljárás alatt álló magyarországi székhelyű biztosító felszámolója tájékoztatja a másik tagállam kártérítési szervezetét, ha kártérítést nyújt, vagy nem ismeri el felelősségét egy olyan kárigény esetében, amelyet a Kártalanítási Alaphoz is továbbítottak.
+
+(4) A Kártalanítási Alap köteles – többek között a Kártalanítási Alap kérésére a károsult által, továbbá a csőd- vagy felszámolási eljárás alatt álló biztosító vagy annak a Szolvencia 2 irányelv 268. cikk (1) bekezdés e) pontjában meghatározott vagyonfelügyelője, illetve f) pontjában meghatározott felszámolója által szolgáltatott információk alapján – legkésőbb a kártérítési igény benyújtásától számított három hónapon belül a károsultnak
+
+- a) kellően megindokolt kártérítési javaslatot tenni azokban az esetekben, amelyekben
+  - aa) megállapítja, hogy az (1) bekezdés értelmében helytállási kötelezettsége áll fenn,
+  - ab) a felelősség nem vitás és
+  - ac) a kárt a 13. § (1) és (2) bekezdésében foglaltaknak megfelelően, jogcímenként összegszerűen megállapította, vagy
+- b) indokolással ellátott választ adni a kártérítési igényben foglalt egyes követelésekre, azokban az esetekben, amikor
+  - ba) megállapítja, hogy az (1) bekezdés értelmében nem áll fenn helytállási kötelezettsége,
+  - bb) a felelősséget nem ismeri el vagy az nem egyértelmű, vagy
+  - bc) a teljes kárt összegszerűen nem állapította meg.
+
+(5) Ha a Kártalanítási Alap a (4) bekezdés a) pontja szerinti kártérítési javaslatot tett, egyösszegű pénzbeli kártérítés esetén köteles a megállapított összeget a kártérítési javaslat elfogadását követően indokolatlan késedelem nélkül, de legfeljebb a kártérítési javaslat károsult általi elfogadásától számított három hónapon belül a károsultnak megfizetni.
+
+(6) Ha a kárt csak részben határozták meg összegszerűen, az (5) bekezdésben foglaltakat a kár összegszerűen meghatározott részére kell alkalmazni a vonatkozó, indokolással ellátott kártérítési javaslat károsult általi elfogadásának időpontjától kezdve.
+
+43/B. § (1) A Kártalanítási Alap haladéktalanul tájékoztatja valamennyi másik tagállam kártérítési, valamint kártalanítási szervezetét a Magyarországon székhellyel rendelkező biztosító felszámolását elrendelő jogerős bírósági végzésről.
+
+(2) A Kártalanítási Alap az ezen alcím szerinti eljárás valamennyi szakaszában kellő időben együttműködik a másik tagállamok kártérítési szervezeteivel, továbbá kártalanítási szervezeteivel, a csődeljárás vagy felszámolási eljárás alatt álló biztosítóval, annak kárrendezési megbízottjával, vagyonfelügyelőjével vagy felszámolójával, valamint más tagállamok illetékes nemzeti hatóságaival és valamennyi egyéb érdekelt féllel.
+
+(3) A Kártalanítási Alap a (2) bekezdés szerinti együttműködés keretében jogosult a (2) bekezdésben felsorolt személyektől és szervezetektől információt kérni, illetve kapni, valamint ezek számára információt nyújtani, különösen az adott kárigény részleteiről.
+
+(4) A (2) bekezdés szerinti együttműködés keretében a felszámolási eljárás alatt álló magyarországi székhelyű biztosító, illetve annak felszámolója, a Felügyelet, valamint a magyar jog hatálya alá tartozó egyéb érdekelt felek kötelesek a másik tagállam kártérítési szervezetének információt nyújtani, illetve jogosultak attól információt kérni vagy kapni, különösen az adott kárigény részleteiről.
+
+43/C. § (1) Ha a Kártalanítási Alap a másik tagállamban székhellyel rendelkező, csődeljárás vagy felszámolási eljárás alatt álló biztosítóval szemben fennálló, a 43/A. § (1) bekezdés szerinti igény alapján a károsultnak – a 43/A. § (5), illetve (6) bekezdése szerint – kifizette a kártérítési összeget, akkor a Kártalanítási Alap jogosult ezen kifizetett összeg és az ezzel kapcsolatban felmerült összes ráfordítása és költsége teljes megtérítését követelni a csődeljárás vagy felszámolási eljárás alatt álló biztosító székhelye szerinti másik tagállam kártérítési szervezetétől.
+
+(2) Az (1) bekezdés szerinti megtérítés folytán a károsultat a károkozóval és biztosítójával szemben megillető jogok a másik tagállam kártérítési szervezetére szállnak át, kivéve a károsultnak a balesetet okozó szerződő vagy más biztosított személlyel szembeni azon jogait, amelyek alapján támasztandó igény felelősségbiztosítási fedezetét a fizetésképtelenné vált biztosító nyújtaná az alkalmazandó nemzeti joggal összhangban.
+
+43/D. § (1) Ha magyarországi székhelyű az a felszámolási eljárás alatt álló biztosító, amelynél a másik tagállamban lakóhellyel rendelkező károsultnak kárt okozó gépjármű üzemben tartója a károkozás időpontjában a károkozó gépjármű vonatkozásában biztosítási szerződés alapján fedezettel rendelkezett, és a károsult tagállama szerinti másik tagállam kártérítési szervezete a kártérítést a károsultnak megfizette, a Kártalanítási Alap köteles a kártérítésként kifizetett összeget teljes egészében megtéríteni ezen másik tagállam kártérítési szervezetének észszerű időn belül, de legkésőbb a másik tagállam kártérítési szervezetétől érkező megtérítési igény kézhezvételétől számított hat hónapon belül, kivéve, ha a Kártalanítási Alap és a másik tagállam kártérítési szervezete írásban másként állapodik meg.
+
+(2) Ha a Kártalanítási Alap az (1) bekezdés szerint megtérítést nyújtott a másik tagállam kártérítési szervezetének, a megtérítés folytán a károsultat a károkozóval és biztosítójával szemben megillető jogok a Kártalanítási Alapra szállnak át, kivéve a károsultnak a balesetet okozó szerződő vagy más biztosított személlyel szembeni azon jogait, amelyek alapján támasztandó igény felelősségbiztosítási fedezetét a fizetésképtelenné vált biztosító nyújtaná az alkalmazandó nemzeti joggal összhangban.
+
+43/E. § (1) A Kártalanítási Alap kizárólag olyan mértékben köteles helytállni, amilyen mértékben a károsult a kárának megtérítését a társadalombiztosítás vagy vagyon- és felelősségbiztosítás alapján nem követelheti.
+
+(2) A vagyon- és felelősségbiztosításból, valamint a társadalombiztosításból eredő megtérítési követeléseket a Kártalanítási Alap nem fedezi.
 
 ## HARMADIK RÉSZ — KÖZPONTI FELADATOK
 
@@ -771,7 +881,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - c) rendszámváltozás esetén annak időpontját és a korábbi rendszámot;
 - d) a biztosító nevét, a biztosítást igazoló okirat számát;
 - e) a biztosítási időszak kezdő és záró időpontját, továbbá a kockázatviselés kezdetének időpontját, megszűnésének dátumát és a megszűnés okát;
-- f) a káresemény dátumát;
+- f) a káresemény és a kárbejelentés dátumát;
 - g) a kártérítés kötelezettjét, a kötelezettség ismertté válásának dátumát (az első kárkifizetés, vagy a biztosítóval szemben hozott jogerős ítélet dátuma);
 - h) a kifizetett kárösszeg meghatározott szabályok szerinti visszafizetésének tényét és dátumát;
 - i) a bonus-malus osztályt.
@@ -846,6 +956,8 @@ részére.
 
 késedelem nélkül megkapja.
 
+(3a) Az Információs Központ a (3) bekezdésben foglaltakon kívül együttműködik továbbá a más tagállamokban működő információs központokkal annak érdekében, hogy a 4. § (7) bekezdés szerinti gépjárműre vonatkozó szükséges információk rendelkezésre álljanak.
+
 (4) A biztosítóra és a szerződésre vonatkozó adatokat a káresemény időpontjára vonatkozóan, míg a kárrendezési megbízottra vonatkozóan a megkeresésre adandó válasz időpontjában aktuális adatokat kell közölni. Ha a kért adatokat az információs központok közötti megállapodásban kikötött időpontig az Információs Központ bármely okból nem tudja megadni, ezt a körülményt az ok megjelölésével legkésőbb a határidő lejártakor köteles közölni a megkeresővel.
 
 (5) Ha a káreseményben részes gépjármű a káresemény időpontjában érvényes biztosítási fedezettel nem rendelkezett, az Információs Központ ezt a körülményt és a Kártalanítási Számla kezelőjének adatait a megkeresővel közli.
@@ -865,6 +977,8 @@ késedelem nélkül megkapja.
 (2) A MABISZ az (1) bekezdésben meghatározott feladatait – az e körbe nem tartozó tevékenységeitől – elkülönített módon láthatja el, amely célból elkülönített szervezeti egységet (a továbbiakban: elkülönített szervezeti egység) hozhat létre.
 
 (3) A MABISZ az (1) bekezdésben meghatározott feladatait az elkülönített szervezeti egység útján oly módon láthatja el, hogy a legfelsőbb szerv vagy az ellenőrző szerv elkülönített szervezeti egység működésével kapcsolatos döntésének meghozatalában azon kötelező gépjármű-felelősségbiztosítási tevékenységet végző biztosítók részt vehessenek, amelyek nem tagjai a MABISZ-nak.
+
+(3a) A MABISZ a Kártalanítási Szervezet, a Kártalanítási Számla, valamint a Kártalanítási Alap kezelése vonatkozásában a károsultak számára a honlapján közzéteszi a kártérítési igényük ezen szervezetekhez történő benyújtására vonatkozó lényeges információkat.
 
 (4) A (2) bekezdésben meghatározott szervezeti egység vezetésére a Bit. 53. § (4)–(5) bekezdésében és 54. §-ában meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható. A MABISZ az elkülönített szervezeti egységet érintő kérdésekben az alapszabályban meghatározott módon, a (3) bekezdésben meghatározott biztosítók képviselői közül, a felelős vezető vezetésével működő döntést hozó testületet hozhat létre, amely esetben a felelős vezető a testület döntéseinek is alá van vetve.
 
@@ -1017,15 +1131,17 @@ vizsgálatára terjed ki.
 
 57. § (1) A biztosítók a kötelező gépjármű-felelősségbiztosításból származó tárgyévi díjbevételük arányában a MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Számla kezelője – részére befizetést teljesítenek olyan mértékben, hogy azok fedezetet nyújtsanak e szervezeti egységet terhelő kötelezettségek teljesítésére.
 
-(2) A biztosítók a kötelező gépjármű-felelősségbiztosításból származó előző évi piaci összdíjbevétel 0,25%-ának megfelelő összegben, negyedévente, a MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Alap kezelője – részére befizetést teljesítenek, amely befizetésének kötelezettsége a biztosító számára az adott negyedéves szerződésállományában lévő gépjárművek darabszámának – gépjármű-kategóriánként a Kártalanítási Alap kezelője által megállapított kockázati szorzókkal súlyozott – mértékében áll fenn. A befizetési kötelezettség – az e törvény szerinti tevékenységét megkezdő biztosítót terhelő kötelezettség kivételével – mindaddig szünetel, amíg az Alap egyenlege meghaladja az előző évi piaci összdíjbevétel 6%-át.
+(2) A Magyarországon székhellyel rendelkező biztosítók a magyarországi és bármely másik tagállamból származó előző évi kötelező gépjármű-felelősségbiztosítási összdíjbevételük 0,25%-ának megfelelő összegben, negyedévente, a MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Alap kezelője – részére befizetést teljesítenek, amely befizetési kötelezettség ezen biztosítók számára az adott negyedéves szerződésállományukban lévő gépjárművek darabszámának – gépjármű-kategóriánként a Kártalanítási Alap kezelője által megállapított kockázati szorzókkal súlyozott – mértékében áll fenn. A befizetési kötelezettség – az e törvény szerinti tevékenységét megkezdő, Magyarországon székhellyel rendelkező biztosítót terhelő kötelezettség kivételével – mindaddig szünetel, amíg a Kártalanítási Alap egyenlege meghaladja a Magyarországon székhellyel rendelkező biztosítók magyarországi és bármely másik tagállamból származó előző évi kötelező gépjármű-felelősségbiztosítási összdíjbevételének 6%-át.
 
-(3) A kötelező gépjármű-felelősségbiztosítást művelő biztosítók minden év január 15-ig jelentik a kötelező gépjármű-felelősségbiztosításból származó előző évi díjbevételüket a MABISZ-nak. A biztosítók az előző évi díjbevételük arányában minden év január 31-ig a MABISZ elkülönített szervezeti egysége – mint a Nemzeti Iroda feladatait ellátó szervezet, a Kártalanítási Számla és a Kártalanítási Alap kezelője – részére az e szervezeteket terhelő működési költségeik fedezetére és a 11. § (3) bekezdése, továbbá a 23. § (3) bekezdése szerinti közzétételi kötelezettség költségeinek fedezetére befizetést teljesítenek, amelynek mértékét a számviteli rendért felelős vezető és a vezető aktuárius ellenjegyzésével az elkülönített szervezeti egység állapítja meg.
+(3) A kötelező gépjármű-felelősségbiztosítást művelő, Magyarországon székhellyel rendelkező biztosítók minden év január 15-ig jelentik – a magyar és bármely másik tagállamból származó – előző évi kötelező gépjármű-felelősségbiztosítási díjbevételüket, és negyedévente minden tárgynegyedévet követő hónap tizenötödik napjáig az általuk biztosított gépjárművek gépjármű kategóriánkénti darabszámát a MABISZ-nak.
+
+(3a) A biztosítók az előző évi díjbevételük arányában minden év január 31-ig a MABISZ elkülönített szervezeti egysége – mint a Nemzeti Iroda feladatait ellátó szervezet, a Kártalanítási Számla és a Kártalanítási Alap kezelője – részére az e szervezeteket terhelő működési költségeik fedezetére és a 11. § (3) bekezdése, továbbá a 23. § (3) bekezdése szerinti közzétételi kötelezettség költségeinek fedezetére befizetést teljesítenek, amelynek mértékét a számviteli rendért felelős vezető és a vezető aktuárius ellenjegyzésével az elkülönített szervezeti egység állapítja meg.
 
 (4) Azok a biztosítók, akik a MABISZ-nak nem tagjai, a kötelező gépjármű-felelősségbiztosítási tevékenységüket az e törvény szerinti befizetésekre vonatkozó kötelezettségvállaló nyilatkozat megtételét és ennek a Felügyelet részére történő benyújtását követően kezdhetik meg.
 
-(5) A MABISZ elkülönített szervezeti egysége a Kártalanítási Számla 36. § (6a) bekezdésben meghatározott térítési kötelezettségének teljesítését a Kártalanítási Alap feladatainak az ellátásához rendelkezésre bocsátott pénzeszközök felhasználásával is biztosíthatja, a Kártalanítási Számla és a Kártalanítási Alap feladatellátásának az egyidejű ellátása mellett.
+(5)
 
-(6) Ha az (5) bekezdésben meghatározottak szerint a Kártalanítási Alap feladatainak az ellátásához rendelkezésre bocsátott pénzeszközök kerültek bevonásra a 36. § (6a) bekezdésben meghatározott megtérítési kötelezettségének teljesítésére, a Kártalanítási Számla a 36. § (8a) bekezdésében meghatározott törvényi engedmény alapján a részére megtérített pénzeszközöket – elszámolás alapján – visszafizeti a Kártalanítási Alap javára olyan összegben, amilyen összegben a Kártalanítási Alapból pénzeszköz felhasználásra került.
+(6)
 
 57/A. § (1) A MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Számla és a Kártalanítási Alap kezelője és a Nemzeti Iroda feladatainak az ellátója – legkésőbb a tárgyévet követő január 31-ig tájékoztatja a biztosítókat a Kártalanítási Számla és a Kártalanítási Alap eredményéről.
 
@@ -1064,15 +1180,15 @@ vizsgálatára terjed ki.
 
 (2) A panaszkezelésre megfelelően alkalmazni kell a Bit. 159. § (1)–(5) bekezdésében és a biztosítók, a többes ügynökök és az alkuszok panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról szóló Korm. rendeletben foglaltakat.
 
-57/E. § (1) A Kártalanítási Alap kezelőjét megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás alatt álló biztosítót – a felszámolás elrendelését megelőzően – illették meg, illetve terhelték, továbbá az Alap kezelője megtérítést követelhet a felszámolás alatt álló biztosítótól.
+57/E. § (1) A Kártalanítási Alap kezelőjére engedményezési nyilatkozat megtétele nélkül is átszállnak mindazon jogok és terhelik mindazon kötelezettségek, amelyek a biztosítási szerződés vonatkozásában a felszámolás vagy csődeljárás alatt álló biztosítót – a felszámolás vagy csődeljárás elrendelését megelőzően – megillették, illetve terhelték, továbbá a Kártalanítási Alap kezelője megtérítést követelhet a felszámolás vagy csődeljárás alatt álló biztosítótól, illetve az annak jogait és kötelezettségeit átvevő másik tagállam kártérítési szervezetétől.
 
-(2) Az Alap kezelője és a felszámolás alatt álló biztosító felszámolója a kártérítési igényének rendezése és a biztosítási szerződésekhez kapcsolódó követelések érvényesítése során együttműködnek, amelynek keretében a felszámoló köteles
+(2) A Kártalanítási Alap kezelője és a felszámolás alatt álló, Magyarországon székhellyel rendelkező biztosító felszámolója a kártérítési igények rendezése és a biztosítási szerződésekhez kapcsolódó követelések érvényesítése során együttműködnek, amelynek keretében a felszámoló köteles
 
-- a) a felszámolás elrendelését követő 45 napon belül a biztosítási szerződésekről, az ezekre előírt, valamint a teljesített díjakról, a felszámolás alatt álló biztosítónak bejelentett káreseményekről, valamint a szerződésekkel és a káreseményekkel kapcsolatban folyamatban lévő eljárásokról tételes listát készíteni, és azt a szerződések, a káresemények és az eljárások iratanyagával együtt az Alap kezelője részére átadni;
-- b) a felszámolás alatt álló biztosítót a kockázatviselése megszűnéséig megillető meg nem fizetett díjakat behajtani és az Alap részére átutalni; és
-- c) a felszámolás során nála bejelentett káreseményeket a károsult egyidejű tájékoztatása mellett az Alap kezelőjének haladéktalanul továbbítani.
+- a) a felszámolás elrendelését követő negyvenöt napon belül a biztosítási szerződésekről, az ezekre előírt, valamint a teljesített díjakról, a felszámolás alatt álló, Magyarországon székhellyel rendelkező biztosítónak bejelentett káreseményekről, valamint a szerződésekkel és a káreseményekkel kapcsolatban folyamatban lévő eljárásokról tételes listát készíteni, és azt a szerződések, a káresemények és az eljárások iratanyagával együtt a Kártalanítási Alap kezelője részére átadni;
+- b) a felszámolás alatt álló, Magyarországon székhellyel rendelkező biztosítót a kockázatviselése megszűnéséig megillető meg nem fizetett díjakat behajtani és a Kártalanítási Alap részére átutalni; és
+- c) a felszámolás során nála bejelentett káreseményeket a károsult egyidejű tájékoztatása mellett a Kártalanítási Alap kezelőjének haladéktalanul továbbítani.
 
-(3) Ha a kötelező gépjármű-felelősségbiztosítási állománnyal kapcsolatos biztosítástechnikai tartalékok fedezetére szolgáló eszközök – Bit. 168. § (2) bekezdésében meghatározott – pótlására kerül sor, a Kártalanítási Alap kezelője megtérítést követelhet a tevékenységi engedély visszavonásával érintett biztosítótól, feltéve, ha a megtérítés nem veszélyezteti a biztosító azon hitelezője igényének kielégítését, amelynek biztosítási szerződésen alapuló követelése van a tevékenységi engedély visszavonásával érintett biztosítóval szemben.
+(3) Ha a kötelező gépjármű-felelősségbiztosítási állománnyal kapcsolatos biztosítástechnikai tartalékok fedezetére szolgáló eszközök – Bit. 168. § (2) bekezdésében meghatározott – pótlására kerül sor, a Kártalanítási Alap kezelője megtérítést követelhet a tevékenységi engedély visszavonásával érintett Magyarországon székhellyel rendelkező biztosítótól, feltéve, ha a megtérítés nem veszélyezteti a biztosító azon hitelezője igényének kielégítését, amelynek biztosítási szerződésen alapuló követelése van a tevékenységi engedély visszavonásával érintett biztosítóval szemben.
 
 57/F. § (1) A Felügyelet az elkülönített szervezeti egység kötelezettségének teljesítése, a károsultak érdekeinek megóvása, valamint annak érdekében, hogy az elkülönített szervezeti egység tevékenysége e törvénynek, illetve a tevékenységére vonatkozó más jogszabályoknak és a Felügyelet határozatainak megfeleljen, a következő intézkedéseket hozhatja:
 
@@ -1086,7 +1202,7 @@ vizsgálatára terjed ki.
 
 (3) A Felügyelet eljárására az MNBtv. 81–95. §-ai nem alkalmazhatók.
 
-57/G. § (1) A MABISZ elkülönített szervezeti egysége kapcsolatot tart fenn a többi tagállam – a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a Tanács 73/239/EGK és 88/357/EGK irányelveinek módosításáról szóló 2000. május 16-i 2000/26/EK európai parlamenti és tanácsi irányelv 6. cikk (1) bekezdésében meghatározottaknak megfelelően létrehozott – kártalanítási szervezeteivel és garanciaalapjaival, valamint információs központjaival.
+57/G. § (1) A MABISZ elkülönített szervezeti egysége kapcsolatot tart fenn a többi tagállam – a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről szóló, 2009. szeptember 16-i 2009/103/EK európai parlamenti és tanácsi irányelv 24. cikk (1) bekezdésében meghatározottaknak megfelelően létrehozott – kártalanítási szervezeteivel és garanciaalapjaival, valamint információs központjaival.
 
 (2) A MABISZ elkülönített szervezeti egysége ellátja az (1) bekezdésben meghatározott testületek jogairól és kötelezettségeiről, valamint a kártalanítási szolgáltatások visszatérítéséről szóló megállapodásokhoz kapcsolódó feladatokat.
 
@@ -1139,7 +1255,7 @@ vizsgálatára terjed ki.
 
 (2)
 
-(3) A Kártalanítási Alap térítési kötelezettsége az e törvény hatálybalépését követően felszámolás alá kerülő biztosító esetében áll fenn.
+(3) A Kártalanítási Alap térítési kötelezettsége – a más tagállamban székhellyel rendelkező biztosítók tekintetében fennálló térítési kötelezettsége vonatkozásában – a 2023. december 23-án vagy azt követően csőd- vagy felszámolási eljárás alá kerülő más tagállamban székhellyel rendelkező biztosító esetében áll fenn.
 
 (4) E törvény hatálybalépését megelőzően kezdődött és e törvény hatálybalépését követően lezáruló fedezetlenségi díj (elmaradt díj) számítására a fedezetlenség kezdő napján hatályban lévő rendelkezéseket kell megfelelően alkalmazni.
 
@@ -1161,7 +1277,7 @@ vizsgálatára terjed ki.
 
 62/C. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 3/A. §-ban foglaltak a 2014. március 15-én és ezt követően bekövetkezett káresemények vonatkozásában alkalmazandók.
 
-62/D. § E törvénynek a kötelező gépjármű-felelősségbiztosítással összefüggésben egyes biztosítási tárgyú törvények módosításáról szóló 2015. évi CXLVII. törvénnyel megállapított rendelkezéseit a hatálybalépéskor már folyamatban lévő ügyekre is alkalmazni kell, azzal, hogy folyamatban lévő ügy esetében a 36. § (6c) bekezdésében meghatározott átadási kötelezettséget a 36. § (6a) bekezdés a) pontjában meghatározott biztosító legkésőbb e törvény hatálybalépését követő három munkanapon belül köteles teljesíteni.
+#### 62/D. §
 
 62/E. § (1) A Kártalanítási Alap kezelője 2023. december 23-ig jogosult és törekszik megállapodást kötni – az e törvény 2023. december 23-án hatályba lépő, A Kártalanítási Alap helytállási kötelezettsége alcímében foglaltak végrehajtása érdekében – másik tagállamok kártérítési szervezeteivel feladatköreik, kötelezettségeik és a megtérítési eljárások meghatározása céljából.
 

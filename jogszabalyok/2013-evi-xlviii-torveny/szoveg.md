@@ -2,7 +2,7 @@
 
 az önkényuralmi jelképek használatának büntetőjogi szankcionálásáról
 
-1. §
+#### 1. §
 
 2. § (1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 335. §-a a következő szöveggel lép hatályba:
 
@@ -20,7 +20,7 @@ ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással bün
 
 3. § (1)–(2)
 
-(3) A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 316. §-ának az Országgyűlésről szóló 2012. évi XXXVI. törvény 73. § (2) bekezdését megállapító rendelkezése a „nemzeti szocialista” szövegrész helyett a „nemzetiszocialista” szöveggel lép hatályba.
+(3)
 
 (4) A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény
 
