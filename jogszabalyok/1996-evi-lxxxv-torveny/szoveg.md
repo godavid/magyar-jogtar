@@ -80,9 +80,9 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (6) Az elektronikus adatszolgáltatási díjat az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott módon, a rendeletben megjelölt szerv részére kell megfizetni.
 
-30. § (1) Teljes személyes díjmentességben részesül:
+30. § (1) Teljes személyes díjmentességben részesül elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése esetén:
 
-- a) a Magyar Állam, költségvetési szerv,
+- a) a magyar állam, költségvetési szerv,
 - b) az egyházi jogi személy.
 
 (2) Az (1) bekezdés b) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.

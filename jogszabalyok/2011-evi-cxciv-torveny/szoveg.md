@@ -191,7 +191,9 @@ köthet naptári éven túli futamidejű működési célú adósságot keletkez
 
 (4) A Kormány az egyes ügyletekhez részben is hozzájárulhat vagy azokat elutasíthatja. A Kormány a több fejlesztési cél megvalósítását szolgáló ügyletek esetében a fejlesztési célok vizsgálata alapján fejlesztési célonként hozhat döntést. A Kormány a fejlesztési cél figyelembevételével dönthet úgy is, hogy az annak teljesülését szolgáló ügylethez az önkormányzat által tervezettnél alacsonyabb összegben járul hozzá.
 
-(5) A Kormány az (1)–(3) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi, vagy ha az önkormányzat a fejlesztési célt adósságot keletkeztető ügylet megkötése nélkül is képes megvalósítani, vagy ha a fejlesztés megvalósításának ütemezése pénzügyileg nem kellően előkészített, megalapozott, a fejlesztés révén létrehozandó kapacitás jövőbeli működtetése nem kellően alátámasztott és emiatt központi költségvetési többletkiadást vagy önkormányzati költségvetési többletkiadást generálhat.
+(5) A Kormány az (1)–(3) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi, vagy ha az önkormányzat a fejlesztési célt adósságot keletkeztető ügylet megkötése nélkül is képes megvalósítani, vagy ha az ügylet, illetve a fejlesztés nem felel meg a gazdaságos, hatékony és eredményes gazdálkodás alapelvének, vagy ha a fejlesztés megvalósításának ütemezése pénzügyileg nem kellően előkészített, megalapozott, a fejlesztés révén létrehozandó kapacitás jövőbeli működtetése nem kellően alátámasztott és emiatt központi költségvetési többletkiadást vagy önkormányzati költségvetési többletkiadást generálhat.
+
+(5a) A Kormány az (5) bekezdésben foglalt feltételek teljesülését a hozzájárulásra vonatkozó döntés meghozatalát megelőzően, illetve az ügylet futamideje alatt a kormányzati ellenőrzési szerv útján ellenőrizheti.
 
 (6) A Kormány hozzájárulása az adósságot keletkeztető ügylet tárgyévben történő megkötésére, illetve a tárgyévben történő kezesség-, illetve garanciavállalásra vonatkozik.
 
@@ -738,6 +740,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 52/A. § Az e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel (a továbbiakban: Módtv.) megállapított 14. § (2) és (2a) bekezdését a Módtv. hatálybalépését megelőzően nemzetközi pénzügyi intézményekkel létrejött szerződéses jogviszonyokban is alkalmazni kell.
 
 52/B. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2023. évi CXII. törvénnyel (a továbbiakban: Módtv.1.) megállapított 23. § (1) bekezdés a) pontját 2023-ban azzal az eltéréssel kell alkalmazni, hogy a Tanács a Módtv.1. hatálybalépését követő hét napon belül véleményt nyilvánít arról, hogy a Magyar Nemzeti Bank megfelelő tőkeellátottsága érdekében szükséges-e 2024-ben a központi költségvetés terhére térítést nyújtani.
+
+52/B. § E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 10/B. § (5a) bekezdését a Módtv. hatálybalépése előtt jóváhagyott ügyletekre, illetve az azokhoz kapcsolódó fejlesztésekre is alkalmazni kell.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
