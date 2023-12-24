@@ -610,6 +610,21 @@ szerinti bontásban,
 - f) a költségvetési év azon fejlesztési céljait, amelyek megvalósításához a Gst 8. § (2) bekezdése szerinti adósságot keletkeztető ügylet megkötése válik vagy válhat szükségessé, az adósságot keletkeztető ügyletek várható együttes összegével együtt,
 - g) a Gst 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletekből és az önkormányzati garanciákból és önkormányzati kezességekből fennálló kötelezettségeit az adósságot keletkeztető ügyletek futamidejének végéig, illetve a garancia, kezesség érvényesíthetőségéig, és a Gst 45. § (1) bekezdés a) pontjában kapott felhatalmazás alapján kiadott jogszabályban meghatározottak szerinti saját bevételeit, és
 - h) a költségvetés végrehajtásával kapcsolatos hatásköröket, így különösen a Mötv. 68. § (4) bekezdése szerinti értékhatárt, a finanszírozási bevételekkel és a finanszírozási kiadásokkal kapcsolatos hatásköröket, valamint a 34. § (2) bekezdése szerinti esetleges felhatalmazást.
+- i) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg főösszegű gazdasági társasággal – kötelező önkormányzati feladatellátásra – kötött közszolgáltatási szerződésből eredő, az érintett gazdasági társaság önkormányzat által nem vitatott, a költségvetés tervezésekor fennálló követelésének összegét,
+
+(2a) A helyi önkormányzat költségvetése tartalmazza a (2) bekezdésben foglaltakon túl
+
+- a) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg-főösszegű gazdasági társaság,
+- b) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg-főösszegű gazdasági társaság által alapított gazdasági társaság
+
+előző évi elfogadott beszámolóját, és amennyiben jogszabályi kötelezettség előírta, az ezekre vonatkozó könyvvizsgálói jelentést is.
+
+(2b) Ha a (2a) bekezdés szerinti beszámoló alapján a gazdasági társaság az előző évben veszteséges volt, és azt a mérlegben szereplő, a saját tőke részét képező eredménytartalék sem ellensúlyozta, az önkormányzat költségvetési rendeletéhez mellékelni kell az érintett gazdasági társaság tárgyévi üzleti tervét is, amelyben
+
+- a) veszteség nem tervezhető, vagy
+- b) amennyiben a gazdasági társaság üzleti tervében veszteséget tervez, akkor annak fedezetét az önkormányzat költségvetési rendeletében – a tulajdoni részarányának megfelelő mértékében – támogatásként meg kell tervezni a támogatást fedező, közgazdasági megalapozottságú önkormányzati többletbevétel, vagy intézkedés bemutatásával.
+
+(2c) A (2b) bekezdésben foglaltakat az önkormányzat költségvetési rendeletének módosítása során is alkalmazni kell.
 
 (3) A költségvetési rendeletben elkülönítetten szerepel az évközi többletigények, valamint az elmaradt bevételek pótlására szolgáló általános tartalék és céltartalék.
 
@@ -1324,8 +1339,8 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 - d) a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó és állami tulajdonban álló, valamint az olyan gazdasági társaságok – ide nem értve a Magyar Nemzeti Bankot – ellenőrzésére, amelyekben az állam többségi befolyással rendelkezik,
 - e) azon alapítványok, közalapítványok ellenőrzésére, amelyek felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja, vagy az államháztartás központi alrendszeréből támogatásban részesülnek,
 - f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
-- g)
-- h) az a)–f) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek, és
+- g) a 23. § (2b) bekezdés b) pontja szerinti kötelezettségnek közgazdasági megalapozottsága ellenőrzésére az Mötv.-ben meghatározott kormányhivatali eljárás során, valamint a Gst. 10/B. § (5) bekezdésében foglalt feltételek teljesülésének ellenőrzésére,
+- h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek, és
 - i)
 - j) működési célú költségvetési támogatás nyújtása esetén a kedvezményezett működésének és gazdálkodásának ellenőrzésére.
 
@@ -1385,6 +1400,7 @@ céljából.
 - a) számviteli szabályok szerinti könyvvezetési kötelezettségének,
 - b) a 70. alcím alapján teljesítendő adatszolgáltatási kötelezettségek szabályszerű teljesítésének,
 - c) az éves költségvetési beszámoló megbízható, valós összképének
+- d) az Mötv.-ben meghatározott kormányhivatali eljárás során a 23. § (2b) bekezdés b) pontja szerinti kötelezettség közgazdasági megalapozottságának
 
 vizsgálatára terjed ki.
 
@@ -2366,6 +2382,10 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 111/M. § A veszélyhelyzet ideje alatt támogató által a támogatási szerződésben, támogatói okiratban kikötött biztosíték rendelkezésre állását a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztését követő 30 napon belül kell biztosítani azzal, hogy ha azt nem az államháztartási jogszabályoknak és a támogató által előírtaknak megfelelően biztosítja a kedvezményezett, a támogató az e törvény végrehajtására kiadott kormányrendelet szerint jogosult a támogatás visszavonásáról rendelkezni.
 
 111/N. § E törvénynek a Módtv3.-mal megállapított 106/C. §-át a Módtv3. hatálybalépését megelőzően megkötött támogatási szerződések esetén is alkalmazni kell.
+
+111/Q. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: 2023. évi CXIV. törvény) megállapított 23. § (2a) és (2b) bekezdését a 2024. évi önkormányzati költségvetési rendelet megalkotása, módosítása esetében is alkalmazni kell.
+
+(2) A képviselő-testület a 2023. évi CXIV. törvény hatályba lépését megelőzően elfogadott 2024. évi költségvetési rendeletét a 25. § (1) bekezdés szerinti határidőig a 23. § (2a) és (2b) bekezdése szerint módosítja
 
 #### 74. Az Európai Unió jogának való megfelelés
 
