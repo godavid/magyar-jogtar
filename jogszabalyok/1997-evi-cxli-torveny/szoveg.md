@@ -1062,7 +1062,7 @@ bejegyzésével egyidejűleg.
 
 - a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
 - b) az ügyészség a közérdekvédelmi feladatai ellátásához,
-- c) a jegyző a hagyatéki leltár elkészítéséhez, a közjegyző a hagyatéki eljárás lefolytatásához,
+- c) a jegyző a hagyatéki leltár elkészítéséhez vagy a közjegyző a hagyatéki eljárás lefolytatásához, illetve az örökhagyó tulajdonában álló magyarországi ingatlan adatainak a külföldi hagyatéki eljárás céljára történő tanúsításához,
 - d) a mezőgazdasági igazgatási szerv, valamint az ingatlanügyi hatóság az Fftv. szerinti hatósági eljárásaihoz,
 - e) a bejegyzett tulajdonos valamennyi ingatlanának az ingatlan-nyilvántartásból történő megállapításához,
 - f) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
