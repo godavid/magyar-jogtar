@@ -4,24 +4,13 @@ egyes ingatlan-nyilvántartási, földmérési és térképészeti tárgyú tör
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-1. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény (a továbbiakban: Díjtv.) 30. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Teljes személyes díjmentességben részesül elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése esetén:
-
-- a) a magyar állam, költségvetési szerv,
-- b) az egyházi jogi személy.”
+#### 1. §
 
 #### 2. §
 
 #### 2. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-3. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: 1997. évi CXLI. törvény) 70. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdés szerinti rendelkezés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról]
-
-„c) a jegyző a hagyatéki leltár elkészítéséhez vagy a közjegyző a hagyatéki eljárás lefolytatásához, illetve az örökhagyó tulajdonában álló magyarországi ingatlan adatainak a külföldi hagyatéki eljárás céljára történő tanúsításához,”
-
-[igényli.]
+#### 3. §
 
 #### 4. §
 
