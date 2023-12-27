@@ -301,29 +301,38 @@ jogosultak.
 
 (5) Az (1) bekezdés a) pontjában foglalt okból a közút kezelője forgalombiztonsági érdekből a tehergépjárművek közlekedését ideiglenesen korlátozhatja – azok pihenőhelyre történő terelésével vagy félreállításával – mindaddig, amíg a biztonságos közlekedés feltételei helyre nem állnak.
 
-14/A. § (1) A gyorsforgalmi közúton a közút kezelője balesetveszély esetén a rendőrség, minden más esetben az üzemben tartó vagy a tulajdonos (a továbbiakban e § alkalmazásában együttesen: üzemben tartó) és a rendőrség előzetes értesítésével elszállítással eltávolíthatja vagy eltávolíttathatja azt a járművet, amely a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos.
+14/A. § (1) Az országos közúton a közút kezelője – a rendőrség értesítésével – elszállíthatja azt a járművet, amely
 
-(2) A jármű elszállítása során a járműhasználat akadályoztatása folytán a keletkezett kárért a közút kezelőjét nem terheli kártalanítási kötelezettség.
+- a) a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos, vagy
+- b) a közútkezelői feladatok ellátását akadályozó, a forgalom által nem indokolt helyzetben van, vagy
+- c) a közúti ellenőrzéseket akadályozó helyzetben várakozik, vagy
+- d) a közút területén hátrahagyott módon várakozik.
 
-(3) Amennyiben az üzemben tartó a jármű eltávolításáról előzetesen nem értesíthető, a közút kezelője a járművet elszállíthatja vagy elszállíttathatja. Az üzemben tartót a jármű eltávolításáról és a tárolás helyéről ilyen esetben utólag értesíteni kell.
+(2) A jármű elszállítása esetén a járműhasználat akadályoztatása folytán keletkezett kárért a közút kezelőjét nem terheli kártalanítási kötelezettség.
 
-(4) Az üzemben tartó a közútkezelő utólagos értesítése alapján köteles a járművet az elszállítás és a tárolás igazolt költségeinek megtérítését követően elszállítani. Amennyiben az üzemben tartó ezen kötelezettségének a közútkezelő második értesítését követő 180 napon belül sem tesz eleget, vagy az üzemben tartó 180 napon belül nem állapítható meg, a közútkezelő jogosult a járművet értékesíteni vagy más módon hasznosítani. Amennyiben az elszállított jármű tulajdonosa az értékesítést, vagy más módon történő hasznosítást követő 60 napon belül jelentkezik, részére az értékesítésből, vagy a más módon történő hasznosításból befolyt, a szállítással, a tárolással, és az értékesítéssel kapcsolatban felmerült igazolt költségekkel csökkentett ellenértéket ki kell fizetni.
+(3) A közúti forgalom biztonságát veszélyeztető módon veszteglő, a közútkezelői feladatok ellátását, valamint a közúti ellenőrzéseket akadályozó, továbbá a közút területén hátrahagyott járművek elszállításának, tárolásának és értékesítésének részletszabályait a miniszter rendeletben állapítja meg.
 
-(5) A gyorsforgalmi közúton a közút kezelője, valamint az általa megbízott közreműködő a miniszter által rendeletben meghatározottak szerint, az e §-ban foglalt feladatai ellátásához szükséges személy- és járműazonosító adatokat a (4) bekezdésben foglalt határidőig kezelheti.
+(4) Az üzembentartó vagy a tulajdonos a közútkezelő értesítése alapján köteles a járművet az elszállítás és a tárolás költségeinek megtérítését követően elszállítani. Ha az üzembentartó vagy a tulajdonos ezen kötelezettségének a közútkezelő második értesítését követő 90 napon belül sem tesz eleget, a közútkezelő jogosult a járművet értékesíteni vagy más módon hasznosítani. Ha az üzembentartó vagy a tulajdonos az elszállítást követő 90 napon belül nem állapítható meg, a közútkezelő jogosult a járművet a hulladékká vált gépjárművekről szóló kormányrendelet hatálya alá tartozó jármű esetén a hulladékról szóló törvény szerinti koncessziós társaságnak, más jármű esetén regisztrált bontó-hulladékkezelő részére átadni.
 
-(6) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsit, vontatót, pótkocsit vagy autóbuszt a település belterületén lévő ingatlanon akkor lehet tárolni, ha a települési önkormányzat jegyzője megállapítja az ingatlan tárolásra való alkalmasságát. A jegyző a tárolásra való alkalmasságról hatósági bizonyítványt állít ki.
+(5) Ha az elszállított jármű üzembentartója vagy tulajdonosa az értékesítést, a más módon történő hasznosítást vagy a (4) bekezdés szerinti átvevő részére történő átadást követő 60 napon belül jelentkezik, a tulajdonos részére az értékesítésből, a más módon történő hasznosításból, vagy a (4) bekezdés szerinti átvevő részére történő átadásból befolyt, a szállítással, a tárolással, és az értékesítéssel, más módon hasznosítással vagy a (4) bekezdés szerinti átvevő részére történő átadással kapcsolatban felmerült költségekkel csökkentett ellenértéket ki kell fizetni.
 
-(7) Az ingatlan a (6) bekezdésben említett járművek tárolására akkor alkalmas, ha
+(6) A közút kezelője a jármű elszállításához, továbbá a jármű tárolásához és értékesítéséhez – szerződés alapján – felelősségbiztosítással rendelkező közreműködőt vehet igénybe.
+
+(7) A közút kezelője az e §-ban foglalt feladatai ellátásához szükséges személy- és járműazonosító adatokat azon időtartam alatt kezeli, ameddig a jármű elszállításával és őrzésével összefüggésben keletkezett jogviszonnyal kapcsolatban igény érvényesíthető.
+
+(8) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsit, vontatót, pótkocsit vagy autóbuszt a település belterületén lévő ingatlanon akkor lehet tárolni, ha a települési önkormányzat jegyzője megállapítja az ingatlan tárolásra való alkalmasságát.
+
+(9) Az ingatlan a (8) bekezdésben említett járművek tárolására akkor alkalmas, ha
 
 - a) az ingatlanon és annak környezetében az épített és a természeti környezetre tekintettel elegendő tér áll rendelkezésre a beparkolás és tárolás érdekében,
 - b) az ingatlan közvetlen környezete nem sűrűn lakott és
-- c) az ingatlanon tárolt, a (6) bekezdésben meghatározott járművek által okozott környezeti zaj vagy bűzhatás által okozott zavaró hatás – tekintettel a lakókörnyezet jellegére is – nem jelentős.
+- c) az ingatlanon tárolt, a (8) bekezdésben meghatározott járművek által okozott környezeti zaj vagy bűzhatás által okozott zavaró hatás – tekintettel a lakókörnyezet jellegére is – nem jelentős.
 
-(8) Ha a (6) bekezdésben meghatározott járművek tényleges tárolási helyéül szolgáló székhely, telephely címe szerinti ingatlan tárolásra való alkalmasságáról a jegyző által kiállított hatósági bizonyítvány alapjául szolgáló körülmények megváltozása miatt az ingatlan a továbbiakban nem felel meg a (7) bekezdésben meghatározott feltételeknek, a jegyző kötelezi az üzembentartót a (6) bekezdésben meghatározott járművek adott ingatlanon történő tárolásának megszüntetésére. Ha az üzemben tartó a kötelezésnek határidőn belül nem tesz eleget, a jegyző 650 000 forintig terjedő közigazgatási bírsággal sújtja.
+(10) Ha a (8) bekezdésben meghatározott járművek tényleges tárolási helyéül szolgáló székhely, telephely címe szerinti ingatlan tárolásra való alkalmasságáról a jegyzői döntés alapjául szolgáló körülmények megváltozása miatt az ingatlan a továbbiakban nem felel meg a (9) bekezdésben meghatározott feltételeknek, a jegyző kötelezi az üzembentartót vagy a tulajdonost a (8) bekezdésben meghatározott járművek adott ingatlanon történő tárolásának megszüntetésére. Ha az üzembentartó vagy a tulajdonos a kötelezésnek határidőn belül nem tesz eleget, a jegyző 650 000 forintig terjedő közigazgatási bírsággal sújtja.
 
-(9) Ha az ingatlannak a (6) bekezdésben említett járművek tárolására való alkalmassága a (7) bekezdés b) pontjában foglalt okból változott meg, a jegyző nem alkalmazhatja a (8) bekezdésben foglaltakat. Ebben az esetben a jegyző kötelezi az üzembentartót a (6) bekezdésben meghatározott járműveknek a megváltozott lakókörnyezethez igazodó mértékű tárolására.
+(11) Ha az ingatlannak a (8) bekezdésben említett járművek tárolására való alkalmassága a (9) bekezdés b) pontjában foglalt okból változott meg, a jegyző nem alkalmazhatja a (10) bekezdésben foglaltakat. Ebben az esetben a jegyző kötelezi az üzembentartót vagy a tulajdonost a (8) bekezdésben meghatározott járműveknek a megváltozott lakókörnyezethez igazodó mértékű tárolására.
 
-(10) A települési önkormányzat jegyzője abban az esetben is vizsgálhatja a (7) bekezdésben foglalt feltételek fennállását és alkalmazhatja a (8) és (9) bekezdésben foglalt jogkövetkezményeket, ha a (6) bekezdésben meghatározott jármű tárolásának alkalmasságáról az érintett ingatlan vonatkozásában korábban hatósági bizonyítvány kiállítására nem került sor.
+(12) A települési önkormányzat jegyzője abban az esetben is vizsgálhatja a (9) bekezdésben foglalt feltételek fennállását és alkalmazhatja a (10) és (11) bekezdésben foglalt jogkövetkezményeket, ha a (8) bekezdésben meghatározott jármű tárolásának alkalmasságáról az érintett ingatlan vonatkozásában korábban döntés nem született.
 
 15. § (1) A miniszter – rendeletben – meghatározott járművek közlekedését a közút kezelőjének hozzájárulásához és díj fizetéséhez kötheti.
 
@@ -344,7 +353,7 @@ jogosultak.
 - a) a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában a helyi önkormányzat rendeletében, valamint
 - b) az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában a Kormány rendeletében kijelölhet olyan várakozási területet, amelynek a járművel történő, várakozási célú használatáért várakozási díjat kell fizetni.
 
-(2) A díj fizetési kötelezettség alá eső várakozási területen – a lehetőségekhez képest egyenlő megoszlásban, illetve a mozgáskorlátozottak által jellemzően igénybe vett közintézmények elérhető közelségében – minden megkezdett ötven várakozási helyből ki kell jelölni legalább egy, a mozgáskorlátozottak számára fenntartott várakozási helyet.
+(2) A díjfizetési kötelezettség alá eső várakozási területen – a lehetőségekhez képest egyenlő megoszlásban, illetve a mozgáskorlátozottak által jellemzően igénybe vett közintézmények elérhető közelségében – minden megkezdett ötven várakozási helyből ki kell jelölni legalább egy, a mozgáskorlátozottak számára fenntartott várakozási helyet.
 
 (3) Díjfizetési kötelezettség olyan várakozási terület tekintetében és időszakra rendelhető el, amelyen az adott időszakban a járművek várakozására alkalmas helyek átlagos foglaltsága (a továbbiakban: telítettség) a 70%-ot meghaladja. A 70%-os telítettségi mutatót nem kell alkalmazni e törvény hatálybalépése előtt kijelölt várakozási területek tekintetében.
 
@@ -437,7 +446,7 @@ oktatása, szakképzése és utánképzése
 
 17. § A közlekedés biztonságának fokozása, a közlekedési kultúra növelése, a közlekedési szabályok és a helyes közlekedési magatartásformák megismertetése érdekében rendszeressé kell tenni az erre irányuló nevelést, oktatást, felvilágosító- és propagandamunkát.
 
-18. § (1) A közúti járművezetők képzése állami alap- és középfokú oktatási intézményekben, vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél vagy tanfolyamon, a közúti közlekedési szakemberek képzése és továbbképzése szaktanfolyamon történik. A tanfolyami és a szaktanfolyami elméleti képzés és továbbképzés – a közlekedési hatóság engedélye alapján – zárt rendszerű elektronikus képzési (e-learning) formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett is végezhető. A járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését a Kormány rendeletében kijelölt állami tulajdonú gazdasági társaság végzi vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél történik.
+18. § (1) A közúti járművezetők képzése állami köznevelési közfeladat ellátásában vagy a szakképzési feladat ellátásában részt vevő szerveknél, az oktatási központnál, köznevelési és szakképzési intézményeknél, vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél vagy tanfolyamon, a közúti közlekedési szakemberek képzése és továbbképzése szaktanfolyamon történik. A tanfolyami és a szaktanfolyami elméleti képzés és továbbképzés – a közlekedési hatóság engedélye alapján – zárt rendszerű elektronikus képzési (e-learning) formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett is végezhető. A járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését a Kormány rendeletében kijelölt állami tulajdonú gazdasági társaság végzi vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél történik.
 
 (2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani, amely nyilvántartás a képzésre engedéllyel rendelkező szerv neve, fantázianeve, székhelye, cégjegyzékszáma, adószáma, a tárgyi feltételek biztosításának helyére, valamint a személyi feltételekre vonatkozó adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül. Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
 
@@ -1037,6 +1046,14 @@ követő hat hónapig kezeli.
 - h) a (4) bekezdés alapján közvetlen adathozzáféréssel átvett adatok,
 - i) a (5) bekezdés alapján a járművek közúti és telephelyi ellenőrzése során közvetlen adathozzáféréssel átvett adatok.
 
+(3a) A közút – 33. § (1) bekezdés b) pont ba) alpontjában meghatározott – kezelője a közútkezelői hozzájárulás tekintetében érintett járműkategóriában egyedi adatlekérdezés útján jogosult a Nemzeti Tengelysúlymérő Rendszer alábbi adatainak átvételére:
+
+- a) a jármű honossága, rendszáma,
+- b) a jármű össztömege és tengelyterhelése,
+- c) a jármű tengelyeinek száma, a tengelyek közötti távolság,
+- d) az úthasználat helye és ideje,
+- e) a járműről és hatósági jelzéséről készített képfelvételek.
+
 (4) A közlekedési hatóság a tengelysúlymérő-rendszer keretében az (1) bekezdés a) pont szerinti feladatai körében az ellenőrzésre való kiválasztáshoz, közvetlen adathozzáféréssel átveheti
 
 - a) a járműnyilvántartásból az ellenőrzött jármű
@@ -1133,7 +1150,7 @@ kapcsolatos hatósági ellenőrzések eredménye és a rendelkezésre álló egy
 - a) a közúti személyszállítást vagy árufuvarozást végző, közúti járműveket üzembentartó vállalkozás azonosításához szükséges adatok,
 - b) a vállalkozás járműveit érintő közúti ellenőrzések időpontja és tárgya,
 - c) a vállalkozás járműveit érintő műszaki vizsgálatok időpontja és jellege (időszakos vagy önkéntes vizsgálat),
-- d) a vállalkozás tulajdonában, üzemben tartásában vagy használatában lévő, M2, M3, N2, N3, O3, valamint O4 kategóriájú, közúti ellenőrzésben vagy jogsértésben érintett járművek azonosító adatai,
+- d) a vállalkozás tulajdonában, üzemben tartásában vagy használatában lévő, M1, M2, M3, N1, N2, N3, O1, O2, O3, valamint O4 kategóriájú, közúti ellenőrzésben vagy jogsértésben érintett járművek azonosító adatai,
 - e) a vállalkozással összefüggésbe hozható jogsértések adatai:
   - ea) a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-ei 1071/2009/EK európai parlamenti és tanácsi rendelet IV. mellékletében meghatározott jogsértések elkövetésére vonatkozó adatok,
   - eb) a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet 3–4/A. mellékleteiben meghatározott, jogsértések elkövetésére vonatkozó adatok,
@@ -1526,7 +1543,7 @@ tevékenységét a közlekedési hatóság engedélyezi és rendszeresen ellenő
 
 (6) A 32. § (6) bekezdésében meghatározott szervezet a befejezett beruházások magyar állam tulajdonában álló területének rendezése során saját hatáskörben a magyar állam javára és nevében jár el. A befejezett beruházások területének rendezése érdekében megvásárolt, kisajátított vagy más jogcímen megszerzett további földrészlet a magyar állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül a 32. § (6) bekezdésében meghatározott szervezet vagyonkezelésébe kerül, amely köteles azt az ingatlan-nyilvántartásba bejegyeztetni. A 32. § (6) bekezdésében meghatározott szervezet a vagyonkezelői jog bejegyzésére vonatkozó, a fővárosi és vármegyei kormányhivatal által kiadott határozatot haladéktalanul köteles az MNV Zrt. részére tájékoztatásul megküldeni.
 
-(7) Közút, közforgalom elől el nem zárt magánút szilárd burkolattal történő létesítéséhez, korszerűsítéséhez, építési engedélytől való eltéréséhez (továbbiakban együtt: építés), forgalom részére történő átadásához, megszüntetéséhez, elbontásához – mint fontos közérdekű és közcélú tevékenység végzéséhez – a közlekedési hatóság engedélye szükséges. Az engedélyezési eljárások ügyintézési határideje 55 nap.
+(7) Szilárd burkolatú közút és közforgalom elől el nem zárt magánút létesítéséhez, korszerűsítéséhez, építési engedélytől való eltéréséhez, és a nem kizárólag az építtető, építtetők tulajdonában álló területen megvalósuló földút létesítéséhez, építési engedélytől való eltéréshez (a továbbiakban együtt: építés), forgalom részére történő átadásához, megszüntetéséhez, elbontásához – mint fontos közérdekű és közcélú tevékenység végzéséhez – a közlekedési hatóság engedélye szükséges. Az engedélyezési eljárások ügyintézési határideje 55 nap. A kérelemre indult eljárás esetében az ügyintézési határidő a kérelemnek a hatósághoz történő beérkezését követő első munkanapon kezdődik.
 
 (8) Aki hatósági engedély nélkül épít utat, vagy az engedélyben foglaltaktól eltér, azt a közlekedési hatóság az eredeti állapot helyreállítására vagy – amennyiben az út a külön jogszabályban foglalt feltételeknek megfelel vagy megfelelővé alakítható át – a fennmaradáshoz szükséges intézkedések megtételére kötelezi.
 
@@ -1567,7 +1584,7 @@ tevékenységét a közlekedési hatóság engedélyezi és rendszeresen ellenő
 
 - a) közút, közforgalom elől el nem zárt magánút földút szintű kiépítését és azok két méter szabadnyílást meg nem haladó műtárgyai – kivéve a nem kizárólag az építtető (építtetők) tulajdonában álló területen történő – építését, korszerűsítését, forgalomba helyezését és megszüntetését (elbontását),
 - b) járda, gyalogút és azok két méter szabadnyílást meg nem haladó műtárgyai – kivéve a nem kizárólag az építtető tulajdonában álló területen történő – építését, korszerűsítését, forgalomba helyezését és megszüntetését (elbontását), valamint ezek nem közlekedési célú igénybevételét (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést),
-- c) vasúti átjáró átépítése, felújítása, korszerűsítése során szükséges ideiglenes terelőút kiépítését és elbontását, vagy a már meglévő – de elzárt terelőút – ideiglenes megnyitását és elzárását a vasúti átjáró ismételt üzembehelyezésével egyidejűleg,
+- c) vasúti átjáró átépítése, felújítása, korszerűsítése során szükséges ideiglenes terelőút kiépítését, vagy a meglévő, elzárt terelőút ideiglenes megnyitását a vasúti átjáró lezárását megelőzően legalább 8 nappal; az ideiglenes terelőút elbontását vagy elzárását a vasúti átjáró ismételt üzembe helyezését megelőzően legalább 8 nappal,
 - d) útfelújítás, korszerűsítés során a munkaterületen ideiglenes terelőút kiépítését és elbontását, valamint eredeti állapotba történő visszaállítását az útfelújítással érintett út műszaki átadás átvételét követő 8 napig bezárólag,
 - e) bárki által igénybe vehető létesítményhez szükséges parkolóhelyek és a hozzájuk vezető legfeljebb 50 m hosszú útfelület kiépítését az építéssel érintett ingatlanon összesen (meglévő és tervezett) 10 parkolóhelyig az útügyi műszaki előírások betartásával.
 
@@ -1599,7 +1616,7 @@ terjedhet.
 
 (5) Az elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az első fokú engedélyezési eljárásban nem vett részt.
 
-(6) A hatóság az eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen értesíti az eljárás megindításától számított nyolc napon belül.
+(6)
 
 (7) Ha jogszabály az engedélyezési eljárás során helyszíni szemle tartását írja elő, a közmeghallgatás a helyszíni szemlével együtt lebonyolítható.
 
@@ -1793,7 +1810,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 - d) a díjköteles útszakasz azonnali elhagyását elrendelni,
 - e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyvnek az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet részére történő átadásával az úthasználót a pótdíj megfizetésére kötelezni.
 
-(2) Az (1) bekezdésben meghatározott intézkedésekről jegyzőkönyv, az úthasználó személyazonosító okmányairól és a gépjármű azonosító okmányairól másolat készítésére kizárólag jogsértés megállapítása esetén kerül sor.
+(2) Az (1) bekezdésben meghatározott intézkedésekről – jogsértés megállapítása esetén – jegyzőkönyvet, az úthasználó személyazonosító okmányairól és a gépjármű azonosító okmányairól – ha rendelkezésre áll – másolatot kell készíteni.
 
 (3) Az (1) bekezdés a)–b) és d)–e) pont szerinti intézkedések megtételére, valamint ezen tevékenységhez kapcsolódóan a 33/B. § (4) bekezdés szerinti adatkezelésre a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve is jogosult.
 
@@ -2297,7 +2314,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 5. A közúti közlekedési szolgáltatás, a saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, valamint az autómentési tevékenység végzésének a feltételeit, ezen tevékenységek végzéséhez használható járművek üzemeltetésének általános feltételeit, továbbá az e járművek vezetőinek képzésére vonatkozó feltételeket,
   - 6. a közúti járművek üzemanyag-felhasználása költségtérítésként elszámolható mértékének szabályait,
   - 7. a közlekedési hatóság vagy hatóságok kijelölését,
-  - 8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait, továbbá a vizsgaközpont kijelölését,
+  - 8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait, a vizsgaközpont kijelölését és a vizsgaközpont tevékenységének részletes szabályait,
   - 9. a közúti közlekedés szabályait,
   - 10. a típusvizsgáló és a járműforgalmazó tényállás tisztázásában történő közreműködése engedélyezésének részletes eljárási szabályait, továbbá az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre kijelölt műszaki szolgálatokra vonatkozó követelményeket és a kijelölés eljárási szabályait,
   - 11. a közúti szállítmányozási tevékenység szabályait,
@@ -2386,7 +2403,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 34. a 24. § (11) bekezdésében meghatározott szervezet kijelölését, és az azzal összefüggésben ellátandó, valamint a 24. § (11) bekezdésében meghatározott szervezet által ellátandó muzeális jellegű járművek minősítési szabályainak kidolgozására és kiadására, a minősítés végrehajtásának szakmai és piacfelügyeleti ellenőrzésére vonatkozó feladatokat,
   - 35. a kezelői ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó szabályokat,
   - 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
-  - 37. a közúti forgalom biztonságát veszélyeztető módon veszteglő jármű elszállításának, tárolásának és értékesítésének szabályait,
+  - 37. a közúti forgalom biztonságát veszélyeztető módon veszteglő, a közútkezelői feladatok ellátását, valamint a közúti ellenőrzéseket akadályozó, továbbá a közút területén hátrahagyott járművek elszállításának, tárolásának és értékesítésének szabályait,
   - 38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
   - 38a. az útügyi műszaki előírások kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
   - 39. a csatlakozási díj meghatározásának elveit, mértékét, a kezelői hozzájárulás kiadásának feltételeit,
@@ -2408,7 +2425,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 - d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
 - e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
-- f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
+- f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét, az azzal összefüggő szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - g) a miniszter, hogy az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben
   - 1. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
   - 2. a 33/A. § szerinti használati díjat, a használati díj megfizetésének elmaradása esetén kiszabható pótdíjat, valamint a pótdíj megfizetésének elmaradása esetén kiszabható többletpótdíjat vagy meghatározásának módját,
