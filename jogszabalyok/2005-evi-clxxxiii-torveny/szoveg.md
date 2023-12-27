@@ -386,7 +386,14 @@ terjed ki.
 
 (6) A miniszter korlátozhatja a nem az Európai Unió tagja harmadik ország vonatkozásában a vasúti pályahálózathoz való hozzáférési jogot a harmadik országból, illetve annak irányába olyan hálózatokon végzett szolgáltatások esetében, amelyek nyomtávolsága eltér a pályahálózat-működtető által működtetett vasúti hálózat általánosan alkalmazott nyomtávolságától, ha versenytorzulás jelentkezik az állam és az adott harmadik ország közötti, határokon átnyúló vasúti közlekedésben. A miniszter a korlátozás bevezetésére vonatkozó határozattervezetet benyújtja a Bizottságnak, és konzultál a többi tagállammal.
 
-(7) A miniszter látja el – az általa kijelölt szervezet útján – a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzését, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítását. A kijelölt szervezet számára – a jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
+(7) A miniszter látja el – az általa kijelölt szervezet útján –
+
+- a) a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat,
+- b) az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzését,
+- c) a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelés biztosítását,
+- d) a vasúti rendszert érintő jelentős változtatások által felmerülő kockázatok kezelésének ellenőrzését.
+
+(7a) A (7) bekezdés szerinti kijelölt szervezet számára – jogszabályban meghatározott forrásból, a miniszter által vezetett minisztérium igazgatási előirányzata terhére – a miniszter döntése alapján támogatás is nyújtható.
 
 (8) Országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetében a 67/P. § (3) bekezdésében foglalt feladatokat a Vasúti Pályakapacitás-elosztó Szervezet (a továbbiakban: VPSZ) látja el a díjbeszedés kivételével, amelyet a független pályahálózat-működtető is elláthat.
 
@@ -408,6 +415,8 @@ terjed ki.
 (12) A koncessziós társaság a koncesszió időtartama alatt, a koncessziós szerződés alapján, az általa létesített vagy fejlesztett, felújított, karbantartott és üzemeltetett vasúti pályahálózat használóitól nyílt hozzáférésű vasúti pályahálózat esetén hálózat-hozzáférési díjat szed, nem nyílt hozzáférésű pályahálózat esetén a vasúti pályahálózat használatáért díjat szedhet.
 
 (13) A koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – külön pályázat kiírása nélkül meghosszabbítható.
+
+(14) A miniszter megállapítja a Vasutak Együttműködési Szervezete tagállamainak vasúti társaságai között létrejött, a nemzetközi teherkocsi használati szabályokról szóló megállapodásban (a továbbiakban: PGV megállapodás) a Magyarországot megillető két szavazaton belül a PGV megállapodásban részes, Magyarországon bejegyzett vasúti társaságokat megillető részarányok meghatározásának módszerét.
 
 ### A vasúti pályahálózat fejlesztési stratégia
 
@@ -1367,7 +1376,7 @@ műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fen
 
 (2) Nem vonható ki az országos törzshálózati vasúti pályák köréből a transzeurópai vasúti közlekedési hálózat részeként működő vasútvonal.
 
-(3) A kizárólag a Magyar Honvédség által honvédelmi célra használt saját célú vasúti pályahálózatok a magyar állam tulajdonában és az MH Katonai Közlekedési Központ üzemeltetésében állnak.
+(3) A kizárólag a Magyar Honvédség által honvédelmi célra használt saját célú vasúti pályahálózatok a magyar állam tulajdonában és az MH Logisztikai Támogató Parancsnokság üzemeltetésében állnak.
 
 39. § (1) A Fertővidéki Helyi Érdekű Vasúti Zrt. (a továbbiakban: FHÉV Zrt.) vasúti pályáinak és tartozékainak a tulajdonjogára és használatára a fertővidéki helyi érdekü vasuti engedélyezése tárgyában hozott 1896. évi XXIX. törvényben meghatározott – meghosszabbított – engedély lejártáig az abban foglaltakat kell alkalmazni.
 
@@ -2127,7 +2136,7 @@ kell alkalmazni.
 
 ### A vasúti igazgatási szerv vezetője
 
-70. § (1) A vasúti igazgatási szerv vezetőjét – a miniszter javaslatára–a miniszterelnök öt évre nevezi ki. A vasúti igazgatási szerv vezetője egy alkalommal ismételten kinevezhető.
+70. § (1) A vasúti igazgatási szerv vezetőjét – a miniszter javaslatára – a miniszterelnök öt évre nevezi ki. A vasúti igazgatási szerv vezetője egy alkalommal ismételten kinevezhető.
 
 (2) A vasúti igazgatási szerv vezetője tisztségére nem kell pályázatot kiírni. A vasúti igazgatási szerv vezetőjének olyan személy nevezhető ki, aki a kormányzati igazgatásról szóló törvényben foglalt követelményeken túl
 
@@ -2144,9 +2153,9 @@ kell alkalmazni.
 
 73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban tulajdoni részesedést nem szerezhet.
+(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban sem közvetlen, sem közvetett tulajdoni részesedést nem szerezhet.
 
-(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni.
+(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett – a (2) bekezdés szerinti – tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni, amelyről kötelezettségvállalási nyilatkozatot tesz.
 
 (4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
 
@@ -2166,13 +2175,15 @@ kell alkalmazni.
 
 (3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a vasúti igazgatási szerv a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 
-(4)
+(4) A vasúti igazgatási szerv határozata valamennyi ügyfélre nézve kötelező és azt más közigazgatási hatóság nem vizsgálhatja felül.
 
 (5) A vasúti igazgatási szerv a 9/E. § (1) bekezdése szerinti eljárásában az eljárást felfüggeszti, ha a vasúti igazgatási szerv adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan az eljárásban döntés nem hozható.
 
 77. § (1) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott, valamint a bejelentésre kötelezett tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni.
 
 (2) A vasúti igazgatási szerv a feladatai ellátásához szükséges információk és adatok (beleértve az üzleti titkot is) szolgáltatására, iratok bemutatására kötelezheti indítványra vagy hivatalból a vasúti pályahálózat-kapacitás elosztása által érintett valamennyi szervezetet, a pályahálózat-működtetőket, a VPSZ-t, a kapacitásfoglalásra jogosultakat, a vállalkozó vasúti társaságokat, a kiszolgáló létesítmények üzemeltetőit, a fejlesztési közreműködőket, valamint a közlekedésszervezőt.
+
+(2a) A vasúti igazgatási szerv adatszolgáltatásra kötelezheti a pályahálózat-működtetőt az 56. § (3) bekezdése alapján létrejött együttműködésével kapcsolatban. Az eljárásba bevont pályahálózat-működtető képviselője a vasúti igazgatási szerv által meghatározott határidőn, de legfeljebb 8 napon belül rendelkezésre bocsátja a nemzetközi menetvonallal kapcsolatos panaszkezeléshez vagy vizsgálathoz szükséges, az eljárásban részt vevő pályahálózat-működtető székhelye szerinti tagállam igazgatási szervezete által igényelt információt. Az igazgatási szervezet jogosult az érintett nemzetközi menetvonallal kapcsolatos ilyen természetű információkat az eljárásban részt vevő vasúti igazgatási szerveknek továbbítani.
 
 (3) A (2) bekezdés szerinti információkat a vasúti igazgatási szerv által meghatározott – egy hónapnál nem hosszabb – ésszerű határidőn belül a vasúti igazgatási szerv rendelkezésére kell bocsátani. Az adatszolgáltatásra nyitva álló határidő kivételes esetben – kérelemre – legfeljebb két héttel meghosszabbítható.
 
@@ -2210,6 +2221,8 @@ kell alkalmazni.
 
 - a) határozatának meghozatala előtt ezektől az igazgatási szervezetektől megkéri az összes szükséges információt, valamint
 - b) a más EGT-tagállam igazgatási szervének illetékességébe tartozó eljárás esetén – a panaszkezelés vagy vizsgálat céljából – az illetékes EGT-tagállam igazgatási szervének átadja a szükséges információkat.
+
+(5) A vasúti igazgatási szerv a (4) bekezdés a) pontjában kapott információkat kizárólag a panasz elbírálása vagy a vizsgálat céljából használhatja fel a (4) bekezdés szerinti eljárásokban.
 
 ### Jogvitás eljárás
 
@@ -2261,6 +2274,7 @@ kell alkalmazni.
   - bd) a 79/B. § (1) bekezdés e) pontja szerinti jogvita esetén elrendelheti a Díjképzési Módszertan módosítását, és a módosított Díjképzési Módszertan alapján új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
   - be) a 79/B. § (1) bekezdés f) pontja szerinti jogvita esetén elrendelheti új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
   - bf) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására.
+  - bg) a 79/B. § (1) bekezdés b)–d) pontjai alapján indított jogvitás eljárás esetén a vasúti igazgatási szerv határozhat úgy, hogy a döntés semmiféle változtatást nem igényel, vagy a bb) alpontban hozott döntés esetén iránymutatását a határozatba foglalja.
 
 (2) A vasúti igazgatási szerv az (1) bekezdés b) pontjában meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
 
@@ -2728,7 +2742,11 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 #### 1. A különleges kötöttpályás közlekedésre vonatkozó eltérő rendelkezések
 
-84/A. § (1)
+84/A. § (1) A különleges kötöttpályás rendszerek e törvény 18. §-ában meghatározott mentességek közül az alábbiaknak felelnek meg:
+
+- a) a különleges kötöttpályás közlekedési rendszerek olyan vállalkozó vasúti társaságok, amelyek a 18. § (1) bekezdés a) pontja szerinti különálló helyi és térségi vasúti pályahálózaton kizárólag városi, elővárosi vagy térségi vasúti szolgáltatást nyújtanak,
+- b) a különleges kötöttpályás közlekedési rendszerek olyan vállalkozó vasúti társaságok, amelyek valamely, a 18. § (3) bekezdés a)–c) pontja szerinti szolgáltatást nyújtják, illetve
+- c) a különleges kötöttpályás közlekedési rendszerek olyan vállalkozó vasúti társaságok, amelyek valamely, a 18. § (4) bekezdés a)–c) pontja szerinti szolgáltatást nyújtják.
 
 (2) A különleges kötöttpályás közlekedési rendszerekre a működési engedélyre vonatkozó 6–9/D. §-t, a pályahálózat-működtető üzleti tervére vonatkozó 12–13. §-t, a számviteli elkülönítésre vonatkozó 21. §-t, a biztonságirányítási rendszerre és a biztonsági szervezetre vonatkozó 32–32/A. §-t, az egységes biztonsági tanúsítványra és vasútbiztonsági engedélyre vonatkozó 33–35. §-t, a nyílt hozzáférésre, a kapacitáselosztásra és a hálózat-hozzáférési díjakra vonatkozó 49–67/W. §-t, a felügyeleti díjakra vonatkozó 9/E. §-t, a 35. § (5)–(5a) bekezdését, valamint a jogvitás eljárásra vonatkozó 79/B–79/D. §-t nem kell alkalmazni.
 
@@ -3084,8 +3102,8 @@ megfelelnek a vasút-villamos szolgáltatásra kiadott működési engedélyekbe
 
 (3) Az e § szerinti eljárást követően nem kell alkalmazni
 
-- a) a pályahálózat-működtető üzleti tervére vonatkozó 12–13. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi és térségi vasúti pályahálózatokra,
-- b) a nyílt hozzáférésre, a kapacitáselosztásra és a hálózat hozzáférési díjakra vonatkozó 49–67/W. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi vasúti pályahálózatokra.
+- a) a 12–13. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi és térségi vasúti pályahálózatokra,
+- b) az 50–66 §, és 67/A–67/W. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi vasúti pályahálózatokra.
 
 ### Honvédelmi saját célú vasúti pályákra és honvédelmi vasúti tevékenységre vonatkozó eltérő rendelkezések
 
@@ -3216,7 +3234,7 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 - 3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
 - 4. a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
 - 5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a pályahálózat-működtető által fizetendő megbízási díj mértékét,
-- 6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését,
+- 6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését, a vasúti vizsgaközpont tevékenységének részletes szabályait,
 - 7. a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző szerv vagy személyek kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 - 8. az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 9. az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
@@ -3243,7 +3261,7 @@ rendeletben állapítsa meg.
 
 - 1. a működési engedélyezési eljárás anyagi jogi szabályait, az engedély kiadásának és módosításának feltételeit, a kérelem és az engedély tartalmi elemeit, az üzleti jó hírnév, a pénzügyi teljesítőképesség, a szakmai alkalmasság, valamint a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasság igazolásának módját, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának anyagi jogi szabályait, a működési engedélyhez nem kötött tevékenység esetén a bejelentés anyagi jogi szabályait, a működési engedély kötelező felülvizsgálatának eseteit, valamint a vasúti igazgatási szervnek a vasúti társaságok tevékenységével kapcsolatos ellenőrzési tevékenységének anyagi jogi szabályait,
 - 2. a vasúti tevékenység megkezdésének és folytatásának bejelentésére vonatkozó anyagi jogi szabályokat,
-- 3.
+- 3. a PGV megállapodásban a Magyarországon bejegyzett, a PGV megállapodásban részes vasúti társaságokat megillető két szavazat elosztásának módszerét,
 - 4. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
 - 5. a hálózat-hozzáférési díjképzési rendszerek kereteit, a díjak képzésének, alkalmazásának, a díjképzési elvek alóli kivételek kezelésének, a biztosítható kedvezmények, valamint a kiegyenlítő juttatások nyújtásának alapvető szabályait, a Díjképzési Módszertanra és a Díjszámítási Dokumentumra vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben;
 - 6. a Hálózati Üzletszabályzatának tartalmára vonatkozó részletes szabályokat,
@@ -3277,7 +3295,7 @@ rendeletben állapítsa meg.
 - 34. az országos, a térségi és az elővárosi vasúti pályahálózatba tartozó vasúti pálya esetén a felszín alatti vasúti pálya nyomvonala által érintett ingatlanok jegyzékét,
 - 35. a különleges kötöttpályás közlekedési rendszer üzemeltetési szabályzatának tartalmi és a formai követelményeire, valamint vasúti közlekedési hatósági jóváhagyására vonatkozó szabályokat, valamint a különleges kötöttpályás közlekedési rendszer üzemeltetési engedélyezési szabályait,
 - 36. közutaknak és magánutaknak turisztikai hajtánypálya által történő keresztezésére vonatkozó szabályokat
-- 37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó feladatokat,
+- 37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó, továbbá a vasúti rendszert érintő jelentős változások által felmerülő kockázatok kezelésének ellenőrzésével kapcsolatos feladatokat,
 - 38.
 - 39. a vasúti műszaki előírások kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére, valamint a tevékenységével összefüggő feladatokra és a közlekedési hatósággal történő együttműködésére vonatkozó részletes szabályokat,
 - 40. az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények műszaki szabályait,

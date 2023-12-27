@@ -430,7 +430,7 @@ gépjárműről és annak hatósági jelzéséről készített képfelvételt,
 - a) az (1) bekezdés c)–h) és j) pontjában meghatározott adatokat az adat keletkezését követő 7 évig,
 - b) az (1) bekezdés i) pont ia) alpontjában meghatározott adatokat az adat keletkezését követő 360 napig,
 - c) az (1) bekezdés i) pont ib) alpontjában meghatározott adatokat az adat keletkezését követő két évig,
-- d) az (1) bekezdés k) pontjában meghatározott adatokat, valamint a jármű áthaladási sebességére vonatkozó adatokat az adatátadást követő 70 napig
+- d) az (1) bekezdés k) pontjában meghatározott adatokat, valamint a jármű áthaladási sebességére vonatkozó adatokat az adatátadást követő 2 évig
 
 jogosult kezelni.
 
