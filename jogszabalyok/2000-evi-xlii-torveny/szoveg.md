@@ -1255,9 +1255,9 @@ vonatkozó rendelkezések megsértésekor.
 
 - 1. belvízi út: a kontinens határain belüli természetes és mesterséges felszíni víz;
 - 2. belvízi, illetőleg tengeri hajó: rendeltetésének megfelelő, nyilvántartásba vett, és építése, berendezése és felszerelése alapján belvízi, illetőleg tengeri közlekedésre alkalmas vízijármű;
-- 3. csónak: a hajónak, kompnak, vízi sporteszköznek nem minősülő
-  - a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
-  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 14,7 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
+- 3. csónak:
+  - a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket, vagy
+  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, motorteljesítménye legfeljebb 14,7 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 - 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 - 4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként jogszabályban vagy kormányhatározatban kijelölt szervezet;
 - 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;

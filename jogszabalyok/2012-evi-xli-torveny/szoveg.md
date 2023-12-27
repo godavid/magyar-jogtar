@@ -980,7 +980,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 - f) a közlekedési szolgáltató belső szabályozásainak a közszolgáltatási szerződéssel fennálló összhangjára, továbbá
 - g) a közlekedési szolgáltató a közszolgáltatási szerződéssel összefüggő pénzügyi gazdálkodására.
 
-(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szint-mérési rendszert határoz meg és működtet.
+(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szint-mérési rendszert határoz meg és a szolgáltatók bevonásával működtet.
 
 (5) Az ellátásért felelős a közszolgáltatások ellentételezésére fordított közforrások felhasználásának ellenőrzése érdekében a közszolgáltatási szerződésben a (3) bekezdés d)–g) pontjára kiterjedő pénzügyi és gazdálkodási jellegű ellenőrzési rendszert határoz meg és működtet.
 
@@ -1277,7 +1277,9 @@ vonatkozó önkormányzati rendelet kiadására.
 
 (11) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésével a KTI Nonprofit Kft. menetrend szerinti személyszállítással, közlekedési stratégiai és hálózat tervezéssel, forgalmi modellezéssel, elektronikus jegyrendszerrel, valamint utastájékoztatással kapcsolatos feladatai, tárgyi eszközei, vagyoni értékű jogai tulajdonjoga az országos közlekedésszervezőre, mint jogutódra szállnak át térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező és a KTI Nonprofit Kft. számára adó- és közteherfizetési kötelezettséget nem keletkeztet.
 
-(12)
+(12) A 35/A. § szerinti Központi Rendszerként működő, az IKOP-3.1.0-15-2017-00014 és az IKOP-3.2.0-15-2017-00028. azonosítószámú Helyközi Közösségi Közlekedési Információs Rendszer (HKIR) projektben létrehozott vagyonelemeket, vagyoni értékű jogokat a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság és a KTI Kft., mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átadó szervezetek 2024. március 1-jével térítésmentesen kötelesek átadni a MÁV-START Vasúti Személyszállító Zárkörűen Működő Részvénytársaság és a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság, mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átvevő szervezetek részére.
+
+(13) A (12) bekezdésben foglalt vagyonelemek, vagyoni értékű jogok átadására nem kell alkalmazni a társasági adóról szóló 1996. évi LXXXI. törvény 18. §-ának rendelkezéseit.
 
 #### 36. Az Európai Unió jogának való megfelelés
 
@@ -1286,7 +1288,7 @@ vonatkozó önkormányzati rendelet kiadására.
 - a) az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv;
 - b) a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdése;
 - c) a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i 2016/2370 európai parlamenti és tanácsi irányelv
-- d) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelv.
+- d)
 
 (2) Ez a törvény a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 

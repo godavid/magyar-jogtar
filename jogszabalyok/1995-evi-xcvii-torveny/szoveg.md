@@ -61,6 +61,8 @@ látja el.
 
 (3) A miniszter látja el – az általa kijelölt szervezet útján – a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
 
+(3a) A miniszter látja el a fenntartható légijármű üzemanyagokkal kapcsolatos támogatási és fejlesztési feladatokat, valamint koordinálja azok végrehajtását.
+
 (4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását, valamint a légiutas-kísérők tanúsítványát – megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
 
 (4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
@@ -71,7 +73,7 @@ látja el.
 
 3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i (EU) 2018/1139 tanácsi rendeletben (a továbbiakban: 2018/1139/EU európai parlamenti és tanácsi rendelet) és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
-(1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
+(1a) Az e §-ban és a 33. § (1) bekezdésében meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
 
 (1b) Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél a hatóság erre irányuló felhívása ellenére – a hatóság által előírt határidőn belül – adatszolgáltatási kötelezettségét nem teljesíti, a hatóság az engedélyt vagy tanúsítást felfüggesztheti az adatszolgáltatási kötelezettség teljesítéséig. Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél más tudomása ellenére az ügy szempontjából jelentős adatot valótlanul állít, a hatóság – az általános közigazgatási rendtartásról szóló törvényben foglalt jogkövetkezmények alkalmazásán túl – az engedélyt vagy tanúsítást egytől három évig terjedő időtartamra felfüggesztheti. Az ügyfél mindkét esetben a felfüggesztett engedélyt vagy tanúsítást köteles a hatóság számára visszaszolgáltatni.
 
@@ -105,7 +107,7 @@ látja el.
 - l) a légiközlekedés-védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása,
 - m) repülésbiztonsági szervezet engedélyezése,
 - n) az állami célú légiközlekedéssel összefüggő repülésbiztonsági szervezet engedélyezése,
-- o) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+- o)
 - p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 - q) a légiközlekedési szakszemélyzet repülőorvosi minősítésének másodlagos felülvizsgálati eljárása.
 
@@ -117,12 +119,14 @@ látja el.
 - b) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
 - c) a légiközlekedési szakszemélyzet szakirányú képzéséhez, vizsgáztatásához és értékeléséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
 - d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
-- e) a léginavigációs szolgálatok tanúsítására, valamint felügyeletére irányuló, valamint hatósági eljárásokban,
-- f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló hatósági eljárásokban,
-- g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásokban,
-- h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló hatósági eljárásokban,
-- i) az állami légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló hatósági eljárásokban,
-- j) állami légiközlekedési szakszemélyzet oktatására használt repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló hatósági eljárásokban.
+- e) a léginavigációs szolgálatok tanúsítására, valamint felügyeletére irányuló,
+- f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló,
+- g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló,
+- h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló,
+- i) az állami légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
+- j) állami légiközlekedési szakszemélyzet oktatására használt repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
+- k) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel előforduló balesetekkel és repülőeseményekkel kapcsolatos közigazgatási,
+- l) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló
 
 hatósági eljárásokban.
 
@@ -135,7 +139,7 @@ hatósági eljárásokban.
 - e) a légitársaság üzletszabályzatának és módosításának jóváhagyására irányuló, valamint
 - f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban,
 - g) az állami légijármű és a pilóta nélküli állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
-- h) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
+- h)
 - i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
 - j) a légiközlekedés-védelmi háttérellenőrzési eljárásban.
 
@@ -164,7 +168,7 @@ hatósági eljárásokban.
 
 (2o) A katonai légügyi hatóság eljárásában a tevékenység végzésétől történő eltiltás legfeljebb a döntés véglegessé válásától számított 365 napra szólhat. A katonai légügyi hatóság intézkedhet továbbá a tevékenység végzésének feltételhez kötéséről.
 
-(3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet.
 
@@ -420,7 +424,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 15. § (1) A lajstromba vétel feltételeit, a bejegyzés tartalmának, módosításának és törlésének részletes szabályait a miniszter rendeletben határozza meg.
 
-(2) A lajstromba vételért, a lajstromból való törlésért és a lajstrom kivonatáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(2) A lajstromba vételért, a lajstromból való törlésért és a lajstrom kivonatáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 15/A. § A légiközlekedési hatóság által vezetett lajstromból a Nemzeti Információs Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés, elemzés-értékelés, valamint hírigény teljesítése céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
 
@@ -928,7 +932,7 @@ kezelheti.
 
 ### A nyilvános repülőrendezvény
 
-33. § (1) A nyilvános repülőrendezvény megtartására, illetve e tevékenység rendszeres folytatása céljából vállalkozás létrehozására a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság ad engedélyt.
+33. § (1) A nyilvános repülőrendezvény megtartására a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság ad engedélyt.
 
 (2) A nyilvános repülőrendezvényt a rendező köteles a rendezvény területe szerint illetékes rendőrhatóságnak és légiforgalmi szolgálatnak előzetesen bejelenteni.
 
@@ -1710,7 +1714,7 @@ kezeli.
 71. § A törvény alkalmazásában
 
 - 1. állami célú légiközlekedés: a honvédelmi, a vámhatósági és a rendvédelmi célú légiközlekedés, amely végezhető állami légjárművel, pilóta nélküli állami légijárművel, valamint polgári légijárművel, vagy pilóta nélküli légjárművel abban az esetben, ha a repülés honvédelmi, vámhatósági vagy rendvédelmi célt szolgál;
-- 2. állami légijármű: a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba bejegyzett, honvédelmi, vámhatósági vagy rendvédelmi szervek céljára szolgáló légijármű;
+- 2. állami légijármű: a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba bejegyzett, honvédelmi, vám, rendvédelmi szervek vagy a rendvédelmi feladatot ellátó szervek céljára szolgáló légijármű;
 - 2a. külföldi állami légijármű: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet 3. cikk b) pontjában meghatározott, a katonai, a vám- és a rendőri szervek céljára szolgáló külföldi légijármű;
 - 3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot, állami repülések céljára szolgáló repülőtér esetében katonai légiforgalmi irányító szolgálatot, közös felhasználású repülőtér esetében olyan légiforgalmi irányító szolgálatot biztosítanak, amely mind a polgári, mind a katonai előírásoknak megfelel;
 - 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
@@ -1767,7 +1771,7 @@ kezeli.
 - 39. repülőeszköz: siklórepülő eszköznek, ejtőernyőnek és a 216/2008/EK európai parlamenti és tanácsi rendelet II. Melléklet e) pontjában meghatározott egyszemélyes vagy 300 kg legnagyobb felszálló tömeget el nem érő repülőgépnek minősülő légijármű;
 - 40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő;
 - 41. közös felhasználású repülőtér: olyan, elsősorban az általános légiforgalomtól eltérő légijármű-mozgásokat kiszolgáló nem nyilvános repülőtér, amely kialakítása folytán rendelkezik a polgári légiközlekedés szabályainak megfelelő, polgári légiközlekedési tevékenység céljára szolgáló területtel, és amelyre eltérő rendelkezés hiányában az állami repülések céljára szolgáló repülőterekre vonatkozó jogszabályokat kell alkalmazni.
-- 42. pilóta nélküli állami légijármű: honvédelmi, vámhatósági, rendvédelmi és rendvédelmi feladatot ellátó szervek céljára szolgáló, a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba felvett légijármű, továbbá a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott üzembentartó által üzemben tartott pilóta nélküli légijármű;
+- 42. pilóta nélküli állami légijármű: honvédelmi, vám, rendvédelmi vagy rendvédelmi feladatot ellátó szervek céljára szolgáló, a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba felvett légijármű, továbbá a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott üzembentartó által üzemben tartott pilóta nélküli légijármű;
 - 43. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény 2. § a) pontjában meghatározott személy.
 - 44. légialkalmassági tanúsítvány: típusalkalmassági tanúsítvánnyal rendelkező légijármű esetében az adott típushoz tartozó, gyártási számmal, lajstromjellel rendelkező egyedi légijármű esetében a típusalkalmasságra vonatkozó előírásoknak való megfelelést tanúsító, határozatlan időtartamig érvényes hatósági okmány;
 - 45. légialkalmassági felülvizsgálati tanúsítvány: a 44. pontban meghatározott légialkalmassági tanúsítvánnyal rendelkező légijárműhöz tartozó, a folyamatos légialkalmassági feltételeknek a kiadás napján való megfelelést igazoló, meghatározott ideig érvényes hatósági okmány.

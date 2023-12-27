@@ -828,6 +828,39 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (2) A kártalanítás összegét úgy kell tekinteni, mint amely az általános forgalmi adót is tartalmazza, ha a 40/H. § szerinti eljárás keretében történő tulajdonátszállást az általános forgalmi adóról szóló törvény szerint adófizetési kötelezettség terheli.
 
+### Országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése
+
+40/W. § (1) Azon ingatlan tekintetében, amely nem áll az állam tulajdonában, de a területén olyan vasúti pálya vagy tartozéka található,
+
+- a) amely részét képezi a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 2. § 2. pont 2.13. alpontja szerinti országos jelentőségű vasútvonalnak, és
+- b) amelynek használatbavételi engedélye 2024. január 1-jét megelőzően véglegessé vált,
+
+továbbá, ha fennállnak a 40/I. §-ban meghatározott feltételek, ezen alcím szerinti, az ingatlan tulajdoni viszonyának rendezése iránti eljárásnak van helye.
+
+(2) Az (1) bekezdés szerinti eljárásban a 2. § o) pontjában meghatározott közérdekű céloknak megfelelően a 40/I. §–40/V. §-t kell alkalmazni, az ezen alcímben foglalt eltérésekkel. Az ezen alcímben és a 40/I. §–40/V. §-ban nem szabályozott kérdésekben e törvény rendelkezéseit kell alkalmazni.
+
+(3) Ahol a 40/I. §–40/V. §
+
+- a) utat, közutat, vagy országos közutat említ, azon az (1) bekezdés szerinti vasúti pályát és tartozékait,
+- b) országos közút által érintett földrészletet említ, azon az (1) bekezdés szerinti vasúti pálya és tartozéka által érintett földrészletet,
+- c) 40/H. § szerinti eljárást említ, azon az (1) bekezdés szerinti eljárást
+
+kell érteni.
+
+(4) Az (1) bekezdés szerinti eljárást az országos jelentőségű vasútvonal felett tulajdonosi jogokat gyakorló szerv kérheti.
+
+(5) Az (1) bekezdés szerinti eljárásban nem alkalmazható a 14. §, a 21/A. §, a 24/C. §, a 31/A. §, a 35. §, a 37/B. §–39. §, és a 40/A. §.
+
+40/X. § (1) A 40/W. § szerinti eljárásban az ingatlan tulajdonosa 2028. december 31-ig kérheti a közérdekű cél jogosultjának az eljárás iránti kérelem benyújtására kötelezését.
+
+(2) A kisajátítási hatóság – az ingatlan tulajdonosának kérelmére – a 40/W. § szerinti eljárás iránti kérelem benyújtására a 40/W. § (4) bekezdésében meghatározott szervet kötelezi.
+
+(3) A 40/W. § szerinti eljárásban, ha az országos jelentőségű vasútvonal építésének kezdő napja nem állapítható meg, a kártalanítási összeg esedékessége időpontjának a használatbavételi engedély véglegessé válásának napját kell tekinteni.
+
+(4) A 40/W. § szerinti eljárás megindítására vonatkozó kérelem 2029. július 1-éig nyújtható be a kisajátítási hatósághoz.
+
+(5) A 40/W. § szerinti eljárásban a kisajátítási hatóság az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindításának ténye feljegyzése és elidegenítési tilalom feljegyzése iránt keresi meg az ingatlanügyi hatóságot.
+
 ### Záró rendelkezések
 
 41. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. január 1-jén lép hatályba, rendelkezéseit – ide értve az általános forgalmi adó fizetésére vonatkozó kötelezettséget is – a hatálybalépését követően indult kisajátítási eljárásokra kell alkalmazni.
