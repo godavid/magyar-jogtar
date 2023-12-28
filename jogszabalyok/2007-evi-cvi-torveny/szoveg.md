@@ -52,7 +52,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - a) a Magyar Posta Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
 - b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az MNV Zrt. vagy – a 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint az annak végrehajtására kiadott rendeletben meghatározottak szerint,
 - c)
-- d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
+- d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett – ha miniszteri rendelet eltérően nem rendelkezik – a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
 gyakorolja.
 
@@ -78,7 +78,7 @@ gyakorolja.
 
 4. § A miniszter az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj mértékét rendeletben állapítja meg.
 
-5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Külön törvény az adat megismerhetőségét korlátozhatja.
+5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Törvény az adat megismerhetőségét korlátozhatja.
 
 (2) Az állami vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy a közérdekű adatok nyilvánosságáról szóló törvény szerinti közfeladatot ellátó szervnek vagy személynek minősül.
 

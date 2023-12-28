@@ -80,7 +80,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 - d) a felszín alatti vizek, a felszín alatti vizek természetes víztartó képződményei, a folyóvíz és természetes tavak elhagyott medre és a folyóvízben, természetes tavakban újonnan keletkezett sziget, valamint az 1. mellékletben meghatározott folyóvizek, holtágak, mellékágak, természetes tavak és ezek medre,
 - e) az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak és egyéb vízi létesítmények, valamint az állami tulajdonban álló vízi közművek,
 - f) az országos közutak és azok műtárgyai, ide nem értve a közút tartozékát képező, az ingatlan-nyilvántartásban várakozóhelyként, pihenőhelyként feltüntetett önálló ingatlant, valamint a közúti közlekedésről szóló törvény szerinti útcsatlakozást,
-- g) állami tulajdonban álló terek, parkok, közkertek,
+- g) állami tulajdonban álló terek, közparkok, közkertek,
 - h) az 1. mellékletben meghatározott országos törzshálózati vasúti pályák és azok tartozékai,
 - i) az állami tulajdonban lévő nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - j) a barlang,
@@ -119,7 +119,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 (3) A helyi önkormányzat kizárólagos tulajdonát képező nemzeti vagyonba tartoznak
 
 - a) a helyi közutak és műtárgyaik,
-- b) a helyi önkormányzat tulajdonában álló terek, parkok, közkertek,
+- b) a helyi önkormányzat tulajdonában álló terek, közparkok, közkertek,
 - c) a helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt, valamint
 - d) a helyi önkormányzat tulajdonában álló – külön törvény rendelkezése alapján részére átadott –vizek, közcélú vízi létesítmények, ide nem értve a vízi közműveket.
 
@@ -142,21 +142,21 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 #### 3. A nemzeti vagyon megőrzése és védelme
 
-6. § (1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c) és (3e) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.
+6. § (1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c), (3e) és (3g)–(3h) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.
 
 (2) A természetes előfordulási helyükről kitermelt, kinyert, a 4. § (1) bekezdés c) pontjában meghatározott vagyon feletti tulajdonjog ágazati törvényben meghatározott módon szerezhető meg. A föld alatti gáztárolóban, mint természetes előfordulási helyén lévő szénhidrogén tulajdonjoga – ágazati törvényben meghatározottak szerint – a kitermelést megelőzően is megszerezhető.
 
 (3) A 4. § (1) bekezdés d) és e) pontjában valamint az 5. § (3) bekezdés d) pontjában meghatározott vizekben élő halakra, más hasznos víziállatra és növényekre az (1) bekezdésben foglaltakat nem kell alkalmazni.
 
-(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek, parkok és közkertek tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek, közparkok és közkertek tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3b) Az állami tulajdonban álló országos közutak és műtárgyai, valamint az állami tulajdonban álló terek, parkok és közkertek tulajdonjogát az állam a helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3b) Az állami tulajdonban álló országos közutak és műtárgyai, valamint az állami tulajdonban álló terek, közparkok és közkertek tulajdonjogát az állam a helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3c) A helyi önkormányzati tulajdonban álló helyi közutak és műtárgyai, valamint a helyi önkormányzat tulajdonában álló terek, parkok és közkertek tulajdonjogát a helyi önkormányzat az állam, illetve más helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3c) A helyi önkormányzati tulajdonban álló helyi közutak és műtárgyai, valamint a helyi önkormányzat tulajdonában álló terek, közparkok és közkertek tulajdonjogát a helyi önkormányzat az állam, illetve más helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
 (3d) A (3b) és (3c) bekezdés szerint ingyenesen átruházott eszközöket az új tulajdonosnak az átvett könyv szerinti értéken kell nyilvántartásba vennie.
 
-(3e) A kizárólagos állami tulajdonban álló terek, parkok és közkertek tekintetében a helyi önkormányzat javára, a kizárólagos helyi önkormányzati tulajdonban álló terek, parkok és közkertek tekintetében az állam javára osztott tulajdon létesíthető, akár úgy is, hogy az épület a helyi önkormányzat, illetve az állam mellett az állam, illetve a helyi önkormányzat tulajdonában is áll. Állam és helyi önkormányzat osztatlan közös tulajdonában álló terek, parkok és közkertek tekintetében mind az állam, mind az érintett helyi önkormányzat javára létesíthető osztott tulajdon.
+(3e) A kizárólagos állami tulajdonban álló terek, közparkok és közkertek tekintetében a helyi önkormányzat javára, a kizárólagos helyi önkormányzati tulajdonban álló terek, közparkok és közkertek tekintetében az állam javára osztott tulajdon létesíthető, akár úgy is, hogy az épület a helyi önkormányzat, illetve az állam mellett az állam, illetve a helyi önkormányzat tulajdonában is áll. Állam és helyi önkormányzat osztatlan közös tulajdonában álló terek, közparkok és közkertek tekintetében mind az állam, mind az érintett helyi önkormányzat javára létesíthető osztott tulajdon.
 
 (3f) A (3e) bekezdés alapján létrejött osztott tulajdon esetén az épület vonatkozásában az (1) bekezdésben foglalt korlátozó rendelkezéseket alkalmazni kell.
 
@@ -357,7 +357,7 @@ javára történik.
 - g) a menetrend szerinti helyközi közúti személyszállítás,
 - h) az állami tulajdonba tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - i) az országos közutak és műtárgyaik, állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal, valamint azt magába foglaló pályahálózat létrehozása és működtetése,
-- j) állami tulajdont képező terek, parkok és közkertek felszíne alatt építmény létrehozása és működtetése,
+- j) állami tulajdont képező terek, közparkok és közkertek felszíne alatt építmény létrehozása és működtetése,
 - k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
 - l) dohánytermékek kiskereskedelme, illetve a dohánykiskereskedelem-ellátási tevékenység,
 - m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
@@ -371,7 +371,7 @@ javára történik.
 - b) a helyi önkormányzat tulajdonába tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - c) a menetrend szerinti helyi személyszállítási szolgáltatás és a menetrend szerinti helyi különcélú személyszállítási szolgáltatás,
 - d) a törzsvagyon részét képező helyi közművek létrehozása és működtetése,
-- e) a törzsvagyon részét képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
+- e) a törzsvagyon részét képező terek, közparkok felszíne alatt építmény létrehozása és működtetése,
 - f) a helyi önkormányzat kizárólagos tulajdonában álló – külön törvény rendelkezése alapján részére átadott – vizek, közcélú vízi létesítmények működtetése.
 - g) az önkormányzat törzsvagyonának részét képező és használatában lévő vasúti pályák fejlesztése, működtetése.
 
@@ -2244,14 +2244,14 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | 33 | Garantiqa Hitelgarancia Zrt. | 25% + 1 szavazat |
 | 34 | Regionális Fejlesztési Holding Zrt. | 100% |
 | 35 | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% |
-| 36 | CONCORDIA KÖZRAKTÁR Kereskedelmi Zrt. | 100% |
+| 36 |  |  |
 | 37 | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% |
 | 38 | Szerencsejáték Zrt. | 100% |
-| 39 | DMRV Duna Menti Regionális Vízmű Zrt. | 75% + 1 szavazat |
-| 40 | Dunántúli Regionális Vízmű Zrt. | 75% + 1 szavazat |
-| 41 | Északdunántúli Vízmű Zrt. | 75% + 1 szavazat |
-| 42 | ÉRV. Északmagyarországi Regionális Vízművek Zrt. | 75% + 1 szavazat |
-| 43 | Tiszamenti Regionális Vízművek Zrt. | 75% + 1 szavazat |
+| 39 |  |  |
+| 40 |  |  |
+| 41 |  |  |
+| 42 |  |  |
+| 43 |  |  |
 | 44 | Herendi Porcelánmanufaktúra Zrt. | 25% + 1 szavazat |
 | 45 | Kincsem Nemzeti Lóverseny és Lovas Stratégiai Kft. | 100% |
 | 46 | Magyar Lóversenyfogadást – szervező Kft. | 100% |
@@ -2260,7 +2260,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | 49 | Nemzeti Útdíjfizetési Szolgáltató Zrt. | 100% |
 | 50 | Magyar Közút Nonprofit Zrt. | 100% |
 | 51 | Magyar Turisztikai Ügynökség Zrt. | 100% |
-| 52 | VPE Vasúti Pályakapacitás-elosztó Kft. | 100% |
+| 52 |  |  |
 | 53 | Hollóházi Hungarikum Nonprofit Kft. | 50% + 1 szavazat |
 | 54 | Nemzeti Filmintézet Közhasznú Nonprofit Zrt. | 100% |
 | 55 | N7 Holding Nemzeti Védelmi Ipari Innovációs Zrt. | 100% |
