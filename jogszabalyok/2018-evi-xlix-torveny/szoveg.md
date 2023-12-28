@@ -174,7 +174,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) és (2a) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) és (2a) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) és (2a) bekezdésben foglaltakat kell alkalmazni.
 
-19. § (1) A Vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a Vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon célszerinti fenntartására fordítani.
+19. § (1) A Vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez a 18. § (1) bekezdésében foglalt Várnegyed rehabilitációs program, valamint a 14. §-ban foglalt célok és közfeladatok megvalósítása érdekében, az e törvényben rögzített előkészítésre és megvalósításra, továbbá üzemeltetésre és fenntartásra vonatkozó részletszabályok szerint, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a Vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (5) és (6) bekezdésében meghatározottak szerint támogatásként a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon célszerinti fenntartására fordítani.
 
 (2) A Vagyonkezelő mint építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
 
@@ -196,9 +196,9 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
   - ao) elkészíti vagy elkészítteti és jóváhagyja az engedélyezési dokumentációt,
   - ap) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, lefolytatja az engedélyeztetést, saját nevére megszerzi az építési és egyéb engedélyeket,
   - aq) elkészíti vagy elkészítteti és jóváhagyja a kivitelezési dokumentációt,
-  - ar) lefolytatja a beruházás előkészítéséhez szükséges közbeszerzési eljárásokat;
+  - ar) lefolytatja a beruházás előkészítéséhez szükséges közbeszerzési és beszerzési eljárásokat;
 - b) a beruházás megvalósítása során:
-  - ba) előkészíti és lefolytatja a beruházás megvalósítására vonatkozó közbeszerzési eljárásokat,
+  - ba) előkészíti és lefolytatja a beruházás megvalósítására vonatkozó közbeszerzési és beszerzési eljárásokat,
   - bb) előkészíti és megköti a beruházás megvalósítására vonatkozó építési és egyéb szerződéseket, ideértve különösen a tanácsadói, lebonyolítói, mérnöki, tervezési és egyéb szakértői szerződéseket,
   - bc) lefolytatja az üzempróbákat, üzembe helyezést,
   - bd) elkészítteti a megvalósulási dokumentációt,
@@ -208,25 +208,64 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
   - bh) közreműködik a használatbavételi engedélyezési, illetve tudomásulvételi eljárásban,
   - bi) érvényesíti a szavatossági és jótállási jogokat.
 
-(3) A Vagyonkezelő, mint építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam nevében és javára eljárva látja el.
+(3) A Vagyonkezelő, mint építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam érdekében, saját nevében és az állam javára eljárva látja el.
 
-(4) A Vagyonkezelő által a vagyonkezelésében lévő ingatlanon az (1) bekezdés szerinti beruházások megvalósításával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül.
+(4) A Vagyonkezelő által a vagyonkezelésében lévő ingatlanon az (1) bekezdés szerinti beruházások előkészítésével és megvalósításával, továbbá üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. A Vagyonkezelő mint ajánlatkérő a beruházások előkészítésével, megvalósításával, üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.), valamint a saját vonatkozó szabályzata szerint köteles eljárni.
 
 (5) A Vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
+
+(6) A Vagyonkezelő az (1) bekezdés szerinti magasépítési beruházások műszaki nyomon követését építményinformációs modell (BIM) alapú rendszer segítségével végzi.
+
+(7) A Vagyonkezelő az (1) bekezdés szerinti magasépítési beruházások előkészítése és megvalósítása során költségszakértőt vesz igénybe, amely a Kormány rendeletében ezen feladatok ellátására kijelölt állami tulajdonban álló gazdasági társaság.
+
+(8) A költségszakértő ellátja az (1) bekezdés szerinti magasépítési beruházás során alkalmazott árakkal és felmerülő költségekkel kapcsolatos döntés-előkészítési feladatokat, a legkisebb költség elvére figyelemmel költségellenőrzést végez, a beszerzési és közbeszerzési eljárás során közreműködik az aránytalanul alacsony ár és egyéb aránytalan vállalások vizsgálatában, valamint vizsgálja a költségek alakulását. A költségszakértő felel a magasépítési beruházásokhoz kapcsolódó költségbecslések és költségszámítások megalapozottságáért, továbbá az építészeti-műszaki dokumentációkban foglaltaknak való megfelelőségéért.
+
+(9) Az (1) bekezdés szerinti magasépítési beruházások előkészítése és megvalósítása tekintetében alkalmazni szükséges továbbá a következőket:
+
+- a) a tervező kiválasztása során tervpályázati eljárás lefolytatása nem kötelező, a kiválasztási eljárásra a Kbt. és a vonatkozó jogszabályok rendelkezései alkalmazandóak;
+- b) a kivitelezési dokumentáció részeként az engedélyezési dokumentáció alapján összeállított és a munkanemekre vagy modellnemekre bontott tételes árazatlan tervezői költségvetést kell készíteni, amely alkalmas a pontos, minden részletre kiterjedő kivitelezési ajánlat elkészítésére;
+- c) a kivitelezési dokumentáció tartalmazza a tervellenőr és a költségszakértő vizsgálatának eredményét;
+- d) a kivitelezési dokumentáció előkészítése során a költségszakértő a terveket a tervellenőr vizsgálatával egyidejűleg, illetve azt követően – azok észrevételeit is figyelembe véve – abból a szempontból vizsgálja felül, hogy megfelelnek-e a beruházási költségkeretnek, a véglegessé vált engedélynek és a hozzá tartozó engedélyezési záradékkal ellátott engedélyezési dokumentációnak, továbbá vizsgálja a korábbi költségbecsléstől való eltérés indokoltságát;
+- e) amennyiben a beszerzési vagy közbeszerzési eljárás nem együttesen építmény kivitelezésére és tervezésére irányul, a kivitelező kiválasztására irányuló eljárás kizárólag végleges építési, létesítési engedélyen alapuló, az építtető által jóváhagyott és tételes árazatlan költségvetést is tartalmazó kivitelezési dokumentáció rendelkezésre állása esetén indítható meg, az ajánlattevők az ajánlattételi eljárás során jelezhetik mennyiségi eltérésre vonatkozó javaslataikat.
+
+(10) Az (1) bekezdés szerinti magasépítési beruházások kivitelezési szerződései tartalmát az alábbiak figyelembevételével kell meghatározni:
+
+- a) a kivitelezési szerződésben rögzíteni kell az előre nem látható mértékű építőanyagár-változással és a munkadíjjal összefüggésben jelentkező költségváltozás kockázata kezelésének objektív piaci mutatók alapján történő, képletszerűen kiszámítható módját oly módon, hogy az építőanyag-árváltozások hatását az alapanyag igazolt beszerzési idejének figyelembevételével a kivitelezési szerződés megkötésének időpontja és az adott építőanyag kivitelezési szerződés mellékletét képező ütemtervben rögzített megrendelésének időpontja között lehet érvényesíteni;
+- b) a kivitelezési szerződés megkötésekor már a kivitelező rendelkezésére álló és kivitelezéshez felhasznált anyagok esetében az árváltozás nem számolható el;
+- c) az építőanyagár-változással összefüggésben jelentkező költségváltozás érvényesítése iránti igény esetén a kivitelező köteles okiratokkal igazolni az adott építőanyag beszerzési árát és idejét, az objektív piaci árindexnél magasabb árváltozás nem számolható el;
+- d) a kivitelezési szerződés meghatározza azt az építőanyagár-változási sávot százalékos mértékben, amelyen belül az építőanyag-árváltozás a kivitelező észszerű üzleti kockázati körébe tartozik és az ezzel kapcsolatos forrásigény nem érvényesíthető;
+- e) a meghatározott árváltozást meghaladó áremelkedés esetén a kivitelező az érintett építőanyag megrendelése előtt köteles tájékoztatni az építtetőt az árváltozásról;
+- f) ha az építőanyagár-változás folytán az építési beruházás teljes kivitelezési költsége meghaladja a kivitelezési szerződésben meghatározott felső árhatárt, az építtető jogosult a kivitelezési szerződést felmondani, ebben az esetben a kivitelező kizárólag a kivitelezési szerződés megszűnéséig teljesített szolgáltatások ellenértékére, és a megszüntetéssel kapcsolatban felmerült költségeinek megtérítésére tarthat igényt;
+- g) a kivitelezési szerződésben legalább 5% tartalékkeretet kell képezni, mely kizárólag azon munkára használható fel, amely a beruházás teljesítéséhez szükséges, valamint a szerződéskötés időpontjában előre nem látható körülmény miatt indokolttá vált;
+- h) a tartalékkeret felhasználásához a műszaki ellenőr és a költségszakértő írásbeli nyilatkozata szükséges, a tartalékkeret felhasználásáról az építtető dönt.
 
 ### III/A. Fejezet — A GELLÉRT-HEGY MEGÚJÍTÁSA
 
 19/A. § (1) E törvény alkalmazása tekintetében a Citadella erőd és környezete: a Budapest XI. kerület belterület 5412 helyrajzi számú ingatlan, valamint a Budapest I. és XI. kerületében a Gellért-hegyen elhelyezkedő, kormányrendeletben meghatározott közterületek.
 
+(1a) Az (1) bekezdésben meghatározott, állami tulajdonban álló ingatlanok e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen a Citadella Vagyonkezelő Nonprofit Korlátolt Felelősségű Társaság (1013 Budapest, Ybl Miklós tér 6.; Cg.01-09-374211) vagyonkezelésébe kerülnek.
+
 (2) A Citadella erőd és környezete megújítását, védelmét és fennmaradását szolgáló, értékőrző és fejlesztési célú használata és fenntartása közérdek, amelynek biztosítása – összhangban a világörökségről és a kulturális örökség védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségekkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a civil és egyéb szervezetek, valamint a természetes személyek együttműködésével valósul meg.
 
 (3) A Citadella erőd és környezete részét képező ingatlanokat a (2) bekezdés szerinti közérdeket érvényesítve kell használni, fenntartani, bemutatni, hozzáférhetővé tenni, valamint fenntartható módon, történelmileg hiteles és egységes városképi arculatnak megfelelően fejleszteni, szükség esetén helyreállítani.
 
-(4) A (2) és (3) bekezdésben foglalt közérdek és célok érvényesítése érdekében a Citadella erőd és környezete értékmegőrző és méltó használatának, fenntartásának és bemutatásának, fenntartható fejlesztésének, valamint tervszerű és egységes szemléletű helyreállításának biztosítása kiemelt jelentőségű közfeladat, amelyet állami feladatként az e törvényben meghatározott szervek látnak el. A Citadella erőd és környezete részét képező ingatlanok vagyonkezelése során a 17. § (7) és (8) bekezdésében foglaltak megfelelően alkalmazandóak azzal, hogy ezen vagyonelemekkel a vagyonkezelő által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül, továbbá a vagyonkezelő által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az e bekezdés szerinti vagyonkezelőre nem vonatkoznak a 17. § (2) bekezdésében meghatározott, Vagyonkezelőre és vagyonkezelési tevékenységre vonatkozó előírások..
+(4) A (2) és (3) bekezdésben foglalt közérdek és célok érvényesítése érdekében a Citadella erőd és környezete értékmegőrző és méltó használatának, fenntartásának és bemutatásának, fenntartható fejlesztésének, valamint tervszerű és egységes szemléletű helyreállításának biztosítása kiemelt jelentőségű közfeladat, amelyet állami feladatként az e törvényben meghatározott szervek látnak el. A Citadella erőd és környezete részét képező ingatlanok vagyonkezelése során a 17. § (7) és (8) bekezdésében foglaltak megfelelően alkalmazandóak azzal, hogy ezen vagyonelemekkel a vagyonkezelő által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül, továbbá a vagyonkezelő által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik.
 
 (5) Az (1) bekezdés szerinti ingatlanok tekintetében településrendezési feladatok megvalósítása, végrehajtása érdekében építési, telekalakítási és változtatási tilalom nem alkalmazható.
 
 (6) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet az (5) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet az (5) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette az (5) bekezdésben foglaltakat kell alkalmazni.
+
+(7) A (4) bekezdés szerinti beruházások az Ngtv. szerinti kiemelten közérdekű beruházásnak minősülnek azzal, hogy a beruházások megnevezését, helyszínét és közvetlen környezetét kormányrendelet állapítja meg.
+
+(8) A vagyonkezelő mint építtető a (4) bekezdés szerinti beruházások vonatkozásában ellátja a 19. § (2) és (6)–(10) bekezdésében meghatározott feladatokat.
+
+(9) A vagyonkezelő mint építtető a (4) bekezdés szerinti beruházások tekintetében a feladatait az állam érdekében, saját nevében és az állam javára eljárva látja el.
+
+(10) A vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez az e törvényben rögzített, előkészítésre és megvalósításra, továbbá üzemeltetésre és fenntartásra vonatkozó részletszabályok szerint, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok kezeléséről, valamint hulladékgyűjtő helyen történő elhelyezéséről gondoskodni, illetve jogosult a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyereményi anyagok értékesítéséből származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (5) és (6) bekezdésében meghatározottak szerint támogatásként a vagyonkezelőt illeti meg azzal, hogy a vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.
+
+(11) A vagyonkezelő által a vagyonkezelésében lévő ingatlanon a (4) bekezdés szerinti beruházások előkészítésével és megvalósításával, továbbá üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, valamint az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. A vagyonkezelő mint ajánlatkérő a beruházások előkészítésével, megvalósításával, üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a Kbt., valamint a saját vonatkozó szabályzata szerint köteles eljárni.
+
+(12) A vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
 
 ### III/B. Fejezet — CSEPELI SPORTFEJLESZTÉSEK
 
@@ -272,6 +311,10 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 (2) A 15. § d) pontja szerinti közfeladatot 2019. január 1-től látja el állami feladatként a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság.
 
 (3) A 23–25. §, a 30. § és a 33. § Magyarország filmszakmai támogatási programjáról szóló SA.36579 számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425 számú és SA.50768 számú európai bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
+
+(4) A 19. § (7) és (8) bekezdése a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(5) A 19. § (7) és (8) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
 
 23. § E törvénynek az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. mellékletét a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 

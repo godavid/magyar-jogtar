@@ -1054,6 +1054,12 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (5) A repülőtér üzemben tartóját – a külön jogszabályban foglaltakra is figyelemmel – az általa üzemeltetett földi kiszolgáló létesítmények és berendezések használatára irányuló, a földi kiszolgálási tevékenységre jogosult gazdálkodó szervezet vonatkozásában fennálló szerződéskötési kötelezettség terheli.
 
+(6) Ha az ezen alcím szerinti vagyonkezelő állami befolyás alatt álló gazdasági társaság, akkor a vagyonkezelőre, továbbá a vagyonkezelő tekintetében fennálló közvetett állami befolyás esetén a Ptk. 8:2. § (4) bekezdése szerinti köztes jogi személyre, valamint a vagyonkezelő Ptk. 8:2. § szerinti befolyása alatt álló gazdasági társaságra nem kell alkalmazni az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvényt, a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvényt és a munka törvénykönyvéről szóló 2012. évi I. törvény 204–207. §-át.
+
+45/A. § (1) A 45. § (6) bekezdésében meghatározott esetben az ott szereplő gazdasági társaságokra nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 8. § (14) és (15) bekezdését.
+
+(2) A 45. § (6) bekezdésében meghatározott esetben az ott szereplő gazdasági társaságok vezető tisztségviselője, vezető állású munkavállalója és felügyelő bizottságának tagja nem minősül a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ij) alpontja szerinti nemzetbiztonsági ellenőrzés alá eső személynek.
+
 ## ÖTÖDIK RÉSZ — A LÉGI KÖZLEKEDÉSBIZTONSÁG
 
 ### I. Fejezet — A légijármű műszaki alkalmassága
@@ -1718,6 +1724,7 @@ kezeli.
 - 2a. külföldi állami légijármű: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet 3. cikk b) pontjában meghatározott, a katonai, a vám- és a rendőri szervek céljára szolgáló külföldi légijármű;
 - 3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot, állami repülések céljára szolgáló repülőtér esetében katonai légiforgalmi irányító szolgálatot, közös felhasználású repülőtér esetében olyan légiforgalmi irányító szolgálatot biztosítanak, amely mind a polgári, mind a katonai előírásoknak megfelel;
 - 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+- 3b. állami befolyás alatt álló gazdasági társaság: olyan gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti befolyással rendelkezik;
 - 4. légiforgalom: a levegőben vagy a repülőtér munkaterületén légijárművel végrehajtott valamennyi mozgás;
 - 5. légijármű: bármely szerkezet, amelynek légkörben maradása a levegővel való olyan kölcsönhatásból ered, amely más, mint a földfelszínre ható légerők hatása
 - 6. légijárművel végzett egyéb gazdasági tevékenység: az ellenszolgáltatásért, légijárművel végzett — légi személyszállításnak vagy légi fuvarozásnak nem minősülő — különleges tevékenység (pl. a légi mező- és erdőgazdasági szórótevékenység, a külső felfüggesztésű teheremelés és szállítás, a polgári célú légi felderítés és megfigyelés, a légi hirdetés, valamint a bajba jutott légijármű felkutatása és mentése);
@@ -1989,6 +1996,10 @@ rendeletben állapítsa meg.
 - f) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU európai parlamenti és tanácsi irányelv.
 
 (4) A pilóta nélküli légijárművek üzemelésével összefüggő egyes törvények módosításáról szóló 2020. évi CLXXIX. törvény 1–20. §-ával módosított rendelkezések tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+74/B. § (1) A 45/A. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 45/A. § (2) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 75. § (1) Ez a törvény 1996. július 1. napján lép hatályba.
 

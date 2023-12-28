@@ -26,7 +26,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (3) Az 1. melléklet 14. sora szerinti ingatlanon fennálló vagyonkezelői jog az Alapítvány tulajdonszerzésével egyidejűleg megszűnik.
 
-(4) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az 1. melléklet 13. és 14. sora szerinti ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+(4) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az 1. melléklet 13., 14. és 15. sora szerinti ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
 
 (5) Az (1) bekezdés szerinti tulajdonátruházásról szóló szerződésben rögzíteni kell, hogy az 1. melléklet 14. sora szerinti ingatlan mindenkori tulajdonosa a működési területileg illetékes vízügyi igazgatási szerv feladatainak ellátása érdekében a Velence belterület 4475/2 helyrajzi számú ingatlan, mint uralkodó telek megközelítése céljából, az illetékes vízügyi igazgatási szervvel együttműködve, legkésőbb az egyes kulturális tárgyú és egyéb törvények módosításáról szóló 2021. évi CXLVIII. törvény hatálybalépését követő hat hónapon belül a Velence belterület 4477/1 helyrajzi számú ingatlant, mint szolgáló telket terhelő átjárási szolgalmat alapít, valamint, hogy az Alapítvány az 1. melléklet 13. és 14. sora szerinti ingatlanok tekintetében a magyar állammal és az annak képviseletét ellátó Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal szemben semmilyen követelést nem támaszthat.
 
@@ -64,7 +64,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 3/A. Állami vagyonelemek ingyenes tulajdonba adása Nagyvisnyó Község Önkormányzata részére
 
-4/A. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Nagyvisnyó külterület 0341/1 helyrajzi számú ingatlant (ezen alcím alkalmazásában a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a természetvédelmi-, sport-, ifjúsági- valamint egyéb feladatai ellátásának elősegítése céljából Nagyvisnyó Község Önkormányzata tulajdonába kerül.
+4/A. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Nagyvisnyó külterület 0341/1 helyrajzi számú ingatlant (ezen alcím alkalmazásában a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a természetvédelem, sport és ifjúsági ügyek, valamint egyéb feladatai ellátásának elősegítése céljából Nagyvisnyó Község Önkormányzata tulajdonába kerül.
 
 (2) Nagyvisnyó Község Önkormányzata az (1) bekezdés szerinti ingatlant terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy Nagyvisnyó Község Önkormányzata az (1) bekezdés szerinti ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljes-körűen átvállalja.
 
@@ -77,6 +77,10 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 (6) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 4/B. § A 4/A. § (1) bekezdése alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
+
+#### 3/B. Az Erzsébet a Kárpát-medencei Gyermekekért Alapítvány részére történő vagyonjuttatással összefüggő rendelkezések
+
+4/E. § A Fonyód belterület 10232/4 helyrajzi számú, kivett közpark megnevezésű ingatlan tulajdonjogának a magyar állam javára történő ingyenes átruházása tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 23. § (1) és (3) bekezdését, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 108. § (4) bekezdését nem kell alkalmazni.
 
 #### 4. Ingatlanok ingyenes vagyonkezelésbe adása Rácalmás Város Önkormányzat részére
 
@@ -94,9 +98,25 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 5/B. § Az ingatlanügyi hatóság az 5/A. § (1) bekezdése szerinti vagyonkezelői jogot a vagyonkezelő kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási bejegyeztetésére és a vagyonkezelői jog gyakorlására a vagyonkezelő vagyonkezelési szerződés kötése nélkül jogosult.
 
-#### 5.
+#### 5. A Iosephinum Fejlesztéséért Alapítvány állami tulajdonban álló ingatlanok vagyonkezelőjeként történő kijelöléséről
 
-#### 6. §
+6. § (1) Az Országgyűlés az Nvtv. 11. § (5) bekezdése alapján az állami tulajdonban álló Piliscsaba belterület 1602/4 és a Piliscsaba belterület 1602/4/A helyrajzi számon felvett, természetben 2081 Piliscsaba, Fő út 2/A. szám alatt található ingatlanok vagyonkezelőjeként a Iosephinum Fejlesztéséért Alapítványt (nyilvántartási szám: 13-01-0002796, AM2796; székhely: 2081 Piliscsaba, Fő út 2/A., ezen alcím alkalmazásában a továbbiakban: Iosephinum Alapítvány vagy vagyonkezelő) jelöli ki.
+
+(2) A vagyonkezelői jog nem terjed ki az ingatlan-nyilvántartás szerinti Piliscsaba belterület 1602/4 helyrajzi számú ingatlanon felépített archivális raktár és a hozzátartozó ingatlanrész 3. mellékletben meghatározott területére, amelyet földhasználati jogon alapuló egyéb önálló ingatlanként az Országos Széchényi Könyvtár vagyonkezelésébe kell adni.
+
+(3) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik, a vagyonkezelőt vagyonkezelési díjfizetési kötelezettség nem terheli.
+
+(4) Az (1) bekezdés szerint keletkező vagyonkezelői jogviszonyra egyebekben az MNV Zrt.-vel kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket – az (5)–(7) bekezdésben írt eltérésekkel – kell alkalmazni azzal, hogy a vagyonkezelési szerződést a felek csak jogszabályban meghatározott rendkívüli felmondási okok bekövetkezte esetén mondhatják fel.
+
+(5) A Iosephinum Alapítvány a Vtv. 27. § (7) bekezdése szerinti visszapótlási kötelezettség alól e törvény erejénél fogva mentesül. A Iosephinum Alapítvány által végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
+
+(6) A vagyonkezelő által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozásával vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a vagyonkezelő – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyon-nyilvántartás részére történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+
+(7) A Iosephinum Alapítvány a (6) bekezdés szerinti beruházásokkal összefüggésben – selejtezési szabályzata figyelembevételével – jogosult a bontással járó munkálatokat elvégezni, köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok kezeléséről és hulladékgyűjtő helyen történő elhelyezéséről gondoskodni, továbbá jogosult a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyereményi anyagok értékesítéséből származó bevétel a Iosephinum Alapítványt illeti meg azzal, hogy köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.
+
+(8) A Iosephinum Alapítványt megilletik az Nvtv. 11. § (8) bekezdése szerinti tulajdonosi jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából a Iosephinum Alapítvány által kezdeményezett bármely, a számvitelről szóló törvény szerinti felújítási, beruházási, valamint ehhez kapcsolódó bontási munka elvégzéséhez a kapcsolódó hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+
+(9) Az (1) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot – a (4) bekezdés szerinti vagyonkezelési szerződés megkötését követően – a Iosephinum Alapítvány kérelme alapján kell az ingatlan-nyilvántartásba bejegyezni.
 
 #### 7. §
 
@@ -224,6 +244,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 - b) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10736/2 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 20. szám és az 1125 Budapest, XII. kerület Virányos út 5. szám alatti ingatlan,
 - c) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10737 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Virányos út 7. szám alatti ingatlan, valamint
 - d) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, II. kerület belterület 12346 helyrajzi számú, természetben az 1026 Budapest, II. kerület Gábor Áron utca 47. szám és az 1022 Budapest, II. kerület Bimbó út 111–115. szám alatti ingatlan
+- e) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10733/10 helyrajzi számú, természetben az 1121 Budapest, XII. kerület Kútvölgyi út “felülvizsgálat alatt” szám alatti ingatlan
 
 (e § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Egyház tulajdonába kerülnek azzal, hogy az a) és b) pont szerinti ingatlanra az átruházással együtt az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10739/1 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 22/B. szám alatti és az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10739/2 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 22/C. szám alatti ingatlan javára átjárási telki szolgalmi jogot kell bejegyezni.
 
@@ -292,9 +313,11 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/G. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+(3) A 4/E. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 #### 10. Az Európai Unió jogának való megfelelés
 
@@ -986,6 +1009,7 @@ b)
 | 12. | Szombathely | belterület | 5941/7 |
 | 13. | Gárdony | belterület | 5437 |
 | 14. | Velence | belterület | 4477/1 |
+| 15. | Békéscsaba | belterület | 3240/2/A/48 |
 
 ### 2. melléklet a 2021. évi CI. törvényhez
 
@@ -998,6 +1022,21 @@ b)
 | 3. | Budapest VI. kerület belterület, 1066 Budapest, Jókai u. 2. | 29038/2/A/4 | 1/1 | színház |
 
 ### 3. melléklet a 2021. évi CI. törvényhez
+
+Az ingatlan-nyilvántartás szerinti Piliscsaba belterület 1602/4 helyrajzi számú ingatlanból az Országos Széchényi Könyvtár archivális raktárát és annak ingatlanát határoló közelítő EOV-koordináták:
+
+| 1 | POINT_Y | POINT_X |
+| --- | --- | --- |
+| 2 | 634600.07 | 253833.84 |
+| 3 | 634569.39 | 253796.45 |
+| 4 | 634658.12 | 253729.74 |
+| 5 | 634750.05 | 253675.02 |
+| 6 | 634777.27 | 253680.84 |
+| 7 | 634788.18 | 253683.59 |
+| 8 | 634793.18 | 253729.60 |
+| 9 | 634782.66 | 253726.85 |
+| 10 | 634656.92 | 253813.79 |
+| 11 | 634656.42 | 253797.45 |
 
 ### 4. melléklet a 2021. évi CI. törvényhez
 

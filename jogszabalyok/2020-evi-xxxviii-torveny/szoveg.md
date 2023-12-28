@@ -8,7 +8,7 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 1. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében tegye meg a szükséges intézkedéseket a Széchenyi István Egyetemért Alapítvány (a továbbiakban: Alapítvány) közérdekű vagyonkezelő alapítvány formájában történő létrehozására.
 
-(2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
+(2) Az Alapítvány alapítása során az állam képviseletében az iparügyekért felelős miniszter (a továbbiakban: miniszter) jár el.
 
 (3) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 

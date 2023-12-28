@@ -2,7 +2,13 @@
 
 a Jövő Nemzedék Földje Alapítványról, a Jövő Nemzedék Földje Alapítvány részére történő vagyonjuttatásról és az ezzel összefüggésben egyes törvények módosításáról
 
-Az Országgyűlés az Alaptörvény P) cikk (1) bekezdésében foglalt – minden magyart, de különösen az államot terhelő – kötelezettségének eleget téve és attól a céltól vezérelve, hogy hazánk legértékesebb természeti kincseit, különösen a termőföldet, az erdőket és az édesvízkészletet a jövő nemzedékek számára megőrizze, továbbá annak érdekében, hogy– a magyar termőföld a magas színvonalú agrár- és élettudományi képzés szolgálatába állhasson, a hazai középfokú mezőgazdasági oktatás pedig a világ élvonalába kerüljön, így az ott megszerzett tudás ne csupán az alkalmazott mezőgazdasági tevékenységhez, de a versenyképes felsőfokú agrár- és élettudományi képzéshez is alapot teremtsen,– a termőföld és az erdők kiemelt védelméhez, a hazánkban – elsősorban Mezőhegyesen – kialakult, védett őshonos magyar lófajták génvagyonának megőrzéséhez és gyarapításához, valamint a magas színvonalú agrárképzést folytató oktatók, kutatók, tanárok, a képzésben részt vevők erkölcsi és anyagi megbecsüléséhez ne csupán a ma élő és alkotó, hanem a jövő nemzedékek kezébe is hatékony jogi eszközt adjon,a következő törvényt alkotja:
+Az Országgyűlés az Alaptörvény P) cikk (1) bekezdésében foglalt – minden magyart, de különösen az államot terhelő – kötelezettségének eleget téve és attól a céltól vezérelve, hogy hazánk legértékesebb természeti kincseit, különösen a termőföldet, az erdőket és az édesvízkészletet a jövő nemzedékek számára megőrizze, továbbá annak érdekében, hogy
+
+– a magyar termőföld a magas színvonalú agrár- és élettudományi képzés szolgálatába állhasson, a hazai középfokú mezőgazdasági oktatás pedig a világ élvonalába kerüljön, így az ott megszerzett tudás ne csupán az alkalmazott mezőgazdasági tevékenységhez, de a versenyképes felsőfokú agrár- és élettudományi képzéshez is alapot teremtsen,
+
+– a termőföld és az erdők kiemelt védelméhez, a hazánkban – elsősorban Mezőhegyesen – kialakult, védett őshonos magyar lófajták génvagyonának megőrzéséhez és gyarapításához, valamint a magas színvonalú agrárképzést folytató oktatók, kutatók, tanárok, a képzésben részt vevők erkölcsi és anyagi megbecsüléséhez ne csupán a ma élő és alkotó, hanem a jövő nemzedékek kezébe is hatékony jogi eszközt adjon,
+
+a következő törvényt alkotja:
 
 #### 1. A Jövő Nemzedék Földje Alapítvány létrehozása
 
@@ -22,6 +28,16 @@ Az Országgyűlés az Alaptörvény P) cikk (1) bekezdésében foglalt – minde
 
 (4) A részvények Alapítvány által történő elidegenítése esetén az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatának ellátására, valamint közérdekű céljainak megvalósítására köteles fordítani.
 
+2/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében az 1. mellékletben foglalt táblázat 3. és 4. sorában meghatározott állami tulajdonban álló részvényeket ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Ha az Alapítvány a tulajdonába adott, az 1. melléklet 3. sorában szereplő részvényeket el kívánja idegeníteni, akkor az államot – a KEKVA tv. 12. § (3)–(5) bekezdése szerinti – elővásárlási jog illeti meg. Az elidegenítésből származó bevétel elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátására és közérdekű célok megvalósítására köteles fordítani.
+
+(3) Az Alapítvány a tulajdonába adott, az 1. mellékletben foglalt táblázat 4. sorában meghatározott részvényeket – a KEKVA tv. 12. § (4) és (5) bekezdésétől eltérően – kizárólag az állam részére idegenítheti el a részvények Alapítvány tulajdonába adásakor az alapító okiratban előírt módon meghatározott piaci áron és az elidegenítésből származó bevétel elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátására és közérdekű célok megvalósítására köteles fordítani.
+
+(4) Az Alapítvány jogutód nélküli megszűnése esetén az (1) bekezdés szerinti részvények tulajdonjoga az államra száll vissza.
+
+2/B. § A 2/A. § (1) bekezdése szerinti részvények Alapítvány tulajdonába kerülése tekintetében az Alapítvány alapító okiratának módosításáról az alapítói jogok gyakorlója rendelkezik. A tulajdonba kerülés vonatkozásában az állam képviseletében a miniszter jár el, aki jogosult az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
+
 3. § (1) A KEKVA tv. 13. § (1) és (8) bekezdése alapján az Alapítvány KEKVA tv. 1. melléklete szerinti közfeladata ellátását és közérdekű céljainak megvalósítását szolgáló, a 2. mellékletben meghatározott, állami tulajdonban álló ingatlanokon az Alapítvány javára ingyenes, határozatlan időre szóló, közfeladathoz rendelt vagyonkezelői jogot kell alapítani a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen működő Részvénytársaság javára fennálló, a Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvényben meghatározott vagyonkezelői jog – külön elszámolás nélkül történő – egyidejű törlésével.
 
 (2) Az (1) bekezdés szerinti vagyonkezelői jog megalapításával egyidejűleg az (1) bekezdés szerinti ingatlanokban a közfeladat ellátására rendelkezésre álló állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva ingyenesen az Alapítvány tulajdonába kerülnek. Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó átadó szervezet könyveiben szereplő nyilvántartási értékkel.
@@ -40,17 +56,17 @@ Az Országgyűlés az Alaptörvény P) cikk (1) bekezdésében foglalt – minde
 
 #### 4. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
 #### 5. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 6. A Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvény hatályon kívül helyezése
 
-10. §
+#### 10. §
 
 ### 1. melléklet a 2021. évi XV. törvényhez
 
@@ -60,12 +76,14 @@ Az Országgyűlés az Alaptörvény P) cikk (1) bekezdésében foglalt – minde
 | --- | --- | --- |
 | 1 | Az Alapítvány részére átadandó vagyonelem (társaság) megnevezése | Az Alapítvány részére átadandó, az állam tulajdonában álló vagyonelem mértéke |
 | 2 | Nemzeti Ménesbirtok és Tangazdaság Zrt. | részvények 100%-a |
+| 3 | ATEV Fehérjefeldolgozó Zrt. | részvények 74,13%-a |
+| 4 | CONCORDIA KÖZRAKTÁR Kereskedelmi Zrt. | részvények 100%-a |
 
 ### 2. melléklet a 2021. évi XV. törvényhez
 
 #### Az Alapítvány vagyonkezelésébe kerülő állami tulajdonú ingatlanok
 
-| SORSZÁM | TELEPÜLÉS | FEKVÉS | HRSZ. | ALRÉSZLET | MŰVELÉSI ÁG/MEGNEVEZÉS |
+|  | TELEPÜLÉS | FEKVÉS | HRSZ. | ALRÉSZLET | MŰVELÉSI ÁG/MEGNEVEZÉS |
 | --- | --- | --- | --- | --- | --- |
 | 1 | MEZŐHEGYES | belterület | 780/3 |  | legelő |
 | 2 | MEZŐHEGYES | belterület | 784/2 |  | erdő |

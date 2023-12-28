@@ -723,12 +723,22 @@ terjed ki.
 
 - a) az olyan jogügylethez, melynek alapján a nemzeti vagyon körébe tartozó műemlék tulajdonjoga átruházásra kerül, vagy az egyéb módon kikerül a nemzeti vagyon köréből, vagy azon osztott tulajdon létesül,
 - b) az olyan jogügylethez, amely az állami vagyon körébe tartozó műemléket – a jogszabályban foglaltak szerint, közérdekből alapított használati jog, vezetékjog, szolgalom kivételével – megterheli, biztosítékul adja,
-- c) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
+- c) – az (1c) bekezdésben foglaltak kivételével – az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához.
 - d) vagyonkezelő hiányában – az (1a) bekezdésben foglalt kivétellel – az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
 
 (1a) Nem szükséges a miniszter előzetes jóváhagyása, ha az állami tulajdonban álló műemlék tulajdonosi joggyakorlója 90 napot meg nem haladó időtartamra köt hasznosítására irányuló jogügyletet.
 
 (1b) Az (1a) bekezdés alapján létrejött jogügylet időtartama nem hosszabbítható meg, továbbá ugyanarra a műemlékre vonatkozóan ugyanazon felek között új határozott idejű jogügylet az (1a) bekezdés alkalmazásával nem köthető.
+
+(1c) Az (1) bekezdés c) pontjától eltérően nem szükséges a miniszter jóváhagyása az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához, ha a vagyonkezelő vagyonkezelői joga
+
+- a) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 11. § (5) bekezdése,
+- b) az állami vagyonról szóló 2007. évi CVI. törvény 27/A. § (2) bekezdése, vagy
+- c) az államháztartásról szóló 2011. évi CXCV. törvény 11/B. § (2) bekezdése
+
+alapján keletkezik.
+
+(1d) Az (1c) bekezdés szerint létrejött vagyonkezelői jog esetén a vagyonkezelő a vagyonkezelői jog keletkezésétől számított 30 napon belül írásban tájékoztatja a minisztert a vagyonkezelői jogának létrejöttéről.
 
 (2) Az (1) bekezdés szerinti jóváhagyás a jogügylet érvényességi kelléke.
 
@@ -917,7 +927,7 @@ kulturális javakat.
 
 61/C. § (1) A 2. mellékletben meghatározottak szerinti kiemelt nemzeti emlékhely az állami vagyon részét képezi.
 
-(2) Az 1055 Budapest V. kerület, belterület, 24834/1 helyrajzi számú ingatlan (a Vértanúk tere) 2017. szeptember 1-jén, az 1055 Budapest V. kerület, belterület, 24892/1 helyrajzi számú ingatlan (Alkotmány utca) 2020. január 1-jén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 14. § (1) bekezdése alapján – a méltó megemlékezések feltételeinek biztosítása mint örökségvédelmi állami feladatok ellátása érdekében – e törvény erejénél fogva, nyilvántartási értéken, ingyenesen az állam tulajdonába kerül.
+(2) Az 1055 Budapest V. kerület, belterület, 24834/1 helyrajzi számú ingatlan (a Vértanúk tere) 2017. szeptember 1-jén, az 1055 Budapest V. kerület, belterület, 24892/1 helyrajzi számú ingatlan (Alkotmány utca) 2020. január 1-jén az Nvtv. 14. § (1) bekezdése alapján – a méltó megemlékezések feltételeinek biztosítása mint örökségvédelmi állami feladatok ellátása érdekében – e törvény erejénél fogva, nyilvántartási értéken, ingyenesen az állam tulajdonába kerül.
 
 (3) A kiemelt nemzeti emlékhely részét képező közterület, az ezen felállított szobrok és a Kossuth Lajos tér 1–3. szám alatti, 24894 helyrajzi számon nyilvántartott Országház vagyonkezelője az Országgyűlés Hivatala.
 

@@ -85,7 +85,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a koronavírus fertőzés 
 
 (2) A fizetési haladék a szerződést biztosító járulékos mellékkötelezettségekre is kiterjed, függetlenül attól, hogy a mellékkötelezettséget szerződésbe vagy egyoldalú jognyilatkozatba foglalták a felek.
 
-(3) Az (1) bekezdés szerinti szerződéses kötelezettségek teljesítésének határideje, illetve a kötelezettségvállalás időtartama a fizetési haladék idejével meghosszabbodik.
+(3) Az (1) bekezdés szerinti vételárrészlet-fizetési kötelezettség teljesítésének határideje, illetve a kötelezettségvállalás időtartama a fizetési haladék idejével meghosszabbodik. A bérlő a fizetési haladékot követően – erre irányuló kérelme esetén – az (1) bekezdés szerinti bérletidíj-fizetési kötelezettségét legfeljebb a fizetési haladék hónapokban számított időtartamával megegyező számú, egyenlő mértékű havi részletekben teljesítheti.
 
 (4) Az (1) bekezdésében meghatározott bérlő által lakott ingatlan vagyonkezelője a fizetési haladék időtartama alatt a bérleti díj meg nem fizetése miatt nem élhet a felmondás jogával.
 
