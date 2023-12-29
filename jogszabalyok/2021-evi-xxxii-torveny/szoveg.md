@@ -94,6 +94,8 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (6) A Hatóság elnökének rendelete közérdeken alapuló kényszerítő indok alapján, meghatározott ügyekben kötelezővé teheti valamely okirat vagy más irat bizonyítási eszközként történő alkalmazását.
 
+(7) A Hatóság szervezeti és működési szabályzata a Hatóság elnökének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a Hatóságnál közszolgálati jogviszonyban álló köztisztviselőre átruházhatja, aki a döntés meghozatala során a Hatóság elnöke nevében jár el.
+
 5/A. § A Hatóság a 3. § (6) bekezdése szerinti, nemzeti kiberbiztonsági tanúsító hatósági feladatkörében az ellenőrzés eredményeként a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével – a termékek piacfelügyeletéről szóló törvényben és a Kibertan.tv.-ben foglaltakon túl – a következő jogkövetkezményeket is alkalmazhatja:
 
 - a) kötelezheti a gyártót az uniós és a nemzeti megfelelőségi nyilatkozat módosítására vagy visszavonására,
