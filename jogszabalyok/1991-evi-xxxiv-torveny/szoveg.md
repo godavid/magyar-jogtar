@@ -442,15 +442,21 @@ teljesíthet.
 
 13/C. § (1) A szerencsejáték-felügyeleti hatóság határozatban elrendeli az e törvény szerint tiltott szerencsejáték-szervezéssel összefüggő pénzforgalmi korlátozását annak a fizetési számlának, amely tiltott szerencsejáték szervezéssel kapcsolatban tét befizetésére vagy nyeremény kifizetésére szolgál (a továbbiakban: tiltott fizetési számla).
 
-(2) A tiltott fizetési számla pénzforgalmi korlátozása a tiltott fizetési számla terhére vagy javára teljesítendő fizetési megbízás vagy fizetési művelet – ide nem értve a hatósági átutalást és az átutalási végzés alapján történő átutalást – haladéktalan visszautasítása, vagy visszautalása a pénzforgalmi szolgáltatás nyújtásáról szóló törvény hatálya alá tartozó pénzforgalmi szolgáltató (a továbbiakban: pénzforgalmi szolgáltató) részéről.
+(2) Ha a szerencsejáték-felügyeleti hatóság hatósági ellenőrzés során az (1) bekezdés szerinti jogsértő tevékenység megvalósulását észleli és a jogsértő tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben elrendeli a tiltott fizetési számlának az e törvény szerint tiltott szerencsejáték-szervezéssel összefüggő ideiglenes pénzforgalmi korlátozását. A végzés annak a tiltott szerencsejáték-szervezést végzővel való közlésére tekintet nélkül, azonnal végrehajtható.
 
-(3) A tiltott fizetési számla pénzforgalmi korlátozását a szerencsejáték-felügyeleti hatóság által – a 13/E. § (1) bekezdése szerint – közzétett tiltott fizetési számla száma alapján hajtja végre a tiltott fizetési számlát vezető pénzforgalmi szolgáltató. A külföldi pénzforgalmi szolgáltató által vezetett tiltott fizetési számla javára indított vagy terhére fogadott, határon átnyúló fizetési művelet teljesítését a belföldi pénzforgalmi szolgáltató a tiltott fizetési számla adatai alapján végrehajtott szűrés vagy azzal megegyező eredményt elérő technikai megoldás révén akadályozza meg, a tiltott fizetési számla javára teljesítendő fizetési megbízás visszautasításával, illetve a tiltott fizetési számla terhére fogadott fizetési művelet visszautalásával.
+(3) Az ideiglenes pénzforgalmi korlátozást elrendelő végzés hatályát veszti az eljárást befejező döntés véglegessé válásával.
 
-(4) A tiltott fizetési számla pénzforgalmi korlátozását a szerencsejáték-felügyeleti hatóság határozatlan időtartamra rendeli el.
+(4) Az ideiglenes pénzforgalmi korlátozást elrendelő végzés közigazgatási perben támadható meg.
 
-(5) A tiltott fizetési számla pénzforgalmi korlátozásáról hozott határozatban a szerencsejáték-felügyeleti hatóság megjelöli a tiltott szerencsejáték-szervezést végző nevét, lakcímét, székhelyét, adószámát, ha ezen adatok a tiltott szerencsejáték-szervezéshez használt honlap tartalma alapján azonosíthatók. A tiltott fizetési számla pénzforgalmi korlátozása elrendelésének nem feltétele, hogy a szerencsejáték-felügyeleti hatóság a tiltott szerencsejáték-szervezést végző személyét azonosítsa.
+(5) A tiltott fizetési számla pénzforgalmi korlátozása és ideiglenes pénzforgalmi korlátozása esetén a tiltott fizetési számla terhére vagy javára teljesítendő fizetési megbízás vagy fizetési művelet – ide nem értve a hatósági átutalást és az átutalási végzés alapján történő átutalást – haladéktalanul visszautasításra vagy visszautalásra kerül a pénzforgalmi szolgáltatás nyújtásáról szóló törvény hatálya alá tartozó pénzforgalmi szolgáltató (a továbbiakban: pénzforgalmi szolgáltató) részéről.
 
-13/D. § (1) A szerencsejáték-felügyeleti hatóság 13/C. § (1) bekezdés szerinti pénzforgalmi korlátozást elrendelő határozatának kötelezettje – annak határozatban való megjelölése nélkül – a pénzforgalmi szolgáltató, Magyarországon vezetett tiltott fizetési számla esetében a fizetési számlát vezető pénzforgalmi szolgáltató.
+(6) A tiltott fizetési számla pénzforgalmi korlátozását és ideiglenes pénzforgalmi korlátozását a szerencsejáték-felügyeleti hatóság által – a 13/E. § (1) bekezdése szerint – közzétett tiltott fizetési számla száma alapján hajtja végre a tiltott fizetési számlát vezető pénzforgalmi szolgáltató. A külföldi pénzforgalmi szolgáltató által vezetett tiltott fizetési számla javára indított vagy terhére fogadott, határon átnyúló fizetési művelet teljesítését a belföldi pénzforgalmi szolgáltató a tiltott fizetési számla adatai alapján végrehajtott szűrés vagy azzal megegyező eredményt elérő technikai megoldás révén akadályozza meg, a tiltott fizetési számla javára teljesítendő fizetési megbízás visszautasításával, illetve a tiltott fizetési számla terhére fogadott fizetési művelet visszautalásával.
+
+(7) A tiltott fizetési számla pénzforgalmi korlátozását a szerencsejáték-felügyeleti hatóság határozatlan időtartamra, azonnal végrehajtható határozatban rendeli el.
+
+(8) A tiltott fizetési számla pénzforgalmi korlátozásáról, valamint ideiglenes pénzforgalmi korlátozásáról hozott döntésben a szerencsejáték-felügyeleti hatóság megjelöli a tiltott szerencsejáték-szervezést végző nevét, lakcímét, székhelyét, adószámát, ha ezen adatok a tiltott szerencsejáték-szervezéshez használt honlap tartalma alapján azonosíthatók. A tiltott fizetési számla pénzforgalmi korlátozása, valamint ideiglenes pénzforgalmi korlátozása elrendelésének nem feltétele, hogy a szerencsejáték-felügyeleti hatóság a tiltott szerencsejáték-szervezést végző személyét azonosítsa.
+
+13/D. § (1) A szerencsejáték-felügyeleti hatóság 13/C. § (1) bekezdése szerinti pénzforgalmi korlátozást elrendelő határozatának és a 13/C. § (2) bekezdése szerinti ideiglenes pénzforgalmi korlátozást elrendelő végzésének a kötelezettje – annak a döntésben való megjelölése nélkül – a pénzforgalmi szolgáltató, Magyarországon vezetett tiltott fizetési számla esetében a fizetési számlát vezető pénzforgalmi szolgáltató.
 
 (2) A tiltott fizetési számla pénzforgalmi korlátozásához kapcsolódó hatósági eljárásban hozott döntését a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 munkanapig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap. A hirdetmény tartalmazza
 
@@ -461,29 +467,29 @@ teljesíthet.
 - e) a tiltott fizetési számla számát, és
 - f) tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be az ügy irataiba.
 
-(3) A tiltott fizetési számla pénzforgalmi korlátozását a szerencsejáték-felügyeleti hatóság megszünteti, ha az elrendelés oka megszűnt. A határozatra és a pénzforgalmi korlátozással összefüggő egyéb döntésre – a 13/H. § szerinti mentesítési eljárás során hozott döntés kivételével – az (1) és (2) bekezdésben foglaltakat alkalmazni kell.
+(3) A tiltott fizetési számla pénzforgalmi korlátozását és ideiglenes pénzforgalmi korlátozását a szerencsejáték-felügyeleti hatóság megszünteti, ha az elrendelés oka megszűnt. A határozatra és a pénzforgalmi korlátozással összefüggő egyéb döntésre – a 13/H. § szerinti mentesítési eljárás során hozott döntés kivételével – az (1) és (2) bekezdésben foglaltakat alkalmazni kell.
 
-(4) A pénzforgalmi korlátozás elrendelése és megszüntetése alapjául szolgáló ellenőrzési jegyzőkönyv közlését a szerencsejáték-felügyeleti hatóság mellőzi.
+(4)
 
-13/E. § (1) A szerencsejáték-felügyeleti hatóság a tiltott fizetési számla pénzforgalmi korlátozása végrehajtásának biztosítása érdekében vezeti és honlapján közzéteszi a tiltott fizetési számlák nyilvántartását.
+13/E. § (1) A szerencsejáték-felügyeleti hatóság a tiltott fizetési számla pénzforgalmi korlátozása és ideiglenes pénzforgalmi korlátozása végrehajtásának biztosítása érdekében vezeti és honlapján közzéteszi a tiltott fizetési számlák nyilvántartását.
 
-(2) A tiltott fizetési számlák nyilvántartása a pénzforgalmi korlátozást elrendelő végleges és végrehajtható határozat alapján tartalmazza:
+(2) A tiltott fizetési számlák nyilvántartása az ideiglenes pénzforgalmi korlátozást elrendelő végzés és a pénzforgalmi korlátozást elrendelő végleges és végrehajtható határozat alapján tartalmazza:
 
 - a) a tiltott fizetési számla számát,
 - b) ha azonosítható, a tiltott szerencsejáték-szervezést végző nevét, lakcímét, székhelyét, adószámát, ezek hiányában a tiltott szerencsejáték-szervezéshez használt honlapon kapcsolattartásra megjelölt elérhetőségét és a tiltott szerencsejáték-szervezéshez használt márkanevet és
 - c) az a) és b) pont szerinti adatok honlapon történő közzétételének időpontját év, hónap, nap bontásban.
 
-(3) A szerencsejáték-felügyeleti hatóság a pénzforgalmi korlátozást elrendelő határozat végrehajthatóságának bármely okból történő átmeneti vagy végleges megszűnése esetén ennek tényét – az átvezetés időpontjának év, hónap, nap bontásban történő megjelölésével – a tiltott fizetési számlák nyilvántartásában átvezeti.
+(3) A szerencsejáték-felügyeleti hatóság az ideiglenes pénzforgalmi korlátozást elrendelő végzés vagy a pénzforgalmi korlátozást elrendelő határozat végrehajthatóságának bármely okból történő átmeneti vagy végleges megszűnése esetén ennek tényét – az átvezetés időpontjának év, hónap, nap bontásban történő megjelölésével – a tiltott fizetési számlák nyilvántartásában átvezeti.
 
-(4) A szerencsejáték-felügyeleti hatóság a tiltott fizetési számlák nyilvántartásának adattartalmát a hatósági döntés véglegessé válását követő második munkanapon aktualizálja és közzéteszi honlapján. A szerencsejáték felügyeleti hatóság a (3) bekezdés szerinti esetben a pénzforgalmi korlátozást elrendelő határozat végrehajthatósága átmeneti vagy végleges megszűnéséről való tudomásszerzést követő munkanapon vezeti át ennek tényét a tiltott fizetési számlák nyilvántartásában.
+(4) A szerencsejáték-felügyeleti hatóság a tiltott fizetési számlák nyilvántartásának adattartalmát a az ideiglenes pénzforgalmi korlátozást elrendelő végzés kiadmányozását követő második munkanapon, illetve a pénzforgalmi korlátozást elrendelő határozat véglegessé válását követő második munkanapon aktualizálja és közzéteszi honlapján. A szerencsejáték felügyeleti hatóság a (3) bekezdés szerinti esetben az ideiglenes pénzforgalmi korlátozást elrendelő végzés vagy a pénzforgalmi korlátozást elrendelő határozat végrehajthatósága átmeneti vagy végleges megszűnéséről való tudomásszerzést követő munkanapon vezeti át ennek tényét a tiltott fizetési számlák nyilvántartásában.
 
-(5) A pénzforgalmi szolgáltató köteles folyamatosan figyelemmel kísérni a tiltott fizetési számlák nyilvántartását és módosításait a tiltott fizetési számla pénzforgalmi korlátozásának (6) bekezdés szerinti időpontban történő és teljes körű végrehajtása érdekében a 13/C. § (3) bekezdése szerint. A tiltott fizetési számla pénzforgalmi korlátozásának végrehajtása során keletkezett adatokat a pénzforgalmi szolgáltató a végrehajtástól számított 8 évig köteles megőrizni, valamint a 13/C. § (2) bekezdése szerinti intézkedéseiről nyilvántartást vezetni.
+(5) A pénzforgalmi szolgáltató köteles folyamatosan figyelemmel kísérni a tiltott fizetési számlák nyilvántartását és módosításait a tiltott fizetési számla ideiglenes pénzforgalmi korlátozásának és pénzforgalmi korlátozásának (6) bekezdés szerinti időpontban történő és teljes körű végrehajtása érdekében a 13/C. § (3) bekezdése szerint. A tiltott fizetési számla ideiglenes pénzforgalmi korlátozásának és pénzforgalmi korlátozásának végrehajtása során keletkezett adatokat a pénzforgalmi szolgáltató a végrehajtástól számított 8 évig köteles megőrizni, valamint a 13/C. § (2) bekezdése szerinti intézkedéseiről nyilvántartást vezetni.
 
-(6) A pénzforgalmi szolgáltató a tiltott fizetési számla pénzforgalmi korlátozásának végrehajtása során az (1) bekezdés szerint közzétett, (2) bekezdés a) pontja szerinti adatot a szerencsejáték-felügyeleti hatóság honlapján történő közzétételt követő második munkanapon – ide nem értve a bankszünnapot – 11 órától alkalmazza.
+(6) A pénzforgalmi szolgáltató a tiltott fizetési számla ideiglenes pénzforgalmi korlátozásának és a pénzforgalmi korlátozásának végrehajtása során az (1) bekezdés szerint közzétett, (2) bekezdés a) pontja szerinti adatot a szerencsejáték-felügyeleti hatóság honlapján történő közzétételt követő második munkanapon – ide nem értve a bankszünnapot – 11 órától alkalmazza.
 
 (7) A szerencsejáték-felügyeleti hatóság az (1) bekezdésben foglalt kötelezettség teljesítése során a tiltott szerencsejáték-szervezést végző nevét, lakcímét, kapcsolattartásra megjelölt elérhetőségét – az illegális szerencsejáték-szervezők pénzforgalmi korlátozása céljából – a tiltott fizetési számlák nyilvántartásából történő törlését követő 8 évig jogosult kezelni.
 
-(8) A szerencsejáték-felügyeleti hatóságnak a tiltott fizetési számlák nyilvántartásával kapcsolatos feladatokat ellátó foglalkoztatottja a feladatellátás során a tiltott szerencsejáték-szervezést végző nevét, lakcímét, kapcsolattartásra megjelölt elérhetőségét kizárólag az illegális szerencsejáték-szervezők pénzforgalmi korlátozása érdekében végrehajtandó feladatai céljából, az azok ellátásához szükséges mértékben megismerheti és kezelheti.
+(8) A szerencsejáték-felügyeleti hatóságnak a tiltott fizetési számlák nyilvántartásával kapcsolatos feladatokat ellátó foglalkoztatottja a feladatellátás során a tiltott szerencsejáték-szervezést végző nevét, lakcímét, kapcsolattartásra megjelölt elérhetőségét kizárólag az illegális szerencsejáték-szervezők ideiglenes pénzforgalmi korlátozása és pénzforgalmi korlátozása érdekében végrehajtandó feladatai céljából, az azok ellátásához szükséges mértékben megismerheti és kezelheti.
 
 13/F. § A pénzforgalmi szolgáltató az általa kibocsátott készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – használatával összefüggésben annak birtokosa terhére vagy javára teljesítendő
 
@@ -502,6 +508,8 @@ kapcsolódó, autorizációs előzménnyel rendelkező fizetési műveletet a te
 (4) A kártyaelfogadói szerződésben lévő fizetési számla számának módosítását a szerencsejáték-szervezést végző személy (szervezet) kérésére a pénzforgalmi szolgáltató abban az esetben végezheti el, ha a szerencsejáték-szervező a szerencsejáték-felügyeleti hatóság honlapján közzétett, az engedélyesek közhiteles hatósági nyilvántartásában szerepel.
 
 (5) Az (1)–(4) bekezdésben foglaltakat az EGT-államban bejegyzett gazdasági társaság magyarországi fióktelepe részére történő pénzforgalmi számlanyitásra is alkalmazni kell azzal, hogy a szerencsejáték szervezésére vonatkozó jogosultságot a fióktelep a szerencsejáték-felügyeleti hatóság által az EGT-állami gazdasági társaság részére kiadott engedéllyel igazolja.
+
+(6) A pénzforgalmi szolgáltató (1)–(2) bekezdés szerinti kötelezettsége nem áll fenn a szerencsejáték-felügyeleti hatóság által engedélyezett szerencsejáték-szervezői tevékenységhez kapcsolódóan értékesítési vagy közvetítő tevékenységet szerződéses jogviszony alapján végző személyre, szervezetre vonatkozóan, ha az ilyen személy, szervezet ezen jogviszony fennállását a pénzforgalmi szolgáltató felé írásban igazolja.
 
 13/H. § (1) A kedvezményezett a szerencsejáték-felügyeleti hatósághoz benyújtott, bizonyítékokkal alátámasztott kérelmében kezdeményezheti annak megállapítását, hogy a tiltott fizetési számla pénzforgalmi korlátozás vagy a 13/F. §-a szerinti visszautasítás alapjául szolgáló esemény nem tartozik e törvény hatálya alá.
 
@@ -778,7 +786,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
 
-(8) A szerencsejáték-szervező lehetőséget biztosíthat a fogadónak arra, hogy a tétfizetést követően – a tét egésze, vagy egy része vonatkozásában –, a fogadási esemény kimenetelének bekövetkezése előtt, a játéktervben meghatározott esetekben korai kifizetésre váljon jogosulttá. A korai kifizetés könyvviteli elszámolása a számvitelről szóló törvény szerinti előleg szabályainak megfelelően történik. A korai kifizetésre a nyereménykifizetésre vonatkozó szabályok irányadók.
+(8) A szerencsejáték-szervező lehetőséget biztosíthat a fogadónak arra, hogy a tétfizetést követően – a tét egésze, vagy egy része vonatkozásában –, a fogadási esemény kimenetelének bekövetkezése előtt, a játéktervben meghatározott esetekben korai kifizetésre váljon jogosulttá. A korai kifizetésre a nyereménykifizetésre vonatkozó szabályok irányadók.
 
 28/B. § (1) A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
 
@@ -1255,32 +1263,44 @@ is köteles hatáskörében eljárni, vagy jogszabálysértés bizonyítékait �
 
 (9) A szerencsejáték-felügyeleti hatóság az (5) bekezdés szerinti esetben végzésben rendeli el a (8) bekezdés szerinti költségek visszatérítését.
 
-### Elektronikus adat ideiglenes hozzáférhetetlenné tétele
+### Elektronikus adat hozzáférhetetlenné tétele
 
-36/G. § (1) A szerencsejáték-felügyeleti hatóság elrendeli az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele vagy közzététele tiltott szerencsejáték-szervezést valósít meg.
+36/G. § (1) A szerencsejáték-felügyeleti hatóság határozatban elrendeli a hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele vagy közzététele
 
-(2) Az ideiglenes hozzáférhetetlenné tétel az elektronikus adathoz való hozzáférés ideiglenes megakadályozása. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a szerencsejáték-felügyeleti hatóság 365 napra rendeli el.
+- a) tiltott szerencsejáték szervezését,
+- b) tiltott szerencsejátékban való részvételre ajánlat közzétételét,
+- c) tiltott reklám közzétételét vagy
+- d) közvetítő szolgáltatás keretében tiltott szerencsejáték közvetítését
 
-(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap.
+valósítja meg.
 
-(4)
+(2) A hozzáférhetetlenné tétel kiterjed valamennyi olyan elektronikus adathoz való hozzáférés megakadályozására, amelyet az (1) bekezdés szerinti jogellenes tevékenységet megvalósító azonos tartalommal tesznek hozzáférhetővé vagy közzé. Az elektronikus adat hozzáférhetetlenné tételét a szerencsejáték-felügyeleti hatóság határozatlan időtartamra rendeli el. Az elektronikus adat hozzáférhetetlenné tételét elrendelő határozat azonnal végrehajtható.
 
-36/H. § (1) A szerencsejáték-felügyeleti hatóság 36/G. § bekezdése szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+(3) Az elektronikus adat hozzáférhetetlenné tételét elrendelő határozatot a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap.
 
-(2) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+(4) Ha a szerencsejáték-felügyeleti hatóság hatósági ellenőrzés során az (1) bekezdés szerinti jogsértő tevékenység megvalósulását észleli és a jogsértő tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A végzés közlésének napja a hirdetmény közzétételét követő 3. nap. A végzés annak a tiltott szerencsejáték-szervezést végzővel való közlésére tekintet nélkül, azonnal végrehajtható.
+
+(5) Az ideiglenes hozzáférhetetlenné tételt elrendelő végzés közigazgatási perben támadható meg.
+
+(6) Az ideiglenes hozzáférhetetlenné tételt elrendelő végzés hatályát veszti az eljárást befejező döntés véglegessé válásával.
+
+36/H. § (1) A szerencsejáték-felügyeleti hatóság 36/G. § (1) és (4) bekezdése szerinti döntésének kötelezettje – annak döntésben történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(2) A hozzáférhetetlenné tétel és az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
 (3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
 
-36/I. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.
+(4) A szerencsejáték-felügyeleti hatóságot, az NMHH-t és az elektronikus hírközlési szolgáltatót nem terheli felelősség azért a kárért, amely abból származik, hogy a hozzáférhetetlenné tett elektronikus adat a 36/G. § (1) bekezdésében foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.
 
-(2) Az ideiglenes hozzáférhetetlenné tételt a szerencsejáték-felügyeleti hatóság annak megszűnése előtt megszünteti, ha
+36/I. § (1) A hozzáférhetetlenné tételt, illetve az ideiglenes hozzáférhetetlenné tételt a szerencsejáték-felügyeleti hatóság megszünteti, ha
 
-- a) az elrendelés oka megszűnt, vagy
-- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban.
+- a) az elrendelés oka megszűnt,
+- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
+- c) a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
 
-(3) A határozatra a 36/G. § (2)–(3) bekezdésében foglaltakat megfelelően kell alkalmazni.
+(2) A megszüntető döntésre a 36/G. § (2)–(4) bekezdésében foglaltakat kell alkalmazni.
 
-36/J. § A szerencsejáték-felügyeleti hatóság a jogkövető magatartás elősegítése, valamint a játékosok és a pénzforgalmi szolgáltatók tájékoztatása érdekében a honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a végleges döntéssel elrendelt ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését, valamint – amennyiben az megállapítható – az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlapon tiltott szerencsejáték-szervezést megvalósító szervezet vagy személy elnevezését.
+36/J. § A szerencsejáték-felügyeleti hatóság a jogkövető magatartás elősegítése, valamint a játékosok és a pénzforgalmi szolgáltatók tájékoztatása érdekében a honlapján az ezen alcím szerinti intézkedés és döntés végrehajtásának időtartama alatt közzéteszi a hozzáférhetetlenné tétel és az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett elektronikus adat elérhetőségét, valamint – amennyiben az megállapítható – a hozzáférhetetlenné tétel és az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett elektronikus adattal tiltott szerencsejáték-szervezést megvalósító szervezet vagy személy elnevezését.
 
 #### 36/K. §
 
