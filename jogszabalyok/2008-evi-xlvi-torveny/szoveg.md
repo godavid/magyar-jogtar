@@ -1960,6 +1960,7 @@ vonatkozó előírásokat;
 - b) azon feltételekre, amelyeknek nem megfelelő étrend-kiegészítők csak gyógyszertárban vagy jogszabályban meghatározott feltételeknek megfelelő üzletekben forgalmazhatóak;
 - c) a b) pont alapján meghatározott feltételeknek nem megfelelő étrend-kiegészítő forgalmazásra jogosultak körének meghatározására, valamint a forgalmazásra jogosult üzletekre vonatkozó feltételekre;
 - d) a vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadására, az ilyen élelmiszerek bejelentésére, értékelésére
+- e) az étrend-kiegészítők előállítására és forgalomba hozatalára
 
 vonatkozó előírásokat.
 

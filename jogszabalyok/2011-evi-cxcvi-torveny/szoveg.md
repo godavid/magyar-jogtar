@@ -85,7 +85,8 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 - i) az állami tulajdonban lévő nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - j) a barlang,
 - k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat,
-- l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
+- l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló,
+- m) az állam tulajdonában álló, a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok.
 
 (1a) Az állam kizárólagos tulajdonába tartozik – tekintettel az Országház rendeltetésszerű működtetéséhez szükséges műszaki kapcsolatára –
 
@@ -121,7 +122,8 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 - a) a helyi közutak és műtárgyaik,
 - b) a helyi önkormányzat tulajdonában álló terek, közparkok, közkertek,
 - c) a helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt, valamint
-- d) a helyi önkormányzat tulajdonában álló – külön törvény rendelkezése alapján részére átadott –vizek, közcélú vízi létesítmények, ide nem értve a vízi közműveket.
+- d) a helyi önkormányzat tulajdonában álló – külön törvény rendelkezése alapján részére átadott –vizek, közcélú vízi létesítmények, ide nem értve a vízi közműveket,
+- e) a helyi önkormányzat tulajdonában álló, a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok.
 
 (4) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy a helyi önkormányzat rendeletében ekként meghatározott a helyi önkormányzat tulajdonában álló vagyonelem.
 
@@ -148,15 +150,15 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 (3) A 4. § (1) bekezdés d) és e) pontjában valamint az 5. § (3) bekezdés d) pontjában meghatározott vizekben élő halakra, más hasznos víziállatra és növényekre az (1) bekezdésben foglaltakat nem kell alkalmazni.
 
-(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek, közparkok és közkertek tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek, közparkok, közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3b) Az állami tulajdonban álló országos közutak és műtárgyai, valamint az állami tulajdonban álló terek, közparkok és közkertek tulajdonjogát az állam a helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3b) Az állami tulajdonban álló országos közutak és műtárgyai, valamint az állami tulajdonban álló terek, közparkok, közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tulajdonjogát az állam a helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3c) A helyi önkormányzati tulajdonban álló helyi közutak és műtárgyai, valamint a helyi önkormányzat tulajdonában álló terek, közparkok és közkertek tulajdonjogát a helyi önkormányzat az állam, illetve más helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
+(3c) A helyi önkormányzati tulajdonban álló helyi közutak és műtárgyai, valamint a helyi önkormányzat tulajdonában álló terek, közparkok, közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tulajdonjogát a helyi önkormányzat az állam, illetve más helyi önkormányzat javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
 (3d) A (3b) és (3c) bekezdés szerint ingyenesen átruházott eszközöket az új tulajdonosnak az átvett könyv szerinti értéken kell nyilvántartásba vennie.
 
-(3e) A kizárólagos állami tulajdonban álló terek, közparkok és közkertek tekintetében a helyi önkormányzat javára, a kizárólagos helyi önkormányzati tulajdonban álló terek, közparkok és közkertek tekintetében az állam javára osztott tulajdon létesíthető, akár úgy is, hogy az épület a helyi önkormányzat, illetve az állam mellett az állam, illetve a helyi önkormányzat tulajdonában is áll. Állam és helyi önkormányzat osztatlan közös tulajdonában álló terek, közparkok és közkertek tekintetében mind az állam, mind az érintett helyi önkormányzat javára létesíthető osztott tulajdon.
+(3e) A kizárólagos állami tulajdonban álló terek, közparkok, közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tekintetében a helyi önkormányzat javára, a kizárólagos helyi önkormányzati tulajdonban álló terek, közparkok, közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tekintetében az állam javára osztott tulajdon létesíthető, akár úgy is, hogy az épület a helyi önkormányzat, illetve az állam mellett az állam, illetve a helyi önkormányzat tulajdonában is áll. Állam és helyi önkormányzat osztatlan közös tulajdonában álló terek, közparkok, közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tekintetében mind az állam, mind az érintett helyi önkormányzat javára létesíthető osztott tulajdon.
 
 (3f) A (3e) bekezdés alapján létrejött osztott tulajdon esetén az épület vonatkozásában az (1) bekezdésben foglalt korlátozó rendelkezéseket alkalmazni kell.
 

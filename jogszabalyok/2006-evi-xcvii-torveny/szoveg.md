@@ -550,7 +550,7 @@ is közli.
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), megfelelő határidő kitűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv (tisztségviselő) köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3)
+(3) A miniszter törvényességi felügyeleti jogkörében vizsgálja a szakmai kamarák választásainak jogszerűségét, a vizsgálat keretében az ellenőrzéshez szükséges mértékben, az ellenőrzés lefolytatásának végéig jogosult kezelni a szakmai kamarák tagsági adatait, valamint a szakmai kamarai tagok természetes személyazonosító adatait és a választáshoz használt egyéb azonosító adatait.
 
 (4)
 
@@ -620,7 +620,13 @@ fedezik.
 
 (4) A 20/A. § szerinti személyekkel szemben – tekintet nélkül arra, hogy az érintett kamarai tag vagy sem – a folyamatban lévő etikai eljárásokat az Egészségügyi Tudományos Tanács folytatja le. Az érintett taggal szemben folyamatban lévő etikai eljárások iratait és az etikai eljárással kapcsolatos adatokat – az etikai eljárás lefolytatása érdekében – a Magyar Orvosi Kamara a Módtv. hatálybalépését követő 15 napon belül átadja az Egészségügyi Tudományos Tanács részére.
 
-#### 33. §
+33. § A Magyar Orvosi Kamara esetében e törvény
+
+- a) III. Fejezetének etikai bizottságra, etikai kódexre, etikai kollégiumra vonatkozó rendelkezéseit nem kell alkalmazni,
+- b) 12. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az etikai büntetés hatálya nem terjed ki az etikai bizottság, valamint etikai kollégium elnökére, tagjára,
+- c) 12. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy az összeférhetetlenség megállapítását az országos etikai bizottság nem kezdeményezheti,
+- d) 14. § (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy szakmai kamara etikai normái nem minősíthetnek egy tevékenységet az adott egészségügyi tevékenységgel összeférhetetlennek, és
+- e) a 17. § (3) bekezdését nem kell alkalmazni.
 
 #### 33/A. §
 
