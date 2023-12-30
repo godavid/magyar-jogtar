@@ -1110,7 +1110,7 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 
 (6) A (4) bekezdés szerint nemzeti letelepedési engedély kiadása iránti kérelmet 2021. január 1. és 2021. december 31. között kell előterjeszteni. A kérelmet az első fokon, illetve a másodfokon eljáró hatóság harminc napon belül bírálja el.
 
-(7) Azon egyesült királysági állampolgár, aki hitelt érdemlően igazolja, hogy 2021. január 1. előtt Magyarországon életvitelszerűen tartózkodott, érvényes úti okmánnyal rendelkezik, de magyarországi tartózkodását érvényes regisztrációs igazolással nem tudja igazolni, a (4) bekezdés szerint kérelmezhet nemzeti letelepedési engedélyt.
+(7) Azon egyesült királysági állampolgár, aki hitelt érdemlően igazolja, hogy 2021. január 1. előtt Magyarországon életvitelszerűen tartózkodott, és érvényes úti okmánnyal rendelkezik, nemzeti letelepedési engedélyt kérelmezhet a (4) bekezdés szerint az ott felsorolt tartózkodási okmányok hiányában is, azzal, hogy ha a kérelmet 2021. december 31-e után nyújtja be, igazolnia kell a határidő elmulasztásának észszerű okait is.
 
 (8) Az egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja a Harmtv. szabályai szerint EK letelepedési engedély iránti kérelmet is előterjeszthet.
 

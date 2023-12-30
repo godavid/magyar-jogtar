@@ -79,6 +79,10 @@ a következő törvényt alkotja:
 - b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított két évig;
 - c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
 
+(6a) A kölcsönös együttműködési kötelezettség és az általános magatartási követelmények maradéktalan érvényesülése érdekében az egészségügyi szolgálati jogviszonyt létesített személy köteles a munkáltatóját tájékoztatni arról, ha vele szemben közvádra üldözendő bűntett megalapozott gyanúját közölték. A kötelezett a munkáltatót erről a megalapozott gyanú közlését követő tizenöt napon belül köteles írásban tájékoztatni, e határidő elmulasztása esetén a kötelezett igazolással élhet.
+
+(6b) A (6a) bekezdés szerinti igazolásnak nincs helye akkor, ha a büntetőeljárásról a munkáltató az egészségügyi szolgálati jogviszonyt létesített személy tudomásszerzését követő tizenöt napon túl szerzett tudomást, kivéve, ha a kötelezett a tájékoztatási kötelezettségének önhibáján kívül nem tud eleget tenni, ez esetben az (6a) bekezdésben foglalt határidőt az akadály elhárultát követő naptól kell számítani.
+
 (7) A Kormány rendeletében az egészségügyi szolgálati jogviszony létesítésének feltételeként további feltételeket állapíthat meg.
 
 (8) A (3)–(6) bekezdésben és a (7) bekezdés szerinti rendeletben meghatározott alkalmazási feltételek alól felmentés nem adható. Az egészségügyi szolgálati jogviszonyban álló személynek az egészségügyi szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben és a (7) bekezdés szerinti rendeletben meghatározott feltételeknek, azok hiánya esetén az érvénytelenség jogkövetkezményeit kell alkalmazni.
@@ -130,11 +134,17 @@ a következő törvényt alkotja:
 
 (7) A (6) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített, egészségügyi tevékenyég végzésére irányuló, az egészségügyi szolgálati jogviszonyhoz kapcsolódó munkakörre, vezetői megbízásra nem alkalmazandó.
 
+(7a) Az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ intézményvezetőjének vezetői megbízatásával összeférhetetlen az egészségügyi szolgáltatást is nyújtó, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
+
+(7b) Az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ intézményvezetője és közeli hozzátartozója – a nyilvánosan működő részvénytársaságban való részvényszerzés kivételével – egészségügyi szolgáltatást is nyújtó gazdasági társaságban nem szerezhet részesedést.
+
 (8) Az egészségügyi szolgálati jogviszonyban álló személy köteles a munkáltatónak haladéktalanul írásban bejelenteni, ha vele szemben az egészségügyi szolgálati jogviszony létesítésekor vagy fennállása alatt az e törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha az egészségügyi szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltató köteles haladéktalanul írásban felszólítani az egészségügyi szolgálati jogviszonyban álló személyt, hogy az összeférhetetlenséget harminc napon belül szüntesse meg, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
 
 (9) Ha az egészségügyi szolgálati jogviszonyban álló személy az összeférhetetlenséget a felszólítástól számított harminc napon belül nem szüntette meg, az egészségügyi szolgálati jogviszonya e törvény erejénél fogva megszűnik.
 
-(10) Az egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet az Eütev. 15/F. §-ban foglalt kivétellel nem folytathat azzal, hogy ezen tevékenység végzési ideje a gyakorlati időbe, illetve a kötelező továbbképzésbe beszámít.
+(10) Az egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet az általa vezetett egészségügyi szolgáltatónál, a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+
+(11) A (10) bekezdés szerinti tevékenységet, az ott meghatározott feltételekkel az intézményvezető más állami fenntartású egészségügyi szolgáltatónál is végezheti, ha az általa vezetett intézmény az adott szakmában gyógyító-megelőző tevékenységet nem végez.
 
 #### 5. § [Munkaidő]
 
@@ -149,12 +159,10 @@ Az egészségügyi szolgálati jogviszonyban álló személy munkaidejére az Mt
 
 alapszabadság illeti meg.
 
-(2) Az (1) bekezdés hatálya alá nem tartozó, az Eütev. 2. melléklete szerint
+(2) Az (1) bekezdés hatálya alá nem tartozó, az 1/A. melléklet szerinti
 
-- a) az „A”, „B”, „C” és „D” fizetési osztályba sorolt egészségügyi dolgozó évi húsz munkanap,
-- b) az „E”, „F”, „G”, „H”, „I” és „J” fizetési osztályba sorolt egészségügyi dolgozó évi huszonegy munkanap
-
-alapszabadságra és a fizetési fokozatának megfelelő számú munkanap pótszabadságra jogosult. Az 1. melléklet szerinti 1. fizetési fokozatban az egészségügyi szolgálati jogviszonyban álló személyt e címen pótszabadság nem illeti meg.
+- a) I–II. fizetési osztályba sorolt egészségügyi dolgozó évi húsz munkanap,
+- b) III–V. fizetési osztályba sorolt egészségügyi dolgozó évi huszonegy munkanap alapszabadságra és az egészségügyi szolgálati jogviszonyban töltött idejének megfelelő Eütev. 2. melléklet szerinti fizetési fokozatnak megfelelő számú munkanap pótszabadságra jogosult. Az 1. melléklet szerinti illetmény- vagy bértáblákhoz tartozó 1. fizetési fokozatban az egészségügyi szolgálati jogviszonyban álló személyt e címen pótszabadság nem illeti meg.
 
 (3) Az (1) és (2) bekezdés alá nem tartozó egészségügyi szolgálati jogviszonyban álló személy az Mt.-ben meghatározott szabadságra jogosult.
 
@@ -214,17 +222,26 @@ megfelelő összeget.
 
 (3) Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott, egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy illetménye el kell hogy érje az 1. mellékletben az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatához meghatározott összeget, és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a fizetési fokozathoz az 1. mellékletben meghatározott összeg százhúsz százalékát. Az egészségügyi szolgáltató vezetőjének illetménye el kell, hogy érje az 1. melléklet szerinti legmagasabb fizetési fokozathoz meghatározott összeget és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a legmagasabb fizetési fokozathoz az 1. mellékletben meghatározott összeg százhúsz százalékát.
 
+(3a) Az egészségügyért felelős miniszter az Eütv. 150. § (1) és (2) bekezdése szerinti jogkörében eljárva, ellátásszervezési okból egyedi felmentést adhat a (3) bekezdés szerinti legmagasabb illetményre vonatkozó rendelkezések alkalmazása alól, azzal, hogy a havi illetmény összege így sem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi bruttó átlagkereset tízszeresét.
+
+(3b) Az országos gyógyintézet és az állami fenntartású vármegyei fekvőbeteg-szakellátást nyújtó egészségügyi intézmény intézményvezetőjének vezetői juttatását a miniszter határozza meg, annak mértéke egyoldalú munkáltatói intézkedéssel módosítható.
+
 (4) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi szolgálati jogviszonyban álló személy illetménye az 1. melléklet szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előirt várakozási idő eltelt.
 
 (4a) A (3) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy esetében nem alkalmazható az Eütev. 13/B. §-a és 14–14/C. §-a.
 
 (5) A Kormány a (3) bekezdés alá nem tartozó vezetői kategóriát és ahhoz kapcsolódó – az 1. melléklet szerinti illetménytáblában foglaltnál magasabb – illetményt állapíthat meg.
 
-(6) Az egészségügyi szakdolgozó az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben és a Kormány rendeletében meghatározott – illetményre, illetménypótlékra, valamint alapilletményen felül járó munkáltatói döntésen alapuló juttatásra jogosult.
+(6) Az egészségügyi szakdolgozó az 1/A. melléklet szerinti illetményre, illetménypótlékra, valamint alapilletményen felül járó munkáltatói döntésen alapuló juttatásra jogosult.
 
 (7) Az 1. § (3) bekezdés b) pontja szerinti egészségügyben dolgozó személyek illetményét – a (2) bekezdés keretein belül – a felek szabad megállapodása határozza meg az Mt. munkabérre vonatkozó rendelkezéseinek figyelembevételével.
 
-(8) A (3) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani. A (6) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát a munkakör betöltéséhez szükséges iskolai végzettsége, szakképzettsége és az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani.
+(8) Az egészségügyi szolgálati jogviszonyban álló,
+
+- a) (3) bekezdés szerinti egészségügyi dolgozó fizetési fokozatát az egészségügyi szolgálati jogviszonyban töltött ideje alapján,
+- b) (6) bekezdés szerinti egészségügyi dolgozó besorolását a munkakör betöltéséhez szükséges iskolai végzettsége, szakképzettsége, az általa ellátott szakmai tevékenysége, valamint a Kormány rendeletében meghatározottak szerint
+
+kell megállapítani.
 
 (8a) Ha az egészségügyi szolgálati jogviszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
@@ -257,7 +274,10 @@ töltött időt.
 
 ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti jogviszonyba.
 
-(10) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó az egészségügyi szolgálati jogviszonyban töltött idő alapján az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerint eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától.
+(10) Az egészségügyi szolgálati jogviszonyban álló,
+
+- a) (3) bekezdés szerinti egészségügyi dolgozó a várakozási idő elteltét követő hónap első napjától az egészségügyi szolgálati jogviszonyban töltött idő alapján az 1. melléklet szerint eggyel magasabb fizetési fokozatba lép,
+- b) (6) bekezdés szerinti egészségügyi dolgozót a törvényben és a Kormány rendeletében meghatározottak alapján kell besorolni.
 
 (10a) A fizetési fokozatok közötti várakozási időbe nem számítható be a fizetés nélküli szabadság időtartama, kivéve a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása céljából, továbbá a tizenkét éven aluli gyermek betegsége esetén az otthoni ápolás érdekében igénybe vett fizetés nélküli szabadság időtartamát.
 
@@ -269,7 +289,7 @@ ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti 
 
 (14) Ha az egészségügyi szolgálati jogviszonyban álló személy – az 1. § (3) bekezdés b) pontja szerinti egészségügyben dolgozó személyek kivételével – a munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát és ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti. A helyettesítési díj mértékét a Kormány rendeletben állapítja meg.
 
-(15) Ha az egészségügyi szolgálati jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül újabb egészségügyi szolgálati jogviszonyt létesít, akkor az új egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét. Ebben az esetben az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendelet 7. melléklete szerint irányadó illetménytől eltérő összegű illetmény is megállapítható.
+(15) Ha az egészségügyi szolgálati jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül újabb egészségügyi szolgálati jogviszonyt létesít, akkor az új egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét. Ebben az esetben az 1. és 1/A. melléklet szerint irányadó illetménytől eltérő összegű illetmény is megállapítható.
 
 #### 9. § [Szolgálati elismerés]
 
@@ -467,6 +487,8 @@ E törvény alkalmazásában
 
 (3) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 4. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg – szakmakóddal együtt – azokat a szakmákat, amelyek esetében megadható a 4. § (2) bekezdése szerinti engedély.
 
+(4) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 20/A. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg az engedély megadásának feltételeit, ideértve a 20/A. § (2a) bekezdése szerinti ellátási érdek meghatározását is.
+
 #### 18. § [Hatálybalépés]
 
 (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2020. november 18. napján lép hatályba.
@@ -538,9 +560,15 @@ gyógyító-megelőző tevékenységet végezhet.
 
 20/A. § (1) Az 1. § (12) bekezdése 2022. december 31. napjáig hatályos rendelkezései szerinti engedély alapján megkötött, munkaerő-kölcsönzésre irányuló szerződés 2024. január 1-jén hatályát veszti. Az e törvény hatálya alá tartozó egészségügyi szolgáltató és a munkaerő-kölcsönző a szerződésből eredő jogok és kötelezettségek tekintetében legkésőbb 2024. január 31. napjáig elszámolnak egymással.
 
-(2) 2024. január 1-jétől az egészségügyi szakellátás körében nem köthető új szerződés a Kormány rendeletében meghatározott személyes közreműködésre, ide nem értve a Kormány rendeletében meghatározott egészségügyben dolgozóval kötött szerződést.
+(2) 2024. január 1-jétől az egészségügyi szakellátás körében nem köthető új szerződés a Kormány rendeletében meghatározott személyes közreműködésre, kivéve a Kormány rendeletében meghatározott egészségügyben dolgozóval kötött szerződést, és az ellátási érdekből a Kormány által kijelölt szerv előzetes engedélyével létesített szerződést.
+
+(2a) A (2) bekezdés szerinti ellátási érdeket a Kormány rendeletében határozza meg.
 
 (3) Az 1. § (4) bekezdésétől eltérően a 2023. június 1. napján állami fenntartású egészségügyi szolgáltatónál foglalkoztatott, in vitro fertilizációs eljárást végző személyekre az Mt. vonatkozik.
+
+20/B. § (1) E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 8. § (6) bekezdését, 8. § (8) bekezdés b) pontját, 8. § (10) bekezdés b) pontját, 8. § (15) bekezdését és 1/A. mellékletét első alkalommal a 2024. március hónapra járó illetmények megállapításakor kell alkalmazni.
+
+(2) E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 4. § (7a) és (7b) bekezdése alapján fennálló összeférhetetlenséget az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ intézményvezetője 2024. február 15. napjáig köteles megszüntetni. Ha az intézményvezető e kötelezettségének nem tesz eleget, a vezetői megbízását vissza kell vonni.
 
 21. § E törvény
 
@@ -625,6 +653,18 @@ Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész,
 | 9. | 31–35 év | 1 868 567 Ft |
 | 10. | 36–40 év | 2 025 667 Ft |
 | 11. | 41– év | 2 380 057 Ft |
+
+### 1/A. melléklet a 2020. évi C. törvényhez
+
+#### Egészségügyi szakdolgozók, valamint egyes egészségügyben dolgozók bértáblája (Ft/hó, bruttó)
+
+2024. március 1-től
+
+|  | A | B | C | D | E | F | G | H | I | J |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | I. fizetési osztály |  | II. fizetési osztály |  | III. fizetési osztály |  | IV. fizetési osztály |  | V. fizetési osztály |  |
+| 2 | alap | kiemelt | alap | kiemelt | alap | kiemelt | alap | kiemelt | alap | kiemelt |
+| 3 | 304 000– 469 000 | 377 000– 529 000 | 381 600– 561 000 | 465 000– 644 000 | 410 000– 684 000 | 498 000– 770 000 | 506 000– 930 000 | 610 000– 1 100 000 | 530 000– 1 142 000 | 635 000– 1 400 000 |
 
 ### 2. melléklet a 2020. évi C. törvényhez
 

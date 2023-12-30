@@ -142,6 +142,8 @@ meghatározott eltérésekkel kell alkalmazni.
 
 (3) A 2. § (1) bekezdés a)–h) és j)–k) pontjában megjelölt szervek, valamint – a monetáris politika végrehajtásával és a devizatartalék kezelésével kapcsolatos kockázatértékelési és portfoliókezelési tevékenység keretében kezelt adatok kivételével – a 2. § (1) bekezdés i) pontjában megjelölt szerv által kezelt adatok az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság (a továbbiakban: hatóság) engedélyével vagy nemzetközi szerződés alapján az EGT-államok területén belül üzemeltetett elektronikus információs rendszerekben is kezelhetőek.
 
+(3a) A Választási Tájékoztató Rendszerben kezelt, közérdekű vagy közérdekből nyilvános adatok publikációs céllal Magyarország területén kívül üzemeltetett és tárolt elektronikus információs rendszerekben is kezelhetőek, amennyiben ezen adatok forrásadatainak adatkezelése Magyarország területén üzemeltetett és tárolt elektronikus információs rendszerekben történik.
+
 (4) A törvény hatálya alá tartozó elektronikus információs rendszert működtető, nem Magyarországon bejegyzett vállalkozásnak Magyarország területén működő képviselőt kell kijelölnie, aki az e törvényben foglaltak végrehajtásáért a szervezet vezetőjére vonatkozó szabályok szerint felel.
 
 4. § Az elektronikus információs rendszerekre és eszközökre, szervezetekre nemzetközi egyezmények vagy nemzetközi szabványok alapján, illetve az ezeken alapuló hazai követelmények vagy ajánlások alapján kiadott biztonsági tanúsítványokat, illetve független, képesített ellenőr által készített ellenőri jelentéseket a hatóság az eljárása során figyelembe veszi.

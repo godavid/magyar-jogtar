@@ -336,6 +336,7 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 - 23. a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
 - 24. a kisadózó vállalkozók tételes adójáról szóló törvény 7. § (11) bekezdés szerinti bejelentés.
 - 25. a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott, biztosíték nyújtásra kötelező jogerős végzés.
+- 26. a nemzetközi adóegyezmények alapján indított adókövetelések behajtására irányuló megkeresés, valamint a határon átnyúló hitelezői igénybejelentések esetén a magyar adóhatóság követelését tartalmazó hátraléki kimutatás.
 
 (2) Az okirat végrehajthatóságához külön intézkedésre nincs szükség.
 
@@ -469,6 +470,8 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 41. § (1) A jövedelemletiltás és a pénzügyi intézménynél kezelt összegekre vezetett végrehajtás alkalmazásának nem előfeltétele a helyszíni eljárás lefolytatása.
 
 (2) A munkáltató a letiltás kézbesítését követő 15 napon belül – ha a letiltás elektronikus úton érkezett, akkor elektronikus úton – az adós egyidejű tájékoztatása mellett tájékoztatja az adóhatóságot a havonta letiltható jövedelem összegéről, valamint a letiltást befolyásoló körülményekről, különösen a folyósított jövedelem összegéről, valamint az azt terhelő egyéb végrehajtói letiltásokról. A letiltható jövedelem összegét befolyásoló körülményekről, illetve a letiltható jövedelem összegének a változásáról a munkáltató a letiltás teljes időtartama alatt, az ok bekövetkezésétől számított 15 napon belül – ha a letiltás elektronikus úton érkezett, akkor elektronikus úton – tájékoztatja az adóhatóságot.
+
+(3) Ha az adóhatóság a jövedelemletiltást nem valós tartalmú végrehajtható okirat alapján, végrehajtható okirat hiányában vagy végrehajtható okirat birtokában, de az esedékesség időpontja előtt nyújtotta be, a jövedelemletiltás teljesítése napjától a jogosulatlanul beszedett adó, költségvetési támogatás visszatérítése napjáig a késedelmi pótlékkal azonos mértékű kamatot fizet.
 
 42. § (1) A fizetési számlát vezető pénzforgalmi szolgáltató az adóhatóság hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
@@ -877,7 +880,7 @@ kell értékesíteni.
 
 (2) Az árverésen kívüli értékesítés jogkövetkezményei megegyeznek az árverési értékesítés jogkövetkezményeivel.
 
-(3) Megkeresésre történő végrehajtás esetén az árverésen kívüli értékesítéshez a behajtást kérő, illetve a behajtást kérő hatóság beleegyezése is szükséges, kivéve, ha az értékesítésből befolyó vételárból a végrehajtási költségek, továbbá valamennyi követelés megtérül.
+(3) Megkeresésre történő végrehajtás esetén az árverésen kívüli értékesítéshez a behajtást kérő, illetve a behajtást kérő hatóság beleegyezése is szükséges, kivéve, ha az értékesítésből befolyó vételárból a végrehajtási költségek, továbbá valamennyi követelés megtérül. A behajtást kérő, illetve a behajtást kérő hatóság az adóhatóság felhívására 8 napon belül elektronikus úton nyilatkozik a beleegyezéséről vagy annak hiányáról. Ha a behajtást kérő, illetve a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, a beleegyezését megadottnak kell tekinteni.
 
 (4) Ingatlan árverésen kívüli értékesítéséhez az ingatlan-nyilvántartásba bejegyzett, a Vht. 137. §-ban fel nem sorolt jogok jogosultjainak a beleegyezése is szükséges.
 
@@ -913,7 +916,9 @@ kell értékesíteni.
 
 (3) Ha az árverés nyertese vagy a nyertes nemfizetése folytán helyébe lépő érvényes ajánlatot tevő a vételár megfizetését elmulasztja, helyébe az utána következő legmagasabb összegű érvényes ajánlatot tevő lép. Ebben az esetben a nyertes helyébe lépő ajánlattevő saját ajánlata összegének mint vételárnak, a fizetést elmulasztó nyertes, illetve a helyébe lépő és nem fizető ajánlattevő vételár-különbözet címén, saját ajánlata és az utána következő legmagasabb összegű ajánlat összege közötti különbözet megfizetésére köteles. Az állami adó- és vámhatóság a fizetést elmulasztó árverezőt a vételár-különbözet megfizetésére a 103. § szerint kötelezi. Ha az árverésen egy árverező vett részt, az árverezőt az általa felajánlott vételár megfizetésére kell kötelezni. Ebben az esetben az ingóság tulajdonjogát az árverési vevő csak akkor szerezheti meg, ha a vételárat legkésőbb a fizetésre kötelező határozatban foglalt teljesítési határidő leteltét megelőzően megfizeti. Az árverési vevő fizetési kötelezettségét megállapító határozat a végrehajtási eljárásban végrehajtható okirat. A különbözet a végrehajtás során befolyt összeget növeli, a tartozást meghaladó részt a végrehajtási költséggel azonos módon kell elszámolni.
 
-(4) Ha az árverés nyertese a vételárat azonosítható módon megfizette, de az ingóságot legkésőbb az elektronikus értesítést követő 15 napig nem vette át, az állami adó- és vámhatóság az ingóságot a Ptk. jogalap nélküli birtoklásra vonatkozó szabályai szerint 90 napig megőrzi, és erről, valamint az ingóság átvételére vonatkozó információkról és az átvétel elmulasztásának jogkövetkezményeiről az árverés nyertesét értesíti. A jogalap nélküli birtoklással kapcsolatban felmerült költségek megfizetésére az állami adó- és vámhatóság határozatban kötelezi az árverés nyertesét. A határidő lejártát követően az ingóságot az állami adó- és vámhatóság értékesítheti, vagy annak karitatív célú felhasználása, ennek hiányában megsemmisítése iránt intézkedhet. Az értékesítésből befolyt összeg az állami adó- és vámhatóságot illeti meg.
+(4) Ha az árverés nyertese a vételárat megfizette, de az ingóságot legkésőbb az elektronikus értesítést követő 15 napig nem vette át, az állami adó- és vámhatóság az ingóságot a Ptk. jogalap nélküli birtoklásra vonatkozó szabályai szerint 90 napig megőrzi, és erről, valamint az ingóság átvételére vonatkozó információkról és az átvétel elmulasztásának jogkövetkezményeiről az árverés nyertesét értesíti. A jogalap nélküli birtoklással kapcsolatban felmerült költségek megfizetésére az állami adó- és vámhatóság határozatban kötelezi az árverés nyertesét.
+
+(5) Ha az árverés nyertese a költségeket az esedékesség napjáig nem fizeti meg, a továbbiakban elektronikus árveréseken nem vehet részt mindaddig, amíg a költségeket meg nem fizeti, annak elmaradása esetén a költségek teljes összegének behajtásáig, vagy ezen összegek végrehajtásához való jog elévüléséig. A határidő lejártát követően az ingóságot az állami adó- és vámhatóság értékesítheti, vagy annak karitatív célú felhasználása, ennek hiányában megsemmisítése iránt intézkedhet. Az értékesítésből befolyt összeg az állami adó- és vámhatóságot illeti meg.
 
 #### 45. Az elektronikus ingatlanárverés speciális szabályai
 
@@ -1176,18 +1181,20 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (1b) A behajtást kérő hatóság előtt ügyfélként eljáró személyt kérelmére az adóhatóság – az Art. 127–128. §-ában foglaltakra is figyelemmel – tájékoztatja a végrehajtási ügy állásáról
 
+(1c) Ha a meghatározott cselekmény építmény elbontására vagy jókarbantartási kötelezettség teljesítésére irányul, az adóhatóság végrehajtásra történő megkeresésének feltétele, hogy a behajtást kérő hatóság az építésügyi hatósági kötelezés tényét, mint jogilag jelentős tényt az ingatlan-nyilvántartásba feljegyeztesse.
+
 (2) Az állami adó- és vámhatóság – a (3) bekezdés szerinti eljárási bírság kilátásba helyezése mellett – felhívja az adóst a meghatározott cselekmény önkéntes teljesítésére, továbbá tájékoztatja a teljesítés elmaradásának következményeiről.
 
-(3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki.
+(3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki. Az állami adó- és vámhatóság az eljárási bírságot kiszabó végzésben határidő tűzésével ismételten felhívja az adóst a kötelezettsége önkéntes teljesítésére. A kötelezettség határidőben történő teljesítése esetén az e bekezdés szerint kiszabott bírság mérsékelhető vagy elengedhető.
 
 (4) Ha az adós jogi személy vagy egyéb szervezet, a (3) bekezdésben említett eljárási bírságot mind a jogi személlyel vagy egyéb szervezettel szemben, mind a vezető tisztségviselőjével szemben egyidejűleg ki lehet szabni.
 
-(5) Ha az adós az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható.
+(5) Ha az adós az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható. A végzésben az állami adó- és vámhatóság az adóst határidő tűzésével ismételten felhívja az önkéntes teljesítésre. A kötelezettség határidőben történő teljesítése esetén az e bekezdés szerint kiszabott bírság mérsékelhető vagy elengedhető.
 
 (6) Az állami adó- és vámhatóság a meghatározott cselekményt az adós költségére és veszélyére – akár pénzügyőri munkakört betöltő foglalkoztatottjának intézkedésével vagy kényszerítő eszköz alkalmazásával – elvégzi, ha
 
 - a) az adós az ismételten kiszabott eljárási bírság ellenére sem teljesítette a meghatározott cselekményt, vagy
-- b) a meghatározott cselekmény végrehajtása nem tűr halasztást.
+- b) a meghatározott cselekmény végrehajtása – az életet, egészséget, testi épséget közvetlenül veszélyeztető helyzet megszüntetése érdekében – nem tűr halasztást.
 
 (7) Az állami adó- és vámhatóság az elvégzendő cselekmény pontos meghatározása, valamint közreműködő szervezet kirendelése érdekében, valamint az eljárás minden szakaszában igénybe veheti a behajtást kérő hatóság – különösen személyes megjelenéssel vagy soron kívüli adatszolgáltatással megvalósuló – közreműködését. A behajtást kérő hatóság köteles az állami adó- és vámhatóság felhívásában foglaltaknak – költség felszámítása nélkül – eleget tenni.
 
@@ -1219,7 +1226,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 123/A. § (1) Ha a meghatározott cselekményt az állami adó- és vámhatóság felhívására a kötelezett önkéntesen teljesíti és a döntésben foglaltaknak megfelelő teljesítés megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, az állami adó- és vámhatóság a teljesítés ellenőrzésébe bevonhatja a behajtást kérő hatóságot. A behajtást kérő hatóság az állami adó- és vámhatóság felhívásától számított 15 napon belül nyilatkozik arról, hogy a teljesítés megfelel-e a meghatározott cselekményt előíró döntésben foglaltaknak. Ha a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, az adós önkéntes teljesítését a behajtást kérő hatóság által elfogadottnak kell tekinteni.
 
-(2) Ha a 122. § (6) bekezdése szerinti eljárás döntésben foglaltaknak megfelelő teljesítésének megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, a behajtást kérő hatóság az állami adó- és vámhatóság előzetes értesítése alapján a 122. § (6) bekezdése szerinti eljárás elvégzésénél jelen lehet és a meghatározott cselekményt előíró döntésben foglaltaknak megfelelő teljesítést ellenőrizheti.
+(2) Ha a 122. § (6) bekezdése szerinti eljárás döntésben foglaltaknak megfelelő teljesítésének megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, a behajtást kérő hatóság az állami adó- és vámhatóság előzetes értesítése alapján a 122. § (6) bekezdése szerinti eljárás elvégzésénél jelen lehet és a meghatározott cselekményt előíró döntésben foglaltaknak megfelelő teljesítést ellenőrizheti. Ha a behajtást kérő hatóság az állami adó- és vámhatóság előzetes értesítésében megjelölt időpontban nem jelenik meg a teljesítés ellenőrzése céljából, a meghatározott cselekménynek az állami adó- és vámhatóság által a 122. § (6) bekezdése szerint történt elvégzését a behajtást kérő hatóság által elfogadottnak kell tekinteni.
 
 (3) Ha a behajtást kérő hatóság az (1) bekezdés szerinti eljárásban megállapítja, hogy a meghatározott cselekmény teljesítése az azt előíró döntésben foglaltaknak nem felel meg, az állami adó- és vámhatóság a végrehajtási eljárást tovább folytatja és az adóst ismételten felhívja a meghatározott cselekmény önkéntes, a döntésben foglaltaknak megfelelő teljesítésére. A meghatározott cselekményt előíró döntésben foglaltaknak megfelelő teljesítés önkéntes elmaradása esetén az állami adó- és vámhatóság a 122. § (6) bekezdése alapján jár el.
 
@@ -1245,15 +1252,27 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (10) Az (1) bekezdés szerinti határidő elteltét követően, ha az építményben már nem tartózkodik személy, az állami adó- és vámhatóság a meghatározott cselekményt az adós veszélyére elvégzi vagy elvégezteti.
 
-124. § (1) A 122. § (6) bekezdés szerinti eljárás elvégzéséről a végrehajtást foganatosító adóhatóság jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja az eljárás megszüntetéséről.
+124. § (1) A 122. § (6) bekezdés szerinti eljárás elvégzéséről a végrehajtást foganatosító adóhatóság jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére.
 
 (2) A közreműködő szervezet által kiállított számla és az eljárásról felvett jegyzőkönyv alapján az állami adó- és vámhatóság intézkedik a kifizetés iránt.
 
 (3) A (2) bekezdésben foglaltak szerint kifizetett díj ki nem egyenlített végrehajtási költségnek minősül, amelyet az állami adó- és vámhatóság végzésben állapít meg és – önkéntes teljesítés hiányában – a pénzfizetési kötelezettségekre vonatkozó szabályok szerint érvényesít. A végzés a végrehajtási eljárásban végrehajtható okirat.
 
-(4) Ha a meghatározott cselekmény kizárólag személyesen az adós által végezhető el, és a 122. § (2)–(5) bekezdésében foglalt eljárás eredménytelenül zárul, az állami adó- és vámhatóság az eljárás eredménytelenségéről jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja azt az eljárás megszüntetéséről.
+(4) Ha a meghatározott cselekmény
 
-(5) Ha a meghatározott cselekmény végrehajtása során közreműködő szervezet igénybevétele a 123. § alapján nem indokolt, vagy nem lehetséges, és a 122. § (2)–(6) bekezdésében foglalt eljárás eredménytelenül zárul, az állami adó- és vámhatóság az eljárás eredménytelenségéről jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja azt az eljárás megszüntetéséről.
+- a) kizárólag személyesen az adós által végezhető el, és a 122. § (2)–(5) bekezdésében foglalt eljárás eredménytelenül zárul, vagy
+- b) végrehajtása során közreműködő szervezet igénybevétele a 123. § alapján nem indokolt vagy nem lehetséges, és a 122. § (2)–(6) bekezdésében foglalt eljárás eredménytelenül zárul,
+
+az adóhatóság a végrehajtást a 124/A. § d) pontja szerint végzéssel megszünteti és erről a behajtást kérő hatóságot tájékoztatja.
+
+(5) Az eredménytelenség miatt megszüntetett eljárás esetén a 113. § (2)–(3) bekezdése alkalmazandó azzal, hogy a ki nem egyenlített eljárási költségeket az adós viseli.
+
+124/A. § A 18. § (1) bekezdésében rögzített eseteken túl az adóhatóság a végrehajtást végzéssel megszünteti akkor is, ha
+
+- a) az adós a meghatározott cselekményt önkéntesen teljesítette, vagy helyette azt az adóhatóság elvégezte vagy elvégeztette,
+- b) a kötelezettség végrehajtásához való jog elévült,
+- c) azt a behajtást kérő hatóság a behajtási megkeresés visszavonása nélkül kérte,
+- d) az adóhatóság által lefolytatott végrehajtás eredményre nem vezetett, és további intézkedés foganatosítására nincs lehetőség, vagy eredmény attól sem várható.
 
 125. § A 122. § (6) bekezdés szerinti végrehajtás során az állami adó- és vámhatóság pénzügyőri munkakört betöltő foglalkoztatottjai a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések megtételére jogosultak.
 
@@ -1479,6 +1498,18 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 (2) E törvénynek a Módtv.6. által módosított 11. § (2) bekezdését az annak hatálybalépését követően foganatosított ingó- és ingatlanfoglalás esetén is alkalmazni kell.
 
 (3) E törvénynek a Módtv.6. által megállapított 43/A. §-át a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+131/I. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel (a továbbiakban: Módtv.7.) megállapított 29. § (1) bekezdés 26. pontját a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv.7. által megállapított 88. § (3) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(3) E törvénynek a Módtv.7. által megállapított 90. § (4) és (5) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
+
+(4) E törvénynek a Módtv.7. által megállapított 122. § (1c) bekezdését, (3) bekezdését, (5) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(5) E törvénynek a Módtv.7. által megállapított 124. § (4) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(6) E törvénynek a Módtv.7. által megállapított 124/A. §-t a folyamatban lévő eljárásokban is alkalmazni kell.
 
 #### 61. A törvény hivatalos rövid megjelölése
 

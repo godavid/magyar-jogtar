@@ -24,7 +24,7 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 - b) cigarettahüvely és cigarettapapír,
 - c) dohánylevél töltő,
 - d) elektronikus cigaretta,
-- e) utántöltő flakon, patron, nikotinmentes utántöltő flakon,
+- e) utántöltő flakon, patron, nikotinmentes utántöltő flakon, nikotinmentes patron,
 - f) dohányzást imitáló elektronikus eszköz,
 - g) dohányzást helyettesítő nikotintartalmú termék,
 - h) az új dohánytermék-kategóriák kiegészítő termékeinek, valamint
@@ -80,7 +80,7 @@ kiskereskedelmi értékesítésére.
 - b) az új dohánytermék-kategóriák,
 - c) az új dohánytermék-kategóriák kiegészítő terméke,
 - d) az elektronikus cigaretta,
-- e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon,
+- e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon, nikotinmentes patron,
 - f) a dohányzást imitáló elektronikus eszköz,
 - g) a dohányzást helyettesítő nikotintartalmú termék, valamint
 - h) dohányzási célú gyógynövénytermék
@@ -757,6 +757,8 @@ szerinti előzetes bejelentése megtörtént.
 (2) A Módtv.3. tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti, valamint a Módtv.3. tervezetének 3. alcíme vonatkozásában a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
 (3) A Módtv.5. tervezetének 21. §-a, 37. §-a, 40. §-a, valamint a 41. § 4., 5., 15., 16. és 26. pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+(4) E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 1. § (1) bekezdés e) pontjának és 3. § (2) bekezdés e) pontjának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

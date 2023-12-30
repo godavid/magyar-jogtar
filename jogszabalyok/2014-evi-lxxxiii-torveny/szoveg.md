@@ -121,37 +121,42 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 
 (2) A kártyafelhasználói regisztrációval összefüggő feladatokat a Kormány rendeletében kijelölt szerv (a továbbiakban: regisztrációs szerv) országos illetékességgel végzi.
 
-(3) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció során a regisztrációs szerv a személyesen megjelent kártyafelhasználó kártyafelhasználói regisztráció iránti kérelmére – a 7. §-ban meghatározott eltérésekkel – az Nytv. szerinti egységes arcképmás- és aláírás-felvételezést folytat le.
+(3) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció során a regisztrációs szerv a kártyafelhasználó kártyafelhasználói regisztráció iránti kérelmére – a 7/A. § (2) bekezdés b) pontjában meghatározott eltérésekkel – az Nytv. szerinti egységes arcképmás- és aláírás-felvételezést folytat le.
 
 (4) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció érvényessége öt év. A kártyafelhasználói regisztráció érvényessége az Nytv. szerinti egységes arcképmás- és aláírás-felvételezéssel esetenként öt évvel meghosszabbodik.
 
-(5) Az 1. § (3) bekezdés b) pontja szerinti kérelmezőt a kártyafelhasználói regisztráció során a regisztrációs szerv a személyesen megjelent kártyafelhasználó kártyafelhasználói regisztráció iránti kérelmére az általa bemutatott útlevélben vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatok alapján azonosítja. Sikeres azonosítás esetén a regisztrációs szerv a kérelmező arcképmását és – ha a kérelmező a 12. életévét betöltötte – aláírását rögzíti, és azokat, valamint a bemutatott személyazonosításra alkalmas okmányban foglalt természetes személyazonosító adatokat, a bemutatott okmány számát, típusát és érvényességi idejét bejegyzi a 8. § (3) bekezdés a) pontja szerinti adatbázisba.
+(5) Az 1. § (3) bekezdés b) pontja szerinti kérelmezőt a kártyafelhasználói regisztráció során a regisztrációs szerv a személyesen megjelent kártyafelhasználó kártyafelhasználói regisztráció iránti kérelmére az általa bemutatott útlevélben vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatok alapján azonosítja. Sikeres azonosítás esetén a regisztrációs szerv a kérelmező arcképmását és – ha a kérelmező a 12. életévét betöltötte – aláírását rögzíti, és azokat, valamint a bemutatott személyazonosításra alkalmas okmányban foglalt természetes személyazonosító adatokat, állampolgárságot, nemet, a bemutatott okmány számát, típusát és érvényességi idejét bejegyzi a 8. § (3) bekezdés a) pontja szerinti adatbázisba.
 
 (6) Az 1. § (3) bekezdés b) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció érvényessége az (5) bekezdés szerinti, a regisztráció alapjául szolgáló okmány érvényességének időpontjáig terjedő idő, de legfeljebb öt év.
 
-6/A. § (1) Az elektronikus ügyintézési ponton benyújtott kérelem esetén a személyazonosítást a személyiadat- és lakcímnyilvántartás szerve végzi.
+6/A. § (1) Az elektronikus ügyintézési ponton benyújtott kérelem esetén a személyazonosítást a személyiadat- és lakcímnyilvántartás szerve végzi. Az elektronikus ügyintézési ponton vagy az elektronikus azonosítást követően elektronikus úton (a továbbiakban együtt: elektronikus úton) kezdeményezett eljárás esetén a személyazonosítást követően a személyiadat- és lakcímnyilvántartás szerve a kérelmező személyi azonosítóját a működtető részére átadja.
 
 (2) Az (1) bekezdés szerinti kártyafelhasználói regisztrációval összefüggő feladatokat a működtető végzi.
 
-7. § (1) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a személyiadat- és lakcímnyilvántartás adatkezelője a kérelmező személyi adat- és lakcímnyilvántartásban kezelt természetes személyazonosító adatait, lakcímét, egységes arcképmás- és aláírás-felvételezés során rögzített arcképmását és – ha a 12. életévét betöltötte – aláírását kártyakibocsátás céljából a működtető részére átadja.
+7. § (1) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a személyiadat- és lakcímnyilvántartás adatkezelője a kérelmező személyi adat- és lakcímnyilvántartásban kezelt természetes személyazonosító adatait, állampolgárságát, nemét, lakcímét, egységes arcképmás- és aláírás-felvételezés során rögzített arcképmását és – ha a 12. életévét betöltötte – aláírását a kártyakibocsátás céljából a működtető részére átadja.
 
-(2) Amennyiben a személyiadat- és lakcímnyilvántartás a kártyafelhasználó egységes arcképmás- és aláírás-felvételezés során rögzített, egy évnél nem régebbi arcképmását és aláírását tartalmazza, a kártyafelhasználói regisztráció során az arcképmás és aláírás felvétele kérelemre mellőzhető.
+(2)
 
-(3) Az (1) bekezdés szerinti adatátadást megelőzően a személyiadat- és lakcímnyilvántartás adatkezelője az általa képzett kapcsolati kódot (a továbbiakban: kapcsolati kód) a természetes személyazonosító adatokkal és a kártyafelhasználói regisztráció időpontjával együtt átadja a működtetőnek.
+(3) Az (1) bekezdés szerinti adatátadást megelőzően a személyiadat- és lakcímnyilvántartás adatkezelője az általa képzett kapcsolati kódot (a továbbiakban: kapcsolati kód) a természetes személyazonosító adatokkal, a személyi azonosítóval és a kártyafelhasználói regisztráció időpontjával együtt átadja a működtetőnek.
 
 (4) A kapcsolati kód nem tartalmazhatja az érintett személyes adatát vagy annak bármely elemét.
 
-#### 5/A. Elektronikus ügyintézési ponton történő ügyintézés eltérő szabályai
+#### 5/A. Az elektronikus úton történő ügyintézés eltérő szabályai
 
-7/A. § (1) Ha a kártyafelhasználói regisztrációra irányuló eljárás az elektronikus ügyintézési ponton elérhető, a személyiadat- és lakcímnyilvántartás hatálya alá tartozó, a kártyafelhasználói regisztrációra irányuló eljárásban eljárási képességgel rendelkező kérelmező az elektronikus ügyintézési ponton is benyújthatja az erre irányuló kérelmét.
+7/A. § (1) Ha a kártyafelhasználói regisztrációra irányuló eljárás elektronikus úton elérhető, az 1. § (3) bekezdés a) pontja szerinti kérelmező, a kártyafelhasználói regisztrációra irányuló eljárásban eljárási képességgel rendelkező kérelmező elektronikus úton is benyújthatja az erre irányuló kérelmét.
 
-(2) Az eljárás során felvételezett arcképmásadatot érintően automatizált arcképmás-összehasonlítást kell végezni.
+(2) Az elektronikus úton benyújtott kérelem esetén a 6. § (3) bekezdésében foglaltak irányadók az alábbi eltérésekkel:
 
-(3) Az elektronikus ügyintézési ponton benyújtott kérelem esetén a 6. § (3) bekezdésében foglaltak irányadók, de a 7. § (2) bekezdése nem alkalmazható. A regisztrációs kérelem összeállítása a személyiadat- és lakcímnyilvántartás által átadott adatok alapján történik.
+- a) a kérelem az elektronikus ügyintézési ponton keresztül csak abban az esetben nyújtható be, ha a kérelmező arcképmását és aláírását rendelkezésre bocsátja,
+- b) a kérelem elektronikus azonosítást követően elektronikus úton csak akkor nyújtható be, ha a személyiadat- és lakcímnyilvántartás a kérelmező egységes arcképmás- és aláírás-felvételezés során rögzített, egy évnél nem régebbi arcképmását és aláírását tartalmazza.
 
-(4) A kérelem az elektronikus ügyintézési ponton keresztül csak abban az esetben nyújtható be, ha a kérelmező arcképmását és aláírását rendelkezésre bocsátja.
+(3) A működtető a (2) bekezdés b) pontja szerinti eljárás során az arcképmás és aláírás ellenőrzése céljából jogosult igényelni a személyiadat- és lakcímnyilvántartás adatkezelőjétől a felhasználható arcképmás- és aláírás adat rendelkezésre állásának tényét.
 
-(5) Az elektronikus ügyintézési ponton előterjesztett kérelem esetén – aláírásadat felvételének hiányában – a kérelmező nyilatkozik az írásképtelensége vagy írástudatlansága tényéről.
+(4) Az elektronikus ügyintézési ponton keresztül felvételezett arcképmás az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-a szerinti automatizált arcképmás összehasonlítási, valamint az egységes arcképmás- és aláírás-felvételezési eljárás során is felhasználásra kerül.
+
+(5) Az elektronikus azonosítást követően elektronikus úton benyújtott kérelem esetén a regisztrációs kérelem összeállítása a személyiadat- és lakcímnyilvántartás által átadott adatok alapján történik.
+
+(6) Az elektronikus ügyintézési ponton előterjesztett kérelem esetén az aláírásadat felvételének hiányában a kérelmező nyilatkozik az írásképtelensége vagy írástudatlansága tényéről.
 
 #### 6. A NEK központi nyilvántartás
 
@@ -165,7 +170,7 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
 (2) Az 1. § (3) bekezdés a) pontja szerinti személyek esetében a NEK központi nyilvántartás tartalmazza a kártyafelhasználói regisztráció időpontját, és
 
 - a) regisztrált, kártyával nem rendelkező kártyafelhasználó esetében
-  - aa) a kártyafelhasználó természetes személyazonosító adatait és
+  - aa) a kártyafelhasználó természetes személyazonosító adatait, személyi azonosítóját, állampolgárságát, nemét és
   - ab) a kapcsolati kódot,
 - b) kártyával rendelkező kártyafelhasználó esetében, elsődleges kártyák tekintetében, kártyánként elkülönítetten
   - ba) a kártyafelhasználó kártyán szereplő, 5. § (1) bekezdés a) pont aa) és ab) alpontja, 5. § (2) bekezdés a) pont aa) és ac) alpontja, valamint 5. § (2) bekezdés c) pontja szerinti adatait,
@@ -185,7 +190,7 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
 (3) Az 1. § (3) bekezdés b) pontja szerinti személyek esetében a NEK központi nyilvántartás tartalmazza a kártyafelhasználói regisztráció időpontját, és
 
 - a) regisztrált, kártyával nem rendelkező kártyafelhasználó esetében
-  - aa) a kártyafelhasználó természetes személyazonosító adatait,
+  - aa) a kártyafelhasználó természetes személyazonosító adatait, állampolgárságát, nemét és
   - ab) a személyazonosításra alkalmas, bemutatott okmány számát, típusát és érvényességi idejét,
   - ac) arcképmását,
   - ad) – ha 12. életévét betöltötte – aláírását,
@@ -222,6 +227,8 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
 (7) A NEK központi nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (8) A működtető hivatalból köteles a NEK központi nyilvántartásában a jogszabálysértő bejegyzést törölni, a hibás bejegyzést javítani vagy az elmulasztott bejegyzést pótolni.
+
+(9) A működtető a 6/A. § (1) bekezdés szerint megismert és a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 29. pontja és 36. § 28. pontja szerint kezelt személyi azonosítót csak belső azonosítóként a kártyafelhasználói regisztráció és a kártyakibocsátás céljából a személyiadat- és lakcímnyilvántartásból történő adatigénylésre használhatja fel.
 
 #### 7. A kártya érvényessége, a kártyafelhasználó adatainak törlése
 

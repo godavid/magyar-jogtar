@@ -102,6 +102,8 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 
 (6) Az eljárás során vélelmezni kell a tanúként meghallgatott foglalkoztatottnak, valamint a panaszt, közérdekű bejelentést benyújtó természetes személynek az általános közigazgatási rendtartásról szóló törvénynek az adatok zárt kezelésére vonatkozó szabályai szerinti olyan helyzetét, amely alapján őt nyilatkozata miatt súlyosan hátrányos következmény érheti. E személyeknek tanúként történő első meghallgatása során a zárt adatkezelés szabályai szerint kell eljárni akkor is, ha a meghallgatott személy a zárt adatkezelést nem kéri.
 
+(7) A foglalkoztatás-felügyeleti hatóság a jogviszony létesítésével kapcsolatos bejelentési kötelezettség ellenőrzésére irányuló eljárást a TAJ szám kiadásáig felfüggesztheti, ha a foglalkoztató a TAJ számmal nem rendelkező foglalkoztatott esetében kizárólag a TAJ számra vonatkozó bejelentési kötelezettségének nem tett eleget.
+
 9. § (1) A foglalkoztatás-felügyeleti hatóság a jogszabálysértés megállapítása esetén a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottakon túl a következő közigazgatási szankciókat alkalmazhatja:
 
 - a) további foglalkoztatás megtiltása,
@@ -125,6 +127,8 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 10. § (1) Ha a foglalkoztató a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos bejelentési kötelezettségének nem tett eleget, a foglalkoztatás-felügyeleti hatóság megállapítja a foglalkoztatásra irányuló jogviszony fennállását, és kötelezi a foglalkoztatót a bejelentési kötelezettség teljesítésére.
 
 (2) Ha a foglalkoztató a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos bejelentési kötelezettségének nem tett eleget, a foglalkoztatás-felügyeleti hatóság a foglalkoztatásra irányuló jogviszony fennállását – az általános teljes napi munkaidő figyelembevételével – a szabályszegés megkezdésétől visszamenőleg számított harmincadik naptól állapítja meg, kivéve, ha a hatósági eljárás során megállapítható, hogy a bejelentés nélküli foglalkoztatás a harminc napot meghaladta.
+
+(3) Az (1) vagy (2) bekezdésben foglalt intézkedés nem alkalmazható, ha a foglalkoztató a TAJ számmal nem rendelkező foglalkoztatott részére a foglalkoztatás megkezdése előtt kérte a TAJ szám kiadását a székhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivataltól, valamint a TAJ számot az adatképzésről kapott értesítéstől számított nyolc napon belül az adóhatóságnak bejelentette.
 
 #### 5. A foglalkoztatás-felügyeleti hatóság által vezetett nyilvántartás
 

@@ -97,7 +97,7 @@ jogosult személy;
   - a) jövedéki termék adófelfüggesztési eljárás alóli kikerülése, ideértve a szabálytalanság esetét is,
   - b) adózatlan jövedéki termék adófelfüggesztési eljáráson kívüli birtoklása, a birtokos tudattartalmától függetlenül,
   - c) jövedéki termék adófelfüggesztési eljáráson kívüli előállítása, ideértve a szabálytalanság esetét is,
-  - d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján kiegyenlítésre került;
+  - d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján megszűnt;
 - 43a. szabálytalan behozatal: olyan jövedéki terméknek az Európai Unió területére való behozatala, amelyeket nem bocsátottak a 952/2013/EU rendelet 201. cikkével összhangban szabad forgalomba, és amelyekre vonatkozóan a 952/2013/EU rendelet 79. cikk (1) bekezdésével összhangban vámtartozás keletkezett, illetve keletkezett volna, ha az áruk vámkötelesek lennének;
 - 44. szabálytalanság: ha
   - a) az adófelfüggesztési eljárás keretében végzett szállítás nem az 53. § (3) bekezdése szerint fejeződik be, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
@@ -1106,18 +1106,20 @@ jelenti be az állami adó- és vámhatóságnak.
 
 - a) adóraktárba;
 - b) másik tagállambeli bejegyzett kereskedő számára;
-- c) exportálás céljából arra a helyre, ahol a jövedéki termék elhagyja az Európai Unió területét; vagy
+- c) exportálás céljából arra a helyre, ahol a jövedéki termék elhagyja az Európai Unió területét;
 - d) másik tagállambeli
   - da) diplomáciai és konzuli képviselet és annak tagjai,
   - db) nemzetközi szervezet és annak tagjai – a nemzetközi egyezményekben vagy székhely egyezményekben foglaltak szerint adómentesként meghatározott fogyasztás erejéig –,
-  - dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
+  - dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja,
   - dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
 
-számára.
+számára; vagy
+
+- e) a kilépési vámhivatalnak minősülő árutovábbítási műveletet indító vámhivatalba, ha a jövedéki terméket a vámjogszabályok szerinti kivitelre átengedést követően külső árutovábbítási eljárás alá vonják.
 
 (2) Az adófelfüggesztési eljárás keretében végzett szállítás akkor kezdődik, amikor a jövedéki termék elhagyja az adóraktár területét vagy amikor a bejegyzett feladó által feladott jövedéki termék vámjogi szabadforgalomba bocsátásra kerül.
 
-(3) Az adófelfüggesztési eljárás keretében végzett szállítás akkor fejeződik be, amikor a címzett átveszi a jövedéki terméket vagy amikor a jövedéki termék elhagyja az Európai Unió területét.
+(3) Az adófelfüggesztési eljárás keretében végzett szállítás akkor fejeződik be, amikor a címzett átveszi a jövedéki terméket, amikor a jövedéki termék elhagyja az Európai Unió területét vagy amikor külső árutovábbítási eljárás alá vonják.
 
 #### 33. Jövedéki termék feladása adófelfüggesztési eljárás keretében
 
@@ -1168,9 +1170,9 @@ az uniós számítógépes rendszerben haladéktalanul továbbítja.
 
 #### 35. Adófelfüggesztési eljárás keretében szállított jövedéki termék exportálása
 
-56. § (1) Ha a harmadik országba adófelfüggesztési eljárás keretében szállított jövedéki termék esetén a vámjogszabályok szerinti kivitel helye belföld,
+56. § (1) Ha a harmadik országba adófelfüggesztési eljárás keretében szállított jövedéki termék esetén a vámjogszabályok szerinti kivitel helye belföld, a 952/2013/EU rendeletben meghatározott nyilatkozattevő az állami adó- és vámhatóság rendelkezésére bocsátja a kiviteli árunyilatkozatban említett jövedéki termékeket jelölő egyedi AHK-számot, és az e-TKO-n, valamint a kiviteli árunyilatkozaton szereplő adatok megegyeznek,
 
-- a) a kilépési hivatal vagy – a 3. § (1) bekezdés 18. pont a) alpont ab) alpontja szerinti területre történő szállítása esetén – az áruknak az Európai Unió vámterületéről történő kiléptetésére a vámjogszabályok szerint megállapított alakiságokat teljesítő hatóság arról szóló igazolása alapján, hogy a jövedéki termék elhagyta az Európai Unió területét, továbbá
+- a) a kilépési hivatal vagy – a 3. § (1) bekezdés 18. pont a) alpont ab) alpontja szerinti területre történő szállítása esetén – az áruknak az Európai Unió vámterületéről történő kiléptetésére a vámjogszabályok szerint megállapított alakiságokat teljesítő hatóság arról szóló igazolása alapján, hogy a jövedéki termék elhagyta az Európai Unió területét, ideértve az 53. § (1) bekezdés e) pontja szerinti külső árutovábbítási eljárás alá vonás esetét is, továbbá
 - b) az igazolásban szereplő adatoknak az uniós számítógépes rendszerben történő ellenőrzését követően
 
 az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismervényt.
@@ -1181,6 +1183,10 @@ az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismer
 - b) a jövedéki termék belföldi feladójának.
 
 (3) Ha a harmadik országba belföldről adófelfüggesztési eljárás keretében szállított jövedéki termék esetén a vámjogszabályok szerinti kivitel helye másik tagállam, a kivitel helye szerinti tagállam illetékes hatósága által a jövedéki termék harmadik országba történt kiviteléről kiállított és az állami adó- és vámhatóságnak megküldött elektronikus kiviteli elismervényt az állami adó- és vámhatóság a jövedéki termék feladójának továbbítja.
+
+(4) Ha a harmadik országba adófelfüggesztési eljárás keretében szállított jövedéki termék esetén a vámjogszabályok szerinti kivitel helye belföld és az e-TKO-n és a kiviteli árunyilatkozaton szereplő adatok nem egyeznek vagy a jövedéki terméket a továbbiakban nem fogják kivinni az Európai Unió területéről, az állami adó- és vámhatóság erről az uniós számítógépes rendszeren keresztül értesíti a feladás helye szerinti tagállam illetékes hatóságát vagy a jövedéki termék belföldi feladóját.
+
+(5) Ha a jövedéki terméket a továbbiakban nem fogják kivinni az Európai Unió területéről, az erről szóló értesítés kézhezvételekor a belföldi feladó az adófelfüggesztési eljárás keretében végzett szállítás kezdetéig törli az e-TKO-t, ezt követően megváltoztatja a szállítmány rendeltetési helyét.
 
 #### 36. Jövedéki termék szállítása adófelfüggesztési eljárás keretében mentesített szervezetnek
 
@@ -1232,6 +1238,8 @@ az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismer
 
 (2) Az állami adó- és vámhatóság a jövedéki termék harmadik országba történő kiszállításáról kiállított papíralapú okmány másolatát megküldi a jövedéki termék feladójának vagy annak megérkezéséről tájékoztatja a jövedéki termék feladóját.
 
+(2a) Ha az 53. § (1) bekezdés c) és e) pontja szerinti esetben üzemszünet alatt a számítógépes rendszer nem érhető el a feladás helye szerinti tagállamban, akkor a belföldi feladó a 952/2013/EU rendeletben meghatározott nyilatkozattevő rendelkezésére bocsátja az üzemszünet ideje alatt kiállított papírlapú okmány egy példányát – amelynek tartalma megfelel a kiviteli árunyilatkozatban bejelentett jövedéki terméknek – vagy az okmány egyedi azonosítóját.
+
 (3) Az üzemszünet végét vagy az e-TKO megküldését követően, ha a kivitel helye belföld, az állami adó- és vámhatóság haladéktalanul kiállítja és a feladás helye szerinti tagállam illetékes hatóságának megküldi az elektronikus kiviteli elismervényt.
 
 (4) Ezt követően az adófelfüggesztési eljárás keretében végzett szállításra vonatkozó általános szabályokat kell alkalmazni.
@@ -1245,7 +1253,7 @@ az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismer
 (3) A (2) bekezdés szerinti igazolásként
 
 - a) a rendeltetési hely szerinti tagállam illetékes hatóságának – megfelelő bizonyíték alapján – a jövedéki termék rendeltetési helyre történő megérkezéséről kiállított igazolása, vagy
-- b) a kivitel helye szerinti tagállam illetékes hatóságának a jövedéki termék Európai Unió területének elhagyásáról kiállított igazolása
+- b) a kivitel helye szerinti tagállam illetékes hatóságának a jövedéki termék Európai Unió területének elhagyásáról – beleértve a harmadik országban zárult külső árutovábbítási eljárás esetét is – kiállított igazolása
 
 szolgálhat.
 
@@ -1300,6 +1308,13 @@ szolgálhat.
 - a) a két tagállam között közlekedő repülőgépek fedélzetén lévő jövedéki termékek szállítása, ha azokat nem hozzák forgalomba, mialatt a repülőgép belföldön tartózkodik,
 - b) a másik tagállamból belföldön keresztül egy másik tagállamba e-EKO-val végzett szállítás, vagy
 - c) a 3. § (2) bekezdés 21. pontja szerinti jármű üzemanyagtartályában vagy kiegészítő üzemanyagtartályában található üzemanyag tagállamok közötti szállítása.
+
+(5a) Kereskedelmi célú szállításnak minősül a belföldről, az (1a) bekezdés szerinti belföldi feladótól, másik tagállamon keresztül, az (1b) szerinti belföldi címzett részére végzett szállítás.
+
+(5b) Az (5a) bekezdés szerinti esetben
+
+- a) a feladó az e-EKO-n megadja a szállítási útvonalat,
+- b) az állami adó- és vámhatóság az e-EKO-t megküldi a címzettnek.
 
 (6) A másik tagállamba szabadforgalomban, kereskedelmi céllal szállított jövedéki termék feladása esetén az 54. § (2)–(3) bekezdését, (4) bekezdés a) pontját, (6) bekezdését és (7) bekezdés b) pontját kell alkalmazni azzal az eltéréssel, hogy e-TKO alatt e-EKO-t, az adófelfüggesztési eljárás alatt pedig szabadforgalomban végzett kereskedelmi célú szállítást kell érteni, továbbá a rendeltetési hely csak ugyanazon tagállamon belüli, ugyanazon címzett által üzemeltetett szállítási helyre vagy a feladás helyére módosítható.
 
@@ -2307,7 +2322,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 136. § (1) Az egyszerűsített adóraktár a 23. §-tól eltérően a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort és a 134. § (3) bekezdés szerinti terméket 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett termékeket kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
-(2) Az egyszerűsített adóraktár engedélyese a vásárolt és a saját termésű szőlő, az átvett, előállított (kiszerelt), tárolt és feladott csendes bor, valamint a 134. § (3) bekezdése szerinti termék, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről – elkülönítve a bérmunkára átvett, bérmunkában tárolt mennyiséget –, a készletváltozásokról és a borpiaci év tényleges zárókészletéről az (1) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő év szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára.
+(2) Az egyszerűsített adóraktár engedélyese a vásárolt és a saját termésű szőlő, az átvett, előállított (kiszerelt), tárolt és feladott csendes bor, valamint a 134. § (3) bekezdése szerinti termék, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről – elkülönítve a bérmunkára átvett, bérmunkában tárolt mennyiséget –, a készletváltozásokról és a borpiaci év tényleges zárókészletéről az (1) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára.
 
 (3) Az egyszerűsített adóraktár engedélyese az előállított, tárolt, feladott habzóbor utáni adóbevallást a (2) bekezdés szerinti elszámolással egyidejűleg készíti el és küldi meg az állami adó- és vámhatóságnak, valamint fizeti meg az adót.
 
@@ -2321,7 +2336,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (2) A kisüzemi bortermelő a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a palackos erjesztésű habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
-(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint palackos erjesztésű habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő év szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
+(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint palackos erjesztésű habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
 
 (4) Ha a családtagok közössége a saját művelésben lévő szőlőterületen termelt szőlőből a csendes bor és a palackos erjesztésű habzóbor előállítását, tárolását ugyanazon a közösen használt telephelyen végzi, e tevékenység kisüzemi bortermelőnek minősülve folytatható. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 
@@ -2614,6 +2629,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (37) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 67. § (1a) bekezdés c) pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
 
 (38) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 86. § (5) és (6) bekezdés rendelkezéseit a kötelező érvényű vámtarifabesorolásra is alkalmazni kell, azzal az eltéréssel, hogy kötelező érvényű KN-kód besorolás alatt kötelező érvényű vámtarifabesorolást kell érteni, továbbá KN-kód alatt a vizsgált határozatban megállapított vámtarifaszámot is kell érteni.
+
+(39) Az az egyszerűsített adóraktár engedélyes vagy kisüzemi bortermelő, aki a 2022. augusztus 1.–2023. július 31. borpiaci évre vonatkozó 136. § (2) bekezdése vagy 137. § (3) bekezdése szerinti kötelezettségét e rendelkezés hatálybalépésének időpontjáig nem teljesítette, e rendelkezés hatálybalépését követő 30 napon belül teljesíti kötelezettségét.
 
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 

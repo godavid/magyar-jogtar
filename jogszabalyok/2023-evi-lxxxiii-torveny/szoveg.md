@@ -26,7 +26,32 @@ az egyes adótörvények módosításáról
 
 #### 7. §
 
-#### 8. §
+8. § Az Szja tv. 65/C. §-a helyébe a következő rendelkezés lép:
+
+„65/C. § (1) Bizalmi vagyonkezelési jogviszony alapján a vagyonrendelő, magánalapítvány esetében az alapító, csatlakozó magánszemély tulajdonában álló vagyoni érték vagyonkezelésbe adása, magánalapítvány részére történő tulajdonba adása (a továbbiakban együtt: vagyonátadás) esetén az e törvény szerinti ellenérték fejében történő átruházás (értékesítés) jövedelemmegállapítási szabályai szerint kiszámított nem realizált eszközérték-növekményt (a továbbiakban: eszközérték-növekmény) meg kell állapítani. Értékesítésből származó bevételnek az átadott, tulajdonba adott vagyoni értéknek azon értékét kell tekinteni, amelyen azt az átvevő (kezelt vagyon, alapítvány) számviteli nyilvántartásba vette. A vagyont átadó magánszemély a vagyon tulajdonba adásával egyidejűleg tájékoztatja az átvevőt az eszközérték-növekmény megállapításához szükséges adatokról (így különösen az egyes vagyonelemek megszerzésére fordított összegről, a jövedelemmegállapítás szabályai szerint figyelembe vehető egyéb költségekről, ingatlan esetében a megszerzés időpontjáról) és rendelkezésre bocsájtja az adatokat alátámasztó iratokat. A tájékoztatás és az adatokat alátámasztó iratok hiányában a bevétel egészét kell eszközérték-növekményként figyelembe venni. A vagyonkezelő, a magánalapítvány a nyilvántartási értékről, a megállapított eszközérték-növekményről a vagyonátadást követő 15 napon belül tájékoztatja a vagyonrendelőt, az alapítót vagy a csatlakozót. A vagyonkezelő, a magánalapítvány a tulajdonba adott vagyonelemek nyilvántartási értékéről, a vagyonátadás időpontjáról és a vagyonelemhez kapcsolódó eszközérték-növekmény összegéről alapnyilvántartást vezet. A vagyonkezelő, a magánalapítvány az alapnyilvántartásból törli és elkülönült nyilvántartásba vezeti át – az átruházással egyidejűleg, az alapnyilvántartásban szereplő vagyonátadás időpontjának feltüntetésével – az azon vagyonelemekhez kapcsolódó eszközérték-növekményeket, amelyeknek ellenérték ellenében átruházása (értékesítése) megtörtént.
+
+(2) Ha a kezelt vagyon, magánalapítványi vagyon induló tőkéjének értéke terhére a kedvezményezett részére bevétel juttatása történik, és a bevétel tárgyául szolgáló – a vagyonrendelő, alapító (csatlakozó) által átadott vagyonelemmel azonos megjelenési formában juttatott – vagyoni értékhez kapcsolódóan a vagyonkezelő, a magánalapítvány eszközérték-növekményt tart nyilván, a bevétel az ezen eszközérték növekménye erejéig osztalékként adóköteles, ha a bevétel tárgyául szolgáló vagyoni érték kiadása és az adott eszköz vagyonrendelő, alapító (csatlakozó) által történő vagyonkezelésbe, a magánalapítvány részére tulajdonba adása között még nem telt el öt év.
+
+(3) Ha a kezelt vagyon, magánalapítványi vagyon induló tőkéjének értéke terhére a (2) bekezdésben nem meghatározott módon történik bevétel juttatása, és a vagyonkezelő, a magánalapítvány a bevétel juttatását megelőző öt éven belüli vagyonátadásra tekintettel megállapított, az elkülönült nyilvántartásban szereplő eszközérték-növekményt tart nyilván, a bevétel az elkülönült nyilvántartásban szereplő eszközérték-növekmény erejéig osztalékként adóköteles.
+
+(4) A kezelt vagyon, magánalapítványi vagyon induló tőkéjének értéke terhére történő bevétel juttatása esetén nem kell jövedelmet megállapítani, ha a bevétel tárgyául szolgáló vagyoni értéket a kiadással azonos megjelenési formában a vagyonrendelő, alapító (csatlakozó) adta vagyonkezelésbe, a magánalapítvány részére tulajdonba, és a vagyonátadáshoz kapcsolódóan eszközérték-növekményt nem kellett megállapítani.
+
+(5) A vagyonkezelő, a magánalapítvány által az (1) bekezdés szerint nyilvántartott eszközérték-növekmények összegét csökkenti
+
+- a) elkülönült nyilvántartásban nyilvántartott eszközérték-növekmények esetén – eltérő időpontban megállapított eszközérték növekmények esetében a megállapításuk időbeli sorrendjében – a (3) bekezdés szerint, valamint
+- b) alapnyilvántartásban nyilvántartott eszközérték-növekmények esetén a (2) bekezdés szerint
+
+az osztalék megállapítása során figyelembe vett összeg. Az (1) bekezdés szerinti alap és elkülönült eszközérték-növekmény nyilvántartásból a vagyonkezelő, a magánalapítvány törli azt az összeget, amely nem kapcsolódik öt éven belüli vagyonátadáshoz.
+
+(6) Az (1) bekezdéstől eltérően a vagyonátadás során nem kell eszközérték-növekményt megállapítani, ha az átvevő (vagyonkezelő, magánalapítvány) a vagyoni érték tulajdonjogát a vagyonrendelő, az alapító (csatlakozó) elhunytával szerzi meg.
+
+(7) Nem kell a (2)–(3) bekezdésben foglaltakat alkalmazni, ha a kedvezményezett a vagyoni érték tulajdonjogát a vagyonrendelő, az alapító (csatlakozó) elhunytát követően szerzi meg.
+
+(8) A vagyonelem tulajdonba adását nem eredményező vagyoni érték magánszemély részére történő juttatása – ideértve különösen az ingyenes vagy kedvezményes használat biztosítását – esetén adóköteles az e juttatással összefüggő, a kezelt vagyont, a magánalapítványi vagyont terhelő költség, ráfordítás. Az adót a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy a magánalapítványi vagyon terhére kell elszámolni, és a költség, ráfordítás elszámolási időpontja hónapjának kötelezettségeként kell a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre bevallani és megfizetni.
+
+(9) A vagyoni érték kiadásakor az osztalékként juttatott vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély a megszerzett vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veszi figyelembe, minden más esetben azt az értéket, amelyen az a vagyon kiadásakor a juttató számviteli nyilvántartásában értékhelyesbítés nélkül szerepel.
+
+(10) A kedvezményezett által a (9) bekezdés szerint figyelembe vehető szerzési értékről a vagyonkezelő, a magánalapítvány a vagyonelem kiadását követő 30 napon belül tájékoztatja a kedvezményezettet és egyidejűleg adatot szolgáltat az állami adó- és vámhatóság részére az állami adó- és vámhatóság által a honlapján közzétett módon.”
 
 #### 9. §
 
@@ -40,7 +65,11 @@ az egyes adótörvények módosításáról
 
 #### 14. §
 
-#### 15. §
+15. § Az Szja tv. a következő 107. §-sal egészül ki:
+
+„107. § (1) A 2023. szeptember 12. napja és az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 65/C. § hatálybalépésének napja között megvalósuló vagyonátadás adókötelezettsége tekintetében a vagyonrendelő, az alapító, vagy a csatlakozó magánszemély választása szerint e törvény ezen időszak alatt hatályos 65/C. §-a szerinti rendelkezést, vagy az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított rendelkezést alkalmazhatja, azzal, hogy ez utóbbi esetben a vagyonátadót és a vagyonkezelőt, magánalapítványt terhelő kötelezettségeket az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény hatálybalépését követő 15. napig kell teljesíteni.
+
+(2) Nem kell osztalékból származó jövedelmet megállapítani az induló tőke terhére történő azon vagyonjuttatás után, melynek értéke – több alkalommal történő juttatás esetén ezen értékek összege – nem haladja meg a 2023. szeptember 11-i indulótőke értékét, ide nem értve a 65/C. § (2) bekezdésében meghatározott esetet.”
 
 16. § Az Szja tv.
 
@@ -187,25 +216,70 @@ az egyes adótörvények módosításáról
 
 #### 6. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-#### 68. §
+68. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 53. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 69. §
+„(1) Jövedéki terméket az Európai Unió területén adófelfüggesztési eljárás keretében szállíthat – ideértve azt az esetet is, ha a terméket harmadik országon keresztül szállítják – az adóraktár engedélyese adóraktárból vagy bejegyzett feladó az importálás helyéről
 
-#### 70. §
+- a) adóraktárba;
+- b) másik tagállambeli bejegyzett kereskedő számára;
+- c) exportálás céljából arra a helyre, ahol a jövedéki termék elhagyja az Európai Unió területét;
+- d) másik tagállambeli
+  - da) diplomáciai és konzuli képviselet és annak tagjai,
+  - db) nemzetközi szervezet és annak tagjai – a nemzetközi egyezményekben vagy székhely egyezményekben foglaltak szerint adómentesként meghatározott fogyasztás erejéig –,
+  - dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja,
+  - dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
 
-#### 71. §
+számára; vagy
+
+- e) a kilépési vámhivatalnak minősülő árutovábbítási műveletet indító vámhivatalba, ha a jövedéki terméket a vámjogszabályok szerinti kivitelre átengedést követően külső árutovábbítási eljárás alá vonják.”
+
+(2) A Jöt. 53. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az adófelfüggesztési eljárás keretében végzett szállítás akkor fejeződik be, amikor a címzett átveszi a jövedéki terméket, amikor a jövedéki termék elhagyja az Európai Unió területét vagy amikor külső árutovábbítási eljárás alá vonják.”
+
+69. § (1) A Jöt. 56. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a harmadik országba adófelfüggesztési eljárás keretében szállított jövedéki termék esetén a vámjogszabályok szerinti kivitel helye belföld, a 952/2013/EU rendeletben meghatározott nyilatkozattevő az állami adó- és vámhatóság rendelkezésére bocsátja a kiviteli árunyilatkozatban említett jövedéki termékeket jelölő egyedi AHK-számot, és az e-TKO-n, valamint a kiviteli árunyilatkozaton szereplő adatok megegyeznek,
+
+- a) a kilépési hivatal vagy – a 3. § (1) bekezdés 18. pont a) alpont ab) alpontja szerinti területre történő szállítása esetén – az áruknak az Európai Unió vámterületéről történő kiléptetésére a vámjogszabályok szerint megállapított alakiságokat teljesítő hatóság arról szóló igazolása alapján, hogy a jövedéki termék elhagyta az Európai Unió területét, ideértve az 53. § (1) bekezdés e) pontja szerinti külső árutovábbítási eljárás alá vonás esetét is, továbbá
+- b) az igazolásban szereplő adatoknak az uniós számítógépes rendszerben történő ellenőrzését követően
+
+az állami adó- és vámhatóság állítja ki az elektronikus kiviteli elismervényt.”
+
+(2) A Jöt. 56. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) Ha a harmadik országba adófelfüggesztési eljárás keretében szállított jövedéki termék esetén a vámjogszabályok szerinti kivitel helye belföld és az e-TKO-n és a kiviteli árunyilatkozaton szereplő adatok nem egyeznek vagy a jövedéki terméket a továbbiakban nem fogják kivinni az Európai Unió területéről, az állami adó- és vámhatóság erről az uniós számítógépes rendszeren keresztül értesíti a feladás helye szerinti tagállam illetékes hatóságát vagy a jövedéki termék belföldi feladóját.
+
+(5) Ha a jövedéki terméket a továbbiakban nem fogják kivinni az Európai Unió területéről, az erről szóló értesítés kézhezvételekor a belföldi feladó az adófelfüggesztési eljárás keretében végzett szállítás kezdetéig törli az e-TKO-t, ezt követően megváltoztatja a szállítmány rendeltetési helyét.”
+
+70. § A Jöt. 60. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha az 53. § (1) bekezdés c) és e) pontja szerinti esetben üzemszünet alatt a számítógépes rendszer nem érhető el a feladás helye szerinti tagállamban, akkor a belföldi feladó a 952/2013/EU rendeletben meghatározott nyilatkozattevő rendelkezésére bocsátja az üzemszünet ideje alatt kiállított papírlapú okmány egy példányát – amelynek tartalma megfelel a kiviteli árunyilatkozatban bejelentett jövedéki terméknek – vagy az okmány egyedi azonosítóját.”
+
+71. § A Jöt. 62. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
+
+„(5a) Kereskedelmi célú szállításnak minősül a belföldről, az (1a) bekezdés szerinti belföldi feladótól, másik tagállamon keresztül, az (1b) szerinti belföldi címzett részére végzett szállítás.
+
+(5b) Az (5a) bekezdés szerinti esetben
+
+- a) a feladó az e-EKO-n megadja a szállítási útvonalat,
+- b) az állami adó- és vámhatóság az e-EKO-t megküldi a címzettnek.”
 
 #### 72. §
 
-#### 73. §
+73. § A Jöt. 150. §-a a következő (39) bekezdéssel egészül ki:
+
+„(39) Az az egyszerűsített adóraktár engedélyes vagy kisüzemi bortermelő, aki a 2022. augusztus 1.–2023. július 31. borpiaci évre vonatkozó 136. § (2) bekezdése vagy 137. § (3) bekezdése szerinti kötelezettségét e rendelkezés hatálybalépésének időpontjáig nem teljesítette, e rendelkezés hatálybalépését követő 30 napon belül teljesíti kötelezettségét.”
 
 74. § A Jöt.
 
-- a)
+- a) 3. § (1) bekezdés 43. pont d) alpontjában a „kiegyenlítésre került” szövegrész helyébe a „megszűnt” szöveg,
 - b)
-- c)
+- c) 61. § (3) bekezdés b) pontjában az „elhagyásáról” szövegrész helyébe az „elhagyásáról – beleértve a harmadik országban zárult külső árutovábbítási eljárás esetét is –” szöveg,
 - d)
-- e)
+- e) 136. § (2) bekezdésében és 137. § (3) bekezdésében a „követő év szeptember” szövegrész helyébe a „követő szeptember” szöveg
+
+lép.
 
 ### III. Fejezet — EGYES ÁGAZATI ADÓK
 
@@ -305,7 +379,9 @@ az egyes adótörvények módosításáról
 
 #### 108. §
 
-109. § (1)
+109. § (1) Az Art. 145. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A végelszámolás esetén benyújtandó tevékenységet záró adóbevallás, a végelszámoló által készített záró adóbevallás, a két bevallás közötti időszakról benyújtott bevallás ellenőrzése, valamint a tevékenységet lezáró adóbevallást megelőző időszakra vonatkozó ellenőrzés megállapításait tartalmazó jegyzőkönyvvel szemben, annak átadását, kézbesítését követő nyolc napon belül lehet észrevételt tenni.”
 
 (2)
 
@@ -317,7 +393,11 @@ az egyes adótörvények módosításáról
 
 #### 113. §
 
-114. § (1)
+114. § (1) Az Art. 245. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Az állami adó- és vámhatóság mulasztási bírság kiszabása mellett az adóköteles tevékenység célját szolgáló helyiséget tizenkettő nyitvatartási napra lezárhatja, ha az adózó)
+
+„c) az adóköteles tevékenység célját szolgáló helyiségében (műhely, üzlet, telep stb.) elmulasztotta számla- vagy nyugtakibocsátási kötelezettségét, vagy”
 
 (2)
 
@@ -339,7 +419,13 @@ az egyes adótörvények módosításáról
 
 121. § (1)
 
-(2)
+(2) Az Art. 274/Q. §-a helyébe a következő rendelkezés lép:
+
+„(1) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény (a továbbiakban: Módtv.12.) által megállapított 114/B. § (2) bekezdését a tevékenységét a 2023-ban kezdődő adóévben kezdő személy azzal az eltéréssel alkalmazza, hogy a 114/B. § (2) bekezdésben meghatározott határidőt a rendelkezés hatálybalépésétől számítja.
+
+(2) E törvénynek a Módtv.12. által megállapított 145. § (1) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+(3) E törvénynek a Módtv.12. által megállapított 245. § (1) bekezdés c) pontját a hatálybalépését követően indult ellenőrzések során kell alkalmazni.”
 
 (3)
 
@@ -358,12 +444,12 @@ az egyes adótörvények módosításáról
 - 3.
 - 4.
 - 5.
-- 6.
+- 6. 131. § (14) bekezdés i) pontjában a „folyósító szervet, az irányító hatóságot,” szöveg helyébe a „folyósító szervet, a központi költségvetési támogatásról döntő szervet, az irányító hatóságot,” szöveg,
 - 7.
 - 8.
 - 9.
 - 10.
-- 11.
+- 11. 157. § (1) bekezdés d) pontjában, az „egy éven belül az állami adó- és vámhatóság ismételt üzletlezárás” szövegrész helyébe az „az állami adó- és vámhatóság üzletlezárás” szöveg,
 - 12.
 - 13.
 - 14.
@@ -405,9 +491,15 @@ az egyes adótörvények módosításáról
 
 #### 135. §
 
-#### 136. §
+136. § Az Avt. 29. § (1) bekezdése a következő 26. ponttal egészül ki:
 
-#### 137. §
+(A végrehajtási eljárásban végrehajtható okirat:)
+
+„26. a nemzetközi adóegyezmények alapján indított adókövetelések behajtására irányuló megkeresés, valamint a határon átnyúló hitelezői igénybejelentések esetén a magyar adóhatóság követelését tartalmazó hátraléki kimutatás.”
+
+137. § Az Avt. 41. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha az adóhatóság a jövedelemletiltást nem valós tartalmú végrehajtható okirat alapján, végrehajtható okirat hiányában vagy végrehajtható okirat birtokában, de az esedékesség időpontja előtt nyújtotta be, a jövedelemletiltás teljesítése napjától a jogosulatlanul beszedett adó, költségvetési támogatás visszatérítése napjáig a késedelmi pótlékkal azonos mértékű kamatot fizet.”
 
 #### 138. §
 
@@ -417,25 +509,85 @@ az egyes adótörvények módosításáról
 
 #### 141. §
 
-#### 142. §
+142. § Az Avt. 88. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 143. §
+„(3) Megkeresésre történő végrehajtás esetén az árverésen kívüli értékesítéshez a behajtást kérő, illetve a behajtást kérő hatóság beleegyezése is szükséges, kivéve, ha az értékesítésből befolyó vételárból a végrehajtási költségek, továbbá valamennyi követelés megtérül. A behajtást kérő, illetve a behajtást kérő hatóság az adóhatóság felhívására 8 napon belül elektronikus úton nyilatkozik a beleegyezéséről vagy annak hiányáról. Ha a behajtást kérő, illetve a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, a beleegyezését megadottnak kell tekinteni.”
 
-#### 144. §
+143. § (1) Az Avt. 90. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha az árverés nyertese a vételárat megfizette, de az ingóságot legkésőbb az elektronikus értesítést követő 15 napig nem vette át, az állami adó- és vámhatóság az ingóságot a Ptk. jogalap nélküli birtoklásra vonatkozó szabályai szerint 90 napig megőrzi, és erről, valamint az ingóság átvételére vonatkozó információkról és az átvétel elmulasztásának jogkövetkezményeiről az árverés nyertesét értesíti. A jogalap nélküli birtoklással kapcsolatban felmerült költségek megfizetésére az állami adó- és vámhatóság határozatban kötelezi az árverés nyertesét.”
+
+(2) Az Avt. 90. § a következő (5) bekezdéssel egészül ki:
+
+„(5) Ha az árverés nyertese a költségeket az esedékesség napjáig nem fizeti meg, a továbbiakban elektronikus árveréseken nem vehet részt mindaddig, amíg a költségeket meg nem fizeti, annak elmaradása esetén a költségek teljes összegének behajtásáig, vagy ezen összegek végrehajtásához való jog elévüléséig. A határidő lejártát követően az ingóságot az állami adó- és vámhatóság értékesítheti, vagy annak karitatív célú felhasználása, ennek hiányában megsemmisítése iránt intézkedhet. Az értékesítésből befolyt összeg az állami adó- és vámhatóságot illeti meg.”
+
+144. § (1) Az Avt. 122. §-a a következő (1c) bekezdéssel egészül ki:
+
+„(1c) Ha a meghatározott cselekmény építmény elbontására vagy jókarbantartási kötelezettség teljesítésére irányul, az adóhatóság végrehajtásra történő megkeresésének feltétele, hogy a behajtást kérő hatóság az építésügyi hatósági kötelezés tényét, mint jogilag jelentős tényt az ingatlan-nyilvántartásba feljegyeztesse.”
+
+(2) Az Avt. 122. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki. Az állami adó- és vámhatóság az eljárási bírságot kiszabó végzésben határidő tűzésével ismételten felhívja az adóst a kötelezettsége önkéntes teljesítésére. A kötelezettség határidőben történő teljesítése esetén az e bekezdés szerint kiszabott bírság mérsékelhető vagy elengedhető.”
+
+(3) Az Avt. 122. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha az adós az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható. A végzésben az állami adó- és vámhatóság az adóst határidő tűzésével ismételten felhívja az önkéntes teljesítésre. A kötelezettség határidőben történő teljesítése esetén az e bekezdés szerint kiszabott bírság mérsékelhető vagy elengedhető.”
+
+(4) Az Avt. 122. § (6) bekezdése b) pontja helyébe a következő rendelkezés lép:
+
+(Az állami adó- és vámhatóság a meghatározott cselekményt az adós költségére és veszélyére – akár pénzügyőri munkakört betöltő foglalkoztatottjának intézkedésével vagy kényszerítő eszköz alkalmazásával – elvégzi, ha)
+
+„b) a meghatározott cselekmény végrehajtása – az életet, egészséget, testi épséget közvetlenül veszélyeztető helyzet megszüntetése érdekében – nem tűr halasztást.”
 
 #### 145. §
 
-#### 146. §
+146. § Az Avt. 123/A. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 147. §
+„(2) Ha a 122. § (6) bekezdése szerinti eljárás döntésben foglaltaknak megfelelő teljesítésének megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, a behajtást kérő hatóság az állami adó- és vámhatóság előzetes értesítése alapján a 122. § (6) bekezdése szerinti eljárás elvégzésénél jelen lehet és a meghatározott cselekményt előíró döntésben foglaltaknak megfelelő teljesítést ellenőrizheti. Ha a behajtást kérő hatóság az állami adó- és vámhatóság előzetes értesítésében megjelölt időpontban nem jelenik meg a teljesítés ellenőrzése céljából, a meghatározott cselekménynek az állami adó- és vámhatóság által a 122. § (6) bekezdése szerint történt elvégzését a behajtást kérő hatóság által elfogadottnak kell tekinteni.”
 
-#### 148. §
+147. § Az Avt. 124. §-a helyébe a következő rendelkezés lép:
+
+„124. § (1) A 122. § (6) bekezdés szerinti eljárás elvégzéséről a végrehajtást foganatosító adóhatóság jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére.
+
+(2) A közreműködő szervezet által kiállított számla és az eljárásról felvett jegyzőkönyv alapján az állami adó- és vámhatóság intézkedik a kifizetés iránt.
+
+(3) A (2) bekezdésben foglaltak szerint kifizetett díj ki nem egyenlített végrehajtási költségnek minősül, amelyet az állami adó- és vámhatóság végzésben állapít meg és – önkéntes teljesítés hiányában – a pénzfizetési kötelezettségekre vonatkozó szabályok szerint érvényesít. A végzés a végrehajtási eljárásban végrehajtható okirat.
+
+(4) Ha a meghatározott cselekmény
+
+- a) kizárólag személyesen az adós által végezhető el, és a 122. § (2)–(5) bekezdésében foglalt eljárás eredménytelenül zárul, vagy
+- b) végrehajtása során közreműködő szervezet igénybevétele a 123. § alapján nem indokolt vagy nem lehetséges, és a 122. § (2)–(6) bekezdésében foglalt eljárás eredménytelenül zárul,
+
+az adóhatóság a végrehajtást a 124/A. § d) pontja szerint végzéssel megszünteti és erről a behajtást kérő hatóságot tájékoztatja.
+
+(5) Az eredménytelenség miatt megszüntetett eljárás esetén a 113. § (2)–(3) bekezdése alkalmazandó azzal, hogy a ki nem egyenlített eljárási költségeket az adós viseli.”
+
+148. § Az Avt. a következő 124/A. §-sal egészül ki:
+
+„124/A. § A 18. § (1) bekezdésében rögzített eseteken túl az adóhatóság a végrehajtást végzéssel megszünteti akkor is, ha
+
+- a) az adós a meghatározott cselekményt önkéntesen teljesítette, vagy helyette azt az adóhatóság elvégezte vagy elvégeztette,
+- b) a kötelezettség végrehajtásához való jog elévült,
+- c) azt a behajtást kérő hatóság a behajtási megkeresés visszavonása nélkül kérte,
+- d) az adóhatóság által lefolytatott végrehajtás eredményre nem vezetett, és további intézkedés foganatosítására nincs lehetőség, vagy eredmény attól sem várható.”
 
 149. § (1)
 
 (2)
 
-150. § (1)
+150. § (1) Az Avt. 60. alcíme a következő 131/I. §-sal egészül ki:
+
+„131/I. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel (a továbbiakban: Módtv.7.) megállapított 29. § (1) bekezdés 26. pontját a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv.7. által megállapított 88. § (3) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(3) E törvénynek a Módtv.7. által megállapított 90. § (4) és (5) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
+
+(4) E törvénynek a Módtv.7. által megállapított 122. § (1c) bekezdését, (3) bekezdését, (5) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(5) E törvénynek a Módtv.7. által megállapított 124. § (4) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(6) E törvénynek a Módtv.7. által megállapított 124/A. §-t a folyamatban lévő eljárásokban is alkalmazni kell.”
 
 (2)
 
@@ -469,7 +621,11 @@ az egyes adótörvények módosításáról
 
 #### 159. §
 
-#### 160. §
+160. § A NAV Szj. tv. 47. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben foglaltaktól eltérően nem kell az érintett beleegyezése]
+
+„d) azonos besorolású más munkakörbe, valamint az I. besorolási osztály C besorolási kategóriájába tartozó munkakörből alacsonyabb besorolású munkakörbe helyezéséhez, kivéve, ha a pénzügyőri munkakört betöltő pénzügyőr tisztviselői munkakörbe, illetve a tisztviselői munkakört betöltő foglalkoztatott pénzügyőri munkakörbe kerül áthelyezésre,”
 
 #### 161. §
 
@@ -481,7 +637,9 @@ az egyes adótörvények módosításáról
 
 - a)
 - b)
-- c)
+- c) 113. § (4) bekezdésében a „hatvan” szövegrész helyébe a „harminc” szöveg
+
+lép.
 
 ### X. Fejezet — EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -529,7 +687,11 @@ az egyes adótörvények módosításáról
 
 #### 183. §
 
-#### 184. §
+184. § Hatályát veszti az Aktv.
+
+- a) 41/I. § (6) bekezdésében az „A perre a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel.” szövegrész,
+- b) 41/V. § (6) bekezdésében az „A perre a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel.” szövegrész, és
+- c) 42/H. § (7) bekezdésében az „A perre a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel.” szövegrész.
 
 #### 185. §
 

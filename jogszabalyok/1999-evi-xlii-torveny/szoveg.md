@@ -44,8 +44,8 @@ a következő törvényt alkotja:
 - p) elektronikus cigaretta: olyan egyszer használatos (eldobható), vagy utántöltő flakonnal utántölthető vagy patronnal működő (többször használható) elektronikus termék, amely szopókán keresztül nikotintartalmú pára fogyasztását teszi lehetővé, vagy annak bármely alkatrésze, beleértve a patronokat, a tartályokat és a patron vagy tartály nélküli készüléket is;
 - q) utántöltő flakon: az elektronikus cigaretta utántöltésére szolgáló, nikotintartalmú folyadékot tartalmazó tartály;
 - r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) bármilyen formában nikotint tartalmazó folyadékot tartalmazó tartály;
-- s) dohányzást imitáló elektronikus eszköz: olyan elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
-- t) nikotinmentes utántöltő flakon: dohányzást imitáló elektronikus eszköz utántöltésére szolgáló, vagy használatát lehetővé tevő nikotinmentes folyadékot tartalmazó tartály, ideértve a nikotinmentes folyadékot tartalmazó egyszer használatos (nem utántölthető) tartályt is;
+- s) dohányzást imitáló elektronikus eszköz: olyan egyszer használatos (eldobható), vagy nikotinmentes utántöltő flakonnal utántölthető vagy nikotinmentes patronnal működő (többször használható) elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé; annak bármely alkatrésze, beleértve a tartályokat és a patron vagy tartály nélküli készüléket is;
+- t) nikotinmentes utántöltő flakon: dohányzást imitáló elektronikus eszköz utántöltésére szolgáló, nikotinmentes folyadékot tartalmazó tartály;
 - u) füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket;
 - v) új dohánytermék-kategóriák: olyan dohánytermék,
   - va) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigarettadohány, pipadohány, vízipipadohány, szivar, szivarka, rágódohány, tüsszentésre szolgáló dohánytermék vagy szájon át fogyasztott dohánytermék, és
@@ -53,6 +53,7 @@ a következő törvényt alkotja:
 - w) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az új dohánytermék-kategóriák fogyasztását közvetlen módon elősegíti, így különösen a fogyasztáshoz szükséges kiegészítő eszköz, továbbá az új dohánytermék-kategóriák használatához, tárolásához, karbantartásához, működtetéséhez kapcsolódó termékek (tartozék, alkatrész);
 - x) elektronikuscigaretta-azonosító szám: az elektronikus cigarettákra és az utántöltő flakonokra vonatkozó értesítések közös formátumának meghatározásáról szóló, 2015. november 24-i (EU) 2015/2183 bizottsági végrehajtási határozatban meghatározott közös adatbeviteli kapun bejelentett termékek azonosítására szolgáló szám;
 - y) a dohányzást helyettesítő nikotintartalmú termék: olyan – dohányt nem tartalmazó, és elektronikus cigarettának, továbbá utántöltő flakonnak vagy patronnak nem minősülő – nikotint tartalmazó termék, amely nem minősül gyógyszernek, és amelynek hatóanyaga szájon át (nyálkahártyán keresztül) jut el az emberi szervezetbe.
+- z) nikotinmentes patron: a nikotinmentes utántöltő flakonok azon fajtája, amely egyes dohányzást imitáló elektronikus eszközök használatához szükséges, jellemzően egyszer használatos (nem utántölthető) bármilyen formában nikotinmentes folyadékot tartalmazó tartály.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 
@@ -233,25 +234,39 @@ valamint kötelezettségek megszegése
 
 ### Az elektronikus cigarettára vonatkozó szabályok
 
-7/C. § A gyógyszerekre és az orvostechnikai eszközökre vonatkozó szabályozás sérelme nélkül, elektronikus cigaretta akkor hozható forgalomba és akkor forgalmazható, ha megfelel az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeknek.
+7/C. § A gyógyszerekre és az orvostechnikai eszközökre vonatkozó szabályozás sérelme nélkül, elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék akkor hozható forgalomba és akkor forgalmazható, ha megfelel az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeknek.
 
-7/D. § (1) Elektronikus cigaretták és utántöltő flakonok gyártói és importőrei a forgalomba hozatal előtt hat hónappal bejelentést tesznek az egészségügyi államigazgatási szervnek minden olyan termékről, amelyet forgalomba kívánnak hozni.
+7/D. § (1) Az elektronikus cigaretta, az utántöltő flakon és patron, a dohányzást imitáló elektronikus eszköz, a nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék gyártói, importőrei és a magyarországi forgalmazók a forgalomba hozatal előtt hat hónappal bejelentést tesznek az egészségügyi államigazgatási szervnek minden olyan termékről, amelyet forgalomba kívánnak hozni.
 
 (2) Az (1) bekezdés szerinti bejelentést elektronikusan, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott adattartalommal kell benyújtani.
 
-(3) Az (1) bekezdésben foglaltaknak megfelelően az elektronikus cigarettát vagy az utántöltő flakont érintő minden olyan változást be kell jelenteni, amely a termék e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott műszaki jellemzőit érinti.
+(3) Az (1) bekezdésben foglaltaknak megfelelően be kell jelenteni az egészségügyi államigazgatási szervnek
+
+- a) az elektronikus cigarettát, utántöltő flakont és patront, a dohányzást imitáló elektronikus eszközt, a nikotinmentes utántöltő flakont, nikotinmentes patront és dohányzást helyettesítő nikotintartalmú terméket érintő minden olyan változást, amely a termék e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott műszaki jellemzőit érinti, valamint
+- b) az elektronikus cigaretta, az utántöltő flakon és patron, a dohányzást imitáló elektronikus eszköz, a nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék gyártója, importőre, vagy magyarországi forgalmazója személyében és elérhetőségében bekövetkező változásokat.
 
 (4) Az (1) és (3) bekezdés szerinti bejelentés esetén, valamint a bejelentett és az egészségügyi államigazgatási szerv által az e törvény végrehajtására kiadott kormányrendelet szerint kiállított igazolással rendelkező termékek esetében évente, a tárgyév március 31-éig a bejelentésre kötelezettnek igazgatási szolgáltatási díjat kell fizetnie az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
 
-7/E. § (1) Az információs társadalmi szolgáltatás keretében, a sajtóban és más nyomtatott kiadványokban tilos minden olyan, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) szerinti kereskedelmi közlemény, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése. Ez a tilalom nem vonatkozik azokra a kiadványokra, amelyek kizárólag az elektronikus cigaretták és az utántöltő flakonok kereskedelmének szakmai képviselői részére szólnak, továbbá a harmadik országokban nyomtatott és publikált kiadványokra, ha azok nem az uniós piacra készülnek.
+(5) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján bejelentett termékekről nyilvántartást vezet, amely tartalmazza
 
-(2) Tilos minden olyan, a rádióban elhangzó, az Mttv. szerinti kereskedelmi közlemény, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
+- a) a bejelentő, a gyártó, vagy az importőr, a magyarországi forgalmazó megnevezését,
+- b) az elektronikuscigaretta-azonosító számot,
+- c) a márkanevet, almárkanevet,
+- d) a termék típusát,
+- e) a bejelentésről kiadott igazolás sorszámát és
+- f) a lehetséges forgalomba hozatalnak az (1) bekezdés alapján számított első napját.
 
-(3) Tilos a rádiós médiaszolgáltatásokhoz nyújtott, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Reklám tv.) szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
+(6) A forgalmazási tilalommal érintett, a dohánytermék-kiskereskedelmi tevékenységet végző személy készletén lévő termékek forgalomból történő kivonásáról, azok visszavásárlásáról a magyarországi gyártónak, importőrnek, forgalmazónak kell gondoskodnia.
 
-(4) Tilos a rendezvényekhez és tevékenységekhez, valamint az egyes személyek részére nyújtott a Reklám tv. szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
+7/E. § (1) Az információs társadalmi szolgáltatás keretében, a sajtóban és más nyomtatott kiadványokban tilos minden olyan, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) szerinti kereskedelmi közlemény, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék népszerűsítése. Ez a tilalom nem vonatkozik azokra a kiadványokra, amelyek kizárólag az elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék kereskedelmének szakmai képviselői részére szólnak, továbbá a harmadik országokban nyomtatott és publikált kiadványokra, ha azok nem az uniós piacra készülnek.
 
-(5) Az elektronikus cigaretták és az utántöltő flakonok tekintetében tilos az Mttv. hatálya alá tartozó audiovizuális kereskedelmi közlemény közzététele.
+(2) Tilos minden olyan, a rádióban elhangzó, az Mttv. szerinti kereskedelmi közlemény, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék népszerűsítése.
+
+(3) Tilos a rádiós médiaszolgáltatásokhoz nyújtott, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Reklám tv.) szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék népszerűsítése.
+
+(4) Tilos a rendezvényekhez és tevékenységekhez, valamint az egyes személyek részére nyújtott a Reklám tv. szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék népszerűsítése.
+
+(5) Az elektronikus cigaretta, utántöltő flakon, patron, dohányzást imitáló elektronikus eszköz, nikotinmentes utántöltő flakon, nikotinmentes patron és dohányzást helyettesítő nikotintartalmú termék tekintetében tilos az Mttv. hatálya alá tartozó audiovizuális kereskedelmi közlemény közzététele.
 
 (6) Tilos az elektronikus cigaretta vagy az utántöltő flakon márkanevével megegyező vagy márkanevére utaló egyéb termékek reklámozása, amelyek közvetett vagy közvetlen hatással lehetnek ezek forgalmazására.
 
@@ -270,7 +285,7 @@ valamint kötelezettségek megszegése
 
 7/H. § A 2–4/A. § rendelkezéseit az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatára is alkalmazni kell.
 
-7/I. § Ezen alcím rendelkezéseit a dohányzást imitáló elektronikus eszközre is alkalmazni kell.
+#### 7/I. §
 
 ### Az új dohánytermék-kategóriákra vonatkozó szabályok
 
@@ -317,7 +332,7 @@ részletes szabályokat rendeletben határozza meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a kombinált figyelmeztetéseket, egészségvédő figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohánytermékek fogyasztói csomagolási egységeire és az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek és elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatának kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek, valamint az elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
+- a) a kombinált figyelmeztetéseket, egészségvédő figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohánytermékek fogyasztói csomagolási egységeire és az elektronikus cigaretta, az utántöltő flakon, a dohányzást imitáló elektronikus eszköz, a nikotinmentes utántöltő flakon, a nikotinmentes patron és a dohányzást helyettesítő nikotintartalmú termék csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek és elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatának kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek, valamint az elektronikus cigaretta, utántöltő flakon, dohányzást imitáló elektronikus eszköz, a nikotinmentes utántöltő flakon és a dohányzást helyettesítő nikotintartalmú termék előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
 - b) az egészségvédelmi bírság mértékének, befizetésének, nyilvántartásának részletes szabályait és a bírság megállapításának szempontrendszerét,
 - c) a dohánytermékek összetevőire vonatkozó részletes szabályokat,
 - d) a dohánytermékek kibocsátási szintjeire, azok mérésének módszereire vonatkozó részletes szabályokat,
@@ -339,7 +354,7 @@ részletes szabályokat rendeletben határozza meg.
 
 (2) E törvénynek a Módtv.-vel megállapított 5. § (1)–(4) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-#### 8/B. §
+8/B. § E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 1. § s), t) és z) pontjának, 7/C. §-ának, 7/D. § (1), (3), (5) és (6) bekezdésének, 7/E. § (1)–(5) bekezdésének, 8. § (5) bekezdés a) pontjának, valamint 10. § (4a) bekezdésének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 9. § (1) A kereskedelemről szóló törvény szerint szálláshelynek minősülő, jogszabály alapján szállodaként üzemeltetett közforgalmú intézményben a Módosító Tv. hatálybalépésekor már működtetett és a (3) és (4) bekezdés szerint engedélyezett zárt légterű dohányzóhely – szivarszobaként – tovább működtethető. A tovább működtetést az egészségügyi államigazgatási szerv engedélyezi.
 
@@ -356,6 +371,8 @@ részletes szabályokat rendeletben határozza meg.
 (3) A 2016. május 19-én már forgalomban lévő elektronikus cigaretta esetében az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 7/D. § (1) bekezdése szerinti bejelentést 2016. december 20-áig kell megtenni.
 
 (4) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított, 6/C. §, 7/D. § (4) bekezdése és a 7/J. § (4) bekezdése szerinti, az adalékanyagok, az elektronikus cigaretták, utántöltő flakonok, dohányzást imitáló elektronikus eszközök, valamint új dohánytermék-kategóriára vonatkozó bejelentések fenntartásáért évente fizetendő igazgatási szolgáltatási díjat első ízben a termék bejelentését követő év március 31-éig kell megfizetni.
+
+(4a) A 2023. december 30-án már forgalomban lévő nikotinmentes utántöltő flakon, nikotinmentes patron, valamint dohányzást helyettesítő nikotintartalmú termék esetében a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 7/D. § (1) bekezdése szerinti bejelentést 2024. február 28-ig kell megtenni.
 
 (5) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

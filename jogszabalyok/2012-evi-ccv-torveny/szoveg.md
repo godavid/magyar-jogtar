@@ -2057,9 +2057,9 @@ időtartamát.
 
 - a) a nő 1 évesnél fiatalabb – kórházi ápolás alatt álló – beteg gyermeke szoptatása esetén, a gyermek 1 éves koráig,
 - b) az állomány tagja beteg gyermeke ápolása címén, a gyermek betegségét megállapító orvosi igazolás alapján az abban foglalt időtartamra a gyermek 1 éves koráig,
-- c) az állomány tagja 1 évesnél idősebb, de 3 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 84 naptári napon át,
-- d) az állomány tagja 3 évesnél idősebb, de 6 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 42, egyedülállónak 84 naptári napon át,
-- e) az állomány tagja 6 évesnél idősebb, de 12 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 14, egyedülállónak 28 naptári napon át.
+- c) az állomány tagja 1 évesnél idősebb, de 3 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 84, egyedülálló szülőnek 168 naptári napon át,
+- d) az állomány tagja 3 évesnél idősebb, de 6 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 42, egyedülálló szülőnek 84 naptári napon át,
+- e) az állomány tagja 6 évesnél idősebb, de 12 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 14, egyedülálló szülőnek 28 naptári napon át.
 
 (2) A gyermek ápolására kapott egészségügyi szabadság (1) bekezdés a) és b) pontja szerinti mértéke – ha mindkét szülő az állomány tagja – a szülőket együttesen illeti meg. A gyermekápolás céljából nyújtott egészségügyi szabadság az (1) bekezdés c)–e) pontjában meghatározott időtartama a szülőket külön-külön illeti meg, ha mindkét szülő az állomány tagja.
 
@@ -4141,7 +4141,7 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (9) A szolgálati viszony (3) bekezdés szerinti átalakulásával összefüggésben a honvéd tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat nem kell elvégezni.
 
-247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2023. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
+247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2024. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
 
 (2) Az állomány tagjának évi százötven óráig terjedő túlszolgálatáért annak időtartamával azonos mértékű szabadidő jár. A szabadidőt a túlszolgálatot követően nyomban, de legkésőbb harminc napon belül kell kiadni.
 
@@ -4160,15 +4160,15 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (8) A túlszolgálat elrendelésének, nyilvántartásának és elszámolásának rendjét a miniszter rendeletben határozza meg.
 
-(9) A 2024. január 1-jét megelőző időpontban kezdődött és 2024. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
+(9) A 2025. január 1-jét megelőző időpontban kezdődött és 2025. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
 
-247/I. § (1) A Módtv.-vel megállapított 107. § (3) bekezdése helyett a 2023. december 31-ig elrendelt és teljesített őr-, ügyeleti és készenléti szolgálat teljesítésének ellentételezésére a (2) bekezdést kell alkalmazni.
+247/I. § (1) A Módtv.-vel megállapított 107. § (3) bekezdése helyett a 2024. december 31-ig elrendelt és teljesített őr-, ügyeleti és készenléti szolgálat teljesítésének ellentételezésére a (2) bekezdést kell alkalmazni.
 
 (2) A pihenőidőt a szolgálat leadása után nyomban, a szabadnapot pedig legkésőbb 90 napon belül kell kiadni. Amennyiben a szolgálati elfoglaltság miatt a szabadnapot igazoltan nem lehet kiadni, az arra járó, miniszteri rendeletben meghatározott díjazást legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt kell kifizetni.
 
-(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2023. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
+(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2024. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
 
-(4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2023. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
+(4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2024. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
 
 (5) A (4) bekezdést a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg. A szolgálati feladatra vezénylés időtartama alatt nem alkalmazható a 107. § (2) bekezdése arra a laktanyai készenléti szolgálatra, amikor a munkáltatói jogkört gyakorló a Hvt. 59. § (1) bekezdés m) pontjára figyelemmel a rendelkezésre állás helyét kizárólag annak érdekében határozza meg, hogy az állomány vezényelt tagjának meghatározott időpontban történő szolgálatba lépése biztosított legyen.
 

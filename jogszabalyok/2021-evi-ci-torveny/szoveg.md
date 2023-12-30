@@ -269,6 +269,10 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 9/F. § Az Nvtv. 13. § (4) és (5) bekezdésétől eltérően a 9/E. § (1) bekezdése szerinti ingatlanok tulajdonjogát az Egyházkerület az Egyházkerület területén működő, az Egyház belső jogi személye javára átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. Az Egyházkerület és a tulajdonátruházással érintett, az Egyház belső jogi személye közötti tulajdonátruházásra irányuló szerződésben az Egyház belső jogi személye vállalja, hogy a 9/E. § (1) bekezdése szerinti céloknak megfelelően kerül sor a 9/E. § (1) bekezdése szerinti ingatlanok hasznosítására.
 
+#### 7/B. Tartozáselengedés az OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. végelszámolásának megkezdése érdekében
+
+9/G. § Az Országgyűlés 2023. december 30-i hatállyal elengedi a 01-09-921266 cégjegyzékszámú OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. végelszámolásának megkezdése érdekében a 2018–2021. években az XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím terhére nyújtott támogatások visszatérítési kötelezettségéből adódó, a központi költségvetéssel szemben fennálló, összesen 274 832 454 forint tőkeösszegű tartozást és annak kamatait.
+
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 8. Hatályba léptető rendelkezések

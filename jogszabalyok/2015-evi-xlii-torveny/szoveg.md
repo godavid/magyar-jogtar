@@ -6355,9 +6355,9 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (2) A 284–289. § és a 11. melléklet 2016. július 1-jén lép hatályba.
 
-(3) A 369. § 2024. január 1-jén lép hatályba.
+(3) A 369. § 2025. január 1-jén lép hatályba.
 
-(4) A 370. § 2024. január 1-jén lép hatályba.
+(4) A 370. § 2025. január 1-jén lép hatályba.
 
 344. § (1) 2015. július 1. napjától folyamatosnak tekintendő e törvény szerinti szolgálati viszonya annak, aki 2015. június 30-án az 1996. évi XLIII. törvény alapján hivatásos szolgálati jogviszonyban állt.
 
@@ -6434,7 +6434,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A 139. § (2) bekezdésében meghatározott éves korlátot az e törvény hatálybalépéskor szolgálati viszonyban álló hivatásos állomány esetében a 2015. tárgyévre vonatkozóan alkalmazni kell, a 2015. évi teljesíthető túlszolgálat esetében a 2015. január 1. és 2015. június 30. között teljesített túlszolgálatot is figyelembe kell venni.
 
-(4) A 140. § (2) és (3) bekezdésétől eltérően 2023. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – választása alapján szabadidő vagy díjazás illeti meg. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
+(4) A 140. § (2) és (3) bekezdésétől eltérően 2024. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – választása alapján szabadidő vagy díjazás illeti meg. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
 
 (4a) A polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozásában az állományilletékes parancsnok szolgálati érdekből dönthet úgy, hogy egyes szolgálati beosztások esetében a teljesített túlszolgálat a (4) bekezdésben foglaltaktól eltérően csak díjazással vagy csak szabadidőben ellentételezhető.
 
