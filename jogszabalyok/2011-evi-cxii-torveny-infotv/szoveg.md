@@ -16,6 +16,8 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (2) Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1)–(2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, továbbá a 61/A–61/D. §-ban,, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében, a 75/A. §-ban és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
 
+(2a) Az (EU) 2022/868 európai parlamenti és tanácsi rendelet (a továbbiakban: adatkormányzási rendelet) rendelkezéseit a 34/B–E. alcímekben, az V. Fejezetben, valamint a 72. §-ban meghatározott kiegészítésekkel kell alkalmazni.
+
 (3) Személyes adatok bűnüldözési, nemzetbiztonsági és honvédelmi célú kezelésére e törvényt kell alkalmazni.
 
 (4) Személyes adatoknak a (2) és (3) bekezdés hatálya alá nem tartozó kezelésére
@@ -31,6 +33,8 @@ meghatározott rendelkezéseket kell alkalmazni.
 - b) ha az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye nem Magyarországon van, de az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési művelet
   - ba) áruknak vagy szolgáltatásoknak a Magyarországon tartózkodó érintettek számára történő nyújtásához kapcsolódik, függetlenül attól, hogy az érintettnek fizetnie kell-e azokért, vagy
   - bb) az érintett Magyarország területén belül tanúsított viselkedésének megfigyeléséhez kapcsolódik.
+
+(5a) Az adatkormányzási rendelet alkalmazása során a (2a) bekezdésben meghatározott rendelkezéseket – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha az adatkormányzási rendelet szerinti adatközvetítő szolgáltatónak vagy adataltruista szervezetnek az adatkormányzási rendelet 2. cikk 15. pontjában meghatározott tevékenységi központja Magyarországon van, vagy nem rendelkezik az Európai Unióban tevékenységi központtal és az adatkormányzási rendelet hatálya alá tartozó tevékenységet végez Magyarországon.
 
 (6) Nem kell alkalmazni e törvény rendelkezéseit a természetes személynek a kizárólag saját személyes céljait szolgáló adatkezeléseire.
 
@@ -692,7 +696,7 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (2) Az adatigénylésnek közérthető formában és – amennyiben ezt az adatot kezelő közfeladatot ellátó szerv aránytalan nehézség nélkül teljesíteni képes – az igénylő által kívánt formában, illetve módon kell eleget tenni. Ha a kért adatot korábban már elektronikus formában nyilvánosságra hozták, az igény teljesíthető az adatot tartalmazó nyilvános forrás megjelölésével is. Az adatigénylést nem lehet elutasítani arra való hivatkozással, hogy annak közérthető formában nem lehet eleget tenni.
 
-(3) Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 15 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet, és az abban foglaltakról minden évben január 31-éig tájékoztatja a Hatóságot.
+(3) Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 15 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet.
 
 (4) A közérdekű adat megismerése iránti igény teljesítése nem tagadható meg azért, mert a nem magyar anyanyelvű igénylő az igényét anyanyelvén vagy az általa értett más nyelven fogalmazza meg.
 

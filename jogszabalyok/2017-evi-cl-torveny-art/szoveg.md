@@ -1822,7 +1822,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - f) az Állami Számvevőszéket, a kormányzati ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az európai támogatásokat auditáló szervet, ha a tájékoztatás az ellenőrzéshez szükséges;
 - g) az adópolitikáért felelős minisztert, illetve az állami adó- és vámhatóságot irányító minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 - h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
-- i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, az irányító hatóságot, az alapok alapját végrehajtó szervezetet, valamint az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumot, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához, valamint az Európai Bizottság tájékoztatásához, illetve az Európai Unióval történő elszámoláshoz szükséges;
+- i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, a központi költségvetési támogatásról döntő szervet, az irányító hatóságot, az alapok alapját végrehajtó szervezetet, valamint az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumot, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához, valamint az Európai Bizottság tájékoztatásához, illetve az Európai Unióval történő elszámoláshoz szükséges;
 - j) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
 - k) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
 - l) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
@@ -2083,7 +2083,7 @@ A feltárt kockázat megszüntetése érdekében az adóhatóság
 
 #### 145. § [Utólagos adómegállapítás végelszámolás, illetve megszüntetés esetén]
 
-(1) A végelszámolás esetén benyújtandó tevékenységet záró adóbevallás, a végelszámoló által készített záró adóbevallás, a két bevallás közötti időszakról benyújtott bevallás ellenőrzése, valamint a tevékenységet lezáró adóbevallást megelőző időszakra vonatkozó ellenőrzés megállapításait tartalmazó jegyzőkönyvvel szemben észrevételnek nincs helye.
+(1) A végelszámolás esetén benyújtandó tevékenységet záró adóbevallás, a végelszámoló által készített záró adóbevallás, a két bevallás közötti időszakról benyújtott bevallás ellenőrzése, valamint a tevékenységet lezáró adóbevallást megelőző időszakra vonatkozó ellenőrzés megállapításait tartalmazó jegyzőkönyvvel szemben, annak átadását, kézbesítését követő nyolc napon belül lehet észrevételt tenni.
 
 (2) Az (1) bekezdésben meghatározott jegyzőkönyv alapján kiadandó határozat meghozatalára nyitva álló határidő harminc nap.
 
@@ -2216,7 +2216,7 @@ Ha az adózó vitatja a 150. § szerinti minősítését, a minősítéstől vag
 - a) szerepel a nagy összegű adóhiánnyal rendelkező adózók közzétételi listáján,
 - b) szerepel a nagy összegű adótartozással rendelkező adózók közzétételi listáján,
 - c) szerepel a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján,
-- d) egy éven belül az állami adó- és vámhatóság ismételt üzletlezárás intézkedést alkalmazott vele szemben,
+- d) az állami adó- és vámhatóság üzletlezárás intézkedést alkalmazott vele szemben,
 - e) kényszertörlési eljárás alatt áll,
 - f) a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó terhére megállapított összes adókülönbözet meghaladja az adózó tárgyévre megállapított adóteljesítményének hetven százalékát azzal, hogy az adózó terhére megállapított összes adókülönbözetet csökkenteni kell a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó javára megállapított összes adókülönbözettel,
 - g) a terhére az állami adó- és vámhatóság által kiszabott, a tárgyévet megelőző két évben esedékessé vált mulasztási bírság – ideértve a jövedéki bírságot is – összege meghaladja az adózó tárgyévre megállapított adóteljesítményének hetven százalékát,
@@ -3122,7 +3122,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 - a) be nem jelentett foglalkoztatottat foglalkoztat vagy foglalkoztatott,
 - b) igazolatlan eredetű árut forgalmaz,
-- c) az adóköteles tevékenység célját szolgáló ugyanazon helyiségében (műhely, üzlet, telep stb.) az első ellenőrzéstől számított egy éven belül második alkalommal mulasztotta el számla- vagy nyugtakibocsátási kötelezettségét, vagy
+- c) az adóköteles tevékenység célját szolgáló helyiségében (műhely, üzlet, telep stb.) elmulasztotta számla- vagy nyugtakibocsátási kötelezettségét, vagy
 - d) a pénztárgép kötelező használatával és üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
 
 (1a) Az (1) bekezdés a–c) pontjaiban meghatározott mulasztás ismételt előfordulása esetén a lezárás alkalmazása nem mellőzhető.
@@ -3736,7 +3736,11 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 
 #### 274/Q. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvényhez]
 
-E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény (a továbbiakban: Módtv.12.) által megállapított 114/B. § (2) bekezdését a tevékenységét a 2023-ban kezdődő adóévben kezdő személy azzal az eltéréssel alkalmazza, hogy a 114/B. § (2) bekezdésben meghatározott határidőt a rendelkezés hatálybalépésétől számítja.
+(1) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény (a továbbiakban: Módtv.12.) által megállapított 114/B. § (2) bekezdését a tevékenységét a 2023-ban kezdődő adóévben kezdő személy azzal az eltéréssel alkalmazza, hogy a 114/B. § (2) bekezdésben meghatározott határidőt a rendelkezés hatálybalépésétől számítja.
+
+(2) E törvénynek a Módtv.12. által megállapított 145. § (1) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+(3) E törvénynek a Módtv.12. által megállapított 245. § (1) bekezdés c) pontját a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
