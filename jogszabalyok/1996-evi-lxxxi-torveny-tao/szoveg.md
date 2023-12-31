@@ -182,6 +182,10 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - 23/d. kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikkei alapján megillető támogatás;
 - 23/e. kutatás-fejlesztési megállapodás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutatás-fejlesztési megállapodás;
 - 23/f. közfeladatot ellátó közérdekű vagyonkezelő alapítvány: közfeladatot ellátó közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
+- 23/g. kutató-fejlesztő: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutató-fejlesztő;
+- 23/h. alapkutatás: a 22/G. § alkalmazásában kísérleti vagy elméleti munka, amelyet elsősorban a jelenségek vagy megfigyelhető tények hátterével kapcsolatos új ismeretek megszerzésének érdekében folytatnak, anélkül, hogy kilátásba helyeznék azok közvetlen üzleti alkalmazását vagy felhasználását;
+- 23/i. alkalmazott (ipari) kutatás: a 22/G. § alkalmazásában tervezett kutatás vagy kritikus vizsgálat, amelynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez, vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez, amelyek lehetnek többek között digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (ideértve például a digitális iparágakat és technológiákat, továbbá komplex rendszerek összetevőinek létrehozását, és a prototípusok megépítését, valamint kísérleti sorozatok gyártását, amennyiben ez az alkalmazott kutatáshoz és különösen a generikus technológiák ellenőrzéséhez szükséges);
+- 23/j. kísérleti fejlesztés: a 22/G. § alkalmazásában a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, alakítása és felhasználása új vagy javított termékek, eljárások vagy szolgáltatások kidolgozása céljából, amelyek lehetnek digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (ideérve a digitális iparágakat és technológiákat, az új termékek, eljárások vagy szolgáltatások fogalmi meghatározását, megtervezését és dokumentálását célzó tevékenységeket, új vagy javított termékek, eljárások és szolgáltatások prototípusainak és kísérleti modelljeinek kidolgozását, illetve kiállítását, tesztelését és jóváhagyását, ha e tevékenységek elsődleges célja a véglegesnek még nem tekinthető termék, eljárás vagy szolgáltatás továbbfejlesztése; továbbá a kereskedelmileg felhasználható olyan prototípusok és kísérleti modellek kifejlesztését, amelyek kereskedelmi végterméknek minősülnek);
 - 24. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben ilyenként meghatározott vállalkozás, ideértve az említett törvényben előírt feltételeknek megfelelő ügyvédi irodát, végrehajtói irodát, szabadalmi ügyvivői irodát, és közjegyzői irodát is azzal, hogy kisvállalkozásnak minősül az említett törvény szerinti mikrovállalkozás is;
 - 24/a. munkahelyi óvoda: olyan óvodai nevelési ellátást nyújtó intézmény, amely az éves átlagos gyermeklétszámot figyelembe véve legalább 80 százalékban az adózó által foglalkoztatottak gyermekeinek az óvodai nevelését biztosítja;
 - 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely vármegyei, régiós vagy szakmai szövetségként működik;
@@ -392,7 +396,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - c) a jogdíjra jogosító immateriális jószág (a bejelentett immateriális jószág kivételével) értékesítéséből, nem pénzbeli vagyoni hozzájárulásként történő kivezetéséből származó nyereségnek az eredménytartalékból az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, figyelemmel a (16) és (22)–(25) bekezdésben foglaltakra,
   - cs) a terven felüli értékcsökkenés adóévben visszaírt összege, kivéve az 1. számú melléklet 10. pontja szerint az adóalapnál érvényesített vagy az 1. számú melléklet 10/a. pontja szerint az adóalapnál érvényesíthető terven felüli értékcsökkenés adóévben visszaírt összegét;
 - d) értékcsökkenési leírásként az 1. és 2. számú mellékletben foglalt előírások szerint az adóévre megállapított összeg, továbbá az immateriális jószág, a tárgyi eszköz állományból bármely jogcímen történő kivezetésekor – kivéve, ha az kedvezményezett eszközátruházás miatt következik be, és teljesülnek a 16. § (13)–(15) bekezdésében előírt feltételek –, a forgóeszközök közé való átsorolásakor, valamint egyszeres könyvvitelt vezetőnél az eszközhöz kapcsolódó kötelezettség részleges vagy teljes elengedésekor, átvállalásakor az eszköz számított nyilvántartási értékének a készletre vett hulladékanyag, haszonanyag értékét meghaladó része, feltéve minden esetben, hogy az eszköz értékcsökkenését az adózó a számvitelről szóló törvény szerint az adózás előtti eredmény terhére számolta el,
-- dz) a bejelentett részesedés értékesítésének, nem pénzbeli vagyoni hozzájárulásként történő kivezetésének adóévi árfolyamnyeresége (csökkentve mindkét esetben az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítással), feltéve, hogy a részesedést az adózó (ideértve jogelődjét is) az értékesítését megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván (az átalakulás, egyesülés, szétválás miatti kivezetés nem minősül a folyamatos tartás megszakításának), továbbá a bejelentett részesedésre az adóévben visszaírt értékvesztés,
+- dz) a bejelentett részesedés (ideértve a bejelentett részesedés nyilvántartásba vételétől számított egy éven belüli könyvekből történő részbeni kivezetése esetén a részbeni kivezetés után megmaradó részesedést) értékesítésének, nem pénzbeli vagyoni hozzájárulásként történő kivezetésének adóévi árfolyamnyeresége (csökkentve mindkét esetben az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítással), feltéve, hogy a részesedést az adózó (ideértve jogelődjét is) az értékesítését megelőzően legalább egy éven át folyamatosan eszközei között tartotta nyilván (az átalakulás, egyesülés, szétválás miatti kivezetés nem minősül a folyamatos tartás megszakításának), továbbá a bejelentett részesedésre az adóévben visszaírt értékvesztés,
 - dzs) az adózó
 - a) döntése szerint, a fedezeti ügylettel nem fedezett, külföldi pénzértékre szóló befektetett pénzügyi eszköz értékének növekedéseként, illetve a hosszúlejáratú kötelezettség értékének csökkenéseként a mérlegfordulónapi értékeléskor a devizaárfolyam változása alapján eszközönként, kötelezettségenként elszámolt összeg,
 - b) az eszköznek (kivéve a bejelentett részesedést) a befektetett pénzügyi eszközök közül történő kikerülésekor (ideértve az értékvesztés elszámolását is), a kötelezettségnek a könyvekből történő kikerülésekor a megelőző adóévekben a 8. § (1) bekezdés dzs) pont a) alpontja alapján adózás előtti eredmény növeléseként elszámolt összeggel, részbeni kikerülése esetén a külföldi pénzértékben kimutatott könyv szerinti érték csökkenésének a megelőző adóév utolsó napján kimutatott könyv szerinti értékkel arányosan számított összeggel, azzal, hogy e rendelkezést valamennyi olyan értékelt eszközre, kötelezettségre alkalmazni kell, amelyeknek az árfolyam különbözetét bevételként el kell számolni,
@@ -1080,7 +1084,7 @@ elszámolt összeg még nem ellentételezte.
 
 - a) a helyi iparűzési adó és az innovációs járulék tényleges nyereségadó-ráfordításként elszámolt adóévi összege,
 - b) a 22. § (1) bekezdése, a 22/C. § (2) bekezdése szerint az arra jogosult szervezet részére juttatott támogatás nyereségadó-ráfordításként elszámolt adóévi összege (ide nem értve a kiegészítő támogatás, kiegészítő sportfejlesztési támogatás összegét),
-- c) a fejlesztési adókedvezménynek az adózás előtti eredmény javára elszámolt adóévi összege,
+- c) a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének és a kutatás-fejlesztési tevékenység adókedvezményének az adózás előtti eredmény javára elszámolt adóévi összege,
 - d)
 - e) a saját részvény, a saját üzletrész értékesítésekor, nem pénzbeli hozzájárulásként történő kivezetésekor közvetlenül a saját tőke adóévi csökkenéseként elszámolt veszteség összege,
 - f) a (2) bekezdés e) pontja alapján a korábbi adóév(ek)ben az adózás előtti eredményt növelő tételként figyelembe vett összegből az adózás előtti eredmény javára elszámolt adóévi összeg,
@@ -1093,7 +1097,7 @@ elszámolt összeg még nem ellentételezte.
 
 (2) A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét növeli:
 
-- a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a társasági adónak a 18/D. § (7) és (8) bekezdésében foglaltak miatt, továbbá a fejlesztési adókedvezménynek az adózás előtti eredmény terhére elszámolt adóévi összege,
+- a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a társasági adónak a 18/D. § (7) és (8) bekezdésében foglaltak miatt, továbbá a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének és a kutatás-fejlesztési tevékenység adókedvezményének az adózás előtti eredmény terhére elszámolt adóévi összege,
 - b)
 - c) a saját részvény, a saját üzletrész értékesítésekor, nem pénzbeli hozzájárulásként történő kivezetésekor közvetlenül a saját tőke adóévi növekedéseként elszámolt nyereség összege,
 - d) az az összeg,
@@ -1201,7 +1205,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 
 (20) A 18/A. § (1) bekezdése szerinti adózó nem jogosult csökkenteni a korrigált adózás előtti eredményt a 7. § (1) bekezdés t) pontja és a 7. § (17)–(18) bekezdései alapján a számvitelről szóló törvény III. fejezete szerinti beszámolóról (könyvvezetésről) az IFRS-ek szerinti beszámolóra (könyvvezetésre) történő áttérés következtében (kizárólag az áttérés miatt) elszámolt alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költségével, vagy az áttérés következtében (kizárólag az áttérés miatt) nyilvántartásba vett kísérleti fejlesztés aktivált értékével (szellemi termékkel).
 
-(21)
+(21) A 18/A. § (1) bekezdése szerinti adózó nem jogosult a 22/G. §-ban foglalt adókedvezményre a számvitelről szóló törvény III. Fejezete szerinti beszámolóról (könyvvezetésről) az IFRS-ek szerinti beszámolóra (könyvvezetésre) történő áttérés következtében, kizárólag az áttérés miatt elszámolt alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költségére vonatkozóan.
 
 (22) Amennyiben a 18/A. § (1) bekezdése szerinti tag (részvényes, üzletrész-tulajdonos) olyan jegyzett tőke tőkekivonás útján történő leszállítást hajt végre, amelyet az IFRS-ek szerint nem részesedés kivezetésként (részbeni kivezetésként) mutat ki, de a számvitelről szóló törvény szerint részesedés kivezetésként (részbeni kivezetésként) mutatna ki, akkor erre a leszállításra vonatkozóan (ideértve a leszállításból eredően a részesedésre elszámolt értékvesztést is) a társasági adóalapját külön nyilvántartás alapján úgy határozza meg, mintha ezt a leszállítást a számvitelről szóló törvény szerint számolta volna el.
 
@@ -1708,13 +1712,72 @@ megfelelő mértéket, de legfeljebb a 30 millió eurónak megfelelő forintöss
 
 (4) Az (1) bekezdés szerinti adókedvezmény az adóévben igénybe vett, csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
+### Kutatás-fejlesztési tevékenység adókedvezménye
+
+22/G. § (1) Az adózó a 7. § (1) bekezdés t) és w) pontja szerinti kedvezmény alkalmazása helyett – választása szerint – a 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés tevékenységére tekintettel kutatás-fejlesztési projektenként adókedvezményt vehet igénybe az elszámolható költség felmerülésének adóévében és az azt követő három adóévben.
+
+(2) Az (1) bekezdés szerinti választás az adózónál a 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés öt egymást követő adóévben felmerülő elszámolható költségei összességére vonatkozik.
+
+(3) Az (1) bekezdés szerinti választást a választással érintett első adóévről szóló éves adóbevallásban kell bejelenteni az állami adó- és vámhatóság részére. Az (1) bekezdés szerinti választás megváltoztatására legkorábban a választással érintett első adóévet követő hatodik adóévtől van lehetőség, amelyet az adóévről szóló adóbevallásban be kell jelenteni az állami adó- és vámhatóság részére.
+
+(4) Az adózó az e § szerinti adókedvezményt az elszámolható költség keletkezésének sorrendjében érvényesíti. Az adózó adóévenként a (6) bekezdésben meghatározott, az adóévben rendelkezésre álló teljes összeget, de legfeljebb az adóévi számított adó összegét érvényesítheti adókedvezményként.
+
+(5) Az elszámolható költség felmerülésének adóévében és az azt követő három adóévben adócsökkentésként fel nem használt adókedvezményre vonatkozóan az adózó átutalással teljesítendő megtérítésre jogosult. A megtérítési jogosultságot az adózó a felmerülés adóévét követő harmadik adóévről szóló éves társasági adóbevallásában feltünteti, amely alapján az állami adó- és vámhatóság automatikusan, legkésőbb a bevallás benyújtása adóévének utolsó napjáig teljesíti a kiutalást. A kiutalás feltétele, hogy az adózónak a kiutaláskor az állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása ne haladja meg a százezer forintot.
+
+(6) Az adókedvezmény mértéke – a (7) bekezdésben foglaltakra is figyelemmel –
+
+- a) – a b) pontban foglalt eset kivételével – az elszámolható költség 10 százaléka,
+- b) a felsőoktatási intézmény, a Magyar Tudományos Akadémia, a központi költségvetési szervként működő kutatóintézet, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely, valamint a közvetlenül vagy közvetve többségi állami tulajdonban lévő gazdasági társaság formájában működő kutatóintézet és az adózó által írásban kötött szerződés alapján közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén 500 millió forint.
+
+(7) Az adókedvezmény mértéke nem haladhatja meg adózónként és projektenként
+
+- a) az 55 millió eurónak megfelelő forintösszeget, ha az adózó saját tevékenységi körében végzett tevékenység a 4. § 23/h. pontja szerinti alapkutatásnak minősül,
+- b) a 35 millió eurónak megfelelő forintösszeget, ha az adózó saját tevékenységi körében végzett tevékenység a 4. § 23/i. pontja szerinti alkalmazott (ipari) kutatásnak minősül,
+- c) a 25 millió eurónak megfelelő forintösszeget, ha az adózó saját tevékenységi körében végzett tevékenység a 4. § 23/j. pontja szerinti kísérleti fejlesztésnek minősül.
+
+(8) E § alkalmazásában – a (9) bekezdésben foglaltakra is figyelemmel – elszámolható költségnek minősül 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés közvetlen költsége közül
+
+- a) a kutató-fejlesztő által használt tárgyi eszköz kutatás-fejlesztési projekt idejére számított számviteli értékcsökkenése,
+- b) a kutató-fejlesztőre vonatkozóan elszámolt személyi jellegű ráfordítás a kutató-fejlesztőnek a kutatás-fejlesztési projektben való foglalkoztatása mértékéig, kivéve a kutatás-fejlesztési tevékenységhez közvetetten kapcsolódó ráfordítás (ideértve többek között a reprezentációt, a végkielégítést, a felmentési időre járó bért és ezek járulékait),
+- c) a kutatás-fejlesztési tevékenységhez felhasznált szabadalom költsége, ráfordítása,
+- d) működési és üzemeltetési költségek, ráfordítások, amelyek közvetlenül a kutatás-fejlesztési projekt folyamán merülnek fel,
+- e) a kapcsolt vállalkozásnak nem minősülő személytől közvetlenül vagy közvetve igénybe vett kutatási és kísérleti fejlesztési szolgáltatás ellenértéke alapján elszámolt közvetlen költség, ráfordítás az e pont szerinti költséget, ráfordítást nem tartalmazó elszámolható költség összegének 20 százaléka, amelyből a kapcsolt vállalkozásnak minősülő személytől közvetlenül vagy közvetve igénybe vett kutatási és kísérleti fejlesztési szolgáltatás ellenértéke alapján elszámolt közvetlen költség, ráfordítás legfeljebb annak 10 százaléka lehet, azzal, hogy a szolgáltatást nyújtó a megrendelőnek legkésőbb a megrendelő adóbevallása benyújtásáig nyilatkozik arról, hogy a közvetlenül vagy közvetve igénybe vett kutatási és kísérleti fejlesztési szolgáltatás adókedvezményben vagy más – állami forrás terhére járó – támogatásban nem részesül, azzal hogy e nyilatkozat valóságtartalmáért és teljesüléséért a megrendelő és a szolgáltatás nyújtója egyetemlegesen felel.
+
+(9) Nem minősül elszámolható költségnek
+
+- a) a fejlesztés céljára vagy a tevékenység költségei (ráfordításai) ellentételezésére a mérlegkészítés napjáig az adó- és vámhatóságtól igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás összege, és
+- b) a 3. számú melléklet A) rész 15. pontja alapján nem az adózó vállalkozási tevékenysége érdekében felmerült közvetlen költség, ráfordítás.
+
+(10) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az az adózó és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+
+(11) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság, a szabályozott ingatlanbefektetési projekttársaság és az MRP nem veheti igénybe az e § szerinti adókedvezményt.
+
+(12) Ugyanazon elszámolható költségre vonatkozóan az e § szerinti adókedvezmény együttesen nem alkalmazható az e törvény szerinti más adókedvezménnyel.
+
+(13) Ugyanazon adóévre vonatkozóan az e § szerinti adókedvezmény együttesen nem alkalmazható a 7. § (1) bekezdés t) és w) pontja szerinti adóalap-csökkentő tétellel.
+
+(14) Az e § szerinti adókedvezmény igénybevételének adóéveiben az adózó éves adóbevallásában évenkénti bontásban adatot szolgáltat
+
+- a) az adóévi elszámolható költségről,
+- b) az adóévben újonnan keletkezett adókedvezmény összegéről, továbbá
+- c) a korábban keletkezett adókedvezményi összeg terhére történő adóévi felhasználás összegéről.
+
+(15) Nem vehető igénybe adókedvezmény,
+
+- a) ha az adózó nehéz helyzetben lévő társaság,
+- b) ha az adózóval szemben teljesítetlen visszafizetési felszólítás van érvényben olyan európai bizottsági határozat eredményeként, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított,
+- c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny adózó esetén
+  - ca) ha a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
+  - cb) ha a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+- d) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
+
 ### Az adókedvezmények igénybevételének szabályai
 
 23. § (1)
 
-(2) A számított társasági adóból – legfeljebb annak 80 százalékáig – érvényesíthető a 22/B. § alapján fejlesztési adókedvezmény.
+(2) A számított társasági adó 22/G. § szerinti kutatás-fejlesztési adókedvezménnyel csökkentett összegéből – legfeljebb a csökkentett összeg 80 százalékáig – érvényesíthető a 22/B. § alapján fejlesztési adókedvezmény.
 
-(3) A (2) bekezdés szerint igénybe vett adókedvezménnyel csökkentett adóból – legfeljebb annak 70 százalékáig – érvényesíthető minden más adókedvezmény.
+(3) A (2) bekezdés szerint igénybe vett adókedvezményekkel csökkentett adóból – legfeljebb annak 70 százalékáig – érvényesíthető minden más adókedvezmény.
 
 (4) Az adókedvezmény adóvisszatartás formájában vehető igénybe.
 
@@ -1734,9 +1797,9 @@ megfelelő mértéket, de legfeljebb a 30 millió eurónak megfelelő forintöss
 
 (11) A csoportos társasági adóalany adókedvezményre történő jogszerzés és az adókedvezmény érvényesítése érdekében szükséges jognyilatkozatát, továbbá a 22/C. § szerinti adókedvezményhez tartozó bejelentést a csoportos társasági adóalany esetében kizárólag a csoportképviselő teheti meg.
 
-(12) A (2) bekezdéstől eltérően a csoportos társasági adóalany a jogosult csoporttagra a pozitív adóalapja arányában jutó számított adóból érvényesíti a 22/B. § alapján a fejlesztési adókedvezményt, legfeljebb a jogosult csoporttagra jutó számított adó 80 százalékáig.
+(12) A (2) bekezdéstől eltérően a csoportos társasági adóalany a jogosult csoporttagra a pozitív adóalapja arányában jutó számított adó 22/G. § szerinti kutatás-fejlesztési adókedvezménnyel csökkentett összegéből érvényesíti a 22/B. § alapján a fejlesztési adókedvezményt, legfeljebb a jogosult csoporttagra jutó csökkentett számított adó 80 százalékáig.
 
-(13) A (3) bekezdéstől eltérően a csoportos társasági adóalany a (12) bekezdés szerint igénybe vett adókedvezménnyel csökkentett számított adóból érvényesíti a 22/E. § alapján az energiahatékonysági beruházás, felújítás adókedvezményét, legfeljebb a jogosult csoporttagra jutó, a (12) bekezdés szerint megállapított összeg 70 százalékáig.
+(13) A (3) bekezdéstől eltérően a csoportos társasági adóalany a (12) bekezdés szerint igénybe vett adókedvezményekkel csökkentett számított adóból érvényesíti a 22/E. § alapján az energiahatékonysági beruházás, felújítás adókedvezményét, legfeljebb a jogosult csoporttagra jutó, a (12) bekezdés szerint megállapított összeg 70 százalékáig.
 
 (14) A (3) bekezdéstől eltérően a csoportos társasági adóalany a (12) és (13) bekezdés szerint igénybe vett adókedvezménnyel csökkentett egyedi számított adók összegéből – legfeljebb annak 70 százalékáig – érvényesíthet minden más, a (12)–(13) bekezdésben nem említett adókedvezményt.
 
@@ -2278,6 +2341,18 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (117) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 18/b. pontját a hatálybalépését követően értékesített, kivezetett részesedésre kell alkalmazni.
 
+(118) A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 22/G. § szerinti adókedvezmény az adózó választása szerint első alkalommal a 2024. adóévi elszámolható költségre alkalmazható.
+
+(119) Az adózó a 2023. december 31. napját megelőző napon bejelentett részesedésnek nem minősülő részesedését a 2023. adóévre vonatkozó éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig utólag bejelentheti az állami adó- és vámhatóságnak feltéve, hogy a részesedés a bejelentéskor megfelel a 4. § 5. pontjában foglalt rendelkezésnek. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(120) A (119) bekezdés szerinti választás esetén az adózó a részesedés független felek által alkalmazandó piaci értéke és könyv szerinti értéke 2023. december 31-én fennálló nyereségjellegű különbözetének 20 százaléka, mint adóalap után a 19. §-ban meghatározott adómértékkel számított adót az éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig bevallja és megfizeti. Az e bekezdés szerinti adóalap és adó terhére csökkentés nem érvényesíthető.
+
+(121) Az adózónak a (120) bekezdés szerinti bevallása benyújtásakor rendelkeznie kell független könyvvizsgáló vagy a részesedés értékeléséhez szükséges szakértelemmel rendelkező szakértő jelentésével, amely alátámasztja a részesedés független felek által alkalmazandó piaci értékét.
+
+(122) A (119) bekezdés szerint bejelentett részesedésekkel kapcsolatos társasági adóalap meghatározása során a későbbiekben úgy kell eljárni figyelemmel a (120) bekezdés alapján már leadózott összegre, mintha a részesedés szerzési (bekerülési) értéke a részesedés független felek által alkalmazandó 2023. december 31-én fennálló piaci értéke lenne.
+
+(123) A (119)–(122) bekezdésben foglaltak alátámasztása céljából az adózó külön nyilvántartást vezet.
+
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
 (2) A befizetést teljesítő adózó a visszajáró összeget első alkalommal a 2017. évi adókötelezettsége megállapítása során – az adókötelezettséget csökkentő tételként – veszi figyelembe az (1) bekezdés szerinti adónemekben. Az adózó a csökkentést elsőként a 2017. első negyedévére vonatkozó pénzügyi szervezetek különadója kötelezettség vonatkozásában, majd pedig az (1) bekezdés szerinti adónemekre vonatkozó adófizetési kötelezettség felmerülésének sorrendjében veszi figyelembe.
@@ -2647,6 +2722,8 @@ az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 55. 
 30/J. § A 3. számú melléklet B) rész 9. pontjának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 30/K. § A 4. § 25a. pontja, a 22/B. § (1) bekezdés k) pontja és (20)–(35) bekezdése szerint igénybe vett támogatás a Válságközlemény 2.8. szakaszának szabályaival és a támogatási programot jóváhagyó határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatásnak minősül.
+
+30/L. § E törvény 4. § 23/g–23/j. pontjai és 22/G. §-a a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I. és II. Fejezete, valamint 25. cikke hatálya alá tartozó, kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
 
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 

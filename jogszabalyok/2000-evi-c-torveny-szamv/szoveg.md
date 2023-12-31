@@ -221,6 +221,22 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (15) E törvény alkalmazásában közérdeklődésre számot tartó gazdálkodó: a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 2. § 19. pontjában meghatározott fogalom.
 
+(16) E törvény alkalmazásában:
+
+- 1. halasztott adókövetelés számított értéke:
+  - a) az adózás előtti eredmény csökkentéseként elszámolt, a nyereségadó alapját a következő üzleti év(ek)ben csökkentő tételek mérlegfordulónapi adókulccsal számított adóhatása,
+  - b) a nyereségadó alapjának növeléseként már elszámolt, az adózás előtti eredmény növeléseként a következő üzleti év(ek)ben elszámolandó tételek mérlegfordulónapi adókulccsal számított adóhatása,
+  - c) amennyiben egy eszköz vagy kötelezettség állományba vételkori bekerülési értéke és a nyereségadó törvény által elfogadott értéke eltért, azon (fennmaradó) különbözet mérlegfordulónapi adókulccsal számított adóhatása, amely különbözettel a következő üzleti év(ek) nyereségadó alapját kell csökkenteni,
+  - d) a mérlegfordulónapon meglévő (a következő üzleti évek pozitív nyereségadó alapjával szemben csökkentő tételként felhasználható) elhatárolt veszteség mérlegfordulónapi adókulccsal számított adóhatása, továbbá
+  - e) a következő üzleti év(ek)ben a nyereségadóból érvényesíthető adókedvezmények összege olyan mértékig, amilyen mértékben az adókedvezmény igénybevételének előírt feltételei a mérlegfordulónapon már teljesültek;
+- 2. halasztott adókötelezettség számított értéke:
+  - a) az adózás előtti eredmény növeléseként elszámolt, a nyereségadó alapját a következő üzleti év(ek)ben növelő tételek mérlegfordulónapi adókulccsal számított adóhatása,
+  - b) a nyereségadó alapjának csökkenéseként már elszámolt, az adózás előtti eredmény csökkenéseként a következő üzleti év(ek)ben elszámolandó tételek mérlegfordulónapi adókulccsal számított adóhatása, továbbá
+  - c) amennyiben egy eszköz vagy kötelezettség állományba vételkori bekerülési értéke és a nyereségadó törvény által elfogadott értéke eltért, azon (fennmaradó) különbözet mérlegfordulónapi adókulccsal számított adóhatása, amely különbözettel a következő üzleti év(ek) nyereségadó alapját kell növelni;
+- 3. nyereségadó: a társasági adó, valamint az annak megfelelő, az adózás előtti eredményt terhelő adó;
+- 4. mérlegfordulónapi adókulcs: az az adókulcs, amely mérlegfordulónapon kihirdetett és vonatkozni fog arra a következő üzleti év(ek)re, amely(ek)ben a halasztott adókövetelés vagy halasztott adókötelezettség realizálódik;
+- 5. halasztott adókövetelés, halasztott adókötelezettség könyv szerinti értéke: a halasztott adókövetelés számított értékéből az az összeg, amely várhatóan realizálódik a későbbi üzleti év(ek)ben, a halasztott adókötelezettség esetében a könyv szerinti érték megegyezik a halasztott adókötelezettség számított értékével.
+
 ### II. Fejezet — BESZÁMOLÁS ÉS KÖNYVVEZETÉS
 
 ### Beszámolási kötelezettség
@@ -784,6 +800,10 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 
 (7) Amennyiben a vállalkozó veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.
 
+(8) A halasztott adó alkalmazásának első üzleti évében a halasztott adókövetelés és a halasztott adókötelezettség nyitó könyv szerinti értékét az eredménytartalékkal szemben kell állományba venni, míg a halasztott adó alkalmazásának megszüntetésekor a megszüntetés üzleti évének nyitó könyv szerinti értékét az eredménytartalékkal szemben kell kivezetni.
+
+(9) A 3. § (16) bekezdés 1. pont c) alpontja szerinti halasztott adókövetelésnek és a 3. § (16) bekezdés 2. pont c) alpontja szerinti halasztott adókötelezettségnek az eszköz vagy kötelezettség állományba vételével egyidejűleg megállapított nyitó értékét az eredménytartalékkal szemben kell állományba venni.
+
 38. § (1) A lekötött tartalék a tőketartalékból, illetve az eredménytartalékból lekötött összegeket és a kapott pótbefizetés összegét foglalja magában.
 
 (2) A tőketartalékból kell lekötni és a lekötött tartalékba átvezetni:
@@ -796,7 +816,7 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 (3) Az eredménytartalékból kell lekötni és a lekötött tartalékba átvezetni:
 
 - a) a visszavásárolt saját részvények, saját üzletrészek, továbbá a visszaváltható részvények könyv szerinti értékét,
-- b)
+- b) a halasztott adókövetelés mérleg szerinti értékét,
 - c) az alapítás-átszervezés aktivált értékéből, továbbá a kísérleti fejlesztés aktivált értékéből még le nem írt összeget,
 - d) a 33. § (2) bekezdése szerinti nem realizált árfolyamveszteség és a 41. § (4) bekezdése szerinti céltartalék különbözetének összegét,
 - e) a (2) bekezdés szerinti lekötendő tőketartalékot, ha arra a tőketartalék nem nyújt fedezetet,
@@ -967,6 +987,8 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 (5) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni a vállalkozó valamely befektetett eszköze tartós használati, üzemeltetési, kezelési jogának átengedéséért kapott bevételt. A halasztott bevételt az alapul szolgáló szerződésben, megállapodásban meghatározott időtartam alatt, határozatlan idejű szerződés esetén öt év vagy ennél hosszabb idő alatt lehet megszüntetni. Amennyiben a vállalkozó öt évnél hosszabb idő alatt szünteti meg a halasztott bevételt, azt a kiegészítő mellékletben indokolni kell.
 
 (6) Passzív időbeli elhatárolásként kell kimutatni a kölcsönbeadott értékpapír – felhalmozott kamattal csökkentett – kölcsönszerződés szerinti értékének a könyv szerinti értékét meghaladó összegét (nyereségét). Az időbeli elhatárolást akkor kell megszüntetni, amikor a kölcsönbevevő által visszaszolgáltatott értékpapír eladásra, beváltásra, illetve egyéb ügylet keretében az állományból véglegesen kivezetésre kerül, vagy a kölcsönbevevő megtéríti annak piaci értékét, mert az értékpapír nem kerül visszaszolgáltatásra.
+
+45/A. § A vállalkozó saját döntése alapján a mérlegben kimutathatja a 3. § (16) bekezdés 5. pontja szerinti halasztott adókövetelést és halasztott adókötelezettséget. A halasztott adókövetelést a befektetett eszközök, a halasztott adókötelezettséget a hosszú lejáratú kötelezettségek között kell kimutatni, azonos adóhatósággal szemben fennálló halasztott adókövetelés és halasztott adókötelezettség esetén összevontan (nettó módon), előjelétől függően eszközként vagy kötelezettségként. Amennyiben a vállalkozó alkalmazza e rendelkezést, akkor a halasztott adókövetelést és a halasztott adókötelezettséget is ki kell mutatnia.
 
 ### A mérlegtételek értékelésének általános szabályai
 
@@ -1887,9 +1909,11 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 
 87. § (1) Az adózás előtti eredmény az üzemi (üzleti) tevékenység eredménye és a pénzügyi műveletek eredményének együttes összege.
 
-(2) Adófizetési kötelezettségként kell kimutatni az üzleti év adózás előtti eredményét terhelő adó (ideértve különösen a társasági adót, az abba beszámítható külföldi adót, valamint az olyan külföldi adót, amelynek alapjául szolgáló jövedelem nemzetközi szerződés rendelkezése alapján mentes a társasági adó alól), a kisvállalati adó megállapított (bevallott, kivetett) összegét.
+(2) Adófizetési kötelezettségként kell kimutatni az üzleti év adózás előtti eredményét terhelő adó (ideértve különösen a társasági adót, az abba beszámítható külföldi adót, valamint az olyan külföldi adót, amelynek alapjául szolgáló jövedelem nemzetközi szerződés rendelkezése alapján mentes a társasági adó alól), a kisvállalati adó, a globális minimum-adószintet biztosító kiegészítő adó megállapított (bevallott, kivetett) összegét.
 
-(3) Az adózott eredmény az adózás előtti eredmény és az adófizetési kötelezettség különbözetével egyezik meg.
+(2a) A vállalkozó halasztott adókülönbözetként mutatja ki a 3. § (16) bekezdés 5. pontja szerinti tárgyévben keletkező halasztott adókövetelést és halasztott adókötelezettséget [a 37. § (8) és (9) bekezdése szerint elszámoltak kivételével], valamint a már kimutatott halasztott adókövetelés és halasztott adókötelezettség könyv szerinti értékének tárgyévi változását.
+
+(3) Az adózott eredmény az adózás előtti eredmény és az adófizetési kötelezettség, valamint a halasztott adókülönbözet tárgyévi változásának különbözetével egyezik meg.
 
 (4)
 
@@ -2007,7 +2031,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 - a) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai állományi létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
 - b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény-típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), a kibocsátott átváltoztatható és átváltozó kötvények számát és névértékét, továbbá az opciós utalvány, opció, illetve hasonló értékpapír vagy jog meglétét, jelezve azok számát és a hozzájuk kapcsolódó jogokat;
-- c) azokat az összegeket, amelyek az értékelés következtében a társasági adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
+- c) azokat az összegeket, amelyek az értékelés következtében a társasági adó, a kisvállalati adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
 - d) azon egyéb bevételek és egyéb ráfordítások, illetve pénzügyi műveletek bevételei és ráfordításai tételeinek társasági adóra gyakorolt számszerűsített hatását, amelyek jelentős összegűek;
 - e) összeghatártól függetlenül azokat a tételeket, amelyek tőkeműveletekhez, illetve átalakuláshoz, egyesüléshez, szétváláshoz kapcsolódnak.
 
@@ -2024,6 +2048,14 @@ a jelentősebb összegeit, azok időbeli alakulását.
 értékelése kapcsán elszámolt értékvesztés nyitó értékét, tárgyévi növekedését, tárgyévi csökkenését, a visszaírt értékvesztés összegét, az értékvesztés záró értékét legalább mérlegtételek szerinti bontásban, illetve értékpapírtípusonként azok értékesítése, beváltása, törlesztése kapcsán az egymással szemben (nettó módon) elszámolt ráfordítások, illetve bevételek bruttó összegeit.
 
 (4) A kiegészítő mellékletben be kell mutatni üzletág értékesítés esetén az értékesítés miatt kivezetett eszközök és az átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értékét mérlegtételek szerinti megbontásban.
+
+(5) A kiegészítő mellékletben be kell mutatni a halasztott adókövetelések és a halasztott adókötelezettségek jelentős tételeit jogcímenkénti megbontásban a következők szerint:
+
+- a) nyitó könyv szerinti és számított érték,
+- b) tárgyévben keletkezett halasztott adó tételek könyv szerinti és számított értéke,
+- c) felhasználásból eredő tárgyévi csökkenés,
+- d) az üzleti várakozások, az adókulcs és az adózási környezet változásából eredő tárgyévi változások, és
+- e) tárgyévi záró könyv szerinti és számított érték.
 
 93. § (1) A kiegészítő mellékletnek tartalmaznia kell:
 
@@ -2806,7 +2838,9 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 kimutatása
 
-132. § Ha az összevont (konszolidált) éves beszámoló alapján számított éves adózás előtti eredmény – az összevonás következtében – alacsonyabb vagy magasabb, mint a konszolidálásba bevont vállalkozások adózás előtti eredményeinek együttes összege, úgy a konszolidálásba bevont vállalkozások szerint és az összevont (konszolidált) eredménykimutatás szerint fizetendő adó különbözetéből azt az összeget, ami a konszolidálásba bevont vállalkozások ki nem gazdálkodott negatív adóalapjából, továbbá a megelőző üzleti évek, a tárgyév konszolidálási intézkedéseiből származik és várhatóan kiegyenlítődik a későbbi üzleti években, konszolidálás miatti társasági adó-különbözetként ki kell mutatni. Amennyiben a konszolidálásba bevont vállalkozások eredménykimutatásai szerint fizetendő adó több, mint az összevont (konszolidált) eredménykimutatás szerint fizetendő adó, akkor a különbözetet áthúzódó adókövetelésként, fordított esetben a különbözetet áthúzódó adótartozásként kell az összevont (konszolidált) mérlegben elkülönítetten kimutatni. Az összevont (konszolidált) eredménykimutatásban az adó-különbözetet külön soron (elkülönített tételként) – mint konszolidálásból adódó (számított) társasági adó-különbözetet – kell szerepeltetni.
+132. § (1) Ha az összevont (konszolidált) éves beszámoló alapján számított éves adózás előtti eredmény – az összevonás következtében – alacsonyabb vagy magasabb, mint a konszolidálásba bevont vállalkozások adózás előtti eredményeinek együttes összege, úgy a konszolidálásba bevont vállalkozások szerint és az összevont (konszolidált) eredménykimutatás szerint fizetendő adó különbözetéből azt az összeget, ami a konszolidálásba bevont vállalkozások ki nem gazdálkodott negatív adóalapjából, továbbá a megelőző üzleti évek, a tárgyév konszolidálási intézkedéseiből származik és várhatóan kiegyenlítődik a későbbi üzleti években, konszolidálás miatti társasági adó-különbözetként ki kell mutatni. Amennyiben a konszolidálásba bevont vállalkozások eredménykimutatásai szerint fizetendő adó több, mint az összevont (konszolidált) eredménykimutatás szerint fizetendő adó, akkor a különbözetet áthúzódó adókövetelésként, fordított esetben a különbözetet áthúzódó adótartozásként kell az összevont (konszolidált) mérlegben elkülönítetten kimutatni. Az összevont (konszolidált) eredménykimutatásban az adó-különbözetet külön soron (elkülönített tételként) – mint konszolidálásból adódó (számított) társasági adó-különbözetet – kell szerepeltetni.
+
+(2) Amennyiben az összevont (konszolidált) éves beszámolóban alkalmazzák a halasztott adó kimutatását, halasztott adókövetelésként és halasztott adókötelezettségként csak az (1) bekezdés alapján meg nem jelenített tételeket lehet kimutatni.
 
 ### Összevont (konszolidált) kiegészítő melléklet
 
@@ -4088,6 +4122,10 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (91) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 134/G. § (3a) bekezdését először a 2024. június 22-én vagy azt követően induló üzleti évről készített beszámolóra kell alkalmazni.
 
+(94) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(95) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 ### Felhatalmazás
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:
@@ -4175,6 +4213,8 @@ III. Befektetett pénzügyi eszközök
 9. Befektetett pénzügyi eszközök értékhelyesbítése
 
 10. Befektetett pénzügyi eszközök értékelési különbözete
+
+IV. Halasztott adókövetelés
 
 B. Forgóeszközök
 
@@ -4304,6 +4344,8 @@ II. Hosszú lejáratú kötelezettségek
 
 9. Egyéb hosszú lejáratú kötelezettségek
 
+10. Halasztott adókötelezettség
+
 III. Rövid lejáratú kötelezettségek
 
 1. Rövid lejáratú kölcsönök
@@ -4397,6 +4439,8 @@ III. Befektetett pénzügyi eszközök
 9. Befektetett pénzügyi eszközök értékhelyesbítése
 
 10. Befektetett pénzügyi eszközök értékelési különbözete
+
+IV. Halasztott adókövetelés
 
 B. Forgóeszközök
 
@@ -4524,6 +4568,8 @@ I. Hosszú lejáratú kötelezettségek
 
 9. Egyéb hosszú lejáratú kötelezettségek
 
+10. Halasztott adókötelezettség
+
 II. Hátrasorolt kötelezettségek
 
 1. Hátrasorolt kötelezettségek kapcsolt vállalkozással szemben
@@ -4626,7 +4672,9 @@ C. Adózás előtti eredmény (±A±B)
 
 #### X. Adófizetési kötelezettség
 
-D. Adózott eredmény (±C–X)
+#### X/1. Halasztott adókülönbözet (±)
+
+D. Adózott eredmény (±C–X±X/1)
 
 ### 3. számú melléklet a 2000. évi C. törvényhez
 
@@ -4661,7 +4709,7 @@ Ebből: értékvesztés
 
 A. Üzemi (üzleti) tevékenység eredménye (±III–IV+V–VI)
 
-A következő sorok értelemszerűen megegyeznek a 2. számú melléklet 13–22. és VIII–X., valamint a B–D. soraival.
+A következő sorok értelemszerűen megegyeznek a 2. számú melléklet 13–22. és VIII–X/1., valamint a B–D. soraival.
 
 ### 4. számú melléklet a 2000. évi C. törvényhez
 
@@ -4836,9 +4884,11 @@ II. Az összevont (konszolidált) eredménykimutatás előírt tagolása a köve
 
 „13/b. Kapott osztalékok egyéb részesedési viszonyban lévő vállalkozástól”
 
-4. A „X. Adófizetési kötelezettség” sor az alábbi sorral egészül ki:
+4. Az „X. Adófizetési kötelezettség” sor az alábbi sorokkal egészül ki:
 
-„X/A. Konszolidálásból adódó (számított) társasági adókülönbözet (—)”
+X/A. Konszolidálásból adódó (számított) társasági adókülönbözet (±)
+
+X/B. Halasztott adókülönbözet (±)
 
 5. Az „Adózott eredmény” sor után az alábbi sorokat kell felvenni:
 

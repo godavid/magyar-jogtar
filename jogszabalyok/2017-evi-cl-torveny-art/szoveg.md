@@ -2978,6 +2978,15 @@ A természetes és nem természetes személy adózót egymillió forintig terjed
 
 (2) E § alkalmazásában lényegesnek minősül a beszámoló szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – az észszerűség határain belül – befolyásolja a beszámoló adatait felhasználók döntéseit.
 
+#### 227/B. § [Globális minimum-adószintet biztosító kiegészítő adókkal kapcsolatos bevallási és adatszolgáltatási kötelezettség megsértése]
+
+Az állami adó- és vámhatóság, a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény szerinti
+
+- a) bejelentési kötelezettség elmulasztása, késedelmes teljesítése esetén ötmillió forint,
+- b) bevallási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tíz millió forint,
+
+mulasztási bírságot szabhat ki.
+
 #### 228. § [Számla-, nyugtakibocsátási kötelezettség, valamint iratmegőrzési kötelezettség szabályainak megsértése]
 
 (1) Az adóhatóság az adózót egymillió forintig terjedő mulasztási bírsággal sújthatja, ha
@@ -3742,6 +3751,10 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 
 (3) E törvénynek a Módtv.12. által megállapított 245. § (1) bekezdés c) pontját a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
+#### 274/R. § [Átmeneti rendelkezés a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényhez]
+
+A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényben meghatározott kötelezettségek nem teljesítése esetén, a 2026. december 31. előtt kezdődő adóévek tekintetében bírság nem szabható ki, ha a csoporttag úgy járt el, ahogy az az adott helyzetben a csoporttagtól elvárható.
+
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
 (1) E törvény 106. § (5) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, 108. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -3766,6 +3779,8 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 
 - a) a 2006/112/EK irányelvnek a termékek távértékesítésére és bizonyos belföldi termékértékesítésekre vonatkozó rendelkezések tekintetében történő módosításáról szóló, 2019. november 21-i (EU) 2019/1995 tanácsi irányelv,
 - b) az (EU) 2017/2455 és az (EU) 2019/1995 irányelvnek a Covid19-világjárvány miatt szükségessé vált, az átültetési határidő és az alkalmazás kezdőnapja tekintetében történő módosításáról szóló, 2020. július 20-i (EU) 2020/1109 tanácsi határozat.
+
+(8) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény által megállapított 227/B. és 274/R. §-a, valamint 2. melléklet A) Általános rendelkezések pont 3. alpontja az Unióban a multinacionális vállalatcsoportokra és a nagy volumenű belföldi vállalatcsoportokra vonatkozó globális minimum-adószint biztosításáról szóló 2022. december 14-i (EU) 2022/2523 tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
 
@@ -3873,7 +3888,7 @@ A) Általános rendelkezések
 
 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
-3. Az adózó valamennyi adóról – az általános forgalmi adó, a jövedéki adó, a társasági adó (adóelőleg) és az 50. § (2) bekezdése szerinti bevallás kivételével –, ha az adóévet megelőző második évben a nettó módon számított elszámolandó általános forgalmi adója vagy a nettó módon számított jövedéki adója vagy a természetes személyektől általa levont jövedelemadó-előleg vagy a természetes személyektől általa levont jövedelemadó-előleg és jövedelemadó együttes összege
+3. Az adózó valamennyi adóról – az általános forgalmi adó, a jövedéki adó, a társasági adó (adóelőleg), globális minimum-adószintet biztosító kiegészítő adók és az 50. § (2) bekezdése szerinti bevallás kivételével –, ha az adóévet megelőző második évben a nettó módon számított elszámolandó általános forgalmi adója vagy a nettó módon számított jövedéki adója vagy a természetes személyektől általa levont jövedelemadó-előleg vagy a természetes személyektől általa levont jövedelemadó-előleg és jövedelemadó együttes összege
 
 3.1. a tízmillió forintot elérte havonta,
 
