@@ -345,6 +345,8 @@ munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek m
 
 (3) A kedvezmény igénybevétele esetén a kifizető a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja alapján a saját tevékenységi körben végzett kutatás-fejlesztési tevékenység közvetlen költségeként nem vonhatja le a kutató-fejlesztő munkavállaló azon munkabérének a hozzá kapcsolódó szociális hozzájárulási adóval növelt összegét, amelyre e § szerinti kedvezményt érvényesít.
 
+(3a) Nem vehető igénybe az e § szerinti kedvezmény, ha a kifizető az adóévre a társasági adóról és az osztalékadóról szóló törvény szerinti kutatás-fejlesztési tevékenység adókedvezményének alkalmazását választotta.
+
 (4) E § alkalmazásában
 
 - a) kutatóhely: a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: Innovációs tv.) szerinti kutatóhely,

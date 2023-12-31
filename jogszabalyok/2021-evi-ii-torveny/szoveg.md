@@ -203,7 +203,7 @@ l)
 
 20. § (1)
 
-(2) A Ktdt.
+(2)
 
 - a)
 - b)
@@ -368,7 +368,17 @@ lép.
 
 (3)
 
-(4)
+(4) A Ht. 43. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy)
+
+„a) legalább
+
+aa) a települési papír-, üveg-, műanyag, fém- és zöldhulladék, és
+
+ab) a háztartásokban képződő biohulladék
+
+elkülönített gyűjtése biztosított legyen;”
 
 (5)
 
@@ -396,7 +406,13 @@ lép.
 
 #### 63. §
 
-#### 64. §
+64. § A Ht. VI. Fejezete a következő 25/A. alcímmel egészül ki:
+
+„25/A. A biohulladék
+
+60/A. § (1) A hulladékbirtokos a biohulladékot annak képződése helyén – a (2) bekezdésben meghatározott kivétellel – elkülönítve gyűjti, és gondoskodik újrafeldolgozásáról, vagy elkülönített, más hulladékokkal össze nem kevert gyűjtésével gondoskodik annak hasznosíttatásáról.
+
+(2) A biológiai lebomlóság és komposztálhatóság szempontjából hasonló tulajdonságokkal rendelkező hulladék, amely megfelel a komposztálással és biológiai lebomlással hasznosítható csomagolásra vonatkozó európai szabványoknak vagy bármely azokkal egyenértékű nemzeti szabványnak, a biohulladékkal együtt gyűjthető.”
 
 #### 65. §
 
@@ -592,7 +608,7 @@ lép.
 
 (2)
 
-(3)
+(3) Hatályát veszti a Ht. 18. §-a.
 
 #### 20. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 

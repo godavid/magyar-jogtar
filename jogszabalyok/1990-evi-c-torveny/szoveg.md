@@ -412,7 +412,7 @@ Az adófelfüggesztés
 - a) az eladott áruk beszerzési értéke és a közvetített szolgáltatások értéke, együttes – a (4)–(10) bekezdésben meghatározottak szerint számított – összegével,
 - b) az alvállalkozói teljesítések értékével,
 - c) az anyagköltséggel,
-- d) az alapkutatás, alkalmazott kutatás, kísérleti fejlesztés adóévben elszámolt közvetlen költségével.
+- d) az alapkutatás, alkalmazott kutatás, kísérleti fejlesztés adóévben elszámolt közvetlen költségével, kivéve, ha a vállalkozó az adóévre a társasági adóról és az osztalékadóról szóló törvény szerinti kutatás-fejlesztési tevékenység adókedvezményének alkalmazását választotta.
 
 (2) Ha a vállalkozó több önkormányzat illetékességi területén vagy külföldön végez iparűzési tevékenységet, akkor az adó alapját – a tevékenység sajátosságaira leginkább jellemzően – a vállalkozónak kell a 3. számú mellékletben meghatározottak szerint megosztania.
 
