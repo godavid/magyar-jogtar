@@ -35,9 +35,9 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
   - ab) 10 éven belül legalább 2555 napon át vagy
   - ac) 15 éven belül legalább 3650 napon át
 
-biztosított volt;
+biztosított volt, és
 
-- b) keresőtevékenységet nem végez és
+- b)
 - c) rendszeres pénzellátásban nem részesül.
 
 (2) Az (1) bekezdés a) pontjában foglaltaktól eltérően biztosításának tartamára tekintet nélkül jár a megváltozott munkaképességű személyek ellátása annak,
@@ -220,8 +220,8 @@ megszűnik.
 
 - a) akinek a rehabilitációs hatóság komplex minősítése alapján az egészségi állapota 50 százalékos vagy kisebb mértékű,
 - b) akinek a rehabilitációs hatóság komplex minősítése alapján a rehabilitációja nem javasolt, vagy rehabilitálható, de a kivételes rokkantsági ellátás iránti kérelem benyújtásának időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg,
-- c) akinek a megváltozott munkaképességű személyek ellátása iránti kérelmét a 2. § (1) bekezdés a) pontjában meghatározott biztosítási idő hiánya miatt elutasító döntés véglegessé vált és e döntésben foglaltak szerint rendelkezik a szükséges biztosítási idő legalább felével,
-- d) aki keresőtevékenységet nem végez és
+- c) akinek a megváltozott munkaképességű személyek ellátása iránti kérelmét a 2. § (1) bekezdés a) pontjában meghatározott biztosítási idő hiánya miatt elutasító döntés véglegessé vált és e döntésben foglaltak szerint rendelkezik a szükséges biztosítási idő legalább felével, és
+- d)
 - e) aki rendszeres pénzellátásban nem részesül.
 
 (2) A kivételes rokkantsági ellátás megállapítása során előnyben kell részesíteni azt a megváltozott munkaképességű személyt, aki a 2. § (1) bekezdés a) pontjában meghatározott biztosítási idő legalább 90 százalékával rendelkezik.
@@ -261,7 +261,7 @@ meghatározott összeg 65 százaléka.
 
 (5)
 
-14/A. § A megváltozott munkaképességű személyek ellátásai 2. § szerinti jogosultsági feltételei tekintetében – a 2. § (1) bekezdés b) pontja szerinti feltétel kivételével – a kérelmező nyilatkozatával a hiányzó bizonyíték nem pótolható.
+14/A. § A megváltozott munkaképességű személyek ellátásai 2. § szerinti jogosultsági feltételei tekintetében a kérelmező nyilatkozatával a hiányzó bizonyíték nem pótolható.
 
 15. § (1) A rehabilitációs hatóság komplex minősítés keretében megvizsgálja a kérelmező egészségi állapotának százalékos mértékét, a rehabilitálhatóságot, és a megváltozott munkaképességű személy rehabilitálhatósága esetén rehabilitációs javaslatot készít.
 
@@ -368,6 +368,8 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
 
 (4) Ha a jogosulatlan felvételre azért került sor, mert az ellátott EGT-államból vagy szociális biztonsági tárgyú nemzetközi egyezményben részes államból ugyanazon időszakra azonos típusú ellátásban részesült, a jogosulatlanul felvett rehabilitációs pénzbeli ellátást és rokkantsági ellátást – a felróhatóságtól függetlenül – akkor is vissza kell fizetni, ha a felvételtől számított kilencven nap eltelt.
 
+(5) Ha a jogalap nélkül felvett vagy fizetési számlára átutalt jogalap nélküli ellátás összege nem éri el a 10 000 Ft-ot, a visszafizetést és a megtérítést nem kell elrendelni.
+
 20/A. § (1) A megváltozott munkaképességű személyek ellátásában részesülő halála esetén a fel nem vett pénzbeli ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőssé válása napjától számított egy éven belül.
 
 (2) Aki a megváltozott munkaképességű személyek ellátásában részesülő személy halála esetén a kiutalt pénzbeli ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
@@ -424,7 +426,7 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
   - ai) keresőképtelenségére,
   - aj) társadalombiztosítási azonosító jelére,
   - ak) nemére,
-  - al) állampolgárságára, bevándorolt, letelepedett, menekült és oltalmazott jogállására és
+  - al) állampolgárságára, huzamos tartózkodási jogosultságára, menekült és oltalmazott jogállására és
   - am) elhalálozása időpontjára
 - b) az ellátás megállapítására és megszüntetésére, kezdő és befejező időpontjára, és
 - c) a komplex minősítés során megállapított körülményekre
@@ -474,7 +476,7 @@ vonatkozó adatokat kezelheti.
 - a) az (1) bekezdés a) pontja szerinti megváltozott munkaképességű személy
   - aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét,
   - ab) nemét,
-  - ac) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
+  - ac) állampolgárságát, huzamos tartózkodási jogosultságát, menekült vagy oltalmazott jogállását,
   - ad) lakó- és tartózkodási helyét, értesítési címét, telefonszámát, elektronikus levélcímét, a közeli hozzátartozó írásbeli hozzájárulása esetén a közeli hozzátartozó nevét, telefonszámát, elektronikus levélcímét,
   - ae) korábbi minősítések, illetve a komplex minősítés során megállapított körülményeire (rehabilitálhatóságára) vonatkozó adatokat, ha a megváltozott munkaképességű személy rendelkezik komplex minősítéssel,
   - af) szociális helyzetére, ellátásaira és orvosi rehabilitációs szükségleteire vonatkozó adatokat,

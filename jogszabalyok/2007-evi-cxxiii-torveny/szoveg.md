@@ -428,6 +428,15 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 (5b) Az ügyfél az (5a) bekezdés szerinti tárgyalás tartása iránti kérelmét a szakértői vélemény részére történt megküldésétől számított 8 napon belül terjesztheti elő. Ebben az esetben a (2) bekezdésben meghatározott tárgyalási időköz a tárgyalás tartása iránti kérelem beérkezését követő naptól számítandó.
 
+(5c) Mellőzhető a tárgyalás kitűzése, ha az ingatlan egyedüli tulajdonosa
+
+- a) 100%-os állami tulajdonban álló, központi költségvetési szerv tulajdonosi joggyakorlása alatt álló gazdasági társaság és a kisajátítást kérő az állam, vagy
+- b) 100%-os helyi önkormányzati tulajdonban álló gazdasági társaság és ugyanazon helyi önkormányzat a kisajátítást kérő,
+
+és nincs az eljárásban a 23. § (1) bekezdés d) és e) pontjában meghatározott ügyfél vagy a 17. §-ban meghatározott használó.
+
+(5d) Az (5c) bekezdés szerinti esetben azon kérelmeket és nyilatkozatokat, amelyek megtételének határidejét e törvény a tárgyalás időpontjához kapcsoltan határozza meg, a kisajátítási hatóság által meghatározott időpontig kell megtenni. Az ügyfél tárgyalás tartása iránti kérelmet a szakértői vélemény részére történt megküldésétől számított 8 napon belül terjeszthet elő. Ebben az esetben a (2) bekezdésben meghatározott tárgyalási időköz a tárgyalás tartása iránti kérelem beérkezését követő naptól számítandó.
+
 (6) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a kisajátítási hatóság jogszerűnek tartja.
 
 27. § (1) A tárgyaláson ismertetni kell a szakértői véleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakértői véleményre előzetesen, valamint a tárgyaláson tett észrevételeket. A kisajátítási hatóság és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
@@ -511,7 +520,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 (2) A kisajátítási hatóság döntése felügyeleti jogkörben nem változtatható meg és nem semmisíthető meg.
 
-33. § (1) A kisajátítási határozat véglegessé válása után a határozatot a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási tervet is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat véglegessé válásáról a többi ügyfelet is értesíteni kell.
+33. § (1) A kisajátítási határozat véglegessé válása után a határozatot a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási tervet is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat véglegessé válásáról a többi ügyfelet a kisajátítási hatóság a honlapján történő közzététellel értesíti.
 
 (2) A véglegessé vált határozatot az adó helyesbítése, illetőleg kivetése céljából az illetékes helyi adóhatóságnak is meg kell küldeni.
 
@@ -685,7 +694,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 40/F. § (1)
 
-(2) Az e törvény hatálya alá tartozó hatósági eljárásokban hirdetményi közlésnek és közhírré tételnek nincs helye.
+(2) Az e törvény hatálya alá tartozó hatósági eljárásokban – e törvényben meghatározott kivételekkel – hirdetményi közlésnek és közhírré tételnek nincs helye.
 
 40/G. § A kisajátítást kérő, illetve annak képviselője az e törvény hatálya alá tartozó hatósági eljárásokban, e hatósági eljárásokban hozott döntésekkel szemben indított közigazgatási perben, valamint a kisajátítási terv záradékolására irányuló eljárásban elektronikus ügyintézésre köteles.
 

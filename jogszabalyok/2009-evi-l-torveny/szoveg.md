@@ -21,7 +21,7 @@ Az Országgyűlés a természetes személyek és jogképes szervezetek nem vitat
 (2) Csak fizetési meghagyás útján vagy a Pp. 167–168. §-ában meghatározott módon érvényesíthető a kizárólag pénz fizetésére irányuló olyan lejárt követelés, amelynek a Pp. pertárgy érték meghatározására vonatkozó szabályai szerint számított összege a hárommillió forintot nem haladja meg, feltéve, hogy
 
 - a) a feleknek van ismert belföldi lakóhelye, ennek hiányában tartózkodási helye, illetve székhelye vagy képviselete (a továbbiakban együtt: kézbesítési cím), és
-- b) a pénzkövetelés – az (5) bekezdésben meghatározott kivétellel – nem a munka törvénykönyvéről szóló 2012. évi I. törvény alapján létesített jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból, szolgálati jogviszonyból, közfoglalkoztatási jogviszonyból, a sporttörvény alapján kötött munkaszerződéses jogviszonyból, szakképzési munkaszerződés alapjául szolgáló jogviszonyból, nemzeti felsőoktatási törvény szerinti hallgatói munkaszerződésből eredő jogviszonyból, illetve szociális szövetkezettel és foglalkoztatási szövetkezettel létesített tagi munkavégzési jogviszonyból, a közigazgatási perrendtartásról szóló 2017. évi I. törvényben (a továbbiakban: Kp.) meghatározott közszolgálati vagy közigazgatási szerződéses jogviszonyból ered.
+- b) a pénzkövetelés – az (5) bekezdésben meghatározott kivétellel – nem a munka törvénykönyvéről szóló 2012. évi I. törvény alapján létesített jogviszonyból, közalkalmazotti jogviszonyból, köznevelési foglalkoztatotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból, szolgálati jogviszonyból, közfoglalkoztatási jogviszonyból, a sporttörvény alapján kötött munkaszerződéses jogviszonyból, szakképzési munkaszerződés alapjául szolgáló jogviszonyból, nemzeti felsőoktatási törvény szerinti hallgatói munkaszerződésből eredő jogviszonyból, illetve szociális szövetkezettel és foglalkoztatási szövetkezettel létesített tagi munkavégzési jogviszonyból, a közigazgatási perrendtartásról szóló 2017. évi I. törvényben (a továbbiakban: Kp.) meghatározott közszolgálati vagy közigazgatási szerződéses jogviszonyból ered.
 
 (3) Nem érvényesíthető fizetési meghagyásos eljárás útján az a pénzkövetelés, amelynek a Pp. 21. és 22. §-a szerint számított összege a harmincmillió forintot meghaladja.
 
@@ -218,8 +218,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 20. § (1) A kérelemben fel kell tüntetni:
 
-- a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett azzal rendelkezik – a kötelezett adószámát;
-- b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, kézbesítési címét, telefonszámát, elektronikus levélcímét;
+- a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, valamint – ha azzal rendelkezik – az adószámát, a kötelezett ismert, Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett, illetve a képviselője azzal rendelkezik – a kötelezett, illetve a képviselő adószámát;
+- b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, kézbesítési címét, telefonszámát, elektronikus levélcímét, továbbá – ha azzal rendelkezik – adószámát;
 - c) külföldi székhelyű vállalkozás esetén a 3. § (6) bekezdés szerinti képviselet nevét, székhelyét és azonosító adatait;
 - d) a követelés alapjául szolgáló jogviszonyt és az érvényesíteni kívánt jogot, valamint a követelésnek és járulékainak összegét;
 - e) a követelés alapjául szolgáló jogviszony létrejöttének és a követelés lejártának időpontját;
@@ -375,7 +375,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - d) a fél halála vagy megszűnése esetén, ha megállapítható, hogy a jogviszony természete a jogutódlást kizárja;
 - e) a másik fél kérelmére, ha a megszűnt félnek nincs jogutódja;
 - f) a 30. § (2) bekezdésében meghatározott esetben;
-- g) a 15. § (3) bekezdésének b) pontjában, a 17. § (4) bekezdésében, illetve a 18. § (2) bekezdésében meghatározott esetben.
+- g) a 15. § (3) bekezdésének b) pontjában, a 17. § (5) bekezdésében, illetve a 18. § (2) bekezdésében meghatározott esetben.
 
 (2) A közjegyző az (1) bekezdés a), d), f) és g) pontja esetében az eljárást annak bármely szakában hivatalból megszüntetni köteles.
 
@@ -682,7 +682,7 @@ kell megfizetni.
 
 (2a) Az európai fizetési meghagyásos eljárásban a Pp. 148. §-a nem alkalmazható.
 
-(3) Az európai fizetési meghagyásos eljárásban kézbesítési megbízottat jelölni nem kell és a fizetési meghagyás végrehajtói kézbesítésének nincs helye. Ha az iratokat belföldön kell kézbesíteni, a kézbesítésre e törvény, a Pp., valamint a hivatalos iratok kézbesítésére vonatkozó jogszabály rendelkezéseit, másik tagállamba történő kézbesítés esetén pedig a polgári és kereskedelmi ügyekben keletkezett bírósági és bíróságon kívüli iratok tagállamokban történő kézbesítéséről szóló 1393/2007/EK európai parlamenti és tanácsi rendeletet kell alkalmazni.
+(3) Az európai fizetési meghagyásos eljárásban kézbesítési megbízottat jelölni nem kell és a fizetési meghagyás végrehajtói kézbesítésének nincs helye. Ha az iratokat belföldön kell kézbesíteni, a kézbesítésre e törvény, a Pp., valamint a hivatalos iratok kézbesítésére vonatkozó jogszabály rendelkezéseit, másik tagállamba történő kézbesítés esetén pedig a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendeletet kell alkalmazni.
 
 (4) A kérelemnek a rendelet 11. cikke szerint történő elutasítása esetén a jogosult a bíróságnál keresetet indíthat, ebben az esetben a 25. § (4) bekezdését megfelelően alkalmazni kell.
 
@@ -782,6 +782,6 @@ rendeletben állapítsa meg.
 75. § E törvény
 
 - a) 59. §-a az európai fizetési meghagyásos eljárás létrehozásáról szóló 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
-- b) 15. § (4a) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és a tanácsi rendelet
+- b) 15. § (4a) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

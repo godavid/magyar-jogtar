@@ -118,7 +118,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 - a) a házasság jogerős felbontását vagy érvénytelenítését megelőzően a házasság legalább két évig fennállt, és a volt házastárs a házasság fennállása alatt legalább egy évig Magyarország területén tartózkodott az EGT-állampolgár családtagjaként,
 - b) bírósági döntés szerint a volt házastárs is gyakorolja a szülői felügyeleti jogot az EGT-állampolgár – Magyarország területén tartózkodó – gyermeke felett, vagy megegyezés alapján felelős a kiskorú felügyeletéért,
-- c) azt rendkívüli méltánylást érdemlő körülmények indokolják, különösen ha sérelmére az EGT-állampolgár házastárs a házasság fennállása alatt szándékos bűncselekményt követett el, vagy a házasságkötés előtt letelepedett jogállással rendelkezett, vagy
+- c) azt rendkívüli méltánylást érdemlő körülmények indokolják, különösen ha sérelmére az EGT-állampolgár házastárs a házasság fennállása alatt szándékos bűncselekményt követett el, vagy a házasságkötés előtt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti huzamos tartózkodási jogosultsággal rendelkezett, vagy
 - d) megegyezés vagy bírósági döntés alapján a volt házastárs rendelkezik a kiskorú gyermek láthatásának jogával, feltéve, hogy a megegyezés vagy a bíróság rendelkezése szerint a láthatásra Magyarország területén kerül sor.
 
 (3) A (2) bekezdésben meghatározott esetben a harmadik ország állampolgárságával rendelkező családtag tartózkodási joga fennmaradásának további feltétele, hogy teljesítse az (1) bekezdés a), b) vagy c) pontjában meghatározott követelményt.
@@ -429,7 +429,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 - a) a kiutasításra azért kerül sor, mert a visszairányítást – a visszairányított személynek fel nem róható okból – nem lehetett végrehajtani, vagy
 - b) a kiutasítást kiskorúval szemben rendelték el.
 
-(6) Az idegenrendészeti hatóság intézkedik a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § j) pontja szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére, ha azt EGT-állampolgár családtagja vonatkozásában rendelték el.
+(6) Az idegenrendészeti hatóság intézkedik a Btátv. szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére, ha azt EGT-állampolgár családtagja vonatkozásában rendelték el.
 
 42. § (1) Az idegenrendészeti kiutasítás nem rendelhető el azzal az EGT-állampolgárral szemben, aki
 
@@ -469,7 +469,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 47/A. § Az idegenrendészeti kiutasítás végrehajtásának biztosítása érdekében az eljáró idegenrendészeti hatóság az EGT-állampolgár, illetve a családtag úti okmányát elveheti, amely intézkedéssel szemben külön jogorvoslatnak nincs helye.
 
-47/B. § A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) alapján harmadik országbeli állampolgárokkal szemben elrendelt idegenrendészeti kiutasításokat és a kiutasító határozatok alapján a Schengeni Információs Rendszerben elhelyezett, beutazási és tartózkodási tilalmat elrendelő figyelmeztető jelzéseket (a továbbiakban: figyelmeztető jelzés) a harmadik országbeli családtag kiutasítása végrehajtása előtt vagy a tartózkodási jogot igazoló okmány kiállítása iránti eljárásban – a 33. §-ban foglaltakra is figyelemmel – felül kell vizsgálni. Ha a kiutasítás és a beutazási és tartózkodási tilalom, valamint a figyelmeztető jelzés fenntartása aránytalan érdeksérelemmel jár, az idegenrendészeti kiutasítás elrendeléséről hozott határozatot az eljáró idegenrendészeti hatóság törli. Az eljáró idegenrendészeti hatóság az eljárást húsz nap alatt folytatja le és határozattal dönt.
+47/B. § A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény, valamint a Btátv. alapján harmadik országbeli állampolgárokkal szemben elrendelt idegenrendészeti kiutasításokat és a kiutasító határozatok alapján a Schengeni Információs Rendszerben elhelyezett, beutazási és tartózkodási tilalmat elrendelő figyelmeztető jelzéseket (a továbbiakban: figyelmeztető jelzés) a harmadik országbeli családtag kiutasítása végrehajtása előtt vagy a tartózkodási jogot igazoló okmány kiállítása iránti eljárásban – a 33. §-ban foglaltakra is figyelemmel – felül kell vizsgálni. Ha a kiutasítás és a beutazási és tartózkodási tilalom, valamint a figyelmeztető jelzés fenntartása aránytalan érdeksérelemmel jár, az idegenrendészeti kiutasítás elrendeléséről hozott határozatot az eljáró idegenrendészeti hatóság törli. Az eljáró idegenrendészeti hatóság az eljárást húsz nap alatt folytatja le és határozattal dönt.
 
 ### A kiutasítás végrehajtása
 
@@ -632,9 +632,11 @@ meghosszabbítása
 - e) a határátlépés helyét,
 - f) beutazási és tartózkodási tilalom elrendelése esetén az arcképmás, valamint az ujjnyomat rögzítésének tűrésére vonatkozó kötelezettség előírását.
 
-61/A. § Az ország elhagyására irányuló kötelezettséget a kiutasítást elrendelő határozat véglegessé válását követő első hónap utolsó napjáig kell teljesíteni.
+61/A. § Az ország elhagyására irányuló kötelezettséget a kiutasítást elrendelő határozat véglegessé válását követő első hónap utolsó napjáig kell teljesíteni, mely alól kivételt képeznek a kellően megalapozott sürgős esetek.
 
 62. § A kiutasítás kapcsán felmerülő költséget a kiutasított vagy – családtag esetén anyagi fedezet hiányában – az EGT-állampolgár vagy a magyar állampolgár viseli. Ha a kiutazási kötelezettség azért nem teljesíthető, mert a költségek viselésére kötelezett személy nem rendelkezik megfelelő anyagi fedezettel, a kiutaztatás költségét az eljáró idegenrendészeti hatóság megelőlegezi.
+
+62/A. § Azt az EGT-állampolgárt vagy családtagot, akivel szemben a szabad mozgás és tartózkodás jogának közrendi, közbiztonsági, nemzetbiztonsági vagy közegészségügyi okból a 33. § alapján történő korlátozásának, illetve a bíróság jogerős ügydöntő határozatával elrendelt kiutasítás végrehajtásának van helye, vagy akit az idegenrendészeti hatóság értesítése alapján a továbbiakban nem illet meg a száznyolcvan napon belül kilencven napot meghaladó tartózkodás joga, az idegenrendészeti hatósághoz elő kell állítani.
 
 ### A személykörözés elrendelése
 
@@ -655,7 +657,7 @@ meghosszabbítása
 
 (3) A határozat ellen nincs helye jogorvoslatnak.
 
-(4) Az eljáró idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.
+(4) Az eljáró idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság a külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján, illetve amennyiben az EGT-állampolgár vagy családtag a külföldre utazásról szóló 1998. évi XII. törvény 16. § (1) bekezdés a)–f) pontja szerinti kényszerintézkedés hatálya alatt nem áll, a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.
 
 ### Felelősségi szabályok
 
@@ -689,26 +691,26 @@ meghosszabbítása
 
 (2) Az eljáró idegenrendészeti hatóság az (1) bekezdésben meghatározott kötelezettségét elmulasztó munkáltatót közrendvédelmi bírsággal sújthatja.
 
-(3) A munkáltató az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően elektronikus úton is megteheti.
+(3) A munkáltató az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően az idegenrendészeti ügyindítási elektronikus felületen elektronikus úton teljesíti.
 
 68. § A fuvarozó és a munkáltató a felelősségének megállapítására irányuló eljárás felfüggesztését nem kérheti.
 
 ### V. Fejezet — AZ ELJÁRÁS KÖZÖS SZABÁLYAI
 
-69. § E törvény eltérő rendelkezése hiányában az e törvény alapján lefolytatott eljárásokban a Harmtv. IX. Fejezetét alkalmazni kell.
+69. § E törvény eltérő rendelkezése hiányában az e törvény alapján lefolytatott eljárásokban a Btátv. KILENCEDIK Részét alkalmazni kell.
 
 70. § (1) A regisztrációs igazolás, a tartózkodási kártya, valamint az állandó tartózkodási kártya iránti kérelmet az eljáró idegenrendészeti hatóság az okmány kiadásával teljesíti vagy határozattal utasítja el.
 
 (2) Ha az eljáró idegenrendészeti hatóság a regisztrációs igazolás, a tartózkodási kártya vagy állandó tartózkodási kártya iránti kérelemnek helyt ad, kizárólag a döntés tényét rögzíti az ügyiraton.
 
-(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Harmtv. 86/H. § (6) bekezdése szerinti idegenrendészeti ügyindítási elektronikus felületen terjeszti elő.
+(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Btátv. 166. § (6) bekezdése szerinti idegenrendészeti ügyindítási elektronikus felületen is előterjesztheti.
 
 (4) Az idegenrendészeti ügyindítási elektronikus felületen benyújtott kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha
 
 - a) az EGT-állampolgár vagy a harmadik országbeli állampolgár a kérelem díját lerótta, amennyiben az eljárás díjköteles és
 - b) a harmadik országbeli állampolgár a személyazonosságának igazolása érdekében az eljáró idegenrendészeti hatóságnál legkésőbb a visszaigazolás megküldésétől számított 15. napon megjelenik.
 
-(4a) A Harmtv. 86/H. § (7) bekezdését az EGT-állampolgár által előterjesztett (3) bekezdés szerinti kérelmek esetén az idegenrendészeti hatóság nem alkalmazza.
+(4a) A Btátv. 166. § (7) bekezdését az EGT-állampolgár által előterjesztett (3) bekezdés szerinti kérelmek esetén az idegenrendészeti hatóság nem alkalmazza.
 
 (5) Nem minősül a kérelem az idegenrendészeti hatósághoz érkezettnek, ha a kérelmet előterjesztő a díjfizetési vagy a személyes megjelenési kötelezettségének a (4) bekezdés b) pontja szerinti határidőn belül nem tesz eleget.
 
@@ -1055,93 +1057,93 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 
 93. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 67. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-94. § (1) A magyar állampolgárok harmadik országbeli állampolgár családtagjaira vonatkozó eljárásokban az egyes migrációs tárgyú és kapcsolódó törvények módosításáról szóló 2018. évi CXXXIII. törvény (a továbbiakban: Módtv.2.) hatályba lépését követően indult és megismételt eljárásokban a Harmtv. rendelkezéseit kell alkalmazni.
+94. § (1) A magyar állampolgárok harmadik országbeli állampolgár családtagjaira vonatkozó eljárásokban az egyes migrációs tárgyú és kapcsolódó törvények módosításáról szóló 2018. évi CXXXIII. törvény (a továbbiakban: Módtv.2.) hatályba lépését követően indult és megismételt eljárásokban a Btátv. rendelkezéseit kell alkalmazni.
 
-(2) Azon harmadik országbeli állampolgár, aki Módtv.2. hatálybalépésekor érvényes, magyar állampolgár családtagja részére a Módtv.2. hatálybalépése előtt kiállított tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik, a tartózkodási kártya vagy állandó tartózkodási kártya érvényességének lejártáig kérelmére a Harmtv. 33. § (1) bekezdés a) és b) pontjában, valamint a 35. § (1) és (1a) bekezdésében foglalt feltételek vizsgálata nélkül nemzeti letelepedési engedélyt kap, kivéve, ha:
+(2) Azon harmadik országbeli állampolgár, aki a Módtv.2. hatálybalépésekor érvényes, magyar állampolgár családtagja részére a Módtv.2. hatálybalépése előtt kiállított tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik, a tartózkodási kártya vagy állandó tartózkodási kártya érvényességének lejártáig kérelmére a Btátv. 75. § (1) bekezdés a) és b) pontjában, valamint a Btátv. 83. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül nemzeti tartózkodási kártyát kap, kivéve, ha:
 
 - a) a tartózkodási kártya vagy állandó tartózkodási kártya megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt,
 - b) a tartózkodási kártya kiadásának alapjául szolgáló családi kapcsolatot a tartózkodási jog megszerzése érdekében létesítette,
-- c) a letelepedésével kapcsolatosan a Harmtv. 33.§ (1) bekezdés c) pontjában és (2) bekezdésében foglalt kizáró okok állnak fenn,
+- c) a huzamos tartózkodási jogosultságával kapcsolatosan a Btátv. 75. § (1) bekezdés c) pontjában és (2) bekezdésében foglalt kizáró okok állnak fenn,
 - d) a harmadik országbeli állampolgár büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült,
 - e) a magyar állampolgárral fennálló házasság a tartózkodási kártya vagy állandó tartózkodási kártya kiadásától számított három éven belül nem a házastárs halála miatt szűnt meg, vagy a harmadik országbeli állampolgár családtag szülői felügyeleti joga megszűnt,
 - f) a magyar állampolgárral tényleges életközösség nem áll fenn,
 - g) a magyar állampolgár harmadik országbeli állampolgár családtagja Magyarország területét hat hónapnál hosszabb ideig elhagyta, vagy
 - h) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott tartózkodási kártyája vagy állandó tartózkodási kártyája esetén magyar állampolgár házastársa Magyarország területét a külföldi letelepedés szándékával elhagyta.
 
-(2a) Ha a magyar állampolgár harmadik országbeli állampolgár családtagja részére kiadott tartózkodási kártya vagy állandó tartózkodási kártya érvényessége a (2) bekezdés szerinti kérelem előterjesztésekor lejárt, igazolási kérelmet a mulasztásról való tudomásszerzést, vagy az akadály megszűnését követő öt napon belül, de legkésőbb a tartózkodási kártya vagy az állandó tartózkodási kártya érvényességének lejáratától számított hat hónapon belül lehet előterjeszteni. Az igazolási kérelem elbírálása során a Harmtv. rendelkezéseit kell alkalmazni.
+(2a) Ha a magyar állampolgár harmadik országbeli állampolgár családtagja részére kiadott tartózkodási kártya vagy állandó tartózkodási kártya érvényessége a (2) bekezdés szerinti kérelem előterjesztésekor lejárt, igazolási kérelmet a mulasztásról való tudomásszerzést, vagy az akadály megszűnését követő öt napon belül, de legkésőbb a tartózkodási kártya vagy az állandó tartózkodási kártya érvényességének lejáratától számított hat hónapon belül lehet előterjeszteni. Az igazolási kérelem elbírálása során a Btátv. rendelkezéseit kell alkalmazni.
 
-(2b) Ha a magyar állampolgár harmadik országbeli állampolgár családtagja az állandó tartózkodási kártya kiadása előtt bevándorolt vagy letelepedett jogállással rendelkezett, a státusza nem került visszavonásra és nem jogosult a (2) bekezdés szerinti nemzeti letelepedési engedélyre, részére a korábbi jogállását igazoló okmány hivatalból kerül kiállításra, kivéve, ha
+(2b) Ha a magyar állampolgár harmadik országbeli állampolgár családtagja az állandó tartózkodási kártya kiadása előtt bevándorolt vagy letelepedett jogállással rendelkezett, a státusza nem került visszavonásra és nem jogosult a (2) bekezdés szerinti nemzeti tartózkodási kártyára, részére a korábbi jogállását igazoló okmány hivatalból kerül kiállításra, kivéve, ha
 
 - a) a (2) bekezdés c) vagy d) pontjában meghatározott feltételek fennállnak,
-- b) a Harmtv. 37. §-a szerinti, a bevándorlási vagy letelepedési engedély visszavonására vonatkozó feltételek fennállnak vagy
+- b) a Btátv. 86. §-a szerinti, a nemzeti tartózkodási kártya visszavonására vonatkozó feltételek fennállnak vagy
 - c) a bevándorlási vagy letelepedési engedély kiállítását jogszabály kizárja.
 
-(2c) Ha a (2b) bekezdés szerint a korábbi jogállást igazoló okmány kiállítása nem lehetséges, a státuszt a Harmtv. szerint vissza kell vonni.
+(2c) Ha a (2b) bekezdés szerint a korábbi jogállást igazoló okmány kiállítása nem lehetséges, a státuszt a Btátv. szerint vissza kell vonni.
 
-(2d) A (2) bekezdés szerinti nemzeti letelepedési kérelem tárgyában hozott elutasító döntésben a (2c) bekezdés szerinti visszavonásról is rendelkezni kell.
+(2d) A (2) bekezdés szerinti nemzeti tartózkodási kártya iránti kérelem tárgyában hozott elutasító döntésben a (2c) bekezdés szerinti visszavonásról is rendelkezni kell.
 
-(3) A (2) bekezdés c) pontja tekintetében a Harmtv. letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági vélemény kérése céljából.
+(3) A (2) bekezdés c) pontja tekintetében a Btátv. huzamos tartózkodási jogosultság megszerzésére vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából.
 
 (4) A magyar állampolgár családtagjaként érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező harmadik országbeli állampolgár tartózkodási kártyáját vagy állandó tartózkodási kártyáját vissza kell vonni
 
 - a) a (2) bekezdés a), b) és e)–h) pontjában meghatározott esetben,
 - b) ha a harmadik országbeli állampolgár tartózkodása veszélyezteti Magyarország közrendjét, köz- vagy nemzetbiztonsági érdekét.
 
-(5) A (4) bekezdés b) pontjában meghatározott szakkérdésben a Harmtv. letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági vélemény kérése céljából.
+(5) A (4) bekezdés b) pontjában meghatározott szakkérdésben a Btátv. huzamos tartózkodási jogosultság megszerzésére vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából.
 
-(6) Amennyiben a magyar állampolgár harmadik országbeli állampolgár családtagja érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik és nem kaphat nemzeti letelepedési engedélyt, a Harmtv. általános szabályai szerint kérelmezheti a tartózkodási engedély kiadását.
+(6) Amennyiben a magyar állampolgár harmadik országbeli állampolgár családtagja érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik és nem kaphat tartózkodási kártyát, a Btátv. általános szabályai szerint kérelmezheti a tartózkodási engedély kiadását.
 
-(7) A magyar állampolgár harmadik országbeli állampolgár családtagja a tartózkodási kártya vagy állandó tartózkodási kártya érvényességi ideje alatt EK letelepedési kérelmet terjeszthet elő a Harmtv. szabályai szerint.
+(7) A magyar állampolgár harmadik országbeli állampolgár családtagja a tartózkodási kártya vagy állandó tartózkodási kártya érvényességi ideje alatt EU tartózkodási kártya iránti kérelmet terjeszthet elő a Btátv. szabályai szerint.
 
-95. § (1) Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) állampolgárára, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagjára vonatkozó eljárásokban – a (2)–(17) bekezdésben meghatározott eltérésekkel – az Egyesült Királyság európai uniós tagságának megszűnésére tekintettel 2021. január 1-jét követően indult vagy megismételt eljárásokban a Harmtv. rendelkezéseit kell alkalmazni.
+95. § (1) Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) állampolgárára, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagjára vonatkozó eljárásokban – a (2)–(17) bekezdésben meghatározott eltérésekkel – az Egyesült Királyság európai uniós tagságának megszűnésére tekintettel 2021. január 1-jét követően indult vagy megismételt eljárásokban a Btátv. rendelkezéseit kell alkalmazni.
 
 (2) Az egyesült királysági állampolgár részére kiadott regisztrációs igazolás, valamint állandó tartózkodási kártya legfeljebb 2021. december 31-ig érvényes.
 
 (3) Az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya, valamint állandó tartózkodási kártya legfeljebb 2021. december 31-ig érvényes.
 
-(4) Azon egyesült királysági állampolgár és egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki érvényes úti okmánnyal és regisztrációs igazolással, tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik, kérelmére – a Harmtv. 33. § (1) bekezdés a) és b) pontjában, valamint a Harmtv. 35. § (1) és az (1a) bekezdésekben foglalt feltételek vizsgálata nélkül – nemzeti letelepedési engedélyt kap, kivéve, ha
+(4) Azon egyesült királysági állampolgár és egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki érvényes úti okmánnyal és regisztrációs igazolással, tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik, kérelmére – a Btátv. 75. § (1) bekezdés a) és b) pontjában, valamint a Btátv. 83. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül – nemzeti tartózkodási kártyát kap, kivéve, ha
 
-- a) a letelepedésével kapcsolatosan a Harmtv. 33. § (2) bekezdésében foglalt bármely kizáró ok áll fenn,
+- a) a huzamos tartózkodási jogosultságával kapcsolatosan a Btátv. 75. § (2) bekezdésében foglalt bármely kizáró ok áll fenn,
 - b) az egyesült királysági állampolgár vagy az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült,
 - c) az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja esetén az egyesült királysági állampolgárral a tényleges életközösség nem áll fenn, vagy
 - d) az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja esetén, ha az egyesült királysági állampolgár Magyarország területét a külföldi letelepedés szándékával elhagyta.
 
-(5) Az (4) bekezdés a) pontja tekintetében a Harmtv. nemzeti letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából. A kijelölt szakhatóság azon szakkérdésben, hogy a nemzeti letelepedési engedély kiadását kérelmező letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását mind az elsőfokú, mind a másodfokú eljárásban tizenöt napon belül adja meg.
+(5) Az (4) bekezdés a) pontja tekintetében a Btátv. nemzeti tartózkodási kártya kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából. A kijelölt szakhatóság azon szakkérdésben, hogy a nemzeti tartózkodási kártya kiadását kérelmező huzamos tartózkodási jogosultsága veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását mind az elsőfokú, mind a másodfokú eljárásban tizenöt napon belül adja meg.
 
-(6) A (4) bekezdés szerint nemzeti letelepedési engedély kiadása iránti kérelmet 2021. január 1. és 2021. december 31. között kell előterjeszteni. A kérelmet az első fokon, illetve a másodfokon eljáró hatóság harminc napon belül bírálja el.
+(6) A (4) bekezdés szerint nemzeti tartózkodási kártya kiadása iránti kérelmet 2021. január 1. és 2021. december 31. között kell előterjeszteni. A kérelmet az első fokon, illetve a másodfokon eljáró hatóság harminc napon belül bírálja el.
 
-(7) Azon egyesült királysági állampolgár, aki hitelt érdemlően igazolja, hogy 2021. január 1. előtt Magyarországon életvitelszerűen tartózkodott, és érvényes úti okmánnyal rendelkezik, nemzeti letelepedési engedélyt kérelmezhet a (4) bekezdés szerint az ott felsorolt tartózkodási okmányok hiányában is, azzal, hogy ha a kérelmet 2021. december 31-e után nyújtja be, igazolnia kell a határidő elmulasztásának észszerű okait is.
+(7) Azon egyesült királysági állampolgár, aki hitelt érdemlően igazolja, hogy 2021. január 1. előtt Magyarországon életvitelszerűen tartózkodott, és érvényes úti okmánnyal rendelkezik, nemzeti tartózkodási kártyát kérelmezhet a (4) bekezdés szerint az ott felsorolt tartózkodási okmányok hiányában is, azzal, hogy ha a kérelmet 2021. december 31-e után nyújtja be, igazolnia kell a határidő elmulasztásának észszerű okait is.
 
-(8) Az egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja a Harmtv. szabályai szerint EK letelepedési engedély iránti kérelmet is előterjeszthet.
+(8) Az egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja a Btátv. szabályai szerint EU tartózkodási kártya iránti kérelmet is előterjeszthet.
 
-(9) Az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki a Magyarországon jogszerűen tartózkodó egyesült királysági állampolgárhoz csatlakozik, a Harmtv. szerinti nemzeti letelepedési engedélyt kaphat, ha
+(9) Az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki a Magyarországon jogszerűen tartózkodó egyesült királysági állampolgárhoz csatlakozik, a Btátv. szerinti nemzeti tartózkodási kártyát kaphat, ha
 
-- a) az egyesült királysági állampolgár Magyarországon jogszerűen letelepedettként tartózkodik,
-- b) az egyesült királysági állampolgárral fennálló családi kapcsolatát 2021. január 1-jét megelőzően létesítette és az a nemzeti letelepedési engedély iránti kérelem benyújtásakor is fennáll,
-- c) vele szemben a Harmtv. 33. § (2) bekezdésében meghatározott kizáró ok nem áll fenn.
+- a) az egyesült királysági állampolgár Magyarországon jogszerűen huzamos tartózkodási jogosultsággal rendelkezőként tartózkodik,
+- b) az egyesült királysági állampolgárral fennálló családi kapcsolatát 2021. január 1-jét megelőzően létesítette és az a nemzeti tartózkodási kártya iránti kérelem benyújtásakor is fennáll,
+- c) vele szemben a Btátv. 75. § (2) bekezdésében meghatározott kizáró ok nem áll fenn.
 
-(10) A (9) bekezdés c) pontja tekintetében a Harmtv. nemzeti letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából. A kijelölt szakhatóság azon szakkérdésben, hogy a nemzeti letelepedési engedély kiadását kérelmező letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását mind az elsőfokú, mind a másodfokú eljárásban tizenöt napon belül adja meg.
+(10) A (9) bekezdés c) pontja tekintetében a Btátv. nemzeti tartózkodási kártya kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából. A kijelölt szakhatóság azon szakkérdésben, hogy a nemzeti tartózkodási kártya kiadását kérelmező huzamos tartózkodási jogosultsága veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását mind az elsőfokú, mind a másodfokú eljárásban tizenöt napon belül adja meg.
 
-(11) Ha a Harmtv. szerint letelepedett egyesült királysági állampolgárnak és harmadik ország állampolgárságával rendelkező családtagjának gyermeke született, a születés bejelentését követően a gyermek részére nemzeti letelepedési engedéllyel vagy EK letelepedési engedéllyel rendelkező szülő esetén nemzeti letelepedési engedélyt kell kiállítani.
+(11) Ha a Btátv. szerint huzamos tartózkodási jogosultsággal rendelkező egyesült királysági állampolgárnak és harmadik ország állampolgárságával rendelkező családtagjának gyermeke született, a születés bejelentését követően a gyermek részére nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával rendelkező szülő esetén nemzeti tartózkodási kártyát kell kiállítani.
 
-(12) A (4), (7), (9) és (11) bekezdés szerinti nemzeti letelepedési engedély kiadására irányuló eljárás tárgyi költségmentes.
+(12) A (4), (7), (9) és (11) bekezdés szerinti nemzeti tartózkodási kártya kiadására irányuló eljárás tárgyi költségmentes.
 
-(13) A (4), (7), (9) és (11) bekezdés szerint megszerzett nemzeti letelepedési engedélyt az idegenrendészeti hatóság visszavonja, ha az egyesült királysági állampolgár vagy az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja
+(13) A (4), (7), (9) és (11) bekezdés szerint megszerzett nemzeti tartózkodási kártyát vagy a Btátv. hatálybalépése előtt megszerzett nemzeti letelepedési engedélyt az idegenrendészeti hatóság visszavonja, ha az egyesült királysági állampolgár vagy az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja
 
 - a) Magyarország területét öt egymást követő évnél hosszabb ideig elhagyta,
 - b) veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát,
 - c) kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll, vagy
-- d) a nemzeti letelepedési engedély visszavonását kéri.
+- d) a nemzeti tartózkodási kártya visszavonását kéri.
 
-(14) Az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagjának a (4), (7), (9) és (11) bekezdés szerint megszerzett nemzeti letelepedési engedélyét az idegenrendészeti hatóság visszavonja, ha az egyesült királysági állampolgár nemzeti letelepedési engedélye visszavonásra került, kivéve, ha a családtag a nemzeti letelepedésre vonatkozó Harmtv. szerinti általános szabályoknak – ide nem értve a Harmtv. 35. § (1a) bekezdését – megfelel.
+(14) Az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagjának a (4), (7), (9) és (11) bekezdés szerint megszerzett nemzeti tartózkodási kártyáját vagy a Btátv. hatálybalépése előtt megszerzett nemzeti letelepedési engedélyét az idegenrendészeti hatóság visszavonja, ha az egyesült királysági állampolgár nemzeti letelepedési engedélye vagy nemzeti tartózkodási kártyája visszavonásra került, kivéve, ha a családtag a huzamos tartózkodási jogosultság megszerzésére vonatkozó Btátv. szerinti általános szabályoknak – ide nem értve a Btátv. 83. § (2) bekezdését – megfelel.
 
-(15) Azon egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki 2021. január 1-jét követően utazik be, a Harmtv. általános szabályai szerint kérelmezheti tartózkodási engedély kiadását azzal, hogy a Magyarországon jogszerűen tartózkodó egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja a tartózkodási engedély kiadását Magyarországon is kérelmezheti.
+(15) Azon egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki 2021. január 1-jét követően utazik be, a Btátv. általános szabályai szerint kérelmezheti tartózkodási engedély kiadását azzal, hogy a Magyarországon jogszerűen tartózkodó egyesült királysági állampolgár, valamint az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja a tartózkodási engedély kiadását Magyarországon is kérelmezheti.
 
-(16) Azon egyesült királysági állampolgár, aki 2020. december 31-e előtt Magyarországon munkaviszonnyal rendelkezett és e jogállása a kérelmezés időpontjában fennáll, azonban lakóhelye vagy szálláshelye Magyarország területén kívül van, a Harmtv. 29/A. §-ban meghatározottak szerint kérhet tartózkodási engedélyt munkavállalás céljából azzal, hogy nem kell igazolnia a Harmtv. 13. § (1) bekezdés e)–g) pontjában foglaltakat.
+(16) Azon egyesült királysági állampolgár, aki 2020. december 31-e előtt Magyarországon munkaviszonnyal rendelkezett és e jogállására tekintettel – annak figyelembevételével, hogy lakóhelye vagy szálláshelye Magyarország területén kívül volt – a harmadik országbeli állampolgárok beutazásáról és tartózkodásától szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 29/A. §-ában meghatározottak szerint tartózkodási engedélyt kapott munkavállalás céljából a Harmtv. 13. § (1) bekezdés e)–g) pontjában foglaltak igazolása nélkül – tartózkodási engedélyének meghosszabbítása iránti eljárásban a Btátv. 242. § (1) bekezdése irányadó és a tartózkodási engedély a Btátv. 28. §-a vagy 36. §-a szerinti tartózkodási célból állítható ki. A tartózkodási engedély meghosszabbítása iránti eljárásban az egyesült királysági állampolgárnak nem kell igazolnia a Btátv. 17. § (1) bekezdés e)–g) pontjában foglaltakat.
 
-(17) Azon egyesült királysági állampolgár, aki 2020. december 31-e előtt Magyarországon egyéni vállalkozói tevékenységet folytatott és e jogállása a kérelmezés időpontjában fennáll, azonban lakóhelye vagy szálláshelye Magyarország területén kívül van, a Harmtv. 20. § (1) bekezdése szerint kérelmezhet tartózkodási engedélyt jövedelemszerzés céljából azzal, hogy nem kell igazolnia a Harmtv. 13. § (1) bekezdés e)–g) pontjában foglaltakat.
+(17) Azon egyesült királysági állampolgár, aki 2020. december 31-e előtt Magyarországon egyéni vállalkozói tevékenységet folytatott és e jogállására tekintettel – annak figyelembevételével, hogy lakóhelye vagy szálláshelye Magyarország területén kívül volt – a Harmtv. 20. § (1) bekezdésében maghatározottak szerint tartózkodási engedélyt kapott jövedelemszerzés céljából a Harmtv. 13. § (1) bekezdés e)–g) pontjában foglaltak igazolása nélkül – tartózkodási engedélyének meghosszabbítása iránti eljárásban a tartózkodási engedély a Btátv. 21. §-a szerinti tartózkodási célból állítható ki. A tartózkodási engedély meghosszabbítása iránti eljárásban az egyesült királysági állampolgárnak nem kell igazolnia a Btátv. 17. § (1) bekezdés e)–g) pontjában foglaltakat.
 
-(18) A (16) és (17) bekezdés szerinti tartózkodási engedély kiállítása iránti kérelmet 2021. március 31-ig lehet benyújtani, meghosszabbítására a (16) és (17) bekezdésben foglaltakat alkalmazni kell.
+(18)
 
 (19) A (16) és (17) bekezdés szerinti tartózkodási engedély érvényességi ideje öt év, amely alkalmanként öt évvel meghosszabbítható.
 

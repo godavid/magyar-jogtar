@@ -261,7 +261,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (6) Az ÜHG-egységek térítés ellenében történő kiosztása (értékesítése) során az Nvtv. átlátható szervezetre vonatkozó rendelkezéseit nem kell alkalmazni.
 
-26. § A miniszter a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 100%-ának, valamint a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (4) bekezdésében és a 10. cikk (3) bekezdésében meghatározott célok egyikére vagy közülük többre fordított, az Energia- és klímapolitikai modernizációs rendszer előirányzat keretében való felhasználásáról a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.
+26. § A miniszter az ÜHG-egységek állam általi, árverés útján történő értékesítéséből származó – az Európai Unió közös költségvetését az ÜHG-egységek értékesítésére tekintettel megillető saját forrás nagyságát meghaladó részéből – a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (4) bekezdésében és a 10. cikk (3) bekezdésében meghatározott céloknak megfelelő, a célhoz kötött felhasználásra vonatkozóan ott előírt minimális mértéket elérő részének felhasználásáról a Kormány által meghatározott prioritások alapján, az Energia- és klímapolitikai modernizációs rendszer előirányzat keretében, a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.
 
 #### 27. §
 

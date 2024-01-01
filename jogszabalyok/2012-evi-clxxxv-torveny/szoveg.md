@@ -131,6 +131,7 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - 47. vegyes hulladék: a háztartási és a háztartási hulladékhoz hasonló hulladéknak az a különböző fajtájú és összetételű hulladékot tartalmazó része, amelyet az elkülönítetten gyűjtött hulladéktól eltérő külön gyűjtőedényben gyűjtenek;
 - 48. veszélyes hulladék: az 1. mellékletben meghatározott veszélyességi jellemzők legalább egyikével rendelkező hulladék;
 - 49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
+- 49a. visszaváltási díj: kormányrendeletben meghatározott termékek visszafogadásának, ezáltal újrahasználatának vagy az azokból képződött hulladékok gyűjtésének ösztönzése érdekében a termék forgalomba hozatala során felszámított díj, amely a termék vagy hulladéka visszaváltásakor visszafizetésre kerül a visszaváltó részére;
 - 49b. visszaváltó berendezés: a visszaváltási díjat és a visszaváltási díjas termék visszaváltását biztosító eszköz és berendezés;
 - 50. zöldhulladék: kertben, vagy kertészeti tevékenység során képződő növényi eredetű hulladék.
 
@@ -164,9 +165,9 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 - a) a hulladékképződés megelőzésének elve:
   - aa) elő kell segíteni, hogy a megelőzés a hulladékhierarchia legmagasabb szintjeként az erőforrás-hatékonyság fejlesztését és a hulladék környezetre gyakorolt hatásának csökkentését eredményezze,
-  - ab) elő kell mozdítani az olyan innovatív gyártási, üzleti és fogyasztási modelleket, amelyek csökkentik a veszélyes anyagok jelenlétét az anyagokban és termékekben, ösztönöznek a termékek élettartamának növelésére és előmozdítják az újrahasználatot, olyan újrahasználati és javítási hálózatok létrehozása és támogatása révén, mint a szociális jellegű vállalkozások által üzemeltetett hálózatok, a betétdíjas, vagy újratöltő rendszerek, a termékek újragyártását, felújítását és adott esetben rendeltetésük módosítását ösztönző intézkedések, vagy megosztásalapú platformok révén,
+  - ab) elő kell mozdítani az olyan innovatív gyártási, üzleti és fogyasztási modelleket, amelyek csökkentik a veszélyes anyagok jelenlétét az anyagokban és termékekben, ösztönöznek a termékek élettartamának növelésére és előmozdítják az újrahasználatot, olyan újrahasználati és javítási hálózatok létrehozása és támogatása révén, mint a szociális jellegű vállalkozások által üzemeltetett hálózatok, a visszaváltási díjas, vagy újratöltő rendszerek, a termékek újragyártását, felújítását és adott esetben rendeltetésük módosítását ösztönző intézkedések, vagy megosztásalapú platformok révén,
   - ac) a fogyasztók figyelmét fel kell hívni a hulladékképződés megelőzésének jelentőségére, ösztönözni kell, hogy a fogyasztók tevőlegesen működjenek közre az erőforrás-hatékonyság javításában, illetve ennek részeként folyamatos kommunikációs és képzési lehetőségeket kell biztosítani a fogyasztók részére a hulladékképződés megelőzését és a hulladékelhagyást övező kérdésekkel kapcsolatos tudatosság növelésére, valamint
-  - ad) ha szükséges, intézkedni kell a betétdíjas rendszerek használata és mennyiségi célértékek felállítása, valamint a gyártók magatartását meghatározó gazdasági ösztönzők bevezetése érdekében;
+  - ad) ha szükséges, intézkedni kell a visszaváltási díjas rendszerek használata és mennyiségi célértékek felállítása, valamint a gyártók magatartását meghatározó gazdasági ösztönzők bevezetése érdekében;
 - b) a kiterjesztett gyártói felelősség elve: a gyártó felelős a termék és a technológia jellemzőinek a megelőzés és a hulladékgazdálkodás követelményei szempontjából történő kedvező megválasztásáért, ideértve a felhasznált alapanyagok megválasztását, a termék külső behatásokkal szembeni ellenálló képességének, élettartamának és újrahasználhatóságának, javíthatóságának, továbbá a termék előállításából és felhasználásából származó, illetve a termékből képződő hulladék hasznosításának és ártalmatlanításának megtervezését; a kiterjesztett gyártói felelősség alapján a gyártó felelős továbbá a visszavitt termék visszaváltásáért, visszavételéért, a termékből származó hulladék átvételéért, gyűjtéséért, amelyek az e tevékenységekért vállalt pénzügyi felelősséget is magukban foglalják;
 - c) az önellátás elve: az Európai Unió tagállamaival együttműködésben biztosítani kell, hogy Magyarország területén a hulladék ártalmatlanítására, valamint a vegyes hulladék hasznosítására alkalmas hulladékgazdálkodási létesítmények önálló hálózata jöjjön létre és működjön, figyelembe véve a földrajzi adottságokat, valamint azt, hogy bizonyos hulladék esetében különleges hulladékgazdálkodási létesítményekre van szükség; az önellátás elve nem jelenti azt, hogy Magyarországnak a hasznosító létesítmények teljes skálájával kell rendelkeznie;
 - d) a közelség elve: biztosítani kell, hogy a c) pont szerinti hálózat lehetővé tegye a hulladék egyik legközelebbi, a célnak megfelelő hulladékgazdálkodási létesítményben és a leginkább alkalmas módszerek, valamint technológiák segítségével történő hasznosítását vagy ártalmatlanítását, figyelembe véve a környezeti adottságokat, a környezeti és gazdasági hatékonyságot, az elérhető legjobb technikát, valamint az adott hulladék különleges kezelési igényét; a közelség elve nem jelenti azt, hogy Magyarországnak a hasznosító létesítmények teljes skálájával kell rendelkeznie;
@@ -513,7 +514,7 @@ igazolható módon tájékoztatja az átvevőt.
 
 23. § (1) A gyártó közérthető módon tájékoztatja a termék fogyasztóit a termék és csomagolása hulladékgazdálkodási szempontból lényeges tulajdonságairól, a termék és csomagolásának újrahasználhatóságáról, elhasználódása vagy hulladékká válása esetén annak feldolgozhatóságáról, valamint további kezelésének lehetőségeiről.
 
-(2) A gyártó a terméken vagy annak csomagolásán, illetve a csomagolószeren jól látható és közérthető módon jelöli a termék és a csomagolásként felhasznált csomagolószer hulladékszegény, tartós vagy újrafelhasználható jellegét, hulladékgazdálkodási szempontból lényeges anyagösszetételét, betét- vagy letéti díjas forgalmazását.
+(2) A gyártó a terméken vagy annak csomagolásán, illetve a csomagolószeren jól látható és közérthető módon jelöli a termék és a csomagolásként felhasznált csomagolószer hulladékszegény, tartós vagy újrahasználható jellegét, hulladékgazdálkodási szempontból lényeges anyagösszetételét, visszaváltási díjas vagy letéti díjas forgalmazását, továbbá a 32/B. § szerinti kötelezően visszaváltási díjas termék esetén annak jogszabályban meghatározott azonosító jelét.
 
 (3) A fogyasztók tájékoztatására, valamint a terméken és a csomagolásra felhasznált csomagolószeren feltüntetendő információkra vonatkozóan az (1) és (2) bekezdésben előírt követelmények megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
@@ -522,26 +523,26 @@ igazolható módon tájékoztatja az átvevőt.
 24. § (1) A gyártó törvényben, kormányrendeletben vagy miniszteri rendeletben meghatározott termék vagy termékcsoport, továbbá a termék csomagolására felhasznált csomagolószer vonatkozásában
 
 - a) az általa előállított vagy forgalomba hozott termékcsoportból származó terméket, továbbá a csomagolására felhasznált csomagolószert a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi annak újrahasználata, továbbá
-- b) az általa előállított vagy forgalomba hozott termékből, továbbá a termék csomagolására felhasznált csomagolószerből származó hulladékot a hulladékbirtokostól átveszi annak újrahasználatra való előkészítése, hasznosítása, valamint ártalmatlanítása
+- b) az általa előállított vagy forgalomba hozott termékből, továbbá a termék csomagolását képező csomagolószerből származó hulladékot – a 32/B. § szerinti kötelezően visszaváltási díjas termékből származó hulladék kivételével – a hulladékbirtokostól átveszi annak újrahasználatra való előkészítése, hasznosítása, valamint ártalmatlanítása
 
 érdekében.
 
 (2)
 
-25. § (1) A gyártó a terméke forgalomba hozatalát megállapodás alapján ahhoz a feltételhez kötheti, hogy a forgalmazó vállaljon kötelezettséget a termék és a termék csomagolását képező csomagolószer betétdíj – tartós fogyasztási cikk esetén letéti díj – ellenében történő visszavételére a betétdíj alkalmazásának szabályairól szóló kormányrendeletben meghatározott feltételek szerint.
+25. § (1) A gyártó a terméke forgalomba hozatalát – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – megállapodás alapján ahhoz a feltételhez kötheti, hogy a forgalmazó kötelezettséget vállal a termék és a termék csomagolását képező csomagolószer visszaváltási díj – tartós fogyasztási cikk esetén letéti díj – ellenében történő visszavételére a visszaváltási díj alkalmazásának szabályairól szóló kormányrendeletben meghatározott feltételek szerint.
 
-(2) A gyártó azt a betét- vagy letéti díjas terméket, továbbá annak csomagolását, amely után a fogyasztó betét- vagy letéti díjat fizetett, a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi, és a betét- vagy letéti díjat részére visszafizeti.
+(2) A gyártó azt az (1) bekezdés szerinti visszaváltási díjas vagy letéti díjas terméket, továbbá annak csomagolását, amely után a fogyasztó visszaváltási vagy letéti díjat fizetett, a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi, és a visszaváltási vagy letéti díjat részére visszafizeti.
 
 #### 15. A forgalmazó kötelezettségei
 
-26. § (1) A forgalmazó a gyártóval megállapodást köthet arról, hogy a forgalmazó gondoskodik
+26. § (1) A forgalmazó – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – a gyártóval megállapodást köthet arról, hogy a forgalmazó gondoskodik
 
-- a) az általa forgalmazott termék, továbbá csomagolás fogyasztótól történő visszaváltásáról vagy visszavételéről és a gyártónak történő átadásáról, valamint
-- b) az általa forgalmazott termékből, továbbá csomagolásából származó hulladék hulladékbirtokostól történő átvételéről, elkülönített gyűjtéséről és hulladékkezelőnek történő átadásáról.
+- a) az általa forgalmazott termék, és a termék csomagolását képező csomagolószer fogyasztótól történő visszaváltásáról vagy visszavételéről, és a gyártónak történő átadásáról, valamint
+- b) az általa forgalmazott termékből, és a termék csomagolását képező csomagolószerből származó hulladék hulladékbirtokostól történő átvételéről, elkülönített gyűjtéséről és hulladékkezelőnek történő átadásáról.
 
 (2) Törvény, kormányrendelet vagy miniszteri rendelet a forgalmazót a gyártótól függetlenül is kötelezheti az általa forgalmazott termék, termékcsoportból származó termék, továbbá a termék csomagolásának fogyasztótól történő visszaváltására vagy visszavételére, valamint a termékből és csomagolásából származó hulladék hulladékbirtokostól történő átvételére, elkülönített gyűjtésére, hulladékkezelőnek történő átadására.
 
-27. § A forgalmazó azt a terméket és csomagolását, amely után a fogyasztó betét- vagy letéti díjat fizetett, a fogyasztótól visszaváltja vagy visszaveszi, és részére a díjat visszafizeti.
+27. § A forgalmazó a fogyasztó által felajánlott terméket és a termék csomagolását képező csomagolószert, amely után a fogyasztó visszaváltási díjat vagy letéti díjat fizetett, a fogyasztótól visszaváltja vagy visszaveszi, és részére a díjat visszafizeti.
 
 #### 16. A gyártóra és a forgalmazóra vonatkozó közös szabályok
 
@@ -549,10 +550,10 @@ igazolható módon tájékoztatja az átvevőt.
 
 (2) Termék forgalmazását
 
-- a) törvény vagy kormányrendelet betét- vagy letéti díj,
-- b) törvény termékdíj megfizetéséhez
+- a) törvény vagy kormányrendelet a visszaváltási vagy a letéti díj,
+- b) törvény a termékdíj
 
-kötheti.
+megfizetéséhez kötheti.
 
 (3) Törvény vagy kormányrendelet a termék fejlesztésével, forgalmazásával, használatával vagy feldolgozásával üzletszerűen foglalkozó gazdálkodó szervezetet részben vagy egészben kötelezheti a kiterjesztett gyártói felelősségre vonatkozó kötelezettségek teljesítésére.
 
@@ -599,7 +600,7 @@ kötheti.
 (3) A kiterjesztett gyártói felelősségi kötelezettségeknek való megfelelés céljából a gyártók által fizetett pénzügyi hozzájárulás
 
 - a) legalább a gyártó által belföldön forgalomba hozott termékek következő költségeit fedezi:
-  - aa) a hulladék elkülönített gyűjtésének, azt követő szállításának és kezelésének költsége, ideértve a hulladékgazdálkodási célértékeknek való megfeleléshez szükséges kezelés költségeit és az újrahasználatból, a másodnyersanyagok értékesítéséből a visszafizetésre nem kerülő betétdíjakból befolyó bevételek figyelembevételével,
+  - aa) a hulladék elkülönített gyűjtésének, azt követő szállításának és kezelésének költsége, ideértve a hulladékgazdálkodási célértékeknek való megfeleléshez szükséges kezelés költségeit és az újrahasználatból, a másodnyersanyagok értékesítéséből a visszafizetésre nem kerülő visszaváltási díjakból befolyó bevételek figyelembevételével,
   - ab) az (1) bekezdés e) pontjában foglaltak alapján a hulladékbirtokosoknak nyújtott tájékoztatás költségeit, és
   - ac) az (1) bekezdés c) pontjával összhangban történő adatgyűjtés és -szolgáltatás költségét,
 - b) kollektív felelősségi rendszer esetén, a termékek tartóssága, javíthatósága, újrahasználhatósága, újrafeldolgozhatósága és a veszélyes anyagok jelenléte figyelembevételével, életciklus-alapú megközelítést alkalmazva, a vonatkozó európai uniós jogi aktusok követelményeivel összhangban, valamint – amennyiben rendelkezésre állnak – harmonizált kritériumok alapján a belső piac zökkenőmentes működésének biztosítása érdekében az egyes termékek vagy hasonló termékekből álló termékcsoportok esetében módosításra kerül, és
@@ -607,7 +608,7 @@ kötheti.
 
 (4) A (3) bekezdés a) pontjában meghatározott szempontokat a hulladékká vált gépjárművekről, az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről, továbbá az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletek alapján létrehozott kiterjesztett gyártói felelősségi rendszerek esetében nem kell alkalmazni.
 
-(5) A (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.
+(5) A kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek kivételével a (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.
 
 30/B. § (1) A kiterjesztett gyártói felelősségi rendszer a gyártó és a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet kötelezettségeinek teljesítése, a pénzügyi eszközök megfelelő felhasználása, a szabályszerű adatszolgáltatás teljesítése érdekében – ideértve a távollevők között kötött szerződés esetét is – magában foglalja a hatékony ellenőrzési rendszer létrehozását és működtetését.
 
@@ -626,6 +627,8 @@ kötheti.
 (2) A kiterjesztett gyártói felelősségi körbe tartozó termékekből származó, a települési hulladékként kezelésre kerülő, az illegálisan lerakásra kerülő hulladékkal összefüggő, továbbá a köztisztaság keretében a 33. § (5) bekezdése alapján eltávolításra kerülő hulladékkal összefüggő, a koncessziós társaságnál felmerülő, valamint a köztisztaság keretében a 33. § (5) bekezdése alapján eltávolításra kerülő hulladékkal összefüggő, az önkormányzatoknál felmerülő, és megtérítendő, egymástól elkülönített indokolt költségeket a 30/A. § (5) bekezdése szerinti kiterjesztett gyártói felelősségi díj tartalmazza. Ha az önkormányzat részére e bekezdés alapján megtérítendő összeg meghaladja az önkormányzat által a 33. § (6) bekezdése szerint a koncessziós társaság részére fizetendő összeget, a különbözetet téríti meg a koncessziós társaság az önkormányzat részére a (2a) bekezdés szerinti elkülönített bankszámlán lévő összeg erejéig.
 
 (2a) A (2) bekezdés szerinti, a hulladék 31. § (2) bekezdés a) pontjában foglalt átadást megelőzően felmerült, önkormányzat által viselt költségek fedezetére a gyártóktól a koncessziós társaság részére befolyt pénzösszegek nem minősülnek a koncessziós társaság bevételének, azokat a koncessziós társaság elkülönített bankszámlán, egyéb pénzeszközeitől elkülönítetten kezeli, és az önkormányzatok részére a 33. § (6) bekezdésére figyelemmel a (2) bekezdés szerint megtéríti. A koncessziós társaság az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként veszi figyelembe.
+
+(2b) A kötelezően visszaváltási díjas termékekből származó (2) bekezdésben meghatározott költségeket a 32/B. § (4) bekezdése szerinti szolgáltatási díj tartalmazza.
 
 (3) A miniszter az állami hulladékgazdálkodási közfeladattal érintett hulladék minőségi és mennyiségi adatainak feltárása érdekében a vonatkozó szabványoknak megfelelően, évente országos hulladékanalízist készít, amelynek mennyiségi adatait június 30-ig a Hivatal és a koncessziós társaság részére megküldi.
 
@@ -757,6 +760,16 @@ ellátására.
 (7) A Koordináló szerv részletes feladatairól, valamint a (4) bekezdésben meghatározott adatszolgáltatás – személyes adatokat nem tartalmazó – tartalmáról és rendjéről e törvény felhatalmazása alapján kiadott kormányrendelet rendelkezik. A koncessziós társaság, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa az e törvény végrehajtására kiadott rendeletben foglaltak szerint eleget tesz adatszolgáltatási kötelezettségének a Koordináló szerv, illetve a miniszter és a Hivatal részére.
 
 (8) Az állami hulladékgazdálkodási közfeladat ellátását szolgáló, az állam tulajdonában álló valamennyi hulladékgazdálkodási eszköz e törvény erejénél fogva a közfeladat ellátásához szükséges vagyonként ingyenesen, a 32/A. § (4e) bekezdésének a) pontja szerinti Koordináló szerv vagyonkezelésébe kerül azzal, hogy a közfeladat ellátása érdekében a Koordináló szerv vagyonkezelésébe kerülő vagyonelemek tekintetében vagyonkezelői szerződés megkötése nem szükséges.
+
+#### 17/B. A kötelező visszaváltási díjas rendszerre vonatkozó rendelkezések
+
+32/B. § (1) Az állam kormányrendeletben meghatározott termékekre vonatkozóan kötelező visszaváltási díjas rendszert alakít ki és működtet a kötelezően visszaváltási díjas termékek újrahasználata, valamint e termékekből származó hulladék országos, egységes, integrált hulladékgazdálkodási rendszerének megvalósítása érdekében. Ha az állami hulladékgazdálkodási közfeladatot az állam a koncesszornak átengedte, a kötelező visszaváltási díjas rendszert a koncessziós társaság működteti, ide értve különösen a kapcsolódó kommunikációt, a pénzügyi koordinációt és elszámolást, valamint a jelentéstételi rendszer működtetését is.
+
+(2) Az (1) bekezdés szerinti kötelező visszaváltási díjas rendszer keretében gyűjtött hulladék az állam, vagy ha az állami hulladékgazdálkodási közfeladatot az állam a koncesszornak átengedte, a koncessziós társaság tulajdonába kerül.
+
+(3) Az (1) bekezdés szerinti kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek esetén, ha az állami hulladékgazdálkodási közfeladatot az állam a koncesszornak átengedte, a visszaváltást egységesen a koncessziós társaság biztosítja a koncessziós társaság üzemeltetésében álló visszaváltó berendezéssel, vagy kézi átvétellel a forgalmazó közreműködésével.
+
+(4) Az (1) bekezdés szerinti kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékekre kiterjedően a termék gyártója a kötelező visszaváltási díjas rendszer működtetéséért a koncessziós társaság részére a 30/A. § (3) bekezdése szerinti pénzügyi hozzájárulást a csatlakozási díj és szolgáltatási díj megfizetésével teljesíti.
 
 #### 18. A települési önkormányzatra vonatkozó szabályok
 
@@ -990,6 +1003,7 @@ elkülönített gyűjtése biztosított legyen;
   - ab) az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó települési hulladékával kapcsolatos hulladékgazdálkodási intézményi résztevékenység,
   - ac) a közterületi köztisztasági önkormányzati közfeladattal összefüggésben keletkezett hulladékkal kapcsolatos tevékenysége,
   - ad) kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékekkel és az azokból származó hulladékokkal kapcsolatos hulladékgazdálkodási intézményi résztevékenység, továbbá a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak ellátása,
+  - ae) a kötelező visszaváltási díjas rendszerbe tartozó termékeknek és e termékekből származó hulladékokkal kapcsolatos hulladékgazdálkodási intézményi résztevékenység, továbbá a kötelező visszaváltási díjas rendszer működtetése érdekében végzett tevékenysége,
 - b) a B3 alkategóriájú hulladéklerakó, valamint a 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetője esetében az állami hulladékgazdálkodási közfeladat ellátásához kapcsolódó tevékenysége
 
 szerinti felosztást tartalmazza.
@@ -2224,7 +2238,7 @@ kezeli.
 - 6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, továbbá tartalmi követelményeit és az Országos Hulladékgazdálkodási Tervet és az Országos Megelőzési Programot;
 - 7. a hulladékgazdálkodási bírság mértékét, megállapításának szempontrendszerét, a helyszíni bírság kiszabásának és a bírság megfizetése módjának részletes szabályait;
 - 8. a hulladék külföldről történő behozatalát, az országból történő kivitelét és az ország területén történő átszállítását;
-- 9. a letéti díj, valamint az újrahasználható és a nem újrahasználható termékek betétdíja megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal, illetve a betétdíjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;
+- 9. a letéti díj, valamint a visszaváltási díj megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal és a visszaváltási díjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;
 - 10. a visszavételi és visszaadási lehetőség alkalmazását, a használt termékek, illetve a hulladék átvételi, gyűjtési és hasznosítási arányait és azok teljesítésének határidejét;
 - 11. a csomagolás és a csomagolószer hulladékká válását megelőző tevékenységek, valamint a hulladékká vált csomagolással kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 - 12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek és a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint az elektromos és elektronikus berendezések vissza- és átvételi díját;
@@ -3020,7 +3034,7 @@ A hulladékképződéssel kapcsolatos keretfeltételeket érintő intézkedések
 - 2. A hulladékbirtokos által kezelésre átadott hulladék mennyiségével arányos díjakon alapuló rendszerek, amelyek a képződő hulladék tényleges mennyiségét mérséklik, továbbá az újrafeldolgozható hulladék képződésének helyén történő elkülönített gyűjtésre, és a vegyes hulladék csökkentésére ösztönöznek;
 - 3. Pénzügyi ösztönzők a termékek, különösen az élelmiszerek adományozására;
 - 4. Hulladékfajtára és -típusra vonatkozó kiterjesztett gyártói felelősségi rendszerek, valamint ezen rendszerek eredményességét, költséghatékonyságát és irányítását javító intézkedések;
-- 5. Betétdíjas rendszerek és egyéb, a használt termékek és anyagok hatékony gyűjtését ösztönző intézkedések;
+- 5. Visszaváltási díjas rendszerek és egyéb, a használt termékek és anyagok hatékony gyűjtését ösztönző intézkedések;
 - 6. A hulladékgazdálkodási infrastruktúrához igazodó, így különösen az Európai Unió pénzügyi alapjain keresztül finanszírozott beruházás tervezés;
 - 7. A fenntartható fejlődés szempontú közbeszerzés megteremtése a hulladékgazdálkodás javítása, és az újrafeldolgozott termékek vagy anyagok felhasználásának ösztönzése érdekében;
 - 8. A hulladékhierarchiával ellentétes hatású támogatások fokozatos kivezetése;

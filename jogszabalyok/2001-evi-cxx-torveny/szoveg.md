@@ -384,7 +384,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - c) az önkormányzat,
 - d) nemzetközi szervezet és minden olyan külföldi szervezet, amely saját joga alapján kötvény kibocsátására jogosult,
 - e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe,
-- f) külön törvényben erre feljogosított szervezet.
+- f) törvényben vagy kormányrendeletben erre feljogosított szervezet.
 
 (9) A kötvényben a kibocsátójáért vállalt kezesség egyoldalú jognyilatkozatként is érvényes, annak érvényesítésére a kötvény mindenkori jogosultja jogosult.
 
@@ -873,7 +873,7 @@ az auditbizottság feladatkörét az igazgatótanács vagy a felügyelőbizotts�
 - b) az érintett részvény adatait, a kivezetés, vagy az átvezetés tervezett időpontját tartalmazó nyilatkozatot,
 - c) átvezetés esetén annak a szabályozott piacnak az elérhetőségét, amelyen a részvénnyel kereskednek.
 
-(4) A szabályozott piacra bevezetett részvény kivezetéséről szóló döntésről a kibocsátó a határozat meghozatalát követő 5 munkanapon belül értesíti a részvénykönyvben bejegyzett részvényeseket a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint, továbbá – amennyiben a kibocsátó rendelkezik ilyennel – a hirdetményi lapjában és egy országos terjesztésű napilapban közzéteszi a (3) bekezdés a)–c) pontjában foglaltakat.
+(4) A szabályozott piacra bevezetett részvény kivezetéséről szóló döntésről a kibocsátó a határozat meghozatalát követő 5 munkanapon belül értesíti a részvénykönyvben bejegyzett részvényeseket a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint, továbbá a honlapján közzéteszi a (3) bekezdés a)–c) pontjában foglaltakat.
 
 (5) A kivezetésről szóló határozat szabályozott piachoz való benyújtásától a részvény szabályozott piacról való tényleges, a kivezetéséig eltelt időtartam nem lehet rövidebb, mint 60 kereskedési nap.
 
@@ -2180,7 +2180,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (2) Az Alap pénzeszközeit – a házipénztárt, a fizetési számlán tartott likviditási tartalékot, valamint a kifizetés lebonyolítására vagy más, az Alap működéséhez szükséges célra pénzforgalmi szolgáltatóhoz átutalt összeget kivéve – állampapírban vagy az MNB-nél elhelyezett betétben tarthatja.
 
-(3)
+(3) Az Alap pénzügyi-számviteli ellenőrzését az Állami Számvevőszék végzi.
 
 (4) Az Alap kölcsönt vehet fel.
 
@@ -2527,7 +2527,7 @@ tevékenység.
 
 (3) Tőzsde árualapú ügyletek, deviza valamint határidős kamatláb ügyletek kereskedése esetén legalább egyszázötven millió, egyéb tőzsdei termék kereskedése esetén legalább ötszázmillió forint pénzben befizetett alaptőkével (jegyzett tőkével) alapítható.
 
-(4) Tőzsde alapító tagjaként az alapítás alatt lévő tőzsdében minősített befolyást csak olyan személy szerezhet, aki a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és akinek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs.
+(4) Tőzsde alapító tagjaként az alapítás alatt lévő tőzsdében minősített befolyást csak olyan személy szerezhet, aki a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, aki nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt, és akinek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs.
 
 300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell – az (5) bekezdésében foglaltak figyelembevételével –:
 
@@ -2552,7 +2552,7 @@ tevékenység.
 - i) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett;
 - j) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű és nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt.
 
 (3) Ha az alapítók között minősített befolyást szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító, befektetési vállalkozás van, az (1) és (2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez be kell nyújtani a székhely szerinti ország hatáskörrel rendelkező felügyeleti hatóságának igazolását vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
@@ -3336,6 +3336,7 @@ MEGSZŰNÉSE
 - b) aki legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
 - c) aki – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
 - d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
+- e) aki nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt.
 
 (2)
 

@@ -747,7 +747,7 @@ tart.
 
 (2) Az (1) bekezdés b) pontja szerinti összeg megállapítása során alkalmazni kell a Kenytv. 20. §-át.
 
-(3) A nyugdíj előtti rendelkezési állományba helyezett illetményét a központi költségvetés a honvédelmi szervezetnek megtéríti.
+(3)
 
 (4) Az (1) bekezdés b) pontja szerinti összeget a Tny. tv. 62. §-ában foglaltak szerint emelni kell.
 
@@ -1275,7 +1275,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (2a) A 4/A. § (2) bekezdés b) és c) pontja esetén a (2) bekezdés szerinti járandóságok megállapítására – ha jogszabály eltérően nem rendelkezik – a központi személyügyi szerv vezetője jogosult.
 
-(2b) Az állomány szülői szabadságra, vagy apasági szabadságra jogosult tagja részére a (2) bekezdésben meghatározott időpontban igazolást kell kiadni a kiadott szülői szabadság, vagy apasági szabadság tartamáról, ebben fel kell tüntetni a korábbi munkáltató által kiadott szülői szabadság, vagy apasági szabadság tartamát is.
+(2b)
 
 (3) A szolgálati viszony megszűnésekor, megszüntetésekor miniszteri rendeletben meghatározott esetekben és feltételekkel az állomány tagja megtérítési kötelezettséggel tartozik, és elhelyezkedésének elősegítése érdekében szakmai át-, vagy továbbképzési támogatásban részesíthető.
 
@@ -1676,7 +1676,7 @@ az állomány tagját mentesíti a szolgálatteljesítési kötelezettsége aló
 
 tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
-(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos és szerződéses szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani. Ha a szolgálati viszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos és szerződéses szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani. Ha a szolgálati viszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 (2b) A végkielégítés szempontjából a honvédelmi szervezet állományában a katonai szolgálati viszony létesítését közvetlenül megelőző, nem katonai szolgálati viszonyban eltöltött időket is figyelembe kell venni, kivéve, ha a korábbi jogviszony alapján a végkielégítés kifizetésre került.
 
@@ -1977,7 +1977,7 @@ időtartamát.
 
 112. § (1) A szabadságot a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy adja ki. Az alap- és a pótszabadság együttes időtartamának 50%-át egyfolytában, 25%-át, de legalább 10 munkanapot pedig az állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a honvédelmi szervezet működőképességét ne veszélyeztesse. A munkáltatói jogkört gyakorló által meghatározott szabadság kezdő napját az állomány tagjával legkésőbb a szabadság kezdete előtt 15 nappal közölni kell.
 
-(1a) A munkáltatói jogkört gyakorló vagy az általa kijelölt személy – az (1) bekezdéstől eltérően – a szülői szabadságot az állomány tagja kérésének megfelelő időpontban adja ki. Az állomány tagja erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt bejelenti. A munkáltatói jogkört gyakorló vagy az általa kijelölt személy szolgálati érdekből a szülői szabadság kiadását elhalaszthatja, ennek indokát az állomány tagjával írásban közli.
+(1a) A munkáltatói jogkört gyakorló vagy az általa kijelölt személy – az (1) bekezdéstől eltérően – a 109. § (5) bekezdése szerinti pótszabadságot, valamint a szülői szabadságot az állomány tagja kérésének megfelelő időpontban adja ki. Az állomány tagja erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt bejelenti. A munkáltatói jogkört gyakorló vagy az általa kijelölt személy szolgálati érdekből a szülői szabadság kiadását elhalaszthatja, ennek indokát az állomány tagjával írásban közli.
 
 (2) A szabadságot – a szülői szabadság és az apasági szabadság kivételével – az esedékesség évében kell kiadni. Ha szolgálati érdekből erre nincs lehetőség, úgy azt a következő év június 30-ig, az állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított 30 napon belül kell kiadni, amennyiben az esedékesség éve letelt. Az állomány tagjának a szabadság kiadására vonatkozó igénye a szolgálati viszony fennállása alatt nem évül el.
 

@@ -144,7 +144,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (4) A hozzáférési jogosultsággal rendelkező kiegészítő médiaszolgáltatást nyújtót a Hatóság az Eht. 151–152. §-ai szerint adatok szolgáltatására kötelezheti.
 
-10. §
+#### 10. §
 
 ### Médiaszolgáltatás
 
@@ -258,11 +258,23 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### IV. Fejezet
 
-21–23. §
+#### 21. §
 
-24–28. §
+#### 22. §
 
-29. §
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
 
 ### V. Fejezet — A VERSENYT BIZTOSÍTÓ RENDELKEZÉSEK
 
@@ -418,7 +430,7 @@ a közönségarányát.
 
 (4) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
 
-42. §
+#### 42. §
 
 43. § (1)–(2)
 
@@ -453,27 +465,27 @@ a közönségarányát.
 
 (7) A műsorterjesztési szolgáltatások nyújtását lehetővé tevő, helyi és körzeti vételkörzetű földfelszíni digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított legfeljebb 12 év.
 
-43/B. §
+#### 43/B. §
 
-43/C. §
+#### 43/C. §
 
-43/D. §
+#### 43/D. §
 
-43/E. §
+#### 43/E. §
 
-43/F. §
+#### 43/F. §
 
-43/G. §
+#### 43/G. §
 
-43/H. §
+#### 43/H. §
 
-43/I. §
+#### 43/I. §
 
-43/J. §
+#### 43/J. §
 
-43/K. §
+#### 43/K. §
 
-43/L. §
+#### 43/L. §
 
 43/M. § (1) Az Elnök meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében kivételesen pályázati eljárás nélkül is feljogosíthat valamely vállalkozást helyi vagy körzeti műsorterjesztési szolgáltatás nyújtását lehetővé tevő műsorszóró adó üzemeltetésére. E médiaszolgáltatási jogosultságra az Elnök hatósági szerződésben a jogosultság iránti kérelmet elsőként benyújtó természetes, jogi személyt, jogi személyiség nélküli gazdásági társaságot vagy egyéb szervezetet (e § alkalmazásában a továbbiakban: kérelmező) jogosíthatja fel, amennyiben a kérelem műszaki és frekvenciagazdálkodási szempontból megalapozott, továbbá a kérelmező a közfeladat ellátásához szükséges és a műsorszóró adó üzemeltetésére vonatkozó jogszabályi feltételeknek megfelel. A felek a hatósági szerződésben kötelesek meghatározni a műsorszóró adó üzemeltetésére vonatkozó feltételeket, ideértve az üzemeltetési jogosultságért fizetendő díj mértékét is.
 
@@ -486,7 +498,7 @@ a közönségarányát.
 
 (2) A kérelmező a kérelmét a helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának a 38. § (1) bekezdésében meghatározott határideje előtt legkésőbb 12 hónappal nyújthatja be a Hatósághoz. A kérelemnek tartalmaznia kell az üzemeltetési jogosultság gyakorlása vételkörzetének megjelölését.
 
-(3) Ha a kérelemben megjelölt vételkörzet tekintetében tervezhető digitális televízió-műsorszóró adó üzemeltetési lehetőség, az Elnök a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint országos napilapban való megjelentetéssel, és azokban a vármegyékben, amelyek területét a vételkörzet földrajzilag meghatározott területe érinti, vármegyei napilapban való megjelentetéssel közleményt tesz közzé. A közlemény tartalmazza
+(3) Ha a kérelemben megjelölt vételkörzet tekintetében tervezhető digitális televízió-műsorszóró adó üzemeltetési lehetőség, az Elnök a Hatóság honlapján történő közzététellel, valamint országos napilapban való megjelentetéssel, és azokban a vármegyékben, amelyek területét a vételkörzet földrajzilag meghatározott területe érinti, vármegyei napilapban való megjelentetéssel közleményt tesz közzé. A közlemény tartalmazza
 
 - a) a közlemény közzétételének időpontját;
 - b) az ideiglenes digitális televízió műsorszórási jogosultsággal rendelkező médiaszolgáltató által benyújtott kérelem tényét és a kérelemben megjelölt vételkörzet megjelölését;
@@ -514,7 +526,7 @@ a közönségarányát.
 
 (5)
 
-44/A. §
+#### 44/A. §
 
 ### A digitális átállás forrásai
 
@@ -568,13 +580,17 @@ a közönségarányát.
 
 ### Átmeneti rendelkezések
 
-48. §
+#### 48. §
 
 49. § E törvénynek a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
 49/A. § A műsorterjesztő és médiaszolgáltató között a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény módosításáról szóló 2015. évi CXVIII. törvény hatálybalépését megelőzően kötött megállapodásokra a 37. § (6) bekezdés rendelkezéseit nem kell alkalmazni.
 
-50–52. §
+#### 50. §
+
+#### 51. §
+
+#### 52. §
 
 ### Felhatalmazás
 

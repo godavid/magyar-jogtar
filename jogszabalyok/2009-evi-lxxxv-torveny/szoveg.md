@@ -302,7 +302,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (5)
 
-20. § (1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy (e § alkalmazásában a továbbiakban: szervezetet képviselő) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezni jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a szervezetet képviselő által a fizetési számla feletti rendelkezésre bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.
+20. § (1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy, ideértve a számlatulajdonos szervezet törvényes képviselőjét, valamint a számlatulajdonos szervezet törvényes képviselője által e célból meghatalmazott személyt (e § alkalmazásában a továbbiakban együtt: szervezetet képviselő) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezésre jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a szervezetet képviselő által a fizetési számla feletti rendelkezésre jogosultként bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.
 
 (2) A szervezetet képviselő bejelentési, illetve rendelkezési jogosultságát abban az esetben gyakorolhatja, ha a megválasztását (kinevezését), valamint aláírását – a szervezet jogi formájára vonatkozó sajátosságok figyelembevételével – hitelt érdemlő módon (pl. illetékes cégbíróság által érkeztetett bejegyzési vagy változásbejegyzési kérelemmel és aláírási címpéldánnyal) igazolja. A pénzforgalmi szolgáltató nem felel a változásbejegyzési kérelem utóbb történő elutasítása esetén a számlatulajdonosnál bekövetkező károkért. Ha a szervezetet képviselő megbízatása megszűnik, az általa bejelentett aláírók rendelkezési joga mindaddig érvényes, amíg az új vagy más szervezetet képviselő másként nem rendelkezik.
 
@@ -397,7 +397,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 ### Előzetes tájékoztatás
 
-29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és az ügyfelek számára nyitva álló helyiségben közzététel útján tájékoztatni.
+29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és – a Posta Elszámoló Központot működtető intézmény kivételével – az ügyfelek számára nyitva álló helyiségben közzététel útján tájékoztatni.
 
 (2) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének egyértelműen, közérthetően és pontosan, magyar nyelven vagy az ügyféllel történt megállapodásban kikötött más nyelven tesz eleget.
 

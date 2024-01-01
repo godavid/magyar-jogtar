@@ -152,13 +152,23 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 - a) miniszterelnök esetében két évnél,
 - b) miniszter, a miniszterelnök politikai igazgatója, államtitkár esetén három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
 
-(5) Ha a politikai felsővezető a megbízatásának megszűnését követően újabb politikai felsővezetői megbízatást vagy szakmai felsővezetői kinevezést kap, a (2) és (4) bekezdésben meghatározott juttatás összege megegyezik a hatásköre gyakorlásának megszűnésétől az új megbízatással vagy kinevezéssel összefüggő hivatalba lépéséig terjedő időre járó illetménnyel.
+(5) Nem jogosult a politikai felsővezető a (2) és a (4) bekezdés szerinti juttatásra, ha a megbízatásának megszűnését követő 180 napon belül az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságban vezető tisztségviselői tisztség betöltésére vagy munkavégzésre irányuló jogviszonyt, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervnél munkavégzésre irányuló jogviszonyt (a továbbiakban együtt e § alkalmazásában: új jogviszony) létesít.
 
-(6)
+(6) Az (5) bekezdés szerinti esetben a politikai felsővezető köteles a részére kifizetett (2) és (4) bekezdés szerinti juttatás összegét az új jogviszony létesítésétől számított 30 napon belül visszafizetni.
+
+(6a) A (6) bekezdésben foglaltaktól eltérően nem kell a (2) és (4) bekezdés szerinti juttatás összegét visszafizetni, ha az új jogviszony keretében nem jár díjazás. Ha a politikai felsővezető a (6) bekezdés alapján már visszafizette a juttatást, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (9) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
 
 (7) A (2) és a (4) bekezdésben meghatározott időtartamok számításánál a folyamatosan politikai szolgálati jogviszonyban töltött időt – a hatáskörgyakorlás megszűnésétől az új megbízatással összefüggésben a hivatalba lépésig terjedő, legfeljebb hat hónapos, valamint a megbízatás megszűnésétől a hatáskörgyakorlás megszűnéséig terjedő megszakítást a folyamatosság szempontjából nem számítva – egybe kell számítani.
 
 (8) A (2), (3) és (4) bekezdésben meghatározott juttatás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+
+(9) A politikai felsővezető köteles haladéktalanul tájékoztatni
+
+- a) a korábban őt foglalkoztató kormányzati igazgatási szervet az új jogviszony létesítéséről,
+- b) az új jogviszonyban őt foglalkoztató szervet arról, hogy az (5) bekezdés hatálya alá tartozik,
+- c) a (6a) bekezdés szerinti feltételek teljesüléséről az őt korábban foglalkoztató kormányzati igazgatási szervet.
+
+(10) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a politikai felsővezető (2), illetve (4) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
 
 14. § (1) A miniszter, a miniszterelnök politikai igazgatója és az államtitkár a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot. Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
 

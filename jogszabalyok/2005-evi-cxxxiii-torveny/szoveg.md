@@ -113,7 +113,7 @@ megkezdése és folytatása
 
 (5) Nem szükséges igazolvány az elektronikai vagyonvédelmi rendszer telepítésére, szerelésére irányuló hálózatépítéssel összefüggő segédmunkához, amennyiben a hálózatépítés helyén jelen van a munkát irányító, igazolvánnyal rendelkező személy.
 
-7. § A működési engedély és az igazolvány öt évig hatályos, hatályossági idejük alkalmanként további öt évre meghosszabbítható, ha a kiadás feltételei – azok ismételt vizsgálata alapján – fennállnak.
+7. § A működési engedély és az igazolvány határozatlan ideig érvényes.
 
 7/A. § Az elveszett vagy eltulajdonított igazolvány körözését az igazolvány kiadására hatáskörrel és illetékességgel rendelkező rendőri szerv rendeli el.
 
@@ -925,6 +925,10 @@ vonatkozó részletes szabályokról rendeletet alkosson.
 ### Átmeneti rendelkezések
 
 78/A. § Ha a tömegrendezvény szervezőjének a 72/C. §-ban meghatározott kötelezettségek teljesítése aránytalan nehézséggel vagy költséggel járna, a 72/C. §-ban meghatározott kötelezettségek teljesítése alól 2022. december 31-ig mentesül.
+
+78/B. § (1) Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel (a továbbiakban: Módtv.) megállapított 7. §-t a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv. hatálybalépése előtt határozott időtartamra kiadott és a Módtv. hatálybalépésekor hatályos működési engedély és igazolvány határozatlan időtartamúvá válik.
 
 ### Az Európai Unió jogának való megfelelés
 

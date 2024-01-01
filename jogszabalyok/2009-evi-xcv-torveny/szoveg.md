@@ -26,6 +26,7 @@ A magyarországi élelmiszer termékpálya szerves részét képező élelmiszer
   - eb) több mint 24 órás fogyaszthatósági idő esetén a fogyaszthatósági idő utolsó napján vagy a kereskedőnek a fogyaszthatósági idő utolsó napját megelőző nyitvatartási napján,
   - ec) 3 hónapos minőségmegőrzési idő esetén a minőségmegőrzési idő utolsó két hetében,
   - ed) több, mint 3 hónapos minőségmegőrzési idő esetén – ide nem értve azon termékeket, amelyeken nem szükséges a minőségmegőrzési idő feltüntetése – a minőségmegőrzési idő utolsó négy hetében.
+- f) romlandó mezőgazdasági és élelmiszeripari termék: olyan mezőgazdasági és élelmiszeripari termék, amely jellegénél fogva vagy az adott feldolgozottsági szakaszában a begyűjtést, az előállítást vagy a feldolgozást követően várhatóan 30 napon belül értékesítésre alkalmatlanná válik.
 
 ### A tisztességtelen forgalmazói magatartás
 
@@ -66,8 +67,8 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 - q) a terméknek – az árukészletnek a kereskedő tevékenységének beszüntetése vagy profilváltás miatt történő legfeljebb tizenöt napos és a mezőgazdasági igazgatási szervnek előzetesen bejelentett kiárusítása, valamint nem teljes értékű (ideértve az előre nem látható okból a kereskedő készletében felhalmozódott közeli lejáratú terméket is) termék kiárusítása esetének kivételével – a beszállító által számlázott átadási ára, illetve a kereskedő általi saját előállítás esetén – az üzemi általános költségeket is tartalmazó – önköltségi ára alatt történő forgalmazása a kereskedő által a végső fogyasztó felé;
 - r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthető árkedvezmény, jutalék vagy díj – bármilyen jogcímen történő – felszámítása a beszállító felé, a kereskedőt a forgalmazott termékmennyiség növelésére ösztönző – a felek által megállapított valamely korábbi időszakban elért vagy becsült mértékhez képesti többletértékesítés alapján, a terméket terhelő adómérték figyelembevétele nélkül megállapított, a termék kereskedelmi forgalmának tulajdonságaival összefüggő, arányos mértékű – utólagos árkedvezmény kivételével;
 - s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére;
-- t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;
-- u)
+- t) a (2b) vagy a (2f) bekezdésben foglalt rendelkezés be nem tartása;
+- u) a termék beszállítóinak kifejezett hozzájárulása nélkül összehasonlító reklám alkalmazása;
 - x) ha a beszállítóval szemben a kereskedő a beszerzési árat a beszállító tiltakozása ellenére egyoldalúan csökkenti, vagy ha a beszerzési ár csökkentésére irányuló szerződésmódosítás érdekében a kereskedő a beszállítót a szerződéses kapcsolat megszüntetésével, terméke rendelésének lemondásával, a rendelésállomány csökkentésével, eladásösztönző tevékenységek – így különösen az akciók és promóciók – lemondásával vagy más, a beszállítónak anyagi vagy erkölcsi veszteséget okozó eszközzel fenyegeti.
 
 (2a) A kereskedő által a beszállító hozzájárulásával a végső fogyasztónak nyújtott árengedmény fogyasztó irányába történő nyújtásának végső időpontjától számított harminc napon belül, illetve ha a kereskedőnek a 6. § (3) bekezdése szerint számított előző évi nettó árbevétele nem haladja meg a százmillió forintot, az Szt. szerinti beszámoló elkészítéshez kapcsolódó leltár elkészítését követő harminc napon belül, a kereskedőnek a nyújtott árengedményről és az azzal érintett termékmennyiségről el kell számolnia a beszállító felé.
@@ -76,7 +77,7 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 
 (2c) A terméket terhelő – a (2) bekezdés e) pontjának ed) alpontja, valamint a (2) bekezdés r) pontja szerinti – adómérték összegéről a beszállító tájékoztatja a kereskedőt.
 
-(2c) Amennyiben a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
+(2c)
 
 (2d) A (2) bekezdés x) pontjának alkalmazása során a kereskedő köteles igazolni, hogy a beszerzési ár csökkentésére nem a (2) bekezdés x) pontja szerinti módon került sor, ha az eljárás megindítására a beszállító bejelentése alapján került sor, és
 
@@ -86,6 +87,10 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 - d) a beszállító éves árbevétele meghaladja a 75 milliárd forintot, és a kereskedő árbevétele meghaladja a 200 milliárd forintot.
 
 (2e) A (2) bekezdés x) pontjának alkalmazása során az utolsó lezárt év szerinti árbevételt kell figyelembe venni azzal, hogy az Szt. szerint kapcsolt vállalkozási viszonyban álló beszállítók vagy kereskedők, továbbá közös beszerzés esetén a közös beszerzési szövetséget vagy ügyleti társulást alkotó, vagy a kereskedelmi szerződést közösen megkötő kereskedők árbevételét egybe kell számítani.
+
+(2f) Ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
+
+(2g) A (2) bekezdés m) pontja alkalmazásában nem minősül ésszerű határidőnek, ha romlandó mezőgazdasági és élelmiszeripari termék esetében a kereskedő a megrendelését a tervezett szállítást megelőző 30 napon belül mondja le.
 
 (3) A tisztességtelen forgalmazói magatartást tartalmazó, illetve az e törvényben szereplő tilalom megkerülésére irányuló szerződési kitétel semmis. Az (5) bekezdés szerinti üzletszabályzat nyilvánosságra hozatalának elmulasztása önmagában nem eredményezi az abban foglalt kitétel semmisségét.
 
@@ -138,7 +143,7 @@ jogkövetkezmények
 
 (3) A nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti konszolidált nettó árbevétel alapján kell meghatározni. Ha a kereskedő működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a kereskedőnek a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező kereskedő esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a kereskedő által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
-(4) A kereskedő által – a bírság jogerős kiszabásától, illetve a kötelezettségvállalás jóváhagyásától számított – két éven belül ismételten tanúsított – a 3. § (2) bekezdésének q) pontjában foglalt magatartás kivételével – bármely tisztességtelen forgalmazói magatartás esetén a termékpálya-felügyeleti bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de legalább ötszázezer forint, legfeljebb kétmilliárd forint azzal, hogy a kereskedő által – a jogsértést megállapító határozat meghozatalát megelőző üzleti évben – elért nettó árbevétel tíz százalékánál nagyobb nem lehet.
+(4) A kereskedő által – a bírság jogerős kiszabásától, illetve a kötelezettségvállalás jóváhagyásától számított – két éven belül ismételten tanúsított – a 3. § (2) bekezdésének q) pontjában foglalt magatartás kivételével – ugyanazon tisztességtelen forgalmazói magatartás esetén a termékpálya-felügyeleti bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de legalább ötszázezer forint, legfeljebb kétmilliárd forint azzal, hogy a kereskedő által – a jogsértést megállapító határozat meghozatalát megelőző üzleti évben – elért nettó árbevétel tíz százalékánál nagyobb nem lehet.
 
 (5) Az e törvény szerinti eljárás lefolytatása nem zárja ki, hogy a sérelmet szenvedett beszállító a forgalmazói magatartás tisztességtelenségére alapított polgári jogi igényét közvetlenül a bíróság előtt érvényesítse.
 

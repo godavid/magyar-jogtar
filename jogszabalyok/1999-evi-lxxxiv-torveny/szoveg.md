@@ -386,6 +386,8 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 10. § A nyilvántartó és a közlekedési igazgatási hatóság a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 17. pontja és 36. § 14. pontja szerint kezelt személyi azonosítót csak belső azonosítóként, valamint a személyiadat- és lakcímnyilvántartással történő kapcsolat biztosítására, az érintett beazonosítására használhatja fel.
 
+10/A. § A nyilvántartó és a közlekedési igazgatási hatóság a cégnyilvántartásban kezelt adószámot belső azonosítóként, valamint a cégnyilvántartással történő kapcsolat biztosítására, a cég beazonosítására használhatja fel.
+
 11. § Az engedély – típusától függően – tartalmazza a járművezető
 
 - a) természetes személyazonosító adatát,
@@ -423,7 +425,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ea)
   - eb)
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
-  - ed)
+  - ed) a bontási átvételi igazolás adatairól,
 - f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 - g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 - h) a vizsgaközpont elektronikusan, haladéktalanul

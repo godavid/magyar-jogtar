@@ -4,7 +4,7 @@ a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről
 
 Az egyesülési szabadság állampolgári jogának védelmében az Országgyűlés a következő törvényt alkotja:
 
-1. § A munkáltató a munkavállalók munkabéréből a szakszervezeti vagy egyéb érdekképviseleti tagdíjat (a továbbiakban: tagdíjat) a munkavállaló írásbeli kérelmére köteles levonni, és a munkavállaló által megjelölt szakszervezet vagy egyéb munkavállalói érdekképviselet (a továbbiakban: érdekképviselet) javára köteles a kérelemben meghatározott összeget átutalni.
+1. § A munkáltató – törvényben meghatározott kivétellel – a munkavállalók munkabéréből a szakszervezeti vagy egyéb érdekképviseleti tagdíjat (a továbbiakban: tagdíj) a munkavállaló írásbeli kérelmére köteles levonni, és a munkavállaló által megjelölt szakszervezet vagy egyéb munkavállalói érdekképviselet (a továbbiakban: érdekképviselet) javára köteles a kérelemben meghatározott összeget átutalni.
 
 2. § (1) A munkáltató a megbízás megszűnéséig köteles
 

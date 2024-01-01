@@ -61,30 +61,31 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 6. § (1) A névjegyzék tartalmazza a természetes személy
 
-- a) családi és utónevét,
+- a) családi és utónevét, valamint születési nevét,
 - b) születési helyét, idejét, anyja nevét,
 - c) felsőfokú és egyéb szakirányú végzettségét igazoló oklevelének, szakvizsgájának számát, keltét, tudományos fokozatát, a szakmai gyakorlat időtartamát, a közvetítői szakmai képzés (szakmai továbbképzés) elvégzését igazoló okirat számát, keltét,
 - d) névjegyzékbe vételének időpontját, a határozat számát,
 - e) közvetítői tevékenysége megkezdésének, szünetelésének, megszűnésének időpontját,
 - f) által megjelölt idegen nyelvet, amelyen közvetítést vállal,
 - g) szakterületét, amelyet a bejelentésben megjelölt,
-- h) irodájának címét,
+- h) irodájának címét (postacímét), telefonszámát, e-mail címét,
 - i) által megjelölt annak a jogi személynek a címét, amelynek alkalmazottjaként a közvetítői tevékenységet folytatja, vagy a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a jogi személy székhelyétől,
-- j)
-- k) lakcímét (postacímét, telefon-, telefaxszámát, e-mail címét),
+- j) közvetítői tevékenységével kapcsolatos közleményeit „közlemények” megjelöléssel,
+- k) lakcímét (postacímét), telefonszámát, e-mail címét,
 - l)
-- m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével, és
-- n) közvetítői igazolványának számát,
+- m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével,
+- n) közvetítői igazolványának számát, és
 - o) 38/G. § szerinti alávetési nyilatkozat megtételének tényét.
 
 (2) A névjegyzék tartalmazza továbbá a jogi személy
 
 - a) elnevezését,
-- b) székhelyét,
-- c) nyilvántartását vezető bíróság vagy egyéb hatóság (a továbbiakban együtt: hatóság) elnevezését, továbbá nyilvántartási számát,
+- b) székhelyét, telefonszámát, e-mail címét,
+- c) nyilvántartását vezető bíróság vagy egyéb hatóság (a továbbiakban együtt: hatóság) elnevezését, továbbá nyilvántartási számát, valamint adószámát,
 - d) az 5. § (3) bekezdésének b) pontjában meghatározott alkalmazottjának az (1) bekezdésben felsorolt adatait,
-- e) által a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a székhelyétől, és
-- f) névjegyzékbe vételének időpontját, a határozat számát.
+- e) által a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a székhelyétől,
+- f) névjegyzékbe vételének időpontját, a határozat számát és
+- g) közvetítői tevékenységével kapcsolatos közleményeit „közlemények” megjelöléssel.
 
 (2a) Az (1) és (2) bekezdés szerinti névjegyzék – az (1) bekezdés a)–c), k) és m) pontjában, valamint a (2) bekezdés a)–c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -116,9 +117,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (6)
 
-9. § (1) A miniszter hivatalból indult eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. A közvetítői igazolvány kizárólag postai úton, hivatalos iratként küldhető meg a közvetítő részére.
-
-(2)
+9. § A miniszter hivatalból indult eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. A miniszter a kiállított közvetítői igazolványt a közvetítőnek az átvétel igazolása mellett átadja, vagy azt postai úton, hivatalos iratként megküldi a közvetítő részére.
 
 ### A közvetítői tevékenység szüneteltetése
 
@@ -148,7 +147,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - b) nem felel meg az 5. § (2) bekezdésében foglaltaknak,
 - c) a közvetítői tevékenység folytatására feljogosított valamennyi alkalmazottjának a közvetítői tevékenysége szünetel,
 - d) a miniszter a törlést vizsgálat alapján elrendelte,
-- e) azt a jogi személy kéri.
+- e) azt – a (3) bekezdés szerinti kivételekkel – a jogi személy kéri.
 
 (3) A természetes személy és a jogi személy csak akkor kérheti a névjegyzékből való törlést, ha folyamatban lévő közvetítői eljárásban nem vesz részt. A természetes személy és a jogi személy nem kérheti a névjegyzékből való törlést, amíg vele szemben vizsgálat van folyamatban, vagy természetes személlyel szemben a továbbképzési kötelezettség elmulasztásának megállapításával kapcsolatos hivatalból indított eljárás van folyamatban.
 
@@ -158,7 +157,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 12. § (1) A természetes személy és a jogi személy a névjegyzékből hivatalból való törlésről szóló határozat kézhezvételét követő 8 napon belül köteles a folyamatban lévő közvetítői eljárást megszüntetni és a felekkel elszámolni.
 
-(2) A miniszter a névjegyzékből való törlésről szóló határozatban a természetes személy közvetítői igazolványát visszavonja, aki azt köteles a határozat közlésétől számított nyolc napon belül átadni.
+(2) A miniszter a névjegyzékből való törlésről szóló határozatban a természetes személy közvetítői igazolványát visszavonja, aki azt köteles a határozat közlésétől számított nyolc napon belül visszaszolgáltatni.
 
 ### A közvetítő továbbképzésben való részvételi, adatváltozás bejelentési, nyilvántartási
 
@@ -192,9 +191,9 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A vizsgálat lefolytatása
 
-17. § (1) A miniszter jogosult hivatalból vagy a közvetítői eljárásban érintettek (a felek, a szakértő, a közvetítői eljárásban meghallgatott más harmadik személy) bejelentése alapján a névjegyzékbe felvett természetes személynek és a jogi személynek (e fejezetben a továbbiakban: közvetítő) a közvetítéshez kapcsolódó működése rendszeres és eseti ellenőrzésére.
+17. § (1) A miniszter jogosult hivatalból vagy a közvetítői eljárásban érintettek (a felek, a szakértő, a közvetítői eljárásban meghallgatott más harmadik személy) bejelentése alapján a névjegyzékbe felvett természetes személynek és a jogi személynek (e fejezetben a továbbiakban: közvetítő) a közvetítéshez kapcsolódó működése rendszeres és eseti ellenőrzésére vizsgálat lefolytatásával.
 
-(2) Ha a vizsgálat bejelentés alapján indul, a miniszter értesítésével megküldi a bejelentést tartalmazó irat másolatát is, és felhívja a közvetítőt harmincnapos határidővel igazoló jelentés benyújtására. A határidő kérelemre egy alkalommal további harminc nappal meghosszabbítható.
+(2) Ha a vizsgálat bejelentés alapján indul, a miniszter értesítésével megküldi a bejelentést tartalmazó irat másolatát is, és felhívja a közvetítőt harmincnapos határidővel igazoló jelentés benyújtására. A határidő kérelemre egy alkalommal további tizenöt nappal meghosszabbítható.
 
 (3) Az igazoló jelentés benyújtásának elmulasztása nem akadálya az eljárás lefolytatásának.
 
@@ -240,7 +239,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A közvetítő felkérése
 
-23. § (1) A felek közös megegyezés alapján az általuk választott természetes személy vagy jogi személy közvetítőként történő felkérését írásban, telefax útján vagy elektronikus levélben kezdeményezhetik. Ha csak az egyik fél kezdeményezi az eljárás lefolytatását, a közvetítő közreműködhet abban, hogy a többi fél a kezdeményezéshez csatlakozzon; e közreműködésért ellenérték nem állapítható meg. A felek – ha annak igénye felmerül – egyidejűleg több természetes személy vagy jogi személy felkérését is kezdeményezhetik.
+23. § (1) A felek közös megegyezés alapján az általuk választott természetes személy vagy jogi személy közvetítőként történő felkérését írásban vagy elektronikus levélben kezdeményezhetik. Ha csak az egyik fél kezdeményezi az eljárás lefolytatását, a közvetítő közreműködhet abban, hogy a többi fél a kezdeményezéshez csatlakozzon; e közreműködésért ellenérték nem állapítható meg. A felek – ha annak igénye felmerül – egyidejűleg több természetes személy vagy jogi személy felkérését is kezdeményezhetik.
 
 (2) A jogi személy a felkérésről értesíti az ügyben közvetítőként eljáró alkalmazottját.
 
@@ -256,7 +255,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (4) A felkérésben a feleknek nyilatkozniuk kell arról, hogy közös megegyezésük alapján a közöttük fennálló vitás ügy megoldását közvetítői eljárás keretében kívánják rendezni.
 
-24. § (1) A természetes személy, továbbá a jogi személy nevében eljáró alkalmazott – a jogi személy vezetőjével egyeztetve – a kérelem kézhezvételét követő 8 napon belül köteles írásban, telefax útján vagy elektronikus levélben nyilatkozni arról, hogy a felkérést elfogadja-e. Ha a felek által felkért természetes személy, továbbá a jogi személy nevében eljáró alkalmazott a felkérést elfogadja, a közvetítői eljárás lefolytatására, mint közvetítő, ő jogosult.
+24. § (1) A természetes személy, továbbá a jogi személy nevében eljáró alkalmazott – a jogi személy vezetőjével egyeztetve – a kérelem kézhezvételét követő 8 napon belül köteles írásban vagy elektronikus levélben nyilatkozni arról, hogy a felkérést elfogadja-e. Ha a felek által felkért természetes személy, továbbá a jogi személy nevében eljáró alkalmazott a felkérést elfogadja, a közvetítői eljárás lefolytatására, mint közvetítő, ő jogosult.
 
 (2) A közvetítő a felkérést a 25. § (1) bekezdésében foglaltak szerinti összeférhetetlenség esetén köteles visszautasítani, egyéb akadályoztatás esetén pedig visszautasíthatja.
 
@@ -296,7 +295,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 28. § (1) Ha a közvetítő elfogadta a felkérést, a 24. § (1) bekezdése szerinti, a felekhez intézett elfogadó nyilatkozatában meghívja a feleket az első közvetítői megbeszélésre és tájékoztatja őket a képviselet lehetőségéről.
 
-(2) A feleket meghatalmazás alapján nagykorú, cselekvőképes személy vagy jogi képviselő képviselheti. A feleknek, jogi személy fél esetében pedig a képviseletére feljogosított személynek az első közvetítői megbeszélésen és a megállapodás megkötésekor és aláírásakor személyesen, együttesen meg kell jelenniük.
+(2) A feleket meghatalmazás alapján nagykorú, cselekvőképes személy vagy jogi képviselő képviselheti. A feleknek, jogi személy fél esetében pedig a képviseletére feljogosított személynek az első közvetítői megbeszélésen, valamint a megállapodás megkötésekor és aláírásakor személyesen, együttesen meg kell jelenniük, amely alkalmakon a közvetítő – a személyazonosság igazolására alkalmas hatósági igazolvány megtekintésével – meggyőződik a felek személyazonosságáról.
 
 (3) A közvetítő a közvetítői megbeszélést a névjegyzékben a közvetítői tevékenység folytatására megjelölt helyiségben vagy más, a felek számára elfogadható helyen tartja.
 
@@ -310,7 +309,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - d) a személyét és az eljárásba szükség szerint bevont szakértőt terhelő titoktartási kötelezettségről,
 - e) arról a lehetőségről, hogy a felek a személyüket terhelő titoktartási kötelezettségről külön megállapodhatnak,
 - f) arról a tényről, hogy mint közvetítő az ügyben – ha azt az ügy jellege megkívánja – csak az ügyhöz kapcsolódó joganyagot, szakmai tényeket ismertetheti,
-- g) a 32. § (4) és a 35. § (3) bekezdésében foglaltakról.
+- g) a 32. § (4) bekezdésében és a 35. § (3) bekezdésében foglaltakról, valamint
+- h) a közvetítői eljárásban létrejött megállapodás joghatásairól, az annak egyezségként történő jóváhagyását szolgáló eljárásokról, az igény bírósági vagy választottbírósági eljárás keretében történő érvényesíthetőségének lehetőségéről.
 
 (2) Ha az első közvetítői megbeszélésen a felek változatlanul kérik a közvetítői eljárás lefolytatását, ezt a tényt a mindkét fél és a közvetítő aláírását tartalmazó írásos nyilatkozatban rögzítik. A nyilatkozatban a felek és a közvetítő megállapodnak az eljárás során felmerülő költségek, díjak előlegezésének és megfizetésének módjáról, ideértve az elállás és megszüntetés eseteit is, továbbá a felek megállapodhatnak a személyüket terhelő titoktartási kötelezettségről és az általuk szükségesnek tartott egyéb kérdésekről.
 
@@ -318,7 +318,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 31. § (1) A 30. § (2) bekezdése szerinti nyilatkozat aláírásával a közvetítői eljárás megindul.
 
-(2) A közvetítői eljárás megindítása az elévülést megszakítja. A közvetítői eljárás megállapodással történő eredményes befejezése után az elévülésre a Ptk.-nak az elévülés megszakítására, a közvetítői eljárás eredménytelensége esetén a Ptk.-nak az elévülés nyugvására vonatkozó rendelkezéseiben foglaltak irányadóak.
+(2) A közvetítői eljárás megindítása az elévülést megszakítja, ha a közvetítői eljárás a felek által megkötött megállapodással zárul. A közvetítői eljárás eredménytelensége esetén az elévülés a közvetítői eljárás megindításától a közvetítői eljárás befejeződéséig nyugszik.
 
 ### A közvetítői eljárás lefolytatása
 
@@ -475,4 +475,6 @@ a közvetítői eljárásban
 
 42. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-#### 43–44. §
+#### 43. §
+
+#### 44. §

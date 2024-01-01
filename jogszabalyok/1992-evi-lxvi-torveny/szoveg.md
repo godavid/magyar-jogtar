@@ -44,7 +44,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 4. § (1) A törvény hatálya alá tartoznak:
 
-- a) Magyarország területén élő magyar állampolgárok, a bevándorolt és – azon nem Magyarországon élő külföldi, valamint a házastársa és eltartott leszármazója, valamint eltartott szülője kivételével, aki számára az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján nemzetgazdasági érdekből adott ki nemzeti letelepedési engedélyt – a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
+- a) Magyarország területén élő magyar állampolgárok, és – azon nem Magyarországon élő külföldi, valamint a házastársa és eltartott leszármazója, valamint eltartott szülője kivételével, aki számára az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján nemzetgazdasági érdekből adott ki nemzeti letelepedési engedélyt – a huzamos tartózkodási jogosultsággal rendelkező, valamint a menekültként vagy oltalmazottként elismert személyek,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat Magyarország területén gyakorolják,
 - c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (2a), (3), (3a) és (7) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
 - d) – e törvényben meghatározott esetekben – a külföldön élő magyar állampolgárok.
@@ -193,7 +193,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 - a) ellátja a nyilvántartással, valamint a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos, jogszabályban hatáskörébe utalt hatósági feladatokat;
 - b) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
-- c) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat;
+- c) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat;
 - d) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat;
 - e)
 - f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat;
@@ -202,7 +202,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - i) közokiratot ad ki a nyilvántartott adatokról;
 - j) törvény hatálya alá tartozó tevékenységével összefüggésben gondoskodik a személyes adatok védelméről;
 - k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
-- l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat.
+- l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat.
 
 9. § (1) A nyilvántartás adatkezelője a nyilvántartást kezelő szerv.
 
@@ -217,7 +217,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
   - ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizet vagy letartóztatás elrendelését,
   - gb) nem magyar állampolgár esetén Magyarország területének külföldi letelepedés szándékával történő elhagyását,
-  - gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, vagy az ideiglenes letelepedési engedély visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
+  - gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, az ideiglenes letelepedési engedély, a nemzeti tartózkodási kártya, az EU tartózkodási kártya, vagy az ideiglenes tartózkodási kártya visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
   - gd) a magyar állampolgárság megszűnését,
   - ge) a tulajdonos halálát;
 - h) kezeli a Központi Okmánytárat;
@@ -251,7 +251,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 11. § (1) A nyilvántartás tartalmazza a polgár
 
 - a) nevét;
-- b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága keletkezésének, megszűnésének tényét és időpontját (a továbbiakban: állampolgárság), menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét, illetve a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetén a honosítás vagy visszahonosítás tényét;
+- b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága keletkezésének, megszűnésének tényét és időpontját (a továbbiakban: állampolgárság), menekült vagy oltalmazott jogállását, a huzamos tartózkodási jogosultságát, a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét, illetve a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetén a honosítás vagy visszahonosítás tényét;
 - c) nemét;
 - d) születési helyét és idejét;
 - e) anyja nevét;
@@ -275,13 +275,13 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–i) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 
-(3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
+(3) Ha a menekült vagy oltalmazott jogállású személy huzamos tartózkodási jogosultságot szerez, a nyilvántartás mind a menekült, illetve oltalmazott jogállását, mind a huzamos tartózkodási jogosultságát tartalmazza.
 
 (4) A nyilvántartás – a polgár írásbeli hozzájárulása esetén – tartalmazza a polgár ujjnyomatát az állandó személyazonosító igazolvány pótlása céljából.
 
 (5) A polgár hozzájárulásának írásbeli visszavonása és a (4) bekezdésben meghatározott cél megszűnése esetén – a tároló elemet tartalmazó személyazonosító igazolvány érvényességi idejének lejárta vagy érvénytelensége esetén – az ujjnyomatot haladéktalanul törölni kell.
 
-12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett személy a menekült vagy oltalmazott jogállás mellett letelepedett jogállást is szerzett, a 15 évet a később megszűnt jogállás megszűnésének időpontjától kell számítani. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozását követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
+12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, menekült vagy oltalmazott jogállásának, huzamos tartózkodási jogosultságának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett személy a menekült vagy oltalmazott jogállás mellett huzamos tartózkodási jogosultságot is szerzett, a 15 évet a később megszűnt jogállás megszűnésének időpontjától kell számítani. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozását követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
 
 (1a) A nyilvántartás történeti állományában tárolt adatok az (1) bekezdés szerinti időpont lejártával átkerülnek a nyilvántartás archív állományába 40 évig történő őrzésre. Ezen az adatállományon az érintett magyar állampolgársága megszűnésének tényén és időpontján kívül más adatváltozás nem vezethető át.
 
@@ -548,6 +548,10 @@ van lehetőség.
 
 (2) A Magyar Országos Horgász Szövetség a horgásznyilvántartás, valamint a rekreációs halásznyilvántartás működtetése céljából, a közfeladatainak ellátása érdekében a természetes személyazonosító, a lakcím, az állampolgárság, az elhalálozás ténye és ideje adatokat jogosult igényelni.
 
+19/K. § (1) A nyilvántartást kezelő szerv kormányrendeletben megadott szabályok szerint közreműködik a személyek természetes azonosítóival történő összekapcsoláshoz szükséges, a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi törvény szerinti adatösszekapcsolási szolgáltatás keretében történő ellenőrzésben.
+
+(2) A nyilvántartást kezelő szerv az (1) bekezdés szerinti közreműködés keretében összeveti a kapott természetes azonosító és lakcím adatokat a nyilvántartásban szereplő adatokkal, és csak az egyezés vagy eltérés tényéről ad tájékoztatást.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -607,7 +611,7 @@ van lehetőség.
 
 - a) az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás vezetésével összefüggésben;
 - b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a katonai igazgatás illetékes területi szervei és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
-- c) a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
+- c) a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, a kábítószerekkel és pszichotrop anyagokkal, személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
 - f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
@@ -711,7 +715,7 @@ adatot igényelhet.
 - d) a peres felek a családjogi és házassági bontóperben, a bejegyzett élettársi kapcsolat felbontására irányuló perben, valamint a holttá nyilvánítással és a halál tényének bírói megállapításával összefüggő ügyekben a bíróságnak, a bejegyzett élettársi kapcsolatot megszüntetni kívánók a közjegyzőnek;
 - e) a szülők a gyermek családi jogállása rendezésekor a gyámhatóságnak, a bíróságnak, az anyakönyvi esemény elektronikus anyakönyvbe rögzítésére jogosult személynek, illetve egyéb jogszabály alapján az eljárásban közreműködő szervnek;
 - f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
-- g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
+- g) az idegenrendészeti szerveknek a huzamos tartózkodási jogosultsággal, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
 (2)
 
@@ -1082,7 +1086,7 @@ nem kell alkalmazni.
 
 (3b)
 
-(4) A letelepedett jogállású személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, illetve EK letelepedési engedélyébe bejegyzett érvényességi idővel kell kiállítani.
+(4) A huzamos tartózkodási jogosultsággal rendelkező személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, EK letelepedési engedélyébe, ideiglenes tartózkodási kártyájába, nemzeti tartózkodási kártyájába, illetve EU tartózkodási kártyájába bejegyzett érvényességi idővel kell kiállítani.
 
 (4a) A menekült vagy oltalmazott jogállású személy állandó személyazonosító igazolványát – az (1a) bekezdésben meghatározott kivétellel – a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés meghozatalának napjától számított 4 évre kell kiállítani.
 
@@ -1112,9 +1116,9 @@ nem kell alkalmazni.
 
 (5) Megszűnik a személyazonosító igazolványra való jogosultság, ha
 
-- a) a menekültkénti elismerést, az oltalmazottkénti elismerést, illetve a bevándorolt, a letelepedett jogállású személy tartózkodásra jogosító engedélyét visszavonták, és más jogcímen nem szerzett jogosultságot az állandó személyazonosító igazolvány kiadására,
+- a) a menekültkénti elismerést, az oltalmazottkénti elismerést, illetve a huzamos tartózkodási jogosultsággal rendelkező személy tartózkodásra jogosító engedélyét visszavonták, és más jogcímen nem szerzett jogosultságot az állandó személyazonosító igazolvány kiadására,
 - b) a polgár magyar állampolgársága megszűnt,
-- c) a bevándorolt, letelepedett jogállású polgár megszerzi a szabad mozgás és tartózkodás jogát, mindaddig, amíg e joga fennáll,
+- c) a huzamos tartózkodási jogosultsággal rendelkező polgár megszerzi a szabad mozgás és tartózkodás jogát, mindaddig, amíg e joga fennáll,
 - d) a nem magyar állampolgár Magyarország területét a külföldön történő letelepedés szándékával elhagyja.
 
 (6) A polgár lakóhelye szerint illetékes járási hivatal vagy a kijelölt kormányhivatal a személyazonosító igazolványt visszavonja, ha
@@ -1451,7 +1455,7 @@ kell érteni.
 
 (5)
 
-48. § (1) A nyilvántartás szervei a letelepedett polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosultak igényelni az érintettek
+48. § (1) A nyilvántartás szervei a huzamos tartózkodási jogosultsággal rendelkező polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosultak igényelni az érintettek
 
 - a) természetes személyazonosító és állampolgársági adatait,
 - b) magyarországi tartózkodási helyének címét,

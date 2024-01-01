@@ -67,12 +67,12 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 34. belföldi magánszemély:
   - a) az a magyar állampolgár, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
   - b) az az EGT-állampolgár, illetve családtagja, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
-  - c) az a harmadik országbeli állampolgár, aki EK vagy nemzeti letelepedési engedéllyel rendelkezik és életvitelszerűen Magyarország területén lakik.
+  - c) az a harmadik országbeli állampolgár, aki EK letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EU tartózkodási kártyával vagy nemzeti tartózkodási kártyával rendelkezik és életvitelszerűen Magyarország területén lakik.
 - 35. életvitelszerűség: életvitelszerűen Magyarország területén lakik az a magyar, EGT-állampolgár, vagy harmadik országbeli állampolgár, aki a 31/B. § (2a) bekezdése szerinti gyártási időszak (előkészítés) kezdetének napját megelőző hároméves időszakban Magyarország területén megszakítás nélkül bejelentett lakóhellyel rendelkezik.
 
 ### 3. CÍM
 
-3. §
+#### 3. §
 
 ### A törvény célja és alapelvei
 
@@ -271,7 +271,7 @@ meghatározott kulturális követelményeknek megfelel.
 
 (3) A filmterjesztés esetében a filmalkotás akkor felel meg a kulturális követelményeknek, ha a 2. mellékletben meghatározott szempontok alapján az a)–h) pont szerinti feltételek közül legalább két feltételt teljesít.
 
-12/B. §
+#### 12/B. §
 
 13. § (1) Ha e törvény másként nem rendelkezik, az e törvény szerinti támogatás mértéke bármely filmalkotás esetén a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetén a magyar hozzájárulás arányának az 50%-áig terjedhet.
 
@@ -355,7 +355,7 @@ az időpontja.
 
 (4) A támogató döntéseit a támogatott alkotásokra, illetve a pályázatokra vonatkozó pontos információk birtokában, valamennyi körülmény gondos mérlegelésével hozza meg. A támogató köteles a támogatott cél megvalósulását gyártási és pénzügyi ellenőr közreműködésével folyamatosan figyelemmel kísérni és ellenőrizni, valamint az e törvénnyel összhangban álló mindazon intézkedéseket megtenni, amelyek biztosítják a támogatott filmalkotások előállításának befejezését.
 
-16. §
+#### 16. §
 
 17. § (1) A 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter évente dönt az „art” besorolású mozik, valamint az „art” besorolású filmalkotások forgalmazásának támogatásáról.
 
@@ -894,7 +894,7 @@ az időpontja.
 
 (2) Az (1) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hatóság a filmelőállítót a 19/H. § (8) bekezdés c) pontja szerinti bírság megfizetésére kötelezheti és a 28. § szerinti nyilvántartásból törölheti.
 
-27. §
+#### 27. §
 
 ### 4. CÍM — A Hatóság nyilvántartásai
 
@@ -1174,7 +1174,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6) A Hatóság indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.
 
-(7) A költségellenőrzési eljárás során a 2. § 35. pontja szerinti magyarországi életvitelszerű tartózkodást a filmelőállító vagy filmgyártó vállalkozás magyar állampolgár esetében a magánszemély erre vonatkozó nyilatkozatával vagy a legalább hároméves belföldi tartózkodást alátámasztó lakcímet igazoló hatósági igazolvány másolatával, EGT-állampolgár (kivéve a magyar állampolgár), illetve családtagja esetében a regisztrációs igazolás vagy az állandó tartózkodási kártya másolatával, harmadik országbeli állampolgár esetében az EK vagy nemzeti letelepedési engedély másolatával igazolja.
+(7) A költségellenőrzési eljárás során a 2. § 35. pontja szerinti magyarországi életvitelszerű tartózkodást a filmelőállító vagy filmgyártó vállalkozás magyar állampolgár esetében a magánszemély erre vonatkozó nyilatkozatával vagy a legalább hároméves belföldi tartózkodást alátámasztó lakcímet igazoló hatósági igazolvány másolatával, EGT-állampolgár (kivéve a magyar állampolgár), illetve családtagja esetében a regisztrációs igazolás vagy az állandó tartózkodási kártya másolatával, harmadik országbeli állampolgár esetében az EK letelepedési engedély, nemzeti letelepedési engedély, EU tartózkodási kártya vagy nemzeti tartózkodási kártya másolatával igazolja.
 
 31/G. § (1) Az NFI által nyújtott, valamint a 12. § (6) bekezdése szerinti megállapodások alapján más támogató által nyújtott támogatások esetén az NFI ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az NFI a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az NFI haladéktalanul megküldi a Hatóság részére. A Hatóságot a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének NFI által vizsgált részében az NFI által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
 
@@ -1441,7 +1441,9 @@ hatálya alá tartozó támogatást tartalmaz.
 
 ### VI. Fejezet
 
-39–40. §
+#### 39. §
+
+#### 40. §
 
 ### 1. melléklet a 2004. évi II. törvényhez
 

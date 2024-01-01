@@ -609,7 +609,7 @@ meghozatalát megelőzően, valamint, ha megítélése szerint egyébként szük
 
 40/A. § (1) A Hatóság a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás (árverés, pályázat) megindítását megelőzően a (2)–(7) bekezdés szerint egyeztet az érdekeltekkel.
 
-(2) A Hatóság a kiírási dokumentáció tervezetét a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás megindítását megelőzően legalább harminc nappal hirdetőtábláján való kifüggesztéssel és internetes honlapján közzéteszi.
+(2) A Hatóság a kiírási dokumentáció tervezetét a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás megindítását megelőzően legalább harminc nappal internetes honlapján közzéteszi.
 
 (3) A kiírási dokumentáció tervezetének (2) bekezdés szerinti közzétételétől számított harminc napon belül bárki írásban megküldheti a Hatóság részére a kiírási dokumentáció tervezetére vonatkozó álláspontját, javaslatát, egyéb észrevételét (e § alkalmazásában a továbbiakban: észrevétel). A beérkezett észrevételek a Hatóságot nem kötik, a Hatóság számára tájékoztató jelleggel bírnak és az észrevételek figyelembevételét vagy figyelmen kívül hagyását a Hatóság nem köteles indokolni.
 
@@ -1349,7 +1349,7 @@ meghatározott, elektronikus hírközlést érintő jogát vagy jogos érdekét 
 
 (2) Az Elnök ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
 
-(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek az Ákr. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton, a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
+(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek az Ákr. rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a honlapon történő közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni.
 
 (4) Amennyiben a hatósági ellenőrzés eredményeként az Elnök megállapítja, hogy a vizsgált piaci folyamatok következtében a hírközlési piac valamelyikén a verseny torzulhat vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezheti a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
 
@@ -2022,7 +2022,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (5) A Hatóság (1) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
 
-(6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a hatóság a döntését az ügyféllel hirdetményi úton közli. A Hatóság az ügyfelet a döntés szövegéről a hirdetmény kifüggesztésével egyidejűleg az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
+(6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a Hatóság a döntését az ügyféllel hirdetményi úton közli. A hirdetményt a Hatóság a honlapján helyezi el, azzal egyidejűleg az ügyfelet a döntés szövegéről az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a honlapon történt közzétételét követő 5. nap.
 
 (7) Az (1) bekezdés szerinti eljárásban is megfelelően alkalmazni kell a 95. § (5) és (7)–(11) bekezdését.
 

@@ -24,7 +24,7 @@ a menedékjogról a következő törvényt alkotja:
 
 (3) Magyarországon az e törvény hatálya alá tartozó külföldi – ha jogszabály ettől eltérően nem rendelkezik – egy jogcímen tartózkodhat. Amennyiben az e törvény hatálya alatt álló külföldi e törvényben meghatározott magyarországi tartózkodásra jogosító jogcíme mellett más jogcímen igényel magyarországi tartózkodásra jogosító engedélyt – ide nem értve a menedékjogi kérelem ismételt előterjesztését –, az ügyfelet írásban tájékoztatni kell, hogy az újonnan kért engedély megadásával egyidőben e törvény szerinti tartózkodásra jogosító jogcíme visszavonásra kerül.
 
-(4) Az Európai Unió valamely tagállama által menekültként vagy oltalmazottként elismert külföldi e jogcíme mellett a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § r) pontja szerinti EU Kék Kártyát (a továbbiakban: EU Kék Kártya) kaphat. Ha a Magyarország által menekültként vagy oltalmazottként elismert külföldi EU Kék Kártyában részesül, a menekültügyi hatóság intézkedik a külföldi személyazonosító igazolványa visszavonása érdekében.
+(4) Az Európai Unió valamely tagállama által menekültként vagy oltalmazottként elismert külföldi e jogcíme a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti EU Kék Kártyát (a továbbiakban: EU Kék Kártya) kaphat. Ha a Magyarország által menekültként vagy oltalmazottként elismert külföldi EU Kék Kártyában részesül, a menekültügyi hatóság intézkedik a külföldi személyazonosító igazolványa visszavonása érdekében.
 
 ### Értelmező rendelkezések
 
@@ -325,7 +325,7 @@ rendelkezik;
 
 - a) az ideiglenes védelem időtartama lejár, vagy – a 19. § b) pontján alapuló elismerés esetén – a Kormány által megjelölt tény bekövetkezik;
 - b) az Európai Unió Tanácsa a 19. § a) pontja szerinti elismerést visszavonja;
-- c) a menedékes Magyarországon letelepedett jogállást szerez;
+- c) a menedékes Magyarországon huzamos tartózkodási jogosultságot szerez;
 - d) a menedékest a menekültügyi hatóság menekültként vagy oltalmazottként ismeri el;
 - e) a menedékeskénti elismerést a menekültügyi hatóság visszavonja;
 - f) a menedékes magyar állampolgárságot szerez.
@@ -894,7 +894,7 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 (8a) Megszűnik a végrehajtási eljárás
 
-- a) az adóhatóságnak a végrehajtás eredménytelenségéről szóló értesítése és a behajtási eljárásának második alkalommal történő megszüntetése esetén;
+- a) az adóhatóságnak a végrehajtás eredménytelenségéről szóló értesítése és a behajtási eljárásának a megszüntetése esetén;
 - b) ha az adós meghal.
 
 (9) A végrehajtási jog a teljesítési határidő utolsó napjától számított öt év elteltével elévül.
@@ -1072,9 +1072,9 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) Az (1) vagy a (2) bekezdés szerinti tilalom fennállása esetén a menekültügyi hatóság a külföldit befogadottként ismeri el.
 
-(5) Ha nem áll fenn az (1) és a (2) bekezdés szerinti tilalom, a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldinek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
+(5) Ha nem áll fenn az (1) és a (2) bekezdés szerinti tilalom, a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldinek a Btátv. szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
-(6) Ha nem áll fenn az (1) és a (2) bekezdés szerinti tilalom, a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyarország által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldinek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
+(6) Ha nem áll fenn az (1) és a (2) bekezdés szerinti tilalom, a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyarország által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldinek a Btátv. szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
 (7) A külföldi az (5) és (6) bekezdés szerinti kiutasítással szemben jogorvoslattal a menekültügyi hatóság elismerés iránti kérelmet elutasító döntésével, valamint az elismerés visszavonására vonatkozó döntésével szembeni jogorvoslat során élhet.
 
@@ -1322,7 +1322,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - e) kiutasításának vagy kiadatásának végrehajtására került sor az 54. § (2)–(3) bekezdése alapján, vagy
 - f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehetetlenné teszi.
 
-(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontján alapuló megszüntetés eseteiben rendelkezik a 45. § (5), (7) és (8) bekezdésében foglaltak szerint a külföldi a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
+(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontján alapuló megszüntetés eseteiben rendelkezik a 45. § (5), (7) és (8) bekezdésében foglaltak szerint a külföldi a Btátv. szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
 (4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben közigazgatási pernek nincs helye.
 
@@ -1590,7 +1590,7 @@ meghaladja,
 
 ### Tömeges bevándorlás okozta válsághelyzetben alkalmazható egyes hatósági rendelkezések
 
-80/D. § (1) Tömeges bevándorlás okozta válsághelyzet fennállásakor az e törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére és fogvatartására szolgáló létesítmények építésével, telepítésével és üzemeltetésével összefüggő közigazgatási hatósági eljárásokat – az építésügyi eljárás, és kártalanítási eljárás kivételével – nem kell lefolytatni.
+80/D. § (1) Tömeges bevándorlás okozta válsághelyzet fennállásakor az e törvény és a Btátv. hatálya alá tartozó személyek elhelyezésére és fogvatartására szolgáló létesítmények építésével, telepítésével és üzemeltetésével összefüggő közigazgatási hatósági eljárásokat – az építésügyi eljárás, és kártalanítási eljárás kivételével – nem kell lefolytatni.
 
 (2) Tömeges bevándorlás okozta válsághelyzet fennállásakor az (1) bekezdésben meghatározott építmények az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú sajátos építményfajtának minősülnek.
 
@@ -1930,9 +1930,9 @@ igényelhetnek adatot.
 
 (4) Az (1) bekezdésben felhatalmazott szervek kivételével külföldi szerv vagy személy részére személyes adat csak az érintett írásbeli hozzájárulása alapján adható át. Az érintettet a felhasználás céljáról előzetesen tájékoztatni kell.
 
-(5) A menekültügyi hatóság az EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárra vonatkozóan az Európai Unió tagállamának megkeresése alapján harminc napon belül tájékoztatást ad arról, hogy a külföldi Magyarországon menekült vagy oltalmazott jogállással rendelkezik-e.
+(5) A menekültügyi hatóság az EK letelepedési engedéllyel vagy EU tartózkodási kártyával rendelkező harmadik országbeli állampolgárra vonatkozóan az Európai Unió tagállamának megkeresése alapján harminc napon belül tájékoztatást ad arról, hogy a külföldi Magyarországon menekült vagy oltalmazott jogállással rendelkezik-e.
 
-(6) A menekültügyi hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 34. § (10) bekezdés szerinti megkeresés végrehajtása céljából a menekültkénti vagy oltalmazottkénti elismerés tényéről haladéktalanul értesíti az idegenrendészeti hatóságot.
+(6) A menekültügyi hatóság a Btátv. 81. § (3) bekezdése szerinti megkeresés végrehajtása céljából a menekültkénti vagy oltalmazottkénti elismerés tényéről haladéktalanul értesíti az idegenrendészeti hatóságot.
 
 (7) A menekültügyi hatóság a (2) bekezdés a)–e) pontja szerinti adatokat
 
@@ -2023,6 +2023,8 @@ rendelkezések
 (2) A menekültügyi hatóság vezetőjének döntése ellen jogorvoslatnak nincs helye.
 
 92/F. § E törvénynek az egyes migrációs tárgyú és kapcsolódó törvények módosításáról szóló 2018. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.5.) megállapított rendelkezéseit – a Módtv.5. 69. § és 74. § rendelkezései kivételével – a hatálybalépést követően indult ügyekben kell alkalmazni.
+
+92/G. § E törvénynek a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartásokkal kapcsolatos egyes törvények módosításáról szóló 2023. évi XXXVIII. törvénnyel módosított 32/Y. § (8a) bekezdés a) pontját a 2024. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 

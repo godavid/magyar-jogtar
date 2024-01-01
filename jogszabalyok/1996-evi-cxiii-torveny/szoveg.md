@@ -242,7 +242,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 - a) magyar állampolgár,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorló személy, vagy
-- c) bevándorolt, vagy letelepedett jogállású, vagy menekültként elismert személy.
+- c) huzamos tartózkodási jogosultsággal rendelkezik, vagy menekültként elismert személy.
 
 (3) Az állami támogatás feltétele, hogy a lakáselőtakarékoskodóval kötött szerződésben szereplő lakáskölcsön kamatának mértéke ne haladja meg a 10%-ot.
 

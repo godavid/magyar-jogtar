@@ -292,7 +292,7 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 33/A. § (1) A szolgáltató köteles az egészségügyi kártevőirtó tevékenység folytatására irányuló szándékát az egészségügyi államigazgatási szervnek bejelenteni.
 
-(2) Az (1) bekezdés szerinti tevékenységet folytató szolgáltatónak meg kell felelnie az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott egyéb feltételeknek. Az egészségügyi államigazgatási szerv a bejelentés alapján nyilvántartásba veszi a szolgáltatót, és a nyilvántartásba vételtől számított 30 napon belül ellenőrzi a szolgáltatónál a folyatni kívánt tevékenység jogszabályoknak való megfelelőségét. A tevékenység gyakorlásának feltétele az egészségügyi államigazgatási szerv megfelelőségi nyilatkozata.
+(2) Az (1) bekezdés szerinti tevékenységet folytató szolgáltatónak meg kell felelnie az egészségügyi kártevőirtószerekkel, valamint gázosítószerekkel végzett tevékenység szabályairól szóló miniszteri rendeletben meghatározott egyéb feltételeknek. Az egészségügyi államigazgatási szerv a bejelentés alapján nyilvántartásba veszi a szolgáltatót. A tevékenység gyakorlásának feltétele az egészségügyi államigazgatási szerv megfelelőségi nyilatkozata.
 
 (3) Az (1) bekezdés szerinti tevékenységi körben az a természetes személy járhat el, aki a külön jogszabályban meghatározottak szerinti szakmai továbbképzési kötelezettségének eleget tett.
 

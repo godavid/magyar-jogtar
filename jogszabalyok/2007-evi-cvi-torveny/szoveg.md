@@ -12,7 +12,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 - a) az állam tulajdonában lévő dolog, valamint a dolog módjára hasznosítható természeti erő,
 - b) az a) pont hatálya alá nem tartozó mindazon vagyon, amely vonatkozásában törvény az állam kizárólagos tulajdonjogát nevesíti,
-- c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az államot megillető egyéb társasági részesedés,
+- c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az állam tulajdonában lévő egyéb társasági részesedés,
 - d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít,
 - e) az állam tulajdonában álló a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény szerinti pénzügyi eszköz.
 - f) azon országgyűlési képviselőről, aki más, Alaptörvényben nevesített közjogi tisztséget is betöltve közfeladatot lát el, e közfeladata ellátása körében vagy ezzel összefüggésben, költségvetési forrásból készített, szerzői vagy szomszédos jogi védelmet élvező műhöz vagy teljesítményhez, különösen kép-, illetve hangfelvételhez kapcsolódó, felhasználási szerződés útján vagy a szerzői jogról szóló törvény alapján megszerzett felhasználási engedély, illetve vagyoni jog.
@@ -503,6 +503,13 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 ### Központi költségvetési szervek vagyongazdálkodására vonatkozó szabályok
 
+27/B. § Ezen alcím alkalmazásában
+
+- a) elhelyezési célú ingatlan:
+  - aa) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv munkaszervezetének elhelyezését szolgáló olyan, Magyarország területén található önálló ingatlan, ahol az ingatlanon fekvő összes építmény valamennyi helyiségét együttesen figyelembe véve azok – hasznos alapterületük összessége alapján számított – többsége irodai rendeltetésű vagy tényleges hasznosítása irodai vagy ügyfélszolgálati célokat szolgál azzal, hogy az ingatlan-nyilvántartásban társasház jogi jelleggel bejegyzett ingatlan esetén az irodai rendeltetésű ingatlanrészek nagyságát, valamint az elhelyezési cél megvalósulását a társasház egészének hasznos alapterületét figyelembe véve kell megállapítani, vagy
+  - ab) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv által használt, nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátásához szükséges oktatási, üdültetési vagy egyéb rekreációs célt szolgáló, Magyarország területén található ingatlan.
+- b) állami elhelyezési célú ingatlan: a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott elhelyezési célú ingatlan.
+
 28. § (1) A központi költségvetési szerv a működéséhez szükséges – a az Nvtv. 11. § (6) bekezdésében foglalt vagyontárgyakon kívüli – állami vagyon összetételét és mértékét az állami vagyon használatát biztosító szerződés megkötése előtt, illetve folyamatosan közli az MNV Zrt.-vel, amely az igényeket az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével elégíti ki.
 
 (2)
@@ -544,10 +551,27 @@ vonhat be.
 
 (8a) Az állami elhelyezési célú ingatlanokat érintő (8) bekezdés szerinti feladatok ellátásába bevont személyek vagy szervezetek jogosultak bontással járó munkálatok elvégzésére és az MNV Zrt. mindenkor hatályos selejtezési szabályzata alapján selejtezésre, a vissznyereményi anyag felújítás, beruházás során történő felhasználására, beépítésére. A (8) bekezdés szerint bevont szervezet a selejtezés műszaki és gazdasági megalapozottságáért, alátámasztottságáért teljes és kizárólagos felelősséggel tartozik, továbbá köteles a selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére.
 
-(9) E § alkalmazásában állami elhelyezési célú ingatlannak minősül:
+(9)
 
-- a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott, többségében irodai funkciót ellátó, Magyarország területén található, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 11–13. §-a szerinti önálló ingatlan, ahol az ingatlanon fekvő összes építmény valamennyi helyiségét együttesen figyelembe véve megállapítható, hogy azok – hasznos alapterületük összessége alapján számított – többsége irodai rendeltetésű vagy azok tényleges hasznosítása irodai célokat szolgál,
-- b) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott olyan oktatási, üdültetési vagy egyéb rekreációs célt szolgáló, Magyarország területén található ingatlan, amely nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátását biztosítja.
+28/B. § (1) Ha az Áht. 11/B. § (2) bekezdése alapján a Kormány irányítása vagy felügyelete alá tartozó – az Áht. 11/A. § (2) bekezdése szerinti kormányrendeletben meghatározott feladatot átvevő – költségvetési szerv elhelyezési célú ingatlan vagyonkezelői jogát szerzi meg, erről az Áht. 11/B. § (6) bekezdése szerinti záró beszámoló elkészítésével egyidejűleg tájékoztatja az MNV Zrt.-t.
+
+(2) Az MNV Zrt. az (1) bekezdés szerinti ingatlanra vonatkozóan állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, és kiállítja a 28/A. § (2) bekezdése szerinti kijelölő okiratot. A kijelölő okirat kiállításával egyidejűleg az érintett ingatlan vonatkozásában az Áht. 11/B. § (2) bekezdése szerint létrejött vagyonkezelői jog e törvény erejénél fogva megszűnik. Az MNV Zrt. egyoldalú nyilatkozatát tartalmazó, a megszűnt vagyonkezelői jog ingatlan-nyilvántartásból való törlésére irányuló kérelemben – az érintett ingatlan helyrajzi számának megjelölése mellett – kizárólag e törvénynek a vagyonkezelői jog megszűnésére vonatkozó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges.
+
+(3) Az (1) bekezdés szerinti ingatlannal kapcsolatos jogviszonyokban – kormányrendeletben meghatározott kivétellel – a kijelölés kezdő napjával az MNV Zrt. jogutódként belép.
+
+(4) Az MNV Zrt. a (3) bekezdés szerint bekövetkező jogutódlásról annak beálltát követő tizenöt napon belül írásban értesíti a jogviszonyban érintett harmadik személyt. Az MNV Zrt., valamint a harmadik személy jogosult a jogutódlásról szóló értesítés harmadik személy által történő kézhezvételétől számított kilencven napon belül felmondani azon szerződéseket, amelyekbe a (3) bekezdés alapján jogutódként az MNV Zrt. belépett.
+
+(5) A (2) bekezdés szerint létrejött állami elhelyezési célú ingatlanhasználati jogviszonyra egyebekben e törvény és az e törvény végrehajtására kiadott rendelet rendelkezéseit kell alkalmazni.
+
+28/C. § (1) Ha az Áht. 11/C. § (1) bekezdése szerinti jogutódlás Magyarország területén található, nem állami tulajdonú elhelyezési célú ingatlannak minősülő ingatlan használatát biztosító megállapodás tekintetében következik be, erről a 28/A. § (1) bekezdése szerinti – az Áht. 11/A. § (2) bekezdése szerinti kormányrendeletben meghatározott feladatot átvevő – költségvetési szerv az MNV Zrt.-t a jogutódlás bekövetkezésétől számított tizenöt napon belül írásban tájékoztatja.
+
+(2) Az (1) bekezdés szerinti tájékoztatást követő tizenötödik napon az érintett ingatlanra vonatkozó, a jogelőd társaság által kötött használati megállapodásban a költségvetési szerv helyébe az MNV Zrt. lép. A költségvetési szerv a jogelőd társaság által megkötött szerződéseket, valamint a szerződések – MNV Zrt. által meghatározott – lényeges tartalmi elemeit bemutató kimutatást köteles átadni az MNV Zrt. részére.
+
+(3) Az MNV Zrt. a (2) bekezdés szerint bekövetkező jogutódlásról annak beálltát követő tizenöt napon belül írásban értesíti a jogviszonyban érintett harmadik személyt. Az MNV Zrt., valamint a harmadik személy a jogutódlásról szóló értesítés harmadik személy részéről történő kézhezvételét követő hatvan napon belül jogosult a szerződést felmondani.
+
+(4) Ha a harmadik személy a (3) bekezdés szerint nem gyakorolja a felmondás jogát és az MNV Zrt. úgy dönt, hogy fenntartja az (1) bekezdés szerinti elhelyezési célú ingatlan használatára kötött megállapodást, a megállapodásban szereplő ingatlan tekintetében állami elhelyezési célú ingatlanhasználati jogviszonyt létesít az Áht. 11/A. § (2) bekezdése szerinti kormányrendeletben meghatározott feladatot átvevő költségvetési szervvel, és a 28/A. § (2) bekezdése szerint kijelölő okiratot állít ki.
+
+(5) A (4) bekezdés szerint létrejött állami elhelyezési célú ingatlanhasználati jogviszonyra egyebekben e törvény és az e törvény végrehajtására kiadott rendelet rendelkezéseit kell alkalmazni.
 
 ### Állami tulajdonú gazdasági társaságok
 
@@ -933,8 +957,8 @@ részére.
 
 (2) Az MVH – az (1) bekezdéstől eltérően – az Nvtv. 7. § (3) bekezdésében meghatározott vagyongazdálkodási célok megvalósítása érdekében a kivezetésre szánt állami vagyon körébe tartozó
 
-- a) osztatlan közös tulajdonban álló ingatlan állami tulajdoni hányadát a tulajdonostárs részére ingyenesen átruházhatja, ha az állam kisebbségi tulajdonostársnak minősül és az állami tulajdonban álló ingatlanhányad értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
-- b) beépítésre és önmagában hasznosításra nem alkalmas önálló, így különösen a kisajátításból visszamaradt ingatlanok tulajdonjogát, az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa vagy az ingatlan fekvése szerinti településen ingatlantulajdonnal rendelkező személy részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
+- a) osztatlan közös tulajdonban álló ingatlan állami tulajdoni hányadát a tulajdonostárs részére ingyenesen átruházhatja, ha az állam legfeljebb az ingatlan tulajdoni hányadának a felével rendelkezik és az állami tulajdonban álló ingatlanhányad értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
+- b) beépítésre vagy önmagában hasznosításra nem alkalmas önálló, így különösen a kisajátításból visszamaradt ingatlan tulajdonjogát ingyenesen átruházhatja az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa vagy – amennyiben az ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa az ingatlant nem kívánja tulajdonba venni vagy az részére egyéb okból tulajdonba nem adható – az ingatlan fekvése szerinti településen ingatlantulajdonnal rendelkező személy részére, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - c) földhasználati joggal terhelt ingatlant a földhasználati jog jogosultja részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - d) társasági részesedést a társaság vagy a társaság tagja részére ingyenesen átruházhatja, ha az állam kisebbségi társasági részesedés tulajdonosa, és az állami tulajdonban álló társasági részesedés értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - e) hagyatékból származó állami tulajdonú ingatlanban lévő ingóság tulajdonjogát ingyenesen átruházhatja az ingatlanban bejelentett lakóhellyel rendelkező, vagy huzamos ideje, életvitelszerűen az ingatlanban tartózkodó személy, vagy – közös tulajdonban álló ingóság esetén – a tulajdonostárs részére, ha az ingóság egyedi értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket.

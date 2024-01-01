@@ -25,7 +25,7 @@ vállalt, lejárt és nem teljesített fizetési kötelezettségből eredő tart
 - 10. természetes személy:
   - a) a magyar állampolgár és az a személy, akit külön törvény alapján a magyar állampolgár jogai illetnek meg,
   - b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
-  - c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben (a továbbiakban: Tv.) foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
+  - c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvényben (a továbbiakban: Tv.) foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,
   - d) a hontalan, ha a Tv.-ben foglaltak alapján ilyen jogállásúnak ismerték el.
 
 2. § (1) A Magyar Állam a központi költségvetés terhére készfizető kezesként felel

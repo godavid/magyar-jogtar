@@ -83,7 +83,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (5) A tanuló nem létesíthet önkéntes jogviszonyt azzal a nevelési-oktatási intézménnyel, amellyel tanulói jogviszonyban, kollégiumi tagsági viszonyban áll. Ez a korlátozás nem vonatkozik a köznevelési intézmény által szervezett és a tanulói jogviszonnyal, kollégiumi tagsági viszonnyal összefüggő kötelezettséget nem érintő táboroztatási tevékenységre és egyéb közösségi programokra.
 
-(6) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
+(6) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, illetve a huzamos tartózkodási jogosultsággal rendelkező személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
 
 - a) a fogadó szervezet az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére felelősségbiztosítási szerződést kötött,
 - b) az önkéntes szállása, ellátása és visszautazása biztosított, valamint
@@ -125,7 +125,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - b) az önkéntes a 2. § (3) bekezdésének b)–h) pontja szerint juttatásban részesül,
 - c) az önkéntest engedélyköteles építési munkában való részvételre foglalkoztatják,
 - d) a közérdekű önkéntes tevékenységet külföldön végzik,
-- e) az önkéntes harmadik országbeli állampolgár, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt,
+- e) az önkéntes harmadik országbeli állampolgár, ide nem értve a menekültként vagy menedékesként elismert, illetve huzamos tartózkodási jogosultsággal rendelkező személyt,
 - f) bármelyik fél azonnali hatályú felmondáshoz való jogát korlátozzák,
 - g) az önkéntes kéri, vagy
 - h) ezt jogszabály elrendeli.
@@ -256,7 +256,25 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (2) E törvénynek az önkéntes jogviszonyra vonatkozó szabályaitól – ha e törvény vagy nemzetközi szerződés kivételt nem tesz – az önkéntes szerződésben érvényesen eltérni nem lehet.
 
-16–25. §
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
 
 26. § (1) Ez a törvény a kihirdetését követő harmadik hónap első napján lép hatályba.
 
@@ -279,4 +297,4 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - 5.2. tizennyolcadik életévét be nem töltött önkéntest foglalkoztatni,
 - 5.3. a cselekvőképességében a közérdekű önkéntes tevékenység tekintetében részlegesen korlátozott nagykorú önkéntest foglalkoztatni,
 - 5.4. külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni,
-- 5.5. olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt vagy letelepedett személyt.
+- 5.5. olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, illetve huzamos tartózkodási jogosultsággal rendelkező személyt.

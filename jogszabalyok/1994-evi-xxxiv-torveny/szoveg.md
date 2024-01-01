@@ -530,6 +530,12 @@ alkalmazhat, illetve használhat.
 
 (2) Több lehetséges és alkalmas rendőri intézkedés, illetőleg kényszerítő eszköz közül azt kell választani, amely az eredményesség biztosítása mellett az intézkedéssel érintettre a legkisebb korlátozással, sérüléssel vagy károkozással jár.
 
+### A kényszerítő eszköz alkalmazásának a helyettesítése
+
+15/A. § (1) Kényszerítő eszköz alkalmazása, illetve a kényszerítő eszköz további alkalmazása helyett a rendőr – szükség esetén – a tárgyra vagy a levegőbe leadott lövéssel élhet, ha az eset összes körülményei alapján okkal feltételezhető, hogy a rendőri intézkedés célja ilyen módon is elérhető.
+
+(2) Ha a lőfegyverhasználat e törvényben meghatározott feltételei nem állnak fenn, az (1) bekezdésben meghatározott feltételek teljesülése esetén sem adható le lövés abban az esetben, ha az ember életét vagy testi épségét veszélyeztetné.
+
 ### A kényszerítő eszközök alkalmazásának
 
 követelményei
@@ -1140,7 +1146,7 @@ igényelhet adatot.
 
 (2) A lőfegyverhasználat saját elhatározásból vagy utasításra történhet. Csapaterő zárt alakzatban történő alkalmazása esetén csak utasításra használható lőfegyver.
 
-53. § (1) Lőfegyverhasználatnak csak a szándékosan, személyre leadott lövés minősül.
+53. § (1) Lőfegyverhasználatnak csak a szándékosan, emberre leadott lövés minősül.
 
 (2) Ha e törvény szerint a lőfegyverhasználat feltétele fennáll, a rendőr bármely dolgot fegyverként használhat. A lőfegyver használatára vonatkozó szabályokat ebben az esetben is értelemszerűen alkalmazni kell.
 
@@ -1166,10 +1172,14 @@ igényelhet adatot.
 
 (3) Rendőrségi vagy határrendészeti feladatokat ellátó külföldi szerv tagja Magyarország területén e törvényben, a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusa alapján meghatározott esetben és módon használhat lőfegyvert.
 
-55. § Nincs helye lőfegyverhasználatnak — a fegyveresen vagy felfegyverkezve elkövetett támadás, fegyveres ellenállás leküzdése, illetőleg a tömegben lévő személlyel szembeni használat (57. §) kivételével — ha
+55. § Nincs helye lőfegyverhasználatnak
 
-- a) olyan személy életét vagy testi épségét veszélyezteti, akivel szemben a lőfegyverhasználat feltételei nem állnak fenn;
-- b) a rendőri intézkedés célja tárgyra vagy állatra leadott lövéssel is elérhető.
+- a) – a fegyveresen vagy felfegyverkezve elkövetett támadás, fegyveres ellenállás leküzdése, illetve a tömegben lévő személlyel szembeni használat (57. §) kivételével –, ha olyan személy életét vagy testi épségét veszélyezteti, akivel szemben a lőfegyverhasználat feltételei nem állnak fenn;
+- b) abban az esetben, ha a rendőri intézkedés célja
+  - ba) állatra leadott lövéssel, vagy
+  - bb) a kényszerítő eszköz alkalmazásának a helyettesítésével (15/A. §)
+
+is elérhető.
 
 56. § (1) A lőfegyverhasználatot a következő sorrendben meg kell előznie
 
@@ -1752,6 +1762,16 @@ véleményének kikérésével dönt.
 
 (3) A (2) bekezdésben meghatározott véleményt legkésőbb tizenöt napon belül kell megadni. A vélemény megkérésétől annak megadásáig vagy a véleményadási határidő eredménytelen elteltéig terjedő időtartam az adat megismerése iránti igény teljesítésére rendelkezésre álló határidőbe nem számít bele.
 
+80/B. § (1) A rendőrség az e fejezetben rögzített adatkezelési és adatfeldolgozási feladat- és hatáskörök gyakorlásának támogatása céljából integrált ügyviteli, ügyfeldolgozó, elektronikus iratkezelő és folyamattámogató rendszert (a továbbiakban: ügyviteli rendszer) működtet. A rendőrség biztosítja, hogy az ügyviteli rendszer funkcióihoz és a benne tárolt adatokhoz csak olyan személy és olyan terjedelemben fér hozzá, akinek és amennyiben a feladatai ellátásához ez szükséges.
+
+(2) A rendőrség az ügyviteli rendszerben kezelt adatok felhasználásával az (1) bekezdésben foglalt műveleteken kívül – a feladat- és hatáskörébe tartozó feladatok ellátása céljából – emberi döntést informatikai alkalmazással támogató adatkigyűjtést, adatelemzést végezhet. Az informatikai alkalmazással támogatott adatkigyűjtés, adatelemzés a rendszer azt alkalmazó felhasználójának személyes adatkezelési jogosultsága alapján kezelhető adatok körén nem terjeszkedhet túl.
+
+(3) Az ügyviteli rendszer használata során kezelt személyes adatok vonatkozásában megfelelő műszaki és szervezési intézkedésekkel kell biztosítani
+
+- a) a személyes adatok kezelésének törvényben meghatározott adatkezelési célhoz kötöttségét,
+- b) az ügyviteli rendszerben kezelt személyes adat forrásául szolgáló nyilvántartáshoz a rendőrség által történő hozzáférést lehetővé tévő feltétel ellenőrzését, ha törvény e hozzáférést valamely feltétel teljesítéséhez köti, valamint
+- c) a személyes adathoz hozzáférő személynek, a hozzáférés jogcímének, valamint a hozzáféréssel érintett adatok forrásának beazonosíthatóságát.
+
 ### A rendőrségi feladatok ellátásához szükséges
 
 adatok köre
@@ -2318,7 +2338,7 @@ bírálja el.
 - b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint az alkalmassági feltételek ellenőrzésének szabályait,
 - c)
 - d)
-- e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a szolgálati lőfegyverek és lőszerek 1. § (2) bekezdés 7a. pontja szerinti külföldre vitelének szabályait és a rendőrséggel együttműködő külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalának engedélyezési szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét, valamint az iskolaőri intézkedések és kényszerítő eszközök alkalmazásának részletes eljárási szabályait, valamint a formaruha viselésének rendjét,
+- e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök és az ezeket helyettesítő intézkedéstaktikai elemek, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a szolgálati lőfegyverek és lőszerek 1. § (2) bekezdés 7a. pontja szerinti külföldre vitelének szabályait és a rendőrséggel együttműködő külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalának engedélyezési szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét, valamint az iskolaőri intézkedések és kényszerítő eszközök alkalmazásának részletes eljárási szabályait, valamint a formaruha viselésének rendjét,
 - f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
 - g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
 - h) a bírói engedélyhez kötött eszközök alkalmazása indítványozásával, engedélyezésével, illetve igénybevételével kapcsolatos szabályokat,

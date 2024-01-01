@@ -20,7 +20,7 @@ Az Országgyűlés az állat- és növényvilág természetes sokféleségének 
 
 - 1. bányató: olyan, a bányaművelés befejezését követően fennmaradt állóvíz, amely külszíni és földalatti bányászati tevékenység során az ásványi nyersanyagok feltárása és kitermelése következtében a felszín alatti vízkészletből alakult ki, és amelynek medrét a bányászat során kialakított terepmélyedés képezi;
 - 2. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
-- 3. fogási napló: a horgászat vagy halászat során kifogott halak – nyilvántartott halgazdálkodási vízterületenkénti, halfajonkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített űrlap;
+- 3. fogási napló: a horgászat vagy halászat napjainak, az azok során kifogott halak – halgazdálkodási vízterületenkénti, halfajonkénti, vagy halkategóriánkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített űrlap vagy elektronikus alkalmazás;
 - 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 4. gereblyézés: a halnak nem a táplálkozási viselkedésére alapozottan, és a szájnyílásán kívüli más testrészébe akasztott horoggal történő zsákmányul ejtésére irányuló módszer;
 - 5. hal: a halak, illetve a körszájúak csoportjába tartozó állatfaj, valamint ezek egyedfejlődési alakjai;
@@ -43,16 +43,20 @@ felhasználásával történik;
 - 15. holtág: a folyóvíz azon mederrésze, amelyet a folyóvíz természetes úton, irányának megváltoztatásával elhagyott, vagy amelyet szabályozási célból leválasztottak róla;
 - 16. horgászat: rekreációs célból a halnak halgazdálkodási vízterületen és haltermelési létesítményben az e törvényben és a végrehajtására kiadott rendeletben megengedett módon és horgászkészséggel vagy a csalihalnak 1 négyzetméternél nem nagyobb emelőhálóval való fogása;
 - 16a. horgászati célú halgazdálkodás: olyan halgazdálkodási forma, ahol a fő tevékenység a horgászat vagy a horgászathoz szükséges halállomány biztosítása;
-- 17. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
+- 16b. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
+- 17. horgászokmány: az állami horgászokmánynak minősülő Magyar Horgászkártya, az állami horgászjegy, a horgász fogási napló, a turista állami horgászjegy, az állami halászjegy, a halász fogási napló, valamint a területi jegy és a kiegészítő területi jegy;
 - 17a. horgászszervezet: a horgászszövetség, valamint annak bírósági nyilvántartásba vett horgászati célú halgazdálkodást folytató tagszervezete, cégbíróságon bejegyzett, horgászati célú halgazdálkodást folytató gazdálkodó szervezet tagja, továbbá a bírósági nyilvántartásba vett horgászegyesület;
 - 17b. horgászszövetség: a Magyar Országos Horgász Szövetség mint a horgászok és a horgászszervezetek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet;
+- 17c. horgászszövetségi applikáció: a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett, térítésmentesen letölthető, a nyilvántartott horgászok, illetve a gondviselő esetében a horgászszövetségi szakrendszer adatait felhasználó, illetve oda adatokat biztosító, mobil eszközökre optimalizált online informatikai alkalmazás, amely térerőtől függetlenül alkalmas a nyilvántartási adatok, az érvényes horgászokmányok és az állami horgászvizsga hiteles igazolására, a horgásznapi jelenléti és az elviteli fogási adatok rögzítésére;
+- 17d. horgászszövetségi szakrendszer: a horgászok és a gondviselők regisztrációs, nyilvántartási és horgászokmány-kiadási, állami horgászvizsgáztatási, valamint a horgászszervezetek támogatását és az elektronizációt szolgáló, a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett online informatikai rendszer;
 - 18. ívóhely: az ivarérett halak csoportosan vagy párosan felkeresett szaporodási helye, ahol az ívási felület és az ívási feltételek rendelkezésre állnak a szaporodáshoz;
+- 18a. kiegészítő jegy: olyan, a halgazdálkodásra jogosult által kiadható, a területi jegyhez kapcsolódó horgászokmány, amely a területi jeggyel nem biztosított, a horgászrendben meghatározott opcionális vagy speciális kiegészítő horgászati lehetőségeket külön díj fizetése ellenében, meghatározott időszakra biztosítja;
 - 19. más hasznos víziállat: a rák, a béka, a kagyló, a pióca, a csővájó féreg, az árvaszúnyog, egyéb haltáplálék-szervezet, valamint ezek egyedfejlődési alakjai;
 - 20. meder: a vízfolyást vagy állóvizet magában foglaló természetes mélyedés vagy kiépített terepalakulat, amelyet meghatározott partvonalig a víz rendszeresen elborít;
 - 21. nyakzó háló: olyan állított halászeszköz, amelynek fogási elve a hal megakadásán alapul és a megfogott egyed rövid időn belül történő elpusztulásához vezet;
 - 22. nyilvántartott halgazdálkodási vízterület: olyan halgazdálkodási vízterület, amelyet a halgazdálkodási hatóság nyilvántartásba vett, és amelyre halgazdálkodásra jogosult nyilvántartásba vehető vagy a halgazdálkodási hatóság a halgazdálkodási jog jogosultját már rögzítette;
 - 23. telepítés: a hal vagy más hasznos víziállat egyedének vagy állományának hasznosítási céllal történő kihelyezése halgazdálkodási vízterületre;
-- 24. turista állami horgászjegy: olyan, magyar és külföldi állampolgárok számára, meghatározott díj ellenében, meghatározott időszakra, meghatározott szabályok szerinti horgászatra feljogosító állami horgászjegy, amely a törvény hatálya alá tartozó vízterületeken lehetővé teszi a horgászatot;
+- 24. területi jegy: olyan, a halgazdálkodásra jogosult által kiadható horgászokmány, amely a horgászrendben meghatározott általános horgászati lehetőségeket a megjelölt nyilvántartott halgazdálkodási vízterületen díj fizetése ellenében, meghatározott időszakra biztosítja;
 - 25. vermelőhely: a vizek azon mederrésze, általában mélyebb mederalakulata, amelyet a halak a téli, hideg vízhőmérsékletű időszakban csoportosan vagy tömegesen felkeresnek, és ahol viszonylagos nyugalmi állapotban töltik a téli időszakot;
 - 26. visszatelepítés: a halgazdálkodási vízterületre jellemző őshonos – de a halgazdálkodásra jogosult által el nem hárítható ok miatt állományában megfogyatkozott vagy eltűnt – halfaj halgazdálkodási vízterületre történő kihelyezése önfenntartó populáció kialakítása céljából;
 - 27. vízfolyás: minden olyan természetes vagy mesterséges terepalakulat, amelyben állandóan vagy időszakosan víz áramlik;
@@ -75,7 +79,7 @@ felhasználásával történik;
 
 6. § (1) Ha e törvény másként nem rendelkezik, a Magyarország halgazdálkodási vízterületein élő halállomány az állam tulajdonát képezi. Az e törvény alapján az állam tulajdonát képző halak és más hasznos víziállatok a jogszerű kifogásukkal vagy elhullásukkal kerülnek a halgazdálkodásra jogosult tulajdonába.
 
-(2) A hal kifogására az adott halgazdálkodási vízterületen halgazdálkodásra jogosult, vagy az általa feljogosított, halfogásra jogosító okmányokkal rendelkező személy (a továbbiakban: feljogosított személy) jogosult. A feljogosított személy a jogszerű kifogással és a fogási naplóban való rögzítéssel szerzi meg a hal tulajdonjogát.
+(2) A hal kifogására az adott nyilvántartott halgazdálkodási vízterületen halgazdálkodásra jogosult vagy az általa feljogosított, horgászokmányokkal vagy halászati engedéllyel rendelkező személy (a továbbiakban: feljogosított személy) jogosult. A feljogosított személy a jogszerű kifogással és a fogási naplóban való rögzítéssel szerzi meg a hal tulajdonjogát.
 
 (3) A jogosulatlanul kifogott hal, valamint más hasznos víziállat a halgazdálkodásra jogosult tulajdonába kerül, ha a vízbe élve már nem helyezhető vissza.
 
@@ -91,11 +95,11 @@ felhasználásával történik;
 
 (2) A veszélyeztetett őshonos halállományok mentése a halgazdálkodásra jogosult kötelezettsége. Ha az adott vízterületen nincs halgazdálkodásra jogosult, a halállomány mentését – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a halgazdálkodási hatóság végezteti el.
 
-9. § (1) A halállományok telelő és szaporodó helyeinek védelméről halgazdálkodási vízterületenként külön kell gondoskodni.
+9. § (1) A halállományok életfeltételeinek biztosításához szükséges vízmennyiségről és vízminőségről, valamint telelő és szaporodó helyeinek védelméről halgazdálkodási vízterületenként külön kell gondoskodni.
 
 (2) A halgazdálkodási hatóság az (1) bekezdés szerinti helyet – ha annak ökológiai szerepe indokolja – halgazdálkodási kíméleti területnek jelöli ki és halfogási tilalmat rendel el.
 
-(3) A halállományok telelő és szaporodó helyein, különösen halgazdálkodási kíméleti területen, a halgazdálkodási hatóság a halállomány védelme érdekében az egyéb vízhasználati módok hatósági korlátozását kezdeményezheti. A kezdeményezésnél a halgazdálkodási hatóság mérlegeli, hogy a vízhasználati módok veszélyeztetik-e az (1) vagy (2) bekezdésben meghatározott védelmi funkció megvalósulását.
+(3) A halgazdálkodási hatóság a halállomány védelme érdekében, az egyéb vízhasználati módok hatósági korlátozását kezdeményezheti. A kezdeményezésnél a halgazdálkodási hatóság mérlegeli, hogy a vízhasználati módok veszélyeztetik-e az (1) vagy (2) bekezdésben meghatározott védelmi funkció megvalósulását.
 
 10. § (1) A halgazdálkodási hatóság a halállományt veszélyeztető gerinces állatfajok állományának
 
@@ -134,7 +138,7 @@ kötelezheti a negyven hektárnál nagyobb halgazdálkodási vízterülettel ren
 
 12/A. § Nyilvántartott halgazdálkodási vízterületnek nem minősülő vízterületen haltelepítés nem végezhető.
 
-13. § (1) Halgazdálkodási vízterületről kifogott őshonos halak – a 8. § (1) és (2) bekezdése szerint történő állománymentés és a mesterséges körülmények közötti szaporítási célból fogott halak halgazdálkodási hatóság engedélyével végzett telepítésének, valamint a horgászati célú haltermelés keretében a horgászathoz szükséges halállomány biztosításának kivételével – másik halgazdálkodási vízterületre, illetve haltermelési létesítménybe nem telepíthetők.
+13. § (1) Halgazdálkodási vízterületről kifogott őshonos halak – a 8. § (1) és (2) bekezdése szerint történő állománymentés és a mesterséges körülmények közötti szaporítási célból fogott halak halgazdálkodási hatóság engedélyével végzett telepítésének, a 11. § (1) bekezdés g) pontja szerinti áttelepítésének, valamint a horgászati célú haltermelés keretében a horgászathoz szükséges halállomány biztosításának kivételével – másik halgazdálkodási vízterületre, illetve haltermelési létesítménybe nem telepíthetők.
 
 (2) Halgazdálkodási vízterületről kifogott nem őshonos halak másik halgazdálkodási vízterületre nem telepíthetők. Halgazdálkodási vízterületről kifogott nem őshonos halak haltermelési létesítménybe halhústermelési vagy takarmányozási célból – a halgazdálkodási hatóság engedélyével – helyezhetők ki.
 
@@ -298,7 +302,7 @@ tekintetében az adott halgazdálkodási vízterület vagy annak része halterme
 
 23/C. § A nyilvántartott halgazdálkodási vízterületnek az állam vagy az önkormányzat tulajdonában álló partján a horgászati tevékenység végzése csak a halgazdálkodásra jogosult hozzájárulásával korlátozható, ide nem értve a halgazdálkodási hatóság által elrendelt korlátozást.
 
-23/D. § A nyilvántartott halgazdálkodási vízterületen más által, ellenszolgáltatás ellenében tervezett horgásztatás, horgászvezetés, horgászhely-biztosítás, más horgászati célú szolgáltatás, valamint horgásztábor vagy horgászverseny-szervezés csak a halgazdálkodásra jogosult előzetes hozzájárulásával végezhető.
+23/D. § A nyilvántartott halgazdálkodási vízterületen vagy annak partján más által, ellenszolgáltatás ellenében szervezett horgásztatás, horgászvezetés, horgászhely-biztosítás, horgásztábor vagy horgászverseny-szervezés, valamint más horgászati célú szolgáltatás csak a halgazdálkodásra jogosult előzetes és írásos hozzájárulásával végezhető.
 
 #### 8. A halgazdálkodási jog átengedése
 
@@ -308,7 +312,7 @@ tekintetében az adott halgazdálkodási vízterület vagy annak része halterme
   - aa) költségvetési szerv részére,
   - ab) az állam 100%-os tulajdonában álló olyan gazdálkodó szervezet részére, amely alapító okiratában vagy jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja azt hasznosítani vagy
 - b) az a) pontba nem tartozó nyilvántartott halgazdálkodási vízterület esetén haszonbérleti szerződéssel
-  - ba) a miniszter általi kijelölés útján a horgászszövetség részére,
+  - ba) a miniszter általi kijelölés útján a horgászszövetség vagy mintagazdaság részére,
   - bb) nyilvános pályáztatás útján természetes személy vagy jogi személy részére.
 
 (2) A horgászszövetség a halgazdálkodási jogot a tagjának vagy tagszervezete tagjának minősülő horgászszervezet részére alhaszonbérbe adhatja. Az alhaszonbérbe adás nem érinti a horgászszövetségnek a haszonbérbe adóval szemben fennálló kötelezettségeit.
@@ -435,7 +439,7 @@ követő napon.
 
 (6) A halgazdálkodási vízterületek és jogosultak nyilvántartásában szereplő adatokat a halgazdálkodási hatóság a tulajdonviszonyok és a szakmai szempontok figyelembevételével hivatalból eljárva vagy a halgazdálkodásra jogosult kérelmére módosíthatja.
 
-35. § (1) A nem nyilvántartott halgazdálkodási vízterületeken horgászati tevékenység kizárólag a 45. § (5) bekezdésében foglalt feltételek szerint végezhető. E vízterületeken – a (2) bekezdésben foglalt kivétellel – halászati tevékenység nem végezhető.
+35. § (1) A nem nyilvántartott halgazdálkodási vízterületeken – a (2) bekezdésben foglalt kivétellel – halászati tevékenység nem végezhető.
 
 (2) A folyóvizek árterületének nem mentett oldalán elhelyezkedő, egyedileg nem nyilvántartott állandó vagy időszakos vízterületek a halgazdálkodásra való jogosultság szempontjából a főmeder – mint halgazdálkodási vízterület – részének minősülnek. Ezen hullámtéri vízterületeken halgazdálkodási tevékenységet a vízgazdálkodási és vízkár-elhárítási szempontok elsődlegességének szem előtt tartásával végezhet a halgazdálkodásra jogosult.
 
@@ -443,35 +447,48 @@ követő napon.
 
 #### 11. A halgazdálkodási szolgalmi jog
 
-36. § (1) A halgazdálkodási jog gyakorlásával érintett ingatlan tulajdonosa, használója köteles a halgazdálkodási jog jogosultja által gyakorolt jogokkal és kötelezettségekkel összefüggő halgazdálkodási tevékenységeket – beleértve a területi jeggyel történő horgászati tevékenységet is –, amennyiben e tevékenységek más módon csak aránytalanul nehezebben vagy nagyobb költséggel végezhetőek, tűrni, illetve lehetővé tenni, különösen a halgazdálkodásra jogosultnak az ingatlanon keresztül a vízhez a Polgári Törvénykönyvben meghatározott korlátozások betartásával történő eljutását, az ingatlanon a halgazdálkodási tervben meghatározott tevékenységek végzését.
+36. § (1) A halgazdálkodási jog gyakorlásával érintett ingatlan tulajdonosa, vagyonkezelője, egyéb használója köteles a halgazdálkodási jog jogosultja által gyakorolt jogokkal és kötelezettségekkel összefüggő halgazdálkodási tevékenységeket – beleértve a területi jeggyel történő egyéni horgászati és rekreációs halászati tevékenységet, illetve ennek érdekében a horgászhely, valamint a halászhely megközelítését is – tűrni, illetve lehetővé tenni, továbbá az ezen tevékenységek gyakorlása tárgyában erre alapított díjat, költséget nem számíthat fel.
 
-(2) A vízparti ingatlanra is kiterjedő áradás esetén az érintett ingatlan tulajdonosa köteles tűrni, illetve lehetővé tenni – amennyiben a tevékenység vízgazdálkodási, vízkár-elhárítási érdeket nem sért – a halivadék, halállomány halgazdálkodási vízterületre történő visszajuttatását.
+(2) A vízparti ingatlanra is kiterjedő áradás esetén az érintett ingatlan tulajdonosa, vagyonkezelője, egyéb használója köteles tűrni, illetve lehetővé tenni – ha a tevékenység jelentős vízgazdálkodási, vízkárelhárítási érdeket nem sért – a halivadék, halállomány halgazdálkodási vízterületre történő visszajuttatását.
 
 (3) Az ingatlan tulajdonosát, használóját az (1) és (2) bekezdés szerinti jogokból és kötelezettségekből eredő károkozás esetén kártalanítás illeti meg.
 
-#### 12. A halfogásra jogosító okmányok
+#### 12. Halászati tevékenység és engedély
 
-37. § (1) A halgazdálkodási vízterületeken a hal fogása és a halfogásra irányuló tevékenység
+37. § (1) Nyilvántartott halgazdálkodási vízterületeken
 
-- a) bemutatási célú halászat, vagy ökológiai célú, szelektív halászat, vagy más hasznos víziállat forgalmazási célú gyűjtése esetén halászati engedéllyel,
-- b) rekreációs célú halászat esetén állami halászjeggyel, vagy
-- c) horgászat esetén állami horgászjeggyel vagy turista állami horgászjeggyel,
+- a) ökológiai célú, azon belül
+  - aa) szelektív,
+  - ab) mesterséges szaporításra alkalmas törzsállomány befogására irányuló,
+  - ac) visszatelepítési célú állományvédelmi, valamint
+- b) bemutatási célú
 
-e törvény rendelkezéseinek betartásával folytatható.
+halászat, vagy más hasznos víziállat forgalmazási célú gyűjtése kizárólag halászati engedéllyel, e törvény rendelkezéseinek betartásával folytatható.
 
-(2) A nyilvántartott halgazdálkodási vízterületen halfogási tevékenység végzéséhez fogási napló, valamint, ha azt nem a halgazdálkodásra jogosult vagy a halászati engedéllyel rendelkező személy végzi, a halgazdálkodásra jogosult területi jegye is szükséges.
+(2) Az (1) bekezdés szerinti tevékenység végzése során fogási naplót kell vezetni, és fogási tanúsítványt kell kiállítani.
 
-(2a) A 15. életévét be nem töltött gyermekekkel végzett bemutatási célú horgászat esetében az (1) és (2) bekezdés előírásait nem kell alkalmazni.
+(3) A halászati engedély és a (2) bekezdés szerinti okmányok nem ruházhatók át.
 
-(3) A halászati engedély, az állami halászjegy, az állami horgászjegy, valamint a turista állami horgászjegy nem ruházható át. Egy személynek – az adott típusból – egy naptári évben csak egy adható, kivéve az ökológiai célú szelektív halászatra vonatkozó engedélyt, valamint a 43. § (4) bekezdése szerinti esetet.
+38. § (1) Halászati engedély azon a nyilvántartott halgazdálkodási vízterületen jogosít a 37. § (1) bekezdése szerinti halászati vagy gyűjtési tevékenységre, amelyre kiadták.
 
-(4) A haltermelési létesítményen a hal fogása és a halfogásra irányuló tevékenység horgászat esetén állami horgászjeggyel vagy turista állami horgászjeggyel e törvény rendelkezéseinek betartásával folytatható.
+(2) A halászati engedélyt – a halgazdálkodásra jogosulttal írásban kötött szerződés alapján – az e törvény végrehajtására kiadott rendeletben meghatározott képzettséggel és vizsgával rendelkező kérelmező részére a halgazdálkodási hatóság adja ki.
 
-38. § (1) A halászati engedély kizárólag azon a nyilvántartott halgazdálkodási vízterületen jogosít bemutatási célú halászat, vagy ökológiai célú, szelektív halászat végzésére – beleértve a mesterséges szaporításra alkalmas törzsállomány befogását is –, vagy más hasznos víziállat forgalmazási célú gyűjtésére, amelyre kiadásra kerül.
+(3) Halászati engedély nem adható annak a személynek – a halgazdálkodási hatóság bírságot kiszabó határozatában megállapított eltiltás időtartamára –, akivel szemben halvédelmi bírságot szabtak ki. A halgazdálkodási hatóság által megállapított eltiltás lejártát követően halászati engedély vagy állami horgászokmány csak akkor adható ki, amennyiben az igénylő a halvédelmi bírságot megfizette.
 
-(2) A halászati engedélyt a halgazdálkodási hatóság adja ki – a halgazdálkodásra jogosulttal írásban kötött szerződés alapján – az e törvény végrehajtására kiadott rendeletben meghatározott képzettséggel és vizsgával rendelkező kérelmező részére.
+(4) A halászati engedélyt a halgazdálkodási hatóság véglegesen visszavonja attól a személytől
 
-(3) A halászati engedélynek rendelkeznie kell az engedélyes által
+- a) aki ezen okmányát a helyszíni ellenőrzéskor nem tudja felmutatni és mulasztását a halgazdálkodási hatóságnál a helyszíni ellenőrzést követő 10 napon belül nem pótolja,
+- b) akivel szemben halvédelmi bírságot vagy más hatóság által, a hal fogására irányuló tevékenységgel kapcsolatban megállapított szankciót szabtak ki,
+- c) akinek a horgászattal, a halászattal vagy a hal fogásával összefüggésben szabálysértési vagy büntetőjogi felelősségét megállapították, kivéve, ha a büntetés jogkövetkezményei alól már mentesült,
+- d) aki tiltott vagy nem megengedett eszközzel, illetve módon halászik vagy horgászik.
+
+(5) Attól a személytől, aki a halászati engedély mellett állami horgászokmánnyal is rendelkezik, a (4) bekezdésben felsorolt esetekben a Magyar Horgászkártya kivételével minden horgászokmányt vissza kell vonni.
+
+(6) A (3) bekezdés szerinti eltiltás időtartama hat hónaptól öt évig terjedhet. Az eltiltás időtartamát a halgazdálkodási hatóság az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel határozza meg a halvédelmi bírságot vagy eltiltást megállapító határozatban.
+
+(7) A halászati engedély vagy a hozzá tartozó fogási napló vagy fogási tanúsítvány megsemmisülését vagy elvesztését annak jogosultja 3 napon belül köteles bejelenteni a halgazdálkodási hatóságnak. A halgazdálkodási hatóság a megsemmisült vagy elveszett okmányt a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
+
+(8) A halászati engedélynek rendelkeznie kell az engedélyes által
 
 - a) halászható nyilvántartott halgazdálkodási vízterület megnevezéséről,
 - b) alkalmazható halászeszközökről, azok
@@ -480,131 +497,231 @@ e törvény rendelkezéseinek betartásával folytatható.
   - bc) egyedi jelöléséről, valamint
 - c) kifogható egyes halfajok éves mennyiségéről.
 
-(4) A halászati engedéllyel együtt, a halgazdálkodási hatóság fogási naplót, valamint sorszámozott fogási tanúsítvány nyomtatványtömböt ad ki az engedélyesnek. További fogási tanúsítvány nyomtatványokat az engedélyes a halászati engedélyt kiállító halgazdálkodási hatóságtól igényelhet.
+(9) A halgazdálkodási hatóság a halászati engedéllyel együtt fogási naplót, valamint sorszámozott fogási tanúsítvány nyomtatványtömböt ad ki az engedélyesnek. További fogási tanúsítvány nyomtatványokat az engedélyes a halászati engedélyt kiállító halgazdálkodási hatóságtól igényelhet.
 
-(5) A fogási naplót, valamint a fogási tanúsítványokat a halgazdálkodási hatóság díj ellenében állítja ki.
+(10) Halászati engedély, fogási napló és fogási tanúsítvány jogi személy számára is kiadható.
 
-(6) Halászati engedély, fogási napló és fogási tanúsítvány jogi személy számára is kiadható.
+(11) A halászati engedély kiadásának díját az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(7)
+(12) A fogási naplót, valamint a fogási tanúsítványokat a halgazdálkodási hatóság díj ellenében állítja ki.
 
-39. § (1) Az állami halászjegyet és a halász fogási naplót a horgászszövetség, valamint a horgászszövetség által megbízott horgászszervezet adhatja ki. Az állami halászjegy rekreációs halászatra jogosít, amelynek országos rendjét az e törvény végrehajtására kiadott rendelet határozza meg. Az állami halászjegyet és a halász fogási naplót kiadó szervezet nyilvántartást vezet az általa kiadott állami halászjegyről és halász fogási naplóról.
+#### 12/A. Nyilvántartási feladatok
 
-(2) Állami halászjegyet az a személy kaphat, akinek korábban már volt halászjegye vagy – ha e törvény másképp nem rendelkezik – halászvizsgával rendelkezik. Nem kell halászvizsgát tennie annak, aki halász szakmunkás-képesítéssel, valamint felsőfokú halgazdálkodási, halászati szakirányú végzettséggel rendelkezik.
-
-(3) Rekreációs célú halászat és horgászat egy feljogosított személy által egy időben nem végezhető.
-
-40. § (1) Az állami horgászjegyet és a horgász fogási naplót a horgászszövetség, valamint a horgászszövetség által megbízott horgászszervezet adhatja ki. Az állami horgászjegyet és a horgász fogási naplót kiadó szervezet nyilvántartást vezet az általa kiadott állami horgászjegyről és horgász fogási naplóról. Az állami horgászjegy horgászatra jogosít, amelynek országos rendjét az e törvény végrehajtására kiadott rendelet határozza meg.
-
-(2) Állami horgászjegyet és horgász fogási naplót az a természetes személy válthat ki, aki harmadik életévét betöltötte, rendelkezik állami horgászvizsgával vagy korábbi érvényes állami horgászjegyét bemutatja, horgászegyesületi tagságát igazolja. A horgász az állami horgászvizsga letételét állami horgászvizsga-bizonyítvánnyal igazolja. Magyar állampolgársággal és állandó lakóhellyel, valamint magyar állami horgászvizsgával nem rendelkező természetes személy más országban kiállított horgászati okirat vagy okmány bemutatásával jogosult az állami horgászjegy és a horgász fogási napló kiváltására.
-
-(3) Hároméves kortól az adott év december 31. napjáig a 15. életévét be nem töltött személy részére állami horgászjegy horgászvizsga és horgászegyesületi tagság hiányában is kiadható.
-
-(4) Egy személy évente egy alkalommal, korlátozott időtartamra, a szükséges szabály- és fajismeret igazolása mellett, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint történő horgászathoz turista állami horgászjegyet válthat, amely vonatkozásában a (2) bekezdésben foglaltakat nem kell alkalmazni.
-
-(4a) A turista állami horgászjegyet és a hozzá tartozó fogási naplót a horgászszövetség adja ki.
-
-(5) Az állami horgászvizsga letétele alól mentesül azon értelmi fogyatékos személy, akinek a törvényes képviselője az állapotát igazoló okmányokat az állami horgászvizsga bizottság számára benyújtja. Az állami horgászvizsga letétele alól mentesített, halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos személy kizárólag 18. életévét betöltött, állami horgászvizsgával rendelkező személy folyamatos jelenlétében horgászhat.
-
-(6)
-
-(7) Az állami horgászvizsga letétele alól mentesül a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő vak vagy gyengénlátó személy, aki ezen állapotát igazoló okmányokat az állami horgászvizsga bizottság számára benyújtja.
-
-(8) Az állami horgászjegy és a horgász fogási napló összevont halfogásra jogosító okmányként is kiadható. A Magyar Horgászkártya, az állami horgászvizsga bizonyítvány, az állami horgászjegy, a turista állami horgászjegy és az állami halászjegy, valamint a horgász fogási napló és a halász fogási napló, továbbá a területi jegy elektronikus formában is kiadható.
-
-(9) Az állami horgászvizsgáztatást a horgászszövetség, illetve az általa horgászvizsgáztatásra feljogosított horgászszervezet végzi.
-
-(10) Az állami horgászvizsga díjmentes.
-
-(11) Állami horgászvizsgát betöltött 10. életévtől lehet tenni.
-
-41. § (1) Az állami halászjegy, az állami horgászjegy, valamint a turista állami horgászjegy díj ellenében váltható.
-
-(2) Mentesül az állami horgászjegy díjának megfizetése alól
-
-- a) a 70. életévét betöltött,
-- b) a 40. § (3) bekezdésében meghatározott, horgászegyesületi tagsággal nem rendelkező gyermekhorgász,
-- c) a 40. § (5) bekezdésében meghatározott, és
-- d) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő, állapotát az e törvény végrehajtására kiadott rendeletben meghatározott módon igazoló mozgásszervi vagy hallási fogyatékos,
-- e) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő, állapotát az e törvény végrehajtására kiadott rendeletben meghatározott módon igazoló vak vagy gyengénlátó
-
-személy.
-
-(3) Mentesül az állami halászjegy díjának megfizetése alól a 70. életévét betöltött személy.
-
-42. § (1) A halgazdálkodási hatóság a kiadott halászati engedélyekről, állami halászjegyekről, állami horgászjegyekről, turista állami horgászjegyekről, valamint a 43. § (3) bekezdés szerinti határozat hatálya alá tartozó személyekről – a halfogási tevékenységet végző személyek és szervezetek tevékenységének nyomon követhetősége céljából – nyilvántartást vezet.
+38/A. § (1) A halgazdálkodási hatóság az e törvényben meghatározott feladatai ellátása érdekében a halfogásra jogosultakról, a kiadott halászati engedélyekről, az állami horgászokmányokról és az állami horgászvizsgáról, halászvizsgáról, valamint a horgászokmányokat és a halászati engedélyt véglegesen visszavonó hatósági határozat hatálya alá tartozó személyekről nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
 - a) a jogosult természetes személy
-  - aa) családi és utónevét;
-  - ab) anyja leánykori családi és utónevét;
-  - ac) születési helyét, idejét;
-  - ad) állandó lakcímét;
-- b) a jogosult jogi személy
-  - ba) cégnevét;
-  - bb) székhelyét;
-- c)
-- d) az állami halászvizsga-bizonyítvány számát;
-- e) állami horgászjegyének, turista állami horgászjegyének, állami halászjegyének, halászati engedélyének számát;
-- f) a fogási napló leadásának időpontját;
-- g) a halvédelmi bírságot kiszabó határozat számát;
-- h) az állami horgászjegy, turista állami horgászjegy, állami halászjegy, halászati engedély visszavonásának dátumát, valamint az annak váltásától való eltiltás időtartamát.
+  - aa) családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) születési helyét és idejét,
+  - ad) anyja születési családi és utónevét,
+  - ae) lakcímét,
+  - af) horgászszövetségi azonosító számát,
+  - ag) állami vizsgabizonyítványának számát, korábban igazolt horgászvizsga esetén annak számát vagy a megszerzés dátumát;
+- b) a 37. § szerinti tevékenységre jogosult jogi személy
+  - ba) nevét,
+  - bb) székhelyének címét; valamint
+- c) a jogosult
+  - ca) halászati engedélyének, állami horgászjegyének, állami halászjegyének számát és kiadásának időpontját,
+  - cb) a horgász, halász fogási napló leadásának vagy lezárásának időpontját,
+  - cc) a halvédelmi bírságot kiszabó határozat számát, és
+  - cd) a halászati engedély, állami horgászokmány visszavonásának dátumát, valamint az annak váltásától való eltiltás időtartamát.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés h) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés c) pont cd) alpontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(3a) A halgazdálkodási hatóság az (1) bekezdés szerinti nyilvántartás adatai alapján a halfogási tevékenységet végző jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki automatikus döntéshozatal keretében.
+(4) A halgazdálkodási hatóság az (1) bekezdés szerinti nyilvántartás adatai alapján a halfogási tevékenységet végző jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki automatikus döntéshozatal keretében.
 
-(4) A halgazdálkodási hatóság országos illetékességű szerve a területi halgazdálkodási hatóságok által bejegyzett adatokat – a halfogási tevékenységek országos nyomon követhetősége céljából – összesíti.
-
-(5) A (2) bekezdésben meghatározott adatok a halászati engedély, a halászjegy, a horgászjegy, turista állami horgászjegy hatályának lejáratától számított öt évig kezelhetők.
+(5) A halgazdálkodási hatóság országos illetékességű szerve a területi halgazdálkodási hatóságok által bejegyzett adatokat – a halfogási tevékenységek országos nyomonkövethetősége céljából – összesíti.
 
 (6) Az (1) bekezdés szerinti nyilvántartásból
 
 - a) jogának vagy jogos érdekének érvényesítése, illetve jogszabályban meghatározott feladatai elvégzése érdekében természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
-- b) a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, továbbá a közigazgatási és szabálysértési hatóságok – jogszabályban meghatározott feladataik ellátásához szükséges mértékben igényelhetnek adatot.
+- b) jogszabályban meghatározott feladataik ellátásához szükséges mértékben a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, továbbá a közigazgatási és szabálysértési hatóságok
 
-(6a) Az állami horgászvizsga-bizonyítvány számát vagy ennek hiányában a horgászvizsga megszerzésének dátumát a horgászszövetség tartja nyilván.
+igényelhetnek adatot.
 
-(7) A horgászszövetség elektronikus nyilvántartási rendszerén keresztül az (1) bekezdés szerinti nyilvántartás naprakésszé tétele céljából az állami horgászjegyek, a turista állami horgászjegyek és az állami halászjegyek tekintetében a (2) bekezdés a), e) és f) pontja, valamint a (6a) bekezdés szerinti adatok tekintetében – a halászati engedély kivételével – közvetlen informatikai kapcsolat útján automatikusan valós idejű adatot szolgáltat a halgazdálkodási hatóságnak és biztosítja számára az elektronikus nyilvántartási rendszeréhez való hozzáférést.
+(7) Az (1) bekezdés szerinti nyilvántartás naprakésszé tétele céljából a horgászszövetség az állami horgászokmányok és az állami horgászvizsga tekintetében a (2) bekezdés szerinti adatokról – a halászati engedély és az állami halászvizsga kivételével – közvetlen informatikai kapcsolat útján automatikusan valós idejű adatot szolgáltat a halgazdálkodási hatóságnak a szakrendszeréhez való hozzáférés biztosításával.
 
-(7a) A halgazdálkodási hatóság a horgászszövetség állami horgászjegyek, turista állami horgászjegyek, állami halászjegyek kiadásával, valamint horgászvizsgáztatással kapcsolatos közfeladat-ellátása érdekében, a kiadás és a vizsgáztatás jogszerűsége, a halfogásra jogosító okmányok kiváltására jogosult személyek adatait tartalmazó nyilvántartás naprakésszé tétele céljából a közfeladat-ellátáshoz szükséges, (2) bekezdésben felsorolt adatokat – a halfogásra jogosító okmányok kiváltásától eltiltott személyek esetében az eltiltás időtartamára vonatkozó adatokkal kiegészítve – rendszeresen átadja a horgászszövetség részére.
+(8) Az (1) bekezdés szerinti nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(7b) A (7a) bekezdés szerinti adatok átadása során az eltiltott személy adatai között a horgász azonosító számát is fel kell tüntetni.
+(9) A (2) bekezdésben meghatározott adatok a halászati engedély vagy az állami horgászokmány hatályának lejáratától számított öt évig kezelhetők.
 
-(8) Az (1) bekezdés szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+38/B. § (1) A horgászszövetség az e törvényben közfeladatként meghatározott feladatai ellátása érdekében a horgászokról és a gondviselőkről, a rekreációs halászokról, a horgászszervezetekről, a halgazdálkodási vízterületekről, valamint a horgászokmányokról és az állami horgászvizsgáról, halászvizsgáról nyilvántartást vezet.
 
-43. § (1) Halászati engedély, állami halászjegy, állami horgászjegy, turista állami horgászjegy nem adható annak a személynek – a halgazdálkodási hatóság bírságot kiszabó határozatában megállapított eltiltás időtartamára –, akivel szemben halvédelmi bírságot szabtak ki. A halgazdálkodási hatóság által megállapított eltiltás lejártát követően halászati engedély, állami halászjegy, állami horgászjegy, turista állami horgászjegy csak akkor adható ki, amennyiben az igénylő a halvédelmi bírságot megfizette.
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
-(2) A halászati engedélyt, az állami horgászjegyet, turista állami horgászjegyet, az állami halászjegyet a halgazdálkodási hatóság véglegesen visszavonja attól a személytől
+- a) a horgászatra jogosult természetes személy
+  - aa) családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) születési helyét és idejét,
+  - ad) anyja születési családi és utónevét,
+  - ae) lakcímét,
+  - af) kézbesítési címét,
+  - ag) horgászszövetségi azonosító számát,
+  - ah) állami vizsgabizonyítványának számát, korábban igazolt horgászvizsga esetén annak számát vagy a megszerzés dátumát,
+  - ai) állami horgászjegyének számát és kiadásának időpontját,
+  - aj) a horgász fogási napló leadásának vagy lezárásának időpontját,
+  - ak) a horgászszövetségi szakrendszerben kiadott területi jegyek és kiegészítő jegyek számát és kiadásuk időpontját,
+  - al) a halvédelmi bírságot kiszabó határozat számát,
+  - am) a horgászokmány visszavonásának dátumát, valamint az annak váltásától való eltiltás időtartamát és
+  - an) a horgászegyesületi tagságra vonatkozó adatokat;
+- b) a turista horgásznak minősülő természetes személy
+  - ba) a) pont aa)–ag) és aj)–am) alpontok szerinti adatait és
+  - bb) turista állami horgászjegyének számát;
+- c) a horgászatra jogosult természetes személy gondviselőjének az a) pont aa)–ag) alpontok szerinti adatait;
+- d) a rekreációs halászatra jogosult természetes személy
+  - da) a) pont aa)–ag) és ak)–am) alpontok szerinti adatait,
+  - db) állami halászvizsga-bizonyítványának számát,
+  - dc) állami halászjegyének számát és
+  - dd) a halász fogási napló leadásának vagy lezárásának időpontját; valamint
+- e) a horgászszervezet
+  - ea) nevét,
+  - eb) székhelyének címét,
+  - ec) kézbesítési címét,
+  - ed) horgászszövetségi azonosító kódját és
+  - ee) törvényes képviselőjének nevét és beosztását.
+
+(3) A (2) bekezdés a)–d) pontjában foglaltak 62/C. § (4f) bekezdése szerinti központi adatellenőrzéssel megerősített nyilvántartásba vétele az állami horgászvizsga letételének, valamint az állami horgászokmány kiadásának vagy elektronikus előállításának feltétele.
+
+(4) A halgazdálkodási hatóság a horgászszövetség közfeladat-ellátása érdekében, a horgászszövetségi nyilvántartás naprakésszé tétele céljából az állami halászvizsgával kapcsolatos adatokat, valamint az állami horgászokmányok kiváltásától eltiltott személyek esetében az eltiltás időtartamára vonatkozó adatokat közvetlen informatikai kapcsolat útján, automatikusan átadja a horgászszövetség részére. Az adatok átadása során az eltiltott személy adatai között a horgászszövetségi azonosító számot is fel kell tüntetni.
+
+(5) Az (1) bekezdés szerinti nyilvántartásban kezelt adatok statisztikai célú átadása tárgyában a 38/A. § (8) bekezdésében foglaltakat kell alkalmazni.
+
+(6) Ha a (2) bekezdés a)–d) pontja szerint nyilvántartott személy a horgászszövetségi szakrendszerben nyilvántartott horgászokmány kiváltási vagy adatváltozási bejelentési tevékenységet három évig nem végez, akkor a horgászszövetség a horgászszövetségi szakrendszerben az adatai hozzáférését megszünteti.
+
+(7) A (2) bekezdésben meghatározott adatok a horgászokmány hatályának lejáratától, illetve a horgászszövetségi szervezeti tagság vagy a halgazdálkodási vízterület nyilvántartásba vételének megszűnésétől számított öt évig, illetve pénzügyi bizonylatok esetében a tárgyi jogszabályban meghatározott időtartamig kezelhetők.
+
+#### 12/B. Az állami horgászvizsga és az állami halászvizsga
+
+38/C. § (1) Az állami horgászvizsga a horgászatra vonatkozó nemzeti jogszabályokban foglaltak alapvető ismeretét igazolja.
+
+(2) Az állami horgászvizsgáztatást a horgászszövetség, illetve az általa horgászvizsgáztatásra feljogosított horgászszervezet vizsgabizottsága végzi.
+
+(3) Az állami horgászvizsga díjmentes.
+
+(4) Az állami horgászvizsgát a 10. életév betöltésétől lehet letenni.
+
+(5) Az adott év december 31. napjáig a 15. életévét be nem töltött személy állami horgászvizsgára nem kötelezett.
+
+(6) Az állami horgászvizsga letétele alól mentesül a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő
+
+- a) értelmi fogyatékos vagy autista személy, akinek a törvényes képviselője
+- b) vak vagy gyengénlátó személy, aki
+
+ezen állapotát igazoló okmányokat az állami horgászvizsga bizottság számára benyújtja.
+
+38/D. § (1) Az állami halászvizsga a rekreációs halászatra vonatkozó nemzeti jogszabályokban foglaltak alapvető ismeretét igazolja.
+
+(2) Az állami halászvizsgáztatást a halgazdálkodási hatóság végzi.
+
+(3) Az állami halászvizsga díjköteles.
+
+(4) Az állami halászvizsgát a 18. életév betöltésétől lehet letenni.
+
+#### 12/C. Az állami horgászokmányok
+
+39. § (1) Az állami horgászokmányokat a horgászszövetség, a horgászszövetségi közfeladat-ellátásban közreműködő, kizárólagos horgászszövetségi tulajdonú gazdasági társaság, valamint a horgászszövetség által megbízott horgászszervezet adja ki.
+
+(2) A feladatellátást a horgászszövetségi szakrendszer biztosítja. A horgászszövetségi szakrendszer működésének akadályozottsága alatt forgalmazási tevékenység nem végezhető.
+
+(3) Az állami horgászokmányok elektronikus formában is kiadhatók.
+
+(4) Az állami horgászjegyhez, a turista állami horgászjegyhez és az állami halászjegyhez fogási napló biztosítása is szükséges.
+
+(5) Az állami horgászjegy és a horgász fogási napló vagy az állami halászjegy és a halász fogási napló papíralapon kizárólag összevont horgászokmányként adható ki.
+
+(6) Állami horgászokmány kizárólag a 62/C. § (4f) bekezdése szerinti, sikeres központi adatellenőrzés után adható ki. A Magyar Horgászkártya kiadásának évében az adatellenőrzés teljesítettnek tekinthető.
+
+(7) Egy személynek egy okmánytípusból egy naptári évben csak egy adható ki, a (12) és (13) bekezdése szerinti visszavonást követő új okmány kiadása és a (19) bekezdése szerinti pótlás, valamint a 40. § (3) bekezdése szerinti gyermekhorgász esetében a horgászegyesületi tagság évközi létesítése kivételével.
+
+(8) Érvényes állami horgászjegy birtokában turista horgászjegy, illetve turista horgászjegy birtokában állami horgászjegy vagy állami halászjegy nem váltható.
+
+(9) A horgászokmányok át nem ruházhatók.
+
+(10) Állami horgászokmány nem adható annak a személynek – a halgazdálkodási hatóság bírságot kiszabó határozatában megállapított eltiltás időtartamára –, akivel szemben halvédelmi bírságot szabtak ki. A halgazdálkodási hatóság által megállapított eltiltás lejártát követően állami horgászokmány vagy halászati engedély csak akkor adható ki, amennyiben az igénylő a halvédelmi bírságot megfizette.
+
+(11) A halgazdálkodási hatóság a feljogosított személynek a hivatásos halőr intézkedésével összefüggésben átadott állami horgászokmányát – a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig –
+
+- a) papíralapú horgászokmány esetében visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja;
+- b) elektronikus horgászokmány esetében a horgászszövetség bevonásával inaktiválja, és azt az eljárás eredményétől függően újra aktiválja vagy érvényteleníti.
+
+(12) Az állami horgászokmányt a halgazdálkodási hatóság véglegesen visszavonja attól a személytől,
 
 - a) aki ezen okmányát a helyszíni ellenőrzéskor nem tudja felmutatni és mulasztását a halgazdálkodási hatóságnál a helyszíni ellenőrzést követő 10 napon belül nem pótolja,
-- b) akivel szemben halvédelmi bírságot vagy más hatóság által megállapított, a hal fogására irányuló tevékenységgel kapcsolatosan megállapított szankciót szabtak ki,
-- c) akinek a horgászattal, a halászattal vagy a hal fogásával összefüggésben szabálysértési vagy büntetőjogi felelősségét megállapították,
+- b) akivel szemben halvédelmi bírságot, vagy más hatóság által megállapított, a hal fogására irányuló tevékenységgel kapcsolatosan megállapított szankciót szabtak ki,
+- c) akinek a horgászattal, a halászattal vagy a hal fogásával összefüggésben szabálysértési vagy büntetőjogi felelősségét megállapították, kivéve, ha a büntetés jogkövetkezményei alól már mentesült,
 - d) aki tiltott vagy nem megengedett eszközzel, illetve módon halászik vagy horgászik.
 
-(2a) Attól a személytől, aki egy időben több, a (2) bekezdésben meghatározott halfogásra jogosító okmánnyal rendelkezik, a (2) bekezdésben foglalt esetekben minden okmány visszavonásra kerül.
+(13) Attól a személytől, aki egy időben több állami horgászokmánnyal, illetve halászati engedéllyel is rendelkezik, a (12) bekezdésben felsorolt esetekben minden horgászokmányt és halászati engedélyt vissza kell vonni.
 
-(3) Az (1) bekezdés szerinti eltiltás időtartama három hónaptól három évig terjedhet. Az eltiltás időtartamát a halgazdálkodási hatóság az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel határozza meg a halvédelmi bírságot vagy eltiltást megállapító határozatban.
+(14) A Magyar Horgászkártyára a (10)–(13) bekezdésben foglaltak nem alkalmazhatóak.
 
-(4) A halászati engedély vagy a hozzá tartozó fogási napló vagy fogási tanúsítvány megsemmisülését vagy elvesztését annak jogosultja haladéktalanul köteles bejelenteni a halgazdálkodási hatóságnak. A halgazdálkodási hatóság a megsemmisült vagy elveszett okmányt a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
+(15) A (10) bekezdés szerinti eltiltás időtartama három hónaptól három évig terjedhet. Az eltiltás időtartamát a halgazdálkodási hatóság az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel határozza meg a halvédelmi bírságot vagy eltiltást megállapító határozatban.
 
-(4a) Az állami horgászjegy, horgász fogási napló, állami halászjegy, halász fogási napló megsemmisülését vagy elvesztését annak jogosultja haladéktalanul köteles bejelenteni a (3) bekezdés szerinti szervezetnek. A horgászszövetség a megsemmisült vagy elveszett okmányt a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
+(16) Az állami horgászokmány 56. § (7) bekezdés e) pontja szerinti elvétele tényéről a halgazdálkodási hatóság értesíti a horgászszövetséget.
 
-(5) Az állami horgászjegy, horgász fogási napló, az állami halászjegy, halász fogási napló megsemmisülését vagy elvesztését annak jogosultja
+(17) A horgászszövetség az állami horgászokmány elvételének tényét az eljárás lezárásáig a horgászszövetségi szakrendszerben a cselekmény leírása nélkül, jelöléssel rögzíti. Az eljárás lezárásáig új okmány az eljárás alá vont személy részére nem adható ki.
+
+(18) Az állami horgászokmány megsemmisülését vagy elvesztését annak jogosultja 3 napon belül köteles bejelenteni
 
 - a) a horgászszövetség által a forgalmazással megbízott horgászszervezet azon forgalmazási pontján, ahol számára az okmány kiadásra került, vagy
-- b) ha az a) pontban meghatározott helyen az állami horgászjegy vagy az állami halászjegy forgalmazása megszűnt, a horgászszövetségnek
+- b) ha az a) pontban meghatározott helyen az állami horgászokmány forgalmazása megszűnt, a horgászszövetségnek.
 
-haladéktalanul köteles bejelenteni.
+(19) A horgászszövetség vagy a forgalmazással megbízott horgászszervezet a megsemmisült vagy elveszett okmányt a jogosult kérelmére pótolja.
 
-(6) Az állami horgászjegy, a turista állami horgászjegy, az állami halászjegy 56. § (7) bekezdés e) pontja szerinti elvételének tényéről a halgazdálkodási hatóság értesíti a horgászszövetséget.
+(20) Az állami horgászokmányok – a 40. § (4) bekezdése és a 41. § (3) bekezdése szerinti megfizetés alóli mentesítés hatálya alá eső személyek okmányai, valamint a turista horgász fogási napló kivételével – díj ellenében válthatóak, ideértve a pótlásuk esetét is.
 
-(7) A horgászszövetség az állami halászjegy vagy állami horgászjegy elvételének tényét az eljárás lezárásáig a horgász elektronikus nyilvántartási rendszerében a cselekmény leírása nélkül jelöléssel rögzíti. Az eljárás lezárásáig új okmány az eljárás alá vont személy részére nem adható ki.
+39/A. § (1) A 38/B. § szerinti nyilvántartásba vételt és az ezt igazoló horgászszövetségi azonosító szám kiadását a horgászszövetségi szakrendszer, valamint a Magyar Horgászkártya igazolja.
 
-#### 13. A területi jegy
+(2) A Magyar Horgászkártyát a horgászszövetség adja ki. A Magyar Horgászkártya megléte – a gyermekhorgász, az egyesületi tagságot nem létesítő külföldi horgász, valamint a turista állami horgászjeggyel horgászó személy kivételével – előfeltétele a további horgászokmányok kiváltásának.
+
+(3) Magyar Horgászkártyát a 40. § (3) bekezdésében meghatározott gyermekhorgász részére a horgászszövetségi szakrendszerben nyilvántartott gondviselő igényelhet.
+
+(4) A Magyar Horgászkártya megsemmisülését vagy elvesztését annak jogosultja haladéktalanul köteles bejelenteni
+
+- a) online igénylés esetén a horgászszövetségi szakrendszeren keresztül a horgászszövetségnek,
+- b) helyszíni megjelenéssel történő igénylés esetén a horgászszövetség által a regisztrációval és állami horgászokmány forgalmazással megbízott horgászszervezet azon forgalmazási pontján, ahol számára a kártya igénylésre került, vagy
+- c) ha a b) pontban meghatározott helyen a regisztráció és az állami horgászokmány forgalmazása megszűnt, a horgászszövetségnek.
+
+(5) A Magyar Horgászkártyát plasztikalapon és emellett – az érvényes igényléssel egyidejűleg – elektronikus formában kell kiadni.
+
+40. § (1) Az állami horgászjegy horgászatra jogosít, amelynek rendjét az e törvény végrehajtására kiadott rendelet határozza meg. A horgászszövetség által kiadott országos horgászati rend a horgászszövetség tagszervezetei számára kötelező.
+
+(2) Állami horgászjegyet és hozzá tartozó horgász fogási naplót – a (3) bekezdésben foglalt kivétellel – az a természetes személy válthat, aki rendelkezik állami horgászvizsgával vagy korábbi érvényes állami horgászjegyét bemutatja, horgászegyesületi tagságát igazolja. A horgász az állami horgászvizsga letételét a horgászszövetségi szakrendszerbe feltöltött állami horgászvizsga bizonyítvánnyal igazolja. Magyar állampolgársággal és lakóhellyel, valamint magyar állami horgászvizsgával nem rendelkező természetes személy más országban kiállított horgászati okirat vagy okmány bemutatásával is jogosult az állami horgászjegy és a horgász fogási napló kiváltására.
+
+(3) Állami horgászjegy és a hozzá tartozó horgász fogási napló hároméves kortól – az adott év december 31. napjáig – a tizenötödik életévét be nem töltött személy részére horgászvizsga és horgászegyesületi tagság hiányában is kiadható.
+
+(4) Mentesül az állami horgászjegy díjának megfizetése alól
+
+- a) a 70. életévét betöltött,
+- b) a (3) bekezdésben meghatározott, horgászegyesületi tagsággal nem rendelkező, gyermekhorgásznak minősülő,
+- c) a 38/C. § (6) bekezdése szerinti, állapotát az e törvény végrehajtására kiadott rendeletben meghatározott módon igazoló,
+- d) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló kormányrendelet szerint súlyos fogyatékosnak minősülő, állapotát az e törvény végrehajtására kiadott rendeletben meghatározott módon igazoló mozgásszervi vagy hallási fogyatékos
+
+személy.
+
+40/A. § (1) A turista állami horgászjegy korlátozott horgászatra jogosít, amelynek rendjét az e törvény végrehajtására kiadott rendelet határozza meg.
+
+(2) Turista állami horgászjegyet és a hozzá tartozó horgász fogási naplót az a nyilvántartott természetes személy válthat ki, aki a 15. életévét betöltötte, valamint az alapvető szabály- és fajismeret elsajátítását igazolja.
+
+(3) A turista állami horgászjegyet egy személy évente egy alkalommal válthatja ki.
+
+41. § (1) Az állami halászjegy rekreációs célú halászatra jogosít, amelynek rendjét az e törvény végrehajtására kiadott rendelet határozza meg. A horgászszövetség által kiadott országos halászati rend a horgászszövetség tagszervezetei számára kötelező.
+
+(2) Állami halászjegyet és halász fogási naplót az a természetes személy válthat ki, aki 18. életévét betöltötte, rendelkezik állami halászvizsgával vagy korábbi érvényes állami halászjegyét bemutatja, horgászegyesületi vagy rekreációs halászegyesületi tagságát igazolja. Nem kell halászvizsgát tennie annak, aki halász szakmunkás-képesítéssel, valamint felsőfokú halgazdálkodási, halászati szakirányú végzettséggel rendelkezik.
+
+(3) Mentesül az állami halászjegy díjának megfizetése alól a 70. életévét betöltött személy.
+
+#### 42. §
+
+#### 43. §
+
+#### 13. A területi jegy és a kiegészítő jegy
 
 44. § (1) A halgazdálkodásra jogosult területi jegy adásával a feljogosított személy részére horgászati vagy rekreációs halászati lehetőséget biztosíthat. Területi jegyet két vagy több halgazdálkodásra jogosult együttesen is kiadhat.
+
+(1a) A nyilvántartott halgazdálkodási vízterületre kiadott területi jegy térbeli, időbeli vagy halfogási módszerre, lehetőségre vonatkozó kiterjesztése céljából a halgazdálkodásra jogosult kiegészítő jegyet adhat ki. A kiegészítő jegy kizárólag az adott nyilvántartott halgazdálkodási vízterületre kiadott területi jeggyel együtt érvényes.
 
 (2) Területi jegy csak nyilvántartott halgazdálkodási vízterületre adható ki.
 
@@ -646,37 +763,35 @@ a nyilvántartásba való betekintést lehetővé tenni és a nyilvántartásbó
 
 #### 14. A horgászat és a halászat rendje
 
-45. § (1) A halfogási tevékenységet végző személy köteles magánál tartani
+45. § (1) A halfogási tevékenységet végző személy a horgászhelyen köteles magánál tartani
 
 - a) a nyilvántartott halgazdálkodási vízterületen folytatott
-  - aa) bemutatási célú halászat, ökológiai célú, szelektív célú halászat, illetve más hasznos víziállat forgalmazási célú gyűjtése esetén a halászati engedélyt, a fogási tanúsítvány nyomtatványtömböt és a halász fogási naplót,
-  - ab) rekreációs célú halászat esetén az állami halászjegyet, a területi jegyet és a halász fogási naplót,
-  - ac) horgászat esetén a horgászegyesületi tagságot igazoló, a horgászszövetség által kiadott Magyar Horgászkártyát, az állami horgászjegyet vagy a turista állami horgászjegyet, területi jegyet és a horgász fogási naplót;
-- b) a nem nyilvántartott halgazdálkodási vízterületen folytatott horgászat esetén az állami horgászjegyet és a fogási naplót vagy a turista állami horgászjegyet és a fogási naplót,
-- c) a haltermelési létesítményen folytatott horgászat esetén az állami horgászjegyet vagy a turista állami horgászjegyet,
-- d) horgászszervezet által hasznosított haltermelési létesítményen az ac) pont szerinti okmányokat
+  - aa) ökológiai célú halászat, bemutatási célú halászat, illetve más hasznos víziállat forgalmazási célú gyűjtése esetén a halászati engedélyt, a halász fogási naplót és a fogási tanúsítvány nyomtatványtömböt,
+  - ab) horgászat esetén a Magyar Horgászkártyát, az állami horgászjegyet, területi jegyet és a horgász fogási naplót,
+  - ac) turista horgászat esetén a turista állami horgászjegyet, területi jegyet és a horgász fogási naplót,
+  - ad) rekreációs célú halászat esetén a Magyar Horgászkártyát, az állami halászjegyet, a területi jegyet és a halász fogási naplót;
+- b) a nem nyilvántartott halgazdálkodási vízterületen folytatott horgászat esetén az állami horgászjegyet és a fogási naplót, továbbá
+- c) a haltermelési létesítményen folytatott horgászat során
+  - ca) horgászszervezet általi hasznosítás esetén az a) pont ab) vagy ac) alpontja szerinti horgászokmányokat;
+  - cb) a ca) alponttól eltérő hasznosítás esetén az állami horgászjegyet vagy a turista állami horgászjegyet
 
-(a továbbiakban együtt: halfogásra jogosító okmányok) –, és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a mezőőr, a természetvédelmi őr, az állami halőr, a hivatásos halőr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
+és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a mezőőr, a természetvédelmi őr, az állami halőr, a hivatásos halőr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
 
-(1a) Elektronikus formában kiadott halfogásra jogosító okmányok esetében a halfogásra irányuló tevékenység jogosultságának igazolását az érintett személy a horgászhelyen és a horgászat teljes ideje alatt – az (1) bekezdésben foglaltaktól eltérően – informatikai eszközén keresztül is biztosíthatja.
+(2) A horgászszövetségi szakrendszeren keresztül, elektronikus formában kiadott horgászokmányok esetében a halfogásra irányuló tevékenység jogosultságának igazolását az érintett személy a horgászhelyen és a horgászat teljes ideje alatt – az (1) bekezdésben foglaltaktól eltérően – mobil eszközén keresztül, a horgász applikáció alkalmazásával biztosíthatja.
 
-(2) A halfogásra jogosító okmányok csak arcképes személyazonosító okmánnyal együttesen jogosítják az okmányok birtokosát halfogásra.
+(3) A horgászokmányok csak személyazonosság igazolására alkalmas hatósági igazolvánnyal együttesen jogosítják az okmányok birtokosát halfogásra.
 
-(3) Halgazdálkodási vízterületen állami horgászjegy és fogási napló, nyilvántartott halgazdálkodási vízterületen turista állami horgászjegy, állami horgászjegy, halászati engedély vagy állami halászjegy, valamint fogási napló vezetése nélkül történő halfogás, az arra irányuló vagy arra alkalmas tevékenység jogosulatlan horgászatnak vagy jogosulatlan halászatnak minősül.
+(4) Halgazdálkodási vízterületen az (1) és (2) bekezdés szerinti halászati és horgászokmányok, valamint fogási napló vezetése nélkül történő halfogás, az arra irányuló vagy arra alkalmas tevékenység jogosulatlan horgászatnak vagy jogosulatlan halászatnak minősül.
 
-(4) Nyilvántartott halgazdálkodási vízterületen a halgazdálkodásra jogosult által kiadott érvényes horgászatra vagy halászatra jogosító területi jegy birtoklása nélkül történő halfogás, vagy az arra irányuló tevékenység jogosulatlan horgászatnak, illetve halászatnak minősül.
+(5) A 15. életévét be nem töltött gyermekekkel végzett bemutatási célú horgászat esetében az (1)–(4) bekezdésekben foglaltakat nem kell alkalmazni.
 
-(5) A halászat, illetve a horgászat gyakorlása során be kell tartani
+(6) Horgászat és rekreációs célú halászat egy feljogosított személy által egy időben nem végezhető.
 
-- a) a halászat és a horgászat rendeletben meghatározott általános rendjére vonatkozóan;
-- b) az őshonos halfajokra vonatkozóan
-  - ba) az egyes halfajok kifogását tiltó naptári időszakra (fajlagos tilalmi idő),
-  - bb) a halfajonként a kifogható mérettartományra (halászati és horgászati méretkorlátozás),
-  - bc) a halfajonként naponta és évente kifogható összes mennyiségre (halászati és horgászati mennyiségi korlátozás)
+(7) A gyermekhorgásznak minősülő személy a 18. életévét betöltött személy folyamatos jelenlétében horgászhat.
 
-e törvény végrehajtására kiadott rendeletben meghatározott rendelkezéseket.
+(8) A turista horgásznak minősülő személy nem nyilvántartott halgazdálkodási vízterületen nem horgászhat.
 
-(6) A halgazdálkodásra jogosult helyi horgászrendjében az (5) bekezdésben meghatározottaktól eltérő, további szigorító korlátozásokat is meghatározhat a hasznosításában lévő halgazdálkodási vízterületre vonatkozóan.
+(9) Az állami horgászvizsga letétele alól mentesített, horgászokmányokkal rendelkező értelmi fogyatékos vagy autista személy kizárólag a 18. életévét betöltött, állami horgászvizsgával rendelkező személy folyamatos jelenlétében horgászhat.
 
 46. § (1) Tilos a hal fogásához minden olyan fogási eszköz, illetve fogási mód alkalmazása, amely a halállományt vagy annak élőhelyét károsíthatja, veszélyeztetheti.
 
@@ -745,9 +860,9 @@ e törvény végrehajtására kiadott rendeletben meghatározott rendelkezéseke
 
 48. § A nyilvántartott halgazdálkodási vízterületeken a halgazdálkodásra jogosult a halállomány és élőhelyének megújulása érdekében köteles az élőhelyre jellemző fajú évenkénti állománypótlás mellett oly módon gazdálkodni, hogy az élőhelynek megfelelő korú és méretű halállomány tartósan fennmaradjon.
 
-49. § (1) A halgazdálkodásra jogosult köteles 5 évre szóló halgazdálkodási tervet készíteni minden olyan nyilvántartott halgazdálkodási vízterületre, amelyre nézve területi jegyet ad ki, vagy amelyen horgászati célú haltermelést végez. A halgazdálkodási tervet a halgazdálkodási hatóság hagyja jóvá.
+49. § (1) A halgazdálkodásra jogosult köteles halgazdálkodási tervet készíteni minden olyan nyilvántartott halgazdálkodási vízterületre, amelyre nézve területi jegyet ad ki, vagy amelyen horgászati célú haltermelést végez. A halgazdálkodási tervet a halgazdálkodási hatóság hagyja jóvá.
 
-(1a) A soron következő halgazdálkodási terv, – ha a haszonbérleti szerződés 5 éven belül jár le – a haszonbérleti szerződés érvényességének utolsó napjáig szóló időszakra hagyható jóvá.
+(1a) A halgazdálkodási terv legfeljebb a haszonbérleti szerződés érvényességének utolsó napjáig szóló időszakra hagyható jóvá.
 
 (2) Ha a halgazdálkodási terv jóváhagyását követően a halállomány vagy a hal élőhelyének állapotában bekövetkezett jelentős változás miatt szükséges, a halgazdálkodási hatóság a halgazdálkodásra jogosult által benyújtott halgazdálkodási terv módosítását jóváhagyja, vagy a halgazdálkodási tervet hivatalból módosítja.
 
@@ -781,7 +896,7 @@ e törvény végrehajtására kiadott rendeletben meghatározott rendelkezéseke
 
 #### 16. Halgazdálkodási adatok szolgáltatása és gyűjtése
 
-52. § (1) A halgazdálkodásra jogosult – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – minden tervezett haltelepítését köteles a telepítés napját megelőzően legalább 3 nappal megelőzően bejelenteni a halgazdálkodási hatóságnak, valamint a horgászszövetségnek, majd a ténylegesen kihelyezett halmennyiségekről a telepítés napját követő 8 napon belül a telepítést megelőző bejelentéssel megegyező formában és módon realizációs bejelentésben köteles beszámolni.
+52. § (1) A halgazdálkodásra jogosult – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – minden tervezett haltelepítését köteles bejelenteni a halgazdálkodási hatóságnak, valamint a horgászszövetségnek, majd a ténylegesen kihelyezett halmennyiségekről bejelentésben köteles beszámolni.
 
 (2) A halgazdálkodási hatóság a haltelepítéseket a helyszínen ellenőrizheti, a dokumentumokba betekinthet.
 
@@ -817,7 +932,7 @@ e törvény végrehajtására kiadott rendeletben meghatározott rendelkezéseke
 - d) a halgazdálkodási terv szerint, valamint az azon felül felett telepített halmennyiség adatai,
 - e) a kiadott halászati engedélyek és engedélyesek adatai, a kiadott fogási tanúsítvány tömbök adatai,
 - f) a halászati engedély, állami halászjegy, illetve állami horgászjegy alapján végzett halfogások adatai,
-- g) a 42. § (1) bekezdésében meghatározott nyilvántartás adatai.
+- g) a 38/A. § (1) bekezdésében meghatározott nyilvántartás adatai.
 
 (4) Az Adattár működtetése céljából:
 
@@ -881,7 +996,7 @@ tekintetében.
 
 (7) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott hivatásos halőr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl a halgazdálkodási vízterületen és annak partján jogosult:
 
-- a) azt a személyt, aki halgazdálkodási vízterületen, haltermelési létesítményen, vagy azok partján halászik, horgászik, halfogásra alkalmas állapotban lévő halászeszközzel vagy horgászkészséggel tartózkodik, illetve egyéb, hal fogására irányuló tevékenységet végez, vagy ahhoz előkészül, valamint más hasznos víziállatot gyűjt, a személyazonosságot igazoló és a halfogásra jogosító okmányok bemutatására felszólítani,
+- a) azt a személyt, aki halgazdálkodási vízterületen, haltermelési létesítményen, vagy azok partján halászik, horgászik, halfogásra alkalmas állapotban lévő halászeszközzel vagy horgászkészséggel tartózkodik, illetve egyéb, hal fogására irányuló tevékenységet végez, valamint más hasznos víziállatot gyűjt, a személyazonosság igazolására alkalmas hatósági igazolvány és a horgászokmányok vagy halászati engedély bemutatására felszólítani,
 - b) a halászó, horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, a jogosultság hiányában kifogott, illetve birtokolt halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani,
 - c) a kifogható mérettartományon kívüli, a területi jegyen meghatározott mennyiségen felüli, a tilalmi időben kifogott, valamint a védett halat és más hasznos víziállatot a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint elvenni,
 - d) a horgászati vagy halászati jogsértő cselekményt elkövető, helyi horgászrendet vagy helyi halászrendet megsértő személytől a területi jegyet elvenni és azt a kibocsátónak haladéktalanul megküldeni,
@@ -898,7 +1013,7 @@ tekintetében.
 
 (7a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott hivatásos halőr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl a haltermelési létesítményen és annak partján jogosult:
 
-- a) azt a személyt, aki a haltermelési létesítményen, annak partján horgászik, vagy ahhoz előkészül, a halfogásra jogosító okmányok bemutatására felszólítani,
+- a) azt a személyt, aki a haltermelési létesítményen, annak partján horgászik, a horgászokmányok bemutatására felszólítani,
 - b) a horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, a jogosultság hiányában kifogott halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani,
 - c) a horgászati vagy halászati jogsértő cselekmények alábbi minősített eseteiben az állami horgászjegyet, turista állami horgászjegyet elvenni attól a személytől, aki
   - ca) tiltott vagy nem megengedett eszközzel, illetve módon horgászik vagy halászik, vagy
@@ -962,13 +1077,13 @@ tekintetében.
 
 (4) A társadalmi halőr jogosult
 
-- a) a halfogásra jogosító okmányok ellenőrzésére és a 45. § (1) bekezdése alapján azok átvételére,
-- b) halászati, horgászati jogsértés gyanúja esetén a halfogásra jogosító okmányok visszatartására a hivatásos halőrnek történő átadásáig, illetve bűncselekmény vagy szabálysértés gyanúja esetén a halfogásra jogosító okmányok visszatartására a hivatásos halőr vagy a rendőrség megérkezéséig,
+- a) a horgászokmányok és halászati engedélyek ellenőrzésére és a 45. § (1) bekezdése alapján azok átvételére,
+- b) halászati, horgászati jogsértés gyanúja esetén a horgászokmányok vagy halászati engedélyek visszatartására a hivatásos halőrnek történő átadásáig, illetve bűncselekményre vagy szabálysértésre utaló körülmény esetén a horgászokmányok vagy halászati engedélyek visszatartására a hivatásos halőr vagy a rendőrség megérkezéséig,
 - c) a kifogott hal fajának, méretének, tömegének ellenőrzésére, valamint halászati, horgászati jogsértés gyanúja esetén
   - ca) a hal visszatartására a hivatásos halőr megérkezéséig, vagy
   - cb) a hal visszaengedésére.
 
-(5) A társadalmi halőr jogosult a (4) bekezdésben foglalt intézkedése keretében a halfogásra jogosító okmányokban foglalt személyes adatok kezelésére az intézkedése alapján indult eljárás megindításáig.
+(5) A társadalmi halőr jogosult a (4) bekezdésben foglalt intézkedése keretében a horgászokmányokban vagy halászati engedélyekben foglalt személyes adatok kezelésére az intézkedése alapján indult eljárás megindításáig.
 
 #### 18. Halak és haltermékek kereskedelme
 
@@ -1061,6 +1176,8 @@ rendelkezéseit is alkalmazza.
 - b) a horgászokra, a rekreációs halászokra, valamint a tagjának vagy tagszervezete tagjának minősülő horgászszervezetekre kiterjedően a (4) bekezdésben
 
 meghatározott közfeladatokat látja el.
+
+(1a) A horgászszövetség a horgászsport tekintetében ellátja a sportról szóló 2004. évi I. törvényben (a továbbiakban: Stv.) az országos sportági szakszövetség számára meghatározott feladatokat. A horgászszövetség az országos sportági szakszövetségi feladatokat – az e törvény szerinti közfeladatainak ellátásához kapcsolódó szervezeti működésére tekintettel – külön erre irányuló bírósági nyilvántartásba vétel nélkül is elláthatja. A horgászszövetséget megfelelően megilletik az Stv. által az országos sportági szakszövetségekre vonatkozóan meghatározott jogok és terhelik az Stv.-ben meghatározott kötelezettségek.
 
 (2) A vízterületek halállományának, életközösségének fenntartása és védelme, az élőhelynek megfelelő állományi sokszínűség fenntartása és kialakítása érdekében előírt feladatok:
 
@@ -1206,13 +1323,13 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 
 #### 21. A halgazdálkodási hatóság által alkalmazható jogkövetkezmények
 
-64. § (1) A halgazdálkodási hatóság az e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén a szabályszegővel szemben bírságot szabhat ki, a 43. § szerinti eltiltást állapíthat meg, elkobzást, továbbá a 65. § szerinti intézkedéseket és jogkövetkezményeket alkalmazhat.
+64. § (1) A halgazdálkodási hatóság az e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén a szabályszegővel szemben bírságot szabhat ki, a 38. és a 39. § szerinti eltiltást állapíthat meg, elkobzást, továbbá a 65. § szerinti intézkedéseket és jogkövetkezményeket alkalmazhat.
 
 (1a) A 65. §-ban meghatározott korlátozás és felfüggesztés a szabályszerű tevékenység visszaállítása érdekében szükséges kötelezettségek teljesítéséig terjedő, míg az eltiltás öt év időtartamra rendelhető el.
 
 (2) Az (1) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek a halgazdálkodási hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
 
-(3) A halgazdálkodási hatóság az állami horgászjegy, turista állami horgászjegy, állami halászjegy, halászati engedély visszavonásának dátumát, valamint az annak váltásától való eltiltás időtartamát a 42. § (1) bekezdése szerinti nyilvántartásba haladéktalanul bejegyzi.
+(3) A halgazdálkodási hatóság az állami horgászjegy, turista állami horgászjegy, állami halászjegy, halászati engedély visszavonásának dátumát, valamint az annak váltásától való eltiltás időtartamát a 38/A. § (1) bekezdése szerinti nyilvántartásba haladéktalanul bejegyzi.
 
 65. § A halgazdálkodási hatóság az e törvény végrehajtására kiadott rendeletben meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a szankció kiszabásán túlmenően, a következő intézkedéseket és jogkövetkezményeket alkalmazhatja:
 
@@ -1258,10 +1375,10 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 - d) nem megengedett módon, eszközzel vagy tilalmi időben horgászó vagy halászó;
 - e) a nem fogható hal és más hasznos víziállat kifogását (gyűjtését) megvalósító;
 - f) a halgazdálkodási kíméleti területen a tilalom feloldásáig halászati, horgászati vagy egyéb tevékenységet – ideértve gépi meghajtású vízi jármű használatát –, vadászatot, fürdőzést végző;
-- g) a halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
+- g) a horgászokmányok vagy halászati engedély nélkül halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján, haltermelési létesítményen vagy annak partján tartózkodó és a 38. § (4) bekezdés a) pontja vagy a 39. § (12) bekezdés a) pontja szerinti pótlást elmulasztó;
 - h) a törvényben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó;
-- i) a horgász regisztráció, a halászati engedély, állami horgászjegy, turista állami horgászjegy, állami halászjegy igénylése, halfogásra jogosító okmány kiváltása során valótlan adatot szolgáltató, illetve a halfogásra jogosító okmány kiváltására nem jogosult személy részére okmányt értékesítő;
-- j) halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő horgászkészséggel haltermelési létesítményen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
+- i) a horgász regisztráció, a halászati engedély, állami horgászokmány igénylése és kiváltása során valótlan adatot szolgáltató, illetve a horgászokmány kiváltására nem jogosult személy részére okmányt értékesítő;
+- j)
 - k) a hal élőhelyén kialakult természeti egyensúly megbontására alkalmas szervezetet, táplálékanyagot, szennyezőanyagot halgazdálkodási vízterületre kijuttató;
 - l) méret- vagy mennyiségi korlátozással, vagy tilalmi idővel védett hal vagy más hasznos víziállat jogosulatlan kifogását megvalósító;
 - m) a nem nyilvántartott halgazdálkodási vízterületen őshonos hal kifogását megvalósító;
@@ -1291,7 +1408,7 @@ személlyel szemben.
 
 (4) A halgazdálkodási hatóság halvédelmi bírságot szab ki az igazolatlan eredetű, nem nyomon követhető halat, halterméket vagy más hasznos víziállatot forgalmazó természetes vagy jogi személlyel szemben.
 
-(5) A halgazdálkodási hatóság halvédelmi bírságot szab ki a 38. § (2) bekezdése alapján kiadott halászati engedély 38. § (3) bekezdésében meghatározott rendelkezését megsértő természetes személlyel vagy jogi személlyel szemben.
+(5) A halgazdálkodási hatóság halvédelmi bírságot szab ki a 38. § (2) bekezdése alapján kiadott halászati engedély 38. § (8) bekezdésében meghatározott rendelkezését megsértő természetes személlyel vagy jogi személlyel szemben.
 
 (6) A halgazdálkodási hatóság az általa kiszabott halvédelmi bírság fizetési kötelezettségének teljesítése érdekében a halvédelmi bírság megfizetésére kötelezett részére fizetési halasztást vagy részletekben történő teljesítést (a továbbiakban együtt: fizetési könnyítés) engedélyezhet, amennyiben a kötelezett a teljesítési határidő lejárta előtt fizetési könnyítést kérelmez, továbbá a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
 
@@ -1339,17 +1456,21 @@ veszi figyelembe.
 
 69/B. § A halgazdálkodási vagy halvédelmi bírságot kiszabó határozatot megtámadó keresetlevélnek halasztó hatálya van.
 
-70. § (1)
+70. § (1) A halgazdálkodási hatóság figyelmeztetésben részesíti az eljárás alá vont személyt, ha
 
-(2) A halgazdálkodási hatóság figyelmeztetésben részesíti az eljárás alá vont személyt, ha
+- a) a nyilvántartott halgazdálkodási vízterületen horgászokmányok nélkül horgászott, vagy rekreációs célból halászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat vagy halászat időpontjában érvényes horgászokmányait, továbbá a személyazonosság igazolására alkalmas hatósági igazolványát, és amennyiben az ellenőrzés időpontjáig a fogási naplóban rögzítendő, de nem rögzített halat nem tartotta meg,
+- b) halászati engedély nélkül bemutatási vagy ökológiai célból halászott vagy más hasznos víziállatot forgalmazási célból gyűjtött, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a halászat vagy a gyűjtés időpontjában érvényes halászati okmányait, valamint a személyazonosság igazolására alkalmas hatósági igazolványát, és amennyiben az ellenőrzés időpontjáig a fogási naplóban rögzítendő, de nem rögzített halat, illetve a más hasznos víziállatot nem tartotta meg,
+- c) a nem nyilvántartott halgazdálkodási vízterületen vagy haltermelési létesítményen horgászokmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes horgászokmányait, valamint a személyazonosság igazolására alkalmas hatósági igazolványát, amennyiben az ellenőrzés időpontjáig az előírás ellenére a fogási naplóban nem rögzített halat nem tartotta meg,
+- d) a horgászat megkezdésének a fogási napló naptárában való megjelölését első alkalommal mulasztja el.
 
-- a) a nyilvántartott halgazdálkodási vízterületen halfogásra jogosító okmányok nélkül horgászott, vagy rekreációs célból halászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat vagy halászat időpontjában érvényes állami horgászjegyét, turista állami horgászjegyét vagy állami halászjegyét, valamint fogási naplóját és területi jegyét, továbbá a személyazonosság igazolására szolgáló arcképes igazolványát, és amennyiben az ellenőrzés időpontjáig a fogási naplóban rögzítendő, de nem rögzített halat nem tartotta meg,
-- b) halfogásra jogosító okmányok nélkül bemutatási vagy ökológiai célból halászott vagy más hasznos víziállatot forgalmazási célból gyűjtött, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a halászat vagy a gyűjtés időpontjában érvényes halászati engedélyét, fogási naplóját, valamint a személyazonosság igazolására szolgáló arcképes igazolványát, és amennyiben az ellenőrzés időpontjáig a fogási naplóban rögzítendő, de nem rögzített halat, illetve a más hasznos víziállatot nem tartotta meg,
-- c) a nem nyilvántartott halgazdálkodási vízterületen halfogásra jogosító okmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes állami horgászjegyét és fogási naplóját, valamint a személyazonosság igazolására szolgáló arcképes igazolványát, amennyiben az ellenőrzés időpontjáig az előírás ellenére a fogási naplóban nem rögzített halat nem tartotta meg, vagy
-- d) a horgászat megkezdésének a fogási napló naptárában való megjelölését első alkalommal mulasztja el,
-- e) a haltermelési létesítményen halfogásra jogosító okmányok nélkül horgászott, de a halgazdálkodási hatóság által előírt határidőn belül bemutatja a horgászat időpontjában érvényes állami horgászjegyét vagy turista állami horgászjegyét, továbbá a személyazonosság igazolására szolgáló arcképes igazolványát.
+(2) A halgazdálkodási hatóság nem alkalmaz figyelmeztetést
 
-(3) A halgazdálkodási hatóság nem alkalmazhat figyelmeztetést a 66. § (1) bekezdés b)–d), f) és g) pontjában, 66. § (2) bekezdésében, valamint a 67. § (1) bekezdés a)–f), i), l), m), o), q), s) és u) pontja esetében.
+- a) a 66. § (1) bekezdés b)–d), f) és g) pontja,
+- b) a 66. § (2) bekezdése,
+- c) a 67. § (1) bekezdés a)–f), i), l), m), o), q), s) és u) pontja, valamint
+- d) a 67. § (1) bekezdés r) pontja szerinti esetek közül a helyi horgászrend engedélyezett halelviteli lehetőséget meghatározó előírásának megsértése
+
+esetében.
 
 #### 21/A.
 
@@ -1448,6 +1569,10 @@ veszi figyelembe.
 (8)
 
 (9) Azon nyilvántartott halgazdálkodási vízterület esetében, melyen a haszonbérleti szerződés 2015. december 31-ig megszűnik és az államot megillető halgazdálkodási jog kijelöléssel történő haszonbérbe adása, vagy vagyonkezelési szerződés útján történő átengedése nem valósul meg, – amennyiben a haszonbérlő legkésőbb 2015. december 31-ig nem kezdeményezi a haszonbérleti szerződés megszüntetését, illetve a halgazdálkodási jog gyakorlásáról nem mond le – a haszonbérleti szerződés időtartamának meghosszabbított hatálya 2016. december 31. A meghosszabbítás időtartamára vonatkozóan a haszonbérlő halgazdálkodási terv készítésére kötelezett.
+
+(10) Az állami horgászvizsga letételének igazolására 2024. január 1-jét követően a horgászszövetségi szakrendszerben regisztrálók esetében a 2019. január 1-jét követően kiállított horgászvizsga bizonyítvány fogadható el.
+
+(11) Az állami horgászjegy és horgász fogási napló kiváltásához korábbi érvényes horgászjegy bemutatásakor 2024. január 1-jét követően a horgászszövetségi szakrendszerben 2019. január 1-jét követően rögzített horgászjegy fogadható el.
 
 #### 25. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

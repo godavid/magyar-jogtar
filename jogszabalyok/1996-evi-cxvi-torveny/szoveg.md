@@ -575,7 +575,7 @@ távolságon belüli terület.
 
 (5) Az atomenergia-felügyeleti szerv legalább 15 nappal a közmeghallgatás előtt a közmeghallgatás helyéről, időpontjáról és az eljárás tárgyáról
 
-- a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján és hirdetőtábláján, valamint a központi ügyintézési portálon,
+- a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján, valamint a központi ügyintézési portálon,
 - b) értesíti az eljárásban közreműködő szakhatóságot.
 
 (6) A közmeghallgatáson elhangzottakról készült feljegyzés az Ákr.-ben meghatározottakon kívül
@@ -587,7 +587,14 @@ tartalmazza.
 
 (7) Ha az atomenergia-felügyeleti szerv a közmeghallgatást az Ákr. alapján hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, vagy a kép- és hangfelvételről a (6) bekezdésnek megfelelő tartalmú feljegyzést készít, azt elektronikus úton közzéteszi. Ha az atomenergia-felügyeleti szerv a hangfelvételt írásos feljegyzésben dokumentálja, a dokumentumot elektronikus úton közzéteszi.
 
-(8) A közmeghallgatás lebonyolítása során biztosítani kell, hogy a megjelentek egyenlő feltételek mellett kérdezhessenek, nyilváníthassanak véleményt.
+(8) A közmeghallgatás lebonyolítása során – a (9) bekezdés b) pontjában meghatározott kivétellel – biztosítani kell, hogy a megjelentek egyenlő feltételek mellett kérdezhessenek, nyilváníthassanak véleményt.
+
+(9) A közmeghallgatás az érintettek személyes megjelenése nélkül,
+
+- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
+- b) honlapon való közzététel útján
+
+is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. Az atomenergia-felügyeleti szerv a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
 
 11/B. § (1) Az atomenergia-felügyeleti szerv eljárásában közreműködő szakhatóságok megnevezését, a bevonás esetköreit, a vizsgálandó szakkérdést és az eljárás tárgyát – az (1a) bekezdésben foglaltak kivételével – a 2. melléklet határozza meg.
 

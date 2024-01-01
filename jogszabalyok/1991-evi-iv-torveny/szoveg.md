@@ -12,7 +12,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 (2) A menekültként, oltalmazottként elismert, továbbá a bevándorolt vagy letelepedett jogállású, valamint a szabad mozgás és tartózkodás jogával rendelkező személyeket az e törvény és végrehajtási szabályai által tartalmazott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg és terhelik. Törvény, valamint kormányrendelet e szabálytól a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy) tekintetében eltérő szabályokat állapíthat meg.
 
-(3) Azt a harmadik országból származó munkavállalót, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedéllyel rendelkezik és Magyarországon legalább hat hónapig munkaviszonyban állt, az álláskeresőként való nyilvántartásba vétel, valamint az álláskeresők ellátása tekintetében az e törvény és végrehajtási szabályai által meghatározott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg.
+(3) Azt a harmadik országból származó munkavállalót, aki a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedéllyel rendelkezik és Magyarországon legalább hat hónapig munkaviszonyban állt, az álláskeresőként való nyilvántartásba vétel, valamint az álláskeresők ellátása tekintetében az e törvény és végrehajtási szabályai által meghatározott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg.
 
 3. § (1) A törvényben meghatározott célok megvalósulását állami foglalkoztatási szerv segíti elő.
 
@@ -48,9 +48,9 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 (6) Az állami foglalkoztatási szerv e törvény végrehajtására kiadott kormányrendeletben meghatározott jogszabálysértés esetén a magán-munkaközvetítőt a tevékenység végzésétől a döntés véglegessé válásától számított három év időtartamra eltilthatja.
 
-7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) Magyarország területén – a 2. § (2) bekezdésében, valamint a (3) bekezdésben meghatározott kivétellel –
+7. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) Magyarország területén – a 2. § (2) bekezdésében, valamint a (3) bekezdésben meghatározott kivétellel –
 
-- a) az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedély, vagy
+- a) az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedély, vagy
 - b) a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához kiadott munkavállalási engedély alapján létesíthet foglalkoztatásra irányuló jogviszonyt.
 
 (1a) Az (1) bekezdésben meghatározott személy magyarországi foglalkoztatása tekintetében a Kormány rendeletben az Mt. 214. § (1) bekezdés f) pontja szerinti minősített kölcsönbeadónál történő foglalkoztatás esetére is megállapíthat munkavállalási engedély alóli mentességet.
@@ -71,11 +71,7 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Kormány, hogy a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatása tekintetében nemzetközi szerződésben vagy európai közösségi jogi aktusban foglaltak szerint a 2. § (2) bekezdésében meghatározott egyenlő bánásmód követelményétől eltérő szabályokat állapítson meg.
 
-(6) Felhatalmazást kap a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter, hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben – rendeletben határozza meg
-
-- a) a foglalkoztatáspolitikáért felelős miniszterrel (a továbbiakban: miniszter) egyetértésben a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok – ideértve az (1) bekezdésben meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – legmagasabb számát,
-- b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár – ideértve az (1) bekezdés a) pontjában meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – nem foglalkoztatható, valamint
-- c) az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
+(6) Felhatalmazást kap a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter, hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben, a szociális partnerekkel folytatott konzultációt követően – rendeletben határozza meg az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
 
 (7) A foglalkoztató és a harmadik országbeli munkavállaló az (1) bekezdés a) pontjában meghatározott engedély alapján történő munkavállalás céljából – a (8a) bekezdésben foglaltak kivételével – előzetes megállapodást köt foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás – a (7a) bekezdésben foglalt kivétellel – legfeljebb kétéves, határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat. A megállapodás kötelező érvényű állásajánlatnak minősül. Ha az engedély kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően, valamint az (1) bekezdés a) pontjában meghatározott engedély időtartamának megfelelő időtartammal kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
 
@@ -83,10 +79,16 @@ rendeletben állapítsa meg.
 
 - a) családi együttélés biztosítása céljából kiadott tartózkodási engedély esetén legfeljebb öt év,
 - b) EU Kék Kártya iránt benyújtott kérelem esetén legfeljebb négyéves,
-- c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 29. § (1) bekezdés a) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hároméves,
-- d) a Harmtv. 29. § (1) bekezdés e)–f) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hat hónapos,
-- e) a Harmtv. 29. § (1a) bekezdése szerinti humanitárius tartózkodási engedély esetén legfeljebb egyéves,
-- f) az 58. § (7) bekezdésében meghatározott szezonális munka esetében tizenkét hónapon belül legfeljebb hat hónapos határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat.
+- c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 70. § (1) bekezdés a) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hároméves,
+- d) a Btátv. 70. § (1) bekezdés e) és f) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hat hónapos,
+- e) az 58. § (7) bekezdésében meghatározott szezonális munka esetében tizenkét hónapon belül legfeljebb hat hónapos,
+- f) a Btátv. 24. § (1) bekezdése szerinti beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély esetén legfeljebb hároméves,
+- g) a Btátv. szerinti Nemzeti Kártya meghosszabbítása esetén legfeljebb hároméves,
+- h) a Btátv. 36. § (3) bekezdés a) pontja szerinti célból kiállított Magyar Kártya esetén legfeljebb hároméves,
+- i) a Btátv. 67. § (2) bekezdés szerinti nemzeti érdekből kiállított tartózkodási engedély esetén legfeljebb hároméves,
+- j) a Btátv. 48. § (2) bekezdés b) vagy c) pontja szerinti Vállalati Kártya esetén legfeljebb négyéves
+
+határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat.
 
 (8) A (7) bekezdés szerinti előzetes megállapodásnak tartalmaznia kell
 
@@ -100,14 +102,15 @@ rendeletben állapítsa meg.
 
 (8a) A foglalkoztató és a harmadik országbeli állampolgár nem köt előzetes megállapodást, ha harmadik országbeli állampolgár magyarországi foglalkoztatására
 
-- a) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott vállalaton belüli áthelyezés, vagy
+- a) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott vállalaton belüli áthelyezés, vagy
 - b) belföldi foglalkoztatóval kötött megállapodás teljesítése érdekében külföldi munkáltatóval fennálló munkaviszonya
+- c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott vendégbefektetői tartózkodási engedély
 
 alapján kerül sor.
 
 (9) A felek a (8) bekezdés c) pontja szerinti díjazás mértékétől kizárólag a harmadik országbeli állampolgár javára térhetnek el.
 
-(10) A foglalkoztató és a harmadik országbeli állampolgár munkavállaló – ha az ugyanazon foglalkoztatóval korábban létesített foglalkoztatásra irányuló jogviszony feltételei (munkakör, munkavégzés helye) az (1) bekezdés b) pontjában meghatározott, korábban kiadott engedélyben foglaltakhoz képest nem változtak, előzetes megállapodás és az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott ideiglenes tartózkodásra jogosító igazolás birtokában megállapodhat a harmadik országbeli állampolgárnak az (1) bekezdés b) pontjában meghatározott engedély lejártát követő, az (1) bekezdés a) pontja szerinti tartózkodási engedély kiadására irányuló, összevont kérelmezési eljárás idejére szóló továbbfoglalkoztatásában.
+(10) A foglalkoztató és a harmadik országbeli állampolgár munkavállaló – ha az ugyanazon foglalkoztatóval korábban létesített foglalkoztatásra irányuló jogviszony feltételei (munkakör, munkavégzés helye) az (1) bekezdés b) pontjában meghatározott, korábban kiadott engedélyben foglaltakhoz képest nem változtak, előzetes megállapodás és az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott ideiglenes tartózkodásra jogosító igazolás birtokában megállapodhat a harmadik országbeli állampolgárnak az (1) bekezdés b) pontjában meghatározott engedély lejártát követő, az (1) bekezdés a) pontja szerinti tartózkodási engedély kiadására irányuló, összevont kérelmezési eljárás idejére szóló továbbfoglalkoztatásában.
 
 8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, valamint ezek finanszírozásának módját.
 
@@ -389,25 +392,33 @@ időtartamával.
 
 (3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább huszonegy nappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
 
-36/A. § (1) A munkaadó az álláskeresési járadékra, valamint az álláskeresési segélyre való jogosultság, továbbá ezen ellátások összegének megállapításához szükséges adatok nyilvántartásához – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszűnése, vagy megszüntetése esetén köteles két példányban az álláskeresési járadék és álláskeresési segély megállapításához szükséges igazolólapot (a továbbiakban: álláskeresési igazolólap) kiállítani.
+### Foglalkoztatási igazolás
 
-(2) Az álláskeresési igazolólap egy példányát a munkaadó az utolsó munkában töltött napon átadja a munkavállalónak, a másik példányát pedig – a munkavállaló részére az álláskeresési járadék és álláskeresési segély megállapíthatósága érdekében – öt évig megőrzi.
+36/A. § (1) A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszüntetésekor vagy megszűnésekor foglalkoztatási igazolást állít ki.
 
-(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállása alatt álláskeresési járadék iránt kérelmet nyújt be, a munkaadót ennek tényéről tájékoztatja. A munkaadó a nevelőszülő tájékoztatását követő öt napon belül a nevelőszülői foglalkoztatási jogviszonyról két példányban álláskeresési igazolólapot állít ki, és annak egy példányát a nevelőszülőnek átadja. Az álláskeresési igazolólapot az álláskeresési járadék iránti kérelem benyújtását megelőző hónap utolsó napjáig terjedő időszakra kell kiállítani. A munkaadó az álláskeresési igazolólap másik példányát a nevelőszülői foglalkoztatási jogviszony megszűnését követő öt évig megőrzi.
+(2) A foglalkoztatási igazolás tartalmazza
 
-(4) Az (1) bekezdés szerinti álláskeresési igazolólap tartalmazza:
+- 1. a munkaadó adatait: nevét, székhelyét, adószámát és a gazdasági tevékenységek egységes ágazati osztályozási rendszer számát, jogállásváltás esetén a jogelőd munkáltató adatait: nevét, címét, adószámát, a munkavállaló által munkaviszonyban töltött idő időtartamát, a munkavállaló foglalkoztatási jogviszonyának megjelölését,
+- 2. a munkavállaló természetes személyazonosító adatait, társadalombiztosítási azonosító jelét (a továbbiakban: TAJ szám) és adóazonosító jelét,
+- 3. a munkavállaló munkaviszonyának típusát,
+- 4. a munkavállaló munkakörének megnevezését,
+- 5. a munkaviszony kezdetét és végét, a munkaadónál munkaviszonyban töltött időtartamot,
+  - a) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napját, az időszak kezdetét,
+  - b) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napjától számított négy naptári negyedévben elért társadalombiztosítási járulékalap összegét forintban meghatározva, valamint azon hónapoknak a számát, amelyekben a munkavállalónak volt járulékalapja,
+- 6. a munkavállalónak a munkaviszony megszűnésekor, megszüntetésekor irányadó munkabérét, egyéb járandóságát, távolléti díját,
+- 7. a munkavállalót megillető végkielégítés összegét, ha arra jogosult volt,
+- 8. a munkabérből határozat vagy jogszabály alapján levonandó tartozást és ennek jogosultját, vagy azt, hogy a munkavállalónak nincsen tartozása,
+- 9. a munkaviszony megszüntetésének vagy megszűnésének jogcímét,
+- 10. a munkaadó által a munkavállaló részére kiadott apasági szabadság vagy szülői szabadság tartamát, feltüntetve a korábbi munkaadó által kiadott apasági szabadság vagy szülői szabadság tartamát is,
+- 11. a tárgyévben fennállt biztosítási idő kezdetének és végének időpontját, a tárgyévre, illetve a tárgyévtől eltérő időre levont járulékok összegét, valamint az egyes járulékokból érvényesített családi járulékkedvezmény összegét,
+- 12. a munkaadó által az adóévben kifizetett jövedelem és a levont adóelőlegek összegét,
+- 13. társadalombiztosítási kifizetőhellyel rendelkező munkaadó esetén a biztosítási jogviszony megszüntetésekor a biztosítási jogviszony megszűnését közvetlenül megelőző két éven belül folyósított táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj és gyermekgondozási díj időtartamát.
 
-- a) a munkaadó adatait: nevét, címét, adószámát és a tevékenységek egységes ágazati osztályozási rendszer számát,
-- b) a munkavállaló adatait: nevét, születési nevét, anyja nevét, születési helyét és idejét, a Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ szám), lakóhelyét, tartózkodási helyét,
-- c) a munkavállalónak az 58. § (5) bekezdés a) pontja szerinti munkaviszonyára vonatkozó adatait:
-  - ca) munkakört FEOR szerinti besorolásban,
-  - cb) munkaviszony kezdetét és végét,
-  - cc) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napját, az időszak kezdetét,
-  - cd) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napjától számított négy naptári negyedévben elért társadalombiztosítási járulékalap összegét forintban meghatározva, valamint azon hónapoknak a számát, amelyekben a munkavállalónak volt járulékalapja, az érintett hónapok számát,
-  - ce) a munkaviszony fennállása alatt az utolsó, legalább hat hónapig betöltött munkakört FEOR szerinti besorolásban,
-  - cf) a munkaviszony időtartama alatt igénybe vett 30 napot meghaladó mértékű fizetés nélküli szabadság(ok) időtartamát,
-  - cg) a jogviszony 58. § (6) bekezdés a) vagy b) pontja szerinti megszűnését, megszüntetését,
-  - ch) a munkaviszonyként felsorolt jogviszonyokra a megszűnésekor, megszüntetésekor irányadó, szerződésben megállapított alapbért, illetményt vagy díjazás összegét.
+(3) Jogszabály a munkaviszony megszüntetése vagy megszűnése esetén a foglalkoztatási igazolás tekintetében a (2) bekezdésben megjelölteken felül további adattartalmat is megállapíthat.
+
+(4) A foglalkoztatási igazolást a munkaadó felmondás esetén az utolsó munkában töltött napot, egyéb esetben a munkaviszony megszűnését követő öt munkanapon belül kiadja a munkavállaló részére. A foglalkoztatási igazolás kiadását a munkavállaló papír alapon is kérheti a munkaadótól.
+
+(5) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállása alatt álláskeresési járadék iránt kérelmet nyújt be, a munkaadót ennek tényéről tájékoztatja. A munkaadó a nevelőszülő tájékoztatását követő öt napon belül a nevelőszülői foglalkoztatási jogviszonyról foglalkoztatási igazolást állít ki, és annak egy példányát a nevelőszülőnek átadja. A foglalkoztatási igazolást az álláskeresési járadék iránti kérelem benyújtását megelőző hónap utolsó napjáig terjedő időszakra kell kiállítani. A munkaadó a foglalkoztatási igazolás másik példányát a nevelőszülői foglalkoztatási jogviszony megszűnését követő öt évig megőrzi.
 
 36/B. § (1) Az állami adó- és vámhatóság az ellátásra való jogosultság igazolása céljából kérelemre igazolást ad ki az egyéni és társas vállalkozó, valamint a Tbj. 87. §-a szerinti járulékfizetés esetén a külföldi vállalkozás által foglalkoztatott természetes személy részére a társadalombiztosítási járulék alapjáról és a járulék befizetéséről, megjelölve a járulékfizetési kötelezettség alól mentes időszakokat is.
 
@@ -498,7 +509,7 @@ időtartamával.
 
 (13) A (12) bekezdés b) pontjában meghatározott előirányzatból elszámolhatók az 57/D. §-ban meghatározott adatbázishoz és az előfinanszírozással megvalósuló programokban a résztvevők nyilvántartásához, valamint a programokban nyújtott támogatások felhasználásának nyomon követéséhez szükséges informatikai költségek, továbbá a programok megvalósítását szolgáló módszertani fejlesztés költségei.
 
-39/A. § (1) Az Alapért a miniszter felelős. A miniszter e felelőssége keretében – a képzési alaprész és a közfoglalkoztatás támogatására fordítható költségvetési kiadási előirányzat felhasználása kivételével – rendelkezik az Alappal.
+39/A. § (1) Az Alapért a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) felelős. A miniszter e felelőssége keretében – a képzési alaprész és a közfoglalkoztatás támogatására fordítható költségvetési kiadási előirányzat felhasználása kivételével – rendelkezik az Alappal.
 
 (2) A képzési alaprész felhasználásáért a szakképzésért felelős miniszter a szakképzésről szóló törvényben meghatározottak szerint felelős.
 
@@ -1124,12 +1135,12 @@ tekinthet be.
 
 (5) E törvény alkalmazásában
 
-- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, állami szolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony, szakképzési munkaszerződéssel keletkezett jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi szolgálati, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói és az – 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,
+- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, állami szolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, köznevelési foglalkoztatotti jogviszony, egészségügyi szolgálati jogviszony, szakképzési munkaszerződéssel keletkezett jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi szolgálati, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói és az – 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező szervezet, valamint természetes személy, aki munkavállalót foglalkoztat, illetve foglalkoztatni kíván,
 - d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony kivételével munkaviszonyban nem áll, és egyéb keresőtevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
 - e) kereső tevékenység: – az 1–6. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A a családi gazdaságokról szóló törvényben meghatározott mezőgazdasági őstermelőként folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. Nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülő e törvény alkalmazása szempontjából nem tekinthető keresőtevékenységet folytató személynek, ha nevelőszülői jogviszonya mellett más keresőtevékenységet nem végez. 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés akkor minősül keresőtevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja havonta a minimálbér összegét. 6. Nem kell kereső tevékenységet folytató személynek tekinteni az s) pont szerint egyéni vállalkozónak minősülő személyt arra az időtartamra, amely alatt tevékenységét a jogszabályban meghatározott módon szünetelteti.
-- f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
+- f) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel vagy jogszabály szerinti, meghatározott idejű releváns magas szintű szakmai képzettséggel,
 - g) kötelező legkisebb munkabér, garantált bérminimum: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 - h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár,
 - i) öregségi nyugdíjra jogosult személy: aki
@@ -1151,7 +1162,7 @@ tekinthet be.
 - t) társas vállalkozó: a Tbj. 6. § (1) bekezdés e) pontja szerint biztosított, a Tbj. 4. § 21. pontjában meghatározott személy,
 - u) havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, társadalombiztosítási járulék alapját képező jövedelem napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa. A 180 naptári napi jövedelmet legfeljebb a kérelem benyújtásának napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni.
 - v)
-- v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
+- v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 - w) kedvezményezett: az a támogatást igénylő, aki az ESZA-ból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
 - x) aktív munkahelykereső: az az álláskereső, aki 30 napon belül képes és kész munkába állni az állami foglalkoztatási szerv által felajánlott megfelelő munkahelyen, vagy az önmaga által talált olyan munkahelyen, ahol a heti munkaidő eléri vagy meghaladja a 16 órát,
 - y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa,
@@ -1161,8 +1172,8 @@ tekinthet be.
 (6) E törvény alkalmazásában
 
 - a) a munkavállaló felmondásán a köztisztviselő, a kormánytisztviselő, az állami tisztviselő, a közalkalmazott lemondását, rendvédelmi igazgatási alkalmazott lemondását, azonnali hatályú lemondását, az adó- és vámhatósági szolgálati jogviszonyban foglalkoztatott lemondását, honvédelmi alkalmazott lemondását, rendkívüli lemondását, a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú tagjának lemondását vagy egyoldalú szerződésbontását, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szervek hivatásos állománya tagjának lemondását, azonnali hatályú lemondását, az egészségügyi szolgálati jogviszonyban foglalkoztatott felmondását, azonnali hatályú felmondását,
-- b) a munkaviszonynak a munkáltató részéről azonnali hatályú felmondással történő megszüntetésén a közszolgálati és a kormányzati szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony hivatalvesztéssel, az adó- és vámhatósági szolgálati jogviszony hivatalvesztés fegyelmi büntetéssel történő megszüntetését, a honvédelmi alkalmazotti jogviszony rendkívüli felmentéssel történő megszüntetésével, az állami szolgálati jogviszony az állami tisztviselőkről szóló 2016. évi LII. törvény 9. § (2) bekezdésében foglalt azonnali hatállyal történő megszüntetéssel, a közalkalmazotti jogviszony elbocsátással, a hivatásos és szerződéses állományú katonák szolgálati viszonyának szolgálati viszony megszüntetése vagy lefokozás fenyítés kiszabásával, büntetőeljárás keretében szolgálati jogviszony megszüntetéssel vagy lefokozással, a szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, valamint az állomány tagjának a szolgálatra méltatlanná válásával kapcsolatos felmentésével, valamint a rendvédelmi feladatokat ellátó szervvel fennálló hivatásos szolgálati jogviszonynak a Hszt. 80. § (1) bekezdés f) vagy g) pontjában, 86. § (2) bekezdés b) vagy d) pontjában vagy 288/F. § (2) bekezdés b) pontjában meghatározott okból történő felmentésével történő megszüntetését, az egészségügyi szolgálati jogviszonyban a foglalkoztató azonnali hatályú felmondását,
-- c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati, a kormányzati szolgálati és az állami szolgálati, a közalkalmazotti jogviszonynak, a rendvédelmi igazgatási szolgálati jogviszonynak, a rendvédelmi feladatokat ellátó szervvel fennálló hivatásos szolgálati jogviszonynak, az adó- és vámhatósági szolgálati jogviszonynak, a honvédelmi alkalmazotti jogviszonynak, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonyának felmentéssel, az egészségügyi szolgálati jogviszony foglalkoztató általi felmondással történő megszüntetését
+- b) a munkaviszonynak a munkáltató részéről azonnali hatályú felmondással történő megszüntetésén a közszolgálati és a kormányzati szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony hivatalvesztéssel, az adó- és vámhatósági szolgálati jogviszony hivatalvesztés fegyelmi büntetéssel történő megszüntetését, a honvédelmi alkalmazotti jogviszony rendkívüli felmentéssel történő megszüntetésével, az állami szolgálati jogviszony az állami tisztviselőkről szóló 2016. évi LII. törvény 9. § (2) bekezdésében foglalt azonnali hatállyal történő megszüntetéssel, a közalkalmazotti jogviszony elbocsátással, köznevelési foglalkoztatotti jogviszony elbocsátással vagy azonnali hatályú felmentéssel, a hivatásos és szerződéses állományú katonák szolgálati viszonyának szolgálati viszony megszüntetése vagy lefokozás fenyítés kiszabásával, büntetőeljárás keretében szolgálati jogviszony megszüntetéssel vagy lefokozással, a szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, valamint az állomány tagjának a szolgálatra méltatlanná válásával kapcsolatos felmentésével, valamint a rendvédelmi feladatokat ellátó szervvel fennálló hivatásos szolgálati jogviszonynak a Hszt. 80. § (1) bekezdés f) vagy g) pontjában, 86. § (2) bekezdés b) vagy d) pontjában vagy 288/F. § (2) bekezdés b) pontjában meghatározott okból történő felmentésével történő megszüntetését, az egészségügyi szolgálati jogviszonyban a foglalkoztató azonnali hatályú felmondását,
+- c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati, a kormányzati szolgálati és az állami szolgálati, a közalkalmazotti jogviszonynak, köznevelési foglalkoztatotti jogviszonynak, a rendvédelmi igazgatási szolgálati jogviszonynak, a rendvédelmi feladatokat ellátó szervvel fennálló hivatásos szolgálati jogviszonynak, az adó- és vámhatósági szolgálati jogviszonynak, a honvédelmi alkalmazotti jogviszonynak, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonyának felmentéssel, az egészségügyi szolgálati jogviszony foglalkoztató általi felmondással történő megszüntetését
 
 is érteni kell.
 
@@ -1171,7 +1182,7 @@ is érteni kell.
 (8) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
 - a) – az államháztartásért felelős miniszterrel egyetértésben – az álláskeresési járadék összege kiszámításának, ennek keretében a 26. § (1) bekezdésében meghatározott járulékalap havi átlagos összege meghatározásának, valamint az álláskeresési járadék és álláskeresési segély folyósításának
-- b)
+- b) a foglalkoztatási igazolás, mint elektronikus űrlap megjelenési formáját,
 - c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 - d)
 - e) az e törvényben meghatározott nyilvántartások vezetésének
@@ -1238,9 +1249,9 @@ is érteni kell.
 
 59/F. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi LIV. törvénnyel megállapított 27. § (5a) bekezdését a 2017. július 1-jén vagy azt követően álláskeresővé vált személyek vonatkozásában kell alkalmazni azzal, hogy esetükben a 2017. július 1-jét megelőzően önkéntes tartalékosként teljesített, tényleges katonai szolgálat jogosultsági időnek minősül.
 
-59/G. § (1) Az álláskeresési igazolólapnak azon adatai, amelyeket az 1992. július 1-jéig hatályban volt jogszabály alapján kiállított munkakönyv tartalmaz, ez utóbbival is igazolhatók.
+59/G. § (1) A foglalkoztatási igazolásnak azon adatai, amelyeket az 1992. július 1-jéig hatályban volt jogszabály alapján kiállított munkakönyv tartalmaz, ez utóbbival is igazolhatók.
 
-(2) Az álláskeresési igazolólap kitöltése során a munkaviszony megszűnésének időpontjában hatályos szabályokat kell alkalmazni.
+(2) A foglalkoztatási igazolás kitöltése során a munkaviszony megszűnésének időpontjában hatályos szabályokat kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -10,7 +10,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 1. § (1) A magyar hatósági rendszámtáblával ellátott gépjármű, pótkocsi, valamint Magyarország területén közlekedő, külföldön nyilvántartott tehergépjármű (a továbbiakban együtt: gépjármű) után gépjárműadót, míg a nem kizárólag magánhasználatú személygépkocsi után – a gépjárműadó fizetési kötelezettségtől függetlenül – a IV. fejezet szerinti adót (cégautóadó) kell fizetni.
 
-(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, az OT és Z betűjelű rendszámtáblával ellátott gépjárműre, a kiviteli célú gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
+(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, az OT betűjelű rendszámtáblával ellátott gépjárműre, a kiviteli célú gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
 
 #### II.
 
@@ -57,15 +57,19 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 5. § Mentes az adó alól:
 
 - a) a költségvetési szerv,
-- b) a egyesület, az alapítvány a tulajdonában lévő gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
+- b) az egyesület, az alapítvány, a köztestület a tulajdonában álló gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
 - c) az autóbusz, ha az adóalany a tárgyévet megelőző évben elért számviteli törvény szerinti nettó árbevételének legalább 75%-a helyi és helyközi menetrendszerinti közúti tömegközlekedés folytatásából származott. A feltétel teljesüléséről az adóalanynak nyilatkoznia kell,
 - d) az egyházi jogi személy tulajdonában lévő gépjármű,
 - e) a létesítményi tűzoltóságot fenntartó gazdasági szervezetek azon tűzoltó szerkocsinak minősülő gépjárművei, melyek riasztás esetén részt vesznek a tűz elleni védekezésben, illetve a műszaki mentésben,
 - f) a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő adóalany, valamint a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő személyt rendszeresen szállító, vele közös háztartásban élő közeli hozzátartozó adóalany (a továbbiakban együtt: mentességre jogosult adóalany) egy darab – 100 kW teljesítményt meg nem haladó, nem a külön jogszabály szerinti személytaxi-szolgáltatásra és személygépkocsis személyszállító szolgáltatásra használt – személygépkocsija után legfeljebb 13 000 forint/adóév erejéig. Ha a mentességre jogosult adóalany adóalanyisága és adókötelezettsége az adóévben több személygépkocsi után is fenn áll, akkor a mentesség kizárólag egy, a legkisebb teljesítményű személygépkocsi után jár,
 - g) a környezetkímélő gépkocsi,
-- h)–i)
-- j) az a gépjármű, amelynek adómentességét nemzetközi egyezmény vagy viszonosság biztosítja. A viszonosság tekintetében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
-- k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, továbbá az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek tulajdonában lévő gépjármű.
+- h) az egyesület, az alapítvány, a köztestület az a) vagy b) pont szerinti szervezet tulajdonában álló gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
+
+i)
+
+j) az a gépjármű, amelynek adómentességét nemzetközi egyezmény vagy viszonosság biztosítja. A viszonosság tekintetében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
+
+k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, továbbá az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek tulajdonában lévő gépjármű.
 
 ### Az adó alapja
 
@@ -165,7 +169,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (8) A (3) és (4) bekezdés szerinti adómentesség csak azon tehergépjármű után jár, amely a kombinált szállítási útvonal vasúti vagy/és vízi szakaszát is igénybe vette.
 
-14. §
+#### 14. §
 
 ### A fizetendő adótétel és a megfizetés módja
 
@@ -181,7 +185,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (5) Az adót az állami adó- és vámhatóság külföldi gépjárműadó számlája javára kell megfizetni.
 
-16. §
+#### 16. §
 
 ### Az adó megfizetésének ellenőrzése
 
@@ -253,7 +257,9 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 17/F. § A negyedévre fizetendő adóból levonható a személygépkocsi után az adóalany terhére megállapított gépjárműadó. Levonásra a negyedév azon hónapjaira jutó gépjárműadó esetén van lehetőség, amelyben a személygépkocsi utáni cégautóadó- és gépjárműadó-kötelezettség egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó fizetési kötelezettségének határidőben eleget tett.
 
-### Az adó megállapítása, bevallása, megfizetése, az eljáró hatóság
+### Az adó megállapítása, bevallása, megfizetése,
+
+az eljáró hatóság
 
 17/G. § (1) Az adót az adó alanya önadózással állapítja meg.
 
@@ -345,7 +351,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
-21. §
+#### 21. §
 
 ### 1. melléklet az 1991. évi LXXXII. törvényhez
 

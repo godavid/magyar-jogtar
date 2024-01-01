@@ -90,11 +90,11 @@ közös eljárási szabályai
 
 (2) Bizonyítványa vagy oklevele elismertetésére vagy honosíttatására az jogosult, aki kérelme benyújtásakor állampolgárságát, személyes adatait az állampolgárság és a személyi adat igazolására szolgáló hatósági igazolvánnyal igazolja.
 
-(3) A 28. § (1) bekezdése szerinti tagállam állampolgárának nem minősülő, valamint a 28. § (2) bekezdése hatálya alá nem tartozó, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést –, ha a (2) bekezdésben foglaltak teljesítésén túlmenően keresőtevékenység folytatása vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
+(3) A 28. § (1) bekezdése szerinti tagállam állampolgárának nem minősülő, valamint a 28. § (2) bekezdése hatálya alá nem tartozó, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést –, ha a (2) bekezdésben foglaltak teljesítésén túlmenően munkavégzési célból vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
 
-(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha keresőtevékenység folytatása céljából a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló kormányrendeletben meghatározott kiemelt foglalkoztató által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a keresőtevékenység folytatása céljából kiadott tartózkodási engedélyt bemutatja.
+(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha munkavégzési célból a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott kedvezményes foglalkoztató vagy minősített kölcsönbeadó által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a kiadott tartózkodási engedélyt bemutatja.
 
-(5) Az eljáró hatóság megszünteti a (4) bekezdés szerinti eljárást, ha a kérelmező az elismerési eljárás kezdő napját követő 90 napon belül nem nyújtja be a keresőtevékenység folytatása céljából szükséges vízumot, és nem kéri az eljárási határidő meghosszabbítását. Az eljárási határidő kérelemre 30 nappal meghosszabbítható.
+(5) Az eljáró hatóság megszünteti a (4) bekezdés szerinti eljárást, ha a kérelmező az elismerési eljárás kezdő napját követő 90 napon belül nem nyújtja be a munkavégzési célból szükséges vízumot, és nem kéri az eljárási határidő meghosszabbítását. Az eljárási határidő kérelemre 30 nappal meghosszabbítható.
 
 7. § (1) Ha a kérelmező által benyújtott okiratok valódisága tekintetében kétség merül fel, vagy a kérelmező az oklevél elismeréséhez vagy honosításához szükséges okiratokkal nem rendelkezik, és azok az eljáró hatóság megítélése szerint általa nem, vagy nehezen szerezhetők be, az eljáró hatóság megkeresést intézhet az illetékes külföldi intézményhez, szervezethez vagy hatósághoz. A Harmadik rész hatálya alá tartozó eljárások kivételével, ha olyan külföldi bizonyítvány vagy oklevél jogi hatályát kell megállapítani, amelyet valamely, a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt (a továbbiakban: Lisszaboni Egyezmény) magára nézve kötelezőnek elismerő államban [13. § (1) bekezdés] állítottak ki, az eljáró hatóság a megkeresést a Lisszaboni Egyezmény IX.2. Cikke szerinti külföldi információs központhoz intézi.
 
@@ -369,7 +369,7 @@ felhasználása
 
 - a) a valamely tagállam állampolgárának, valamint a magyar állampolgárnak külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező családtagja,
 - b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
-- c) a bevándorolt, illetve letelepedett jogállású személy, valamint
+- c) a huzamos tartózkodási jogosultsággal rendelkező személy, valamint
 - d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából Magyarország vagy valamely tagállam által kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
 - e) az összevont engedéllyel rendelkező harmadik országbeli állampolgár.
 

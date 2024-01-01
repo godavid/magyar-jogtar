@@ -224,7 +224,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 12. § (1) Munkáltatói tag az a természetes vagy jogi személy, aki a pénztárral kötött szerződés alapján munkavállalójának tagdíjfizetési kötelezettségét egészben vagy részben átvállalja (munkáltatói hozzájárulás).
 
-(2) A munkáltatói hozzájárulási kötelezettséget vállaló munkáltató a munkáltatói hozzájárulásból egyetlen olyan munkavállalóját sem zárhatja ki, aki nála legalább hat hónapja munkaviszonyban (közalkalmazotti, egészségügyi szolgálati, közszolgálati, állami szolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, valamint honvédelmi alkalmazotti jogviszonyban) áll. A munkáltató munkavállalóként mindhárom típusú pénztárban egyidejűleg is vállalhat hozzájárulási kötelezettséget.
+(2) A munkáltatói hozzájárulási kötelezettséget vállaló munkáltató a munkáltatói hozzájárulásból egyetlen olyan munkavállalóját sem zárhatja ki, aki nála legalább hat hónapja munkaviszonyban (közalkalmazotti, köznevelési foglalkoztatotti, egészségügyi szolgálati, közszolgálati, állami szolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, valamint honvédelmi alkalmazotti jogviszonyban) áll. A munkáltató munkavállalóként mindhárom típusú pénztárban egyidejűleg is vállalhat hozzájárulási kötelezettséget.
 
 (3) A munkáltatói hozzájárulás – a (4) bekezdésben foglaltak kivételével – minden pénztártag munkavállalóra nézve azonos összegű vagy a munkabérének azonos százaléka, amelyet a munkáltató köteles az alkalmazott által választott pénztártól függetlenül egységesen megállapítani. A munkáltató a hozzájárulás megállapításakor pénztártípusonként különbséget tehet. A munkabér százalékban meghatározott munkáltatói hozzájárulás esetén a munkáltató meghatározhatja a hozzájárulás legkisebb és legnagyobb összegét is.
 
@@ -325,7 +325,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 16/A. § (1) A tag halála esetén az egyéni számla hagyatékának nem része. A tag a halála esetére az alapszabályban foglaltak szerint természetes személy kedvezményezettet jelölhet a belépési nyilatkozaton, közokiratban vagy teljes bizonyító erejű magánokiratban (haláleseti kedvezményezett).
 
-(2) A kedvezményezett-jelölés a pénztár tudomásulvételével, a jelölés megtételének időpontjára visszamenőlegesen válik hatályossá. A pénztár a kedvezményezett-jelöléséről a tagot a záradékolt belépési nyilatkozat nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként történő átadásával vagy megküldésével, illetve egyéb esetben a tudomásszerzést követő 15 napon belül a tagsági okirat nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként történő megküldésével értesíti. A tagsági okiratnak tartalmaznia kell a tag adatain kívül a tag által megjelölt kedvezményezett(ek) nevét, adatait, jogosultsága(ik) arányát, a kedvezményezett-jelölés időpontját.
+(2) A kedvezményezett-jelölés a pénztár tudomásulvételével, a jelölés megtételének időpontjára visszamenőlegesen válik hatályossá. A pénztár a kedvezményezett-jelöléséről a tagot a tudomásszerzést követő 15 napon belül a tagsági okirat elektronikus irat formájában, vagy ha arra nincs lehetőség papíralapú iratként történő átadásával vagy megküldésével értesíti. A tagsági okirat tartalmazza a tag adatain kívül a tag által megjelölt kedvezményezett(ek) nevét, adatait, jogosultsága(ik) arányát, és a kedvezményezett-jelölés időpontját.
 
 (3) Amennyiben a tag egyidejűleg több kedvezményezettet jelöl meg, akkor ellenkező rendelkezése hiányában a megjelölt személyek egyenlő arányban válnak jogosulttá.
 
@@ -524,7 +524,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 (4) Az igazgatótanács az alapszabályban meghatározott időközönként, de legalább három havonként ülést tart. Ülést kell tartania ezen időszakon belül akkor is, ha azt közgyűlési határozat, vagy a Felügyelet előírta, illetve ha az ellenőrző bizottság, az igazgatótanács tagjainak egyharmada vagy az ügyvezető kéri. Amennyiben az igazgatótanács, az ellenőrző bizottság tagjainak egyharmada vagy az ügyvezető kérése ellenére az igazgatótanácsi ülés nem kerül összehívásra, abban az esetben a kezdeményezők jogosultak az igazgatótanácsi ülés összehívására. Az igazgatótanácsi ülés összehívása elmaradásának tényét a kezdeményezők kötelesek bejelenteni a Felügyeletre.
 
-(5) Az igazgatótanács ülés megtartása nélkül távbeszélőn, telefaxon, telexen, elektronikus levélben (e-mail) is hozhat érvényes határozatot, ha az igazgatótanácsi tagok az alapszabályban meghatározott hányada, de legalább a fele szavazatát teljes bizonyító erejű magánokiratba foglalja, és az alapszabályban meghatározott időtartamon, de legfeljebb 8 napon belül megküldi a pénztár székhelyére.
+(5) Az igazgatótanács ülés megtartása nélkül távbeszélőn, elektronikus levélben (e-mail) is hozhat érvényes határozatot, ha az igazgatótanácsi tagok az alapszabályban meghatározott hányada, de legalább a fele szavazatát teljes bizonyító erejű magánokiratba foglalja, és az alapszabályban meghatározott időtartamon, de legfeljebb 8 napon belül megküldi a pénztár székhelyére.
 
 (6) Az ülés akkor határozatképes, ha azon a tagoknak legalább a fele jelen van.
 
@@ -590,7 +590,7 @@ külön szabályok
 
 ### Panaszkezelés
 
-29/A. § (1) A pénztár biztosítja, hogy a pénztártag a pénztár magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+29/A. § (1) A pénztár biztosítja, hogy a pénztártag a pénztár magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) A pénztár
 
@@ -612,7 +612,7 @@ külön szabályok
 
 (9) A pénztár a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
-(10) A pénztár a pénztártagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénztár a panaszkezelési szabályzatban tájékoztatja a pénztártagot a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
+(10) A pénztár a pénztártagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénztár a panaszkezelési szabályzatban tájékoztatja a pénztártagot a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról.
 
 (11) A pénztár a pénztártagok panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
 
@@ -1124,6 +1124,8 @@ MEGSZŰNÉSE
 
 (3) Amennyiben a pénztártag az (1) bekezdés b) pontja alatti tagi kölcsönt az alapszabályban meghatározott feltételek szerint, a pénztár erre vonatkozó felszólítása ellenére sem fizeti vissza, a hátralék összegét, valamint a pénztár költségeit a tag egyéni nyugdíjszámlájával szemben – legkésőbb a kölcsön lejáratától számított 180 napon belül – érvényesítheti. A hátralék összege a tag jövedelme, nem minősül pénztári szolgáltatásnak, és a tag olyan adóköteles jövedelme, amely után a pénztár az egyéni nyugdíjszámla megterhelésének időpontjával egyidejűleg kiadott igazolás alapján az Szja tv. szerint adóelőleg fizetési kötelezettség terheli.
 
+(4) A pénztártag kérésére a (3) bekezdésben foglalt adóelőleg-fizetési kötelezettség az egyéni nyugdíjszámla terhére is teljesíthető.
+
 47. § (1) A pénztártag az egyéni nyugdíjszámláján nyilvántartott összeghez a várakozási idő letelte, a nyugdíjszolgáltatáshoz a nyugdíjkorhatár elérése után juthat hozzá.
 
 (2) A tagsági jogviszony a várakozási idő letelte előtt a 15. § (1) bekezdésének rendelkezéseivel ellentétben csak a pénztártagnak más pénztárba való átlépése, illetve a pénztár megszűnése esetén szüntethető meg.
@@ -1235,7 +1237,7 @@ befektetési portfolió
 
 (2) A választható portfoliók mindegyikének meg kell felelnie a pénztári befektetésekre és az azok kezelésére vonatkozó előírásoknak.
 
-(3) A választható portfoliós rendszer bevezetésére, módosítására, megszüntetésére vonatkozó döntés, illetve a rendszer szabályait tartalmazó szabályzat elfogadása a pénztár közgyűlésének kizárólagos hatáskörébe tartozik.
+(3) A választható portfóliós rendszer bevezetésére és megszüntetésére, valamint a működtetésének a rendszer szüneteltetését követő folytatására vonatkozó döntés, illetve a rendszer szabályait tartalmazó szabályzat elfogadása a rendszer bevezetésekor a pénztár közgyűlésének, a választható portfóliós rendszer szüneteltetésére, módosítására vonatkozó döntés, illetve a módosított rendelkezéseket tartalmazó szabályzat elfogadása a pénztár igazgatótanácsának kizárólagos hatáskörébe tartozik. Az igazgatótanács döntését a 24. § (5) bekezdésében foglaltaktól eltérően nem hozhatja meg ülés megtartása nélkül. Az ellenőrző bizottság köteles előzetesen megvizsgálni a választható portfóliós rendszer bevezetésére, módosítására, szüneteltetésére, a működtetésének a szüneteltetést követő folytatására és a rendszer megszüntetésére vonatkozó javaslatot, és véleményét az erre vonatkozó döntés előtt a közgyűlésen, illetve az igazgatótanács ülésén ismertetni kell.
 
 (4) A (3) bekezdésben foglalt szabályzatnak tartalmaznia kell:
 
@@ -1261,11 +1263,12 @@ befektetési portfolió
 
 49/D. § (1) A választható portfoliós rendszer működtetése a Felügyelet erre vonatkozó engedélye birtokában kezdhető meg, folytatható, illetve módosítható. A rendszer működtetésének szüneteltetését, illetve folytatását a Felügyeletnek be kell jelenteni.
 
-(2) A választható portfóliós rendszer működtetésének megkezdésére, folytatására, illetve módosítására vonatkozó kérelemhez mellékelni kell
+(2) A választható portfóliós rendszer működtetésének megkezdésére, a működtetésének szüneteltetését követő folytatására, illetve módosítására vonatkozó kérelemhez mellékelni kell
 
 - a) a szabályzatot vagy a módosított szabályzatot a módosítások megjelölésével,
-- b) az azt elfogadó közgyűlés jegyzőkönyvét, valamint
-- c) a szabályzattal, illetve módosított szabályzattal összefüggő befektetési politikát.
+- b) az azt elfogadó közgyűlés jegyzőkönyvét vagy a módosított szabályzatot elfogadó igazgatótanácsi ülés jegyzőkönyvét,
+- c) a szabályzattal, illetve módosított szabályzattal összefüggő befektetési politikát, valamint
+- d) az ellenőrző bizottság véleményét.
 
 (3) A Felügyelet a benyújtott szabályzat módosítását írhatja elő, ha
 
@@ -1823,13 +1826,7 @@ nyújthat.
 
 72/B. § A 72/A. §-nak az egyes egészség- és önsegélyező szolgáltatások védelméről szóló 2016. évi CXLVII. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárások esetén is alkalmazni kell.
 
-73. § (1)
-
-(2)
-
-(3)
-
-(4)
+73. § Azon pénztárak, amelyek a hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény hatálybalépésekor nem rendelkeznek internetes honlappal, 2025. január 1-jéig kötelesek internetes honlapot létesíteni és ott az e törvényben előírt közzétételi kötelezettségeiknek eleget tenni. A pénztár a közzétételi kötelezettségét az 52. § szerinti szövetség által üzemeltetett honlapon való közzététellel is teljesítheti.
 
 #### 74. §
 

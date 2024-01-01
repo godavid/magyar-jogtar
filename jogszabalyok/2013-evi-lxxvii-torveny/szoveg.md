@@ -468,7 +468,7 @@ a Kormány rendeletében meghatározott feltételek mellett együttműködési m
 
 (3) Képzési hitel akkor igényelhető, ha a képzésben részt vevő személy
 
-- a) magyar állampolgár, menekültként elismert, bevándorolt vagy letelepedett jogállású személy, vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény alapján állandó tartózkodásra jogosult személy vagy annak családtagja,
+- a) magyar állampolgár, menekültként elismert vagy huzamos tartózkodási jogosultsággal rendelkező személy, vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény alapján állandó tartózkodásra jogosult személy vagy annak családtagja,
 - b) lakóhelyét a személyiadat- és lakcímnyilvántartásba bejelentette,
 - c) a hitelkérelem benyújtásakor a 18. életévét betöltötte, de az 55. életévét nem töltötte be,
 - d) büntetlen előéletű,

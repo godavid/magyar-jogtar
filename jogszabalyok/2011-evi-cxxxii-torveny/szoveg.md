@@ -19,6 +19,8 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 1/B. § Az Egyetem alaptevékenységként ellátja a közszolgálati tisztviselők és a kormányzati igazgatási szervek kormánytisztviselőinek képzését, továbbképzését, valamint jogszabályban vagy közjogi szervezetszabályozó eszközben részére meghatározott egyéb képzési és továbbképzési feladatokat.
 
+1/C. § Az Egyetem alaptevékenységként – a szervezeti és működési szabályzatában kijelölt szervezeti egysége útján – ellátja az 1/B. § hatálya alá nem tartozó, kormányrendeletben meghatározott kormányzati képzési, oktatási feladatok ellátásához kapcsolódó központosított közbeszerzés során ajánlatkérésre feljogosított szervezet feladatait, valamint egyéb kapcsolódó feladatokat.
+
 2. § (1) Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
 
 (2) A 13. §-ban meghatározott személyek esetében az e törvényben nem szabályozott kérdésekben a jogállásukat szabályozó törvények rendelkezéseit kell alkalmazni.
@@ -122,7 +124,7 @@ tölthet be.
 
 (2)
 
-13/A. § Nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a bevándorolt vagy letelepedett jogállás.
+13/A. § Nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a huzamos tartózkodási jogosultsággal rendelkezés.
 
 14. § A közalkalmazott oktató, tudományos kutató és tanár a munkahelyén pártpolitikától mentes magatartást köteles tanúsítani.
 

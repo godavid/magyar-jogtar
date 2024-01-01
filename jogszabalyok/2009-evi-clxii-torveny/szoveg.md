@@ -54,7 +54,7 @@ a fogyasztónak nyújtott hitelről
 - 10. hitel teljes díja: a hitelező által ismert minden olyan – a teljes hiteldíj mutató számításánál a külön jogszabály szerint figyelembe veendő – ellenszolgáltatás, amelyet a fogyasztó a hitelszerződés kapcsán megfizet,
 - 11. hitel teljes összege: a hitelnek a hitelszerződésben meghatározott teljes összege vagy felső összeghatára,
 - 12. hiteltúllépés: fizetési számlához kapcsolódó olyan hitel, amelyet a hitelező a hitelkeret-szerződés szerinti összegét meghaladó összegben, vagy ilyen szerződés hiányában bocsát a fogyasztó rendelkezésére,
-- 13. jelzáloghitel: a Hpt.-ben ilyenként meghatározott fogalom,
+- 13. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is,
 - 14. kamatperiódus: a hitelszerződésben meghatározott olyan időszak, amely alatt a kamat mértékét a hitelező nem jogosult egyoldalúan megváltoztatni,
 - 15. kapcsolt hitelszerződés: olyan hitelszerződés, amely meghatározott termék értékesítéséhez vagy – a hitelnyújtástól eltérő – szolgáltatás nyújtásához kapcsolódik, ha
   - a) a hitelt maga a termék értékesítője vagy szolgáltatás nyújtója nyújtja, vagy
@@ -111,7 +111,7 @@ a fogyasztónak nyújtott hitelről
 
 ### A hitelszerződés megkötését megelőző tájékoztatás
 
-5. § (1) A hitelező, a hitelközvetítő vagy közvetítői alvállalkozó a hitelszerződés megkötését megelőzően a fogyasztó részére köteles olyan felvilágosítást adni, amelynek alapján a fogyasztó felmérheti, hogy az igénybe venni tervezett hitel és – ha kapcsolódó szolgáltatás nyújtására is sor kerül – a kapcsolódó szolgáltatás megfelel-e az igényeinek és a pénzügyi teljesítőképességének. Ennek során a hitelező és adott esetben a hitelközvetítő vagy közvetítői alvállalkozó a fogyasztó rendelkezésére bocsátja a különböző ajánlatok összehasonlításához szükséges információkat annak érdekében, hogy a fogyasztó megalapozott döntést hozhasson a hitelszerződés esetleges megkötése tekintetében.
+5. § (1) A hitelező, a hitelközvetítő vagy közvetítői alvállalkozó a hitelszerződés megkötését megelőzően a személyre szóló tájékoztatással és a közvetítő tájékoztatási kötelezettségével összhangban a fogyasztó részére köteles olyan felvilágosítást adni, amelynek alapján a fogyasztó felmérheti, hogy az igénybe venni tervezett hitel és – ha kapcsolódó szolgáltatás nyújtására is sor kerül – a kapcsolódó szolgáltatás megfelel-e az igényeinek és a pénzügyi teljesítőképességének. Ennek során a hitelező és adott esetben a hitelközvetítő vagy közvetítői alvállalkozó a fogyasztó rendelkezésére bocsátja a különböző ajánlatok összehasonlításához szükséges információkat annak érdekében, hogy a fogyasztó megalapozott döntést hozhasson a hitelszerződés esetleges megkötése tekintetében.
 
 (2) Az (1) bekezdés szerinti felvilágosításnak mindenekelőtt ki kell terjednie az ajánlott termékek legfontosabb jellemzőire, a fogyasztó pénzügyi helyzetére gyakorolt hatására és a fizetés elmulasztásának következményeire, így különösen a késedelmi kamatra, a hitel felmondására és a biztosítékok érvényesítésére.
 
@@ -237,7 +237,7 @@ a fogyasztónak nyújtott hitelről
 (3) Az (1) bekezdésben foglaltaktól eltérően:
 
 - a) a hitelező a fogyasztó részére előírhatja, hogy rendelkezzen fizetési számlával, amely kizárólag a jelzáloghitel törlesztéséhez szükséges pénzeszközök elhelyezését szolgálja, és ezt díj-, költség- és egyéb fizetési kötelezettségmentesen kell a fogyasztó részére biztosítani,
-- b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, valamint életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással.
+- b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, valamint megtakarítási célú életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással.
 
 (4) A (3) bekezdés b) pontjában foglaltak esetén a hitelezőnek az általa előnyben részesített szolgáltatótól eltérő szolgáltató biztosítását is el kell fogadnia, ha az a hitelező által ajánlott biztosítással legalább egyenértékű a biztosítás összegét és a fedezet körét figyelembe véve.
 
@@ -253,7 +253,7 @@ a fogyasztónak nyújtott hitelről
 
 (3) A hitelező az értékelési szakvéleményt tartós adathordozón rögzíti és nyilvántartásában megőrzi.
 
-(4) A jelzáloghitel fedezetéül szolgáló ingatlan hitelbiztosítéki értékét megállapító értékbecslőnek rendelkeznie kell
+(4) A jelzáloghitel fedezetéül szolgáló ingatlan hitelbiztosítéki értékét megállapító hitelnyújtás folyamatától független értékbecslőnek rendelkeznie kell
 
 - a) ingatlanvagyon-értékelő és -közvetítői szakképesítéssel vagy
 - b) az a) pontban foglaltakkal egyenértékű szakképesítéssel.
@@ -594,6 +594,8 @@ kell megállapítani.
 
 (9) A hitelező a fogyasztó előtörlesztési szándékának a bejelentését követően 5 munkanapon belül rendelkezésre bocsátja a szükséges információkat. A fogyasztó előtörlesztési szándéka alapján bejelentett előtörleszteni kívánt részlet hitelező rendelkezésére bocsátását követően legkésőbb 5 munkanapon belül elszámolja az előtörlesztett részletet.
 
+(10) A fennálló hiteltartozás kiváltása esetén a fogyasztó meghatalmazása alapján a hitelező köteles az új hitel folyósításához szükséges igazolásokat az új hitelező részére 15 munkanapon belül elektronikus úton megküldeni.
+
 ### Hiteltúllépés
 
 26. § (1) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény szerinti fizetési számla nyitására vonatkozó keretszerződés megkötése során a felek megállapodhatnak abban, hogy a fogyasztó jogosult a hiteltúllépésre.
@@ -628,6 +630,8 @@ kell megállapítani.
 (5) A hitelező jogosult a hitel folyósításával közvetlenül összefüggő, szerződésben meghatározott költségeinek folyósítási díjként történő megtérítésére, ennek mértéke azonban nem lehet magasabb a folyósított összeg 1%-ánál, és nem haladhatja meg a 200 000 forintot.
 
 (6) A hitelező jogosult a hitelkeret rendelkezésre tartásával összefüggésben, rendelkezésre tartási díjat megállapítani – a hitelkeret összegét alapul véve –, ennek mértéke azonban nem lehet magasabb a százalékban meghatározott ügyleti kamat 50%-ánál.
+
+(7) Jelzáloghitel esetén a hitelező a hitelszerződésből eredő tartozás megszűnését követő 10 munkanapon belül a fogyasztó rendelkezésére bocsátja a jelzálogjog ingatlan-nyilvántartásból való törléséhez szükséges okiratot.
 
 29. § (1) A fogyasztó az e törvényben meghatározott jogairól érvényesen nem mondhat le.
 
@@ -705,7 +709,9 @@ kell megállapítani.
 
 (2) A pénzügyi közvetítőrendszer egyes elemeit érintő törvények jogharmonizációs célú módosításáról szóló 2020. évi CX. törvény 54. §-ával megállapított 25. § (9) bekezdést a hatálybalépését megelőzően megkötött szerződések esetében is alkalmazni kell a hatálybalépését követően teljesített előtörlesztésekre.
 
-#### 36–37. §
+#### 36. §
+
+#### 37. §
 
 38. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

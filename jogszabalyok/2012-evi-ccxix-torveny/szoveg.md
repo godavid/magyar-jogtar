@@ -258,6 +258,8 @@ kezeli.
 
 útján gyakorolhatja.
 
+(3a) Az (1) bekezdés b) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy és jogi személyiséggel nem rendelkező szervezet a törvényes képviselője, tulajdonosa vagy az általa kijelölt olyan személy útján gyakorolhatja, akit legalább heti húsz órában határozatlan idejű munkaviszonyban foglalkoztat. A jogi személy és jogi személyiséggel nem rendelkező szervezet tisztségviselőként megválasztott képviselőre is alkalmazni kell a 13. § (2) bekezdés d) és e) pontjában foglaltakat.
+
 (4) Aki több hegyközségnek is tagja, tisztséget csak egy hegyközségben viselhet.
 
 20. § Hegyközségi tag származási bizonyítványt, valamint a hegybíró és a Hegyközségek Nemzeti Tanácsának főtitkára által kiállítandó igazolást térítésmentesen kap, ha eleget tett a hegyközségi járulék és a szakmaközi piacszervezési intézkedésekben meghatározott járulék (a továbbiakban: szakmaközi járulék) megfizetésére vonatkozó, valamint az adatszolgáltatási kötelezettségének. Több hegyközségben is tagsággal rendelkező tagnak valamennyi hegyközségben teljesítenie kell a fennálló hegyközségi és szakmaközi járulékfizetési kötelezettségét.
@@ -514,11 +516,13 @@ esetén.
 - b) legalább a pályázati kiírásban meghatározott középfokú mezőgazdasági szakirányú szakképzettséggel rendelkezik, valamint
 - c) a közigazgatási alapvizsgát letette, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkezik, vagy vállalja, hogy kinevezése esetén a közigazgatási alapvizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de megválasztásától számított legkésőbb egy éven – belül leteszi.
 
+(8a) A hegyközségben a hegybírói tisztséget nem töltheti be az a személy, aki az adott hegyközség 13. § (1) bekezdése szerinti tisztségviselőjének a Polgári Törvénykönyv szerinti közeli hozzátartozója, bejegyzett élettársa vagy élettársa.
+
 (9) A (8) bekezdés c) pontja szerinti határidő elmulasztása esetén a hegybíró foglalkoztatási jogviszonya megszűnik.
 
 (10) A hegybírót munkájáért legalább a tárgyévet megelőző évi minimálbér kétszeresét 10 százalékkal meghaladó díjazás illeti meg.
 
-(11) Egy személy a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott borszőlőültetvényt magába foglaló területen látja el a hegybírói feladatokat. A hegybíró több hegyközség működési területére is kinevezhető azzal, hogy a hegybíró részére megállapított működési területének le kell fednie az adott hegyközségek teljes működési területét (körhegybíró). A körhegybíró az egy borvidéken fekvő hegyközségek működési területére nevezhető ki. Egy hegyközség területén a hegybírói feladatok ellátására több személy is kinevezhető, akiknek működési területét a kinevezésben meg kell határozni, amely működési terület nem eshet egybe másik hegybíró működési területével.
+(11) Egy személy a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott borszőlőültetvényt magába foglaló területen látja el a hegybírói feladatokat. A hegybíró több hegyközség működési területére is kinevezhető azzal, hogy a hegybíró részére megállapított működési területének le kell fednie az adott hegyközségek teljes működési területét (körhegybíró). A körhegybíró több borvidéken fekvő hegyközségek működési területére is kinevezhető. Egy hegyközség területén a hegybírói feladatok ellátására több személy is kinevezhető, akiknek működési területét a kinevezésben meg kell határozni, amely működési terület nem eshet egybe másik hegybíró működési területével.
 
 (12) Ha a hegybírói tisztség megüresedik, az új hegybíró kinevezéséig a Hegyközségek Nemzeti Tanácsának főtitkára által ideiglenes jelleggel kinevezett másik – a (8) bekezdés rendelkezéseinek megfelelő – hegybíró látja el a hegybírói feladatokat. Az így kinevezett ideiglenes hegybíróra a (11) bekezdés harmadik mondatában szereplő korlátozást nem kell alkalmazni.
 
@@ -640,13 +644,14 @@ részére adhatja át.
 - f) pályázatból származó bevétel,
 - g) egyéb, az alapszabályban meghatározott bevételek.
 
-(2) A hegyközségi tagoknak, valamint a szőlészeti és borászati felvásárlóknak hegyközségi járulékot kell fizetni azon hegyközség részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységüket végzik. A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegybíró a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel határozatban közli.
+(2) A hegyközségi tag, valamint a nyilvántartott adatszolgáltató hegyközségi járulékot fizet azon hegyközségi szervezet részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységét végzi. A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegyközség a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel számviteli bizonylatban közli.
 
-(3) A hegyközségi járulék alapját
+(3) A közgyűlés a járulék mértékét a következők szerint állapítja meg:
 
-- a) szőlészeti termelő hegyközségi tag esetében az általa művelt szőlőültetvény területe és a megtermelt szőlőmennyiség alapján kell megállapítani;
-- b) borászati termelő hegyközségi tag esetében az általa művelt szőlőültetvény területe és a feldolgozott szőlő-, valamint bormennyiség alapján kell megállapítani azzal, hogy a szőlőültetvény területe alapján meghatározott járulékalap azonos az a) pont szerinti járulékalappal;
-- c) szőlészeti és borászati felvásárló esetében a felvásárolt szőlő, must, illetve bor mennyisége alapján, a b) pont szerinti feldolgozott bormennyiségre vonatkozó járulékalappal azonos mértékben kell megállapítani.
+- a) a művelt szőlőültetvény alapján, a hegybíró által nyilvántartott szőlőültetvény területe szerint,
+- b) a megtermelt szőlőmennyiség alapján, ha a szőlőt saját vagy borgazdasági egységén belüli feldolgozás céljára termelték, ideértve a külföldi adóügyi illetőségűnek minősülő felvásárlónak és a végső fogyasztónak való értékesítést is,
+- c) a felvásárolt szőlőmennyiség alapján – a külföldi adóügyi illetőségűnek minősülő felvásárlónak és végső fogyasztónak való értékesítés kivételével –, amely esetben a járulék mértéke megegyezik a megtermelt szőlőmennyiség alapján meghatározott járulék mértékével, valamint
+- d) a felvásárolt borászati termék mennyisége alapján.
 
 (3a) Termelői szerveződés vagy termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás által a termelői szerveződés tagjaitól felvásárolt szőlő, must, illetve bor mennyisége után nem kell hegyközségi járulékot fizetni.
 

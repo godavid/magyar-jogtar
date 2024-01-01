@@ -223,6 +223,7 @@ használnak,
 - 34c. kis- és középvállalkozás: olyan vállalkozás, amelynek az előző három naptári évben az év végi jegyzések alapján az átlagos piaci tőkeértéke 200 000 000 eurónál kevesebb volt,
 - 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
 - 34e. kiegészítési záradék: olyan záradék, amely a befektető védelmére irányul annak biztosítása révén, hogy a kötvény lejárat előtti visszaváltása esetén a kibocsátó köteles a kötvényt birtokló befektetőnek kifizetni – a visszaváltott kötvény tőkeösszege mellett – azon kamatszelvények nettó jelenértékét, amelyekre akkor lett volna jogosult, ha a kötvény lejárat előtti beváltására nem kerül sor,
+- 34f. keretszerződés: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletének 58. cikkében meghatározott alapmegállapodás,
 - 35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
 - 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 - 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
@@ -380,7 +381,7 @@ használnak,
 - a) az átruházható értékpapír,
 - b) a pénzpiaci eszköz,
 - c) a kollektív befektetési forma által kibocsátott értékpapír,
-- d) az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz, kibocsátáskereskedelmi egységhez vagy más származtatott eszközhöz, pénzügyi indexhez vagy pénzügyi intézkedéshez kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
+- d) az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz, kibocsátási egységhez vagy más származtatott eszközhöz, pénzügyi indexhez vagy pénzügyi intézkedéshez kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
 - e) az áruhoz kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős ügylet, valamint bármely más származtatott ügylet, amelyet pénzben kell kiegyenlíteni vagy az ügyletben résztvevő felek valamelyikének választása szerint – nem a teljesítési határidő lejárta vagy más megszűnési ok miatt – pénzben kiegyenlíthető,
 - f) az áruhoz kapcsolódó opció, tőzsdén kívüli határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető, feltéve, hogy azzal szabályozott piacon, multilaterális kereskedési rendszerben vagy szervezett kereskedési rendszerben kereskednek, azon szervezett kereskedési rendszerben kereskedett nagykereskedelmi energiatermék kivételével, amelyet a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 5. cikkében meghatározottaknak megfelelően természetben kell kiegyenlíteni (ténylegesen le kell szállítani),
 - g) az f) pont alá nem tartozó, más származtatott pénzügyi eszköz jellemzőivel rendelkező, áruhoz kapcsolódó opció, tőzsdei és tőzsdén kívüli határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető, és a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározottaknak megfelelően nem kereskedelmi célt szolgál,
@@ -759,7 +760,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 - a) – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 - b) felsőfokú végzettséggel rendelkezik;
 - c) legalább hároméves szakirányú szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
-- d)
+- d) nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt;
 - e) igazolja, hogy jó üzleti hírnévvel rendelkezik.
 
 (2) Fióktelep formájában működő befektetési vállalkozás – ide nem értve a más EGT-államban székhellyel rendelkező befektetési vállalkozás fióktelepét – vezető állású személyei között legalább egy olyan magyar állampolgárságú, devizabelföldi személynek kell lennie, aki legalább egy éve állandó belföldi lakóhellyel rendelkezik.
@@ -806,7 +807,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 (3) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló hatósági bizonyítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
-23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább két év szakirányú szakmai gyakorlattal rendelkezik és aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább két év szakirányú szakmai gyakorlattal rendelkezik és aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt.
 
 24. § (1) A 22. § (1), (1a) és (4) bekezdése, valamint a 23. § alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
 
@@ -1254,6 +1255,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 - b) akinek üzleti tevékenysége, kapcsolatainak jellege vagy más vállalkozásokkal fennálló közvetlen és közvetett tulajdoni részesedésének szerkezete a felügyeleti tevékenységet nem akadályozza,
 - c) aki jó üzleti hírnévvel rendelkezik,
 - d) aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+- e) aki nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt.
 
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 
@@ -1640,9 +1642,9 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 ### A szerződésre vonatkozó formai és tartalmi követelmények
 
-52. § (1) A befektetési vállalkozás az ügyféllel kötött szerződését az üzletszabályzatában foglaltak szerint – a (2) bekezdésben foglalt kivétellel – írásba foglalja.
+52. § (1) A befektetési vállalkozás az ügyféllel kötött keretszerződést írásba foglalja.
 
-(2) Nem kell a portfóliókezelési tevékenység végzése keretében az ügyféllel kötött, pénzügyi eszközre vonatkozó ügylet végrehajtására vonatkozó megállapodást (a továbbiakban: megbízás) írásba foglalni, ha arra egy írásba foglalt, hatályban lévő keretszerződés alapján kerül sor, és a megbízást a befektetési vállalkozás elektronikus úton rögzíti.
+(2) A befektetési vállalkozás az (1) bekezdés szerinti keretszerződést az 55. § szerinti nyilvántartásában rögzíti.
 
 (3) A befektetési vállalkozás az ügyfél azonosítására nem használhat olyan utalást vagy jelzést, amely alkalmas az ügyfél személyének elfedésére vagy megnehezíti annak azonosítását.
 
@@ -2784,7 +2786,7 @@ részére,
 
 ### A panaszkezelés
 
-121. § (1) A szolgáltató biztosítja, hogy az ügyfél a szolgáltató magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+121. § (1) A szolgáltató biztosítja, hogy az ügyfél a szolgáltató magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) Telefonon történő panaszkezelés esetén a szolgáltató és az ügyfél közötti telefonos kommunikációt a szolgáltató hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
@@ -2884,7 +2886,7 @@ legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamin
 
 (5) A befektetési vállalkozás nyilvánosságra hozatali kötelezettségét honlapján vagy azon az internetes felületen teljesíti, amelyen az éves számviteli beszámolóját hozza nyilvánosságra.
 
-(6) A befektetési vállalkozás köteles a Felügyelet által vele szemben hozott határozat rendelkező részét – az MNBtv. 53. §-ában meghatározott rendelkezések figyelembevételével – az adott határozat közlésétől számított 15 napon belül a honlapján közzétenni. Ha a befektetési vállalkozás nem rendelkezik honlappal, akkor a közzétételi kötelezettségnek a székhelyén történő közzététel útján is eleget tehet.
+(6) A befektetési vállalkozás köteles a Felügyelet által vele szemben hozott határozat rendelkező részét – az MNBtv. 53. §-ában meghatározott rendelkezések figyelembevételével – az adott határozat közlésétől számított 15 napon belül a honlapján közzétenni.
 
 (7) A (6) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 
@@ -3556,7 +3558,7 @@ valamint az ezen adatokban bekövetkező változást.
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével) másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 

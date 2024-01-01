@@ -482,6 +482,8 @@ indokolás nélkül felmondhatja.
 
 (2) A biztosító a gépjárműben keletkezett kár helyreállításához szükséges költségek általános forgalmi adóval növelt összegét a károsultnak csak akkor térítheti meg, ha a károsult által bemutatott számla tartalmazza a gépjármű helyreállításához szükséges munkálatok megnevezését, anyagköltségét és munkadíját, valamint az a számvitelről szóló törvény előírásainak megfelel, kivéve, ha a károsult a közlekedésbiztonsági szempontokra is tekintettel a gépjármű megjavíttatása helyett az (1) bekezdés szerinti mértékű nettó kártérítési összeggel szabadon kíván rendelkezni. Amennyiben az értékcsökkenés fizetésének feltétele fennáll, a biztosító az (1) bekezdés szerinti értékcsökkenés összegét téríti meg. Gazdasági totálkár esetén vagy ha a káresemény következtében károsult gépjármű helyreállítása műszaki okokból nem lehetséges, a biztosító a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét alapul véve köteles megtéríteni a károsult kárát.
 
+(3) A biztosító az értékcsökkenés alkalmazásának módszertanát a honlapján közzéteszi.
+
 #### 32/B. §
 
 ### Törvényi engedmény
@@ -733,7 +735,9 @@ változás következik be.
 
 ### A biztosítási fedezet fennállásának igazolása
 
-44. § Gépjárművet forgalomba helyezni, a forgalmi engedélybe üzemben tartóval kapcsolatos bejegyzést tenni, ideiglenes forgalomban tartási engedélyt kiadni, azt meghosszabbítani, a gépjármű hatósági jelzését (rendszámtábláját) cserélni, a gépjármű időszakos vizsgálatát elvégezni abban az esetben lehet, ha az e törvény szerinti biztosítási kötelezettségnek eleget tettek.
+44. § (1) Gépjárművet forgalomba helyezni – a (2) bekezdésben foglalt kivétellel –, a forgalmi engedélybe üzemben tartóval kapcsolatos bejegyzést tenni, ideiglenes forgalomban tartási engedélyt kiadni, azt meghosszabbítani, a gépjármű hatósági jelzését (rendszámtábláját) cserélni, a gépjármű időszakos vizsgálatát elvégezni abban az esetben lehet, ha az e törvény szerinti biztosítási kötelezettségnek eleget tettek.
+
+(2) A gépjármű forgalomba helyezéséhez az e törvény szerinti biztosítási kötelezettség teljesítése nem szükséges, ha a gépjármű forgalomba helyezését gépjármű kereskedelemmel foglalkozó gazdasági társaság vagy egyéni vállalkozó kezdeményezte, és a forgalomba helyezéssel egyidejűleg a gépjármű kereskedelemmel foglalkozó gazdasági társaság vagy egyéni vállalkozó kérte a gépjármű forgalomból történő kivonását is.
 
 45. § (1) A 44. §-ban meghatározott közlekedési igazgatási eljárásokban és a gépjármű időszakos vizsgálata során, továbbá a közúti forgalomban részt vevő jármű ellenőrzésekor a biztosítási fedezet fennállását, a gépjármű első forgalomba helyezésére, a forgalmi engedélybe üzembentartóval kapcsolatos bejegyzés tételére, ideiglenes forgalomban tartási engedély kiadására és meghosszabbítására irányuló közlekedési hatósági eljárások megindításakor a 49. § (1a) bekezdése szerinti ajánlat (a továbbiakban: hatályosult ajánlat) meglétét az ellenőrzésre jogosult hatóság elektronikus úton, közvetlen lekérdezéssel, a kötvénynyilvántartó szervvel számítógépes kommunikációs kapcsolat segítségével ellenőrzi. E hatósági eljárások során az ügyfél, illetve az ellenőrzés alá vont jogosult a felelősségbiztosítási szerződés fennállását az (1a) bekezdésben meghatározott igazolóeszközzel is bizonyítani.
 
@@ -1176,7 +1180,7 @@ vizsgálatára terjed ki.
 
 (4) A MABISZ, mint az e-kárbejelentő működtetője, az e feladata ellátása során megismert személyes adatot addig az időpontig kezelheti, ameddig a kárbejelentéssel kapcsolatban igény érvényesíthető.
 
-57/D. § (1) Az elkülönített szervezeti egység biztosítja, hogy a magatartására, tevékenységére vagy mulasztására vonatkozó panaszát a károsult szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+57/D. § (1) Az elkülönített szervezeti egység biztosítja, hogy a magatartására, tevékenységére vagy mulasztására vonatkozó panaszát a károsult szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) A panaszkezelésre megfelelően alkalmazni kell a Bit. 159. § (1)–(5) bekezdésében és a biztosítók, a többes ügynökök és az alkuszok panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról szóló Korm. rendeletben foglaltakat.
 

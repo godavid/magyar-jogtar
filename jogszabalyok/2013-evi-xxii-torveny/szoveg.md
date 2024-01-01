@@ -176,22 +176,13 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 
 (8) Az e § szerinti pert a polgári perrendtartásról szóló 2016. évi CXXX. törvény közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
 
-#### 3/C. A hitelesített energiamegtakarítások nyilvántartása
+#### 3/C.
 
-5/J. § Ezen alcím és a 21/A. § alkalmazásában:
+#### 5/J. §
 
-- a) energiamegtakarítás: az az energiamennyiség, amellyel az Ehat. Tv. 15. § (1) bekezdése szerinti energiamegtakarítási kötelezettség teljesítését szolgáló energiahatékonyság-javító intézkedés vagy beruházás végrehajtása után a mért vagy becsült fogyasztás az intézkedést vagy beruházást megelőző fogyasztáshoz képest csökkent,
-- b) energiamegtakarítás jogosultja: az energiahatékonyságról szóló törvény végrehajtásáról szóló kormányrendelet szerint addicionálisnak minősülő hozzájárulás nyújtását megállapító írásbeli megállapodásban az energiamegtakarítás jogosultjaként megjelölt személy, ilyen megállapodás hiányában pedig az a személy, aki az energiahatékonyság-javító intézkedés vagy beruházás végrehajtásához az addicionálisnak minősülő hozzájárulást kifejtette.
+#### 5/K. §
 
-5/K. § (1) A Hivatal online felületen – a hitelesített energiamegtakarítások nyilvántartásában – tartja nyilván az energiamegtakarításnak, valamint az energiamegtakarítás jogosultjának a Hivatal elnökének rendeletében meghatározott – személyes adatnak nem minősülő – adatait. Ezen adatokat az energiamegtakarítás Ehat. Tv. 15/A. § (4) bekezdés szerinti hitelesítését ellátó energetikai auditáló szervezet az energiamegtakarítás hitelesítését követően haladéktalanul felvezeti a Hivatal online felületén.
-
-(2) A hitelesített energiamegtakarítás jogosultjának személyében bekövetkező változást az átruházó köteles haladéktalanul bejelenteni az (1) bekezdés szerinti online felületen. A hitelesített energiamegtakarítás átruházásához a jogosult személyében bekövetkezett változásnak a nyilvántartásba való bejegyzése szükséges, az átruházás az (1) bekezdés szerinti online felületen történő bejelentéssel válik hatályossá.
-
-(3) A hitelesítést ellátó energetikai auditáló szervezet az energiamegtakarítás természetes személy jogosultjának – a személyes adatai közül – kizárólag a nevét és lakcím adatát rögzíti a hitelesített energiamegtakarítások nyilvántartásában.
-
-(4) A (3) bekezdés szerinti személyes adatot a Hivatal az Ehat. Tv. 15. § (1) bekezdése szerinti energiamegtakarítási kötelezettség teljesítése, a hitelesített energiamegtakarítással mint vagyoni értékű joggal való kereskedelem biztonsága, valamint ellenőrzési feladatainak ellátása céljából az Ehat. Tv. 12. §-ában meghatározott kötelezettségi időszak lejártát követő 5. év végéig kezeli.
-
-5/L. § A hitelesített energiamegtakarítások nyilvántartásában szereplő, egy adott évre elszámolható energiamegtakarítás adatait, ideértve a hitelesített energiamegtakarítás természetes személy jogosultjának nevét és címét a Hivatal a következő év március 31-ig az energiahatékonysági tájékoztató honlapján elérhetővé teszi.
+#### 5/L. §
 
 ### II. Fejezet — A HIVATAL SZERVEZETE ÉS GAZDÁLKODÁSA
 
@@ -382,7 +373,7 @@ a támogatására fordítható.
 - 1. a Hivatal elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettest,
 - 2. a Hivatal hatáskörébe tartozó, kérelemre indult eljárások tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.
 
-21/A. § Felhatalmazást kap a Hivatal elnöke, hogy a hitelesített energiamegtakarításról, valamint az energiamegtakarítás jogosultjáról vezetett nyilvántartás – személyes adatnak nem minősülő – adattartalmát rendeletben állapítsa meg.
+#### 21/A. §
 
 #### 9. Hatályba léptető rendelkezés
 

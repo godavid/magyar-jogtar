@@ -32,7 +32,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 
 4. § (1) A törvény hatálya kiterjed
 
-- a) a (3) bekezdésben foglalt eltéréssel Magyarország területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a letelepedett, bevándorolt, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
+- a) a (3) bekezdésben foglalt eltéréssel Magyarország területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a huzamos tartózkodási jogosultsággal rendelkező, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik;
 - c) a menedékjogról szóló törvény szerint, arra a tizennyolcadik életévét be nem töltött menedékjogi kérelmet benyújtó külföldi gyermekre – kivéve a tömeges bevándorlás okozta válsághelyzet idején a tizennegyedik életévét betöltött és tizennyolcadik életévét be nem töltött elismerését kérő kísérő nélküli kiskorúra –, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig amíg ilyen személy felügyelete alá kerül – feltéve, hogy az illető gyermek kiskorúságát a menekültügyi hatóság megállapította.
 
@@ -85,7 +85,7 @@ betöltötte, azonban a 18. – javítóintézetben történő nevelése esetén
 ha az e törvényben és más jogszabályban meghatározott feltételek szerint, gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 - sz) családbafogadó gyám: az a gyámként kirendelt személy, akinél a gyámhatóság a gyermeket ideiglenes hatállyal elhelyezte, vagy akinél a bíróság a gyermeket elhelyezte, vagy aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta, kivéve, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el, vagy akit a gyámhatóság a Ptk. 4:226. és 4:227. §-a szerint más okból rendelt ki gyámként a gyermekvédelmi gyámság alatt nem álló gyermek számára,
-- t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, bevándorolt, letelepedett, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
+- t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, huzamos tartózkodási jogosultsága, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
 - ty) megelőző pártfogó felügyelő: az a pártfogó felügyelő, akit a bűnmegelőzés érdekében a szabálysértés vagy bűncselekmény elkövetése miatt indult gyámhatósági eljárás során a pártfogó felügyelői szolgálat kijelölt a védelembe vett vagy nevelésbe vett gyermek részére.
 - u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, valamint a mini bölcsőde és a javítóintézet. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
 - v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
@@ -385,6 +385,15 @@ hivatalból jár el, e tevékenységével kapcsolatban a Büntető Törvénykön
 
 (10a) A (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsődében, mini bölcsődében, a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben és az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben – a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben meghatározott – pedagógus-munkakörben foglalkoztatott felsőfokú végzettségű (a továbbiakban: pedagógus-munkakörben foglalkoztatott) személy tekintetében e törvény bérpótlékra vonatkozó rendelkezéseit is alkalmazni kell.
 
+(10b) A pedagógus-munkakörben foglalkoztatott személy előmeneteli és illetményrendszerére
+
+- a) a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 96. § (1) bekezdését, 97. § (1)–(2) és (4)–(8) bekezdését, 98. § (1)–(2), (6) és (8) bekezdését, 104. § (3) és (4) bekezdését, 159. §-át, 160. § (2) és (6) bekezdését, és
+- b) a Kjt. 66. § (2) bekezdését, 67. §-át, 69. §-át, 70. §-át, 72. §-át, 74. §-át, 75. §-át, 77. § (1) és (2) bekezdését, 78. §-át, 78/A. §-át, 79. §-át és 79/A. §-át
+
+kell alkalmazni.
+
+(10c) A pedagógus-munkakörben foglalkoztatott személy tekintetében a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 45. § (7) és (8) bekezdését, valamint 94. § (8) és (9) bekezdését is alkalmazni kell.
+
 (11) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, heti teljes munkaideje 40 óra, amelynek 80%-a kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkozatott személy a feladatainak beosztását maga határozza meg.
 
 (11a) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsődében, mini bölcsődében történik, heti teljes munkaideje 40 óra, amelyből napi 7 óra, az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermekek (a továbbiakban: sajátos nevelési igényű gyermek), valamint a korai fejlesztésre és gondozásra jogosult gyermekek nevelését, gondozását végző speciális csoportban kisgyermeknevelőként pedagógus-munkakörben foglalkoztatott, a pszichológus, valamint a gyógypedagógus esetén napi 6 óra kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározottak szerint a gyermekek közvetlen nevelésére, gondozására kell fordítani. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy részére a bölcsődei nevelést, gondozást előkészítő, azzal összefüggő egyéb feladatok elvégzése, gyakornok szakmai segítése és eseti helyettesítés ellátása rendelhető el.
@@ -393,7 +402,7 @@ hivatalból jár el, e tevékenységével kapcsolatban a Büntető Törvénykön
 
 (13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy, ha foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
 
-(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt az Nktv. szerinti pedagógusigazolvány illeti meg.
+(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.
 
 (15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
 
@@ -402,7 +411,7 @@ hivatalból jár el, e tevékenységével kapcsolatban a Büntető Törvénykön
 - a) bejelenti az intézményt a köznevelés információs rendszerébe, és
 - b) a köznevelés információs rendszere alkalmazotti nyilvántartásába (a továbbiakban: alkalmazotti nyilvántartás) a pedagógus-munkakörben foglalkoztatottakról a pedagógus előmeneteli rendszer működtetésével összefüggésben adatot rögzít.
 
-(17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az Nktv. 44. § (7) bekezdésében foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.
+(17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1. melléklet II. pontjában foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.
 
 16. § (1) Az e törvényben meghatározott, a gyermekek védelmét biztosító hatósági feladat- és hatásköröket
 
@@ -1749,6 +1758,8 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 
 (6) A gyermek, fiatal felnőtt saját keresményéből a nevelőszülői háztartás költségeihez nem köteles hozzájárulni.
 
+(7) A nevelési ellátmány és a különleges, speciális vagy kettős szükségletű gyermek után járó magasabb összegű nevelési ellátmány legalacsonyabb összegét a központi költségvetésről szóló törvény állapítja meg.
+
 ### Gyermekotthon
 
 57. § (1) A gyermekotthon
@@ -2577,7 +2588,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 - c) a bíróság a szülői felügyelet megszüntetése, illetve a gyermek elhelyezésének megváltoztatása iránti perben jogerősen döntött,
 - d) a gyermeket családba fogadják,
 - e) a gyermeket örökbe fogadják,
-- f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek a gondozási helyéről engedély nélkül eltávozott és oda hatvan napon belül nem tért vissza.
+- f) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek a gondozási helyéről engedély nélkül eltávozott és oda hatvan napon belül nem tért vissza.
 
 (2) A gyámhatóság az ideiglenes hatályú elhelyezés során a gyermek gondozási helyét megváltoztatja, ha megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei fennállnak, azonban
 
@@ -2882,7 +2893,7 @@ számított 30 napon belül összefoglaló véleményt készít a gyermek egész
 
 - a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el a gyermeket, és pert indított a szülői felügyelet megszüntetése iránt,
 - b) a gyermek szülei hozzájárultak a gyermek ismeretlen személy által történő örökbefogadásához,
-- c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősül vagy a szülők bármilyen más okból nem gyakorolják szülői felügyeleti jogukat, és egyik esetben sem lehetséges családbafogadó gyám kirendelése,
+- c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősül vagy a szülők bármilyen más okból nem gyakorolják szülői felügyeleti jogukat, és egyik esetben sem lehetséges családbafogadó gyám kirendelése,
 - d) nevelésbe vette a gyermeket,
 - e) a gyermek ismeretlen szülőktől származik.
 
@@ -4498,7 +4509,7 @@ teszi szükségessé.
 
 - a) a munkavállalók számára legalább a Kjt. 55–80. §-ában és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket,
 - b) az a) pontban foglaltaktól eltérően a pedagógus-munkakörben foglalkoztatott munkavállalók számára legalább
-  - ba) az Nktv. és a pedagógusok előmeneteli rendszeréről és a Kjt.-nek a köznevelési intézményekben történő végrehajtásáról szóló kormányrendelet szerint – az e törvény hatálya alá tartozó intézményben pedagógus-munkakörben foglalkoztatottak tekintetében – alkalmazandó rendelkezésekben meghatározott feltételeket, továbbá
+  - ba) az e törvény, a pedagógusok új életpályájáról szóló 2023. évi LII. törvény és a pedagógusok előmeneteli rendszeréről és a Kjt.-nek a köznevelési intézményekben történő végrehajtásáról szóló kormányrendelet szerint – az e törvény hatálya alá tartozó intézményben pedagógus-munkakörben foglalkoztatottak tekintetében – alkalmazandó rendelkezésekben meghatározott feltételeket, továbbá
   - bb) e törvényben, valamint a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben a pedagógus-munkakörben foglalkoztatott személyek tekintetében meghatározott feltételeket
 
 köteles biztosítani.

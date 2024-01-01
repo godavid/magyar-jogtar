@@ -53,11 +53,11 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 4. § (1) Támogatásban részesíthető a fél, ha
 
 - a) magyar állampolgár;
-- b) vízum kiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban, valamint a menekültügyi eljárásban részt vevő személy;
+- b) vízum kiadása, tartózkodási engedély vagy huzamos tartózkodási jogosultság megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban, valamint a menekültügyi eljárásban részt vevő személy;
 - c) nem magyar állampolgár, az államának Magyarországgal kötött nemzetközi megállapodása vagy viszonosság alapján;
 - d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik;
-- e) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik Magyarország területén, az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény hatálya alá tartozik, azonban lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel nem rendelkezik Magyarország területén, és akivel szemben az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasító határozatot hozott;
+- e) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) hatálya alá tartozik, és lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik Magyarország területén, az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+- f) a Btátv. hatálya alá tartozik, azonban lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel nem rendelkezik Magyarország területén, és akivel szemben az idegenrendészeti hatóság a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasító határozatot hozott;
 - g) humanitárius célú tartózkodási engedéllyel rendelkezik.
 
 (2) A viszonosság fennállása tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter) nyilatkozata irányadó.
@@ -72,7 +72,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b) közgyógyellátásban részesül vagy természetben nyújtott szociális ellátásként egészségügyi szolgáltatásra való jogosultságot megállapító érvényes hatósági bizonyítvánnyal rendelkezik,
 - c) átmeneti szállást igénybe vevő hajléktalan személy,
 - d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, valamint a dublini átadás végrehajtása érdekében menekültügyi őrizetbe vett külföldi, a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult,
-- e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
+- e) vízumkiadása, tartózkodási engedély vagy huzamos tartózkodási jogosultság megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
 - f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
 - g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér a 4/2009/EK tanácsi rendelet 56. cikke szerinti, vagy a gyermektartás és a családi tartások egyéb formáinak nemzetközi behajtásáról szóló, 2007. november 23-i hágai egyezmény (a továbbiakban: hágai tartási egyezmény) 15. cikkében meghatározott jogosultként kér a 10. cikk szerinti eljárás lefolytatásához jogi segítséget,
 - h) a 4. § (1) bekezdés f) pontjának hatálya alá tartozik.
@@ -241,7 +241,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - d) a támogatás visszatérítésére kötelezés,
 - e)
 
-(3) A jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.
+(3) A jogi segítségnyújtó szolgálat a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.
 
 ### Adatváltozás bejelentése
 
@@ -366,7 +366,7 @@ egyéb tanácsadás
 - d) a jogi szolgáltatás igénybevételének határidejét,
 - e) a támogatás összegének állam részére történő visszatérítésére való kötelezést, ha a fél helyett az állam a jogi szolgáltatás díját csak előlegezi.
 
-(2) Ha a jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.
+(2) Ha a jogi segítségnyújtó szolgálat a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.
 
 (3) A (2) bekezdés alapján kirendelt tolmács díjazására a közigazgatási hatósági eljárásban közreműködő tolmácsok díjazásáról szóló jogszabályban foglaltakat kell alkalmazni.
 
@@ -740,6 +740,10 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 - d) a jogi segítő tevékenységének gyakorlása jogszabály megkerülésére vagy jogszabályba ütköző célra irányul, vagy ilyen jogügyletben működik közre.
 
 (3a) A (3) bekezdés a) pont szerinti azon feltételt, hogy a jogi segítő – vagy más ügyvéd megbízottal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd – fegyelmi felelősségét megállapították, a jogi segítségnyújtó szolgálat megkeresésére az ügyvédi kamara a 66. § (4c) bekezdésében meghatározottak szerint igazolja.
+
+(3b) Ha a jogi segítségnyújtó szolgálat a jogi segítőt a 71. § (3) bekezdésben foglalt okból törli a névjegyzékből, a jogi segítőt a szerződés felmondásától számított további három évig nem lehet ismételten felvenni a névjegyzékbe.
+
+(3c) Az a jogi segítő, akinek a szolgáltatási szerződése a 71. § (3) bekezdés szerint felmondásra került, a felmondástól számított három évig nem köthet jogi segítő szervezettel jogi szolgáltatásra irányuló megbízási szerződést.
 
 (4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.
 
