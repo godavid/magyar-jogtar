@@ -569,7 +569,7 @@ az eljárás lefolytatásáért fizetendő illetéknek vagy az illetékekről sz
 
 #### 52. § [A határidő számítása]
 
-(1) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének, valamint a közhírré tétel napja.
+(1) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény honlapon történő közzétételének és levételének, valamint a közhírré tétel napja.
 
 (2) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján.
 
@@ -956,7 +956,7 @@ A hatóság a döntést azonnal végrehajthatónak nyilvánítja, ha
 (5) Ha törvény vagy kormányrendelet másként nem rendelkezik, a döntés közlésének napja
 
 - a) az a nap, amelyen azt írásban vagy szóban közölték, vagy
-- b) a hirdetmény kifüggesztését követő tizenötödik nap.
+- b) a hirdetmény honlapon történő közzétételét követő tizenötödik nap.
 
 (6) A hatóság védelmi helyzet elrendelésének alapjául szolgáló ok, életveszéllyel vagy súlyos kárral fenyegető helyzet esetén a döntést az ügyféllel szóban vagy a döntés tartalmának megismerésére alkalmas egyéb módon közli, amiről a hatóság feljegyzést készít. A hatóság a döntést utólag írásban közli. A döntés közlésének napja ilyenkor – kizárólag a jogorvoslati határidők számításának szempontjából – az írásbeli közlés napja.
 
@@ -1012,13 +1012,13 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 (2) A hirdetmény tartalmazza
 
-- a) a kifüggesztés, a honlapon történő közzététel esetén a közzététel napját,
+- a) a honlapon történő közzététel esetén a közzététel napját,
 - b) az eljáró hatóság megnevezését,
 - c) az ügy számát és tárgyát,
 - d) az ügyfél nevét és utolsó ismert lakcímét (székhelyét), továbbá
 - e) azt a figyelemfelhívást, hogy a hatóság az ügyben döntést hozott, de annak kézbesítése akadályba ütközött, ezért az ügyfél vagy képviselője a döntést a hatóságnál átveheti.
 
-(3) A hirdetményt a hatóság hirdetőtábláján, valamint a honlapján helyezi el.
+(3) A hirdetményt a hatóság a honlapján helyezi el.
 
 #### 89. § [Közhírré tétel]
 
@@ -1027,7 +1027,7 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 - a) a döntés rendelkező részét és indokolásának kivonatát, valamint
 - b) azt a figyelemfelhívást, hogy a döntés a hatóságnál megtekinthető.
 
-(2) A közleményt a hatóság a hirdetőtábláján, valamint a honlapján helyezi el.
+(2) A közleményt a hatóság a honlapján helyezi el.
 
 (3) A hatóság közhírré teszi azt a véglegessé vált vagy azonnal végrehajthatóvá nyilvánított döntést,
 
@@ -1335,11 +1335,15 @@ végzés ellen.
 
 (1) Ha a keresetlevél alapján a hatóság megállapítja, hogy döntése jogszabályt sért, azt módosítja vagy visszavonja.
 
-(2) Ha a keresetlevélben foglaltakkal egyetért és az ügyben nincs ellenérdekű ügyfél, a hatóság a nem jogszabálysértő döntést is visszavonhatja, illetve a keresetlevélben foglaltaknak megfelelően módosíthatja.
+(2) Ha a keresetlevélben foglaltakkal egyetért és az ügyben nincs ellenérdekű ügyfél vagy az ügyfelek közösen terjesztenek elő keresetlevelet, a hatóság a nem jogszabálysértő döntést is visszavonhatja, illetve a keresetlevélben foglaltaknak megfelelően módosíthatja.
 
 (3) Ha a szakhatóság a keresetlevél alapján módosítja állásfoglalását, a hatóság a döntését ennek megfelelően módosítja vagy visszavonja.
 
 (4) A döntést visszavonni, módosítani egy ízben lehet.
+
+(5) A hatóság a támadott döntést módosító vagy visszavonó döntését közli az ügyféllel, aki nyolc napon belül nyilatkozhat arról, hogy a döntés módosítását vagy visszavonását elfogadja.
+
+(6) A védirat előterjesztésétől a közigazgatási pert befejező határozat jogerőssé válásáig a támadott hatósági döntés csak a keresetlevélben foglaltaknak megfelelően módosítható vagy vonható vissza, más okból jogorvoslati eljárásnak nincs helye.
 
 #### 62. Fellebbezés
 
@@ -1403,7 +1407,7 @@ hozta.
 
 #### 120. § [A döntés módosítása vagy visszavonása]
 
-(1) Ha a hatóság megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől – számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
+(1) Ha a hatóság megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől – számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja. A módosítás vagy visszavonás keresettel támadott döntés esetében a védirat továbbítását követően kizárólag a 115. § (6) bekezdése szerint lehetséges.
 
 (2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a döntést a hatósági igazolványba és bizonyítványba felvett téves bejegyzés kivételével nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
@@ -1416,7 +1420,7 @@ hozta.
 - a) megteszi a szükséges intézkedést a jogszabálysértő mulasztás felszámolására, illetve
 - b) gyakorolja a (2) bekezdésben szabályozott felügyeleti jogkört.
 
-(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől számított egy éven belül, a (3) bekezdésben meghatározott időtartamon túl is – azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja.
+(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől számított egy éven belül, a (3) bekezdésben meghatározott időtartamon túl is – azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja. A megváltoztatás vagy megsemmisítés keresettel támadott döntés esetében a védirat továbbítását követően kizárólag a 115. § (6) bekezdése szerint lehetséges.
 
 (3) A hatóság döntése nem változtatható meg és nem semmisíthető meg, ha
 
@@ -1490,6 +1494,8 @@ Eljárási költség mindaz a költség, ami az eljárás során felmerül.
 (1) A megkeresett szerv vagy személy eljárása során felmerült eljárási költséget a megkereső hatóság megtéríti.
 
 (2) Az eljáró hatóság viseli a nyelvhasználat 21. § (1) bekezdése alapján felmerült fordítási és tolmácsolási költségét.
+
+(3) Ha a hatóság a keresetlevél alapján módosítja vagy visszavonja a döntését, akkor viseli a keresetlevél előterjesztésével kapcsolatban felmerült ügyféli költségeket.
 
 #### 69. Az eljárási költség előlegezése
 

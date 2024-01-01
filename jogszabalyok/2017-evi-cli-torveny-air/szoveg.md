@@ -563,7 +563,7 @@ Az adóhatóság a kérelmet nyolc napon belül végzéssel visszautasítja, ha
 
 #### 52. § [A határidő számítása]
 
-(1) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, valamint a hirdetmény kifüggesztésének és levételének napja.
+(1) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, valamint a hirdetmény honlapon történő közzétételének és levételének napja.
 
 (2) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján.
 
@@ -895,7 +895,7 @@ Az adóhatóság az adóügy érdemében határozattal, az eljárás során eld�
 (3) Ha törvény vagy kormányrendelet másként nem rendelkezik, a döntés közlésének napja
 
 - a) az a nap, amelyen azt írásban vagy szóban közölték, vagy
-- b) a hirdetmény kifüggesztését követő tizenötödik nap.
+- b) a hirdetmény honlapon történő közzétételét követő tizenötödik nap.
 
 #### 77. § [Saját kézbesítő útján történő kézbesítés]
 

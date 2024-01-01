@@ -439,7 +439,7 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (3) Az (1) és (2) bekezdés szerinti esetekben a kincstár törzskönyvi nyilvántartás vezetésével kapcsolatos eljárása során az ügyintézési határidő tíz nap. Ha a kincstár hiánypótlási felhívást bocsát ki, annak teljesítésére legfeljebb ötnapos határidőt állapíthat meg. A kincstár eljárására egyebekben az e törvényben foglaltakat kell alkalmazni.
 
-11/F. § (1) A feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a honvédelmi alkalmazottak jogállásáról szóló törvény, az egészségügyi szolgálati jogviszonyról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény, a kormányzati igazgatásról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – a feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+11/F. § (1) A feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a honvédelmi alkalmazottak jogállásáról szóló törvény, az egészségügyi szolgálati jogviszonyról szóló törvény, a pedagógusok új életpályájáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény, a kormányzati igazgatásról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – a feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
 
 (2) Az (1) bekezdés szerinti jogállásváltozásról az érintetteket az átvevő költségvetési szerv a jogállásváltozás időpontját megelőző tizenöt napon belül tájékoztatja. Ha eddig a határidőig az átvevő költségvetési szerv még nincs nyilvántartásba véve, abban az esetben az átvételi felelős tájékoztatja az érintetteket.
 
@@ -554,9 +554,9 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 
-(6) A beruházások megvalósítását, továbbá az ingatlanszerzés teljes vagy részbeni fedezetének biztosítására Beruházási Alap megjelöléssel – központi kezelésű előirányzatként – létrehozott tartalék (a továbbiakban: Beruházási Alap) szolgál, aminek a terhére az államháztartásért felelős miniszter a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre a 36. § (4h) bekezdésen kívüli előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
+(6) A beruházások megvalósítását, továbbá az ingatlanszerzés teljes vagy részbeni fedezetének biztosítására Beruházási Alap megjelöléssel – központi kezelésű előirányzatként – létrehozott tartalék (a továbbiakban: Beruházási Alap) szolgál, aminek a terhére az állami beruházásokért felelős miniszter – az államháztartásért felelős miniszter egyidejű tájékoztatása mellett – a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre a 36. § (4h) bekezdésen kívüli előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
 
-(7) A Beruházási Alap terhére történő forrásbiztosítási folyamat részletes szabályait, így különösen a forrás igénylésének rendjét, a forrásigény indokoltságának megalapozására irányuló követelményeket, a forrásbiztosítási folyamat lépéseit és határidőit az államháztartásért felelős miniszter által meghatározott eljárásrend tartalmazza, amelyről elektronikus úton tájékoztatja az érintett szervezeteket.
+(7) A Beruházási Alap terhére történő forrásbiztosítási folyamat részletes szabályait, így különösen a forrás igénylésének rendjét, a forrásigény indokoltságának megalapozására irányuló követelményeket, a forrásbiztosítási folyamat lépéseit és határidőit az állami beruházásokért felelős miniszter által meghatározott eljárásrend tartalmazza, amelyről elektronikus úton tájékoztatja az érintett szervezeteket.
 
 #### 13. A központi költségvetésről szóló törvény elfogadása
 
@@ -765,36 +765,43 @@ céljára használható fel olyan módon, hogy az államháztartásért felelős
 - g) adósságszolgálattal kapcsolatos kiadás,
 - h) a jegybanki alapkamat előző évi átlagától függő költségvetési kiadás.
 
-33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére, valamint az előirányzat nevének módosítására a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
+33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot és jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
 
-(1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére.
+(1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére, valamint az előirányzat nevének módosítására.
 
-(2) A központi költségvetésről szóló törvény, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény és e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.
+(2) A központi költségvetésről szóló törvény, valamint e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.
 
-(3) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a fejezetet irányító szerv az általa irányított fejezetbe sorolt
+(3) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a nem a Kormány irányítása alá tartozó fejezet esetében a fejezetet irányító szerv az általa irányított fejezetbe sorolt
 
-- a) költségvetési szervek kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges,
-- b) fejezeti kezelésű előirányzatok, és elkülönített állami pénzalapok kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha
+- a) költségvetési szervek kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges, vagy
+- b) fejezeti kezelésű előirányzatok kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha
   - ba) azokon megtakarítás keletkezik,
   - bb) az előirányzat-átcsoportosítás a közfeladatok változásával kapcsolatban szükséges,
   - bc) a fejezeti általános tartalék fejezeten belüli előirányzat-átcsoportosítása előre nem valószínűsíthető és nem tervezhető költségvetési kiadás teljesítéséhez szükséges,
   - bd) az az államháztartás központi alrendszerébe tartozó költségvetési szerv részére költségvetési támogatás biztosításával kapcsolatban szükséges, vagy
   - be) elkülönített állami pénzalap és fejezeti kezelésű előirányzat javára feladatátadással kapcsolatban szükséges.
 
-(3a) Az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti, a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításról a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett.
+(3a) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a Kormány irányítása alá tartozó fejezet esetében a fejezetet irányító szerv az általa irányított fejezetbe sorolt kiadási előirányzat terhére – az államháztartásért felelős miniszter a Kormány rendeletében meghatározottak szerint teljesítendő tájékoztatása mellett – előirányzat-átcsoportosítást hajthat végre. Ha az előirányzat-átcsoportosítással érintett előirányzaton megtakarítás keletkezik, vagy az előirányzat-átcsoportosítás a közfeladatok változásával kapcsolatban szükséges, az előirányzat-átcsoportosítással szemben az államháztartásért felelős miniszter – az előirányzat-átcsoportosítás megalapozatlansága esetén – a Kormány rendeletében meghatározottak szerint kifogással élhet a költségvetési szerv kiadási előirányzatai terhére végrehajtott előirányzat-átcsoportosítás kivételével.
 
-(4) A (3) bekezdés alapján
+(3b) Az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti, a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításról a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett. A középirányító szerv általi előirányzat-átcsoportosításról a fejezetet irányító szerv a Kormány rendeletében meghatározottak szerint tájékoztatja az államháztartásért felelős minisztert.
 
-- a) fejezeten belüli előirányzat-átcsoportosításra a fejezetet irányító szerv egyoldalú jognyilatkozata alapján,
-- b) fejezetek közötti előirányzat-átcsoportosításra az érintett fejezetet irányító szervek megállapodása alapján
+(4) A (3) és (3a) bekezdés alapján
 
-kerülhet sor.
+- a) fejezeten belüli előirányzat-átcsoportosításra, valamint ha az előirányzat-átcsoportosítással érintett fejezetek fejezetet irányító szervének vezetője azonos személy, fejezetek közötti átcsoportosításra a fejezetet irányító szerv vezetőjének egyoldalú írásbeli jognyilatkozata, vagy
+- b) az a) pont hatálya alá nem tartozó fejezetek közötti előirányzat-átcsoportosításra az érintett fejezetet irányító szervek vezetőinek írásbeli megállapodása
 
-(4a) A (3) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
+alapján kerülhet sor.
 
-(4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó fejezeten belüli, (3) bekezdés szerinti előirányzat-átcsoportosításhoz, ha az a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatai terhére történik.
+(4a) A (3a) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
 
-(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításhoz. A Kormány irányítása alá tartozó fejezetek közötti, a (3) bekezdés a) pontja, valamint a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
+(4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó fejezeten belüli, (3a) bekezdés szerinti előirányzat-átcsoportosításhoz, ha az
+
+- a) a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzata, vagy
+- b) az európai uniós forrásból finanszírozott költségvetési támogatások teljesítésére szolgáló előirányzat
+
+terhére történik.
+
+(5)
 
 (6) A kincstár a központi költségvetésről szóló törvény szerinti szerkezetben és bontásban havonta közzéteszi a honlapján az államháztartás központi alrendszerébe tartozó költségvetési szervek, továbbá a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai eredeti előirányzatait, módosított előirányzatait, valamint teljesítési adatait.
 
@@ -856,7 +863,7 @@ vállalható.
 
 (4g) A Kormány a (4f) bekezdés szerint adott felhatalmazása a tárgyévi és éven túli kötelezettségek együttes összegét tartalmazza, továbbá a felhatalmazásnak a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésen – így különösen kivitelezési szerződésen – kell alapulnia.
 
-(4h) A (4g) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az államháztartásért felelős minisztert írásban tájékoztatja.
+(4h) A (4g) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az állami beruházásokért felelős minisztert, valamint az államháztartásért felelős minisztert írásban tájékoztatja.
 
 (4i) A Kormány által adott felhatalmazás kiterjedhet a Beruházási Alappal érintett beruházások előkészítésére, továbbá az e beruházásokhoz közvetlenül szükséges ingatlanszerzésre is. Ebben az esetben a (4g) és (4h) bekezdésben foglaltakat a beruházás előkészítésére, valamint az ingatlanszerzésre irányuló szerződésre kell alkalmazni.
 
@@ -1225,6 +1232,10 @@ szerint ellenőrzi.
 #### 39/A. Nyilvánosság
 
 56/B. § (1) A kincstár monitoringrendszert működtet a költségvetési támogatásokról és a költségvetési támogatásnak nem minősülő csekély összegű támogatásokról, valamint közreműködik a támogatások felhasználásának összehangolásában.
+
+(1a) Az 56/C. § (1) bekezdése szerinti adatátadás és kifizetés adatkörének egyezőségét és megfelelőségét emberi beavatkozás nélküli, gépi úton kell biztosítani.
+
+(1b) Az (1a) bekezdésben meghatározottak érvényesítése érdekében a kincstár által vezetett nyilvántartások összekapcsolhatók, amelynek során biztosítani kell, hogy az ehhez szükséges adatok összekapcsolása kizárólag emberi beavatkozás nélkül, gépi úton valósuljon meg és sem üzemszerű működés, sem rendkívüli esemény során ne jöhessen létre olyan összekapcsolt, ember számára értelmezhető adatokat tartalmazó nyilvántartás, amely a kincstár részére egyes feladatainak ellátáshoz meghatározott célokon túlmenően többlethozzáférést biztosítana az (1a) bekezdésben meghatározottak érvényesítését nem szolgáló adatokhoz.
 
 (2) A monitoringrendszerben nem, vagy hibásan, vagy hiányosan rögzített támogatási döntés alapján az (1) bekezdés szerinti támogatás érvényesen nem nyújtható. E bekezdés alkalmazásában hibásan rögzített támogatási döntésnek minősül az az adatrögzítés, amelynél számítási hiba vagy más hasonló elírás miatti kijavításnak van helye.
 
@@ -1829,7 +1840,7 @@ eredményeképpen keletkeztek.
 
 (3) Az önkéntes teljesítésre történő felhíváson kívül a központi költségvetésről szóló törvényben megállapított értékhatárt el nem érő kis összegű követelést behajtásra előírni nem kell.
 
-98. § A jogszabályban meghatározott családok otthonteremtési kedvezményével, lakásépítési kedvezménnyel, fiatalok otthonteremtési támogatásával, megelőlegező kölcsönnel, valamint – jogszabályban meghatározott esetben – kiegészítő kamattámogatással összefüggésben az állam javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni. A jogszabályban meghatározott kiegészítő kamattámogatással, megelőlegező kölcsönnel összefüggésben a hitelintézet javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
+98. § A jogszabályban meghatározott családok otthonteremtési kedvezményével, családi otthonteremtési kedvezménnyel, családok otthonteremtési kamattámogatásával és a családok otthonteremtési kamattámogatásával érintett kölcsönhöz kapcsolódó gyermekvállalási támogatással, lakásépítési kedvezménnyel, fiatalok otthonteremtési támogatásával, megelőlegező kölcsönnel, valamint – jogszabályban meghatározott esetben – kiegészítő kamattámogatással összefüggésben az állam javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni. A jogszabályban meghatározott kiegészítő kamattámogatással, megelőlegező kölcsönnel, családok otthonteremtési kamattámogatásával érintett kölcsönnel összefüggésben a hitelintézet javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
 
 99. § Ha az Európai Bizottság tiltott állami támogatás visszafizettetését rendeli el, a visszafizetendő összeg adók módjára behajtandó követelésnek minősül.
 

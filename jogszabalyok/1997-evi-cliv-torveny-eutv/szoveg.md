@@ -69,7 +69,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - p) egészségügyi dokumentáció: az egészségügyi szolgáltatás során az egészségügyi dolgozó tudomására jutó, a beteg kezelésével kapcsolatos egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
 - q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, szakképzés keretében megszerzett szakképesítés vagy szakképzettség, egészségügyi ágazati képzés keretében megszerzett szakképesítés, felsőfokú szakképzésben megszerzett szakképesítés felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
 - r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér, valamint az élettárs;
-- s) magyar állampolgár: a magyar állampolgársággal, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), a letelepedett, valamint a bevándorolt jogállású személy, továbbá a külön jogszabály értelmében menekültnek vagy oltalmazottnak minősülő személy;
+- s) magyar állampolgár: a magyar állampolgársággal, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), a huzamos tartózkodási jogosultsággal rendelkező személy, továbbá a külön jogszabály értelmében menekültnek vagy oltalmazottnak minősülő személy;
 - t) cselekvőképtelen: az a személy, akit a bíróság a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerint cselekvőképességét teljesen korlátozó gondnokság alá helyezett, továbbá a tizennegyedik életévét be nem töltött kiskorú és a cselekvőképtelen állapotban lévő személy;
 - u) gazdasági célú letelepedés: a külföldiek magyarországi befektetéseiről szóló törvény szabályainak megfelelő letelepedés;
 - v) egészségügyi szakma: a q) pontban meghatározott egészségügyi szakképesítéssel, továbbá jogszabályban meghatározott szakmai (személyi és tárgyi) minimumfeltételekkel ellátható olyan egészségügyi szolgáltatások összessége, mely szerepel az egészségügyi szakmai kódjegyzékben;
@@ -1301,7 +1301,7 @@ azzal, hogy az adatkezelés során olyan titkosítási módszert kell alkalmazni
 74/N. § (1) A 74/C. § (1) bekezdése szerinti körülmény fennállásakor, a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény, valamint a szakképző intézmény a köznevelési szerv, valamint a szakképzési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel, illetve a szakképző intézménnyel
 
 - a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti munkaviszonyban álló, vagy
-- b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti közalkalmazotti jogviszonyban álló
+- b) a köznevelési foglalkoztatotti jogviszonyban álló
 
 személyek TAJ számát, akik a munkakörükbe tartozó – így a köznevelési intézmény esetében különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény, illetve a szakképző intézmény területén látják el.
 
@@ -1311,7 +1311,7 @@ személyek TAJ számát, akik a munkakörükbe tartozó – így a köznevelési
 
 (4) A köznevelési szerv, valamint a szakképzési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a 74/C. § (1) bekezdése szerinti kormányrendelet hatálya alatt kezeli.
 
-(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.
+(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy köznevelési foglalkoztatotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.
 
 74/O. § (1) Az EESZT működtetője a 74/C. § (1) bekezdése szerinti fertőzés megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel az érintettek TAJ számának összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv számára az adat megismerhetővé tételének napján az oltottsággal vagy védettséggel rendelkező személyeknek a fertőzés elleni védőoltás tényére vagy a védettségi időtartamra vonatkozó adatát.
 
@@ -1320,7 +1320,7 @@ személyek TAJ számát, akik a munkakörükbe tartozó – így a köznevelési
 74/P. § (1) A 74/C. § (1) bekezdése szerinti körülmény fennállása esetén a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény a köznevelési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel
 
 - a) az Mt. szerinti munkaviszonyban álló, vagy
-- b) a Kjt. szerinti közalkalmazotti jogviszonyban álló
+- b) a köznevelési foglalkoztatotti jogviszonyban álló
 
 személyek TAJ számát, akik a munkakörükbe tartozó – különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény területén látják el.
 
@@ -1432,7 +1432,7 @@ alapul.
 - b) a szűrővizsgálat várhatóan eredményes és egyszerűen kivitelezhető,
 - c) a szűrést követő hatékony terápia alkalmazásának feltételei adottak.
 
-(3) A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti, 0–18 év közötti szűrővizsgálatok kötelezőek. A szűrővizsgálatra kötelezett kiskorú személy részvételéről a szűrővizsgálaton a törvényes képviselő köteles gondoskodni. Ha e kötelezettségének a törvényes képviselő nem tesz eleget, az egészségügyi államigazgatási szerv a szűrővizsgálatot határozattal elrendeli. A szűrővizsgálatot elrendelő határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
+(3) A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti, 0–18 év közötti szűrővizsgálatok kötelezőek. A szűrővizsgálatra kötelezett kiskorú személy szűrővizsgálaton történő részvételéről a törvényes képviselő köteles gondoskodni. Ha e kötelezettségének a törvényes képviselő nem tesz eleget, az egészségügyi államigazgatási szerv a szűrővizsgálatot határozattal elrendeli. A szűrővizsgálatot elrendelő határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
 
 (4) A (3) bekezdésben foglaltakon túl más szűrővizsgálat igénybevételét jogszabály kedvezményekkel ösztönözheti; a szűrővizsgálaton való részvétel elmulasztása esetén – az egészségi állapotot hátrányosan nem befolyásoló – kedvezményeket megvonhat.
 

@@ -16,7 +16,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 - a) a Magyarország területén élő
   - aa) magyar állampolgárra,
-  - ab) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, oltalmazottként vagy hontalanként elismert személyekre,
+  - ab) huzamos tartózkodási jogosultsággal rendelkező, továbbá a magyar hatóság által menekültként, oltalmazottként vagy hontalanként elismert személyekre,
   - ac) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
   - ad) – az anyasági támogatás kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
   - ae) – az anyasági támogatás kivételével – a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárra,
@@ -43,7 +43,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - a) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 - b) intézetben született újszülött: az az újszülött, akinek születését az anyakönyvi eljárásról szóló 2010. évi I. törvény 61. § (3) bekezdése szerint jelentik be az illetékes anyakönyvvezetőnek;
 - c)
-- d) kereső tevékenység: munkaviszonyban, közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban politikai szolgálati, biztosi, kormányzati szolgálati, közszolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, bírói, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység;
+- d) kereső tevékenység: munkaviszonyban, közalkalmazotti, köznevelési foglalkoztatotti, egészségügyi szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban politikai szolgálati, biztosi, kormányzati szolgálati, közszolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, bírói, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység;
 - e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
 - f) tartósan beteg, illetve súlyosan fogyatékos személy:
   - fa) az a tizennyolc évesnél fiatalabb gyermek, aki a külön jogszabályban meghatározott betegsége, illetve fogyatékossága miatt állandó vagy fokozott felügyeletre, gondozásra szorul,
@@ -95,7 +95,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 - a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a gyámhatóság által a szülői ház elhagyását engedélyező határozatban megjelölt személy
   - aa) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évének november 1-jétől a tankötelezettség teljes időtartamára, valamint
-  - ab) a tankötelezettsége megszűnését követően köznevelési intézményben vagy szakképző intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
+  - ab) a tankötelezettsége megszűnését követően köznevelési intézményben vagy szakképző intézményben tanulói jogviszony keretében tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
 - b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló,
   - ba) tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára,
   - bb) a tankötelezettsége megszűnését követően köznevelési intézményben vagy szakképző intézményben tanulmányokat folytató gyermekre tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek a tizennyolcadik életévét betölti.
@@ -373,7 +373,7 @@ közös szabályai
 
 36. § A családtámogatási ellátással kapcsolatos eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
-36/A. § (1) A családtámogatási ügyben eljáró hatóság részére adatot szolgáltat
+36/A. § (1) Az igényelbíráló szerv részére adatot szolgáltat
 
 - a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (3) bekezdése szerinti szerv a köznevelési intézmény tanulója tanulói jogviszonyának,
 - b) a szakképzési államigazgatási szerv a szakképző intézmény tanulója tanulói jogviszonyának, és
@@ -381,7 +381,7 @@ közös szabályai
 
 fennállásáról, szüneteléséről és megszűnéséről.
 
-(2) Az adatok átadásának módjáról a központi családtámogatási szerv és az (1) bekezdés alapján adatszolgáltatásra köteles szerv egymással megállapodást köt.
+(2) Az adatok átadásának módjáról a központi családtámogatási szerv, illetve a családtámogatási kifizetőhely és az (1) bekezdés alapján adatszolgáltatásra köteles szerv egymással megállapodást köt.
 
 (3) Jogszabályban meghatározott módon kell igazolni a tanulmányok köznevelési intézményben vagy szakképző intézményben történő folytatását
 
@@ -392,7 +392,7 @@ fennállásáról, szüneteléséről és megszűnéséről.
 
 (2) A családtámogatási ellátásokat kormányrendeletben meghatározottak szerint kell folyósítani.
 
-(3)
+(3) Biztonságos kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a családtámogatási ügyben eljáró hatóság, valamint a központi családtámogatási szerv a döntését és az általa kiállított más iratot vagy értesítést – a választott kapcsolattartási formára tekintet nélkül – az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha ezt az ügyfél az ügyintézési rendelkezésében nem zárta ki. A kézbesítésre az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (4) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kézbesítés második sikertelen megkísérlését követően a küldemény nem minősül kézbesítettnek, és a családtámogatási ügyben eljáró hatóság, illetve a központi családtámogatási szerv postai úton intézkedik az irat vagy értesítés kézbesítéséről.
 
 (4)
 
@@ -484,12 +484,12 @@ fennállásáról, szüneteléséről és megszűnéséről.
 
 ### VI. Fejezet — ADATVÉDELEM
 
-45. § (1) Az igényelbíráló szerv – ideértve a családtámogatási ügyben eljáró hatóság vezetőjét is a méltányossági jogkörének gyakorlása során –, valamint a központi családtámogatási szerv természetes személyről adatokat a családtámogatási ellátások megállapítása, folyósítása és ellenőrzése céljából – TAJ számon – tart nyilván.
+45. § (1) Az igényelbíráló szerv – ideértve a családtámogatási ügyben eljáró hatóság vezetőjét is a méltányossági jogkörének gyakorlása során –, valamint a központi családtámogatási szerv természetes személyről adatokat a családtámogatási ellátások megállapítása, folyósítása, ellenőrzése, valamint a jogalap nélkül felvett ellátások visszakövetelése céljából – TAJ számon – tart nyilván.
 
 (2) Az (1) bekezdésben meghatározott célra az alábbi személyes adatok tarthatók nyilván:
 
 - a) a jogosult, az ellátásra jogosító gyermek, továbbá a jogosult házastársának, bejegyzett élettársának, élettársának természetes személyazonosító adatai;
-- b) a jogosult állampolgárságára, illetőleg bevándorolt, letelepedett vagy menekült jogállására vonatkozó adat;
+- b) a jogosult állampolgárságára, illetőleg huzamos tartózkodási jogosultságára vagy menekült jogállására vonatkozó adat;
 - c) a jogosult családi állapotára, élettársi kapcsolatára vonatkozó adat;
 - d) az ellátásra jogosító gyermek tanulói, hallgatói jogviszonyára vonatkozó adat;
 - e) a jogosult, a jogosult házastársa, bejegyzett élettársa, élettársa és az ellátásra jogosító gyermek lakó-, illetőleg tartózkodási helyére vonatkozó adat;
@@ -498,6 +498,7 @@ fennállásáról, szüneteléséről és megszűnéséről.
 - h) az ellátásra jogosító gyermek tartós betegségére, súlyos fogyatékosságára vonatkozó adat;
 - i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat;
 - j) a 2. § c) pont cb) alpontjában meghatározott személy nevére a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvány” sorszámára vonatkozó adat.
+- k) a jogalap nélkül felvett családtámogatási ellátásokkal kapcsolatban fennálló követelések keresetből történő levonása esetén a fizetésre kötelezett személy foglalkoztatójának neve, székhelye és adószáma.
 
 (2a) A (2) bekezdés h) pontja szerinti adatkör tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
@@ -552,6 +553,7 @@ fennállásáról, szüneteléséről és megszűnéséről.
 - g) a nevelési-oktatási intézmény a feladatkörébe tartozó támogatások, kedvezmények megállapításához szükséges adatokat,
 - h) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a központi családtámogatási szerv által kibocsátott, az utazási kedvezményre való jogosultságot igazoló hatósági igazolványon szereplő személyekre vonatkozóan az ellenőrzéshez szükséges adatokat,
 - i) az állami foglalkoztatási szerv a gyermekek után járó támogatások lekérdezése, nyilvántartásba vétel, ellátás megállapítása érdekében szükséges adatokat
+- j) a nyomozó hatóság a törvényben meghatározott feladatainak ellátása érdekében szükséges adatokat
 
 közvetlen lekérdezéssel díjmentesen elérheti.
 

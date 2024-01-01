@@ -45,7 +45,7 @@ szabályai szerint kell alkalmazni.
 4. § E törvény alkalmazásában:
 
 - 1. Belföldi:
-  - 1.1. Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személy,
+  - 1.1. Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a huzamos tartózkodási jogosultsággal rendelkező, valamint a menekültként vagy oltalmazottként elismert személy,
   - 1.2. a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
   - 1.3. a hontalan.
 - 2. Egyéni vállalkozó:
@@ -116,6 +116,7 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
   - 21.3. az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, a gépjárművezető-képző munkaközösség, az oktatói munkaközösség tagja,
   - 21.4. az egyéni cég tagja,
   - 21.5. 21.5. a betéti társaság, a közkereseti társaság és a korlátolt felelősségű társaság olyan természetes személy tagja, aki a társaság ügyvezetését nem munkaviszony alapján látja el, kivéve, ha az 1. alpont szerint társas vállalkozónak minősül.
+- 22. Nemzetgazdasági szintű bruttó átlagkereset: a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, teljes munkaidőben alkalmazásban állókra tekintettel megállapított bruttó átlagkereset.
 
 ### III. Fejezet — A TÁRSADALOMBIZTOSÍTÁS ELLÁTÁSAI ÉS AZ ELLÁTÁSRA JOGOSULTAK
 
@@ -152,7 +153,7 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
 
 6. § (1) E törvény alapján biztosított a kiegészítő tevékenységet folytató személynek nem minősülő
 
-- a) munkaviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, szerződéses határvadász jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, tisztjelölti szolgálati jogviszonyban, rendvédelmi tisztjelölti szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ügyészségi szolgálati jogviszonyban, bírói szolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, nevelőszülői foglalkoztatási jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, vendégoktatói ösztöndíjas jogviszonyban, közfoglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona, a honvédelmi alkalmazott, az országgyűlési képviselő, a nemzetiségi szószóló (a továbbiakban együtt: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik,
+- a) munkaviszonyban, közalkalmazotti jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, szerződéses határvadász jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, tisztjelölti szolgálati jogviszonyban, rendvédelmi tisztjelölti szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ügyészségi szolgálati jogviszonyban, bírói szolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, nevelőszülői foglalkoztatási jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, vendégoktatói ösztöndíjas jogviszonyban, közfoglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona, a honvédelmi alkalmazott, az országgyűlési képviselő, a nemzetiségi szószóló (a továbbiakban együtt: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik,
 - b) szövetkezet tagja, aki a szövetkezet tevékenységében munkaviszony, vállalkozási vagy megbízási jogviszony keretében személyesen közreműködik (a személyes közreműködést megalapozó jogviszonyra irányadó szabályok szerint), kivéve
   - ba) az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagját – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –,
   - bb) a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, és
@@ -252,7 +253,7 @@ tart.
 (2) A biztosítás nem terjed ki a következő jogviszonyokra:
 
 - a) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által Magyarország területén foglalkoztatott, harmadik állam állampolgárságával rendelkező és külföldinek minősülő munkavállalóra, ha a munkavégzésre kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében kerül sor, feltéve, hogy e munkavégzés a két évet nem haladja meg, és az előző belföldi munkavégzés befejezésétől számítva három év eltelt;
-- b) az Nftv. 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra.
+- b) az Nftv. 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra;
 - c) az Szja tv. 1. számú melléklet 4. pont 4.51. alpontja szerinti munkaviszonyra vagy díjazás ellenében munkavégzésre irányuló egyéb (megbízási szerződés, egyéni vállalkozónak nem minősülő vállalkozási szerződés alapján létrejött) jogviszonyra.
 
 18. § (1) A 17. § (2) bekezdés a) pontjában foglalt rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását az 1. melléklet szerint igazolja, függetlenül attól, hogy a kiküldött személy állampolgársága szerinti állammal Magyarországnak hatályos szociális biztonsági egyezménye áll fenn.
@@ -371,8 +372,9 @@ fizet.
 
 - a) az Szja tv. szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a szakképzési munkaszerződés alapján ténylegesen kifizetett pénzbeli juttatás, a felszolgálási díj, az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
 - b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga, vagy kettős adózást kizáró egyezmény hiányában adóelőleg megállapítási kötelezettség nem keletkezik,
-  - ba) az alapbér, (ha a munkát külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege), de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy – ha a munkát munkavégzésre irányuló egyéb jogviszony alapján végzik – a szerződésben meghatározott díj havi összege, vagy
-  - bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket.
+  - ba) az alapbér, (ha a munkát külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege), de legalább a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy – ha a munkát munkavégzésre irányuló egyéb jogviszony alapján végzik – a szerződésben meghatározott díj havi összege, vagy
+  - bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket;
+  - bc) a tevékenység ellenértékeként harmadik ország állampolgára által a tárgyhónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem.
 
 (2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 
@@ -498,9 +500,9 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 - c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban egyidejűleg részesül,
 - d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - e) fogvatartott,
-- f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét szünetelteti.
+- f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét a tárgyhó egészében szünetelteti.
 
-(5) Ha a (4) bekezdésben meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
+(5) Ha a (4) bekezdés a)–e) pontjában meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
 
 #### 16. A mezőgazdasági őstermelő járulékfizetése
 
@@ -551,7 +553,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 - b) tagi munkavégzés esetén a szociális szövetkezet e tagja után,
 - c) a központi költségvetés a 22. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 22. § (1) bekezdés a)–f), h)–p) és r)–t) pontjában meghatározott személyek után.
 
-(2) Az (1) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a járulékfizetési kötelezettsége keletkezését, vagy a 71. § (2) bekezdése szerinti bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel, illetve tartózkodási engedéllyel rendelkező hontalan személy esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint bejelentett szálláshellyel rendelkezik Magyarország területén. Az egyéves időtartamba beleszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha a biztosítottak nyilvántartásáért felelős szerv az egyéves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából a lakcímre vonatkozó adatok közlése érdekében megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, illetve a szálláshellyel kapcsolatos idegenrendészeti nyilvántartást kezelő szervet. Az e bekezdés szerinti feltétel a 22. § (7) bekezdés szerint belföldinek minősülő személyekre nem vonatkozik.
+(2) Az (1) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a járulékfizetési kötelezettsége keletkezését, vagy a 71. § (2) bekezdése szerinti bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel, illetve tartózkodási engedéllyel rendelkező hontalan személy esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerint bejelentett szálláshellyel rendelkezik Magyarország területén. Az egyéves időtartamba beleszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha a biztosítottak nyilvántartásáért felelős szerv az egyéves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából a lakcímre vonatkozó adatok közlése érdekében megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, illetve a szálláshellyel kapcsolatos idegenrendészeti nyilvántartást kezelő szervet. Az e bekezdés szerinti feltétel a 22. § (7) bekezdés szerint belföldinek minősülő személyekre nem vonatkozik.
 
 (3) Ha a biztosítási kötelezettség megállapítására utólag kerül sor, a biztosítási jogviszony fennállásának időtartama alatt az e § alapján előírt járulékot a foglalkoztató által kiállított igazolás benyújtása mellett az állami adó- és vámhatóság törli.
 
@@ -1351,6 +1353,8 @@ a 25 százalékot.
 (3) Ha a csecsemőgondozási díj, a gyermekgondozási díj vagy az örökbefogadói díj iránt 2021. évben benyújtott kérelmet jogosultság hiányára tekintettel utasították el, az igénylő 2022. március 31-éig kezdeményezheti az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötését a 2022. január 1-jét megelőző időszakra. A csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj igénylése iránt az anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötését követően ismételten benyújtott kérelmet úgy kell tekinteni, mintha az eredeti igénybejelentés időpontjában nyújtották volna be.
 
 105/D. § Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 34. § (6) bekezdését és 80. § (2) bekezdését az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó már a 2023. január havi, illetve az azt követő hónapok járulékkötelezettségének a megállapítása során alkalmazhatja.
+
+105/D. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 40. § (4) bekezdés f) pontját és (5) bekezdését a 2023. december 31-ét követően megkezdett szünetelés esetében kell alkalmazni. A 2024. január 1-jén folyamatban lévő szünetelés esetén a 2023. december 31-én hatályos szabályokat kell alkalmazni.
 
 #### 34. Az Európai Unió jogának való megfelelés
 

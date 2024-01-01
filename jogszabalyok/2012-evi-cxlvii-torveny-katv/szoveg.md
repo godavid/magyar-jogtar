@@ -45,8 +45,8 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
   - b) 11. §-a szerinti adókedvezmény;
   - c) 12. §-a szerinti adókedvezmény;
   - d) 13. § (1) bekezdés a) és c) pontja szerinti adókedvezmény;
-  - e) 15. § (1) bekezdés a) pontja szerinti adókedvezmény;
-  - f) 15. § (1) bekezdés b) pontja szerinti adókedvezmény;
+  - e) 15. § (1) bekezdés szerinti adókedvezmény;
+  - f)
   - g) 16. §-a szerinti adókedvezmény
 
 igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt kell érteni a tagot is;
@@ -56,8 +56,8 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
   - b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első két évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás harmadik évében;
   - c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
   - d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a foglalkoztatott után megállapított Szocho. tv. szerinti adóalap, de havonta legfeljebb a minimálbér kétszerese;
-  - e) a 19. pont e) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 500 ezer forint;
-  - f) a 19. pont f) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 100 ezer forint;
+  - e) a 19. pont e) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér kétszerese;
+  - f)
   - g) a 19. pont g) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként havonta a kutatás-fejlesztési tevékenység közvetlen költségeként elszámolt bérköltség 50 százaléka;
 - 21.
 - 22.

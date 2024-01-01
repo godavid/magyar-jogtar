@@ -462,7 +462,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (2) Az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező minden nagykorú állampolgárának joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.
 
-(3) Magyarországon menekültként, bevándoroltként vagy letelepedettként elismert minden nagykorú személynek joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek választásán választó legyen.
+(3) Magyarországon menekültként elismert vagy huzamos tartózkodási jogosultsággal rendelkező minden nagykorú személynek joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek választásán választó legyen.
 
 (4) Sarkalatos törvény a választójogot vagy annak teljességét magyarországi lakóhelyhez, a választhatóságot további feltételekhez kötheti.
 
@@ -1631,5 +1631,9 @@ A Magyarország Alaptörvényének tizenegyedik módosításával megállapítot
 #### 28.
 
 A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.
+
+#### 29.
+
+Az Alaptörvény tizenkettedik módosításával megállapított XXIII. cikk (3) bekezdését 2024. március 1-jétől kell alkalmazni. 2024. január 1-jétől 2024. február 29-éig a XXIII. cikk (3) bekezdésének a 2023. december 31-én hatályos szövegét kell alkalmazni.
 
 *Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.

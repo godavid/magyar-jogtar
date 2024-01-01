@@ -29,7 +29,7 @@ A szociális ellátás feltételeinek biztosítása, a nemzetközi egyezményekb
 3. § (1) E törvény hatálya – a (2)–(3) bekezdésben foglalt eltérésekkel – kiterjed a Magyarországon élő
 
 - a) magyar állampolgárokra,
-- b) bevándoroltakra és letelepedettekre,
+- b) huzamos tartózkodási jogosultsággal rendelkezőkre,
 - c) hontalanokra,
 - d) a magyar hatóság által menekültként vagy oltalmazottként elismert személyekre.
 
@@ -303,7 +303,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (2) Ha az (1) bekezdés szerinti cselekmény nem vezet eredményre, a fennmaradó tartozás végrehajtását az Ákr. 134. § (1) bekezdésének megfelelően kell foganatosítani.
 
-(3) Nem kell végrehajtást lefolytatni, ha a megtérítésre kötelezett személy terhére nyilvántartott követelés összege az 1000 Ft-ot nem haladja meg.
+(3) Nem kell végrehajtást lefolytatni, ha a megtérítésre kötelezett személy terhére nyilvántartott követelés összege a 10 000 Ft-ot nem haladja meg.
 
 (4) A megtérítésre kötelezett személy halála esetén a követelés meg nem térült összegét – a hagyaték erejéig – az örököstől kell behajtani. A hozzátartozót megillető pénzbeli ellátásból – ide nem értve a jogosult által a halála hónapjában már fel nem vett és az örökös hozzátartozó által felvehető ellátást – a meg nem térített összeget nem lehet levonni.
 
@@ -317,7 +317,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
   - aa) természetes személyazonosító adatait,
   - ab) belföldi lakó- vagy tartózkodási helyét,
   - ac) Társadalombiztosítási Azonosító Jelét;
-- b) az ellátást kérelmező, a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
+- b) az ellátást kérelmező, a jogosult állampolgárságát, huzamos tartózkodási jogosultságát, illetve menekült, oltalmazott vagy hontalan jogállását;
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 - d) a szociális ellátás
   - da) megnevezését,
@@ -342,7 +342,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
   - aa) természetes személyazonosító adatait,
   - ab) belföldi lakó- vagy tartózkodási helyét,
   - ac) Társadalombiztosítási Azonosító Jelét;
-- b) az ellátást kérelmező, a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
+- b) az ellátást kérelmező, a jogosult állampolgárságát, huzamos tartózkodási jogosultságát, illetve menekült, oltalmazott vagy hontalan jogállását;
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 - d) a szociális ellátás
   - da) megnevezését,
@@ -407,7 +407,7 @@ meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hat�
 
 - a) a kérelmező természetes személyazonosító adatai és Társadalombiztosítási Azonosító Jele,
 - b) a kérelmező telefonszáma, lakó- és tartózkodási helye, értesítési címe,
-- c) a kérelmező állampolgársága, bevándorolt, letelepedett vagy menekült, hontalan jogállása, a szabad mozgás és tartózkodás jogára vonatkozó adat,
+- c) a kérelmező állampolgársága, huzamos tartózkodási jogosultsága vagy menekült, hontalan jogállása, a szabad mozgás és tartózkodás jogára vonatkozó adat,
 - d) a kérelmező cselekvőképességére vonatkozó adat,
 - e) a kérelmező törvényes képviselőjének, a kérelmező megnevezett hozzátartozójának, továbbá tartós bentlakásos intézményi ellátás esetében a kérelmező nagykorú gyermekének neve, születési neve, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
 - f) a kérelem előterjesztésének vagy a beutaló határozat megküldésének időpontja,
@@ -3428,7 +3428,7 @@ járul hozzá.
 - a) a pénzbeli szociális ellátások elszámolásának szabályait;
 - b) a közgyógyellátásra való jogosultság, valamint az igazolványok kiadásának, visszavonásának, az igazolvány alapján járó kedvezmények igénybevételének részletes szabályait, valamint az igazolvány tartalmát;
 - c) az Országos Szociálpolitikai Szakértői Névjegyzékkel, valamint a szakértők tevékenységével összefüggő részletes szabályokat;
-- d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
+- d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait, valamint a szociális vetítési alap összegét;
 - e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 - f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 92/K. § (8)–(10) bekezdése szerinti közhírré tétel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
 - g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,

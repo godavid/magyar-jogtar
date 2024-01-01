@@ -118,13 +118,13 @@ lehet,
 - 17. minősítési eljárás: a pedagógus teljesítményét értékelő eljárás, amely a magasabb fokozatba lépéséhez szükséges,
 - 18. tartós gyógykezelés alatt álló gyermek, tanuló: az a gyermek, tanuló, akinek egészségügyi ellátása az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 89. §-a szerinti általános járóbeteg-szakellátásban vagy az Eütv. 91. §-a szerinti általános fekvőbeteg-szakellátásban részt vevő szakorvos véleménye alapján az adott nevelési évben, tanévben a harminchat nevelési napot, tanítási napot várhatóan meghaladja, és emiatt az óvodai nevelésben a 8. § (2) bekezdése szerinti formában nem tud részt venni, illetve tankötelezettségét iskolába járással nem tudja teljesíteni,
 - 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
-- 20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
+- 20. nevelőtestület: a nevelési-oktatási intézményben köznevelési foglalkoztatotti jogviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, a felsőfokú végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 - 21. óraadó: megbízási szerződés keretében legfeljebb heti tizennégy óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
 - 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a vármegyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző vármegyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
 - 23. óvodai csoport, iskolai osztály, kollégiumi csoport: az a legalább egy nevelési évre, tanévre alkotott oktatásszervezési egység, amely meghatározott közös pedagógiai feladatok végrehajtására alakul az óvodába, iskolába, kollégiumba felvételt nyert, azonos feladatellátási helyre járó gyermekekből, tanulókból,
 - 24. összevont osztály: az általános iskola alsó tagozatán, az alapfokú művészeti iskolában, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben legalább kettő, legfeljebb négy iskolai évfolyam tanulóiból alkotott osztály,
 - 25. sajátos nevelési igényű gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi (látási, hallási), értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd,
-- 26. szakalkalmazotti értekezlet: a vezetőkből és a köznevelési intézmény alapító okiratában meghatározott alapfeladatra létesített munkakörökben közalkalmazotti jogviszony vagy munkaviszony keretében foglalkoztatottakból állók közössége,
+- 26. szakalkalmazotti értekezlet: a vezetőkből és a köznevelési intézmény alapító okiratában meghatározott alapfeladatra létesített munkakörökben köznevelési foglalkoztatotti jogviszony vagy munkaviszony keretében foglalkoztatottakból állók közössége,
 - 27. székhely: az alapító okiratban, szakmai alapdokumentumban meghatározott, a köznevelési intézmény alapfeladatának ellátását szolgáló feladatellátási hely, ahol képviseleti jogának gyakorlására jogosult vezetőjének munkahelye található,
 - 27a. szülő: ha törvény eltérően nem rendelkezik, a gyermek
   - a) vér szerinti szülője, kivéve, ha a szülői felügyeleti joggal nem rendelkezik,
@@ -331,6 +331,8 @@ tagozat,
 tartalmazza.
 
 (4) Az (1) bekezdés szerinti nyilvántartás vezetésére jogszabályban kijelölt szerv az (1) bekezdés szerinti nyilvántartásban kezelt adatokat a nyilvántartásból való törlés időpontjáig kezeli.
+
+9/B. § A köznevelési intézményekben a honvédelmi nevelés-oktatás keretében egyéb foglalkozás tartását és a Honvédelem tantárgy oktatását a Magyar Honvédség látja el, amelynek alapelveit a köznevelésért felelős miniszter és a honvédelemért felelős miniszter közötti együttműködési megállapodás határozza meg azzal, hogy a feladatellátással összefüggő munkáltatói jogköröket a Magyar Honvédség kijelölt szervezetének parancsnoka gyakorolja. A köznevelési intézményben végzett feladatokat és munkaidő-beosztást a köznevelési intézmény igazgatója határozza meg az együttműködési megállapodás keretei között.
 
 #### 8. Az általános iskola
 
@@ -595,7 +597,7 @@ szükséges.
   - ae)
 - b) a nyilvántartásba vétel, létesítés napját,
 - c) a fenntartó képviseletére jogosult személy nevét,
-- d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat,
+- d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat, valamint a 84. § (2a) bekezdése szerinti előzetes vizsgálat és a 84. § (2b) bekezdése szerinti nyomon követés eredményét tartalmazó határozatot,
 - e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a megszűnt intézmény iratainak őrzési helyét.
 
 (5a) A hivatal és a köznevelési feladatokat ellátó hatóság által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa)–ac) alpontja, valamint b)–e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
@@ -637,7 +639,7 @@ szükséges.
 
 rendelkezik.
 
-(2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek a 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább hetven százaléka határozatlan időre szóló munkaviszonyban közalkalmazotti vagy egyházi szolgálati jogviszonyban áll. Többcélú köznevelési intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásához szükséges eszközöket, felszereléseket a fenntartó az intézmény rendelkezésére bocsátja, önálló költségvetéssel rendelkező intézmény a feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási költségeit a fenntartó által évente megállapított költségvetésben kell előirányozni.
+(2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek a 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább ötven százaléka határozatlan időre szóló köznevelési foglalkoztatotti jogviszonyban, munkaviszonyban vagy egyházi szolgálati jogviszonyban áll. Az állami fenntartású intézményben a fenntartó engedélyével az óraadók létszáma az ötven százalékot meghaladhatja.. Többcélú köznevelési intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásához szükséges eszközöket, felszereléseket a fenntartó az intézmény rendelkezésére bocsátja, önálló költségvetéssel rendelkező intézmény a feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási költségeit a fenntartó által évente megállapított költségvetésben kell előirányozni.
 
 (3)
 
@@ -840,14 +842,14 @@ rendkívüli szünetet rendel el.
 
 32. § (1) Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási egyesület tartja fenn:
 
-- a) a pedagógusok és egyéb munkavállalók alkalmazása során világnézeti és hitéleti szempontokat érvényesíthet, alkalmazási feltételként írhat elő,
-- b) az igazgató-helyettesek megbízása során a fenntartó egyetértési jogot gyakorol,
+- a)
+- b)
 - c) a fenntartó az iskola számára előírhatja valamely – a köznevelésért felelős miniszter által kiadott – kerettanterv választását és meghatározhatja az intézményben használható tankönyveket, taneszközöket,
 - d) pedagógiai programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő ismereteket, helyi tantervébe a jogi személyiséggel rendelkező vallási közösség tanításának megfelelő tartalmú hitoktatást építhet be,
 - e) korlátozhatja, kizárhatja a 63. § (1) bekezdés d) pontjában szabályozott jog gyakorlását,
 - f) SZMSZ-ében és házirendjében a jogi személyiséggel rendelkező vallási közösség tanításával összefüggő viselkedési és megjelenési szabályokat, kötelességeket, jogokat és hitéleti tevékenységet írhat elő,
-- g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása miatt a gyermek, tanuló és a pedagógus ellen fegyelmi eljárás indítható,
-- h) és az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagóguslétszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási egyesület által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá a az egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási egyesület általi megbízással kell rendelkeznie,
+- g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása miatt a gyermek, tanuló ellen fegyelmi eljárás indítható,
+- h)
 - i) a nevelési-oktatási intézmény házirendje a fenntartó jóváhagyásával válik érvényessé,
 - j) az etika tantárgy hittan tantárggyal kiváltható, amennyiben az iskola pedagógiai programja a hittan tantárgy vonatkozásában tartalmazza a Nat-ban az etikára meghatározott fejlesztési követelményeket és tartalmakat.
 
@@ -901,14 +903,14 @@ rendkívüli szünetet rendel el.
 
 (2) Az óvoda és a kollégium a fakultatív hitoktatáshoz, az iskola a fakultatív hitoktatáshoz és a hit- és erkölcstanoktatáshoz szükséges tárgyi feltételeket – így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket – az intézményben rendelkezésre álló eszközökkel biztosítja.
 
-(3) Az egyházi jogi személy által foglalkoztatott, fakultatív hitoktatásban, illetve a bevett egyház és azok belső egyházi jogi személyei által foglalkoztatott, hit- és erkölcstanoktatásban közreműködő személynek a 32. § (1) bekezdés h) pontjában meghatározott feltételeknek kell megfelelnie. A bevett egyház és azok belső egyházi jogi személyei által polgári jogi jogviszony keretében foglalkoztatott hit- és erkölcstanoktatónak meg kell felelnie a 66. § (1) bekezdés b) pontjában előírt feltételeknek, amely tényt a polgári jogi jogviszony létesítésekor az érintett személy hatósági bizonyítvánnyal igazolja.
+(3) Az egyházi jogi személy által foglalkoztatott, fakultatív hitoktatásban, illetve a bevett egyház és azok belső egyházi jogi személyei által foglalkoztatott, hit- és erkölcstanoktatásban közreműködő személynek a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 38. § d) pontjában meghatározott feltételeknek kell megfelelnie. A bevett egyház és azok belső egyházi jogi személyei által polgári jogi jogviszony keretében foglalkoztatott hit- és erkölcstanoktatónak meg kell felelnie a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 26. § (1) bekezdés a) pontjában előírt feltételeknek, amely tényt a polgári jogi jogviszony létesítésekor az érintett személy hatósági bizonyítvánnyal igazolja.
 
-(4) A 64. § (4a) bekezdése szempontjából pedagógus szakképzettséggel rendelkezőnek tekintendő
+(4) A pedagógusok új életpályájáról szóló 2023. évi LII. törvény 97. § (10) bekezdése szempontjából pedagógus szakképzettséggel rendelkezőnek tekintendő
 
 - a) a bevett egyház és annak belső egyházi jogi személyei által munkaviszonyban foglalkoztatott hit- és erkölcstanoktatásban közreműködő, továbbá
 - b) az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittant oktató,
 
-a 32. § (1) bekezdés h) pontjában foglalt feltételeknek megfelelő személy.
+a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 38. § d) pontjában foglalt feltételeknek megfelelő személy.
 
 #### 24. A honvédelemért felelős miniszter által alapított és fenntartott nevelési-oktatási intézményekre vonatkozó külön rendelkezések
 
@@ -1563,11 +1565,11 @@ fegyelmi büntetés szabható ki.
 
 (10) Szakgimnáziumban a szakmai képzés a különböző munkarendben tanulók részére közösen is megszervezhető.
 
-#### 34. Pedagógusok és alkalmazottak
+#### 34. Pedagógusok , nevelő-oktató munkát segítő munkakörben foglalkoztatottak és egyéb alkalmazottak
 
-61. § (1) Nevelő-oktató munka – óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés-oktatás, pedagógiai szakszolgálat keretében gyermekekkel, tanulókkal való pedagógiai célú közvetlen foglalkozás – pedagógus-munkakörben, az óraadó és az egyházi szolgálati jogviszonyban foglalkoztatott kivételével, közalkalmazotti jogviszonyban vagy munkaviszonyban látható el. Pedagógus-munkakör ellátására – az óraadó kivételével – polgári jogi jogviszony nem létesíthető. A tankerületi központ által fenntartott köznevelési intézményben köznevelési alapfeladat-ellátásra létesített munkakörben foglalkoztatottak a tankerületi központtal közalkalmazotti jogviszonyban állnak. Ettől eltérően, idegen nyelven folytatott nevelési, oktatási tevékenység ellátása érdekében anyanyelvi tanárként történő foglalkoztatásra sor kerülhet a nemzetközi szerződés vagy tárcaközi megállapodás alapján, Magyarországon tevékenykedő szervezettel létesített munkaviszonyban történő kirendeléssel is.
+61. § (1)
 
-(2) A pedagógiai szakszolgálatok feladatait és a pedagógiai-szakmai szolgáltatásokat szakirányú felsőfokú végzettségű szakember látja el.
+(2)
 
 (3) A nevelő- és oktatómunkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását szakképzett szakemberek segítik. Nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott szakember az igazgató döntése alapján szakkört, érdeklődési kört, önképzőkört, egyéni vagy csoportos felzárkóztató, fejlesztő vagy tehetségfejlesztő foglalkozást, közösségi szolgálattal kapcsolatos foglalkozást, diákönkormányzati foglalkozást, felzárkóztató, tehetség-kibontakoztató, speciális ismereteket adó egyéni vagy csoportos, közösségi fejlesztést megvalósító csoportos, a szabadidő eltöltését szolgáló csoportos, a tanulókkal való törődést és gondoskodást biztosító egyéni, a kollégiumi közösségek működésével összefüggő csoportos kollégiumi, valamint szakkollégiumi foglalkozást tarthat, ha annak megfelelő végzettséggel, szakképzettséggel rendelkezik, valamint az igazgató a foglalkozás megtartásához szükséges tapasztalatáról, hozzáértéséről meggyőződött.
 
@@ -1586,18 +1588,15 @@ fegyelmi büntetés szabható ki.
 
 (4d) A köznevelési szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során a 82. § (9) bekezdését kell alkalmazni.
 
-(5) A köznevelési intézmények feladatainak ellátásában gazdasági, ügyviteli, műszaki, kisegítő és más alkalmazottak vesznek részt. Gazdasági, ügyviteli, műszaki, kisegítő munkakörökben az ellátandó feladatoktól függően ajánlott megoldani a foglalkoztatást. Az állami fenntartású nevelési-oktatási és pedagógiai szakszolgálati intézményekben – a honvédelemért felelős miniszter vagy a rendvédelmi szervet irányító miniszter által alapított és fenntartott, intézmények kivételével – gazdasági, ügyviteli, műszaki, kisegítő munkakörökben alkalmazottak létszáma legfeljebb a pedagógusok teljes munkaidőre számított létszámának húsz százaléka, szakképző iskolában harminc százaléka, kollégiumban ötven százaléka lehet.
+(5)
 
-(6) A tankerületi központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az illetékes tankerületi központ vezetője gyakorolja. A tankerületi központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézmény alkalmazottjai tekintetében – a bérgazdálkodást érintő döntések, a kinevezés és a közalkalmazotti jogviszony megszüntetése kivételével – gyakorolja a munkáltatói jogokat. A tankerületi központ által fenntartott köznevelési intézményben a pedagógus és nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazottat a köznevelési intézmény vezetője javaslatára a tankerületi központ vezetője nevezi ki és menti fel. Ha a köznevelési intézmény vezetője javaslatával a tankerületi központ vezetője nem ért egyet, a pedagógus és nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott kinevezéséről vagy felmentéséről az oktatási központ vezetője dönt. Ha a tankerületi központ által fenntartott köznevelési intézményben a pedagógus vagy a nevelő-oktató munkát közvetlenül segítő alkalmazott a közalkalmazotti jogviszonyból eredő lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal jelentős mértékben megszegi, vagy olyan magatartást tanúsít, amely a közalkalmazotti jogviszony fenntartását lehetetlenné teszi, felmentéséhez nincs szükség a köznevelési intézmény vezetőjének egyetértésére.
+(6)
 
-(7) A köznevelési intézményben történő foglalkoztatás esetén nem összeférhetetlen,
+(7)
 
-- a) ha a magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult a Polgári Törvénykönyv szerinti hozzátartozójával irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatba kerülne, valamint
-- b) a közalkalmazottak jogállásáról szóló törvényben foglaltaktól eltérően, ha a tankerületi központ által fenntartott köznevelési intézményben közalkalmazotti jogviszonyban álló személy polgári jogi jogviszony alapján lát el a tankerületi központ által fenntartott más köznevelési intézményben egyébként a munkakörébe tartozó feladatokat.
+(8)
 
-(8) Ahol a Munka Törvénykönyve vagy a közalkalmazottak jogállásáról szóló törvény munkáltatóról rendelkezik, azon a tankerületi központot, továbbá – az igazgató számára e törvény által biztosított munkáltatói jogok tekintetében – a tankerületi központ által fenntartott köznevelési intézményt kell érteni.
-
-(9) A közalkalmazotti jogviszony vagy munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+(9)
 
 #### 35. A pedagógus kötelességei és jogai
 
@@ -1638,35 +1637,35 @@ fegyelmi büntetés szabható ki.
 
 (1e) Az intézmény igazgatója az e § szerinti esetkörben egy esetleges rosszullét esetén az Eütv.-vel összhangban álló speciális ellátási eljárásrendet alakít ki.
 
-(2) A pedagógus hétévenként legalább egy alkalommal – jogszabályban meghatározottak szerint – továbbképzésben vesz részt. Megszüntethető – munkaviszony esetében felmondással, közalkalmazotti jogviszony esetében az alkalmatlanság jogcímén történő felmentéssel – annak a pedagógusnak a munkaviszonya, közalkalmazotti jogviszonya, aki a továbbképzésben önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen. Az első továbbképzés a Pedagógus II. fokozat megszerzésére irányuló első minősítés előtt kötelező. Mentesül a továbbképzési kötelezettség alól az a pedagógus, aki betöltötte az 55. életévét. Nem kell továbbképzésben részt venni annak a pedagógusnak, aki pedagógus-szakvizsgát tett, a vizsgák letétele utáni hét évben.
+(2)
 
-(3) A Pedagógus II., a Mesterpedagógus és a Kutatótanár fokozatból eggyel alacsonyabb fokozatba kerül visszasorolásra az a pedagógus, aki a fokozatba lépését követő kilencedik tanév végéig önhibájából nem teljesíti a pedagógus-továbbképzésben történő részvételi kötelezettségét.
+(3)
 
 (4) A továbbképzési kötelezettség teljesítése szempontjából az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját a hivatal jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzési programok engedélyezése és szervezése – a felnőttképzés adatszolgáltatási rendszerére vonatkozó előírások kivételével – nem tartozik a felnőttképzésről szóló törvény hatálya alá. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal látja el.
 
 (4a) Az Mt. 46. § (1) bekezdés j) pontja alkalmazásakor nem tartozik a munkáltató képzési politikája körébe a pedagógusok e törvény alapján kötelező továbbképzése.
 
-(5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
+(5)
 
-(6) A teljes munkaidő hatvan százalékában – azaz huszonnégy órában – (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el, amelybe bele kell számítani heti két-két óra időtartamban a pedagógus által ellátott osztályfőnöki, kollégiumi, tanulócsoport-vezetői, vagy munkaközösség vezetéssel összefüggő feladatok, továbbá heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok időtartamát. E szabályokat kell alkalmazni abban az esetben is, ha e törvény egyes pedagógus munkakörök esetében az e bekezdésben foglaltaktól eltérően határozza meg a munkaidő egyes feladatokra fordítandó részeinek arányát.. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
+(6)
 
-(7) Az intézményvezető a kötött munkaidőben ellátandó feladatok elosztásánál biztosítja az arányos és egyenletes feladatelosztást a nevelőtestület tagjai között.
+(7)
 
-(8) Az óvodapedagógusnak a kötött munkaidejét a gyermekekkel való közvetlen, a teljes óvodai életet magában foglaló foglalkozásra kell fordítania, a munkaidő fennmaradó részében, legfeljebb heti négy órában a nevelést előkészítő, azzal összefüggő egyéb pedagógiai feladatok, a nevelőtestület munkájában való részvétel, gyakornok szakmai segítése, továbbá eseti helyettesítés rendelhető el az óvodapedagógus számára.
+(8)
 
-(9) A vezetőpedagógus neveléssel-oktatással lekötött munkaideje gyakorló óvodában a teljes munkaideje hatvan százaléka, más gyakorló nevelési-oktatási intézményben, gyakorló szakszolgálati intézményben a teljes munkaideje harminc százaléka lehet.
+(9)
 
-(10) A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben pedagógus-munkakört betöltő neveléssel-oktatással lekötött munkaideje a teljes munkaideje ötven százaléka.
+(10)
 
-(11) A gyakornoknak a neveléssel-oktatással lekötött munkaideje tanítók, általános és középiskolai tanárok esetében a teljes munkaideje ötven százaléka, óvodapedagógusok esetében hatvanöt százaléka lehet.
+(11)
 
-(11a) Az óvoda-, iskolapszichológus neveléssel-oktatással lekötött munkaideje – teljes munkaidőben történő foglalkoztatás esetében – heti huszonkettő óra. Az óvoda-, iskolapszichológus a neveléssel-oktatással lekötött munkaidőben végzi a gyermekek, tanulók egyéni vagy csoportos szűrésével, vizsgálatával, konzultációval, tanácsadással (a továbbiakban: közvetlen pszichológiai foglalkozás) kapcsolatos, továbbá a gyermekekkel, tanulókkal, pedagógusokkal és szülőkkel való hatékony együttműködés kialakítását célzó feladatokat. Az óvoda-, iskolapszichológus további heti tíz órában a közvetlen pszichológiai foglalkozások szervezésével, előkészítésével kapcsolatos feladatokat látja el, részt vesz a pedagógiai szakszolgálat óvoda-, iskolapszichológus koordinátora által szervezett szakmai feladatokban, szükség esetén előkészíti a gyermek, tanuló szakellátásba történő irányítását, a munkaidő fennmaradó részében pedig a munkaköréhez szükséges információk feldolgozásával, az óvodai, iskolai dokumentáció elkészítésével kapcsolatos feladatokat, továbbá a szakmai fejlődéséhez szükséges tevékenységeket végez. A közvetlen pszichológiai foglalkozás heti előírt időkerete indokolt esetben a nevelési, tanítási év alatt az egyes hetek között átcsoportosítható. Részmunkaidős foglalkoztatás esetén a koordinátorral való kapcsolattartáson kívül a munkavégzés valamennyi időkerete arányosan csökken.
+(11a)
 
-(12) Az iskolai, kollégiumi könyvtárostanár, könyvtárostanító a neveléssel-oktatással lekötött munkaidő keretében biztosítja a könyvtár nyitva tartását, a könyvtári órákat. Munkaköri feladatként a kötött munkaidő többi része hetven százaléka – a könyvtár zárva tartása mellett – a munkahelyen végzett könyvtári munkára (az állomány gyarapítása, gondozása, könyvtári kutatómunka), iskolai kapcsolattartásra, a további harminc százaléka a munkahelyen kívül végzett felkészülésre, könyvtári kapcsolatépítésre, állománygyarapításra, továbbá a pedagógus-munkakörrel összefüggő más tevékenység ellátására szolgál.
+(12)
 
-(13) A pedagógiai szakszolgálat intézményében alkalmazott pedagógusok teljes munkaidőben történő foglalkoztatás esetében heti huszonegy órában a neveléssel-oktatással lekötött munkaidőben végzik a gyermekek, tanulók vizsgálatával, egyéni vagy csoportos foglalkoztatásával, a tanácsadással, gondozói tanfolyamok megtartásával (a továbbiakban: közvetlen foglalkozás) kapcsolatos feladatokat.
+(13)
 
-(14) A nevelési-oktatási intézmény, a pedagógiai szakszolgálat vezetője a heti teljes munkaidőnek az 5. melléklet vagy a pedagógiai szakszolgálatokra vonatkozó miniszteri rendelet szerint tanórákkal vagy foglalkozásokkal le nem kötött részében látja el a magasabb vezetői, vezetői megbízással kapcsolatos feladatokat. A nevelési-oktatási intézményben foglalkoztatott magasabb vezető vagy vezető megbízással rendelkező pedagógus heti tanóráinak, foglalkozásainak számát az 5. melléklet határozza meg. Az iskolában foglalkoztatott magasabb vezető vagy vezető megbízással rendelkező pedagógus heti tanóráinak, foglalkozásainak száma az általa az intézményben tanított tantárgynak – a köznevelésért felelős miniszter által kiadott kerettanterv alapján készült helyi tanterv szerinti – heti óraszámával azonos, amennyiben olyan tantárgyat tanít, amelynek a helyi tanterv szerinti óraszáma magasabb, mint az 5. mellékletben az adott intézményre és vezetőre meghatározott heti tanórák, foglalkozások száma.
+(14)
 
 63. § (1) A pedagógust munkakörével összefüggésben megilleti az a jog, hogy
 
@@ -1684,128 +1683,71 @@ fegyelmi büntetés szabható ki.
 
 (2) Az (1) bekezdés j) pontjában meghatározott jog megilleti azt is, akit pedagógus-munkakörből helyeztek nyugállományba.
 
-(3) A munkáltató a pedagógus-munkakörben, a pedagógiai előadó és pedagógiai szakértői munkakörben, továbbá a szabadidő-szervező, pedagógiai asszisztens és gyógypedagógiai asszisztens munkakörökben foglalkoztatottak részére – kérelemre – pedagógusigazolvány kiadását kezdeményezi a központi adatszolgáltatásra alkalmas rendszeren keresztül a hivatalnál. Az e munkakörökből nyugállományba vagy korhatár előtti ellátásba helyezett személyek részére az utolsó munkáltató kezdeményezi a pedagógusigazolvány kiadását. A pedagógusigazolvány elkészítéséről a hivatal gondoskodik.
+(3)
 
-(3a) A pedagógusigazolvány kiadására irányuló kérelem tartalmazza:
+(3a)
 
-- a) a pedagógus személyazonosító adatait (családi és utónevét, születési családi és utónevét, anyja születési családi és utónevét, születési helyét és idejét) és
-- b) a pedagógus oktatási azonosító számát.
+(3b)
 
-(3b) A pedagógusigazolványt a hivatal küldi meg a jogosult részére a közreműködő intézménybe.
+(3c)
 
-(3c) A pedagógusigazolvány tartalmazza:
-
-- a) a pedagógus családi és utónevét,
-- b) a pedagógus oktatási azonosító számát,
-- c) a pedagógusigazolvány kiállításának időpontját,
-- d) a pedagógusigazolvány egyedi azonosítóját.
-
-(3d) A hivatal a pedagógusigazolvány kiállítása céljából kezeli a (3a) és (3c) bekezdésben felsorolt, valamint a kedvezményre való jogosultság igazolásához szükséges adatokat.
+(3d)
 
 (3e)
 
-(4) A pedagógusigazolvány elkészítésére irányuló eljárásban a munkáltató – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel, elektronikus úton terjeszti elő a pedagógusigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A munkáltató az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel elektronikus úton tart kapcsolatot a hivatallal. A pedagógusigazolvány igénylésének, elkészítésének és nyilvántartásának további szabályait jogszabály határozza meg.
-
-(5) A munkáltató a pedagógus kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a hivatal részére.
-
-#### 35/A. A Nemzeti Pedagógus Kar
-
-63/A. § (1) A Nemzeti Pedagógus Kar (a továbbiakban: Kar) az állami és önkormányzati fenntartású köznevelési intézményekben pedagógus-munkakörben közalkalmazottként foglalkoztatottak önkormányzattal rendelkező köztestülete.
-
-(2) A Kar tagja az a pedagógus, aki az (1) bekezdésben meghatározott köznevelési intézményben pedagógus-munkakörben történő foglalkoztatásra szóló kinevezést kapott.
-
-(3)
-
-(4) Az illetékes tankerületi központ köteles a Kar területi szervei működéséhez a vármegyeközponti és fővárosi tankerület székhelyén működő köznevelési intézményben a működéshez szükséges megfelelő hely biztosításáról gondoskodni.
-
-(5)
-
-(6) A Kar az Országos Küldöttgyűlés által elfogadott Alapszabályát köteles az elfogadástól számított 30 napon belül a köznevelésért felelős miniszternek tájékoztatásul megküldeni.
-
-(7) A Kar a céljai megvalósulásának előmozdítása érdekében, kizárólag a tevékenységéhez, továbbá a tagjai által végzett szakmai tevékenységhez kapcsolódó, kiegészítő jellegű gazdasági tevékenységet végezhet. A Kar gazdasági társaságnak, egyesületnek nem lehet tagja, és ilyen társaságban nem szerezhet részesedést.
-
-(8) A Kar Etikai Kódexe általános etikai alapelvekből, részletes etikai és eljárási szabályokból áll.
-
-63/B. § (1) A Kar
-
-- a) külön jogszabályban meghatározottak szerint ellenőrzi a 4. § 15. pontjában meghatározott közösségi szolgálat szervezését, valamint működteti az ehhez kapcsolódó tanácsadó és információs rendszert,
-- b) véleményezési jogot gyakorol a köznevelést és pedagógusképzést érintő jogszabályok megalkotása és módosítása során,
-- c) a feladat- és hatáskörét érintő kérdésekben az adott kérdésben hatáskörrel és illetékességgel rendelkező állami szerv vezetőjéhez fordulhat, és javaslatot tehet, intézkedés megtételét kezdeményezheti, valamint az állami szerv vezetője által irányított szerv működésével, az általa kibocsátott jogszabállyal, közjogi szervezetszabályozó eszközzel és egyéb döntésével kapcsolatban véleményt nyilváníthat, kezdeményezheti annak megváltoztatását vagy visszavonását,
-- d) a köznevelési intézmény magasabb vezetői megbízásával kapcsolatos pályázati eljárás során – a pályázó kérésére – szakmai ajánlást adhat,
-- e) a feladat- és hatáskörét érintő bármely kérdésben javaslatot tehet a köznevelésért felelős miniszternek,
-- f) megalkotja Alapszabályát, valamint a Pedagógus Etikai Kódexét (a továbbiakban: Etikai Kódex),
-- g) az e törvényben, valamint az Alapszabályban és az Etikai Kódexben foglaltak szerint tagjával szemben etikai eljárást folytathat,
-- h) konferenciákat, szakmai napokat szervez az Alapszabályban meghatározott módon,
-- i) díjat alapíthat,
-- j) tagjai számára jóléti és egyéb, az Alapszabályban meghatározott kedvezményes szolgáltatásokat nyújthat.
-
-(2) A Kar szakmai érdek-képviseleti tevékenysége során a reprezentatív szakszervezetekkel együttműködik, és tiszteletben tartja a szakszervezeteknek a Munka Törvénykönyve és a közalkalmazottak jogállásáról szóló törvény által biztosított jogait.
-
-63/C. § (1) A Kar szervezete képviseleti és ügyintéző testületekből, valamint tisztségviselőkből és ügyintéző szervből áll. A Kar képviseleti és ügyintéző testületeinek tagjai, valamint tisztségviselői és ügyintézői kizárólag a Kar tagjai lehetnek. A Kar tagjának az ügyintéző vagy képviseleti szervben való tevékenysége a tag számára nem eredményezhet a közalkalmazotti jogviszony tekintetében hátrányt.
-
-(2) A Kar legfőbb képviseleti szerve az Országos Küldöttgyűlés, amelyet a területi szervek küldöttei alkotnak. A területi szervek ezer pedagógusonként egy fő, de maximum tizenöt fő küldöttet delegálhatnak.
-
-(3) Az Országos Küldöttgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. Az Országos Küldöttgyűlés kötelező összehívásának más eseteit, továbbá a működés rendjét az Alapszabály állapítja meg.
-
 (4)
 
 (5)
 
-(6)
+#### 35/A.
 
-63/D. § (1) Az Országos Küldöttgyűlés kizárólagos hatásköre:
+#### 63/A. §
 
-- a) a tisztségviselők, az elnök, az alelnök, az Elnökség tagjainak, az Országos Etikai Bizottság, valamint a Felügyelő Bizottság tagjainak és elnökének megválasztása és visszahívása,
-- b) az Alapszabály és az Etikai Kódex elfogadása és módosítása,
-- c) a Kar éves költségvetésének elfogadása és beszámolójának jóváhagyása,
-- d) az Elnökség, valamint a Felügyelő Bizottság éves beszámolójának elfogadása,
-- e) a tisztségviselőkkel szembeni összeférhetetlenség kimondása,
-- f) a közösségi szolgálattal kapcsolatos tanácsadási és ellenőrzési tevékenység szabályozása,
-- g) az Alapszabályban meghatározott egyéb kizárólagos feladatok gyakorlása.
+#### 63/B. §
 
-(2) Az Országos Küldöttgyűlés feladat- és hatásköreinek gyakorlását – ha e törvény vagy az Alapszabály másként nem rendelkezik – átruházhatja a Kar országos és területi szerveire, tisztségviselőire.
+#### 63/C. §
 
-63/E. § (1) A Kar legfőbb ügyintéző testülete az Elnökség.
+#### 63/D. §
 
-(2) Az Elnökség tagjai:
+#### 63/E. §
 
-- a) az elnök,
-- b) az elnökhelyettes,
-- c) az Alapszabályban meghatározottak szerint további minimum hét, maximum kilenc elnökségi tag.
+#### 63/F. §
 
-(3)
+#### 63/G. §
 
-(4) A tisztségviselőket az Országos Küldöttgyűlés választja titkos szavazással, ötéves időtartamra. Azonos tisztségre a Kar tagja legfeljebb két egymást követő alkalommal, illetve két teljes ciklusra választható meg. Amennyiben az Elnökség tagjának megbízatása időközben megszűnik, helyére az Országos Küldöttgyűlés – az ötéves időtartamból hátralévő időre – új tagot választ.
+#### 63/H. §
 
-(5) Az Elnökség tagjának megbízatása megszűnik:
+#### 63/I. §
 
-- a) a megbízási idő lejártával,
-- b) az Országos Küldöttgyűlésnek címzett írásbeli lemondásával,
-- c) a kari tagság megszűnésével,
-- d) a halálával,
-- e) az összeférhetetlenség kimondásával,
-- f) amennyiben megbízatását öt hónapnál hosszabb ideig nem tudja ellátni,
-- g) az e törvényben vagy az Alapszabályban meghatározott más okból.
+#### 63/J. §
 
-(6) Az elnök a Kar képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja.
+#### 63/K. §
 
-(7) Az Elnökség és tagjainak feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
+#### 63/L. §
 
-(8)
+#### 36. A pedagógusok előmeneteli rendszere
 
-(9)
+#### 64. §
 
-(10) Az Elnökség és a Felügyelő Bizottság tagjai a munkájukért tiszteletdíjban részesülnek. Az Országos Etikai Bizottság és a Területi Etikai Bizottságok tagjainak eseti jelleggel felmerült, igazolt költségeit a Kar megtéríti. A tiszteletdíj mértékéről és a költségek elismerésének módjáról az Alapszabály rendelkezik.
+65. § (1)
 
-63/F. § (1) Az Országos Etikai Bizottság és a Felügyelő Bizottság tagjait és elnökét az Országos Küldöttgyűlés választja titkos szavazással, ötéves időtartamra. Az Országos Etikai Bizottság és a Felügyelő Bizottság feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait, a tagok számát az Alapszabály határozza meg.
+(1a)
 
 (2)
 
-(3) A Központi Iroda vezetését pályázat útján kiválasztott főtitkár látja el. A pályázatokról az Elnökség dönt, a főtitkár felett a munkáltatói jogokat az elnök gyakorolja.
+(3)
+
+(3a)
 
 (4)
 
-(5) A Központi Iroda munkaviszonyban foglalkoztatott munkavállalói felett a munkáltatói jogokat a főtitkár gyakorolja. A Központi Iroda és a főtitkár feladat- és hatáskörét, működésük rendjét az Alapszabály határozza meg.
+(5)
+
+(5a)
+
+(5b)
+
+(5c)
 
 (6)
 
@@ -1813,293 +1755,45 @@ fegyelmi büntetés szabható ki.
 
 (8)
 
+(8a)
+
 (9)
 
-(10) A Kar jogszabályokban, valamint az e törvényben meghatározott módon feladatok érvényesítése érdekében szakmai döntés-előkészítő, véleményező, javaslattevő országos szakértői bizottságot hozhat létre, melynek feladatait, működési feltételeit az Alapszabály határozza meg.
-
-(11) A Kar országos szervei és tisztségviselői által ellátott további feladatokat az Alapszabály határozza meg.
-
-63/G. § (1) A Kar működésének országos szintű megszervezése céljából területi szinten a Területi Küldöttgyűlés által megválasztott Területi Elnökséget és Területi Etikai Bizottságot kell alakítani. A Területi Elnökség elnökből, alelnökből és az Alapszabályban meghatározottak szerinti további elnökségi tagokból áll. A Területi Elnökség, annak tagjai, valamint a Területi Etikai Bizottság feladat- és hatáskörét és annak átruházási módját, működésük rendjét, a megbízatás megszűnésének eseteit az Alapszabály határozza meg.
-
-(2) A Kar tisztségviselője, az ügyintéző testületek tagja nem lehet:
-
-- a) párt tisztségviselője,
-- b) bármely országos kamara tagja,
-- c) bármely pedagógus szakmai és érdek-képviseleti szervezet tisztségviselője.
-
-(3) Az Országos és a Területi Elnökség, a Felügyelő Bizottság, az Országos és Területi Etikai Bizottság tagjai nem lehetnek egyidejűleg a Kar Területi Küldöttgyűlése vagy az Országos Küldöttgyűlés által választott más testületnek tagjai és egymás közeli hozzátartozói.
-
-(4) A (2) és (3) bekezdésben megjelölt összeférhetetlenségi okot a Kar tagja a megválasztásakor vagy az ok bekövetkezésétől számított tizenöt napon belül köteles bejelenteni, és azt a megválasztásától, illetve a bejelentésétől számított tizenöt napon belül megszüntetni. A megszüntetésről az érintett a választására jogosult testületet haladéktalanul tájékoztatja. Amennyiben a Kar tagja az összeférhetetlenséget nem szünteti meg, az ellátott tisztség, az ügyintéző testületi tagság a határidő eredménytelen elteltével megszűnik.
-
-(5) Az Alapszabály az összeférhetetlenség más eseteit is megállapíthatja.
-
-63/H. § (1) A Kar működését az alábbiakban foglalt bevételek biztosítják:
-
-- a) a köznevelésért felelős miniszter által vezetett minisztérium fejezetéből származó támogatás,
-- b) az alapítványi és egyéb támogatások,
-- c) a szolgáltatási, valamint a kamara célkitűzéseivel összhangban álló gazdasági-vállalkozási tevékenységből származó bevételek,
-- d) a pályázat útján elnyert bevételek,
-- e) a nemzetközi vagy hazai együttműködésből származó bevételek,
-- f) az egyéb bevételek.
-
-(2) A bevételekkel kapcsolatos részletes szabályokat az Alapszabály tartalmazza.
-
-63/I. § (1) A Karban betöltött tagság megszűnik a tag pedagógus-munkakörre létesített közalkalmazotti jogviszonya megszűnésével.
-
-(2) A Karban betöltött tagság nem zár ki más kamarai jogviszonyt.
-
-(3) A Kar tagjának joga, hogy
-
-- a) közvetlenül, illetve az Alapszabály rendelkezései szerint küldöttek útján részt vegyen a Kar tisztségviselőinek, testületeinek megválasztásában,
-- b) jelölhető és választható legyen a Kar tisztségviselőjének vagy a Kar küldöttjének,
-- c) részt vegyen a Kar rendezvényein, valamint a tagozatok munkájában,
-- d) igénybe vegye a Kar e törvényben, illetve az Alapszabályban rögzített térítésmentes, illetve egyéb szolgáltatásait,
-- e) etikai eljárás lefolytatását kezdeményezze.
-
-(4) A Kar tagjának kötelessége, hogy megtartsa a Kar működésére vonatkozó, e törvényben, az Alapszabályban és az Etikai Kódexben rögzített szabályokat.
-
-63/J. § (1) Aki az Etikai Kódex, valamint az Alapszabály rendelkezéseit megszegi, etikai vétséget követ el. Etikai vétség gyanúja esetén a Kar tagja ellen a Kar eljárást folytat le a (2)–(14) bekezdés szerint. Nem kell az eljárást megindítani, ha a Területi Etikai Bizottság megállapítja, hogy a bejelentés megalapozatlan.
-
-(2) Első fokon a Területi Etikai Bizottság jár el, amely az Alapszabályban meghatározott számú tagból, de legalább három főből álló testületként működik, és döntéseit a jelen lévő tagok többségének egyetértésével hozza.
-
-(3) Az etikai eljárást az etikai vétség gyanújáról való tudomásszerzés esetén hivatalból kell megindítani. Az etikai eljárás megindításáról az eljárás megindításával egyidejűleg írásban értesíteni kell az eljárás alá vont tagot, valamint – ha az eljárás panaszbejelentés alapján indult – a panaszost is. Az etikai eljárás csak az eljárás alá vont pedagógus kérésére vagy egyetértésével lehet nyilvános.
-
-(4) Nem indítható meg az etikai eljárás, ha a cselekménynek a Területi Etikai Bizottság tudomására jutásától számított hat hónap vagy a cselekmény elkövetése óta egy év eltelt.
-
-(5) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított három hónapon belül az etikai eljárás akkor is megindítható, ha a (4) bekezdésben meghatározott határidő eltelt. A három hónapos határidőt a Területi Etikai Bizottságnak szabálysértési eljárásban a jogerős határozatról, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatáról, vagy az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatáról való tudomásszerzésétől kell számítani.
-
-(6) Az etikai eljárást a (4) bekezdésben meghatározott időpont bekövetkezésén túl is meg kell indítani, ha annak lefolytatását a tag maga ellen kéri.
-
-(7) Amennyiben az etikai vétség gyanúját megalapozó bejelentés kivizsgálásához olyan adatokra, információkra van szükség, amelyek kizárólag a munkáltató számára hozzáférhetőek, a Területi Etikai Bizottság kérésére a munkáltató köteles ezeket rendelkezésre bocsátani.
-
-(8) Amennyiben olyan tag ellen indul etikai eljárás, aki a Karban tisztséget tölt be, az etikai eljárás megindításával egyidejűleg e tisztségének gyakorlása alól fel kell függeszteni az érdemi döntés meghozataláig.
-
-(9) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény III., IV. és IX. Fejezetének rendelkezéseit kell megfelelően alkalmazni azzal, hogy az eljárás során legalább egy tárgyalás tartása és az eljárás alá vont tag meghallgatása kötelező.
-
-(10) Az etikai vétséget elkövető taggal szemben az etikai eljárást lefolytató testület a következő intézkedéseket hozhatja:
-
-- a) figyelmeztetés,
-- b) a Kar által biztosított kedvezmény, juttatás, jogosultság korlátozása, megvonása,
-- c) a Karban betöltött tisztségtől való megfosztás.
-
-(11) A (10) bekezdés b) és c) pontjában meghatározott intézkedések időbeli hatálya legfeljebb öt év lehet.
-
-(12) A Területi Etikai Bizottság határozatával szemben a fellebbezést az Országos Etikai Bizottsághoz kell benyújtani, az elsőfokú határozat kézhezvételét követő tizenöt napon belül. A fellebbezés alapján az Országos Etikai Bizottság folytatja le a másodfokú eljárást. Az Országos Etikai Bizottság döntése ellen a határozat kézhezvételét követő tizenöt napon belül a közigazgatási ügyben eljáró bírósághoz lehet fordulni.
-
-(13) A másodfokú eljárás lefolytatására az elsőfokú eljárásra vonatkozó szabályokat kell alkalmazni.
-
-(14) Az etikai eljárás eredményéről az eljárás végleges befejezését követően a Területi Etikai Bizottság a határozat megküldésével tájékoztatja a munkáltatót. Ha a közalkalmazott bírósághoz fordult, a határozatot a munkáltató részére a bírósági eljárás jogerős befejezését követően lehet megküldeni.
-
-(15) A választott szakszervezeti tisztséget betöltő közalkalmazottal szembeni etikai eljárás megindításakor a közvetlen felsőbb szakszervezeti szervet tájékoztatni kell.
-
-63/K. § (1) A Kar felett a köznevelésért felelős miniszter törvényességi ellenőrzést gyakorol. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben munkaügyi vitának vagy egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
-
-(2) A köznevelésért felelős miniszter ellenőrzi, hogy a Kar
-
-- a) Alapszabálya és más szabályzatai vagy azok módosításai megfelelnek-e e törvény és más jogszabályok előírásainak;
-- b) működése, határozatai nem sértik-e a jogszabályokat, az Alapszabályt vagy az egyéb szabályzatokat.
-
-(3) A köznevelésért felelős miniszter a Kar működésének törvényessége és az Alapszabálynak megfelelő működés biztosítása érdekében felhívja a Kart a törvényes működés helyreállítására vagy egyéb intézkedés megtételére.
-
-(4)
-
-63/L. § (1) A 63/A. § (1) bekezdésében meghatározott intézményfenntartók a jogviszony keletkezésétől számított harminc napon belül kötelesek a kinevezés tényéről, a Kar adat-nyilvántartási körébe tartozó adatokról és azok változásáról értesítést küldeni a Kar intézményének székhelye szerint illetékes területi szervéhez.
-
-(2) Az országos köznevelési szakértői és vizsgaelnöki névjegyzék, valamint a köznevelési szaktanácsadói névjegyzék vezetéséért felelős szerv köteles a névjegyzékről és annak módosulásáról értesítést küldeni a Karnak.
-
-(3) A Kar a tagjainak az alábbi adatait tartja nyilván:
-
-- a) családi és utóneve (születési családi és utóneve), neme,
-- b) születési helye, ideje,
-- c) anyja születési családi és utóneve,
-- d) lakcíme, tartózkodási helye,
-- e) munkahely megnevezése, OM azonosítója, a munkahely címe, telefonszáma, a jogviszony kezdetének és megszűnésének időpontja,
-- f) munkakör megnevezése,
-- g) szakértői, szaktanácsadói vagy érettségi vizsgaelnöki jegyzéken való szereplés ténye,
-- h) pedagógus előmeneteli rendszerben elfoglalt „Gyakornok”, „Pedagógus I.”, „Pedagógus II”, „Mesterpedagógus” vagy „Kutatótanár” státusza,
-- i) idegennyelv-ismerete,
-- j) oktatási azonosító száma,
-- k) legmagasabb iskolai végzettsége (több végzettség esetén valamennyi), szakképzettsége, iskolarendszeren kívüli oktatás keretében szerzett szakképesítése,
-- l) határozott idejű jogviszony esetén a határozott idő lejártának feltüntetése.
-
-(4) A Központi Iroda a tagnyilvántartási adatok körében az e törvényben meghatározott feladatainak ellátása céljából kezeli a (3) bekezdésben foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
-
-(5) A Kar tagja olyan tényt, információt, megoldást vagy adatot, amelyet a Kar érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott a tudomására, semmilyen módon nem hozhatja nyilvánosságra, és azt az e törvényben meghatározott célok elérésén kívüli tevékenységében semmilyen módon nem használhatja fel.
-
-(6) A Kar tagja a tevékenysége során tudomására jutott információkat csak a Kar jogos érdekeinek, működésének, a közszolgálat érdekeinek, működésének veszélyeztetése, valamint a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
-
-#### 36. A pedagógusok előmeneteli rendszere
-
-64. § (1) A köznevelési intézmény munkavállalói, közalkalmazottai (a továbbiakban: alkalmazott) tekintetében – a munkáltatótól függően – a Munka Törvénykönyvét vagy a közalkalmazottak jogállásáról szóló törvényt e törvény, valamint az e törvény végrehajtására kiadott rendeletek rendelkezéseivel együtt kell alkalmazni.
-
-(2) A köznevelési intézményben pedagógus-munkakörben foglalkoztatottakra a közalkalmazottak jogállásáról szóló törvény gyakornokra és gyakornoki időre, továbbá az előmeneteli és illetményrendszerre, minősítésre vonatkozó rendelkezései – a jubileumi jutalomra, valamint a célfeladatra, céljuttatásra vonatkozó rendelkezések kivételével – nem alkalmazhatóak.
-
-(2a) A köznevelési intézményben pedagógus-munkakörben foglalkoztatottakra a közalkalmazottak jogállásáról szóló törvény pihenőidőre vonatkozó rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-- a) a középfokú végzettségű pedagógusnak évi 20, a felsőfokú végzettségű pedagógusnak évi 21 munkanap alapszabadság jár,
-- b) a fizetési fokozat alapján járó pótszabadság nem illeti meg az oktató, nevelő munkát végzőknek járó pótszabadságra jogosult pedagógust,
-- c) a szabadságra vonatkozó rendelkezések alkalmazásában fizetési fokozat alatt fizetési kategóriát kell érteni.
-
-(3) E törvény biztosítja a pedagógus-munkakörben foglalkoztatottak számára a pályán való előmenetel lehetőségét.
-
-(4) A pedagógus-munkakörben foglalkoztatott az általa megszerzett legmagasabb, a munkakör ellátásához jogszabályban előírt iskolai végzettség, valamint állam által elismert szakképesítés, szakképzettség, továbbá a nevelő, oktató munkája ellátásához közvetlenül kapcsolódó, azt közvetlenül segítő doktori cím, tudományos fokozat, valamint akadémiai tagság, szakmai gyakorlat, publikációs tevékenység, minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján
-
-- a) Gyakornok,
-- b) Pedagógus I.,
-- c) Pedagógus II.,
-- d) Mesterpedagógus,
-- e) Kutatótanár,
-
-fokozatokat érheti el.
-
-(4a) Jogszabályban meghatározott, a pedagógus előmeneteli rendszer hatálya alá nem tartozó, pedagógus szakképzettséggel rendelkező személy a (4) bekezdés szerinti fokozatot önkéntesen, címzetes fokozatként szerezheti meg. A címzetes fokozat az azt megszerző személy munkavégzését megalapozó jogviszonyát nem módosítja, de azt a pedagógus előmeneteli rendszer hatálya alá kerülés esetén a besoroláskor a (4) bekezdésben foglalt fokozattal azonosnak kell tekinteni.
-
-(5) A pedagógus-munkakörben foglalkoztatott – a Gyakornok fokozatba tartozó pedagógus kivételével – a közalkalmazottak jogállásáról szóló törvény szerint közalkalmazotti jogviszonyban töltött időnek minősülő, továbbá a fizetési fokozat megállapításánál beszámítandó idő alapján háromévenként eggyel magasabb fizetési kategóriába lép. A pedagógust a tárgyév első napján kell a magasabb fizetési kategóriába besorolni. A magasabb fizetési kategória elérésével a hároméves várakozási idő újra kezdődik.
-
-(6) A pedagógusok minősítő vizsgáját és minősítési eljárását a hivatal szervezi. A minősítő vizsgára és a minősítési eljárásra a pedagógus a hivatalnál jelentkezik. A minősítő vizsga és a minősítési eljárás során a kapcsolattartás elektronikus úton történik.
-
-(7) A minősítési eljárás során minden pedagógus munkakörben foglalkoztatottra egységes, nyilvános szabályok vonatkoznak. A minősítő bizottság a jelölt pedagógus teljes körű tevékenységét, különösen a jogszabályokban és a pedagógus munkaköri leírásában megfogalmazott kötelezettségek teljesítését vizsgálja.
-
-(8) Ha a gyakornok a külön jogszabályban foglaltak szerint a megismételt minősítő vizsgán vagy a Pedagógus I. fokozatba besorolt pedagógus a megismételt minősítési eljárás eredményeként „nem felelt meg” minősítést kapott, közalkalmazotti jogviszonya, munkaviszonya e törvény erejénél fogva megszűnik. A közalkalmazotti jogviszony, munkaviszony a minősítő vizsga vagy a megismételt minősítési eljárás eredményének közlésétől számított tizedik napon szűnik meg.
-
-(9) A pedagógus a minősítő vizsga és a minősítési eljárás hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítését a minősítés közlésétől számított harminc napon belül a bíróságtól kérheti.
-
-65. § (1) A fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt az illetményalap százalékában az (1a) bekezdés és e törvény 7. melléklete állapítja meg.
-
-(1a) A köznevelési intézmény vezetője a pedagógus munkavégzése színvonalát, nyújtott munkateljesítményét kompetencia és teljesítményalapú értékelési rendszer alapján értékeli, és ennek figyelembevételével a munkáltató – tankerületi központ által fenntartott köznevelési intézmény esetében a köznevelési intézmény vezetője javaslatára és egyetértésével – a tanévre vonatkozóan a pedagógus besorolása szerinti illetménytől eltérően is meghatározhatja az illetményét azzal, hogy a pedagógus illetménye nem lehet kevesebb, mint a központi költségvetésről szóló törvényben meghatározott vetítési alap
-
-- a) középfokú végzettség esetén 119,6 százaléka,
-- b) alapfokozat esetén 174,5 százaléka,
-- c) mesterfokozat esetén 193,2 százaléka
-
-alapulvételével megállapított illetményalappal számolt illetmény.
-
-(2) Az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
-
-- a) középfokú végzettség esetén százhúsz százaléka,
-- b) alapfokozat esetén száznyolcvan százaléka,
-- c) mesterfokozat esetén kétszáz százaléka.
-
-(3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit, továbbá a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározott felső határnál magasabb mértékű pótlékot határozhat meg.
-
-(3a) A 62. § (1c) bekezdés a) pontja szerinti foglalkoztatott, aki a 62. § (1b) bekezdésében meghatározott feladatot látja el, a 8. mellékletben meghatározott diabétesz ellátási pótlékra jogosult. A diabétesz ellátási pótlék alapja – a feladatot ellátó foglalkoztatott besorolásától függetlenül – a mesterfokozathoz kapcsolódó illetményalap.
-
-(4) Az intézményvezetőt a fenntartó, az intézményben pedagógus-munkakörben foglalkoztatottakat az intézményvezető jutalomban részesítheti, amelynek éves összege vezető esetében nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tizenöt százalékát, beosztott esetében éves illetményének, munkabérének tizenöt százalékát.
-
-(5) Az intézményvezetőt a fenntartó, az intézmény többi vezetőjét az intézményvezető kereset-kiegészítésben részesítheti, amelynek éves összege nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tíz százalékát.
-
-(5a) A Kormány rendeletben az intézmény vezetői részére
-
-- a) az intézmény méretétől függően további bérpótlékot és
-- b) a nyújtott munkateljesítménytől függően ösztönzési keresetkiegészítést
-
-állapíthat meg.
-
-(5b) A munkáltató – ide nem értve a helyettesítést – a munkakörbe tartozó feladatokon kívüli, célhoz köthető feladatot állapíthat meg a pedagógus részére, amelynek teljesítése a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladja (a továbbiakban: célfeladat). A célfeladat eredményes végrehajtásáért – a pedagógus illetményén felül, írásban, a célfeladat teljesítésének igazolásakor – céljuttatás jár.
-
-(5c) A hivatal a pedagógus számára a közalkalmazottak jogállásáról, a közszolgálati tisztviselőkről vagy a kormányzati igazgatásról szóló törvénytől eltérően részben vagy egészben hazai vagy európai uniós forrásból finanszírozott projekt megvalósítására célfeladatot akkor is kitűzhet és céljuttatást akkor is megállapíthat, ha az adott feladat nem tartozik a hivatal közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladatai közé.
-
-(6) A legalább Pedagógus II. fokozatot elért pedagógus tízévenként – tudományos kutatáshoz, vagy egyéni tudományos továbbképzésen való részvételhez – legfeljebb egy évi fizetés nélküli szabadságot (a továbbiakban: alkotói szabadság) vehet igénybe.
-
-(7) Az öregségi nyugdíjkorhatárt öt éven belül elérő pedagógus, óvodai dajka választása szerint csökkentett munkaidőben dolgozhat. Illetménye, munkabére a munkaidő-csökkentés mértékének ötven százalékával csökken. A munkáltató csak akkor köteles biztosítani a választás szerinti feltételeket, ha azt a nevelési, a tanítási év vagy a tanítási év első félévének befejezését megelőző hatvan nappal korábban közli a pedagógus, az óvodai dajka. Az e bekezdésben foglalt kedvezményt csak azok választhatják, akik a nyugdíjkorhatár elérése előtti ötödik évet megelőzően legalább 20 év szakmai gyakorlattal rendelkeznek pedagógus-munkakörben vagy óvodai dajkaként.
-
-(8) A minősítő vizsga és a minősítési eljárás részletes szabályait, a sikeres minősítő vizsgához és minősítési eljáráshoz, az alkotói szabadság igénybevételéhez szükséges követelményeket külön jogszabály állapítja meg.
-
-(8a) A 64–65. § hatálya alá tartozó foglalkoztatottak tekintetében az Mt. 148–149. §-át, valamint 151. § (1)–(4) bekezdését és 152. §-át azzal az eltéréssel kell alkalmazni, hogy a távolléti díj megállapításakor az e törvény, valamint végrehajtási rendelete szerinti illetménypótlékot, továbbá az intézményvezetői kereset-kiegészítést is figyelembe kell venni. A távolléti díj megállapításakor az illetménypótlékok közül azokat, amelyek a foglalkoztatottat a munkavégzés esetén
-
-- a) folyamatosan megilletik, az Mt. 149. §-ának megfelelően az alapbérre,
-- b) folyamatosan nem illetik meg, az Mt. 151. § (4) bekezdésének megfelelően a bérpótlékra
-
-vonatkozó szabályok szerint kell figyelembe venni.
-
-(9) A 64–65. §-ban foglaltakat alkalmazni kell
-
-- a) a pedagógiai-szakmai szolgáltatatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben,
-- b) a nevelési-oktatási és a pedagógiai szakszolgálati intézményben nevelő- és oktatómunkát közvetlenül segítő munkakörben pedagógus szakképzettséggel, óvónői szakképesítéssel rendelkező,
-- c) – a (9a) bekezdésben foglalt eltéréssel – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben
-
-foglalkoztatott tekintetében is.
-
-(9a) A gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó intézményben pedagógus-munkakörben foglalkoztatott tekintetében
-
-- a) a 64. § (2) bekezdésében foglaltaktól eltérően a közalkalmazottak jogállásáról szóló törvény előmeneteli és illetményrendszerre vonatkozó szabályai közül – a jubileumi jutalomra vonatkozó 78. §-án túlmenően – alkalmazni kell a 66. § (2) bekezdését, a 67. §-át, a 69. §-át, a 70. §-át, a 72. §-át, a 74. §-át, a 75. §-át, a 77. § (1) és (2) bekezdését, a 78/A. §-át, a 79. §-át, valamint a 79/A. §-át is;
-- b) a 64. § (2a) bekezdésben foglaltakon túlmenően a fizetési fokozat alapján járó pótszabadság nem illeti meg a közalkalmazottak jogállásáról szóló törvény 57. § (3a) bekezdése szerinti pótszabadságra jogosult pedagógus-munkakörben foglalkoztatottat;
-- c) a 65. § (3) bekezdésében hivatkozott, a 8. melléklet szerinti illetménypótlék nem állapítható meg;
-- d) a 65. § (5) bekezdése szerinti intézményvezetői keresetkiegészítés nem állapítható meg;
-- e) a távolléti díj tekintetében a 65. § (8a) bekezdésében foglaltaktól eltérően a közalkalmazottak jogállásáról szóló törvény 80. § (2)–(4) bekezdését kell alkalmazni; továbbá
-- f) a 65. § (10) és (11) bekezdését nem kell alkalmazni.
+(9a)
 
 (9b)
 
-(9c) A pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott legfeljebb Pedagógus II. fokozatot érhet el. Ha a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat korábban pedagógus-munkakörben alkalmazták és Pedagógus II. fokozatnál magasabb fokozatot ért el, illetményét, munkabérét a Pedagógus II. fokozatnak megfelelően kell megállapítani.
+(9c)
 
-(10) A szakképzési centrum részeként működő köznevelési intézmény, az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, pedagógiai felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
+(10)
 
-(11) Abban az esetben, ha a magasabb vezetői, vezetői megbízással rendelkező pedagógus helyettesítésének ideje eléri a tíz munkanapot, a helyettesítő pedagógus heti tanóráinak, foglalkozásainak számát az ellátott magasabb vezető, vezető beosztásra meghatározott óraszám alapján kell megállapítani.
+(11) Abban az esetben, ha a vezetői megbízással rendelkező pedagógus helyettesítésének ideje eléri a tíz munkanapot, a helyettesítő pedagógus heti tanóráinak, foglalkozásainak számát az ellátott vezető beosztásra meghatározott óraszám alapján kell megállapítani.
 
 (12) Az üzemi baleset megállapíthatósága szempontjából a pedagógusok minősítő vizsgáján vagy a minősítési eljárásban, az országos pedagógiai szakmai ellenőrzésben, a pedagógiai szakmai szolgáltatási feladatokban a hivatal felkérése alapján résztvevő – nyugdíjasnak nem minősülő – szakértő vagy szaktanácsadó e tevékenysége a foglalkozása körében történő munkavégzésnek minősül.
 
-(13) A nevelési-oktatási és a pedagógiai szakszolgálati intézményben nevelő és oktató munkát közvetlenül segítő munkakörben pedagógus szakképzettséggel, szakképesítéssel rendelkező foglalkoztatott esetében a minősítő vizsga, minősítési eljárás során az ezen alcímben meghatározottaktól eltérő szabályokat a Kormány rendeletben állapítja meg.
+(13)
 
-#### 37. A köznevelésben történő alkalmazás feltételei
+#### 37.
 
-66. § (1) A köznevelésben az alkalmazás feltétele, hogy az alkalmazott, a megbízási jogviszonyban foglalkoztatott
+#### 66. §
 
-- a) rendelkezzen az előírt iskolai végzettséggel, szakképesítéssel, szakképzettséggel,
-- b) ne álljon a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, büntetlen előéletű legyen és
-- c) cselekvőképes legyen.
+#### 66/A. §
 
-(2) A pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott az óvodai nevelőmunka, az iskolai és kollégiumi nevelő és oktató munka, valamint a pedagógiai szakszolgálat ellátása során a gyermekekkel, tanulókkal összefüggő tevékenységével kapcsolatban a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személy.
+#### 38.
 
-(3) Gyakorló nevelési-oktatási intézményben, gyakorló pedagógiai szakszolgálati intézményben vezetőpedagógusi megbízást az kaphat, akinek pedagógus-munkakör betöltéséhez szükséges felsőfokú iskolai végzettsége és szakképzettsége, továbbá pedagógus-szakvizsgája vagy a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozata vagy doktori cselekmény alapján szerzett doktori címe, valamint a nevelő-oktató munkában, pedagógiai szakszolgálatban eltöltött legalább ötéves szakmai gyakorlata van.
-
-(4)
-
-66/A. § (1) A 66. § (1) bekezdés b) pontja szerinti feltétellel összefüggésben az alkalmazással vagy megbízási jogviszonnyal érintett személyre – ha a jogviszonyával összefüggésben törvény eltérően nem rendelkezik – a (2) és (3) bekezdést kell alkalmazni.
-
-(2) Azt a tényt, hogy az alkalmazással vagy megbízási jogviszonnyal érintett személy megfelel a 66. § (1) bekezdés b) pontjában meghatározott feltételeknek, az alkalmazással vagy megbízási jogviszonnyal érintett személy hatósági bizonyítvánnyal igazolja.
-
-(3) A munkáltató vagy a megbízási jogviszonyt megbízóként létesíteni kívánó személy a 66. § (1) bekezdés b) pontja szerinti feltétel ellenőrzése céljából kezeli az alkalmazással vagy megbízási jogviszonnyal érintett személy azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A megismert személyes adatokat a munkáltató vagy a megbízási jogviszonyt megbízóként létesíteni kívánó személy az alkalmazás vagy a megbízás létesítésével összefüggésben meghozott döntés időpontjáig vagy – a köznevelésben alkalmazás vagy megbízási jogviszony esetén – annak megszűnéséig vagy megszüntetéséig kezeli.
-
-#### 38. A nevelési-oktatási intézményvezetői megbízás feltételei
-
-67. § (1) Nevelési-oktatási intézményben intézményvezetői megbízás felsőfokú végzettséggel, pedagógus szakképzettséggel rendelkező és a Kormány rendeletében meghatározott egyéb feltételnek megfelelő személynek adható.
-
-(1a)
-
-(2) Nem lehet a köznevelési intézmény vezetője a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köztisztviselő, közalkalmazott. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magánintézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
-
-(3) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele kétnyelvű nemzetiségi iskolai nevelésben-oktatásban vesz részt, intézményvezetői megbízást az kaphat, aki az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban pedagógus-munkakört tölthet be. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
-
-(4)
-
-(5)
-
-(6)
-
-(7) Az intézményvezető kiválasztása – ha e törvény másképp nem rendelkezik – nyilvános pályázat útján történik. A pályázat mellőzhető, ha az intézményvezető ismételt megbízásával a fenntartó és a nevelőtestület egyetért. Egyetértés hiányában, továbbá az intézményvezető harmadik és további megbízási ciklusát megelőzően a pályázat kiírása kötelező.
-
-(8) Az intézményvezetői megbízásra benyújtott pályázat részét képező vezetési program közérdekből nyilvános adat, amelyet a köznevelési intézmény honlapján, annak hiányában a helyben szokásos módon nyilvánosságra kell hozni.
-
-(9) A szervezeti és szakmai tekintetben önálló intézményegységben vezetői megbízást az kaphat, aki rendelkezik az azonos feladatot ellátó önálló intézmény vezetői megbízásához szükséges feltételekkel. A nyilvános pályázatra vonatkozó rendelkezéseket az e bekezdésben szabályozott vezetői megbízás esetén is alkalmazni kell.
+#### 67. §
 
 #### 39. A köznevelési intézmény vezetője
 
-68. § (1) A tankerületi központ által fenntartott köznevelési intézmény, többcélú köznevelési intézmény vezetőjét a köznevelésért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú köznevelési intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
-
-(2) A tankerületi központ által fenntartott köznevelési intézmény kivételével az állami fenntartású, az egyházi és magán köznevelési intézmény, valamint a többcélú köznevelési intézmény vezetőjét a köznevelésért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
-
-(3) Az önálló intézményként működő köznevelési intézmény élén – a munkáltató döntésétől függően – igazgató vagy főigazgató áll. Az önálló intézmény tagintézményeként vagy intézményegységeként működő kollégium élén kollégiumvezető, más köznevelési intézményegység élén tagintézmény-vezető, intézményegység-vezető áll. A tagintézmény, intézményegység vezetője igazgatói megbízást, az intézményvezető-helyettes, tagintézményvezető-helyettes, intézményegységvezető-helyettes igazgatóhelyettesi megbízást is kaphat.
-
-(4) Ha jogszabályi előírás vagy a munkáltató döntése alapján a köznevelési intézmény vezetőjének megbízása, munkaszerződése határozott időre szól, és a határozott idő alapján a megbízás vagy a munkaszerződés utolsó napja nem a július 1-jétől augusztus 15-ig terjedő időszakra esne, a megbízás, a munkaszerződés lejártának időpontját akkor is erre az időszakra kell meghatározni, ha az a jogszabályi előírás vagy munkáltatói döntés alapján meghatározott határidő végénél legfeljebb hat hónappal korábban vagy később járna le.
+#### 68. §
 
 69. § (1) A köznevelési intézmény igazgatója
 
 - a) felel az intézmény szakszerű és törvényes működéséért, fenntartó által rendelkezésre bocsátott eszközök tőle elvárható gondossággal való kezeléséért – önálló költségvetéssel nem rendelkező intézmény kivételével – az intézmény gazdálkodásáért,
-- b) önálló költségvetéssel nem rendelkező intézmény igazgatója kivételével gyakorolja a munkáltatói jogokat a köznevelési intézményben foglalkoztatottak felett,
+- b)
 - c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
 - d) felelős az intézményi szabályzatok elkészítéséért,
-- e) jóváhagyja az intézmény pedagógiai programját,
+- e)
 - f) képviseli az intézményt.
 
 (2) A nevelési-oktatási intézmény igazgatója felel
@@ -2120,9 +1814,9 @@ foglalkoztatott tekintetében is.
 
 (4) A nevelési-oktatási intézmény igazgatójának munkáját a nevelőtestület és a szülők közössége a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli. Az országos pedagógiai-szakmai ellenőrzés az igazgató munkájának ellenőrzése és értékelése során a kérdőíves felmérés eredményét is figyelembe veszi.
 
-(5) A nevelési-oktatási intézmény vezetője munkaideje felhasználását és beosztását, az 5. mellékletben foglalt tanórák, foglalkozások megtartásának kötelezettségén kívül maga jogosult meghatározni.
+(5)
 
-(6) A korábban legalább két ciklust intézményvezetőként dolgozó pedagógus „címzetes igazgatói” pótlékban részesülhet, ha intézményvezetői megbízásának lejártát vagy megszűnését követően továbbra is az intézményben marad alkalmazásban. A pótlék mértéke a volt intézményvezető korábbi vezetői pótlékának huszonöt százaléka.
+(6)
 
 #### 40. A nevelőtestület
 
@@ -2489,7 +2183,7 @@ vizsgálja, amely során az a)–d) pont szerinti feltételeket egyenként és �
 - c) meghatározza a köznevelési intézmény költségvetését, továbbá – tankerületi központ által fenntartott köznevelési intézmény kivételével – a kérhető térítési díj és tandíj megállapításának szabályait, a szociális alapon adható kedvezmények feltételeit,
 - d) meghatározza az adott nevelési évben indítható óvodai csoportok számát, az adott tanítási évben az iskolában indítható osztályok, a kollégiumban szervezhető csoportok számát,
 - e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének törvényességét, hatékonyságát, a szakmai munka eredményességét, nevelési-oktatási intézményben továbbá a gyermek- és ifjúságvédelmi tevékenységet, a tanuló- és gyermekbaleset megelőzése érdekében tett intézkedéseket; ha a fenntartó nem települési önkormányzat, a tanuló- és gyermekbalesetet jelenti a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnak,
-- f) a köznevelési intézmény vezetőjének megbízása, kinevezése, a megbízás visszavonása, a jogviszony megszüntetésének jogával kapcsolatos, e törvényben foglalt korlátozó rendelkezések keretei között gyakorolja a munkáltatói jogokat a köznevelési intézmény vezetője felett,
+- f)
 - g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, továbbképzési programját, tantárgyfelosztását,
 - h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghatározott feladatok végrehajtását, a pedagógiai-szakmai munka eredményességét,
 - i) ellenőrzi a házirendet.
@@ -2535,6 +2229,10 @@ véleményét.
 
 (2) A fenntartó – önálló költségvetéssel rendelkező intézmény esetében a nevelési-oktatási intézmény költségvetésében – gondoskodik az iskolaszék, az óvodaszék, a szülői szervezet, továbbá az iskolai, kollégiumi diákönkormányzat működési feltételeiről.
 
+(2a) A fenntartó – azon fenntartói döntést megelőzően, amely az alapító okiratnak, szakmai alapdokumentumnak a 21. § (3) bekezdés c)–g) pontjában meghatározott bármely tartalmi elemére vonatkozó módosításával járna – vizsgálja az általános iskolai feladatellátás vonatkozásában azoknak a feltételeknek a teljesülését, hogy a módosítás végrehajtása esetén kialakítható-e a hátrányos helyzetű tanulók kiegyenlített, az azonos évfolyamok párhuzamos osztályai közti huszonöt százalékos különbséget meg nem haladó aránya az átszervezéssel érintett nevelési-oktatási intézményben, valamint biztosítható-e a sajátos nevelési igényű tanulók ellátásának folyamatossága.
+
+(2b) Amennyiben a fenntartó a (2a) bekezdés szerinti vizsgálat alapján intézményi átszervezésről dönt, úgy az általános iskolai beiratkozás során évente nyomon követi, hogy biztosított-e a hátrányos helyzetű tanulók egyenletes aránya, valamint a sajátos nevelési igényű tanulók ellátásának folyamatossága az átszervezéssel érintett nevelési-oktatási intézményben, és a feltételek kedvező alakulásának fenntartása érdekében meghatározza a szükséges intézkedéseket.
+
 (3) A fenntartó tanítási évben, továbbá – a július-augusztus hónapok kivételével – nevelési évben
 
 - a) iskolát nem indíthat, továbbá iskolát, kollégiumot, óvodát nem szervezhet át, nem szüntethet meg, fenntartói jogát nem adhatja át,
@@ -2574,6 +2272,40 @@ kapcsolatban.
 
 (10) Többcélú köznevelési intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.
 
+84/A. § (1) Az intézmény igazgatója a köznevelési közfeladat – ideértve a gyermekek művelődéshez való joga biztosításának kötelezettségét – folyamatos ellátásának biztosítása érdekében jelzéssel él a fenntartó felé, ha az állami fenntartású köznevelési intézmény működése bármely okból nem biztosítható.
+
+(2) A köznevelési intézmény fenntartója a jelzés alapján az érintett intézmény számára eltérő feladatellátási helyet jelöl ki.
+
+(3) A kijelölést haladéktalanul meg kell szüntetni akkor, ha az (1) bekezdés szerinti állapot már nem áll fenn.
+
+84/B. § (1) Az 84/A. § (2) bekezdése szerinti kijelölés esetén, ha a köznevelési közfeladat-ellátás másképp nem biztosítható – törekedve arra, hogy valamennyi érintett gyermek, tanuló, megfelelő színvonalú és mennyiségű oktatásban, nevelésben részesüljön –
+
+- a) a 25. § (7) bekezdésében foglaltaktól eltérően a köznevelési intézményben az óvodai csoportra, iskolai osztályra, kollégiumi tanulócsoportra megállapított maximális létszám meghaladható,
+- b) a 84. § (3) bekezdésében foglaltaktól eltérően a fenntartó tanítási évben, nevelési évben
+  - ba) iskolát indíthat, iskolát, kollégiumot, óvodát átszervezhet, megszüntethet, fenntartói jogát átadhatja, feladatait megváltoztathatja,
+  - bb) iskolai osztályt, kollégiumi tanulócsoportot, óvodai csoportot átszervezhet, megszüntethet, azzal, hogy törekedni kell, hogy biztosítva legyen az átvett tanulók esetében az osztályok, csoportok együtt tartása, maximális és átlag osztály- és csoportlétszámoktól eltérő létszámú osztályokat és csoportokat is létre lehet hozni,
+- c) a 84. § (7) bekezdés d) pontjában foglaltaktól eltérően a fenntartó, a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény esetében a köznevelésért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása időpontjában hozhat döntést a nevelési-oktatási intézmény átszervezésével kapcsolatban.
+
+(2) Az (1) bekezdés szerinti esetekben a fenntartó a tantárgyfelosztást és az órarendet a tanítási év közben is módosíthatja.
+
+(3) Az (1) bekezdés szerinti esetekben a fenntartó a nevelő-oktató munka megszervezése során a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló miniszteri rendeletben foglalt kötelező (minimális) helyiség- és a miniszteri dokumentumban kiadott eszközjegyzéknek való megfelelőséget biztosítani törekszik, azzal, hogy attól – a sajátos nevelési igényű gyermek, tanuló esetében az esélyegyenlőséghez szükséges eszközök biztosítása kivételével – a feltétlenül szükséges mértékben eltérhet.
+
+(4) A (3) bekezdés szerinti eltérés során – a gyermekek művelődéshez való jogának biztosítása érdekében – a fenntartó
+
+- a) legalább a – miniszteri rendeletben meghatározott, adott helyiséghez és kiszolgáló helyiséghez kapcsolódó – mennyiségi mutatóként meghatározott szempont 50%-át biztosítja,
+- b) az a) ponttól eltérően önálló igazgatói, igazgató-helyettesi, tagintézmény-, intézmény egységvezető-helyettesi, iskolatitkári iroda helyett nevelőtestületi szoba is biztosítható,
+- c) a kötelező (minimális) felszerelési jegyzékben meghatározott eszközök, felszerelések helyettesíthetők az adott eszköz, felszerelés funkciójának kiváltására alkalmas más eszközzel, felszereléssel,
+- d) az egészség- és munkavédelmi eszközök minimális szabályaitól nem térhet el.
+
+(5) Az (1) és (2) bekezdés szerinti intézkedésben az eltérő feladatellátási helyet úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt feladatellátási helyen a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet.
+
+84/C. § A 84/A. § (2) bekezdése szerinti kijelölés esetén, ha a köznevelési közfeladat-ellátás másképp nem biztosítható,
+
+- a) a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 76. § (1) bekezdésében foglaltaktól eltérően az általános teljes napi munkaidő a napi nyolc órát meghaladhatja, azzal, hogy a napi munkaidő mértéke a tizenkét, a heti munkaidő mértéke a negyvennyolc órát nem haladhatja meg, továbbá a felek megállapodása az általános teljes napi munkaidőnél rövidebb teljes napi munkaidőt nem állapíthat meg,
+- b) a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 76. § (2) bekezdésében foglaltaktól eltérően felek az adott munkakörre irányadó teljes napi munkaidőnél rövidebb napi munkaidőben nem állapodhatnak meg,
+- c) az Mt. 97. § (5) bekezdésében foglaltaktól eltérően a munkáltató a közölt munkaidő-beosztást a beosztás szerinti napi munkaidő kezdetét megelőzően legkésőbb tizenkét órával korábban módosíthatja, azzal, hogy a munkáltató a közölt munkaidő-beosztást a munkavállaló írásbeli kérésére is módosíthatja,
+- d) az Mt. 107. § a) pontjában foglaltaktól eltérően a munkaidő-beosztástól eltérő munkaidő nem minősül rendkívüli munkaidőnek.
+
 85. § (1) A a fenntartónak, ha egyetértési joga van a köznevelési intézmény házirendje tekintetében, az egyetértés kialakítására harminc nap áll rendelkezésre.
 
 (1a) A fenntartó a köznevelési intézmény pedagógiai programjának, éves munkatervének, valamint SZMSZ-ének jóváhagyásáról az igazgató általi felterjesztést követő harminc napon belül dönt.
@@ -2584,52 +2316,7 @@ kapcsolatban.
 
 (4) A fenntartó kötelezettségeinek teljesítése, jogainak gyakorlása nem sértheti a nevelési-oktatási intézmény szakmai önállóságát, az intézmény szakmai döntési hatásköreit, a köznevelési intézmény igazgatójának munkáltatói jogait, döntési jogosítványait, beleértve a gazdasági vezető feletti munkáltatói jogokat.
 
-85/A. § (1) Ha a fenntartóváltás következményeként a munkavállaló a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (2) bekezdésben foglalt kivétellel – a fenntartói jog átszállásának időpontjában közalkalmazotti jogviszonnyá alakul át.
-
-(2) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a munkaviszony, ha
-
-- a) az átvevő költségvetési szerv a közalkalmazottak jogállásáról szóló törvény rendelkezései alapján nem létesíthet közalkalmazotti jogviszonyt az átadással érintett munkavállalóval,
-- b) a munkavállalóval szemben a közalkalmazottak jogállásáról szóló törvény vagy e törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a munkavállaló legfeljebb a (9) bekezdésben foglalt időpontig intézkedik, és ezt igazolja,
-- c) a fenntartói jog átszállásának időpontja előtt a munkaviszony megszüntetéséről a munkáltató vagy a munkavállaló egyoldalú jognyilatkozatot tett vagy erről megállapodott,
-- d) e törvény értelmében a köznevelési intézmény működtetése a települési önkormányzat kötelező feladata, a köznevelési intézmény működtetésével összefüggő munkakörben foglalkoztatott munkavállalók esetében, vagy
-- e) a munkavállaló az (6) bekezdés alapján továbbfoglalkoztatásához nem járul hozzá.
-
-(3) A (2) bekezdés
-
-- a) a)–b), valamint e) pontjában foglalt esetben a munkaviszony a fenntartói jog átszállásának időpontjában a munka törvénykönyvéről szóló 2012. évi I. törvény 63. § (3) bekezdése alapján megszűnik,
-- b) c) pontjában foglalt esetben a munkaviszony az egyoldalú jognyilatkozatban vagy megállapodásban foglalt időpontban, az abban szereplő feltételek mellett szűnik meg,
-- c) d) pontjában foglalt esetben a működtetés körében foglalkoztatott munkavállalók munkaviszonyára – a működtetés feladatát ellátó önkormányzat az átvevő munkáltató kijelöléséről szóló döntése alapján, az átvevő munkáltatóra vonatkozó törvénytől függően – a Munka Törvénykönyvének a munkáltató személyében bekövetkező változásra vonatkozó szabályait vagy az e § rendelkezéseit kell alkalmazni.
-
-(4) Az átvevő költségvetési szerv a fenntartói jog átszállásáról és ennek munkaviszonyukat érintő következményeiről a munkavállalókat a fenntartói jog átszállásának időpontját megelőző legalább tizenöt napon belül tájékoztatja. Ha az átvevő költségvetési szerv megalapítására ezen időpontig nem kerül sor, a tájékoztatási kötelezettség az átvevő költségvetési szerv fenntartóját terheli.
-
-(5) A tájékoztatásnak tartalmaznia kell a további foglalkoztatást biztosító kinevezés következő tartalmi elemeire vonatkozó ajánlatot:
-
-- a) az átvevő költségvetési szerv személye,
-- b) a munkavégzés helye,
-- c) a besorolás és illetmény összege.
-
-(6) A munkavállaló a tájékoztatás alapján a fenntartói jog átszállásának időpontjáig nyilatkozik arról, hogy további foglalkoztatásához hozzájárul, vagy azt elutasítja.
-
-(7) Ha a munkaviszony
-
-- a) határozatlan időtartamú volt, akkor határozatlan időtartamú, ha határozott időtartamú volt, akkor a munkaszerződés szerinti időpontig tartó határozott időtartamú,
-- b) teljes munkaidőben történő foglalkoztatásra szólt, akkor teljes munkaidős, részmunkaidőben történő foglalkoztatás esetén részmunkaidős
-
-közalkalmazotti jogviszonnyá alakul át.
-
-(8) Az átvevő munkáltatónál létesítendő közalkalmazotti jogviszony tekintetében próbaidő nem köthető ki.
-
-(9) A fenntartói jog átszállásának napján a munkavállalót e törvény vagy a közalkalmazottak jogállásáról szóló törvény szerint be kell sorolni, és illetményét meg kell állapítani.
-
-(10) Ha a munkavállaló a kinevezést – korábbi további foglalkoztatására vonatkozó jognyilatkozatával ellentétesen – nem írja alá, nem adja hozzájárulását további foglalkoztatásához, vagy a nyilatkozattételt elmulasztja, munkaviszonyát a (2) bekezdés a) pontjában foglaltak alapján megszűntnek kell tekinteni, a munkaviszony megszűnésével összefüggő igazolásokat a (9) bekezdés szerinti határidőt követő öt munkanapon belül ki kell adni.
-
-(11) A munkavállaló munkaköre a fenntartói jog átszállása miatt nem változik. A munkaviszonyban álló vezető jogviszonyának átalakulását követően – e törvény és a közalkalmazottak jogállásáról szóló törvény rendelkezéseinek figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
-
-(12) A munkavállaló a fenntartói jog átszállásával közalkalmazotti jogviszonnyá átalakult korábbi munkaviszonyát – a jubileumi jutalomra jogosító idő számítása kivételével – az átvevő költségvetési szervnél a közalkalmazottak jogállásáról szóló törvény szerint kell közalkalmazotti jogviszonyban töltött időként elismerni.
-
-(13) A munkáltatónál hatályos kollektív szerződés a fenntartóváltás időpontjában hatályát veszti, vagy – részleges fenntartói jog átszállás esetén – az átvevő költségvetési szervhez át nem kerülő munkavállalókra kiterjedően marad hatályban.
-
-(14) A munkáltatónál működő üzemi tanács a fenntartói jog átszállásának időpontjában megszűnik.
+#### 85/A. §
 
 #### 49. A köznevelési intézmény ellenőrzése
 
@@ -2750,7 +2437,7 @@ ellenőrzés.
 
 - a) menekült, oltalmazott, menedékes, valamint a menedékjogról szóló 2007. évi LXXX. törvény 25/B. § (1) bekezdés b) pontja alapján befogadott jogállású,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogát Magyarországon gyakorolja,
-- c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik és bevándorolt vagy letelepedett jogállású, vagy Magyarország területén való tartózkodásra jogosító engedéllyel rendelkezik.
+- c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik és huzamos tartózkodási jogosultsággal, vagy Magyarország területén való tartózkodásra jogosító engedéllyel rendelkezik.
 
 (2) A feltételek meglétét a tanuló nevelési-oktatási intézménybe történő felvételénél igazolni kell.
 
@@ -2898,7 +2585,7 @@ legfeljebb kettő tankönyvet tartalmazhat.
 - s) az országos tanulmányi verseny szabályzatát,
 - t)
 - u) a tankönyvvé nyilvánítási eljárás igazgatási szolgáltatási díját, az igazgatási szolgáltatási díj felhasználására, visszafizetésére, visszatérítésére, nyilvántartására és elszámolására vonatkozó részletes szabályokat,
-- v) a Nemzeti Pedagógus Kar tagságának körét, országos és területi szervezeti felépítését, működését, feladatait, jogait, minimálisan létrehozandó szakmai tagozatait, az etikai eljárásának főbb szabályait, a tagnyilvántartás eljárási szabályait és a törvényességi felügyeleti jogkör gyakorlóját
+- v)
 
 rendeletben állapítsa meg.
 
@@ -2928,9 +2615,9 @@ egyetértésben gyakorolja.
   - cb) az érettségi vizsga általános követelményeit,
   - cc) az érettségi vizsgán részt vevő pedagógusok díjazását és az érettségi vizsgán való részvétellel összefüggő vizsgadíj megállapításának elveit,
 - d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
-- e) a pedagógusok fővárosi, vármegyei állandó helyettesítési rendszerének létrehozását és működtetését,
+- e)
 - f) a pedagógus-szakvizsga bevezetését, a pedagógus-továbbképzés rendszerét, a továbbképzésben résztvevők juttatásait, kedvezményeit; a pedagógus-továbbképzés programjának, a pedagógus-továbbképzési programok akkreditációjának feltételeit és eljárási rendjét, az akkreditált továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét, a továbbképzés minőségbiztosításának, ellenőrzésének rendjét, az ellenőrzés során feltárt hiányosságok, a minőségbiztosítás követelményeinek megszegése esetén alkalmazható jogkövetkezményeket, az e bekezdésben meghatározott eljárásokkal kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
-- g) az intézményvezetői megbízás iskolai végzettséggel, szakképzettséggel kapcsolatos és egyéb részletes feltételeit, a nevelési-oktatási intézményben pedagógus-munkakörben, óraadóként foglalkoztatottak végzettségi és szakképzettségi követelményeit, a pedagógusok előmeneteli rendszerét, az egyes fokozatokba történő besoroláshoz szükséges követelményeket, a címzetes fokozatok megszerzésének feltételeit, valamint a fokozatokhoz képest eltérő követelményeit, eljárási szabályait, és az azokhoz kapcsolódó jogosultságokat, a minősítő vizsgát és a minősítési eljárást lefolytató bizottság működését, a szakmai kritériumokra vonatkozó részletes rendelkezéseket, a minősítő vizsga és a minősítési eljárások során adható minősítések feltételeit, a minősítésekhez kapcsolódó fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó illetményt, az illetményeltérítés alapjául szolgáló kompetencia- és teljesítményalapú értékelési rendszert, valamint az ágazati, szakmai sajátosságokra tekintettel a 8. mellékletben meghatározott keretek között az illetménypótlék, az intézmény vezetői részére járó további pótlék, a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározottaknál magasabb mértékű pótlék, keresetkiegészítés és a jutalom megállapításának részletes szabályait, a megismételt minősítő vizsga és minősítési eljárások költségét, valamint a minősítési-, megújítási díj mértékét, befizetésének szabályait, a neveléssel-oktatással lekötött munkaidő számítása szempontjából egyes intézménytípusokban alapul veendő egy tanóra, foglalkozás időtartamát, a kollégiumi nevelőtanár által a neveléssel-oktatással lekötött munkaidejében ellátható, az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók folyamatos pedagógiai felügyeletébe tartozó egyes feladatokat, a nevelési-oktatási intézményekben elrendelhető rendkívüli munkavégzés, ügyelet és készenlét elrendelésének feltételeit, az ügyelet és az ügyelet alatt elrendelt munkavégzés díjazását is magában foglaló átalánydíjazás megállapításának szabályait és mértékét, a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatok körét, az eseti helyettesítésnek minősülő helyettesítést, az alkotói szabadság igénybevételének részletes szabályait, a pedagógusok munkaideje beosztásának szabályait, a nevelő és oktató munkát közvetlenül segítő alkalmazottak, valamint a gazdasági, ügyviteli, műszaki, kisegítő és más, nem pedagógus-munkakörben alkalmazottak besorolásához szükséges követelményeket, a halmozottan hátrányos helyzetű gyermekek, tanulók szülei iskolai végzettséggel összefüggő önkéntes nyilatkozatának kérdéseit, valamint az igazgatótanács munkáltatói jogosítványait,
+- g)
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának, kezelésének, érvényesítésének szabályait,
 - j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
@@ -2943,7 +2630,7 @@ egyetértésben gyakorolja.
 - q)
 - r) a készségfejlesztő iskolában az utolsó gyakorlati évfolyam elvégzését igazoló bizonyítvánnyal tanúsított végzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 - s) az országos köznevelési szakértői névjegyzékbe történő felvételhez szükséges dokumentumok körét,
-- t) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát,
+- t)
 - u) a köznevelési szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 - v)
 - w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
@@ -3078,7 +2765,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (15)
 
-(16) Az a pedagógus, aki e törvény hatálybalépésekor az ötvenkettedik életévét betöltötte, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
+(16)
 
 (17)
 
@@ -3092,7 +2779,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (20b)
 
-(21) Nem vonatkozik a minősítési kötelezettség arra a pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra, aki a 2013. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
+(21)
 
 (21a)
 
@@ -3141,7 +2828,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (9)
 
-(10) A Kar 2014-ben megválasztott tisztségviselőinek megbízatása két évre szól, és további két teljes ciklusra megválaszthatók.
+(10)
 
 #### 99/C. §
 
@@ -3187,34 +2874,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 ### 1. melléklet a 2011. évi CXC. törvényhez
 
-#### Az óvodában alkalmazott vezetők kötelező létszáma
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | Magasabb vezetői, vezetői megbízás | Feltétel | Létszám |
-| 2 | intézményvezető | intézményenként | 1 |
-| 3 | tagintézmény-vezető | tagintézményenként | 1 |
-| 4 | intézményvezető-helyettes | 51 gyermek létszám alatt | – |
-| 5 | intézményvezető-helyettes | 51 – 200 gyermek esetén | 1 |
-| 6 | intézményvezető-helyettes | 201 – 500 gyermek esetén | 2 |
-| 7 | intézményvezető-helyettes | 500-nál több gyermek esetén | 3 |
-| 8 | tagintézményvezető-helyettes | tagintézményenként 200 gyermeklétszám alatt | – |
-| 9 | tagintézményvezető-helyettes | tagintézményenként 201–500 gyermek esetén | 1 |
-| 10 | tagintézményvezető-helyettes | tagintézményenként 500-nál több gyermek esetén | 2 |
-
 ### 2. melléklet a 2011. évi CXC. törvényhez
-
-#### A nevelő munkát segítő alkalmazottak finanszírozott létszáma az óvodában
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | Munkakör | Feltétel | Létszám |
-| 2 | óvodatitkár | intézményenként, ahol a gyermekek létszáma eléri a 100 főt; továbbá 450 gyermekenként | 1 |
-| 3 | dajka vagy helyette gondozónő és takarító együtt | csoportonként | 1 |
-| 4 | pedagógiai asszisztens | 3 óvodai csoportonként | 1 |
-| 5 | szakorvos kizárólag sajátos nevelési igényű gyermekeket nevelő óvodában | 250 gyermekenként | 0,5 |
-| 6 | pszichopedagógus | – | fenntartó döntésétől függ |
-| 7 | úszómester | tanuszodával rendelkező óvodában | 1 |
 
 ### 3. melléklet a 2011. évi CXC. törvényhez
 
@@ -3244,39 +2904,6 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 ### 5. melléklet a 2011. évi CXC. törvényhez
 
-Intézményvezető heti tanóráinak száma (óvodapedagógus esetén óvodai foglalkozásainak száma)
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Intézménytípus | legalább 450 fő gyermek-, tanulólétszám | 200–449 fő közötti gyermek-, tanulólétszám | 50–199 fő közötti gyermek-, tanulólétszám | 50 fő alatti gyermek-, tanulólétszám |
-| 2 | Óvoda | 6 | 8 | 10 | 12 |
-| 3 | Általános iskola | 2 | 4 | 6 | 8 |
-| 4 | Középfokú iskola | 2 | 4 | 6 | 8 |
-| 5 | Kollégium | 4 | 6 | 8 | 10 |
-| 6 | Kizárólag sajátos nevelési igényű gyermekeket nevelő óvoda | 4 | 6 | 8 | 10 |
-| 7 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató általános iskola | 2 | 4 | 6 | 8 |
-| 8 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató középfokú iskola | 2 | 4 | 6 | 8 |
-| 9 | Kizárólag sajátos nevelési igényű gyermekeket tanulókat nevelő-oktató kollégium | 4 | 6 | 8 | 10 |
-| 10 | Alapfokú művészeti iskola | 2 | 4 | 6 | 8 |
-| 11 | Fejlesztő nevelés-oktatást végző iskolaként működő gyógypedagógiai, konduktív pedagógiai intézmény | 2 | 4 | 6 | 8 |
-
-Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-vezető, tagintézményvezető-helyettes, intézményegységvezető-helyettes heti tanóráinak száma (óvodapedagógus esetén óvodai foglalkozásainak száma)
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Intézménytípus | legalább 450 fő gyermek-, tanulólétszám | 200–449 fő közötti gyermek-, tanulólétszám | 50–199 fő közötti gyermek-, tanulólétszám | 50 fő alatti gyermek-, tanulólétszám |
-| 2 | Óvoda | 20 | 22 | 24 | 26 |
-| 3 | Általános iskola | 4 | 6 | 8 | 10 |
-| 4 | Középfokú iskola | 4 | 6 | 8 | 10 |
-| 5 | Kollégium | 8 | 10 | 12 | 14 |
-| 6 | Kizárólag sajátos nevelési igényű gyermekeket nevelő óvoda | 10 | 12 | 14 | 16 |
-| 7 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató általános iskola | 4 | 6 | 8 | 10 |
-| 8 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató középfokú iskola | 4 | 6 | 8 | 10 |
-| 9 | Kizárólag sajátos nevelési igényű gyermekeket, tanulókat nevelő-oktató kollégium | 8 | 10 | 12 | 14 |
-| 10 | Alapfokú művészeti iskola | 4 | 6 | 8 | 10 |
-| 11 | Fejlesztő nevelés-oktatást végző iskolaként működő gyógypedagógiai, konduktív pedagógiai intézmény | 4 | 6 | 8 | 10 |
-| 12 | Utazó gyógypedagógusi, utazó konduktori hálózat | 4 | 6 | 8 | 10 |
-
 ### 6. melléklet a 2011. évi CXC. törvényhez
 
 #### Gyermekek, tanulók finanszírozott heti foglalkoztatási időkeretének felső határa
@@ -3304,41 +2931,4 @@ Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-veze
 
 ### 7. melléklet a 2011. évi CXC. törvényhez
 
-#### A pedagógus fokozatokhoz tartozó garantált illetmény az illetményalap százalékában
-
-1M39694_0
-
-|  | A |  | B | C | D | E | F |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Kategória/év |  | Gyakornok (%) | Pedagógus I. (%) | Pedagógus II. (%) | Mesterpedagógus (%) | Kutatótanár (%) |
-| 2 | 1. | 0–2/4 | 100 |  |  |  |  |
-| 3 | 2. | 3–5 |  | 120 |  |  |  |
-| 4 | 3. | 6–8 |  | 130 |  |  |  |
-| 5 | 4. | 9–11 |  | 135 | 150 |  |  |
-| 6 | 5. | 12–14 |  | 140 | 155 |  |  |
-| 7 | 6. | 15–17 |  | 145 | 160 | 200 | 220 |
-| 8 | 7. | 18–20 |  | 150 | 165 | 205 | 225 |
-| 9 | 8. | 21–23 |  | 155 | 170 | 210 | 230 |
-| 10 | 9. | 24–26 |  | 160 | 175 | 215 | 235 |
-| 11 | 10. | 27–29 |  | 165 | 180 | 220 | 240 |
-| 12 | 11. | 30–32 |  | 170 | 185 | 225 | 245 |
-| 13 | 12. | 33–35 |  | 175 | 190 | 230 | 250 |
-| 14 | 13. | 36–38 |  | 180 | 195 | 235 | 255 |
-| 15 | 14. | 39–41 |  | 185 | 200 | 240 | 260 |
-| 16 | 15. | 42–44 |  | 190 | 205 | 245 | 265 |
-
 ### 8. melléklet a 2011. évi CXC. törvényhez
-
-#### A köznevelési intézményekben alkalmazottak számára járó pótlékok és azok mértéke az illetményalap százalékában
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | Pótlék megnevezése | Pótlék alsó határa | Pótlék felső határa |
-| 2 | intézményvezetői | 40 | 80 |
-| 3 | osztályfőnöki, kollégiumban csoportvezetői, alapfokú művészeti iskolában tanszakvezetői | 10 | 30 |
-| 4 | munkaközösség-vezetői | 5 | 10 |
-| 5 | intézményvezető-helyettesi | 20 | 40 |
-| 6 | nemzetiségi | 10 | 40 |
-| 7 | gyógypedagógiai | 5 | 10 |
-| 8 | nehéz körülmények között végzett munkáért járó | 10 | 30 |
-| 9 | diabétesz ellátási pótlék | 17 | 17 |

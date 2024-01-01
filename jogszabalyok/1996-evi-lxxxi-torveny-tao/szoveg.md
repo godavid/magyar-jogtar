@@ -132,7 +132,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
   - e) nem minősül ellenőrzött külföldi társaságnak az a külföldi személy vagy külföldi telephely abban az adóévében, ea) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti eredménye a 243.952.500 forint összeghatárt meg nem haladó nyereség és a nem kereskedelmi tevékenységből származó jövedelme a 24.395.250 forint forint összeghatárt meg nem haladó nyereség, vagy eb) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti nyeresége nem haladja meg az elszámolt működési költségei 10 százalékát,
   - f) az e) pont ea) alpontja alkalmazásában nem kereskedelmi tevékenységből származó jövedelemnek minősül fa) a kamat, fb) a pénzügyi eszközből származó jövedelem, fc) a szellemi alkotások jogából származó jövedelem, fd) a részvény, részesedés tartásából és kivezetéséből származó jövedelem, fe) a pénzügyi lízing tevékenységből származó jövedelem, ff) a biztosítási, banki és egyéb pénzügyi tevékenységekből származó jövedelem, fg) az a jövedelem, amely áruk és szolgáltatások kapcsolt vállalkozások számára történő értékesítéséből, kapcsolt vállalkozásoktól történő beszerzéséből származik, amennyiben az ilyen jövedelmet szerző személy ahhoz kapcsolódva nem, vagy csak kis mértékben valósít meg hozzáadott gazdasági értéket,
   - g) az e) pont eb) pontja alkalmazásában a működési költségek nem foglalják magukban a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti ország határain kívül értékesített áruk bekerülési értékét, valamint a kapcsolt vállalkozások részére teljesített kifizetések alapján elszámolt költséget, ráfordítást,
-  - h) nem minősül ellenőrzött külföldi társaságnak az a külföldi telephely, amely olyan az Európai Unió vagy az Európai Gazdasági Térség tagállamának nem minősülő államban fekszik, amellyel Magyarországnak a külföldi telephely jövedelemét a magyar társasági adózás alól mentesítő rendelkezést tartalmazó egyezménye áll fenn, és amely az említett egyezmény szerint telephelynek minősül;
+  - h) az a) pont alkalmazásában nem kell figyelembe venni a külföldi személy olyan állandó telephelyét, amely a külföldi személy illetősége szerinti államban adómentes vagy nem adóköteles,
   - i) a 8. § (1) bekezdés f) pontja alkalmazásában nem mentesülhet az ellenőrzött külföldi társaság minősítés alól az e) pont szerint az a külföldi személy, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban rendelkezik illetőséggel és az a külföldi telephely, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban fekszik;
 - 11a. energiahatékonysági célokat szolgáló beruházás, felújítás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, felújítás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
 - 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
@@ -239,7 +239,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - 35a.
 - 36.
 - 37. vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény alapján vagyonkezelő alapítványként vagy közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
-- 38.
+- 38. villamosenergia-tároló: a villamos energiáról szóló törvény szerinti villamosenergia-tároló;
 - 39.
 - 40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) által egyéni cégként meghatározott jogalany.
 - 40a. hivatásos sportoló: a sportról szóló 2004. évi I. törvény 1. § (4) bekezdésében meghatározott, a látvány-csapatsportnak minősülő sportágban foglalkoztatott sportoló azzal, hogy az általa jövedelemszerző foglalkoztatásban és díjazás ellenében nyújtott szolgáltatásként folytatott sporttevékenység hivatásos sporttevékenységnek minősül, amennyiben a részére sporttevékenységével összefüggésben az érintett támogatási időszakban nyújtott pénzbeli juttatás – a sportrendezvényen való részvételhez kapcsolódó utazási költségek és szállásköltségek kivételével – meghaladja a részvételi költséget és a sportoló jövedelmének legalább 50 százalékát teszi ki, függetlenül attól, hogy a sportoló és az érintett sportszervezet kötött-e egymással munkaszerződést;
@@ -1084,7 +1084,7 @@ elszámolt összeg még nem ellentételezte.
 
 - a) a helyi iparűzési adó és az innovációs járulék tényleges nyereségadó-ráfordításként elszámolt adóévi összege,
 - b) a 22. § (1) bekezdése, a 22/C. § (2) bekezdése szerint az arra jogosult szervezet részére juttatott támogatás nyereségadó-ráfordításként elszámolt adóévi összege (ide nem értve a kiegészítő támogatás, kiegészítő sportfejlesztési támogatás összegét),
-- c) a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének és a kutatás-fejlesztési tevékenység adókedvezményének az adózás előtti eredmény javára elszámolt adóévi összege,
+- c) a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének, a kutatás-fejlesztési tevékenység adókedvezményének és a villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezményének az adózás előtti eredmény javára elszámolt adóévi összege,
 - d)
 - e) a saját részvény, a saját üzletrész értékesítésekor, nem pénzbeli hozzájárulásként történő kivezetésekor közvetlenül a saját tőke adóévi csökkenéseként elszámolt veszteség összege,
 - f) a (2) bekezdés e) pontja alapján a korábbi adóév(ek)ben az adózás előtti eredményt növelő tételként figyelembe vett összegből az adózás előtti eredmény javára elszámolt adóévi összeg,
@@ -1097,7 +1097,7 @@ elszámolt összeg még nem ellentételezte.
 
 (2) A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét növeli:
 
-- a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a társasági adónak a 18/D. § (7) és (8) bekezdésében foglaltak miatt, továbbá a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének és a kutatás-fejlesztési tevékenység adókedvezményének az adózás előtti eredmény terhére elszámolt adóévi összege,
+- a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a társasági adónak a 18/D. § (7) és (8) bekezdésében foglaltak miatt, továbbá a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének, a kutatás-fejlesztési tevékenység adókedvezményének és a villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezményének az adózás előtti eredmény terhére elszámolt adóévi összege,
 - b)
 - c) a saját részvény, a saját üzletrész értékesítésekor, nem pénzbeli hozzájárulásként történő kivezetésekor közvetlenül a saját tőke adóévi növekedéseként elszámolt nyereség összege,
 - d) az az összeg,
@@ -1771,6 +1771,48 @@ megfelelő mértéket, de legfeljebb a 30 millió eurónak megfelelő forintöss
   - cb) ha a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
 - d) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
+### Villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezménye
+
+22/H. § (1) Az adózó adókedvezményt vehet igénybe villamosenergia-tároló létrehozatalára irányuló beruházás esetén. Az adókedvezmény a beruházás üzembe helyezését követő adóévben – vagy az adózó döntése szerint a beruházás üzembe helyezésének adóévében – és az azt követő öt adóévben vehető igénybe.
+
+(2) Az adókedvezmény igénybevételének feltétele, hogy az adózó a villamosenergia-tárolóba az adott évben betáplált energia legalább 75 százalékát a közcélú hálózatra a villamosenergia-tárolóval azonos ponton csatlakozó, megújuló energiából villamos energiát előállító erőműegységből vételezze.
+
+(3) Az adókedvezményt az adózó e törvény és az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai alapján maga állapítja meg.
+
+(4) Az adózó által igénybe vehető adókedvezmény mértéke nem haladhatja meg adózónként, továbbá beruházásonként, a beruházáshoz igényelt összes állami támogatással együttesen, jelenértéken a beruházás elszámolható költsége 30 százalékának megfelelő mértéket, de legfeljebb a 30 millió eurónak megfelelő forintösszeget.
+
+(5) Az adókedvezmény (4) bekezdés szerinti mértéke kisvállalkozásoknak nyújtott támogatás esetén 20 százalékponttal, középvállalkozásoknak nyújtott támogatás esetében 10 százalékponttal növelhető.
+
+(6) E § alkalmazásában elszámolható költségnek minősül a villamosenergia-tároló létrehozatalára irányuló beruházás bekerülési értéke.
+
+(7) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az az adózó és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+
+(8) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás tervezett megkezdése előtt, az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett elektronikus nyomtatványon tett bejelentéssel az adópolitikáért felelős miniszternek bejelenti az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott valamennyi adatot. A bejelentés késedelmes teljesítése esetén igazolási kérelem előterjesztésének nincs helye.
+
+(9) Az adókedvezmény a bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe.
+
+(10) Az adókedvezmény igénybevételének feltétele, hogy az adózó az adókedvezmény igénybevétele első adóévére vonatkozó társasági adóbevallása benyújtásáig rendelkezzen az adott villamosenergia-tárolóra is kiterjedő, érvényes és hatályos hálózati csatlakozási szerződéssel, valamint érvényes és hatályos hálózathasználati szerződéssel.
+
+(11) Az adókedvezmény akkor vehető igénybe, ha az adózó a beruházás részét képező valamennyi eszközt használatba veszi, és ezeket az eszközöket a beruházás üzembe helyezését követő legalább öt évig (a továbbiakban: kötelező üzemeltetési időszak) üzemelteti, illetve használja. Ha az adózó az üzembe helyezett, az elszámolható költség összegénél figyelembe vett eszközöket a kötelező üzemeltetési időszakon belül a befektetett eszközök közül pótlás nélkül kivezeti, vagy pótlás nélkül nem üzemelteti, akkor az ilyen eszközök bekerülési értéke az adókedvezmény alapjául szolgáló elszámolható költséget csökkenti.
+
+(12) Nem vehető igénybe adókedvezmény,
+
+- a) ha az adózó nehéz helyzetben lévő társaság, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
+- b) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló villamosenergia-tárolóhoz;
+- c) ha az adózóval szemben teljesítetlen visszafizetési felszólítás van érvényben olyan európai bizottsági határozat eredményeként, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
+
+(13) Az adózónak külön nyilvántartást kell vezetnie, amely tartalmazza a beruházás keretében üzembe helyezett, nyilvántartásba vett, az elszámolható költség részét képező, továbbá a kötelező üzemeltetési időszak alatt az állományból kikerült, illetve a szinten tartást szolgáló villamosenergia-tároló
+
+- a) üzembe helyezésének, nyilvántartásba vételének időpontját és helyét;
+- b) bekerülési értékét;
+- c) állományból történő kikerülésének időpontját, indokát.
+
+(14) Az adózó az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott adatokat a társasági adóbevallásában beruházásonként feltünteti.
+
+(15) Ugyanazon beruházás tekintetében az e § szerinti adókedvezmény együttesen nem alkalmazható a 22/B. § (1) bekezdése és a 22/E. § (1) bekezdése szerinti adókedvezménnyel, továbbá a Válságközlemény 2.5. szakasza alapján jóváhagyott SA.102428 számú bizottsági határozat szerinti támogatással.
+
+(16) Az adókedvezmény feltételeinek teljesítését az állami adó- és vámhatóság az adókedvezmény első igénybevételét követő harmadik adóév végéig legalább egyszer ellenőrzi.
+
 ### Az adókedvezmények igénybevételének szabályai
 
 23. § (1)
@@ -1863,12 +1905,12 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 - c) az adózó a vonatkozó társasági adóbevallását határidőben benyújtotta, és
 - d) a társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget esedékességig megfizette, továbbá a (2) bekezdés szerinti esetben az adóbevallásban bevallott, fizetendő adó 80 százaléka a (2) bekezdés szerinti rendelkező nyilatkozatban szereplő összeget eléri vagy meghaladja.
 
-(13a) Ha az állami adó- és vámhatóság az átutalást kizárólag azért tagadta meg, mert az adózó a társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget nem fizette meg határidőben, az adózónak az átutalás megtagadásáról szóló határozat átvételét követő 15 napon belül előterjesztett külön kérelmére az állami adó- és vámhatóság az átutalást akkor is teljesíti, ha
+(13a) Ha az állami adó- és vámhatóság az átutalást kizárólag azért tagadta meg, mert az adózó a társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget nem fizette meg határidőben, az adózónak az átutalás megtagadásáról szóló határozat átvételét követő 15. napig előterjesztett külön kérelmére az állami adó- és vámhatóság az átutalást akkor is teljesíti, ha
 
 - a) a késedelem nem haladja meg az esedékességtől számított 15 naptári napot, és
 - b) az adóelőleg, adó összegének megfizetése maradéktalanul megtörtént.
 
-(13b) A (13a) bekezdés szerinti kérelem előterjesztésére előírt határidő elmulasztása esetén igazolási kérelemnek nincs helye.
+(13b) A (13a) bekezdés szerinti kérelem előterjesztésére előírt határidő elmulasztása esetén igazolási kérelemnek nincs helye. Amennyiben a (13a) bekezdés szerinti kérelem az elutasító határozat meghozatalát megelőzően beérkezik az állami adó- és vámhatósághoz, az elutasító határozatot nem szükséges meghozni.
 
 (14) Ha az adózó egyidejűleg több társasági adóelőlege vonatkozásában tesz rendelkező nyilatkozatot, akkor az állami adó- és vámhatóság a (13) bekezdés a) pontja szerinti igazolást azon adóelőleg(ek) tekintetében veszi figyelembe, amely(ek) átutalása az igazolás benyújtásakor, illetve a (21a) bekezdés esetében az igazolás beérkezésekor még nem vált esedékessé.
 
@@ -2654,7 +2696,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az adózási szempontból nem együttműködő államok listáját rendeletben állapítsa meg.
 
-(4)
+(4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza a villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezményének részletes szabályait, igénylését, az adózó nyilvántartási és adatszolgáltatási kötelezettségét, az adópolitikáért felelős miniszter nyilvántartási, közzétételi és információszolgáltatási kötelezettségét.
 
 (5) E törvény hatálybalépésével egyidejűleg
 
@@ -2724,6 +2766,8 @@ az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 55. 
 30/K. § A 4. § 25a. pontja, a 22/B. § (1) bekezdés k) pontja és (20)–(35) bekezdése szerint igénybe vett támogatás a Válságközlemény 2.8. szakaszának szabályaival és a támogatási programot jóváhagyó határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatásnak minősül.
 
 30/L. § E törvény 4. § 23/g–23/j. pontjai és 22/G. §-a a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I. és II. Fejezete, valamint 25. cikke hatálya alá tartozó, kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
+
+30/M. § A 22/H. § a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I. és II. fejezete és 41. cikke hatálya alá tartozó támogatást tartalmaz.
 
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 
@@ -2913,7 +2957,15 @@ Nem a vállalkozási tevékenység érdekében felmerülő egyes költségek, r�
 
 A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:
 
-1.
+1. – a kettős nem adóztatás elkerülése érdekében – az a költség, ráfordítás, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban vagy a 19. § szerinti mértéknél alacsonyabb mértékű társasági adónak megfelelő adót (ideértve a nulla adómértéket és a társasági adónak megfelelő adó hiányát is) alkalmazó államban illetőséggel rendelkező külföldi személynek, ott fekvő telephelynek kifizetett (kifizetendő) jogdíj és kamat következtében merül fel, olyan mértékben, amilyen mértékben a külföldi személy, telephely a társasági adónak megfelelő adót nem fizette meg kivéve, ha a jogdíj, a kamat adóévi felmerülésének a fő célja adóelőnyön kívüli valós gazdasági, kereskedelmi előny, azzal, hogy ennek fennállását az adózó köteles bizonyítani. Az adózó bizonyítási kötelezettségét az éves bevallás benyújtásának napjáig, de legkésőbb annak határidejéig teljesíti, amelynek körében költségenként, ráfordításonként legalább az alábbi információkat veszi figyelembe:
+
+a) a külföldi személy, külföldi telephely nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét,
+
+b) a költség, ráfordítás hátteréül szolgáló szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit,
+
+c) a költség, ráfordítás felmerülését megalapozó célokat, ennek részeként többek között a valós gazdasági kereskedelmi előnyök és az adózási előnyök számszerűsítését,
+
+d) azon kamat, jogdíj összegét, amelyre a külföldi személy, telephely a társasági adónak megfelelő adót megfizette és ezt hitelt érdemlő módon igazolta;
 
 2.
 
@@ -2935,7 +2987,7 @@ b) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatáro
 
 bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel;
 
-9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is. Az adózó a bizonyítási kötelezettsége körében szerződésenként külön nyilvántartás (azonos tárgyú szerződések esetében összevont nyilvántartás) készítésére kötelezett, amely tartalmazza az ügyletben részt vevő vállalkozások nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét, a szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit, a nyilvántartás elkészítésének időpontját, a költség, ráfordítás elszámolását megalapozó okokat;
+9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is. Az adózó a bizonyítási kötelezettsége körében szerződésenként külön nyilvántartás (azonos tárgyú szerződések esetében összevont nyilvántartás) készítésére kötelezett, amely tartalmazza az ügyletben részt vevő vállalkozások nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét, a szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit, a nyilvántartás elkészítésének időpontját, a költség, ráfordítás elszámolását megalapozó okokat. Nem kell még egyszer növelni az adózás előtti eredményt azzal a költséggel, ráfordítással, amellyel az adózó az 1. pont alapján adóalapját megnövelte;
 
 10. A bíróság előtt nem érvényesíthető, továbbá az elévült követelés miatt elszámolt ráfordítás.
 

@@ -168,6 +168,8 @@ esetén.
 
 (3) Nincs szükség a gyámhatóság jóváhagyására, ha a jognyilatkozat érvényességét bírósági vagy közjegyzői eljárásban elbírálták.
 
+(4) Nincs szükség a gyámhatóság jóváhagyására nem tehermentes ingatlanszerzés esetén, ha a teher kizárólag ingatlan-nyilvántartásba bejegyzett közérdekű használati jog.
+
 #### 2:16. § [A kiskorú ellenérték nélküli kötelezettségvállalása]
 
 Semmis a kiskorú törvényes képviselőjének olyan jognyilatkozata, amellyel – a kiskorú vagyona terhére – ajándékoz, idegen kötelezettségért megfelelő ellenérték nélkül kötelezettséget vállal, vagy amellyel jogokról ellenérték nélkül lemond. Ezt a rendelkezést megfelelően alkalmazni kell a törvényes képviselőnek a korlátozottan cselekvőképes kiskorú jognyilatkozatához való hozzájárulására is.
@@ -955,6 +957,8 @@ Nem alakulhat át a jogi személy, ha
 #### 3:45. § [Szétválás]
 
 (1) A jogi személy különválás vagy kiválás útján több jogi személlyé szétválhat. Különválás esetén a jogi személy megszűnik, és vagyona a különválással létrejövő több jogi személyre mint jogutódra száll át. Kiválás esetén a jogi személy fennmarad, és vagyonának egy része a kiválással létrejövő jogi személyre mint jogutódra száll át.
+
+(1a) A kiválás történhet úgy is, hogy a szétváló jogi személy fennmarad, és vagyonának egy részével úgy hozza létre a jogutód jogi személyt, hogy annak egyedüli tagja lesz (leválás).
 
 (2) A jogi személy kiválással vagy különválással úgy is szétválhat, hogy
 
@@ -3297,7 +3301,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:321. § [A részvénytársaság szétválása]
 
-(1) Nyilvánosan működő részvénytársaság nem válhat szét.
+(1) Nyilvánosan működő részvénytársaság – a leválás esetét kivéve – nem válhat szét.
 
 (2) A részvénytársaság szétválása során a részvénytársaságok egyesülésére vonatkozó szabályokat is alkalmazni kell.
 
@@ -3497,7 +3501,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:340. § [Jegyzőkönyv]
 
-(1) Az ügyvezetés köteles gondoskodni arról, hogy a közgyűlésről jegyzőkönyv készüljön. A jegyzőkönyv tartalmazza a közgyűlés helyét és idejét, a szövetkezet taglétszámát, a jelenlévők számát, a szavazásra jogosultak számát, továbbá a taggyűlésen lezajlott fontosabb eseményeket, nyilatkozatokat és a határozatokat, valamint az azokra leadott szavazatok és ellenszavazatok számát, a szavazástól tartózkodókat vagy az abban részt nem vevőket.
+(1) Az ügyvezetés köteles gondoskodni arról, hogy a közgyűlésről jegyzőkönyv készüljön. A jegyzőkönyv tartalmazza a közgyűlés helyét és idejét, a szövetkezet taglétszámát, a jelenlévők számát, a szavazásra jogosultak számát, továbbá a közgyűlésen lezajlott fontosabb eseményeket, nyilatkozatokat és a határozatokat, valamint az azokra leadott szavazatok és ellenszavazatok számát, a szavazástól tartózkodókat vagy az abban részt nem vevőket.
 
 (2) Az ügyvezetés köteles a közgyűlési jegyzőkönyvet, a jelenléti ívet, valamint a képviseleti meghatalmazásokat tartalmazó okiratokat a szövetkezet dokumentumai között elhelyezni és megőrizni.
 
@@ -5819,7 +5823,7 @@ A tartás mértékére és módjára vonatkozóan elsősorban a jogosult és a k
 
 #### 4:207. § [A tartásdíj meghatározása]
 
-A tartásdíjat határozott összegben kell meghatározni. A bíróság ítéletében úgy rendelkezhet, hogy a tartásdíj évente, a következő év január 1. napjától a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindex növekedésének mértékével - külön intézkedés nélkül - módosul.
+A tartásdíjat határozott összegben kell meghatározni. A bíróság ítéletében úgy rendelkezhet, hogy a tartásdíj évente, a következő év február 1. napjától a Központi Statisztikai Hivatal által közzétett előző évre vonatkozó éves átlagos fogyasztói árindex növekedésének mértékével - külön intézkedés nélkül - módosul.
 
 #### 4:208. § [Tartással kapcsolatos per]
 
@@ -7833,7 +7837,7 @@ A kötelem megszűnik
 
 (3) Írásba foglaltnak kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt tartalom változatlan visszaidézésére, a nyilatkozattevő személyének és a nyilatkozat megtétele időpontjának azonosítására alkalmas formában kerül sor.
 
-(3a) Ha jogszabály eltérően nem rendelkezik, az ingatlannal kapcsolatos, valamint az öröklési jogi, családjogi, társasági jogi, illetve pénzügyi szolgáltatási jogviszonnyal összefüggésben elektronikus úton tett jognyilatkozat kizárólag akkor minősül írásba foglaltnak, ha annak tartalma írásjegyekkel rögzített és eleget tesz az elektronikus okirat létrehozására irányadó jogszabályi követelményeknek.
+(3a)
 
 (4) Írni nem tudó vagy nem képes személy írásbeli jognyilatkozata abban az esetben érvényes, ha azt közokirat vagy olyan teljes bizonyító erejű magánokirat tartalmazza, amelyen a nyilatkozó fél aláírását vagy kézjegyét bíróság vagy közjegyző hitelesíti, vagy amelyen ügyvéd ellenjegyzéssel vagy két tanú aláírással igazolja, hogy a nyilatkozó fél a nem általa írt okiratot előttük írta alá vagy látta el kézjegyével, vagy az okiraton lévő aláírást vagy kézjegyet előttük saját aláírásának vagy kézjegyének ismerte el. Az olvasni nem tudó, továbbá az olyan személy esetén, aki nem érti azt a nyelvet, amelyen az írásbeli nyilatkozatát tartalmazó okirat készült, az írásbeli jognyilatkozat érvényességének további feltétele, hogy magából az okiratból kitűnjön, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy a nyilatkozó félnek megmagyarázta.
 

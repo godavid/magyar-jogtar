@@ -600,7 +600,7 @@ ismételten életfogytig tartó szabadságvesztés büntetésre ítélik.
 
 (2) Nem utasítható ki az, aki számára Magyarország menedékjogot biztosít.
 
-(3) A szabad mozgás és tartózkodás jogával, valamint Magyarország területén letelepedettként vagy bevándoroltként tartózkodási joggal rendelkező személlyel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő.
+(3) A szabad mozgás és tartózkodás jogával, valamint Magyarország területén huzamos tartózkodási jogosultsággal rendelkező személlyel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő.
 
 (4) Azzal szemben,
 
@@ -2689,7 +2689,7 @@ terjedő szabadságvesztéssel büntetendő.
 209. § Aki
 
 - a) a tizennyolcadik életévét be nem töltött személyek foglalkoztatására vonatkozó törvényi előírásokat megszegi, vagy
-- b) keresőtevékenység folytatására jogosító engedéllyel nem rendelkező tizennyolcadik életévét be nem töltött harmadik országbeli állampolgárt foglalkoztat,
+- b) munkavégzési célból kiadott engedéllyel nem rendelkező tizennyolcadik életévét be nem töltött harmadik országbeli állampolgárt foglalkoztat,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
@@ -4676,7 +4676,7 @@ területén történő jogellenes tartózkodáshoz vagyoni haszonszerzés véget
 
 ### Harmadik országbeli állampolgár jogellenes foglalkoztatása
 
-356. § (1) Aki keresőtevékenység folytatására jogosító engedéllyel nem rendelkező
+356. § (1) Aki munkavégzési célból kiadott engedéllyel nem rendelkező
 
 - a) harmadik országbeli állampolgárt rendszeresen vagy tartósan, illetve
 - b) jelentős számú harmadik országbeli állampolgárt egyidejűleg
@@ -4685,12 +4685,12 @@ foglalkoztat, vétség miatt két évig terjedő szabadságvesztéssel bünteten
 
 (2) Bűntett miatt három évig terjedő szabadságvesztéssel büntetendő, aki
 
-- a) keresőtevékenység folytatására jogosító engedéllyel nem rendelkező harmadik országbeli állampolgárt különösen kizsákmányoló foglalkoztatási feltételek között foglalkoztat,
+- a) munkavégzési célból kiadott engedéllyel nem rendelkező harmadik országbeli állampolgárt különösen kizsákmányoló foglalkoztatási feltételek között foglalkoztat,
 - b)
 
 (3) E § alkalmazásában
 
-- a) különösen kizsákmányoló foglalkoztatási feltételek alatt a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott fogalmakat kell érteni;
+- a) különösen kizsákmányoló foglalkoztatási feltételek alatt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott fogalmakat kell érteni;
 - b) jelentős számú: legalább öt személy.
 
 ### Műemlék vagy védett kulturális javak megrongálása
@@ -6390,8 +6390,22 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 (5) E törvény alkalmazásában
 
-- a) harmadik országbeli állampolgár alatt a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott fogalmat kell érteni,
-- b) keresőtevékenység folytatására jogosító engedély: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott olyan tartózkodásra jogosító engedély, amellyel a harmadik országbeli állampolgár keresőtevékenységet folytathat;
+- a) harmadik országbeli állampolgár alatt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott fogalmat kell érteni,
+- b) munkavégzési célból kiadott engedély:
+  - ba) a Nemzeti Kártya,
+  - bb) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 48. § (2) bekezdés b) vagy c) pontja alapján kiadott Vállalati Kártya,
+  - bc) szezonális munkavállalás célú tartózkodási engedély,
+  - bd) beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély,
+  - be) foglalkoztatási célú tartózkodási engedély,
+  - bf) vendégmunkás-tartózkodási engedély,
+  - bg) Magyar Kártya,
+  - bh) EU Kék Kártya,
+  - bi) vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély (ideértve a hosszú távú mobilitási engedélyt),
+  - bj) kutatás célú tartózkodási engedély (ideértve a kutatói hosszú távú tartózkodási engedélyt, továbbá a kutatói rövid távú mobilitási igazolást),
+  - bk) tanulmányi célú tartózkodási engedély (ideértve a hallgatói mobilitási tartózkodási engedélyt, továbbá a hallgatói mobilitási igazolást),
+  - bl) összevont kérelmezési eljárás keretében kiadott családi együttélés biztosítása célú tartózkodási engedély,
+  - bm) humanitárius célból kiadott tartózkodási engedély,
+  - bn) kiküldetés célú tartózkodási engedély.
 
 (6) E törvény alkalmazásában az érték, a kár, valamint a vagyoni hátrány
 

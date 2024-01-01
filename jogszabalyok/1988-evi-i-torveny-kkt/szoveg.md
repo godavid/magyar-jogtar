@@ -259,6 +259,7 @@ alapvető jogai és kötelezettségei
 - b) a közterület igénybevétele rendeltetésszerű igénybevételnek, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz pedig a közúti közlekedés szervezésének és irányításának céljait szolgáló berendezésnek minősül,
 - c) a közterület b) pont szerinti rendeltetésszerű igénybe vétele közterület használati díjfizetési kötelezettséggel nem jár, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz elhelyezéséért az elhelyezőnek a közút kezelője részére elhelyezési díjat kell fizetnie,
 - d) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges.
+- e) a közvilágítási-, villany- és telefonoszlopon elhelyezett tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti gazdasági reklámnak.
 
 (3e) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés, valamint a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz. A tilalom nem vonatkozik a 2010. december 31-éig a nem gyorsforgalmi utak mentén kihelyezett 12A/0-ás ív méretű reklámfelülettel rendelkező reklámtáblákra, az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület által engedélyezett a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
 
@@ -727,7 +728,7 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 20. § (1) Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban
 
 - a) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött belföldi vagy nemzetközi közúti közlekedési szolgáltatásra (árufuvarozásra és személyszállításra),
-- b) a meghatározott okmány meglétéhez kötött saját számlás áru- és személyszállításra,
+- b) a meghatározott okmány meglétéhez kötött saját számlás személyszállításra,
 - c) a közúti szállítás szociális előírásaira, a vezetési időre, a szünetre, illetve a megszakításra és a pihenőidőre,
 - d) a közúti közlekedésben használt menetíró készülék és tachográf-korong, valamint a digitális tachográfokhoz szükséges kártyák használatára,
 - e) a veszélyes áruk szállítására, a szállítóra (fuvarozóra), a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyesáru-szállítási biztonsági tanácsadóra,
@@ -1314,7 +1315,7 @@ adatokat.
 
 (3) A típusvizsgálóra és a vizsgáló állomásra vonatkozó követelményeket, valamint a tanúsítási tevékenységükre vonatkozó szabályokat a miniszter, a típusvizsgáló és vizsgáló állomás engedélyezésére irányuló eljárás részletes szabályait a Kormány rendeletben határozza meg.
 
-(4)
+(4) A közlekedési hatóság a vizsgálóállomás engedélyezése iránti kérelmet elutasítja, ha a vállalkozás vezető tisztségviselője, képviselője büntetett előéletű.
 
 (5) A vizsgáló állomás tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait a közlekedési hatóság látja el.
 
@@ -1322,11 +1323,13 @@ adatokat.
 
 (6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 
+(6a) A (6) bekezdésben foglaltakon túl, nem engedélyezhető, nem végezhető a műszaki vizsgabiztosi tevékenység annak, aki állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet), vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt áll.
+
 (7) A közlekedési hatóság e törvény végrehajtására kiadott jogszabályban meghatározott esetekben a műszaki vizsgabiztos engedélyét felfüggeszti, vagy visszavonja és a nyilvántartásból törli.
 
 (8) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (5a) bekezdésben szereplő jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
-(9)
+(9) A vizsgálóállomás vezető tisztségviselője, képviselője a büntetlen előéletet, illetve a műszaki vizsgabiztos azt a tényt, hogy nem áll büntetőeljárás hatálya alatt, hatósági bizonyítvánnyal igazolja.
 
 24/B. § A polgári nemzetbiztonsági szolgálatok – ha az általuk üzemeltetett jármű (a továbbiakban: szolgálati jármű) forgalomba helyezés előtti vagy időszakos vizsgálatát a polgári nemzetbiztonsági szolgálatok vizsgáló állomásán végzik – mentesülnek a szolgálati járműveik forgalomba helyezés előtti és időszakos műszaki vizsgálatával, valamint hatósági engedéllyel és jelzéssel történő ellátásával kapcsolatos hatósági eljárások díjainak megfizetése alól.
 
@@ -1614,13 +1617,18 @@ terjedhet.
 
 (4) Az országos közutak forgalomba helyezése tárgyában hozott határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatónak nyilvánítható.
 
-(5) Az elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az első fokú engedélyezési eljárásban nem vett részt.
+(5)
 
 (6)
 
 (7) Ha jogszabály az engedélyezési eljárás során helyszíni szemle tartását írja elő, a közmeghallgatás a helyszíni szemlével együtt lebonyolítható.
 
-(8)
+(8) A közmeghallgatás – kivéve, amikor helyszíni szemlére is sor kerül – az érintettek személyes megjelenése nélkül,
+
+- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
+- b) honlapon való közzététel útján
+
+is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
 
 (9) A Kormány által kijelölt szervezet a kerékpárutakkal összefüggő egyes műszaki adatokról nyilvántartást vezet.
 
@@ -1773,11 +1781,11 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 33/B. § (1) A használati díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, ennek megfizetése elmaradása esetén a pótdíjat vagy meghatározásának módját, valamint a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
 
-(2)
+(2) A használati díjfizetéssel érintett országos közutakra vonatkozó úthasználati jogosultságot biztosító egyes jogosultságokat úgy kell megállapítani, hogy az ne járjon az ezeket a közutakat nem rendszeresen használók számára indokolatlan hátránnyal.
 
 (3) A használati díj nem tartalmazhat sem közvetett, sem közvetlen megkülönböztetést, így különösen tilos a diszkrimináció a gépjárművek nemzetisége vagy a gépjárművek tulajdonosának (üzemben tartójának) nemzetisége, illetve letelepedési országa, valamint a járművek nyilvántartásba vételi helye, illetve a közlekedési tevékenység kiindulási pontja vagy rendeltetési helye alapján.
 
-(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő két évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
+(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő három évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
 
 (4) A használati díj beszedésére jogosult szervezetek a használati díj megfizetésének elmulasztása esetén a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet szerinti pótdíj behajtása céljából, továbbá a (8) bekezdésben meghatározott szervezetek a díjfizetés ellenőrzése és a hatáskörükbe tartozó pótdíjkövetelés, vagy a pótdíjkülönbözetre vonatkozó követelés behajtására irányuló eljárás megindítása céljából az adat rögzítésétől a követelés elévülésének vagy az (5) bekezdésben meghatározott jogvesztő határidő eredménytelen elteltének időpontjáig jogosultak kezelni
 
@@ -1788,7 +1796,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (4a) A használati díj beszedésére jogosult szervezetek (4) bekezdésben meghatározott pótdíj behajtása érdekében megbízottat vehetnek igénybe.
 
-(5) A használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő 60 napos jogvesztő határidőn belül az üzembentartó részére postára adja a pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a használati díj megfizetését elmulasztó gépjármű üzembentartójának a használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő előtt ismertté válásától kell számítani. Nem kell pótdíjfizetési felszólítást kézbesíteni abban az esetben, ha a használati díjat és pótdíjat meg nem fizető üzembentartó, vagy a gépjármű vezetője a helyszíni ellenőrzés alkalmával az ellenőrzésről kiállított jegyzőkönyvet aláírja és átveszi. A pótdíjfizetési kötelezettség két év alatt évül el. A pótdíj után késedelmi kamat nem jár.
+(5) A használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő 60 napos jogvesztő határidőn belül az üzembentartó részére postára adja a pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a használati díj megfizetését elmulasztó gépjármű üzembentartójának a használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő előtt ismertté válásától kell számítani. Nem kell pótdíjfizetési felszólítást kézbesíteni abban az esetben, ha a használati díjat és pótdíjat meg nem fizető üzembentartó, vagy a gépjármű vezetője a helyszíni ellenőrzés alkalmával az ellenőrzésről kiállított jegyzőkönyvet aláírja és átveszi. A pótdíjfizetési kötelezettség három év alatt évül el. A pótdíj után késedelmi kamat nem jár.
 
 (5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás nem a tényleges üzemben tartó adatait tartalmazza, illetve külföldi üzembentartók esetén az (5) bekezdés szerinti határidő a tényleges üzemben tartó ismertté válásától számítandó.
 
@@ -2243,6 +2251,10 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 
 46/N. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 45/E. § (4) bekezdés a) és b) pontját a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint a 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.
 
+46/O. § (1) Az e törvénynek a hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény (a továbbiakban: Módtv4.) által megállapított 24/A. § (4) és (6a) bekezdését a 2024. január 1-jét követően indult és megismételt eljárásokban kell alkalmazni.
+
+(2) A Módtv4. által megállapított 24/A. § (4a) bekezdését a Módtv4. hatálybalépésekor a vizsgálóállomás vezető tisztségviselői, képviselői tevékenységet ellátó személy esetében nem kell alkalmazni.
+
 47. § A törvény alkalmazásában:
 
 - 1. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
@@ -2279,7 +2291,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - 31a. Nemzeti Tengelysúlymérő Rendszer: a 21/K. § (1) bekezdésében meghatározott célok érdekében rendszeresített, hitelesített vagy kalibrált mérőeszközöknek és az ezekhez kapcsolódó hatósági informatikai rendszer szoftver- és hardverelemeinek rendszere;
 - 32. Komplex Közlekedési Ellenőrző Pont: a közúti forgalomban részt vevők több szempontú ellenőrzésére szolgáló, információgyűjtő, elemező és dokumentáló rendszernek az elektronikus észlelésre szolgáló elemei és az azok rögzítésére szolgáló tartószerkezet.
 - 33. közúti hírközlő hálózat: az országos közutak üzemeltetéséhez szükséges állami tulajdonú, az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlő hálózat nem aktív hálózati elemei, ideértve az elektronikus hírközlési építményeket is.
-- 34. tájékozódást segítő jelzést megjelenítő reklámcélú eszköz: a közúton közlekedők tájékozódását megkönnyítő vagy azt segítő, különböző szolgáltatások igénybevételének, kulturális, idegenforgalmi vagy egyéb tevékenység végzésének lehetőségét úticélként megjelölő, továbbá ezek irányát, távolságát vagy helyszínét mutató jelzést megjelenítő, közvilágítási-, villany- és telefonoszlopon elhelyezhető berendezés, amely tartalmazhat olyan szót, szóösszetételt, grafikai vagy egyéb ábrát, illetve szöveges vagy képi megjelenítést, jelet, amely a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjának hatálya alá tartozik; a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a 12. § (3b) bekezdés szerinti reklámtáblának, reklámhordozónak, sem egyéb reklámcélú berendezésnek;
+- 34. tájékozódást segítő jelzést megjelenítő reklámcélú eszköz: a közúton közlekedők tájékozódását megkönnyítő vagy azt segítő, különböző szolgáltatások igénybevételének, kulturális, idegenforgalmi vagy egyéb tevékenység végzésének lehetőségét úticélként megjelölő, továbbá ezek irányát, távolságát vagy helyszínét mutató jelzést megjelenítő, közvilágítási-, villany- és telefonoszlopon elhelyezhető berendezés, amely tartalmazhat a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjában meghatározott szót, szóösszetételt, grafikai vagy egyéb ábrát, illetve szöveges vagy képi megjelenítést, jelet; a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjában meghatározott gazdasági reklámnak, reklámtáblának, reklámhordozónak, sem egyéb reklámcélú berendezésnek;
 - 35. közúti árutovábbítás: közúton tehergépjárművel végzett árufuvarozás, díj ellenében más által – gépjárművezetővel együtt – rendelkezésre bocsátott tehergépjármű áruszállítás céljára való felhasználása, valamint díj ellenében végzett vontatás;
 - 36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény;
 - 37. úthálózat-védelem: az országos út- és hídvagyon preventív védelme és megóvása, a közúti közlekedés biztonságát veszélyeztető, a megengedett legnagyobb össztömeget vagy tengelyterhelés-korlátozást túllépő, valamint a megengedett méretet meghaladó járművek közlekedésének szabályozásával és ellenőrzésével.
@@ -2507,6 +2519,8 @@ rendeletben állapítsa meg.
 - l) a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelv 1. cikke,
 - m) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv.
 - n) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló 2006/1/EK irányelv módosításáról szóló, 2022. április 6-i (EU) 2022/738 európai parlamenti és tanácsi irányelv.
+- o) az 1999/62/EK, az 1999/37/EK és az (EU) 2019/520 irányelvnek a gépjárművekre egyes infrastruktúrák használatáért kivetett díjak tekintetében való módosításáról szóló 2022. február 24-i (EU) 2022/362 európai parlamenti és tanácsi irányelv.
+- p) a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelv.
 
 50. § (1) A 18. § (1) bekezdése tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 

@@ -29,7 +29,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - 7. egységár: a termék e törvény végrehajtására kiadott jogszabályban meghatározott mértékegységére vonatkozó ár,
 - 8. eladási ár: a termék egy egységére vagy adott mennyiségére vonatkozó ár,
 - 9. ellátási lánc: az e törvény hatálya alá tartozó azon folyamatok összessége, amelyek szereplői közvetlen vagy közvetett hatással vannak a fogyasztóknak értékesítésre szánt termék előállítására, tárolására, forgalomba hozatalára és felhasználására,
-- 10. fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – fogyasztónak minősül a fentieken túlmenően az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] alkalmazásában fogyasztónak minősül a fentieken túlmenően az (EU) 2018/302 rendelet szerint vevőnek minősülő vállalkozás is,
+- 10. fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – fogyasztónak minősül a fentieken túlmenően az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] alkalmazásában fogyasztónak minősül a fentieken túlmenően az (EU) 2018/302 rendelet szerint vevőnek minősülő vállalkozás is,
 - 11. feljogosított szervezet: a fogyasztók érdekeit képviselő olyan közjogi vagy egyéb szervezet, amelyet valamely tagállam képviseleti keresetek indítására feljogosítottként kijelölt,
 - 12. fogyasztói csoport: a szervezők – díjazás ellenében történő – közreműködésével a csoport tagjai pénzének összegyűjtésén alapuló minden olyan csoport, amelynek célja, hogy minden tagja az általa előre meghatározott dolog tulajdonjogát a tagok befizetéseiből, előre meghatározott időtartamon belül – véletlenszerű vagy többletfeltételek vállalásától függő kiválasztás útján – a csoport segítségével megszerezze,
 - 13. fogyasztói érdekek képviseletét ellátó egyesület: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen egyesületek szövetsége,
@@ -334,13 +334,21 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 (2) A békéltető testület a vármegyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
 
-(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
+(2a) A békéltető testületek szakmai irányítását a fogyasztóvédelemért felelős miniszter látja el.
+
+(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet. A tárgyévi támogatási összeg a tárgyévet megelőző évben a békéltető testületek által meghozott, kötelezést tartalmazó határozatokban megállapított és befolyt eljárási költséggel csökkentett összegben kerül folyósításra azzal, hogy a különbözetet az állam a fogyasztói tudatosság növelését szolgáló intézkedésekre, a békéltető testületi elnökök és tagok képzésére, valamint a békéltető testületeknél az online meghallgatásokkal összefüggésben szükséges informatikai fejlesztésre fordítja.
 
 (4) A helyi önkormányzatok részt vállalhatnak a békéltető testület működtetésének feladataiból.
 
 (5) Online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén a fogyasztóvédelemért felelős miniszter által rendeletben kijelölt kamara által működtetett békéltető testület illetékes.
 
 (6) A békéltető testület köteles a tagjai számára rendszeresen képzést szervezni.
+
+(6a) A békéltető testület elnöke és tagja köteles a jogszabályban meghatározott szervezet képzésein és továbbképzésein részt venni és az alkalmazásától vagy a megbízásától számított egy éven belül békéltető testületi alapvizsgát tenni.
+
+(6b) A békéltető testületi alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés, valamint a tartós külszolgálat időtartama.
+
+(6c) A (6a) bekezdés szerinti képzés és továbbképzés, valamint a békéltető testületi alapvizsga szabályait a fogyasztóvédelemért felelős miniszter rendeletben állapítja meg.
 
 (7) A békéltető testületek együttműködnek a fogyasztói jogviták alternatív rendezésére irányuló eljárások joggyakorlatának fejlesztése, a döntések egyöntetűsége, a szakmaiság javítása, valamint a legjobb gyakorlatok átvétele érdekében.
 
@@ -358,7 +366,9 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 (4) Ha több fogyasztó közösen terjeszt elő kérelmet, bármelyik kérelmezőre illetékes testület valamennyi kérelmezőre nézve illetékes.
 
-(5) A békéltető testület illetékességi területe a testületet működtető kamara szerinti vármegyére (fővárosra) terjed ki.
+(5) A békéltető testületek székhelyét és illetékességi területét a 2. melléklet határozza meg.
+
+(5a) A békéltető testület az illetékességi területén található megyei jogú városokban a fogyasztó erre irányuló kérelme esetén szükség szerint heti egy alkalommal személyes meghallgatást biztosít a fogyasztók részére.
 
 (6) A békéltető testületi eljárás hivatalos nyelve a magyar.
 
@@ -440,7 +450,8 @@ foglalt személyes adatait.
 - d) lemondással,
 - e) alkalmatlanná válása esetén,
 - f) halálával,
-- g) felmondással.
+- g) felmondással vagy
+- h) ha a 18. § (6a) bekezdésében meghatározott idő alatt a békéltető testületi alapvizsgát nem tette le.
 
 (2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a kamara véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a területileg illetékes kamara, az MKIK és a fogyasztóvédelemért felelős miniszter által jelölt tagokból álló háromfős testület állapítja meg.
 
@@ -452,13 +463,15 @@ foglalt személyes adatait.
 
 24/A. § A békéltető testületi tagoknak függetlennek és pártatlannak kell lenniük, nem lehetnek képviselői a feleknek, eljárásuk során utasítást nem fogadhatnak el. Teljes titoktartásra kötelezettek a békéltető testület működése során tudomásukra jutott tények és adatok tekintetében, az eljárás megszűnése után is. Minderről kijelölésük elfogadásakor írásbeli nyilatkozatot kötelesek tenni.
 
-25. § (1) A békéltető testület tagja – a (2) bekezdésben foglalt vagylagos feltétel megléte esetén, a (3) és (4) bekezdésben foglalt kivétellel – egyedül jár el.
+25. § (1) A békéltető testület tagja – a (2) bekezdésben foglalt feltétel megléte esetén, a (3) bekezdésben foglalt kivétellel – egyedül jár el.
 
-(2) Az egyedül eljáró testületi tag jogi vagy közgazdasági felsőfokú végzettséggel kell, hogy rendelkezzen.
+(2) Az egyedül eljáró testületi tagnak jogi felsőfokú végzettséggel kell rendelkeznie.
 
 (3) Ha a testület elnöke szerint a fogyasztói jogvita bonyolultsága indokolja, a békéltető testület háromtagú tanácsban jár el.
 
-(4) Ha azt bármely fél kéri, akkor a békéltető testület háromtagú tanácsban jár el.
+(4) A békéltető testület – a (4a) bekezdésben foglalt kivétellel – a meghallgatást személyes jelenlét nélküli, hang- és képi átvitelt egyidejűleg biztosító elektronikai eszköz útján online formában tartja meg (a továbbiakban: online meghallgatás).
+
+(4a) Ha a fogyasztó kéri, a békéltető testület személyes meghallgatást tart.
 
 (5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
 
@@ -520,9 +533,10 @@ foglalt személyes adatait.
   - aa) békéltető testület előtt eljárást indítottak,
   - ab) közvetítői eljárást indítottak,
   - ac) per van folyamatban vagy annak tárgyában már jogerős ítéletet hoztak,
+  - ad) büntetőeljárásban a bíróság polgári jogi igény érdemében jogerős ítélettel határozott,
 - b) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránti ügyben fizetési meghagyás kibocsátására került sor,
 - c) a jogvita komolytalan vagy zaklató jellegű,
-- d) a kérelemből megállapítható, hogy az ügy nem minősül fogyasztói jogvitának, illetve ha a békéltető testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására vagy
+- d) a kérelem alapján az ügy nem minősül fogyasztói jogvitának – különösen, ha kártérítésre irányul –, illetve ha a békéltető testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására vagy
 - e) a fogyasztó a hiánypótlási felhívást – az erre nyitva álló határidőben – nem teljesítette.
 
 (4a) Az elnök a kérelem meghallgatás kitűzése nélküli elutasítása esetén ennek tényéről, valamint indokáról a feleket a kérelem kézhezvételétől számított huszonegy napon belül értesíti.
@@ -538,7 +552,7 @@ foglalt személyes adatait.
 
 (5b) Az (5) bekezdés szerinti értesítés magában foglalja a békéltető testület eljárásában meghozatalra kerülő döntések joghatására történő figyelemfelhívást, valamint az arra történő kioktatást is, hogy a felek nem kötelesek az eljárás során jogi képviselőt igénybe venni, azonban az eljárás bármely szakában kérhetnek független szakvéleményt, illetve képviselheti vagy segítheti őket harmadik fél. Az értesítés kiterjed az eljárás várható időtartamára, valamint az eljárás időtartama meghosszabbításának lehetőségére is.
 
-(6) A 25. § (4) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét, egyben köteles felhívni a felek figyelmét arra, hogy a 25. § (4) bekezdésében meghatározottak szerint nyolc napon belül kérhetik, hogy a testület háromtagú tanácsban járjon el.
+(6) A 25. § (4) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét.
 
 (7) A hozzájárulást megadottnak kell tekinteni, ha a fél – az elnök erre irányuló felhívásának kézbesítésétől számított – tizenöt napon belül nem nyilatkozik.
 
@@ -548,9 +562,9 @@ foglalt személyes adatait.
 
 (10) Ha a vállalkozás válasziratát nem terjeszti elő, a tanács köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
 
-(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Amennyiben a vállalkozás székhelye, telephelye vagy fióktelepe nem a területileg illetékes békéltető testületet működtető kamara szerinti vármegyébe van bejegyezve, a vállalkozás együttműködési kötelezettsége a fogyasztó igényének megfelelő írásbeli egyezségkötés lehetőségének felajánlására terjed ki.
+(11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Az online meghallgatáson a vállalkozás egyezség létrehozására feljogosított képviselője köteles online részt venni. Ha a fogyasztó személyes meghallgatást kér, a vállalkozás egyezség létrehozására feljogosított képviselője köteles legalább online részt venni a meghallgatáson.
 
-(12) A (11) bekezdésben meghatározott együttműködési kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a székhelye szerint illetékes fogyasztóvédelmi hatóságot.
+(12) A (11) bekezdésben meghatározott együttműködési kötelezettségét, valamint a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a békéltető testület székhelye szerint illetékes fogyasztóvédelmi hatóságot. A Pest vármegye területén illetékes békéltető testület vonatkozásában a Pest vármegye területén illetékes fogyasztóvédelmi hatóságot kell értesíteni.
 
 29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
 
@@ -572,6 +586,15 @@ foglalt személyes adatait.
 
 (3) Az eljárás nem nyilvános, kivéve, ha az eljárás nyilvánosságához mindkét fél hozzájárul.
 
+30/A. § (1) Az online meghallgatás esetén a meghallgatásra kerülő személy személyazonosságát az eljáró tanács elnöke állapítja meg. Az online meghallgatás útján meghallgatásra kerülő személy személyazonosságának igazolása
+
+- a) az általa a személyazonosságának és lakcímének igazolása érdekében rendelkezésre bocsátott adatai alapján és
+- b) a személyazonosságának igazolására alkalmas hatósági igazolványának bemutatásával
+
+történik.
+
+(2) A meghallgatás megkezdésekor az eljáró tanács elnöke tájékoztatja a meghallgatott személyt, hogy a meghallgatására online formában kerül sor.
+
 31. § (1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha az eljáró tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja, vagy a vállalkozás az eseti alávetésre hivatkozva a kérelem módosítása, illetőleg kiegészítése ellen tiltakozik.
 
 (2) Ha a meghallgatáson bármelyik fél szabályszerű értesítés ellenére nem jelenik meg, vagy nem terjeszti elő bizonyítékait, a tanács lefolytatja az eljárást, és a rendelkezésre álló adatok alapján dönt.
@@ -590,16 +613,18 @@ foglalt személyes adatait.
 
 32. § Egyezség hiányában a tanács az ügy érdemében
 
-- a) kötelezést tartalmazó határozatot hoz, ha a kérelem megalapozott, és a vállalkozás – a békéltető testületnél vagy a kamaránál nyilvántartott, illetve kereskedelmi kommunikációjában közölt – a 36/C. § szerinti általános alávetési nyilatkozatában, az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig nyilatkozatában a békéltető testület döntését magára nézve kötelezőként elismerte, vagy
+- a) kötelezést tartalmazó határozatot hoz, ha
+  - aa) a kérelem megalapozott, és a vállalkozás – a békéltető testületnél vagy a kamaránál nyilvántartott, illetve kereskedelmi kommunikációjában közölt – a 36/C. § szerinti általános alávetési nyilatkozatában, az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig nyilatkozatában a békéltető testület döntését magára nézve kötelezőként elismerte, vagy
+  - ab) a vállalkozás alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg a kétszázezer forintot, vagy
 - b) ajánlást tesz, ha a kérelem megalapozott, azonban a vállalkozás az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
 
 32/A. § A tanács a fogyasztó kérelmének elutasításáról dönt, ha a meghallgatást követően a kérelmet megalapozatlannak találja.
 
-33. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra. A kötelezést tartalmazó határozatban rendelkezni kell az eljárás költségének összegéről és annak viseléséről.
+33. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra. A kötelezést tartalmazó határozatban rendelkezni kell a békéltető testület működése körében felmerült eljárási költség összegéről és annak viseléséről.
 
 (2) Az eljárás költségének tekintendő mindaz a költség, ami a felek oldalán a békéltető testület eljárása igénybevételével összefüggésben – a célszerű és jóhiszemű eljárás követelményére figyelemmel – igazoltan felmerült (előzetes tudakozódás, egyeztetés és levelezés költsége, a felek személyes megjelenésével összefüggő útiköltség és keresetkiesés stb.). A jogi képviselettel összefüggésben felmerülő költség nem tekinthető az eljárás költségének.
 
-(3) Az eljárás költségét az a fél viseli, akinek terhére a tanács az ügyet eldöntötte.
+(3) Az eljárás költségét kötelezést tartalmazó határozat esetén az a vállalkozás viseli, amelynek terhére a tanács az ügyet eldöntötte. A fogyasztó kérelmének elutasítása esetén a felek viselik a saját költségüket.
 
 (4) A kötelezést tartalmazó határozatban megállapított kötelezettség teljesítésére rendszerint – a határozat kézbesítését követő naptól számított – tizenöt napos határidőt kell szabni.
 
@@ -626,7 +651,7 @@ foglalt személyes adatait.
 - b) a 18. § (1) bekezdése alapján a békéltető testületnek nem volt hatásköre az eljárásra, vagy
 - c) a 29. § (4) bekezdésében meghatározott okból a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A vállalkozás az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a békéltető testület székhelye szerint illetékes törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A vállalkozás az ajánlás vagy a kötelezést tartalmazó határozat hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás vagy a kötelezést tartalmazó határozat részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a békéltető testület székhelye szerint illetékes törvényszéktől, ha az ajánlás vagy a kötelezést tartalmazó határozat tartalma nem felel meg a jogszabályoknak.
 
 (5) A pert a békéltető testülettel szemben kell megindítani. A testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 
@@ -636,11 +661,15 @@ foglalt személyes adatait.
 
 (8) A bíróság eljárására egyebekben a Pp. I–XXX. fejezetének rendelkezései irányadók.
 
-35. § (1) A határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül a fél kérheti a tanácstól, hogy a határozatban, illetve az ajánlásban előforduló bármely névcserét, névelírást, szám- vagy számítási hibát vagy más hasonló elírást javítson ki, vagy a kötelezést tartalmazó határozat, illetve az ajánlás meghatározott része tekintetében adjon értelmezést.
+35. § (1) A határozat vagy az ajánlás, valamint a békéltető testület által hozott egyéb döntés részére történt kézbesítésétől számított tizenöt napon belül a fél kérheti a tanácstól, hogy a határozatban vagy az ajánlásban, valamint a békéltető testület által hozott egyéb döntésben előforduló bármely névcserét, névelírást, szám- vagy számítási hibát vagy más hasonló elírást javítson ki, vagy a kötelezést tartalmazó határozat vagy az ajánlás meghatározott része tekintetében adjon értelmezést.
 
 (2) Ha a tanács a kérelmet indokoltnak tartja, annak beérkezésétől számított nyolc napon belül a kijavítást elvégzi, illetve az értelmezést megadja. Az értelmezés a határozat, illetve az ajánlás részévé válik.
 
-(3) A tanács az (1) bekezdésben meghatározott hibát a határozat, illetve az ajánlás kihirdetésétől számított harminc napon belül kérelem hiányában is kijavíthatja.
+(3) A tanács az (1) bekezdésben meghatározott hibát a határozat vagy az ajánlás kihirdetésétől számított harminc napon belül, valamint a békéltető testület által hozott egyéb döntés közlésétől számított harminc napon belül kérelem hiányában is kijavíthatja.
+
+(4) Ha a tanács megállapítja, hogy a bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
+
+(5) A döntést nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett vagy gyakorolt jogot sértene.
 
 36. § (1) Ha a vállalkozás a tanács ajánlásának nem tesz eleget, a békéltető testület – a fogyasztó nevének megjelölése nélkül – a jogvita tartalmának rövid leírását és az eljárás eredményét – legkorábban az ajánlásnak a vállalkozás részére történt kézbesítésétől számított hatvan nap elteltével – nyilvánosságra hozza. A kézbesítési vélelemre tekintettel nyilvánosságra hozott ajánlások esetén, ha a kézbesítési vélelmet megdöntik, a békéltető testület haladéktalanul intézkedik a nyilvánosságra hozatal megszüntetéséről.
 
@@ -650,7 +679,9 @@ foglalt személyes adatait.
 
 (4) A bíróság megtagadja a határozat végrehajtásának elrendelését, ha a 18. § (1) bekezdése alapján a békéltető testületnek nem volt hatásköre az eljárásra.
 
-(5) A fogyasztó a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásának, illetve az ajánlásban foglaltak követésének elmaradásáról köteles értesíteni a békéltető testületet.
+(5) A fogyasztó a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásának vagy az ajánlásban foglaltak követésének elmaradásáról köteles értesíteni a békéltető testületet a határozatban vagy ajánlásban foglalt határidő lejártát követő tizenöt napon belül.
+
+(5a) A vállalkozás a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásáról vagy az ajánlásban foglaltak követésének teljesítéséről értesíti a békéltető testületet a határozatban vagy ajánlásban foglalt határidő lejártát követő tizenöt napon belül.
 
 (6) Ha a kézbesítési vélelemre tekintettel végrehajtási záradékkal ellátott kötelezést tartalmazó határozat alapján végrehajtási eljárás indult, és a címzett a kézbesítési vélelem megdöntése iránti kérelmet terjeszt elő, a kérelemnek a végrehajtásra nincs halasztó hatálya. Ha azonban a kérelemben foglalt tények fennállása valószínűnek mutatkozik, erről a kérelmet elbíráló békéltető testület elnöke – a valószínűségre vonatkozó álláspontja és a kérelem megküldésével – haladéktalanul értesíti a bíróságot. A vállalkozás a kézbesítési vélelem megdöntése iránti kérelmében kérheti a végrehajtás felfüggesztését, amit a bíróság a fogyasztó meghallgatása nélkül is elrendelhet.
 
@@ -1120,8 +1151,9 @@ terjedhet.
 (5) A fogyasztóvédelmi hatóság bírságot szab ki, ha
 
 - a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon a telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
-- b) a jogsértés a fogyasztók széles körét érinti, vagy
-- c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
+- b) a jogsértés a fogyasztók széles körét érinti,
+- c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét, vagy
+- d) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét.
 
 (6) Az (5) bekezdésben foglaltak esetén közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
 
@@ -1300,7 +1332,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - a) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelv;
 - b) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről szóló, 1998. február 16-i 98/6/EK európai parlamenti és tanácsi irányelv [a 2. § 7–8. pontja, a 14. § (1)–(3), (5) és (6) bekezdés, az 56/A. § (5) bekezdésben adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 - c) a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2020. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelv [2. § 5., 11., 15., 20., 21., 22., 23., 25., 34. pontja, 38. §, 38/A.–38/G. §, 46. § (2) bekezdés b) pontja, 47. § (1) bekezdés a) és b) pontja, 49. § (1) bekezdése, 51. § (2)–(4) bekezdése, 56/E. §];
-- d) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv [2. § 1., 3., 14., 27., 31. pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés c) pontja];
+- d) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv [2. § 1., 3., 14., 27., 31. pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés c) és d) pontja];
 - e) a fogyasztói jogviták bírósági eljáráson kívül rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről szóló, 1998. március 30-i 98/247/EK bizottsági ajánlás [18–37/A. §];
 - f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [2. § 12. pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
 - g) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv [a 37/B. § (1)–(2) bekezdése],
@@ -1379,3 +1411,19 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
 - 3.5. A vizsga írásbeli és szóbeli részből áll. A szervező az írásbeli és a szóbeli vizsgakérdéseket bejelenti a fogyasztóvédelmi hatósághoz. A bejelentett írásbeli vizsgakérdésekből összeállított írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a vizsgázó a tematikához kapcsolódó, bejelentett szóbeli vizsgakérdésekből ismerteti tudását.
 - 3.6. A vizsga eredményét a pontérték alapján, százalékban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
 - 3.7. A szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 évig köteles megőrizni és az ellenőrzés során a fogyasztóvédelmi hatóság számára bemutatni.
+
+### 2. melléklet az 1997. évi CLV. törvényhez
+
+#### A békéltető testületek illetékességi területe
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | Békéltető testület neve | Békéltető testület székhelye | Illetékességi terület |
+| 2 | Budapesti Békéltető Testület | Budapest | Budapest |
+| 3 | Baranya Vármegyei Békéltető Testület | Pécs | Baranya vármegye, Somogy vármegye, Tolna vármegye |
+| 4 | Borsod-Abaúj-Zemplén Vármegyei Békéltető Testület | Miskolc | Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Nógrád vármegye |
+| 5 | Csongrád-Csanád Vármegyei Békéltető Testület | Szeged | Békés vármegye, Bács-Kiskun vármegye, Csongrád-Csanád vármegye |
+| 6 | Fejér Vármegyei Békéltető Testület | Székesfehérvár | Fejér vármegye, Komárom-Esztergom vármegye, Veszprém vármegye |
+| 7 | Győr-Moson-Sopron Vármegyei Békéltető Testület | Győr | Győr-Moson-Sopron vármegye, Vas vármegye, Zala vármegye |
+| 8 | Hajdú-Bihar Vármegyei Békéltető Testület | Debrecen | Jász-Nagykun-Szolnok vármegye, Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye |
+| 9 | Pest Vármegyei Békéltető Testület | Budapest | Pest vármegye |

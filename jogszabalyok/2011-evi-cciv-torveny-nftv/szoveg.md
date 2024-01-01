@@ -793,11 +793,11 @@ címet adományozhat.
 39. § (1) Minden magyar állampolgárnak joga, hogy az e törvényben meghatározott feltételek szerint felsőoktatási intézményben tanulmányokat folytasson, magyar állami ösztöndíjjal, magyar állami részösztöndíjjal támogatott [a továbbiakban együtt: magyar állami (rész)ösztöndíj] vagy önköltséges képzésben. Ez a jog megilleti továbbá
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyeket,
-- b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, bevándoroltat, letelepedettet,
+- b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, huzamos tartózkodási jogosultsággal rendelkezőt,
 - c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 - d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgár a viszonosság elve alapján igénybe veheti az adott állam felsőoktatási szolgáltatásait,
 - e) a szomszédos államokban élő magyarokról szóló törvény (a továbbiakban: kedvezménytörvény) hatálya alá tartozó, de magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával nem rendelkező személyt,
-- f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt és magyar állampolgársággal sem rendelkezik
+- f) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt és magyar állampolgársággal sem rendelkezik
 - g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt,
 - h) az összevont engedéllyel rendelkező harmadik országbeli állampolgárokat.
 
@@ -936,6 +936,8 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 (1a) A felsőoktatási intézmény az (1) bekezdés a) pontja szerinti tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt állít ki és azt elektronikusan a tanulmányi rendszeren keresztül átadja azon felsőoktatási intézmény tanulmányi rendszerének, amellyel a vendéghallgató hallgatói jogviszonyban áll.
 
 (2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
+
+(2a) A felsőoktatási intézmény önköltséges részismereti képzés céljából hallgatójával is létesíthet újabb képzési jogviszonyt. A felsőoktatási intézmény a részismereti képzés eredményes elvégzéséről mikrotanúsítványt állít ki.
 
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 
@@ -1263,6 +1265,8 @@ esetében.
 (8) A fogyatékossággal élő hallgató részére biztosítani kell a fogyatékossághoz igazodó felkészítést és vizsgáztatást, továbbá segítséget kell nyújtani részére ahhoz, hogy teljesíteni tudja a hallgatói jogviszonyából eredő kötelezettségeit. Indokolt esetben mentesíteni kell egyes tantárgyak, tantárgyrészek tanulása vagy a beszámolás kötelezettsége alól. Szükség esetén mentesíteni kell az idegen szaknyelvi ismeretek tudásmérése vagy annak egy része, illetve szintje alól. A tudásmérés során biztosítani kell a hosszabb felkészülési időt, az írásbeli beszámolón lehetővé kell tenni a segédeszköz – így különösen írógép, számítógép – alkalmazását, szükség esetén az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását. Az e bekezdés alapján nyújtott mentesítés kizárólag a mentesítés alapjául szolgáló körülménnyel összefüggésben biztosítható és nem vezethet az oklevél által tanúsított szakképzettség megszerzéséhez szükséges alapvető tanulmányi követelmények alóli felmentéshez.
 
 (9) A (8) bekezdés rendelkezéseit a 40. § (6) bekezdése és az 53. § (5) bekezdés b) pontja szerinti idegen nyelvi követelményekre, valamint a doktori képzésre alkalmazni kell.
+
+(10) A felsőoktatási intézmény a hallgató által elért tanulási eredményről, a hallgató kérésére, mikrotanúsítványt állít ki.
 
 49/A. § A felsőoktatási intézmény gondoskodik az adott szakon szerezhető szakképzettség gyakorlásához szükséges idegen szaknyelvi ismeretek oktatásáról, a tanterv részeként biztosítja a feltételeket ahhoz, hogy a hallgató megszerezhesse a tantervben meghatározott, az adott szakon szerezhető szakképzettség gyakorlásához szükséges idegen szaknyelvi ismereteket. A felsőoktatási intézmény a tantervben foglaltak szerint biztosítja a tudásmérés lehetőségét a hallgató részére és értékeli az idegen szaknyelvi ismeretek megszerzését. A felsőoktatási intézmény a tantervben meghatározhat az idegen szaknyelvi ismeretként elfogadható államilag elismert nyelvvizsgát vagy más nyelvtudásmérést.
 
@@ -1968,7 +1972,7 @@ egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szin
 
 (2a)
 
-(2b) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
+(2b) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező vagy a huzamos tartózkodási jogosultsággal rendelkező hallgató esetében.
 
 (2c) A (2) bekezdés h) pontjában meghatározott egészségügyi alkalmassági vizsgálat elrendelése esetén az ösztöndíjprogram lebonyolító szerve, az ösztöndíjprogram megvalósításában részt vevő felsőoktatási vagy egyéb képző intézmények, valamint az ösztöndíjprogram működéséért felelős szakmai felügyeleti szerv (e § alkalmazásában a továbbiakban együtt: adatkezelők) az ösztöndíjra pályázó, illetve az ösztöndíjban részesülő személy egészségügyi alkalmassági vizsgálata céljából a pályázati eljárásban való részvétel és az ösztöndíj elnyerése érdekében a benyújtott pályázat benyújtásától az ösztöndíjas jogviszony megszűnéséig kezeli az ösztöndíjra pályázó és az ösztöndíjban részesülő személynek az egészségügyi alkalmassági vizsgálat elvégzéséhez szükséges személyes adatait. Az adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó, illetve az ösztöndíjas e bekezdésben meghatározott adatait.
 
@@ -2569,6 +2573,10 @@ klinikai központ lehet, amelyre ezen alcím rendelkezései szerinti eltérő sz
 
 rendelkezik.
 
+(1c) A tanárképző központ pedagógusképző központtá alakítható, amely esetben a feladatait a teljes pedagógusképzéshez kapcsolódóan látja el. Ebben az esetben a pedagógusképző központ az (1)–(1b) bekezdésben foglaltakon túlmenően önálló költségkerettel rendelkezhet, valamint feladata a köznevelés alapvető, tartalmi-szabályozó dokumentumát figyelembe vevő tartalmi összehangolás is.
+
+(1d) Az (1c) bekezdés szerinti pedagógusképző központ munkáját a tanárképzés területén a felsőoktatási intézmény tanárképzési tanácsa segíti, amelynek feladata többek között a tanárképzéssel összefüggő szakmai, tartalmi, gyakorlati képzéshez kapcsolódó feladatok összehangolásának támogatása, a mintatantervek, tantárgyleírások felülvizsgálata és a mindenkori köznevelés tartalmi szabályozó dokumentumainak történő megfelelés biztosítása. A tanárképzési tanács tagjai a gyakorlóiskolák és partnerintézmények szakvezetői, továbbá szakfelelősei. A tanárképzési tanács tagjainak legalább felét a szakfelelősök alkotják. A tanárképzési tanács tagjait a rektor nevezi ki öt évre.
+
 (2) A tanárképző központ koordinálja különösen a hallgatói meghallgatást, kiválasztást, felvételt, átvételt, a kreditelismerés, a pedagógiai szakképzés, a záróvizsga letételének folyamatát, és szervezi, ellenőrzi, valamint értékeli az iskolai gyakorlatot. Nyomon követi a hallgatói előremenetelt, pályakövetést végez.
 
 (3) A pedagógusképzést folytató felsőoktatási intézmények – alapfeladatuk keretében – részt vesznek a pedagógus-továbbképzésben. A pedagógus-továbbképzés szakmai jellegű koordinációjának biztosítása a tanárképző központ főigazgatójának a feladata.
@@ -2858,6 +2866,8 @@ esélyegyenlőségét biztosítja.
 - 27. a hallgatói hitel igénybevételének feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a hallgatói hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, a Diákhitel szervezet éves beszámoló készítésének és könyvvezetésének sajátosságait, valamint a hallgatói hitelrendszer működtetésének részletes szabályait.
 - 28. az átalakulással érintett felsőoktatási intézmény által fenntartott jogi személyiségű szervezeti egységként működtetett köznevelési intézmény jogutódlásával kapcsolatos egyedi kérdéseket.
 - 29. az alapnormatíva képzési területenként alkalmazandó súlyszorzóját.
+- 30. a felsőoktatási intézmények által kiállított okiratok külföldi felhasználásra történő felülhitelesítését,
+- 31. a mikrotanúsítvány kötelező tartalmi elemeit.
 
 (2) Felhatalmazást kap a Kormány, hogy
 

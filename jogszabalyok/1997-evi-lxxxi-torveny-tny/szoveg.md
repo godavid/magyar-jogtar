@@ -706,7 +706,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 - a) a szolgálati idő, illetve a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamának jogalap nélküli megállapítása az igénylőnek felróható, vagy
 - b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
 
-#### 68. §
+68. § Biztonságos kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal a küldeményt – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 15. §-ában foglaltak szerint – az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha ezt az ügyfél az ügyintézési rendelkezésében nem zárta ki.
 
 69. § (1) A nyugellátás attól a naptól állapítható meg, amely napon a jogosultsághoz szükséges feltételek bekövetkeztek.
 
@@ -732,13 +732,12 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 72. § (1)
 
-(2) Az ügyintézési határidő tárgyév április 15-én jár le, ha
+(2) Az ügyintézési határidő a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését követő tizenötödik napon jár le, ha
 
 - a) az öregségi nyugdíj megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, vagy
-- b) a hozzátartozói nyugellátás megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó szorzószámok hatálybalépését megelőzően nyújtották be, és a hozzátartozói nyugellátás megállapításához a valorizációs szorzószámokat alkalmazni kell,
-- c)
+- b) a hozzátartozói nyugellátás megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, és a hozzátartozói nyugellátás megállapításához a valorizációs szorzószámokat alkalmazni kell,
 
-és az általános ügyintézési határidő tárgyév április 15-ét megelőzően telik le.
+és az általános ügyintézési határidő a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését követő tizenötödik napot megelőzően telik le.
 
 (3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat vagy hatósági bizonyítvány kiadásának ügyintézési határideje tizenöt nap.
 
@@ -748,11 +747,11 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 73. § (1) Ha a nyugellátásra való jogosultság fennáll, de a nyugellátás összege a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hiánya, adathiány vagy egyéb ok miatt az eljárás megindulásától számított harminc napon belül nem határozható meg, a nyugdíjbiztosítási igazgatási szerv nyugdíjelőleget állapít meg.
 
-(2) A nyugdíjelőleget a rendelkezésre álló adatok, a hatályos valorizációs szorzószámok és a nyugellátás megállapítására vonatkozó rendelkezések alapján hivatalból határozattal kell megállapítani.
+(2) A nyugdíjelőleget a rendelkezésre álló adatok, a hatályos valorizációs szorzószámok és a nyugellátás megállapítására vonatkozó rendelkezések alapján hivatalból végzéssel kell megállapítani.
 
-(3) A nyugellátás megállapításakor a nyugdíjbiztosítási igazgatási szervet a nyugdíjelőleget megállapító határozatban foglaltak nem kötik, kivéve, ha a nyugdíjelőleget megállapító határozatot közigazgatási bíróság már elbírálta. Ha a nyugdíjelőleget megállapító határozat véglegessé válását követően új tény, adat vagy bizonyíték jut a nyugdíjbiztosítási igazgatási szerv tudomására, ezzel összefüggő kérdésben a közigazgatási bíróság határozatában foglaltaktól eltérhet.
+(3) Ha a nyugellátás iránti igényt az eljárás megindulását követő négy hónapon belül nem bírálják el, az igénylő az időközben beszerzett adatokra hivatkozva kérheti a nyugdíjelőleg összegének módosítását. A kérelemről a nyugdíjbiztosítási igazgatási szerv végzéssel dönt, amellyel szemben önálló jogorvoslatnak van helye.
 
-(4) Az igénylő a nyugdíjelőleget megállapító határozatban és a nyugellátást megállapító határozatban egyaránt feltüntetett megállapításokat a nyugellátást megállapító határozattal szembeni jogorvoslat során akkor is vitathatja, ha a nyugdíjelőleget megállapító határozattal szemben nem élt jogorvoslattal.
+(4) A nyugellátás megállapításakor a nyugdíjbiztosítási igazgatási szervet a nyugdíjelőleget megállapító végzésben foglaltak nem kötik, kivéve, ha a (3) bekezdés szerinti végzést közigazgatási bíróság már elbírálta. Ha új tény, adat vagy bizonyíték jut a nyugdíjbiztosítási igazgatási szerv tudomására, ezzel összefüggő kérdésben a közigazgatási bíróság határozatában foglaltaktól eltérhet.
 
 (5) A nyugellátás megállapításakor a nyugellátás összegébe a folyósított nyugdíjelőleget be kell számítani.
 
@@ -795,7 +794,7 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (7) Az esedékessé vált és fel nem vett nyugellátást az esedékességtől számított öt éven belül lehet felvenni.
 
-(8) A nyugdíjfolyósító szerv a késedelmesen folyósított nyugellátás összege után – a határidő lejártát követő naptól – a Polgári Törvénykönyv szerinti késedelmi kamatot (a továbbiakban: késedelmi kamat) fizet.
+(8) A nyugdíjfolyósító szerv a késedelmesen folyósított nyugellátás összege után – a határidő lejártát követő naptól – a Polgári Törvénykönyv szerinti késedelmi kamatot (a továbbiakban: késedelmi kamat) fizet, ha a késedelmi kamat összege meghaladja az 1000 forintot.
 
 ### Az igény érvényesítésének egyéb szabályai
 
@@ -806,7 +805,7 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 - a) a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál alacsonyabb összegben, vagy az igénylő számára egyébként kedvezőtlenebb módon, vagy
 - b) a nyugellátás összegét jogszerűen állapították meg, de a magasabb összegben vagy az igénylő számára egyébként kedvezőbb módon történő újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
 
-(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és a késedelmi kamatot ki kell fizetni a jogosultnak.
+(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és az 1000 forintot meghaladó összegű késedelmi kamatot ki kell fizetni a jogosultnak.
 
 (1c) Az (1a) bekezdés b) pontja szerinti esetben az újra megállapítás iránti eljárás megindulását megelőző hat hónapon belül járó összeget ki kell fizetni a jogosultnak.
 
@@ -814,13 +813,13 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (3) Abban az esetben, ha az (1)–(1b) bekezdés szerinti jogszabálysértésért a nyugdíjbiztosítási igazgatási szervet, a foglalkoztatót vagy egyéb szervet is felelősség terhel, a késedelmi kamatot közrehatásuk arányában kötelesek megfizetni. Ha a közrehatásuk aránya nem állapítható meg, a késedelmi kamat fizetési kötelezettség egyenlő arányban áll fenn.
 
-(4) A (2) és (3) bekezdés szerinti kötelezettet a késedelmi kamat megfizetésére a nyugdíjbiztosítási igazgatási szerv határozatban kötelezi.
+(4) A (2) és (3) bekezdés szerinti kötelezettet a késedelmi kamat megfizetésére a nyugdíjbiztosítási igazgatási szerv határozatban kötelezi, ha a késedelmi kamat összege meghaladja az 1000 forintot.
 
 (4a)
 
 (5)
 
-(6) Ha a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon, a nyugdíjbiztosítási igazgatási szerv a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, hivatalból alacsonyabb összegben, vagy az igénylő számára egyébként kedvezőtlenebb módon újra megállapítja.
+(6) Ha a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon, a nyugdíjbiztosítási igazgatási szerv a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, hivatalból alacsonyabb összegben, illetve az igénylő számára egyébként kedvezőtlenebb módon újra megállapítja. Nem állapítható meg újra a nyugellátás alacsonyabb összegben, ha a különbség nem haladja meg a havi 1000 forintot, és a magasabb összegű jogellenes megállapítás az igénylőnek nem róható fel.
 
 (7) Ha a nyugdíjbiztosítási igazgatási szerv jogszabálysértően arra nem jogosultnak állapított meg nyugellátást, a nyugellátást az azt megállapító döntés véglegessé válásától számított öt éven belül, hivatalból megszünteti.
 
@@ -853,7 +852,7 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 #### 83/B. §
 
-83/C. § (1) A Kormány rendeletében – a közfeladat-ellátás biztosítása érdekében – meghatározott kivétellel az öregségi nyugdíj folyósítását – az öregségi nyugdíj kezdő időpontjától, öregségi nyugdíjasként létesített jogviszony esetén pedig a jogviszony létesítésének hónapját követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig – szüneteltetni kell, ha a nyugdíjas közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, köztisztviselőként vagy közszolgálati ügykezelőként közszolgálati jogviszonyban, bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati viszonyban, ügyészségi szolgálati viszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban vagy a Magyar Honvédséggel szerződéses vagy hivatásos szolgálati viszonyban áll.
+83/C. § (1) A Kormány rendeletében – a közfeladat-ellátás biztosítása érdekében – meghatározott kivétellel az öregségi nyugdíj folyósítását – az öregségi nyugdíj kezdő időpontjától, öregségi nyugdíjasként létesített jogviszony esetén pedig a jogviszony létesítésének hónapját követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig – szüneteltetni kell, ha a nyugdíjas közalkalmazotti jogviszonyban, költségvetési intézménynél köznevelési foglalkoztatotti jogviszonyban, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, köztisztviselőként vagy közszolgálati ügykezelőként közszolgálati jogviszonyban, bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati viszonyban, ügyészségi szolgálati viszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban vagy a Magyar Honvédséggel szerződéses vagy hivatásos szolgálati viszonyban áll.
 
 (2) A nyugdíjbiztosítási igazgatási szerv az öregségi nyugdíj folyósításának szüneteltetéséről és a jogalap nélkül felvett öregségi nyugdíj visszafizettetéséről – a nyugellátásban részesülő személynek a 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt adatok alapján – hivatalból dönt.
 
@@ -891,6 +890,16 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 86/A. § (1) Aki a jogosult halála esetén a kiutalt nyugellátást jogalap nélkül vette fel, köteles azt visszafizetni.
 
 (2) Az (1) bekezdés szerinti ügyekben az ügyintézési határidő azon a napon kezdődik, amikor megállapítják, ki vette fel jogalap nélkül a nyugellátást.
+
+(3) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára jogalap nélkül utalt ellátás összegét a számla felett rendelkezésre jogosult személy köteles visszafizetni.
+
+(4) Ha nincs a számla felett rendelkezésre jogosult személy, akkor a jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára jogalap nélkül utalt ellátás összegéből a pénzforgalmi szolgáltató köteles visszafizetni azt az összeget,
+
+- a) amelynek visszautalása a fizetési számla terhére megtörténhet,
+- b) amelyet a saját hitelkövetelése vagy annak kamata kiegyenlítésére fordított, vagy
+- c) amellyel azt követően terhelte meg a fizetési számlát, hogy tudomást szerzett a jogosult haláláról.
+
+(5) A (3) és (4) bekezdés szerinti ügyekben az ügyintézési határidő azon a napon kezdődik, amikor a nyugdíjfolyósító szerv megállapítja, hogy a (3), illetve a (4) bekezdés alkalmazásának helye van.
 
 87. § (1) A foglalkoztató köteles megtéríteni a baleseti hozzátartozói nyugellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező – a munkavédelemről szóló 1993. évi XCIII. törvény 11–12. §-a szerinti – munkavédelemre vonatkozó szabályokban foglalt kötelezettségének nem tett eleget. Ugyanilyen megtérítési kötelezettség terheli a foglalkoztatót akkor is, ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
 
@@ -1181,7 +1190,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (3) A nyugdíjbiztosítási igazgatási szerv vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok kihelyezett állományának tagját érintő nyugdíjbiztosítási feladatok ellátásával összefüggő adatszolgáltatás rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
 
-99/A. § (1) A Tbj. szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó munkaügyi iratokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
+99/A. § (1) A Tbj. szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó munkaügyi iratokat, adatokat és foglalkoztatási igazolásokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
 
 (2) A nyilvántartásra kötelezett jogutód nélküli megszűnése esetén köteles bejelenteni az (1) bekezdés szerinti munkaügyi iratok őrzésének helyét a székhelye, telephelye szerint illetékes nyugdíjbiztosítási igazgatási szervnek.
 

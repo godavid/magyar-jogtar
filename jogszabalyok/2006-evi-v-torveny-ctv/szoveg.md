@@ -311,7 +311,7 @@ megismerhetők.
 
 (2a)
 
-(3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, az államigazgatási szerv, illetve más költségvetési szerv, továbbá a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – ideértve a cégkivonatot, a cégmásolatot, a cégbizonyítványt, a névjegyet, az iratjegyzéket, az elektronikus okirati formában nyilvántartott cégiratokat, a közleményeket, a névlistát, illetve a (3a) bekezdésben foglalt céginformációt – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez, tekintet nélkül arra, hogy a közfeladatot ellátó személy a céginformációt tanúsítvány használatával vagy a központi kormányzati szolgáltatás busz szerinti adattovábbítás útján kapja meg.
+(3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, az államigazgatási szerv, illetve más költségvetési szerv, továbbá a közjegyző, a bírósági végrehajtó, a felszámoló, a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendelet szerinti értékesítési rendszer működtetője, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – ideértve a cégkivonatot, a cégmásolatot, a cégbizonyítványt, a névjegyet, az iratjegyzéket, az elektronikus okirati formában nyilvántartott cégiratokat, a közleményeket, a névlistát, illetve a (3a) bekezdésben foglalt céginformációt – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez, tekintet nélkül arra, hogy a közfeladatot ellátó személy a céginformációt tanúsítvány használatával vagy a központi kormányzati szolgáltatás busz szerinti adattovábbítás útján kapja meg.
 
 (3a) Ha a közigazgatási szerv előtti, kérelemre induló hatósági eljárásban a kérelem elbírálásához annak hatóság általi megismerése szükséges, a közigazgatási hatóság a közigazgatási hatósági eljárás szabályai szerint, a céginformációs szolgálaton keresztül, elektronikus úton, közvetlen lekérdezéssel szerzi be a cég – közokirati vagy nem közokirati formában rendelkezésre bocsátott – cégkivonatát, valamint a cégjegyzésre jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját, ha az a cégbejegyzési (változásbejegyzési) eljárásban benyújtásra került és ezt a tényt a cégjegyzék tartalmazza. A közigazgatási szerv hatósági eljárásában a céget ezen iratok csatolására nem kötelezheti. E bekezdésben foglalt rendelkezések nem vonatkoznak arra az esetre, ha a közigazgatási szerv a kérelem tárgyában azonnal dönt.
 
@@ -506,7 +506,7 @@ megismerhetők.
 - f) meghatározott időtartamra alapított cég esetén a meghatározott idő lejártának napját,
 - g) a jogelőd, jogelődök, illetve a jogutód, jogutódok cégnevét, székhelyét és cégjegyzék számát, külföldi cég esetén továbbá a székhelye szerinti országkódját, illetve a cég erre vonatkozó döntése esetén az átalakulásnak a cég által meghatározott időpontját,
 - h) a könyvvizsgáló nevét (cégét) és lakóhelyét (székhelyét), e jogviszonya keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját; könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében is felelős,
-- i) a felügyelőbizottsági tagok nevét és lakóhelyét – ha a felügyelőbizottsági tag munkavállalói küldött, ezt a tényt is –, e jogviszonyuk keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
+- i) a felügyelőbizottsági tagok nevét és lakóhelyét – ha a felügyelőbizottsági tag munkavállalói küldött, ezt a tényt is –, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, e jogviszonyuk keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
 - j) annak a kamarának a megjelölését, amelynek a cég a tagja,
 - k) kiskorú tag (tulajdonos) esetén a törvényes képviselő nevét és lakóhelyét,
 - l) a külföldi jogi személy, illetve magyarországi lakóhellyel nem rendelkező természetes személy kézbesítési megbízottjának nevét (cégnevét), lakóhelyét (székhelyét),
@@ -547,7 +547,7 @@ megismerhetők.
 - a) a csődeljárás kezdő időpontját és befejezését,
 - b) a felszámolás kezdő időpontját és befejezését (külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve külföldiek magyarországi közvetlen kereskedelmi képviselete esetén a külföldi vállalkozás fizetésképtelenségére, illetve felszámolására vonatkozó eljárás megindítását és befejezését is, feltüntetve a külföldi vállalkozás felszámolójának nevét, lakóhelyét, illetve székhelyét),
 - c) a végelszámolás kezdő időpontját és befejezését (külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve külföldiek magyarországi közvetlen kereskedelmi képviselete esetén a külföldi vállalkozás végelszámolásának megindítását és befejezését, valamint a külföldi vállalkozás végelszámolójának nevét, lakóhelyét, illetve székhelyét),
-- d) a cég megszűntnek nyilvánítását, továbbá, ha a jogi személy megszűntnek nyilvánítására büntetőügyben eljáró bíróság döntése alapján került sor, a bíróság megnevezését, valamint az ítélet számát és jogerőre emelkedésének időpontját,
+- d) a cég megszűntnek nyilvánítását, továbbá, ha a jogi személy megszűntnek nyilvánítására büntetőügyben eljáró bíróság döntése alapján került sor, a bíróság megnevezését, valamint a határozat számát és jogerőre emelkedésének időpontját,
 - e) a megszüntetési eljárás kezdő időpontját és befejezését,
 - f) a bejegyző végzés hatályon kívül helyezése iránti perindítást és a per befejezését,
 - g) a cégalapítás vagy a létesítő okirat módosítása érvénytelenségének megállapítása iránti perindítást és a per befejezését,
@@ -570,7 +570,7 @@ megismerhetők.
 
 (2a) Az (1) bekezdés o) pontjában meghatározott adatokat, valamint a cég neve (rövidített neve) mellett a „szerkezetátalakítás alatt” („sz. a.”) toldat bejegyzését a szerkezetátalakítási eljárást lefolytató bíróság végzése alapján elektronikus úton kell rögzíteni a cégjegyzékben, a nyilvános szerkezetátalakítást közzé tevő végzés Cégközlönyben történő közzétételével egyidejűleg. Ha a nyilvános szerkezetátalakítási eljárás befejeződik vagy megszűnik, a szerkezetátalakítási eljárást lefolytató bíróság végzése alapján e végzés jogerőre emelkedésének napjával a nyilvános szerkezetátalakítással összefüggésben bejegyzett adatokat, ideértve a cég nevéhez (rövidített nevéhez) kapcsolódó toldatot is, automatikusan kell törölni a cégjegyzékből.
 
-(3) A cégbíróság a perben eljáró bíróság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be az (1) bekezdés f)–h) pontjában meghatározott adatokat. A cég cégjegyzékadatait tartalmazó céginformációban a perre vonatkozó adat kizárólag abban az esetben tüntethető fel, ha a per jogerősen még nem fejeződött be. A cégbíróság a perben eljáró bíróság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be az (1) bekezdés m) pontjában meghatározott adatokat. E törvény 27. § (1) bekezdésének c) pontjában, a 27. § (2) bekezdésének d) pontjában, a 27. § (3) bekezdésének d) pontjában, a 27. § (4) bekezdésének ad) pontjában, továbbá a 27. § (5) bekezdésének c) pontjában meghatározott adatot a cégbíróság az eljáró bíróság elektronikus értesítése alapján szintén automatikus bejegyzéssel jegyzi be.
+(3) A cégbíróság a perben eljáró bíróság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be az (1) bekezdés f)–h) pontjában meghatározott adatokat. A cég cégjegyzékadatait tartalmazó céginformációban a perre vonatkozó adat kizárólag abban az esetben tüntethető fel, ha a per jogerősen még nem fejeződött be. A cégbíróság a perben eljáró bíróság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be az (1) bekezdés m) pontjában meghatározott adatokat.
 
 (4) A cégbíróság a végrehajtást (biztosítási intézkedést, zár alá vételt) elrendelő hatóság, bíróság elektronikus értesítése alapján automatikusan jegyzi be és teszi közzé az (1) bekezdés i)–j) pontjában meghatározott adatokat. Az (1) bekezdés k) pontjában szereplő adatokat a cégbíróság az ügyészség, illetve az ügyben eljáró bíróság elektronikus értesítése alapján ugyancsak automatikusan jegyzi be és teszi közzé. Az állami adó- és vámhatóság az általa elrendelt végrehajtás cégjegyzékbe bejegyzendő adatait elektronikus úton közli a cégbírósággal. Az e § szerinti azon tények bejegyzésére, amelyek bejegyzése nem automatikus végzéssel történik, fogalmazó vagy bírósági ügyintéző önállóan is jogosult.
 
@@ -603,8 +603,8 @@ megismerhetők.
 
 - a) a tagok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint amennyiben a tag szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag minősített többségű befolyással rendelkezik, ezt a tényt is,
 - b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
-- c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét,
-- d)
+- c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét, a zálogjoggal biztosított követelés összegét vagy azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet, továbbá – kikötése esetén – az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat,
+- d) az üzletrészt terhelő zálogjog elzálogosításával alapított alzálogjog tényét, az alzálogjogosult (alzálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), alzálogjogosulti bizományos esetén e minőségét, továbbá – kikötése esetén – az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat,
 - e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát,
 - f) a cég EUID-ját,
 - g) azt a tényt, hogy az alapításra az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) 19/C. §-a szerint került sor, továbbá az alapító egyéni vállalkozó nevét és nyilvántartási számát.
@@ -822,7 +822,7 @@ kerülhet sor.
 
 36. § (1) A cég bejegyzése (változásbejegyzése) iránti kérelmet elektronikus úton kell benyújtani. A cégbírósághoz elektronikus úton benyújtott kérelmek érkezéséről az e törvényben meghatározott feltételek fennállása esetén a cégbíróság elektronikus tanúsítványt, illetve változásbejegyzési kérelem esetében igazolást küld a jogi képviselőnek.
 
-(2) A cégbejegyzési (változásbejegyzési) eljárás során az elektronikus úton küldött okiratokat minősített elektronikus aláírással és időbélyegzővel kell ellátni, oly módon, hogy az időbélyegző alapján a minősített elektronikus aláírás használatára való jogosultság – az okirat aláírásának időpontjában való – fennállása megállapítható legyen. A cégbíróság által küldött elektronikus okirat közokiratnak minősül. Ügyvéd vagy kamarai jogtanácsos jogi képviselő esetén az ügyvédi tevékenységről szóló törvényben meghatározott elektronikus aláírás és elektronikus bélyegző is használható.
+(2) A cégbejegyzési (változásbejegyzési) eljárás során az elektronikus úton küldött okiratokat minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni, oly módon, hogy az időbélyegző alapján a minősített elektronikus aláírás használatára való jogosultság – az okirat aláírásának időpontjában való – fennállása megállapítható legyen. A jogi képviselő e kötelezettséget úgy is teljesítheti, ha a cégbejegyzési (változásbejegyzési) kérelmet látja el minősített elektronikus aláírással és minősített időbélyegzővel. A cégbíróság által küldött elektronikus okirat közokiratnak minősül. Ügyvéd vagy kamarai jogtanácsos jogi képviselő esetén az ügyvédi tevékenységről szóló törvényben meghatározott elektronikus aláírás és elektronikus bélyegző is használható.
 
 (3) A cégbíróság a cégre vonatkozó iratokat elektronikus okirat formájában tartja nyilván.
 
@@ -1033,12 +1033,7 @@ hiánypótlás nélküli visszautasítása
 
 (7) Ha e törvény rendelkezései alapján a cégadat változásának időpontja a bejegyzés napját követő időpont, nem nyújtható be olyan változásbejegyzési kérelem, amely a cégadatot a változás időpontjának bekövetkezte előtti időponttal úgy kéri törölni a cégjegyzékből, hogy az mint törölt adat se legyen megismerhető.
 
-50/A. § Ha a változásbejegyzési kérelem kizárólag a cég nevében szereplő, megyére utaló elnevezés Magyarország Alaptörvényének tizenegyedik módosítása folytán szükséges vármegyére utaló elnevezésre történő megváltoztatására irányul, a változásbejegyzési kérelem elbírálása során a cégbíróság azzal az eltéréssel jár el, hogy
-
-- a) a 45. § szerinti formai vizsgálatot a kérelem érkezését követő egy munkanapon belül végzi el,
-- b) a 46. § (1) bekezdése szerinti vizsgálatot a kérelem érkezését követően legkésőbb három munkanapon belül végzi el,
-- c) a 46. § (3) bekezdése szerinti hiánypótlásra felhívó végzést legkésőbb a kérelem érkezésétől számított harmadik munkanapon adja ki, és
-- d) a 46. § (7) bekezdése szerinti döntést és intézkedéseket legkésőbb a kérelem érkezésétől számított tíz munkanapon belül teszi meg.
+#### 50/A. §
 
 ### 11. CÍM — A létesítő okirat módosítása
 
@@ -1158,15 +1153,19 @@ irányuló eljárás
 
 61. § (1) A cégek szétválás formájában megvalósuló átalakulása során az 57. § (3)–(4) bekezdésében meghatározott rendelkezést azzal az eltéréssel kell alkalmazni, hogy soron kívül dönteni kell a jogelőd cég még folyamatban lévő változásbejegyzési kérelméről és kiválás esetében a jogelőd cég törlésére nem kerül sor.
 
-(2) Az (1) bekezdésben foglalt szabályok irányadók abban az esetben is, ha a cég szétválása olyan módon történik, hogy a kivált tagok nem új gazdasági társaságot hoznak létre, hanem már működő gazdasági társaságba lépnek be tagként. A működő gazdasági társaság cégjegyzékadataiban szükséges esetleges módosításokat a szétváló cég székhelye szerint illetékes cégbíróság jegyzi be a cégjegyzékbe.
+(2) Az (1) bekezdésben foglaltak irányadók leválás esetén, továbbá abban az esetben is, ha a cég szétválása olyan módon történik, hogy a kivált tagok nem új gazdasági társaságot hoznak létre, hanem már működő gazdasági társaságba lépnek be tagként. A működő gazdasági társaság cégjegyzékadataiban szükséges esetleges módosításokat, valamint a leválással keletkező jogutódot a szétváló cég székhelye szerint illetékes cégbíróság jegyzi be a cégjegyzékbe.
+
+(3) Az egyesülésre és a szétválásra – ha törvény eltérően nem rendelkezik – az átalakulás szabályai megfelelően irányadóak.
 
 ### Üzletrészt terhelő zálogjog bejegyzése, illetve törlése
 
-61/A. § (1) Az üzletrészt terhelő zálogjog a tag (zálogkötelezett) vagy a zálogjogosult változásbejegyzési kérelme alapján kerül bejegyzésre, illetve törlésre. A kérelemhez csatolni kell a 2. számú melléklet szerinti szükséges iratokat.
+61/A. § (1) Az üzletrészt terhelő zálogjog a tag (zálogkötelezett) vagy a zálogjogosult változásbejegyzési kérelme alapján kerül bejegyzésre, illetve törlésre. A kérelemben meg kell jelölni a zálogjoggal biztosított követelés összegét vagy azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet és amelyre tekintettel az üzletrészt – kikötése esetén – elidegenítési és terhelési tilalom, vagy elidegenítési tilalom terheli. A kérelemhez csatolni kell a 2. számú melléklet szerinti szükséges iratokat.
 
-(2) A cégbíróság a zálogszerződést csak abból a szempontból vizsgálja, hogy a korlátolt felelősségű társaság és tagjának zálogszerződésben feltüntetett adatai egyeznek-e a cégjegyzék adataival.
+(2) A cégbíróság a zálogszerződést csak abból a szempontból vizsgálja, hogy a korlátolt felelősségű társaság és a tagja zálogszerződésben feltüntetett adatai egyeznek-e a cégjegyzék adataival, továbbá, hogy a 27. § (3) bekezdés c) és d) pontjában foglaltakra figyelemmel bejegyezni kért adatok egyeznek-e a zálogszerződés tartalmával.
 
 (3) Ha a zálogjogosult zálogjogosulti bizományost jelölt ki, a cégjegyzékben a zálogjogosulti bizományost kell feltüntetni a zálogjogosulti bizományos minőségének megjelölése mellett. Ha a zálogjogosult adatait a cégjegyzék már tartalmazza, a zálogjogosulti bizományos bejegyzésével egyidejűleg törölni kell azon zálogjogosultra vonatkozó adatokat, akinek a javára a zálogjogosulti bizományos eljár.
+
+(4) Alzálogjog bejegyzése (törlése) iránti kérelemre az (1)–(3) bekezdésben foglaltak alkalmazandóak, azzal, hogy alzálogjog esetében a követelés összegének bejegyzésére nem kerül sor. Zálogkötelezett nem a tag, hanem az üzletrészt terhelő zálogjog jogosultja. Bejegyzési engedélynek minősül az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány is.
 
 ### Tagváltozás bejegyzése iránti eljárás
 
@@ -2320,6 +2319,10 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 131/S. § E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított 119. § (1b) bekezdését, 121. § (2a)–(2d) és (4) bekezdését, valamint 124. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
+131/T. § E törvénynek a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel módosított 61/A. § rendelkezéseit a 2024. január 1-jét megelőzően bejegyzett üzletrészt terhelő zálogjog esetében azzal az eltéréssel kell alkalmazni, hogy a cégjegyzéki adatok kiegészítését a 61/A. § szerinti kérelmező a cégjegyzék egyéb adatát érintő következő módosítás alkalmával, legkésőbb 2024. december 31. napjáig előterjesztett változásbejegyzési kérelemben köteles kérni illeték és közzétételi költségtérítés megfizetése nélkül.
+
+131/U. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XCVI. törvénnyel megállapított 36. § (2) bekezdését a 2024. január 1. napján és azt követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
+
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló, 1982. december 17-i 82/891/EGK tanácsi irányelv;
@@ -2682,11 +2685,13 @@ dd) a törzstőke leszállítása esetében az ügyvezető nyilatkozata a hitele
 
 e) az üzletrész elzálogosításához kapcsolódóan
 
-ea) a zálogjog bejegyzése esetén a zálogszerződés egy eredeti példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt bejegyzési engedélye,
+ea) a zálogjog bejegyzése esetén a zálogszerződés egy példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a követelés összegét, amelynek biztosítására a zálogjog szolgál, kikötése esetén az elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt – szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – bejegyzési engedélye,
 
-eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye,
+eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt– szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – törlési engedélye,
 
 ec) zálogjogosulti bizományos bejegyzése (törlése) esetén a zálogjogosulti bizományost kijelölő (kijelölést megszüntető) okirat, ha az üzletrészen alapított zálogjog feltüntetésére a zálogjogosulti bizományos bejegyzésével együtt kerül sor, az ea) pont szerinti okiratok is;
+
+ed) alzálogjog bejegyzése esetén a zálogkötelezett bejegyzési engedélye, vagy az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány;
 
 2. a) részvénytársaság alapításával összefüggésben a nem pénzbeli vagyoni hozzájárulás értékéről adott könyvvizsgálói (szakértői) vélemény;
 

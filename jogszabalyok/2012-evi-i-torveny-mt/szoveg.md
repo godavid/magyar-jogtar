@@ -956,12 +956,7 @@ távolléti díj összegével emelkedik, ha a munkaviszony az (1) bekezdésben m
 
 (2) A munkaviszony felmondással történő megszüntetésekor legkésőbb az utolsó munkában töltött naptól, egyébként legkésőbb a munkaviszony megszűnésétől számított ötödik munkanapon a munkavállaló részére ki kell fizetni a munkabérét, egyéb járandóságait, valamint ki kell adni a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
 
-(3) A munkáltató a (2) bekezdés szerint igazolást ad a munkavállaló részére a kiadott
-
-- a) apasági szabadság, vagy
-- b) szülői szabadság
-
-tartamáról, amelyben feltünteti a korábbi munkáltató által kiadott apasági szabadság vagy szülői szabadság tartamát is.
+(3)
 
 81. § (1) A munkáltató a munkavállaló kérelmére, ha a munkaviszony legalább egy évig fennállt, a munkaviszony megszüntetésekor (megszűnésekor) vagy legfeljebb az ezt követő egy éven belül a munkavállaló munkájáról írásban értékelést ad.
 
@@ -1510,7 +1505,7 @@ munkanap pótszabadság jár.
 
 (4) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt tizenöt nappal közölni kell.
 
-(4a) A munkáltató a szülői szabadságot a munkavállaló kérésének megfelelő időpontban adja ki.
+(4a) A munkáltató a 118. § (1) és (2) bekezdése szerinti pótszabadságot és a szülői szabadságot a munkavállaló kérésének megfelelő időpontban adja ki, amelyre vonatkozó igényét a munkavállalónak legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 
 (5) A szabadságot – a 125. §-ban foglaltakat kivéve – megváltani nem lehet.
 
@@ -2286,7 +2281,7 @@ megszűnik.
 
 foglaltak nem alkalmazhatók.
 
-(2) A munkaviszony megszűnésekor a 80. §-ban meghatározott igazolásokat nem kell kiadni.
+(2)
 
 (3) A napi munkaidő – munkaidőkeret vagy elszámolási időszak hiányában is – beosztható egyenlőtlenül.
 

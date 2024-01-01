@@ -849,9 +849,10 @@ a fizetendő adót – az (1) bekezdéstől eltérően – az a) pontban említe
 
 71. § (1) Termék értékesítése, szolgáltatás nyújtása esetében az adó alapjába nem tartozik bele:
 
-- a) az olyan ár- és díjengedmény vagy ár- és díjvisszatérítés (a továbbiakban együtt: árengedmény), amelyet az eredeti esedékességhez képest az ellenérték előrehozott megtérítésére tekintettel a teljesítésig adnak; illetőleg
+- a) az olyan ár- és díjengedmény vagy ár- és díjvisszatérítés (a továbbiakban együtt: árengedmény), amelyet az eredeti esedékességhez képest az ellenérték előrehozott megtérítésére tekintettel a teljesítésig adnak;
 - b) a korábban beszerzett termék, igénybe vett szolgáltatás mennyiségére tekintettel a teljesítésig adott árengedmény vagy más, szintén a teljesítésig adott üzletpolitikai célú árengedmény;
-- c) az a pénzösszeg, amelyet az adóalany a termék beszerzőjétől, szolgáltatás igénybevevőjétől – mint az áthárított költség igazolt végső viselőjétől – kap, feltéve, hogy az így kapott összeget az adóalany saját nyilvántartásában elszámolási kötelezettségként tartja nyilván.
+- c) az a pénzösszeg, amelyet az adóalany a termék beszerzőjétől, szolgáltatás igénybevevőjétől – mint az áthárított költség igazolt végső viselőjétől – kap, feltéve, hogy az így kapott összeget az adóalany saját nyilvántartásában elszámolási kötelezettségként tartja nyilván; valamint
+- d) a XVII/A. fejezet szerinti visszaváltási díj.
 
 (2) Az (1) bekezdés b) pontjában említett árengedmény abban az esetben üzletpolitikai célú, ha
 
@@ -902,7 +903,7 @@ esetében
 (2) Az adó alapja utólag csökken abban az esetben is, ha
 
 - a) a termék 10. § a) pontja szerinti értékesítése, a bérbeadás vagy a vagyoni értékű jog időleges használatának átengedése meghiúsul, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
-- b) betétdíjas termék visszaváltásakor a betétdíjat visszatérítik;
+- b) betétdíjas termék visszaváltásakor a betétdíjat – ide nem értve a XVII/A. fejezet szerinti visszaváltási díjat – visszatérítik;
 - c) az 58. § szerinti termékértékesítés, szolgáltatásnyújtás esetében visszatérítik azt az összeget, amellyel az elszámolási időszak egésze tekintetében megfizetett vagy megfizetendő összeg meghaladja az erre az elszámolási időszakra vonatkozó ellenértéket.
 
 (3) Az adó alapja utólag csökkenthető, ha a teljesítést követően adnak a szerződés módosulása vagy megszűnése nélkül a 71. § (1) bekezdés a) vagy b) pontja szerinti árengedményt.
@@ -1012,11 +1013,16 @@ esetében
 
 (3) A 3/A. számú mellékletben felsorolt termékek, szolgáltatások esetében az adó mértéke az adó alapjának 18 százaléka.
 
+(4) A 3/B. számú mellékletben felsorolt termékek esetében az adó mértéke az adó alapjának 0 százaléka.
+
+(5) A 8. számú melléklet I. részében felsorolt műalkotások 24. § szerinti importja esetében az adó mértéke az adó alapjának 5 százaléka.
+
 83. § Ha a juttatott vagyoni előny pénzben kifejezett összegét úgy kell tekinteni, mint amely fizetendő adót is tartalmaz, annak megállapításához
 
 - a) a 82. § (1) bekezdésében említett adómérték esetében 21,26 százalékot,
-- b) a 82. § (2) bekezdésében említett adómérték esetében 4,76 százalékot,
+- b) a 82. § (2) és (5) bekezdésében említett adómérték esetében 4,76 százalékot,
 - c) a 82. § (3) bekezdésében említett adómérték esetében 15,25 százalékot
+- d) a 82. § (4) bekezdésében említett adómérték esetében 0 százalékot
 
 kell alkalmazni.
 
@@ -1041,7 +1047,7 @@ a fizetendő adó megállapításakor érvényes adómértéket kell alkalmazni.
 - b) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vagy betegápolás és sérült- vagy betegszállítás, valamint az azokhoz szorosan kapcsolódó termékértékesítés, amelyet humán-egészségügyi ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 - c) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vagy betegápolás, amelyet humán-egészségügyi – ideértve természetgyógyászatot is – tevékenységet végző – ilyen minőségében – teljesít;
 - d) az emberi szövet, vér (ideértve a külön jogszabályban meghatározott labilis vérkészítményeket is), anyatej értékesítése, valamint az előzőekben felsorolt termékértékesítésekhez és az emberi szerv adományozásához szorosan kapcsolódó szolgáltatásnyújtás;
-- e) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet humán fogorvosi, fogtechnikusi tevékenységet végző – ilyen minőségében – teljesít;
+- e) humán fogorvosi, fogtechnikusi tevékenységet végző által – ilyen minőségében – teljesített szolgáltatásnyújtás és fogászati protézis értékesítése;
 - f) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet szociális ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 - g) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet gyermek- és ifjúságvédelem keretében közszolgáltató – ilyen minőségében – teljesít;
 - h) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet bölcsődei ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
@@ -1064,6 +1070,7 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
   - pb) a szolgáltatás igénybevétele az együttműködő közösség adóalany tagjának kizárólag olyan, az a)-o) pont vagy a 86. § (1) bekezdése szerint mentes termékértékesítése, szolgáltatásnyújtása érdekében történik, amelyhez kapcsolódóan az együttműködő közösség adóalany tagját adólevonási jog egészben vagy részben nem illeti meg, továbbá
   - pc) az ellenérték, amelyet az együttműködő közösség kap vagy kapnia kell, nem több annál, mint a nála ezzel összefüggésben felmerült igazolt költség, valamint
   - pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozzájárulást, amelyet az együttműködő közösség tagjának kell a közös cél elérése érdekében az együttműködő közösségnek rendelkezésre bocsátania.
+- q) a hatósági engedéllyel végzett sérült- vagy betegszállítás, a speciálisan e célra felszerelt közlekedési eszközökben.
 
 (2) Egyéb oktatás vagy képzés
 
@@ -1554,7 +1561,7 @@ történik.
 
 (2) Vendéglátó-ipari szolgáltatás igénybevétele esetében a hivatalos cél elismeréséhez szükséges az is, hogy a diplomáciai és a hivatásos konzuli képviselet, valamint a nemzetközi szervezet által rendezett fogadáson – a képviselet, szervezet vezetőjének írásos nyilatkozata alapján – legalább 10 meghívott személy vegyen részt.
 
-(3) A 107. § (1) bekezdésének a) és b) pontjában említett személyes célra biztosított adómentesség naptári évente a viszonosságnak megfelelően, de legfeljebb 300 000 forintnak megfelelő pénzösszegű értékkeret erejéig illeti meg a diplomáciai és a hivatásos konzuli képviselet tagját, valamint a nemzetközi szervezet tisztviselőjét, feltéve, hogy a 107. § (1) bekezdésének b) pontjában említett nemzetközi szerződés kifejezetten másként nem rendelkezik.
+(3) A 107. § (1) bekezdésének a) és b) pontjában említett személyes célra biztosított adómentesség naptári évente a viszonosságnak megfelelően, de legfeljebb 600 000 forintnak megfelelő pénzösszegű értékkeret erejéig illeti meg a diplomáciai és a hivatásos konzuli képviselet tagját, valamint a nemzetközi szervezet tisztviselőjét, feltéve, hogy a 107. § (1) bekezdésének b) pontjában említett nemzetközi szerződés kifejezetten másként nem rendelkezik.
 
 (4) A (3) bekezdésben meghatározott értékkeretbe:
 
@@ -1877,7 +1884,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 142. § (1) Az adót a termék beszerzője, szolgáltatás igénybevevője fizeti:
 
 - a) a 10. § d) pontja szerinti termékértékesítés esetében;
-- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését és rendeltetésének megváltoztatását is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása hatósági engedélyhez vagy hatósághoz történő bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
+- b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására, az ingatlan bontással történő megszüntetésére és rendeltetésének megváltoztatására (a továbbiakban együtt: ingatlanra vonatkozó tevékenység) irányul, feltéve, hogy az ingatlanra vonatkozó tevékenység hatósági engedélyhez vagy hatósághoz történő bejelentéshez kötött, amelyről a szolgáltatás adóalany igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának, azzal, hogy ha a hatósági engedély vagy hatósághoz történő bejelentés a szolgáltatásnyújtó által végzett, ingatlanra vonatkozó tevékenységhez kapcsolódik, a nyilatkozattétel az utóbbit terheli a szolgáltatás adóalany igénybevevője felé;
 - c) munkaerő kölcsönzése, kirendelése, rendelkezésre bocsátása esetén, amely az a) pont szerinti termékértékesítéshez vagy szolgáltatásnyújtásnak minősülő olyan építési szerelési és egyéb szerelési munkához kapcsolódik, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve a bontással történő megszüntetését is – irányul;
 - d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
@@ -2395,29 +2402,98 @@ számlakibocsátási kötelezettséget jelent.
 
 (4) A nyilvántartást az ügylet teljesítése évének utolsó napjától számított tíz évig kell megőrizni.
 
+### A pénzforgalmi szolgáltatók általános kötelezettségei
+
+183/B. § Ezen alcím alkalmazásában:
+
+- 1. pénzforgalmi szolgáltató: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) 2. § 22. pontja szerinti pénzforgalmi szolgáltató a Magyar Nemzeti Bank és a kincstár kivételével;
+- 2. pénzforgalmi szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 87. pont c)–f) alpontja szerinti pénzforgalmi szolgáltatás;
+- 3. fizetés: a Pft. 2. § 7. pontjában meghatározott fizetési művelet, valamint a Hpt. 6. § (1) bekezdés 54. pontjában meghatározott készpénzátutalás;
+- 4. fizető fél: a Pft. 2. § 9. pontjában meghatározott fizető fél;
+- 5. kedvezményezett: a Pft. 2. § 12. pontjában meghatározott kedvezményezett;
+- 6. fizetési számla: a Pft. 2. § 8. pontjában meghatározott fizetési számla;
+- 7. IBAN: az euroátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 2012. március 14-i 260/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 260/2012/EU európai parlamenti és tanácsi rendelet) 2. cikk 15. pontjában meghatározott IBAN;
+- 8. BIC: a 260/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 16. pontjában meghatározott BIC.
+
+183/C. § (1) A pénzforgalmi szolgáltató nyilvántartást vezet az általa nyújtott pénzforgalmi szolgáltatás vonatkozásában a kedvezményezettekről és a fizetésekről. A nyilvántartási kötelezettség a határon átnyúló fizetésekhez kapcsolódóan nyújtott pénzforgalmi szolgáltatásokra terjed ki. Határon átnyúló fizetésnek minősül, ha a fizető fél a Közösség egyik tagállamában, a kedvezményezett pedig a Közösség másik tagállamában, harmadik államban vagy harmadik állam területével egy tekintet alá eső területen helyezkedik el.
+
+(2) A pénzforgalmi szolgáltató az (1) bekezdés szerinti nyilvántartásából a tárgynegyedévet követő hónap végéig adatot szolgáltat az állami adó- és vámhatóság részére az adott naptári negyedév adatairól, feltéve, hogy az adott naptári negyedév során teljesített pénzforgalmi szolgáltatása keretében huszonötnél több, határon átnyúló fizetést nyújtott ugyanazon kedvezményezett számára. A pénzforgalmi szolgáltató adatszolgáltatását elektronikus formában az erre a célra rendszeresített formanyomtatványon teljesíti.
+
+(3) A (2) bekezdésben meghatározott határon átnyúló fizetések számát tagállamonként, a 183/D. § (2) bekezdése szerinti azonosítók szerinti bontásban kell kiszámítani. Amennyiben a pénzforgalmi szolgáltatónak tudomása van arról, hogy a kedvezményezett több azonosítóval rendelkezik, a számítást a kedvezményezettre vonatkoztatva kell elvégezni.
+
+(4) A (2) bekezdés szerinti kötelezettség arra a pénzforgalmi szolgáltatóra terjed ki, amely
+
+- a) belföldön székhellyel rendelkezik, vagy
+- b) az a) ponttól eltérő esetben, ha belföldön nyújt pénzforgalmi szolgáltatást.
+
+(5) Az (1)–(2) bekezdés szerinti kötelezettség a kedvezményezett azon pénzforgalmi szolgáltatóit terheli, amelyek a Közösség területén helyezkednek el a pénzforgalmi szolgáltatót és elhelyezkedését egyértelműen azonosító BIC-kód vagy egyéb vállalatazonosító kód alapján. Amennyiben a kedvezményezett egyik pénzforgalmi szolgáltatója sem helyezkedik el a Közösség területén az említett kódok alapján, úgy az (1)–(2) bekezdés szerinti kötelezettség a fizető fél pénzforgalmi szolgáltatóit terheli.
+
+(6) A fizető fél pénzforgalmi szolgáltatói a (2) bekezdés szerinti huszonöt, határon átnyúló fizetésre vonatkozó számítás során kötelesek figyelembe venni azokat az általuk nyújtott pénzforgalmi szolgáltatásokat is, amelyek után nem ők, hanem a kedvezményezett pénzforgalmi szolgáltatói kötelesek az (1)–(2) bekezdés szerinti kötelezettség teljesítésére.
+
+(7) A pénzforgalmi szolgáltató az (1) bekezdés szerinti nyilvántartását köteles a fizetés időpontját magában foglaló naptári év végétől számított három naptári évig elektronikus formában megőrizni.
+
+(8) A pénzforgalmi szolgáltató által szolgáltatott adatokat az állami adó- és vámhatóság a belföldön teljesített ügyletek után keletkező adófizetési kötelezettség ellenőrzéséhez használja fel.
+
+183/D. § (1) A 183/C. § (1) bekezdése alkalmazásában a teljesítési helyre vonatkozó rendelkezések sérelme nélkül úgy kell tekinteni, hogy a fizető fél a Közösség azon tagállamában helyezkedik el, amelyre
+
+- a) a fizető fél fizetési számlájának IBAN-száma vagy bármely egyéb – a fizető felet egyértelműen azonosító és annak elhelyezkedését megadó – azonosító utal, vagy ilyen azonosító hiányában
+- b) a fizető fél nevében eljáró pénzforgalmi szolgáltatót egyértelműen azonosító és annak elhelyezkedését megadó BIC-kód vagy egyéb vállalatazonosító kód utal.
+
+(2) A 183/C. § (1) bekezdése alkalmazásában úgy kell tekinteni, hogy a kedvezményezett a Közösség azon tagállamában, harmadik területen vagy harmadik országban helyezkedik el, amelyre
+
+- a) a kedvezményezett fizetési számlájának IBAN-száma vagy bármely egyéb – a kedvezményezettet egyértelműen azonosító és annak elhelyezkedését megadó – azonosító utal, vagy ilyen azonosító hiányában
+- b) a kedvezményezett nevében eljáró pénzforgalmi szolgáltatót egyértelműen azonosító és annak elhelyezkedését megadó BIC-kód vagy egyéb vállalatazonosító kód utal.
+
+183/E. § (1) A pénzforgalmi szolgáltató által vezetett 183/C. § (1) bekezdése szerinti nyilvántartásnak a következő adatokat kell tartalmaznia:
+
+- a) a pénzforgalmi szolgáltatót egyértelműen azonosító BIC-kód vagy egyéb vállalatazonosító kód,
+- b) a kedvezményezett neve vagy a kedvezményezett vállalkozás neve, ahogy az a pénzforgalmi szolgáltató nyilvántartásában szerepel,
+- c) a kedvezményezett bármely adószáma vagy egyéb nemzeti adóazonosítója, ha az rendelkezésre áll,
+- d) a kedvezményezett IBAN-száma vagy – ha az IBAN-szám nem áll rendelkezésre – bármely egyéb azonosító, amely egyértelműen azonosítja a kedvezményezettet, és megadja annak elhelyezkedését,
+- e) a kedvezményezett nevében eljáró pénzforgalmi szolgáltatót egyértelműen azonosító és annak elhelyezkedését megadó BIC-kód vagy egyéb vállalatazonosító kód, amennyiben a kedvezményezett úgy fogad pénzösszeget, hogy nem rendelkezik fizetési számlával,
+- f) a kedvezményezett címe, ha az rendelkezésre áll, ahogy az a pénzforgalmi szolgáltató nyilvántartásában szerepel,
+- g) a 183/C. § (1) bekezdése szerinti határon átnyúló fizetés adatai,
+- h) a g) pont szerinti határon átnyúló fizetésre vonatkozó visszafizetésekként azonosított fizetések adatai.
+
+(2) Az (1) bekezdés g) és h) pontja szerinti adatoknak a következőket kell tartalmazniuk:
+
+- a) a fizetés vagy a visszafizetés dátuma és időpontja,
+- b) a fizetés vagy a visszafizetés összege és pénzneme,
+- c) a kedvezményezett által vagy a kedvezményezett nevében fogadott fizetés kezdeményezésének helye szerinti tagállam, adott esetben a visszafizetés rendeltetési helye szerinti tagállam, valamint a fizetés vagy a visszafizetés kezdeményezése vagy rendeltetése helyének meghatározásához felhasznált információ a 183/D. § szerint,
+- d) bármilyen hivatkozás, amely egyértelműen azonosítja a fizetést,
+- e) adott esetben információ arról, hogy a fizetést a kereskedő fizikai létesítményében kezdeményezték-e.
+
 ### XII. Fejezet — ADÓ BEVALLÁSA, MEGFIZETÉSE
 
 ÉS VISSZAIGÉNYLÉSE
 
 184. § (1) Az adót önadózással megállapító adófizetésre kötelezett a megállapított adóról az Art. szerint bevallást tesz az állami adó- és vámhatóságnak.
 
-(2)
+(2) Az (1) bekezdés szerinti bevallási kötelezettség az alábbi módok valamelyikén teljesíthető:
 
-(3)
+- a) Az adóalany az Art. szerinti nyomtatványt nyújt be.
+- b) Az adóalany az állami adó- és vámhatóság által az adó megállapításához az erre a célra biztosított elektronikus felületen rendelkezésére bocsátott adatokat kiegészíti, módosítja, az adólevonási jogáról és annak gyakorlásáról nyilatkozik, és az így előállított adónyilvántartásból összeállított bevallástervezetet ugyanezen a felületen bevallásként jóváhagyja.
+- c) Az adóalany az állami adó- és vámhatóság által közzétett módon és adatszerkezetben gépi interfész alkalmazásával továbbítja a fizetendő adó megállapításának és az adólevonási jog gyakorlásának alapjául szolgáló bizonylat szintű adatokat és az ezen adónyilvántartásból összeállított bevallástervezetet bevallásként gépi úton jóváhagyja.
 
-(4)
+(3) A (2) bekezdés b) vagy c) pontja szerinti bevallástervezet jóváhagyása a bevallás benyújtásának minősül.
 
-(5)
+(4) Amennyiben az adóalany a (2) bekezdés c) pontja szerinti adónyilvántartásból összeállított bevallástervezetet bevallásként nem hagyja jóvá, úgy a bevallási határidőt követő hónap utolsó napján az állami adó- és vámhatóság törli az adónyilvántartást és az abból összeállított bevallástervezetet.
 
-(6)
+(5) A (2) bekezdés c) pontja szerint jóváhagyott bevallás alapjaként elkészült adónyilvántartást az elektronikus felületen a bevallás jóváhagyását követő kilencvenedik napig töltheti le az adóalany.
 
-(7)
+(6) Ha az adóalany a bevallási kötelezettségét a (2) bekezdés a)–c) pontjai közül több módon is teljesíti, akkor az elsőként benyújtott bevallás minősül az adóalany bevallásának.
 
-(8)
+(7) Az adóalany a (2) bekezdés a) pontja szerint benyújtott bevallásában szereplő adóalapot, adót kizárólag az erre a célra rendszeresített nyomtatványon helyesbítheti önellenőrzéssel.
 
-(9)
+(8) Az adóalany a (2) bekezdés b) vagy c) pontja szerint benyújtott bevallásában szereplő adóalapot, adót a (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen vagy az erre a célra rendszeresített nyomtatványon helyesbítheti önellenőrzéssel. Amennyiben az adóalany a (2) bekezdés b) vagy c) pontja szerint benyújtott bevallásban szereplő adóalapot, adót az erre a célra rendszeresített nyomtatványon helyesbítette önellenőrzéssel, a bevallásban szereplő adóalapot, adót a továbbiakban kizárólag az erre a célra rendszeresített nyomtatványon helyesbítheti önellenőrzéssel.
 
-(10)
+(9) Az adóalany, illetve annak Air. szerinti állandó meghatalmazottja a (2) bekezdés b) pontja szerinti elektronikus felületet elektronikus azonosítási szolgáltatás útján éri el.
+
+(10) Az adóalany, illetve annak Air. szerinti állandó meghatalmazottja a (2) bekezdés b) pontja szerinti elektronikus felületen megjelölhet más természetes személyt is (a továbbiakban: másodlagos felhasználó), akinek jogot ad az elektronikus felületen szereplő adatok módosítására, kiegészítésére. A másodlagos felhasználó jogosultsága nem terjed ki a bevallástervezet bevallásként való jóváhagyására.
+
+(11) A másodlagos felhasználó (10) bekezdés szerinti jogosultsága addig az időpontig áll fenn, amíg azt az adóalany, illetve annak Air. szerinti állandó meghatalmazottja a (2) bekezdés b) pontja szerinti elektronikus felületen vissza nem vonja.
+
+(12) A (2) bekezdés c) pontja szerinti gépi interfész használatának feltétele a gépi interfész használatához szükséges adatoknak a bevallásra kötelezett adóalany állami adó- és vámhatósághoz tett bejelentésén alapuló nyilvántartásba vétele.
 
 185. § (1) Abban az esetben, ha a 184. § szerint bevallott adó megfizetési kötelezettséget eredményez, az adófizetésre kötelezett az adót legkésőbb az Art.-ban meghatározott esedékességig fizeti meg az állami adóhatóságnak.
 
@@ -3009,6 +3085,43 @@ nem térhet el.
 - c) egyéb esetekben pedig a nyitó- és zárókészletet az adóalany üzleti éve utolsó napjára – mint mérlegfordulónapra –
 
 vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezéseit kell megfelelően alkalmazni.
+
+### XVII/A. Fejezet — A KÖTELEZŐEN VISSZAVÁLTÁSI DÍJAS, NEM ÚJRAHASZNÁLHATÓ TERMÉKEK VISSZAVÁLTÁSI DÍJÁVAL ÖSSZEFÜGGŐ KÜLÖNÖS SZABÁLYOK
+
+243/A. § A kötelezően visszaváltási díjas, nem újrahasználható termékek visszaváltási díjával összefüggésben e törvény rendelkezéseit az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+
+### Fogalommeghatározások
+
+243/B. § E fejezet alkalmazásában:
+
+- a) kötelező visszaváltási díjas rendszert működtető adóalany: a hulladékról szóló törvény felhatalmazása alapján kötelező visszaváltási díjas rendszert működtető adóalany;
+- b) forgalomba hozott termék: az a termék, amely a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet alapján a kiterjesztett gyártói felelősségi díj megfizetése szempontjából forgalomba hozottnak minősül;
+- c) kötelezően visszaváltási díjas, nem újrahasználható termék: a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendelet szerinti kötelezően visszaváltási díjas, nem újrahasználható termék, amelyet így is hoztak forgalomba;
+- d) kötelező visszaváltási díjas rendszer: a hulladékról szóló törvény szerinti kötelező visszaváltási díjas rendszer;
+- e) vissza nem váltott termék: a kötelezően visszaváltási díjas, nem újrahasználható termékek adott naptári évben a teljesítés napjáig forgalomba hozott mennyiségének és az adott naptári évben a teljesítés napjáig visszaváltott mennyiségének a különbözete;
+- f) visszaváltási díj: a kötelezően visszaváltási díjas, nem újrahasználható termékek visszaváltási díja.
+
+### Adófizetési kötelezettség keletkezése, fizetendő adó megállapítása
+
+243/C. § (1) Termék értékesítésének minősül a vissza nem váltott termék.
+
+(2) Az (1) bekezdés szerinti termékértékesítés esetén a teljesítés és a fizetendő adó megállapításának időpontja a naptári év utolsó napja.
+
+(3) Ha a (2) bekezdés szerinti teljesítést megelőzően a terméket értékesítő adóalany jogutód nélkül szűnik meg, a (2) bekezdéstől eltérően a teljesítés és a fizetendő adó megállapításának időpontja a jogutód nélküli megszűnést megelőző nap.
+
+### Adó alapja, adó mértéke
+
+243/D. § (1) A 243/C. § (1) bekezdése szerinti termékértékesítés esetében az adó alapja a teljesítés napján vissza nem váltott termékekre jutó visszaváltási díj.
+
+(2) A vissza nem váltott termékekre jutó visszaváltási díjat úgy kell tekinteni, mint amely a fizetendő adó arányos összegét is tartalmazza.
+
+(3) A 243/C. § (1) bekezdése szerinti termékértékesítés esetében a fizetendő adót a 83. § a) pontja szerint kell megállapítani.
+
+(4) Abban az esetben, ha a vissza nem váltott termékekre vonatkozó számítás eredményeként a különbözet nem pozitív előjelű, adóalapként nulla érték veendő figyelembe.
+
+### Adófizetésre kötelezett
+
+243/E. § A 243/C. § (1) bekezdése szerinti termékértékesítés esetében az adót a kötelező visszaváltási díjas rendszert működtető adóalany fizeti.
 
 ### XVIII. Fejezet — BELFÖLDÖN NEM LETELEPEDETT ADÓALANY ADÓ-VISSZATÉRÍTTETÉSI JOGA
 
@@ -4034,6 +4147,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gp) a Tanács (EU) 2018/1910 irányelve (2018. december 4.) a 2006/112/EK irányelvnek a hozzáadottértékadó-rendszer egyes, a tagállamok közötti kereskedelem adóztatására vonatkozó szabályainak harmonizálása és egyszerűsítése tekintetében történő módosításáról;
   - gq) a Tanács (EU) 2019/1995 irányelve (2019. november 21.) a 2006/112/EK irányelvnek a termékek távértékesítésére és bizonyos belföldi termékértékesítésekre vonatkozó rendelkezések tekintetében történő módosításáról;
   - gr) A Tanács (EU) 2020/1756 irányelve (2020. november 20.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az észak-írországi adóalanyok azonosítása tekintetében történő módosításáról.
+  - gs) a Tanács (EU) 2020/284 irányelve (2020. február 18.) a 2006/112/EK irányelvnek a pénzforgalmi szolgáltatók számára egyes kötelezettségek bevezetése tekintetében történő módosításáról.
   - gt) a Tanács (EU) 2021/1159 irányelve (2021. július 13.) a 2006/112/EK irányelvnek az importra, valamint bizonyos termékértékesítésekre és szolgáltatásnyújtásokra vonatkozó, a Covid19-világjárványra válaszul bevezetett ideiglenes mentességek tekintetében történő módosításáról;
   - gu) a Tanács (EU) 2022/890 irányelve (2022. június 3.) a 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózási mechanizmus, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszakának meghosszabbítása tekintetében történő módosításáról.
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
@@ -4401,7 +4515,25 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 359. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel módosított 246. § c) pontja azon előzetesen felszámított adó összegére alkalmazandó először, amelyet fizetendő adóként 2021. december 31-ét követően kellett megállapítani, azzal, hogy azon előzetesen felszámított adó összegének a XVIII. fejezet szerinti visszatéríttetésére az adóalany nem jogosult, amelyet levonható adóként a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény kihirdetését követő napot megelőzően már érvényesített.
 
+360. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 3/B. számú mellékletben foglalt táblázat 1. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2024. január 1-jére vagy azt követő időpontra esik.
+
 361. § Az az adóalany, aki (amely) gazdasági tevékenységének székhelye, ennek hiányában pedig lakóhelye a Közösség területén kívül van, de belföldön rendelkezik állandó telephellyel, szokásos tartózkodási hellyel, 2025. évre vonatkozóan nem élhet a 187. § (1) bekezdés szerinti alanyi adómentesség választásának jogával.
+
+362. § (1) Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel módosított 184. §-t a 2024. január 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallási kötelezettségre kell először alkalmazni.
+
+(2) Jogutódlás esetén – ide nem értve a 17. § (3) bekezdés g) és k) pontjai szerinti jogutódlást – az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 184. § (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen a jogutód a jogelődnek 2025. január 1-jét magában foglaló adómegállapítási időszakára vonatkozóan fér először hozzá az állami adó- és vámhatóság által rendelkezésre bocsátott adatokhoz, valamint a jogutód a 184. § (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen a jogelőd által kizárólag ezen az elektronikus felületen a 2025. január 1-jét megelőző nappal végződő adómegállapítási időszakra vonatkozóan benyújtott bevallását 2025. január 1-jét követően helyesbítheti önellenőrzéssel.
+
+(3) Az adóalany az Art. 52. §-a szerinti bevallási kötelezettségét először a 2025. január 1-jét magában foglaló adómegállapítási időszakára vonatkozóan teljesítheti a 184. § (2) bekezdés b) vagy c) pontja szerint.
+
+(4) A felszámolás, végelszámolás vagy kényszertörlés alatt álló adóalany az Art. 53. §-a szerinti bevallási kötelezettségét először a 2025. január 1-jét magában foglaló adómegállapítási időszakára vonatkozóan teljesítheti a 184. § (2) bekezdés b) vagy c) pontja szerint.
+
+(5) Az adóalany a 184. § (2) bekezdés b) vagy c) pontja szerint benyújtott bevallását az elektronikus felületen 2024. július 1-jétől helyesbítheti önellenőrzéssel.
+
+363. § Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel módosított 108. § (3) bekezdés a 2024. naptári évre alkalmazható először.
+
+364. § (1) Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 82. § (5) bekezdést azokban az esetekben kell alkalmazni, amelyekben a 84. § szerint megállapított időpont 2024. január 1-jére vagy azt követő időpontra esik.
+
+(2) A 3/A. számú melléklet I. részében foglalt táblázatnak az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 5. pontját azokban az esetekben kell alkalmazni, amelyekben a 84. § szerint megállapított időpont 2024. január 1-jére vagy azt követő időpontra esik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4470,7 +4602,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 13. | Telefonkezelő adapter vakok számára | 8517 69 90-ből |
 | 14. | Braille-óra vakoknak | 9102-ből |
 | 15. | Könyv | 4901-ből 4903 |
-| 16. | Napilap (hetenként legalább négyszer megjelenő kiadvány); Folyóirat, más újság (évente legalább egyszer megjelenő kiadvány) | 4902 |
+| 16. | Folyóirat, más újság (évente legalább egyszer megjelenő kiadvány) | 4902-ből |
 | 17. | Kotta | 4904 |
 | 18. | A 15. és 17. pontban meghatározott termékek bármely más fizikai adathordozón reprodukált formája |  |
 | 19. | Fajtiszta tenyészsertés | 0103 1000 |
@@ -4548,6 +4680,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 3. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (TESZOR’15 56.10-ből) |
 | 4. | Internet-hozzáférési szolgáltatás |
 | 5. | Kereskedelmi szálláshely-szolgáltatás |
+| 6. | A turisztikai térségek fejlesztésének állami feladatairól szóló törvény végrehajtásáról szóló 235/2019. (X. 15.) Korm. rendelet – 2023. május 8-án hatályos – 3. melléklet IV. pont b) alpontja szerinti buszos személyszállítási szolgáltatás, feltéve, hogy a szolgáltatás igénybevevője számára folyamatos rendelkezésre állással kizárólag elektronikus fizetési lehetőség biztosított.” |
 
 ### 3/A. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4561,6 +4694,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 2. | Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótlására szolgáló olyan imitátumokat, amelyek általában tej és permeátum - esetenként savó és/vagy tejszín - különböző arányú keverékéből állnak, és amelyek minősége, mennyiségi összetétele különbözik a természetes tejétől, tejfehérje tartalma lényegesen alacsonyabb a természetes tejénél) | 0404 90-ből |
 | 3. | Ízesített tej | 2202 99 91-ből 2202 99 95-ből 2202 99 99-ből |
 | 4. | Gabona, liszt, keményítő vagy tej felhasználásával készült termék (kivéve a 3. számú melléklet I. rész 5. pontja szerinti termékeket) | 1901-ből 1903 1904 1905 10 1905 40 1905 90 |
+| 5. | Desszert jellegű sajtkészítmény | 1806-ból 2106-ból” |
 
 #### II. rész: szolgáltatások
 
@@ -4570,6 +4704,14 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 2. | A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás. |
 | 3. |  |
 | 4. |  |
+
+### 3/B. számú melléklet a 2007. évi CXXVII. törvényhez
+
+#### A 82. § (4) bekezdésének alkalmazása alá tartozó termékek
+
+| Sorszám | Megnevezés | vtsz. |
+| --- | --- | --- |
+| 1. | Napilap (hetenként legalább négyszer megjelenő kiadvány) | 4902-ből |
 
 ### 4. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4974,3 +5116,4 @@ Számla kiállítása, -kibocsátása
 - 12. A 9–10. pont szerinti nyilatkozatra a bevallásra vonatkozó rendelkezéseket kell alkalmazni.
 - 13. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében a 9–10. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít.
 - 14. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén a 9–10. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.
+- 15. Mentesül a 9–10. pontban meghatározott nyilatkozattételi kötelezettség alól az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti.

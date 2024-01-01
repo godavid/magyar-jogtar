@@ -2903,7 +2903,7 @@ kell közölni.
 
 #### 123/A. Kötelező tartózkodás szabályainak megszegése
 
-168/A. § Aki a tömeges bevándorlás okozta válsághelyzet időtartama alatt nem a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben, vagy a menedékjogról szóló törvényben meghatározott kötelező tartózkodási hely kijelölésére vonatkozó hatósági döntésben számára meghatározott helyen tartózkodik, szabálysértést követ el.
+168/A. § Aki a tömeges bevándorlás okozta válsághelyzet időtartama alatt nem a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben, vagy a menedékjogról szóló törvényben meghatározott kötelező tartózkodási hely kijelölésére vonatkozó hatósági döntésben számára meghatározott helyen tartózkodik, szabálysértést követ el.
 
 #### 124. Rendzavarás
 
@@ -3496,7 +3496,7 @@ szabálysértést követ el.
 
 #### 162. Külföldiek rendészetével kapcsolatos szabálysértés
 
-208. § (1) Aki a külföldiek bejelentésére, jelentkezésére vagy az ország területén tartózkodására vonatkozó szabályokat megszegi, szabálysértést követ el.
+208. § (1) Aki a külföldiek bejelentésére, jelentkezésére vagy az ország területén tartózkodására vonatkozó szabályokat megszegi – ideértve azt az esetet is, ha a külföldi a kiutasító határozatban, illetve a bírói kiutasítás végrehajtásáról rendelkező végzésben meghatározott határnapot követő napig Magyarország területét nem hagyta el, attól függetlenül, hogy kitoloncolásra sor került-e –, szabálysértést követ el.
 
 (2)
 

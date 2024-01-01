@@ -12,7 +12,7 @@ Ennek érdekében az Országgyűlés a számvitelről a következő törvényt a
 
 ### A törvény célja
 
-1. § Ez a törvény meghatározza a hatálya alá tartozók beszámolási és könyvvezetési kötelezettségét, a beszámoló összeállítása, a könyvek vezetése során érvényesítendő elveket, az azokra épített szabályokat, valamint a nyilvánosságra hozatalra, a közzétételre és a könyvvizsgálatra vonatkozó követelményeket.
+1. § Ez a törvény meghatározza a hatálya alá tartozók beszámolási és könyvvezetési kötelezettségét, a beszámoló összeállítása, a fenntarthatósági jelentés elkészítése, a könyvek vezetése során érvényesítendő elveket, az azokra épített szabályokat, valamint a nyilvánosságra hozatalra, a közzétételre és a könyvvizsgálatra vonatkozó követelményeket.
 
 ### A törvény hatálya
 
@@ -122,7 +122,7 @@ Ennek érdekében az Országgyűlés a számvitelről a következő törvényt a
 
 (7) E törvény alkalmazásában
 
-- 1. igénybe vett szolgáltatás: minden olyan szolgáltatás, amely nem tartozik a közvetített szolgáltatás, illetve az egyéb szolgáltatás közé; különösen az utazásszervezés, a szállítás-rakodás, a raktározás, a csomagolás, a kölcsönzés, a bérlet, a bérmunka, az eszközök karbantartása, a postai és távközlési szolgáltatás, a mosás és vegytisztítás, a bizományi tevékenység, az ügyletszerzés, az oktatás és továbbképzés, a hirdetés, a reklám és propaganda, a piackutatás, a könyvkiadás, a lapkiadás, a szállodai szolgáltatás, a vendéglátás, a kutatás és kísérleti fejlesztés, a tervezés és lebonyolítás, a könyvvizsgálat, a könyvviteli szolgáltatás;
+- 1. igénybe vett szolgáltatás: minden olyan szolgáltatás, amely nem tartozik a közvetített szolgáltatás, illetve az egyéb szolgáltatás közé; különösen az utazásszervezés, a szállítás-rakodás, a raktározás, a csomagolás, a kiterjesztett gyártói felelősség, a kölcsönzés, a bérlet, a bérmunka, az eszközök karbantartása, a postai és távközlési szolgáltatás, a mosás és vegytisztítás, a bizományi tevékenység, az ügyletszerzés, az oktatás és továbbképzés, a hirdetés, a reklám és propaganda, a piackutatás, a könyvkiadás, a lapkiadás, a szállodai szolgáltatás, a vendéglátás, a kutatás és kísérleti fejlesztés, a tervezés és lebonyolítás, a könyvvizsgálat, a könyvviteli szolgáltatás;
 - 2. egyéb szolgáltatás: a pénzügyi, a befektetési, a biztosítási, a hatósági igazgatási, az egyéb hatósági szolgáltatás;
 - 3. személyi jellegű egyéb kifizetések: azok a természetes személyek részére teljesített kifizetések, elszámolt összegek, amelyeket a kifizető a természetes személy részére jogszabályi előírás vagy saját elhatározása alapján teljesít, és nem tartoznak a bérköltség, illetve a vállalkozási díj fogalmába. Ilyenek különösen: a szerzői jogdíj, a lakhatási költségtérítés, a lakásépítésre nyújtott támogatás (ideértve az átvállalt kamatot és kezelési költséget is), az étkezési térítés, a munkábajárással kapcsolatos költségtérítés, a jubileumi jutalom, a dolgozó kötelezettségvállalásának térítése, a bányászati keresetkiegészítés, a tárgyjutalmak, az egyéb természetbeni munkajövedelmek, a megváltozott munkaképességű munkavállalók keresetkiegészítése, a betegszabadság díjazása, a munkáltatót terhelő táppénz, táppénz-kiegészítés, a munkavállaló részére kötött, de a munkáltató által fizetett baleset-, élet- és nyugdíjbiztosítás díja, az önkéntes pénztárba befizetett munkáltatói tagdíj-hozzájárulás, a magánnyugdíjpénztárba befizetett munkáltatói tagdíj-kiegészítés, a munkáltatót terhelő, illetve általa átvállalt személyi jövedelemadó, a jóléti és kulturális költségek, a végkielégítés, a munkáltatói hozzájárulás a korhatár előtti ellátás igénybevételéhez, továbbá az alkalmazottakat, munkavállalókat megillető kifizetések, mint a napidíj, a különélési pótlék, a jogszabály alapján fizetett költségtérítések, a sorkatonai vagy polgári szolgálat teljesítését követően fizetett személyi alapbér, a találmányi díj, a szabadalom vételára és hasznosítási díja, az újítási díj, az ezekkel kapcsolatosan fizetett közreműködői díj, valamint nem a munkaviszonnyal összefüggésben fizetett szerzői, írói és más szerzői jogvédelmet élvező munkák díjai, az azokkal kapcsolatos közreműködői díjak, a mezőgazdaságban részesmunkát végzők díjazása, a természetben adott juttatások, a reprezentáció költségei, és minden egyéb, a statisztikai előírások szerint egyéb munkajövedelemnek, szociális költségnek minősített összegek.
 
@@ -237,6 +237,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 - 4. mérlegfordulónapi adókulcs: az az adókulcs, amely mérlegfordulónapon kihirdetett és vonatkozni fog arra a következő üzleti év(ek)re, amely(ek)ben a halasztott adókövetelés vagy halasztott adókötelezettség realizálódik;
 - 5. halasztott adókövetelés, halasztott adókötelezettség könyv szerinti értéke: a halasztott adókövetelés számított értékéből az az összeg, amely várhatóan realizálódik a későbbi üzleti év(ek)ben, a halasztott adókötelezettség esetében a könyv szerinti érték megegyezik a halasztott adókötelezettség számított értékével.
 
+(17) E törvény alkalmazásában kulcsfontosságú immateriális erőforrások: olyan fizikai formát nem öltő erőforrások, amelyektől a vállalkozó üzleti modellje alapvető módon függ, és amelyek a vállalkozó számára az értékteremtés forrásai, függetlenül attól, hogy a mérlegben szerepelnek-e vagy sem.
+
 ### II. Fejezet — BESZÁMOLÁS ÉS KÖNYVVEZETÉS
 
 ### Beszámolási kötelezettség
@@ -284,7 +286,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (4) Egyszeres könyvvitellel alátámasztott – a (2) bekezdés d) pontja szerinti – egyszerűsített beszámolót készíthet a gazdálkodó, ha azt e törvény vagy az 5–6. §-okban hivatkozott kormányrendelet lehetővé teszi.
 
-(5) A gazdálkodó legfőbb irányító (vezető) szervén, ügyvezető szervén és felügyelő testületén belül a tagok együttes kötelezettsége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy az éves beszámoló, az egyszerűsített éves beszámoló és az összevont (konszolidált) éves beszámoló (ideértve a 9/A. § és a 10. § (2) és (3) bekezdés alapján az IFRS-ek szerint elkészített éves beszámolót és összevont (konszolidált) éves beszámolót is), valamint a kapcsolódó üzleti jelentés összeállítása és nyilvánosságra hozatala e törvény előírásainak megfelelően történjen.
+(5) A gazdálkodó legfőbb irányító (vezető) szervén, ügyvezető szervén és felügyelő testületén belül a tagok együttes kötelezettsége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy az éves beszámoló, az egyszerűsített éves beszámoló és az összevont (konszolidált) éves beszámoló (ideértve a 9/A. § és a 10. § (2) és (3) bekezdés alapján az IFRS-ek szerint elkészített éves beszámolót és összevont (konszolidált) éves beszámolót is), valamint a kapcsolódó üzleti jelentés (adott esetben annak elkülönített részeként a fenntarthatósági jelentés) összeállítása és nyilvánosságra hozatala e törvény előírásainak megfelelően történjen.
 
 9. § (1) Éves beszámolót és üzleti jelentést köteles készíteni a kettős könyvvitelt vezető vállalkozó, a (2) bekezdésben foglaltak kivételével.
 
@@ -304,8 +306,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (6) Egyszerűsített éves beszámolóját – saját választása alapján – a 6. § (5) bekezdés szerinti kormányrendeletben foglaltaknak megfelelően (mikrogazdálkodói egyszerűsített éves beszámoló) is elkészítheti a könyvvizsgálatra nem kötelezett vállalkozó, ha két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-- a) a mérlegfőösszeg a 100 millió forintot,
-- b) az éves nettó árbevétel a 200 millió forintot,
+- a) a mérlegfőösszeg a 150 millió forintot,
+- b) az éves nettó árbevétel a 300 millió forintot,
 - c) az üzleti évben átlagosan foglalkoztatottak száma a 10 főt.
 
 (6a) Nem készíthet mikrogazdálkodói egyszerűsített éves beszámolót
@@ -380,7 +382,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben nem szabályozott átalakulásnál, egyesülésnél, szétválásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás, egyesülés, szétválás napja.
 
-(10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év a felszámolási, a végelszámolási eljárás befejezésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
+(10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás, illetve a kényszertörlési eljárás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év a felszámolási, a végelszámolási, illetve a kényszertörlési eljárás befejezésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 
 (11) A felszámolás, illetve a kényszertörlési eljárás időszaka egy üzleti évnek minősül, függetlenül annak időtartamától.
 
@@ -586,7 +588,7 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (2) Az ingatlanok között kell kimutatni a rendeltetésszerűen használatba vett földterületet és minden olyan anyagi eszközt, amelyet a földdel tartós kapcsolatban létesítettek. Az ingatlanok közé sorolandó: a földterület, a telek, a telkesítés, az épület, az épületrész, az egyéb építmény, az üzemkörön kívüli ingatlan, illetve ezek tulajdoni hányada, továbbá az ingatlanokhoz kapcsolódó vagyoni értékű jogok, függetlenül attól, hogy azokat vásárolták vagy a vállalkozó állította elő, illetve azok saját tulajdonú vagy bérelt ingatlanon valósultak meg. Az ingatlanok között kell kimutatni a bérbe vett ingatlanokon végzett és aktivált beruházást, felújítást is.
 
-(3) Az ingatlanokhoz kapcsolódó vagyoni értékű jogok különösen: a földhasználat, a haszonélvezet és használat, a bérleti jog, a szolgalmi jog, az ingatlanok rendeltetésszerű használatához kapcsolódó – jogszabályban nevesített – hozzájárulások, díjak (víziközmű-fejlesztési hozzájárulás, villamos energia hálózati csatlakozási díj, gázhálózati csatlakozási díj) megfizetése alapján szerzett használati jog, valamint az ingatlanhoz kapcsolódó egyéb jogok.
+(3) Az ingatlanokhoz kapcsolódó vagyoni értékű jogok különösen: a földhasználat, a haszonélvezet és használat, a bérleti jog, az építményi jog, a szolgalmi jog, az ingatlanok rendeltetésszerű használatához kapcsolódó – jogszabályban nevesített – hozzájárulások, díjak (víziközmű-fejlesztési hozzájárulás, villamos energia hálózati csatlakozási díj, gázhálózati csatlakozási díj) megfizetése alapján szerzett használati jog, valamint az ingatlanhoz kapcsolódó egyéb jogok.
 
 (4) A műszaki berendezések, gépek, járművek között kell kimutatni a rendeltetésszerűen használatba vett, üzembe helyezett, a vállalkozó tevékenységét közvetlenül szolgáló erőgépeket, erőművi berendezéseket, egyéb gépeket, berendezéseket, műszereket és szerszámokat, szállítóeszközöket, hírközlő berendezéseket, számítástechnikai eszközöket, a tevékenységi profilt meghatározó vasúti, közúti, vízi- és légiközlekedési eszközöket, valamint az itt felsorolt, bérbe vett eszközökön végzett és aktivált beruházást, felújítást.
 
@@ -659,7 +661,7 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (7) Egyéb követelésként kell kimutatni – a nem részesedési viszonyban lévő vállalkozások között létrejött – valódi penziós és óvadéki repóügylet esetén a határidős viszonteladási kötelezettség mellett vásárolt eszköz kifizetett vételárát, illetve a határidős visszavásárlási kötelezettség mellett eladott eszköz kifizetett visszavásárlási árát, az értékpapír-kölcsönügylet során a kölcsönbeadott értékpapír kölcsönszerződés szerinti értékében fennálló követelést, továbbá a származékos ügyletek esetén a fizetett letétek, pénzügyi biztosítékok, árkülönbözetek összegét, amíg az ügylet le nem zárul.
 
-(8) A (6) és (7) bekezdésben foglaltakon túlmenően az egyéb követelés mérlegtételnél kell kimutatni továbbá a nem részesedési viszonyban lévő adóssal szembeni (1) bekezdés szerinti valamennyi követelést – a (2) és az (5) bekezdésben foglaltak kivételével –, ideértve a tartósan adott kölcsönből a mérlegfordulónapot követő egy éven belül esedékes részleteket, a vásárolt követeléseket, a térítés nélkül és egyéb címen átvett követeléseket, a peresített követelésekből – a 77. § (2) bekezdés a) és b) pontja szerinti követelések kivételével – a bíróság által az üzleti év mérlegfordulónapjáig jogerősen megítélt követeléseket is.
+(8) A (6) és (7) bekezdésben foglaltakon túlmenően az egyéb követelés mérlegtételnél kell kimutatni továbbá a nem részesedési viszonyban lévő adóssal szembeni (1) bekezdés szerinti valamennyi követelést – a (2) és az (5) bekezdésben foglaltak kivételével –, ideértve a tartósan adott kölcsönből a mérlegfordulónapot követő egy éven belül esedékes részleteket, a vásárolt követeléseket, a térítés nélkül és egyéb címen átvett követeléseket, a peresített követelésekből – a 77. § (2) bekezdés a) és b) pontja szerinti követelések kivételével – a bíróság által az üzleti év mérlegfordulónapjáig jogerősen megítélt követeléseket, a vállalkozó (forgalmazó) által a koncessziós társaság helyett visszafizetett visszaváltási díjból származó követeléseket is.
 
 (9) A követelések között kell a mérlegben önálló tételként kimutatni származékos ügyletek pozitív értékelési különbözete címén a pénzügyi instrumentumok 59/A–59/F. §-ok szerinti valós értéken történő értékelése esetén a le nem zárt kereskedési, illetve fedezeti célú származékos ügyletek pozitív valós értékét (jövőben várható – nyereségjellegű – eredményét).
 
@@ -776,8 +778,8 @@ a cégbejegyzést, illetve a változás időpontját követően, az eszköz átv
 - d) a vállalkozó tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
 - f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét,
-- g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a gazdasági társaság tulajdonosa (tagja) lemond, a lemondás időpontjával.
-- h) az osztalék miatti kötelezettség elengedett összegét, ha a jóváhagyott osztalékból származó követelését a gazdasági társaság tulajdonosa (tagja) elengedi, az elengedés időpontjával.
+- g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a vállalkozó tulajdonosa (tagja) lemond, a lemondás időpontjával.
+- h) az osztalék miatti kötelezettség elengedett összegét, ha a jóváhagyott osztalékból származó követelését a vállalkozó tulajdonosa (tagja) elengedi, az elengedés időpontjával.
 
 (2) Az eredménytartalék csökkenéseként kell kimutatni:
 
@@ -984,7 +986,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (4) A negatív üzleti vagy cégértékként kimutatott halasztott bevételt legalább 5 év, de legfeljebb 10 év alatt lehet az egyéb bevételekkel szemben megszüntetni. Amennyiben a vállalkozó a negatív üzleti vagy cégértéket 5 évnél hosszabb idő alatt írja le, azt a kiegészítő mellékletben indokolnia kell. A negatív üzleti vagy cégértékként kimutatott halasztott bevételt az egyéb bevételekkel szemben meg kell szüntetni az alapul szolgáló részesedés bármilyen jogcímen történő könyvekből való kivezetése esetén, illetve átalakuláskor, egyesüléskor, szétváláskor abban az esetben, ha a negatív üzleti vagy cégérték keletkezésére ható körülményekben, feltételekben olyan változások következnek be, amelyek a negatív üzleti vagy cégérték további kimutatását nem indokolják.
 
-(5) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni a vállalkozó valamely befektetett eszköze tartós használati, üzemeltetési, kezelési jogának átengedéséért kapott bevételt. A halasztott bevételt az alapul szolgáló szerződésben, megállapodásban meghatározott időtartam alatt, határozatlan idejű szerződés esetén öt év vagy ennél hosszabb idő alatt lehet megszüntetni. Amennyiben a vállalkozó öt évnél hosszabb idő alatt szünteti meg a halasztott bevételt, azt a kiegészítő mellékletben indokolni kell.
+(5) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni a vállalkozó valamely befektetett eszköze tartós használati, építményi, üzemeltetési, kezelési jogának átengedéséért kapott bevételt. A halasztott bevételt az alapul szolgáló szerződésben, megállapodásban meghatározott időtartam alatt, határozatlan idejű szerződés esetén öt év vagy ennél hosszabb idő alatt lehet megszüntetni. Amennyiben a vállalkozó öt évnél hosszabb idő alatt szünteti meg a halasztott bevételt, azt a kiegészítő mellékletben indokolni kell.
 
 (6) Passzív időbeli elhatárolásként kell kimutatni a kölcsönbeadott értékpapír – felhalmozott kamattal csökkentett – kölcsönszerződés szerinti értékének a könyv szerinti értékét meghaladó összegét (nyereségét). Az időbeli elhatárolást akkor kell megszüntetni, amikor a kölcsönbevevő által visszaszolgáltatott értékpapír eladásra, beváltásra, illetve egyéb ügylet keretében az állományból véglegesen kivezetésre kerül, vagy a kölcsönbevevő megtéríti annak piaci értékét, mert az értékpapír nem kerül visszaszolgáltatásra.
 
@@ -1009,7 +1011,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 - a) illeték [vagyonszerzés (ajándék, öröklés, adásvétel, csere után járó) illetéke],
 - b) az előzetesen felszámított, de le nem vonható általános forgalmi adó,
 - c) a jogszabályon alapuló hatósági igazgatási, szolgáltatási díj,
-- d) az egyéb hatósági igazgatási, szolgáltatási eljárási díj (környezetvédelmi termékdíj, szakértői díj),
+- d) az egyéb hatósági igazgatási, szolgáltatási eljárási díj (környezetvédelmi termékdíj, visszaváltási díj, szakértői díj),
 - e) a vásárolt vételi opció díja [a 47. § (12) bekezdésében, valamint a 61. § (2) bekezdésében foglaltak kivételével].
 
 (3) A bekerülési (beszerzési) értéknek nem része a levonható előzetesen felszámított általános forgalmi adó, továbbá az általános forgalmi adóról szóló törvény szerint megosztott előzetesen felszámított általános forgalmi adó le nem vonható hányada. A beruházáshoz kapcsolódó, véglegesen kapott támogatás összege nem csökkenti az eszköz bekerülési (beszerzési) értékét.
@@ -1048,7 +1050,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (3) Az eszköz értékét növelő bekerülési (beszerzési) értékként kell figyelembe venni az eszköz használati értékét növelő munkafolyamatok, illetve megmunkálás ellenértékét jelentő bérmunkadíjat.
 
-(4) Az eszköz értékét növelő bekerülési (beszerzési) értékként kell figyelembe venni ingatlan beszerzése esetén az ingatlan értékébe – szerződés alapján – beszámított, korábban a bérleti jog megvásárlása címén fizetett, bérleti jogként kimutatott (még le nem írt) összeget.
+(4) Az eszköz értékét növelő bekerülési (beszerzési) értékként kell figyelembe venni ingatlan beszerzése esetén az ingatlan értékébe – szerződés alapján – beszámított, korábban a bérleti jog, építményi jog megvásárlása címén fizetett, bérleti jogként, építményi jogként kimutatott (még le nem írt) összeget.
 
 (5) Importbeszerzésként kell elszámolni a terméknek (az eszköznek) a külkereskedelmi termékforgalomban külfölditől történő beszerzését (termékimport), továbbá a belföldön, illetve külföldön igénybe vett, külföldiek által nyújtott szolgáltatást (szolgáltatásimport), függetlenül attól, hogy az ellenértéket devizában, valutában, exportáruval, exportszolgáltatással vagy forintban egyenlítik ki. A köz- és magánvámraktárból történő beszerzés a vámjogszabályokban rögzített feltételek szerint minősül importbeszerzésnek.
 
@@ -1075,6 +1077,8 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 (7) Gazdasági társaság beolvadása esetén a külső tulajdonosnál a megszűnt gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés ellenében kapott részesedés bekerülési (beszerzési) értéke a megszűnt részesedésre jutó – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összege.
 
 (8) A 27. § (4a) bekezdés szerinti tulajdoni részesedés esetén – jogszabály eltérő rendelkezése hiányában – a (3)–(7) bekezdések megfelelő alkalmazásával kell eljárni.
+
+(9) Leválás keretében a vagyonátadás (eszközök és kötelezettségek) teljesítését és az ellenében kapott részesedés könyvekbe történő felvételét a gazdasági társaságok alapítására vonatkozó számviteli szabályok megfelelő alkalmazásával kell elszámolni.
 
 50. § (1) Követelés fejében átvett eszköz bekerülési (beszerzési) értéke az eszköz megállapodás, csereszerződés, vagyonfelosztási javaslat szerinti (számlázott, bizonylatolt) értéke.
 
@@ -1585,7 +1589,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 - a) a kötelezettségek teljesítésére, a csereszerződés keretében átadott vásárolt és saját termelésű készletek, nyújtott szolgáltatások – általános forgalmi adót nem tartalmazó – számlázott, megállapodás, csereszerződés szerinti értékét a készlet átadás-átvétel, a szolgáltatásnyújtás időpontjában;
 - b) az értékesített göngyöleg betétdíjas árának számla, nyugta szerinti – általános forgalmi adót nem tartalmazó – értékét;
 - c) a gazdasági társaságnál a jegyzett tőkének tőkekivonással történő leszállításakor a bevont részvények, üzletrészek, egyéb társasági részesedések ellenében átadott vásárolt és saját termelésű készletek – általános forgalmi adót nem tartalmazó – számlázott, a létesítő okiratban, annak módosításában, illetve az arra jogosult testület határozatában rögzített értékének összegét,
-- d) a befektetett eszközök használati, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
+- d) a befektetett eszközök használati, építményi, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
 - e)
 
 (4a) Az értékesítés nettó árbevételét:
@@ -1604,6 +1608,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 - c) a – teljesítés időpontjában a vevő által szerződés szerinti teljesítésként elfogadott – vásárolt és saját termelésű készlet értékesítéséhez, szolgáltatásnyújtáshoz kapcsolódóan – a szavatossági jogok (igények) érvényesítése során – utólag adott engedmény helyesbítő számviteli bizonylatban rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a szavatossági igény megismerésének időpontjára vonatkozik);
 - d) az értékesített és később visszavett, a két időpont között használt – a 72. § (3) bekezdése szerinti – termék visszavételkori piaci értékét, legfeljebb eredeti eladási árát, a helyesbítő számviteli bizonylatban rögzített, a szerződés szerinti feltételek teljesülésének későbbi meghiúsulása miatt az eredeti ellenértéknek részben vagy teljesen visszatérített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a visszavétel időpontjára vonatkozik);
 - e) a vásárolt és saját termelésű készlet értékesítéséhez kapcsolódó visszáru, valamint az értékesített és később visszavett betétdíjas göngyöleg helyesbítő számviteli bizonylatban rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a visszaszállítás, a visszavétel időpontjára vonatkozik).
+- f) az újrahasználható termék és az önkéntes visszaváltási díjas termék után a helyesbítő számviteli bizonylatban rögzített, visszafizetett visszaváltási díj összegét (a helyesbítés a visszafizetés időpontjára vonatkozik).
 
 (3) Az értékesítés nettó árbevételét növelő tételként kell elszámolni a vásárolt és saját termelésű készlet értékesítéséhez, a szolgáltatásnyújtáshoz kapcsolódóan utólag felszámított felár, az eladási árat növelő korrekciók helyesbítő számviteli bizonylatban rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a teljesítés időpontjára vonatkozik).
 
@@ -1683,13 +1688,13 @@ ha az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez kapcsolód
 
 78. § (1) Az anyagjellegű ráfordítások között kell kimutatni a vásárolt és felhasznált anyagok értékét, az igénybe vett (vásárolt) szolgáltatások – le nem vonható általános forgalmi adót is magában foglaló – értékét, az egyéb szolgáltatások értékét, az eladott áruk beszerzési értékét és az eladott (közvetített) szolgáltatások értékét.
 
-(2) Anyagköltségként az üzleti évben felhasznált vásárolt anyagok bekerülési (értékvesztéssel csökkentett, az értékvesztés visszaírt összegével növelt bekerülési) értékét, továbbá a vásárolt növendék-, hízó- és egyéb állatok bekerülési értékét kell kimutatni. A termelés, a tevékenység, a szolgáltatás során keletkezett hulladékok, haszonanyagok értékével, az anyagok bekerülési értékében figyelembe vett vámteher, jövedéki adó, termékdíj visszatérített összegével az anyagköltséget csökkenteni kell.
+(2) Anyagköltségként az üzleti évben felhasznált vásárolt anyagok bekerülési (értékvesztéssel csökkentett, az értékvesztés visszaírt összegével növelt bekerülési) értékét, továbbá a vásárolt növendék-, hízó- és egyéb állatok bekerülési értékét kell kimutatni. A termelés, a tevékenység, a szolgáltatás során keletkezett hulladékok, haszonanyagok értékével, az anyagok bekerülési értékében figyelembe vett vámteher, jövedéki adó, termékdíj, visszaváltási díj visszatérített összegével az anyagköltséget csökkenteni kell.
 
 (3) Az igénybe vett szolgáltatások értékeként az üzleti évben igénybe vett anyagjellegű és nem anyagjellegű szolgáltatások bekerülési értékét a – le nem vonható általános forgalmi adót is magában foglaló – számlázott, fizetett, szerződésben meghatározott összegben kell elszámolni.
 
 (4) Az egyéb szolgáltatások értékeként az üzleti évben felmerült, az eszközök bekerülési értékében el nem számolt (figyelembe nem vehető) illetéket, jogszabályon alapuló hatósági igazgatási, szolgáltatási díjat, egyéb hatósági igazgatási, szolgáltatási eljárási díjat, bankköltséget (a fizetett, fizetendő kamat kivételével) és a negatív hozamként felszámított összeget (negatív kamatot), biztosítási díjat, továbbá a saját előállítású termékeknek a saját kiskereskedelmi egységbe történő kiszállításakor, illetve (saját) üzemben történő felhasználásakor megfizetett adót, járulékot, termékdíjat a számlázott, a fizetett, a szerződésben meghatározott (számított), a bevallott összegben kell kimutatni.
 
-(5) Az eladott áruk beszerzési értéke az üzleti évben – általában – változatlan formában eladott anyagok, áruk bekerülési (értékvesztéssel csökkentett, az értékvesztés visszaírt összegével növelt bekerülési) értékét foglalja magában. Az eladott áruk beszerzési értékét növelő tételként kell kimutatni az értékesített betétdíjas göngyölegek bekerülési értékét, majd az eladott áruk beszerzési értékét csökkenteni kell a visszavett betétdíjas göngyölegek bekerülési értékével.
+(5) Az eladott áruk beszerzési értéke az üzleti évben – általában – változatlan formában eladott anyagok, áruk bekerülési (értékvesztéssel csökkentett, az értékvesztés visszaírt összegével növelt bekerülési) értékét foglalja magában. Az eladott áruk beszerzési értékét növelő tételként kell kimutatni az értékesített betétdíjas göngyölegek bekerülési értékét, míg az eladott áruk beszerzési értékét csökkenteni kell a visszavett betétdíjas göngyölegek bekerülési értékével. Az eladott áruk beszerzési értékét növelő tételként kell kimutatni a visszaváltási díjas termékek bekerülési értékének részét képező visszaváltási díjat, míg az eladott áruk beszerzési értékét csökkenteni kell a visszakapott visszaváltási díj összegével.
 
 (6) Az eladott (közvetített) szolgáltatások értékeként a vásárolt és változatlan formában értékesített szolgáltatások bekerülési értékét kell elszámolni az értékesítéskor.
 
@@ -1733,6 +1738,7 @@ ha az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez kapcsolód
 - o) a 77. § (2) bekezdés d) pontja és (4) bekezdés b) pontja alapján az előző üzleti év(ek)ben kapott, bevételként elszámolt támogatás, juttatás visszafizetendő összegét;
 - p) a térítés nélkül átadott eszközök – a részesedések, az értékpapírok, a befektetett pénzügyi eszközök között kimutatott kölcsönök és a vásárolt követelések kivételével – nyilvántartás szerinti értékét, valamint a térítés nélkül nyújtott szolgáltatások bekerülési értékét a felszámított, az átvevő által meg nem térített általános forgalmi adóval növelt összegben;
 - q) az üzletág értékesítésének veszteségét [a kivezetett eszközök és az átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetnek, valamint a kapott (járó) vagy fizetett (fizetendő) összegnek a veszteségjellegű különbözetét].
+- r) a vállalkozó által – a nem újrahasználható termék után – a koncessziós társaságnak fizetett (fizetendő) kötelező visszaváltási díj összegét.
 
 (3) Az egyéb ráfordítások között kell kimutatni:
 
@@ -2082,6 +2088,8 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 94/A. § A kiegészítő mellékletben be kell mutatni a külföldi telephelyek főbb adatait telephelyenként külön-külön, így különösen azok megnevezését, címét, befogadó országát, a működéshez tartósan rendelkezésre bocsátott eszközök értékét, a külföldi gazdálkodásból származó követelések és kötelezettségek, a külföldi gazdálkodásból származó adózott eredmény és a külföldön befizetett főbb adók összegét.
 
+94/B. § A vállalkozó a kiegészítő mellékletében bemutatja a környezetvédelemi, sport, egészségügyi, szociális, kulturális és oktatási területen közérdekű célból, közhasznú tevékenységet végző civil szervezetnek ellentételezés nélkül az üzleti évben nyújtott pénzbeli és természetbeni juttatásokat.
+
 ### Üzleti jelentés
 
 95. § (1) Az üzleti jelentés célja, hogy az éves beszámoló adatainak értékelésével úgy mutassa be a vállalkozó vagyoni, pénzügyi, jövedelmi helyzetét, az üzletmenetet, a vállalkozó tevékenysége során felmerülő főbb kockázatokkal és bizonytalanságokkal együtt, hogy ezekről – a múltbeli tény- és a várható jövőbeni adatok alapján – a tényleges körülményeknek megfelelő, megbízható és valós képet adjon.
@@ -2140,35 +2148,163 @@ a jelentősebb összegeit, azok időbeli alakulását.
 - e) a vállalkozó belső ellenőrzési és kockázatkezelési rendszere(i) főbb jellemzőinek bemutatása a beszámolókészítés összefüggésében,
 - f) a 95/A. § c), d), f), h) és i) pontja szerinti információk, ha a vállalkozó a 95/A. § hatálya alá tartozik,
 - g) a legfőbb irányító (vezető) szerv, az ügyvezető szerv és a felügyelő testület, valamint ezek bizottságainak összetétele és működése.
-- h) a vállalkozás ügyviteli, ügyvezető és felügyelő testületei esetében alkalmazott, sokszínűséggel kapcsolatos politika leírása, különös tekintettel az életkori, a nemi, a tanulmányi és a szakmai háttérrel kapcsolatos szempontokra, e sokszínűséggel kapcsolatos politika céljainak, megvalósítási módjának és a beszámolási időszakban elért eredményeknek a leírása. Ha nem alkalmaznak ilyen politikát, a nyilatkozatnak tartalmaznia kell ennek magyarázatát.
+- h) a vállalkozó ügyviteli, ügyvezető és felügyelő testületei esetében alkalmazott, sokszínűséggel kapcsolatos politika leírása a nemre és egyéb szempontokra, így különösen az életkorra, a fogyatékosságra vagy a tanulmányi és a szakmai háttérre tekintettel, e sokszínűséggel kapcsolatos politika céljainak, megvalósítási módjának és a beszámolási időszakban elért eredményeknek a leírása; ha nem alkalmaznak ilyen politikát, a nyilatkozatnak tartalmaznia kell ennek magyarázatát.
+
+(2a) A 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozó a (2) bekezdés h) pontja szerinti kötelezettségének úgy is eleget tehet, ha fenntarthatósági jelentése részeként közli az említett pontban előírt információkat, vállalatirányítási nyilatkozatába pedig erre vonatkozó hivatkozást illeszt be.
 
 (3) A vállalkozónak hozzáférhetővé kell tennie a (2) bekezdés b) pontja szerinti gyakorlatának leírását a nyilvánosság számára. E gyakorlat – a vállalkozó döntése szerint – bemutatható az üzleti jelentésben, vagy a vállalkozó holnapján egy dokumentumban, amelyre az üzleti jelentés hivatkozást tartalmaz.
 
-### Nem pénzügyi kimutatás
+95/C. § A 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozó üzleti jelentésében beszámol a kulcsfontosságú immateriális erőforrásokra vonatkozó információkról, valamint bemutatja, hogy üzleti modellje hogyan függ alapvető módon ezektől az erőforrásoktól, és hogy ezek az erőforrások hogyan jelentik számára az értékteremtés forrásait.
 
-95/C. § (1) Az a közérdeklődésre számot tartó gazdálkodónak minősülő vállalkozás, amelynél
+### III/A. Fejezet — FENNTARTHATÓSÁGI JELENTÉS
 
-- a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
-  - aa) a mérlegfőösszeg a 6 000 millió forintot,
-  - ab) az éves nettó árbevétel a 12 000 millió forintot,
-  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, és
-- b) az adott üzleti évben átlagosan foglalkoztatottak száma meghaladja az 500 főt,
+### A fenntarthatósági jelentéssel kapcsolatos fogalommeghatározások
 
-üzleti jelentésében – a vállalkozás fejlődésének, teljesítményének, helyzetének és tevékenységei hatásának megértéséhez szükséges mértékben – a környezetvédelmi, a szociális és foglalkoztatási kérdésekre, az emberi jogok tiszteletben tartására, a korrupció elleni küzdelemre és a megvesztegetésre vonatkozó információkat tartalmazó nem pénzügyi kimutatást tesz közzé.
+95/D. § (1) E fejezet alkalmazásában:
 
-(2) Az (1) bekezdés szerinti nem pénzügyi kimutatásnak legalább az alábbiakat kell tartalmaznia:
+- 1. fenntarthatósági jelentés: a fenntarthatósági kérdésekre vonatkozó információkról szóló jelentés e fejezet, valamint a VI/C. Fejezet előírásaival összhangban;
+- 2. fenntarthatósági kérdések: a környezeti és a társadalmi kérdések, az emberi jogok, valamint az irányítási kérdések, ideértve az (EU) 2019/2088 rendelet 2. cikk 24. pontjában meghatározott fenntarthatósági kérdéseket is;
+- 3. fenntarthatósági beszámolási standardok [European Sustainability Reporting Standards (ESRS-ek)]: a 2013/34/EU irányelv alapján elfogadott, az Európai Unió Hivatalos Lapjában felhatalmazáson alapuló rendeleti formában kihirdetett fenntarthatósági beszámolási standardok;
+- 4. kis- és középvállalkozásokra vonatkozó fenntarthatósági beszámolási standardok: a 2013/34/EU irányelv alapján elfogadott, az Európai Unió Hivatalos Lapjában felhatalmazáson alapuló rendeleti formában kihirdetett, kis- és középvállalkozásokra vonatkozó fenntarthatósági beszámolási standardok;
+- 5. harmadik országbeli vállalkozásokra vonatkozó fenntarthatósági beszámolási standardok: a 2013/34/EU irányelv alapján elfogadott, az Európai Unió Hivatalos Lapjában felhatalmazáson alapuló rendeleti formában kihirdetett, harmadik országbeli vállalkozások számára előírt fenntarthatósági beszámolási standardok;
+- 6. bizonyossági vélemény: fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég által a fenntarthatósági jelentésről vagy az összevont (konszolidált) fenntarthatósági jelentésről, korlátozott bizonyosságot nyújtó megbízás alapján adott vélemény.
 
-- a) a vállalkozás üzleti modelljének rövid leírása;
-- b) a vállalkozásnak a környezetvédelemmel, a szociális és foglalkoztatási kérdésekkel, az emberi jogok tiszteletben tartásával, a korrupció elleni küzdelemmel és a megvesztegetéssel kapcsolatban követett politikáinak leírása, utalva az alkalmazott átvilágítási eljárásokra;
-- c) a b) pont szerinti politikák eredményei;
-- d) a vállalkozás tevékenységével, különösen üzleti kapcsolataival, termékeivel vagy szolgáltatásaival összefüggésben a környezetvédelemmel, a szociális és foglalkoztatási kérdésekkel, az emberi jogok tiszteletben tartásával, a korrupció elleni küzdelemmel és a megvesztegetéssel kapcsolatos azon lényeges kockázatoknak az ismertetése, amelyek hátrányos hatásokkal járhatnak e területeken, továbbá annak leírása, hogy a vállalkozás ezeket a kockázatokat hogyan kezeli;
-- e) azon kulcsfontosságú, nem pénzügyi jellegű teljesítménymutatók, amelyek lényegesek az adott üzleti tevékenység szempontjából.
+(2) E fejezet alkalmazásában az értékesítés nettó árbevételének tekintendő
 
-(3) Ha a vállalkozás nem rendelkezik a (2) bekezdés b) pont szerinti politikák valamelyikével, akkor indokolnia kell annak hiányát.
+- a) a b) és c) pontba tartozó vállalkozók kivételével az e törvény hatálya alá tartozó olyan vállalkozók esetében, amelyek nem alkalmazzák az IFRS-eket, a 72–73. § szerinti értékesítés nettó árbevétele;
+- b) a biztosító esetében a 91/674/EGK tanácsi irányelv 35. cikke és 66. cikk 2. pontja szerinti bevétel;
+- c) a hitelintézet esetében a 86/635/EGK tanácsi irányelv 43. cikk (2) bekezdés c) pontja szerinti bevétel;
+- d) az a)–c) ponton kívüli egyéb vállalkozások esetében (ideértve az IFRS-eket alkalmazókat is), valamint az európai uniós tagállam jogának hatálya alá nem tartozó legfelső szintű anyavállalattal rendelkező leányvállalat vagy fióktelep esetében a pénzügyi kimutatások készítésének alapját képező pénzügyi beszámolási keret által meghatározott vagy annak értelmében vett, szokásos tevékenység árbevétele, vagy az ennek megfelelő bevétel.
 
-(4) A nem pénzügyi kimutatásból kihagyhatók azon aktuális fejleményekre vagy tárgyalás alatt álló kérdésekre vonatkozó információk, amelyek közzététele a vállalkozás legfőbb irányító (vezető), ügyvezető szerve és a felügyelő testület tagjai megfelelő indokolást tartalmazó véleménye szerint súlyosan sértené a vállalkozás üzleti érdekét, feltéve, hogy e kihagyás nem befolyásolja a vállalkozás fejlődésének, teljesítményének, helyzetének és tevékenységei hatásának helyes és elfogulatlan megértését.
+### A fenntarthatósági jelentéstételre kötelezett vállalkozók és a fenntarthatósági jelentés tartalma
 
-(5) Mentesül az (1) bekezdés szerinti kötelezettség alól az a leányvállalatnak minősülő vállalkozás, amelyre vonatkozóan a (2) bekezdés szerinti információkat a 134. § (5) bekezdéssel összhangban készített összevont (konszolidált) üzleti jelentés nem pénzügyi kimutatása tartalmazza.
+95/E. § (1) Az a vállalkozó,
+
+- a) amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
+  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
+- b) amely olyan, mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
+
+üzleti jelentésének részeként, a fenntarthatósági jelentésében feltünteti a működése fenntarthatósági kérdésekre gyakorolt hatásainak megértéséhez szükséges információkat, valamint az annak megértéséhez szükséges információkat, hogy a fenntarthatósági kérdések hogyan befolyásolják a vállalkozó fejlődését, teljesítményét és helyzetét.
+
+(2) Jogelőd nélkül alapított vállalkozónál az (1) bekezdésben foglaltak alkalmazásakor, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható adatokat és – ha van – a megelőző (első) üzleti évi (éves szintre átszámított) adatait kell figyelembe venni.
+
+(3) A fenntarthatósági jelentést az üzleti jelentésben egyértelműen azonosítható módon, az üzleti jelentés egy külön szakaszában kell szerepeltetni.
+
+(4) A fenntarthatósági jelentésnek az alábbiakat kell tartalmaznia:
+
+- a) a vállalkozó üzleti modelljének és stratégiájának rövid leírása, ideértve különösen:
+  - aa) a vállalkozó üzleti modelljének és stratégiájának a fenntarthatósági kérdésekkel kapcsolatos kockázatok tekintetében fennálló rezilienciáját;
+  - ab) a vállalkozó fenntarthatósági kérdésekhez kapcsolódó lehetőségeit;
+  - ac) a vállalkozó annak biztosítására irányuló terveit, beleértve a végrehajtási intézkedéseket és a kapcsolódó pénzügyi és beruházási terveket, hogy üzleti modellje és stratégiája összeegyeztethető legyen a fenntartható gazdaságra való átállással és a globális felmelegedés 1,5 °C-ra való korlátozásával, összhangban az Egyesült Nemzetek Éghajlat-változási Keretegyezménye keretében 2015. december 12-én elfogadott Párizsi Megállapodással és az (EU) 2021/1119 európai parlamenti és tanácsi rendeletben meghatározott, a klímasemlegesség 2050-ig történő elérésére irányuló célkitűzéssel, valamint adott esetben a vállalkozó szénnel, olajjal és gázzal kapcsolatos tevékenységeknek való kitettségét;
+  - ad) azt, hogy a vállalkozó üzleti modellje és stratégiája hogyan veszi figyelembe a vállalkozó érdekelt feleinek érdekeit és a vállalkozó működésének fenntarthatósági kérdésekre gyakorolt hatásait;
+  - ae) azt, hogy hogyan hajtották végre a vállalkozó stratégiáját a fenntarthatósági kérdések tekintetében;
+- b) a vállalkozó által meghatározott fenntarthatósági kérdésekkel kapcsolatos, határidőhöz kötött célok ismertetése, beleértve adott esetben a legalább 2030-ra és 2050-re vonatkozó abszolút üvegházhatású gázkibocsátás-csökkentési célértékeket, a vállalkozó által e célok elérése felé tett előrehaladás ismertetése, valamint egy nyilatkozatot arról, hogy a vállalkozó környezetvédelmi tényezőkkel kapcsolatos céljai meggyőző tudományos bizonyítékokon alapulnak-e;
+- c) az ügyviteli, ügyvezető szervek és felügyelő testületek fenntarthatósági kérdésekkel kapcsolatos szerepének ismertetése, valamint az említett szerep betöltéséhez szükséges szakértelmük és készségeik vagy az ilyen szakértelemhez és készségekhez való hozzáférésük;
+- d) a vállalkozó fenntarthatósági kérdésekkel kapcsolatos politikáinak ismertetése;
+- e) a fenntarthatósági kérdésekhez kapcsolódó, az ügyviteli, ügyvezető szervek és felügyelő testületek tagjainak kínált ösztönző rendszerek meglétére vonatkozó információk;
+- f) a vállalkozó által a fenntarthatósági kérdések tekintetében és adott esetben az egyéb, vállalkozásokra vonatkozó, az átvilágítási eljárás lefolytatásával kapcsolatos uniós követelményekkel összhangban végrehajtott átvilágítási eljárás;
+- g) a vállalkozó saját műveleteivel és értékláncával – beleértve termékeit és szolgáltatásait, üzleti kapcsolatait és ellátási láncát – összefüggő főbb tényleges vagy lehetséges káros hatások, az ezen hatások azonosítását és nyomon követését célzó intézkedések, valamint más olyan káros hatások, amelyeket a vállalkozó az egyéb, vállalkozásokra vonatkozó, az átvilágítási eljárás lefolytatásával kapcsolatos uniós követelmények alapján köteles azonosítani;
+- h) a tényleges vagy lehetséges káros hatások megelőzése, mérséklése, orvoslása vagy megszüntetése érdekében a vállalkozó által hozott intézkedések és azok eredményei;
+- i) a vállalkozót a fenntarthatósági kérdésekkel kapcsolatban érintő főbb kockázatok leírása, beleértve a vállalkozó említett kérdésektől való főbb függéseinek leírását, és ezen kockázatok vállalkozó általi kezelésének módját; valamint
+- j) az a)–i) pontban említett közzétételek szempontjából lényeges mutatók.
+
+(5) A fenntarthatósági jelentésnek adott esetben tartalmaznia kell a rövid, közép- és hosszú távú időhorizontokra vonatkozó információkat.
+
+(6) A vállalkozónak be kell számolnia a (4) bekezdéssel összhangban az üzleti jelentésben szereplő információk azonosítása érdekében végzett tevékenységéről.
+
+(7) A fenntarthatósági jelentésnek tartalmaznia kell a vállalkozó saját műveleteire és értékláncára vonatkozó információkat, beleértve termékeit és szolgáltatásait, üzleti kapcsolatait és ellátási láncát.
+
+(8) A fenntarthatósági jelentési kötelezettség első három évében, és abban az esetben, ha az értékláncára vonatkozóan nem áll rendelkezésre minden szükséges információ, a vállalkozónak ismertetnie kell az értékláncára vonatkozó szükséges információk megszerzése érdekében tett erőfeszítéseket, annak okait, hogy miért nem lehetett minden szükséges információt beszerezni, valamint az összes szükséges információ jövőbeli beszerzésére vonatkozó terveit.
+
+(9) A fenntarthatósági jelentésben szereplő információknak adott esetben hivatkozásokat kell tartalmazniuk az üzleti jelentésben a 95. §-sal összhangban szereplő egyéb információkra és az éves beszámolóban közölt összegekre, és további magyarázatokkal kell szolgálniuk azokkal kapcsolatban.
+
+(10) A fenntarthatósági jelentésből kihagyhatók azon aktuális fejleményekre vagy tárgyalás alatt álló kérdésekre vonatkozó információk, amelyek közzététele a vállalkozó ügyviteli, ügyvezető szerveinek és felügyelő testületeinek megfelelő indokolást tartalmazó véleménye szerint súlyosan sértené a vállalkozó üzleti érdekét, feltéve, hogy e kihagyás nem befolyásolja a vállalkozó fejlődésének, teljesítményének és helyzetének, valamint tevékenységei hatásának helyes és elfogulatlan megértését.
+
+(11) A vállalkozónak a fenntarthatósági jelentést a fenntarthatósági beszámolási standardoknak megfelelően kell elkészítenie.
+
+(12) A vállalkozó vezetése tájékoztatja a munkavállalók képviselőit, és megvitatja velük a munkavállalókat érintő fenntarthatósági információkat, valamint ezen információk megszerzésének és ellenőrzésének módját. A munkavállalók képviselőinek véleményét közölni kell az érintett ügyviteli, ügyvezető szervvel vagy felügyelő testülettel.
+
+(13) Az (1) bekezdés a) pontjának hatálya alá nem tartozó azon vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, valamint az 575/2013/EU rendelet 4. cikke (1) bekezdésének 145. pontjában meghatározott kis méretű és nem összetett intézmények, a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikk 2. pontjában meghatározott zárt biztosítók és az irányelv 13. cikk 5. pontjában meghatározott zárt viszontbiztosítók a (4)–(11) bekezdés előírásaitól eltérően fenntarthatósági jelentésüket a következő információkra korlátozhatják:
+
+- a) a vállalkozó üzleti modelljének és stratégiájának rövid leírása;
+- b) a vállalkozó fenntarthatósági kérdésekkel kapcsolatos politikáinak ismertetése;
+- c) a vállalkozó működésének főbb tényleges vagy lehetséges káros hatásai a fenntarthatósági kérdések tekintetében, valamint az ezek azonosítása, nyomon követése, megelőzése, mérséklése vagy orvosolása érdekében hozott intézkedések;
+- d) a vállalkozót a fenntarthatósági kérdésekkel kapcsolatban érintő főbb kockázatok, valamint az, hogy a vállalkozó hogyan kezeli ezeket a kockázatokat; valamint
+- e) az a)–d) pontban említett információk közzététele szempontjából szükséges kulcsfontosságú mutatók.
+
+(14) A (13) bekezdésben említett információkról a kis- és középvállalkozásokra vonatkozó fenntarthatósági beszámolási standardoknak megfelelően kell beszámolni.
+
+(15) Az (1)–(11) és a (13) bekezdésben meghatározott követelményeket teljesítő vállalkozót úgy kell tekinteni, hogy teljesítette a 95. § (3) bekezdésében foglalt követelményt.
+
+95/F. § (1) Mentesül a 95/E. § (1)–(11) bekezdése szerinti kötelezettség alól a leányvállalat, ha az anyavállalat a VI/C. Fejezet szerint elkészített összevont (konszolidált) fenntarthatósági jelentésében a leányvállalat és annak leányvállalatai is szerepelnek.
+
+(2) Mentesül a 95/E. § (1)–(11) bekezdése szerinti kötelezettség alól az uniós tagállam jogának hatálya alá tartozó anyavállalat leányvállalata, ha az anyavállalat fenntarthatósági beszámolási standardokkal összhangban elkészített összevont (konszolidált) fenntarthatósági jelentésében a leányvállalat és annak leányvállalatai is szerepelnek.
+
+(3) Mentesül a 95/E. § (1)–(11) bekezdése szerinti kötelezettség alól az uniós tagállam jogának hatálya alá nem tartozó anyavállalat leányvállalata, ha az anyavállalat a fenntarthatósági beszámolási standardokkal összhangban, vagy azokkal egyenértékű – a 2004/109/EK európai parlamenti és tanácsi irányelv 23. cikk (4) bekezdés harmadik albekezdése értelmében elfogadott, a fenntarthatósági beszámolási standardok egyenértékűségéről szóló végrehajtási jogi aktussal összhangban meghatározott – módon elkészített összevont (konszolidált) fenntarthatósági jelentésében a leányvállalat és annak leányvállalatai is szerepelnek.
+
+(4) Az (1)–(3) bekezdés szerinti mentesség akkor alkalmazható, ha a mentesülő leányvállalat üzleti jelentése tartalmazza:
+
+- a) annak az anyavállalatnak a nevét és székhelyét, amely csoportszinten készít fenntarthatósági jelentést a 95/E. §-sal összhangban, vagy a fenntarthatósági beszámolási standardok rendelkezéseivel egyenértékű – a 2004/109/EK európai parlamenti és tanácsi irányelv 23. cikk (4) bekezdés harmadik albekezdése értelmében elfogadott, a fenntarthatósági beszámolási standardok egyenértékűségéről szóló végrehajtási jogi aktussal összhangban meghatározott – módon, és
+- b) az anyavállalat összevont (konszolidált) üzleti jelentésére vagy adott esetben az anyavállalat összevont (konszolidált) fenntarthatósági jelentésére, valamint a 134/L. § (1) bekezdése szerinti bizonyossági véleményre mutató internetes hivatkozásokat, továbbá
+- c) annak tényét, hogy a vállalkozó mentesül a 95/E. § (1)–(11) bekezdése szerinti kötelezettség alól.
+
+(5) A (3) bekezdés szerinti mentesség akkor alkalmazható, ha az uniós tagállam jogának a hatálya alá nem tartozó anyavállalat összevont (konszolidált) fenntarthatósági jelentését, valamint az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó, az említett anyavállalatra vonatkozó nemzeti jog szerint az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyossági vélemény készítésére felhatalmazott egy vagy több személy vagy cég által készített bizonyossági véleményt a 2013/34/EU európai parlamenti és tanácsi irányelv 30. cikkével és e törvénnyel összhangban teszik közzé.
+
+(6) A (3) bekezdés szerinti mentesség további feltétele, hogy az uniós tagállam jogának a hatálya alá nem tartozó anyavállalat az (EU) 2020/852 európai parlamenti és tanácsi rendelet 8. cikkében meghatározott, az Unióban letelepedett, mentesített leányvállalat és leányvállalatai által végzett tevékenységekre vonatkozó közzétételeket belefoglalják a mentesített leányvállalat üzleti jelentésébe vagy az uniós tagállam jogának a hatálya alá nem tartozó anyavállalat által készített összevont (konszolidált) fenntarthatósági jelentésbe.
+
+(7) Az (1)–(3) bekezdés szerinti mentesség alkalmazása esetén a mentesülő leányvállalat anyavállalatának összevont (konszolidált) üzleti jelentését vagy adott esetben összevont (konszolidált) fenntarthatósági jelentését az Unió legalább egy hivatalos nyelvén közzé kell tenni. Nem hitelesített fordítás esetén a közzétételnek tartalmaznia kell egy erre vonatkozó nyilatkozatot is.
+
+(8) Az (1)–(3) bekezdés alkalmazásában, és ha az 575/2013/EU rendelet 10. cikke alkalmazandó, a 2013/34/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdés első albekezdés b) pontjában említett, olyan központi szervhez tartósan kapcsolt hitelintézeteket, amely központi szerv az 575/2013/EU rendelet 10. cikkében foglalt feltételek mellett őket felügyeli, az említett központi szerv leányvállalataként kell kezelni.
+
+(9) Az (1)–(3) bekezdés alkalmazásában a 2013/34/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdés első albekezdés a) pontjában említett, a 2009/138/EK irányelv 212. cikk (1) bekezdés c) pont ii. alpontjában említett pénzügyi kapcsolat alapján egy csoport részét képező és a 2009/138/EK irányelv 213. cikk (2) bekezdés a)–c) pontjával összhangban csoportszintű felügyelet alatt álló biztosítókat az említett csoport anyavállalatának leányvállalataként kell kezelni.
+
+(10) Az (1)–(3) bekezdés szerinti mentesség nem alkalmazható azokra a 95/E. § (1) bekezdés a) pontja hatálya alá tartozó vállalkozókra, amelyek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták.
+
+### Uniós tagállam jogának a hatálya alá nem tartozó vállalkozás fenntarthatósági jelentése
+
+95/G. § (1) Az olyan, 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozó, amely valamely uniós tagállam jogának a hatálya alá nem tartozó legfelső szintű anyavállalat leányvállalata, fenntarthatósági jelentést tesz közzé és hozzáférhetővé, amely tartalmazza a 95/E. § (4) bekezdés a) pont ac)–ae) alpontja, b)–h) pontja és adott esetben j) pontja szerinti információkat az uniós tagállam jogának a hatálya alá nem tartozó legfelső szintű anyavállalat csoportszintjén.
+
+(2) Uniós tagállam jogának hatálya alá nem tartozó vállalkozás olyan fióktelepe, amely vagy nem tagja egy csoportnak, vagy végső soron egy uniós tagállam jogának a hatálya alá nem tartozó ország jogával összhangban létrehozott vállalkozás tulajdonában van, fenntarthatósági jelentést tesz közzé és hozzáférhetővé, amely tartalmazza a 95/E. § (4) bekezdés a) pont ac)–ae) alpontja, b)–h) pontja és adott esetben j) pontja szerinti információkat az uniós tagállam jogának a hatálya alá nem tartozó vállalkozás csoportszintjén, vagy ha ez nem alkalmazható, egyedi szintjén.
+
+(3) A (2) bekezdés szerinti kötelezettség kizárólag akkor alkalmazandó a fióktelepre, ha az uniós tagállam jogának hatálya alá nem tartozó vállalkozás nem rendelkezik az (1) bekezdés szerinti leányvállalattal, és ha a fióktelep éves nettó árbevétele a legutolsó üzleti évben meghaladta a 40 millió eurót.
+
+(4) Az (1) és (2) bekezdésben előírtak csak akkor alkalmazandók az (1) bekezdés szerinti leányvállalatra és a (2) bekezdés szerinti fióktelepre, ha az uniós tagállam jogának hatálya alá nem tartozó vállalkozás éves nettó árbevétele az utolsó két egymást követő üzleti év mindegyikében meghaladta a 150 millió eurót az Európai Unió területén csoportszinten, vagy ha ez nem alkalmazható, egyedi szinten.
+
+(5) Az (1) és (2) bekezdés szerinti fenntarthatósági jelentést a harmadik országbeli vállalkozásokra vonatkozó fenntarthatósági beszámolási standardok szerint kell összeállítani.
+
+(6) Az (1) és (2) bekezdés szerinti fenntarthatósági jelentést az (5) bekezdéstől eltérően a fenntarthatósági beszámolási standardok rendelkezéseivel összhangban, vagy azokkal egyenértékű – a 2004/109/EK európai parlamenti és tanácsi irányelv 23. cikke (4) bekezdésének harmadik albekezdése értelmében elfogadott, a fenntarthatósági beszámolási standardok egyenértékűségéről szóló végrehajtási jogi aktussal összhangban meghatározott – módon is el lehet készíteni.
+
+(7) Amennyiben az (5) bekezdés szerinti fenntarthatósági jelentés elkészítéséhez szükséges információk nem állnak rendelkezésre, az (1) bekezdés szerinti leányvállalatnak és a (2) bekezdés szerinti fióktelepnek kérnie kell az uniós tagállam jogának a hatálya alá nem tartozó vállalkozástól, hogy biztosítsa számára a szükséges információt, amely lehetővé teszi az (1) és (2) bekezdés szerinti kötelezettség teljesítését.
+
+(8) Amennyiben az uniós tagállam jogának a hatálya alá nem tartozó vállalkozás nem biztosítja a valamennyi kért információt, az (1) bekezdés szerinti leányvállalatnak és a (2) bekezdés szerinti fióktelepnek el kell készítenie, közzé- és hozzáférhetővé kell tennie az (1) és (2) bekezdés szerinti fenntarthatósági jelentést, úgy, hogy az tartalmazza valamennyi birtokában lévő, megkapott vagy beszerzett információt és egy nyilatkozatot arról, hogy az uniós tagállam jogának a hatálya alá nem tartozó vállalkozás nem bocsátotta rendelkezésére a szükséges információkat.
+
+(9) Az (1) és (2) bekezdés szerinti fenntarthatósági jelentést – az uniós tagállam jogának a hatálya alá nem tartozó vállalkozás nemzeti joga vagy egy tagállam nemzeti joga alapján – a bizonyossági vélemény készítésére felhatalmazott egy vagy több személy vagy cég által készített bizonyossági véleménnyel együtt kell közzétenni.
+
+(10) Amennyiben az uniós tagállam jogának a hatálya alá nem tartozó vállalkozás nem bocsátja rendelkezésre a (9) bekezdés szerinti bizonyossági véleményt, a leányvállalatnak vagy fióktelepnek nyilatkozatot kell kiadnia arról, hogy az uniós tagállam jogának a hatálya alá nem tartozó vállalkozás nem bocsátotta rendelkezésére a szükséges bizonyossági véleményt.
+
+(11) Az (1) bekezdés szerinti leányvállalat legfőbb irányító (vezető) szervének, ügyvezető szervének és felügyelő testületének tagjai – a jogszabályban meghatározott hatáskörükben eljárva – együttes felelőssége annak biztosítása, hogy a fenntarthatósági jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+(12) A (2) bekezdés szerinti fióktelep felelőssége annak biztosítása, hogy a fenntarthatósági jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+### Bizonyossági vélemény
+
+95/H. § (1) A fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég korlátozott bizonyosságot nyújtó megbízás alapján véleményt ad arról, hogy a fenntarthatósági jelentés teljesíti-e az e fejezet fenntarthatósági jelentésre vonatkozó előírásait, beleértve a fenntarthatósági jelentés fenntarthatósági beszámolási standardoknak való megfelelését, a vállalkozó által az említett fenntarthatósági beszámolási standardoknak megfelelően jelentett információk azonosítására szolgáló folyamatot és a fenntarthatósági jelentés megjelölésére vonatkozó követelmény teljesítését a 95/I. § (1) bekezdésével összhangban, valamint, hogy teljesíti-e az (EU) 2020/852 rendelet 8. cikkében szereplő beszámolási követelményeket.
+
+(2) Az (1) bekezdés szerinti bizonyossági vélemény nyújtásával az éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatával megbízott kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől eltérő kamarai tag könyvvizsgáló, könyvvizsgáló cég is megbízható.
+
+(3) Ha az éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását egyazon kamarai tag könyvvizsgáló, könyvvizsgáló cég végzi, a kamarai tag könyvvizsgáló, könyvvizsgáló cég fenntarthatósági jelentéssel kapcsolatos véleménye belefoglalható az éves beszámolóhoz kapcsolódó független könyvvizsgálói jelentésébe.
+
+### Nyilvánosságra hozatal, közzététel és hozzáférhetőség
+
+95/I. § (1) A 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozónak az (EU) 2019/815 felhatalmazáson alapuló bizottsági rendelet 3. cikkében meghatározott elektronikus beszámolási formátumban kell elkészítenie az üzleti jelentését és az elektronikus beszámolási formátumnak megfelelően meg kell jelölnie a fenntarthatósági jelentését, beleértve az (EU) 2020/852 rendelet 8. cikkében előírt közzétételeket is.
+
+(2) A vállalkozó az (1) bekezdés szerinti fenntarthatósági jelentést tartalmazó üzleti jelentést a könyvvizsgáló bizonyossági véleményével (a bizonyossági jelentéssel) együtt, az (1) bekezdés szerinti elektronikus beszámolási formátumban, az éves beszámolóval egyidejűleg a 153–154/B. § szerint köteles letétbe helyezni és közzétenni.
+
+(3) A vállalkozó a fenntarthatósági jelentést tartalmazó üzleti jelentését internetes honlapján is köteles közzétenni. Amennyiben a vállalkozó nem rendelkezik internetes honlappal, kérésre köteles ingyenesen az üzleti jelentés nyomtatott vagy elektronikus példányát rendelkezésre bocsátani.
+
+(4) A 95/G. § (1) és (2) bekezdése szerinti fenntarthatósági jelentést a könyvvizsgáló bizonyossági véleményével (a bizonyossági jelentéssel) és adott esetben a 95/G. § (8) és (10) bekezdése szerinti nyilatkozatokkal együtt, a 153–154/B. § szerint kell letétbe helyezni és közzétenni, legkésőbb azon üzleti év mérlegfordulónapját követő 12 hónapon belül, amelyre vonatkozóan a fenntarthatósági jelentést elkészítették.
 
 ### IV. Fejezet — EGYSZERŰSÍTETT ÉVES BESZÁMOLÓ
 
@@ -2568,13 +2704,15 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (3) Az IFRS-ek szerinti éves beszámolót készítő pénzügyi vállalkozás és biztosító a devizaeszközeit és a devizakötelezettségeit a Magyar Nemzeti Bank által közzétett, a negyedév utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden negyedév utolsó napján és a mérlegfordulónapi értékelés során.
 
-114/I. § (1) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító gazdálkodó, beszámolójának kiegészítő megjegyzését az egyes IFRS-ekben meghatározott rendelkezések alapján állítja össze azzal, hogy abban – tekintettel a 9/A. § (4) bekezdésére – legalább a 88. § (7)–(9) bekezdése, a 89. § (2)–(3) bekezdése, a 89. § (4) bekezdés d) pontja, a 89. § (5) bekezdése, valamint a 154. § (3) bekezdése szerinti adatokat is be kell mutatnia.
+114/I. § (1) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító gazdálkodó, beszámolójának kiegészítő megjegyzését az egyes IFRS-ekben meghatározott rendelkezések alapján állítja össze azzal, hogy abban – tekintettel a 9/A. § (4) bekezdésére – legalább a 88. § (7)–(9) bekezdése, a 89. § (2)–(3) bekezdése, a 89. § (4) bekezdés d) pontja, a 89. § (5) bekezdése, a 94/B. §-a, valamint a 154. § (3) bekezdése szerinti adatokat is be kell mutatnia.
 
 (2) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító gazdálkodó a 95–95/C. §-ban, valamint a 134. §-ban meghatározott tartalommal üzleti jelentést is köteles készíteni.
 
 (3) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító vállalkozónak a VI/A. fejezet kormányok részére fizetett összegekről szóló jelentésre vonatkozó előírásait is alkalmaznia kell.
 
 (4) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító vállalkozónak a VI/B. fejezet társaságiadó-információkat tartalmazó jelentésre vonatkozó előírásait is alkalmaznia kell.
+
+(5) Az éves beszámolóját, továbbá az összevont (konszolidált) éves beszámolóját az IFRS-ek szerint összeállító vállalkozónak a III/A. Fejezet és a VI/C. Fejezet fenntarthatósági jelentésre vonatkozó előírásait is alkalmaznia kell.
 
 ### VI. Fejezet — ÖSSZEVONT (KONSZOLIDÁLT) ÉVES BESZÁMOLÓ
 
@@ -2594,12 +2732,12 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (5) A leányvállalati viszony létrejöttét az anyavállalat állapítja meg és egyidejűleg köteles ezt a minősítést a leányvállalattal közölni.
 
-116. § (1) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak az anyavállalatnak (a továbbiakban: mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), ha a fölérendelt anyavállalat az Európai Gazdasági Térség valamely államában rendelkezik székhellyel, e törvény vagy az Európai Parlament és a Tanács 2013. június 26-i 2013/34/EU irányelve, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendelete szerint készít és hoz nyilvánosságra összevont (konszolidált) éves beszámolót, valamint összevont (konszolidált) üzleti jelentést, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem vonatkozik a mentesíthető anyavállalatra a 119. §, és ha
+116. § (1) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak az anyavállalatnak (a továbbiakban: mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), ha a fölérendelt anyavállalat az Európai Gazdasági Térség valamely államában rendelkezik székhellyel, e törvény vagy az Európai Parlament és a Tanács 2013. június 26-i 2013/34/EU irányelve – az irányelv 29a. cikkében meghatározott követelmények kivételével –, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendelete szerint készít és hoz nyilvánosságra összevont (konszolidált) éves beszámolót, valamint összevont (konszolidált) üzleti jelentést, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem vonatkozik a mentesíthető anyavállalatra a 119. §, és ha
 
 - a) a fölérendelt anyavállalat 100%-os tulajdoni hányaddal rendelkezik a mentesíthető anyavállalatban (ide nem értve a mentesíthető anyavállalat vezető tisztségviselői, vagy felügyelőbizottsága tagjai által jogszabály, vagy létesítő okirat szerint megszerzett tulajdoni hányadot), vagy legalább 90%-os tulajdoni hányaddal rendelkezik és a kisebbségi tulajdonosok elfogadták a mentesítést, vagy
 - b) az a) ponton kívüli esetekben, a kisebbségi tulajdonosok vagy azok egy része – akiknek részvénytársaságnál, illetve európai részvénytársaságnál összesen legalább 10%-os (egyéb vállalkozónál legalább 20%-os) mentesíthető anyavállalati részesedés van a birtokukban – legalább hat hónappal az összevont (konszolidált) éves beszámoló készítésének mérlegfordulónapja előtt nem kérték a mentesíthető anyavállalattól az összevont (konszolidált) éves beszámoló összeállítását.
 
-(2) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak a mentesíthető anyavállalatnak, amely maga is leányvállalata egy fölérendelt anyavállalatnak, ha a fölérendelt anyavállalat e törvénnyel vagy az Európai Parlament és a Tanács 2013. június 26-i 2013/34/EU irányelvével, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendeletével összhangban vagy azokkal egyenértékű módon, illetve azoknak megfelelően készíti el és hozza nyilvánosságra összevont (konszolidált) éves beszámolóját, valamint összevont (konszolidált) üzleti jelentését, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem alkalmazzák a mentesíthető anyavállalatra a 119. § előírásait, és ha teljesülnek az (1) bekezdés a) és b) pontjában foglaltak.
+(2) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak a mentesíthető anyavállalatnak, amely maga is leányvállalata egy fölérendelt anyavállalatnak, ha a fölérendelt anyavállalat e törvénnyel vagy az Európai Parlament és a Tanács 2013. június 26-i 2013/34/EU irányelvével – az irányelv 29a. cikkében meghatározott követelmények kivételével –, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendeletével összhangban vagy azokkal egyenértékű módon, illetve azoknak megfelelően készíti el és hozza nyilvánosságra összevont (konszolidált) éves beszámolóját, valamint összevont (konszolidált) üzleti jelentését, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem alkalmazzák a mentesíthető anyavállalatra a 119. § előírásait, és ha teljesülnek az (1) bekezdés a) és b) pontjában foglaltak.
 
 (3) Az (1)–(2) bekezdés alkalmazása esetén a mentesíthető anyavállalat éves beszámolója kiegészítő mellékletének a következőket is kell tartalmaznia:
 
@@ -2898,17 +3036,9 @@ kimutatása
 
 (4) Az összevont (konszolidált) üzleti jelentést magyar nyelven kell elkészíteni és azt a hely és a kelet feltüntetésével az anyavállalat képviseletére jogosult személy köteles aláírni.
 
-(5) Az az összevont (konszolidált) éves beszámolót készítő, közérdeklődésre számot tartó gazdálkodónak minősülő anyavállalat, amelynél
+(5)
 
-- a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
-  - aa) a mérlegfőösszeg a 6 000 millió forintot,
-  - ab) az éves nettó árbevétel a 12 000 millió forintot,
-  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, és
-- b) az adott üzleti évben átlagosan foglalkoztatottak száma meghaladja az 500 főt,
-
-összevont (konszolidált) üzleti jelentésében a konszolidálásba bevont vállalkozásokra vonatkozóan a 95/C. § szerinti nem pénzügyi kimutatást tesz közzé.
-
-(6) Az (5) bekezdés szerinti mutatóértékeket a 117. § (2) bekezdés szerint kell meghatározni.
+(6)
 
 ### VI/A. Fejezet — A KORMÁNYOK RÉSZÉRE FIZETETT ÖSSZEGEKRŐL SZÓLÓ JELENTÉS
 
@@ -3103,6 +3233,8 @@ kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre
 - b) a leányvállalat internetes honlapján, amennyiben a 134/E. § (7) bekezdése alkalmazandó;
 - c) a fióktelep internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
 
+(3a) A (3) bekezdés szerinti közzététel során a közzétett adatok folyamatos megtekinthetőségét legalább 5 egymást követő évig kell biztosítani.
+
 (4) A vállalkozó az üzleti évről készített társaságiadó-információkat tartalmazó jelentést, valamint adott esetben a 134/E. § (8) és (12) bekezdés szerinti nyilatkozatot legalább 8 évig köteles megőrizni.
 
 ### A társaságiadó-információkat tartalmazó jelentés elkészítésére, közzé- és hozzáférhetővé tételére vonatkozó felelősség
@@ -3112,6 +3244,54 @@ kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre
 (2) A 134/E. § (7) bekezdés szerinti leányvállalat legfőbb irányító (vezető) szervének, ügyvezető szervének és felügyelő testületének tagjai – a jogszabályban meghatározott hatáskörükben eljárva – együttes felelőssége annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
 
 (3) A 134/E. § (10) bekezdés szerinti fióktelep a társasági jog egyes vonatkozásairól szóló 2017. június 14-i 2017/1132/EU európai parlamenti és tanácsi irányelv 41. cikkében előírt adatközlési formai követelmények teljesítésére kijelölt személy vagy személyek együttes felelőssége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+### VI/C. Fejezet — AZ ÖSSZEVONT (KONSZOLIDÁLT) FENNTARTHATÓSÁGI JELENTÉS
+
+134/I. § (1) Az az összevont (konszolidált) éves beszámolót készítő anyavállalat, amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
+
+- a) a mérlegfőösszeg a 10 000 millió forintot,
+- b) az éves nettó árbevétel a 20 000 millió forintot,
+- c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
+
+összevont (konszolidált) üzleti jelentésében a konszolidálásba bevont vállalkozásokra vonatkozóan összevont (konszolidált) fenntarthatósági jelentést készít és tesz közzé.
+
+(2) Az (1) bekezdés szerinti mutatóértékeket a 117. § (2) és (3) bekezdése szerint kell meghatározni.
+
+(3) Az összevont (konszolidált) fenntarthatósági jelentésre a fenntarthatósági jelentésre vonatkozó, a 95/D. §-ban, a 95/E. § (1)–(12) és (15) bekezdésében foglaltakat a konszolidálásba bevont vállalkozásokra együttesen, a vállalatcsoport egészére vonatkozóan kell alkalmazni.
+
+(4) Az összevont (konszolidált) fenntarthatósági jelentésben külön be kell mutatni, hogy a konszolidálásba bevont leányvállalatok közül melyek mentesülnek a 95/F. § alapján a fenntarthatósági jelentési kötelezettség alól.
+
+(5) Az összevont (konszolidált) fenntarthatósági jelentés összeállítása során a 95/E. § (13) bekezdése szerinti lehetőség nem alkalmazható.
+
+(6) Amennyiben az összevont (konszolidált) fenntarthatósági jelentést készítő anyavállalat jelentős különbségeket állapít meg a csoport kockázatai vagy hatásai, valamint egy vagy több leányvállalatának kockázatai vagy hatásai között, az összevont (konszolidált) fenntarthatósági jelentésben pontos magyarázatot kell adnia az érintett leányvállalat vagy leányvállalatok kockázatairól és hatásairól.
+
+(7) Mentesül az (1) bekezdés szerinti kötelezettség alól a leányvállalatnak minősülő anyavállalat (mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), a 95/F. §-ban foglalt előírások megfelelő alkalmazásával, amennyiben a fölérendelt anyavállalat e fejezettel, a fenntarthatósági beszámolási standardokkal összhangban, vagy azokkal egyenértékű – a 2004/109/EK európai parlamenti és tanácsi irányelv 23. cikk (4) bekezdés harmadik albekezdése értelmében elfogadott, a fenntarthatósági beszámolási standardok egyenértékűségéről szóló végrehajtási jogi aktussal összhangban meghatározott – módon elkészített összevont (konszolidált) fenntarthatósági jelentésében a mentesíthető anyavállalat és annak leányvállalatai is szerepelnek.
+
+(8) A (7) bekezdés szerinti mentesség nem alkalmazható azokra az (1) bekezdés hatálya alá tartozó anyavállalatokra, amelyek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták.
+
+134/J. § (1) A 134/I. § (1) bekezdésének hatálya alá tartozó anyavállalatnak az (EU) 2019/815 felhatalmazáson alapuló bizottsági rendelet 3. cikkében meghatározott elektronikus beszámolási formátumban kell elkészítenie az összevont (konszolidált) üzleti jelentését és az elektronikus beszámolási formátumnak megfelelően meg kell jelölnie az összevont (konszolidált) fenntarthatósági jelentését, beleértve az (EU) 2020/852 rendelet 8. cikkében előírt közzétételeket is.
+
+(2) A 134/I. § (1) bekezdésének hatálya alá tartozó anyavállalat az összevont (konszolidált) fenntarthatósági jelentést tartalmazó összevont (konszolidált) üzleti jelentését, az (1) bekezdés szerinti elektronikus beszámolási formátumban, a könyvvizsgáló bizonyossági véleményével (a bizonyossági jelentéssel) együtt, az összevont (konszolidált) éves beszámolóval egyidejűleg a 153–154/B. § szerint köteles letétbe helyezni és közzétenni.
+
+(3) A 134/I. § (1) bekezdésének hatálya alá tartozó anyavállalat az összevont (konszolidált) fenntarthatósági jelentést tartalmazó összevont (konszolidált) üzleti jelentését a vállalkozó internetes honlapján is köteles közzétenni. Amennyiben nem rendelkezik internetes honlappal, kérésre köteles ingyenesen az összevont (konszolidált) üzleti jelentés nyomtatott vagy elektronikus példányát rendelkezésre bocsátani.
+
+134/K. § (1) Az olyan, a 95/E. § (1) bekezdésének vagy a 134/I. § (1) bekezdésének a hatálya alá tartozó vállalkozó, amely valamely uniós tagállam jogának a hatálya alá nem tartozó anyavállalat leányvállalata, a 134/I. § (3) bekezdésében foglalt követelményekkel összhangban olyan összevont (konszolidált) fenntarthatósági jelentést készíthet, tehet közzé és hozzáférhetővé, amely magában foglalja az anyavállalat összes, a 95/E. § (1) bekezdésének vagy a 134/I. § (1) bekezdésének hatálya alá tartozó uniós leányvállalatát.
+
+(2) Az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentés magába foglalhatja az (EU) 2020/852 rendelet 8. cikkében meghatározott közzétételeket, amelyek kiterjednek az (1) bekezdés szerinti anyavállalat összes, a 95/E. § (1) bekezdésének vagy a 134/I. § (1) bekezdésének hatálya alá tartozó uniós leányvállalata által végzett tevékenységekre.
+
+(3) Az (1) bekezdés szerinti uniós leányvállalat a csoport azon uniós leányvállalatainak egyike, amelyek a legutolsó öt üzleti év legalább egyikében – adott esetben összevont alapon – a legnagyobb forgalmat bonyolították az Unióban.
+
+(4) Az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést a 134/J. §-sal összhangban kell közzétenni.
+
+(5) A 95/F. § (1)–(3) bekezdése és a 134/I. § (7) bekezdése szerinti mentesség alkalmazásában az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést az anyavállalat csoportszintű jelentésének kell tekinteni a konszolidációba bevont vállalkozások tekintetében. A (2) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentés összeállításával teljesül a 95/F. § (6) bekezdése szerinti feltétel.
+
+134/L. § (1) A fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég korlátozott bizonyosságot nyújtó megbízás alapján, véleményt ad arról, hogy az összevont (konszolidált) fenntarthatósági jelentés teljesíti-e az e fejezet összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait, beleértve a fenntarthatósági jelentés fenntarthatósági beszámolási standardoknak való megfelelését, a vállalkozó által az említett fenntarthatósági beszámolási standardoknak megfelelően jelentett információk azonosítására szolgáló folyamatot és a fenntarthatósági jelentés megjelölésére vonatkozó követelmény teljesítését a 134/J. § (1) bekezdésével összhangban, valamint, hogy teljesíti-e az (EU) 2020/852 rendelet 8. cikkében szereplő beszámolási követelményeket.
+
+(2) Az összevont (konszolidált) fenntarthatósági jelentés könyvvizsgálója viseli a felelősséget az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyossági jelentésért.
+
+(3) Az (1) bekezdés szerinti vélemény nyújtásával az összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatával megbízott kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől eltérő, független könyvvizsgáló is megbízható.
+
+(4) Ha az összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát és az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását egyazon kamarai tag könyvvizsgáló, könyvvizsgáló cég végzi, a kamarai tag könyvvizsgáló, könyvvizsgáló cég összevont (konszolidált) fenntarthatósági jelentéssel kapcsolatos véleménye (jelentése) belefoglalható az összevont (konszolidált) éves beszámolóhoz kapcsolódó független könyvvizsgálói jelentésbe.
 
 ### VII. Fejezet — SAJÁTOS BESZÁMOLÁSI KÖTELEZETTSÉGEK
 
@@ -3173,7 +3353,7 @@ tartalmazza.
 
 (3) Átértékelés esetében az eszközöket piaci értékükön, a kötelezettségeket az elfogadott, illetve a várható összegben kell a vagyonmérlegben szerepeltetni.
 
-(4)
+(4) Leválás során – ha törvény eltérően nem rendelkezik – a kiválásra vonatkozó előírásokat kell megfelelően alkalmazni.
 
 (5)
 
@@ -3260,7 +3440,9 @@ tartalmazza.
 
 (9) Gazdasági társaság beolvadása esetén az átvevő (beolvasztó) gazdasági társaságnál a beolvadás során az átvett eszközök és az átvállalt kötelezettségek (ideértve az időbeli elhatárolások, céltartalékok összegeit is) állományba vett – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – értékének különbözetével a saját tőkét kell a létesítő okiratnak megfelelően módosítani. A saját tőke módosítása során – az előbbieken túlmenően – a 139. § (4) bekezdése szerinti, a jegyzett tőke meghatározásánál figyelembe nem vehető részesedések 139. § (4a)–(4b) bekezdés szerinti üzleti vagy cégértékkel csökkentett értékét, valamint a 139. § (5) bekezdése szerinti, az egymással szemben fennálló követelések és kötelezettségek, céltartalékok, időbeli elhatárolások értékeinek különbözetét a saját tőkével szemben kell kivezetni.
 
-#### 142. §
+### Határokon átnyúló átalakulás
+
+142. § Határokon átnyúló átalakulás során a 136–141. § rendelkezéseit a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló törvény előírásait is figyelembe véve kell alkalmazni.
 
 #### 143. §
 
@@ -3368,11 +3550,11 @@ a különbözettel.
 - a) olyan természetes személyt köteles megbízni, illetve ezen feladatok végzésére alkalmazni, aki okleveles könyvvizsgálói szakképesítéssel vagy mérlegképes könyvelői szakképesítéssel és a tevékenység ellátására jogosító engedéllyel rendelkezik, vagy aki a 152/B. § szerinti bejelentést tett, vagy
 - b) olyan számviteli szolgáltatást nyújtó társaságot köteles megbízni, amelynek a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja megfelel az a) pontban meghatározott követelményeknek.
 
-(2) Az (1) bekezdésben előírt kötelezettség alól mentesül az a vállalkozó, amelynél az éves (éves szintre átszámított) nettó árbevétel az üzleti évet megelőző két üzleti év átlagában – ennek hiányában a tárgyévben várhatóan – a 10 millió forintot nem haladja meg.
+(2) Az (1) bekezdésben előírt kötelezettség alól mentesül az a vállalkozó, amelynél az éves (éves szintre átszámított) nettó árbevétel az üzleti évet megelőző két üzleti év átlagában – ennek hiányában a tárgyévben várhatóan – a 20 millió forintot nem haladja meg.
 
 (3) A könyvviteli szolgáltatás végzésére jogosító engedéllyel rendelkezőkről nyilvántartást kell vezetni. A könyvviteli szolgáltatás végzésére jogosult, mérlegképes könyvelői szakképesítéssel rendelkezők, továbbá az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok nyilvántartását a könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezet (a továbbiakban: nyilvántartásba vételt végző szervezet), az aktív és a tagságát szüneteltető kamarai tag könyvvizsgálók nyilvántartását a Magyar Könyvvizsgálói Kamara vezeti. A könyvviteli szolgáltatás végzésére jogosító engedély megadásával egyidejűleg a nyilvántartásba vételt végző szervezet hivatalból hatósági igazolványt állít ki. A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a könyvviteli szolgáltatás végzésére jogosult természetes személy rendelkezik a tevékenység végzéséhez jogszabályban előírt ismeretekkel és szakmai gyakorlattal. A nyilvántartásban szereplő természetes személyek nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
-(4) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének, a nyilvántartásba vételt végző szervezet kijelölésének, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásának a részletes szabályait a Kormány rendeletben állapítja meg, azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
+(4) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének, a nyilvántartásba vételt végző szervezet kijelölésének, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a továbbképzési programok kreditpont-minősítési eljárásának a részletes szabályait a Kormány rendeletben állapítja meg, azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
 
 (5) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok,
 
@@ -3384,7 +3566,7 @@ a különbözettel.
   - ae) az engedélyezéshez előírt számviteli, pénzügyi vagy ellenőrzési gyakorlata megszerzésének helyét, időtartamát, valamint annak a munkakörnek vagy tevékenységnek a megnevezését, amelyben a szakmai gyakorlatot megszerezte, és
   - af) regisztrálási szakterületét;
 - b) részére az a) pont szerinti kérelem alapján a könyvviteli szolgáltatás végzésére jogosító engedélyt meg kell adni, és egyidejűleg őket a (3) bekezdés szerinti nyilvántartásba fel kell venni, ha
-  - ba) mérlegképes könyvelői vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
+  - ba) mérlegképes könyvelői szakképesítéssel, illetve hatósági képesítéssel vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
   - bb) a ba) alpont szerinti szakképesítés megszerzését követően, az a) pont szerinti kérelem benyújtását megelőzően legalább 3 éves, dokumentumokkal alátámasztott számviteli, pénzügyi, vagy ellenőrzési gyakorlattal rendelkeznek,
   - bc) büntetlen előéletűek, és nem állnak a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, valamint
   - bd) igazolják, hogy az a) pont szerinti kérelem benyújtását megelőző 12 hónapban – a kérelemben megjelölt szakterületre előírt – a 152. § (1) bekezdés szerinti továbbképzési kötelezettséget megfelelően teljesítették.
@@ -3441,7 +3623,7 @@ a különbözettel.
 
 (11) A nyilvántartásba vételt végző szervezet a tárgyévben nyilvántartásba vett és nyilvántartásból törölt természetes személyek (10) bekezdés szerinti nyilvános adatait, valamint a nyilvántartásba vettek ezen adataiban bekövetkezett változásokat az egységes Kormányzati Portálon évente közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett természetes személy előbbi adatait nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kapjon.
 
-(12) A mérlegképes könyvelői szakmai képzés programkövetelményét a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) állapítja meg.
+(12) A mérlegképes könyvelői szakmai képzés programkövetelményét, és a mérlegképes könyvelői hatósági képesítés szakmai és vizsgakövetelményét a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) állapítja meg.
 
 (13) A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 10 évig köteles megőrizni.
 
@@ -3512,6 +3694,65 @@ kezeli.
 (3) Az (1) bekezdés szerinti bejelentésre és a bejelentést tevők nyilvántartásba vételére megfelelően alkalmazni kell a 151. § (5) bekezdés a) pont aa)–ad) és af) alpontjában, b) pont bc) alpontjában, (6) bekezdés b)–i) pontjában, (7) bekezdés b)–f) pontjában, (8) bekezdés a)–c), e), f) és h) pontjában, (9)–(11) és (13) bekezdésében, valamint a 152/A. §-ban foglalt rendelkezéseket.
 
 (4) A határon átnyúló szolgáltatásnyújtás tekintetében az átmeneti és alkalmi jelleget a szolgáltatás időtartamára, gyakoriságára, rendszerességére és folytonosságára tekintettel a nyilvántartásba vételt végző szervezet esetenként állapítja meg.
+
+152/C. § (1) A 151. § (12) bekezdése szerinti hatósági képesítés megszerzésére irányuló hatósági képzési és hatósági vizsgáztatási tevékenységet a nyilvántartásba vételt végző szervezet által akkreditált képző, illetve vizsgaközpont végezheti. Az akkreditációs eljárásért igazgatási szolgáltatási díjat kell fizetni.
+
+(2) A 151. § (12) bekezdése szerinti hatósági képesítés szakmai és vizsgakövetelményeit, továbbá a hatósági képzés és vizsgáztatás részletes szabályait kormányrendelet tartalmazza.
+
+(3) Az (1) bekezdés szerinti akkreditált képzőt, illetve vizsgaközpontot a nyilvántartásba vételt végző szervezet nyilvántartásba veszi. Az akkreditált képzők, illetve vizsgaközpontok nyilvántartása tartalmazza a szervezet
+
+- a) nevét, adószámát,
+- b) cégnyilvántartási vagy bírósági nyilvántartási számát és felnőttképzési engedélyszámát,
+- c) képviselőjének nevét,
+- d) székhelyét, levelezési címét,
+- e) telefonszámát, elektronikus elérhetőségét,
+- f) nyilvántartásba vételi sorszámát (akkreditációs sorszámát),
+- g) nyilvántartásba vételének (akkreditációjának) időpontját,
+- h) akkreditált tevékenységét (hatósági képző, illetve hatósági vizsgaközpont),
+- i) tevékenységével összefüggésben a nyilvántartásba vételt végző szervezet által lefolytatott ellenőrzések eredményét, valamint
+- j) nyilvántartásból való törlésének (akkreditáció visszavonásának) időpontját és indokát.
+
+(4) A nyilvántartásba vételt végző szervezet az akkreditált képzők, illetve vizsgaközpontok nyilvántartásában szereplő adatokat a képzésen és a vizsgákon résztvevők ellenőrzése, valamint egyéb hatósági és bírósági eljárásban történő felhasználás céljából az akkreditált képző, illetve vizsgaközpont nyilvántartásból való törlését követően 6 évig megőrzi.
+
+(5) A megvalósított hatósági képzésekről és a képzéseken résztvevőkről az (1) bekezdés szerinti akkreditált képző köteles nyilvántartást vezetni és a képzési tevékenységével összefüggő dokumentumokat 6 évig megőrizni. A nyilvántartás tartalmazza
+
+- a) a képzés megnevezését, a képzés megkezdésének időpontját, valamint
+- b) a résztvevők adatait:
+  - ba) családi és utónevét,
+  - bb) születési családi és utónevét,
+  - bc) születési helyét, idejét,
+  - bd) anyja születési családi és utónevét,
+  - be) lakcímét (irányítószám, helység, utca, házszám),
+  - bf) a hatósági képzés megkezdéséhez és a képzés alóli felmentések megállapításához benyújtott dokumentumok egyszerű másolatát, továbbá
+  - bg) a hatósági képzés teljesítéséről szóló igazolás sorszámát és a kiállítás dátumát.
+
+(6) A megvalósított hatósági vizsgákról és a vizsgákon résztvevőkről az (1) bekezdés szerinti hatósági vizsgaközpontként akkreditált szervezet köteles nyilvántartást vezetni és a vizsgáztatás dokumentumait (jegyzőkönyveket, határozatokat, nyilvántartásokat) 6 évig megőrizni. A nyilvántartás tartalmazza
+
+- a) a vizsgával megszerezhető hatósági képesítés megnevezését,
+- b) a hatósági vizsga pontos helyszínét, időpontját,
+- c) a vizsgabizottság tagjainak családi és utónevét, azok vizsgabizottságban betöltött szerepét, valamint
+- d) a résztvevők adatait:
+  - da) családi és utónevét,
+  - db) születési családi és utónevét,
+  - dc) születési helyét, idejét,
+  - dd) a vizsga eredményét %-os formában, továbbá
+  - de) a képesítés megszerzését igazoló hatósági tanúsítvány vagy a sikeres vizsgarészek teljesítéséről szóló igazolás sorszámát és kiállításának dátumát.
+
+(7) A megvalósított hatósági vizsgákon hatósági képesítést szerzett résztvevőkről az (1) bekezdés szerinti hatósági vizsgaközpontként akkreditált szervezet a (6) bekezdés szerinti adatokat megküldi a nyilvántartásba vételt végző szervezetnek a (2) bekezdés szerinti kormányrendeletben meghatározott módon.
+
+(8) A hatósági vizsgán foglalkoztatható vizsgaelnökök és szakmai szervezetet képviselő vizsgabiztosok nyilvántartását a nyilvántartásba vételt végző szervezet vezeti.
+
+(9) A vizsgaelnökök és vizsgabiztosok nyilvántartása a következő adatokat tartalmazza:
+
+- a) természetes személyazonosító adatok,
+- b) lakcím, levelezési cím,
+- c) telefonszám, elektronikus elérhetőség,
+- d) a felsőfokú képzettséget igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
+- e) mérlegképes könyvelői vagy okleveles könyvvizsgálói képesítést igazoló oklevél, bizonyítvány száma, a kiállító intézmény neve, a kiállítás kelte,
+- f) szakmai gyakorlat jellege, helye és időtartama, valamint
+- g) szakmai szervezeti tagságot igazoló szervezet megnevezése.
+
+(10) A nyilvántartásból törölt vizsgaelnökök és vizsgabiztosok adatait a nyilvántartásba vételt végző szervezet a törlést követő 10 évig köteles megőrizni.
 
 ### IX. Fejezet — NYILVÁNOSSÁGRA HOZATAL ÉS KÖZZÉTÉTEL
 
@@ -3650,13 +3891,13 @@ kezeli.
 - e) a könyvvizsgáló éves beszámolóhoz, egyszerűsített éves beszámolóhoz, összevont (konszolidált) éves beszámolóhoz adott, a könyvvizsgálói záradékban vagy a záradék megadásának elutasításában kifejezett véleményét, határozott álláspontját arról, hogy a vállalkozó beszámolója megbízható és valós képet ad-e a vállalkozó vagyoni, pénzügyi és jövedelmi helyzetéről az alkalmazott beszámolási szabályrendszerben foglaltaknak megfelelően, továbbá hogy adott esetben, a vállalkozó beszámolója megfelel-e az egyéb jogszabályoknak;
 - f) a (hitelesítő, korlátozott, elutasító) könyvvizsgálói záradékot vagy a záradék megadásának elutasítását;
 - g) hivatkozást bármely olyan kérdésre, amelyre a könyvvizsgáló hangsúlyosan fel kívánja hívni a figyelmet anélkül, hogy az a könyvvizsgáló véleményét minősítette volna (figyelemfelhívó megjegyzés);
-- h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangban van-e a beszámolóval, illetve az e törvény, illetve egyéb más jogszabály vonatkozó előírásaival;
+- h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangban van-e a beszámolóval, illetve az e törvény, illetve egyéb más jogszabály vonatkozó előírásaival (ide nem értve a III/A. Fejezet és a VI/C. Fejezet fenntarthatósági jelentésre vonatkozó előírásait);
 - i) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy tudomására jutott-e bármilyen lényeges hibás állítás az üzleti jelentésben és az összevont (konszolidált) üzleti jelentésben, és ha igen, akkor a szóban forgó hibás állítás milyen jellegű;
 - j) a könyvvizsgáló véleményét a 95/B. § (2) bekezdés e) és f) pontja alapján összeállított információkról, valamint a könyvvizsgáló nyilatkozatát arról, hogy rendelkezésre bocsátották-e a 95/B. § (2) bekezdés a)–d), g) és h) pontjában említett információkat;
 - k) a könyvvizsgálói jelentés keltezését;
 - l) a könyvvizsgálatért személyében felelős könyvvizsgáló nevét, aláírását, kamarai bejegyzési (nyilvántartási) számát;
 - m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társaság képviseletére jogosult személy nevét, aláírását, a társaság megnevezését, székhelyét, kamarai nyilvántartási számát is;
-- n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a 95/C. §, illetve a 134. § (5) bekezdés szerinti nem pénzügyi kimutatást.
+- n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a III/A. Fejezet, illetve a VI/C. Fejezet szerinti fenntarthatósági jelentést;
 - o) a könyvvizsgáló véleményét arról, hogy azon vállalkozó pénzügyi kimutatásai, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, megfelelnek a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletében foglalt előírásoknak.
 - p) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy a könyvvizsgálat tárgyát képező beszámoló üzleti évében, a megelőző üzleti évre vonatkozóan a vállalkozás köteles volt-e társaságiadó-információkat tartalmazó jelentést készíteni és nyilvánosságra hozni, és ha igen, akkor a társaságiadó-információkat tartalmazó jelentést a 134/G. §-sal összhangban tették-e közzé és hozzáférhetővé.
 
@@ -3689,6 +3930,24 @@ kezeli.
 (7) Amennyiben a közgyűlés, a taggyűlés az eléterjesztett éves beszámoló, egyszerűsített éves beszámoló, összevont (konszolidált) éves beszámoló adatait megváltoztatja, vagy olyan információ jutott a könyvvizsgáló tudomására, amely mellett a közgyűlést, a taggyűlést megelőzően adott könyvvizsgálói záradék már nem tükrözi a valós helyzetet, a könyvvizsgálónak a letétbe helyezésre, a közzétételre kerülő éves beszámolóhoz, egyszerűsített éves beszámolóhoz, összevont (konszolidált) éves beszámolóhoz a valóságnak megfelelő könyvvizsgálói záradékot is tartalmazó független könyvvizsgálói jelentést kell – még a letétbe helyezést, a közzétételt megelőzően – készítenie.
 
 (8) A könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság az éves beszámolóra, az egyszerűsített éves beszámolóra, az összevont (konszolidált) éves beszámolóra vonatkozó független könyvvizsgálói jelentés visszavonására kötelezheti a könyvvizsgálói jelentés kibocsátóját, ha az a független könyvvizsgálói jelentés kibocsátására nem volt jogosult, illetve ha a független könyvvizsgálói jelentést nem jogszerűen bocsátotta ki.
+
+### X/A. Fejezet — FENNTARTHATÓSÁGI JELENTÉSRE VONATKOZÓ, KÖNYVVIZSGÁLÓ ÁLTAL ADOTT BIZONYOSSÁGI JELENTÉS
+
+158/A. § (1) A fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtásával összefüggő véleményéről fenntarthatósági jelentésre vonatkozó bizonyossági jelentést bocsát ki, amelyet az Európai Bizottság által a 2006/43/EK irányelv 26a. cikk (3) bekezdése alapján elfogadott, felhatalmazáson alapuló jogi aktusok révén elfogadott bizonyossági standardok követelményeivel, vagy – az említett bizonyossági standardok Európai Bizottság által történő elfogadásáig – a magyar nemzeti könyvvizsgálati standardokkal összhangban készít el.
+
+(2) Az (1) bekezdés szerinti fenntarthatósági jelentésre vonatkozó bizonyossági jelentést írásos formában kell elkészíteni és annak tartalmaznia kell:
+
+- a) a fenntarthatósági jelentés címét, címzettjét;
+- b) a fenntarthatósági jelentés azonosítóit (különösen azt, hogy melyik vállalkozó, melyik üzleti évére vonatkozik, milyen mérlegfordulónappal készült), a jelentés összeállításánál alkalmazott fenntarthatósági beszámolási szabályrendszer megjelölésével együtt;
+- c) a fenntarthatósági jelentésre vonatkozó bizonyosság hatókörének leírását, a bizonyosság nyújtása során alkalmazott bizonyossági standardrendszer megjelölését;
+- d) az (1) bekezdés szerinti véleményt;
+- e) a fenntarthatósági jelentésre vonatkozó bizonyossági jelentés keltezését;
+- f) a bizonyosság nyújtásáért személyében felelős könyvvizsgáló nevét, aláírását, kamarai bejegyzési (nyilvántartási) számát;
+- g) könyvvizsgáló cég esetén – az f) pontban foglaltak mellett – a cég képviseletére jogosult személy nevét, aláírását, a cég megnevezését, székhelyét, kamarai nyilvántartási számát is.
+
+158/B. § (1) A 158/A. § (1) bekezdése szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég korlátozott bizonyosságot nyújtó megbízása csak megfelelő indok alapján mondható fel. A fenntarthatósági jelentési vagy bizonyossági eljárások tekintetében fennálló véleményeltérés nem minősül megfelelő indoknak.
+
+(2) A vállalkozó az ok megjelölésével közli a könyvvizsgálói közfelügyeleti feladatokat ellátó hatósággal, ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a bizonyosság nyújtására irányuló megbízásának időtartama alatt lemondott, vagy ha a megbízást a vállalkozó felmondta.
 
 ### XI. Fejezet — KÖNYVVEZETÉS, BIZONYLATOLÁS
 
@@ -3922,6 +4181,7 @@ kezeli.
 - e) a 2013/34/EU irányelvnek a nem pénzügyi és a sokszínűséggel kapcsolatos információknak bizonyos nagyvállalkozások és vállalatcsoportok általi közzététele tekintetében történő módosításáról szóló, 2014. október 22-i 2014/95/EU európai parlamenti és tanácsi irányelv,
 - f) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelv.
 - g) a 2013/34/EU irányelvnek a társaságiadó-információk egyes vállalkozások és fióktelepek általi közzététele tekintetében történő módosításáról szóló, 2021. november 24-i (EU) 2021/2101 európai parlamenti és tanácsi irányelv.
+- h) az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
 
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -4122,9 +4382,79 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (91) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 134/G. § (3a) bekezdését először a 2024. június 22-én vagy azt követően induló üzleti évről készített beszámolóra kell alkalmazni.
 
+(92) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 3. § (7) bekezdés 1. pontját, 26. § (3) bekezdését, 29. § (8) bekezdését, 37. § (1) bekezdés g) és h) pontját, 45. § (5) bekezdését, 47. § (2) bekezdés d) pontját, 48. § (4) bekezdését, 72. § (4) bekezdés d) pontját, 73. § (2) bekezdés f) pontját, 78. § (2) és (5) bekezdését, 81. § (2) bekezdés r) pontját először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(93) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 3. § (7) bekezdés 1. pontját, 26. § (3) bekezdését, 37. § (1) bekezdés g) és h) pontját, 45. § (5) bekezdését, 48. § (4) bekezdését, 72. § (4) bekezdés d) pontját a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 (94) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 (95) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(96) Az a közérdeklődésre számot tartó gazdálkodónak minősülő vállalkozó, amelynél
+
+- a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
+  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, és
+- b) az adott üzleti évben átlagosan foglalkoztatottak száma meghaladja az 500 főt,
+
+e törvénynek a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény (a továbbiakban: Mód2. törvény) által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2024. évben induló üzleti évre alkalmazza.
+
+(97) Az az összevont (konszolidált) éves beszámolót készítő, közérdeklődésre számot tartó gazdálkodónak minősülő anyavállalat, amelynél
+
+- a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
+  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, és
+- b) az adott üzleti évben átlagosan foglalkoztatottak száma meghaladja az 500 főt,
+
+e törvénynek a Mód2. törvény által megállapított összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait először a 2024. évben induló üzleti évre alkalmazza.
+
+(98) Az a vállalkozó, amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+
+- a) a mérlegfőösszeg a 10 000 millió forintot,
+- b) az éves nettó árbevétel a 20 000 millió forintot,
+- c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
+
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2025. évben induló üzleti évre alkalmazza.
+
+(99) Az az összevont (konszolidált) éves beszámolót készítő anyavállalat, amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
+
+- a) a mérlegfőösszeg a 10 000 millió forintot,
+- b) az éves nettó árbevétel a 20 000 millió forintot,
+- c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
+
+e törvénynek a Mód2. törvény által megállapított összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait először a 2025. évben induló üzleti évre alkalmazza.
+
+(100) Az a mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+
+(101) Az az (EU) 575/2013 rendelet 4. cikke (1) bekezdésének 145. pontjában meghatározott kisméretű és nem összetett intézmény,
+
+- a) amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
+  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
+- b) olyan, mikrogazdálkodónak nem minősülő vállalkozás, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
+
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+
+(102) Az a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikkének 2. pontjában meghatározott zárt biztosító, és a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikkének 5. pontjában meghatározott zárt viszontbiztosító,
+
+- a) amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
+  - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
+- b) olyan, mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
+
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+
+(103) Az uniós tagállam jogának a hatálya alá nem tartozó vállalkozó 95/G. § szerinti leányvállalata, illetve fióktelepe e törvénynek a Mód2. törvény által megállapított 95/G. §-át először a 2028. évben induló üzleti évre alkalmazza.
+
+(104) E törvénynek a Mód2. törvény által megállapított 95/E. § (1) bekezdés a) pontja hatálya alá nem tartozó azon vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, dönthet úgy, hogy a 2028. január 1-je előtt kezdődő üzleti évekre vonatkozó üzleti jelentésében nem szerepeltet fenntarthatósági jelentést. Ebben az esetben a vállalkozó az üzleti jelentésében röviden ismerteti, hogy miért nem készített fenntarthatósági jelentést.
+
+(105) E törvénynek a Mód2. törvény által megállapított 134/K. §-a a 2030. január 7-e előtt végződő üzleti évre alkalmazható.
+
+(106) E törvénynek a Mód2. törvény által megállapított 94/B. §-át először a 2023. évben induló üzleti évre kell alkalmazni.
 
 ### Felhatalmazás
 
@@ -4133,7 +4463,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 - a) az államháztartás szervezetei beszámoló készítését, könyvvezetési kötelezettségét, a beszámolás és a könyvvezetés során érvényesítendő sajátos fogalmi meghatározásokat, figyelemmel az államháztartásról szóló törvényben foglaltakra;
 - b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosítók (ideértve a viszontbiztosítókat is), a tőzsde, a központi értéktári, a központi szerződő fél tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
 - c) a 3. § (1) bekezdésének 4. pontja szerinti – a b) pont alá nem tartozó – egyéb szervezetek beszámoló készítésének és könyvvezetésének sajátosságait;
-- d) a mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartásba vételt végző szervezet kijelölését, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének és a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának és a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásának a részletes szabályait;
+- d) a mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartásba vételt végző szervezet kijelölését, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének és a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának és a továbbképzési programok kreditpont-minősítési eljárásának a részletes szabályait;
 - e) a nemzeti számviteli standardok készítésének, kidolgozásának feltételeit, a standardok elfogadásának, bevezetésének, hatályba léptetésének követelményeit;
 - f) a végelszámolás, valamint a felszámolás számviteli feladatait;
 - g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait;
@@ -4146,7 +4476,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (4) Felhatalmazást kap a miniszter arra, hogy – az (1) bekezdés e) pontja szerinti kormányrendelet előírásainak figyelembevételével – a nemzeti számviteli standardokat rendelettel kihirdesse.
 
-(5) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszter egyetértésével – rendeletben állapítsa meg a könyvviteli szolgáltatást végzők engedélyezési és nyilvántartásba vételi eljárásáért, a nyilvántartásból való törlésért, a hatósági igazolvány pótlásával, cseréjével, és a nyilvántartásban szereplő adatok módosításával összefüggő eljárásért, valamint a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, továbbá a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért, a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásáért és a szakmai szervezetként történő elismerés eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
+(5) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszter egyetértésével – rendeletben állapítsa meg a könyvviteli szolgáltatást végzők engedélyezési és nyilvántartásba vételi eljárásáért, a nyilvántartásból való törlésért, a hatósági igazolvány pótlásával, cseréjével, és a nyilvántartásban szereplő adatok módosításával összefüggő eljárásért, valamint a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, továbbá a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért, a továbbképzési programok kreditpont-minősítési eljárásáért és a szakmai szervezetként történő elismerés eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréhez nyújtott támogatás elszámolásának részletes szabályait.
 

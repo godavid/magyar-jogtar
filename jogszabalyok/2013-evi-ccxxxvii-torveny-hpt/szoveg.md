@@ -260,7 +260,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 106. szubkonszolidált alap: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 107. tagállami anyavállalat, tagállami pénzügyi holding társaság, tagállami vegyes pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 108. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését;
-- 108a. teljes bizonyító erejű magánokirat: az e törvény hatálya alá tartozó pénzügyi intézmény és az ügyfele között létrejött szerződés, és az e törvény hatálya alá tartozó magánokirati formában tett jognyilatkozat akkor is teljes bizonyító erejű magánokiratnak minősül, ha az megfelel a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés b) pontjában foglaltaknak azzal az eltéréssel, hogy ha a tanú a pénzügyi intézmény munkavállalója, akkor a lakóhelye vagy tartózkodási helye helyett együttesen a munkáltatója címét (székhelyét, telephelyét, fióktelepét), valamint a személyazonosításra alkalmas hatósági igazolvány típusát és számát is feltüntetheti a magánokiraton;
+- 108a. teljes bizonyító erejű magánokirat: az e törvény hatálya alá tartozó pénzügyi intézmény és az ügyfele között létrejött szerződés, és az e törvény hatálya alá tartozó magánokirati formában tett jognyilatkozat – ide értve a 7. § (3) bekezdés l) pontja szerinti tevékenység keretében tett jognyilatkozatot is – akkor is teljes bizonyító erejű magánokiratnak minősül, ha az megfelel a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés b) pontjában foglaltaknak azzal az eltéréssel, hogy ha a tanú a pénzügyi intézmény munkavállalója, akkor a lakóhelye vagy tartózkodási helye helyett együttesen a munkáltatója címét (székhelyét, telephelyét, fióktelepét), valamint a munkavállaló azonosítása érdekében az érintett pénzügyi intézmény elektronikus rendszereiben a munkavállalóra vonatkozó, egyedileg generált és nyilvántartott azonosítóját szükséges feltüntetnie a magánokiraton;
 - 109. teljes hiteldíj mutató: a fogyasztónak nyújtott hitelről szóló törvényben meghatározott fogalom;
 - 110. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a hitelintézet az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el;
 - 111. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
@@ -344,7 +344,11 @@ feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenö
 - c) a biztosító által az életbiztosítási kötvény tulajdonosának nyújtott kötvénykölcsön,
 - d) az önkéntes kölcsönös biztosító pénztár által nyújtott tagi kölcsön, valamint
 - e) az önkormányzat által adott lakáscélú vagy szociális kölcsön.
-- f) a tőkévé konvertálható kölcsönnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti korlátozott körű, egy naptári évben legfeljebb tizenöt alkalommal történő nyújtása, amennyiben a nyújtott kölcsönök összesített állománya természetes személy esetében legfeljebb ötszázmillió forint, jogi személy esetében legfeljebb kettőmilliárd forint.
+- f) a tőkévé konvertálható kölcsönnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti korlátozott körű, egy naptári évben legfeljebb tizenöt alkalommal történő nyújtása, amennyiben a nyújtott kölcsönök összesített állománya
+  - fa) természetes személy esetében a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozóival összeszámítottan legfeljebb kettőmilliárd forint azzal, hogy egy vállalkozás részére átadott összeg legfeljebb százötvenmillió forint lehet,
+  - fb) jogi személy esetében a kapcsolt vállalkozásaival összeszámítottan legfeljebb kettőmilliárd forint azzal, hogy egy vállalkozás részére átadott összeg legfeljebb százötvenmillió forint lehet
+
+ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
@@ -600,7 +604,7 @@ induló tőkével alapítható.
 - c) az állományátruházás időpontját, ellenértékét,
 - d) annak igazolását, hogy az átvevő hitelintézet rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
 
-(3) A szerződésállományt átruházó hitelintézet az átruházás Felügyelet által engedélyezett időpontjának napját megelőző legalább hatvan nappal postai úton értesít minden érintett ügyfelet az átruházás szándékáról. Az értesítésben felhívja a figyelmet arra, hogy az ügyfél az átruházás Felügyelet által engedélyezett napjáig jogosult a szerződését díjmentesen írásban felmondani, ennek hiányában úgy kell tekinteni, hogy az átruházás tényét tudomásul vette. Bemutatóra szóló betét vagy értékpapír esetén az értesítést két országos napilapban hirdetményként kell közzétenni.
+(3) A szerződésállományt átruházó hitelintézet az átruházás Felügyelet által engedélyezett időpontjának napját megelőző legalább hatvan nappal elektronikus úton, illetve elektronikus elérhetőség hiányában postai úton értesít minden érintett ügyfelet az átruházás szándékáról. Az értesítésben felhívja a figyelmet arra, hogy az ügyfél az átruházás Felügyelet által engedélyezett napjáig jogosult a szerződését díjmentesen írásban felmondani, ennek hiányában úgy kell tekinteni, hogy az átruházás tényét tudomásul vette. Bemutatóra szóló betét vagy értékpapír esetén az értesítést a hitelintézet és a Felügyelet honlapján kell közzétenni.
 
 (4) Ha a szerződésállományt átvevő hitelintézet az állományátruházással összefüggésben a pénzforgalmi szolgáltatási keretszerződések módosítását kezdeményezi, az átruházó és az átvevő hitelintézet megállapodhat arról, hogy a pénzforgalmi szolgáltatási keretszerződések átvevő hitelintézet általi módosításának hatálybalépéséig az átadó hitelintézet mindazon szolgáltatást biztosítja, amely szükséges ahhoz, hogy az átvevő hitelintézet teljesítse az átruházott pénzforgalmi szolgáltatási keretszerződéseket.
 
@@ -631,7 +635,7 @@ induló tőkével alapítható.
 
 (3) A Felügyelet az átruházás engedélyezését megtagadja, ha az átvevő nem tudja igazolni, hogy rendelkezik az átvenni kívánt szerződésállomány vonatkozásában mindazon feltételekkel, amelyek biztosítják, hogy az átruházás ne veszélyeztesse az átadó pénzügyi intézmény átruházandó szerződésekben vállalt kötelezettségeinek teljesítését.
 
-(4) A szerződésállományt átadó pénzügyi intézmény – az átruházás Felügyelet által engedélyezett időpontját megelőzően legalább harminc nappal – postai úton írásban köteles minden érintett ügyfelet értesíteni a szerződésállomány átruházás szándékáról. Az értesítéssel egyidejűleg az átadó pénzügyi intézmény köteles tájékoztatni az ügyfelet az átruházással összefüggésben szükségessé váló egyes szerződési feltételeknek az átruházás engedélyezett időpontját követő módosulásáról. A szerződési feltételek átruházással összefüggő egyoldalú módosítása a kamat, díj, költség tekintetében az ügyfélre nem lehet hátrányosabb.
+(4) A szerződésállományt átadó pénzügyi intézmény – az átruházás Felügyelet által engedélyezett időpontját megelőzően legalább harminc nappal – elektronikus úton, illetve elektronikus elérhetőség hiányában postai úton írásban köteles minden érintett ügyfelet értesíteni a szerződésállomány átruházás szándékáról. Az értesítéssel egyidejűleg az átadó pénzügyi intézmény köteles tájékoztatni az ügyfelet az átruházással összefüggésben szükségessé váló egyes szerződési feltételeknek az átruházás engedélyezett időpontját követő módosulásáról. A szerződési feltételek átruházással összefüggő egyoldalú módosítása a kamat, díj, költség tekintetében az ügyfélre nem lehet hátrányosabb.
 
 (5) A (4) bekezdés szerinti értesítésben tájékoztatni szükséges az ügyfelet az értesítés időpontjában fennálló tartozása összegéről és fel kell hívni a figyelmet arra, hogy az ügyfél az átruházás Felügyelet által engedélyezett napjáig jogosult a szerződést díjmentesen írásban felmondani, ennek hiányában úgy kell tekinteni, hogy az átruházás tényét és az ezzel összefüggésben módosuló szerződési feltételeket tudomásul vette. A szerződés felmondása esetén az ügyfél fennálló kötelezettségei egy összegben esedékessé válnak, melyet legkésőbb a szerződés szerinti felmondási idő utolsó napjáig köteles teljesíteni.
 
@@ -735,7 +739,7 @@ induló tőkével alapítható.
 - d) a középtávú – az első három évre vonatkozó – üzleti tervet, ide nem értve a központi szervhez tartósan kapcsolt hitelintézetet, a működéshez szükséges személyi és tárgyi feltételek biztosítására vonatkozó igazolásokat,
 - e) a folytatni kívánt tevékenységekre vonatkozó, az általános szerződési feltételeket is tartalmazó egy vagy több üzletszabályzatot,
 - f) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni,
-- g) az Országos Betétbiztosítási Alapnak (a továbbiakban: OBA) megküldött csatlakozási nyilatkozat másolatát kivéve, ha a fióktelep formában működő hitelintézetnek e törvény alapján nem szükséges csatlakoznia az OBA-hoz,
+- g)
 - h) nyilatkozatot arról, hogy a jogszabályban meghatározott adatszolgáltatások teljesítésére felkészült, valamint az adatszolgáltatáshoz felhasznált számítógépes programok tesztfuttatási eredményeit,
 - i) számviteli politikájának, részletes számviteli rendszerének tervezetét,
 - j) valamely, a hitelintézetek közötti fizetési rendszerhez való közvetlen csatlakozásról szóló nyilatkozatot és a csatlakozást biztosító informatikai rendszer könyvvizsgálói igazolását, vagy a közvetve történő csatlakozás elfogadásáról adott nyilatkozatot,
@@ -762,8 +766,9 @@ induló tőkével alapítható.
 
 - a) akinek vezető állású személye – ideértve az egyéni vállalkozót is –
   - aa) büntetlen előéletű,
-  - ab) jó üzleti hírnévvel rendelkezik,
-  - ac) legalább három év szakirányú szakmai gyakorlattal, valamint a közvetítőkre előírt szakmai végzettséggel rendelkezik,
+  - ab) nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt,
+  - ac) jó üzleti hírnévvel rendelkezik,
+  - ad) legalább három év szakirányú szakmai gyakorlattal, valamint a közvetítőkre előírt szakmai végzettséggel rendelkezik,
 - b) akinek mindenkor rendelkezésére áll a tevékenységéből eredő károk biztosításához szükséges felelősségbiztosítás.
 
 (4) A közvetítő tevékenységéből eredő károk biztosításához szükséges felelősségbiztosítás összege jelzáloghitel közvetítői tevékenységet nem végző
@@ -2635,6 +2640,7 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 - b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság végleges határozata vagy a bíróság jogerős ítélete öt évnél nem régebben megállapította;
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel.
+- e) közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (5) Hitelintézetnél nem lehet vezető állású személy – a felügyeleti jogkörrel rendelkező vezető testület tagja kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 
@@ -2883,7 +2889,7 @@ vizsgálata, és
   - cc) szakirányú felsőfokú végzettséggel és vállalkozásnál vagy a közigazgatásban szerzett legalább hatéves szakirányú vezetői gyakorlattal, vagy
   - cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési vállalkozásnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
 
-(2) Az (1) bekezdés b) pontja szerinti kérelem tartalmazza a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
+(2) Az (1) bekezdés szerinti pályázathoz csatolni kell a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
 (3) Az (1) bekezdés c) pont ca)–cc) alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki
 
@@ -2903,7 +2909,7 @@ szerzett.
   - cb) pénzügyi intézménynél, az MNB-nél, a Pénzügyi Szervezetek Állami Felügyeleténél vagy annak jogelődjénél vagy a közigazgatásban szerzett legalább hároméves szakmai gyakorlattal vagy
   - cc) más gazdasági területen szerzett legalább hároméves vezetői gyakorlattal.
 
-(5) A (4) bekezdés b) pontja szerinti kérelem tartalmazza a kinevezni vagy megválasztani tervezett személy szakmai önéletrajzát, valamint a (4) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésben meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
+(5) A (4) bekezdés szerinti pályázathoz csatolni kell a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
 156. § (1) Részvénytársasági vagy szövetkezeti formában működő hitelintézet ügyvezetését legalább két ügyvezetőnek, harmadik országbeli hitelintézet fióktelepének ügyvezetését legalább két vezető állású személynek, pénzügyi vállalkozás ügyvezetését legalább egy ügyvezetőnek munkaviszony keretében kell ellátnia.
 
@@ -3880,7 +3886,20 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (1a) A Felügyelet az e törvényben foglalt, továbbá a jelzáloghitel nyújtására vonatkozó előírások felügyeleti ellenőrzésével kapcsolatos hatáskörének gyakorlása érdekében, a jelzáloghitel közvetítői tevékenységet végző közvetítő másik EGT-államban létesített fióktelepéhez a másik EGT-állam illetékes felügyeleti hatóságainak tájékoztatását követően helyszíni vizsgálót rendelhet ki.
 
-(2) Ha a Felügyelet megállapítja, hogy a közvetítő fióktelepe megsértette a fogyasztónak nyújtott hitelről szóló törvényben, valamint végrehajtására kiadott jogszabályokban foglalt követelményeket, akkor kötelezi a fióktelepet a jogsértő helyzet megszüntetésére. Ha a Felügyelet határozata ellenére a fióktelep nem szünteti meg a jogsértő helyzetet, a Felügyeletnek meg kell tennie a szükséges intézkedéseket a szabályellenes helyzet megszüntetésére, amelyről egyidejűleg tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+(2) Ha a Felügyelet megállapítja, hogy a közvetítő fióktelepe megsértette a fogyasztónak nyújtott hitelről szóló törvényben, az MNB tv.-ben, valamint a végrehajtási jogszabályokban foglalt, a (2a) bekezdésben meghatározott követelményeket, akkor kötelezi a fióktelepet a jogsértő helyzet megszüntetésére. Ha a Felügyelet határozata ellenére a fióktelep nem szünteti meg a jogsértő helyzetet, a Felügyeletnek meg kell tennie a szükséges intézkedéseket a szabályellenes helyzet megszüntetésére, amelyről egyidejűleg tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+
+(2a) A Felügyelet által a közvetítő fióktelepénél vizsgált követelmények:
+
+- a) a kereskedelmi kommunikációra,
+- b) a hitelszerződés megkötését megelőző tájékoztatásra,
+- c) a közvetítő tájékoztatási kötelezettségére,
+- d) a jelzáloghitelek feltételeinek kialakítására, a hiteltanácsadásra, a kapcsolódó szolgáltatás nyújtására,
+- e) a foglalkoztatottak szakmai ismereteire,
+- f) a teljes hiteldíj mutató számítására,
+- g) a fogyasztóra vonatkozó információk bekérésére és ellenőrzésére és
+- h) a Pénzügyi Békéltető Testület eljárásához kapcsolódó kötelezettségre
+
+vonatkozó előírások.
 
 (3) Ha a fióktelep a Felügyelet intézkedése ellenére továbbra is megsérti az (1) bekezdésben foglalt jogszabályi követelményeket, a Felügyelet megtilthatja a fióktelep számára jelzáloghitel közvetítői tevékenysége Magyarországon történő további folytatását, amelyről a Felügyelet haladéktalanul tájékoztatja az Európai Bizottságot.
 
@@ -4016,7 +4035,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével) másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
@@ -4028,9 +4047,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 #### 83. Tájékoztatás
 
-205. § (1) A Felügyelet az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát (ideértve az alapszabály módosításához adott engedélyét is) haladéktalanul megküldi a cégbíróságnak.
-
-(2) A Felügyelet az engedély iránti kérelmet elutasító végleges határozatát megküldi a cégbíróságnak.
+#### 205. §
 
 206. § A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a cégbíróság a Felügyelet értesítése alapján nyolc napon belül a cégjegyzékbe bejegyzi.
 
@@ -4236,7 +4253,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 - b)
 - c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
-időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tíz munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és hét munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
 
 (1a) A kártalanítás (1) bekezdésben meghatározott kifizetéséhez a betétesnek nem kell kérelmet benyújtania.
 
@@ -4386,7 +4403,7 @@ vonatkozásában információt ad.
 
 (5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását is – a Felügyelet a helyszínen vagy helyszínen kívül ellenőrzi. A Felügyelet az ellenőrzés során az OBA – Felügyelet által meghatározott módon történő – közreműködését is igénybe veheti, az OBA ezen ellenőrzés keretében a Felügyelet felé intézkedési javaslattal élhet. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
-(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére három munkanapon belül átadhatóak legyenek.
+(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére egy munkanapon belül átadhatóak legyenek.
 
 (7) Az OBA a tagintézetek által megküldött adatállományok alapján legalább háromévente, indokolt esetben gyakrabban teszteli kifizető rendszerének működését. A tesztelés érdekében a tagintézetek által megküldött adatokat az OBA kizárólag a teszteléshez használja fel, a tesztelést követően törli az adatokat.
 
@@ -4498,9 +4515,9 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 #### 100. Csatlakozás az OBA-hoz
 
-236. § (1) A hitelintézet a 20. §-ban szabályozott tevékenységi engedély iránti kérelem benyújtásával egyidejűleg köteles a csatlakozásról szóló nyilatkozatot az OBA-nak megküldeni, és annak másolatát csatolni a tevékenységi engedély iránti kérelemhez, kivéve, ha a fióktelep formában működő hitelintézet a 209. § (3) bekezdése alapján nem köteles csatlakozni az OBA-hoz.
+236. § (1) A hitelintézet a 20. §-ban szabályozott tevékenységi engedély iránti kérelem benyújtásával egyidejűleg köteles a csatlakozásról szóló nyilatkozatot az OBA-nak megküldeni, kivéve, ha a fióktelep formában működő hitelintézet a 209. § (3) bekezdése alapján nem köteles csatlakozni az OBA-hoz.
 
-(2) A csatlakozási nyilatkozatot az OBA által közzétett formában kell megtenni.
+(2) A csatlakozási nyilatkozatot az OBA által a honlapján közzétett formanyomtatványon kell megtenni. A nyilatkozatot az OBA a beérkezést követően haladéktalanul, de legfeljebb 8 napon belül továbbítja a tevékenységi engedély iránti kérelmet elbíráló Felügyeletnek.
 
 #### 101. Intézkedések, szankciók kezdeményezése, az OBA-val fennálló tagsági viszony megszüntetése
 
@@ -4532,7 +4549,7 @@ az OBA felszólítja a hitelintézetet a jogsértő magatartás megszüntetésé
 
 (6) A hitelintézetnek legalább hat hónappal korábban jeleznie kell az OBA-nak, ha másik EGT-állam betétbiztosítási rendszeréhez kíván csatlakozni. Ezalatt az időszak alatt a hitelintézet 234. § szerinti díjfizetési kötelessége változatlanul fennáll.
 
-240. § Az OBA a 237. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról a Felügyeletet. Az OBA erről negyvennyolc órán belül legalább két országos napilapban felhívást tesz közzé.
+240. § Az OBA a 237. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról a Felügyeletet. Az OBA erről negyvennyolc órán belül a honlapján felhívást tesz közzé.
 
 ### XI. Fejezet — ÖNKÉNTES BETÉT- ÉS INTÉZMÉNYBIZTOSÍTÁS
 
@@ -4901,7 +4918,7 @@ rendelkezhet.
 
 268. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját. E mutató számítására és feltüntetése módjára vonatkozó szabályokat az e törvény végrehajtására kiadott jogszabály határozza meg.
 
-269. § A fiatalkorúakat betételhelyezésre, hitelfelvételre vagy egyéb pénzügyi szolgáltatás igénybevételére felhívó reklámot hitelintézet mint reklámozó esetében legalább két országos napilapban, szövetkezeti hitelintézet mint reklámozó esetében pedig legalább egy napilapban és egy országos napilapban közzé kell tenni.
+269. § A fiatalkorúakat betételhelyezésre, hitelfelvételre vagy egyéb pénzügyi szolgáltatás igénybevételére felhívó reklámot a hitelintézet, illetve a szövetkezeti hitelintézet mint reklámozó köteles a honlapján közzétenni.
 
 270. § Tilos a sorsolásra vonatkozó reklám. E tilalom nem vonatkozik a nyereménybetét-sorsolásra.
 
@@ -4915,7 +4932,7 @@ rendelkezhet.
 - b) az ügyfelek számára ajánlott pénzügyi és kiegészítő pénzügyi szolgáltatásokkal (ügyletekkel) kapcsolatos szerződési feltételeket,
 - c) a kamatokat, szolgáltatási díjakat, az ügyfelet terhelő egyéb költségeket, a késedelmi kamatokat, valamint a kamatszámítás módszerét.
 
-(1a) Ha az általános szerződési feltételt is tartalmazó üzletszabályzat, valamint bármely egyéb szabályzat módosítása fogyasztóval már megkötött szerződést is érint, a pénzügyi intézmény az internetes honlapján könnyen elérhető módon legalább 5 évig a módosítást megelőzően hatályos üzletszabályzatát, valamint egyéb szabályzatát is hozzáférhetővé teszi. Ha a pénzügyi intézmény nem rendelkezik internetes honlappal, a korábban hatályos üzletszabályzathoz, valamint egyéb szabályzathoz történő hozzáférést az ügyfélfogadásra nyitva álló helyiségében biztosítja.
+(1a) Ha az általános szerződési feltételt is tartalmazó üzletszabályzat, valamint bármely egyéb szabályzat módosítása fogyasztóval már megkötött szerződést is érint, a pénzügyi intézmény az internetes honlapján könnyen elérhető módon legalább 5 évig a módosítást megelőzően hatályos üzletszabályzatát, valamint egyéb szabályzatát is hozzáférhetővé teszi.
 
 (2) A pénzügyi intézmény az ügyfél kérésére ingyenesen rendelkezésre bocsátja
 
@@ -5066,9 +5083,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 124. Bankszünnap
 
-286. § (1) A hitelintézet a pénzügyi, kiegészítő pénzügyi szolgáltatása vagy annak körébe tartozó bármely résztevékenység vonatkozásában munkanapokon történő előzetesen tervezett szüneteltetésére bankszünnapot tarthat, amennyiben annak feltételeit üzletszabályzatában vagy az ügyféllel kötött szerződésében előzetesen meghatározta.
+286. § (1) A hitelintézet a pénzügyi, kiegészítő pénzügyi szolgáltatása vagy annak körébe tartozó bármely résztevékenység vonatkozásában munkanapokon történő, négyórás időtartamot meg nem haladó előzetesen tervezett szüneteltetésére üzemszünetet, négy órás időtartamot meghaladó előzetesen tervezett szüneteltetésére bankszünnapot tarthat, amennyiben annak feltételeit üzletszabályzatában vagy az ügyféllel kötött szerződésében előzetesen meghatározta.
 
-(2) A hitelintézet a bankszünnap tényét és a bankszünnappal érintett szolgáltatások körét legalább harminc nappal megelőzően köteles
+(2) A hitelintézet az üzemszünet tényét és az üzemszünettel érintett szolgáltatások körét legalább hét nappal megelőzően, a bankszünnap tényét és a bankszünnappal érintett szolgáltatások körét legalább harminc nappal megelőzően köteles
 
 - a) az ügyfélfogadásra nyitva álló helyiségében és – ha internetes honlappal is rendelkezik – az internetes honlapján meghirdetni,
 - b) az ügyféllel kötött szerződésben meghatározott közvetlen módon a szolgáltatással érintett ügyfelét tájékoztatni, valamint
