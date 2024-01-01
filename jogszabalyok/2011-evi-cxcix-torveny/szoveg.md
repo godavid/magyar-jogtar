@@ -67,7 +67,7 @@ a 72. § alapján kerül sor.
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
 - 3a. nemzetközi közigazgatási szakértői tevékenység: a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő – külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői – tevékenység;
-- 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), állami szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
+- 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), állami szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a köznevelési foglalkoztatotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. éjszakai munkát végző közszolgálati tisztviselő: aki várhatóan az éves munkaidejének legalább egynegyedében éjszakai munkát végez;
 - 7. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a közszolgálati tisztviselő munkaköréhez kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
@@ -140,7 +140,7 @@ személyes gondozást vagy támogatást nyújt;
 
 (4)
 
-(5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt, valamint a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
+(5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, az egészségügyi szolgálati jogviszonyban, a köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt, valamint a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
 
 (6) Az (5) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e, vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
@@ -970,7 +970,7 @@ köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a k�
 
 (5) A 38. § (2) bekezdése alapján tartós külszolgálat ellátására létrejött határozott idejű kormányzati szolgálati jogviszony hatvannapos hatállyal megszüntethető.
 
-(6) A kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés j) pontja szerinti feltétel ellenőrzése céljából a nyugdíjbiztosítási igazgatási szervnél a megszerzett szolgálati idejéről hatósági bizonyítvány kiállítását kéri. Nem kell kérelmezni a hatósági bizonyítvány kiállítását, ha a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozata az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét igazolja. A kormánytisztviselő a szolgálati időről kiállított hatósági bizonyítvány vagy más határozat másolatát – a rá irányadó öregségi nyugdíjkorhatár betöltését legalább három hónappal megelőzően – benyújtja a munkáltatónak. A munkáltató az így tudomására jutott személyes adatokat az (1) bekezdés j) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából, legfeljebb a 184. § (4) bekezdésében meghatározott ideig kezelheti.
+(6) A kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés j) pontja szerinti feltétel ellenőrzése céljából kérheti, hogy a munkáltató a nyugdíjbiztosítási igazgatási szervet a kormánytisztviselő szolgálati idejének ellenőrzése céljából megkeresse. A kormánytisztviselő az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozatával is igazolhatja a munkáltató felé. A munkáltató az így tudomására jutott személyes adatokat az (1) bekezdés j) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából legfeljebb a 184. § (4) bekezdésében meghatározott ideig kezelheti.
 
 (7) A kormánytisztviselő az (1) bekezdés j) pontjában meghatározott kérelmét a rá irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző harmadik hónap utolsó napjáig írásban nyújthatja be a munkáltatóhoz . A határidő elmulasztása miatt igazolás benyújtásának nincs helye, ebben az esetben a kormánytisztviselő jogviszonya annak a hónapnak az utolsó napján szűnik meg, amikor a kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.
 
@@ -1270,11 +1270,11 @@ alakul át.
 
 ### Eljárás a jogviszony megszűnés, megszüntetés esetén
 
-74. § (1) A kormánytisztviselő jogviszonya megszüntetésekor (megszűnésekor) munkakörét az előírt rendben köteles átadni és a munkáltatóval elszámolni. A munkakör-átadás és az elszámolás feltételeit a munkáltató köteles biztosítani.
+74. § (1) A kormánytisztviselő jogviszonya megszüntetésekor (megszűnésekor) munkakörét az előírt rendben köteles átadni és a munkáltatóval elszámolni. A munkakör-átadás és az elszámolás elektronikus úton történő lebonyolításához szükséges feltételeket a munkáltató köteles biztosítani.
 
-(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait – a 107. § (2) bekezdésében foglaltak kivételével –, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait – a 107. § (2) bekezdésében foglaltak kivételével –, valamint öt munkanapon belül elektronikus úton ki kell adni a foglalkoztatási igazolást.
 
-(3) A munkáltató a (2) bekezdés szerint igazolást ad a kormánytisztviselő részére a kiadott apasági szabadság vagy szülői szabadság tartamáról, amiben feltünteti a korábbi munkáltató által kiadott apasági szabadság, vagy szülői szabadság tartamát is.
+(3)
 
 ### Kormányzati szolgálati jogviszony tartalma
 
@@ -1774,6 +1774,8 @@ munkanap pótszabadság jár.
 (4) A kormánytisztviselő kérelmére az alapszabadság kettőötödét – a kormányzati szolgálati jogviszony első három hónapját kivéve – a szabadságolási tervtől eltérően a kormánytisztviselő által kért időpontban kell kiadni. A kormánytisztviselőnek erre vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a kormánytisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a kormánytisztviselő erről haladéktalanul értesíti a munkáltatót. Ebben az esetben a munkáltató az alapszabadság kettőötödéből összesen három munkanapot – legfeljebb három alkalommal – a kormánytisztviselő kérésének megfelelő időpontban, a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A kormánytisztviselő a munkáltató felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
 
 (4a) A munkáltatói jogkör gyakorlója a szülői szabadságot – a (2) bekezdéstől eltérően – a kormánytisztviselő kérésének megfelelő időpontban adja ki. A kormánytisztviselőnek a szabadság kiadására vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. A munkáltatói jogkör gyakorlója az államigazgatási szerv működését közvetlenül és súlyosan érintő okból a szülői szabadság kiadását – a 102/A. § (1) bekezdése szerinti határidőn belül – legfeljebb hatvan nappal elhalaszthatja. A halasztás indokát és a szabadság kiadásának javasolt időpontját a kormánytisztviselővel egyidejűleg írásban kell közölni.
+
+(4b) A munkáltatói jogkör gyakorlója a 102. § (1) és (2) bekezdése szerinti pótszabadságot – a (2) bekezdéstől eltérően – a kormánytisztviselő kérésének megfelelő időpontban adja ki. A kormánytisztviselőnek a szabadság kiadására vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie.
 
 (5) A szabadságolási tervben foglaltaktól csak rendkívül indokolt esetben lehet eltérni és ebben az esetben a kormánytisztviselő – kivéve, ha az eltérésre a kormánytisztviselő kérelmére került sor – jogosult az ezzel összefüggésben felmerülő kára, költségei megtérítésére.
 
@@ -2357,6 +2359,7 @@ illetménynek megfelelő összeg.
 - g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
 - h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban,
 - i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
+- j) a költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban
 
 töltött időt kell figyelembe venni.
 
@@ -2912,9 +2915,9 @@ terjed ki.
 
 (4) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
 
-(5) Az államigazgatási szerv szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+(5)
 
-(6) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően az államigazgatási szerv a kormánytisztviselők illetményéből a szakszervezeti tagdíjat az államigazgatási szerv és a kormánytisztviselő erre vonatkozó megállapodása esetén vonja le.
+(6) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően az államigazgatási szerv a kormánytisztviselők illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.
 
 ### Központi érdekegyeztetés
 
@@ -3716,6 +3719,8 @@ rendeletben állapítsa meg.
   - cc) teljesítményértékelésének módszertanára vonatkozó
 
 részletes szabályokat.
+
+(6) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy rendeletben állapítsa meg a polgármester tisztségének megszűnése esetére a munkakör-átadására vonatkozó szabályokat.
 
 260. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2012. március 1-jén lép hatályba.
 

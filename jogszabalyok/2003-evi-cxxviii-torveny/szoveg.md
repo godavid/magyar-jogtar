@@ -2,7 +2,9 @@
 
 a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről
 
-Az Európai Unió egészére kiterjedő közös közlekedési stratégia megvalósításában kiemelt szerepet kapott a Transz-európai Közlekedési Hálózat. Az Európai Unióhoz való csatlakozás gazdasági-társadalmi követelményként állítja hazánk elé az egységes európai közlekedési hálózathoz való kapcsolódásunkat, a hazai közúthálózatnak a hazánkat érintő pán-európai folyosók mentén történő fejlesztését. A hálózatok kiépítése, nyomvonalvezetése és működtetése a gazdaságpolitikai és területfejlesztési elképzelések megvalósításának eszköze.A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes közlekedési hálózatnak a lehető legrövidebb időn belüli kiépítése, az országhatárokon is átnyúló regionális együttműködés fejlesztése, a szomszédos országokkal való kapcsolatok elősegítése, a regionális fejlettségbeli különbségek csökkentése, a hátrányos helyzetű térségek elérhetőségének javítása, a kiegyensúlyozottabb térségi fejlődés elősegítése, valamint a belső gazdasági és társadalmi kohézió erősítése érdekében az Országgyűlés a következő törvényt alkotja:
+Az Európai Unió egészére kiterjedő közös közlekedési stratégia megvalósításában kiemelt szerepet kapott a Transz-európai Közlekedési Hálózat. Az Európai Unióhoz való csatlakozás gazdasági-társadalmi követelményként állítja hazánk elé az egységes európai közlekedési hálózathoz való kapcsolódásunkat, a hazai közúthálózatnak a hazánkat érintő pán-európai folyosók mentén történő fejlesztését. A hálózatok kiépítése, nyomvonalvezetése és működtetése a gazdaságpolitikai és területfejlesztési elképzelések megvalósításának eszköze.
+
+A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes közlekedési hálózatnak a lehető legrövidebb időn belüli kiépítése, az országhatárokon is átnyúló regionális együttműködés fejlesztése, a szomszédos országokkal való kapcsolatok elősegítése, a regionális fejlettségbeli különbségek csökkentése, a hátrányos helyzetű térségek elérhetőségének javítása, a kiegyensúlyozottabb térségi fejlődés elősegítése, valamint a belső gazdasági és társadalmi kohézió erősítése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — Bevezető rendelkezések
 
@@ -66,7 +68,12 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 (3) A (2) bekezdésben megjelölt tanulmány és dokumentáció előkészítése során a tervező a környezetvédelmi hatósággal és érintett helyi önkormányzatokkal kapcsolatot tart.
 
-(4) A 9. § (1) bekezdés szerinti környezetvédelmi hatóság az előzetes vizsgálati eljárásban a nyilvánosság véleményének megismerése érdekében közmeghallgatást tart.
+(4) A 9. § (1) bekezdése szerinti környezetvédelmi hatóság az előzetes vizsgálati eljárásban a nyilvánosság véleményének megismerése érdekében közmeghallgatást tart. A környezetvédelmi hatóság a közmeghallgatást az érintettek személyes megjelenése nélkül,
+
+- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
+- b) honlapon való közzététel útján
+
+is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
 
 (5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld), valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
 
@@ -88,7 +95,7 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 (5)
 
-8. §
+#### 8. §
 
 ### III. Fejezet — A hatósági eljárás egyes szabályai
 
@@ -120,7 +127,7 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére tizenöt napon belül adja ki.
 
-14. §
+#### 14. §
 
 15. § A környezetvédelmi és az építési engedélyezési eljárás során meghozott határozat elleni közigazgatási perben – ha a tárgyalás tartását valamely fél kérte – a tárgyalást a keresetlevél bírósághoz érkezésétől számított negyvenötödik napra kell kitűzni. Ha az első tárgyaláson egyik fél sem jelenik meg – és a tárgyalás távollétükben való megtartását egyik fél sem kérte – az eljárást meg kell szüntetni.
 

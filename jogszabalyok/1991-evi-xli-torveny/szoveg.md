@@ -86,7 +86,7 @@ a közjegyzőkről
 
 (4) A kamarai hatósági eljárást első fokon a területi kamara elnöksége folytatja le, az elnökség döntése elleni fellebbezést az országos kamara bírálja el.
 
-(5)
+(5) Ha a területi kamara elnökségének hatáskörébe tartozó kamarai hatósági eljárás nyilvántartásba vagy névjegyzékbe való bejegyzésre vagy törlésre irányul, a nyilvántartásba való bejegyzésre vagy törlésre a területi kamara elnöksége haladéktalanul köteles.
 
 (6) Az általános közigazgatási rendtartásról szóló törvény kizárásra vonatkozó szabályait e törvény kizárási szabályaival együtt kell alkalmazni.
 
@@ -110,7 +110,7 @@ a közjegyzőkről
 
 (2) A Budapesten működő közjegyzők illetékessége a főváros egész területére kiterjed.
 
-(3) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendelettel állapítja meg annak a közjegyzőnek az illetékességi területét, akinek a székhelyén nem működik bíróság.
+(3) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendelettel állapítja meg a közjegyzők illetékességi területét és a hagyatéki eljárásban alkalmazandó ügyelosztási rendet.
 
 (4) A közjegyző helyszíni eljárást az illetékességi területén folytathat.
 
@@ -576,7 +576,7 @@ kezeli.
 
 (6) A közjegyző iroda egyesüléséhez és szétválásához a területi kamara elnökségének előzetes engedélye, korlátolt felelősségű társasággá történő átalakuláshoz vagy annak kiválással történő létrehozásához a közjegyzői szolgálatnak a 22. § (1) bekezdés a) vagy d) pontjában meghatározott okból történő megszűnéséről kiállított igazolása szükséges.
 
-31/G. § A közjegyzői iroda végelszámolója csak közjegyző vagy közjegyzőhelyettes lehet.
+31/G. § A közjegyzői iroda végelszámolója csak közjegyző vagy közjegyzőhelyettes, illetve saját irodája tekintetében a nyugalmazott közjegyző lehet.
 
 ### V. Fejezet — A KÖZJEGYZŐ HELYETTESÍTÉSE
 
@@ -604,7 +604,15 @@ kezeli.
   - bb) a közjegyző szolgálata szünetel, vagy
   - bc) a közjegyző megszakítás nélkül 5 munkanapot meghaladóan az irodájától távol van.
 
-(2) Ha a közjegyzőnek van állandó helyettese és a közjegyzőt hivatalából felfüggesztették, a közjegyző szolgálata szünetel, vagy megszakítás nélkül 60 munkanapot meghaladóan az irodájától távol van, a területi kamara elnöksége az állandó helyettest tartós helyettesként rendeli ki. A tartós helyettes és a helyettesített közjegyző közötti – a területi kamara elnöksége által jóváhagyott – állandó helyettesítési megállapodás a tartós helyettesítés tartamára is irányadó, feltéve, ha a megállapodás a 37/B. § (2) bekezdésében foglaltaknak is megfelel.
+(2) Ha a közjegyzőnek van állandó helyettese és
+
+- a) a közjegyzőt hivatalából felfüggesztették,
+- b) a közjegyző szolgálata szünetel, vagy
+- c) megszakítás nélkül 60 munkanapot meghaladóan az irodájától távol van,
+
+a területi kamara elnöksége az állandó helyettest tartós helyettesként rendeli ki.
+
+(2a) A tartós helyettes és a helyettesített közjegyző közötti – a területi kamara elnöksége által jóváhagyott – állandó helyettesítési megállapodás a tartós helyettesítés tartamára is irányadó, feltéve, hogy a megállapodás a 37/B. § (2) bekezdésében foglaltaknak is megfelel.
 
 (3) Az (1) bekezdés b) pontja szerinti esetben, ha a tartós helyettes kirendelését megelőzően a területi kamara elnöksége a helyettesített közjegyző és a tartós helyettes közötti megállapodást (a továbbiakban: tartós helyettesítési megállapodás) nem hagyja jóvá, valamint akkor, ha a tartós helyettesítési megállapodás megszűnt, a tartós helyettes a helyettesítést megállapodás hiányában látja el. E rendelkezést kell alkalmazni abban az esetben is, ha a tartós helyettes a (2) bekezdés szerint került kirendelésre, és az állandó helyettesítési megállapodás megszűnt.
 
@@ -679,7 +687,7 @@ kezeli.
 - a) a 37/A. § (2) bekezdésében foglaltakat, valamint
 - b) az arra az esetre szóló szabályokat, amikor a tartós helyettesítésre olyan körülmény miatt kerül sor, amely miatt a folyamatban lévő ügyek átadás-átvétele, illetve a helyettesített közjegyzővel való kapcsolattartás jelentősen akadályozott.
 
-(3) A 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti tartós helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a területi kamara elnökének előzetes írásbeli engedélye alapján intézkedhet. A 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti tartós helyettesítés időtartama alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes és közjegyzőjelölt szakmai képzéséről – a helyettesített közjegyző irodájának a helyettes általi átvétele hiányában a helyettesített közjegyző költségére – a tartós helyettes gondoskodik. Az e bekezdésben foglaltakkal ellentétes megállapodás semmis.
+(3) A 34. § (1) bekezdés b) pont ba) alpontja, valamint a 34. § (2) bekezdés a) pontja szerinti tartós helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a területi kamara elnökének előzetes írásbeli engedélye alapján intézkedhet. A 34. § (1) bekezdés b) pont bb) és bc) alpontja és a 34. § (2) bekezdés b) és c) pontja szerinti tartós helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a helyettesített közjegyző – akadályoztatása esetén pedig a területi kamara elnökének – előzetes írásbeli engedélye alapján intézkedhet. A 34. § (1) bekezdés b) pontja és a 34. § (2) bekezdése szerinti tartós helyettesítés időtartama alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes és közjegyzőjelölt szakmai képzéséről – a helyettesített közjegyző irodájának a helyettes általi átvétele hiányában a helyettesített közjegyző költségére – a tartós helyettes gondoskodik. Az e bekezdésben foglaltakkal ellentétes megállapodás semmis.
 
 (4) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettesítési megállapodásban a felek megállapodhatnak arról is, hogy a tartós helyettes a helyettesített közjegyző irodáját átveszi. Ebben az esetben a területi kamara elnökségének az eljárására a 37/D. § (4) bekezdését kell alkalmazni.
 
@@ -1009,13 +1017,14 @@ foglalt kötelezettségek teljesítését.
 - 22. a közjegyzői okirat végrehajtásának elrendelése iránti eljárásban a közjegyző illetékességéről,
 - 23. a személyes adatoknak a közjegyzői eljárásokkal összefüggő kezelésére vonatkozó szabályokról,
 - 24. a közjegyzői eljárásokban az elektronikus ügyintézés egyes kérdéseiről,
-- 25. a közjegyzői okiratszerkesztésre vonatkozó egyes formai követelményekről, és
-- 26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja.
-- 27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról.
+- 25. a közjegyzői okiratszerkesztésre vonatkozó egyes formai követelményekről,
+- 26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja,
+- 27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról, és
+- 28. a közjegyzői pályázatok benyújtásával és elbírálásával kapcsolatos, jogszabályban nem rendezett kérdésekről.
 
 (2) Az országos kamara szervezeti és működési szabályzatot készít, amelyben rögzíti saját szervezetét, működési és gazdálkodási rendjét, a területi kamarákkal és a területi elnökségekkel összefüggő jogait, valamint kapcsolattartásuk rendjét.
 
-(3) A területi és az országos kamara szervezeti és működési szabályzata, valamint az (1) bekezdés 1., 6., 9., 10., 11., 20., 21. és 23. pontjában felsorolt szabályzatok kiemelt szabályzatok.
+(3) A területi és az országos kamara szervezeti és működési szabályzata, valamint az (1) bekezdés 1., 6., 9., 10., 11., 20., 21., 23. és 28. pontjában felsorolt szabályzatok kiemelt szabályzatok.
 
 (4) Az országos kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által a kamarai nyilvántartásba vett személyekre kötelező.
 
@@ -1462,7 +1471,7 @@ ellenőrzésével gondoskodik.
 
 104. § (1) A közjegyző, a közjegyzőhelyettes vagy a közjegyzőjelölt szolgálatból történő felfüggesztése a törvény erejénél fogva következik be, ha
 
-- a) közvádra üldözendő, 3 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll,
+- a) közvádra üldözendő, 5 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt ellene vádat emeltek,
 - b) letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el a büntetőeljárás során, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy
 - c) gondnokság alá helyezés iránti peres eljárásban a keresetlevelet vele közölték,
 
@@ -1687,7 +1696,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 (5) Az ellenőrzés céljából a közjegyző a nyilvántartásokból a személyazonosítással érintett személy alábbi adatait ellenőrizheti:
 
 - a) természetes személyazonosító adatait,
-- b) állampolgárságát, hontalanságát, menekült, bevándorolt, letelepedett vagy EGT-állampolgár jogállását,
+- b) állampolgárságát, hontalanságát, huzamos tartózkodási jogosultságát, menekült vagy EGT-állampolgár jogállását,
 - c) lakcímét,
 - d) arcképmását,
 - e) aláírását és
@@ -1695,7 +1704,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
   - fa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. §-ának (4) bekezdése szerinti tények,
   - fb) a külföldre utazásról szóló 1998. évi XII. törvény 24. §-ának f) pontja szerinti tények és az okmány érvényességi ideje,
   - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pontjának ba)-bb) alpontja szerinti tények,
-  - fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
+  - fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. §-a (1) bekezdés b) és c) pontja szerinti tények.
 
 (6) A közjegyző köteles megtagadni a közreműködést, ha
 
@@ -1979,7 +1988,7 @@ alapján tanúsíthatja.
 
 151. § (1) A közjegyzői okiratról egyszerű másolat – ha e törvény vagy az okiratban a felek másképpen nem rendelkeztek – a közjegyzői okiratban félként szereplő személy, törvényes képviselője vagy meghatalmazottja részére adható ki. Ez irányadó a betekintés engedélyezésére is.
 
-(2) Az (1) bekezdésben fel nem sorolt személy részére másolat kiadása és betekintés engedélyezése az erre jogosult személy hozzájárulásával lehetséges, ennek hiányában pedig akkor, ha a kérelmező a másolat kiadásához fűződő jogi érdekét valószínűsíti, és kérelmének teljesítése aggályra nem ad okot.
+(2) Az (1) bekezdésben fel nem sorolt személy részére másolat kiadása és betekintés engedélyezése az erre jogosult személy hozzájárulásával lehetséges, ennek hiányában pedig akkor, ha a kérelmező a másolat kiadásához fűződő jogi érdekét igazolja.
 
 152. § (1) A végrendeletet – ide nem értve az öröklési szerződést és a halál esetére szóló ajándékozás tárgyában kötött szerződést (e §-ban a továbbiakban: végrendelet) – tartalmazó közjegyzői okiratról az örökhagyó életében csak az örökhagyó részére vagy kifejezetten e célra adott és a 132. §-ban meghatározott alakiságokkal rendelkező meghatalmazással ellátott meghatalmazottja részére adható ki hiteles kiadmány, másolat vagy bizonyítvány, illetve e személyek részére engedélyezhető betekintés.
 
@@ -2029,7 +2038,7 @@ alapján tanúsíthatja.
 
 161/A. § (1) A személyesen eljáró végrendelkező a magánvégrendeletét nyíltan vagy a közjegyző által borítékba zárva letétbe helyezheti a közjegyzőnél azzal a kijelentéssel, hogy az okirat a végrendeletét tartalmazza. A letétbe helyezésről a közjegyző jegyzőkönyvet készít, amely a 159. § a)–c) pontjában foglaltakat tartalmazza. Az átvett végrendeletet a jegyzőkönyvhöz kell fűzni.
 
-(2) A közjegyző a végrendelet átvételéről a félnek elismervényt ad, és a végrendeletet elzárva őrzi. A közjegyző a végrendelet megőrzéséért felel.
+(2) A közjegyző a végrendeletet elzárva őrzi. A közjegyző a végrendelet megőrzéséért felel.
 
 161/B. § (1) A közjegyző a személyesen eljáró letevőnek a kérésére a nála letett végrendeletet visszaadja.
 
@@ -2234,7 +2243,7 @@ alapján tanúsíthatja.
 183. § Felhatalmazást kap a miniszter, hogy — a 12. § (3) bekezdésében foglaltakon túl — rendelettel állapítsa meg:
 
 - a) a közjegyzők működésének folyamatosságához szükséges átmeneti intézkedéseket,
-- b) a közjegyzői állások számát és székhelyét, valamint hagyatéki ügyekben a közjegyzők illetékességét a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
+- b) a közjegyzői állások számát és székhelyét, a közjegyzők illetékességi területét, valamint hagyatéki ügyekben az azonos illetékességi területen működő közjegyzők között érvényesülő ügyelosztási rendet a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
 - c)
 - d) a közjegyzők ügyvitelének szabályait,
 - e) a közjegyzői díjszabást,
@@ -2243,7 +2252,7 @@ alapján tanúsíthatja.
 - h) a Magyar Országos Közjegyzői Kamaránál vezetett zálogjogi nyilvántartás részletes szabályait, valamint az igénybevételi díjat,
 - i) a közjegyzői levéltár anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét,
 - j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
-- k) a közjegyző okirat-szerkesztési eljárására irányuló kérelem tartalmi és formai követelményeit,
+- k) a közjegyző okirat-szerkesztési, az okirat megőrzése iránti, a pénz, értéktárgy és értékpapír bizalmi őrzése iránti eljárására irányuló kérelem tartalmi és formai követelményeit,
 - l) a közjegyzői vizsga részletes szabályait.
 - m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.
 

@@ -387,7 +387,7 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 23. § (1) Az ezerfős taglétszámot három egymást követő évben átlagosan meghaladó kölcsönös biztosító egyesület esetében a legfőbb szerv a legfeljebb ötventagú küldöttgyűlés. A küldötteket a tagok, a tagok köréből – az alapszabályban meghatározottak szerint – taglétszámhoz viszonyított arányban öt évre választják. A küldöttek választásának és visszahívásának eljárási szabályait a kölcsönös biztosító egyesület alapszabálya tartalmazza. Az alapszabályban rendelkezni kell az újonnan belépő tagok képviseletéről.
 
-(2) A küldöttválasztó közgyűlést az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján és két országos napilapban közzétett hirdetmény útján kell összehívni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, küldöttválasztó közgyűlés összehívásáról a nyomtatott sajtóban és honlapon történt közlés mellett elektronikus úton is értesíteni kell. A hirdetmény és a tag részére elektronikus úton küldött értesítés közötti eltérés esetén a hirdetményben foglaltak az irányadók.
+(2) A küldöttválasztó közgyűlést az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján közzétett felhívás útján kell összehívni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, a küldöttválasztó közgyűlés összehívásáról a honlapon történt felhívás mellett elektronikus úton is értesíteni kell. A honlapon közzétett és a tag részére elektronikus úton küldött felhívás közötti eltérés esetén a közzétételben foglaltak az irányadók.
 
 24. § (1) A kölcsönös biztosító egyesület igazgatósága állapítja meg a 21. § (1) bekezdés f) pontjában meghatározott – alapszabályban kötelezően előírandó – szolgáltatáscsökkentést és a pótlólagos befizetési kötelezettséget, beleértve azok mértékét.
 
@@ -428,7 +428,7 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 - a) tájékoztatást ad az átalakulással elérni kívánt gazdasági célról, az ahhoz szükséges eszközökről, az egyesületi tagok és a munkavállalók jövőbeni helyzetéről,
 - b) ismerteti az indítványozók és az igazgatóság álláspontját.
 
-(2) Az igazgatóság köteles a legfőbb szerv átalakulást előkészítő ülését megelőzően az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján és két országos napilapban közzétett hirdetmény útján az (1) bekezdés a) és b) pontjában foglaltakról a tagokat tájékoztatni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, a nyomtatott sajtóban és honlapon történt közlés mellett elektronikus úton is tájékoztatni kell. A hirdetmény és a tag részére elektronikus úton küldött tájékoztatás közötti eltérés esetén a hirdetményben foglaltak az irányadók. Az igazgatóság a tájékoztatási kötelezettségének úgy tesz eleget, hogy a kölcsönös biztosító egyesület tagjainak legalább tizenöt nap álljon rendelkezésére a 28. § (3) bekezdésében meghatározott nyilatkozat megtételére.
+(2) Az igazgatóság köteles a legfőbb szerv átalakulást előkészítő ülését megelőzően az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján az (1) bekezdésben foglaltakról a tagokat tájékoztatni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, erről a honlapon történt közlés mellett elektronikus úton is tájékoztatni kell. A honlapon közzétett és a tag részére elektronikus úton küldött tájékoztatás közötti eltérés esetén a közzétételben foglaltak az irányadók. Az igazgatóság a tájékoztatási kötelezettségének úgy tesz eleget, hogy a kölcsönös biztosító egyesület tagjainak legalább tizenöt nap álljon rendelkezésére a 28. § (3) bekezdésében meghatározott nyilatkozat megtételére.
 
 (3) Az előkészítő ülésen hozott, átalakulásról szóló első döntésnek tartalmaznia kell:
 
@@ -903,6 +903,7 @@ szerzett végzettség.
 - c) súlyosan vagy ismételten megsértette
   - ca) a Felügyelet feladatkörébe tartozó törvények vagy e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Felügyelet öt évnél nem régebbi jogerős vagy végleges határozatában a legmagasabb összegű bírságot szabta ki vagy a felmentését kezdeményezte, vagy a bíróság öt évnél nem régebbi jogerős határozatában felelősségét e jogszabályok megsértése miatt megállapította,
   - cb) a tevékenységére vonatkozó külföldi jogszabályban meghatározott rendelkezéseket és emiatt az felügyelet öt évnél nem régebbi jogerős vagy végleges döntésében a legmagasabb összegű bírságot szabta ki vele szemben vagy a felmentését kezdeményezte, vagy a külföldi bíróság öt évnél nem régebbi jogerős döntésében felelősségét e jogszabályok megsértése miatt megállapította.
+- d) közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 #### 25/A. Jó hírnév
 
@@ -1447,7 +1448,7 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 
 (4) Az (1) bekezdésben meghatározott jelentéssel összefüggő részletszabályokat a Kormány a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben állapítja meg.
 
-108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által a vonatkozó jogszabályok megsértése miatt vele szemben hozott határozat rendelkező részét a honlapján közzétenni. Ha a biztosító vagy a viszontbiztosító nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő közzététellel is eleget tehet.
+108/A. § (1) A biztosító és a viszontbiztosító köteles a Felügyelet által a vonatkozó jogszabályok megsértése miatt vele szemben hozott határozat rendelkező részét a honlapján közzétenni.
 
 (2) Az (1) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 
@@ -1634,6 +1635,7 @@ kell érteni.
 - a) a szolgáltatási igény benyújtásának lehetséges módjai,
 - b) a szolgáltatás teljesítésének szabályai és a vonatkozó határidők,
 - c) a kárkifizetés és szolgáltatás lehetséges formái, ideértve az egyezségi kárrendezést is.
+- d) az értékcsökkenés alkalmazásának módszertana.
 
 (3) A biztosító köteles a kárrendezéshez nélkülözhetetlen dokumentumok beérkezésétől számított 15 napon belül, de ezek beérkezésének hiányában is legkésőbb a szolgáltatási igény benyújtásától számított egy hónapon belül a biztosítási szolgáltatásra jogosult személynek:
 
@@ -1663,6 +1665,14 @@ azzal, hogy a díjrészhez kapcsolódó megképzett tartalékon arányosan felsz
 - a) első éves díjrészének legalább a 20%-a,
 - b) második éves díjrészének legalább az 50%-a,
 - c) harmadik és minden azt követő éves díjrészeinek legalább 80%-a.
+
+#### 48/B. A vagyonbiztosítási szerződések különös szabályai
+
+124/B. § A lakáscélú ingatlant érintő, határozatlan időre kötött vagyonbiztosítási szerződés vonatkozásában a biztosításközvetítőnek kifizetett javadalmazás összege nem haladhatja meg az éves biztosítási díj 20%-át.
+
+124/C. § (1) A lakáscélú ingatlant érintő, határozatlan időre kötött vagyonbiztosítási szerződés vonatkozásában a biztosítóval szerződő fél jogosult arra, hogy – a biztosítási évfordulón túl – minden év márciusában – március 31-ig a biztosítóhoz beérkezően – költségmentesen élhessen egy további felmondási lehetőséggel a rendes felmondás szabályai alapján.
+
+(2) Az (1) bekezdés szerinti felmondási lehetőségről a biztosító a szerződő felet minden év február 15. napjáig tájékoztatja.
 
 #### 49. A tőkegarancia és hozamgarancia
 
@@ -1844,11 +1854,12 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - a) a biztosító vagy a viszontbiztosító ügyfele vagy annak képviselője a kiszolgáltatható biztosítási titokkört pontosan megjelölve, erre vonatkozóan írásban felmentést ad,
 - b) e törvény alapján a titoktartási kötelezettség nem áll fenn,
 - c) a biztosító vagy a viszontbiztosító által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
+- d) a biztosító érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy követelése érvényesítéséhez szükségessé teszi.
 
 138. § (1) A biztosítási titok megtartásának kötelezettsége nem áll fenn
 
 - a) a feladatkörében eljáró Felügyelettel,
-- b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal és az ügyészséggel,
+- b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal, az ügyészséggel, valamint a szabálysértési hatósági jogkörében eljáró rendőrséggel és a Nemzeti Adó- és Vámhivatallal,
 - c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 - d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 - e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
@@ -1866,7 +1877,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - q) a feladatkörében eljáró alapvető jogok biztosával,
 - r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló miniszteri rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval,
-- t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
+- t) a lábon álló növénykultúrára kötött mezőgazdasági biztosítási szerződésekben szereplő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
 - u) a felszámoló szervezeteket nyilvántartó hatósággal,
 - v) a Gfbt. szerinti e-kárbejelentő felületen megadott adatoknak a kárbejelentő alkalmazás működtetése, a biztosítási eseményhez kapcsolódó, szükséges információk begyűjtése és a biztosítók részére kárrendezés céljából történő továbbítása tekintetében a MABISZ-szal
 
@@ -2243,7 +2254,7 @@ szemben.
 
 #### 63. Panaszkezelés
 
-159. § (1) A biztosító biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a biztosító, az általa alkalmazott vagy megbízott ügynök vagy – adott termék kapcsán – általa megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+159. § (1) A biztosító biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a biztosító, az általa alkalmazott vagy megbízott ügynök vagy – adott termék kapcsán – általa megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
@@ -2623,7 +2634,7 @@ kell fordítani.
 - e) a 183–184. §-ban, valamint a 185/A. §-ban foglaltak szerint a kielégítés sorrendjéről;
 - f) a 193. § (3) bekezdésében meghatározott tájékoztató elektronikus elérésének módjáról.
 
-(2) A felszámoló az (1) bekezdésben meghatározott tájékoztatót köteles két országos napilapban is megjelentetni.
+(2)
 
 (3) A felszámoló a felszámolást elrendelő jogerős bírósági végzés közzétételét követő harminc napon belül köteles az (1) bekezdésben meghatározott tartalommal egyenként írásbeli tájékoztatást küldeni azon szerződőknek, biztosítottaknak, továbbá egyéb ismert hitelezőknek, akiknek állandó lakóhelye, székhelye vagy fióktelepe az Európai Unió másik tagállamában található.
 
@@ -4726,13 +4737,13 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 
 380. § A biztosításközvetítő, valamint annak tulajdonosa, a biztosításközvetítői vállalkozásban részesedést szerezni kívánó személy, a vezető állású személy, valamint a biztosításközvetítő alkalmazottja, megbízottja vagy a biztosításközvetítővel munkavégzésre irányuló egyéb jogviszonyban álló személy köteles a biztosító és a biztosításközvetítő működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megőrizni.
 
-381. § A 137–143. §-ban, és a 145–147. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítők esetében is azzal, hogy ahol az adott rendelkezés biztosítót nevesít, azon a biztosításközvetítőt kell érteni.
+381. § A 137–143. §-ban [ide nem értve a 137. § d) pontját], és a 145–147. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítők esetében is azzal, hogy ahol az adott rendelkezés biztosítót nevesít, azon a biztosításközvetítőt kell érteni.
 
 381/A. § A 379–381. § rendelkezéseit a kiegészítő biztosításközvetítői tevékenységet végző személyek esetében is megfelelően alkalmazni kell.
 
 #### 172. A biztosításközvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy panaszkezelése
 
-382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a többes ügynök, az alkusz és – adott termék kapcsán – az általuk megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a többes ügynök, az alkusz és – adott termék kapcsán – az általuk megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) A többes ügynök és az alkusz panaszkezelési eljárására egyebekben a 159. § (2)–(5) bekezdése rendelkezéseit kell alkalmazni azzal, hogy ahol a rendelkezés biztosítót nevesít, azon a többes ügynököt és az alkuszt kell érteni.
 
@@ -5070,7 +5081,7 @@ rendelkezni.
 - e) a biztosításközvetítői tevékenység jellege (független, függő);
 - f) a biztosító vagy biztosítók, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével), valamint a biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
 - g) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása biztosítónként;
-- h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga);
+- h) a végzettség típusa (felsőfokú végzettség, közgazdasági középfokú végzettség, illetve szakképzettség, gazdaságtudományi szakképesítés, illetve szakképzettség, biztosításközvetítő szakképesítés vagy hatósági vizsga);
 - i) státusza (aktív, inaktív);
 - j) a 376. § szerinti képzési, illetve továbbképzési követelmények teljesítésének ténye.
 
@@ -5155,7 +5166,7 @@ tekintetében közhiteles nyilvántartásnak minősül.
   - fb) fennálló jogviszony keretében a biztosítónak, a többes ügynöknek vagy az alkusznak végzett tevékenység részletes meghatározása,
   - fc) fennállott jogviszony esetleges korlátozása, a jogviszony megszüntetésének oka, körülményei;
 - g) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása;
-- h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga), az ezt igazoló dokumentum másolata;
+- h) a végzettség típusa (felsőfokú végzettség, közgazdasági középfokú végzettség, illetve szakképzettség, gazdaságtudományi szakképesítés, illetve szakképzettség, biztosításközvetítő szakképesítés vagy hatósági vizsga), az ezt igazoló dokumentum másolata;
 - i) a biztosítótól, többes ügynöktől vagy alkusztól kilépett biztosításközvetítő természetes személy közvetítői igazolványa bevonásának ténye;
 - j) a 376. § szerinti képzési, illetve továbbképzési követelmények teljesítésének igazolása;
 - k) a 69/A. § szerinti jó hírnév követelményének történő megfelelés igazolása.
@@ -5473,7 +5484,7 @@ a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatásá
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével) másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 

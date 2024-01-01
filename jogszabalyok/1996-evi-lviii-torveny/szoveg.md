@@ -390,7 +390,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 25. § (1) A kamarai tag az lehet, aki
 
 - a) magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy, vagy
-- b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és Magyarországon lakóhellyel vagy tartózkodási engedéllyel rendelkezik, vagy
+- b) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, és Magyarországon lakóhellyel vagy tartózkodási engedéllyel rendelkezik, vagy
 - c) az a) és b) pont alá nem tartozó külföldi állampolgár nemzetközi egyezmény vagy viszonosság alapján, és
 - d) nem áll büntetőügyben hozott ítélet alapján foglalkozástól való eltiltás hatálya alatt, illetve a büntetett előélethez fűződő hátrányos jogkövetkezmények alól mentesült,
 - e) a (3) bekezdésben meghatározott szakmai feltétellel rendelkezik,
@@ -582,11 +582,11 @@ folytatja le.
 
 (4)–(5)
 
-35/B. §
+#### 35/B. §
 
-35/C. §
+#### 35/C. §
 
-36. §
+#### 36. §
 
 36/A. § (1) A fegyelmi tanács elnöke
 
@@ -658,7 +658,7 @@ folytatja le.
 
 (5)–(6)
 
-37/C. §
+#### 37/C. §
 
 37/D. § Az elsőfokú fegyelmi eljárás költségeit az első fokon eljáró területi kamara, a másodfokú fegyelmi eljárás költségeit az eljáró országos kamara előlegezi meg. A fegyelmi eljárás költsége az országos kamarák alapszabálya szerint megállapított, a fegyelmi tanács működését fedező költségátalány, valamint a fegyelmi tanács tagjainak és az eljárás résztvevőinek igazolt utazási költsége.
 
@@ -701,7 +701,9 @@ folytatja le.
 
 (6)
 
-### A bíróságok feladataia kamarai tagsággal kapcsolatban
+### A bíróságok feladatai
+
+a kamarai tagsággal kapcsolatban
 
 41. § (1) A bíróság a területi kamara nyilvántartásba vételéről és törléséről értesíti az országos kamarát.
 
@@ -770,7 +772,19 @@ folytatja le.
 
 (6) A névjegyzékből, illetve nyilvántartásból történő törlést követően a nyilvántartott adatait a területi kamara 10 évig köteles megőrizni.
 
-44–50. §
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
 
 ### X. Fejezet — Átmeneti rendelkezések
 
@@ -780,7 +794,7 @@ folytatja le.
 
 (2) E törvénynek a Módtv.-vel meghatározott 21. § (4) bekezdésében foglaltaknak legkésőbb 2013. április 30-ig kell eleget tenni.
 
-52/A. §
+#### 52/A. §
 
 ### Hatálybalépés
 

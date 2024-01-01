@@ -160,7 +160,22 @@ helyezhető el.
 
 szabályokat.
 
+(5) Azt a reklámhordozót, valamint reklámhordozót tartó berendezést (a továbbiakban együtt: reklámeszköz), amelynek elhelyezése településkép-védelmi szempontból szabályos – így különösen, ha a reklámeszköz a lefolytatott településképi bejelentési eljárás alapján elhelyezhető –, a Nemzeti Média- és Hírközlési Hatóság a reklámeszköz tulajdonosának kérelmére, az e törvény felhatalmazása alapján kiadott rendeletben meghatározottak szerint bejegyzi az általa vezetett országos reklámkataszterbe. Nem helyezhető el reklám olyan reklámeszközön, amely az országos reklámkataszterben nem szerepel.
+
+(6) Az országos reklámkataszter – a reklámeszközök és az azokon történő reklámelhelyezések jelentette vizuális környezetterhelés országos léptékű nyomonkövethetősége, valamint az egyes reklámeszköz-típusokra vonatkozó, rendeletben foglalt követelmények egységes szempontok alapján történő érvényre juttatása céljából – a következő adatokat és nyilatkozatokat tartja nyilván:
+
+- a) a reklámeszköz típusa,
+- b) a reklámeszköz tulajdonosának
+  - ba) természetes személyazonosító adatai, lakcíme és adóazonosító jele,
+  - bb) gazdálkodó szervezet tulajdonos esetében annak adószáma,
+- c) a reklámeszköz elhelyezésére szolgáló ingatlan címe,
+- d) a reklámeszköz – Nemzeti Média- és Hírközlési Hatóság elnökének rendeletében meghatározott – pontos elhelyezkedésére vonatkozó adatok,
+- e) a reklámeszköz létesítésének vagy elhelyezésének időpontja,
+- f) a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletében foglalt további – személyes adatnak nem minősülő – adatok és nyilatkozatok.
+
 11/B. § (1) A település közigazgatási területéhez tartozó – az 1. mellékletben meghatározott – fokozott védelem alatt álló területen lévő közterületen és magánterületen reklámhordozó és reklám – jogszabályban meghatározott kivétellel – nem helyezhető el. Az 1. melléklet 1. és 6. pontjában meghatározott közterületen és magánterületen a jogszabályban meghatározott, az adott terület fokozott védelmi besorolása szerinti jelleget nem befolyásoló funkcionális célokat szolgáló utcabútor elhelyezhető.
+
+(1a) A településképi rendelet nem tartalmazhat olyan rendelkezést, amely az utcabútorok – ideértve a funkcionális célokat szolgáló utcabútorokat is – létesítését vagy telepítését, az utcabútor reklámhordozóként, reklámhordozót tartó berendezésként történő használatát, illetve az utcabútoron reklám közzétételét az (1) bekezdésben foglaltaknál, valamint a településkép védelméről szóló törvény reklámok közzétételével kapcsolatos rendelkezéseinek végrehajtásáról szóló rendeletnek a közterületekre és köztulajdonban álló ingatlanokra vonatkozó előírásainál nagyobb mértékben tiltja vagy korlátozza.
 
 (2) Az 1. mellékletben meghatározott területen kívül reklámhordozó közterületi és magánterületi elhelyezésére vonatkozó szerződés legfeljebb tizenöt évre köthető.
 
@@ -250,6 +265,9 @@ szabályokat.
 - j) a településképi szempontból kiemelten meghatározó területre vonatkozó országos jelentőségű településképi követelményeket, továbbá a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket, a létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit,
 - k) az országos jelentőségű településképi követelmények érvényesülése érdekében alkalmazandó országos településkép-érvényesítési eszközöket, az egyes eszközök alkalmazásának eseteit, módját, részletes szabályait, a vonatkozó eljárások szabályait, beleértve az eljárásokban vizsgálandó településképi szempontokat és az eljárások alóli mentesség feltételeit, a támogatási és ösztönző rendszer alkalmazását, továbbá az országos településkép-érvényesítési eszközök alkalmazására hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket,
 - l) az országos jelentőségű településképi követelmények érvényesülése érdekében kiszabható településkép-védelmi bírság mértéke megállapításának szempontrendszerét és a bírság megfizetési módjának részletszabályait.
+- m) az országos reklámkataszter adattartalmának felhasználásával kapcsolatos szabályokat.
+
+(1a) Felhatalmazást kap a Nemzeti Média- és Hírközlési Hatóság elnöke, hogy az országos reklámkataszter vezetésével kapcsolatban az üzemeltetéssel és a nyilvántartással összefüggő részletes anyagi és eljárási szabályokat, valamint a nyilvántartás vezetésével és üzemeltetéssel összefüggő díjakat rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló terület kivételével – a településképi rendeletben állapítsa meg
 
@@ -260,7 +278,7 @@ szabályokat.
 - e) azon – jogszabályban építésügyi hatósági engedélyhez és az Étv. 33/A. § szerint egyszerű bejelentéshez nem kötött – építési tevékenységek, az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások és a reklámelhelyezések körét, amelyek megkezdését településképi bejelentési eljáráshoz köti,
 - f) a településképi kötelezettség megszegése és végrehajtása esetén alkalmazható bírság esetköreit, a törvény keretei közötti mértékét, kiszabásának és behajtásának módját,
 - g) a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket,
-- h) a helyi önkormányzat illetékességi területén létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit.
+- h) a helyi önkormányzat illetékességi területén létesíthető reklámhordozók megjelenésének különös formai (műszaki) követelményeit.
 
 (3) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait.
 
@@ -289,9 +307,9 @@ szabályokat.
 
 (2) E törvénynek a Módtv. által megállapított rendelkezéseit a Módtv. és a végrehajtására kiadott kormányrendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2023. december 31. napjáig használható reklám közzététele céljából.
+(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2025. június 30, napjáig használható reklám közzététele céljából.
 
-(4) A (3) bekezdés szerinti reklámhordozó használatára vonatkozó, határozott időre szóló szerződés időbeli hatálya legfeljebb 2023. december 31. napjáig hosszabbítható meg vagy hosszabbodhat meg, és az érintett reklámhordozó használatára új szerződés legfeljebb 2023. december 31. napjáig köthető, kivéve, ha a reklámhordozót a 2. § (2a) bekezdése szerinti jogszabályok, továbbá e törvény és a végrehajtására kiadott rendeletek követelményei szerint, településképi bejelentési eljárás alapján átalakították.
+(4) A (3) bekezdés szerinti reklámhordozó használatára vonatkozó, határozott időre szóló szerződés időbeli hatálya legfeljebb 2025. június 30, napjáig hosszabbítható meg vagy hosszabbodhat meg, és az érintett reklámhordozó használatára új szerződés legfeljebb 2025. június 30, napjáig köthető, kivéve, ha a reklámhordozót a 2. § (2a) bekezdése szerinti jogszabályok, továbbá e törvény és a végrehajtására kiadott rendeletek követelményei szerint, településképi bejelentési eljárás alapján átalakították.
 
 (5) A (4) bekezdésben foglalt meghosszabbodás azokra a határozott időre szóló szerződésekre vonatkozik, amelyekben a felek előzetesen úgy állapodtak meg, hogy az időbeli hatály
 
@@ -308,9 +326,9 @@ szabályokat.
 
 15/B. § (1) E törvénynek a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit a Módtv.2. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2) 2023. december 31. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2023. december 31. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
+(2) 2025. június 30. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2025. június 30. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
 
-(3) A (2) bekezdés szerinti, határozott időre szóló reklám rendszergazdai szerződés időbeli hatálya legfeljebb 2023. december 31. napjáig hosszabbítható meg vagy hosszabbodhat meg, és az érintett rendszergazdai tevékenységre új szerződés legfeljebb 2023. december 31. napjáig köthető.
+(3) A (2) bekezdés szerinti, határozott időre szóló reklám rendszergazdai szerződés időbeli hatálya legfeljebb 2025. június 30. napjáig hosszabbítható meg vagy hosszabbodhat meg, és az érintett rendszergazdai tevékenységre új szerződés legfeljebb 2025. június 30. napjáig köthető.
 
 (4) A (3) bekezdésben foglalt meghosszabbodás azokra a határozott időre szóló szerződésekre vonatkozik, amelyekben a felek előzetesen úgy állapodtak meg, hogy az időbeli hatály
 
@@ -343,11 +361,15 @@ bizonyos időtartammal, egy vagy több alkalommal automatikusan meghosszabbodik.
 
 (2) A 8. § (2) bekezdése szerinti hatáskör-módosításról a képviselőtestület 2021. október 31-ig gondoskodik.
 
+16/D. § Azt a reklámeszközt, amelynek elhelyezésére e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2023. évi CVII. törvénnyel (a továbbiakban: Módtv.4.) megállapított 11/A. § (5) bekezdésének hatálybalépését megelőzően szabályszerűen került sor, a tulajdonosnak 2024. február 1-jéig be kell jelentenie a Nemzeti Média- és Hírközlési Hatósághoz az országos reklámkataszterbe történő bejegyzés érdekében. A bejelentés kizárólag elektronikus úton tehető meg. Az e § szerinti reklámeszközre a 11/A. § (5) bekezdésében meghatározott reklám-elhelyezési tilalom 2024. július 1-jéig nem alkalmazható.
+
+16/E. § A helyi önkormányzat képviselő-testülete (közgyűlése) a településképi rendeletének az e törvény Módtv.4.-gyel megállapított 11/B. § (1a) bekezdése, valamint a Módtv.4.-gyel módosított 12. § (2) bekezdés h) pontjának való megfelelését 2024. január 31-ig köteles biztosítani.
+
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 18. § (1) Az állam, a helyi önkormányzat, költségvetési szerv és e szervezetek együtt, vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezetek – a (2) bekezdésben meghatározott kivétellel – kizárólag olyan reklámhordozón helyezhetnek vagy helyeztethetnek el reklámot, amely megfelel az e törvény – Módtv. által megállapított – és a végrehajtására kiadott jogszabályok rendelkezéseinek.
 
-(2) Az (1) bekezdésben meghatározott szervezetek által elhelyezett vagy elhelyeztetett reklám esetében az e törvényben, valamint a végrehajtására kiadott jogszabályokban meghatározott, a reklám, a reklámhordozó méretére, a reklámhordozót tartó berendezésre, valamint az elhelyezés technológiájára vonatkozó szabályoktól 2023. december 31-ig el lehet térni.
+(2) Az (1) bekezdésben meghatározott szervezetek által elhelyezett vagy elhelyeztetett reklám esetében az e törvényben, valamint a végrehajtására kiadott jogszabályokban meghatározott, a reklám, a reklámhordozó méretére, a reklámhordozót tartó berendezésre, valamint az elhelyezés technológiájára vonatkozó szabályoktól 2025. június 30-ig el lehet térni.
 
 ### 1. melléklet a 2016. évi LXXIV. törvényhez
 

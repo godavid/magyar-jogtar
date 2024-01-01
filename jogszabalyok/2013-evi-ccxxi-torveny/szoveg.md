@@ -248,7 +248,7 @@ a szerződés alapján megtett hitelbiztosítéki nyilatkozatot, illetve az anna
 
 kell igazolnia.
 
-(3) Ha a cégjegyzékbe bejegyzett szervezet a (2) bekezdés a) pontjában meghatározott okiratot a kérelemhez nem csatolja, a közjegyző a cégmásolatot a cégnyilvántartásból elektronikus úton szerzi be.
+(3) Ha a cégjegyzékbe bejegyzett szervezet a (2) bekezdés a) pontjában meghatározott okiratot, illetve a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet a (2) bekezdés b) pontjában meghatározott okiratot a kérelemhez nem csatolja, a közjegyző a cégmásolatot a cégnyilvántartásból, illetve a jogutódlást tanúsító okirat másolatát a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásából elektronikus úton szerzi be.
 
 (4) Ha az (1) bekezdés szerinti elektronikus adatlapon továbbított adatok megegyeznek a csatolt iratokban szereplő adatokkal, és eleget tesznek a hitelbiztosítéki rendszer további alakszerűségi követelményeinek, valamint a kérelmező a díjat megfizette, a közjegyző az adatokat a hitelbiztosítéki nyilatkozat rögzítésére vonatkozó szabályok szerint rögzíti a hitelbiztosítéki rendszerben és a jogutódként rögzített személy számára hozzáférési jogosultságot biztosít a zálogjogosult vagy zálogkötelezett hitelbiztosítéki rendszerben tárolt nyilatkozataihoz, illetve bejegyzéseihez. A közjegyző a hozzáférési jogosultság megadásával egyidejűleg a zálogjogosult vagy zálogkötelezett állandó képviselője képviseleti jogosultságára vonatkozó nyilvántartási adatot törli.
 

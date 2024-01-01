@@ -28,7 +28,7 @@ a következő törvényt alkotja:
 
 #### 1. A törvény hatálya
 
-1. § (1) E törvény hatálya a Magyarországon, közfinanszírozású támogatásból megvalósuló kutatás-fejlesztésre és innovációra, valamint az ezekhez kapcsolódóan Magyarországon nyújtott szolgáltatásokra terjed ki.
+1. § (1) E törvény hatálya a Magyarországon közfinanszírozású támogatásból megvalósuló kutatás-fejlesztésre és innovációra, az innovációs ökoszisztéma fejlesztésére, valamint az ezekhez kapcsolódóan Magyarországon nyújtott szolgáltatásokra terjed ki.
 
 (2) E törvény hatálya kiterjed továbbá
 
@@ -115,9 +115,9 @@ a következő törvényt alkotja:
 
 (3) A Kormány a kutatás-fejlesztés és innováció közfinanszírozású támogatását elsődlegesen a Nemzeti Kutatási, Fejlesztési és Innovációs Alapból (a továbbiakban: NKFI Alap) biztosítja. A Kormány által az NKFI Alapból központilag biztosított személyi jellegű kutatói pályázatok nem foglalják magukban a felsőoktatási intézmények doktori iskoláiban doktori képzésben részt vevők állami ösztöndíját.
 
-5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és a Magyar Kutatási Hálózat Titkárságának (a továbbiakban: MKH Titkárság) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
+5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és a Magyar Kutatási Hálózat (a továbbiakban: HUN-REN) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
 
-(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és az MKH Titkárság elnöke feladatkörükben együttműködve
+(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve
 
 - a) irányítják, felügyelik az általuk irányított fejezetbe sorolt költségvetési kutatóhelyeket,
 - b) gondoskodnak az általuk irányított fejezetbe sorolt előirányzatok terhére támogatott kutatás-fejlesztési és innovációs programok értékeléséről,
@@ -125,7 +125,7 @@ a következő törvényt alkotja:
 - d) elősegítik a kutatás-fejlesztési és innovációs eredmények hasznosítását, kutatás-fejlesztési célú szakmai együttműködések és innovációs hálózatok kialakítását, működését,
 - e) a szakterületükre irányuló támogatott kutatás-fejlesztési és innovációs programok tekintetében részt vesznek a tartalmi követelmények, a támogatási feltételek és az értékelési mutatók meghatározásában.
 
-(3) A miniszterek, az MTA elnöke és az MKH Titkárság elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
+(3) A miniszterek, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
 
 6. § (1) A Kormány – a Magyar Formatervezési Tanács útján – elősegíti a hazai formatervezési kultúra fejlesztését, valamint a formatervező alkotók helyzetének javítását. A Magyar Formatervezési Tanácsot a Kormány által kijelölt szerv működteti.
 
@@ -153,7 +153,7 @@ a következő törvényt alkotja:
 
 10/A. § (1) A Nemzeti Tudománypolitikai Tanács (a továbbiakban: NTT) az NKFI Alap működésének szakmai felügyeletében közreműködő és a Kormány kutatás-fejlesztési és innovációs tevékenységét támogató véleményező testület.
 
-(2) Az NTT 12 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT társelnökét és további tagjait – az elnök javaslatára – a miniszterelnök kéri fel, nevezi ki és vonja vissza kinevezésüket. A kinevezés három évre szól és több alkalommal meghosszabbítható. A kinevezett tagokat a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül kell kiválasztani a következők szerint: három tagot a gazdasági szféra, négy tagot a tudományos szféra és három tagot az állami szféra szereplői közül, egy tagot pedig a Magyar Kutatási Hálózat (a továbbiakban: MKH) tagjai közül kell kinevezni.
+(2) Az NTT 12 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT társelnökét és további tagjait – az elnök javaslatára – a miniszterelnök kéri fel, nevezi ki és vonja vissza kinevezésüket. A kinevezés három évre szól és több alkalommal meghosszabbítható. A kinevezett tagokat a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül kell kiválasztani a következők szerint: három tagot a gazdasági szféra, négy tagot a tudományos szféra és három tagot az állami szféra szereplői közül, egy tagot pedig a HUN-REN tagjai közül kell kinevezni.
 
 10/B. § Az NTT
 
@@ -167,6 +167,32 @@ a következő törvényt alkotja:
 #### 6/B. A Nemzeti Tudománypolitikai Tanács működése
 
 10/C. § Az NTT működésével kapcsolatos titkársági feladatokat a Kormány által kijelölt szerv látja el tudománypolitika koordinációjáért felelős miniszter szakmai felügyelete mellett.
+
+### III/B. Fejezet — A KUTATÁSI KIVÁLÓSÁGI TANÁCS
+
+#### 6/C. A Kutatási Kiválósági Tanács jogállása, feladatai, működése
+
+10/D. § (1) A Kutatási Kiválósági Tanács (a továbbiakban: KKT) a kiválósági alapú kutatási támogatási programokkal kapcsolatos feladatok ellátását végző döntés-előkészítő testület.
+
+(2) A KKT hét tagból áll. A KKT elnökére és tagjaira a tudománypolitika koordinációjáért felelős miniszter, a HUN-REN elnöke, valamint az MTA elnöke közös javaslatot tesz. A KKT elnökét és tagjait a tudománypolitika koordinációjáért felelős miniszter kéri fel, nevezi ki és vonja vissza a kinevezésüket. A kinevezés 6 évre szól és egy alkalommal meghosszabbítható. A KKT elnöke és tagjai tiszteletdíjra jogosultak, amelyet a tudománypolitika koordinációjáért felelős miniszter állapít meg.
+
+(3) A KKT munkáját titkárság segíti. A KKT működési költségeit, valamint az (1) bekezdés szerinti támogatási programok forrását önálló fejezeti kezelésű előirányzat biztosítja a 12. § (1) bekezdése szerinti bevételek terhére.
+
+(4) A KKT a munkájának segítése céljából testületeket hozhat létre.
+
+10/E. § A KKT feladatai:
+
+- a) kiválósági alapú kutatási támogatási programok feltételrendszerének kialakítása, valamint
+- b) kiválósági alapú kutatási támogatási programokkal kapcsolatos támogatói döntési javaslat előkészítése.
+
+10/F. § (1) A 10/D. § (1) bekezdése szerinti támogatási programok kiírása, közzététele, ellenőrzése és elbírálása a 25. §-ban meghatározottak szerint történik azzal, hogy
+
+- a) a pályázati kiírásról szóló döntést, valamint a végleges támogatói döntést a Kormány által kijelölt szerv vezetője hozza meg a KKT javaslata szerint,
+- b) az értékelő testületek és szakértői csoportok vezetőit a Kormány által kijelölt szerv vezetője a KKT egyetértésével kéri fel,
+- c) a 25. § (4) bekezdése szerinti eljárásrendet a Kormány által kijelölt szerv vezetője a KKT egyetértésével hagyja jóvá, és
+- d) a 25. § (5) bekezdése szerinti díjazás feltételeit és összegét a Kormány által kijelölt szerv vezetője a KKT egyetértésével állapítja meg.
+
+(2) A 10/D. § (1) bekezdése szerinti támogatási programok tekintetében a 23. § szerinti nyilvántartás feladatait a Kormány által kijelölt szerv végzi azzal, hogy a KKT is jogosult a 23. § (4) bekezdése szerinti személyes adatok kezelésére.
 
 ### IV. Fejezet — A NEMZETI KUTATÁSI, FEJLESZTÉSI ÉS INNOVÁCIÓS ALAP
 
@@ -479,7 +505,7 @@ nyújtható.
 
 #### 13. A szellemi alkotásokhoz fűződő jogok védelme, a szellemi alkotások hasznosításának támogatása
 
-30. § A költségvetési kutatóhelynek minősülő központi költségvetési szervre, továbbá az állami tulajdonban lévő közhasznú nonprofit gazdasági társasági formában működő kutatóhelyre jogszabály erejénél fogva átszálló, illetve az általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotásokhoz fűződő jogok, valamint a szellemi alkotás hasznosítására létrejövő, a 34. § szerinti hasznosító vállalkozás részesedése – az állami vagyonról szóló 2007. évi CVI. törvény 2. § (2) bekezdésétől eltérően – az adott, kutatóhelynek minősülő központi költségvetési szervet, illetve közhasznú nonprofit gazdasági társaságot illetik.
+30. § A költségvetési kutatóhelynek minősülő központi költségvetési szervre, a HUN-REN Központra, továbbá az állami tulajdonban lévő közhasznú nonprofit gazdasági társasági formában működő kutatóhelyre jogszabály alapján átszálló, illetve az általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotásokhoz fűződő jogok, valamint a szellemi alkotás hasznosítására létrejövő, a 34. § szerinti hasznosító vállalkozás részesedése – az állami vagyonról szóló 2007. évi CVI. törvény 2. § (2) bekezdésétől eltérően – az adott, kutatóhelynek minősülő központi költségvetési szerv, a HUN-REN Központ, illetve közhasznú nonprofit gazdasági társaság tulajdonába kerülnek.
 
 31. § (1) A közfinanszírozású kutatás-fejlesztési támogatással megvalósított projekt kedvezményezettje gondoskodik arról, hogy a projekt keretében létrejött szellemi alkotással kapcsolatos, a jogszabály adta keretek közötti lehető legteljesebb jogosultságok a kedvezményezettre szálljanak át oly módon, hogy ez lehetővé tegye a projekt eredményének a (2) bekezdéssel összhangban történő átengedését is. Ha a projekt megvalósításában többen működnek közre, úgy köztük az ilyen módon átszállt szellemi alkotással kapcsolatos jogokban való részesedés arányát polgári jogi szerződésben kell rögzíteni.
 
@@ -517,7 +543,7 @@ nyújtható.
 
 (3) A költségvetési kutatóhely – a (4) bekezdésben foglalt kivétellel –, valamint a felsőoktatási intézmény évente, a tárgyévet követő év március 31. napjáig beszámolót készít a tudománypolitika koordinációjáért felelős miniszter részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
 
-(4) Az MKH-hoz tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
+(4) A HUN-REN-hez tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
 
 (5) A Központi Statisztikai Hivatal a tárgyév vonatkozásában, a tárgyévet követő év június 30. napjáig átadja a Kormány által kijelölt szerv részére a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatos elemi adatokat.
 
@@ -580,94 +606,96 @@ a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 
 (4) Ha az (1) és a (2) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv nem rendelkezik, akkor a megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
 
-### VI/A. Fejezet — A MAGYAR KUTATÁSI HÁLÓZAT
+### VI/A. Fejezet — A HUN-REN
 
-#### 13/A. A Magyar Kutatási Hálózat szervezete
+#### 13/A. A Magyar Kutatási Hálózat (HUN-REN) szervezete
 
-42/A. § Az MKH az MKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
+42/A. § A HUN-REN a HUN-REN Központból, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
 
-#### 13/B. A Magyar Kutatási Hálózat Titkársága
+#### 13/B. A HUN-REN Központ
 
-42/B. § (1) Az MKH Titkárság gazdasági szervezettel rendelkező központi költségvetési szerv, mely az MKH tagjaként központi költségvetési szerv formában működtetett kutatóhelyekkel a központi költségvetésről szóló törvényben önálló költségvetési fejezetet képez. Az MKH Titkárság tudományos kutatások folytatása céljából a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn.
+42/B. § (1) A HUN-REN Központ gazdasági szervezettel rendelkező központi költségvetési szerv, mely a HUN-REN tagjaként központi költségvetési szerv formában működtetett kutatóhelyekkel a központi költségvetésről szóló törvényben önálló költségvetési fejezetet képez. A HUN-REN Központ tudományos kutatások folytatása céljából a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn.
 
-(2) Az MKH Titkárság gyakorolja a 42/A. § szerint általa működtetett központi költségvetési szervként működő kutatóhelyek felett az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-a szerinti irányítási hatásköröket, valamint a gazdasági társaságként működő kutatóhelyeknek a tulajdonosi joggyakorlót megillető jogait, és ellátja a kutatóhelyek igazgatási és ellenőrzési feladatait.
+(2) A HUN-REN Központ gyakorolja a 42/A. § szerint általa működtetett központi költségvetési szervként működő kutatóhelyek felett az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-a szerinti irányítási hatásköröket, valamint a gazdasági társaságként működő kutatóhelyeknek a tulajdonosi joggyakorlót megillető jogait, és ellátja a kutatóhelyek igazgatási és ellenőrzési feladatait.
 
-(3) Az MKH Titkárság közfeladata a jelen fejezetben meghatározott intézményesített keretek között folytatott kutatások intézményrendszerének fenntartása, működtetése.
+(3) A HUN-REN Központ közfeladata a jelen fejezetben meghatározott intézményesített keretek között folytatott kutatások intézményrendszerének fenntartása, működtetése.
 
-(4) Az MKH Titkárság – megállapodás útján – a (3) bekezdésben meghatározott közfeladat ellátásában más szervezet részvételét is biztosíthatja.
+(4) A HUN-REN Központ – megállapodás útján – a (3) bekezdésben meghatározott közfeladat ellátásában más szervezet részvételét is biztosíthatja.
 
-(5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit az MKH Titkárság – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
+(5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit a HUN-REN Központ – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
 
-(6) A Kormány MKH-val és az MKH Titkársággal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
+(6) A Kormány HUN-REN-nel és a HUN-REN Központtal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
 
-(7) Az MKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, valamint a kutatóhelyeket érintő jogszabályok megalkotása és módosítása során.
+(7) A HUN-REN Központ feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, valamint a kutatóhelyeket érintő jogszabályok megalkotása és módosítása során.
 
-#### 13/C. Az MKH Titkárság szervezete
+#### 13/C. A HUN-REN Központ szervezete
 
-42/C. § (1) Az MKH Titkárság fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
+42/C. § (1) A HUN-REN Központ fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
 
 (2) Az Irányító Testület kilenc főből áll.
 
-(2a) Az Irányító Testület és az MKH Titkárság vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki és vonja vissza kinevezését. Az Irányító Testület elnöke a „Magyar Kutatási Hálózat elnöke” cím használatára jogosult.
+(2a) Az Irányító Testület és a HUN-REN Központ vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki és vonja vissza kinevezését. Az Irányító Testület elnöke a „HUN-REN elnöke” cím használatára jogosult.
 
-(2b) Az Irányító Testület elnökön felüli nyolc tagjának kinevezésére a tudománypolitika koordinációjáért felelős miniszter az MTA elnökével közösen és az MKH elnökének egyetértésével tesz javaslatot, azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerül kiválasztásra.
+(2b) Az Irányító Testület elnökön felüli nyolc tagjának kinevezésére a tudománypolitika koordinációjáért felelős miniszter az MTA elnökével közösen és a HUN-REN elnökének egyetértésével tesz javaslatot, azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerül kiválasztásra.
 
-(2c) A javaslattétel során figyelemmel kell lenni arra, hogy a (2b) bekezdés szerinti nyolc főből legalább két fő a 42/A. § szerinti kutatóközpontok és kutatóintézetek vezetői vagy munkavállalói közül kerüljön kiválasztásra.
+(2c) Az Irányító Testületnek nem lehet tagja a 42/A. § szerinti kutatóközpont, kutatóintézet vagy a kutatóközpont szervezeti egységeként működő kutatóintézet vezetője.
 
 (2d) Az Irányító Testület tagjait a tudománypolitika koordinációjáért felelős miniszter nevezi ki és vonja vissza kinevezésüket. Az Irányító Testület tagjai tiszteletdíjra jogosultak.
 
 (3) Az Irányító Testület
 
 - 1.
-- 2. elfogadja az MKH működésével kapcsolatos stratégiai elveket;
+- 2. elfogadja a HUN-REN működésével kapcsolatos stratégiai elveket;
 - 3. dönt a kutatóhelyek megalapításáról, átszervezéséről, megszüntetéséről;
 - 4. jóváhagyja a kutatóhelyek céljait, feladatait, elfogadja alapító okiratukat;
-- 5. meghatározza a kutatóhelyek vezetői munkaköre betöltését szolgáló nyilvános pályázati felhívás tartalmát és megválasztja a kutatóhelyek vezetőit;
-- 6. dönt az MKH Titkárság, valamint a kutatóhelyek szervezeti és működési szabályairól;
-- 7. elfogadja az MKH vagyongazdálkodásával kapcsolatos szabályokat;
-- 8. előzetesen jóváhagyja az MKH Titkárság szervezeti és működési szabályzatában meghatározott értékhatárt meghaladó kötelezettségvállalását;
+- 5.
+- 6. dönt a HUN-REN Központ, valamint a kutatóhelyek szervezeti és működési szabályairól;
+- 7. elfogadja a HUN-REN vagyongazdálkodásával kapcsolatos szabályokat;
+- 8. előzetesen jóváhagyja a HUN-REN Központ szervezeti és működési szabályzatában meghatározott értékhatárt meghaladó kötelezettségvállalását;
 - 9. meghatározza a kutatóhelyek támogatásának szempontjait;
-- 10. jóváhagyja az MKH Titkárság és a kutatóhelyek következő évi költségvetésének irányelveit és elfogadja az MKH Titkárság és a kutatóhelyek következő évi költségvetésének kereteit;
+- 10. jóváhagyja a HUN-REN Központ és a kutatóhelyek következő évi költségvetésének irányelveit és elfogadja a HUN-REN Központ és a kutatóhelyek következő évi költségvetésének kereteit;
 - 11. értékeli a kutatóhelyek tevékenységét szolgáló támogatások felhasználását;
-- 12. jóváhagyja az MKH Titkárság és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
-- 13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolót;
+- 12. jóváhagyja a HUN-REN Központ és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
+- 13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolók koncepcióját;
 - 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
 - 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
 - 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
 
-(4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2., 3., 5., és 10. pontja szerinti döntésekhez.
+(4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2. és 10. pontja szerinti döntésekhez.
 
 42/D. § (1)
 
-(2) Az MKH Titkárság tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
+(2) A HUN-REN Központ tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
 
 (3) Az elnök
 
-- a) az MKH mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
-- b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol az MKH működésének eredményeiről;
-- c) az MKH Titkárság vagyona tekintetében gyakorolja a tulajdonosi jogokat;
-- d) képviseli az MKH Titkárságot;
+- a) a HUN-REN mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
+- b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol a HUN-REN működésének eredményeiről;
+- c) a HUN-REN Központ vagyona tekintetében gyakorolja a tulajdonosi jogokat;
+- d) képviseli a HUN-REN Központot;
 - e) munkáltatói jogot gyakorol
-  - ea) a főtitkár,
-  - eb) a főtitkárhelyettes
+  - ea) a vezérigazgató,
+  - eb)
   - ec) a kutatóhelyek vezetői
 
 felett;
 
-- f) a főtitkár útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról,
+- f) a vezérigazgató útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról,
 - g) ellátja az alapító okirat által hatáskörébe utalt további feladatokat.
-- h) meghatározza a főtitkári és a főtitkárhelyettesi munkakör betöltését szolgáló nyilvános pályázati felhívás tartalmát; a nyilvános pályázati eljárás eredményére tekintettel kinevezi a főtitkárt és a főtitkárhelyettest;
-- i) dönt az MKH Titkárság szabályzatairól.
+- h)
+- i) dönt a HUN-REN Központ szabályzatairól.
+- j) az igazgatási tevékenység ellátására valamennyi kutatóhelyre kiterjedő komplex szervezet- és vállalatirányítási rendszert működtet; valamint
+- k) a kutatóhelyeken végzett kutatások hatékonyságmérése és -fejlesztése, a kutatási tevékenység minőségbiztosítása, a szolgáltató jelleg erősítése és átláthatóságának biztosítása céljából kutatási adatbázist hoz létre, amelynek részeként a kutatási adatokat – beleértve a kutatóhelyeken foglalkoztatottak személyes adatait – tartalmazó kutatási nyilvántartást vezet.
 
-(4) Az elnököt – akadályoztatása esetén – a főtitkár helyettesíti, egyebekben az elnök a (3) bekezdés c)–e) pontjában foglalt jogköreit vagy azok meghatározott részét a főtitkárra ruházhatja, aki ezt a jogát nem ruházhatja át.
+(4) Az elnököt – akadályoztatása esetén – a vezérigazgató helyettesíti, egyebekben az elnök a (3) bekezdés c) és d) pontjában, e) pont ec) alpontjában, valamint j) és k) pontjában foglalt jogköreit vagy azok meghatározott részét a vezérigazgatóra ruházhatja, aki ezt a jogát nem ruházhatja át.
 
 42/E. § Az Irányító Testület és az elnök munkájuk segítése céljából testületeket hozhatnak létre, amelyek tagjai részére tiszteletdíj adható. A tiszteletdíjat a testületet létrehozó elnök vagy az Irányító Testület állapítja meg.
 
 #### 42/F. §
 
-42/G. § (1) A főtitkár az MKH Titkárság igazgatási vezetője, ezáltal közvetetten ellátja a kutatóhálózat adminisztratív irányítását. A főtitkár ellátja továbbá az alapító okiratban, a szervezeti és működési szabályzatban foglalt feladatokat, és eljár azokban az ügyekben, melyekben átruházott jogkört gyakorol.
+42/G. § (1) A vezérigazgató a HUN-REN Központ igazgatási vezetője, ezáltal közvetetten ellátja a kutatóhálózat adminisztratív irányítását. A vezérigazgató ellátja továbbá az alapító okiratban, a szervezeti és működési szabályzatban foglalt feladatokat, és eljár azokban az ügyekben, melyekben átruházott jogkört gyakorol.
 
-(2) A főtitkár a „Magyar Kutatási Hálózat főtitkára” cím használatára jogosult.
+(2) A vezérigazgató a „HUN-REN vezérigazgatója” cím használatára jogosult.
 
 #### 13/D. Kutatóhálózat
 
@@ -697,15 +725,46 @@ felett;
 
 #### 13/E. Foglalkoztatási szabályok
 
-42/I. § (1) Az elnök, a főtitkár és főtitkárhelyettes, valamint az Irányító Testület tagjainak megbízatása legfeljebb hat évre szól. Az elnöki és főtitkári tisztségre ugyanaz a személy egy alkalommal, legfeljebb hat évre újraválasztható.
+42/I. § (1) Az elnök, a vezérigazgató, valamint az Irányító Testület tagjainak megbízatása legfeljebb hat évre szól. Az elnöki és vezérigazgatói tisztségre ugyanaz a személy egy alkalommal, legfeljebb hat évre újraválasztható.
 
-(2) Az elnök és a főtitkár a tevékenységéért az Irányító Testületnek felel.
+(2) Az elnök és a vezérigazgató a tevékenységéért az Irányító Testületnek felel.
 
-(3) Az MKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
+(3) A HUN-REN Központnál foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
 
 (4) A kutatóhelyeknél foglalkoztatottak jogviszonyára az Mt. rendelkezéseit kell alkalmazni.
 
 (5)
+
+### VI/B. Fejezet — INNOVÁCIÓS ÖKOSZISZTÉMA FEJLESZTÉSÉVEL ÖSSZEFÜGGŐ RENDELKEZÉSEK
+
+#### 13/F. Az innovációs ökoszisztéma fejlesztést elősegítő finanszírozás speciális jogi eszközeivel kapcsolatos nyilvántartás
+
+42/J. § (1) A Kkv. tv. 9/A. §-a alapján a tőkévé konvertálható kölcsönt nyújtó hitelezőnek a Kkv. tv. 9/A. § (7) bekezdése szerinti bejelentési kötelezettségét a Kormány által kijelölt szerv részére, a (2) bekezdés szerinti adattartalommal, az erre a célra létrehozott elektronikus felületen kell teljesítenie.
+
+(2) Az (1) bekezdés szerinti bejelentés tartalmazza
+
+- a) a tőkévé konvertálható kölcsönt nyújtó természetes személy hitelező esetén a hitelező természetes személy
+  - aa) családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) állampolgárságát,
+  - ad) születési helyét és idejét,
+  - ae) lakcímét, ennek hiányában tartózkodási helyét,
+- b) a tőkévé konvertálható kölcsönt nyújtó jogi személy hitelező esetén a hitelező jogi személy
+  - ba) cégnevét,
+  - bb) cégjegyzékszámát vagy nyilvántartási számát,
+- c) a tőkévé konvertálható kölcsönt igénybe vevő induló vállalkozás
+  - ca) cégnevét,
+  - cb) cégjegyzékszámát,
+- d) a tőkévé konvertálható kölcsön nyújtására irányuló szerződés szerinti kölcsönösszeget forintban kifejezve,
+- e) a bejelentés időpontját.
+
+(3) A Kormány által kijelölt szerv az (1) bekezdés szerinti bejelentésekről – az innovációs ökoszisztéma fejlesztése céljából – a (2) bekezdés szerinti adattartalommal nyilvántartást vezet.
+
+(4) A tudománypolitika koordinációjáért felelős miniszter irányítási jogköre ellátásához szükséges mértékben jogosult megismerni a (2) bekezdés szerinti adatokat.
+
+(5) Az (1) bekezdés szerinti bejelentésekről vezetett nyilvántartás adatairól a Kormány által kijelölt szerv a pénzügyi közvetítőrendszer stabilitásának biztosítása céljából a Magyar Nemzeti Bank megkeresésére adatot szolgáltathat.
+
+(6) A Kormány által kijelölt szerv a (2) bekezdés szerinti adatokat tizenöt évig kezeli, ezt követően törli a nyilvántartásból.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -717,7 +776,7 @@ felett;
 - b) a programok és projektek értékelésének részletes szabályait, tartalmi követelményeit és rendszerét,
 - c) a hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásával kapcsolatos részletes rendelkezéseket,
 - d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket,
-- e)
+- e) a technológia transzfer tevékenységgel összefüggő részletes szabályokat,
 - f) a Magyar Formatervezési Tanács feladatainak, szervezetének és működésének részletes szabályait,
 - g) a kutatóhely költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait.
 
@@ -776,6 +835,8 @@ vonatkozó szabályait kell alkalmazni.
 47/B. § Az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvény (a továbbiakban: Mód2.tv.) hatálybalépését megelőzően kinevezett ELKH Irányító Testületi tagok megbízatása – az elnök kivételével – a Mód2.tv. hatálybalépését követő 15. napon megszűnik.
 
 47/C. § A Mód2.tv. hatálybalépését megelőzően a Szellemi Tulajdon Nemzeti Hivatalához benyújtott kutatás-fejlesztési tevékenység minősítésére irányuló kérelem alapján a Mód2.tv. hatálybalépésekor folyamatban lévő minősítési eljárásokat a Szellemi Tulajdon Nemzeti Hivatala folytatja le.
+
+47/D. § E törvénynek az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságának erősítéséhez szükséges egyes törvények, továbbá egyes felnőttképzési és kulturális tárgyú törvények módosításáról szóló 2023. évi LXXXV. törvénnyel megállapított 42/C. § (2c) bekezdésének hatálybalépését megelőzően kinevezett, a 42/A. § szerinti kutatóközpont, kutatóintézet vagy a kutatóközpont szervezeti egységeként működő kutatóintézet vezetőjének az Irányító Testületben betöltött tagsága 2024. január 1. napján megszűnik.
 
 #### 17. Módosító rendelkezések
 

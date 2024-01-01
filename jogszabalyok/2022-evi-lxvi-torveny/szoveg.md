@@ -79,7 +79,7 @@ törlése iránti eljárás.
 
 5. § Földrajzi árujelző oltalmának megszerzése iránti kérelem esetén a kérelmezőnek be kell szereznie a földmérési és térinformatikai államigazgatási szerv által készített, a termékleírásban meghatározott földrajzi területet ábrázoló térképet, amely borászati termék esetében tartalmazza – amennyiben szükséges – a földrajzi árujelző termékleírásában meghatározott, termőhelyen belül elhelyezkedő kisebb földrajzi egységek nevét és lehatárolását is.
 
-6. § (1) A miniszter az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek megfelelő, agrártermék földrajzi árujelzője és borászati termék hagyományos kifejezése oltalmának megszerzése, valamint hagyományos különleges termék elnevezés bejegyzése (a továbbiakban együtt: oltalom megszerzése) iránti kérelmet az általa vezetett minisztérium hivatalos lapjában közzéteszi.
+6. § (1) A miniszter az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek megfelelő, agrártermék földrajzi árujelzője oltalmának megszerzése, valamint hagyományos különleges termék elnevezés bejegyzése (a továbbiakban együtt: oltalom megszerzése) iránti kérelem esetében az általa vezetett minisztérium hivatalos lapjában közzéteszi a kérelmező nevét és címét, a termékleírást és földrajzi árujelző oltalom megszerzése esetén az egységes dokumentumot.
 
 (2) A kérelemmel szemben a közzétételtől számított 2 hónapon belül kifogást vagy felszólalást (a továbbiakban együtt: felszólalás) nyújthat be bármely, Magyarország területén lakóhellyel rendelkező természetes személy, valamint székhellyel vagy telephellyel rendelkező jogi személy.
 
@@ -93,7 +93,7 @@ törlése iránti eljárás.
 - a) meg kell jelölni az okozott sérelem indokait, szükség esetén alátámasztva azt gazdasági számításokkal, valamint
 - b) ha a felszólalás benyújtója jogszerűen foglalkozik a kérelemben szereplő elnevezéssel ellátott agrártermék előállításával, illetve forgalmazásával vagy jogszerűen használja a kérelemben szereplő elnevezést, meg kell adni azt az időpontot, amióta ez az állapot fennáll.
 
-(5) A miniszter felszólalás benyújtása esetén felhívja a kérelmezőt a felszólalásban foglaltaknak a felszólalást benyújtó féllel való egyeztetésére, az ehhez szükséges határidő tűzésével, valamint ezt követően az egyeztetés eredményének benyújtására. Az egyeztetésre és annak eredményéről való tájékoztatásra nyitva álló határidő 1 hónapnál kevesebb nem lehet.
+(5) A miniszter megvizsgálja a felszólalás elfogadhatóságát a (3) és (4) bekezdésben megállapított indokok alapján és elfogadható felszólalás benyújtása esetén felhívja a kérelmezőt a felszólalásban foglaltaknak a felszólalást benyújtó féllel való egyeztetésére, az ehhez szükséges határidő tűzésével, valamint ezt követően az egyeztetés eredményének benyújtására. Az egyeztetésre és annak eredményéről való tájékoztatásra nyitva álló határidő 1 hónapnál kevesebb nem lehet.
 
 (6) A miniszter az oltalom megszerzése iránti tagállami eljárásban az ügy érdemében hozott határozatában dönt a felszólalás elfogadhatóságáról.
 
@@ -105,7 +105,7 @@ törlése iránti eljárás.
 
 8. § (1) A földrajzi árujelző oltalmának megszerzése iránti kérelem Európai Bizottsághoz történő benyújtásának napjától az Európai Bizottság kérelmet elbíráló döntéséig vagy az oltalom iránti kérelem visszavonásáig a földrajzi árujelző átmeneti nemzeti oltalomban részesül.
 
-(2) A miniszter az átmeneti nemzeti oltalom keletkezésének napjáról írásban értesíti a kérelmezőt és a Szellemi Tulajdon Nemzeti Hivatalát.
+(2) A miniszter az átmeneti nemzeti oltalom keletkezésének napjáról írásban értesíti a kérelmezőt, az oltalom alatt álló elnevezéssel és az átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott agrártermékek ellenőrzését végző hatóságot (a továbbiakban: ellenőrzést végző hatóság), a Nemzeti Földügyi Központot és a Szellemi Tulajdon Nemzeti Hivatalát.
 
 (3) Az átmeneti nemzeti oltalom a 19. § (1) bekezdésében meghatározott cselekmények Magyarországon történő megvalósításával szemben nyújt védelmet.
 
@@ -125,7 +125,10 @@ törlése iránti eljárás.
 
 (4) Ha a (3) bekezdés szerinti esetben a termékleírás javasolt módosításaival az oltalmat kérelmező vagy jogutódja nem ért egyet, a miniszter 2 hónapos határidő tűzésével felszólítja a feleket a termékleírás felszólítással érintett módosításainak egyeztetésére. A miniszter a 6. § (1) bekezdésében foglaltak szerint a felek által lefolytatott egyeztetés eredményeként módosított kérelmet teszi közzé. A kérelem azon pontjai tekintetében, ahol nincs egyetértés a felek között, az eredeti kérelemben szereplő szöveg kerül közzétételre.
 
-(5) A miniszter a termékleírás uniós módosítása iránti eljárásban a kérelemnek helyt adó határozat véglegessé válását követően haladéktalanul továbbítja az e törvény végrehajtására kiadott kormányrendelet szerint összeállított módosítás iránti kérelmezési dokumentációt az Európai Bizottsághoz.
+(5) A miniszter a termékleírás módosítása iránti eljárásban a kérelemnek helyt adó határozat véglegessé válását követően haladéktalanul továbbítja az Európai Bizottságnak az e törvény végrehajtására kiadott kormányrendelet szerint összeállított
+
+- a) kérelmezési dokumentációt a termékleírás uniós módosítása esetén,
+- b) közleményt a termékleírás standard módosítása esetén.
 
 #### 5. Az oltalom alatt álló hagyományos kifejezés módosítása
 
@@ -156,7 +159,9 @@ akkor is benyújthatja, ha az (1) bekezdésben foglalt feltételek nem állnak f
 
 #### 7. Az Európai Bizottság által lefolytatott eljáráshoz kapcsolódó szabályok
 
-12. § Ha az Európai Bizottság észrevételeire figyelemmel a tagállami eljárás során elfogadott termékleírást a miniszternek ismételten közzé kell tennie, a Magyarország területén lakóhellyel rendelkező természetes személy, valamint székhellyel vagy telephellyel rendelkező jogi személy felszólalást nyújthat be a miniszterhez a korábban közzétett termékleíráson átvezetett módosításokkal szemben a termékleírásnak a miniszter által vezetett minisztérium hivatalos lapjában való közzétételét követő 30 napon belül.
+12. § (1) Ha az Európai Bizottsággal folytatott egyeztetések eredményeképpen a tagállami eljárás során elfogadott termékleírás jelentős mértékben módosul, és erre tekintettel a módosított adatok közzététele Magyarországon szükségessé válik, a miniszter az általa vezetett minisztérium hivatalos lapjában közzéteszi a módosított termékleírást, és földrajzi árujelző oltalmának megszerzése esetében a módosított egységes dokumentumot.
+
+(2) A Magyarország területén lakóhellyel rendelkező természetes személy, valamint székhellyel vagy telephellyel rendelkező jogi személy felszólalást nyújthat be a miniszterhez a termékleírás és az egységes dokumentum módosított adataival szemben, a közzétételt követő 30 napon belül. A felszólalásnak meg kell felelnie a 6. § (3) és (4) bekezdésében foglaltaknak. A miniszter a felszólalás elfogadhatóságával kapcsolatban a 6. § (5) és (6) bekezdése szerint jár el.
 
 13. § A miniszter látja el az Európai Bizottság által lefolytatott vizsgálathoz kapcsolódóan
 
@@ -168,11 +173,11 @@ szerinti tagállami feladatokat.
 
 14. § (1) A miniszter által az Európai Bizottságnak továbbított, az oltalom megszerzése, a termékleírás módosítása vagy az elnevezés törlése iránti kérelemre az Európai Unió más tagállamából vagy az Európai Unió tagállamain kívüli országból (a továbbiakban: harmadik ország) az Európai Bizottságon keresztül érkezett felszólalást a miniszter továbbítja a kérelmezőnek, majd közreműködik a szükséges egyeztetések lefolytatásában. Az egyeztetés eredményéről a miniszter tájékoztatja az Európai Bizottságot.
 
-(2) Ha az egyeztetések eredményeképpen a termékleírás jelentős mértékben módosul, és erre figyelemmel a módosított adatok közzététele Magyarországon szükségessé válik, a miniszter a 6. § (1) bekezdésében foglaltak szerint jár el.
+(2)
 
 (3) A miniszter az általa vezetett minisztérium honlapján közzéteszi az Európai Bizottság által Magyarország vonatkozásában nyilvántartásba bejegyzett oltalom alatt álló földrajzi árujelző, valamint hagyományos különleges termék termékleírásának azon változatát, amely alapján az Európai Bizottság meghozta a döntését.
 
-15. § (1) Az Európai Unió más tagállama vagy harmadik ország által kezdeményezett eljárásban az agrártermék földrajzi árujelzője és a borászati termék hagyományos kifejezése oltalmának megszerzésével és törlésével, valamint a hagyományos különleges termék elnevezés bejegyzésével és törlésével, továbbá a termékleírás módosításával szemben a Magyarország területén lakóhellyel rendelkező természetes személynek, valamint székhellyel vagy telephellyel rendelkező jogi személynek az Európai Unió Hivatalos Lapjában történő közzététel időpontjától számított 2 hónapon belül az e törvény végrehajtására kiadott kormányrendelet szerint összeállított felszólalást, valamint indokolással ellátott felszólalási vagy kifogásolási nyilatkozatot a miniszternek kell benyújtania, aki azt haladéktalanul továbbítja az Európai Bizottságnak.
+15. § (1) Az Európai Unió más tagállama vagy harmadik ország által kezdeményezett eljárásban az agrártermék földrajzi árujelzője és a borászati termék hagyományos kifejezése oltalmának megszerzésével és törlésével, valamint a hagyományos különleges termék elnevezés bejegyzésével és törlésével, továbbá a termékleírás módosításával szemben a Magyarország területén lakóhellyel rendelkező természetes személynek, valamint székhellyel vagy telephellyel rendelkező jogi személynek az Európai Unió Hivatalos Lapjában történő közzététel időpontjától számított 2 hónapon belül az e törvény végrehajtására kiadott kormányrendelet szerint összeállított felszólalást, valamint indokolással ellátott felszólalási vagy kifogásolási nyilatkozatot a miniszternek kell benyújtania, aki azt – a feltételeknek való megfelelés esetén – továbbítja az Európai Bizottságnak.
 
 (2) Az (1) bekezdés szerinti eljárásban a Kormány nevében a miniszter hivatalból is benyújthat felszólalást, valamint indokolással ellátott felszólalási vagy kifogásolási nyilatkozatot az Európai Bizottságnak.
 
@@ -186,7 +191,7 @@ szerinti tagállami feladatokat.
 
 (2) Elismert kezelő szervezet hiányában a borászati termékek földrajzi árujelzőinek kezelő szervezete a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 1. § 12. pontja szerinti földrajzi árujelzőt kezelő hegyközségi szervezet.
 
-(3) A miniszter a kezelő szervezetekről nyilvántartást vezet, amely tartalmazza a kezelő szervezet nevét, elérhetőségét, vezető tisztségviselőjének megnevezését és a kezelő szervezet céljait. A miniszter a nyilvántartást az általa vezetett minisztérium honlapján közzéteszi.
+(3) A miniszter a kezelő szervezetekről nyilvántartást vezet, amely tartalmazza a kezelő szervezet nevét, elérhetőségét, vezető tisztségviselőjének megnevezését, az általa kezelt oltalom alatt álló elnevezést és a kezelő szervezet céljait. A miniszter a nyilvántartást az általa vezetett minisztérium honlapján közzéteszi.
 
 #### 9. Földrajzi árujelző vagy hagyományos különleges termék védelemi alap
 
@@ -208,7 +213,7 @@ fedezetére.
 (5) Az Alapból e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint
 
 - a) az (1) bekezdés a)–d) pontja szerinti költségek, díjak, valamint
-- b) az Alap működéséhez kapcsolódó banki költségek
+- b) az Alap működéséhez kapcsolódó költségek
 
 fedezhetők.
 
@@ -273,41 +278,38 @@ ellátásának elősegítése érdekében.
 
 26. § (1) Az Európai Unióban Magyarország területén először forgalomba hozatalra kerülő agrártermék csomagolásán az agrártermék előállítójának, kiszerelést végzőjének vagy forgalmazójának neve (a továbbiakban együtt: cégnév) nem tüntethető fel olyan módon, hogy az összetéveszthető legyen egy oltalom alatt álló elnevezéssel.
 
-(2) Ha az Európai Unióban Magyarország területén először forgalomba hozatalra kerülő agrárterméken feltüntetett cégnévben vagy előállítási hely címében szereplő földrajzi terület neve olyan oltalom alatt álló földrajzi árujelzőből áll vagy olyan oltalom alatt álló földrajzi árujelzőt tartalmaz, amely használható azon termékkör esetében, amelybe az érintett agrártermék tartozik,
+(2) Ha az Európai Unióban Magyarország területén először forgalomba hozatalra kerülő agrárterméken feltüntetett cégnév vagy előállítási hely címe oltalom alatt álló földrajzi árujelzőből áll vagy oltalom alatt álló földrajzi árujelzőt tartalmaz, akkor az oltalom alatt álló földrajzi árujelző bejegyzésének hatálya alá nem tartozó, de azzal a Kombinált Nómenklatúra szerint azonos négy számjegyű szinten besorolt
 
-- a) földrajzi árujelző nélküli agrártermék esetében kötelező feltüntetni a „földrajzi árujelző nélküli termék” feliratot, valamint
-- b) a cégnév vagy az előállítási hely címe legfeljebb feleakkora betűnagysággal tüntethető fel a címkén, mint az oltalom alatt álló földrajzi árujelző, valamint földrajzi árujelző nélküli termék esetében a „földrajzi árujelző nélküli termék” felirat.
+- a) földrajzi árujelzővel nem ellátott agrártermék címkéjén
+  - aa) kötelező feltüntetni a „földrajzi árujelző nélküli termék” feliratot, és
+  - ab) a cégnév vagy az előállítási hely címe legfeljebb feleakkora betűnagysággal tüntethető fel, mint a „földrajzi árujelző nélküli termék” felirat;
+- b) földrajzi árujelzővel ellátott agrártermék címkéjén a cégnév vagy az előállítási hely címe legfeljebb feleakkora betűnagysággal tüntethető fel a címkén, mint az oltalom alatt álló földrajzi árujelző.
 
 ### VI. Fejezet — NYILVÁNTARTÁSBA VÉTEL, ELLENŐRZÉS ÉS JOGKÖVETKEZMÉNYEK
 
 #### 13. Az oltalom alatt álló elnevezést és az átmeneti nemzeti oltalom alatt álló földrajzi árujelzőt használó gazdasági szereplőkről vezetett nyilvántartás
 
-27. § (1) Azon gazdasági szereplő, aki a borászati termékek kivételével oltalom alatt álló elnevezéssel vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott, Magyarországon előállított terméket forgalomba hoz, e tevékenységének megkezdését a (3) bekezdés szerinti adatok megadásával, tevékenységének megszüntetését, valamint a bejelentett adatokban bekövetkezett változást e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az oltalom alatt álló elnevezéssel és az átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott agrártermékek ellenőrzését végző hatóságnak (a továbbiakban: ellenőrzést végző hatóság).
+27. § (1) Azon gazdasági szereplő, aki oltalom alatt álló elnevezéssel vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott, Magyarországon előállított terméket forgalomba hoz, e tevékenységének megkezdését a (3) bekezdés a)–d) pontja szerinti adatok megadásával, tevékenységének megszüntetését, valamint a bejelentett adatokban bekövetkezett változást az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az ellenőrzést végző hatóságnak.
 
-(2) A Hegyközségek Nemzeti Tanácsa e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint megküldi az ellenőrzést végző hatóságnak az oltalom vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelző használatára jogosult borászati üzemengedélyesnek a hegybíró által vezetett gazdasági aktában szereplő, (3) bekezdés szerinti adatait.
+(2)
 
-(3) Az ellenőrzést végző hatóság az ellenőrzés lefolytatása céljából nyilvántartást vezet az (1) és (2) bekezdés szerinti gazdasági szereplőkről (a továbbiakban: nyilvántartott gazdasági szereplők), amely tartalmazza a gazdasági szereplő
+(3) Az ellenőrzést végző hatóság az ellenőrzés lefolytatása céljából nyilvántartást vezet az (1) bekezdés szerinti gazdasági szereplőkről (a továbbiakban: nyilvántartott gazdasági szereplők), amely tartalmazza a nyilvántartott gazdasági szereplő
 
-- a) nevét, FELIR azonosítóját, levelezési címét, telefonos és elektronikus elérhetőségét,
+- a) nevét, FELIR azonosítóját, elérhetőségét,
 - b) természetes személy
-  - ba) természetes személyazonosító adatait, állampolgárságát, lakcímét, adóazonosító jelét,
+  - ba) természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
   - bb) egyéni vállalkozó adószámát, székhelyét,
-- c) gazdálkodó szervezet székhelyét, telephelyét, adószámát, cégjegyzékszámát,
+- c) gazdálkodó szervezet székhelyét, telephelyét, adószámát,
 - d) tevékenységére vonatkozó adatokat, megjelölve az oltalom alatt álló elnevezést vagy az átmeneti nemzeti oltalom alatt álló földrajzi árujelző elnevezését, az előállítás helyét, az oltalom alatt álló elnevezéssel vagy az átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott agrártermékkel kapcsolatban végzett tevékenységet (így különösen termelés, feldolgozás, kiszerelés), valamint szeszes italok és szőlőből készült termékek esetében a szeszes ital, illetve a szőlőből készült termék kategóriáját, valamint
 - e) nyilvántartásba vételének időpontját.
 
-(4) A Magyarország vonatkozásában oltalom vagy átmeneti oltalom alatt álló földrajzi árujelző, valamint hagyományos különleges termék termékleírás által szabályozott alapanyagát előállító termelő
+(4)
 
-- a) a (3) bekezdés a)–c) és e) pontja szerinti adatoknak, valamint
-- b) az előállított alapanyag megnevezésének és előállítási helyének
+(5) Az ellenőrzést végző hatóság honlapján közzéteszi
 
-az ellenőrzést végző hatóság részére történő megküldésével kérelmezheti a (3) bekezdés szerinti nyilvántartásba való felvételét.
-
-(5) Az ellenőrzést végző hatóság honlapján, letölthető formában közzéteszi
-
-- a) a gazdasági szereplő nevét és FELIR azonosítóját, a (3) bekezdés d) és e) pontjában, a (4) bekezdés b) pontjában foglalt adatokat,
-- b) az ellenőrzést végző hatóság nevét, címét, telefonszámát, aláírását és pecsétjét, valamint
-- c) a nyilvántartás készítésének, illetve utolsó módosításának dátumát.
+- a) a nyilvántartott gazdasági szereplő nevét és FELIR azonosítóját,
+- b) a (3) bekezdés d) és e) pontja szerinti adatokat, valamint
+- c) a nyilvántartás utolsó módosításának dátumát.
 
 (6) Az ellenőrzést végző hatóság a nyilvántartott gazdasági szereplő adatainak módosítása vagy törlése esetén a módosított vagy törölt adatokat 10 évig megőrzi.
 
@@ -317,9 +319,12 @@ az ellenőrzést végző hatóság részére történő megküldésével kérelm
 
 #### 14. A nyilvántartott gazdasági szereplők adatszolgáltatási kötelezettsége
 
-29. § (1) A nyilvántartott gazdasági szereplők az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint minden évben adatot szolgáltatnak az ellenőrzést végző hatóságnak az általuk megtermelt, előállított, készleten lévő és forgalomba hozott, oltalom alatt álló elnevezéssel vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott termékek mennyiségéről, valamint a forgalomba hozott termékek kereskedelmi értékéről.
+29. § (1) A nyilvántartott gazdasági szereplők az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint minden évben adatot szolgáltatnak – borászati termék esetében a hegybírónak, egyéb agrártermékek esetében az ellenőrzést végző hatóságnak – az általuk megtermelt, előállított, készleten lévő és forgalomba hozott, oltalom alatt álló elnevezéssel vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelzővel ellátott termékek mennyiségéről, valamint a forgalomba hozott termékek kereskedelmi értékéről.
 
-(2) Az ellenőrzést végző hatóság a kezelő szervezetnek megküldi az általa kezelt földrajzi árujelzőt vagy hagyományos különleges terméket előállító gazdasági szereplők által az (1) bekezdésben foglaltak szerint szolgáltatott adatokat.
+(2) Az ellenőrzést végző hatóság és borászati termékek esetében a Hegyközségek Nemzeti Tanácsa, az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon tájékoztatja az (1) bekezdés szerint szolgáltatott, oltalom alatt álló elnevezésenként összesített anonimizált adatokról
+
+- a) a kezelő szervezetet, az általa kezelt oltalom alatt álló elnevezés vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelző tekintetében, valamint
+- b) az adatszolgáltatási kötelezettségének eleget tevő nyilvántartott gazdasági szereplőt, az általa használt oltalom alatt álló elnevezés vagy átmeneti nemzeti oltalom alatt álló földrajzi árujelző tekintetében.
 
 #### 15. Hatósági ellenőrzés
 
@@ -342,7 +347,7 @@ az ellenőrzést végző hatóság részére történő megküldésével kérelm
   - ba) a termékleírásban foglaltaktól való olyan mértékű vagy természetű eltérés esetén, amely a termék jellemzőit annak lényeges tulajdonságait tekintve jelentősen megváltoztatja, vagy amelynek eredményeképpen a termék nem tekinthető a termékleírásban szereplő földrajzi területről származónak vagy hagyományos különleges terméknek, vagy
   - bb) az a) pont aa) alpontjában foglalt jogsértés 3 éven belül történő megismétlődése esetén.
 
-(2) Az (1) bekezdés b) pontjának megvalósulása esetén az ellenőrzést végző hatóság törli a gazdasági szereplőt a 27. § (3) bekezdése szerinti nyilvántartásból.
+(2) Az (1) bekezdés b) pontjának megvalósulása esetén az ellenőrzést végző hatóság törli a nyilvántartott gazdasági szereplőt a 27. § (3) bekezdése szerinti nyilvántartásból.
 
 (3) Ha az előállító, illetve forgalmazó az (1) bekezdés b) pontja alapján hozott tiltó határozat ellenére használja az oltalom alatt álló elnevezést, az ellenőrző hatóság intézkedésként elrendeli az oltalom alatt álló elnevezéssel ellátott termékek forgalomból való kivonását.
 
@@ -376,6 +381,10 @@ rendeletben állapítsa meg.
 #### 18. Hatályba léptető rendelkezés
 
 33. § Ez a törvény 2023. május 1-jén lép hatályba.
+
+#### 18/A. Átmeneti rendelkezések
+
+33/A. § A 27. § (3) bekezdése szerinti ellenőrző hatóság 2025. július 31-ig felveszi a 27. § (3) bekezdése szerinti nyilvántartásba az e törvény hatálybalépésekor az ellenőrző hatóságok által az oltalom alatt álló elnevezéssel ellátott termékek előállítóiról vezetett nyilvántartásokban szereplő gazdasági szereplőket, a nyilvántartásban meglévő adataikkal, beszerezve a 27. § (3) bekezdésében felsorolt, esetlegesen hiányzó adatokat.
 
 #### 19. Az Európai Unió jogának való megfelelés
 

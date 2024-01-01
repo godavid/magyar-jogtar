@@ -117,7 +117,18 @@ figyelembevételével kell számítani.
 
 12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében.
 
-13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-, villamosenergia-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a Szövetség működésére, a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés elkészítésében való közreműködésre, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak. A Szövetség a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény szerinti egyéb szervezetnek minősül.
+13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket
+
+- a) a készletezési költségek fedezésére,
+- b) kőolaj-, kőolajtermék-, villamosenergia-tároló vásárlására, létesítésére, fejlesztésére,
+- c) a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére,
+- d) a Szövetség működésére,
+- e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében való közreműködésre, valamint
+- f) az Fbkt.-ban meghatározott feladatai teljesítésére
+
+fordíthatja.
+
+(1a) A Szövetség nem alanya a társasági adónak. A Szövetség a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény szerinti egyéb szervezetnek minősül.
 
 (2) A Szövetség szervezete kőolaj- és kőolajtermék készletezési szekcióból (a továbbiakban: kőolaj szekció), valamint földgáz-készletezési szekcióból (a továbbiakban: földgáz szekció) áll.
 
@@ -364,15 +375,19 @@ figyelembevételével kell számítani.
 
 (9) A Szövetség a (1) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi az illetékes adóhatóságnak, amely a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére. Üzemszünet esetén az illetékes adóhatóság elektronikus záradékolására az üzemszünet lezárását követően kerül sor.
 
-(9a) A NAV a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(9a) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
 (10) A kőolaj szekció tagja köteles a NAV ellenőrzést végző szervével egyeztetést lefolytatni, ha a nyilatkozat adatait a NAV nem helytállónak minősítette.
+
+42/A. § A Szövetség tüzelő- és fűtőanyagok kéntartalmának megállapított alakulásáról szóló jelentéssel kapcsolatos kötelezettségének teljesítéséhez a 2710 19 51–2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39, a 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17, 2710 20 19 KN kód szerinti termékeket értékesítő tag minden év november 15-ig megküldi a Szövetség részére a tárgyévet megelőző év november 1-től tárgyév október 31-ig terjedő időszakban fenti KN kódú termékeket beszerző partnerei nevét, címét és a beszerzett termékek KN kódját.
 
 43. § A Szövetség a tag kérésére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről.
 
 #### 11. Együttműködés a NAV-val, a MEKH-hel és a Központi Statisztikai Hivatallal
 
 44. § (1) A NAV a rendelkezésére álló adatok alapján havonta elektronikus úton tájékoztatást ad a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók és légi járművek üzemanyagtartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkör vonatkozásában – kőolajtermékek mennyiségéről.
+
+(1a) A NAV a rendelkezésére álló adatok alapján minden év november 15-ig elektronikus úton tájékoztatást ad azon közúti üzemanyagtöltő állomások címéről és az ott forgalmazott üzemanyagfajtákról, amellyel kapcsolatban a kiskereskedők tárgyévet megelőző év október 1-től tárgyév szeptember 30-ig terjedő időszakban a jövedéki adóról szóló 2016. évi LXVIII. törvény 72. § (3) bekezdése alapján adatszolgáltatást nyújtottak be a NAV részére.
 
 (2) A Szövetség megkeresésére a NAV, a MEKH és a Központi Statisztikai Hivatal a rendelkezésre álló adatok alapján tájékoztatást ad
 

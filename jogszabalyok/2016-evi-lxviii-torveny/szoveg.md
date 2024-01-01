@@ -470,7 +470,7 @@ terheli.
 
 viszonosság esetén jogosult, amelynek megléte tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-(2) A diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagja – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában – az általa megfizetett adóból naptári évenként legfeljebb 300 ezer forintot igényelhet vissza, amely összegbe bele kell számítani az általános forgalmi adóról szóló törvény (a továbbiakban: áfatörvény) szerint visszaigényelt általános forgalmi adó összegét is.
+(2) A diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagja – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában – az általa megfizetett adóból naptári évenként legfeljebb 600 ezer forintot igényelhet vissza, amely összegbe bele kell számítani az általános forgalmi adóról szóló törvény (a továbbiakban: áfatörvény) szerint visszaigényelt általános forgalmi adó összegét is.
 
 (3) A szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről, és földrajzi jelzéseinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó szeszes ital tekintetében – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában –
 
@@ -1991,15 +1991,15 @@ felszólítja, hogy jogszabályi kötelezettségének tegyen eleget 15 napon bel
 
 110. § (1) Az adó mértéke
 
-- a) a benzinre
-  - aa) ha a kőolaj (3) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 120 000 Ft/ezer liter,
-  - ab) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 125 000 Ft/ezer liter,
-- b) a petróleumra
-  - ba) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 124 200 Ft/ezer liter,
-  - bb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 129 200 Ft/ezer liter,
-- c) a gázolajra üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén
-  - ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
-  - cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
+- a) a benzinre,
+  - aa) ha a kőolaj (3) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 152 550 Ft/ezer liter,
+  - ab) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 157 550 Ft/ezer liter,
+- b) a petróleumra,
+  - ba) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 152 550 Ft/ezer liter,
+  - bb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 157 550 Ft/ezer liter,
+- c) a gázolajra üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén,
+  - ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 142 900 Ft/ezer liter,
+  - cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 152 900 Ft/ezer liter,
 - d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5375 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
 - e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 14 685 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
 - f) földgázra közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 32 Ft/nm3, egyébként 0,3492 Ft/kWh,
@@ -2007,7 +2007,7 @@ felszólítja, hogy jogszabályi kötelezettségének tegyen eleget 15 napon bel
 - h) a szénre 2905 Ft/ezer kilogramm,
 - i) – figyelemmel a 94. § (2) bekezdésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya és az a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 70 000 Ft/ezer liter szorzatának együttes összege,
 - j) a 2207 10 00-2207 20 00 KN-kód szerinti alkoholtermék bioüzemanyag esetében a 132. § (2) bekezdés b) pontja szerinti adómérték,
-- k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésben meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében a c) pont ca) alpontja szerinti adómérték alkalmazása esetén az adómérték 18%-a, a c) pont cb) alpontja szerinti adómérték alkalmazása esetén az adómérték 16,5%-a, egyébként 110 350 Ft/ezer liter.
+- k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésében meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében a c) pont ca) alpontja szerinti adómérték alkalmazása esetén az adómérték 14%-a, a c) pont cb) alpontja szerinti adómérték alkalmazása esetén az adómérték 13%-a, egyébként a c) pont szerinti adómérték.
 
 (2) Az adó mértéke az (1) bekezdésben meg nem határozott energiatermékre
 
@@ -2100,7 +2100,7 @@ használ fel.
 - a) az üzemanyagtöltő-állomáson üzemanyagkártyával megvásárolt, vagy
 - b) belföldi telephelyén üzemanyag-tárolásra rendszeresített üzemanyag-tankoló automatával ellátott tartályból elektronikus mérőeszközön keresztül betöltött
 
-kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 3,5 Ft, a 110. § (1) bekezdés c) pont cb) lpontja szerinti adómérték alkalmazása esetén literenként 13,5 Ft visszaigénylésére.
+kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 10 Ft, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén literenként 20 Ft visszaigénylésére.
 
 (6) E § szerinti adó-visszaigénylés – a 112. § (1) bekezdés b) pontjától eltérően – a 3. § (2) bekezdés 20. pontja szerinti jelölőanyagot nem tartalmazó gázolaj után érvényesíthető.
 
@@ -2133,7 +2133,7 @@ kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerint
 - b) olyan erdő után, amelyben erdőgazdálkodási tevékenységet folytat, az erdőfelújítási célú munkákhoz,
 - c) olyan vízjogi üzemeltetési engedély szerinti halastó után, amelyben halgazdálkodási tevékenységet folytat, – a tóterület nettó üzemelő vízfelületét figyelembe véve – közvetlenül a halgazdálkodáshoz
 
-felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett adója a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén 82 százalékának, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén 83,5 százalékának visszaigénylésére jogosult.
+felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett adója a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén 86 százalékának, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén 87 százalékának visszaigénylésére jogosult.
 
 (2) Ha a mezőgazdasági termelő a földművelési, az erdőfelújítási és halgazdálkodási munkákhoz gépi bérmunka-szolgáltatást vesz igénybe, a gépi bérmunka-szolgáltatás során felhasznált, a gépi bérmunka-szolgáltatást végző által kiállított számlán feltüntetett gázolajmennyiség után is jogosult az (1) bekezdésben meghatározott visszatérítésre.
 

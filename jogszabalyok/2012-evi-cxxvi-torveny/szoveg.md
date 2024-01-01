@@ -15,14 +15,14 @@ Az Országgyűlés az agrár- és élelmiszergazdaság, valamint a vidékfejlesz
   - ab) az agrárgazdasági tevékenységet folytató egyéni vállalkozó, továbbá
   - ac) az aa) és ab) pont szerinti feltételek hiányában a földművesként nyilvántartott személy;
 - b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel, kereskedelmi képvi-selettel vagy fiókteleppel rendelkező
-  - ba) agrárgazdasági tevékenységet főtevékenységként folytató,
-  - bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató
+  - ba) az 1. vagy a 2. mellékletben szereplő agrárgazdasági tevékenységet fő-, illetve melléktevékenységként folytató,
+  - bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és a 3. mellékletben szereplő agrárgazdasági tevékenységet folytató
   - bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelőszervezetként nyilvántartott,
 
 a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
 
 - c)
-- d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
+- d) agrárgazdasági tevékenység: az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
 - e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
 - f) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó;
 - g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
@@ -30,13 +30,13 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 - i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg;
 - j)
 
-2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
+2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
 
-(2) Amennyiben a tevékenység folytatásának feltétele az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységeknek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, úgy a tevékenység folytatása kezdőnapjának a bejelentés napja minősül.
+(2) Amennyiben a tevékenység folytatásának feltétele az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységeknek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, úgy a tevékenység folytatása kezdőnapjának a bejelentés napja minősül.
 
-(3) E törvény alkalmazásában az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek folytatása megszűnésének minősül, ha az érintett tevékenységet a közigazgatási nyilvántartási feladatokat ellátó szerv által az érintett személyről vezetett nyilvántartásból törlik vagy onnan kivezetésre kerül. Ebben az esetben az érintett tevékenység folytatása megszűnése időpontjának a nyilvántartásból való törlés vagy kivezetés hatályának időpontját kell tekinteni, amely azonban nem lehet korábbi annál a napnál, amikor a gazdálkodó szervezet vagy az egyéni vállalkozó a törlés iránti kérelmét benyújtotta.
+(3) E törvény alkalmazásában az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek folytatása megszűnésének minősül, ha az érintett tevékenységet a közigazgatási nyilvántartási feladatokat ellátó szerv által az érintett személyről vezetett nyilvántartásból törlik vagy onnan kivezetésre kerül. Ebben az esetben az érintett tevékenység folytatása megszűnése időpontjának a nyilvántartásból való törlés vagy kivezetés hatályának időpontját kell tekinteni, amely azonban nem lehet korábbi annál a napnál, amikor a gazdálkodó szervezet vagy az egyéni vállalkozó a törlés iránti kérelmét benyújtotta.
 
-(4) Amennyiben az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenység folytatásának feltétele a tevékenység az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, a tevékenység folytatása megszűnésének az a nap minősül, amikor az érintett személy a tevékenység folytatásának megszüntetését az érintett közigazgatási szerv felé bejelenti.
+(4) Amennyiben az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenység folytatásának feltétele a tevékenység az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási szerv felé való bejelentése, a tevékenység folytatása megszűnésének az a nap minősül, amikor az érintett személy a tevékenység folytatásának megszüntetését az érintett közigazgatási szerv felé bejelenti.
 
 ### II. Fejezet — AZ AGRÁRKAMARA
 
@@ -62,8 +62,8 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 
 - a) mezőgazdasági őstermelőként történő nyilvántartásba vétellel
 - b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység folytatásának kezdő napjával;
-- c) a 2. § b) pont ba) alpont szerint újonnan alapított gazdálkodó szervezet esetén a szervezet bírósági bejegyzésével, működő jogalany főtevékenységének agrárgazdasági tevékenységre történő kiterjesztése esetén az agrárgazdasági tevékenység folytatásának kezdőnapjával;
-- d) a 2. § b) pont bb) alpont szerinti gazdálkodó szervezet esetén az agrárgazdasági tevékenység folytatása és az élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vétel együttes fennállásának napján;
+- c) a 2. § b) pont ba) alpont szerint újonnan alapított gazdálkodó szervezet esetén a szervezet bírósági bejegyzésével, működő jogalany bármely tevékenységének a 2. melléklet szerinti agrárgazdasági tevékenységre történő kiterjesztése esetén az agrárgazdasági tevékenység folytatásának kezdőnapjával;
+- d) a 2. § b) pont bb) alpont szerinti gazdálkodó szervezet esetén a 3. melléklet szerinti agrárgazdasági tevékenység folytatása és az élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vétel együttes fennállásának napján;
 - e) az a)–d) pontban foglaltak szerinti feltételek hiányában földművesként vagy mezőgazdasági termelőszervezetként történő nyilvántartásba vétellel; valamint
 - f) az e törvényben szabályozott egyéb feltétel bekövetkezésével
 
@@ -75,7 +75,7 @@ keletkezik.
 
 (4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelőként nyilvántartásba veszik, őstermelői jogviszonyát megszünteti és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
 
-(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony a mezőgazdasági őstermelőként történő nyilvántartás miatt egyébként fennáll.
+(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony a mezőgazdasági őstermelőként történő nyilvántartás miatt egyébként fennáll, illetve földművesként történő nyilvántartottság esetén.
 
 (6) Ha az (1) bekezdés c) és d) pontja hatálya alá tartozó gazdálkodó szervezet az agrárgazdasági tevékenység körébe tartozó tevékenységét a cégbejegyzést megelőzően megkezdi, a cégbejegyzés kérelmezésével egyidejűleg köteles az agrárkamaránál bejelentkezni. Ebben az esetben az agrárkamara ideiglenesen nyilvántartásba veszi az érintett gazdálkodó szervezetet, amelyet az agrárkamarai tag jogai illetnek meg és kötelezettségei terhelnek.
 
@@ -92,7 +92,7 @@ keletkezik.
 
 feltéve, ha az érintett személy vagy szervezet – ide nem értve az (1) bekezdés e) pontja szerinti személyt – a (10) bekezdésben foglaltakra figyelemmel meghatározott tevékenységen kívül más agrárgazdasági tevékenységet nem folytat.
 
-(10) A (9) bekezdésben felsoroltak szerinti szervezet a kamara megkeresésére nyilatkozik arról, hogy az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek közül mely tevékenység tekinthető szervezetük vonatkozásában a törvény alapján kötelező tagságot megalapozó tevékenységnek.
+(10) A (9) bekezdésben felsoroltak szerinti szervezet a kamara megkeresésére nyilatkozik arról, hogy az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek közül mely tevékenység tekinthető szervezetük vonatkozásában a törvény alapján kötelező tagságot megalapozó tevékenységnek.
 
 (11) A (9) bekezdésben említett gazdának vagy gazdálkodó szervezetnek a tárgyév azon időszakára vonatkozóan keletkezik agrárkamarai tagsága, amikor nem tagja a (9) bekezdésben meghatározott szervezeteknek, és az (1) bekezdés szerinti feltételek fennállnak. E rendelkezés alkalmazásánál figyelemmel kell lenni a (9) bekezdésben meghatározott szervezetben való tagság keletkezésére vonatkozó jogszabályban foglaltakra is.
 
@@ -107,7 +107,13 @@ feltéve, ha az érintett személy vagy szervezet – ide nem értve az (1) beke
 
 az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagságot, ugyanazok a jogok illetik, illetve kötelezettségek terhelik, mint akiknek kamarai tagsági viszonya a törvény alapján keletkezett.
 
+(13a) Az önkéntesen vállalt agrárkamarai tagság az e törvény alapján keletkezett agrárkamarai tagság ideje alatt szünetel. Az e törvény alapján keletkezett agrárkamarai tagság szünetelésének ideje alatt az önkéntesen vállalt agrárkamarai tagság nem szünetel.
+
 (14) Amennyiben az érintett személynek a kamarai tagság adott jogcímen történő megszűnését követő napon más jogcímen kamarai tagsága keletkezik, agrárkamarai tagságát folyamatosnak kell tekinteni.
+
+(15) A 2. § b) pont bb) alpontja szerinti gazdálkodó szervezet esetén, az élelmiszerlánc-felügyeleti információs rendszerben a gazdálkodó szervezet számára kiadott FELIR azonosító felfüggesztésének időtartama alatt az agrárkamarai tagsági jogviszony szünetel, kivéve, ha az érintett gazdálkodó szervezet mezőgazdasági termelőszervezetként nyilvántartott.
+
+(16) A 3. melléklet szerinti agrárgazdasági tevékenységek esetében, tekintettel arra, hogy azok keretében nem kizárólagosan agrárgazdasági tevékenység folytatható, az agrárkamara vélelmezi az agrárgazdasági tevékenység folytatását. A 2. § b) pont bb) alpontja szerinti gazdálkodó szervezet nyilatkozatával megdöntheti a vélelmet, ha a 3. mellélet szerinti agrárgazdasági tevékenységi körön kívül más agrárgazdasági tevékenységet nem folytatott, nem folytat, illetve a jövőben sem kíván folytatni. Ha a 2. § b) pont bb) alpontja szerinti gazdálkodó szervezet úgy nyilatkozik, hogy a jövőben sem kíván folytatni agrárgazdasági tevékenységet, a gazdálkodó szervezet köteles a nyilatkozata tekintetében beállt változást a változástól számított 30 napon belül bejelenteni az agrárkamara részére.
 
 ### Az agrárkamarai tagság megszűnése
 
@@ -116,23 +122,23 @@ az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagság
 - a) az őstermelő:
   - aa) meghal,
   - ab) az őstermelői nyilvántartásból törlésre kerül,
-  - ac)
+  - ac) az őstermelők családi gazdaságának nem a képviselőjeként bejegyezett tagjává válik;
 - b) az egyéni vállalkozó:
   - ba) meghal,
   - bb) az agrárgazdasági tevékenység körébe tartozó összes tevékenységét megszünteti,
-  - bc) egyéni céggé alakul át, feltéve, ha az egyéni cég agrárgazdasági tevékenységet nem folytat;
+  - bc) az egyéni vállalkozók nyilvántartásából törlésre kerül;
 - c) az a) és b) pont hatálya alá nem tartozó személyt a földművesekről vezetett nyilvántartásból törlik;
 - d) a gazdálkodó szervezet:
   - da) jogutód nélkül megszűnik,
-  - db) a 2. § b) pont ba) alpontja szerinti esetben az agrárgazdasági tevékenység körébe tartozó főtevékenységét megszünteti,
-  - dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyeleti információs rendszerből kivezetésre kerül, illetve valamennyi agrárgazdasági tevékenység folytatását megszünteti,
+  - db) a 2. § b) pont ba) alpontja szerinti esetben az agrárgazdasági tevékenység körébe tartozó valamennyi tevékenységét megszünteti,
+  - dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyeleti információs rendszerből kivezetésre kerül, illetve valamennyi 3. melléklet szerinti agrárgazdasági tevékenység folytatását megszünteti,
   - dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezet a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból való törléssel.
 
 (2)
 
-(3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tag jegyzékből.
+(3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tagjegyzékből. Az agrárkamara a tagjegyzékből törölt adatokat – a gazdasági forgalom biztonsága, az agrárkamarai tagsággal összefüggő jog vagy tény igazolása céljából – az agrárkamarai tagság megszűnésétől számított tíz évig kezeli.
 
-(4) Az őstermelői igazolvánnyal rendelkező, egyéni vállalkozói tevékenységet folytató agrárkamarai tag tagsági viszonya kizárólag abban az esetben szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen állnak fenn.
+(4) Az őstermelői nyilvántartásban szereplő, egyéni vállalkozói tevékenységet folytató agrárkamarai tag tagsági viszonya akkor szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen fennállnak, kivéve, ha az e törvényben szabályozott egyéb feltétel alapján agrárkamarai tagsága keletkezik vagy fennáll.
 
 (5) Az önkéntesen vállalt agrárkamarai tagság az agrárkamara alapszabályában meghatározottak szerint szűnik meg.
 
@@ -158,7 +164,7 @@ nyilvántartást vezet.
   - af) az anyja nevét,
   - ag) az adóazonosító jelét, adószámát,
   - ah) az egyéni vállalkozói nyilvántartási számát, székhelyét, telephelyét, fióktelepét, egyéni vállalkozói tevékenység szüneteltetésének kezdetét és végét,
-  - ai) az őstermelői igazolványa számát, annak hatályossági és érvényességi időtartamát, valamint a biztosítási jogviszonyára vonatkozó adatát;
+  - ai) az őstermelői igazolványa számát, az őstermelői nyilvántartásban azonosítására szolgáló számát, azok hatályossági és érvényességi időtartamát, a nyilvántartásba vétel kezdetét és végét, valamint a biztosítási jogviszonyára vonatkozó adatát;
   - aj) az őstermelők családi gazdaságának alapításáról szóló szerződés számát,
   - ak) az őstermelők családi gazdaságában szereplő tagok aa), ab), ac), ae), af), ag), al), ar) alpontok szerinti adatait,
   - al) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
@@ -174,19 +180,19 @@ nyilvántartást vezet.
   - bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét, telefonszámát, cégkapu azonosítóját,
   - bc) a cégjegyzékszámát, a nem a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) hatálya alá tartozása esetében – a gazdálkodó szervezet azonosításához szükséges nyilvántartási számát, a nyilvántartás megnevezésével,
   - bd) az adószámát,
-  - be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét, elérhetőségeit, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy nevét és elérhetőségeit,
+  - be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét, elérhetőségeit, egyéb, a nyilvános cégnyilvántartásban szereplő adatait, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy nevét és elérhetőségeit,
   - bf) a statisztikai azonosítóját,
   - bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
   - bh) az agrárkamarai nyilvántartási számát,
-  - bi) az általa folytatott agrárgazdasági tevékenységek körét,
+  - bi) az általa folytatott tevékenységek körét,
   - bj) a bankszámlaszámát,
   - bk) a tagsági viszony kezdetét,
-  - bl) az élelmiszerlánc-felügyeleti szerv által az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott FELIR-azonosítót,
+  - bl) az élelmiszerlánc-felügyeleti szerv által az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott FELIR-azonosítót és annak állapotát,
   - bm) az értesítési címét,
   - bn) a kamarai igazolvány számát, érvényességének kezdetét és végét;
   - bo) a családi mezőgazdasági társasági minősítést.
 - c) természetes személy pártoló, önkéntes, tiszteletbeli tag a) pontban rögzített adatait;
-- d) nem természetes személy pártoló, önkéntes, tiszteletbeli tag b) pont ba)–bn) alpontokban rögzített adatait;
+- d) nem természetes személy pártoló, önkéntes, tiszteletbeli tag b) pontban rögzített adatait;
 - e) a kamarai tag önkéntes adatszolgáltatása alapján nyújtott adatait;
 - f) a kamarai tagra vonatkozóan a 10. § (3) bekezdés szerinti kizárásra vonatkozó adatot.
 
@@ -403,7 +409,7 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 (3) Az agrárkamarát az általa ellátott közfeladat ellátásáért támogatás vagy díjazás illeti meg.
 
-(3a) Az agrárkamara által ellátott közfeladat finanszírozása az ellátott feladattal arányos pénzügyi fedezet részben vagy egészben történő, az e törvényben foglaltaknak megfelelő biztosításával valósul meg. A pénzügyi fedezetet elsődlegesen az államháztartás működési rendjére vonatkozó szabályok szerint a központi költségvetésből nyújtott támogatásból, ennek hiánya esetén – ha a közfeladat jellege alapján egyébként igazgatási szolgáltatási díj állapítható meg – az agrárkamara részére fizetendő igazgatási szolgáltatási díjból kell biztosítani. Az agrárkamara által ellátandó közfeladat költségvetési támogatással, vagy igazgatási szolgáltatási díjjal nem fedezett részének finanszírozásáról való döntés az országos küldöttgyűlés kizárólagos hatáskörébe tartozik.
+(3a) Az agrárkamara által ellátott közfeladat finanszírozása az ellátott feladattal arányos pénzügyi fedezet részben vagy egészben történő, az e törvényben foglaltaknak megfelelő biztosításával valósul meg. A pénzügyi fedezetet elsődlegesen az államháztartás működési rendjére vonatkozó szabályok szerint a központi költségvetésből nyújtott támogatásból, ennek hiánya esetén – ha a közfeladat jellege alapján egyébként igazgatási szolgáltatási díj állapítható meg – az agrárkamara részére fizetendő igazgatási szolgáltatási díjból kell biztosítani. Az agrárkamara által ellátandó közfeladat költségvetési támogatással, vagy igazgatási szolgáltatási díjjal, továbbá közfeladat vonatkozásában költségvetési szerv és az agrárkamara között létrejött szerződés alapján az agrárkamara számára járó díjjal nem fedezett részének finanszírozásáról való döntés az országos küldöttgyűlés kizárólagos hatáskörébe tartozik.
 
 (4) Az agrárkamara a jogszabályban meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
 
@@ -499,12 +505,12 @@ felelős.
 
 15/B. § Az agrárkamara ellátja:
 
-- a) a mezőgazdasági, vidékfejlesztési szaktanácsadói tevékenység végzésére irányuló szándék bejelentésével,
-- b) a mezőgazdasági, vidékfejlesztési szaktanácsadói névjegyzék vezetésével,
-- c) a mezőgazdasági szaktanácsadók képzésének, továbbképzésének és vizsgáztatásának ellenőrzésével,
+- a) az agrárgazdasági és vidékfejlesztési szaktanácsadói tevékenység végzésére irányuló szándék bejelentésével,
+- b) az agrárgazdasági és vidékfejlesztési szaktanácsadói névjegyzék vezetésével,
+- c) az agrárgazdasági szaktanácsadók képzésének, továbbképzésének és vizsgáztatásának ellenőrzésével,
 - d) a támogatott szaktanácsadói tevékenység szervezésével, koordinálásával,
-- e) a mezőgazdasági, vidékfejlesztési szaktanácsadási tevékenységet segítő informatikai rendszer működtetésével,
-- f) az Európai Unió tagállamainak mezőgazdasági szaktanácsadó szervezeteivel való kapcsolat létesítésével, fenntartásával, valamint a nemzetközi fórumokon a magyar mezőgazdasági, vidékfejlesztési szaktanácsadás képviseletével,
+- e) az agrárgazdasági és vidékfejlesztési szaktanácsadói tevékenységet segítő informatikai rendszer működtetésével,
+- f) az Európai Unió tagállamainak mezőgazdasági szaktanácsadó szervezeteivel való kapcsolat létesítésével, fenntartásával, valamint a nemzetközi fórumokon a magyar agrárgazdasági és vidékfejlesztési szaktanácsadás képviseletével,
 - g) a Nemzeti Agrár-tanácsadási Bizottság titkárságának működtetésével
 
 összefüggő feladatokat.
@@ -522,7 +528,7 @@ felelős.
 
 16. § (1) Az agrárkamara szolgáltatási közfeladatai keretében
 
-- a) országos szaktanácsadói hálózatot működtet;
+- a) országos tanácsadói hálózatot működtet;
 - b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 - c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást;
 - d) országos jégkármegelőző rendszert működtet;
@@ -742,7 +748,7 @@ felelős.
 
 (11) Az agrárkamara ügyintéző szervezete országos és vármegyei ügyintéző szervezetekből áll. Az agrárkamara ügyintéző szervezetének szervezeti és működési szabályzatát a főigazgató javaslata alapján az alapszabályban rögzítettek szerint az elnök állapítja meg.
 
-27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – jogszabály eltérő rendelkezése hiányában – első fokon az agrárkamara vármegyei ügyintéző szervezete jár el. A vármegyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
+27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – jogszabály eltérő rendelkezése hiányában – első fokon a 15/B. §-ban meghatározott ügyek kivételével az agrárkamara vármegyei ügyintéző szervezete jár el. A 15/B. §-ban meghatározott feladatokat a központi ügyintéző szervezet látja el. A vármegyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
 
 #### 28. §
 
@@ -971,17 +977,17 @@ felelős.
 | 6. | 12 | Dohánytermék gyártása |
 | 7. | 2015 | Műtrágya, nitrogénvegyület gyártása |
 | 8. | 2020 | Mezőgazdasági vegyi termék gyártása |
-| 9. | 382102 | Biogáz gyártás hulladékból, komposztálás tételből: komposztálás |
+| 9. | 382104 | Komposztálás |
 | 10. | 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
 | 11. | 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
 | 12. | 463 | Élelmiszer, ital, dohányáru nagykereskedelme |
 | 13. | 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
 | 14. | 467503 | Növényvédőszer nagykereskedelem |
 | 15. | 467504 | Műtrágya nagykereskedelem |
-| 16. | 749005 | Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés |
+| 16. | 749005 | Mezőgazdasági, vadgazdálkodási szakmai tervezés, szakértés |
 | 17. | 749031 | Haszonállatok törzskönyvezése |
 | 18. | 749040 | Gombaszakértés |
-| 19. | 749049 | Igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
+| 19. | 749049 | Igazságügyi szakértés mező- és erdőgazdálkodási, élelmiszeripari területen |
 | 20. | 749061 | Szántóföldi növénytermesztéshez kapcsolódó szaktanácsadás |
 | 21. | 749062 | Kertészethez kapcsolódó szaktanácsadás |
 | 22. | 749063 | Precíziós gazdálkodáshoz kapcsolódó szaktanácsadás |
@@ -996,24 +1002,31 @@ felelős.
 
 ### 2. melléklet a 2012. évi CXXVI. törvényhez
 
-Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendjének (TEÁOR) jegyzéke alapján:
+#### Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendjének (TEÁOR) jegyzéke alapján
 
-| 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
-| --- | --- |
-| 02 | Erdőgazdálkodás |
-| 03 | Halászat, halgazdálkodás |
-| 10 | Élelmiszer gyártás |
-| 11 | Italgyártás |
-| 12 | Dohánytermék gyártása |
-| 2015 | Műtrágya, nitrogénvegyület gyártása |
-| 2020 | Mezőgazdasági vegyi termék gyártása |
-| 3821 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
-| 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
-| 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
-| 463 | Élelmiszer, ital, dohányáru nagykereskedelme |
-| 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
-| 4675 | Vegyiáru-nagykereskedelemből: a műtrágya és egyéb agrokémiai termékek nagykereskedelme |
-| 7490 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenységből mezőgazdasági: a erdőgazdasági, vadgazdálkodási tanácsadás, haszonállatok törzskönyvezése, gombaszakértés, igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
-| 7731 | Mezőgazdasági gép kölcsönzése |
-| 7739 | Egyéb gép, tárgyi eszköz kölcsönzéséből: gazdasági haszonállatok kölcsönzése |
-|  |  |
+|  | A | B |
+| --- | --- | --- |
+| 1 | TEÁOR’08 kód,illetve annak kezdete | Megnevezése |
+| 2 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
+| 3 | 02 | Erdőgazdálkodás |
+| 4 | 03 | Halászat, halgazdálkodás |
+| 5 | 10 | Élelmiszergyártás |
+| 6 | 11 | Italgyártás |
+| 7 | 12 | Dohánytermék gyártása |
+| 8 | 20.15 | Műtrágya, nitrogénvegyület gyártása |
+| 9 | 20.20 | Mezőgazdasági vegyi termék gyártása |
+| 10 | 46.11 | Mezőgazdasági termék ügynöki nagykereskedelme |
+| 11 | 46.2 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
+| 12 | 46.3 | Élelmiszer, ital, dohányáru nagykereskedelme |
+| 13 | 46.61 | Mezőgazdasági gép, berendezés nagykereskedelme |
+| 14 | 77.31 | Mezőgazdasági gép kölcsönzése |
+
+### 3. melléklet a 2012. évi CXXVI. törvényhez
+
+#### Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendjének (TEÁOR) jegyzéke alapján
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | TEÁOR’08 kód,illetve annak kezdete | Megnevezés |
+| 2 | 38.21 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
+| 3 | 46.75 | Vegyi áru nagykereskedelme szakágazatból: műtrágya és egyéb agrokémiai termékek nagykereskedelme |

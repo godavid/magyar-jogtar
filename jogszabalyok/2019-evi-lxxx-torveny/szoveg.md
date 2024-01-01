@@ -490,7 +490,7 @@ tekintetében. Az e bekezdés szerinti eljárásban jogi és igazgatási képzé
 - a) az igazgató,
 - b) az igazgatóhelyettes,
 - c) az oktató,
-- d) a többcélú szakképző intézményben köznevelésialapfeladat-ellátásra az Nkt. szerinti pedagógus munkakörben foglalkoztatott személy és
+- d) a többcélú szakképző intézményben köznevelésialapfeladat-ellátásra a pedagógusok új életpályájáról szóló törvény szerinti pedagógus munkakörben foglalkoztatott személy és
 - e) a további, közvetlenül nem a szakmaialapfeladat-ellátással összefüggő feladat ellátására létesített munkakörben foglalkoztatott személy.
 
 (2) A szakképző intézmény alkalmazottja munkaviszonyban vagy megbízási jogviszonyban áll. Az egyházi jogi személy által alapított, illetve fenntartott szakképző intézmény esetében a foglalkoztatásra irányuló jogviszony egyházi szolgálati viszonyként is létrehozható.
@@ -549,7 +549,7 @@ Az igazgató feladatai ellátásának segítésére és helyettesítésére igaz
 
 (2) Az oktató a szakmai oktatás végzése során a tanulókkal, illetve a képzésben részt vevő személyekkel összefüggő tevékenységével kapcsolatban a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.
 
-(3) Az állami szakképző intézmény oktatója az Nkt.-ban meghatározottak szerint a Nemzeti Pedagógus Kar tagja.
+(3) Az állami szakképző intézmény oktatója a pedagógusok új életpályájáról szóló törvényben meghatározottak szerint a Nemzeti Pedagógus Kar tagja.
 
 (4) Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézményben a fenntartó további alkalmazási feltételt írhat elő.
 
@@ -842,6 +842,8 @@ Ha e törvény vagy a végrehajtására kiadott jogszabály a kiskorú tanuló t
 (1) A szakképző intézményben a közismereti oktatás a közismereti kerettanterv szerint folyik.
 
 (2) A szakképző intézmény a közismereti kerettanterv alkalmazása során az ágazati alapvizsga követelményeire tekintettel a közismereti tantárgyak témaköreit, tartalmát és óraszámait – az Nkt. 6. mellékletében meghatározott heti időkeret és a tananyagtartalom megtartásával – évfolyamok között átcsoportosíthatja.
+
+(3) A szakképző intézményekben a honvédelmi nevelés-oktatás keretében egyéb foglalkozás tartását és a Honvédelem tantárgy oktatását a Magyar Honvédség látja el, amelynek alapelveit a szakképzésért felelős miniszter és a honvédelemért felelős miniszter közötti együttműködési megállapodás határozza meg azzal, hogy a feladatellátással összefüggő munkáltatói jogköröket a Magyar Honvédség kijelölt szervezetének parancsnoka gyakorolja és a szakképző intézményben végzett feladatokat és munkaidő-beosztást a szakképző intézmény igazgatója határozza meg az együttműködési megállapodás keretei között.
 
 ### XI. Fejezet — AZ ÁGAZATI ALAPOKTATÁS
 

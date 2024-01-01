@@ -56,7 +56,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 
 (2) E törvény erejénél fogva az Ügynökség tulajdonosi joggyakorlása alá kerül az 1. § (1) bekezdés c) pontja szerinti sportingatlan, az Inytv. szerinti önálló ingatlanok esetén azok tartozékaival, alkotórészeivel és az azokon található, állami tulajdonú ingó vagyonelemekkel együtt.
 
-(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami vagyon tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására vagy más módon való megterhelésére nem jogosult. Az e bekezdés szerinti tevékenységek végzésére az állami vagyonról szóló törvény rendelkezéseinek megfelelően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) jogosult. Az Ügynökség tulajdonosi joggyakorlása alá tartozó vagyon hatékony működtetése, állagának védelme, értékének megőrzése, valamint az állami feladatok ellátásának elősegítése érdekében történő megterhelésére az MNV Zrt. meghatalmazást adhat az Ügynökség részére.
+(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására nem jogosult. Az e bekezdés szerinti tevékenységek végzésére a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) jogosult. Az Ügynökség tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlan e bekezdés szerint történő megterhelésére annak hatékony működtetése, állagának védelme, értékének megőrzése, valamint az állami feladatok ellátásának elősegítése érdekében az MNV Zrt. meghatalmazást adhat az Ügynökség részére.
 
 (4) Az állam kizárólagos tulajdonában álló és az Ügynökség tulajdonosi joggyakorlása alá tartozó ingatlanon a tulajdonosi joggyakorlás időtartama alatt a más törvény szerinti állami építési beruházás értékhatárát el nem érő beruházás következtében létrejött új felépítmény e törvény erejénél fogva az állam kizárólagos tulajdonába és az Ügynökség tulajdonosi joggyakorlása alá kerül.
 
@@ -79,6 +79,8 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 (7) Amennyiben az Ügynökség a közfeladata ellátása keretében végzett tevékenységéhez kapcsolódó tervezett költségvetési bevételt meghaladó többletbevételt számol el, akkor a (4) bekezdés szerinti fejezet irányító szerve a többletbevétel összegével az Ügynökség közfeladat ellátását szolgáló kiadási előirányzatot megemelheti az államháztartásért felelős miniszter előzetes egyetértésével.
 
 (8) Az Ügynökség az állam javára és nevében végzett feladataiból eredő műveletek hatásainak elkülönített nyilvántartásban történő könyvvezetését és beszámolási kötelezettségét az államháztartás számviteléről szóló kormányrendelet előírásai szerint teljesíti.
+
+(9) Az 1. melléklet 2. pontjában foglalt táblázat 5. sorában meghatározott ingatlan vagy abban található helyiség hasznosítása során a versenyeztetés az állami vagyonról szóló törvény alapján mellőzhető, ha a használó a Sporttv. szerinti feladatokat ellátó vagy abban közreműködő szervezet.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -212,7 +214,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 27 | Balatonboglár | 1549/3 | belterület | 1042/2265 | Nemzeti Kézilabda Akadémia Szállásépületek |
 | 28 | Budapest XIX. kerület | 168207/1 | belterület | 1/1 | Bozsik Stadion |
 | 29 | Cegléd | 1332/6 | belterület | 1/1 | Ungvári Miklós Ceglédi Judo Központ |
-| 30 | Pécs | 12192/22 | belterület | 1100/3289 | Pécsi Tornacsarnok |
+| 30 | Pécs | 19192/22 | belterület | 1100/3289 | Pécsi Tornacsarnok |
 | 31 | Pécs | 23998/5 | belterület | 2189/3189 | Rátgéber Nemzeti Kosárlabda Akadémia |
 | 32 | Miskolc | 5080/3 | belterület | 1/1 | MVSC Sporttelep |
 | 33 | Veszprém | 0213/85 | külterület | 1/1 | Veszprém Aréna |
@@ -243,14 +245,14 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 58 | Mezőcsát | 3272/7 | belterület | 1/1 | Mezőcsát Tanuszoda |
 | 59 | Baktalórántháza | 576/1 | belterület | 1/1 | Baktalórántháza Tanuszoda |
 | 60 | Kemecse | 1290/1 | belterület | 1/1 | Kemecse Tanuszoda |
-| 61 | Törökszentmiklós | 995 | belterület | 1/1 | Törökszentmiklós Tanuszoda |
+| 61 | Törökszentmiklós | 3995 | belterület | 1/1 | Törökszentmiklós Tanuszoda |
 | 62 | Budapest XIII. kerület | 25879 | belterület | 1/1 | Duna Aréna |
 | 63 | Budapest XI. kerület | 1783/7 | belterület | 1/1 | Gazdagréti tanuszoda |
 | 64 | Füzesgyarmat | 512/35 | belterület | 1/1 | Füzesgyarmat tanuszoda |
 | 65 | Sásd | 111/1 | belterület | 1/1 | Sásd tanuszoda |
 | 66 | Abádszalók | 3014/4 | belterület | 1/1 | Abádszalók tanuszoda |
 | 67 | Balassagyarmat | 3186/2 | belterület | 1/1 | Balassagyarmat tanuszoda |
-| 68 | Pannonhalma | 973/1 | belterület | 1/1 | Pannonhalma tanuszoda |
+| 68 | Pannonhalma | 473/5 | belterület | 1/1 | Pannonhalma tanuszoda |
 | 69 | Kapuvár | 1323/4 | belterület | 1/1 | Kapuvár tanuszoda |
 | 70 | Tiszakécske | 3696/8 | belterület | 1/1 | Tiszakécske tanuszoda |
 | 71 | Kisvárda | 2487/2 | belterület | 1/1 | Kisvárda tanuszoda |

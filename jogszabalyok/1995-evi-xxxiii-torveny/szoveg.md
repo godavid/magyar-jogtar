@@ -202,7 +202,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3)
 
-17. § A 9–16. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell, ha kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a találmányt.
+17. § A 9–16. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell, ha kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a találmányt.
 
 ### A szabadalmi oltalom keletkezése
 
@@ -2530,9 +2530,46 @@ bírósági eljárásokra alkalmazandó szabályok
 
 115/N. § Az iparjogvédelmi eljárások igazgatási szolgáltatási díjaira, valamint a fenntartási és a megújítási díjakra – a 115/O. és a 115/P. §-ban foglalt kivételekkel – kedvezménynek és mentességnek nincs helye.
 
-115/O. § (1) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag maga a feltaláló, a nemesítő, illetve a szerző, a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjaknak, továbbá a használati mintaoltalmi bejelentés, a növényfajta-oltalmi bejelentés, a formatervezési mintaoltalmi bejelentés, illetőleg a topográfia oltalmára irányuló bejelentés díjának az egynegyedét köteles megfizetni.
+115/O. § (1) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag maga a feltaláló, a nemesítő, illetve a szerző, a használati mintaoltalmi bejelentés, a növényfajta-oltalmi bejelentés, a formatervezési mintaoltalmi bejelentés, illetve a topográfia oltalmára irányuló bejelentés díjának az egynegyedét köteles megfizetni.
 
-(2) Ha a megfizetés időpontjában a szabadalmi, a használati mintaoltalmi, illetve a növényfajta-oltalmi jogosult kizárólag maga a feltaláló, illetve a nemesítő, a szabadalmi, a használati mintaoltalmi, illetve a növényfajta-oltalmi fenntartási díjnak a felét köteles megfizetni.
+(1a) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag
+
+- a) maga a feltaláló,
+- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti vállalkozás,
+- c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében felsorolt államilag elismert felsőoktatási intézmény vagy
+- d) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhely vagy nonprofit közhasznú kutatóhely
+
+a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjaknak az egynegyedét köteles megfizetni.
+
+(1b) Elektronikus úton történő benyújtás esetén
+
+- a) a szabadalmi bejelentési és kutatási,
+- b) az európai szabadalmakra vonatkozó igénypont-közzétételi, valamint fordításmeghirdetési,
+- c) a nemzetközi szabadalmi bejelentések esetében a Szellemi Tulajdon Nemzeti Hivatala megjelölt vagy kiválasztott hivatalként történő eljárása esetén a nemzeti,
+- d) a kiegészítő oltalmi tanúsítvány megadására irányuló bejelentési és a kiegészítő oltalmi tanúsítvány időtartamának meghosszabbítási,
+- e) a növényfajta-oltalmi bejelentési,
+- f) a használatiminta-oltalmi bejelentési,
+- g) a formatervezési mintaoltalmi bejelentési,
+- h) a védjegybejelentési,
+- i) a földrajzi árujelző bejelentési,
+- j) a mikroelektronikai félvezető termékek topográfiájának oltalmára irányuló bejelentési
+
+díjaknak a 85%-át kell megfizetni.
+
+(1c) Az (1b) bekezdés az (1) és (1a) bekezdésben meghatározottak szerint csökkentett díj esetében is alkalmazandó.
+
+(2) Ha a megfizetés időpontjában a használati mintaoltalmi, illetve a növényfajta-oltalmi jogosult kizárólag maga a feltaláló, illetve a nemesítő, a használati mintaoltalmi, illetve a növényfajta-oltalmi fenntartási díjnak a felét köteles megfizetni.
+
+(2a) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag
+
+- a) maga a feltaláló,
+- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti vállalkozás,
+- c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében felsorolt államilag elismert felsőoktatási intézmény vagy
+- d) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhely vagy nonprofit közhasznú kutatóhely
+
+a szabadalmi fenntartási díjnak az egynegyedét köteles megfizetni.
+
+(2b) Több igényjogosult, illetve több jogosult esetén az (1a) és a (2a) bekezdés szerinti kedvezmény akkor érvényesíthető, ha a fizetésre kötelezettek mindegyike megfelel az (1a) bekezdés a)–d) pontja vagy a (2a) bekezdés a)–d) pontja valamelyikének.
 
 (3) Ha a megfizetés időpontjában a formatervezési mintaoltalom jogosultja kizárólag maga a szerző, a mintaoltalom megújítására irányuló kérelem díjának a felét köteles megfizetni.
 
@@ -2540,7 +2577,17 @@ bírósági eljárásokra alkalmazandó szabályok
 
 (5) Az (1)–(4) bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló, nemesítő, illetve szerző esetén – a feltalálók, a nemesítők, illetve a szerzők valamelyike az oltalmi igényéről, illetve az oltalomról feltalálótársa, nemesítőtársa, illetve szerzőtársa javára lemondott, továbbá, ha a feltalálók, a nemesítők, illetve a szerzők bármelyike helyébe az örököse lép.
 
-115/P. § (1) A Szellemi Tulajdon Nemzeti Hivatala kérelemre a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjak, továbbá a növényfajta-oltalmi, a használati mintaoltalmi, a formatervezési mintaoltalmi és a topográfia-oltalmára irányuló bejelentés díja alól mentességet adhat, továbbá az elsőtől az ötödik évekre szóló szabadalmi, növényfajta-oltalmi és használati mintaoltalmi fenntartási díjak megfizetésére halasztást engedélyezhet, ha a természetes személy jogosult – kereseti, jövedelmi és vagyoni viszonyai folytán – azokat fedezni nem tudja; a halasztás alá eső fenntartási díjakat a hatodik évi fenntartási díjjal együtt kell megfizetni.
+(6) Az (1a) és a (2a) bekezdés szerinti kedvezményre való jogosultság fennállásáról az esedékessé vált fenntartási díj megfizetésével egyidejűleg nyilatkozni kell.
+
+(7) Az (1a) és a (2a) bekezdés szerinti díjkedvezmény az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és
+
+- a) az 1407/2013/EU bizottsági rendelet és a helyébe lépő, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa szerinti általános csekély összegű támogatás,
+- b) az 1408/2013/EU bizottsági rendelet vagy
+- c) a 717/2014/EU bizottsági rendelet
+
+szabályaival összhangban vehető igénybe.
+
+115/P. § (1) A Szellemi Tulajdon Nemzeti Hivatala kérelemre a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjak, továbbá a növényfajta-oltalmi, a használati mintaoltalmi, a formatervezési mintaoltalmi és a topográfia-oltalmára irányuló bejelentés díja alól mentességet adhat, továbbá a negyedik és az ötödik évekre szóló szabadalmi, valamint elsőtől az ötödik évekre szóló növényfajta-oltalmi és használati mintaoltalmi fenntartási díjak megfizetésére halasztást engedélyezhet, ha a természetes személy jogosult – kereseti, jövedelmi és vagyoni viszonyai folytán – azokat fedezni nem tudja; a halasztás alá eső fenntartási díjakat a hatodik évi fenntartási díjjal együtt kell megfizetni.
 
 (2) Mentességre, illetve halasztásra az a természetes személy jogosult, aki igazolja, hogy jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása) nem haladja meg a mindenkori kötelező legkisebb munkabér (minimálbér) összegét, vagyona pedig – a szokásos életszükségleti és berendezési tárgyakon felül – nincs. Mentességben kell részesíteni – jövedelmi és vagyoni helyzetének vizsgálata nélkül – azt a személyt, aki aktív korúak ellátására jogosult.
 
@@ -2647,6 +2694,10 @@ bírósági eljárásokra alkalmazandó szabályok
 
 (3) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel megállapított 22. § (2) bekezdését, 45. § (6) bekezdését, 53/D. § (2) bekezdését, 80. § (3) bekezdését, 81/A. § (6) bekezdés a)–b) pontját és 111. § (2) bekezdését a 2023. január 1. napján folyamatban levő eljárásokban is alkalmazni kell.
 
+(4) E törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel (a továbbiakban: Mód2.tv.) megállapított 115/O. § (1)–(2a) és (6) bekezdését az e bekezdés hatálybalépését követően tett bejelentésekre, valamint az e bekezdés hatálybalépését követően keletkezett szabadalmi oltalmak fenntartási díjának megfizetésére kell alkalmazni.
+
+(5) A (4) bekezdéstől eltérően a Mód2.tv.-vel megállapított 115/O. § (2a) bekezdése nem alkalmazható azon fenntartási díjaknak a mértékére, amelyek tekintetében a türelmi idő az e bekezdés hatálybalépése előtt megkezdődött, de amelyeket a hatálybalépés után fizetnek meg.
+
 117/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.–Kp. Módtv.) megállapított rendelkezéseit az Ákr.–Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 117/C. §
@@ -2677,6 +2728,8 @@ bírósági eljárásokra alkalmazandó szabályok
 
 (8) Felhatalmazást kap a miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatalának elnöke véleményének kikérésével – rendeletben állapítsa meg az iparjogvédelmi oltalom fenntartásáért vagy megújításáért fizetendő díjaknak – az iparjogvédelmi rendszer működtetésének költségeire, az egyes iparjogvédelmi oltalmi formák sajátosságaira, valamint az innováció iparjogvédelmi eszközökkel történő előmozdításának szempontjaira figyelemmel meghatározott – mértékét.
 
+(9) Felhatalmazást kap a miniszter, hogy az általános csekély összegű támogatás, a mezőgazdasági csekély összegű támogatás és a halászati csekély összegű támogatás jogcímein nyújtható támogatás igénybevételének részletes szabályait rendeletben állapítsa meg.
+
 ### Az Európai Unió jogának való megfelelés
 
 119. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -2690,3 +2743,11 @@ bírósági eljárásokra alkalmazandó szabályok
 
 - a) a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet;
 - b) a közegészségügyi problémákkal küzdő országokba történő kivitelre szánt gyógyszeripari termékek előállításával kapcsolatos szabadalmak kényszerengedélyezéséről szóló, 2006. május 17-i 816/2006/EK európai parlamenti és tanácsi rendelet.
+
+120. § A 115/O. § (1a) és (2a) bekezdése
+
+- a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
+- b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet és
+- c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
+
+hatálya alá tartozó támogatást tartalmaz.

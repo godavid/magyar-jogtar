@@ -20,24 +20,27 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adótanácsadói tevékenységet megbízási, illetve vállalkozási jogviszony alapján végzőre;
 - i) játékkaszinót, kártyatermet működtetőre vagy távszerencsejátéknak nem minősülő fogadást, távszerencsejátékot, online kaszinójátékot szervezőre;
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
-- k) árukereskedőre, amennyiben tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
+- k) árukereskedőre, amennyiben tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést teljesít vagy fogad el;
 - l) ügyvédre, ügyvédi irodára, európai közösségi jogászra, európai közösségi jogászi irodára (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre;
 - m) bizalmi vagyonkezelőre;
 - n) virtuális és törvényes fizetőeszközök, illetve virtuális fizetőeszközök közötti átváltási szolgáltatásokat nyújtó szolgáltatóra;
 - o) letétkezelő pénztárca-szolgáltatóra;
-- p) kulturális javak (műalkotások, régiségek) kereskedelmével vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
-- q) kulturális javak (műalkotások, régiségek) tárolásával vagy kereskedelmével szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot; és
+- p) kulturális javak (műalkotások, régiségek) forgalmazásával vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
+- q) kulturális javak (műalkotások, régiségek) tárolásával vagy forgalmazásával szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot; és
 - r) székhelyszolgáltatóra.
 
-(1a) E törvény hatálya kiterjed arra, aki Magyarország területén vagy az Európai Unió más tagállamában vagy harmadik országban rendelkezik székhellyel, és Magyarországon létesített tartós, üzleti egysége révén – ideértve a fióktelepet is – az ügyfelek számára állandó belföldi jelenlét formájában közvetlenül kínál az (1) bekezdésben meghatározott szolgáltatást Magyarországon
+(1a) E törvény hatálya akkor terjed ki arra, aki Magyarország területén kívül az Európai Unió más tagállamában vagy harmadik országban rendelkezik székhellyel, ha az az (1) bekezdésben meghatározott szolgáltatók által nyújtható szolgáltatást Magyarországon létesített tartós üzleti egysége révén az ügyfelek számára állandó belföldi jelenlét formájában közvetlenül nyújtja [az (1) bekezdésben és e bekezdésben meghatározottak a továbbiakban együtt: szolgáltató].
 
-[az (1) bekezdésben és e bekezdésben meghatározottak a továbbiakban együtt: szolgáltató].
+(1b) E törvény hatálya kiterjed a 30. §, a 32. § (2) bekezdése, a 33. § (1) bekezdése, a 34. §, a 35. §, a 42. §, az 54. § (2) bekezdése, a 61. § (1)–(3) és (5) bekezdése, valamint a 68. § (2) bekezdése tekintetében a központi kapcsolattartó pontra.
+
+(1c) Az (1) bekezdés p) és q) pontjában meghatározott szolgáltatók vonatkozásában forgalmazási tevékenység alatt értékesítési vagy felvásárlási tevékenységet kell érteni.
 
 (2) E törvény hatálya kiterjed arra, aki
 
-- a) a szolgáltató ügyfele, vagy annak rendelkezésre jogosultja, képviselője, meghatalmazottja;
-- b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja,
-- c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol.
+- a) a szolgáltató ügyfele, vagy az ügyfél szolgáltatónál eljáró rendelkezésre jogosultja, képviselője, meghatalmazottja;
+- b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja;
+- c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol; valamint
+- d) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa, a 9. § (10) bekezdés vonatkozásában.
 
 (3) E törvény hatálya kiterjed az 5. §-ban meghatározott felügyeletet ellátó szervre.
 
@@ -59,7 +62,14 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 - 1. adótanácsadó, adószakértő, okleveles adószakértő: aki az adópolitikáért felelős miniszter által kiadott szakmai és vizsgakövetelmények szerint megszerzett szakmai képesítéssel és az adótanácsadói, adószakértői, okleveles adószakértői tevékenység folytatására jogosító engedéllyel rendelkezik, és az adózás rendjéről szóló törvényben meghatározott adótanácsadói, adószakértői, illetve okleveles adószakértői nyilvántartásban szerepel;
 - 2. anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol;
+- 2a. atipikus pénzügyi jellegű korlátozó intézkedés:
+  - a) a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 1j–1l. és 1u–1zb. cikkében és
+  - b) az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5–5i és 5l–5n. cikkében
+
+meghatározott intézkedés.
+
 - 3. azonosítás: a 7. § (2) bekezdésében, a 8. § (2) és (3) bekezdésében, valamint a 9. § (1) és (2) bekezdésében meghatározott adatok visszakereshető módon történő rögzítése;
+- 3a. azonosító okmány: magyar állampolgár esetében a személyazonosság igazolására alkalmas hatósági igazolvány; külföldi állampolgár esetében az úti okmány vagy a személyazonosító igazolvány;
 - 4. árukereskedő: aki termék gazdasági tevékenység keretében történő értékesítését végzi a vásárló, a kereskedő, illetve a feldolgozó részére;
 - 5. árutőzsdei szolgáltató: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott árutőzsdei szolgáltató;
 - 6. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai, fióktelepei és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
@@ -79,6 +89,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - 16. hitelintézet: a Hpt.-ben meghatározott hitelintézet, ide nem értve az MNB-t;
 - 17. ingatlanügylettel kapcsolatos tevékenység: ingatlan tulajdonjoga átruházásának üzletszerű közvetítése, ingatlan bérleti jogának üzletszerű közvetítése, ha a havi bérleti díj összege ügyletenként az ötszázezer forintot eléri vagy meghaladja, valamint saját tulajdonú ingatlan üzletszerű adásvétele;
 - 18. jogi személyiséggel nem rendelkező szervezet: nem jogi személy és nem természetes személy jogalany;
+- 18a. kijelölt felelős vezető: az irányítási funkciót betöltő testület azon tagja, illetve irányítási funkciót betöltő testület hiányában a szolgáltató azon felsővezetője, aki a szolgáltató 65. §-ban meghatározott belső szabályzatában került kijelölésre, és aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelmények és elvárások szolgáltató általi végrehajtásáért felel;
 - 19. kockázatérzékenységi megközelítés: az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 65. §-ban meghatározott belső szabályzatban a belső kockázatértékelés alapján rögzített, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására irányuló eljárás;
 - 19a. kockázati szint: tartós üzleti kapcsolatok vonatkozásában az a besorolás, amely meghatározza, hogy az ügyfél vonatkozásában milyen terjedelmű ügyfél-átvilágítási intézkedéseket szükséges elvégezni;
 - 20. könyvviteli tevékenység: a Számv. tv. szerinti könyvviteli szolgáltatás;
@@ -107,21 +118,24 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
   - l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében, illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
   - m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
-- 28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszközök törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
+- 28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszköz és virtuális fizetőeszköz törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 - 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 - 30. pénzváltó iroda: hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató kiemelt közvetítő;
 - 31. stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország: az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országok megállapítása tekintetében történő kiegészítéséről szóló, 2016. július 14-i (EU) 2016/1675 bizottsági felhatalmazáson alapuló rendeletben meghatározott országok;
 - 31a. székhelyszolgáltató: az adózás rendjéről szóló törvényben meghatározott székhelyszolgáltató;
 - 32. személyazonosság igazolására alkalmas hatósági igazolvány: személyazonosító igazolvány, útlevél, valamint kártya formátumú vezetői engedély;
-- 33. személyazonosság igazoló ellenőrzése: az ügyfél, a meghatalmazott, a rendelkezésre jogosult, továbbá a képviselő személyazonosságának a 7. § (3)–(9) bekezdésében meghatározottak szerinti, továbbá a tényleges tulajdonos személyazonosságának a 8. § (5) bekezdésében és a 9. § (4) bekezdésében meghatározottak szerinti ellenőrzése;
+- 33. személyazonosság igazoló ellenőrzése: az ügyfél, valamint az ügyfél szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője személyazonosságának a 7. § (3)–(9) bekezdésében meghatározottak szerinti, továbbá a tényleges tulajdonos személyazonosságának a 8. § (5) bekezdésében és a 9. § (4) bekezdésében meghatározottak szerinti ellenőrzése;
 - 34. szolgáltató vezetője: az a természetes személy, aki a jogi személy vagy jogi személyiséggel nem rendelkező szervezet szolgáltató képviseletére, nevében döntési jogkör gyakorlására vagy az ezen szolgáltatón belüli irányítási jogkör gyakorlására jogosult;
 - 35. szolgáltató 65. § szerinti belső szabályzatban meghatározott vezetője: az a természetes személy, aki a szolgáltató vezetője által a 65. §-ban meghatározott belső szabályzatban meghatározásra kerül az alábbi szempontok figyelembevételével:
   - a) megfelelő ismeretekkel rendelkezik arra vonatkozóan, hogy a szolgáltató milyen mértékben van kitéve a pénzmosás és a terrorizmus-finanszírozás jelentette kockázatoknak, valamint
   - b) megfelelő vezetői hatáskörrel rendelkezik ahhoz, hogy a kockázati kitettséget befolyásoló döntéseket kezdeményezzen vagy hozzon;
+- 35a. tartós üzleti egység:
+  - a) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény szerinti telephely, továbbá minden egyéb olyan tartós, önállósult üzleti (üzemi) letelepedéssel járó hely, amely a szolgáltató székhelyétől eltérő helyen található,
+  - b) a külföldi székhelyű szolgáltató, ha az a határon átnyúló szolgáltatását egy jogilag különálló szervezet, közvetítő igénybevételével nyújtja;
 - 36. terrorizmus finanszírozása: az 1978. évi IV. törvény 261. § (1) és (2) bekezdése szerinti bűncselekmény elkövetéséhez szükséges anyagi eszköz szolgáltatása vagy gyűjtése, illetve a Btk. 318. §-ában meghatározott elkövetési magatartások;
 - 37. ténylegesen összefüggő, több ügyleti megbízás:
   - a) azon ügyletek, amelyekre vonatkozóan egy éven belül ugyanazon ügyfél ugyanazon jogcímen, ugyanazon tárgyra ad megbízást,
-  - b) a pénzváltó iroda esetében azon százezer forintot elérő vagy meghaladó összegű ügyletek, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad,
+  - b) a pénzváltó iroda, valamint a virtuális és törvényes fizetőeszközök, illetve virtuális fizetőeszközök közötti átváltási szolgáltatásokat nyújtó szolgáltató esetében azon százezer forintot elérő vagy meghaladó összegű ügyletek, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad,
   - c) az 1. § (1) bekezdés k) pontjában meghatározott szolgáltató vonatkozásában a részletvétel alapján történő fizetések, fizetési megbízások;
 - 38. tényleges tulajdonos:
   - a) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlenül vagy – a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) 8:2. § (4) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, vagy egyéb módon tényleges irányítást, ellenőrzést gyakorol a jogi személy vagy jogi személyiséggel nem rendelkező szervezet felett, ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
@@ -178,7 +192,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 5. § E törvény alkalmazásában felügyeletet ellátó szerv az 1. § (1) bekezdés
 
-- a) a)–e) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
+- a) a)–e) pontjában meghatározott szolgáltatók és az 1. § (1b) bekezdésében meghatározott személyek vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
 - b) i) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
 - c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
 - d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az ügyvédekre, a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
@@ -200,7 +214,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - f) pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény felmerülése esetén, ha az a)–e) vagy i) pontban meghatározottak szerint átvilágításra még nem került sor;
 - g) ha a korábban rögzített ügyfélazonosító adatok valódiságával vagy megfelelőségével kapcsolatban kétség merül fel;
 - h) ha az ügyfél-azonosító adatokban bekövetkezett változás kerül átvezetésre és kockázatérzékenységi megközelítés alapján szükséges az ügyfél-átvilágítás ismételt elvégzése;
-- i) háromszázezer forintot elérő, illetve azt meghaladó összegű pénzváltás esetén.
+- i) háromszázezer forintot elérő, illetve azt meghaladó összegű pénzváltás és virtuális fizetőeszköz átváltás esetén.
 
 (2) Az (1) bekezdés b), c) és i) pontjában meghatározott átvilágítási kötelezettség kiterjed az egymással ténylegesen összefüggő, több ügyleti megbízásra, ha ezek együttes értéke eléri az (1) bekezdés b), c) és i) pontjában meghatározott összeget. Ebben az esetben az átvilágítást azon ügyleti megbízás elfogadásakor kell végrehajtani, amellyel az ügyleti megbízások együttes értéke eléri az (1) bekezdés b), c) és i) pontjában meghatározott összeget.
 
@@ -208,7 +222,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 #### 4. Ügyfél-átvilágítási intézkedések
 
-7. § (1) A szolgáltató köteles a 6. § (1) bekezdés a) és e)–h) pontjában meghatározott esetben az ügyfelet, annak meghatalmazottját, a szolgáltatónál eljáró rendelkezésre jogosultat, továbbá a szolgáltatónál eljáró képviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
+7. § (1) A szolgáltató köteles a 6. § (1) bekezdés a) és e)–h) pontjában meghatározott esetben az ügyfelet, annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
 
 (2) A szolgáltató az azonosítás során az alábbi adatokat köteles rögzíteni:
 
@@ -254,7 +268,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében
 
-- a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít, vagy
+- a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló hátoldala kivételével másolatot készít, vagy
 - b) a (2) bekezdésben meghatározott adatok vonatkozásában a (3) bekezdés alapján elvégzett közhiteles nyilvántartásból történő adatlekérdezés eredményét rögzíti és nyilvántartja.
 
 (8a) A szolgáltató a (8) bekezdésben meghatározott kötelezettség teljesítése során birtokába jutott, a (3) bekezdésben meghatározott okiratban feltüntetett valamennyi személyes adatot – a lakcímet igazoló hatósági igazolvány hátoldalán szereplő személyi azonosító kivételével – kezeli.
@@ -294,7 +308,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (2) A szolgáltató az (1) bekezdésben meghatározott adatokon kívül az ügyféltől az arra vonatkozó nyilatkozat megtételét is köteles kérni, hogy a tényleges tulajdonosa kiemelt közszereplőnek minősül-e. Ha a tényleges tulajdonos kiemelt közszereplő, a nyilatkozatnak tartalmaznia kell, hogy a 4. § (2) bekezdés mely pontja alapján minősül kiemelt közszereplőnek.
 
-(3) Ha kétség merül fel a tényleges tulajdonos kilétével kapcsolatban, a szolgáltató megtesz minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem bizonyosodik meg a tényleges tulajdonos személyéről, ideértve az ügyfél tulajdonosi és irányítási rendszerének megértését is.
+(3) A szolgáltató megtesz minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem bizonyosodik meg a tényleges tulajdonos személyéről, ideértve az ügyfél tulajdonosi és irányítási rendszerének megértését is.
 
 (4) A szolgáltató köteles a tényleges tulajdonos személyazonosságára vonatkozó adat ellenőrzésére a részére bemutatott okirat, nyilvánosan hozzáférhető nyilvántartás vagy más olyan nyilvántartás alapján, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
@@ -307,6 +321,15 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 (7) A szolgáltató köteles nyilvántartást vezetni a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése érdekében az (1)–(6) bekezdés alapján megtett intézkedésekről.
 
 (8) Ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa a 3. § 38. pont f) alpontja alapján a vezető tisztségviselő, a szolgáltató köteles a vezető tisztségviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni. A szolgáltató köteles rögzíteni az elvégzett ügyfél-átvilágítási intézkedéseket, valamint az arra vonatkozó információt is, ha ezen intézkedéseket nem tudta végrehajtani.
+
+(9) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél – a 7–10. § szerinti ügyfél-átvilágítással és a 12. § (3) bekezdésében foglalt kötelezettség teljesítésével összefüggésben – nyilvántartja a tényleges tulajdonosaira vonatkozó, az (1) és (2) bekezdés szerinti adatokat, és gondoskodik ezen adatok naprakészen tartásáról.
+
+(10) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfelet
+
+- a) az (1) és (2) bekezdés szerinti adatokról az ügyfél felhívására, illetve
+- b) az (1) és (2) bekezdés szerinti adatok változásáról
+
+haladéktalanul tájékoztatja.
 
 9/A. § (1) A természetes személy ügyfél köteles a szolgáltató részére személyes megjelenéssel írásbeli nyilatkozatot tenni, vagy a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján nyilatkozni arra vonatkozóan, hogy kiemelt közszereplőnek vagy kiemelt közszereplő közeli hozzátartozójának vagy a kiemelt közszereplővel közeli kapcsolatban álló személynek minősül-e. Ha a természetes személy ügyfél kiemelt közszereplőnek vagy kiemelt közszereplő közeli hozzátartozójának vagy a kiemelt közszereplővel közeli kapcsolatban álló személynek minősül, a nyilatkozatnak tartalmaznia kell, hogy a 4. § (2)–(4) bekezdésének mely hivatkozása alapján minősül kiemelt közszereplőnek vagy kiemelt közszereplő közeli hozzátartozójának vagy a kiemelt közszereplővel közeli kapcsolatban álló személynek.
 
@@ -361,15 +384,21 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) Az 1. § (1) bekezdés i) pontjában meghatározott szolgáltató – kockázatérzékenységi megközelítés alapján – az egy naptári vagy játéknapon belül kétmillió forintot elérő vagy meghaladó értékű pénzügyi műveletet végző ügyfél tevékenységét megerősített eljárásban követi nyomon.
 
-12. § (1) A szolgáltató köteles biztosítani, hogy az ügyfélre vonatkozóan a 7–10. § alapján rendelkezésre álló adatok és okiratok, valamint az ügyfél kockázati szintjének meghatározása naprakészek legyenek, így különösen az ügyfélre vonatkozóan rendelkezésre álló adatok és okiratok megváltozásáról történő tudomásszerzés esetén, a tényleges tulajdonosra vonatkozó adatok jogszabály alapján történő ellenőrzése céljából vagy az adózás területén történő együttműködés teljesítése érdekében a szolgáltató köteles ellenőrizni az ügyfeleiről rendelkezésre álló adatokat.
+12. § (1) A szolgáltató – a (2a) bekezdés kivételével – köteles biztosítani, hogy az ügyfélre vonatkozóan a 7–10. § alapján rendelkezésre álló adatok és okiratok, valamint az ügyfél kockázati szintjének meghatározása naprakészek legyenek, így különösen az ügyfélre vonatkozóan rendelkezésre álló adatok és okiratok megváltozásáról történő tudomásszerzés esetén, a tényleges tulajdonosra vonatkozó adatok jogszabály alapján történő ellenőrzése céljából vagy az adózás területén történő együttműködés teljesítése érdekében a szolgáltató – a (2a) bekezdés kivételével – köteles ellenőrizni az ügyfeleiről rendelkezésre álló adatokat.
 
 (2) Az (1) bekezdésben foglalt ellenőrzési kötelezettséget a szolgáltató kockázatérzékenységi megközelítés alapján, magas kockázat esetén évente, alacsony kockázat esetén legalább ötévente köteles elvégezni. Ha az ellenőrzés során a szolgáltatónak kétsége merül fel az adatok és a nyilatkozatok naprakészségét illetően, akkor ismételten elvégzi a kétség kizárásához szükséges ügyfél-átvilágítási intézkedéseket.
 
-(3) Üzleti kapcsolat fennállása alatt az ügyfél, annak meghatalmazottja, a szolgáltatónál eljáró rendelkezésre jogosult, továbbá a szolgáltatónál eljáró képviselő köteles a tudomásszerzéstől számított öt munkanapon belül értesíteni a szolgáltatót az ügyfél-átvilágítás során megadott adatokban, illetve a tényleges tulajdonos személyét érintően bekövetkezett változásról.
+(2a) Az önkéntes kölcsönös biztosító pénztár az ügyfél, a tényleges tulajdonos, a szolgáltatási kedvezményezett, a haláleseti kedvezményezett és az örökös tekintetében legkésőbb az ügyfél, a szolgáltatási kedvezményezett, a haláleseti kedvezményezett és az örökös részére történő ügylet teljesítését megelőzően biztosítja a 7–10. § alapján rendelkezésre álló adatok és okiratok, valamint az ügyfél kockázati szintje meghatározásának naprakészségét.
 
-(4) A (3) bekezdésben előírt kötelezettség teljesítése érdekében a szolgáltató köteles ügyfele, valamint annak meghatalmazottja, a rendelkezésre jogosult és a képviselő figyelmét írásban felhívni az adatokban bekövetkezett változások közlésének kötelezettségére.
+(2b) Az 1. § (1) bekezdés r) pontjában meghatározott szolgáltató az (1) bekezdésben foglalt ellenőrzési kötelezettséget félévente köteles elvégezni. Ha az ellenőrzés során a szolgáltatónak kétsége merül fel az adatok és a nyilatkozatok naprakészségét illetően, akkor ismételten elvégzi a kétség kizárásához szükséges ügyfél-átvilágítási intézkedéseket.
 
-(5) Amennyiben a szolgáltató az ügyfél által kapcsolattartásra megadott módokon nem tud az ügyféllel kapcsolatba lépni annak ellenére, hogy az ügyfél ügyletek végrehajtását kezdeményezi, a szolgáltatónak kockázatérzékenységi megközelítés alapján meg kell kísérelnie három hónapon belül legalább két alkalommal, igazolt módon postai úton írásban felszólítani az ügyfelet – a lehetséges jogkövetkezményekre való egyidejű figyelmeztetés mellett – a szolgáltatóval való kapcsolat felvételére. A második értesítés sikertelenségét követően a szolgáltató az ügyfél vagy annak meghatalmazottja általi kapcsolatfelvételig megtagadja az ügyfél által kezdeményezett, négymillió-ötszázezer forintot elérő összegű ügylet teljesítését.
+(3) Üzleti kapcsolat fennállása alatt az ügyfél, annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője köteles a tudomásszerzéstől számított öt munkanapon belül értesíteni a szolgáltatót az ügyfél-átvilágítás során megadott adatokban, illetve a tényleges tulajdonos személyét érintően bekövetkezett változásról.
+
+(4) A (3) bekezdésben előírt kötelezettség teljesítése érdekében a szolgáltató köteles ügyfele, valamint annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője figyelmét írásban felhívni az adatokban bekövetkezett változások közlésének kötelezettségére.
+
+(5) Amennyiben a szolgáltató az ügyfél által kapcsolattartásra megadott módokon nem tud az ügyféllel kapcsolatba lépni annak ellenére, hogy az ügyfél ügyletek végrehajtását kezdeményezi, a szolgáltatónak kockázatérzékenységi megközelítés alapján meg kell kísérelnie három hónapon belül legalább két alkalommal, igazolt módon elektronikusan vagy elektronikus elérhetőség hiányában postai úton írásban felszólítani az ügyfelet – a lehetséges jogkövetkezményekre való egyidejű figyelmeztetés mellett – a szolgáltatóval való kapcsolat felvételére. A második értesítés sikertelenségét követően a szolgáltató az ügyfél vagy annak meghatalmazottja általi kapcsolatfelvételig megtagadja az ügyfél által kezdeményezett, négymillió-ötszázezer forintot elérő összegű ügylet teljesítését.
+
+12/A. § A 11. és 12. §-t nem kell alkalmazni a Ptk. 6:477. § a) pontjában meghatározott kockázati életbiztosítással összefüggő üzleti kapcsolat során.
 
 13. § (1) A szolgáltató – a (2)–(6) bekezdés kivételével – az üzleti kapcsolat létesítése előtt köteles lefolytatni az ügyfél és a tényleges tulajdonos személyazonosságának igazoló ellenőrzését.
 
@@ -382,9 +411,9 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) Ha a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítás kedvezményezettje, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultak személye, továbbá a kedvezményezett által meghatározott teljesítés elfogadására jogosult személye a szerződés megkötésekor még nem ismert, a kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult, továbbá a kedvezményezett által meghatározott teljesítés elfogadására jogosult személyazonosságának igazoló ellenőrzését legkésőbb a kifizetéssel egyidejűleg vagy a szerződésből (kötvényből) eredő jogoknak a jogosult általi érvényesítéséig lefolytatja.
 
-(5) A fizetési számlanyitásra jogosult szolgáltató, valamint az ügyfélszámla, értékpapírszámla és értékpapír letéti számlanyitásra jogosult szolgáltató – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult a számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél, a meghatalmazott, a rendelkezésre jogosult és a képviselő nem végezhet műveletet.
+(5) A fizetési számlanyitásra jogosult szolgáltató, valamint az ügyfélszámla, értékpapírszámla és értékpapír letéti számlanyitásra jogosult szolgáltató – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult a számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél, valamint annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője nem végezhet műveletet.
 
-(6) Az önkéntes kölcsönös biztosító pénztár – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) szerinti egyéni számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél és a szolgáltatási kedvezményezett nem részesülhet szolgáltatásban. A szolgáltató a tag halála esetén köteles a kifizetésben részesülő haláleseti kedvezményezettet, illetve örököst – az ügylet teljesítését megelőzően – azonosítani. A foglalkoztatói nyugdíjszolgáltató intézmény – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény (a továbbiakban: Fnyt.) szerinti tagi számla megnyitására, feltéve, ha biztosítja, hogy a tag, illetve a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig a tag, a járadékos és a kedvezményezett nem részesülhet szolgáltatásban.
+(6) Az önkéntes kölcsönös biztosító pénztár – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény szerinti egyéni számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél és a szolgáltatási kedvezményezett nem részesülhet szolgáltatásban. A szolgáltató a tag halála esetén köteles a kifizetésben részesülő haláleseti kedvezményezettet, illetve örököst – az ügylet teljesítését megelőzően – azonosítani. A foglalkoztatói nyugdíj szolgáltató intézmény – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti tagi számla megnyitására, feltéve, ha biztosítja, hogy a tag, illetve a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig a tag, a járadékos és a kedvezményezett nem részesülhet szolgáltatásban. A biztosító jogosult a Ptk. 6:477. § a) pontjába tartozó kockázati életbiztosítási szerződés megkötésére és teljesítésére, feltéve, ha biztosítja, hogy a kifizetésre jogosult, illetve annak tényleges tulajdonosa személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél és a szolgáltatási kedvezményezett nem részesülhet szolgáltatásban.
 
 (7) A bizalmi vagyonkezelő köteles a szerződés megkötésekor nem ismert kedvezményezettre vonatkozó, a későbbi azonosításhoz és a személyazonosság igazoló ellenőrzéséhez szükséges valamennyi információt rögzíteni. Ebben az esetben a személyazonosság igazoló ellenőrzésének a kifizetéssel egyidejűleg vagy azt megelőzően kell megtörténnie, illetve azzal egyidejűleg vagy azt megelőzően, hogy a kedvezményezett a szerződésből eredő jogait érvényesíti.
 
@@ -394,8 +423,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (10) Nem kell a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedéseket ismételten elvégezni, ha
 
-- a) a szolgáltató az ügyfél, a meghatalmazott, a rendelkezésre jogosult, továbbá a képviselő vonatkozásában a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedéseket egyéb üzleti kapcsolat vagy ügyleti megbízás kapcsán már elvégezte,
-- b) jelen üzleti kapcsolat vagy ügyleti megbízás kapcsán az ügyfél, a meghatalmazott, a rendelkezésre jogosult, továbbá a képviselő személyazonosságát a 7. § (2)–(6) bekezdése alapján megállapította, és
+- a) a szolgáltató az ügyfél, valamint annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője vonatkozásában a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedéseket egyéb üzleti kapcsolat vagy ügyleti megbízás kapcsán már elvégezte,
+- b) jelen üzleti kapcsolat vagy ügyleti megbízás kapcsán az ügyfél, valamint annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője személyazonosságát a 7. § (2)–(6) bekezdése alapján megállapította, és
 - c) nem történt változás a 7. § (2) bekezdésében, a 8. § (2) és (3) bekezdésében, a 9. § (1) és (2) bekezdésében, valamint a 10. § (1) bekezdés b) pontjában felsorolt adatokban.
 
 14. § (1) Az 1. § (1) bekezdés a)–d) pontjában meghatározott szolgáltató – a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása céljából – a négymillió-ötszázezer forintot el nem érő – pénzváltás esetén a százezer forintot elérő vagy meghaladó összegű – ügyleti megbízás teljesítésekor természetes személy ügyfél esetében a 7. § (2) bekezdés a) pont aa) és ad) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában, valamint a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
@@ -404,9 +433,9 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) Az (1) bekezdéstől eltérően a 3. § 25. pontjában meghatározott Posta Elszámoló Központot működtető intézmény – a háromszázezer forintot el nem érő összegű, belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás igénybevételére irányuló, fizetési számlára történő befizetés kivételével – az ügyleti megbízás teljesítésekor – a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása céljából – a 7. § (2) bekezdés a) pont aa) alpontjában és ad) vagy af) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában és a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
 
-(4) Az 1. § (1) bekezdés e)–h), j)–k) és m) pontjában meghatározott szolgáltató – a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében – a háromszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor természetes személy ügyfél esetében a 7. § (2) bekezdés a) pont aa) és ad) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában, valamint a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
+(4) Az 1. § (1) bekezdés e)–h), j)–k) és m)–o) pontjában meghatározott szolgáltató – a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében – a háromszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor természetes személy ügyfél esetében a 7. § (2) bekezdés a) pont aa) és ad) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában, valamint a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
 
-14/A. § (1) A 6. § (1) bekezdés b)–d) és i) pontjában meghatározott ügyleti megbízás teljesítése esetén a szolgáltató köteles az ügyfelet, annak meghatalmazottját, a rendelkezésre jogosultat, továbbá a képviselőt a 7. § (2) bekezdésében meghatározott valamennyi adatra vonatkozóan azonosítani, személyazonosságának igazoló ellenőrzését elvégezni és a 7. § (3) bekezdése szerinti okiratáról másolatot készíteni, köteles továbbá a 8–9/A. §-ban meghatározott ügyfél-átvilágítási intézkedéseket elvégezni.
+14/A. § (1) A 6. § (1) bekezdés b)–d) és i) pontjában meghatározott ügyleti megbízás teljesítése esetén a szolgáltató köteles az ügyfelet, valamint annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét a 7. § (2) bekezdésében meghatározott valamennyi adatra vonatkozóan azonosítani, személyazonosságának igazoló ellenőrzését elvégezni és a 7. § (3) bekezdése szerinti okiratáról másolatot készíteni, köteles továbbá a 8–9/A. §-ban meghatározott ügyfél-átvilágítási intézkedéseket elvégezni.
 
 (2) A szolgáltató a 6. § (1) bekezdésében meghatározott esetben az ügyletre vonatkozóan az alábbi adatokat köteles rögzíteni:
 
@@ -465,6 +494,17 @@ is elvégezheti.
 - b) az ügyleti megbízás összege a háromszázezer forintot meghaladja, de a hárommillió forintot nem éri el; és
 - c) az ügyleti megbízás belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás ellenértékének teljesítésére irányul.
 
+(5) Az (1) bekezdéstől eltérően a 3. § 28. pont e) alpontjában meghatározott utalványkibocsátó az üzleti kapcsolat létesítése előtt a 7. § (2) bekezdésében meghatározott adatokat köteles rögzíteni, valamint a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti az alábbi feltételek együttes fennállása esetén:
+
+- a) az utalványkibocsátó által kibocsátott utalvány kizárólag Magyarországon használható fel áruk vagy szolgáltatások ellenértékének kiegyenlítésére;
+- b) ügyfele nem stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban rendelkezik lakóhellyel vagy székhellyel;
+- c) az egy utalványbirtokos által megvásárolt vagy visszaváltott forgatható utalvány összege egy naptári éven belül nem haladja meg a hárommillió forintot; és
+- d) nem merül fel pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény.
+
+(6) Amennyiben az (5) bekezdés szerinti ügyfél-átvilágítási intézkedések alkalmazását követően az (5) bekezdés feltételei már nem állnak fent, az utalványkibocsátó elvégzi az ügyfél kockázati szintjének megfelelő ügyfél-átvilágítási intézkedéseket.
+
+(7) Amennyiben a forgatható utalványt visszaváltó utalványbirtokos személye nem egyezik az utalványt az utalványkibocsátótól vagy utalványforgalmazón keresztül megvásárló személlyel, az utalványkibocsátó elvégzi vele szemben az (5) vagy (6) bekezdés szerinti ügyfél-átvilágítási intézkedéseket.
+
 #### 6. Fokozott ügyfél-átvilágítás
 
 16. § (1) A szolgáltató fokozott ügyfél-átvilágítási intézkedéseket köteles alkalmazni, ha az ügyfél magas kockázatú. Az ügyfelet magas kockázatúnak kell tekinteni az alábbi esetekben:
@@ -510,7 +550,7 @@ vonatkozóan,
 
 (4) A miniszter tájékoztatja a Bizottságot a (2) és (3) bekezdésben meghatározott intézkedésekről.
 
-17. § (1) A szolgáltató az azonosítás és a személyazonosság igazoló ellenőrzése érdekében köteles megkövetelni a 7. § (2) bekezdésében meghatározott adatot tartalmazó, a 7. § (3) bekezdésében meghatározott okirat hiteles másolatát, ha az ügyfél, a rendelkezésre jogosult, a képviselő vagy a meghatalmazott nem jelent meg személyesen az azonosítás és a személyazonosság igazoló ellenőrzése céljából, amennyiben az átvilágításra nem a szolgáltató által üzemeltetett, biztonságos, védett, előzetesen auditált elektronikus hírközlő eszköz útján került sor.
+17. § (1) A szolgáltató az azonosítás és a személyazonosság igazoló ellenőrzése érdekében köteles megkövetelni a 7. § (2) bekezdésében meghatározott adatot tartalmazó, a 7. § (3) bekezdésében meghatározott okirat hiteles másolatát, ha az ügyfél, annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja vagy képviselője nem jelent meg személyesen az azonosítás és a személyazonosság igazoló ellenőrzése céljából, amennyiben az átvilágításra nem a szolgáltató által üzemeltetett, biztonságos, védett, előzetesen auditált elektronikus hírközlő eszköz útján került sor.
 
 (2) Az (1) bekezdésben megjelölt okirat hiteles másolata abban az esetben fogadható el az azonosítás és a személyazonosság igazoló ellenőrzése teljesítéséhez, ha
 
@@ -556,9 +596,11 @@ vonatkozóan,
 
 23. § (1) A 22. § (1) bekezdésében meghatározott esetben a szolgáltató a 7–10. §-ban meghatározott ügyfél-átvilágítás elvégzése érdekében igényelt adatot az érintett ügyfél hozzájárulása esetén jogosult más szolgáltató rendelkezésére bocsátani.
 
-(2) A 22. § (1) bekezdésében meghatározott esetben és a 22. § (3) bekezdésében meghatározott feltételek fennállása esetén, amennyiben az ügyfél-átvilágítást lefolytató szolgáltató és az ügyfél-átvilágítás eredményét elfogadó szolgáltató az ügyfél-átvilágítás eredményének a rendelkezésére bocsátásáról megállapodott, az ügyfél-átvilágítást lefolytató szolgáltató az ügyfél-átvilágítás eredményét elfogadó szolgáltató írásbeli kérésére az ügyfél vagy a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzése érdekében rögzített adat, továbbá a személyazonosságra vonatkozó egyéb dokumentáció másolatát – az érintett ügyfél hozzájárulása esetén – haladéktalanul köteles az ügyfél-átvilágítás eredményét elfogadó szolgáltató rendelkezésére bocsátani.
+(2) A 22. § (1) bekezdésében meghatározott esetben és a 22. § (3) bekezdésében meghatározott feltételek fennállása esetén, amennyiben az ügyfél-átvilágítást lefolytató szolgáltató és az ügyfél-átvilágítás eredményét elfogadó szolgáltató az ügyfél-átvilágítás eredményének a rendelkezésére bocsátásáról megállapodott, az ügyfél-átvilágítást lefolytató szolgáltató az ügyfél-átvilágítás eredményét elfogadó szolgáltató elektronikus úton megtett kérésére az ügyfél vagy a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzése érdekében rögzített adat, továbbá a személyazonosságra vonatkozó egyéb dokumentáció másolatát – az érintett ügyfél hozzájárulása esetén – haladéktalanul köteles az ügyfél-átvilágítás eredményét elfogadó szolgáltató rendelkezésére bocsátani.
 
-24. § A 22. és a 23. § rendelkezéseit nem kell alkalmazni a szerződéses jogviszonyon alapuló kiszervezésre és az ügynöki tevékenységre.
+24. § (1) A 22. és a 23. §-t nem kell alkalmazni a szerződéses jogviszonyon alapuló kiszervezésre és az ügynöki tevékenységre.
+
+(2) A szolgáltató az üzleti kapcsolat létesítésével kapcsolatos döntést nem szervezheti ki.
 
 #### 7/A. Speciális ügyfél-átvilágítási intézkedések
 
@@ -610,7 +652,7 @@ vonatkozóan,
 
 (5) A Rendelet 17. cikk (4) és (7) bekezdése, valamint a 19–22. cikke által meghatározott illetékes hatóság a Felügyelet, az MNB vonatkozásában a pénzügyi információs egység.
 
-(6) Az ellenőrzés során a Felügyelet a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egység a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
+(6) Az ellenőrzés során a Felügyelet a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.), továbbá a pénzügyi információs egység az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (7) A Rendelet előírásainak megsértése, illetve a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet a jogsértés súlyával arányosan a 69. § (1) bekezdésében meghatározott intézkedéseket alkalmazza, továbbá megtiltja a szolgáltatónak a jogsértő állapot fennállása alatt a pénzátutalási tevékenység végzését.
 
@@ -658,6 +700,8 @@ vonatkozóan,
 
 (2) A miniszter tájékoztatja a Bizottságot és a tagállamokat a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeiről.
 
+(2a) Az európai felügyeleti hatóságok számára a Felügyelet továbbítja a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeit.
+
 (3) A miniszter nyilvánosságra hozza a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeinek minősített adatokat nem tartalmazó összefoglalását.
 
 (4) A koordinált nemzeti kockázatértékelés elkészítésében közreműködő szervek – a nemzetközi együttműködésüket szabályozó rendelkezéseknek is megfelelő módon – információt szolgáltathatnak az Európai Unió tagállamai által készített kockázatértékeléshez.
@@ -680,11 +724,13 @@ utaló adat, tény, körülmény (a továbbiakban együtt: bejelentés alapjául
 
 (3) A szolgáltató vezetője, foglalkoztatottja és segítő családtagja pénzmosásra, terrorizmus finanszírozására vagy dolog büntetendő cselekményből való származására utaló adat, tény, körülmény felmerülését a végrehajtott vagy végrehajtandó ügylet és az ügyfél által kezdeményezett, de végre nem hajtott ügylet esetében, valamint a 13. § (8) bekezdésében meghatározott esetben is köteles vizsgálni.
 
+(4) A szolgáltató bejelentés alapjául szolgáló adat, tény, körülmény észlelése esetén az üzleti kapcsolatot az ügyféllel azonnali hatállyal megszüntetheti, amennyiben a felmondási idővel járó késedelem azzal a veszéllyel jár, hogy a szolgáltató az ügyfél ügyleteinek teljesítése miatt vagyoni haszonszerzés mellett bűncselekményből származó ügyletek végrehajtásában működne közre és az üzleti kapcsolat azonnali hatállyal történő megszüntetésével ellentétes bűnmegelőzési, bűnfelderítési vagy nyomozási érdek a pénzügyi információs egység jelzése alapján nem áll fenn. A szolgáltatónak ebben az esetben nem kell tájékoztatnia az ügyfelet a felmondás okáról.
+
 31. § (1) A szolgáltató köteles kijelölni – a szervezet sajátosságától, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több személyt (a továbbiakban: kijelölt személy), aki a szolgáltató vezetőjétől, foglalkoztatottjától és segítő családtagjától érkező bejelentést a pénzügyi információs egységnek haladéktalanul továbbítja. A kijelölt személy a szolgáltató vezetője, alkalmazottja vagy segítő családtagja lehet.
 
 (2) A szolgáltató a kijelölt személy nevéről, beosztásáról, elérhetőségéről a tevékenysége megkezdésének időpontjától, valamint az ezekben bekövetkezett változásról a változástól számított öt munkanapon belül köteles tájékoztatni a pénzügyi információs egységet.
 
-(3) A szolgáltató nevében a kijelölt személy a bejelentést a pénzügyi információs egységnek védelemmel ellátott elektronikus üzenet formájában továbbítja, amelynek beérkezéséről a pénzügyi információs egység elektronikus üzenet formájában haladéktalanul értesíti a bejelentést küldő szolgáltatót.
+(3) A szolgáltató nevében a kijelölt személy a bejelentést és annak mellékleteit a pénzügyi információs egység által meghatározott formában, védelemmel ellátott elektronikus üzenetben továbbítja a pénzügyi információs egységnek, amelynek beérkezéséről a pénzügyi információs egység elektronikus üzenetben haladéktalanul értesíti a bejelentést küldő szolgáltatót.
 
 32. § (1) A 31. § (1) bekezdése szerinti bejelentésnek a 31. § (3) bekezdés szerinti továbbításáig a szolgáltató nem teljesítheti az ügyletet.
 
@@ -732,7 +778,7 @@ utaló adat, tény, körülmény (a továbbiakban együtt: bejelentés alapjául
 39. § A pénzügyi információs egység bejelentés alapjául szolgáló tény, adat, körülmény felmerülése esetén a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott információtovábbítás teljesítése céljából operatív elemzést végez. A pénzügyi információs egység az operatív elemzése során:
 
 - a) összeveti a nemzeti kockázatértékelésben meghatározott kockázatok figyelembevételével a 40. §-ban meghatározottak szerint kapott információkat az elemző-értékelő tevékenység céljából kezelt adatokkal, és automatizált kockázatelemzést végez;
-- b) összeveti az e törvény, valamint a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény (továbbiakban: készpénz ellenőrzéséről szóló törvény) alapján tudomására jutott információt, azon adatbázisok adatait, amelyekhez közvetlen hozzáféréssel rendelkezik, a nyilvános vagy bárki számára hozzáférhető adatokat, valamint az e törvény alapján beszerezhető adatokat, valamint az azok között fennálló összefüggéseket feltárja, értelmezi;
+- b) összeveti az e törvény, valamint az Unió területére belépő, illetve az Unió területét elhagyó készpénz ellenőrzéséről és az 1889/2005/EK rendelet hatályon kívül helyezéséről szóló 2018/1672 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2021. évi XLI. törvény (továbbiakban: készpénz ellenőrzéséről szóló törvény) alapján tudomására jutott információt, azon adatbázisok adatait, amelyekhez közvetlen hozzáféréssel rendelkezik, a nyilvános vagy bárki számára hozzáférhető adatokat, valamint az e törvény alapján beszerezhető adatokat, valamint az azok között fennálló összefüggéseket feltárja, értelmezi;
 - c) nyomon követi az a) pontban meghatározott adatokkal összefüggő pénzügyi műveleteket, folyamatokat, valamint az üzleti kapcsolatokat, ügyleti megbízásokat megvizsgálja;
 - d) dönt a 34. § (3) bekezdésében, a 35. § (4) bekezdésében, a 42–44. §-ban és a 46. §-ban meghatározottak végrehajtásának szükségességéről;
 - e) dönt az 49. §-ban meghatározott nemzetközi információcsere és együttműködés keretében alkalmazható intézkedésekről;
@@ -744,7 +790,7 @@ utaló adat, tény, körülmény (a továbbiakban együtt: bejelentés alapjául
 - b) a szolgáltató 34. § (1) bekezdésében meghatározott ügylet felfüggesztésével kapcsolatos bejelentése;
 - c) az 5. §-ban meghatározott felügyeletet ellátó szerv, illetve vámhatóság 37. § (2) bekezdésében meghatározott tájékoztatása;
 - d) a 48. § (1) bekezdésben felsorolt hatóságok 48. § (4) bekezdésében meghatározott információ szolgáltatására vonatkozó igénylése;
-- e) a készpénz ellenőrzéséről szóló törvény 4. § (3) bekezdése alapján a vámhatóság által továbbított információ;
+- e) a készpénz ellenőrzéséről szóló törvény 5. § (1a) bekezdése alapján a vámhatóság által továbbított adat;
 - f) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, valamint a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításért felelős szerv adatigénylése, illetve bejelentés alapjául szolgáló adat, tény, körülmény miatt tett tájékoztatása;
 - g) a 49. § (1) bekezdésében meghatározott külföldi pénzügyi információs egységgel folytatott nemzetközi információcsere és együttműködés különböző formái
 
@@ -754,19 +800,19 @@ alapján indul meg.
 
 (2) A pénzügyi információs egység tájékoztatást küldhet a stratégiai elemzés eredményéről a 48. § (1) bekezdésében meghatározott szerveknek, valamint az 5. §-ban meghatározott felügyeletet ellátó szerveknek, feltéve, hogy a szerv törvény alapján jogosult az adat kezelésére, és az hatásköre gyakorlásához, illetve feladatai ellátásához szükséges.
 
-42. § (1) A pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni a szolgáltató által kezelt bármely adatot, ideértve a fizetési, biztosítási, bank-, értékpapír-, pénztártitkot vagy foglalkoztatói nyugdíj-titkot, valamint üzleti titkot.
+42. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni a szolgáltató által kezelt bármely adatot, ideértve a fizetési, biztosítási, bank-, értékpapír-, pénztártitkot vagy foglalkoztatói nyugdíj-titkot, valamint üzleti titkot.
 
-(2) A pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben megkereséssel fordulhat az (1) bekezdésben meghatározott adat és titok megismerése érdekében a szolgáltatóhoz, amely köteles a megkeresésben megjelölt adatot, titkot a pénzügyi információs egység részére megküldeni.
+(2) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben megkereséssel fordulhat az (1) bekezdésben meghatározott adat és titok megismerése érdekében a szolgáltatóhoz, amely köteles a megkeresésben megjelölt adatot, titkot a pénzügyi információs egység részére megküldeni.
 
 (3) A szolgáltató köteles biztosítani a pénzügyi információs egység megkeresésének teljes körű, gyors és biztonságos csatornákon keresztüli teljesítését.
 
-43. § (1) A pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni a központi államigazgatási szerv, a bíróság, és az 5. §-ban meghatározott felügyeletet ellátó szerv által kezelt adatot, ideértve az adótitkot, illetve vámtitkot képező adatot.
+43. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni a központi államigazgatási szerv, a bíróság, és az 5. §-ban meghatározott felügyeletet ellátó szerv által kezelt adatot, ideértve az adótitkot, illetve vámtitkot képező adatot.
 
-(2) A központi államigazgatási szerv, a bíróság és az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a pénzügyi információs egység elemző-értékelő tevékenysége keretében kért (1) bekezdésben meghatározott adatot, titkot a pénzügyi információs egység rendelkezésére bocsátani.
+(2) A központi államigazgatási szerv, a bíróság és az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében kért (1) bekezdésben meghatározott adatot, titkot a pénzügyi információs egység rendelkezésére bocsátani.
 
-44. § (1) A pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
+44. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
 
-(2) A pénzügyi információs egység elemző-értékelő tevékenysége keretében adat szolgáltatását kérheti az (1) bekezdésben meghatározott szervtől, amelynek átadását a megkeresett szerv – a (4) bekezdésben meghatározott eset kivételével – nem tagadhatja meg.
+(2) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében adat szolgáltatását kérheti az (1) bekezdésben meghatározott szervtől, amelynek átadását a megkeresett szerv – a (4) bekezdésben meghatározott eset kivételével – nem tagadhatja meg.
 
 (3) A (2) bekezdésben meghatározott adatszolgáltatás igénylése mellett a pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben közvetlen hozzáféréssel adatot vehet át a nyomozó hatóság adatbázisából. A közvetlen hozzáférést a nyomozó hatóság biztosítja.
 
@@ -802,6 +848,8 @@ alapján indul meg.
 47. § (1) A pénzügyi információs egység a 42–44. §, a 75. § (1)–(2) bekezdése alapján tudomására jutott adatot, titkot csak a 41. § (1) bekezdésében meghatározott stratégiai elemzésének ellátása érdekében, valamint a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott célokból, a 39. §-ban meghatározott operatív elemzésének érdekében használhatja fel.
 
 (2) A pénzügyi információs egység a 46. § alapján tudomására jutott adatot, titkot csak a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott célokból, a 39. §-ban meghatározott operatív elemzésének ellátása érdekében használhatja fel.
+
+(3) A pénzügyi információs egység a 42–44. § alapján tudomására jutott adatot, titkot a felügyeleti tevékenysége ellátása érdekében felhasználhatja.
 
 48. § (1) A pénzügyi információs egység az operatív elemzése eredményét kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése céljából továbbíthatja:
 
@@ -853,7 +901,7 @@ részére.
 
 (3) Ha e törvény vagy a készpénz ellenőrzéséről szóló törvény alapján a pénzügyi információs egység olyan bejelentést vagy információt kap, amely az Európai Unió más tagállamát érinti, a pénzügyi információs egység haladéktalanul tájékoztatást küld az érintett tagállam pénzügyi információs egységének.
 
-52. § (1) A pénzügyi információs egység nemzetközi információcsere és együttműködés keretében az e törvény, valamint a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló törvény alapján tudomására jutott információt – az alapbűncselekmény típusától függetlenül – továbbíthatja a külföldi pénzügyi információs egység, valamint az Europol részére.
+52. § (1) A pénzügyi információs egység nemzetközi információcsere és együttműködés keretében az e törvény, valamint a készpénz ellenőrzéséről szóló törvény alapján tudomására jutott információt – az alapbűncselekmény típusától függetlenül – továbbíthatja a külföldi pénzügyi információs egység, valamint az Europol részére.
 
 (2) A pénzügyi információs egység a külföldi pénzügyi információs egység információcsere iránti megkeresésének megválaszolását, illetve az azzal kapcsolatos tájékoztatást megtagadja, ha
 
@@ -893,7 +941,7 @@ részére.
 
 54. § (1) A bejelentés és az adatszolgáltatás teljesítéséről, annak tartalmáról, az elemző-értékelő tevékenységről, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztéséről, a bejelentő személyéről, valamint arról, hogy az ügyféllel szemben indult-e büntetőeljárás, az ügyfélnek, illetve harmadik személynek, szervezetnek a bejelentő, a pénzügyi információs egység, valamint a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján megkeresett szolgáltató, a 43. § (2) bekezdése alapján megkeresett hatóság, a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, valamint a 44. § és a 46. § alapján megkeresett szerv tájékoztatást nem adhat, és köteles biztosítani, hogy a bejelentés megtörténte, annak tartalma és a bejelentő személye titokban maradjon.
 
-(2) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az 5. §-ban meghatározott felügyeletet ellátó szerv bejelentő általi tájékoztatására, a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján a szolgáltató megkeresésére, a 43. § (2) bekezdésében, 44. § és a 46. §-ban meghatározott szerv megkeresésére, a 41. § (2) bekezdésében meghatározott tájékoztatásra, valamint a 48. §-ban és a 49. §-ban meghatározott információ továbbítására.
+(2) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az 5. §-ban meghatározott felügyeletet ellátó szerv bejelentő általi tájékoztatására, a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján a szolgáltató megkeresésére, a 43. § (2) bekezdésében, a 44. és 46. §-ban meghatározott szerv megkeresésére, a 41. § (2) bekezdésében meghatározott tájékoztatásra, a 48. és 49. §-ban meghatározott információ továbbítására, valamint a szolgáltató és a közvetítő között létrejött megbízási szerződés tekintetében a megbízás keletkezését megelőző időszakra vonatkozóan a közvetítő által tett bejelentések szolgáltató általi megismerésére, valamint a központi kapcsolattartó pontra az e törvényben, vagy közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségek teljesítése során.
 
 (3) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az információk felfedésére az ugyanazon csoporthoz tartozó tagállami hitelintézetek és pénzügyi intézmények között, illetve ezen intézetek és intézmények és harmadik országokban letelepedett fióktelepeik és többségi tulajdonú leányvállalataik között, feltéve, hogy ezek a fióktelepek és többségi tulajdonú leányvállalatok maradéktalanul megfelelnek a 62. §-ban meghatározott csoportszintű politikáknak és eljárásoknak – beleértve az információ csoporton belüli megosztására vonatkozó eljárásokat is –, a csoportszintű politikák és eljárások pedig megfelelnek az ezen törvényben meghatározott követelményeknek.
 
@@ -914,9 +962,9 @@ részére.
 
 56. § (1) A szolgáltató e törvény szerinti feladata ellátásában közreműködő vezetője, segítő családtagja és foglalkoztatottja az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettség teljesítése során birtokába jutott személyes adatokat – ideértve a pénzeszköz és vagyon forrására vonatkozó információkat – kizárólag a pénzmosás és terrorizmus finanszírozása megelőzése és megakadályozása érdekében végrehajtandó feladatai céljából, az azok ellátásához szükséges mértékben megismerheti és kezelheti.
 
-(2) A szolgáltató az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettség teljesítése során birtokába jutott személyes adatokat az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított nyolc évig jogosult kezelni.
+(2) A szolgáltató az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettség teljesítése során birtokába jutott személyes adatokat az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított nyolc évig jogosult kezelni és köteles megőrizni.
 
-57. § (1) A szolgáltató – az általa vezetett nyilvántartásban – az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettség teljesítése során birtokába jutott személyes adatnak nem minősülő adatokat, beleértve az elektronikus azonosítás során birtokába jutott adatokat is, valamint minden egyéb, az üzleti kapcsolattal összefüggésben keletkezett adatot az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított nyolc évig köteles megőrizni.
+57. § (1) A szolgáltató – az általa vezetett nyilvántartásban – az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettség teljesítése során birtokába jutott személyes adatnak nem minősülő adatokat, beleértve az elektronikus azonosítás során birtokába jutott adatokat is, valamint minden egyéb, az üzleti kapcsolattal összefüggésben keletkezett adatot az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított nyolc évig jogosult kezelni és köteles megőrizni.
 
 (2) A szolgáltató – az általa vezetett nyilvántartásban – az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettség teljesítése során birtokába jutott okiratot, illetve annak másolatát, beleértve az elektronikus azonosítás során birtokába jutott okiratot is, valamint a bejelentés és a 42. § szerinti adatszolgáltatás teljesítését, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztését igazoló iratot, illetve azok másolatát, valamint minden egyéb, az üzleti kapcsolattal összefüggésben keletkezett iratot, illetve azok másolatát az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított nyolc évig köteles megőrizni.
 
@@ -966,26 +1014,35 @@ részére.
 
 60. § (1) Az ugyanazon csoporthoz tartozó szolgáltató köteles csoportszintű politikákat és eljárásokat alkalmazni.
 
+(1a) Az (1) bekezdés szerinti csoportszintű politikákat és eljárásokat az anyavállalat határozza meg a csoporttagok számára.
+
 (2) A csoportszintű politikáknak és eljárásoknak – a csoportszintű politikák és eljárások teljes körű végrehajtása, a felügyeleti tevékenység hatékony ellátása, valamint a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében – ki kell terjednie különösen
 
 - a) az ügyfél-azonosítási intézkedések teljesítése során beszerzett személyes és személyes adatnak nem minősülő adatok – beleértve az elektronikus azonosítás során birtokába jutott adatokat is – csoporton belüli megosztására és a szolgáltató által rögzített személyes adatok és személyes adatnak nem minősülő adatok védelmére,
 - b) a bejelentés és a 42. § szerinti adatszolgáltatás teljesítését, annak tartalmát, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztését, a bejelentő személyét, valamint az ügyféllel szemben esetlegesen a folyamatban lévő vagy a jövőben megindítandó büntetőeljárást érintő információk csoporton belüli megosztásának biztosítására,
 - c) a 63. § (5)–(6) bekezdésében meghatározott vezető kinevezésének biztosítására,
 - d) a 64. § szerinti képzésre,
-- e) a 27. § (5) bekezdése szerinti külső ellenőrzési funkció meghatározására, továbbá
-- f) a csoportszintű kockázatértékelés és a 65. § szerinti belső szabályzat elkészítésére.
+- e) a 27. § (5) bekezdése szerinti külső ellenőrzési funkció meghatározására,
+- f) a csoportszintű kockázatértékelés és a 65. § szerinti belső szabályzat elkészítésére, valamint a csoportszintű kockázatcsökkentő intézkedéseknek a csoporton belüli rendelkezésre bocsátására, továbbá
+- g) a pénzmosás elleni rendelkezések hatálya alá tartozó tevékenység ellátásában részt vevő vezetők és foglalkoztatottak felvétele során a megfelelő szakmai képességeket igazoló bizonyítvány, valamint a büntetlen előéletet igazoló hatósági bizonyítvány, vagy a pénzmosás elleni rendelkezések hatálya alá tartozó tevékenység ellátásában részt vevő vezetők és foglalkoztatottak személyes joga szerinti ezzel azonos joghatású okirat megkövetelésére.
 
 61. § (1) A szolgáltató biztosítja, hogy az Európai Unió más tagállamában található fióktelepei, leányvállalatai és telephelyei e más tagállam pénzmosás és terrorizmus finanszírozása elleni nemzeti rendelkezéseit is alkalmazzák.
 
-(2) A Magyarországon telephellyel, de más tagállamban székhellyel rendelkező elektronikuspénz-kibocsátó és pénzforgalmi szolgáltató köteles kijelölni egy magyarországi központi kapcsolattartó pontot, amely biztosítja a szolgáltató pénzmosás és terrorizmus finanszírozása elleni szabályozásnak megfelelő működését, illetve elősegíti a 69. § alapján előírt felügyeleti intézkedések végrehajtását, amennyiben az alábbi feltételek bármelyike fennáll:
+(2) A Magyarországon telephellyel, de más tagállamban székhellyel rendelkező elektronikuspénz-kibocsátó és pénzforgalmi szolgáltató a magyarországi szolgáltatásnyújtás megkezdését követő öt munkanapon belül köteles írásban kijelölni, és az 5. § szerinti felügyeletet ellátó szerv, valamint a pénzügyi információs egység részére írásban bejelenteni egy magyarországi központi kapcsolattartó pontot, amely biztosítja, hogy a szolgáltató Magyarországon működő, fióktelepnek nem minősülő telephelyei végrehajtják az e törvényben vagy a pénzmosás- és terrorizmusfinanszírozás-megelőzési tárgyú közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségeket, illetve elősegíti a 69. § alapján előírt felügyeleti intézkedések végrehajtását, amennyiben az alábbi feltételek bármelyike fennáll:
 
 - a) a magyarországi telephelyek száma legalább 10;
-- b) a telephelyek által forgalmazott és beváltott elektronikus pénz összesített mennyisége vagy az általuk végzett fizetési ügyletek összesített értéke pénzügyi évenként várhatóan meghaladja a kilencszázmillió forintot vagy az előző pénzügyi évben meghaladta a kilencszázmillió forintot, vagy
+- b) a telephelyek által forgalmazott és beváltott elektronikus pénz összesített mennyisége vagy az általuk végzett fizetési ügyletek összesített értéke pénzügyi évenként várhatóan meghaladja a kilencszázmillió forintot, vagy az előző pénzügyi évben meghaladta a kilencszázmillió forintot, vagy
 - c) a Felügyelet számára, kérelemre és időben nem teszik elérhetővé az annak értékeléséhez szükséges információkat, hogy teljesült-e az a) vagy b) pontban foglalt kritérium.
 
 (3) A (2) bekezdésben foglaltak biztosítása érdekében a központi kapcsolattartó pont felel a 30. § és 32. § szerinti bejelentés és a 42. § szerinti adatszolgáltatás teljesítésére, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztésére, továbbá az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény 4. §-a szerinti bejelentésre vonatkozó jogszabályi előírásoknak való megfelelésért.
 
 (4) A szolgáltató a 60. § (2) bekezdése szerinti csoportszintű politikáknak és eljárásoknak megfelelő intézkedéseket az Európai Unió más tagállamában található fióktelepeiben, leányvállalataiban és telephelyein is köteles alkalmazni.
+
+(5) Központi kapcsolattartó pont az a természetes személy lehet, aki
+
+- a) a szolgáltatóval munkaviszonyban áll;
+- b) a feladatai megfelelő szintű ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik, valamint
+- c) Magyarországon letelepedett vagy tartósan ott tartózkodik.
 
 62. § (1) Amennyiben a szolgáltatóknak olyan harmadik országban van fióktelepük, többségi tulajdonú leányvállalatuk, vagy telephelyük, amelyekben a pénzmosás és a terrorizmus finanszírozása elleni küzdelemre vonatkozó minimumkövetelmények az e törvény által előírtakhoz képest kevésbé szigorúak, a harmadik országban található fióktelep, többségi tulajdonú leányvállalat, vagy telephely köteles végrehajtani az e törvényben meghatározott előírásokat, többek között az adatvédelemre vonatkozóan, olyan terjedelemben, ahogy a harmadik ország joga azt lehetővé teszi.
 
@@ -993,7 +1050,7 @@ részére.
 
 (3) Ha a harmadik ország jogi szabályozása – így különösen a titokvédelemre, adatvédelemre és az adatszolgáltatás teljesítésére vonatkozó szabályozása – nem teszi lehetővé a (2) bekezdésben meghatározottaknak megfelelő intézkedések alkalmazását, a szolgáltató köteles erről haladéktalanul tájékoztatni a minisztert a felügyeletet ellátó szerv útján.
 
-(4) A miniszter tájékoztatja a Bizottságot és a tagállamokat azokról az esetekről, ha harmadik ország jogi szabályozása – így különösen a titokvédelemre, adatvédelemre és az adatszolgáltatás teljesítésére vonatkozó szabályozása – nem teszi lehetővé az (1) bekezdésben meghatározottaknak megfelelő intézkedések alkalmazását.
+(4) A miniszter tájékoztatja a Bizottságot és a tagállamokat azokról az esetekről, ha harmadik ország jogi szabályozása – így különösen a titokvédelemre, adatvédelemre és az adatszolgáltatás teljesítésére vonatkozó szabályozása – nem teszi lehetővé a (2) bekezdésben meghatározottaknak megfelelő intézkedések alkalmazását.
 
 (5) Ha harmadik ország jogi szabályozása nem teszi lehetővé az (2) bekezdésben meghatározottaknak megfelelő intézkedések alkalmazását, a szolgáltató köteles a harmadik országban található fióktelepében, leányvállalatában vagy telephelyén – az európai felügyeleti hatóságok által kidolgozott és a Bizottság által elfogadott, a 2015/849 európai parlamenti és tanácsi irányelvnek a hitelintézetek és pénzügyi intézmények által bizonyos harmadik országokban a pénzmosási és terrorizmusfinanszírozási kockázat csökkentése érdekében hozandó minimális intézkedésekre és kiegészítő intézkedések típusaira vonatkozó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2019/758 felhatalmazáson alapuló bizottsági rendelettel összhangban – kiegészítő intézkedéseket alkalmazni, illetve indokolt esetekben az 5. §-ban meghatározott felügyeletet ellátó szerv dönthet további felügyeleti intézkedések alkalmazásáról.
 
@@ -1007,7 +1064,7 @@ részére.
 
 belső ellenőrző és információs rendszerek működéséről.
 
-(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket.
+(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket, valamint a szolgáltató gondoskodik arról, hogy az (1) bekezdésben meghatározott rendszer által jelzett ügyletek kivizsgálása a belső szabályzatban rögzített eljárásrendben és határidőkkel megtörténik.
 
 (3) Az (1) bekezdés c) pontjában meghatározott rendszer ezenfelül kiterjed a szolgáltató vezetője, foglalkoztatottja és segítő családtagja által az e törvény rendelkezéseinek a szolgáltató általi megsértése esetén küldhető értesítés teljesítése érdekében – a szolgáltató típusára és méretére tekintettel – kialakított és névtelenséget biztosító belső rendszer működtetésére is.
 
@@ -1015,7 +1072,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (5) A szolgáltató köteles a tevékenységének megkezdését követő öt munkanapon belül kijelölni – a szervezet sajátosságaitól, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több, a belső szabályzatában meghatározott vezetőt, aki az e törvényből eredő kötelezettségeknek a szolgáltató foglalkoztatottja általi végrehajtásáért felelősséggel tartozik.
 
-(6) Az 1. § (1) bekezdés a–d) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az e törvényből és annak felhatalmazásán alapuló jogszabályból eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. Az 1. § (1) bekezdés a) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az (5) bekezdésben meghatározott feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.
+(6) Az 1. § (1) bekezdés a–d) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az e törvényből és annak felhatalmazásán alapuló jogszabályból eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. Az 1. § (1) bekezdés a) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető a 3. § 23a. pontja szerinti feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.
 
 64. § (1) A szolgáltató a beazonosított kockázataival összhangban köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolatot, ügyletet felismerjék, a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.
 
@@ -1057,6 +1114,8 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2a) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a szolgáltatónak a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló jogszabályi rendelkezéseknek való megfelelésének biztosítására is.
 
+(2b) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a felügyeleti szerv feladatköréhez illeszkedően a szolgáltatónak az atipikus pénzügyi jellegű korlátozó intézkedések betartásához szükséges kötelezettségeknek való megfelelésének biztosítására is.
+
 (3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv az általános közigazgatási rendtartásról szóló törvény, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló törvény és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (4) A felügyelet ellátása során az 5. § d) pont da) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.), az 5. § d) pont db) alpontjában meghatározott felügyeletet ellátó szerv a Kjtv. rendelkezései szerint jár el.
@@ -1067,7 +1126,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2) Az 5. §-ban meghatározott felügyeletet ellátó szerv 66. § és e § szerinti felügyeleti tevékenysége kiterjed a szolgáltató 27. § szerinti belső kockázatértékelésének és belső eljárásrendjének ellenőrzésére is.
 
-68. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szerv az e törvény szerinti felügyeleti tevékenységének gyakorlása során biztosítja az Európai Unió más tagállamában székhellyel rendelkező szolgáltató magyarországi fióktelepének, leányvállalatának és telephelyeinek e törvény rendelkezéseinek való megfelelését is.
+68. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szerv az e törvény szerinti felügyeleti tevékenységének gyakorlása során biztosítja az Európai Unió más tagállamában székhellyel rendelkező szolgáltató magyarországi fióktelepének, leányvállalatának és tartós üzleti egységeinek az e törvény és az e törvény felhatalmazása alapján kiadott jogszabály rendelkezéseinek való megfelelését is.
 
 (1a) Az 5. §-ban meghatározott felügyeletet ellátó szerv egy csoport részét képező hitelintézetek és pénzügyi intézmények esetében együttműködik a csoport részét képező telephely szerinti tagállam felügyeleti hatóságával.
 
@@ -1113,6 +1172,7 @@ belső ellenőrző és információs rendszerek működéséről.
 - d) a jogsértés szolgáltatóra vagy ügyfeleire gyakorolt hatására,
 - e) a felelős személyek által a felügyeletet ellátó szervvel szemben tanúsított együttműködésre,
 - f) a jogsértés időtartamára, ismétlődésére vagy gyakoriságára.
+- g) a szabályszegéssel vagy mulasztással előidézett kockázatra.
 
 (5) Az (1) bekezdés l) pontjában foglalt intézkedés mellett a szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 
@@ -1141,7 +1201,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (6) Az 5. § a)–c) és e)–g) pontjában meghatározott felügyeletet ellátó szerv az (1) bekezdés alapján közzétett információk elérhetőségét a közzétételtől számított öt évig köteles biztosítani.
 
-72. § (1) A szolgáltató vezetője, foglalkoztatottja vagy segítő családtagja, illetve a szolgáltató ügyfele (a továbbiakban: értesítést beküldő személy) – nevének és lakcímének megadásával – írásban értesítheti az 5. §-ban meghatározott felügyeletet ellátó szervet az e törvény rendelkezéseinek szolgáltató (vezetője, foglalkoztatottja vagy segítő családtagja) általi megsértésére utaló körülmény esetén (a továbbiakban: értesítés).
+72. § (1) A szolgáltató vezetője, foglalkoztatottja vagy segítő családtagja, illetve a szolgáltató ügyfele vagy harmadik személy (a továbbiakban együtt: értesítést beküldő személy) – nevének és lakcímének megadásával – írásban értesítheti az 5. §-ban meghatározott felügyeletet ellátó szervet az e törvény rendelkezéseinek, vagy az e törvény felhatalmazásán alapuló jogszabályokban meghatározott rendelkezéseknek a szolgáltató (vezetője, foglalkoztatottja vagy segítő családtagja) általi megsértésére utaló körülmény esetén (a továbbiakban: értesítés).
 
 (2) Az értesítést az 5. §-ban meghatározott felügyeletet ellátó szerv a beérkezéstől számított harminc napon belül köteles megvizsgálni és dönteni az e törvény szerinti felügyeleti eljárás hivatalból való megindításának szükségességéről, az ellenőrzés módjáról, illetve a felügyeleti eljárás megindításának mellőzéséről. Ha az értesítést beküldő személy az értesítést nem az eljárásra jogosult felügyeletet ellátó szervhez tette meg, az 5. §-ban meghatározott felügyeletet ellátó szerv az értesítést az eljárás lefolytatására hatáskörrel és illetékességgel rendelkező szervhez haladéktalanul átteszi.
 
@@ -1181,7 +1241,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (3) A szakmai titok megtartásának kötelezettsége nem áll fenn a büntetőeljárás során a Felügyelettel, az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel szemben.
 
-(4) Az (1) és (2) bekezdésben meghatározottak megsértése nélkül a Felügyelet információcserét folytathat az Európai Unió más tagállamain belül a hitelintézetek és pénzügyi szolgáltatók felügyeletét ellátó szervekkel, beleértve az Európai Központi Bankot is.
+(4) Az (1) és (2) bekezdésben meghatározottaktól eltérően a Felügyelet információcserét folytathat az Európai Unió más tagállamain belül a hitelintézetek és pénzügyi szolgáltatók felügyeletét ellátó szervekkel, beleértve az Európai Központi Bankot is.
 
 (5) A Felügyelet az (1) bekezdésben meghatározott szakmai titkokat kizárólag az alábbi célokra használhatja fel:
 
@@ -1278,7 +1338,7 @@ a Magyar Ügyvédi Kamara egységes szabályzatot készít, amely az egyéni üg
 
 #### 19/A. Egyes szolgáltatók nyilvántartásba vételének szabályai
 
-76/B. § (1) A székhelyszolgáltató a tevékenység végzésére irányuló szándékát köteles bejelenteni az 5. §-ban meghatározott felügyeleti szervnek (ezen alcím alkalmazásában a továbbiakban: felügyeleti szerv); a tevékenység a bejelentés megtételét követően folytatható.
+76/B. § (1) A székhelyszolgáltató a tevékenység végzésére irányuló szándékát köteles bejelenteni az 5 §-ban meghatározott felügyeleti szervnek (ezen alcím alkalmazásában a továbbiakban: felügyeleti szerv); a tevékenység a nyilvántartásba vételt követően folytatható.
 
 (2) A székhelyszolgáltató a nyilvántartásba vételkor megadott adatokban, illetve a nyilvántartásba vétel feltételeiben bekövetkezett változást, ideértve a tevékenység végzésének megszüntetését is, köteles 15 munkanapon belül bejelenteni a felügyeleti szervnek.
 
@@ -1344,12 +1404,12 @@ elkövetése miatt elítéltek, a büntetett előélethez fűződő hátrányos 
 - a) a belső kockázatértékelés elkészítésének szabályrendszerére,
 - b) a belső ellenőrző és információs rendszer működtetésére,
 - c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
-- d) az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+- d) az auditált elektronikus hírközlő eszköz és működtetésének, belső szabályozásának minimum-követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 - e) a megerősített eljárás esetköreire és feltételrendszerére,
 - f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
-- i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+- i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre.
 
 vonatkozó részletszabályokat.
 
@@ -1357,13 +1417,15 @@ vonatkozó részletszabályokat.
 
 - a) a belső kockázatértékelés elkészítésének szabályrendszerére,
 - b) a belső ellenőrző és információs rendszer működtetésére,
-- c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
-- d) az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+- c) a fokozott ügyfél-átvilágítás esetköreire, valamint az egyszerűsített ügyfél-átvilágítás során alkalmazandó küszöbértékre és határidőre,
+- d) az auditált elektronikus hírközlő eszköz és működtetésének, belső szabályozásának minimum-követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 - e) a megerősített eljárás esetköreire és feltételrendszerére,
 - f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
-- i) i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+- i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre,
+- j) a külső ellenőrzési funkció szakmai követelményeire és igénybevételének kötelező eseteire, valamint
+- k) a szolgáltató által az üzleti kapcsolat jellegének és céljának megállapítása érdekében tett intézkedésekre
 
 vonatkozó részletszabályokat.
 
@@ -1414,15 +1476,42 @@ vonatkozó részletszabályokat.
 - b) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek
 - c) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek,
 - d) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek
+- e) a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-(2) E törvény a pénzátutalásokat kísérő adatokról és a 1781/2006/EK rendelet hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/847 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény
+
+- a) a pénzátutalásokat kísérő adatokról és a 1781/2006/EK rendelet hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/847 európai parlamenti és tanácsi rendelet,
+- b) az (EU) 2022/1231 tanácsi végrehajtási rendelettel módosított, a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 1j–1l. és 1u–1zb. cikke és
+- c) az (EU) 2022/1269 tanácsi rendelettel módosított, az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5–5i. és 5l–5n. cikke
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 22. Módosító rendelkezések
 
-#### 83–92. §
+#### 83. §
 
-#### 93–94. §
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
 
 #### 95. §

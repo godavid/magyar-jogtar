@@ -429,7 +429,7 @@ rendelkezik.
 (3) Ha a tag a közösségben fennálló tagsági jogviszonyára tekintettel vásárolni kívánt lakóingatlan vásárlásához az új lakások építéséhez, vásárlásához kapcsolódó családi otthonteremtési kedvezményt, illetve otthonteremtési kamattámogatással érintett kölcsönt vesz igénybe, a vásárolni kívánt új lakóingatlant a közösség javára alapított jelzálogjogon felül
 
 - a) családi otthonteremtési kedvezmény igénybevétele esetén az állam javára szóló jelzálogjogjoggal, valamint annak biztosítására elidegenítési és terhelési tilalommal,
-- b) otthonteremtési kamattámogatással érintett kölcsön igénybevétele esetén a kölcsönt nyújtó hitelintézet javára szóló jelzálogjogjoggal, valamint annak biztosítására elidegenítési és terhelési tilalommal
+- b) otthonteremtési kamattámogatással érintett kölcsön igénybevétele esetén a kölcsönt nyújtó hitelintézet javára szóló jelzálogjoggal és a kamattámogatást, illetve a családok otthonteremtési kamattámogatásával érintett kölcsönhöz kapcsolódó gyermekvállalási támogatást nyújtó állam javára szóló jelzálogjoggal, valamint annak biztosítására elidegenítési és terhelési tilalommal
 
 terhelheti meg.
 
@@ -480,7 +480,7 @@ terhelheti meg.
 
 - a) magyar állampolgár,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorló személy, vagy
-- c) bevándorolt vagy letelepedett jogállású, menekültként vagy oltalmazottként elismert személy.
+- c) huzamos tartózkodási jogosultsággal rendelkező személy, vagy menekültként vagy oltalmazottként elismert személy.
 
 (3) Egy természetes személy egy szerződés után igényelhet állami támogatást. Az a tag, aki a tagsági szerződésének megkötését megelőzően a lakástakarék-pénztárakról szóló törvény alapján betéte után állami támogatásban részesült, a közösségbe befizetett államilag támogatott betét összege után az e törvény szerinti állami támogatásra nem jogosult.
 
@@ -656,6 +656,14 @@ jogosult kezelni.
 
 (2) A 43. § e törvény kihirdetését követő 40. napon lép hatályba.
 
-49–51. §
+#### 49. §
 
-### 1–3. melléklet a 2016. évi XV. törvényhez
+#### 50. §
+
+#### 51. §
+
+### 1. melléklet a 2016. évi XV. törvényhez
+
+### 2. melléklet a 2016. évi XV. törvényhez
+
+### 3. melléklet a 2016. évi XV. törvényhez

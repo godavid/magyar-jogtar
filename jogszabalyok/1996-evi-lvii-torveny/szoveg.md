@@ -349,6 +349,8 @@ kell figyelembe venni.
 
 (2d) A Gazdasági Versenyhivatal a digitális ágazat vonatkozásában a versengő és tisztességes piacokról, valamint az (EU) 2019/1937 és az (EU) 2020/1828 irányelv módosításáról (digitális piacokról szóló jogszabály) szóló, 2022. szeptember 14-i (EU) 2022/1925 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/1925 európai parlamenti és tanácsi rendelet] szerinti illetékes hatóságként az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazása során együttműködik az Európai Bizottsággal és az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságokkal.
 
+(2e) A Gazdasági Versenyhivatal az (EU) 2022/2560 európai parlamenti és tanácsi rendelet szerinti feladatok ellátása során az Európai Bizottsággal való kapcsolattartásért felelős hatóságként együttműködik az Európai Bizottsággal és az (EU) 2022/2560 európai parlamenti és tanácsi rendelet szerinti más tagállami hatóságokkal.
+
 (3) A Gazdasági Versenyhivatal véleményezi a feladat- és hatáskörét érintő, továbbá a versenyt – különösen valamely tevékenység gyakorlása, a piacra lépés feltételeinek meghatározása vagy kizárólagossági jogok biztosítása révén – korlátozó vagy a verseny feltételeit – ideértve a verseny szabadságát sértő magatartásokkal szembeni fellépést is – befolyásoló, valamint az árakra vagy az értékesítési feltételekre vonatkozó előírásokat tartalmazó szabályozási koncepciókat, jogszabálytervezeteket az önkormányzati rendeletek kivételével. A jegyző kezdeményezheti az önkormányzati rendelet tervezetének véleményezését a Gazdasági Versenyhivatalnál.
 
 (4) A Gazdasági Versenyhivatal a verseny társadalmi elfogadottsága, a vállalkozások jogkövető magatartásának előmozdítása, a versenybarát, illetve a tudatos fogyasztói döntéshozatalt biztosító szabályozási környezet megalkotásának elősegítése, valamint a fogyasztói tudatosság növelése érdekében – különösen a versenyjog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok, a versenyjoggal, verseny-, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésének támogatásával, a versenypolitikával, valamint a fogyasztói döntéshozatallal és az annak védelmével kapcsolatos tájékozottság növelésével – hozzájárul a versenykultúra és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztéséhez, a verseny, valamint a fogyasztói döntéshozatal közgazdasági és jogi kérdéseivel foglalkozó szakmai közélet fejlődéséhez.
@@ -363,7 +365,7 @@ kell figyelembe venni.
 
 (4) A Gazdasági Versenyhivatal székhelye Budapest.
 
-33/B. § A Gazdasági Versenyhivatal minden évben az augusztus 20-át megelőző tizedik munkanappal kezdődően augusztus 20-áig, valamint a december 24-e és január 1-je közötti időszakban igazgatási szünetet tart.
+33/B. § A Gazdasági Versenyhivatal minden évben – ha az elnök törvény felhatalmazása alapján ettől eltérően nem rendelkezik – az augusztus 20-át megelőző tizedik munkanappal kezdődően augusztus 20-áig, valamint a december 24-e és január 1-je közötti időszakban tart igazgatási szünetet.
 
 34. § A Gazdasági Versenyhivatal elnökének, elnökhelyetteseinek, főtitkárának, valamint a Versenytanács tagjainak a jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell alkalmazni.
 
@@ -495,7 +497,7 @@ tartalmazó listát.
 
 39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, gyorsított ágazati vizsgálatban, bejelentéssel (az összefonódás-bejelentést is ideértve), illetve panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói álláshelyeket a Gazdasági Versenyhivatal szervezeti és működési szabályzata, az álláshelyen ellátandó feladatokat a szabályzata határozza meg.
 
-40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység, a nevelőszülői foglalkoztatási jogviszony és a (2) bekezdés szerinti jogviszony kivételével – nem létesíthet (összeférhetetlenség).
+40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység, a nevelőszülői foglalkoztatási jogviszony, a tartós külszolgálati kirendelés idejére létesített kormányzati szolgálati jogviszony és a (2) bekezdés szerinti jogviszony kivételével – nem létesíthet (összeférhetetlenség).
 
 (2) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt a munkáltatói jogkör gyakorlójának engedélyével létesíthet.
 
@@ -575,7 +577,7 @@ juttatásra jogosult.
 
 43/D. § (1) A Gazdasági Versenyhivatal, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy az adott ágazathoz tartozó valamely piacon a verseny torzul vagy korlátozódik, a piaci folyamatok feltárása és értékelése céljából végzéssel ágazati vizsgálatot indít. Az ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A vizsgálatindító végzést hirdetményi úton kell közölni.
 
-(1a) A Gazdasági Versenyhivatal, ha valamely ágazat sajátosságai, egyedi jellemzőinek összessége vagy szerkezeti struktúrája alapján megalapozottan feltehető, hogy az ágazathoz tartozó valamely piacon a verseny torzul vagy korlátozódik, és ezen piaci problémák feltárása és kezelése érdekében sürgős beavatkozás indokolt, a piaci folyamatok feltárása és értékelése céljából végzéssel gyorsított ágazati vizsgálatot indít. A gyorsított ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci jellemzőkre tekintettel szükséges a gyorsított ágazati vizsgálat megindítása. A gyorsított ágazati vizsgálatot elrendelő végzést hirdetményi úton kell közölni. A gyorsított ágazati vizsgálatot elrendelő végzés közlésének napja a hirdetmény kifüggesztését követő nap.
+(1a) A Gazdasági Versenyhivatal, ha valamely ágazat sajátosságai, egyedi jellemzőinek összessége vagy szerkezeti struktúrája alapján megalapozottan feltehető, hogy az ágazathoz tartozó valamely piacon a verseny torzul vagy korlátozódik, és ezen piaci problémák feltárása és kezelése érdekében sürgős beavatkozás indokolt, a piaci folyamatok feltárása és értékelése céljából végzéssel gyorsított ágazati vizsgálatot indít. A gyorsított ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci jellemzőkre tekintettel szükséges a gyorsított ágazati vizsgálat megindítása. A gyorsított ágazati vizsgálatot elrendelő végzést hirdetményi úton kell közölni. A gyorsított ágazati vizsgálatot elrendelő végzés közlésének napja a hirdetmény honlapon történő közzétételét követő nap.
 
 (2) Az ágazati vizsgálatra és a gyorsított ágazati vizsgálatra megfelelően alkalmazni kell
 
@@ -606,7 +608,7 @@ vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az 
 
 43/E. § (1) Az ágazati vizsgálat és a gyorsított ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – észszerű időn belül – jelentést készít.
 
-(2) A Gazdasági Versenyhivatal a gyorsított ágazati vizsgálat eredményéről a gyorsított ágazati vizsgálat elrendelését követő egy hónapon belül jelentéstervezetet készít, amely határidőt a Gazdasági Versenyhivatal elnöke két alkalommal, egyenként legfeljebb egy hónappal meghosszabbíthatja. A jelentéstervezet elkészítésének határidejét meghosszabbító végzést hirdetményi úton kell közölni. A jelentéstervezet elkészítésének határidejét meghosszabbító végzés közlésének napja a hirdetmény kifüggesztését követő nap.
+(2) A Gazdasági Versenyhivatal a gyorsított ágazati vizsgálat eredményéről a gyorsított ágazati vizsgálat elrendelését követő egy hónapon belül jelentéstervezetet készít, amely határidőt a Gazdasági Versenyhivatal elnöke két alkalommal, egyenként legfeljebb egy hónappal meghosszabbíthatja. A jelentéstervezet elkészítésének határidejét meghosszabbító végzést hirdetményi úton kell közölni. A jelentéstervezet elkészítésének határidejét meghosszabbító végzés közlésének napja a hirdetmény honlapon történő közzétételét követő nap.
 
 (3) A jelentés elfogadását megelőzően biztosítani kell, hogy az ágazatban működő vállalkozások a jelentés tartalmára írásban észrevételeket tehessenek. Ennek érdekében a jelentés tervezetének korlátozottan megismerhető adatot nem tartalmazó változatát észrevételezésre meg kell küldeni az ágazatban működő vállalkozásoknak olyan időpontban, hogy észrevételeik megtételére ágazati vizsgálat esetén legalább harminc nap, gyorsított ágazati vizsgálat esetén legalább nyolc nap álljon rendelkezésükre.
 
@@ -627,10 +629,10 @@ vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az 
 (2) A bejelentéssel és a panasszal kapcsolatos eljárás nem része a versenyfelügyeleti eljárásnak. A bejelentéssel és a panasszal kapcsolatos eljárásban – ha e fejezet eltérően nem rendelkezik – megfelelően alkalmazni kell
 
 - a) a 45. §-t, az 53/A. §-t, az 53/B. §-t, az 54. § (1)–(3) bekezdését, az 55/A. §-t, valamint az 59. §-t, azzal, hogy e rendelkezések alkalmazásában ügyfél alatt a bejelentőt, a panaszost, illetve a bejelentettet, valamint azt kell érteni, akinek a magatartására a panasz vonatkozik, továbbá
-- b) a bejelentéssel kapcsolatos eljárásban a 48. § (2) bekezdését, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 63. § (8) bekezdés 1., 10. és 17. pontját, valamint a 64. §-t azzal, hogy a 63. § (8) bekezdés 10. pontjának alkalmazásában ügyfél alatt a bejelentőt kell érteni, illetve
+- b) a bejelentéssel kapcsolatos eljárásban a 48. § (2) bekezdését, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 63. § (8) bekezdés 1., 9., 10. és 17. pontját, valamint a 64. §-t azzal, hogy a 63. § (8) bekezdés 10. pontjának alkalmazásában ügyfél alatt a bejelentőt kell érteni, illetve
 - c) a panasszal kapcsolatos eljárásban az 55/C. § (1) bekezdését.
 
-(3) A bejelentő vagy a panaszos kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel vagy panasszal élt.
+(3) A bejelentő kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel élt. A Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a panaszos a Gazdasági Versenyhivatalnál panasszal élt.
 
 (4) A bejelentéssel és a panasszal kapcsolatos eljárás irataiba kizárólag a bejelentő, illetve a panaszos tekinthet be a bejelentés tárgyában való döntéshozatalt, illetve a panasszal kapcsolatos eljárás lezárultát követően azzal, hogy korlátozottan megismerhető adat csak akkor ismerhető meg, ha az iratbetekintést kérő igazolja, hogy az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak.
 
@@ -687,13 +689,17 @@ vonatkozó rendelkezéseit azzal, hogy ügyfél alatt a bejelentőt és – az a
 
 43/I. § (1) A 43/H. § (1) bekezdése szerinti bejelentésnek nem minősülő beadványt a Gazdasági Versenyhivatal panaszként kezeli az e §-ban meghatározottak szerint.
 
-(2) A vizsgáló a panaszban foglaltak alapján megteszi a szükséges intézkedéseket. Az ugyanazon panaszos által tett korábbi panasszal azonos tartalmú, a nyilvánvalóan alaptalan, továbbá a névtelen panasszal kapcsolatos intézkedés megtétele mellőzhető.
+(1a) A Gazdasági Versenyhivatal a panasz beérkezésétől számított hét napon belül visszajelzést küld a panaszosnak. A visszajelzés küldése mellőzhető, ha a panaszos ezt kéri vagy a panasz névtelen.
+
+(2) A vizsgáló a panaszban foglaltak alapján a panasz beérkezésétől számított hat hónapon belül megteszi a szükséges intézkedéseket. Az ugyanazon panaszos által tett korábbi panasszal azonos tartalmú, a nyilvánvalóan alaptalan, továbbá a névtelen panasszal kapcsolatos intézkedés megtétele mellőzhető.
 
 (3) A vizsgáló a panaszost és azt, akivel szemben panasszal éltek, meghallgathatja, valamint tőle további felvilágosítást és információt kérhet.
 
 (4) Ha a panaszban megjelölt magatartással kapcsolatban más hatóság jogosult eljárni, a Gazdasági Versenyhivatal a panaszt ennek megállapításától számított nyolc napon belül – a panaszos egyidejű értesítése mellett – megküldi a hatáskörrel és illetékességgel rendelkező hatóságnak.
 
-(5) Ha a panaszban megjelölt magatartással kapcsolatban a Gazdasági Versenyhivatal versenyfelügyeleti eljárást indít, vagy a panasz beérkezésekor a versenyfelügyeleti eljárás már folyamatban van vagy lezárult, erről a tényről a panaszost tájékoztatni kell. Ha a panasz alapján további intézkedés nem szükséges, erről a panaszost külön nem kell tájékoztatni, a panasszal kapcsolatos eljárást ebben az esetben a panasz beérkezésétől számított egy év elteltével lezártnak kell tekinteni.
+(4a) Ha a panasz olyan, más hatóság hatáskörébe tartozó jogvitás ügyet érint, amely tekintetében jogszabály a hatóság eljárása megindításának feltételeként írja elő, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését, a Gazdasági Versenyhivatal a panasz (4) bekezdés szerinti megküldése helyett e körülményről tájékoztatja a panaszost, és a panasszal kapcsolatos további intézkedést mellőzi.
+
+(5) Ha a panaszban megjelölt magatartással kapcsolatban a Gazdasági Versenyhivatal versenyfelügyeleti eljárást indít, vagy a panasz beérkezésekor a versenyfelügyeleti eljárás már folyamatban van vagy lezárult, erről a tényről a panaszost tájékoztatni kell. Ha a panasz alapján további intézkedés nem szükséges, a panasszal kapcsolatos eljárást ebben az esetben a panasz beérkezésétől számított hat hónap elteltével lezártnak kell tekinteni, és erről a panaszost tájékoztatni kell.
 
 ### IX/A. Fejezet — Összefonódás-bejelentés
 
@@ -923,7 +929,7 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 - d) az egyéb védett adatot, kivéve, ha
   - da) az adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogának gyakorlását, és az érintett adat védelmét szabályozó külön törvény az iratbetekintést nem zárja ki, vagy
   - db) az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak,
-- e) a Gazdasági Versenyhivatal, az Európai Bizottság, valamint a tagállami versenyhatóságok, valamint az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, valamint a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok vagy az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok közti, vagy ezek egymás közötti levelezését, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,
+- e) a Gazdasági Versenyhivatal, az Európai Bizottság, a tagállami versenyhatóságok, valamint az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok vagy az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok közti, vagy ezek egymás közötti levelezését, valamint az (EU) 2022/2560 európai parlamenti és tanácsi rendelet alapján az Európai Bizottság és a Gazdasági Versenyhivatal közötti levelezést, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,
 - f) e törvény eltérő rendelkezése hiányában, a 65/B. § vagy a 65/C. § hatálya alá tartozó kutatási másolatot, köztes munkamásolatot, illetve vizsgálati munkamásolatot.
 
 (2) Valamely iratba való betekintés meghatározott adat üzleti titok vagy magántitok jellegére hivatkozással – az adat e jellege egyéb törvényi feltételeinek fennállása esetén – csak abban az esetben korlátozható, ha az adatot szolgáltató, illetve az, akitől az adat a Gazdasági Versenyhivatal birtokába jutott (a továbbiakban együtt: adatot szolgáltató személy), az adat szolgáltatásával egyidejűleg vagy – ha az adat a 65/B. §-ban meghatározott módon került a Gazdasági Versenyhivatal birtokába – a vizsgáló erre irányuló felhívásában megjelölt határidőn belül megjelölte az üzleti titokként vagy magántitokként kezelendő adatokat, továbbá – ha a titok jogosultja eltér az adatot szolgáltató személytől – a titok jogosultját.
@@ -1015,6 +1021,7 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 - b) a 65/A. § (7b) bekezdése szerinti kötelezettség teljesítésének elmulasztását, elutasítását vagy téves, illetve félrevezető módon való teljesítését;
 - c) a 64/B. § (1)–(3) és (6) bekezdése szerinti adatszolgáltatási kötelezettség teljesítése során helytelen, hiányos vagy félrevezető információ közlését, vagy az adatszolgáltatás teljesítésére előírt határidő elmulasztását;
 - d) a megjelenési kötelezettség elmulasztását.
+- e) a 65/C. § (6) bekezdése szerinti tételes indokolási és az irat vagy iratrész egyértelmű azonosítását lehetővé tevő megjelölési kötelezettség elmulasztását.
 
 (2) Eljárási bírság szabható ki az ügyféllel szemben, ha az irányításkorlátozó előírást megszegi.
 
@@ -1152,7 +1159,7 @@ meghosszabbíthatja.
 
 ### A határidő számítása
 
-64. § (1) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének napja.
+64. § (1) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény honlapon történő közzétételének és levételének napja.
 
 (2) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján.
 
@@ -1275,7 +1282,7 @@ számított hatvan napon belül kell előterjeszteni.
 
 (5) A (4) bekezdés szerinti esetben az iratot, illetve az azt tartalmazó kutatási másolatot olyan tárolóeszközben kell elhelyezni, amely kizárja az adatok megismerhetőségét és utólagos megváltoztathatóságát, és amelyet az érintett és a vizsgáló aláírásukkal hitelesítve úgy zár le, hogy a hitelesítés sérelme nélkül a tárolóeszköz felnyitása ne legyen lehetséges (a továbbiakban: zárt tárolóeszköz).
 
-(6) A (4) bekezdés a) és b) pontja szerinti esetben az érintett ügyfelet fel kell hívni arra, hogy – az irat, illetve iratrész pontos megjelölésével – nyilatkozzon arról, hogy a birtokba vett iratok között van-e olyan, amelyik védekezés céljából készült iratnak minősül. Az érintett ügyfelet egyidejűleg értesíteni kell arról, hogy az általa ilyen iratnak minősített iratok tekintetében a (9) bekezdés szerinti vizsgálati cselekményre kerül sor. Az értesítésben közölni kell a vizsgálati cselekmény időpontját, várható időtartamát és helyét, és azt az érintett ügyféllel úgy kell közölni, hogy a nyilatkozat megtételére legalább nyolc nap rendelkezésére álljon.
+(6) A (4) bekezdés a) és b) pontja szerinti esetben az érintett ügyfelet fel kell hívni arra, hogy – az irat, illetve iratrész pontos megjelölésével, tételes indokolással, egyértelműen azonosítható módon – nyilatkozzon arról, hogy a birtokba vett iratok között van-e olyan, amelyik védekezés céljából készült iratnak minősül. Az érintett ügyfelet egyidejűleg értesíteni kell arról, hogy az általa ilyen iratnak minősített iratok tekintetében a (9) bekezdés szerinti vizsgálati cselekményre kerül sor. Az értesítésben közölni kell a vizsgálati cselekmény időpontját, várható időtartamát és helyét, és azt az érintett ügyféllel úgy kell közölni, hogy a nyilatkozat megtételére legalább nyolc nap rendelkezésére álljon.
 
 (7) A zárt tárolóeszközt felnyitni, az abban elhelyezett iratot, illetve a kutatási másolatot megvizsgálni csak azt követően lehet, hogy a (6) bekezdés szerinti nyilatkozat megtételére rendelkezésre álló határidő eltelt. Ha az ügyfél a határidőn belül úgy nyilatkozott, hogy a tárolóeszköz védekezés céljából készült iratot tartalmaz, illetve a kutatási másolaton ilyen irat van, akkor a zárt tárolóeszközt csak a (9), illetve (13) bekezdés szerinti vizsgálati cselekmény során lehet felnyitni, és a vizsgálati cselekmény lefolytatását követően a kutatási másolatot ismételten zárt tárolóeszközben kell elhelyezni.
 
@@ -1500,7 +1507,7 @@ vonatkozik.
 
 (5) Az eljáró versenytanács az (1) bekezdés szerinti, a közigazgatási bíróság által el nem bírált határozatát visszavonja akkor is, ha a határozat a döntés szempontjából lényeges ténynek a kötelezett vállalkozás általi félrevezető közlésén alapult.
 
-(6) Ha a vállalkozás nem teljesítette az (1) bekezdés szerinti határozatban, illetve a (3) bekezdés szerint módosított határozatban előírt kötelezettséget, az eljáró versenytanács a vállalt kötelezettséget előíró határozat alapját képező közérdek hatékony érvényesülése szempontjának – a kötelezettségvállalással érintett piaci viszonyok jellegére, a fennálló versenyfeltételekre, továbbá a vállalt kötelezettség addigi teljesítésének mértékére, a mulasztás tekintetében a vállalkozás magatartásának felróhatóságára is figyelemmel történő – mérlegelése alapján a határozatot visszavonja vagy bírságot szab ki.
+(6) Ha a vállalkozás nem teljesítette az (1) bekezdés szerinti határozatban, illetve a (3) bekezdés szerint módosított határozatban előírt kötelezettséget, az eljáró versenytanács a vállalt kötelezettséget előíró határozat alapját képező közérdek hatékony érvényesülése szempontjának – a kötelezettségvállalással érintett piaci viszonyok jellegére, a fennálló versenyfeltételekre, továbbá a vállalt kötelezettség addigi teljesítésének mértékére, a mulasztás tekintetében a vállalkozás magatartásának felróhatóságára is figyelemmel történő – mérlegelése alapján a határozatot visszavonja vagy megállapítja a kötelezettség nem teljesítését és bírságot szabhat ki.
 
 (6a) Ha az (1) bekezdés szerinti határozat meghozatala a kötelezett vállalkozás által közölt hiányos, helytelen vagy félrevezető információn alapult, az eljáró versenytanács a vállalt kötelezettséget előíró határozat alapját képező közérdek hatékony érvényesülése szempontjának – a kötelezettségvállalással érintett piaci viszonyok jellegére, a fennálló versenyfeltételekre, továbbá a vállalt kötelezettség addigi teljesítésének mértékére, a mulasztás tekintetében a vállalkozás magatartásának felróhatóságára is figyelemmel történő – mérlegelése alapján a határozatot visszavonhatja.
 
@@ -1578,9 +1585,12 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 - b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – a 31. § szerinti intézkedést alkalmazza, és bírságot szabhat ki,
 - c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát
   - ca) a 75. § (3) bekezdés b) pontja szerint módosítja,
-  - cb) a 75. § (6) bekezdése szerint visszavonja, bírságot szab ki, illetve a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz,
-  - cc) a 75. § (6a) bekezdése szerint visszavonhatja, vagy
-- d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását, bírságot szab ki, vagy a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz.
+  - cb) a 75. § (6) bekezdése szerint visszavonja,
+  - cc) a 75. § (5) bekezdése szerint visszavonja, vagy (6a) bekezdése szerint visszavonhatja,
+- d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását, vagy
+- e) amennyiben a c) pont cb) alpontjának vagy a d) pontnak az alkalmazása nem indokolt, az eljáró versenytanács megállapítja a kötelezettség nem teljesítését, és bírságot szabhat ki.
+
+(7) A (6) bekezdés d) pontja szerinti végrehajtásra a XII/A. Fejezet rendelkezéseit kell alkalmazni azzal, hogy a végrehajtást az eljáró versenytanács rendeli el.
 
 ### Bírság, figyelmeztetés
 
@@ -1593,7 +1603,7 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 - e) az összefonódás-bejelentésben – az összefonódás vizsgálatának elrendelésére kiható módon – lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 43/N. § (1) bekezdés b) pontja alapján kiadott hatósági bizonyítványt vissza kell vonni, vagy
 - f) a versenyfelügyeleti eljárásban a határozat szempontjából lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 30. § alapján vagy a 75. § (1) bekezdése alapján hozott határozatot vissza kell vonni.
 
-(1a) Az eljáró versenytanács bírságot szab ki vagy a (8) bekezdés szerinti figyelmeztetést alkalmaz azzal szemben, aki határidőben nem teljesítette
+(1a) Az eljáró versenytanács bírságot szabhat ki azzal szemben, aki határidőben nem teljesítette
 
 - a) a 75. § szerinti kötelezettségvállalást, kivéve, ha a kötelezettségvállalást előíró határozatnak a 75. § (6) bekezdése szerinti visszavonása folytán az ügyben a versenyfelügyeleti eljárás újból megindult, vagy
 - b) a határozatában a jogsértés megállapítása mellett meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozóan előírt kötelezettséget, és végrehajtás elrendelésére nem került sor.
@@ -1965,9 +1975,26 @@ jogszerűsége tárgyában.
 
 80/S. § (1) Ha az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alapján az Európai Bizottság vagy valamely, az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóság azt kéri, vagy a tájékoztatás az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alapján kötelező, a Gazdasági Versenyhivatal az Európai Bizottság és az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok rendelkezésére bocsáthat – a korlátozottan megismerhető adatot is ideértve – bármely, az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti tájékoztatási kötelezettség hatálya alá tartozó, az általa végzett eljárási cselekményekre, jogi vagy ténykérdésre vonatkozó információt.
 
-(2) A Gazdasági Versenyhivatal versenyfelügyeleti eljárást indíthat annak megállapítása érdekében, hogy álláspontja szerint a kijelölt kapuőr vállalkozás megfelel-e az (EU) 2022/1925 európai parlamenti és tanácsi rendelet 5–7. cikke szerinti kötelezettségeknek. Az e bekezdés szerinti versenyfelügyeleti eljárás a vizsgálónak a jelentés Európai Bizottság részére történő átadásáról szóló végzésével zárul.
+(2) A Gazdasági Versenyhivatal versenyfelügyeleti eljárást indíthat annak megállapítása érdekében, hogy álláspontja szerint a kijelölt kapuőr vállalkozás megfelel-e az (EU) 2022/1925 európai parlamenti és tanácsi rendelet 5–7. cikke szerinti kötelezettségeknek. Az e bekezdés szerinti versenyfelügyeleti eljárás a vizsgálónak a jelentés Európai Bizottság részére történő átadásáról szóló végzésével zárul. A jelentés a 71. § (2) bekezdés a) és b) pontja szerinti információkat tartalmazza.
 
 80/T. § Az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazásával a bíróság által hozott jogerős ítélet másolatát a határozatot hozó bíróság a felekkel való közlést követően megküldi az Országos Bírósági Hivatal részére. Az Országos Bírósági Hivatal a jogerős ítélet másolatát haladéktalanul továbbítja az igazságügyért felelős miniszter felé az Európai Bizottsághoz történő továbbítás céljából.
+
+### XI/E. Fejezet — ELJÁRÁS AZ (EU) 2022/2560 EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET ALKALMAZÁSA SORÁN
+
+80/U. § (1) Az (EU) 2022/2560 európai parlamenti és tanácsi rendelet alkalmazása során e törvény rendelkezéseit az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Az (EU) 2022/2560 európai parlamenti és tanácsi rendelet 13. cikk (5) bekezdésének megfelelően a Gazdasági Versenyhivatal az Európai Bizottság rendelkezésére bocsát bármely, az (EU) 2022/2560 európai parlamenti és tanácsi rendelettel a Bizottságra ruházott feladatai ellátásához szükséges információt. Ha az Európai Bizottságnak történő tájékoztatás megadásához szükséges információval más hatóság vagy szerv rendelkezik, a Gazdasági Versenyhivatal határidő tűzésével megkeresi e hatóságot vagy szervet. A megkeresésre az Ákr. 25. §-át kell alkalmazni.
+
+(3) Ha a Gazdasági Versenyhivatal a hatáskörében eljárva észleli, hogy külföldi támogatás állhat fenn és az torzíthatja a belső piacot, az ezzel kapcsolatos információt az (EU) 2022/2560 európai parlamenti és tanácsi rendelet 35. cikke szerint továbbítja az Európai Bizottságnak.
+
+(4) Ha az (EU) 2022/2560 európai parlamenti és tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, a foganatosításra a versenyfelügyeleti eljárás szabályait kell alkalmazni azzal az eltéréssel, hogy
+
+- a) az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul,
+- b) a Gazdasági Versenyhivatal által végzett helyszíni kutatáson vagy az általa tartott meghallgatáson az Európai Bizottság tisztviselője és a tisztviselőt kísérő személy – a vizsgálati cselekményt foganatosító vizsgáló felügyelete mellett – részt vehet,
+- c) a helyszíni kutatáshoz szükséges előzetes bírói engedély iránti kérelmet az Európai Bizottság közvetlenül vagy a Gazdasági Versenyhivatal útján terjeszti a bíróság elé, és
+- d) ha az Európai Bizottság vizsgálati cselekményének végrehajtásához a rendőrség közreműködése szükséges, annak biztosítása érdekében az Európai Bizottság kérésére a Gazdasági Versenyhivatal jár el.
+
+(5) Az (EU) 2022/2560 európai parlamenti és tanácsi rendelet alkalmazása során a Gazdasági Versenyhivatal tudomására jutott bizalmas információk kezelésére e törvénynek a korlátozottan megismerhető adatok kezelésére irányadó szabályai alkalmazandók.
 
 ### XII. Fejezet — Jogorvoslat a Gazdasági Versenyhivatal versenyfelügyeleti eljárásában
 
@@ -2558,13 +2585,18 @@ végrehajtási eljárásokra is alkalmazni kell.
 
 (2) A 78. § (10) bekezdése, a 88/C–88/T. § és a 95/E. § (3)–(5) bekezdése a tagállamok és az Európai Unió versenyjogi rendelkezéseinek megsértésén alapuló, nemzeti jog szerinti kártérítési keresetekre irányadó egyes szabályokról szóló, 2014. november 26-i 2014/104/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(2a) A 43/G. § (3) bekezdése, 43/I. § (1a) és (5) bekezdése az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 (3) E törvény
 
 - a) 1. § (2) bekezdése, 33. § (1) és (2a) bekezdése, 36. § (1) bekezdés e) pontja, 43/H. § (11) bekezdése, 80/A. § (1) bekezdése, 80/B. §-a, 80/C. §-a, 80/D. § (1)–(3) bekezdése, 80/E. §-a, 80/F. §-a és 80/I–80/K. §-a a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendeletnek,
 - b) 36. § (1) bekezdés e) pontja, 80/A. § (2) bekezdése, 80/D. § (4)–(7) bekezdése, 80/F. §-a és 80/I–80/K. §-a a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendeletnek,
 - c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendeletnek,
 - d) 33. § (2d) bekezdése, 36. § (1) bekezdés e) pontja, 55/A. § (1) bekezdés e) pontja, 80/D. § (4a) bekezdése és 80/Q–80/S. §-a a digitális ágazat vonatkozásában a versengő és tisztességes piacokról, valamint az (EU) 2019/1937 és az (EU) 2020/1828 irányelv módosításáról (digitális piacokról szóló jogszabály) szóló, 2022. szeptember 14-i (EU) 2022/1925 európai parlamenti és tanácsi rendeletnek
+- e) 33. § (2e) bekezdése és XI/E. Fejezete a belső piacot torzító külföldi támogatásokról szóló, 2022. december 14-i (EU) 2022/2560 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) A 33. § (2c) és (5) bekezdése, a 36. § (3) bekezdése, a 42/D. §, az 55/A. § (1) bekezdés e) pontja, az 55/E. §, a 61. § (1a), (3), (4) és (6) bekezdése, a 64/A. § (1) bekezdése, a 64/B. § (1) bekezdése, a 65/A. § (1), (2), (7) és (8) bekezdése, a 65/B. § (3) bekezdése, a 72/A. § (1) bekezdés a) pontja és (4)–(6) bekezdése, a 73/A. § (8) és (9) bekezdése, a 75. § (2) és (6a) bekezdése, valamint (7) bekezdés b) pontja, a 75/A. §, a 76. § (1) bekezdés i) pontja és (4) bekezdése, a 77. § (6) bekezdés c) pontja, a 78. § (1b), (5), (6), (6a)–(6c) bekezdése, a 78. § (7) bekezdése, a 78/A. § (2)–(3) és (7) bekezdése, a 78/B. §, a 78/D. § (2a) bekezdése, a 78/E. §, a 80/A. § (1) és (1a) bekezdése, a 80/D. § (1)–(3) bekezdése, valamint a XI/C. Fejezet a tagállami versenyhatóságok helyzetének a hatékonyabb jogérvényesítés céljából történő megerősítéséről és a belső piac megfelelő működésének biztosításáról szóló, 2018. december 11-i (EU) 2019/1 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(5) A 43/I. § (4a) bekezdése a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

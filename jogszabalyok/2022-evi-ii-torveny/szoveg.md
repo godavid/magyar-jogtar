@@ -11,14 +11,15 @@ Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a miniszté
 - c) Energiaügyi Minisztérium,
 - d) Európai Uniós Ügyek Minisztériuma,
 - e) Építési és Közlekedési Minisztérium,
-- f) Gazdaságfejlesztési Minisztérium,
-- g) Honvédelmi Minisztérium,
-- h) Igazságügyi Minisztérium,
+- f) Honvédelmi Minisztérium,
+- g) Igazságügyi Minisztérium,
+- h) Közigazgatási és Területfejlesztési Minisztérium,
 - i) Kulturális és Innovációs Minisztérium,
 - j) Külgazdasági és Külügyminisztérium,
 - k) Miniszterelnöki Kabinetiroda,
-- l) Miniszterelnökség és
-- m) Pénzügyminisztérium.
+- l) Miniszterelnökség,
+- m) Nemzetgazdasági Minisztérium és
+- n) Pénzügyminisztérium.
 
 2. § A miniszterelnök munkaszervezete a Miniszterelnöki Kabinetiroda, amelynek része kormányzati igazgatási munkaszervezetként a Miniszterelnöki Kormányiroda.
 
@@ -31,3 +32,5 @@ Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a miniszté
 5. § A Gazdaságfejlesztési Minisztérium a Miniszterelnöki Kabinetirodából történő kiválással jön létre.
 
 6. § Az Európai Uniós Ügyek Minisztériuma az Igazságügyi Minisztériumból történő kiválással 2023. augusztus 1. napján jön létre.
+
+7. § A Közigazgatási és Területfejlesztési Minisztérium a Miniszterelnökségből történő kiválással 2024. január 1. napján jön létre.

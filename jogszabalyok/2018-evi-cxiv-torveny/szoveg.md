@@ -88,6 +88,8 @@ terjed ki.
 
 7. § A honvédelmi alkalmazott vonatkozásában a munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma az Országos Közszolgálati Érdekegyeztető Tanács, valamint ágazati érdekegyeztetési fóruma a Honvédelmi Érdekegyeztető Fórum.
 
+7/A. § A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a honvédelmi szervezet a honvédelmi alkalmazottak illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.
+
 #### 5. A honvédelmi alkalmazottak részvételi jogai
 
 8. § (1) A részvételi jogokat a honvédelmi szervezettel honvédelmi alkalmazotti jogviszonyban álló honvédelmi alkalmazottak közössége nevében az általuk közvetlenül választott honvédelmi alkalmazottak tanácsa, illetve honvédelmi alkalmazottak képviselője gyakorolja.
@@ -112,7 +114,7 @@ terjed ki.
 
 - a) büntetlen előéletű,
 - b) tizennyolcadik életévét betöltött,
-- c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkező, illetve bevándorolt vagy letelepedett,
+- c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkező, illetve huzamos tartózkodási jogosultsággal rendelkező,
 - d) cselekvőképes,
 - e) állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt nem álló
 
@@ -620,20 +622,13 @@ meghosszabbodik.
 
 (4) Rendkívüli felmentés esetén – az e törvényben meghatározott kivételektől eltekintve – a felmentés szabályai nem alkalmazhatók.
 
-41. § (1) A honvédelmi szervezet a honvédelmi alkalmazotti jogviszony megszűnésekor a honvédelmi alkalmazott részére honvédelmi alkalmazotti igazolást ad.
+41. § A honvédelmi alkalmazotti jogviszony megszűnésekor kiállításra kerülő foglalkoztatási igazolás a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 36/A. § (2) bekezdésében foglalt adatokon túl a honvédelmi alkalmazottak esetében tartalmazza
 
-(2) A honvédelmi alkalmazotti igazolás tartalmazza
-
-- a) a honvédelmi alkalmazott természetes személyi azonosító adatait (név, születési név, anyja neve, születési hely, év, hónap, nap),
-- b) a honvédelmi alkalmazott társadalombiztosítási azonosító jelét, a honvédelmi alkalmazott pénztártag által választott magánnyugdíjpénztár megnevezését, címét, pénzforgalmi számlaszámát,
-- c) a honvédelmi alkalmazott munkakörét,
-- d) a honvédelmi szervezetnél honvédelmi alkalmazotti jogviszonyban töltött idő tartamát,
-- e) a 16. § (8) bekezdés a)–c) pontjában meghatározottakat és a szülési szabadság időtartamát,
-- f) minden olyan, a honvédelmi alkalmazotti jogviszony megszűnésének évében munkában nem töltött időt, amely alatt a honvédelmi alkalmazott illetményben részesült,
-- g) a honvédelmi alkalmazott illetményéből jogerős határozat vagy jogszabály alapján levonandó tartozást, illetve ennek jogosultját, vagy pedig azt, hogy a honvédelmi alkalmazott illetményét tartozás nem terheli,
-- h) a jubileumi jutalom kifizetését és ennek időpontját,
-- i) a honvédelmi alkalmazott 42. § (7) bekezdésében meghatározott, emelt összegű végkielégítésben való részesülését, továbbá
-- j) a honvédelmi alkalmazotti jogviszony megszűnésének módját.
+- a) a honvédelmi alkalmazott pénztártag által választott magánnyugdíjpénztár megnevezését, címét, pénzforgalmi számlaszámát,
+- b) a 16. § (8) bekezdésében meghatározottakat és a szülési szabadság időtartamát,
+- c) a honvédelmi alkalmazotti jogviszony megszűnésének évében munkában nem töltött minden olyan időt, amely alatt a honvédelmi alkalmazott illetményben részesült,
+- d) a jubileumi jutalom kifizetését és ennek időpontját, valamint
+- e) a honvédelmi alkalmazott 42. § (7) bekezdésében meghatározott, emelt összegű végkielégítésben való részesülését.
 
 42. § (1) Végkielégítés illeti meg a honvédelmi alkalmazottat, ha honvédelmi alkalmazotti jogviszonya
 
@@ -1257,6 +1252,7 @@ vonatkozó szabályok szerint kell figyelembe venni.
 - m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban,
 - n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) és a végrehajtására kiadott rendelet szerinti egészségügyi szolgálati jogviszonyban,
 - o) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény. 2019. január 1. és 2019. december 31. között hatályos 1. mellékletében meghatározott gazdasági társaságnál, annak jogelődjénél vagy jogutódjánál munkaviszonyban
+- p) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó munkáltatónál köznevelési foglalkoztatotti jogviszonyban, valamint munkaviszonyban
 
 töltött időt.
 

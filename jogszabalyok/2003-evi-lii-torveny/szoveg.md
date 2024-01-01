@@ -102,7 +102,7 @@ géntechnológiai módosítás által megváltozott génállományú természete
 
 (2) A növényfajta
 
-- a) megkülönböztethető, ha adott genotípusból vagy genotípusok kombinációjából kifejeződött jellemzőiben határozottan eltér minden más növényfajtától, amelynek létezése közismert a 9. § (2) bekezdés szerinti vizsgálatra történő bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt Magyarországon vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, a 9. § (2) bekezdés szerinti vizsgálatra történő bejelentés eredményeként nemzeti fajtajegyzékre vették, a Közösségi Fajtajegyzékben szerepel, valamint növényfajta-oltalom tárgya volt, növényfajta-oltalom alatt áll vagy növényfajta-oltalom iránt bejelentették.
+- a) megkülönböztethető, ha adott genotípusból vagy genotípusok kombinációjából kifejeződött jellemzőiben határozottan eltér minden más növényfajtától, amelynek létezése közismert az állami elismerés iránti kérelem benyújtásának időpontjában; a növényfajta közismert, ha azt Magyarországon vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, az állami elismerés iránti kérelem eredményeként nemzeti fajtajegyzékre vették, a Közösségi Fajtajegyzékben szerepel, valamint növényfajta-oltalom tárgya volt, növényfajta-oltalom alatt áll vagy növényfajta-oltalom iránt bejelentették.
 - b) egyöntetű (egynemű), ha a szaporítási sajátosságai következtében várható variabilitástól eltekintve megfelelően egységes a megkülönböztethetőség vizsgálata során értékelt, valamint a fajtaleírásban közzétett lényeges tulajdonságaiban,
 - c) állandó, ha a megkülönböztethetőség vizsgálata során értékelt, valamint a fajtaleírásban közzétett lényeges tulajdonságai változatlanok maradnak az ismételt szaporítást követően, vagy minden egyes szaporítási ciklus végén.
 
@@ -129,13 +129,28 @@ iránti eljárásban.
 
 intézhet a növénytermesztési hatósághoz.
 
-8. § A növényfajta állami elismeréséhez szükséges vizsgálat megkezdése iránti kérelem előterjesztésekor nyilatkozni kell arról, hogy a bejelentett növényfajta géntechnológiával módosított szervezet-e, és a módosítás milyen célra irányult. A géntechnológiával módosított növényfajták esetében a fajtavizsgálatot végző szerv csak a külön jogszabályban foglalt előírások teljesítését követően kezdheti meg a kísérleti vizsgálatokat.
+8. § A növényfajta állami elismerése iránti kérelem benyújtásakor nyilatkozni kell arról, hogy a bejelentett növényfajta géntechnológiával módosított szervezet-e, és a módosítás milyen célra irányult. A géntechnológiával módosított növényfajták esetében a növénytermesztési hatóság csak a külön jogszabályban foglalt előírások teljesítését követően kezdheti meg a kísérleti vizsgálatokat.
 
-9. § (1) A növénytermesztési hatóság az állami elismerés iránti kérelem beérkezését követően hivatalból beszerzi a fajtavizsgálatot végző szerv által lefolytatott vizsgálat összefoglalását és a vizsgálati eredménynek a fajta állami elismerhetőségére vonatkozó értékelését.
+9. § (1) Az állami elismeréshez és a növényfajta-oltalomhoz szükséges vizsgálatok elvégzéséről a növénytermesztési hatóság gondoskodik.
 
-(2) Az állami elismeréshez szükséges vizsgálat elvégzéséről e törvény végrehajtására kiadott jogszabályban kijelölt fajtavizsgálatot végző szerv gondoskodik. Az elvégzett vizsgálat a növényfajta-oltalom iránti eljárás alapját is képezi.
+(2) A növénytermesztési hatóság
 
-(3) A nyilvántartást vezető szerv az állami elismerés iránti vizsgálat alatt álló, valamint az állami elismerésben részesített növényfajtákról nyilvántartást vezet, és a honlapján közzéteszi a Nemzeti Fajtajegyzéket.
+- a) a DUS-vizsgálatok módszereit a vonatkozó nemzetközi előírások, és
+- b) a gazdasági értékvizsgálat módszereit az általa kidolgozott, a Fajtaminősítő Bizottság által elfogadott, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által jóváhagyott módszer
+
+alapján határozza meg. Az egyes növényfajok fajtáinak állami elismeréséhez szükséges kísérleti vizsgálatok számát és időtartamát a növényfajták állami elismeréséről szóló miniszteri rendelet határozza meg.
+
+(3) A növénytermesztési hatóság az állami elismerés iránti kérelem szerinti növényfajta fajtavizsgálatának eredményeit – a csak DUS-vizsgálatra kötelezett egyes szántóföldi, valamint a zöldség-, a dísznövény, a gyümölcsfajták, továbbá a szőlőklónok kivételével – a javaslatával együtt a Fajtaminősítő Bizottság elé terjeszti.
+
+(4) A növénytermesztési hatóság
+
+- a) eredményes DUS-vizsgálata,
+- b) a szántóföldi növény, szőlő és erdészeti fajták esetében a Fajtaminősítő Bizottság állásfoglalása, valamint
+- c) a 6. §-ban meghatározott feltételek
+
+alapján határozatot hoz az állami elismerésről vagy új fajtafenntartó bejegyzéséről.
+
+(5) A 7–9. § szerinti állami fajtaelismerési eljárás időtartama a fajta elismeréséhez szükséges DUS vizsgálat és gazdasági értékvizsgálat idejével, valamint – a Fajtaminősítő Bizottság állásfoglalása esetén – a Fajtaminősítő Bizottság állásfoglalásának meghozatalához szükséges idővel meghosszabbodik.
 
 10. § (1) Az állami elismerés időtartama szőlő-, gyümölcs-, erdészeti fajták és fás szárú dísznövények esetében a megadástól számított 30. év végéig, egyéb növényfajták esetében a megadástól számított 10. év végéig tart.
 
@@ -146,7 +161,7 @@ intézhet a növénytermesztési hatósághoz.
 - a) a növényfajta elismerési idejének lejárta esetén, amennyiben a fajta állami elismerése meghosszabbításra nem került, vagy
 - b) ha a növénytermesztési hatóság a fajta állami elismerését kérelemre vagy hivatalból indított eljárásban visszavonja.
 
-(4) A növénytermesztési hatóság az állami elismerés megszűnéséről a határozat megküldésével értesíti a nyilvántartást vezető szervet, amely a növényfajtát törli a 15. § (1) bekezdés szerinti nyilvántartásból.
+(4) A növénytermesztési hatóság az állami elismerés megszűnésével egyidejűleg a növényfajtát törli a 15. § (1) bekezdése szerinti nyilvántartásból.
 
 11. § (1) A növénytermesztési hatóság kérelemre visszavonja a fajta állami elismerését, amennyiben a fajtatulajdonos vagy a fajtafenntartó az állami elismerés lejárata előtt kéri.
 
@@ -161,11 +176,9 @@ intézhet a növénytermesztési hatósághoz.
 
 (3) Az (1) bekezdésben meghatározott esetben a fajta állami elismerésének visszavonását követően a szaporítóanyag a visszavonást követő harmadik év június 30. napjáig forgalmazható.
 
-12. § (1) A nyilvántartást vezető szerv az állami elismerésben részesített növényfajtákról közhitelű nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.
+12. § A növénytermesztési hatóság az állami elismerés iránti kérelem alapján vizsgálat alatt álló és az állami elismerésben részesített növényfajtákról közhiteles nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.
 
-(2)–(4)
-
-13. § (1) A nemesítőt megilleti az a jog, hogy a növényfajta nemesítőjeként feltüntessék, illetve, hogy a növényfajta nemesítőjeként nyilvánosan elismerjék. A növényfajta minősített szaporítóanyaga után, a fajtahasználatért a fajtafenntartót szerződés alapján díjazás illeti meg.
+13. § (1) A nemesítőt megilleti az a jog, hogy a növényfajta nemesítőjeként feltüntessék, illetve, hogy a növényfajta nemesítőjeként nyilvánosan elismerjék. A növényfajta minősített szaporítóanyaga után, a fajtafenntartással kapcsolatos tevékenységéért, a fajtafenntartót szerződés alapján díjazás illeti meg.
 
 (2) A 7. § (2) bekezdése szerint a növényfajtát állami elismerés iránti kérelmet előterjesztő, illetve a növényfajta tulajdonosa a jogszabályok betartásával a növényfajtával szabadon rendelkezhet.
 
@@ -175,7 +188,7 @@ intézhet a növénytermesztési hatósághoz.
 
 (2) A fajtafenntartás a fajtafenntartó vagy megbízottja feladata.
 
-(3) Ha az állami elismerésben részesített növényfajta fenntartására újabb fajtafenntartó támaszt igényt, akkor azt a nyilvántartást vezető szervhez be kell jelenteni. A nyilvántartást vezető szerv a fajtafenntartókat a Nemzeti Fajtajegyzékben közzéteszi.
+(3) Ha az állami elismerésben részesített növényfajta fenntartására újabb fajtafenntartó támaszt igényt, akkor azt a növénytermesztési hatósághoz be kell jelenteni. A növénytermesztési hatóság a fajtafenntartókat a Nemzeti Fajtajegyzékben közzéteszi.
 
 ### A szaporítóanyagok előállítása és forgalomba hozatala
 
@@ -202,13 +215,18 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetben szőlő-, gyümölcs- és erdészeti szaporítóanyag, valamint zöldségpalánta előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és rendelkezik a tevékenység végzéséhez szükséges, a növénytermesztési hatóság által kiadott engedéllyel. Dísznövény-szaporítóanyag előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és a tevékenység megkezdését a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette a növénytermesztési hatóságnak.
 
-(8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a nyilvántartást vezető szerv – a növénytermesztési hatóság megkeresésére – nyilvántartásba veszi.
+(8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a növénytermesztési hatóság nyilvántartásba veszi. A nyilvántartás tartalmazza az engedéllyel rendelkező
+
+- a) nevét (cégnevét), címét (székhelyét),
+- b) FELIR-azonosítóját,
+- c) felelős kapcsolattartójának nevét és elérhetőségét, valamint
+- d) telephelyeinek címét, a telephelyen folytatott tevékenység jellegét, a telephelyen alkalmazott minőségügyi rendszer megnevezését.
 
 (9) Szőlő-, gyümölcs- és erdészeti szaporítóanyagot – beleértve a mikorrhizált erdészeti szaporítóanyagot – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon, a növénytermesztési hatóság általi minősítést követően lehet előállítani, gyűjteni, valamint forgalomba hozni. A minősítés eredményéről a minősítést végző szerv hatósági bizonyítványt állít ki.
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
-(11) A nyilvántartást vezető szerv közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(11) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (12) A szaporítóanyagnak a minősítés során megállapított minőségéért a szaporítóanyag-tétel forgalomban tartásának ideje alatt a szaporítóanyag-forgalmazó a felelős.
 
@@ -220,9 +238,9 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (3) Az importból származó szaporítóanyagot csak annak minősítését követően lehet szaporítóanyagként Magyarország területén forgalomba hozni és felhasználni.
 
-(4) Az uniós vámjog végrehajtásáról szóló törvény szerinti eljárásban a vámhatóság megkeresésére a nyilvántartást vezető szerv hozzáférést biztosít a nyilvántartás 23. § (1) bekezdés c) pontja szerinti adataihoz.
+(4) Az uniós vámjog végrehajtásáról szóló törvény szerinti eljárásban a vámhatóság megkeresésére a növénytermesztési hatóság hozzáférést biztosít a nyilvántartás 23. § (1) bekezdés c) pontja szerinti adataihoz.
 
-17. § Szaporítóanyag előállítására, termesztésére, feldolgozására, kiszerelésére, forgalomba hozatalára, illetve az ezekhez kapcsolódó tárolására e törvény végrehajtására kiadott jogszabályban meghatározott személyi és tárgyi feltételekkel rendelkező, olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet jogosult, aki a termékpálya szerinti terméktanács tagja.
+17. § Szaporítóanyag előállítására, termesztésére, feldolgozására, kiszerelésére, forgalomba hozatalára, illetve az ezekhez kapcsolódó tárolására e törvény végrehajtására kiadott jogszabályban meghatározott személyi és tárgyi feltételekkel rendelkező, olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet jogosult, aki a termékpálya szerinti terméktanács, illetve annak hiányában elismert szakmaközi szervezet vagy a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) tagja.
 
 ### A vetőmag előállításhoz szükséges védőtávolság általános szabályai
 
@@ -230,45 +248,49 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (2) A vetőmagtermesztés elsődlegességének biztosítása és e törvény végrehajtására kiadott jogszabályban előírt védőtávolságok érvényesítése érdekében a vetőmag előállítója az előírt védőtávolságon belül lévő termőföld használójával (a továbbiakban: földhasználó) szerződésben állapodhat meg vagy vetőmag szaporítási zárt körzetet hozhat létre.
 
-(3) A vetőmag előállítónak – az érintett földterületrészek területének pontos meghatározásával együtt – a helyi önkormányzat hirdető tábláján közzé kell tennie a vetéstervét:
+(3) A vetőmag-előállítónak – az érintett földterületrészek területének pontos meghatározásával együtt – a helyi önkormányzat honlapján közzé kell tennie a vetéstervét:
 
 - a) tavaszi vetésű növények esetében január 15-ig,
 - b) őszi káposztarepce esetében július 1-jéig,
 - c) egyéb őszi vetésű növények esetében augusztus 1-jéig.
 
-(3a) Az ingatlan fekvése szerint illetékes helyi önkormányzat jegyzője intézkedik a (3) bekezdés szerinti vetésterv elektronikus tájékoztatási rendszer keretében működő kormányzati honlapon (a továbbiakban: kormányzati portál), hirdetményi úton történő közzététele iránt. A kormányzati portálon való közzététel az önkormányzat hirdetőtábláján történő kifüggesztéssel megegyező időtartamú és tájékoztató jellegű.
+(3a) Az ingatlan fekvése szerint illetékes helyi önkormányzat jegyzője intézkedik a (3) bekezdés szerinti vetésterv elektronikus tájékoztatási rendszer keretében működő kormányzati honlapon (a továbbiakban: kormányzati portál), hirdetményi úton történő közzététele iránt. A kormányzati portálon való közzététel az önkormányzat honlapján történő közzététellel megegyező időtartamú és tájékoztató jellegű.
 
 (4) A védőtávolságba eső földhasználónak az egyeztetés iránti igényét a közzétételt követő 30 napos jogvesztő határidőn belül kell bejelentenie a vetőmag-előállító részére, ha a meghirdetett vetésterv a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz. A földhasználónak bizonyítania kell, hogy a védőtávolságba eső földterületen jelentős anyagi veszteség nélkül nem tud más növényfajt termeszteni, nem tudja a vetésforgót más módon kialakítani vagy hasonló értékű és igényű vetőmag előállítást végezni.
 
 ### Védőtávolság érvényesítése szerződés alapján
 
-18/A. § (1) A vetőmag előállító a közzétételtől számított 30 napon belül az egyeztetési igényét bejelentő földhasználóval szerződést köt vagy e törvény végrehajtására kiadott rendeletben meghatározott nyilatkozattételre hívja fel azt a földhasználót, akivel nem sikerült megegyeznie. A nyilatkozattételre történő felhívás az érintett földhasználó részére igazolható módon postai úton vagy tanúk igazolása mellett személyesen tehető meg.
+18/A. § (1) A vetőmag-előállító a közzétételtől számított 30 napon belül az egyeztetési igényét bejelentő földhasználóval szerződést köt vagy e törvény végrehajtására kiadott rendeletben meghatározott nyilatkozattételre hívja fel azt a földhasználót, akivel nem sikerült megegyeznie. A nyilatkozattételre történő felhívás az érintett földhasználó részére igazolható módon postai úton vagy tanúk igazolása mellett személyesen tehető meg.
 
-(2) Az érintett földhasználó a nyilatkozattételre történő felhívás kézhezvételétől számított 30 napon belül (a továbbiakban: nyilatkozattételi határidő) köteles a vetőmag előállító részére nyilatkozatot tenni, amennyiben a vetőmag előállításhoz nem járul hozzá. A nyilatkozat a vetőmag előállító részére igazolható módon, postai úton vagy tanúk igazolása mellett személyesen tehető meg. A nyilatkozattételi határidő lejárta után – nyilatkozat hiányában – az érintett földhasználó hozzájárulását megadottnak kell tekinteni.
+(2) Az érintett földhasználó a nyilatkozattételre történő felhívás kézhezvételétől számított 30 napon belül (a továbbiakban: nyilatkozattételi határidő) köteles a vetőmag-előállító részére nyilatkozatot tenni, amennyiben a vetőmag előállításhoz nem járul hozzá. A nyilatkozat a vetőmag-előállító részére igazolható módon, postai úton vagy tanúk igazolása mellett személyesen tehető meg. A nyilatkozattételi határidő lejárta után – nyilatkozat hiányában – az érintett földhasználó hozzájárulását megadottnak kell tekinteni.
 
 (3) A vetőmag előállítója a földhasználóval a vetés megkezdése előtt szerződésben állapodhat meg a földhasználat módjáról, illetve arról, hogy a földhasználó milyen feltételekkel kötelezi magát arra, hogy a vetőmag szaporító táblát veszélyeztető növényfajokat és -fajtákat nem termeszt. A szerződésnek tartalmaznia kell a termesztés korlátozásával kapcsolatos kötelezettségeket, valamint az ebből eredő eredménykiesés arányos ellentételezésének módját és mértékét. Az ellentételezés mértékének meghatározására a 18/B. § (7) bekezdésében foglalt szabályokat kell alkalmazni.
 
-(4) A vetőmag előállító jogosult – a földhasználó költségére – a vetőmag szaporítást veszélyeztető növényfajok és fajták haladéktalan eltávolítására, ha a földhasználó a szerződésben foglaltak nem teljesíti vagy a földhasználó a nyilatkozattételi felhívásnak nem tett eleget. A növényállomány eltávolítása nem járhat aránytalan kár okozásával. A földhasználó a vetőmag előállítóval szemben a vetőmag szaporítást veszélyeztető növényfajok és – fajták eltávolítása miatt kárigényt nem érvényesíthet.
+(4) A vetőmag-előállító jogosult – a földhasználó költségére – a vetőmag szaporítást veszélyeztető növényfajok és fajták haladéktalan eltávolítására, ha a földhasználó a szerződésben foglaltak nem teljesíti vagy a földhasználó a nyilatkozattételi felhívásnak nem tett eleget. A növényállomány eltávolítása nem járhat aránytalan kár okozásával. A földhasználó a vetőmag-előállítóval szemben a vetőmag szaporítást veszélyeztető növényfajok és – fajták eltávolítása miatt kárigényt nem érvényesíthet.
 
 ### Védőtávolság érvényesítése zárt körzet létrehozásával
 
-18/B. § (1) E törvény végrehajtására kiadott jogszabályban előírt védőtávolságok alkalmazásával egy vagy több termesztési ciklusban vetőmag szaporítási zárt körzetet (a továbbiakban: zárt körzet) lehet kialakítani. A zárt körzet területét pontosan meg kell határozni az üzemi térképen a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR) szerinti azonosító számmal és a helyrajzi számmal, valamint a helyi sajátságoknak megfelelő egyéb módon, így különösen dűlőnév, területrész megnevezésével. A zárt körzet létrehozását a növénytermesztési hatóság engedélyezi.
+18/B. § (1) E törvény végrehajtására kiadott jogszabályban előírt védőtávolságok alkalmazásával egy vagy több termesztési ciklusban vetőmag szaporítási zárt körzetet (a továbbiakban: zárt körzet) lehet kialakítani. A zárt körzet területét pontosan meg kell határozni az üzemi térképen a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR) szerinti azonosító számmal és a helyrajzi számmal, valamint a helyi sajátságoknak megfelelő egyéb módon, így különösen dűlőnév, területrész megnevezésével.
 
-(2) Az a vetőmag előállító, aki legalább 16 ha egybefüggő vetésterülettel és szaporítási szerződéssel rendelkezik, zárt körzet kialakítását kezdeményezheti a terméktanácsnál. A vetőmag előállítást végző fajtatulajdonos vagy fajtaképviselő is kezdeményezheti a zárt körzet kialakítását, ha legalább 16 ha egybefüggő vetésterülettel rendelkezik.
+(2) Az a vetőmag előállító, aki legalább 16 ha egybefüggő vetésterülettel és szaporítási szerződéssel rendelkezik, zárt körzet kialakítását kezdeményezheti. A vetőmag előállítást végző fajtatulajdonos vagy fajtaképviselő is kezdeményezheti a zárt körzet kialakítását, ha legalább 16 ha egybefüggő vetésterülettel rendelkezik.
 
-(3) A zárt körzet létesítését kezdeményező vetőmag-előállítónak a zárt körzet létesítésére vonatkozó szándékát a 18. § (3) bekezdésben meghatározott módon közzé kell tennie.
+(2a) Ha a 18. § (4) bekezdése szerinti határidőben egyetlen, a védőtávolságba eső földhasználó sem jelenti be egyeztetés iránti igényét a vetőmag-előállító részére, úgy a vetőmag-előállító a zárt körzet létrehozását a határidő lejártát követő 8 napon belül a növénytermesztési hatóságnak bejelenti. A bejelentéshez csatolni kell a helyi önkormányzat honlapján közzétett vetéstervet, valamint a szaporítási szerződést. A bejelentés alapján a növénytermesztési hatóság a zárt körzetet nyilvántartásba veszi.
 
-(4) A zárt körzet területén a védőtávolságba eső földterületek használójának az egyeztetés iránti igényét a közzétételt követő 30 napon belül kell bejelentenie a területi agrárkamara részére, ha a meghirdetett zárt körzet a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz, amelyet a 18. § (4) bekezdésében foglaltak szerint bizonyítania kell.
+(3) Ha a 18. § (4) bekezdése szerinti egyeztetési igény bejelentésére sor kerül, de elmarad a 18/A. § szerinti szerződéskötés, a zárt körzet létrehozását a növénytermesztési hatóság engedélyezi a (2) bekezdés szerinti feltétel teljesülésének vizsgálatát követően, a 18/C. §-ban foglaltak szerint. A zárt körzet létesítését kezdeményező vetőmag-előállítónak a zárt körzet létesítésére vonatkozó szándékát a 18. § (3) bekezdésében meghatározott módon közzé kell tennie.
 
-(5) A vetőmag előállítónak értesítenie kell a terméktanácsot a tervezett zárt körzet meghirdetéséről. A terméktanács a tervezett zárt körzettel érintett területi agrárkamarát felkéri, hogy a helyi sajátságok ismeretében, 30 napon belül folytasson egyeztetést a termesztés korlátozásával kapcsolatos kötelezettségekről és az ellentételezés módjáról, mértékéről a védőtávolságba eső földterületek használóival. Az egyeztetéseket március 5-ig be kell fejezni. Az egyeztetés eredményét megállapodásba kell foglalni.
+(4) A zárt körzet területén a védőtávolságba eső földterületek használójának az egyeztetés iránti igényét a közzétételt követő 30 napon belül kell bejelentenie a vetőmag-előállító és a területi agrárkamara részére, ha a meghirdetett zárt körzet a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz, amelyet a 18. § (4) bekezdésében foglaltak szerint bizonyítania kell.
 
-(6) A vetőmag előállítónak a területi agrárkamara által ellenjegyzett megállapodást meg kell küldenie a terméktanács részére. A megállapodásban külön kell felsorolni az egyezség által érintett területeket, és külön az olyan területrészeket, amelyek tekintetében a földhasználóval nem sikerült megegyezni. A megállapodásnak tartalmaznia kell a vetőmag előállító által felajánlott ellenszolgáltatásokat, amelyeket a földhasználók elutasítottak.
+(5) A vetőmag-előállítónak értesítenie kell a terméktanácsot a tervezett zárt körzet meghirdetéséről. A terméktanács a tervezett zárt körzettel érintett területi agrárkamarát felkéri, hogy a helyi sajátságok ismeretében, 30 napon belül folytasson egyeztetést a termesztés korlátozásával kapcsolatos kötelezettségekről és az ellentételezés módjáról, mértékéről a védőtávolságba eső földterületek használóival. Az egyeztetéseket március 5-ig be kell fejezni. Az egyeztetés eredményét megállapodásba kell foglalni.
+
+(6) A vetőmag-előállítónak a területi agrárkamara által ellenjegyzett megállapodást meg kell küldenie a terméktanács részére. A megállapodásban külön kell felsorolni az egyezség által érintett területeket, és külön az olyan területrészeket, amelyek tekintetében a földhasználóval nem sikerült megegyezni. A megállapodásnak tartalmaznia kell a vetőmag-előállító által felajánlott ellenszolgáltatásokat, amelyeket a földhasználók elutasítottak.
 
 (7) A földhasználó a termelés korlátozásával kapcsolatos kötelezettségeiért az eredetileg termeszteni tervezett növényi kultúra eredményével arányos ellentételezésre – így különösen terményre, természetbeni szolgáltatásra, illetve korlátozási díjra – tarthat igényt. Az arányos ellentételezés mértékét a zárt körzet térségére jellemző, a korlátozás alá eső növényi kultúra jövedelmezőségére és a termelt növény átlagos terméshozamára figyelemmel kell meghatározni. A korlátozás alá eső növényi kultúra és a földhasználó által termesztett növényi kultúra jövedelmezőségének, illetve az elmaradt haszonnak az adott év betakarításkori vármegyei átlaga alapján kell kiszámítani a korlátozási díj mértékét.
 
-18/C. § (1) A vetőmag előállító a zárt körzet engedélyezése iránti kérelmet – az egyeztetést követően – a terméktanács véleményével és az egyeztetés dokumentációjával együtt 8 napon belül továbbítja a növénytermesztési hatóságnak. A kérelemhez csatolni kell a zárt körzet kialakításának tervezetét.
+(8) A (2a) bekezdés alapján nyilvántartásba vett zárt körzet területén a védőtávolságba eső földterületek használói kötelesek a vetőmag-előállításhoz szükséges védőtávolság általános szabályainak betartására.
 
-(2) A növénytermesztési hatóság a zárt körzet kialakításának engedélyezéséről szóló határozatában rendelkezik az egyes idegen beporzást vagy növény-egészségügyi fertőzést előidéző növényfajok, növényfajták termesztésének korlátozásáról, tilalmáról, valamint azokat a földhasználókat megillető ellenszolgáltatásról, akikkel nem sikerült megegyezni. A zárt körzet kialakításának engedélyezéséről szóló határozatot a növénytermesztési hatóság megküldi a zárt körzeten belüli korlátozás és tilalom betartása ellenőrzésére jogosult növénytermesztési hatóságnak, a terméktanácsnak és az agrárkamarának. A zárt körzetet elrendelő határozatot hirdetmény útján is közölni kell, ha a védőtávolságba eső földterületen ismeretlen földhasználó van.
+18/C. § (1) A vetőmag-előállító a zárt körzet engedélyezése iránti kérelmet – az egyeztetést követően – a terméktanács véleményével és az egyeztetés dokumentációjával együtt 8 napon belül továbbítja a növénytermesztési hatóságnak. A kérelemhez csatolni kell a zárt körzet kialakításának tervezetét.
+
+(2) A növénytermesztési hatóság a zárt körzet kialakításának engedélyezéséről szóló határozatában rendelkezik az egyes idegen beporzást vagy növény-egészségügyi fertőzést előidéző növényfajok, növényfajták termesztésének korlátozásáról, tilalmáról, valamint azokat a földhasználókat megillető ellenszolgáltatásról, akikkel nem sikerült megegyezni. A zárt körzet kialakításának engedélyezéséről szóló határozatot, valamint a 18/B. § (2a) bekezdése alapján nyilvántartásba vett zárt körzetbe tartozó ingatlanok helyrajzi számát, MePAR azonosítóját, nagyságát, valamint a termesztett növényfaj megnevezését a növénytermesztési hatóság megküldi a zárt körzeten belüli korlátozás és tilalom betartása ellenőrzésére jogosult növénytermesztési hatóságnak, a terméktanácsnak és az agrárkamarának. A zárt körzetet elrendelő határozatot hirdetmény útján is közölni kell, ha a védőtávolságba eső földterületen ismeretlen földhasználó van.
 
 (3) A zárt körzeten belüli korlátozás, illetve a tilalom betartását a növénytermesztési hatóság ellenőrzi és elrendeli a növényállomány megsemmisítését, ha a korlátozás, illetve a tilalom ellenére a zárt körzeten belül a tiltott növényfaj egyedeinek eltávolítása elmaradt. A növénytermesztési hatóság határozatában foglaltakat haladéktalanul végre kell hajtani. A föld használója köteles tűrni, hogy a saját költségére a növényállomány eltávolításra kerüljön, amely nem járhat aránytalan kár okozásával.
 
@@ -276,7 +298,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 19. § (1) A szőlő-, gyümölcs- és erdészeti fajták minőségi szaporításának biztosítására törzsültetvényt kell létrehozni. A szőlő-, gyümölcs- és erdészeti szaporítóanyag előállítására szolgáló törzsültetvény létesítését a növénytermesztési hatóság az e törvény felhatalmazása alapján kiadott jogszabály szerint engedélyezi.
 
-(2) Az (1) bekezdés szerint engedélyezett törzsültetvényről a nyilvántartást vezető szerv nyilvántartást vezet. A nyilvántartás tartalmazza a törzsültetvény fenntartójára, helyére, telepítésének idejére, fajára, fajtájára, származására, valamint az évenkénti minősítésre vonatkozó adatokat.
+(2) Az (1) bekezdés szerint engedélyezett törzsültetvényről a növénytermesztési hatóság nyilvántartást vezet. A nyilvántartás tartalmazza a törzsültetvény fenntartójára, helyére, telepítésének idejére, fajára, fajtájára, származására, valamint az évenkénti minősítésre vonatkozó adatokat.
 
 (2a)
 
@@ -306,7 +328,9 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (9) A (8) bekezdés szerinti nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-### A szaporítóanyag csomagolása,jelölése (címkézése)
+### A szaporítóanyag csomagolása,
+
+jelölése (címkézése)
 
 21. § (1) Vetőmagot, dughagymát és fokhagyma szaporítóanyagot csak olyan csomagolóanyagban lehet forgalomba hozni, amely biztosítja a minőség megóvását, valamint nem teszi lehetővé a kivételt és a kicserélést a csomagolóanyag megsértése nélkül.
 
@@ -348,12 +372,12 @@ megsemmisítését rendelheti el.
 - a) irányítja a növényfajták állami elismerésével, valamint a szaporítóanyagok előállításával, minősítésével és forgalomba hozatalával kapcsolatos tevékenységet.
 - b)–e)
 
-23. § (1) A nyilvántartást vezető szerv nyilvántartást vezet:
+23. § (1) A növénytermesztési hatóság nyilvántartást vezet:
 
 - a) az állami elismerésben részesített növényfajtákról, amely
   - aa) tartalmazza: 1.) az állami elismerés időpontját (év, hónap, nap), 2.) a kérelmező, a képviselő, illetve a fajtafenntartó alábbi adatait: természetes személy esetén természetes személyazonosító adatait; jogi személy esetén az azonosító adatokat (cégnév, adószám, székhely, telephely), 3.) az állami elismerésben részesített növényfajta nevét, 4.) az állami elismerés megszűnése és a tovább-forgalmazás időpontját, 5.) a növényfajta-oltalom fennállását, valamint 6.) a kertészeti növények szaporítóanyagának előállításánál alanyként használt növényfajtákat, illetve fajokat;
   - ab) tartalmazhatja: 1.) kérelemre a nemesítő nevét, valamint 2.) a fajta termesztésének és felhasználásának sajátosságára, valamint a fajta egyediségére vonatkozó adatokat, információkat;
-- b) a vetőmag előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
+- b) a vetőmag-előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
   - ba) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
   - bb) jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatokat (cégnevét, adószámát, székhelyét, telephelyét),
   - bc) az ügyfél regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
@@ -367,7 +391,7 @@ megsemmisítését rendelheti el.
 - d) a szántóföldi és zöldség növényfajták esetében a vetőmag kiszerelést folytatókról, amely tartalmazza
   - da) a vetőmag kiszerelő természetes személy azonosító adatait, illetve jogi személy, valamint jogi személyiség nélküli szervezet cégnevét, adószámát, székhelyét, telephelyét,
   - db) a kiszerelésre engedélyezett fajok nevét;
-- e) a standard zöldség vetőmag előállítókról és forgalmazókról, amely tartalmazza
+- e) a standard zöldség vetőmag-előállítókról és forgalmazókról, amely tartalmazza
   - ea) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
   - eb) jogi személy, valamint jogi személyiség nélküli szervezet esetén a cégnevét, adószámát, székhelyét, telephelyét,
   - ec) engedélyezett fajok nevét;
@@ -389,7 +413,7 @@ megsemmisítését rendelheti el.
   - ib) a szaporítóanyag mennyiségét,
   - ic) az előállítás idejét;
 - j) a határon átnyúló szolgáltatás folytatása esetén a 15. § (10) bekezdése szerinti bejelentést tevőkről,
-- k) a 9. § (2) bekezdés szerinti vizsgálat elvégzéséhez szükséges, a fajtavizsgálatot végző szerv által rendszeresített nyomtatvány szerinti adatokról.
+- k) 7. § (2) bekezdése iránti kérelem szerinti adatokról.
 
 (2) A növénytermesztési hatóság
 
@@ -447,7 +471,7 @@ rendelkezéseit is alkalmazza.
 
 26. § (1) A növényfajták állami elismerésével kapcsolatos feladatok és vizsgálatok díjtétellel nem ellentételezett részét a központi költségvetésből kell biztosítani.
 
-(2) A fajtavizsgálatot végző szerv által végzett
+(2) A növénytermesztési hatóság által végzett
 
 - a) az állami elismeréshez elvégzett fajtavizsgálatokért,
 - b) a növényfajta oltalomra bejelentett fajta kísérleti vizsgálatáért igazgatási szolgáltatási díjat kell fizetni.
@@ -458,6 +482,8 @@ rendelkezéseit is alkalmazza.
 - b) az állami elismerésben részesített növényfajták állami elismerésének időtartama alatt végzett azonossági vizsgálatokért és az azzal összefüggő feladat ellátásáért
 
 a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott mértékű díjat számít fel.
+
+(4) A növénytermesztési hatóság a miniszter által jóváhagyott önköltségszámításra vonatkozó szabályzatában állapítja meg a (2) bekezdés szerinti eljárásokban felmerülő, az ügyfél részére részletkötelezettségként megállapítandó eljárási költség mértékét. A hatósági eljárási költsége magában foglalja a vetőmag, a termésnövelő anyag, a növényvédőszer, a mezőgazdasági gépi bérmunka, az üzemanyag és a kenőanyag költségeit.
 
 26/A. § Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 

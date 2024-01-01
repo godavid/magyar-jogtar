@@ -604,9 +604,9 @@ feltéve, hogy a hagyatéki leltár a hagyaték átadásához szükséges valame
 
 (3) A hirdetmény közzétételéhez fűződő jogkövetkezmények az országos kamara nyilvántartásában való közzététel alapján állnak be.
 
-60. § (1) A hirdetmény útján kézbesítendő iratot 15 napra ki kell függeszteni az érdekelt utolsó belföldi lakóhelye, ennek hiányában bejegyzett tartózkodási helye, ennek hiányában a hagyatéki eljárásra illetékes közjegyző székhelye szerint illetékes polgármesteri hivatal hirdetőtáblájára is.
+60. § (1) A hirdetmény útján kézbesítendő iratot 15 napra közzé kell tenni az érdekelt utolsó belföldi lakóhelye, ennek hiányában bejegyzett tartózkodási helye, ennek hiányában a hagyatéki eljárásra illetékes közjegyző székhelye szerint illetékes polgármesteri hivatal honlapján is.
 
-(2) A hirdetményt a közjegyző elektronikus úton küldi meg a polgármesteri hivatalnak, amely azt az érkezését követő munkanapon köteles a hirdetőtáblájára a közzététele időpontjának megjelölésével együtt kifüggeszteni. A közzététel 15. napján e tényről a polgármesteri hivatal a közjegyzőt díjmentesen, elektronikus úton értesíti.
+(2) A hirdetményt a közjegyző elektronikus úton küldi meg a polgármesteri hivatalnak, amely azt az érkezését követő munkanapon köteles a honlapján a közzététele időpontjának megjelölésével együtt közzétenni. A közzététel 15. napján e tényről a polgármesteri hivatal a közjegyzőt díjmentesen, elektronikus úton értesíti.
 
 61. § Bármelyik hagyatéki eljárásban érdekelt kérelmére a hirdetményt közzé kell tenni a külön jogszabályban meghatározott kormányzati portálon vagy – ha annak költségeit előlegezi – más egyéb módon is (országos napilapban vagy más formában). Az ezzel felmerült költséget a kérelmező viseli.
 
@@ -1250,13 +1250,15 @@ végzés ellen.
 
 (2) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt természetes személy alábbi személyes adatait kezelheti:
 
-- a) természetes személyazonosító adatai,
+- a) természetes személyazonosító adatai, az örökösként érdekelt esetén személyi azonosítója és állampolgársága is,
 - b) lakóhelye és tartózkodási helye,
 - c) az általa önként közölt sürgős elérhetősége (telefon, fax, e-mail),
 - d) az eljárásban való érdekeltségét megalapozó ok (végintézkedésen, hozzátartozói kapcsolaton vagy egyéb jogviszonyon alapul),
 - e) a törvényes képviselő a), b) és c) pontjában meghatározott adatai, ha az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.
 
 (3) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt jogalany képviselőjének (ha képviseleti jogosultságát igazolta) nevét, címét és az általa önként közölt sürgős elérhetőségét (telefon, fax, e-mail) kezelheti.
+
+(4) A hagyatéki eljárás lefolytatása céljából történő adatkezelésnek minősül az is, ha a közjegyző a személyes adatokat a 91. § (2) bekezdésében foglaltak céljából kezeli.
 
 117. § (1) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban közreműködő alábbi személyes adatait kezelheti:
 

@@ -91,7 +91,7 @@ a következő törvényt alkotja:
 
 (5) Azokon a településeken, ahol valamely nemzetiségnek a legutóbbi népszámlálás során a regisztrált aránya eléri a húsz százalékot, az érintett települési nemzetiségi önkormányzat kérésére a képviselő-testület köteles jegyzőkönyveit és határozatait a magyar mellett az adott nemzetiség nyelvén is vezetni, szövegezni. Értelmezési vita esetén a magyar nyelvű változat a hiteles.
 
-(6) Azokon a településeken, ahol valamely nemzetiségnek a legutóbbi népszámlálás során regisztrált aránya eléri a húsz százalékot, az érintett települési nemzetiségi önkormányzat kérésére a helyi köztisztviselői és közalkalmazotti, valamint közjegyzői és bírósági végrehajtó állások betöltése során – az általános szakmai követelmények megtartása mellett – biztosítani kell az adott nemzetiség anyanyelvét is ismerő személy alkalmazását.
+(6) Azokon a településeken, ahol valamely nemzetiségnek a legutóbbi népszámlálás során regisztrált aránya eléri a húsz százalékot, az érintett települési nemzetiségi önkormányzat kérésére a helyi köztisztviselői és közalkalmazotti, köznevelési foglalkoztatotti, valamint közjegyzői és bírósági végrehajtó állások betöltése során – az általános szakmai követelmények megtartása mellett – biztosítani kell az adott nemzetiség anyanyelvét is ismerő személy alkalmazását.
 
 6. § (1) Azokon a településeken, ahol valamely nemzetiségnek a legutóbbi népszámlálás során regisztrált aránya eléri a tíz százalékot, a helyi önkormányzat az illetékességi területén működő érintett települési nemzetiségi önkormányzat kérésére köteles biztosítani, hogy
 
@@ -239,12 +239,12 @@ láthatja el.
 
 24. § (1) A nemzetiségi önkormányzat – helyi nemzetiségi önkormányzat esetén az országos nemzetiségi önkormányzat egyetértésével – köznevelési intézményt, illetve szakképző intézményt alapíthat, vagy fenntartásba átvehet. A nemzetiségi önkormányzat által fenntartott
 
-- a) köznevelési intézmény vezetőjét a köznevelésért felelős miniszter,
+- a) köznevelési intézmény igazgatóját (főigazgatóját) a köznevelésért felelős miniszter,
 - b) szakképző intézmény vezetőjét a szakképzésért felelős miniszter
 
 egyetértésével a fenntartó bízza meg. Az egyetértés csak jogszabálysértés esetén tagadható meg.
 
-(2) A nemzetiségi önkormányzat által fenntartott köznevelési intézményben történő foglalkoztatásra a közalkalmazottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
+(2) A nemzetiségi önkormányzat által fenntartott köznevelési intézményben történő foglalkoztatásra a pedagógusok új életpályájáról szóló törvény rendelkezéseit kell alkalmazni.
 
 25. § (1) Állami, önkormányzati feladatot ellátó intézmény esetében az országos nemzetiségi önkormányzat kezdeményezésére át kell adni az országos nemzetiségi önkormányzat részére annak az országos vagy térségi beiskolázású köznevelési intézménynek a fenntartói jogát, amely alapító okirata alapján nemzetiségi feladatot lát el, és a gyermekek, tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, illetve kollégiumi ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény óvodaszékének, iskolaszékének, intézményi tanácsának, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét.
 
@@ -679,7 +679,7 @@ d) öt fő, ha a közgyűlés létszáma negyvenhét fő.
 
 (2) A nemzetiségi intézmények esetében:
 
-- a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó vezetőinek megbízására (vezetői megbízás visszavonására),
+- a) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó vezetőinek megbízására (vezetői megbízás visszavonására),
 - b) a munka törvénykönyvéről szóló törvény hatálya alá tartozó vezető állású munkavállalói munkaszerződésének megkötéséhez (megszüntetéséhez)
 
 – ha nem az adott nemzetiség önkormányzata gyakorolja a megbízási, illetve munkáltatói jogot –, valamint a nemzetiséghez tartozók oktatási és kulturális önigazgatására is kiterjedő fenntartói döntés meghozatalára csak az adott nemzetiség önkormányzata egyetértésével, egyházi köznevelési intézmény vagy egyházi felsőoktatási intézmény esetében az adott nemzetiség önkormányzata véleményének kikérésével kerülhet sor. Érintett települési nemzetiségi önkormányzat hiányában az érintett területi, ennek hiányában az országos önkormányzat, ennek hiányában az adott nemzetiség helyi egyesületeinek véleményét ki kell kérni.
@@ -838,6 +838,13 @@ d) öt fő, ha a közgyűlés létszáma negyvenhét fő.
 (2) A közmeghallgatás a képviselő-testület olyan ülése, amelyen a helyi lakosság és a helyben érdekelt szervezetek képviselői a helyi nemzetiségi közügyeket érintő kérdéseket és javaslatot tehetnek. Az elhangzott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni.
 
 (3) A képviselő-testület a közmeghallgatás időpontját legalább tizenöt nappal korábban – a szervezeti és működési szabályzatban meghatározott módon – közzéteszi.
+
+(4) A közmeghallgatás a helyi lakosság, valamint a helyben érdekelt szervezetek képviselőinek személyes megjelenése nélkül,
+
+- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
+- b) a honlapon való közzététel útján
+
+is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül ebben az esetben is választ kell adni. A képviselő-testület a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
 
 98. § (1) A nemzetiségi önkormányzat testülete a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
 

@@ -297,7 +297,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 ### Alzálogjog fennállásának igazolására irányuló eljárás
 
-27/B. § (1) Ha a hitelbiztosítéki nyilvántartásról szóló törvény alapján a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzésével a Polgári Törvénykönyv szerinti alzálogjogot is megalapítottnak kell tekinteni, az alzálogjog jogosultja közhiteles nyilvántartásba történő bejegyzés, vagy valamely igény érvényesítése céljából közjegyzőtől kérheti az alzálogjog fennállásának igazolására irányuló eljárás lefolytatását és a jogosultság igazolását.
+27/B. § (1) Ha a hitelbiztosítéki nyilvántartásról szóló törvény alapján a Polgári Törvénykönyv szerinti alzálogjogot is megalapítottnak kell tekinteni, az alzálogjog jogosultja közhiteles nyilvántartásba történő bejegyzés, vagy valamely igény érvényesítése céljából közjegyzőtől kérheti az alzálogjog fennállásának igazolására irányuló eljárás lefolytatását és a jogosultság igazolását.
 
 (2) Az eljárásra bármelyik közjegyző illetékes.
 
@@ -306,8 +306,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 27/C. § (1) A kérelemnek tartalmaznia kell a következőket is:
 
 - a) a kérelmezőnek (alzálogjog jogosultjának) a Pp. szerinti azonosító adatait;
-- b) annak a jogosultnak (zálogjogosultnak) a Pp. szerinti azonosító adatait, akinek a kérelmező – a kérelmező állítása szerint – a Polgári Törvénykönyv 5:140. § (1) bekezdés a) pontja alapján a jogait gyakorolja, vagy akinek a Polgári Törvénykönyv 5:140. § (1) bekezdés b) pontja alapján a helyébe lépett;
-- c) az ellenérdekű fél (alzálogjog kötelezettjének) mint kérelmezett Pp. szerinti azonosító adatait;
+- b) az ellenérdekű félnek (alzálogjog kötelezettjének) mint kérelmezettnek a Pp. szerinti azonosító adatait;
+- c) annak az ingatlannak az adatait, amelyet a főzálogjog terhel;
 - d) ha a jogosult vagy az ellenérdekű fél halála esetén az ő örököse, dologi hagyományosa (ezen alcím alkalmazásában a továbbiakban együtt: örökös), megszűnése esetén jogutóda ismert, az ő ismert Pp. szerinti azonosító adatait;
 - e) mellékletként a jogosult vagy az ellenérdekű fél halála esetén – ha a hagyatéki eljárás jogerősen befejeződött – a jogerős hagyatékátadó végzést vagy öröklési bizonyítványt, megszűnése esetén a megszűnését, jogutódlással történő megszűnés esetén a jogutód személyét igazoló okiratot;
 - f) annak a jogviszonynak, jognak vagy követelésnek a megjelölését, amelyhez kapcsolódóan a kérelmező a jogosultság fennállásának az igazolását kéri;
@@ -343,11 +343,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - a) az elkésett, vagy
 - b) a kifogás hiányait az előterjesztője felhívás ellenére nem pótolta.
 
-(5) A kifogást visszautasító végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet.
+(5) A kifogást visszautasító vagy elutasító végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet. A bizonyítvány e végzés elleni fellebbezésre tekintet nélkül joghatás kiváltására alkalmas.
 
-(6) Szabályszerű kifogás esetén a közjegyző végzéssel a bizonyítvány hatálytalanságát állapítja meg. A végzést és az annak alapjául szolgáló kifogást a bizonyítvánnyal együtt a közjegyző kézbesíti a kérelmezőnek, aki a bizonyítvány hatálytalanságát megállapító végzés ellen fellebbezhet.
+(6) Ha a közjegyző a kifogásnak helyt ad, a bizonyítvány hatálytalanságát végzéssel állapítja meg. A végzést és az annak alapjául szolgáló kifogást a hatálytalanná nyilvánított bizonyítvánnyal együtt a közjegyző kézbesíti a kérelmezőnek, aki a bizonyítvány hatálytalanságát megállapító végzés ellen fellebbezhet.
 
-(7) Ha a bizonyítvány ellen szabályszerű kifogást nem terjesztettek elő, a bizonyítványt a kérelmezőnek kézbesíteni kell. A kérelmező a bizonyítvány ellen fellebbezhet.
+(7) Ha a bizonyítvány ellen kifogást nem terjesztettek elő, vagy a kifogást a közjegyző visszautasította, vagy elutasította, a bizonyítványt a kérelmezőnek kézbesíteni kell. A kérelmező a bizonyítvány ellen fellebbezhet.
 
 (8) A bizonyítvány ellen a kérelmezőn kívül más nem fellebbezhet. A bizonyítványban foglaltakat sérelmesnek tartó fél – a (2) bekezdésben meghatározott határidő eltelte után – az igényeit a kérelmezővel szemben bírósági úton érvényesítheti. A per tárgya kizárólag annak a megállapítása is lehet, hogy a bizonyítvány szerinti jogosultság a bizonyítvány szerinti kérelmezőt nem illeti meg.
 

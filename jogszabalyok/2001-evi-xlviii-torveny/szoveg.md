@@ -79,7 +79,7 @@ közös szabályok
 
 ### A mintaoltalomhoz való jog
 
-11. § A mintát mintaoltalomban kell részesíteni, ha a minta
+11. § A mintaoltalomhoz való jog akkor illeti meg a mintaoltalmi igény jogosultját, ha a minta
 
 - a) kielégíti az 1–5. §-ban meghatározott követelményeket,
 - b) nincs kizárva az oltalomból a 6–10. § alapján, és
@@ -332,6 +332,8 @@ szabályai
 
 (1b) Mintaoltalmi ügyekben a szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
 
+(1c) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább egy hónapos, de legfeljebb három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre legalább egy hónappal, de legfeljebb három hónappal meghosszabbítható. Többszöri, illetve három hónapot meghaladó, de legfeljebb hat hónapos határidő-hosszabbítás csak különösen indokolt esetben adható.
+
 (2) Mintaoltalmi ügyekben az igazolás ki van zárva:
 
 - a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [40. § (2) bek.] elmulasztása esetén;
@@ -339,6 +341,30 @@ szabályai
 - c)
 
 (3) A szabadalmi törvény nyilvánosságra vonatkozó szabályainak alkalmazásában a szabadalmi bejelentés közzétételén a mintaoltalom megadását kell érteni. Mintaoltalmi ügyekben a szabadalmi bejelentések minősített adatként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
+
+(4) A mintaoltalmi bejelentés iratait a mintaoltalom megadásáról szóló határozat jogerőre emelkedését követően bárki megtekintheti és azokról jogszabályban megállapított díj ellenében másolatot kaphat. A 33/A. § szerinti oltalmazhatósági véleményt a mintaoltalom megadásáról szóló határozat jogerőre emelkedését követően, illetve – ha azt követően készül el – az oltalmazhatósági véleményről szóló hatósági tájékoztatást követően bárki megtekintheti és annak iratairól díj ellenében másolatot kaphat.
+
+### Oltalmazhatósági vélemény
+
+33/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala a bejelentő vagy – a mintaoltalom megadását követően – a mintaoltalom jogosultjának kérelmére oltalmazhatósági véleményt készít. Az oltalmazhatósági vélemény újdonságkutatáson alapuló, indokolást is tartalmazó, az e törvényben meghatározott joghatásokon túlmenően kötőerővel nem rendelkező megállapítás arról, hogy a minta kielégítheti-e az 1–5. §-ban meghatározott követelményeket, valamint nem áll-e fenn a 7. és 8. §-ban foglalt kizáró ok.
+
+(2) Az oltalmazhatósági vélemény egy minta vonatkozásában készül.
+
+(3) Az oltalmazhatósági vélemény elkészítése a mintaoltalmi bejelentés vizsgálatától elkülönülten folyik, és a mintaoltalom megadható az oltalmazhatósági vélemény elkészültét megelőzően is.
+
+(4) Az oltalmazhatósági véleményért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(5) Ha a megfizetés időpontjában a mintaoltalmi igény, illetve a mintaoltalom jogosultja kizárólag maga a szerző, az oltalmazhatósági vélemény díjának a felét köteles megfizetni.
+
+(6) Az oltalmazhatósági vélemény elkészítése során az újdonságkutatást a Szellemi Tulajdon Nemzeti Hivatala a minta ábrázolása alapján a minta szerinti termék megnevezésére figyelemmel végzi el.
+
+(7) Az oltalmazhatósági véleményben meg kell jelölni azokat az iratokat, illetve adatokat, amelyek figyelembe vehetők a mintával kapcsolatban az újdonság és az egyéni jelleg megítélése során.
+
+(8) A Szellemi Tulajdon Nemzeti Hivatala az oltalmazhatósági véleményt a minta erre irányuló kérelem benyújtásának napján rendelkezésre álló ábrázolása alapján készíti el, és azt az oltalmazhatósági véleményre irányuló kérelem benyújtásától számított három hónapon belül küldi meg – a hivatkozott iratok másolatával együtt – a bejelentőnek, illetve a mintaoltalom jogosultjának.
+
+(9) Az oltalmazhatósági vélemény elkészültéről a mintaoltalom megadásának meghirdetésével együtt – vagy, ha az oltalmazhatósági vélemény később készül el, külön alkalommal – hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
+
+(10) A Szellemi Tulajdon Nemzeti Hivatala az oltalmazhatósági vélemény díját kérelemre visszafizeti, ha az oltalmazhatósági vélemény megküldésére a kérelem benyújtásától számított harmadik hónap utolsó napját követően kerül sor.
 
 ### VI. Fejezet — MINTAOLTALMI LAJSTROM, HATÓSÁGI TÁJÉKOZTATÁS
 
@@ -451,13 +477,7 @@ szabályai
 
 #### 43. §
 
-### Újdonságkutatás
-
-44. § (1) Ha a mintaoltalmi bejelentés megfelel a 41. § (1) bekezdése alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és a minta ábrázolása alapján – figyelemmel a minta szerinti termék megnevezésére – újdonságkutatási jelentést készít.
-
-(2) Az újdonságkutatási jelentésben meg kell jelölni azokat az iratokat, illetve adatokat, amelyek figyelembe vehetők a bejelentésben ábrázolt mintával kapcsolatban az újdonság és az egyéni jelleg elbírálása során.
-
-(3) Az újdonságkutatási jelentést a hivatkozott iratok másolataival együtt a bejelentőnek – kérésére – meg kell küldeni.
+#### 44. §
 
 #### 45. §
 
@@ -471,8 +491,8 @@ szabályai
 
 (2) Az érdemi vizsgálat arra terjed ki, hogy a minta
 
-- a) kielégíti-e az 1–5. §-ban meghatározott követelményeket, és a 6–8. § alapján nincs-e kizárva az oltalomból, és
-- b) bejelentése megfelel-e az e törvényben megszabott feltételeknek.
+- a) kielégíti-e az 1. § (2)–(4) bekezdésében meghatározott követelményeket, és
+- b) a 7. és 8. § alapján nincs-e kizárva az oltalomból.
 
 (3) Ha a mintaoltalmi bejelentés nem felel meg az (1a) vagy a (2) bekezdés alapján vizsgált követelményeknek, a bejelentőt – a kifogás természete szerint – hiánypótlásra, nyilatkozattételre, illetve a bejelentés megosztására kell felhívni.
 
@@ -492,7 +512,7 @@ szabályai
 
 49. § (1) Aki több mintára igényelt oltalmat egy bejelentésben, a mintaoltalmat megadó határozat meghozataláig megoszthatja bejelentését, a bejelentési nap és – ha van ilyen – a korábbi elsőbbség megtartásával.
 
-(2) A megosztásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(2) A megosztásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 (3) Ha a kérelem benyújtásakor nem fizették meg a megosztási díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (2) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradása esetén a megosztási kérelmet visszavontnak kell tekinteni.
 
@@ -514,7 +534,7 @@ szabályai
 
 (3) A mintaoltalom megújítását legkorábban az oltalmi idő lejárta előtt hat hónappal, legkésőbb a lejárat napjától számított hat hónapon belül lehet kérni.
 
-(4) A megújítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
+(4) A megújítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő egy hónapon belül.
 
 #### 51/A. §
 
@@ -536,7 +556,7 @@ szabályai
 
 (3) A megosztás iránti kérelemben meg kell jelölni az eredeti mintaoltalom lajstromszámát; a kérelemre és mellékleteire egyebekben a mintaoltalmi bejelentés kellékeire vonatkozó rendelkezéseket [36. § (2)–(3) bek. ] kell megfelelően alkalmazni.
 
-(4) A mintaoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A mintaoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 55. § (1) Ha a mintaoltalom megosztására irányuló kérelem nem felel meg az 54. § (1)–(3) bekezdéseiben előírt követelményeknek, a kérelmezőt hiánypótlásra kell felhívni.
 
@@ -558,7 +578,7 @@ szabályai
 
 (3) A megsemmisítési kérelmet elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak és – szolgálati mintára adott mintaoltalom esetén – ahány szerzője van a mintának. A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
-(4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 (5) Ha a megsemmisítési kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megsemmisítési kérelmet visszavontnak kell tekinteni.
 
@@ -588,7 +608,7 @@ szabályai
 
 58/A. § (1) A megsemmisítési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a mintaoltalom bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
-(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
+(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló miniszteri rendeletben meghatározott díjat kell fizetni e kérelem benyújtásával egyidejűleg.
 
 (3) Ha a kérelem nem felel meg az (1) bekezdésben meghatározott követelményeknek, a gyorsított eljárást kérő felet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A gyorsított eljárás iránti kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a törvényben meghatározott követelményeket. A gyorsított eljárás iránti kérelmet visszavontnak kell tekinteni, ha az azt előterjesztő fél a felhívásra a kitűzött határidőben nem válaszol.
 
@@ -608,7 +628,7 @@ szabályai
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy mintaoltalom és egy hasznosított vagy hasznosítani kívánt termék tekintetében lehet benyújtani.
 
-(3) A nemleges megállapítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(3) A nemleges megállapítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 (4) Ha a nemleges megállapítási kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a nemleges megállapítási kérelmet visszavontnak kell tekinteni.
 
@@ -762,7 +782,7 @@ szabályai
 
 63. § (1) Mintaoltalmi perek: a minta vagy a mintaoltalom bitorlása miatt indított perek, az előhasználati és a továbbhasználati jog [65. § (8) bek.] fennállásával kapcsolatos perek, valamint a közösségi mintaoltalmi rendelet [60/A. § a) pont] 110a. cikkének (4) bekezdése alapján a közösségi minta hasznosításától való eltiltás iránt indított perek.
 
-(2) A mintaoltalmi perekre a szabadalmi perek szabályait kell megfelelően alkalmazni.
+(2) A mintaoltalmi perekre a szabadalmi perek szabályait kell alkalmazni, azzal az eltéréssel, hogy ha a mintaoltalom bitorlása miatt indított perben az alperes a perfelvételt lezáró végzés meghozataláig igazolja, hogy a mintaoltalom megsemmisítése iránt eljárást indított a Szellemi Tulajdon Nemzeti Hivatala előtt, a peres eljárást a bíróság a megsemmisítési eljárás jogerős befejezéséig felfüggeszti, azzal, hogy ha a mintaoltalom jogosultja az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig rá nézve kedvező oltalmazhatósági véleményt nyújt be a bíróságon, a felfüggesztés nem kötelező.
 
 (3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a bíróság a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.
 
@@ -822,6 +842,10 @@ szabályai
 67/B. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 67/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+67/D. § (1) E törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel (a továbbiakban: Mód2.tv.) módosított 11. §-át, 49. § (2) bekezdését, 51. § (4) bekezdését, 54. § (4) bekezdését, 57. § (4) bekezdését, 59. § (3) bekezdését, valamint a megállapított 33. § (1c) és (4) bekezdését, 33/A. §-át, 47. § (2) bekezdését, 58/A. § (2) bekezdését, 63. § (2) bekezdését az e § hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Mód2.tv.-vel hatályon kívül helyezett 44. §-át az e § hatálybalépését követően indult eljárásokban nem kell alkalmazni.
 
 ### Felhatalmazás
 

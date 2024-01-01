@@ -38,7 +38,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
   - b) egy naptári hónapon belül összesen legfeljebb tizenöt naptári napig, és
   - c) egy naptári éven belül összesen legfeljebb kilencven naptári napig létesített, határozott időre szóló munkaviszony,
 - 4. külföldi személy: a magyar állampolgársággal nem rendelkező természetes személy,
-- 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
+- 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott harmadik országbeli állampolgár,
 - 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 - 7. idénymunka: az Mt. 90. § c) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
 - 8. filmipari statiszta: az a természetes személy, aki a 3711 FEOR számmal azonosított foglalkozásúnak minősül, feltéve, hogy tevékenysége a szerzői jogról szóló 1999. évi LXXVI. törvény 64. § (1) bekezdés szerinti filmalkotás elkészítésében való kisegítő (pótolható) jellegű részvételre irányul és e tevékenységből származó napi nettó jövedelme nem haladja meg az e törvényben meghatározott mértéket.
@@ -61,7 +61,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 (4)
 
-5. § (1) Harmadik országbeli állampolgár – a bevándorolt vagy letelepedett jogállású személy kivételével – kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint létesített munkaviszony alapján.
+5. § (1) Harmadik országbeli állampolgár – a huzamos tartózkodási jogosultsággal rendelkező személy kivételével – kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint létesített munkaviszony alapján.
 
 (2) Az állami foglalkoztatási szerv a harmadik országbeli állampolgár kérelmére haladéktalanul megkeresi
 
@@ -97,9 +97,11 @@ az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt elt
 
 azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
+(2a) A (2) bekezdés szerinti közteher szociális hozzájárulási adónak minősül, azzal hogy a Szocho tv. mentességeket és kedvezményeket megállapító rendelkezései nem alkalmazhatók. Az adókötelezettség teljesítésére és a közteher felosztására e törvény szabályait kell alkalmazni.
+
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
-- a) a munkáltatót szociális hozzájárulási adó és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
+- a) a munkáltatót a Szocho tv. 1. § (1) bekezdése szerint terhelő szociális hozzájárulási adó és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény szerinti rehabilitációs hozzájárulás, valamint az Szja tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
 - b) a munkavállalót társadalombiztosítási járulékfizetési, és személyi jövedelemadóelőleg-fizetési kötelezettség.
 
 (4) Ha a munkáltató a (2) bekezdésben szereplő közteherrel terhelt munkára az 1. § (2)–(4) bekezdésében, a 2. § 1–3. pontjában és a 4. § (2) bekezdésében meghatározott létszám-, kereseti-, illetve időkorlátok túllépésével létesít, illetve tart fenn e törvény szerinti munkaviszonyt, attól a naptól, hogy az előzőek szerinti feltételek nem teljesülnek, a munkáltató a munkavállalóira nem alkalmazhatja az (1)–(3) bekezdés rendelkezéseit. A munkáltató a 7. § (1) bekezdésében meghatározott jogszabályokat köteles továbbá alkalmazni az előzőek szerinti feltételek megsértése feltárásának időpontjától annyi ideig, ameddig az (1)–(3) bekezdést jogosulatlanul alkalmazta.

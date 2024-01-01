@@ -25,6 +25,7 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
   - b) az üzenet és a kézbesítést igazoló okirat észrevétlenül nem megváltoztatható sem a kézbesítés során, sem a kézbesítést követően,
   - c) az üzenet átvevője csak a címzett vagy a feljogosított helyettes átvevő lehet, és a tényleges átvevő személyét az átvétellel kapcsolatos okirat igazolja,
   - d) a feladónak okirati bizonyíték áll rendelkezésére (tértivevény) arról az esetről is, ha a kézbesítés a megadott időn belül sikertelen; az igazolás a meghiúsulás időpontját és – ha azonosítható – okát tartalmazza;
+- 11a. egyszerű elektronikus aláírás: az eIDAS Rendelet 3. cikk 10. pontjában meghatározott olyan aláírás, amely nem felel meg az eIDAS Rendelet 3. cikk 11. és 12. pontjában meghatározott követelményeknek;
 - 12. egyszerű információátadás: információ automatikus információátadásnak nem minősülő átadása együttműködő szervek között;
 - 13. elektronikus azonosítás: az eIDAS Rendelet 3. cikk 1. pontjában meghatározott folyamat;
 - 14. elektronikus fizetés:
@@ -65,9 +66,9 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 - 29. jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és kamarai jogtanácsos;
 - 30. kormányzati célú hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott kormányzati célú hálózatnak minősülő, jogszabályban meghatározott elektronikus hírközlő hálózat felhasználásával, jogszabályban meghatározott felhasználók részére nyújtott elektronikus hírközlési szolgáltatás;
 - 30a. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam kijelölt központi szolgáltatón keresztül biztosít;
-- 31. központi dokumentumhitelesítési ügynök: olyan központi elektronikus ügyintézési szolgáltatás, ahol az ügyfél vagy az elektronikus ügyintézést biztosító szerv ügyintézője az általa feltöltött iratot a szolgáltatás által felkínált hitelesítési módok közül választva hitelesítheti;
+- 31.
 - 32. közfeladatot ellátó szerv: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvényben meghatározott, a 17. pontban foglaltak közé nem tartozó közfeladatot ellátó szerv;
-- 33. közüzemi szolgáltató: az a vállalkozás, amely törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozik, amely e kötelezettség alapján víziközmű-szolgáltatást, távhőszolgáltatást, hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység közszolgáltatást, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást, kéményseprő-ipari szolgáltatást, egyetemes postai szolgáltatást, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatást, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatást nyújt és a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 150 000 számlát bocsátott ki;
+- 33. közüzemi szolgáltató: az a vállalkozás, amely törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozik, amely e kötelezettség alapján víziközmű-szolgáltatást, távhőszolgáltatást, hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység közszolgáltatást, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást, kéményseprő-ipari szolgáltatást, egyetemes postai szolgáltatást, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatást, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatást nyújt és a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 50 000 számlát bocsátott ki;
 - 34. lenyomat: olyan meghatározott hosszúságú, az elektronikus dokumentumhoz rendelt bitsorozat, amelynek képzése során a használt eljárás (lenyomatképző eljárás) a képzés időpontjában teljesíti az e törvény végrehajtására kiadott rendeletben megfogalmazott követelményeket;
 - 35. minősített adat: a minősített adat védelméről szóló törvény szerinti minősített adat;
 - 36. minősített bizalmi szolgáltatás: az eIDAS Rendelet 3. cikk 17. pontja szerinti szolgáltatás;
@@ -749,7 +750,7 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 (10) A Központi Ügyfél-regisztrációs Nyilvántartás a 32. § (2) bekezdésében foglaltakon és a kapcsolati kódon túl az érintett következő adatait tartalmazza:
 
 - a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás esetén az okmányszám, az okmány érvényességére vonatkozó adatok, a személyazonosító igazolványhoz rendelt regisztrációs kód visszafejthetetlen lenyomata és – ha az érintett azt megadta – az érintett elektronikus levelezési címe,
-- b) ügyfélkapu esetén felhasználói név, a felhasználói névhez tartozó jelszó visszafejthetetlen lenyomata, az érintett elektronikus levelezési címe,
+- b) ügyfélkapu esetén felhasználói név, a felhasználói névhez tartozó jelszó visszafejthetetlen lenyomata és – ha rendelkezésre áll – az érintett elektronikus levelezési címe,
 - c) részleges kódú telefonos azonosítás esetén az érintett által megadott telefonos elérhetőség, elektronikus levelezési cím, felhasználói azonosító, a felhasználói azonosítóhoz tartozó jelszó visszafejthetetlen lenyomata, valamint az ügyfél által az emlékeztető kérdésekre adott válaszok,
 - d) videotechnológiával történő azonosítás esetén az okmányszám, az okmány típusa, az okmány érvényességére vonatkozó adatok és – ha az érintett azt megadta – az érintett elektronikus levelezési címe.
 
@@ -828,15 +829,15 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - b) iratérvényességi nyilvántartás,
 - c) elektronikus fizetési és elszámolási rendszer,
 - d) azonosításra visszavezetett dokumentumhitelesítés,
-- e) központi érkeztetési ügynök, amelynek keretében a szolgáltató az elektronikus ügyintézést biztosító szerv javára ellátja a részére elektronikus úton érkezett küldemények átvétele, felbontása és érkeztetése tekintetében kormányrendeletben meghatározott feladatokat,
-- f) központi kézbesítési ügynök, amelynek keretében a szolgáltató az elektronikus ügyintézést biztosító szerv javára ellátja az általa kiküldendő elektronikus iratok kézbesítésének előkészítése, adathordozójának, fajtájának meghatározása, továbbá a kézbesítés módja tekintetében a kormányrendeletben meghatározott feladatokat,
+- e)
+- f)
 - g) az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről, amelynek keretében a szolgáltató az ügyfelet az általa meghatározott elektronikus ügyintézést biztosító szervek tekintetében és időszakonként összesítve tájékoztatja a kormányrendeletben meghatározott ügyintézési cselekményekről,
 - h) papír alapú irat átalakítása hiteles elektronikus irattá,
 - i) elektronikus irat hiteles papír alapú irattá alakítása,
 - j) központi azonosítási ügynök,
 - k) személyre szabott ügyintézési felület,
 - l) űrlapbenyújtás-támogatási szolgáltatás,
-- m) központi dokumentumhitelesítési ügynök,
+- m)
 - n) általános célú elektronikus kéreleműrlap szolgáltatás,
 - o) összerendelési nyilvántartás.
 - p) szerepkör-tanúsító platform szolgáltatás,
@@ -1158,15 +1159,9 @@ nem kell alkalmazni.
 
 58. § (1) Az együttműködő szervek egymás közötti elektronikus kapcsolattartása csak az e törvényben meghatározott olyan módon történhet, amelynek során az együttműködő szervek biztosítják a küldeménybe foglalt nyilatkozatot megtevő személy elektronikus azonosíthatóságát, a küldemény sértetlenségét, a küldemény kézbesítésének igazolását, a kézbesítés időpontjának megállapíthatóságát (a továbbiakban: biztonságos elektronikus kapcsolattartás).
 
-(2) A biztonságos elektronikus kapcsolattartás történhet
+(2) A biztonságos elektronikus kapcsolattartás a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján történhet.
 
-- a) a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján, vagy
-- b) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás igénybevételével.
-
-(3) A küldemény kézbesítettnek minősül
-
-- a) a (2) bekezdés a) pontja szerinti esetben az elküldést követő munkanapon,
-- b) a (2) bekezdés b) pontja szerinti esetben a sikeres iratátadás szolgáltató által igazolt időpontjában.
+(3) A küldemény az elküldést követő munkanapon minősül kézbesítettnek.
 
 (4) Az elektronikus kapcsolattartást kezdeményező együttműködő szerv a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségek közül az együttműködő szerv által közzétett további információk figyelembevételével választja ki az elektronikus kapcsolattartásba bevonni kívánt másik szerv elérhetőségét.
 
@@ -1444,9 +1439,9 @@ továbbítják.
 
 (3) A 38. §-ban meghatározott szolgáltatásokon túl az alábbi központi elektronikus ügyintézési szolgáltatásokat a Kormány biztosítja a jogszabályban kijelölt szolgáltató útján:
 
-- a) központi érkeztetési rendszer, amely biztosítja az iratkezelés egyes fázisainak központi szolgáltatás útján történő elvégzését,
-- b) elektronikus dokumentumtárolás szolgáltatás, amely biztosítja a szolgáltatás keretében tárolt elektronikus dokumentum hitelességének megőrzését, tartós olvashatóságát és értelmezhetőségét,
-- c) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás, amely biztosítja az együttműködő szervek között elektronikus iktatókönyvben nyilvántartott irat vagy irategyüttes dokumentált átadását,
+- a)
+- b)
+- c)
 - d) központi kormányzati szolgáltatás busz, amelynek keretében
   - da) a szolgáltató az együttműködő szervek, valamint a szolgáltatáshoz önkéntesen csatlakozott egyéb szervezetek információs rendszereinek automatikus információátadási felületei csatlakoztatásával, ennek hiányában információátadási szolgáltatásként biztosítja az egymás közötti automatikus információátadás biztonságos feltételeit, valamint
   - db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbítási nyilvántartásai vonatkozásában az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
@@ -1572,7 +1567,7 @@ kell alkalmazni.
 
 (3) Ha a bizalmi szolgáltató a természetes személy tanúsítvány alany személyazonosságát személyes jelenlét alapján vagy azzal egyenértékű azonosítással kívánja ellenőrizni, az Nytv. hatálya alá tartozó természetes személyek esetében ezt az Nytv. szerinti személyazonosság igazolására alkalmas hatósági igazolvány alapján végzi el.
 
-(4) Ha a bizalmi szolgáltató az Nytv. hatálya alá nem tartozó természetes személy tanúsítvány alany esetén személyes jelenlét alapján vagy azzal egyenértékű azonosítással kívánja a személyazonosságot ellenőrizni, a bizalmi szolgáltató a személyazonosságot elsősorban a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, illetve a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti úti okmány alapján ellenőrzi.
+(4) Ha a bizalmi szolgáltató az Nytv. hatálya alá nem tartozó természetes személy tanúsítvány alany esetén személyes jelenlét alapján vagy azzal egyenértékű azonosítással kívánja a személyazonosságot ellenőrizni, a bizalmi szolgáltató a személyazonosságot elsősorban a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, illetve a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti úti okmány alapján ellenőrzi.
 
 (5) Ha a bizalmi szolgáltató a (4) bekezdés szerinti személyazonosság ellenőrzését Magyarország területén kívül végzi el személyes jelenlét alapján vagy azzal egyenértékű azonosítással, és a természetes személy tanúsítvány alany a (4) bekezdés szerinti jogszabályok szerinti úti okmánnyal nem rendelkezik, a bizalmi szolgáltató a személyazonosság ellenőrzését csak olyan, a hitelesítési rendben meghatározott megbízható okmányok vagy más iratok alapján végezheti el, amely esetén a bizalmi szolgáltató igazolni tudja a bizalmi felügyeletnek, hogy a hitelesítési rendben meghatározott megbízható okmány vagy más irat a személyazonosság megállapításában és ellenőrzésében a (4) bekezdésben foglaltakkal azonos fokú bizonyosságot ad.
 
@@ -1891,6 +1886,30 @@ kell biztosítani.
 - b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervnek kell biztosítani.
 
 (5) Ha a Kormány nem jelöl ki rendvédelmi informatikai központi szolgáltatót, a (3) és (4) bekezdésben foglalt feladatokat a Kormány az (1) és a (2) bekezdésben meghatározottak szerint biztosítja.
+
+## ÖTÖDIK/A RÉSZ — ELEKTRONIKUS OKIRAT A MAGÁNJOGI JOGVISZONYOKBAN
+
+104/B. § (1) Ha jogszabály eltérően nem rendelkezik, az elektronikus magánokirat olyan elektronikus dokumentum, amelyet a nyilatkozó fél legalább az 1. § 22. pontjában meghatározott aláírással és elektronikus időbélyegzővel lát el, vagy a Kormány rendeletében meghatározott azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással hitelesít. Az elektronikus magánokiratban megtett jognyilatkozat a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:7. § (2) és (3) bekezdése szerint is írásba foglaltnak minősül.
+
+(2) Ha jogszabály eltérően nem rendelkezik, az ingatlannal kapcsolatos, valamint az öröklési jogi, családjogi, társasági jogi jogviszonnyal összefüggésben a kizárólag szöveg formájában rögzített jognyilatkozatot tartalmazó elektronikus magánokirat minősül írásba foglaltnak.
+
+(3) Az (1) bekezdéstől eltérően elektronikus magánokiratnak minősül a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó szervezet (e rész alkalmazásában a továbbiakban: szervezet) által nyújtott szolgáltatás vonatkozásában jognyilatkozatot tartalmazó elektronikus dokumentum is, amelyet a szervezet által a Pmt. 77. § (3) bekezdés d) pontja szerinti felhatalmazás alapján kiadott rendeletben meghatározott auditált elektronikus hírközlő eszköz vagy elektronikus ügyfél-azonosító és nyilatkozattételi rendszer útján azonosított (e rész alkalmazásában a továbbiakban: elektronikus azonosítás) nyilatkozó fél az aláírás időpontjának azonosítására is alkalmas egyszerű elektronikus aláírással látott el.
+
+(4) A (3) bekezdés szerinti elektronikus magánokirat teljes bizonyító erejűnek minősül.
+
+(5) A (3) bekezdéstől eltérően a szervezet által nyújtott szolgáltatásra irányuló szerződés, valamint annak módosítása és megszüntetése esetén a kizárólag szöveg formájában rögzített jognyilatkozatot tartalmazó elektronikus magánokirat minősül írásba foglaltnak.
+
+(6) E § alkalmazásában elektronikus dokumentumnak minősül az elektronikus formában, különösen szöveg, hang-, képi vagy audiovizuális felvétel formájában tárolt jognyilatkozat.
+
+104/C. § (1) Bírósági vagy hatósági eljárás esetén a 104/B. § (3) bekezdése szerinti elektronikus magánokiratot a szervezet köteles a bíróság, illetve a hatóság és a jognyilatkozattal érintett peres felek rendelkezésére bocsátani.
+
+(2) Az (1) bekezdésben foglaltak elmulasztása esetén a szervezettel szerződő félnek (a továbbiakban: fél) elektronikus magánokiratba foglalt jognyilatkozatra vonatkozóan tett tényállítása valóságát vélelmezni kell.
+
+(3) A jognyilatkozat akkor foglalható a 104/B. § (3) bekezdése szerinti elektronikus magánokiratba, ha a technológia alkalmazásához a fél az elektronikus aláírás előtt kifejezetten hozzájárult.
+
+(4) Az elektronikus azonosítást követően tett jognyilatkozat esetén a szervezet köteles a teljes kommunikációt és a továbbított adattartalmat rögzíteni és a fél kérésére a rendelkezésére bocsátani.
+
+(5) Ha a fél fogyasztó, a szervezet köteles az elektronikus azonosítást követően megkötött szerződés egy példányát a fél rendelkezésére bocsátani.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

@@ -2,45 +2,51 @@
 
 a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről
 
-E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és hatáskörbe, a helyi önkormányzat szervei államigazgatási feladat- és hatáskörébe, továbbá a köztársasági megbízott, valamint a centrális alárendeltségű állami szerv feladat- és hatáskörébe tartozó ügyeket;— törvényi szinten szabályozza az önkormányzati feladat- és hatáskört megállapító alacsonyabb szintű jogszabályi rendelkezéseket, törvénnyel új feladatokat és hatásköröket állapítson meg;— elvégezze az indokolt anyagi és eljárásjogi, valamint szervezetirányítási korszerűsítéseket.
+E törvény célja, hogy
+
+— megállapítsa a helyi önkormányzati feladat- és hatáskörbe, a helyi önkormányzat szervei államigazgatási feladat- és hatáskörébe, továbbá a köztársasági megbízott, valamint a centrális alárendeltségű állami szerv feladat- és hatáskörébe tartozó ügyeket;
+
+— törvényi szinten szabályozza az önkormányzati feladat- és hatáskört megállapító alacsonyabb szintű jogszabályi rendelkezéseket, törvénnyel új feladatokat és hatásköröket állapítson meg;
+
+— elvégezze az indokolt anyagi és eljárásjogi, valamint szervezetirányítási korszerűsítéseket.
 
 #### I.
 
 ### BELÜGYI IGAZGATÁS
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
 ### Tűz elleni védekezés és polgári védelem
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
 17. § (1)
 
@@ -50,49 +56,49 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 18. § A köztemetők létesítésével,bővítésével, fenntartásával, bezárásával, megszüntetésével, kiürítésével, újrahasználatba vételével, halotthamvasztó létesítésével kapcsolatos feladatok ellátásáról a települési, a fővárosban a fővárosi önkormányzat gondoskodik.
 
-19. §
+#### 19. §
 
 20. § A települési folyékony hulladék leeresztő helyének kijelölésével, valamint a közcélú ártalmatlanító telep létesítésével kapcsolatos feladatokat a települési, a fővárosban a fővárosi önkormányzat képviselőtestülete látja el, külön jogszabály rendelkezésének megfelelően.
 
 21. § A közterület tisztántartásával és a lomtalanítási akciókkal kapcsolatos feladatok ellátásáról a települési, a fővárosban a fővárosi önkormányzat képviselőtestülete gondoskodik, külön jogszabály rendelkezéseinek megfelelően.
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
 #### II.
 
 ### FÖLDMŰVELÉSÜGYI IGAZGATÁS
 
-38. §
+#### 38. §
 
 39. § (1) A települési önkormányzat képviselőtestülete hatáskörébe tartozik:
 
@@ -101,59 +107,59 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 (2) A helyi önkormányzat képviselőtestülete hatáskörébe tartozik a települési, vármegyei, fővárosi térképészeti határkiigazítás véleményezése, valamint a jogszabályban meghatározott körben a földrajzi nevek megállapítása, megváltoztatása.
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
 #### III.
 
-43. §
+#### 43. §
 
 #### IV.
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
 #### V.
 
@@ -175,43 +181,45 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 68. § A külön jogszabályban meghatározott jegyző ellátja az üzletek működésével, nyitva tartásával és tevékenységének ellenőrzésével, valamint a telepengedélyezéssel és a telep létesítésének bejelentésével kapcsolatos elsőfokú hatósági feladatokat. A feladat- és hatáskört és a feladatellátás feltételeit a Kormány rendeletben állapítja meg.
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
 #### VI.
 
-### KÖRNYEZETVÉDELMIÉS TERÜLETFEJLESZTÉSI IGAZGATÁS
+### KÖRNYEZETVÉDELMI
 
-74. §
+ÉS TERÜLETFEJLESZTÉSI IGAZGATÁS
 
-75. §
+#### 74. §
 
-76. §
+#### 75. §
 
-77. §
+#### 76. §
 
-78. §
+#### 77. §
 
-79. §
+#### 78. §
 
-80. §
+#### 79. §
 
-81. §
+#### 80. §
 
-82. §
+#### 81. §
 
-83. §
+#### 82. §
+
+#### 83. §
 
 ### Környezet- és természetvédelem
 
-84. §
+#### 84. §
 
 85. § (1) A települési önkormányzat képviselőtestületének feladat- és hatáskörébe tartozik:
 
@@ -233,17 +241,17 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 ### KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS VÍZÜGYI IGAZGATÁS
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
 ### Közlekedés
 
@@ -267,43 +275,43 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 (10)
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
 #### VIII.
 
 ### MŰVELŐDÉSI ÉS KÖZOKTATÁSI IGAZGATÁS
 
-96. §
+#### 96. §
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
 ### Közművelődési, közgyűjteményi, művészeti tevékenység, testnevelés és sport
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
 109. § (1) Művészeti alkotás közterületen, valamint önkormányzati tulajdonú épületen való elhelyezéséről, áthelyezéséről, lebontásáról a település önkormányzatának képviselőtestülete, Budapesten fővárosi tulajdonú közterület vagy épület esetében a fővárosi önkormányzat közgyűlése, a kerületi önkormányzat tulajdonában álló közterület vagy épület esetében a kerületi önkormányzat képviselőtestülete dönt, és gondoskodik fenntartásáról és felújításáról.
 
@@ -311,23 +319,23 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 (3) Nem önkormányzati tulajdonú épületen lévő művészeti alkotásokat az illetékes önkormányzat képviselőtestülete — szakvélemény kikérésével — védeni köteles, új elhelyezés esetén véleményezési joga van.
 
-110. §
+#### 110. §
 
 111. § (1) A közművelődési, közgyűjteményi és művészeti tevékenységekkel, kapcsolatos helyi irányítási, ellenőrzési feladatokat a képviselőtestület, illetőleg a közgyűlés látja el.
 
 (2) A képviselőtestület, illetőleg a közgyűlés az önkormányzati közművelődési, közgyűjteményi, művészeti, egyéb szervezetek tekintetében a fenntartással és működtetéssel kapcsolatos feladatokat lát el.
 
-112. §
+#### 112. §
 
 113. § A fenntartó és a fővárosi közgyűlés jóváhagyja a vármegyei, fővárosi múzeumi szervezet éves munkatervét és költségvetési előirányzatát.
 
-114. §
+#### 114. §
 
 115. § A helyi önkormányzat egyetértési jogot gyakorol a megszűnt múzeuma anyagának elhelyezésére szolgáló más közgyűjtemény kijelölésével kapcsolatban.
 
 116. § A helyi önkormányzat képviselőtestülete, közgyűlése jóváhagyja az önkormányzati levéltár munkatervét, illetőleg beszámolóját.
 
-117. §
+#### 117. §
 
 118. § A helyi önkormányzat a külön jogszabályban meghatározottak szerint véleményezési jogot gyakorol az önkormányzati levéltári anyag végleges átadásával kapcsolatban, illetve egyetértési jogot gyakorol a megszűnő önkormányzati levéltár anyagának elhelyezésével kapcsolatban.
 
@@ -341,19 +349,19 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 - b) a művészeti intézmények, továbbá a lakosság művészeti kezdeményezéseinek, önszerveződéseinek támogatása, a művészi alkotó munka feltételeinek javítása és a művészeti értékek létrehozásának, megőrzésének segítése;
 - c)
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
-125. §
+#### 125. §
 
-126. §
+#### 126. §
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
 #### IX.
 
@@ -361,11 +369,11 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 ### Az önkormányzatok kötelező egészségügyi, szociális alap- és többletfeladatai
 
-129. §
+#### 129. §
 
-130. §
+#### 130. §
 
-131. §
+#### 131. §
 
 132. § (1) A helyi önkormányzat a tulajdonában lévő , gyermek- és ifjúságvédelmi intézmények és szolgálatok, ellátási területe és az ellátási kötelezettségének terjedelme — ha az önkormányzatok eltérően nem állapodtak meg — azonos az Ötv. hatálybalépésekor fennállott ellátási területével és ellátási kötelezettségének terjedelmével.
 
@@ -383,7 +391,7 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 - d)
 - e)
 
-134. §
+#### 134. §
 
 135. § A települési képviselőtestület szociális, egészségügyi, valamint gyermek- és ifjúságvédelmi feladatai:
 
@@ -407,9 +415,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 - s)
 - t)
 
-136. §
+#### 136. §
 
-137. §
+#### 137. §
 
 #### X.
 
@@ -437,14 +445,14 @@ PÉNZÜGYIGAZGATÁS
 
 (2) A képviselőtestület adóügyi feladata és hatásköre:
 
-- a) megállapítja — a jogszabály keretei között — közművesítési fokonként a telekadó tételeket;
-- b) mellőzheti a telekadó tételek megállapítását a nem fejlődő települések (településrészek) esetében;
-- c) megállapítja a magánszemélyek földadójának tételeit az országos adótételek alsó és felső határa között;
-- d) a magánszemélyek földadójának tételeit az átlagosnál kedvezőbb gazdasági adottságok esetén az országos adótételek felső határánál legfeljebb 30%-kal magasabb mértékben határozza meg;
+- a)
+- b)
+- c)
+- d)
 - e) elemi kár mértékének megállapítására kárbecslő bizottságot hoz létre;
-- f) meghatározza a házadóban az alapadót növelő és csökkentő tényezőket, valamint az övezeti besorolást;
-- g) megállapítja a nem lakás céljára szolgáló építmények adójában az övezeti besorolást, valamint az alapadót növelő és csökkentő körülményeket.
-- h) megállapítja — a gépjárműadóról szóló törvény keretei között — a belföldi gépjárműadó tételeit.
+- f)
+- g) megállapítja a nem lakás céljára szolgáló építmények adójában az övezeti besorolást.
+- h)
 
 (3) A települési önkormányzat képviselőtestülete:
 
@@ -509,13 +517,13 @@ PÉNZÜGYIGAZGATÁS
 
 (3) A (2) bekezdésben meghatározott adóügyi feladatok ellátásához szükséges első fokú hatósági jogkörben a település jegyzője jár el.
 
-141. §
+#### 141. §
 
-142. §
+#### 142. §
 
-143. §
+#### 143. §
 
-144. §
+#### 144. §
 
 ### VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 

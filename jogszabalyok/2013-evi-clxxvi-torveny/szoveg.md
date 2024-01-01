@@ -155,7 +155,7 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 18. § (1) A szétválás során készített átalakulási terv (a továbbiakban: szétválási terv) része a szétválási szerződés is. A szétválási szerződés tervezetét a döntéshozó szerv döntései alapján a vezető tisztségviselők készítik el. Ebben az átalakulásnál előírt elemeken túl meg kell határozni:
 
 - a) a szétváló jogi személy típusát – gazdasági társaság esetén formáját –, nevét, székhelyét és nyilvántartási számát és a létrejövő jogi személyek típusát – gazdasági társaság esetén formáját –, nevét és székhelyét;
-- b) a szétválás módját (különválás, kiválás);
+- b) a szétválás módját (különválás, kiválás, leválás);
 - c) a vagyonmegosztási javaslatot, vagyis a vagyon felosztását a szétváló jogi személy tagjai között, valamint ehhez kapcsolódóan a szétváló jogi személyt megillető jogok és kötelezettségek megosztására irányuló javaslatot; továbbá a jogelőd vagyonának a jogutódok közti megosztása tervezett arányát;
 - d) az egyes jogosítványok, illetve kötelezettségek, valamint a folyamatban lévő peres és nemperes ügyek és hatósági eljárások tekintetében a jogutód nevesítését;
 - e) kiválás esetében a fennmaradó (továbbműködő) jogi személy létesítő okiratában szükséges módosítások tervezetét, valamint a kiválással létrejövő jogi személy(ek) létesítő okiratának tervezetét;
@@ -171,15 +171,31 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (5) Ha a szétválási szerződést a szétváló jogi személy döntéshozó szerve elfogadja, a jogutód új jogi személy létesítő okiratát és a továbbműködő jogi személy létesítő okirata módosítását a döntéshozó szerv felhatalmazása alapján a szétváló jogi személy vezető tisztségviselője írja alá.
 
+18/A. § (1) Leválásnál a szétváló jogi személy valamennyi tagja – amennyiben a leválás végrehajtása esetére tagsági viszonyát nem szünteti meg – a továbbműködő (fennmaradó) jogi személy tagja marad. A fennmaradó jogi személy jegyzett tőkéjének meghatározása során a leválással keletkező jogi személyben lévő részesedését nem lehet figyelembe venni.
+
+(2) A leválásra a kiválás szabályai irányadóak a (3)–(8) bekezdésben foglalt eltérésekkel.
+
+(3) Leválás esetén nem kerül sor annak felmérésére, hogy a jogelőd tagjai melyik jogutód tagjaivá kívánnak válni.
+
+(4) A leválással egyidejűleg belépő új tag csak a továbbműködő (fennmaradó) jogi személyhez csatlakozhat.
+
+(5) A jogutód jogi személyben részt venni nem kívánó tag alatt azon tag értendő, aki a leválás esetére a továbbműködő (fennmaradó) jogi személyben tagsági viszonyát megszünteti.
+
+(6) Az 5. § (2) bekezdése szerinti nyilatkozat elmaradását úgy kell tekinteni, hogy a tag a továbbműködő (fennmaradó) jogi személy tagja kíván maradni.
+
+(7) A 6. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy csak azon tagot megillető vagyonhányadot és ennek kiadási módját kell meghatározni, amely tag a leválás esetére tagsági viszonyát megszünteti.
+
+(8) A 17. § (2) bekezdése leválás esetén nem alkalmazható.
+
 19. § (1) A szétválási szerződés, illetve a jogutód jogi személyek létesítő okiratának aláírásától számított nyolc napon belül a szétváló jogi személy köteles a Cégközlönyben közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni.
 
 (2) A szétválásról szóló közleményben az átalakulásnál előírt elemeken túl meg kell jelölni:
 
-- a) a szétválás módját (különválás, kiválás), külön feltüntetve, ha a szétválás beolvadásos kiválással vagy beolvadásos különválással történik;
+- a) a szétválás módját (különválás, kiválás, leválás), külön feltüntetve, ha a szétválás beolvadásos kiválással vagy beolvadásos különválással történik;
 - b) a szétváló jogi személyt megillető jogok és terhelő kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezéseit, különösen a vagyonmegosztás arányát;
 - c) azt, hogy a hirdetményi határidő alatt hol kaphatnak tájékoztatást a hitelezők a követelésüket érintő vagyonmegosztási rendelkezésekről.
 
-20. § (1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
+20. § (1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból. Leválás esetén a jogelőd továbbműködő jogi személyt, amelyből a leválással keletkező jogi személy kiválik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
 
 (2) Ha a szétválás bejegyzése során a jogelőd jogi személy nyilvántartásból való törlésére nem kerül sor, a 6. § (6) bekezdése és a 11. § (1a)–(1c) bekezdése alkalmazásában a jogelőd jogi személy törlésének hatálya alatt a szétválási kérelemben a jogelőd továbbműködő jogi személy törölni kért nyilvántartási adata törlésének hatályát kell érteni.
 
@@ -206,6 +222,8 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 #### 6. A nyilvánosan működő részvénytársaság egyesülésére vonatkozó különös szabályok
 
 23. § A nyilvánosan működő részvénytársaságok (ezen alcímben a továbbiakban: részvénytársaság) egyesülésére az ezen alcímben foglalt eltérésekkel a jogi személyek egyesülésének közös szabályait kell alkalmazni.
+
+23/A. § A részvénytársaság a Ptk. 3:40. §-ában foglaltakon túl nem határozhat el, illetve nem folytathat le egyesülést, ha a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény, vagy a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet szerinti szanálási eszközök, hatáskörök és mechanizmusok hatálya alatt áll.
 
 24. § (1) Részvénytársaságok egyesülése esetén az egyesülési szerződésben – a 14. § (1) bekezdésében foglaltakon túl – meg kell határozni:
 
@@ -274,13 +292,21 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 - a) az átvevő társaság a 25. § (1) bekezdése szerinti tájékoztatási kötelezettségének legalább az egyesülés napját megelőző harminc nappal, a 24. § (2) bekezdése szerinti tájékoztatási kötelezettségének legalább az előző tájékoztatási kötelezettséget megelőző harminc nappal – esetlegesen a 25. § (3) és (4) bekezdésében foglaltak alkalmazásával – eleget tett, és
 - b) a Ptk. 3:103. §-a szerinti kisebbségi jog gyakorlására lehetőség van és közgyűlési döntéshozatalt nem kezdeményeztek.
 
-#### 7.
+#### 7. Nyilvánosan működő részvénytársaságok leválására vonatkozó különös szabályok
 
-#### 30. §
+30. § Nyilvánosan működő részvénytársaság leválása esetén a jogi személyek szétválásának szabályai a leválásra vonatkozó eltérő rendelkezésekkel, valamint – a részvények cserearányával kapcsolatos rendelkezések kivételével – a nyilvánosan működő részvénytársaság egyesülésére vonatkozó szabályok az ezen alcímben foglalt eltérésekkel megfelelően alkalmazandók.
 
-#### 31. §
+31. § (1) A szétválási szerződésben – a 18. § (1) bekezdésében és a 24. § (1) bekezdés c)–f) pontjában foglaltakon túl – meg kell határozni a szétváló társaság vagyonának felosztását a jogutód társaságok között, a szétválással a jogutód társaságok tulajdonába kerülő vagyon leírásával.
 
-#### 32. §
+(2) A 24. § (2) bekezdése szerinti írásbeli beszámolóban az ügyvezetésnek tájékoztatást kell nyújtania az esetleges nem pénzbeli vagyoni hozzájárulásról is, valamint meg kell jelölnie, hogy az erről szóló könyvvizsgálói jelentést, valamint az írásbeli beszámolót melyik cégbírósághoz nyújtja be.
+
+(3) A 24. § (6) bekezdése szerinti döntés kiterjedhet az ügyvezetés írásbeli beszámolójának megismerésére való lehetőség mellőzésére is.
+
+(4) A szétválási szerződés érvénytelenségének megállapítása esetén a szétválással létrejött társaság a jogutód nélküli megszűnésére vonatkozó helytállási szabályok szerint felel a szétválás bejegyzését, illetve a 6. § (6) bekezdése szerinti időpontot követően, de a szétválási szerződés érvénytelenségét megállapító határozat közzétételének napját megelőzően keletkezett kötelezettségeiért.
+
+(5) A 24. § (4) bekezdése, a 28. § és a 29. § nem alkalmazandó.
+
+32. § A továbbműködő (fennmaradó) nyilvánosan működő részvénytársaság és a leválással létrejövő jogi személy a nyilvánosan működő részvénytársaságnak a leválás előtt keletkezett kötelezettségeiért egyetemlegesen köteles helytállni. A jogutódok egymás közötti viszonyában az elszámolás alapja a vagyonmegosztás aránya. A 10. § (2)–(5) bekezdése nem alkalmazandó.
 
 #### 8. Szövetkezetekre vonatkozó különös szabályok
 

@@ -105,6 +105,8 @@ elektronikus úton köteles benyújtani az akkreditáló szervhez.
 
 (4) Az akkreditált szervezet vagy akkreditált természetes személy az első felügyeleti vizsgálati eljárás iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.
 
+(4a) Amennyiben a felügyeleti vizsgálat esedékessége és az akkreditált státusz lejáratának ideje 6 hónapon belül van, a felügyeleti vizsgálatot – ha az akkreditált státusz megújítását az akkreditált szervezet a (7) bekezdés szerinti értesítés kézhezvételétől számított 30 napon belül kérelmezi – az akkreditált státusz megújítására irányuló eljárás keretében kell lefolytatni.
+
 (5) Az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet az akkreditált státusz megadásától számított egy éven belül, azt követően legfeljebb évente nyújtja be a felügyeleti vizsgálat iránti kérelmet.
 
 (6) A felügyeleti vizsgálati eljárás értékelési és döntéshozatali szakaszból áll. Az értékelési szakasz ügyintézési határideje hatvanöt nap. A döntéshozatali szakasz ügyintézési határideje tizenöt nap.

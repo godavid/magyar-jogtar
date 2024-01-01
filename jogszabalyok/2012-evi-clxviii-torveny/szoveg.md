@@ -8,8 +8,8 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 
 1. § E törvény alkalmazásában:
 
-- 1. közművezeték: a fogyasztók vízellátási, szennyvízelvezetési és belterületi csapadékvíz-elvezetési, földgáz-, hő- és villamosenergia-ellátási, valamint hírközlési időszakos és folyamatos igényeinek kiszolgálását lehetővé tevő vezeték (a továbbiakban: vezeték) közterületen, továbbá annak felszíne alatt vagy felett elhelyezett része, valamint a vezetéknek a közterületnek nem minősülő földrészleten, továbbá annak felszíne alatt vagy felett elhelyezett része, ide nem értve a közterületen vagy közterületnek nem minősülő földrészleten elhelyezett olyan vezetéket, amely kizárólag az adott helyrajzi számon nyilvántartott földrészlet használatára jogosultnak a földrészlet használatával összefüggő fogyasztói igényei kiszolgálását teszi lehetővé;
-- 2. hírközlési vezeték: a fogyasztók hang-, kép-, adat- és más információ-továbbítási időszakos és folyamatos igényeinek kiszolgálását lehetővé tevő vezeték;
+- 1. közművezeték: a fogyasztók vízellátási, szennyvízelvezetési és belterületi csapadékvíz-elvezetési, földgáz-, hő- és villamosenergia-ellátási időszakos és folyamatos igényeinek kiszolgálását lehetővé tevő vezeték (a továbbiakban: vezeték) közterületen, továbbá annak felszíne alatt vagy felett elhelyezett része, valamint a vezetéknek a közterületnek nem minősülő földrészleten, továbbá annak felszíne alatt vagy felett elhelyezett része, ide nem értve a közterületen vagy közterületnek nem minősülő földrészleten elhelyezett olyan vezetéket, amely kizárólag az adott helyrajzi számon nyilvántartott földrészlet használatára jogosultnak a földrészlet használatával összefüggő fogyasztói igényei kiszolgálását teszi lehetővé;
+- 2.
 - 3. közterület: közhasználatra szolgáló minden olyan, az állam vagy a helyi önkormányzat tulajdonában álló földterület, amelyet az ingatlan-nyilvántartás közterületként tart nyilván;
 - 4. üzemeltető: a közművezeték működésének fenntartásáért felelős személy vagy szervezet.
 
@@ -78,20 +78,13 @@ Az Országgyűlés az arányos közteherviselés elvére figyelemmel a következ
 
 7. § Mentes az adó alól az állam és a helyi önkormányzat.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. § A hírközlési vezetékkel rendelkező adóalanynak a hírközlési vezeték utáni adó alapjának
+#### 10. §
 
-- a) 200 000 métert meg nem haladó része után az egyébként fizetendő adó 0%-át,
-- b) 200 000 métert meghaladó, de 350 000 métert meg nem haladó része után az egyébként fizetendő adó 30%-át,
-- c) 350 000 métert meghaladó, de 500 000 métert meg nem haladó része után az egyébként fizetendő adó 75%-át,
-- d) 500 000 métert meghaladó része után a fizetendő adó teljes összegét
-
-kell megfizetni.
-
-11. § Ha a meglévő hírközlési vezetékhálózaton olyan hálózatfejlesztést hajtanak végre, amely a hálózat előfizetői szakaszán lehetővé teszi a legalább 100 Mbps sebességű adatkapcsolati hozzáférést, akkor a vezetékhálózat hálózatfejlesztéssel érintett szakaszának használatbavételét követő öt évben az adó alapja a hálózatfejlesztéssel érintett szakasz méterben kifejezett hosszával csökkenthető.
+#### 11. §
 
 #### 8. Eljárási rendelkezések
 
@@ -109,9 +102,4 @@ kell megfizetni.
 
 13. § E törvény 2013. január 1-jén lép hatályba.
 
-14. § E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított
-
-- a) 3. § (1) bekezdését annak hatálybalépését követően használatba vett közművezetékre,
-- b) 11. §-át annak hatálybalépését követően hálózatfejlesztéssel érintett hírközlési vezetékszakaszra
-
-kell alkalmazni.
+#### 14. §

@@ -1047,7 +1047,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 (3) E törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-át és 1. számú mellékletét kell alkalmazni azon klinikai vizsgálatok esetében, amelyek engedélyezése iránt a kérelmet a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőzően nyújtották be, azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével ezen vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.
 
-32/D. § A 7. § (4) bekezdésétől eltérően a 7. § (1)–(3) bekezdése alapján kiadott engedély érvényességi idejét a gyógyszerészeti államigazgatási szerv a gyártó kérelmére a 7. § (1)–(3) bekezdésében fennálló feltételek fennállása alatt, különös méltánylást érdemlő betegellátási érdekből, kérelmenként legfeljebb 2023. december 31-éig meghosszabbíthatja. A 7. § (1)–(3) bekezdésében foglalt feltételek fennállásának értékelése során a gyógyszerészeti államigazgatási szerv azt is vizsgálja, hogy a vizsgálati gyógyszer vagy gyógyszer hozzáférhetővé tétele és alkalmazása e törvény szerinti más jogalapon biztosítható-e. Ha a vizsgálati gyógyszer vagy gyógyszer hozzáférhetővé tétele e törvény szerinti más jogalapon is biztosítható, a gyógyszerészeti államigazgatási szerv a 7. § (1)–(3) bekezdése alapján kiadott engedélyt hivatalból visszavonja.
+#### 32/D. §
 
 33. § Ez a törvény
 

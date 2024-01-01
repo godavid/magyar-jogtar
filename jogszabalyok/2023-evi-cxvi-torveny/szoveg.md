@@ -37,7 +37,7 @@ egyes ingatlan-nyilvántartási, földmérési és térképészeti tárgyú tör
 - a)
 - b)
 - c)
-- d)
+- d) 6. § (3) bekezdés e) pontja,
 - e)
 - f)
 - g)

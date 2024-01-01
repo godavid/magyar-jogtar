@@ -24,7 +24,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) A 16–16/C. §-t a Magyarországon élő harmadik országbeli állampolgárokra és a szabad mozgás és tartózkodás jogával rendelkező személyekre – törvény eltérő rendelkezése hiányában – alkalmazni kell.
 
-(3) E törvény rendelkezéseit a Magyarországon élő hontalanokra, bevándoroltakra, valamint letelepedett személyekre – törvény eltérő rendelkezése hiányában – alkalmazni kell.
+(3) E törvény rendelkezéseit a Magyarországon élő hontalanokra és huzamos tartózkodási jogosultsággal rendelkező személyekre – törvény eltérő rendelkezése hiányában – alkalmazni kell.
 
 (4) E törvény rendelkezéseit a magyar menekültügyi hatóság által menekültként, menedékesként, valamint oltalmazottként elismert személyekre – törvény eltérő rendelkezése hiányában – alkalmazni kell.
 
@@ -244,7 +244,7 @@ hajtja végre.
 
 16/A. § (1) A külföldre utazási korlátozással kapcsolatos adatokat a 16. § (1) bekezdés a)–f) pontjában meghatározott kényszerintézkedéssel, büntetéssel, intézkedéssel vagy egyéb korlátozással érintett személy (a továbbiakban: érintett személy) esetében a bűnügyi nyilvántartási rendszer külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kell nyilvántartani.
 
-(2) A külföldre utazási korlátozás tényét azon érintett személyek esetében, akik – a bevándorolt, letelepedett, menekült, oltalmazott, menedékes és hontalan úti okmánya kivételével – magyar hatóság által kiállított érvényes úti okmánnyal rendelkeznek, az útiokmány-nyilvántartásban kell nyilvántartani.
+(2) A külföldre utazási korlátozás tényét azon érintett személyek esetében, akik – a huzamos tartózkodási jogosultsággal rendelkező, menekült, oltalmazott, menedékes és hontalan úti okmánya kivételével – magyar hatóság által kiállított érvényes úti okmánnyal rendelkeznek, az útiokmány-nyilvántartásban kell nyilvántartani.
 
 (3) A 16. § (1) bekezdés a)–f) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás miatt a bűnügyi nyilvántartásba bejegyzett, illetve törölt külföldre utazási korlátozásról a bűnügyi nyilvántartó szerv automatikus adattovábbítás útján értesíti az útlevélhatóságot, amely az útiokmány-nyilvántartásba történő bejegyzést vagy az abból törlést automatikus úton elvégzi.
 
@@ -252,7 +252,7 @@ hajtja végre.
 
 16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
 
-(2) Ha az érintett személy bevándorolt vagy letelepedett jogállású, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+(2) Ha az érintett személy huzamos tartózkodási jogosultsággal rendelkezik, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
 (3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 

@@ -96,7 +96,11 @@ igazságügyi tárgyú törvények módosításáról
 
 39. § (1)
 
-(2)
+(2) A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 71. §-a a következő (3b) és (3c) bekezdéssel egészül ki:
+
+„(3b) Ha a jogi segítségnyújtó szolgálat a jogi segítőt a 71. § (3) bekezdésben foglalt okból törli a névjegyzékből, a jogi segítőt a szerződés felmondásától számított további három évig nem lehet ismételten felvenni a névjegyzékbe.
+
+(3c) Az a jogi segítő, akinek a szolgáltatási szerződése a 71. § (3) bekezdés szerint felmondásra került, a felmondástól számított három évig nem köthet jogi segítő szervezettel jogi szolgáltatásra irányuló megbízási szerződést.”
 
 #### 40. §
 
@@ -128,7 +132,7 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 51. §
 
-#### 52. §
+52. § Hatályát veszti a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 50/A. §-a.
 
 #### 12. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
@@ -186,13 +190,22 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 75. §
 
-#### 17.
+#### 17. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
-#### 76. §
+76. § Az ügyészségről szóló 2011. évi CLXIII. törvény 22. §-a a következő (5) bekezdéssel egészül ki:
 
-#### 77. §
+„(5) A törvénysértésnek nem minősülő hiányosságra és az olyan törvénysértésre, amely miatt felhívásnak vagy rendelkezésnek nincs helye, az ügyész jelzésben hívja fel az illetékes szerv vezetőjének a figyelmét. Ha az ügyész ezt kéri, az illetékes szerv vezetője a jelzéssel kapcsolatos álláspontjáról az ügyészt harminc napon belül értesíti.”
 
-#### 78. §
+77. § Az ügyészségről szóló 2011. évi CLXIII. törvény 24. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1) bekezdés a) pontja szerinti panasz elbírálása mellőzhető, ha azt az abban sérelmezett döntés, intézkedés vagy mulasztás bekövetkezésétől számítottan egy éven túl nyújtják be. Az elbírálás mellőzéséről és annak okáról a panaszost tájékoztatni kell.”
+
+78. § Az ügyészségről szóló 2011. évi CLXIII. törvény
+
+- a) 22. § (2) bekezdésében a „fogva tartás” szövegrész helyébe a „fogvatartás” szöveg,
+- b) 24. § (2) bekezdésében az „Amennyiben” szövegrész helyébe a „Ha” szöveg
+
+lép.
 
 #### 18. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
@@ -200,7 +213,7 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 80. §
 
-#### 81. §
+81. § Hatályát veszti a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 37. § (5) és (6) bekezdése.
 
 #### 19. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 

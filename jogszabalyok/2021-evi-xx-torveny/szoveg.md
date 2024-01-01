@@ -26,6 +26,14 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (4) Ha az Alapítvány a tulajdonába adott részvényeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
+(5) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az 1. mellékletben foglalt táblázat 3. sorában meghatározott állami tulajdonban álló részesedéseket (a továbbiakban: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(6) Az (5) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki az üzletrészek felett e törvény erejénél fogva gyakorolja a tulajdonosi jogokat.
+
+(7) Ha az Alapítvány a tulajdonába adott üzletrészeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
+
+(8) Az államot az üzletrészek elidegenítése esetében elővásárlási jog illeti meg.
+
 3. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanokat, valamint ingatlanok tulajdoni hányadát (ezen alcím alkalmazásában a továbbiakban együtt: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Alapítvánnyal.
@@ -78,7 +86,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 - b) nem érinti az e § szerinti időpontban hatályban lévő határozott idejű áthelyezést, valamint
 - c) nem érinti a jogviszony időtartamát, valamint a munkaidő mértékét.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (1a), (1b), (4), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2), (4), (5), (7) és (8) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (1a), (1b), (4), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 9. §
 
@@ -90,6 +98,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 | --- | --- | --- |
 | 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
 | 2. | Richter Gedeon Vegyészeti Gyár Nyilvánosan Működő Részvénytársaság | 9 777 658 db „C” sorozatú részvény (HU0000123096h) |
+| 3. | Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság | törzstőke 100%-át megtestesítő üzletrész |
 
 ### 2. melléklet a 2021. évi XX. törvényhez
 

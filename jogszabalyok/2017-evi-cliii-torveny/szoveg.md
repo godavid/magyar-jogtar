@@ -388,14 +388,14 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 (5) Az adóhatóság a nyilvántartásból a következő adatokat ellenőrizheti:
 
 - a) természetes személyazonosító adatok,
-- b) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett, oltalmazott vagy a szabad mozgás és tartózkodás jogával rendelkező állampolgár jogállás,
+- b) állampolgárság, hontalanság, huzamos tartózkodási jogosultság, menekült, oltalmazott vagy a szabad mozgás és tartózkodás jogával rendelkező állampolgár jogállás,
 - c) lakcím,
 - d) arcképmás,
 - e) aláírás, és
 - f) az igazolvány, valamint a személyazonosítóról és a lakcímről szóló hatósági igazolvány okmányazonosítója és az okmányazonosító alapján nyilvántartott következő tények:
   - fa) a külföldre utazásról szóló 1998. évi XII. törvény 24. § (1) bekezdés f) pontja szerinti tények és az okmány érvényességi ideje,
   - fb) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pont ba)–bb) alpontja szerinti tények, és
-  - fc) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. § (1) bekezdés g) pontja, 96. § (1) bekezdés g) pontja, továbbá 100. § (1) bekezdés b) és c) pontja szerinti tények.
+  - fc) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. § (1) bekezdés b) és c) pontja szerinti tények.
 
 (6) Az adóhatóság az ügyvédi tevékenység gyakorlásához való jogosultságot az ügyvédi kamarai nyilvántartásban ellenőrizheti.
 
@@ -669,17 +669,17 @@ kell értékesíteni.
 - b) megkeresésre folyó végrehajtás esetén a behajtást kérőnek, illetve a behajtást kérő hatóságnak továbbá
 - c) az árverés helye szerinti községi, városi, fővárosi kerületi jegyzőnek, ha a végrehajtást az önkormányzati adóhatóság folytatja le.
 
-63. § (1) Az árverési hirdetményt ki kell függeszteni:
+63. § (1) Az árverési hirdetményt közzé kell tenni:
 
-- a) az árverést lefolytató állami adó- és vámhatóság hirdetőtábláján,
-- b) a megkereső állami adó- és vámhatóság hirdetőtábláján, míg önkormányzati adóhatóság eljárása esetén a helyi önkormányzat polgármesteri hivatalának hirdetőtábláján, valamint
-- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján, ha a végrehajtást az önkormányzati adóhatóság folytatja le.
+- a) az árverést lefolytató állami adó- és vámhatóság hivatalos internetes honlapján,
+- b) a megkereső állami adó- és vámhatóság hivatalos internetes honlapján, míg önkormányzati adóhatóság eljárása esetén a helyi önkormányzat polgármesteri hivatalának hivatalos internetes honlapján, valamint
+- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hivatalos internetes honlapján, ha a végrehajtást az önkormányzati adóhatóság folytatja le.
 
-(2) Az állami adó- és vámhatóság által folytatott végrehajtás esetén az árverési hirdetményt az állami adó- és vámhatóság hivatalos internetes honlapján is közzéteszi. Az önkormányzati adóhatóság által folytatott végrehajtás esetén az árverési hirdetményt a helyi önkormányzat polgármesteri hivatalának hivatalos honlapján közzé kell tenni, ha azzal a helyi önkormányzat rendelkezik.
+(2) Az állami adó- és vámhatóság által folytatott végrehajtás esetén az árverési hirdetményt az állami adó- és vámhatóság hivatalos internetes honlapján közzéteszi. Az önkormányzati adóhatóság által folytatott végrehajtás esetén az árverési hirdetményt a helyi önkormányzat polgármesteri hivatalának hivatalos honlapján közzé kell tenni.
 
 (3) Az adóhatóság bármelyik fél kérelmére az árverést egyéb megfelelő módon is közzéteszi, feltéve, hogy az azt kezdeményező fél annak költségeit megelőlegezi.
 
-(4) Az árverés közhírré tételéhez fűződő jogkövetkezmény a (2) bekezdés szerinti közzétételhez, illetve ha a végrehajtást az önkormányzati adóhatóság foganatosítja, annak a helyi önkormányzat polgármesteri hivatalának a hirdetőtábláján való közzétételhez kapcsolódik, amelynek illetékességi területén az árverést lefolytatják.
+(4) Az árverés közhírré tételéhez fűződő jogkövetkezmény a (2) bekezdés szerinti közzétételhez, illetve ha a végrehajtást az önkormányzati adóhatóság foganatosítja, annak a helyi önkormányzat polgármesteri hivatalának a hivatalos internetes honlapján való közzétételhez kapcsolódik, amelynek illetékességi területén az árverést lefolytatják.
 
 64. § (1) Az árverező személyesen vagy képviselője útján árverezhet.
 
@@ -790,17 +790,17 @@ kell értékesíteni.
 - b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek, valamint
 - c) az ingatlanügyi hatóságnak, amely az árverés kitűzésének tényét feljegyzi az ingatlan-nyilvántartásba.
 
-75. § (1) Az árverési hirdetményt ki kell függeszteni
+75. § (1) Az árverési hirdetményt közzé kell tenni
 
-- a) az illetékes állami adó- és vámhatóság, továbbá az ingatlan fekvése szerint illetékes adó- és vámhatóság, vagy a helyi önkormányzat polgármesteri hivatalának hirdetőtábláján, ha a végrehajtást az önkormányzati adóhatóság folytatja le,
-- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján, valamint
-- c) az ingatlanügyi hatóság hirdetőtábláján.
+- a) az illetékes állami adó- és vámhatóság, továbbá az ingatlan fekvése szerint illetékes adó- és vámhatóság, vagy a helyi önkormányzat polgármesteri hivatalának hivatalos internetes honlapján, ha a végrehajtást az önkormányzati adóhatóság folytatja le,
+- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hivatalos internetes honlapján, valamint
+- c) az ingatlanügyi hatóság hivatalos internetes honlapján.
 
 (2) A végrehajtó bármelyik fél kérelmére az árverést egyéb megfelelő módon is közzéteszi, feltéve, hogy az azt kezdeményező fél annak költségeit megelőlegezi.
 
-(3) Az állami adó- és vámhatóság által folytatott végrehajtás esetén az árverési hirdetményt az adó- és vámhatóság hivatalos internetes honlapján is közzéteszi. Az önkormányzati adóhatóság által folytatott végrehajtás esetén az árverési hirdetményt a helyi önkormányzat polgármesteri hivatalának hivatalos honlapján közzé kell tenni, ha azzal a helyi önkormányzat rendelkezik.
+(3) Az állami adó- és vámhatóság által folytatott végrehajtás esetén az árverési hirdetményt az adó- és vámhatóság hivatalos internetes honlapján közzéteszi. Az önkormányzati adóhatóság által folytatott végrehajtás esetén az árverési hirdetményt a helyi önkormányzat polgármesteri hivatalának hivatalos honlapján közzé kell tenni.
 
-(4) Az árverés közzétételéhez fűződő jogkövetkezmény az árverezésre kerülő ingatlan fekvése szerint illetékes állami adó- és vámhatóság, vagy a helyi önkormányzat polgármesteri hivatalának hirdetőtábláján való közzétételhez kapcsolódik.
+(4) Az árverés közzétételéhez fűződő jogkövetkezmény az árverezésre kerülő ingatlan fekvése szerint illetékes állami adó- és vámhatóság, vagy a helyi önkormányzat polgármesteri hivatalának hivatalos internetes honlapján való közzétételhez kapcsolódik.
 
 76. § Az árverezők személyére vonatkozóan a 64. § (2) bekezdés a)–d) pontjának és (3) bekezdésének rendelkezéseit ingatlanárverés esetén is megfelelően alkalmazni kell.
 
@@ -1204,9 +1204,9 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 123. § (1) Ha a 122. § (6) bekezdése szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság jogszabályban kijelölt központi beszerző szerv bevonásával jár el, vagy a közbeszerzésekről szóló törvény szabályai alapján választja ki az eljárásban közreműködő szervezetet.
 
-(2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezeteket – az elvégzendő feladatot tartalmazó műszaki leírás megküldése mellett – elektronikusan értesíti a feladatról, és ajánlattételre hívja fel azokat.
+(2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, az adott földrajzi területre vagy országosan regisztrált, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezeteket – az elvégzendő feladatot tartalmazó műszaki leírás megküldése mellett – elektronikusan értesíti a feladatról, és ajánlattételre hívja fel azokat. Az ajánlattételre nyitva álló határidőt az adóhatóság állapítja meg, a felhívás keltétől számított 5, legfeljebb 60 nap közötti időtartamban.
 
-(3) Az ajánlattételre felhívott közreműködő szervezet 30 napon belül tehet ajánlatot a műszaki leírásban szereplő feladat elvégzésére. E határidő jogvesztő. Amennyiben a határidőn belül nem érkezik érvényes ajánlat, úgy a közreműködő szervezet kiválasztására e § (11) bekezdésében foglaltak szerint kerül sor.
+(3) Az ajánlattételre felhívott közreműködő szervezet az adóhatóság által meghatározott határidőn belül tehet ajánlatot a műszaki leírásban szereplő feladat elvégzésére. E határidő jogvesztő. Amennyiben a határidőn belül nem érkezik érvényes ajánlat, úgy a közreműködő szervezet kiválasztására a (11) bekezdésben foglaltak szerint kerül sor.
 
 (4) Az ajánlatnak tartalmaznia kell a közreműködés díját, amely minden járulékos költséget is magában foglal. Az ajánlatban fel kell tüntetni a közreműködés módját, helyét és időpontját.
 
@@ -1218,11 +1218,18 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (8) A közreműködő szervezetek névjegyzékéből az adóhatóság törli azt a szervezetet, amely a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette. Az ilyen okból a névjegyzékből törlésre került szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
 
+(8a) A közreműködő szervezetet az állami adó- és vámhatóság akkor is törli a névjegyzékből, ha a
+
+- a) nem természetes személy közreműködő szervezet jogutód nélkül megszűnt, vagy a természetes személy közreműködő szervezet elhunyt, vagy
+- b) közreműködő szervezet a névjegyzékből való törlését maga kérte.
+
 (9) A legmegfelelőbb ajánlatot tevő szervezet végzésben meghatározott közreműködésének módját a végrehajtást foganatosító adóhatóság felügyeli az eljárás során.
 
 (10) Az (1) és (5) bekezdésben foglaltak szerint kiválasztott közreműködő szervezet végzi el a meghatározott cselekményt az adott cselekményre vonatkozó jogszabályok és szakmai előírások betartásával, ideértve az esetleg szükséges engedélyek beszerzését vagy bejelentések megtételét is.
 
 (11) Ha a közreműködő szervezetek névjegyzékében nem található a meghatározott cselekmény elvégzéséhez szükséges szakértelemmel rendelkező közreműködő szervezet, az állami adó- és vámhatóság bírósági vagy hatósági nyilvántartásból hív fel ajánlattételre legalább három olyan gazdálkodó szervezetet, amely a meghatározott cselekmény elvégzésére alkalmas. Az állami adó- és vámhatóság az adós számára a legkisebb költség felszámításával járó gazdálkodó szervezetet rendelheti ki.
+
+(12) A közreműködő szervezetet kirendelő végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.
 
 123/A. § (1) Ha a meghatározott cselekményt az állami adó- és vámhatóság felhívására a kötelezett önkéntesen teljesíti és a döntésben foglaltaknak megfelelő teljesítés megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, az állami adó- és vámhatóság a teljesítés ellenőrzésébe bevonhatja a behajtást kérő hatóságot. A behajtást kérő hatóság az állami adó- és vámhatóság felhívásától számított 15 napon belül nyilatkozik arról, hogy a teljesítés megfelel-e a meghatározott cselekményt előíró döntésben foglaltaknak. Ha a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, az adós önkéntes teljesítését a behajtást kérő hatóság által elfogadottnak kell tekinteni.
 
@@ -1429,7 +1436,7 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 126. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályait.
 
-(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a meghatározott cselekmények végrehajtása kapcsán közreműködő szervezetek, valamint a romlandó dolgok értékesítése kapcsán közreműködő kereskedők névjegyzékére, az ajánlatok tartalmára és a kiválasztásra vonatkozó részletes szabályokat.
+(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a meghatározott cselekmények végrehajtása kapcsán közreműködő szervezetek, valamint a romlandó dolgok értékesítése kapcsán közreműködő kereskedők névjegyzékére, az ajánlat kérésre, az ajánlatok tartalmára, valamint a kiválasztásra vonatkozó részletes szabályokat.
 
 #### 59. Hatálybalépés
 
@@ -1510,6 +1517,8 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 (5) E törvénynek a Módtv.7. által megállapított 124. § (4) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
 
 (6) E törvénynek a Módtv.7. által megállapított 124/A. §-t a folyamatban lévő eljárásokban is alkalmazni kell.
+
+(7) E törvénynek a Módtv.7. által megállapított 123. § (12) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
 
 #### 61. A törvény hivatalos rövid megjelölése
 

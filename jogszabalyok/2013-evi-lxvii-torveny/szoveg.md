@@ -28,15 +28,15 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 10. használati díj: a használati díjköteles útszakasz használatáért a használati jogosultság időtartamára – a Kormány által rendeletben meghatározott díjkategóriába tartozó gépjárművek által – fizetendő, általános forgalmi adót is magában foglaló díj;
 - 11. infrastruktúra díj: az útdíjnak az útdíjköteles elemi útszakaszok építése, fenntartása, üzemeltetése és fejlesztése tekintetében felmerülő költségek megtérülése érdekében megállapított díjeleme;
 - 12. járműnyilvántartás: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás;
-- 13. külsőköltség-díj: az útdíjnak a közúti közlekedéssel összefüggő levegőszennyezéssel, illetve zajártalommal kapcsolatban felmerült költségek megtérülése érdekében fizetendő eleme;
+- 13. külsőköltségdíj: az útdíjnak a közúti közlekedésnek tulajdonítható levegőszennyezéssel, zajártalommal, és szén-dioxid-kibocsátással összefüggésben a felmerülő költségek megtérülése érdekében megállapított díjeleme;
 - 14. súlyozott átlagos infrastruktúra díj: egy adott díjkategória vonatkozásában az infrastruktúra díjból egy adott időszakban befolyó teljes bevétel és az ezen időszakban az útdíjköteles elemi útszakaszokon megtett járműkilométerek számának hányadosa;
 - 15. szerződött díjfizető: aki az útdíjköteles elemi útszakasz használata érdekében, szerződésben vállalta egy vagy több útdíjköteles gépjárműre vonatkozó útdíj megfizetését;
 - 16. tanúsító szerv: az elektronikus díjszedési rendszer átjárhatósági rendszerelemeinek alkalmasságát tanúsító, a 12. alcímben meghatározott feladatokat ellátó szerv;
 - 17. UD rendszer: az útdíj bevallását, kivetését, beszedését, az útdíj megfizetése és az útdíjköteles elemi útszakaszok jogszerű használata ellenőrzésének támogatását lehetővé tévő elektronikus rendszer;
-- 18. útdíj: az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, a megtett úttal arányos úthasználat alapján az útdíjszedő által kivetett díj; a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg nem minősül útdíjnak;
+- 18. útdíj: valamely járműre a megtett távolság és a jármű típusa alapján az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, az útdíjszedő által kivetett díj, amelynek megfizetése jogosultságot biztosít a jármű számára az útdíjköteles elemi útszakasz használatához, és amely magába foglalja az infrastruktúradíjat és a külsőköltségdíjat. A szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg nem minősül útdíjnak;
 - 19. díjfizetésre kötelezett: elsősorban a szerződött díjfizető, ennek hiányában a gépjármű üzembentartója, illetve az úthasználó, tekintet nélkül állampolgárságára és az általa vezetett vagy üzemben tartott, illetve tulajdonát képező gépjárművet nyilvántartásba vevő országra;
 - 20. útdíjköteles elemi útszakasz: az útdíjfizetés ellenében használható közúthálózatnak a díjmeghatározás szempontjából két útszelvényében lehatárolt része;
-- 21. útdíjköteles gépjármű: a 3,5 tonnánál nagyobb megengedett legnagyobb össztömegű tehergépkocsi, vontató – ideértve a nyerges vontatót is –, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból álló járműszerelvény;
+- 21. útdíjköteles gépjármű: a nehéz tehergépjármű és a lakóautó, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
 - 22. útdíjszedés: az útdíj beszedésére irányuló cselekmények összessége;
 - 23. útdíjszedő: az UD rendszer működtetésére, és ennek használatával a fizetendő útdíj összegének megállapítására, kivetésére és az útdíjszogáltatókon keresztül történő beszedésére jogosult, kijelölt szervezet;
 - 24. útdíjszolgáltató: nyilvántartásbavételének helyétől függetlenül olyan gazdálkodó szervezet, amely Magyarország területén az úthasználók számára hozzáférést tesz lehetővé az UD rendszerhez;
@@ -44,8 +44,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 26. úthasználó: az úthasználat során gépjárművet vezető személy;
 - 27.
 - 28. üzemben tartó: a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartási szerv nyilvántartása szerint az úthasználat időpontjában nyilvántartott – nem tulajdonos üzemben tartója, ennek hiányában a gépjármű tulajdonosa, vagy a telephely szerinti ország hatósága által kibocsátott okiratba bejegyzett üzemben tartója, ennek hiányában a gépjármű tulajdonosa;
-- 29. viszonteladó: az útdíjszolgáltató által az útdíjszedési feladatainak teljesítéséhez bevont, szerződött közreműködő;
-- 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság;
+- 29.
+- 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, az UD rendszerbe történő regisztráció nélkül, előre megváltott úthasználati jogosultság;
 - 31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.
 - 32. egyenleg: úthasználati jogosultság keletkezése érdekében, a fizetendő útdíj-követelés kiegyenlítése céljából a szerződött díjfizető által megfizetett, az egyetemes útdíjszolgáltató által nyilvántartott és rendelkezésre tartott, forintban kifejezett pénzösszeg, a szolgáltatás ellenértéke, amelynek terhére a szerződött díjfizető útdíjfizetési kötelezettségének eleget tehet.
 - 33. átjárhatósági rendszerelem: olyan, az EETS-be beépített vagy beépítésre szánt alapvető összetevő, összetevőcsoport, berendezés-részegység vagy teljes berendezés, amelytől a szolgáltatás átjárhatósága függ, ideértve az anyagi és a szellemi javakat – például szoftvert – is;
@@ -57,6 +57,46 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 39. útdíjbevallás: az útdíjszedőnek tett bejelentés, amely az útdíjszolgáltató és az útdíjszedő között megállapodott formátumban igazolja egy adott gépjármű jelenlétét egy EETS-területen;
 - 40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
 - 41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
+- 42. nehézgépjármű: olyan gépjármű, amelynek műszakilag megengedett legnagyobb össztömege meghaladja a 3,5 tonnát;
+- 43. nehéz tehergépjármű: árufuvarozásra szánt nehézgépjármű, ideértve a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti vontatót és nyerges vontatót is, ha e törvény alkalmazásában nehézgépjárműnek minősül;
+- 44. autóbusz: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti autóbusz, ha e törvény alkalmazásában nehézgépjárműnek minősül;
+- 45. pótkocsi: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti pótkocsi;
+- 46. félpótkocsi: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti félpótkocsi;
+- 47. járműszerelvény: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti járműszerelvény;
+- 48. lakóautó: szálláshelyet magában foglaló nehézgépjármű, amely a következőket tartalmazza: ülések és asztal, különálló vagy az ülésekből átalakítható alvóhely, főzőalkalmatosság és tárolóhely;
+- 49. transzeurópai közúthálózat: az 1315/2013/EU európai parlamenti és tanácsi rendelet II. fejezet 3. szakaszában meghatározott közúti közlekedési infrastruktúra, az említett rendelet I. mellékletében szereplő térképeken ábrázoltak szerint;
+- 50. transzeurópai közlekedési törzshálózat: az 1315/2013/EU rendelet III. fejezetével összhangban meghatározott közlekedési infrastruktúra;
+- 51. építési költségek: az építkezéshez kapcsolódó költségek, beleértve az új infrastruktúra vagy új infrastrukturális fejlesztések (a jelentős strukturális javításokat is beleértve), a 2013. július 1. előtt legfeljebb 30 évvel befejezett infrastruktúra vagy infrastrukturális fejlesztések (a jelentős strukturális javításokat is beleértve), valamint a 30 évet meghaladó tervezési élettartamú, 1983. július 1. előtt befejezett infrastruktúra vagy infrastrukturális fejlesztések finanszírozási költségeit is. Az építési költségek figyelembe veendő aránya nem haladhatja meg az infrastruktúra alkotórészei tervezési élettartamának fennálló idejéből – a 2013. július 1-én – még hátralévő rész arányát. Az infrastruktúra vagy az infrastrukturális fejlesztés költségei magukban foglalhatnak bármely egyedi, a zajártalom csökkentésére, innovatív technológiák bevezetésére vagy a közúti közlekedésbiztonság javítására irányuló kiadást és az infrastruktúra üzemeltetője által teljesített olyan tényleges kifizetéseket, amelyek objektív környezeti elemekhez kapcsolódnak, így például a talajszennyezés elleni védekezést szolgálják;
+- 52. finanszírozási költségek: kölcsönök kamata és a részvényesek általi bármely tőkefinanszírozás hozama;
+- 53. jelentős strukturális javítások: strukturális javítások, azon javítások kivételével, amelyek már nem járnak előnyökkel a közúthasználók számára, különösen ha a javítási munkálatok helyett további útfelszínjavító vagy egyéb építési munkálatokat végeznek;
+- 54. autópálya: olyan közút, amelyet kifejezetten a gépjármű-közlekedés céljára terveztek és építettek, nem szolgálja ki az út menti ingatlanokat, és eleget tesz a következő kritériumoknak:
+  - a) egyes pontokat vagy ideiglenes eseteket kivéve mindkét forgalmi irányban elkülönített úttesttel rendelkezik, amelyeket a közlekedés céljára nem szolgáló sáv, vagy kivételes esetben más eszköz választ el egymástól,
+  - b) szintben nem keresztez közutat, vasúti vagy villamosvágányt, kerékpárutat vagy gyalogutat, és
+  - c) kifejezetten autópályaként van megjelölve;
+- 55. a közlekedésnek tulajdonítható levegőszennyezés költsége: valamely jármű üzemeltetése során a lebegő részecskék, valamint az ózonprekurzorok, így például a NOX és az illékony szerves vegyületek levegőbe történő kibocsátásával okozott emberi egészségkárosodás és környezeti kár költsége;
+- 56. a közlekedésnek tulajdonítható zajártalom költsége: a járművek által kibocsátott vagy a járművek és az útfelület kölcsönhatása következtében keletkező zajjal okozott emberi egészségkárosodás és környezeti kár költsége;
+- 57. a közlekedésnek tulajdonítható szén-dioxid-kibocsátás költsége: a jármű üzemeltetése során történő széndioxid-kibocsátással okozott kár költsége;
+- 58. könnyűgépjármű: olyan jármű, amelynek műszakilag megengedett legnagyobb össztömege legfeljebb 3,5 tonna;
+- 59. személygépkocsi: olyan könnyűgépjármű, amelyben – a vezető ülését is beleértve – legfeljebb 9 állandó ülőhely van;
+- 60. könnyű haszongépjármű: áruszállításra szánt könnyűgépjármű;
+- 61. nehézgépjármű szén-dioxid-kibocsátása: a nehézgépjárműnek az (EU) 2017/2400 bizottsági rendelet IV. melléklete II. részében meghatározott ügyfél-információs dokumentuma 2.3. pontjában megadott fajlagos CO2-kibocsátása;
+- 62. kibocsátásmentes jármű:
+  - a) az (EU) 2019/1242 európai parlamenti és tanácsi rendelet 3. cikkének 11. pontjában meghatározott „kibocsátásmentes nehézgépjármű”; vagy
+  - b) bármely, belső égésű motor nélküli személygépkocsi vagy könnyű haszongépjármű;
+- 63. alacsony kibocsátású nehézgépjármű:
+  - a) az (EU) 2019/1242 rendelet 3. cikkének 12. pontjában meghatározott „alacsony kibocsátású nehézgépjármű”, vagy
+  - b) a kibocsátásmentes járműtől eltérő, az említett rendelet 2. cikk (1) bekezdés a)–d) pontjának hatálya alá nem tartozó olyan nehézgépjármű, amelynek a szén-dioxid-kibocsátása alacsonyabb, mint a járműcsoportja széndioxid-referenciakibocsátásának az 50%-a;
+- 64. nehézgépjármű-típus: az a kategória, amelybe a nehézgépjármű a tengelyszáma, mérete, illetve tömege vagy bármely más, útkárosodásra vonatkozó járműosztályozási tényező alapján tartozik, feltéve, hogy az alkalmazott osztályozási rendszer olyan járműjellemzőkön alapul, amelyek vagy szerepelnek a járműdokumentációban, vagy pedig láthatóak;
+- 65. járműalcsoport: az (EU) 2019/1242 rendelet 3. cikkének 8. pontjában meghatározott járműalcsoport;
+- 66. járműcsoport: az (EU) 2017/2400 rendelet I. mellékletének 1. táblázatában felsorolt járműcsoportok egyike;
+- 67. Y év beszámolási időszaka: az (EU) 2019/1242 rendelet 3. cikkének 3. pontjában meghatározott Y év beszámolási időszaka;
+- 68. kibocsátáscsökkentési pályagörbe: az Y év beszámolási időszaka és az adott járműalcsoport (sg) tekintetében, azaz ETYsg: az éves szén-dioxid-kibocsátáscsökkentési tényező (R-ETY) és a járműalcsoport (sg) szén-dioxid referenciakibocsátásának (rCO2sg) szorzata, azaz ETYsg = R-ETY x rCO2sg; az Y≤ 2030 évek tekintetében mind az R-ETY-t, mind az x rCO2sg-t az (EU) 2019/1242 rendelet I. mellékletének 5.1. pontjával összhangban határozzák meg: az Y> 2030 évek tekintetében az R-ETY értéke 0,70; az rCO2sg-nak az (EU) 2019/1242 rendelet 11. cikkének (2) bekezdésével összhangban elfogadott, felhatalmazáson alapuló jogi aktusokkal kiigazított értéke alkalmazandó az említett, felhatalmazáson alapuló jogi aktusok alkalmazásának vonatkozó kezdőnapjait követően megkezdődő beszámolási időszakokra;
+- 69. járműcsoport szén-dioxid referenciakibocsátása:
+  - a) az (EU) 2019/1242 rendelet hatálya alá tartozó járművek tekintetében az említett rendelet I. mellékletének 3. pontjában szereplő képlettel összhangban kiszámított összeg,
+  - b) az (EU) 2019/1242 rendelet hatálya alá nem tartozó járművek tekintetében az adott járműcsoportba tartozó járművek összes szén-dioxid-kibocsátásának átlagos értéke, amelyet az (EU) 2018/956 európai parlamenti és tanácsi rendeletnek megfelelően jelentenek be az első beszámolási időszak vonatkozásában, amely időszak azon dátum után indul, amikor az (EU) 2017/2400 rendelet 24. cikkével összhangban megtiltják az adott járműcsoportba tartozó olyan járművek nyilvántartásba vételét, értékesítését vagy forgalomba helyezését, amelyek nem teljesítik az (EU) 2017/2400 rendelet 9. cikkében említett kötelezettségeket;
+- 70. koncessziós szerződés: a 2014/23/EU európai parlamenti és tanácsi irányelv 5. cikk 1. pont a) alpontjában meghatározott építési koncesszió vagy a b) alpontjában meghatározott szolgáltatási koncesszió;
+- 71. külvárosi utak: azok az útdíjköteles elemi útszakaszok, amelyek 150 és 900 fő/km2 népsűrűség (300 fő/km2 medián népsűrűség) közötti területeken fekszenek;
+- 72. településeket összekötő utak: azok az útdíjköteles elemi útszakaszok, amelyek 150 fő/km2-nél alacsonyabb népsűrűségű területeken fekszenek;
 - 73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
@@ -77,23 +117,41 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 (7) Amennyiben a közúti forgalomban történő ellenőrzés során az úthasználó személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért az úthasználó felelős.
 
-#### 4. Az útdíj mértékének meghatározásával kapcsolatos alapelvek
+(8) Az UD rendszer használata nem járhat az útdíjköteles elemi útszakaszokat nem rendszeresen használók számára indokolatlan hátránnyal.
 
-4. § (1) Az útdíj meghatározása során irányadó díjkategóriák kialakításakor tekintettel kell lenni a gépjárművek motorjának környezetvédelmi besorolására is, előnyben részesítve a környezetkímélő gépjárművek úthasználatát.
+#### 4. Az útdíj mértékének meghatározásával összefüggő alapelvek
 
-(2) Az útdíj részét képezi az infrastruktúra díj és – a Kormány által rendeletben meghatározottak szerint – részét képezheti a külsőköltség díj. Az infrastruktúra díjtételeket kifejezetten az érintett infrastruktúra-hálózat építési, üzemeltetési, fenntartási és bővítési költségeire alapozva kell megállapítani. A súlyozott átlagos infrastruktúradíj-tételek tartalmazhatják a piaci feltételekre alapozott tőkehozamot vagy haszonkulcsot is.
+4. § (1) Az útdíj mértékét úgy kell meghatározni, hogy az sem közvetett, sem pedig közvetlen módon ne eredményezzen megkülönböztetést
 
-(3) Az infrastruktúra díj mértékének meghatározásakor a forgalomszabályozási szempontok alapján alkalmazni lehet napszaktól, naptípustól, illetve évszaktól függő időszaki szorzókat is egy adott útszakasz vonatkozásában, de az infrastruktúra díj differenciálása egyetlen díjtétel esetében sem haladhatja meg 175%-nál nagyobb mértékben a súlyozott átlagos infrastruktúra díj legmagasabb összegét. Azon csúcsidőszakok időtartama, amelyek alatt a forgalmi torlódások csökkentése érdekében magasabb infrastruktúra díjat alkalmaznak, naponta nem haladhatja meg az öt órát.
+- a) az úthasználó, a szerződött díjfizető, vagy az útdíjköteles gépjármű üzembentartójának állampolgársága, vagy honossága,
+- b) az útdíjköteles jármű nyilvántartásba vételének helye, vagy
+- c) a közlekedési művelet kiindulási pontja vagy rendeltetési helye
 
-(4) Az útdíj tartalmazhatja az adott útszakaszokon a közlekedésnek tulajdonítható levegőszennyezés által okozott károk és költségek, valamint – ha az érintett terület lakossága zajártalomnak van kitéve – a közlekedésnek tulajdonítható zajártalom által okozott károk, költségek számszerűsítése alapján meghatározott költségátalányt is (külsőköltség-díj).
+alapján.
 
-5. § (1) Az elmaradott régiók felzárkóztatása érdekében az útdíjak megállapításakor lehetőség van a területi alapú megkülönböztetésre.
+(2) Az útdíj infrastruktúradíjból és külsőköltségdíjból áll.
 
-(2) Az útdíj mértékének meghatározása során tilos indokolatlan közvetett vagy közvetlen megkülönböztetést alkalmazni, így különösen tilos a gépjárművek üzemben tartójának, az úthasználónak vagy a szerződött díjfizetőnek a honossága vagy letelepedési országa, továbbá a gépjárművek nyilvántartásba vételi helye, illetve a közlekedés kiindulási pontja vagy célállomása alapján történő megkülönböztetése.
+5. § (1) Az infrastruktúradíj összegét az infrastruktúra-költségek megtérülésének elve alapján kell megállapítani.
 
-(3) Az infrastruktúra díj tekintetében a rendszeres úthasználók számára legfeljebb 13% díjkedvezmény adható. A díjkedvezmény az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékben és feltételek alapján vehető igénybe.
+(2) A súlyozott átlagos infrastruktúradíjat a közlekedési infrastruktúra építési, valamint üzemeltetési, fenntartási és fejlesztési költségeihez kapcsolódóan kell megállapítani. A súlyozott átlagos infrastruktúradíj a piaci feltételeknek megfelelő tőkehozamot és haszonkulcsot is tartalmazhat.
 
-(4) A díjak megállapításakor figyelembevételre kerülő díjelemeket, a költségek számítási módszerét és az egyes gépjármű-kategóriákra való felosztását e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
+(3) A figyelembe vett költségeknek az infrastruktúradíjjal terhelt közlekedési hálózathoz vagy hálózatrészhez, és az útdíjköteles gépjárművekhez kell kapcsolódniuk. A költségeknek csak bizonyos – százalékos arányban meghatározott – része is megtéríttethető.
+
+(4) Az infrastruktúradíj tekintetében egy adott útdíjköteles útszakaszt rendszeresen használók számára kedvezmény vagy csökkentett díj alkalmazható, ha:
+
+- a) az így megállapított díjstruktúra arányos, nyilvános, mindenki számára azonos feltételekkel hozzáférhető, és nem eredményezi a többletköltségeknek más úthasználókra, szerződött díjfizetőkre, vagy üzembentartókra történő áthárítását,
+- b) tükrözi azt a tényleges megtakarítást az adminisztrációs költségek terén, amelyet az alkalmi úthasználókhoz képest a rendszeres úthasználók kezelése jelent, és
+- c) a kedvezmény vagy a díjcsökkentések mértéke nem haladja meg arra nem jogosult, azonos típusú útdíjköteles járművek által fizetendő infrastruktúradíj összegének 13%-át.
+
+5/A. § (1) A külsőköltségdíjat az útdíjköteles gépjárművek közlekedésének tulajdonítható levegőszennyezés, zajártalom, szén-dioxid-kibocsátás, illetve ezek bármilyen kombinációja által okozott költségekhez kapcsolódóan kell megállapítani. A költségeknek csak bizonyos – százalékos arányban meghatározott – része is megtéríttethető.
+
+(2) A levegőszennyezés és a zajártalom tekintetében kivetett külsőköltségdíjnak a díjjal terhelt közlekedési hálózathoz vagy hálózatrészhez, és az útdíjköteles gépjárművekhez kell kapcsolódniuk.
+
+(3) A legszigorúbb Euro kibocsátási előírásoknak eleget tevő útdíjköteles gépjárművekre a közlekedésnek tulajdonítható levegőszennyezéshez kapcsolódóan külsőköltségdíj nem vethető ki.
+
+(4) A külsőköltségdíj tekintetében kedvezmény vagy csökkentett díj alkalmazásának nincs helye.
+
+5/B. § Az infrastruktúradíj és a külsőköltségdíj megállapításkor figyelembevételre kerülő díjelemeket, a költségek számításának módszertanát, valamint az egyes gépjármű-kategóriákra történő felosztását az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
 
 #### 5. Az útdíj-fizetés lehetséges módjai
 
@@ -119,7 +177,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 feladatokat lát el.
 
-(7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti. Az egyetemes útdíjszolgáltató e szerződéskötési kötelezettségét viszonteladóin keresztül is teljesítheti. Az egyetemes útdíjszolgáltató a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet a viszonteladóknak.
+(7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti.
 
 (8) Az úthasználó bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét a bevallási közreműködőn keresztül teljesítse az útdíjszolgáltató felé. A bevallási közreműködő jogszabályban meghatározott feltételek teljesítése esetén végezheti e tevékenységét, és szerződést kell kötnie az útdíjszolgáltatóval kötelezettségei teljesítése érdekében. A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül az úthasználótól beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik az úthasználónak. Amennyiben a bevallási közreműködőt az egyetemes útdíjszolgáltató vonja be, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékű átalány-költségtérítést fizet.
 
@@ -137,11 +195,15 @@ feladatokat lát el.
 
 7. § (1) Viszonylati jegyet az egyetemes útdíjszolgáltatónál lehet váltani. A viszonylati jegy ellenértékét annak megváltásakor kell kiegyenlíteni.
 
+(1a) Az (1) bekezdéstől eltérően a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet hatálya alá tartozó útdíjköteles gépjárműre (a továbbiakban: túlsúlyos, illetve túlméretes útdíjköteles gépjármű) viszonylati jegyet a túlsúlyos, illetve túlméretes útdíjköteles gépjármű országos közutakon történő közlekedéséhez történő hozzájárulás megadására hatáskörrel rendelkező szerv (a továbbiakban: hozzájárulást megadó szerv) értékesítésében lehet megváltani. A hozzájárulást megadó szerv e tevékenysége után jutalékra vagy költségtérítésre nem jogosult, és a viszonylati jegy értékesítésével összefüggésben nem számíthat fel a díjfizetésre kötelezettnek indokolatlan költséget.
+
 (2) A viszonylati jegy formájában teljesített bevallást a viszonylati jegyet kibocsátó egyetemes útdíjszolgáltató a viszonylati jegy megváltását követően, azonban annak érvényességi idejét megelőzően továbbítja az útdíjszedőnek, a viszonylati jegynek megfelelő tartalommal.
 
 (3) Az útdíjszedő által kivetett útdíjat az útdíjszedő jogszabályban meghatározott esetekben téríti vissza.
 
 (4) Amennyiben egy útdíjköteles gépjárműben több fedélzeti eszköz működik, a szerződött díjfizető, ennek hiányában az úthasználó felelőssége, hogy a rá vonatkozó szerződések szerint megfelelő fedélzeti eszközt a szerződésében foglaltak szerint működtesse.
+
+(4a) Ha a szerződött díjfizető, ennek hiányában az úthasználó neki felróható okból egyidőben, ugyanazon útdíjköteles gépjármű vonatkozásában, ugyanazon útdíjköteles elemi útszakaszon az útdíjat többszörösen fizette meg, nem jogosult a szükségtelenül megfizetett útdíj visszatérítésére.
 
 (5) A szerződött díjfizető köteles az útdíjszolgáltatóval való szerződéskötés során, valamint a szerződés hatálya alatt az útdíjszolgáltatóval a valóságnak megfelelő adatokat közölni. Az adatszolgáltatás pontatlanságából, illetve a valótlan adatszolgáltatásból eredő kár a szerződött díjfizetőt terheli.
 
@@ -197,11 +259,11 @@ feladatokat lát el.
 - d) a 9. § (1) bekezdés e) és g) pontjában meghatározott járművek esetén a közlekedési igazgatási hatósághoz,
 - e) a 9. § (1) bekezdés f) és i) pontban meghatározott járművek esetén a katasztrófavédelmi hatósághoz
 
-tett előzetes bejelentés alapján, a mentességi nyilvántartásba történő bejegyzést követően illeti meg.
+tett előzetes bejelentés alapján, a mentességi nyilvántartásba bejegyzett időponttól illeti meg.
 
 #### 10/A. §
 
-#### 11. §
+11. § A mentességi nyilvántartásba történő bejegyzést követően megfizetett útdíj visszatérítésének nincs helye.
 
 #### 12. §
 
@@ -492,12 +554,12 @@ jogosult kezelni.
 
 - a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat, valamint a 6. § (2a) bekezdése szerinti útdíjköteles elemi útszakaszok körét, továbbá az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának különös szabályait;
 - b) rendeletben állapítsa meg a Kormány által megállapított egyes díjkategóriákba tartozó gépjárművek díjszedési környezetvédelmi besorolását;
-- c) rendeletben állapítsa meg az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúradíjat és a külsőköltség-díjat – alapmértékét,
+- c) rendeletben állapítsa meg az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – az útdíjköteles elemi útszakaszok használatáért fizetendő infrastruktúradíj, valamint a külsőköltségdíj mértékét,
 - d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 - e) rendeletben jelölje ki a tanúsító szervet,
 - f)
 
-(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a viszonteladók és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
 
 28/A. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy az úttestbe épített áthajtásos tömegmérő pontok működtetésének részletszabályait rendeletben határozza meg.
 
@@ -524,6 +586,8 @@ jogosult kezelni.
 - 3. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62 EK irányelv módosításáról szóló, 2006. május 17-i 2006/38/EK európai parlamenti és tanácsi irányelvnek,
 - 4. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62 EK irányelv módosításáról szóló, 2011. szeptember 27-i 2011/76/EU európai parlamenti és tanácsi irányelvnek
 - 5. az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
+- 6. a járművekre egyes közúti infrastruktúrák használatáért kivetett díjakról szóló 1999. június 17-i 1999/62/EK európai parlamenti és tanácsi irányelvnek, valamint
+- 7. az 1999/62/EK, az 1999/37/EK és az (EU) 2019/520 irányelvnek a gépjárművekre egyes infrastruktúrák használatáért kivetett díjak tekintetében való módosításáról szóló 2022. február 24-i (EU) 2022/362 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -535,6 +599,8 @@ való megfelelést szolgálja.
 - d) az európai elektronikus útdíjszedési szolgáltatást nyújtó szolgáltatók részletes kötelezettségeiről, az EETS területi nyilatkozatok minimális tartalmáról, az elektronikus kapcsolódási pontokról, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a 2009/750/EK határozat hatályon kívül helyezéséről szóló 2019. november 28-i (EU) 2020/204 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+32. § A 4. alcím tervezetének a járművekre egyes közúti infrastruktúrák használatáért kivetett díjakról szóló 1999. június 17-i 1999/62/EK európai parlamenti és tanácsi irányelv 7h. cikk (1) bekezdés a) pontja, és (3) bekezdése szerinti előzetes bejelentése megtörtént.
 
 #### 18. Módosító rendelkezések
 

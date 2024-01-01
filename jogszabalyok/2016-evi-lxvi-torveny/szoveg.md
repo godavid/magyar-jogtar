@@ -12,45 +12,51 @@ az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti A
 
 (4)
 
-2. §
+#### 2. §
 
-3–5. §
+#### 3. §
 
-6. §
+#### 4. §
 
-7. §
+#### 5. §
 
-8. §
+#### 6. §
 
-9–10. §
+#### 7. §
 
-11. §
+#### 8. §
 
-12. §
+#### 9. §
 
-13. §
+#### 10. §
 
-14. §
+#### 11. §
 
-15. §
+#### 12. §
 
-16. §
+#### 13. §
 
-17. §
+#### 14. §
 
-18. §
+#### 15. §
 
-19. §
+#### 16. §
 
-20. §
+#### 17. §
 
-21. §
+#### 18. §
 
-22. §
+#### 19. §
 
-23. §
+#### 20. §
 
-24. §
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
 
 25. § Az Szja tv.
 
@@ -61,21 +67,33 @@ az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti A
 
 szerint módosul.
 
-26. §
+#### 26. §
 
-- 1–7.
-- 8.
-- 9–10.
-- 11–14.
-- 15–19.
-- 20–23.
-- 24.
-- 25.
-- 26.
-- 27.
-- 28.
-- 29–30.
-- 31.
+1–7.
+
+8.
+
+9–10.
+
+11–14.
+
+15–19.
+
+20–23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29–30.
+
+31.
 
 27. § (1) Hatályát veszti az Szja tv.
 
@@ -102,13 +120,25 @@ szerint módosul.
 
 (6)
 
-29–34. §
+#### 29. §
 
-35. §
+#### 30. §
 
-36. §
+#### 31. §
 
-37–38. §
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
 
 #### 3. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
@@ -116,7 +146,7 @@ szerint módosul.
 
 (3)–(5)
 
-40. §
+#### 40. §
 
 41. § (1)–(2)
 
@@ -136,73 +166,105 @@ szerint módosul.
 
 (2)
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46–47. §
+#### 46. §
 
-48. §
+#### 47. §
 
-49–50. §
+#### 48. §
 
-51. §
+#### 49. §
 
-52–53. §
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
 
 54. § (1)–(2)
 
 (3)
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
+1.
 
-59. §
+2.
+
+3.
+
+4.
+
+5.
+
+#### 59. §
 
 #### 4. Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény módosítása
 
-60–62. §
+#### 60. §
+
+#### 61. §
+
+#### 62. §
 
 ### II. Fejezet — KÖZVETETT ADÓKAT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 5. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-63–65. §
+#### 63. §
 
-66. §
+#### 64. §
 
-67–69. §
+#### 65. §
 
-70–73. §
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
 
 74. § (1)
 
 (2)
 
-75. §
+#### 75. §
 
-- a)
-- b)
-- c)–e)
-- f)
+a)
 
-76. §
+b)
 
-- 1.
-- 2.
+c)–e)
+
+f)
+
+#### 76. §
+
+1.
+
+2.
 
 77. § Hatályát veszti
 
@@ -211,25 +273,41 @@ szerint módosul.
 
 #### 6. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
 
-78. §
+#### 78. §
 
-79–82. §
+#### 79. §
 
-83. §
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
 
 ### III. Fejezet — A HELYI ADÓZÁST ÉS A GÉPJÁRMŰVEK ADÓZÁSÁT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 7. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-84–89. §
+#### 84. §
 
-90. §
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
 
 91. § (1)–(2)
 
 (3)
 
-92. §
+#### 92. §
 
 93. § (1)
 
@@ -241,19 +319,23 @@ szerint módosul.
 
 #### 8. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-94–95. §
+#### 94. §
+
+#### 95. §
 
 96. § (1)
 
 (2)
 
-97. §
+#### 97. §
 
-98–99. §
+#### 98. §
 
-100. §
+#### 99. §
 
-101. §
+#### 100. §
+
+#### 101. §
 
 #### 9. Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvény egyes rendelkezései hatálybalépésének elmaradásáról
 
@@ -273,91 +355,143 @@ szerint módosul.
 
 (6)–(7)
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
 #### 11. A népegészségügyi termékadóról szóló 2011. évi CIII. törvény módosítása
 
-106–107. §
+#### 106. §
+
+#### 107. §
 
 #### 12. A reklámadóról szóló 2014. évi XXII. törvény módosítása
 
-108. §
+#### 108. §
 
 ### V. Fejezet — ILLETÉKEK
 
 #### 13. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-109–113. §
+#### 109. §
 
-114. §
+#### 110. §
 
-- 1.
-- 2–4.
+#### 111. §
 
-115–116. §
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+1.
+
+2–4.
+
+#### 115. §
+
+#### 116. §
 
 #### 14. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-117–122. §
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
+
+#### 122. §
 
 ### VI. Fejezet — A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIT MEGILLETŐ EGYES BEFIZETÉSEKET ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 15. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-123–124. §
+#### 123. §
 
-125. §
+#### 124. §
 
-126–129. §
+#### 125. §
 
-130. §
+#### 126. §
 
-131–132. §
+#### 127. §
 
-133–134. §
+#### 128. §
 
-135. §
+#### 129. §
 
-136. §
+#### 130. §
 
-- a)
-- b)
-- c)–e)
+#### 131. §
 
-137. §
+#### 132. §
 
-- 1.
-- 2–5.
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
+
+a)
+
+b)
+
+c)–e)
+
+#### 137. §
+
+1.
+
+2–5.
 
 #### 16. Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény módosítása
 
-138. §
+#### 138. §
 
 #### 17. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény módosítása
 
-139–141. §
+#### 139. §
 
-142. §
+#### 140. §
 
-143–145. §
+#### 141. §
 
-146. §
+#### 142. §
 
-147–149. §
+#### 143. §
 
-150. §
+#### 144. §
 
-151–152. §
+#### 145. §
+
+#### 146. §
+
+#### 147. §
+
+#### 148. §
+
+#### 149. §
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
 
 ### VII. Fejezet — ADÓIGAZGATÁST ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 18. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-153. §
+#### 153. §
 
-154. §
+#### 154. §
 
 155. § ”
 
@@ -365,33 +499,79 @@ szerint módosul.
 
 (2)
 
-157–160. §
+#### 157. §
 
-161. §
+#### 158. §
 
-162. §
+#### 159. §
 
-163. §
+#### 160. §
+
+#### 161. §
+
+#### 162. §
+
+#### 163. §
 
 164. § (1)
 
 (2)
 
-165–166. §
+#### 165. §
 
-167. §
+#### 166. §
 
-168–169. §
+#### 167. §
 
-170. §
+#### 168. §
 
-171–185. §
+#### 169. §
 
-186–187. §
+#### 170. §
 
-188–191. §
+#### 171. §
 
-192. §
+#### 172. §
+
+#### 173. §
+
+#### 174. §
+
+#### 175. §
+
+#### 176. §
+
+#### 177. §
+
+#### 178. §
+
+#### 179. §
+
+#### 180. §
+
+#### 181. §
+
+#### 182. §
+
+#### 183. §
+
+#### 184. §
+
+#### 185. §
+
+#### 186. §
+
+#### 187. §
+
+#### 188. §
+
+#### 189. §
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
 
 193. § (1)
 
@@ -399,32 +579,49 @@ szerint módosul.
 
 (3)
 
-194–195. §
+#### 194. §
 
-196. §
+#### 195. §
 
-197–198. §
+#### 196. §
+
+#### 197. §
+
+#### 198. §
 
 199. § (1)
 
 (2)
 
-200. §
+#### 200. §
 
-- 1.
-- 2–3.
-- 4–14.
-- 15–16.
-- 17–19.
-- 20.
-- 21–22.
-- 23.
-- 24.
-- 25–29.
-- 30.
-- 31.
-- 32.
-- 33–34.
+1.
+
+2–3.
+
+4–14.
+
+15–16.
+
+17–19.
+
+20.
+
+21–22.
+
+23.
+
+24.
+
+25–29.
+
+30.
+
+31.
+
+32.
+
+33–34.
 
 201. § (1)
 
@@ -436,9 +633,11 @@ szerint módosul.
 
 #### 19. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
 
-202. §
+#### 202. §
 
-#### 20. Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló2015. évi CLXXXVII. törvény módosítása
+#### 20. Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló
+
+2015. évi CLXXXVII. törvény módosítása
 
 203. § Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvény 5. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény 6/B. § (3) bekezdését megállapító rendelkezése az „A megbízható adózó által” szövegrész helyett az „A megbízható adózó – ide nem értve a nyilvánosan működő részvénytársaságot – által” szöveggel lép hatályba.
 
@@ -446,15 +645,55 @@ szerint módosul.
 
 #### 21. A számvitelről szóló 2000. évi C. törvény módosítása
 
-204–224. §
+#### 204. §
+
+#### 205. §
+
+#### 206. §
+
+#### 207. §
+
+#### 208. §
+
+#### 209. §
+
+#### 210. §
+
+#### 211. §
+
+#### 212. §
+
+#### 213. §
+
+#### 214. §
+
+#### 215. §
+
+#### 216. §
+
+#### 217. §
+
+#### 218. §
+
+#### 219. §
+
+#### 220. §
+
+#### 221. §
+
+#### 222. §
+
+#### 223. §
+
+#### 224. §
 
 #### 22. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-225. §
+#### 225. §
 
 #### 23. Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény módosítása
 
-226. §
+#### 226. §
 
 #### 24. A nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvény módosítása
 
@@ -466,23 +705,81 @@ szerint módosul.
 
 #### 25. A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény módosítása
 
-229–232. §
+#### 229. §
+
+#### 230. §
+
+#### 231. §
+
+#### 232. §
 
 #### 26. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-233. §
+#### 233. §
 
 ### IX. Fejezet
 
 #### 27. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-234–260. §
+#### 234. §
+
+#### 235. §
+
+#### 236. §
+
+#### 237. §
+
+#### 238. §
+
+#### 239. §
+
+#### 240. §
+
+#### 241. §
+
+#### 242. §
+
+#### 243. §
+
+#### 244. §
+
+#### 245. §
+
+#### 246. §
+
+#### 247. §
+
+#### 248. §
+
+#### 249. §
+
+#### 250. §
+
+#### 251. §
+
+#### 252. §
+
+#### 253. §
+
+#### 254. §
+
+#### 255. §
+
+#### 256. §
+
+#### 257. §
+
+#### 258. §
+
+#### 259. §
+
+#### 260. §
 
 ### X. Fejezet — TURIZMUSFEJLESZTÉSI HOZZÁJÁRULÁS
 
-261. § (1) Hozzájárulás-köteles az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) 3. számú melléklet II. részében foglalt táblázat 3. és 5. pontja szerinti szolgáltatás (a továbbiakban: hozzájárulás-köteles szolgáltatás) ellenérték fejében történő nyújtása.
+261. § (1) Hozzájárulás-köteles az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) 3. számú melléklet II. részében foglalt táblázat 3., 5. és 6. pontja szerinti szolgáltatás (a továbbiakban: hozzájárulás-köteles szolgáltatás) ellenérték fejében történő nyújtása.
 
-(1a) Nem hozzájárulás-köteles az Áfa törvény 3. számú melléklet II. részében foglalt táblázat 3. és 5. pontja szerinti szolgáltatásnak az Áfa törvény 15. §-a szerinti nyújtása.
+(1a) Nem hozzájárulás-köteles az Áfa törvény 3. számú melléklet II. részében foglalt táblázat 3., 5. és 6. pontja szerinti szolgáltatásnak az Áfa törvény 15. §-a szerinti nyújtása.
 
 (2) A hozzájárulás fizetésére kötelezett a hozzájárulás-köteles szolgáltatást nyújtó személy vagy szervezet.
 
@@ -570,11 +867,19 @@ az e célra rendszeresített elektronikus nyomtatványon, az állami adó- és v
 - 1.
 - 2.
 
-### 4–6. melléklet a 2016. évi LXVI. törvényhez
+### 4. melléklet a 2016. évi LXVI. törvényhez
+
+### 5. melléklet a 2016. évi LXVI. törvényhez
+
+### 6. melléklet a 2016. évi LXVI. törvényhez
 
 ### 7. melléklet a 2016. évi LXVI. törvényhez
 
-### 8–10. melléklet a 2016. évi LXVI. törvényhez
+### 8. melléklet a 2016. évi LXVI. törvényhez
+
+### 9. melléklet a 2016. évi LXVI. törvényhez
+
+### 10. melléklet a 2016. évi LXVI. törvényhez
 
 ### 11. melléklet a 2016. évi LXVI. törvényhez
 
@@ -582,6 +887,18 @@ az e célra rendszeresített elektronikus nyomtatványon, az állami adó- és v
 
 ### 13. melléklet a 2016. évi LXVI. törvényhez
 
-### 14–16. melléklet a 2016. évi LXVI. törvényhez
+### 14. melléklet a 2016. évi LXVI. törvényhez
 
-### 17–21. melléklet a 2016. évi LXVI. törvényhez
+### 15. melléklet a 2016. évi LXVI. törvényhez
+
+### 16. melléklet a 2016. évi LXVI. törvényhez
+
+### 17. melléklet a 2016. évi LXVI. törvényhez
+
+### 18. melléklet a 2016. évi LXVI. törvényhez
+
+### 19. melléklet a 2016. évi LXVI. törvényhez
+
+### 20. melléklet a 2016. évi LXVI. törvényhez
+
+### 21. melléklet a 2016. évi LXVI. törvényhez

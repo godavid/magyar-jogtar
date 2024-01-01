@@ -227,7 +227,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2a) Az anyakönyvi szerv a (2) bekezdés b) pontja szerinti államok körét a külpolitikáért felelős miniszter értesítése alapján teszi közzé.
 
-(3) A (3a) és (3b) bekezdésben meghatározott kivétellel, valamint az (1a) bekezdésben meghatározott okirat kivételével a külföldön kiállított okirat – ha nemzetközi szerződésből, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusából, illetve viszonossági gyakorlatból más nem következik – a magyar törvény szerinti bizonyító erővel csak akkor rendelkezik, ha azt a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
+(3) A (3a) és (3b) bekezdésben meghatározott kivétellel, valamint az (1a) bekezdésben meghatározott okirat kivételével a külföldön kiállított okirat – ha nemzetközi szerződésből, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusából, illetve viszonossági gyakorlatból más nem következik és kormányrendelet szerinti elháríthatatlan akadálya nincs – a magyar törvény szerinti bizonyító erővel csak akkor rendelkezik, ha azt a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
 
 (3a) Ha az okirat kiállításának helye szerinti államban nem működik magyar külképviselet, vagy a magyar külképviselet diplomáciai felülhitelesítési tevékenységet vagy az (1a) bekezdésben meghatározott tevékenységet nem végez, a külföldi okirat diplomáciai felülhitelesítés nélkül is elfogadható.
 
@@ -798,7 +798,7 @@ az irányadó.
 - a) bejelenti – a kormányrendeletben meghatározott adatok megküldésével – a születést,
 - b) továbbítja a hivatalos statisztikáról szóló törvény végrehajtásáról szóló rendeletben meghatározott, intézetben rögzített születési statisztikai adatokat,
 - c) továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött – kivéve titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén – hivatalból kiadásra kerülő állandó személyazonosító igazolványához szükséges adatokat, valamint
-- d) továbbítja a másik szülő hozzájárulását a gyermek állandó személyazonosító igazolványának kiadásához.
+- d)
 
 (4) Az intézeten kívüli születést a szülő, tervezett intézeten kívüli szülés esetén az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személy jelenti be.
 
@@ -844,7 +844,7 @@ a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt.
 
 (2) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató a személyi adat- és lakcímnyilvántartásban
 
-- a) bevándoroltként, letelepedettként, menekültként vagy oltalmazottként nyilvántartott személy magyar hatóságok által kiállított személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
+- a) huzamos tartózkodási jogosultsággal rendelkezőként, menekültként vagy oltalmazottként nyilvántartott személy magyar hatóságok által kiállított személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személy idegenrendészeti hatóság által kiállított regisztrációs igazolását és a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 
 továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja.
@@ -1511,6 +1511,7 @@ foglalt adatait tartja nyilván.
 - e) a nyugdíjbiztosítási igazgatási szerv a nyugellátások és a hatáskörébe tartozó egyéb ellátások megállapítása és ellenőrzése céljából,
 - f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából,
 - g) a családtámogatási szerv az anyasági támogatás megállapítása iránti eljárás lefolytatása céljából.
+- h) a mezőgazdasági igazgatási szerv a támogatások igénybevételének hozzátartozói minőségre vonatkozó feltételei fennállásának ellenőrzése során a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megállapítása céljából.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 

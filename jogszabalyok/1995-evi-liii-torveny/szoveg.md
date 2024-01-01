@@ -812,7 +812,7 @@ véleményezésre megküldi.
 - a) környezetterhelési díjak,
 - b) igénybevételi járulékok,
 - c) termékdíjak,
-- d) betétdíjak
+- d) visszaváltási díjak
 
 (a továbbiakban együtt: díjak)
 
@@ -862,11 +862,9 @@ véleményezésre megküldi.
 
 (6) A visszafogadási kötelezettséggel terhelt termék termékdíját — az 59. § (4) bekezdésében foglaltak figyelembevételével — a visszafogadott, elhasználódott termékek hasznosítására vagy ártalmatlanítására, illetve az ezt megvalósító beruházások finanszírozására kell fordítani.
 
-### Betétdíj
+### Visszaváltási díj
 
-63. § (1) Jogszabály állapítja meg azon termékek körét, amelyeknek visszafogadása a környezet terhelésének, szennyezésének csökkentése érdekében indokolt. A visszafogadás ösztönzésére a termék forgalmazójának betétdíjat kell felszámítania.
-
-(2) A betétdíjas termék forgalmazója köteles a használt termék visszavételéről és megfelelő kezeléséről gondoskodni, továbbá a forgalmazáskor felszámított betétdíjat a termék visszaszolgáltatójának megfizetni.
+63. § Kormányrendelet állapítja meg az olyan termékek körét, amelyek visszafogadása a környezet terhelésének, szennyezésének csökkentése érdekében indokolt. A visszafogadás ösztönzésére a termék forgalmazójának visszaváltási díjat kell felszámítania.
 
 ### VII. Fejezet — A KÖRNYEZETVÉDELMI IGAZGATÁS
 
@@ -1255,6 +1253,13 @@ csak írásban terjeszthető elő.
 - c) e törvény végrehajtására kiadott kormányrendeletben
 
 meghatározott esetben.
+
+(3) A közmeghallgatás az érintettek személyes megjelenése nélkül,
+
+- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
+- b) honlapon való közzététel útján
+
+is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
 
 91/D. § (1) Ha az eljárásban legalább ötven ügyfél érintett, továbbá ha e törvény végrehajtására kiadott kormányrendelet előírja, a határozatot – a kérelmező ügyfél kivételével – hirdetmény útján kell közölni.
 

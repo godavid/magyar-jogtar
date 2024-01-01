@@ -1073,7 +1073,7 @@ a NAV elnöke, tábornok esetén a miniszter külföldre vezényli a külföldi 
 - e) a nyugdíjkorhatár betöltésének a napján, ha a foglalkoztatott a társadalombiztosítási szabályok alapján az öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte, kivéve, ha a foglalkoztatott kérelmére és hivatali érdek alapján a munkáltatói jogkör gyakorlója a szolgálati jogviszonyt fenntartja,
 - f) büntetőeljárás keretében a munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával.
 
-(2) A foglalkoztatott a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés e) pontja szerinti feltétel ellenőrzése céljából a nyugdíjbiztosítási igazgatási szervnél a megszerzett szolgálati idejéről hatósági bizonyítvány kiállítását kéri. Nem kell kérelmezni a hatósági bizonyítvány kiállítását, ha a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozata az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét igazolja. A foglalkoztatott a szolgálati időről kiállított hatósági bizonyítvány vagy más határozat másolatát – a rá irányadó öregségi nyugdíjkorhatár betöltését legalább három hónappal megelőzően – benyújtja a munkáltatói jogkör gyakorlójának. A munkáltatói jogkör gyakorlója az így tudomására jutott személyes adatokat az (1) bekezdés e) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából, az e törvényben meghatározott ideig kezelheti.
+(2) A foglalkoztatott a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés e) pontja szerinti feltétel ellenőrzése céljából kérheti, hogy a munkáltatói jogkör gyakorlója a nyugdíjbiztosítási igazgatási szervet a foglalkoztatott szolgálati idejének ellenőrzése céljából megkeresse. A foglalkoztatott az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozatával is igazolhatja a munkáltatói jogkör gyakorlója felé. A munkáltatói jogkör gyakorlója az így tudomására jutott személyes adatokat az (1) bekezdés e) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából az e törvényben meghatározott ideig kezelheti.
 
 (3) A foglalkoztatott az (1) bekezdés e) pontjában meghatározott kérelmét a rá irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző harmadik hónap utolsó napjáig írásban nyújthatja be a munkáltatói jogkör gyakorlójához. A határidő elmulasztása miatt igazolás benyújtásának nincs helye, ebben az esetben a foglalkoztatott jogviszonya annak a hónapnak az utolsó napján szűnik meg, amikor a foglalkoztatott a rá irányadó öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.
 
@@ -2001,7 +2001,7 @@ pótszabadság illeti meg.
 
 (1) A szabadság engedélyezésére, illetve kiadására a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető jogosult.
 
-(2) A szolgálati jogviszony első három hónapját kivéve az alap- és pótszabadság együttes időtartamának legalább 25%-át, de legalább tíz napot a foglalkoztatott által megjelölt időben és időtartamban kell kiadni úgy, hogy az a foglalkoztató NAV szerv működőképességét ne veszélyeztesse.
+(2) A szolgálati jogviszony első három hónapját kivéve az alap- és pótszabadság együttes időtartamának legalább 25%-át, de legalább tíz napot, valamint a 111. § (1) és (2) bekezdése szerinti pótszabadságot a foglalkoztatott által megjelölt időben és időtartamban kell kiadni úgy, hogy az a foglalkoztató NAV szerv működőképességét ne veszélyeztesse.
 
 (3) A szabadságot kettőnél több részletben csak a foglalkoztatott kérésére lehet kiadni.
 
@@ -2593,7 +2593,7 @@ A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemme
 
 (3) Egyebekben az illetményből való levonásra a bírósági végrehajtási jogszabályok az irányadók.
 
-(4) E §-t kell alkalmazni a szakszervezeti tagdíj levonására is.
+(4)
 
 (5) Az illetménnyel szemben beszámításnak nincs helye.
 
@@ -3626,11 +3626,9 @@ kapcsolatos ügyekben.
 
 (4) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
 
-#### 226. § [Szakszervezeti tagdíj levonása]
+#### 226. § [Szakszervezeti tagdíj]
 
-(1) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a NAV a foglalkoztatottak illetményéből a szakszervezeti tagdíjat az erre vonatkozó megállapodás esetén vonja le.
-
-(2) A NAV szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a munkáltató a foglalkoztatott illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.
 
 #### 227. § [Központi érdekegyeztetés]
 

@@ -1261,241 +1261,59 @@ korlátozza.
 
 #### 42. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-55. § A helyi adókról szóló 1990. évi C. törvény 39. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-[Iparűzési tevékenység esetén – a (6) bekezdésben foglaltakra is figyelemmel – az adó alapja a nettó árbevétel, csökkentve]
-
-„d) az alapkutatás, alkalmazott kutatás, kísérleti fejlesztés adóévben elszámolt közvetlen költségével, kivéve, ha a vállalkozó az adóévre a társasági adóról és az osztalékadóról szóló törvény szerinti kutatás-fejlesztési tevékenység adókedvezményének alkalmazását választotta.”
+#### 55. §
 
 #### 43. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-56. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 4. §-a a következő 23/g–23/j. ponttal egészül ki:
+#### 56. §
 
-(E törvény alkalmazásában)
+#### 57. §
 
-„23/g. kutató-fejlesztő: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutató-fejlesztő;
+#### 58. §
 
-23/h. alapkutatás: a 22/G. § alkalmazásában kísérleti vagy elméleti munka, amelyet elsősorban a jelenségek vagy megfigyelhető tények hátterével kapcsolatos új ismeretek megszerzésének érdekében folytatnak, anélkül, hogy kilátásba helyeznék azok közvetlen üzleti alkalmazását vagy felhasználását;
+#### 59. §
 
-23/i. alkalmazott (ipari) kutatás: a 22/G. § alkalmazásában tervezett kutatás vagy kritikus vizsgálat, amelynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez, vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez, amelyek lehetnek többek között digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (ideértve például a digitális iparágakat és technológiákat, továbbá komplex rendszerek összetevőinek létrehozását, és a prototípusok megépítését, valamint kísérleti sorozatok gyártását, amennyiben ez az alkalmazott kutatáshoz és különösen a generikus technológiák ellenőrzéséhez szükséges);
+#### 60. §
 
-23/j. kísérleti fejlesztés: a 22/G. § alkalmazásában a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, alakítása és felhasználása új vagy javított termékek, eljárások vagy szolgáltatások kidolgozása céljából, amelyek lehetnek digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (ideérve a digitális iparágakat és technológiákat, az új termékek, eljárások vagy szolgáltatások fogalmi meghatározását, megtervezését és dokumentálását célzó tevékenységeket, új vagy javított termékek, eljárások és szolgáltatások prototípusainak és kísérleti modelljeinek kidolgozását, illetve kiállítását, tesztelését és jóváhagyását, ha e tevékenységek elsődleges célja a véglegesnek még nem tekinthető termék, eljárás vagy szolgáltatás továbbfejlesztése; továbbá a kereskedelmileg felhasználható olyan prototípusok és kísérleti modellek kifejlesztését, amelyek kereskedelmi végterméknek minősülnek);”
+#### 61. §
 
-57. § A Tao. törvény 18/C. §-a a következő (21) bekezdéssel egészül ki:
-
-„(21) A 18/A. § (1) bekezdése szerinti adózó nem jogosult a 22/G. §-ban foglalt adókedvezményre a számvitelről szóló törvény III. Fejezete szerinti beszámolóról (könyvvezetésről) az IFRS-ek szerinti beszámolóra (könyvvezetésre) történő áttérés következtében, kizárólag az áttérés miatt elszámolt alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költségére vonatkozóan.”
-
-58. § A Tao. törvény a 22/F. §-t követően a következő alcímmel egészül ki:
-
-### „Kutatás-fejlesztési tevékenység adókedvezménye
-
-22/G. § (1) Az adózó a 7. § (1) bekezdés t) és w) pontja szerinti kedvezmény alkalmazása helyett – választása szerint – a 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés tevékenységére tekintettel kutatás-fejlesztési projektenként adókedvezményt vehet igénybe az elszámolható költség felmerülésének adóévében és az azt követő három adóévben.
-
-(2) Az (1) bekezdés szerinti választás az adózónál a 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés öt egymást követő adóévben felmerülő elszámolható költségei összességére vonatkozik.
-
-(3) Az (1) bekezdés szerinti választást a választással érintett első adóévről szóló éves adóbevallásban kell bejelenteni az állami adó- és vámhatóság részére. Az (1) bekezdés szerinti választás megváltoztatására legkorábban a választással érintett első adóévet követő hatodik adóévtől van lehetőség, amelyet az adóévről szóló adóbevallásban be kell jelenteni az állami adó- és vámhatóság részére.
-
-(4) Az adózó az e § szerinti adókedvezményt az elszámolható költség keletkezésének sorrendjében érvényesíti. Az adózó adóévenként a (6) bekezdésben meghatározott, az adóévben rendelkezésre álló teljes összeget, de legfeljebb az adóévi számított adó összegét érvényesítheti adókedvezményként.
-
-(5) Az elszámolható költség felmerülésének adóévében és az azt követő három adóévben adócsökkentésként fel nem használt adókedvezményre vonatkozóan az adózó átutalással teljesítendő megtérítésre jogosult. A megtérítési jogosultságot az adózó a felmerülés adóévét követő harmadik adóévről szóló éves társasági adóbevallásában feltünteti, amely alapján az állami adó- és vámhatóság automatikusan, legkésőbb a bevallás benyújtása adóévének utolsó napjáig teljesíti a kiutalást. A kiutalás feltétele, hogy az adózónak a kiutaláskor az állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása ne haladja meg a százezer forintot.
-
-(6) Az adókedvezmény mértéke – a (7) bekezdésben foglaltakra is figyelemmel –
-
-- a) – a b) pontban foglalt eset kivételével – az elszámolható költség 10 százaléka,
-- b) a felsőoktatási intézmény, a Magyar Tudományos Akadémia, a központi költségvetési szervként működő kutatóintézet, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely, valamint a közvetlenül vagy közvetve többségi állami tulajdonban lévő gazdasági társaság formájában működő kutatóintézet és az adózó által írásban kötött szerződés alapján közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén 500 millió forint.
-
-(7) Az adókedvezmény mértéke nem haladhatja meg adózónként és projektenként
-
-- a) az 55 millió eurónak megfelelő forintösszeget, ha az adózó saját tevékenységi körében végzett tevékenység a 4. § 23/h. pontja szerinti alapkutatásnak minősül,
-- b) a 35 millió eurónak megfelelő forintösszeget, ha az adózó saját tevékenységi körében végzett tevékenység a 4. § 23/i. pontja szerinti alkalmazott (ipari) kutatásnak minősül,
-- c) a 25 millió eurónak megfelelő forintösszeget, ha az adózó saját tevékenységi körében végzett tevékenység a 4. § 23/j. pontja szerinti kísérleti fejlesztésnek minősül.
-
-(8) E § alkalmazásában – a (9) bekezdésben foglaltakra is figyelemmel – elszámolható költségnek minősül 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés közvetlen költsége közül
-
-- a) a kutató-fejlesztő által használt tárgyi eszköz kutatás-fejlesztési projekt idejére számított számviteli értékcsökkenése,
-- b) a kutató-fejlesztőre vonatkozóan elszámolt személyi jellegű ráfordítás a kutató-fejlesztőnek a kutatás-fejlesztési projektben való foglalkoztatása mértékéig, kivéve a kutatás-fejlesztési tevékenységhez közvetetten kapcsolódó ráfordítás (ideértve többek között a reprezentációt, a végkielégítést, a felmentési időre járó bért és ezek járulékait),
-- c) a kutatás-fejlesztési tevékenységhez felhasznált szabadalom költsége, ráfordítása,
-- d) működési és üzemeltetési költségek, ráfordítások, amelyek közvetlenül a kutatás-fejlesztési projekt folyamán merülnek fel,
-- e) a kapcsolt vállalkozásnak nem minősülő személytől közvetlenül vagy közvetve igénybe vett kutatási és kísérleti fejlesztési szolgáltatás ellenértéke alapján elszámolt közvetlen költség, ráfordítás az e pont szerinti költséget, ráfordítást nem tartalmazó elszámolható költség összegének 20 százaléka, amelyből a kapcsolt vállalkozásnak minősülő személytől közvetlenül vagy közvetve igénybe vett kutatási és kísérleti fejlesztési szolgáltatás ellenértéke alapján elszámolt közvetlen költség, ráfordítás legfeljebb annak 10 százaléka lehet, azzal, hogy a szolgáltatást nyújtó a megrendelőnek legkésőbb a megrendelő adóbevallása benyújtásáig nyilatkozik arról, hogy a közvetlenül vagy közvetve igénybe vett kutatási és kísérleti fejlesztési szolgáltatás adókedvezményben vagy más – állami forrás terhére járó – támogatásban nem részesül, azzal hogy e nyilatkozat valóságtartalmáért és teljesüléséért a megrendelő és a szolgáltatás nyújtója egyetemlegesen felel.
-
-(9) Nem minősül elszámolható költségnek
-
-- a) a fejlesztés céljára vagy a tevékenység költségei (ráfordításai) ellentételezésére a mérlegkészítés napjáig az adó- és vámhatóságtól igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás összege, és
-- b) a 3. számú melléklet A) rész 15. pontja alapján nem az adózó vállalkozási tevékenysége érdekében felmerült közvetlen költség, ráfordítás.
-
-(10) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az az adózó és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
-
-(11) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság, a szabályozott ingatlanbefektetési projekttársaság és az MRP nem veheti igénybe az e § szerinti adókedvezményt.
-
-(12) Ugyanazon elszámolható költségre vonatkozóan az e § szerinti adókedvezmény együttesen nem alkalmazható az e törvény szerinti más adókedvezménnyel.
-
-(13) Ugyanazon adóévre vonatkozóan az e § szerinti adókedvezmény együttesen nem alkalmazható a 7. § (1) bekezdés t) és w) pontja szerinti adóalap-csökkentő tétellel.
-
-(14) Az e § szerinti adókedvezmény igénybevételének adóéveiben az adózó éves adóbevallásában évenkénti bontásban adatot szolgáltat
-
-- a) az adóévi elszámolható költségről,
-- b) az adóévben újonnan keletkezett adókedvezmény összegéről, továbbá
-- c) a korábban keletkezett adókedvezményi összeg terhére történő adóévi felhasználás összegéről.
-
-(15) Nem vehető igénybe adókedvezmény,
-
-- a) ha az adózó nehéz helyzetben lévő társaság,
-- b) ha az adózóval szemben teljesítetlen visszafizetési felszólítás van érvényben olyan európai bizottsági határozat eredményeként, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított,
-- c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny adózó esetén
-  - ca) ha a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
-  - cb) ha a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
-- d) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.”
-
-59. § (1) A Tao. törvény 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A számított társasági adó 22/G. § szerinti kutatás-fejlesztési adókedvezménnyel csökkentett összegéből – legfeljebb a csökkentett összeg 80 százalékáig – érvényesíthető a 22/B. § alapján fejlesztési adókedvezmény.”
-
-(2) A Tao. törvény 23. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdés szerint igénybe vett adókedvezményekkel csökkentett adóból – legfeljebb annak 70 százalékáig – érvényesíthető minden más adókedvezmény.”
-
-(3) A Tao. törvény 23. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A (2) bekezdéstől eltérően a csoportos társasági adóalany a jogosult csoporttagra a pozitív adóalapja arányában jutó számított adó 22/G. § szerinti kutatás-fejlesztési adókedvezménnyel csökkentett összegéből érvényesíti a 22/B. § alapján a fejlesztési adókedvezményt, legfeljebb a jogosult csoporttagra jutó csökkentett számított adó 80 százalékáig.”
-
-(4) A Tao. törvény 23. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-„(13) A (3) bekezdéstől eltérően a csoportos társasági adóalany a (12) bekezdés szerint igénybe vett adókedvezményekkel csökkentett számított adóból érvényesíti a 22/E. § alapján az energiahatékonysági beruházás, felújítás adókedvezményét, legfeljebb a jogosult csoporttagra jutó, a (12) bekezdés szerint megállapított összeg 70 százalékáig.”
-
-60. § A Tao. törvény 29/A. §-a a következő (118)–(123) bekezdéssel egészül ki:
-
-„(118) A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 22/G. § szerinti adókedvezmény az adózó választása szerint első alkalommal a 2024. adóévi elszámolható költségre alkalmazható.
-
-(119) Az adózó a 2023. december 31. napját megelőző napon bejelentett részesedésnek nem minősülő részesedését a 2023. adóévre vonatkozó éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig utólag bejelentheti az állami adó- és vámhatóságnak feltéve, hogy a részesedés a bejelentéskor megfelel a 4. § 5. pontjában foglalt rendelkezésnek. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
-
-(120) A (119) bekezdés szerinti választás esetén az adózó a részesedés független felek által alkalmazandó piaci értéke és könyv szerinti értéke 2023. december 31-én fennálló nyereségjellegű különbözetének 20 százaléka, mint adóalap után a 19. §-ban meghatározott adómértékkel számított adót az éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig bevallja és megfizeti. Az e bekezdés szerinti adóalap és adó terhére csökkentés nem érvényesíthető.
-
-(121) Az adózónak a (120) bekezdés szerinti bevallása benyújtásakor rendelkeznie kell független könyvvizsgáló vagy a részesedés értékeléséhez szükséges szakértelemmel rendelkező szakértő jelentésével, amely alátámasztja a részesedés független felek által alkalmazandó piaci értékét.
-
-(122) A (119) bekezdés szerint bejelentett részesedésekkel kapcsolatos társasági adóalap meghatározása során a későbbiekben úgy kell eljárni figyelemmel a (120) bekezdés alapján már leadózott összegre, mintha a részesedés szerzési (bekerülési) értéke a részesedés független felek által alkalmazandó 2023. december 31-én fennálló piaci értéke lenne.
-
-(123) A (119)–(122) bekezdésben foglaltak alátámasztása céljából az adózó külön nyilvántartást vezet.”
-
-61. § A Tao. törvény a következő 30/L. §-sal egészül ki:
-
-„30/L. § E törvény 4. § 23/g–23/j. pontjai és 22/G. §-a a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I. és II. Fejezete, valamint 25. cikke hatálya alá tartozó, kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.”
-
-62. § A Tao. törvény
-
-- a) 7. § (1) bekezdés dz) pontjában a „részesedés” szövegrész helyébe a „részesedés (ideértve a bejelentett részesedés nyilvántartásba vételétől számított egy éven belüli könyvekből történő részbeni kivezetése esetén a részbeni kivezetés után megmaradó részesedést)” szöveg,
-- b) 18/B. § (1) bekezdés c) pontjában és (2) bekezdés a) pontjában a „fejlesztési adókedvezménynek” szövegrész helyébe a „fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének és a kutatás-fejlesztési tevékenység adókedvezményének” szöveg
-
-lép.
+#### 62. §
 
 #### 44. A számvitelről szóló 2000. évi C. törvény módosítása
 
-63. § A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 3. §-a a következő (16) bekezdéssel egészül ki:
+#### 63. §
 
-„(16) E törvény alkalmazásában:
+#### 64. §
 
-- 1. halasztott adókövetelés számított értéke:
-  - a) az adózás előtti eredmény csökkentéseként elszámolt, a nyereségadó alapját a következő üzleti év(ek)ben csökkentő tételek mérlegfordulónapi adókulccsal számított adóhatása,
-  - b) a nyereségadó alapjának növeléseként már elszámolt, az adózás előtti eredmény növeléseként a következő üzleti év(ek)ben elszámolandó tételek mérlegfordulónapi adókulccsal számított adóhatása,
-  - c) amennyiben egy eszköz vagy kötelezettség állományba vételkori bekerülési értéke és a nyereségadó törvény által elfogadott értéke eltért, azon (fennmaradó) különbözet mérlegfordulónapi adókulccsal számított adóhatása, amely különbözettel a következő üzleti év(ek) nyereségadó alapját kell csökkenteni,
-  - d) a mérlegfordulónapon meglévő (a következő üzleti évek pozitív nyereségadó alapjával szemben csökkentő tételként felhasználható) elhatárolt veszteség mérlegfordulónapi adókulccsal számított adóhatása, továbbá
-  - e) a következő üzleti év(ek)ben a nyereségadóból érvényesíthető adókedvezmények összege olyan mértékig, amilyen mértékben az adókedvezmény igénybevételének előírt feltételei a mérlegfordulónapon már teljesültek;
-- 2. halasztott adókötelezettség számított értéke:
-  - a) az adózás előtti eredmény növeléseként elszámolt, a nyereségadó alapját a következő üzleti év(ek)ben növelő tételek mérlegfordulónapi adókulccsal számított adóhatása,
-  - b) a nyereségadó alapjának csökkenéseként már elszámolt, az adózás előtti eredmény csökkenéseként a következő üzleti év(ek)ben elszámolandó tételek mérlegfordulónapi adókulccsal számított adóhatása, továbbá
-  - c) amennyiben egy eszköz vagy kötelezettség állományba vételkori bekerülési értéke és a nyereségadó törvény által elfogadott értéke eltért, azon (fennmaradó) különbözet mérlegfordulónapi adókulccsal számított adóhatása, amely különbözettel a következő üzleti év(ek) nyereségadó alapját kell növelni;
-- 3. nyereségadó: a társasági adó, valamint az annak megfelelő, az adózás előtti eredményt terhelő adó;
-- 4. mérlegfordulónapi adókulcs: az az adókulcs, amely mérlegfordulónapon kihirdetett és vonatkozni fog arra a következő üzleti év(ek)re, amely(ek)ben a halasztott adókövetelés vagy halasztott adókötelezettség realizálódik;
-- 5. halasztott adókövetelés, halasztott adókötelezettség könyv szerinti értéke: a halasztott adókövetelés számított értékéből az az összeg, amely várhatóan realizálódik a későbbi üzleti év(ek)ben, a halasztott adókötelezettség esetében a könyv szerinti érték megegyezik a halasztott adókötelezettség számított értékével.”
+#### 65. §
 
-64. § Az Szt. 37. §-a a következő (8) és (9) bekezdéssel egészül ki:
+#### 66. §
 
-„(8) A halasztott adó alkalmazásának első üzleti évében a halasztott adókövetelés és a halasztott adókötelezettség nyitó könyv szerinti értékét az eredménytartalékkal szemben kell állományba venni, míg a halasztott adó alkalmazásának megszüntetésekor a megszüntetés üzleti évének nyitó könyv szerinti értékét az eredménytartalékkal szemben kell kivezetni.
+#### 67. §
 
-(9) A 3. § (16) bekezdés 1. pont c) alpontja szerinti halasztott adókövetelésnek és a 3. § (16) bekezdés 2. pont c) alpontja szerinti halasztott adókötelezettségnek az eszköz vagy kötelezettség állományba vételével egyidejűleg megállapított nyitó értékét az eredménytartalékkal szemben kell állományba venni.”
+#### 68. §
 
-65. § Az Szt. 38. § (3) bekezdése a következő b) ponttal egészül ki:
+#### 69. §
 
-(Az eredménytartalékból kell lekötni és a lekötött tartalékba átvezetni:)
+#### 70. §
 
-„b) a halasztott adókövetelés mérleg szerinti értékét,”
+#### 71. §
 
-66. § Az Szt. A mérleg tagolása, tételeinek tartalma alcíme a következő 45/A. §-sal egészül ki:
-
-„45/A. § A vállalkozó saját döntése alapján a mérlegben kimutathatja a 3. § (16) bekezdés 5. pontja szerinti halasztott adókövetelést és halasztott adókötelezettséget. A halasztott adókövetelést a befektetett eszközök, a halasztott adókötelezettséget a hosszú lejáratú kötelezettségek között kell kimutatni, azonos adóhatósággal szemben fennálló halasztott adókövetelés és halasztott adókötelezettség esetén összevontan (nettó módon), előjelétől függően eszközként vagy kötelezettségként. Amennyiben a vállalkozó alkalmazza e rendelkezést, akkor a halasztott adókövetelést és a halasztott adókötelezettséget is ki kell mutatnia.”
-
-67. § Az Szt. 87. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A vállalkozó halasztott adókülönbözetként mutatja ki a 3. § (16) bekezdés 5. pontja szerinti tárgyévben keletkező halasztott adókövetelést és halasztott adókötelezettséget [a 37. § (8) és (9) bekezdése szerint elszámoltak kivételével], valamint a már kimutatott halasztott adókövetelés és halasztott adókötelezettség könyv szerinti értékének tárgyévi változását.”
-
-68. § Az Szt. 92. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A kiegészítő mellékletben be kell mutatni a halasztott adókövetelések és a halasztott adókötelezettségek jelentős tételeit jogcímenkénti megbontásban a következők szerint:
-
-- a) nyitó könyv szerinti és számított érték,
-- b) tárgyévben keletkezett halasztott adó tételek könyv szerinti és számított értéke,
-- c) felhasználásból eredő tárgyévi csökkenés,
-- d) az üzleti várakozások, az adókulcs és az adózási környezet változásából eredő tárgyévi változások, és
-- e) tárgyévi záró könyv szerinti és számított érték.”
-
-69. § Az Szt. 132. §-a helyébe a következő rendelkezés lép:
-
-„132. § (1) Ha az összevont (konszolidált) éves beszámoló alapján számított éves adózás előtti eredmény – az összevonás következtében – alacsonyabb vagy magasabb, mint a konszolidálásba bevont vállalkozások adózás előtti eredményeinek együttes összege, úgy a konszolidálásba bevont vállalkozások szerint és az összevont (konszolidált) eredménykimutatás szerint fizetendő adó különbözetéből azt az összeget, ami a konszolidálásba bevont vállalkozások ki nem gazdálkodott negatív adóalapjából, továbbá a megelőző üzleti évek, a tárgyév konszolidálási intézkedéseiből származik és várhatóan kiegyenlítődik a későbbi üzleti években, konszolidálás miatti társasági adó-különbözetként ki kell mutatni. Amennyiben a konszolidálásba bevont vállalkozások eredménykimutatásai szerint fizetendő adó több, mint az összevont (konszolidált) eredménykimutatás szerint fizetendő adó, akkor a különbözetet áthúzódó adókövetelésként, fordított esetben a különbözetet áthúzódó adótartozásként kell az összevont (konszolidált) mérlegben elkülönítetten kimutatni. Az összevont (konszolidált) eredménykimutatásban az adó-különbözetet külön soron (elkülönített tételként) – mint konszolidálásból adódó (számított) társasági adó-különbözetet – kell szerepeltetni.
-
-(2) Amennyiben az összevont (konszolidált) éves beszámolóban alkalmazzák a halasztott adó kimutatását, halasztott adókövetelésként és halasztott adókötelezettségként csak az (1) bekezdés alapján meg nem jelenített tételeket lehet kimutatni.”
-
-70. § Az Szt. 177. §-a a következő (94) és (95) bekezdéssel egészül ki:
-
-„(94) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-
-(95) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.”
-
-71. § Az Szt.
-
-- 1. 1. számú melléklete a 10. melléklet szerint,
-- 2. 2. számú melléklete a 11. melléklet szerint,
-- 3. 6. számú melléklete a 12. melléklet szerint
-
-módosul.
-
-72. § Az Szt.
-
-- 1. 87. § (2) bekezdésében a „kisvállalati adó” szövegrész helyébe a „kisvállalati adó, a globális minimum-adószintet biztosító kiegészítő adó” szöveg,
-- 2. 87. § (3) bekezdésében az „adófizetési kötelezettség” szövegrész helyébe az „adófizetési kötelezettség, valamint a halasztott adókülönbözet tárgyévi változásának” szöveg,
-- 3. 91. § c) pontjában a „társasági adó” szövegrész helyébe a „társasági adó, a kisvállalati adó” szöveg,
-- 4. 3. számú mellékletében a „VIII–X.” szövegrész helyébe a „VIII–X/1.” szöveg
-
-lép.
+#### 72. §
 
 #### 45. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-73. § Az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) a következő 227/B. §-sal egészül ki:
+#### 73. §
 
-#### „227/B. § [Globális minimum-adószintet biztosító kiegészítő adókkal kapcsolatos bevallási és adatszolgáltatási kötelezettség megsértése]
+#### 74. §
 
-Az állami adó- és vámhatóság, a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény szerinti
+#### 75. §
 
-- a) bejelentési kötelezettség elmulasztása, késedelmes teljesítése esetén ötmillió forint,
-- b) bevallási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tíz millió forint,
-
-mulasztási bírságot szabhat ki.”
-
-74. § Az Art. a következő 274/R. §-sal egészül ki:
-
-#### „274/R. § [Átmeneti rendelkezés a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényhez]
-
-A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényben meghatározott kötelezettségek nem teljesítése esetén, a 2026. december 31. előtt kezdődő adóévek tekintetében bírság nem szabható ki, ha a csoporttag úgy járt el, ahogy az az adott helyzetben a csoporttagtól elvárható.”
-
-75. § Az Art. 2. melléklet A) Általános rendelkezések pont 3. alpontjában az „(adóelőleg)” szövegrész helyébe az „(adóelőleg), globális minimum-adószintet biztosító kiegészítő adók” szöveg lép.
-
-76. § Az Art. 275. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény által megállapított 227/B. és 274/R. §-a, valamint 2. melléklet A) Általános rendelkezések pont 3. alpontja az Unióban a multinacionális vállalatcsoportokra és a nagy volumenű belföldi vállalatcsoportokra vonatkozó globális minimum-adószint biztosításáról szóló 2022. december 14-i (EU) 2022/2523 tanácsi irányelvnek való megfelelést szolgálja.”
+#### 76. §
 
 #### 46. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-77. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 16. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Nem vehető igénybe az e § szerinti kedvezmény, ha a kifizető az adóévre a társasági adóról és az osztalékadóról szóló törvény szerinti kutatás-fejlesztési tevékenység adókedvezményének alkalmazását választotta.”
+#### 77. §
 
 ### 1. melléklet a 2023. évi LXXXIV. törvényhez
 
@@ -1602,38 +1420,6 @@ A 28. § (2) bekezdésének alkalmazásakor az 5 százalékos érték helyett a 
 
 ### 10. melléklet a 2023. évi LXXXIV. törvényhez
 
-- 1. Az Szt. 1. számú mellékletében az A mérleg előírt tagolása „A” változatában az „A. Befektetett eszközök” fősora a következő IV. ponttal egészül ki:
-
-„IV. Halasztott adókövetelés”
-
-- 2. Az Szt. 1. számú mellékletében az A mérleg előírt tagolása „B” változatában az „A. Befektetett eszközök” fősora a következő IV. ponttal egészül ki:
-
-„IV. Halasztott adókövetelés”
-
-- 3. Az Szt. 1. számú mellékletében az A mérleg előírt tagolása „A” változatában az F. Kötelezettségek fősora, II. Hosszú lejáratú kötelezettségek pontja a következő 10. alponttal egészül ki:
-
-„10. Halasztott adókötelezettség”
-
-- 4. Az Szt. 1. számú mellékletében az A mérleg előírt tagolása „B” változatában a H. Egy évnél hosszabb lejáratú kötelezettségek fősora, I. Hosszú lejáratú kötelezettségek pontja a következő 10. alponttal egészül ki:
-
-„10. Halasztott adókötelezettség”
-
 ### 11. melléklet a 2023. évi LXXXIV. törvényhez
 
-- 1. Az Szt. 2. számú melléklete a X. Adófizetési kötelezettség sorát követően a következő X/1. sorral egészül ki:
-
-#### „X/1. Halasztott adókülönbözet (±)”
-
-- 2. Az Szt. 2. számú melléklete D. Adózott eredmény (±C–X) sora helyébe a következő rendelkezés lép:
-
-„D. Adózott eredmény (±C–X±X/1)”
-
 ### 12. melléklet a 2023. évi LXXXIV. törvényhez
-
-Az Szt. 6. számú melléklet II. Az összevont (konszolidált) eredménykimutatás előírt tagolása a következő kiegészítéssekkel tér el a 2. számú melléklet szerinti eredménykimutatás tagolásától pont 4. pontjának a helyébe a következő rendelkezés lép:
-
-„4. Az „X. Adófizetési kötelezettség” sor az alábbi sorokkal egészül ki:
-
-X/A. Konszolidálásból adódó (számított) társasági adókülönbözet (±)
-
-X/B. Halasztott adókülönbözet (±)”

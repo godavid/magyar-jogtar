@@ -15,8 +15,9 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 - a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és vármegyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, köztisztviselőként, munkavállalóként, a Nemzeti Adó- és Vámhivatalnál foglalkoztatottként vagy munkavállalóként,
 - b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 - c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként,
-- d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként vagy
-- e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként
+- d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként,
+- e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként vagy
+- f) a pedagógusok új életpályájáról szóló törvény szerinti állami fenntartású köznevelési intézménynél köznevelési foglalkoztatotti jogviszonyban álló személyként
 
 foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
 
@@ -46,7 +47,7 @@ kell alkalmazni.
 
 2. § E törvény alkalmazásában
 
-- 1. alapjogviszony: az 1. § (2) bekezdése szerinti, fennálló kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony, munkaviszony;
+- 1. alapjogviszony: az 1. § (2) bekezdése szerinti, fennálló kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti jogviszony, munkaviszony;
 - 2. állami projektértékelői jogviszony: közfeladat ellátása céljából létrehozott, munkavégzésre irányuló különös jogviszony, amelyben az érintett alapjogviszonnyal rendelkezik, és amelyre a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit nem kell alkalmazni;
 - 3. értékelő: olyan állami projektértékelői jogviszonyban álló személy, aki keretszerződés alapján, annak megkötését követően szaktudása alapján végzi a tartalmi értékelést vagy a közbeszerzési értékelést;
 - 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
@@ -153,7 +154,7 @@ kell alkalmazni.
   - bd) anyja nevét,
   - be) munkahelyi telefonszámát,
   - bf) munkakörét, illetve beosztását,
-  - bg) jelenlegi alapjogviszonya jellegét (kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, munkaviszony, adó- és vámhatósági szolgálati jogviszony, egészségügyi szolgálati jogviszony)
+  - bg) jelenlegi alapjogviszonya jellegét (kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, munkaviszony, adó- és vámhatósági szolgálati jogviszony, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony)
   - bh) jelenlegi jogviszonyának kezdetét,
   - bi) kinevezése, illetve munkaszerződése időtartamát,
 - c) az alapjogviszony szerinti munkáltató nyilatkozatát arról, hogy

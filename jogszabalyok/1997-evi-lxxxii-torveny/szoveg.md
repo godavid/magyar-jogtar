@@ -54,7 +54,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - t) zárt pénztár: olyan pénztár, amely szakmai vagy más szervezési elv alapján a pénztár lehetséges tagjainak körét meghatározza,
 - u) szakmai egyesület: olyan egyesület, amelyben a taggá válás feltétele valamely szakmához való tartozás,
 - v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke, a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag egyéni számlaegyenlege, valamint a Pénztárak Garanciaalapja garanciális kifizetésekre fordítható pénzeszközeinek az egy főre jutó összege.
-- x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, illetve állami szolgálati jogviszonyban, bírói, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
+- x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, köznevelési foglalkoztatotti, egészségügyi szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, illetve állami szolgálati jogviszonyban, bírói, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
 - y) közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs,
 - z) szolgáltató: az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez. Szolgáltatónak minősül különösen az, aki (amely) a pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, illetve amely a pénztár részére tagszervezést végez, valamint a pénztár tagja részére járadékszolgáltatást teljesítő biztosító intézet. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez,
 - zs) értékelési különbözet céltartaléka: a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára vonatkozóan meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
@@ -141,7 +141,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 9. § Az alapító az alapítást megelőzően, a pénztári tagságra jogosultak és kötelezettek között felmérést végezhet, és szándéknyilatkozatot kérhet tőlük arról, hogy a nyilatkozat aláírója, a tervezett pénztár létrehozása esetén, tagként belép-e a pénztárba. A nyilatkozatkérés során fel kell hívni a figyelmet a szabad pénztárválasztás jogára, és tilos a szabad pénztárválasztási jog bármilyen formában történő korlátozása.
 
-10. §
+#### 10. §
 
 11. § (1) A 7. § (1)–(3) bekezdésében felsorolt szervezetek a pénztár alapításának, valamint pénztári tevékenységének költségeit részben vagy egészben átvállalhatják.
 
@@ -350,7 +350,7 @@ szűnik meg.
 
 (4) A tagsági viszony átlépéssel való megszüntetésére legkorábban a pénztárbeli tagsági viszony kezdő időpontjától számított hat hónap eltelte után kerülhet sor, kivéve az (1) bekezdés c) pontja alatti esetet.
 
-24. § (1) A pénztártag átlépésére, a tag erre irányuló írásbeli bejelentése alapján, a 23. § (4) bekezdésében foglalt feltételek fennállása esetén kerül sor. Az írásbeli bejelentésben a tag meghatározhatja azt a h ónapot, amelynek utolsó napján az átlépésre sor kerül, feltéve, hogy a tag erre irányuló bejelentése az abban meghatározott hónap utolsó napját legalább 10 munkanappal megelőzően beérkezik a pénztárhoz. Ha az átlépésre vonatkozó bejelentés az átlépés hónapját nem határozza meg és az a hónap fordulónapját megelőzően 10 munkanappal beérkezett a pénztárhoz, az átlépés időpontja a bejelentés hónapjának utolsó napja. A hónap utolsó 10 munkanapján beérkező, az előzőekben nem említett írásbeli bejelentés alapján – a bejelentés tartalmától függetlenül – a pénztár a tag tagsági jogviszonyát a pénztár szabályzata szerint a bejelentés hónapjának utolsó napjával vagy az azt követő hónap utolsó napjával szüntetheti meg. A bejelentést az átlépéssel érintett pénztárakhoz kell benyújtani.
+24. § (1) A pénztártag átlépésére, a tag erre irányuló írásbeli bejelentése alapján, a 23. § (4) bekezdésében foglalt feltételek fennállása esetén kerül sor. Az írásbeli bejelentésben a tag meghatározhatja azt a hónapot, amelynek utolsó napján az átlépésre sor kerül, feltéve, hogy a tag erre irányuló bejelentése az abban meghatározott hónap utolsó napját legalább 10 munkanappal megelőzően beérkezik a pénztárhoz. Ha az átlépésre vonatkozó bejelentés az átlépés hónapját nem határozza meg és az a hónap fordulónapját megelőzően 10 munkanappal beérkezett a pénztárhoz, az átlépés időpontja a bejelentés hónapjának utolsó napja. A hónap utolsó 10 munkanapján beérkező, az előzőekben nem említett írásbeli bejelentés alapján – a bejelentés tartalmától függetlenül – a pénztár a tag tagsági jogviszonyát a pénztár szabályzata szerint a bejelentés hónapjának utolsó napjával vagy az azt követő hónap utolsó napjával szüntetheti meg. A bejelentést az átlépéssel érintett pénztárakhoz kell benyújtani.
 
 (2) Az (1) bekezdés szabályait nem kell alkalmazni, ha az átlépésre a pénztárak egyesülésével, szétválásával vagy a pénztár megszűnésével összefüggésben kerül sor.
 
@@ -591,7 +591,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 37. § (1) A közgyűlést legalább évente kétszer össze kell hívni, az éves beszámoló, illetve a pénzügyi terv elfogadására. A beszámolót a pénzügyi év lejártát követő ötödik hónap utolsó napjáig, a pénzügyi tervet a pénzügyi év lejárta előtti 90 napos időszakban kell a közgyűlés elé terjeszteni és elfogadni. A közgyűlést akkor is össze kell hívni, ha azt a bíróság vagy a Felügyelet elrendeli, vagy az ellenőrző bizottság, illetve a pénztártagok, illetve küldötteik legalább 10 százaléka – az ok és a cél megjelölésével – írásban indítványozza, illetve az igazgatótanács szükségesnek látja. Az SzMSz más esetekben is előírhatja a közgyűlés összehívását.
 
-(2) A közgyűlés összehívásának módjáról a pénztár SzMSz-ében kell rendelkezni. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés összehívását – a közgyűlést legalább 15 nappal megelőzően – egy országos napilapban, illetőleg a helyi és munkahelyi időszakos lapban is legalább egy alkalommal meg kell hirdetni. A hirdetmény tartalmazza a közgyűlés helyét, időpontját, tervezett napirendjét, az előterjesztések megtekintésének módját. A közgyűlés a meghívóban (hirdetményben) nem szereplő napirendi pontokat az Mpt. 39. §-ának (1) bekezdésében meghatározott, a közgyűlés kizárólagos hatáskörébe tartozó kérdések esetén csak akkor tárgyalhatja meg, ha az ülésen valamennyi tag jelen van, illetve képviselve van, és egyhangúlag hozzájárul a napirendi kérdés megtárgyalásához.
+(2) A közgyűlés összehívásának módjáról a pénztár SzMSz-ében kell rendelkezni. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés összehívását – a közgyűlést legalább 15 nappal megelőzően – a pénztár és a Felügyelet honlapján is közzé kell tenni. A közzététel tartalmazza a közgyűlés helyét, időpontját, tervezett napirendjét, az előterjesztések megtekintésének módját. A közgyűlés a meghívóban (hirdetményben) nem szereplő napirendi pontokat az Mpt. 39. §-ának (1) bekezdésében meghatározott, a közgyűlés kizárólagos hatáskörébe tartozó kérdések esetén csak akkor tárgyalhatja meg, ha az ülésen valamennyi tag jelen van, illetve képviselve van, és egyhangúlag hozzájárul a napirendi kérdés megtárgyalásához.
 
 (3) A küldöttközgyűlés összehívásáról szóló értesítést, a küldöttközgyűlést megelőzően legalább 15 nappal előbb el kell juttatni a küldötteknek. A bíróság vagy a Felügyelet az értesítés tekintetében, az e törvényben foglaltnál rövidebb határidőt is előírhat.
 
@@ -653,7 +653,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (4) Az igazgatótanács az SzMSz-ben meghatározott időközönként, de legalább háromhavonként ülést tart. Ülést kell tartania ezen időszakon belül akkor is, ha azt közgyűlési határozat vagy a Felügyelet előírta, illetve az ellenőrző bizottság, az igazgatótanács tagjainak egyharmada vagy az ügyvezető kéri. Az ügyvezető az igazgatótanács ülésein tanácskozási joggal részt vesz.
 
-(5) Az igazgatótanács ülés megtartása nélkül távbeszélőn, telefaxon, telexen, elektronikus levélben (e-mail) is hozhat érvényes határozatot, ha az igazgatótanácsi tagok SzMSz-ben meghatározott hányada, de legalább a fele szavazatát teljes bizonyító erejű magánokiratba foglalja, és az SzMSz-ben meghatározott időtartamon, de legfeljebb 8 napon belül megküldi a pénztár székhelyére.
+(5) Az igazgatótanács ülés megtartása nélkül távbeszélőn, elektronikus levélben (e-mail) is hozhat érvényes határozatot, ha az igazgatótanácsi tagok SzMSz-ben meghatározott hányada, de legalább a fele szavazatát teljes bizonyító erejű magánokiratba foglalja, és az SzMSz-ben meghatározott időtartamon, de legfeljebb 8 napon belül megküldi a pénztár székhelyére.
 
 (6) Az igazgatótanács ülése határozatképes, ha azon a tagoknak legalább a fele jelen van.
 
@@ -892,7 +892,7 @@ felelősségi és összeférhetetlenségi szabályok
 
 (6) Az önkéntes nyugdíjpénztár által működtetett magánnyugdíjpénztár éves és hosszú távú pénzügyi tervének megfelelő alátámasztottsággal és részletezettséggel tartalmaznia kell a magánnyugdíjpénztár működtetésével összefüggésben felmerült költségek (közös költségek) összegét, és a pénztárak közötti megosztásának elveit, módszereit (a megosztás során használt vetítési alapot és annak számítási módját).
 
-54. §
+#### 54. §
 
 55. § (1) A Felügyelet a tevékenységi engedélyezési eljárás, valamint az ellenőrzés során megvizsgálja a pénztár pénzügyi tervét.
 
@@ -1433,7 +1433,7 @@ befektetési eszközök kezelése
 
 ### VI/A. Fejezet — Panaszkezelés
 
-77/C. § (1) A pénztár biztosítja, hogy a pénztártag a pénztár magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+77/C. § (1) A pénztár biztosítja, hogy a pénztártag a pénztár magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) A pénztár
 
@@ -1455,7 +1455,7 @@ befektetési eszközök kezelése
 
 (9) A pénztár a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
-(10) A pénztár a pénztártagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénztár a panaszkezelési szabályzatban tájékoztatja a pénztártagot a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
+(10) A pénztár a pénztártagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénztár a panaszkezelési szabályzatban tájékoztatja a pénztártagot a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról.
 
 (11) A pénztár az ügyfelek panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
 
@@ -1624,7 +1624,7 @@ MEGSZŰNÉSE
 
 ### Ágazatok szétválása
 
-81/A. §
+#### 81/A. §
 
 81/B. § (1) Tevékenységi engedéllyel rendelkező vegyes nyugdíjpénztár ágazatai szétválhatnak, és az egyes ágazatok külön-külön önálló jogi személyként működhetnek tovább (ágazatok szétválása). A vegyes pénztár önkéntes nyugdíjpénztári ágazatának valamennyi joga és kötelezettsége általános jogutódként a létrejövő önkéntes nyugdíjpénztárat illeti, illetve terheli. A vegyes pénztár magánnyugdíjpénztári ágazatának valamennyi joga és kötelezettsége általános jogutódként az újonnan létrejövő magánnyugdíjpénztárat illeti, illetve terheli.
 
@@ -1755,7 +1755,7 @@ MEGSZŰNÉSE
 
 (5) Az Alap a befagyott követelés kifizetését a követelés befagyását követő 30 napon belül kezdi meg. Ha az Alap tagjával szemben felszámolási eljárást kezdeményeztek, az Alapot terhelő kifizetést a bíróság felszámolást elrendelő végzésének közzétételét követő 15 napon belül kell megkezdeni.
 
-(6) Az Alap köteles egy országos napilapban és a Magyar Közlönyben közzétenni az igényérvényesítés legelső napját, helyét és módját, továbbá a kifizetés teljesítésével megbízott szervezet nevét.
+(6) Az Alap köteles a pénztár és a Felügyelet honlapján és a Magyar Közlönyben közzétenni az igényérvényesítés legelső napját, helyét és módját, továbbá a kifizetés teljesítésével megbízott szervezet nevét.
 
 (7) A felszámolás alatt álló pénztár járadékos tagja számára az Alap a járadék teljes összegének folyósítását garantálja. Minden más esetben az Alap garanciája a felszámolás kezdő időpontjában, vagy a tag kérésére, a felszámolás kezdő időpontját megelőző üzleti évről készített éves beszámoló mérleg-fordulónapján, a tag követelésének összegéig áll fenn.
 
@@ -1918,7 +1918,7 @@ MEGSZŰNÉSE
 
 (3) Az Alapból történő kizárás nem érinti a tagság fennállása alatt keletkezett követelésekért való helytállást.
 
-(4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s erről haladéktalanul, legkésőbb nyolc napon belül 2 országos napilapban hirdetményt tesz közzé.
+(4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s ezt haladéktalanul, legkésőbb nyolc napon belül a pénztár és a Felügyelet honlapján közzéteszi.
 
 ### XI. Fejezet — A pénztárak állami felügyelete
 
@@ -1930,11 +1930,11 @@ MEGSZŰNÉSE
 
 102. § A Felügyelet hatáskörét és jogállását külön törvény határozza meg.
 
-103. §
+#### 103. §
 
-103/A. §
+#### 103/A. §
 
-103/B. §
+#### 103/B. §
 
 ### Kinevezési jogkörök
 
@@ -1956,7 +1956,7 @@ MEGSZŰNÉSE
 
 ### Összeférhetetlenség
 
-105. §
+#### 105. §
 
 ### A Felügyelet feladatai
 
@@ -1993,7 +1993,7 @@ MEGSZŰNÉSE
 
 ### Felügyeleti ellenőrzés
 
-109. §
+#### 109. §
 
 109/A. § (1) A pénztár és a szolgáltató a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesít.
 
@@ -2009,11 +2009,11 @@ MEGSZŰNÉSE
 
 109/C. § A pénztár és a szolgáltató köteles a Felügyelet számára a ellenőrzést lehetővé tenni, illetőleg segíteni, biztosítva a vizsgálathoz szükséges adatokhoz, információkhoz való hozzáférést.
 
-109/D. §
+#### 109/D. §
 
-109/E. §
+#### 109/E. §
 
-109/F. §
+#### 109/F. §
 
 109/G. § A Felügyelet információs rendszert működtet, amelyen keresztül közvetlen kapcsolatban áll a pénztárak, az Alap információs rendszerével. A közös információs adatbázis adataira vonatkozó részletes szabályokat kormányrendelet állapítja meg.
 
@@ -2052,9 +2052,9 @@ MEGSZŰNÉSE
 
 (5) A pénztár jogosult a (4) bekezdésben meghatározott határozat indokolását is közzétenni. Az indokolás közzététele során a pénztári és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell, a pénztár mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
 112/A. § (1) A Felügyelet határozott időtartamra, legfeljebb 180 napra kifizetési tilalmat rendelhet el, ha a pénztár megsérti a pénztártevékenységre vonatkozó jogszabályokat, vagy a Felügyelet intézkedésének nem tesz eleget, és ezáltal veszélyezteti a pénztártagok érdekeit, illetve a pénztárvagyon biztonságát. A Felügyelet a kifizetési tilalom időtartamát egy alkalommal, legfeljebb 180 nappal meghosszabbíthatja.
 
@@ -2130,7 +2130,7 @@ MEGSZŰNÉSE
 
 117. § E törvény a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen a nyilvánosságra hozatalra vonatkozó rendelkezéseinek, valamint az e törvény végrehajtására a 134. § (1) bekezdésének f) pontjában foglalt felhatalmazás alapján kiadott jogszabály nyilvánosságra hozandó adatokra vonatkozó rendelkezéseinek megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el az ott meghatározott szabályok szerint, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint.
 
-118. §
+#### 118. §
 
 ### A Felügyelet adatkezelése
 
@@ -2140,15 +2140,15 @@ MEGSZŰNÉSE
 
 (3)
 
-120. §
+#### 120. §
 
-120/A. §
+#### 120/A. §
 
-120/B. §
+#### 120/B. §
 
 ### XII. Fejezet — A PÉNZTÁRTANÁCS
 
-121. §
+#### 121. §
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2216,21 +2216,21 @@ MEGSZŰNÉSE
 
 123/C. § A pénztártagok jogosultak a választható portfoliós rendszer bevezetését megelőzően egy alkalommal kérni a pénztártól a 68/A. § (4) bekezdésétől eltérő portfolióba történő sorolásukat, amennyiben erre vonatkozó kérelmük a pénztárhoz a választható portfoliós rendszer bevezetését megelőző 30. napig beérkezett. A pénztár köteles a pénztártagokat fenti kérelmük alapján az általuk választott portfolióba átsorolni. A választható portfoliós rendszer 2007. január 1-jei bevezetése esetén a 2007. január 31-ig beérkezett kérelmeknek megfelelően kell a besorolást elvégezni. A választható portfoliós rendszer 2007. január 1-jét követő időponttól való bevezetése esetén a bevezetés időpontját úgy kell meghatározni, hogy a bevezetést megelőzően a pénztártagok által kért besorolásra meghatározott határidő teljesíthető legyen.
 
-124. §
+#### 124. §
 
 125. § Az Alap garanciális feladata nem terjed ki azon befizetési kötelezettségekből származó kifizetésekre, amelyek után az Alap tagjai a garanciadíjat nem fizették meg.
 
 126. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 83. § (1a) bekezdését először 2015. szeptember 30-át követően kell az ezt megelőző hat hónap vonatkozásában alkalmazni.
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
-129. §
+#### 129. §
 
-130. §
+#### 130. §
 
-131. §
+#### 131. §
 
 131/A. § A Felügyelet a Pénztárak Központi Nyilvántartása vezetése feladatának megszűnésére tekintettel a Pénztárak Központi Nyilvántartása adatállományát 2013. január 15-ig átadja az Országos Nyugdíjbiztosítási Főigazgatóság részére, amely azt jogszabályban foglalt feladatai ellátásához és a társadalombiztosítási egyéni számla kialakításához használja fel.
 
@@ -2289,7 +2289,7 @@ MEGSZŰNÉSE
 - a)
 - b) az Alap igazgatósága által elrendelhető rendkívüli fizetési kötelezettség szabályait és legmagasabb mértékét.
 
-134/A. §
+#### 134/A. §
 
 135. § Felhatalmazást kap a Felügyelet elnöke, hogy a pénztári tagsági jogviszony létesítésére irányuló belépési nyilatkozat megtétele előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 

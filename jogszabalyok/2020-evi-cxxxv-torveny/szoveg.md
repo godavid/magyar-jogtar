@@ -136,7 +136,7 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 
 - a) a foglalkoztatott személy
   - aa) természetes személyazonosító adatait, állampolgárságát,
-  - ab) bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
+  - ab) huzamos tartózkodási jogosultságát, menekült vagy oltalmazott jogállását,
   - ac) lakóhelyét, tartózkodási helyét és értesítési címét,
   - ad) foglalkozását, munkahelyét, munkakörét (tevékenységét),
   - ae) heti munkaidejét,

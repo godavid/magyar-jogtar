@@ -267,23 +267,72 @@ határozza meg.
 
 ### III. Fejezet — KIBERBIZTONSÁGI FELÜGYELET
 
-#### 7.
+#### 7. A kiberbiztonsági felügyelettel érintettek köre
 
-#### 17. §
+17. § (1) Az e fejezetben foglaltakat
 
-#### 18. §
+- a) az 1. melléklet szerinti kiemelten kockázatos ágazatokban működő szolgáltatók és szervezetek, valamint
+- b) a 2. melléklet szerinti kockázatos ágazatokban működő szolgáltatók és szervezetek
+
+(a továbbiakban együtt: érintett szervezet) elektronikus információs rendszereire kell alkalmazni.
+
+(2) Az e fejezetben foglalt szabályokat nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti mikro- és kisvállalkozásokra, kivéve, ha az érintett szervezet
+
+- a) elektronikus hírközlési szolgáltató,
+- b) bizalmi szolgáltató,
+- c) DNS-szolgáltatást nyújtó szolgáltató,
+- d) legfelső szintű domainnév-nyilvántartó vagy
+- e) domainnév-regisztrációt végző szolgáltató.
+
+(3) Az e fejezetben foglalt szabályokat nem kell alkalmazni az érintett szervezeteknek az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti honvédelmi célú elektronikus információs rendszereire és hálózataira.
+
+18. § Az e fejezetben foglalt szabályokat nem kell alkalmazni az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti európai vagy nemzeti létfontosságú rendszerelemmé – a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján – kijelölt rendszerelemeknek a létfontosságú tevékenységben közreműködő elektronikus információs rendszereinek, illetve az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet hatálya alá tartozó programozható rendszerek védelmére.
 
 #### 8. Alapvető követelmények
 
-#### 19. §
+19. § (1) Az érintett szervezet a kiberfenyegetések által okozható károk mértékével arányos módon köteles gondoskodni az elektronikus információs rendszerei és azok fizikai környezetének a biztonságáról.
 
-#### 20. §
+(2) Az (1) bekezdés szerinti biztonság magában foglalja az elektronikus információs rendszerek, valamint fizikai környezetük védelmét minden olyan eseménytől, amely veszélyeztetheti
+
+- a) a tárolt, továbbított vagy feldolgozott adatok, információk, vagy
+- b) az elektronikus információs rendszerek által nyújtott vagy azon keresztül elérhető szolgáltatások
+
+bizalmasságát, sértetlenségét és rendelkezésre állását.
+
+(3) A (2) bekezdésben meghatározott védelemnek ki kell terjednie:
+
+- a) az információbiztonsági irányítás rendszerére,
+- b) az elektronikus információs rendszerek kockázatainak feltárására és kezelésére,
+- c) a kockázatok csökkentésére irányuló, a szervezet kockázatelemzésében rendszerenként meghatározandó biztonsági osztálynak megfelelő adminisztratív, logikai és fizikai intézkedések alkalmazására,
+- d) a biztonsági események megelőzésére, felismerésére, kezelésére és hatásainak csökkentésére,
+- e) az üzletmenet folytonosság biztosítására és
+- f) az elektronikus információs rendszerek és az ezek által használt szoftver és hardver termékek beszerzésére, fejlesztésére, és üzemeltetésére.
+
+(4) Ha az érintett szervezet az elektronikus információs rendszer létrehozásában, üzemeltetésében, karbantartásában vagy javításában közreműködőt vesz igénybe, a (3) bekezdés szerinti követelményeknek a közreműködő esetében is teljesülniük kell.
+
+(5) Az érintett szervezet vezetője köteles gondoskodni arról, hogy az (1)–(3) bekezdés szerinti követelményeket a (4) bekezdés szerinti közreműködő tekintetében szerződésbe foglalják.
+
+(6) Az érintett szervezet vezetője
+
+- a) meghatározza az elektronikus információs rendszerek biztonságáért felelős személy feladatait és felelősségi körét,
+- b) meghatározza az elektronikus információs rendszerek felhasználóira vonatkozó szabályokat, és
+- c) gondoskodik a szervezet munkatársai rendszeres információbiztonsági képzéséről és ismereteinek szinten tartásáról.
+
+20. § (1) Az érintett szervezet köteles az elektronikus információs rendszereket, valamint az azon tárolt, továbbított vagy feldolgozott adatokat a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletében meghatározott szempontrendszer alapján biztonsági osztályba sorolni.
+
+(2) A biztonsági osztályba sorolás eredményeként a bizalmasság, a sértetlenség, a rendelkezésre állás sérülésének kockázata alapján „alap”, „jelentős” vagy „magas” biztonsági osztályt kell alkalmazni.
+
+(3) Az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedéseket a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.
+
+(4) A 19. § (1)–(4) bekezdésében meghatározott egyes követelményeknek való megfelelés igazolására – ha rendelkezésre áll – európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termék, IKT-szolgáltatás vagy IKT-folyamat alkalmazható.
+
+(5) Az SZTFH elnökének rendeletében meghatározott érintett szervezetek kötelesek az európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított, az SZTFH elnökének rendeletében meghatározott IKT-terméket, IKT-szolgáltatást vagy IKT-folyamatot használni.
 
 #### 21. §
 
 #### 9. Kiberbiztonsági felügyeleti eszközök
 
-22. § (1)
+22. § (1) A 19. §-ban és a 20. §-ban foglalt követelmények tekintetében az érintett szervezetek, valamint azok elektronikus információs rendszerei kiberbiztonsági felügyeletét az SZTFH látja el.
 
 (2)
 
@@ -301,19 +350,24 @@ határozza meg.
 
 (9)
 
-23. § (1)
+23. § (1) Az érintett szervezet az e törvény szerinti kiberbiztonsági követelményeknek való megfelelés bizonyítására köteles kétévente a tevékenység végzésére jogosult, független auditor (a továbbiakban: auditor) által kiberbiztonsági auditot végeztetni.
 
 (2)
 
 (3)
 
-(4)
+(4) Kiberbiztonsági auditot az az auditor végezhet, amely a feladat ellátásához szükséges szakértelemmel és infrastrukturális feltételekkel rendelkezik, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetnek minősül. Az auditorral szemben támasztott követelményeket az SZTFH elnöke rendeletben határozza meg.
 
 (5)
 
-(6)
+(6) Az audit végrehajtására jogosult gazdálkodó szervezetekről az SZTFH nyilvántartást vezet az SZTFH elnökének rendeletében foglaltak szerint.
 
-(7)
+(7) A nyilvántartás tartalmazza:
+
+- a) az auditor adatait és annak kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, valamint elektronikus levelezési címét,
+- b) az auditor – nyilvántartásba vételekor kapott – azonosító számát,
+- c) az auditor által igénybe vett közreműködő adatait, valamint kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, elektronikus levelezési címét, és
+- d) az audit eredményét tartalmazó dokumentumot.
 
 (8)
 
@@ -321,9 +375,9 @@ határozza meg.
 
 (10)
 
-(11)
+(11) Az auditor köteles szabályzatban rögzíteni azokat a munkaköröket, amelyeket betöltő személyek az audit során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az auditban részt vevő személyeket az audit során tudomásukra jutott személyes adatok, valamint üzleti titok tekintetében titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig, személyes adatok tekintetében pedig időkorlát nélkül fennmarad.
 
-(12)
+(12) Az e fejezet szerinti kiberbiztonsági audit nem érinti a más jogszabály által előírt tanúsítási kötelezettséget.
 
 (13)
 
@@ -331,7 +385,29 @@ határozza meg.
 
 #### 25. §
 
-#### 26. §
+26. § (1) Az SZTFH az SZTFH elnökének rendeletében foglaltak szerint az érintett szervezetekről nyilvántartást vezet, amely tartalmazza:
+
+- a) az érintett szervezet azonosításához szükséges adatokat,
+- b) ha az érintett szervezet nem az Európai Unióban letelepedett szervezet, de Magyarországon belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
+- c) az elektronikus információs rendszer biztonságáért felelős személy természetes személyazonosító adatait, telefonszámát és elektronikus levelezési címét, valamint
+- d) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(2) Az érintett szervezet a működése megkezdését követő 30 napon belül az (1) bekezdésben meghatározott adatokat megküldi az SZTFH részére a nyilvántartásba vétel érdekében.
+
+(3) Az érintett szervezet köteles
+
+- a) a nyilvántartásba vételét követő 120 napon belül a 23. § (1) bekezdése szerinti kiberbiztonsági audit elvégzésére a 23. § (6) bekezdése szerinti nyilvántartásban szereplő auditorral megállapodást kötni, és
+- b) a 23. § (1) bekezdése szerinti kiberbiztonsági auditot első alkalommal a nyilvántartásba vételét követő két éven belül elvégeztetni.
+
+(4) Az érintett szervezet az (1) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül megküldi a nyilvántartásba vétel érdekében.
+
+(5) Az (1) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben meghatározott hatósági feladatokat ellátó szervezetek, valamint eseménykezelő központok részére végezhető.
+
+(6) Az SZTFH, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti hatóságok közötti együttműködés és adatszolgáltatás rendjére vonatkozó részletes szabályokat a Kormány rendeletben határozza meg.
+
+(7) Ha az érintett szervezet e törvény hatálya alá tartozó tevékenységet már nem végez, akkor az (1) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
+
+(8) Ha az (1) bekezdés szerinti adatok változását az érintett szervezet bejelenti, akkor az eredeti adatokat az SZTFH az adat változása bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
 #### 10.
 
@@ -358,11 +434,11 @@ határozza meg.
 - a) a 4. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat,
 - b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
 - c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket,
-- d)
+- d) a 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket,
 - e)
-- f)
+- f) az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat,
 - g)
-- h)
+- h) az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket,
 - i)
 - j)
 
@@ -371,9 +447,9 @@ határozza meg.
 - a) az adópolitikáért felelős miniszterrel egyetértésben a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat, valamint
 - b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségértékelő szervezetekkel szemben támasztott követelményeket.
 
-(5)
+(5) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben meghatározza a biztonsági osztályba sorolás követelményeit, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedéseket.
 
-(6)
+(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az (5) bekezdés szerinti rendeletet az SZTFH elnöke véleményének kikérését követően adja ki.
 
 #### 12. Hatályba léptető rendelkezések
 
@@ -387,15 +463,15 @@ határozza meg.
 
 #### 13. Átmeneti rendelkezések
 
-30. § (1)
+30. § (1) Az az érintett szervezet, amely 2024. január 1-je előtt megkezdte működését, a 26. § (1) bekezdésében meghatározott adatokat első alkalommal 2024. június 30-ig küldi meg az SZTFH-nak a nyilvántartásba vétel érdekében.
 
-(2)
+(2) Az az érintett szervezet, amely 2024. január 1-je előtt megkezdte működését, a 20. § (3) bekezdése szerinti, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletében meghatározott konkrét védelmi intézkedéseket 2024. október 18-tól alkalmazza.
 
 (3)
 
-(4)
+(4) Az az érintett szervezet, amely 2024. október 18-a előtt megkezdte működését, a 26. § (3) bekezdés a) pontja szerinti kötelezettséget legkésőbb 2024. december 31-ig köteles teljesíteni.
 
-(5)
+(5) Az az érintett szervezet, amely 2024. január 1-je előtt megkezdte működését, a 23. § szerinti első kiberbiztonsági auditot 2025. december 31-ig köteles elvégeztetni.
 
 #### 14. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -435,11 +511,19 @@ határozza meg.
 
 #### 39. §
 
-#### 40. §
+40. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 1. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+
+[A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)]
+
+„h) nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügyelettel”
+
+[kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.]
 
 #### 41. §
 
-#### 42. §
+42. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait, továbbá a Kibertan.tv. hatálya alá tartozó érintett szervezetek, valamint azok elektronikus információs rendszerei kiberbiztonsági felügyeletét.”
 
 #### 43. §
 
@@ -451,7 +535,11 @@ határozza meg.
 
 #### 47. §
 
-#### 48. §
+48. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § q) pontja helyébe a következő rendelkezés lép:
+
+(A Hatóság elnöke)
+
+„q) megállapítja – a Kibertan.tv. 4. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével – a Kibertan.tv. szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat, továbbá meghatározza – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a nemzeti kiberbiztonsági tanúsítási rendszereket, a Kibertan.tv. 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket, az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, az auditorok nyilvántartásba vételi eljárásának rendjét, valamint az auditorral szemben támasztott követelményeket,”
 
 #### 49. §
 
@@ -461,4 +549,51 @@ határozza meg.
 
 ### 1. melléklet a 2023. évi XXIII. törvényhez
 
+#### Kiemelten kockázatos ágazatokban működő szolgáltatók és szervezetek
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | Ágazat | Alágazat | Szervezet |
+| 2 | Energetika | Villamos energia | a villamos energiáról szóló törvény szerinti villamosenergia-ipari vállalkozás a közvilágítási üzemeltetési engedélyes kivételével, |
+| 3 | Távfűtés és hűtés | a távhőszolgáltatásról szóló törvény szerinti engedélyes, |
+| 4 | Kőolaj | a bányászatról szóló törvény szerinti a) szénhidrogén szállítóvezetéket létesítő és üzemben tartó engedélyes, b) a kőolajfeldolgozásban, tárolásban használt létesítmény üzemeltetője, |
+| 5 | a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló törvény szerinti központi készletező szervezet, |
+| 6 | Földgáz | – az egyablakos kapacitásértékesítő, a szervezett földgázpiaci engedélyes és a vezetékes PB-gáz szolgáltató kivételével – a földgázellátásról szóló törvény szerinti engedélyes tevékenységet folytató földgázipari vállalkozás, |
+| 7 | Hidrogén | a hidrogéntermelés, -tárolás és -szállítás üzemeltetője, |
+| 8 | Közlekedés | Légi közlekedés | a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló kormányrendelet szerinti légiközlekedés védelmében közreműködő szervezet, |
+| 9 | Vasúti közlekedés | a vasúti közlekedésről szóló törvény szerinti vasúti pályahálózat működtetője – a saját célú vasúti pályahálózatok, iparvágányok kivételével –, a vállalkozó vasúti társaság, a vasúti pályakapacitás-elosztó szervezet, |
+| 10 | Közúti közlekedés | a közúti közlekedésről szóló törvény felhatalmazása alapján kiadott rendelet szerinti a) intelligens közúti közlekedési rendszerek üzemeltetését végző szolgáltató, b) forgalomirányítást végző szervezet, |
+| 11 | Vízi közlekedés | a víziközlekedésről szóló törvény szerinti hajózási tevékenység folytatásában részt vevő jogi személy, jogi személyiséggel nem rendelkező gazdálkodó szervezet, |
+| 12 | Tömegközlekedés | a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti közszolgáltató szervezet, |
+| 13 | Egészségügy |  | az egészségügyről szóló törvény szerinti egészségügyi szolgáltató, magas biztonsági szintű biológiai laboratóriumok üzemeltetője, egészségügyi tartalékokat és vérkészleteket kezelő szervezet, gyógyszerek kutatásával és fejlesztésével foglalkozó szervezet, gyógyszeripari alaptermékeket és gyógyszerkészítményeket gyártó szervezet,gyógyszer-nagykereskedő, népegészségügyi szükséghelyzet kritikus fontosságú eszközeinek jegyzékén szereplő kritikus fontosságú orvostechnikai eszközt gyártó szervezet, az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv 79. cikke szerinti nagykereskedelmi forgalmazási engedélyek birtokában lévő szervezet, |
+| 14 | Ivóvíz, szennyvíz | Víziközmű szolgáltatás | a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató, |
+| 15 | Hírközlési szolgáltatás |  | az elektronikus hírközlésről szóló törvény szerinti a) elektronikus hírközlési szolgáltató, b) adatkicserélő szolgáltatást nyújtó szolgáltató, |
+| 16 | az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti bizalmi szolgáltató, |
+| 17 | Digitális infrastruktúra |  | a felhőszolgáltató, |
+| 18 | adatközponti szolgáltatást nyújtó szolgáltató, |
+| 19 | legfelső szintű domainnév-nyilvántartó, |
+| 20 | a DNS-szolgáltató, |
+| 21 | tartalomszolgáltató hálózat szolgáltatója, |
+| 22 | Kihelyezett IKT szolgáltatások |  | a) kihelyezett (irányított) infokommunikációs szolgáltatást nyújtó szolgáltató, b) kihelyezett (irányított) infokommunikációs biztonsági szolgáltatást nyújtó szolgáltató, |
+| 23 | Űralapú szolgáltatás |  | űralapú szolgáltatások nyújtását támogató földi infrastruktúra üzemeltető |
+
 ### 2. melléklet a 2023. évi XXIII. törvényhez
+
+#### Kockázatos ágazatokban működő szolgáltatók és szervezetek
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | Ágazat | Alágazat | Entitás típusa |
+| 2 | Postai és futárszolgálatok |  | a postai szolgáltatásokról szóló törvény szerinti postai szolgáltató, |
+| 3 | Élelmiszer előállítása, feldolgozása és forgalmazása |  | az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerint élelmiszer-vállalkozás, |
+| 4 | Hulladékgazdálkodás |  | a hulladékról szóló törvény szerinti tevékenységet végző, |
+| 5 | Vegyszerek előállítása és forgalmazása |  | a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikke szerinti gyártó, forgalmazó, |
+| 6 | Gyártás | Orvostechnikai eszközök és in vitro diagnosztikai orvostechnikai eszközök gyártása | az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikkének 1. pontjában meghatározott orvostechnikai eszközöket, valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017 április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 2. cikkének 2. pontjában meghatározott in vitro diagnosztikai orvostechnikai eszközöket gyártó szervezet, kivéve a népegészségügyi szükséghelyzet kritikus fontosságú eszközeinek jegyzékén szereplő kritikus fontosságú orvostechnikai eszközöket gyártó szervezet, |
+| 7 | Számítógép, elektronikai, optikai termék gyártása | a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 26. ágazata szerinti „Számítógép, elektronikai, optikai termék gyártása” tevékenységet végző gazdálkodó szervezet, |
+| 8 | Villamos berendezések gyártása | a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 27. ágazata szerinti „Villamos berendezés gyártása” tevékenységet végző gazdálkodó szervezet, |
+| 9 | Máshova nem sorolt gépek és berendezések gyártása | a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 28. ágazata szerinti „Gép, gépi berendezés gyártása” tevékenységet végző gazdálkodó szervezet, |
+| 10 | Gépjárművek, pótkocsik és félpótkocsik gyártása | a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 29. ágazata szerinti „Közúti jármű gyártása” tevékenységet végző gazdálkodó szervezet, |
+| 11 | Egyéb szállítóeszközök gyártása | a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 30. ágazata szerinti „Egyéb jármű gyártása” tevékenységet végző gazdálkodó szervezet, |
+| 12 | Cement-, mész-, gipszgyártás | a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet 23.5 alágazata szerinti „Cement-, mész-, gipszgyártás” tevékenységet végző gazdálkodó szervezet, |
+| 13 | Digitális szolgáltatók |  | a) az online-piactér szolgáltatója, b) a 2001. évi CVIII. törvény szerinti keresőszolgáltató, c) közösségi média szolgáltatási platform szolgáltatója, d) domainnév regisztrációt végző szolgáltató, |
+| 14 | Kutatás |  | kutatóhely |

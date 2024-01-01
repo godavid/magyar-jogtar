@@ -59,6 +59,8 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - b) a Központi Adatfeldolgozó, feltéve, hogy abban az Integrációs Szervezet, vagy annak tagja a Hpt. szerinti befolyásoló részesedéssel rendelkezik, továbbá
 - c) azok a szervezetek, amelyben az Integrációs Szervezet, vagy annak tagja többségi befolyással rendelkezik.
 
+(8) Az Integrációs Szervezet hitelintézet tagja, volt tagja, vagy jogutódja jogosult a 2022. április 1. előtt forgalmazott, a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény szerinti keretszerződését kivezetni a vonatkozó szerződés és általános szerződési feltételek 17/U. § (7) bekezdés szerinti módosításával abból a célból, hogy az érintett ügyfél vonatkozásában a módosítás időpontjában a hitelintézet által forgalmazott más keretszerződés szerződési feltételei váljanak alkalmazandóvá a szerződési feltételek modernizációja és digitális transzformációja érdekében (e § alkalmazásában a továbbiakban: termékmodernizáció). A termékmodernizáció érdekében történő módosítás során kizárólag a 17/U. § (7)–(9) bekezdésében foglaltak alkalmazandóak azzal az eltéréssel, hogy a módosítással nem változik meg az ügyfél hátrányára a számlavezetés díja, a fizetési megbízások díja (az éves díjkimutatás összehasonlíthatósága alapján), a készpénz-helyettesítő fizető eszköz rendelkezésre bocsátásának éves díja, és a Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján forintban történő készpénzfelvétel hitelintézet által hirdetményben meghatározott díja.
+
 1/A. § E törvény célja:
 
 - a) az egyetemlegesség alapján működő vidék bankjának a létrehozása, amelynek egyes tagjai lehetőleg helyi magántulajdonosok és amely központi professzionális irányítással biztosítja a hatékony és méretgazdaságos működést,
@@ -422,7 +424,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 11/F. § (1) Az Integrációs Szervezetből az Integrációs Szervezet tagjai – ide nem értve a Holding Szövetkezetet – e törvény rendelkezései szerint, valamint az Integrációs Szervezet alapszabályának megfelelően léphetnek ki.
 
-(2) Az Integrációs Szervezetből kilépni kívánó tag a kilépési szándéknyilatkozat benyújtásával egyidejűleg az Integrációs Szervezet részére köteles megfizetni azt az összeget, amely a Központi Adatfeldolgozónak az utolsó elfogadott éves beszámolója szerinti teljes aktivált eszközállományának és a kilépni kívánó tag mérlegfőösszegének az egyetemleges felelősség mellett működő összes integrációs tag mérlegfőösszegéhez viszonyított arányában kerül megállapításra. Az Integrációs Szervezet a megfizetett összeget letétként kezeli a tagság megszűnéséig. A tagság megszűnésének időpontjában a megfizetett összeg – az Integrációs Szervezettel való elszámolást követően – a Központi Adatfeldolgozót illeti meg. Ha a kilépési szándéknyilatkozat visszavonásra kerül, a letét összegét az Integrációs Szervezet visszafizeti a tag részére.
+(2)
 
 (3)
 
@@ -1017,10 +1019,62 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 21/B. § Felhatalmazást kap a Kormány, hogy a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés c) pontjában kapott felhatalmazással összhangban az Integrációs Szervezet mint kötelező intézményvédelmi szervezet beszámolókészítési és könyvvezetési kötelezettségét és sajátosságait kormányrendeletben szabályozza.
 
-21/C. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben határozza meg az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályait.
+#### 21/C. §
 
 #### 11.
 
-#### 22–48. §
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
 
 ### 1. melléklet a 2013. évi CXXXV. törvényhez

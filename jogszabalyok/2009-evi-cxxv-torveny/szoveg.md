@@ -30,7 +30,7 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 
 ### Térítésmentes jelnyelvi tolmácsszolgáltatás
 
-4. § (1) Térítésmentes jelnyelvi tolmácsszolgáltatást az a magyar állampolgársággal, vagy a szabad mozgás és tartózkodás jogával rendelkező, valamint bevándorolt és letelepedett hallássérült, illetve siketvak személy vehet igénybe,
+4. § (1) Térítésmentes jelnyelvi tolmácsszolgáltatást az a magyar állampolgársággal, vagy a szabad mozgás és tartózkodás jogával rendelkező, valamint huzamos tartózkodási jogosultsággal rendelkező hallássérült, illetve siketvak személy vehet igénybe,
 
 - a) aki magasabb összegű családi pótlékban részesül, vagy
 - b) aki fogyatékossági támogatásban részesül, vagy

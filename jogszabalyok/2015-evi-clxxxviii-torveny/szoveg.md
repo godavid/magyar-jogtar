@@ -15,7 +15,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - e) központi szerv: a nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős, a Kormány által rendeletben kijelölt központi államigazgatási szerv,
 - f) technikai kapcsoló szám: az adatközlésre kötelezett szerv által képzett olyan alfanumerikus azonosító, amelynek célja a polgár természetes személyazonosító adatainak, valamint arcképmásának az arckép profil adataihoz történő hozzárendelése,
 - g) arcképelemző tevékenység: az arcképelemző rendszer informatikai jellegű összehasonlító elemzésén alapuló, az elemzést végző személy elemző és kiértékelő tevékenységével kapcsolatos eljárások összessége,
-- h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait, a menekültügyi nyilvántartást és a központi útiokmány-nyilvántartást vezető szerv, valamint a bűnügyi nyilvántartó szerv,
+- h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti résznyilvántartásait, a menekültügyi nyilvántartást és a központi útiokmány-nyilvántartást vezető szerv, valamint a bűnügyi nyilvántartó szerv,
 - i) nyilvántartás: az arcképelemzési nyilvántartás,
 - j) arckép profil nyilvántartás: az adatközlésre kötelezett szerv által átadott arcképmásból képzett arckép profilt, az ahhoz rendelt technikai kapcsoló számot és a metaadatokat tartalmazó hatósági nyilvántartás,
 - k) igénybevételre jogosult szerv: az arcképelemző tevékenység igénybevételére jogosult szerv,
@@ -57,7 +57,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - j) rendkívüli halál esetén, illetve ismeretlen személyazonosságú holttest azonosítása érdekében folytatott közigazgatási eljárás során az ismeretlen személyazonosságú holttest, valamint az ismeretlen személyazonosságú személyek álló- vagy mozgófelvételek, rajzok alapján történő azonosítása,
 - k) a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvényben (a továbbiakban: Tvdt.) a Tanúvédelmi Szolgálat részére meghatározott feladatok ellátása,
 - l) az államhatár átlépésére jelentkező személyek személyazonosságának megállapítása,
-- m) a Harmtv. alapján harmadik országbeli állampolgárnak minősülő személy személyazonosságának idegenrendészeti eljárás keretében történő megállapítása,
+- m) a Btátv. alapján harmadik országbeli állampolgárnak minősülő személy személyazonosságának idegenrendészeti eljárás keretében történő megállapítása,
 - n) a menedékjogról szóló törvény hatálya alá tartozó személyek személyazonosságának megállapítása, valamint
 - o) a magyar állampolgárság megszerzésére irányuló eljárás során a kérelmező személyazonosságának megállapítása,
 - p) a rendőri intézkedéssel érintett személyek személyazonosságának megállapítása, ellenőrzése,
@@ -72,10 +72,10 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 4. § (1) Az arckép profil nyilvántartás tartalmazza
 
 - a) a személyiadat- és lakcímnyilvántartásban tárolt arcképmásból képzett arckép profilokat,
-- b) a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
-- c) a központi idegenrendészeti nyilvántartásnak a Harmtv. 96. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
-- d) a központi idegenrendészeti nyilvántartásnak a Harmtv. 98. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
-- e) a központi idegenrendészeti nyilvántartásnak a Harmtv. 99. § szerinti résznyilvántartásaiban tárolt arcképmásból képzett arckép profilokat,
+- b) a központi idegenrendészeti nyilvántartásnak a Btátv. 254. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
+- c) a központi idegenrendészeti nyilvántartásnak a Btátv. 256. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
+- d) a központi idegenrendészeti nyilvántartásnak a Btátv. 258. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
+- e) a központi idegenrendészeti nyilvántartásnak a Btátv. 259. § szerinti résznyilvántartásaiban tárolt arcképmásból képzett arckép profilokat,
 - f) a menekültügyi nyilvántartásban tárolt arcképmásból képzett arckép profilokat,
 - g) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok útiokmány-nyilvántartásban tárolt arcképmásából képzett arckép profilokat, valamint
 - h) a bűnügyi nyilvántartási rendszer részét képező személyazonosító adatok és fényképek nyilvántartásában tárolt fényképek közül a szemből készített arcképmásból képzett arckép profilokat,
@@ -425,9 +425,9 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 15. § (1) A központi szerv a polgár tájékoztatásával és személyes adataihoz való hozzáférési jogának gyakorlásával összefüggő feladatait az adatközlésre kötelezett szerv igénybevételével látja el.
 
-(2) A polgár személyes adataihoz való hozzáférési jogának gyakorlása iránti kérelmet a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást vagy a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szervhez, illetve a bűnügyi nyilvántartó szervhez kell benyújtani. A kérelemben kifejezetten meg kell jelölni, hogy az a központi szerv általi adatkezelésre és adattovábbításra vonatkozik.
+(2) A polgár személyes adataihoz való hozzáférési jogának gyakorlása iránti kérelmet a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást vagy a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szervhez, illetve a bűnügyi nyilvántartó szervhez kell benyújtani. A kérelemben kifejezetten meg kell jelölni, hogy az a központi szerv általi adatkezelésre és adattovábbításra vonatkozik.
 
-(3) A benyújtást követő öt napon belül a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv megvizsgálja a kérelmet, és ha a kérelmezővel összefüggésben technikai kapcsoló számot kezel, a kérelem benyújtásának tényéről a központi szervet értesíti. Ezzel egyidejűleg megküldi a központi szerv részére a kérelmező általa kezelt technikai kapcsoló számát.
+(3) A benyújtást követő öt napon belül a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv megvizsgálja a kérelmet, és ha a kérelmezővel összefüggésben technikai kapcsoló számot kezel, a kérelem benyújtásának tényéről a központi szervet értesíti. Ezzel egyidejűleg megküldi a központi szerv részére a kérelmező általa kezelt technikai kapcsoló számát.
 
 (4) A polgár személyes adataihoz való hozzáférési jogának gyakorlására irányuló kérelem teljesítése során az adattovábbításra vonatkozó információk közlése a külön törvényben meghatározottak szerint megtagadható, illetve korlátozható.
 
@@ -437,11 +437,11 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (7) A tájékoztatás megtagadását írásban kell indokolni, kivéve, ha az indokolás a (4) bekezdésben meghatározott korlátozás alapjául szolgáló valamely érdek érvényesülését veszélyezteti, valamint tájékoztatni kell a polgárt a rendelkezésére álló jogorvoslati lehetőségekről.
 
-(8) A központi szerv a kérelem benyújtásának tényéről szóló értesítés kézhezvételét követő 15 napon belül, a vizsgálat eredményének megfelelően, a polgár részére történő továbbítás céljából, a technikai kapcsoló számmal összefüggő adattovábbításra vonatkozó adatokat, illetve a tájékoztatási jog korlátozásának fennállása esetén a (6) bekezdésben foglaltakat – a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, illetve a bűnügyi nyilvántartó szerv által meg nem ismerhető módon – az értesítésnek megfelelően megküldi a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv részére.
+(8) A központi szerv a kérelem benyújtásának tényéről szóló értesítés kézhezvételét követő 15 napon belül, a vizsgálat eredményének megfelelően, a polgár részére történő továbbítás céljából, a technikai kapcsoló számmal összefüggő adattovábbításra vonatkozó adatokat, illetve a tájékoztatási jog korlátozásának fennállása esetén a (6) bekezdésben foglaltakat – a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, illetve a bűnügyi nyilvántartó szerv által meg nem ismerhető módon – az értesítésnek megfelelően megküldi a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv részére.
 
-(9) A (8) bekezdés szerinti tájékoztatást a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv továbbítja a polgárnak az annak kézhezvételét követő 10 napon belül.
+(9) A (8) bekezdés szerinti tájékoztatást a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv továbbítja a polgárnak az annak kézhezvételét követő 10 napon belül.
 
-(10) Ha a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv a (3) bekezdés szerinti vizsgálata eredményeképpen azt állapítja meg, hogy a kérelmezővel összefüggésben technikai kapcsoló számot nem kezel, úgy erről, valamint a polgár tájékoztatásának e § szerinti szabályairól tájékoztatja a kérelmezőt.
+(10) Ha a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv a (3) bekezdés szerinti vizsgálata eredményeképpen azt állapítja meg, hogy a kérelmezővel összefüggésben technikai kapcsoló számot nem kezel, úgy erről, valamint a polgár tájékoztatásának e § szerinti szabályairól tájékoztatja a kérelmezőt.
 
 #### 12. Adattovábbítási nyilvántartás
 
@@ -485,9 +485,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (2) A menekültügyi nyilvántartást vezető szerv a menekültügyi nyilvántartásban kezelt arcképmást és az ahhoz rendelt technikai kapcsoló számot az arckép profil létrehozása és az e törvény szerinti nyilvántartásba vétele céljából a központi szervnek az (1) bekezdés szerinti eljárást követő 30 napon belül továbbítja.
 
-21. § (1) Az e törvény hatálybalépését követő 15 napon belül a központi idegenrendészeti nyilvántartást vezető szerv az e törvényben meghatározottak szerint a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartásaiban kezelt arcképmáshoz rendelten technikai kapcsoló számot képez.
-
-(2) A központi idegenrendészeti nyilvántartást vezető szerv a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartásaiban kezelt arcképmást és az ahhoz rendelt technikai kapcsoló számot az arckép profil létrehozása és az e törvény szerinti nyilvántartásba vétele céljából a központi szervnek az (1) bekezdés szerinti eljárást követő 30 napon belül továbbítja.
+#### 21. §
 
 21/A. § (1) A bűnügyi nyilvántartó szerv 2022. április 15-ig az e törvényben meghatározottak szerint a bűnügyi nyilvántartási rendszerben kezelt, szemből készített arcképmáshoz rendelten technikai kapcsoló számot képez.
 

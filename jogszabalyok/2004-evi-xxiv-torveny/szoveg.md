@@ -81,6 +81,7 @@ a lőfegyverekről és lőszerekről
 - 49. a tűzfegyver kategóriájának, illetve alkategóriájának a megváltozását eredményező átalakítás: olyan tevékenység, amelynek az eredményeként a tűzfegyvernek a kizárólag az 1. melléklet szerinti valamely kategóriára, illetve alkategóriára jellemző tulajdonsága a kizárólag az 1. melléklet szerinti valamely másik kategóriára, illetve alkategóriára jellemző tulajdonságra változik;
 - 50. egyedi jóváhagyást igénylő lőfegyver: az a lőfegyver, amelynek az engedély nélküli megszerzését és tartását, illetve amelyre nézve az adott tevékenység engedély nélküli végzését e törvény kizárja;
 - 51. működőképes lőfegyver: a 16. pontban meghatározott légfegyver, valamint a 29. pont b)–d) alpontjában meghatározott tűzfegyver kivételével a tűzfegyver.
+- 52. a lőfegyverhez (tűzfegyverhez) tartozó (használható) lőszer: kaliberjelére való tekintet nélkül a jogszerűen tartott lőfegyverhez (tűzfegyverhez) rendeltetésszerűen használható lőszer, ha annak a lőfegyverrel (tűzfegyverrel) – az engedélyezett célra – történő együttes használatát a jogszabály nem zárja ki.
 
 ### A HATÓSÁGI ENGEDÉLYEZÉS SZABÁLYAI
 

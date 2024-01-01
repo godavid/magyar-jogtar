@@ -239,21 +239,11 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 (3) A végrehajtó a természetes személy adós lakóingatlanának folyamatos árverezése iránti hirdetménye kapcsán a lakóingatlanra érkező vételi ajánlatot tenni kívánó árverező felhasználói nevének és jelszavának aktiválása iránt legkorábban a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 15. napon intézkedhet.
 
-#### 19. Az elektronikus úton megkötött pénzügyi szolgáltatási szerződésekről
+#### 19.
 
-46. § (1) A felek által a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló 26/2020. (VIII. 25.) MNB rendelet szerinti auditált elektronikus hírközlő eszköz vagy elektronikus ügyfélazonosító és nyilatkozattételi rendszer (a továbbiakban együtt: elektronikus rendszer) útján megkötött pénzügyi szolgáltatási szerződés, továbbá a hitelintézet által a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 7. § (3) bekezdésének l) pontja alapján nyújtható szolgáltatásra irányuló szerződés és ezen szerződésekhez – ideértve a biztosítéki szerződéseket is – kapcsolódó jognyilatkozat (a továbbiakban együtt: jognyilatkozat) teljes bizonyító erejű magánokiratnak minősül.
+#### 46. §
 
-(2) Bírósági vagy hatósági eljárás esetén elektronikus rendszer útján megtett jognyilatkozatot a pénzügyi intézmény köteles a bíróság és a peres felek rendelkezésére bocsátani.
-
-(3) A (2) bekezdésben foglaltak elmulasztása esetén a pénzügyi intézménnyel szerződő fél (a továbbiakban: fél) az elektronikus rendszer útján megtett jognyilatkozatra vonatkozóan tett tényállítása valóságát vélelmezni kell.
-
-(4) Az elektronikus rendszer igénybevétele kiterjed a jognyilatkozat módosítására, megerősítésére, visszavonására, megtámadására, valamint az elektronikus rendszer útján megtett jognyilatkozat alapján létrejött jogviszony módosítására és megszüntetésére is.
-
-47. § (1) A jognyilatkozat megtételéhez az elektronikus rendszer akkor vehető igénybe, ha ahhoz a fél az elektronikus rendszer igénybevételének megkezdésekor kifejezetten hozzájárult és a fél ügyfél-átvilágítására szabályszerűen sor került.
-
-(2) Az elektronikus rendszer igénybevétele esetén a pénzügyi intézmény köteles a teljes kommunikációt és a továbbított adattartalmat rögzíteni és a fél kérésére a rendelkezésére bocsátani.
-
-(3) Ha a szerződő fél fogyasztó, a pénzügyi intézmény köteles az elektronikus rendszer igénybevételével megkötött szerződés egy példányát a fél rendelkezésére bocsátani.
+#### 47. §
 
 #### 20. A vállalkozások reorganizációja
 

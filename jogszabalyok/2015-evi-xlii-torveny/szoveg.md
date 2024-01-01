@@ -721,7 +721,7 @@ valamint kikéri a hivatásos állomány tagja szolgálati elöljárójának vé
 - c) a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél, vagy
 - d) a miniszter vagy a miniszter irányítása alá tartozó személy, szervezet tulajdonosi joggyakorlása alatt álló gazdasági társaságnál vagy annak leányvállalatánál
 
-meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
+meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
 
 (3) Hivatásos szolgálat kormányzati, rendvédelmi érdekből a rendvédelmi szerven kívül a következő szerveknél is teljesíthető:
 
@@ -923,13 +923,13 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 65. § (1) A hivatásos állomány tagját a miniszter az 51. § (2) bekezdésében meghatározott szervhez – beleegyezésével – határozott vagy határozatlan időre vezényelheti.
 
-(2) A miniszter az 51. § (2) bekezdésében meghatározott szervhez vezénylés elrendelésekor meghatározza, hogy a vezényelt szolgálati beosztást, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, kormánytisztviselői vagy – az 51. § (2) bekezdés d) pontja szerinti esetben – munkavállalói munkakört, illetve álláshelyet tölt be.
+(2) A miniszter az 51. § (2) bekezdésében meghatározott szervhez vezénylés elrendelésekor meghatározza, hogy a vezényelt szolgálati beosztást, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, kormánytisztviselői vagy – az 51. § (2) bekezdés d) pontja szerinti esetben – munkavállalói munkakört, illetve álláshelyet tölt be.
 
 (2a) Az (1) bekezdéstől eltérően a büntetés-végrehajtási szervezet hivatásos állományának tagját az 51. § (2) bekezdés c) pontjában meghatározott szervhez – beleegyezésével – az állományilletékes parancsnok vezényli, határozatlan időre. A (2) bekezdéstől eltérően a vezénylés csak szolgálati beosztás betöltésére történhet.
 
 (3) Az 51. § (2) bekezdésében meghatározott szervhez
 
-- a) kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti vagy munkavállalói munkakörbe, álláshelyre történő vezénylésre a más szervhez vezénylésre vonatkozó rendelkezéseket az e §-ban meghatározott eltéréssel,
+- a) kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti vagy munkavállalói munkakörbe, álláshelyre történő vezénylésre a más szervhez vezénylésre vonatkozó rendelkezéseket az e §-ban meghatározott eltéréssel,
 - b) szolgálati beosztás betöltésére vezénylésre az e §-ban és a 66. §-ban foglalt eltérésekkel
 
 kell alkalmazni.
@@ -1117,7 +1117,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 (3) A (2) bekezdés b) pontja szerinti összegről a munkáltatói jogkört gyakorló elöljárót annak kérelmére a nyugdíj-megállapító szerv tájékoztatja. A (2) bekezdés b) pontjában meghatározott illetmény emelésének mértéke megegyezik az öregségi nyugdíjemelés mértékével.
 
-(4) A nyugdíj előtti rendelkezési állományba helyezett illetményét a központi költségvetés a rendvédelmi szervnek megtéríti.
+(4)
 
 #### 47. Könnyített szolgálat
 
@@ -1579,7 +1579,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 (2) A hivatásos állomány tagját kérelmére a szolgálati viszony megszűnése után is tartalékállományban kell tartani a továbbfoglalkoztatás megkezdéséig, de legfeljebb egy évig, ha
 
 - a) a 86. § (2) bekezdés a) pontja alapján egészségi, pszichológiai vagy fizikai alkalmatlanság miatt mentették fel,
-- b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
+- b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
 - c) a felmentési idő lejártakor rendelkezik legalább huszonöt év tényleges szolgálati idővel.
 
 (3) A (2) bekezdés szerinti tartalékállományban tartás időtartamára a tartalékállományban tartott a felmentését megelőző havi illetménye 50%-ának, de legalább a minimálbérnek megfelelő összegű ideiglenes szolgálati járandóságra jogosult, feltéve, hogy az ideiglenes szolgálati járandóság kezdő napján más biztosítással járó jogviszonyban nem áll, és a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátásban – ide nem értve a Tny. szerinti hozzátartozói nyugellátásokat – nem részesül. A tartalékállomány időtartama társadalombiztosítási szempontból szolgálati időnek számít, a tartalékállományban tartott biztosítási jogviszonyban áll.
@@ -1616,7 +1616,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 94. § Ha törvény a tartalékállományba helyezettek vagy tartalékállományban tartottak foglalkoztatására járulékcsökkentési kedvezményt biztosít, vagy lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a 91–93. § szerint tartalékállományba helyezett vagy tartalékállományban tartott személyt foglalkoztatóra is alkalmazni kell.
 
-95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
+95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
 
 #### 57. Kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
 
@@ -1646,14 +1646,12 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 
 99. § (1) A szolgálati viszony megszűnése esetén a szolgálatteljesítés utolsó napján vagy legkésőbb az attól számított tizenöt napon belül a hivatásos állomány tagjával el kell számolni, ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a jogszabályban előírt igazolásokat.
 
-(2) A hivatásos állomány tagjának az (1) bekezdés szerint igazolást kell kiadni, amely tartalmazza
+(2) A szolgálati viszony megszűnésekor kiállításra kerülő foglalkoztatási igazolás a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 36/A. § (2) bekezdésében foglalt adatokon túl a hivatásos állomány tagja esetében tartalmazza
 
-- a) szolgálati viszonya megszűnésének jogcímét,
-- b) a rendvédelmi szervnél szolgálati viszonyban töltött idejét,
-- c) az illetményéből határozat vagy jogszabály alapján levonandó tartozását és ennek jogosultját, vagy azt, hogy ilyen tartozása nincs,
-- d) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát, valamint
-- e) a kifizetett végkielégítés összegét.
-- f) a szülői szabadság és az apasági szabadság kiadott tartamát, amely tartalmazza a korábbi munkáltató által, ezen jogcímeken kiadott szabadság tartamát is.
+- a) a rendvédelmi szervnél szolgálati viszonyban töltött idejét,
+- b) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát,
+- c) az egészségügyi szabadság tárgyévben igénybevett napjainak számát, valamint
+- d) az utolsó kifizetett jubileumi jutalom jogosultságára vonatkozó időadat és a kifizetés dátumát.
 
 99/A. § A szolgálati viszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és a hivatásos állomány tagja számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
@@ -2096,7 +2094,7 @@ elő kell írni. Ha a hivatásos állomány tagja az előírt képzési kötelez
 
 (4) A miniszter rendeletben állapítja meg a készenléti jellegű szolgálati beosztásoknak minősülő szolgálati beosztások körét.
 
-135. § (1) A szolgálatteljesítési idő a munkanapokra egyenlőtlenül is beosztható. A napi szolgálatteljesítési idő ilyen esetben sem lehet négy óránál rövidebb, és – a folyamatos ügyeleti szolgálat ellátására szervezett, az őr- és a készenléti jellegű szolgálati beosztásokat, valamint a (2) bekezdésben foglaltakat kivéve – tizenkét óránál hosszabb.
+135. § (1) A szolgálatteljesítési idő a munkanapokra egyenlőtlenül is beosztható. A napi szolgálatteljesítési idő ilyen esetben sem lehet négy óránál rövidebb, és – a folyamatos ügyeleti szolgálat ellátására szervezett, az őr- és a készenléti jellegű szolgálati beosztásokat, a (2) bekezdésben, valamint a 135/A. §-ban foglaltakat kivéve – tizenkét óránál hosszabb.
 
 (2) Az eligazítás, váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében a napi tizenkét órás szolgálatteljesítési idő legfeljebb harminc perccel meghosszabbítható a hivatásos állomány egy vagy többhavi szolgálatteljesítési időkeretben foglalkoztatott tagjánál, ha a szolgálatteljesítést naponta azonos helyen két fő egymás utáni beosztásával rendelik el.
 
@@ -2110,7 +2108,7 @@ elő kell írni. Ha a hivatásos állomány tagja az előírt képzési kötelez
 
 135/A. § (1) A 135. § (1) bekezdésétől eltérően tizenkét órát meghaladó, de tizenhat óránál nem hosszabb napi szolgálatteljesítési idő határozható meg
 
-- a) a folyamatos szolgálatteljesítést igénylő, folyamatos beavatkozási vagy intézkedési feladatok ellátására rendszeresített, továbbá a részben vagy egészben készenléti jellegű szolgálati beosztásokban,
+- a) a folyamatos szolgálatteljesítést igénylő, folyamatos beavatkozási vagy intézkedési feladatok ellátására rendszeresített szolgálati beosztásokban,
 - b) azokban a szolgálati beosztásokban, amelyeket olyan feladatokra rendszeresítettek, ahol a szolgálatteljesítési feladat ellátása időszakonként eltérő létszámot igényelhet, továbbá ahol a szolgálati feladatok rendes szolgálatteljesítés keretében történő ellátása előreláthatóan a hét bármely napján, annak bármely időpontjában szükségessé válhat.
 
 (2) Az (1) bekezdés szerinti szolgálatszervezés esetén a 134. § (1) bekezdésétől eltérően a heti szolgálatteljesítési idő meghaladhatja a heti negyven órát, de az alkalmazott szolgálati idő keretben heti átlagban a 48 órát nem haladhatja meg.
@@ -2220,7 +2218,7 @@ céljából.
 
 (8) Az önként vállalt túlszolgálat éves mértéke legfeljebb 150 óra, amelybe nem számít bele a 139. § (2)–(4) bekezdése szerinti időtartam.
 
-(9) Az önként vállalt túlszolgálat ellentételezéseként – a 140. § (3) bekezdésétől eltérően – a hivatásos állomány tagját díjazás illeti meg. Díjazásként az önként vállalt túlszolgálat időtartamára a kinevezés szerinti szolgálati beosztási illetmény alapulvételével számított távolléti díj 150%-a, pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlszolgálat esetén a távolléti díj 200%-a jár, amelyet a túlszolgálat pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
+(9) Az önként vállalt túlszolgálat ellentételezéseként – a 140. § (3) bekezdésétől eltérően – a hivatásos állomány tagját díjazás illeti meg. Díjazásként az önként vállalt túlszolgálat időtartamára a kinevezés szerinti szolgálati beosztási illetmény alapulvételével számított távolléti díj 150%-a, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlszolgálat esetén a távolléti díj 200%-a jár, amelyet a túlszolgálat pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
 
 (10) A hivatásos állomány tagja önként vállalt túlszolgálat vállalására nem kényszeríthető, jogos érdeke ezzel összefüggésben nem csorbítható, érdekérvényesítési lehetősége nem korlátozható.
 
@@ -2394,7 +2392,7 @@ teljesíti szolgálatát.
 - a) az anyát, ha egyévesnél fiatalabb, kórházi ápolás alatt álló gyermekét szoptatja,
 - b) a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő tagját, ha beteg gyermekét ápolja, a gyermek egyéves koráig,
 - c) a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő tagját,
-  - ca) ha az egyévesnél idősebb, de háromévesnél fiatalabb gyermekét ápolja évenként és gyermekenként nyolcvannégy naptári napon át,
+  - ca) ha az egyévesnél idősebb, de háromévesnél fiatalabb gyermekét ápolja évenként és gyermekenként nyolcvannégy, egyedülálló szülőnek százhatvannyolc naptári napon át,
   - cb) ha háromévesnél idősebb, de hatévesnél fiatalabb gyermekét ápolja évenként és gyermekenként negyvenkét, egyedülálló esetén nyolcvannégy naptári napon át,
   - cc) ha hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermekét ápolja évenként és gyermekenként tizennégy, egyedülálló esetén huszonnyolc naptári napon át,
 - d) a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő tagját a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén
@@ -2490,7 +2488,7 @@ teljesíti szolgálatát.
 
 152. § (1) A szolgálati érdekre figyelemmel a hivatásos állomány tagját megillető szabadságot a tárgyév február 28-áig elkészített szabadságolási terv alapján, a hivatásos állomány tagjának méltányolható igényeire is tekintettel kell kiadni.
 
-(2) A szabadság tartamának 50%-át egybefüggően, a 25%-át, de legalább tíz napot pedig a hivatásos állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a rendvédelmi szerv működőképességét ne veszélyeztesse. A rendvédelmi szerv az általa meghatározott szabadság kezdő napját harminc nappal előbb köteles közölni a hivatásos állomány tagjával.
+(2) A szabadság tartamának 50%-át egybefüggően, a 25%-át, de legalább tíz napot, valamint a 144. § (1) és (2) bekezdése szerinti pótszabadságot pedig a hivatásos állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a rendvédelmi szerv működőképességét ne veszélyeztesse. A rendvédelmi szerv az általa meghatározott szabadság kezdő napját harminc nappal előbb köteles közölni a hivatásos állomány tagjával.
 
 (3) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – az esedékesség évében kell kiadni. Szolgálati érdekből a szabadságot a tárgyévet követő év január 31-éig, kivételesen fontos szolgálati érdekből legkésőbb március 31-éig, a hivatásos állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni.
 
@@ -3832,7 +3830,7 @@ esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben 
 - c) e törvény hatálya alá tartozó másik rendvédelmi szervnél szolgálati viszonyban, közalkalmazotti, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban töltött időt,
 - d) a Magyar Honvédség hivatásos és szerződéses katonai állományában töltött időt,
 - e) az a) és b) pont alá nem tartozó költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban vagy közszolgálati jogviszonyban töltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
-- f) az a) és b) pont alá nem tartozó költségvetési szervnél közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti, bírói vagy ügyészi jogviszonyban eltöltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
+- f) az a) és b) pont alá nem tartozó költségvetési szervnél közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti, igazságügyi alkalmazotti, bírói vagy ügyészi jogviszonyban eltöltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
 - g) e törvény hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján elismert és beszámított időt
 - h) a sor- és tartalékos katonai szolgálatban eltöltött időt.
 - i) a Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogviszonyban és munkaviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban töltött időt.
@@ -3860,7 +3858,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (2) A szolgálati viszony szünetelésének időtartama hivatásos szolgálati időnek számít, ha a járulékfizetési kötelezettségnek eleget tettek.
 
-283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
+283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
 
 ### XXVII. Fejezet — A RENDVÉDELMI TISZTJELÖLT
 
@@ -3913,6 +3911,8 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 (3) Nem kell biztosítani a rendvédelmi tisztjelölt számára az (1) és (2) bekezdés szerinti foglalkoztatást, ha a hallgatói jogviszonya a 285. § (7) bekezdés szerinti próbaidő alatt szűnik meg, valamint ha a hallgatói jogviszonya a rendészeti alapfelkészítés teljesítésének hiányában szűnik meg.
 
 (4) Az (1) bekezdés szerinti rendvédelmi tisztjelölt esetében a 285. § (3) bekezdése szerint vállalt időtartamot a hallgatói jogviszony megszűnésétől kell számítani.
+
+(5) Az (1) és (2) bekezdés szerinti esetben a rendvédelmi tisztjelöltet a 285/C. § (1) bekezdés szerinti megtérítési kötelezettség nem terheli.
 
 285/C. § (1) Ha a rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonya próbaidő alatt, a 285/A. § (1) bekezdés b)–d) pontja, vagy 285/A. § (2) bekezdése alapján szűnik meg, a rendvédelmi tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a rendvédelmi tisztjelölti jogviszony megszűnését követő naptól esedékes.
 
@@ -4417,6 +4417,7 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső igazgatási jogviszony fenntartását jóváhagyta,
 - d) a vezetői kinevezés visszavonását követően munkakör részére nem biztosítható vagy a felajánlott munkakört nem fogadja el,
 - e) a más szervhez kirendelés megszűnése után részére a végzettségének, képzettségének megfelelő munkakör nem biztosítható vagy a részére felajánlott alacsonyabb munkakört nem fogadja el.
+- f) hivatása gyakorlására érdemtelen.
 
 (3) A rendvédelmi alkalmazott igazgatási jogviszonyát kérelmére felmentéssel meg kell szüntetni, ha legkésőbb az igazgatási jogviszony megszűnésének napjával rendelkezik a Tny. 18. § (2a)–(2d) bekezdése szerinti jogosultsági idővel.
 
@@ -4434,6 +4435,19 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 
 (6) Az igazgatási jogviszonyról történő lemondásnak kell tekinteni, ha a rendvédelmi alkalmazott az (5) bekezdés szerint felajánlott munkakört nem fogadja el.
 
+(7) Érdemtelenségnek minősül, ha a rendvédelmi alkalmazott a munkahelyén kívül olyan magatartást tanúsít, amely alkalmas arra, hogy az őt foglalkoztató rendvédelmi szerv jó hírnevét vagy a rendvédelmi szerv működésébe vetett bizalmat súlyosan rombolja.
+
+(8) Az érdemtelenség jogcímén történő felmentés jogát a rendvédelmi szerv
+
+- a) az ennek alapjául szolgáló ok tudomásszerzésétől számított harminc napon belül, legfeljebb azonban az annak bekövetkezését követő egy éven belül,
+- b) bűncselekmény elkövetése esetén a büntethetőség elévüléséig
+
+gyakorolhatja.
+
+(9) Az érdemtelenség megállapítására vonatkozó döntés meghozatala előtt a rendvédelmi alkalmazottnak lehetőséget kell adni a döntés alapjául szolgáló körülmények megismerésére és arra, hogy az arról való tájékoztatástól számított tizenöt napon belül védekezését előadhassa, bizonyítékait előterjeszthesse, kivéve, ha az eset összes körülményeiből következően az a rendvédelmi szervtől nem várható el.
+
+(10) Az érdemtelenség megállapítására vonatkozó eljárási szabályokat a miniszter rendeletben állapítja meg.
+
 288/G. § (1) Felmentés esetén a felmentési idő legalább két hónap, de a nyolc hónapot nem haladhatja meg. A rendvédelmi alkalmazott írásbeli kérelme alapján a felek ennél rövidebb időtartamban is megállapodhatnak.
 
 (2) A két hónapos felmentési idő az igazgatási jogviszonyban töltött
@@ -4447,7 +4461,11 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 
 meghosszabbodik. E tekintetben a 289/H. § szerinti szolgálati időt kell figyelembe venni.
 
-(3) Ha a rendvédelmi alkalmazott felmentésére kerül sor, felmentési idő nélkül kell megszüntetni az igazgatási jogviszonyát, ha a rendvédelmi alkalmazott nem felel meg a kifogástalan életvitel követelményének vagy nemzetbiztonsági szempontból alkalmatlanná vált.
+(3) Ha a rendvédelmi alkalmazott felmentésére kerül sor, felmentési idő nélkül kell megszüntetni az igazgatási jogviszonyát, ha a rendvédelmi alkalmazott
+
+- a) nem felel meg a kifogástalan életvitel követelményének,
+- b) nemzetbiztonsági szempontból alkalmatlanná vált, vagy
+- c) hivatása gyakorlására érdemtelen.
 
 (4) A felmentés időtartamának felére a rendvédelmi alkalmazottat a munkavégzési kötelezettség teljesítése alól mentesíteni kell. Indokolt esetben a munkáltatói jogkört gyakorló a rendvédelmi alkalmazottat a teljes felmentési időre mentesítheti a munkavégzési kötelezettség teljesítése alól.
 
@@ -4468,8 +4486,10 @@ időtartama alatt.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a rendvédelmi alkalmazottra, ha
 
-- a) nyugdíjasnak minősül, vagy
+- a) nyugdíjasnak minősül,
 - b) felmentését maga kérte.
+- c) a 288/F. § (2) bekezdés c) pontja alapján alkalmatlanná vált, vagy
+- d) a 288/F. § (2) bekezdés f) pontja alapján érdemtelen.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó. A felmentés közlésének az tekintendő, amikor a felmentésről szóló írásba foglalt munkáltatói intézkedést a rendvédelmi alkalmazottnak kézbesítették.
 
@@ -4512,6 +4532,7 @@ távolléti díjnak megfelelő összeg.
 - a) az igazgatási jogviszony megszűnésekor nyugdíjasnak minősül,
 - b) a felmentését maga kérte.
 - c) a felmentésére a kifogástalan életvitel követelményének való meg nem felelése vagy nemzetbiztonsági szempontból való alkalmatlansága miatt került sor.
+- d) a felmentésére azért került sor, mert hivatása gyakorlására érdemtelen.
 
 (6) Ha a rendvédelmi alkalmazott a munkavégzési kötelezettség teljesítése alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős foglalkoztatási jogviszonyt létesít,
 
@@ -4849,6 +4870,7 @@ eltöltött időt;
   - de) bírói szolgálati,
   - df) ügyészi szolgálati,
   - dg) egészségügyi szolgálati
+  - dh) köznevelési foglalkoztatotti
 
 jogviszonyban eltöltött időt;
 
@@ -4861,7 +4883,7 @@ jogviszonyban eltöltött időt.
 
 #### 115/Q. Munkaidő és pihenőidő
 
-289/I. § A rendvédelmi alkalmazottra a XII. Fejezet rendelkezései közül a 136–138/A. §-t, a 142. § (2) bekezdését, 144. § (4) bekezdését, a 149–151. §-t, a 152. § (9) bekezdést és a 153. §-t, valamint a 153/A. §-t megfelelően alkalmazni kell.
+289/I. § A rendvédelmi alkalmazottra a XII. Fejezet rendelkezései közül a 136–138/A. §-t, a 142. § (2) bekezdés alap- és pótszabadságra vonatkozó rendelkezését, 144. § (4) bekezdését, a 149–151. §-t, a 152. § (9) bekezdést és a 153. §-t, valamint a 153/A. §-t megfelelően alkalmazni kell.
 
 289/J. § (1) A munkáltatói jogkör gyakorlója a munkavégzés rendjét a rendvédelmi szerv által ellátott feladatok mennyiségéhez és határidejéhez igazodóan alakítja ki.
 
@@ -4943,7 +4965,7 @@ rendelhető el.
 
 (12) Az önként vállalt túlmunka éves mértéke legfeljebb 150 óra, amelybe nem számít bele a (8) bekezdés szerinti időtartam.
 
-(13) Az önként vállalt túlmunka ellentételezéseként – a 289/N. § (1)–(2) bekezdésétől eltérően – a rendvédelmi alkalmazottat díjazás illeti meg. Díjazásként az önként vállalt túlmunka időtartamára a távolléti díj 150%-a, pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlmunka esetén a távolléti díj 200%-a jár, amelyet a túlmunka pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
+(13) Az önként vállalt túlmunka ellentételezéseként – a 289/N. § (1)–(2) bekezdésétől eltérően – a rendvédelmi alkalmazottat díjazás illeti meg. Díjazásként az önként vállalt túlmunka időtartamára a távolléti díj 150%-a, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlmunka esetén a távolléti díj 200%-a jár, amelyet a túlmunka pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
 
 (14) A rendvédelmi alkalmazott önként vállalt túlmunka vállalására nem kényszeríthető, jogos érdeke ezzel összefüggésben nem csorbítható, érdekérvényesítési lehetősége nem korlátozható.
 
@@ -5135,7 +5157,12 @@ kell érteni.
 
 (3) Az alapszabadság felével a munkáltatói jogkör gyakorlója rendelkezik.
 
-(4) A munkáltatói jogkör gyakorlója évente tíz munkanap alapszabadságot, valamint a pótszabadságot – a próbaidőt kivéve – két részletben a rendvédelmi alkalmazott kérésének megfelelő időpontban köteles kiadni.
+(4) A munkáltatói jogkör gyakorlója
+
+- a) a próbaidőt kivéve az évente tíz munkanap alapszabadságot, valamint a pótszabadságot – a b) pont szerinti pótszabadság kivételével – két részletben,
+- b) a gyermek után járó pótszabadságot annak a 144. § (1) és (2) bekezdésében meghatározott mértéke erejéig
+
+a rendvédelmi alkalmazott kérésének megfelelő időpontban köteles kiadni.
 
 (5) A szabadságot kettőnél több részletben csak a rendvédelmi alkalmazott kérésére lehet kiadni.
 
@@ -5610,12 +5637,14 @@ egészségügyi tevékenységet végző személyre e törvényt az e fejezetben 
 - b) részére a 180. § (2) bekezdése szerinti tanácsosi és főtanácsosi címpótlék nem folyósítható, azonban a cím használatára jogosult,
 - c) besorolása, rendfokozata, szolgálati ideje e törvény szerint kerül megállapításra,
 - d) esetében nem alkalmazható a 160. §, a 6., 8. és 9. mellékletben foglalt, a beosztási illetményt meghatározó szorzószám és a 10. melléklet.
+- e) esetében az a) pont alapján figyelembe vett gyakorlati időhöz tartozó várakozási idő leteltét követő hónap első napjától kell az Eszjtv. 1. melléklet szerinti, eggyel magasabb fizetési fokozatot figyelembe venni az illetmény megállapítása során.
 
 (2) A rendvédelmi igazgatási szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
 
 - a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése és az Eszjtv. végrehajtásáról szóló kormányrendelet alapján részére meghatározott gyakorlati idő figyelembevételével,
 - b) esetében a 289/A. § nem alkalmazható azzal, hogy a rendvédelmi igazgatási szolgálati viszonyban álló e törvény szerinti fizetési fokozatát vezetni kell,
 - c) esetében nem alkalmazható a 289/D. § és a 12. melléklet.
+- d) esetében az a) pont alapján figyelembe vett gyakorlati időhöz tartozó várakozási idő leteltét követő hónap első napjától kell az Eszjtv. 1. melléklet szerinti, eggyel magasabb fizetési fokozat szerinti illetményt megállapítani.
 
 (3) Az (1) bekezdés a) pontja, illetve a (2) bekezdés a) pontja szerinti illetmény legfeljebb húsz százalékos mértékben növelhető, a szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 111–113. §, a rendvédelmi igazgatási szolgálati jogviszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 288/Q. § szerinti teljesítményértékelés alapján. Az ilyen módon megnövelt illetmény első alkalommal április hónapban folyósítható, utolsó alkalommal a tárgyévet követő év márciusában jár.
 
@@ -5656,7 +5685,7 @@ jogosult.
 - a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelembe venni,
 - b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
 
-(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–600%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
+(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–850%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
 
 - a) a betöltött szolgálati beosztást vagy munkakört,
 - b) az egészségügyi tevékenységhez szükséges szakképzettséget, valamint
@@ -5665,6 +5694,8 @@ jogosult.
 kell figyelembe venni.
 
 (4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében és az Eszjtv. végrehajtásáról szóló kormányrendeletben foglalt idők figyelembevételével kell megállapítani.
+
+(4a) Az egészségügyi feladatot ellátó szakdolgozó részére az (5) bekezdés szerinti miniszteri rendelet által meghatározott gyakorlati idő következő fokozata szerinti, magasabb szakdolgozói pótlékot a várakozási időt leteltét követő hónap első napjától kell megállapítani.
 
 (5) Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztást és munkakört a középfokú, emeltszintű és felsőfokú végzettséghez kötött szakdolgozói szolgálati beosztásba vagy munkakörbe kell besorolni. Az egészségügyi szakdolgozói pótlék megállapításához szükséges szakdolgozói végzettség szintjeit a miniszter rendeletben határozza meg.
 
@@ -5908,7 +5939,11 @@ az általános rendőrségi feladatok ellátására létrehozott szerv a hátral
 
 (10) Év közben kezdődő szerződéses jogviszony esetén a határvadász a betegszabadság arányos részére jogosult.
 
-319/L. § (1) A határvadász a szerződéses jogviszonya alapján alapilletményre, a (8) bekezdés szerinti pótlékra és határvadász szolgálati pótlékra jogosult. A határvadász szolgálati pótlék mértékét és folyósításának rendjét a rendészetért felelős miniszter rendeletben határozza meg.
+319/L. § (1) A határvadász a szerződéses jogviszonya alapján alapilletményre, a (8) bekezdés szerinti pótlékra, határvadász szolgálati pótlékra vagy kiemelt határvadász szolgálati pótlékra jogosult.
+
+(1a) A kiemelt határvadász szolgálati pótlék jelentős igénybevétellel járó határvadász feladatellátáshoz kapcsolódhat. A kiemelt határvadász szolgálati pótlékra jogosító szolgálati körülményeket és a folyósítás rendjét az országos parancsnok közjogi szervezetszabályozó eszközben határozza meg.
+
+(1b) A határvadász szolgálati pótlék mértékét és folyósításának rendjét, valamint a kiemelt határvadász szolgálati pótlék mértékét a rendészetért felelős miniszter rendeletben határozza meg.
 
 (2) Az illetményt száz forintra kerekítve kell megállapítani.
 
@@ -5954,7 +5989,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (2) Szenior állományba vételkor a szolgálati időt a szolgálati nyugállományba helyezéskor elismert hivatásos szolgálati idő alapján kell megállapítani.
 
-(3) A szenior állomány tagjának illetményét a központi költségvetés a rendvédelmi szervnek megtéríti.
+(3)
 
 322. § (1) A szenior állomány tagja – a (3) bekezdésben foglalt kivétellel – fegyver nélküli szolgálatot lát el.
 
@@ -6298,6 +6333,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - m) az egészségügyi és pszichológiai alapellátás igénybevételének módját.
 - n) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
 - o) az önként vállalt túlmunka vállalásának és elszámolásának rendjét.
+- p) az érdemtelenség megállapítására vonatkozó eljárási szabályokat.
 
 (2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
 
@@ -6338,7 +6374,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 14. a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel összefüggő szabályait, az alkalmazható szolgálati időrendszereket és azok kereteit,
 - 15. a túlszolgálat, valamint a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, valamint a nyilvántartás szabályait, továbbá a túlszolgálat elszámolásának és a túlszolgálatért járó szabadidő kiadásának rendjét,
 - 16. a szabadság nyilvántartásának és kiadásának rendjét, valamint a határvadászra irányadó munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját,
-- 17. az illetmény és pótlékok megállapításának és folyósításának rendjét,
+- 17. az illetmény és – a kiemelt határvadász szolgálati pótlék kivételével – a pótlékok megállapításának és folyósításának rendjét, továbbá a határvadász szolgálati pótlék és a kiemelt határvadász szolgálati pótlék mértékét,
 - 18. a juttatások, költségtérítések, kedvezmények, támogatások fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és visszatérítési kötelezettség esetén az elengedés részletes rendjét, a kedvezményes üdültetésben, az üdülési hozzájárulásban részesítés rendjét, feltételeit,
 - 19. a határvadász kiemelkedő munkavégzéséért vagy a feladatok hosszabb időn át történő eredményes végzéséért adható elismerésben részesítés feltételeit és rendjét,
 - 20. a természetbeni ellátás mértékét és feltételeit, az abban való részesítés, a megállapítás, a kifizetés, valamint a kiadás, az elszámolás, a visszatérítés rendjét,
@@ -7407,14 +7443,14 @@ Középfokú munkaköri osztályba tartozó munkakörökhöz tartozó munkaköri
 |  | A) | B) |
 | --- | --- | --- |
 | 1 | Alsó határ (Ft) | Felső határ (Ft) |
-| 2 | garantált bérminimum | 441 000 |
+| 2 | garantált bérminimum | 550 000 |
 
 „B” munkaköri kategória
 
 |  | A) | B) |
 | --- | --- | --- |
 | 1. | Alsó határ (Ft) | Felső határ (Ft) |
-| 2. | 350 000 | 583 000 |
+| 2. | 350 000 | 620 000 |
 
 Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
@@ -7423,36 +7459,36 @@ Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fok
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | garantált bérminimum | 310 000 |
-| 3. | 2 | 4 | 7 | garantált bérminimum | 341 000 |
-| 4. | 3 | 8 | 14 | garantált bérminimum | 373 000 |
-| 5. | 4 | 15 | 23 | 275 000 | 399 000 |
-| 6. | 5 | 24 | 34 | 300 000 | 425 000 |
-| 7. | 6 | 35 |  | 325 000 | 457 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 465 000 |
+| 3. | 2 | 4 | 7 | garantált bérminimum | 496 000 |
+| 4. | 3 | 8 | 14 | garantált bérminimum | 528 000 |
+| 5. | 4 | 15 | 23 | garantált bérminimum | 554 000 |
+| 6. | 5 | 24 | 34 | 300 000 | 580 000 |
+| 7. | 6 | 35 |  | 325 000 | 612 000 |
 
 „D” munkaköri kategória
 
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | garantált bérminimum | 378 000 |
-| 3. | 2 | 4 | 7 | 275 000 | 404 000 |
-| 4. | 3 | 8 | 14 | 300 000 | 420 000 |
-| 5. | 4 | 15 | 23 | 325 000 | 452 000 |
-| 6. | 5 | 24 | 34 | 340 000 | 483 000 |
-| 7. | 6 | 35 |  | 370 000 | 536 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 510 000 |
+| 3. | 2 | 4 | 7 | garantált bérminimum | 536 000 |
+| 4. | 3 | 8 | 14 | 300 000 | 552 000 |
+| 5. | 4 | 15 | 23 | 325 000 | 584 000 |
+| 6. | 5 | 24 | 34 | 340 000 | 615 000 |
+| 7. | 6 | 35 |  | 370 000 | 668 000 |
 
 „E” munkaköri kategória
 
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 290 000 | 420 000 |
-| 3. | 2 | 4 | 7 | 320 000 | 457 000 |
-| 4. | 3 | 8 | 14 | 350 000 | 494 000 |
-| 5. | 4 | 15 | 23 | 380 000 | 525 000 |
-| 6. | 5 | 24 | 34 | 410 000 | 562 000 |
-| 7. | 6 | 35 |  | 420 000 | 599 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 546 000 |
+| 3. | 2 | 4 | 7 | 320 000 | 583 000 |
+| 4. | 3 | 8 | 14 | 350 000 | 620 000 |
+| 5. | 4 | 15 | 23 | 380 000 | 651 000 |
+| 6. | 5 | 24 | 34 | 410 000 | 688 000 |
+| 7. | 6 | 35 |  | 420 000 | 725 000 |
 
 Felsőfokú tábla a felsőfokú végzettséget igénylő kiemelt munkaköri kategóriához tartozó alapilletmények alsó és felső határaihoz
 
@@ -7468,9 +7504,9 @@ Vezetői munkaköri osztály
 |  | A) | B) | C) |
 | --- | --- | --- | --- |
 | 1 | A vezetői munkaköri kategória megnevezése | A vezetői munkaköri kategória szerinti alapilletmény alsó határa (Ft) | A vezetői munkaköri kategória szerinti alapilletmény felső határa (Ft) |
-| 2 | Főigazgató | 850 000 | 1 166 000 |
-| 3 | Igazgató, főosztályvezető | 530 000 | 929 000 |
-| 4 | Osztályvezető | 420 000 | 814 000 |
+| 2 | Főigazgató | 850 000 | 1 283 000 |
+| 3 | Igazgató, főosztályvezető | 530 000 | 1 022 000 |
+| 4 | Osztályvezető | 420 000 | 900 000 |
 
 ### 13. melléklet a 2015. évi XLII. törvényhez
 

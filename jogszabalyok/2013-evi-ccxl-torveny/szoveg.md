@@ -4853,9 +4853,9 @@ kell végrehajtani.
 
 (4) Ha az elítélt szabadságvesztést vagy elzárást tölt, a várható szabadulása előtt harminc nappal a bv. intézet értesíti a székhelye szerint illetékes területi idegenrendészeti hatóságot.
 
-(5) A kiutasítást a területi idegenrendészeti hatóság a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvények rendelkezései szerint hajtja végre.
+(5) A kiutasítást a területi idegenrendészeti hatóság a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvények rendelkezései szerint hajtja végre.
 
-(6) A kiutasítás nem hajtható végre, ha a végrehajtásnak a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényekben meghatározott akadálya állapítható meg.
+(6) A kiutasítás nem hajtható végre, ha a végrehajtásnak a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényekben meghatározott akadálya állapítható meg.
 
 (7) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) alapján kiszabott határozatlan tartamú kiutasítás mellékbüntetés végrehajthatósága tíz év elteltével megszűnik, amely időpontot,
 
@@ -5946,7 +5946,7 @@ alapján fogadja be.
 
 (2) A Be. 299. § (2) bekezdésében és 688. § (4) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – a letartóztatás rendőrségi fogdában is végrehajtható.
 
-(2a) A Be. 830. § (6) és (8) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és a letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
+(2a) A Be. 830. § (6) és (8) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és a letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
 
 (3) Ha a letartóztatott pszichiátriai kezelése szükséges, de előzetes kényszergyógykezelésének elrendelésére nincs alap, a letartóztatást – a bíróság rendelkezése alapján – az IMEI-ben kell végrehajtani. A letartóztatás IMEI-ben történő végrehajtását a bíróság haladéktalanul megszünteti, ha az az IMEI szakorvosának véleménye vagy igazságügyi pszichiátriai szakértői vizsgálat alapján már nem indokolt.
 

@@ -469,6 +469,7 @@ az egyes fizetési szolgáltatókról
 - e) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy az államigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal;
 - f) más pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél könyvvizsgáló; vagy
 - g) olyan tisztséget tölt be, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
+- h) a közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (6) Akivel szemben
 
@@ -899,7 +900,7 @@ szemben.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
@@ -1064,7 +1065,7 @@ van összefüggésben.
 (6) Az utalványkibocsátó az (5) bekezdés szerinti tájékoztatást
 
 - a) az utalványelfogadó részére írásban, a szerződésben meghatározott módon küldi meg vagy teszi számára elérhetővé,
-- b) az utalványbirtokost érintő módosítás esetében a módosítás tényét és annak elérhetőségét legalább egy országos vagy regionális napilapban, a módosítás tartalmát a honlapján teszi közzé.
+- b) az utalványbirtokost érintő módosítás esetében a módosítás tartalmát a honlapján teszi közzé.
 
 (7) Az utalványkibocsátó a naptári év utolsó napján
 
@@ -1091,7 +1092,7 @@ legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi 
 
 (6) A panaszkezelés magyar nyelven történik, kivéve, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó és az ügyfél eltérő nyelvben állapodtak meg.
 
-70/A. § A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa nyújtott pénzügyi, kiegészítő pénzügyi szolgáltatását vagy annak körébe tartozó bármely résztevékenységét munkanapokon, előzetesen tervezetten, a Hpt.-ben a bankszünnap tartására vonatkozóan előírt feltételek szerint szüneteltetheti.
+70/A. § A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa nyújtott pénzügyi, kiegészítő pénzügyi szolgáltatását vagy annak körébe tartozó bármely résztevékenységét munkanapokon, előzetesen tervezetten, a Hpt.-ben a bankszünnap és az üzemszünet tartására vonatkozóan előírt feltételek szerint szüneteltetheti.
 
 #### 15. A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az utalványkibocsátó felügyelete
 

@@ -85,7 +85,7 @@ a Magyar Honvédség működésével kapcsolatos egyes törvények módosítás�
 - a)
 - b)
 - c)
-- d)
+- d) 112. §-a.
 
 #### 8. A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény módosítása
 

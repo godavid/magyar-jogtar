@@ -35,6 +35,10 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (1a) A kamara az (1) bekezdés szerinti vadászjegy és vadászati engedély kiállítására, illetve érvényesítésére irányuló eljárása során a kérelem előterjesztését honlapján keresztül, elektronikus úton is biztosítja.
 
+(1b) A kamara a vadgazdálkodásért felelős miniszterrel (a továbbiakban: miniszter) történt előzetes egyeztetést követően – a vadászati évet megelőző év december 31. napjáig – évente megállapítja és a honlapján közzéteszi a vadászjegy kiállításának és érvényesítésének, valamint a vadászati engedély kiállításának ellentételezéséért fizetendő díj mértékét.
+
+(1c) Az (1b) bekezdés szerinti díj mértékének megállapítása során a vadászati évet megelőző év július hónapjára irányadó, a Központi Statisztikai Hivatal által közzétett, fogyasztóiár-indexet két tizedesjegy pontossággal kell figyelembe venni.
+
 (2) A kamara hivatásos vadászok tagsági viszonyának megszüntetésével és kamarai nyilvántartásból való törlésével kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 2/B. § A 2/A. § (2) bekezdésében meghatározott közigazgatási hatósági eljárásokban fellebbezésnek van helye.
@@ -253,14 +257,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 14/A. § A vadászjegy adott vadászati évre vonatkozó érvényesítése minden év január 1-től kérelmezhető.
 
-15. § (1) A tagfelvételi kérelemben a kérelmezőnek nyilatkoznia kell arról, hogy
-
-- a) a kamarai tagsági díjat az alapszabályban meghatározott módon megfizeti,
-- b) a kamara alapszabályában foglaltakat magára nézve kötelezőnek elismeri.
-
-(2)
-
-(3)
+#### 15. §
 
 ### A tagsági viszony felfüggesztése
 
@@ -416,7 +413,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 ### VII. Fejezet — A KAMARA ÁLLAMI FELÜGYELETE
 
-26. § (1) A kamara törvényességi felügyeletét a vadgazdálkodásért felelős miniszter (a továbbiakban: miniszter) látja el.
+26. § (1) A kamara törvényességi felügyeletét a miniszter látja el.
 
 (2) Jogszabálysértés esetén – határidő tűzésével – a miniszter felhívja a kamara elnökét a jogszabálysértés megszüntetésére.
 
@@ -486,3 +483,5 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 40. § (1) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosításáról szóló 2016. évi CXIV. törvény (a továbbiakban: Módtv.) hatálybalépése előtt kiadott vadászjeggyel, de kamarai tagsággal nem rendelkező vadásznak a Módtv. hatálybalépésétől számított 30 napon belül a 14. § (1) bekezdés alapján be kell nyújtania a tagfelvételi kérelmét a kamara részére.
 
 (2) A kamara az (1) bekezdésben foglalt kötelezettségét elmulasztó vadász vadászjegyét visszavonja.
+
+41. § A 2/A. § (1b) bekezdése szerinti díjmérték-megállapításról a kamara első alkalommal a 2024. március 1. napjától kezdődő vadászati évre vonatkozóan – a 2/A. § (1c) bekezdésében foglaltak figyelembevételével – 2024. január 15. napjáig rendelkezik.

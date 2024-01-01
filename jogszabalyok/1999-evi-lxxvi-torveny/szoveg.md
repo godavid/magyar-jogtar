@@ -333,7 +333,7 @@ nyilvánosságra hozott mű
 
 (6) A szerző munkaviszonyból folyó kötelessége teljesítéseként megalkotott művel kapcsolatos jognyilatkozatokat írásba kell foglalni.
 
-(7) A munkaviszonyból folyó kötelesség teljesítéseképpen elkészített műre vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy, vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a művet.
+(7) A munkaviszonyból folyó kötelesség teljesítéseképpen elkészített műre vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy, vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a művet.
 
 ### A védelmi idő
 
@@ -1267,7 +1267,9 @@ információkat.
 82/B. § (1) A sajtókiadvány kiadójának hozzájárulása szükséges ahhoz, hogy a sajtókiadványt
 
 - a) vezeték útján vagy bármely más eszközzel vagy módon úgy tegyék a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhassák meg, és
-- b) az a) pont szerinti célból elektronikus úton többszörözzék, amennyiben a felhasználást az Ektv. 2. § k) pontja szerinti szolgáltató valósítja meg.
+- b) az a) pont szerinti célból elektronikus úton többszörözzék,
+
+amennyiben a felhasználást az Ektv. 2. § k) pontja szerinti szolgáltató valósítja meg.
 
 (2) A sajtókiadvány kiadóját az (1) bekezdésben meghatározott felhasználásokért – ha a törvény eltérően nem rendelkezik – díjazás illeti meg.
 

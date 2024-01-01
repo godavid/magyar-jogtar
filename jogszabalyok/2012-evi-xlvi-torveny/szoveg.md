@@ -142,7 +142,7 @@ végzése;
 - b) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatára és záradékolására irányuló eljárásért,
 - c) az ingatlanrendező földmérő minősítési eljárásáért,
 - d) a földmérő igazolvány kiadása iránti eljárásért,
-- e) a levegőből végzett távérzékelés engedélyezéséért és a távérzékelt adatok minősítési célú vizsgálatáért,
+- e)
 - f) a b) pont szerinti eljárás soron kívüli lefolytatásáért,
 - g) az alapponthálózati pontok pótlásának vagy áthelyezésének állami átvételéért,
 - h) a geodéziai tervezői, valamint a geodéziai szakértői minősítési eljárásért,

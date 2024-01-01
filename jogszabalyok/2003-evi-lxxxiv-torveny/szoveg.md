@@ -599,7 +599,7 @@ részt vehet.
 (3) Felhatalmazást kap a Kormány, hogy
 
 - a) az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó
-  - aa) egészségügyi szakdolgozói, egészségügyben dolgozói, valamint felsőfokú végzettséggel betölthető munkakörök körét, a munkakörbe sorolás és a béremeléssel összefüggő besorolás részletes szabályait,
+  - aa) egészségügyi szakdolgozói, egyes egészségügyben dolgozói, valamint felsőfokú végzettséggel betölthető munkakörök körét, a munkakörbe sorolás és a béremeléssel összefüggő besorolás részletes szabályait, a besorolás alapjául szolgáló alap és kiemelt fizetési osztályokat,
   - ab) az e törvényben foglalt feltételeknek megfelelő egészségügyi szolgáltató munkáltatók körét,
   - ac) ellátásokat és egészségügyi szolgáltatásokat,
 - b) a 30. §-ban meghatározott támogatás igénylési feltételeit és mértékét, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait, valamint az e törvényben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb rendelkezéseket

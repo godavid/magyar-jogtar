@@ -712,7 +712,7 @@ meghatározva a központosított beszerzés személyi feltételeit és tárgyát
   - a) nem az Európai Unió, az Európai Gazdasági Térség vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában, a Kereskedelmi Világszervezet közbeszerzési megállapodásban részes államban vagy az EUMSZ 198. cikkében említett tengerentúli országok és területek bármelyikében vagy nem olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, vagy amellyel az Európai Uniónak kétoldalú megállapodása van a közbeszerzés terén,
   - b) olyan társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
   - c) a gazdasági szereplőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy személyes joga szerint jogképes szervezet, amelynek tekintetében a b) alpont szerinti feltétel fennáll;
-- 13. harmadik országbeli állampolgár Magyarországon engedélyhez kötött foglalkoztatása esetén a foglalkoztatás-felügyeleti hatóság által a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény alapján két évnél nem régebben véglegessé vált közigazgatási – vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági – határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel vagy az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el,
+- 13. harmadik országbeli állampolgár Magyarországon engedélyhez kötött foglalkoztatása esetén a foglalkoztatás-felügyeleti hatóság által a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény alapján két évnél nem régebben véglegessé vált közigazgatási – vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági – határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel vagy az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el,
 - 14. esetében a 9. § szerinti összeférhetetlenségből, illetve a beszerzési eljárás előkészítésében való előzetes bevonásból eredő versenytorzulást a gazdasági szereplő kizárásán kívül nem lehet más, kevésbé kényszerítő intézkedésekkel hatékonyan orvosolni,
 - 15. a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem régebben meghozott – véglegessé vált és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat megtámadására irányuló közigazgatási per esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el; vagy ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság végleges döntésében vagy bíróság jogerősen – három évnél nem régebben – megállapította és egyúttal bírságot szabott ki,
 - 16. esetében az ajánlatkérő kellően megalapozott információval rendelkezik annak megállapításához, hogy az adott beszerzési eljárásban az ajánlattevő a Tpvt. 11. §-a, vagy az EUMSZ 101. cikkébe ütköző jogsértést követett el, kivéve, ha a gazdasági szereplő az ajánlat, tárgyalásos eljárásban és versenypárbeszédben végleges ajánlat benyújtását megelőzően a Gazdasági Versenyhivatal számára a Tpvt. 11. §-ába vagy az EUMSZ 101. cikkébe ütköző magatartást feltárja és a Tpvt. 78/A. § (2) bekezdésében foglalt, a bírság mellőzésére vonatkozó feltételek fennállását a Gazdasági Versenyhivatal a Tpvt. 78/C. § (2) bekezdése szerinti végzésében megállapította,
@@ -2377,7 +2377,9 @@ nem vehető jegyzékre.
 
 #### 86.
 
-#### 164–165. §
+#### 164. §
+
+#### 165. §
 
 #### 87.
 
@@ -2489,7 +2491,9 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 
 #### 96. Módosító rendelkezések
 
-#### 175–176. §
+#### 175. §
+
+#### 176. §
 
 177. § Az információs önrendelkezési jogról és az információszabadságról szóló 2001. évi CXII. törvény (a továbbiakban: Infotv.) 1. melléklete a 4. melléklet szerint módosul.
 

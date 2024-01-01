@@ -793,6 +793,8 @@ illeti meg.
 - i) az (1) bekezdésben és a g) pontban meghatározott feladatokkal összefüggő műveletek előkészítéséhez és végrehajtásához szükséges információs műveletek teljesítése,
 - j) közreműködés – a hatályos nemzetközi normák betartásával – a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokban.
 
+(2a) A Honvédség fegyverhasználati jog nélkül ellátja a köznevelési és szakképző intézményekben a honvédelmi nevelés-oktatás keretében az egyéb foglalkozás tartásához és a Honvédelem tantárgy oktatásához kapcsolódó feladatokat.
+
 (3) A Honvédség az (1) bekezdés g) pontja szerinti egyéb tűzszerészeti feladatokat és a (2) bekezdés b) pontjában meghatározott feladatot a Kormány rendeletében meghatározott térítés ellenében láthatja el.
 
 (4) Az (1) és a (2) bekezdés szerinti feladatok ellátásának veszélyeztetése nélkül, közérdekű célból, a honvédségi szervezet a rendelkezésére álló kapacitásai terhére a Kormány rendeletében meghatározottak szerint együttműködési megállapodást köthet.
@@ -1591,13 +1593,7 @@ rendelhető el.
 
 #### 58. Átmeneti rendelkezések
 
-112. § Ahol kormányrendelet, miniszteri rendelet, közjogi szervezetszabályozó eszköz vagy a 18. § szerinti belső rendelkezés
-
-- a) a Magyar Honvédség Parancsnokságát említi, azon a Honvéd Vezérkart,
-- b) a Magyar Honvédség parancsnokát vagy helyettesét említi, azon a Honvéd Vezérkar főnökét, illetve helyettesét,
-- c) a Magyar Honvédség Parancsnoksága törzsfőnökét említi, azon a Honvéd Vezérkar törzsigazgatóját
-
-kell érteni.
+#### 112. §
 
 #### 59. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

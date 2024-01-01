@@ -345,11 +345,13 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 19. § (1) A gazdálkodó tevékenységet folytató magánszemélyeknek, a jogi személyeknek tűzvédelmi szabályzatot kell készíteniük, ha
 
-- a) a munkavégzésben részt vevő családtagokkal együtt ötnél több munkavállalót foglalkoztatnak,
+- a) a munkavégzésben részt vevő családtagokkal együtt ötvennél több munkavállalót foglalkoztatnak,
 - b) az általuk üzemeltetett, bérelt épületrész, épület területén található olyan helyiség, amelynek a legnagyobb befogadóképessége meghaladja az 50 főt, vagy
-- c) kereskedelmi szálláshelyet üzemeltetnek.
+- c) 10 fő befogadóképességet meghaladó kereskedelmi szálláshelyet üzemeltetnek.
 
 (2) Az (1) bekezdésben felsoroltak kötelesek gondoskodni arról, hogy munkavállalóik, a munkavégzésben részt vevő családtagjaik a jogszabályokban meghatározott tűzvédelmi előírások szerint végezzék a tevékenységüket, valamint a tűzvédelmi szabályzatban foglaltakat megismerjék és betartsák.
+
+(2a) Az (1) bekezdésbe nem tartozó gazdálkodó tevékenységet folytató magánszemélyek, jogi személyek kötelesek a munkavállalóik, továbbá a munkavégzésben részt vevő családtagjaik részére elérhetővé tenni a katasztrófák elleni védekezésért felelős miniszter által rendeletben közzétett, általános tűzvédelmi szabályzatot (a továbbiakban: általános tűzvédelmi szabályzat).
 
 (3) Az (1) bekezdésben felsoroltaknak a tűzvédelem biztosításáról megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetve szolgáltatás igénybevételével kell gondoskodniuk, ha
 
@@ -360,6 +362,10 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
   - da) amelyben tömegtartózkodásra szolgáló helyiség található,
   - db) amely összesített befogadóképessége meghaladja az 500 főt, vagy
   - dc) amelyben menekülésben korlátozott személyek elhelyezése, ellátása, kezelése, nevelése, oktatása, gondozása történik és e személyek egyidejű létszáma meghaladja a 20 főt.
+
+(4) Nem kell tűzvédelmi szabályzatot készítenie az ingatlan bérlőjének, használójának, amennyiben az épület, épületrész üzemeltetője rendelkezik az épületre, épületrészre vonatkozó tűzvédelmi szabályzattal. Ebben az esetben az üzemeltető köteles a bérleti, használati szerződés megkötését követően a tűzvédelmi szabályzat egy példányát a bérlő, használó rendelkezésére bocsátani.
+
+(5) Az általános tűzvédelmi szabályzat hatálya bármely külön jogi aktus nélkül kiterjed a (2a) bekezdésben meghatározott, gazdálkodó tevékenységet folytató magánszemélyekre és jogi személyekre, kivéve, ha az érintett személyek magukra nézve egyedi tűzvédelmi szabályzatot fogadnak el.
 
 19/A. § A jogszabályban meghatározott lakó- és üdülőegységre vonatkozó tűzvédelmi előírásokat, a riasztás, a menekülés lehetséges módozatait, a tűzvédelmi eszközök használatára vonatkozó előírásokat az épületre vonatkozó tűzvédelmi használati szabályok tartalmazzák.
 
@@ -399,7 +405,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (2) Jogszabályban meghatározott foglalkozási ágakban és munkakörökben csak tűzvédelmi szakvizsgával rendelkező személy foglalkoztatható. A tűzvédelmi szakvizsgáztatást az adott foglalkozási ágra (munkakörre) képesítést adó oktatás (szaktanfolyam) keretében az oktatást végző köteles megszervezni.
 
-(3) A munkáltató köteles gondoskodni a munkavállalói, illetőleg a munkavégzésben részt vevő családtagjai évenkénti tűzvédelmi oktatásáról, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék.
+(3) A munkáltató köteles gondoskodni arról, hogy a munkavállalói, valamint a munkavégzésben részt vevő családtagjai a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt megismerjék. A katasztrófák elleni védekezésért felelős miniszter rendeletében kockázati osztályba sorolással meghatározza azon munkáltatókat, akik esetében évenkénti tűzvédelmi oktatást kell tartani.
 
 (4) A munkáltató azt a munkavállalót, illetőleg a munkavégzésben részt vevő családtagot, aki a tevékenységéhez szükséges tűzvédelmi ismeretekkel, illetőleg az előírt tűzvédelmi szakvizsgával nem rendelkezik, az adott tevékenységgel nem foglalkoztathatja.
 
@@ -791,13 +797,13 @@ kezeli.
 - 9. azon technikai eszközök körét, amelyek beszerzését a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium szervezésében vagy útján lehet igényelni és a beszerzés pályázati feltételeit,
 - 10. a tűzoltási, műszaki mentési és az ezekhez kapcsolódó tűzvédelmi technika tervezésének, fejlesztésének, rendszeresítésének, felülvizsgálatának és javításának követelményeit és ellenőrzési rendszerét,
 - 11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályait, a TMMT készítésével érintett létesítmények kiválasztására vonatkozó szabályokat, a TMMT tartalmi követelményeit.
-- 12. a tűzvédelmi szabályzat általános elveit, a tűzvédelmi használati szabályok tartalmi követelményeit és a tűzvédelmi használati szabályok készítésére kötelezettek körét, annak eseteit,
+- 12. a tűzvédelmi szabályzat általános elveit, a tűzvédelmi használati szabályok tartalmi követelményeit és a tűzvédelmi használati szabályok készítésére kötelezettek körét, annak eseteit, a rendszeres tűzvédelmi oktatásra kötelezettek körét,
 - 13. a tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi berendezések, tűzoltó szakfelszerelések rendeltetéstől eltérő használatának szabályait,
 - 14. a tűzoltóságok által végezhető szolgáltatások körét és szabályait,
 - 15. a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokat,
 - 16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék, építési termékek vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
 - 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
-- 18.
+- 18. az általános tűzvédelmi szabályzatot,
 - 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
 - 20.
 - 21.

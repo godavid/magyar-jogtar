@@ -2,7 +2,23 @@
 
 a szomszédos államokban élő magyarokról
 
-Az Országgyűlés– Magyarországnak a határon kívül élő magyarokért viselt felelőssége érvényesítésének érdekében, Magyarországgal való sokoldalú kapcsolataik ápolásának és fejlesztésének előmozdítása céljából,– figyelemmel Magyarországnak az Európai Unióhoz való csatlakozására, továbbá a nemzetközi szervezeteknek, különösen az Európa Tanácsnak az emberi jogok tiszteletben tartásával, a kisebbségi jogok védelmével kapcsolatos alapelveire,– tekintettel a nemzetközi jog általánosan elfogadott szabályaira és a Magyarország által vállalt nemzetközi jogi kötelezettségekre,– tekintettel a közép-európai térségen belüli partneri és jószomszédi viszonyra, különösen Magyarországnak a szomszédos államokkal a jószomszédi kapcsolatok és együttműködés, valamint a kisebbséghez tartozó személyek jogainak biztosítása tárgyában kötött kétoldalú nemzetközi szerződéseire, továbbá a regionális együttműködés fejlesztésére, Magyarország stabilizáló szerepének erősítésére,– a szomszédos államokban élő magyarságnak a szülőföldjén való boldogulásának, Magyarországgal való kapcsolatai fenntartásának, magyar nemzeti azonosságtudata megerősítésének, valamint a magyar kulturális örökséghez való kötődésének, mint a magyar nemzethez való tartozása kifejezésre juttatásának érdekében,– a Magyar Állandó Értekezlet – mint a szomszédos államokban élő magyar közösségek nemzeti önazonosság tudatának megőrzése és erősítése érdekében működő egyeztető testület – kezdeményezésére és javaslatai alapján,– a világ más részein a határon kívül élő magyar nemzetiségű személyek számára jogszabályban biztosított kedvezmények és támogatások érintése nélküla következő törvényt alkotja:
+Az Országgyűlés
+
+– Magyarországnak a határon kívül élő magyarokért viselt felelőssége érvényesítésének érdekében, Magyarországgal való sokoldalú kapcsolataik ápolásának és fejlesztésének előmozdítása céljából,
+
+– figyelemmel Magyarországnak az Európai Unióhoz való csatlakozására, továbbá a nemzetközi szervezeteknek, különösen az Európa Tanácsnak az emberi jogok tiszteletben tartásával, a kisebbségi jogok védelmével kapcsolatos alapelveire,
+
+– tekintettel a nemzetközi jog általánosan elfogadott szabályaira és a Magyarország által vállalt nemzetközi jogi kötelezettségekre,
+
+– tekintettel a közép-európai térségen belüli partneri és jószomszédi viszonyra, különösen Magyarországnak a szomszédos államokkal a jószomszédi kapcsolatok és együttműködés, valamint a kisebbséghez tartozó személyek jogainak biztosítása tárgyában kötött kétoldalú nemzetközi szerződéseire, továbbá a regionális együttműködés fejlesztésére, Magyarország stabilizáló szerepének erősítésére,
+
+– a szomszédos államokban élő magyarságnak a szülőföldjén való boldogulásának, Magyarországgal való kapcsolatai fenntartásának, magyar nemzeti azonosságtudata megerősítésének, valamint a magyar kulturális örökséghez való kötődésének, mint a magyar nemzethez való tartozása kifejezésre juttatásának érdekében,
+
+– a Magyar Állandó Értekezlet – mint a szomszédos államokban élő magyar közösségek nemzeti önazonosság tudatának megőrzése és erősítése érdekében működő egyeztető testület – kezdeményezésére és javaslatai alapján,
+
+– a világ más részein a határon kívül élő magyar nemzetiségű személyek számára jogszabályban biztosított kedvezmények és támogatások érintése nélkül
+
+a következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
@@ -14,7 +30,7 @@ Az Országgyűlés– Magyarországnak a határon kívül élő magyarokért vis
 
 - a) aki magyar állampolgárságát önként tett nyilatkozata alapján veszítette el;
 - b) akinek magyar állampolgárságát azért vonták vissza, mert azt csalárd módon szerezte meg;
-- c) aki Magyarország területén bevándorolt, letelepedett, menekült vagy menedékes jogállást szerzett.
+- c) aki Magyarország területén huzamos tartózkodási jogosultságot, illetve menekült vagy menedékes jogállást szerzett.
 
 2. § (1) A szülőföldön való megmaradást és gyarapodást, továbbá a kulturális és nyelvi azonosságtudat megőrzését Magyarország a törvény hatálya alatt álló, magát magyar nemzetiségűnek valló személyeknek vagy szervezeteiknek az e törvényben meghatározott kedvezmények nyújtásával és támogatások folyósításával kívánja elősegíteni.
 
@@ -61,7 +77,7 @@ Az Országgyűlés– Magyarországnak a határon kívül élő magyarokért vis
 
 ### Társadalombiztosítási ellátás és egészségügyi szolgáltatás
 
-7. §
+#### 7. §
 
 ### Utazási kedvezmények
 
@@ -83,7 +99,7 @@ Az Országgyűlés– Magyarországnak a határon kívül élő magyarokért vis
 
 ### Oktatás
 
-9. §
+#### 9. §
 
 ### Diákkedvezmények
 
@@ -123,9 +139,9 @@ Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a 
 
 ### Munkavállalás
 
-15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti harmadik országbeli állampolgárnak Magyarország területén történő munkavállalására a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.
+15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti harmadik országbeli állampolgárnak Magyarország területén történő munkavállalására a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.
 
-16. §
+#### 16. §
 
 ### A közszolgálati hírközlő szervek feladatai
 
@@ -215,7 +231,7 @@ Ezek az információk szolgálják
 (2) Az elbíráló hatóság az igazolványt visszavonja, ha
 
 - a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetve az igazolvány igénylése során; vagy
-- b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott; vagy
+- b) annak tulajdonosa huzamos tartózkodási jogosultságot kapott; vagy
 - c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
 - d) annak tulajdonosát a menekültügyi hatóság menekültként, menedékesként elismerte; vagy
 - e) annak tulajdonosát Magyarország területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
@@ -258,7 +274,7 @@ Ezek az információk szolgálják
 
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
-- a) a központi idegenrendészeti nyilvántartásból a kiutasításról, a beutazási és tartózkodási tilalom fennállásáról, a letelepedett vagy bevándorolt jogállás fennállásáról közvetlen hozzáféréssel;
+- a) a központi idegenrendészeti nyilvántartásból a kiutasításról, a beutazási és tartózkodási tilalom fennállásáról, a huzamos tartózkodási jogosultság fennállásáról közvetlen hozzáféréssel;
 - b) a személyiadat- és lakcímnyilvántartásból;
 - c) az állampolgársági ügyekben eljáró szervtől a magyar állampolgárság tekintetében;
 - d) a menekültügyi nyilvántartásból a menekült vagy menedékes jogállás fennállásáról közvetlen hozzáféréssel.
@@ -278,7 +294,7 @@ Ezek az információk szolgálják
 
 23. § Az e törvény szerinti kedvezményeket nyújtó állami fenntartású szervezetek és intézmények, valamint az utazási kedvezményeket nyújtó gazdálkodó szervezetek számára a kedvezmények biztosításához szükséges pénzügyi fedezetről a központi költségvetés gondoskodik.
 
-24. §
+#### 24. §
 
 ### A szomszédos államokban igénybe vehető támogatások igénylésének rendje
 
@@ -290,7 +306,7 @@ Ezek az információk szolgálják
 
 (4) Az elnyert támogatást a magyar közhasznú szervezet polgári jogi szerződés alapján folyósítja a kérelmezőnek. E szerződés tartalmazza a támogatás feltételeit és összegét, meghatározva a felhasználás célját és az arról való elszámolás rendjét.
 
-26. §
+#### 26. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -36,7 +36,7 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 #### 2. A Földforgalmi törvény egyes értelmező rendelkezései
 
-#### 4. §
+4. § E törvény, valamint a Földforgalmi törvény alkalmazásában a mezőgazdasági termelőszervezetben fennálló legalább 25%-os tulajdonrész vizsgálatakor a mezőgazdasági termelőszervezetben közvetetten fennálló részesedést is figyelembe kell venni. Közvetett részesedésnek tekintendő, ha a természetes személy a mezőgazdasági termelőszervezetben tulajdonrésszel rendelkező más jogi személyben (köztes jogi személy) rendelkezik tulajdonrésszel.
 
 5. § A Földforgalmi törvény 13. § (2) bekezdés c) pontjának, valamint a 42. § (2) bekezdés c) pontjának rendelkezéseit a vetőgumó és a vegetatív szaporítóanyag előállításra is alkalmazni kell.
 
@@ -54,7 +54,7 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 #### 3. Általános szabályok
 
-#### 8. §
+8. § A Földforgalmi törvény 36. § (1) bekezdésében foglalt esetek kivételével a föld tulajdonjogának átruházása esetén a szerződésben szereplő ellenértéket banki átutalással vagy ügyvédi letét alkalmazásával kell teljesíteni. A felek ettől eltérő megállapodása semmis.
 
 #### 4. A csereszerződésre vonatkozó szabályok
 
@@ -81,7 +81,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 11/A. § A Földforgalmi törvény 13. § (1) bekezdése szerinti, a föld használatának más részére át nem engedése iránti kötelezettségvállalás megsértésével kötött szerződés semmis.
 
-12. § A föld tulajdonjogának megszerzésére irányuló szerződés létrejöttében érdekeltek, illetve a szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxon, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve az adás-vételi szerződésnek az elővásárlásra jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
+12. § A föld tulajdonjogának megszerzésére irányuló szerződés létrejöttében érdekeltek, illetve a szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve az adás-vételi szerződésnek az elővásárlásra jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
 
 13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13–15. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
 
@@ -101,11 +101,15 @@ a csere birtok-összevonási célú földcserének minősül.
   - bg) részéről eljáró meghatalmazott természetes személy családi és utónevét, lakcímét,
   - bh) bélyegzőjének lenyomatát.
 
-(2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl a tagsági azonosító számát is tartalmaznia kell a szerződésnek.
+(2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl az agrárkamarai nyilvántartási számát is tartalmaznia kell a szerződésnek.
 
 (3) Ha a vevő maga is elővásárlási joggal rendelkezik és az adásvételi szerződésben nem nyilatkozik a részére szerződésben meghatározott elővásárlási jogról vagy törvényen fennálló elővásárlási joga esetében arról, hogy az mely törvényen és az ott meghatározott sorrend melyik ranghelyén illeti meg, akkor a sorrendben mögötte álló elővásárlásra jogosulttal szemben később e jogára nem hivatkozhat.
 
 (4)
+
+13/A. § (1) Az adásvételi szerződés az elővásárlásra jogosultra nézve külön rendelkezést nem tartalmazhat. A vevő helyébe lépő elővásárlásra jogosultat az adásvételi szerződésnek a vevőre vonatkozó rendelkezései jogosítják és kötelezik.
+
+(2) Az (1) bekezdésbe ütköző szerződés semmis.
 
 14. § Visszavásárlási, vételi jog, illetve eladási jog alapítása esetén az adás-vételi szerződés a visszavásárlási, a vételi jog, illetve az eladási jog gyakorlásával jön létre. E jogok gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13–15. §-ában foglalt nyilatkozatokat is.
 
@@ -129,7 +133,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 18. § Az elővásárlásra jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1)–(2) bekezdésében foglaltakat kell tartalmaznia.
 
-18/A. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az elővásárlásra jogosult termelőként saját maga vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+18/A. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés e) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az elővásárlásra jogosult termelőként saját maga vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet az adásvétel tárgyát képező föld valamely művelési ágával megegyező művelési ágú föld vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
 (2) A Földforgalmi törvény 18. § (2) bekezdés b) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
 
@@ -225,7 +229,7 @@ fog előállítani.
   - ac) lakcímét,
   - ad) személyi azonosítóját a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében,
   - ae) adóazonosító jelét vagy adószámát,
-  - af) kamarai tagsági azonosító számát.
+  - af) agrárkamarai nyilvántartási számát.
 - b) a gazdálkodó szervezet
   - ba) megnevezését,
   - bb) székhelyét (telephelyét, fióktelepét),
@@ -236,13 +240,13 @@ fog előállítani.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott adatokat a jogügylet hatósági jóváhagyásával és a szerzési korlátozások hatósági ellenőrzésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 
-(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, továbbá az adásvételi szerződésnek az elővásárlásra jogosultakkal történő közlése érdekében a jegyző részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát, valamint kamarai tagsági azonosító számát a helyi földbizottság részére adhatja át.
+(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, továbbá az adásvételi szerződésnek az elővásárlásra jogosultakkal történő közlése érdekében a jegyző részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát, valamint agrárkamarai nyilvántartási számát a helyi földbizottság részére adhatja át.
 
 (4) A mezőgazdasági igazgatási szerv a jogügylet hatósági jóváhagyásával kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni mindazon adatokat, melyek a helyi földbizottság állásfoglalásának alapjául szolgáltak.
 
 29. § (1) A jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv részére
 
-- a) az ingatlan-nyilvántartásból a tulajdoni lap másolatát,
+- a) az ingatlan-nyilvántartásból a tulajdoni lap és a törzskönyv másolatát,
 - b) a földhasználati nyilvántartásból a földhasználati lap másolatát és a földhasználati összesítőt,
 - c) az Országos Erdőállomány Adattárban szereplő adatokat,
 - d) az erdőgazdálkodói nyilvántartásban szereplő adatokat,
@@ -280,9 +284,9 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 használhatja fel.
 
-30. § (1) Az eljárás ügyintézési határideje 80 nap.
+30. § (1) Az eljárás ügyintézési határideje 70 nap.
 
-(2) Az ügyintézés határidejébe nem számít bele a Földforgalmi tv. 23. § (1) bekezdése szerinti közbenső döntés meghozatala és a Földforgalmi tv. 22. § (1) bekezdése szerinti okiratok mezőgazdasági igazgatási szervhez történő beérkezése közötti időtartam.
+(2) Az ügyintézés határidejébe nem számít bele a Földforgalmi tv. 23. § (1) bekezdése szerinti közbenső döntés meghozatala és a Földforgalmi tv. 22. § (1) bekezdése szerinti okiratok, illetve a helyi földbizottság megkeresésének közlése és a helyi földbizottság állásfoglalásának a mezőgazdasági igazgatási szervhez történő beérkezése közötti időtartam.
 
 (3) Az eljárás az adásvételi szerződésnek a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
@@ -292,10 +296,7 @@ használhatja fel.
 
 #### 31. §
 
-32. § (1) Ha a jogügylet érvényességi feltétele a közeli hozzátartozói viszony fennállása, akkor a szerző félnek
-
-- a) a 30. § (3) bekezdésében meghatározott esetben a mezőgazdasági igazgatási szerv erre irányuló felhívására,
-- b) a 30. § (4) bekezdésében meghatározott esetben a jogügylet hatósági jóváhagyása iránti kérelméhez csatolnia kell a legalább teljes bizonyító erejű magánokiratba foglalt, az érintett természetes személyeknek 30 napnál nem régebbi olyan tartalmú közös nyilatkozatát, miszerint közöttük a Földforgalmi törvény szerinti közeli hozzátartozói viszony áll fenn.
+32. § (1) Ha a jogügylet érvényességi feltétele a közeli hozzátartozói viszony fennállása, akkor a szerző félnek a jogügylet hatósági jóváhagyása iránti kérelméhez csatolnia kell a legalább teljes bizonyító erejű magánokiratba foglalt, az érintett természetes személyeknek 30 napnál nem régebbi olyan tartalmú közös nyilatkozatát, hogy közöttük a Földforgalmi törvény szerinti közeli hozzátartozói viszony áll fenn.
 
 (2) Ha a szerző fél gazdálkodó szervezet – kivéve a cégnyilvántartásban nyilvántartott céget –, a kérelméhez csatolni kell
 
@@ -322,7 +323,7 @@ használhatja fel.
 
 34/A. § (1) A Földforgalmi törvény 21. § (1a) bekezdése szerinti közbenső döntéssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi a jegyző részére az adásvételi szerződés egy eredeti, nem biztonsági okmányon szerkesztett példányát.
 
-(2) A Földforgalmi törvény 23. § (1) bekezdése és 23/A. § (1a) bekezdése szerinti megkereséssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi az ingatlanügyi hatóság részére az adásvételi szerződés egy nem hitelesített másolati példányát.
+(2) A Földforgalmi törvény 23. § (1) bekezdése és 23/A. § (1a) bekezdése szerinti megkereséssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi az ingatlanügyi hatóság részére a föld tulajdonjogának átruházására irányuló szerződés egy nem hitelesített másolati példányát.
 
 35. § (1) A Földforgalmi törvény 23/A. § (2) bekezdésének alkalmazása esetén a mezőgazdasági igazgatási szerv a rendelkezésre álló okiratok másolatát a (2) bekezdésben meghatározottak szerint küldi meg a helyi földbizottság részére.
 
@@ -421,11 +422,13 @@ kell érteni.
 
 46/A. § A Földforgalmi törvény 42. § (1) bekezdése szerinti, a föld használatának más részére át nem engedése iránti kötelezettségvállalás megsértésével kötött szerződés semmis.
 
-47. § A földhasználati szerződés – ide értve a X. Fejezet szerinti használati megosztásról szóló megállapodást is – létrejöttében érdekeltek, illetve szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxon, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve a haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
+47. § A földhasználati szerződés – ide értve a X. Fejezet szerinti használati megosztásról szóló megállapodást is – létrejöttében érdekeltek, illetve szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve a haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
 
 47/A. § Kizárólagos tulajdonban lévő föld esetében, ha a földhasználó a haszonbérleti szerződés időtartamát meg kívánja hosszabbítani, vagy annak lejáratát követően új haszonbérleti szerződés keretében tovább kívánja használni a földet és a tulajdonos részére az ajánlat közlése a 71. § (3) bekezdés a) pont szerint lehetetlen vagy a 71. § (3) bekezdés b) pont szerint meghiúsul, mert a postai küldemény a „címzett elköltözött” vagy a „címzett ismeretlen” jelzéssel érkezik vissza, az ajánlatban foglaltakat elfogadottnak kell tekinteni.
 
 48. § (1) A földhasználati szerződésnek – a Földforgalmi törvényben meghatározottakon túl – tartalmaznia kell a szerződő feleknek, illetve a szerző félnek a 13. § (1)–(2) bekezdésében meghatározott adatait.
+
+(1a) A földhasználati szerződésnek a tulajdonos tulajdoni lapon szereplő adatait kell tartalmaznia azon tulajdonos esetében, aki számára megküldött haszonbérleti ajánlatot a 47/A. §, a 72. § (5) bekezdése vagy a 76/E. § (4) bekezdése alapján elfogadottnak kell tekinteni.
 
 (2) Ha a haszonbérlő maga is előhaszonbérleti joggal rendelkezik és a haszonbérleti szerződésben nem nyilatkozik arról, hogy az mely törvényen és az ott meghatározott sorrend melyik ranghelyén illeti meg, akkor a sorrendben mögötte álló előhaszonbérletre jogosulttal szemben később e jogára nem hivatkozhat.
 
@@ -467,6 +470,10 @@ kell érteni.
 
 51. § Ha a haszonbérlő a haszonbérleti jogosultságot jogszabályban foglalt módon, támogatás feltételeként a haszonbérbeadó írásbeli hozzájárulásával az általa kijelölt földműves vagy mezőgazdasági termelőszervezet részére adja át, akkor a kijelölt földműves, illetve mezőgazdasági termelőszervezet a szerződésben a haszonbérlő helyébe lép és a haszonbérleti jogviszonyt változatlan feltételekkel folytatja.
 
+51/A. § (1) A haszonbérleti szerződés az előhaszonbérletre jogosultra nézve külön rendelkezést nem tartalmazhat. A haszonbérlő helyébe lépő előhaszonbérletre jogosultat a haszonbérleti szerződésnek a haszonbérlőre vonatkozó rendelkezései jogosítják és kötelezik.
+
+(2) Az (1) bekezdésbe ütköző szerződés semmis.
+
 #### 13. A haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal való közlése
 
 52. § (1) A Földforgalmi törvény 49. § (1) bekezdése szerinti egységes okiratba foglalt haszonbérleti szerződés alatt – az e törvényben meghatározott esetek kivételével – olyan szerződést kell érteni, amely a feleknek a szerződés létrejöttére irányuló nyilatkozatait, a szerződés lényeges tartalmi elemeit, továbbá a felek által meghatározott valamennyi kikötést, feltételt magában foglalja. E bekezdésben foglaltakat kell alkalmazni a 65. § szerinti egységes okiratba foglalt alhaszonbérleti szerződésre és a X. Fejezet szerinti egységes okiratba foglalt használati megosztásról szóló megállapodásra és földhasználati szerződésre is.
@@ -487,7 +494,7 @@ kell érteni.
 
 55. § Az előhaszonbérletre jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1) bekezdésében foglaltakat kell tartalmaznia.
 
-55/A. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az előhaszonbérletre jogosult gazdaság termelőként az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+55/A. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az előhaszonbérletre jogosult gazdaság termelőként a haszonbérlet tárgyát képező föld valamely művelési ága szerinti művelési ágú föld vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
 (2) A Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartama alatt az előhaszonbérleti joggal érintett föld teljes területén ökológiai gazdálkodást fog folytatni.
 
@@ -551,9 +558,9 @@ fog előállítani.
 - a) a haszonbérlő felé a felmondással egyidejűleg nyilatkozik, hogy a földet a szerződés megszűnésével saját maga, közeli hozzátartozója, saját maga vagy közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet vagy olyan családi mezőgazdasági társaság, amelyben tag kívánja használni, és
 - b) a 74. § (2) bekezdésében foglaltak alkalmazásával létrejött haszonbérleti szerződést nem írta alá, de annak hatálya az ott meghatározottak szerint kiterjedt rá.
 
-(2) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 25%-ban tulajdonos természetes személy tagja mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a mezőgazdasági termelőszervezetben fennálló tulajdonosi részesedése a szerződés megkötését követő 1 éven keresztül tartósan 25% alá csökken.
+(2) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és azon természetes személy, aki a mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa, mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a mezőgazdasági termelőszervezetben fennálló tulajdonosi részesedése a szerződés megkötését követő 1 éven keresztül tartósan 25% alá csökken.
 
-(3) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 25%-ban tulajdonos természetes személy tagjának közeli hozzátartozója mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a tag és a haszonbérbeadó közötti közeli hozzátartozói viszony megszűnik.
+(3) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és annak a természetes személynek a közeli hozzátartozója, aki a mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa, mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a tag és a haszonbérbeadó közötti közeli hozzátartozói viszony megszűnik.
 
 (4) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 3 éve foglalkoztatott alkalmazottja mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a mezőgazdasági termelőszervezettel fennálló munkaviszonya a munkáltató által gyakorolt rendkívüli felmondás kivételével bármilyen okból – ide nem értve az 58. § (2) bekezdésében foglalt esetet – megszűnik.
 
@@ -581,7 +588,7 @@ fog előállítani.
 
 #### 16. Haszonbérfizetési kedvezmény
 
-63. § (1) A haszonbérlőt arra az évre, amelyben a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvényben foglaltak szerinti elemi káresemény vagy időjárási és más természeti jellegű elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, legfeljebb a hozamérték-csökkenéssel arányos haszonbér-mérséklés illeti meg arra a földre vonatkozóan, amelyen a hozamérték-csökkenés bekövetkezett.
+63. § (1) A haszonbérlőt arra az évre, amelyben a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvényben foglaltak szerinti elemi káresemény vagy időjárási és más természeti jellegű elháríthatatlan külső ok (vis maior) miatt 30%-ot meghaladó mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, legfeljebb a hozamérték-csökkenéssel arányos haszonbér-mérséklés illeti meg arra a földre vonatkozóan, amelyen a hozamérték-csökkenés bekövetkezett.
 
 (2) Eltérő megállapodás hiányában az (1) bekezdésben foglaltak szerinti kedvezmény csak azt a haszonbérlőt illeti meg, aki, illetve amely a haszonbérleti szerződés alapján legalább a helyben szokásos mértékű, de legalább a Nemzeti Földalapba tartozó földekre megkötött haszonbérleti szerződésekben meghatározott és a Nemzeti Földalap kezelésére kijelölt szerv honlapján közzétett, országosan egységesen alkalmazott összegű haszonbérleti díjat fizeti. Ha a szerződés alapján a haszonbérlő a haszonbért az 50. § (1) bekezdése szerinti módon természetben teljesíti, akkor a haszonbérként nyújtott termék értékeként a földügyért felelős miniszter által vezetett minisztérium honlapján közzétett közleményben meghatározott referenciaárat, ennek hiányában a természetbeni szolgáltatás helyben kialakult piaci értékét kell figyelembe venni.
 
@@ -682,6 +689,8 @@ esetén.
 
 meg kell térítenie.
 
+(8a) A (8) bekezdésben foglaltakat nem kell alkalmazni, ha a haszonbérlet tárgya erdőnek nem minősülő föld és a szerződés lejártakor erdőnek nem minősülő földként kerül a haszonbérbe adó részére visszaadásra.
+
 (9) Az erdőgazdálkodási haszonbérleti szerződés lejártát követően az erdőt olyan állapotban kell visszaadni, hogy az erdőgazdálkodási tevékenység folytatható legyen.
 
 #### 20/D. Erdőgazdálkodási integráció
@@ -745,6 +754,10 @@ meg kell térítenie.
 
 (2) Az (1) bekezdés szerinti jogosultság gyakorlása, valamint a földhasznosítási kötelezettség teljesítése érdekében a tulajdonostársak – a 71. §-ban meghatározottak szerint – kötelesek a közös tulajdonban álló földön belül az egyes tulajdonostársak részére a tulajdoni hányaduknak megfelelő területek elhelyezkedését kijelölni (a továbbiakban: használati rend).
 
+(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy személy részére kívánják átengedni.
+
+(2b) Erdőnek minősülő földrészlet vagy erdőnek minősülő alrészletet tartalmazó földrészlet esetében a használati rendet úgy kell kialakítani, hogy az megfeleljen az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésének. Ha az erdőnek minősülő földrészlet vagy az erdőnek minősülő alrészlet – a földrészleten belül több erdőnek minősülő alrészlet esetében azok egybefüggő területe – nem éri el az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésben meghatározott méretet, úgy annak használata a használati rendben nem osztható meg. Ha azért nem lehet kijelölni valamely tulajdonostárs részére erdőnek minősülő földrészlet vagy erdőnek minősülő alrészlet esetében a tulajdoni hányadának megfelelő területet, mert az nem felelne meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésének, úgy a (2a) bekezdésben foglaltak szerint kell eljárni.
+
 (3) Az (1) bekezdésben foglaltakon túl a tulajdonostárs jogosult a használati rendben meghatározott terület egésze vagy ezen terület egy meghatározott része használati jogosultságának
 
 - a) tulajdoni hányadot meghaladó mértékű többlethasználati megállapodással (a továbbiakban: többlethasználati megállapodás) másik tulajdonostárs vagy
@@ -762,7 +775,7 @@ javára történő átengedésére.
 
 (2) A használati megosztásról szóló megállapodásban rögzíteni kell a megállapodás időtartamát, vagy ha azt a tulajdonostársak határozatlan időre hozták létre, akkor ennek tényét.
 
-(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy személy részére kívánják átengedni.
+(2a)
 
 (3) A használati megosztáshoz való hozzájárulást megadottnak kell tekinteni az olyan tulajdonostárs esetében, akinek a részére a használati megosztásról szóló ajánlat vagy a tervezett megállapodás közlése
 
@@ -963,7 +976,7 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 - a) a kényszerhasznosításnak a Földforgalmi törvényben előírt célját, és a kényszerhasznosító kötelezettségeit, ide értve azt is, hogy a kényszerhasznosítónak a kényszerhasznosításba adott föld hasznosításából származó bevételeiről és kiadásairól el kell számolnia a mezőgazdasági igazgatási szerv részére,
 - b) az arra vonatkozó figyelemfelhívást, hogy a kérelmet a hirdetmény közzétételétől számított 30 napon belül lehet benyújtani, melyben meg kell jelölni a kényszerhasznosítóként történő kijelölés esetén az általa művelni vállalt földek művelési ágát vagy művelési ágait és a földek fekvése szerinti járást vagy járásokat.
 
-(3) A hirdetmény közzétételének napja a hirdetménynek a mezőgazdasági igazgatási szerv hirdetőtáblájára való kifüggesztés napja.
+(3) A hirdetmény közzétételének napja a hirdetménynek a mezőgazdasági igazgatási szerv honlapján történő közzétételének a napja.
 
 (4) A mezőgazdasági igazgatási szerv a határidőben kérelmet előterjesztő földművesek és mezőgazdasági termelőszervezetek adatait – a kérelem benyújtásának határideje lejártát követő 15 napon belül – összesíti, és a kényszerhasznosítóként jelentkezés tényét a XIV. Fejezetben meghatározott nyilvántartásba a földműves, illetve a mezőgazdasági termelőszervezet adatai között feltünteti.
 
@@ -1186,7 +1199,7 @@ szolgáltat.
 
 102. § (1) A helyi földbizottság ülésén részt vehet az eladó, a vevő, az elővásárlási elfogadó nyilatkozatot tevő személy.
 
-(2) A helyi földbizottság ülésén tárgyalandó szerződésekről a Kamara internetes honlapján, illetve a Kamara illetékes területi szerve hirdetőtábláján tájékoztatót tesz közzé az érintett ingatlanok helyrajzi számának és az ülés helyszínének, időpontjának megjelölésével.
+(2) A helyi földbizottság ülésén tárgyalandó szerződésekről a Kamara internetes honlapján, illetve a Kamara illetékes területi szerve honlapján tájékoztatót tesz közzé az érintett ingatlanok helyrajzi számának és az ülés helyszínének, időpontjának megjelölésével.
 
 (3) A helyi földbizottság a felet szükség szerint meghallgathatja. A helyi földbizottságnak a felet annak kérelmére meg kell hallgatnia.
 
@@ -1251,7 +1264,7 @@ rendeletben állapítsa meg.
 
 (2)
 
-107. § Az 1. és 2. §, a 3–7. §, a 9. §, a 18/A–18/C. §, a 41–42. §, a 45. §, az 55/A–55/C. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+107. § Az 1. és 2. §, a 3–7/A. §, a 9. §, a 18/A–18/C. §, a 41–42. §, a 45. §, az 55/A–55/C. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -1459,6 +1472,14 @@ nyújthatja be.
 
 (2) A kompenzációt egy összegben, az NFK döntését követő 15 napon belül kell a kérelmező részére megfizetni.
 
+(3) Az (1) bekezdés szerinti igények érvényesítése során a Magyar Államot az NFK képviseli.
+
+(4) Az (1) bekezdés szerinti igények az érintett ingatlanoknak a haszonélvezeti jog törlésekori tulajdonosával szemben érvényesíthetők. Ha a haszonélvezeti jog törlését követően az érintett ingatlanok tulajdonjogában változás állt be és az új tulajdonos a 108/F. § (7) bekezdés b)–d) vagy f) pontja alapján nem minősül jóhiszeműnek, akkor az (1) bekezdés szerinti igények teljesítéséért az érintett ingatlanoknak a haszonélvezeti jog törlésekori tulajdonosa és a 108/F. § (7) bekezdés b)–d) vagy f) pontja szerinti tulajdonosa egyetemlegesen felel.
+
+(5) Az (1) bekezdés szerinti igényeket a Magyar Állam képviseletében eljáró NFK kártalanítás jogcímén érvényesíti.
+
+(6) Az (1) bekezdés szerinti igények érvényesítése iránt indult eljárásokban a Pesti Központi Kerületi Bíróság és a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
+
 108/P. § (1) Az NFK döntése ellen megindított közigazgatási pert a keresetlevél benyújtását követő 60 napon belül kell befejezni.
 
 (2) A bíróság a perben a közigazgatási határozatot megváltoztathatja.
@@ -1479,6 +1500,8 @@ nyújthatja be.
 (5) Az ezen alcím szerinti eljárásokban eljáró hatóságokat és bíróságokat a (4) bekezdés szerinti bírósági eljárásban hozott döntés és az azokban megállapított tényállás nem köti.
 
 (6) A (3) bekezdés a) pontja szerinti esetben a magyar államot a Nemzeti Földügyi Központ képviseli.
+
+108/R. § Ha az ingatlan tulajdonosa a haszonélvezet törlését követően, de a visszajegyzését megelőzően az ingatlanon olyan értéknövelő beruházást hajtott végre, amely a haszonélvezet visszajegyzéséig még nem térült meg, a tulajdonos igényelheti a haszonélvezet megváltását, amelynek során a haszonélvezet értékének megállapítására a 108/K. §-ban foglaltakat alkalmazni kell.
 
 109. § A közös tulajdonban álló földre a 2013. december 31-ig megkötött haszonbérleti szerződés esetében a 60. § (1) bekezdésében foglalt felmondási jog akkor illeti meg a haszonbérbeadót, illetve annak jogutódját, ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére került sor, és a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
 
@@ -1503,7 +1526,7 @@ nyújthatja be.
 
 (3) A 2018. évi CXXXVI. törvénnyel megállapított 101. és 102. §-t a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő azon eljárásokban – a megismételt eljárásokat is ideértve – is alkalmazni kell, amelyek esetében a mezőgazdasági igazgatási szerv még nem kereste meg a helyi földbizottságot az állásfoglalása kiadása céljából.
 
-(4) A 2018. évi CXXXVI. törvénnyel megállapított 108. § (4) és (5) bekezdését a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+(4)
 
 #### 110/E. §
 
@@ -1658,17 +1681,7 @@ nyújthatja be.
 
 #### 42. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-141. § (1) A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény (a továbbiakban: Hetv.) 11. § (4) bekezdése a következő szöveggel lép hatályba:
-
-„(4) Ha a hagyatéki eljárásban érdekelt gazdálkodó szervezet vagy jogi képviselővel rendelkező személy vagy szervezet vesz részt, részére az iratokat a Pp.-ben meghatározottak szerinti elektronikus úton kell kézbesíteni.”
-
-(2) A Hetv. 23. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) A leltár mellékletét képező papír alapú okiratokat a Pp.-ben meghatározottak szerinti elektronikus kézbesítésen felül postai úton kell továbbítani, ha az okirat végintézkedést tartalmaz vagy papír alapú bemutatása, megtekintése egyéb, az eljárás kimenetelét befolyásoló okból szükséges; kizárólag papír alapú megküldésre különösen akkor kerülhet sor, ha az eredetileg papír alapú iratok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú megküldést a közjegyző hivatalból és az öröklésben érdekelt indítványára is elrendelheti.”
-
-(3)–(4)
-
-(5)
+#### 141. §
 
 #### 43. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
@@ -1702,19 +1715,4 @@ nyújthatja be.
 
 #### 49. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-148. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 68. § (6) bekezdése a következő szöveggel lép hatályba:
-
-„(6) A helyi földbizottság tagjainak megválasztása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a települési önkormányzat jegyzője összehívja a helyi gazdálkodói közösség közgyűlését.”
-
-(2) A Földforgalmi törvény a következő 70/A. §-sal kiegészülve lép hatályba:
-
-„70/A. § E törvény egyes átmeneti szabályairól és más rendelkezéseinek alkalmazásáról külön törvény rendelkezik.”
-
-(3) A Földforgalmi törvény
-
-- a) 16. § (3) bekezdése, 65. § (1) bekezdés a) pontja és 67. § (3) bekezdése a „földről szóló törvényben” szövegrész helyett a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben”,
-- b) 38. § (2)–(4) bekezdése a „földről szóló törvény” szövegrész helyett a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény”,
-- c) 69. § (2) bekezdése a „37–44. §” szövegrész helyett a „38–44. §”,
-- d) 69. § (4) bekezdése a „23–36. §” szövegrész helyett a „23–37. §”
-
-szöveggel lép hatályba.
+#### 148. §

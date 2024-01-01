@@ -934,7 +934,7 @@ folytat le.
 - k) a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama, és
 - l) a bizonyítási eljárás lezárását követően MNB-hez érkezett iratbetekintésre irányuló kérelem elbírálása során hozott végzés meghozatalától, vagy az iratbetekintés korlátozás nélkül történő engedélyezése esetén az ügyfél tájékoztatásától a kérelem alapján megvalósuló iratbetekintés napjáig terjedő időtartam.
 
-(5) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének, valamint a közhírré tétel napja. A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az órákban megállapított határidő az okot adó cselekményt követő óra első percében kezdődik.
+(5) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény honlapon történő közzétételének és törlésének, valamint a közhírré tétel napja. A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az órákban megállapított határidő az okot adó cselekményt követő óra első percében kezdődik.
 
 (6) A postán küldött beadvány és megkeresés előterjesztési ideje a postára adás napja. A határozott naphoz kötött jogszerzés a nap kezdetén következik be. A határidő elmulasztása vagy a késedelem jogkövetkezménye a határidő utolsó napjának elteltével áll be.
 
@@ -1698,7 +1698,7 @@ betartását, és – ide nem értve a szerződés létrejöttének, érvényess
 - e) belföldi fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a 125. § a) pontjában meghatározott határon átnyúló pénzügyi fogyasztói jogvitát,
 - f) határon átnyúló fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a belföldi fogyasztói jogvitát.
 
-(3) A fogyasztóvédelmi eljárás kérelemre történő megindításának feltétele, hogy a fogyasztó a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
+(3) A fogyasztóvédelmi eljárás kérelemre történő megindításának feltétele, hogy a fogyasztó a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 
 - a) a panaszára nem kapott választ,
 - b) a panasz kivizsgálása nem a 39. §-ban meghatározott törvények hatálya alá tartozó személyre vagy szervezetre vonatkozó szabályok szerint történt,
@@ -1968,18 +1968,14 @@ számított 5 évig kezelheti.
 
 (2) Az érvénytelen szerződésnek vagy más jogügyletnek a piacfelügyeleti eljárás szempontjából annyiban van jelentősége, amennyiben annak gazdasági eredménye kimutatható.
 
-93. § (1) Engedély nélkül végzett tevékenység megállapítása esetén az MNB
+93. § (1) Engedély nélkül vagy bejelentés hiányában végzett tevékenység megállapítása esetén az MNB
 
 - a) megtiltja a tevékenység végzését,
 - b) büntetőeljárást kezdeményez, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
 - c) intézkedést, kivételes intézkedést alkalmaz, illetve
 - d) piacfelügyeleti bírságot szab ki.
 
-(2) Bejelentés hiányában végzett tevékenység esetén az MNB
-
-- a) megtiltja a tevékenység végzését,
-- b) intézkedést, kivételes intézkedést alkalmaz, illetve
-- c) piacfelügyeleti bírságot szab ki.
+(2)
 
 (3) Az MNB
 
@@ -2012,7 +2008,7 @@ terjedhet.
 
 (11) A piacfelügyeleti eljárás során az e törvény szerinti ellenőrzési eljárás szabályait – a 64. § (1)–(6) bekezdésében, a 65. § (3)–(6) bekezdésében, a 67. § (10) bekezdésében, a 67/A. §-ban, a 67/B. § (2) bekezdésében, a 69–71. §-ban, a 73. §-ban, a 76. §-ban és a 78. §-ban meghatározott rendelkezések kivételével – alkalmazni kell.
 
-93/A. § (1) Ha a befektetők érdekeinek megóvása érdekében szükséges, az MNB biztosítási intézkedésként 365 napra elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek hozzáférhetővé tétele e törvény 90. § (1) bekezdés a) pontja szerinti, engedély nélküli vagy bejelentés hiányában végzett tevékenység kifejtését készítette, illetve segítette elő, és az MNB jogsértést megállapító döntésében a 93. § (1) bekezdés a) pontja vagy (2) bekezdés a) pontja szerinti intézkedést alkalmazott.
+93/A. § (1) Ha a befektetők érdekeinek megóvása érdekében szükséges, az MNB biztosítási intézkedésként 365 napra elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek hozzáférhetővé tétele e törvény 90. § (1) bekezdés a) pontja szerinti, engedély nélküli vagy bejelentés hiányában végzett tevékenység kifejtését készítette, illetve segítette elő, és az MNB jogsértést megállapító döntésében a 93. § (1) bekezdés a) pontja szerinti intézkedést alkalmazott.
 
 (2) Az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés fenntartásának indokoltságát a véglegessé válásától számított 365 nap múlva felülvizsgálja és dönt annak megszüntetéséről vagy – ha a befektetők érdekeinek megóvása szükségessé teszi – egy ízben annak további 365 napra történő hatályban tartásáról.
 
@@ -2255,7 +2251,7 @@ terjedhet.
 - a) kötelezést tartalmazó határozatot hoz, ha a kérelem megalapozott, és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet általános alávetési nyilatkozatában, kereskedelmi kommunikációjában közölt vagy az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig tett nyilatkozatában a Pénzügyi Békéltető Testület döntését magára nézve kötelezőként elismerte, vagy
 - b) ajánlást tesz, ha a kérelem megalapozott, azonban a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
 
-(2) A tanács egyezség hiányában akkor is kötelezést tartalmazó határozatot hozhat, ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg az egymillió forintot.
+(2) A tanács egyezség hiányában akkor is kötelezést tartalmazó határozatot hozhat, ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg a kétmillió forintot.
 
 114. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra.
 
@@ -2281,7 +2277,7 @@ terjedhet.
 - b) a Pénzügyi Békéltető Testületnek nem volt hatásköre az eljárásra,
 - c) a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás és a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás vagy a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás vagy a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat tartalma nem felel meg a jogszabályoknak.
 
 117. § (1) A pert a Pénzügyi Békéltető Testülettel szemben kell megindítani. A Pénzügyi Békéltető Testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 
@@ -2309,49 +2305,9 @@ terjedhet.
 
 (3) A fogyasztó és a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásáról vagy annak elmaradásáról, illetve az ajánlásban foglaltak követéséről vagy a követésének elmaradásáról hatvan napon belül írásban köteles értesíteni a Pénzügyi Békéltető Testületet.
 
-121. § (1) A 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat ellen a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet a kézbesítéstől számított tizenöt napon belül ellentmondással élhet.
+#### 121. §
 
-(2) A Pénzügyi Békéltető Testület az ellentmondást elutasítja, ha
-
-- a) elkésett,
-- b) nem az ellentmondás előterjesztésére jogosulttól származik.
-
-(3) Az ellentmondásra nyitva álló határidő elmulasztása esetén a mulasztás következményei igazolással orvosolhatók.
-
-(4) Az igazolási kérelmet tizenöt napon belül lehet előterjeszteni. Ezt a határidőt az ellentmondásra nyitva álló határidő utolsó napjától kell számítani. Ha azonban a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg, az igazolási kérelem határideje a tudomásszerzéssel, illetőleg az akadály megszűnésével veszi kezdetét. A mulasztástól számított egy hónap eltelte után igazolási kérelmet előterjeszteni nem lehet.
-
-(5) Az igazolási kérelemben elő kell adni a mulasztás okát és azokat a körülményeket, amelyek a mulasztás vétlenségét valószínűvé teszik.
-
-(6) Az igazolási kérelem tárgyában a Pénzügyi Békéltető Testület dönt.
-
-(7) Az igazolási kérelemnek a végrehajtásra halasztó hatálya van.
-
-(8) Az ellentmondást – igazolási kérelem benyújtása esetén az igazolási kérelmet és egyben az ellentmondást – elutasító határozat ellen az ellentmondást előterjesztő fél fellebbezhet. A fellebbezést a fogyasztó belföldi lakóhelye, belföldi lakóhely hiányában a belföldi tartózkodási helye szerinti törvényszék a Pp. végzések elleni fellebbezésre vonatkozó szabályai szerint nemperes eljárásban bírálja el. Ha a fogyasztó belföldi lakóhellyel, tartózkodási hellyel nem rendelkezik, a törvényszék illetékességét az ellentmondást előterjesztő fél lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az ellentmondást előterjesztő fél nem természetes személy – az ellentmondást előterjesztő fél székhelye alapítja meg.
-
-122. § (1) A kellő időben előterjesztett ellentmondás folytán az eljárás perré alakul át.
-
-(2) Ha a Pénzügyi Békéltető Testület az ellentmondást nem utasítja el, az eljárásában benyújtott iratokat, a határozatot, valamint az ellentmondást az ellentmondás benyújtásától számított tizenöt napon belül megküldi a (3) bekezdés szerinti bíróságnak.
-
-(3) A perre a fogyasztó belföldi lakóhelye, belföldi lakóhely hiányában a belföldi tartózkodási helye szerinti bíróság illetékes. Ha a fogyasztó belföldi lakóhellyel, tartózkodási hellyel nem rendelkezik, a bíróság illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.
-
-(4) Ha a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozatot határidőn belül ellentmondással megtámadják, a határozat hatályát veszti, feltéve, hogy az ellentmondást a Pénzügyi Békéltető Testület nem utasítja el.
-
-(5) Ha a Pénzügyi Békéltető Testület az ellentmondást nem utasítja el, az ellentmondást nyolc napon belül kézbesíti a fogyasztónak, és egyidejűleg felhívja a fogyasztót, hogy a felhívás kézbesítésétől számított tizenöt napon belül
-
-- a) terjesszen elő a felhívásban megjelölt bíróságon a Pp. 257. §-a szerinti keresetet tartalmazó iratot, amelyben az ügyszám feltüntetése mellett utaljon az ügy Pénzügyi Békéltető Testület előtti eljárási előzményére,
-- b) fizesse meg a peres eljárás illetékét, és
-- c) mellékelje a Pénzügyi Békéltető Testület felhívását.
-
-(6) A Pénzügyi Békéltető Testület a felhívást azzal a figyelmeztetéssel látja el, hogy
-
-- a) a Pp. 259. §-ában meghatározott esetekben a bíróság az eljárást megszünteti, valamint
-- b) ha a fogyasztó a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, akkor a Pp. elektronikus kapcsolattartásra vonatkozó rendelkezései szerint köteles eljárni.
-
-(7) Ha a fogyasztó a felhívásban foglaltaknak nem tesz eleget, a bíróság a Pp. 259. §-ában meghatározott esetekben az eljárást megszünteti.
-
-(8) A per befejezését követően a bíróság a pert befejező jogerős határozatának egy kiadmányát a Pénzügyi Békéltető Testület által megküldött iratokkal együtt megküldi a Pénzügyi Békéltető Testületnek.
-
-(9) A bíróság eljárására egyebekben a Pp. XVI. fejezetének rendelkezései – azzal, hogy közjegyző alatt a Pénzügyi Békéltető Testületet kell érteni – megfelelően irányadók.
+#### 122. §
 
 123. § A Pénzügyi Békéltető Testület döntéseihez az adott ügyben független, jogi egyetemi diplomával és szakvizsgával rendelkező jogász vagy közgazdasági egyetemi diplomával rendelkező közgazdász állásfoglalását szerezheti be, az eljárására vonatkozó részletes szabályokat az e törvény keretei között kialakított működési rendje tartalmazza.
 
@@ -2944,7 +2900,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 (4) A bíróság ítéletében meghatározza azoknak a jogosult fogyasztóknak a körét és az azonosíthatóságukhoz szükséges adatokat, amelyek tekintetében a jogsértés tényét megállapította, illetve amelyek jogosultak az ítéletbeli kötelezés teljesítésének követelésére.
 
-(5) A bíróság az ítéletben feljogosíthatja az MNB-t, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye, illetve egyéb, a jogsértés jellege által indokolt formában nyilvánosságra hozza.
+(5) A bíróság az ítéletben feljogosíthatja az MNB-t, hogy a jogsértő költségére az ítéletet a honlapján közzétegye, illetve egyéb, a jogsértés jellege által indokolt formában nyilvánosságra hozza.
 
 (6) Ha a bíróság ítéletében a jogsértés tényének megállapításán túl a 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet meghatározott követelés teljesítésére is kötelezte, a jogsértő köteles a (4) bekezdés szerint meghatározott jogosult fogyasztó igényét az ítéletnek megfelelően kielégíteni. Önkéntes teljesítés hiányában a jogosult fogyasztó kérheti az ítélet bírósági végrehajtását. A fogyasztó jogosultságát a bíróság az ítéletben meghatározott feltételek alapján a végrehajtási lap kiállítására irányuló eljárásában vizsgálja.
 

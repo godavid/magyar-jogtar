@@ -4,7 +4,7 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 #### 1. Egyes ingatlanok fővárosi önkormányzat részére történő átadása
 
-1. § (1) Budapest közigazgatási területén a fővárosi kerületi önkormányzatok és az állam tulajdonában álló, a Duna partvonalával közvetlenül határos
+1. § (1) Budapest közigazgatási területén a fővárosi kerületi önkormányzatok, valamint az állam tulajdonában álló, a Duna partvonalával közvetlenül határos
 
 - a) budai és pesti alsó rakparton lévő ingatlanok, valamint kikötőhelyek és kikötői infrastruktúra,
 - b) az a) pont hatálya alá nem tartozó ingatlanok, valamint a nagyhajók fogadására alkalmas kikötőhelyek és kikötői infrastruktúra
@@ -66,7 +66,7 @@ alapján sarkalatosnak minősül.
 
 #### A fővárosi önkormányzat vagyonkezelésébe kerülő, a Duna partvonalával közvetlenül határos ingatlanok listája
 
-| Sorszám | Helyrajzi szám | Tulajdonos |
+| sorszám | helyrajzi szám | tulajdonos |
 | --- | --- | --- |
 | 1. | 76502 (284/170162 tulajdoni hányad) | Magyar Állam |
 | 2. | 23809/7 | Magyar Állam |

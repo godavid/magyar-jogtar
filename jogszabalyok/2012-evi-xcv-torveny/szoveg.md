@@ -56,15 +56,15 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 
 8. § A tanúsítvánnyal kapcsolatos eljárásra egyebekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság
 
-- a) az eljárás megindításáról honlapján és hirdetőtábláján történő közhírré tétel útján értesítést tesz közzé,
-- b) a tanúsítványt a különleges védelem időtartama alatt honlapján és hirdetőtábláján közzéteszi,
+- a) az eljárás megindításáról honlapján történő közhírré tétel útján értesítést tesz közzé,
+- b) a tanúsítványt a különleges védelem időtartama alatt honlapján közzéteszi,
 - c)
 
 #### 5. Záró rendelkezések
 
 9. § Ez a törvény a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően kötött kölcsönzési szerződések alapján indult eljárásokban kell alkalmazni.
 
-10. §
+#### 10. §
 
 ### 1. melléklet a 2012. évi XCV. törvényhez
 

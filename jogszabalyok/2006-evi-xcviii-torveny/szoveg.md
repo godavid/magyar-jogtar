@@ -509,7 +509,7 @@ irányulhat.
 
 (3) Az egészségbiztosítási szerv az egyes forgalomba hozatalra engedélyezett gyógyszerek vagy a tápszerek társadalombiztosítási támogatásba való befogadásáról, a támogatás kategóriájáról, módszeréről, mértékéről vagy összegéről, valamint az árához nyújtott társadalombiztosítási támogatás igénybevételének kezdőnapjáról (a továbbiakban: finanszírozás kezdőnapja), a társadalombiztosítási támogatásból való kizárásról, valamint a 29. § (4) bekezdésben jelölt adatok változásáról 90 napon belül dönt.
 
-(4)
+(4) A határozatokban a (3) bekezdés szerinti finanszírozás kezdőnapját úgy kell megállapítani, hogy az a határozat véglegessé válását követő 5 évnél későbbi időpont nem lehet.
 
 (5) A kérelmező a (3)–(4) bekezdés szerinti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat fizet. Nem kell igazgatási szolgáltatási díjat fizetni a kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 
@@ -572,7 +572,7 @@ közhiteles hatósági nyilvántartást vezet.
 
 (7) A bíróság az egészségbiztosítási szervnek a 23. § (3) és (4) bekezdése, valamint a (6)–(8a) bekezdése szerinti eljárásban hozott döntését nem változtathatja meg.
 
-25. § (1) Amennyiben a forgalomba hozatali engedély jogosultja az egészségbiztosítási szerv 23. § szerinti határozatának véglegessé válását követően a befogadott és támogatással forgalmazható gyógyszer árát érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
+25. § (1) Amennyiben a forgalomba hozatali engedély jogosultja az egészségbiztosítási szerv 23. § szerinti határozatának véglegessé válását követően a befogadott és támogatással forgalmazható gyógyszer árát, illetve a finanszírozás – döntésben megjelölt – kezdőnapját érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
 
 (2) Abban az esetben, ha az egészségbiztosítási szerv a 23. § (6) bekezdése szerinti eljárását követően valamely gyógyszer, tápszer
 
@@ -604,7 +604,7 @@ közhiteles hatósági nyilvántartást vezet.
   - bh) a hatáskör gyakorlójának nevét, hivatali beosztását, és
   - bi) a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával.
 
-26. § (1) A gyógyszerek társadalombiztosítási támogatásba való befogadása támogatási kategóriákba történik. Az egyes támogatási kategóriákban valamennyi, a 28. § szerint meghatározott támogatási módszer alkalmazható. A támogatási módszerek szerinti támogatási összegek számítása a mindenkori egészségpolitikai célkitűzések figyelembevételével a külön jogszabályban meghatározott ATC-csoportokat tartalmazó táblázatban feltüntetett százalékos mértékeket alapul véve történik. A támogatási kategóriákban maximálisan adható százalékos mértékeket, illetve az ATC-csoportok százalékos támogatási kategóriákba sorolását külön jogszabály tartalmazza.
+26. § (1) A gyógyszerek társadalombiztosítási támogatásba való befogadása támogatási kategóriákba történik. Az egyes támogatási kategóriákban valamennyi, a 28. § szerint meghatározott támogatási módszer alkalmazható. A támogatási módszerek szerinti támogatási összegek számítása a mindenkori egészségpolitikai célkitűzések figyelembevételével az egészségbiztosítási szerv közleményében meghatározott ATC-csoportokat tartalmazó táblázatban feltüntetett százalékos mértékeket alapul véve történik. A támogatási kategóriákban maximálisan adható százalékos mértékeket, illetve az ATC-csoportok százalékos támogatási kategóriákba sorolását az egészségbiztosítási szerv közleménye tartalmazza.
 
 (2) Az egészségbiztosítási szerv a költségvetési keretek betarthatósága érdekében, a már támogatott, illetve az újonnan befogadott gyógyszerekre, azok egyes támogatási kategóriáira, indikációira, a gyógyszer alkalmazásához szükséges molekuláris diagnosztikai vizsgálatok finanszírozására, valamint a méltányosságból támogatott gyógyszerekre az (5) bekezdés szerinti támogatásvolumen-szerződést köthet.
 
@@ -644,9 +644,9 @@ közhiteles hatósági nyilvántartást vezet.
 
 (8) A támogatás-volumen szerződések kötelező tartalmi elemeit, a szerződéskötés és az egyes szerződéstípusok alkalmazhatóságának feltételeit, valamint az egészségbiztosítási szerv közzétételi kötelezettségére vonatkozó szabályokat külön jogszabály állapítja meg.
 
-27. § (1) Az új, még nem támogatott hatástani csoport támogatási kategóriákba történő felvételét az új hatóanyagot tartalmazó gyógyszer forgalomba hozatali engedélyének jogosultja kezdeményezésére, az egészségbiztosítási szerv és a hazai, valamint nemzetközi orvos- és gyógyszerészszakmai vélemények ismeretében az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+27. § (1) Az új, még nem támogatott hatástani csoport támogatási kategóriákba történő felvételét az új hatóanyagot tartalmazó gyógyszer forgalomba hozatali engedélyének jogosultja kezdeményezésére, az egészségbiztosítási szerv a hazai, valamint nemzetközi orvos- és gyógyszerészszakmai vélemények ismeretében, az egészségügyért felelős miniszter jóváhagyásával közleményben állapítja meg minden naptári negyedév 1. napjával.
 
-(2) Amennyiben az egészségbiztosítási szervhez olyan új hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem, amelynek ATC-csoportját, az ATC-csoporton belüli támogatási kategóriáját, mértékét nem tartalmazza az egészségbiztosításért felelős miniszter rendelete, az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását az egészségbiztosításért felelős miniszter – az államháztartásért felelős miniszter egyetértésével meghozott – rendeletének hatálybalépéséig, legfeljebb azonban kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti.
+(2)
 
 (2a) Amennyiben az egészségbiztosítási szervhez olyan új hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem
 
@@ -655,17 +655,19 @@ közhiteles hatósági nyilvántartást vezet.
 
 úgy az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását a módosítás hatálybalépéséig, legfeljebb azonban kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti és erről az ügyfelet értesíti.
 
-(3) Amennyiben a (2)–(2a) bekezdés szerinti jogszabály-módosításra nem kerül sor, úgy az egészségbiztosítási szerv a 90. nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
+(3) Amennyiben a (2a) bekezdés szerinti jogszabály-módosításra nem kerül sor, úgy az egészségbiztosítási szerv a 90. nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
 
 (4) Az indikációhoz kötött kiemelt és emelt társadalombiztosítási támogatás javallathoz (indikációhoz) és felírási jogosultsághoz kötött. Egy adott gyógyszer árához eltérő támogatás állapítható meg a gyógykezelést megalapozó egyes betegségcsoportok, és a gyógyszert rendelő egészségügyi szolgáltató által ellátott feladat, valamint a gyógyszer támogatásához előírt szakorvosi javaslat alapján. A kiemelt és emelt indikációhoz kötött támogatási csoportba tartozó betegségcsoportok és indikációs területek megnevezését és a támogatással történő felírásra jogosultak körét az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg.
 
-(5) Amennyiben az egészségbiztosítási szervhez olyan gyógyszer támogatása iránti kérelem érkezik, amelynek kiemelt, illetve emelt indikációhoz kötött támogatásba való befogadásához a külön jogszabályban nem szereplő új betegségcsoport, illetve indikációs terület meghatározása szükséges, az egészségbiztosítási szerv javaslata alapján az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg az új kiemelt, illetve emelt támogatási csoportba tartozó betegségcsoportokat, indikációs területeket, valamint a támogatással történő felírásra jogosultak körét. Ezen döntés megszületéséig az egészségbiztosítási szerv a (2)–(3) bekezdésben foglaltak szerint jár el.
+(5) Ha az egészségbiztosítási szervhez olyan gyógyszer támogatása iránti kérelem érkezik, amelynek kiemelt, illetve emelt indikációhoz kötött támogatásba való befogadásához új betegségcsoport, illetve indikációs terület miniszteri rendeletben történő meghatározása szükséges, az egészségbiztosítási szerv javaslata alapján az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg az új kiemelt, illetve emelt támogatási csoportba tartozó betegségcsoportokat, indikációs területeket, valamint a támogatással történő felírásra jogosultak körét. Ezen döntés megszületéséig az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását az egészségbiztosításért felelős miniszter – az államháztartásért felelős miniszter egyetértésével meghozott – rendeletének hatálybalépéséig, legfeljebb azonban a kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti.
+
+(5a) Az (5) bekezdés alkalmazásában új indikáció alatt kizárólag az egészségbiztosításért felelős miniszter rendeletében szereplő indikációs pontban elfogadhatóként rögzített BNO kódtól vagy kódoktól eltérő BNO-kódot kell érteni.
 
 (6) A különkeretes gyógyszerek árához nyújtott társadalombiztosítási támogatás a gyógyszeres kezelést végző – az egészségbiztosítási szerv által évente közleményben közzétett – egészségügyi intézmények és az egészségbiztosítási szerv által megkötött külön szerződés szerint számolható el. A szerződéskötés feltételeit és a kötelező tartalmi elemeket külön jogszabály határozza meg.
 
 (7) A különkeretes gyógyszerek körét – a gyógyszerhatóanyag és a betegségcsoport megjelölésével – az egészségügyért felelős miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg.
 
-(8) Amennyiben a (7) bekezdés szerinti jogszabályban nem szereplő hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem, a (2)–(3) bekezdésben foglalt eljárást kell értelemszerűen alkalmazni.
+(8) Amennyiben a (7) bekezdés szerinti jogszabályban nem szereplő hatóanyagot tartalmazó gyógyszer támogatása iránt érkezik kérelem, az (5) bekezdésben foglalt eljárást kell értelemszerűen alkalmazni.
 
 28. § (1) Az egészségbiztosítási szerv a társadalombiztosítási támogatásba befogadott gyógyszerek támogatására az alábbi támogatási módszereket alkalmazhatja:
 
@@ -688,7 +690,7 @@ közhiteles hatósági nyilvántartást vezet.
 (3) Az egészségbiztosítási szerv a gyógyszerek befogadására irányuló kérelmekben a 23. § (3) bekezdés szerinti határidőben jár el, amikor a kérelem
 
 - a) új gyógyszerformára és új beviteli formára,
-- b) új indikációra,
+- b) új indikációra, vagy új BNO kódot nem érintő indikációs változásra,
 - c) új hatóanyagra,
 - d) új kombinációra, ha valamely, az összetételben szereplő hatóanyag nem támogatott,
 - e) a 23. § (4) bekezdés c) pontja szerinti kivétellel közfinanszírozása alapjául elfogadott árának emelésére,
@@ -922,7 +924,7 @@ esetén,
 (2) A határozatokban – a (3)–(4) bekezdésben foglaltak kivételével – a támogatás, illetve módosult feltételek melletti támogatás kezdőnapját úgy kell megállapítani, hogy az
 
 - a) a határozathozatal napját követő 180. napnál későbbi időpont nem lehet,
-- b) sorozatgyártású vagy méretsorozatos gyógyászati segédeszközökre vonatkozó, a referenciaeszköz vagy az azzal azonos, illetve annál alacsonyabb közfinanszírozás alapjául elfogadott árú termék közfinanszírozás alapjául elfogadott árának emelését eredményező, a 32. § (4) bekezdése szerinti határozat esetében a határozathozatalt követő 90. napnál korábbi időpont nem lehet.
+- b)
 
 (3) Abban az esetben, ha az egészségbiztosítási szerv a 32/A. § (1) bekezdése szerinti eljárásában a gyógyászati segédeszköz támogatásból való kizárásáról, támogatási mértékének módosításáról, illetve az eszköz más funkcionális csoportba (alcsoportba) sorolásáról dönt, a támogatás megszüntetésének, mértéke módosításának napját, illetve a más funkcionális csoportban (alcsoportban) történő támogatás kezdőnapját a határozat meghozatalának napját közvetlenül követő naptári negyedév első napjánál korábbi, illetve a határozat meghozatalának napját követő második naptári negyedév első napjánál későbbi időpontban nem lehet meghatározni.
 
@@ -979,7 +981,7 @@ esetén,
 (2) A gyógyászati segédeszköz forgalmazója a társadalombiztosítási támogatással történő kiszolgáltatás során az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban
 
 - a) a közfinanszírozás alapjául elfogadott árnál alacsonyabb és a b) pontban foglalt kivételtől eltekintve magasabb áron nem értékesítheti az adott eszközt,
-- b) a közfinanszírozás alapjául elfogadott árnál a miniszteri rendeletben foglalt eszközcsoportok esetében legfeljebb 5%-kal magasabb áron értékesítheti az adott eszközt,
+- b) a közfinanszírozás alapjául elfogadott árnál a miniszteri rendeletben foglalt eszközcsoportok esetében legfeljebb a miniszter rendeletében meghatározott mértékkel magasabb áron értékesítheti az adott eszközt,
 - c) megállapított támogatási összegtől sem közvetlenül, sem pedig közvetett módon nem térhet el,
 - d) megállapított térítési díjtól a b) pontban foglaltaknak megfelelően térhet el.
 
@@ -998,9 +1000,11 @@ esetén,
 
 (6a) A közgyógyellátásra jogosultak részére közgyógyellátás jogcímén rendelt gyógyászati segédeszközök javítása – ha az eszköz támogatással javítható – térítésmentes.
 
+(6b) A közgyógyellátásra jogosultak részére közgyógyellátás jogcímen rendelt gyógyászatisegédeszköz-javítás esetén a betegtől térítés semmilyen jogcímen nem kérhető.
+
 (7) A közgyógyellátásban ki nem szolgáltatható funkcionális csoportokat külön jogszabály tartalmazza.
 
-(8) Közgyógyellátás jogcímen támogatásba befogadott olyan gyógyszer rendelhető, melyet az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) által – az egészségügyért felelős miniszter rendeletében meghatározott támogatási szempontok szerint – kiadott gyógyszerlista tartalmaz. Az OGYTT a gyógyszerlista kialakításánál figyelembe veszi a közgyógyellátás tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben, valamint a végrehajtására kiadott, a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott szempontokat is.
+(8) Közgyógyellátás jogcímen támogatásba befogadott olyan gyógyszer rendelhető, amelyet az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) által – az egészségügyért felelős miniszter rendeletében meghatározott támogatási szempontok szerint – kiadott iránymutatás alapján az egészségbiztosítási szerv meghatároz és a 24. § (4) bekezdés szerinti közleménnyel egyidejűleg honlapján közzétesz. Az OGYTT figyelembe veszi a közgyógyellátás tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben, valamint a végrehajtására kiadott, a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott szempontokat is.
 
 (9) Ha egy gyógyszer több támogatási kategóriában is rendelhető, akkor közgyógyellátás keretében is a gyógyszerre megállapított valamennyi támogatási kategóriában rendelhető.
 
@@ -1183,9 +1187,9 @@ a befizetést követően haladéktalanul átutalja.
 
 44. § (1) A gyógyszer- és gyógyászatisegédeszköz-rendelés során – ideértve a fekvőbeteg-gyógyintézetekben alkalmazott gyógyszeres és gyógyászatisegédeszköz-kezelést is – az orvos a szakmai szabályok és a gyógykezelésre vonatkozó jogszabályok figyelembevétele mellett – a fogyatékos személyek számára is hozzáférhető és értelmezhető módon – tájékoztatja a beteget a gyógyszeres kezelés és gyógyászati segédeszközzel való ellátás alternatíváiról, az azonos hatóanyag-tartalmú, illetve azonos fix támogatási csoportba tartozó gyógyszerek, továbbá azonos funkcionális csoportba tartozó gyógyászati segédeszközök beteget terhelő kvárható költségei közötti különbségekről.
 
-(2) A gyógyszerész – ha a vényen az orvos nem zárta ki a helyettesíthetőséget – a külön jogszabályban előírt szakmai helyettesíthetőség figyelembevételével dokumentált módon köteles a gyógyszert kiváltó személyt tájékoztatni, hogy a gyógyszer más referencia vagy annál kedvezőbb árú, vagy preferált referencia ársávba tartozó gyógyszerrel helyettesíthető.
+(2) A gyógyszert kiadó személy jogszabályban meghatározott módon – ha a vényen az orvos nem zárta ki a helyettesíthetőséget – a jogszabályban előírt szakmai helyettesíthetőség figyelembevételével dokumentált módon köteles a gyógyszert kiváltó személyt tájékoztatni, hogy a gyógyszer más referencia vagy annál kedvezőbb árú, vagy preferált referencia ársávba tartozó gyógyszerrel helyettesíthető.
 
-(3) A gyógyszerész a beteg egyetértése esetén köteles a rendelt gyógyszert a (2) bekezdésben meghatározott – elsősorban a beteg számára legolcsóbb – referencia vagy annál kedvezőbb árú, vagy preferált referencia ársávba tartozó gyógyszerrel helyettesíteni.
+(3) A gyógyszert kiadó személy jogszabályban meghatározott módon a beteg egyetértése esetén köteles a rendelt gyógyszert a (2) bekezdésben meghatározott – elsősorban a beteg számára legolcsóbb – referencia vagy annál kedvezőbb árú, vagy preferált referencia ársávba tartozó gyógyszerrel helyettesíteni.
 
 (4) Az orvosi dokumentációban a beteg – az Ebtv.-ben foglalt nyilatkozatának a külön jogszabályban foglaltak szerinti aláírásával egyidejűleg – igazolja az (1) bekezdésben foglaltak megtörténtét.
 
@@ -1867,7 +1871,7 @@ rendeletben állapítsa meg.
 - u) az eredményesség alapú támogatásvolumen-szerződés kötésével érintett gyógyszerek körének felülvizsgálatára vonatkozó szempontokat,
 - v) a preferált biológiai gyógyszerek rendelésének kötelező minimális arányát,
 - w) a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait,
-- x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól,
+- x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól, valamint ezen eltérés mértékét,
 - y) a közreműködő bevonásával házhoz szállítható társadalombiztosítási támogatással rendelt gyógyászati segédeszközök körét.
 
 (3) Felhatalmazást kap az élelmiszerlánc-felügyeletért felelős miniszter, hogy
@@ -1979,7 +1983,7 @@ lép hatályba.
 
 86/A. § E törvénynek az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú törvények módosításáról szóló 2023. évi XIX. törvénnyel (a továbbiakban: Módtv.) megállapított 48. § (1) bekezdését, 50. § (2) bekezdését, 50/B. § (2) bekezdését, 53/B. § (2) bekezdését és 74. § (3) bekezdését a 2023. június 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
-86/B. § A 11. §-tól eltérően az önellenőrzési célt szolgáló SARS-CoV-2-fertőzés kimutatására szánt antigén gyorsteszt in vitro diagnosztikai orvostechnikai eszköz forgalmazását 2023. december 31-ig a 67. § (1) bekezdése szerinti vállalkozás is végezheti a gyártó által rendelkezésre bocsátott tájékoztatóban foglaltaknak megfelelően, összhangban a SARS-CoV-2-fertőzés diagnosztizálására szolgáló antigén gyorstesztek európai uniós alkalmazási követelményeivel.
+#### 86/B. §
 
 87. § (1) Az e törvény 22–35. §-ában foglalt rendelkezéseket az e törvény hatálybalépését követően indult eljárásokban kell alkalmazni.
 

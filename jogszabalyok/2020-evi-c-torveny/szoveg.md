@@ -261,6 +261,7 @@ kell megállapítani.
 - l) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
 - m) e törvény hatálya alá nem tartozó magyarországi vagy külföldi egészségügyi szolgáltatónál vagy külföldi szakirányú végzettséggel munkavégzésre irányuló jogviszonyban
 - n) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban
+- o) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó szervnél köznevelési foglalkoztatotti jogviszonyban, munkaviszonyban
 
 töltött időt.
 
@@ -385,6 +386,8 @@ alapilletményének megfelelő összeg.
 - a) amennyiben végkielégítés illeti meg, egyhavi végkielégítésre jogosult, és a részére kifizetett végkielégítés összegének az egyhavi mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábban őt foglalkoztató munkáltató részére köteles visszafizetni,
 - b) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
 
+(5) Nem jogosult végkielégítésre az egészségügyi szolgálati jogviszonyban álló személy, ha egészségügyi szolgálati jogviszonyának megszüntetésére a 12. § (6) bekezdése alapján kerül sor.
+
 #### 14. § [Az egészségügyi szolgálati jogviszonyban álló személyek nyilvántartása]
 
 (1) A munkáltató az általa foglalkoztatott egészségügyi szolgálati jogviszonyban álló személyekről a 2. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: személyi nyilvántartás) vezet. A 2. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
@@ -435,6 +438,8 @@ alapilletményének megfelelő összeg.
 
 (11) Az állami fenntartású egészségügyi szolgáltatónál a Kormány és az érintett szakszervezetek megállapodásában rögzített sajátos szabályok mellett gyakorolható a sztrájk joga.
 
+(12) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően az állami fenntartású egészségügyi szolgáltató az egészségügyi szolgálati jogviszonyban álló személyek illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.
+
 #### 15/A. § [Az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár főgyógyszerészének, szakgyógyszerészének és gyógyszerészének, szakdolgozójának egészségügyi szolgálati jogviszonya]
 
 (1) Az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertárat vezető főgyógyszerész (a továbbiakban: főgyógyszerész) egészségügyi szolgálati jogviszonya, valamint az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár szakgyógyszerészének, gyógyszerészének, szakdolgozójának egészségügyi szolgálati jogviszonya tekintetében a munkáltatói jogkört az állami fenntartású fekvőbeteg-ellátást végző intézmény munkáltatói jogkör gyakorlója (a továbbiakban: állami munkáltatói jogkör gyakorló) és az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertárat működtető jogi személy vezetője (a továbbiakban: szerződéses munkáltató jogkör gyakorló) az e §-ban foglaltak szerint gyakorolja.
@@ -464,7 +469,7 @@ E törvény alkalmazásában
 - f) az önként vállalt többletmunkáért járó díjazás megállapítása során figyelembe veendő szempontokat és az önként vállalt többletmunkáért járó díjazás lehetséges mértékét,
 - g) az egészségügyi szolgálati jogviszonyban álló személy részére a munkáltató által biztosítható visszatérítendő, illetve vissza nem térítendő juttatások körét, mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait,
 - h) az egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy tekintetében
-  - ha) az egészségügyi szolgálati jogviszony létesítésénél a tizennyolcadik életév betöltésének, valamint a magyar állampolgársággal, a szabad mozgás és tartózkodás jogával rendelkezésnek, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítést, illetve a magyar állampolgárság feltételét,
+  - ha) az egészségügyi szolgálati jogviszony létesítésénél a tizennyolcadik életév betöltésének, valamint a magyar állampolgársággal, a szabad mozgás és tartózkodás jogával rendelkezésnek, illetve a huzamos tartózkodási jogosultsággal való rendelkezésnek a feltétele alóli mentesítést, illetve a magyar állampolgárság feltételét,
   - hb) a magasabb vezető, valamint a vezető megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
   - hc) munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén próbaidőt nem lehet megállapítani,
   - hd) azokat a munkaköröket, illetve munkakörönként – a szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel az egészségügyi szolgálati jogviszonyban álló személy által korábban ellátott jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,

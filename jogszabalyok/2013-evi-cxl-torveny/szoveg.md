@@ -25,7 +25,7 @@ Az Országgyűlés a jelentős gazdasági károkat okozó és a közszolgáltat�
 - 8a. koncesszori alvállalkozó: a hulladékról szóló törvény szerinti koncesszori alvállalkozó,
 - 8b. koncesszori fémkereskedelmi engedély: a fémkereskedelmi hatóság által kiadott, koncesszori fémkereskedelmi tevékenységre jogosító engedély,
 - 8c. koncesszori fémkereskedelmi tevékenység: a fémkereskedelmi engedélyköteles anyagnak koncesszori alvállalkozóként hulladékgazdálkodási intézményi résztevékenység keretében történő átvétele, amely nem minősül a 4. pontban meghatározott felvásárlásnak,
-- 8d. koncesszori fémkereskedő: hatályos koncesszori fémkereskedelmi engedéllyel rendelkező jogi személy vagy jogi személyiség nélküli szervezet,
+- 8d. koncesszori fémkereskedő: a koncesszori fémkereskedelmi engedély jogosultja,
 - 9. közszolgáltatást nyújtó gazdálkodó szervezet: olyan gazdálkodó szervezet, amely az államháztartáson belüli vagy kívüli szervezet vagy személy által más szerv vagy személy számára végzett, jogszabályban meghatározott, a közfeladat-ellátás körébe tartozó olyan szolgáltatást nyújt, amely nem jár közhatalom gyakorlásával és az e törvény végrehajtására kiadott kormányrendeletben meghatározott felismerésre alkalmas jellemzővel rendelkező fémkereskedelmi engedélyköteles anyagot értékesít,
 - 10. piaci érték: a 4. § (11) bekezdésében és az 5. § (3) bekezdés e) pontjában meghatározott vételárak alapján számított országos átlagár.
 
@@ -61,14 +61,14 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (6) A közszolgáltatást nyújtó gazdálkodó szervezetnél termelődött vagy közszolgáltatást nyújtó gazdálkodó szervezet által begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése vagy átadása írásbeli szerződés alapján, az abban meghatározott telephellyel rendelkező fémkereskedő vagy koncesszori fémkereskedő részére, a közszolgáltatást nyújtó gazdálkodó szervezet által kiállított igazolás mellett történhet. A közszolgáltatást nyújtó gazdálkodó szervezet a fémkereskedővel vagy koncesszori fémkereskedővel kötött szerződés eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől számított 15 napon belül megküldi.
 
-(6a) A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozónál termelődött vagy általa begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése vagy átadása a hulladékgazdálkodási koncessziós társaság felhatalmazása alapján, az abban meghatározott telephellyel rendelkező fémkereskedő vagy koncesszori fémkereskedő részére, a hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó által kiállított igazolással történhet. A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó a fémkereskedő részére történő értékesítés esetén a szerződés vagy a koncesszori fémkereskedő részére történő átadás esetén a részére kiállított igazolás eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől, illetve az igazolás kiállításától számított 15 napon belül megküldi.
+(6a) A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozónál termelődött vagy általa begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése vagy átadása a hulladékgazdálkodási koncessziós társaság felhatalmazása alapján, az abban meghatározott telephellyel rendelkező fémkereskedő vagy koncesszori fémkereskedő részére, a hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó által kiállított igazolással történhet. A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó a fémkereskedő részére történő értékesítés esetén a szerződés vagy a koncesszori fémkereskedő részére történő átadás esetén a hulladékgazdálkodási koncessziós társaság felhatalmazásának egy eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől, illetve a felhatalmazás kiállításától számított 15 napon belül megküldi. A hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó fémkereskedő vagy koncesszori fémkereskedő részére történő átadás esetén a részére kiállított igazolás egy eredeti példányát, vagy annak hitelesített másolatát az átadáskor a fémkereskedő vagy a koncesszori fémkereskedő részére átadja.
 
 (7) Ha az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag termelődése az adott ingatlanhoz, illetve az egyéni vállalkozó vagy gazdálkodó szervezet tevékenységéhez köthető, azt az ingatlantulajdonos, illetve az egyéni vállalkozó vagy gazdálkodó szervezet – az értékesítést vagy átadást megelőzően a tárolás helye szerint illetékes fémkereskedelmi hatósághoz történő előzetes bejelentés mellett – a fémkereskedelmi hatóság visszaigazolását követően – a (7c) bekezdésben foglaltakra tekintettel – kizárólag fémkereskedő részére értékesítheti vagy koncesszori fémkereskedőnek adhatja át. A bejelentésnek tartalmaznia kell:
 
 - a) a leadni kívánt fémkereskedelmi engedélyköteles anyag megnevezését, mennyiségét,
 - b) a felvásárló fémkereskedő vagy átvevő koncesszori fémkereskedő megnevezését, telephelyének címét,
 - c) az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag tárolásának helyét,
-- d) a bejelentő nevét, lakcímét vagy székhelyét, adóazonosító jelét vagy adószámát, telefonos elérhetőségét és
+- d) a bejelentő nevét, lakcímét vagy székhelyét, adóazonosító jelét vagy adószámát, elektronikus, valamint telefonos elérhetőségét és
 - e) a (2) bekezdés esetén a bontási engedély számát, a bontás helyét, a bejelentő székhelyét és adószámát.
 
 (7a) A bejelentésnek a már ténylegesen kitermelt, az értékesítő vagy átadó személy birtokában lévő fémkereskedelmi engedélyköteles anyagra kell vonatkoznia.
@@ -94,7 +94,7 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (12) Fémkereskedő vagy koncesszori fémkereskedő égett kábelt kizárólag a közszolgáltatást nyújtó gazdálkodó szervezettől, illetve a fémkereskedelmi hatóság vagy bíróság döntése, továbbá tűzkár esetén tűzeseti hatósági bizonyítvány alapján vehet át.
 
-3/A. § A fémkereskedelmi hatóság 100 ezer forintig terjedő közigazgatási bírságot szab ki azzal a természetes személlyel szemben, aki az ingatlanon tárolható, a 3. § (4) bekezdésében meghatározott térfogatot meghaladó mennyiségű fémkereskedelmi engedélyköteles anyag fémkereskedő, koncesszori fémkereskedő vagy hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó részére történő leadási kötelezettségének a fémkereskedelmi hatóság kötelezése ellenére sem tesz eleget.
+3/A. § A fémkereskedelmi hatóság 100 ezer forintig terjedő fémkereskedelmi bírságot szab ki azzal a természetes személlyel szemben, aki az ingatlanon tárolható, a 3. § (4) bekezdésében meghatározott térfogatot meghaladó mennyiségű fémkereskedelmi engedélyköteles anyag fémkereskedő, koncesszori fémkereskedő vagy hulladékgazdálkodási közszolgáltatási résztevékenységet végző koncesszori alvállalkozó részére történő leadási kötelezettségének a fémkereskedelmi hatóság kötelezése ellenére sem tesz eleget.
 
 #### 3. Fémkereskedelmi engedélyköteles tevékenységek
 
@@ -131,7 +131,7 @@ is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról
 
 (8) Fémkereskedelmi engedélyköteles anyagot a fémkereskedő csak a külön jogszabályban meghatározott adattartalmú anyagkísérő okmánnyal együtt szállíthat.
 
-(9) A (8) bekezdésben meghatározott anyagkísérő okmány olyan szigorú számadású bizonylat, amely a szállított fémkereskedelmi engedélyköteles anyag származásának, eredetének, valamint a fémkereskedő általi átvétel és értékesítés, a kereskedő telephelyei közötti szállítás igazolására szolgál. Az anyagkísérő okmányt az e törvény szerinti adatokat tartalmazó külön jogszabályban meghatározott esetekben kiállítandó szállítólevél helyettesítheti.
+(9) A (8) bekezdésben meghatározott anyagkísérő okmány olyan szigorú számadású bizonylat, amely a szállított fémkereskedelmi engedélyköteles anyag származásának, eredetének, valamint a fémkereskedő általi átvétel és értékesítés, a kereskedő telephelyei közötti szállítás igazolására szolgál. Az anyagkísérő okmányt az e törvény szerinti , illetve más jogszabályban meghatározott adatokat tartalmazó, szigorú számadású szállítólevél helyettesítheti.
 
 (10) A fémkereskedelmi hatóság a fémkereskedőkről, telephelyeikről, valamint a telephelyek nyitva tartásáról nyilvántartást vezet, amelyet honlapján közzétesz.
 
@@ -315,11 +315,32 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 11. § (1) A fémkereskedelmi hatóság hatósági ellenőrzés keretében kérelemre vagy hivatalból ellenőrzi a fémkereskedő fémkereskedelmi tevékenységét, valamint a fémkereskedelmi engedélyköteles anyagok más személy általi értékesítését, szállítását, fuvarozását, raktározását, tárolását és hasznosítását.
 
+(1a) A koncessziós társaság megkeresheti a fémkereskedelmi hatóságot
+
+- a) a fémkereskedő,
+- b) a koncesszori fémkereskedő, valamint
+- c) – a fémkereskedelmi engedélyköteles anyag e törvény szerinti hasznosítását végző gazdálkodó szervezetek közül – a hulladékról szóló törvény szerinti, fémtartalmú hulladék aprítására (shredderezés) vagy mechanikai előkezelésére (ollózás, tömörítés) szolgáló hulladékot előkezelő hulladékkezelő létesítményt üzemeltető gazdálkodó szervezet (a továbbiakban: előkezelő),
+
+vagy e személyek egy meghatározott csoportja ellenőrzésének lefolytatása céljából.
+
+(1b) Az ellenőrzéseket a fémkereskedelmi hatóság a koncessziós társasággal kötött előzetes megállapodás alapján ütemezetten végzi, a megállapodásban foglalt feltételek mellett.
+
+(1c) Az (1a) bekezdés szerinti ellenőrzés díjköteles, amelynek mértéke az ellenőrzést végző személyenként és alkalmanként egymillió forint. Az ellenőrzést lefolytató személyek számát a fémkereskedelmi hatóság az ellenőrzés körülményeire figyelemmel határozza meg. Az ellenőrzésből származó díjbevétel a Nemzeti Adó- és Vámhivatal saját bevétele.
+
+(1d) Az (1a) bekezdés szerinti ellenőrzésért mint hatósági szolgáltatásért fizetendő díj a hulladékgazdálkodási koncessziós társaságnak a hulladékról szóló törvény szerinti koncessziós feladatainak ellátásához, így különösen a hulladékgazdálkodási célértékek teljesítéséhez szükséges költségek körébe tartozó költség, amely a hulladékgazdálkodási koncessziós társaság indokolt költségének minősül.
+
+(1e) Az ellenőrzés az előkezelő, a fémkereskedő, a koncesszori fémkereskedő nyitvatartási idejében, vagy azon időszak tekintetében rendelhető el, amelynek során a telephelyre fémkereskedelmi engedélyköteles anyag került beszállításra vagy átvételre. A fémkereskedelmi hatóság többlet-adatszolgáltatási kötelezettséget, előzetes bejelentési kötelezettséget, valamint bizonyos tevékenységektől való tartózkodási kötelezettséget határozhat meg az ellenőrzés lefolytatása céljából.
+
+(1f) A fémkereskedelmi hatóság az ellenőrzés során az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelezettségek – így különösen a 3. § (5) bekezdése, valamint a 4. § (3a) és (3b) bekezdése szerinti előírások – megtartását ellenőrzi.
+
+(1g) Az előkezelő, a fémkereskedő, valamint a koncesszori fémkereskedő az ellenőrzés során a fémkereskedelmi hatóság kérésére biztosítani köteles az ellenőrzés ellátásához szükséges tárgyi, technikai feltételeket.
+
 (2) A fémkereskedelmi hatóság bírsággal sújtja azt, aki
 
 - a) fémkereskedelmi tevékenységet fémkereskedelmi engedély nélkül végez,
 - b) fémkereskedelmi engedélyköteles anyagot a 3. § (10) bekezdésében foglaltak ellenére szállítólevél nélkül szállít,
 - c) fémkereskedelmi engedélyköteles anyagot a 10. §-ban foglalt szabályokat megsértve hasznosít.
+- d) a 4. § (3a) vagy (3b) bekezdésben foglalt kötelezettségét megszegi.
 
 (3) A fémkereskedelmi hatóság bírsággal sújtja azt a fémkereskedőt, aki
 
@@ -335,7 +356,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (4) A (2) bekezdésben és a (3) bekezdés a)–d), f)–g) és i) pontjában meghatározott jogszabálysértés esetén bírság helyett figyelmeztetés szankciónak nincs helye.
 
-11/A. § (1) A 11. § (2) bekezdés a) és b) pontja és a 11. § (3) bekezdés b), c), e), g) és i) pontja szerinti jogsértés esetén a bírság mértéke a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének
+11/A. § (1) A 11. § (2) bekezdés a), b) és d) pontja és a 11. § (3) bekezdés b), c), e), g) és i) pontja szerinti jogsértés esetén a bírság mértéke a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének
 
 - a) fémkereskedelmi engedélyköteles anyaggal gazdasági tevékenységet folytató gazdálkodó szervezet általi jogsértés esetén ötszöröse,
 - b) természetes személy esetén háromszorosa.
@@ -399,7 +420,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 - a) ha a fémkereskedelmi hatóság
   - aa) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése esetén, vagy
-  - ab) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
+  - ab) a 11. § (2) bekezdés a), c) és d) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
 
 véglegessé vált határozatban bírságot nem szabott ki,
 
@@ -430,7 +451,7 @@ véglegessé vált határozatban bírságot nem szabott ki,
 (4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni,
 
 - a) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése, vagy
-- b) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés esetén
+- b) a 11. § (2) bekezdés a), c) és d) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés esetén
 
 ha a fémkereskedelmi hatóság véglegessé vált határozattal bírságot szab ki.
 

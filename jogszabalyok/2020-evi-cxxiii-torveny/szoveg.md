@@ -185,7 +185,7 @@ terjed ki.
   - f) lakcímét,
   - g) értesítési címét, telefonszámát, elektronikus levélcímét,
   - h) FELIR azonosítóját, tevékenységeinek azonosítóját,
-- 2. a mezőgazdasági őstermelő nyilvántartásba vételének, nyilvántartásból való törlésének dátumát a 19. §-nak megfelelően, valamint az őstermelői igazolvány érvényesítésének dátumát,
+- 2. a mezőgazdasági őstermelő nyilvántartásba vételének, nyilvántartásból való törlésének dátumát a 19. §-nak megfelelően, valamint az őstermelői igazolvány számát és érvényesítésének dátumát,
 - 3. az őstermelői tevékenység végzésének helyét,
 - 4. a mezőgazdasági őstermelő által termesztett növénykultúrák, -fajok megnevezését,
 - 5. a mezőgazdasági őstermelő által tartott állatfajok megnevezését,
@@ -200,8 +200,10 @@ terjed ki.
 - 14. az őstermelők családi gazdasága működésének alapjául szolgáló szerződés példányát,
 - 15. a mezőgazdasági őstermelői tevékenységtől eltiltás tényét, kezdő és záró időpontját,
 - 16. a mezőgazdasági őstermelői tevékenység felfüggesztésének okát, kezdő és záró időpontját.
+- 17. az őstermelők családi gazdasága működésének alapjául szolgáló szerződés keltét, módosításainak dátumát és a szerződés azonosító számát,
+- 18. a 9. § szerinti nyereség-veszteség megoszlást.
 
-(2) Az őstermelői nyilvántartás adatai közül az őstermelők tevékenységének átláthatósága céljából a mezőgazdasági igazgatási szerv honlapján való közzététellel bárki számára megismerhető az (1) bekezdés 1. pont a) és h) alpontja, 2., 4–11., 13., 15 és 16. pontja szerinti adat.
+(2) Az őstermelői nyilvántartás adatai közül az őstermelők tevékenységének átláthatósága céljából a mezőgazdasági igazgatási szerv honlapján való közzététellel bárki számára megismerhető az (1) bekezdés 1. pont a) és h) alpontja, 2., 4–11., 13., 15.,16. és 17. pontja szerinti adat.
 
 (3) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokat, ha az őstermelő
 

@@ -110,7 +110,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - h) törvényes képviselő, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy neve és elérhetőségei.
 - i) az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosító.
 
-(3) A kamarai nyilvántartásba az a gazdálkodó szervezet jegyezhető be, amely a (2) bekezdésben meghatározott adatait tartalmazó kamarai adatlapot kitöltve és cégszerűen aláírva a területi gazdasági kamara részére elektronikus úton vagy papíralapon benyújtotta, valamint a 34/A. §-ban meghatározott kamarai hozzájárulást megfizette. Egyéni vállalkozó esetében a papír alapú kamarai adatlapot az egyéni vállalkozók nyilvántartását végző hatóság továbbítja a területi gazdasági kamara részére.
+(3) A kamarai nyilvántartásba az a gazdálkodó szervezet jegyezhető be, amely a (2) bekezdésben meghatározott adatait tartalmazó kamarai adatlapot kitöltve és cégszerűen aláírva a területi gazdasági kamara részére elektronikus úton benyújtotta, valamint a 34/A. §-ban meghatározott kamarai hozzájárulást megfizette. Egyéni vállalkozó esetében a papír alapú kamarai adatlapot az egyéni vállalkozók nyilvántartását végző hatóság továbbítja a területi gazdasági kamara részére.
 
 (4) Amennyiben a területi gazdasági kamara azt állapítja meg, hogy a gazdálkodó szervezet az e törvény szerinti kamarai nyilvántartásban nem szerepel, felszólítja, hogy e kötelezettségének tizenöt munkanapon belül tegyen eleget. A felszólítás eredménytelensége esetén a gazdálkodó szervezetet az illetékes területi gazdasági kamara a kamarai nyilvántartásba bejegyzi és intézkedik a kamarai hozzájárulás összegének behajtása iránt.
 

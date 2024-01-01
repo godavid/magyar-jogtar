@@ -31,7 +31,7 @@ a szabadalmi ügyvivőkről
 
 (2) A Kamarába való felvételre jogosult, aki
 
-- a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorló;
+- a) magyar állampolgár, valamely EGT-állam állampolgára, huzamos tartózkodási jogosultsággal rendelkezik;
 - b) büntetlen előéletű;
 - c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
 - d) szabadalmi ügyvivői vizsgát tett.
@@ -109,7 +109,7 @@ a szabadalmi ügyvivőkről
 - c) büntetett előéletű,
 - d) jogerős határozattal a Kamarából való kizárás fegyelmi büntetéssel sújtják;
 - e) kamarai tagdíjfizetési kötelezettségének felszólítás ellenére sem tett eleget;
-- f) magyar állampolgársága, valamely EGT-állam állampolgársága, letelepedett vagy bevándorolt státusza megszűnik;
+- f) magyar állampolgársága, valamely EGT-állam állampolgársága, huzamos tartózkodási jogosultsága megszűnik;
 - g) cselekvőképességét érintő gondnokság vagy támogatott döntéshozatal hatálya alá helyezik;
 - h) működését iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál folytatja;
 - i) megszűnik a 2. § (3) bekezdésének a) pontja szerinti felelősségbiztosítása;
@@ -283,7 +283,7 @@ a szabadalmi ügyvivőkről
 
 kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság, és a megbízás teljesítésében a szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság a), b) és c) pontban meghatározott tevékenységet folytató tagja nem vesz részt, továbbá az ügyfél ehhez írásban kifejezetten hozzájárul.
 
-14/A. §
+#### 14/A. §
 
 14/B. § (1) Az összeférhetetlenségi ok bekövetkezését meg kell előzni.
 
@@ -620,7 +620,7 @@ kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői 
 
 (2) A Kamara annak engedélyezi szabadalmi ügyvivőjelölti tevékenység folytatását, aki
 
-- a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorolt;
+- a) magyar állampolgár, valamely EGT-állam állampolgára, vagy huzamos tartózkodási jogosultsággal rendelkezik;
 - b) büntetlen előéletű;
 - c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
 - d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött olyan munkáltatóval, amely szabadalmi ügyvivőt foglalkoztat.
@@ -652,7 +652,7 @@ kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői 
 - b) akinek szabadalmi ügyvivőjelölti munkaviszonya megszűnt, és újabb ilyen munkaviszony létesítését a megszűnéstől számított három hónapon belül a Kamaránál nem igazolja;
 - c) aki büntetett előéletű, vagy a szabadalmi ügyvivői foglalkozástól eltiltás hatálya alatt áll,
 - d) akit jogerős határozattal a szabadalmi ügyvivőjelöltek névjegyzékéből való törlés fegyelmi büntetéssel sújtottak;
-- e) akinek magyar állampolgársága, valamely EGT-állam állampolgársága, letelepedett vagy bevándorolt státusza megszűnik;
+- e) akinek magyar állampolgársága, valamely EGT-állam állampolgársága, huzamos tartózkodási jogosultsága megszűnik;
 - f) akit cselekvőképességet korlátozó vagy kizáró gondnokság alá helyeztek;
 - g) akit felvettek a Kamarába;
 - h) aki meghalt.
@@ -677,7 +677,9 @@ kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői 
 - a) írásbeli megrovás,
 - b) törlés a szabadalmi ügyvivőjelöltek névjegyzékéből.
 
-### Az európai közösségi hivatásos iparjogvédelmiképviselő
+### Az európai közösségi hivatásos iparjogvédelmi
+
+képviselő
 
 27/A. § (1) Az európai közösségi hivatásos iparjogvédelmi képviselőnek Magyarország területén folytatott szabadalmi ügyvivői tevékenységére e törvény rendelkezéseit a 27/B–27/I. §-okban foglalt eltérésekkel kell alkalmazni.
 
@@ -913,7 +915,7 @@ kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői 
 
 ### Átmeneti rendelkezések
 
-37. §
+#### 37. §
 
 38. § (1) A Kamara alakuló közgyűlésén jogszerűen részt vett szabadalmi ügyvivők az alakuló közgyűlés napjával a Kamara tagjává válnak.
 

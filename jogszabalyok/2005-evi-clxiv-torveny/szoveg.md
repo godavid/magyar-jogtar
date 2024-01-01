@@ -6,7 +6,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 ### A törvény hatálya
 
-1. § E törvény hatálya – a külön törvényben meghatározott egészségügyi szolgáltatás, a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység, valamint a külön törvényben meghatározott dohánytermék-kiskereskedelmi engedélyköteles tevékenység és ehhez kapcsolódóan a külön törvényben meghatározott dohányboltban árusított egyéb termékek értékesítésére irányuló kereskedelmi tevékenység kivételével – a kereskedelmi tevékenység, a kereskedelmet kiszolgáló szolgáltató, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának, továbbá a termékek forgalmazásának alapvető követelményeire és ellenőrzésére terjed ki.
+1. § E törvény hatálya – a külön törvényben meghatározott egészségügyi szolgáltatás, a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység, valamint a külön törvényben meghatározott dohánytermék-kiskereskedelmi engedélyköteles tevékenység és ehhez kapcsolódóan a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendeletében meghatározott, dohányboltban árusított egyéb termékek értékesítésére irányuló kereskedelmi tevékenység kivételével – a kereskedelmi tevékenység, a kereskedelmet kiszolgáló szolgáltató, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának, továbbá a termékek forgalmazásának alapvető követelményeire és ellenőrzésére terjed ki.
 
 2. § E törvény alkalmazásában:
 

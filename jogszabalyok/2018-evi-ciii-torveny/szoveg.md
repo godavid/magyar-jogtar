@@ -25,8 +25,8 @@ Az Országgyűlés a 2011-ben indított programban részt vevő természetes sze
 - h) természetes személy:
   - ha) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
   - hb) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
-  - hc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
-  - hd) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el.
+  - hc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény alapján huzamos tartózkodási jogosultsággal rendelkezik,
+  - hd) a hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény alapján ilyen jogállásúnak ismerték el.
 
 ### II. Fejezet — A LEBONYOLÍTÓ FELADATAI A PROGRAMBAN RÉSZT VEVŐ TERMÉSZETES SZEMÉLYEK OTTHONTEREMTÉSÉNEK ÉRDEKÉBEN
 

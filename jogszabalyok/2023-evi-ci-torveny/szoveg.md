@@ -424,11 +424,27 @@ Az Országgyűlés – az Alaptörvényben foglaltakkal összhangban, a közérd
 
 #### 50. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-#### 106. §
+106. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény a következő 19/K. §-sal egészül ki:
+
+„19/K. § (1) A nyilvántartást kezelő szerv kormányrendeletben megadott szabályok szerint közreműködik a személyek természetes azonosítóival történő összekapcsoláshoz szükséges, a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi törvény szerinti adatösszekapcsolási szolgáltatás keretében történő ellenőrzésben.
+
+(2) A nyilvántartást kezelő szerv az (1) bekezdés szerinti közreműködés keretében összeveti a kapott természetes azonosító és lakcím adatokat a nyilvántartásban szereplő adatokkal, és csak az egyezés vagy eltérés tényéről ad tájékoztatást.”
 
 #### 51. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-#### 107. §
+107. § (1) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaztv.) II. Fejezete a következő 10/G. §-sal egészül ki:
+
+„10/G. § Az összerendelési nyilvántartást vezető szerv az összerendelési nyilvántartásból kormányrendeletben megadott szabályok szerint adatot szolgáltat a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi törvény szerinti adat-összekapcsolási szolgáltatás végrehajtásához.”
+
+(2) A Szaztv. 32. §-a a következő 29. ponttal egészül ki:
+
+„29. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.”
+
+(3) A Szaztv. 36. §-a a következő 28. ponttal egészül ki:
+
+[A személyi azonosító továbbítására jogosult:]
+
+„28. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.”
 
 #### 52. A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosítása
 
@@ -438,25 +454,187 @@ Az Országgyűlés – az Alaptörvényben foglaltakkal összhangban, a közérd
 
 #### 109. §
 
-#### 110. §
+110. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 30. §-a a következő (2a) bekezdéssel egészül ki:
 
-#### 111. §
+„(2a) Az adatigénylésnek a közfeladatot ellátó szerv nem köteles eleget tenni, ha az igény teljesítése
 
-#### 112. §
+- a) a közfeladatot ellátó szerv tényleges kezelésében nem lévő – így különösen az irányítása vagy felügyelete alatt álló közfeladatot ellátó szerv kezelésében lévő – adat beszerzését, begyűjtését, vagy
+- b) a közfeladatot ellátó szerv tényleges kezelésében lévő közérdekű adatok vagy közérdekből nyilvános adatok összevetése útján a kezelésében lévő adatokhoz képest új adat előállítását
 
-#### 113. §
+tenné szükségessé.”
 
-#### 114. §
+111. § (1) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 38. §-a a következő (2c) bekezdéssel egészül ki:
 
-#### 115. §
+„(2c) Az adatkormányzási rendelet szerinti, az adatközvetítő szolgáltatásokért felelős illetékes hatóság és az adataltruista szervezetek nyilvántartásba vételéért felelős illetékes hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az adatkormányzási rendeletben és e törvényben meghatározottak szerint a Hatóság gyakorolja.”
 
-#### 116. §
+(2) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 38. § (3) bekezdése a következő i) ponttal egészül ki:
 
-#### 117. §
+[A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint különösen]
 
-#### 118. §
+„i) ellátja az adatkormányzási rendeletben meghatározott, az adatközvetítő szolgáltatók nyilvántartásba vételéért és felügyeletéért felelős illetékes hatóság és az adataltruista szervezetek nyilvántartásba vételéért és felügyeletéért felelős illetékes hatóság feladatait.”
 
-#### 119. §
+112. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény a következő 34/B. alcímmel egészül ki:
+
+#### „34/B. Az adatközvetítő szolgáltatók nyilvántartásba vételére, valamint a megfeleléssel összefüggő hatósági bizonyítvány kiállítására irányuló eljárás
+
+64/E. § (1) A Hatóság az adatkormányzási rendelet 10. cikke szerinti szolgáltatás nyújtását tervező adatközvetítő szolgáltatót az ezen alcímben foglalt rendelkezések szerint nyilvántartásba veszi. Az adatközvetítő szolgáltatók nyilvántartása az adatkormányzási rendelet 11. cikk (6) bekezdése szerinti adatokat tartalmazza. A nyilvántartásban kezelt adatok közérdekből nyilvános adatok.
+
+(2) Az (1) bekezdés szerinti nyilvántartásba vételre irányuló kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl az adatkormányzási rendelet 11. cikk (6) bekezdése szerinti adatokat tartalmazza. Az (1) bekezdés szerinti nyilvántartásba vételi eljárásban az ügyintézési határidő hét nap.
+
+(3) A Hatóság az adatközvetítő szolgáltató kérelmére hatósági bizonyítvánnyal (a továbbiakban: megfelelőségi bizonyítvány) igazolja, hogy a nyilvántartásba vett adatközvetítő szolgáltató az adatkormányzási rendelet 11. és 12. cikkében foglalt feltételeknek megfelel, azzal, hogy hogy az e kérelemben – az általános közigazgatási rendtartásról szóló törvénytől eltérően – a megfelelőségi bizonyítvány felhasználásának célját nem kell feltüntetni. A megfelelőségi bizonyítvány kiállítására vonatkozó eljárásban az ügyintézési határidő 150 nap.
+
+(4) A (3) bekezdés szerinti eljárás lefolytatása során az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott hatósági eljárást, ha
+
+- a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+- b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
+
+(5) A Hatóság a (3) bekezdés szerinti eljárás a (4) bekezdés szerinti felfüggesztéséről szóló végzését a (4) bekezdésben meghatározott más szervvel, illetve személlyel is közli azzal, hogy az eljárás befejezéséről tájékoztassa.
+
+(6) A (3) bekezdés szerinti eljárás a (4) bekezdés szerinti felfüggesztésekor minden határidő megszakad és az eljárás felfüggesztésének megszüntetésekor – az ügyintézési határidő kivételével – újrakezdődik.
+
+(7) Az (1) bekezdés szerinti nyilvántartásba vételi eljárás lefolytatásáért, valamint a megfelelőségi bizonyítvány kiállításáért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(8) A Hatóság által nyilvántartásba vett adatközvetítő szolgáltató az (1) bekezdésben meghatározott adatok bármely változását a változás bekövetkezésétől számított tizennégy napon belül a Hatóságnak bejelenti. A változás-bejelentésre irányuló eljárásra a nyilvántartásba vételre irányuló eljárásra irányadó rendelkezéseket kell alkalmazni.
+
+(9) A Hatóság által nyilvántartásba vett, a tevékenységét beszüntető adatközvetítő szolgáltató a tevékenysége beszüntetésének napját követő tizenöt napon belül a Hatóságnak bejelenti, amely bejelentést követően a Hatóság az adatközvetítő szolgáltatót a nyilvántartásból törli.
+
+(10) A Hatóság az ezen alcím szerinti bejelentésekről, változás-bejelentésekről, illetve törlésekről az adatkormányzási rendeletben meghatározottak szerint az Európai Bizottságot – a Kormány rendeletében meghatározott módon – haladéktalanul értesíti.”
+
+113. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény a következő 34/C. alcímmel egészül ki:
+
+#### „34/C. Az adatközvetítő szolgáltatók felügyeletére irányuló eljárás
+
+64/F. § (1) A Hatóság az adatkormányzási rendelet III. fejezetében meghatározott követelmények ellenőrzésére kérelemre az adatközvetítő szolgáltatók felügyeletére irányuló eljárást indít és hivatalból az adatközvetítő szolgáltatók felügyeletére irányuló eljárást indíthat.
+
+(2) Az (1) bekezdésben meghatározott esetben a kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza
+
+- a) a feltételezett jogsértés megjelölését,
+- b) a feltételezett jogsértést megvalósító konkrét magatartás vagy állapot leírását,
+- c) a feltételezett jogsértést megvalósító adatközvetítő szolgáltató azonosításához szükséges, a kérelmező rendelkezésére álló adatokat,
+- d) a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és azok bizonyítékait, továbbá
+- e) a megjelölt jogsértés orvoslása iránti döntésre vonatkozó határozott kérelmet.
+
+(3) Az adatközvetítő szolgáltatók felügyeletére irányuló eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+(4) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
+
+(5) Ha a Hatóság az adatközvetítő szolgáltatók felügyeletére irányuló eljárást a kérelem benyújtását követő kilencven napon belül nem szüntette meg vagy az ügy érdemében nem döntött, a kérelmezőt értesíti az értesítés időpontjáig megtett eljárási cselekményekről.
+
+(6) Az adatközvetítő szolgáltatók felügyeletére irányuló eljárásban hozott határozatában a Hatóság az adatkormányzási rendeletben meghatározott jogkövetkezményeket alkalmazhatja, valamint bírságot szabhat ki. A bírság mértéke százezertől ötvenmillió forintig terjedhet.
+
+(7) Ha az adatközvetítő szolgáltatók felügyeletére irányuló eljárás lefolytatása során a Hatóság arra a megállapításra jut, hogy az eljárás megszüntetésére nincs szükség, és nem állapítható meg az sem, hogy az ellenőrzött adatközvetítő szolgáltató magatartása nem jogsértő, a Hatóság megküldi az ellenőrzött adatközvetítő szolgáltató részére az ügyre vonatkozó előzetes álláspontját, amely tartalmazza a megállapított tényállást, az azt alátámasztó bizonyítékokat, a tényállás értékelését, a döntés meghozatalához szükséges szempontok és következtetések lényegének, valamint az esetleges bírság kiszabása körében figyelembe venni kívánt szempontoknak az ismertetését. Az előzetes álláspontra vonatkozóan az ellenőrzött adatközvetítő szolgáltató harminc napon belül nyilatkozatot, észrevételt tehet.
+
+(8) A Hatóság annak eldöntésében, hogy indokolt-e az (5) bekezdés szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértés súlyát – ideértve a jogsértő állapot fennállásának időtartamát –, valamint azt, hogy a jogsértővel szemben korábban az adatközvetítő szolgáltatók felügyeletére irányuló eljárásban állapítottak-e meg a tevékenységével kapcsolatos jogsértést.
+
+(9) A Hatóság elrendelheti határozatának – az adatközvetítő szolgáltató azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
+
+(10) Ha a Hatóság az adatkormányzási rendelet 14. cikk (4) bekezdés b) vagy c) pontja szerinti jogkövetkezmény alkalmazása esetén, valamint a (8) bekezdés szerinti jogsértés orvoslásáról kapott bejelentésről az Európai Bizottságot – a Kormány rendeletében meghatározott módon – haladéktalanul értesíti.
+
+(11) Az adatkormányzási rendelet szerinti felügyeleti hatóságokkal a Hatóság – az adatkormányzási rendeletben meghatározottak szerint – együttműködik.
+
+(12) A (6) bekezdés szerinti határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+
+(13) Az adatközvetítői megfelelőségi eljárás tekintetében a 61. § (7)–(10) bekezdésekben foglalt rendelkezéseket megfelelően alkalmazni kell.”
+
+114. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény a következő 34/D. alcímmel egészül ki:
+
+#### „34/D. Az adataltruista szervezetek nyilvántartásba vételére irányuló eljárás
+
+64/G. § (1) A Hatóság az adatkormányzási rendelet 18. cikke szerinti követelményeknek megfelelő szervezetet kérelmére az ezen alcímben foglalt rendelkezések szerint nyilvántartásába veszi. Az adataltruista szervezetek nyilvántartása az adatkormányzási rendelet 19. cikk (4) bekezdése szerinti adatokat tartalmazza.
+
+(2) Az (1) bekezdés szerinti nyilvántartásba vételre irányuló kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl az adatkormányzási rendelet 19. cikk (4) bekezdése szerinti adatokat tartalmazza. A nyilvántartásba vételi eljárásban az ügyintézési határidő nyolcvannégy nap.
+
+(3) A (1) bekezdés szerinti nyilvántartásba vételi eljárás lefolytatásáért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(4) A Hatóság által nyilvántartásba vett adataltruista szervezet az adatkormányzási rendelet 19. cikk (4) bekezdésében meghatározott adatok bármely változását a változás bekövetkezésétől számított tizennégy napon belül a Hatóságnak bejelenti. A változás-bejelentésre irányuló eljárásra a nyilvántartásba vételre irányuló eljárásra irányadó rendelkezéseket kell alkalmazni.
+
+(5) A Hatóság az adataltruista szervezet nyilvántartásba vételéről, az ezt követő változás-bejelentésről, illetve a nyilvántartásból való törléséről az adatkormányzási rendeletben meghatározottak szerint az Európai Bizottságot – a Kormány rendeletében meghatározott módon – haladéktalanul értesíti.
+
+(6) Az adataltruista szervezetek tevékenységének átláthatósága érdekében a Hatóság – az adatok változásának bejelentéséig – közzéteszi az adatkormányzási rendelet 19. cikk (4) bekezdés a), b), f), g) és h) pontjában meghatározott adatokat. A Hatóság által ekként közzétett, valamint az adatkormányzási rendelet 19. cikk (4) bekezdés d) és e) pontja szerinti, az adataltruista szervezet honlapján az adatkormányzási rendelet 19. cikk (4) bekezdés f) pontja alapján közzétett adatok közérdekből nyilvános adatok.
+
+(7) A Hatóság által nyilvántartásba vett adataltruista szervezet minden az adatkormányzási rendelet 20. cikk (2) bekezdése szerinti éves tevékenységi jelentését minden év január 31-éig a Hatóság részére megküldi. Az érintettek és az adatkezelők tájékozódásának elősegítése érdekében a Hatóság az e tevékenységi jelentést közzéteszi. A Hatóság által közzétett tevékenységi jelentésben foglalt adatok közérdekből nyilvános adatok.”
+
+115. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény a következő 34/E. alcímmel egészül ki:
+
+#### „34/E. Az adataltruista szervezetek felügyeletére irányuló eljárás
+
+64/H. § (1) A Hatóság az adatkormányzási rendelet IV. fejezetében meghatározott követelmények ellenőrzésére kérelemre az adataltruista szervezetek felügyeletére irányuló eljárást indít és hivatalból az adataltruista szervezetek felügyeletére irányuló eljárást indíthat.
+
+(2) Az (1) bekezdésben meghatározott esetben a kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza
+
+- a) a feltételezett jogsértés megjelölését,
+- b) a feltételezett jogsértést megvalósító konkrét magatartás vagy állapot leírását,
+- c) a feltételezett jogsértést megvalósító adataltruista szervezet azonosításához szükséges, a kérelmező rendelkezésére álló adatokat,
+- d) a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és azok bizonyítékait, továbbá
+- e) a megjelölt jogsértés orvoslása iránti döntésre vonatkozó határozott kérelmet.
+
+(3) Az adataltruista szervezetek felügyeletére irányuló eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+(4) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
+
+(5) Ha a Hatóság az adataltruista szervezetek felügyeletére irányuló eljárást a kérelem benyújtását követő kilencven napon belül nem szüntette meg vagy az ügy érdemében nem döntött, a kérelmezőt értesíti az értesítés időpontjáig megtett eljárási cselekményekről.
+
+(6) Az adataltruista szervezetek felügyeletére irányuló eljárásban hozott határozatában a Hatóság az adatkormányzási rendeletben meghatározott jogkövetkezményeket alkalmazhatja, valamint bírságot szabhat ki. A bírság mértéke százezertől ötvenmillió forintig terjedhet.
+
+(7) Ha az adataltruista szervezetek felügyeletére irányuló eljárás lefolytatása során a Hatóság arra a megállapításra jut, hogy az eljárás megszüntetésére nincs szükség, és nem állapítható meg az sem, hogy az ellenőrzött adataltruista szervezet magatartása nem jogsértő, a Hatóság megküldi az ellenőrzött adataltruista szervezet részére az ügyre vonatkozó előzetes álláspontját, amely tartalmazza a megállapított tényállást, az azt alátámasztó bizonyítékokat, a tényállás értékelését, a döntés meghozatalához szükséges szempontok és következtetések lényegének, valamint az esetleges bírság kiszabása körében figyelembe venni kívánt szempontoknak az ismertetését. Az előzetes álláspontra vonatkozóan az ellenőrzött adataltruista szervezet harminc napon belül nyilatkozatot, észrevételt tehet.
+
+(8) A Hatóság annak eldöntésében, hogy indokolt-e a (6) bekezdés szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértés súlyát – ideértve a jogsértő állapot fennállásának időtartamát –, valamint azt, hogy a jogsértővel szemben korábban az adataltruista szolgáltatók felügyeletére irányuló eljárásban állapítottak-e meg a tevékenységével kapcsolatos jogsértést.
+
+(9) A (6) bekezdés szerinti határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+
+(10) Az adataltruista szervezetek felügyeletére vonatkozó eljárás tekintetében a 61. § (7)–(10) bekezdésekben foglalt rendelkezéseket megfelelően alkalmazni kell.”
+
+116. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény a következő VI/B. Fejezettel egészül ki:
+
+### „VI/B. Fejezet — A KÖZÉRDEKŰ ÉS KÖZÉRDEKBŐL NYILVÁNOS ADATOK ÁTLÁTHATÓSÁGÁNAK ÉS AZOKMEGISMERHETŐSÉGÉRE VONATKOZÓ KÖVETELMÉNYEK TELJESÜLÉSÉNEK ELLENŐRZÉSE
+
+71/D. § (1) A közfeladatot ellátó szerveknél, a helyi önkormányzatoknál és a köztulajdonban álló gazdasági társaságoknál (e § alkalmazásában a továbbiakban együtt: szervek) a közérdekű és közérdekből nyilvános adatok átláthatóságára és a közérdekű és közérdekből nyilvános adatokhoz való hozzáférés biztosítására vonatkozó követelmények teljesülését a Hatóság – e törvényben foglalt egyéb feladat- és hatásköreinek gyakorlása mellett – a szervek által a Hatóság részére a (4) bekezdésben foglalt adatszolgáltatás alapján, évente két alkalommal ellenőrzi (a továbbiakban e fejezet alkalmazásában: ellenőrzés).
+
+(2) Erre irányuló bejelentés esetén a Hatóság az ellenőrzést a bejelentéssel érintett szerv vonatkozásában külön is lefolytatja. Az ellenőrzés lefolytatása érdekében bárki bejelentést tehet.
+
+(3) A (2) bekezdésben meghatározott bejelentésnek tartalmaznia kell
+
+- a) a feltételezett jogsértés megjelölését,
+- b) a feltételezett jogsértést megvalósító magatartás vagy állapot leírását,
+- c) a feltételezett jogsértést megvalósító szerv azonosításához szükséges adatokat,
+- d) a feltételezett jogsértéssel kapcsolatos állításokat valószínűsítő tényeket.
+
+(4) A Hatóság részére minden évben január 31-éig a szerv adatot szolgáltat
+
+- a) a közérdekű és közérdekből nyilvános adatok megismerése iránti igények teljesítésének és megtagadásának számáról és a megtagadások jellemző indokairól,
+- b) a közérdekű és közérdekből nyilvános adatok megismerése iránti kérelmek teljesítéséhez szükséges napok átlagos számáról, valamint
+- c) a közérdekű és közérdekből nyilvános adatok közzétételének elérhetőségéről.
+
+(5) A Hatóság az ellenőrzés lefolytatása érdekében az ellenőrzött szervektől adatokat igényelhet. Az ellenőrzött szervek az adatkérésnek a megkeresés kézhezvételétől számított 8 napon belül kötelesek eleget tenni.
+
+(6) A Hatóság ellenőrzése a közérdekű és közérdekből nyilvános adatok közzétételének a vizsgálatára terjed ki.
+
+(7) A Hatóság az ellenőrzött szervek részére – a közérdekű és közérdekből nyilvános adatok átláthatóságára és a közérdekű és közérdekből nyilvános adatokhoz való hozzáférés biztosítására vonatkozó követelmények teljesülése érdekében – javaslatokat fogalmazhat meg. A javaslattal érintett szerv vezetője a szükséges intézkedések végrehajtása érdekében intézkedési tervet készít, és azt a javaslat kézhezvételétől számított 15 napon belül a Hatóság részére megküldi.
+
+(8) A Hatóság az ellenőrzésről évente – a 38. § (4) bekezdés b) pontjában meghatározott beszámolója részeként – jelentést készít.”
+
+117. § (1) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdése a következő g) és h) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„g) állapítsa meg az adatkormányzási rendeletben meghatározott, az Európai Bizottság értesítésére vonatkozó részletes szabályokat,
+
+h) állapítsa meg a Hatóság VI/B. fejezet szerinti ellenőrzése módszertanának a részletes eljárási szabályait a Hatóság véleményének kikérésével.”
+
+(2) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Felhatalmazást kap az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatközvetítői szolgáltató és az adataltruista szervezet nyilvántartásba vételéért, valamint az adatközvetítő szolgáltató számára kiállított megfelelőségi bizonyítványért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.”
+
+118. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény a következő 77/B. §-sal egészül ki:
+
+„77/B. § Az 34/B–E. alcím, V. Fejezet, valamint a 72. § az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet (adatkormányzási rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.”
+
+119. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény
+
+- a) preambulumában a „biztosítása érdekében” szövegrész helyébe a „biztosítása, illetve az adatok szabad áramlása érdekében” szöveg,
+- b) 1. §-ában a „valamint a” szövegrész helyébe a „valamint az adatok szabad áramlása, illetve a” szöveg,
+
+lép.
 
 120. § Hatályát veszti az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény
 
@@ -473,10 +651,20 @@ Az Országgyűlés – az Alaptörvényben foglaltakkal összhangban, a közérd
 
 #### 56. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-#### 123. §
+123. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 58. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 124. §
+„(2) A biztonságos elektronikus kapcsolattartás a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján történhet.
+
+(3) A küldemény az elküldést követő munkanapon minősül kézbesítettnek.”
+
+124. § Hatályát veszti az E-ügyintézési tv.
+
+- a) 1. § 31. pontja,
+- b) 38. § (1) bekezdés e)–f) és m) pontja, valamint
+- c) 74. § (3) bekezdés a)–c) pontja.
 
 #### 57. Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvény módosítása
 
-#### 125. §
+125. § (1) Nem lép hatályba az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvény 12. §-a és a 85. § (2) bekezdése.
+
+(2) Hatályát veszíti az az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvény 123. § (3) bekezdésében a „12. §” szövegrész.

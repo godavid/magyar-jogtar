@@ -173,7 +173,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 21/A. § (1) A látássérült személy a látássérüléséhez kapcsolódó rehabilitációs folyamat során jogszabályban meghatározott éves időkeret erejéig – az elemi rehabilitációs tervben foglaltak szerint – térítésmentesen jogosult az egyéni képességeihez mért legmagasabb szintű önállóság eléréséhez és a társadalmi életbe való visszailleszkedéséhez szükséges alapvető készségek elsajátításához és alkalmazásához szükséges elemi rehabilitációs szolgáltatások (a továbbiakban: elemi rehabilitációs szolgáltatás) igénybevételére.
 
-(2) Az elemi rehabilitációs szolgáltatást a 16. életévét betöltött, a magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt és a letelepedett látássérült személy veheti igénybe.
+(2) Az elemi rehabilitációs szolgáltatást a 16. életévét betöltött, a magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával rendelkező, illetve a huzamos tartózkodási jogosultsággal rendelkező látássérült személy veheti igénybe.
 
 (3) Az (1) bekezdés alkalmazása során látássérült az a személy, akinek a szem, illetve a központi idegrendszer látási funkcióit érintő betegsége vagy veleszületett fejlődési rendellenessége miatt
 
@@ -208,16 +208,17 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 23. § (1) Fogyatékossági támogatásra az a 18. életévét betöltött súlyosan fogyatékos, az ellátás igénylésének időpontjában Magyarországon élő magyar állampolgár, letelepedett, valamint bevándorolt jogállású személy, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személy jogosult, akinek
 
-- a) segédeszközzel vagy műtéti úton nem korrigálható módon a látóképessége teljesen hiányzik vagy aliglátóként minimális látásmaradvánnyal rendelkezik és ezért kizárólag tapintó-halló életmód folytatására képes (látási fogyatékos),
+- a) segédeszközzel vagy műtéti úton nem korrigálható módon látóképessége teljesen hiányzik vagy aliglátóként minimális látásmaradvánnyal rendelkezik és ezért kizárólag tapintó-halló életmód folytatására képes (látási fogyatékos),
 - b) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes, feltéve, hogy
   - ba) halláskárosodása 25. életévének betöltését megelőzően következett be, vagy
   - bb) halláskárosodása mellett a hangzó beszéd érthető ejtése elmarad (hallási fogyatékos),
-- c) értelmi akadályozottsága genetikai, illetőleg magzati károsodás vagy szülési trauma következtében, továbbá tizennegyedik életévét megelőzően bekövetkező súlyos betegség miatt középsúlyos vagy annál nagyobb mértékű (értelmi fogyatékos),
-- d) állapota a személyiség egészét érintő fejlődés átható zavara miatt, az autonómia-tesztek alapján súlyosnak vagy középsúlyosnak minősíthető,
+- c) értelmi akadályozottsága genetikai, illetve magzati károsodás vagy szülési trauma következtében, továbbá tizennegyedik életévét megelőzően bekövetkező súlyos betegség miatt középsúlyos vagy annál nagyobb mértékű (értelmi fogyatékos),
+- d) állapota a személyiség egészét érintő fejlődés átható zavara miatt, az autonómiatesztek alapján súlyosnak vagy középsúlyosnak minősíthető,
 - e) helyváltoztatása a jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a jogszabály szerinti mozgáskorlátozottsága miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásában fogyatékos),
-- f) az a)–e) és h) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
-- g) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–e) és h) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
-- h) állapota kromoszóma-rendellenesség miatt súlyosnak vagy középsúlyosnak minősíthető,
+- f) állapota kromoszóma-rendellenesség miatt súlyosnak vagy középsúlyosnak minősíthető,
+- g) szerzett vagy fejlődési károsodásból eredően a hangképzése, beszélt vagy írott nyelvi megértési, illetve kifejező képessége olyan súlyos funkciózavart mutat, amely kommunikációját, a szolgáltatásokhoz és információkhoz való hozzáférését középsúlyosan vagy súlyosan akadályozza (beszédfogyatékos),
+- h) – a b) pont bb) alpontja és a g) pont szerinti fogyatékosságok együttes fennállása kivételével – az a)–g) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos) vagy
+- i) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–g) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
 
 és állapota tartósan vagy véglegesen fennáll, továbbá önálló életvitelre nem képes vagy mások állandó segítségére szorul.
 
@@ -252,10 +253,10 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 23/A. § (1) A fogyatékossági támogatás havi összege 2013. június 1-jétől
 
-- a) 19 500 forint – a b) pontban foglaltak kivételével – a 23. § (1) bekezdésének a)–e) és h) pontja szerinti esetben,
+- a) 19 500 forint – a b) pontban foglaltak kivételével – a 23. § (1) bekezdésének a)–f) pontja szerinti esetben,
 - b) 24 000 forint
-  - ba) a 23. § (1) bekezdés f) és g) pontja szerinti esetben, és
-  - bb) a 23. § (1) bekezdés a), c)–e) és h) pontja szerinti esetben, ha a súlyosan fogyatékos személynek az önkiszolgálási képessége teljesen hiányzik.
+  - ba) a 23. § (1) bekezdés h) és i) pontja szerinti esetben, és
+  - bb) a 23. § (1) bekezdés a) és c)–f) pontja szerinti esetben, ha a súlyosan fogyatékos személynek az önkiszolgálási képessége teljesen hiányzik.
 
 (2) Ha a vakok személyi járadékában részesülő látási fogyatékos személy fogyatékossági támogatásra tart igényt, őt a fogyatékossági támogatás a vakok személyi járadékának megszüntetését követően
 
@@ -263,6 +264,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - b) az (1) bekezdés b) pontja szerinti összegben illeti meg, ha önkiszolgálási képességének hiányát megállapítják.
 
 (3) A fogyatékossági támogatás (1) és (2) bekezdés szerinti összegét 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell, az újonnan megállapításra kerülő fogyatékossági támogatást pedig ugyanilyen emelt összegben kell megállapítani.
+
+(4) A fogyatékossági támogatás havi összege a 23. § (1) bekezdés g) pontja szerinti esetben megfelel az (1) bekezdés a) pontja, az (1) bekezdés b) pont ba) alpontja és a (3) bekezdés alkalmazásával megállapított összegnek.
 
 ### Hatásköri, eljárási szabályok
 
@@ -318,7 +321,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 23/F. § (1) A Kormány által a nyilvántartás vezetésére kijelölt szerv (a továbbiakban: nyilvántartást vezető szerv) a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a jogosult természetes személyazonosító adatait;
-- b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült vagy hontalan jogállását;
+- b) a jogosult állampolgárságát, huzamos tartózkodási jogosultságát, illetve menekült vagy hontalan jogállását;
 - c) a jogosult belföldi lakó , és/vagy tartózkodási helyét;
 - d) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 - e) a fogyatékossági támogatás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;

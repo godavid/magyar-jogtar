@@ -282,10 +282,10 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - a) az Eütv. 142. §-a
   - aa) (2) bekezdése a) pontjában meghatározott ellátások,
   - ab) (3) bekezdésének c)–i) pontjában meghatározott ellátások,
-- b) a külön jogszabályban meghatározott munkahigiénés szűrő- és ellenőrző vizsgálatok,
-- c) a külön jogszabályban meghatározott foglalkozás- egészségügyi alapszolgáltatások, amennyiben azok nem az ellátást igénybevevő biztosított foglalkozási megbetegedése, illetőleg üzemi balesete miatt váltak szükségessé,
-- d) a külön jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve, ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra, kedvezményre, illetve egészségbiztosítási ellátásra való jogosultság megállapítása céljából kerül sor,
-- e) a külön jogszabályban meghatározott különösen veszélyes (extrém) sportolás, szórakoztató-szabadidős tevékenység közben bekövetkezett baleset miatt szükségessé vált ellátások,
+- b) a jogszabályban meghatározott munkahigiénés szűrő- és ellenőrző vizsgálatok,
+- c) a jogszabályban meghatározott foglalkozás- egészségügyi alapszolgáltatások, amennyiben azok nem az ellátást igénybevevő biztosított foglalkozási megbetegedése, illetőleg üzemi balesete miatt váltak szükségessé,
+- d) a jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve, ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra, kedvezményre, illetve egészségbiztosítási ellátásra való jogosultság megállapítása céljából kerül sor,
+- e) a jogszabályban meghatározott különösen veszélyes (extrém) sportolás, szórakoztató-szabadidős tevékenység közben bekövetkezett baleset miatt szükségessé vált ellátások,
 - f) hivatásos sportolók sportegészségügyi ellátása,
 - g) a nem gyógyító célú, kizárólag esztétikai vagy rekreációs célból nyújtott egészségügyi szolgáltatás,
 - h) a nem egészségügyi indokból végzett művi meddővé tétel,
@@ -305,7 +305,16 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 (7) A (6) bekezdésben meghatározott ellátások körébe tartozó beavatkozásokat az egészségbiztosításért felelős miniszter rendeletben állapítja meg.
 
-(8)
+(8) A 68. § alkalmazásában az egészségbiztosítási ellátásra jogosult betegségéért, keresőképtelenségéért, egészségkárosodásáért vagy haláláért felelősnek kell tekinteni azt a nem finanszírozott egészségügyi szolgáltatót is, aki által nyújtott ellátással összefüggésben
+
+- a) bíróság vagy hatóság megállapította, hogy az egészségügyi szakmai szabályok megsértésével nyújtott szolgáltatást, és
+- b) az ellátásra jogosult az a) pont szerinti szakmai szabályok megsértésével nyújtott szolgáltatás következtében vesz igénybe természetbeni vagy pénzbeli egészségbiztosítási ellátást.
+
+(8a) A bíróság a (8) bekezdés a) pontja szerinti megállapítást tartalmazó jogerős ítéletét, a hatóság a (8) bekezdés a) pontja szerinti megállapítást tartalmazó végleges határozatát a 68. § szerinti követelésnek a 70. § (1) bekezdés b) pontján alapuló, a megtérítésre irányuló eljárása lefolytatása céljából megküldi az egészségbiztosítónak. Az ítéletben vagy határozatban foglaltakat az egészségbiztosító a kézbesítéstől számított legfeljebb egy évig, a 70. § (1) bekezdés b) pontja szerinti érvényesítés esetén a követelés megtérüléséig kezeli.
+
+(8b) A (8) és (8a) bekezdés szerinti követelés érvényesítése során a 68. § (1) és (2) bekezdésétől eltérően kármegosztás nem alkalmazható.
+
+(8c) A (8) bekezdés szerinti összefüggés megállapításának rendjét a Kormány rendeletben határozza meg.
 
 (9) A járóbeteg-szakellátást, valamint a fogászati alapellátást nyújtó egészségügyi szolgáltató – e törvény végrehajtására kiadott kormányrendeletben meghatározott esetek kivételével – a biztosítottat kérésére köteles – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatni
 
@@ -662,11 +671,11 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
-(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló, tartósan harmadik államban foglalkoztatott biztosított, a vele életvitelszerűen együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti külképviselet által foglalkoztatott házastársa, továbbá a biztosított Magyar Honvédségnél a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban harmadik államban foglalkoztatott házastársa, élettársa által a (2) bekezdésben meghatározott, indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségét az egészségbiztosító az ellátás igénybevételekor hatályos jogszabályok alapján megtéríti. Külföldön bekövetkezett üzemi baleset esetén, ha az ellátás is külföldön történik, az egészségbiztosító a felmerült költségeket megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségét, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
+(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló, tartósan harmadik államban foglalkoztatott biztosított, a vele életvitelszerűen együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti külképviselet által foglalkoztatott házastársa, továbbá a biztosított Magyar Honvédségnél a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban harmadik államban foglalkoztatott házastársa, élettársa által a (2) bekezdésben meghatározott, indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségét az egészségbiztosító az ellátás igénybevételekor hatályos jogszabályok alapján megtéríti. Külföldön bekövetkezett üzemi baleset esetén, ha az ellátás is külföldön történik, az egészségbiztosító a felmerült költségeket megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségét, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
 
 (6) A határon átnyúló egészségügyi ellátás keretében, ha a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – a II. fejezet 1–3. címében meghatározott egészségügyi szolgáltatásokat vesz igénybe, ugyanolyan jogállással rendelkezik, mintha hasonló helyzetben Magyarországon vett volna igénybe egészségügyi ellátást. Az egészségbiztosító az ellátás hitelt érdemlően igazolt tényleges költségét téríti meg azzal, hogy az egészségbiztosító által fizetendő térítés összege nem haladhatja meg az igénybevétel idején az ellátásra vonatkozó magyarországi közfinanszírozott ellátás belföldi költségének mértékét. A biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – ezen egészségügyi szolgáltatások közül csak előzetes engedély alapján jogosult a külföldi gyógykezelések rendjéről szóló kormányrendeletben meghatározott ellátások igénybevételére. Amennyiben a biztosított olyan ellátást kíván igénybe venni, amely a magyarországi jogszabályok alapján beutalóhoz kötött, a költség megtérítésének további feltétele, hogy a biztosított az ellátásra rendelkezzen az ellátásra vonatkozó és a jogszabályoknak megfelelő módon kiállított beutalóval.
 
-(7) A (3) bekezdéstől eltérően a közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló tartósan valamely EGT-tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT-tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe vagy az általa igénybe vett egészségügyi ellátás költségeinek (5) bekezdés szerinti megtérítését kéri az egészségbiztosítótól.
+(7) A (3) bekezdéstől eltérően a közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, politikai szolgálati, biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló tartósan valamely EGT-tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT-tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe vagy az általa igénybe vett egészségügyi ellátás költségeinek (5) bekezdés szerinti megtérítését kéri az egészségbiztosítótól.
 
 (8) Az (1)–(2) és (6) bekezdés szerinti belföldi költségek – ideértve az egészségbiztosításért felelős miniszter által elismert határon átnyúló egészségügyi együttműködés keretében nyújtott szolgáltatások költségeit is – megtérítésének módját és feltételeit a kormány rendeletben állapítja meg.
 
@@ -1287,7 +1296,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 - a) aki az alábbi feltételek mindegyikének megfelel:
   - aa) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
-  - ab) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
+  - ab) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével, vagy magyar állampolgárként külföldi felsőoktatási intézményben teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
   - ac) a gyermeke az ab) alpont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
   - ad) a gyermeket saját háztartásában neveli,
   - ae) magyar állampolgár vagy másik EGT tagállam állampolgára, és
@@ -1341,7 +1350,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 42/G. § (1) A gyermekgondozási díjra a 42/A. § (1) bekezdése alapján jogosult személy (e § alkalmazásában a továbbiakban: alapjogosult) jogán annak vagy az alapjogosulttal együtt élő házastársának – ide nem értve a családbafogadó gyám házastársát – vér szerinti és örökbe fogadó biztosított szülője, továbbá a szülővel együtt élő biztosított házastárs (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási díjra, ha
 
 - a) a nagyszülő a gyermek születését megelőző két éven belül legalább 365 napon át biztosított volt,
-- b) a gyermek közös háztartásban élő mindkét szülője – egyedülálló alapjogosult esetében az alapjogosult – az ellátás nagyszülő részére történő folyósítása alatt a Tbj. 5. §-a szerinti jogviszony – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – alapján biztosítottként keresőtevékenységet végez,
+- b) a gyermek közös háztartásban élő mindkét szülője – egyedülálló alapjogosult esetében az alapjogosult – az ellátás nagyszülő részére történő folyósítása alatt a Tbj. 6. §-a szerinti jogviszony – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – alapján biztosítottként keresőtevékenységet végez,
 - c) a gyermeket az alapjogosult a saját háztartásában neveli, és abból a gyermek a nagyszülőhöz csak átmeneti jelleggel, napközbeni időszakra kerül ki,
 - d) a gyermek közös háztartásban élő mindkét szülője – egyedülálló alapjogosult esetében az alapjogosult – írásban nyilatkozik arról, hogy egyetért a gyermekgondozási díj nagyszülő általi igénylésével és annak nagyszülő részére történő megállapításával, és
 - e) azon gyermekre tekintettel, aki után az e bekezdés szerinti ellátást megállapították, gyermekgondozást segítő ellátást nem folyósítanak.
@@ -1393,7 +1402,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 - d) a szülő a tizenkét évesnél fiatalabb gyermeke kórházi kezelése időtartamára abban az esetben, ha a gyermeke mellett tartózkodik a fekvőbeteg-ellátást nyújtó intézményben;
 - e) a szülő, aki tizenkét évesnél fiatalabb beteg gyermekét otthon ápolja és a gyermeket a saját háztartásában neveli;
 - f) aki fekvőbeteg-gyógyintézeti ellátásban betegségének megállapítása vagy gyógykezelése miatt részesül;
-- g) akit közegészségügyi okból foglalkozásától eltiltanak és más beosztást nem kap, vagy akit közegészségügyi okból hatóságilag elkülönítenek, továbbá aki járványügyi, illetőleg állategészségügyi zárlat miatt munkahelyén megjelenni nem tud és más munkahelyen (munkakörben) átmenetileg sem foglalkoztatható;
+- g) aki nem beteg, ugyanakkor közegészségügyi okból foglalkozásától eltiltanak és más beosztást nem kap, vagy akit közegészségügyi okból hatóságilag elkülönítenek, továbbá aki járványügyi, illetőleg állategészségügyi zárlat miatt munkahelyén megjelenni nem tud és más munkahelyen (munkakörben) átmenetileg sem foglalkoztatható;
 - h) a méltányosságból adható táppénz tekintetében a szülő,
   - ha) aki 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermekét otthon ápolja, vagy
   - hb) a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb gyermeke kórházi kezelése időtartamára abban az esetben, ha a szülő a gyermeke mellett tartózkodik a fekvőbeteg ellátást nyújtó intézményben.
@@ -1739,7 +1748,7 @@ folyósítja.
 
 65. § (1) Az üzemi balesettel összefüggésben egészségbiztosítási baleseti ellátás csak az üzemi baleset tényét megállapító határozat bemutatása esetén állapítható meg.
 
-(2) Az üzemi baleset végleges döntéssel történő megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, vasutas dolgozók esetén a vasutas egészségbiztosítási szerv a rendelkezésre álló nyilvántartás, az üzemi baleset megállapításáról szóló határozat, valamint a kezelőorvos igazolása alapján téríti meg.
+(2) Az üzemi baleset végleges döntéssel történő megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, a rendelkezésre álló nyilvántartás, valamint az üzemi baleset megállapításáról szóló határozat alapján téríti meg.
 
 (3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -1789,7 +1798,9 @@ folyósítja.
 
 (3) A 66. § (3)–(6) bekezdése, a 67. § és az (1)–(2) bekezdés alapján megállapított 5000 forintot meg nem haladó megtérítési kötelezettség esetén a megtérítésre irányuló eljárást nem kell lefolytatni.
 
-(4) A 66. § (1), (1a), (2), (2a) és (4) bekezdése alapján megállapított, 1000 forintot meg nem haladó visszafizetési kötelezettség esetén a visszafizetésre irányuló eljárást nem kell lefolytatni.
+(4) A 66. § (1), (1a), (2) és (4) bekezdése alapján megállapított, 10 000 forintot meg nem haladó visszafizetési kötelezettség esetén a visszafizetésre irányuló eljárást nem kell lefolytatni.
+
+(5) Nem kell lefolytatni a megtérítésre irányuló eljárást, ha az e § szerinti követelés érvényesítése a 18. § (8) bekezdésében foglaltakon alapul és a megtérítési kötelezettség összege nem haladja meg a közleményben közzétett, aktív fekvőbeteg-szakellátás teljesítményegysége mindenkori országos alapdíjának 50 százalékát.
 
 68/A. § (1) A 67–68. §-ok alapján megtérítésre kötelezett a ténylegesen megállapított és folyósított egészségbiztosítási ellátásért, valamint az egészségbiztosítás keretében igénybe vett, finanszírozott egészségügyi szolgáltatásért felelős. A megtérítés összege nem csökkenthető azért, mert az ellátásban részesülőt egyéb címen is megilletné egészségbiztosítási ellátás.
 
@@ -1825,7 +1836,7 @@ folyósítja.
 
 (6)
 
-(7) Nem kell behajtani a kamat- és késedelmipótlék-tartozást akkor, ha a kötelezett terhére nyilvántartott követelés összege az 1000 Ft-ot nem haladja meg.
+(7) Nem kell behajtani a kamat- és késedelmipótlék-tartozást akkor, ha a kötelezett terhére nyilvántartott követelés összege a 10 000 Ft-ot nem haladja meg.
 
 71. § (1) Amennyiben a fizetésre kötelezett a fizetésre kötelező döntés véglegessé válásától számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, az egészségbiztosítási szerv a követelését
 
@@ -1863,7 +1874,7 @@ kell érteni.
 
 ### Illeték- és költségmentesség
 
-75/A. § A Tbj.-ben meghatározott egészségbiztosítási és baleseti ellátások (beleértve a méltányosságból igénybe vehető ellátásokat is) biztosított általi igénybevételével kapcsolatos eljárások, a bírságok kiszabásával kapcsolatos eljárások, valamint a a 67. §-ban, a 68. §-ban és a 72. § (1)–(2) bekezdésében szereplő eljárások illeték- és költségmentesek.
+75/A. § A Tbj.-ben meghatározott egészségbiztosítási és baleseti ellátások (beleértve a méltányosságból igénybe vehető ellátásokat is) biztosított általi igénybevételével kapcsolatos eljárások, a bírságok kiszabásával kapcsolatos eljárások, valamint a a 67. §-ban, a 68. §-ban és a 72. § (1)–(2) bekezdésében szereplő eljárások – a 18. § (8) bekezdésében foglaltakon alapuló, az egészségbiztosító által lefolytatott eljárások kivételével – költségmentesek.
 
 ### Határozat megtámadhatósága
 
@@ -2213,6 +2224,8 @@ meghatározására.
 (2l) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyógyászati segédeszközök árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósításának szabályait.
 
 (2m) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközökkel kapcsolatos egészségbiztosítói ellenjegyzés eljárási szabályait.
+
+(2n) Felhatalmazást kap a Kormány, hogy a 18. § (8c) bekezdése szerinti megállapítás rendjét és a megállapításra jogosult szervet rendeletben határozza meg.
 
 (2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
 

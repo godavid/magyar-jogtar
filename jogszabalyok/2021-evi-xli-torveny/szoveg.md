@@ -34,6 +34,8 @@ az Unió területére belépő, illetve az Unió területét elhagyó készpénz
 
 5. § (1) A vámhatóság haladéktalanul, de legkésőbb a nyilatkozattételtől, adatszolgáltatástól vagy az adatok megismerésétől számított 15 napon belül továbbítja a pénzügyi információs egységként működő hatóság részére a Rendelet 3. és 4. cikke szerint közölt, valamint e törvény alapján végzett vámellenőrzést követően hivatalból összeállított nyilatkozatban foglalt – ideértve a büntetendő cselekményhez kapcsolódó, a Rendelet szerinti küszöbértéket el nem érő készpénzre vonatkozó – adatokat.
 
+(1a) A vámhatóság megjelöli azokat az (1) bekezdés alapján továbbított adatokat, amelyek pénzmosásra, terrorizmus finanszírozására vagy a készpénz büntetendő vagy jogsértő cselekményből való származására utalnak.
+
 (2) A vámhatóság továbbítja a tagállamok illetékes hatóságai számára a vámellenőrzés alapján hivatalból összeállított nyilatkozatban foglalt – ideértve a büntetendő cselekményhez kapcsolódó, a Rendelet szerinti küszöbértéket el nem érő készpénzre vonatkozó – adatokat, valamint – ha a rendelkezésre álló információk alapján a készpénz büntetendő cselekményhez kapcsolódik – a Rendelet 3. és 4. cikke szerint közölt, valamint a kockázatokkal kapcsolatos, személyes adat jellegétől megfosztott adatokat, továbbá a kockázatelemzés eredményeit.
 
 (3) Ha a rendelkezésre álló információk alapján a készpénz büntetendő cselekményhez kapcsolódik, a vámhatóság a (2) bekezdés szerinti adatokat továbbítja az Európai Bizottság, valamint – ha a büntetendő cselekmény a hatáskörébe tartozik – az Europol részére.
@@ -54,7 +56,7 @@ az Unió területére belépő, illetve az Unió területét elhagyó készpénz
 
 #### 5. A készpénz zár alá vétele
 
-8. § (1) A készpénz származásának vizsgálata érdekében a vámhatóság a Rendelet 7. cikk (1) bekezdésében meghatározott esetben jogosult a készpénz 80%-át, a kísérő nélküli készpénz 100%-át 30 napra zár alá venni. A vámhatóság a zár alá vételt elrendelő végzést az 5. § (1) bekezdésében meghatározott tájékoztatáshoz mellékeli.
+8. § (1) A készpénz származásának vizsgálata érdekében a vámhatóság a Rendelet 7. cikk (1) bekezdésében meghatározott esetben jogosult a készpénz 80%-át, a kísérő nélküli készpénz 100%-át 30 napra zár alá venni. A vámhatóság a zár alá vételt elrendelő végzést az 5. § (1) és (1a) bekezdésében meghatározott tájékoztatáshoz mellékeli.
 
 (2) A vámhatóság a Rendelet 7. cikk (3) bekezdésében meghatározott esetben a zár alá vétel időtartamát legfeljebb 90 napra meghosszabbíthatja. A vámhatóság a zár alá vétel időtartamának meghosszabbításáról végzéssel dönt.
 
@@ -151,4 +153,4 @@ megfelelő, forintban meghatározott összegű bírságot kell – a Rendelet 3.
 
 (2) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-19. §
+#### 19. §

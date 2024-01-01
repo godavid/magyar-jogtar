@@ -56,8 +56,9 @@ miatt került sor.
 
 - a) tájékoztatást,
 - b) jogi tanácsot,
-- c) érzelmi segítséget és
-- d) egyéb segítséget
+- c) érzelmi segítséget,
+- d) tolmácsolási, fordítási segítséget, továbbá
+- e) egyéb segítséget
 
 nyújt a sérelem rendezéséhez.
 
@@ -383,6 +384,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (2) Az érzelmi segítség célja az áldozat lelki egyensúlyi állapotának kialakítása. Kiterjed a bűncselekmény, illetve a tulajdon elleni szabálysértés következményeként kialakult feszültség csökkentésére, az áldozat kérelmére a krízishelyzet orvoslása érdekében biztosított pszichológiai szolgáltatásra, az érzelmi biztonság légkörének megteremtésére, a jelentkező feszültség vagy negatív érzelmek kiadásának, levezetésének biztosítására, a probléma tárgyilagos megfogalmazására, a valóság elfogadtatására, a megoldáshoz vezető lépések közös megkeresésére és az áldozat ezek irányába történő elmozdítására.
 
 (3) Érzelmi segítség egyéni és csoportos formában is nyújtható.
+
+26/C. § Az áldozatsegítő szolgálat az eset összes körülményének mérlegelése után az azt igénylő, a magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló áldozatnak tolmácsolási, fordítási segítséget biztosíthat az e törvényben meghatározott áldozati jogok érvényesülése érdekében, ideértve az áldozat más eljárásban való részvétele érdekében szükséges tolmácsolási, fordítási segítséget. A fordítás és tolmácsolás költségét az áldozatsegítő szolgálat viseli. Ha a fordítás és a tolmácsolás költsége az áldozat büntetőeljárásban való részvételére tekintettel merült fel, az áldozatsegítő szolgálat intézkedik annak érdekében is, hogy az áldozat büntetőeljárásban való részvételére tekintettel felmerült fordítási és tolmácsolási díjat és költséget – a bűnügyi költségként való kezelés érdekében – a büntetőeljárást lefolytató bíróság, ügyészség, vagy nyomozó hatóság felvegye a költségjegyzékbe.
 
 ### Azonnali pénzügyi segély
 

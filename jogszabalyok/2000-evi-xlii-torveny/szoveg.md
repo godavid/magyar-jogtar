@@ -203,7 +203,7 @@ lajstromban tartja nyilván.
 
 - a) tulajdonjog,
 - b) üzemben tartói jog,
-- c) bérleti jog,
+- c) bérleti vagy haszonbérleti jog,
 - d) jelzálogjog,
 - e) haszonélvezeti jog,
 - f) elő- vagy visszavásárlási jog, vételi és eladási jog,
@@ -847,6 +847,7 @@ kezeli.
 - c) vízijármű kedvtelési célú használatához, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
 - d) úszómű szálláshelyként vagy kikötő, hajózási létesítmény elemeként történő üzemeltetéséhez, kivéve a gazdasági célból történő üzemeltetést,
 - e) az EGT-államok hajózási hatóságai által kiállított hajózási engedély alapján végzett hajózási tevékenységhez.
+- f) halgazdálkodást támogató hajóval végzett tevékenységhez.
 
 (3) A hajózási engedélyben meg kell határozni azt a tevékenységet és területet, amelyre az engedély vonatkozik, továbbá a tevékenység folytatásának feltételeit.
 
@@ -1214,8 +1215,9 @@ vonatkozó rendelkezések megsértésekor.
 
 (2) Az (1) bekezdés b) pontjában meghatározottakon túl saját használatú az a kikötő is, amely
 
-- a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv tulajdonában, illetve használatában van, továbbá
+- a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv tulajdonában, illetve használatában van,
 - b) egyesület tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
+- c) horgászati tevékenység támogatására, horgászati jogosultság igazolása alapján igénybe vehető, a halgazdálkodásra jogosult horgászszervezet által üzemeltetett horgászkikötő.
 
 80. § (1) Azt a közforgalmú kikötőt, amelynek földterülete állami tulajdonban vagy az állam meghatározó többségével létrehozott vagyonkezelő társaság kezelésében van, és amely alapvető közlekedési infrastukturális ellátottsága lehetővé teszi átrakodási, elosztási központként a vízi, vasúti és a közúti személy-, illetőleg áruforgalom összekapcsolását, országos közforgalmú kikötővé lehet nyilvánítani.
 
@@ -1272,10 +1274,12 @@ vonatkozó rendelkezések megsértésekor.
 - 13. hajózási tevékenység: a vízen történő személyszállítás és árufuvarozás, más úszólétesítmény vízen vontatással, tolással vagy mellévett alakzatban való továbbítása, továbbá úszólétesítmény vízen történő nem kedvtelési célú működtetése;
 - 14. hajózási zóna: belvízen az időjárás és a hullámzás függvényében meghatározott vízterület;
 - 15. halászhajó: hal vagy egyéb vízi élőlény kifogásához szükséges berendezésekkel felszerelt és kereskedelmi célú halászatra használt úszólétesítmény;
+- 15a. halgazdálkodást támogató hajó: hal vagy egyéb vízi élőlény kifogásához, őrzéséhez, a horgászati tevékenység ellenőrzéséhez szükséges berendezésekkel, eszközökkel felszerelt, bemutatási célú, ökológiai, szelektív halászatra, halőrzésre szolgáló, a halgazdálkodásra jogosult által szervezett és felügyelt horgásztatásra használt úszólétesítmény;
 - 16. határkikötő: vámúttá nyilvánított kikötő, ahol az úszólétesítmények és az azokon lévő személyek, áruk be-, illetőleg kiléptetése történik;
 - 17. havaria: az úszólétesítményt ért vagy az úszólétesítmény által okozott baleset;
+- 17a. horgászkikötő: halgazdálkodást támogató hajók és kedvtelési célú hajózást szolgáló csónakok kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
 - 18. kedvtelési célú hajózás: vízijármű nem gazdasági célú, szabadidő eltöltését szolgáló használata;
-- 19. kereskedelmi hajó: olyan hajó, amellyel gazdasági célú hajózási tevékenységet végeznek, a halászhajó kivételével;
+- 19. kereskedelmi hajó: olyan hajó, amellyel gazdasági célú hajózási tevékenységet végeznek, a halászhajó vagy halgazdálkodást támogató hajó kivételével;
 - 20. kikötő: az úszólétesítmények kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
 - 20a. kikötői tevékenység: olyan víziközlekedéssel kapcsolatos tevékenység, amely során személyek ki- és beszállása, áru ki-, be- és átrakása, tárolása és kezelése történik;
 - 21. kishajó: az a belvízi hajó, amelynek a hajótesten mért hossza a 20 métert nem éri el, valamint az a tengeri hajó, amelynek a hajótesten mért hossza a 24 métert nem éri el;

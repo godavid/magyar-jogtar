@@ -226,11 +226,13 @@ tekintetében.
 
 22. § (1) Az ügyész a 22–24. § szerinti felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényben meghatározott joghátrány és jogkorlátozás végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére, valamint az utógondozásra vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el különösen a bűnügyi nyilvántartási rendszer, a bűnügyi és rendészeti biometrikus adatok nyilvántartása, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása, a szabálysértési nyilvántartási rendszer, továbbá a körözési nyilvántartási rendszer, valamint a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának vonatkozásában is.
 
-(2) Az (1) bekezdés szerinti ellenőrzéssel érintett – személyi szabadságot érintő, illetve más jogot korlátozó joghátrányokat végrehajtó – szerv vezetője köteles az ügyésznek a törvények megtartására és a fogva tartás körülményeire vonatkozó rendelkezését teljesíteni. E szerv vezetője az ügyészi rendelkezésben foglalt utasítás ellen felettes szerve útján – 15 napon belül – előterjesztést tehet a felettes ügyészhez, amelynek nincs halasztó hatálya.
+(2) Az (1) bekezdés szerinti ellenőrzéssel érintett – személyi szabadságot érintő, illetve más jogot korlátozó joghátrányokat végrehajtó – szerv vezetője köteles az ügyésznek a törvények megtartására és a fogvatartás körülményeire vonatkozó rendelkezését teljesíteni. E szerv vezetője az ügyészi rendelkezésben foglalt utasítás ellen felettes szerve útján – 15 napon belül – előterjesztést tehet a felettes ügyészhez, amelynek nincs halasztó hatálya.
 
 (3) Az ügyész köteles haladéktalanul szabadlábra helyezni azt, akit törvényes határozat nélkül vagy a határozatban megjelölt időponton túl tartanak fogva.
 
 (4) Az ügyész törvénysértő gyakorlat vagy mulasztásban megnyilvánuló törvénysértés megszüntetése érdekében felhívással fordul az illetékes vezetőhöz, aki ez alapján intézkedni köteles. Az illetékes vezető az ügyészi felhívás ellen 15 napon belül – felettes szerve útján – előterjesztést tehet a felettes ügyészhez, amelynek az ügyészi felhívásban foglaltak végrehajtására halasztó hatálya van.
+
+(5) A törvénysértésnek nem minősülő hiányosságra és az olyan törvénysértésre, amely miatt felhívásnak vagy rendelkezésnek nincs helye, az ügyész jelzésben hívja fel az illetékes szerv vezetőjének a figyelmét. Ha az ügyész ezt kéri, az illetékes szerv vezetője a jelzéssel kapcsolatos álláspontjáról az ügyészt harminc napon belül értesíti.
 
 23. § (1) Az ügyész a büntetés-végrehajtáshoz kapcsolódó bírósági eljárásban részt vehet, indítványt tehet, illetve jogorvoslattal élhet.
 
@@ -244,7 +246,9 @@ tekintetében.
 - d) a végrehajtásra illetékes szervek vezetőitől iratok és adatok rendelkezésre bocsátását, illetve megküldését, továbbá felvilágosítás adását kérheti,
 - e) a végrehajtási szerveknél általános érvényű rendelkezés (intézkedés, utasítás stb.) kiadását, módosítását vagy hatályon kívül helyezését kezdeményezheti.
 
-(2) Az illetékes szerv vezetője az (1) bekezdés c) és d) pontjában megjelölt ügyészi felkérésnek köteles haladéktalanul eleget tenni. Amennyiben az illetékes szerv vezetője az (1) bekezdés e) pontjában foglalt kezdeményezéssel nem ért egyet, a 22. § (4) bekezdésben meghatározott módon előterjesztésnek van helye.
+(2) Az illetékes szerv vezetője az (1) bekezdés c) és d) pontjában megjelölt ügyészi felkérésnek köteles haladéktalanul eleget tenni. Ha az illetékes szerv vezetője az (1) bekezdés e) pontjában foglalt kezdeményezéssel nem ért egyet, a 22. § (4) bekezdésben meghatározott módon előterjesztésnek van helye.
+
+(3) Az (1) bekezdés a) pontja szerinti panasz elbírálása mellőzhető, ha azt az abban sérelmezett döntés, intézkedés vagy mulasztás bekövetkezésétől számítottan egy éven túl nyújtják be. Az elbírálás mellőzéséről és annak okáról a panaszost tájékoztatni kell.
 
 #### 4. A nemzetközi bűnügyi együttműködés
 

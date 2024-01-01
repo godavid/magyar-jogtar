@@ -22,7 +22,7 @@ Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi a
 
 7. § A kedvezményezettek, a támogató és a törvény végrehajtásában közreműködő szervek, szervezetek kötelesek egymással, az Európai Unió illetékes szerveivel, szervezeteivel együttműködni. Ez az együttműködés kiterjed az egyes feladatok európai uniós jogi aktusokban, valamint a jogszabályokban foglaltak szerint történő végrehajtására, az együttműködő felek közötti, szükséges és célhoz kötött adatszolgáltatásra, az ellenőrzések végrehajtásához szükséges feltételek megteremtésére.
 
-8. § Az eljárás hivatalos nyelve a magyar. A magyar nyelvet nem ismerő kedvezményezett – a fordítási és tolmácsolási költség előlegezése és viselése mellett – kérheti, hogy a hatóság bírálja el az anyanyelvén vagy valamely közvetítő nyelven megfogalmazott kérelmét.
+8. § Az eljárás hivatalos nyelve a magyar. A magyar nyelvet nem ismerő kedvezményezett – a fordítási és tolmácsolási költség előlegezése és viselése mellett – kérheti, hogy a támogató bírálja el az anyanyelvén vagy valamely közvetítő nyelven megfogalmazott kérelmét.
 
 9. § A törvény és a végrehajtására kiadott jogszabályok rendelkezéseit a Közös Agrárpolitikára (a továbbiakban: KAP) vonatkozó európai uniós jogi aktusokra figyelemmel kell alkalmazni és értelmezni.
 
@@ -246,6 +246,7 @@ tekintetében.
 - 43. a Földmegfigyelési Információs Rendszerből (FIR),
 - 44. az Elektronikus Gazdálkodási Naplóból (webGN),
 - 45. a gyümölcsültetvény-kataszterből.
+- 46. az elektronikus anyakönyvből.
 
 (2) Az elhunyt természetes személy támogatásával összefüggésben az adatkezelő szerv megkeresésére a hagyatéki leltározást végző szerv adatot szolgáltat a hagyatéki leltár készítésének tényéről, valamint a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, a hagyatéki eljárást lefolytató közjegyző pedig tájékoztatja az adatkezelő szervet az azonosításukhoz szükséges természetes személyazonosító adatok feltüntetésével az örökösök személyéről vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 
@@ -294,13 +295,13 @@ kell teljesíteni.
 
 (2) Az intézkedésben való részvétel feltétele – a nyilvántartásba vételre irányuló eljárás kivételével –, hogy a kedvezményezett szerepeljen a kérelem benyújtásakor a KNYR-ben. A nyilvántartásba vétel iránti kérelemnek az (1) bekezdésben foglalt adatok mellett jogszabályban meghatározott további adatokat kell tartalmaznia.
 
-22. § (1) Az eljárásban a kedvezményezett helyett a támogatási azonosítóval rendelkező, az elektronikus kapcsolattartás feltételeinek megfelelő meghatalmazott, vagy a kedvezményezett törvényes képviselője is eljárhat.
+22. § (1) Az eljárásban a kedvezményezett helyett eseti meghatalmazott, támogatási azonosítóval rendelkező és az elektronikus kapcsolattartás feltételeinek megfelelő állandó meghatalmazott vagy a kedvezményezett törvényes képviselője is eljárhat.
 
 (2) A képviseleti jog keletkezése és megszűnése a támogatóval szemben az arra vonatkozó bejelentésnek a támogatóhoz való beérkezése napjától vagy a bejelentésben megjelölt, későbbi időponttól hatályos.
 
-(3) Valamely adott intézkedéssel kapcsolatos eljárás során a kérelem elbírálásának a megkezdését követően a rendelkezési nyilvántartásban a meghatalmazásra vonatkozóan tett új rendelkezést, vagy annak módosítását a támogató csak akkor veszi figyelembe, ha azt a kedvezményezett a támogatónak is bejelenti.
+(3) Az állandó meghatalmazásokat a támogató ötévente felülvizsgálhatja, és annak nyilvántartását megszüntetheti, ha a meghatalmazott a felülvizsgálatot megelőző öt évben semmilyen eljárási cselekményt nem végzett.
 
-23. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara mint kamarai meghatalmazott az agrártámogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként a kedvezményezett képviseletében eljárhat a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat alapján.
+23. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara az agrártámogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként a kedvezményezett képviseletében eljárhat a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat alapján.
 
 #### 9. Agrártámogatási jogviszony létrejötte
 
@@ -332,7 +333,7 @@ hozza meg.
 
 (4) A támogató a kérelmet elutasítja, amennyiben a kedvezményezett az intézkedésben való részvételhez szükséges feltételeket mesterséges körülmények létrehozásával azért teremtette meg, hogy az adott intézkedés céljaival ellentétes előnyhöz jusson.
 
-29. § (1) A támogató a kérelem benyújtását követően és az agrártámogatási jogviszony fennállása során az általa hozott döntést, a jogviszonyból származó követelés megállapításának, valamint megállapítása esetén annak végrehajtásához való jog elévüléséig felülvizsgálhatja. A felülvizsgálat eredményeképpen a támogató a jogszabálysértő döntését módosítja vagy visszavonja.
+29. § (1) A támogató a kérelem benyújtását követően és az agrártámogatási jogviszony fennállása során az általa hozott döntést – a jogviszonyból származó követelés megállapítása esetén annak végrehajtásához való jog elévüléséig – felülvizsgálhatja. A felülvizsgálat eredményeképpen a támogató a jogszabálysértő döntését módosítja vagy visszavonja.
 
 (2) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a támogató a hibát kijavítja, ha az nem hat ki az ügy érdemére.
 
@@ -393,7 +394,7 @@ hozza meg.
 
 #### 16. Közigazgatási per
 
-36. § A kedvezményezett a jogorvoslati kérelemmel elbírált döntés ellen, továbbá az olyan döntés ellen, amely ellen a jogorvoslat kizárt, közigazgatási pert indíthat.
+36. § A kedvezményezett a jogorvoslati kérelem tárgyában a miniszter által hozott döntés ellen, továbbá az olyan döntés ellen, amely ellen a jogorvoslati kérelem benyújtása kizárt – a 35. § (2) bekezdés b) és f) pontja kivételével – közigazgatási pert indíthat.
 
 #### 17. Az intézkedésben való jogosulatlan részvétel
 
@@ -409,7 +410,7 @@ hozza meg.
 
 (3) A támogató nyilvántartja azon intézkedést, amelyben a kedvezményezett jogosulatlanul vett részt, és azon időpontot, ameddig jogszabály vagy pályázati felhívás rendelkezései szerint a kedvezményezett ugyanazon intézkedésben vagy intézkedéscsoportban nem vehet részt.
 
-(4) Az intézkedésben való jogosulatlan részvétellel igénybe vett támogatást jogszabályban foglaltak szerint, kamattal növelten kell visszafizetni.
+(4) Az intézkedésben való jogosulatlan részvétel jogcímén visszakövetelt támogatás összegét késedelem esetén jogszabályban foglaltak szerinti késedelmi kamattal növelten kell visszafizetni.
 
 (5) Ha a kedvezményezett részére a támogató tévesen vagy jogalap nélkül fizeti ki a támogatást, annak visszafizetését csak késedelem esetén terheli kamat.
 
@@ -499,43 +500,25 @@ számított öt év elteltével évül el.
 
 (3) Felhatalmazást kap a miniszter, hogy
 
-1. a KAP Alapok és a nemzeti hatáskörben nyújtott támogatások részletes eljárási szabályait, a támogatási igények benyújtásának, elbírálásának, folyósításának, felhasználásának, a felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett támogatás jogkövetkezményeinek, a támogatási döntés módosításának a feltételeit,
-
-2. a KAP Alapok egyes intézkedéseinek igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal, valamint az intézkedésekben való részvétellel kapcsolatos részletes szabályokat,
-
-3. a Nemzeti Irányító Hatóság feladatainak közreműködő szervezetre történő 12. § (1) bekezdése szerinti átruházásával kapcsolatos részletes szabályokat,
-
-4. a Nemzeti Kifizető Ügynökség feladatainak együttműködő szervezetre történő 12. § (3) bekezdése szerinti átruházásával kapcsolatos részletes szabályokat,
-
-5. a KAP Alapokból nyújtott támogatásokból finanszírozott közbeszerzési eljárások ellenőrzésének részletes szabályait,
-
-6. az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
-
-7. a KAP Alapok intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoringindikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
-
-8. a MePAR és a hozzá kapcsolódó nyilvántartások részletes szabályait, a MePAR üzemeltetésének részletes szabályait, a MePAR-ban kezelt adattartalmat, az adatszolgáltatás, adatfelhasználás és adatkezelés rendjének részletes szabályait,
-
-9. az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
-
-10. a feltételesség, valamint a szociális feltételesség körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat, a végrehajtásához kialakítandó nyilvántartások részletes szabályait,
-
-11. az elektronikus úton teljesítendő kérelembenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
-
-12. a KNYR vezetésének részletes szabályait és az abban szereplő konkrét adatokat,
-
-13. a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait,
-
-14. a Nemzeti KAP-hálózat felállításával kapcsolatos részletes szabályokat,
-
-15. a mezőgazdasági vagyoni értékű jogok megállapításának és nyilvántartásának részletes szabályait,
-
-16. a területi monitoringrendszer működtetésével, a helyszíni ellenőrzések mintakiválasztásával, lebonyolításával, tartalmával, az ellenőrzési jelentés részleteivel kapcsolatos szabályokat,
-
-17. támogatási jogosultságok felső határának megállapítása, és az országos tartalékával összefüggő részletes szabályait,
-
-18. az ellenőrzések lefolytatásával kapcsolatos részletes szabályokat,
-
-19. a támogatási feltételek mesterséges megteremtése vizsgálatának részletes szabályait
+- 1. a KAP Alapok és a nemzeti hatáskörben nyújtott támogatások részletes eljárási szabályait, a támogatási igények benyújtásának, elbírálásának, folyósításának, felhasználásának, a felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett támogatás jogkövetkezményeinek, a támogatási döntés módosításának a feltételeit,
+- 2. a KAP Alapok egyes intézkedéseinek igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal, valamint az intézkedésekben való részvétellel kapcsolatos részletes szabályokat,
+- 3. a Nemzeti Irányító Hatóság feladatainak közreműködő szervezetre történő 12. § (1) bekezdése szerinti átruházásával kapcsolatos részletes szabályokat,
+- 4. a Nemzeti Kifizető Ügynökség feladatainak együttműködő szervezetre történő 12. § (3) bekezdése szerinti átruházásával kapcsolatos részletes szabályokat,
+- 5. a KAP Alapokból nyújtott támogatásokból finanszírozott közbeszerzési eljárások ellenőrzésének részletes szabályait,
+- 6. az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
+- 7. a KAP Alapok intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoringindikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
+- 8. a MePAR és a hozzá kapcsolódó nyilvántartások részletes szabályait, a MePAR üzemeltetésének részletes szabályait, a MePAR-ban kezelt adattartalmat, az adatszolgáltatás, adatfelhasználás és adatkezelés rendjének részletes szabályait,
+- 9. az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
+- 10. a feltételesség, valamint a szociális feltételesség körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat, a végrehajtásához kialakítandó nyilvántartások részletes szabályait,
+- 11. az elektronikus úton teljesítendő kérelembenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
+- 12. a KNYR vezetésének részletes szabályait és az abban szereplő konkrét adatokat,
+- 13. a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait,
+- 14. a Nemzeti KAP-hálózat felállításával kapcsolatos részletes szabályokat,
+- 15. a mezőgazdasági vagyoni értékű jogok megállapításának és nyilvántartásának részletes szabályait,
+- 16. a területi monitoringrendszer működtetésével, a helyszíni ellenőrzések mintakiválasztásával, lebonyolításával, tartalmával, az ellenőrzési jelentés részleteivel kapcsolatos szabályokat,
+- 17. támogatási jogosultságok felső határának megállapítása, és az országos tartalékával összefüggő részletes szabályait,
+- 18. az ellenőrzések lefolytatásával kapcsolatos részletes szabályokat,
+- 19. a támogatási feltételek mesterséges megteremtése vizsgálatának részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -561,9 +544,8 @@ rendeletben állapítsa meg.
 
 51. § Ez a törvény
 
-1. a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU (2021. december 2.) európai parlamenti és tanácsi rendelet, valamint
-
-2. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2116/EU (2021. december 2.) európai parlamenti és tanácsi rendelet
+- 1. a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU (2021. december 2.) európai parlamenti és tanácsi rendelet, valamint
+- 2. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2116/EU (2021. december 2.) európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

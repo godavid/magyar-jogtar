@@ -330,7 +330,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (4) A kérelmet a bejegyzés alapjául szolgáló szerződés (jognyilatkozat) keltétől számított 30 napon belül az ingatlanügyi hatósághoz kell benyújtani. Ha a szerződés (jognyilatkozat) létrejöttéhez harmadik személy beleegyezése vagy – ide nem értve az ingatlanügyi hatósági engedélyt – hatósági jóváhagyás szükséges, a kérelmet a beleegyezéstől, illetve a jóváhagyástól számított 30 napon belül kell az ingatlanügyi hatósághoz benyújtani.
 
-(4a) Abban az esetben, ha a föld tulajdonjogának megszerzésére irányuló szerződéshez nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, azonban a szerződést az elővásárlásra jogosultakkal hirdetményi úton, a föld fekvése szerint illetékes települési önkormányzat jegyzője közreműködésével kell közölni, a bejegyzésre irányuló kérelmet a kifüggesztett szerződésnek az ingatlan tulajdonosa által történő kézhezvételétől számított harminc napon belül kell az ingatlanügyi hatósághoz benyújtani.
+(4a) Abban az esetben, ha a föld tulajdonjogának megszerzésére irányuló szerződéshez nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, azonban a szerződést az elővásárlásra jogosultakkal hirdetményi úton, a föld fekvése szerint illetékes települési önkormányzat jegyzője közreműködésével kell közölni, a bejegyzésre irányuló kérelmet a honlapon közzétett szerződésnek az ingatlan tulajdonosa által történő kézhezvételétől számított harminc napon belül kell az ingatlanügyi hatósághoz benyújtani.
 
 (5) A bejegyzés iránti kérelem benyújtására meghatározott határidő elmulasztása esetén az adózás rendjéről szóló törvény szerinti mulasztási bírságot kell fizetni.
 
@@ -1216,7 +1216,7 @@ kapcsolatos eljárás
 
 (2) A visszaállítás során az ingatlanügyi hatóság elkészíti a tulajdoni lap tervezetét. A tervezetet az adatbiztonsági célból készített archív adatokból, az irattárban meglévő, az érdekelt birtokában rendelkezésre álló adatok, szükség esetén helyszíni azonosítás útján kell elkészíteni.
 
-(3) A tulajdoni lap tervezetének elkészültéről hirdetményt kell közzétenni, és a tervezetet az ingatlanügyi hatóságnál ki kell függeszteni. A tervezetre az érdekeltek a kifüggesztéstől számított két hónapon belül tehetnek észrevételt. Ennek letelte után az ingatlanügyi hatóság határozatot hoz, amelyben elrendeli, hogy a tervezet tartalmát pótolt tulajdoni lapként az ingatlan-nyilvántartás számítógépes rendszerében kell továbbkezelni. A határozatot a tervezetből megállapított jogosultak részére kell kézbesíteni.
+(3) A tulajdoni lap tervezetének elkészültéről hirdetményt kell közzétenni, és a tervezetet az ingatlanügyi hatóság honlapján közzé kell tenni. A tervezetre az érdekeltek a honlapon történt közzétételtől számított két hónapon belül tehetnek észrevételt. Ennek letelte után az ingatlanügyi hatóság határozatot hoz, amelyben elrendeli, hogy a tervezet tartalmát pótolt tulajdoni lapként az ingatlan-nyilvántartás számítógépes rendszerében kell továbbkezelni. A határozatot a tervezetből megállapított jogosultak részére kell kézbesíteni.
 
 #### 89/A. §
 

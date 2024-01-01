@@ -34,7 +34,7 @@ Az Országgyűlés a környezethez való alkotmányos alapjog maradéktalan bizt
 - b) védelemre tervezettnek az a földterület tekinthető, amely a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény (a továbbiakban: Ámt.) 15. §-ának (3) bekezdése értelmében ilyennek minősül,
 - c) természeti kár a természeti folyamatok vagy emberi hatás eredményeként a védett természeti értékek, a terület természeti állapotának kedvezőtlen változása, vagy védelmi szintjének csökkenése.
 
-8. § A természetvédelemért felelős miniszter évente köteles beszámolni az Országgyűlésnek a 4. § (1) bekezdésében foglalt kisajátítások alakulásáról.
+#### 8. §
 
 9. § (1)
 

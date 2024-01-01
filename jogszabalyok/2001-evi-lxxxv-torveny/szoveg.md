@@ -88,7 +88,7 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 (5) A megállapodás egy hiteles másolatát bírósági eljárás kezdeményezése esetén a Szolgálatnak az eljáró bíróságnál letétbe kell helyeznie.
 
-8. §
+#### 8. §
 
 ### A védelmet ellátó szerv
 
@@ -98,7 +98,9 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 10. § A Szolgálat a Program keretében a 16. § (1) bekezdésében foglalt különleges óvintézkedések indokoltságáról és – ha feltételei fennállnak – alkalmazásáról önállóan dönt, illetve azokat önállóan kezdeményezi.
 
-### A harmadik személyekkel szembeni jogokraés kötelezettségekre vonatkozó szabályok, az ügyvivő
+### A harmadik személyekkel szembeni jogokra
+
+és kötelezettségekre vonatkozó szabályok, az ügyvivő
 
 11. § (1) Az érintettnek harmadik személlyel, illetve harmadik személynek az érintettel szemben fennálló kötelezettségeit, követeléseit, igényeit (a továbbiakban együtt: követelés) e törvény rendelkezései nem érintik. A Programba való felvétel, különösen a személyazonosság megváltoztatása esetén – ha ez lehetséges – olyan helyzetet kell teremteni, hogy az érintett a harmadik személlyel, a harmadik személy pedig az érintettel szemben fennálló követeléseit még az intézkedés megkezdése előtt teljesíthesse, illetve az ezek teljesítésének érvényesítéséhez szükséges lépéseket megtehesse.
 
@@ -165,7 +167,9 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 (5) A Program végrehajtása keretében alkalmazott különleges óvintézkedések (16. §) körében folytatott hatósági eljárási cselekményekért, szolgáltatásokért az érintett illeték, illetve díj megfizetésére nem kötelezhető.
 
-### A védelmet ellátó szerv és az érintett jogaiés kötelezettségei
+### A védelmet ellátó szerv és az érintett jogai
+
+és kötelezettségei
 
 18. § A Szolgálat – a megállapodás keretei között, a védelem céljai érdekében – javasolhatja az érintett életmódjának megváltoztatását. A javaslat figyelmen kívül hagyása vagy az attól való eltérés következményeire a védelmet ellátó szerv az érintettet figyelmezteti.
 
@@ -303,7 +307,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 (3) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény alapján a Szolgálat külföldi hatóság megkeresésére
 
 - a) sürgősségi intézkedés keretében ideiglenesen, a megkeresésben foglalt időtartamra biztosíthatja az érintett Magyarország területén való elhelyezését;
-- b) a Program keretében ellátja a külföldről Magyarországra költöztetett személy, valamint a külföldön megindított büntetőeljárásban részt vevő, de Magyarországon élő magyar vagy letelepedett külföldi állampolgár védelmét;
+- b) a Program keretében ellátja a külföldről Magyarországra költöztetett személy, valamint a külföldön megindított büntetőeljárásban részt vevő, de Magyarországon élő magyar vagy huzamos tartózkodási jogosultsággal rendelkező külföldi állampolgár védelmét;
 - c) közreműködhet a megkereső hatóság védelmi programjában részt vevő magyar állampolgár érintett személyazonosságának megváltoztatásában.
 
 (4) Törvény vagy nemzetközi szerződés alapján a Szolgálat a (2)–(3) bekezdéstől eltérő más módon is együttműködhet a külföldi államban az érintett védelmére jogosult hatósággal.
@@ -433,11 +437,15 @@ kezelheti.
 
 41. § Az e törvényben meghatározott intézkedések, különösen az adatzárlat elrendelésének, a nyilvántartott adatokkal kapcsolatos megkeresések jelzésének és a személyazonosság megváltoztatásának részletes szabályait a rendőrség és az intézkedés végrehajtásában érintett szervek közötti együttműködési megállapodások rögzítik.
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44–46. §
+#### 44. §
+
+#### 45. §
+
+#### 46. §
 
 ### Jogharmonizációs záradék
 

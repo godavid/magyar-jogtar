@@ -183,7 +183,7 @@ is eljárhat.
 
 - a) érvényes magyar személyazonosító igazolvánnyal,
 - b) érvényes magyar útlevéllel,
-- c) érvényes állampolgársági bizonyítvánnyal,
+- c) érvényes állampolgársági bizonyítvánnyal vagy állampolgársági ténymegállapítással,
 - d) – ellenkező bizonyításig – honosítási okirattal
 
 igazolható.
@@ -209,7 +209,7 @@ igazolható.
 
 (5)
 
-12. § Az igazságszolgáltatási, a bűnüldöző, az idegenrendészeti, a nemzetbiztonsági, a katonai igazgatási szervek, a jegyző (főjegyző), a közjegyző, valamint a konzuli és külföldi hatóság, továbbá más hatóság, illetve állami szerv megkeresésére vagy adatkérésére az állampolgársági ügyekben eljáró szerv megállapítja az ügyfél magyar állampolgárságának fennállását, megszűnését vagy azt, hogy az ügyfél nem magyar állampolgár.
+12. § Az igazságszolgáltatási, a bűnüldöző, az idegenrendészeti, a nemzetbiztonsági, a katonai igazgatási szervek, a jegyző (főjegyző), a közjegyző, valamint a konzuli és külföldi hatóság, továbbá más hatóság, illetve állami szerv megkeresésére vagy adatkérésére az állampolgársági ügyekben eljáró szerv állampolgársági ténymegállapításban igazolja az ügyfél magyar állampolgárságának fennállását, megszűnését vagy azt, hogy az ügyfél nem magyar állampolgár.
 
 ### Az állampolgársági eljárás
 
@@ -253,9 +253,13 @@ igazolható.
 (5) Az állampolgársági kérelemhez
 
 - a) a külföldi okiratot eltérő nemzetközi szerződés, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy viszonossági gyakorlat hiányában – ha ennek kormányrendelet szerinti elháríthatatlan akadálya nincs – diplomáciai felülhitelesítéssel,
-- b) az idegen nyelvű okiratot hiteles magyar nyelvű fordítással
+- b) a nem magyar nyelven kiállított okiratot – az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglaltak kivételével, vagy ha e törvény, illetve az ügyfajtára vonatkozó jogszabály másként nem rendelkezik – hiteles magyar nyelvű fordítással
 
 ellátva kell csatolni.
+
+(5a) Az állampolgársági eljárásban nem szükséges fordítás az angol, német vagy francia nyelven kiállított, kormányrendeletben meghatározott anyakönyvi okiratokhoz.
+
+(5b) Az állampolgársági eljárásban a hivatásos konzuli tisztviselő előtt benyújtott idegen nyelvű okirat hiteles magyar fordítása helyett az okiratnak az állampolgársági eljárás szempontjából lényeges tartalmáról készített hivatalos, kivonatolt fordítás is elfogadható.
 
 (6) Ha az állampolgársági kérelem hiányos, vagy az elbíráláshoz szükséges okiratokat a kérelmező nem csatolta, az állampolgársági ügyekben eljáró szerv a hiány pótlására határidő tűzésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett a kérelmezőt felhívhatja. Okirat hiánya esetén a beszerzéséhez szükséges időtartam figyelembevételével megállapított határidőt kell kitűzni. Az állampolgársági bizonyítvány kiadása iránti kérelem esetén a hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
 
@@ -287,7 +291,7 @@ ellátva kell csatolni.
 
 (8) A cselekvőképtelen honosított kivételével a honosított személy akkor tehet esküt vagy fogadalmat, ha a részére hivatalból kiállított állandó személyazonosító igazolvány alapján megállapítható, hogy a honosított és az eskü vagy fogadalom letétele céljából megjelent személy azonos.
 
-(9) A honosított a (7) bekezdéstől eltérően az esküt vagy fogadalmat abban az esetben is leteheti, ha
+(9) A honosított a (8) bekezdéstől eltérően az esküt vagy fogadalmat abban az esetben is leteheti, ha
 
 - a) a részére hivatalból kiállítandó állandó személyazonosító igazolvány kiállítására irányuló eljárást az eljáró hatóság (a továbbiakban e § alkalmazásában: hatóság) az okmánykiállításhoz szükséges jogszabályban előírt feltételek hiánya miatt megszüntette,
 - b) az a) pont szerinti eljárás megszüntetéséről a hatóság a honosított személyt az eskü- vagy fogadalomtétel helye szerint illetékes polgármester, az eskütételi igazgatási szerv vagy külképviselet útján megküldött döntésében értesítette,
@@ -430,7 +434,7 @@ ellátva kell csatolni.
 
 23. § (1) E törvény alkalmazásában – a lakcímbejelentés napjától – Magyarországon lakik az a lakóhellyel rendelkező nem magyar állampolgár,
 
-- a) aki bevándorolt vagy letelepedett jogállású,
+- a) aki huzamos tartózkodási jogosultsággal rendelkezik,
 - b) akit menekültként vagy oltalmazottként elismertek, valamint
 - c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, és bejelentési kötelezettségének eleget tett.
 

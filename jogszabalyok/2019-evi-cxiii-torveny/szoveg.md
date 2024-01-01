@@ -34,7 +34,7 @@ illeti meg.
 
 (4) Az (1) bekezdés a) pontja szerinti kártalanítást a szolgalom ingatlan-nyilvántartásba történő bejegyzését követő 15 napon belül, az (1) bekezdés b) pontja szerinti kártalanítást pedig akkor kell megfizetni, ha az ingatlant igénybe veszik.
 
-4. § (1) A meglévő és vízjogi engedély alapján üzemelő harmadlagos műhöz az üzemeltető engedélyes hozzájárulásával és vízjogi engedély alapján bármely mezőgazdasági termelő csatlakozhat, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag megfelel.
+4. § (1) A meglévő és vízjogi engedély alapján üzemelő harmadlagos műhöz az üzemeltető engedélyes hozzájárulásával és vízjogi engedély alapján bármely mezőgazdasági termelő csatlakozhat, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag megfelel. Ha a csatlakozni kívánó mezőgazdasági termelő a csatlakozás valamennyi feltételét teljesítette, az üzemeltető engedélyes a csatlakozást csak akkor tagadhatja meg, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag nem felel meg vagy a megnövekedett vízigény nem áll rendelkezésre.
 
 (2) Csatlakozás esetén a csatlakozó – a felek eltérő megállapodásának hiányában – a vízhasználattal kapcsolatos érdekeltsége arányában köteles
 
@@ -52,7 +52,7 @@ illeti meg.
 
 (3) Az érvényes öntözésfejlesztési tervnek megfelelő öntözéses beruházáshoz és az öntözésfejlesztési tervet jóváhagyó határozatban meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi, talajvédelmi engedélyezési vagy szakhatósági eljárást.
 
-(4) Az érvényes öntözésfejlesztési terv az abban meghatározott természetvédelmi, környezetvédelmi, talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv a kiadásától számított 20 évig hatályos.
+(4) Az érvényes öntözésfejlesztési terv az abban meghatározott természetvédelmi, környezetvédelmi, talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv határozatlan időre szól.
 
 (5) Az öntözésfejlesztési terület kijelölését és az öntözésfejlesztési terveket a kormányzati honlapon közzé kell tenni.
 
@@ -98,6 +98,12 @@ illeti meg.
 
 (3) Az öntözési körzet az öntözési igazgatási szervnek az (1) és (2) bekezdésnek megfelelő javaslata alapján csak a fenntartható vízgazdálkodási közösség tagjai által öntözni kívánt egymástól elkülönülő, vagy a közösség tagjai használatában nem álló közbeékelődött területeket is magába foglaló körbehatárolt külterületi földterületeken jelölhető ki. Az öntözési körzet a 7. § (2) bekezdés a) pontja szerinti esetben legfeljebb 10 000 hektár, a b) pontja szerinti esetben legfeljebb 1 000 hektár területen jelölhető ki azzal, hogy a körzet határának két legtávolabbi pontja egymástól – légvonalban mérve – legfeljebb 20 kilométerre lehet.
 
+9/A. § (1) A miniszter a fenntartható vízgazdálkodási közösség elismeréséről szóló döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg feljegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
+
+(2) A miniszter az e törvény végrehajtásáról szóló kormányrendeletben foglaltaknak megfelelő változásbejelentés alapján hozott, a fenntartható vízgazdálkodási közösség elismerését módosító döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a bekövetkezett változás átvezetését az érintett ingatlanok tulajdoni lapján.
+
+(3) A miniszter a 8. § (5) bekezdése szerinti döntésének véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg törlését az érintett ingatlanok tulajdoni lapjáról.
+
 10. § (1) A fenntartható vízgazdálkodási közösség vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők által öntözni kívánt területre, az öntözési igazgatási szerv környezeti körzeti tervet készít abban az esetben, ha
 
 - a) az érintett földrészletek vonatkozásában nincs hatályos öntözésfejlesztési terv, vagy
@@ -105,7 +111,7 @@ illeti meg.
 
 és a környezeti körzeti terv elkészítését a fenntartható vízgazdálkodási közösség vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők kérik.
 
-(2) Az öntözési beruházásra vonatkozó környezetvédelmi, természetvédelmi és talajvédelmi előírásokat az e törvény végrehajtására kiadott rendeletben meghatározott hatóság környezeti körzeti tervet jóváhagyó határozata tartalmazza, a környezeti körzeti terv a jóváhagyással lép hatályba. Az érvényes környezeti körzeti terv a benne meghatározott környezetvédelmi, természetvédelmi és talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az érvényes környezeti körzeti tervnek megfelelő öntözéses beruházás és a környezeti körzeti tervben meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi és talajvédelmi engedélyezési vagy szakhatósági eljárást. A környezeti körzeti terv a kiadásától számított 20 évig hatályos.
+(2) Az öntözési beruházásra vonatkozó környezetvédelmi, természetvédelmi és talajvédelmi előírásokat az e törvény végrehajtására kiadott rendeletben meghatározott hatóság környezeti körzeti tervet jóváhagyó határozata tartalmazza, a környezeti körzeti terv a jóváhagyással lép hatályba. Az érvényes környezeti körzeti terv a benne meghatározott környezetvédelmi, természetvédelmi és talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az érvényes környezeti körzeti tervnek megfelelő öntözéses beruházás és a környezeti körzeti tervben meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi és talajvédelmi engedélyezési vagy szakhatósági eljárást. A környezeti körzeti terv határozatlan időre szól.
 
 (3) A környezeti körzeti terveket rendszeresen felül kell vizsgálni és módosítani kell, ha a környezetvédelmi, természetvédelmi és talajvédelmi feltételek megváltoztak.
 
@@ -140,7 +146,7 @@ ha a beruházás megfelel az öntözésfejlesztési tervnek.
 
 (3) A fenntartási, üzemeltetési feladatok átengedésére ingyenesen is sor kerülhet a felek megállapodása alapján.
 
-(4) Az öntözési igazgatási szerv a feladataihoz szükséges földrészlet tulajdonjogát az állam javára történő felajánlás esetén ingyenesen vagy ellenérték fejében adásvétellel vagy cserével megszerezheti. Az így az állam tulajdonába kerülő ingatlan a Nemzeti Földalapba tartozik.
+(4) Az öntözési igazgatási szerv a feladataihoz szükséges földrészlet tulajdonjogát a Magyar Állam javára ellenérték fejében adásvétellel, cserével, vagy az állam javára történő felajánlás esetén ingyenesen, továbbá kisajátítással megszerezheti. Az így az állam tulajdonába kerülő ingatlan a Nemzeti Földalapba tartozik.
 
 (5) A Magyar Állam tulajdonát képező, a Nemzeti Földügyi Központ (a továbbiakban: NFK) tulajdonosi joggyakorlása alá tartozó, öntözési célt szolgáló – vízgazdálkodási, gazdálkodói és agrotechnikai – egység (a továbbiakban: állami öntözőrendszer) ingatlan és ingó vagyontárgyai üzemeltetéséről, fenntartásáról az NFK gondoskodik.
 
@@ -191,9 +197,11 @@ a vízügyi igazgatási szervek részére azok vízgazdálkodási, vízvédelmi 
 
 (3) Az agrárminiszter az (1) bekezdésben meghatározott időpontig nem nyilatkozó vagy a fenntartható vízgazdálkodási közösségként történő továbbműködést nem vállaló öntözési közösségek öntözési közösségként történő elismerési határozatait az öntözési igazgatási szerv (2) bekezdés szerinti javaslata alapján visszavonja.
 
-#### 18. §
+18. § (1) Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (4) bekezdését és 10. § (2) bekezdését a hatálybalépésükkor folyamatban lévő eljárásokban is alkalmazni kell.
 
-#### 19. §
+(2) A Módtv2. hatálybalépése előtt határozott időtartamra kiadott és a Módtv2. hatálybalépésekor hatályos öntözésfejlesztési terv és környezeti körzeti terv határozatlan időtartamúvá válik.
+
+19. § Az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény (a továbbiakban: Módtv3.) hatálybalépése előtt elismert fenntartható vízgazdálkodási közösségek esetében a miniszter – szükség esetén az érintett alrészletek megjelölésével – a Módtv3. hatálybalépését követő 180 napon belül kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg feljegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
 
 #### 20. §
 

@@ -34,7 +34,7 @@ az ügyvédi tevékenységről
 
 (2) Nem minősül ügyvédi tevékenységnek
 
-- a) a nem természetes személy jogalannyal fennálló munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati, igazságügyi alkalmazotti vagy ügyészségi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony keretei között,
+- a) a nem természetes személy jogalannyal fennálló munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati, igazságügyi alkalmazotti vagy ügyészségi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony keretei között,
   - aa) a munkáltató, egyházi szolgálati viszony esetében az egyházi jogi személy, vagy önkéntes jogviszony esetén a fogadó szervezet (e § alkalmazásában a továbbiakban együtt: munkáltató),
   - ab) a munkáltató társasági adóról és az osztalékadóról szóló törvényben meghatározott kapcsolt vállalkozása (a továbbiakban: kapcsolt vállalkozás), vagy
   - ac) a munkáltatóval irányítási vagy fenntartói viszonyban álló szerv
@@ -335,7 +335,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 
 23. § (1) Az ügyvédi tevékenység gyakorlásával összeférhetetlen:
 
-- a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, az adó- és vámhatósági szolgálati, az egészségügyi szolgálati, a közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, a rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
+- a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, az adó- és vámhatósági szolgálati, az egészségügyi szolgálati, a közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, a rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
 - b) gazdasági társaságban a korlátlan felelősséggel járó tagsági jogviszony,
 - c) minden más, munkavégzési kötelezettséggel járó és ellenérték fejében végzett tevékenység.
 
@@ -363,7 +363,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 
 (2) A kamarai jogtanácsosi és a jogi előadói tevékenység gyakorlásával a 23. § (1) bekezdés c) pontja alá eső tevékenységek közül nem összeférhetetlen továbbá a jogi személy vezető tisztségviselője feladatának ellátása.
 
-(3) Az ügyvédi tevékenység gyakorlója az oktatói, tudományos és művészeti tevékenységet – ideértve az ilyen tevékenységet alaptevékenységként folytató szervezetben betöltött tisztségviselői és vezetői megbízatást is – munkaviszonyban, közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati viszonyban is elláthatja.
+(3) Az ügyvédi tevékenység gyakorlója az oktatói, tudományos és művészeti tevékenységet – ideértve az ilyen tevékenységet alaptevékenységként folytató szervezetben betöltött tisztségviselői és vezetői megbízatást is – munkaviszonyban, közalkalmazotti jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati viszonyban is elláthatja.
 
 (4) Az e § szerinti tevékenység az ügyvédi tevékenység gyakorlásától minden szempontból elkülönítve, úgy folytatható, hogy az ne veszélyeztesse az ügyvédi tevékenység gyakorlásának a függetlenségét. Az e § szerinti tevékenységeket az ügyvédi tevékenység gyakorlója nem ügyvédként, hanem az adott tevékenységre irányadó jogszabályban meghatározott formában folytathatja.
 
@@ -388,7 +388,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 
 - a) megbízás,
 - b) kirendelés, vagy
-- c) az e törvényben meghatározott esetekben munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony
+- c) az e törvényben meghatározott esetekben munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony
 
 alapján folytatható.
 
@@ -437,19 +437,19 @@ alapján folytatható.
 
 32. § (1) A jogi tanácsadásra adott megbízás kivételével a megbízási szerződés megkötése előtt a megbízott, valamint a munkáltatója és harmadik személy közötti szerződés ellenjegyzését megelőzően a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) elvégzi az ügyfél, a kamarai jogtanácsos a munkáltatójával szerződő személy, illetve az ezek képviseletében eljáró személy azonosítását.
 
-(2) Az ügyvéd azt a természetes személyt, akit nem ismer, vagy akinek a személyazonosságát illetően kétsége merül fel, személyazonosításra alkalmas okmánya megtekintésével azonosítja.
+(2) Az ügyvéd azt a természetes személyt, akit nem ismer, vagy akinek a személyazonosságát illetően kétsége merül fel, személyazonosításra alkalmas okmánya megtekintésével, vagy az Eüsztv. alapján a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevétele, vagy – ha az ügyvéd rendelkezik az ehhez szükséges feltételekkel – a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdés a), b) vagy d) pontja szerinti ellenőrzés útján azonosítja.
 
 (3) Az ügyvéd a természetes személy adatai a nyilvántartott adatokkal való egyezőségének és az általa bemutatott okmányok érvényességének ellenőrzése érdekében a személyiadat- és lakcímnyilvántartásból, a járművezetőiengedély-nyilvántartásból, az útiokmány-nyilvántartásból és a központi idegenrendészeti nyilvántartásból elektronikus úton a következő adatokat igényelheti:
 
 - a) természetes személyazonosító adatok,
-- b) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett, illetve EGT-állampolgár jogállás,
+- b) állampolgárság, hontalanság, menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 - c) lakcím,
 - d) arcképmás,
 - e) aláírás,
 - f) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 18. § (5) bekezdése szerinti tények,
 - g) a külföldre utazásról szóló 1998. évi XII. törvény 24. § (1) bekezdés f) pontja szerinti adatok és az okmány érvényességi ideje,
 - h) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pont ba)–bb) alpontja szerinti adatok,
-- i) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. § (1) bekezdés g) pontja, 96. § (1) bekezdés g) pontja, továbbá 100. § (1) bekezdés b) és c) pontja szerinti adatok.
+- i) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. § (1) bekezdés b) és c) pontja szerinti adatok.
 
 (4) A jogi személyt vagy más szervezetet az ügyvéd a jogi személyt vagy más szervezetet nyilvántartó hatóság nyilvántartása vagy az abból származó kivonat alapján azonosítja.
 
@@ -471,7 +471,7 @@ alapján folytatható.
 
 - a) természetes személyazonosító adatok,
 - b) lakcím,
-- c) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett, illetve EGT-állampolgár jogállás,
+- c) állampolgárság, hontalanság, menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 - d) az azonosításhoz felhasznált azonosító okmány típusa és száma,
 - e) a 32. § (3) bekezdésében meghatározott adatigénylés során kapott válasz azonosítója,
 - f) azon ügyek ügyazonosítója, amelyekben a természetes személy azonosítása kötelező,
@@ -937,7 +937,7 @@ betekinthet, illetve abból adatot igényelhet.
 
 ### XII. Fejezet — A KAMARAI JOGTANÁCSOS
 
-66. § (1) A kamarai jogtanácsos az ügyvédi tevékenységet nem természetes személy jogalannyal fennálló munkaviszonya, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) keretei között,
+66. § (1) A kamarai jogtanácsos az ügyvédi tevékenységet nem természetes személy jogalannyal fennálló munkaviszonya, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) keretei között,
 
 - a) ügyvédi kamarai nyilvántartásba bejelentett munkáltatója, egyházi szolgálati viszony esetében az egyházi jogi személy (e fejezet alkalmazásában a továbbiakban együtt: munkáltató),
 - b) munkáltatójának kapcsolt vállalkozása, vagy
@@ -1015,7 +1015,7 @@ folytathatja.
 
 ### XIII. Fejezet — A JOGI ELŐADÓ
 
-70. § (1) A jogi előadó az ügyvédi tevékenységet a jogi szakvizsga letételéhez szükséges joggyakorlat megszerzése és a kamarai jogtanácsosi feladatok ellátásához szükséges szakmai ismeretek elsajátítása érdekében, munkaviszonya, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) alapján, kamarai jogtanácsos irányításával és ellenőrzésével,
+70. § (1) A jogi előadó az ügyvédi tevékenységet a jogi szakvizsga letételéhez szükséges joggyakorlat megszerzése és a kamarai jogtanácsosi feladatok ellátásához szükséges szakmai ismeretek elsajátítása érdekében, munkaviszonya, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai, igazságügyi szakértői intézménynél fennálló igazságügyi alkalmazotti szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) alapján, kamarai jogtanácsos irányításával és ellenőrzésével,
 
 - a) ügyvédi kamarai nyilvántartásba bejelentett munkáltatója, egyházi szolgálati viszony esetében az egyházi jogi személy (e fejezet alkalmazásában a továbbiakban együtt: munkáltató),
 - b) munkáltatójának kapcsolt vállalkozása, vagy

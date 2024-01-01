@@ -707,7 +707,7 @@ köteles foglalkoztatni. Ezt követően a köztisztviselő munkaidejét a kérel
 
 (3) Végleges áthelyezéskor a köztisztviselő az áthelyezést kezdeményező szervnél új kinevezést kap.
 
-(4) Végleges áthelyezés esetén a közszolgálati igazolást, valamint a köztisztviselő illetményét és egyéb járandóságait ki kell adni.
+(4) Végleges áthelyezés esetén a foglalkoztatási igazolást, valamint a köztisztviselő illetményét és egyéb járandóságait ki kell adni.
 
 (5) Végleges áthelyezés esetén a köztisztviselő jogviszonyát folyamatosnak kell tekinteni.
 
@@ -786,7 +786,7 @@ jogviszonyt létesít, közszolgálati jogviszonya az a) vagy b) pont szerinti j
 
 (11) A munkáltató a határozatlan időtartamú jogviszony felmentéssel történő megszüntetését nem köteles indokolni, ha a köztisztviselő nyugdíjasnak minősül.
 
-(12) A köztisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően a (3) bekezdés f) pontja szerinti feltétel ellenőrzése céljából a nyugdíjbiztosítási igazgatási szervnél a megszerzett szolgálati idejéről hatósági bizonyítvány kiállítását kéri. Nem kell kérelmezni a hatósági bizonyítvány kiállítását, ha a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozata az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét igazolja. A köztisztviselő a szolgálati időről kiállított hatósági bizonyítvány vagy más határozat másolatát – a rá irányadó öregségi nyugdíjkorhatár betöltését legalább három hónappal megelőzően – benyújtja a munkáltatónak. A munkáltató az így tudomására jutott személyes adatokat a (3) bekezdés f) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából, legfeljebb a 91. § (4) bekezdésében meghatározott ideig kezelheti.
+(12) A köztisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően a (3) bekezdés f) pontja szerinti feltétel ellenőrzése céljából kérheti, hogy a munkáltató a nyugdíjbiztosítási igazgatási szervet a köztisztviselő szolgálati idejének ellenőrzése céljából megkeresse. A köztisztviselő az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozatával is igazolhatja a munkáltató felé. A munkáltató az így tudomására jutott személyes adatokat a (3) bekezdés f) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából, legfeljebb a 91. § (4) bekezdésében meghatározott ideig kezelheti.
 
 (13) A köztisztviselő a (3) bekezdés f) pontjában meghatározott kérelmét a rá irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző harmadik hónap utolsó napjáig írásban nyújthatja be a munkáltatóhoz. A határidő elmulasztása miatt igazolás benyújtásának nincs helye, ebben az esetben a köztisztviselő jogviszonya annak a hónapnak az utolsó napján szűnik meg, amikor a köztisztviselő a rá irányadó öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.
 
@@ -870,7 +870,7 @@ meghosszabbodik, ha azt a köztisztviselő kéri.
 
 (1) A köztisztviselőt – a (9) bekezdésben foglalt kivétellel – felmentése és a különleges jogállású szerv jogutód nélküli megszűnése esetén végkielégítés illeti meg.
 
-(2) A végkielégítés összege, ha a köztisztviselő közszolgálati jogviszonyban töltött ideje legalább
+(2) A végkielégítés összege, ha a köztisztviselő foglalkoztatási jogviszonyban töltött ideje legalább
 
 - a) három év: egyhavi,
 - b) öt év: kéthavi,
@@ -964,9 +964,9 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 
 #### 44. § [Eljárás a jogviszonymegszűnés, -megszüntetés esetén]
 
-(1) A köztisztviselő jogviszonya megszüntetésekor, illetve megszűnésekor a feladataival kapcsolatos iratait köteles átadni és a különleges jogállású szervvel elszámolni. Az átadás-átvétel és az elszámolás feltételeit a munkáltató köteles biztosítani.
+(1) A köztisztviselő jogviszonya megszüntetésekor, illetve megszűnésekor a feladataival kapcsolatos iratait köteles átadni és a különleges jogállású szervvel elszámolni. Az átadás-átvétel és az elszámolás elektronikus úton történő lebonyolításához szükséges feltételeket a munkáltató köteles biztosítani.
 
-(2) A jogviszony megszüntetésekor vagy megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül a köztisztviselő illetményét és egyéb járandóságait – a 64. § (13) bekezdésében foglaltak kivételével – részére ki kell fizetni, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+(2) A jogviszony megszüntetésekor vagy megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül a köztisztviselő illetményét és egyéb járandóságait – a 64. § (13) bekezdésében foglaltak kivételével – részére ki kell fizetni, valamint elektronikus úton ki kell adni a foglalkoztatási igazolást.
 
 (3) A közszolgálati jogviszony létesítésével és megszüntetésével összefüggésben a különleges jogállású szerv jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
@@ -1653,7 +1653,7 @@ nem biztosítható.
 
 (3) A szülői szabadságot a köztisztviselő kérésének megfelelő időpontban kell kiadni. A köztisztviselő az erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt bejelenti. A munkáltató a különleges jogállású szerv működését közvetlenül és súlyosan érintő ok esetén a szülői szabadság kiadását – legfeljebb hatvan nappal – elhalaszthatja, és ennek indokát, valamint a szabadság kiadásának javasolt időpontját a köztisztviselővel egyidejűleg írásban közli.
 
-(4) A munkáltató a szülői szabadságra jogosult köztisztviselő részére igazolást ad a kiadott szülői szabadság tartamáról, ebben feltünteti a korábbi munkáltató által kiadott szülői szabadság tartamát is.
+(4)
 
 #### 67. § [Az igazgatási szünet]
 
@@ -1831,6 +1831,7 @@ illetménynek megfelelő összeg.
 - f) az e törvény, a Kit., a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
 - g) a 38. § (5) bekezdése szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
 - h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
+- i) a költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban töltött időt
 
 kell figyelembe venni.
 
@@ -2270,7 +2271,7 @@ kezdődik.
 - g) teljesítményértékelését,
 - h) közszolgálati jogviszonyát megszüntető iratot,
 - i) hatályban lévő fegyelmi büntetését kiszabó határozatot, valamint
-- j) közszolgálati igazolásának másolatát
+- j) foglalkoztatási igazolásának másolatát
 
 együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
@@ -2396,9 +2397,9 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (14) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
 
-(15) A különleges jogállású szerv szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+(15)
 
-(16) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a különleges jogállású szerv a köztisztviselők illetményéből a szakszervezeti tagdíjat a különleges jogállású szerv és a köztisztviselő erre vonatkozó megállapodása esetén vonja le.
+(16) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a különleges jogállású szerv a köztisztviselők illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.
 
 #### 96. § [A központi érdekegyeztetés]
 
@@ -2525,7 +2526,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 - 1a. apa: a Ptk. szerint szülői felügyelettel rendelkező apai jogállású férfi vagy örökbefogadó férfi;
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
-- 4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony;
+- 4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a köznevelési foglalkoztatotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a köztisztviselő az álláshelyéhez tartozó feladatkörhöz kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
 - 7. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;

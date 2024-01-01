@@ -2,7 +2,17 @@
 
 a magzati élet védelméről
 
-Az Országgyűlés annak tudatában, hogy— a fogantatással induló magzati élet tiszteletet és védelmet érdemel;— a magzati élet védelme a gyermeket váró nőkről történő fokozott gondoskodással valósítható meg, ugyanakkor a magzat egészséges fejlődését biztosító feltételek megteremtése elsődlegesen a szülők felelőssége;— a terhességmegszakítás nem a családtervezés és a születésszabályozás eszköze;— a családtervezés a szülők joga és felelősségea következő törvényt alkotja:
+Az Országgyűlés annak tudatában, hogy
+
+— a fogantatással induló magzati élet tiszteletet és védelmet érdemel;
+
+— a magzati élet védelme a gyermeket váró nőkről történő fokozott gondoskodással valósítható meg, ugyanakkor a magzat egészséges fejlődését biztosító feltételek megteremtése elsődlegesen a szülők felelőssége;
+
+— a terhességmegszakítás nem a családtervezés és a születésszabályozás eszköze;
+
+— a családtervezés a szülők joga és felelőssége
+
+a következő törvényt alkotja:
 
 1. § A női és férfi ivarsejt egyesüléséből létrejött, az anyaméhben kifejlődő magzatot és a gyermeket váró nőt támogatás és védelem illeti meg.
 
@@ -24,7 +34,7 @@ Az Országgyűlés annak tudatában, hogy— a fogantatással induló magzati é
 
 - a) a Magyarország területén lakóhellyel rendelkező magyar állampolgár,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és a három hónapot meghaladó tartózkodás jogával rendelkező személy, amennyiben a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
-- c) az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki bevándorolt vagy letelepedett jogállású.
+- c) az a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személy, aki huzamos tartózkodási jogosultsággal rendelkezik.
 
 (2) A terhesgondozás keretében
 
@@ -34,7 +44,7 @@ Az Országgyűlés annak tudatában, hogy— a fogantatással induló magzati é
 
 (3)
 
-4. §
+#### 4. §
 
 ### A terhesség megszakítása
 

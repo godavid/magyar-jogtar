@@ -54,9 +54,11 @@ a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüg
 
 #### 23. §
 
-#### 4.
+#### 4. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-#### 24. §
+24. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény a következő 1/C. §-sal egészül ki:
+
+„1/C. § Az Egyetem alaptevékenységként – a szervezeti és működési szabályzatában kijelölt szervezeti egysége útján – ellátja az 1/B. § hatálya alá nem tartozó, kormányrendeletben meghatározott kormányzati képzési, oktatási feladatok ellátásához kapcsolódó központosított közbeszerzés során ajánlatkérésre feljogosított szervezet feladatait, valamint egyéb kapcsolódó feladatokat.”
 
 #### 5. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
@@ -72,13 +74,22 @@ a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüg
 
 #### 28. §
 
-#### 8.
+#### 8. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-#### 29. §
+29. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 31. §-a a következő (3b) bekezdéssel egészül ki:
 
-#### 30. §
+„(3b) A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/C. §-a szerinti, jogszabályban meghatározott kormányzati képzési, oktatási feladatok, illetve az ezen oktatásokhoz kapcsolódó tananyagfejlesztési feladatok ellátásával kapcsolatos közbeszerzések esetében központosított eljárást kell alkalmazni. A Kormány jogosult a központosított eljárás részletes szabályainak meghatározására, beleértve annak személyi és tárgyi hatályát.”
 
-#### 31. §
+30. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdése a következő 7b. ponttal egészül ki:
+
+„7b. a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/C. §-a szerinti kormányzati képzési, oktatási feladatok ellátásához kapcsolódó beszerzések tekintetében a központosított eljárások részletes szabályait, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet részére fizetendő, kizárólag a végrehajtással felmerülő költségeket fedező díj mértékét, valamint a kormányzati képzési, oktatási közbeszerzéseknek – e törvénytől az ilyen eljárások sajátosságai miatt eltérő – szabályait;”
+
+31. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
+
+- a) 31. § (3) bekezdésében a „rendezvényszervezés” szövegrész helyébe a „rendezvényszervezési” szöveg,
+- b) 198. § (1) bekezdés 7a. pontjában az „az ilyen” szövegrész helyébe az „ezen” szöveg
+
+lép.
 
 #### 9. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 

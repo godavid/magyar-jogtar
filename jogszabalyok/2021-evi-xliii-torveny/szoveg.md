@@ -129,7 +129,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - b) a Bűnügyi Együttműködés Európai Uniós Ügynökségének (Europol) és az Európai Csalás Elleni Hivatalnak (OLAF), valamint
 - c) harmadik ország hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, ha az adatkezelés megfelel a harmadik országok részére történő adatátadásra vonatkozó szabályokban foglalt feltételeknek.
 
-(2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
+(2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
 
 (2b) Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvényben (a továbbiakban: Eufetv.) meghatározott feladatainak ellátása érdekében az Integritás Hatóság jogosult ingyenesen, a 21/B. §-a szerinti regisztráció nélkül, közvetlen adatkapcsolat keretében átvenni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az Eufetv. IV. Fejezete hatálya alá tartozó adatszolgáltató tényleges tulajdonosának a tényleges tulajdonosi nyilvántartásban tárolt természetes személyazonosító adatait és lakcímadatát.
 
@@ -137,9 +137,9 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (4) Az adatszolgáltató és a tényleges tulajdonos jogosult egyedi adatszolgáltatás keretében ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni a tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés szerinti saját tényleges tulajdonosi adatait, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját. A tényleges tulajdonos egyedi adatszolgáltatási kérelmét – a tényleges tulajdonos meghatalmazása alapján – azon adatszolgáltató nyújtja be, amelynek tényleges tulajdonosa.
 
-(5) Harmadik személy díj fizetése ellenében, a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját.
+(5)
 
-(6) Harmadik személy díj fizetése ellenében egyedi adatszolgáltatás keretében, a nyilvántartó szerv által meghatározott módon adatot igényelhet a bizalmi vagyonkezelési jogviszony 4. § (1) bekezdés g) pontja szerinti tényleges tulajdonosi adataira vonatkozóan, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét okirattal igazolja. A jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
+(6) Harmadik személy díj fizetése ellenében, a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) és (2) bekezdése szerinti adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait – ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat – és azok rögzítésének időpontját, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét okirattal igazolja. A jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
 
 - a) a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozói kapcsolatban áll,
 - b) ugyanazon jogi személy vagy jogi személyiséggel nem rendelkező szervezet tényleges tulajdonosa,
@@ -160,7 +160,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 10. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv jelezheti a nyilvántartó szervnek, ha a tényleges tulajdonosi viszonyokat érintő érdemi eltérést észlel az általuk ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között.
 
-(2) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdésben meghatározott jelzésben közli az általa ismert tényleges tulajdonosi adatokat.
+(2) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdésben meghatározott jelzésben közli az általa ismert tényleges tulajdonosi adatokat, amennyiben azok rendelkezésre állnak.
 
 11. § (1) Ha a szolgáltató – a számlavezető kivételével – a Pmt. 7–10. §-ában foglalt ügyfél-átvilágítás keretében vagy azt követően, a Pmt. 9. § szerinti intézkedések elvégzése vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése során a tényleges tulajdonosi nyilvántartásban tárolt adatoktól a tényleges tulajdonosi viszonyokat érintő érdemben eltérő adatot rögzít, ezt 5 munkanapon belül jelzi a nyilvántartó szervnek.
 
@@ -219,7 +219,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 18. § (1) A számlavezető tájékoztatja a nyilvántartó szervet az általa vezetett, az euroátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló, 2012. március 14-i 260/2012/EU európai parlamenti és tanácsi rendeletben meghatározott nemzetközi bankszámla-azonosítóval azonosított fizetési számlák – a Pmt. 1. § (4) bekezdésében meghatározott számlák kivételével – alábbi adatairól:
 
-- a) a számla tulajdonosának családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy számlatulajdonos cégjegyzékszáma, egyéb jogi személy számlatulajdonos létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
+- a) a számla tulajdonosának családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy számlatulajdonos neve és cégjegyzékszáma; egyéb jogi személy számlatulajdonos neve és a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
 - b) a számla felett rendelkezni jogosult személy(ek) családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve;
 - c) a számla tulajdonosa tényleges tulajdonosának családi és utóneve;
 - d) a számla száma;
@@ -241,7 +241,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 19. § (1) A széfszolgáltató tájékoztatja a nyilvántartó szervet a széfszolgáltatási szerződés alábbi adatairól:
 
-- a) a széf bérlőjének családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy bérlő cégjegyzékszáma; egyéb jogi személy bérlő létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
+- a) a széf bérlőjének családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy bérlő neve és cégjegyzékszáma; egyéb jogi személy bérlő neve és a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
 - b) a széf felett rendelkezni jogosult személy(ek) családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve;
 - c) a széfszolgáltató neve, rövidített neve;
 - d) a széfszolgáltatási szerződés időtartama.
@@ -269,7 +269,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 12. Felügyelet, intézkedések
 
-21. § (1) A felügyeletet ellátó szervek felügyeleti tevékenységük gyakorlásával – a felügyeletet ellátó szerv tevékenységét szabályozó jogszabályok alapján, a (2) bekezdésben meghatározottaknak megfelelően – biztosítják a szolgáltatók e törvényben meghatározott kötelezettségeknek való megfelelését.
+21. § (1) A felügyeletet ellátó szervek felügyeleti tevékenységük gyakorlásával – a felügyeletet ellátó szerv tevékenységét szabályozó jogszabályok alapján, a (2) bekezdésben meghatározottaknak megfelelően – biztosítják a szolgáltatók e törvényben meghatározott kötelezettségeknek való megfelelését, valamint a számlavezetők esetében a 18. § (1) bekezdés, a széfszolgáltatók esetében a 19. § (1) bekezdés szerinti tájékoztatási kötelezettségnek való megfelelést.
 
 (2) A felügyeletet ellátó szervek a felügyeleti tevékenységük során a Pmt.-ben meghatározott eljárást és intézkedéseket alkalmazzák.
 
@@ -281,7 +281,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 21/A. § (1) A nyilvántartó szerv
 
-- a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint,
+- a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által a 8. § (2a) bekezdése szerint
 - b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
 - c) a 8. § (3)–(7) bekezdése szerint, valamint
 - d) a 8. § (2b) bekezdése szerint
@@ -327,7 +327,7 @@ végzett adathozzáféréseket naplózza.
 
 #### 12/B. Az adathozzáféréshez szükséges regisztrálás
 
-21/B. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv a 8. §-ban és a 20. §-ban, az önkormányzati adóhatóság és a gazdasági kamarák a 20. §-ban, a szolgáltató a 8. §-ban meghatározott adathozzáférés érdekében regisztrálnak a nyilvántartó szervnél.
+21/B. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv a 8. §-ban és a 20. §-ban, az önkormányzati adóhatóság és a gazdasági kamarák a 20. §-ban, az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a szolgáltató a 8. §-ban meghatározott adathozzáférés érdekében regisztrálnak a nyilvántartó szervnél.
 
 (2) A regisztráció során az adathozzáférést igénylő természetes személy közli
 
@@ -347,7 +347,7 @@ végzett adathozzáféréseket naplózza.
 
 (5) A (3) bekezdés d) pontja alapján a regisztráció kezdeményezésére jogosult lehet
 
-- a) a 8. § (1) bekezdése szerinti hatóságok, ügyészség, bíróság, és felügyeletet ellátó szervek, és a 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció kezdeményezésére kijelölt tagja, képviselője,
+- a) a 8. § (1) bekezdése szerinti hatóságok, ügyészség, bíróság, felügyeletet ellátó szervek, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció kezdeményezésére kijelölt tagja, képviselője,
 - b) a 8. § (3) bekezdése szerinti szolgáltató törvényes képviselője és az általa eljárásra meghatalmazott harmadik személy.
 
 (6) Sikeres regisztráció esetén a regisztráció kezdeményezésére jogosult személy a nyilvántartó szerv által meghatározott módon kijelölheti azt az (1) bekezdésben meghatározott szervezettel szolgálati viszonyban, munkaviszonyban vagy más munkavégzésre irányuló jogviszonyban álló természetes személyt, aki a szervezet nevében hozzáféréssel rendelkezhet a 4. § (1) bekezdése, a 18. § (1) bekezdése és a 19. § (1) bekezdése szerinti nyilvántartásokhoz. A kijelölés során a regisztráció kezdeményezésére jogosult személy megadja a hozzáférésre jogosult természetes személy (2) bekezdésben meghatározott adatait.
@@ -362,14 +362,14 @@ végzett adathozzáféréseket naplózza.
 
 (9) A sikeresen regisztrált szolgáltatók esetében a nyilvántartó szerv minden adathozzáférés kezdeményezése esetén vizsgálja az (5) és (6) bekezdés szerinti jogosultságok fennállását, és a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 803/2021. (XII. 28.) Korm. rendelet 1. §-a szerinti szolgáltatói minőséget, amelyek hiányában a hozzáférést megtagadja.
 
-21/C. § (1) 2022. július 1-től a harmadik személy a 8. § (5) bekezdésében meghatározott adathozzáférés érdekében regisztrál a nyilvántartó szervnél.
+21/C. § (1) 2022. július 1-től a harmadik személy a 8. § (6) és (7) bekezdésében meghatározott adathozzáférés érdekében regisztrál a nyilvántartó szervnél.
 
 (2) A regisztráció során a harmadik személy közli
 
 - a) a természetes személy családi és utónevét,
 - b) elektronikus levelezési címét.
 
-(3) 2022. július 1-től a 8. § (6) és (7) bekezdése szerinti adatigénylés esetén az adathozzáférést igénylő harmadik személy a regisztráció során becsatolja a 9. § (3) bekezdése alapján kiadott előzetes engedélyt.
+(3)
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

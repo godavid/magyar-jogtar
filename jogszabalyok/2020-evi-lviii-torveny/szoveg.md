@@ -2508,6 +2508,10 @@ vonatkozó szabályait.
 
 (6) Az ügyfél dönthet úgy, hogy a tevékenységet az e fejezet szerinti bejelentés helyett engedély alapján kívánja végezni. Ha az ügyfél bejelentés helyett engedélykérelmet terjeszt elő, e fejezet rendelkezései az adott ügyben nem alkalmazhatók.
 
+(7) Amennyiben az ügyfél az e fejezet hatálya alá tartozó eljárásokban engedélyezési eljárást indít – feltéve, hogy a kérelem benyújtásától számított öt napon belül nem merül fel a kérelem visszautasításának, az eljárás megszüntetésének, felfüggesztésének vagy a kérelem elutasításának szükségessége, illetve a 403. § szerinti körülmény –, a hatóság elektronikus úton felhívja a kérelmező figyelmét arra, hogy a tevékenység engedély helyett bejelentés alapján is végezhető. A figyelemfelhívás kiterjed a bejelentés intézésének teljes körű ismertetésére, ideértve a közérdek érvényre juttatása körében alkalmazandó szabályokat is.
+
+(8) Ha a kérelmező a (7) bekezdés szerinti felhívásban foglalt határidőben úgy nyilatkozik, hogy a kérelmét bejelentésként kéri kezelni, úgy e fejezet szerint kell eljárni. Ebben az esetben a hatóság gondoskodik a megfizetett díj e fejezet szerinti részének visszafizetéséről.
+
 399. § (1) Az e fejezet szerinti bejelentési lehetőség igénybevétele, továbbá az az alapján folytatott tevékenység során a bejelentő a hatósággal és az egyéb érintettekkel a legszorosabb együttműködésre köteles. A bejelentő – függetlenül attól, hogy az engedélyezésre vonatkozó jogszabály a kérelem kötelező elemeként előírja-e – a hatósággal haladéktalanul köteles mindazt az információt megosztani, amely az engedélyezési eljárás szükségességének megítéléséhez, illetve az ellenőrzés gyors és eredményes lefolytatásához szükséges.
 
 (2) A bejelentés megtétele és a tevékenység folytatása során a bejelentő köteles jóhiszeműen és tisztességesen eljárni. A bejelentéssel szerzett jog gyakorlása nem sértheti más ügyfél vagy a közösség jogait.
@@ -2524,10 +2528,7 @@ vonatkozó szabályait.
 
 401. § (1) A bejelentést az engedélykérelemre jogszabályban előírt adattartalommal kell benyújtani.
 
-(2) A bejelentéshez mellékelni kell az engedélykérelem jogszabályban előírt mellékleteit. A bejelentéshez okiratot kell mellékelni, amelyben a bejelentő
-
-- a) tájékoztatást ad a joggyakorlás által érintett további ügyfelek személyéről, és
-- b) nyilatkozik arról, hogy a további ügyfeleket a bejelentés benyújtásának szándékáról, a benyújtás időpontjáról és az eljáró hatóságról tájékoztatta.
+(2) A bejelentéshez mellékelni kell az engedélykérelem jogszabályban előírt mellékleteit.
 
 (3) A bejelentés kizárólag elektronikus úton tehető meg. E fejezet alkalmazásában elektronikus úton megtett bejelentésnek minősül az ügyfélkapu útján, elektronikus űrlap útján, általános célú elektronikus kérelem űrlap szolgáltatás útján, valamint e-mail útján megtett bejelentés is. Ha jogszabály az engedélyezésre az elektronikus benyújtás valamely módját vagy módjait kizárólagosan előírja, a bejelentést csak azon a módon vagy módokon lehet megtenni.
 
@@ -2552,19 +2553,35 @@ vonatkozó szabályait.
 403. § (1) A hatóság a 404. § (1) bekezdése szerinti határidő letelte előtt – hiánypótlási felhívás kibocsátása nélkül – végzéssel a bejelentés engedélyezési eljárásban történő elbírálásáról rendelkezik, ha
 
 - a) a tevékenység a 400. § (2) bekezdése szerinti kormányrendelet alapján nem végezhető bejelentéssel,
-- b) megállapítható, hogy az engedély megadásának jogszabályban előírt feltételei hiányoznak,
+- b)
 - c) az alábbi közérdekek várható vagy közvetlen sérelmének veszélye áll fenn:
   - ca) az élet, a testi épség és az egészség védelme,
   - cb) a tevékenység jellegére, illetve hatására figyelemmel a károkozás vagy a katasztrófák bekövetkezése,
-  - cc) a közbiztonság, vagy
-  - cd) más nyomós közérdek,
+  - cc) a közbiztonság,
+  - cd)
 - d) az engedélyezési eljárásban az eljárás felfüggesztésének lenne helye,
-- e) a bejelentés tárgya vagy a bejelentő nem azonosítható, illetve a bejelentés hiányos – ide nem értve a díjfizetés elmulasztását vagy a díj hiányos megfizetését –,
+- e)
 - f) a bejelentés visszaélésszerű joggyakorlást valósít meg, vagy arra vonatkozóan megalapozott következtetést lehet levonni.
 
-(2) A végzést az egyszerűsített döntésre vonatkozó előírások szerint kell megindokolni, továbbá abban tájékoztatást kell adni az (5) bekezdésben foglaltakról. A végzéssel szemben nincs helye jogorvoslatnak.
+(1a) Ha
 
-(3) Az eljáró hatóság a végzést abban az esetben is meghozza, ha ezt a szakhatóság az (1) bekezdés szerinti okból kezdeményezi.
+- a) az engedély megadásának a feltételei hiányoznak,
+- b) a bejelentés tárgya nem azonosítható, illetve a bejelentés hiányos, vagy
+- c) a bejelentő személye megfelelően nem azonosítható
+
+a hatóság a bejelentőt elektronikus úton a bejelentés 401. § (3) bekezdése szerinti formájában erről tájékoztatja és – az (1d) bekezdésben foglalt mulasztás jogkövetkezményeire történő figyelmeztetés és az (5) bekezdésben foglaltakról szóló tájékoztatás mellett – felhívja, hogy a hiányzó feltételeket pótolja, a bejelentés tárgyát, a bejelentő személyét megfelelően azonosítsa, illetve a hiányt pótolja.
+
+(1b) Az (1a) bekezdés szerinti esetben a hatóság a bejelentőnek a hiányzó feltételek pótlására, a bejelentés tárgyának, a bejelentő személyének megfelelő azonosítására, illetve a hiány pótlására legalább három, legfeljebb tíz nap határidőt állapít meg.
+
+(1c) Ha az (1b) bekezdés szerinti határidőben a bejelentő a hiányzó feltételeket pótolja, a bejelentés tárgyát, a bejelentő személyét megfelelően azonosítja, illetve a hiányt pótolja, a 404. § szerint kell eljárni.
+
+(1d) Ha az (1b) bekezdés szerinti határidőben a bejelentő a hiányzó feltételeket nem, vagy nem megfelelően pótolja, a bejelentés tárgyát, a bejelentő személyét nem, vagy nem megfelelően azonosítja, illetve a hiányt nem pótolja, az (1) bekezdés szerint kell eljárni.
+
+(1e) Az (1b) bekezdés szerinti határidő a 404. § (1) bekezdése szerinti határidőbe nem számít be.
+
+(2) A végzést az egyszerűsített döntésre vonatkozó előírások szerint kell megindokolni, továbbá abban tájékoztatást kell adni az (5) bekezdésben foglaltakról. A végzéssel szemben jogorvoslati jog a (4) bekezdés szerinti engedélyezési eljárásban hozott határozat, ennek hiányában eljárást megszüntető végzés ellen igénybe vehető jogorvoslat keretében gyakorolható.
+
+(3)
 
 (4) A végzés közlését követően a hatóság engedélyezési eljárást folytat le.
 
@@ -2574,13 +2591,20 @@ vonatkozó szabályait.
 - b) az ügyintézési határidő kezdőnapja a bejelentést követő nap azzal, hogy az ügyintézési határidő az engedélyezéshez képest öt nappal meghosszabbodik,
 - c) a díjat a jogszabályban megállapított díj 100%-ára kell kiegészíteni.
 
+(6) Amennyiben a (2) bekezdés szerinti jogorvoslati eljárásban megállapításra kerül, hogy a bejelentés engedélyezési eljárásra utalásának nem volt helye, a (4) bekezdés szerinti hatóság
+
+- a) az (5) bekezdés c) pontja szerinti díj háromszorosát, illetve
+- b) amennyiben az eljárás díjmentes volt, ötvenezer forintot
+
+köteles a jogorvoslati döntés közlését követő 15 napon belül megfizetni a bejelentőnek.
+
 #### 118. A tevékenység megkezdése a bejelentést követően
 
 404. § (1) Ha nem kerül sor a bejelentés visszautasítására vagy engedélyezési eljárásra utalására, a kérelmező a tevékenységet a bejelentést követő tizenötödik napot követő naptól jogosult megkezdeni. Ha a bejelentés áttételére kerül sor, az áttételt elrendelő hatóság tájékoztatja a bejelentőt arról, hogy a határidő az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz történő áttétel napját követő napon kezdődik.
 
 (2) Az (1) bekezdés szerint megkezdett tevékenység az engedélyre jogszabályban meghatározott leghosszabb hatályossági idő végéig folytatható.
 
-(3) A bejelentő kérelmére a hatóság az (1) bekezdés szerinti joghatás beálltáról a bejelentőt értesíti. Az értesítés iránti kérelem akár a bejelentéssel egyidejűleg, akár azt követően a (2) bekezdés szerinti hatályossági idő végéig előterjeszthető.
+(3) A hatóság az (1) bekezdés szerinti joghatás beálltáról – ha az értesítés mellőzését nem kérte a bejelentő – 5 napon belül tájékoztatja a bejelentőt. Az értesítés kézhezvétele nélkül is gyakorolható a tevékenység, ha az (1) bekezdésben meghatározott feltételek fennállnak.
 
 (4) A bejelentés alapján történő joggyakorlás a felügyeleti díjjal kapcsolatos kötelezettségeket nem érinti.
 
@@ -2609,9 +2633,9 @@ vonatkozó szabályait.
 
 (2) A veszélyhelyzet alatti engedélykötelezettségről, valamint az ellenőrzött bejelentésről szóló 191/2020. (V. 8.) Korm. rendelet szerinti bejelentés alapján gyakorolt tevékenységek változatlanul továbbfolytathatók azzal, hogy a közérdek érvényre juttatására e fejezetet kell alkalmazni.
 
-(3) Az e fejezet hatálybalépésétől 2020. december 31-ig terjedő időszakban megindult engedélyezési eljárásokban – feltéve, hogy a kérelem benyújtásától számított nyolc napon belül nem merül fel a kérelem visszautasításának, az eljárás megszüntetésének, felfüggesztésének vagy a kérelem elutasításának szükségessége, illetve a 403. § szerinti körülmény – a hatóság felhívja a kérelmező figyelmét arra, hogy a tevékenység engedély helyett bejelentés alapján is végezhető. A figyelemfelhívás kiterjed a bejelentés intézésének teljes körű ismertetésére, ideértve a közérdek érvényre juttatása körében alkalmazandó szabályokat is.
+(3)
 
-(4) Ha a kérelmező a (3) bekezdés szerinti felhívásban foglalt határidőben úgy nyilatkozik, hogy a kérelmét bejelentésként kéri kezelni, úgy e fejezet szerint kell eljárni. Ebben az esetben a hatóság gondoskodik a megfizetett díj e fejezet szerinti részének visszafizetéséről.
+(4)
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

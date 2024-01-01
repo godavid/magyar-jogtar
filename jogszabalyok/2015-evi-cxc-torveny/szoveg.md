@@ -314,7 +314,7 @@ A Koordináló Testület Titkársága
 
 2. A Megállapodás minden aláírója éves szinten és egyenlő alapon osztozik a Megállapodással kapcsolatos ügyek Koordináló Testület általi kezelésének költségein. Az előző mondattól eltérően a feltételeknek megfelelő országok a Konvenció Koordináló Testület Eljárásrendje X. cikkének megfelelően mentesülnek a közös költségviselés alól.
 
-Készült angol és francia nyelven, mindkét szöveg egyaránt hiteles.”
+Készült angol és francia nyelven, mindkét szöveg egyaránt hiteles.
 
 „COMMON REPORTING STANDARDCOMMON STANDARD ON REPORTING AND DUE DILIGENCE FOR FINANCIAL ACCOUNT INFORMATION
 
@@ -1447,6 +1447,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 24. Feröer-szigetek
 - 25. Finnország
 - 26. Franciaország és annak következő tengerentúli területei: – Francia Guyana, – Guadeloupe, – Martinique, – Mayotte, – Réunion, – Saint-Barthélemy és – Új-Kaledónia
+- 26a. Georgia
 - 27. Ghána
 - 28. Gibraltár
 - 29. Görögország
@@ -1506,7 +1507,8 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 58e. Peru
 - 59. Portugália
 - 60. Románia
-- 60a. Saint Kitts és Nevis
+- 60a. Ruanda
+- 60b. Saint Kitts és Nevis
 - 61. Saint Lucia
 - 62. Saint Vincent és a Grenadine-szigetek
 - 63. Samoa
@@ -1524,6 +1526,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 71b. Thaiföld
 - 72. Turks és Caicos-szigetek
 - 72a. Uganda
-- 72b. Uruguay
+- 72b. Ukrajna
+- 72c. Uruguay
 - 73. Új-Zéland
 - 74. Vanuatu

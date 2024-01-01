@@ -25,7 +25,9 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (3) Az adórendszeren kívüli keresettel összefüggésben bevallási kötelezettség sem a foglalkoztatót, sem a foglalkoztatottat nem terheli.
 
-(4) Ha a foglalkoztató elmulasztja a regisztrációs díjfizetési kötelezettségét és/vagy a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
+(4) Ha a foglalkoztató elmulasztja a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
+
+(5) A háztartási munkára e fejezet szerint foglalkoztatott természetes személy nem minősül a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti biztosítottnak.
 
 3. § (1) Háztartási alkalmazott foglalkoztatása esetén a foglalkoztató az állami adóhatóságnak havonta vagy több hónapra előre a munkavégzés megkezdése előtt bejelenti a (2) bekezdés szerinti adatokat. A foglalkoztató, választása szerint, bejelentési kötelezettségét
 
@@ -50,13 +52,7 @@ teljesíti.
 
 (6) Az adóhatóság részére teljesített bejelentés visszavonására és módosítására a foglalkoztató vagy a háztartási alkalmazott adatainak téves közlése, illetve a munkavégzés meghiúsulása esetén a bejelentést követő 24 órán belül van lehetőség.
 
-4. § (1) A foglalkoztatót az adóhatósági nyilvántartásba vétel, regisztráció céljából a 3. § szerint teljesített bejelentéssel érintett háztartási alkalmazottanként havonta 1000 forint összegű regisztrációs díjfizetési kötelezettség terheli. A regisztrációs díj összege független attól, hogy az adott hónapon belül hány napon történt a foglalkoztatás. A havi regisztrációs díj nem jár vissza akkor, ha a háztartási alkalmazott foglalkoztatására az adott hónapban nem kerül sor.
-
-(2) A foglalkoztató az (1) bekezdés szerinti regisztrációs díjat az állami adóhatóság által e célra rendszeresített fizetési számlára történő készpénzbefizetéssel, vagy az állami adóhatóság ügyfélszolgálatain bankkártyával, vagy ha pénzforgalmi számlával rendelkezik, átutalással a bejelentés napját magában foglaló hónapot követő hó 12. napjáig fizeti meg.
-
-(3) Az (1) bekezdés szerinti regisztrációs díj megfizetése társadalombiztosítási ellátásra való jogosultságot nem keletkeztet. A háztartási munkára e fejezet szerint foglalkoztatott természetes személy nem minősül a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti biztosítottnak.
-
-(4) A regisztrációs díj a központi költségvetés bevétele.
+#### 4. §
 
 5. § (1) A háztartási alkalmazott az őt megillető adórendszeren kívüli bevétel összegéről a bevétel megszerzése időpontjában igazolást kérhet a foglalkoztatótól. Ha a hónapban a háztartási alkalmazottat ugyanaz a foglalkoztató több napon is foglalkoztatja, a háztartási alkalmazott az igazolást az adott hónapban az utolsó munkavégzéssel töltött napon kérheti.
 
@@ -66,7 +62,7 @@ teljesíti.
 
 (4) Az állami adóhatóság a (2) bekezdés szerinti igazolás mintát az internetes honlapján letölthető formában elérhetővé teszi.
 
-6. § Az e fejezet szerinti bejelentési és regisztrációs díjfizetési kötelezettség elmulasztása esetén a foglalkoztató 100 ezer forintig terjedő mulasztási bírsággal sújtható.
+6. § Az e fejezet szerinti bejelentési kötelezettség elmulasztása esetén a foglalkoztató 100 ezer forintig terjedő mulasztási bírsággal sújtható.
 
 7. § Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 52. § (7) bekezdése a következő új i) ponttal egészül ki:
 
@@ -80,27 +76,27 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 ### II. Fejezet — A MAGÁNSZEMÉLY EGYES JÖVEDELMEINEK KÜLÖNADÓJA
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-12/A. §
+#### 12/A. §
 
-12/B. §
+#### 12/B. §
 
-12/C. §
+#### 12/C. §
 
-12/D. §
+#### 12/D. §
 
-12/E. §
+#### 12/E. §
 
-12/F. §
+#### 12/F. §
 
 12/G. § (1) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel hatályon kívül helyezett 8–12. §-t nem kell alkalmazni a 2018. január 1-jétől megszerzett jövedelmekre.
 
@@ -110,7 +106,241 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 ### III–XII. FEJEZET
 
-13–130. §
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -124,7 +354,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 (4) Az egyszerűsített foglalkoztatásról szóló 2009. évi CLII. törvény alapján háztartási munkára létrejött munkaviszonyhoz kapcsolódó közteherfizetésre vonatkozó rendelkezéseit az I. Fejezet hatálybalépését megelőző napig kell alkalmazni. Az I. Fejezet hatálybalépése napján, illetve azt követő 45 napon belül háztartási munkára létrejött foglalkoztatásra az általános szabályok szerinti bejelentési, bevallási, illetve befizetési kötelezettségek nem vonatkoznak.
 
-133. §
+#### 133. §
 
 134. § (1) A III. Fejezet – a (2) és (3) bekezdésben foglaltak kivételével – e törvény kihirdetését követő harmadik napon lép hatályba.
 
@@ -215,7 +445,17 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 148. § Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-149–154. §
+#### 149. §
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
+
+#### 154. §
 
 ### 1. melléklet a 2010. évi XC. törvényhez
 

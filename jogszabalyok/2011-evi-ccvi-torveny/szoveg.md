@@ -2,7 +2,25 @@
 
 a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról
 
-A Magyarországon működő vallási közösségek a társadalom kiemelkedő fontosságú értékhordozó és közösségteremtő tényezői, amelyek hitéleti tevékenységük mellett, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, környezetvédelmi, sport- és más tevékenységükkel, valamint a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország és a nemzet életében. Magyarország elismeri és támogatja a külhoni magyar közösségek életében meghatározó szerepet játszó vallási közösségek tevékenységét is.Az Országgyűlés– a lelkiismereti és vallásszabadság érvényre juttatása, a mások meggyőződésének tiszteletben tartása biztosítékaként a vallási közösségek önállóságának biztosítása, az állammal fennálló kapcsolatainak szabályozása céljából,– figyelemmel az Emberi Jogok Egyetemes Nyilatkozatára, az Emberi jogok és alapvető szabadságok védelméről szóló egyezményre, valamint a lelkiismereti és vallásszabadság alapvető emberi jogával kapcsolatban megfogalmazott nemzetközi dokumentumokra, valamint arra, hogy az Európai Unió működéséről szóló szerződés 17. cikke szerint az Európai Unió tiszteletben tartja és nem változtatja meg a vallási közösségek tagállamokban meglévő státuszát,– az Alaptörvénnyel összhangban, az állam és a vallási közösségek különvált működésének alkotmányos követelményét figyelemben tartva, de az együttmunkálkodás kölcsönös előnyökön alapuló elveit megfelelően érvényesítve,– folytatva a vallásszabadságot biztosító törvényekben testet öltő hagyományt,– tekintettel az állam világnézeti semlegességére és a felekezetek közötti békés együttélésre való törekvésre,– tiszteletben tartva a vallási közösségekkel megkötött megállapodásokat,– felismerve, hogy a közjó előmozdításának kulcsa az emberi személy méltóságának a tisztelete, amely lehetővé teszi nemcsak az emberek és a családok számára, hanem a vallási közösségek részére is, hogy szabadon teljesítsék küldetésüket,– külön is elismerve Magyarország történelmében és kultúrájában folyamatosan meghatározó jelentőséggel bíró egyházak kiemelkedő szerepét
+A Magyarországon működő vallási közösségek a társadalom kiemelkedő fontosságú értékhordozó és közösségteremtő tényezői, amelyek hitéleti tevékenységük mellett, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, környezetvédelmi, sport- és más tevékenységükkel, valamint a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország és a nemzet életében. Magyarország elismeri és támogatja a külhoni magyar közösségek életében meghatározó szerepet játszó vallási közösségek tevékenységét is.
+
+Az Országgyűlés
+
+– a lelkiismereti és vallásszabadság érvényre juttatása, a mások meggyőződésének tiszteletben tartása biztosítékaként a vallási közösségek önállóságának biztosítása, az állammal fennálló kapcsolatainak szabályozása céljából,
+
+– figyelemmel az Emberi Jogok Egyetemes Nyilatkozatára, az Emberi jogok és alapvető szabadságok védelméről szóló egyezményre, valamint a lelkiismereti és vallásszabadság alapvető emberi jogával kapcsolatban megfogalmazott nemzetközi dokumentumokra, valamint arra, hogy az Európai Unió működéséről szóló szerződés 17. cikke szerint az Európai Unió tiszteletben tartja és nem változtatja meg a vallási közösségek tagállamokban meglévő státuszát,
+
+– az Alaptörvénnyel összhangban, az állam és a vallási közösségek különvált működésének alkotmányos követelményét figyelemben tartva, de az együttmunkálkodás kölcsönös előnyökön alapuló elveit megfelelően érvényesítve,
+
+– folytatva a vallásszabadságot biztosító törvényekben testet öltő hagyományt,
+
+– tekintettel az állam világnézeti semlegességére és a felekezetek közötti békés együttélésre való törekvésre,
+
+– tiszteletben tartva a vallási közösségekkel megkötött megállapodásokat,
+
+– felismerve, hogy a közjó előmozdításának kulcsa az emberi személy méltóságának a tisztelete, amely lehetővé teszi nemcsak az emberek és a családok számára, hanem a vallási közösségek részére is, hogy szabadon teljesítsék küldetésüket,
+
+– külön is elismerve Magyarország történelmében és kultúrájában folyamatosan meghatározó jelentőséggel bíró egyházak kiemelkedő szerepét
 
 az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (5) bekezdése alapján, a következő törvényt alkotja:
 
@@ -319,7 +337,7 @@ fellebbezéssel élhet.
 
 (3) A (2) bekezdésben foglaltakat a jogorvoslati eljárásban is alkalmazni kell.
 
-14/D. §
+#### 14/D. §
 
 15. § A nyilvántartás tartalmazza a jogi személyiséggel rendelkező vallási közösség
 
@@ -425,7 +443,12 @@ módon – biztosítani kell a jogszabálytervezetek és a jogalkotási koncepci
 
 #### 7/A. Az egyházi jogi személy működésének különös szabályai
 
-21. § Közcélú tevékenységet ellátó egyházi jogi személynél az ilyen feladathoz kapcsolódóan foglalkoztatottak munkaviszonyának tartalma a munkabér, munkaidő és pihenőidő vonatkozásában a közalkalmazotti jogviszonyhoz igazodik azzal, hogy a foglalkoztatott javára történő eltérés megengedett. Az ilyen foglalkoztatottakra az állami vagy a helyi önkormányzati intézmények foglalkoztatottaira vonatkozó központi bérpolitikai intézkedések azonos feltételekkel terjednek ki.
+21. § (1) Közcélú tevékenységet ellátó egyházi jogi személynél az ilyen feladathoz kapcsolódóan foglalkoztatottak munkaviszonyának tartalma a munkabér, munkaidő és pihenőidő vonatkozásában
+
+- a) a közalkalmazotti jogviszonyhoz igazodik azzal, hogy a foglalkoztatott javára történő eltérés megengedett,
+- b) köznevelési intézménnyel létesített munkaviszony esetén a pedagógusok új életpályájáról szóló törvény szabályait kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti foglalkoztatottakra az állami vagy a helyi önkormányzati intézmények foglalkoztatottaira vonatkozó központi bérpolitikai intézkedések azonos feltételekkel terjednek ki.
 
 22. § Az egyházi jogi személy jogszabályban meghatározott rendben végzett tábori lelkészi, valamint börtön- és kórházlelkészi szolgálatot vagy más szolgálatot végezhet.
 
@@ -604,39 +627,39 @@ eljárást kezdeményezett.
 
 #### 11. Módosító rendelkezések
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
 #### 12. Hatályon kívül helyező rendelkezések
 
-54. §
+#### 54. §
 
 #### 13. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -651,9 +674,7 @@ sarkalatosnak minősül.
 
 #### A bevett egyházak
 
-70 A 2012: VII. törvény 3. §-a alapján a Magyarországi Iszlám Tanácsot alkotó közösségek a következők: Magyar Iszlám Közösség, Magyarországi Muszlimok Egyháza.
-
-71 A 2012: VII. törvény 2. §-a alapján a buddhista vallási közösségek a következők: a Tan Kapuja Buddhista Egyház, Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség, Magyarországi Karma – Kagyüpa Buddhista Közösség, Magyarországi Kínai Chanbuddhista Egyház, Gyémánt Út Buddhista Közösség.
+3K64241M_0
 
 |  | A |
 | --- | --- |

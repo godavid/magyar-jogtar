@@ -26,7 +26,7 @@ a gyülekezési jogról
 
 - a) magyar állampolgár,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgás és tartózkodás jogával rendelkezik,
-- c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt, illetve letelepedett jogállású, vagy tartózkodási engedéllyel rendelkezik, vagy
+- c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, és huzamos tartózkodási jogosultsággal, vagy tartózkodási engedéllyel rendelkezik, vagy
 - d) olyan magyarországi jogi személy vagy egyéb szervezet, amelynek törvényes képviselője megfelel az a)–c) pontokban meghatározott feltételeknek.
 
 (4) A gyűlést a szervező vezeti. Ha a gyűlést többen szervezik, közösen jelölik ki a gyűlés vezetőjét. Ha a gyűlés vezetője megváltozik, arról a szervezők haladéktalanul tájékoztatják a rendőrséget és a gyűlés résztvevőit.
@@ -263,11 +263,11 @@ a felmerülő költségeket megtéríteni.
 
 A 21. § (1) bekezdése szerinti közigazgatási bírság megállapításának és megfizetése módjának részletes szabályait a Kormány rendeletben határozza meg.
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
 #### 1. Az Európai Unió jogának való megfelelés
 

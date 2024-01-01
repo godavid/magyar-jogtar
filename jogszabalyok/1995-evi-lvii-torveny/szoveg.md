@@ -49,11 +49,13 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
-- a) a Kormány az a), f), i) és az m) pontban;
+- a) a Kormány az a), az f) és az m) pontban, valamint a (2a) bekezdésben foglaltak figyelembevételével az i) pontban;
 - b) a vízgazdálkodásért felelős miniszter a c), d), e), g), j) és a k) pontban;
 - c) a vízügyi igazgatási szervek irányításáért felelős miniszter az l), n) és o) pontban;
 - d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban
 - e) az állami beruházásokért felelős miniszter, a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter bevonásával az r) pontban meghatározott feladatokat látja el.
+
+(2a) Az (1) bekezdés i) pontja szerinti adatgyűjtés magában foglalja a népszámlálás és mikrocenzus útján történő – különösen a 28/A. § (1c) és (1d) pontja szerinti háztartási kutakra vonatkozó – adatgyűjtést is, amelynek elrendeléséről és végrehajtásáról az Országgyűlés, valamint a Központi Statisztikai Hivatal gondoskodik.
 
 (3) Az (1) bekezdés c), d) és s) pontja szerinti feladatokat a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás alapján az érintett miniszterek közreműködésével látja el.
 
@@ -770,7 +772,12 @@ ingatlanokra vonatkozó rendelkezések
 
 (2) Az egyszeri térítés alapja a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) ingatlan-nyilvántartás szerinti aranykorona-értéke (a továbbiakban: AK). Az egyszeri térítés mértéke e rendelkezés hatálybalépésekor 8000 forint AK-ként. Az egyszeri térítés mértéke évente, január 1-jével növekszik a Központi Statisztikai Hivatal által közölt, a tárgyévre érvényes fogyasztói árindex mértékével.
 
-21/D. § A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során csak a tényállás tisztázása érdekében tart közmeghallgatást.
+21/D. § A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során csak a tényállás tisztázása érdekében tart közmeghallgatást. A közmeghallgatás az érintettek személyes megjelenése nélkül,
+
+- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
+- a) honlapon való közzététel útján
+
+is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
 
 21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő földön:
 
@@ -879,18 +886,23 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 - b) a vízilétesítmény használatbavételéhez és üzemeltetéséhez, a vízhasználathoz (vízjogi üzemeltetési engedély) és
 - c) a vízilétesítmény megszüntetéséhez (megszüntetési engedély).
 
-(1a) Előzetes bejelentést követő jóváhagyás után létesíthető mezőgazdasági öntözési célú kút, ha a következő feltételek együttesen teljesülnek:
-
-- a) a kutat a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészlet igénybevétele nélkül, továbbá a hatósági nyilvántartásban szereplő talaj vagy talajvíz szennyezéssel nem érintett területen létesítik,
-- b) a kút talpmélysége az 50 métert nem haladja meg és az első vízzáró réteget nem éri el,
-- c) a kúthoz kapcsolódó öntözőrendszer kizárólag a létesítő, üzemeltető művelése alatt álló területek öntözését szolgálja,
-- d) a kutat a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerint a hatósági nyilvántartásba a létesítő előzetesen bejelentette, továbbá a bejelentés jóváhagyását követően a létesítés során a víz mennyiségének mérését biztosító digitális kútvízmérővel felszerelte.
+(1a) A vízkészletvédelmi országtérképen vízkészletvédelmi szempontból kockázatmentesként meghatározott területeken a mezőgazdasági célú, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő kút létesítését, üzemeltetését és megszüntetését előzetesen be kell jelenteni az öntözési igazgatási szerv részére. A bejelentett vagy vízjogi engedély alapján működő mezőgazdasági célú kút a víz mennyiségének mérését biztosító digitális kútvízmérő alkalmazásával üzemeltethető. A mezőgazdasági célú kút kizárólag a létesítő, üzemeltető művelése alatt álló földterületek haszonnövény-termesztési célú öntözését és haszonállat-állománya ellátását szolgálhatja.
 
 (1b) A hatósági nyilvántartásba történő előzetes bejelentést követően a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott időtartamon belül az öntözési igazgatási szerv – a vízbázis állapotára és a tervezett kútnak a vízbázisra gyakorolt hatására tekintettel a felszín alatti vizek védelme érdekében – az előzetes bejelentésben foglaltak alapján a létesítést jóváhagyja, megtiltja, vagy megállapítja, hogy a létesítés csak véglegessé vált vízjogi létesítési engedély birtokában kezdhető meg.
+
+(1c) A háztartási vízigényt kielégítő, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő kút (a továbbiakban: háztartási kút) létesítését, üzemeltetését és megszüntetését – az (1d) bekezdésben foglalt kivétellel – előzetesen be kell jelenteni a vízilétesítmény helye szerint hatáskörrel rendelkező vízügyi hatóság részére.
+
+(1d) Nem szükséges vízjogi engedély és bejelentés a vízkészletvédelmi országtérképen vízkészletvédelmi szempontból kockázatmentesként meghatározott területeken a háztartási kút létesítéséhez, üzemeltetéséhez és megszüntetéséhez.
+
+(1e) Az (1c) és (1d) bekezdés szerinti háztartási kút tekintetében a vízügyi hatóság ellenőrzést kizárólag hivatalból végez.
+
+(1f) A vízügyi hatóságot terheli a bizonyítási kötelezettség annak megállapítása kapcsán, hogy az (1c) és (1d) bekezdés alapján bejelentés vagy vízjogi engedély nélkül létesített háztartási kút az (1c) és (1d) bekezdésben meghatározott feltételeknek nem felel meg.
 
 (2) Elvi vízjogi engedély kérhető a vízjogi engedélyezési kötelezettség alá tartozó vízhasználat, vízimunka és vízilétesítmény műszaki tervezéséhez.
 
 (3) A szénhidrogén-kitermelési céllal mélyített, de arra alkalmatlan kutak termálvíz-kitermelési célú hasznosítására a vízügyi hatóság ad engedélyt.
+
+(4) Az engedélyes kérelmére a kút vízjogi engedélye visszavonható, amennyiben a bányafelügyelet engedélyezi a termálvíz-kitermelési célú kút bányászati célú hasznosítását és a kút bányászati létesítménnyé minősítését, ha annak vízilétesítmény funkciója megszűnt. A bányafelügyelet az eljárását a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló rendelete szerinti rendeltetés megváltoztatására irányuló engedélyezési eljárás szabályai szerint folytatja le.
 
 28/B. § A vízügyi hatósági eljárás során
 
@@ -1001,7 +1013,7 @@ indokolja.
 33/B. § (1) A vízügyi hatóság a hatósági engedélyezési eljárások végleges lezárását követően a vízikönyv vezetése, a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a végleges döntésével összefüggő jogorvoslat, az ügykövetés, valamint a döntés-felülvizsgálat céljából a következő adatokat kezeli:
 
 - a) az ügyfél természetes személyazonosító adatai,
-- b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+- b) az ügyfél lakcíme,, elektronikus levélcíme, telefonszámai,
 - c) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
 - d) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
 - e) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
@@ -1012,7 +1024,7 @@ indokolja.
 (2) A vízügyi hatóság országos illetékességgel jogosult a vízkészletjárulékkal kapcsolatos feladatellátás érdekében a következő adatok megismerésére és kezelésére:
 
 - a) az ügyfél természetes személyazonosító adatai,
-- b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+- b) az ügyfél lakcíme,, elektronikus levélcíme, telefonszámai,
 - c) az ügyfél adóazonosító jele vagy adószáma, közösségi adószáma,
 - d) az ügyfél számlaszáma, IBAN száma,
 - e) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
@@ -1027,7 +1039,7 @@ indokolja.
 33/C. § (1) A vízügyi igazgatási szerv a vízgazdálkodási adatgyűjtésekhez, az állami tulajdon kezeléséhez és a vízgazdálkodási objektumok azonosításához a következő adatok megismerésére és kezelésére jogosult:
 
 - a) az ügyfél természetes személyazonosító adatai,
-- b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+- b) az ügyfél lakcíme,, elektronikus levélcíme, telefonszámai,
 - c) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
 - d) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
 - e) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
@@ -1527,17 +1539,22 @@ való megfelelést szolgálja.
 
 45/M. § E törvénynek a Vgtv.mód3.-mal megállapított 29. § (7) bekezdését a Vgtv.mód3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-45/N. § (1) E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2020. évi CLXXV. törvénnyel (a továbbiakban: Vgtv.mód4.) megállapított 28/A. § (1a) bekezdését kell alkalmazni – a (2) bekezdésben meghatározott feltétellel – azokra a mezőgazdasági öntözési célú kutakra, amelyek a következő feltételeket együttesen teljesítik:
+45/N. § (1) A 2024. január 1. előtt létesített, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő mezőgazdasági célú kút fennmaradásához nem szükséges vízjogi engedély és bejelentés.
 
-- a) a kutat a Vgtv.mód4. hatálybalépése előtt, a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészlet igénybevétele nélkül, továbbá hatósági nyilvántartásban szereplő talaj vagy talajvíz szennyezéssel nem érintett területen, a létesítésekor hatályos jogszabály előírása ellenére engedély nélkül vagy engedélytől eltérően létesítették,
-- b) a kút talpmélysége az 50 métert nem haladja meg, és az első vízzáró réteget nem éri el, és
-- c) a kúthoz kapcsolódó öntözőrendszer kizárólag a létesítő, üzemeltető művelése alatt álló területek öntözését szolgálja.
+(2) Mentesül a 29. § (4) bekezdése szerinti vízgazdálkodási bírság megfizetése alól az (1) bekezdés szerinti mezőgazdasági célú kút üzemeltetője.
 
-(2) Az (1) bekezdés szerinti mezőgazdasági öntözési célú kutat a létesítő vagy üzemeltető a Nemzeti Földügyi Központhoz 2023. december 31-ig a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti adatlapon bejelenti és kútvízmérő órával felszereli. Az (1) bekezdés szerinti rendelkezés akkor alkalmazható, ha az (1) bekezdés szerinti mezőgazdasági öntözési célú kútra vonatkozó bejelentést a kézhezvételétől számított hatvan napon belül a Nemzeti Földügyi Központ írásban visszaigazolta.
+(3) A mezőgazdasági célú kút üzemeltetője felelős azért, hogy a felszín alatti vizet – az e törvényben foglaltak figyelembevételével – csak olyan mértékben vegye igénybe, hogy a vízkivétel és a vízutánpótlódás mennyiségi egyensúlya minőségi károsodás nélkül megmaradjon, és teljesüljenek a vizek jó állapotára vonatkozó célkitűzések elérését biztosító követelmények. A vízügyi hatóság e kötelezettség betartását a felszín alatti vizek vagyonkezelőjének bevonásával ellenőrizheti. Ha a mezőgazdasági célú kút üzemeltetőjének vízhasználata veszélyezteti más engedélyezett vízhasználatok biztosítását vagy károsítja a felszín alatti vízkészleteket, a veszélyeztetés, károsítás megszüntetése érdekében a vízügyi hatóság hivatalból, vagy a felszín alatti vizek vagyonkezelőjének kezdeményezésére a mezőgazdasági célú kút üzemeltetőjét megelőző és kárelhárító intézkedésekre kötelezi.
 
-(3) Mentesül a 29. § (4) bekezdése szerinti vízgazdálkodási bírság megfizetése alól az (1) bekezdés szerinti mezőgazdasági öntözési célú kút üzemeltetője, ha a kút bejelentése a (2) bekezdés szerint megtörtént.
+45/O. § (1) Nem szükséges vízjogi engedély és bejelentés a 2024. január 1. előtt
 
-(4) Az üzemeltető felelős azért, hogy a felszín alatti vizet – az e törvényben foglaltak figyelembevételével – csak olyan mértékben vegye igénybe, hogy a vízkivétel és a vízutánpótlódás egyensúlya minőségi károsodás nélkül megmaradjon, és teljesüljenek a vizek jó állapotára vonatkozó célkitűzések elérését biztosító követelmények. A vízügyi hatóság, valamint a felszín alatti vizek vagyonkezelője e kötelezettség betartását ellenőrizheti. Ha az üzemeltető vízhasználata veszélyezteti más engedélyezett vízhasználatok biztosítását vagy károsítja a felszín alatti vízkészleteket, a vízügyi hatóság hivatalból, vagy a felszín alatti vizek vagyonkezelőjének kezdeményezésére az üzemeltetőt a szükséges mértékben megelőző, valamint kárelhárító intézkedések megtételére kötelezi.
+- a) a létesítésekor hatályos jogszabály előírása ellenére engedély nélkül vagy
+- b) engedélytől eltérően
+
+létesített háztartási kútra.
+
+(2) Az (1) bekezdés szerinti háztartási kút esetében a 29. § (7) bekezdés szerinti vízjogi fennmaradási engedélyezési eljárást nem kell lefolytatni.
+
+(3) Mentesül a 29. § (4) bekezdése szerinti vízgazdálkodási bírság megfizetése alól az (1) bekezdés szerinti háztartási kút üzemeltetője.
 
 45/P. § E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2023. évi LI. törvénnyel (a továbbiakban: Vgtv.mód4.) módosított 29. § (7) bekezdését a Vgtv.mód4. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1594,7 +1611,12 @@ E törvény alkalmazásában
   - a) árvízi tározó: aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó, ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll, ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület, ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,
   - b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
 - 35. mezőgazdasági öntözési célú kút: olyan felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag mezőgazdasági művelés alatt álló terület mezőgazdasági vízszolgáltatását biztosítja;
-- 36.
+- 36. háztartási vízigény: évi 500 m3-t meg nem haladó mértékű vízhasználat, amelynek célja természetes személyek
+  - a) ivóvízellátásának, vagy
+  - b) személyes és a háztartás vezetésével összefüggő vízszükségletének
+
+biztosítása, függetlenül a kút létesítési helye szerinti ingatlan tulajdoni viszonyaitól és az ingatlan fekvésétől.
+
 - 37. nem közművel összegyűjtött háztartási szennyvíz: olyan háztartási szennyvíz, amelyet a keletkezés helyéről vagy átmeneti tárolóból – közcsatornára való bekötés vagy a helyben történő tisztítás és befogadóba vezetés lehetőségének hiányában – gépjárművel szállítanak el ártalmatlanítás céljából;
 - 38. begyűjtés: a nem közművel összegyűjtött háztartási szennyvíznek az ingatlan tulajdonosától, vagyonkezelőjétől, birtokosától vagy használójától történő átvétele, elszállítása és ártalmatlanítás céljából történő átadása.
 - 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;

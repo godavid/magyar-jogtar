@@ -185,9 +185,9 @@ olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj ne
 (6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
 - a)
-- b) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett
-  - ba) újrahasználható csomagolószert a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben, vagy
-  - bb) újrahasználható raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására,
+- b) az alkalmazott
+  - ba) csomagolószert visszaváltási díjas rendszerben, vagy
+  - bb) újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására
 
 használja fel,
 
@@ -250,7 +250,7 @@ nem minősül forgalomba hozatalnak.
 - b) természetes személy esetén a termékdíjköteles termék személyes szükséglet kielégítését meg nem haladó mennyiségű saját célú felhasználása során;
 - c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhasználása esetén;
 - d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontját követő 365 napon belül közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
-- e) az újrahasználható csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha az újrahasználható csomagolószer az e törvény végrehajtási rendeletében meghatározott újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvételre került, és a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben használják fel;
+- e) a csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha a csomagolószert visszaváltási díjas rendszerben használják fel;
 - f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett újrahasználható raklapnak a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására céljából történő felhasználása esetén;
 - g) a termékdíjköteles termék nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő értékesítése esetén; vagy
 - h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó szervezet részére első alkalommal történő átruházása esetén, ha külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladott termékdíjköteles termék igazolt módon külföldre kiszállításra került.
@@ -260,7 +260,7 @@ nem minősül forgalomba hozatalnak.
 (3) Az állami adóhatóság és a hulladékgazdálkodási hatóság
 
 - a) a (2) bekezdés d) pontja szerinti felhasználónál a termékdíjköteles termék külföldre történő kiszállítására,
-- b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a betétdíjas újrahasználható csomagolószer felhasználására
+- b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a visszaváltási díjas rendszerben kezelt csomagolószer felhasználására
 
 vonatkozó szabályok megtartását ellenőrizheti.
 
@@ -330,7 +330,7 @@ keletkezik.
   - ga) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti gazdasági vagy a közélet tisztasága elleni,
   - gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt nem áll jogerős ügydöntő határozat hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
-(2) Az engedély legfeljebb öt évre adható, amely az engedélyezés feltételeinek fennállása esetén újabb öt évre meghosszabbítható.
+(2) Az engedély határozatlan időre szól.
 
 (3) Termékdíj raktár üzemeltetése olyan belföldi ingatlanra engedélyezhető, ahol az e törvény végrehajtási rendeletében megállapított feltételek szerint termékdíjköteles termék tárolható, illetve feldolgozható, előállítható.
 
@@ -355,7 +355,7 @@ is végezhető.
 
 (8)–(10)
 
-(11) Az engedélyesnek a (2) bekezdésben meghatározott határidő lejártát vagy az engedély visszavonását követő napon saját célú felhasználással termékdíj kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
+(11) Az engedélyesnek az engedély visszavonását követő napon saját célú felhasználással termékdíj-kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
 
 (12) A termékdíj raktárban kiskereskedelmi értékesítés – a 3920 vámtarifaszám alá tartozó csomagolóanyag nem csomagolási célú felhasználója, továbbá a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra értékesítést végző üzletben, végső úti céllal külföldre utazó utas részére történő értékesítés kivételével -, továbbá bizományosi értékesítés nem végezhető.
 
@@ -831,6 +831,10 @@ a termékdíjköteles terméket lefoglalja.
 (3)
 
 #### 30. Átmeneti rendelkezések
+
+39/A. § (1) Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel (a továbbiakban: Módtv.) megállapított 9/A. § (2) és (11) bekezdését a hatálybalépésükkor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv. hatálybalépése előtt határozott időtartamra kiadott és a Módtv. hatálybalépésekor hatályos engedély határozatlan időtartamúvá válik.
 
 40. § (1) A 2023. július 1-je előtti időszakban keletkezett termékdíj-kötelezettséget a 2023. július 1-jét megelőzően hatályos rendelkezések szerint teljesíti a kötelezett.
 

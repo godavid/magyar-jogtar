@@ -289,7 +289,7 @@ lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár 
 - a) párt tagja,
 - b) a választókerületben jelöltet állító jelölő szervezet tagja,
 - c) a választókerületben induló jelölt hozzátartozója,
-- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy a közalkalmazott, a munkavállaló és az egészségügyi szolgálati viszonyban álló személy kivételével.
+- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy a közalkalmazott, a munkavállaló, az egészségügyi szolgálati jogviszonyban, valamint a köznevelési foglalkoztatotti jogviszonyban álló személy kivételével.
 
 (3) Az (1) bekezdés f) pontja szerinti összeférhetetlenségi ok nem vonatkozik
 
@@ -304,7 +304,7 @@ lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár 
 
 (2) A választási bizottság választott tagjait tiszteletdíj illeti meg.
 
-(3) A Nemzeti Választási Bizottság választott tagjai tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap tizenkétszerese. A Nemzeti Választási Bizottság elnöke tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap huszonegyszerese.
+(3) A Nemzeti Választási Bizottság választott tagjai tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap tizennyolcszorosa. A Nemzeti Választási Bizottság elnöke tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap harmincegy és félszerese.
 
 (4) A Nemzeti Választási Bizottság 27. § (1) bekezdése alapján megbízott tagjai az eskü- vagy fogadalom letételétől kezdődően a megbízatásuk ideje alatt, a Nemzeti Választási Bizottság választott tagjait megillető havi tiszteletdíjjal megegyező mértékű tiszteletdíjra, illetve annak időarányos részére jogosultak.
 
@@ -787,7 +787,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (2) A választási iroda tagjának megbízatását a választási iroda vezetője indokolás nélkül visszavonhatja.
 
-68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott, továbbá a székhelye szerinti polgármesteri vagy közös önkormányzati hivatal, illetve vármegyei önkormányzati hivatal munkavállalója bízható meg.
+68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott, köznevelési foglalkoztatotti jogviszonyban álló, továbbá a székhelye szerinti polgármesteri vagy közös önkormányzati hivatal, illetve vármegyei önkormányzati hivatal munkavállalója bízható meg.
 
 (2) A külképviseleti választási iroda vezetőjét és többi tagját a Nemzeti Választási Iroda elnöke bízza meg. A külképviseleti választási iroda tagjává a diplomáciai képviselet személyzetének, illetőleg a konzuli személyzet magyar állampolgár tagját is meg lehet bízni.
 

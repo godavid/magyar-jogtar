@@ -600,6 +600,8 @@ bírálja el.
 
 (8) Az elsőfokon eljárt közigazgatási szerv az ismert érdekeltet a keresetlevél benyújtásáról annak megküldésével haladéktalanul értesíti. Ha a megelőző eljárás hatásterület megállapítása mellett folyt, a közigazgatási szerv a keresetlevél benyújtásáról honlapján – ennek hiányában a helyben szokásos módon – való közzétételével értesíti azt az érdekeltet, aki a megelőző eljárásban nem vett részt.
 
+(9) Ha a közigazgatási szerv a keresetlevél továbbítására nyitva álló határidőn belül, a keresetlevél alapján a közigazgatási cselekményt módosítja vagy visszavonja a keresetlevelet az (1) vagy (2) bekezdésben meghatározott határidőben akkor is továbbítani kell a bírósághoz, ha a felperes nyilatkozatra nyitva álló határideje nem telt el. A közigazgatási szervnek a jogsérelem orvoslására tett cselekményével szemben előterjesztett keresetlevél vagy a 83. § (5) bekezdése szerinti kiterjesztés tárgyában – a 8. § (3) és (4) bekezdésétől eltérően – az a tanács jár el, amely az orvosolt közigazgatási cselekmény tárgyában eljárt.
+
 #### 41. § [A keresetlevél benyújtása a bíróságnál]
 
 (1) Ha a keresetlevelet törvény rendelkezése alapján a bíróságnál kell benyújtani, a bíróság a keresetlevelet annak vizsgálatát követően haladéktalanul közli az elsőfokon eljárt, illetve a mulasztó közigazgatási szervvel. Az ügy iratait a 40. § (1) bekezdése szabályai szerint kell a bírósághoz továbbítani.
@@ -1116,7 +1118,9 @@ A bíróság megszüntetheti az eljárást, ha a felperes a kérelmére kitűzö
 
 (6) Ha a felperes a bíróság által meghatározott határidőn belül nem nyilatkozik, és a jogsérelem orvoslása érdekében tett cselekmény a kereseti kérelemnek eleget tett, a bíróság az eljárást megszünteti, és az alperest a felperes, valamint a felperest támogató érdekelt perköltségének megfizetésére kötelezi. Az eljárás részben való megszüntetése folytán a közigazgatási szervet terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
 
-(7) Ha a közigazgatási szerv a jogsérelmet a védirat felterjesztésére nyitva álló határidőn belül orvosolja, a védiratban erre utalni, és a jogsérelem orvoslása érdekében tett döntés másolatát, vagy a cselekményt egyéb módon alátámasztó iratot a védirathoz csatolni kell.
+(7) Ha a közigazgatási szerv a jogsérelmet a keresetlevél felterjesztésére nyitva álló határidőn belül orvosolja, felhívja a felperest nyilatkozattételre arra tekintettel, hogy a jogsérelem orvoslását elfogadja-e. Ha a felperes nem nyilatkozik határidőben arról, hogy a jogsérelem orvoslását nem fogadja el, akkor a keresetlevelet nem kell továbbítani a bírósághoz, hanem hatálytalannak kell tekinteni.
+
+(8) Ha a felperes a jogsérelem orvoslásával nem ért egyet, a védiratban utalni kell a jogsérelem orvoslására, a jogsérelem orvoslására tett cselekmény felperes vagy más általi időközbeni megtámadására és e keresetlevélhez kapcsolódó intézkedésekre, továbbá a felperes nyilatkozatát, valamint a jogsérelem orvoslása érdekében tett döntés másolatát, vagy a cselekményt egyéb módon alátámasztó iratot a védirathoz csatolni kell.
 
 ## HARMADIK RÉSZ — HATÁROZATOK
 

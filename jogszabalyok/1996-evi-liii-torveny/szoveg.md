@@ -315,7 +315,7 @@ nyilvánít védetté.
 
 (6) A (2)–(4) bekezdésben szabályozott előkészítés során meg kell vizsgálni a védetté nyilvánítás indokoltságát, a védelem céljainak megvalósításához szükséges intézkedéseket és a védelemhez szükséges feltételek, pénzügyi eszközök biztosíthatóságát, valamint a védelem várható következményét.
 
-(7) A természeti terület védetté nyilvánításának előkészítése során az előkészítést végző – az érdekeltek álláspontjának megismerése érdekében – egyeztető megbeszélést és a szükséghez képest helyszíni szemlét tart, amelyre – a kitűzött időpont előtt legalább 15 nappal – meghívja az (1) bekezdésben említett javaslattevőt, valamennyi érdekelt hatóságot, továbbá mindazokat, akikre a védetté nyilvánításból jogok vagy kötelezettségek hárulnak, illetőleg akik jogos érdekét a védetté nyilvánítás közvetlenül érinti. Jelentős számú érdekelt esetén a meghívás történhet hirdetménynek a helyi önkormányzat hirdetőtábláján történő kifüggesztésével vagy más, helyben szokásos módon történő közhírré tétele útján is.
+(7) A természeti terület védetté nyilvánításának előkészítése során az előkészítést végző – az érdekeltek álláspontjának megismerése érdekében – egyeztető megbeszélést és a szükséghez képest helyszíni szemlét tart, amelyre – a kitűzött időpont előtt legalább 15 nappal – meghívja az (1) bekezdésben említett javaslattevőt, valamennyi érdekelt hatóságot, továbbá mindazokat, akikre a védetté nyilvánításból jogok vagy kötelezettségek hárulnak, illetőleg akik jogos érdekét a védetté nyilvánítás közvetlenül érinti. Jelentős számú érdekelt esetén a meghívás történhet hirdetménynek a helyi önkormányzat honlapján történő közzétételével vagy más, helyben szokásos módon történő közhírré tétele útján is.
 
 (8) Az előkészítést végző az egyeztető tárgyalásról jegyzőkönyvet és összefoglalót készít, amelyet a védetté nyilvánításra vonatkozó javaslattal együtt előterjeszt a védetté nyilvánításra jogosulthoz.
 
@@ -385,7 +385,7 @@ határozza meg.
 
 (3) A védőövezet rendeltetése, hogy megakadályozza vagy mérsékelje azoknak a tevékenységeknek a hatását, amelyek a védett természeti terület állapotát vagy rendeltetését kedvezőtlenül befolyásolnák.
 
-(4) Az e törvény hatálybalépése előtt védetté nyilvánított természeti területek védőövezetét a törvény hatálybalépésétől számított 2 éven belül, a (2) bekezdésben meghatározott jogszabályban kell kijelölni.
+(4)
 
 (5) A védőövezet kiterjedését meghatározó jogszabály hatálybalépése előtt jogszerűen megkezdett tevékenységek folytatását a felmentésre [24. § (3) bekezdés b) pontja] vonatkozó szabály alkalmazásával biztosítani kell.
 
@@ -397,7 +397,7 @@ határozza meg.
 
 (2) Az e törvény hatálybalépése után védett természeti területté nyilvánított erdők esetében a már meglévő üzemterv érintett részét a védetté nyilvánítást követően az erdészeti hatóság haladéktalanul felülvizsgálja és szükség szerint módosítja.
 
-(3) E törvény hatálybalépése előtt védett természeti területté nyilvánított erdők üzemterveit – ha azokat a védetté nyilvánítás előtt hagyták jóvá – az erdészeti hatóság a törvény hatálybalépésétől számított 1 éven belül felülvizsgálja és szükség szerint módosítja.
+(3)
 
 33. § (1) Fokozottan védett természeti területen lévő erdőben erdőgazdálkodási beavatkozás csak a természetvédelmi kezelés részeként, a kezelési tervben [36. § (3) bekezdés] foglaltakkal összhangban végezhető.
 
@@ -949,7 +949,7 @@ a kárviselésre vonatkozó szabályok
 
 ### Eljárási rendelkezések
 
-75. § (1) A természetvédelmi hatósági engedélyt határozott időtartamra, de legfeljebb tíz évre lehet kiadni. Az engedélyben meghatározott időtartam lejártával vagy tíz év elteltével az engedélyek érvényüket vesztik.
+75. § (1) A természetvédelmi hatósági engedélyt határozott időtartamra, de legfeljebb tíz évre lehet kiadni. Az engedélyben meghatározott időtartam lejártával vagy tíz év elteltével az engedélyek hatályukat vesztik. A természetvédelmi hatóság az engedély lejártát megelőzően 90 nappal tájékoztatja a jogosultat az engedély lejárati időpontjáról és a (2) bekezdés szerinti meghosszabbítás lehetőségéről.
 
 (2) A természetvédelmi hatósági engedély érvényességi időtartama legfeljebb tíz évvel meghosszabbítható, ha a jogosult a meghosszabbítás iránti kérelmét az (1) bekezdésben meghatározott időtartam lejárta előtt beadja, és a meghosszabbítás a természetvédelmi előírásokkal összeegyeztethető és más közérdeket nem sért.
 

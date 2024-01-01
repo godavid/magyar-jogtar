@@ -67,7 +67,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - m) bírósági eljárás,
 - n) az érintettnek nem egészségügyi intézményben történő elhelyezése, gondozása,
 - o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, egészségügyi szolgálati kormányzati szolgálati, politikai szolgálati, adó- és vámhatósági szolgálati, biztosi vagy közszolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
-- p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása,
+- p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása, valamint gyermekek, tanulók egészségének megőrzése,
 - q) a katonai szolgálatra, illetve a személyes honvédelmi kötelezettség teljesítésére való alkalmasság megállapítása,
 - r) álláskeresési ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
 - s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás folyamatos és biztonságos kiszolgáltatása, illetve nyújtása érdekében,
@@ -226,7 +226,7 @@ tartalmazza.
 
 (2c) A gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a (2b) bekezdés b) pontja szerint rögzített adatokat a 4. § (2) bekezdés s) pontjában meghatározott célból a rögzítéstől számított 5 évig kezelheti.
 
-(3) A gyógyszerész a 4. § (2) bekezdés z) pontja szerinti cél érdekében – amennyiben az érintett ezt írásban vagy elektronikus kapcsolattartás keretében nem tiltotta meg – megismerheti a gyógyszerellátásban részesülő biztosított által, a kötelező egészségbiztosítás terhére igénybevett, gyógyszereléssel kapcsolatos egy éven belüli adatokat – ide nem értve a mentális és viselkedészavarok kezelésére, valamint a szexuális úton terjedő betegségek kezelésére szolgáló gyógyszerekre vonatkozó adatokat – úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus formában biztosítja számára. A gyógyszerész – az adatok rögzítése nélkül – a gyógyszer nevét, mennyiségét és a kiváltás idejét ismerheti meg. Az érintettet a tiltakozás lehetőségéről tájékoztatni kell. Az érintett tiltakozását megteheti az egészségbiztosítási szervnél vagy a gyógyszerésznél. Ha az érintett tiltakozását a gyógyszerésznél tette, azt a gyógyszerész haladéktalanul köteles továbbítani az egészségbiztosítási szerv részére. Az érintett aláírásával igazolja a betekintés megtörténtét.
+(3) A gyógyszerész a 4. § (2) bekezdés z) pontja szerinti cél érdekében – amennyiben az érintett ezt írásban vagy elektronikus kapcsolattartás keretében nem tiltotta meg – megismerheti a gyógyszerellátásban részesülő biztosított által, a kötelező egészségbiztosítás terhére igénybevett, gyógyszereléssel kapcsolatos három éven belüli adatokat – ide nem értve a mentális és viselkedészavarok kezelésére, valamint a szexuális úton terjedő betegségek kezelésére szolgáló gyógyszerekre vonatkozó adatokat – úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus formában biztosítja számára. A gyógyszerész – az adatok rögzítése nélkül – a gyógyszer nevét, mennyiségét és a kiváltás idejét ismerheti meg. Az érintettet a tiltakozás lehetőségéről tájékoztatni kell. Az érintett tiltakozását megteheti az egészségbiztosítási szervnél vagy a gyógyszerésznél. Ha az érintett tiltakozását a gyógyszerésznél tette, azt a gyógyszerész haladéktalanul köteles továbbítani az egészségbiztosítási szerv részére. Az érintett aláírásával igazolja a betekintés megtörténtét.
 
 (4) A gyógyszerkiváltás során a gyógyszerész akkor ismerheti meg a gyógyszerellátásban részesülő biztosított (3) bekezdés szerinti adatait, ha a gyógyszerellátásban részesülő biztosított személyesen jár el.
 
@@ -858,6 +858,8 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - c) az egészségügyi dokumentumnak az érintett egészségi állapotára vonatkozó adatot nem tartalmazó leírását,
 - d) az egészségügyi dokumentumhoz való hozzáféréshez szükséges információkat, valamint
 - e) az (1) bekezdés szerinti egészségügyi dokumentációkat.
+
+(4) A működtető a (3) bekezdés szerinti nyilvántartásban rögzíti és a 4. § (1) bekezdés e)–g) pontjában és (2) bekezdés f)–o) és q)–zs) pontjában meghatározott célból az egészségügyi dokumentáció megismerésére jogosultak számára elérhetővé teszi az oktatási nyilvántartás működéséért felelős szerv által az oktatási nyilvántartásról szóló törvény alapján átadott, a Nemzeti Egységes Tanulói Fittségi Teszt adatait.
 
 ### Elektronikus betegségregiszter
 

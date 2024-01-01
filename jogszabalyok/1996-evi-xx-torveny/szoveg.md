@@ -116,7 +116,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (6) A természetes személyek összerendelési nyilvántartása számára összerendelési kapcsolati kód képzésére kötelezett alábbi adatkezelő szervek az összerendelési nyilvántartást vezető szervet a természetes személy következő adataiban bekövetkező változások esetén értesítik az összerendelési kapcsolati kód megszüntetéséről:
 
-- a) a személyiadat- és lakcímnyilvántartás szerve a titkosított összerendelési kapcsolati kóddal rendelkező természetes személy külföldre távozásáról, elhalálozásáról (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), személyi azonosítójának változásáról, a 100 évesnél idősebb, külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerüléséről, a letelepedett, menekült, oltalmazott e jogállásának megszűnéséről, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonásáról, illetve a magyar állampolgárság visszavonásáról;
+- a) a személyiadat- és lakcímnyilvántartás szerve a titkosított összerendelési kapcsolati kóddal rendelkező természetes személy külföldre távozásáról, elhalálozásáról (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), személyi azonosítójának változásáról, a 100 évesnél idősebb, külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerüléséről, a huzamos tartózkodási jogosultsággal rendelkező személy, menekült, oltalmazott e jogállásának megszűnéséről, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonásáról, illetve a magyar állampolgárság visszavonásáról;
 - b) a központi idegenrendészeti nyilvántartás szerve a külföldi természetes személy jogállásának megszűnéséről;
 - c) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelője a természetes személy adatai kezelésének nyilvántartásban történt megszüntetéséről vagy törléséről;
 - d) a személyazonosító igazolvány nyilvántartást vezető szerv a személyazonosító igazolvány érvényességének megszüntetéséről;
@@ -134,7 +134,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (9) Az összerendelési nyilvántartásból az összerendelési bejegyzést az alábbi megszüntetési okokhoz tartozó változás dátumától számított 15 év elteltével kell törölni (fizikai törlés):
 
-- a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó természetes személy külföldre távozása, elhalálozása (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), a 100 évesnél idősebb külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerülése, a letelepedett, menekült, oltalmazott e jogállásának megszűnése, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonása, illetve a magyar állampolgárság visszavonása,
+- a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó természetes személy külföldre távozása, elhalálozása (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), a 100 évesnél idősebb külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerülése, a huzamos tartózkodási jogosultsággal rendelkező személy, menekült, oltalmazott e jogállásának megszűnése, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonása, illetve a magyar állampolgárság visszavonása,
 - b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó külföldi természetes személy tartózkodási jogcímének megszűnése,
 - c) elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásából történő fizikai törlés.
 
@@ -200,6 +200,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - c) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásából,
 
 ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása alapján jogosult. E művelet idejére az adatkezelő jogosult az adott azonosító vonatkozásában az összerendelési bejegyzés felvételét kezdeményező szerv által képzett, a 10/A. § (4) bekezdése szerinti titkosított összerendelési kapcsolati kód kezelésére.
+
+10/G. § Az összerendelési nyilvántartást vezető szerv az összerendelési nyilvántartásból kormányrendeletben megadott szabályok szerint adatot szolgáltat a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi törvény szerinti adat-összekapcsolási szolgáltatás végrehajtásához.
 
 ### III. Fejezet — Az adóazonosító jel
 
@@ -337,6 +339,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
 - t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.
 - u) az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság, a védettségi igazolvány kiállítása érdekében.
+- v) a sportról szóló törvény szerinti sportszervezetek, sportszövetségek, sportköztestületek, egyéb adatszolgáltatók a nemzeti sportinformációs rendszerbe történő adatszolgáltatás, valamint a sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer működtetése érdekében.
 
 24. § A TAJ szám továbbítására jogosultak:
 
@@ -397,7 +400,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 9. a választójoggal nem rendelkező polgárok nyilvántartását vezető, valamint a neki adatot szolgáltató szerv, a választójoggal nem rendelkezők nyilvántartásának vezetéséhez;
 - 10. a polgármester (főpolgármester), a népiülnök-választási eljárásban a választójogosultság ellenőrzéséhez;
 - 11. az idegenrendészeti szerv és a központi menekültügyi szerv a törvényben meghatározott feladataik ellátásához;
-- 12. a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljáráshoz;
+- 12. a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, a kábítószerekkel és pszichotrop anyagokkal, személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
 - 13. a bűntettesek nyilvántartását kezelő szerv;
 - 14. a körözést elrendelő, a körözési eljárást lefolytató és a körözési nyilvántartást vezető szerv a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvényben meghatározott feladatai ellátásához;
 - 15. a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
@@ -414,6 +417,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 26. az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez;
 - 27. a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez;
 - 28. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
+- 29. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.
 
 32/A. § Az adattovábbítás kivételével a személyi azonosító kezelésére a 32. §-ban foglaltakon kívül jogosult az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság a védettségi igazolvány kiállítása érdekében.
 
@@ -458,6 +462,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 25. az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez;
 - 26. a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez;
 - 27. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
+- 28. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.
 
 ### Rendszeres adatátadás a személyiadat- és lakcímnyilvántartásból
 
@@ -515,7 +520,7 @@ változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
 - a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a hadköteles korba lépő polgárok, a magyar állampolgárságot megszerző, magyarországi lakóhellyel rendelkező polgárok, valamint a külföldről hazatérő magyar állampolgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, lakóhelyéről, tartózkodási helyéről, családi állapotáról, személyi azonosítójáról, valamint a hadköteles nyilvántartásban lévő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról vagy külföldön történő letelepedésről;
-- b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, külföldön történő letelepedéséről, továbbá a bevándorolt és a letelepedett polgár családi állapotának változásáról;
+- b) az idegenrendészeti hatóságnak a huzamos tartózkodási jogosultsággal rendelkező polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, külföldön történő letelepedéséről, továbbá a huzamos tartózkodási jogosultsággal rendelkező polgár családi állapotának változásáról;
 - c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 - d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
 - e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
