@@ -4255,144 +4255,53 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 158. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-294. § Az illetékekről szóló 1990. évi XCIII. törvény 102. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A 2. § (1) bekezdésében megjelölt Magyarországon élő nem magyar állampolgárnak azt kell tekinteni, aki]
-
-„b) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, és huzamos tartózkodási jogosultsággal rendelkezik;”
+#### 294. §
 
 #### 159. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-295. § (1) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 295. §
 
-„(6) Felhatalmazást kap a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter, hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben, a szociális partnerekkel folytatott konzultációt követően – rendeletben határozza meg az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.”
+#### 296. §
 
-(2) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (7a) bekezdése helyébe a következő rendelkezés lép:
-
-„(7a) A megállapodás
-
-- a) családi együttélés biztosítása céljából kiadott tartózkodási engedély esetén legfeljebb öt év,
-- b) EU Kék Kártya iránt benyújtott kérelem esetén legfeljebb négyéves,
-- c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 70. § (1) bekezdés a) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hároméves,
-- d) a Btátv. 70. § (1) bekezdés e) és f) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hat hónapos,
-- e) az 58. § (7) bekezdésében meghatározott szezonális munka esetében tizenkét hónapon belül legfeljebb hat hónapos,
-- f) a Btátv. 24. § (1) bekezdése szerinti beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély esetén legfeljebb hároméves,
-- g) a Btátv. szerinti Nemzeti Kártya meghosszabbítása esetén legfeljebb hároméves,
-- h) a Btátv. 36. § (3) bekezdés a) pontja szerinti célból kiállított Magyar Kártya esetén legfeljebb hároméves,
-- i) a Btátv. 67. § (2) bekezdés szerinti nemzeti érdekből kiállított tartózkodási engedély esetén legfeljebb hároméves,
-- j) a Btátv. 48. § (2) bekezdés b) vagy c) pontja szerinti Vállalati Kártya esetén legfeljebb négyéves
-
-határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat.”
-
-(3) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (8a) bekezdése a következő c) ponttal egészül ki:
-
-(A foglalkoztató és a harmadik országbeli állampolgár nem köt előzetes megállapodást, ha harmadik országbeli állampolgár magyarországi foglalkoztatására)
-
-„c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott vendégbefektetői tartózkodási engedély”
-
-(alapján kerül sor.)
-
-296. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„f) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel vagy jogszabály szerinti, meghatározott idejű releváns magas szintű szakmai képzettséggel,”
-
-297. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
-
-- a) 2. § (3) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- b) 7. § (1) bekezdés nyitó szövegrészében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- c) 7. § (1) bekezdés a) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- d) 7. § (8a) bekezdés a) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- e) 7. § (10) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- f) 39/A. § (1) bekezdésében az „Alapért a miniszter” szövegrész helyébe az „Alapért a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter)” szöveg,
-- g) 58. § (5) bekezdés v) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg
-
-lép.
+#### 297. §
 
 #### 160. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-298. § A közjegyzőkről szóló 1991. évi XLI. törvény 122. § (5) bekezdés f) pont fd) alpontja helyébe a következő rendelkezés lép:
+#### 298. §
 
-(Az ellenőrzés céljából a közjegyző a nyilvántartásokból a személyazonosítással érintett személy alábbi adatait ellenőrizheti:
-
-az igazolványának, valamint a személyazonosítóról és a lakcímről szóló hatósági igazolványának okmányazonosítóját és az okmányazonosító alapján nyilvántartott következő tényeket:)
-
-  - „fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. §-a (1) bekezdés b) és c) pontja szerinti tények.”
-
-299. § A közjegyzőkről szóló 1991. évi XLI. törvény 122. § (5) bekezdés b) pontjában a „menekült, bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultságát, menekült” szöveg lép.
+#### 299. §
 
 #### 161. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-300. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény
-
-- a) 20. § (2) bekezdés c) pontjában a „bevándorolt vagy letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- b) 85. § (3) bekezdés a) pont aa) alpontjában a „jogával rendelkezésnek, illetve bevándorolt vagy letelepedett státusz” szövegrész helyébe a „jogával, illetve a huzamos tartózkodási jogosultsággal rendelkezésnek a” szöveg,
-- c) 85. § (3) bekezdés e) pont ef) alpontjában a „bevándorolt vagy letelepedett státusz” szövegrész helyébe az „a huzamos tartózkodási jogosultsággal rendelkezés” szöveg
-
-lép.
+#### 300. §
 
 #### 162. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-301. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 301. §
 
-„(3) Ha a menekült vagy oltalmazott jogállású személy huzamos tartózkodási jogosultságot szerez, a nyilvántartás mind a menekült, illetve oltalmazott jogállását, mind a huzamos tartózkodási jogosultságát tartalmazza.”
+#### 302. §
 
-302. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/E. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 303. §
 
-„(4) A huzamos tartózkodási jogosultsággal rendelkező személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, EK letelepedési engedélyébe, ideiglenes tartózkodási kártyájába, nemzeti tartózkodási kártyájába, illetve EU tartózkodási kártyájába bejegyzett érvényességi idővel kell kiállítani.”
-
-303. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
-
-- a) 4. § (1) bekezdés a) pontjában a „letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- b) 8/A. § c) pontjában a „letelepedett jogállásának” szövegrész helyébe a „huzamos tartózkodási jogosultságának” szöveg,
-- c) 8/A. § l) pontjában a „letelepedett jogállásának” szövegrész helyébe a „huzamos tartózkodási jogosultságának” szöveg,
-- d) 9. § (2) bekezdés g) pont gc) alpontjában a „vagy az ideiglenes letelepedési engedély visszavonását” szövegrész helyébe az „az ideiglenes letelepedési engedély, a nemzeti tartózkodási kártya, az EU tartózkodási kártya, vagy az ideiglenes tartózkodási kártya visszavonását” szöveg,
-- e) 11. § (1) bekezdés b) pontjában az „oltalmazott, bevándorolt, letelepedett jogállását” szövegrész helyébe az „oltalmazott jogállását, a huzamos tartózkodási jogosultságát” szöveg,
-- f) 12. § (1) bekezdésében az „oltalmazott, letelepedett jogállásának” szövegrész helyébe az „oltalmazott jogállásának, huzamos tartózkodási jogosultságának” szöveg és a „letelepedett jogállást” szövegrész helyébe a „huzamos tartózkodási jogosultságot” szöveg,
-- g) 25. § (1) bekezdés g) pontjában a „bevándorlással, a letelepedéssel” szövegrész helyébe a „huzamos tartózkodási jogosultsággal” szöveg,
-- h) 29/F. § (5) bekezdés a) pontjában a „bevándorolt, a letelepedett jogállású személy” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy” szöveg,
-- i) 29/F. § (5) bekezdés c) pontjában a „bevándorolt, letelepedett jogállású polgár” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező polgár” szöveg,
-- j) 48. § (1) bekezdés nyitó szövegrészében a „letelepedett polgárok” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező polgárok” szöveg
-
-lép.
-
-304. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
-
-- a) 4. § (1) bekezdés a) pontjában az „a bevándorolt” szövegrész,
-- b) 12. § (1) bekezdésében a „bevándorolt,” szövegrész.
+#### 304. §
 
 #### 163. A magzati élet védelméről szóló 1992. évi LXXIX. törvény módosítása
 
-305. § A magzati élet védelméről szóló 1992. évi LXXIX. törvény 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Térítésmentes terhesgondozásra jogosult)
-
-„c) az a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személy, aki huzamos tartózkodási jogosultsággal rendelkezik.”
+#### 305. §
 
 #### 164. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-306. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 3. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 306. §
 
-[E törvény hatálya – a (2)–(3) bekezdésben foglalt eltérésekkel – kiterjed a Magyarországon élő]
-
-„b) huzamos tartózkodási jogosultsággal rendelkezőkre,”
-
-307. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
-
-- a) 18. § b) pontjában az „illetve bevándorolt, letelepedett,” szövegrész helyébe a „huzamos tartózkodási jogosultságát, illetve” szöveg,
-- b) 18/A. § b) pontjában az „illetve bevándorolt, letelepedett,” szövegrész helyébe a „huzamos tartózkodási jogosultságát, illetve” szöveg,
-- c) 20. § (2) bekezdés c) pontjában a „bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsága” szöveg
-
-lép.
+#### 307. §
 
 #### 165. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-308. § A magyar állampolgárságról szóló 1993. évi LV. törvény 23. § (1) bekezdés a) pontjában a „bevándorolt vagy letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezik” szöveg lép.
+#### 308. §
 
 #### 166. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-309. § A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 1/B. § (1) bekezdésében a „letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg lép.
+#### 309. §
 
 #### 167.
 
@@ -4402,650 +4311,275 @@ lép.
 
 #### 168. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-312. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 47/A. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A végrehajtó a nyilvántartásból a következő adatokat ellenőrizheti:)
-
-„b) állampolgárság, hontalanság, menekült vagy EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,”
-
-(2) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 47/A. § (4) bekezdés f) pont fd) alpontja helyébe a következő rendelkezés lép:
-
-(A végrehajtó a nyilvántartásból a következő adatokat ellenőrizheti:
-
-az igazolvány, valamint a személyazonosítóról és a lakcímről szóló hatósági igazolvány okmányazonosítója és az okmányazonosító alapján nyilvántartott következő tények:)
-
-  - „fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, 261. § (1) bekezdés b) és c) pontja szerinti tények.”
+#### 312. §
 
 #### 169. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása
 
-313. § A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény
-
-- a) 2. § (2) bekezdés a) pontjában a „letelepedett vagy bevándorló” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezik” szöveg,
-- b) 5. § (1) bekezdés f) pontjában a „letelepedett vagy bevándorolt státusza” szövegrész helyébe a „huzamos tartózkodási jogosultsága” szöveg,
-- c) 26. § (2) bekezdés a) pontjában a „letelepedett vagy bevándorolt” szövegrész helyébe a „vagy huzamos tartózkodási jogosultsággal rendelkezik” szöveg,
-- d) 26. § (7) bekezdés e) pontjában a „letelepedett vagy bevándorolt státusza” szövegrész helyébe a „huzamos tartózkodási jogosultsága” szöveg
-
-lép.
+#### 313. §
 
 #### 170. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-314. § A légiközlekedésről szóló 1995. évi XCVII. törvény 71. § 43. pontja helyébe a következő rendelkezés lép:
-
-(A törvény alkalmazásában)
-
-„43. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 8. §-ában meghatározott személy.”
+#### 314. §
 
 #### 171. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-315. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 2. pont c) alpontja helyébe a következő rendelkezés lép:
+#### 315. §
 
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:
+#### 316. §
 
-Belföldi illetőségű magánszemély:)
-
-  - „c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó huzamos tartózkodási jogosultsággal rendelkező, illetve hontalan személy; továbbá”
-
-(azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik, továbbá az állandó lakóhely az olyan lakóhely, ahol a magánszemély tartós ottlakásra rendezkedett be és ténylegesen ott lakik. Nem változik az állandó lakóhely, ha a magánszemély ideiglenes jelleggel huzamosabb ideig külföldön tartózkodik.)
-
-(2) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 3. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
-
-„3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy, valamint – a 2. pont c) alpontjában foglaltaktól eltérően – a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 83. § (1) bekezdés e) pontja hatálya alá tartozó huzamos tartózkodási jogosultsággal rendelkező személy, feltéve, hogy bármely 12 hónapos időszakban – a ki- és beutazás napját is egész napnak tekintve – kevesebb mint 183 napot tartózkodik Magyarország területén.”
-
-316. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4. pontja a következő 4.40. ponttal egészül ki:
-
-(4. Egyes tevékenységekhez kapcsolódóan adómentes:)
-
-„4.40. az igazságügyért felelős miniszter által vezetett minisztérium által jogász osztatlan képzésben résztvevő hallgató részére kormányrendeletben meghatározott feltételek alapján havonta a minimálbér összegét meg nem haladó mértékben biztosított ösztöndíj.”
-
-317. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 1. pont 1.10. alpontjában a „letelepedéshez nyújtott egyszeri támogatás” szövegrész helyébe a „huzamos tartózkodáshoz nyújtott egyszeri támogatás” szöveg lép.
+#### 317. §
 
 #### 172. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-318. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. § n) pontja helyébe a következő rendelkezés lép:
-
-(Az Alkotmányvédelmi Hivatal)
-
-„n) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést és jegyzéken tartással összefüggő ellenőrzést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést, továbbá a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti előzetes minősítést és jegyzéken tartással összefüggő ellenőrzést;”
+#### 318. §
 
 #### 319. §
 
-320. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény
-
-- a) 5. § g) pontjában a „letelepedett jogállást” szövegrész helyébe a „huzamos tartózkodási jogosultságot” szöveg,
-- b) 2. számú mellékletében szereplő táblázat „II. Állampolgársági adatok” cím 8. sorában a „letelepedési” szövegrész helyébe a „huzamos tartózkodási” szöveg
-
-lép.
+#### 320. §
 
 #### 173. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-321. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény
-
-- a) 10/A. § (6) bekezdés a) pontjában a „letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy” szöveg,
-- b) 10/A. § (9) bekezdés a) pontjában a „letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy” szöveg,
-- c) 37. § (2) bekezdés b) pontjában a „bevándorolt és a letelepedett polgár” szövegrészek helyébe a „huzamos tartózkodási jogosultsággal rendelkező polgár” szöveg
-
-lép.
+#### 321. §
 
 #### 174. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény módosítása
 
-322. § A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény
-
-- a) 25/A. § (5) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- b) 49. § (1) bekezdésében a „Magyarországra bevándorolt, letelepedett” szövegrész helyébe a „Magyarországon huzamos tartózkodási jogosultsággal rendelkező” szöveg
-
-lép.
+#### 322. §
 
 #### 175. A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény módosítása
 
-323. § A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 25. § (1) bekezdés b) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+#### 323. §
 
 #### 176. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-324. § A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény 21. § (2) bekezdés c) pontjában a „bevándorolt, vagy letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezik” szöveg lép.
+#### 324. §
 
 #### 177. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-325. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
-
-- a) 4. § (1) bekezdés a) pontjában a „letelepedett, bevándorolt” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- b) 5. § t) pontjában a „bevándorolt, letelepedett, oltalmazott vagy menekült jogállása” szövegrész helyébe a „huzamos tartózkodási jogosultsága, oltalmazott vagy menekült jogállása” szöveg,
-- c) 76. § (1) bekezdés f) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg,
-- d) 84. § (1) bekezdés c) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg
-
-lép.
+#### 325. §
 
 #### 178. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-326. § Az egészségügyről szóló 1997. évi CLIV. törvény 3. § s) pontjában a „letelepedett, valamint a bevándorolt jogállású személy” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy” szöveg lép.
+#### 326. §
 
 #### 179. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-327. § A külföldre utazásról szóló 1998. évi XII. törvény
-
-- a) 3. § (3) bekezdésében a „hontalanokra, bevándoroltakra, valamint letelepedett személyekre” szövegrész helyébe a „hontalanokra és huzamos tartózkodási jogosultsággal rendelkező személyekre” szöveg,
-- b) 16/A. § (2) bekezdésében a „bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- c) 16/C. § (2) bekezdésében a „bevándorolt vagy letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezik” szöveg
-
-lép.
+#### 327. §
 
 #### 180. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
 328. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény
 
-- a) 21/A. § (2) bekezdésében az „a bevándorolt és a letelepedett látássérült” szövegrész helyébe az „illetve a huzamos tartózkodási jogosultsággal rendelkező látássérült” szöveg,
-- b)
-- c) 23/F. § (1) bekezdés b) pontjában az „illetve bevándorolt, letelepedett,” szövegrész helyébe a „huzamos tartózkodási jogosultságát, illetve” szöveg
+- a)
+- b) 23. § (1) bekezdés nyitó szövegrészében a „letelepedett, valamint bevándorolt jogállású személy” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy” szöveg,
+- c)
 
 lép.
 
 #### 181. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-329. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény
-
-- a) 2. § a) pont ab) alpontjában a „bevándorolt vagy letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- b) 45. § (2) bekezdés b) pontjában a „bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultságára” szöveg
-
-lép.
+#### 329. §
 
 #### 182. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény módosítása
 
-330. § A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény
-
-- a) 1. § (3) bekezdés c) pontjában a „bevándorolt, letelepedett,” szövegrész helyébe a „huzamos tartózkodási jogosultságot, illetve” szöveg,
-- b) 15. §-ában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg,
-- c) 21. § (2) bekezdés b) pontjában a „bevándorolt vagy letelepedett jogállást kapott” szövegrész helyébe a „huzamos tartózkodási jogosultságot kapott” szöveg,
-- d) 21. § (7) bekezdés a) pontjában a „letelepedett vagy bevándorolt jogállás fennállásáról” szövegrész helyébe a „huzamos tartózkodási jogosultság fennállásáról” szöveg
-
-lép.
+#### 330. §
 
 #### 183. A büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény módosítása
 
-331. § A büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény 34. § (3) bekezdés b) pontjában a „letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg lép.
+#### 331. §
 
 #### 184. A devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény módosítása
 
-332. § A devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. § 1. pont a) alpontjában a „tizennégy éven aluli magyar állampolgár, bevándorolt és letelepedett esetében” szövegrész helyébe a „tizennégy éven aluli magyar állampolgár, huzamos tartózkodási jogosultsággal rendelkező személy esetében” szöveg lép.
+#### 332. §
 
 #### 185. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-333. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 333. §
 
-„(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha munkavégzési célból a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott kedvezményes foglalkoztató vagy minősített kölcsönbeadó által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a kiadott tartózkodási engedélyt bemutatja.”
+#### 334. §
 
-334. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 28. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A tagállam állampolgárával azonos megítélés alá esik:)
-
-„c) a huzamos tartózkodási jogosultsággal rendelkező személy, valamint”
-
-335. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény
-
-- a) 6. § (3) bekezdésében a „keresőtevékenység folytatása” szövegrész helyébe a „munkavégzési célból” szöveg,
-- b) 6. § (5) bekezdésében a „keresőtevékenység folytatása céljából” szövegrész helyébe a „munkavégzési célból” szöveg
-
-lép.
+#### 335. §
 
 #### 186. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-336. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 4. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+#### 336. §
 
-(Támogatásban részesíthető a fél, ha)
+#### 337. §
 
-„f) a Btátv. hatálya alá tartozik, azonban lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel nem rendelkezik Magyarország területén, és akivel szemben az idegenrendészeti hatóság a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasító határozatot hozott;”
+#### 338. §
 
-337. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 23. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A jogi segítségnyújtó szolgálat a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.”
-
-338. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 41. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a jogi segítségnyújtó szolgálat a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.”
-
-339. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény
-
-- a) 4. § (1) bekezdés b) pontjában a „letelepedett jogállás” szövegrész helyébe a „huzamos tartózkodási jogosultság” szöveg,
-- b) 4. § (1) bekezdés e) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.)” szöveg,
-- c) 5. § (2) bekezdés e) pontjában a „letelepedett jogállás” szövegrész helyébe a „huzamos tartózkodási jogosultság” szöveg
-
-lép.
+#### 339. §
 
 #### 187. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-340. § A mozgóképről szóló 2004. évi II. törvény
-
-- a) 2. § 34. pont c) alpontjában az „EK vagy nemzeti letelepedési engedéllyel rendelkezik” szövegrész helyébe az „EK letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EU tartózkodási kártyával vagy nemzeti tartózkodási kártyával rendelkezik” szöveg,
-- b) 31/F. § (7) bekezdésében az „EK vagy nemzeti letelepedési engedély másolatával” szövegrész helyébe az „EK letelepedési engedély, nemzeti letelepedési engedély, EU tartózkodási kártya vagy nemzeti tartózkodási kártya másolatával” szöveg
-
-lép.
+#### 340. §
 
 #### 188. A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény módosítása
 
-341. § A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény
-
-- a) 4. § (6) bekezdés nyitó szövegrészében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg és a „bevándorolt, illetve letelepedett” szövegrész helyébe az „illetve a huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- b) 6. § (5) bekezdés e) pontjában a „bevándorolt, illetve letelepedett” szövegrész helyébe az „illetve huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- c) 1. melléklet 5. pont 5.5. alpontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg és a „bevándorolt vagy letelepedett” szövegrész helyébe az „illetve huzamos tartózkodási jogosultsággal rendelkező” szöveg
-
-lép.
+#### 341. §
 
 #### 189. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-342. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 11. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 342. §
 
-(A harmadik ország állampolgárságával rendelkező házastárs tartózkodási joga a házasság felbontása vagy érvénytelenítése esetén családtagként marad fenn, ha)
+#### 343. §
 
-„c) azt rendkívüli méltánylást érdemlő körülmények indokolják, különösen ha sérelmére az EGT-állampolgár házastárs a házasság fennállása alatt szándékos bűncselekményt követett el, vagy a házasságkötés előtt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti huzamos tartózkodási jogosultsággal rendelkezett, vagy”
+#### 344. §
 
-343. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény „A tartózkodási jog korlátozásának közös szabályai” alcíme a következő 62/A. §-sal egészül ki:
+#### 345. §
 
-„62/A. § Azt az EGT-állampolgárt vagy családtagot, akivel szemben a szabad mozgás és tartózkodás jogának közrendi, közbiztonsági, nemzetbiztonsági vagy közegészségügyi okból a 33. § alapján történő korlátozásának, illetve a bíróság jogerős ügydöntő határozatával elrendelt kiutasítás végrehajtásának van helye, vagy akit az idegenrendészeti hatóság értesítése alapján a továbbiakban nem illet meg a száznyolcvan napon belül kilencven napot meghaladó tartózkodás joga, az idegenrendészeti hatósághoz elő kell állítani.”
+#### 346. §
 
-344. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 64. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 347. §
 
-„(4) Az eljáró idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság a külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján, illetve amennyiben az EGT-állampolgár vagy családtag a külföldre utazásról szóló 1998. évi XII. törvény 16. § (1) bekezdés a)–f) pontja szerinti kényszerintézkedés hatálya alatt nem áll, a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.”
+#### 348. §
 
-345. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 70. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Btátv. 166. § (6) bekezdése szerinti idegenrendészeti ügyindítási elektronikus felületen is előterjesztheti.”
-
-346. § (1) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 94. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Azon harmadik országbeli állampolgár, aki a Módtv.2. hatálybalépésekor érvényes, magyar állampolgár családtagja részére a Módtv.2. hatálybalépése előtt kiállított tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik, a tartózkodási kártya vagy állandó tartózkodási kártya érvényességének lejártáig kérelmére a Btátv. 75. § (1) bekezdés a) és b) pontjában, valamint a Btátv. 83. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül nemzeti tartózkodási kártyát kap, kivéve, ha:
-
-- a) a tartózkodási kártya vagy állandó tartózkodási kártya megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt,
-- b) a tartózkodási kártya kiadásának alapjául szolgáló családi kapcsolatot a tartózkodási jog megszerzése érdekében létesítette,
-- c) a huzamos tartózkodási jogosultságával kapcsolatosan a Btátv. 75. § (1) bekezdés c) pontjában és (2) bekezdésében foglalt kizáró okok állnak fenn,
-- d) a harmadik országbeli állampolgár büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült,
-- e) a magyar állampolgárral fennálló házasság a tartózkodási kártya vagy állandó tartózkodási kártya kiadásától számított három éven belül nem a házastárs halála miatt szűnt meg, vagy a harmadik országbeli állampolgár családtag szülői felügyeleti joga megszűnt,
-- f) a magyar állampolgárral tényleges életközösség nem áll fenn,
-- g) a magyar állampolgár harmadik országbeli állampolgár családtagja Magyarország területét hat hónapnál hosszabb ideig elhagyta, vagy
-- h) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott tartózkodási kártyája vagy állandó tartózkodási kártyája esetén magyar állampolgár házastársa Magyarország területét a külföldi letelepedés szándékával elhagyta.”
-
-(2) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 94. § (2b) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[Ha a magyar állampolgár harmadik országbeli állampolgár családtagja az állandó tartózkodási kártya kiadása előtt bevándorolt vagy letelepedett jogállással rendelkezett, a státusza nem került visszavonásra és nem jogosult a (2) bekezdés szerinti nemzeti letelepedési engedélyre, részére a korábbi jogállását igazoló okmány hivatalból kerül kiállításra, kivéve, ha]
-
-„b) a Btátv. 86. §-a szerinti, a nemzeti tartózkodási kártya visszavonására vonatkozó feltételek fennállnak vagy”
-
-(3) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 94. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdés c) pontja tekintetében a Btátv. huzamos tartózkodási jogosultság megszerzésére vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából.”
-
-(4) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 94. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (4) bekezdés b) pontjában meghatározott szakkérdésben a Btátv. huzamos tartózkodási jogosultság megszerzésére vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából.”
-
-347. § (1) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 95. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Azon egyesült királysági állampolgár és egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja, aki érvényes úti okmánnyal és regisztrációs igazolással, tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkezik, kérelmére – a Btátv. 75. § (1) bekezdés a) és b) pontjában, valamint a Btátv. 83. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül – nemzeti tartózkodási kártyát kap, kivéve, ha
-
-- a) a huzamos tartózkodási jogosultságával kapcsolatosan a Btátv. 75. § (2) bekezdésében foglalt bármely kizáró ok áll fenn,
-- b) az egyesült királysági állampolgár vagy az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült,
-- c) az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja esetén az egyesült királysági állampolgárral a tényleges életközösség nem áll fenn, vagy
-- d) az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja esetén, ha az egyesült királysági állampolgár Magyarország területét a külföldi letelepedés szándékával elhagyta.”
-
-(2) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 95. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Azon egyesült királysági állampolgár, aki hitelt érdemlően igazolja, hogy 2021. január 1. előtt Magyarországon életvitelszerűen tartózkodott, és érvényes úti okmánnyal rendelkezik, nemzeti tartózkodási kártyát kérelmezhet a (4) bekezdés szerint az ott felsorolt tartózkodási okmányok hiányában is, azzal, hogy ha a kérelmet 2021. december 31-e után nyújtja be, igazolnia kell a határidő elmulasztásának észszerű okait is.”
-
-(3) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 95. § (10) és (11) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(10) A (9) bekezdés c) pontja tekintetében a Btátv. nemzeti tartózkodási kártya kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági állásfoglalás kérése céljából. A kijelölt szakhatóság azon szakkérdésben, hogy a nemzeti tartózkodási kártya kiadását kérelmező huzamos tartózkodási jogosultsága veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását mind az elsőfokú, mind a másodfokú eljárásban tizenöt napon belül adja meg.
-
-(11) Ha a Btátv. szerint huzamos tartózkodási jogosultsággal rendelkező egyesült királysági állampolgárnak és harmadik ország állampolgárságával rendelkező családtagjának gyermeke született, a születés bejelentését követően a gyermek részére nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával rendelkező szülő esetén nemzeti tartózkodási kártyát kell kiállítani.”
-
-(4) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 95. § (13) és (14) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(13) A (4), (7), (9) és (11) bekezdés szerint megszerzett nemzeti tartózkodási kártyát vagy a Btátv. hatálybalépése előtt megszerzett nemzeti letelepedési engedélyt az idegenrendészeti hatóság visszavonja, ha az egyesült királysági állampolgár vagy az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja
-
-- a) Magyarország területét öt egymást követő évnél hosszabb ideig elhagyta,
-- b) veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát,
-- c) kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll, vagy
-- d) a nemzeti tartózkodási kártya visszavonását kéri.
-
-(14) Az egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagjának a (4), (7), (9) és (11) bekezdés szerint megszerzett nemzeti tartózkodási kártyáját vagy a Btátv. hatálybalépése előtt megszerzett nemzeti letelepedési engedélyét az idegenrendészeti hatóság visszavonja, ha az egyesült királysági állampolgár nemzeti letelepedési engedélye vagy nemzeti tartózkodási kártyája visszavonásra került, kivéve, ha a családtag a huzamos tartózkodási jogosultság megszerzésére vonatkozó Btátv. szerinti általános szabályoknak – ide nem értve a Btátv. 83. § (2) bekezdését – megfelel.”
-
-(5) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 95. § (16) és (17) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(16) Azon egyesült királysági állampolgár, aki 2020. december 31-e előtt Magyarországon munkaviszonnyal rendelkezett és e jogállására tekintettel – annak figyelembevételével, hogy lakóhelye vagy szálláshelye Magyarország területén kívül volt – a harmadik országbeli állampolgárok beutazásáról és tartózkodásától szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 29/A. §-ában meghatározottak szerint tartózkodási engedélyt kapott munkavállalás céljából a Harmtv. 13. § (1) bekezdés e)–g) pontjában foglaltak igazolása nélkül – tartózkodási engedélyének meghosszabbítása iránti eljárásban a Btátv. 242. § (1) bekezdése irányadó és a tartózkodási engedély a Btátv. 28. §-a vagy 36. §-a szerinti tartózkodási célból állítható ki. A tartózkodási engedély meghosszabbítása iránti eljárásban az egyesült királysági állampolgárnak nem kell igazolnia a Btátv. 17. § (1) bekezdés e)–g) pontjában foglaltakat.
-
-(17) Azon egyesült királysági állampolgár, aki 2020. december 31-e előtt Magyarországon egyéni vállalkozói tevékenységet folytatott és e jogállására tekintettel – annak figyelembevételével, hogy lakóhelye vagy szálláshelye Magyarország területén kívül volt – a Harmtv. 20. § (1) bekezdésében maghatározottak szerint tartózkodási engedélyt kapott jövedelemszerzés céljából a Harmtv. 13. § (1) bekezdés e)–g) pontjában foglaltak igazolása nélkül – tartózkodási engedélyének meghosszabbítása iránti eljárásban a tartózkodási engedély a Btátv. 21. §-a szerinti tartózkodási célból állítható ki. A tartózkodási engedély meghosszabbítása iránti eljárásban az egyesült királysági állampolgárnak nem kell igazolnia a Btátv. 17. § (1) bekezdés e)–g) pontjában foglaltakat.”
-
-348. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény
-
-- a) 41. § (6) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § j) pontja szerinti SIS figyelmeztető jelzés” szövegrész helyébe a „Btátv. szerinti SIS figyelmeztető jelzés” szöveg,
-- b) 47/B. §-ában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.)” szövegrész helyébe a „Btátv.” szöveg,
-- c) 61/A. §-ában a „teljesíteni.” szövegrész helyébe a „teljesíteni, mely alól kivételt képeznek a kellően megalapozott sürgős esetek.” szöveg,
-- d) 67. § (3) bekezdésében az „elektronikus úton is megteheti” szövegrész helyébe az „az idegenrendészeti ügyindítási elektronikus felületen elektronikus úton teljesíti” szöveg,
-- e) 69. §-ában a „Harmtv. IX. Fejezetét” szövegrész helyébe a „Btátv. KILENCEDIK Részét” szöveg,
-- f) 70. § (4a) bekezdésében a „Harmtv. 86/H. § (7) bekezdését” szövegrész helyébe a „Btátv. 166. § (7) bekezdését” szöveg,
-- g) 94. § (1) bekezdésében a „Harmtv” szövegrész helyébe a „Btátv” szöveg,
-- h) 94. § (2a) bekezdésében a „Harmtv.” szövegrész helyébe a „Btátv.” szöveg,
-- i) 94. § (2b) bekezdés nyitó szövegrészében a „nemzeti letelepedési engedélyre” szövegrész helyébe a „nemzeti tartózkodási kártyára” szöveg,
-- j) 94. § (2c) bekezdésében a „Harmtv” szövegrész helyébe a „Btátv” szöveg,
-- k) 94. § (2d) bekezdésében a „nemzeti letelepedési kérelem” szövegrész helyébe a „nemzeti tartózkodási kártya iránti kérelem” szöveg,
-- l) 94. § (6) bekezdésében a „nemzeti letelepedési engedélyt, a Harmtv.” szövegrész helyébe a „tartózkodási kártyát, a Btátv.” szöveg,
-- m) 94. § (7) bekezdésében az „EK letelepedési kérelmet” szövegrész helyébe az „EU tartózkodási kártya iránti kérelmet” szöveg és a „Harmtv.” szövegrész helyébe a „Btátv.” szöveg,
-- n) 95. § (1) bekezdésében az „a Harmtv.” szövegrész helyébe az „a Btátv.” szöveg,
-- o) 95. § (5) bekezdésében az „a Harmtv. nemzeti letelepedési engedély kiadására vonatkozó” szövegrész helyébe az „a Btátv. nemzeti tartózkodási kártya kiadására vonatkozó” szöveg, a „nemzeti letelepedési engedély” szövegrész helyébe a „nemzeti tartózkodási kártya” szöveg és a „letelepedése” szövegrész helyébe a „huzamos tartózkodási jogosultsága” szöveg,
-- p) 95. § (6) bekezdésében a „nemzeti letelepedési engedély” szövegrész helyébe a „nemzeti tartózkodási kártya” szöveg,
-- q) 95. § (8) bekezdésében a „Harmtv. szabályai szerint EK letelepedési engedély” szövegrész helyébe a „Btátv. szabályai szerint EU tartózkodási kártya” szöveg,
-- r) 95. § (9) bekezdés nyitó szövegrészében a „Harmtv. szerinti nemzeti letelepedési engedélyt” szövegrész helyébe a „Btátv. szerinti nemzeti tartózkodási kártyát” szöveg,
-- s) 95. § (9) bekezdés a) pontjában a „letelepedettként tartózkodik” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezőként tartózkodik” szöveg,
-- t) 95. § (9) bekezdés b) pontjában a „letelepedési engedély” szövegrész helyébe a „tartózkodási kártya” szöveg,
-- u) 95. § (9) bekezdés c) pontjában a „Harmtv. 33. §” szövegrész helyébe a „Btátv. 75. §” szöveg,
-- v) 95. § (12) bekezdésében a „nemzeti letelepedési engedély” szövegrész helyébe a „nemzeti tartózkodási kártya” szöveg,
-- w) 95. § (15) bekezdésében a „Harmtv.” szövegrész helyébe a „Btátv.” szöveg,
-
-lép.
-
-349. § Hatályát veszti a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 95. § (18) bekezdése.
+#### 349. §
 
 #### 190. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-350. § Hatályát veszti a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+#### 350. §
 
-- a) 1–86. §-a,
-- b) 86/A. §-a,
-- c) 86/B–86/D. §-a,
-- d) 86/E. §-a,
-- e) 86/F–86/H. §-a,
-- f) 86/I. §-a,
-- g) 86/J. §-a,
-- h) 86/K. §-a,
-- i) 86/L. §-a,
-- j) 86/M. §-a,
-- k) 86/N–86/R. §-a,
-- l) 87. §-a,
-- m) 87/A–87/K. §-a,
-- n) 87/L. §-a,
-- o) 87/M. §-a,
-- p) 87/N. § (1) bekezdése,
-- q) 87/N. § (2)–(10) bekezdése,
-- r) 87/O–120. §-a.
-
-#### 351. §
+351. § Hatályát veszti a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény.
 
 #### 191. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-352. § A menedékjogról szóló 2007. évi LXXX. törvény 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 352. §
 
-„(4) Az Európai Unió valamely tagállama által menekültként vagy oltalmazottként elismert külföldi e jogcíme a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti EU Kék Kártyát (a továbbiakban: EU Kék Kártya) kaphat. Ha a Magyarország által menekültként vagy oltalmazottként elismert külföldi EU Kék Kártyában részesül, a menekültügyi hatóság intézkedik a külföldi személyazonosító igazolványa visszavonása érdekében.”
-
-353. § A menedékjogról szóló 2007. évi LXXX. törvény
-
-- a) 25. § (1) bekezdés c) pontjában a „letelepedett jogállást” szövegrész helyébe a „huzamos tartózkodási jogosultságot” szöveg,
-- b) 45. § (5) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény” szövegrész helyébe a „Btátv.” szöveg,
-- c) 45. § (6) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény” szövegrész helyébe a „Btátv.” szöveg,
-- d) 66. § (3) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény” szövegrész helyébe a „Btátv.” szöveg,
-- e) 80/D. § (1) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „Btátv.” szöveg,
-- f) 89. § (5) bekezdésében az „EK letelepedési engedéllyel rendelkező” szövegrész helyébe az „EK letelepedési engedéllyel vagy EU tartózkodási kártyával rendelkező” szöveg,
-- g) 89. § (6) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 34. § (10) bekezdés” szövegrész helyébe a „Btátv. 81. § (3) bekezdése” szöveg
-
-lép.
+#### 353. §
 
 #### 192. A lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény módosítása
 
-354. § A lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény 1. § 10. pont c) alpontja helyébe a következő rendelkezés lép:
-
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban
-
-természetes személy:)
-
-  - „c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvényben (a továbbiakban: Tv.) foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,”
+#### 354. §
 
 #### 193. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-355. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 3. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Egyéni vállalkozó lehet:)
-
-„d) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó huzamos tartózkodási jogosultsággal rendelkező személy, a vendég-önfoglalkoztatás céljából, munkavégzési célból, családi együttélés céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel rendelkező személy, valamint a humanitárius célból kiadott tartózkodási engedéllyel rendelkező befogadott és hontalan.”
+#### 355. §
 
 #### 194. A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény módosítása
 
-356. § A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény 4. § (1) bekezdés nyitó szövegrészében a „bevándorolt és letelepedett hallássérült” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező hallássérült” szöveg lép.
+#### 356. §
 
 #### 195. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-357. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 62. § (2) bekezdés a) pontjában a „bevándoroltként, letelepedettként” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezőként” szöveg lép.
+#### 357. §
 
 #### 196. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
-358. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény
-
-- a) 2. § 5. pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- b) 5. § (1) bekezdésében a „bevándorolt vagy letelepedett jogállású személy” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy” szöveg
-
-lép.
+#### 358. §
 
 #### 197. A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosítása
 
-359. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 1. § (1) bekezdés 13. pont c) alpontja helyébe a következő rendelkezés lép:
-
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban:
-
-természetes személy:)
-
-  - „c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvényben (a továbbiakban: Tv.) foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,”
+#### 359. §
 
 #### 198. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
 
-360. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (4) bekezdés b) pont bc) alpontja helyébe a következő rendelkezés lép:
-
-(Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
-
-megfelel az alábbi feltételek valamelyikének:)
-
-  - „bc) olyan harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 128. § (1) bekezdés a), c), d) vagy f) pontja alapján kijelölt helyen való tartózkodását rendelte el.”
+#### 360. §
 
 #### 199. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-361. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 13/A. §-ában a „bevándorolt vagy letelepedett jogállás” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezés” szöveg lép.
+#### 361. §
 
 #### 200. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-362. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 92. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A nem magyar állampolgár kiskorú akkor válik óvodai ellátásra jogosulttá, továbbá akkor tanköteles Magyarországon, ha)
-
-„c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik és huzamos tartózkodási jogosultsággal, vagy Magyarország területén való tartózkodásra jogosító engedéllyel rendelkezik.”
+#### 362. §
 
 #### 201. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-363. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
-
-- a) 21. § (1) bekezdés a) pont al) alpontjában a „bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultságára” szöveg,
-- b) 21/B. § (2) bekezdés a) pont ac) alpontjában a „bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultságát” szöveg
-
-lép.
+#### 363. §
 
 #### 202. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-364. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény
-
-- a) 39. § (1) bekezdés b) pontjában a „bevándoroltat, letelepedettet” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezőt” szöveg,
-- b) 39. § (1) bekezdés f) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- c) 80. § (2b) bekezdésében a „rendelkező, a bevándorolt vagy a letelepedett jogállású” szövegrész helyébe a „rendelkező vagy a huzamos tartózkodási jogosultsággal rendelkező” szöveg
-
-lép.
+#### 364. §
 
 #### 203. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-365. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 208. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 365. §
 
-„(1) Aki a külföldiek bejelentésére, jelentkezésére vagy az ország területén tartózkodására vonatkozó szabályokat megszegi – ideértve azt az esetet is, ha a külföldi a kiutasító határozatban, illetve a bírói kiutasítás végrehajtásáról rendelkező végzésben meghatározott határnapot követő napig Magyarország területét nem hagyta el, attól függetlenül, hogy kitoloncolásra sor került-e –, szabálysértést követ el.”
-
-366. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 168/A. §-ában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép.
+#### 366. §
 
 #### 204. A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény módosítása
 
-367. § A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény 19. § (1) bekezdés nyitó szövegrészében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+#### 367. §
 
 #### 205. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-368. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 368. §
 
-„(5) E törvény alkalmazásában
-
-- a) harmadik országbeli állampolgár alatt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott fogalmat kell érteni,
-- b) munkavégzési célból kiadott engedély:
-  - ba) a Nemzeti Kártya,
-  - bb) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 48. § (2) bekezdés b) vagy c) pontja alapján kiadott Vállalati Kártya,
-  - bc) szezonális munkavállalás célú tartózkodási engedély,
-  - bd) beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély,
-  - be) foglalkoztatási célú tartózkodási engedély,
-  - bf) vendégmunkás-tartózkodási engedély,
-  - bg) Magyar Kártya,
-  - bh) EU Kék Kártya,
-  - bi) vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély (ideértve a hosszú távú mobilitási engedélyt),
-  - bj) kutatás célú tartózkodási engedély (ideértve a kutatói hosszú távú tartózkodási engedélyt, továbbá a kutatói rövid távú mobilitási igazolást),
-  - bk) tanulmányi célú tartózkodási engedély (ideértve a hallgatói mobilitási tartózkodási engedélyt, továbbá a hallgatói mobilitási igazolást),
-  - bl) összevont kérelmezési eljárás keretében kiadott családi együttélés biztosítása célú tartózkodási engedély,
-  - bm) humanitárius célból kiadott tartózkodási engedély,
-  - bn) kiküldetés célú tartózkodási engedély.”
-
-369. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény
-
-- a) 59. § (3) bekezdésében a „letelepedettként vagy bevándoroltként tartózkodási joggal” szövegrész helyébe a „huzamos tartózkodási jogosultsággal” szöveg,
-- b) 209. § b) pontjában a „keresőtevékenység folytatására jogosító” szövegrész helyébe a „munkavégzési célból kiadott” szöveg,
-- c) 356. § (1) bekezdés nyitó szövegrészében a „keresőtevékenység folytatására jogosító” szövegrész helyébe a „munkavégzési célból kiadott” szöveg,
-- d) 356. § (2) bekezdés a) pontjában a „keresőtevékenység folytatására jogosító” szövegrész helyébe a „munkavégzési célból kiadott” szöveg,
-- e) 356. § (3) bekezdés a) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg
-
-lép.
+#### 369. §
 
 #### 206. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-370. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 16. § c) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+#### 370. §
 
 #### 207. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
 
-371. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 25. § (3) bekezdés a) pontjában az „elismert, bevándorolt vagy letelepedett jogállású” szövegrész helyébe az „elismert vagy huzamos tartózkodási jogosultsággal rendelkező” szöveg lép.
+#### 371. §
 
 #### 208. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-372. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 3/A. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 372. §
 
-[A 3. § (2) bekezdés a) pont aa)–ai) alpontjában meghatározott adatok rögzítését követően a nyilvántartó közvetlen adatkapcsolat útján megkeresi]
-
-„b) a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti résznyilvántartásait vezető szervet, valamint”
-
-[a körözött személy általa vezetett nyilvántartásban szereplő arcképmását közvetlen adatkapcsolat útján továbbítsa a nyilvántartó részére.]
-
-373. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 3/B. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A nyilvántartó a 3. § (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomonkövetése céljából – a 3. § (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja]
-
-„b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartásnak a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti résznyilvántartásait vezető szerv által kezelt adatokkal,”
+#### 373. §
 
 #### 209. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-374. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény
-
-- a) 301. § (5) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló” szöveg,
-- b) 301. § (6) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló” szöveg,
-- c) 388. § (2a) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg
-
-lép.
+#### 374. §
 
 #### 210. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-375. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 62. § (1) bekezdés l) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+#### 375. §
 
 #### 211. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 
-376. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 1. § h) pontja helyébe a következő rendelkezés lép:
+#### 376. §
 
-(E törvény alkalmazásában)
+#### 377. §
 
-„h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti résznyilvántartásait, a menekültügyi nyilvántartást és a központi útiokmány-nyilvántartást vezető szerv, valamint a bűnügyi nyilvántartó szerv,”
-
-377. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény
-
-- a) 3. § (3) bekezdés m) pontjában az „a Harmtv.” szövegrész helyébe az „a Btátv.” szöveg,
-- b) 4. § (1) bekezdés b) pontjában a „Harmtv. 95. §” szövegrész helyébe a „Btátv. 254. §” szöveg,
-- c) 4. § (1) bekezdés c) pontjában a „Harmtv. 96. §” szövegrész helyébe a „Btátv. 256. §” szöveg,
-- d) 4. § (1) bekezdés d) pontjában a „Harmtv. 98. §” szövegrész helyébe a „Btátv. 258. §” szöveg,
-- e) 4. § (1) bekezdés e) pontjában a „Harmtv. 99. §” szövegrész helyébe a „Btátv. 259. §” szöveg,
-- f) 15. § (2) bekezdésében a „Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a” szövegrész helyébe a „Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a” szöveg,
-- g) 15. § (3) bekezdésében a „Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a” szövegrész helyébe a „Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a” szöveg,
-- h) 15. § (8) bekezdésében a „Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a” szövegrészek helyébe a „Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a” szöveg,
-- i) 15. § (9) bekezdésében a „Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a” szövegrész helyébe a „Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a” szöveg,
-- j) 15. § (10) bekezdésében a „Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a” szövegrész helyébe a „Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a” szöveg
-
-lép.
-
-378. § Hatályát veszti az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 21. §-a.
+#### 378. §
 
 #### 212. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-379. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 82. § (4) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+#### 379. §
 
 #### 213. A nemzeti otthonteremtési közösségekről szóló 2016. évi XV. törvény módosítása
 
-380. § A nemzeti otthonteremtési közösségekről szóló 2016. évi XV. törvény 33. § (2) bekezdés c) pontjában a „bevándorolt vagy letelepedett jogállású,” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező személy, vagy” szöveg lép.
+#### 380. §
 
 #### 214. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-381. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 45. § (1) bekezdés 13. pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+#### 381. §
 
 #### 215. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-382. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény
-
-- a) 32. § (3) bekezdés b) pontjában a „menekült, bevándorolt, letelepedett, illetve EGT-állampolgár jogállás,” szövegrész helyébe a „menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,” szöveg,
-- b) 32. § (3) bekezdés i) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. § (1) bekezdés g) pontja, 96. § (1) bekezdés g) pontja, továbbá 100. § (1) bekezdés b) és c) pontja szerinti” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. § (1) bekezdés b) és c) pontja szerinti” szöveg,
-- c) 33. § (2) bekezdés c) pontjában a „menekült, bevándorolt, letelepedett, illetve EGT-állampolgár jogállás,” szövegrész helyébe a „menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,” szöveg
-
-lép.
+#### 382. §
 
 #### 216. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-383. § A büntetőeljárásról szóló 2017. évi XC. törvény
-
-- a) 830. § (2) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg,
-- b) 830. § (4) bekezdés a) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-- c) 830. § (4) bekezdés b) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg,
-- d) 830. § (6) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg
-
-lép.
+#### 383. §
 
 #### 217. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-384. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény
+#### 384. §
 
-- a) 34. § (5) bekezdés b) pontjában a „menekült, bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultság, menekült” szöveg,
-- b) 34. § (5) bekezdés f) pont fc) alpontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. § (1) bekezdés g) pontja, 96. § (1) bekezdés g) pontja, továbbá 100. § (1) bekezdés b) és c) pontja szerinti” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. § (1) bekezdés b) és c) pontja szerinti” szöveg
+#### 218. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-lép.
-
-#### 218.
-
-#### 385. §
+385. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 5. § (2) bekezdés d) pontjában a „bevándorolt vagy letelepedett jogállással” szövegrész helyébe a „huzamos tartózkodási jogosultsággal” szöveg lép.
 
 #### 219. A gyülekezési jogról szóló 2018. évi LV. törvény módosítása
 
-386. § A gyülekezési jogról szóló 2018. évi LV. törvény 3. § (3) bekezdés c) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg és a „bevándorolt, illetve letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal” szöveg lép.
+#### 386. §
 
 #### 220. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 
-387. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 7. § (24) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvényben” szöveg lép.
+#### 387. §
 
 #### 221. A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény módosítása
 
-388. § A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény
-
-- a) 1. § h) pont hc) alpontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg és a „bevándorolt vagy letelepedett jogállással” szövegrész helyébe a „huzamos tartózkodási jogosultsággal” szöveg,
-- b) 1. § h) pont hd) alpontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg
-
-lép.
+#### 388. §
 
 #### 222. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-389. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 12. § (1) bekezdés c) pontjában a „bevándorolt vagy letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg lép.
+#### 389. §
 
 #### 223. Az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény módosítása
 
@@ -5063,20 +4597,15 @@ lép.
 
 #### 224. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-391. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény
-
-- a) 4. § 1. pont 1.1. alpontjában a „bevándorolt és a letelepedett jogállású” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg,
-- b) 43. § (2) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg
-
-lép.
+#### 391. §
 
 #### 225. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-392. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 17. § (1) bekezdés h) pont ha) alpontjában a „bevándorolt vagy letelepedett státusz” szövegrész helyébe az „a huzamos tartózkodási jogosultsággal való rendelkezésnek a” szöveg lép.
+#### 392. §
 
 #### 226. A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény módosítása
 
-393. § A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. § (1) bekezdés a) pont ab) alpontjában a „bevándorolt, letelepedett,” szövegrész helyébe a „huzamos tartózkodási jogosultságát,” szöveg lép.
+#### 393. §
 
 #### 227.
 
@@ -5092,15 +4621,9 @@ lép.
 
 #### 230. A vendégmunkások magyarországi foglalkoztatásáról szóló 2023. évi L. törvény módosítása
 
-397. § Hatályát veszti a vendégmunkások magyarországi foglalkoztatásáról szóló 2023. évi L. törvény
+#### 397. §
 
-- a) 1–6. §-a,
-- b) 7. § (1)–(4) bekezdése,
-- c) 7. § (5) bekezdése,
-- d) 7. § (6)–(10) bekezdése,
-- e) 8–15. §-a.
-
-#### 398. §
+398. § Hatályát veszti a vendégmunkások magyarországi foglalkoztatásáról szóló 2023. évi L. törvény.
 
 #### 231.
 

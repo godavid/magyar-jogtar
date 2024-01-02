@@ -48,57 +48,33 @@ egyes foglalkoztatási tárgyú törvények módosításáról
 
 #### 5. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-19. § A munkavédelemről szóló 1993. évi XCIII. törvény 8. §-a helyébe a következő rendelkezés lép:
-
-„8. § (1) Jogszabály egyes feladatokat munkabiztonsági szaktevékenységnek, illetve munkaegészségügyi szaktevékenységnek minősíthet.
-
-(2) A munkáltató a munkabiztonsági szaktevékenységnek minősített feladatokat csak jogszabályban meghatározott munkavédelmi – a bányászat területén bányászati –, szakmai képesítéssel rendelkező személlyel végeztetheti vagy végezheti.
-
-(3) A munkáltató a munkaegészségügyi szaktevékenységnek minősített feladatokat munkaegészségügyi – ezen belül foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan – szakképesítéssel rendelkező személlyel végeztetheti. Jogszabályban meghatározott esetekben közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthat munkaegészségügyi szaktevékenységnek minősített feladatokat.”
+#### 19. §
 
 #### 20. §
 
-21. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény 21. §-a a következő (3a) bekezdéssel egészül ki:
+#### 21. §
 
-„(3a) A munkavédelmi szempontú előzetes vizsgálat során szükséges munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.”
-
-(2)
-
-22. § A munkavédelemről szóló 1993. évi XCIII. törvény 23. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A soron kívüli ellenőrzéshez szükséges munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.”
+#### 22. §
 
 #### 23. §
 
-24. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény 54. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.”
+24. § (1)
 
 (2)
 
-(3) A munkavédelemről szóló 1993. évi XCIII. törvény 54. §-a a következő (6b) bekezdéssel egészül ki:
-
-„(6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítása a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.”
+(3)
 
 (4)
 
 (5)
 
-25. § (1)
+#### 25. §
 
-(2) A munkavédelemről szóló 1993. évi XCIII. törvény 55. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.”
-
-26. § A munkavédelemről szóló 1993. évi XCIII. törvény 56. §-a helyébe a következő rendelkezés lép:
-
-„56. § Az egyéni védőeszköz juttatásának belső rendjét a munkáltató írásban határozza meg. E feladat ellátása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül. A munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.”
+#### 26. §
 
 #### 27. §
 
-28. § A munkavédelemről szóló 1993. évi XCIII. törvény 58. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az egészséget nem veszélyeztető munkakörnyezet kialakításával kapcsolatos munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.”
+#### 28. §
 
 #### 29. §
 

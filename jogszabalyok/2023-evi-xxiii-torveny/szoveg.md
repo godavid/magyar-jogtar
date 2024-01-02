@@ -511,19 +511,11 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 #### 39. §
 
-40. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 1. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-[A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)]
-
-„h) nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügyelettel”
-
-[kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.]
+#### 40. §
 
 #### 41. §
 
-42. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 3. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait, továbbá a Kibertan.tv. hatálya alá tartozó érintett szervezetek, valamint azok elektronikus információs rendszerei kiberbiztonsági felügyeletét.”
+#### 42. §
 
 #### 43. §
 
@@ -535,11 +527,7 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 #### 47. §
 
-48. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § q) pontja helyébe a következő rendelkezés lép:
-
-(A Hatóság elnöke)
-
-„q) megállapítja – a Kibertan.tv. 4. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével – a Kibertan.tv. szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat, továbbá meghatározza – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a nemzeti kiberbiztonsági tanúsítási rendszereket, a Kibertan.tv. 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket, az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, az auditorok nyilvántartásba vételi eljárásának rendjét, valamint az auditorral szemben támasztott követelményeket,”
+#### 48. §
 
 #### 49. §
 

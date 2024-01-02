@@ -146,10 +146,7 @@ lép.
 
 #### 59. §
 
-60. § Hatályát veszti a Gytv.
-
-- a)
-- b) 32/D. §-a.
+#### 60. §
 
 #### 11. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
@@ -175,7 +172,7 @@ lép.
 
 #### 71. §
 
-72. § Hatályát veszti a Gyftv. 86/B. §-a.
+#### 72. §
 
 #### 12. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
 
@@ -233,9 +230,7 @@ lép.
 
 #### 94. §
 
-95. § Az Eszjtv. 13. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Nem jogosult végkielégítésre az egészségügyi szolgálati jogviszonyban álló személy, ha egészségügyi szolgálati jogviszonyának megszüntetésére a 12. § (6) bekezdése alapján kerül sor.”
+#### 95. §
 
 #### 96. §
 

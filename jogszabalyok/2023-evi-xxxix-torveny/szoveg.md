@@ -66,13 +66,9 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 9. A számvitelről szóló 2000. évi C. törvény módosítása
 
-24. § A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 49. §-a a következő (9) bekezdéssel egészül ki:
+#### 24. §
 
-„(9) Leválás keretében a vagyonátadás (eszközök és kötelezettségek) teljesítését és az ellenében kapott részesedés könyvekbe történő felvételét a gazdasági társaságok alapítására vonatkozó számviteli szabályok megfelelő alkalmazásával kell elszámolni.”
-
-25. § Az Sztv. 137. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Leválás során – ha törvény eltérően nem rendelkezik – a kiválásra vonatkozó előírásokat kell megfelelően alkalmazni.”
+#### 25. §
 
 #### 10. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -88,41 +84,15 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 12. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-30. § (1) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) 27. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 30. §
 
-(Korlátolt felelősségű társaság esetében)
+#### 31. §
 
-„c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét, a zálogjoggal biztosított követelés összegét vagy azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet, továbbá – kikötése esetén – az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat,”
+#### 32. §
 
-(2) A Ctv. 27. § (3) bekezdése a következő d) ponttal egészül ki:
+#### 33. §
 
-(Korlátolt felelősségű társaság esetében)
-
-„d) az üzletrészt terhelő zálogjog elzálogosításával alapított alzálogjog tényét, az alzálogjogosult (alzálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), alzálogjogosulti bizományos esetén e minőségét, továbbá – kikötése esetén – az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat,”
-
-31. § (1) A Ctv. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben foglaltak irányadók leválás esetén, továbbá abban az esetben is, ha a cég szétválása olyan módon történik, hogy a kivált tagok nem új gazdasági társaságot hoznak létre, hanem már működő gazdasági társaságba lépnek be tagként. A működő gazdasági társaság cégjegyzékadataiban szükséges esetleges módosításokat, valamint a leválással keletkező jogutódot a szétváló cég székhelye szerint illetékes cégbíróság jegyzi be a cégjegyzékbe.”
-
-(2) A Ctv. 61. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az egyesülésre és a szétválásra – ha törvény eltérően nem rendelkezik – az átalakulás szabályai megfelelően irányadóak.”
-
-32. § (1) A Ctv. 61/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az üzletrészt terhelő zálogjog a tag (zálogkötelezett) vagy a zálogjogosult változásbejegyzési kérelme alapján kerül bejegyzésre, illetve törlésre. A kérelemben meg kell jelölni a zálogjoggal biztosított követelés összegét vagy azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet és amelyre tekintettel az üzletrészt – kikötése esetén – elidegenítési és terhelési tilalom, vagy elidegenítési tilalom terheli. A kérelemhez csatolni kell a 2. számú melléklet szerinti szükséges iratokat.
-
-(2) A cégbíróság a zálogszerződést csak abból a szempontból vizsgálja, hogy a korlátolt felelősségű társaság és a tagja zálogszerződésben feltüntetett adatai egyeznek-e a cégjegyzék adataival, továbbá, hogy a 27. § (3) bekezdés c) és d) pontjában foglaltakra figyelemmel bejegyezni kért adatok egyeznek-e a zálogszerződés tartalmával.”
-
-(2) A Ctv. 61/A. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Alzálogjog bejegyzése (törlése) iránti kérelemre az (1)–(3) bekezdésben foglaltak alkalmazandóak, azzal, hogy alzálogjog esetében a követelés összegének bejegyzésére nem kerül sor. Zálogkötelezett nem a tag, hanem az üzletrészt terhelő zálogjog jogosultja. Bejegyzési engedélynek minősül az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány is.”
-
-33. § A Ctv. a következő 131/T. §-sal egészül ki:
-
-„131/T. § E törvénynek a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel módosított 61/A. § rendelkezéseit a 2024. január 1-jét megelőzően bejegyzett üzletrészt terhelő zálogjog esetében azzal az eltéréssel kell alkalmazni, hogy a cégjegyzéki adatok kiegészítését a 61/A. § szerinti kérelmező a cégjegyzék egyéb adatát érintő következő módosítás alkalmával, legkésőbb 2024. december 31. napjáig előterjesztett változásbejegyzési kérelemben köteles kérni illeték és közzétételi költségtérítés megfizetése nélkül.”
-
-34. § A Ctv. 2. melléklete az 1. melléklet szerint módosul.
+#### 34. §
 
 #### 35. §
 
@@ -130,11 +100,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 13. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-37. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. § (2) bekezdése a következő 34f. ponttal egészül ki:
-
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban)
-
-„34f. keretszerződés: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletének 58. cikkében meghatározott alapmegállapodás,”
+#### 37. §
 
 #### 38. §
 
@@ -142,11 +108,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 40. §
 
-41. § A Bszt. 52. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A befektetési vállalkozás az ügyféllel kötött keretszerződést írásba foglalja.
-
-(2) A befektetési vállalkozás az (1) bekezdés szerinti keretszerződést az 55. § szerinti nyilvántartásában rögzíti.”
+#### 41. §
 
 #### 42. §
 
@@ -222,9 +184,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 16. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-73. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) 20. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy, ideértve a számlatulajdonos szervezet törvényes képviselőjét, valamint a számlatulajdonos szervezet törvényes képviselője által e célból meghatalmazott személyt (e § alkalmazásában a továbbiakban együtt: szervezetet képviselő) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezésre jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a szervezetet képviselő által a fizetési számla feletti rendelkezésre jogosultként bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.”
+#### 73. §
 
 #### 74. §
 
@@ -254,9 +214,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 19. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-85. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:45. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A kiválás történhet úgy is, hogy a szétváló jogi személy fennmarad, és vagyonának egy részével úgy hozza létre a jogutód jogi személyt, hogy annak egyedüli tagja lesz (leválás).”
+#### 85. §
 
 #### 86. §
 
@@ -286,9 +244,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 20. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-99. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 9. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A különválással, kiválással, leválással, egyesüléssel (beolvadással, összeolvadással), szervezeti formaváltozással (szervezeti átalakulás) létrejött jogi személy – ide nem értve a bevett egyházat, vagy annak belső egyházi jogi személyét – a jogelődje által a termőföldről szóló törvény szerint, vagy a termőföldről szóló törvény hatálybalépését megelőzően megszerezett tulajdonát képező föld tulajdonjogát nem szerezheti meg.”
+#### 99. §
 
 #### 21. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
@@ -304,40 +260,15 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 22. Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény módosítása
 
-105. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény (a továbbiakban: Átv.) a következő 18/A. §-sal egészül ki:
+#### 105. §
 
-„18/A. § (1) Leválásnál a szétváló jogi személy valamennyi tagja – amennyiben a leválás végrehajtása esetére tagsági viszonyát nem szünteti meg – a továbbműködő (fennmaradó) jogi személy tagja marad. A fennmaradó jogi személy jegyzett tőkéjének meghatározása során a leválással keletkező jogi személyben lévő részesedését nem lehet figyelembe venni.
+#### 106. §
 
-(2) A leválásra a kiválás szabályai irányadóak a (3)–(8) bekezdésben foglalt eltérésekkel.
-
-(3) Leválás esetén nem kerül sor annak felmérésére, hogy a jogelőd tagjai melyik jogutód tagjaivá kívánnak válni.
-
-(4) A leválással egyidejűleg belépő új tag csak a továbbműködő (fennmaradó) jogi személyhez csatlakozhat.
-
-(5) A jogutód jogi személyben részt venni nem kívánó tag alatt azon tag értendő, aki a leválás esetére a továbbműködő (fennmaradó) jogi személyben tagsági viszonyát megszünteti.
-
-(6) Az 5. § (2) bekezdése szerinti nyilatkozat elmaradását úgy kell tekinteni, hogy a tag a továbbműködő (fennmaradó) jogi személy tagja kíván maradni.
-
-(7) A 6. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy csak azon tagot megillető vagyonhányadot és ennek kiadási módját kell meghatározni, amely tag a leválás esetére tagsági viszonyát megszünteti.
-
-(8) A 17. § (2) bekezdése leválás esetén nem alkalmazható.”
-
-106. § Az Átv. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból. Leválás esetén a jogelőd továbbműködő jogi személyt, amelyből a leválással keletkező jogi személy kiválik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.”
-
-107. § Az Ávt. a következő 23/A. §-sal egészül ki:
-
-„23/A. § A részvénytársaság a Ptk. 3:40. §-ában foglaltakon túl nem határozhat el, illetve nem folytathat le egyesülést, ha a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény, vagy a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet szerinti szanálási eszközök, hatáskörök és mechanizmusok hatálya alatt áll.”
+#### 107. §
 
 #### 108. §
 
-109. § Az Átv.
-
-- a) 18. § (1) bekezdés b) pontjában a „(különválás, kiválás)” szövegrész helyébe a „(különválás, kiválás, leválás)” szöveg,
-- b) 19. § (2) bekezdés a) pontjában a „(különválás, kiválás)” szövegrész helyébe a „(különválás, kiválás, leválás)” szöveg
-
-lép.
+#### 109. §
 
 #### 23.
 
@@ -359,11 +290,7 @@ lép.
 
 116. § (1)
 
-(2) A Hpt. 6. § (1) bekezdés 108a. pontja helyébe a következő rendelkezés lép:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„108a. teljes bizonyító erejű magánokirat: az e törvény hatálya alá tartozó pénzügyi intézmény és az ügyfele között létrejött szerződés, és az e törvény hatálya alá tartozó magánokirati formában tett jognyilatkozat – ide értve a 7. § (3) bekezdés l) pontja szerinti tevékenység keretében tett jognyilatkozatot is – akkor is teljes bizonyító erejű magánokiratnak minősül, ha az megfelel a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés b) pontjában foglaltaknak azzal az eltéréssel, hogy ha a tanú a pénzügyi intézmény munkavállalója, akkor a lakóhelye vagy tartózkodási helye helyett együttesen a munkáltatója címét (székhelyét, telephelyét, fióktelepét), valamint a munkavállaló azonosítása érdekében az érintett pénzügyi intézmény elektronikus rendszereiben a munkavállalóra vonatkozó, egyedileg generált és nyilvántartott azonosítóját szükséges feltüntetnie a magánokiraton;”
+(2)
 
 (3)
 
@@ -519,18 +446,6 @@ való megfelelést szolgálja.
 (2) Ez a törvény a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valaminta 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló,2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2023. évi XXXIX. törvényhez
-
-- 1. A Ctv. 2. melléklet II. pont 1. alpont e) pont ea) és eb) alpontja helyébe a következő alpont lép:
-
-[Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:korlátolt felelősségű társaság esetén:az üzletrész elzálogosításához kapcsolódóan]
-
-  - „ea) a zálogjog bejegyzése esetén a zálogszerződés egy példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a követelés összegét, amelynek biztosítására a zálogjog szolgál, kikötése esetén az elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt – szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – bejegyzési engedélye,
-  - eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt– szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – törlési engedélye,”
-- 2. A Ctv. 2. melléklet II. pont 1. alpont e) pontja a következő ed) alponttal egészül ki:
-
-[Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratokkorlátolt felelősségű társaság esetén:az üzletrész elzálogosításához kapcsolódóan]
-
-  - „ed) alzálogjog bejegyzése esetén a zálogkötelezett bejegyzési engedélye, vagy az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány;”
 
 ### 2. melléklet a 2023. évi XXXIX. törvényhez
 

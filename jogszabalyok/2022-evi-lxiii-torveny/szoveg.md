@@ -80,12 +80,7 @@ a Magyar Honvédség működésével kapcsolatos egyes törvények módosítás�
 
 #### 32. §
 
-33. § Hatályát veszti a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény
-
-- a)
-- b)
-- c)
-- d) 112. §-a.
+#### 33. §
 
 #### 8. A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény módosítása
 

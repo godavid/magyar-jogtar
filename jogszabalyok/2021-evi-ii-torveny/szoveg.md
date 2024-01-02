@@ -51,17 +51,9 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 
 (2)
 
-(3) A Kvt. 59. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(3)
 
-(A környezet terhelését, igénybevételét csökkentő intézkedések fedezetét megteremtő díjak:)
-
-  - „d) visszaváltási díjak”
-
-(4) A Kvt. „Betétdíj” alcíme helyébe a következő alcím lép:
-
-„Visszaváltási díj 63. § Kormányrendelet állapítja meg az olyan termékek körét, amelyek visszafogadása a környezet terhelésének, szennyezésének csökkentése érdekében indokolt. A visszafogadás ösztönzésére a termék forgalmazójának visszaváltási díjat kell felszámítania.”
-
-(5)
+(4)
 
 #### 5. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
@@ -205,34 +197,11 @@ l)
 
 #### 13. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-19. § (1) A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 3. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy]
-
-„b) az alkalmazott
-
-ba) csomagolószert visszaváltási díjas rendszerben, vagy
-
-bb) újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására
-
-használja fel,”
-
-(2) A Ktdt. 4. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Nem keletkezik termékdíj-kötelezettség) „e) a csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha a csomagolószert visszaváltási díjas rendszerben használják fel;”
+#### 19. §
 
 20. § (1)
 
-(2) A Ktdt.
-
-- a) 4. § (3) bekezdés b) pontjában a „betétdíjas újrahasználható” szövegrész helyébe a „visszaváltási díjas rendszerben kezelt” szöveg,
-- b)
-- c)
-- d)
-- e)
-- f)
-
-lép.
+(2)
 
 #### 21. §
 
@@ -302,9 +271,7 @@ lép.
 
 (17)
 
-(18) A Ht. 2. § (1) bekezdése a következő 49a. ponttal egészül ki:
-
-(E törvény alkalmazásában) „49a. visszaváltási díj: kormányrendeletben meghatározott termékek visszafogadásának, ezáltal újrahasználatának vagy az azokból képződött hulladékok gyűjtésének ösztönzése érdekében a termék forgalomba hozatala során felszámított díj, amely a termék vagy hulladéka visszaváltásakor visszafizetésre kerül a visszaváltó részére;”
+(18)
 
 (19)
 
@@ -334,28 +301,17 @@ lép.
 
 #### 39. §
 
-40. § (1) A Ht. 23. § (2) bekezdése helyébe a következő rendelkezés lép: „(2) A gyártó a terméken vagy annak csomagolásán, illetve a csomagolószeren jól látható és közérthető módon jelöli a termék és a csomagolásként felhasznált csomagolószer hulladékszegény, tartós vagy újrahasználható jellegét, hulladékgazdálkodási szempontból lényeges anyagösszetételét, visszaváltási díjas vagy letéti díjas forgalmazását, továbbá a 32/B. § szerinti kötelezően visszaváltási díjas termék esetén annak jogszabályban meghatározott azonosító jelét.”
+40. § (1)
 
 (2)
 
-41. § A Ht. 25. §-a helyébe a következő rendelkezés lép:
+#### 41. §
 
-„25. § (1) A gyártó a terméke forgalomba hozatalát – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – megállapodás alapján ahhoz a feltételhez kötheti, hogy a forgalmazó kötelezettséget vállal a termék és a termék csomagolását képező csomagolószer visszaváltási díj – tartós fogyasztási cikk esetén letéti díj – ellenében történő visszavételére a visszaváltási díj alkalmazásának szabályairól szóló kormányrendeletben meghatározott feltételek szerint. (2) A gyártó azt az (1) bekezdés szerinti visszaváltási díjas vagy letéti díjas terméket, továbbá annak csomagolását, amely után a fogyasztó visszaváltási vagy letéti díjat fizetett, a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi, és a visszaváltási vagy letéti díjat részére visszafizeti.”
+#### 42. §
 
-42. § A Ht. 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 43. §
 
-„(1) A forgalmazó – a 32/B. § szerinti kötelezően visszaváltási díjas termék kivételével – a gyártóval megállapodást köthet arról, hogy a forgalmazó gondoskodik
-
-- a) az általa forgalmazott termék, és a termék csomagolását képező csomagolószer fogyasztótól történő visszaváltásáról vagy visszavételéről, és a gyártónak történő átadásáról, valamint b) az általa forgalmazott termékből, és a termék csomagolását képező csomagolószerből származó hulladék hulladékbirtokostól történő átvételéről, elkülönített gyűjtéséről és hulladékkezelőnek történő átadásáról.”
-
-43. § A Ht. 27. §-a helyébe a következő rendelkezés lép: „27. § A forgalmazó a fogyasztó által felajánlott terméket és a termék csomagolását képező csomagolószert, amely után a fogyasztó visszaváltási díjat vagy letéti díjat fizetett, a fogyasztótól visszaváltja vagy visszaveszi, és részére a díjat visszafizeti.”
-
-44. § A Ht. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Termék forgalmazását
-
-- a) törvény vagy kormányrendelet a visszaváltási vagy a letéti díj,
-- b) törvény a termékdíj megfizetéséhez kötheti.”
+#### 44. §
 
 #### 45. §
 
@@ -477,9 +433,7 @@ lép.
 
 #### 84. §
 
-85. § (1) A Ht. 88. § (1) bekezdés 9. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:) „9. a letéti díj, valamint a visszaváltási díj megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal és a visszaváltási díjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;”
+85. § (1)
 
 (2)
 
@@ -519,109 +473,7 @@ lép.
 
 90. § (1)
 
-(2) A Ht.
-
-18.
-
-1.
-
-2.
-
-3.
-
-4. 3. § (1) bekezdés a) pont ab) és ad) alpontjában a „betétdíjas” szövegrész helyébe a „visszaváltási díjas” szöveg,
-
-5.
-
-6.
-
-7.
-
-8.
-
-9. 30/A. § (3) bekezdés a) pont aa) alpontjában a „betétdíjakból” szövegrész helyébe a „visszaváltási díjakból” szöveg,
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
-
-21.
-
-22.
-
-23.
-
-24.
-
-25.
-
-26.
-
-27.
-
-28.
-
-29.
-
-30.
-
-31.
-
-32.
-
-33.
-
-34.
-
-35.
-
-36.
-
-37.
-
-38.
-
-39.
-
-40.
-
-41.
-
-42.
-
-43.
-
-44.
-
-45.
-
-46.
-
-47.
-
-48.
-
-49. 5. melléklet 5. pontjában a „Betétdíjas” szövegrész helyébe a „Visszaváltási díjas” szöveg
-
-lép.
+(2)
 
 91. § (1)
 

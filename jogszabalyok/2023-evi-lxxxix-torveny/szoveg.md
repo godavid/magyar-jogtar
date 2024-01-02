@@ -292,17 +292,10 @@ rendeletben állapítsa meg.
 
 34. § Az 5. § (2) bekezdés szerinti szakpolitikai stratégiát első alkalommal 2024. október 15-ig kell elkészíteni a 2025. évtől kezdődő időszak vonatkozásában.
 
-35. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 111. § e) pontja helyébe a következő rendelkezés lép:
+#### 35. §
 
-(E törvényt nem kell alkalmazni az uniós értékhatárt el nem érő)
-
-„e) nemzetközi fejlesztési együttműködési, nemzetközi humanitárius segítségnyújtási tevékenység és nemzetközi stabilitást elősegítő tevékenység keretében történő beszerzésre;”
-
-36. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 1. § (5a) bekezdés 4. pontjában a „nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról” szövegrész helyébe a „Hungary Helps Programról” szöveg lép.
+#### 36. §
 
 37. § A Program vonatkozásában nem kell alkalmazni a külföldi kedvezményezett esetén az Áht. 50. § (1) bekezdés a)–c) pontját, valamint 55. és 56. §-át.
 
-38. § Hatályát veszti
-
-- a) a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló 2014. évi XC. törvény, valamint
-- b) a Hungary Helps Programról szóló 2018. évi CXX. törvény.
+#### 38. §

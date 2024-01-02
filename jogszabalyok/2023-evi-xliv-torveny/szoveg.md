@@ -305,9 +305,7 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 130. §
 
-131. § A Hegyk. tv. 19. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az (1) bekezdés b) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy és jogi személyiséggel nem rendelkező szervezet a törvényes képviselője, tulajdonosa vagy az általa kijelölt olyan személy útján gyakorolhatja, akit legalább heti húsz órában határozatlan idejű munkaviszonyban foglalkoztat. A jogi személy és jogi személyiséggel nem rendelkező szervezet tisztségviselőként megválasztott képviselőre is alkalmazni kell a 13. § (2) bekezdés d) és e) pontjában foglaltakat.”
+#### 131. §
 
 #### 132. §
 
@@ -319,24 +317,11 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 136. §
 
-137. § A Hegyk. tv. 40. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) A hegyközségben a hegybírói tisztséget nem töltheti be az a személy, aki az adott hegyközség 13. § (1) bekezdése szerinti tisztségviselőjének a Polgári Törvénykönyv szerinti közeli hozzátartozója, bejegyzett élettársa vagy élettársa.”
+#### 137. §
 
 #### 138. §
 
-139. § (1) A Hegyk. tv. 47. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A hegyközségi tag, valamint a nyilvántartott adatszolgáltató hegyközségi járulékot fizet azon hegyközségi szervezet részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységét végzi. A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegyközség a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel számviteli bizonylatban közli.
-
-(3) A közgyűlés a járulék mértékét a következők szerint állapítja meg:
-
-- a) a művelt szőlőültetvény alapján, a hegybíró által nyilvántartott szőlőültetvény területe szerint,
-- b) a megtermelt szőlőmennyiség alapján, ha a szőlőt saját vagy borgazdasági egységén belüli feldolgozás céljára termelték, ideértve a külföldi adóügyi illetőségűnek minősülő felvásárlónak és a végső fogyasztónak való értékesítést is,
-- c) a felvásárolt szőlőmennyiség alapján – a külföldi adóügyi illetőségűnek minősülő felvásárlónak és végső fogyasztónak való értékesítés kivételével –, amely esetben a járulék mértéke megegyezik a megtermelt szőlőmennyiség alapján meghatározott járulék mértékével, valamint
-- d) a felvásárolt borászati termék mennyisége alapján.”
-
-(2)
+#### 139. §
 
 #### 140. §
 
