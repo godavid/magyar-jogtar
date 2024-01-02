@@ -206,7 +206,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### A jogosulti kör meghatározása
 
-23. § (1) Fogyatékossági támogatásra az a 18. életévét betöltött súlyosan fogyatékos, az ellátás igénylésének időpontjában Magyarországon élő magyar állampolgár, letelepedett, valamint bevándorolt jogállású személy, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személy jogosult, akinek
+23. § (1) Fogyatékossági támogatásra az a 18. életévét betöltött súlyosan fogyatékos, az ellátás igénylésének időpontjában Magyarországon élő magyar állampolgár, huzamos tartózkodási jogosultsággal rendelkező személy, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személy jogosult, akinek
 
 - a) segédeszközzel vagy műtéti úton nem korrigálható módon látóképessége teljesen hiányzik vagy aliglátóként minimális látásmaradvánnyal rendelkezik és ezért kizárólag tapintó-halló életmód folytatására képes (látási fogyatékos),
 - b) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes, feltéve, hogy
