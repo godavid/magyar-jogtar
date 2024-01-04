@@ -331,6 +331,8 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 
 6/H. § (1) Az elnök, az elnökhelyettes, valamint a köztisztviselő további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (a továbbiakban: összeférhetetlenség). A tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység) végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshelyi feladataival közvetlenül összefügg.
 
+(1a) Az (1) bekezdéstől eltérően nem keletkeztet összeférhetetlenséget a nemzeti akkreditálásról szóló törvény szerinti értékelő csoport tevékenységével kapcsolatos feladatok ellátása, ha a köztisztviselő és az akkreditáló szerv közötti, erre irányuló megállapodás megkötését a munkáltatói jogkör gyakorlója előzetesen engedélyezi, azzal, hogy az érintett köztisztviselő nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet ellenőrző tevékenységére vonatkozik.
+
 (2) Az elnök, elnökhelyettes és a köztisztviselő nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy alapítvány (közalapítvány) közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító részvény alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
 
 (3) A köztisztviselő nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt az atomenergia-felügyeleti szerv feladat- és hatáskörébe tartozó felügyeleti tevékenységi körébe tartozó szervezettel. Az atomenergia-felügyeleti szerv köztisztviselője – az öröklés kivételével – nem szerezhet tulajdoni részesedést az atomenergia-felügyeleti szerv feladat- és hatáskörébe tartozó felügyeleti tevékenységi körébe tartozó szervezetnél.
@@ -464,6 +466,17 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzemi tapasztalatokat és a biztonsággal kapcsolatos új ismereteket – rendszeres időközönként teljes körűen elemeznie, értékelnie kell.
 
 (4) A nukleáris létesítmény és a radioaktívhulladék-tároló felügyeletének ellátásához az atomenergia-felügyeleti szerv közvetlen és folyamatos táv-adatszolgáltatást is igénybe vehet.
+
+9/A. § (1) Az atomenergia-felügyeleti szerv a hatósági feladatokat ellátó személy részére e minősége igazolására szolgálati igazolványt állít ki.
+
+(2) A szolgálati igazolvány személyes adatként tartalmazza
+
+- a) a hatósági feladatot ellátó személy nevét, arcképmását, valamint
+- b) a szolgálati igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját.
+
+(3) Az atomenergia-felügyeleti szerv a szolgálati igazolványokról nyilvántartást vezet, amely a (2) bekezdés szerinti személyes adatokat tartalmazza.
+
+(4) Ha a szolgálati igazolvány elveszett, eltulajdonították vagy megsemmisült, az atomenergia-felügyeleti szerv intézkedik a szolgálati igazolvány okmányazonosítójának és az érvénytelenség tényének a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben történő közzététele iránt.
 
 ### Az atomenergia alkalmazójának feladatai
 
@@ -1044,7 +1057,7 @@ szükséges nukleáris biztonsági engedélyezés;
 összefüggésben;
 
 - 5. előkészíti a 4. pont a) és b) alpontjához kapcsolódó nemzetközi kötelezettség alapján teljesítendő nemzeti jelentéseket és gondoskodik a jelentéstételi kötelezettség teljesítéséről a Nemzetközi Atomenergia Ügynökséghez;
-- 6. előkészíti a 2009/71/Euratom tanácsi irányelv végrehajtásáról szóló jelentést;
+- 6.
 - 7. gondoskodik a nukleáris létesítmények nukleáris biztonsága folyamatos javítását szolgáló nemzetközi szakértői értékelés megkéréséről;
 - 8. gondoskodik a nukleáris létesítmények nukleáris biztonságát szolgáló jogszabályoknak és a hatáskörrel rendelkező hatóságoknak a 2009/71/Euratom tanácsi irányelv szerinti tagállami önellenőrzéséről;
 - 9. bejelenti az Európai Bizottságnak a nemzeti programot és annak jelentős módosítását;
@@ -1055,7 +1068,7 @@ szükséges nukleáris biztonsági engedélyezés;
 - 14. gondoskodik a kiégett üzemanyag és a radioaktív hulladék magas színvonalú biztonságos kezelése érdekét szolgáló nemzetközi szakértői értékelés megkéréséről;
 - 15. koordinálja a 2014/87/Euratom tanácsi irányelv szerinti, konkrét téma alapján végrehajtott szakértői felülvizsgálat nemzeti értékelését, elkészíti és közzéteszi a nemzeti jelentést, és intézkedéseket határoz meg a biztonság növelése érdekében;
 - 16. indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgálatot kér olyan balesetek esetében, amelyek a telephelyen kívüli veszélyhelyzeti intézkedéseket vagy a lakosságot érintő védelmi intézkedéseket tesznek szükségessé;
-- 17. együttműködik a Nemzeti Akkreditáló Hatósággal az NBSZ. R. szerinti, az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet akkreditálási eljárásának értékelő csoportjába történő, a nukleáris területen szakértelemmel rendelkező szakértők kirendelése kapcsán.
+- 17. feladat- és hatáskörét érintően együttműködik a Nemzeti Akkreditáló Hatósággal, ha a Nemzeti Akkreditáló Hatóság akkreditálási eljárása értékelő csoportjába az atomenergia alkalmazási területén szakértelemmel rendelkező szakértő kirendelése szükséges.
 
 (2) Az atomenergia-felügyeleti szerv gondoskodik az (1) bekezdés 6. és 13. pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről.
 
@@ -1506,7 +1519,7 @@ járó költségeket.
 
 (4) Az 1. melléklet szerint meghatározott befizetési kötelezettség számításánál a radioaktív hulladék térfogatát a csomagolás névleges bruttó térfogatára, névleges térfogat hiányában a csomagolást befoglaló téglatest térfogatára kell vonatkoztatni, de a legkisebb elszámolható mennyiség hulladékcsomagonként 5 liter.
 
-(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását a 63. § (1) és (4) bekezdése, valamint az (1) és (2) bekezdés szerinti befizetések képezik.
+(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását a 63. § (1), (4) és (5) bekezdése, valamint az (1) és (2) bekezdés szerinti befizetések képezik.
 
 64. § (1) A Központi Nukleáris Pénzügyi Alap gazdálkodására az államháztartásról szóló törvény elkülönített állami pénzalapokra vonatkozó rendelkezéseit kell alkalmazni az e törvényben foglalt eltérésekkel.
 
@@ -1735,6 +1748,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 - 16. az atomenergia-felügyeleti szerv elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettesét;
 - 17. az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat;
 - 18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
+- 19. a hatósági feladatot ellátó személy részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
