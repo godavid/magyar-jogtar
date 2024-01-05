@@ -40,13 +40,9 @@ a helyi önkormányzati képviselők és polgármesterek választásáról
 
 (3) Minden további 10 000 lakos után eggyel nő az egyéni választókerületben, és minden további 25 000 lakos után eggyel nő a kompenzációs listán választott képviselők száma.
 
-6. § A fővárosi közgyűlés
+6. § (1) A választópolgárok Budapest főváros közgyűlésének tagjait fővárosi listán választják meg. Ez esetben Budapest főváros egy választókerületet alkot.
 
-- a) 1 tagja a főpolgármester-választás eredményeképpen,
-- b) 23 tagja a fővárosi kerületi polgármester-választás eredményeképpen,
-- c) 9 tagja a fővárosi kompenzációs listáról
-
-jut mandátumhoz.
+(2) A fővárosi közgyűlésbe a fővárosi listáról 32 személy szerezhet mandátumot.
 
 7. § (1) A vármegyei önkormányzati képviselőket a választópolgárok megyei listán választják. A választás tekintetében minden vármegye egy választókerületet alkot, melynek nem része a megyei jogú város, valamint a főváros.
 
@@ -67,17 +63,17 @@ választható.
 (3) A vegyes választási rendszerben a választópolgár egyidejűleg:
 
 - a) a fővároson kívül legfeljebb egy egyéni választókerületi, egy kompenzációs és egy vármegyei listás jelöltséget,
-- b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi kompenzációs listás jelöltséget fogadhat el,
+- b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi listás jelöltséget fogadhat el,
 - c)
 
 (4) A vegyes választási rendszerben a polgármesterjelölt egyidejűleg:
 
 - a) a fővároson kívül egy egyéni választókerületi, egy kompenzációs és egy vármegyei listás jelöltséget,
-- b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi kompenzációs listás jelöltséget
+- b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi listás jelöltséget
 
 fogadhat el.
 
-(5) A főpolgármester jelölt csak fővárosi kompenzációs listás jelöltséget fogadhat el.
+(5) A főpolgármester jelölt csak fővárosi listás jelöltséget fogadhat el.
 
 (6) A választópolgár vármegyei listán és megyei jogú városban egyidejűleg nem lehet jelölt. A választópolgár egyidejűleg nem lehet megyei listán jelölt és megyei jogú városban polgármesterjelölt.
 
@@ -107,13 +103,13 @@ jelöltnek ajánlott.
 
 10. § (1) A 10 000-nél több lakosú településen kompenzációs listát az a jelölő szervezet állíthat, amely a település egyéni választókerületeinek legalább kétharmadában jelöltet állított.
 
-(2) Fővárosi kompenzációs listát az a jelölő szervezet állíthat, amely a fővárosi kerületek legalább kétharmadában polgármesterjelöltet állított.
+(2) A fővárosi közgyűlés tagjainak megválasztásánál Budapesten fővárosi listát az a jelölő szervezet állíthat, amely főpolgármester-jelöltet vagy a fővárosi kerületek közül legalább háromban polgármesterjelöltet állított.
 
-(3) A fővárosi kompenzációs listán legfeljebb háromszor annyi jelölt szerepelhet, mint a fővárosi kompenzációs listán megszerezhető mandátumok száma.
+(3)
 
 11. § (1) Azok a jelölő szervezetek, amelyek az egyéni választókerületek legalább kétharmadában közös egyéni jelöltet állítottak, közös kompenzációs listát állíthatnak.
 
-(2) Azok a jelölő szervezetek, amelyek a fővárosi kerületek legalább kétharmadában közös polgármesterjelöltet állítottak, közös fővárosi kompenzációs listát állíthatnak.
+(2) Azok a jelölő szervezetek, amelyek közös főpolgármester-jelöltet vagy legalább három fővárosi kerületben közös polgármesterjelöltet állítottak, közös fővárosi listát állíthatnak.
 
 (3) Azok a jelölő szervezetek, amelyek a vármegyei választókerületben lévő települések választópolgárai 1%-ának, de legalább 2000 választópolgár közös ajánlását összegyűjtötték, közös vármegyei listát állíthatnak.
 
@@ -170,39 +166,35 @@ jelöltnek ajánlott.
 
 (5) A (3) bekezdést a nemzetiségi kompenzációs listára nem kell alkalmazni.
 
-#### 4. A fővárosi közgyűlés nem fővárosi kerületi polgármester és nem főpolgármester tagjainak választása
+#### 4. A fővárosi közgyűlés tagjainak választása
 
-#### 16/A. §
+17. § (1) A fővárosi közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
 
-17. § (1) A fővárosi kompenzációs lista a fővárosi kerületekben a polgármesterjelöltekre leadott, fővárosi szinten összesített töredékszavazatok arányában kap mandátumot.
+(2) A fővárosi listák a listákra leadott szavazatok arányában kapnak mandátumot.
 
-(2) Töredékszavazatnak minősül a fővárosi kerületekben a jelölő szervezet polgármesterjelöltjére leadott minden olyan szavazat, amellyel nem szereztek polgármesteri mandátumot. A töredékszavazatok a jelölő szervezet fővárosi kompenzációs listájára kerülnek.
-
-(3) Töredékszavazatnak minősül a fővárosi kerületekben a közös polgármesterjelöltre leadott minden olyan szavazat, amellyel nem szereztek polgármesteri mandátumot. A töredékszavazatok a közös polgármesterjelöltet állító jelölő szervezetek közös fővárosi kompenzációs listájára kerülnek.
-
-(4)
-
-(5) A fővárosi kompenzációs mandátum számításának módja:
+(3) A mandátum számítás módja:
 
 - a) Össze kell állítani egy táblázatot, amelyben minden lista neve alatt képezni kell egy számoszlopot. A számoszlop első száma az adott lista szavazatainak száma, a számoszlop következő számai az adott lista szavazatainak száma elosztva kettővel, hárommal, néggyel, öttel, rendre az egymást követő egész számokkal.
-- b) A táblázat segítségével kell kiosztani a mandátumokat. Meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik lista számoszlopában találjuk meg azt, az a lista kap egy mandátumot. Ezt követően meg kell keresni a következő legnagyobb számot. Amelyik lista oszlopában találjuk, az a lista kap egy mandátumot. Ezt az eljárást kell folytatni mindaddig, míg kiosztásra kerül az összes mandátum.
+- b) A táblázat segítségével lehet kiosztani a mandátumokat. Meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik lista számoszlopában találjuk meg azt, az a lista kap egy mandátumot. Ezt követően meg kell keresni a következő legnagyobb számot. Amelyik lista oszlopában találjuk, az a lista kap egy mandátumot. Ezt az eljárást kell folytatni mindaddig, míg kiosztásra kerül az összes mandátum.
 - c) Ha a táblázatban előforduló legnagyobb szám keresésekor egyenlő legnagyobb számok vannak, akkor az a lista kap mandátumot, amelyik még addig nem szerzett mandátumot, vagy amelyik kevesebb mandátumot kapott, végezetül, amelyik a listasorsolásnál kisebb sorszámot kapott.
 
-(6) Ha egy fővárosi kompenzációs lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
+(4) Ha egy fővárosi lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
 
-18. § (1) A fővárosi kompenzációs listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot.
+18. § (1) A fővárosi listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot.
 
-(2) Ha a fővárosi kompenzációs lista jelöltjét főpolgármesternek vagy fővárosi kerület polgármesterének választották, a fővárosi kompenzációs listáról törölni kell, helyébe a sorrendben utána következő jelölt lép.
+(2) Ha a fővárosi lista jelöltjét főpolgármesternek választották, a fővárosi listáról törölni kell, helyébe a sorrendben utána következő jelölt lép.
 
-(3) Ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és fővárosi kompenzációs listáról egyaránt mandátumot szerez, – a (2) bekezdésben foglalt kivétellel – a választást követő 3 napon belül nyilatkoznia kell, hogy melyiket fogadja el.
+(3) Nem kap mandátumot a jelölő szervezet vagy szervezetek közös fővárosi listája, ha a fővárosi listákra leadott érvényes szavazatok öt százalékát nem érte el.
 
-(4) Ha valamely mandátumszerzés későbbi időpontban következik be, a képviselőnek az újabb mandátumszerzés időpontját követő 3 napon belül nyilatkoznia kell, hogy lemond-e a betöltött képviselői mandátumáról vagy a később szerzett mandátumot nem fogadja el. Ha a képviselő lemond a betöltött képviselői mandátumáról, úgy arról a kompenzációs listáról – amelyről a betöltött képviselői mandátumot szerezte – törölni kell.
+(4) Ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és a fővárosi listáról egyaránt mandátumot szerez, úgy a fővárosi kerületi kompenzációs listás és fővárosi listás választás eredményének jogerőssé válásától számított 3 napon belül nyilatkoznia kell, hogy melyik mandátumáról mond le, és törölni kell arról a listáról, amelyen szerzett mandátumáról lemondott.
+
+(5) Ha valamely, a (4) bekezdés szerinti mandátumszerzés későbbi időpontban következik be, a képviselőnek az új mandátumszerzést megállapító határozat jogerőre emelkedését követő 3 napon belül nyilatkoznia kell, hogy lemond-e a betöltött képviselői mandátumáról vagy a később szerzett mandátumot nem fogadja el, és az érintett listáról törölni kell.
 
 #### 5. A vármegyei közgyűlés tagjainak választása
 
 18/A. § A vármegyei közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
 
-19. § (1) A vármegyei listák a leadott szavazatok arányában, a 17. § (5) bekezdésében meghatározott számítási mód alapján jutnak mandátumhoz.
+19. § (1) A vármegyei listák a leadott szavazatok arányában, a 17. § (3) bekezdésében meghatározott számítási mód alapján jutnak mandátumhoz.
 
 (2) Nem kap mandátumot
 
@@ -229,17 +221,17 @@ jelöltnek ajánlott.
 
 (6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
 
-(7) A fővárosi közgyűlés feloszlása esetén időközi választást kell kiírni valamennyi fővárosi kerület polgármesteri tisztségére.
+(7)
 
 #### 2. A kiesett képviselő mandátumának betöltése
 
 21. § (1) Ha az egyéni listáról megválasztott képviselő helye üresedik meg, helyére a következő legtöbb szavazatot elért jelölt lép.
 
-(2) Ha a vármegyei, a kompenzációs vagy a fővárosi kompenzációs listáról megválasztott képviselő kiesik, helyére az eredetileg bejelentett listáról a jelölő szervezet által bejelentett jelölt lép. Ha a fővárosi kompenzációs listáról mandátumot szerző képviselőt időközi választás eredményeképpen főpolgármesterré vagy fővárosi kerületi polgármesterré választják, helyére az eredetileg bejelentett fővárosi kompenzációs listáról a jelölő szervezet által bejelentett jelölt lép. Ha a jelölő szervezet a választási eljárásról szóló 2013. évi XXXVI. törvény 207/A. §-ában meghatározott határidőig nem jelenti be a jelöltet, a megüresedett helyre a listán soron következő jelölt lép.
+(2) Ha a vármegyei, a kompenzációs vagy a fővárosi listáról megválasztott képviselő kiesik, helyére az eredetileg bejelentett listáról a jelölő szervezet által bejelentett jelölt lép. Ha a fővárosi listáról mandátumot szerző képviselőt időközi választás eredményeképpen főpolgármesterré választják, helyére az eredetileg bejelentett fővárosi listáról a jelölő szervezet által bejelentett jelölt lép. Ha a jelölő szervezet a választási eljárásról szóló 2013. évi XXXVI. törvény 207/A. §-ában meghatározott határidőig nem jelenti be a jelöltet, a megüresedett helyre a listán soron következő jelölt lép.
 
-(3) Ha az egyéni listán, a kompenzációs listán, a vármegyei listán, vagy a fővárosi kompenzációs listán nincs több jelölt, akkor időközi választást nem kell kiírni, a mandátum a következő általános választásig betöltetlen marad.
+(3) Ha az egyéni listán, a kompenzációs listán, a vármegyei listán, vagy a fővárosi listán nincs több jelölt, akkor időközi választást nem kell kiírni, a mandátum a következő általános választásig betöltetlen marad.
 
-(4) Ha az egyéni listán, a vármegyei listán vagy a fővárosi kompenzációs listán megválasztott képviselők száma a képviselő-testület vagy a közgyűlés működéséhez szükséges létszám alá csökken, akkor az üres helyekre időközi választást kell kitűzni.
+(4) Ha az egyéni listán, a vármegyei listán vagy a fővárosi listán megválasztott képviselők száma a képviselő-testület vagy a közgyűlés működéséhez szükséges létszám alá csökken, akkor az üres helyekre időközi választást kell kitűzni.
 
 ### V/A. Fejezet — A kedvezményes nemzetiségi mandátum
 
@@ -282,7 +274,9 @@ jelöltnek ajánlott.
 
 (4) Ha a helyi önkormányzatban a polgármesteri tisztség a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásának napján betöltetlen, akkor a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásán megválasztott polgármester megbízatásának kezdete a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásán tartott polgármester-választás eredménye jogerőre emelkedésének időpontja.
 
-24/A. § E törvény I-V/A. Fejezete, 22. §-a és 24. §-a az Alaptörvény XXIII. cikk (4) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+24/A. § E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv1.) megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Módtv1. hatálybalépését követően kitűzendő általános választásán kell először alkalmazni.
+
+24/B. § E törvény I–V/A. Fejezete, 24. §-a és 24/A. §-a az Alaptörvény XXIII. cikk (4) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 25. § Ez a törvény a Tanács 1994. december 19-i 94/80/EK az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló irányelvének való megfelelést szolgálja.
 
