@@ -223,7 +223,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) fővárosi önkormányzat olyan önkormányzat, amely a települési és a területi önkormányzat feladat- és hatásköreit is elláthatja. A fővárosi önkormányzat képviselő-testülete a közgyűlés. A közgyűlést a főpolgármester képviseli.
 
-(3a) A fővárosi közgyűlés tagjai a főpolgármester, a fővárosi kerületek polgármesterei, valamint a fővárosi kompenzációs listáról mandátumot szerző kilenc képviselő.
+(3a) A fővárosi közgyűlés tagjai a főpolgármester és a fővárosi listáról mandátumot szerzett képviselők.
 
 (4) A főváros területe kerületekre, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetre tagozódik. Minden fővárosi kerületben települési önkormányzat működik.
 
@@ -350,7 +350,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - b) a választási bizottságnak;
 - c) a kormányhivatalnak.
 
-31/A. § A fővárosi közgyűlés fővárosi kerületi polgármester tagja megbízatása megszűnik, ha a fővárosi kerületi polgármesteri megbízatása megszűnik.
+#### 31/A. §
 
 ### Jogok és kötelezettségek
 
@@ -380,7 +380,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 35. § (1) A képviselő-testület az önkormányzati képviselőnek, a bizottsági elnöknek, a bizottság tagjának, a tanácsnoknak rendeletében meghatározott tiszteletdíjat, természetbeni juttatást állapíthat meg.
 
-(1a) A fővárosi közgyűlés fővárosi kerületi polgármester tagjai számára közgyűlési tagságukért tiszteletdíjat, költségtérítést, költségátalányt és egyéb juttatást nem állapíthat meg.
+(1a) A fővárosi közgyűlés fővárosi kerületi polgármesteri tisztséget is betöltő tagja számára közgyűlési tagságért tiszteletdíjat, költségtérítést, költségátalányt és egyéb juttatást állapíthat meg.
 
 (2) Ha az önkormányzati képviselő tanácsnok, önkormányzati bizottság elnöke vagy tagja, számára magasabb összegű tiszteletdíj is megállapítható. Az önkormányzati képviselő számára történő tiszteletdíj megállapítása nem veszélyeztetheti az önkormányzat kötelező feladatai ellátását.
 
@@ -411,7 +411,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A települési önkormányzati képviselő nem lehet a vármegyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
-(3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek a fővárosi kompenzációs listáról mandátumot szerzett tagja is, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.
+(3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek is tagja, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.
 
 ### Összeférhetetlenségi eljárás
 
@@ -537,9 +537,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A javaslat elfogadásához az egyszerű többséget igénylő javaslat esetén a jelen levő önkormányzati képviselők, minősített többséget igénylő javaslat esetén az önkormányzati képviselők több mint a felének igen szavazata szükséges. A betöltetlen önkormányzati képviselői helyet a határozatképesség szempontjából betöltöttnek kell tekinteni.
 
-(3) A fővárosi közgyűlésben a (2) bekezdést úgy kell alkalmazni, hogy a javaslat elfogadásához a (2) bekezdés szerinti szavazatarány mellett a főváros lakosságszámának együttesen több mint a felét kitevő lakosságszámú fővárosi kerületek polgármestereinek igen szavazata is szükséges.
+(3)
 
-(4) A (3) bekezdés szerinti esetben a lakosságszám megállapításakor a fővárosnak, valamint a fővárosi kerületeknek a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jén meglévő lakosságszámát kell figyelembe venni.
+(4)
 
 48. § (1) A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza.
 
@@ -622,7 +622,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 55. § (1) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
 
-(1a) A fővárosi közgyűlés feloszlásának kimondásához az önkormányzati képviselők négyötödének igen szavazata, valamint a főváros lakosságszámának legalább négyötödét kitevő lakosságszámú fővárosi kerületek polgármestereinek igen szavazata szükséges.
+(1a) A fővárosi közgyűlés feloszlásának kimondásához az önkormányzati képviselők négyötödének igen szavazata szükséges.
 
 (2) A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, valamint az általános választást megelőző év április 1. napját követően. A határidő megállapításkor a feloszlásra irányuló kezdeményezés időpontját kell figyelembe venni.
 
@@ -734,7 +734,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (3) A perindítással kapcsolatos határozat meghozatalában a polgármester nem vesz részt, de a határozatképesség szempontjából jelenlévőnek kell tekinteni.
 
-70/A. § A fővárosi kerületi polgármester megbízatása megszűnik, ha fővárosi közgyűlési képviselői megbízatása megszűnik.
+#### 70/A. §
 
 ### A főpolgármester, polgármester, a vármegyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
@@ -772,7 +772,7 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 
 (3) A (2) bekezdés a) pontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
-(4) A polgármesterre megfelelően alkalmazni kell az önkormányzati képviselőre vonatkozó összeférhetetlenségi, méltatlansági, vagyonnyilatkozat-tételi szabályokat azzal, hogy a polgármester nem lehet más önkormányzatnál polgármester, alpolgármester, települési önkormányzati képviselő, vármegyei közgyűlés elnöke, alelnöke, kivéve, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja. A fővárosi kerületi polgármester nem lehet főpolgármester, valamint főpolgármester-helyettes.
+(4) A polgármesterre megfelelően alkalmazni kell az önkormányzati képviselőre vonatkozó összeférhetetlenségi, méltatlansági, vagyonnyilatkozat-tételi szabályokat azzal, hogy a polgármester nem lehet más önkormányzatnál polgármester, alpolgármester, települési önkormányzati képviselő, vármegyei közgyűlés elnöke, alelnöke, nem lehet főpolgármester, valamint főpolgármester-helyettes. A fővárosi kerületi polgármester a fővárosi közgyűlés tagja lehet.
 
 73. § A polgármesteri tisztség ellátásával kapcsolatos egyéb rendelkezéseket a közszolgálati tisztviselőkről szóló törvény állapítja meg.
 
@@ -1555,7 +1555,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1612,7 +1612,9 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Módosító rendelkezések
 
-#### 147. §
+147. § (1) E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit 2024. október 1-jét követően kell először alkalmazni.
+
+(2) A Módtv3.-mal hatályon kívül helyezett 31/A. §-t, 47. § (3) és (4) bekezdését, valamint 70/A. §-t 2024. október 1-jéig kell alkalmazni.
 
 #### 148. §
 
