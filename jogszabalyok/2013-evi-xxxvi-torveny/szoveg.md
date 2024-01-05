@@ -372,7 +372,7 @@ a köztársasági elnök, illetve a választási iroda vezetője az indítványt
 
 - a) az országgyűlési képviselők választásának kitűzését követően az országos listát állító jelölő szervezetek,
 - b) az Európai Parlament tagjai választásának kitűzését követően a listát állító jelölő szervezetek,
-- c) a helyi önkormányzati képviselők és polgármesterek választásának kitűzését követően a vármegyei listát, fővárosi kompenzációs listát vagy főpolgármester-jelöltet állító jelölő szervezetek, valamint a független főpolgármester-jelöltek
+- c) a helyi önkormányzati képviselők és polgármesterek választásának kitűzését követően a vármegyei listát, fővárosi listát vagy főpolgármester-jelöltet állító jelölő szervezetek, valamint a független főpolgármester-jelöltek
 
 bízzák meg.
 
@@ -1286,7 +1286,7 @@ kell benyújtani.
 
 119. § (1) Azt a szervezetet, amely jelöltet vagy listát kíván állítani, a választás kitűzését követően jelölő szervezetként be kell jelenteni a Nemzeti Választási Bizottságnál.
 
-(2) A jelölő szervezetet a képviseletére jogosult személy jelentheti be.
+(2) A jelölő szervezetet a bírósági nyilvántartás szerint képviseletre jogosult személy jelentheti be.
 
 #### 59. Az ajánlóív
 
@@ -2162,7 +2162,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 #### 102. A névjegyzékkel kapcsolatos jogorvoslat
 
-235. § (1) A Nemzeti Választási Iroda központi névjegyzékkel kapcsolatos döntése ellen legkésőbb az annak meghozatalát követő tizenötödik napon lehet fellebbezést benyújtani.
+235. § (1) A Nemzeti Választási Iroda központi névjegyzékkel kapcsolatos döntése ellen legkésőbb az annak meghozatalát követő harmincadik napon lehet fellebbezést benyújtani.
 
 (2) A választási iroda szavazóköri névjegyzékkel kapcsolatos döntése ellen legkésőbb az arról szóló értesítés kézhezvételét, illetve a 13/E. § (2) bekezdés a) pont ab) pontja szerinti kézbesítés esetén a döntés meghozatalát követő harmadik napon, de nem később, mint a szavazást megelőző második napon 14 óráig lehet fellebbezést benyújtani.
 
@@ -2332,9 +2332,9 @@ a kérelmét egyben átjelentkezésre, illetve az átjelentkezés módosításá
 
 254. § (1) A pártlista állításánál a jelölő szervezetnek a lista nyilvántartásba vételéig bejelentett egyéni választókerületi jelöltjei számát kell figyelembe venni, kivéve azt a jelöltet, akinek nyilvántartásba vételét az országgyűlési egyéni választókerületi választási bizottság elutasította.
 
-(2) A Nemzeti Választási Iroda törli a nyilvántartásból a pártlistát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált egyéni választókerületi jelöltjeinek száma együttesen nem éri el az országgyűlési képviselők választásáról szóló törvényben foglalt minimumot.
+(2) A Nemzeti Választási Iroda törli a nyilvántartásból a pártlistát, ha a jelölő szervezet jogerősen nyilvántartásba vett és nem törölt, valamint a bejelentett, de még jogerősen el nem bírált egyéni választókerületi jelöltjeinek száma együttesen nem éri el az országgyűlési képviselők választásáról szóló törvényben foglalt minimumot.
 
-(3) A Nemzeti Választási Iroda törli a nyilvántartásból a jogerősen nyilvántartásba vett pártlistát, ha egyéni választókerületi jelölt kiesése miatt a jelölő szervezet jogerősen nyilvántartásba vett egyéni választókerületi jelöltjeinek száma nem éri el az országgyűlési képviselők választásáról szóló törvényben foglalt minimumot.
+(3)
 
 255. § (1) A nemzetiségi lista ajánlására a 120. § (1)–(2) bekezdése, valamint a 121–127. § rendelkezéseit kell alkalmazni. A központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként szereplő választópolgár ajánlhat nemzetiségi listát.
 
@@ -2748,7 +2748,7 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 306. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az általános választást megelőző évben október 15-ig átadja a települések, a vármegyék, illetve a főváros lakosságszámának szeptember 1-jei adatait a Nemzeti Választási Iroda számára. A Nemzeti Választási Iroda a lakosságszámot három napon belül közli a helyi, illetve a területi választási iroda vezetőjével.
 
-(2) A helyi választási iroda, illetve a területi választási iroda vezetője az általános választást megelőző évben október 31-ig határozatban állapítja meg a képviselő-testület, illetve a közgyűlés megválasztandó tagjainak számát.
+(2) A helyi választási iroda, illetve a területi választási iroda – kivéve a fővárosi választási iroda – vezetője az általános választást megelőző évben október 31-ig határozatban állapítja meg a képviselő-testület, illetve a közgyűlés megválasztandó tagjainak számát.
 
 #### 137/A. Az egyéni választókerületek kialakítása
 
@@ -2833,7 +2833,7 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 (3) A nemzetiségi jelöltként indulni szándékozó választópolgár ajánlóívén fel kell tüntetni, hogy melyik nemzetiség képviseletét vállalja.
 
-(4) A vármegyei lista ajánlására a 120. § (1) és (2) bekezdése, valamint a 121–127. § rendelkezéseit is alkalmazni kell.
+(4) A vármegyei lista és fővárosi lista ajánlására a 120. § (1) és (2) bekezdése, valamint a 121–127. § rendelkezéseit is alkalmazni kell.
 
 #### 138/F. A jelölt bejelentése
 
@@ -2847,29 +2847,30 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 #### 138/G. A lista bejelentése
 
-307/I. § (1) A kompenzációs listát, a fővárosi kompenzációs listát és a vármegyei listát legkésőbb a szavazást megelőző harmincharmadik napon kell bejelenteni.
+307/I. § (1) A kompenzációs listát, a fővárosi listát és a vármegyei listát legkésőbb a szavazást megelőző harmincharmadik napon kell bejelenteni.
 
-(2) A kompenzációs listát a helyi választási bizottság, a vármegyei listát, illetve a fővárosi kompenzációs listát a területi választási bizottság veszi nyilvántartásba.
+(2) A kompenzációs listát a helyi választási bizottság, a vármegyei listát, illetve a fővárosi listát a területi választási bizottság veszi nyilvántartásba.
 
 (3) A 307/F. § (1) és (2) bekezdésének, valamint a 307/H. § rendelkezéseit a listán állított jelöltekre is alkalmazni kell.
 
-(4) A kompenzációs listára, a fővárosi kompenzációs listára és a nemzetiségi kompenzációs listára a 129. § (4) bekezdésének rendelkezéseit nem kell alkalmazni.
+(4) A kompenzációs listára és a nemzetiségi kompenzációs listára a 129. § (4) bekezdésének rendelkezéseit nem kell alkalmazni.
 
 307/J. § (1) A kompenzációs lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – egyéni választókerületi jelöltjeinek számát kell figyelembe venni, kivéve azt a jelöltet, akinek nyilvántartásba vételét a helyi választási bizottság elutasította.
 
-(2) A helyi választási iroda törli a nyilvántartásból a kompenzációs listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált egyéni választókerületi jelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
+(2) A helyi választási iroda törli a nyilvántartásból a kompenzációs listát, ha a jelölő szervezet jogerősen nyilvántartásba vett és nem törölt, valamint a bejelentett, de még jogerősen el nem bírált egyéni választókerületi jelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
 
-(3) A helyi választási iroda törli a nyilvántartásból a jogerősen nyilvántartásba vett kompenzációs listát, ha egyéni választókerületi jelölt kiesése miatt a jelölő szervezet – közös kompenzációs lista esetén a jelölő szervezetek – jogerősen nyilvántartásba vett egyéni választókerületi jelöltjeinek száma nem éri el a törvényben foglalt minimumot.
+(3)
 
-307/K. § (1) A fővárosi kompenzációs lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – polgármesterjelöltjeinek számát kell figyelembe venni, kivéve azt a polgármesterjelöltet, akinek nyilvántartásba vételét a helyi választási bizottság elutasította.
+307/K. § (1) A fővárosi lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – polgármesterjelöltjeinek számát vagy főpolgármester-jelöltjét kell figyelembe venni, kivéve azt a polgármesterjelöltet vagy főpolgármester-jelöltet, akinek nyilvántartásba vételét a választási bizottság elutasította.
 
-(2) A területi választási iroda törli a nyilvántartásból a fővárosi kompenzációs listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált polgármesterjelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
+(2) A területi választási iroda törli a nyilvántartásból a fővárosi listát, ha
 
-(3) A területi választási iroda törli a nyilvántartásból a jogerősen nyilvántartásba vett fővárosi kompenzációs listát, ha polgármesterjelölt kiesése miatt a jelölő szervezet – közös fővárosi kompenzációs lista esetén a jelölő szervezetek – jogerősen nyilvántartásba vett polgármesterjelöltjeinek száma nem éri el a törvényben foglalt minimumot.
+- a) a jelölő szervezet jogerősen nyilvántartásba vett és nem törölt, valamint bejelentett, de még jogerősen el nem bírált polgármesterjelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot, és
+- b) a jelölő szervezetnek nincs jogerősen nyilvántartásba vett és nem törölt, vagy bejelentett, de még jogerősen el nem bírált főpolgármester-jelöltje.
 
 #### 138/H. A szavazólap adattartalma
 
-307/L. § (1) Külön szavazólap szolgál az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei listás és a főpolgármester-választásra.
+307/L. § (1) Külön szavazólap szolgál az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei listás, a fővárosi listás és a főpolgármester-választásra.
 
 (2) A nemzetiségi jelölt esetében az egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapján fel kell tüntetni a nemzetiség megnevezését is.
 
@@ -2877,7 +2878,7 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 #### 138/I. A szavazatszámlálás
 
-307/M. § A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei önkormányzati és a főpolgármester-választás tekintetében külön-külön kell alkalmazni.
+307/M. § A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei közgyűlési, a fővárosi közgyűlési és a főpolgármester-választás tekintetében külön-külön kell alkalmazni.
 
 #### 138/J. A választás eredményének megállapítása
 
@@ -2887,11 +2888,11 @@ törvénysértő voltára, vagy a választási eredmény megállapítására von
 
 (3) A helyi választási bizottság az egyéni választókerületben és a kompenzációs listán mandátumot szerzett képviselőknek a kompenzációs listás választás eredményének jogerőre emelkedését követő három napon belül adja át a megbízólevelet.
 
-307/O. § (1) A vármegyei önkormányzati és a főpolgármester-választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig a területi választási irodához szállítja.
+307/O. § (1) A vármegyei közgyűlési, a fővárosi közgyűlési és a főpolgármester-választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig a területi választási irodához szállítja.
 
-(2) A területi választási bizottság a szavazóköri jegyzőkönyvek alapján megállapítja a vármegyei önkormányzati és a főpolgármester-választás eredményét.
+(2) A területi választási bizottság a szavazóköri jegyzőkönyvek alapján megállapítja a vármegyei közgyűlési, a fővárosi közgyűlési és a főpolgármester-választás eredményét.
 
-(3) A fővárosi kerületi polgármester-választás eredményét megállapító határozat jogerőre emelkedését követő napon 10 óráig a határozat mellékletét képező jegyzőkönyv egy példányát a helyi választási iroda a területi választási irodához szállítja. A területi választási bizottság a fővárosi kerületek polgármester-választásainak eredményeit megállapító határozatok jogerőre emelkedését követően a határozatok mellékleteit képező jegyzőkönyvek alapján megállapítja a fővárosi kompenzációs listás választás eredményét.
+(3)
 
 #### 138/K. A jogorvoslat
 
@@ -3015,7 +3016,7 @@ ingyenesen átadja a jelölő szervezet számára a névjegyzékben a nemzetisé
 
 320. § (1) A lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – települési nemzetiségi önkormányzati jelöltjeinek számát kell figyelembe venni, kivéve azt a jelöltet, akinek nyilvántartásba vételét a helyi választási bizottság elutasította.
 
-(2) A választási iroda törli a nyilvántartásból a listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált települési nemzetiségi önkormányzati jelöltjeinek száma együttesen nem éri el a nemzetiségek jogairól szóló törvényben foglalt minimumot.
+(2) A választási iroda törli a nyilvántartásból a listát, ha a jelölő szervezet jogerősen nyilvántartásba vett és nem törölt, valamint a bejelentett, de még jogerősen el nem bírált települési nemzetiségi önkormányzati jelöltjeinek száma együttesen nem éri el a nemzetiségek jogairól szóló törvényben foglalt minimumot.
 
 #### 148. A szavazólap adattartalma
 
@@ -3358,9 +3359,13 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 (3) E törvénynek a Módtv.-vel megállapított 307/T. §-ában meghatározott határidő az (1) bekezdés alapján elmaradt időközi választás esetén a Módtv. hatálybalépése napján kezdődik.
 
+353/H. § E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv1.) által megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Módtv1. hatálybalépését követően kitűzendő általános választásán kell először alkalmazni.
+
+353/I. § A Fővárosi Választási Iroda vezetőjének a helyi önkormányzati képviselők és polgármesterek Módtv1. hatálybalépését követően kitűzött általános választásával összefüggésben a 306. § (2) bekezdése alapján hozott határozata hatályát veszti.
+
 #### 172. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, a 353/D. §, a 353/E. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, a 353/D. §, a 353/E. §, a 353/H. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. § és a 74. alcím az Alaptörvény IX. cikk (3) bekezdése, XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
@@ -3368,7 +3373,7 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 (4) A XIII. Fejezet, a 331. § (3) bekezdése, a 7. és a 8. melléklet az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-(5) A XIV. Fejezet, a 331. § (1)–(2) bekezdése, a 333. §, a 162/A. alcím, a 162/B. alcím, a 345. § és a 353/F. § az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+(5) A XIV. Fejezet, a 331. § (1)–(2) bekezdése, a 333. §, a 162/A. alcím, a 162/B. alcím, a 345. §, a 353/F. § és a 353/I. § az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (6) A XV. Fejezet és a 353/G. § az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
