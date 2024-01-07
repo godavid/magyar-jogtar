@@ -527,9 +527,14 @@ kell igazolnia.
 - c) bármely, az üggyel kapcsolatos iratba, ideértve az üzleti titkot tartalmazó iratokat is, betekinteni, az iratról másolatot, kivonatot készíteni, és
 - d) bármely, az ügyhöz kapcsolódó tárgyat vagy munkafolyamatot megvizsgálni.
 
-#### 45. §
+45. § Ha a Hatóság az ellenőrzése során
 
-#### 46. §
+- a) jogsértést tapasztal, figyelmeztetést vagy közigazgatási bírság szankciót alkalmaz, és döntésében – 15 napos határidő biztosításával – kötelezi a vállalkozást a jogsértés megszüntetésére és a szükséges megelőző, illetve korrekciós intézkedések megtételére,
+- b) jogsértést nem tapasztal, ennek tényéről hatósági bizonyítványt állít ki.
+
+46. § (1) Az ellenőrzés akadályozása esetén a Hatóság eljárási bírsággal sújthatja azt, aki a kötelezettségét önhibájából megszegi.
+
+(2) Az eljárási bírság legkisebb összege ötszázezer forint, legmagasabb összege egymillió forint.
 
 47. § A Hatóság a honlapján minden év június 30-ig közzéteszi az előző naptári évben végzett ellenőrzési tevékenységéről készített jelentést, amely tartalmazza a Hatóság által feltárt jogsértéseket és az elrendelt intézkedéseket.
 
