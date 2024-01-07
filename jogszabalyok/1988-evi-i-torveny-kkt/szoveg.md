@@ -391,7 +391,7 @@ jogosultak.
 
 (5) A 9/D. § szerinti közszolgáltatással kapcsolatban keletkezett ügyfélpanaszok intézése során külön törvény előírásai szerint kell eljárni.
 
-15/D. § (1) Ha a várakozási díjat és a pótdíjat nem fizették meg a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató a díj- és pótdíjfizetési felszólítást a várakozási terület díjfizetés nélküli használatának időpontjától számított 60 napos jogvesztő határidőn belül a jármű üzembentartója részére postai küldeményként, vagy más egyéb igazolható módon megküldi.
+15/D. § (1) Ha a várakozási díjat és a pótdíjat nem fizették meg, a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató 60 napos jogvesztő határidőn belül a jármű üzembentartója részére postai küldeményként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben és végrehajtási rendeleteiben szabályozott módon, illetve más egyéb igazolható módon megküldi a díj- és pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a várakozási díj és a pótdíj megfizetését elmulasztó gépjármű-üzembentartónak a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató előtt ismertté válásától kell számítani.
 
 (2) A 60 napos jogvesztő határidő nem alkalmazható abban az esetben, ha a gépjármű üzembentartója a nyilvántartott adataiban bekövetkezett változásokat a gépjárműnyilvántartási szervhez – az erre vonatkozó jogszabályi rendelkezések megszegésével – elmulasztotta bejelenteni és ezért a fizetési felszólítás nem a tényleges üzembentartó részére került megküldésre.
 
@@ -1591,7 +1591,7 @@ tevékenységét a közlekedési hatóság engedélyezi és rendszeresen ellenő
 - d) útfelújítás, korszerűsítés során a munkaterületen ideiglenes terelőút kiépítését és elbontását, valamint eredeti állapotba történő visszaállítását az útfelújítással érintett út műszaki átadás átvételét követő 8 napig bezárólag,
 - e) bárki által igénybe vehető létesítményhez szükséges parkolóhelyek és a hozzájuk vezető legfeljebb 50 m hosszú útfelület kiépítését az építéssel érintett ingatlanon összesen (meglévő és tervezett) 10 parkolóhelyig az útügyi műszaki előírások betartásával.
 
-29/A. § (1) A közlekedési hatóság az engedély nélküli vagy az engedélytől eltérő útépítés, útmegszüntetés, elbontás esetén, illetve az engedély nélküli forgalomba helyezés esetén az építtetőt határozattal bírság megfizetésére kötelezheti.
+29/A. § (1) A közlekedési hatóság a bejelentés nélküli, az engedély nélküli vagy az engedélytől eltérő útépítés, útmegszüntetés, elbontás esetén, valamint a bejelentés vagy engedély nélküli forgalomba helyezés esetén az építtetőt határozattal bírság megfizetésére kötelezi.
 
 (2) A bírság
 
