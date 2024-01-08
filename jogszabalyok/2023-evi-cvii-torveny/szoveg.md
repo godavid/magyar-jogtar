@@ -8,17 +8,13 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 2. §
 
-3. § A közúti közlekedésről szóló 1988. évi I. törvény 15/D. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a várakozási díjat és a pótdíjat nem fizették meg, a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató 60 napos jogvesztő határidőn belül a jármű üzembentartója részére postai küldeményként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben és végrehajtási rendeleteiben szabályozott módon, illetve más egyéb igazolható módon megküldi a díj- és pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a várakozási díj és a pótdíj megfizetését elmulasztó gépjármű-üzembentartónak a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató előtt ismertté válásától kell számítani.”
+#### 3. §
 
 #### 4. §
 
 #### 5. §
 
-6. § A közúti közlekedésről szóló 1988. évi I. törvény 29/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közlekedési hatóság a bejelentés nélküli, az engedély nélküli vagy az engedélytől eltérő útépítés, útmegszüntetés, elbontás esetén, valamint a bejelentés vagy engedély nélküli forgalomba helyezés esetén az építtetőt határozattal bírság megfizetésére kötelezi.”
+#### 6. §
 
 #### 7. §
 
