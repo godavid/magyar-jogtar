@@ -577,7 +577,7 @@ lehet;
 
 (6) A dohánytermék-kiskereskedő köteles az 1. § (1) bekezdésében meghatározott termék értékesítését megtagadni abban az esetben is, ha annak gyanúja merül fel benne, hogy a nem fiatalkorú fogyasztó az 1. § (1) bekezdésében meghatározott terméket fiatalkorú részére történő továbbadás céljából kívánja megvásárolni.
 
-(7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
+(7) A dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, továbbá vele szemben az e törvényben meghatározott más jogkövetkezmény alkalmazandó azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
 
 16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást, tájékoztatást megadni és a Hatóság által a 10/C. §-ban foglalt feladatainak ellátása kapcsán megküldött aktuális tájékoztatót – a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló rendeletében meghatározott módon – a dohányboltban, valamint az elkülönített helyen kihelyezni, vagy elektronikus eszköz útján megjeleníteni.
 
@@ -613,7 +613,7 @@ lehet;
 
 22. § (1) A Hatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
+(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben – a (2a) bekezdésben foglalt eltéréssel – 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
 
 - a) az engedélyben vagy a kijelölési okiratban foglaltaktól eltér, továbbá ha az 1. § (1) bekezdésében felsorolt termékek üzletszerű értékesítésére vonatkozó vagy a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti jogszabályi rendelkezéseket megsérti,
 - b) az állammal szembeni kötelezettségét nem teljesíti,
@@ -621,12 +621,16 @@ lehet;
 - d) a fiatalkorúak különös védelmére vonatkozó, a 16. §-ban foglalt szabályokat megsérti.
 - e) a 13. § (4a) bekezdése szerinti kötelező szakmai képzést nem teljesíti.
 
+(2a) A 16. § (1) bekezdésében foglaltak első alkalommal történő megsértése esetén a (2) bekezdés d) pontja szerinti bírság mértéke legalább egymillió forint, minden további, 16. § (1) bekezdésében foglaltak megszegésére alapított jogsértés esetén a bírság mértéke az előző bírság mértékének legalább 150%-a, de legfeljebb 10 millió forint.
+
 (3) A jogosulatlan dohánytermék kiskereskedelmi tevékenységet folyató személyt a Hatóság
 
 - a) természetes személy esetében 1 millió forinttól 50 millió forintig,
 - b) gazdasági társaság esetében – ideértve az egyéni vállalkozót is – 5 millió forinttól 500 millió forintig
 
 terjedő bírsággal sújtja.
+
+(3a) Ha a Hatóság azt állapítja meg, hogy a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet kiskorú folytatja, úgy – a (3) bekezdés a) pontjától eltérően – bírság kiszabására nem kerül sor, és a Hatóság erről a gyámhatóságot értesíti.
 
 (4) A bírság együttesen, illetve a 23. § és a 23/C. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 
@@ -669,12 +673,9 @@ terjedő bírsággal sújtja.
 
 23/B. § A Hatóság a 17. § (1) bekezdése szerinti céljával összefüggésben a dohánytermék-kiskereskedelmi piac folyamatos és teljes körű hatósági felügyeletéhez a 10. § (1) bekezdés alapján kijelölt személyek listáját, illetve a Hatóság elnökének rendeletében meghatározott – személyes adatnak nem minősülő – további adatokat a Hatóság elnökének rendeletében meghatározott módon és rendszerességgel továbbítja az állami adó- és vámhatóság részére.
 
-23/C. § (1) Ha a dohánytermék-kiskereskedelmi tevékenységet végző személy az 1. § (2) bekezdésében meghatározott fogyasztóvédelmi rendelkezést három éven belül ismételten megsérti, a Hatóság elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc napos időtartamra történő ideiglenes bezárását.
+23/C. § (1) Ha a dohánytermék-kiskereskedelmi tevékenységet végző személy a fiatalkorúak különös védelmére vonatkozó, a 16. § (1) bekezdésben meghatározott rendelkezést ismételten megsérti, de a 23. § (2) bekezdés a) pontja alkalmazásának nincs helye, a Hatóság elrendeli a jogsértéssel érintett üzlet ideiglenes, 30 napra történő bezárását.
 
-(2) Az (1) bekezdés alkalmazása során a Hatóság különösen a következőket veszi figyelembe:
-
-- a) a dohánytermék-kiskereskedelmi tevékenységet végző személy által három éven belül megvalósított e törvény szerinti korábbi jogsértést,
-- b) a dohánytermék-kiskereskedelmi tevékenységet végző személy vonatkozásában a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében foglaltak szerint a Hatóság rendelkezésére álló, a tárgyévet megelőző év készlet- és forgalmi adatait.
+(2) A dohánytermék-kiskereskedelmi tevékenységet végző legkésőbb az (1) bekezdés szerinti intézkedés kezdőnapján köteles a dohánytermék értékesítési helyet bezárni és annak valamennyi bejáratán jól láthatóan feltüntetni a zárvatartást megalapozó jogsértést, a zárvatartás időtartamát, és azt, hogy az üzletet a Hatóság záratta be.
 
 23/D. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési könnyítés) a bírság megfizetésére kötelezett (a továbbiakban e § alkalmazásában: kérelmező) kérelmére az e törvény alapján kiszabott közigazgatási bírságra engedélyezhető.
 
@@ -748,6 +749,8 @@ az általános szabályok szerint, azzal, hogy az a) pont alkalmazásakor a hat�
 (17) E törvénynek a Módtv.7.-tel megállapított 11. § (5) bekezdésének hatálybalépése előtt beszerzett, a Hatóság elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termék korlátlan ideig forgalmazható.
 
 (18) E törvénynek a Módtv.7.-tel megállapított 7. § (3a) bekezdését a Módtv.7. hatálybalépését követően kiírt bármely pályázat során alkalmazni kell.
+
+(19) E törvénynek a Módtv.7.-tel megállapított 23/C. §-a alkalmazása szempontjából első jogsértésnek a Módtv.7.-tel megállapított 23/C. § hatálybalépését követően első alkalommal megállapított jogsértést kell tekinteni.
 
 24/B. § (1)
 
