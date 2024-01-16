@@ -20,45 +20,15 @@ a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek k
 
 #### 7. §
 
-8. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 16. § (7) bekezdése helyébe a következő rendelkezés lép:
+#### 8. §
 
-„(7) A dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, továbbá vele szemben az e törvényben meghatározott más jogkövetkezmény alkalmazandó azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.”
+#### 9. §
 
-9. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 22. §-a a következő (2a) bekezdéssel egészül ki:
+#### 10. §
 
-„(2a) A 16. § (1) bekezdésében foglaltak első alkalommal történő megsértése esetén a (2) bekezdés d) pontja szerinti bírság mértéke legalább egymillió forint, minden további, 16. § (1) bekezdésében foglaltak megszegésére alapított jogsértés esetén a bírság mértéke az előző bírság mértékének legalább 150%-a, de legfeljebb 10 millió forint.”
+#### 11. §
 
-(2) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 22. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ha a Hatóság azt állapítja meg, hogy a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet kiskorú folytatja, úgy – a (3) bekezdés a) pontjától eltérően – bírság kiszabására nem kerül sor, és a Hatóság erről a gyámhatóságot értesíti.”
-
-10. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 23/C. §-a helyébe a következő rendelkezés lép:
-
-„23/C. § (1) Ha a dohánytermék-kiskereskedelmi tevékenységet végző személy a fiatalkorúak különös védelmére vonatkozó, a 16. § (1) bekezdésben meghatározott rendelkezést ismételten megsérti, de a 23. § (2) bekezdés a) pontja alkalmazásának nincs helye, a Hatóság elrendeli a jogsértéssel érintett üzlet ideiglenes, 30 napra történő bezárását.
-
-(2) A dohánytermék-kiskereskedelmi tevékenységet végző legkésőbb az (1) bekezdés szerinti intézkedés kezdőnapján köteles a dohánytermék értékesítési helyet bezárni és annak valamennyi bejáratán jól láthatóan feltüntetni a zárvatartást megalapozó jogsértést, a zárvatartás időtartamát, és azt, hogy az üzletet a Hatóság záratta be.”
-
-11. § (1)
-
-(2)
-
-(3)
-
-(4) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 24/A. §-a a következő (19) bekezdéssel egészül ki:
-
-„(19) E törvénynek a Módtv.7.-tel megállapított 23/C. §-a alkalmazása szempontjából első jogsértésnek a Módtv.7.-tel megállapított 23/C. § hatálybalépését követően első alkalommal megállapított jogsértést kell tekinteni.”
-
-12. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
-
-- a)
-- b)
-- c)
-- d)
-- e)
-- f) 22. § (2) bekezdés nyitó szövegrészében a „szemben 30 ezer” szövegrész helyébe a „szemben – a (2a) bekezdésben foglalt eltéréssel – 30 ezer” szöveg,
-- g)
-
-lép.
+#### 12. §
 
 #### 3. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
