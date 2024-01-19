@@ -163,7 +163,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 - 17. fűtőolaj: a 2710 19 62–2710 19 67 és a 2710 20 32–2710 20 38 KN-kód szerinti termék;
 - 18. gázolaj: a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
 - 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
-- 20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2022. január 17-i 2022/197/EU bizottsági végrehajtási határozata szerint Solvent Yellow 124 vagy ACCUTRACE™ PLUS jelölőanyaggal megjelölt gázolaj;
+- 20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2022. január 17-i 2022/197/EU bizottsági végrehajtási határozata szerint ACCUTRACE™ PLUS jelölőanyaggal megjelölt gázolaj;
 - 21. kereskedelmi gázolaj: gázolaj, amelyet
   - a) ellenszolgáltatás fejében vagy saját költségre kizárólag közúti árufuvarozásra szolgáló, legalább 7,5 tonna megengedett legnagyobb össztömegű gépjárművel vagy nyerges járműszerelvénnyel (nyerges vontatóval) végzett közúti árufuvarozáshoz, vagy
   - b) akár menetrendszerű, akár nem menetrendszerű forgalomban, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 vagy M3 kategóriába tartozó gépjárművel végzett személyszállításhoz
@@ -2354,6 +2354,8 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 (4d) A kisüzemi bortermelő a fogyasztó számára történő közvetlen értékesítés céljából egy borpiaci évben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de összesen legfeljebb 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot vesz át, amelynek készleten lévő mennyisége az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronkénti 0,7 hektoliter tiszta szesz, de legfeljebb összesen 1,5 hektoliter tiszta szesz mennyiséget nem haladja meg.
 
 (5) Ha a kisüzemi bortermelő a 3. § (3) bekezdés 16. pontja szerinti feltételt nem teljesíti vagy a (4a)–(4d) bekezdésben foglalt szabályt megsérti, kisüzemi bortermelőként tevékenységét legfeljebb a feltétel nem teljesülésének bekövetkezését vagy a szabály megsértését követő hónap 15. napjáig előterjesztett egyszerűsített adóraktári engedély iránti kérelemről hozott hatósági döntésig folytathatja.
+
+(5) Ha a kisüzemi bortermelő törvényi meghatározásában foglalt feltételek közül valamelyik nem teljesül, a kisüzemi bortermelő a feltétel nem teljesülésének bekövetkezését követő hónap 15. napjáig egyszerűsített adóraktári engedély iránti kérelmet köteles előterjeszteni.
 
 (6) A kisüzemi bortermelőnek az általa előállítható és tárolható palackos erjesztésű habzóbor után nem kell jövedéki biztosítékot nyújtania. Ha a kisüzemi bortermelő az Art. szerinti kockázatos adózónak minősül, köteles haladéktalanul egyszerűsített adóraktári engedély iránti kérelmet előterjeszteni.
 
