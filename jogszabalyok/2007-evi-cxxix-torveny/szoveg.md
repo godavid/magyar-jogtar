@@ -1465,20 +1465,20 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
 
 #### A földvédelmi járulék mértéke
 
-- 1. A termőföld végleges más célú hasznosításáért az igénybevétellel érintett termőföld aranykorona (a továbbiakban: AK) értéke e táblázat szerinti szorzatának megfelelő forintösszeget kell járulékként fizetni, de legalább 20 000 forintot.
+- 1. A termőföld végleges más célú hasznosításáért az igénybevétellel érintett termőföld aranykorona (a továbbiakban: AK) értéke e táblázat szerinti szorzatának megfelelő forintösszeget kell járulékként fizetni, de legalább 60 000 forintot.
 
 |  | Minőségi osztályok | (AK szorzószáma) |
 | --- | --- | --- |
-|  | I. | 184 000 |
-|  | II. | 152 000 |
-|  | III. | 120 000 |
-|  | IV. | 88 000 |
-|  | V. | 56 000 |
-|  | VI. | 35 000 |
-|  | VII. | 20 000 |
-|  | VIII. | 4 000 |
+|  | I. | 552 000 |
+|  | II. | 456 000 |
+|  | III. | 360 000 |
+|  | IV. | 264 000 |
+|  | V. | 168 000 |
+|  | VI. | 105 000 |
+|  | VII. | 60 000 |
+|  | VIII. | 12 000 |
 
-- 2. Az igénybevétellel érintett termőföld más célú időleges hasznosítása esetén a járulék mértéke a minőségi osztályra tekintet nélkül az első évre vonatkozóan a termőföld AK értéke ezerszeres szorzatának megfelelő forintösszeg, azzal, hogy a járulék összege 20 000 forintnál nem lehet kevesebb. A szorzót évente ezerrel növelni kell mindaddig, amíg a terület az eredeti állapotának helyreállítása elfogadásra kerül.
+- 2. Az igénybevétellel érintett termőföld más célú időleges hasznosítása esetén a járulék mértéke a minőségi osztályra tekintet nélkül az első évre vonatkozóan a termőföld AK értéke háromezerszeres szorzatának megfelelő forintösszeg, azzal, hogy a járulék összege 60 000 forintnál nem lehet kevesebb. A szorzót évente háromezerrel növelni kell mindaddig, amíg a terület az eredeti állapotának helyreállítása elfogadásra kerül.
 - 3. A járulék mértékének megállapításakor minden olyan megkezdett évet egész évnek kell tekinteni, amelyben a terület mezőgazdasági hasznosításra alkalmatlanná vált.
 - 4. A termőföld engedély nélküli más célú hasznosításakor
 - 4.1. a más célú hasznosításhoz való utólagos hozzájárulás esetén a járulék számításánál az 1. pontban foglaltakat kell alkalmazni;
@@ -1488,18 +1488,22 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
 
 #### A földvédelmi bírság mértéke
 
-- 1. A bírság összegét az alábbi módon kell megállapítani, azzal, hogy a bírság összege 20 000 forintnál nem lehet kevesebb.
+- 1. A bírság összegét az alábbi módon kell megállapítani, azzal, hogy a bírság összege 50 000 forintnál nem lehet kevesebb.
 - 2. A bírság
-- 2.1. a 24. § (1) bekezdés a) és g) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezerszerese;
-- 2.2. a 24. § (1) bekezdés b)–d) pontjában foglalt esetekben 20 000 forint azzal, hogy a bírság összegét a 24. § (1) bekezdés b) pont ba) alpontja esetén földrészletenként kell megállapítani;
+- 2.1. a 24. § (1) bekezdés a) pontjában foglalt esetekben külterületen a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezer-hatszázszorosa, zártkertben a termőföld ingatlan-nyilvántartás szerinti AK értékének háromezerszerese;
+- 2.2. a 24. § (1) bekezdés b)–d) pontjában foglalt esetekben 50 000 forint azzal, hogy a bírság összegét a 24. § (1) bekezdés b) pont ba) alpontja esetén földrészletenként kell megállapítani;
 - 2.3. a 24. § (1) bekezdés e) pont ea) alpontjában foglalt esetben, ha a termelésbe visszabocsátott termőföld minőségi osztálya az ingatlan-nyilvántartás szerintinél
   - a) egy osztállyal gyengébb, akkor a két minőségi osztály szerint számított földvédelmi járulék különbözetének háromszorosa;
   - b) legalább két osztállyal gyengébb, akkor az ingatlan-nyilvántartásban szereplő minőségi osztály alapján számított földvédelmi járulék háromszorosa;
 - 2.4. a 24. § (1) bekezdés e) pont eb) alpontjában foglalt esetben a termőföldnek az engedélyező határozatban előírt határidő lejárta és a tényleges helyreállítás időpontja közötti időre a más célú időleges hasznosításáért fizetendő földvédelmi járulék háromszorosa;
-- 2.5. összege a 24. § (1) bekezdés f) pontjában foglalt esetben
-  - a) a más célú hasznosításhoz való utólagos hozzájárulás esetén az 1. melléklet 4.1. pontjában,
+- 2.5. összege a 24. § (1) bekezdés f) pontjában foglalt esetben külterületi ingatlan tekintetében
+  - a) a más célú hasznosításhoz való utólagos hozzájárulás és a 16. § (11c) bekezdés szerinti döntés esetén az 1. melléklet 4.1. pontjában,
   - b) az elrendelt eredeti állapot helyreállításának elfogadása esetén az 1. melléklet 4.2. pontjában meghatározott módon számított földvédelmi járulék háromszorosa;
-- 2.6. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.
+- 2.6. összege a 24. § (1) bekezdés f) pontjában foglalt esetben zártkerti ingatlan tekintetében
+  - a) a más célú hasznosításhoz való utólagos hozzájárulás és a 16. § (11c) bekezdés szerinti döntés esetén az 1. melléklet 4.1. pontjában,
+  - b) az elrendelt eredeti állapot helyreállításának elfogadása esetén az 1. melléklet 4.2. pontjában meghatározott módon számított földvédelmi járulék négyszerese;
+- 2.7. a 24. § (1) bekezdés g) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezer-hatszázszorosa;
+- 2.8. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.
 
 ### 3. melléklet a 2007. évi CXXIX. törvényhez
 

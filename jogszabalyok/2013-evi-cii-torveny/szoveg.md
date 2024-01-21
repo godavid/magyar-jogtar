@@ -1365,6 +1365,8 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 
 (4a) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a természetes vagy jogi személyre, aki vagy amely halgazdálkodási vízterületről kifogott halat – a 8. § (1) és (2) bekezdése szerint történő állománymentés és a mesterséges körülmények közötti szaporítási célból fogott halak halgazdálkodási hatóság engedélyével végzett telepítésének, valamint a horgászati célú haltermelés keretében a horgászathoz szükséges halállomány biztosításának, továbbá a 13. § (2) bekezdése szerint a halgazdálkodási vízterületről kifogott nem őshonos halak haltermelési létesítménybe halhústermelési vagy takarmányozási célból végzett telepítésének kivételével – más halgazdálkodási vízterületre, illetve haltermelési létesítménybe telepít.
 
+(4b) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a természetes vagy jogi személyre, aki a 23/D. § szerinti szolgáltatást a halgazdálkodásra jogosult előzetes és írásbeli hozzájárulása nélkül végzi.
+
 (5) A halgazdálkodási bírság legkisebb összege ötvenezer forint, legmagasabb összege ötmillió forint, a jogsértő személyére tekintet nélkül.
 
 67. § (1) A halgazdálkodási hatóság halvédelmi bírságot szab ki
@@ -1454,7 +1456,7 @@ veszi figyelembe.
 
 69/A. § A halgazdálkodási hatóság a halgazdálkodási bírság és a halvédelmi bírság kiszabása során megismert személyes adatokat a halgazdálkodási bírság esetén 15 évig, a halvédelmi bírság esetén 5 évig kezeli.
 
-69/B. § A halgazdálkodási vagy halvédelmi bírságot kiszabó határozatot megtámadó keresetlevélnek halasztó hatálya van.
+69/B. § A halgazdálkodási vagy halvédelmi bírságot kiszabó határozatot megtámadó keresetlevél benyújtásának a bírságra vonatkozó rendelkezés tekintetében halasztó hatálya van.
 
 70. § (1) A halgazdálkodási hatóság figyelmeztetésben részesíti az eljárás alá vont személyt, ha
 
