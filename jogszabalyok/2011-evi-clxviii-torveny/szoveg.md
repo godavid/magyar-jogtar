@@ -159,9 +159,9 @@ fedezetére használható fel.
 
 10. § (1) A kárenyhítési hozzájárulás mértéke évenként a mezőgazdasági termelő használatában levő, és
 
-- a) ültetvényművelésre szolgáló termőföld után hektáronként 4500 forint,
-- b) szántóföldi zöldség termesztésére szolgáló termőföld után hektáronként 4500 forint,
-- c) a b) pont hatálya alá nem tartozó egyéb szántóföldi kultúrák termesztésére szolgáló termőföld után hektáronként 1500 forint.
+- a) ültetvényművelésre szolgáló termőföld után hektáronként 5400 forint,
+- b) szántóföldi zöldség termesztésére szolgáló termőföld után hektáronként 5400 forint,
+- c) a b) pont hatálya alá nem tartozó egyéb szántóföldi kultúrák termesztésére szolgáló termőföld után hektáronként 1800 forint.
 
 (2) A kárenyhítési hozzájárulást a kockázatközösségben tag mezőgazdasági termelő az egységes kérelmében bejelentett használatban lévő termőföld alapján, az (1) bekezdés szerint köteles megfizetni.
 
