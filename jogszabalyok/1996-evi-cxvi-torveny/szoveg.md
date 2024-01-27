@@ -1511,6 +1511,8 @@ járó költségeket.
 
 (4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
 
+(5) A létesítési engedéllyel rendelkező atomerőmű engedélyese az üzemeltetési engedély hatálybalépését megelőzően, a radioaktív hulladék kezelésével és a kiégett üzemanyag kezelésével kapcsolatos előkészítő feladatok felmerülő költségét az üzembe helyezésig eseti befizetéssel teljesíti a Központi Nukleáris Pénzügyi Alapba. A befizetésre kerülő összeget az adott évi központi költségvetésről szóló törvény határozza meg.
+
 63/A. § (1) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény üzemideje alatt a radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket a hulladék tárolóba történő beszállításakor kell megfizetni az 1. mellékletben meghatározottak szerint. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
 
 (2) Az atomenergia olyan alkalmazója, amely nem tartozik a 63. § (1) és (4) bekezdése, valamint az (1) bekezdés hatálya alá, a radioaktív hulladék végleges elhelyezésével kapcsolatos, az 1. melléklet alapján meghatározott befizetési kötelezettségét a hulladék tárolóba történő beszállításakor teljesíti.
@@ -1617,6 +1619,8 @@ járó költségeket.
 - b) 30 napon belül meg kell váltani.
 
 (3) Az érintett 2021. december 31-én meglévő, ki nem adott szabadságát 40 napon belül meg kell váltani. A megváltás során az érintettet 2021. december 1-jén megillető illetménnyel kell számolni.
+
+66/J. § Az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2023. évi CXXI. törvénnyel (a továbbiakban: Atvmód.) megállapított 63. § (5) bekezdés szerinti eseti befizetést első alkalommal a 2025. évi központi költségvetés tervezésekor kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 

@@ -18,9 +18,13 @@ az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról
 
 #### 8. §
 
-#### 9. §
+9. § Az atomenergiáról szóló 1996. évi CXVI. törvény 63. §-a a következő (5) bekezdéssel egészül ki:
 
-#### 10. §
+„(5) A létesítési engedéllyel rendelkező atomerőmű engedélyese az üzemeltetési engedély hatálybalépését megelőzően, a radioaktív hulladék kezelésével és a kiégett üzemanyag kezelésével kapcsolatos előkészítő feladatok felmerülő költségét az üzembe helyezésig eseti befizetéssel teljesíti a Központi Nukleáris Pénzügyi Alapba. A befizetésre kerülő összeget az adott évi központi költségvetésről szóló törvény határozza meg.”
+
+10. § Az atomenergiáról szóló 1996. évi CXVI. törvény „Vegyes és hatályba léptető rendelkezések” alcíme a következő 66/J. §-sal egészül ki:
+
+„66/J. § Az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2023. évi CXXI. törvénnyel (a továbbiakban: Atvmód.) megállapított 63. § (5) bekezdés szerinti eseti befizetést első alkalommal a 2025. évi központi költségvetés tervezésekor kell alkalmazni.”
 
 #### 11. §
 
