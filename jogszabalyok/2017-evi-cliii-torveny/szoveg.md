@@ -246,7 +246,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 (3) Az ideiglenesen eredménytelen végrehajtással érintettként nyilvántartott tartozásokat az adóhatóság évente felülvizsgálja abból a célból, hogy az (1) és (2) bekezdés szerinti tartozások nem váltak-e végrehajthatóvá. Végrehajtható vagyon vagy jövedelem hiányában a felülvizsgálattól számított egy évig az adós tartozását az adóhatóság az (1) bekezdés szerint kezeli. Az ideiglenesen eredménytelen végrehajtással érintettként nyilvántartott tartozást az adóhatóság ismét végrehajthatónak minősíti, ha a végrehajtáshoz való jog elévülési idején belül a tartozás végrehajthatóvá válik.
 
-21. § A végrehajtási eljárást lefolytató állami adó- és vámhatóság a 10 ezer forintot meghaladó, de a központi költségvetésről szóló törvényben megállapított értékhatárt meg nem haladó, kis összegű követelés esetében – az Európai Uniót megillető hagyományos saját forrásból fennálló követelés, a pénzösszegben kifejezett vagyonelkobzás és a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság kivételével – kizárólag hatósági átutalási megbízást és jövedelem-letiltást foganatosít a behajtás érdekében. Ezek eredménytelensége esetén a tartozást – alakszerű döntés meghozatala nélkül – ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítheti és a tartozás végrehajthatóvá válásáig, illetve a végrehajtáshoz való jog elévüléséig ezen a jogcímen tarthatja nyilván.
+21. § A végrehajtási eljárást lefolytató állami adó- és vámhatóság a 10 ezer forintot meghaladó, de a 200 ezer forintot meg nem haladó követelés esetében – az Európai Uniót megillető hagyományos saját forrásból fennálló követelés, a pénzösszegben kifejezett vagyonelkobzás és a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság kivételével – kizárólag hatósági átutalási megbízást és jövedelemletiltást foganatosít a behajtás érdekében. Ezek eredménytelensége esetén a tartozást – alakszerű döntés meghozatala nélkül – ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítheti és a tartozás végrehajthatóvá válásáig, illetve a végrehajtáshoz való jog elévüléséig ezen a jogcímen tarthatja nyilván.
 
 #### 14. Eljárási bírság kiszabása a végrehajtási eljárásban
 
@@ -1519,6 +1519,8 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 (6) E törvénynek a Módtv.7. által megállapított 124/A. §-t a folyamatban lévő eljárásokban is alkalmazni kell.
 
 (7) E törvénynek a Módtv.7. által megállapított 123. § (12) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(8) E törvénynek a Módtv.7. által megállapított 21. §-t a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
 
 #### 61. A törvény hivatalos rövid megjelölése
 
