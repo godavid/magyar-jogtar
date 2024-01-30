@@ -364,9 +364,7 @@ az egyes adótörvények módosításáról
 
 #### 18. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-135. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (a továbbiakban: Avt.) 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § A végrehajtási eljárást lefolytató állami adó- és vámhatóság a 10 ezer forintot meghaladó, de a 200 ezer forintot meg nem haladó követelés esetében – az Európai Uniót megillető hagyományos saját forrásból fennálló követelés, a pénzösszegben kifejezett vagyonelkobzás és a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság kivételével – kizárólag hatósági átutalási megbízást és jövedelemletiltást foganatosít a behajtás érdekében. Ezek eredménytelensége esetén a tartozást – alakszerű döntés meghozatala nélkül – ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítheti és a tartozás végrehajthatóvá válásáig, illetve a végrehajtáshoz való jog elévüléséig ezen a jogcímen tarthatja nyilván.”
+#### 135. §
 
 #### 136. §
 
@@ -398,13 +396,7 @@ az egyes adótörvények módosításáról
 
 (2)
 
-150. § (1)
-
-(2)
-
-(3) Az Avt. 131/I. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) E törvénynek a Módtv.7. által megállapított 21. §-t a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.”
+#### 150. §
 
 #### 151. §
 
