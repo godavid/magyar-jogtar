@@ -134,9 +134,9 @@ egyes közigazgatási tárgyú törvények módosításáról
 
 #### 48. §
 
-#### 19.
+#### 19. Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvény módosítása
 
-#### 49. §
+49. § Nem lép hatályba az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvény 18. §-a.
 
 #### 20. Az igazgatási szünetről szóló 2023. évi XXVI. törvény módosítása
 

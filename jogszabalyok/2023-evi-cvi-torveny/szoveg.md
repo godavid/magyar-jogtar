@@ -74,7 +74,9 @@ a sporttal összefüggő törvények módosításáról
 
 (2)
 
-(3)
+(3) A sportról szóló 2004. évi I. törvény 61. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése, valamint a (2a) bekezdés szerinti bejelentési kötelezettség elmulasztása miatt közigazgatási bírságot szabhat ki.”
 
 (4)
 
@@ -128,7 +130,7 @@ a sporttal összefüggő törvények módosításáról
 
 6.
 
-7.
+7. 22. § (4) és (5) bekezdésében az „fa) és fb) alpontja” szövegrész helyébe az „fa), fb) és fh) alpontja” szöveg,
 
 8.
 

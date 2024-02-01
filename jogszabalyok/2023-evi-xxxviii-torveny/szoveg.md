@@ -282,9 +282,9 @@ a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartás
 
 #### 109. §
 
-#### 32.
+#### 32. Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény módosítása
 
-#### 110. §
+110. § Nem lép hatályba a Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény 60. alcíme.
 
 #### 33. Záró rendelkezések
 
