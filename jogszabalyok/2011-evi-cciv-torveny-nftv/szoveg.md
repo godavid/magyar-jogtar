@@ -3394,26 +3394,26 @@ vonatkozó szabályait kell alkalmazni.
 | 41 |  |  | Milton Friedman Egyetem, Budapest |
 | 42 |  |  | Neumann János Egyetem, Kecskemét |
 | 43 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 44 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 45 | III. FŐISKOLÁK |  |  |
-| 46 |  | III/A. Állami főiskolák |  |
-| 47 |  |  | Eötvös József Főiskola, Baja |
-| 48 |  | III/B. Nem állami főiskolák |  |
-| 49 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 50 |  |  | Adventista Teológiai Főiskola, Pécel |
-| 51 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 52 |  |  | Baptista Teológiai Akadémia, Budapest |
-| 53 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 54 |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 55 |  |  | Budapest Cirkuszművészeti és Kortárstánc Főiskola, Budapest |
-| 56 |  |  | Egri Hittudományi Főiskola, Eger |
-| 57 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 58 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 59 |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 60 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 61 |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 62 |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 63 |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
+| 44 |  |  | Sárospataki Református Hittudományi Egyetem, Sárospatak |
+| 45 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
+| 46 | III. FŐISKOLÁK |  |  |
+| 47 |  | III/A. Állami főiskolák |  |
+| 48 |  |  | Eötvös József Főiskola, Baja |
+| 49 |  | III/B. Nem állami főiskolák |  |
+| 50 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
+| 51 |  |  | Adventista Teológiai Főiskola, Pécel |
+| 52 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
+| 53 |  |  | Baptista Teológiai Akadémia, Budapest |
+| 54 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
+| 55 |  |  | Brenner János Hittudományi Főiskola, Győr |
+| 56 |  |  | Budapest Cirkuszművészeti és Kortárstánc Főiskola, Budapest |
+| 57 |  |  | Egri Hittudományi Főiskola, Eger |
+| 58 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
+| 59 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
+| 60 |  |  | Pápai Református Teológiai Akadémia, Pápa |
+| 61 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
+| 62 |  |  | Pünkösdi Teológiai Főiskola, Budapest |
+| 63 |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
 | 64 |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
 | 65 |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
 | 66 |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
