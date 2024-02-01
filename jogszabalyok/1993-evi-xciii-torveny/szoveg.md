@@ -377,6 +377,8 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Az (1) bekezdésben előírt ismeretek megszerzéséig a munkavállaló önállóan nem foglalkoztatható.
 
+(2a) A foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott tevékenységek, munkakörök, álláshelyek esetében az (1) bekezdés a) és b) pontja szerinti oktatás a foglalkoztatáspolitikáért felelős miniszter által rendeletben meghatározott általános oktatási tematikának a munkavállaló részére történő átadásával is teljesíthető. Az átadás megtörténhet az oktatási tematikának a munkavállaló számára elérhető belső elektronikus hálózaton történő közzétételével is.
+
 (3) Az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.
 
 (4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
