@@ -286,13 +286,7 @@ Magyarország 2024. évi központi költségvetésének megalapozásáról
 
 #### 106. §
 
-107. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
-
-1. 2. § 21. pontjában az „a nehéz” szövegrész helyébe az „az autóbusz, a nehéz” szöveg, és
-
-2.
-
-lép.
+#### 107. §
 
 #### 31. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény módosítása
 
@@ -320,15 +314,7 @@ lép.
 
 #### 115. §
 
-116. § A településkép védelméről szóló 2016. évi LXXIV. törvény
-
-1. 11/C. § (1) bekezdésében a „11/B. § (1) és (2) bekezdésében” szövegrész helyébe a „11/A. § (5) bekezdésében, a 11/B. § (1) és (2) bekezdésében” szöveg,
-
-2.
-
-3.
-
-lép.
+#### 116. §
 
 #### 36. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
