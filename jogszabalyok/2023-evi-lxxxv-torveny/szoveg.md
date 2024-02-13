@@ -86,7 +86,7 @@ az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságán
 
 #### 34. §
 
-#### 35. §
+35. § Hatályát veszti a büntetőeljárásról szóló 2017. évi XC. törvény 490. § (1) bekezdésében az „ , a büntetőeljárásban alkalmazandó” szövegrész.
 
 #### 9. A Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény módosítása
 
