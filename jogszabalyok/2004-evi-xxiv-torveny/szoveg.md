@@ -465,7 +465,7 @@ jogosultak.
 
 (9) A polgári célú pirotechnikai tevékenységnek meg kell felelnie a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzat előírásait szabályozó kormányrendeletnek.
 
-(10) Az engedély olyan vállalkozásnak adható, amelynek a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy az e címben meghatározott követelménynek megfelelő pirotechnikus.
+(10) Az engedély olyan vállalkozásnak adható, amelynek a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy rendelkezik a polgári célú pirotechnikai tevékenység feltételeként a jogszabályban előírt képesítéssel.
 
 (11) Az engedélyezési eljárásokért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -479,7 +479,7 @@ jogosultak.
 - b) a vállalkozásnak, amelynek tagja vagy tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg,
 - c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a robbanóanyaggal vagy pirotechnikai termékkel kapcsolatos tevékenység gyakorlásától eltiltott.
 
-(2) Nem foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
+(2) Nem végezhet polgári célú pirotechnikai tevékenységet, nem lehet a vállalkozásnak a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy foglalkoztatottja, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
 
 - a) büntetett előéletű, vagy a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
 - b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította
@@ -507,7 +507,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 (3) A vállalkozás jogosulatlanul végzi tevékenységét, ha azt
 
 - a) engedély hiányában folytatja,
-- b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő pirotechnikussal, vagy pirotechnikusi végzettséggel nem rendelkező személlyel végezteti.
+- b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő, illetve az adott polgári célú pirotechnikai tevékenység feltételeként a jogszabályban előírt képesítéssel nem rendelkező személlyel végezteti.
 
 (4)
 
@@ -529,8 +529,10 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 18/H. § A hatóság visszautasítja
 
-- a) az 1–3. pirotechnikai osztályba tartozó – maximum 20 kg összes nettó hatóanyag-tartalmú – tűzijáték terméknek a jogszabály rendelkezése alapján előzetes bejelentési kötelezettség mellett a felhasználási engedély benyújtására jogosult vállalkozás felelős pirotechnikusa részéről történő engedély nélküli felhasználására vonatkozó bejelentést, valamint
-- b) az 1. és a 2. pirotechnikai osztályba tartozó tűzijáték termék forgalmazására vonatkozó előzetes bejelentést, ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztül terjesztették elő.
+- a) az 1–3. pirotechnikai osztályba tartozó – maximum 20 kg összes nettó hatóanyag-tartalmú – tűzijáték terméknek a jogszabály rendelkezése alapján előzetes bejelentési kötelezettség mellett a felhasználási engedély benyújtására jogosult vállalkozás esetében a felelős pirotechnikus feladatainak az ellátására jogosult személy részéről történő engedély nélküli felhasználására vonatkozó bejelentést, valamint
+- b) az 1. és a 2. pirotechnikai osztályba tartozó tűzijáték termék forgalmazására vonatkozó előzetes bejelentést,
+
+ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztül terjesztették elő.
 
 18/I. § Az egyes polgári célú pirotechnikai termékek magánszemélyek általi használatának szabályait a Kormány rendeletben állapítja meg.
 
@@ -587,11 +589,12 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 - a) a lőfegyver, lőszer hatósági tárolásának, leadásának, értékesítésének, valamint megsemmisítésének a részletes szabályait, továbbá a lőfegyverek központi nyilvántartásába történő elektronikus adattovábbítás technikai feltételeit,
 - b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
+- c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét;
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:
 
 - a) a fegyverekkel kapcsolatos tevékenységek engedélyezése igazgatási szolgáltatási és vizsgadíjának mértékét, a díjak beszedésének, kezelésének, nyilvántartásának, a fegyverek, lőszerek rendőrségi tárolása és megsemmisítése során felmerült költségek megállapításának szabályait,
-- b) a polgári célú pirotechnikai tevékenységek engedélyezése igazgatási szolgáltatási díjának mértékét, a díjak beszedésének és kezelésének szabályait.
+- b) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítés megszerzéséhez kapcsolódó képzési tevékenység költségeire és az ezek megtérítésére vonatkozó szabályokat, valamint a polgári célú pirotechnikai tevékenységek engedélyezése igazgatási szolgáltatási díjának mértékét, a díjak beszedésének és kezelésének szabályait.
 
 (4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben meghatározza a fegyvertartáshoz, illetve a fegyver jogszerű használatához szükséges egészségi alkalmasság feltételeit és vizsgálatának szabályait.
 
