@@ -72,13 +72,34 @@ a közbiztonság megerősítése és a migráció elleni küzdelem érdekében s
 
 #### 25. §
 
-#### 26. §
+26. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 18/B. § (10) bekezdése helyébe a következő rendelkezés lép:
 
-#### 27. §
+„(10) Az engedély olyan vállalkozásnak adható, amelynek a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy rendelkezik a polgári célú pirotechnikai tevékenység feltételeként a jogszabályban előírt képesítéssel.”
 
-#### 28. §
+27. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 18/E. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 29. §
+(A vállalkozás jogosulatlanul végzi tevékenységét, ha azt)
+
+„b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő, illetve az adott polgári célú pirotechnikai tevékenység feltételeként a jogszabályban előírt képesítéssel nem rendelkező személlyel végezteti.”
+
+28. § (1) A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (2) bekezdése a következő c) ponttal egészül ki:
+
+(Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben meghatározza:)
+
+„c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét;”
+
+(2) A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:)
+
+„b) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítés megszerzéséhez kapcsolódó képzési tevékenység költségeire és az ezek megtérítésére vonatkozó szabályokat, valamint a polgári célú pirotechnikai tevékenységek engedélyezése igazgatási szolgáltatási díjának mértékét, a díjak beszedésének és kezelésének szabályait.”
+
+29. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény
+
+- a) 18/D. § (2) bekezdés nyitó szövegrészében a „foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet” szövegrész helyébe a „végezhet polgári célú pirotechnikai tevékenységet, nem lehet a vállalkozásnak a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy foglalkoztatottja” szöveg,
+- b) 18/H. § a) pontjában a „felelős pirotechnikusa” szövegrész helyébe az „esetében a felelős pirotechnikus feladatainak az ellátására jogosult személy” szöveg
+
+lép.
 
 #### 11.
 
