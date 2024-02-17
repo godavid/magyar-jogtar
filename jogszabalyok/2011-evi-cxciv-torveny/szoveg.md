@@ -493,7 +493,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 (3) Törvény felhatalmazása alapján
 
 - a) a Magyar Nemzeti Bank elnöke, a Nemzeti Média- és Hírközlési Hatóság elnöke, a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke, a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke és az Országos Atomenergia Hivatal elnöke rendeletben igazgatási szolgáltatási díjat, pótdíjat,
-- b) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke rendeletben felügyeleti díjat
+- b) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke és a Nemzeti Média- és Hírközlési Hatóság elnöke rendeletben felügyeleti díjat
 
 állapíthat meg.
 

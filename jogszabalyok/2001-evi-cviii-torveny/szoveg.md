@@ -31,47 +31,45 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
 
-(4) E törvény hatálya – a 2. § m) pont, 3/B. §, 4/A. § valamint 13/B. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződéses nyilatkozatokat is.
+(4) E törvény hatálya – a 2. § 1. pont, 3/B. §, 4/A. § valamint 13/B. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződéses nyilatkozatokat is.
 
 ### Értelmező rendelkezések
 
 2. § E törvény alkalmazásában:
 
-- a) Elektronikus kereskedelmi szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás, amelynek célja valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt és az értékpapírt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog (a továbbiakban együtt: áru) üzletszerű értékesítése, beszerzése, cseréje vagy más módon történő igénybevétele;
-- b) Elektronikus út: elektronikus adatfeldolgozást, -tárolást, illetőleg -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása;
-- c) Az Európai Gazdasági Térség tagállama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
-- d) Igénybevevő: az a természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet, aki/amely információs társadalommal összefüggő szolgáltatást vesz igénybe;
-- e) Információ: bármely, elektronikus úton feldolgozható, tárolható, továbbítható adat, jel, kép tekintet nélkül arra, hogy annak tartalma jogi védelemben részesül-e;
-- f) Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
-- g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybe vevők számára kívánják elérhetővé tenni; továbbá az m) pont szerinti alkalmazásszolgáltató valamennyi olyan információs társadalommal összefüggő szolgáltatása, amely Magyarországon elérhető, függetlenül attól, hogy az alkalmazásszolgáltató Magyarországon letelepedett, vagy bármilyen formában engedélyezett-e, vagy attól, hogy a hozzáférés során akár a szolgáltató, akár a felhasználó egyértelműen azonosítható-e.
-- h) Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
-- i) Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
-- j) bejelentés-köteles szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás – ide nem értve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. § (2) bekezdésének a) és b) pontja hatálya alá tartozók által nyújtott szolgáltatásokat –, amely
-  - ja) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv 4. cikke (1) bekezdés a) és b) pontjában meghatározott fogyasztók, illetve kereskedők számára lehetővé teszi, hogy az online piactér weboldalán vagy valamely kereskedőnek az online piactér által nyújtott számítástechnikai szolgáltatásokat felhasználó weboldalán keresztül online adásvételi vagy szolgáltatási szerződéseket kössenek (online piactér),
-  - jb) az l) pont ld) alpontja szerinti szolgáltatás,
-  - jc) távoli hozzáférést tesz lehetővé a többek között hálózati funkciókat, adattárolást, alkalmazások, szolgáltatások futtatását biztosító számítástechnikai megoldásokhoz (felhőalapú számítástechnikai szolgáltatás).
-- k) Szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet;
-- l) Közvetítő szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltató, amely
-  - la) az igénybe vevő által biztosított információt távközlő hálózaton továbbítja, vagy a távközlő hálózathoz hozzáférést biztosít (egyszerű adatátvitel és hozzáférés-biztosítás);
-  - lb) az igénybe vevő által biztosított információt távközlő hálózaton továbbítja, és az alapvetően a más igénybe vevők kezdeményezésére történő információtovábbítás hatékonyabbá tételét szolgálja (gyorsítótárolás);
-  - lc) az igénybe vevő által biztosított információt tárolja (tárhelyszolgáltatás);
-  - ld) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás);
-  - le) alkalmazásszolgáltató;
-  - lf) videómegosztóplatform-szolgáltató.
-- m) Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi- vagy használat alapú ellenszolgáltatás fejében vagy ingyenes formában.
-- n) Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
-- o) Videómegosztóplatform-szolgáltatás: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 203. § 71a. pontjában meghatározott szolgáltatás;
-- p) Videómegosztóplatform-szolgáltató: az Mttv. 203. § 71b. pontjában meghatározott szolgáltató;
-- q) Felhasználó által létrehozott videó: az Mttv. 203. § 10a. pontjában meghatározott videó;
-- r) Kereskedelmi közlemény: az Mttv. 203. § 20. pontjában meghatározott közlemény;
-- s) Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
-- t) Vállalkozás: a természetes személy, jogi személy, jogi személyiség nélküli szervezet – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is –, aki, illetve amely önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
-- v) Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
-- w) Anyavállalat: olyan vállalat, amely egy vagy több leányvállalat felett kontrollt gyakorol;
-- x) Leányvállalat: olyan vállalat, amely felett egy anyavállalat – a legfelső szintű anyavállalat leányvállalatait is ideértve – kontrollt gyakorol;
-- y) Vállalatcsoport: egy anyavállalat, annak minden leányvállalata, valamint minden további olyan vállalat, amely ezekkel gazdasági és jogi szervezeti kapcsolatban áll.
+- 1. Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi vagy használatalapú ellenszolgáltatás fejében vagy ingyenes formában;
+- 2. Anyavállalat: olyan vállalat, amely egy vagy több leányvállalat felett kontrollt gyakorol;
+- 3. Bejelentés-köteles szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás – ide nem értve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. § (2) bekezdésének a) és b) pontja hatálya alá tartozók által nyújtott szolgáltatásokat –, amely
+  - a) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv 4. cikke (1) bekezdésének a) és b) pontjában meghatározott fogyasztók, illetve kereskedők számára lehetővé teszi, hogy az online piactér weboldalán vagy valamely kereskedőnek az online piactér által nyújtott számítástechnikai szolgáltatásokat felhasználó weboldalán keresztül online adásvételi vagy szolgáltatási szerződéseket kössenek (online piactér),
+  - b) a 13. pont d) alpontja szerinti szolgáltatás,
+  - c) távoli hozzáférést tesz lehetővé a többek között hálózati funkciókat, adattárolást, alkalmazások, szolgáltatások futtatását biztosító számítástechnikai megoldásokhoz (felhőalapú számítástechnikai szolgáltatás);
+- 4. Elektronikus kereskedelmi szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás, amelynek célja valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt és az értékpapírt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog (a továbbiakban együtt: áru) üzletszerű értékesítése, beszerzése, cseréje vagy más módon történő igénybevétele;
+- 5. Elektronikus út: elektronikus adatfeldolgozást, -tárolást, illetve -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása;
+- 6. Európai Gazdasági Térség tagállama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
+- 7. Felhasználó által létrehozott videó: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 203. § 10a. pontjában meghatározott videó;
+- 8. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
+- 9. Igénybe vevő: az a természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet, aki, vagy amely információs társadalommal összefüggő szolgáltatást vesz igénybe;
+- 10. Információ: bármely, elektronikus úton feldolgozható, tárolható, továbbítható adat, jel, kép tekintet nélkül arra, hogy annak tartalma jogi védelemben részesül-e;
+- 11. Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
+- 12. Kereskedelmi közlemény: az Mttv. 203. § 20. pontjában meghatározott közlemény;
+- 13. Közvetítő szolgáltató: a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet (a továbbiakban: DSA rendelet) 3. cikk g) és j) pontjában meghatározott valamely szolgáltatást nyújtó, az alábbiakban felsorolt szolgáltató:
+  - a) egyszerű továbbítást nyújtó szolgáltató: DSA rendelet 3. cikk g) pontjának i) alpontja szerinti szolgáltatást nyújtó szolgáltató,
+  - b) gyorsítótárazást nyújtó szolgáltató: DSA rendelet 3. cikk g) pontjának ii) alpontja szerinti szolgáltatást nyújtó szolgáltató,
+  - c) tárhelyszolgáltatást nyújtó szolgáltató: DSA rendelet 3. cikk g) pontjának iii) alpontja szerinti szolgáltatást nyújtó szolgáltató,
+  - d) online keresőprogram-szolgáltató: DSA rendelet 3. cikk j) pontja szerinti szolgáltatást nyújtó szolgáltató;
+- 14. Leányvállalat: olyan vállalat, amely felett egy anyavállalat – a legfelső szintű anyavállalat leányvállalatait is ideértve – kontrollt gyakorol;
+- 15. Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
+- 16. Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, amelyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybe vevők számára kívánják elérhetővé tenni; továbbá az 1. pont szerinti alkalmazásszolgáltató valamennyi olyan információs társadalommal összefüggő szolgáltatása, amely Magyarországon elérhető, függetlenül attól, hogy az alkalmazásszolgáltató Magyarországon letelepedett, vagy bármilyen formában engedélyezett-e, vagy attól, hogy a hozzáférés során akár a szolgáltató, akár a felhasználó egyértelműen azonosítható-e;
+- 17. Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
+- 18. Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
+- 19. Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
+- 20. Szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet;
+- 21. Vállalatcsoport: egy anyavállalat, annak minden leányvállalata, valamint minden további olyan vállalat, amely ezekkel gazdasági és jogi szervezeti kapcsolatban áll;
+- 22. Vállalkozás: a természetes személy, jogi személy, jogi személyiség nélküli szervezet – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is –, aki, illetve amely önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
+- 23. Videómegosztóplatform-szolgáltatás: az Mttv. 203. § 71a. pontjában meghatározott szolgáltatás;
+- 24. Videómegosztóplatform-szolgáltató: az Mttv. 203. § 71b. pontjában meghatározott szolgáltató.
 
-2/A. §
+#### 2/A. §
 
 ### Az előzetes engedélyezést kizáró elv
 
@@ -114,13 +112,13 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
   - ga) annak a szakmai érdek-képviseleti szervnek (kamarának) a megnevezését, amelynek a szolgáltató akár kötelező előírás alapján, akár önkéntesen tagja;
   - gb) a természetes személy szolgáltató szakképzettségének, illetve szakmai, tudományos fokozatának, valamint annak a tagállamnak a megjelölését, ahol ezt a szakképzettséget, illetve fokozatot megszerezte;
   - gc) hivatkozást a szabályozott szakma gyakorlásának a szolgáltató letelepedési helye szerinti államban alkalmazandó szakmai szabályaira, és az azokhoz való hozzáférés módjára,
-- h) a szolgáltató részére a tárhelyet biztosító, a 2. § l) pont lc) alpontjában meghatározott szolgáltató székhelyét, telephelyét, az elérhetőségére vonatkozó adatokat, különösen az igénybe vevőkkel való kapcsolattartásra szolgáló, rendszeresen használt elektronikus levelezési címét, kivéve, ha a szolgáltató részére nyújtott tárhelyszolgáltatás jellegéből adódóan ezek az adatok egyébként is megismerhetőek.
+- h) a szolgáltató részére a tárhelyet biztosító, a 2. § 13. pont c) alpontjában meghatározott szolgáltató székhelyét, telephelyét, az elérhetőségére vonatkozó adatokat, különösen az igénybe vevőkkel való kapcsolattartásra szolgáló, rendszeresen használt elektronikus levelezési címét, kivéve, ha a szolgáltató részére nyújtott tárhelyszolgáltatás jellegéből adódóan ezek az adatok egyébként is megismerhetőek.
 
 ### A kiskorúak védelme és a Gyermekvédelmi Internet-kerekasztal
 
 4/A. § (1) A szolgáltató által közzétett – a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti médiatartalomnak nem minősülő – olyan információ, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, csak az információt tartalmazó aloldalon az információ megjelenítése előtt közzétett, a kiskorúak lehetséges veszélyeztetéséről szóló tájékoztatást tartalmazó figyelmeztető jelzéssel, továbbá az aloldal forráskódjában szereplő olyan azonosítókkal tehető közzé, amelyek utalnak a tartalom kategóriájára, és amelyek az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 149/A. § (1) bekezdése szerinti szűrőszoftverek (a továbbiakban: szűrőszoftver) által felismerhetők.
 
-(2) Az (1) bekezdésben foglalt rendelkezés általános érvényesülését a Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) kíséri figyelemmel, emellett ösztönzi és támogatja a médiatartalom-szolgáltatások és az információs társadalommal összefüggő szolgáltatások terén a kiskorúak védelmét szolgáló egyéb jogszabályi előírások – a 2. § l) pont la)–ld) alpontjában meghatározott közvetítő szolgáltatók, valamint a tartalomszolgáltatók szakmai szervezetei önszabályozó tevékenysége által támogatott – hatályosulását.
+(2) Az (1) bekezdésben foglalt rendelkezés általános érvényesülését a Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) kíséri figyelemmel, emellett ösztönzi és támogatja a médiatartalom-szolgáltatások és az információs társadalommal összefüggő szolgáltatások terén a kiskorúak védelmét szolgáló egyéb jogszabályi előírások – a szolgáltatók, valamint a tartalomszolgáltatók szakmai szervezetei önszabályozó tevékenysége által támogatott – hatályosulását.
 
 (3) A Kerekasztalhoz bárki fordulhat az (1) bekezdésben foglalt rendelkezés vélelmezett megsértése esetén. A Kerekasztal az ilyen bejelentéseket megvizsgálva, azok általános tapasztalatait a (2) bekezdés szerinti tevékenysége során felhasználja.
 
@@ -153,6 +151,8 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 4/D. § (1) A Kerekasztal a médiatartalom-szolgáltatók, az elektronikus kereskedelmi szolgáltatók és az elektronikus hírközlési szolgáltatók jogkövető magatartását elősegítő ajánlások, állásfoglalások kiadására jogosult. A Kerekasztal feladata továbbá a kiskorúak és szüleik médiatudatosságát növelő intézkedések kezdeményezése.
 
 (2) A Kerekasztal a hozzá beérkezett bejelentések alapján jogosult egyedi ügyeket is megvizsgálni és azok általánosított tapasztalatai alapján ajánlást vagy állásfoglalást kiadni.
+
+(2a) Amennyiben a (2) bekezdés szerinti bejelentés az internetes közvetítő szolgáltatások egyes szabályairól szóló 2023. évi CIV. törvény (a továbbiakban: Iszt.) hatálya alá tartozó szolgáltatással kapcsolatos, a Kerekasztal tájékoztatja a bejelentőt arról, hogy bejelentése az Iszt. szerinti peren kívüli vitarendezési testületeknél is előterjeszthető.
 
 (3) Ha a szolgáltató a Kerekasztal ajánlásában vagy állásfoglalásában foglaltakat figyelmen kívül hagyja, vagy azoknak nem tesz eleget, a Kerekasztal
 
@@ -221,55 +221,40 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 7. § (1) A szolgáltató felel az általa rendelkezésre bocsátott, jogszabályba ütköző tartalmú információért.
 
-(2) A közvetítő szolgáltató a más által rendelkezésre bocsátott, a közvetítő szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatással továbbított, tárolt vagy hozzáférhetővé tett információért – a 8–11. §-okban meghatározott feltételek fennállása esetén – nem felel.
+(2) A 2. § 13. pont a)–c) alpontja szerinti közvetítő szolgáltatók tekintetében további, a felelősségre és a felelősség alóli mentesülésre vonatkozó szabályokat a DSA rendelet tartalmazza.
 
-(3) A közvetítő szolgáltató nem köteles ellenőrizni az általa csak továbbított, tárolt, hozzáférhetővé tett információt, továbbá nem köteles olyan tényeket vagy körülményeket keresni, amelyek jogellenes tevékenység folytatására utalnak.
-
-(4) A 13. § (1) bekezdése szerinti jogsértés esetében a 2. § lb)–ld) pontjaiban meghatározott közvetítő szolgáltató – a (2) bekezdésben említetteken túlmenően – akkor nem felel a más által rendelkezésre bocsátott, az általa nyújtott információs társadalommal összefüggő szolgáltatással továbbított, tárolt vagy hozzáférhetővé tett, jogszabályba ütköző tartalmú információval harmadik személynek okozott jogsérelemért, ha lefolytatja a 13. § szerinti eljárást.
-
-(5) A közvetítő szolgáltatónak a (2) bekezdés alapján történő mentesülése nem zárja ki azt, hogy az a személy, akit a jogellenes tartalmú információ révén sérelem ért, a jogsértésből fakadó igényei közül a jogsértés megelőzésére vagy abbahagyására irányuló követeléseit a jogsértő fél mellett a közvetítő szolgáltatóval szemben is bíróság útján érvényesítse.
-
-(6) A közvetítő szolgáltató nem felel az információ eltávolítása vagy hozzáférés nem biztosítása révén keletkezett jogsérelemért, amennyiben a 7–11. § vagy a 13. § szerint járt el.
-
-8. § (1) A 2. § l) pont la) alpontjában, valamint m) pontjában meghatározott közvetítő szolgáltató akkor nem felel a továbbított információért, ha
-
-- a) nem a szolgáltató kezdeményezi az információ továbbítását;
-- b) nem a szolgáltató választja meg a továbbítás címzettjét, és
-- c) a továbbított információt nem a szolgáltató választja ki, illetve azt nem változtatja meg.
-
-(2) Az információtovábbítás és a hozzáférés (1) bekezdés szerinti lehetővé tétele magában foglalja a továbbított információ közbenső és átmeneti jellegű automatikus tárolását is, amennyiben ez kizárólag az információtovábbítás lebonyolítására szolgál és az információt nem tárolják hosszabb ideig, mint az a továbbításhoz szükséges.
-
-9. § A 2. § lb) pontjában meghatározott közvetítő szolgáltató akkor nem felel az információ közbenső és átmeneti jellegű automatikus tárolásával okozott kárért, ha
-
-- a) a szolgáltató nem változtatja meg az információt;
-- b) a tárolt információhoz való hozzáférés megfelel az információ hozzáférésével kapcsolatban támasztott feltételeknek;
-- c) a közbenső tárolóban az információ frissítése megfelel a széleskörűen elismert és alkalmazott információfrissítési gyakorlatnak;
-- d) a közbenső tárolás nem zavarja meg az információ felhasználásával kapcsolatos adatok kinyerésére szolgáló, széleskörűen elismert és alkalmazott technológia jogszerű használatát; és
-- e) a szolgáltató haladéktalanul eltávolítja az általa tárolt információt vagy nem biztosítja az ahhoz való hozzáférést, amint tudomást szerzett arról, hogy az információt az adatátvitel eredeti kiindulási pontján a hálózatról eltávolították, vagy az ahhoz való hozzáférés biztosítását megszüntették, illetve, hogy a bíróság vagy más hatóság az eltávolítást vagy a hozzáférés megtiltását elrendelte.
-
-10. § A 2. § lc) pontjában meghatározott közvetítő szolgáltató akkor nem felel az igénybe vevő által biztosított információért, ha
-
-- a) nincs tudomása az információval kapcsolatos jogellenes magatartásról, vagy arról, hogy az információ bárkinek a jogát vagy jogos érdekét sérti;
-- b) amint az a) pontban foglaltakról tudomást szerzett, haladéktalanul intézkedik az információ eltávolításáról, vagy a hozzáférést nem biztosítja.
-
-11. § A 2. § ld) pontjában meghatározott közvetítő szolgáltató akkor nem felel az információ 2. § ld) pontja szerinti hozzáférhetővé tételével okozott kárért, ha
+(3) A 2. § 13. pont d) alpontjában meghatározott közvetítő szolgáltató akkor nem felel az általa nyújtott szolgáltatás keretében az információ hozzáférhetővé tételével okozott kárért, ha
 
 - a) nincs tudomása az információval kapcsolatos jogellenes magatartásról, vagy arról, hogy az információ bárkinek a jogát vagy jogos érdekét sérti;
 - b) amint az a) pontban foglaltakról tudomást szerzett, haladéktalanul intézkedik az elérési információ eltávolításáról vagy a hozzáférés megtiltásáról.
 
-12. § A 10–11. §-ok rendelkezései alapján a szolgáltató nem mentesül a felelősség alól, ha az igénybevevő a szolgáltató megbízásából vagy utasításai alapján cselekszik.
+(4)
+
+(5) A közvetítő szolgáltatónak a DSA rendelet 4–6. cikk alapján történő mentesülése nem zárja ki azt, hogy az a személy, akit a jogellenes tartalmú információ révén sérelem ért, a jogsértésből fakadó igényei közül a jogsértés megelőzésére vagy abbahagyására irányuló követeléseit a jogsértő fél mellett a közvetítő szolgáltatóval szemben is bíróság útján érvényesítse.
+
+(6)
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
 
 ### Eljárás elektronikus úton közzétett jogellenes adat ideiglenes vagy végleges hozzáférhetetlenné tétele érdekében
 
-12/A. § (1) Ha büntetőeljárás során a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelte el, a 2. § lc) alpontjában meghatározott szolgáltató az elrendelésről szóló határozat kézhezvételétől számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat visszaállítható módon történő eltávolításáról.
+12/A. § (1) Ha büntetőeljárás során a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelte el, a 2. § 13. pont c) alpontjában meghatározott szolgáltató az elrendelésről szóló határozat kézhezvételétől számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat visszaállítható módon történő eltávolításáról.
 
-(2) Ha büntetőeljárás során a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét rendelte el, a 2. § lc) alpontjában meghatározott szolgáltató az elrendelésről szóló határozatnak a bírósági végrehajtó általi átadásától számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat végleges módon történő eltávolításáról.
+(2) Ha büntetőeljárás során a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét rendelte el, a 2. § 13. pont c) alpontjában meghatározott szolgáltató az elrendelésről szóló határozatnak a bírósági végrehajtó általi átadásától számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat végleges módon történő eltávolításáról.
 
 (3) Az ideiglenes vagy végleges hozzáférhetetlenné tétel teljesítésére kötelezett köteles a bíróság megnevezésével és a határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalom eltávolításának vagy a tartalomhoz hozzáférés megakadályozásának a jogalapjáról.
 
 (4) Ha a bíróság az ideiglenes hozzáférhetetlenné tételt megszünteti, vagy a büntetőeljárás befejezésekor az elektronikus adat visszaállítására kötelezi a szolgáltatót, a szolgáltató az erről szóló határozat kézhezvételétől számított egy munkanapon belül az adatot ismételten hozzáférhetővé teszi.
 
-(5) A 2. § lc) alpontjában meghatározott szolgáltatóval szemben a bíróság az (1), (2) és (4) bekezdésben meghatározott kötelezettség elmulasztása miatt a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot, illetve a büntetések és az intézkedések végrehajtásáról szóló törvényben meghatározott mértékű pénzbírságot szabhat ki.
+(5) A 2. § 13. pont c) alpontjában meghatározott szolgáltatóval szemben a bíróság az (1), (2) és (4) bekezdésben meghatározott kötelezettség elmulasztása miatt a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot, illetve a büntetések és az intézkedések végrehajtásáról szóló törvényben meghatározott mértékű pénzbírságot szabhat ki.
 
 ### Az online terrorista tartalom terjesztésével szembeni eljárás szabályai
 
@@ -294,7 +279,7 @@ terjedő összegű bírságot szab ki.
 
 ### Értesítés a jogsértő információs társadalommal összefüggő szolgáltatásról
 
-13. § (1) Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát, továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – sérti (a továbbiakban: jogosult), teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével felhívhatja a 9–11. §-okban meghatározott szolgáltatót a jogát sértő tartalmú információ eltávolítására.
+13. § (1) Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát, továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – sérti (a továbbiakban: jogosult), teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével felhívhatja a 2. § 13. pont b)–d) alpontjában meghatározott szolgáltatót a jogát sértő tartalmú információ eltávolítására.
 
 (2) Az értesítésnek tartalmaznia kell:
 
@@ -325,7 +310,7 @@ terjedő összegű bírságot szab ki.
 
 (12) A szolgáltató nem felelős az érintett információ eltávolításának vagy az ahhoz való hozzáférés nem biztosításának eredményes végrehajtásáért, amennyiben az eltávolítás vagy a hozzáférés nem biztosítása során a (4) és (9) bekezdésben meghatározottaknak megfelelően és jóhiszeműen járt el.
 
-(13) Az a kiskorú, akinek személyiségi jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – a megítélése szerint sérti (e § alkalmazásában a továbbiakban: kiskorú jogosult), vagy a cselekvőképtelen kiskorú jogosult esetében a törvényes képviselője (a továbbiakban: törvényes képviselő) teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével, vagy a kiskorú jogosult, illetve törvényes képviselője azonosítására alkalmas más módon, így különösen ajánlott postai küldeményben (e § alkalmazásában a továbbiakban együtt: értesítés) felhívhatja a 2. § l) pont lb)–ld) alpontjában meghatározott szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Korlátozottan cselekvőképes kiskorú jogosult személyiségi jogát sértő tartalmú információ esetén a kiskorú jogosult törvényes képviselője is felhívhatja az értesítéssel a szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Az értesítésben meg kell jelölni annak indokait is, hogy a sérelmezett tartalom miért sérti a kiskorú jogosult személyiségi jogait.
+(13) Az a kiskorú, akinek személyiségi jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – a megítélése szerint sérti (e § alkalmazásában a továbbiakban: kiskorú jogosult), vagy a cselekvőképtelen kiskorú jogosult esetében a törvényes képviselője (a továbbiakban: törvényes képviselő) teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével, vagy a kiskorú jogosult, illetve törvényes képviselője azonosítására alkalmas más módon, így különösen ajánlott postai küldeményben (e § alkalmazásában a továbbiakban együtt: értesítés) felhívhatja a 2. § 13. pont b)–d) alpontjában meghatározott szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Korlátozottan cselekvőképes kiskorú jogosult személyiségi jogát sértő tartalmú információ esetén a kiskorú jogosult törvényes képviselője is felhívhatja az értesítéssel a szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Az értesítésben meg kell jelölni annak indokait is, hogy a sérelmezett tartalom miért sérti a kiskorú jogosult személyiségi jogait.
 
 (14) A (13) bekezdés szerinti jogsértés esetén az eljárást a (2)–(12) bekezdésben foglaltaknak megfelelően kell lefolytatni az alábbi eltérésekkel:
 
@@ -445,7 +430,7 @@ köteles átadni.
 
 ### A videómegosztóplatform-szolgáltatásokra vonatkozó különös szabályok
 
-15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f)–h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
+15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f) és h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
 
 (2) A videómegosztóplatform-szolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni
 
@@ -468,9 +453,10 @@ köteles átadni.
 
 - a) az (5) bekezdés alapján a nyilvántartásba vétel visszavonásának lenne helye,
 - b) a videómegosztóplatform-szolgáltató kérte a nyilvántartásból való törlését,
-- c) a videómegosztóplatform-szolgáltatást a nyilvántartásba vételtől számított egy éven belül nem kezdik meg, vagy a megkezdett szolgáltatást egy évnél hosszabb időre megszakítják,
-- d) a 15/D–15/G. §-ban foglalt követelmények megsértése miatt a Hivatal a videómegosztóplatform-szolgáltatás törlését rendelte el, vagy
-- e) bíróság jogerős határozata elrendelte a videómegosztóplatform-szolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
+- c) a videómegosztóplatform-szolgáltatást a nyilvántartásba vételtől számított hat hónapon belül nem kezdik meg, vagy a megkezdett szolgáltatást hat hónapnál hosszabb időre megszakítják,
+- d) a 15/D–15/G. §-ban foglalt követelmények megsértése miatt a Hivatal a videómegosztóplatform-szolgáltatás törlését rendelte el,
+- e) bíróság jogerős határozata elrendelte a videómegosztóplatform-szolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől, vagy
+- f) a videómegosztóplatform-szolgáltató jogutód nélkül megszűnt.
 
 (7) A videómegosztóplatform-szolgáltatónak tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
 
@@ -493,7 +479,7 @@ köteles átadni.
 
 (5) Ha a videómegosztóplatform-szolgáltató által a nyilvánossághoz eljuttatott tartalom a 13. § (13) bekezdése szerinti kiskorú jogosult ott meghatározott jogát sérti, a kiskorú jogosult vagy cselekvőképtelen kiskorú jogosult esetében a törvényes képviselője felhívhatja a videómegosztóplatform-szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalom eltávolítására. Az értesítésre és az eljárásra a 13. § (13)–(15) bekezdését kell alkalmazni.
 
-(6) A 7. § alkalmazása során a videómegosztóplatform-szolgáltatóra a 10. §-ban szabályozott, a 2. § l) pont lc) alpontjában meghatározott közvetítő szolgáltatóra vonatkozó szabályokat kell alkalmazni. E rendelkezés nem érinti a videómegosztóplatform-szolgáltató 15/D–15/G. §-ban foglalt kötelezettségeit.
+(6) A 7. § alkalmazása során a videómegosztóplatform-szolgáltatóra a DSA rendelet 6. cikkben szabályozott, a 2. § 13. pont c) alpontjában meghatározott közvetítő szolgáltatóra vonatkozó szabályokat kell alkalmazni. E rendelkezés nem érinti a videómegosztóplatform-szolgáltató 15/D–15/G. §-ban foglalt kötelezettségeit.
 
 15/E. § (1) A videómegosztóplatform-szolgáltató a felhasználók és a szolgáltatást igénybe vevők megfelelő tájékoztatása és a tartalomra vonatkozó követelmények érvényre juttatása érdekében köteles az általános szerződési feltételeibe foglalni a 15/D. § (1) bekezdésében írt eseteket, követelményeket és az azok biztosítását szolgáló, a 15/F. § szerinti intézkedéseket, műszaki megoldásokat.
 
@@ -688,7 +674,7 @@ köteles átadni.
 - a) elrendelheti a jogsértő állapot megszüntetését,
 - b) megtilthatja a jogsértő magatartás további folytatását,
 - c) a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a kéretlen elektronikus hirdetésre vonatkozó rendelkezésekkel, vagy
-- d) felhívhatja a 2. § l) pont la) alpont szerinti közvetítő szolgáltató figyelmét arra, hogy az elektronikus hirdető, az elektronikus hirdetési szolgáltató vagy az elektronikus hirdetés közzétevője a közvetítő szolgáltató által nyújtott előfizetői vagy hálózati szolgáltatást jogszabálysértő elektronikus hirdetés küldésére használja.
+- d) felhívhatja a 2. § 13. pont a) alpontjában szerinti közvetítő szolgáltató figyelmét arra, hogy az elektronikus hirdető, az elektronikus hirdetési szolgáltató vagy az elektronikus hirdetés közzétevője a közvetítő szolgáltató által nyújtott előfizetői vagy hálózati szolgáltatást jogszabálysértő elektronikus hirdetés küldésére használja.
 
 (2) A Hatóság eljárása során ötvenezer forinttól ötszázezer forintig terjedő összegű elektronikus kereskedelmi bírságot szabhat ki. A bírság ismételt jogsértés esetén többször kiszabható.
 
