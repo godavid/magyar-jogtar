@@ -919,7 +919,7 @@ információkat.
 
 ### A tartalommegosztó szolgáltatókra vonatkozó rendelkezések
 
-57/A. § E törvény alkalmazásában tartalommegosztó szolgáltatónak minősül az olyan, az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 2. § k) pontja szerinti szolgáltató, amelynek fő vagy egyik fő célja a szolgáltatás igénybe vevője által feltöltött, jelentős mennyiségű, szerzői jogi védelem alatt álló mű vagy szomszédos jogi teljesítmény
+57/A. § E törvény alkalmazásában tartalommegosztó szolgáltatónak minősül az olyan, az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 2. § 20. pontja szerinti szolgáltató, amelynek fő vagy egyik fő célja a szolgáltatás igénybe vevője által feltöltött, jelentős mennyiségű, szerzői jogi védelem alatt álló mű vagy szomszédos jogi teljesítmény
 
 - a) tárolása,
 - b) nyilvánossághoz közvetítése, ideértve a nyilvánosság számára lehívásra hozzáférhetővé tételét is, és
@@ -929,7 +929,7 @@ információkat.
 
 57/C. § A tartalommegosztó szolgáltató részére a mű vagy szomszédos jogi teljesítmény nyilvánosság számára lehívásra hozzáférhetővé tételére adott engedély kiterjed a szolgáltatást igénybe vevő személyek által az e szolgáltató tartalommegosztó szolgáltatása céljából megvalósított – nem kereskedelmi célú, illetve nem kereskedelmi mértékű bevételt eredményező – felhasználásokra is. Amennyiben a szolgáltatást igénybe vevő szerzi meg a lehívásra hozzáférhetővé tételre vonatkozó engedélyt, annak hatálya a tartalommegosztó szolgáltatóra az igénybe vevőnek engedett felhasználási jog keretein belül kiterjed.
 
-57/D. § A tartalommegosztó szolgáltató által az 57/B. § szerint végzett felhasználás tekintetében nem alkalmazható az Ektv. 10. §-ában meghatározott felelősségkorlátozás.
+57/D. § A tartalommegosztó szolgáltató által az 57/B. § szerint végzett felhasználás tekintetében nem alkalmazható az a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet 6. cikkében meghatározott felelősségkorlátozás.
 
 57/E. § (1) A tartalommegosztó szolgáltató felel a nyilvánosság számára elérhető szolgáltatása keretében az azt igénybe vevő személy által jogosultság nélkül felhasznált mű vagy szomszédos jogi teljesítmény nyilvánosság számára lehívásra hozzáférhetővé tételéért.
 
@@ -1269,7 +1269,7 @@ információkat.
 - a) vezeték útján vagy bármely más eszközzel vagy módon úgy tegyék a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhassák meg, és
 - b) az a) pont szerinti célból elektronikus úton többszörözzék,
 
-amennyiben a felhasználást az Ektv. 2. § k) pontja szerinti szolgáltató valósítja meg.
+amennyiben a felhasználást az Ektv. 2. § 20. pontja szerinti szolgáltató valósítja meg.
 
 (2) A sajtókiadvány kiadóját az (1) bekezdésben meghatározott felhasználásokért – ha a törvény eltérően nem rendelkezik – díjazás illeti meg.
 
