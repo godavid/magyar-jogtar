@@ -2,15 +2,26 @@
 
 az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról
 
-#### 1.
+#### 1. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-#### 1. §
+1. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 52. § (2) bekezdése a következő c) ponttal egészül ki:
 
-#### 2. §
+(A felszámolás kezdő időpontjától számított két év elteltével a felszámolási zárómérleg elkészítése kötelező, kivéve, ha)
 
-#### 3. §
+„c) bűnügyi hitelezői igénybejelentés történik a 79/A. § szerinti olyan felszámolási eljárásban, amelyet nem bűnügyi hitelezői követelés alapján rendeltek el.”
 
-#### 4. §
+2. § A Cstv. 83/W. §-a a következő (13) bekezdéssel egészül ki:
+
+„(13) E törvénynek az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2023. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.1) megállapított 52. § (2) bekezdés c) pontját a Módtv.1 1. alcíme hatálybalépésének időpontjában folyamatban lévő azon felszámolási eljárásokban is alkalmazni kell, amelyekben az állami felszámolót a Módtv.1 1. alcíme hatálybalépését megelőzően kirendelték, de a felszámolási zárómérleget a bíróság részére még nem nyújtották be.”
+
+3. § A Cstv.
+
+- a) 27/C. § (4) bekezdés g) pontjában az „a felszámoló” szövegrész helyébe az „a felszámoló ügyvezetőjének, illetve a felszámoló” szöveg,
+- b) 52. § (2) bekezdés b) pont bc) alpontjában az „eljárások.” szövegrész helyébe az „eljárások, vagy” szöveg
+
+lép.
+
+4. § Hatályát veszti a Cstv. 52. § (2) bekezdés a) pontjában a „vagy” szövegrész.
 
 #### 2. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 

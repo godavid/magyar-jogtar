@@ -319,124 +319,29 @@ sarkalatosnak minősül.
 
 #### 9. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
-26. § A szerzői jogról szóló 1999. évi LXXVI. törvény
-
-- a) 57/A. §-ában és 82/B. § (1) bekezdésében a „2. § k) pontja” szövegrész helyébe a „2. § 20. pontja” szöveg,
-- b) 57/D. §-ában az „Ektv. 10. §-ában” szövegrész helyébe a „a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet 6. cikkében” szöveg
-
-lép.
+#### 26. §
 
 #### 10. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-27. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ekertv.) 2. §-a helyébe a következő rendelkezés lép:
+#### 27. §
 
-„2. § E törvény alkalmazásában:
+#### 28. §
 
-- 1. Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi vagy használatalapú ellenszolgáltatás fejében vagy ingyenes formában;
-- 2. Anyavállalat: olyan vállalat, amely egy vagy több leányvállalat felett kontrollt gyakorol;
-- 3. Bejelentés-köteles szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás – ide nem értve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. § (2) bekezdésének a) és b) pontja hatálya alá tartozók által nyújtott szolgáltatásokat –, amely
-  - a) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv 4. cikke (1) bekezdésének a) és b) pontjában meghatározott fogyasztók, illetve kereskedők számára lehetővé teszi, hogy az online piactér weboldalán vagy valamely kereskedőnek az online piactér által nyújtott számítástechnikai szolgáltatásokat felhasználó weboldalán keresztül online adásvételi vagy szolgáltatási szerződéseket kössenek (online piactér),
-  - b) a 13. pont d) alpontja szerinti szolgáltatás,
-  - c) távoli hozzáférést tesz lehetővé a többek között hálózati funkciókat, adattárolást, alkalmazások, szolgáltatások futtatását biztosító számítástechnikai megoldásokhoz (felhőalapú számítástechnikai szolgáltatás);
-- 4. Elektronikus kereskedelmi szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás, amelynek célja valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt és az értékpapírt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog (a továbbiakban együtt: áru) üzletszerű értékesítése, beszerzése, cseréje vagy más módon történő igénybevétele;
-- 5. Elektronikus út: elektronikus adatfeldolgozást, -tárolást, illetve -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása;
-- 6. Európai Gazdasági Térség tagállama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
-- 7. Felhasználó által létrehozott videó: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 203. § 10a. pontjában meghatározott videó;
-- 8. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
-- 9. Igénybe vevő: az a természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet, aki, vagy amely információs társadalommal összefüggő szolgáltatást vesz igénybe;
-- 10. Információ: bármely, elektronikus úton feldolgozható, tárolható, továbbítható adat, jel, kép tekintet nélkül arra, hogy annak tartalma jogi védelemben részesül-e;
-- 11. Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
-- 12. Kereskedelmi közlemény: az Mttv. 203. § 20. pontjában meghatározott közlemény;
-- 13. Közvetítő szolgáltató: a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet (a továbbiakban: DSA rendelet) 3. cikk g) és j) pontjában meghatározott valamely szolgáltatást nyújtó, az alábbiakban felsorolt szolgáltató:
-  - a) egyszerű továbbítást nyújtó szolgáltató: DSA rendelet 3. cikk g) pontjának i) alpontja szerinti szolgáltatást nyújtó szolgáltató,
-  - b) gyorsítótárazást nyújtó szolgáltató: DSA rendelet 3. cikk g) pontjának ii) alpontja szerinti szolgáltatást nyújtó szolgáltató,
-  - c) tárhelyszolgáltatást nyújtó szolgáltató: DSA rendelet 3. cikk g) pontjának iii) alpontja szerinti szolgáltatást nyújtó szolgáltató,
-  - d) online keresőprogram-szolgáltató: DSA rendelet 3. cikk j) pontja szerinti szolgáltatást nyújtó szolgáltató;
-- 14. Leányvállalat: olyan vállalat, amely felett egy anyavállalat – a legfelső szintű anyavállalat leányvállalatait is ideértve – kontrollt gyakorol;
-- 15. Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
-- 16. Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, amelyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybe vevők számára kívánják elérhetővé tenni; továbbá az 1. pont szerinti alkalmazásszolgáltató valamennyi olyan információs társadalommal összefüggő szolgáltatása, amely Magyarországon elérhető, függetlenül attól, hogy az alkalmazásszolgáltató Magyarországon letelepedett, vagy bármilyen formában engedélyezett-e, vagy attól, hogy a hozzáférés során akár a szolgáltató, akár a felhasználó egyértelműen azonosítható-e;
-- 17. Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
-- 18. Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
-- 19. Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
-- 20. Szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet;
-- 21. Vállalatcsoport: egy anyavállalat, annak minden leányvállalata, valamint minden további olyan vállalat, amely ezekkel gazdasági és jogi szervezeti kapcsolatban áll;
-- 22. Vállalkozás: a természetes személy, jogi személy, jogi személyiség nélküli szervezet – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is –, aki, illetve amely önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
-- 23. Videómegosztóplatform-szolgáltatás: az Mttv. 203. § 71a. pontjában meghatározott szolgáltatás;
-- 24. Videómegosztóplatform-szolgáltató: az Mttv. 203. § 71b. pontjában meghatározott szolgáltató.”
+#### 29. §
 
-28. § Az Ekertv. 4/D. §-a a következő (2a) bekezdéssel egészül ki:
+#### 30. §
 
-„(2a) Amennyiben a (2) bekezdés szerinti bejelentés az internetes közvetítő szolgáltatások egyes szabályairól szóló 2023. évi CIV. törvény (a továbbiakban: Iszt.) hatálya alá tartozó szolgáltatással kapcsolatos, a Kerekasztal tájékoztatja a bejelentőt arról, hogy bejelentése az Iszt. szerinti peren kívüli vitarendezési testületeknél is előterjeszthető.”
+#### 31. §
 
-29. § Az Ekertv. 7. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 2. § 13. pont a)–c) alpontja szerinti közvetítő szolgáltatók tekintetében további, a felelősségre és a felelősség alóli mentesülésre vonatkozó szabályokat a DSA rendelet tartalmazza.
-
-(3) A 2. § 13. pont d) alpontjában meghatározott közvetítő szolgáltató akkor nem felel az általa nyújtott szolgáltatás keretében az információ hozzáférhetővé tételével okozott kárért, ha
-
-- a) nincs tudomása az információval kapcsolatos jogellenes magatartásról, vagy arról, hogy az információ bárkinek a jogát vagy jogos érdekét sérti;
-- b) amint az a) pontban foglaltakról tudomást szerzett, haladéktalanul intézkedik az elérési információ eltávolításáról vagy a hozzáférés megtiltásáról.”
-
-30. § Az Ekertv. 15/C. § (6) bekezdés c)–e) pontja helyébe a következő rendelkezések lépnek és a bekezdés a következő f) ponttal egészül ki:
-
-(A videómegosztóplatform-szolgáltatást a Hivatal törli a nyilvántartásból, ha:)
-
-„c) a videómegosztóplatform-szolgáltatást a nyilvántartásba vételtől számított hat hónapon belül nem kezdik meg, vagy a megkezdett szolgáltatást hat hónapnál hosszabb időre megszakítják,
-
-d) a 15/D–15/G. §-ban foglalt követelmények megsértése miatt a Hivatal a videómegosztóplatform-szolgáltatás törlését rendelte el,
-
-e) bíróság jogerős határozata elrendelte a videómegosztóplatform-szolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől, vagy
-
-f) a videómegosztóplatform-szolgáltató jogutód nélkül megszűnt.”
-
-31. § Az Ekertv.
-
-- a) 1. § (4) bekezdésében a „2. § m) pont” szövegrész helyébe a „2. § 1. pont” szöveg,
-- b) 4. § h) pontjában a „2. § l) pont lc) alpontjában” szövegrész helyébe a „2. § 13. pont c) alpontjában” szöveg,
-- c) 7. § (5) bekezdésében a „(2) bekezdés” szövegrész helyébe a „DSA rendelet 4–6. cikk” szöveg,
-- d) 12/A. § (1), (2) és (5) bekezdésében a „2. § lc) alpontjában” szövegrészek helyébe a „2. § 13. pont c) alpontjában” szöveg,
-- e) 13. § (1) bekezdésében a „9–11. §-okban” szövegrész helyébe a „2. § 13. pont b)–d) alpontjában” szöveg,
-- f) 13. § (13) bekezdésében a „2. § l) pont lb)–ld) alpontjában” szövegrész helyébe a „2. § 13. pont b)–d) alpontjában” szöveg,
-- g) 15/C. § (1) bekezdésében az „f)–h) pontja” szövegrész helyébe az „f) és h) pontja” szöveg,
-- h) 15/D. § (6) bekezdésében a „10. §-ban” szövegrész helyébe a „DSA rendelet 6. cikkben” szöveg, a „2. § l) pont lc) alpontjában” szövegrész helyébe a „2. § 13. pont c) alpontjában” szöveg,
-- i) 16/D. § (1) bekezdés d) pontjában a „2. § l) pont la) alpont” szövegrész helyébe a „2. § 13. pont a) alpontjában” szöveg
-
-lép.
-
-32. § Hatályát veszti az Ekertv.
-
-- a) 4/A. § (2) bekezdésében a „2. § l) pont la)–ld) alpontjában meghatározott közvetítő” szövegrész,
-- b) 7. § (4) és (6) bekezdése és
-- c) 8–12. §-a.
+#### 32. §
 
 #### 11. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-33. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 110. §-a helyébe a következő rendelkezés lép:
-
-„110. § (1) A Hatóság a hírközlési és infokommunikációs ágazat tekintetében törvényben foglaltak szerint:
-
-- a) nyilatkozik a hatáskörével összefüggő jogszabályalkotási és -módosítási igényekről és javaslatokról,
-- b) felméri és folyamatosan elemzi a hírközlési és az ezekhez kapcsolódó informatikai piac működését,
-- c) folyamatosan értékeli a hírközlési piac helyzetét, és arról összehasonlító elemzéseket készít,
-- d) piacelemzést végez,
-- e) eljár a kötelezett szolgáltató számára megállapított egyes kötelezettségek teljesítésével, illetve megszegésével összefüggésben,
-- f) eljár a hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban,
-- g) ellátja az egyéb jogszabályban foglalt elektronikus hírközlési és postai hatósági feladatokat,
-- h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
-- i) ellátja a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletben (a továbbiakban: DSA rendelet) a Digitális Szolgáltatási Koordinátor számára meghatározott feladatokat, valamint
-- j) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
-
-(2) Az (1) bekezdés i) pontja tekintetében a DSA rendeletben a Digitális Szolgáltatási Koordinátor számára, valamint a tagállam illetékes hatósága számára meghatározott valamennyi hatáskört és feladatot a Hatóság Elnöke önállóan látja el. A Digitális Szolgáltatási Koordinátor eljárása nem érinti a más hatóság kizárólagos hatáskörébe utalt feladatok ellátását.”
+#### 33. §
 
 #### 12. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-34. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Törvény felhatalmazása alapján)
-
-„b) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke és a Nemzeti Média- és Hírközlési Hatóság elnöke rendeletben felügyeleti díjat”
-
-(állapíthat meg.)
+#### 34. §
 
 #### 13. A kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény módosítása
 

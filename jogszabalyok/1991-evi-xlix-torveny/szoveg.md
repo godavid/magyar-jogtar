@@ -1002,7 +1002,7 @@ folytatható le.
   - fb) szakképzettségét,
   - fc) a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát, valamint az (1a) bekezdés szerinti kötelező továbbképzési kötelezettség teljesítéséről szóló tanúsítvány számát,
   - fd) nyilvántartási számát,
-- g) a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
+- g) a felszámoló ügyvezetőjének, illetve a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
 - h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult,
 - i) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők
   - ia) arcképmását,
@@ -1610,11 +1610,12 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 (2) A felszámolás kezdő időpontjától számított két év elteltével a felszámolási zárómérleg elkészítése kötelező, kivéve, ha
 
-- a) az adós ellen indított folyamatban lévő per vagy hatósági eljárás jogerős befejezése a hitelezői igény megállapításához szükséges, vagy
+- a) az adós ellen indított folyamatban lévő per vagy hatósági eljárás jogerős befejezése a hitelezői igény megállapításához szükséges,
 - b) még nem fejeződtek be
   - ba) a 33/A. § alapján felszámoló által indított megállapítási perek,
   - bb) a 40. § alapján kezdeményezett eljárások vagy az adós vagyona terhére kötött fedezetelvonó szerződésekre alapított eljárások, vagy
-  - bc) a vitatott igény elbírálására vagy kifogás alapján indult eljárások.
+  - bc) a vitatott igény elbírálására vagy kifogás alapján indult eljárások, vagy
+- c) bűnügyi hitelezői igénybejelentés történik a 79/A. § szerinti olyan felszámolási eljárásban, amelyet nem bűnügyi hitelezői követelés alapján rendeltek el.
 
 (3) A felszámolási zárómérleg tartalmazza:
 
@@ -2318,6 +2319,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 (11) E törvénynek a 2023. évi XLVI. törvénnyel megállapított 27/D. § (1b) bekezdését a 2023. évi XLVI. törvény hatálybalépésének időpontjában folyamatban lévő felszámolási eljárásokban is alkalmazni kell minden olyan első alkalommal történő vagy megismételt értékesítés esetén, ahol az értékesítési hirdetmény közzétételére a 2023. évi XLVI. törvény hatálybalépésekor még nem került sor.
 
 (12) E törvénynek a 2023. évi XLVI. törvénnyel megállapított 79/G. §-át azokban a 2023. évi XLVI. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban kell alkalmazni, amelyekben a bíróság a 2023. évi XLVI. törvény hatálybalépését követően rendeli ki a 66. § (2) bekezdése szerinti állami felszámolót.
+
+(13) E törvénynek az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2023. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.1) megállapított 52. § (2) bekezdés c) pontját a Módtv.1 1. alcíme hatálybalépésének időpontjában folyamatban lévő azon felszámolási eljárásokban is alkalmazni kell, amelyekben az állami felszámolót a Módtv.1 1. alcíme hatálybalépését megelőzően kirendelték, de a felszámolási zárómérleget a bíróság részére még nem nyújtották be.
 
 83/Z. § (1) E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
 
