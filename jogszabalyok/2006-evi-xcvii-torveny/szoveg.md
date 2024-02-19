@@ -465,6 +465,8 @@ adja ki.
 
 (5a) Az ügyészség vagy a nyomozó hatóság a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve a további jogorvoslattal nem támadható eljárást megszüntető határozatát az (5) bekezdés szerint a határozathozatalt követő 30 napon belül küldi meg az illetékes kamarai szervnek.
 
+(6) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (5) bekezdés szerinti határozatokat a bíróság és a szabálysértési hatóság a határozat jogerőre emelkedését vagy véglegessé válását követő 30 napon belül, az (5a) bekezdés szerinti határozatokat az ügyészség és a nyomozó hatóság a határozat meghozatalát követő 30 napon belül megküldi az Egészségügyi Tudományos Tanácsnak.
+
 23. § (1) A területi szervezet etikai bizottsága az etikai felelősség tárgyában hozott határozatát – ha az eljárás panaszbejelentés alapján indult – közli a panaszossal is.
 
 (2) Az elsőfokú etikai határozattal szemben a fellebbezést a szakmai kamara országos etikai bizottságához kell benyújtani. A fellebbezés alapján az országos etikai bizottság folytatja le a másodfokú etikai eljárást. Az elsőfokú etikai határozattal szemben az (1) bekezdésben meghatározott panaszos is fellebbezhet.
