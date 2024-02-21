@@ -91,7 +91,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy Magyarorsz�
 
 (2) A CBAM kötelezettségszegési bírságot kiszabó határozatot megtámadó keresetlevél benyújtásának a végrehajtásra halasztó hatálya van.
 
-(3)
+(3) A CBAM-hatóság döntése elleni perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 #### 5. Jogkövetkezmények
 
