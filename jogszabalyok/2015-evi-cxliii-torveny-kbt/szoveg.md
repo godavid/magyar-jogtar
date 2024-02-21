@@ -3221,6 +3221,8 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (7) A bíróság határozatát, annak meghozatalától számított tizenöt napon belül írásba foglalja és a felek részére kézbesíti.
 
+(8) A bíróság az ítéletét és a keresetlevelet visszautasító, valamint az eljárást megszüntető végzését annak felek részére történő kézbesítésével egyidejűleg a közbeszerzésekért felelős miniszternek is kézbesíti.
+
 #### 173. §
 
 #### 174. §
