@@ -1203,6 +1203,47 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 
 (4) A költségvetési rendeletben működési hiány nem tervezhető.
 
+(4a) A fővárosi vagy vármegyei kormányhivatal – az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2b) bekezdés b) pontja szerinti támogatás fedezete céljából megtervezett támogatási összeg közgazdasági megalapozottsága megállapítása érdekében – vizsgálatot kezdeményezhet a helyi önkormányzattal szemben, ha a helyi önkormányzat adott évi költségvetési rendeletében elfogadott, az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2) bekezdés g) pontja szerinti saját bevétele meghaladja az előző évi jóváhagyott költségvetési rendeletében szereplő saját bevétel összegét. A fővárosi vagy vármegyei kormányhivatal a vizsgálat során a Kormányzati Ellenőrzési Hivatal, illetve a Magyar Államkincstár bevonásával járhat el. A fővárosi vagy vármegyei kormányhivatal a vizsgálat során felkérheti az Állami Számvevőszéket az eljárásban történő részvételre.
+
+(4b) A (4a) bekezdés szerinti eljárás során a fővárosi vagy vármegyei kormányhivatal vezetője az érintett helyi önkormányzattól – legfeljebb 8 napos határidő tűzésével – további információkat, adatokat kérhet.
+
+(4c) Ha a helyi önkormányzat adott évi költségvetési rendeletében meghatározott, az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2) bekezdés g) pontja szerinti saját bevételének mértéke legalább 20%-kal, és legalább 1 milliárd forinttal meghaladja az előző évi jóváhagyott költségvetési rendeletében szereplő saját bevétel összegét, úgy a megtervezett támogatási összeg saját bevétel közgazdasági megalapozottságát a helyi önkormányzatnak szükséges alátámasztania a fővárosi vagy vármegyei kormányhivatal részére.
+
+(4d) A (4a) és (4c) szerinti eljárás lefolytatása az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2b) bekezdés b) pontja alapján mellékelt üzleti tervre is kiterjed a közgazdasági megalapozottság megállapításához szükséges mértékben.
+
+(4e) A fővárosi vagy vármegyei kormányhivatal vezetője a helyi önkormányzat jogszerű gazdálkodásának helyreállításáig, de legfeljebb az önkormányzat tárgyévi költségvetésének végrehajtásáról szóló rendeletének elfogadásáig törvényességi felhívás kibocsátása nélkül önkormányzati csődbiztost jelölhet ki, ha
+
+- a) a képviselő-testület a költségvetési rendeletét a költségvetési évben legkésőbb március 15-ig nem fogadja el, vagy az államháztartásról szóló 2011. évi CXCV. törvény 111/P. §-ában foglalt rendelkezésnek nem tesz eleget,
+- b) az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdésében foglaltakat megsérti,
+- c) a (4) bekezdésében foglaltakat megsérti,
+- d) a (4b) vagy (4d) bekezdésben foglalt adatszolgáltatást nem teljesíti, vagy
+- e) a (4a) és (4c) bekezdés szerinti vizsgálat eredménye alapján indokolt.
+
+(4f) A (4e) bekezdés szerinti önkormányzati csődbiztosnak
+
+- a) a pénzügyi gondnok névjegyzékében szereplő,
+- b) a felszámolók névjegyzékében szereplő, vagy
+- c) közgazdász végzettséggel és legalább öt éves pénzügyi szakmai gyakorlattal rendelkező
+
+természetes személy jelölhető ki, akivel szemben a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény (a továbbiakban: Hartv.) 9. § (3) bekezdése szerinti összeférhetetlenségi ok nem merül fel.
+
+(4g) Az önkormányzati csődbiztos
+
+- a) figyelemmel kíséri a helyi önkormányzat gazdálkodását, a jogszabályokban kötelezően előírt feladatainak és hatáskörének ellátását;
+- b) véleményezi a képviselő-testületi ülésre készült költségvetést érintő előterjesztéseket, amelyekhez a véleményét csatolni kell;
+- c) ellenjegyzésével teljesíthetőek kötelezettségvállalások és kifizetések;
+- d) áttekinti a helyi önkormányzat gazdálkodását, és feltárja, hogy milyen okok vezettek a közgazdaságilag nem megalapozott költségvetés elfogadásához;
+- e) a helyi önkormányzat vagyonával kapcsolatos valamennyi iratba betekinthet;
+- f) tanácskozási joggal részt vesz a képviselő-testület és a bizottságok – a helyi önkormányzat vagyonával kapcsolatos – nyilvános és zárt ülésén.
+
+(4h) Az önkormányzati csődbiztos a (4g) bekezdésben foglalt jogköröket a kijelölésről szóló döntés hatályosulását követő naptól megfelelően gyakorolhatja. Az önkormányzati csődbiztos a fővárosi vagy vármegyei kormányhivatal vezetőjének kérésére köteles a tevékenységéről beszámolni.
+
+(4i) Az önkormányzati csődbiztosnak a (4g) bekezdés szerinti jogköre által elsődlegesen a helyi közösségi közlekedési feladatellátásnak, továbbá a Hartv. 1. mellékletében felsorolt, és a helyi önkormányzat számára külön törvényben kötelezően előírt feladatok működési kiadások finanszírozásának teljesítését kell biztosítania.
+
+(4j) A (4e) bekezdés szerinti kijelölés annak közlését követő 15 napon belül a Kúria előtt támadható meg. A keresetlevelet az önkormányzati csődbiztost kijelölő kormányhivatalnál kell benyújtani. Az önkormányzati csődbiztost kijelölő kormányhivatal a keresetlevelet 8 napon belül terjeszti fel a Kúria részére. A keresetlevél benyújtásának az önkormányzati csődbiztos kijelölésének hatályosulására nincs halasztó hatálya.
+
+(4k) A bíróság a (4j) bekezdés szerinti keresetlevél benyújtásától számított 60 napon belül határoz. A bíróság döntése ellen nincs helye perújításnak.
+
 (5) Az állami költségvetési tervezés önkormányzatokat érintő feladatait az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter végzi.
 
 111/A. § Ha a helyi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását, államháztartási beszámolási kötelezettségének vagy vagyon-nyilvántartási kötelezettségének nem tesz eleget, a részére járó egyes támogatások folyósítása az államháztartásról szóló törvényben meghatározottak szerint felfüggesztésre kerül.
@@ -1523,6 +1564,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat;
 - g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket;
 - h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
+- i) az önkormányzati csődbiztos kijelölésére, tevékenységére, eljárására díjazására vonatkozó szabályokat
 
 (2) Felhatalmazást kap a Kormány, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
@@ -1609,6 +1651,10 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 (3) Az Alaptörvény ZÁRÓ ÉS VEGYES RENDELKEZÉSEK rész 27. cikke alapján a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választásán hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.
 
 (4) A képviselő-testület a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően 2024. október 1-jéig nem dönthet a képviselő-testület feloszlásáról.
+
+146/K. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, módosítása során kell alkalmazni.
+
+(2) A Módtv1.-gyel megállapított 111. § (4a)–(4k) bekezdését akkor is alkalmazni kell, ha a képviselő-testület a Módtv1. hatályba lépését megelőzően elfogadott 2024. évi költségvetési rendeletét az államháztartásról szóló 2011. évi CXCV. törvény 25. § (1) bekezdés szerinti határidőig az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdés szerinti tartalommal nem módosítja.
 
 ### Módosító rendelkezések
 
