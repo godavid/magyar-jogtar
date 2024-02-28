@@ -272,7 +272,11 @@ az egyes adótörvények módosításáról
 
 #### 110. §
 
-#### 111. §
+111. § Az Art. 159. §-a helyébe a következő rendelkezés lép:
+
+#### „159. § [Az ellenőrzési határidő kockázatos adózónál]
+
+Ha az adózó az állami adó- és vámhatóság által ellenőrzés alá vont időszakban, illetve annak egy részében, vagy az ellenőrzés időtartama alatt, illetve annak egy részében kockázatos adózónak minősül, az ellenőrzés határideje hatvan nappal meghosszabbodik. Ha a kockázatos minősítésű adózónál a folyamatban lévő ellenőrzés során felszámolási, végelszámolási eljárás indul, vagy folyamatban lévő ellenőrzésnél a felszámolási, végelszámolási eljárás az adózó továbbműködésével zárul, az ellenőrzési határidőt az ellenőrzés kezdetekor alkalmazandó szabályok szerint kell számítani.”
 
 #### 112. §
 
@@ -304,7 +308,9 @@ az egyes adótörvények módosításáról
 
 (3)
 
-(4)
+(4) Az Art. 274/Q. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) E törvénynek a Módtv.12. által megállapított 159. §-t a hatálybalépését követően indult ellenőrzések során kell alkalmazni.”
 
 122. § (1)
 
@@ -342,13 +348,17 @@ az egyes adótörvények módosításáról
 
 #### 17. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
-#### 126. §
+126. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Pénzügyi képviselő az a korlátolt felelősségű társaság, részvénytársaság lehet, amelynek jegyzett tőkéje a százötvenmillió forintot eléri, vagy ennek megfelelő összegű, kizárólag a pénzügyi képviselő nevére szóló bankgaranciával rendelkezik, továbbá az adóhatóságnál nyilvántartott adótartozása nincs. A pénzügyi képviselő a feltételek meglétét a képviselet elfogadásának bejelentésekor, illetve ezt követően a tevékenység folyamatos végzése alatt évente az adóhatóságnál igazolja.”
 
 #### 127. §
 
 #### 128. §
 
-#### 129. §
+129. § Az Air. 94. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A jogutód adózónál lefolytatandó, a jogelőd adókötelezettségeire is kiterjedő adóellenőrzés határideje százhúsz nap, ha a vizsgált időszakban, illetve annak egy részében valamelyik jogelőd a legnagyobb adóteljesítménnyel rendelkező adózók körébe tartozott.”
 
 #### 130. §
 
@@ -356,7 +366,11 @@ az egyes adótörvények módosításáról
 
 132. § (1)
 
-(2)
+(2) Az Air. 139/G. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) E törvénynek a Módtv.5. által megállapított 20. § (2) bekezdésében foglalt feltételnek a rendelkezés hatálybalépésekor az állami adó- és vámhatóság által már nyilvántartásba vett pénzügyi képviselőknek 2025. január 1-jével kell megfelelnie.
+
+(4) E törvénynek a Módtv.5. által megállapított 94. § (1a) bekezdését a hatálybalépést követően indult ellenőrzések során kell alkalmazni.”
 
 #### 133. §
 
