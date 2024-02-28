@@ -177,7 +177,7 @@ Az általános forgalmi adóról szóló törvény (a továbbiakban: Áfa tv.) s
 
 (1) Az a külföldi vállalkozás, amely belföldi gazdasági tevékenységével összefüggésben gazdasági célú letelepedésre nem köteles, belföldi adókötelezettségeinek teljesítésére pénzügyi képviselőt bízhat meg.
 
-(2) Pénzügyi képviselő az a korlátolt felelősségű társaság, részvénytársaság lehet, amelynek jegyzett tőkéje a százötvenmillió forintot eléri, vagy ennek megfelelő összegű bankgaranciával rendelkezik, továbbá az adóhatóságnál nyilvántartott adótartozása nincs. A pénzügyi képviselő a feltételek meglétét a képviselet elfogadásának bejelentésekor, illetve ezt követően a tevékenység folyamatos végzése alatt évente az adóhatóságnál igazolja.
+(2) Pénzügyi képviselő az a korlátolt felelősségű társaság, részvénytársaság lehet, amelynek jegyzett tőkéje a százötvenmillió forintot eléri, vagy ennek megfelelő összegű, kizárólag a pénzügyi képviselő nevére szóló bankgaranciával rendelkezik, továbbá az adóhatóságnál nyilvántartott adótartozása nincs. A pénzügyi képviselő a feltételek meglétét a képviselet elfogadásának bejelentésekor, illetve ezt követően a tevékenység folyamatos végzése alatt évente az adóhatóságnál igazolja.
 
 (3) A pénzügyi képviselő a külföldi vállalkozás képviseletére irányuló megbízás elfogadásától és a képviselet megszűnésétől számított tizenöt napon belül az állami adó- és vámhatósághoz bejelenti a képviselet elfogadását, illetve megszűnését, a külföldi vállalkozás adatait, továbbá a külföldi vállalkozás adóügyeivel összefüggésben nyitott belföldi pénzforgalmi számlaszámát.
 
@@ -1134,6 +1134,8 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 - a) adóellenőrzés és ismételt ellenőrzés esetében kilencven nap, a legnagyobb adóteljesítménnyel rendelkező adózók esetében és központosított ellenőrzés esetében százhúsz nap,
 - b) jogkövetési vizsgálat esetében harminc nap.
 
+(1a) A jogutód adózónál lefolytatandó, a jogelőd adókötelezettségeire is kiterjedő adóellenőrzés határideje százhúsz nap, ha a vizsgált időszakban, illetve annak egy részében valamelyik jogelőd a legnagyobb adóteljesítménnyel rendelkező adózók körébe tartozott.
+
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
 (3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
@@ -1672,6 +1674,10 @@ E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvény
 (1) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény (a továbbiakban: Módtv.5.) által megállapított 71. § (1) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) E törvénynek a Módtv.5. által megállapított 96. § (3) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+(3) E törvénynek a Módtv.5. által megállapított 20. § (2) bekezdésében foglalt feltételnek a rendelkezés hatálybalépésekor az állami adó- és vámhatóság által már nyilvántartásba vett pénzügyi képviselőknek 2025. január 1-jével kell megfelelnie.
+
+(4) E törvénynek a Módtv.5. által megállapított 94. § (1a) bekezdését a hatálybalépést követően indult ellenőrzések során kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

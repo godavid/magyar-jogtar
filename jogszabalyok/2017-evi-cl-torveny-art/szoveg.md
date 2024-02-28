@@ -2255,7 +2255,7 @@ A kockázatos adózó által visszaigényelt általános forgalmi adó kiutalás
 
 #### 159. § [Az ellenőrzési határidő kockázatos adózónál]
 
-Ha az adózó az állami adó- és vámhatóság által ellenőrzés alá vont időszakban, illetve annak egy részében, vagy az ellenőrzés időtartama alatt, illetve annak egy részében kockázatos adózónak minősül, az ellenőrzés határideje hatvan nappal meghosszabbodik.
+Ha az adózó az állami adó- és vámhatóság által ellenőrzés alá vont időszakban, illetve annak egy részében, vagy az ellenőrzés időtartama alatt, illetve annak egy részében kockázatos adózónak minősül, az ellenőrzés határideje hatvan nappal meghosszabbodik. Ha a kockázatos minősítésű adózónál a folyamatban lévő ellenőrzés során felszámolási, végelszámolási eljárás indul, vagy folyamatban lévő ellenőrzésnél a felszámolási, végelszámolási eljárás az adózó továbbműködésével zárul, az ellenőrzési határidőt az ellenőrzés kezdetekor alkalmazandó szabályok szerint kell számítani.
 
 #### 160. § [A késedelmi pótlék kockázatos adózónál]
 
@@ -3848,6 +3848,8 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 (3) E törvénynek a Módtv.12. által megállapított 245. § (1) bekezdés c) pontját a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 (4) E törvénynek a Módtv.12. által megállapított 107. § (1a) bekezdésében foglalt bejelentési kötelezettséget a már üzembe helyezett automataberendezések tekintetében először 2024. február 29. napjáig kell teljesíteni.
+
+(5) E törvénynek a Módtv.12. által megállapított 159. §-t a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 #### 274/R. § [Átmeneti rendelkezés a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényhez]
 
