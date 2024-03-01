@@ -925,7 +925,7 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 - b) az a) pont hatálya alá nem tartozó személyek személyes adatát, kivéve
   - ba) ügyfél iratbetekintése esetén, vagy
   - bb) ha az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak,
-- c) felhasználói vagy megismerési engedély hiányában a minősített adatot,
+- c) személyi biztonsági feltételek megléte vagy megismerési engedély hiányában a minősített adatot,
 - d) az egyéb védett adatot, kivéve, ha
   - da) az adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogának gyakorlását, és az érintett adat védelmét szabályozó külön törvény az iratbetekintést nem zárja ki, vagy
   - db) az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak,

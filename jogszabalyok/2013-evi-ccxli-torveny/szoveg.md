@@ -172,7 +172,7 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 23. § (1) A Bizottság tagja és elnöke a kommunista diktatúra kiépülése és működése idején, 1944. december 21. és 1990. május 2. között keletkezett és állami intézményeknél, valamint egyéb szervezeteknél őrzött minősített adatot nem tartalmazó dokumentumokba, irat, képi- és hanganyagokba korlátlanul betekinthet, azokról másolatot készíthet vagy készíttethet.
 
-(2) A Bizottság tagja és elnöke titoktartási nyilatkozat és felhasználói engedély nélkül jogosult a Bizottság feladat- és hatáskörét érintő minősített adatokat megismerni.
+(2) A Bizottság tagja és elnöke titoktartási nyilatkozat nélkül jogosult a Bizottság feladat- és hatáskörét érintő minősített adatokat megismerni.
 
 (3) A Hivatal főigazgatója, vezetője és kutatója a kommunista diktatúra kiépülése és működése idején, 1944. december 21. és 1990. május 2. között keletkezett és állami intézményeknél őrzött, minősített adatot nem tartalmazó anyagokba, dokumentumokba, irat, képi- és hanganyagokba korlátlanul betekinthet, azokról másolatot készíthet vagy készíttethet.
 

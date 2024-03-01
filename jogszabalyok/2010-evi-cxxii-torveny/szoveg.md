@@ -172,7 +172,7 @@ kapcsolatos feladatokat.
 
 - a) külön jogszabályban szabályozott, nemzetközileg ellenőrzött termékek és technológiák forgalmának ellenőrzését,
 - b) a nemesfémforgalommal és fémjelzéssel kapcsolatos ellenőrzési feladatokat,
-- c) a vám-, a jövedéki, a szabálysértési és egyéb eljárások során keletkezett, a feladat- és hatáskörébe tartozó adatok kezelését,
+- c) a vám-, a jövedéki, a szabálysértési, a Központi Bűnjelnyilvántartó Rendszer működtetése és egyéb eljárások során keletkezett, a feladat- és hatáskörébe tartozó adatok kezelését,
 - d) a fémkereskedelmi hatósági feladatokat,
 - e) a környezetvédelmi termékdíjjal és a regisztrációs adóval kapcsolatos adóztatási és ellenőrzési feladatokat.
 - f) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti és a különleges jogrendre történő felkészülés tekintetében jogszabályban meghatározott feladatokat.
@@ -1207,21 +1207,21 @@ egyértelmű azonosítására szolgáló adatokat.
 
 (5) A titkos információgyűjtés tényét és a titkos információgyűjtés során beszerzett adatot törvényben meghatározott feladataik ellátása érdekében a nemzetbiztonsági szolgálatok is megismerhetik.
 
-(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett, illetve rendelkezésére bocsátott minősített adatot.
+(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett és a rendelkezésére bocsátott minősített adatot.
 
-(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy rendelkezési jogosultsága az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben kiterjed
+(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben az alábbiak szerint kezelhet minősített adatot:
 
-- a) a minősített adattal kapcsolatos ügyintézésre, a minősített adat feldolgozására,
-- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre,
-- c) a minősítés megismétlésére,
-- d) a minősített adat birtokban tartására,
-- e) a minősített adat másolására, sokszorosítására,
-- f) kivonat készítésére,
-- g) a minősített adat fordítására,
-- h) a minősített adat szerven belüli átadására,
-- i) a minősített adat szerven kívülre történő továbbítására, szállítására.
+- a) a minősített adattal kapcsolatos ügyintézés, a minősített adat feldolgozása,
+- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
+- c) a minősítés megismétlése,
+- d) a minősített adat birtokban tartása,
+- e) a minősített adat másolása, sokszorosítása,
+- f) kivonat készítése,
+- g) a minősített adat fordítása,
+- h) a minősített adat szerven belüli átadása,
+- i) a minősített adat szerven kívülre történő továbbítása, szállítása.
 
-(8) A felhasználói engedély kiadására jogosult a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére további, a minősített adat védelméről szóló törvényben meghatározott rendelkezési jogosultságot is biztosíthat.
+(8) A NAV központi és területi szervének vezetője vagy az általa írásban meghatározott vezetői munkakört betöltő személy a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére a (7) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.
 
 65/G. § (1) A bírói engedélyhez kötött eszközök alkalmazása során beszerzett, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyre vonatkozó adatot haladéktalanul törölni kell, az a továbbiakban nem használható fel.
 
@@ -1478,6 +1478,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - c) az áruk szállításában, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésében, valamint az utasok csomagjainak törvényben meghatározott ellenőrzésében érintett személyek természetes személyazonosító adatait, lakcímét, illetve az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében az ellenőrzéstől számított legfeljebb két évig,
 - d) a NAV kezelésében lévő létesítménybe be- és kilépő személyek, illetve a 37. § (1) bekezdés alapján igazoltatott személyek személyes adatait, továbbá a beléptető rendszer működtetése során keletkezett adatokat az adat keletkezésétől számított legfeljebb egy évig.
 - e) a felügyeleti és adatszolgáltató rendszer törvényben vagy kormányrendeletben meghatározott adatait.
+- f) a Központi Bűnjelnyilvántartó Rendszer működtetése során a bűnjelnyilvántartásban szereplő személyes adatokat.
 
 (1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 

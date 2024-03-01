@@ -1799,7 +1799,7 @@ nem kell alkalmazni.
 
 (3) A bíróság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot szabhat ki. A külön törvényben meghatározott hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a külön törvényben meghatározott mértékű bírságot szabhat ki.
 
-(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles az elrendelő bíróság vagy a külön törvényben meghatározott elrendelő hatóság megnevezésével és az elrendelő határozat, végzés vagy az Szjtv. 36/K. § (1) bekezdése szerinti értesítés számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
+(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles az elrendelő bíróság vagy a külön törvényben meghatározott elrendelő hatóság megnevezésével és az elrendelő határozat, végzés vagy az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítés számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
 
 (5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság vagy a külön törvényben meghatározott hatóság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
 
@@ -3326,7 +3326,7 @@ vonatkozó adatokat.
 
 (2a) A bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
 
-(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
+(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
 - a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
 - b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
@@ -3335,19 +3335,19 @@ tekinthetnek be.
 
 (4) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a KEHTA-ban rögzíti
 
-- a) az eljáró bíróság, a külön törvényben meghatározott hatóság megnevezését és a határozat, végzés és az Szjtv. 36/K. § (1) bekezdése szerinti értesítés számát,
+- a) az eljáró bíróság, a külön törvényben meghatározott hatóság megnevezését és a határozat, végzés és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítés számát,
 - b) az elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről szóló rendelkezést,
 - c) az elektronikus adat azonosítására és elérésére vonatkozó adatokat.
 
 (5) A Hatóság a hiányosan megküldött értesítéssel kapcsolatosan az adatok pótlása érdekében a bíróságot, illetve a külön törvényben meghatározott hatóságot elektronikus úton megkeresi, továbbá jelzi a bíróságnak, illetve a külön törvényben meghatározott hatóságnak, ha a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
 
-159/C. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság, illetve a külön törvényben meghatározott hatóság elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak, végzéseinek és az Szjtv. 36/K. § (1) bekezdése szerinti értesítéseknek eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként talált vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék.
+159/C. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság, illetve a külön törvényben meghatározott hatóság elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak, végzéseinek és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítéseknek eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként talált vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék.
 
 (2) Mentesül a KEHTA-hoz való csatlakozási kötelezettség alól az a nyilvános internethozzáférés-szolgáltatást nyújtó szolgáltató, amely kizárólag olyan más elektronikus hírközlési szolgáltatón keresztül csatlakozik a Budapesti Adatkicserélő Központhoz (BIX) és a nemzetközi adatkicserélő központokhoz, amely szolgáltató már csatlakozott a KEHTA-hoz.
 
 (3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság, illetve a külön törvényben meghatározott hatóság és a Hatóság közötti elektronikus kapcsolattartás a biztonságos kézbesítési szolgáltatás útján történik.
 
-(4) A Hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató kérésére – a rendelkezésére álló technikai lehetőségekhez képest – közreműködik a határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése szerinti értesítések végrehajtásához szükséges technikai környezet biztosításában.
+(4) A Hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató kérésére – a rendelkezésére álló technikai lehetőségekhez képest – közreműködik a határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések végrehajtásához szükséges technikai környezet biztosításában.
 
 (5) Ha a Hatóság az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében a (4) bekezdés szerint közreműködik, az érintett hozzáférést biztosító elektronikus hírközlési szolgáltatóval és a kereső- és gyorsítótár-szolgáltatóval közigazgatási szerződést köt. A közreműködés keretében a Hatóság a közigazgatási szerződésben meghatározott módon és feltételekkel hozzáférést biztosít az érintett hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató részére olyan technikai segítségnyújtó rendszerhez, amely műszaki jellemzőinél fogva alkalmas a hozzáférhetetlenné tétel megvalósítására.
 

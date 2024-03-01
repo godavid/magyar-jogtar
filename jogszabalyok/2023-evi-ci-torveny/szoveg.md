@@ -461,7 +461,7 @@ Az Országgyűlés – az Alaptörvényben foglaltakkal összhangban, a közérd
 120. § Hatályát veszti az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény
 
 - a)
-- b)
+- b) 71. § (4) bekezdése.
 
 #### 54. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosítása
 

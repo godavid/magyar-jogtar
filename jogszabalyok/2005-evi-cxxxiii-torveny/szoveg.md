@@ -71,6 +71,8 @@ megkezdése és folytatása
 - b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
 - c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
 
+(5) A rendőrség tanúsítványt ad ki a rendezvény-, illetve létesítménybiztosítás során a rendezvény helyszínére, létesítménybe, vagy egyéb zárt területre belépő személyekre, illetve az általuk birtokolt dolgokra kiterjedő robbanóanyag, pirotechnikai termék, kábítószer, illetve egyéb tiltott tárgy kiszűrését célzó, az általános személy- és vagyonvédelmi tevékenységhez képest magasabb biztonsági szintű ellenőrzést biztosító vállalkozásnak.
+
 5/A. § (1) Vállalkozás keretében tervező-szerelő vagy magánnyomozói tevékenységet az a vállalkozás végezhet, amely megfelel a jogszabályban meghatározott feltételeknek és
 
 - a) a tevékenység végzésében személyesen közreműködő tagja, munkavállalója, vagy egyéni vállalkozás, illetve egyéni cég esetében, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – rendelkezik igazolvánnyal,
@@ -294,7 +296,7 @@ nem áll fenn.
 - c) a területen tartózkodó vagy onnan kilépő személyt – a 28. § rendelkezései szerint – csomagja tartalmának, járművének, valamint a szállítmánynak bemutatására felhívni;
 - d) a jogsértő személyt magatartása abbahagyására felhívni;
 - e) elektronikai vagyonvédelmi rendszert alkalmazni;
-- f) a területre belépők ellenőrzésére fegyver-, illetve robbanóanyag-kutató műszert alkalmazni és a közbiztonságra különösen veszélyes eszközök bevitelét megtiltani.
+- f) a területre belépők ellenőrzésére fegyver-, pirotechnikai eszköz-, és robbanóanyag-kutató műszert, valamint kábítószer-kereső kutyát alkalmazni, és a közbiztonságra különösen veszélyes eszközök bevitelét megtiltani.
 
 (2) A vagyonőr a szerződésben megjelölt ingóságot – a szerződés keretei között – az őrzött területen (létesítményen) kívül is védheti, ennek során az (1) bekezdésben meghatározott jogok illetik meg, kivéve, hogy elektronikus megfigyelőrendszert közterületen ilyenkor sem alkalmazhat.
 
@@ -906,6 +908,7 @@ lépnek hatályba.
 - a) a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit,
 - b) a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, valamint ezen szabályozás előkészítésére vonatkozó eljárás szabályait,
 - c) az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő, a személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre vonatkozó közigazgatási hatósági eljárási szabályokat
+- d) a személy- és vagyonvédelmi tevékenység keretében a rendezvény-, illetve létesítménybiztosítás során a rendezvény helyszínére, létesítménybe, vagy egyéb zárt területre belépő személyekre, illetve az általuk birtokolt dolgokra kiterjedő robbanóanyag, pirotechnikai termék, kábítószer, illetve egyéb tiltott tárgy kiszűrését célzó, az általános személy- és vagyonvédelmi tevékenységhez képest magasabb biztonsági szintű ellenőrzést igazoló tanúsítvány kiállításának és megszerzésének részletes szabályait
 
 rendelettel állapítsa meg.
 

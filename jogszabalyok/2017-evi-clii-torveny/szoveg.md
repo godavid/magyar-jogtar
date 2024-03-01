@@ -188,7 +188,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - a) a döntés tervezetébe,
 - b) a vámhatóság belső levelezésébe,
 - c) az olyan iratba, amelyből következtetés vonható le annak a személynek a kilétére, akire vonatkozóan a vámhatóság a természetes személyazonosító adatok és a lakcím zárt kezelését rendelte el,
-- d) felhasználói vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba,
+- d) személyi biztonsági feltételek megléte vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba,
 - e) az egyéb védett adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az iratbetekintésre jogosult személyt törvényben biztosított jogai gyakorlásában.
 
 (5) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A vámhatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában.

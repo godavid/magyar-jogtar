@@ -126,23 +126,41 @@ az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságán
 
 #### 49. §
 
-#### 50. §
+50. § (1) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1c) bekezdéssel egészül ki:
 
-#### 51. §
+„(1c) Az Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet jogutódja az Amerikai úti telephely (a továbbiakban: Amerikai úti telephely) ideggyógyászati, valamint idegsebészeti járó- és fekvőbeteg szakellátása, valamint az Országos Mozgásszervi Intézet Szanatórium utcai telephely (a továbbiakban: Rehabilitációs Intézet) általános sebészeti, ortopédiai és rehabilitációs szakellátása tekintetében az Egyetem. Az Amerikai úti telephely ideggyógyászati, valamint idegsebészeti járó- és fekvőbeteg szakellátását, valamint a Rehabilitációs Intézet általános sebészeti, ortopédiai és rehabilitációs szakellátásait az Egyetem Klinikai Központja látja el.”
 
-#### 52. §
+(2) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1d) bekezdéssel egészül ki:
+
+„(1d) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 59–61. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.”
+
+51. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. alcíme a következő 6/D. és 6/E. §-sal egészül ki:
+
+„6/D. § A 3. mellékletben foglalt táblázat 59–61. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet és az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
+
+6/E. § Az Amerikai úti telephely és a Rehabilitációs Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Amerikai úti telephely és a Rehabilitációs Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
+
+52. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény a következő 7/B. §-sal egészül ki:
+
+„7/B. § Az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságának erősítéséhez szükséges egyes törvények, továbbá egyes felnőttképzési és kulturális tárgyú törvények módosításáról szóló 2023. évi LXXXV. törvénnyel megállapított 5. § (1c) bekezdése szerinti jogutódlással, a jogutódlásban érintett, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § b) pontja szerinti egészségügyben dolgozó – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (3) bekezdés b) pontjában meghatározott – egészségügyi szolgálati jogviszonya e törvény erejénél fogva, a jogutódlással egyidejűleg – ideértve a határozott idejű jogviszonyt is – a munka törvénykönyve szerinti munkaviszonnyá alakul át. Az átalakulás során létrejövő munkaviszony tekintetében próbaidő nem köthető ki, és a jogviszonyt folyamatosnak kell tekinteni. A jogviszony átalakulása
+
+- a) nem szakítja meg az egészségügyi szolgálati jogviszonnyal kapcsolatos igények elévülését,
+- b) nem érinti az e § hatálybalépésekor hatályban lévő határozott idejű áthelyezést, valamint
+- c) nem érinti a jogviszony időtartamát és a munkaidő mértékét.”
 
 53. § (1)
 
-(2)
+(2) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. melléklete az 5. melléklet szerint módosul.
 
 54. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény
 
-- a)
-- b)
-- c)
+- a) 5. § (4) bekezdésében az „(1), az (1a) és az (1b) bekezdés” szövegrész helyébe az „(1), az (1a), az (1b) és az (1d) bekezdés” szöveg,
+- b) 5. § (5a) bekezdésében az „(1b) bekezdés szerinti ingatlanjuttatásra” szövegrész helyébe az „(1b) és (1d) bekezdés szerinti ingatlanjuttatásra” szöveg és az „(1b) bekezdés szerinti közfeladat ellátásával kapcsolatos” szövegrész helyébe az „(1b) és (1d) bekezdés szerinti közfeladat ellátásával kapcsolatos” szöveg,
+- c) 5. § (7) bekezdésében a „(2) bekezdés” szövegrész helyébe a „(2) bekezdés és a 6/D. §” szöveg,
 - d)
-- e)
+- e) 8. §-ában az „5. § (1), (1a), (1b), (4), (5a) és (6) bekezdése” szövegrész helyébe az „5. § (1), (1a), (1b), (1d), (4), (5a) és (6) bekezdése” szöveg
+
+lép.
 
 #### 14. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
@@ -185,3 +203,18 @@ az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságán
 ### 4. melléklet a 2023. évi LXXXV. törvényhez
 
 ### 5. melléklet a 2023. évi LXXXV. törvényhez
+
+- 1. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. mellékletében foglalt táblázat a következő 59–61. sorral egészül ki:
+
+|  | (A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
+
+„
+
+| 59. | Budapest | 10886/43 | 1/1 | kivett kórház |
+| --- | --- | --- | --- | --- |
+| 60. | Budapest | 31571/2 | 1/1 | kivett kórház |
+| 61. | Budapest | 31567 | 1/1 | kivett lakóház, udvar |
+
+”

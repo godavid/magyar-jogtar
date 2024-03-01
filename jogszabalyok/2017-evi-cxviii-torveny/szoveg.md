@@ -129,7 +129,7 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 
 (2) A halál tényének bírósági megállapítása határidő nélkül kérhető.
 
-(3) Hirdetményt nem kell kibocsátani, ha a halál közveszély, köztudott baleset vagy más súlyos szerencsétlenség folytán következett be. Ennek fennállását a bíróság megkeresésére a feladatkörében érintett miniszter közli.
+(3) Hirdetményt nem kell kibocsátani, ha a halál közveszély, köztudott baleset vagy más súlyos szerencsétlenség folytán következett be. Ennek fennállását a bíróság megkeresésére az igazságügyért felelős miniszter közli.
 
 (4) Ha hirdetmény kibocsátásának van helye, abban közölni kell a halál idejére és helyére vonatkozó adatokat is.
 
@@ -338,6 +338,8 @@ kerül sor.
 (4) A figyelmeztető jelzés elhelyezése iránti eljárásra kizárólagosan a gyermek lakóhelye vagy ennek hiányában tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság – ha a gyermek lakóhelye vagy ennek hiányában tartózkodási helye a fővárosban van, a Pesti Központi Kerületi Bíróság – illetékes.
 
 (5) Ha az illetékes bíróság a (4) bekezdés alapján nem állapítható meg, a figyelmeztető jelzés elhelyezése iránti eljárásra a Pesti Központi Kerületi Bíróság illetékes.
+
+(6) A figyelmeztető jelzés elhelyezése iránti eljárásban bírósági titkár nem járhat el.
 
 22/G. § (1) A figyelmeztető jelzés elhelyezése iránti eljárás megindítására irányuló kérelemnek tartalmaznia kell
 
