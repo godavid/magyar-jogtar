@@ -1697,7 +1697,7 @@ szükséges.
 
 (3c) Ha a Hatóság által vizsgálni kívánt irat olyan adatot is tartalmaz, amelyet a Hatóság csak a (3) bekezdés szerint ismerhet meg, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Hatóság részére lehetővé tenni.
 
-(4) A minősített adatot érintő adatkezeléssel kapcsolatos eljárása során a Hatóság elnökhelyettese, vezetői álláshelyen foglalkoztatott köztisztviselője és vizsgálója – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
+(4)
 
 (5) A Hatóság elnöke, elnökhelyettese és a Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
 

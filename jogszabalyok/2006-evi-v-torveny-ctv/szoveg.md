@@ -474,7 +474,7 @@ megismerhetők.
 - m) a cég elektronikus kézbesítési címét,
 - n) a cégnek az E-ügyintézési tv. szerinti hivatalos elérhetőségét
 
-(2)
+(2) Az (1) bekezdés d) pontjában meghatározott adat bejegyzésével egyidejűleg a cégbíróság az adat bejegyzésének alapjául szolgáló, a cégbejegyzési (változásbejegyzési) kérelemhez csatolt létesítő okiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással és minősített időbélyegzővel látja el és intézkedik a létesítő okiratnak a cégjegyzék útján való megismerhetőségéről.
 
 (3) Az (1) bekezdés f) pontjában szereplő jegyzett tőkeként kell feltüntetni az európai gazdasági egyesülés, a külföldiek magyarországi fióktelepe vagy kereskedelmi képviselete esetén a tulajdonos, illetve a külföldi vállalkozás által a működéshez rendelkezésre bocsátott összeget. A jegyzett tőkét – a számviteli törvény felhatalmazása alapján devizakönyvvezetést alkalmazó társaság, az európai részvénytársaság, az európai gazdasági egyesülés kivételével – forintban kell meghatározni. Az európai szövetkezet a jegyzett tőkéjét euróban is meghatározhatja.
 
@@ -1206,6 +1206,8 @@ illetve a cég tájékoztatási kötelezettsége
 (1d) A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül értesíti az EUID-val rendelkező cég fióktelepét nyilvántartó tagállami nyilvántartást a cég cégnevének, székhelyének, cégjegyzékszámának, társasági formájának, a vezető tisztségviselője, felügyelőbizottsági tagja, egyéb képviselője, könyvvizsgálója adatának változásáról vagy e személyek változásáról, továbbá a cég számviteli beszámolójával összefüggő adatról, okiratról.
 
 (1e) A cégbíróság fogadja az EUID-val rendelkező cégformákkal összefüggésben a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül érkező információkat, értesítéseket, visszaigazolja az értesítés kézhezvételét, és a cégnyilvántartásban a kapott adatokat (változásokat) átvezeti, okiratokat elhelyezi. A tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül történő információcsere a tagállami cégnyilvántartások számára ingyenes. A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül történő információcsere során a céginformációs szolgálat informatikai rendszere segítségével jár el.
+
+(1f) Ha az (1e) bekezdés alapján történő adatátvezetés miatt a cég cégjegyzéke már nem tartalmaz minden adatot, amit e törvény előír, a cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül érkező információk cégjegyzékbe történő bejegyzésével egyidejűleg felhívja a céget, hogy hatvan napon belül jelentse be a hiányzó adatokat. Ha a cég ennek nem tesz eleget, a cégbíróság törvényességi felügyeleti eljárást hivatalból folytat le azzal, hogy a 80. § (1) bekezdése szerinti figyelmeztetés alkalmazására nem kerül sor. Az (1e) bekezdés alapján a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül érkező, azonban a cégjegyzék részét nem képező adatokat a cégbíróság e törvény szerinti feladatai ellátása érdekében kezeli és a cégbíróság informatikai rendszere tárolja azon személy cégjegyzékből való törléséig, akire az adat vonatkozik.
 
 (2) A korlátolt felelősségű társaság és a részvénytársaság a bejegyzését követően írásbeli képviselete, illetve hivatalos levelezése során – ideértve az elektronikus levelezést is –, valamint a honlapján köteles feltüntetni a céget nyilvántartó cégbíróság nevét, a cég nevét és székhelyét, a cég cégjegyzékszámát, továbbá szükség szerint a cég felszámolására, illetve végelszámolására utaló toldatot. A cég – választása szerint – feltüntetheti a jegyzett tőkéjét is. Ebben az esetben azonban a cégjegyzékben szereplő jegyzett tőke feltüntetése mellett meg kell jelölni annak ténylegesen rendelkezésre bocsátott összegét is.
 
@@ -2321,7 +2323,9 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 131/T. § E törvénynek a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel módosított 61/A. § rendelkezéseit a 2024. január 1-jét megelőzően bejegyzett üzletrészt terhelő zálogjog esetében azzal az eltéréssel kell alkalmazni, hogy a cégjegyzéki adatok kiegészítését a 61/A. § szerinti kérelmező a cégjegyzék egyéb adatát érintő következő módosítás alkalmával, legkésőbb 2024. december 31. napjáig előterjesztett változásbejegyzési kérelemben köteles kérni illeték és közzétételi költségtérítés megfizetése nélkül.
 
-131/U. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XCVI. törvénnyel megállapított 36. § (2) bekezdését a 2024. január 1. napján és azt követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
+131/U. § (1) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XCVI. törvénnyel megállapított 36. § (2) bekezdését a 2024. január 1. napján és azt követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
+
+(2) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XCVI. törvénnyel megállapított 24. § (2) bekezdését a 2024. március 1. napján és az azt követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

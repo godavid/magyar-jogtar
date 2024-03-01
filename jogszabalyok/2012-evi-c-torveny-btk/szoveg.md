@@ -643,6 +643,8 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 (2) A közügyektől eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A közügyektől eltiltás tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, vagy amely alatt kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a közügyektől eltiltás tartamába be kell számítani.
 
+(3) A szabadságvesztés végrehajtásának kegyelemből történő felfüggesztése esetén, ha a kegyelmi elhatározás a közügyektől eltiltást nem érintette, a próbaidő tartama a közügyektől eltiltás tartamába beszámít, kivéve, ha a szabadságvesztés végrehajtását rendelik el.
+
 ### VIII. Fejezet — AZ INTÉZKEDÉSEK
 
 63. § (1) Intézkedések
@@ -659,7 +661,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 (2) A megrovás, a próbára bocsátás és a jóvátételi munka önállóan, büntetés helyett alkalmazható.
 
-(3) A pártfogó felügyelet büntetés vagy intézkedés mellett alkalmazható. Kiutasítás mellett nem rendelhető el pártfogó felügyelet.
+(3) A pártfogó felügyelet büntetés vagy intézkedés mellett alkalmazható. Kiutasítás mellett pártfogó felügyelet nem rendelhető el és a pártfogó felügyelet kötelező alkalmazásának sincs helye.
 
 (4) Az elkobzás, a vagyonelkobzás és az elektronikus adat végleges hozzáférhetetlenné tétele önállóan, és büntetés vagy intézkedés mellett is alkalmazható.
 
@@ -763,6 +765,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 - g) meghatározott tanulmányokat folytasson,
 - h) – beleegyezése esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát,
 - i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a pártfogó felügyelői szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.
+- j) meghatározott, az internet elérésével végezhető tevékenységtől tartózkodjon vagy azt korlátozottan végezzen.
 
 (3) A bíróság, illetve az ügyészség a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
 
@@ -771,6 +774,13 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 (5) A bíróság a (4) bekezdés alkalmazásától a 69. § (2) bekezdés d) pontja szerinti elkövetővel szemben az elkövetés körülményeire, az elkövető személyében rejlő társadalomra veszélyesség fokára, az elkövető és a bűncselekmény sértettje, illetve más, a bűncselekménnyel összefüggésben veszélyeztetett személy közötti kapcsolatra vagy egyéb büntetéskiszabási körülményre figyelemmel eltérhet.
 
 (6) A (2) bekezdés b) pontja szerinti távoltartás elrendelése nem zárja ki, hogy az elkövető – ha kapcsolattartásra jogosult – a kiskorú gyermekével felügyelt kapcsolattartás keretében kapcsolatot tartson.
+
+(7) A (2) bekezdés j) pontja szerinti magtartási szabály esetén a bíróság vagy az ügyészség az elkövetett bűncselekménnyel összefüggésben meghatározza, hogy az elkövető az interneten végezhető mely tevékenységektől köteles tartózkodni, továbbá meghatározhatja, hogy az elkövető
+
+- a) az internetet mely eszközén keresztül érheti el,
+- b) az internet elérésével végzett tevékenységét hogyan szükséges igazolnia,
+- c) az internet elérésével végzett tevékenységének ellenőrzése érdekében – ha annak műszaki feltételei fennállnak – milyen információs rendszert képező berendezést vagy alkalmazást használhat, illetve
+- d) ha a technikai feltételek fennállnak, az internet elérésével végzett tevékenységének ellenőrzését a párfogó felügyelőnek az előre be nem jelentett felhívására folyamatos kép- és hangfelvétel továbbításával köteles biztosítani.
 
 ### Az elkobzás
 
@@ -2212,10 +2222,13 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 - c) hamis vagy meghamisított gyógyszert vagy állatgyógyászati készítményt az ország területére behoz, onnan kivisz, azon átszállít, vagy indokolatlan mennyiségben megszerez, tart,
 - d) Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati készítményt indokolatlan mennyiségben megszerez, tart, az ország területére behoz, onnan kivisz, azon átszállít,
 - e) gyógyszerhez vagy állatgyógyászati készítményhez kapcsolódó eredeti dokumentumot kereskedelmi céllal rendeltetésétől eltérően felhasznál,
+- f) olyan gyógyszert, állatgyógyászati készítményt, amelynél a gyógyszerellátásra vonatkozó szabályok megszegése miatt az ellátási lánc folytonossága nem igazolható, a jogszerű ellátási láncban forgalomba hoz vagy azzal kereskedik,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Ha az (1) bekezdésben meghatározott bűncselekményt az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet [a továbbiakban: 78/2022. (XII. 28.) BM rendelet] 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+(2) Ha az (1) bekezdésben meghatározott bűncselekményt az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet [a továbbiakban: 78/2022. (XII. 28.) BM rendelet] 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre vagy állatgyógyászati készítményre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer vagy állatgyógyászati készítmény hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+
+(2a) A (2) bekezdés szerint büntetendő, aki a (2) bekezdésben meghatározott tartalmú gyógyszert, gyógyszer hatóanyagot, állatgyógyászati készítményt jogosulatlanul forgalomba hoz vagy azzal kereskedik.
 
 (3) A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben
 
@@ -2233,13 +2246,14 @@ okoz.
 
 (5) Aki a bűncselekményt
 
-- a) egészségügyi dolgozóként,
-- b) gyártásra, nagykereskedelemre, közvetlen lakossági ellátás végzésére engedéllyel rendelkező szervezet alkalmazottjaként, vagy
-- c) bűnszövetségben
+- a) az (1) bekezdés a)–e) pontjában, a (2) és a (2a) bekezdésben meghatározott esetben
+  - aa) egészségügyi dolgozóként,
+  - ab) gyártásra, nagykereskedelemre, közvetlen lakossági ellátás végzésére engedéllyel rendelkező szervezet alkalmazottjaként, vagy
+- b) bűnszövetségben
 
-követi el, az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel, a (2) bekezdésben meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+követi el, az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel, a (2) és a (2a) bekezdésben meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-(6) Az (5) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszer vagy állatgyógyászati készítmény a felhasználók számára széles körben válik hozzáférhetővé.
+(6) Az (5) bekezdés szerint büntetendő, ha az (1) bekezdés b) vagy f) pontjában, illetve a (2a) bekezdésben meghatározott gyógyszer vagy állatgyógyászati készítmény sajtótermék, médiaszolgáltatás vagy elektronikus hírközlő hálózaton való közzététel útján válik a nagy nyilvánosság számára hozzáférhetővé.
 
 (7) Aki az (1)–(6) bekezdésben meghatározott gyógyszerhamisításra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
@@ -2275,7 +2289,7 @@ okoz.
 
 követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(4) A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett egészségügyi termék a felhasználók számára széles körben válik hozzáférhetővé.
+(4) A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett egészségügyi termék sajtótermék, médiaszolgáltatás, vagy elektronikus hírközlő hálózaton való közzététel útján válik a nagy nyilvánosság számára hozzáférhetővé.
 
 (4a) Aki az (1)–(4) bekezdésben meghatározott egészségügyi termék hamisítására irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
@@ -6547,7 +6561,9 @@ követik el.
 - k) 72–76. §-a a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
 - l) 219. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
 - m) 3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek,
-- n) 185/A. §-a a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek
+- n) 185/A. §-a
+  - na) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló, 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
+  - nb) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

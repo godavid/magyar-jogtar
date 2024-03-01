@@ -48,6 +48,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - 26. közszolgáltatás: törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott víziközmű-szolgáltatás, távhőszolgáltatás, hulladékgazdálkodási közszolgáltatási résztevékenység, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatás, elektronikus hírközlési szolgáltatás, egyetemes postai szolgáltatás, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatás, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatás,
 - 27. online adásvételi vagy online szolgáltatási szerződés: olyan adásvételi vagy szolgáltatási szerződés, amelynek értelmében a vállalkozás vagy annak közvetítője egy honlapon vagy egyéb elektronikus eszközön keresztül kínál megvételre valamilyen árut vagy kínál igénybevételre valamilyen szolgáltatást, és a fogyasztó az adott honlapon vagy egyéb elektronikus eszközön keresztül rendeli meg az árut vagy szolgáltatást,
 - 28. online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom,
+- 28a. panasz: a fogyasztó vállalkozással szemben előterjesztett, a vállalkozásnak, vagy a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő forgalmazásával, értékesítésével közvetlen kapcsolatban álló magatartására, tevékenységére vagy mulasztására vonatkozó, egyéni jog- vagy érdeksérelem megszüntetésére irányuló kifogása, a kellékszavatossági, termékszavatossági vagy jótállási igény kivételével,
 - 29. szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek elsődleges célja a szexuális ingerkeltés, különösen amely nemi aktust vagy egyéb szexuális cselekményt nyíltan ábrázol, illetve emberi testet, testrészt szexuális ingerkeltésre alkalmas módon vagy szexuális ingerkeltés céljából ábrázol, ideértve a – rendeltetése szerint – szexuális ingerkeltésre szolgáló, nemi aktus vagy egyéb szexuális cselekmény során alkalmazható eszközt is, a fogamzásgátlás céljából alkalmazható eszköz kivételével,
 - 30. szolgáltatás: termék, ingatlan vagy vagyoni értékű jog értékesítésén kívül minden olyan – ellenszolgáltatás fejében végzett – tevékenység, amely a megrendelő, illetve megbízó igényének kielégítésére valamely eredmény létrehozását, teljesítmény nyújtását vagy más magatartás tanúsítását foglalja magában,
 - 31. szolgáltatási szerződés: az adásvételi szerződéstől eltérő bármely olyan szerződés, amelynek értelmében a vállalkozás a fogyasztó részére szolgáltatást nyújt vagy szolgáltatás nyújtását vállalja, a fogyasztó pedig megfizeti vagy vállalja, hogy megfizeti a szolgáltatás díját,
@@ -183,7 +184,7 @@ törekszik a hulladékképződés megelőzésére.
 
 (1a) A tájékoztatásnak fogyasztói jogvita esetén ki kell terjednie a fogyasztó lakóhelye vagy tartózkodási helye szerint illetékes békéltető testületekhez való fordulás lehetőségére, valamint tartalmaznia kell a békéltető testület székhelyét, telefonos elérhetőségét, internetes elérhetőségét és levelezési címét. A békéltető testületekről történő tájékoztatási kötelezettséget világosan, érthetően és könnyen elérhető módon kell teljesíteni, internetes honlappal rendelkező vállalkozás esetén a honlapon, honlap hiányában az általános szerződési feltételekben, általános szerződési feltételek hiányában pedig külön formanyomtatványon. Üzlettel rendelkező vállalkozás esetén az e bekezdés és az (1) bekezdés szerinti tájékoztatást jól láthatóan és olvashatóan kell megadni.
 
-(2) A fogyasztó a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő forgalmazásával, illetve értékesítésével közvetlen kapcsolatban álló magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban vagy írásban közölheti a vállalkozással.
+(2) A fogyasztó szóban vagy írásban közölheti panaszát a vállalkozással.
 
 (3) A szóbeli panaszt azonnal meg kell vizsgálni, és szükség szerint orvosolni kell. Ha a fogyasztó a panasz kezelésével nem ért egyet, vagy a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul köteles jegyzőkönyvet felvenni, és annak egy másolati példányát
 
@@ -417,7 +418,7 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 - a) a békéltető testületi tagságra benyújtott pályázat részeként,
 - b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
-(5) A 21. § (4) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy az életkorát hatósági igazolvánnyal igazolja.
+(5) Az általános öregségi nyugdíjkorhatárt betöltött testületi tagok arányára vonatkozó feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy az életkorát hatósági igazolvánnyal igazolja.
 
 22/A. § (1) A békéltető testület elnöke a békéltető testület tagját, a fogyasztóvédelemért felelős miniszter a békéltető testület elnökét írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy az igazolásra felhívottal szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok.
 
@@ -923,7 +924,7 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 - j) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelv.
 - k) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv.
 
-(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – az (EU) 2017/2394 rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
+(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – az (EU) 2017/2394 rendelet végrehajtását a 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
 
 (3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – az (EU) 2017/2394 rendelet végrehajtásának összehangolását.
 
@@ -996,6 +997,10 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerinti, az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás egyszeri aktiválásához szükséges adattörlő kódok darabszámáról a vállalkozás elnevezésének, székhelyének és adószámának megadásával.
 
+45/D. § (1) A fogyasztói panaszok tekintetében a fogyasztóvédelmi hatóság ellenőrzi a 261/2004/EK európai parlamenti és tanácsi rendeletben meghatározott, a beszállás visszautasítására, a járat törlésére vagy késésére, a magasabb vagy alacsonyabb osztályon történő elhelyezésre, a csökkent mozgásképességű vagy különleges szükségletekkel rendelkező személyekre, valamint az utasok részére nyújtandó tájékoztatási kötelezettségre vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
+
+(2) A fogyasztóvédelmi hatóság a 47. § (1) bekezdés c) pontja szerinti jogkövetkezmény alkalmazásakor a 261/2004/EK európai parlamenti és tanácsi rendelet alapján a fogyasztót megillető kártalanítás, visszatérítés, átfoglalás vagy ellátás biztosítására, illetve a vonatkozó rendelkezések megsértése miatt felmerült fogyasztói igények megtérítésére kötelezheti a vállalkozást.
+
 46. § (1) A fogyasztóvédelmi hatóság eljárása megindításának feltétele, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését.
 
 (2) A fogyasztóvédelmi hatóság eljárásában az általuk védett fogyasztói érdekek védelme körében az ügyfél jogai illetik meg
@@ -1013,7 +1018,7 @@ a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi C
 
 (4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
-(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 60 nap.
+(5)
 
 (6)
 
@@ -1035,10 +1040,12 @@ a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi C
 - b) megtilthatja a jogsértő magatartás folytatását,
 - c) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezheti a vállalkozást,
 - d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilthatja az áru forgalmazását, illetve értékesítését,
-- e) a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottak szerinti dolgot jogosult elkobozni, és azt a jogsértést elkövető vállalkozás költségére megsemmisíteni,
-- f)
-- g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását, ha az a fogyasztók életének, testi épségének, egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges,
-- h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
+- e) a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben (a továbbiakban: Szankció tv.) meghatározottak szerinti dolgot jogosult elkobozni, és azt a jogsértést elkövető vállalkozás költségére megsemmisíteni,
+- f) elrendelheti az (1a) bekezdés szerinti jogkövetkezmény alkalmazását, vagy az elektronikus adat ideiglenes hozzáférhetetlenné tételét a 48/A–48/C. § szerint,
+- g) elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását
+  - ga) a jogszerű állapot helyreállításáig, ha az a fogyasztók életének, testi épségének vagy egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges, vagy
+  - gb) legfeljebb 30 napra, ha a jogsértés a fogyasztók széles körének jelentős vagyoni hátrányt okoz,
+- h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések 3 éven belüli ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
 - i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (1a) Amennyiben nem áll rendelkezésre más hatékony eszköz az (EU) 2017/2394 rendelet hatálya alá tartozó jogsértések megszüntetésének vagy megtiltásának érvényre juttatására és a fogyasztók kollektív érdekeit érő súlyos sérelem kockázatának megelőzése érdekében, a fogyasztóvédelmi hatóság:
@@ -1047,15 +1054,17 @@ a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi C
 - b) elrendelheti, hogy a tárhelyszolgáltató az online felületet távolítsa el, az ahhoz való hozzáférést tiltsa le vagy korlátozza, vagy
 - c) elrendelheti, hogy a domainszolgáltatók és domainnyilvántartók egy teljesen minősített domainnevet töröljenek és jogosult annak az engedélyezésére, hogy az érintett illetékes hatóság ilyen domainnevet nyilvántartásba vegyen, ideértve a harmadik fél vagy más hatóság felkérését ilyen intézkedések megtételére.
 
-(1b) A fogyasztóvédelmi hatóság (1a) bekezdés szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+(1b) A fogyasztóvédelmi hatóság (1a) bekezdés b) vagy c) pontja szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
 
-(1c) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+(1c) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elektronikus hírközlési szolgáltatóval való közlését és végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
 (2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
+(2a) Az (1) bekezdés g) és h) pontja szerinti jogkövetkezmény alkalmazása esetén a fogyasztóvédelmi hatóság elrendeli az üzlet bezárásáról szóló – a megállapított jogsértést és az üzletbezárás időtartamát is tartalmazó – jól látható tájékoztatás elhelyezését az üzlet vásárlók által használható összes bejáratánál, a vállalkozás által működtetett vagy alkalmazott valamennyi online felületen legalább 10 másodpercig megjelenő, át nem ugorható módon, valamint – amennyiben a vállalkozás ilyennel rendelkezik – az adott üzletre vonatkozó reklámújságban.
+
 (3) Jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
 
-(4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
+(4) A fogyasztóvédelmi hatóság által alkalmazható jogkövetkezmények együttesen is megállapíthatók.
 
 (5) Az (1) bekezdés alkalmazásában a jogkövetkezmények meghatározásakor a következő szempontokat kell figyelembe venni:
 
@@ -1077,11 +1086,11 @@ a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi C
 
 (9a) Az ügyfélszolgálati ügyintéző élőhangos bejelentkezésére vonatkozó, a 17/B. § (3) bekezdésében előírt kötelezettség ellenőrzése érdekében az az elektronikus hírközlési szolgáltató, akinek hálózatából a hívást kezdeményezték, a fogyasztóvédelmi hatóság felhívására köteles közölni a hívás kezdő időpontjára és időtartamára vonatkozó, általa kezelt adatokat.
 
-(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
+(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult térítésmentesen minta és ellenminta vételére a termék minőségének, mennyiségének vagy összetételének vizsgálata céljából. A minta és az ellenminta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
-(12)
+(12) Ha a minta az előírt követelményeknek megfelel, jogszabály vagy a vállalkozás eltérő rendelkezése hiányában a fogyasztóvédelmi hatóság a mintát és ellenmintát a minta vizsgálatának helyén visszaadja a vállalkozásnak. A mintát és ellenmintát a vállalkozás legkésőbb a döntés véglegessé válásától számított 8, élelmiszer vagy takarmány esetén 1 napon belül veheti át.
 
 (13) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
 
@@ -1104,7 +1113,7 @@ a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi C
 - a) az értékesítésre szánt áru tárolására vagy gyártására szolgáló helyiségbe, valamint létesítménybe, így különösen raktárba belépni;
 - b) az eljárásához szükséges vizsgálatok elvégzése céljából térítésmentesen mintát venni.
 
-(2) A fogyasztóvédelmi hatóság a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető helyzet, továbbá a fogyasztók széles körének jelentős vagyoni hátránnyal fenyegető veszélyeztetése fennállása esetén – az ügyész előzetes jóváhagyásával – az ellenőrzést a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is lefolytathatja.
+(2) A fogyasztóvédelmi hatóság a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető helyzet, vagy a fogyasztók széles körének jelentős vagyoni hátránnyal fenyegető veszélyeztetése fennállása esetén – az ügyész előzetes jóváhagyásával – az ellenőrzést a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is lefolytathatja.
 
 (3) A fogyasztóvédelmi hatóság a (2) bekezdés szerinti ellenőrzés során:
 
@@ -1117,59 +1126,128 @@ a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi C
 
 #### 47/B. §
 
-47/C. § (1) A bírság összege 15 ezer forinttól
+47/C. § (1) A bírság összege
 
-- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
-- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
-
-terjedhet.
-
-(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § a) pontja szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő ismételten megállapított jogsértése esetén a bírság összege 200 ezer forinttól
-
-- a) az (1) bekezdés a) pont hatálya alá tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 2 milliárd forintig,
-- b) az (1) bekezdés a) pont hatálya alá nem tartozó vállalkozás esetében 2 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
+- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében
+  - aa) 1 millió forinttól a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 650 millió forintig,
+  - ab) a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető, vagy a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 2 millió forinttól 3 milliárd forintig,
+- b) az a) pont hatálya alá nem tartozó vállalkozás esetében
+  - ba) 100 ezer forinttól 2 millió forintig,
+  - bb) a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető, vagy a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 200 ezer forinttól a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 6,5 millió forintig
 
 terjedhet.
 
-(1b) Az (1) bekezdéstől eltérően az (EU) 2017/2394 rendelet 21. cikkével összefüggésben megállapított jogsértés esetén a bírság összege
+(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § a) pontja szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő, 3 éven belül ismételten megállapított jogsértése esetén a bírság összege
+
+- a) az (1) bekezdés a) pontjának hatálya alá tartozó vállalkozás esetében
+  - aa) 2 millió forinttól a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 3 milliárd forintig,
+  - ab) a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető, vagy a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 4 millió forinttól 5 milliárd forintig,
+- b) az (1) bekezdés a) pontjának hatálya alá nem tartozó vállalkozás esetében
+  - ba) 400 ezer forinttól 4 millió forintig,
+  - bb) a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető, vagy a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén 600 ezer forinttól a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 6,5 millió forintig
+
+terjedhet.
+
+(1b) Az (1) bekezdéstől és a 48. § (1) bekezdésétől eltérően az (EU) 2017/2394 rendelet 21. cikkével összefüggésben megállapított jogsértés esetén a bírság összege
 
 - a) a vállalkozás nettó árbevételének legalább 4%-a,
 - b) ha a vállalkozás árbevétele nem állapítható meg, akkor legalább 2 millió euró.
 
-(2) Az (1) bekezdés szerinti nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
+(2) A nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
-(3) Az (1) bekezdés alkalmazásában a nettó árbevétel meghatározása során
+(3) A nettó árbevétel meghatározása során
 
 - a) pénzforgalmi intézmény esetén a pénzforgalmi szolgáltatási tevékenységből adódó
   - aa) nettó árbevétel, valamint pénzügyi műveletek bevételeinek,
 - b) árutőzsdei szolgáltató esetén az árutőzsdei szolgáltatási tevékenységből adódó
   - ba) nettó árbevétel, valamint
-  - bb) pénzügyi műveletek bevételeinek összegét nem lehet figyelembe venni.
+  - bb) pénzügyi műveletek bevételeinek
+
+összegét nem lehet figyelembe venni.
+
+(3a) A (2) bekezdés szerinti árbevétel meghatározásakor a terméket a vállalkozás márkaneve alatt forgalmazók vagy a szolgáltatást a vállalkozás márkaneve alatt nyújtók éves nettó árbevételének összegét is figyelembe kell venni.
 
 (4) Ha a vállalkozás a beszámolóban az adatokat devizában adja meg, a forintra történő átszámításkor a Magyar Nemzeti Bank által megállapított, a vállalkozás üzleti évének lezárásakor – újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján – érvényes hivatalos devizaárfolyamot kell alkalmazni.
 
 (5) A fogyasztóvédelmi hatóság bírságot szab ki, ha
 
-- a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon a telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
+- a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő 3 éven belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon a telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 - b) a jogsértés a fogyasztók széles körét érinti,
-- c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét, vagy
-- d) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét.
+- c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét,
+- d) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét, vagy
+- e) a vállalkozás megsérti az adatok végleges hozzáférhetetlenné tételét lehetővé tevő címke vagy adattörlő kód átadására irányuló kötelezettségét.
 
 (6) Az (5) bekezdésben foglaltak esetén közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
 
-48. § (1)–(2)
+(7) Az (5) bekezdés, valamint a Szankció tv. 9. § (3) bekezdése szerinti esetekben az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bírság legkisebb összege az (1) bekezdés a) pontjának hatálya alá tartozó vállalkozás esetében minden esetben 2 millió forint, az (1) bekezdés a) pontjának hatálya alá nem tartozó vállalkozás esetében minden esetben 200 ezer forint.
+
+(8) Ha a jogsértés olyan, a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti kereskedelmi kommunikáció útján valósul meg, amely a családi kapcsolatot, a családi közösséget hangsúlyosan megjeleníti, a fogyasztóvédelmi hatóság eljárásában a Szankció tv. 9. § (3) bekezdés c) pontjának alkalmazása szempontjából különösen kiszolgáltatott személynek minősül az ilyen kereskedelmi kommunikációval megszólított családtagok köre.
+
+48. § (1) A bírság kiszabása során a (2) bekezdés szerinti, az ügyben irányadó bírságösszegből kell kiindulni, amely az eset lényeges körülményei, így különösen a 47. § (5) bekezdésében, valamint a Szankció tv. 10. § (1) bekezdésében meghatározott szempontok mérlegelésével a 47/C. §-ban meghatározott keretösszegeken belül csökkenthető vagy növelhető.
+
+(2) Az ügyben irányadó bírságösszeg
+
+- a) a 47/C. § (1) bekezdés a) pont aa) alpontja szerinti esetben – a b) pont kivételével – 3 millió forint,
+- b) a 47/C. § (1) bekezdés a) pont aa) alpontja szerinti esetben a 47/C. § (5) bekezdése, valamint a Szankció tv. 9. § (3) bekezdés a)–c) pontja szerinti esetekben 6 millió forint,
+- c) a 47/C. § (1) bekezdés a) pont ab) alpontja szerinti esetben 50 millió forint,
+- d) a 47/C. § (1) bekezdés b) pont ba) alpontja szerinti esetben – az e) pont kivételével – 550 ezer forint,
+- e) a 47/C. § (1) bekezdés b) pont ba) alpontja szerinti esetben a 47/C. § (5) bekezdése, valamint a Szankció tv. 9. § (3) bekezdés a)–c) pontja szerinti esetekben 600 ezer forint,
+- f) a 47/C. § (1) bekezdés b) pont bb) alpontja szerinti esetben 1 millió forint,
+- g) a 47/C. § (1a) bekezdés a) pont aa) alpontja szerinti esetben 50 millió forint,
+- h) a 47/C. § (1a) bekezdés a) pont ab) alpontja szerinti esetben 100 millió forint,
+- i) a 47/C. § (1a) bekezdés b) pont ba) alpontja szerinti esetben 2,2 millió forint,
+- j) a 47/C. § (1a) bekezdés b) pont bb) alpontja szerinti esetben 3,5 millió forint.
 
 (3) A bírságot a fogyasztóvédelmi hatóság kincstárnál vezetett számlájára kell befizetni.
 
-(4)
+(4) A véglegesen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
-(5)
+(5) A fogyasztóvédelmi hatóság eljárása során kiszabott eljárási bírság adók módjára behajtandó köztartozás.
 
-(6) A véglegesen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
+48/A. § (1) A fogyasztóvédelmi hatóság ideiglenes intézkedésként végzésben elrendelheti az olyan elektronikus hírközlő hálózat útján közzétett adat (a továbbiakban: elektronikus adat) ideiglenes hozzáférhetetlenné tételét, amelynek közzététele miatt hatósági ellenőrzést vagy hatósági eljárást folytat, ha az
 
-(7) A fogyasztóvédelmi hatóság eljárása során kiszabott eljárási bírság adók módjára behajtandó köztartozás.
+- a) a fogyasztók életének, testi épségének, egészségének védelme,
+- b) a fogyasztók széles körét érintő vagyoni hátrány elhárítása, vagy
+- c) tizennyolcadik életévét be nem töltött vagy más különösen kiszolgáltatott fogyasztó védelme
 
-#### 48/A. §
+érdekében szükséges.
+
+(2) Az (1) bekezdés szerinti végzés kötelezettje – annak a végzésben történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elektronikus hírközlési szolgáltatóval való közlését és végrehajtását az NMHH az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(4) Az (1) bekezdés szerinti végzést a fogyasztóvédelmi hatóság közli az ellenőrzés vagy az eljárás alá vont vállalkozással.
+
+(5) A fogyasztóvédelmi hatóság 100 ezertől 20 millió forintig terjedő eljárási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely az (1) bekezdés szerinti végzésben foglaltaknak nem tesz eleget.
+
+(6) Az (1) bekezdés szerinti végzés ellen önálló jogorvoslatnak van helye.
+
+48/B. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételére vonatkozó kötelezettség megszűnik, ha
+
+- a) a fogyasztóvédelmi hatóság eljárása megszűnik,
+- b) a fogyasztóvédelmi hatóság az eljárását megszünteti,
+- c) a fogyasztóvédelmi hatóság a 48/A. § (1) bekezdése szerinti végzés meghozatalától számított 15 napon belül nem indít eljárást, vagy
+- d) a fogyasztóvédelmi hatóság határozatában az elektronikus adat törlésére kötelezi az eljárás alá vont vállalkozást, a határozat véglegessé válásának napján.
+
+(2) Az ideiglenes hozzáférhetetlenné tételt a fogyasztóvédelmi hatóság végzéssel haladéktalanul megszünteti, ha az elrendelés oka megszűnt.
+
+(3) Az e § szerinti döntésre a 48/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+(4) A fogyasztóvédelmi hatóság az (1) bekezdés a)–c) pontjában és a (2) bekezdésben foglaltakról haladéktalanul értesíti az ellenőrzés vagy eljárás alá vont vállalkozást.
+
+48/C. § (1) A fogyasztóvédelmi hatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételét az Ákr. szerinti végrehajtás keretében is elrendelheti, ha
+
+- a) az elektronikus adat közzététele a fogyasztóvédelmi hatóság véglegessé vált döntésében foglaltak alapján jogellenes,
+- b) az a) pont szerinti elektronikus adatra vonatkozóan a fogyasztóvédelmi hatóság az elektronikus adat törlését rendelte el, és
+- c) az elektronikus adat törlésére kötelezett vállalkozás a törlési kötelezettségének nem tesz eleget.
+
+(2) Az elektronikus adat (1) bekezdés szerinti ideiglenes hozzáférhetetlenné tételét a fogyasztóvédelmi hatóság az elektronikus adat törlésének időpontjáig rendeli el.
+
+(3) Az elektronikus adat (1) bekezdés szerinti ideiglenes hozzáférhetetlenné tételére a 48/A. § (2)–(6) bekezdésében és a 48/B. § (2) és (4) bekezdésében meghatározottakat megfelelően alkalmazni kell.
+
+48/D. § A fogyasztóvédelmi hatóságot, az NMHH-t és az elektronikus hírközlési szolgáltatót nem terheli felelősség azért a kárért, amely abból származik, hogy a hozzáférhetetlenné tett elektronikus adat olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.
+
+48/E. § Ha a fogyasztóvédelmi hatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelte el, és a döntés véglegessé válását követően megállapítja, hogy a döntésben foglalt elektronikus adat közzétételével megvalósult jogellenes tevékenység a jogellenesség megállapítása szempontjából azonos tartalommal más elektronikus adat – így különösen más IP-cím, domain vagy aldomain – közzétételével is megvalósul, akkor újabb hatósági eljárás mellőzésével az ideiglenes hozzáférhetetlenné tételhez szükséges adatok megküldésével elektronikus úton, biztonságos kézbesítési szolgáltatás útján értesíti az NMHH-t (a továbbiakban: egyszerűsített utánkövetés), amely ezen adatokat kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal. Az egyszerűsített utánkövetésre tekintettel megküldött, a hozzáférhetetlenné tételhez szükséges adatok szerinti elektronikus adat hozzáférhetetlenné tételét az elektronikus hírközlési szolgáltatók a kapcsolódó döntés végrehajthatósága fennállásáig kötelesek biztosítani.
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra azonnal végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
@@ -1343,7 +1421,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
 - a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
-- b)
+- b) a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról, és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet [45/D. §];
 - c)
 - d) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet [2. § 9. pont, 18. § (8) bekezdés, 29. § (11) bekezdés];
 - e) a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet.

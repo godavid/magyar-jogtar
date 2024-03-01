@@ -3031,7 +3031,7 @@ számított kilencven napon belül kezdeményezheti.
 
 (5)
 
-(6) Felhasználói engedély hiányában nem lehet betekinteni a minősített adatot tartalmazó iratba. Nem lehet betekinteni a törvény által védett egyéb adatot tartalmazó iratba sem, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az (1) bekezdésben meghatározott, betekintést kérő személyt jogorvoslati jogának gyakorlásában.
+(6) Személyi biztonsági feltételek megléte hiányában nem lehet betekinteni a minősített adatot tartalmazó iratba. Nem lehet betekinteni a törvény által védett egyéb adatot tartalmazó iratba sem, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az (1) bekezdésben meghatározott, betekintést kérő személyt jogorvoslati jogának gyakorlásában.
 
 (7) Az olyan tárgyalásról készült jegyzőkönyvet, amelyről a nyilvánosságot a minősített adat védelme érdekében zárták ki, nem lehet lemásolni vagy arról feljegyzést készíteni. Ilyen ügyben az iratok megtekintésének is csak – a minősített adat védelméről szóló törvényben meghatározottak alapján – a Közbeszerzési Döntőbizottság elnöke által megállapított feltételek mellett van helye.
 
