@@ -215,6 +215,8 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 - f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltották Magyarország területének elhagyását és úti okmányának átadására kötelezték, vagy
 - g) akivel szemben a bíróság a jogellenes elvitellel veszélyeztetett gyermekek tekintetében szükséges utazás megakadályozásával járó figyelmeztető jelzést helyezett el a Schengeni Információs Rendszerben.
 
+(1a) Nem alkalmazható az (1) bekezdés c) pontja a feltételes szabadságra bocsátás engedélyezése esetén, ha a bíróság vagy az idegenrendészeti hatóság a Magyarországon élő hontalan, harmadik országbeli állampolgár vagy szabad mozgás és tartózkodás jogával rendelkező személy kiutasítását rendelte el.
+
 (2) Az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén
 
 - a) az ügyész vagy

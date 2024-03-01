@@ -763,7 +763,7 @@ hasznosítására.
 
 (6) Nemzetközi szerződésből eredő kötelezettség alapján a szabadalmi bejelentést a Szellemi Tulajdon Nemzeti Hivatala elnöke az (5) bekezdésben említett eljárás lefolytatása nélkül minősíti.
 
-(7) A bejelentő és a feltaláló felhasználói vagy megismerési engedély hiányában is jogosult szabadalmi bejelentése megtekintésére, ha azt minősítették.
+(7) A bejelentő és a feltaláló megismerési engedély hiányában is jogosult szabadalmi bejelentése megtekintésére, ha azt minősítették.
 
 (8) Ha a szabadalmi bejelentést minősítették, azzal kapcsolatban az 56. §, illetve a X/A–X/B. fejezetek alapján nem közölhető hatósági tájékoztatás.
 

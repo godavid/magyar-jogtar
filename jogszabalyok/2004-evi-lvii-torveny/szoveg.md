@@ -186,19 +186,25 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 17. § Az állami szervek kötelesek az Európai Parlament képviselői részére a munkájukhoz szükséges felvilágosítást megadni.
 
-17/A. § (1) Az európai parlamenti képviselő a feladatai ellátásához szükséges minősített adatot – a minősített adat védelméről szóló törvényben foglaltaktól eltérően – személyi biztonsági tanúsítvány és titoktartási nyilatkozat nélkül, felhasználói engedély alapján használhatja fel, és köteles a minősített adat védelmére vonatkozó követelményeket megtartani.
+17/A. § (1) Az európai parlamenti képviselő a feladatai ellátásához szükséges minősített adatot – a minősített adat védelméről szóló törvényben foglaltaktól eltérően – személyi biztonsági tanúsítvány és titoktartási nyilatkozat nélkül használhatja fel, és köteles a minősített adat védelmére vonatkozó követelményeket megtartani.
 
-(2) Az (1) bekezdésben meghatározott felhasználói engedélyt a Nemzeti Biztonsági Felügyelet adja ki.
+(2)
 
-(3) Az Európai Unió Tanácsa által minősített adatra kiterjedő felhasználói engedély kiadása esetén a Nemzeti Biztonsági Felügyelet értesíti az Európai Parlament elnökét arról, hogy az európai parlamenti képviselőnek – a feladatkörére tekintettel kiadott felhasználói engedély alapján – megfelelő felhatalmazása van arra, hogy az Európai Parlament elnökétől az európai parlamenti képviselők uniós minősített adatokhoz való hozzáféréséről szóló uniós szabályok szerinti hozzáférési engedélyt megkapja.
+(3) Az Európai Unió Tanácsa által minősített adathoz történő hozzáférés érdekében a Nemzeti Biztonsági Felügyelet értesíti az Európai Parlament elnökét arról, hogy az európai parlamenti képviselőnek – feladatkörére tekintettel – e törvény alapján megfelelő felhatalmazása van arra, hogy az Európai Parlament elnökétől az európai parlamenti képviselők uniós minősített adatokhoz való hozzáféréséről szóló uniós szabályok szerinti hozzáférési engedélyt megkapja.
 
 ### V. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 
-18–21. §
+#### 18. §
 
-22. §
+#### 19. §
 
-23. §
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
 
 24. § A honvédelemről szóló 1993. évi CX. törvény 100. §-a (5) bekezdése E) pontjának e) alpontja helyébe a következő rendelkezés lép:
 
@@ -206,9 +212,17 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 „e) országgyűlési, európai parlamenti vagy helyi önkormányzati képviselői, polgármesteri, kisebbségi önkormányzati képviselői jelölése vagy megválasztása;”
 
-25–29. §
+#### 25. §
 
-30. §
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

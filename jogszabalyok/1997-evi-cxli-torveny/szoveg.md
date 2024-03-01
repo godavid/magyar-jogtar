@@ -1228,7 +1228,7 @@ kapcsolatos eljárás
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza az ingatlanok helyrajzi számának megállapítására vonatkozó szabályokat.
 
-(3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a számítógépes adatbázisból lekérdezés útján szolgáltatható ingatlan-nyilvántartási adatok szolgáltatására, az adatszolgáltatás igazgatási szolgáltatási díjának mértékére és kezelésére, megfizetésének módjára, valamint az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozásra és a számítógépes hálózaton keresztül történő adatszolgáltatásra vonatkozó részletes szabályokat.
+(3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjára, az ingatlan-nyilvántartási adatok szolgáltatására, az ingatlan-nyilvántartási adatok szolgáltatásának igazgatási szolgáltatási díja mértékére, kezelésére, megfizetésének módjára, valamint az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozásra és a számítógépes hálózaton keresztül történő adatszolgáltatásra vonatkozó részletes szabályokat.
 
 (3a)
 

@@ -149,15 +149,11 @@ végzése;
 - i) a c) és h) pontban foglalt minősítések meghosszabbításáért,
 - j) a 25/A. § szerinti nyilvántartásba történő felvétel iránti eljárásért.
 
-(4) A (3) bekezdés f) pontjában meghatározott soron kívüli eljárásért
-
-- a) 1–5 ingatlan esetén ingatlanonként 10 000 Ft,
-- b) 6–15 ingatlan esetén 50 000 Ft, valamit a hatodik ingatlantól ingatlanonként további 5 000 Ft,
-- c) 16, vagy több ingatlan esetén 100 000 Ft, valamit a tizenhatodik ingatlantól ingatlanonként további 500 Ft összegű igazgatási szolgáltatási díjat kell fizetni.
+(4)
 
 (4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését írásban engedélyezheti.
 
-(5) Az (4) bekezdés szerinti eljárási díj a fővárosi és vármegyei kormányhivatalok bevételét képezi, a megfizetés és felhasználás módjára az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdés rendelkezéseit kell alkalmazni.
+(5)
 
 (6) Szakirányú iskolarendszerű oktatási vagy tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
 
@@ -180,7 +176,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei – hitelesítés nélkül – díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
 
-(9) A (8) bekezdés alapján átadott állami alapadatokat a veszélyhelyzet vagy katasztrófaveszély megszűnése után – a megszűnéstől számított 30 napon belül – az adatigénylőnek vissza kell szolgáltatnia az adatszolgáltató részére.
+(9)
 
 (10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
 
@@ -257,6 +253,29 @@ díj-, költség- és térítésmentesen hozzáférhet.
 (35) A hulladékgazdálkodási hatóság – az elhagyott hulladék felszámolása érdekében – az elektronikus formában szolgáltatott térképmásolatok tekintetében teljes személyes díjmentességben részesül.
 
 (36) Az adatszolgáltató a Nemzeti Adatvagyon Ügynökség (a továbbiakban: NAVÜ) részére adatelemzési feladatainak ellátása érdekében az általa kért – a 3. § (1) bekezdése szerinti – adatokat átadja. A NAVÜ az átadott adatokat kizárólag adatelemzési célra használhatja fel, és kizárólag az adatelemzés eredményét jogosult továbbítani.
+
+#### 5/A. Földmérési és térképészeti adatok felhasználása
+
+6/A. § (1) Állami alapadatok felhasználásával előállított és működtetett nyilvántartási és térinformatikai rendszerek készítéséhez, az állami alapadatok publikálásához vagy bármilyen formában történő nyilvános megjelenítéséhez, átadásához a 32. § (3) bekezdés szerinti továbbfelhasználási engedély szükséges.
+
+(2) A nyilvántartási és térinformatikai rendszer tulajdonosa, amennyiben a nyilvántartási és térinformatikai rendszer állami alapadatot tartalmaz, az állami alapadat-tartalom használatáért igazgatási szolgáltatási díjat köteles fizetni.
+
+6/B. § (1) A (2) bekezdésben foglaltak kivételével a megjelenítés formájától függetlenül az állami alapadatok 6/A. § (1) bekezdésében meghatározott publikációjában vagy más formában történő megjelenítésében fel kell tüntetni a továbbfelhasználási engedély számát, továbbá a „Készült az állami alapadatok felhasználásával.” és a „Hatósági eljárásban nem használható.” szövegeket.
+
+(2) A 3. § (1) bekezdés szerinti adatbázisok publikációja vagy más formában történő megjelenítése esetén a megjelenített példányon a térképészetért felelős miniszter tulajdonosi joggyakorlása alá tartozó adatok tekintetében „Az adatforrás az ingatlanügyi hatóság archívuma.” és a „Hatósági eljárásban nem használható.” szövegeket, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó adatok tekintetében „Az adatforrás a honvédelem térképészeti támogatásáért felelő szerv archívuma.” és a „Hatósági eljárásban nem használható.” szövegeket kell feltüntetni.
+
+6/C. § (1) Állami alapadat jogosulatlan felhasználásának minősül, ha bármely természetes személy vagy jogi személy
+
+- a) nem fizette meg a 6/A. § (2) bekezdés szerinti adatfelhasználási díjat,
+- b) nem fizette meg a 32. § (3) bekezdés szerinti továbbértékesítési díjat,
+- c) az állami alapadatokat nem az adatszolgáltatás iránti kérelemben, az adatszolgáltatási vagy továbbértékesítési szerződésben, a továbbfelhasználási engedélyben rögzített módon használja és kezeli,
+- d) az állami alapadatokat – erre feljogosító jogszabály, továbbfelhasználási engedély vagy továbbértékesítési szerződés hiányában – harmadik fél rendelkezésére bocsátja,
+- e) az állami alapadatokat nem az adatszolgáltatásra jogosult szervtől szerezte be,
+- f) állami alapadatokat tartalmazó térképi adatbázis adatait az engedélyezett adatfelhasználási időt túllépve használja.
+
+(2) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
+
+(3) A (2) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
 
 #### 6. Az ország térképellátása
 
@@ -759,15 +778,15 @@ végzi.
 
 (8b) A földmérési és térinformatikai államigazgatási szerv által a (8) bekezdés alapján vezetett nyilvántartás a (8) bekezdés b) és g) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(8c) A nyilvántartásban szereplő személy a nyilvántartást vezető szervnél írásban kezdeményezheti a (8) bekezdés d)–f) pontjaiban szereplő adatainak feltüntetését is.
+(8c)
 
 (9) Aki földmérési munkát jogosulatlanul végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
 (10) Jogosulatlan földmérési tevékenységet végez az, aki az (1), (3) és (4) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
 
-(11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
+(11)
 
-(12) A (9) és (11) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
+(12) A (9) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
 
 29. § (1) Ingatlanrendező földmérő minősítést igénylő személy a földmérési és térinformatikai államigazgatási szerv részére hatósági bizonyítvánnyal igazolja, hogy a 28. § (7) bekezdés c) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
 
@@ -965,9 +984,14 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján igazgatási szolgáltatási díjköteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját.
+(5) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza a geodéziai tervezői és geodéziai szakértői minősítéssel kapcsolatos eljárásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
+- a) az adópolitikáért felelős miniszterrel egyetértésben, az e törvény alapján a felelősségi körébe tartozó igazgatási szolgáltatásidíj-köteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját,
+- b) a 6. § (21) bekezdése alapján a honvédelem térképészeti támogatásáért felelős szerv által a honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény részére hálózaton keresztül történő adatszolgáltatás rendjét
+
+rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján a felelősségi körébe tartozó igazgatási szolgáltatásidíj-köteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját.
 
 #### 30. Az Európai Unió jogának való megfelelés
 

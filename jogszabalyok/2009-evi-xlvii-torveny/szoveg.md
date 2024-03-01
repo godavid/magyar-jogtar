@@ -371,23 +371,26 @@ kell nyilvántartani.
 
 (2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott
 
-- a) elzárás, közérdekű munka, pénzbüntetés, kiutasítás, lefokozás vagy szolgálati viszony megszüntetése büntetés esetén a mentesítés beálltától,
+- a) elzárás, kiutasítás, lefokozás vagy szolgálati viszony megszüntetése büntetés esetén a mentesítés beálltától,
 - b) foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás esetén a végrehajtás befejezésétől vagy a végrehajthatóság megszűnésétől
 
 számított három évig kell nyilvántartani.
 
+(2a) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
+
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat gondatlan bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig kell nyilvántartani.
 
-20. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat
+20. § (1) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat
 
 - a) megrovás alkalmazása esetén az ügydöntő határozat jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
-- b) próbára bocsátás alkalmazása esetén a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől,
-- c) jóvátételi munka alkalmazása esetén a jóvátételi munka elvégzésének igazolásától,
-- d) kényszergyógykezelést megszüntető végzés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tételének elrendelése esetén a jogerőre emelkedéstől,
-- e) javítóintézeti nevelés esetén az intézkedés végrehajtásának befejezésétől,
-- f) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ügydöntő határozat esetén annak jogerőre emelkedésétől
+- b) jóvátételi munka alkalmazása esetén a jóvátételi munka elvégzésének igazolásától,
+- c) kényszergyógykezelést megszüntető végzés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tételének elrendelése esetén a jogerőre emelkedéstől,
+- d) javítóintézeti nevelés esetén az intézkedés végrehajtásának befejezésétől,
+- e) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ügydöntő határozat esetén annak jogerőre emelkedésétől
 
 számított három évig kell nyilvántartani.
+
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat próbára bocsátás alkalmazása esetén a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított öt évig kell nyilvántartani.
 
 20/A. § Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott büntetés vagy intézkedés végrehajtására vonatkozó adatokat a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően beszerezni nem lehet, akkor a büntetés vagy az intézkedés – foganatba vétel napjától számított – teljes tartama lejáratának a napját kell a büntetés vagy intézkedés kitöltése utolsó napjának tekinteni. Ilyen esetben úgy kell tekinteni, hogy a 18–20. §-ban meghatározott időtartam az azt befolyásoló körülmény bekövetkezése nélkül telt el.
 
