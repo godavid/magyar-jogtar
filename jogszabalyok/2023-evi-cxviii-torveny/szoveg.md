@@ -24,12 +24,7 @@ a munkavédelemről szóló 1993. évi XCIII. törvény módosításáról
 
 #### 11. §
 
-12. § Hatályát veszti az Mvt.
-
-- a)
-- b)
-- c)
-- d) 82. § (3) bekezdése.
+#### 12. §
 
 13. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2024. január 1-jén lép hatályba.
 

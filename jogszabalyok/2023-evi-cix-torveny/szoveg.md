@@ -56,33 +56,17 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 7. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-9. § A Rendőrségről szóló 1994. évi XXXIV. törvény 75/G. § (6)–(8) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett és a rendelkezésére bocsátott minősített adatot.
-
-(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben az alábbiak szerint kezelhet minősített adatot:
-
-- a) a minősített adattal kapcsolatos ügyintézés, a minősített adat feldolgozása,
-- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
-- c) a minősítés megismétlése,
-- d) a minősített adat birtokban tartása,
-- e) a minősített adat másolása, sokszorosítása,
-- f) kivonat készítése,
-- g) a minősített adat fordítása,
-- h) a minősített adat szerven belüli átadása,
-- i) a minősített adat szerven kívülre történő továbbítása, szállítása.
-
-(8) A rendőrséget alkotó szerv vezetője vagy az általa írásban meghatározott vezető beosztású személy a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére a (7) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.”
+#### 9. §
 
 #### 8. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-10. § Hatályát veszti a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 53. § (7) bekezdésében a „felhasználói vagy” szövegrész.
+#### 10. §
 
 #### 9. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
 #### 11. §
 
-12. § A Tpvt. 55/A. § (1) bekezdés c) pontjában a „felhasználói” szövegrész helyébe a „személyi biztonsági feltételek megléte” szöveg lép.
+#### 12. §
 
 #### 10. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
@@ -128,18 +112,13 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 18. Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény módosítása
 
-24. § Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 17/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 24. §
 
-„(3) Az Európai Unió Tanácsa által minősített adathoz történő hozzáférés érdekében a Nemzeti Biztonsági Felügyelet értesíti az Európai Parlament elnökét arról, hogy az európai parlamenti képviselőnek – feladatkörére tekintettel – e törvény alapján megfelelő felhatalmazása van arra, hogy az Európai Parlament elnökétől az európai parlamenti képviselők uniós minősített adatokhoz való hozzáféréséről szóló uniós szabályok szerinti hozzáférési engedélyt megkapja.”
-
-25. § Hatályát veszti az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény
-
-- a) 17/A. § (1) bekezdésében a „ , felhasználói engedély alapján” szövegrész,
-- b) 17/A. § (2) bekezdése.
+#### 25. §
 
 #### 19. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-26. § A menedékjogról szóló 2007. évi LXXX. törvény 32/V. § (1) bekezdésében a „felhasználói” szövegrész helyébe az „a személyi biztonsági feltételek megléte” szöveg lép.
+#### 26. §
 
 #### 20. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -161,144 +140,11 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 24. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-32. § (1) A minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) 3. § 5. pontja helyébe a következő rendelkezés lép:
+#### 32. §
 
-(E törvény alkalmazásában)
+#### 33. §
 
-„5. felhasználó: az a személy, aki – állami vagy közfeladat végrehajtása céljából – a minősített adathoz hozzáférhet;”
-
-(2) A Mavtv. 3. § 7. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„7. felhasználás: állami vagy közfeladat végrehajtása érdekében minősített adat kezelése;”
-
-(3) A Mavtv. 3. §-a a következő 19. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„19. minősített szerződés: minősített adat keletkeztetését, felhasználását, valamint átadását igénylő vagy minősített adatokat tartalmazó szerződés.”
-
-(4) A Mavtv. 4. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A minősítő a feladat- és hatáskörébe tartozó minősített adat esetén jogosult:
-
-- a) a megismerési engedély kiadására,
-- b) a nemzeti minősített adat felülvizsgálatára,
-- c) a minősített adat külföldi személy vagy külföldi szerv részére hozzáférhetővé tételének engedélyezésére,
-- d) a minősített adat külföldre vitelének vagy külföldről való behozatalának engedélyezésére,
-- e) a titoktartási kötelezettség alóli felmentésre,
-- f) a minősítési jelölés megismétlésének megtiltására.”
-
-(5) A Mavtv. 8. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Megkeresésre a Nemzeti Biztonsági Felügyelet gondoskodik a felülvizsgálat elvégzéséről
-
-- a) az e törvény hatálybalépése után jogutód nélkül megszűnő szervek által keletkeztetett nemzeti minősített adatok esetében, vagy
-- b) ha a nemzeti minősített adat felülvizsgálatára jogosult minősítő valamilyen okból nem állapítható meg.”
-
-(6) A Mavtv. 13. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Állami vagy közfeladata ellátásához
-
-- a) a köztársasági elnök,
-- b) a miniszterelnök,
-- c) az Alkotmánybíróság tagjai,
-- d) az Országgyűlés elnöke,
-- e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
-- f) a legfőbb ügyész,
-- g) az alapvető jogok biztosa,
-- h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
-- i) az Állami Számvevőszék elnöke
-
-– a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.”
-
-(7) A Mavtv. 13. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A bíró az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges minősített adatot – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány és titoktartási nyilatkozat nélkül használhatja fel.”
-
-(8) A Mavtv. 14/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A minősített adatot kezelő honvédelmi szervezet vezetője és biztonsági vezetője az (1) és (2) bekezdés szerinti esetben jogosult a minősített adat külföldre vitelének vagy külföldről való behozatalának engedélyezésére.”
-
-(9) A Mavtv. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a minősített adatot kezelő szerv közreműködő segítségét veszi igénybe, és ehhez a közreműködőnek minősített adatot kell felhasználnia, a biztonsági vezető – a minősített adat átadása előtt – ellenőrzi, hogy a közreműködőnél megteremtették-e a minősített adat védelméhez előírt feltételeket.”
-
-(10) A Mavtv. 16. § (1) bekezdése helyébe a következő rendelkezés lép és a Mavtv. 16. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1) Gazdálkodó szervezet
-
-- a) „Bizalmas!” vagy annál magasabb minősítési szintű minősített szerződés végrehajtásában, vagy
-- b) a „Bizalmas!” vagy annál magasabb minősítési szintű adat felhasználásával járó és a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés a) és b) pontja szerinti, minősített adat átadásával járó beszerzési eljáráson
-
-csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szintű telephely biztonsági tanúsítványt vagy egyszerűsített telephely biztonsági tanúsítványt részére kiállította.
-
-(1a) A telephely biztonsági tanúsítvány, illetve az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a minősített adatot kezelő szerv vagy a gazdálkodó szervezet a Nemzeti Biztonsági Felügyeletnél kezdeményezi.”
-
-(11) A Mavtv. 17. §-a a következő (3)–(5) bekezdéssel egészül ki:
-
-„(3) A személyi biztonsági tanúsítvány kiadásához az érintett nemzetbiztonsági ellenőrzésének lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel.
-
-(4) A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes.
-
-(5) A gazdálkodó szervezetnél a minősített adatot felhasználó külföldi állampolgárságú személy részére a személyi biztonsági tanúsítvány – törvényben kihirdetett nemzetközi szerződés alapján – abban az esetben is kiadható, ha rendelkezik az állampolgársága szerinti ország feladat- és hatáskörrel rendelkező hatósága által kiállított érvényes személyi biztonsági tanúsítvánnyal.”
-
-(12) A Mavtv. 20. § (2) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Biztonsági Felügyelet)
-
-„k) a minősített adatot kezelő szerv bejelentése alapján kivizsgálja a 19. § (2) bekezdésében meghatározott eseményeket,”
-
-(13) A Mavtv. 20. § (2) bekezdése a következő u) ponttal egészül ki:
-
-(A Nemzeti Biztonsági Felügyelet)
-
-„u) nyilvántartja az a) és b) pont szerinti engedélyeket, valamint az i) pont szerinti tanúsítványokat.”
-
-(14) A Mavtv. 22. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A Nemzeti Biztonsági Felügyelet az általa vezetett nyilvántartásokból adatot a minősített adatot kezelő szervek részére továbbíthat.”
-
-(15) A Mavtv. VII. fejezete a következő 37/C. §-sal egészül ki:
-
-„37/C. § (1) Felhatalmazást kap a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, hogy rendeletben állapítsa meg a közös biztonsági terület fenntartására jogosult
-
-- a) állami tulajdonú gazdálkodó szervezetet, valamint
-- b) azon gazdálkodó szervezetet, amelyben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § szerinti többségi befolyást gyakorol.
-
-(2) Felhatalmazást kap a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közös biztonsági terület fenntartására jogosult honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságokat, valamint azon szervezeteket, amelyek a honvédelemért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartoznak.”
-
-(16) A Mavtv. a következő 41. §-sal egészül ki:
-
-„41. § A hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény hatálybalépését megelőzően kiadott felhasználói engedélyeket visszavontnak kell tekinteni.”
-
-33. § A Mavtv.
-
-- a) 3. § 11. pontjában az „adat felhasználására kaphat felhasználói engedélyt;” szövegrész helyébe az „adatot használhat fel;” szöveg,
-- b) 15. § (4) bekezdésében az „A felhasználói engedély nem adható ki,” szövegrész helyébe az „A minősített adat nem adható át,” szöveg,
-- c) 20. § (2) bekezdés f) pontjában a „kapcsolatban,” szövegrész helyébe a „kapcsolatban, jogosult a kiadott egyetértés visszavonására,” szöveg,
-- d) 20. § (2) bekezdés s) pontjában a „meghatározza azok” szövegrész helyébe a „meghatározza az elektronikus adatkezelő rendszerek telepítési helyének” szöveg,
-- e) 22. § (1) bekezdésében a „nemzeti biztonsági felügyelet” szövegrész helyébe a „Nemzeti Biztonsági Felügyelet” szöveg,
-- f)
-- g)
-
-lép.
-
-34. § Hatályát veszti a Mavtv.
-
-- a) 3. § 8. pontja,
-- b) 3. § 9. pontjában a „rendelkezési” szövegrész,
-- c) 10. § (2) bekezdésében a „kizárólag a számára kiadott felhasználói engedélyben meghatározott rendelkezési jogosultságokkal” szövegrész,
-- d) 10. § (3) bekezdése,
-- e) 12. §-a,
-- f) 13. § (1) bekezdés b) pontjában a „ , valamint” szövegrész,
-- g) 13. § (1) bekezdés c) pontja,
-- h) 13. § (2) bekezdésében az „ , és felhasználói engedéllyel kell rendelkeznie” szövegrész,
-- i) 13. § (4) és (7) bekezdése,
-- j) 14. § (3) bekezdése,
-- k) 15. § (2) bekezdése,
-- l) „Felhasználói engedély” című alcíme.
+#### 34. §
 
 #### 25. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
@@ -318,51 +164,15 @@ lép.
 
 #### 29. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-39. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 65/F. § (6)–(8) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett és a rendelkezésére bocsátott minősített adatot.
-
-(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben az alábbiak szerint kezelhet minősített adatot:
-
-- a) a minősített adattal kapcsolatos ügyintézés, a minősített adat feldolgozása,
-- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
-- c) a minősítés megismétlése,
-- d) a minősített adat birtokban tartása,
-- e) a minősített adat másolása, sokszorosítása,
-- f) kivonat készítése,
-- g) a minősített adat fordítása,
-- h) a minősített adat szerven belüli átadása,
-- i) a minősített adat szerven kívülre történő továbbítása, szállítása.
-
-(8) A NAV központi és területi szervének vezetője vagy az általa írásban meghatározott vezetői munkakört betöltő személy a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére a (7) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.”
+#### 39. §
 
 #### 30. Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény módosítása
 
-40. § Hatályát veszti az alapvető jogok biztosáról szóló 2011. évi CXI. törvény
-
-- a) 39/D. § (2) bekezdése,
-- b) 39/G. § (3) bekezdése,
-- c) 39/Q. § (6) bekezdése.
+#### 40. §
 
 #### 31. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
-41. § Az ügyészségről szóló 2011. évi CLXIII. törvény 25/R. § (6)–(8) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett és a rendelkezésére bocsátott minősített adatot.
-
-(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben az alábbiak szerint kezelhet minősített adatot:
-
-- a) a minősített adattal kapcsolatos ügyintézés, a minősített adat feldolgozása,
-- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
-- c) a minősítés megismétlése,
-- d) a minősített adat birtokban tartása,
-- e) a minősített adat másolása, sokszorosítása,
-- f) kivonat készítése,
-- g) a minősített adat fordítása,
-- h) a minősített adat szerven belüli átadása,
-- i) a minősített adat szerven kívülre történő továbbítása, szállítása.
-
-(8) Az ügyészi szerv vezetője vagy az általa írásban meghatározott felettes ügyész a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére a (7) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.”
+#### 41. §
 
 #### 32. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
@@ -397,14 +207,11 @@ lép.
 
 #### 38. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-49. § Hatályát veszti az Országgyűlésről szóló 2012. évi XXXVI. törvény
-
-- a) 98. § (2) bekezdésében a „felhasználói engedély alapján,” szövegrész,
-- b) 98. § (3) bekezdés d) pontjában a „felhasználói engedély és” szövegrész.
+#### 49. §
 
 #### 39. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása
 
-50. § Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 2/A. § (3) bekezdés d) pontjában a „felhasználói” szövegrész helyébe a „személyi biztonsági feltételek megléte” szöveg lép.
+#### 50. §
 
 #### 40. Egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, valamint önkormányzatokat érintő egyes törvények módosításáról szóló 2012. évi CXC. törvény módosítása
 
@@ -450,7 +257,7 @@ lép.
 
 #### 48. A Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény módosítása
 
-63. § Hatályát veszti a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 23. § (2) bekezdésében az „és felhasználói engedély” szövegrész.
+#### 63. §
 
 #### 49. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
@@ -464,11 +271,11 @@ lép.
 
 #### 51. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-67. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 162. § (6) bekezdésében a „Felhasználói engedély” szövegrész helyébe a „Személyi biztonsági feltételek megléte” szöveg lép.
+#### 67. §
 
 #### 52. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-68. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 155. § (5) bekezdésében a „Felhasználói engedély” szövegrész helyébe a „Személyi biztonsági feltételek megléte” szöveg lép.
+#### 68. §
 
 #### 53. Az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény módosítása
 
@@ -476,36 +283,7 @@ lép.
 
 #### 54. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-70. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 104. §-a helyébe a következő rendelkezés lép:
-
-„104. § (1) A büntetőeljárásban az eljáró bíró és ügyész személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül használhatja fel a büntetőeljárásban vagy a büntetőeljárással összefüggésben keletkezett és a rendelkezésére bocsátott minősített adatot.
-
-(2) A minősített adat felhasználása során az eljáró bíró és ügyész az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben az alábbiak szerint kezelhet minősített adatot:
-
-- a) a minősített adattal kapcsolatos ügyintézés, a minősített adat feldolgozása,
-- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
-- c) a minősítés megismétlése,
-- d) a minősített adat birtokban tartása,
-- e) a minősített adat másolása, sokszorosítása,
-- f) kivonat készítése,
-- g) a minősített adat fordítása,
-- h) a minősített adat szerven belüli átadása,
-- i) a minősített adat szerven kívülre történő továbbítása, szállítása.
-
-(3) Az ügyészi szerv vezetője vagy az általa írásban kijelölt ügyész, valamint a bíróság vezetője és az általa meghatározott vezető az eljáró bíró és ügyész részére a (2) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.”
-
-(2) A Be. 105. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A büntetőeljárásban részt vevő személy személyi biztonsági tanúsítvány és titoktartási nyilatkozat nélkül használhatja fel azt a minősített adatot, amelyet az e törvény alapján általa megismerhető ügyirat tartalmaz.”
-
-(3) A Be. 105. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A minősített adat felhasználása során a büntetőeljárásban részt vevő személy a minősített adat kezelése során jogosult a minősített adat
-
-- a) birtokban tartására,
-- b) jogai gyakorlása, kötelezettsége teljesítése vagy feladata végrehajtása érdekében történő feldolgozására.
-
-(4) A 104. § alapján a minősített adat felhasználására jogosult a büntetőeljárásban részt vevő személy részére a (3) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.”
+#### 70. §
 
 #### 55. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
@@ -515,31 +293,11 @@ lép.
 
 #### 56. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény módosítása
 
-72. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 16. § (4) bekezdés d) pontjában a „felhasználói” szövegrész helyébe a „személyi biztonsági feltételek megléte” szöveg lép.
+#### 72. §
 
 #### 57. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-73. § (1) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) a következő 7/A. §-sal egészül ki:
-
-#### „7/A. § [A Kormány döntéseinek dokumentálása]
-
-(1) A Miniszterelnöki Kormányiroda sokszorosított formában az érdekelteknek közvetlenül küldi meg
-
-- a) a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti minősített adatot tartalmazó kormányhatározatot, és
-- b) a Kormány eltérő rendelkezése hiányában az a) pont alá nem tartozó kormányhatározatot, ha az kizárólag a Kormány tagja, a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a kormánybiztos, a kormányzati főhivatal vezetője, a rendvédelmi szerv vezetője, vagy a Katonai Nemzetbiztonsági Szolgálat vezetője számára határoz meg feladatot és nem tartalmaz olyan – a központi költségvetést érintő – rendelkezést, amelyet az Alaptörvényre és az államháztartásról szóló törvényre tekintettel nyilvánosan kell közzétenni.
-
-(2) Ha az (1) bekezdés szerinti – az érdekelteknek közvetlenül megküldött – kormányhatározat minősített adatot nem tartalmaz vagy az adat minősített jellege megszűnt, de a kormányhatározatban foglalt adat megismerése az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (2) bekezdésében meghatározott valamely közérdeket veszélyezteti, és a megtagadás alapjául szolgáló közérdek nagyobb súlyú a közérdekű adat megismerésére irányuló igény teljesítéséhez fűződő közérdeknél, ezen adat megismerése iránti igény teljesítését a megtagadás alapjául szolgáló közérdek fennállásáig, de legfeljebb a határozat érdekelteknek történő megküldésétől számított húsz évig meg kell tagadni, vagy az adat megismerésének módját korlátozni kell.
-
-(3) A (2) bekezdésben foglalt adatok megismerése iránti igény teljesíthetőségéről és a megismerés módjáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára dönt, szükség szerint a feladat- és hatáskörrel rendelkező miniszter(ek) véleményének kikérésével.
-
-(4) A (3) bekezdésben meghatározott miniszteri véleményt legkésőbb tizenöt napon belül kell megadni. A vélemény megkérésétől annak megadásáig vagy a véleményadási határidő eredménytelen elteltéig terjedő időtartam az adat megismerése iránti igény teljesítésére rendelkezésre álló határidőbe nem számít bele.
-
-(5) A (2)–(4) bekezdés rendelkezéseit alkalmazni kell
-
-- a) a Kormány,
-- b) kormányzati döntéshozatal – kormány ügyrendje szerinti – általános és különös hatáskörű szakmai döntés-előkészítő fórumai,
-- c) a Kormány ügyrendje szerinti különös hatáskörű politikai döntéshozó fórumok, és
-- d) a Kormány által létrehozott, illetve a Kormány ügyrendje szerinti döntéshozó fórum üléséről készült összefoglalók és hangfelvételek esetében is.”
+73. § (1)
 
 (2)
 
