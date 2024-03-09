@@ -8,7 +8,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, a miniszterelnök politikai igazgatójára, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
+1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, a miniszterelnök politikai igazgatójára, a miniszterelnök nemzetbiztonsági főtanácsadójára, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
 
 (2) Központi államigazgatási szerv
 
@@ -139,18 +139,20 @@ meghatározott hatáskörök együttesét kell érteni.
 (2) Ha
 
 - a) a miniszterelnök e tisztségét legalább két évig betöltötte, és megbízatása az Alaptörvény 20. cikk (2) bekezdés a)–c) pontjában meghatározott okból szűnik meg,
-- b) a miniszter, a miniszterelnök politikai igazgatója és az államtitkár e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg,
+- b) a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg,
 
 a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén pedig háromhavi – illetményével megegyező összegű juttatásra jogosult.
 
-(3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter, a miniszterelnök politikai igazgatója és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter, a miniszterelnök politikai igazgatója és az államtitkár özvegyét – özvegy hiányában a miniszter, a miniszterelnök politikai igazgatója és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
+(3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár özvegyét – özvegy hiányában a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
 
 (3a) A miniszterelnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori miniszterelnöki illetmény havi összegét kell a miniszterelnök öregségi nyugdíjaként figyelembe venni.
 
 (4) Ha a politikai felsővezető megbízatása a (2) bekezdésben meghatározott okokból
 
 - a) miniszterelnök esetében két évnél,
-- b) miniszter, a miniszterelnök politikai igazgatója, államtitkár esetén három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
+- b) miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár esetén három évnél
+
+hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
 
 (5) Nem jogosult a politikai felsővezető a (2) és a (4) bekezdés szerinti juttatásra, ha a megbízatásának megszűnését követő 180 napon belül az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságban vezető tisztségviselői tisztség betöltésére vagy munkavégzésre irányuló jogviszonyt, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervnél munkavégzésre irányuló jogviszonyt (a továbbiakban együtt e § alkalmazásában: új jogviszony) létesít.
 
@@ -170,7 +172,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (10) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a politikai felsővezető (2), illetve (4) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
 
-14. § (1) A miniszter, a miniszterelnök politikai igazgatója és az államtitkár a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot. Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
+14. § (1) A miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot. Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
 
 (2)
 
@@ -288,7 +290,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 #### 39/A. §
 
-40. § A miniszterelnök politikai igazgatója a miniszterelnök által meghatározott mértékű illetményre jogosult.
+40. § A miniszterelnök politikai igazgatója, valamint a miniszterelnök nemzetbiztonsági főtanácsadója a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
 #### 41. §
 
