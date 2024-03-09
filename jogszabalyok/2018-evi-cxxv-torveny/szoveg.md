@@ -108,8 +108,9 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 
 - a) a miniszterelnök,
 - b) a miniszter,
-- c) a miniszterelnök politikai igazgatója és
-- d) az államtitkár.
+- c) a miniszterelnök politikai igazgatója,
+- d) a miniszterelnök nemzetbiztonsági főtanácsadója és
+- e) az államtitkár.
 
 (4) Politikai vezető a főispán.
 
@@ -155,7 +156,7 @@ személy is.
 
 #### 4. § [Egyes tisztségviselők tevékenységének irányítása]
 
-Ahol e törvény a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, biztosi jogviszonyban álló személy vagy kormányzati igazgatási szerv szervezeti egysége vezetője tevékenységének irányítását említi, azon törvény eltérő rendelkezése hiányában a következő hatásköröket kell érteni:
+Ahol e törvény a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, biztosi jogviszonyban álló személy vagy kormányzati igazgatási szerv szervezeti egysége vezetője tevékenységének irányítását említi, azon törvény eltérő rendelkezése hiányában a következő hatásköröket kell érteni:
 
 - a) egyedi utasítás kiadása egyedi feladat elvégzésére vagy mulasztás pótlására,
 - b) a vezető tevékenységének ellenőrzése, és
@@ -266,6 +267,27 @@ segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 (3) A Kormány eredeti jogalkotói hatáskörben kiadott rendelete meghatározhatja, hogy a miniszterelnök mely feladat- és hatáskörét gyakorolja a miniszterelnök politikai igazgatója útján azzal, hogy egyebekben a miniszterelnök politikai igazgatója útján történő feladat- és hatáskörgyakorlás rendjét az általános politikai koordinációért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzata állapítja meg.
 
 (4) A miniszterelnök politikai igazgatójának tevékenységét a Kormány által eredeti jogalkotói hatáskörben kiadott rendeletben kijelölt miniszter – a miniszterelnök útmutatása szerint – irányítja.
+
+#### 13/B. § [A miniszterelnök nemzetbiztonsági főtanácsadója]
+
+(1) A miniszterelnök nemzetbiztonsági főtanácsadót nevezhet ki. A miniszterelnök nemzetbiztonsági főtanácsadója a polgári nemzetbiztonsági és hírszerzési tevékenység, rendészeti, bűnmegelőzési, bűnügyi, közbiztonsági feladatok, valamint honvédelmi kérdések kapcsán tanácsával, illetve véleményével segíti a miniszterelnök, illetve a Kormány tevékenységét és döntéseinek előkészítését.
+
+(2) A miniszterelnök nemzetbiztonsági főtanácsadójának részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg.
+
+(3) A miniszterelnök nemzetbiztonsági főtanácsadója
+
+- a) az általános politikai koordinációért felelős miniszter rendelkezése szerint, az általános politikai koordinációért felelős miniszter irányítása alá tartozó költségvetési szerv tekintetében gyakorolja az irányítási jogokat,
+- b) figyelemmel kíséri a Kormány által meghatározott költségvetési szervek tevékenységét.
+
+(4) A miniszterelnök nemzetbiztonsági főtanácsadója tevékenységét az általános politikai koordinációért felelős miniszter által vezetett minisztérium segíti.
+
+(5) A miniszterelnök nemzetbiztonsági főtanácsadója irányítja a (4) bekezdés szerinti minisztériumban működő nemzetbiztonsági főtanácsadói kabinetet és titkárságot, valamint a Nemzetbiztonsági Irodát.
+
+(6) A nemzetbiztonsági főtanácsadói kabinetben és az (5) bekezdés szerinti titkárságon szolgálatot teljesítő politikai főtanácsadó, politikai tanácsadó, kormánytisztviselő, munkavállaló és szakmai vezető felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja. A Nemzetbiztonsági Irodán szolgálatot teljesítő politikai főtanácsadó, politikai tanácsadó, kormánytisztviselő, munkavállaló és szakmai vezető felett az alapvető munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója, az egyéb munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója által kijelölt személy gyakorolja.
+
+(7) A nemzetbiztonsági főtanácsadói kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja.
+
+(8) A miniszterelnök nemzetbiztonsági főtanácsadója e tisztsége betöltése során, illetve annak megszűnését követően a miniszterelnök politikai igazgatójára vonatkozó szabályok szerint nevezhető ki, illetve nem választható meg törvényben meghatározott tisztségre.
 
 #### 14. § [A miniszterelnöki biztos]
 
@@ -397,7 +419,7 @@ helyettesíti.
 
 (5) Az államtitkári cím használata során utalni kell az államtitkárnak a minisztérium szervezeti és működési szabályzata szerinti feladatkörére.
 
-(6) A Kormány az eredeti jogalkotói hatáskörben kiadott rendeletében a nemzetbiztonsági főtanácsadói feladatok ellátására kijelölhet egy államtitkárt.
+(6)
 
 #### 24. § [Az államtitkár helyettesítése]
 
@@ -3620,7 +3642,7 @@ tárgyában.
 - o) a kormányhivatal irányítására kormányrendeletben kijelölt miniszter;
 - p) a kormányzati személyügyi igazgatásra kijelölt szerv vezetője.
 
-(4) A miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 3. mellékletben meghatározott adatokon túl a vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, valamint a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár, továbbá a kormányzati igazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
+(4) A miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 3. mellékletben meghatározott adatokon túl a vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, valamint a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár, továbbá a kormányzati igazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
 
 (5) A tartós külszolgálatot teljesítő kormánytisztviselő esetében a 3. mellékletben meghatározott adatokon túl a közszolgálati alapnyilvántartásban kell nyilvántartani a külképviselet megnevezését, a diplomáciai vagy konzuli rangot, valamint az átalány-költségtérítésre vonatkozó adatokat is.
 
@@ -3776,11 +3798,11 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 - h) közjegyzői szolgálata a politikai felsővezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 
-(3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár és a miniszterelnök politikai igazgatója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
+(3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár, a miniszterelnök politikai igazgatója és a miniszterelnök nemzetbiztonsági főtanácsadója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
 (3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni, azzal hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
-(4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai felsővezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter, a miniszterelnök politikai igazgatója és az államtitkár esetében a felmentést mellőzni kell.
+(4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai felsővezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár esetében a felmentést mellőzni kell.
 
 #### 183. § [Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozata]
 
@@ -3815,7 +3837,7 @@ kezdeményezi.
 
 (2) A köztársasági elnök az (1) bekezdés b) pontja szerinti kezdeményezés esetén a minisztert vagy az államtitkárt e megbízatása alól felmenti.
 
-(2a) Az (1) bekezdés szerinti esetben a miniszterelnök a miniszterelnök politikai igazgatóját e megbízatása alól felmenti.
+(2a) Az (1) bekezdés szerinti esetben a miniszterelnök a miniszterelnök politikai igazgatóját, a miniszterelnök nemzetbiztonsági főtanácsadóját e megbízatása alól felmenti.
 
 (3)
 
@@ -3839,7 +3861,7 @@ kezdeményezi.
 
 nem jogosult.
 
-(2) A miniszterelnököt minden naptári évben negyven, a minisztert, a miniszterelnök politikai igazgatóját és az államtitkárt húsz munkanap alapszabadság illeti meg. A szabadság igénybevételét a miniszter és az államtitkár esetében a Miniszterelnöki Kormányirodának előzetesen be kell jelenteni.
+(2) A miniszterelnököt minden naptári évben negyven, a minisztert, a miniszterelnök politikai igazgatóját, a miniszterelnök nemzetbiztonsági főtanácsadóját és az államtitkárt húsz munkanap alapszabadság illeti meg. A szabadság igénybevételét a miniszter és az államtitkár esetében a Miniszterelnöki Kormányirodának előzetesen be kell jelenteni.
 
 (3) Ha a politikai felsővezetőt legkésőbb a hatáskörgyakorlásának megszűnésétől számított harminc napon belül ismételten politikai felsővezetővé választják meg vagy nevezik ki, vagy szakmai felsővezetővé nevezik ki, a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett politikai szolgálati jogviszony vagy kormányzati szolgálati jogviszony alapján járó szabadsághoz hozzá kell számítani.
 
@@ -3847,18 +3869,18 @@ nem jogosult.
 
 (5) A politikai felsővezető megbízatásának időtartama, valamint a megbízatás megszűnését követően a hatásköre gyakorlásának időtartama kormányzati szolgálati jogviszonyban töltött időnek számít.
 
-(6) A miniszter, a miniszterelnök politikai igazgatója és az államtitkár a tisztségéből eredő kötelezettség vétkes megszegésével okozott kárért való anyagi felelősségének tekintetében a munkáltatói jogkör gyakorlója a miniszterelnök, a kijelölt vizsgálóbiztos legalább államtitkári megbízatást betöltő politikai felsővezető és az eljáró tanács tagjai a miniszterelnök által felkért miniszterek.
+(6) A miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár a tisztségéből eredő kötelezettség vétkes megszegésével okozott kárért való anyagi felelősségének tekintetében a munkáltatói jogkör gyakorlója a miniszterelnök, a kijelölt vizsgálóbiztos legalább államtitkári megbízatást betöltő politikai felsővezető és az eljáró tanács tagjai a miniszterelnök által felkért miniszterek.
 
 (7) Ha a politikai felsővezető megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, kivéve, ha megbízatása
 
 - a) – a miniszterelnök esetében – összeférhetetlenségének kimondása vagy a megválasztásához szükséges feltételek hiánya megállapítása,
-- b) – a miniszter, a miniszterelnök politikai igazgatója és az államtitkár esetében – összeférhetetlenségének vagy a kinevezéséhez szükséges feltételek hiányának megállapítása alapján történő felmentése
+- b) – a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár esetében – összeférhetetlenségének vagy a kinevezéséhez szükséges feltételek hiányának megállapítása alapján történő felmentése
 
 miatt szűnt meg.
 
 (8) A politikai felsővezető a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított tizenöt napon belül köteles visszafizetni.
 
-(9) Ha a miniszter, a miniszterelnök politikai igazgatója és az államtitkár kinevezéséről, felmentéséről vagy megbízatásának lemondás miatti megszűnésének megállapításáról szóló okiratban a megbízatás keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a miniszter, a miniszterelnök politikai igazgatója és az államtitkár a megjelölt naptári nap kezdetén lép hivatalba, illetve megbízatása a megjelölt naptári nap végén szűnik meg.
+(9) Ha a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár kinevezéséről, felmentéséről vagy megbízatásának lemondás miatti megszűnésének megállapításáról szóló okiratban a megbízatás keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár a megjelölt naptári nap kezdetén lép hivatalba, illetve megbízatása a megjelölt naptári nap végén szűnik meg.
 
 (10) A politikai felsővezető szabadságát – a (11) bekezdést kivéve – megváltani nem lehet.
 
@@ -4071,6 +4093,12 @@ Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjáb
 
 (3) Felmentés esetén a miniszterelnök politikai igazgatója megbízatása megszűnésének időpontját a miniszterelnök határozza meg azzal, hogy a (2) bekezdés szerinti felmentés esetén az időpont nem lehet későbbi a felmentés közlését követő naptól számított tizedik napnál.
 
+### XXVII/B. Fejezet — A MINISZTERELNÖK NEMZETBIZTONSÁGI FŐTANÁCSADÓJA
+
+#### 201/E. § [A miniszterelnök nemzetbiztonsági főtanácsadójára alkalmazandó szabályok]
+
+A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fejezetben meghatározott rendelkezéseket kell alkalmazni.
+
 ### XXVIII. Fejezet — AZ ÁLLAMTITKÁR
 
 #### 202. § [Az államtitkár kinevezése]
@@ -4256,14 +4284,15 @@ kapcsolatos rendelkezéseit nem kell alkalmazni.
 - c) a miniszteri kabinetben a miniszter tevékenységéhez,
 - d) az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon az államtitkár tevékenységéhez
 - e) a politikai igazgatói kabineten és a Politikai Igazgatói Irodán a miniszterelnök politikai igazgatójának tevékenységéhez
+- f) a nemzetbiztonsági főtanácsadói kabinetben és titkárságon, valamint a Nemzetbiztonsági Irodán a miniszterelnök nemzetbiztonsági főtanácsadójának tevékenységéhez
 
 közvetlenül kapcsolódó feladatok ellátására teljesíthet szolgálatot.
 
-(2) A politikai tanácsadó kinevezése a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója vagy az államtitkár hatáskörgyakorlása idejére szól.
+(2) A politikai tanácsadó kinevezése a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója vagy az államtitkár hatáskörgyakorlása idejére szól.
 
 (2a) A 104. § (1) bekezdés c) pontjában meghatározott életkori korlát alól a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felmentést adhat a politikai tanácsadó tekintetében.
 
-(3) A miniszteri kabinetben legfeljebb 15, az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon, a politikai igazgatói kabinetben és a Politikai Igazgatói Irodán legfeljebb 8 politikai tanácsadói álláshely létesíthető.
+(3) A miniszteri kabinetben legfeljebb 15, az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon, a politikai igazgatói kabinetben és a Politikai Igazgatói Irodán, valamint a nemzetbiztonsági főtanácsadói kabinetben és a Nemzetbiztonsági Irodán legfeljebb 8 politikai tanácsadói álláshely létesíthető.
 
 (4) A politikai tanácsadó politikai szolgálati jogviszonyára a jelen fejezetben foglalt eltérésekkel e törvénynek a kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -4326,20 +4355,20 @@ gyakorolja.
 
 (1) Kormánybiztossá
 
-- a) miniszter, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
+- a) miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
 - b) az a) pont hatálya alá nem tartozó személy
 
 nevezhető ki.
 
 (2) A kormánybiztos személyére a miniszterelnök tesz javaslatot.
 
-(3) A kormánybiztos megbízatása meghatározott időre, de legfeljebb négy évre szól. A kormánybiztos e megbízatása a miniszteri, miniszterelnöki politikai igazgatói, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A kormánybiztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével azzal, hogy ebben az esetben a kormánybiztos az új Kormány megalakulásáig gyakorolja hatáskörét.
+(3) A kormánybiztos megbízatása meghatározott időre, de legfeljebb négy évre szól. A kormánybiztos e megbízatása a miniszteri, miniszterelnöki politikai igazgatói, miniszterelnöki nemzetbiztonsági főtanácsadói, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A kormánybiztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével azzal, hogy ebben az esetben a kormánybiztos az új Kormány megalakulásáig gyakorolja hatáskörét.
 
 #### 220. § [A miniszterelnöki biztosi megbízatás betöltésének feltételei]
 
 (1) Miniszterelnöki biztossá
 
-- a) miniszter, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
+- a) miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
 - b) az a) pont hatálya alá nem tartozó személy
 
 nevezhető ki.
@@ -5008,7 +5037,7 @@ illetménynek megfelelő összeg.
 
 (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- 1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a főispán, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
+- 1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a főispán, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
 - 2. határozza meg a Belső Ellenőrzési és Integritási Igazgatóság 29/B. § (3f) bekezdésében foglalt további feladatait.
 - 3. irányítási jogkörrel ruházza fel a kormánybiztost.
 
