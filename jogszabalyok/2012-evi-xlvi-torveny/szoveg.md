@@ -34,7 +34,7 @@ végzése;
 - 7. ingatlan-nyilvántartás átalakítása: az ingatlan-nyilvántartásról szóló törvényben meghatározott eljárás;
 - 8. különleges rendeltetésű ingatlan: a honvédelmi, rendvédelmi, műemlékvédelmi és természetvédelmi, illetve sajátos rendeltetése miatt jogszabályban ekként meghatározott ingatlan;
 - 9. földi, légi és űrtávérzékelés: mérések végrehajtására, illetve térképkészítésre alkalmas földi, légi és űr távérzékelési adatgyűjtés, amelynek célja és eredménye geodéziai, térképészeti, geofizikai, geológiai és navigációs adatok gyűjtése;
-- 10. minősítés: a földmérési munkák és azok dokumentációi – az érvényben lévő szakmai szabályozások szerint történő – elkészítésének vizsgálata és minőségének tanúsítása;
+- 10.
 - 11. nemzeti téradat-infrastruktúra: azon téradatok és térinformatikai rendszerek összessége, amelyek közfeladatok ellátását szolgálják;
 - 12. távérzékelés: olyan adatnyerési eljárások, amelyek az adatokat a vizsgált objektummal létrehozott közvetlen, fizikai kapcsolat nélkül állítják elő;
 - 13. téradat: valamely helymeghatározó, vagy helyhez köthető adat;
@@ -96,7 +96,7 @@ végzése;
 
 (3) A honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatokat és adatbázisokat a honvédelem térképészeti támogatásáért felelős szerv kezeli.
 
-(4) Az illetékességi területére vonatkozó állami alapadatokat és adatbázisokat az ingatlanügyi hatóság kezeli.
+(4) A 3. § (1) bekezdés b)–d) és i) pontjaiban meghatározott adatbázisok esetében, az illetékességi területére vonatkozó állami alapadatokat és adatbázisokat az ingatlanügyi hatóságként eljáró kormányhivatal kezeli.
 
 #### 5. Az állami alapadatok szolgáltatása
 
@@ -104,7 +104,7 @@ végzése;
 
 (2) A miniszter felelősségi körébe tartozó földmérési térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az ingatlanügyi hatóságok végzik.
 
-(2a) Az integrált ügyfélszolgálat (kormányablak) a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból papír alapú hiteles térképmásolatot adhat ki.
+(2a) Térképmásolatot központi azonosítási ügynök útján történő azonosítást követően a földügyi szakigazgatás hivatalos honlapján lehet igényelni. Természetes személy térképmásolatot kormányablakban és ingatlanügyi hatóság ügyfélszolgálatán, földmérési és térképészeti adatokat az érintett ingatlan helye szerint illetékes ingatlanügyi hatóság ügyfélszolgálatán személyesen is igényelhet.
 
 (3)
 
@@ -112,35 +112,54 @@ végzése;
 
 (5) Az állami alapadatok adatbázisából külön megállapodás szerint aktualizált adatok szolgáltatásáért díjat kell fizetni.
 
-(6) Az ingatlan-nyilvántartási térképi adatbázisból papír alapon kizárólag hitelesített másolat szolgáltatható. Elektronikus dokumentumként hitelesített és hitelesítés nélküli másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási térképi adatbázisból szolgáltatható.
+(5a) Az ingatlan-nyilvántartási térképi adatbázisból kizárólag hitelesített másolat szolgáltatható.
 
-(6a) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus és papír alapú térképmásolatot a miniszter által rendeletben meghatározott tartalommal kell kiadni. Ha a hitelesített térképmásolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
+(5b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus és papíralapú térképmásolatot az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal kell kiadni.
+
+(6) Az elektronikus térképmásolatot a földmérési és térinformatikai államigazgatási szerv
+
+- a) kormányrendeletben meghatározott szervezeteknek a nemzeti távközlési hálózaton keresztül, a földmérési és térinformatikai államigazgatási szervvel megkötött adatszolgáltatási szerződés alapján,
+- b) az a) pont alá nem tartozó szervezeteknek tevékenységük ellátása céljából, a földmérési és térinformatikai államigazgatási szervvel megkötött adatszolgáltatási szerződés alapján, az adatlekérdezést végzők megfelelő azonosítása mellett,
+- c) természetes személyeknek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus azonosítási szolgáltatás segítségével a személyre szabott ügyintézési felületen keresztül
+
+biztosítja.
+
+(6a) Ha a hitelesített térképmásolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
 (6b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesített térképmásolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus bélyegzővel és időbélyegzővel hitelesített. Az ilyen módon szolgáltatott térképmásolat kizárólag elektronikus formában rendelkezik a (6c) bekezdés szerinti tanúsító erővel.
 
-(6c) A (6b) bekezdés szerint elektronikusan kiadott dokumentum elektronikus formában hitelesen tanúsítja, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. Ezt a dokumentum záradékában fel kell tüntetni.
+(6c) A (6b) bekezdés szerint elektronikusan kiadott dokumentum elektronikus formában hitelesen tanúsítja, hogy a másolat a kiadás időpontjában az eredetivel megegyezik. Ezt a dokumentum záradékában fel kell tüntetni.
 
-(6d) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesítés nélküli térképmásolat a (6c) bekezdés szerinti tanúsító erővel nem rendelkezik, hivatalos célra nem használható, kizárólag tájékoztatásul szolgál.
+(6d)
 
 (7)
 
-(8) Nem hatósági eljárásban történő felhasználásra a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból kizárólag a földmérési és térinformatikai államigazgatási szerv szolgáltathat adatot az alábbiak szerint:
+(8) Állami alapadatot
 
-- a) egy vagy több települést vagy fekvést érintő térképi kivágatot,
-- b) szelektív vagy csökkentett pontosságú digitális térképi adattartalmat az a) pont szerinti területekre,
-- c) térinformatikai adatokkal kiegészített komplex értéknövelt digitális térképi adattartalmat.
+- a) helyi térképtárban vagy adattárban tárolt állami alapadatok esetében a térképtárat vagy adattárat fenntartó ingatlanügyi hatóság,
+- b) ingatlan-nyilvántartási, valamint egyéb célú földmérési és térképészeti tevékenység végzéséhez szükséges állami alapadatok tekintetében az ingatlanügyi hatóságként eljáró területileg illetékes kormányhivatal,
+- c) az a) és b) pont alá nem tartozó állami alapadatok esetében az ingatlanügyi hatóságként eljáró földmérési és térinformatikai államigazgatási szerv,
+- d) a honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok esetében a honvédelem térképészeti támogatásáért felelős szerv
 
-6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő, e törvény hatálya alá tartozó állami alapfeladataik és alapmunkáik ellátásához az állami alapadatok adatbázisaiból egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
+szolgáltat.
+
+6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő, e törvény hatálya alá tartozó állami alapfeladataik és alapmunkáik, valamint a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pont szerinti honvédelmi szervezetek (a továbbiakban: honvédelmi szervezet), és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény honvédelmi, továbbá hatósági, szakhatósági és államigazgatási feladatainak ellátásához az állami alapadatok adatbázisaiból, valamint az ország legújabb évjárat szerinti domborzat- és felületmodell adatbázisából egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
 
 (1a) Az (1) bekezdésben meghatározott adatátadás kiterjed a 32. § (6) bekezdés szerinti adatokra.
 
+(1b) A földmérési és térinformatikai államigazgatási szerv a 3. § (1) bekezdés f) pontja szerinti adatbázisok esetén az állami átvételi eljárás megindításáról, az eljárás megindítását követő 15 napon belül tájékoztatja a honvédelem térképészeti támogatásáért felelős szervet.
+
+(1c) A honvédelem térképészeti támogatásáért felelős szerv a 3. § (1) bekezdés e)–g) pontja szerinti adatbázisok esetén az állami átvételi eljárás megindításáról, az eljárás megindítását követő 15 napon belül tájékoztatja a földmérési és térinformatikai államigazgatási szervet.
+
 (2) A 4. § (2) és (3) bekezdésében meghatározott szervek az általuk kezelt állami alapadatok adatbázisaiból az adatszolgáltatást hálózati szolgáltatón keresztül is végezhetik.
+
+(2a) Az e §-ban foglalt díjmentes adathozzáféréseket a földmérési és térinformatikai államigazgatási szerv az adatok átadásával köteles biztosítani. A folyamatos hálózati kapcsolatot igénylő hozzáférések esetén – egyedi megállapodás alapján – a földmérési és térinformatikai államigazgatási szerv jogosult az üzemeltetési költségeinek megtérítését kérni az adatszolgáltatást igénybe vevőtől.
 
 (3) Igazgatási szolgáltatási díjat kell fizetni
 
 - a) a 3. § (1) bekezdésében foglalt adatbázisokból – ide nem értve az i) pontban foglalt adatbázist – történő hitelesített adatok szolgáltatásáért,
 - b) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatára és záradékolására irányuló eljárásért,
-- c) az ingatlanrendező földmérő minősítési eljárásáért,
+- c) az ingatlanrendező földmérő minősítés kiadása iránti eljárásáért,
 - d) a földmérő igazolvány kiadása iránti eljárásért,
 - e)
 - f) a b) pont szerinti eljárás soron kívüli lefolytatásáért,
@@ -151,7 +170,7 @@ végzése;
 
 (4)
 
-(4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését írásban engedélyezheti.
+(4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését engedélyezheti. Az eljárás soron kívüli ügyintézési határideje az eljárás ügyintézési határidejének fele.
 
 (5)
 
@@ -172,13 +191,13 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (7) Az ingyenes adatszolgáltatást az oktatási vagy kutatási szervezet vezetőjének kell kérelmeznie.
 
-(8) A katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározott veszélyhelyzet és katasztrófaveszély elhárítása és az arra való felkészülés esetén a hivatásos katasztrófavédelmi szervek részére – hitelesítés nélkül – díjmentesen igényelheti a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől. Az átadott állami alapadatokat, vagy azok alapján készült termékeket a veszélyhelyzet és katasztrófaveszély elhárítást irányító szervezet a katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározottak szerint adhatja át.
+(8) A katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározott veszélyhelyzet és katasztrófaveszély elhárítása és az arra való felkészülés esetén a hivatásos katasztrófavédelmi szervek részére díjmentesen igényelheti a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől. Az átadott állami alapadatokat, vagy azok alapján készült termékeket a veszélyhelyzet és katasztrófaveszély elhárítást irányító szervezet a katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározottak szerint adhatja át.
 
-(8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei – hitelesítés nélkül – díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
+(8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
 
 (9)
 
-(10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
+(10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
 
 (11) Az adatszolgáltató díjmentesen szolgáltatja a 2. § (2) bekezdésében meghatározott állami alapmunkák végzéséhez szükséges adatokat. Az adatszolgáltatás hálózati szolgáltatón keresztüli adathozzáféréssel is biztosítható.
 
@@ -188,7 +207,16 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (13) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a Magyar Honvédség szervezetei és a Katonai Nemzetbiztonsági Szolgálat feladataik ellátásához, valamint szakirányú fejlesztéséhez a honvédelem térképészeti támogatásáért felelős szervtől a szakmai ellátási normák alapján díjmentesen igényelhetnek adatot.
 
-(14) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a honvédelmi miniszter fenntartói irányítása alá tartozó köznevelési intézmény a hazafias honvédelmi nevelési feladatok, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Kara és a katonai légügyi hatósági feladatokat ellátó szervezet az ország védelmi feladatainak ellátásával összefüggő feladataik ellátásához a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
+(14) A honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény
+
+- a) a honvédelmi feladatai ellátásához a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból
+- b) a hatósági, szakhatósági és államigazgatási feladatai ellátásához
+  - ba) a 3. § (1) bekezdés a), b), d)–g) és i) pontjában meghatározott állami alapadatok, valamint
+  - bb) az ország legújabb évjárat szerinti domborzat- és felületmodell
+
+adatbázisából
+
+a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § (3) bekezdése szerinti továbbfelhasználási engedély nélkül – díjmentesen igényelhet adatot.
 
 (15) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a rendvédelmi és a védelmi igazgatási szervek, valamint a különleges jogrend alatti feladatellátásban és az országmozgósítás feladataiban részt vevő egyéb központi államigazgatási szervek és azok területi szervei minősített időszakra való felkészülésre a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
 
@@ -208,7 +236,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (20) A költségvetési szerv jogszabályban meghatározott területrendezési, településrendezési, területfejlesztési és településfejlesztési feladatai ellátásához, továbbá a településterv, a települési arculati kézikönyv és a településképi rendelet véleményezéséhez a Magyar Építész Kamara, az érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat és az érintett kiemelt térségi fejlesztési tanács díj-, költség- és térítésmentesen hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
 
-(21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
+(21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a (14) bekezdésben meghatározott adatbázisokból, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény részére, honvédelmi, továbbá hatósági, szakhatósági és államigazgatási feladatai végrehajtásához, ha azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül, díjmentesen szolgáltat adatot.
 
 (22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofotó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
 
@@ -415,7 +443,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (5) Az állami ingatlan-nyilvántartási térképi adatbázis tartalma kötelező alapul szolgál az adatbázis változását eredményező állami alapadat tartalmat érintő földmérési tevékenységhez, közigazgatási, bírósági vagy más hatósági eljáráshoz.
 
-14. § (1) Az állami ingatlan-nyilvántartási térképi adatbázis kezelése, tárolása, a változások vezetése, valamint az adatok szolgáltatása az adatbázisokat kezelő szervek feladata.
+14. § (1) Az állami ingatlan-nyilvántartási térképi adatbázis kezelése, tárolása, a változások vezetése, valamint az adatok szolgáltatása az ingatlanügyi hatóságok feladata.
 
 (2) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő változásokat, az (5) bekezdésben foglaltak kivételével, a földrészlet tulajdonosa, illetve a tulajdonosi jogok gyakorlója (a továbbiakban: kötelezett), a változás bekövetkeztétől számított harminc napon belül, az ingatlan-nyilvántartási jogszabályok előírásainak megfelelően köteles bejelenteni az ingatlanügyi hatóságnak. Közös tulajdon esetén, a bejelentési kötelezettség elmulasztásából eredő felelősség a tulajdonostársakat egyetemlegesen terheli.
 
@@ -471,6 +499,8 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 (4) A 14. § (8) bekezdés szerinti eljárásban meghozott határozat térképi hibakiigazításnak minősül.
 
 (5) A felmérési, térképezési vagy területszámítási hiba kijavításához nincs szükség előzetes hatósági engedélyre vagy bírósági határozatra.
+
+(6) Amennyiben ingatlan-nyilvántartási célú földmérési munkához történő adatszolgáltatás során az adatszolgáltatással érintett ingatlan adataiban az állami ingatlan-nyilvántartási térképi adatbázis és a tulajdoni lap adatai között eltérés mutatható ki, abban az esetben az eltérés okát ki kell vizsgálni. Ha a vizsgálat alapján felmérési, térképezési vagy területszámítási hiba kijavítására irányuló vagy ingatlan-nyilvántartási eljárást kell indítani, akkor az ezen eljárások végleges lezárultáig az adatszolgáltatási eljárást fel kell függeszteni.
 
 #### 15. Az állami topográfiai térképi adatbázisok
 
@@ -541,7 +571,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (7) Bármely távérzékelési adat a földmérési és térinformatikai államigazgatási szerv – a honvédelemért felelős miniszter hatáskörébe tartozó adatok esetén a honvédelmi térképészeti hatósági feladatokért felelős szerv – által elvégzett állami átvételt követően válik az állami távérzékelési alapadatbázis részévé.
 
-(8) Minden, az adatállománnyal rendelkezni jogosult köteles átadni (a megrendelőnek történő átadását követő tizenöt napon belül) a földmérési és térinformatikai államigazgatási szervnek a részben vagy egészében közpénzből előállított, az állami távérzékelési adatbázis adattartalmát érintő adatnak egy, az eredetivel megegyező példányát. Ez alól kizárólag a honvédelmi célokra készült távérzékelési adatok jelentenek kivételt. A földmérési és térinformatikai államigazgatási szerv köteles a NAVÜ-t az adatállomány kézhezvételét követő 15 napon belül a kézhezvételről értesíteni. A NAVÜ jogosult az adatállomány átadását kérni a tájékoztatástól számított 30 napon belül.
+(8) Minden, az adatállománnyal rendelkezni jogosult köteles átadni – a megrendelőnek történő átadását követő tizenöt napon belül – a földmérési és térinformatikai államigazgatási szervnek a részben vagy egészében közpénzből előállított, az állami távérzékelési adatbázis adattartalmát érintő adatnak egy, az eredetivel megegyező példányát, a honvédelmi célokra készült távérzékelési adatok kivételével. A földmérési és térinformatikai államigazgatási szerv köteles a NAVÜ-t és a honvédelem térképészeti támogatásáért felelős szervet az adatállomány kézhezvételét követő 15 napon belül a kézhezvételről értesíteni. A NAVÜ és a honvédelem térképészeti támogatásáért felelős szerv a tájékoztatástól számított 30 napon belül jogosult az adatállomány átadását kérni.
 
 (8a) A (8) bekezdés szerint átadott adatokat a földmérési és térinformatikai államigazgatási szerv az állami átvételig az állami távérzékelési adatbázisban, de attól elkülönítve tárolja, kezeli és szolgáltatja.
 
@@ -762,14 +792,14 @@ végzi.
 (8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
 
 - a) természetes személyazonosító adatait,
-- b) a földmérő igazolvány illetve a minősítés számát,
+- b) a földmérő igazolvány illetve az ingatlanrendező földmérő minősítés számát,
 - c) szakképzettségét,
 - d) telephelyét,
 - e) lakcímét,
 - f) elérhetőségeit,
-- g) a földmérő igazolvány, illetve a minősítés érvényességi idejét.
+- g) a földmérő igazolvány, illetve az ingatlanrendező földmérő minősítés érvényességi idejét.
 
-(8a) A (8) bekezdés szerinti nyilvántartásban szereplő természetes személy adatait a nyilvántartást vezető szerv saját honlapján közéteszi a következő adattartalommal:
+(8a) A (8) bekezdés szerinti nyilvántartásban szereplő természetes személy adatait a nyilvántartást vezető szerv a földügyi szakigazgatás hivatalos honlapján közéteszi a következő adattartalommal:
 
 - a) családi és utónév,
 - b) szakképzettség,
@@ -938,6 +968,7 @@ végzi.
 - i) állapítsa meg az egyéb célú földmérési és térképészeti tevékenység végzésének részletes szabályait és követelményrendszerét,
 - j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és a nyilvántartást vezető szervet, határozza meg a minősítés feltételeit és a minősítéssel kapcsolatos eljárás részletes szabályait,
 - k) állapítsa meg a honvédelmi térképészeti hatósági feladatokért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
+- l) állapítsa meg a földmérési és térképészeti tevékenységgel kapcsolatos hatósági eljárások, valamint az ingatlan-nyilvántartási térképi adatbázisból történő adatszolgáltatás részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a 6. § (8a) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
@@ -1014,6 +1045,8 @@ rendeletben állapítsa meg.
 #### 32. Átmeneti rendelkezések
 
 41. § A törvény hatálybalépését megelőzően indult eljárásokban az eljárás megindulásakor hatályos rendelkezéseket kell alkalmazni.
+
+41/A. § Az állami ingatlan-nyilvántartási térképi adatbázis tartalmazza mindazt az ingatlan-nyilvántartásba bejegyezhető, természetben vagy területi mértékben meghatározott jogot és tényt, amelynek az állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetését 2024. március 25-től kezdeményezik.
 
 #### 33. Hatályon kívül helyező rendelkezés
 

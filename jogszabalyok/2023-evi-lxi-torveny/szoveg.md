@@ -24,11 +24,15 @@ egyes közigazgatási tárgyú törvények módosításáról
 
 #### 5. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-#### 7. §
+7. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 5. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) Térképmásolatot központi azonosítási ügynök útján történő azonosítást követően a földügyi szakigazgatás hivatalos honlapján lehet igényelni. Természetes személy térképmásolatot kormányablakban és ingatlanügyi hatóság ügyfélszolgálatán, földmérési és térképészeti adatokat az érintett ingatlan helye szerint illetékes ingatlanügyi hatóság ügyfélszolgálatán személyesen is igényelhet.”
 
 #### 8. §
 
-#### 9. §
+9. § Az Fttv. 17. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Amennyiben ingatlan-nyilvántartási célú földmérési munkához történő adatszolgáltatás során az adatszolgáltatással érintett ingatlan adataiban az állami ingatlan-nyilvántartási térképi adatbázis és a tulajdoni lap adatai között eltérés mutatható ki, abban az esetben az eltérés okát ki kell vizsgálni. Ha a vizsgálat alapján felmérési, térképezési vagy területszámítási hiba kijavítására irányuló vagy ingatlan-nyilvántartási eljárást kell indítani, akkor az ezen eljárások végleges lezárultáig az adatszolgáltatási eljárást fel kell függeszteni.”
 
 #### 10. §
 
