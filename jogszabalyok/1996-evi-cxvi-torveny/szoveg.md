@@ -90,6 +90,7 @@ a következő törvényt alkotja:
 - 52. atomenergia alkalmazására szolgáló építmény: a nukleáris létesítmény és a radioaktívhulladék-tároló, valamint az ezekkel összefüggő építmény;
 - 53. nukleáris létesítménnyel és radioaktívhulladék-tárolóval összefüggő építmény: a nukleáris biztonság szempontjából fontos, így különösen a radioaktív anyagok környezetbe jutását megakadályozó, és a sugárterhelés csökkentésére szolgáló, továbbá a biztonsági funkciók megvalósulásához közvetlenül szükséges építmények, a nukleáris biztonság szempontjából fontos gépészeti, villamos és irányítástechnikai rendszereket és rendszerelemeket tartalmazó épületek, a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre közvetlen hatást gyakorolni képes építmények, a nukleáris létesítmény és a radioaktívhulladék-tároló fizikai védelmében szerepet játszó építmények és építményrészek, továbbá a telephelyi nukleárisbaleset-elhárítási tevékenység végrehajtását közvetlenül kiszolgáló épületek és a nukleáris biztonság szempontjából sajátos építmények, amelyek a nukleáris létesítmény és radioaktívhulladék-tároló létesítéséhez szükségesek és nincs szerepük a létesítmény üzemeltetésében, valamint azok a nem sajátos építmények, amelyek a biztonsági övezethez tartoznak;
 - 54. eltérő fűtőelemköteg: az atomerőmű hatályos engedélyeiben meghatározottól eltérő fűtőelemköteg.
+- 55. jogszabály alapján feljogosított független ellenőrző szervezet: a 16/D. § szerint nyilvántartásba vett szervezet.
 
 ### Alapelvek
 
@@ -331,7 +332,7 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 
 6/H. § (1) Az elnök, az elnökhelyettes, valamint a köztisztviselő további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (a továbbiakban: összeférhetetlenség). A tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység) végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshelyi feladataival közvetlenül összefügg.
 
-(1a) Az (1) bekezdéstől eltérően nem keletkeztet összeférhetetlenséget a nemzeti akkreditálásról szóló törvény szerinti értékelő csoport tevékenységével kapcsolatos feladatok ellátása, ha a köztisztviselő és az akkreditáló szerv közötti, erre irányuló megállapodás megkötését a munkáltatói jogkör gyakorlója előzetesen engedélyezi, azzal, hogy az érintett köztisztviselő nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet ellenőrző tevékenységére vonatkozik.
+(1a) Az (1) bekezdéstől eltérően nem keletkeztet összeférhetetlenséget a nemzeti akkreditálásról szóló törvény szerinti értékelő csoport tevékenységével kapcsolatos feladatok ellátása, ha a köztisztviselő és az akkreditáló szerv közötti, erre irányuló megállapodás megkötését a munkáltatói jogkör gyakorlója előzetesen engedélyezi, azzal, hogy az érintett köztisztviselő nem vehet részt olyan döntés előkészítésében és meghozatalában, amely a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételére, nyilvántartásának felfüggesztésére és a nyilvántartásból való törlésére vonatkozik.
 
 (2) Az elnök, elnökhelyettes és a köztisztviselő nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy alapítvány (közalapítvány) közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító részvény alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
 
@@ -453,7 +454,7 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 
 (2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
 
-- a) egyedi hatósági eljárás keretében engedélyezési és jóváhagyási döntésekkel,
+- a) egyedi hatósági eljárás keretében engedélyezési, bejelentés-tudomásulvételi, eltérésbejelentés-tudomásulvételi és jóváhagyási döntésekkel,
 - b) az engedélyes tevékenységének, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló biztonsági helyzetének rendszeres elemzésével és értékelésével,
 - c) folyamatos, valamint egyedi eljárás során végzett ellenőrzéssel, az átalakításhoz kapcsolódó ellenőrzési program végrehajtásával, és
 - d) a jogszabályi követelmények, az azokon alapuló hatósági előírások gyakorlati érvényesülését biztosító érvényesítési eljárás lefolytatásával.
@@ -551,6 +552,7 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 - c) ellenőrzési eljárásban és értékelésnél kizárólag az engedélyes, kivéve, ha az ellenőrzés vagy az értékelés alapján az üzemeltetési engedélyt módosítani kell: ilyenkor ügyfél a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
 - d) érvényesítés során: kizárólag az engedélyes és a külső bejelentő,
 - e) radioaktívhulladék-tárolóra vonatkozó engedélynél (a létesítmény telephelyének vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív és passzív intézményes ellenőrzésre való áttéréséhez szükséges engedély esetében) az engedélyesen kívül a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
+- f) bejelentés-tudomásulvételi és az eltérésbejelentés-tudomásulvételi eljárásban az engedélyes.
 
 (1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés véglegessé válásától és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
 
@@ -558,7 +560,7 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 
 (1c) Az eljárás megindításáról szóló értesítés tartalmára az Ákr. hivatalbóli eljárásra vonatkozó szabályait kell alkalmazni.
 
-(1d) Az (1b) bekezdésben és az (1) bekezdés a) és e) pontjában meghatározott eljárásokban az atomenergia-felügyeleti szerv a kérelmezővel elektronikus úton, az egyéb ügyfelekkel hirdetményben közli a döntését. A hirdetményt az atomenergia-felügyeleti szerv az (5) bekezdés a) pontja szerinti helyeken teszi közzé.
+(1d) Az (1b) bekezdésben és az (1) bekezdés a), e) és f) pontjában meghatározott eljárásokban az atomenergia-felügyeleti szerv a kérelmezővel elektronikus úton, az egyéb ügyfelekkel hirdetményben közli a döntését. A hirdetményt az atomenergia-felügyeleti szerv az (5) bekezdés a) pontja szerinti helyeken teszi közzé.
 
 (2) Az atomenergia-felügyeleti szerv eljárásaiban – a (2a)–(2d) bekezdésben meghatározott kivétellel – a hatásterület a biztonsági övezet területe.
 
@@ -799,6 +801,51 @@ megadott engedélyek hatályának megszűnése esetén is fennáll.
 
 (2) A nukleáris biztonsági és védettségi követelményekre tekintettel a nukleáris vagy radioaktív anyag elkobzása az atomenergia alkalmazójával szemben is elrendelhető.
 
+### A bejelentés tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás
+
+15/C. § (1) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek gyártása, beszerzése esetén bejelentés-tudomásulvételi eljárást, illetve eltérésbejelentés-tudomásulvételi eljárást folytat le.
+
+(2) A bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban az e törvényben foglalt eltérésekkel alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra és tolmács igénybevételére, az adatkezelésre, a hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy az általános közigazgatási rendtartásról szóló törvény ügyfélre vonatkozó rendelkezéseit a bejelentést tevőre is alkalmazni kell.
+
+15/D. § (1) Az atomenergia-felügyeleti szerv a bejelentés-tudomásulvételi eljárást az engedélyes bejelentése alapján folytatja le.
+
+(2) A bejelentést és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani az atomenergia-felügyeleti szervhez.
+
+(3) A bejelentés-tudomásulvételi eljárásban az ügyintézési határidő a bejelentés atomenergia-felügyeleti szervhez érkezését követő munkanapon kezdődik. Az ügyintézési határidő – ha e törvény végrehajtására kiadott elnöki rendelet rövidebb ügyintézési határidőt nem határoz meg – 15 munkanap.
+
+(4) A bejelentés-tudomásulvételi eljárás más eljárással nem egyesíthető.
+
+(5) A bejelentés-tudomásulvételi eljárásban hiánypótlásnak nincs helye.
+
+15/E. § (1) A bejelentés-tudomásulvételi eljárásban az atomenergia-felügyeleti szerv
+
+- a) a bejelentésben foglaltak tudomásulvételét feltételhez köti,
+- b) a bejelentéssel érintett tevékenység folyamatában visszatartási, illetve ellenőrzési pontot állapít meg,
+- c) az a) és b) pontban foglaltakat együttesen alkalmazza,
+- d) a bejelentésben foglaltak tudomásulvételét elutasítja, vagy
+- e) a bejelentésben foglaltakat tudomásul veszi.
+
+(2) Az atomenergia-felügyeleti szerv az (1) bekezdés e) pontja szerinti esetben egyszerűsített döntést hoz.
+
+(3) Az engedélyes a bejelentéssel érintett tevékenységet az (1) bekezdés a) pontja szerinti esetben az atomenergia-felügyeleti szerv határozatában foglalt feltételek teljesítését követően jogosult megkezdeni, valamint a tevékenységet a határozatban foglalt előírások szerint hajthatja végre.
+
+(4) Ha az atomenergia-felügyeleti szerv a bejelentéssel érintett tevékenység folyamatában egy adott tevékenységet érintően az (1) bekezdés b) pontja szerint visszatartási, illetve ellenőrzési pontot állapított meg, az adott tevékenység végrehajtása csak akkor folytatható, ha az engedélyes a visszatartási, illetve ellenőrzési ponthoz rendelt, az atomenergia-felügyeleti szerv határozatában megállapított kritériumokat teljesítette.
+
+(5) Az (1) bekezdés c) pontja szerinti esetben a (3) és (4) bekezdésben foglaltakat kell alkalmazni.
+
+(6) Az engedélyes a bejelentéssel érintett tevékenységet az (1) bekezdés e) pontja szerinti esetben a döntés közlését követően jogosult megkezdeni.
+
+(7) Ha az atomenergia-felügyeleti szerv a 15/D. § (3) bekezdése szerinti ügyintézési határidőn belül az (1) bekezdés szerinti valamely döntést nem hozza meg, az engedélyes a bejelentéssel érintett tevékenységet a 15/D. § (3) bekezdése szerinti ügyintézési határidő utolsó napját követő naptól jogosult megkezdeni.
+
+15/F. § (1) Az engedélyes az atomenergia-felügyeleti szerv által tudomásul vett tevékenységet érintő eltérést az atomenergia-felügyeleti szerv részére az e törvény végrehajtására kiadott elnöki rendeletben meghatározottak szerint bejelenti.
+
+(2) Az (1) bekezdés szerinti esetben az atomenergia-felügyeleti szerv eltérésbejelentés-tudomásulvételi eljárást folytat le. Az eltérésbejelentés-tudomásulvételi eljárásra a bejelentés-tudomásulvételi eljárás rendelkezéseit kell alkalmazni.
+
+15/G. § Ezen alcím alkalmazásában
+
+- 1. ellenőrzési pont: egy tevékenység folyamatában meghatározott olyan fázis, szakasz vagy művelet, amely során az adott tevékenység az e tevékenység ellenőrzésére kijelölt és felhatalmazott szervezet előzetes értesítése mellett végezhető;
+- 2. visszatartási pont: egy tevékenység folyamatában meghatározott olyan fázis, szakasz vagy művelet, amelyet követően a tevékenység csak az e tevékenység jóváhagyására kijelölt és felhatalmazott szervezet írásbeli jóváhagyása után folytatható.
+
 ### A radioaktív és nukleáris anyagok nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályai
 
 16. § (1) Az atomenergia-felügyeleti szerv a 17. § (2) bekezdés 20. és 21. pontjának megfelelően a radioaktív anyagokról – és ezen belül elkülönítetten a nukleáris anyagokról – központi nyilvántartást vezet, amely a név és az elérhetőségi adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
@@ -959,6 +1006,62 @@ végezhet.
 
 (5) Az atomenergia-felügyeleti szerv a nyilvántartásból kérelemre a 16/A. § (11) bekezdésében foglaltak szerint szolgáltat adatot.
 
+### Jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartása
+
+16/D. § (1) A nukleáris biztonságot érintő, a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló elnöki rendeletben meghatározott ellenőrzést az a szervezet végezhet, amely a nemzeti akkreditálásról szóló törvény szerint akkreditált, vagy – külföldi akkreditált szervezet esetén – elismert, nukleáris területen az MSZ EN ISO/IEC 17020 szabvány „A” típusú függetlenségre vonatkozó akkreditált státusszal rendelkezik (a továbbiakban: akkreditált szervezet) és az atomenergia-felügyeleti szerv e célból létrehozott nyilvántartásában szerepel (a továbbiakban együtt: jogszabály alapján feljogosított független ellenőrző szervezet). A nyilvántartásba vételt az akkreditált szervezet kérelmezi.
+
+(2) A nyilvántartás – a jogszabály alapján feljogosított független ellenőrző szervezet (4) bekezdés a)–f) és h) pontja szerinti adatai kivételével – közhiteles hatósági nyilvántartás.
+
+(3) A jogszabály alapján feljogosított független ellenőrző szervezet az (1) bekezdés szerinti tevékenységet a nyilvántartásba történő bejegyzése napjától végezheti.
+
+(4) A nyilvántartás tartalmazza a jogszabály alapján feljogosított független ellenőrző szervezet
+
+- a) megnevezését,
+- b) statisztikai azonosítóját, ha a hivatalos statisztikáról szóló törvény hatálya alá tartozik,
+- c) cégjegyzékszámát, ha a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozik,
+- d) egyéb nyilvántartási számát a b) és c) pontban felsorolt adatok hiányában,
+- e) székhelyét, telephelyét,
+- f) vezető tisztségviselőjének
+  - fa) a cégnyilvántartásból megismerhető természetes személyazonosító adatait,
+  - fb) állampolgárságát, és
+  - fc) lakóhelyét,
+- g) által végezhető, az (1) bekezdés szerinti tevékenység pontos megnevezését,
+- h) Nemzeti Akkreditáló Hatóság által kiállított, az akkreditált státuszt igazoló részletező okirata nyilvántartási számát, az akkreditált státusza érvényességi idejét, és az akkreditált terület meghatározását,
+- i) adatváltozásai bejelentésének idejét,
+- j) nyilvántartásba vételének és a nyilvántartásból való törlésének okát és kezdő napját,
+- k) nyilvántartása felfüggesztésének okát, kezdő napját és a nyilvántartás-felfüggesztés megszüntetésének napját, valamint
+- l) nyilvántartási számát.
+
+(5) Az atomenergia-felügyeleti szerv a jogszabály alapján feljogosított független ellenőrző szervezet azonosítása érdekében a (4) bekezdésben meghatározott adatokat a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásból való törlése évét követő ötödik év végéig kezeli.
+
+(6) Az atomenergia-felügyeleti szerv a nyilvántartás adatbázisából elektronikus másolattal szolgáltat adatot.
+
+(7) Az atomenergia-felügyeleti szerv a jogszabály alapján feljogosított független ellenőrző szervezetek jegyzékét a honlapján közzéteszi. A jegyzék tartalmazza a jogszabály alapján feljogosított független ellenőrző szervezet megnevezését, nyilvántartási számát, a nyilvántartásba vétel alapján végezhető tevékenységét és a nyilvántartásba vétel időbeli hatályát. Az atomenergia-felügyeleti szerv a jegyzék tartalmában bekövetkezett változást a honlapján haladéktalanul közzéteszi.
+
+(8) A jogszabály alapján feljogosított független ellenőrző szervezet a nyilvántartásba vétel iránti kérelmében, valamint a kérelemhez csatolt dokumentumokban bekövetkezett változást nyolc napon belül bejelenti az atomenergia-felügyeleti szervnek.
+
+(9) A jogszabály alapján feljogosított független ellenőrző szervezet a nyilvántartásba vételi eljárásáért, valamint a nyilvántartásban szereplés meghosszabbításáért igazgatási szolgáltatási díjat fizet.
+
+16/E. § (1) Az atomenergia-felügyeleti szerv a jogszabály alapján feljogosított független ellenőrző szervezetet e törvényben vagy e törvény végrehajtására kiadott elnöki rendeletben foglaltak megsértése esetén e tevékenységétől eltiltja (a nyilvántartásból törli vagy nyilvántartását felfüggeszti). Az atomenergia-felügyeleti szerv a törlés során, valamint a felfüggesztés időbeli hatályának megállapításakor a biztonsági kockázatokat is figyelembe véve dönt. A nyilvántartás felfüggesztése a jogszerű állapot helyreállításáig, de legfeljebb egy évig tarthat.
+
+(2) Az atomenergia-felügyeleti szerv a nyilvántartás felfüggesztés időbeli hatályának megállapításával, valamint a nyilvántartásból való törléssel összefüggésben a 14. § (3b) bekezdés b)–e) pontjaiban foglalt szempontokat is figyelembe veszi.
+
+(3) Az atomenergia-felügyletei szerv a jogszabály alapján feljogosított független ellenőrző szervezetet a nyilvántartásból törli, ha
+
+- a) megállapítja, hogy a nyilvántartásba vétel alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében a nyilvántartásba vétel követelményei nem teljesülnek, vagy
+- b) a jogszabály alapján feljogosított független ellenőrző szervezet tevékenységével kapcsolatban megalapozottan, a vonatkozó jogszabályok szerinti súlyos kifogás merült fel.
+
+(4) A (3) bekezdés b) pontja szerinti súlyos kifogásnak minősül, ha a jogszabály alapján feljogosított független ellenőrző szervezet tevékenységének eredménye nem felel meg a jogszabályi előírásoknak és a vonatkozó szabványoknak, és ez a magatartása az ellenőrzési tevékenysége hitelességét, megbízhatóságát sérti vagy veszélyezteti.
+
+(5) Az atomenergia-felügyeleti szerv a (3) bekezdés b) pontja szerinti esetben a jogszabály alapján feljogosított független ellenőrző szervezetet az e törvény végrehajtására kiadott elnöki rendelet szerinti ellenőrző tevékenységétől eltiltja, és a nyilvántartásból törli. A jogszabály alapján feljogosított független ellenőrző szervezet az ismételt nyilvántartásba vételét a nyilvántartásból való törlését követő egy év elteltével kérheti.
+
+(6) Az atomenergia-felügyeleti szerv a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartását a jogszabály alapján feljogosított független ellenőrző szervezet kérelmére – a kérelemben meghatározott időpontig, de legfeljebb egy évre – felfüggeszti.
+
+(7) Az atomenergia-felügyeleti szerv a jogszabály alapján feljogosított független ellenőrző szervezetet törli a nyilvántartásból, ha a jogszabály alapján feljogosított független ellenőrző szervezet
+
+- a) a nyilvántartásból való törlését kéri, vagy
+- b) jogutód nélkül megszűnt.
+
 ### Az atomenergia-felügyeleti szerv hatásköre
 
 17. § (1) Az atomenergia-felügyeleti szerv alapvető feladata az atomenergia békés célú, biztonságos és védett alkalmazásával – különösen a nukleáris létesítmények és radioaktívhulladék-tárolók nukleáris biztonságával és védettségével – a nukleáris és más radioaktív anyagok, ionizáló sugárzást kibocsátó berendezések biztonságával és védettségével, a nukleáris fegyverek elterjedése elleni tevékenységgel, a nukleáris veszélyhelyzet-kezeléssel kapcsolatos hatósági feladatok, valamint az ezekre vonatkozó tájékoztatási tevékenység ellátása, illetve összehangolása.
@@ -973,7 +1076,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 - 2. a nukleáris létesítmény és a radioaktívhulladék-tároló ellenőrzése, valamint a nukleáris létesítmény és radioaktívhulladék-tároló nukleáris biztonságának értékelése, elemzése;
 - 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
-- 4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését), a tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
+- 4. a nukleáris létesítmény rendszere, rendszereleme tekintetében a tervezéssel, gyártással, beszerzéssel, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését is), üzemen kívül helyezéssel, leszereléssel kapcsolatos tevékenységek nukleáris biztonsági engedélyezése és ellenőrzése, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
 - 5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges engedélyezés és ellenőrzés;
 - 6. a nukleáris létesítmény és a radioaktívhulladék-tároló rendszerének, rendszerelemének az engedélyes szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumai átalakításának engedélyezése és ellenőrzése;
 - 7. az atomerőmű blokkjainak főjavítását követő újraindításához szükséges nukleáris biztonsági engedélyezés;
@@ -1014,6 +1117,8 @@ szükséges nukleáris biztonsági engedélyezés;
 - 42. a nukleáris és más radioaktív anyagok sugárvédelmével összefüggő rendkívüli események és nukleáris veszélyhelyzetek kezelési tervének jóváhagyása.
 - 43. az építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői szakmagyakorlásra alkalmasság megállapítása, és az ezzel kapcsolatos nyilvántartásba vétel;
 - 44. a nukleáris létesítmények és a radioaktívhulladék-tárolók létesítmény szintű Munkahelyi Sugárvédelmi Szabályzatának jóváhagyása.
+- 45. az e törvény végrehajtására kiadott elnöki rendeletben meghatározott, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek gyártását, beszerzését érintő bejelentés tudomásulvétele és eltérésbejelentés tudomásulvétele;
+- 46. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vétele, nyilvántartásának felfüggesztése és a nyilvántartásból való törlése, valamint az akkreditálás során érvényesítendő követelmények megállapítása.
 
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott elnöki rendeletet kell alkalmazni.
 
@@ -1029,7 +1134,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény és a radioaktív-hulladék tároló üzemeltetési engedélyének módosítását.
 
-(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve – a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban kell benyújtani. A kérelmet megalapozó dokumentációt elektronikus adathordozón is mellékelni kell. A műszaki sajátosságokat figyelembe véve, az A3 méretűnél nagyobb dokumentumokat papír alapon is be kell nyújtani.
+(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese elnöki rendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
 
@@ -1622,6 +1727,8 @@ járó költségeket.
 
 66/J. § Az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2023. évi CXXI. törvénnyel (a továbbiakban: Atvmód.) megállapított 63. § (5) bekezdés szerinti eseti befizetést első alkalommal a 2025. évi központi költségvetés tervezésekor kell alkalmazni.
 
+66/K. § A nemzeti akkreditálásról szóló törvény szerinti akkreditált státusszal rendelkező szervezet az Atvmód. hatálybalépését követő hatodik hónap utolsó napjáig végezhet az Atvmód.-dal megállapított 16/D. § szerinti nyilvántartásba vétele nélkül nukleáris biztonságot érintő, a Nemzeti Akkreditáló Hatóság által kiállított, az akkreditált státuszt igazoló részletező okiratban meghatározott akkreditált terület szerinti, az NBSZ. R.-ben meghatározott ellenőrző tevékenységet.
+
 ### Felhatalmazó rendelkezések
 
 67. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
@@ -1743,6 +1850,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
   - f) a nukleáris biztonsági hatósági tevékenység szabályait,
   - g) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit,
   - h) a létesítés alatt álló nukleáris létesítmény engedélymódosításának eljárási szabályait;
+  - i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban a bejelentés mellékleteire, a bejelentésköteles tevékenység során felmerülő eltérések kezelésére vonatkozó részletes szabályokat, valamint a bejelentés-tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás alá vonható, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek körét.
 - 10. a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tároló engedélymódosításának eljárási szabályait.
 - 11. az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
 - 12. a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait;
@@ -1753,6 +1861,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 - 17. az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat;
 - 18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
 - 19. a hatósági feladatot ellátó személy részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
+- 20. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételének, nyilvántartása felfüggesztésének, nyilvántartásból való törlésének részletes szabályait, valamint az akkreditálás során érvényesítendő követelményeket.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
