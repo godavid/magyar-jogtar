@@ -445,39 +445,39 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
   - cb) az expozíciós koncentráció mért adatait anyagonként.
 - d)
 
-(3) A munkáltató a nyilvántartásban szereplő adatokat a munkaviszony megszűnését követő tíz évig, ha a munkavállaló munkahelyén rákkeltő hatású anyagoknak van kitéve, ötven évig megőrzi.
+(3) A munkáltató a nyilvántartásban szereplő adatokat a munkaviszony megszűnését követő tíz évig, megőrzi.
 
 (4) Amennyiben a munkáltató jogutód nélkül megszűnik, a (2) bekezdés szerint nyilvántartott adatokat a munkavégzés helye szerint illetékes munkavédelmi hatóságnak átadja az (1) bekezdésben meghatározott célból.
 
 (5) A munkavédelmi hatóság az adatok őrzéséről a (3) bekezdésben meghatározottak szerint gondoskodik.
 
-63/B. § (1) A munkáltató a rákkeltő anyagok elleni védekezés és az általuk okozott egészségkárosodások, valamint daganatos megbetegedések megelőzésének céljából nyilvántartást vezet azokról a munkavállalókról, akik munkavégzésük során rákkeltő vagy mutagén anyagok expozíciójának vannak vagy lehetnek kitéve. A nyilvántartás célja továbbá, hogy a munkavállalók egészségének védelme, a rákkeltő vagy mutagén anyagok által okozott foglalkozási eredetű egészségkárosodások, valamint daganatos megbetegedések megelőzése, és a foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében a rákkeltő vagy mutagén anyagok okozta kockázatok utólag azonosíthatóak, ellenőrizhetőek és dokumentáltak legyenek.
+63/B. § (1) A munkáltató a rákkeltő, mutagén vagy reprodukciót károsító anyagok elleni védekezés és az általuk okozott egészségkárosodások, valamint daganatos megbetegedések megelőzésének céljából nyilvántartást vezet azokról a munkavállalókról, akik munkavégzésük során rákkeltő, mutagén vagy reprodukciót károsító anyagok expozíciójának vannak vagy lehetnek kitéve. A nyilvántartás célja továbbá, hogy a munkavállalók egészségének védelme, a rákkeltő, mutagén vagy reprodukciót károsító anyagok által okozott foglalkozási eredetű egészségkárosodások, valamint daganatos megbetegedések megelőzése, és a foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében a rákkeltő, mutagén vagy reprodukciót károsító anyagok okozta kockázatok utólag azonosíthatóak, ellenőrizhetőek és dokumentáltak legyenek.
 
 (2) A nyilvántartás tartalmazza
 
 - a) a munkavállaló nevét, születési helyét, idejét,
-- b) az expozíciót okozó rákkeltő anyag nevét,
-- c) a munkavállaló napi, heti és éves expozíciós idejét,
-- d) az expozíciós koncentráció mért adatait anyagonként.
+- b) az expozíciót okozó rákkeltő, mutagén vagy reprodukciót károsító anyag nevét,
+- c) a munkavállaló napi, heti és éves expozíciós idejét, és
+- d) az expozíciós koncentráció mért vagy becsült adatait anyagonként.
 
-(3) A munkáltató az (2) bekezdés szerinti nyilvántartásban szereplő adatokat az expozíció utolsó napját követő ötven évig megőrzi.
+(3) A munkáltató a (2) bekezdés szerinti nyilvántartásban szereplő adatokat a rákkeltő és mutagén anyagok tekintetében az expozíció utolsó napját követő ötven évig, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, legalább öt évig megőrzi.
 
 (4) Amennyiben a munkáltató jogutód nélkül megszűnik, az (2) bekezdés szerint nyilvántartott adatokat a munkavégzés helye szerint illetékes munkavédelmi hatóságnak átadja az (1) bekezdésben meghatározott célból.
 
 (5) A munkavédelmi hatóság az adatok őrzéséről a (3) bekezdés szerint gondoskodik.
 
-63/C. § (1) A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló jogszabályban meghatározott rákkeltővel végzett tevékenységet, annak veszélyessége miatt, hatósági ellenőrzés lefolytatása, valamint egy jövőben esetlegesen bekövetkező fokozott expozíció vagy foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében minden év január 10-ig a munkavédelmi hatóság részére be kell jelenteni.
+63/C. § (1) A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló jogszabályban meghatározott rákkeltővel, mutagén vagy reprodukciót károsító anyaggal végzett tevékenységet, annak veszélyessége miatt, hatósági ellenőrzés lefolytatása, valamint egy jövőben esetlegesen bekövetkező fokozott expozíció vagy foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében minden év január 10-ig a munkavédelmi hatóság részére be kell jelenteni.
 
 (2) Az alkalmazandó bejelentőlapot a munkavédelmi hatóság a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzéteszi. A bejelentés tartalmazza:
 
-- a) a munkáltató nevét, telephely címét, telefonszámát, e-mail-címét,
+- a) a munkáltató nevét, telephelye címét, telefonszámát, e-mail-címét,
 - b) a tevékenység telephelyen belüli pontos helyszínét,
 - c) az ágazati, szakágazati besorolást,
 - d) az utolsó bejelentés időpontját,
-- e) a rákkeltők vagy mutagén anyagok használatát, a használat indoklásával,
+- e) a rákkeltők, mutagén vagy reprodukciót károsító anyagok használatát, a használat indokolásával,
 - f) az expozíciót jelentő munkakörök megnevezését és a munkakörben dolgozók számát,
-- g) a rákkeltővel exponált munkavállalók születési évét, Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ szám), munkakörét,
-- h) a rákkeltővel vagy mutagénnel, és rákkeltőt vagy mutagént tartalmazó keverékekkel kapcsolatos adatokat,
+- g) a rákkeltővel, mutagénnel vagy reprodukciót károsító anyaggal exponált munkavállalók születési évét, Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ szám), munkakörét,
+- h) a rákkeltővel, mutagénnel vagy reprodukciót károsító anyaggal és rákkeltőt, mutagént vagy reprodukciót károsító anyagot tartalmazó keverékekkel kapcsolatos adatokat, és
 - i) a tárgyévben végzett levegőszennyezettség-vizsgálatok eredményeit (mg/m3) anyagonként.
 
 (3) A munkavédelmi hatóság a (2) bekezdés szerinti bejelentésben szereplő adatok alapján a 83/A. § szerint nyilvántartást vezet.
@@ -1001,18 +1001,18 @@ kell rögzítenie.
 
 (10) A kamara a nyilvántartásban szereplő adatokat az engedély visszavonását vagy a szakértő halálát követő öt év elteltével törli.
 
-83/A. § (1) A munkavédelmi hatóság nyilvántartást vezet annak érdekében, hogy a kockázatok minimálisra csökkentésével elősegítse a munkavállalók védelmét a rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szemben.
+83/A. § (1) A munkavédelmi hatóság nyilvántartást vezet annak érdekében, hogy a kockázatok minimálisra csökkentésével elősegítse a munkavállalók védelmét a rákkeltő, mutagén vagy reprodukciót károsító anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szemben.
 
-(2) A nyilvántartás azoknak a munkáltatóknak és munkavállalóknak az adatait tartalmazza, amely munkáltatóknál szervezett munkavégzés során a munkavállaló rákkeltőknek van kitéve. A nyilvántartás tartalmazza
+(2) A nyilvántartás azoknak a munkáltatóknak és munkavállalóknak az adatait tartalmazza, amely munkáltatóknál szervezett munkavégzés során a munkavállaló rákkeltő, mutagén vagy reprodukciót károsító anyag hatásának van kitéve. A nyilvántartás tartalmazza
 
-- a) a munkáltató nevét, telephelyét, ágazati, szakágazati besorolását,
-- b) a munkavállaló születési évét, társadalombiztosítási azonosító jelét, foglalkozását, az adott foglalkozással járó expozícióban eltöltött munkaéveinek számát.
+- a) a munkáltató nevét, telephelyét, ágazati, szakágazati besorolását, és
+- b) a munkavállaló születési évét, TAJ számát, foglalkozását, az adott foglalkozással járó expozícióban eltöltött munkaéveinek számát.
 
-(3) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat kezelheti, illetve a munkáltatókat adatközlésre hívhatja fel.
+(3) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat kezeli, illetve a munkáltatókat adatközlésre hívhatja fel.
 
-(4) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat a foglalkozási eredetű rákkeltő anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének céljából továbbítja a munkahigiénés és foglalkozás-egészségügyi szerv részére, amely szerv ezen adatokat a továbbítástól számított ötven év elteltével törli.
+(4) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat a foglalkozási eredetű rákkeltő, mutagén vagy reprodukciót károsító anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének céljából továbbítja a munkahigiénés és foglalkozás-egészségügyi szerv részére, amely szerv a rákkeltő vagy mutagén anyagokkal végzett tevékenységre vonatkozó adatokat a továbbítástól számított ötven év elteltével, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, öt év elteltével törli.
 
-(5) A munkavédelmi hatóság a nyilvántartásban szereplő adatokat a munkáltató bejelentésétől számított ötven év elteltével törli.
+(5) A munkavédelmi hatóság a nyilvántartásban szereplő rákkeltő vagy mutagén anyagokkal végzett tevékenységre vonatkozó adatokat a munkáltató bejelentésétől számított ötven év elteltével, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, öt év elteltével törli.
 
 83/B. § (1) A munkavédelmi hatóság a munkavédelmi szabályok munkáltatók általi megtartásának más szerv előtti, külön jogszabály szerinti eljárásban történő igazolása céljából hatósági nyilvántartást vezet. A hatósági nyilvántartás azoknak a munkáltatóknak az adatait tartalmazza, amelyekre vonatkozóan a munkavédelmi ellenőrzés során az eljáró hatóság végleges határozata, közigazgatási per esetén jogerős bírósági határozattal elbírált hatósági határozat jogsértést állapított meg és munkavédelmi bírságot szabott ki.
 
@@ -1294,6 +1294,7 @@ részletes szabályait.
 - l) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2017. december 12-i (EU) 2017/2398 európai parlamenti és tanácsi irányelv,
 - m) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai parlamenti és tanácsi irányelv.
 - n) az Európai Unió Mezőgazdasági Szövetkezeteinek Általános Szövetsége (COGECA), az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) és az Európai Uniós Halászati Vállalkozások Nemzeti Szervezeteinek Szövetsége (Europêche) között 2012. május 21-én megkötött, a Nemzetközi Munkaügyi Szervezet 2007. évi, a halászati ágazat munkafeltételeiről szóló egyezményének végrehajtásáról szóló megállapodás végrehajtásáról szóló, 2016. december 19-i (EU) 2017/159 tanácsi irányelv.
+- o) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelv.
 
 (7)
 

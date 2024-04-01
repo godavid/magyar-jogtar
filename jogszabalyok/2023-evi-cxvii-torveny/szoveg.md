@@ -12,7 +12,9 @@ az illetékekről szóló 1990. évi XCIII. törvény és a közbeszerzésekről
 
 #### 3. §
 
-#### 4. §
+4. § A Kbt. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés h) és i) pontja szerinti eljárás eredményéről szóló tájékoztatót az ajánlatkérő legkésőbb a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról [131. § (9) bekezdés] szóló ajánlatkérői döntést vagy a szerződés megkötésének megtagadására vonatkozó ajánlattevői döntés kézhezvételét követő húsz napon belül köteles megküldeni közzétételre. A Második Rész szerint lefolytatott, valamint a 3. melléklet szerinti szolgáltatások esetén az uniós értékhatárt elérő értékű közbeszerzési eljárásban és az uniós értékhatárt elérő értékű koncessziós beszerzési eljárásban, részekre történő ajánlattétel esetén az ajánlatkérő az eljárás eredményéről szóló tájékoztatót az egyes részekre vonatkozóan külön is közzéteheti. Az ajánlatkérő részekre történő ajánlattétel esetén a Második Rész szerint lefolytatott, valamint a 3. melléklet szerinti szolgáltatások esetén az uniós értékhatárt elérő értékű közbeszerzési eljárásban és az uniós értékhatárt elérő értékű koncessziós beszerzési eljárásban a teljes eljárásra vagy több részre vonatkozóan akkor tehet közzé egyetlen tájékoztatót, ha az e bekezdés szerinti közzétételre megküldés határidejét a tájékoztatóban érintett mindegyik rész tekintetében betartja. A közbeszerzési eljárás e hirdetmény – az egyes részek tekintetében az adott részre vonatkozó hirdetmény – közzétételével zárul le.”
 
 #### 5. §
 
@@ -22,11 +24,15 @@ az illetékekről szóló 1990. évi XCIII. törvény és a közbeszerzésekről
 
 #### 8. §
 
-#### 9. §
+9. § A Kbt. 79. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ajánlatkérő az ajánlatok és a részvételi jelentkezések elbírálásának lezárásaként az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott adattartalom szerint írásbeli összegezést köteles készíteni az ajánlatokról, illetve a részvételi jelentkezésekről. Ha az ajánlatkérő az eljárásban lehetővé tette a részekre történő ajánlattételt, az ajánlatkérő az ajánlatok elbírálásáról szóló összegezést – az egyes részekben az ajánlatok bírálatának lezárásaként – részenként is elkészítheti. Az ajánlatkérő az (1) bekezdés szerinti tájékoztatást az írásbeli összegezésnek minden ajánlattevő, a részvételi szakasz lezárása esetén minden részvételre jelentkező részére egyidejűleg történő megküldésével teljesíti.”
 
 #### 10. §
 
-#### 11. §
+11. § A Kbt. 114. §-a a következő (15) bekezdéssel egészül ki:
+
+„(15) Az ajánlatkérő – a 3. melléklet szerinti szolgáltatások uniós értékhatárt elérő értékű beszerzése kivételével – az ajánlatok bírálatának lezárásaként az ajánlatok elbírálásáról egy összegezést készít abban az esetben is, ha az eljárásban lehetővé tette a részekre történő ajánlattételt.”
 
 #### 12. §
 
@@ -50,7 +56,7 @@ az illetékekről szóló 1990. évi XCIII. törvény és a közbeszerzésekről
 
 22. § A Kbt.
 
-1.
+1. 37. § (4) bekezdésében a „három munkanapon belül” szövegrész helyébe a „húsz napon belül” szöveg,
 
 2.
 
@@ -68,7 +74,7 @@ az illetékekről szóló 1990. évi XCIII. törvény és a közbeszerzésekről
 
 9.
 
-10.
+10. 127. § (1) bekezdésében az „az ajánlatok elbírálásának befejezését követően köteles olyan” szövegrész helyébe az „az ajánlatok elbírálásának befejezését követően – amennyiben az eljárásban több részre történő ajánlattételt tett lehetővé, az uniós értékhatárt elérő értékű koncessziónál választása szerint adott esetben részenként – köteles olyan” szöveg,
 
 11.
 
