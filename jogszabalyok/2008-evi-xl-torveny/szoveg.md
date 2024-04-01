@@ -2343,6 +2343,12 @@ amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiado
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő cseppfolyós PB-gáz turista használatú palackba történő PB-gáz-átfejtés tevékenység folytatására irányuló szándékát köteles a műszaki-biztonsági hatóságnak bejelenteni.
 
+118/B. § (1) A Hivatal származási garanciát állít ki a megújuló gázokra vonatkozóan és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A Hivatal biztosítja, hogy a származási garanciák pontosak, megbízhatóak és hitelesek, valamint a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen. A megújuló gázok származási garanciáira vonatkozó részletes szabályokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
+
+(2) A Hivatal az (1) bekezdés szerinti egyes feladatok ellátásához kapcsolódóan közreműködő szervezeteket bízhat meg.
+
+(3) A megújuló gáz energiamennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
+
 ### XII. Fejezet — JOGKÖVETKEZMÉNYEK
 
 119. § (1) Aki a földgázipari tevékenységet általános hatályú, közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, jogszabályban, az engedélyében, a Hivatal határozatában, az Üzemi és Kereskedelmi Szabályzatban, az üzletszabályzatban, az ACER kötelező erejű határozatában előírtaktól eltérő módon gyakorolja, azzal szemben a Hivatal az alábbi jogkövetkezményeket alkalmazhatja:
