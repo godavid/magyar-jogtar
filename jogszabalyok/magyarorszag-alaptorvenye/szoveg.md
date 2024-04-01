@@ -526,7 +526,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 #### XXXI. cikk
 
-(1) Minden magyar állampolgár köteles a haza védelmére.
+(1) A haza védelme nemzeti ügy. Minden magyar állampolgár köteles a haza védelmére.
 
 (2) Magyarország önkéntes honvédelmi tartalékos rendszert tart fenn.
 

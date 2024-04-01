@@ -64,6 +64,8 @@ a következő törvényt alkotja:
 
 4/A. § Ha a földrészlet az ingatlan-nyilvántartásban halastóként nyilvántartott alrészlet mellett tartalmaz az ingatlan-nyilvántartásban az 5. § 17. pontjában meghatározott művelési ágban nyilvántartott alrészletet is, a teljes földrészletre e törvény rendelkezéseit akkor kell alkalmazni, ha az 5. § 17. pontjában meghatározott művelési ágban nyilvántartott alrészlet területnagysága meghaladja a halastóként nyilvántartott alrészlet nagyságát.
 
+4/B. § E törvény hatálya kiterjed a rizstelephez tartozó, önálló helyrajzi számon nyilvántartott, művelés alól kivett területként nyilvántartott ingatlanra is.
+
 #### 2. Értelmező rendelkezések
 
 5. § E törvény alkalmazásában
@@ -106,6 +108,7 @@ a következő törvényt alkotja:
   - c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik, és
   - d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő mezőgazdasági termelőként nyilvántartásba vételre kerül;
 - 22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
+- 22b. rizstelep: az élelmiszerlánc-felügyeleti szerv által rizstelepként elismert olyan, egy vagy több földrészletből álló, legalább 1 hektár térmértékű, egységes művelés alatt álló terület, amelyen a mezőgazdasági termelő a rizstelepként történő elismerés iránti kérelem benyújtását közvetlenül megelőző 3 évből legalább 1 évben 1006 10 KN kód, illetve 1008 90 00 KN kód alá tartozó rizst termeszt, és amely magába foglalja a földet és annak tartozékaként a rizstermesztést szolgáló, művelés alól kivett területként nyilvántartott földrészletet is;
 - 23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül érintkezik, illetve amelyet a jogügylet tárgyát képező földtől önálló helyrajzi szám alatt nyilvántartott út, vasút, kerékpárút, árok, csatorna, patak földrészlet vagy földrészletek közbeékelődése választ el;
 - 24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;
 - 25. tanya: a település külterületén fekvő, legfeljebb 1 hektár nagyságú olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás célját szolgáló lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként szerepel;
@@ -201,8 +204,9 @@ javára engedi át;
 
 - b) társult erdőgazdálkodást folytat, az erdőnek minősülő földet erdőkezelésbe adja, vagy osztatlan közös tulajdonban álló erdőnek minősülő föld használati jogosultságát tulajdoni hányadot meghaladó mértékű többlethasználati megállapodással másik tulajdonostársnak engedi át;
 - c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely érvényes jogcímen engedi át a használatot más személy részére;
-- d) gazdaságátadási szerződés keretében engedi át a használatot; vagy
-- e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot.
+- d) gazdaságátadási szerződés keretében engedi át a használatot;
+- e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot, vagy
+- f) a rizstelephez tartozó föld használatát engedi át a rizstelep használója részére.
 
 (3) A föld más célra hasznosítható a következő célokból:
 
@@ -293,6 +297,11 @@ föld területnagyságával a 10. § (2) bekezdésében, valamint a 16. § (1) b
 
 (3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányada egészének vagy egy részének eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi az adásvételi szerződés megkötésekor legalább 3 éve tulajdoni hányaddal rendelkező földműves tulajdonostárs. Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a közös vagyonba tartozó ingatlanrész az elővásárlási jogával élni kívánó tulajdonostárs házastársának tulajdonát képezte.
 
+(3a) Rizstelephez tartozó földrészlet eladása esetén az (1) bekezdés c)–e) pontjában, valamit a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – az alábbi sorrendben megelőzi
+
+- a) az a földműves, aki a földet a földhasználati nyilvántartás alapján legalább 3 éve használó mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa, illetve annak közeli hozzátartozója,
+- b) az a földműves, akinek az életvitelszerű lakáshasználata helye vagy a mezőgazdasági üzemközpontja legalább 3 éve olyan településen van, amelynek közigazgatási határa az adásvétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van, és a legalább egy éve tulajdonában lévő föld ugyanannak a rizstelepnek a része, mint az adásvételi szerződés tárgyát képező földrészlet.
+
 (4) Az (1) bekezdés c)–e) pontjában, valamint a (2) és (3) bekezdésben meghatározott jogosulti csoportokon belül az elővásárlásra jogosultak sorrendje a következő:
 
 - a) legalább egy éve családi mezőgazdasági társaság tagja vagy őstermelők családi gazdaságának tagja,
@@ -313,6 +322,8 @@ föld területnagyságával a 10. § (2) bekezdésében, valamint a 16. § (1) b
 - b) legalább három éve a vevő, vagy a vevő legalább 25%-ban tulajdonában, vagy a vevő közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet.
 
 (5a) Több föld egybefoglalt vételáron történő eladása esetén a földműves tulajdonostársat a 18. § (3) bekezdése alapján megillető elővásárlási jog csak akkor gyakorolható, ha ezen elővásárlási jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
+
+(5b) Rizstelephez tartozó földrészlet értékesítésére csak akkor kerülhet sor, ha az adásvételi szerződés a rizstelephez tartozó valamennyi ingatlan tulajdonjogának egybefoglalt vételáron történő átruházásáról rendelkezik, ide nem értve azt az esetet, ha a vevő a rizstelephez tartozó földrészletnek legalább egy éve tulajdonosa vagy olyan földműves, aki a földet a földhasználati nyilvántartás alapján legalább 3 éve használó mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa, illetve annak közeli hozzátartozója.
 
 (6) Egy adásvételi szerződésben vagy elfogadó jognyilatkozatban több elővásárlásra jogosult közösen is gyakorolhatja e jogosultságát. Az elővásárlásra jogosultak sorrendjének megállapítása során az elővásárlási jogot közösen gyakorló jogosultak ranghelyének meghatározásakor azt a jogosultat kell figyelembe venni, aki közülük a jogosulti rangsor szerint az utolsó helyen áll.
 
