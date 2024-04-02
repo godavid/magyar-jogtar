@@ -1184,10 +1184,7 @@ rendeletben állapítsa meg.
 
 (3) A 7. § hatálya alá nem tartozó kizárólagos további felhasználási jogot biztosító azon megállapodás, amelyet közvállalkozás kötött, és amely 2019. július 16-án már hatályban volt, a megállapodás lejártakor, de legkésőbb 2049. július 17-én fogva megszűnik.
 
-104. § Hatályát veszti
-
-- a) a közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény, és
-- b) a nemzeti adatvagyonról szóló 2021. évi XCI. törvény.
+#### 104. §
 
 #### 49. Az Európai Unió jogának való megfelelés
 

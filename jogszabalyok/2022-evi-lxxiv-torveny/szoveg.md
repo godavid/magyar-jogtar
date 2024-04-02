@@ -80,34 +80,9 @@ egyes foglalkoztatási tárgyú törvények módosításáról
 
 #### 30. §
 
-31. § A munkavédelemről szóló 1993. évi XCIII. törvény 63/B. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+#### 31. §
 
-„(1) A munkáltató a rákkeltő, mutagén vagy reprodukciót károsító anyagok elleni védekezés és az általuk okozott egészségkárosodások, valamint daganatos megbetegedések megelőzésének céljából nyilvántartást vezet azokról a munkavállalókról, akik munkavégzésük során rákkeltő, mutagén vagy reprodukciót károsító anyagok expozíciójának vannak vagy lehetnek kitéve. A nyilvántartás célja továbbá, hogy a munkavállalók egészségének védelme, a rákkeltő, mutagén vagy reprodukciót károsító anyagok által okozott foglalkozási eredetű egészségkárosodások, valamint daganatos megbetegedések megelőzése, és a foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében a rákkeltő, mutagén vagy reprodukciót károsító anyagok okozta kockázatok utólag azonosíthatóak, ellenőrizhetőek és dokumentáltak legyenek.
-
-(2) A nyilvántartás tartalmazza
-
-- a) a munkavállaló nevét, születési helyét, idejét,
-- b) az expozíciót okozó rákkeltő, mutagén vagy reprodukciót károsító anyag nevét,
-- c) a munkavállaló napi, heti és éves expozíciós idejét, és
-- d) az expozíciós koncentráció mért vagy becsült adatait anyagonként.
-
-(3) A munkáltató a (2) bekezdés szerinti nyilvántartásban szereplő adatokat a rákkeltő és mutagén anyagok tekintetében az expozíció utolsó napját követő ötven évig, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, legalább öt évig megőrzi.”
-
-32. § A munkavédelemről szóló 1993. évi XCIII. törvény 63/C. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló jogszabályban meghatározott rákkeltővel, mutagén vagy reprodukciót károsító anyaggal végzett tevékenységet, annak veszélyessége miatt, hatósági ellenőrzés lefolytatása, valamint egy jövőben esetlegesen bekövetkező fokozott expozíció vagy foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében minden év január 10-ig a munkavédelmi hatóság részére be kell jelenteni.
-
-(2) Az alkalmazandó bejelentőlapot a munkavédelmi hatóság a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzéteszi. A bejelentés tartalmazza:
-
-- a) a munkáltató nevét, telephelye címét, telefonszámát, e-mail-címét,
-- b) a tevékenység telephelyen belüli pontos helyszínét,
-- c) az ágazati, szakágazati besorolást,
-- d) az utolsó bejelentés időpontját,
-- e) a rákkeltők, mutagén vagy reprodukciót károsító anyagok használatát, a használat indokolásával,
-- f) az expozíciót jelentő munkakörök megnevezését és a munkakörben dolgozók számát,
-- g) a rákkeltővel, mutagénnel vagy reprodukciót károsító anyaggal exponált munkavállalók születési évét, Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ szám), munkakörét,
-- h) a rákkeltővel, mutagénnel vagy reprodukciót károsító anyaggal és rákkeltőt, mutagént vagy reprodukciót károsító anyagot tartalmazó keverékekkel kapcsolatos adatokat, és
-- i) a tárgyévben végzett levegőszennyezettség-vizsgálatok eredményeit (mg/m3) anyagonként.”
+#### 32. §
 
 #### 33. §
 
@@ -117,20 +92,7 @@ egyes foglalkoztatási tárgyú törvények módosításáról
 
 #### 36. §
 
-37. § A munkavédelemről szóló 1993. évi XCIII. törvény 83/A. §-a helyébe a következő rendelkezés lép:
-
-„83/A. § (1) A munkavédelmi hatóság nyilvántartást vezet annak érdekében, hogy a kockázatok minimálisra csökkentésével elősegítse a munkavállalók védelmét a rákkeltő, mutagén vagy reprodukciót károsító anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szemben.
-
-(2) A nyilvántartás azoknak a munkáltatóknak és munkavállalóknak az adatait tartalmazza, amely munkáltatóknál szervezett munkavégzés során a munkavállaló rákkeltő, mutagén vagy reprodukciót károsító anyag hatásának van kitéve. A nyilvántartás tartalmazza
-
-- a) a munkáltató nevét, telephelyét, ágazati, szakágazati besorolását, és
-- b) a munkavállaló születési évét, TAJ számát, foglalkozását, az adott foglalkozással járó expozícióban eltöltött munkaéveinek számát.
-
-(3) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat kezeli, illetve a munkáltatókat adatközlésre hívhatja fel.
-
-(4) A munkavédelmi hatóság a (2) bekezdésben meghatározott adatokat a foglalkozási eredetű rákkeltő, mutagén vagy reprodukciót károsító anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének céljából továbbítja a munkahigiénés és foglalkozás-egészségügyi szerv részére, amely szerv a rákkeltő vagy mutagén anyagokkal végzett tevékenységre vonatkozó adatokat a továbbítástól számított ötven év elteltével, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, öt év elteltével törli.
-
-(5) A munkavédelmi hatóság a nyilvántartásban szereplő rákkeltő vagy mutagén anyagokkal végzett tevékenységre vonatkozó adatokat a munkáltató bejelentésétől számított ötven év elteltével, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, öt év elteltével törli.”
+#### 37. §
 
 #### 38. §
 
@@ -138,22 +100,11 @@ egyes foglalkoztatási tárgyú törvények módosításáról
 
 #### 40. §
 
-41. § (1)
-
-(2) A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (6) bekezdése a következő o) ponttal egészül ki:
-
-(Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:)
-
-„o) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelv.”
+#### 41. §
 
 #### 42. §
 
-43. § Hatályát veszti a munkavédelemről szóló 1993. évi XCIII. törvény
-
-- a)
-- b)
-- c)
-- d) 63/A. § (3) bekezdésében a „ha a munkavállaló munkahelyén rákkeltő hatású anyagoknak van kitéve, ötven évig” szövegrész.
+#### 43. §
 
 #### 6. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
