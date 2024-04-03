@@ -128,9 +128,7 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 55. §
 
-56. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 26. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés a) és b) pontjában meghatározott adatokat, valamint a cég neve (rövidített neve) mellett a „felszámolás alatt” („f. a.”) toldat bejegyzését, (amennyiben a felszámolási eljárást végelszámolási eljárás előzte meg, az arra utaló toldat törlését), a képviselet módja változásának bejegyzését, a korábbi képviseletre jogosultak törlésének mellőzése mellett a felszámolóra, illetve a felszámolóbiztosra vonatkozó, a 24. § (1) bekezdés h) pontja szerinti adatokat – külföldi székhelyű vállalkozás fizetőképtelenségére, illetve felszámolására vonatkozó eljárás bejegyzésének kivételével – a csődeljárást, illetve a felszámolási eljárást lefolytató bíróság végzése alapján elektronikus úton kell rögzíteni a cégjegyzékben, a csődeljárást, illetve a felszámolást elrendelő jogerős végzés Cégközlönyben történő közzétételével egyidejűleg, azzal, hogy a felszámolóbiztos születési idejét és lakóhelyét (vagy a személyiadat- és lakcímnyilvántartásban szereplő értesítési címét) a cégjegyzék nem tartalmazza. A felszámolóbiztos adóazonosító jelét a cégjegyzék akkor tartalmazza, ha azt a felszámolási eljárást lefolytató bíróság végzése tartalmazza, vagy ha jogszabály így rendelkezik. Ha a felszámolási eljárás a cég jogutód nélküli megszűnésével befejeződik, e végzés jogerőre emelkedésének napjával a céget elektronikus úton, automatikusan kell törölni a cégjegyzékből.”
+#### 56. §
 
 #### 57. §
 
