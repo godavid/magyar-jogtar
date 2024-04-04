@@ -1513,7 +1513,7 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 76. § (1) A kincstár
 
-- a) közreműködik a Kincstári Egységes Számla likviditásának kezelésében az ÁKK Zrt.-vel kötött megállapodás alapján, és
+- a) közreműködik a kincstári egységes számlák likviditásának kezelésében az ÁKK Zrt.-vel kötött megállapodás alapján, és
 - b) előrejelzi a 79. § alapján vezetett számlák kiadásai és bevételei összesített egyenlegének alakulását, amelyhez az adósságkezeléssel összefüggő napi adatokat az ÁKK Zrt. bocsátja rendelkezésre.
 
 (2) A kincstár feladatai ellátása érdekében jogosult
@@ -1526,11 +1526,11 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 (3) A kincstár a (2) bekezdés c) pontja szerinti feladatait a kibocsátó által kiadott jegyzési, forgalomba hozatali lebonyolítási rendnek megfelelően, egyedi megállapodás alapján végzi.
 
-#### 51. A Kincstári Egységes Számla
+#### 51. A kincstári egységes számlák
 
-77. § (1) A kincstár a Magyar Nemzeti Banknál Kincstári Egységes Számla elnevezésű számlával rendelkezik. A kincstár a Magyar Nemzeti Banknál devizaszámlát nyithat, és azon az e törvényben meghatározott tevékenységével kapcsolatban megszerzett devizát tarthatja és használhatja fel.
+77. § (1) A kincstár a Magyar Nemzeti Banknál Kincstári Egységes Számla elnevezésű forint számlával rendelkezik. A kincstár a Magyar Nemzeti Banknál deviza alapú kincstári egységes számlát nyithat, és azon az e törvényben meghatározott tevékenységével kapcsolatban megszerzett devizát tarthatja és használhatja fel.
 
-(2) A Kincstári Egységes Számla a 79. § (1), (2) és (4) bekezdése és 79. § (4a) bekezdése szerinti fizetési-számlavezetési tevékenységgel összefüggő pénzforgalom lebonyolítását szolgálja.
+(2) A kincstári egységes számlák a 79. § (1), (2), (4), (4a), (4c) és (4d) bekezdése szerinti fizetési-számlavezetési tevékenységgel összefüggő pénzforgalom lebonyolítását szolgálják.
 
 #### 52. Likviditáskezelés
 
