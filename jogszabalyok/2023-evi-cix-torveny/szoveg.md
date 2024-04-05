@@ -193,14 +193,7 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 35. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-46. § Az államháztartásról szóló 2011. évi CXCV. törvény
-
-- a) 76. § (1) bekezdés a) pontjában a „Kincstári Egységes Számla” szövegrész helyébe a „kincstári egységes számlák” szöveg,
-- b) 51. alcím címében a „Kincstári Egységes Számla” szövegrész helyébe a „kincstári egységes számlák” szöveg,
-- c) 77. § (1) bekezdésében az „elnevezésű számlával” szövegrész helyébe az „elnevezésű forint számlával” szöveg, valamint a „devizaszámlát” szövegrész helyébe a „deviza alapú kincstári egységes számlát” szöveg,
-- d) 77. § (2) bekezdésében a „Kincstári Egységes Számla a 79. § (1), (2) és (4) bekezdése és 79. § (4a) bekezdése szerinti fizetési-számlavezetési tevékenységgel összefüggő pénzforgalom lebonyolítását szolgálja” szövegrész helyébe a „kincstári egységes számlák a 79. § (1), (2), (4), (4a), (4c) és (4d) bekezdése szerinti fizetési-számlavezetési tevékenységgel összefüggő pénzforgalom lebonyolítását szolgálják” szöveg
-
-lép.
+#### 46. §
 
 #### 36. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
@@ -234,18 +227,7 @@ lép.
 
 #### 43. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-54. § (1)
-
-(2) Az MNB tv. 145. §-a helyébe a következő rendelkezés lép:
-
-„145. § (1) Az MNB vezeti
-
-- a) a kincstári egységes számlákat és
-- b) az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság pénzforgalmi számláját.
-
-(2) Az MNB a forint kincstári egységes számla mindenkori egyenlege után a piaci kamatnak, de legfeljebb a jegybanki alapkamatnak megfelelő mértékű kamatot fizet a központi költségvetés javára.
-
-(3) Az MNB a deviza kincstári egységes számlák mindenkori egyenlege után piaci kamatot fizet a központi költségvetés javára, a monetáris finanszírozás tilalmára vonatkozó rendelkezések figyelembevételével.”
+#### 54. §
 
 #### 55. §
 
