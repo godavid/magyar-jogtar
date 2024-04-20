@@ -709,6 +709,10 @@ adható.
 
 34/A. § A Nemzeti Földalapkezelő Szervezet 2019. július 1-jén átalakulással megszűnik. A Nemzeti Földalapkezelő Szervezet általános jogutódja az NFK.
 
+34/B. § (1) A Nemzeti Földügyi Központ 2024. május 31. napjával beolvadásos különválással megszűnik. A Nemzeti Földügyi Központ általános jogutódja – a (2) bekezdésben meghatározott kivétellel – a miniszter által vezetett minisztérium.
+
+(2) A mezőgazdasági és vidékfejlesztési támogatásokkal és agrár szakigazgatással összefüggő földmérési, térinformatikai és távellenőrzési feladatai tekintetében a Nemzeti Földügyi Központ jogutódja a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 12. § (3) bekezdésében meghatározott feladatot ellátó szervezet.
+
 35. § (1) E törvény hatálybalépése nem érinti a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. §-a alapján e törvény hatálybalépése előtt közzétett pályázati felhívás alapján kötött életjáradéki szerződéseket. Az ezen szerződések alapján fizetendő életjáradék a központi költségvetés központosított kiadása, amelyet a Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételeket és kiadásokat tartalmazó fejezetben kell megtervezni és elszámolni.
 
 (2) Az 21. § (6) bekezdése nem alkalmazható az e törvény hatálybalépésekor fennálló haszonbérleti szerződés meghosszabbítása, valamint a haszonbérleti jogviszony helyébe lépő mintagazdasági földhasználati szerződés megkötése során.
