@@ -8,11 +8,9 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a magyar honosság
 
 1. § E törvény hatálya a 2025. évi Oszakai Világkiállításon (a továbbiakban: Világkiállítás) történő sikeres magyar megjelenéshez szükséges, a világkiállítási pavilon (a továbbiakban: Pavilon) tervezésével, kialakításával, összeszerelésével, a Világkiállítás oszakai programját szolgáló beruházásokkal és szolgáltatásokkal, valamint a Kormány rendeletében megjelölt további, a Világkiállítással és a Pavilonnal kapcsolatos ügyekkel (a továbbiakban együtt: Projekt) összefüggő beszerzésekre, közigazgatási hatósági eljárásokra, vámigazgatási eljárásokra, valamint Magyarország Világkiállításon történő megjelenésének szervezésével összefüggő egyéb beszerzésekre terjed ki.
 
-2. § A Projekt megvalósítása, a Világkiállításon történő magyar megjelenés kiemelkedően fontos közérdek, amelynek érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendőek, teljesítésükhöz kiemelkedően fontos közérdek fűződik.
+#### 2. §
 
-3. § (1) A Projekttel kapcsolatos közbeszerzési eljárások tekintetében az ajánlatkérő jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 98. § (2) bekezdés e) pontja szerinti, rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására.
-
-(2) Az (1) bekezdés szerinti, rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás esetén az ajánlatkérő köteles a Kbt. 99. § (3) bekezdés b) pontja szerint előírt számú ajánlattevőt ajánlattételre felhívni.
+#### 3. §
 
 #### 2. A Projekt megvalósításával kapcsolatos sajátos rendelkezések
 

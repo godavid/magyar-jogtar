@@ -89,7 +89,7 @@ meghatározott intézkedés.
 - 16. hitelintézet: a Hpt.-ben meghatározott hitelintézet, ide nem értve az MNB-t;
 - 17. ingatlanügylettel kapcsolatos tevékenység: ingatlan tulajdonjoga átruházásának üzletszerű közvetítése, ingatlan bérleti jogának üzletszerű közvetítése, ha a havi bérleti díj összege ügyletenként az ötszázezer forintot eléri vagy meghaladja, valamint saját tulajdonú ingatlan üzletszerű adásvétele;
 - 18. jogi személyiséggel nem rendelkező szervezet: nem jogi személy és nem természetes személy jogalany;
-- 18a. kijelölt felelős vezető: az irányítási funkciót betöltő testület azon tagja, illetve irányítási funkciót betöltő testület hiányában a szolgáltató azon felsővezetője, aki a szolgáltató 65. §-ban meghatározott belső szabályzatában került kijelölésre, és aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelmények és elvárások szolgáltató általi végrehajtásáért felel;
+- 18a. kijelölt felelős vezető: az irányítási funkciót betöltő testület azon tagja, illetve irányítási funkciót betöltő testület hiányában a szolgáltató azon felsővezetője, valamint a felügyeleti útmutatóban meghatározott feltételeknek megfelelő más személy, aki a szolgáltató 65. §-ban meghatározott belső szabályzatában került kijelölésre, és aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelmények és elvárások szolgáltató általi végrehajtásáért felel;
 - 19. kockázatérzékenységi megközelítés: az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 65. §-ban meghatározott belső szabályzatban a belső kockázatértékelés alapján rögzített, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására irányuló eljárás;
 - 19a. kockázati szint: tartós üzleti kapcsolatok vonatkozásában az a besorolás, amely meghatározza, hogy az ügyfél vonatkozásában milyen terjedelmű ügyfél-átvilágítási intézkedéseket szükséges elvégezni;
 - 20. könyvviteli tevékenység: a Számv. tv. szerinti könyvviteli szolgáltatás;
@@ -383,6 +383,8 @@ haladéktalanul tájékoztatja.
 ügyletre és pénzügyi műveletre.
 
 (4) Az 1. § (1) bekezdés i) pontjában meghatározott szolgáltató – kockázatérzékenységi megközelítés alapján – az egy naptári vagy játéknapon belül kétmillió forintot elérő vagy meghaladó értékű pénzügyi műveletet végző ügyfél tevékenységét megerősített eljárásban követi nyomon.
+
+11/A. § A szolgáltató az 5. § szerinti felügyeletet ellátó szerv felhívásában foglaltaknak megfelelően bizonyítja, hogy ügyfél-átvilágítási intézkedései megfelelnek a szolgáltató által feltárt pénzmosási és terrorizmus finanszírozási kockázatoknak.
 
 12. § (1) A szolgáltató – a (2a) bekezdés kivételével – köteles biztosítani, hogy az ügyfélre vonatkozóan a 7–10. § alapján rendelkezésre álló adatok és okiratok, valamint az ügyfél kockázati szintjének meghatározása naprakészek legyenek, így különösen az ügyfélre vonatkozóan rendelkezésre álló adatok és okiratok megváltozásáról történő tudomásszerzés esetén, a tényleges tulajdonosra vonatkozó adatok jogszabály alapján történő ellenőrzése céljából vagy az adózás területén történő együttműködés teljesítése érdekében a szolgáltató – a (2a) bekezdés kivételével – köteles ellenőrizni az ügyfeleiről rendelkezésre álló adatokat.
 
@@ -1458,7 +1460,7 @@ elkövetése miatt elítéltek, a büntetett előélethez fűződő hátrányos 
 - c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
 - d) az auditált elektronikus hírközlő eszköz és működtetésének, belső szabályozásának minimum-követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 - e) a megerősített eljárás esetköreire és feltételrendszerére,
-- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
 - i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre.
@@ -1472,7 +1474,7 @@ vonatkozó részletszabályokat.
 - c) a fokozott ügyfél-átvilágítás esetköreire, valamint az egyszerűsített ügyfél-átvilágítás során alkalmazandó küszöbértékre és határidőre,
 - d) az auditált elektronikus hírközlő eszköz és működtetésének, belső szabályozásának minimum-követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 - e) a megerősített eljárás esetköreire és feltételrendszerére,
-- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
 - i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre,
@@ -1488,7 +1490,7 @@ vonatkozó részletszabályokat.
 - c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
 - d) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 - e) a megerősített eljárás esetköreire és feltételrendszerére,
-- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
 

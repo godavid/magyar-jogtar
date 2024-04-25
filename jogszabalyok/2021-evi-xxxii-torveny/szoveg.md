@@ -30,7 +30,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (4) A Hatóság fejezetet irányító szervi jogállással bíró központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez. A Hatóság költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetők.
 
-(5) A Hatóság a koncessziós eljárásokkal, koncessziós szerződésekkel összefüggő jogviták rendezése érdekében, a választottbíráskodásról szóló 2017. évi LX. törvény (a továbbiakban: Vbt.) rendelkezéseivel összhangban működteti a Koncessziós Állandó Választottbíróságot (a továbbiakban: Választottbíróság).
+(5)
 
 2. § (1) A Hatóság számára feladatot csak törvény vagy – önkormányzati rendelet kivételével – törvény felhatalmazása alapján kiadott jogszabály írhat elő.
 
@@ -242,7 +242,7 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 - e) külön felkérésre tájékoztatást ad az Országgyűlés feladatkörrel rendelkező bizottságának,
 - f) ellátja mindazokat a feladatokat, amelyeket törvény, törvény felhatalmazása alapján kiadott jogszabály vagy a Hatóság szervezeti és működési szabályzata a feladatkörébe utal,
 - g) együttműködési megállapodást köthet más állami szervekkel, külföldi szabályozó hatóságokkal, társadalmi szervezetekkel,
-- h) kijelöli, illetve felmenti a Koncessziós Tanács alelnökét, a Választottbíróság elnökét, alelnökét és a Választottbíróság elnökségének tagjait.
+- h) kijelöli, valamint felmenti a Koncessziós Tanács alelnökét,
 - i) megállapítja a felelős játékszervezés elvének megfelelő szervezői tevékenységgel kapcsolatban a túlzásba vitt szerencsejáték ártalmairól és a szenvedélybetegség kialakulásának veszélyeiről szóló tájékoztatás, a sérülékeny személyek szerencsejátékhoz való hozzáférésének korlátozása, a kitiltás és a kitiltáshoz kapcsolódó panaszkezelési eljárás, a figyelmeztető és önkorlátozó játékfunkciók, a szerencsejáték káros mentális, pszichikai és szociális hatásainak megelőzésére és csökkentésére szolgáló intézkedések, a játékosvédelmi nyilvántartás, és további önkorlátozó intézkedések bevezetésének, valamint a szervező által a játékos részére biztosítandó önkorlátozó intézkedések igénybevételének részletes szabályait, a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó részletes eljárási szabályokat, a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel, az egyes szerencsejátékok lebonyolításával, ellenőrzésével, a játéktervvel, a sorsolásos játékokkal és a fogadásokkal, a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével, a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével, a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, a távszerencsejáték-szervezés engedélyezéséhez szükséges alap-(törzs-)tőke és távszerencsejáték, online kaszinójáték területén szerzett szerencsejáték-szervezői gyakorlat mértékével, a távszerencsejáték-szervező által nyújtandó biztosíték legalacsonyabb mértékével, az engedélyezéshez szükséges személyi, tárgyi-műszaki és gazdasági feltételekkel, a Magyarországon kívüli EGT-államban bejegyzett gazdasági társaságot a távszerencsejáték-szervezés engedélyezésére irányuló eljárásban képviselő személy nyilvántartásba vételével, a nyilvántartásba vétel feltételeivel, az ilyen gazdasági társaság fióktelepére, a fióktelep képviseletét ellátó személyre vonatkozó követelményekkel, a távszerencsejáték szervezésére jogosító engedély leghosszabb időtartamának mértékével, a távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, a távszerencsejáték szervezésére vonatkozó játékosvédelmi cselekvési terv kötelező tartalmi elemeivel, elkészítésének gyakoriságával, Hatósághoz történő benyújtásával, a játékosvédelmi cselekvési tervben foglaltak végrehajtásáról történő szervező általi beszámolással, az engedély nélküli szerencsejáték szolgáltatásában közreműködő személyek kötelezettségeivel, a pénzforgalmi szolgáltató tiltott szerencsejáték-szervezést megvalósító tevékenységhez kapcsolódó tét befizetésének és nyeremény kifizetésének teljesítésében való közreműködését kizáró eljárásával és ezen eljárás ellenőrzésével, a szerencsejáték-felügyeleti díj, távszerencsejáték-szervezési díj mértékével, megfizetésével, beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 - j) megállapítja a felszámolói névjegyzékbe való felvétel és az onnan való törlés részletes feltételeit és eljárásrendjét, a névjegyzék adatainak változásával összefüggő szabályokat, a felszámolók adatszolgáltatásának, szakmai beszámoltatásának, hatósági ellenőrzésének részletes szabályait, valamint azoknak a vagyoni biztosítékoknak a körét, mértékét és rendelkezésre bocsátásának módját, amelyekkel a felszámolónak rendelkeznie kell, a felszámolók névjegyzékébe nem került – de a folyamatban lévő csődeljárásokban, felszámolási eljárásokban vagyonfelügyelőként, ideiglenes vagyonfelügyelőként, felszámolóként való közreműködésre jogosult – felszámoló tevékenységével, nyilvántartásával, szakmai beszámoltatásával, adatszolgáltatásával és hatósági ellenőrzésével összefüggő részletes szabályokat, a csődeljárásban a vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait, a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait, a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait, a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat, a felszámolóbiztosok, vagyonfelügyelők, ideiglenes vagyonfelügyelők és rendkívüli vagyonfelügyelők igazolványának kiállítására, használatára, az igazolvány személyes adatot nem tartalmazó adattartalmára és formai követelményeire, valamint nyilvántartására vonatkozó részletes szabályokat,
 - k) megállapítja az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat, a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása részletes eljárási szabályait, a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket, az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét, a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat, a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat, a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat, a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat, az Integrált Végrehajtási Rendszer (a továbbiakban: IVR) bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából, a végrehajtói díjszabást és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait, az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját, az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire, a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat, a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait, az önálló bírósági végrehajtók és önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzésének megszervezésére és teljesítésére, továbbá az önálló bírósági végrehajtó szakmai beszámoltatására, a szakmai beszámoló elkészítésére, tartalmára, benyújtására, valamint a szakmai beszámoló készítésére vonatkozó kötelezettség teljesítésének hatósági ellenőrzésére vonatkozó részletes szabályokat,
@@ -261,7 +261,7 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 - x) megállapítja a szerkezetátalakítási szakértő elektronikus kiválasztás igénybevételével történő bírósági kijelölésének és kirendelésének; az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének, valamint a kijelölés és a kirendelés megszüntetésének részletes szabályait; a szerkezetátalakítási szakértők szerkezetátalakítási alap- és továbbképzésének szabályait; a szerkezetátalakítási szakértők igazolványának kiállítására, használatára, az igazolvány személyes adatot nem tartalmazó adattartalmára és formai követelményeire, valamint nyilvántartására vonatkozó részletes szabályokat.
 - y) megállapítja az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményeket.
 
-13/A. § A Hatóság elnöke megállapítja a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályait, a kockázatelemzés rendszere kialakításának szabályait, az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait, az ESG szoftvereket forgalmazó és gyártó vállalatok akkreditálásának feltételeit és eljárási szabályait, a Tanúsítók Névjegyzékében nyilvántartandó, az ESG törvény 40. § (1) bekezdés c) pontja szerinti adatokat, a Tanúsítók Névjegyzéke, a vállalkozások, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők, valamint az ESG szoftvereket forgalmazó és gyártó vállalatok nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, az ESG menedzsmentplatform működési szabályait, a hitelesített támogatásmenedzsment központ működésének részletes szabályait, az ESG beszámoló minimum követelményeit, tartalmát, formai követelményeit, valamint közzétételének szabályait.
+13/A. § A Hatóság elnöke megállapítja a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályait, a kockázatelemzés rendszere kialakításának szabályait, az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait, az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert, a Tanúsítók Névjegyzéke, a vállalkozások, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők, valamint az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, az ESG menedzsmentplatform működési szabályait, a hitelesített támogatásmenedzsment központ működésének részletes szabályait, az ESG beszámoló és az ESG beszámoló mellékletét képező kérdőív minimum követelményeit, tartalmát, formai követelményeit és közzétételének szabályait, továbbá az ESG törvény 27. § (5) bekezdése szerinti további adatszolgáltatás előírására vonatkozó követelményeket és a Hatóság által engedélyezett adatszolgáltatás teljesítésének szabályait.
 
 14. § A Hatóság feladatkörét érintő napirendi pontok tárgyalása esetén a Hatóság elnöke meghívásra a Kormány ülésén részt vesz.
 
@@ -416,88 +416,15 @@ a támogatására fordítható.
 
 25. § A Tanács elnöke, a Tanács alelnöke és a Tanács tagjai vagy azon személyek, akik ilyen tisztséget viseltek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
 
-### IV. Fejezet — A VÁLASZTOTTBÍRÓSÁG
+### IV. Fejezet
 
-#### 11. A Választottbíróság szervezete és működése
+#### 11.
 
-26. § (1) A Választottbíróság Magyarország területén a koncessziós eljárásokkal, koncessziós szerződésekkel kapcsolatos ügyekben ellátja az állandó választottbíróság e törvényben, a Ktv.-ben és a Vbt.-ben, illetve az e törvényekkel összhangban az ügyrendjében és az eljárási szabályzatban meghatározott feladatait.
+#### 26. §
 
-(2) A Választottbíróság szervei:
+#### 27. §
 
-- a) az öttagú elnökség, és
-- b) a Választottbíróság ügyvitelét ellátó titkárság.
-
-(3) Az elnökség a Választottbíróság általános döntéshozó szerve.
-
-(4) Az elnökségbe az elnököt, alelnököt és három tagot a Tanács javaslatára a Hatóság elnöke nevezi ki és menti fel. A tagot elnökségi feladatai ellátásával összefüggésben az elnök nem utasíthatja.
-
-(5) Az elnökség tagja olyan felsőfokú végzettségű személy lehet, aki legalább 5 év, a jog, a kereskedelem, az ipar vagy a pénzügy területén megszerzett szakmai gyakorlattal, valamint jelentős tapasztalattal rendelkezik a választottbíráskodásra vagy a koncesszióra vonatkozó szabályok alkalmazásával kapcsolatban. Jelentős tapasztalattal az a személy rendelkezik, akinek a neve fel van tüntetve vagy korábban szerepelt valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy rendszeresen jogi képviseletet lát el vagy látott el választottbírósági, illetve koncesszióval kapcsolatos ügyekben.
-
-(6) Az elnökségi tagok – ideértve az elnököt és az alelnököt is – megbízatása kilenc évre szól, és egyszer nevezhetők ki újra.
-
-(7) Az elnökség tagja – a (8) bekezdésben foglalt kivétellel – nem járhat el választottbíróként, szakértőként, valamint jogi képviselőként a Választottbíróság hatáskörébe tartozó eljárásban.
-
-(8) Az elnökség tagja akkor járhat el választottbíróként a Választottbíróság hatáskörébe tartozó eljárásban, ha a választottbírókénti kijelölését az elnökségi tagi megbízatása keletkezése előtt elfogadta vagy ha megbízatása keletkezése után a felek jelölik választottbírónak. A felek által történő jelölés esetén az elnökség tagja a felek által megválasztott választottbírák részéről a választottbírósági tanács elnökévé is jelölhető. A Választottbíróság elnöksége nem jelölhet ki elnökségi tagot eljáró választottbírónak vagy a választottbírósági tanács elnökének. Az elnökség tagja abban az eljárásban járhat el szakértőként, amelyben az elnökségi tagi megbízatása keletkezése előtt szakvéleményt adott.
-
-(9) A Választottbíróságot az elnök és az általános helyetteseként eljáró alelnök képviseli.
-
-(10) Az elnökség tagja az e törvényben meghatározott feladatait személyesen köteles ellátni.
-
-(11) Az elnökség tagjának megbízatása megszűnik
-
-- a) a megbízatás időtartamának lejártával,
-- b) visszahívással,
-- c) lemondással,
-- d) a tisztségre méltatlanná vagy tartósan alkalmatlanná válás esetében,
-- e) halálával,
-- f) ha a bíróság jogerős ítéletében bűncselekmény elkövetése miatt megállapítja a tag büntetőjogi felelősségét.
-
-(12) A (11) bekezdés d) pontja szerinti esetben a megbízatás megszűnését a Hatóság elnöke – a Tanács véleményének figyelembevételével – állapítja meg.
-
-(13) Az elnökség tagját a Hatóság elnöke a Választottbíróság ügyrendjében foglaltak szerint bármikor írásban visszahívhatja. A visszahívást nem kell megindokolni.
-
-(14) Az elnökség tagja tisztségéről bármikor írásban lemondhat. A lemondást nem kell megindokolni. A lemondást a Hatóság elnökével kell közölni.
-
-27. § (1) Az elnökség
-
-- a) elfogadja és a Választottbíróság honlapján nyilvánosságra hozza a Választottbíróság ügyrendjét és az eljárási szabályzatot,
-- b) választottbíró-ajánlási listát készít, és azt legalább háromévente felülvizsgálja,
-- c) gyakorolja a Vbt. szerinti választottbíró-kijelölési jogot,
-- d) eljárási kérdésekre vonatkozó ajánlásokat tehet azzal, hogy az ajánlás az eljáró választottbírósági tanácsot nem köti,
-- e) az eljárási szabályzatban megállapítja az alapeljárás, a választottbírósági ítélet érvénytelenítését követően folytatódó eljárás, valamint az eljárásújítás választottbírósági díjának mértékét, továbbá a választottbírósági ítélet érvénytelenítése esetén az adott ügyben eljáró választottbírósági tanács vagy tanácsok díjazásával összefüggő részletszabályokat,
-- f) az eljárási szabályzatban írja elő elkülönített tartalékalap képzését a felek által meg nem térítendő díjak és költségek fedezése céljából, valamint dönt az elkülönített tartalékalap terhére történő kifizetések teljesítéséről az eljárási szabályzatban meghatározott rend szerint.
-
-(2) Az elnök
-
-- a) irányítja a titkárságot,
-- b) gondoskodik arról, hogy a Választottbíróság keretében eljáró választottbírósági tanács által meghozott ítélet és a választottbírósági tanács hatáskörével kapcsolatos kifogás tárgyában hozott döntés, valamint a választottbírósági eljárást megszüntető végzés – kivéve a felperesi kereset előterjesztésének elmaradása, a felperes keresettől elállása és a felek eljárás megszüntetésében történő megállapodása miatti megszüntetés esetét – anonimizált és a felek felismerésének lehetőségét kizáró kivonata a határozat meghozatalától számított hat hónap elteltével a Választottbíróság honlapján kereshető formában megjelenjen és ott fellelhető legyen.
-
-(3) Az elnökség tagja havi tiszteletdíjra jogosult, amelynek mértékéről a Tanács javaslatára a Hatóság elnöke dönt azzal, hogy a havi tiszteletdíj nem haladhatja meg a mindenkori kötelező legkisebb munkabér háromszorosát.
-
-(4) A titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban, amely jogviszonyra e törvényt és a Küt. rendelkezéseit kell alkalmazni. A titkárság alkalmazottai a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
-
-(5) Ha a felek által meg nem térítendő díjak és költségek fedezése céljából képzett elkülönített tartalékalap nem nyújt fedezetet a szükséges kifizetések teljesítéséhez, a fedezet rendelkezésre állásáról a Választottbíróságot működtető Hatóság költségvetéséből kell gondoskodni.
-
-28. § (1) A Választottbíróság nyilvános pályázat alapján választottbíró-ajánlási listát (a továbbiakban: lista) készít.
-
-(2) A listára annak a kiváló szakmai tudású szakembernek a neve vehető fel, aki
-
-- a) azt kéri,
-- b) a jog, a kereskedelem, az ipar vagy a pénzügy területén megszerzett, legalább öt év szakmai gyakorlattal rendelkezik,
-- c) az elnökség többségi véleménye szerint a választottbírói munka elvégzésére alkalmas, és
-- d) még nem töltötte be a hetvenedik életévét.
-
-(3) Törölni kell a listáról annak a nevét, aki
-
-- a) a hetvenedik életévét betöltötte,
-- b) meghalt, vagy
-- c) a törlését kéri.
-
-(4) A Választottbíróság a listát, valamint annak módosításait a Hatóság elnöke általi jóváhagyást követően a honlapján közzéteszi.
-
-(5) A Választottbíróság a listát háromévente felülvizsgálja.
-
-(6) A listán szereplő személyekből álló testület az ügyrendben meghatározott kérdésekben az ügyrendben meghatározott módon véleményt nyilváníthat.
+#### 28. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -609,9 +536,7 @@ a jogelődök helyébe a Hatóság lép.
 
 (8) Az érintett illetményét úgy kell megállapítani, hogy az nem lehet kevesebb annál, mint amekkora összegre munkabérként a munkaszerződés alapján 2021. szeptember 30. napján jogosult volt.
 
-34. § (1) A Választottbíróság elnöksége 2021. november 30. napjáig elfogadja az ügyrendjét és az eljárási szabályzatot, valamint a honlapján közzéteszi a listát.
-
-(2) A Választottbíróság ügyrendje és eljárási szabályzata szövegének, valamint a lista előkészítése céljából 2021. október 31. napjáig előkészítő bizottságot kell létrehozni, amelynek 5 tagját a Tanács javaslatára a Hatóság elnöke jelöli ki.
+#### 34. §
 
 34/A. § (1) A Hatóság a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ) általános és egyetemes jogutódja, ideértve az MBFSZ valamennyi közfeladatának jövőbeni ellátását, továbbá valamennyi jogát és kötelezettségét, valamint vagyonát, vagyoni jogait és előirányzatait is.
 
@@ -660,9 +585,9 @@ alakul át.
 
 (12) Az érintett részére a 2021. december 31-én meglévő szabadságát 2021. december 31-ét követően – a (15) bekezdésben meghatározott kivétellel – nem lehet kiadni.
 
-(13) Az érintett 2021. december 31-én meglévő, ki nem adott szabadságát 40 napon belül meg kell váltani.
+(13)
 
-(14) A (13) bekezdés szerinti megváltás során az érintettet 2021. december 1. napján megillető illetménnyel kell számolni.
+(14)
 
 (15) A 2021. december 31-én szülési szabadságon, vagy a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadságon lévő érintett azon szabadságát, amelyre 2021. december 31-ig jogosultságot szerzett, az érintett döntése szerint távollétének megszűnését követő
 
@@ -671,13 +596,11 @@ alakul át.
 
 34/C. § E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel megállapított 1. § (1) bekezdés e) és f) pontját, és 13. § t) pontját e rendelkezések hatálybalépését követően a Hatóság elnökének a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 60. naptól kötelesek alkalmazni a poszt-kvantumtitkosítás alkalmazásra kötelezett szervek.
 
-34/D. § (1) A Választottbíróság elnökségét e törvénynek az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény (a továbbiakban: Módtv1.) megállapított 26. § (5) bekezdésének megfelelően 2024. november 1-ig újra kell alakítani azzal, hogy az elnökség 2024. november 1. napja előtt kinevezett tagjára vonatkozó újbóli kinevezést nem kell beleszámítani a 26. § (6) bekezdése szerinti egyszeri ismételt kinevezésbe.
-
-(2) A Választottbíróság a Módtv1. által megállapított 28. § (2) bekezdésének megfelelő választottbíró-ajánlási listát 2024. december 31-ig teszi közzé.
+#### 34/D. §
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-35. § Az 1–4. §, az 5. § (6) bekezdése, a 7–29. § és a 31–34/D. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
+35. § Az 1–4. §, az 5. § (6) bekezdése, a 7–25. §, a 29. § és a 31–34/C. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
 
 #### 16. Az Európai Unió jogának való megfelelés
 

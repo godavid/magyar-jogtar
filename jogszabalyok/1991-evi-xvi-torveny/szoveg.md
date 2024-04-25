@@ -217,7 +217,7 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 (2) A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak vagy önkormányzati törzsvagyonnak minősülő vagyontárgy az üzembehelyezés időpontjával kerül az állam, illetőleg az önkormányzat tulajdonába a koncessziós szerződésben rögzített feltételek szerint.
 
-16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – a Koncessziós Állandó Választottbíróság és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
+16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – magyar és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
 
 17. § (1) A koncesszió-köteles tevékenység folytatására kiírt pályázat nyertesének a koncessziós szerződésben kötelezettséget kell vállalnia arra vonatkozólag, hogy a pályázati kiírás alapján a koncessziós szerződésben rögzített követelményeket az általa alapított gazdasági társaság alapító okiratában érvényesíteni fogja.
 

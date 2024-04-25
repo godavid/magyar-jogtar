@@ -232,7 +232,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (11) A HAYDNEUM Alapítvány induló vagyonát az alapító a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény szerint biztosítja.
 
-#### 7/A. Egyházat érintő vagyonátadásra vonatkozó rendelkezések
+#### 7/A. Egyházakat és egyházi jogi személyeket érintő vagyonátadásra vonatkozó rendelkezések
 
 9/A. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési tilalom alatt álló Budapest belterület 9628 helyrajzi számú ingatlan tulajdonjogát a tulajdonos Magyarországi Református Egyház (a továbbiakban: Egyház) az Egyház belső jogi személyeként működő Svábhegyi Református Egyházközség javára ingyenesen átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. A Svábhegyi Református Egyházközség a tulajdonátruházásra irányuló szerződésben vállalja a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság és az Egyház között a Budapest belterület 9628 helyrajzi számú ingatlan egyházi tulajdonba adására vonatkozó szerződésben az átvevő egyházat terhelő kötelezettségek teljesítését azzal az eltéréssel, hogy a Svábhegyi Református Egyházközség jogosult a szerződésben rögzített felhasználási céltól eltérően az ingatlant óvoda és kiszolgáló egységei fenntartása céljából használni.
 
@@ -246,7 +246,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 - d) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, II. kerület belterület 12346 helyrajzi számú, természetben az 1026 Budapest, II. kerület Gábor Áron utca 47. szám és az 1022 Budapest, II. kerület Bimbó út 111–115. szám alatti ingatlan
 - e) az állami tulajdonban álló, az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10733/10 helyrajzi számú, természetben az 1121 Budapest, XII. kerület Kútvölgyi út “felülvizsgálat alatt” szám alatti ingatlan
 
-(e § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Egyház tulajdonába kerülnek azzal, hogy az a) és b) pont szerinti ingatlanra az átruházással együtt az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10739/1 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 22/B. szám alatti és az ingatlan-nyilvántartás szerinti Budapest, XII. kerület belterület 10739/2 helyrajzi számú, természetben az 1125 Budapest, XII. kerület Szilágyi Erzsébet fasor 22/C. szám alatti ingatlan javára átjárási telki szolgalmi jogot kell bejegyezni.
+(e § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Egyház tulajdonába kerülnek.
 
 (2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az Egyházzal. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
 
@@ -283,9 +283,9 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 9/I. § Ha az Egyház, illetve a helyébe lépő másik egyházi fenntartó fenntartói jogviszonya az egyházi fenntartásba került Törökbálinti Tüdőgyógyintézet (székhely: 2045 Törökbálint, Munkácsy Mihály u. 70.; adószám: 15395807-2-13) tekintetében megszűnik, az Egyház, illetve a helyébe lépő másik egyházi fenntartó köteles a folyamatos feladatellátás biztosítása érdekében a feladatellátáshoz szükséges ingó és ingatlan vagyont, amelyek kifejezetten és nevesítetten a feladatellátáshoz kapcsolódnak, ingyenesen, könyv szerinti nyilvántartási értéken az állam tulajdonába adni. Az érintett ingó és ingatlan vagyonelemek tulajdonjogát az állam e törvény erejénél fogva szerzi meg. Az állam tulajdonjogát – az állam képviseletére jogosult szervezet kérelmére – az ingatlan-nyilvántartásba be kell jegyezni.
 
-#### 7/B. Tartozáselengedés az OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. végelszámolásának megkezdése érdekében
+9/J. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési és terhelési tilalom alatt álló Göd belterület 263 helyrajzi számú, természetben a 2131 Göd, Bartók Béla utca 8–10. szám alatti ingatlan tulajdonjogát a tulajdonos Piarista Rend Magyar Tartománya átruházhatja, mely esetben nem kell alkalmazni az Nvtv. 13. § (4)–(8) bekezdésében foglaltakat. A magyar állam javára bejegyzett elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásból e § rendelkezése alapján a tulajdonos Piarista Rend Magyar Tartománya kérelmére törölni kell.
 
-9/G. § Az Országgyűlés 2023. december 30-i hatállyal elengedi a 01-09-921266 cégjegyzékszámú OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. végelszámolásának megkezdése érdekében a 2018–2021. években az XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím terhére nyújtott támogatások visszatérítési kötelezettségéből adódó, a központi költségvetéssel szemben fennálló, összesen 274 832 454 forint tőkeösszegű tartozást és annak kamatait.
+#### 7/B.
 
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -331,7 +331,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/G. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5. § (2) bekezdése, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/G. §, a 9/J. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
