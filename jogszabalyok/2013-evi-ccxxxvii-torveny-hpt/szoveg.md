@@ -84,7 +84,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (4) Más EGT-államban székhellyel rendelkező hitelintézet és a 15. § (4) bekezdésében meghatározott feltételeknek megfelelő pénzügyi vállalkozás határon átnyúló szolgáltatást is végezhet.
 
-5. § (1) A 3. § (3) bekezdés szerinti engedélyt nem szükséges beszerezni más EGT-államban székhellyel rendelkező hitelintézet és a 15. § (4) bekezdésben meghatározott feltételeknek megfelelő pénzügyi vállalkozás határon átnyúló szolgáltatására vonatkozóan, és a magyarországi fióktelepe által végzett, a székhely állam illetékes felügyeleti hatósága által engedélyezett tevékenységet illetően.
+5. § (1) A 3. § (3) bekezdés szerinti engedélyt nem szükséges beszerezni más EGT-államban székhellyel rendelkező hitelintézet, jelzáloghitel közvetítői tevékenységet végző közvetítő és a 15. § (4) bekezdésben meghatározott feltételeknek megfelelő pénzügyi vállalkozás határon átnyúló szolgáltatására vonatkozóan, és a magyarországi fióktelepe által végzett, a székhely állam illetékes felügyeleti hatósága által engedélyezett tevékenységet illetően.
 
 (2) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást a Felügyelet engedélye nélkül is végezhet.
 
@@ -4024,7 +4024,7 @@ vonatkozó előírások.
 
 (5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés véglegessé válásának időpontját is nyilvántartja.
 
-(6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
+(6) Az aláíró személyekről, az oktatókról és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 
 - a) nevét és születési nevét,
 - b) anyja nevét,
@@ -4033,7 +4033,9 @@ vonatkozó előírások.
 - e) személyi kódját és
 - f) – amennyiben vizsgabiztosi tevékenységet lát el – nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
 
-(7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+(6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.
+
+(7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) és (6a) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
 (8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével) másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
@@ -5498,7 +5500,11 @@ Qn= az érintett kvartilis sorszáma
   - k) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
   - l) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről szóló 2015. november 25-i (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek,
   - m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek,
-  - n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+  - n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek
+  - o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek,
+
+való megfelelést szolgálja.
+
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdés végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 - 3. Ez a törvény
   - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek,
