@@ -900,7 +900,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 62/B. § (1) A nyilatkozat megtételének tényét, valamint a nyilatkozatadatokat az egyes fizetési számlákhoz tett nyilatkozatok központi nyilvántartása (a továbbiakban: Központi Nyilvántartás) rögzíti.
 
-(2) A Központi Nyilvántartás célja, hogy az ingyenes készpénzfelvételi jog jogszerű gyakorlásának biztosítása érdekében megállapítható legyen az, hogy a nyilatkozattevő tett-e nyilatkozatot vagy visszavonó rendelkezést, eltérő időkben és nyilatkozatadat-szolgáltatóknál tett nyilatkozatok esetében pedig annak megállapíthatósága, hogy mely nyilatkozata jogosítja őt a 36/A. § (1) bekezdése szerinti díjtól és költségtől mentes szolgáltatásra.
+(2) A Központi Nyilvántartás célja, hogy az ingyenes készpénzfelvételi, illetve cash-back szolgáltatás igénybevételével történő készpénzátvételi jog jogszerű gyakorlásának biztosítása érdekében megállapítható legyen az, hogy a nyilatkozattevő tett-e nyilatkozatot vagy visszavonó rendelkezést, eltérő időkben és nyilatkozatadat-szolgáltatóknál tett nyilatkozatok esetében pedig annak megállapíthatósága, hogy mely nyilatkozata jogosítja őt a 36/A. § (1) bekezdése szerinti díjtól és költségtől mentes szolgáltatásra.
 
 62/C. § (1) A Központi Nyilvántartást a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszert (a továbbiakban: KHR) kezelő pénzügyi vállalkozás működteti.
 

@@ -10,26 +10,24 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 2. § E törvény alkalmazásában
 
-- a) gazdálkodó szervezet:
-  - aa) a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, amely nem minősül a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 2. § c) pontja alapján az agrárkamara tagjának;
-  - ab) az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és az agrárgazdasági tevékenységet nem főtevékenységként folytató gazdálkodó szervezet is, az egyéni vállalkozót is beleértve;
+- a) gazdálkodó szervezet: a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, amely főtevékenységként nem a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 1. és 2. mellékletében meghatározott tevékenységet folytat;
 - b) gazdasági kamara tagja: az a gazdálkodó szervezet, amely a tagsággal járó jogokat és kötelezettségeket önkéntesen vállalja, a gazdasági kamarába tagként felvették és a tagokról vezetett nyilvántartásba bejegyezték;
 - c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szervezet vagyonának, forgalmának mértékét, üzemméretét, alkalmazottainak számát és szakképesítését, a termelő, a kereskedelmi, illetve a szolgáltató tevékenység jellegét, a gazdálkodó szervezet tagjának a munka végzésében való személyes közreműködését figyelembe véve a kézműipari szakmák jegyzékébe került felvételre, ideértve a művészi kézművességet is;
 - d)
 - e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képviseleti célra létrehozott olyan egyesület, illetve egyesületek szövetsége, amelynek legalább 10 vármegyére vagy legalább 9 vármegyére és a fővárosra kiterjedően van tagsága;
 - f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
-- g) gazdasági kamara: a kereskedelmi és iparkamara területi és országos szervezetei, továbbá az agrárkamara;
+- g) gazdasági kamara: a kereskedelmi és iparkamara területi és országos szervezetei;
 - h) területi gazdasági kamaraterületi gazdasági kamara>: a vármegyei (fővárosi) és a vármegyeszékhelyen kívüli megyei jogú városi kamara.
 
 ### II. Fejezet — A GAZDASÁGI KAMARÁK
 
 ### A gazdasági kamarák általános szabályai
 
-3. § (1) A gazdasági kamarák köztestületek (Ptk. 65. §), amelyeket e törvény alapján, választással a gazdálkodó szervezetek hoznak létre. A gazdasági kamarák – külön törvény rendelkezéseit figyelembe véve – jogosultak kezdeményezni kiemelten közhasznú szervezetként történő nyilvántartásba vételüket.
+3. § (1) A gazdasági kamarák köztestületek, amelyeket e törvény alapján, választással a gazdálkodó szervezetek hoznak létre. A gazdasági kamarák – külön törvény rendelkezéseit figyelembe véve – jogosultak kezdeményezni kiemelten közhasznú szervezetként történő nyilvántartásba vételüket.
 
 (2) A gazdasági kamarák feladata, hogy e törvénynek, más jogszabályoknak és alapszabályuknak megfelelően, önkormányzaton alapuló működésükkel előmozdítsák a gazdaság fejlődését és szerveződését, a piaci magatartás tisztességét, a gazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesülését.
 
-(3) Gazdasági kamaraként kereskedelmi és iparkamarákat kell alakítani. Másfajta gazdasági kamara e törvény szerint nem hozható létre. A kereskedelmi, ipari és kézműipari tevékenységet folytató gazdálkodó szervezetekkel kapcsolatos kamarai közfeladatokat a kereskedelmi és iparkamarák látják el.
+(3) Gazdasági kamaraként e törvény alapján kereskedelmi és iparkamarákat kell alakítani. Másfajta gazdasági kamara e törvény szerint nem hozható létre. A kereskedelmi, ipari és kézműipari tevékenységet folytató gazdálkodó szervezetekkel kapcsolatos kamarai közfeladatokat a kereskedelmi és iparkamarák látják el.
 
 (4) A gazdasági kamarák feladatainak ellátása nem érinti az egyesülési szabadság érvényesülését, így különösen nem korlátozza az egyesületek ahhoz való jogát, hogy tevékenységük célját – az egyesülési jogról szóló törvény rendelkezéseivel összhangban – szabadon határozzák meg.
 
@@ -409,7 +407,7 @@ a tisztségviselőkkel szemben támasztott követelmények
 - a) aki tagja az elnökségnek;
 - b) a gazdasági kamara titkára;
 - c) a gazdasági kamara ügyintéző szervezetében dolgozó, a kamarával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy;
-- d) az a)–c) pontokban említett személyek közeli hozzátartozója Ptk. 685. § b) pont és élettársa.
+- d) az a)–c) pontokban említett személyek közeli hozzátartozója és élettársa.
 
 (4) Az ellenőrző bizottság tagjának – a kamara tagján kívül – megfelelő szakértelemmel rendelkező más személy is megválasztható. Az országos gazdasági kamara ellenőrző bizottsága tagjának – a gazdasági kamara küldöttén kívül – megfelelő szakértelemmel rendelkező más személy is megválasztható.
 

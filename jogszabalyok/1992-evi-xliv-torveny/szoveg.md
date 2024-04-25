@@ -246,7 +246,7 @@ A saját erő fentiek szerinti részarányát a szervezet által megvásárolt v
 
 (1b) Az MRP megindításának napja amennyiben a javadalmazási politika az ellenjegyzéskor más, későbbi hatálybalépési dátumot nem határoz meg – az a nap, amelyen az alapjául szolgáló javadalmazási politikát közokiratba, vagy ügyvéd, kamarai jogtanácsos által ellenjegyzett okiratba foglalták. Ha a javadalmazási politika a juttatás tárgyát képező vagy annak alapjául szolgáló értékpapírt kibocsátó jogi személy gazdasági teljesítményének jövőbeli javulásához, vagy jogszabályban előírt hatékony és eredményes kockázatkezeléséhez kapcsolódó feltételt határoz meg, az MRP megindításának napjától a feltétel teljesülésének üzleti évére vonatkozó számviteli beszámolója nyilvánosságra hozataláig legalább 24 hónapnak el kell telnie. Ha a javadalmazási politika részvény szabályozott piacra történő bevezetéséhez, a nyilvánosan forgalomba hozott értékpapír kibocsátója által jogszabály rendelkezése alapján rendszeresen közzétett jelentésben szereplő adatokhoz, független szervezet által nyilvánosságra hozott regionális vagy iparági mutatókhoz vagy a jogi személy által kibocsátott, a tőkepiacról szóló törvényben meghatározott szabályozott piacon forgalmazott értékpapír árfolyamához kapcsolódó feltételt határoz meg, a feltétel legkorábban az MRP megindításának napjától számított 24 hónap elteltével teljesülhet.
 
-(2) Az MRP-ben csak olyan természetes személy vehet részt, akire az MRP alapjául szolgáló, minden érintett által azonos feltételekkel megismerhető javadalmazási politika hatálya kiterjed. A javadalmazási politika rendelkezhet arról, hogy a hatálya alá tartozó természetes személyeknek csak egy része vehet részt az MRP-ben, valamint arról is, hogy a részvételre jogosult természetes személyek, vagy egy részük számára az MRP-ben való részvétel kötelező.
+(2) Az MRP-ben csak olyan természetes személy vehet részt, akire az MRP alapjául szolgáló, minden érintett által azonos feltételekkel megismerhető javadalmazási politika hatálya kiterjed. A javadalmazási politika rendelkezhet arról, hogy a hatálya alá tartozó természetes személyeknek csak egy része vehet részt az MRP-ben, valamint arról is, hogy a részvételre jogosult természetes személyek, vagy egy részük számára az MRP-ben való részvétel kötelező. Nem ütközik a 4. § (4) bekezdése szerinti tilalomba a munkavállaló MRP-ben és KMRP-ben való egyidejű részvétele.
 
 (3) Ha az MRP-ben való részvétel az alapjául szolgáló javadalmazási politika alapján legalább öt természetes személy számára nem kötelező, az MRP szervezet megalakulásának az a feltétele, hogy az MRP megindítását követően az MRP-ben részvételre jogosult természetes személyek közül annyian vállalnak – közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba foglalt nyilatkozatukkal – kötelezettséget az MRP-ben való részvételre, hogy a résztvevők száma elérje vagy meghaladja az öt főt.
 
@@ -460,7 +460,9 @@ akkor az értékpapír – a 24/I. § (1) és (7) bekezdésében foglaltaktól e
 
 (11) A közgyűlés határozatait – az alapszabály eltérő rendelkezése hiányában – egyszerű szótöbbséggel hozza. Ha az alapszabály eltérően nem rendelkezik, a résztvevőt befizetése arányában – befizetés hiányában egyenlő arányban – illeti meg a szavazati jog.
 
-(12) A résztvevők számára abban az esetben, ha a társaság hozzájárulást fizet, a KMRP által beszedett hasznokból csak a hozzájárulás mértékét meghaladó rész fizethető ki, kivéve a 24/R. § (4) bekezdése szerinti vagyonfelosztás alapján történő kifizetést.
+(12) A társasági hozzájárulásból – a (12a) bekezdésben foglalt eset kivételével – a résztvevőknek kifizetés nem teljesíthető.
+
+(12a) A társasági hozzájárulást folyósító társaság és a KMRP megállapodhat úgy, hogy a KMRP által beszedett hasznokból a hozzájárulás mértékét meghaladó rész kifizethető a résztvevők számára.
 
 (13) A résztvevő hozzájárulása nélkül nem írható elő számára befizetési kötelezettség. A résztvevő nem teljesített befizetési kötelezettségéért az örökös vagy haláleseti kedvezményezett – erre vonatkozó kötelezettségvállalása kivételével – nem tartozik felelősséggel.
 
@@ -469,7 +471,7 @@ akkor az értékpapír – a 24/I. § (1) és (7) bekezdésében foglaltaktól e
 24/O. § A KMRP szervezet
 
 - a) kötvényt bocsáthat ki,
-- b) tevékenységét, ennek keretében különösen kötvénykibocsátást, állampapír-vásárlást, bármely ügyletkötést – ideértve a pénzügyi kötelezettségvállalást –, szolgáltatás igénybevételét kizárólag célja elérése, a vagyonrészek megszerzése érdekében végzi, haszonszerzésre nem törekedhet,
+- b) tevékenységét, ennek keretében különösen kötvénykibocsátást, állampapír, az állam 100%-os tulajdonában lévő jogi személy által kibocsátott kötvény, illetve 100%-os állami garanciavállalás mellett kibocsátott értékpapír vásárlását, bármely ügyletkötést – ideértve a pénzügyi kötelezettségvállalást –, szolgáltatás igénybevételét kizárólag célja elérése, a vagyonrészek megszerzése, valamint a KMRP-ben résztvevők befektetése értékének megőrzése érdekében végzi, haszonszerzésre nem törekedhet,
 - c) feladatának ellátása érdekében pénzzel rendelkezhet,
 - d) nem idegeníthet el vagyonrészt a záró közgyűlést megelőzően, valamint hitel-, illetve kölcsön vagy kötvénykibocsátás ellenértéke igénybevételével megszerzett vagyonrész esetén a törlesztés befejezésig, kivéve, ha ezt az alapszabály a 24/N. § (9) bekezdés i) pontja alapján lehetővé teszi,
 - e) az a)–d) ponton túl egyéb tevékenységet nem folytathat.
@@ -496,7 +498,7 @@ akkor az értékpapír – a 24/I. § (1) és (7) bekezdésében foglaltaktól e
 - a) lejár a KMRP működési ideje,
 - b) a társaság jogutód nélküli megszűnik,
 - c) a KMRP-ben résztvevők száma egy fő alá csökken, és ezt a létszámot a 24/N. § (7) bekezdése szerinti határidőn belül sem éri el újra, vagy
-- d) a KMRP szervezet tulajdonában álló összes vagyonrész értéke bármikor nem éri el a KMRP szervezet teljes vagyonának értékéhez viszonyított hetven százalékot a KMRP szervezet megalakulása utáni fél évet követően.
+- d) a KMRP szervezet tulajdonában álló összes vagyonrész és a 24/O. § b) pontja szerint megvásárolt értékpapírok együttes értéke bármikor nem éri el a KMRP szervezet teljes vagyonának értékéhez viszonyított hetven százalékot a KMRP szervezet megalakulása utáni fél évet követően.
 
 (5) A vagyonrész értékét a számviteli törvény szerinti valós értéken kell megállapítani.
 
@@ -545,3 +547,7 @@ akkor az értékpapír – a 24/I. § (1) és (7) bekezdésében foglaltaktól e
 (2) A társaság az (1) bekezdés szerinti további társasági hozzájárulásról szóló – nyilvánosan működő részvénytársaság esetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:227. § (3) bekezdésében foglaltakkal összhangban hozott – döntésében a korábbi társasági hozzájárulásról szóló határozatától eltérő feltételeket is meghatározhat, ide értve azt is, hogy a társasági hozzájárulás teljesítését feltételhez nem köti.
 
 (3) Az (1) bekezdés szerinti további társasági hozzájárulás mértéke egy naptári évben nem haladhatja meg a korábbi társasági hozzájárulásról szóló döntésben egy naptári évre meghatározott összeg, hosszabb időszakra meghatározott korábbi társasági hozzájárulás esetén annak összege egy naptári évre eső arányos részének száz százalékát. Ha több korábbi társasági hozzájárulásról szóló döntés került meghozatalra, a további társasági hozzájárulás összege meghatározásának alapja a korábbi társasági hozzájárulásról szóló első döntésben meghatározott összeg, tekintet nélkül ezen döntés későbbi módosítására vagy visszavonására. A további társasági hozzájárulás mértéke e törvény hatálybalépése napjáig még ki nem fizetett, de korábbi társasági hozzájárulásról szóló döntéssel érintett KMRP vagy a KMRP keretében létesített vagyonkezelő alapítvány esetében egy üzleti évben sem haladhatja meg a KMRP és az azt kezelő vagyonkezelő alapítvány adott üzleti évi működési, finanszírozási kiadásai, ráfordításai összegét.
+
+26/B. § (1) Az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvénnyel (a továbbiakban: Módtv.) módosított 24/B. § (2) bekezdést a Módtv. hatálybalépésekor már működő MRP-re és KMRP-re is alkalmazni kell.
+
+(2) E törvénynek a Módtv-nyel megállapított 24/N. § (12) és (12a) bekezdését is alkalmazni kell a Módtv. hatálybalépését megelőzően kötött szerződés alapján folyósított társasági hozzájárulás felhasználására is azzal, hogy a hozzájárulást folyósító társaság és a KMRP a Módtv. hatálybalépését követő 180 napon belül köthetik meg a 24/N. § (12a) szerinti megállapodást.

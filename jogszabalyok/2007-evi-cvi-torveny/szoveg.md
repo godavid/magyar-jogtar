@@ -509,6 +509,8 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
   - aa) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv munkaszervezetének elhelyezését szolgáló olyan, Magyarország területén található önálló ingatlan, ahol az ingatlanon fekvő összes építmény valamennyi helyiségét együttesen figyelembe véve azok – hasznos alapterületük összessége alapján számított – többsége irodai rendeltetésű vagy tényleges hasznosítása irodai vagy ügyfélszolgálati célokat szolgál azzal, hogy az ingatlan-nyilvántartásban társasház jogi jelleggel bejegyzett ingatlan esetén az irodai rendeltetésű ingatlanrészek nagyságát, valamint az elhelyezési cél megvalósulását a társasház egészének hasznos alapterületét figyelembe véve kell megállapítani, vagy
   - ab) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv által használt, nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátásához szükséges oktatási, üdültetési vagy egyéb rekreációs célt szolgáló, Magyarország területén található ingatlan.
 - b) állami elhelyezési célú ingatlan: a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott elhelyezési célú ingatlan.
+- c) elhelyezési cél: a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv munkaszervezete részére irodai, ügyfélszolgálati, vagy nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátásához szükséges oktatási, üdültetési vagy egyéb rekreációs célú ingatlan használatának biztosítása.
+- d) kijelölő okirat: az MNV Zrt. által a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére kiadott, ingatlanhasználatot elhelyezési céllal biztosító egyoldalú nyilatkozat.
 
 28. § (1) A központi költségvetési szerv a működéséhez szükséges – a az Nvtv. 11. § (6) bekezdésében foglalt vagyontárgyakon kívüli – állami vagyon összetételét és mértékét az állami vagyon használatát biztosító szerződés megkötése előtt, illetve folyamatosan közli az MNV Zrt.-vel, amely az igényeket az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével elégíti ki.
 
@@ -518,11 +520,15 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 (4)
 
-(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést, vagy – ha a hagyaték tárgya gazdasági társaságban fennálló társasági részesedés – az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.
+(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, a költségvetési szerv által elfogadott vagyon állami tulajdonba kerül azzal, hogy amennyiben a költségvetési szerv alaptevékenységének ellátásához szükséges, az MNV Zrt.
+
+- a) az érintett vagyonelemekre – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – a költségvetési szerv kezdeményezésére nem visszterhes vagyonkezelési szerződést köt,
+- b) az állami elhelyezési célú ingatlant egyoldalú nyilatkozatával a 28/A. § (2) bekezdése szerinti állami elhelyezési célú ingatlanhasználati jogviszony keretében a központi költségvetési szerv használatába adja, vagy
+- c) a hagyaték részét képező gazdasági társaságban fennálló társasági részesedésre az adott költségvetési szervvel az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést köt.
 
 28/A. § (1) Az MNV Zrt. a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezését állami elhelyezési célú ingatlanokban biztosítja. Az állami elhelyezési célú ingatlanok üzemeltetéséről, továbbá az MNV Zrt. tulajdonosi joggyakorlása alatt álló állami elhelyezési célú ingatlanok állagának megóvásáról, karbantartásáról, beruházásainak és felújításainak előkészítéséről, illetve megvalósításáról – a központi költségvetés terhére – az MNV Zrt. gondoskodik.
 
-(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében egyoldalú nyilatkozatával – az (1) bekezdés szerinti költségvetési szervek igényének kielégítésére alkalmas, az MNV Zrt. által megfelelőnek ítélt ingatlanra vonatkozóan – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. Az MNV Zrt. az elhelyezésről kijelölő okiratot állít ki, amely alapján az (1) bekezdés szerinti költségvetési szerv köteles az MNV Zrt. által választott, a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.
+(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében kijelölő okirattal – az (1) bekezdés szerinti költségvetési szervek igényeinek kielégítésére alkalmas, az MNV Zrt. által megfelelőnek ítélt ingatlanra vonatkozóan – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. A kijelölő okirat alapján az (1) bekezdés szerinti költségvetési szerv köteles az MNV Zrt. által választott, a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.
 
 (3) A kijelölő okirattal létrejövő állami elhelyezési célú ingatlanhasználati jogviszony keretében a kijelölő okiratban meghatározott (1) bekezdés szerinti költségvetési szerv az állami elhelyezési célú ingatlant díjfizetési kötelezettség nélkül jogosult használni az e törvényben és a végrehajtási rendeletében meghatározottak szerint. A központi költségvetési szerv közfeladat ellátására való tekintettel az állami elhelyezési célú ingatlanhasználati jogviszony nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti gazdasági tevékenységnek.
 
@@ -627,6 +633,8 @@ vonhat be.
 
 (5) A miniszter európai uniós támogatással érintett ingatlant a támogatásból eredő kötelezettségekkel összhangban jelölhet ki értékesítésre. A miniszter a kijelöléshez előzetesen kikéri az európai uniós források felhasználásáért felelős miniszter véleményét.
 
+33/A. § Ha az MNV Zrt. közvetlenül, harmadik személy megbízása nélkül állami tulajdonú, nemesfémből készült ékszert vagy egyéb tárgyat értékesít, tevékenységére a kereskedelemről szóló 2005. évi CLXIV. törvény 4. § (1) és (2) bekezdésében foglalt előírásokat nem kell alkalmazni.
+
 34. § (1) Az értékesítést a vagyontárgy jellegétől függően
 
 - a) közvetlenül vagy
@@ -726,6 +734,8 @@ lehet végezni.
 (8) Az Nvtv. 13. § (3) bekezdése szerinti, az állami feladat ellátásához nem szükséges és leselejtezett tárgyi eszközt az MNV Zrt. a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezet kezdeményezésére ingyenesen a civil szervezet tulajdonába adhatja. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
 (9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.
+
+(11) A (10) bekezdés szerint átruházott állami tulajdonú ingóság tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdését.
 
 36/A. § A 36. § (2) és (5)–(8) bekezdése szerinti vagyonátadás kizárólag olyan kedvezményezett részére történhet, amely
 
@@ -1280,7 +1290,13 @@ lép.
 
 (5) a tulajdonosi joggyakorló – annak érdekében, hogy a jogügylet számviteli elszámolása a gazdasági társaság vagyonában ne eredményezzen vagyonvesztést – jogosult a gazdasági társaság visszapótlási kötelezettségét elengedni, a visszapótlási kötelezettségből származó követelést a gazdasági társaság javára nem pénzbeli hozzájárulásként rendelkezésre bocsátani vagy az elszámolásról egyéb módon rendelkezni. A jogügylet és az annak végrehajtására irányuló eljárások (így különösen az ingatlan-nyilvántartási bejegyzés, telekalakítás, más célú hasznosítási eljárás) adó-, illeték-, díj-, valamint járulékmentesek és nem minősülnek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alapján termékértékesítésnek, illetve szolgáltatásnyújtásnak, a megállapodás esetleges egyéb költségei az MNV Zrt.-vel szerződő gazdasági társaságot terhelik.
 
-#### 69/B. §
+69/B. § (1) Amennyiben a 2. § (2) bekezdésétől eltérően az ingatlan-nyilvántartás valamely ingatlan tulajdonosaként központi költségvetési szervet tüntet fel, az MNV Zrt. tudomásszerzését követően benyújtott egyoldalú kérelme alapján – a központi költségvetési szerv tulajdonjogának egyidejű törlése mellett – a magyar állam tulajdonjogát kell bejegyezni az ingatlan-nyilvántartásba.
+
+(2) Az ingatlanügyi hatóság a magyar állam tulajdonjogának bejegyzéséhez az MNV Zrt. (1) bekezdés szerinti, az érintett ingatlan pontos megjelölését tartalmazó kérelmén kívül egyéb dokumentumot nem kérhet.
+
+(3) Az állam tulajdonjogának bejegyzésével egyidejűleg az (1) bekezdés szerinti központi költségvetési szerv kezdeményezésére az MNV Zrt. a költségvetési szervvel az (1) bekezdés szerinti ingatlan tekintetében nem visszterhes vagyonkezelési szerződést köt, vagy egyoldalú nyilatkozatával – a 28/A. § (2) bekezdése szerinti állami elhelyezési célú ingatlanhasználati jogviszony keretében – a központi költségvetési szerv használatába adja az ingatlant.
+
+(4) Az állam tulajdonjogának bejegyzését követően az (1) bekezdés szerinti központi költségvetési szerv adatot szolgáltat az MNV Zrt. részére az (1) bekezdés szerinti ingatlan állami vagyonnyilvántartásba történő bevezetése érdekében.
 
 69/C. § (1) Az MNV Zrt. rábízott vagyonába tartozó, az MNV Zrt. működéséhez szükséges számviteli törvény szerinti immateriális javak, tárgyi eszközök, készletek 2015. december 31-i nyilvántartási értéken e törvény erejénél fogva 2016. január 1-jén ingyenesen az MNV Zrt. tulajdonába kerülnek. Az MNV Zrt. gondoskodik a vagyonmozgás nyilvántartásokon történő átvezetéséről.
 
@@ -1331,5 +1347,7 @@ lép.
 (3)
 
 (4)
+
+72. § A 36. § (11) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 ### Melléklet a 2007. évi CVI. törvényhez

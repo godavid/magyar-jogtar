@@ -2485,11 +2485,12 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 29 | Budapest, belterület 38295/11 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 30 | Budapest, belterület 38295/12 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 31 | Budapest, belterület 38295/14 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 32 | Győr, belterület 5761/7 | ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.) |
-| 33 | Győr, belterület 5761/7/A | ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.) |
-| 34 | Győr, belterület 5761/7/B | ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.) |
-| 35 | Győr, belterület 5761/7/C | ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.) |
+| 32 |  |  |
+| 33 |  |  |
+| 34 |  |  |
+| 35 |  |  |
 | 36. | Veszprém, külterület 0213/85/A hrsz | Veszprémi Építők Sportegyesület (székhely: 8200 Veszprém, Külső-kádártai út 5.) |
 | 37. | Veszprém, külterület 0213/85 hrsz | Veszprémi Építők Sportegyesület (székhely: 8200 Veszprém, Külső-kádártai út 5.) |
-| 38. | Budapest, belterület 25992/1 hrsz (10940/1683450 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 38. | Budapest, belterület 25992/1 (93330/1683450 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
 | 39. | Budapest belterület 23800/6 hrsz (10245/100786 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 40. | Budapest belterület 38440/23 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |

@@ -458,7 +458,9 @@ részére átengedhető és kizárólag általuk gyakorolható.
 
 (4) Nemzeti vagyon tulajdonjogának ingyenes átruházása esetén a tulajdonjogot megszerző félnek – az állam kivételével – eleget kell tennie a következő feltételeknek:
 
-- a) a nemzeti vagyoni körből ingyenesen tulajdonba adott ingatlant a tulajdonjog megszerzésétől számított 15 évig nem idegenítheti el, és a juttatás céljának megfelelően köteles hasznosítani, valamint állagát megóvni azzal, hogy a juttatási cél megvalósítása érdekében végzett bontás vagy átalakítás nem minősül az állagmegóvási kötelezettség megszegésének;
+- a) a nemzeti vagyoni körből ingyenesen tulajdonba adott ingatlant a tulajdonjog megszerzésétől számított 15 évig nem idegenítheti el, és a juttatás céljának megfelelően köteles hasznosítani, valamint állagát megóvni azzal, hogy
+  - aa) az ingatlan használatba adása az ingatlan tulajdonjogát ingyenesen átruházó fél részére nem minősül a juttatás céljának megfelelő hasznosítási kötelezettség megszegésének, továbbá
+  - ab) a juttatási cél megvalósítása érdekében végzett bontás vagy átalakítás nem minősül az állagmegóvási kötelezettség megszegésének;
 - b) az átruházott vagyon hasznosításáról évente beszámol a vagyont átadó szervezet felé.
 
 (5) Az ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva 15 évig elidegenítési tilalom áll fenn. Az elidegenítési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a vagyont átruházó szerv kérelmezi.
@@ -2257,7 +2259,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | 33 | Garantiqa Hitelgarancia Zrt. | 25% + 1 szavazat |
 | 34 | Regionális Fejlesztési Holding Zrt. | 100% |
 | 35 | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% |
-| 36 |  |  |
+| 36 | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt. | 100% |
 | 37 | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% |
 | 38 | Szerencsejáték Zrt. | 100% |
 | 39 |  |  |
