@@ -28,7 +28,7 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 10. § (1)
 
-(2) A Tpt. 25. számú melléklete az 1. melléklet 2. pontja szerint módosul.
+(2)
 
 (3)
 
@@ -58,61 +58,29 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 21. §
 
-22. § A Bszt. 101. §-a helyébe a következő rendelkezés lép:
-
-„101. § (1) A befektetési vállalkozás írásban rögzített hatékony stratégiákkal, eljárásrendekkel és szabályzatokkal rendelkezik a következő kockázatok azonosítására, mérésére, kezelésére és nyomon követésére:
-
-- a) az ügyfeleket érintő kockázat jelentős forrásai és hatásai, valamint a szavatoló tőkére esetlegesen gyakorolt jelentős hatásai,
-- b) a piaci kockázatok jelentős forrásai és hatásai, valamint a szavatoló tőkére esetlegesen gyakorolt jelentős hatásai,
-- c) a befektetési vállalkozást érintő kockázat jelentős forrásai és hatásai, különösen azok, amelyek a rendelkezésre álló szavatoló tőke jelentős csökkenéséhez vezetnek, valamint
-- d) a megfelelő időtávokon belüli – ideértve a napon belüli – likviditási kockázat annak biztosítása céljából, hogy a befektetési vállalkozás megfelelő szintű likviditást tartson fenn, többek között az a)–c) pont szerinti jelentős kockázati források fedezése érdekében.
-
-(2) A stratégiáknak, eljárásrendeknek és szabályzatoknak arányban kell állniuk a befektetési vállalkozás méretével, tevékenységének jellegével, összetettségével, kockázati profiljával és tevékenységi körével, az irányítási jogkörrel rendelkező vezető testület által meghatározott kockázatvállalási limitjeivel, valamint a befektetési vállalkozás azon EGT-államban megállapítható rendszerszintű jelentőségével, amelyben befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást végez.
-
-(3) Az (1) bekezdés alkalmazása során az ügyfelek védelme érdekében a befektetési vállalkozás megfontolja, hogy a kockázatkezelés hatékony eszközeként szakmai felelősségbiztosítást alkalmazzon.
-
-(4) Az (1) bekezdés alkalmazása során a befektetési vállalkozást fenyegető jelentős kockázatként kell figyelembe venni többek között – adott esetben – az eszközök könyv szerinti értékében bekövetkező jelentős változásokat, beleértve a függő ügynökökkel szembeni esetleges követeléseket, az ügyfelek vagy szerződő felek csődjét, a pénzügyi eszköz-, deviza- és árupozíciókat, valamint a szolgáltatással meghatározott nyugdíjkonstrukció felé fennálló kötelezettségeket.
-
-(5) A befektetési vállalkozásnak biztosítania kell, hogy megfelelő szintű szavatoló tőkével rendelkezzen abban az esetben is, ha a piaci kockázatokat nem fedezik kellőképpen az (EU) 2019/2033 rendelet 11. cikke szerinti szavatoló tőke követelmények szerinti tőkeelemek.
-
-(6) A Felügyelet kötelezi a befektetési vállalkozást, hogy amennyiben annak felszámolása vagy a tevékenységével történő felhagyás szükséges – üzleti modellje és stratégiája életképességét és fenntarthatóságát figyelembe véve –, reális követelményekkel és erőforrásokkal számoljon mind az időtávot, mind pedig a szavatoló tőke és a likvid erőforrások fenntartását illetően, a piacról való kivonulás teljes folyamata során.”
+#### 22. §
 
 #### 23. §
 
-24. § A Bszt. 159/A. §-a a következő (6a) bekezdéssel egészül ki:
+#### 24. §
 
-„(6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.”
+#### 25. §
 
-25. § A Bszt. 162. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Felügyelet a befektetési vállalkozás méretét, kockázati profilját és üzleti modelljét is figyelembe véve felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet összes követelményének való megfelelését.”
-
-26. § (1) A Bszt. 183. § (1) bekezdése a következő o) ponttal egészül ki:
-
-(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv,”
+26. § (1)
 
 (2)
 
 (3)
 
-27. § A Bszt.
-
-- a) 3/B. § (1) bekezdésében a „101. § (2), (4)–(9) bekezdésében” szövegrész helyébe a „101. § (1) bekezdés b) pontjában, a 101. § (2)–(6) bekezdésében” szöveg,
-- b) 159/A. § (7) bekezdésében a „(6) bekezdésben” szövegrész helyébe a „(6) és (6a) bekezdésben” szöveg,
-- c) 162. § (6) bekezdésében a „(6) bekezdés” szövegrész helyébe a „(3) bekezdés” szöveg,
-- d) 163/B. § (1) bekezdés b) pontjában a „101. § (1) bekezdés f) pontjában” szövegrész helyébe a „101. § (1) bekezdés d) pontjában” szöveg
-
-lép.
+#### 27. §
 
 28. § Hatályát veszti a Bszt.
 
 - a)
 - b)
-- c) 159/A. § (6) bekezdésében az „ , a hatósági vizsgára jelentkező személyekről” szövegrész,
+- c)
 - d)
-- e) 162/A. § (1) bekezdés c) pontjában az „a 162. § (8) bekezdése alapján” szövegrész, valamint
+- e)
 - f)
 
 #### 6. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
@@ -123,9 +91,7 @@ lép.
 
 #### 31. §
 
-32. § A Pft. 62/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Központi Nyilvántartás célja, hogy az ingyenes készpénzfelvételi, illetve cash-back szolgáltatás igénybevételével történő készpénzátvételi jog jogszerű gyakorlásának biztosítása érdekében megállapítható legyen az, hogy a nyilatkozattevő tett-e nyilatkozatot vagy visszavonó rendelkezést, eltérő időkben és nyilatkozatadat-szolgáltatóknál tett nyilatkozatok esetében pedig annak megállapíthatósága, hogy mely nyilatkozata jogosítja őt a 36/A. § (1) bekezdése szerinti díjtól és költségtől mentes szolgáltatásra.”
+#### 32. §
 
 #### 33. §
 
@@ -173,29 +139,22 @@ lép.
 
 #### 50. §
 
-51. § A Hpt. 204/A. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.”
+#### 51. §
 
 #### 52. §
 
 #### 53. §
 
-54. § (1) A Hpt. 5. melléklete a 2. melléklet 1. pontja szerint módosul.
+54. § (1)
 
 (2)
 
-55. § A Hpt.
-
-- a) 5. § (1) bekezdésében a „hitelintézet és” szövegrész helyébe a „hitelintézet, jelzáloghitel közvetítői tevékenységet végző közvetítő és” szöveg,
-- b) 204/A. § (7) bekezdésében a „(6) bekezdésben” szövegrész helyébe a „(6) és (6a) bekezdésben” szöveg
-
-lép.
+#### 55. §
 
 56. § Hatályát veszti a Hpt.
 
 - a)
-- b) 204/A. § (6) bekezdésében az „ , a hatósági vizsgára jelentkező személyekről” szövegrész.
+- b)
 
 #### 10. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
@@ -229,38 +188,24 @@ lép.
 
 #### 69. §
 
-70. § A Bit. 430. §-a a következő (6a) bekezdéssel egészül ki:
+#### 70. §
 
-„(6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.”
-
-71. § (1) A Bit. 453. §-a a következő 14. ponttal egészül ki:
-
-(Ez a törvény)
-
-„14. a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+71. § (1)
 
 (2)
 
 72. § (1)
 
-(2) A Bit. 453/A. §-a a következő 5. ponttal egészül ki:
+(2)
 
-(Ez a törvény)
-
-„5. a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-73. § A Bit. 430. § (7) bekezdésében a „(6) bekezdésben” szövegrész helyébe a „(6) és (6a) bekezdésben” szöveg lép.
+#### 73. §
 
 74. § Hatályát veszti a Bit.
 
 - a)
 - b)
 - c)
-- d) 430. § (6) bekezdésében az „ , a hatósági vizsgára jelentkező személyekről” szövegrész,
+- d)
 - e)
 
 #### 13. Záró rendelkezések
@@ -295,23 +240,12 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 ### 1. melléklet a 2024. évi X. törvényhez
 
 - 1.
-- 2. A Tpt. 25. számú melléklete a következő 33. ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-- „33. A 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló 2022. december 14-i, (EU) 2022/2464 európai parlamenti és tanácsi irányelv.”
+- 2.
 - 3.
 
 ### 2. melléklet a 2024. évi X. törvényhez
 
-- 1. A Hpt. 5. melléklet 1. pontja a következő o) ponttal egészül ki:
-
-(Ez a törvény)
-
-  - „o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek,”
-
-(való megfelelést szolgálja.)
-
+- 1.
 - 2.
 - 3.
 
