@@ -33,6 +33,8 @@ valamint a céginformációs szolgálat feladatai
 
 (3) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer adatkezelője a céginformációs szolgálat.
 
+(3a) A cégbíróság a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer útján, elektronikusan tartja nyilván a cégadatokat, a cégiratokat, valamint a cégbíróság által lefolytatandó nemperes eljárások és egyéb ügyek elbírálása során keletkezett iratokat.
+
 (4) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer a Kormányzati Adatközpont szolgáltatásait kormányrendeletben meghatározottak szerint igénybe vevő szakrendszer.
 
 1/A. § (1) Az e törvényben szabályozott nemperes eljárásokban – a (2) bekezdésben foglaltak kivételével – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
@@ -888,9 +890,9 @@ nyilvántartása
 
 40. § (1) Ha a cégbíróság a cégiratokat elektronikus okirat formájában tartja nyilván, a nyilvántartásra e § rendelkezéseit is alkalmazni kell.
 
-(2) A cégbíróság az e törvényben előírt őrzési kötelezettségét maga látja el, vagy annak ellátásával – külön törvény szerinti – archiválási szolgáltatót bíz meg.
+(2) A cégbíróság az e törvényben előírt őrzési kötelezettségét az 1. § (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer útján látja el.
 
-(3) Ha a cégbíróság az őrzési kötelezettségét maga látja el, az elektronikus okiratot úgy kell megőrizni, hogy az kizárja az utólagos módosítás lehetőségét, folyamatosan biztosítsa a jogosultaknak az iratokhoz való hozzáférését, valamint az elektronikus okirat értelmezhetőségét (olvashatóságát). Az elektronikus okiratot védeni kell a jogosulatlan hozzáférés, módosítás, törlés vagy megsemmisítés ellen is.
+(3) Az őrzési kötelezettség ellátása során az elektronikus okiratot úgy kell megőrizni, hogy az kizárja az utólagos módosítás lehetőségét, folyamatosan biztosítsa a jogosultaknak az iratokhoz való hozzáférését, valamint az elektronikus okirat értelmezhetőségét (olvashatóságát). Az elektronikus okiratot védeni kell a jogosulatlan hozzáférés, módosítás, törlés vagy megsemmisítés ellen is.
 
 ### 4. CÍM
 
