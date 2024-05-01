@@ -4,9 +4,9 @@ egyrészről az Európai Unió és tagállamai, másrészről Közép-Amerika k�
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről Közép-Amerika közötti társulás létrehozásáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
 
-2. §
+2. § Az Országgyűlés a Megállapodást e törvénnyel kihirdeti.
 
-3. §
+3. § A Megállapodás hiteles magyar nyelvű szövegét e törvény 1. melléklete tartalmazza.
 
 4. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 

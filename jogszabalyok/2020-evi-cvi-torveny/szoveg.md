@@ -12,7 +12,7 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (3) A Millenáris Alapítvány kuratóriumának elnökét és tagjait a miniszter jelöli ki.
 
-(4) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVAtv.) 1. mellékletében meghatározott közfeladatainak és közérdekű céljának megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett. A kártalanítás mértéke megegyezik a határozott idejű bérleti jogviszonyból még hátralévő évek és a Millenáris Tudományos Kulturális Nonprofit Kft.-vel szerződéses jogviszonyban álló fél e törvény hatálybalépését megelőző három üzleti évének adózott eredménye átlagának szorzatával.
+(4) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVAtv.) 1. mellékletében meghatározott közfeladatainak és közérdekű céljának megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett.
 
 (5)
 
@@ -62,7 +62,7 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (5) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésétől eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.
 
-4. §
+#### 4. §
 
 #### 4. A Batthyány Lajos Alapítvány részére történő vagyonjuttatás
 
@@ -146,9 +146,9 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (2) A 2. § (6) bekezdése, a 2/A. §, a 3. § (5) bekezdése, 6. § (3), (4) és (5) bekezdése, a 9. § (1) bekezdése, a 9/B. §, az 1. melléklet 3. sora és a 2., 3. és 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 ### 1. melléklet a 2020. évi CVI. törvényhez
 
