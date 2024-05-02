@@ -100,7 +100,7 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 11. A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény hatályon kívül helyezése
 
-35. § Hatályát veszti a 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény.
+#### 35. §
 
 #### 12. A Jövő Nemzedék Földje Alapítványról, a Jövő Nemzedék Földje Alapítvány részére történő vagyonjuttatásról és az ezzel összefüggésben egyes törvények módosításáról szóló 2021. évi XV. törvény módosítása
 
@@ -146,13 +146,7 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 52. §
 
-53. § A 2021. évi CXXXII. törvény
-
-- 1. 1. § (12) bekezdésében a „2001. évi LXIV. törvény” szövegrész helyébe a „2001. évi LXIV. törvény (a továbbiakban: Kötv.)” szöveg,
-- 2. 1. § (13) bekezdésében az „1995. évi LVII. törvény” szövegrész helyébe az „1995. évi LVII. törvény (továbbiakban: Vgtv.)” szöveg,
-- 3. 1. § (14) bekezdésében a „2007. évi CXXVII. törvény” szövegrész helyébe a „2007. évi CXXVII. törvény a (továbbiakban: Áfa tv.)” szöveg
-
-lép.
+#### 53. §
 
 #### 17. A 2025. évi Oszakai Világkiállításon történő magyar megjelenés sikeres megvalósításához kapcsolódó rendelkezésekről szóló 2022. évi XLVII. törvény módosítása
 
