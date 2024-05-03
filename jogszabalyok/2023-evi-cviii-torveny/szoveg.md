@@ -618,12 +618,31 @@ kell igazolnia.
 
 45. § Ha a Hatóság az ellenőrzése során
 
-- a) jogsértést tapasztal, figyelmeztetést vagy közigazgatási bírság szankciót alkalmaz, és döntésében – 15 napos határidő biztosításával – kötelezi a vállalkozást a jogsértés megszüntetésére és a szükséges megelőző, illetve korrekciós intézkedések megtételére,
-- b) jogsértést nem tapasztal, ennek tényéről hatósági bizonyítványt állít ki.
+- a) jogsértést tapasztal, figyelmeztetést vagy az eset összes körülményének mérlegelésével kormányrendeletben meghatározottak szerint közigazgatási bírság szankciót alkalmaz, és döntésében – 15 napos határidő biztosításával – kötelezi a vállalkozást vagy az ESG közreműködőt a jogsértés megszüntetésére és a szükséges megelőző, illetve korrekciós intézkedések megtételére azzal, hogy a bírság kiszabása a kötelezés teljesítésének elmulasztása esetén megismételhető,
+- b) jogsértést nem tapasztal, ennek tényéről hatósági bizonyítványt állít ki az ügyfél kérelmére lefolytatott hatósági ellenőrzés során minden esetben, illetve a hivatalból folytatott hatósági ellenőrzés esetén az ügyfél kérelmére.
+
+45/A. § (1) A Hatóság a jogosulatlan ESG közreműködői tevékenységet folytató személlyel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szabhat ki. A Hatóság a bírság összegének megállapításakor a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben foglalt szempontokat mérlegeli. Figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
+
+(2) Jogosulatlan ESG közreműködői tevékenységnek minősül az, ha
+
+- a) a 40. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG tanúsítói tevékenységet,
+- b) a 41. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG tanácsadói tevékenységet, vagy
+- c) a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG minősítői tevékenységet.
+
+(3) Nem minősül a (2) bekezdés c) pontja szerinti jogosulatlan ESG minősítői tevékenységnek, ha a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő minősítést végző által minősített vállalkozás vagy 1. § (3) bekezdése szerinti szervezet a rá vonatkozó minősítés közzétételéhez nyilatkozatával vagy kétoldalú megállapodással hozzájárult.
+
+(4) Ha a Hatóság megállapítja
+
+- a) annak tényét, hogy a 27. § (5) bekezdése szerinti adatigénylésre engedély nélkül, vagy az engedélytől eltérő tartalommal kerül sor, vagy
+- b) a 27. § (6) bekezdése szerinti kötelezettség megsértését,
+
+a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szab ki. Figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
+
+(5) A 32. § (4) bekezdésének vagy a 36. § (1) bekezdésének megsértése esetén a Hatóság az ESG közreműködő akkreditált státuszát hat hónapos időtartamra vagy – ha az akkreditált státusz hátralévő időtartama ennél rövidebb – az akkreditált státusz lejártának időpontjáig felfüggeszti. Az az ESG közreműködő, akinek az akkreditált státuszát a Hatóság felfüggesztette, az ESG közreműködői tevékenység végzésére nem jogosult.
 
 46. § (1) Az ellenőrzés akadályozása esetén a Hatóság eljárási bírsággal sújthatja azt, aki a kötelezettségét önhibájából megszegi.
 
-(2) Az eljárási bírság legkisebb összege ötszázezer forint, legmagasabb összege egymillió forint.
+(2) Az eljárási bírság legmagasabb összege egymillió forint.
 
 47. § A Hatóság a honlapján minden év június 30-ig közzéteszi az előző naptári évben végzett ellenőrzési tevékenységéről készített jelentést, amely tartalmazza a Hatóság által feltárt jogsértéseket és az elrendelt intézkedéseket.
 
