@@ -80,9 +80,7 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 28. §
 
-29. § A Pmt. 69. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A bírság mértékét az (1) bekezdés h) pont ha), hb) és hd) alpont szerint meghatározott magasabb összegű bírsághatárra figyelemmel kell megállapítani.”
+#### 29. §
 
 #### 30. §
 
@@ -92,12 +90,7 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 (2)
 
-(3) A Pmt.
-
-- 1. 69. § (1) bekezdés h) pont ha) alpontjában a „legfeljebb” szövegrész helyébe a „vagy” szöveg,
-- 2. 69. § (1) bekezdés h) pont hb) alpontjában a „legfeljebb” szövegrész helyébe a „vagy” szöveg
-
-lép.
+(3)
 
 #### 33. §
 
@@ -211,37 +204,11 @@ lép.
 
 #### 79. §
 
-80. § Az ESG törvény 45. §-a helyébe a következő rendelkezés lép:
+#### 80. §
 
-„45. § Ha a Hatóság az ellenőrzése során
+#### 81. §
 
-- a) jogsértést tapasztal, figyelmeztetést vagy az eset összes körülményének mérlegelésével kormányrendeletben meghatározottak szerint közigazgatási bírság szankciót alkalmaz, és döntésében – 15 napos határidő biztosításával – kötelezi a vállalkozást vagy az ESG közreműködőt a jogsértés megszüntetésére és a szükséges megelőző, illetve korrekciós intézkedések megtételére azzal, hogy a bírság kiszabása a kötelezés teljesítésének elmulasztása esetén megismételhető,
-- b) jogsértést nem tapasztal, ennek tényéről hatósági bizonyítványt állít ki az ügyfél kérelmére lefolytatott hatósági ellenőrzés során minden esetben, illetve a hivatalból folytatott hatósági ellenőrzés esetén az ügyfél kérelmére.”
-
-81. § Az ESG törvény a következő 45/A. §-sal egészül ki:
-
-„45/A. § (1) A Hatóság a jogosulatlan ESG közreműködői tevékenységet folytató személlyel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szabhat ki. A Hatóság a bírság összegének megállapításakor a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben foglalt szempontokat mérlegeli. Figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
-
-(2) Jogosulatlan ESG közreműködői tevékenységnek minősül az, ha
-
-- a) a 40. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG tanúsítói tevékenységet,
-- b) a 41. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG tanácsadói tevékenységet, vagy
-- c) a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG minősítői tevékenységet.
-
-(3) Nem minősül a (2) bekezdés c) pontja szerinti jogosulatlan ESG minősítői tevékenységnek, ha a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő minősítést végző által minősített vállalkozás vagy 1. § (3) bekezdése szerinti szervezet a rá vonatkozó minősítés közzétételéhez nyilatkozatával vagy kétoldalú megállapodással hozzájárult.
-
-(4) Ha a Hatóság megállapítja
-
-- a) annak tényét, hogy a 27. § (5) bekezdése szerinti adatigénylésre engedély nélkül, vagy az engedélytől eltérő tartalommal kerül sor, vagy
-- b) a 27. § (6) bekezdése szerinti kötelezettség megsértését,
-
-a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szab ki. Figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
-
-(5) A 32. § (4) bekezdésének vagy a 36. § (1) bekezdésének megsértése esetén a Hatóság az ESG közreműködő akkreditált státuszát hat hónapos időtartamra vagy – ha az akkreditált státusz hátralévő időtartama ennél rövidebb – az akkreditált státusz lejártának időpontjáig felfüggeszti. Az az ESG közreműködő, akinek az akkreditált státuszát a Hatóság felfüggesztette, az ESG közreműködői tevékenység végzésére nem jogosult.”
-
-82. § Az ESG törvény 46. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az eljárási bírság legmagasabb összege egymillió forint.”
+#### 82. §
 
 #### 83. §
 
