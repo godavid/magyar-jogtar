@@ -120,7 +120,7 @@ a következő törvényt alkotja:
 
 2/B. § Dohányzást helyettesítő nikotintartalmú termék fogyasztása köznevelési intézményben, valamint gyermekjóléti, gyermekvédelmi intézményben tilos.
 
-3. § (1) A közforgalmú intézmény feladatkörében eljáró, valamint a közösségi közlekedési eszköz működtetésében hivatásszerűen közreműködő személy (a továbbiakban együtt: rendelkezésre jogosult) a dohányzásra, elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatára vonatkozó korlátozást megsértőt a jogsértés haladéktalan befejezésére köteles felhívni. A felhívás eredménytelensége esetén a rendelkezésre jogosult az érintett személyt felszólítja, hogy a közforgalmú intézményt, illetve a közösségi közlekedési eszközt hagyja el, illetőleg kezdeményezi a 7. § (1)–(2), illetve (13) bekezdései szerinti eljárás lefolytatását.
+3. § (1) A közforgalmú intézmény feladatkörében eljáró, valamint a közösségi közlekedési eszköz működtetésében hivatásszerűen közreműködő személy (a továbbiakban együtt: rendelkezésre jogosult) a dohányzásra, elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz, vagy vízipipa használatára vonatkozó korlátozást megsértőt a jogsértés haladéktalan befejezésére köteles felhívni. A felhívás eredménytelensége esetén a rendelkezésre jogosult az érintett személyt felszólítja, hogy a közforgalmú intézményt, illetve a közösségi közlekedési eszközt hagyja el, illetőleg kezdeményezi a 7. § (1)–(2), illetve (13) bekezdései szerinti eljárás lefolytatását.
 
 (2) Az (1) bekezdésben meghatározott személy felhívására – az eljáró intézkedési jogosultságának igazolását követően – az érintett személy személyazonosságát hitelt érdemlő módon köteles igazolni.
 
@@ -193,7 +193,7 @@ illetőleg forgalmazására vonatkozó tilalmak,
 
 valamint kötelezettségek megszegése
 
-7. § (1) A 2–4/A. §-ban, a 7/H. §-ban, a 9. §-ban foglalt, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-a szerinti rendelkezések betartását az egészségügyi államigazgatási szerv ellenőrzi, és azok megsértése esetén – a jogsértő természetes vagy jogi személlyel, illetve jogi személyiség nélküli szervezettel szemben – egészségvédelmi bírságot szab ki. Az egészségügyi államigazgatási szerv eltekinthet a bírság kiszabásától a 4. § (9) bekezdésében meghatározott személlyel szemben, ha a rendelkezésre jogosult a dohányzásra vagy az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatára vonatkozó korlátozást megsértővel szemben a 3. § (1) bekezdésében meghatározott kötelezettségének bizonyíthatóan eleget tett.
+7. § (1) A 2–4/A. §-ban, a 7/H. §-ban, a 9. §-ban foglalt, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-a szerinti rendelkezések betartását az egészségügyi államigazgatási szerv ellenőrzi, és azok megsértése esetén – a jogsértő természetes vagy jogi személlyel, illetve jogi személyiség nélküli szervezettel szemben – egészségvédelmi bírságot szab ki. Az egészségügyi államigazgatási szerv eltekinthet a bírság kiszabásától a 4. § (9) bekezdésében meghatározott személlyel szemben, ha a rendelkezésre jogosult a dohányzásra vagy az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz, vagy vízipipa használatára vonatkozó korlátozást megsértővel szemben a 3. § (1) bekezdésében meghatározott kötelezettségének bizonyíthatóan eleget tett.
 
 (2) Egészségvédelmi bírság megfizetésére köteles a 4. § (9) bekezdésében megjelölt személy is, aki a dohányzásra vonatkozó, e törvényben foglalt tilalmak, korlátozások betartását feladatkörében nem érvényesíti.
 

@@ -2,24 +2,37 @@
 
 a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról
 
-A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és katonai képzést folytató Nemzeti Közszolgálati Egyetem tevékenységének célja a közigazgatást, a hon- és rendvédelmet érintő tevékenységet végző szakemberek képzése, a hon- és rendvédelmi szervek tiszti utánpótlásának biztosítása, valamint az egységesülő közszolgálati életpályák közti átjárhatóság megteremtése. Az intézménynek a tiszti utánpótlás képzése során tekintettel kell lennie a Magyar Honvédség és a rendészeti szervek feladataira, sajátos szolgálati és életviszonyaira, valamint az egyes hivatásrendek képzési és kiképzési rendszereiben előzetesen megszerzett ismeretekre is. E képzési feladatok megvalósításához szükséges vezetői, oktatói és hallgatói jogállás, a fenntartói jogok, a finanszírozás, valamint az Egyetem irányításának, szervezetének és működésének szabályozása érdekében az Országgyűlés a következő törvényt alkotja:
+A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és katonai képzést folytató Nemzeti Közszolgálati Egyetem tevékenységének célja a közigazgatást, a hon- és rendvédelmet érintő tevékenységet végző szakemberek képzése, a hon- és rendvédelmi szervek tiszti utánpótlásának biztosítása, valamint az egységesülő közszolgálati életpályák közti átjárhatóság megteremtése. Az intézménynek a tiszti utánpótlás képzése során tekintettel kell lennie a Magyar Honvédség és a rendészeti szervek feladataira, sajátos szolgálati és életviszonyaira, valamint az egyes hivatásrendek képzési és kiképzési rendszereiben előzetesen megszerzett ismeretekre is. A Nemzeti Közszolgálati Egyetem a közszolgálatiság eszméjének erősítésére kiemelt hangsúlyt fektet a sport szemlélet- és közösségformáló erejének a felsőoktatási tevékenység során történő érvényesítésére. E képzési feladatok megvalósításához szükséges vezetői, oktatói és hallgatói jogállás, a fenntartói jogok, a finanszírozás, valamint az Egyetem irányításának, szervezetének és működésének szabályozása érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 1. § (1) A törvény hatálya kiterjed
 
 - a) a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem),
-- b) az Egyetem által folytatott felsőoktatási tevékenységre, valamint az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, nemzetközi és európai közszolgálati felsőoktatásra, továbbá az ezekkel összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
+- b) az Egyetem által folytatott felsőoktatási tevékenységre, valamint az államtudományi képzési területre, továbbá az ezekkel összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
 - c) az Egyetem alapítójára, fenntartójára, valamint
 - d) az Egyetem oktatóira, tudományos kutatóira és más alkalmazottjaira, hallgatóira, támogatóira és az oda jelentkezőkre.
 
 (2) Az Egyetem külföldi hallgatójának jogállására e törvényt kell alkalmazni, ha jogszabály vagy a képzésről szóló megállapodás eltérően nem rendelkezik.
 
-1/A. § A 3. § szerinti, illetve a Kormány által a 44. § (1) bekezdés e) pontja alapján kiadott rendelet szerinti államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati képzések tekintetében oklevél kiadására az Egyetem jogosult.
+1/A. § A 3. § szerinti, illetve a Kormány által a 44. § (1) bekezdés e) pontja alapján kiadott rendelet szerinti, az államtudományi képzési területhez tartozó képzések tekintetében oklevél kiadására az Egyetem jogosult.
 
 1/B. § Az Egyetem alaptevékenységként ellátja a közszolgálati tisztviselők és a kormányzati igazgatási szervek kormánytisztviselőinek képzését, továbbképzését, valamint jogszabályban vagy közjogi szervezetszabályozó eszközben részére meghatározott egyéb képzési és továbbképzési feladatokat.
 
 1/C. § Az Egyetem alaptevékenységként – a szervezeti és működési szabályzatában kijelölt szervezeti egysége útján – ellátja az 1/B. § hatálya alá nem tartozó, kormányrendeletben meghatározott kormányzati képzési, oktatási feladatok ellátásához kapcsolódó központosított közbeszerzés során ajánlatkérésre feljogosított szervezet feladatait, valamint egyéb kapcsolódó feladatokat.
+
+1/D. § (1) Az Egyetem alaptevékenységként részt vesz a pedagógus-munkakörben foglalkoztatottak végrehajtási jogszabályban meghatározottak szerinti továbbképzésében.
+
+(2) Az Egyetem az (1) bekezdés szerinti továbbképzés, valamint a pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púétv.) szerinti, a köznevelésért felelős miniszter által előírt képzések
+
+- a) rendeltetésszerű ellátása és megszervezése, valamint a kapcsolódó nyilvántartások vezetése,
+- b) kötelezettjei jogainak gyakorlása és kötelezettségeinek teljesítése,
+- c) eredményességének vizsgálata, utánkövetése,
+- d) fejlesztésének megtervezése és végrehajtása
+
+érdekében az 1. melléklet szerinti adatokat a tanártovábbképzés és a köznevelésért felelős miniszter által előírt képzés lezárultától számított öt évig kezeli. Az Egyetem a személyes és különleges adatokat csak az e bekezdésben meghatározott céloknak megfelelő mértékben, célhoz kötötten kezeli. Az Egyetem jogosult a köznevelésért felelős miniszter, az oktatási hivatal és a képzésben részt vevő személy munkáltatója, valamint annak fenntartója számára a tanártovábbképzéssel és a köznevelésért felelős miniszter által előírt képzéssel kapcsolatos feladataik ellátásához szükséges valamennyi, 1. melléklet szerinti adat továbbítására.
+
+(3) Az Egyetem a tanárképzés területén a gyakorlati képességek hatékony fejlesztése érdekében, a hallgatók számára diverzifikált, több intézményre kiterjedő gyakorlati tapasztalatszerzési lehetőség biztosítása, illetve az Egyetem képzésében oktatók számára – a köznevelésben való részvétel révén – a folyamatos gyakorlati lehetőség és szakmai fejlődés elősegítése érdekében fenntartóként köznevelési intézmény hálózatot működtet.
 
 2. § (1) Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
 
@@ -27,11 +40,12 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 3. § E törvény alkalmazásában
 
-- 1. államtudományi és közigazgatási felsőoktatás: a kormánytisztviselői és a köztisztviselői életpályára felkészítő államtudományi és alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
-- 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok;
-- 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
-- 4. nemzetbiztonsági felsőoktatás: a nemzetbiztonsági ágazat szakembereinek felkészítése érdekében indított nemzetbiztonsági alapképzési szak, valamint a hozzá kapcsolódó mesterképzési szak;
-- 5. nemzetközi és európai közszolgálati felsőoktatás: a közszolgálat nemzetközi feladatainak ellátására és diplomáciai feladatokra történő felkészítést célzó alap- és mesterképzési szakok.
+- 1. közigazgatási felsőoktatás: a kormánytisztviselői és a köztisztviselői életpályára felkészítő alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is, továbbá szakirányú továbbképzési szakok;
+- 1a. államtudományi képzési terület: az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás szakjainak összessége;
+- 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, továbbá szakirányú továbbképzési szakok;
+- 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, továbbá szakirányú továbbképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
+- 4. nemzetbiztonsági felsőoktatás: a nemzetbiztonsági ágazat szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, továbbá szakirányú továbbképzési szakok;
+- 5. nemzetközi és európai közszolgálati felsőoktatás: a közszolgálat nemzetközi feladatainak ellátására és diplomáciai feladatokra történő felkészítést célzó alap- és mesterképzési szakok, továbbá szakirányú továbbképzési szakok.
 
 ### II. Fejezet — A FENNTARTÓ
 
@@ -75,7 +89,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 ### II/A. Fejezet — A TANÁCSADÓ TESTÜLET
 
-9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
+9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a külpolitikáért felelős miniszter, a területfejlesztésért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
 
 (2) Az (1) bekezdésben felsorolt miniszterek képviseletét a Tanácsadó Testületben az általuk megbízott más személy is elláthatja.
 
@@ -144,13 +158,13 @@ tölthet be.
 
 16/A. § (1) A honvédségi szervezet, rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
 
-(2) A 16/E. § szerinti oktatókat az Egyetem szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell figyelembe venni, azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni.
+(2) A 16/E. § szerinti oktatók – ideértve azokat is, akik a 16/E. § (3) bekezdése alapján az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkeznek – az Egyetem oktatási akkreditációja szempontjából teljes értékű alkalmazottnak minősülnek, így különösen az Egyetem szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell őket figyelembe venni, azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni. A 16/E. § szerinti, címüket az Egyetem szervezeti és működési szabályzatában meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személyeket – ideértve azt is, aki a 16/E. § (3) bekezdése alapján az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkezik – az Egyetem oktatási akkreditációja szempontjából úgy kell tekinteni, mintha a szervezeti és működési szabályzatban, az Egyetemre vagy az oktató hivatására utaló elnevezésűnek megfelelő, az Nftv. 27. § (1) bekezdésében meghatározott munkakört töltenék be.
 
 16/B. § (1) A közalkalmazotti jogviszonyt – a Kjt.-ben meghatározottakon túl – felmentéssel megszüntetheti az Egyetem, ha
 
 - a) – a 16/C. §-ban meghatározottól eltérő esetben – a feladatok hatékonyabb biztosítása érdekében a közalkalmazott munkakörében másik közalkalmazottat kíván alkalmazni,
 - b) a közalkalmazott a munkakörének betöltésére érdemtelenné vált,
-- c) az Egyetemen a teljes oktatói és tanári létszám által a teljes munkaidős foglalkoztatásra vetített tanításra fordított idő – munkáltató által a foglalkoztatási követelményrendszerben meghatározottak szerinti megemelése vagy csökkentése nélkül számított – kötelező óraszámai összegének és az Egyetem által elindított szakok képzési terve alapján megtartott tanórák számának aránya meghaladja az 1,25-ös arányszámot a két egymást követő tanulmányi félév átlagában, függetlenül a közalkalmazottra vonatkozó egyéni arányszámtól, illetve a foglalkoztatott – oktatói, kutatói, illetve oktatói, kutatói munkát segítő vagy bármely egyéb – munkakörétől, vagy
+- c) az Egyetemen a teljes oktatói és tanári létszám által a teljes munkaidős foglalkoztatásra vetített tanításra fordított idő – munkáltató által a foglalkoztatási követelményrendszerben meghatározottak szerinti megemelése vagy csökkentése nélkül számított – kötelező óraszámai összegének és az Egyetem által elindított szakok képzési terve alapján megtartott tanórák számának aránya meghaladja az 1,10-es arányszámot a két egymást követő tanulmányi félév átlagában, függetlenül a közalkalmazottra vonatkozó egyéni arányszámtól, illetve a foglalkoztatott – oktatói, kutatói, illetve oktatói, kutatói munkát segítő vagy bármely egyéb – munkakörétől, vagy
 - d) az intézményfejlesztési terv módosítására figyelemmel a közalkalmazott által végzett tevékenység egyetemi szintű célkitűzések közötti súlya csökkent vagy a közalkalmazott által végzett tevékenység a módosított intézményfejlesztési terv szerinti célok megvalósításához nem járul hozzá megfelelő mértékben.
 
 (2) A Kjt. közalkalmazotti jogviszonyra vonatkozó rendelkezései közül a felmentési időre, illetve a végkielégítésre vonatkozó rendelkezéseket az (1) bekezdés b) pontja esetében nem kell alkalmazni.
@@ -195,15 +209,46 @@ gyakorolhatja.
 
 (2) Az Nftv. 32. § (2) bekezdés b) pontja alapján, illetve az (1) bekezdés szerint a rektor által adományozott címmel rendelkező személy részére az Egyetem szervezeti és működési szabályzata lehetővé teheti, hogy az Nftv. 52/B. §-ára is figyelemmel, címét – a címnek az Nftv. 32. § (2) bekezdés b) pontjában foglalt elnevezésétől eltérő – az Egyetemre vagy az oktató hivatására utaló, a szervezeti és működési szabályzatban meghatározott elnevezéssel viselje.
 
-(3) Az (1) bekezdés szerinti, oktatói munkakörben foglalkoztatott, címét a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személy rektori megbízás kivételével bármilyen vezetői megbízást kaphat, azzal, hogy rektorhelyettesi, dékáni, tanszékvezetői, kutató-intézetvezetői megbízást abban az esetben kaphat, ha rendelkezik tudományos fokozattal.
+(3) Amennyiben a munkakör betöltésével kapcsolatos, (1) bekezdés szerint az Egyetem foglalkoztatási követelményrendszerében meghatározott feltételeknek és részletes szabályoknak megfelel, a (2) bekezdés szerinti, az Egyetemre vagy az oktató hivatására utaló, az Egyetem szervezeti és működési szabályzatában meghatározott elnevezésű munkakörben – vagy ilyen elnevezéssel, munkakör betöltése nélkül – az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkező személy is foglalkoztatható.
 
-(4) Az (1) bekezdés szerinti, oktatói munkakörben foglalkoztatott, címét a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személy az Egyetem alapfeladatai ellátása és az azokhoz kapcsolódó felelősségi és hatáskörök gyakorlása tekintetében rendelkezik mindazon jogosítvánnyal és – a (3) bekezdésben meghatározott kivétellel – betöltheti mindazon tisztséget, felelősségi és hatáskört, mint más oktatói vagy kutatói munkakörben foglalkoztatott személy azzal, hogy az ezek betöltésével kapcsolatos feltételek tekintetében teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell figyelembe venni és az e személy által megszerzett kiemelkedő gyakorlati tapasztalatot eredményező tevékenység időtartamát felsőoktatási oktatói szakmai gyakorlatnak, tapasztalatnak kell elismerni.
+(4) Az (1) és (3) bekezdés szerinti, oktatói munkakörben foglalkoztatott, címét a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személy – ideértve azt is, aki a (3) bekezdés alapján az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkezik – rektori megbízás kivételével bármilyen vezetői megbízást kaphat, azzal, hogy rektorhelyettesi, dékáni, tanszékvezetői, kutató-intézetvezetői megbízást abban az esetben kaphat, ha rendelkezik tudományos fokozattal.
+
+(5) Az (1) és (3) bekezdés szerinti, oktatói munkakörben foglalkoztatott, címét a (2) bekezdés alapján a szervezeti és működési szabályzatban meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő – ideértve azt is, aki a (3) bekezdés alapján az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkezik – személy az Egyetem alapfeladatai ellátása és az azokhoz kapcsolódó felelősségi és hatáskörök gyakorlása tekintetében rendelkezik mindazon jogosítvánnyal és – a (4) bekezdésben meghatározott kivétellel – betöltheti mindazon tisztséget, felelősségi és hatáskört, mint más oktatói vagy kutatói munkakörben foglalkoztatott személy azzal, hogy az ezek betöltésével kapcsolatos feltételek tekintetében teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell figyelembe venni és az e személy által megszerzett kiemelkedő gyakorlati tapasztalatot eredményező tevékenység időtartamát felsőoktatási oktatói szakmai gyakorlatnak, tapasztalatnak kell elismerni.
 
 16/F. § Az Egyetem a szervezeti és működési szabályzatában munkaköröket határozhat meg speciális oktatási, képzési tevékenységre. E munkakörök betöltőit az Egyetem szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni.
 
 16/G. § Az Egyetemen a Kjt. 57. § (3) bekezdése szerinti oktatással és neveléssel kapcsolatos munkák körét a szervezeti és működési szabályzat határozza meg.
 
 16/H. § Közalkalmazotti jogviszony – a Kjt.-ben meghatározott eseteken túl – a munka törvénykönyvéről szóló törvényben meghatározott feltételekkel határozott időre is létesíthető.
+
+16/I. § (1) A közalkalmazotti jogviszonyt érintő lényeges megállapodást és jognyilatkozatot írásba kell foglalni (a továbbiakban: papíralapú kiadmány).
+
+(2) Az (5) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+
+(3) A nyilatkozattevő személyének (2) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő fokozott biztonságú vagy minősített elektronikus aláírása.
+
+(4) Az írásbeli jognyilatkozat akkor minősül közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
+
+(5) A kinevezést, a kinevezés módosítását, a közalkalmazotti jogviszony megszűnésével, megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója elektronikusan legalább fokozott biztonságú elektronikus aláírással is kiadmányozhatja. Az ilyen elektronikus dokumentumra a (4) bekezdés rendelkezéseit nem kell alkalmazni.
+
+(6) Az írásbeli jognyilatkozatokat az (1), (2) vagy (5) bekezdés szerint kell kiadmányozni. A (2) bekezdés szerinti jognyilatkozatot a (4) bekezdés, az (5) bekezdés szerintit a 16/J. § szerint kell kézbesíteni.
+
+(7) Papíralapú kiadmány esetében a (4) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló törvény szerint tértivevény-többletszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
+
+- a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a cím azonosíthatatlansága, a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
+- b) ha a küldemény „nem kereste” kézbesíthetetlenségi ok jelzés feltüntetésével érkezik vissza, az értesítés elhelyezésének napját követő ötödik munkanapon
+
+kézbesítettnek kell tekinteni.
+
+16/J. § (1) A 16/I. § (5) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) foglalt rendelkezéseket a (3) és a (4) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy a felhasználóra vonatkozó rendelkezéseket a közalkalmazottra, az elektronikus ügyintézést biztosító szervre vonatkozó rendelkezéseket az Egyetemre is alkalmazni kell.
+
+(2) A közalkalmazott köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A közalkalmazott e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
+
+(3) A 16/I. § (5) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítése esetén, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítési igazolásban feltüntetett időpontját követő ötödik munkanapon.
+
+(4) A (3) bekezdéstől eltérően a jogviszonyt azonnali hatállyal megszüntető munkáltatói intézkedést tartalmazó irat a címzett (2) bekezdés szerinti tárhelyére történő megküldésről szóló értesítési igazolásban foglalt időpontban minősül kézbesítettnek.
+
+(5) Ha az elektronikus dokumentum elektronikus kézbesítése (vagy a kézbesítési fikció szabályainak alkalmazása) bármely okból nem lehetséges, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A közalkalmazottal a papíralapú kiadmányt kell közölni.
 
 #### 2. A vezetőkre vonatkozó szabályok
 
@@ -271,7 +316,7 @@ gyakorolhatja.
 
 (6) Az Nftv. 48. § (2)–(3) bekezdését kizárólag az önköltséges képzésben részt vevő, valamint a közszolgálati ösztöndíjas hallgató tekintetében kell alkalmazni.
 
-(7) Az Egyetem a hallgatóval ösztöndíjszerződést kötő szerv, illetve a szerződéses vagy hivatásos jogviszonyban álló hallgatót beiskolázó szerv részére továbbíthatja azon általa kezelt hallgatói személyes adatokat, amelyek a hallgatóval kötött ösztöndíjszerződésben, illetve a hallgató Egyetemen folytatott tanulmányainak támogatása tárgyában a hallgató és a beiskolázó szerv között létrejött szerződésben foglalt, a hallgatót megillető jogosultságok és az őt terhelő kötelezettségek teljesítésének ellenőrzéséhez szükségesek. Az ösztöndíjszerződést kötő, illetve beiskolázó szerv az Egyetem által a fent meghatározott célból továbbított személyes adatokat csak az adatkezelés céljának eléréséhez szükséges mértékben, módon és ideig, azonban legfeljebb a szerződés megszűnését követő öt évig kezelheti.
+(7) Az Egyetem a tisztjelölti jogviszonyban, a szerződéses vagy hivatásos jogviszonyban, a pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban vagy a rendvédelmi igazgatási alkalmazotti jogviszonyban álló hallgatót alkalmazó szerv (a továbbiakban: beiskolázó szerv) részére továbbíthatja azon általa kezelt hallgatói személyes adatokat, amelyek a hallgatót a jogviszonyát a beiskolázó szervvel létrehozó dokumentumban és e jogviszonyt szabályozó jogszabályokban foglaltak szerint megillető jogosultságok biztosításához és az őt terhelő kötelezettségek teljesítésének ellenőrzéséhez szükségesek. A beiskolázó szerv az Egyetem által a fent meghatározott célból továbbított személyes adatokat csak az adatkezelés céljának eléréséhez szükséges mértékben, módon és ideig, azonban legfeljebb a beiskolázó szervvel fennálló jogviszony megszűnését követő öt évig kezeli.
 
 22. § A honvédtiszti alap- és mesterképzésben, valamint a rendészeti képzésben nem létesíthető hallgatói jogviszony azzal,
 
@@ -303,7 +348,7 @@ hatósági bizonyítvánnyal igazolja.
 
 kezeli.
 
-23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vagy a képzés sajátosságaira figyelemmel –
+23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi képzési terület vagy a képzés sajátosságaira figyelemmel –
 
 - a) meghatározott nyelv meghatározott típusú és szintű tudása,
 - b) a magyarországi lakóhely,
@@ -370,22 +415,22 @@ kezeli.
 
 32. § A hallgató jogviszonya megszűnik, ha az Egyetem az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a hallgatóval szemben fennáll a 21. és 22. §-ban meghatározott kizáró ok, vagy ha a hallgató a 23. § (2) bekezdésében meghatározott kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
-33. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya – az e törvényben és az Nftv.-ben foglaltakon túlmenően – megszűnik a rektor határozata alapján elbocsátással, a határozat jogerőre emelkedésének napján.
+33. § (1)
 
-(2) A hallgatói jogviszony – a (4) és (5) bekezdésben foglalt korlátozással – elbocsátással akkor szüntethető meg, ha
+(2) Az Egyetem a hallgatói jogviszonyt – az Nftv.-ben foglaltakon túlmenően, valamint a (4) és (5) bekezdésben foglalt korlátozással – megszünteti, ha
 
 - a) az Egyetemen a hallgató által látogatott szak vagy szakirány oktatása megszűnt,
-- b) a hallgató – ide nem értve a honvéd tisztjelöltet – körülményeiben olyan változás állt be, amelynek következtében már nem felel meg a felvételkor támasztott alkalmassági követelményeknek,
-- c) a hallgató a tanulmányi kötelezettségét a tanulmányi és vizsgaszabályzatban megengedett mértéket meghaladóan önhibájából nem teljesítette,
-- d) a honvéd tisztjelölti jogviszonyra figyelemmel létesített hallgatói jogviszony esetén a honvéd tisztjelölti jogviszony megszűnt, vagy
-- e) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt,
-- f) pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszony alapján létesített hallgatói jogviszony esetén a szolgálati jogviszony megszűnt.
+- b) a hallgató körülményeiben olyan változás állt be, amelynek következtében már nem felel meg a felvételkor támasztott alkalmassági követelményeknek,
+- c) a tisztjelölti jogviszonyra figyelemmel létesített hallgatói jogviszony esetén a tisztjelölti jogviszony megszűnt,
+- d) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt,
+- e) pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszony alapján létesített hallgatói jogviszony esetén a szolgálati jogviszony megszűnt, vagy
+- f) rendvédelmi igazgatási jogviszony alapján létesített hallgatói jogviszony esetén a rendvédelmi igazgatási jogviszony megszűnt.
 
-(3) Az Egyetem az elbocsátást köteles megindokolni. Az indokolásból az elbocsátás okának világosan ki kell tűnnie, továbbá szükség esetén az Egyetemnek kell bizonyítania, hogy az elbocsátás indoka valós és okszerű.
+(3) Az Egyetem a hallgatói jogviszony (2) bekezdés szerinti megszüntetését köteles megindokolni. Az indokolásból a megszüntetés okának világosan ki kell tűnnie.
 
-(4) A hallgató a (2) bekezdés a) és b) pontja alapján csak akkor bocsátható el, ha az Egyetemen belül más szakra, illetve szakirányra nem vehető át, vagy ha az átvételt a hallgató nem vállalta. Fentiekre nem hivatkozhat a hallgató, ha a (2) bekezdés b) pontja szerinti körülményváltozás neki felróható.
+(4) A hallgató jogviszonya a (2) bekezdés a) és b) pontja alapján csak akkor szüntethető meg, ha az Egyetemen belül más szakra, illetve szakirányra nem vehető át, vagy ha az átvételt a hallgató nem vállalta. Fentiekre nem hivatkozhat a hallgató, ha a (2) bekezdés b) pontja szerinti körülményváltozás neki felróható.
 
-(5) A hallgató a (2) bekezdés d) pontja alapján csak akkor bocsátható el, ha az Egyetemen belül más szakra, illetve szakirányra nem vehető át, vagy ha az átvételt a hallgató nem vállalta. Erre nem hivatkozhat a hallgató, ha a honvéd tisztjelölti jogviszonya amiatt került megszüntetésre, mert
+(5) A hallgató jogviszonya a (2) bekezdés c) pontja alapján csak akkor szüntethető meg, ha az Egyetemen belül más szakra, illetve szakirányra nem vehető át, vagy ha az átvételt a hallgató nem vállalta. Erre nem hivatkozhat a hallgató, ha a tisztjelölti jogviszonya amiatt került megszüntetésre, mert
 
 - a) egészségi, pszichikai vagy fizikai állapota miatt a szolgálatra alkalmatlanná vált, és e körülményváltozás neki felróható, vagy
 - b) nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált.
@@ -422,7 +467,7 @@ kezeli.
 
 (2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. Az igazságügyért felelős miniszter, a rendészetért felelős miniszter, a felnőttképzésért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, valamint a külpolitikáért felelős miniszter az Egyetemmel kötött megállapodás alapján kiegészítő jelleggel költségvetési támogatást biztosíthat az általa vezetett minisztérium költségvetési fejezetében.
 
-36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
+36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – a beiskolázó szerv éves költségvetésében kell biztosítani.
 
 (2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
 
@@ -430,7 +475,7 @@ kezeli.
 
 (4) Az Egyetem költségvetésében kell biztosítani
 
-- a) az (1) bekezdés kivételével, valamint a rendészeti igazgatási alapképzési szak biztonsági szakirányán a hallgatói juttatások és a doktori képzésben részt vevők támogatásának fedezetét,
+- a) az (1) bekezdés kivételével, valamint a rendészeti igazgatási alapképzési szak biztonsági szakirányán, valamint a magánbiztonsági alapképzési szakon a hallgatói juttatások és a doktori képzésben részt vevők támogatásának fedezetét,
 - b) az Egyetem engedélyezett költségvetési létszámának személyi juttatásait,
 - c) az egyéb személyi jellegű juttatások költségeit,
 - d) a (2) bekezdés kivételével az Egyetem teljes működésének költségeit a feladatellátás alapján,
@@ -453,6 +498,33 @@ kezeli.
 
 39. § A minősített adatot tartalmazó tananyaghordozók, dokumentációk, könyvtári segédletek minősítése és megismerése a minősített adat védelmére vonatkozó jogszabályok alapján az Egyetem minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint történhet.
 
+### VII/A. Fejezet — A TANÁRKÉPZÉSRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+
+39/A. § (1) Az Egyetemen oktatói, tanári vagy kutatói munkakörben foglalkoztatottak, valamint az Egyetemen munkakört be nem töltő, de az Egyetem felsőoktatási tevékenységében bármely jogviszony keretében részt vevő személyek – az Egyetem foglalkoztatási követelményrendszerében meghatározottak szerint – az Egyetem által fenntartott vagy az Egyetemmel erre is kiterjedő megállapodást kötött köznevelési intézményekben köznevelési alapfeladattal, illetve azt közvetlenül segítő feladattal összefüggő feladatot is végezhetnek, amelynek díjazását a munkáltató az ellátandó feladatokra tekintettel és minőségi elvek szerint határozza meg. Az Egyetem e bekezdés szerinti foglalkoztatottjai oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek.
+
+(2) Az Egyetem által folytatott tanárképzés tekintetében kormányrendelet
+
+- a) az Egyetem (1) bekezdés szerinti azon foglalkoztatottjai vonatkozásában, akik a köznevelés területén köznevelési alapfeladattal, illetve azt közvetlenül segítő feladattal összefüggő feladatot is végeznek, az Nftv. tanításra fordított időre vonatkozó, valamint
+- b) az Nftv. tanárképzés szervezésére vonatkozó
+
+szabályaitól eltérő szabályokat határozhat meg.
+
+(3) Az Egyetem által fenntartott köznevelési intézményben köznevelési foglalkoztatotti jogviszonyban foglalkoztatottak az Egyetemmel további feladatok ellátására munkaviszonyt vagy közalkalmazotti jogviszonyt is létesíthetnek. A Kjt. 43. § (1) bekezdésétől és 44. § (1) bekezdésétől eltérően az Egyetemmel közalkalmazotti jogviszonyban álló személy nem köteles a munkáltató engedélyét kérni vagy bejelentést tenni, ha az Egyetem által fenntartott köznevelési intézményben köznevelési foglalkoztatotti jogviszonyt létesít.
+
+(4) A pedagógusképzés képzési területhez tartozó alap-, osztatlan vagy mesterképzések tekintetében az Egyetem – a fokozottan gyakorlatorientált képzési program érdekében – az általa indított tanárképzésekre vonatkozóan eltérő képzési és kimeneti követelményeket, valamint a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló miniszteri rendeletben és a tanárképzés rendszeréről, a szakosodás rendjéről és a tanárszakok jegyzékéről szóló kormányrendeletben foglaltaktól eltérő szabályokat határozhat meg (a továbbiakban együtt: eltérő követelmények).
+
+(5) A hallgató az Egyetem által indított osztatlan tanárképzésben a mesterfokozat és a tanári szakképzettség megszerzésével, valamint az Egyetem által meghatározott tartalmú – többletkreditet jelentő, a központi felvételi eljáráson kívül a tanárszakkal párhuzamosan felvett – modul elvégzésével a tanárképzés szakterülete szerinti alapfokozatokat és bölcsész szakképzettségeket is megszerzi.
+
+(6) Az Egyetem a pedagógusképzés képzési területéhez tartozó tanárképzés, óvodapedagógus alapképzés, tanító alapképzés, továbbá a bölcsészettudomány képzési területhez tartozó alap- és mesterképzés indítását a felsőoktatási intézmények nyilvántartását vezető szervnél (a továbbiakban: oktatási hivatal) a képzés indításának évét megelőző év október 30. napjáig kezdeményezi a képzés megnevezésének a bejelentésével (a továbbiakban: kérelem). A (4) bekezdés szerinti eltérő követelmények alkalmazása esetén a kérelemnek részét képezik az eltérő követelmények. A kérelemhez mellékelni kell a képzés indításáról – a (4) bekezdés szerinti eltérő követelmények alkalmazása esetén továbbá az eltérő követelményekről – hozott szenátusi döntésnek az Egyetem rektora vagy az általa megbízott személy által aláírt kivonatát és a fenntartó egyetértő nyilatkozatát. A kérelemhez nem kell mellékelni a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben a képzés indítására irányuló kérelemhez mellékletként meghatározott dokumentumokat. Az oktatási hivatal a képzés indítását, valamint az eltérő követelményeket a Magyar Felsőoktatási Akkreditációs Bizottság szakvéleményének beszerzése nélkül, az Egyetem kérelmében foglaltak szerint nyilvántartásba veszi. Az Egyetem a képzés nyilvántartásba vételét követő 3 éven belül köteles beszerezni a Magyar Felsőoktatási Akkreditációs Bizottság vagy az Nftv. 67. § (4b) bekezdése szerinti szervezet szakvéleményét. Az Egyetem a képzés indítását megelőzően megküldi a képzés tantervét az oktatási hivatal részére és azt közzéteszi honlapján. Az oktatási hivatal a képzés eltérő követelményeit a nyilvántartásba vétellel egyidejűleg nyilvánosan elérhetővé teszi.
+
+(7) A hallgató és az Egyetem további képzési jogviszonyt létesíthet a központi felvételi eljáráson kívül az osztatlan tanárszakkal párhuzamosan felvett, a tanárszak szakterületével összefüggő alapképzési szakra.
+
+(8) A (7) bekezdésben meghatározott esetben:
+
+- a) nem kell alkalmazni az Nftv. 49. § (7) bekezdésében meghatározott, a képzés kreditértéke legalább harmadának az adott intézmény adott képzésén történő megszerzésére vonatkozó előírást,
+- b) a támogatási idő számításakor nem kell figyelembe venni az alapképzési szakon a tanárképzéssel párhuzamosan igénybe vett félévet, valamint
+- c) ha a képzési és kimeneti követelmények lehetővé teszik, a hallgató a tanulmányait egyidejűleg a tanárszakon és az alapképzési szakon egy közös komplex záróvizsgával is befejezheti.
+
 ### VIII. Fejezet — A FELSŐOKTATÁS FELÜGYELETE
 
 40. § (1) Felügyeletet gyakorló miniszter
@@ -467,15 +539,15 @@ kezeli.
 
 41. § (1)
 
-(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
+(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára az államtudományi képzési terület tekintetében az alap-, osztatlan és mesterképzésekre az adott évben felvehető hallgatói létszámkeretet.
 
 (3)
 
 (4) Az adott szakra történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a felügyeletet gyakorló miniszter határozata állapítja meg.
 
-42. § A felsőoktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
+42. § A felsőoktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az államtudományi képzési terület vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
 
-43. § Az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását a Kormány rendeletben szabályozza.
+43. § Az államtudományi képzési terület vonatkozásában az alap-, osztatlan és mesterképzési szakokat, az oklevéllel tanúsított végzettséget, szakképzettséget és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását, az államtudományi képzési terület, valamint annak részterületei közös szakmai kompetenciáit, továbbá a szakok képzési és kimeneti követelményeit a Kormány rendeletben szabályozza.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -486,12 +558,12 @@ kezeli.
 - a) a Tanácsadó Testület és a Fenntartó hivatala működésének szabályait,
 - b) az Egyetem gazdálkodásának, finanszírozásának különös szabályait, valamint
 - c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes térítésekkel kapcsolatos szabályokat,
-- d) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait
-- e) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását.
+- d) az államtudományi képzési terület alap-, osztatlan és mesterképzései vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait
+- e) az államtudományi képzési terület vonatkozásában az alap-, osztatlan és mesterképzési szakokat, az oklevéllel tanúsított végzettséget, szakképzettséget és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását, az államtudományi képzési terület, valamint annak részterületei közös szakmai kompetenciáit, továbbá a szakok képzési és kimeneti követelményeit,
 
 (2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
 
-- a) az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
+- a) az államtudományi képzési terület alap-, osztatlan és mesterképzései vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 - b) az Egyetemre történő felvétel különös feltételeit, valamint
 - c) a 33/A. § hatálya alá nem tartozó külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
 - d)
@@ -528,6 +600,28 @@ kezeli.
 
 (2) Ha az (1) bekezdés szerinti átruházáshoz kapcsolódóan a cégbíróságon változás bejelentése szükséges, az mentes az illeték- és közzétételi költségtérítés megfizetése alól.
 
+51/B. § (1) Az Országgyűlés úgy rendelkezik, hogy a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló, a 2. melléklet B) része szerinti ingatlanok e törvény erejénél fogva az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény (a továbbiakban: Módtv.4.) hatálybalépésének napjával, a 2. melléklet A) része szerinti ingatlanok a Módtv.4. hatálybalépését követő 60. napon köznevelési, valamint felsőoktatási feladatokkal összefüggő tevékenység ellátása céljára az állam tulajdonába kerülnek (a továbbiakban együtt: ingatlanok).
+
+(2) Az ingatlanok forgalmi értékét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság független értékbecslő bevonásával, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság választása szerint piaci összehasonlító adatok elemzésén, hozamszámításon alapuló vagy költségalapú értékelési módszer alkalmazásával állapítja meg és téríti meg a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat számára kártalanítás jogcímen a Módtv.4. hatálybalépésének napjától számított 80. napig.
+
+(3) Az ingatlanokhoz kapcsolódó közfeladatok ellátása részeként az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését az állam az Egyetem útján látja el. E törvény erejénél fogva az Egyetemet ingyenes vagyonkezelői jog illeti meg az ingatlanokon, amely az állam tulajdonjogának bejegyzésével egyidejűleg jön létre. Az Egyetem vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
+
+(4) Az ingatlanügyi hatóság az Egyetem (3) bekezdés szerinti vagyonkezelői jogát az Egyetem kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárására a Ptk. 5:167. §-át nem kell alkalmazni.
+
+(5) A tulajdonosváltozáskor az ingatlanokat érintő Budapest Főváros VIII. kerület Józsefváros Önkormányzata vagy más – így különösen a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló vagy képviseletében eljáró gazdasági társaság – által kötött használati, bérleti, vagyonkezelési vagy egyéb szerződések a vagyonkezelésbe kerülést követő 180 napon belül e törvény erejénél fogva megszűnnek, kivéve, ha ezen időtartam lejárta előtt az Egyetem akként nyilatkozik, hogy a szerződésben Budapest Főváros VIII. kerület Józsefváros Önkormányzata vagy más helyébe lép.
+
+(6) Az (5) bekezdésben foglaltak szerint megszűnő bérleti, vagyonkezelési vagy egyéb szerződések alapján a jogosult részére a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat 2025. január 31-ig a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Ltv.) 26. § (1)–(4) bekezdésében foglalt tulajdonságokkal rendelkező cserelakást ajánl fel. A bérleti, vagyonkezelési vagy egyéb szerződés ez esetben csak akkor szűnik meg, ha azt a jogosult a felajánlás közlését követő 75 napon belül nem fogadja el vagy – amennyiben a cserelakás felajánlására vonatkozó kötelezettségének az önkormányzat nem tesz eleget – az állam által felajánlott cserelakást a felajánlás állam általi közlését követő 75 napon belül nem fogadja el. Ezen esetekben a lakásbérlet, vagyonkezelési vagy egyéb jogviszony a felajánlás közlését követő 91. napon megszűnik.
+
+(7) A (6) bekezdésben foglalt esetben az Ltv. 23/A. § (4) bekezdését megfelelően alkalmazni kell azzal, hogy a korábbi bérleményhez hasonló lakás bérleti díja különbözetének megtérítését, illetve a kártalanítást a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat számára az állam a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján megtéríti.
+
+(8) Az Egyetem vagyonkezelői jogának gyakorlása – ideértve az ingatlanok birtoklását, használatát, hasznosítását is – közfeladat-ellátásnak minősül, és az ebből származó bevételeit a (3) bekezdés szerinti, valamint törvényben meghatározott egyéb közfeladatai ellátására fordíthatja.
+
+(9) Az ingatlanok tekintetében e § hatálybalépésének napjától az állami vagyon felügyeletéért felelős miniszter a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+
+(10) Az Egyetem által az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – ideértve a megvalósításhoz kapcsolódó hatósági eljárásokat is – az előzetes – különösen az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részéről adandó – tulajdonosi hozzájárulást, jóváhagyást, engedélyt megadottnak kell tekinteni.
+
+51/D. § Az Egyetem fenntartója határozza meg, hogy a 2. mellékletben meghatározott, az Egyetem vagyonkezelésébe került ingatlanok közül melyek kerülnek felsőoktatási cél érdekében hasznosításra.
+
 52. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 36. §-át első alkalommal a 2014. évi költségvetés tervezése során kell alkalmazni.
 
 53. § Az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel (a továbbiakban: Módtv. 2.) megállapított 21/A. § (5) és (6) bekezdést alkalmazni kell a 2012/2013. tanévben vagy azt követően tanulmányaikat nem önköltséges formában megkezdő hallgatók tekintetében is, ide nem értve a rendészeti ösztöndíjas, valamint a tisztjelölti, hivatásos vagy szerződéses jogviszonyban álló hallgatókat. A tanulmányaikat a 2012/2013. tanévet megelőzően nem költségtérítéses formában megkezdett, nem rendészeti ösztöndíjas, valamint honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban nem álló hallgatók tekintetében az átsorolásra a felsőoktatásról szóló 2005. évi CXXXIX. törvényben foglaltak szerint kerül sor.
@@ -549,4 +643,69 @@ képzésekre.
 
 56. § Az 55. §-hoz kapcsolódóan, a felügyeletet gyakorló miniszter az általa felügyelt felsőoktatás vonatkozásában meghatározza a 41. § (2) bekezdés szerint megállapított létszámkereten belül a hallgatói létszámok intézményenkénti és – az Egyetem kivételével – szakonkénti elosztását.
 
-### Melléklet a 2011. évi CXXXII. törvényhez
+57. § A Módtv.4.-gyel megállapított 16/J. § (2) bekezdésének hatálybelépésekor közalkalmazotti jogviszonyban állók a 16/J. § (2) bekezdésében foglalt kötelezettségüket a Módtv.4. hatálybalépését követő 15 napon belül kötelesek teljesíteni.
+
+#### 6. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+58. § Az 1/E. § az Alaptörvény VII. cikk (5) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+### 1. melléklet a 2011. évi CXXXII. törvényhez
+
+#### A tanártovábbképzés és a köznevelésért felelős miniszter által előírt képzések végrehajtása érdekében kezelt személyes adatok
+
+#### E törvény alapján nyilvántartott adatok:
+
+#### A tanártovábbképzésen és a köznevelésért felelős miniszter által előírt képzésen résztvevők:
+
+- 1. családi és utóneve, születési családi és utóneve,
+- 2. születési helye, ideje,
+- 3. anyja születési családi és utóneve,
+- 4. lakóhelye, lakáscíme, tartózkodási helye, telefonszáma,
+- 5. fizetési számlaszáma,
+- 6. e-mail-címe,
+- 7. ügyfélkapu elérhetősége,
+- 8. legmagasabb iskolai végzettsége, több végzettség esetén valamennyi,
+- 9. szakképzettségei, szakirányú továbbképzésben szerzett végzettség adatai,
+- 10. iskolarendszeren kívüli oktatás keretében szerzett szakképesítései, valamint meghatározott munkakör betöltésére jogosító okiratok adatai,
+- 11. tudományos fokozata,
+- 12. idegennyelv-ismerete,
+- 13. pedagógus-továbbképzésre, valamint a köznevelésért felelős miniszter által előírt képzésre vonatkozó adatai,
+- 14. a korábbi munkahelyek és a munkaviszony jellegű jogviszony típusának, kezdő és befejező időpontjának megnevezése,
+- 15. szakmai gyakorlati idők a betöltött munkakör vagy óraadói megbízás megjelölésével,
+- 16. jogviszonya határozott idejének lejárta vagy határozatlan időtartama,
+- 17. munkaköre, FEOR-száma,
+- 18. a köznevelési foglalkoztatotti jogviszonyban álló jelenlegi besorolása, besorolásának időpontja, következő minősítésének esedékessége,
+- 19. vezetői megbízása,
+- 20. oktatási azonosító száma,
+- 21. pedagógusigazolványának száma,
+- 22. munkáltatójának neve, székhelye, statisztikai számjele,
+- 23. feladatellátási helye,
+- 24. tanártovábbképzésen és a köznevelésért felelős miniszter által előírt képzésen keletkezett további személyes és különleges adatai.
+
+### 2. melléklet a 2011. évi CXXXII. törvényhez
+
+#### Az Egyetem közfeladatellátásának elősegítése érdekében állami tulajdonba kerülő ingatlanok
+
+#### A)
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |
+| 2 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 3 | Budapest | 35979 | 1/1 | kivett lakóház, udvar |
+| 4 | Budapest | 35981 | 1/1 | kivett lakóház, udvar |
+| 5 | Budapest | 35982 | 1/1 | kivett lakóház, udvar, gazdasági épület |
+| 6 | Budapest | 35983 | 1/1 | kivett lakóház, udvar, gazdasági épület |
+| 7 | Budapest | 35996 | 1/1 | kivett lakóház, udvar |
+| 8 | Budapest | 35999 | 1/1 | kivett lakóház, udvar |
+| 9 | Budapest | 36035 | 1/1 | kivett lakóház, udvar |
+| 10 | Budapest | 36048 | 1/1 | kivett lakóház, udvar |
+
+#### B)
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |
+| 2 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 3 | Budapest | 36002 | 1/1 | kivett udvar és egyéb épület |
+| 4 | Budapest | 36034 | 1/1 | kivett általános iskola |

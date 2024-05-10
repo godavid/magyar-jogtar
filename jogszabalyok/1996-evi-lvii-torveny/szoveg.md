@@ -89,7 +89,10 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 ### IV. Fejezet — A gazdasági versenyt korlátozó megállapodás tilalma
 
-11. § (1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha egymástól nem független vállalkozások között jön létre.
+11. § (1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha
+
+- a) egymástól nem független vállalkozások között jön létre, vagy
+- b) a vállalkozás és az azt közösen irányító egyik vállalkozás között jön létre, és kizárólag azokon az érintett piacokon tanúsított magatartással kapcsolatos, amelyeken a közösen irányított vállalkozás működik.
 
 (2) Ez a tilalom vonatkozik különösen:
 
@@ -104,7 +107,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 (3) Azokat a jogkövetkezményeket, amelyeket e törvény az (1) bekezdésben meghatározott tilalom megszegéséhez fűz, együttesen kell alkalmazni a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) a jogszabályba ütköző szerződésre előírt jogkövetkezményekkel.
 
-#### 12. §
+12. § E törvény alkalmazásában kartell a versenytársak közötti olyan megállapodás vagy összehangolt magatartás, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is.
 
 13. § (1) Nem esik a tilalom alá a megállapodás, ha csekély jelentőségű.
 
@@ -117,7 +120,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 (2b) A (2) bekezdés a), illetve b) pontja szerinti küszöbértéket meg nem haladó piaci részesedésnek a megállapodás hatályának időtartama alatt, ha pedig az egy évnél hosszabb, minden naptári évben teljesülnie kell.
 
-(3) Nem alkalmazható az (1) bekezdés a versenytársak közötti olyan megállapodásra vagy összehangolt magatartásra, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is (a továbbiakban: kartell), valamint bármely közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére irányuló más megállapodásra vagy összehangolt magatartásra.
+(3) Nem alkalmazható az (1) bekezdés a versenytársak közötti olyan megállapodásra, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is, valamint bármely közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére irányuló más megállapodásra.
 
 (4) Az (1)–(3) bekezdéstől eltérően a tilalom alá esik a megállapodás, ha annak és az érintett piacon érvényesülő további hasonló megállapodásoknak az együttes hatásaként a verseny jelentős mértékben megakadályozódik, korlátozódik vagy torzul.
 
@@ -2570,6 +2573,12 @@ végrehajtási eljárásokra is alkalmazni kell.
 95/L. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házastársának, élettársának, továbbá gyermekének vagyonnyilatkozatát is.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+95/M. § A 88/T. §-t a 95/E. § (4) bekezdésében meghatározottakon kívül a Módtv3. hatálybalépését megelőzően tanúsított versenyjogi jogsértéssel okozott károkozó magatartás esetén is alkalmazni kell, ha
+
+- a) a versenyjogi jogsértést a Gazdasági Versenyhivatal vagy az Európai Bizottság versenyjogi jogsértést megállapító, a Módtv3. hatálybalépését követően hozott határozata állapítja meg,
+- b) az elévülési idő a Módtv3. hatálybalépésekor még nem telt el, és
+- c) a keresetet az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követően nyújtották be.
 
 ### Felhatalmazó rendelkezések
 
