@@ -2398,6 +2398,10 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 
 (2) A képviselő-testület a 2023. évi CXIV. törvény hatályba lépését megelőzően elfogadott 2024. évi költségvetési rendeletét a 25. § (1) bekezdés szerinti határidőig a 23. § (2a) és (2b) bekezdése szerint módosítja
 
+111/R. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 244/K. § (1) bekezdése szerinti járóbeteg-szakellátási feladatátalakítás tekintetében, ha a 11/A. § (1) bekezdése szerinti gazdasági társaság járóbeteg-szakellátási feladat mellett egyéb feladatot is ellát, a gazdasági társaság megszüntetésére nem kerül sor.
+
+(2) Az (1) bekezdést a folyamatban lévő járóbeteg-szakellátási feladatellátások költségvetési szerv általi átvétele esetében is alkalmazni kell.
+
 #### 74. Az Európai Unió jogának való megfelelés
 
 112. § A 13. §, a 22–24. §, a 29. §, a 29/A. §, a 90. § (3) bekezdés f) pontja és a 103. § (4) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.

@@ -231,7 +231,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 
 (7) Az (1) bekezdés h)–j) pontja alkalmazásában azon ajánlatkérők esetében, amelyeknél az éves nettó árbevétel nem értelmezhető, az ajánlatkérő vagy az ajánlatkérő által kontrollált más jogi személy részére végzett tevékenységek ellátásának arányát az azzal kapcsolatban a szerződéskötést megelőző három évben felmerült költségek alapulvételével kell megállapítani. Amennyiben a szerződés megkötését megelőző három évre vonatkozó adatok nem állnak rendelkezésre, az ajánlatkérőnek valószínűsítenie kell – elsősorban hiteles üzleti tervének bemutatásával – az említett adatokat.
 
-(8) E törvényt – ha a beszerzés tárgya szolgáltatás megrendelése – nem kell alkalmazni az alábbi esetekben:
+(8) E törvényt – amennyiben a beszerzés tárgya szolgáltatás megrendelése – nem kell alkalmazni az alábbi esetekben:
 
 - a) meglévő építmény vagy egyéb ingatlan vétele, illetve az arra vonatkozó egyéb jog megszerzése;
 - b) audiovizuális vagy rádiós médiaszolgáltató olyan beszerzése, amelynek tárgya audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vétele, fejlesztése, előállítása, illetve audiovizuális vagy rádiós médiaszolgáltatók általi közös előállítása; valamint a reklám és társadalmi célú reklám kivételével bármely ajánlatkérőnek az audiovizuális vagy rádiós médiaszolgáltatótól megrendelt műsorszám szolgáltatására vagy műsoridőre vonatkozó szerződése, továbbá az audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vételére, fejlesztésére, előállítására, közös előállítására vagy műsoridő vásárlásra vonatkozó szerződések;
@@ -3859,7 +3859,7 @@ Amennyiben a CPV és a NACE értelmezésében különbség áll fenn, a CPV-nóm
 
 5K20155_0
 
-| NACE Rev. 12 |  |  |  |  | CPVkód |
+| NACE Rev. 12 |  |  |  |  | CPV kód |
 | --- | --- | --- | --- | --- | --- |
 | F. ÁGAZAT |  |  | ÉPÍTŐIPAR |  |
 | Osztály | Csoport | Alcsoport | Tárgy | Megjegyzések |
@@ -3880,7 +3880,7 @@ Amennyiben a CPV és a NACE értelmezésében különbség áll fenn, a CPV-nóm
 |  |  | 45,34 | Egyéb épületgépészeti szerelés | Ez az alcsoport az alábbiakat foglalja magában: – utak, vasutak, repülőterek és kikötők világítási és jelzőrendszerének szerelése, – máshová be nem sorolt szerelvények és berendezési tárgyak beszerelése épületekbe vagy egyéb építményekbe. | 45234115 45316000 45340000 |
 |  | 45,4 |  | Befejező építés |  | 45400000 |
 |  |  | 45,41 | Vakolás | Ez az alcsoport az alábbiakat foglalja magában: – külső és belső vakolat vagy stukkó alkalmazása épületekben vagy egyéb építményekben, beleértve az ehhez szükséges vakolattartó anyagokat. | 45410000 |
-|  |  | 45,42 | Épületasztalos-munka | Ez az alcsoport az alábbiakat foglalja magában: – fából vagy egyéb anyagból készült, nem saját gyártású ajtók, ablakok, ajtó- és ablakkeretek, beépített konyhák, lépcsők, üzletberendezések és hasonlók beszerelése, – belső befejező munkálatok, például mennyezetek, fából készült falburkolatok, mozgatható térelválasztók, stb. Ez az alcsoport nem tartalmazza az alábbiakat: – parketta és egyéb, fából készült padlóburkoló anyagok lefektetése, lásd 45.43. | 45420000 |
+|  |  | 45,42 | Épületasztalos- munka | Ez az alcsoport az alábbiakat foglalja magában: – fából vagy egyéb anyagból készült, nem saját gyártású ajtók, ablakok, ajtó- és ablakkeretek, beépített konyhák, lépcsők, üzletberendezések és hasonlók beszerelése, – belső befejező munkálatok, például mennyezetek, fából készült falburkolatok, mozgatható térelválasztók, stb. Ez az alcsoport nem tartalmazza az alábbiakat: – parketta és egyéb, fából készült padlóburkoló anyagok lefektetése, lásd 45.43. | 45420000 |
 |  |  | 45,43 | Padló- és falburkolás | Ez az alcsoport az alábbiakat foglalja magában: a következők lefektetése, burkolóanyagként való alkalmazása, felfüggesztése vagy rögzítése épületekben vagy egyéb építményekben: – kerámiából, betonból vagy csiszolt kőből készült fal-, illetve padlóburkoló lapok, – parketta és egyéb, fából készült padlóburkolat, – szőnyegek és linóleumból készült padlóburkoló anyagok, a gumit és a műanyagot is beleértve, – mozaik, márvány, gránit vagy pala padló- vagy falburkolatok, – tapéta. | 45430000 |
 |  |  | 45,44 | Festés és üvegezés | Ez az alcsoport az alábbiakat foglalja magában: – az épületek belső és külső festése, – mélyépítési szerkezetek festése, – üveg, tükör stb. szerelése. Ez az alcsoport nem tartalmazza az alábbiakat: – ablakok beillesztése, lásd 45.42. | 45440000 |
 |  |  | 45,45 | Egyéb befejező építés | Ez az alcsoport az alábbiakat foglalja magában: – magán-úszómedencék építése, – tisztítás gőzsugárral, homoksugár-fúvatás és hasonló kültéri munkák, – egyéb, máshová be nem sorolt befejező építési munkák. Ez az alcsoport nem tartalmazza az alábbiakat: – épületek és egyéb építmények belső tisztítása, lásd 74.70. | 45212212 és DA04 45450000 |

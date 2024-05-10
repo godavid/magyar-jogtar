@@ -393,7 +393,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 36. § (1) Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet
 
 - a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
-  - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként ellátott tevékenységet is –, illetve ha nevelőszülői foglalkoztatási jogviszonyban áll;
+  - aa) ha ezen megbízatás keretében karitatív, tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként ellátott tevékenységet is –, illetve ha nevelőszülői foglalkoztatási jogviszonyban áll;
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
   - ac) az állam által alapított vagy tulajdoni részesedésével működő gazdálkodó szervezet felügyelőbizottságának vagy ügyvezetésének tagja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
@@ -1652,7 +1652,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (4) A képviselő-testület a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően 2024. október 1-jéig nem dönthet a képviselő-testület feloszlásáról.
 
-146/K. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, módosítása során kell alkalmazni.
+146/K. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, illetve módosítása során kell alkalmazni.
 
 (2) A Módtv1.-gyel megállapított 111. § (4a)–(4k) bekezdését akkor is alkalmazni kell, ha a képviselő-testület a Módtv1. hatályba lépését megelőzően elfogadott 2024. évi költségvetési rendeletét az államháztartásról szóló 2011. évi CXCV. törvény 25. § (1) bekezdés szerinti határidőig az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdés szerinti tartalommal nem módosítja.
 
