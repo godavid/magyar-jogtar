@@ -126,7 +126,7 @@ A kizárólag szakképző intézményben szakmai oktatás keretében elsajátít
 
 #### 12. § [A szakmai program]
 
-A szakképző intézményben a nevelő és oktató munka a képzési és kimeneti követelményekre figyelemmel kidolgozott szakmai program alapján folyik. Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szakmai programjába beépíthető az adott vallás hitelveinek megfelelő ismeret. Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szakmai programja a fenntartó jóváhagyásával válik érvényessé.
+A szakképző intézményben a nevelő és oktató munka a képzési és kimeneti követelményekre figyelemmel kidolgozott szakmai program alapján folyik. Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szakmai programjába beépíthető az adott vallás hitelveinek megfelelő ismeret. A szakmai oktatáshoz kapcsolódóan a tanuló vagy képzésben részt vevő személy kérelmére a szakképző intézmény a tanulási eredmény igazolására szolgáló, tárgyleírást (tematikát) is tartalmazó mikrotanúsítványt állít ki a tanulmányi rendszeréből a kérelemben szereplő sikeresen elvégzett szakmai tantárgyról. A szakképző intézmény által kiállított a tanulási eredményt igazoló mikrotanúsítvány, a felsőoktatási intézmény kreditátviteli bizottságának pozitív döntése esetén, az intézmény felsőfokú tanulmányaiba a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) szabályai szerint beszámítható.
 
 #### 13. § [A programkövetelmény és a szakmai képzés képzési programja]
 
@@ -150,6 +150,8 @@ A szakképző intézményben a nevelő és oktató munka a képzési és kimenet
 - b) az akkreditált vizsgaközpont által a szakmai oktatás, illetve a szakmai képzés befejezésének időpontját követő harmadik hónap utolsó napjáig meghirdetett szakmai vizsga vagy képesítő vizsga,
 
 a szakmai vizsga és a képesítő vizsga megszervezéséről az országos központi akkreditált vizsgaközpont gondoskodik.
+
+(3) A szakképző intézménynek a szakképzésért felelős miniszter engedélyével az Európai Unió valamely tagállamában lévő helyszínre kihelyezett szakmai oktatása vagy szakmai képzése lezárásaként a szakmai, illetve képesítő vizsga vagy e vizsga egyes vizsgatevékenységei a kihelyezett helyszínen is megszervezhetőek.
 
 #### 15. § [Az oklevél, a szakmai bizonyítvány és a képesítő bizonyítvány]
 
@@ -356,7 +358,7 @@ alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerin
 
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
-(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit alapító okirata alapján, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény alapító okirata alapján, más nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás ilyen rendelkezése esetén gyakorolhatja.
+(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit alapító okirata alapján, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény alapító okirata alapján, más nem állami felsőoktatási intézmény az Nftv. 84. § (3) bekezdése szerinti megállapodás ilyen rendelkezése esetén gyakorolhatja.
 
 (4)
 
@@ -1661,7 +1663,7 @@ is megszervezhető azzal, hogy akkreditált vizsgaközpont alatt az ilyen szakk�
 
 #### 126. § [A korábbi képesítések elismerése]
 
-A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképzettséget tanúsít a 2020. szeptember 1-jét megelőzően, valamint a 125. § (1) bekezdése és az Fktv. 30. § (3) bekezdése alapján kifutó jelleggel szervezett oktatás, képzés keretében megszerzett államilag elismert szakképesítést igazoló bizonyítvány. A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképesítést tanúsít a 2020. szeptember 1-jét megelőzően, valamint a 125. § (1) bekezdése és az Fktv. 30. § (3) bekezdése alapján kifutó jelleggel szervezett oktatás, képzés keretében megszerzett államilag elismert részszakképesítést igazoló bizonyítvány.
+A bizonyítványban, oklevélben vagy az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény (a továbbiakban: MódTv2.) hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképzettséget tanúsít a MódTv2. hatálybalépését megelőzően szervezett állami vizsga keretében megszerzett államilag elismert szakmát, szakképesítést, részszakképesítést, részszakmát igazoló bizonyítvány vagy oklevél.
 
 #### 127. § [A szakképző intézményre vonatkozó szabályozási átmenet]
 

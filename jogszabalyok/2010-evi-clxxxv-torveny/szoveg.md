@@ -3846,6 +3846,8 @@ rendeletben megállapítsa.
 
 215/C. § A közszolgálati médiaszolgáltató és az Alap érintett munkavállalóinak munkaszerződéseit módosítani kell annak érdekében, hogy megfeleljenek a 108/B. §-ban foglalt előírásoknak. A módosításra irányuló tárgyalásokat 2015. március 31-ig le kell zárni. Amennyiben a felek a munkaszerződések módosítása tárgyában ezen időpontig nem tudnak megállapodni, akkor a munkaszerződésekre 2015. április 1. napjától megfelelően alkalmazni kell a 108/B. §-ban foglaltakat.
 
+215/D. § Az N.S. Média és Vagyonkezelő Korlátolt Felelősségű Társaság részesedése vonatkozásában az államot megillető tulajdonosi jogok és kötelezettségek összességét az Alap gyakorolja.
+
 ### A Hatóságra és eljárására vonatkozó átmeneti szabályok
 
 216. § (1) Az e törvény hatálya alá tartozó, a Médiatanács vagy a Hivatal előtt folyamatban lévő eljárásokban e törvény hatálybalépése után – a (2)–(5) bekezdésben foglalt kivétellel – e törvény szabályait kell alkalmazni.

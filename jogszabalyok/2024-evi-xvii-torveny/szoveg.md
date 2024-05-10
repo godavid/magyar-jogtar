@@ -1,0 +1,350 @@
+# 2024. évi XVII. törvény
+
+az igazságügyi tárgyú törvények módosításáról
+
+#### 1. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
+
+#### 1. §
+
+2. § A közjegyzőkről szóló 1991. évi XLI. törvény 24/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A közjegyző közjegyzői szolgálata szünetel)
+
+„a) ha a közjegyzőt országgyűlési, helyi önkormányzati, nemzetiségi önkormányzati képviselőjelöltként, illetve polgármesterjelöltként nyilvántartásba vették, ettől az időponttól a választás eredményének jogerős megállapításáig, illetve megválasztása esetén mandátuma megszűnéséig, továbbá a helyi önkormányzati vagy nemzetiségi önkormányzat bizottságában betöltött nem képviselői tagság időtartama alatt,”
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+6. § A közjegyzőkről szóló 1991. évi XLI. törvény
+
+- a)
+- b)
+- c)
+- d)
+
+#### 7. §
+
+#### 2.
+
+#### 8. §
+
+#### 9. §
+
+#### 3.
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 4.
+
+#### 23. §
+
+#### 5.
+
+#### 24. §
+
+#### 6.
+
+#### 25. §
+
+#### 26. §
+
+#### 7. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
+
+27. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha
+
+- a) egymástól nem független vállalkozások között jön létre, vagy
+- b) a vállalkozás és az azt közösen irányító egyik vállalkozás között jön létre, és kizárólag azokon az érintett piacokon tanúsított magatartással kapcsolatos, amelyeken a közösen irányított vállalkozás működik.”
+
+28. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény a következő 12. §-sal egészül ki:
+
+„12. § E törvény alkalmazásában kartell a versenytársak közötti olyan megállapodás vagy összehangolt magatartás, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is.”
+
+29. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 13. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Nem alkalmazható az (1) bekezdés a versenytársak közötti olyan megállapodásra, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is, valamint bármely közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére irányuló más megállapodásra.”
+
+30. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény Átmeneti rendelkezések alcíme a következő 95/M. §-sal egészül ki:
+
+„95/M. § A 88/T. §-t a 95/E. § (4) bekezdésében meghatározottakon kívül a Módtv3. hatálybalépését megelőzően tanúsított versenyjogi jogsértéssel okozott károkozó magatartás esetén is alkalmazni kell, ha
+
+- a) a versenyjogi jogsértést a Gazdasági Versenyhivatal vagy az Európai Bizottság versenyjogi jogsértést megállapító, a Módtv3. hatálybalépését követően hozott határozata állapítja meg,
+- b) az elévülési idő a Módtv3. hatálybalépésekor még nem telt el, és
+- c) a keresetet az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követően nyújtották be.”
+
+#### 8. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
+
+#### 31. §
+
+#### 32. §
+
+#### 9.
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 10.
+
+#### 36. §
+
+#### 11.
+
+#### 37. §
+
+#### 38. §
+
+#### 12.
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 13. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+45. § (1)
+
+(2)
+
+(3)
+
+46. § (1)
+
+(2)
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 14.
+
+#### 52. §
+
+#### 15.
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 16. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
+
+#### 56. §
+
+#### 57. §
+
+#### 17.
+
+#### 58. §
+
+#### 18. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 19. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
+
+#### 62. §
+
+#### 63. §
+
+64. § (1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 36. § (1) bekezdés a) pont aa) alpontjában a „tudományos” szövegrész helyébe a „karitatív, tudományos” szöveg lép.
+
+(2) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
+
+- a)
+- b) 146/K. § (1) bekezdésében a „megalkotása, módosítása” szövegrész helyébe a „megalkotása, illetve módosítása” szöveg
+
+lép.
+
+#### 20. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
+
+65. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/R. §-sal egészül ki:
+
+„111/R. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 244/K. § (1) bekezdése szerinti járóbeteg-szakellátási feladatátalakítás tekintetében, ha a 11/A. § (1) bekezdése szerinti gazdasági társaság járóbeteg-szakellátási feladat mellett egyéb feladatot is ellát, a gazdasági társaság megszüntetésére nem kerül sor.
+
+(2) Az (1) bekezdést a folyamatban lévő járóbeteg-szakellátási feladatellátások költségvetési szerv általi átvétele esetében is alkalmazni kell.”
+
+#### 21.
+
+#### 66. §
+
+#### 22.
+
+#### 67. §
+
+#### 23.
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 24. A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása
+
+#### 73. §
+
+74. § (1)
+
+(2)
+
+#### 75. §
+
+#### 25.
+
+#### 76. §
+
+#### 26.
+
+#### 77. §
+
+#### 27.
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 28.
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 29.
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 30. Záró rendelkezések
+
+102. § (1) Ez a törvény – a (2)–(9) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 12. alcím e törvény kihirdetését követő nyolcadik napon lép hatályba.
+
+(3) A 10. alcím, a 63. §, a 64. § (2) bekezdés a) pontja és a 21. alcím 2024. június 9-én lép hatályba.
+
+(4) Az 1. §, a 6. § a) pontja, a 2. alcím, a 4. alcím, a 6. alcím, a 9. alcím, az 50. §, a 25. alcím, a 27. alcím és a 29. alcím 2024. július 1-jén lép hatályba.
+
+(5) A 3. alcím, az 5. alcím, a 32. §, a 42–44. §, a 45. § (1) és (2) bekezdése, a 46. § (2) bekezdése, a 47. §, a 49. §, az 51. §, a 14. alcím, a 15. alcím, az 57. §, a 17. alcím, a 60. §, a 62. §, a 22. alcím, a 73. §, a 75. §, a 26. alcím és a 28. alcím az e törvény kihirdetését követő 61. napon lép hatályba.
+
+(6) A 31. §, a 11. alcím, a 45. § (3) bekezdése, a 46. § (1) bekezdése, a 48. §, az 56. §, az 59. §, a 61. § és a 74. § (1) bekezdése 2024. október 1-jén lép hatályba.
+
+(7) A 23. alcím 2024. november 1-jén lép hatályba.
+
+(8) A 3–5. §, a 6. § b)–d) pontja és a 7. § 2025. január 1-jén lép hatályba.
+
+(9) A 74. § (2) bekezdése 2025. március 1-jén lép hatályba.
+
+103. § (1) A 15. alcím az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
+
+(2) Az 57. § az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(3) Az 59. § és a 61. § az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+
+(4) A 63. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+
+(5) A 64. § (1) bekezdése az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+(6) A 22. alcím az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül.
+
+104. § (1) E törvény
+
+- a) 32. § a) pontja és a 60. § b) pontja az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló, 1999. június 28-i 1999/70/EK tanácsi irányelvnek,
+- b) 32. § b) pontja és a 60. § a) pontja az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelvnek,
+- c) 39. §-a a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről szóló 2009/103/EK irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2118 európai parlamenti és tanácsi irányelvnek,
+- d) 77. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+- e) 87. §-a a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló, 2014. február 26-i 2014/26/EU európai parlamenti és tanácsi irányelv 16. cikk (2) bekezdésének
+
+való megfelelést szolgálja.
+
+(2) E törvény 95. §-a a határokon átnyúló polgári, kereskedelmi és büntetőügyekben folytatott igazságügyi együttműködés és az igazságszolgáltatáshoz való hozzáférés digitalizációjáról, valamint az igazságügyi együttműködés területén egyes jogi aktusok módosításáról szóló 2023. december 13-i (EU) 2023/2844 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

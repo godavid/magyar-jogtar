@@ -26,7 +26,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (4) Ha az Alapítvány a tulajdonába adott részvényeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
-(5) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az 1. mellékletben foglalt táblázat 3. sorában meghatározott állami tulajdonban álló részesedéseket (a továbbiakban: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+(5) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése, valamint a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az 1. mellékletben foglalt táblázat 3. sorában meghatározott állami tulajdonban álló részesedéseket (a továbbiakban: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
 
 (6) Az (5) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki az üzletrészek felett e törvény erejénél fogva gyakorolja a tulajdonosi jogokat.
 
@@ -42,7 +42,15 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (4) Az ingatlanok tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
 
-4. § Az Alapítvány a tulajdonába adott ingatlant – a 3. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+3/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében a Budapest belterület 4082/73 helyrajzi számú, az állam és a Magyar Tudományos Akadémia osztatlan közös tulajdonában álló ingatlan 10008/113176-od tulajdoni hányadát ingyenesen, nyilvántartási értéken történő átvezetéssel Alapítvány tulajdonába kell adni.
+
+(2) Az (1) bekezdés szerinti ingatlanhányad tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+
+3/B. § (1) A 3/A. § (1) bekezdése szerinti ingatlanhányad tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) készíti elő és köti meg az Alapítvánnyal.
+
+(2) A 3/A. § (1) bekezdése szerinti ingatlanhányad vonatkozásában a vagyonkezelő és az MNV Zrt. között fennálló vagyonkezelési szerződés megszűnik.
+
+4. § Az Alapítvány a tulajdonába adott ingatlant – a 3. §-ban, a 3/A. §-ban és a 3/B. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -58,7 +66,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
 
-(3) A költségvetési szervi formában működő Egyetem és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság között fennálló vagyonkezelési szerződés megszűnik.
+(3) A költségvetési szervi formában működő Egyetem és az MNV Zrt. között fennálló vagyonkezelési szerződés megszűnik.
 
 (4) Az (1), az (1a), az (1b) és az (1d) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
@@ -100,7 +108,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 - b) nem érinti az e § hatálybalépésekor hatályban lévő határozott idejű áthelyezést, valamint
 - c) nem érinti a jogviszony időtartamát és a munkaidő mértékét.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2), (4), (5), (7) és (8) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (1a), (1b), (1d), (4), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2), (4), (5), (7) és (8) bekezdése, a 3. § (1) és (4) bekezdése, a 3/A. §, a 4. §, az 5. § (1), (1a), (1b), (1d), (4), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 9. §
 
