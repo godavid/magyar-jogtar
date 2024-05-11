@@ -194,10 +194,10 @@ szabályait kell alkalmazni.
 (2) Vendégbefektetői vízumot az a harmadik országbeli állampolgár kaphat,
 
 - a) akinek beutazásához és tartózkodásához magyarországi befektetéseire tekintettel nemzetgazdasági érdek fűződik,
-- b) aki eleget tesz a 17. § (1) bekezdés a), c), d), valamint f)–i) pontjában foglalt feltételeknek,
-- c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább egyikével rendelkezik vagy tervez rendelkezni,
-- d) aki igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie,
-- e) aki írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízummal Magyarország területére történő belépését követő három hónapon belül.
+- b) aki eleget tesz a 17. § (1) bekezdés a), c), d), valamint f)–i) pontjában foglalt feltételeknek, és
+- c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább egyikével rendelkezik vagy tervez rendelkezni, a tervezett befektetés esetén pedig
+  - ca) igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie, és
+  - cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízummal Magyarország területére történő első belépését követő három hónapon belül.
 
 (3) A (2) bekezdés a) pontjában és a 22. § (3) bekezdés a) pontjában foglaltak alkalmazásában nemzetgazdasági érdeknek kell tekinteni az alábbi befektetések megvalósítását:
 
@@ -207,7 +207,7 @@ szabályait kell alkalmazni.
 
 (4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi- és nemzetbiztonsági szerveinek véleményét kéri.
 
-(5) A vendégbefektetői vízum érvényességi ideje legfeljebb két év.
+(5) A vendégbefektetői vízum érvényességi ideje legfeljebb hat hónap.
 
 (6) A vendégbefektetői vízum érvénytelen, ha a vendégbefektetői tartózkodási engedélyt kiadták.
 
@@ -251,7 +251,7 @@ szabályait kell alkalmazni.
 
 19. § (1) Tartózkodási engedélyt – ha törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában foglalt feltételeknek.
 
-(2) A tartózkodási engedély – amennyiben e törvény lehetővé teszi – meghosszabbítása iránti kérelem esetén tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki az (1) bekezdésben foglaltakon túl rendelkezik érvényes tartózkodási engedéllyel, és – jogszabályban meghatározott esetben és módon – teljesíti a társadalmi együttélési feltételeket.
+(2) A tartózkodási engedély meghosszabbítása, továbbá ismételt kiadása iránti kérelem esetén tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki az (1) bekezdésben foglaltakon túl rendelkezik érvényes tartózkodási engedéllyel, és – jogszabályban meghatározott esetben és módon – teljesíti a társadalmi együttélési feltételeket.
 
 (3) A tartózkodási engedély meghosszabbítása – a vendégbefektetői tartózkodási engedély és a vendégbefektetői tartózkodási engedélyhez kapcsolódó családi együttélés biztosítása célú tartózkodási engedély meghosszabbítása kivételével – az e törvényben meghatározott feltételek teljesítése esetén is kizárólag akkor engedélyezhető, amennyiben a tartózkodási engedély meghosszabbítása iránti kérelem benyújtását megelőzően a harmadik országbeli állampolgár tartózkodási engedéllyel történő magyarországi tartózkodása a bármely száznyolcvan napon belül a kilencven napot meghaladta.
 
@@ -312,7 +312,7 @@ szabályait kell alkalmazni.
 
 (6) A vendég-önfoglalkoztatás célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(7) A vendég-önfoglalkoztatás célú tartózkodási engedély kiadásától számított egy évig – az (5) bekezdés szerint kiadott tartózkodási engedély kivételével – a vendég-önfoglalkoztató magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(7) A vendég-önfoglalkoztatás célú tartózkodási engedély kiadásától számított egy évig – az (5) bekezdés szerint kiadott tartózkodási engedély, valamint a 71. § (5) bekezdése szerinti eset kivételével – a vendég-önfoglalkoztató magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (8) A vendég-önfoglalkoztató nemzeti tartózkodási kártyát nem kaphat.
 
@@ -334,16 +334,23 @@ szabályait kell alkalmazni.
 
 (6) A vendégbefektetői tartózkodási engedély érvényességi ideje legfeljebb tíz év, amely kizárólag ugyanezen célból legfeljebb tíz évvel hosszabbítható meg. A vendégbefektetői tartózkodási engedély érvényességi ideje meghaladhatja a kérelmező úti okmányának az érvényességi idejét.
 
-(7) A harmadik országbeli állampolgár – a vendégbefektetői tartózkodási engedély kiadása iránti kérelem benyújtása esetén – a Magyarország területére történő belépését követő három hónapon belül köteles az idegenrendészeti ügyindítási elektronikus felületen keresztül igazolni, hogy a 16. § (2) bekezdés c) és e) pontja szerinti nyilatkozata alapján vállalt valamely befektetést teljesítette.
+(7) A harmadik országbeli állampolgár – a vendégbefektetői tartózkodási engedély kiadása iránti kérelem benyújtása esetén – a Magyarország területére történő első belépését követő három hónapon belül köteles az idegenrendészeti ügyindítási elektronikus felületen keresztül igazolni, hogy a 16. § (2) bekezdés c) pontja szerinti nyilatkozata alapján vállalt valamely befektetést teljesítette.
 
-(8) A 16. § (2) bekezdés c) és e) pontjában meghatározott befektetés (7) bekezdés szerinti határidőn belüli teljesítésének igazolását az idegenrendészeti hatóság vizsgálja.
+(8) A 16. § (2) bekezdés c) pontjában meghatározott befektetés (7) bekezdés szerinti határidőn belüli teljesítésének igazolását az idegenrendészeti hatóság külön feladat- és hatáskörrel rendelkező szervezeti egysége vizsgálja.
 
 (9) A harmadik országbeli állampolgárnak legalább öt évig a 16. § (3) bekezdés a) pontjában foglaltak teljesítéséhez olyan ingatlanalap által kibocsátott befektetési jeggyel kell rendelkeznie, amelynek
 
 - a) nettó eszközértéke legalább 40%-át Magyarországon megvalósuló, lakás funkciójú ingatlanba történő befektetések teszik ki, és
-- b) ingatlan-alapkezelője legalább egyszerűsített telephely biztonsági tanúsítvánnyal rendelkezik, vagy a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) 3. § 28. pontja szerinti jegyzéken szerepel.
+- b) ingatlan-alapkezelője a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) szerinti minősített piaci szereplők jegyzékén szerepel.
 
-(10) A telephely biztonsági tanúsítvánnyal nem rendelkező ingatlan-alapkezelő a Vbt. 118. §-a szerint kezdeményezheti előzetes minősítését. A minősítésre, valamint a jegyzékkel kapcsolatos eljárásra a Vbt. szabályait kell alkalmazni azzal, hogy ebben az esetben az Alkotmányvédelmi Hivatal jár el.
+(10) Az ingatlan-alapkezelő a Vbt. 118. §-a szerint kezdeményezheti előzetes minősítését. A minősítésre, valamint a jegyzékkel kapcsolatos eljárásra a Vbt. szabályait kell alkalmazni azzal, hogy ebben az esetben az Alkotmányvédelmi Hivatal jár el.
+
+(10a) A (9) és (10) bekezdés alapján olyan ingatlan-alapkezelő járhat el, amely a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) szerinti alternatív befektetési alapkezelőnek minősül (ABAK), és amely olyan alternatív befektetési alapot (a továbbiakban: ABA) jogosult kezelni, amelyben a kezelt eszközök értéke
+
+- a) meghaladja összesen a 100 millió euró küszöbértéket (beleértve a tőkeáttétel útján létrejött eszközöket is), vagy
+- b) meghaladja összesen az 500 millió euró küszöbértéket, amennyiben az ABA portfóliói olyan ABA-kból állnak, amelyek nem tőkeáttétellel finanszírozottak, és amelyek esetében az egyes ABA-kba történő eredeti befektetés időpontját követő öt éven belül nem gyakorolhatók visszaváltási jogok.
+
+(10b) A (10a) bekezdésben foglaltakon túl olyan alapkezelő is eljárhat, amely a Kbftv. szerinti befektetési alapkezelőnek minősülve olyan ingatlanalapot is kezel, amelyben a kezelt eszközök értéke összesen meghaladja a 600 millió euró küszöbértéket.
 
 (11) A 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetés tekintetében
 
@@ -354,7 +361,7 @@ szabályait kell alkalmazni.
 
 állhat, aki a vendégbefektetői tartózkodási engedély iránti kérelmet benyújtotta.
 
-(12) A vendégbefektetői tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, ha a (3) bekezdés szerinti igazolásának alapjául szolgáló adataiban a vendégbefektetői tartózkodási engedély érvényességi ideje alatt változás áll be, köteles azt a változás bekövetkezésétől számított öt napon belül az idegenrendészeti ügyindítási elektronikus felületen keresztül bejelenteni.
+(12) A vendégbefektetői tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, ha a (7) bekezdés szerinti igazolásának alapjául szolgáló adataiban a vendégbefektetői tartózkodási engedély érvényességi ideje alatt változás áll be, köteles azt a változás bekövetkezésétől számított öt napon belül az idegenrendészeti ügyindítási elektronikus felületen keresztül bejelenteni.
 
 (13) A vendégbefektetői tartózkodási engedély (6) bekezdés szerinti meghosszabbítása – a 19. § (3) bekezdésében foglaltak kivételével a törvényben meghatározott egyéb feltételek teljesítése esetén – akkor engedélyezhető, ha
 
@@ -385,7 +392,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 (4) A szezonális munkavállalás célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(5) A szezonális munkavállalás célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(5) A szezonális munkavállalás célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (6) A szezonális munkavállalás célú tartózkodási engedéllyel rendelkező vendégmunkás nemzeti tartózkodási kártyát nem kaphat.
 
@@ -405,7 +412,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 (3) A beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(4) Beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(4) Beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (5) Beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedéllyel rendelkező vendégmunkás nemzeti tartózkodási kártyát nem kaphat.
 
@@ -443,7 +450,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 (8) A foglalkoztatási célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(9) A foglalkoztatási célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(9) A foglalkoztatási célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (10) A foglalkoztatási célú tartózkodási engedéllyel rendelkező vendégmunkás nemzeti tartózkodási kártyát nem kaphat.
 
@@ -465,7 +472,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 30. § (1) Vendégmunkás-tartózkodási engedélyt az a vendégmunkás kaphat,
 
-- a) akinek a tartózkodási célja, hogy foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt Magyarország területén tényleges munkát végezzen,
+- a) akinek a tartózkodási célja, hogy foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt Magyarország területén tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is,
 - b) akinek a foglalkoztatója nyilvántartásba vett kedvezményes foglalkoztató vagy nyilvántartásba vett minősített kölcsönbeadó,
 - c) aki a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter – a Védelmi Tanács jóváhagyásával kiadott – rendeletében meghatározott harmadik ország állampolgára, és
 - d) akinek a munkavállalása olyan foglalkozásban történik, amelyet a foglalkoztatáspolitikáért felelős miniszter közleményében nem zár ki.
@@ -488,7 +495,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 (4) A vendégmunkás-tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(5) A vendégmunkás-tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(5) A vendégmunkás-tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (6) A vendégmunkás nem kaphat nemzeti tartózkodási kártyát.
 
@@ -530,15 +537,17 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 #### 19. Regisztrációs és foglalkoztatási díj
 
-34. § (1) Regisztrációs díj és foglalkoztatási díj fizetésére kötelezett a minősített kölcsönbeadó és a kedvezményes foglalkoztató, aki kormányrendeletben meghatározott nyilvántartásba vételét kéri.
+34. § (1) Regisztrációs díj és foglalkoztatási díj fizetésére kötelezett a minősített kölcsönbeadó és a kedvezményes foglalkoztató, aki kormányrendeletben meghatározott, és a Budapest Főváros Kormányhivatala által vezetett nyilvántartásba vételét kéri.
 
 (2) A regisztrációs díj az (1) bekezdésben megjelölt foglalkoztatók nyilvántartásba vételekor fizetendő. A regisztrációs díj mértékét kormányrendelet határozza meg.
 
-(3) A foglalkoztatási díj a (2) bekezdésben meghatározott nyilvántartásba vételt követően, évente egy alkalommal, egyösszegben fizetendő. Mértéke az (1) bekezdésben megjelölt foglalkoztató által a tárgyévet megelőző évben benyújtott harmadik országbeli munkavállalók foglalkoztatására irányuló kérelmek száma felszorozva kormányrendeletben meghatározott összeggel.
+(3) A foglalkoztatási díj a (2) bekezdésben meghatározott nyilvántartásba vételt követően, évente egy alkalommal, egy összegben fizetendő. Mértéke az (1) bekezdésben megjelölt foglalkoztató vonatkozásában a tárgyévet megelőző évben kiadott, illetve meghosszabbított vendégmunkás-tartózkodási engedélyek száma szorozva kormányrendeletben meghatározott összeggel.
 
 (4) A foglalkoztatási díj fizetési kötelezettség annak az évnek a végén szűnik meg, amikor a foglalkoztatót a nyilvántartásból törlik. Az (1) bekezdésben meghatározott nyilvántartásból való törlés évében kell a (3) bekezdésben meghatározott foglalkoztatási díjat megfizetni a tárgyévre vonatkozóan.
 
-(5) Az (1) bekezdésben meghatározott nyilvántartás vezetésével, a (2) bekezdés szerinti regisztrációs díj és a (3) bekezdés szerinti foglalkoztatási díj kiszabásával kapcsolatos feladatok ellátása – kormányrendeletben meghatározott eljárási szabályok szerint – a kormányhivatal hatáskörébe tartozik.
+(5) Az (1) bekezdésben meghatározott nyilvántartás vezetésével, a (2) bekezdés szerinti regisztrációs díj és a (3) bekezdés szerinti foglalkoztatási díj kiszabásával és beszedésével kapcsolatos feladatok ellátása – kormányrendeletben meghatározott eljárási szabályok szerint – a kormányhivatal hatáskörébe tartozik.
+
+(6) A regisztrációs díjból és a foglalkoztatási díjból származó bevétel az államháztartás központi alrendszerének bevételét képezi. A regisztrációs díj a Nemzeti Foglalkoztatási Alap egyéb bevételét képezi. A foglalkoztatási díj Budapest Főváros Kormányhivatalát és a Nemzeti Foglalkoztatási Alapot a kormány rendeletében meghatározott arányban illeti meg.
 
 ### V. Fejezet — MAGAS KOMPETENCIÁVAL RENDELKEZŐ HARMADIK ORSZÁGBELI ÁLLAMPOLGÁR TARTÓZKODÁSA
 
@@ -576,9 +585,9 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 - a) a felsőoktatásért felelős miniszternek – a szakképzésért felelős miniszterrel, a felnőttképzésért felelős miniszterrel, a foglalkoztatáspolitikáért felelős miniszterrel és a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszterrel egyetértésben megszövegezett – közleményében meghatározott szakmai képesítéssel rendelkezik,
 - b) hivatásos sportoló vagy hivatásos edző,
 - c) előadóművész, vagy
-- d) a mozgókép szakmai hatóság által, a mozgóképről szóló törvény által nyilvántartásba vett filmgyártó vállalkozásnál tényleges munkát végző harmadik országbeli állampolgár.
+- d) a mozgókép szakmai hatóság által, a mozgóképről szóló törvény által nyilvántartásba vett filmelőállítónál vagy filmgyártó vállalkozásnál tényleges munkát végző harmadik országbeli állampolgár.
 
-(6) A Magyar Kártya érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható, ha a harmadik országbeli állampolgár teljesíti a jogszabályban meghatározott társadalmi együttélési feltételeket.
+(6) A Magyar Kártya érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
 #### 22. Magas képzettségű munkavállaló európai uniós szabályok alapján történő tartózkodása – az EU Kék Kártya
 
@@ -767,7 +776,9 @@ kérelmet nyújthat be.
 
 #### 26. A Nemzeti Kártya
 
-50. § A szerb és az ukrán állampolgár Nemzeti Kártyát kaphat, ha tartózkodási célja, hogy a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
+50. § (1) A szerb és az ukrán állampolgár Nemzeti Kártyát kaphat, ha tartózkodási célja, hogy a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
+
+(2) Nemzeti Kártyát kaphat az (1) bekezdésben foglaltakon túl az a szerb és ukrán állampolgár is, aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként az e tevékenységi körbe tartozó tevékenységén túl tényleges munkát végez.
 
 51. § (1) A Nemzeti Kártya száznyolcvan napon belül kilencven napot meghaladó, de legfeljebb kettő év határozott időtartamú tartózkodásra jogosít Magyarország területén.
 
@@ -809,7 +820,7 @@ kérelmet nyújthat be.
 
 (5) A tanulmányi célú tartózkodási engedély érvényességi ideje a (4) bekezdésben meghatározott esetben sem haladhatja meg a kérelmező úti okmányának érvényességi idejét.
 
-(6) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(6) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (7) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár nemzeti tartózkodási kártyát nem kaphat.
 
@@ -862,7 +873,7 @@ kérelmet nyújthat be.
 
 (3) A képzés célú tartózkodási engedély legfeljebb egy évre adható, ugyanezen célból nem hosszabbítható meg. A harmadik országbeli állampolgár a tartózkodási engedély meghosszabbítását kizárólag tanulmányi célból kérheti.
 
-(4) A képzés céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(4) A képzés céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (5) A képzés céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár nemzeti tartózkodási kártyát nem kaphat.
 
@@ -896,7 +907,7 @@ kérelmet nyújthat be.
 
 (4) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedély nem hosszabbítható meg.
 
-(5) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(5) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (6) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
@@ -962,7 +973,7 @@ kíván Magyarország területén tartózkodni.
 
 (5) A Fehér Kártya érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(6) A Fehér Kártyával rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(6) A Fehér Kártyával rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (7) A Fehér Kártyával rendelkező harmadik országbeli állampolgár nemzeti tartózkodási kártyát nem kaphat.
 
@@ -1001,8 +1012,9 @@ kíván Magyarország területén tartózkodni.
 
 65. § (1) Önkéntes tevékenység folytatása céljából kiadott tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki
 
-- a) teljesíti a 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában meghatározott feltételeket, és
-- b) a törvényben meghatározott fogadó szervezettel kötött önkéntes szerződés alapján közérdekű önkéntes tevékenység folytatása céljából kíván Magyarország területén tartózkodni vagy az Európai Önkéntes Szolgálat rendszerének keretében végez önkéntes tevékenységet.
+- a) teljesíti a 17. § (1) bekezdés a) pontjában, c) és d) pontjában, valamint f)–i) pontjában meghatározott feltételeket,
+- b) a törvényben meghatározott fogadó szervezettel kötött önkéntes szerződés alapján közérdekű önkéntes tevékenység folytatása céljából kíván Magyarország területén tartózkodni vagy az Európai Önkéntes Szolgálat rendszerének keretében végez önkéntes tevékenységet, és
+- c) magyarországi szálláshelyeként valós belföldi lakcímadatot jelentett be.
 
 (2) Önkéntes tevékenység folytatása céljából kiadott tartózkodási engedélyt nem kaphat
 
@@ -1019,7 +1031,7 @@ kíván Magyarország területén tartózkodni.
 
 (2) Ha az önkéntes szerződés érvényességi ideje egy évnél rövidebb, úgy az önkéntes tevékenység folytatása céljából kiadott tartózkodási engedély érvényességi idejét a fogadási megállapodás érvényességi idejével azonos hosszúságú időtartamban kell megállapítani.
 
-(3) Az önkéntes tevékenység folytatása céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(3) Az önkéntes tevékenység folytatása céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (4) Az önkéntes tevékenység folytatása céljából kiadott tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
@@ -1037,9 +1049,11 @@ kíván Magyarország területén tartózkodni.
 
 (5) Magyarország gazdasági, tudományos, kulturális és sport érdekének fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter kormányhatározatban kijelölt testület véleményét kéri ki. A testület véleménye az idegenrendészetért és menekültügyért felelős minisztert nem köti.
 
+(5a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi és nemzetbiztonsági szervek véleményét kéri. A rendvédelmi és nemzetbiztonsági szervek véleménye nem köti az idegenrendészetért és menekültügyért felelős minisztert.
+
 (6) A nemzeti érdekből kiállított tartózkodási engedély legfeljebb három évre szól, alkalmanként legfeljebb három évre hosszabbítható meg.
 
-(7) A nemzeti érdekből kiállított tartózkodási engedély kiállítása során az e törvény szerinti feltételeket nem kell vizsgálni, kivéve a (2) bekezdésben foglalt feltételt.
+(7) A nemzeti érdekből kiállított tartózkodási engedély kiállítása során az e törvény szerinti feltételeket nem kell vizsgálni, kivéve a (2) bekezdésben foglalt feltételt és azt, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát.
 
 (8) A nemzeti érdekből kiállított tartózkodási engedély iránti kérelem tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
 
@@ -1053,6 +1067,10 @@ kíván Magyarország területén tartózkodni.
 
 (4) Az (1)–(3) bekezdéssel azonos megítélés alá esik az 1995. évi CII. törvénnyel kihirdetett, az Észak-atlanti Szerződés részes államai és a „Békepartnerség” más résztvevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodásban részes államok fegyveres erőinek ezen Megállapodás hatálya alá tartozó polgári állománya és azok hozzátartozói.
 
+(5) Az (1) és a (4) bekezdés szerinti személy hivatalos célú tartózkodási engedélyt kap.
+
+(6) Az (5) bekezdés szerinti hivatalos célú tartózkodási engedély érvényességére és meghosszabbítására a 60. § (2) bekezdését kell megfelelően alkalmazni.
+
 #### 37. A Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás hatálya alá tartozó polgári állomány tagjai, az USA vállalkozók és a hozzátartozók beutazása és tartózkodása
 
 69. § (1) A 2019. évi LI. törvénnyel kihirdetett, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás hatálya alá tartozó, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás
@@ -1063,7 +1081,7 @@ kíván Magyarország területén tartózkodni.
 
 beutazására és tartózkodására – a II. Cikk 3–5. pontja szerinti státuszuk igazolása esetén – e törvény rendelkezéseit a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(2) Az (1) bekezdésben meghatározott személy mentesül a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum beszerzésének kötelezettsége, valamint a 17. § (1) bekezdés e)–g) pontjában meghatározott feltételek igazolása alól.
+(2) Az (1) bekezdésben meghatározott személy mentesül a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum, valamint a tartózkodási engedély beszerzésének kötelezettsége alól.
 
 (3) Az (1) bekezdésben meghatározott személy letartóztatása vagy őrizetbe vétele esetén az idegenrendészeti hatóság köteles értesíteni a honvédelemért felelős miniszter által kijelölt szervet, a küldő állam tájékoztatása céljából.
 
@@ -1133,13 +1151,13 @@ beutazására és tartózkodására – a II. Cikk 3–5. pontja szerinti státu
 - d) foglalkoztatási célú tartózkodási engedéllyel,
 - e) vendégmunkás-tartózkodási engedéllyel,
 - f) Fehér Kártyával,
-- g) tanulmányi, képzési célú tartózkodási engedéllyel,
+- g) tanulmányi (beleértve az álláskeresést és a vállalkozás indítást is), képzési célú tartózkodási engedéllyel,
 - h) gyakornoki tevékenység folytatása célú tartózkodási engedéllyel, valamint
 - i) önkéntes tevékenység folytatása célú tartózkodási engedéllyel
 
 rendelkezik.
 
-(5) A tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyarország területén született harmadik országbeli állampolgár gyermeke részére – ha törvény eltérően nem rendelkezik – családi együttélés biztosítása céljából tartózkodási engedélyt kell kiállítani.
+(5) A tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyarország területén, a tartózkodási engedély hatálya alatt született harmadik országbeli állampolgár gyermeke részére – abban az esetben is, ha e törvény alapján további harmadik országbeli állampolgár tartózkodási jogcíme a tartózkodási engedélyre nem alapítható – családi együttélés biztosítása céljából tartózkodási engedélyt kell kiállítani.
 
 (6) A menekültként elismert személyhez kapcsolódó családi együttélés biztosítása célú tartózkodási engedély nem tagadható meg kizárólag amiatt, hogy a családi kapcsolat fennállásának igazolására szolgáló okirat nem áll rendelkezésre.
 
@@ -1227,7 +1245,7 @@ irányadó szabályok vonatkoznak.
 
 (2) Nem kaphat ideiglenes tartózkodási kártyát, nemzeti tartózkodási kártyát vagy EU tartózkodási kártyát az a harmadik országbeli állampolgár,
 
-- a) akinek a letelepedése veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát,
+- a) akinek a huzamos tartózkodása veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát,
 - b) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve SIS figyelmeztető jelzés hatálya alatt áll, vagy
 - c) aki a kártya megszerzése érdekében hamis adatot, illetve valótlan tényt közölt, vagy az eljáró hatóságot egyéb módon megtévesztette.
 
@@ -1298,7 +1316,7 @@ kíván Magyarország területén tartózkodni, és teljesíti a jogszabályban 
 
 #### 48. A nemzeti tartózkodási kártyára való jogosultság
 
-83. § (1) A Magyarországon történő huzamos tartózkodás céljából nemzeti tartózkodási kártyát – a (4) bekezdésben foglalt kivétellel – az a harmadik országbeli állampolgár kaphat, aki tartózkodási engedéllyel, ideiglenes letelepedési engedéllyel vagy ideiglenes tartózkodási kártyával rendelkezik, és
+83. § (1) A Magyarországon történő huzamos tartózkodás céljából nemzeti tartózkodási kártyát – a (3) bekezdésben foglalt kivétellel – az a harmadik országbeli állampolgár kaphat, aki tartózkodási engedéllyel, ideiglenes letelepedési engedéllyel vagy ideiglenes tartózkodási kártyával rendelkezik, és
 
 - a) a kérelem benyújtását közvetlenül megelőzően legalább három éven át jogszerűen és megszakítás nélkül Magyarország területén tartózkodott,
 - b) a kérelem benyújtását közvetlenül megelőzően legalább egy éve eltartott felmenőként családi életközösségben él magyar állampolgárral vagy huzamos tartózkodási jogosultsággal rendelkező, illetve menekültként elismert harmadik országbeli állampolgárral,
@@ -1348,13 +1366,15 @@ rendelkezik.
 
 #### 50. Nemzeti érdekből kiállított nemzeti tartózkodási kártya
 
-85. § (1) Nemzeti érdek fennállása esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján az e Fejezetben meghatározott feltételek hiányában is kaphat nemzeti tartózkodási kártyát.
+85. § (1) Nemzeti érdek fennállása esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 75. § (1) bekezdésében foglalt feltételek hiányában, valamint az e Fejezetben meghatározott feltételek hiányában is kaphat nemzeti tartózkodási kártyát.
 
 (2) Az idegenrendészetért és menekültügyért felelős miniszter nemzeti érdekből kiállított nemzeti tartózkodási kártya kiállítására irányuló eljárása során Magyarország gazdasági, nemzetpolitikai, tudományos, kulturális és sport érdekét veheti figyelembe.
 
 (3) A nemzetpolitikai érdek fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter a Kormány rendeletében meghatározott szakhatóság bevonásával dönt.
 
 (4) Magyarország gazdasági, tudományos, kulturális és sport érdekének fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter kormányhatározatban kijelölt testület véleményét kéri ki. A testület véleménye az idegenrendészetért és menekültügyért felelős minisztert nem köti.
+
+(4a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi és nemzetbiztonsági szervek állásfoglalását kéri.
 
 (5) Az idegenrendészetért és menekültügyért felelős miniszter nemzeti érdekből kiállított nemzeti tartózkodási kártyával kapcsolatos döntésével szemben jogorvoslatnak nincs helye.
 
@@ -1374,6 +1394,8 @@ rendelkezik.
 - d) a harmadik országbeli állampolgárt kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el,
 - e) a harmadik országbeli állampolgár kéri az engedély vagy a kártya visszavonását, vagy
 - f) a harmadik országbeli állampolgár veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát.
+
+(3) A nemzeti érdekből kiállított nemzeti tartózkodási kártyát az idegenrendészetért és menekültügyért felelős miniszter visszavonhatja, ha a kiadásakor figyelembe vett 85. § (2) bekezdése szerinti érdek változása azt indokolttá teszi, vagy az (1) bekezdés b) és c) pontja, illetve a (2) bekezdés indokolja.
 
 #### 52. Az EU tartózkodási kártyára való jogosultság
 
@@ -1395,6 +1417,8 @@ rendelkezik.
 - g) az ideiglenes védelemben részesített harmadik országbeli állampolgár.
 
 (3) Ha a harmadik országbeli állampolgár az Európai Unió más tagállamában kiállított huzamos tartózkodási engedéllyel rendelkezik, az idegenrendészeti hatóság az EU tartózkodási kártya kiadásáról az érintett tagállamot értesíti.
+
+(4) A Magyarország területén történő huzamos tartózkodás céljából EU tartózkodási kártyát a harmadik országbeli állampolgár az (1) bekezdésben meghatározott feltételek teljesítése esetén is csak abban az esetben kaphat, ha teljesíti a jogszabályban meghatározott társadalmi együttélési feltételeket.
 
 #### 53. A Magyarország területén történő tartózkodás számítása
 
@@ -1585,6 +1609,8 @@ e törvény erejénél fogva érvénytelenné válik, a vendégmunkás 33. § (3
 - f) az önkéntes távozással elrendelt kiutasítás esetén a figyelmeztetést arra, hogy ha a harmadik országbeli állampolgár a kiutasításnak önként nem tesz eleget, az idegenrendészeti hatóság kitoloncolja.
 
 (2) A kiutasítást elrendelő határozat ellen fellebbezésnek nincs helye, a határozatot közigazgatási perben nyolc napon belül lehet megtámadni. A bíróság a keresetlevélről – a keresetlevél bírósághoz érkezésétől számított – tizenöt napon belül dönt. Ha a felperes idegenrendészeti őrizetben van, a bíróság a tárgyalás napján a tárgyaláson jelen lévő feleknek és érdekelteknek az ítélet írásba foglalt rendelkező részének kiadmányát átadja és elektronikus úton is közli az eljáró idegenrendészeti hatósággal. A bíróság három munkanapon belül az ítéletet írásba foglalja, és elektronikus úton közli az idegenrendészeti hatósággal. A bíróság határozata ellen további perorvoslatnak helye nincs. Ha a keresetlevél csak a bíróság intézkedése alapján válik alkalmassá az érdemi elbírálásra, a határidő kezdő időpontját ettől az időponttól kell számítani.
+
+(2a) A kiutasítás elrendeléséről szóló, véglegessé vált határozattal szembeni közigazgatási perben halasztó hatály elrendelésének nincs helye.
 
 (3) A (2) bekezdéstől eltérően a 98. § (4) bekezdése szerinti kiutasítást elrendelő határozat ellen indított közigazgatási perben tárgyalás tartása nem kérhető. A bíróság a keresetlevélről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül, tárgyaláson kívül dönt, és ítéletét három napon belül közli a peres felekkel.
 
@@ -1979,7 +2005,7 @@ származó jövedelemmel rendelkezik.
 - c) az őrizet elrendelésétől számítva hat hónap – vagy az (5) bekezdésben foglalt feltételek fennállása esetén tizenkét hónap – eltelt,
 - d) a harmadik országbeli állampolgár nemzetközi védelem iránti kérelme alapján a törvényben meghatározottak szerint jogosult a Magyarország területén való tartózkodásra,
 - e) a harmadik országbeli állampolgár menekültügyi őrizet hatálya alá kerül, vagy
-- f) a harmadik országbeli állampolgár rendelkezésre állását az idegenrendészeti hatóság óvadék letételével biztosítottnak látja, és óvadék letételét rendeli el.
+- f) a harmadik országbeli állampolgár rendelkezésre állását az idegenrendészeti hatóság óvadék letételével biztosítottnak látja, és az óvadékot letették.
 
 (7) Az (1) bekezdés b) pontja alapján elrendelt idegenrendészeti őrizetet az idegenrendészeti hatóság hivatalból megszüntetheti, ha a harmadik országbeli állampolgár körülményeiben beállt jelentős változás okán a továbbiakban nem feltételezhető, hogy a kiutasítás végrehajtását késlelteti vagy meghiúsítja, illetve szökésének veszélye áll fenn.
 
@@ -2778,7 +2804,7 @@ is eljárhat.
 
 (6) A jelen lévő ügyféllel a kiutasítási döntést az idegenrendészeti hatóság a döntés rendelkező részének a kiutasított által értett nyelvre történő fordításának átadásával is közölheti. Ezen közlési mód az ügyfél által nem kérelmezhető.
 
-(7) A szóbeli közlés tényét és időpontját jegyzőkönyvbe kell foglalni.
+(7) A szóbeli közlés tényét és időpontját jegyzőkönyvbe kell foglalni. A szóban közölt döntés közlésének joghatásai abban az esetben is beállnak, ha az ügyfél a jegyzőkönyv aláírását megtagadja.
 
 (8) A másodfokon eljáró idegenrendészeti hatóság döntését az elsőfokú döntést hozó hatóság útján kézbesíti.
 
@@ -3002,7 +3028,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 209. § (1) Az idegenrendészeti hatóság határozata ellen, ha törvény másként nem rendelkezik, jogorvoslatnak van helye.
 
-(2) Nincs helye jogorvoslatnak a tartózkodási engedély iránti eljárásokban az idegenrendészeti hatóság kérelemnek helyt adó döntésével szemben.
+(2) Nincs helye jogorvoslatnak a tartózkodási okmány átvételére jogosító vízum, valamint a tartózkodási engedély iránti eljárásokban az idegenrendészeti hatóság kérelemnek helyt adó döntésével szemben.
 
 (3) Az idegenrendészeti hatóság végzése ellen önálló jogorvoslatnak akkor van helye, ha azt e törvény lehetővé teszi. Egyéb esetben a végzés elleni jogorvoslati jog a határozat, ennek hiányában az eljárást megszüntető végzés ellen igénybe vehető jogorvoslat keretében gyakorolható.
 
@@ -3203,6 +3229,12 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 
 (2) A vízumkiadásra feljogosított magyar diplomáciai vagy konzuli képviselet más schengeni állam nevében is kiadhat vízumot.
 
+#### 144/A. A vendégbefektetői vízummal kapcsolatos különös eljárási szabályok
+
+224/A. § (1) A vendégbefektetői vízumot vissza kell vonni, ha a harmadik országbeli állampolgár nem, vagy nem a 16. § (2) bekezdés c) pontjában, illetve 22. § (7) bekezdésében foglalt határidőben valósítja meg a 16. § (2) bekezdés c) pontja szerinti kötelezettségvállalása alapján a befektetést.
+
+(2) Ha a vendégbefektetői vízumot az idegenrendészeti hatóság visszavonja, és megállapítja, hogy a 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetéshez kapcsolódó elidegenítési és terhelési tilalom még fennáll, az idegenrendészeti hatóság a vendégbefektetői vízumot visszavonó határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+
 #### 145. Tartózkodási engedély iránti kérelem benyújtása Magyarország területén
 
 225. § A Magyarország területén tartózkodó harmadik országbeli állampolgár tartózkodási engedély iránti kérelme – ha törvény másként nem rendelkezik – abban az esetben engedélyezhető, ha eleget tesz a 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában foglalt feltételeknek, és
@@ -3231,6 +3263,7 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 - p) az o) pont szerinti engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó, az Európai Unió más tagállama által kiadott, érvényes tartózkodási engedéllyel rendelkező családtag értesítést vagy tartózkodási engedély iránti kérelmet nyújt be,
 - q) az Európai Unió tagállama által kiadott, érvényes EU Kék Kártyával rendelkező harmadik országbeli állampolgár EU Kék Kártya kiadása iránti kérelmet nyújt be,
 - r) a q) pont szerinti engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó, az Európai Unió más tagállama által kiadott, érvényes tartózkodási engedéllyel rendelkező családtag tartózkodási engedély iránti kérelmet nyújt be.
+- s) a tartózkodási engedély iránti kérelmet a 71. § (5) bekezdése szerinti okból nyújtja be.
 
 #### 146. A tartózkodási engedély kiadásának és meghosszabbításának feltételei, valamint a tartózkodási engedély visszavonása
 
@@ -3247,16 +3280,20 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 227. § (1) A vendégbefektetői tartózkodási engedély kiadását, illetve a meghosszabbítását meg kell tagadni a 226. § (1) bekezdés b), c) és e) pontjában meghatározott eseteken túl akkor is, ha
 
 - a) a harmadik országbeli állampolgár nem teljesíti a 17. § (1) bekezdés a), c), d), f)–i) pontjában foglalt feltételeket,
-- b) a harmadik országbeli állampolgár a vendégbefektetői vízum kiadását követően úgy nyilatkozik, hogy a 16. § (2) bekezdés c) és e) pontja szerint vállalt befektetést nem valósítja meg, vagy a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy nem valósítja meg,
-- c) a 16. § (2) bekezdés c) és e) pontja szerint vállalt befektetés teljesítésére meghatározott 22. § (7) bekezdése szerinti határidő eredménytelenül telt el,
+- b) a harmadik országbeli állampolgár a vendégbefektetői vízum kiadását követően úgy nyilatkozik, hogy a 16. § (2) bekezdés c) pontja szerint vállalt befektetést nem valósítja meg, vagy a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy nem valósítja meg,
+- c) a 16. § (2) bekezdés c) pontja szerint vállalt befektetés teljesítésére meghatározott 22. § (7) bekezdése szerinti határidő eredménytelenül telt el,
 - d) meghosszabbítás esetén a harmadik országbeli állampolgár nem teljesítette a 22. § (13) bekezdésében foglaltakat.
 
 (2) A vendégbefektetői tartózkodási engedély kiadását az (1) bekezdésben foglaltakon túl meg kell tagadni akkor is, ha az idegenrendészeti hatóság által kirendelt ingatlanforgalmi szakértő által készített szakvélemény szerint a vételár és az ingatlan értéke között feltűnő értékaránytalanság áll fenn.
 
+(2a) Ha az ingatlan-nyilvántartás adatai szerint a 22. § (11) bekezdés a) pontja alapján az elidegenítési és terhelési tilalmat bejegyezték, az idegenrendészeti hatóság a kérelmet elutasító határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+
 (3) A vendégbefektetői tartózkodási engedélyt vissza kell vonni
 
 - a) az (1) bekezdés a)–c) pontjában meghatározott esetekben, vagy
-- b) ha a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy a 16. § (2) bekezdés c) és e) pontja szerint vállalt befektetés az e törvényben meghatározott időtartamban nem áll fenn.
+- b) ha a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy a 16. § (2) bekezdés c) pontja szerint vállalt befektetés az e törvényben meghatározott időtartamban nem áll fenn.
+
+(4) Ha a vendégbefektetői tartózkodási engedélyt az idegenrendészeti hatóság visszavonja, és megállapítja, hogy a 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetéshez kapcsolódó elidegenítési és terhelési tilalom még fennáll, az idegenrendészeti hatóság a vendégbefektetői tartózkodási engedélyt visszavonó határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
 
 228. § (1) Szezonális munkavállalás céljából a tartózkodási engedély kiadását meg kell tagadni a 226. § (1) bekezdés a)–c) és e) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár
 
@@ -3389,6 +3426,8 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 
 236. § A hivatalos célú tartózkodási engedély kiadását vagy meghosszabbítását meg kell tagadni, illetve a kiadott hivatalos célú tartózkodási engedélyt vissza kell vonni a 226. § (1) bekezdés a)–c) és e) pontjában meghatározott esetkörökön felül akkor is, ha a harmadik országbeli állampolgár az 60. §-ban foglalt feltételeket nem teljesíti.
 
+236/A. § A 68. § (5) bekezdése szerinti hivatalos célú tartózkodási engedély kiadását vagy meghosszabbítását meg kell tagadni, illetve a kiadott hivatalos célú tartózkodási engedélyt vissza kell vonni, ha a harmadik országbeli állampolgár nem teljesíti a 68. §-ban foglalt feltételeket.
+
 237. § Az ideiglenes tartózkodási engedély kiadását meg kell tagadni, illetve a kiadott ideiglenes tartózkodási engedélyt vissza kell vonni, ha a harmadik országbeli állampolgár
 
 - a) a nemzetközi szerződésben foglalt feltételeket nem vagy már nem teljesíti,
@@ -3410,6 +3449,8 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 - a) a kiadására okot adó körülmény már nem áll fenn;
 - b) a harmadik országbeli állampolgár tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt;
 - c) a visszavonást a kiadást indítványozó hatóság vagy szerv az a) pontban meghatározott vagy más okból kezdeményezi.
+
+241/A. § A nemzeti érdekből kiállított tartózkodási engedélyt az idegenrendészetért és menekültügyért felelős miniszter visszavonhatja, ha a kiadásakor figyelembe vett 67. § (3) bekezdése szerinti érdek változása azt indokolttá teszi, vagy a 226. § (1) bekezdés b)–e) pontja indokolja.
 
 #### 147. Az összevont engedély kiadására és meghosszabbítására vonatkozó szabályok
 
@@ -3695,7 +3736,7 @@ szerinti állam vonatkozásában.
 
 (2) Az (1) bekezdés szerinti adatokat – a (3) bekezdés szerinti kivétellel – az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított tíz évig kezeli.
 
-(3) Az (1) bekezdés k) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
+(3) Az (1) bekezdés i) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
 
 260. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító okmányt kérelmező harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -3821,7 +3862,7 @@ szerinti állam vonatkozásában.
 - 3. a nemzetbiztonsági szolgálatok,
 - 4. a menekültügyi hatóság,
 - 5. az adó- és vámhatóság,
-- 6. az idegenrendészeti eljárásban közreműködő szakhatóságok,
+- 6. az idegenrendészeti eljárásban közreműködő szakhatóságok, illetve véleményező testület,
 - 7. rendvédelmi szervek,
 - 8. az állampolgársági ügyekben eljáró szerv és az állampolgársági ügyekért felelős miniszter,
 - 9. a személyiadat- és lakcímnyilvántartással kapcsolatos ügyekben eljáró hatóság,
@@ -4002,7 +4043,12 @@ részére adatot szolgáltat.
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben a vállalkozásra vonatkozó olyan feltételeket határozzon meg, amelyeket az arra alapított vendég-önfoglalkoztatás célú tartózkodási engedély kiadása, illetve meghosszabbítása során az idegenrendészeti hatóságnak figyelembe kell vennie.
 
-(8) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a regisztrációs és foglalkoztatási díj kiszabásával kapcsolatos részletszabályokat.
+(8) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+- a) a regisztrációs díj és a foglalkoztatási díj fizetésére kötelezett minősített kölcsönbeadók és kedvezményes foglalkoztatók nyilvántartásba vételével,
+- b) a regisztrációs díj és a foglalkoztatási díj kiszabásával és beszedésével
+
+kapcsolatos részletszabályokat.
 
 (9) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Vállalati Kártya iránti kérelmet megalapozó foglalkoztatóra vagy az azzal betelepülési szerződést kötött gazdálkodóra vonatkozó részletes feltételeket.
 
@@ -4112,9 +4158,13 @@ nem nyújtható be.
 
 (16) 2024. február 29-ig a Harmtv. IX. Fejezetének 2023. december 31-én hatályos szövegét kell alkalmazni.
 
-(17) E törvény 8. és 13. alcímét 2024. július 1-től kell alkalmazni.
+(17) E törvény 8. és 13. alcímét – a (18) bekezdésben foglalt kivétellel – 2024. július 1-től kell alkalmazni.
 
-287. § (1) Az e törvény hatálybalépésekor Magyarországon érvényes tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár e törvény szerinti jogcímeken – belföldi tartózkodása esetén kizárólag elektronikus úton, az idegenrendészeti ügyindítási felületen – kérelmezheti a tartózkodási engedélye kiadását, – a foglalkozási feltételek megváltozásának kivételével legkorábban a tartózkodási engedély lejárta előtt 45 nappal – azzal, hogy az e törvényben meghatározott tartózkodási engedély okmány érvényességi időt úgy kell tekinteni, mintha az az e törvény alapján benyújtott tartózkodási engedély kérelemmel kezdődne, kivéve a (2) bekezdésben meghatározott tartózkodási engedélyeket.
+(18) A 16. § (3) bekezdés b) pontját, a 22. § (11) bekezdését, a 22. § (13) bekezdés b) és c) pontját, a 224/A. § (2) bekezdését, valamint a 227. § (2), (2a) és (4) bekezdését 2025. január 1. napjától kell alkalmazni.
+
+(19) A 16. § (3) bekezdés b) pontja szerinti tulajdoni illetőség megszerzésére csak 2025. január 1. napjától kerülhet sor, a 2025. január 1. napjáig megszerzett tulajdoni illetőség nem ismerhető el.
+
+287. § (1) Az e törvény hatálybalépésekor Magyarországon érvényes tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár e törvény szerinti jogcímeken – belföldi tartózkodása esetén kizárólag elektronikus úton, az idegenrendészeti ügyindítási felületen – kérelmezheti a tartózkodási engedélye kiadását, – a foglalkozási feltételek megváltozásának kivételével legkésőbb a tartózkodási engedély lejárta előtt 45 nappal – azzal, hogy az e törvényben meghatározott tartózkodási engedély okmány érvényességi időt úgy kell tekinteni, mintha az az e törvény alapján benyújtott tartózkodási engedély kérelemmel kezdődne, kivéve a (2) bekezdésben meghatározott tartózkodási engedélyeket.
 
 (2) A szezonális munkavállalás célú tartózkodási engedély, vállalaton belüli áthelyezés célú tartózkodási engedély, a Fehér Kártya, a gyakornoki tevékenység folytatása célú tartózkodási engedély, az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély, az ideiglenes tartózkodási engedély, az önkéntes tevékenység folytatása célú tartózkodási engedély, valamint a mobilitási igazolás és mobilitási tartózkodási engedély iránti e törvény szerint benyújtott kérelem csak abban az esetben engedélyezhető, ha a megállapított adott tartózkodási jogcímre vonatkozó tartózkodásra jogosító okmány érvényességi idejét nem haladja meg a harmadik országbeli állampolgár tartózkodásának összidőtartama a korábbi tartózkodásra jogosító engedélyeire figyelemmel.
 
@@ -4122,7 +4172,7 @@ nem nyújtható be.
 
 (4) A munkavállalás célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár az (1) bekezdésben foglaltak szerint az e törvény szerinti munkavégzésre jogosító jogcímeken kérheti a tartózkodási engedély kiadását.
 
-(5) Azon harmadik országbeli állampolgárt, aki családi együttélés biztosítása célú tartózkodási engedélyt 2024. augusztus 31. előtt kapott és az engedélye e törvény hatálybalépésekor érvényes, az e törvényben a családi együttélés biztosítása célú tartózkodásra vonatkozó jogok illetik meg és kötelezettségek terhelik, azzal, hogy a családi együttélés biztosítása célú tartózkodási engedélye abban az esetben is meghosszabbítható, ha e törvény szerint a családegyesítő tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcímet nem alapíthat. A hosszabbítás során a harmadik országbeli állampolgár – kiskorú esetén a törvényes képviselője útján – nyilatkozik arról, hogy ha a családegyesítő tartózkodási engedélye e törvény erejénél fogva érvénytelenné válik, az érvénytelenné válást követő 8 napon belül az Európai Unió tagállamainak és más schengeni államok területéről önkéntesen távozik.
+(5) Azon harmadik országbeli állampolgárt, aki családi együttélés biztosítása célú tartózkodási engedéllyel e törvény hatálybalépésekor rendelkezik, e törvény hatálybalépésekor családi együttélés biztosítása célú tartózkodási engedély iránti kérelme alapján az idegenrendészeti eljárás folyamatban van és az engedélyt 2024. március 1. után kapja meg, vagy családi együttélés biztosítása célú tartózkodási engedélyt a 286. § (6) bekezdése alapján kapott, az e törvényben a családi együttélés biztosítása célú tartózkodásra vonatkozó jogok illetik meg és kötelezettségek terhelik, azzal, hogy a családi együttélés biztosítása célú tartózkodási engedélye abban az esetben is meghosszabbítható, ha e törvény szerint a családegyesítő tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcímet nem alapíthat. A hosszabbítás során a harmadik országbeli állampolgár – kiskorú esetén a törvényes képviselője útján – nyilatkozik arról, hogy ha a családegyesítő tartózkodási engedélye e törvény erejénél fogva érvénytelenné válik, az érvénytelenné válást követő 8 napon belül az Európai Unió tagállamainak és más schengeni államok területéről önkéntesen távozik.
 
 (6) Az (1) és (5) bekezdés szerinti tartózkodási engedély iránti kérelem késedelmes benyújtása okán igazolási kérelmet a tartózkodási engedély érvényességi idején túl előterjeszteni nem lehet.
 
@@ -4203,6 +4253,7 @@ sarkalatosnak minősül.
 - 22. az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EUrendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet,
 - 23. az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a határok és a vízumügy területén, továbbá a 767/2008/EK, az (EU) 2016/399, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1726 és az (EU) 2018/1861 európai parlamenti és tanácsi rendelet, valamint a 2004/512/EK és a 2008/633/IB tanácsi határozat módosításáról szóló, 2019. május 20-i (EU) 2019/817 európai parlamenti és tanácsi rendelet,
 - 24. az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet
+- 25. a 767/2008/EK, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1860, az (EU) 2018/1861 és az (EU) 2019/817 rendeletnek az egyéb uniós információs rendszerekhez az Európai Utasinformációs és Engedélyezési Rendszer céljából való hozzáférésre vonatkozó feltételek megállapítása tekintetében történő módosításáról szóló, 2021. július 7-i (EU) 2021/1152 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

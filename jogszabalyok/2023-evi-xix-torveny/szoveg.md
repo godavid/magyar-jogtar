@@ -96,13 +96,7 @@ egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú t�
 
 #### 41. §
 
-42. § Az Nvt.
-
-- a)
-- b) 3. § (1) bekezdésében és 7. § (1) bekezdésében az „eszköz használatára” szövegrész helyébe az „eszköz, vagy vízipipa használatára” szöveg,
-- c)
-
-lép.
+#### 42. §
 
 #### 7. Az önálló orvosi tevékenységről szóló 2000. évi II. törvény módosítása
 

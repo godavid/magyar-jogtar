@@ -4310,6 +4310,7 @@ E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 - f) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről [tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében] szóló, 1992. október 19-i 92/85/EGK tanácsi irányelv.
 - g) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és a tanácsi irányelv,
 - h) a szülők és gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelv.
+- i) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
 
 ### 1. melléklet a 2020. évi CXXX. törvényhez
 

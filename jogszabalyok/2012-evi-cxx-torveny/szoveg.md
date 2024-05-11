@@ -427,7 +427,7 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 
 (2) A bizottság egy tagja a rendőrség által kijelölt személy, további tagjai az ágazati miniszter által kijelölt személyek.
 
-(3) A vizsga az e törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazásával kapcsolatos elméleti ismeretekből, gyakorlati alkalmazásukból, valamint törvényben meghatározott egyéb elméleti és gyakorlati részből áll, amelyet a rendészeti feladatokat ellátó személy az e törvény felhatalmazása alapján kiadott rendelet szerinti képzésen sajátít el.
+(3) A vizsga az e törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazásával, illetve a személy- és vagyonőrök számára meghatározott tevékenység ellátásával kapcsolatos elméleti ismeretekből, gyakorlati alkalmazásukból, valamint törvényben meghatározott egyéb elméleti és gyakorlati részből áll, amelyet a rendészeti feladatokat ellátó személy, illetve a személy- és vagyonőr az e törvény felhatalmazása alapján kiadott rendelet szerinti képzésen sajátít el.
 
 (4) A vizsga részletes tartalmi feltételeit, valamint a vizsgaszabályzatot az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
 
@@ -565,7 +565,7 @@ rendeletben állapítsa meg.
 
 #### 21. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-41. § E törvény 28. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+#### 41. §
 
 #### 22. Hatályon kívül helyező rendelkezések
 

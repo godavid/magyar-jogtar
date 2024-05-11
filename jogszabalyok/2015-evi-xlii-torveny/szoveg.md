@@ -2577,6 +2577,8 @@ kell figyelembe venni.
 
 157/B. § A vezetői besorolási osztályba tartozó szolgálati beosztások esetében – a 157/A. §-ban foglalt vezetői besorolási osztályba tartozó szolgálati beosztások kivételével – megállapítandó hivatásos pótlék mértékét a miniszter állapítja meg miniszteri rendeletben meghatározott sávon belül.
 
+157/C. § A miniszter által vezetett minisztériumnál vezényléssel betölthető szolgálati beosztások esetében megállapítandó hivatásos pótlék mértékét a miniszter állapítja meg miniszteri rendeletben meghatározott sávon belül.
+
 158. § (1) A hivatásos állomány tagja az előző évi egyéni teljesítményértékelésének eredményétől függően, a szervezeti egység számára a szervezeti teljesítményértékelés eredménye alapján a személyi juttatás előirányzaton belül biztosított költségvetési keret terhére évente két alkalommal, április és szeptember hónapban, egyenlő mértékű teljesítményjuttatásban részesíthető.
 
 (2) A teljesítményjuttatás kifizetés évére meghatározott mértéke nem haladhatja meg a hivatásos állomány tagja alapilletményének háromszorosát.
@@ -6709,6 +6711,7 @@ alakul át.
 - 5. a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 - 6. a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelvnek,
 - 7. a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek
+- 8. az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

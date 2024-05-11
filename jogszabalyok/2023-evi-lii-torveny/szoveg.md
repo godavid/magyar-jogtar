@@ -22,7 +22,7 @@ Az Országgyűlés e célok elérése érdekében, továbbá a köznevelésben f
 
 (2) E törvény munkáltatói jogkörgyakorlásra, a munkáltató személyében bekövetkező változásra, a csoportos létszámcsökkentésre vonatkozó előírásai, valamint az V. és a VI. Fejezete kiterjed az (1) bekezdésben foglalt munkáltató által foglalkoztatott köznevelési dolgozóra.
 
-(3) A köznevelés területén működő munkáltatónál foglalkoztatott egyházi szolgálati jogviszonyban állóra alkalmazni kell a 26. § (1) bekezdését, a 27. §-t, a 97. § (10) bekezdését.
+(3) A köznevelés területén működő munkáltatónál foglalkoztatott egyházi szolgálati jogviszonyban állóra alkalmazni kell a 26. § (1) bekezdését, a 27. §-t, a 97. § (10) bekezdését, valamint a 109. §-t.
 
 (4) Az óraadóra alkalmazni kell a 3. § 28. és 31. pontját, a 4. § (1) bekezdés c) pontját, a 26. § (1) bekezdését, a 27. §-t, és a IV. Fejezetet.
 
@@ -30,7 +30,7 @@ Az Országgyűlés e célok elérése érdekében, továbbá a köznevelésben f
 
 (6) Magyarország területén működő külföldi nevelési-oktatási intézmény foglalkoztatottjára e törvény rendelkezéseit akkor kell alkalmazni, ha a pedagógus a pedagógus-munkakör betöltése feltételeinek a magyar jog szerint megfelel, a Nemzeti alaptanterven alapuló szabályozók szerint végzi munkaköri feladatát és a felek a magyar jogot kötötték ki egymás közötti jogviszonyukra.
 
-(7) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra alkalmazni kell a 13. alcímben foglaltakat.
+(7) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra alkalmazni kell a 13. és 14. alcímben foglaltakat.
 
 (8) A nyugdíjasra alkalmazni kell a 109. §-t.
 
@@ -81,6 +81,7 @@ hozzátartozójának, vagy a foglalkoztatotti jogviszonyban álló személlyel k
 - 14. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a köznevelési foglalkoztatotti jogviszonyban állónak jogszabály előírása alapján részt kell vennie, továbbá a várandós állapotra tekintettel előírt orvosi vizsgálat,
 - 15. köznevelési dolgozó: a köznevelési foglalkoztatotti jogviszony hatálya alá nem tartozó nevelést-oktatást, óvodában nevelést közvetlenül segítő munkakörben foglalkoztatott munkavállaló és a gazdasági, ügyviteli, műszaki, kisegítő munkakörben foglalkoztatott munkavállaló,
 - 16. köznevelésben foglalkoztatott: a köznevelési foglalkoztatotti jogviszonyban álló és a köznevelési dolgozó;
+- 16a. köznevelésért felelős miniszter által előírt képzés: az Nkt. szerinti, a pedagógus továbbképzésen kívül a köznevelésért felelős miniszter rendeletében előírt képzés,
 - 17. köznevelési foglalkoztatotti jogviszonyban álló: a pedagógus és a nevelést és oktatást, óvodában a nevelést közvetlenül segítő, a 25. pont a)–j) alpontjában meghatározott munkakört betöltő személy,
 - 18. levonásmentes munkabérrész: a bírósági végrehajtásról szóló törvény alapján teljesíthető levonások után fennmaradó munkabérrész,
 - 19. megváltozott munkaképességű személy: a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján az
@@ -116,6 +117,7 @@ hozzátartozójának, vagy a foglalkoztatotti jogviszonyban álló személlyel k
 - 27. oktatási központ: a köznevelésért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv,
 - 28. óraadó: az Nkt.-ban ekként meghatározott pedagógus, oktató,
 - 29. pedagógus: ha jogszabály eltérően nem rendelkezik, a Kormány rendeletében meghatározott pedagógus-munkakört betöltő személy,
+- 29a. pedagógus továbbképzés: a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló jogszabályban meghatározott továbbképzés,
 - 30. szakszervezet: a köznevelésben foglalkoztatottak minden olyan szervezete, amelynek elsődleges célja a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonnyal vagy munkaviszonnyal kapcsolatos érdekeinek előmozdítása és megvédése,
 - 31. vendégtanár: az a pedagógus, aki tankerületi központtal heti legalább húsz órás időtartamú köznevelési foglalkoztatotti jogviszonyban áll, és mellette más, a tankerületi központ által fenntartott köznevelési intézményben óraadó.
 
@@ -132,6 +134,12 @@ hozzátartozójának, vagy a foglalkoztatotti jogviszonyban álló személlyel k
 látható el.
 
 (2) Idegen nyelven folytatott nevelő-oktató munka ellátása érdekében anyanyelvi tanár, lektor nemzetközi szerződés vagy tárcaközi megállapodás alapján, Magyarországon tevékenykedő szervezettel létesített munkaviszonyban történő kirendeléssel is foglalkoztatható.
+
+(3) A köznevelésért felelős miniszter kérelemre igazolást állít ki arról, hogy a kérelmező törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy a külföldi társtárcákkal kötött megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, és ezért mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés a miniszter által kiállított igazolásban megjelölt időtartamra, összesen legfeljebb öt tanévre szól.
+
+(4) A (3) bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni az Nkt. 4. § 21. pontjában az óraszámra vonatkozóan meghatározott korlátozást.
+
+(5) Az anyanyelvi tanárt küldő állam, vagy a külföldi társtárcákkal kötött megállapodás alapján nevesített közvetítő szervezet igazolást állít ki arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
 #### 5. § [A köznevelési foglalkoztatotti jogviszonyra vonatkozó szabályok]
 
@@ -280,7 +288,7 @@ tartalmazhat.
 
 (5) Az alaki kötöttség megsértésével tett jognyilatkozat – ha e törvény eltérően nem rendelkezik – érvénytelen. Az érvénytelenség jogkövetkezménye nem alkalmazható, ha a jognyilatkozat a felek egyező akaratából teljesedésbe ment.
 
-(6) Egyoldalú jognyilatkozatát a munkáltató az e törvényben meghatározott esetben köteles írásban indokolni, valamint az igény érvényesítésének módjáról, és – ha az elévülési időnél rövidebb – annak határidejéről a köznevelési foglalkoztatotti jogviszonyban állót tájékoztatni kell. A határidőről való tájékoztatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.
+(6) Egyoldalú jognyilatkozatát a munkáltató az e törvényben és kormányrendeletben meghatározott esetben köteles írásban indokolni, valamint az igény érvényesítésének módjáról, és – ha az elévülési időnél rövidebb – annak határidejéről a köznevelési foglalkoztatotti jogviszonyban állót tájékoztatni kell. A határidőről való tájékoztatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.
 
 (7) A munkáltató köteles a megállapodás írásba foglalásáról gondoskodni és ennek egy példányát a köznevelési foglalkoztatotti jogviszonyban állónak átadni.
 
@@ -665,7 +673,7 @@ esetén.
 - g) a havi illetményen túli illetményelemekről és az egyéb juttatásról,
 - h) a szabadságnapok számáról, számítási módjáról és kiadásának szabályairól,
 - i) a köznevelési foglalkoztatotti jogviszony megszüntetésével összefüggő szabályokról, különösen a felmentési idő megállapításának szabályairól,
-- j) a kötelező pedagógus továbbképzés kivételével a munkáltató képzési politikájáról, a munkavállaló által igénybe vehető képzésre fordítható idő tartamáról,
+- j) a kötelező pedagógus továbbképzés és a köznevelésért felelős miniszter által előírt képzés kivételével a munkáltató képzési politikájáról, a munkavállaló által igénybe vehető képzésre fordítható idő tartamáról,
 - k) a hatóság megnevezéséről, amely részére a munkáltató a köznevelési foglalkoztatotti jogviszonnyal kapcsolatos közterhet megfizeti,
 - l) arról, hogy a munkáltató kollektív szerződés hatálya alá tartozik-e,
 - m) arról, hogy a köznevelési foglalkoztatotti jogviszonyban álló kötelezően tagja-e a Karnak és
@@ -788,7 +796,7 @@ foglalkoztatás lehetőségéről.
 - a) megszűnt a munkáltatónak az a tevékenysége, amelyben a köznevelési foglalkoztatotti jogviszonyban állót foglalkoztatták,
 - b) a fenntartó, – költségvetési intézmény munkáltató esetén – az Országgyűlés, a Kormány, vagy a köznevelésért felelős miniszter döntése alapján létszámcsökkentést kell végrehajtani,
 - c) a köznevelési foglalkoztatotti jogviszonyban álló munkáját nem végzi megfelelően, vagy egészségügyi okból munkaköri feladatai ellátására alkalmatlanná vált,
-- d) a köznevelési foglalkoztatotti jogviszonyban álló a 70. §-ban meghatározottak szerinti továbbképzésen önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen,
+- d) a köznevelési foglalkoztatotti jogviszonyban álló a pedagógus továbbképzésen önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen,
 - e) a köznevelési foglalkoztatotti jogviszonyban álló nyugdíjasnak minősül.
 
 (2) A köznevelési foglalkoztatotti jogviszonyt felmentéssel meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő és ezt a nyugdíjbiztosítási szerv határozatával igazoló köznevelési foglalkoztatotti jogviszonyban álló ezt kérelmezi.
@@ -1135,7 +1143,7 @@ kell tekinteni.
 
 (1) A munkáltató köteles a köznevelési foglalkoztatotti jogviszonyban állót a kinevezés és a köznevelési foglalkoztatotti jogviszonyra vonatkozó szabályok szerint foglalkoztatni, továbbá – a felek eltérő megállapodása hiányában – a munkavégzéshez szükséges feltételeket biztosítani.
 
-(2) A munkáltató köteles a köznevelési foglalkoztatotti jogviszonyban állónak a köznevelési foglalkoztatotti jogviszonyból származó kötelezettsége teljesítése során indokoltan felmerült költségét megtéríteni. Köteles továbbá megtéríteni annak a képzésnek a költségét, amelyre a köznevelési foglalkoztatotti jogviszonyban állót a kötelező pedagógus továbbképzésről szóló jogszabályban foglaltakon kívül kötelezte.
+(2) A munkáltató köteles a köznevelési foglalkoztatotti jogviszonyban állónak a köznevelési foglalkoztatotti jogviszonyból származó kötelezettsége teljesítése során indokoltan felmerült költségét megtéríteni. Köteles továbbá megtéríteni annak a képzésnek a költségét, amelyre a köznevelési foglalkoztatotti jogviszonyban állót a kötelező pedagógus továbbképzésről szóló, illetve a köznevelésért felelős miniszter által előírt képzésről szóló jogszabályban foglaltakon kívül kötelezte.
 
 (3) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a köznevelési foglalkoztatotti jogviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a köznevelési foglalkoztatotti jogviszonyban álló munkaköri alkalmassági vizsgálatát.
 
@@ -1157,7 +1165,7 @@ kell tekinteni.
 - 8. a gyermekek, a tanulók és a szülők, valamint a munkatársak emberi méltóságát és jogait maradéktalanul tiszteletben tartsa, javaslataikra, kérdéseikre érdemi választ adjon,
 - 9. iskolában az ismereteket tárgyilagosan, sokoldalúan és változatos módszerekkel közvetítse, oktatómunkáját éves és tanórai szinten, tanulócsoporthoz igazítva, szakszerűen megtervezve végezze, irányítsa a tanulók tevékenységét,
 - 10. iskolában a kerettantervben és a pedagógiai programban meghatározottak szerint érdemjegyekkel vagy szövegesen, sokoldalúan, a követelményekhez igazodóan értékelje a tanulók munkáját,
-- 11. részt vegyen a számára előírt pedagógus-továbbképzéseken, folyamatosan képezze magát,
+- 11. részt vegyen a számára előírt pedagógus-továbbképzéseken és a köznevelésért felelős miniszter által előírt képzéseken, valamint folyamatosan képezze magát,
 - 12. tanítványai pályaorientációját, aktív szakmai életútra történő felkészítését folyamatosan irányítsa,
 - 13. a pedagógiai programban és a köznevelési intézmény szervezeti és működési szabályzatában előírt pedagógiai és adminisztratív feladatait teljesítse,
 - 14. pontosan és aktívan részt vegyen a nevelőtestület értekezletein, a fogadóórákon, az intézményi ünnepségeken és az éves munkaterv szerinti rendezvényeken,
@@ -1214,7 +1222,7 @@ kell tekinteni.
 
 #### 70. § [A köznevelési foglalkoztatotti jogviszonyban álló továbbképzése]
 
-A pedagógus munkakörben foglalkoztatott végrehajtási jogszabályban meghatározottak szerint továbbképzésben vesz részt. Mentesül a továbbképzési kötelezettség alól az, aki az ötvenötödik életévét a tanév, nevelési év kezdetének napja előtt betöltötte. Nem kell továbbképzésben részt vennie annak a pedagógusnak, aki pedagógus-szakvizsgát tett, a vizsgák letételét követő továbbképzési ciklusban.
+A pedagógus munkakörben foglalkoztatott végrehajtási jogszabályban meghatározottak szerint pedagógus továbbképzésben vesz részt. Mentesül a továbbképzési kötelezettség alól az, aki az ötvenötödik életévét a tanév, nevelési év kezdetének napja előtt betöltötte. Nem kell pedagógus továbbképzésben részt vennie annak a pedagógusnak, aki pedagógus-szakvizsgát tett, a vizsgák letételét követő továbbképzési ciklusban.
 
 #### 71. § [A munkavégzési és rendelkezésre állási kötelezettség alóli mentesülés]
 
@@ -1226,14 +1234,14 @@ A pedagógus munkakörben foglalkoztatott végrehajtási jogszabályban meghatá
 - d) a véradáshoz szükséges, legalább négy óra időtartamra,
 - e) a szoptató anya a szoptatás első hat hónapjában naponta kétszer egy, ikergyermekek esetén kétszer két órára, a kilencedik hónap végéig naponta egy, ikergyermekek esetén naponta két órára,
 - f) hozzátartozója halálakor két munkanapra,
-- g) a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
+- g) a felek megállapodása szerinti képzés, a köznevelésért felelős miniszter által előírt képzés, valamint pedagógus továbbképzés esetén, a képzésben való részvételhez szükséges időre,
 - h) önkéntes vagy létesítményi tűzoltói szolgálat ellátása tartamára,
 - i) bíróság vagy hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
 - k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára,
 - l) a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy a köznevelési foglalkoztatotti jogviszonyban állóval közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra,
 - m) köznevelési foglalkoztatotti jogviszonyra vonatkozó szabályban meghatározott időtartamra, vagy
-- n) felsőoktatási tanulmányok folytatása esetén – ha az szerepel a továbbképzési programban, vagy ha a munkáltató egyedileg engedélyezi – a kötelező foglalkozásokon, szakmai gyakorlaton való igazolt részvétel napjára, továbbá vizsgánként – a vizsga napját is beleszámítva – négy munkanapra, valamint a záródolgozat elkészítésére további öt munkanapra.
+- n) felsőoktatási tanulmányok folytatása esetén – ha az szerepel a pedagógus továbbképzési programban, vagy ha a munkáltató egyedileg engedélyezi – a kötelező foglalkozásokon, szakmai gyakorlaton való igazolt részvétel napjára, továbbá vizsgánként – a vizsga napját is beleszámítva – négy munkanapra, valamint a záródolgozat elkészítésére további öt munkanapra.
 
 (2) Az (1) bekezdés j) pontja szerinti esetben a köznevelési foglalkoztatotti jogviszonyban állót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a köznevelési foglalkoztatotti jogviszonyban álló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
@@ -1311,7 +1319,7 @@ A pedagógus munkakörben foglalkoztatott végrehajtási jogszabályban meghatá
 
 - a) a tankerületi központ szervezeti egységeként működő köznevelési intézmény igazgatója vonatkozásában a tankerületi igazgató javaslatára a köznevelésért felelős miniszter,
 - b) a települési, valamint a nemzetiségi önkormányzat által fenntartott köznevelési intézmény igazgatója tekintetében a Magyarország helyi önkormányzatairól szóló vagy a nemzetiségek jogairól szóló törvényben meghatározott személy vagy testület,
-- c) az a)–b) pontba nem tartozó esetekben köznevelésért felelős miniszter egyetértésével a köznevelési intézmény fenntartója
+- c) az a)–b) pontba nem tartozó esetekben – a megbízás tekintetében a köznevelésért felelős miniszter egyetértésével – a köznevelési intézmény fenntartója
 
 gyakorolja.
 
@@ -1325,13 +1333,13 @@ gyakorolja.
 
 (2) A vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult köznevelési foglalkoztatotti jogviszonyban álló munkakörével, vezető megbízásával összeférhetetlen a munkáltatóval rendszeres gazdasági kapcsolatban álló gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság, egyéni vállalkozói minőség.
 
-(3) Nem lehet a köznevelési intézmény igazgatója a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köznevelési foglalkoztatotti jogviszonyban álló személy. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magán fenntartású köznevelési intézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló személyre vagy testület tagjaira.
+(3) Nem lehet a köznevelési intézmény igazgatója a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köznevelési foglalkoztatotti jogviszonyban álló személy. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magán fenntartású köznevelési intézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
 
 (4) A munkáltató a köznevelési foglalkoztatotti jogviszonyban állóval munkaköri feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet, kivéve, ha azonos tankerületi központ által fenntartott másik köznevelési intézményben történő foglalkoztatásra vendégtanárként óraadói megbízás alapján kerül sor.
 
-(5) Ha a köznevelési foglalkoztatotti jogviszonyban álló munkaideje a köznevelési foglalkoztatotti jogviszonyban és a munkavégzésre irányuló további jogviszonyban – részben vagy egészben – azonos időtartamra esik, a munkavégzésre irányuló további jogviszony csak a munkáltató előzetes írásbeli hozzájárulásával létesíthető. A hozzájárulás megtagadásával szemben munkaügyi jogvita nem kezdeményezhető.
+(5) Ha a köznevelési foglalkoztatotti jogviszonyban álló munkaideje a köznevelési foglalkoztatotti jogviszonyban és a munkavégzésre irányuló további jogviszonyban – részben vagy egészben – azonos időtartamra esik, a munkavégzésre irányuló további jogviszony csak a munkáltató előzetes írásbeli hozzájárulásával létesíthető. A hozzájárulás megtagadásával szemben jogvita nem kezdeményezhető.
 
-(6) A köznevelésben foglalkoztatott további munkavégzésre irányuló jogviszonyt a munkáltató engedélyével létesíthet. Ettől eltérően a munkáltatónak előzetesen írásban be kell jelenteni a munkaidejét nem érintő tevékenység folytatását, kivéve a tudományos, az e törvény hatálya alá eső tevékenységnek nem minősülő oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység folytatását. A munkáltató a bejelentett jogviszony létesítését összeférhetetlenség esetén írásban megtiltja. A munkáltatónak a munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen munkaügyi jogvita kezdeményezhető.
+(6) A köznevelésben foglalkoztatott további munkavégzésre irányuló jogviszonyt a munkáltató engedélyével létesíthet. Ettől eltérően a munkáltatónak előzetesen írásban be kell jelenteni a munkaidejét nem érintő tevékenység folytatását, kivéve a tudományos, az e törvény hatálya alá eső tevékenységnek nem minősülő oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység folytatását. A munkáltató a bejelentett jogviszony létesítését összeférhetetlenség esetén írásban megtiltja. A munkáltatónak a munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen jogvita kezdeményezhető.
 
 (6a) Az (5) és (6) bekezdéstől eltérően a köznevelési foglalkoztatotti jogviszonyban álló nem köteles a munkáltató engedélyét kérni vagy felé bejelentést tenni, ha a köznevelési foglalkoztatotti jogviszonya felsőoktatási intézmény által fenntartott köznevelési intézménnyel áll fenn, és a munkavégzésre irányuló további jogviszonyt a fenntartó felsőoktatási intézménnyel létesíti.
 
@@ -1450,7 +1458,7 @@ oszlik, melynek mértékét a 2. melléklet határozza meg. Vezetői megbízáss
 
 megtartása rendelhető el.
 
-(2) Nevelési-oktatási intézményben foglalkoztatott – az alábbi feladatok ellátásával megbízott – pedagógus számára a neveléssel-oktatással lekötött munkaidő terhére kell elrendelni
+(2) Köznevelési intézményben foglalkoztatott – az alábbi feladatok ellátásával megbízott – pedagógus számára a neveléssel-oktatással lekötött munkaidő terhére kell elrendelni
 
 - a) heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok végrehajtását,
 - b) heti két óra időtartamban az – osztályfőnöki órán felül – osztályfőnöki, kollégiumi tanulócsoport-vezetői munkával összefüggő tevékenységet,
@@ -1662,7 +1670,7 @@ tartama.
 (3) Az alapszabadság mértéke évi ötven munkanap, amelyből a munkáltató legfeljebb tizenöt munkanapot igénybe vehet
 
 - a) a nevelési-oktatási intézmény tevékenységi körébe tartozó nevelés, oktatás, gyermekfelügyelet, a pedagógiai szakszolgálati intézmény tevékenységi körébe tartozó pedagógiai szakszolgálati tevékenység céljára,
-- b) továbbképzés, foglalkoztatást elősegítő képzés céljából, vagy
+- b) továbbképzés, a köznevelésért felelős miniszter által előírt képzés, továbbá foglalkoztatást elősegítő képzés céljából, vagy
 - c) ha a pedagógus szabadságát részben vagy egészben a szorgalmi időben, óvodapedagógus esetében – a július 1-jétől augusztus 31-éig tartó időszak kivételével – a nevelési évben adják ki.
 
 (4) A köznevelési foglalkoztatotti jogviszonyban állót gyermeke hároméves koráig összesen negyvennégy munkanap szülői szabadság illeti meg. A szülői szabadság igénybevételének feltétele, hogy a köznevelési foglalkoztatotti jogviszony egy éve fennálljon.
@@ -1867,7 +1875,7 @@ fokozatokat érheti el.
 - f) a pedagógus által tanított tantárgyak száma,
 - g) a pedagógus munkakör munkaerőpiaci szempontból történő betölthetőségének lehetősége.
 
-(3) A munkáltató minden évben köteles a köznevelésért felelős miniszter rendeletében meghatározott szabályok szerint értékelni a pedagógus és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott teljesítményét. Gyakornok esetén a teljesítményértékelést nem kell lefolytatni. A teljesítményértékelést írásba kell foglalni. A munkáltató a teljesítményértékelés eredményének figyelembevételével a pedagógus havi illetményét az (1) bekezdésben meghatározott illetménysáv keretein belül a 43. §-nak megfelelően határozhatja meg. Ha az illetménysáv alsó és felső határa e törvény felhatalmazása alapján kormányrendeletben került meghatározásra, akkor a munkáltató a teljesítményértékelés eredményének figyelembevételével a pedagógus havi illetményét – a kormányrendeletben meghatározott illetménysáv alsó határára tekintet nélkül – az (1) bekezdésben meghatározott illetménysáv keretein belül a 43. §-nak megfelelően határozhatja meg.
+(3) A munkáltató minden évben köteles a köznevelésért felelős miniszter rendeletében meghatározott szabályok szerint értékelni a pedagógus és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott teljesítményét. Gyakornok esetén a teljesítményértékelést nem kell lefolytatni. A teljesítményértékelést írásba kell foglalni. A munkáltató a teljesítményértékelés eredményének figyelembevételével a pedagógus havi illetményét az (1) bekezdésben meghatározott illetménysáv – ha az illetménysáv alsó és felső határa e törvény felhatalmazása alapján kormányrendeletben került meghatározásra, akkor a kormányrendeletben meghatározott illetménysáv – keretein belül a 43. §-nak megfelelően határozhatja meg azzal, hogy a havi illetmény a teljesítményértékelés eredménye alapján alacsonyabb összegben nem határozható meg.
 
 (4) Ha a pedagógust, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat a naptári év első napján magasabb fokozatba kell sorolni, erre tekintettel a havi illetményét emelni kell legalább a következő fokozathoz tartozó illetménysáv alsó határát képező összegig.
 
@@ -1886,6 +1894,8 @@ a havi illetményének pótlék és egyes köznevelési feladatokért járó meg
 - b) általánostól eltérő teljes napi vagy részmunkaidő esetén: százhetvennégy óra időarányos részével.
 
 (8) Az egyházi és magán fenntartású köznevelési intézmény – a (2) bekezdésben foglaltaktól eltérően – a pedagógus havi illetményét az adott illetménysáv felső határánál magasabb összegben is megállapíthatja.
+
+(9) Ha a köznevelési foglalkoztatotti jogviszony részmunkaidőben történő foglalkoztatásra jön létre, akkor az egyébként járó havi illetményt arányosan csökkenteni kell (részmunkaidő).
 
 #### 99. § [A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott havi illetménye]
 
@@ -2047,7 +2057,7 @@ töltött időt.
 - c) a véradáshoz szükséges, legalább négy óra időtartamra,
 - d) a szoptató anya a szoptatás első hat hónapjában naponta kétszer egy, ikergyermekek esetén kétszer két órára, a kilencedik hónap végéig naponta egy, ikergyermekek esetén naponta két órára,
 - e) hozzátartozója halálakor két munkanapra,
-- f) kötelező pedagógus továbbképzés, továbbá a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
+- f) kötelező pedagógus továbbképzés, a köznevelésért felelős miniszter által előírt képzés, továbbá a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
 - g) bíróság vagy hatóság felhívására, vagy az eljárásban tanúként való személyes részvételhez szükséges időtartamra,
 - h) ha a munkáltató foglalkoztatási kötelezettségének – az elháríthatatlan külső ok esetét kivéve – a beosztás szerinti munkaidőben nem tesz eleget (állásidő),
 - i) a munkáltatói utasítás megtagadása esetén előírt rendelkezésre állási kötelezettség teljesítésének ideje alatt.
@@ -2067,8 +2077,8 @@ illeti meg.
 
 (6) A távolléti díjat
 
-- a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, ügyeleti, készenléti átalánydíj, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés és céljuttatás,
-- b) az esedékesség időpontját megelőző utolsó hat hónapra (a továbbiakban: irányadó időszak) kifizetett eseti pótlék, többlettanítási óradíj
+- a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, ügyeleti, készenléti átalánydíj, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés,
+- b) az esedékesség időpontját megelőző utolsó hat hónapra (a továbbiakban: irányadó időszak) kifizetett eseti pótlék, többlettanítási óradíj, készenléti és ügyeleti díj
 
 figyelembevételével kell megállapítani.
 
@@ -2466,7 +2476,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 (3) A köznevelési dolgozó munkaszerződésének tartalmaznia kell a 39. § (3) bekezdés a) pont aa), ab), ae), af) alpontban, valamint a 39. § (3) bekezdés b)–d) pontjában meghatározottakat, valamint a munkavállaló havi alapbérét.
 
-(4) A pedagógus szakképzettséggel nem rendelkező nevelő-oktató munkát segítő munkakörben foglalkoztatott köznevelési dolgozó havi munkabére nem lehet kevesebb, mint a kötelező legkisebb munkabér vagy garantált bérminimum százhét százaléka. A 98. § (6)–(7) bekezdését alkalmazni kell.
+(4) A nevelő-oktató munkát segítő munkakörben foglalkoztatott köznevelési dolgozó havi munkabére nem lehet kevesebb, mint a kötelező legkisebb munkabér vagy garantált bérminimum százhét százaléka. A 98. § (6)–(7) bekezdését alkalmazni kell.
 
 (5) Költségvetési intézmény által foglalkoztatott köznevelési dolgozó munkaviszonyára alkalmazni kell a Mt. köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó szabályait.
 
@@ -2482,7 +2492,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 (2) A foglalkoztatotti alapnyilvántartás adatai közül a munkáltató megnevezése, a köznevelésben foglalkoztatott neve, továbbá a köznevelési foglalkoztatotti jogviszonyban álló besorolására vonatkozó adat közérdekből nyilvános adat.
 
-(3) A munkáltatónál vezetett foglalkoztatotti alapnyilvántartásba betekinthet:
+(3) A munkáltatónál vezetett foglalkoztatotti alapnyilvántartásba – az eljárásában indokolt mértékig – jogosult betekinteni, illetve abból adatokat átvenni:
 
 - a) a köznevelésben foglalkoztatott,
 - b) a köznevelésben foglalkoztatott felett munkáltatói jogot gyakorló vezető,
@@ -2772,7 +2782,7 @@ köznevelésben foglalkoztatottak létszámának tíz százalékát.
 
 (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- 1. a köznevelésben foglalkoztatottak által betölthető munkaköröket és azok betöltésének, valamint az igazgatói megbízás iskolai végzettséggel, szakképzettséggel, szakmai gyakorlattal kapcsolatos és egyéb részletes feltételeit, továbbá a feltételek igazolásának módját,
+- 1. a köznevelésben foglalkoztatottak által betölthető munkaköröket és azok betöltésének, valamint az igazgatói megbízás iskolai végzettséggel, szakképzettséggel, szakmai gyakorlattal kapcsolatos és egyéb részletes feltételeit, továbbá a feltételek igazolásának módját, valamint az elismerési eljárás alóli mentesítésre vonatkozó igazolás kiállításának részletes szabályait,
 - 2. a pályázat közzétételének módját, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 - 3. a próbaidő kikötését kizáró szakmai gyakorlatot vagy felsőoktatási gyakorlatot munkakörönként,
 - 4. a pedagógusok munkaideje beosztásának szabályait, az eseti és tartós helyettesítés szabályait, a neveléssel-oktatással lekötött munkaidőben, valamint a kötött munkaidőnek a neveléssel-oktatással lekötött munkaidőn felüli részében ellátható egyes feladatokat, a kollégiumi nevelőtanár által a neveléssel-oktatással lekötött munkaidejében ellátható, az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók folyamatos pedagógiai felügyeletébe tartozó egyes feladatokat, a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatok körét,
@@ -2786,7 +2796,7 @@ köznevelésben foglalkoztatottak létszámának tíz százalékát.
 - 12. a minősítő vizsgát és a minősítési eljárást lefolytató bizottság működésének szabályait, a szakmai kritériumokra vonatkozó részletes rendelkezéseket, a minősítő vizsga és a minősítési eljárások során adható minősítések feltételeit, a megismételt minősítő vizsga és minősítési eljárások költségét, valamint az ezért kérhető minősítési, megújítási díj mértékét, befizetésének szabályait, a pedagógus előmenetel hatálya alá tartozó nevelő-oktató munkát közvetlenül segítő munkakört betöltőkre vonatkozó, a pedagógusokétól eltérő tartalmú minősítési követelményeket és eljárást, a címzetes fokozatok megszerzésének eljárási szabályait, és az azokhoz kapcsolódó jogosultságokat,
 - 13. a gyakornoki követelmények elveit, a mentor részletes kötelezettségeit, a gyakornoki szabályzat kiadásával kapcsolatos eljárási szabályokat,
 - 14. az illetmény számfejtésével és elszámolásával kapcsolatos részletes szabályokat, ha a munkáltató nem a központosított illetményszámfejtés hatálya alá tartozik,
-- 15. az e törvényben meghatározott illetmények alsó, illetve felső határánál magasabb összegű alsó, illetve felső határt, az e törvényben meghatározott keretek között a tankerületi központon belül más nevelési-oktatási intézmény feladatellátási helyén történő munkavégzés idejére járó illetményrész mértékének, az egyes köznevelési feladatokért járó megbízási díj, eseti és illetménypótlék, kereset-kiegészítés, jutalom mértékének és megállapításának részletes szabályait,
+- 15. az e törvényben meghatározott illetmények alsó, illetve felső határánál magasabb összegű alsó, illetve felső határt, az indokolással ellátandó jognyilatkozatok körét, a kötelező illetményemelés megállapításának, a tankerületi központon belül más nevelési-oktatási intézmény feladatellátási helyén történő munkavégzésre utasítás idejére és az egyéb juttatás együttes megállapítása esetén az e törvényben meghatározott feltételek alapján járó illetményrész mértékének, az egyes köznevelési feladatokért járó megbízási díj, eseti és tartós illetménypótlék, kereset-kiegészítés, az egyéb juttatások, jutalom mértékének és megállapításának részletes szabályait,
 - 16. a pedagógusigazolvány igénylésének, elkészítésének és nyilvántartásának szabályait, az illetményen kívüli juttatásokat,
 - 17. a leltárfelelősség mértékét és érvényesítésének rendjét,
 - 18. a munkakör-felajánlással kapcsolatos eljárást, a köznevelési foglalkoztatotti jogviszonynak a munkaidőkeret lejárta előtt történő megszűnése esetén a munkaidő és a havi illetmény elszámolásának rendjét, a csoportos létszámcsökkentéssel kapcsolatosan a köznevelésben foglalkoztatottak képviselőire vonatkozó szabályokat,
@@ -3014,20 +3024,21 @@ alapján sarkalatosnak minősül.
 
 E törvény
 
-- a) a határozott idejű vagy munkaerő-kölcsönzés céljából létesített munkaviszonyban álló munkavállalók munkahelyi biztonságának és egészségének javítását elősegítő intézkedések kiegészítéséről szóló, 1991. június 25-i 91/383/EGK tanácsi irányelvnek,
+- a)
 - b) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,
 - c) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében) szóló, 1992. október 19-i 92/85/EGK tanácsi irányelvnek,
 - d) a fiatal személyek munkahelyi védelméről szóló, 1994. június 22-i 94/33/EK tanácsi irányelvnek
 - e) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek,
-- f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelvnek,
+- f)
 - g) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelvnek,
 - h) a csoportos létszámcsökkentésre vonatkozó tagállami jogszabályok közelítéséről szóló, 1998. július 20-i 98/59/EK tanácsi irányelvnek,
 - i) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló, 1999. június 28-i 1999/70/EK tanácsi irányelvnek,
 - j) a munkavállalók jogainak a vállalkozások, üzletek vagy ezek részeinek átruházása esetén történő védelmére vonatkozó tagállami jogszabályok közelítéséről szóló, 2001. március 12-i 2001/23/EK tanácsi irányelvnek,
 - k) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról szóló, 2002. március 11-i 2002/14/EK európai parlamenti és tanácsi irányelvnek,
 - l) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
-- m) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelvnek,
-- n) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló, 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelvnek
+- m)
+- n)
+- o) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -3189,7 +3200,7 @@ II.
 
 5. idegennyelv-ismerete,
 
-6. pedagógus-továbbképzésre vonatkozó adatai,
+6. pedagógus-továbbképzésre, valamint a köznevelésért felelős miniszter által előírt képzésre vonatkozó adatai,
 
 7. jogosítvánnyal rendelkezése, ha a munkakör ellátásához szükséges,
 

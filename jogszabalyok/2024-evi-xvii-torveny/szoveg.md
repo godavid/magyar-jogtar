@@ -6,11 +6,7 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 1. §
 
-2. § A közjegyzőkről szóló 1991. évi XLI. törvény 24/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A közjegyző közjegyzői szolgálata szünetel)
-
-„a) ha a közjegyzőt országgyűlési, helyi önkormányzati, nemzetiségi önkormányzati képviselőjelöltként, illetve polgármesterjelöltként nyilvántartásba vették, ettől az időponttól a választás eredményének jogerős megállapításáig, illetve megválasztása esetén mandátuma megszűnéséig, továbbá a helyi önkormányzati vagy nemzetiségi önkormányzat bizottságában betöltött nem képviselői tagság időtartama alatt,”
+#### 2. §
 
 #### 3. §
 
@@ -77,28 +73,13 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 7. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-27. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 27. §
 
-„(1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha
+#### 28. §
 
-- a) egymástól nem független vállalkozások között jön létre, vagy
-- b) a vállalkozás és az azt közösen irányító egyik vállalkozás között jön létre, és kizárólag azokon az érintett piacokon tanúsított magatartással kapcsolatos, amelyeken a közösen irányított vállalkozás működik.”
+#### 29. §
 
-28. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény a következő 12. §-sal egészül ki:
-
-„12. § E törvény alkalmazásában kartell a versenytársak közötti olyan megállapodás vagy összehangolt magatartás, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is.”
-
-29. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 13. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Nem alkalmazható az (1) bekezdés a versenytársak közötti olyan megállapodásra, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is, valamint bármely közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére irányuló más megállapodásra.”
-
-30. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény Átmeneti rendelkezések alcíme a következő 95/M. §-sal egészül ki:
-
-„95/M. § A 88/T. §-t a 95/E. § (4) bekezdésében meghatározottakon kívül a Módtv3. hatálybalépését megelőzően tanúsított versenyjogi jogsértéssel okozott károkozó magatartás esetén is alkalmazni kell, ha
-
-- a) a versenyjogi jogsértést a Gazdasági Versenyhivatal vagy az Európai Bizottság versenyjogi jogsértést megállapító, a Módtv3. hatálybalépését követően hozott határozata állapítja meg,
-- b) az elévülési idő a Módtv3. hatálybalépésekor még nem telt el, és
-- c) a keresetet az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követően nyújtották be.”
+#### 30. §
 
 #### 8. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
@@ -196,22 +177,18 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 63. §
 
-64. § (1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 36. § (1) bekezdés a) pont aa) alpontjában a „tudományos” szövegrész helyébe a „karitatív, tudományos” szöveg lép.
+64. § (1)
 
 (2) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
 
 - a)
-- b) 146/K. § (1) bekezdésében a „megalkotása, módosítása” szövegrész helyébe a „megalkotása, illetve módosítása” szöveg
+- b)
 
 lép.
 
 #### 20. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-65. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/R. §-sal egészül ki:
-
-„111/R. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 244/K. § (1) bekezdése szerinti járóbeteg-szakellátási feladatátalakítás tekintetében, ha a 11/A. § (1) bekezdése szerinti gazdasági társaság járóbeteg-szakellátási feladat mellett egyéb feladatot is ellát, a gazdasági társaság megszüntetésére nem kerül sor.
-
-(2) Az (1) bekezdést a folyamatban lévő járóbeteg-szakellátási feladatellátások költségvetési szerv általi átvétele esetében is alkalmazni kell.”
+#### 65. §
 
 #### 21.
 

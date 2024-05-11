@@ -68,6 +68,20 @@ Az Országgyűlés elkötelezett Magyarország Kormánya és a Kínai Népközt�
 
 (2) Az (1) bekezdés szerinti követelmény, illetve sajátos eljárási szabály a környezetvédelmi előírások és a védett természeti területek védettségi szintjének sérelmével nem járhat.
 
+10/A. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) rendelkezései a (2)–(6) bekezdésben, és a 10/B. §-ban foglaltak figyelembevételével alkalmazandóak, ha a Beruházást megvalósító harmadik országbeli állampolgár foglalkoztatója a 2016. évi XXIV. törvény szerinti Fővállalkozó vagy Alvállalkozó.
+
+(2) A beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély iránti kérelem benyújtásakor a Btátv. 24. § (1) bekezdés b) pontja szerinti megállapodást meglévőnek kell tekinteni.
+
+(3) A Magyarország területén tartózkodó, érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár – ha az előzetes csoportos munkavállalási jóváhagyás meghosszabbításra kerül – beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet nyújthat be, ha eleget tesz a Btátv.-ben és a (4) bekezdésben foglalt feltételeknek. A beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély érvényességére a Btátv. 25. § (1) és (2) bekezdésben foglaltak az irányadóak azzal, hogy az legfeljebb öt év tartózkodási időre jogosít Magyarország területén.
+
+(4) A Magyarország területén tartózkodó harmadik országbeli állampolgár beruházás megvalósítása céljából kiállított tartózkodási engedély iránti kérelme abban az esetben engedélyezhető, ha eleget tesz a Btátv. 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában foglalt feltételeknek, és a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet az érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedélye birtokában – amivel a Btátv. által engedett tartózkodási idő lejárna –, a tartózkodási engedély érvényességi idejének lejártát megelőzően legfeljebb negyven nappal nyújtja be.
+
+(5) A Beruházás esetén az összevont kérelmezési eljárásban a fővárosi és vármegyei kormányhivatal, valamint a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter nem működik közre szakhatóságként, ha a harmadik országbeli állampolgár Magyar Kártya, EU Kék Kártya vagy vállalaton belül áthelyezett személy számára szóló tartózkodási engedély kiadását vagy meghosszabbítását kérelmezi.
+
+(6) A Beruházás esetén a harmadik országbeli állampolgár a családi együttélés biztosítása céljából tartózkodási engedélyt kaphat, ha a családegyesítő foglalkoztatója a 2016. évi XXIV. törvény szerinti Fővállalkozó vagy Alvállalkozó.
+
+10/B. § A Beruházás esetén a Magyar Kártya kiadására és meghosszabbítására irányuló kérelem a 2016. évi XXIV. törvény szerinti Fővállalkozó vagy Alvállalkozó útján is előterjeszthető a Btátv. 168. §-ában foglaltaknak megfelelően.
+
 #### 5. Záró rendelkezések
 
 11. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Beruházással kapcsolatban
@@ -78,3 +92,5 @@ Az Országgyűlés elkötelezett Magyarország Kormánya és a Kínai Népközt�
 12. § Ez a törvény a kihirdetését követő 30. napon lép hatályba.
 
 13. § E törvény rendelkezéseit a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+14. § A 10/B. § az Alaptörvény XIV. cikk (1) bekezdése alapján sarkalatosnak minősül.

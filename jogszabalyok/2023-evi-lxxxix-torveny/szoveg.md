@@ -31,10 +31,11 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 (2) E törvény rendelkezéseit kell alkalmazni továbbá
 
-- a) az államigazgatási szervek,
-- b) az államháztartás központi alrendszerébe sorolt köztestületek,
-- c) a köztestületek által irányított költségvetési szervek, valamint
-- d) egyéb közjogi szervezetek
+- a) az állami szervek
+- b) a központi költségvetési szervek,
+- c) az államháztartás központi alrendszerébe sorolt köztestületek,
+- d) a köztestületek által irányított költségvetési szervek, valamint
+- e) egyéb közjogi szervezetek
 
 által folytatott nemzetközi fejlesztési együttműködésre, nemzetközi humanitárius segítségnyújtásra és stabilitást erősítő tevékenységre.
 
@@ -53,7 +54,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 - 11. nemzetközi humanitárius segítségnyújtás: a természeti és civilizációs katasztrófák által okozott humanitárius válságok, humanitárius krízishelyzet, illetve elhúzódó válságok esetén az emberi életek megmentése és a szenvedés enyhítéséhez való hozzájárulás;
 - 12. önkéntes juttatás: belföldi vagy külföldi természetes személyek, a központi költségvetésen kívüli jogi személyek és jogi személyiséggel nem rendelkező szervezetek felajánlása alapján az Ügynökség javára önkéntesen teljesített pénzbeli vagy nem pénzbeli juttatás, amely adomány és támogatás nyújtására használható fel;
 - 13. stabilitást erősítő tevékenység: a veszélyeztetett közösségek helyben maradását elősegítő, az életfeltételek helyreállítását, javítását, a szabad vallásgyakorlás védelmét, valamint a szellemi és az épített kulturális örökség megőrzését szolgáló programokhoz és projektekhez való hozzájárulás;
-- 14. támogatás: ellenérték és visszatérítési kötelezettség nélkül, elszámolási kötelezettség mellett, jogszabály vagy egyedi döntés alapján, pályázati úton vagy pályázati rendszeren kívül a kedvezményezett részére nyújtott pénzbeli vagy nem pénzbeli, cél szerinti juttatás;
+- 14. támogatás: ellenérték és visszatérítési kötelezettség nélkül, elszámolási kötelezettséggel, jogszabály vagy egyedi döntés alapján, pályázati úton vagy pályázati rendszeren kívül a kedvezményezett részére nyújtott pénzbeli vagy nem pénzbeli, cél szerinti juttatás;
 - 15. technikai segítségnyújtás: a Program keretében nyújtott olyan nem pénzbeli juttatás, amely különösen kutatási, oktatási vagy szakképzési tevékenység, szakmai tanácsadás és szakértői együttműködés, továbbá az információs és együttműködési tevékenység támogatása, a Program kommunikációjával, a széleskörű nyilvánosság megteremtésével kapcsolatos feladatok támogatása, a támogatott tevékenységek végrehajtásával, értékelésével, auditálásával, ellenőrzésével és nyomon követésével kapcsolatos feladatokra nyújtott juttatás;
 - 16. vallási intézmény: keresztény vagy más vallási közösség vallási tevékenységét szervező, illetve irányító társadalmi szervezet;
 - 17. veszélyeztetett közösségek: természeti és civilizációs katasztrófák által okozott humanitárius válságoknak, az éghajlati adottságok és a gazdasági körülmények okozta tartós szegénységnek, illetve üldöztetésnek vagy diszkriminációnak kitett, szükséget szenvedő emberek és közösségek.
@@ -82,7 +83,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 7. § A nemzetközi fejlesztési együttműködés (ezen alcím alkalmazásában a továbbiakban: együttműködés) a források elszámoltatható, átlátható és nyomon követhető felhasználásával, a felhasználás hatékonyságának növelésével, valamint a végrehajtásban használt eszközök és módszerek, valamint az elért eredmények fenntarthatóságának biztosításával, elsősorban a kedvezményezett partnerországokkal, hitelvű szervezetekkel és egyéb gazdasági szereplőkkel való két- vagy többoldalú együttműködés útján kell megvalósítani.
 
-8. § (1) Az együttműködés elszámolási kötelezettséggel nyújtott juttatás útján nyújtott támogatás, valamint vissza nem térítendő támogatás, illetve kedvezményes hitel nyújtásával valósul meg.
+8. § (1) Az együttműködés támogatás, valamint kedvezményes hitel nyújtásával valósul meg.
 
 (2) Magyarország az együttműködését nemzetközi szervezetek és nemzetközi fejlesztési célú alapok részére teljesített tagdíjak és önkéntes hozzájárulások útján is megvalósíthatja.
 
@@ -150,7 +151,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 (3) Nem lehet támogatás, illetve adomány kedvezményezettje olyan személy, csoport vagy egyéb szervezet, amely kapcsolatai, tevékenysége vagy kommunikációja révén a terrorizmussal, háborús és emberiesség elleni bűncselekményekkel, embercsempészettel, pénzmosással, a migráció tiltott támogatásával összefüggésbe hozható, továbbá amelyre Magyarország nemzetközi jogi kötelezettsége alapján kihirdetett, illetve az Európai Unió által elfogadott aktusokban elrendelt pénzeszközök vagy gazdasági források zárolására vonatkozó kötelezettség, illetve gazdasági, kereskedelmi vagy pénzügyi tilalom vonatkozik.
 
-(4) A kedvezményezett a támogatás odaítélését megelőzően nyilatkozik, hogy nem esik a (3) bekezdés hatálya alá, és a támogatás, valamint az adomány nem szolgálja a (3) bekezdésben foglalt tilalom alá eső célt.
+(4) A kedvezményezett a támogatás és az adomány odaítélését megelőzően nyilatkozik, hogy nem esik a (3) bekezdés hatálya alá, és a támogatás, valamint az adomány nem szolgálja a (3) bekezdésben foglalt tilalom alá eső célt.
 
 (5) A kedvezményezett
 
@@ -185,13 +186,13 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 #### 9. Az Ügynökség
 
-22. § (1) Az Ügynökség 100%-os állami tulajdonban álló nonprofit zártkörűen működő részvénytársaság, amely közfeladatként látja el a Program keretében odaítélt adományok és elszámolási kötelezettség mellett nyújtott juttatások tekintetében a támogatói feladatokat.
+22. § (1) Az Ügynökség 100%-os állami tulajdonban álló nonprofit zártkörűen működő részvénytársaság, amely közfeladatként látja el a Program keretében odaítélt adományok és elszámolási kötelezettséggel nyújtott juttatások tekintetében a támogatói feladatokat.
 
 (2) Az Ügynökség felett a tulajdonosi jogokat a miniszter által vezetett minisztérium (a továbbiakban: tulajdonosi joggyakorló) gyakorolja.
 
 23. § Az Ügynökség vezérigazgatója, illetve az Ügynökséggel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet olyan személy, akire nézve az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48/B. §-ában meghatározott feltételek bármelyike fennáll, továbbá aki párt vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője.
 
-24. § Az Ügynökség adományt, elszámolási kötelezettség mellett nyújtott juttatást kizárólag a miniszter előzetes jóváhagyásával nyújthat.
+24. § Az Ügynökség adományt, elszámolási kötelezettséggel nyújtott juttatást kizárólag a miniszter előzetes jóváhagyásával nyújthat.
 
 25. § (1) A belföldi természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek az Ügynökség javára történő önkéntes juttatásaik alapján − a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvényben, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvényben − a közhasznú szervezetek részére juttatott adományra vonatkozóan meghatározott kedvezményeket vehetnek igénybe.
 
@@ -201,7 +202,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 (4) Ha a meghatározott célra felajánlott vagy feltételhez kötött önkéntes juttatás nem felel meg a Program céljának, az Ügynökség azt elutasítja, az elfogadott önkéntes juttatást pedig visszaszolgáltatja.
 
-(5) Amennyiben a meghatározott célra felajánlott vagy feltételhez kötött önkéntes juttatást elfogadták, azonban annak az önkéntes hozzájárulást nyújtó utasítása szerinti felhasználása lehetetlenné vált, úgy az Ügynökség – felhasználási javaslatának ismertetésével – újabb utasítást kér az önkéntes juttatás nyújtójától. Újabb utasítás hiányában az Ügynökség az Ügynökség igazolt költségeivel csökkentett mértékű önkéntes juttatást visszaszolgáltatja.
+(5) Amennyiben a meghatározott célra felajánlott vagy feltételhez kötött önkéntes juttatást elfogadták, azonban annak az önkéntes juttatást nyújtó utasítása szerinti felhasználása lehetetlenné vált, úgy az Ügynökség – felhasználási javaslatának ismertetésével – újabb utasítást kér az önkéntes juttatás nyújtójától. Újabb utasítás hiányában az Ügynökség az Ügynökség igazolt költségeivel csökkentett mértékű önkéntes juttatást visszaszolgáltatja.
 
 (6) A 20. § a), c) és d) pontja szerinti személyekkel és juttatásaikkal kapcsolatban – a juttatások teljesítésének ellenőrizhetősége és ezek esetleges visszaszolgáltatása érdekében – az Ügynökség tudomására jutott, illetve a juttatást nyújtó által közölt alábbi adatokat rögzíti:
 
@@ -221,17 +222,17 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 #### 10. Az Ügynökség működése és feladatai
 
-27. § Az Ügynökség ellátja az adományok, elszámolási kötelezettség mellett nyújtott juttatások nyújtásával kapcsolatos egyes feladatokat, így különösen
+27. § Az Ügynökség ellátja az adományok, elszámolási kötelezettséggel nyújtott juttatások nyújtásával kapcsolatos egyes feladatokat, így különösen
 
 - a) felméri az adományozási és juttatási igényeket,
 - b) előkészíti az adományozási programokat és az adományozó leveleket,
-- c) előkészíti a pályázati felhívásokat és az elszámolási kötelezettség mellett nyújtott juttatások okiratait,
+- c) előkészíti a pályázati felhívásokat és az elszámolási kötelezettséggel nyújtott juttatások okiratait,
 - d) lebonyolítja a pályázati eljárásokat,
 - e) elbírálja a pályázatokat és a juttatási kérelmeket,
-- f) a miniszter elé terjeszti szakmai felügyeleti ellenjegyzés céljából az adományozó leveleket, az elszámolási kötelezettség mellett nyújtott juttatások okiratait,
-- g) eljár az adományozó levelek, az elszámolási kötelezettség mellett nyújtott juttatási okiratok teljesítése érdekében,
-- h) elvégzi a nyújtott adományok és elszámolási kötelezettség mellett nyújtott juttatások felhasználásával kapcsolatos monitoring feladatokat,
-- i) érvényesíti az adományozó levelekből, elszámolási kötelezettség mellett nyújtott juttatások okirataiból eredő jogokat,
+- f) a miniszter elé terjeszti szakmai felügyeleti ellenjegyzés céljából az adományozó leveleket, az elszámolási kötelezettséggel nyújtott juttatások okiratait,
+- g) eljár az adományozó levelek, az elszámolási kötelezettséggel nyújtott juttatási okiratok teljesítése érdekében,
+- h) elvégzi a nyújtott adományok és elszámolási kötelezettséggel nyújtott juttatások felhasználásával kapcsolatos monitoring feladatokat,
+- i) érvényesíti az adományozó levelekből, elszámolási kötelezettséggel nyújtott juttatások okirataiból eredő jogokat,
 - j) vezeti a nyújtott adományokkal és támogatásokkal kapcsolatos nyilvántartásokat,
 - k) ellátja az ösztöndíjprogramokkal kapcsolatos feladatokat,
 - l) ellátja a követeléskezelési feladatokat, továbbá
@@ -266,7 +267,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 (3) Az előminősített szervezet részére a miniszter minősítő levelet ad át.
 
-(4) Az előminősített szervezet vezető tisztségviselője haladéktalanul köteles bejelenteni a miniszternek, ha a szervezet nemzetközi humanitárius segítségnyújtási tevékenységével felhagy, vagy nem felel meg a 33. §-ban foglalt feltételeknek.
+(4) Az előminősített szervezet vezető tisztségviselője haladéktalanul köteles bejelenteni a miniszternek, ha a szervezet nemzetközi humanitárius segítségnyújtási tevékenységével felhagy, vagy nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
 #### 13. Záró rendelkezések
 

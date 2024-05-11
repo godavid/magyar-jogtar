@@ -62,7 +62,7 @@ megismerése nem korlátozható.
 - 9. CPV: közös közbeszerzési szójegyzék, amely a közös közbeszerzési szószedetről (CPV) szóló 2002. november 5-ei 2195/2002/EK parlamenti és tanácsi rendelettel elfogadott, a beszerzési szerződésekre alkalmazandó, az egyéb nómenklatúráknak való megfelelést biztosító referencia-nómenklatúra,
 - 10. elektronikus út: elektronikus adatfeldolgozást, -tárolást és -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása,
 - 11. életciklus: valamely termék összes egymást követő lehetséges életszakasza, amelybe beletartozik a kutatás és fejlesztés, az ipari fejlesztés, a gyártás, a javítás, a modernizálás, a módosítás, a karbantartás, a logisztika, a képzés, a tesztelés, a visszavonás és a használatból való kivonás,
-- 12. előzetes minősítés: a gazdasági szereplő nemzetbiztonsági szempontból történő előzetes, átfogó vizsgálata a meghívásra alkalmas gazdasági szereplők jegyzékére való felkerülés céljából,
+- 12. előzetes minősítés: a gazdasági szereplő nemzetbiztonsági szempontból történő előzetes, átfogó vizsgálata a meghívásra alkalmas gazdasági szereplők jegyzékére, minősített piaci szereplők jegyzékére való felkerülés céljából,
 - 13. építési beruházás: olyan beszerzés, amelynek tárgya a CPV 45. fejezetében említett tevékenységek valamelyikéhez kapcsolódó kivitelezés vagy tervezés és kivitelezés együtt, vagy az ajánlatkérő által megállapított követelményeknek megfelelő építmény bármilyen eszközzel vagy módon történő kivitelezése,
 - 14. építmény: az épített környezet alakításáról és védelméről szóló törvényben ekként meghatározott fogalom,
 - 15. európai műszaki engedély: valamely termék meghatározott rendeltetésre való alkalmasságának kedvező műszaki elbírálása, amely az építési beruházási munkákra vonatkozó alapvető követelményeknek a termék belső tulajdonságai és a meghatározott üzembe helyezési és használati feltételek szerinti teljesítésén alapul, amit a tagállam által e célra kijelölt tanúsító szerv bocsát ki,
@@ -165,7 +165,7 @@ megismerése nem korlátozható.
 - 1. Magyarország és egy vagy több európai uniós tagállam, illetve egy vagy több harmadik ország között kötött nemzetközi szerződés alapján külön eljárási rend szerint lefolytatásra kerülő beszerzésre,
 - 2. csapatok állomásoztatására vonatkozó és valamely tagállam vagy harmadik ország vállalkozásait érintően kötött nemzetközi szerződés alapján külön eljárási rend szerinti beszerzésre,
 - 3. valamely nemzetközi szervezet sajátos eljárási szabályainak hatálya alá tartozó, a szervezet saját céljai érdekében történő beszerzésre, továbbá arra a beszerzésre, amelyet a szervezet sajátos eljárási szabályaival összhangban Magyarország folytat le,
-- 4. az Európai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSZ) 346. cikke alapján történő azon beszerzésekre, amelyek esetében ezen törvény szabályainak alkalmazása olyan információk átadására kötelezné a tagállamot, amelyek felfedése ellentétes a tagállam biztonságához fűződő alapvető érdekeivel, és amelyek megrendelésére az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott,
+- 4. a 61–63. alcím kivételével, az Európai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSZ) 346. cikke alapján történő azon beszerzésekre, amelyek esetében ezen törvény szabályainak alkalmazása olyan információk átadására kötelezné a tagállamot, amelyek felfedése ellentétes a tagállam biztonságához fűződő alapvető érdekeivel, és amelyek megrendelésére az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott,
 - 5. a hírszerző és elhárító tevékenységek céljából lefolytatott beszerzésekre,
 - 6. Magyarország és legalább egy másik európai uniós tagállam által közösen folytatott, új termék kifejlesztésére irányuló, e termék teljes életciklusára vagy annak egy részére vonatkozó kutatáson és fejlesztésen alapuló együttműködési programok keretében odaítélt szerződésekre,
 - 7. a harmadik országban kiírt olyan beszerzésre, a civil célú beszerzéseket is ideeértve, amelyekre a Magyar Honvédségnek az Európai Unió területén kívül történő állomásoztatása során kerül sor, ahol a műveleti igények megkövetelik, hogy e beszerzést a műveletek körzetében tevékenységet kifejtő gazdasági szereplők bevonásával folytassák le,
@@ -1780,9 +1780,9 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 (2) Az (1) bekezdés alkalmazásában külpolitikai érdek alatt a külpolitikáért felelős miniszter által vezetett minisztérium és az irányítása alá tartozó külképviseletek kül-, biztonság- és védelempolitikai érdekkörében felmerülő feladatokat kell érteni.
 
-#### 61. Ajánlattevők, részvételre jelentkezők, alvállalkozók, kiemelt alvállalkozók jegyzéke
+#### 61. Ajánlattevők, részvételre jelentkezők, alvállalkozók, kiemelt alvállalkozók jegyzéke és a minősített piaci szereplők jegyzéke
 
-116. § (1) A beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a jegyzéken szereplő gazdasági szereplő vehet részt, a 117. § (2)–(5) bekezdésében foglalt kivételekkel. A jegyzéken
+116. § (1) A beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a jegyzéken szereplő gazdasági szereplő vehet részt, a (2) bekezdésben és a 117. § (2)–(5) bekezdésében foglalt kivételekkel. A jegyzéken
 
 - a) a Mavtv.-ben meghatározott telephely biztonsági tanúsítvánnyal vagy egyszerűsített telephely biztonsági tanúsítvánnyal (a továbbiakban együtt: TBT) rendelkező gazdasági szereplők,
 - b) az előzetes minősítésen megfelelt gazdasági szereplők, valamint
@@ -1790,107 +1790,145 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 szerepelnek.
 
-(2) A jegyzéket az AH vezeti. Az ajánlatkérőt írásbeli megkeresése alapján az AH írásban vagy az ajánlatkérő által megadott elektronikus levélcímen elektronikus úton öt munkanapon belül tájékoztatja a jegyzéken szereplő gazdasági szereplőkkel összefüggő, jegyzéken szereplő adatokról.
+(2) A minősített piaci szereplők jegyzéke egy olyan speciális jegyzék, amely az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott gazdasági szektort érintő beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként szereplő gazdasági szereplőket tartalmazza. E bekezdésben felsorolt beszerzési eljárásokban kizárólag a minősített piaci szereplők jegyzékén nyilvántartott gazdasági szereplő vehet részt, a 117. § (2)–(5) bekezdésében foglalt kivételekkel. A minősített piaci szereplők jegyzékén az előzetes minősítésen megfelelt gazdasági szereplők, valamint a beszerzési eljáráshoz kötődő minősítésen megfelelt gazdasági szereplők szerepelnek.
 
-(3) A nemzetbiztonsági szolgálatok saját beszerzéseik tekintetében az egyes beszerzésekhez kapcsolódóan, az ajánlattételi felhívással induló eljárásban az ajánlattételi felhívás megküldését megelőzően jogosultak a jegyzéken szereplő gazdasági szereplőket kiegészítő ellenőrzéseknek alávetni. Ha a kiegészítő ellenőrzés nemzetbiztonsági kockázatot vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázatot állapít meg, az ajánlattételi felhívással induló eljárásban a gazdasági szereplőnek ajánlattételi felhívás nem küldhető, a részvételi felhívással induló eljárásban a részvételi jelentkezőt az 129. § (1) bekezdés d) pontja alapján az érintett beszerzési eljárásból ki kell zárni.
+(3) A jegyzéket és a minősített piaci szereplők jegyzékét az AH vezeti. Az ajánlatkérőt írásbeli megkeresése alapján az AH írásban vagy az ajánlatkérő által megadott elektronikus levélcímen elektronikus úton öt munkanapon belül tájékoztatja a jegyzéken vagy a minősített piaci szereplők jegyzékén szereplő gazdasági szereplőkkel összefüggő, az egyes jegyzéken szereplő adatokról.
 
-(4) A nemzetbiztonsági szolgálat a szakvélemény megküldésével értesíti az AH-t, ha a kiegészítő ellenőrzés során olyan nemzetbiztonsági kockázati tényezőt tár fel, ami alapján a jegyzékről törölni kell a gazdasági szereplőt. Az AH a TBT-vel nem rendelkező gazdasági szereplőt törli a jegyzékről. TBT-vel rendelkező gazdasági szereplők esetén az AH az NBF-et értesíti arról, hogy a gazdasági szereplő vonatkozásában nemzetbiztonsági kockázat merült fel.
+(4) A nemzetbiztonsági szolgálatok saját beszerzéseik tekintetében az egyes beszerzésekhez kapcsolódóan, az ajánlattételi felhívással induló eljárásban az ajánlattételi felhívás megküldését megelőzően jogosultak a jegyzéken szereplő gazdasági szereplőket kiegészítő ellenőrzéseknek alávetni. Ha a kiegészítő ellenőrzés nemzetbiztonsági kockázatot vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázatot állapít meg, az ajánlattételi felhívással induló eljárásban a gazdasági szereplőnek ajánlattételi felhívás nem küldhető, a részvételi felhívással induló eljárásban a részvételi jelentkezőt a 129. § (1) bekezdés d) pontja alapján az érintett beszerzési eljárásból ki kell zárni.
 
-(5) Az AH tájékoztatja a Bizottságot és a többi tagállamot arról a postai vagy elektronikus címről, ahova a jegyzékre történő felvétel iránti kérelmeket küldeni kell.
+(5) A nemzetbiztonsági szolgálat a szakvélemény megküldésével értesíti az AH-t, ha a kiegészítő ellenőrzés során olyan nemzetbiztonsági kockázati tényezőt tár fel, ami alapján a jegyzékről törölni kell a gazdasági szereplőt. Az AH a TBT-vel nem rendelkező gazdasági szereplőt törli a jegyzékről. TBT-vel rendelkező gazdasági szereplők esetén az AH az NBF-et értesíti arról, hogy a gazdasági szereplő vonatkozásában nemzetbiztonsági kockázat merült fel.
 
-117. § (1) Az ajánlatkérő a beszerzési eljárásban a 129. § (1) bekezdésében foglaltakon túl az eljárást megindító felhívásban előírhatja, hogy az eljárásból kizárja azon részvételre jelentkezőt vagy ajánlattevőt is, akinek az alvállalkozója, kiemelt alvállalkozója nem szerepel a jegyzéken.
+(6) Amennyiben a nemzetbiztonsági szolgálat tudomására olyan tény vagy adat jut, amely a jegyzéken vagy a minősített piaci szereplők jegyzékén lévő gazdasági szereplő nemzetbiztonsági kockázatát vetheti fel, arról annak megküldésével értesíti az AH-t.
 
-(2) Az ajánlatkérő az eljárást megindító felhívásban vagy a dokumentációban előírhatja, hogy a részvételi szakaszt lezáró összegezés megküldésének feltétele a részvételre jelentkező és a kiemelt alvállalkozó jegyzékre való felvétele.
+(7) Az AH a jegyzéken lévő gazdasági szereplőket évente felülvizsgálhatja, amennyiben nemzetbiztonsági kockázatot állapít meg törli a jegyzékről.
 
-(3) Az ajánlatkérő az ajánlattételi felhívásban vagy a dokumentációban előírhatja, hogy ajánlattételi szakaszt lezáró összegezés megküldésének feltétele az ajánlattevő és a kiemelt alvállalkozó jegyzékre való felvétele.
+(8) Az AH tájékoztatja a Bizottságot és a többi tagállamot arról a postai vagy elektronikus címről, ahova a jegyzékre és a minősített piaci szereplők jegyzékére történő felvétel iránti kérelmeket küldeni kell.
 
-(4) A beszerzési eljárásban az ajánlatkérő a felhívásban vagy a dokumentációban lehetővé teheti, hogy az ajánlattevő által igénybevett alvállalkozó, egyéb közreműködő kiemelt alvállalkozó az (1) bekezdésben meghatározott jegyzékre vételi feltételnek legkésőbb a szolgáltatása teljesítésének megkezdéséig tegyen eleget.
+117. § (1) Az ajánlatkérő a beszerzési eljárásban a 129. § (1) bekezdésében foglaltakon túl az eljárást megindító felhívásban előírhatja, hogy az eljárásból kizárja azon részvételre jelentkezőt vagy ajánlattevőt is, akinek az alvállalkozója, kiemelt alvállalkozója nem szerepel a jegyzéken, vagy a 116. § (2) bekezdésében meghatározott esetben a minősített piaci szereplők jegyzékén.
 
-(5) A (4) bekezdésben meghatározott esetben a nyertes ajánlattevő köteles tájékoztatni az ajánlatkérőt az általa igénybe venni kívánt alvállalkozónak, egyéb közreműködőnek vagy kiemelt alvállalkozónak – az ajánlattevő részére történő teljesítésének megkezdése előtt történt – jegyzékre vételéről.
+(2) Az ajánlatkérő az eljárást megindító felhívásban vagy a dokumentációban előírhatja, hogy a részvételi szakaszt lezáró összegezés megküldésének feltétele a részvételre jelentkező és a kiemelt alvállalkozó jegyzékre, vagy a minősített piaci szereplők jegyzékére való felvétele.
+
+(3) Az ajánlatkérő az ajánlattételi felhívásban vagy a dokumentációban előírhatja, hogy ajánlattételi szakaszt lezáró összegezés megküldésének feltétele az ajánlattevő és a kiemelt alvállalkozó jegyzékre, vagy a minősített piaci szereplők jegyzékére való felvétele.
+
+(4) A beszerzési eljárásban az ajánlatkérő a felhívásban vagy a dokumentációban lehetővé teheti, hogy az ajánlattevő által igénybe vett alvállalkozó, egyéb közreműködő kiemelt alvállalkozó jegyzékre vagy a minősített piaci szereplők jegyzékére vételi feltételnek legkésőbb a szolgáltatása teljesítésének megkezdéséig tegyen eleget.
+
+(5) A (4) bekezdésben meghatározott esetben a nyertes ajánlattevő köteles tájékoztatni az ajánlatkérőt az általa igénybe venni kívánt alvállalkozónak, egyéb közreműködőnek vagy kiemelt alvállalkozónak – az ajánlattevő részére történő teljesítésének megkezdése előtt történt – jegyzékre, vagy a minősített piaci szereplők jegyzékére vételéről.
 
 #### 62. Előzetes minősítés
 
 118. § (1) Bármely, a jegyzéken nem szereplő és TBT-vel nem rendelkező gazdasági szereplő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerint kitöltött adatlapok, nyilatkozatok AH-nak való megküldésével kezdeményezheti az előzetes minősítés lefolytatását és a jegyzékre való felvételét.
 
-(2) Az előzetes minősítés cégellenőrzésből és személyellenőrzésből áll, amely ellenőrzéseket
+(2) Bármely, a minősített piaci szereplők jegyzékén nem szereplő gazdasági szereplő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerint kitöltött adatlapok, nyilatkozatok AH-nak való megküldésével kezdeményezheti az előzetes minősítés lefolytatását és a minősített piaci szereplők jegyzékére való felvételét.
+
+(3) Az előzetes minősítés során a (4) bekezdésben meghatározott ellenőrzéseket
 
 - a) ha a gazdasági szereplő – a főtevékenysége vagy a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) rendelkezésére álló egyéb információk alapján – előreláthatólag az Nbtv. 6. §-ában meghatározott feladatköröket érintő, valamint a honvédelemért felelős miniszter által vezetett minisztérium vagy a Magyar Honvédség által lefolytatásra kerülő beszerzési eljárásban fog részt venni, a KNBSZ,
-- b) az a) pontba nem tartozó esetekben az AH
+- b) az a) pontba nem tartozó esetekben, valamint a minősített piaci szereplők jegyzékre vétele esetén az AH
 
 folytatja le.
 
-(3) Az AH kormányrendeletben meghatározott esetben elvégzi az ajánlatkérő kezdeményezésére a 7. § (1) bekezdés 4. pontja szerinti, illetve a Kbt. szerinti ajánlatkérő szervezetek kezdeményezésére a Kbt. 9. § (1) bekezdés b) pontja szerinti beszerzés során ajánlattételre felhívni kívánt, illetve ajánlatot benyújtó gazdasági szereplők, valamint alvállalkozóik cégellenőrzését és személyellenőrzését.
+(4) Az előzetes minősítés
 
-(4) Ha a gazdasági szereplő nem, vagy hiányosan nyújtja be az (1) bekezdés szerinti adatlapokat, és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a jegyzékre történő felvételét elutasítja.
+- a) a jegyzékre vétel esetén cégellenőrzésből, személyellenőrzésből,
+- b) a minősített piaci szereplők jegyzékére vétel esetén cégellenőrzésből, személyellenőrzésből, valamint a gazdasági szereplő tevékenységi területének vizsgálatából
 
-(5) Az AH a kérelem beérkezésétől, illetve hiánypótlás esetén a hiánypótlás teljesítésétől számított nyolc napon belül – a KNBSZ írásbeli megkeresésével és a KNBSZ írásbeli nyilatkozata alapján – dönt arról, hogy az előzetes minősítés lefolytatása a KNBSZ vagy az AH hatáskörébe tartozik-e. Ha a KNBSZ hatáskörébe tartozik az előzetes minősítés lefolytatása, az AH az erről szóló nyilatkozat kézhezvételét követően haladéktalanul megkeresi a KNBSZ-t az eljárás lefolytatása érdekében.
+áll.
 
-(6) Az AH a hatáskörébe tartozó előzetes minősítést a döntés meghozatalától számított – a KNBSZ a hatáskörébe tartozó előzetes minősítést az AH megkeresésétől számított – ötven napon belül végzi el. A határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(5) A (4) bekezdés b) pontja szerinti előzetes minősítés során az AH a gazdasági szereplő tevékenységi területének vizsgálatához bármely állami szervtől a működési körét érintően tájékoztatást kérhet, amit a megkeresett állami szerv 30 napon belül teljesít.
 
-(7) Az előzetes minősítést végző nemzetbiztonsági szolgálat az ellenőrzések elvégzése után nemzetbiztonsági szakvéleményt készít, amelyben nemzetbiztonsági kockázati tényező fennállását vagy annak hiányát állapítja meg. A KNBSZ a nemzetbiztonsági szakvéleményt megküldi az AH-nak.
+(6) Az AH kormányrendeletben meghatározott esetben elvégzi az ajánlatkérő kezdeményezésére a 7. § (1) bekezdés 4. pontja szerinti, illetve a Kbt. szerinti ajánlatkérő szervezetek kezdeményezésére a Kbt. 9. § (1) bekezdés b) pontja szerinti beszerzés során ajánlattételre felhívni kívánt, illetve ajánlatot benyújtó gazdasági szereplők, valamint alvállalkozóik cégellenőrzését és személyellenőrzését.
 
-(8) Az AH a nemzetbiztonsági szakvélemény elkészültétől – a KNBSZ hatáskörébe tartozó előzetes minősítés esetében a nemzetbiztonsági szakvélemény kézbesítésétől – számított nyolc napon belül jegyzékre veszi a gazdasági szereplőt, ha az ellenőrzések során nemzetbiztonsági kockázati tényező nem merült fel és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül.
+(7) Ha a gazdasági szereplő nem vagy hiányosan nyújtja be az (1) bekezdés szerinti adatlapokat, és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a jegyzékre, valamint a minősített piaci szereplők jegyzékére való felvételét elutasítja.
 
-(9) Az AH az érintett gazdasági szereplőt értesíti a jegyzékre vételről, illetve a jegyzékre vétel elutasításáról. Az elutasítást indokolni nem kell, ellene jogorvoslatnak kizárólag a 168. §-ban meghatározott körben van helye. Az elutasításról szóló döntés kézhezvételétől számított 1 éven belül, nemzetbiztonsági kockázat megállapítása esetén pedig 2 éven belül a gazdasági szereplő nem vehető fel újra a jegyzékre.
+(8) Az AH a jegyzékre való felvételi kérelem beérkezésétől, illetve hiánypótlás esetén a hiánypótlás teljesítésétől számított nyolc napon belül – a KNBSZ írásbeli megkeresésével és a KNBSZ írásbeli nyilatkozata alapján – dönt arról, hogy az előzetes minősítés lefolytatása a KNBSZ vagy az AH hatáskörébe tartozik-e. Ha a KNBSZ hatáskörébe tartozik az előzetes minősítés lefolytatása, az AH az erről szóló nyilatkozat kézhezvételét követően haladéktalanul megkeresi a KNBSZ-t az eljárás lefolytatása érdekében.
 
-(10) Ha a gazdasági szereplő jegyzékre vételének elutasítására azért kerül sor, mert az eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, a gazdasági szereplő az elutasításról vagy a törlésről szóló döntés kézhezvételétől számított 5 éven belül nem vehető fel a jegyzékre.
+(9) Az AH a hatáskörébe tartozó előzetes minősítést a döntés meghozatalától számított – a KNBSZ a hatáskörébe tartozó előzetes minősítést az AH megkeresésétől számított – hatvan napon belül végzi el. A határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-#### 63. Beszerzési eljáráshoz kötődő minősítés, a jegyzéken tartással összefüggő ellenőrzés, adatszolgáltatás
+(10) Az előzetes minősítést végző nemzetbiztonsági szolgálat az ellenőrzések elvégzése után nemzetbiztonsági szakvéleményt készít, amelyben nemzetbiztonsági kockázati tényező fennállását vagy annak hiányát állapítja meg. A KNBSZ a nemzetbiztonsági szakvéleményt megküldi az AH-nak.
 
-119. § (1) Az ajánlatkérő a külön jogszabályban meghatározott minta szerint kitöltött adatlapoknak, illetve nyilatkozatoknak az AH-hoz való megküldésével kezdeményezi a beszerzési eljáráshoz kötődő minősítést a jegyzéken nem szereplő részvételre jelentkező vagy az eljárásba kiemelt alvállalkozóként bevonni kívánt gazdasági szereplő tekintetében.
+(11) Az AH a nemzetbiztonsági szakvélemény elkészültétől – a KNBSZ hatáskörébe tartozó előzetes minősítés esetében a nemzetbiztonsági szakvélemény kézbesítésétől – számított nyolc napon belül jegyzékre veszi a gazdasági szereplőt, ha az ellenőrzések során nemzetbiztonsági kockázati tényező nem merült fel és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül.
 
-(2) Az ajánlatkérő a külön jogszabályban meghatározott minta szerinti adatlapoknak, nyilatkozatoknak az AH-hoz való megküldésével kezdeményezi a beszerzési eljáráshoz kötődő minősítést a jegyzéken nem szereplő alvállalkozó tekintetében.
+(12) Az AH a nemzetbiztonsági szakvélemény elkészültétől számított nyolc napon belül a minősített piaci szereplők jegyzékére veszi a gazdasági szereplőt, ha az ellenőrzések során nemzetbiztonsági kockázati tényező nem merült fel, az Nvt. 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül, valamint ha a gazdasági szereplő tevékenységi területének (4) bekezdés b) pontja szerinti vizsgálata nem tárt fel olyan körülményt, ami a minősített piaci szereplők jegyzékére való felvétel akadályát képezi.
 
-(3) A beszerzési eljáráshoz kötődő minősítés cégellenőrzésből és személyellenőrzésből áll, amely ellenőrzéseket
+(13) Az AH az érintett gazdasági szereplőt értesíti a jegyzékre, valamint a minősített piaci szereplők jegyzékére vételről, illetve a jegyzékre vétel elutasításáról. Az elutasítást indokolni nem kell, ellene jogorvoslatnak kizárólag a 168. §-ban meghatározott körben van helye.
+
+(14) A jegyzékre és a minősített piaci szereplők jegyzékére való felvétel elutasításáról szóló döntés kézhezvételétől számított három hónapon belül, nemzetbiztonsági kockázat megállapítása esetén pedig hat hónapon belül a gazdasági szereplő nem vehető fel újra a jegyzékre, illetve a minősített piaci szereplők jegyzékére.
+
+(15) Ha a gazdasági szereplő jegyzékre, valamint a minősített piaci szereplők jegyzékére vételének elutasítására azért kerül sor, mert az eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, a gazdasági szereplő az elutasításról vagy a törlésről szóló döntés kézhezvételétől számított három éven belül nem vehető fel a jegyzékre.
+
+#### 63. Beszerzési eljáráshoz kötődő minősítés, a jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzés, adatszolgáltatás
+
+119. § (1) Az ajánlatkérő a külön jogszabályban meghatározott minta szerint kitöltött adatlapoknak, illetve nyilatkozatoknak az AH-hoz való megküldésével kezdeményezi a beszerzési eljáráshoz kötődő minősítést a jegyzéken, vagy a minősített piaci szereplők jegyzékén nem szereplő részvételre jelentkező vagy az eljárásba kiemelt alvállalkozóként bevonni kívánt gazdasági szereplő tekintetében.
+
+(2) Az ajánlatkérő a külön jogszabályban meghatározott minta szerinti adatlapoknak, nyilatkozatoknak az AH-hoz való megküldésével kezdeményezi a beszerzési eljáráshoz kötődő minősítést a jegyzéken, vagy a minősített piaci szereplők jegyzékén nem szereplő alvállalkozó tekintetében.
+
+(3) A beszerzési eljáráshoz kötődő minősítés során a (4) bekezdésben meghatározott ellenőrzéseket
 
 - a) az Nbtv. 6. §-ában meghatározott feladatköröket érintő, valamint a honvédelemért felelős miniszter által vezetett minisztérium vagy a Magyar Honvédség által lefolytatott beszerzésekben a KNBSZ, vagy
-- b) az a) pontba nem tartozó esetekben az AH
+- b) az a) pontba nem tartozó, valamint a minősített piaci szereplők jegyzékére való felvételre irányuló esetekben az AH
 
 folytatja le.
 
-(4) Ha az adatlapok hiányosan kerülnek benyújtásra, és a gazdasági szereplő hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a gazdasági szereplő jegyzékre felvételét elutasítja.
+(4) A beszerzési eljáráshoz kötődő minősítés
 
-(5) Az AH a kérelem beérkezésétől, illetve hiánypótlás esetén a hiánypótlás teljesítésétől számított nyolc napon belül – KNBSZ írásbeli megkeresésével és a KNBSZ írásbeli nyilatkozata alapján – dönt arról, hogy a beszerzési eljáráshoz kötődő minősítés lefolytatása a KNBSZ vagy az AH hatáskörébe tartozik-e. Az AH a hatáskörébe tartozó minősítést a döntés meghozatalától számított, a KNBSZ a hatáskörébe tartozó minősítést az AH megkeresésétől számított hatvan napon belül végzi el.
+- a) a jegyzékre vétel esetén cégellenőrzésből, személyellenőrzésből,
+- b) a minősített piaci szereplők jegyzékére vétel esetén cégellenőrzésből, személyellenőrzésből, valamint a gazdasági szereplő tevékenységi területének vizsgálatából
 
-(6) Az (5) bekezdés szerinti határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+áll.
 
-(7) Az AH az (1) és (3) bekezdés ellenőrzését követően a nemzetbiztonsági szakvélemény elkészültétől – a KNBSZ hatáskörébe tartozó minősítés esetében a nemzetbiztonsági szakvélemény kézbesítésétől – számított nyolc napon belül jegyzékre veszi a gazdasági szereplőt, ha az ellenőrzések során nemzetbiztonsági kockázati tényező vele összefüggésben nem merült fel és az Nvt. 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül.
+(5) A (4) bekezdés b) pontja szerinti, a beszerzési eljáráshoz kötődő minősítés során az AH a gazdasági szereplő tevékenységi területének vizsgálatához bármely állami szervtől a működési körét érintően tájékoztatást kérhet, amit a megkeresett állami szerv 30 napon belül teljesít.
 
-(8) Az AH az (1) és (3) bekezdés ellenőrzését követően a minősítést kezdeményező ajánlatkérőt, valamint a gazdasági szereplőt értesíti a jegyzékre vételről, illetve a jegyzékre vétel elutasításáról. Az elutasítást indokolni nem kell, ellene jogorvoslatnak kizárólag a 168. §-ban meghatározott körben van helye. A gazdasági szereplő a (4) bekezdésben meghatározott esetben az elutasításról szóló döntés kézhezvételétől számított 1 éven belül, nemzetbiztonsági kockázat megállapítása esetén pedig 2 éven belül nem vehető fel újra a jegyzékre.
+(6) Ha az adatlapok hiányosan kerülnek benyújtásra, és a gazdasági szereplő hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a gazdasági szereplő jegyzékre, vagy a minősített piaci szereplők jegyzékére való felvételét elutasítja.
 
-(9) Az AH – a (2) bekezdés szerint elvégzett ellenőrzést követően – a minősítést kezdeményező ajánlatkérőt, valamint a gazdasági szereplőt értesíti az eljárás eredményéről, amely során szakvéleményt állít ki a konkrét beszerzési eljáráshoz kötődően. Az elutasítás esetén a döntést indokolni nem kell, ellene jogorvoslatnak kizárólag a 168. §-ban meghatározott körben van helye.
+(7) Az AH a kérelem beérkezésétől, illetve hiánypótlás esetén a hiánypótlás teljesítésétől számított nyolc napon belül – a jegyzékre való felvételi kérelem esetén a KNBSZ írásbeli megkeresésével és a KNBSZ írásbeli nyilatkozata alapján – dönt arról, hogy a beszerzési eljáráshoz kötődő minősítés lefolytatása a KNBSZ vagy az AH hatáskörébe tartozik-e. Az AH a hatáskörébe tartozó minősítést a döntés meghozatalától számított, a KNBSZ a hatáskörébe tartozó minősítést az AH megkeresésétől számított hatvan napon belül végzi el, amely egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(10) Ha a gazdasági szereplő jegyzékre vételének elutasítására azért kerül sor, mert az eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, az elutasításról vagy a törlésről szóló döntés kézhezvételétől számított öt éven belül nem vehető fel újra a jegyzékre.
+(8) Az AH (4) bekezdés a) pontja szerinti ellenőrzését követően a nemzetbiztonsági szakvélemény elkészültétől – a KNBSZ hatáskörébe tartozó minősítés esetében a nemzetbiztonsági szakvélemény kézbesítésétől – számított nyolc napon belül jegyzékre veszi a gazdasági szereplőt, ha az ellenőrzések során nemzetbiztonsági kockázati tényező vele összefüggésben nem merült fel és az Nvt. 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül.
 
-120. § (1) A jegyzékre vett, TBT-vel nem rendelkező gazdasági szereplő az utolsó felülvizsgálat során végzett ellenőrzést követő huszonnegyedik hónap utolsó napjáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet meghatározott minta szerinti nyilatkozatokat és adatlapokat ismét kitölteni, és az AH-nak megküldeni.
+(9) Az AH a (4) bekezdés b) pontja és az (5) bekezdés szerinti ellenőrzését követően a nemzetbiztonsági szakvélemény elkészültétől számított nyolc napon belül a minősített piaci szereplők jegyzékére veszi a gazdasági szereplőt, ha az ellenőrzések során nemzetbiztonsági kockázati tényező nem merült fel, az Nvt. 3. § (1) bekezdés 1. pontja alapján átlátható szervezetnek minősül, valamint ha a gazdasági szereplő tevékenységi területének (4) bekezdés b) pontja szerinti vizsgálata nem tárt fel olyan körülményt, ami a minősített piaci szereplők jegyzékére való felvétel akadályát képezi.
 
-(2) Ha a gazdasági szereplő nem tesz eleget az (1) és (4) bekezdésben foglalt adatszolgáltatási kötelezettségének vagy hiányosan nyújtja be az adatlapokat, nyilatkozatokat, és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a gazdasági szereplőt – egyidejű értesítése mellett – törli a jegyzékről, és erről értesíti az ajánlatkérőt is.
+(10) Az AH az ellenőrzését követően a minősítést kezdeményező ajánlatkérőt, valamint a gazdasági szereplőt értesíti a jegyzékre, vagy a minősített piaci szereplők jegyzékére vételről, illetve a jegyzékre vagy a minősített piaci szereplők jegyzékre vétel elutasításáról. Az elutasítást indokolni nem kell, ellene jogorvoslatnak kizárólag a 168. §-ban meghatározott körben van helye. A gazdasági szereplő az elutasításról szóló döntés kézhezvételétől számított három hónapon belül, nemzetbiztonsági kockázat megállapítása esetén pedig hat hónapon belül nem vehető fel újra a jegyzékre, illetve a minősített piaci szereplők jegyzékére.
 
-(3) Az adatszolgáltatást követő, a jegyzéken tartáshoz szükséges ellenőrzéseket a 118. § (2) bekezdésében és a 119. § (3) bekezdésében foglaltak szerint az AH hatáskörébe utalt előzetes minősítések és beszerzési eljáráshoz kötődő minősítések esetében az AH, egyéb esetekben a KNBSZ végzi. Az ellenőrzéseket hatvan napon belül kell elvégezni, a határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(11) Az AH – a (2) bekezdés szerint elvégzett ellenőrzést követően – a minősítést kezdeményező ajánlatkérőt, valamint a gazdasági szereplőt értesíti az eljárás eredményéről, amely során szakvéleményt állít ki a konkrét beszerzési eljáráshoz kötődően. Az elutasítás esetén a döntést indokolni nem kell, ellene jogorvoslatnak kizárólag a 168. §-ban meghatározott körben van helye.
 
-(4) A jegyzéken szereplő gazdasági szereplő a változás beálltát követő nyolc napon belül köteles bejelenteni az AH-nak, ha
+(12) Ha a gazdasági szereplő jegyzékre, vagy a minősített piaci szereplők jegyzékére vételének elutasítására azért kerül sor, mert az eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, az elutasításról vagy a törlésről szóló döntés kézhezvételétől számított három éven belül nem vehető fel újra a jegyzékre.
+
+120. § (1) A jegyzékre vett TBT-vel nem rendelkező gazdasági szereplő az utolsó felülvizsgálat során végzett ellenőrzést követő huszonnegyedik hónap utolsó napjáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet meghatározott minta szerinti nyilatkozatokat és adatlapokat ismét kitölteni, és az AH-nak megküldeni.
+
+(2) A minősített piaci szereplők jegyzékére vett gazdasági szereplő az utolsó felülvizsgálat során végzett ellenőrzést követő huszonnegyedik hónap utolsó napjáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet által meghatározott nyilatkozatokat és adatlapokat ismét kitölteni, és az AH-nak megküldeni.
+
+(3) Ha a gazdasági szereplő nem tesz eleget az (1), (2) és (5) bekezdésben foglalt adatszolgáltatási kötelezettségének vagy hiányosan nyújtja be az adatlapokat, nyilatkozatokat, és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a gazdasági szereplőt – egyidejű értesítése mellett – törli a jegyzékről vagy a minősített piaci szereplők jegyzékéről, és erről értesíti az ajánlatkérőt is.
+
+(4) Az adatszolgáltatást követő, a jegyzéken, vagy a minősített piaci szereplők jegyzékén tartáshoz szükséges ellenőrzéseket a 118. § (3) bekezdésében és a 119. § (3) bekezdésében foglaltak szerint az AH hatáskörébe utalt előzetes minősítések és beszerzési eljáráshoz kötődő minősítések esetében az AH, egyéb esetekben a KNBSZ végzi. Az ellenőrzéseket hatvan napon belül kell elvégezni, a határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+
+(5) A jegyzéken, valamint a minősített piaci szereplők jegyzékén szereplő gazdasági szereplő a változás beálltát követő nyolc napon belül köteles bejelenteni az AH-nak, ha
 
 - a) a cégellenőrzési adatlap tartalmában vagy a személyellenőrzéssel érintett személyek körében változás áll be,
 - b) a gazdasági szereplő ellen csődeljárás, felszámolási eljárás, végelszámolási eljárás vagy kényszertörlési eljárás indult, vagy
 - c) a gazdasági szereplő ellen a Tpvt. 11. §-a, vagy az EUMSZ. 101. cikke szerinti, öt évnél nem régebben meghozott jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el; vagy ha a gazdasági szereplő ilyen jogszabálysértését más versenyhatóság vagy bíróság – öt évnél nem régebben – jogerősen megállapította, és egyúttal bírságot szabott ki.
 
-(5) Az AH a (3) bekezdésben foglaltak szerint intézkedik a gazdasági szereplő újbóli cégellenőrzésének vagy további személyellenőrzések végrehajtása érdekében, a csődeljárás, felszámolási eljárás, végelszámolási eljárás vagy kényszertörlési eljárás alatt álló gazdasági szereplőt pedig további ellenőrzések lefolytatása nélkül törli a jegyzékről.
+(6) Az AH a (4) bekezdésben foglaltak szerint intézkedik a gazdasági szereplő újbóli cégellenőrzésének, további személyellenőrzések, valamint a gazdasági szereplők tevékenységi területe vizsgálatának végrehajtása érdekében, továbbá a csődeljárás, felszámolási eljárás, végelszámolási eljárás vagy kényszertörlési eljárás alatt álló gazdasági szereplőt pedig további ellenőrzések lefolytatása nélkül törli a jegyzékről vagy a minősített piaci szereplők jegyzékéről.
 
-(6) Az AH a nemzetbiztonsági szakvélemény elkészültétől – a KNBSZ által végzett ellenőrzések esetén a nemzetbiztonsági szakvélemény kézhezvételétől – számított nyolc napon belül a gazdasági szereplőt
+(7) Az AH a gazdasági szereplőt – annak írásos megkeresése alapján, saját kérelmére – törli a jegyzékről, vagy a minősített piaci szereplők jegyzékéről.
 
-- a) – egyidejű értesítése mellett – törli a jegyzékről, ha vele szemben az ellenőrzés során nemzetbiztonsági kockázati tényező merült fel, vagy
-- b) a jegyzéken tartja, ha vele szemben az ellenőrzés során nemzetbiztonsági kockázati tényező nem merült fel.
+(8) Az AH a nemzetbiztonsági szakvélemény elkészültétől – a jegyzék tekintetében a KNBSZ által végzett ellenőrzések esetén a nemzetbiztonsági szakvélemény kézhezvételétől – számított nyolc napon belül a gazdasági szereplőt – egyidejű értesítése mellett –
 
-(7) A gazdasági szereplő
+- a) törli a jegyzékről és a minősített piaci szereplők jegyzékéről, ha vele szemben az ellenőrzés során nemzetbiztonsági kockázati tényező merült fel,
+- b) törli a jegyzékről és a minősített piaci szereplők jegyzékéről, ha az Nvt. 3. § (1) bekezdés 1. pontja alapján nem minősül átlátható szervezetnek,
+- c) törli a minősített piaci szereplők jegyzékéről, ha a gazdasági szereplő tevékenységi területének vizsgálata olyan körülményt tárt fel, ami a minősített piaci szereplők jegyzékre való felvétel akadályát képezi, vagy
+- d) a jegyzéken és a minősített piaci szereplők jegyzékén tartja, ha vele szemben az a)–c) pontokban meghatározott ok nem áll fenn.
 
-- a) a (2) bekezdésben meghatározott esetben a jegyzékről való törlésről szóló határozat kézhezvételétől számított 1 éven belül, vagy
-- b) a (6) bekezdés a) pontjában és a 116. § (4) bekezdésében meghatározott esetben a törlésről szóló döntés kézhezvételétől számított 2 éven belül
+(9) A gazdasági szereplő
 
-nem vehető jegyzékre.
+- a) a (3) bekezdésben meghatározott esetben a jegyzékről való törlésről szóló határozat kézhezvételétől számított három hónapon belül, vagy
+- b) a (8) bekezdés a) és b) pontjában, valamint a 116. § (4) bekezdésében meghatározott esetben a törlésről szóló döntés kézhezvételétől számított hat hónapon belül
 
-(8) Ha a gazdasági szereplő törlésére azért kerül sor, mert az eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, a gazdasági szereplő az elutasításról vagy a törlésről szóló döntés kézhezvételétől számított öt éven belül nem vehető fel újra a jegyzékre.
+nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzékére.
 
-(9) Ha valamely nemzetbiztonsági szolgálat műveleti tevékenysége során nemzetbiztonsági kockázatot megalapozó információ merül fel a jegyzéken lévő gazdasági szereplővel szemben, az AH a tudomásra jutást követően haladéktalanul, további ellenőrzések nélkül törli a jegyzékről, és erről a gazdasági szereplőt értesíti. Ebben az esetben a gazdasági szereplő a törlésről szóló döntés kézhezvételétől számított 2 éven belül nem vehető jegyzékre.
+(10) Ha a gazdasági szereplő törlésére azért kerül sor, mert az eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, a gazdasági szereplő az elutasításról vagy a törlésről szóló döntés kézhezvételétől számított három éven belül nem vehető fel újra a jegyzékre.
+
+(11) Ha valamely nemzetbiztonsági szolgálat műveleti tevékenysége során a (8) bekezdés a)–c) pontjaiban meghatározott törlési okokat megalapozó információ merül fel a jegyzéken és a minősített piaci szereplők jegyzékén lévő gazdasági szereplővel szemben, az AH a tudomásra jutást követően haladéktalanul, további ellenőrzések nélkül törli a jegyzékről, illetve a minősített piaci szereplők jegyzékéről és erről a gazdasági szereplőt értesíti.
+
+(12) A kezdeményező által a cég-adatlapon feltüntetett, a gazdasági szereplő működésére jelentős befolyással bíró személy huzamosabb idejű külföldi tartózkodása, betegsége vagy egyéb – az ellenőrzést végző nemzetbiztonsági szolgálaton kívül álló – külső tényező a 118. § (3) és (4) bekezdésében, a 119. § (3) bekezdésében és a (4) bekezdésben meghatározott ellenőrzés alá vont gazdasági szereplő eredményes ellenőrzését aránytalanul megnehezíti vagy lehetetlenné teszi, az ellenőrzés az akadály megszűnéséig szüneteltethető. A szüneteléséről az eljáró nemzetbiztonsági szolgálat az ajánlatkérőt és az érintett gazdaság szereplőt 8 napon belül írásban értesíti. A szünetelés az elrendelés alapjául szolgáló körülmény fennállásáig, de legfeljebb 6 hónapig tarthat. Az ellenőrzés szünetelésének időtartama az ellenőrzés határidejébe nem számít bele.
 
 121. § (1) A jegyzék tartalmazza
 
@@ -1900,11 +1938,20 @@ nem vehető jegyzékre.
 - d) a jegyzékre vétel időpontját és
 - e) a gazdasági szereplő utolsó cégellenőrzésének időpontját.
 
-(2) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) és d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2) A minősített piaci szereplők jegyzéke tartalmazza
 
-(3) Az (1) bekezdés a) és b) pontjában meghatározott adatok változását a gazdasági szereplők által megküldött változásbejelentések alapján az AH a jegyzéken átvezeti.
+- a) a gazdasági szereplő nevét, székhelyét, postai címét, elektronikus levélcímét, cégjegyzékszámát,
+- b) a gazdasági szereplő főtevékenységét,
+- c) a gazdasági szereplő tevékenységi területét a külön jogszabályban megjelölt szektor megnevezésével,
+- d) azt, hogy a gazdasági szereplő rendelkezik-e TBT-vel és ha igen, a TBT minősítési szintjét,
+- e) a jegyzékre vétel időpontját és
+- f) a gazdasági szereplő utolsó cégellenőrzésének időpontját.
 
-(4) Az (1) bekezdésben szereplő adatokat az AH a jegyzékről való törlést követő 5 évig kezeli, ezt követően az adatokat törli.
+(3) Az (1) és (2) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) és d) pontjában, valamint a (2) bekezdés d) és e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(4) Az (1) és (2) bekezdés a) és b) pontjában meghatározott adatok változását a gazdasági szereplők által megküldött változásbejelentések alapján az AH a jegyzékeken átvezeti.
+
+(5) Az (1) és (2) bekezdésben szereplő adatokat az AH a jegyzékekről való törlést követő 5 évig kezeli, ezt követően az adatokat törli.
 
 #### 64. Feltételek a minősített adatok védelme érdekében
 
@@ -1953,15 +2000,15 @@ nem vehető jegyzékre.
 
 129. § (1) Az ajánlatkérőnek az eljárásból ki kell zárnia azt a részvételre jelentkezőt, illetve ajánlattevőt,
 
-- a) aki nem szerepel a jegyzéken és a beszerzési eljáráshoz kötődő minősítés ajánlatkérő által történő kezdeményezése érdekében nem csatolta a külön jogszabályban meghatározott minta szerinti, kitöltött adatlapokat, nyilatkozatokat,
-- b) akit a beszerzéshez kötődő minősítési vizsgálat eredményeként a jegyzékre nem vesznek fel,
-- c) aki a jegyzéken nem szereplő és alvállalkozóként bevonni kívánt gazdasági szereplő vonatkozásában az alvállalkozó beszerzési eljáráshoz kötődő minősítésének az ajánlatkérő vagy részvételre jelentkező által történő kezdeményezése érdekében nem csatolta az alvállalkozó által kitöltött, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerinti adatlapokat, nyilatkozatokat, vagy
+- a) aki nem szerepel a jegyzéken, vagy jogszabályban meghatározott esetben a minősített piaci szereplők jegyzékén és a beszerzési eljáráshoz kötődő minősítés ajánlatkérő által történő kezdeményezése érdekében nem csatolta a külön jogszabályban meghatározott minta szerinti, kitöltött adatlapokat, nyilatkozatokat,
+- b) akit a beszerzéshez kötődő minősítési vizsgálat eredményeként a jegyzékre, vagy jogszabályban meghatározott esetben a minősített piaci szereplők jegyzékére nem vesznek fel,
+- c) aki a jegyzéken, vagy jogszabályban meghatározott esetben a minősített piaci szereplők jegyzékén nem szereplő és alvállalkozóként bevonni kívánt gazdasági szereplő vonatkozásában az alvállalkozó beszerzési eljáráshoz kötődő minősítésének az ajánlatkérő vagy részvételre jelentkező által történő kezdeményezése érdekében nem csatolta az alvállalkozó által kitöltött, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerinti adatlapokat, nyilatkozatokat, vagy
 - d) akinek a kiegészítő ellenőrzése során a nemzetbiztonsági szolgálat az érintett beszerzési eljárás vonatkozásában nemzetbiztonsági kockázati tényező, vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázati tényező fennállását állapította meg.
 
 (2) Az ajánlatkérőnek az eljárásból ki kell zárnia az olyan részvételre jelentkezőt, ajánlattevőt, vagy alvállalkozót,
 
-- a) akit a jegyzékből a beszerzési eljárás alatt töröltek,
-- b) aki a megelőző öt éven belül a jegyzékre való felvételére irányuló eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott, illetve hamis nyilatkozatot tett.
+- a) akit a jegyzékből, vagy minősített piaci szereplők jegyzékéből a beszerzési eljárás alatt töröltek,
+- b) aki a megelőző három éven belül a jegyzékre, minősített piaci szereplők jegyzékére való felvételére irányuló eljárás során az adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott, illetve hamis nyilatkozatot tett.
 
 (3) Ha a részvételre jelentkező vagy az ajánlattevő valamelyik alvállalkozójával szemben nemzetbiztonsági kockázati tényező merül fel, egy esetben a részvételre jelentkező vagy ajánlattevő ezen alvállalkozó helyett mást jelölhet meg. A második ilyen esetben, vagy ha két vagy annál több alvállalkozónál merül fel nemzetbiztonsági kockázati tényező, a részvételre jelentkezőt, illetve ajánlattevőt az eljárásból ki kell zárni.
 
@@ -1973,7 +2020,7 @@ nem vehető jegyzékre.
 
 (7) Ha a részvételre jelentkező az ajánlattételi szakaszban nem nyújt be ajánlatot, köteles az ajánlatkérőnek az ajánlattételi határidőig visszaküldeni az ajánlattételi felhívással kapcsolatos összes iratot. A kizárt, az érvénytelen vagy a nem nyertes ajánlatot benyújtó ajánlattevő az értesítés kézhezvételétől számított tizenöt napon belül köteles a beszerzéssel kapcsolatos összes iratot az ajánlatkérőnek visszaküldeni. A nyertes ajánlattevő a szerződés teljesítését követő harminc napon belül a beszerzéssel kapcsolatos minősített adatot tartalmazó valamennyi iratot köteles visszaküldeni az ajánlatkérő részére, és ezzel egyidejűleg az említett adatok elektronikus adatbázisaiból való törlését is kezdeményezi.
 
-(8) Ha a részvételre jelentkező vagy ajánlattevő a (7) bekezdés szerinti határidőben a korábbi beszerzési eljárásban történő ajánlattételhez rendelkezésére bocsátott iratokat hiánytalanul nem küldi vissza az ajánlatkérőnek, az ajánlatkérő felszólítja az összes irat visszaszolgáltatására, valamint a felszólítással egyidejűleg e tényről az AH-t értesíti. Az AH a mulasztó gazdasági szereplő jegyzéken való szerepeltetését az értesítés kézhezvételének napjától – az ajánlattevő egyidejű értesítése mellett – mindaddig felfüggeszti, amíg az iratokat az ajánlattevő vissza nem szolgáltatja. Az okmányok visszaszolgáltatásának tényéről az ajánlatkérő az AH-t haladéktalanul tájékoztatja.
+(8) Ha a részvételre jelentkező vagy ajánlattevő a (7) bekezdés szerinti határidőben a korábbi beszerzési eljárásban történő ajánlattételhez rendelkezésére bocsátott iratokat hiánytalanul nem küldi vissza az ajánlatkérőnek, az ajánlatkérő felszólítja az összes irat visszaszolgáltatására, valamint a felszólítással egyidejűleg e tényről az AH-t értesíti. Az AH a mulasztó gazdasági szereplő jegyzéken, minősített piaci szereplők jegyzékén való szerepeltetését az értesítés kézhezvételének napjától – az ajánlattevő egyidejű értesítése mellett – mindaddig felfüggeszti, amíg az iratokat az ajánlattevő vissza nem szolgáltatja. Az okmányok visszaszolgáltatásának tényéről az ajánlatkérő az AH-t haladéktalanul tájékoztatja.
 
 #### 69. Alkalmassági követelmények
 
@@ -2014,17 +2061,17 @@ nem vehető jegyzékre.
 
 #### 73. A szerződés teljesítésében részt vevők
 
-134. § (1) A szerződés megkötésekor a kizárólag a jegyzékre felvett nyertes ajánlattevők, kiemelt alvállalkozó vagy alvállalkozó részvételével létrehozott projekttársaságot jegyzéken szereplőnek kell tekinteni, ha a projekttársaság vezető tisztségviselői és alkalmazottai a projekttársaságot létrehozó gazdasági szereplők vezető tisztségviselőiből és alkalmazottaiból kerültek ki.
+134. § (1) A szerződés megkötésekor a kizárólag a jegyzékre, vagy a minősített piaci szereplők jegyzékére felvett nyertes ajánlattevő, kiemelt alvállalkozó vagy alvállalkozó részvételével létrehozott projekttársaságot a jegyzéken, a minősített piaci szereplők jegyzékén szereplőnek kell tekinteni, ha a projekttársaság vezető tisztségviselői és alkalmazottai a projekttársaságot létrehozó gazdasági szereplők vezető tisztségviselőiből és alkalmazottaiból kerültek ki.
 
 (2) Az ajánlatkérő a 120. § (2) bekezdésében foglaltak teljesítése érdekében a szerződéskötést követően tájékoztatja az AH-t a szerződés teljesítésében részt vevő gazdasági szereplők személyéről, valamint a szerződés időtartamáról.
 
 #### 74. A szerződés megszüntetésére vonatkozó sajátos rendelkezések
 
-135. § (1) Az AH-nak a nyertes ajánlattevőre vonatkozó, jegyzékről való törlést elrendelő döntésével – a törléssel egyidejűleg – a szerződés megszűnik. Ezzel egyidejűleg a szerződő felek között a szerződésben meghatározott elszámolási kötelezettség keletkezik.
+135. § (1) Az AH-nak a nyertes ajánlattevőre vonatkozó, jegyzékről, minősített piaci szereplők jegyzékéről való törlést elrendelő döntésével – a törléssel egyidejűleg – a szerződés megszűnik. Ezzel egyidejűleg a szerződő felek között a szerződésben meghatározott elszámolási kötelezettség keletkezik.
 
-(2) Az AH-nak az adatok átvezetésével kapcsolatos döntéséről szóló tájékoztatás kézhezvételét követően a minősített adatokat tartalmazó beszerzési szerződéstől az ajánlatkérőnek legfeljebb nyolc napon belül el kell állnia, vagy azt fel kell mondania, ha a nyertes ajánlattevő jegyzéken feltüntetett adataiban az átvezetéssel olyan változás következik be, amely alapján a továbbiakban a szerződésben szereplő minősítési szintű adatokat tartalmazó beszerzési eljárásban az ajánlattevő nem vehet részt. Az elállás, illetve a felmondás közlésével egyidejűleg a szerződő felek között szerződésben meghatározott elszámolási kötelezettség keletkezik.
+(2) Az AH-nak az adatok átvezetésével kapcsolatos döntéséről szóló tájékoztatás kézhezvételét követően a minősített adatokat tartalmazó beszerzési szerződéstől az ajánlatkérőnek legfeljebb nyolc napon belül el kell állnia, vagy azt fel kell mondania, ha a nyertes ajánlattevő jegyzéken, minősített piaci szereplők jegyzékén feltüntetett adataiban az átvezetéssel olyan változás következik be, amely alapján a továbbiakban a szerződésben szereplő minősítési szintű adatokat tartalmazó beszerzési eljárásban az ajánlattevő nem vehet részt. Az elállás, illetve a felmondás közlésével egyidejűleg a szerződő felek között szerződésben meghatározott elszámolási kötelezettség keletkezik.
 
-(3) A szerződés megszűnéséből eredő károkért a gazdasági szereplő kártérítési felelősséggel tartozik, ha az (1) vagy (2) bekezdésben meghatározott ok miatt szűnik meg a szerződés, és a jegyzékről való törlés vagy a jegyzéken a (2) bekezdés szerinti adatváltozás oka neki felróható.
+(3) A szerződés megszűnéséből eredő károkért a gazdasági szereplő kártérítési felelősséggel tartozik, ha az (1) vagy (2) bekezdésben meghatározott ok miatt szűnik meg a szerződés, és a jegyzékről, minősített piaci szereplők jegyzékéről való törlés vagy a jegyzéken, minősített piaci szereplők jegyzékén a (2) bekezdés szerinti adatváltozás oka neki felróható.
 
 #### 75. A szerződés tartalma, a szerződés felmondása
 
@@ -2037,7 +2084,7 @@ nem vehető jegyzékre.
 - c) az ajánlatkérő tudomást szerez arról, hogy nyertes ajánlattevő felhívás ellenére sem tesz eleget a 119. § (4) bekezdése szerinti kötelezettségének,
 - d) az ajánlatkérő tudomást szerez arról, hogy a nyertes ajánlattevő alvállalkozója ajánlattevő felhívás ellenére sem tesz eleget a 119. § (4) bekezdése szerinti kötelezettségének,
 - e) a nemzetbiztonsági szolgálatok által a 118. §-ban foglaltak szerint elvégzett kiegészítő ellenőrzés nemzetbiztonsági kockázatot vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázatot állapít meg, vagy
-- f) az AH vagy a KNBSZ által végzett, a 120. § (5) bekezdése szerinti cégellenőrzés megállapítása szerint az ajánlattevővel szemben nemzetbiztonsági kockázati tényező merült fel, és ezért őt az AH a jegyzékből törli.
+- f) az AH vagy a KNBSZ által végzett, a 120. § (5) bekezdése szerinti cégellenőrzés megállapítása szerint az ajánlattevővel szemben nemzetbiztonsági kockázati tényező merült fel, és ezért őt az AH a jegyzékből, minősített piaci szereplők jegyzékéből törli.
 
 (2) Az (1) bekezdés szerinti felmondási okokat a szerződésbe kell foglalni azzal, hogy ezekben az esetekben az ajánlatkérő a szerződésben kikötött biztosítékokat is érvényesíti.
 
@@ -2068,7 +2115,7 @@ nem vehető jegyzékre.
 
 (4) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését.
 
-(5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre kerülés érdekében lefolytatott eljárás, vagy a jegyzékből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
+(5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre, minősített piaci szereplők jegyzékére kerülés érdekében lefolytatott eljárás, vagy a jegyzékből, minősített piaci szereplők jegyzékéből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
 
 (6) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban a kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
 
@@ -2411,9 +2458,9 @@ nem vehető jegyzékre.
 
 (10) Ha a Közbeszerzési Döntőbizottság határozatában, illetve a Közbeszerzési Döntőbizottság határozata elleni közigazgatási perben kiszabott bírság megfizetésére a (7) bekezdésben foglalt, a per indítására nyitva álló határidő elteltéig nem került sor, a (7)–(9) bekezdésben foglalt rendelkezések nem alkalmazhatók.
 
-#### 89. A jegyzékre kerülés érdekében lefolytatott eljárás, vagy a jegyzékből történő törlés szabályosságával kapcsolatos jogorvoslat
+#### 89. A jegyzékre, minősített piaci szereplők jegyzékére kerülés érdekében lefolytatott eljárás, vagy a jegyzékből, minősített piaci szereplők jegyzékéből történő törlés szabályosságával kapcsolatos jogorvoslat
 
-168. § (1) A jegyzékre kerülés érdekében lefolytatott eljárás, vagy a jegyzékből történő törlés szabályosságával kapcsolatban felmerülő panaszával az érintett gazdasági szereplő a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterhez fordulhat. A panasz nem irányulhat az eljáró nemzetbiztonsági szolgálat mérlegelési jogkörben meghozott döntése felülvizsgálatának kezdeményezésére.
+168. § (1) A jegyzékre, minősített piaci szereplők jegyzékére kerülés érdekében lefolytatott eljárás, vagy a jegyzékből, minősített piaci szereplők jegyzékéből történő törlés szabályosságával kapcsolatban felmerülő panaszával az érintett gazdasági szereplő a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterhez fordulhat. A panasz nem irányulhat az eljáró nemzetbiztonsági szolgálat mérlegelési jogkörben meghozott döntése felülvizsgálatának kezdeményezésére.
 
 (2) A miniszter kivizsgálja a panaszt, a vizsgálat eredményéről és a megtett intézkedésekről harminc napon belül tájékoztatja a panaszost. Ez a határidő egy esetben, legfeljebb harminc nappal meghosszabbítható.
 
@@ -2474,6 +2521,8 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben jelölje ki az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott hirdetmények védelmi és biztonsági beszerzések tekintetében alkalmazandó körét, valamint meghatározza azok feladásának és közzétételének szabályait, a hirdetmények egyes kiegészítő tartalmi elemeit, a bírálati összegezések mintáit, a beszerzések éves statisztikai összegezésére vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a közbeszerzésekért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendeletben szabályozza az ajánlattevők, részvételre jelentkezők, alvállalkozók, kiemelt alvállalkozók jegyzékével összefüggő előzetes minősítés, a beszerzési eljáráshoz kötött minősítés, valamint a jegyzéken tartás során alkalmazandó formanyomtatványok mintáit, valamint az AH által vezetett jegyzék tartalmi elemeit.
+
+(4) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben állapítsa meg a minősített piaci szereplők jegyzékével érintett gazdasági szektorokat, valamint a minősített piaci szereplők jegyzékével összefüggő előzetes minősítés, a beszerzési eljáráshoz kötött minősítés, továbbá a jegyzéken tartás során alkalmazandó formanyomtatványok mintáit és az AH által vezetett minősített piaci szereplők jegyzékének tartalmi elemeit.
 
 #### 94. Hatálybalépés
 

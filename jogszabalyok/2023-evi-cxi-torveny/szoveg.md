@@ -80,55 +80,31 @@ a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadá
 
 29. § A Pmt.
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
-
-21.
-
-22.
-
-23.
-
-24.
-
-25.
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
+- 10.
+- 11.
+- 12.
+- 13.
+- 14.
+- 15.
+- 16.
+- 17.
+- 18.
+- 19.
+- 20.
+- 21.
+- 22.
+- 23.
+- 24.
+- 25.
 
 lép.
 
@@ -166,7 +142,9 @@ lép.
 
 (3) A 26. § 2024. április 1-jén lép hatályba.
 
-(4) A 2. § (4) és (5) bekezdése, a 10. §, a 20. § (2)–(4) bekezdése, a 29. § 7. és 15. pontja, valamint a 30. § 2024. július 1-jén lép hatályba.
+(4) A 2. § (4) és (5) bekezdése, a 20. § (2)–(4) bekezdése, a 29. § 7. és 15. pontja, valamint a 30. § 2024. július 1-jén lép hatályba.
+
+(5) A 10. § 2025. január 1-jén lép hatályba.
 
 42. § (1) Ez a törvény
 

@@ -1655,7 +1655,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (1) A kormánytisztviselőnek a kinevezésekor esküt kell tennie a kötelességeinek pontos betartására.
 
-(2) Az eskü letétele a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető előtt, az esküokmány aláírásával történik, amelyet a kormánytisztviselő legkésőbb a kinevezés aláírásától számított 30 napon belül, szóban is megerősíthet.
+(2) Az esküt a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető előtt szóban – legkésőbb a kinevezés aláírásától számított 30 napon belül – kell letenni. Az eskütételről a kormánytisztviselő esküokmányt ír alá.
 
 (3) Az eskü szövege a következő:
 
@@ -1665,7 +1665,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 „Isten engem úgy segéljen!”
 
-(4) A kormányzati igazgatási szerv köteles az eskü szóbeli megerősítését a kormánytisztviselő számára lehetővé tenni.
+(4)
 
 #### 88. § [Az ösztöndíj]
 
@@ -3453,6 +3453,8 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 - e) a kinevezés egyoldalú módosítása,
 - f) a sérelemdíj megfizetése ügyében hozott határozat,
 - g) a fizetési felszólítás
+- h) a tartós külszolgálat megszűnése és megszüntetése,
+- i) a tartós külszolgálatra kihelyezés és annak egyoldalú módosítása
 
 tárgyában.
 
@@ -3781,7 +3783,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (1) A politikai felsővezető politikai szolgálati jogviszonyára – ha az Alaptörvény, valamint e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
-(2) A politikai felsővezető politikai szolgálati jogviszonyára nem kell alkalmazni a 79. §, a 80. § (2) bekezdésének, a 81. §, a XII. fejezet, a 82. § (2)–(4) bekezdése, a 86. § (1)–(6) bekezdése és a 89. § (1) és (2) bekezdése kivételével a XIV. fejezet, a 92. §, a 95–97. §, a XVI. fejezet, a 115. § és a 117. § kivételével a XVII. fejezet, a 124. §, a 128. § (1) és (3)–(7) bekezdésének, a 134. § (1)–(3) és (5) bekezdésének, a 144–145. §, a 149. §, a 151. §, a 158. §, a 166. §, valamint a XXII. és XXIII. fejezet rendelkezéseit.
+(2) A politikai felsővezető politikai szolgálati jogviszonyára – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni a 79. §, a 80. § (2) bekezdésének, a 81. §, a XII. fejezet, a 82. § (2)–(4) bekezdése, a 86. § (1)–(6) bekezdése és a 89. § (1) és (2) bekezdése kivételével a XIV. fejezet, a 92. §, a 95–97. §, a XVI. fejezet, a 115. § és a 117. § kivételével a XVII. fejezet, a 124. §, a 128. § (1) és (3)–(7) bekezdésének, a 134. § (1)–(3) és (5) bekezdésének, a 144–145. §, a 149. §, a 151. §, a 158. §, a 166. §, valamint a XXII. és XXIII. fejezet rendelkezéseit.
 
 #### 182. § [A politikai felsővezetők összeférhetetlensége]
 
@@ -4177,7 +4179,7 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 - r) a közszolgálati döntőbizottsági eljárással és a jogvitával, és
 - s) a kormánytisztviselői érdekegyeztetéssel
 
-kapcsolatos rendelkezéseit nem kell alkalmazni.
+kapcsolatos rendelkezéseit – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni.
 
 #### 207. § [A főispán kinevezése]
 
@@ -4296,7 +4298,7 @@ közvetlenül kapcsolódó feladatok ellátására teljesíthet szolgálatot.
 
 (4) A politikai tanácsadó politikai szolgálati jogviszonyára a jelen fejezetben foglalt eltérésekkel e törvénynek a kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell alkalmazni.
 
-(5) A politikai tanácsadóra nem kell alkalmazni a kormányzati szolgálati jogviszony
+(5) A politikai tanácsadóra – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni a kormányzati szolgálati jogviszony
 
 - a) kinevezés időtartamával,
 - b) kiválasztással,
@@ -5084,7 +5086,7 @@ illetménynek megfelelő összeg.
 - 17. a távmunkavégzésre és az otthoni munkavégzésre vonatkozó részletes szabályokat;
 - 18. a kormánytisztviselő elismerésben való részesítésének feltételeit és az elismeréssel járó juttatás e törvényben meg nem határozott mértékét;
 - 19. a teljesítményértékelésre vonatkozó részletes szabályokat;
-- 20. a kormánytisztviselő képzésére, továbbképzésére, átképzésére, illetve közigazgatási vezetőképzésére, valamint a továbbképzés ágazati irányítására és felügyeletére vonatkozó szabályokat;
+- 20. a kormányzati igazgatási szervnél kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban foglalkoztatott személy képzésére és továbbképzésére (ideértve a kormányzati személyügyi igazgatásra kijelölt szerv által szervezett, a foglalkoztatott által önkéntesen igénybe vehető képzést és továbbképzést is), átképzésére, illetve közigazgatási vezetőképzésére, valamint a továbbképzés ágazati irányítására és felügyeletére vonatkozó szabályokat;
 - 21.
 - 22. a Közszolgálati Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Közszolgálati Döntőbizottság jogállására, juttatásaira, továbbá a Közszolgálati Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat;
 - 23. az elhelyezkedési korlátozással érintett ágazatokat és álláshelyeket, a korlátozás alóli mentesítés szabályait, valamint az ágazati tevékenységet főtevékenységként végző gazdasági társaság meghatározásának szempontjait;
@@ -5536,6 +5538,7 @@ E törvény az Európai Unió következő uniós jogi aktusainak való megfelel�
 - h) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról;
 - i) az Európai Parlament és a Tanács 2011/95/EU irányelve (2011. december 13.) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról;
 - j) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól.
+- k) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
 
 ### 1. melléklet a 2018. évi CXXV. törvényhez
 

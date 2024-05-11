@@ -6,92 +6,177 @@ Magyarország 2016. évi központi költségvetésének megalapozásáról
 
 #### 1. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-1–7. §
+#### 1. §
 
-8. §
+#### 2. §
 
-9–13. §
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
 
 #### 2. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-14. §
+#### 14. §
 
-15–33. §
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
 
 ### II. Fejezet — A KÖZPONTI KÖLTSÉGVETÉSRŐL SZÓLÓ TÖRVÉNY VÉGREHAJTÁSÁHOZ KAPCSOLÓDÓ TOVÁBBI TÖRVÉNYMÓDOSÍTÁSOK
 
 #### 3. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-34–36. §
+#### 34. §
+
+#### 35. §
+
+#### 36. §
 
 #### 4. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-37. §
+#### 37. §
 
-#### 5. A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló1992. évi LXXXIV. törvény módosítása
+#### 5. A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló
 
-38. §
+1992. évi LXXXIV. törvény módosítása
 
-39. §
+#### 38. §
 
-40. §
+#### 39. §
+
+#### 40. §
 
 #### 6. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 7. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-42–44. §
+#### 42. §
 
-#### 8. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló1997. évi CXL. törvény módosítása
+#### 43. §
 
-45–47. §
+#### 44. §
 
-48. §
+#### 8. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló
 
-- a)
-- b)
+1997. évi CXL. törvény módosítása
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+a)
+
+b)
 
 #### 9. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-49. §
+#### 49. §
 
-#### 10. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló2008. évi XLVIII. törvény módosítása
+#### 10. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló
 
-50–52. §
+2008. évi XLVIII. törvény módosítása
 
-53. §
+#### 50. §
 
-#### 11. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló2008. évi XCIX. törvény módosítása
+#### 51. §
 
-54–55. §
+#### 52. §
+
+#### 53. §
+
+#### 11. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló
+
+2008. évi XCIX. törvény módosítása
+
+#### 54. §
+
+#### 55. §
 
 #### 12. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-56. §
+#### 56. §
 
 #### 13. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-57–58. §
+#### 57. §
+
+#### 58. §
 
 #### 14. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény módosítása
 
-59. §
+#### 59. §
 
 #### 15. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-60. §
+#### 60. §
 
 #### 16. Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény módosítása
 
-61–62. §
+#### 61. §
+
+#### 62. §
 
 #### 17. A nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló 2014. évi XC. törvény módosítása
 
-63. § A nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló 2014. évi XC. törvény 13. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) A nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység összkormányzati költségigényét a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter terjeszti elő, és az a központi költségvetésben fejezeti kezelésű előirányzatként kell megtervezni.”
+#### 63. §
 
 #### 18. A dohánytermék-kiskereskedelem integrált ellátásához szükséges egyes törvények módosításáról szóló 2014. évi XCV. törvény módosítása
 
@@ -103,7 +188,7 @@ Magyarország 2016. évi központi költségvetésének megalapozásáról
 
 lép hatályba.
 
-65. §
+#### 65. §
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

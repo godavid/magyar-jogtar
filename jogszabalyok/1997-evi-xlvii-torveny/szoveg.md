@@ -585,6 +585,10 @@ az egészségi alkalmassági vizsgálatot végző orvos jogosult az érintett sz
 
 26. § Amennyiben az érintett egészségügyi adatai más személyt is érintenek, az egészségügyi és személyazonosító adatok továbbításához e harmadik személy (törvényes képviselője) írásbeli hozzájárulását be kell szerezni. Nincs szükség a hozzájárulásra a 13. §, a 20. § (3) bekezdése és a 23. § (1) bekezdés a) pont szerinti esetekben azzal, hogy polgári peres eljárás során a harmadik személyt érintő – szexuális úton terjedő fertőző betegségre vonatkozó – egészségügyi adat nem adható ki.
 
+26/A. § (1) A költségvetési szervnek minősülő egészségügyi szolgáltató irányítója a 4. § (2) bekezdés e) pontjára figyelemmel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9/B. §-a szerinti felügyeleti jogkörének gyakorlása érdekében az Áht. 9. § j) pontja alapján kezelt személyes adatokat az irányítási jogkör gyakorlásához szükséges mértékben az EESZT működtetőjétől is igényelheti, ha igazolja, hogy az adatigénylésre vonatkozó irányítási jogkörhöz kapcsolódó intézkedés másként nem gyakorolható vagy ennek hiányában az intézkedése eredménytelen lenne.
+
+(2) Az (1) bekezdés szerinti személyes adatokat az irányító szerv az intézkedése meghozatalát követő három hónapig, de legfeljebb az igénylést követő egy évig kezeli.
+
 27. § A személyazonosításra alkalmatlan egészségügyi adat időbeli és területi korlát nélkül továbbítható.
 
 ### Az egészségügyi és személyazonosító adatok nyilvántartása

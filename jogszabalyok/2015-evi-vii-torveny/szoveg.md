@@ -2,7 +2,21 @@
 
 a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról
 
-Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY határozatban foglaltak még teljesebb megvalósulása érdekében,felismerve, hogy Magyarország energiafüggőségének csökkentése olyan alapvető nemzetgazdasági érdek, amely egyúttal a fenntartható fejlődést is szolgálja,leszögezve, hogy a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos, a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény kihirdetéséről szóló 2014. évi II. törvény 1. cikkének 1. pontjában meghatározott két új 5–6. atomerőművi blokkok tervezésére, beszerzésére, létesítésére, üzembe helyezésére és üzemeltetésre történő előkészítésre irányuló beruházás alapvető fontossággal bír e cél elérése érdekében,abbeli meggyőződésének hangot adva, hogy a jog eszközével a nemzetgazdasági, a nemzetközi és az európai uniós tagságból fakadó érdekek az Alaptörvényből fakadó kötelezettségekkel összhangba hozhatók,annak érdekében, hogy a Paksi Atomerőmű kapacitása, hosszú távú működése fenntartható legyen, és ezáltal az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság az Egyezmény idézett rendelkezése szerinti új 5–6. atomerőművi blokkok jövőbeni üzemeltetésével kapcsolatos feladatok ellátására felkészüljön, illetve minél hamarabb készen álljon,tiszteletben tartva Magyarországnak az atomenergia békés célú alkalmazása körében irányadó európai uniós és nemzetközi jogi kötelezettségeit,a következő törvényt alkotja:
+Az Országgyűlés
+
+az Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY határozatban foglaltak még teljesebb megvalósulása érdekében,
+
+felismerve, hogy Magyarország energiafüggőségének csökkentése olyan alapvető nemzetgazdasági érdek, amely egyúttal a fenntartható fejlődést is szolgálja,
+
+leszögezve, hogy a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos, a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény kihirdetéséről szóló 2014. évi II. törvény 1. cikkének 1. pontjában meghatározott két új 5–6. atomerőművi blokkok tervezésére, beszerzésére, létesítésére, üzembe helyezésére és üzemeltetésre történő előkészítésre irányuló beruházás alapvető fontossággal bír e cél elérése érdekében,
+
+abbeli meggyőződésének hangot adva, hogy a jog eszközével a nemzetgazdasági, a nemzetközi és az európai uniós tagságból fakadó érdekek az Alaptörvényből fakadó kötelezettségekkel összhangba hozhatók,
+
+annak érdekében, hogy a Paksi Atomerőmű kapacitása, hosszú távú működése fenntartható legyen, és ezáltal az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság az Egyezmény idézett rendelkezése szerinti új 5–6. atomerőművi blokkok jövőbeni üzemeltetésével kapcsolatos feladatok ellátására felkészüljön, illetve minél hamarabb készen álljon,
+
+tiszteletben tartva Magyarországnak az atomenergia békés célú alkalmazása körében irányadó európai uniós és nemzetközi jogi kötelezettségeit,
+
+a következő törvényt alkotja:
 
 #### 1. Alapvető rendelkezések
 
@@ -39,6 +53,20 @@ Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY hat�
 
 (2) A Fővállalkozó, illetve az alvállalkozó köteles felhívni az alvállalkozó, illetve a további alvállalkozók figyelmét arra, hogy az (1) bekezdésben foglaltaknak folyamatosan meg kell felelnie, ennek ellenőrzése a munkaügyi ellenőrzés szabályai szerint történik.
 
+4/A. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) rendelkezései a (2)–(6) bekezdésben, és a 4/B. §-ban foglaltak figyelembevételével alkalmazandóak, ha a Beruházást megvalósító harmadik országbeli állampolgár foglalkoztatója az e törvény szerinti Fővállalkozó vagy Alvállalkozó.
+
+(2) A Beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély iránti kérelem benyújtásakor a Btátv. 24. § (1) bekezdés b) pontja szerinti megállapodást meglévőnek kell tekinteni.
+
+(3) A Magyarország területén tartózkodó, érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár – ha az előzetes csoportos munkavállalási jóváhagyás meghosszabbításra kerül – beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet nyújthat be, ha eleget tesz a Btátv.-ben és a (4) bekezdésben foglalt feltételeknek. A beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély érvényességére a Btátv. 25. § (1) és (2) bekezdésben foglaltak az irányadóak azzal, hogy az legfeljebb öt év tartózkodási időre jogosít Magyarország területén.
+
+(4) A Magyarország területén tartózkodó harmadik országbeli állampolgár beruházás megvalósítása céljából kiállított tartózkodási engedély iránti kérelme abban az esetben engedélyezhető, ha eleget tesz a Btátv. 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában foglalt feltételeknek, és a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet az érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedélye birtokában – amivel a Btátv. által engedett tartózkodási idő lejárna –, a tartózkodási engedély érvényességi idejének lejártát megelőzően legfeljebb negyven nappal nyújtja be.
+
+(5) A Beruházás esetén az összevont kérelmezési eljárásban a fővárosi és vármegyei kormányhivatal, valamint a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter nem működik közre szakhatóságként, ha a harmadik országbeli állampolgár Magyar Kártya, EU Kék Kártya vagy vállalaton belül áthelyezett személy számára szóló tartózkodási engedély kiadását vagy meghosszabbítását kérelmezi.
+
+(6) A Beruházás esetén a harmadik országbeli állampolgár a családi együttélés biztosítása céljából tartózkodási engedélyt kaphat, ha a családegyesítő foglalkoztatója az e törvény szerinti Fővállalkozó vagy Alvállalkozó.
+
+4/B. § A Beruházás esetén a Magyar Kártya kiadására és meghosszabbítására irányuló kérelem a Fővállalkozó vagy Alvállalkozó útján is előterjeszthető a Btátv. 168. §-ában foglaltaknak megfelelően.
+
 #### 4. Adatokhoz való hozzáférés
 
 5. § A Megvalósítási Megállapodásokban és a Beruházással összefüggésben az Egyezmény 3. cikk 1. pontja szerinti Orosz Kijelölt Szervezet és annak alvállalkozói, valamint az Egyezmény 3. cikk 2. pontja szerinti Magyar Kijelölt Szervezet és alvállalkozói által kötött szerződésekben foglalt azon üzleti és műszaki adatok, valamint az ezen Megvalósítási Megállapodások, szerződések és az Egyezmény előkészítésével, megkötésével kapcsolatos azon üzleti és műszaki adatok, valamint az ezekkel összefüggő döntések megalapozását szolgáló azon adatok, amelyeknek az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) III. Fejezete szerinti közérdekűadat-igénylés során történő megismerése az Infotv. 27. § (2) bekezdés b) és h) pontja szerinti nemzetbiztonsági érdeket, illetve szellemi tulajdonhoz fűződő jogot sértene, – azok keletkezésétől számított 30 évig – közérdekű adatként nem ismerhetőek meg.
@@ -57,6 +85,8 @@ Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY hat�
 
 6/B. § Azon szerződések esetén, ahol az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépését megelőző napon hatályos 3. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány megléte a szerződéskötés, illetve a szerződés érvényességének vagy fennmaradásának feltételeként szerepel, e feltételt teljesítettnek kell tekinteni abban az esetben, ha a szerződő fél olyan gazdasági szereplő, amely szerepel a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény szerinti jegyzékben.
 
+6/C. § A 4/B. § az Alaptörvény XIV. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
 7. § Ez a törvény
 
 - a) a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvnek,
@@ -66,11 +96,29 @@ való megfelelést szolgálja.
 
 #### 6. Módosuló rendelkezések
 
-8–9. §
+#### 8. §
 
-10–11. §
+#### 9. §
 
-12–19. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
 
 20. § (1)
 
@@ -78,17 +126,19 @@ való megfelelést szolgálja.
 
 (3)–(7)
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25–26. §
+#### 25. §
 
-27. §
+#### 26. §
+
+#### 27. §
 
 28. § (1)
 
@@ -96,14 +146,18 @@ való megfelelést szolgálja.
 
 (3)
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
 31. § (1)
 
 (2)
 
-32. §
+#### 32. §
 
-33–35. §
+#### 33. §
+
+#### 34. §
+
+#### 35. §

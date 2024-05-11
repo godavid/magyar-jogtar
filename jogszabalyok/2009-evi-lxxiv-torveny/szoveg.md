@@ -544,6 +544,8 @@ szabályait.
 
 34. § Felhatalmazást kap a Kormány, hogy az üzemi tanács választás szavazólapjának tartalmát, a szavazatösszesítés módját és rendjét – a Nemzeti Gazdasági és Társadalmi Tanácsban résztvevő országos szakszervezeti szövetségekkel és az ágazati párbeszéd bizottságok véleményének kikérésével – rendeletben állapítsa meg.
 
+35. § E törvény az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 ### 1. számú melléklet a 2009. évi LXXIV. törvényhez
 
 #### A munkavállalói érdekképviseletek döntési jogosultságának, valamint reprezentativitásának szempontjai

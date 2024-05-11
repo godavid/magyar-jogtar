@@ -85,7 +85,7 @@ személyes gondozást vagy támogatást nyújt;
 - 11. hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbefogadó, mostoha- és a nevelőszülő; az örökbefogadott, mostoha- és a nevelt gyermek; a testvér; a házastárs, az élettárs, a bejegyzett élettárs, a jegyes; a házastársnak, a bejegyzett élettársnak egyeneságbeli rokona, testvére, valamint a testvér házastársa, bejegyzett élettársa;
 - 12. kompetencia-vizsgálat: a pályázóval szemben a különböző munkakörökre előírt követelmények és a pályázó tényleges készségeinek és képességeinek összevetése, munkaalkalmasságának felmérése, amely során személyes interjú, alkalmassági teszt, értékelő központ alkalmazható;
 - 13. kormánytisztviselő, köztisztviselő: az 1. és 2. §-ban felsorolt szervek (a továbbiakban együtt: közigazgatási szerv) feladat- és hatáskörében eljáró vezető és ügyintéző, aki előkészíti a közigazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti rendvédelmi feladatokat ellátó szervnél más jogviszonyban álló személy végzi;
-- 14. kormányzati vagy közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, valamint a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti adminisztratív és technikai személyzet tagja;
+- 14. kormányzati vagy közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el;
 - 15.
 - 15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 - 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés c) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
@@ -444,9 +444,9 @@ kézbesítettnek kell tekinteni.
 
 38. § (1) A kormányzati szolgálati jogviszony kinevezéssel és annak elfogadásával jön létre. Eltérő rendelkezés hiányában a kormányzati szolgálati jogviszony határozatlan időre és teljes munkaidőre jön létre. A kinevezést és annak elfogadását írásba kell foglalni. Az írásba foglalás elmulasztása miatt a kinevezés érvénytelenségére csak a kormánytisztviselő – a munkába lépést követő harminc napon belül – hivatkozhat.
 
-(2) Kormányzati szolgálati jogviszony – ha törvény eltérően nem rendelkezik – tartósan távollevő kormánytisztviselő helyettesítése céljából vagy esetenként szükségessé váló feladat elvégzésére, illetve tartós külszolgálat ellátására létesíthető határozott időre.
+(2) Kormányzati szolgálati jogviszony – ha törvény eltérően nem rendelkezik – tartósan távollevő kormánytisztviselő helyettesítése céljából vagy esetenként szükségessé váló feladat elvégzésére létesíthető határozott időre.
 
-(3) A határozott idejű kormányzati szolgálati jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni. A kormányzati szolgálati jogviszony megszűnésének időpontja – tartós külszolgálat megszüntetése kivételével – nem függhet kizárólag az államigazgatási szerv, illetve a kormánytisztviselő akaratától, ha a felek a kormányzati szolgálati jogviszony időtartamát nem naptárilag határozták meg. Ez utóbbi esetben a munkáltatói jogkör gyakorlója tájékoztatja a kormánytisztviselőt a kormányzati szolgálati jogviszony várható időtartamáról.
+(3) A határozott idejű kormányzati szolgálati jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni. A kormányzati szolgálati jogviszony megszűnésének időpontja nem függhet kizárólag az államigazgatási szerv, illetve a kormánytisztviselő akaratától, ha a felek a kormányzati szolgálati jogviszony időtartamát nem naptárilag határozták meg. Ez utóbbi esetben a munkáltatói jogkör gyakorlója tájékoztatja a kormánytisztviselőt a kormányzati szolgálati jogviszony várható időtartamáról.
 
 (4) A kormányzati szolgálati jogviszonyt határozatlan idejűnek kell tekinteni, ha a határozott időre történő kinevezés nem felel meg a (2) bekezdésben foglaltaknak.
 
@@ -878,7 +878,7 @@ köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a k�
 
 (6)
 
-(7) A Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő, az EU ÁK-ra kihelyezésre kerülő további kormánytisztviselő és kormányzati ügykezelő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
+(7)
 
 ### Kormányzati érdekből történő kirendelés
 
@@ -966,9 +966,9 @@ köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a k�
 
 (3) Ha a kormányzati szolgálati jogviszony az (1) bekezdés g) pontjában foglaltak alapján szűnik meg, a kormánytisztviselő részére annak megfelelő összeget kell kifizetni, amely felmentése esetén a munkavégzési kötelezettség alóli mentesítés idejére járó illetményének felel meg, kivéve, ha felmentés esetén a munkavégzés alóli mentesítés időtartamára a kormánytisztviselő illetményre nem lenne jogosult.
 
-(4) Az (1) bekezdés e) pontjában meghatározott életkori korlát alól a miniszterelnök felmentést adhat, ha a kormánytisztviselői kinevezés a külszolgálathoz kapcsolódó képviselet-vezetői megbízáshoz szükséges.
+(4)
 
-(5) A 38. § (2) bekezdése alapján tartós külszolgálat ellátására létrejött határozott idejű kormányzati szolgálati jogviszony hatvannapos hatállyal megszüntethető.
+(5)
 
 (6) A kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés j) pontja szerinti feltétel ellenőrzése céljából kérheti, hogy a munkáltató a nyugdíjbiztosítási igazgatási szervet a kormánytisztviselő szolgálati idejének ellenőrzése céljából megkeresse. A kormánytisztviselő az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozatával is igazolhatja a munkáltató felé. A munkáltató az így tudomására jutott személyes adatokat az (1) bekezdés j) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából legfeljebb a 184. § (4) bekezdésében meghatározott ideig kezelheti.
 
@@ -1446,7 +1446,7 @@ alakul át.
 
 84. § (1) Nem létesíthető kormányzati szolgálati jogviszony, ha a kormánytisztviselő ezáltal hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
-(2) A külpolitikáért felelős miniszter a külszolgálati hálózat tekintetében, illetve az európai uniós ügyek koordinációjáért felelős miniszter az Állandó Képviselet tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól különösen indokolt esetben felmentést adhat.
+(2)
 
 85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
 
@@ -1948,7 +1948,7 @@ besorolást kap.
 
 (3) A kormánytisztviselőnek fogalmazó besorolásához egy éven belül, előadó besorolásához két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem kormányzati szolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt az állami tisztviselőkről szóló törvény alapján szerzett közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell.
 
-(4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés, valamint a tartós külszolgálat időtartama.
+(4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
 (5) Ha a gyakornok a közigazgatási alapvizsgát a (3) bekezdésben előírt határidőt követő hat hónapon belül nem teszi le, kormányzati szolgálati jogviszonya megszűnik.
 
@@ -2060,7 +2060,7 @@ besorolást kap.
 
 (5) Vezetői kinevezés helyettesítés céljából határozott időre is adható. A helyettesítés céljából adott határozott idejű vezetői kinevezés meghosszabbítható.
 
-(6) A tartós külszolgálat időtartamára – a (4) bekezdésben foglaltaktól eltérően – vezetői kinevezés határozott időre is adható.
+(6)
 
 (7) Ha a kinevezés módosítása következtében a vezető
 
@@ -2125,7 +2125,7 @@ kell megállapítani.
 
 (5) A (3) és (4) bekezdést azzal az eltéréssel kell alkalmazni a 134. § (1) bekezdésében felsorolt szervek esetében, hogy az eltérítés maximum mértéke 30% lehet.
 
-(6) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, kormány-főtanácsadói, kormánytanácsadói, miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói munkakörbe helyezik, vagy e munkakörét módosítják, illetve címadományozásra, vagy annak visszavonására, vagy a 119. § szerinti átsorolásra vagy tartós külszolgálatra történő kirendelésre kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
+(6) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, kormány-főtanácsadói, kormánytanácsadói, miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói munkakörbe helyezik, vagy e munkakörét módosítják, illetve címadományozásra, vagy annak visszavonására, vagy a 119. § szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
 
 (7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
 
@@ -2367,7 +2367,7 @@ töltött időt kell figyelembe venni.
 
 151. § (1) A kormánytisztviselő cafetériajuttatásként – választása szerint – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel a Kormány által meghatározott rendben jogosult. A kormánytisztviselőt megillető cafetériajuttatás éves összege nem lehet alacsonyabb az illetményalap ötszörösénél. A cafetériajuttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
-(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő, az 57. § (1) és (2) bekezdés szerinti szakértői tevékenységet ellátó kormánytisztviselő, továbbá a kormánytisztviselő azon időtartam vonatkozásában, amelyre illetményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot. A harminc napot meghaladó távollét esetében a kormánytisztviselőt a távollét első napjától kezdve nem illeti meg a juttatás. A távollétek időtartamát – a jogosultság szempontjából – nem lehet összeszámítani.
+(2) Nem jogosult cafetéria-juttatásra az 57. § (1) és (2) bekezdés szerinti szakértői tevékenységet ellátó kormánytisztviselő, továbbá a kormánytisztviselő azon időtartam vonatkozásában, amelyre illetményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot. A harminc napot meghaladó távollét esetében a kormánytisztviselőt a távollét első napjától kezdve nem illeti meg a juttatás. A távollétek időtartamát – a jogosultság szempontjából – nem lehet összeszámítani.
 
 (2a) Nem jogosult cafetéria-juttatásra a kormánytisztviselő a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamra.
 
@@ -3026,7 +3026,7 @@ magyar állampolgárral létesíthető és tartható fenn. Nem létesíthető ko
 
 is létesíthető, ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik.
 
-(2a) Az (1) bekezdés c) pontjától eltérően kormányzati ügykezelőként tartós külszolgálatra az helyezhető ki, aki legalább középfokú végzettséggel rendelkezik.
+(2a)
 
 (3) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható.
 
@@ -3777,6 +3777,7 @@ kell alkalmazni.
 - h) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról,
 - i) az Európai Parlament és a Tanács 2011/95/EU irányelve (2011. december 13.) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról,
 - j) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól.
+- k) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
 
 ### 1. melléklet a 2011. évi CXCIX. törvényhez
 
