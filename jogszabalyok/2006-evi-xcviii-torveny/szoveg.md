@@ -706,20 +706,32 @@ közhiteles hatósági nyilvántartást vezet.
 
 érkezett.
 
-(4) A 23. § (4) bekezdés és a (3) bekezdés szerinti eljárásokba nem tartozó esetekben a forgalomba hozatali engedély jogosultjának – tápszer esetén a támogatás iránti kérelmet benyújtó forgalmazónak – bejelentési kötelezettsége van:
+(4) A 23. § (4) bekezdés és a (3) bekezdés szerinti eljárásokba nem tartozó esetekben a forgalomba hozatali engedély jogosultjának bejelentési kötelezettsége van:
 
 - a) már támogatott hatóanyagú gyógyszerének, tápszerének
-  - aa) kiadhatóságának változása,
-  - ab) névváltozása,
-  - ac) nyilvántartási szám változása,
-  - ad) nyilvántartásból való törlése,
+  - aa)
+  - ab)
+  - ac)
+  - ad)
   - ae) árcsökkentése
 
 esetén,
 
 - b) ha támogatott gyógyszerének támogatási kategóriáját olyan formában kívánja módosítani, melynek következtében az adott készítmény a társadalombiztosítási támogatással nem rendelkező készítmények közé sorolódik,
-- c) ha a Magyarországon forgalomba hozatali engedéllyel rendelkező és társadalombiztosítási támogatással rendelhető készítményét az Európai Unió Bizottsága centrális törzskönyvezési eljárás során engedélyezte forgalomba hozatalra,
-- d) ha a gyógyszernyilvántartásba bejegyzett jogosult személyében változás történik.
+- c)
+- d)
+
+(4a) A 23. § (3) bekezdése szerinti eljárásokba nem tartozó esetekben tápszer, speciális gyógyászati célra szánt élelmiszer esetén a támogatás iránti kérelmet benyújtó forgalmazónak bejelentési kötelezettsége van
+
+- a) már támogatott hatóanyagú tápszerének, speciális gyógyászati célra szánt élelmiszerének
+  - aa) névváltozása,
+  - ab) nyilvántartási szám változása,
+  - ac) árcsökkentése
+
+esetén,
+
+- b) abban az esetben, ha támogatott tápszerének, speciális gyógyászati célra szánt élelmiszerének támogatási kategóriáját olyan formában kívánja módosítani, amelynek következtében az adott készítmény a társadalombiztosítási támogatással nem rendelkező készítmények közé sorolódik,
+- c) abban az esetben, ha a forgalmazóként bejegyzett jogosult személyében változás történik.
 
 (5) A (4) bekezdésben foglalt bejelentési kötelezettség teljesítése során igazgatási szolgáltatási díjat nem kell fizetni.
 

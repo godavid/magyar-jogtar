@@ -18,7 +18,7 @@ ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, 
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
-(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerőpiaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 120 munkaóra időtartamú munkaerőpiaci szolgáltatásban, valamint naptári évenként legfeljebb 120 munkaóra időtartamú egészségügyi és szociális szolgáltatásban vesz részt.
+(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerőpiaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 120 munkaóra időtartamú munkaerőpiaci szolgáltatásban, valamint naptári évenként legfeljebb 120 munkaóra időtartamú egészségügyi és szociális szolgáltatásban vesz részt. Közfoglalkoztatási jogviszony keretében a közfoglalkoztatott részére európai uniós forrásból elhelyezkedést támogató, egyéni élethelyzetet javító munkaerőpiaci alkalmazkodás elősegítését célzó képzések és szolgáltatások is biztosíthatók.
 
 (2c) A hatósági szerződés megszűnése esetén a közfoglalkoztatási jogviszony megszűnik.
 
@@ -401,7 +401,7 @@ vonatkozó szabályai nem alkalmazhatók,
 
 55. § A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény 2–18. §-át a közfoglalkoztatási jogviszony tekintetében is megfelelően alkalmazni kell.
 
-#### 56. §
+56. § Ez a törvény az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 57. §
 

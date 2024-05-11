@@ -610,7 +610,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (4) Az e §-hoz kapcsolódó végrehajtási szabályokat a keszonmunkákról szóló jogszabály tartalmazza.
 
-#### 63/I. §
+63/I. § A munkavédelmi bírság mértékéről és a kiszabására vonatkozó részletes szabályokról, valamint a munkabiztonsági szaktevékenység végzésére jogosult személyek nyilvántartásának és továbbképzésének szabályairól szóló kormányrendeletben meghatározott Munkavédelmi Szakemberek Adatbázisával kapcsolatban az elektronikus ügyintézés kötelező.
 
 ### V. Fejezet — A MUNKABALESETEK ÉS A FOGLALKOZÁSI MEGBETEGEDÉSEK BEJELENTÉSE, KIVIZSGÁLÁSA ÉS NYILVÁNTARTÁSA
 
@@ -777,7 +777,7 @@ kell rögzítenie.
 
 (1b) Azon munkáltatónál, ahol van választott munkavédelmi képviselő, a munkavédelmi képviselő mandátumának lejártát követően három hónapon belül a munkavédelmi képviselő választást meg kell tartani.
 
-(2) A munkavédelmi képviselő választására az Mt. 238. §-át kell alkalmazni azzal, hogy az Mt. 238. § (2) bekezdésében foglaltakon túl nem választható munkavédelmi képviselővé az, aki a munkáltatónál munkaviszony keretében főtevékenységként a munkáltató megbízásából munkavédelmi feladatokat lát el.
+(2) A munkavédelmi képviselő választására az Mt. 238. §-át kell alkalmazni azzal, hogy az Mt. 238. § (2) bekezdésében foglaltakon túl nem választható munkavédelmi képviselővé az, aki a munkáltatónál munkaviszony keretében a munkáltató megbízásából munkavédelmi feladatokat lát el.
 
 (3) A munkavédelmi képviselőt egyenlő, titkos és közvetlen szavazással öt évre választják. A megválasztott munkavédelmi képviselők személyéről a munkavállalókat tájékoztatni kell. A munkavédelmi képviselők megválasztásának, megbízatása megszűnésének, visszahívásának rendjére, működési területére az Mt.-nek az üzemi tanács tagjaira, illetve az üzemi megbízottra vonatkozó rendelkezéseit kell megfelelően alkalmazni, ideértve a központi munkavédelmi bizottság megalakításának lehetőségét is.
 
@@ -866,7 +866,7 @@ kell rögzítenie.
 
 ### Országos Munkavédelmi Bizottság
 
-78. § Az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos országos érdekegyeztetést a munkavállalók, a munkáltatók érdekképviseleti szervezetei és a Kormány képviselőiből (a továbbiakban: tárgyaló csoportok) álló, az , saját ügyrend szerint működő Országos Munkavédelmi Bizottság látja el.
+78. § Az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos országos érdekegyeztetést a munkavállalók, a munkáltatók érdekképviseleti szervezetei és a Kormány képviselőiből (a továbbiakban: tárgyaló csoportok) álló, saját ügyrend szerint működő Országos Munkavédelmi Bizottság látja el.
 
 79. § (1) Az Országos Munkavédelmi Bizottság az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó érdekegyeztető tevékenysége keretében
 
@@ -932,7 +932,7 @@ kell rögzítenie.
 
 (4) A munkavédelmi hatóság a munkavédelmi bírságot telephelyenként szabja ki, amennyiben az azonos időben lefolytatott eljárás során megállapítást nyer, hogy az (1) bekezdésben leírt veszélyeztetést ugyanazon jogszabályi rendelkezést megsértve a munkáltató több telephelyén valósítja meg.
 
-(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró felügyelő javaslata alapján a munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a munkavédelmi bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett mérlegeli
+(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a munkavédelmi bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett mérlegeli
 
 - a) a megsértett jogszabályi előírások számát,
 - b) a veszélyeztetés várható következményeit,
@@ -1181,7 +1181,7 @@ kapcsolatban.
 - 7. Munkavédelmi üzembe helyezés: az a munkavédelmi eljárás, amelynek során az üzemeltető meggyőződik arról, hogy az adott létesítmény, munkahely, technológia, munkaeszköz a munkavédelmi követelményeket kielégíti, és üzemeltetését elrendeli.
 - 8. Munkáltató: a munkavállalót szervezett munkavégzés keretében foglalkoztató. Munkáltatónak kell tekinteni a munkaerő-kölcsönzés keretében átengedett munkavállalót kölcsönvevőként foglalkoztatót, a kirendelt munkavállalót foglalkoztatót, a szakképzés keretében gyakorlati oktatást folytatót, valamint a mást nem foglalkoztató, a munkáját kizárólag személyesen végző egyéni vállalkozót (akkor is, ha egyéni céget alapított) a munkavégzés hatókörében tartózkodók védelmére vonatkozó rendelkezések [9. § (2) bekezdés] tekintetében. A társadalmi munka esetén munkáltató a társadalmi munka szervezője. Magyar adószámmal nem rendelkező külföldi munkáltató esetén munkáltató az a személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ennek hiányában az, akinek a területén a munkavégzés folyik.
 - 8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
-- 9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti, a köznevelési foglalkoztatotti, az egészségügyi szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, hivatásos és szerződéses szolgálati viszonyban, a honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben, kisgyermekkel otthon lévők szövetkezetében és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakirányú oktatás keretében a szakképző intézményben, illetve a duális képzőhelyen, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
+- 9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti, a köznevelési foglalkoztatotti, az egészségügyi szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, hivatásos és szerződéses szolgálati viszonyban, a honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben, kisgyermekkel otthon lévők szövetkezetében és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakirányú oktatás keretében a szakképző intézményben, illetve a duális képzőhelyen, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
 - 9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is.
 - 9/B. Természetes személy munkáltató háztartásában történő munkavégzés: kizárólag a maga és háztartásában vele együtt élő személyek, továbbá közeli hozzátartozói mindennapi életéhez szükséges feltételek biztosítására irányuló munkaviszony.
 - 10. Újraindítás: az olyan — munkavédelmi szempontból korábban üzembe helyezett — munkaeszköz, technológia újbóli üzembe helyezése, amelyet műszaki okból egybefüggően 30 napot meghaladóan nem használtak, vagy amelyen teljes szétszereléssel együttjáró javítási munkafolyamatot végeztek.
@@ -1194,6 +1194,7 @@ kapcsolatban.
 - 14. Munkáltatói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
 - 15. Munkavállalói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti munkavállalói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
 - 16. Technológia: a folyamat, illetve a folyamatok egysége, amellyel az adott cél elérhető.
+- 17. Közvetlen veszélyeztetés: a veszélyeztetés térben és időben konkretizálódik, meghatározott személyt vagy személyeket érint, realizálódása előreláthatóan bekövetkezhet.
 
 ### ZÁRÓ RENDELKEZÉSEK
 

@@ -1593,7 +1593,7 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 112. § (1) A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
 
-(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 70 %-ának megfelelő összeget biztosít.
+(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 100%-ának megfelelő összeget biztosít.
 
 (3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj kétszeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
@@ -2498,11 +2498,13 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+145/E. § A munkavédelemről szóló 1993. évi XCIII. törvény módosításáról, valamint az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv átültetését szolgáló törvénymódosításokról szóló 2024. évi XXVIII. törvénnyel módosított 112. § (2) bekezdésében foglaltakat első alkalommal a 2024. május hónapra járó juttatás tekintetében kell alkalmazni.
+
 #### 52. Sarkalatossági záradék
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 145/E. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
@@ -2531,6 +2533,10 @@ sarkalatosnak minősül.
 (9) Az 50. alcím az Alaptörvénynek az (1)–(4), (6) és (7) bekezdésben meghatározott rendelkezései alapján sarkalatosnak minősül.
 
 (10) A 80. § (1) és (2a) bekezdése és a 89. § c) pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+#### 52/A. Az Európai Unió jogi aktusainak való megfelelés
+
+146/A. § Ez a törvény az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 53. Módosító rendelkezések
 

@@ -435,3 +435,7 @@ hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) b
 (4) Ahol jogszabály miniszteri vagy államtitkári illetményt, illetve annak hányadát vagy szorzatát állapítja meg illetményként vagy díjazásként valamely tisztségviselő számára, jogszabály eltérő rendelkezése hiányában e törvénynek a Módtv. hatálybalépését megelőző napon hatályos szabályait kell alkalmazni az illetmény vagy a díjazás összegének megállapítása során.
 
 92. § E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel megállapított 25/B. §-a és 52. §-a alapján az illetményt és a díjazást első alkalommal 2024. július 1. napjával kell megállapítani.
+
+### Az Európai Unió jogi aktusainak való megfelelés
+
+93. § Ez a törvény az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

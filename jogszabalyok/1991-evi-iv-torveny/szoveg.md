@@ -10,7 +10,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 
 2. § (1) Az álláskeresők ellátása során az egyenlő bánásmód követelményét meg kell tartani. E rendelkezés nem zárja ki azt, hogy a munkaerőpiacon hátrányos helyzetben levőket többletjogosultságok illessék meg.
 
-(2) A menekültként, oltalmazottként elismert, továbbá a bevándorolt vagy letelepedett jogállású, valamint a szabad mozgás és tartózkodás jogával rendelkező személyeket az e törvény és végrehajtási szabályai által tartalmazott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg és terhelik. Törvény, valamint kormányrendelet e szabálytól a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy) tekintetében eltérő szabályokat állapíthat meg.
+(2) A menekültként, oltalmazottként elismert, továbbá a huzamos tartózkodási jogosultsággal rendelkező, valamint a szabad mozgás és tartózkodás jogával rendelkező személyeket az e törvény és végrehajtási szabályai által tartalmazott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg és terhelik. Törvény, valamint kormányrendelet e szabálytól a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy) tekintetében eltérő szabályokat állapíthat meg.
 
 (3) Azt a harmadik országból származó munkavállalót, aki a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedéllyel rendelkezik és Magyarországon legalább hat hónapig munkaviszonyban állt, az álláskeresőként való nyilvántartásba vétel, valamint az álláskeresők ellátása tekintetében az e törvény és végrehajtási szabályai által meghatározott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg.
 
@@ -239,7 +239,7 @@ miatt kerül sor.
 
 (5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség felajánlható.
 
-(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.
+(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott egyszerűsített foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.
 
 ### Álláskeresési járadék mértéke
 
@@ -312,7 +312,7 @@ időtartamával.
 - d) meghalt, a halál bekövetkezését követő naptól,
 - e) az álláskeresési járadék folyósítási idejét kimerítette, a folyósítási idő utolsó napját követő naptól,
 - f)
-- g) kereső tevékenységet folytat – kivéve a (2) bekezdésben, a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszony keretében folytatott kereső tevékenységet – a kereső tevékenység kezdő napjától.
+- g) kereső tevékenységet folytat – kivéve a (2) bekezdésben, a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt egyszerűsített foglalkoztatásnak minősülő munkaviszony keretében folytatott kereső tevékenységet – a kereső tevékenység kezdő napjától.
 
 (2) Meg kell szüntetni az álláskeresési járadék folyósítását, ha
 
@@ -328,7 +328,7 @@ időtartamával.
   - ba) a szabadságvesztés büntetést közérdekű munka vagy pénzbüntetés átváltoztatása miatt állapították meg, vagy
   - bb) reintegrációs őrizetben van,
 - c) a 25. § (5) bekezdésében meghatározott időtartamú közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
-- d) rövid időtartamú, legfeljebb 120 napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével –, feltéve, hogy bejelentési kötelezettségének eleget tett, a kereső tevékenység végzésére irányuló jogviszony kezdő napjától,
+- d) rövid időtartamú, legfeljebb 120 napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott egyszerűsített foglalkoztatásnak minősülő munkaviszony kivételével –, feltéve, hogy bejelentési kötelezettségének eleget tett, a kereső tevékenység végzésére irányuló jogviszony kezdő napjától,
 - e)
 - f) az önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít, ezen időszak teljes időtartamára.
 
@@ -363,7 +363,7 @@ időtartamával.
 (7) Szünetel az álláskeresési segély folyósítása
 
 - a) a 29. § (1) bekezdés b) és c) pontjában, valamint f) pontjában meghatározott esetben,
-- b) – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
+- b) – az 58. § (5) bekezdés n) pontjában meghatározott egyszerűsített foglalkoztatásnak minősülő munkaviszony kivételével – a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
 - c) 90 napra, ha az álláskereső a 36. § (1) bekezdésében meghatározott bejelentési kötelezettséget elmulasztotta,
 - d) ha az álláskereső az álláskeresési segély folyósításának szünetelése alatt folytatott keresőtevékenység eredményeként álláskeresési járadékra szerzett jogosultságot.
 
@@ -394,7 +394,7 @@ időtartamával.
 
 ### Foglalkoztatási igazolás
 
-36/A. § (1) A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszüntetésekor vagy megszűnésekor foglalkoztatási igazolást állít ki.
+36/A. § (1) A munkaadó – az egyszerűsített foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszüntetésekor vagy megszűnésekor foglalkoztatási igazolást állít ki.
 
 (2) A foglalkoztatási igazolás tartalmazza
 
@@ -810,7 +810,7 @@ törli az álláskeresők nyilvántartásából az álláskeresőt.
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
 - a)
-- b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszonyt) folytat,
+- b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az 58. § (5) bekezdés n) pontjában meghatározott egyszerűsített foglalkoztatásnak minősülő munkaviszonyt) folytat,
 - c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 - d) csecsemőgondozási díjra, örökbefogadói díjra, gyermekgondozási díjra vagy gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, csecsemőgondozási díj, örökbefogadói díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
 - e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt, továbbá
@@ -887,7 +887,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
 
 - a) a természetes személyazonosító adatokat, a TAJ számát, valamint a bankszámlaszámot,
-- b) az állampolgárságot, a bevándorolt, a letelepedett, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
+- b) az állampolgárságot, a huzamos tartózkodási jogosultságot, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
 - c) a lakcím (lakóhely, tartózkodási hely) és elérhetőség adatait,
 - d) a foglalkozást, a munkahelyet, a munkakört (tevékenység), a munkaviszonyt,
 - e) a nyilvántartásba vételhez, az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a foglalkoztatást elősegítő szolgáltatás megállapításához, igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatokat,
@@ -937,10 +937,15 @@ kezeli.
 (2d) A kormányhivatal
 
 - a) a foglalkoztatást elősegítő támogatások, valamint a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos támogatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
-- b) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben a foglalkoztató által benyújtott munkaerőigények befogadása során az (1) bekezdés n) pontjában meghatározott adatokat,
+- b) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben
+  - ba) a harmadik országbeli állampolgár (1) bekezdés a) pontjában meghatározott adatait,
+  - bb) a foglalkoztató által benyújtott munkaerőigények befogadása során az (1) bekezdés n) pontjában meghatározott adatokat,
+  - bc) a minősített kölcsönbeadók nyilvántartásba vételével kapcsolatos eljárásban az (1) bekezdés n) pont nh) alpontjában meghatározott adatokat,
+  - bd) a regisztrációs díj fizetésére kötelezett kedvezményes foglalkoztató, valamint minősített kölcsönbeadó nyilvántartásba vételével kapcsolatos eljárásban az (1) bekezdés n) pont nh) alpontjában meghatározott adatokat,
 - c) a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
 - d) a munkaerő-piaci ellenőrzése során a tényállás tisztázásához elengedhetetlenül szükséges személyes adatokat, így különösen az érintettek vonatkozásában a természetes személyazonosító adatokat, és a szakképzettségre vonatkozó adatokat,
 - e) a hatósági ellenőrzés keretében az (1) bekezdés szerinti nyilvántartás adatait
+- f) a minősített kölcsönbeadók, illetve a magán-munkaközvetítők nyilvántartásba vételével összefüggésben az (1) bekezdés n) pont nh) alpontjában meghatározott adatokat
 
 kezeli.
 
@@ -1072,7 +1077,7 @@ szükséges hozzáférést.
 57/D. § (1) A járási hivatal a (2a) bekezdésben meghatározott célok biztosítása érdekében elektronikus nyilvántartást (a továbbiakban: ESZA adatbázis) vezet a résztvevő adatairól. Az ESZA adatbázis tartalmazza:
 
 - a) a természetes személyazonosító adatokat,
-- b) az állampolgárságot, valamint a bevándorolt, a letelepedett vagy a menekültstátuszt,
+- b) az állampolgárságot, valamint a huzamos tartózkodási jogosultságot vagy a menekültstátuszt,
 - c) a belföldi lakó- vagy tartózkodási helyet,
 - d) az iskolai végzettséget, szakképesítést,
 - e)
@@ -1153,7 +1158,7 @@ tekinthet be.
 - m) megváltozott munkaképességű személy:
   - ma) a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján maa) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű, mab) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány alapján, mac) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű,
   - mb) aki a komplex minősítés alól jogszabály rendelkezése alapján mentesül, rokkantsági ellátás folyósításának időtartama alatt,
-- n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
+- n) egyszerűsített foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 - o) közhasznú tevékenység: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység,
 - p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,
 - q) jövedelem: az Szt. 4. §-a (1) bekezdésének a) pontjában meghatározott jövedelem,
