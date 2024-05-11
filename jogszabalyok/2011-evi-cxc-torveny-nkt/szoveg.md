@@ -164,7 +164,7 @@ lehet,
 5. § (1) A köznevelési intézményekben folyó pedagógiai munka szakaszai a következők:
 
 - a) az óvodai nevelés szakasza, amely a gyermek hároméves korában kezdődik, és addig az időpontig tart, ameddig a gyermek a tankötelezettség teljesítését meg nem kezdi,
-- b) az alapfokú nevelés-oktatás szakasza, amely az első évfolyamon kezdődik, a nyolcadik évfolyam végéig tart és két részre tagolódik:
+- b) az alapfokú nevelés-oktatás szakasza, amely – a fejlesztő nevelés-oktatás kivételével – az első évfolyamon kezdődik, a nyolcadik évfolyam végéig tart és két részre tagolódik:
   - ba) az első évfolyamon kezdődő és a negyedik évfolyam végéig tartó alsó, és
   - bb) az ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső
 
@@ -292,7 +292,7 @@ tagozat,
 
 (4) Az általános és középfokú iskolák az iskolai Nemzeti Összetartozás Napja bevezetéséről, a magyarországi és a külhoni magyar fiatalok közti kapcsolatok kialakításáról és erősítéséről a közoktatásban, valamint a Magyarország határain kívül élő magyarság bemutatásáról szóló országgyűlési határozat alapján a hét-tizenkettedik évfolyamok valamelyikén szervezik meg a határon túli kirándulásokat. A határon túli kirándulásokat a központi költségvetés támogatja. A költségvetési támogatás elbírálásakor előnyt élveznek a külhoni iskolával dokumentált cserekapcsolatban álló hazai iskolák.
 
-(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít.
+(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül –, továbbá a fejlesztő nevelés-oktatás teljesítése alapfokú iskolai végzettséget tanúsít.
 
 (6) A középiskola, a szakiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít.
 
@@ -824,7 +824,7 @@ rendkívüli szünetet rendel el.
 - a) a nevelési-oktatási intézmény vallási, világnézeti tekintetben elkötelezett intézményként működhet, és ennek megfelelően a gyermekek vagy a tanulók felvételének előfeltételeként kikötheti valamely vallás, világnézet elfogadását, és ezt felvételi eljárás keretében vizsgálhatja,
 - b) nem kell alkalmazni a gyermekek, tanulók felvételével kapcsolatos rendelkezések közül a kötelező felvételre vonatkozó rendelkezéseket, valamint az osztály-, csoportlétszámokat meghatározó rendelkezéseket a maximális létszámra vonatkozó rendelkezések kivételével,
 - c) az óvodai, iskolai, kollégiumi felvétel, továbbá az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi tagsági viszony fenntartása – írásbeli megállapodásban – fizetési kötelezettséghez köthető, az óvodai elhelyezés, a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan – írásbeli megállapodásban – az 53. § (1)–(10) bekezdésében foglaltaktól el lehet térni,
-- d) a fenntartó pályáztatás és további eljárás nélkül is adhat igazgatói megbízást, nem kell alkalmazni a 67. § (7) bekezdésében foglaltakat,
+- d)
 - e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében a köznevelésért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában,
 - f) nem kell alkalmazni a 73. § (4) bekezdését.
 
@@ -1047,10 +1047,12 @@ is nyilvántartja.
 
 - a) sajátos nevelési igényére, beilleszkedési, tanulási, magatartási nehézségére, tartós gyógykezelésére vonatkozó adatai, továbbá a gyermek, tanuló speciális köznevelési ellátásához elengedhetetlenül szükséges szakorvosi, iskolaorvosi diagnózisának adatai a pedagógiai szakszolgálat, a nevelési-oktatási intézmények és az egészségügyi szakellátó között,
 - b) óvodai fejlődésével, valamint az iskolába lépéshez szükséges fejlettségével kapcsolatos adatai a szülőnek, a pedagógiai szakszolgálat intézményeinek, az iskolának,
-- c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, iskolaváltás esetén az új iskolának, a szakmai ellenőrzés végzőjének,
+- c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, a szakmai ellenőrzés végzőjének,
 - d) diákigazolványa kiállításához szükséges valamennyi adata a hivatal, a diákigazolvány elkészítésében közreműködők részére
 
 továbbítható.
+
+(8a) Iskolaváltás esetén az iskola az új iskolának a tanulmányi rendszeren keresztül adja át a gyermek, tanuló tantárgyankénti előrehaladást igazoló adatait és tanítási év közbeni iskolaváltás esetén az évközi érdemjegyeit is.
 
 (9) A nevelési-oktatási intézmény tanulmányi rendszerében nyilvántartja továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükségesek. E célból azok az adatok kezelhetők, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 
@@ -1600,26 +1602,7 @@ fegyelmi büntetés szabható ki.
 
 #### 35. A pedagógus kötelességei és jogai
 
-62. § (1) A pedagógus alapvető feladata a rábízott gyermekek, tanulók nevelése, oktatása, óvodában a gyermekek Óvodai nevelés országos alapprogramja szerinti nevelése, iskolában a kerettantervben előírt törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű tanuló esetén az egyéni fejlesztési tervben foglaltak figyelembevételével. Ezzel összefüggésben kötelessége különösen, hogy
-
-- a) nevelő és oktató munkája során gondoskodjék a gyermek személyiségének fejlődéséről, tehetségének kibontakoztatásáról, ennek érdekében tegyen meg minden tőle elvárhatót, figyelembe véve a gyermek egyéni képességeit, adottságait, fejlődésének ütemét, szociokulturális helyzetét,
-- b) a különleges bánásmódot igénylő gyermekekkel egyénileg foglalkozzon, szükség szerint együttműködjön gyógypedagógussal, konduktorral vagy a nevelést, oktatást segítő más szakemberekkel, a hátrányos helyzetű gyermek, tanuló felzárkózását elősegítse,
-- c) segítse a tehetségek felismerését, kiteljesedését, nyilvántartsa a tehetséges tanulókat,
-- d) előmozdítsa a gyermek, tanuló erkölcsi fejlődését, a közösségi együttműködés magatartási szabályainak elsajátítását, és törekedjen azok betartatására,
-- e) egymás szeretetére és tiszteletére, a családi élet értékeinek megismerésére és megbecsülésére, együttműködésre, környezettudatosságra, egészséges életmódra, hazaszeretetre nevelje a gyermekeket, tanulókat,
-- f) a szülőt – elsősorban a tanulmányi rendszeren keresztül – rendszeresen tájékoztassa a tanuló iskolai teljesítményéről, magatartásáról, az ezzel kapcsolatban észlelt problémákról, az iskola döntéseiről, a gyermek tanulmányait érintő lehetőségekről, a 38. § szerinti döntésekről,
-- g) a gyermek testi-lelki egészségének fejlesztése és megóvása érdekében tegyen meg minden lehetséges erőfeszítést: felvilágosítással, a munka- és balesetvédelmi előírások betartásával és betartatásával, a veszélyhelyzetek feltárásával és elhárításával, a szülő – és szükség esetén más szakemberek – bevonásával,
-- h) a gyermekek, a tanulók és a szülők, valamint a munkatársak emberi méltóságát és jogait maradéktalanul tiszteletben tartsa, javaslataikra, kérdéseikre érdemi választ adjon,
-- i) az ismereteket tárgyilagosan, sokoldalúan és változatos módszerekkel közvetítse, oktatómunkáját éves és tanórai szinten, tanulócsoporthoz igazítva, szakszerűen megtervezve végezze, irányítsa a tanulók tevékenységét,
-- j) a kerettantervben és a pedagógiai programban meghatározottak szerint érdemjegyekkel vagy szövegesen, sokoldalúan, a követelményekhez igazodóan értékelje a tanulók munkáját,
-- k) részt vegyen a számára előírt pedagógus-továbbképzéseken, folyamatosan képezze magát,
-- l) tanítványai pályaorientációját, aktív szakmai életútra történő felkészítését folyamatosan irányítsa,
-- m) a pedagógiai programban és az SZMSZ-ben előírt valamennyi pedagógiai és adminisztratív feladatait maradéktalanul teljesítse,
-- n) pontosan és aktívan részt vegyen a nevelőtestület értekezletein, a fogadóórákon, az iskolai ünnepségeken és az éves munkaterv szerinti rendezvényeken,
-- o) határidőre megszerezze a kötelező minősítéseket,
-- p) megőrizze a hivatali titkot,
-- q) hivatásához méltó magatartást tanúsítson,
-- r) a gyermek, tanuló érdekében együttműködjön munkatársaival és más intézményekkel.
+62. § (1) A pedagógus, valamint a nevelő-oktató munkát közvetlenül segítő alkalmazott az óvodai nevelőmunka, az iskolai és kollégiumi nevelő és oktató munka, valamint a pedagógiai szakszolgálat ellátása során a gyermekekkel, tanulókkal összefüggő tevékenységével kapcsolatban a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személy.
 
 (1a) A nevelési-oktatási intézmény, többcélú intézmény igazgatója a 14 évnél fiatalabb 1-es típusú diabétesszel élő gyermek, tanuló részére abban az időtartamban, amikor az óvoda, az általános iskola, a fejlesztő nevelést-oktatást végző iskola, a kollégium, a hat és nyolc évfolyammal működő gimnázium vagy a szakgimnázium ötödik-nyolcadik évfolyamán az intézmény – beleértve az ilyen köznevelési alapfeladatot ellátó többcélú intézményt is – felügyelete alatt áll, az 1-es típusú diabétesszel élő gyermek, tanuló szülőjének, más törvényes képviselőjének kérelmére, a gyermekkori diabétesz gondozásával foglalkozó egészségügyi intézmények szakmai iránymutatása alapján az (1b)–(1e) bekezdés szerinti speciális ellátást biztosítja.
 
@@ -1645,7 +1628,7 @@ fegyelmi büntetés szabható ki.
 
 (4a) Az Mt. 46. § (1) bekezdés j) pontja alkalmazásakor nem tartozik a munkáltató képzési politikája körébe a pedagógusok e törvény alapján kötelező továbbképzése.
 
-(5)
+(5) A pedagógus számára a miniszter rendeletben, a pedagógus-továbbképzésen kívül további, a hivatal által nyilvántartásba vett képzés teljesítését rendelheti el (a továbbiakban: köznevelésért felelős miniszter által előírt képzés).
 
 (6)
 
@@ -2000,6 +1983,7 @@ illeti meg.
 - j) az e törvényben biztosított tanulói jogok érvényesülésének elősegítésére megszervezi a középiskolai felvételi eljárást, kidolgoztatja a középiskolai felvételi eljárásban alkalmazott írásbeli felvételi vizsgafeladatokat,
 - k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, valamint a tankerületi központ által fenntartott köznevelési intézmény létesítéséről, a 21. § (3) bekezdés c)–e) pontjaiban felsoroltak módosulásával járó átszervezéséről, megszüntetéséről, alapfeladatának módosításáról.
 - l) nemzetközi megállapodás alapján működő köznevelési intézmény által folytatott nevelés-oktatás esetén megállapítja a nevelés-oktatás nemzetiségi irányelvnek való megfelelését.
+- m) megállapítja a köznevelésért felelős miniszter által előírt képzés nyilvántartásba vételének feltételeit és eljárási szabályait, a nyilvántartás rendjét, a képzés tartalmát, a képzésben részt vevők körét, valamint a képzés teljesítésének szabályait.
 
 (3) A köznevelésért felelős miniszter az általa vezetett minisztérium költségvetésének a terhére országos és térségi szakmai ellenőrzést, pedagógiai-szakmai mérések, átvilágítások, elemzések készítését rendelheti el, továbbá felkérheti a fenntartót, hogy a fenntartásában lévő nevelési-oktatási intézményben végeztessen törvényességi, szakmai ellenőrzést, pedagógiai-szakmai mérést, átvilágítást, elemzést, és ennek eredményéről tájékoztassa. Ha a fenntartó a felkérésnek nem tesz eleget, a köznevelésért felelős miniszter intézkedésére a hivatal jár el.
 
@@ -2583,7 +2567,7 @@ legfeljebb kettő tankönyvet tartalmazhat.
 - q) a nyelvi előkészítő évfolyammal működő iskola nevelés-oktatás megszervezésére vonatkozó szabályokat
 - r) a tanév, ezen belül a tanítási év rendjét, a tanítási év meghosszabbítását,, a tanév szervezésével kapcsolatos feladatokat, így különösen a tanév kezdő és befejező napját, azt az időszakot, amelynek keretében az iskolai nevelés és oktatás folyik, a tanítási szünetek szervezésének időszakát és időtartamát, a felvételi kérelmek elbírálásának, az érettségi vizsga időszakát,
 - s) az országos tanulmányi verseny szabályzatát,
-- t)
+- t) a pedagógus számára a köznevelésért felelős miniszter által előírt képzés nyilvántartásba vételének feltételeit és eljárási szabályait, a nyilvántartás rendjét, a képzés tartalmát, a képzésben részt vevők körét, valamint a képzés teljesítésének szabályait,
 - u) a tankönyvvé nyilvánítási eljárás igazgatási szolgáltatási díját, az igazgatási szolgáltatási díj felhasználására, visszafizetésére, visszatérítésére, nyilvántartására és elszámolására vonatkozó részletes szabályokat,
 - v)
 
@@ -2620,7 +2604,7 @@ egyetértésben gyakorolja.
 - g)
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának, kezelésének, érvényesítésének szabályait,
-- j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
+- j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 - k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 - l) a kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság hatósági ellenőrzésének tárgyköreit,,
 - m) a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj igénybevételének feltételeit,

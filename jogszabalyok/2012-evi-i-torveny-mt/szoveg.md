@@ -1854,7 +1854,7 @@ figyelembevételével kell megállapítani.
 - a) a kötelező legkisebb munkabér és
 - b) a garantált bérminimum
 
-összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben állapítsa meg.
+összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban és a Kormány által kijelölt fórumban folytatott konzultációt követően – rendeletben állapítsa meg.
 
 (2) A Kormány a munkavállalók egyes csoportjaira eltérő összegű kötelező legkisebb munkabért és garantált bérminimumot állapíthat meg.
 
@@ -1862,7 +1862,7 @@ figyelembevételével kell megállapítani.
 
 (4) A kötelező legkisebb munkabér és a garantált bérminimum összegét naptári évenként felül kell vizsgálni.
 
-(5) Felhatalmazást kap a Kormány, hogy a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés elvárt mértékét, a béren kívüli juttatás ennek keretében figyelembe vehető mértékét, valamint a munkabéremelés elvárt mértékével kapcsolatos részletes szabályokat – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben határozza meg.
+(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kötelező legkisebb munkabér és a garantált bérminimum konzultációjára kijelölt fórumot és a konzultációra vonatkozó szabályokat.
 
 #### 70. A munkabér védelme
 
@@ -2899,7 +2899,8 @@ valamint a munkáltató személyében bekövetkező változás
 - l) a munkáltató működésével összefüggő környezetvédelmi intézkedés,
 - m) az egyenlő bánásmód követelményének megtartására és az esélyegyenlőség biztosítására irányuló intézkedés,
 - n) a családi élet és a munkatevékenység összehangolása,
-- o) munkaviszonyra vonatkozó szabályban meghatározott egyéb intézkedés.
+- o) a harmadik országbeli állampolgárok foglalkoztatása, amennyiben az eléri a munkáltatónál munkaviszonyban álló munkavállalók létszámának öt százalékát, és minden további öt százalékos emelkedés elérésekor,
+- p) munkaviszonyra vonatkozó szabályban meghatározott egyéb intézkedés.
 
 265. § (1) A munkáltató személyében bekövetkező változás esetén az átadó és az átvevő munkáltató legkésőbb a változást megelőzően tizenöt nappal tájékoztatja az üzemi tanácsot a változás
 
@@ -3347,5 +3348,6 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 - p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról,
 - q) az Európai Parlament és a Tanács (EU) 2018/957 irányelve (2018. június 28.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról.
 - r) a Tanács (EU) 2018/131 irányelve (2018. január 23.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között a 2009/13/EK irányelvnek a 2006-os Tengerészeti Munkaügyi Egyezmény 2014. évi, a Nemzetközi Munkaügyi Konferencia által 2014. június 11-én jóváhagyott módosításával összhangban történő módosítása céljából létrejött megállapodás uniós jogba való átültetéséről.
+- s) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
 
 300. § A 10–11. §, valamint a 11/A. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. árpilis 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.

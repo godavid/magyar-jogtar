@@ -4750,7 +4750,7 @@ az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/E
 
 (3) A kártalanítás mértéke megegyezik
 
-- a) határozott idejű szerződés esetén a 2024. november 1-jéhez képest hátralévő időtartammal azonos időtartamra vonatkozó, de legfeljebb három évnyi,
+- a) határozott idejű szerződés esetén a szerződés (1) bekezdés szerinti megszűnéséhez képest hátralévő időtartammal azonos időtartamra vonatkozó, de legfeljebb három évnyi,
 - b) határozatlan idejű szerződés esetén három üzleti év – ha a működését később kezdte meg, az adott évek – az egészségügyi szolgáltató egészségbiztosítás keretében történő CT-MRI vizsgálatok végzésére való jogosultságának (1) bekezdés szerinti megszűnését megelőző
 
 időtartamnak a megszűnt jogosultság szerinti gazdasági tevékenységéből származó, adózás szerinti eredménye átlagának összegével. A kártalanítás mértékét az egészségügyért felelős miniszter állapítja meg.
