@@ -76,21 +76,46 @@ a jogi és gazdasági versenyképesség erősítése érdekében egyes törvény
 
 #### 13. A szomszédjogok és a tulajdonjog korlátainak különös szabályairól szóló 2013. évi CLXXIV. törvény módosítása
 
-#### 21. §
+21. § A szomszédjogok és a tulajdonjog korlátainak különös szabályairól szóló 2013. évi CLXXIV. törvény (a továbbiakban: 2013. évi CLXXIV. törvény) a következő 5/A. §-sal egészül ki:
+
+„5/A. § (1) A reklámcélú hasznosítási jog alapján a lakóépület tulajdonosa a tulajdonhoz való jog és a tulajdonnal való szabad rendelkezés körében – a közigazgatási anyagi jogszabályokban meghatározott feltételekkel összhangban – jogosult a lakóépület erre alkalmas felületeinek reklámelhelyezés céljából történő hasznosítására. A reklámcélú hasznosítási jog a reklámozó személyre is kiterjedően magában foglalja a közterületi ingatlan feletti légi tér e törvényben meghatározott mértékű térítésmentes igénybevételének a lehetőségét.
+
+(2) A reklámcélú hasznosítási jog alapján a közterületről látható lakóépületen a településkép-védelmi jogszabályokban meghatározott reklám, reklámhordozó vagy reklámhordozót tartó berendezés elhelyezésére, telepítésére, illetve használatára térítésmentesen vehető igénybe a közterületi ingatlan feletti légi tér, ha
+
+- a) a közterület feletti igénybevétel a közterületi telekhatártól számított, arra merőleges hossza az egy métert – a reklámhordozónak a reklám megvilágítását szolgáló berendezése esetében a két métert – nem haladja meg, és
+- b) az igénybevétel legalacsonyabb pontja a közterület terepszintjétől számítva legalább négy méter magasságban van.
+
+(3) A (2) bekezdésben foglaltaknál nagyobb mértékű igénybevételre a közterület-használatra vonatkozó helyi önkormányzati rendelet előírásai az irányadók. A helyi önkormányzat rendelete a (2) bekezdésben foglaltaknál nagyobb mértékű térítésmentes igénybevételt is biztosíthat.
+
+(4) E § alkalmazásában közterületnek minősül a településkép védelméről szóló törvényben meghatározott közterület.
+
+(5) E § rendelkezései nem alkalmazhatóak a kulturális örökség védelméről szóló törvényben meghatározott kiemelt nemzeti emlékhelyre, valamint a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről szóló kormányrendeletben meghatározott kiemelt nemzeti emlékhely településkép-védelmi környezetére.”
 
 22. § (1)
 
-(2)
+(2) A 2013. évi CLXXIV. törvény
+
+- a) 6. § (1) bekezdésében a „2–5. §-okat” szövegrész helyébe a „2–5/A. §-t” szöveg,
+- b) 6. § (2) bekezdésében az „és a 4. § (1) bekezdés” szövegrész helyébe az „ , a 4. § (1) bekezdése, valamint az 5/A. § (1) bekezdése” szöveg
+
+lép.
 
 #### 14.
 
 #### 23. §
 
-#### 15.
+#### 15. A településkép védelméről szóló 2016. évi LXXIV. törvény módosítása
 
-#### 24. §
+24. § A településkép védelméről szóló 2016. évi LXXIV. törvény (a továbbiakban: 2016. évi LXXIV. törvény) a következő 16/F. §-sal egészül ki:
 
-#### 25. §
+„16/F. § E törvénynek a jogi és gazdasági versenyképesség erősítése érdekében egyes törvények módosításáról szóló 2024. évi XV. törvénnyel módosított 11/F. § 1. és 4. pontját a hatálybalépésükkor folyamatban lévő ügyekben – ideértve a jogorvoslati és a megismételt eljárásokat is – alkalmazni kell.”
+
+25. § A 2016. évi LXXIV. törvény 11/F. §
+
+- a) 1. pontjában az „el nem zárt magánút;” szövegrész helyébe az „el nem zárt magánút, ide nem értve a szomszédjogok és a tulajdonjog korlátainak különös szabályairól szóló törvény szerinti reklámcélú hasznosítási jog gyakorlásával igénybe vett légi teret;” szöveg,
+- b) 4. pontjában az „eszköz, berendezés, létesítmény;” szövegrész helyébe az „eszköz, berendezés, létesítmény, ideértve a reklám megvilágítását szolgáló berendezést és annak valamennyi tartozékát, és” szöveg
+
+lép.
 
 #### 16.
 

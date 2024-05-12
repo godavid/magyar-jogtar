@@ -218,14 +218,14 @@ szabályokat.
 
 11/F. § E törvény alkalmazásában:
 
-- 1. közterület: az Étv. 2. § 13. pontja szerinti közterület, valamint az állam vagy a helyi önkormányzat tulajdonában álló, közforgalom elől el nem zárt magánút;
+- 1. közterület: az Étv. 2. § 13. pontja szerinti közterület, valamint az állam vagy a helyi önkormányzat tulajdonában álló, közforgalom elől el nem zárt magánút, ide nem értve a szomszédjogok és a tulajdonjog korlátainak különös szabályairól szóló törvény szerinti reklámcélú hasznosítási jog gyakorlásával igénybe vett légi teret;
 - 2. plakát: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti gazdasági reklámnak, valamint a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti kampányeszköznek nem minősülő falragasz vagy felirat, mérettől és hordozóanyagtól függetlenül;
 - 3. reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti gazdasági reklám, ide nem értve
   - a) a cégtáblát, üzletfeliratot, a vállalkozás használatában álló ingatlanon elhelyezett, a vállalkozást népszerűsítő egyéb feliratot és más grafikai megjelenítést,
   - b) az üzlethelyiség portáljában (kirakatában) elhelyezett gazdasági reklámot,
   - c) a járművön, valamint tájékozódást segítő jelzést megjelenítő reklámcélú eszközön elhelyezett gazdasági reklámot, továbbá
   - d) a tulajdonos által az ingatlanán elhelyezett, annak elidegenítésére vonatkozó ajánlati felhívást (hirdetést), valamint a helyi önkormányzat által lakossági apróhirdetések közzétételének megkönnyítése céljából biztosított táblán vagy egyéb felületen elhelyezett, kisméretű hirdetéseket;
-- 4. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt az e törvény szerinti reklám közzétételét, illetve elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény; ide nem értve a közúti közlekedési tárgyú jogszabályokban meghatározott életmentő funkciót ellátó reklámcélú eszközt.
+- 4. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt az e törvény szerinti reklám közzétételét, illetve elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény, ideértve a reklám megvilágítását szolgáló berendezést és annak valamennyi tartozékát, és ide nem értve a közúti közlekedési tárgyú jogszabályokban meghatározott életmentő funkciót ellátó reklámcélú eszközt.
 
 #### 4/D. A közpénzekkel való felelős gazdálkodásra kötelezett szervezetekre vonatkozó különös szabályok
 
@@ -364,6 +364,8 @@ bizonyos időtartammal, egy vagy több alkalommal automatikusan meghosszabbodik.
 16/D. § Azt a reklámeszközt, amelynek elhelyezésére e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2023. évi CVII. törvénnyel (a továbbiakban: Módtv.4.) megállapított 11/A. § (5) bekezdésének hatálybalépését megelőzően szabályszerűen került sor, a tulajdonosnak 2024. február 1-jéig be kell jelentenie a Nemzeti Média- és Hírközlési Hatósághoz az országos reklámkataszterbe történő bejegyzés érdekében. A bejelentés kizárólag elektronikus úton tehető meg. Az e § szerinti reklámeszközre a 11/A. § (5) bekezdésében meghatározott reklám-elhelyezési tilalom 2024. július 1-jéig nem alkalmazható.
 
 16/E. § A helyi önkormányzat képviselő-testülete (közgyűlése) a településképi rendeletének az e törvény Módtv.4.-gyel megállapított 11/B. § (1a) bekezdése, valamint a Módtv.4.-gyel módosított 12. § (2) bekezdés h) pontjának való megfelelését 2024. január 31-ig köteles biztosítani.
+
+16/F. § E törvénynek a jogi és gazdasági versenyképesség erősítése érdekében egyes törvények módosításáról szóló 2024. évi XV. törvénnyel módosított 11/F. § 1. és 4. pontját a hatálybalépésükkor folyamatban lévő ügyekben – ideértve a jogorvoslati és a megismételt eljárásokat is – alkalmazni kell.
 
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
