@@ -2912,7 +2912,9 @@ rendeletben szabályozza.
 
 (2) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2018. évi XCI. törvénnyel módosított 167. § (2) bekezdését a módosítás hatálybalépését követően kitűzött általános választás esetében kell alkalmazni.
 
-208/C. § Az ingatlan-nyilvántartási ügyben való eljárási jogosultság nyilvántartásba vétele iránti kérelem 2024. július 1-jétől terjeszthető elő. A kérelemről az ügyvédi kamara elnöke a 2024. október 1-jétől hatályos 183/A. §-ban meghatározott feltételek alapján dönt. Ha a területi kamara elnöke a kérelemnek helyt ad, az ingatlan-nyilvántartási ügyben való eljárási jogosultságot legkorábban 2024. október 1-jei hatállyal veszi nyilvántartásba.
+208/C. § (1) Az ingatlan-nyilvántartási ügyben való eljárási jogosultság nyilvántartásba vétele iránti kérelem 2024. szeptember 1-jétől terjeszthető elő. A kérelemről a területi kamara elnöke a 2024. október 1-jétől hatályos 183/A. §-ban meghatározott feltételek alapján dönt. Ha a területi kamara elnöke a kérelemnek helyt ad, az ingatlan-nyilvántartási ügyben való eljárási jogosultságot legkorábban 2024. október 1-jei hatállyal veszi nyilvántartásba.
+
+(2) A 39/A. §-t és a 42/A. §-t 2024. október 1. és 2024. december 3. között abban az esetben kell alkalmazni, ha az ingatlan-nyilvántartási ügyben a kérelem benyújtására az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor.
 
 #### 92. Az Európai Unió jogának való megfelelés
 

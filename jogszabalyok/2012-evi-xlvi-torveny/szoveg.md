@@ -137,8 +137,8 @@ biztosítja.
 (8) Állami alapadatot
 
 - a) helyi térképtárban vagy adattárban tárolt állami alapadatok esetében a térképtárat vagy adattárat fenntartó ingatlanügyi hatóság,
-- b) ingatlan-nyilvántartási, valamint egyéb célú földmérési és térképészeti tevékenység végzéséhez szükséges állami alapadatok tekintetében az ingatlanügyi hatóságként eljáró területileg illetékes kormányhivatal,
-- c) az a) és b) pont alá nem tartozó állami alapadatok esetében az ingatlanügyi hatóságként eljáró földmérési és térinformatikai államigazgatási szerv,
+- b) ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység végzéséhez szükséges állami alapadatok tekintetében az ingatlanügyi hatóságként eljáró területileg illetékes kormányhivatal,
+- c) az a) és b) pont alá nem tartozó állami alapadatok esetében az ingatlanügyi hatóságként eljáró földmérési és térinformatikai államigazgatási szerv, illetve fővárosi vagy vármegyei kormányhivatal,
 - d) a honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok esetében a honvédelem térképészeti támogatásáért felelős szerv
 
 szolgáltat.
@@ -284,7 +284,7 @@ díj-, költség- és térítésmentesen hozzáférhet.
 
 #### 5/A. Földmérési és térképészeti adatok felhasználása
 
-6/A. § (1) Állami alapadatok felhasználásával előállított és működtetett nyilvántartási és térinformatikai rendszerek készítéséhez, az állami alapadatok publikálásához vagy bármilyen formában történő nyilvános megjelenítéséhez, átadásához a 32. § (3) bekezdés szerinti továbbfelhasználási engedély szükséges.
+6/A. § (1) az állami alapadatok publikálásához vagy bármilyen formában történő nyilvános megjelenítéséhez, átadásához a 32. § (3) bekezdés szerinti továbbfelhasználási engedély szükséges.
 
 (2) A nyilvántartási és térinformatikai rendszer tulajdonosa, amennyiben a nyilvántartási és térinformatikai rendszer állami alapadatot tartalmaz, az állami alapadat-tartalom használatáért igazgatási szolgáltatási díjat köteles fizetni.
 

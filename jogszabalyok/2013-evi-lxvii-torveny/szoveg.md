@@ -58,7 +58,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
 - 41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
 - 42. nehézgépjármű: olyan gépjármű, amelynek műszakilag megengedett legnagyobb össztömege meghaladja a 3,5 tonnát;
-- 43. nehéz tehergépjármű: árufuvarozásra szánt nehézgépjármű, ideértve a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti vontatót és nyerges vontatót is, ha e törvény alkalmazásában nehézgépjárműnek minősül;
+- 43. nehéz tehergépjármű: árufuvarozásra szánt nehézgépjármű, ideértve a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti vontatót és nyerges vontatót, és a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet szerinti különleges felépítményű gépjárművet is, ha e törvény alkalmazásában nehézgépjárműnek minősül;
 - 44. autóbusz: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti autóbusz, ha e törvény alkalmazásában nehézgépjárműnek minősül;
 - 45. pótkocsi: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti pótkocsi;
 - 46. félpótkocsi: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti félpótkocsi;
@@ -98,6 +98,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 71. külvárosi utak: azok az útdíjköteles elemi útszakaszok, amelyek 150 és 900 fő/km2 népsűrűség (300 fő/km2 medián népsűrűség) közötti területeken fekszenek;
 - 72. településeket összekötő utak: azok az útdíjköteles elemi útszakaszok, amelyek 150 fő/km2-nél alacsonyabb népsűrűségű területeken fekszenek;
 - 73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
+- 74. lényegesen módosított UD rendszer: az UD rendszer olyan módosítása, amelynek eredményeképpen az EETS-szolgáltató által alkalmazott átjárhatósági rendszerelemek olyan mértékű módosítása szükséges, amely az EETS-szolgáltató újbóli akkreditálását is szükségessé teszi;
+- 75. EETS-akkreditáció: az EETS-szolgáltató által az útdíjszedőnél kezdeményezett eljárás, amelynek eredményes lefolytatását követően az útdíjszedő az EETS-szolgáltatóval az EETS, EETS-területen történő nyújtására szerződést köt.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
 
@@ -279,7 +281,7 @@ tett előzetes bejelentés alapján, a mentességi nyilvántartásba bejegyzett 
 - b) a díjköteles országos közúthálózat üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
 - c) az egyéb országos közúthálózati elemek üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
 - d) a közúti közlekedési infrastruktúrával összefüggő egyéb állami feladatok, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
-- e) a koncessziós szerződés keretében üzemeltetett útszakaszok rendelkezésre állási díja fizetésének,
+- e) a koncessziós szerződés keretében üzemeltetett útszakaszok rendelkezésreállási díja, valamint a rendelkezésreállás-alapú szolgáltatási díja fizetésének,
 - f) az országos közúthálózati elemek meglévő kapacitásának bővítése és új hálózati elemek kiépítése
 
 érdekében.
@@ -436,7 +438,7 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 
 #### 11. Egyeztető szerv
 
-23. § (1) Az útdíjszolgáltató és az útdíjszedő egymás közötti útdíjszedéssel kapcsolatos – különösen a szerződéskötésre irányuló tárgyalásokkal vagy a már fennálló szerződéses viszonyukkal összefüggésben felmerült – jogvitáiban a bírósági igényérvényesítés előtt a feleknek meg kell kísérelniük a jogvita peren kívüli rendezését az e törvény felhatalmazása alapján kiadott rendeletben kijelölt egyeztető szerv útján.
+23. § (1) Az útdíjszolgáltató vagy az EETS-szolgáltató (ezen alcím alkalmazásában a továbbiakban együtt: szolgáltató) és az útdíjszedő közötti útdíjszedéssel összefüggő – különösen a szolgáltató számára előírt szerződési feltételekkel és e feltételek megkülönböztetésmentességével, a szolgáltató díjazásával vagy a fennálló szerződéssel összefüggésben felmerült – jogvitáiban a bírósági igényérvényesítést megelőzően a feleknek meg kell kísérelniük jogvitájuknak az egyeztető szerv útján történő rendezését.
 
 (2) A vitában érintett felek a bírósági igényérvényesítést megelőzően kötelesek felkérni az egyeztető szervet, hogy jogvitájukat vizsgálja meg és arra vonatkozóan adjon véleményt. Az egyeztető szerv véleménye a felekre nézve kötelező erővel nem bír.
 

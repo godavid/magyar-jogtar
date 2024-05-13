@@ -60,7 +60,7 @@ terjed ki.
 
 1.14. nemzeti szabály: olyan vasúti műszaki előírás, amely az uniós vasúti rendszer magyarországi rendszerére vonatkozóan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű, az egyes alrendszerekre vagy alrendszerrészekre, a vasúti társaságokra, pályahálózat-működtetőkre vagy harmadik felekre vonatkozó uniós vagy nemzetközi szabályoktól eltérő vasútbiztonsági vagy műszaki követelményeket tartalmaz;
 
-1.15. nemzeti előírás: olyan vasúti műszaki előírás, amely a magyar vasúti rendszernek az uniós vasúti rendszerhez nem tartozó részére vonatkozóan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű, az egyes alrendszerekre vagy alrendszerrészekre, a vasúti társaságokra, pályahálózat-működtetőkre vagy harmadik felekre vonatkozó műszaki vagy biztonsági követelményeket határoz meg;
+1.15. nemzeti előírás: olyan vasúti műszaki előírás, amely a magyar vasúti rendszernek az uniós vasúti rendszerhez nem tartozó részére, vagy az uniós vasúti rendszer átjárhatósági műszaki előírások hatálya alá nem tartozó alrendszer valamely elemére vonatkozóan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű, az egyes alrendszerekre vagy alrendszerrészekre, a vasúti társaságokra vagy harmadik felekre vonatkozó műszaki vagy biztonsági követelményeket határoz meg;
 
 1.16. nemzeti ajánlás: a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a megfelelés nemzeti szinten elfogadható módját, a nemzeti előírásoknak való megfelelés megállapításának különböző módjait, vagy a vasúti rendszer biztonságos üzemeltethetősége érdekében, a vasúti pályára és tartozékaira, a vasúti üzemi létesítményekre és az azokhoz kapcsolódó felvonókra, mozgólépcsőkre és mozgójárdákra, valamint a felszín alatti vasúti pályahálózat vasúti állomási épületeire vonatkozó elvárt rendszerintegritási követelményeket, a vasúti pálya és tartozékai, a vasúti üzemi létesítmények létesítése, átalakítása vagy korszerűsítése során az elvárt szintű rendszerintegritás érdekében teljesítendő feltételeket és eljárásokat;
 
@@ -758,7 +758,7 @@ a működési engedélyt hivatalból felfüggeszti.
 
 ### VI. Fejezet — VASÚTI SZOLGÁLTATÁSOKRA ALKALMAZHATÓ MENTESSÉGEK
 
-18. § (1) A 3/A. § c) pont, a 3/B. § (1) bekezdés, a 3/C. §, a 12. §, a 13. §, a 15. § (4) bekezdés, a 19. §, a 20. §, a 21. §, a 28. § (2) bekezdés a) pont, a 29/A. §, a 29/B. §, a 49. §, a 67. §, a 67/P–67/W. §, a 69. § 9., 11., 19. és 20. pont rendelkezéseit – a (2) bekezdésben foglalt kivétellel – nem kell alkalmazni arra a vállalkozó vasúti társaságra, amely városi, elővárosi vagy térségi vasúti szolgáltatásokat nyújt
+18. § (1) A 3/A. § c) pontja, a 3/B. § (1) bekezdése, a 3/C. §, a 12. §, a 13. §, a 15. § (4) bekezdése, a 19. §, a 20. §, a 21. §, a 28. § (2) bekezdés a) pontja, a 29/A. §, a 29/B. §, a 49. §, a 67. §, a 67/P–67/W. §, a 69. § 9., 11., 19. és 20. pontja rendelkezéseit – a (2) bekezdésben foglalt kivétellel – nem kell alkalmazni arra a vállalkozó vasúti társaságra, amely kizárólag városi, elővárosi vagy térségi vasúti szolgáltatásokat nyújt
 
 - a) különálló helyi és térségi vasúti pályahálózaton, valamint
 - b) városi vagy elővárosi vasúti szolgáltatások számára fenntartott vasúti pályahálózaton.
@@ -967,7 +967,7 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 30. § (1) A nemzeti szabályok és a nemzeti előírások
 
 - a) jogszabályban,
-- b) a vasúti műszaki bizottság által kidolgozott és a közlekedési hatóság által közzétett vasúti műszaki előírásokban
+- b) a vasúti műszaki bizottság által kidolgozott és a közlekedési hatóság által kiadott vasúti műszaki előírásokban
 
 kerülnek meghatározásra.
 
@@ -1026,23 +1026,22 @@ a közlekedési hatóság a nemzeti szabály vagy annak hatályon kívül helyez
 
 (11) Az (EU) 2016/796 európai parlamenti és tanácsi rendelet 26. cikke szerinti vizsgálata során az Ügynökség és a Bizottság által elfogadott és ezt követően kihirdetett új nemzeti szabályt a közlekedési hatóság az Ügynökség által működtetett informatikai rendszer útján megküldi a Bizottságnak és az Ügynökségnek.
 
-(12) A jogszabályokban – valamint az uniós vasúti rendszer részét képező vasúti pályahálózatot működtető vagy azon közlekedő vasúti társaság esetén az egyéb nemzeti szabályokban – meghatározott keretek között a vasúti közlekedés biztonságával összefüggő vasúti társasági előírásokat a vasúti társaság biztonsági szabályzatban állapítja meg. A biztonsági szabályzatot a közlekedési hatóság hagyja jóvá.
+(12)
 
 (13) A bejelentett nemzeti szabályokra nem vonatkozik az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendelet szerinti értesítési eljárás.
 
-30/A. § (1) A vasúti jármű tervezése, gyártása, átalakítása, típusvizsgálata, üzembe helyezését és forgalomba adását megelőző vizsgálata, üzembe helyezése, forgalomba helyezése, karbantartása, üzemeltetése, valamint használata során betartandó műszaki követelményekre vonatkozó szabályok a vasúti jármű tervezésének, gyártásának, átalakításának, valamint használata során betartandó műszaki és üzemeltetési követelményeknek részletes műszaki szabályairól szóló miniszteri rendelet, valamint a vasúti műszaki bizottság által kidolgozott és a hatóság által a jogszabályban megállapított tárgykörben és keretek között kiadott vasúti műszaki előírások határozzák meg.
+30/A. § (1) A vasúti műszaki bizottság kidolgozza a különféle vasúti rendszerek, azok alrendszereinek és alrendszerrészeinek tervezésére, kivitelezésére, üzemeltetésre, karbantartására, valamint a vasúti forgalom lebonyolítására, továbbá a vasúti rendszereknek a fogyatékossággal élő és csökkent mozgásképességű személyek általi hozzáférhetőségére vonatkozó – átjárhatósági műszaki előírások, jogszabály vagy szabvány által nem szabályozott – vasúti műszaki előírásokat, továbbá javaslatot tesz, közreműködik a vasúti műszaki előírásokkal összefüggő jogszabályalkotásban.
 
-(2) A vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó műszaki követelményekre vonatkozó szabályok a vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó műszaki követelmények szabályairól szóló miniszteri rendelet, valamint a vasúti műszaki bizottság kidolgozott és a hatóság által a jogszabályban megállapított tárgykörben és keretek között kiadott vasúti műszaki előírások határozzák meg.
+(2) Az (1) bekezdés szerinti vasúti műszaki előírásokban meghatározott tárgykörökben és keretek között
 
-(3) A vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezésére, vizsgálatára, alkalmazhatóságára, üzemeltetésére, karbantartására vonatkozó műszaki követelményeket a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezése, vizsgálata, alkalmazhatósága, üzemeltetése, karbantartása vonatkozó műszaki követelmények szabályairól szóló miniszteri rendelet, valamint a vasúti műszaki bizottság által kidolgozott és a hatóság által a jogszabályban megállapított tárgykörben és keretek között kiadott vasúti műszaki előírások határozzák meg.
+- a) a vasúti forgalom operatív lebonyolításával összefüggő folyamatokat a vasúti pályahálózat működtetője,
+- b) a vasúti közlekedés biztonságával összefüggő vasúti társasági előírásokat a vasúti társaság
 
-(4) A vasúti forgalom lebonyolításával összefüggő alapvető szabályokat, a forgalomban részt vevő vonatok terhelésére, összeállítására, megfékezettségére, a kötelezően elvégzendő vizsgálatokra vonatkozó szabályokat a vasúti forgalom lebonyolításával összefüggő alapvető szabályokról, a forgalomban részt vevő vonatok terhelésének, összeállításának, megfékezettségének, a kötelezően elvégzendő vizsgálatoknak a szabályairól szóló miniszteri rendelet, valamint a vasúti műszaki bizottság által kidolgozott és a hatóság által a jogszabályban megállapított tárgykörben és keretek között kiadott vasúti műszaki előírások határozzák meg.
+a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításokban (a továbbiakban: hálózati forgalmi és biztonsági szabályzatok, utasítások) állapítja meg.
 
-(5) A (4) bekezdés szerinti vasúti műszaki előírásokban meghatározott tárgykörökben és keretek között a vasúti forgalom operatív lebonyolításával összefüggő folyamatokat a vasúti pályahálózat működtetője biztonságirányítási rendszerébe illeszkedő szabályzatokban (a továbbiakban: hálózati forgalmi szabályzatok) állapítja meg. A hálózati forgalmi szabályzatokat a pályahálózat-működtető a közlekedési hatóságnak megküldi.
+(3) A hálózati forgalmi és biztonsági szabályzatokat, utasításokat a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
 
-(6) A vasúti rendszer, a vasúti alrendszer és rendszerelem bevezetésével, módosításával és üzemeltetésével kapcsolatos kockázati besorolások rangsorolására, a kockázatértékelés módszertanára, a biztonságintegritás szintjére vonatkozó nemzeti értékek meghatározására és a rendelkezésre állással kapcsolatos követelményeket a vasúti rendszer, a vasúti alrendszer és rendszerelem bevezetésével, módosításával és üzemeltetésével kapcsolatos kockázati besorolások rangsorolására, a kockázatértékelés módszertanára, a biztonságintegritás szintjére vonatkozó nemzeti értékek meghatározására és a rendelkezésre állással kapcsolatos követelmények műszaki szabályairól szóló miniszteri rendelet, valamint a vasúti műszaki bizottság által kidolgozott és a hatóság által a jogszabályban megállapított tárgykörben és keretek között kiadott vasúti műszaki előírások határozzák meg.
-
-(7) Az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelményeket az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények műszaki szabályairól szóló miniszteri rendelet, valamint a vasúti műszaki bizottság által kidolgozott és a hatóság által a jogszabályban megállapított tárgykörben és keretek között kiadott vasúti műszaki előírások határozzák meg.
+(4) A hálózati forgalmi és biztonsági szabályzatokat, utasításokat a közlekedési hatóság a jóváhagyás során a vasútüzemi működés körében alkalmazandó jogszabályoknak, a vasúti műszaki előírásoknak való megfelelőség, valamint a vasúti közlekedés biztonságára gyakorolt kockázata alapján vizsgálja.
 
 ### A VASÚTI KÖZLEKEDÉS BIZTONSÁGÁVAL KAPCSOLATOS JOGOK ÉS KÖTELEZETTSÉGEK
 
@@ -1580,7 +1579,7 @@ vasúti pályahálózathoz kapcsolódó – állami tulajdont keletkeztető – 
 - d) az iparvágányhoz,
 - e) a kizárólag honvédelmi célra használt vasúti pályahálózathoz.
 
-51/A. § (1) A pályahálózat-működtető megkülönböztetésmentes módon, írásban szerződést köthet a vállalkozó vasúti társasággal a pályahálózat meghatározott részein a vállalkozó vasúti társaság részére történő előnyök nyújtására vonatkozóan. Az előnyök fajtái:
+51/A. § (1) A pályahálózat-működtető megkülönböztetésmentes módon, írásban szerződést köthet a vállalkozó vasúti társasággal a pályahálózat meghatározott részein a vállalkozó vasúti társaság ügyfelei részére történő előnyök nyújtására vonatkozóan. Az előnyök fajtái:
 
 - a) alacsonyabb költségek és
 - b) jobb teljesítmény.
@@ -2075,7 +2074,12 @@ kell alkalmazni.
 
 ### A vasúti járművezetőre vonatkozó rendelkezések
 
-68/F. § (1) Vasúti jármű csak vasúti társasággal vagy a vasúti pályahálózat működtetésében szerződés alapján közreműködő szervezettel fennálló munkaviszony keretében vezethető.
+68/F. § (1) Vasúti jármű
+
+- a) vasúti társasággal vagy a vasúti pályahálózat működtetésében szerződés alapján közreműködő szervezettel fennálló munkaviszony, munkavégzésre irányuló egyéb jogviszony, vagy
+- b) vasúti társaság vagy vasúti pályahálózat működtetésében szerződés alapján közreműködő szervezet által munkaviszony keretében foglalkoztatott járművezető munkavégzésére irányuló, vagy azt is magában foglaló, más vasúti társasággal kötött összetett szolgáltatási szerződés
+
+alapján vezethető.
 
 (2) Az Mt. 108. § (2) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül nem haladhatja meg a kilenc órát. Aki éjszakai időben legalább három órán keresztül dolgozik, vezetési ideje nem haladhatja meg a nyolc órát. Kéthetes időszakonként a vezetési idő hossza legfeljebb nyolcvan óra lehet.
 
@@ -2151,21 +2155,23 @@ kell alkalmazni.
 
 ### A vasúti igazgatási szerv kormánytisztviselője
 
-73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
+73. § (1) A vasúti igazgatási szerv kormánytisztviselőjének vasúti társasággal és vasúti pályakapacitás-elosztó szervezettel közvetlen vagy közvetett érdekeltsége nem állhat fenn.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban sem közvetlen, sem közvetett tulajdoni részesedést nem szerezhet.
+(2) A vasúti igazgatási szerv kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal, vasúti pályakapacitás-elosztó szervezettel.
 
-(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett – a (2) bekezdés szerinti – tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni, amelyről kötelezettségvállalási nyilatkozatot tesz.
+(3) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően, a vasúti igazgatási szerv kormánytisztviselője évente kötelezettségvállalási és érdekeltségi nyilatkozatot tesz, amelyben feltünteti azokat a közvetlen és közvetett érdekeltségeit, amelyek sérthetik függetlenségét és befolyásolhatják bármely feladata teljesítését.
 
-(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
+(4) A vasúti igazgatási szerv kormánytisztviselője a közvetlen vagy közvetett érdekeltség fennállása idején, valamint a közvetlen vagy közvetett érdekeltség megszűnésének napját követő egy éven belül nem vesz részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett vasúti társaságra vagy vasúti pályakapacitás-elosztó szervezetre vonatkozik.
 
-(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
+(5) A vasúti igazgatási szerv kormánytisztviselőjének a felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-74. § (1) A 73. § (4) bekezdésében foglaltakon túl a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt döntés előkészítésében és meghozatalában az olyan vállalkozásokat érintő esetekben, amelyekkel az eljárás megkezdését megelőző egy év során kapcsolatban állt.
+(6) Az (1)–(4) bekezdésben foglaltakkal összefüggő részletes szabályokat a Kormány rendeletben határozza meg.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezésekor, valamint évente nyilatkozik a munkáltatói jogkör gyakorlójának a 73. § (1) és (2) bekezdésében foglalt rendelkezések teljesüléséről.
+#### 74. §
 
 75. § A vasúti igazgatási szerv feladatkörében eljáró kormánytisztviselő ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.
+
+75/A. § A 73. § (1)–(5) bekezdésében, valamint a 75. §-ban foglaltakat a vasúti igazgatási szervvel munkaviszonyban álló személyre is alkalmazni kell.
 
 ### A vasúti igazgatási szerv eljárására vonatkozó közös szabályok
 
@@ -2213,7 +2219,7 @@ kell alkalmazni.
 
 79/A. § (1) A vasúti igazgatási szerv információt cserélhet a más EGT-tagállamokban működő nemzeti szabályozó szervezetekkel, a Bizottsággal és az Ügynökséggel a tevékenységéről, a döntéshozatali elveiről és gyakorlatáról, abból a célból, hogy a vasúti szabályozás döntéshozatali elvei az EGT-n belül összehangolhatók legyenek. E célból részt vehet az igazgatási szervek 2012/34/EU európai parlamenti és tanácsi irányelvben meghatározott hálózatában.
 
-(2) A vasúti igazgatási szerv részt vehet az EGT-tagállamokban működő nemzeti szabályozó szervezetek olyan együttműködésében, amelynek célja, hogy közös elveket és gyakorlatokat dolgozzanak ki a feladataik ellátása és döntéseik meghozatalára vonatkozóan.
+(2) Ha valamely nemzetközi vasúti szolgáltatással kapcsolatos ügy két vagy több igazgatási szerv döntését igényli, az eljárásban részt vevő igazgatási szervek – az ügyfelek számára leginkább megfelelő megoldás érdekében – együttműködnek egymással a döntésük meghozatala során. A vasúti igazgatási szerv részt vesz az EGT-tagállamokban működő nemzeti szabályozó szervezetek olyan együttműködésében, amelynek célja, hogy közös elveket és gyakorlatokat dolgozzanak ki a feladataik ellátására és döntéseik meghozatalára vonatkozóan.
 
 (3) A vasúti igazgatási szerv részt vehet olyan tevékenységben, amelynek célja, hogy az igazgatási szervezetek felülvizsgálják az együttműködő pályahálózat-működtetők olyan határozatait és gyakorlatait, amelyek a 2012/34/EU európai parlamenti és tanácsi irányelv rendelkezéseinek felelnek meg, vagy más módon elősegítik a nemzetközi vasúti árufuvarozást.
 
@@ -3229,7 +3235,7 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 
 88. § (1) Felhatalmazást kap a Kormány, hogy
 
-- 1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait,
+- 1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait, a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban állókra vonatkozó összeférhetetlenségi szabályokat,
 - 2. a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
 - 3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
 - 4. a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
@@ -3298,10 +3304,10 @@ rendeletben állapítsa meg.
 - 37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó, továbbá a vasúti rendszert érintő jelentős változások által felmerülő kockázatok kezelésének ellenőrzésével kapcsolatos feladatokat,
 - 38.
 - 39. a vasúti műszaki előírások kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére, valamint a tevékenységével összefüggő feladatokra és a közlekedési hatósággal történő együttműködésére vonatkozó részletes szabályokat,
-- 40. az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények műszaki szabályait,
-- 41. a vasúti jármű tervezése, gyártása, átalakítása, típusvizsgálata, üzembe helyezését és forgalomba adását megelőző vizsgálata, üzembe helyezése, forgalomba helyezése, karbantartása, üzemeltetése, valamint használata során betartandó műszaki követelményekre vonatkozó szabályokat,
-- 42. a vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó műszaki követelményekre vonatkozó szabályokat,
-- 43. a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezésére, vizsgálatára, alkalmazhatóságára, üzemeltetésére, karbantartására vonatkozó műszaki követelményeket,
+- 40. az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények anyagi jogi szabályait,
+- 41. a vasúti jármű tervezése, gyártása, átalakítása, típusvizsgálata, üzembe helyezését és forgalomba adását megelőző vizsgálata, üzembe helyezése, forgalomba helyezése, karbantartása, üzemeltetése, valamint használata során betartandó anyagi jogi szabályokat,
+- 42. a vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó anyagi jogi szabályokat,
+- 43. a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezésére, vizsgálatára, alkalmazhatóságára, üzemeltetésére, karbantartására vonatkozó anyagi jogi szabályokat,
 - 44. a vasúti forgalom lebonyolításával összefüggő alapvető szabályokat, a forgalomban részt vevő vonatok terhelésére, összeállítására, megfékezettségére, a kötelezően elvégzendő vizsgálatokra vonatkozó szabályokat,
 - 45. vasúti rendszer, a vasúti alrendszer és rendszerelem bevezetésével, módosításával és üzemeltetésével kapcsolatos kockázati besorolások rangsorolására, a kockázatértékelés módszertanára, a biztonságintegritás szintjére vonatkozó nemzeti értékek meghatározására és a rendelkezésre állással kapcsolatos követelményeket
 - 46. a vasúti egyes kocsi teherfuvarozás állami támogatási program részletes feltételeit az államháztartásért felelős miniszterrel egyetértésben, valamint a támogatási program lebonyolítását végző szervezet kijelölését
