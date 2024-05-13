@@ -337,7 +337,7 @@ jogosultak.
 
 15. § (1) A miniszter – rendeletben – meghatározott járművek közlekedését a közút kezelőjének hozzájárulásához és díj fizetéséhez kötheti.
 
-(2) Az (1) bekezdés szerint megállapított díj, továbbá a 33/A. § szerinti használati díj, útdíj és pótdíj megfizetéséért – amennyiben a használati díjról szóló rendelet vagy útdíjról szóló törvény eltérően nem rendelkezik – a járműnek a közúti közlekedési nyilvántartásról szóló törvény szerinti üzembentartója felelős.
+(2) Az (1) bekezdés szerint megállapított díj, továbbá a 33/A. § szerinti használati díj, útdíj és pótdíj megfizetéséért – amennyiben a használati díjról szóló rendelet vagy az útdíjról szóló törvény eltérően nem rendelkezik – a járműnek a közúti közlekedési nyilvántartásról szóló törvény szerinti üzembentartója felelős.
 
 (3) Az (1) bekezdés szerinti közútkezelői hozzájárulás tartalmazza a jármű közlekedéséhez a közútkezelői hozzájárulást igénylő jármű üzembentartójának nevét, adószámát, továbbá természetes személy üzembentartó esetén lakcímét, nem természetes személy üzembentartó esetén székhelyét.
 
@@ -505,7 +505,7 @@ oktatása, szakképzése és utánképzése
 
 (11) Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, és felhívja a figyelmet arra, hogy a tevékenység ennek hiányában nem végezhető, továbbá az iskolavezetőt, a szakoktatót, a vizsgabiztost, az utánképzés-foglalkozásvezetőt a névjegyzékből törli, ha a névjegyzékbe felvett személy
 
-- a) vonatkozásában az engedélyezés vagy a bejelentés feltételei nem állnak fenn,
+- a) vonatkozásában az engedélyezés feltételei nem állnak fenn,
 - b) az iskolavezető kivételével nem rendelkezik érvényes vezetői engedéllyel,
 - c) kötelező továbbképzésen nem vett részt vagy nem tett sikeres vizsgát,
 - d) ezt kérelmezi, vagy
@@ -1668,6 +1668,24 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 30. § Közút építése érdekében – az építtető kérelmére – az érintett ingatlanra belterületen legfeljebb öt évre, külterületen legfeljebb tíz évre építési tilalmat kell elrendelni. Az országos közúthálózat fejlesztési tervébe és a területrendezési terv közlekedésfejlesztési fejezetébe felvett közút esetén az építési tilalom – ha jogszabály másként nem rendelkezik – kivételesen, legfeljebb egy ízben öt, illetőleg tíz évvel meghosszabbítható. Az építési tilalom az ingatlan ideiglenes célú használatát nem akadályozhatja.
 
+30/A. § (1) A miniszter az utak tervezésének, építésének, illetve azok fenntartásának, valamint megfelelőségük igazolásának, továbbá az anyagok, szerkezetek és berendezések felhasználásának, az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket, továbbá az ezektől való egyedi eltérés engedélyezésének feltételeit – az építési alapanyagra vonatkozó szállítási távolságot előíró rendelkezések esetében is –, illetve a kísérleti útépítési tevékenységhez való hozzájárulás szabályait és eljárását, a kísérleti útépítési tevékenységre vonatkozó eltérő szabályokat, az egyes eltérési esetekben eljáró bizottság kijelölésének részletes szabályait és a jótállásra vonatkozó feltételeket rendeletben állapítja meg.
+
+(2) Az eltérési hozzájárulás akkor adható meg, ha az adott útépítésre – az eltérés hiányában alkalmazásra kerülő műszaki követelményekhez képest – az eltérés a forgalom biztonsága szempontjából várhatóan legalább azonos szintű, helyettesítő műszaki megoldásra irányul.
+
+(3) A miniszter vagy az általa kijelölt bizottság a közutak építéséről szóló miniszteri rendeletben foglaltak szerint a közutak építésére vonatkozó műszaki követelmények tekintetében – erre irányuló indokolt kérelemre – az útépítés szempontjából alapvető műszaki követelmények sérelme nélkül, a következő bármely feltétel megléte vagy szempont mérlegelése alapján egyedi eltérési hozzájárulást adhat:
+
+- a) ha az eltérés által megvalósuló műszaki megoldás igazolhatóan költségelőnyt eredményez,
+- b) ha a természeti vagy az emberi környezet védelme érdekében kedvezőbb,
+- c) ha a műszaki megvalósíthatóság idejét lerövidíti,
+- d) ha a megvalósulást veszélyeztető körülményt hárít el,
+- e) ha kedvezőbb forgalomlefolyást és forgalombiztonsági helyzetet eredményez,
+
+és előírhat olyan műszaki megoldást, amely a közlekedésbiztonság követelményével összhangban áll, vagy környezet-, természet-, és klímavédelmi szempontból, vagy fenntarthatósági szempontból, valamint a körforgásos gazdaság céljaihoz illeszkedően jelentős előnyöket biztosít.
+
+(4) Egyedi hozzájárulás adható továbbá az építési alapanyagra vonatkozó szállítási távolságot előíró rendelkezések tekintetében is – a (2) bekezdésben írt keretek között –, amennyiben az adott építési termékek esetében nincs jogszabályban meghatározott távolságon belül gyártómű.
+
+(5) A miniszter vagy az általa kijelölt bizottság a közutak építéséről szóló miniszteri rendeletben foglaltak szerint a közutak építésére vonatkozó műszaki követelmények tekintetében – erre irányuló indokolt kérelemre – az útépítés szempontjából alapvető műszaki követelmények sérelme nélkül – a (2) bekezdésben írt keretek között – az új építési alapanyagok, gyártási és építési technológiák széleskörű alkalmazhatóságának vizsgálata érdekében egyedi eltérési hozzájárulást adhat.
+
 31. § (1) A közút használatában érdekelt természetes és jogi személyek, valamint a helyi önkormányzat az alapvetően helyi lakossági érdeket szolgáló közút építésére (földút szilárd burkolattal való ellátására) együttműködhetnek. Az együttműködés (a továbbiakban: útépítési együttműködés) formáját a résztvevők maguk határozzák meg.
 
 (2) A helyi önkormányzat – ha az útépítési együttműködésben az érdekeltek több mint kétharmada részt vesz – az abban részt nem vevő, de a közút használatában érdekelt természetes és jogi személyt a résztvevők által vállalt anyagi hozzájárulás mértékéig – a rendeletében meghatározott módon – útépítési érdekeltségi hozzájárulás fizetésére kötelezheti.
@@ -1794,7 +1812,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 - c) a természetes személy üzembentartó nevét, lakóhelyét, anyja nevét, születési helyét és idejét, valamint
 - d) a jogi személy üzembentartó nevét, székhelyét, cégjegyzékszámát vagy az azt bejegyző hatóság által kiadott más azonosítóját.
 
-(4a) A használati díj beszedésére jogosult szervezetek (4) bekezdésben meghatározott pótdíj behajtása érdekében megbízottat vehetnek igénybe.
+(4a) A használati díj beszedésére jogosult szervezetek a (4) bekezdésben meghatározott pótdíj behajtása érdekében megbízottat vehetnek igénybe.
 
 (5) A használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő 60 napos jogvesztő határidőn belül az üzembentartó részére postára adja a pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a használati díj megfizetését elmulasztó gépjármű üzembentartójának a használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő előtt ismertté válásától kell számítani. Nem kell pótdíjfizetési felszólítást kézbesíteni abban az esetben, ha a használati díjat és pótdíjat meg nem fizető üzembentartó, vagy a gépjármű vezetője a helyszíni ellenőrzés alkalmával az ellenőrzésről kiállított jegyzőkönyvet aláírja és átveszi. A pótdíjfizetési kötelezettség három év alatt évül el. A pótdíj után késedelmi kamat nem jár.
 
@@ -2253,7 +2271,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 
 46/O. § (1) Az e törvénynek a hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény (a továbbiakban: Módtv4.) által megállapított 24/A. § (4) és (6a) bekezdését a 2024. január 1-jét követően indult és megismételt eljárásokban kell alkalmazni.
 
-(2) A Módtv4. által megállapított 24/A. § (4a) bekezdését a Módtv4. hatálybalépésekor a vizsgálóállomás vezető tisztségviselői, képviselői tevékenységet ellátó személy esetében nem kell alkalmazni.
+(2) A Módtv4. által megállapított 24/A. § (4) bekezdését a Módtv4. hatálybalépésekor a vizsgálóállomás vezető tisztségviselői, képviselői tevékenységet ellátó személy esetében nem kell alkalmazni.
 
 47. § A törvény alkalmazásában:
 
@@ -2296,7 +2314,10 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - 36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény;
 - 37. úthálózat-védelem: az országos út- és hídvagyon preventív védelme és megóvása, a közúti közlekedés biztonságát veszélyeztető, a megengedett legnagyobb össztömeget vagy tengelyterhelés-korlátozást túllépő, valamint a megengedett méretet meghaladó járművek közlekedésének szabályozásával és ellenőrzésével.
 - 38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevételnek az útdíjszolgáltatási gazdasági társaság 33/A. § (6) bekezdésében meghatározott feladatainak ellátásával összefüggésben felmerült – kormányrendeletben meghatározott – indokolt költségeivel csökkentett összege;
-- 39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított szakoktató.
+- 39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított személy.
+- 40. az útdíjfizetés elmulasztása: jogosulatlan úthasználat, amely az e törvényben meghatározott használati díj, vagy az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott útdíj megfizetésének elmulasztásával valósul meg;
+- 41. a nyilvántartás helye szerinti tagállam: az Európai Unió azon tagállama, amelynek nemzeti gépjármű-nyilvántartásában az útdíjfizetés elmulasztása által érintett jármű szerepel;
+- 42. nemzeti kapcsolattartó pont: a gépjármű-nyilvántartási adatok határokon átnyúló cseréjére jogszabályban kijelölt hatóság.
 
 47/A. § (1) A közlekedési hatóság jogosult a közútkezelői hozzájárulás kiadására jogosult útkezelő által kiadott közútkezelői hozzájárulásban feltüntetett adatok kezelésére.
 
@@ -2360,7 +2381,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 39. a 33. § (1) bekezdés d) pont da) alpontja szerinti országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli és lakott területi szakaszainak – ideértve az e hálózathoz tartozó, kerékpározás céljára használt magánutakat és útnak nem minősülő egyéb útvonalakat is – kijelölését, valamint a 33. § (1) bekezdés d) pont da) és db) alpontjai szerinti, a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet kijelölését,
   - 39a. a megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
   - 39.
-  - 40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzés és az utánképzés részletes szabályait,
+  - 40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzésre, az utánképzésre és az utánképzés-foglalkozásvezetőre vonatkozó részletes szabályokat,
   - 41. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
   - 42. elektromos töltőberendezés üzemeltetésének engedélyezésére és az elektromobilitás szolgáltatást érintő bejelentési kötelezettségre vonatkozó hatósági eljárás részletes szabályait,
   - 43. az elektromos töltőberendezés üzemeltetők és az elektromobilitás szolgáltatók tevékenységére, valamint az elektromobilitás felhasználók tájékoztatására vonatkozó részletes szabályokat,
@@ -2388,7 +2409,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 7. a közutak tervezésére és a műszaki tervezési jogosultságra vonatkozó szabályokat,
   - 8. a közúti hidak nyilvántartására és műszaki felügyeletére vonatkozó szabályokat,
   - 9. az útépítés felügyeleti ellenőrzés szabályait,
-  - 10. az útépítésre, illetve az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket és jótállásra vonatkozó feltételeket,
+  - 10. az útépítésre, illetve az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket és jótállásra vonatkozó feltételeket, továbbá az ezektől való egyedi eltérés engedélyezésének feltételeit, illetve a kísérleti útépítési tevékenységhez való hozzájárulás szabályait és eljárását, a kísérleti útépítési tevékenységre vonatkozó eltérő szabályokat, az egyes eltérési esetekben eljáró szerv kijelölését,
   - 11. a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeit,
   - 12. a közúti járművek műszaki vizsgáztatásával kapcsolatos szabályokat,
   - 13.
