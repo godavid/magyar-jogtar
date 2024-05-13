@@ -299,6 +299,8 @@ elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésbe
 
 (4) A szolgáltató a jogszabályi felhatalmazás alapján végzett szolgáltatás minőségének és mennyiségének ellenőrzése érdekében, valamint bűnüldözési célból, az (5) bekezdésben meghatározott helyeken elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytat megfigyelést, készít rögzített képfelvételt, és kezeli a rögzített képfelvételeket.
 
+(4a) Az (1) bekezdés a) és b) pontjában meghatározott szolgáltató a szolgáltatását igénybe vevők számának megállapítása céljából – a szolgáltatást igénybe vevők egyedi azonosítását, a megfigyeltek rögzítését lehetővé nem tévő módon – az (5) bekezdésben meghatározott helyen kamerás megfigyelést végezhet.
+
 (5) A szolgáltató a (2) bekezdés szerinti képfelvételt és a (3) bekezdés szerinti képfelvételt vagy kép- és hangfelvételt (a továbbiakban együttesen: felvétel) a tulajdonában vagy jogszerű használatában lévő területén készíthet, így különösen:
 
 - a) közforgalom számára nyitva álló helyen,
@@ -804,7 +806,7 @@ valósulhat meg.
 
 26. § (1) Az országos, regionális és elővárosi személyszállítási közszolgáltatások biztosításának módját az ellátásért felelősnek e törvény szerint – az Országgyűlés és a Kormány közlekedéspolitikai célkitűzéseivel összhangban, különös tekintettel a kötöttpályás közlekedés lehetőség szerinti előnyben részesítésére – kell kialakítania.
 
-(2) Az egységes egyeztetési eljárás során az ellátásért felelősök, valamint az országos, regionális és elővárosi személyszállítási közszolgáltatásokkal érintett önkormányzatok egymással együttműködve, az egységes egyezetési eljárásban való részvétellel biztosítják az egységes hálózatot alkotó személyszállítási közszolgáltatásoknak az egyes közlekedési módok közötti ésszerű munkamegosztás és a közpénzek lehető legtakarékosabb felhasználása mellett történő kialakítását. A menetrend előkészítésének folyamatát, az egységes egyeztetési eljárás részletes szabályait, továbbá az ellátásért felelősök, az érintett önkormányzatok, valamint a közlekedési szolgáltatók egységes egyeztetési eljárásban való részvételének módját az egységes egyeztetési eljárás részletes szabályaira vonatkozó jogszabály tartalmazza.
+(2) Az egységes egyeztetési eljárás során az ellátásért felelősök, valamint az országos, regionális és elővárosi személyszállítási közszolgáltatásokkal érintett önkormányzatok egymással együttműködve, az egységes egyeztetési eljárásban való részvétellel biztosítják az egységes hálózatot alkotó személyszállítási közszolgáltatásoknak az egyes közlekedési módok közötti ésszerű munkamegosztás és a közpénzek lehető legtakarékosabb felhasználása mellett történő kialakítását. A menetrend előkészítésének folyamatát, az egységes egyeztetési eljárás részletes szabályait, továbbá az ellátásért felelősök, az érintett önkormányzatok, valamint a közlekedési szolgáltatók egységes egyeztetési eljárásban való részvételének módját az egységes egyeztetési eljárás részletes szabályaira vonatkozó jogszabály tartalmazza.
 
 (3) Az egységes egyeztetési eljárásra tekintettel a menetrend szerinti közúti és vasúti személyszállítási szolgáltatók együttműködésre kötelesek annak érdekében, hogy a menetrendi felhívás alapján elkészített menetrendi tervezeteikben a szolgáltatás a legkisebb költség elve mentén a legmagasabb szolgáltatási színvonalon valósuljon meg.
 
@@ -1061,6 +1063,8 @@ szolgáltatásokat nyújt.
 
 (8)
 
+37/A. § Az országos, regionális vagy elővárosi közúti vagy helyi menetrend szerinti személyszállítási szolgáltatást vagy a menetrend szerinti vízi személyszállítási szolgáltatást végző közlekedési szolgáltató munkavállalói és jogszabályban meghatározott igényjogosultjai számára az alkalmazott menetdíjakból díjkedvezményt nyújthat. A közlekedésszervező munkavállalóját a menetkedvezmények szempontjából a személyszállítási közszolgáltatást végző közlekedési szolgáltató munkavállalójának kell tekinteni.
+
 #### 27. Iskolabuszokra és közösségi buszokra vonatkozó rendelkezések
 
 38. § (1) Amennyiben az önkormányzat központi költségvetési vagy uniós forrásból beszerzett és üzemeltetett – személyszállítási közszolgáltatás nyújtására alkalmas, e törvényben meghatározott – járművel rendelkezik vagy azzal személyszállítási szolgáltatási tevékenységet folytat, köteles együttműködni az országos, regionális és elővárosi közlekedés ellátásért felelősével a szolgáltatások összehangolása és a személyszállítási közszolgáltatások hatékony biztosítása érdekében.
@@ -1159,8 +1163,9 @@ adja ki.
 (2) A vasúti igazgatási szervnek kell megállapítania objektív gazdasági elemzés alapján, a döntést előre meghatározott kritériumokra alapozva a közszolgáltatási szerződés gazdasági egyensúlyának veszélyeztetettségét. Ezt az alábbi szereplők bármelyikének a 2012/34/EU irányelv 38. cikk (4) bekezdésében említett, a kérelmezni szándékozott személyszállítási szolgáltatásról szóló tájékoztatás kézhezvételétől számított egy hónapon belül benyújtott kérelmére kell megállapítaniuk:
 
 - a) a miniszter,
-- b) a tervezett személyszállítási szolgáltatással érintett országos pályahálózat-működtető,
-- c) a közszolgáltatási szerződést teljesítő vállalkozó vasúti társaság.
+- b) bármely érdekelt illetékes hatóság, amely jogosult az országos vasúti pályahálózathoz való hozzáférés korlátozására,
+- c) a tervezett személyszállítási szolgáltatással érintett országos pályahálózat-működtető,
+- d) a közszolgáltatási szerződést teljesítő vállalkozó vasúti társaság.
 
 (3) A miniszter és a közszolgáltatást végző vállalkozó vasúti társaságok a vasúti igazgatási szerv rendelkezésére bocsátják a megalapozott döntéshez szükséges információkat, amelyeket a vasúti igazgatási szerv megvizsgál és szükség szerint azok kiegészítését rendeli el, majd a kérelem beérkezését követően egy hónapon belül konzultációt kezdeményez valamennyi érintett féllel. A vasúti igazgatási szerv indokolt esetben valamennyi érintett féllel konzultál. A vasúti igazgatási szerv határozatát az érintett felekkel előre meghatározott, észszerű időn belül, de legkésőbb az összes lényeges információ kézhezvételét követő hat héten belül közli.
 

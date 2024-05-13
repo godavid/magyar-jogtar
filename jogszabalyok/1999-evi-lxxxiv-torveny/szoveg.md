@@ -425,7 +425,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ea)
   - eb)
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
-  - ed) a bontási átvételi igazolás adatairól,
+  - ed)
 - f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 - g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 - h) a vizsgaközpont elektronikusan, haladéktalanul
@@ -921,6 +921,8 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 (4) A használt járművek, járműalkatrészek értékesítésével foglalkozó kereskedő a 33. § (1) bekezdés c) pontjában megjelölt adatokról köteles nyilvántartást vezetni. A nyilvántartott adatokat és a jármű, illetve az alkatrészek megszerzését tanúsító bizonylatot 5 évig, a forgalomból véglegesen kivont járművek esetében a kivonást igazoló okmányokat a vásárlástól számított 2 évig megőrizni.
 
 (5) A nyilvántartásba és a vizsgálat eredményét igazoló okiratba a jogszabályban meghatározott feladatainak ellátása érdekében a rendőrhatóság betekinthet.
+
+34/A. § Az ügyfelet költségmentesség illeti meg az eltulajdonítás miatt hivatalból átmeneti időszakra forgalomból kivont jármű forgalomba helyezése iránt benyújtott kérelem alapján indult eljárásban.
 
 ### VI. Fejezet — ÁTMENETI, ZÁRÓ, FELHATALMAZÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

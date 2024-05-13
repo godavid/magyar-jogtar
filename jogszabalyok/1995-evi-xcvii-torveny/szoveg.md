@@ -228,6 +228,28 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (10) A légiközlekedési vizsgaközpont az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a légiközlekedési szakszemélyzeti képesítések megszerzéséhez szükséges vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és ezek hitelességének utólagos igazolása céljából – uniós jogi aktus vagy törvény eltérő rendelkezése hiányában – nyilvántartani a vizsga teljesítését követő 40 évig.
 
+(11) A légiközlekedési hatóság a 61/A. § (2) bekezdésében meghatározott légiforgalmi szolgálatot tájékoztatja
+
+- a) a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendeletben meghatározott koordinációs feladatok ellátására vonatkozó szervezetek engedélyeire;
+- b) a repülőterek üzemben tartási engedélyeire;
+- c) a légiforgalmi földi rádióállomás kezelői engedélyekre;
+- d) a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározott repülőtéri repüléstájékoztató szolgálat ellátására jogosító szolgáltatói tanúsítványokra
+
+vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedélyek időbeli hatályát érintik, valamint újonnan kerülnek kiadásra.
+
+(12) A (11) bekezdés szerinti tájékoztatás keretében a légiközlekedési hatóság a 61/A. § (2) bekezdésében meghatározott légiforgalmi szolgálat részére megadja:
+
+- a) az engedély számát;
+- b) az engedélyes nevét, természetes személy esetén a személyazonosító adatait, jogi személy esetén a nevét, nyilvántartási számát, székhelyét;
+- c) az engedély időbeli hatályát;
+- d) a hatósági döntéssel érintett jogosultságot vagy kötelezettséget.
+
+(13) A 61/A. § (2) bekezdés szerinti légiforgalmi szolgálat a (12) bekezdés szerint átadatott adatokat a 61/A. § (3) bekezdés d) pontjában foglalt feladatai, valamint az átadott adatokkal érintett, hatósági engedéllyel rendelkező szervezetekkel kötendő együttműködési megállapodásokhoz kapcsolódó feladatai ellátása céljából az átadástól számított 5 évig kezeli.
+
+(14) A légiközlekedési hatóság a 61/A. § (2) bekezdésében meghatározott légiforgalmi szolgálattal együttműködési megállapodást köt a (11) bekezdés szerinti tájékoztatás eljárási rendjéről.
+
+(15) A légiközlekedési hatóság nevében a légiközlekedési és légiközlekedési hatósági felügyeletet ellátó személyek jogosultak légi és földi ellenőrzés végrehajtására. A légi és földi ellenőrzés kiterjed a légi szakszemélyzetre, műszaki személyzetre, légijárművekre, repülőterekre és minden egyéb, polgári légiközlekedéssel kapcsolatos eszközre és rendszerre. A felügyelet ellátása során jogosultak a repülőtér szigorított védelmi területére, bármely légijármű fedélzetére, és bármely légiközlekedési létesítmény területére belépni, és a felügyelettel kapcsolatos dokumentumokat megtekinteni.
+
 3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét Magyarország területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
 
 (2) A légiközlekedési hatóság az ellenőrzés befejezése után a légijármű parancsnokát vagy a légijármű üzemben tartójának képviselőjét tájékoztatja az ellenőrzés eredményéről. Amennyiben a légiközlekedési hatóság az ellenőrzése során észleli, hogy a külföldi légijármű vagy annak személyzete a nemzetközi szerződésekben foglalt feltételeknek nem felel meg, a jelentést megküldi a légijármű üzemben tartójának és az érintett külföldi állam légiközlekedési hatóságának.
@@ -279,9 +301,14 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (12) A légiközlekedési hatósági eljárásban részt vevők a (10) bekezdésben meghatározott, a légiközlekedési hatóság honlapján erre a célra létrehozott felületen közzétett – a jogszabályokkal összhangban kialakított – műszaki és szakmai követelményeket betartva kötelesek eljárni.
 
-3/D. § (1)
+3/D. § (1) A légiközlekedési hatóság nemzetközi szerződésben meghatározott kötelezettség teljesítése alapján előírt követelmények alól mentesítést adhat a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó természetes vagy jogi személy részére, az e személyeket érintő, előre nem látható kényszerítő körülmények vagy e személyeknek az üzemben tartással kapcsolatos erre irányuló kérelme alapján, amennyiben az alábbi feltételek mindegyike teljesül:
 
-(2)
+- a) az említett körülmények vagy szükségletek megfelelő kezelése nem lehetséges az alkalmazandó követelményekkel összhangban;
+- b) a repülésbiztonság, a környezet védelme és a vonatkozó alapvető követelményeknek való megfelelés – szükség esetén kockázatcsökkentő intézkedések alkalmazása révén – biztosított;
+- c) a mentesítés nem torzítja a piaci versenyt;
+- d) a mentesítés hatálya és időtartama a feltétlenül szükséges mértékre korlátozódik, és alkalmazása megkülönböztetéstől mentes módon történik.
+
+(2) A mentesítés maximum nyolc egymást követő hónapra adható meg és egy alkalommal hosszabbítható meg maximum nyolc egymást követő hónapra. Ezt követően azonos személy részére azonos körülmények között nem adható meg.
 
 3/E. § (1) A légiközlekedési hatóság jogosult külföldi légijármű felett a hatósági felügyelet átvételére, amennyiben a külföldi légijárművet a légiközlekedési hatóság által kiadott engedéllyel rendelkező üzemben tartó tartja üzemben és a légiközlekedési hatóság a lajstromozó állam légiközlekedési hatóságával megállapodást kötött, a megállapodásban szereplő feladatok tekintetében.
 
@@ -1950,7 +1977,7 @@ rendeletben állapítsa meg.
 - c) a miniszter, hogy a légijármű parancsnoka kijelölésének módját, valamint a légijármű parancsnokának a repülés megkezdésével összefüggő általános feladatait,
 - d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben az ország területére légiközlekedési úton bejutó fertőző betegségek megelőzése érdekében történő ideiglenes korlátozások szabályait,
 - e) a miniszter, hogy a műszer szerinti polgári repülési eljárások tervezésének, validációjának és felülvizsgálatának részletes szabályait, valamint a műszer szerinti polgári repülési eljárásokat tervező szolgálat személyi, tárgyi és működési feltételeit, továbbá annak irányítási és feladatrendszerét,
-- f) a miniszter, hogy a polgári légijárművek üzemben tartásának szakmai feltételeit és engedélyezési eljárásának anyagi jogi szabályait,
+- f) a miniszter, hogy a polgári légijárművek üzemben tartásának szakmai feltételeit és engedélyezési eljárásának anyagi jogi szabályait, valamint a leszállóhelyek működésének feltételeit,
 - g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 - h) az agrárpolitikáért felelős miniszter, hogy a miniszterrel egyetértésben a légi személyszállítással és a légi árufuvarozással összefüggő növény-egészségügyi szabályokat,
 - i) a környezetvédelemért felelős miniszter, hogy a miniszterrel és a honvédelemért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a repülésmeteorológiai tájékoztatások és előrejelzések szolgáltatásával, ellenőrzésével, ezek díjazása és költségei megosztásával összefüggő feladatok rendjét és szabályait,

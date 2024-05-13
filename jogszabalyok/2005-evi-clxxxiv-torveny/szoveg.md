@@ -50,7 +50,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - g) súlyos repülőesemény: az EU-rendelet 2. cikkének 16. pontjában megfogalmazott súlyos repülőesemény;
 - h) repülőesemény: az EU-rendelet 2. cikkének 7. pontjában megfogalmazott repülőesemény;
 - i)
-- j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 500 millió forintos) károsodásával jár, valamint más, ugyanilyen következményekkel járó vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
+- j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 2 millió eurós) károsodásával jár, valamint más, ugyanilyen következményekkel járó vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
 - k) vasúti baleset: a vasutat érintő, a vasúti közlekedés során bekövetkező, káros következményekkel járó nem szándékos esemény vagy események láncolata, amelynek kategóriái:
   - ka) ütközés,
   - kb) kisiklás,
@@ -742,7 +742,7 @@ rendeletben állapítsa meg.
 23. § (1) Ez a törvény a következő uniós aktusoknak való megfelelést szolgálja:
 
 - a) a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i 2018/1139/EU európai parlamenti és tanácsi rendelet;
-- b)
+- b) a vasútbiztonságról szóló, 2016. május 11-i (EU) 2016/798 európai parlamenti és tanácsi irányelv,
 - c) a 22. § (1) bekezdés a) pontjában adott felhatalmazások alapján kiadott rendeletekkel együtt a vasútbiztonságról szóló, 2016. május 11-i (EU) 2016/798 európai parlamenti és tanácsi irányelv 3. cikk 10–14. pontjai, 20–26. cikkei valamint I. melléklete;
 - d) a víziközlekedésről szóló 2000. évi XLII. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével.
 
