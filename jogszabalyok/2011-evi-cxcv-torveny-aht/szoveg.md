@@ -1135,7 +1135,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 51. § (1) A költségvetési támogatás rendelkezésre bocsátása egy összegben vagy részletekben, időarányosan vagy teljesítésarányosan történhet.
 
-(2) Az Európai Unió közvetlenül alkalmazandó jogi aktusának eltérő rendelkezése hiányában az államháztartáson kívüli természetes személynek és jogi személynek folyósításra kerülő költségvetési támogatásból a kedvezményezettet terhelő köztartozás összegét – a Kormány rendeletében meghatározott kivétellel és módon, az állami adó- és vámhatóság adatszolgáltatása alapján – az agrártámogatások esetén a mezőgazdasági és vidékfejlesztési támogatási szerv, más költségvetési támogatás esetén a kincstár visszatartja, és az állami adóhatóság megfelelő bevételi számláján jóváírja.
+(2) Az Európai Unió közvetlenül alkalmazandó jogi aktusának eltérő rendelkezése hiányában az államháztartáson kívüli természetes személynek és jogi személynek folyósításra kerülő költségvetési támogatásból a kedvezményezettet terhelő köztartozás összegét – a Kormány rendeletében meghatározott kivétellel és módon, az állami adó- és vámhatóság adatszolgáltatása alapján – a kincstár az agrártámogatások esetén levonja, más költségvetési támogatás esetén visszatartja, és az állami adóhatóság megfelelő bevételi számláján jóváírja.
 
 (3) A központi költségvetésről szóló törvény alapján nem állami intézmény fenntartójának az általa vagy intézménye útján ellátott köznevelési, szociális, gyermekjóléti, gyermekvédelmi közfeladatra tekintettel biztosított költségvetési támogatás esetében a (2) bekezdést a nem állami intézmény fenntartója és az általa fenntartott intézmény köztartozására is alkalmazni kell.
 
