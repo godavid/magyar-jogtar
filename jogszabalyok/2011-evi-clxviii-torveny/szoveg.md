@@ -169,7 +169,7 @@ fedezetére használható fel.
 
 (3a) Ha a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló döntés adott tárgyév augusztus 16. után kerül közlésre a 6. § (5) bekezdése szerinti örökös részére, úgy ebben az esetben az örökös általi kárenyhítési hozzájárulás megfizetése kizárólag akkor tekinthető határidőben történő befizetésnek, ha az agrárkár-enyhítési szerv e törvény végrehajtására kiadott rendeletben meghatározott számláján a teljes összeg jóváírásra került a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló határozat véglegessé válástól számított 15 napon belül.
 
-(4) A kárenyhítési hozzájárulás összegét kizárólag átutalási megbízással, a befizető azonosítására alkalmas módon, az ügyfél-azonosító megadásával kell befizetni az agrárkár-enyhítési szerv e törvény végrehajtásáról szóló rendeletben meghatározott számlájára.
+(4) A kárenyhítési hozzájárulás összegét kizárólag átutalási megbízással, a befizető azonosítására alkalmas módon, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító) megadásával kell befizetni az agrárkár-enyhítési szerv e törvény végrehajtásáról szóló rendeletben meghatározott számlájára.
 
 (5) A meg nem fizetett kárenyhítési hozzájárulás adók módjára behajtandó köztartozásnak minősül. A kárenyhítési hozzájárulás megfizetésének elmulasztása esetén a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási tv.) 59–62. §-ában foglaltakat kell alkalmazni.
 
@@ -295,7 +295,7 @@ a rendelkezésre álló mezőgazdasági kockázatkezelési pénzeszköz terhére
 
 #### 3. Időjárási kockázatokra kötött mezőgazdasági biztosítás díjának támogatása
 
-16. § (1) A mezőgazdasági termelő az uniós jogi aktusban foglaltak szerint az időjárási kockázatokra kötött és az e törvényben, valamint a Vidékfejlesztési Program keretében meghirdetett pályázati felhívásban (a továbbiakban: pályázati felhívás) foglaltaknak megfelelő mezőgazdasági biztosítási szerződés (a továbbiakban: mezőgazdasági biztosítási szerződés) díjához támogatást vehet igénybe.
+16. § (1) A mezőgazdasági termelő az uniós jogi aktusban foglaltak szerint az időjárási kockázatokra kötött és az e törvényben, valamint a Vidékfejlesztési Program vagy a KAP Stratégiai Terv keretében meghirdetett pályázati felhívásban (a továbbiakban: pályázati felhívás) foglaltaknak megfelelő mezőgazdasági biztosítási szerződés (a továbbiakban: mezőgazdasági biztosítási szerződés) díjához támogatást vehet igénybe.
 
 (2) A miniszter a biztosító tárgyév január 15-ig benyújtott kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – a tárgyév február 28-ig előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, az (1) bekezdés szerinti szerződés különös szerződési feltételeit.
 
@@ -305,7 +305,7 @@ kezelése, nyilvánossága
 
 17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követően legkésőbb a tárgyév július 15-ig adategyeztetés céljából köteles az agrárkár-enyhítési szerv részére a mezőgazdasági biztosítási szerződés adatai közül:
 
-- a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására [név, székhely vagy lakcím, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító)],
+- a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására [név, székhely vagy lakcím, támogatási azonosító],
 - b) a mezőgazdasági biztosítási szerződés azonosítására (szerződéskötés dátuma, kötvényszám, módozat, biztosítási esemény),
 - c) a biztosított növénykultúra megnevezésére (hasznosítási kód) és a növénykultúra referenciahozamára,
 - d) a kockázatviselés helyére (blokkazonosító),
@@ -349,7 +349,7 @@ vonatkozó adatokat átadni.
 17/A. § A biztosító a lábon álló növénykultúrára megkötött, az adott kárenyhítési évre vonatkozó mezőgazdasági biztosítási szerződés kapcsán, a 16. § szerinti mezőgazdasági biztosítási szerződés kivételével, az agrárkár-enyhítési szerv megkeresésében megjelölt mezőgazdasági termelőkre vonatkozóan, legkésőbb tárgyév december 15-éig az agrárkár-enyhítési szerv részére
 
 - a) átadja
-  - aa) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, eljárási tv. szerinti ügyfél-azonosító) és
+  - aa) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, támogatási azonosító) és
   - ab) a mezőgazdasági biztosítási szerződés azonosítására (a szerződés megkötésének vagy megújításának dátuma, kötvényszám)
 
 vonatkozó adatokat, valamint
@@ -378,7 +378,7 @@ adatokat.
 - b) a mezőgazdasági igazgatási szerv az agrárkár-megállapító szerv feletti szakmai irányítási feladatainak ellátása,
 - c) az agrárkár-megállapító szerv az illetékességi területére vonatkozó adatok tekintetében az agrárkár-megállapítással összefüggő feladatainak ellátása,
 - d) az agrárgazdasági elemzésekkel foglalkozó intézmény statisztikai és gazdaságelemzési feladatai ellátása, valamint a Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben, és
-- e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában a miniszter a Vidékfejlesztési Program végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
+- e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában a miniszter a Vidékfejlesztési Program vagy a KAP Stratégiai Terv végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
 
 céljából.
 

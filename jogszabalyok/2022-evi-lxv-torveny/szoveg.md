@@ -36,7 +36,7 @@ Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi a
 - 4. beruházás: a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 53. §-ában meghatározott erdőnevelésnek minősülő tevékenységek, azzal, hogy a társasági tulajdon, illetve szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 - 5. egyéb szervezet: támogatásban nem részesülő, de az eljárásban részt vevő;
 - 6. feltételesség: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU (2021. december 2.) európai parlamenti és tanácsi rendelet (a továbbiakban: KAP I rendelet) 12. cikke és III. melléklete, valamint a feltételességről szóló jogszabály szerinti egységes feltételrendszer;
-- 7. folyamatban lévő eljárás: a kérelemre vagy hivatalból indult, véglegessé vált döntéssel még le nem zárt eljárás;
+- 7. folyamatban lévő eljárás: a kérelemre vagy saját hatáskörben indult, véglegessé vált döntéssel még le nem zárt eljárás;
 - 8. hatáskörrel rendelkező hatóság: a feltételesség körébe tartozó előírások és követelmények ellenőrzését, igazolását végző szerv;
 - 9. intézkedés: a KAP Stratégiai Terv által tartalmazott egyes beavatkozások, valamint nemzeti hatáskörben nyújtott egyes agrártámogatások és egyéb, támogatás kifizetésével nem járó piacszabályozási beavatkozások;
 - 10. irat: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény szerinti irat, ideértve a polgári perrendtartásról szóló törvény szerinti okirat, közokirat és magánokirat, illetve az egyes intézkedésekkel kapcsolatban keletkezett egyéb iratok;
@@ -49,6 +49,7 @@ Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi a
   - a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU (2013. december 18.) bizottsági rendelet szerinti vidékfejlesztési, erdészeti vagy vadgazdálkodási célú általános csekély összegű támogatás,
   - b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 1408/2013/EU (2013. december 18.) bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás;
   - c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúraágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 717/2014/EU (2014. június 27.) bizottsági rendelet szerinti halászati csekély összegű támogatás;
+  - d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szerinti vidékfejlesztési, erdészeti vagy vadgazdálkodási célú általános csekély összegű támogatás;
 - 14. mezőgazdasági üzem: a KAP I rendelet 3 cikk 2. pontja szerinti fogalomnak megfelelő gazdálkodási egység;
 - 15. mezőgazdasági vagyoni értékű jog: közvetlen támogatási intézkedésekhez kapcsolódó átmeneti nemzeti támogatások keretében a kedvezményezett számára megállapított olyan vagyoni értékű jog, melynek feltételeit, azonosítását és nyilvántartását jogszabály írja elő, és amely a támogatás igénybevételének szükséges feltétele;
 - 16. monitoring: a KAP I rendelet 7. cikk szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célokhoz, mérföldkövekhez viszonyított előrehaladásának, hatásának rendszeres vizsgálata és értékelése, figyelemmel a KAP I rendelet 132. cikkében foglaltakra;
@@ -127,6 +128,7 @@ tekintetében.
 - e) monitoringadat-nyilvántartási rendszer,
 - f) képzettségi nyilvántartás,
 - g) az intézkedések kezelésére szolgáló nyilvántartási és ellenőrzési rendszer.
+- h) területi monitoringrendszer.
 
 (2) Az IIER az abban rögzített – más közhiteles nyilvántartásban nem nyilvántartott – adatok, valamint fényképek, kép- és hangfelvételek, ezek metaadatai, valamint ezek készítésének helyére, idejére, valamint irányára vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak, a benne keletkezett elektronikus irat hiteles elektronikus dokumentumnak minősül. Az ellenkező bizonyításig vélelmezni kell, hogy ezek az adatok fennállnak és valósak.
 
@@ -182,7 +184,7 @@ tekintetében.
 
 (4) A miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet megállapodásban rögzített ütemterv szerint jogosult szakpolitikai és gazdaságelemzési feladatainak ellátása céljából, a feladatainak ellátásához szükséges mértékben, egyedi azonosításra alkalmas módon, az agrárgazdasági tevékenységgel össze nem függő személyes adatok kivételével támogatási titok átvételére és kezelésére.
 
-(5) Az adatkezelő az intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adó- és vámhatóságot a támogatási titokról, ha az adó-, vám és egyéb terhek, illetve vámhiány vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
+(5) Az adatkezelő az intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az állami adó- és vámhatóságot a támogatási titokról, ha az adó-, vám és egyéb terhek, illetve vámhiány vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
 
 (6) Az adatkezelő tájékoztatja a támogatási titokról – közfeladatának ellátásához szükséges mértékben –:
 
@@ -190,7 +192,7 @@ tekintetében.
 - b) az ügyészséget;
 - c) a nyomozó hatóságot;
 - d) az illetékes nemzetbiztonsági szerv által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
-- e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalás Elleni Hivatalt (OLAF), a tanúsító szervet, az adó- és vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
+- e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalás Elleni Hivatalt (OLAF), a tanúsító szervet, az állami adó- és vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
 - f) az Európai Bizottságot, az Európai Számvevőszéket, az Európai Bíróságot;
 - g) az illetékes hatóságot;
 - h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
@@ -201,7 +203,7 @@ tekintetében.
 
 17. § (1) Az adatkezelő részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése, továbbá a kedvezményezettek azonosítása céljából adatokat kell átadni az alábbi nyilvántartásokból:
 
-- 1. az adó- és vámhatóság által kezelt vámadatbázisból,
+- 1. az állami adó- és vámhatóság által kezelt vámadatbázisból,
 - 2. a nemzeti külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
 - 3. a szőlőültetvény-kataszterből,
 - 4. az Egységes Nyilvántartási és Azonosítási Rendszerből,
@@ -218,14 +220,14 @@ tekintetében.
 - 15. a foglalkoztatásfelügyeleti és munkavédelmi hatóság adatbázisából,
 - 16. az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
 - 17. az operatív programok információs rendszeréből,
-- 18. az adó- és vámhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adó- és vámhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR’ 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
+- 18. az állami adó- és vámhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az állami adó- és vámhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR’ 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
 - 19. a Tenyészet Információs Rendszerből,
 - 20. a Baromfi Információs Rendszerből,
 - 21. az Országos Állategészségügyi Információs Rendszerből,
 - 22. a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
 - 23. a nyugdíjbiztosítási nyilvántartásból az ügyfelek sajátjogú nyugellátásáról,
 - 24. az egyéni vállalkozók nyilvántartásából,
-- 25. az adó- és vámhatóság által kezelt jövedéki adatbázisból,
+- 25. az állami adó- és vámhatóság által kezelt jövedéki adatbázisból,
 - 26. a repülőterek üzemeltetőiről, valamint az engedélyköteles vagy bejelentéshez kötött vasúti szolgáltatás végzőiről vezetett nyilvántartásból,
 - 27. a Magyar Energetikai és Közmű-szabályozási Hivatal által a víziközmű-szolgáltatókról vezetett nyilvántartásból,
 - 28. a rendezett munkaügyi kapcsolati adatokat tartalmazó adatbázisokból,
@@ -317,7 +319,7 @@ kell teljesíteni.
 
 hozza meg.
 
-26. § (1) Az agrártámogatási jogviszony az adott intézkedéstől függően a kérelem benyújtásával vagy a döntés közlésével jön létre a támogató és a kedvezményezett között. Az agrártámogatási jogviszony az abból eredő jogosultságok megszűnésével és kötelezettségek teljesítésével szűnik meg.
+26. § (1) Az agrártámogatási jogviszony az adott intézkedéstől függően a kérelem benyújtásával vagy a döntés közlésével jön létre a támogató és a kedvezményezett között. Az agrártámogatási jogviszony az abból eredő jogosultságok megszűnésével és kötelezettségek teljesítésével vagy a vonatkozó döntés visszavonásával szűnik meg.
 
 (2) Az agrártámogatási jogviszony létrejötte – a 27. §-ban foglalt kivétellel – a kedvezményezett részére jogokat és kötelezettségeket keletkeztet.
 
@@ -336,6 +338,8 @@ hozza meg.
 29. § (1) A támogató a kérelem benyújtását követően és az agrártámogatási jogviszony fennállása során az általa hozott döntést – a jogviszonyból származó követelés megállapítása esetén annak végrehajtásához való jog elévüléséig – felülvizsgálhatja. A felülvizsgálat eredményeképpen a támogató a jogszabálysértő döntését módosítja vagy visszavonja.
 
 (2) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a támogató a hibát kijavítja, ha az nem hat ki az ügy érdemére.
+
+(3) A kedvezményezett az agrártámogatási jogviszonyból eredő jogosultságokról indoklás nélkül lemondhat. Ha a lemondáshoz jogszabály vagy pályázati felhívás jogkövetkezményt nem fűz, a támogató a vonatkozó döntését visszavonja.
 
 #### 10. Kapcsolattartás
 
@@ -390,7 +394,7 @@ hozza meg.
 - f) jogszabályban felsorolt nem érdemi döntés ellen, valamint
 - g) a kérelemnek maradéktalanul helyt adó döntés ellen.
 
-(3) Ha a támogató az általa hozott döntéssel szemben benyújtott jogorvoslati kérelemben foglaltakkal részben vagy egészben egyetért, döntését saját hatáskörben felülvizsgálja, és ennek megfelelően módosítja a jogorvoslati kérelemmel érintett döntést. Az így megváltoztatott döntéssel szemben jogorvoslati kérelemnek van helye.
+(3) Ha a támogató az általa hozott döntéssel szemben benyújtott jogorvoslati kérelemben foglaltakkal részben vagy egészben egyetért, döntését saját hatáskörben felülvizsgálja, és ennek megfelelően módosítja vagy visszavonja a jogorvoslati kérelemmel érintett döntést. Az így megváltoztatott döntéssel szemben jogorvoslati kérelemnek van helye.
 
 #### 16. Közigazgatási per
 
@@ -447,13 +451,13 @@ számított öt év elteltével évül el.
 
 #### 20. Végrehajtás
 
-42. § Az e törvény szerinti intézkedésben való jogosulatlan részvétel alapján megállapított és fennálló tartozás adók módjára behajtandó köztartozásnak minősül, és azt a törvényben meghatározott kivételekkel az adó- és vámhatóság a rá irányadó szabályok szerint hajtja be.
+42. § Az e törvény szerinti intézkedésben való jogosulatlan részvétel alapján megállapított és fennálló tartozás adók módjára behajtandó köztartozásnak minősül, és azt a törvényben meghatározott kivételekkel az állami adó- és vámhatóság a rá irányadó szabályok szerint hajtja be.
 
 43. § (1) A kedvezményezettet megillető támogatást a támogató a kedvezményezettet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatartja és ezzel a tartozás megfizetettnek minősül. Ha az igénybe vehető támogatás összege a kedvezményezettet terhelő tartozások mindegyikére nem nyújt fedezetet, azt az esedékesség sorrendjében kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
-(2) A kedvezményezett egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az adó- és vámhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a támogató megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból, továbbá a tagállami hatáskörben, központi költségvetésből nyújtott agrártámogatásból a mindenkori központi költségvetési törvény vagy az államháztartásról szóló törvény szabályai szerint a támogató visszatartja, és átutalja az adó- és vámhatóságnak. A visszatartott támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
+(2) A kedvezményezett egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adó- és vámhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a támogató megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból, továbbá a tagállami hatáskörben, központi költségvetésből nyújtott agrártámogatásból a mindenkori központi költségvetési törvény vagy az államháztartásról szóló törvény szabályai szerint a támogató levonja, és átutalja az állami adó- és vámhatóságnak. A levont támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
 
-(3) Ha a támogatás összege az adó- és vámhatóság által a (2) bekezdés alapján szolgáltatott, a kedvezményezettet terhelő tartozások mindegyikére nem nyújt fedezetet, azt a tartozások arányában kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
+(3) Ha a támogatás összege az állami adó- és vámhatóság által a (2) bekezdés alapján szolgáltatott adatok alapján a kedvezményezettet terhelő tartozások mindegyikére nem nyújt fedezetet, azt a tartozások arányában kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
 44. § (1) Ha a kedvezményezett az esedékes tartozását nem fizette meg és azt tőle nem lehet behajtani, a tartozás megfizetésére kötelezhető:
 
@@ -475,8 +479,8 @@ számított öt év elteltével évül el.
 
 46. § (1) A támogató törölheti a kedvezményezett tartozását, ha:
 
-- a) azt az adó- és vámhatóság ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítette;
-- b) az az adó- és vámhatóságnak az adós ellen vezetett végrehajtása során a fedezet részbeni vagy egészbeni hiánya miatt nem térül meg;
+- a) azt az állami adó- és vámhatóság ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítette;
+- b) az az állami adó- és vámhatóságnak az adós ellen vezetett végrehajtása során a fedezet részbeni vagy egészbeni hiánya miatt nem térül meg;
 - c) azt a felszámoló az általa adott írásbeli nyilatkozat szerint behajthatatlannak minősítette;
 - d) az a felszámolás, az adósságrendezési eljárás befejezésekor a vagyonfelosztási javaslat szerint nem térül meg;
 - e) az adós természetes személy hagyatéka – más örökös hiányában – az államra száll, vagy az adós szervezet jogutód nélkül szűnt meg; vagy
@@ -486,7 +490,7 @@ számított öt év elteltével évül el.
 
 (3) A végrehajthatatlanság címén törölt tartozást a támogató ismét előírja, ha a végrehajtáshoz való jog elévülési idején belül a tartozás végrehajthatóvá válik.
 
-(4) A támogató az (1) bekezdésben megállapított feltételek hiányában is törölheti a tízezer forintot meg nem haladó tartozást, amennyiben a tartozás nyilvántartása, a végrehajtás érdekében szükséges intézkedés megtétele a tartozással arányban nem álló költségeket eredményezne. Az így törölt tételeket a kifizető ügynökség nyilvántartja. Ha az ilyen tartozás végrehajtásával összefüggésben a kifizető ügynökség az adó- és vámhatóságot megkereste, a tartozás törléséről az adó- és vámhatóságot is tájékoztatja.
+(4) A támogató az (1) bekezdésben megállapított feltételek hiányában is törölheti a tízezer forintot meg nem haladó tartozást, amennyiben a tartozás nyilvántartása, a végrehajtás érdekében szükséges intézkedés megtétele a tartozással arányban nem álló költségeket eredményezne. Az így törölt tételeket a kifizető ügynökség nyilvántartja. Ha az ilyen tartozás végrehajtásával összefüggésben a kifizető ügynökség az állami adó- és vámhatóságot megkereste, a tartozás törléséről az állami adó- és vámhatóságot is tájékoztatja.
 
 #### 23. Eljárás költségei
 

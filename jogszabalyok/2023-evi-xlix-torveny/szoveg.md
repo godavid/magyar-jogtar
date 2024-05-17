@@ -97,7 +97,7 @@ Az Országgyűlés a Magyar Corvin-lánc mint a második legmagasabb rangú magy
 - b) a Testület alapszabályában foglaltak szerint tájékoztatja a nyilvánosságot a Corvin-láncról és a kitüntetettek érdemeiről,
 - c) a Testülettel kötött megállapodás alapján közreműködik a Testület feladatainak ellátásában,
 - d) ellátja a Corvin-lánc adományozására vonatkozó indítványokkal, valamint az adományozással összefüggő adminisztratív és szervezőmunkát,
-- e) gondoskodik a Corvin-lánc előállításáról, pótlásáról, javíttatásáról, a kitüntetettek nevének és az adományozás, valamint a lezárás évszámának bevésetéséről, a Corvin-lánc átmeneti megőrzéséről, illetve a Magyar Nemzeti Múzeum részére történő átadásáról,
+- e) gondoskodik a Corvin-lánc előállításáról, pótlásáról, javíttatásáról, a kitüntetettek nevének és az adományozás, valamint a lezárás évszámának bevésetéséről, a Corvin-lánc átmeneti megőrzéséről, illetve a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) részére történő átadásáról,
 - f) megteszi a Corvin-lánc eltűnése esetén szükséges, valamint a Corvin-lánc előállítási költségének megtérítésére, a jogosulatlanul birtokolt Corvin-lánc visszaszerzésére irányuló intézkedéseket.
 
 9. § (1) A Corvin-láncra jelölt személy természetes személyazonosító adatait és lakcím adatát, az adományozásra vonatkozó döntés megalapozásához szükséges, az indítványban szereplő adatait – különösen titulusát (végzettségét, munkahelyét és beosztását), állampolgárságát és elérhetőségeit, korábbi állami kitüntetéseit, valamint az életútjára és a kitüntetésre alapot adó érdemeire közvetlenül vonatkozó, az adományozáshoz figyelembe vett adatokat –, továbbá a 3. § szerinti feltétel ellenőrzéséhez szükséges adatot a Testület tagjai, a javaslattevő és az előterjesztő megismerhetik.
@@ -233,8 +233,8 @@ II. Az adományozás megörökítése
 
 2. A bevésést – a Corvin-lánc átvételét követően – úgy kell elvégezni, hogy egy kitüntetés hátoldalára, az adományozás időrendjét követő sorrendben egymás alatt legalább négy név és évszám elférjen.
 
-3. Ha a Corvin-lánc hátoldalára már több név nem véshető fel, az érmet a „Lezárva:” felirat és az utolsó kitüntetett kitüntetésbirtoklási joga megszűnési évszámának bevésésével le kell zárni és azt végleges megőrzésre és kiállításra a Magyar Nemzeti Múzeumnak át kell adni. Ezzel egyidejűleg gondoskodni kell új Corvin-lánc előállításáról.
+3. Ha a Corvin-lánc hátoldalára már több név nem véshető fel, az érmet a „Lezárva:” felirat és az utolsó kitüntetett kitüntetésbirtoklási joga megszűnési évszámának bevésésével le kell zárni és azt végleges megőrzésre és kiállításra az MNM KK-nak át kell adni. Ezzel egyidejűleg gondoskodni kell új Corvin-lánc előállításáról.
 
-4. A Corvin-lánc megőrzéséről az érem lezárását követően a Magyar Nemzeti Múzeum gondoskodik.
+4. A Corvin-lánc megőrzéséről az érem lezárását követően az MNM KK gondoskodik.
 
 ### 2. melléklet a 2023. évi XLIX. törvényhez

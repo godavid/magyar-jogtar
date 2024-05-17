@@ -16,7 +16,7 @@ Az Országgyűlés a szőlő-bor ágazat átlátható és fenntartható működ�
 - 4. borgazdasági egység: azon adatszolgáltatók által alkotott, gazdasági aktában nyilvántartott csoport,
   - a) amelyet a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja értelmében kapcsolt vállalkozások alkotnak, vagy
   - b) amelynek természetes személy tagjai, vagy jogi személy esetén a jogi személy természetes személy tagjai, egymás közeli hozzátartozójának minősülnek;
-- 5. dűlő: azonos földrajzi, illetve éghajlati adottságú, térképészetileg a VINGIS-ben lehatárolt, nevesített, szőlő termőhelyi kataszterben szereplő, összefüggő terület;
+- 5. dűlő: azonos földrajzi, illetve éghajlati adottságú, térképen a VINGIS-ben lehatárolt, nevesített terület;
 - 6. ePincekönyv rendszer: a szőlő-bor ágazat elektronikus információs rendszere;
 - 7. eredetmegjelölés: az 1308/2013/EU európai parlamenti és tanácsi rendelet 93. cikk (1) bekezdés a) pontja szerinti fogalom;
 - 8. élelmiszerlánc-esemény: az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) Melléklet 22. pontja szerinti fogalom;
@@ -463,6 +463,7 @@ esetén.
 - 12. a regisztrált borversenyekre vonatkozó szabályokat;
 - 13. a borászati termékek jelölésének, valamint a borászati termékeken feltüntethető kifejezések használatának szabályait.
 - 14. a bor kifejezés nem borászati termék elnevezésében való használatának szabályait.
+- 15. a HNT által közzétett borpiaci elemzés tartalmát.
 
 (4) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben állapítsa meg a borászati termékek nyilvántartási és elszámolási rendjét.
 

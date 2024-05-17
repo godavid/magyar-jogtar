@@ -39,7 +39,7 @@ Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a n
   - af) a Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság;
 - b) alkotóművészet ágazatban a Petőfi Irodalmi Múzeum;
 - c) közgyűjtemény és emlékezetpolitika ágazatban
-  - ca) a Magyar Nemzeti Múzeum;
+  - ca) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
   - cb) a Szépművészeti Múzeum;
   - cc) az Országos Széchényi Könyvtár;
   - cd) a Magyar Nemzeti Levéltár;
@@ -85,30 +85,30 @@ Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a n
 
 #### 1. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 #### 2. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §

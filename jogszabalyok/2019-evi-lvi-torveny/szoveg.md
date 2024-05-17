@@ -35,6 +35,8 @@ az állattenyésztés szabályozásához szükséges törvényi szintű rendelke
 - d) kezdeményezi az agrárpolitikáért felelős miniszternél (a továbbiakban: miniszter) az állatok más tenyésztőnél történő átmeneti elhelyezését vagy az állat, a tenyész- és keltetőtojás, az állati szaporítóanyag és a genetikai minta állam javára történő megvásárlását;
 - e) kezdeményezi a miniszternél állategészségügyi intézkedés esetén az őshonos és a veszélyeztetett fajtákban bekövetkező visszafordíthatatlan károsodás megelőzését.
 
+5/A. § A miniszter közleményben közzéteszi a fajtarekonstrukció alatt álló vagy fajtarekonstrukcióra irányuló kutatási programban részt vevő mezőgazdasági állatfajtákat.
+
 6. § (1) Az eljáró tenyésztési hatóság az e törvényben és az e törvény végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén a szabályszegővel szemben bírságot, továbbá tevékenységtől való eltiltást állapíthat meg, amelyeken túlmenően e törvényben meghatározott intézkedést alkalmazhat.
 
 (1a) A tenyésztésvezetői tevékenység gyakorlásától való eltiltás időtartama legfeljebb a döntés véglegessé válásától számított három év.

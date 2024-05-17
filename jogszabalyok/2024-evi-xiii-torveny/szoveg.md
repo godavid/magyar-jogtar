@@ -20,17 +20,23 @@ oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módo
 
 #### 6. §
 
-#### 4.
+#### 4. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-#### 7. §
+7. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény „Tudományos kutatás céljából történő adatkezelés” alcíme a következő 21/A. §-sal egészül ki:
 
-#### 8. §
+„21/A. § (1) Az Eütv. 157. §-a szerinti emberen végzett orvostudományi kutatás hatékony és eredményes elvégzése érdekében a kutatási engedély jogosultja, a kutatási engedélyben megjelölt kutatási terv keretei között – a kutatási cél és rendelkezésre bocsátandó egészségügyi adatok körének megjelölésével – kérheti az egészségbiztosítási szervet, hogy az általa megjelölt szempontok szerinti érintettek személyazonosító adatait az érintett háziorvosának adja át. A háziorvos az érintett személyek kutatásba történő bevonása érdekében megkeresi az érintettet annak érdekében, hogy az járuljon hozzá a személyazonosító és elérhetőségi adatainak a kutatási engedély jogosultja részére történő átadásához.
+
+(2) Az egészségbiztosítási szerv az (1) bekezdés szerinti adatok leválogatásáért fizetendő díjnak a megtérítését kérheti a kutatási engedély jogosultjától.”
+
+8. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 4. § (2) bekezdés g) pontjában a „megtérítése érdekében,” szövegrész helyébe a „megtérítése érdekében, orvostudományi kutatás hatékonysága és eredményes elvégzése érdekében,” szöveg lép.
 
 #### 5. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosítása
 
 #### 9. §
 
-#### 10. §
+10. § A Kult. tv. 94. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) vezetőjét a miniszter nevezi ki, illetve menti fel.”
 
 #### 11. §
 
@@ -53,21 +59,35 @@ oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módo
 
 #### 17. §
 
-#### 6.
+#### 6. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-#### 18. §
+18. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény
+
+- a) 20. § (4) bekezdés a) pontjában a „Múzeum” szövegrész helyébe a „Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK)” szöveg,
+- b) 23/D. § (5) bekezdésében az „a Magyar Nemzeti Múzeumnak” szövegrész helyébe az „az MNM KK-nak” szöveg,
+- c) 23/E. § (2) bekezdésében az „A Magyar Nemzeti Múzeum” szövegrész helyébe az „Az MNM KK” szöveg,
+- d) 23/E. § (4) bekezdésében az „a Magyar Nemzeti Múzeum” szövegrész helyébe az „az MNM KK” szöveg,
+- e) 27/B. § (2) bekezdés c) pontjában az „a Magyar Nemzeti Múzeum” szövegrész helyébe az „az MNM KK” szöveg,
+- f) 27/B. § (3) bekezdésében az „A Magyar Nemzeti Múzeum által” szövegrész helyébe az „Az MNM KK által” szöveg és az „a Magyar Nemzeti Múzeum jogosult” szövegrész helyébe az „az MNM KK jogosult” szöveg,
+- g) 92/H. § (1) bekezdésében az „a Magyar Nemzeti Múzeumnak” szövegrész helyébe az „az MNM KK-nak” szöveg
+
+lép.
 
 #### 7. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
 #### 19. §
 
-#### 20. §
+20. § Az Elismerési tv. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha munkavégzési célból a foglalkoztató a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély vagy vendégmunkás-tartózkodási engedély iránti kérelmet nyújtott be, és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a kiadott tartózkodási engedélyt bemutatja.”
 
 #### 21. §
 
 #### 22. §
 
-#### 23. §
+23. § Az Elismerési tv. XV. Fejezete a következő 68/D. §-sal egészül ki:
+
+„68/D. § E törvénynek az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvénnyel megállapított 6. § (4) bekezdését e rendelkezés hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.”
 
 #### 8.
 
@@ -260,13 +280,15 @@ lép.
 76. § A Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény
 
 - a)
-- b)
+- b) 4. § (1) bekezdés c) pont ca) alpontjában a „Múzeum” szövegrész helyébe a „Múzeum Közgyűjteményi Központ” szöveg
+
+lép.
 
 #### 77. §
 
-#### 18.
+#### 18. A Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény módosítása
 
-#### 78. §
+78. § A Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény 1/B. § (1) bekezdésében az „A Magyar Nemzeti Múzeum” szövegrész helyébe az „A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK)” szöveg és az „a Magyar Nemzeti Múzeum részére” szövegrész helyébe az „az MNM KK részére” szöveg lép.
 
 #### 19. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
@@ -278,17 +300,23 @@ lép.
 
 #### 82. §
 
-#### 20.
+#### 20. A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény módosítása
 
-#### 83. §
+83. § A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény 3. § (2) bekezdésében a „Magyar Nemzeti Múzeum elhelyezéséül” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) elhelyezéséül” szöveg és az „a Magyar Nemzeti Múzeum megállapodással” szövegrész helyébe az „az MNM KK megállapodással” szöveg lép.
 
 #### 21.
 
 #### 84. §
 
-#### 22.
+#### 22. A Magyar Corvin-láncról és a Magyar Corvin-lánc Testületről szóló 2023. év XLIX. törvény módosítása
 
-#### 85. §
+85. § A Magyar Corvin-láncról és a Magyar Corvin-lánc Testületről szóló 2023. év XLIX. törvény
+
+- a) 8. § e) pontjában a „Magyar Nemzeti Múzeum” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK)” szöveg,
+- b) 1. melléklet II. pont 3. alpontjában az „a Magyar Nemzeti Múzeumnak” szövegrész helyébe az „az MNM KK-nak” szöveg,
+- c) 1. melléklet II. pont 4. alpontjában az „a Magyar Nemzeti Múzeum” szövegrész helyébe az „az MNM KK” szöveg
+
+lép.
 
 #### 23. A pedagógusok új életpályájáról szóló 2023. évi LII. törvény módosítása
 

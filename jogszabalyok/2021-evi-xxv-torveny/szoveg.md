@@ -48,7 +48,7 @@ A szőlész-borász, valamint a turizmus-vendéglátás képzést, ezen kereszt�
 
 3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási és tudományos kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok (a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
-(2) Az Egyetem Sárospatak, 172/2 helyrajzi számú ingatlanon a Magyar Nemzeti Múzeum elhelyezéséül szolgáló ingatlanrészekre ingyenes használati jogot biztosít határozatlan időre. Az ingyenes használati jog mértékét az Egyetem és a Magyar Nemzeti Múzeum megállapodással kötelesek rendezni.
+(2) Az Egyetem Sárospatak, 172/2 helyrajzi számú ingatlanon a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) elhelyezéséül szolgáló ingatlanrészekre ingyenes használati jogot biztosít határozatlan időre. Az ingyenes használati jog mértékét az Egyetem és az MNM KK megállapodással kötelesek rendezni.
 
 (3) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) készíti elő és köti meg az Egyetemmel.
 
@@ -72,7 +72,7 @@ A szőlész-borász, valamint a turizmus-vendéglátás képzést, ezen kereszt�
 
 6. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 2/A. §, a 2/C. §, a 2/D. §, a 3. § (1), (5) és (7) bekezdése, a 4. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-7. §
+#### 7. §
 
 ### 1. melléklet a 2021. évi XXV. törvényhez
 

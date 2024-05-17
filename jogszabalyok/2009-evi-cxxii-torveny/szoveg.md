@@ -262,7 +262,7 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 
 (4)
 
-(5) A 3. § (3) bekezdését, 4. § (2) bekezdését, 5. § (1)–(2) bekezdését, 6. § (1)–(3) bekezdését, valamint 7. §-át nem kell alkalmazni azon gazdasági társaságokra, amelyekben együttesen nem a Magyar Állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, nemzetiségi önkormányzat, nemzetiségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány vagy ezek többségi befolyása alatt álló gazdasági társaság jogosult a vezető tisztségviselők többségének megválasztására, illetve visszahívására.
+(5) A 3. § (3) bekezdését, a 4. § (2) bekezdését, az 5. § (1) bekezdését, a 6. § (1)–(3) bekezdését, valamint a 7. §-t nem kell alkalmazni azon gazdasági társaságokra – a lakosság és a gazdasági szereplők számára törvényben meghatározott közszolgáltatást nyújtó gazdasági társaságok kivételével –, amelyekben együttesen nem a magyar állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, nemzetiségi önkormányzat, nemzetiségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány vagy ezek többségi befolyása alatt álló gazdasági társaság jogosult a vezető tisztségviselők többségének megválasztására, illetve visszahívására.
 
 (6) A köztulajdonban álló gazdasági társaságnak az e törvény hatálybalépését megelőzően kötött, a 2. § (7) bekezdésében meghatározott közzétételi kötelezettség hatálya alá eső szerződésekkel kapcsolatos adatait első alkalommal 2010. március 1-jéig kell közzétenni.
 
@@ -277,6 +277,8 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 (3) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 7. § (1) bekezdésében foglaltakat a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (4) E törvénynek az egyes törvényeknek a nemzeti pénzügyi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XCI. törvénnyel megállapított 5. § (1) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(5) Ha a digitális állam megvalósítása érdekében egyes törvények módosításáról szóló 2024. évi XII. törvény (a továbbiakban: Módtv3.) által módosított 8. § (5) bekezdésében megjelölt, a lakosság és a gazdasági szereplők számára törvényben meghatározott közszolgáltatást nyújtó gazdasági társaság létesítő okirata vagy működése a Módtv3. hatályba lépésekor nem felel meg e törvény előírásainak, a gazdasági társaság a létesítő okiratát, illetve működését a Módtv3. hatálybalépését követő első taggyűlés vagy közgyűlés napjáig, de legkésőbb 2024. december 31-ig köteles összhangba hozni e törvény rendelkezéseivel.
 
 10. § (1) Ha az egyes törvényeknek a nemzeti pénzügyi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XCI. törvény (a továbbiakban: Módtv.) hatálybalépésekor az állami részvényes a céltársaságban már rendelkezik a 7/A. § (2) bekezdés a) pontja szerinti befolyással, a 7/A–7/G. §-t az e §-ban foglalt eltérésekkel kell alkalmazni.
 

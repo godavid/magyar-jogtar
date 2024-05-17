@@ -69,6 +69,8 @@ illeti meg.
 
 öntözésének lehetőségét biztosítja.
 
+(2a) Ha a fenntartható vízgazdálkodási közösség a (2) bekezdés b) pontjában foglaltak alapján kerül elismerésre, és az öntözni kívánt ingatlanok szántó művelési ágban vannak nyilvántartva, akkor a közösségnek teljes bizonyító erejű magánokiratba foglaltan kell nyilatkoznia arról, hogy a fenntartható vízgazdálkodási közösség elismerését követően a szántó művelési ágú területeken legalább 5 évig a (2) bekezdés b) pontja szerinti növénykultúrák termesztését fogja folytatni.
+
 (3) Fenntartható vízgazdálkodási közösségként kell elismerni azokat a termelői csoportokat, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek.
 
 (4) Az elismert fenntartható vízgazdálkodási közösség
@@ -94,7 +96,7 @@ illeti meg.
 
 9. § (1) Az öntözési körzetet a miniszter a fenntartható vízgazdálkodási közösséget elismerő határozatban jelöli ki a vízrajzi, vízföldtani, domborzati viszonyok figyelembevételével az öntözésfejlesztési terület határain belül.
 
-(2) Az öntözési körzetet úgy kell kijelölni, hogy a fenntartható vízgazdálkodási közösség céljainak biztosítása mellett a lehető legkevesebb földrészletre terjedjen ki. Az öntözési körzet területe nem fedheti másik öntözési körzet területét. Nem jelölhető ki a fenntartható vízgazdálkodási közösség elismerési kérelmében szereplő, öntözéses gazdálkodásba vonni tervezett olyan földterületet tartalmazó öntözési körzet, amely a miniszter fenntartható vízgazdálkodási közösséget elismerő határozatában kijelölt öntözési körzet határától 100 méter távolságon belül helyezkedik el.
+(2) Az öntözési körzetet úgy kell kijelölni, hogy a fenntartható vízgazdálkodási közösség céljainak biztosítása mellett a lehető legkevesebb földrészletre terjedjen ki. Az öntözési körzet területe nem fedheti másik öntözési körzet területét.
 
 (3) Az öntözési körzet az öntözési igazgatási szervnek az (1) és (2) bekezdésnek megfelelő javaslata alapján csak a fenntartható vízgazdálkodási közösség tagjai által öntözni kívánt egymástól elkülönülő, vagy a közösség tagjai használatában nem álló közbeékelődött területeket is magába foglaló körbehatárolt külterületi földterületeken jelölhető ki. Az öntözési körzet a 7. § (2) bekezdés a) pontja szerinti esetben legfeljebb 10 000 hektár, a b) pontja szerinti esetben legfeljebb 1 000 hektár területen jelölhető ki azzal, hogy a körzet határának két legtávolabbi pontja egymástól – légvonalban mérve – legfeljebb 20 kilométerre lehet.
 
@@ -201,7 +203,7 @@ a vízügyi igazgatási szervek részére azok vízgazdálkodási, vízvédelmi 
 
 (2) A Módtv2. hatálybalépése előtt határozott időtartamra kiadott és a Módtv2. hatálybalépésekor hatályos öntözésfejlesztési terv és környezeti körzeti terv határozatlan időtartamúvá válik.
 
-19. § Az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény (a továbbiakban: Módtv3.) hatálybalépése előtt elismert fenntartható vízgazdálkodási közösségek esetében a miniszter – szükség esetén az érintett alrészletek megjelölésével – a Módtv3. hatálybalépését követő 180 napon belül kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg feljegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
+19. § Az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény hatálybalépése előtt elismert fenntartható vízgazdálkodási közösségek esetében a miniszter – szükség esetén az érintett alrészletek megjelölésével – 2024. december 31. napjáig kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg feljegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
 
 #### 20. §
 
