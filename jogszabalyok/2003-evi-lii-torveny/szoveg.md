@@ -28,7 +28,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
   - c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezáltal ugyanazon egységnek tekinthető.
 - 4. Oltalom alatt álló növényfajta: a nemzeti növényfajta-oltalomban, illetve a közösségi fajtaoltalomban részesített növényfajta.
 - 5. Állami fajtaelismerés: hivatalos vizsgálatok és eljárások rendszere, amelynek eredményeként a növényfajta, illetve a szőlő klón a Nemzeti Fajtajegyzékbe bejegyzésre kerül.
-- 6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített növényfajták, szőlő klónok, szaporításra egyedileg engedélyezett zöldség-, gyümölcs- szőlő és erdészeti fajták, tájfajták, valamint a hivatalos leírással rendelkező gyümölcsfajták lényeges adatait tartalmazó, évente közzétett jegyzék.
+- 6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített növényfajták, szőlő klónok, szaporításra egyedileg engedélyezett zöldség-, gyümölcs- szőlő és erdészeti fajták, tájfajták, házikerti fajták, valamint a hivatalos leírással rendelkező gyümölcsfajták lényeges adatait tartalmazó, évente közzétett jegyzék.
 - 7–8.
 - 9.
 - 10. Közösségi Fajtajegyzék: az Európai Bizottság által közzétett fajtajegyzék, amelyet az Európai Unió tagállamainak (a továbbiakban: tagállamok) Nemzeti Fajtajegyzékei alapján állítanak össze.
@@ -124,7 +124,7 @@ iránti eljárásban.
 (2) A növényfajta állami elismerése iránti kérelmet
 
 - a) a nemesítő,
-- b) tájfajta esetében a növényfajtát fenntartó természetes személy vagy jogi személy, valamint
+- b) tájfajta és házikerti fajta esetében a növényfajtát fenntartó természetes személy vagy jogi személy, valamint
 - c) az Európai Unión kívüli országban lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy kizárólag magyar állampolgár, Magyarország vagy az Európai Unió más tagállama területén lakóhellyel rendelkező természetes személy, vagy székhellyel, telephellyel rendelkező jogi személy képviselő útján
 
 intézhet a növénytermesztési hatósághoz.
@@ -248,15 +248,17 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (2) A vetőmagtermesztés elsődlegességének biztosítása és e törvény végrehajtására kiadott jogszabályban előírt védőtávolságok érvényesítése érdekében a vetőmag előállítója az előírt védőtávolságon belül lévő termőföld használójával (a továbbiakban: földhasználó) szerződésben állapodhat meg vagy vetőmag szaporítási zárt körzetet hozhat létre.
 
-(3) A vetőmag-előállítónak – az érintett földterületrészek területének pontos meghatározásával együtt – a helyi önkormányzat honlapján közzé kell tennie a vetéstervét:
+(3) A vetőmag-előállítónak – az érintett földterületrészek területének pontos meghatározásával együtt – a vetőmag-előállításba vont és az előírt védőtávolságon belül lévő földterület fekvése szerint illetékes helyi önkormányzat (a továbbiakban együtt: érintett helyi önkormányzat) honlapján 30 napra közzé kell tennie a vetéstervét:
 
 - a) tavaszi vetésű növények esetében január 15-ig,
 - b) őszi káposztarepce esetében július 1-jéig,
 - c) egyéb őszi vetésű növények esetében augusztus 1-jéig.
 
-(3a) Az ingatlan fekvése szerint illetékes helyi önkormányzat jegyzője intézkedik a (3) bekezdés szerinti vetésterv elektronikus tájékoztatási rendszer keretében működő kormányzati honlapon (a továbbiakban: kormányzati portál), hirdetményi úton történő közzététele iránt. A kormányzati portálon való közzététel az önkormányzat honlapján történő közzététellel megegyező időtartamú és tájékoztató jellegű.
+(3a) A vetőmag-előállításba vont földterület fekvése szerint illetékes helyi önkormányzat jegyzője intézkedik a (3) bekezdés szerinti vetésterv elektronikus tájékoztatási rendszer keretében működő kormányzati honlapon (a továbbiakban: kormányzati portál), hirdetményi úton történő közzététele iránt. A kormányzati portálon való közzététel az önkormányzat honlapján történő közzététellel megegyező időtartamú és tájékoztató jellegű.
 
-(4) A védőtávolságba eső földhasználónak az egyeztetés iránti igényét a közzétételt követő 30 napos jogvesztő határidőn belül kell bejelentenie a vetőmag-előállító részére, ha a meghirdetett vetésterv a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz. A földhasználónak bizonyítania kell, hogy a védőtávolságba eső földterületen jelentős anyagi veszteség nélkül nem tud más növényfajt termeszteni, nem tudja a vetésforgót más módon kialakítani vagy hasonló értékű és igényű vetőmag előállítást végezni.
+(4) Az érintett helyi önkormányzat – a növénytermesztési hatóság által történő ellenőrzés céljából – a (3) bekezdés a)–c) pontja szerinti határidő leteltét követő 120 napig elérhetővé teszi honlapján a (3) bekezdés szerinti hirdetményt, megjelölve a véleményezési határidő lejártának napját.
+
+(5) A védőtávolságba eső földhasználónak az egyeztetés iránti igényét a közzétételt követő 30 napos jogvesztő határidőn belül kell bejelentenie a vetőmag-előállító részére, ha a meghirdetett vetésterv a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz. A földhasználónak bizonyítania kell, hogy a védőtávolságba eső földterületen jelentős anyagi veszteség nélkül nem tud más növényfajt termeszteni, nem tudja a vetésforgót más módon kialakítani vagy hasonló értékű és igényű vetőmag-előállítást végezni.
 
 ### Védőtávolság érvényesítése szerződés alapján
 
@@ -272,13 +274,33 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 18/B. § (1) E törvény végrehajtására kiadott jogszabályban előírt védőtávolságok alkalmazásával egy vagy több termesztési ciklusban vetőmag szaporítási zárt körzetet (a továbbiakban: zárt körzet) lehet kialakítani. A zárt körzet területét pontosan meg kell határozni az üzemi térképen a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR) szerinti azonosító számmal és a helyrajzi számmal, valamint a helyi sajátságoknak megfelelő egyéb módon, így különösen dűlőnév, területrész megnevezésével.
 
-(2) Az a vetőmag előállító, aki legalább 16 ha egybefüggő vetésterülettel és szaporítási szerződéssel rendelkezik, zárt körzet kialakítását kezdeményezheti. A vetőmag előállítást végző fajtatulajdonos vagy fajtaképviselő is kezdeményezheti a zárt körzet kialakítását, ha legalább 16 ha egybefüggő vetésterülettel rendelkezik.
+(2) Az a vetőmag-előállító, aki legalább 16 ha egybefüggő vetésterülettel és szaporítási szerződéssel rendelkezik, zárt körzet kialakítását kezdeményezheti. A vetőmag előállítást végző fajtatulajdonos vagy fajtaképviselő is kezdeményezheti a zárt körzet kialakítását, ha legalább 16 ha egybefüggő vetésterülettel rendelkezik.
 
-(2a) Ha a 18. § (4) bekezdése szerinti határidőben egyetlen, a védőtávolságba eső földhasználó sem jelenti be egyeztetés iránti igényét a vetőmag-előállító részére, úgy a vetőmag-előállító a zárt körzet létrehozását a határidő lejártát követő 8 napon belül a növénytermesztési hatóságnak bejelenti. A bejelentéshez csatolni kell a helyi önkormányzat honlapján közzétett vetéstervet, valamint a szaporítási szerződést. A bejelentés alapján a növénytermesztési hatóság a zárt körzetet nyilvántartásba veszi.
+(2a) Ha a 18. § (5) bekezdése szerinti határidőben egyetlen, a védőtávolságba eső földhasználó sem jelenti be egyeztetés iránti igényét a vetőmag-előállító részére, úgy a határidő lejártát követő 8 napon belül a vetőmag-előállító a növénytermesztési hatóságnál kérelmezi a zárt körzet nyilvántartásba vételét. A kérelemhez csatolni kell
 
-(3) Ha a 18. § (4) bekezdése szerinti egyeztetési igény bejelentésére sor kerül, de elmarad a 18/A. § szerinti szerződéskötés, a zárt körzet létrehozását a növénytermesztési hatóság engedélyezi a (2) bekezdés szerinti feltétel teljesülésének vizsgálatát követően, a 18/C. §-ban foglaltak szerint. A zárt körzet létesítését kezdeményező vetőmag-előállítónak a zárt körzet létesítésére vonatkozó szándékát a 18. § (3) bekezdésében meghatározott módon közzé kell tennie.
+- a) az érintett helyi önkormányzat honlapján közzétett vetéstervet,
+- b) a jogszerű földhasználatot és a termékpálya szerinti terméktanácsi tagságot igazoló dokumentumot,
+- c) a vetőmag-előállító nyilatkozatát arról, hogy a 18. § (5) bekezdése szerinti határidőben egyetlen, a védőtávolságba eső földhasználó sem jelentette be egyeztetés iránti igényét, valamint
+- d) a szaporítási szerződést.
 
-(4) A zárt körzet területén a védőtávolságba eső földterületek használójának az egyeztetés iránti igényét a közzétételt követő 30 napon belül kell bejelentenie a vetőmag-előállító és a területi agrárkamara részére, ha a meghirdetett zárt körzet a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz, amelyet a 18. § (4) bekezdésében foglaltak szerint bizonyítania kell.
+(2b) A növénytermesztési hatóság a (2a) bekezdés szerinti kérelem alapján nyilvántartásba veszi
+
+- a) a vetőmag-előállító
+  - aa) természetes személy természetes személyazonosító adatait, lakcímét, egyéni vállalkozó adószámát, székhelyét,
+  - ab) gazdálkodó szervezet nevét, székhelyét, telephelyét, adószámát, cégjegyzékszámát,
+- b) a zárt körzettel érintett földterület (1) bekezdés szerinti adatait és nagyságát,
+- c) a vetőmag-előállítással érintett növényfajt és a védőtávolságot, valamint
+- d) a határozat hatályossági idejét.
+
+(2c) A növénytermesztési hatóság a nyilvántartásba vételről hozott határozatát közli a vetőmag-előállítóval, és a döntésről készült közleményt közhírré teszi.
+
+(2d) A növénytermesztési hatóság honlapján közzéteszi a nyilvántartott vetőmag-előállító nevét és a (2b) bekezdés b)–d) pontja szerinti adatokat.
+
+(2e) A növénytermesztési hatóság a (2b) bekezdés szerinti, részére átadott személyes adatokat a (2b) bekezdés d) pontja szerinti hatályossági idő lejártát követő második év végéig a 23. § (2) bekezdés j) pont jd) alpontjában meghatározott feladata ellátása érdekében kezeli.
+
+(3) Ha a 18. § (5) bekezdése szerinti egyeztetési igény bejelentésére sor kerül, de elmarad a 18/A. § szerinti szerződéskötés, a zárt körzet létrehozását a növénytermesztési hatóság engedélyezi a (2) bekezdés szerinti feltétel teljesülésének vizsgálatát követően, a 18/C. §-ban foglaltak szerint. A zárt körzet létesítését kezdeményező vetőmag-előállítónak a zárt körzet létesítésére vonatkozó szándékát a 18. § (3) bekezdésében meghatározott módon közzé kell tennie.
+
+(4) A zárt körzet területén a védőtávolságba eső földterületek használójának az egyeztetés iránti igényét a közzétételt követő 30 napon belül kell bejelentenie a vetőmag-előállító és a területi agrárkamara részére, ha a meghirdetett zárt körzet a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz, amelyet a 18. § (5) bekezdésében foglaltak szerint bizonyítania kell.
 
 (5) A vetőmag-előállítónak értesítenie kell a terméktanácsot a tervezett zárt körzet meghirdetéséről. A terméktanács a tervezett zárt körzettel érintett területi agrárkamarát felkéri, hogy a helyi sajátságok ismeretében, 30 napon belül folytasson egyeztetést a termesztés korlátozásával kapcsolatos kötelezettségekről és az ellentételezés módjáról, mértékéről a védőtávolságba eső földterületek használóival. Az egyeztetéseket március 5-ig be kell fejezni. Az egyeztetés eredményét megállapodásba kell foglalni.
 
@@ -286,11 +308,13 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (7) A földhasználó a termelés korlátozásával kapcsolatos kötelezettségeiért az eredetileg termeszteni tervezett növényi kultúra eredményével arányos ellentételezésre – így különösen terményre, természetbeni szolgáltatásra, illetve korlátozási díjra – tarthat igényt. Az arányos ellentételezés mértékét a zárt körzet térségére jellemző, a korlátozás alá eső növényi kultúra jövedelmezőségére és a termelt növény átlagos terméshozamára figyelemmel kell meghatározni. A korlátozás alá eső növényi kultúra és a földhasználó által termesztett növényi kultúra jövedelmezőségének, illetve az elmaradt haszonnak az adott év betakarításkori vármegyei átlaga alapján kell kiszámítani a korlátozási díj mértékét.
 
-(8) A (2a) bekezdés alapján nyilvántartásba vett zárt körzet területén a védőtávolságba eső földterületek használói kötelesek a vetőmag-előállításhoz szükséges védőtávolság általános szabályainak betartására.
+(8) A (2b) bekezdés alapján nyilvántartásba vett zárt körzet területén a védőtávolságba eső földterületek használói kötelesek a vetőmag-előállításhoz szükséges védőtávolság általános szabályainak betartására.
 
 18/C. § (1) A vetőmag-előállító a zárt körzet engedélyezése iránti kérelmet – az egyeztetést követően – a terméktanács véleményével és az egyeztetés dokumentációjával együtt 8 napon belül továbbítja a növénytermesztési hatóságnak. A kérelemhez csatolni kell a zárt körzet kialakításának tervezetét.
 
-(2) A növénytermesztési hatóság a zárt körzet kialakításának engedélyezéséről szóló határozatában rendelkezik az egyes idegen beporzást vagy növény-egészségügyi fertőzést előidéző növényfajok, növényfajták termesztésének korlátozásáról, tilalmáról, valamint azokat a földhasználókat megillető ellenszolgáltatásról, akikkel nem sikerült megegyezni. A zárt körzet kialakításának engedélyezéséről szóló határozatot, valamint a 18/B. § (2a) bekezdése alapján nyilvántartásba vett zárt körzetbe tartozó ingatlanok helyrajzi számát, MePAR azonosítóját, nagyságát, valamint a termesztett növényfaj megnevezését a növénytermesztési hatóság megküldi a zárt körzeten belüli korlátozás és tilalom betartása ellenőrzésére jogosult növénytermesztési hatóságnak, a terméktanácsnak és az agrárkamarának. A zárt körzetet elrendelő határozatot hirdetmény útján is közölni kell, ha a védőtávolságba eső földterületen ismeretlen földhasználó van.
+(2) A növénytermesztési hatóság a zárt körzet kialakításának engedélyezéséről szóló határozatában rendelkezik az egyes idegen beporzást vagy növény-egészségügyi fertőzést előidéző növényfajok, növényfajták termesztésének korlátozásáról, tilalmáról, valamint azokat a földhasználókat megillető ellenszolgáltatásról, akikkel nem sikerült megegyezni. A zárt körzet kialakításának engedélyezéséről, valamint a 18/B. § (2b) bekezdése szerinti nyilvántartásba vételről szóló határozatot a növénytermesztési hatóság megküldi a zárt körzeten belüli korlátozás és tilalom betartása ellenőrzésére jogosult növénytermesztési hatóságnak, valamint a zárt körzet kialakításának engedélyezéséről szóló határozatot a terméktanácsnak és az agrárkamarának. A zárt körzetet kialakításának engedélyezéséről szóló határozatot hirdetmény útján is közölni kell, ha a védőtávolságba eső földterületen ismeretlen földhasználó van.
+
+(2a) A zárt körzet létrehozása iránti eljárásban sommás eljárásnak nincs helye.
 
 (3) A zárt körzeten belüli korlátozás, illetve a tilalom betartását a növénytermesztési hatóság ellenőrzi és elrendeli a növényállomány megsemmisítését, ha a korlátozás, illetve a tilalom ellenére a zárt körzeten belül a tiltott növényfaj egyedeinek eltávolítása elmaradt. A növénytermesztési hatóság határozatában foglaltakat haladéktalanul végre kell hajtani. A föld használója köteles tűrni, hogy a saját költségére a növényállomány eltávolításra kerüljön, amely nem járhat aránytalan kár okozásával.
 
@@ -312,7 +336,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 20. § (1) A szántóföldi növényfaj vetőmagját az ezen alcímben és e törvény végrehajtására kiadott jogszabályban foglaltak szerinti eljárásban kell minősíteni. A vetőmag addig maradhat forgalomban, és addig használható fel, ameddig minősítő paraméterei megfelelnek e törvény végrehajtására kiadott jogszabályban előírt feltételeknek.
 
-(2) A vetőmag-előállító (a továbbiakban e § alkalmazásában: fémzároltató) köteles a vetőmag-szaporító táblát – a növénytermesztési hatóság által rendszeresített nyomtatványon – a növénytermesztési hatóságnak e törvény végrehajtására kiadott jogszabályban meghatározott jogvesztő határnapig írásban bejelenteni, amely alapján a növénytermesztési hatóság a területet nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartásba vételt akkor tagadja meg, ha a kérelem a határnapon túl érkezett.
+(2) A szaporítóanyag felett rendelkezésre jogosult vetőmag-előállító (a továbbiakban e § alkalmazásában: fémzároltató) köteles a vetőmag-szaporító táblát – a növénytermesztési hatóság által rendszeresített nyomtatványon – a növénytermesztési hatóságnak e törvény végrehajtására kiadott jogszabályban meghatározott jogvesztő határnapig írásban bejelenteni, amely alapján a növénytermesztési hatóság a területet nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartásba vételt akkor tagadja meg, ha a kérelem a határnapon túl érkezett.
 
 (3) A fémzároltató tájékoztatja a növénytermesztési hatóságot a vetőmag-szaporító tábla növényállományának szántóföldi ellenőrzésre alkalmas fejlettségi állapotáról. A növénytermesztési hatóság a tájékoztatás alapján hivatalból, e törvény végrehajtására kiadott jogszabályban meghatározott számú alkalommal hatósági ellenőrzést végez, amelyről jegyzőkönyvet vesz fel.
 
@@ -382,7 +406,7 @@ megsemmisítését rendelheti el.
   - bb) jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatokat (cégnevét, adószámát, székhelyét, telephelyét),
   - bc) az ügyfél regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
   - bd) a tevékenység megjelölését,
-  - be) szaporítóanyag előállítás esetén a vetés, illetve a termesztés helyének azonosító adatait (cím, helyrajzi szám, MePaR azonosító szám, földrajzi koordináták, táblaszám, terület mérete), valamint szaporítóanyag forgalmazás esetén a telephely megfelelő azonosító adatait;
+  - be) szaporítóanyag előállítás esetén a vetés, illetve a termesztés helyének azonosító adatai (cím, helyrajzi szám, WGS84 rendszerben meghatározott koordinátapár, egyedi tábla azonosító) közül legalább egyet, az érintett terület nagyságát, valamint szaporítóanyag forgalmazás esetén a telephely megfelelő azonosító adatait;
 - c) a minősített szaporítóanyag tételekről, amely tartalmazza
   - ca) a tétel előállítójának megnevezését,
   - cb) a tétel előállításának idejét,
@@ -550,7 +574,7 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 - d) a szaporítóanyag tételek átruházott minősítésének személyi és tárgyi feltételeit,
 - e)
 - f) a forgalomba hozható szaporítóanyagok minőségének előírásait, a minőség megfelelő tanúsítását és ellenőrzését,
-- g) a zárt körzetek kialakításának feltételeit,
+- g) a zárt körzetek kialakításának feltételeit, valamint a zárt körzet kialakítására irányuló eljárás anyagi jogi szabályait,
 - h) a törzsültetvények, a faiskolák és palántanevelő üzemek létesítésének feltételeit,
 - i) a génmegőrzési feladatokat, a genetikai anyagok védelme szempontjából jelentős növényfajokat, továbbá azok megőrzésének, fenntartásának, átadásának feltételeit, kijelölje a genetikai anyagok megőrzéséért felelős intézményeket, valamint ezek eljárási rendjét,
 - j) az adópolitikáért felelős miniszterrel egyetértésben az állami elismerés, a fajtavizsgálatok, a szaporítóanyag-minősítés díjtételeit,

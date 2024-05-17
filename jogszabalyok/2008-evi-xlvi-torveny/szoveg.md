@@ -589,7 +589,7 @@ esetén.
 - d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét;
 - e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenység szakmai felügyeletét.
 
-(4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni.
+(4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni az 50. § (4) és (5) bekezdésében foglaltak szerint.
 
 (5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
 
@@ -665,10 +665,10 @@ esetén.
 (2) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv nyilvántartásba veszi
 
 - a) az engedéllyel rendelkező vagy bejelentett
-  - aa) élelmiszer- vagy takarmányvállalkozásokat,
+  - aa) élelmiszer- vagy takarmányvállalkozásokat és azok tevékenységeit,
   - ab) élelmiszer- vagy takarmányvállalkozási létesítményeket,
-- b) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókat és az első magyarországi forgalomba hozókat, valamint
-- c) az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előállító létesítményeket.
+- b) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókat és az első magyarországi forgalomba hozókat, valamint azok tevékenységeit, továbbá
+- c) az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előállítókat, azok tevékenységeit és a létesítményeiket.
 
 (3) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv ellenőrzi
 
@@ -968,6 +968,7 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 - a) a 38. § szerint nyilvántartott állatorvosnak és növényorvosnak, valamint a segédszemélyzetnek tevékenysége végzéséhez,
 - b) az e törvény végrehajtására kiadott kormányrendeletben meghatározott tevékenységet végzőnek.
 - c) a 38/A. § (3a) bekezdése szerinti nyilvántartásban szereplő erdőgazdálkodónak és erdészeti szakszemélyzetnek tevékenységük végzéséhez.
+- d) az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelőnek tevékenysége végzéséhez.
 
 (4) Az élelmiszerlánc-felügyeleti szerv a 38/A. § (8a) bekezdése alapján a támogatóhoz az adott évben egységes kérelmet benyújtó ügyfél részére FELIR azonosítót állapít meg, ha az ügyfél azzal az egységes kérelem benyújtásakor nem rendelkezik. A FELIR azonosító megállapításáról az élelmiszerlánc-felügyeleti szerv értesíti az ügyfelet.
 
@@ -1379,7 +1380,7 @@ ellenmintát biztosít az e törvény végrehajtására kiadott rendeletben fogl
 
 (4) Az (1) bekezdésben foglaltaktól eltérően parlagfű elleni közérdekű védekezést kell elrendelni, ha a földhasználó a 17. § (4) bekezdésében szereplő parlagfű elleni védekezési kötelezettségének nem tesz eleget. A kötelezettség teljesítésének helyszíni ellenőrzéséről a földhasználó előzetes értesítése mellőzhető.
 
-(5) A parlagfű elleni közérdekű védekezést elrendelő határozatot – ha a közlés más módja az azonnali végrehajtáshoz fűződő érdeket veszélyeztetné – hirdetmény útján is lehet közölni.
+(5) A parlagfű elleni közérdekű védekezést elrendelő döntést – ha a közlés más módja az azonnali végrehajtáshoz fűződő érdeket veszélyeztetné – hirdetmény útján is lehet közölni.
 
 (6) A közérdekű védekezés elvégzése során a hatóság, valamint a közérdekű védekezést elvégző vállalkozó feladata végrehajtásának keretei között az érintett területre beléphet, ott a szükséges cselekményeket elvégezheti. Erre való jogosultságát kérésre köteles igazolni.
 
@@ -1791,7 +1792,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 ### A Növényvédelmi Módszertani Gyűjtemény
 
-69. § A Növényvédelmi Módszertani Gyűjtemény a növényvédő szerek engedélyezésével – így különösen módszertani útmutatókkal, a növényvédő szerek forgalmi kategóriába sorolásának feltételeivel – kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott kötelező előírások és ajánlott szakmai irányelvek gyűjteménye.
+69. § A Növényvédelmi Módszertani Gyűjtemény a növényvédő szerek engedélyezésével – így különösen módszertani útmutatókkal, a növényvédő szerek forgalmi kategóriába sorolásának feltételeivel – kapcsolatos előírások és ajánlott szakmai irányelvek gyűjteménye.
 
 ### VIII. Fejezet — ADATOK VÉDELME ÉS NYILVÁNOSSÁGA
 

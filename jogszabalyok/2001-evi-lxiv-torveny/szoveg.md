@@ -222,7 +222,7 @@ a következő törvényt alkotja:
 
 (4) Régészeti feltárás elvégzésére jogosult
 
-- a) a Magyar Nemzeti Múzeum,
+- a) a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK),
 - b) a Budapesti Történeti Múzeum,
 - c) a vármegyei hatókörű városi múzeum,
 - d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
@@ -362,13 +362,13 @@ a következő törvényt alkotja:
 
 (4) A feltárási projekttervet a jogszabályban kijelölt örökségvédelmi szerv a beruházó részére megküldi. A beruházó a feltárási projekttervet véleményezheti, módosítását, kiegészítését javasolhatja. A véleményt figyelembe kell venni, ha az műszaki és pénzügyi szempontból a régészeti feladatellátást akadályozó tényeken alapul.
 
-(5) A beruházó által elfogadott projekttervet a jogszabályban kijelölt örökségvédelmi szerv megküldi a projekttervben szereplő, a régészeti feladatellátás elvégzésére megjelölt intézménynek, valamint a Magyar Nemzeti Múzeumnak.
+(5) A beruházó által elfogadott projekttervet a jogszabályban kijelölt örökségvédelmi szerv megküldi a projekttervben szereplő, a régészeti feladatellátás elvégzésére megjelölt intézménynek, valamint az MNM KK-nak.
 
 ### Nagyberuházáshoz kapcsolódó megelőző feltárás és elfedés
 
 23/E. § (1) A beruházó a megelőző feltárás elvégzésére írásbeli szerződést köt, ha a megelőző feltárás elvégzésére a terület rendelkezésre áll.
 
-(2) A Magyar Nemzeti Múzeum a beruházó szerződéskötési szándékáról, annak kézhezvételét követő 5 napon belül értesíti a nagyberuházás megelőző feltárásának elvégzésére jogosult intézményt és koordinálja a szerződéskötést.
+(2) Az MNM KK a beruházó szerződéskötési szándékáról, annak kézhezvételét követő 5 napon belül értesíti a nagyberuházás megelőző feltárásának elvégzésére jogosult intézményt és koordinálja a szerződéskötést.
 
 (2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
 
@@ -379,7 +379,7 @@ a következő törvényt alkotja:
 
 (3) A (2b) bekezdés szerinti bevont feltárásra jogosult intézmény a régészeti szaktevékenység ellátásában további közreműködőt nem vehet igénybe.
 
-(4) Ha a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a Magyar Nemzeti Múzeum gondoskodik a régészeti feladatellátás elvégzéséről.
+(4) Ha a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor az MNM KK gondoskodik a régészeti feladatellátás elvégzéséről.
 
 (4a) A (4) bekezdés szerinti esetben a kultúráért felelős miniszter – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 40. § (3) bekezdése alapján a működési engedély módosításával – hivatalból indított eljárásban dönt a vármegyei hatókörű városi múzeum régészeti gyűjtőkörének lezárásáról. Az eljárásban a kulturális örökség védelméért felelős miniszter egyetértési jogot gyakorol.
 
@@ -523,9 +523,9 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 - a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a feltárás csak annak gyűjtőterületére terjed ki,
 - b) a vármegyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
-- c) a Magyar Nemzeti Múzeum gondoskodik, ha az a)–b) pont szerint a gyűjtőterületén érintett múzeum nem tudja biztosítani a leletanyag végleges befogadását.
+- c) az MNM KK gondoskodik, ha az a)–b) pont szerint a gyűjtőterületén érintett múzeum nem tudja biztosítani a leletanyag végleges befogadását.
 
-(3) A Magyar Nemzeti Múzeum által végzett tervásatás esetén a leletanyag végleges befogadására a Magyar Nemzeti Múzeum jogosult.
+(3) Az MNM KK által végzett tervásatás esetén a leletanyag végleges befogadására az MNM KK jogosult.
 
 (4) A befogadó múzeumot illeti meg a végleges leletbefogadás költségeinek megfelelő összeg, amely a befogadott leletek mennyiségével arányos egyszeri költségek, különösen a gyűjteményi alapleltárba vétele és a raktárkapacitás bővítésének fedezetére szolgál.
 
@@ -1552,7 +1552,7 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 
 92/G. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-92/H. § (1) A vármegyei hatókörű városi múzeumoknak, a Budapesti Történeti Múzeumnak, valamint a Magyar Nemzeti Múzeumnak – amennyiben a feladat ellátására szerződéssel nem rendelkeznek, vagy a feladat esetleges jogutódlását követően ilyen tárgyú kötelezettségvállalással várhatóan nem fognak rendelkezni – közbeszerzési eljárást kell kiírni a 23. § (2) bekezdés, valamint a 23/C. § (8) bekezdése szerinti, a régészeti feladatellátáshoz kapcsolódó földmunka biztosítása érdekében.
+92/H. § (1) A vármegyei hatókörű városi múzeumoknak, a Budapesti Történeti Múzeumnak, valamint az MNM KK-nak – amennyiben a feladat ellátására szerződéssel nem rendelkeznek, vagy a feladat esetleges jogutódlását követően ilyen tárgyú kötelezettségvállalással várhatóan nem fognak rendelkezni – közbeszerzési eljárást kell kiírni a 23. § (2) bekezdés, valamint a 23/C. § (8) bekezdése szerinti, a régészeti feladatellátáshoz kapcsolódó földmunka biztosítása érdekében.
 
 (2) E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és egyes kapcsolódó törvények módosításáról szóló 2017. évi CLXXXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 22. § (2)–(2b) és (8) bekezdését, 23. § (2) és (2a) bekezdését, 23/C. § (6)–(8) bekezdését és 23/E. § (1)–(6) bekezdését az (1) bekezdésben meghatározott közbeszerzési eljárások lefolytatása után indult eljárásokban és megkötött szerződésekre kell alkalmazni.
 

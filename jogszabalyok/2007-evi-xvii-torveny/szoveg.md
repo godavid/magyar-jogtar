@@ -1400,7 +1400,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 (5) Az alábbi elsőfokú végzések ellen önálló fellebbezésnek van helye:
 
-- a) a támogatás visszatartásáról, a mulasztási bírság kiszabásáról szóló végzés,
+- a) a 60. § (1) bekezdés szerinti visszatartásról, a mulasztási bírság kiszabásáról szóló végzés,
 - b) az eljárás felfüggesztéséről, a felfüggesztés megszüntetéséről szóló végzés,
 - c) az eljárás megszüntetéséről, a kérelem visszautasításáról szóló végzés,
 - d) a fizetési kedvezményre irányuló kérelem tárgyában hozott végzés,
@@ -1490,9 +1490,9 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 - f) a (2) bekezdés megsértésével benyújtott fellebbezést.
 - g) a nem a jogszabályban meghatározott módon, vagy a választott kapcsolattartási formának megfelelően benyújtott fellebbezést.
 
-(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a miniszterhez, kivéve, ha a fellebbezést a felterjesztést megelőzően visszavonták, vagy a fellebbezés visszautasításának van helye, továbbá ha a fellebbezés alapján a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy döntése jogszabályt sért, és erre tekintettel a döntését kijavítja, módosítja vagy visszavonja. A fellebbezést a mezőgazdasági és vidékfejlesztési támogatási szerv az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
+(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a miniszterhez, kivéve, ha a fellebbezést a felterjesztést megelőzően visszavonták, vagy a fellebbezés visszautasításának van helye, továbbá ha a fellebbezés alapján a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy döntése részben vagy egészben jogszabályt sért, és erre tekintettel a döntését kijavítja, módosítja vagy visszavonja. A fellebbezést a mezőgazdasági és vidékfejlesztési támogatási szerv az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 
-(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a fellebbezés esetén a nem jogszabálysértő döntést akkor is visszavonhatja, illetve a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
+(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a fellebbezés esetén a nem jogszabálysértő döntést akkor is visszavonhatja, illetve a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal részben vagy egészben egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
 
 (3b) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntés (3) és (3a) bekezdés szerinti kijavításáról, módosításáról, illetve visszavonásáról a fellebbezés beérkezésétől számított hetven napon belül dönt.
 
@@ -1613,7 +1613,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 60. § (1) Az ügyfelet megillető támogatást – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatartja és ezzel a tartozás megfizetettnek minősül. Ha az igénybe vehető támogatás összege az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt az esedékesség sorrendjében kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
-(2) Az ügyfél egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adóhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból, továbbá a tagállami hatáskörben, központi költségvetésből nyújtott mezőgazdasági, halászati, erdészeti, vadgazdálkodási és vidékfejlesztési támogatásból a mindenkori központi költségvetési törvény vagy az Áht. szabályai szerint a mezőgazdasági és vidékfejlesztési támogatási szerv visszatartja, és átutalja az állami adóhatóságnak. A visszatartott támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
+(2) Az ügyfél egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adóhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból, továbbá a tagállami hatáskörben, központi költségvetésből nyújtott mezőgazdasági, halászati, erdészeti, vadgazdálkodási és vidékfejlesztési támogatásból a mindenkori központi költségvetési törvény vagy az Áht. szabályai szerint a mezőgazdasági és vidékfejlesztési támogatási szerv levonja, átutalja az állami adó- és vámhatóságnak, és erről tájékoztatja az ügyfelet. A levont támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
 
 (3) Ha az igénybe vehető támogatás összege az állami adóhatóság által a (2) bekezdés alapján szolgáltatott, az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt a tartozások arányában kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 

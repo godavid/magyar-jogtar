@@ -1317,6 +1317,8 @@ a közművelődési intézményekben és a levéltárakban alkalmazottak foglalk
 
 (3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója pályázatot ír ki. A pályázat kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
 
+(3a) A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) vezetőjét a miniszter nevezi ki, illetve menti fel.
+
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 
 (4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:

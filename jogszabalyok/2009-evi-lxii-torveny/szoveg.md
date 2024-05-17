@@ -45,7 +45,11 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 9. gépjárműflotta: egy adott biztosítónál ugyanazon – jogi személy, egyéni vállalkozó, egyéni cég – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
 
-10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
+10. gépjármű:
+
+a) minden olyan, szárazföldön, de nem sínen közlekedő, kizárólag mechanikus (tehát nem emberi vagy állati) erővel működtetett, hatósági nyilvántartásba vett vagy hatósági nyilvántartásba nem vett jármű – a kizárólag mozgáskorlátozott személyek általi használatra szánt kerekesszékes járművek, az elektromos rásegítéssel működő (pedelec) kerékpárok, valamint a mozgáskorlátozott személy által vezetett e-moped járművek kivételével –, amelynek legnagyobb tervezési sebessége meghaladja a 25 km/h-t, vagy legnagyobb sajáttömege meghaladja a 25 kg-t és legnagyobb tervezési sebessége a 14 km/h-t, továbbá
+
+b) minden, az a) pontban említett gépjárművel együtt használandó pótkocsi és félpótkocsi, akkor is, ha nincs a gépjárműhöz kapcsolva;
 
 10a. gépjárműhasználat: egy gépjármű bármely használata, amely összeegyeztethető azon rendeltetésével, hogy a baleset időpontjában szállítási, illetve közlekedési eszközként szolgáljon, függetlenül a gépjármű jellemzőitől és attól, hogy a gépjárművet milyen terepen használják, valamint attól, hogy az – akár huzamos ideig – álló helyzetben vagy mozgásban van azzal, hogy a forgalomba helyezésre kötelezett gépjárművek esetén gépjárműhasználatnak minősül különösen az a teljes tartam, ami a gépjármű hatósági engedéllyel és jelzéssel történő ellátásának időpontjától a gépjármű forgalomból történő átmeneti vagy végleges kivonásáig tart, az ideiglenes forgalomban tartás engedélyezése, illetve ideiglenes forgalmi engedély kiadása esetén pedig gépjárműhasználatnak minősül az ideiglenes forgalomban tartási engedély, illetve az ideiglenes forgalmi engedély érvényességének időtartama;
 
@@ -271,7 +275,9 @@ indokolás nélkül felmondhatja.
 
 16. § (1) Az állandó forgalmi engedélyre kötelezett gépjárművek esetében a biztosítási szerződés határozatlan tartamú.
 
-(2) Az ideiglenes forgalmi engedéllyel, az ideiglenes forgalomban tartási engedéllyel rendelkező gépjárművek, továbbá az igazolólappal rendelkező lassú járművek és a négykerekű segédmotoros kerékpárok (quadok), továbbá a külön jogszabályban meghatározott forgalomba helyezésre nem kötelezett gépjárművek esetében, valamint a 4. § (7) bekezdésében foglalt esetben a biztosítási szerződésben megjelölt határozott tartamú szerződés köthető.
+(2) Az ideiglenes forgalmi engedéllyel vagy ideiglenes forgalomban tartási engedéllyel rendelkező gépjárművek, az igazolólappal rendelkező lassú járművek, a négykerekű segédmotoros kerékpárok (quadok), a kötelező gépjármű-felelősségbiztosításnál alkalmazott gépjármű-kategóriákról szóló PM rendelet szerinti Egyéb gépjárművek, valamint a forgalomba helyezésre nem kötelezett gépjárművek esetében, továbbá a 4. § (7) bekezdésében foglalt esetben a biztosítási szerződésben megjelölt határozott tartamú szerződés köthető.
+
+(2a) Az igazolólappal rendelkező lassú járművekre, a négykerekű segédmotoros kerékpárokra (quadok), a kötelező gépjármű-felelősségbiztosításnál alkalmazott gépjármű-kategóriákról szóló PM rendelet szerinti Egyéb gépjárművekre, továbbá a forgalomba helyezésre nem kötelezett gépjárművekre kötött határozott tartamú szerződés a tartam lejártát követő újabb tartamra – az annak kezdőnapján alkalmazandó díjtarifa szerinti díjjal – a felek erre irányuló megállapodása alapján meghosszabbítható.
 
 (3) A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló miniszteri rendeletben meghatározott mezőgazdasági erőgép (lassú jármű) esetében határozatlan tartamú szerződés köthető.
 
@@ -1294,6 +1300,10 @@ vizsgálatára terjed ki.
 62/E. § (1) A Kártalanítási Alap kezelője 2023. december 23-ig jogosult és törekszik megállapodást kötni – az e törvény 2023. december 23-án hatályba lépő, A Kártalanítási Alap helytállási kötelezettsége alcímében foglaltak végrehajtása érdekében – másik tagállamok kártérítési szervezeteivel feladatköreik, kötelezettségeik és a megtérítési eljárások meghatározása céljából.
 
 (2) Az (1) bekezdés szerinti megállapodás megkötéséről a Kártalanítási Alap kezelője haladéktalanul tájékoztatja az Európai Bizottságot és a biztosítási piac szabályozásáért felelős minisztert.
+
+62/F. § (1) A 23. § (3) bekezdésében foglaltaktól eltérően a kötelező gépjármű-felelősségbiztosításnál alkalmazott gépjármű-kategóriákról szóló PM rendelet szerinti Egyéb gépjárművek gépjármű-kategória vonatkozásában első alkalommal az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény kihirdetését követő 30 napon belül kötelesek a biztosítók a díjtarifájukat meghirdeti és közzétenni, amely díjtarifák az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követő hatvanadik naptól alkalmazandóak.
+
+(2) Az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 3. § 10. pontjában, valamint 16. § (2) és (2a) bekezdésében foglaltakat az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követő hatvanadik naptól kell alkalmazni.
 
 ### Módosuló és hatályukat vesztő rendelkezések
 

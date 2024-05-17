@@ -92,7 +92,7 @@ közös eljárási szabályai
 
 (3) A 28. § (1) bekezdése szerinti tagállam állampolgárának nem minősülő, valamint a 28. § (2) bekezdése hatálya alá nem tartozó, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést –, ha a (2) bekezdésben foglaltak teljesítésén túlmenően munkavégzési célból vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
 
-(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha munkavégzési célból a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott kedvezményes foglalkoztató vagy minősített kölcsönbeadó által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a kiadott tartózkodási engedélyt bemutatja.
+(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha munkavégzési célból a foglalkoztató a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély vagy vendégmunkás-tartózkodási engedély iránti kérelmet nyújtott be, és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a kiadott tartózkodási engedélyt bemutatja.
 
 (5) Az eljáró hatóság megszünteti a (4) bekezdés szerinti eljárást, ha a kérelmező az elismerési eljárás kezdő napját követő 90 napon belül nem nyújtja be a munkavégzési célból szükséges vízumot, és nem kéri az eljárási határidő meghosszabbítását. Az eljárási határidő kérelemre 30 nappal meghosszabbítható.
 
@@ -1043,6 +1043,8 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 68/B. § Ha a bíróság, illetve az ügyész az eljárása során megállapítja, hogy az Ákr. 123. § (1) bekezdés d) és e) pontja alapján a közigazgatási határozat megsemmisítésének van helye, a bíróság a jogerős ügydöntő határozatról, illetve az ügyészség a feltételes ügyészi felfüggesztésről szóló határozatról a közigazgatási határozatot meghozó eljáró hatóságot haladéktalanul tájékoztatja.
 
 68/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+68/D. § E törvénynek az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvénnyel megállapított 6. § (4) bekezdését e rendelkezés hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 
