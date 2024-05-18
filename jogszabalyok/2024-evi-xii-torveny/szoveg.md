@@ -41,21 +41,51 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 8. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-#### 11. §
+11. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 7. §-a a következő (2) bekezdéssel egészül ki:
 
-#### 12. §
+„(2) A járási hivatal ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.”
 
-#### 13. §
+12. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 8/A. §-a a következő m) ponttal egészül ki:
 
-#### 14. §
+[A Kormány rendeletében kijelölt fővárosi és vármegyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)]
+
+„m) ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.”
+
+13. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 9. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A nyilvántartást kezelő szerv ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.”
+
+14. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. Fejezete a következő 24/P. §-sal egészül ki:
+
+„24/P. § A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a személyi azonosítót, a 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatokat jogosultak igényelni.”
 
 #### 15. §
 
 #### 16. §
 
-#### 17. §
+17. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. Fejezete a következő alcímmel egészül ki:
 
-#### 18. §
+### „Digitális állampolgárság előregisztráció
+
+29/K. § (1) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató – a (2) bekezdésben meghatározott szerv útján – digitális állampolgárság előregisztráció lehetőségét biztosítja a polgár számára.
+
+(2) Az előregisztráció személyesen, a polgár személyazonosságának igazolása mellett
+
+- a) bármely járási hivatalnál,
+- b) a kijelölt kormányhivatalnál, vagy
+- c) a nyilvántartást kezelő szervnél
+
+kezdeményezhető.
+
+(3) A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a személyazonosság igazolását követően a polgár rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a polgár a mobileszközében eltárolja. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja.”
+
+18. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 33/B. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) Az (1) bekezdés szerinti nyilvántartás hatálya kiterjed a digitális állampolgárság előregisztráció feladatait ellátó felhasználókra is. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató a digitális állampolgárság előregisztrációs feladatának ellátásához az (1) bekezdés szerinti nyilvántartásban kezelt adatokhoz hozzáféréssel rendelkezik.”
+
+(2) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 47. §-a a következő (1c) bekezdéssel egészül ki:
+
+„(1c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a digitális állampolgárság előregisztráció részletes szabályait.”
 
 #### 19. §
 
@@ -120,7 +150,11 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 32. § (1)
 
-(2)
+(2) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. §-a a következő 34. ponttal egészül ki:
+
+(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
+
+„34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.”
 
 #### 33. §
 
@@ -196,7 +230,9 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 31. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-#### 56. §
+56. § A külföldre utazásról szóló 1998. évi XII. törvény 27. §-a a következő (13) bekezdéssel egészül ki:
+
+„(13) Az adatkezelő szerv a járási hivatal, a kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv részére a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.”
 
 #### 57. §
 
@@ -218,7 +254,9 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 62. §
 
-#### 63. §
+63. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából térítésmentesen igényelheti a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.”
 
 #### 64. §
 
@@ -352,13 +390,9 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 101. §
 
-102. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 8. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 102. §
 
-„(5) A 3. § (3) bekezdését, a 4. § (2) bekezdését, az 5. § (1) bekezdését, a 6. § (1)–(3) bekezdését, valamint a 7. §-t nem kell alkalmazni azon gazdasági társaságokra – a lakosság és a gazdasági szereplők számára törvényben meghatározott közszolgáltatást nyújtó gazdasági társaságok kivételével –, amelyekben együttesen nem a magyar állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, nemzetiségi önkormányzat, nemzetiségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány vagy ezek többségi befolyása alatt álló gazdasági társaság jogosult a vezető tisztségviselők többségének megválasztására, illetve visszahívására.”
-
-103. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 9. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha a digitális állam megvalósítása érdekében egyes törvények módosításáról szóló 2024. évi XII. törvény (a továbbiakban: Módtv3.) által módosított 8. § (5) bekezdésében megjelölt, a lakosság és a gazdasági szereplők számára törvényben meghatározott közszolgáltatást nyújtó gazdasági társaság létesítő okirata vagy működése a Módtv3. hatályba lépésekor nem felel meg e törvény előírásainak, a gazdasági társaság a létesítő okiratát, illetve működését a Módtv3. hatálybalépését követő első taggyűlés vagy közgyűlés napjáig, de legkésőbb 2024. december 31-ig köteles összhangba hozni e törvény rendelkezéseivel.”
+#### 103. §
 
 #### 104. §
 
@@ -506,15 +540,7 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 150. §
 
-151. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény
-
-- a) 9. § (5) bekezdésében „az automatizált arcképmás-összehasonlítást igénybe venni” szövegrész helyébe „a 12/D. § szerinti automatizált összehasonlítást igénybe venni” szöveg,
-- b) 9/A. § (1) bekezdésében „az arcképelemző rendszer általi” szövegrész helyébe „a 12/A. § szerinti” szöveg,
-- c) 9/A. § (2) bekezdésében „az arcképelemző rendszer általi” szövegrész helyébe „a 12/B. § szerinti” szöveg,
-- d) 9/A. § (3) bekezdésében „az arcképelemző rendszer általi” szövegrész helyébe „a 12/C. § szerinti” szöveg,
-- e) 9/A. § (4) bekezdésében „az arcképelemző rendszer általi” szövegrész helyébe „a 12/B. § szerinti” szöveg
-
-lép.
+#### 151. §
 
 #### 87.
 

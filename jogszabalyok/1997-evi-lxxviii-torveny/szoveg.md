@@ -1297,6 +1297,8 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 53/I. § Az építésügyi hatóság vagy az építésfelügyeleti hatóság végleges döntését a közlésétől számított tizenöt napon belül lehet megtámadni.
 
+53/J. § Az építésügyi és az építésfelügyeleti hatósági ügyirat részét képező építészeti-műszaki dokumentáció tervlapjainak az épület belső kialakítására vonatkozó részeibe kizárólag az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosa és haszonélvezője tekinthet bele. Ez alól kivételt képeznek a közhasználatú építmények építészeti-műszaki dokumentációinak azon részei, amelyek a közfeladat ellátását biztosító építményrészekre vonatkoznak.
+
 ### III/A. Fejezet
 
 ### IV. Fejezet — AZ ÉPÍTETT KÖRNYEZET FENNTARTÁSA, HASZNÁLATA ÉS ÉRTÉKEINEK VÉDELME
@@ -1786,13 +1788,13 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 (7b) A Városligeti építési szabályzat hatálybalépését követően a 14/C. §-ban meghatározott területekre vonatkozóan a Budapest Főváros XIV. kerület Zugló Önkormányzata által elfogadott településrendezési eszközöket vagy településrendezési terveket nem kell alkalmazni.
 
-(8) Azon településeknek, amelyek a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (a továbbiakban: korábbi R.) tartalmi követelményei alapján nem készítettek településfejlesztési koncepciót, integrált településfejlesztési stratégiát és településrendezési eszközöket, az új településfejlesztési tervüket és településrendezési tervüket legkésőbb 2024. január 1-ig hatályba kell léptetniük, és a 2012. augusztus 6-án hatályos szabályoknak megfelelő településfejlesztési koncepciójuk, integrált településfejlesztési stratégiájuk vagy településrendezési eszközeik módosítására 2023. december 31-ig van lehetőségük.
+(8) Azon településeknek, amelyek a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (a továbbiakban: korábbi R.) tartalmi követelményei alapján készítettek településfejlesztési koncepciót, integrált településfejlesztési stratégiát és településrendezési eszközöket – vagy egyáltalán nem készítettek a korábbi R. tartalmi követelményeinek megfelelő tervet –, az új településfejlesztési tervüket és településrendezési tervüket legkésőbb 2027. július 1-jéig hatályba kell léptetniük.
 
-(9) Azon településeknek, amelyek a korábbi R. tartalmi követelményei alapján készítettek településfejlesztési koncepciót, integrált településfejlesztési stratégiát és településrendezési eszközöket, az új településfejlesztési tervüket és településrendezési tervüket legkésőbb 2027. július 1-ig hatályba kell léptetniük, és a korábbi R. tartalmi követelményeinek megfelelő településfejlesztési koncepciójuk, integrált településfejlesztési stratégiájuk és településrendezési eszközeik módosítására 2027. június 30-ig van lehetőségük. A 2021. június 30-ig elkészített fővárosi településfejlesztési koncepció, stratégia és településrendezési eszköz – a kerületi településtervek 2027. június 30-ig történő elkészítése érdekében – 2025. június 30-ig maradhat hatályban.
+(9) A 2012. augusztus 6-án hatályos szabályoknak megfelelő településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz módosítására 2027. június 30-ig van lehetőség. A korábbi R. tartalmi követelményeinek megfelelő településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz elfogadására és módosítására 2027. június 30-ig van lehetőség. A 2021. június 30-ig elkészített fővárosi településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz – a kerületi településtervek 2027. június 30-ig történő elkészítése érdekében – 2025. június 30-ig maradhat hatályban és módosítására eddig az időpontig van lehetőség.
 
-(9a) Ha a korábbi R. alapján készült településrendezési eszköz olyan mértékű módosítása válik indokolttá, amely új településszerkezeti terv vagy helyi építési szabályzat elfogadását eredményezi, a (14) bekezdésben meghatározott határidőt követően is van lehetőség 2023. december 31-ig a korábbi R. tartalmi követelményeinek figyelembevételével településrendezési eszköz elfogadására.
+(9a)
 
-(10) Ha a településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz készítését a korábbi R. tartalmi követelményei alapján 2021. június 30-ig megkezdték és legalább az előzetes tájékoztatási szakasz megindult, az új koncepció, stratégia, településrendezési eszközök készítésére irányuló eljárást 2022. december 31-ig önkormányzati döntéssel le kell zárni. A 2022. december 31-ig elkészített koncepció, stratégia és településrendezési eszköz 2027. június 30-ig maradhat hatályban és módosításukra eddig az időpontig lehetőség van.
+(10)
 
 (11) A településtervek 2021. július 1-jétől történő készítése, majd az elkészült tervek módosítása során a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet (a továbbiakban: új R.) rendelkezéseit kell alkalmazni. 2021. július 1-jétől csak a település egészére készülhet településfejlesztési terv, valamint – a megyei jogú város és a fővárosi kerület kivételével – csak a település teljes közigazgatási területére készülhet településrendezési terv.
 
@@ -1803,6 +1805,10 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 (14) 2022. július 1-jétől a településfejlesztési tervek és településrendezési tervek készítésének és módosításának, valamint a korábbi településfejlesztési koncepciók, integrált településfejlesztési stratégiák településrendezési eszközök módosításának adatszolgáltatását és véleményezését az E-TÉR-ben kell lefolytatni. A 2022. június 30-ig megindított eljárások esetén a polgármester mentesül a 8. § (4) bekezdés d) pontjában foglaltak teljesítésének kötelezettsége alól.
 
 (15) E törvénynek a településtervezéssel összefüggő egyes törvények módosításáról szóló 2021. évi XXXIX. törvénnyel megállapított 27. § (2) bekezdését a 2021. július 1-jét megelőzően elrendelt szabályozási vonalnál is alkalmazni kell azzal, hogy a szabályozási vonal felülvizsgálatát az első 7 éves felülvizsgálati kötelezettséget megelőzően 2024. január 1-ig el kell végezni.
+
+(16) Érvényes a 27. § (2) bekezdése szerinti szabályozási vonal, ha annak felülvizsgálatát nem végezték el a (15) bekezdésnek megfelelően, de a települési önkormányzat a (17) bekezdésben foglaltak szerint közzétett önkormányzati határozattal igazolja azt, hogy a közérdekű elrendelési indok továbbra is fennáll és a helyi építési szabályzat ezzel összefüggő módosítását nem tartja szükségesnek.
+
+(17) A (16) bekezdés szerinti önkormányzati határozatot a helyi építési szabályzat mellett a képviselő-testület hivatalos lapjában vagy a helyben szokásos – a szervezeti és működési szabályzatban a rendeletek kihirdetésére meghatározott – módon, továbbá az önkormányzat honlapján közzé kell tenni. A jegyző gondoskodik az önkormányzati határozat kormányhivatal részére történő megküldéséről.
 
 60/A. § A fővárosi önkormányzat vagy a fővárosi kerületi önkormányzat tulajdonában álló, az 54. § (5b) és (5c) bekezdése szerinti közterület 2020. augusztus 15–25. közötti időszakban tervezett foglalására vonatkozóan a 2020. április 1-je után benyújtott kérelmeket az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvény hatálybalépését követően ismételten be kell nyújtani.
 
@@ -1848,6 +1854,8 @@ is alkalmazni kell.
 
 (2) A Mód5. tv. által megállapított 18. § (5) bekezdésének teljesítése érdekében a szükséges helyi építési szabályzat módosítását 2022. december 31-ig kell elfogadnia a helyi önkormányzatnak.
 
+60/M. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet hatálya alá tartozó azon beruházások esetében, amelyeknél az építési engedély keretében bontási engedélyt is kiadott a hatóság, a bontási engedély időbeli hatálya megegyezik az építési engedély időbeli hatályával.
+
 61. § (1) Ahol jogszabály
 
 - a) általános rendezési tervet említ, azon településszerkezeti tervet,
@@ -1865,6 +1873,13 @@ is alkalmazni kell.
 61/C. § (1) E törvénynek a fővárosi és megyei kormányhivatalok elektronikus ügyintézésével, valamint a kormányhivatali adatszolgáltatással összefüggő egyes törvények módosításáról szóló 2021. évi LXIII. törvénnyel (a továbbiakban: Mód5. tv.) megállapított rendelkezéseit azokra az építőipari kivitelezési tevékenységekre kell alkalmazni, amelyek közbeszerzési eljárása 2021. december 31-ét követően indult meg.
 
 (2) E törvénynek a Mód5. tv.-nyel megállapított rendelkezései megsértése miatt joghátrány 2022. július 1-jéig nem köthető ki és nem állapítható meg.
+
+61/D. § (1) E törvénynek az egyes ingatlan-nyilvántartási tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XXVII. törvénnyel (a továbbiakban: Mód6. tv.)
+
+- a) megállapított 60. § (16) és (17) bekezdését, valamint módosított 60. § (8) és (9) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök készítése és módosítása során, valamint a folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell,
+- b) hatályon kívül helyezett 60. § (9a) és (10) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök készítése és módosítása során, valamint a folyamatban lévő közigazgatási hatósági eljárásokban nem kell alkalmazni.
+
+(2) A Mód6. tv.-vel megállapított 60/M. §-t azon bontási engedélyre is alkalmazni kell, amely a Mód6. tv. hatálybalépésekor már nem hatályos, azonban az az építési engedély, amelynek keretében kiadták, még hatályos. Ha a Mód6. tv.-vel megállapított 60/M. § szerinti engedélyek vonatkozásában a bontási engedély időbeli hatályának lejárta és e rendelkezés hatálybalépése közötti időszakban a bontási engedély időbeli hatályának lejártával összefüggésben a hatóság kötelezettséget állapított meg, a kötelezettségnek nem kell eleget tenni. A már kifizetett bírság visszatérítése iránt a hatóság intézkedik.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
