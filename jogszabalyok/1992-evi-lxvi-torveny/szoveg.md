@@ -168,7 +168,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat;
 - k) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
-(2)
+(2) A járási hivatal ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
 
 (3) Az anyakönyvvezető a nyilvántartást kezelő szerv részére továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiállításához szükséges adatokat. Nem kerül hivatalból kiállításra az állandó személyazonosító igazolvány titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén.
 
@@ -203,6 +203,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - j) törvény hatálya alá tartozó tevékenységével összefüggésben gondoskodik a személyes adatok védelméről;
 - k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
 - l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat.
+- m) ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
 
 9. § (1) A nyilvántartás adatkezelője a nyilvántartást kezelő szerv.
 
@@ -232,6 +233,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - q)
 - r)
 - s)
+
+(2a) A nyilvántartást kezelő szerv ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
 
 (3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve elektronikusan tárolva – kezeli:
 
@@ -704,6 +707,8 @@ adatot igényelhet.
 (2) Az (1) bekezdés szerinti adatigénylés az elhunyt viselt neve, születési neve, születési helye és ideje, anyja neve adatok közül a halottvizsgálatot végző személy tudomására jutottak, de legalább a viselt név, a születési hely és idő és az anyja családi neve adatok megadásával történik.
 
 24/N. § A személyazonosító igazolványt kiadó és nyilvántartó hatóság a kérelmező személyazonosságának, valamint személyi adatainak és vezetői engedélye adatainak ellenőrzése céljából térítésmentesen igényelheti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
+
+24/P. § A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a személyi azonosítót, a 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatokat jogosultak igényelni.
 
 ### V. Fejezet — A nyilvántartási eljárás
 
@@ -1204,6 +1209,20 @@ ad tájékoztatást.
 
 (12) A (8) bekezdés szerinti adatigénylésről és az ahhoz kapcsolódó tájékoztatásról az okmánynyilvántartó szerv nyilvántartást nem vezet.
 
+### Digitális állampolgárság előregisztráció
+
+29/K. § (1) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató – a (2) bekezdésben meghatározott szerv útján – digitális állampolgárság előregisztráció lehetőségét biztosítja a polgár számára.
+
+(2) Az előregisztráció személyesen, a polgár személyazonosságának igazolása mellett
+
+- a) bármely járási hivatalnál,
+- b) a kijelölt kormányhivatalnál, vagy
+- c) a nyilvántartást kezelő szervnél
+
+kezdeményezhető.
+
+(3) A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a személyazonosság igazolását követően a polgár rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a polgár a mobileszközében eltárolja. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja.
+
 ### VI. Fejezet — Adatvédelem
 
 30. § (1) A jegyző, a járási hivatal, a fővárosi és vármegyei kormányhivatal, valamint a nyilvántartást kezelő szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és belső adatvédelmi és adatbiztonsági szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
@@ -1302,6 +1321,8 @@ adatvédelmi tisztviselőt nevez ki.
   - di) hivatali kapcsolattartásra használható elektronikus levélcímét.
 
 (2a) Az elhalálozásról szóló értesítési szolgáltatáshoz csatlakozott szervek esetében az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a)–c) pontjában, valamint a d) pont da)–dd), dg) és di) alpontjában foglalt adatokat tartalmazza. Jelen bekezdés alkalmazásában a nyilvántartás tartalmazza a csatlakozott szerv elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét is.
+
+(2b) Az (1) bekezdés szerinti nyilvántartás hatálya kiterjed a digitális állampolgárság előregisztráció feladatait ellátó felhasználókra is. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató a digitális állampolgárság előregisztrációs feladatának ellátásához az (1) bekezdés szerinti nyilvántartásban kezelt adatokhoz hozzáféréssel rendelkezik.
 
 (3) Az adatközlésre kötelezett, a nyilvántartásban adatkezelést végző, illetve abból közvetlen adatátvételre vagy adatigénylésre jogosult személy hozzáférési jogosultsága határozott idejű, amelynek időtartama két év. A hozzáférési jogosultság – a meghatározott időtartam lejártával – a jogosultságot kérő szerv kérelme alapján kerül megújításra.
 
@@ -1439,6 +1460,8 @@ kell érteni.
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a nyilvántartás vezetésével összefüggésben feladat- és hatáskört telepítsen a települési önkormányzat jegyzőjére, valamint meghatározza a feladat- és hatáskör ellátásához szükséges, azzal összefüggő szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a települési címek 39. §-ban meghatározott jegyzői ellenőrzési eljárásának részletes szabályait.
+
+(1c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a digitális állampolgárság előregisztráció részletes szabályait.
 
 (2) A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza
 

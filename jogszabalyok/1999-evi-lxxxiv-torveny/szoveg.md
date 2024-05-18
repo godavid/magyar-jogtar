@@ -582,6 +582,8 @@ A NYILVÁNTARTÁSBÓL
 
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.
 
+(5) A járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából térítésmentesen igényelheti a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
+
 20. § (1) A 19. §-ban megjelölt szervek, személyek a célt és a jogalapot az adat megismerésére jogosító jogszabályi rendelkezés megjelölésével igazolják.
 
 (2) A nyilvántartó a 19. §-ban megjelölt szervek, személyek részére az adatszolgáltatást a járműnyilvántartásból az informatikai platform keretében is nyújthatja.

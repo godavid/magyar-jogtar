@@ -539,6 +539,8 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (12) Az adatkezelő szerv – a 24. § (1) bekezdésének l) pontjában meghatározott adat alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmás adatának nyilvántartásba vételéről, valamint ezen személy útiokmány-nyilvántartásban szereplő arcképmás adatának változásáról.
 
+(13) Az adatkezelő szerv a járási hivatal, a kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv részére a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
+
 27/A. § Az adatkezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmását, valamint a 24. § (1) bekezdésének l) pontjában meghatározott adatot átadja.
 
 28. § (1) A (2a) és (2b) bekezdésben meghatározott eltérésekkel az adatkezelő szerv természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére – az adatfelhasználás céljának és jogalapjának igazolása esetén – adatot szolgáltathat
