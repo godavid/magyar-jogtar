@@ -41,51 +41,21 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 8. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-11. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 7. §-a a következő (2) bekezdéssel egészül ki:
+#### 11. §
 
-„(2) A járási hivatal ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.”
+#### 12. §
 
-12. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 8/A. §-a a következő m) ponttal egészül ki:
+#### 13. §
 
-[A Kormány rendeletében kijelölt fővárosi és vármegyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)]
-
-„m) ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.”
-
-13. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 9. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A nyilvántartást kezelő szerv ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.”
-
-14. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. Fejezete a következő 24/P. §-sal egészül ki:
-
-„24/P. § A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a személyi azonosítót, a 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatokat jogosultak igényelni.”
+#### 14. §
 
 #### 15. §
 
 #### 16. §
 
-17. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. Fejezete a következő alcímmel egészül ki:
+#### 17. §
 
-### „Digitális állampolgárság előregisztráció
-
-29/K. § (1) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató – a (2) bekezdésben meghatározott szerv útján – digitális állampolgárság előregisztráció lehetőségét biztosítja a polgár számára.
-
-(2) Az előregisztráció személyesen, a polgár személyazonosságának igazolása mellett
-
-- a) bármely járási hivatalnál,
-- b) a kijelölt kormányhivatalnál, vagy
-- c) a nyilvántartást kezelő szervnél
-
-kezdeményezhető.
-
-(3) A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a személyazonosság igazolását követően a polgár rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a polgár a mobileszközében eltárolja. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja.”
-
-18. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 33/B. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az (1) bekezdés szerinti nyilvántartás hatálya kiterjed a digitális állampolgárság előregisztráció feladatait ellátó felhasználókra is. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató a digitális állampolgárság előregisztrációs feladatának ellátásához az (1) bekezdés szerinti nyilvántartásban kezelt adatokhoz hozzáféréssel rendelkezik.”
-
-(2) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 47. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a digitális állampolgárság előregisztráció részletes szabályait.”
+#### 18. §
 
 #### 19. §
 
@@ -150,11 +120,7 @@ kezdeményezhető.
 
 32. § (1)
 
-(2) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. §-a a következő 34. ponttal egészül ki:
-
-(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
-
-„34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.”
+(2)
 
 #### 33. §
 
@@ -230,9 +196,7 @@ kezdeményezhető.
 
 #### 31. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-56. § A külföldre utazásról szóló 1998. évi XII. törvény 27. §-a a következő (13) bekezdéssel egészül ki:
-
-„(13) Az adatkezelő szerv a járási hivatal, a kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv részére a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.”
+#### 56. §
 
 #### 57. §
 
@@ -254,9 +218,7 @@ kezdeményezhető.
 
 #### 62. §
 
-63. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából térítésmentesen igényelheti a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.”
+#### 63. §
 
 #### 64. §
 
