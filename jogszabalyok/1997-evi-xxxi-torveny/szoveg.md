@@ -404,7 +404,7 @@ kell alkalmazni.
 
 (14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.
 
-(15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
+(15) A pedagógus-munkakörben foglalkoztatott személyt évi huszonegy munkanap alapszabadság, és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
 
 (16) A (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsőde, mini bölcsőde, a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézmény és az (5) bekezdésben meghatározott javítóintézeti ellátást nyújtó intézmény vezetője
 
@@ -1305,7 +1305,7 @@ vezeti.
 
 (3) Bölcsődei ellátás keretében a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek nevelése és gondozása is végezhető.
 
-(3a) A sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátása történhet a többi gyermekkel közös bölcsődei csoportban vagy speciális bölcsődei csoportban.
+(3a) A sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátása történhet teljes integráció keretében a többi gyermekkel közös bölcsődei csoportban vagy részleges integráció keretében speciális bölcsődei csoportban a Bölcsődei nevelés-gondozás országos alapprogramjában foglaltak szerint.
 
 (4) A bölcsődei ellátás keretében az (1) bekezdés szerinti ellátáson túl – szolgáltatásként – speciális tanácsadás, időszakos gyermekfelügyelet, gyermekhotel működtetése vagy más gyermeknevelést segítő szolgáltatás is biztosítható. Ezeket a szolgáltatásokat a gyermek hatodik életévének betöltéséig lehet igénybe venni.
 
@@ -4290,13 +4290,13 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 - f) a fiatal felnőtt hatósági döntéssel elrendelt utógondozása esetén
   - fa) a határozatot hozó szerv nevét, a határozat számát, keltét, véglegessé válásának napját,
   - fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése),
-- g) családi bölcsőde és munkahelyi bölcsőde esetén a gyermek törvényes képviselőjének személyazonosító adatait, ha a törvényes képviselő a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban részesül.
+- g)
 
 (2a) A (2) bekezdés a)–f) pontja szerinti adatok a Gyermekeink védelmében elnevezésű informatikai rendszerből kerülnek átadásra a kincstár által a finanszírozás ellenőrzése céljából vezetett nyilvántartás részére.
 
 (3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
 
-- a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül, és a gyermek törvényes képviselője a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban nem részesül,
+- a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül,
 - b)
 - c)
 - d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén, valamint az óvodai és iskolai szociális segítő tevékenység esetén, ha az közösségi vagy csoportos formában történik, vagy ha az egyéni formában történő szociális segítő tevékenység nyújtása az első találkozást követően tett intézkedéssel lezárul,
@@ -4461,7 +4461,7 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 
 (5) A központi költségvetésről szóló törvényben biztosított támogatással történő támogatás szakmai céloknak megfelelő módját és mértékét a költségvetési törvény határozza meg.
 
-(6) A kincstár közreműködik a Gazdaságfejlesztési és Innovációs Operatív Programból származó támogatások célzott és ellenőrzött kihelyezésében.
+(6) A kincstár közreműködik a kisgyermeket nevelők munkaerőpiaci visszatérésének célzott támogatására irányuló, továbbadott támogatási programból származó támogatások célzott és ellenőrzött kihelyezésében.
 
 144. § (1) A gyermektartásdíj megelőlegezésének, valamint az otthonteremtési támogatásnak a teljes fedezetét a központi költségvetés előleg nyújtásával biztosítja.
 
@@ -4492,14 +4492,14 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
   - ca) szétválás vagy egyesítés,
   - cb) szolgáltatásiforma-váltás,
   - cc) a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás, vagy
-  - cd) fenntartók közötti férőhelyszám-átadás,
+  - cd)
   - ce) fenntartóváltás
 
 teszi szükségessé.
 
 (2d) A (2c) bekezdés szerinti feltételek fennállását a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
-(2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon, illetve átadáson az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
+(2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
 
 (2f) A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
 
@@ -4917,7 +4917,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - p) a 15. § (10a) bekezdésében foglalt intézményeknek és fenntartójuknak, valamint a szolgáltatói nyilvántartást vezető szervnek a köznevelés információs rendszerével kapcsolatos feladatait, továbbá a köznevelés információs rendszere adatkezelőjének a 15. § (10a) bekezdés szerinti intézmények nyilvántartásával és hatjegyű köznevelési azonosítójával, valamint az ezen intézményekben pedagógus-munkakörben foglalkoztatottak nyilvántartásával és oktatási azonosító számával kapcsolatos feladatait,
 - q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 - r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására, folyósításának felfüggesztésére, a folyósítás felfüggesztésének megszüntetésére, valamint a családi pótlék szüneteltetésének kezdeményezésére irányuló eljárásra, továbbá a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
-- s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
+- s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes, felhasználásának egyéb kiegészítő szabályait,
 - sz) a gyámhatósági eljárásnak a megelőző pártfogás elrendelésére, felülvizsgálatára, az azzal kapcsolatos döntések meghozatalára és végrehajtására irányuló szabályait,
 - t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 - u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
