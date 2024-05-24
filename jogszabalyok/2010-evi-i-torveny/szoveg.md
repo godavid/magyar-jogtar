@@ -67,7 +67,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - m) tolmács: a tolmács és a jelbeszédben jártas személy,
 - n) származási hely: az anya nyilatkozata alapján az anya lakóhelye vagy tartózkodási helye, ismeretlen anya esetén a gyámhatóság által megállapított hely, hazai anyakönyvezés esetén – kérelemre – az anya lakóhelye, illetve ha az nem ismert, a gyermek születési helye,
 - o) személyazonosság igazolására alkalmas hatósági igazolvány: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján személyazonosság igazolására alkalmas igazolványok,
-- p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvekbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
+- p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében, továbbá az anyakönyvbe korábban bejegyzett ä betű és az annak mellőzése miatt kialakult névviselés rendezése,
 - q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
 - r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
 - s) adattörlés: az anyakönyvben és apai elismerő nyilatkozatok nyilvántartásában szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
@@ -526,6 +526,12 @@ az irányadó.
 
 (2) Az anyakönyvbe azt a születési és házassági nevet kell bejegyezni, amely az érintett személyt a bejegyzés alapjául szolgáló esemény időpontjában megillette.
 
+(3) Elhalt magyar állampolgár esetén, amennyiben a születési anyakönyvi bejegyzése vagy a házassági anyakönyvi bejegyzése, valamint a személyiadat- és lakcímnyilvántartás adatai a születési név tekintetében eltérnek, az elektronikus anyakönyvbe történő bejegyzés során úgy kell eljárni, mintha számára korábban névváltoztatást engedélyeztek volna. A születési nevet, illetve a házassági nevet érintő adatváltozás időpontja ilyen esetben megegyezik a házasságkötés időpontjával, vagy ennek hiányában a haláleset időpontjával.
+
+(4) Az elhalt magyar állampolgár házastársa vagy leszármazója kérelmezheti, hogy az elektronikus anyakönyvbe bejegyzett adatokat az elhalt személy születését nyilvántartó anyakönyvvezető a (3) bekezdés rendelkezései alapján vizsgálja felül. A születést nyilvántartó anyakönyvvezető az adatváltozás anyakönyvbe történő bejegyzésével egyidejűleg az adatváltozásról haladéktalanul értesíti az elhalt személy házasságát, továbbá a halálesetét nyilvántartó anyakönyvvezetőt.
+
+(5) Amennyiben az elhalt magyar állampolgár külföldön történt születését a Magyarországon őrzött papír alapú anyakönyv nem tartalmazza, az elhalt magyar állampolgár születési nevét a házassági anyakönyvi bejegyzése, ennek hiányában a személyiadat- és lakcímnyilvántartás vagy – azon személy esetében, akinek az adatait a személyiadat- és lakcímnyilvántartás sem tartalmazza – a magyar útlevél igazolja.
+
 ### A születési név
 
 44. § (1) A születési név az a név, amely az érintettet az anyakönyvi bejegyzés alapján megilleti. A magyar állampolgár születési neve családi és utónévből áll.
@@ -552,11 +558,17 @@ az irányadó.
 
 (2) Az utónév módosítására irányuló eljárásban az At. 49. § (2a)–(3) bekezdését, az 50. § (1) bekezdését, valamint az 50. § (2) bekezdés a)–c) pontját megfelelően alkalmazni kell.
 
-45. § (1) Az elektronikus anyakönyvbe magyar állampolgárnak – a (2) bekezdésben foglalt kivétellel – két utónevet lehet bejegyezni. Annak a magyar állampolgárnak, akinek a papír alapú születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, írásban nyilatkoznia kell, hogy melyik két utónevét vagy kizárólagosan melyik utónevét kívánja viselni. A nyilatkozattal az anyakönyvi bejegyzésben szereplő utónevek sorrendje módosítható. Ha az érintett személy a nyilatkozatot nem teszi meg, az elektronikus anyakönyvbe a papír alapú anyakönyvben szereplő utónevei közül az első kettőt kell bejegyezni.
+44/B. § (1) Annak a magyar állampolgárnak, akinek a születési anyakönyvi bejegyzésében és a személyiadat- és lakcímnyilvántartásban szereplő születési családi neve vagy utóneve eltér, és a személyazonosságot igazoló hatósági igazolványa alapján megállapítható, hogy a nevét a kért formában használta, kérelmére az anyakönyvvezető a születési nevét érintő adatváltozást az elektronikus anyakönyvbe bejegyzi.
+
+(2) A szülő családi nevének változtatása a szülő családi nevét viselő kiskorú gyermek családi nevére is kiterjed.
+
+(3) Ha a kérelmező nevét a házastársa házassági névként viseli, az adatváltozás hatálya rá is kiterjed.
+
+45. § (1) Az elektronikus anyakönyvbe magyar állampolgárnak – a (2) bekezdésben foglalt kivétellel – két utónevet lehet bejegyezni. Annak a magyar állampolgárnak, akinek a papír alapú születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, a személyiadat- és lakcímnyilvántartásban szereplő egy vagy két utónevet kell bejegyezni. Annak a magyar állampolgárnak, akinek az adatait a személyiadat- és lakcímnyilvántartás nem tartalmazza, írásban nyilatkoznia kell, hogy melyik két utónevét vagy kizárólagosan melyik utónevét kívánja viselni.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a magyar állampolgár nevének viselésére a más állampolgársága szerinti jog alapján jogosult.
 
-(3) Elhalt magyar állampolgár esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága anyakönyvi bejegyzését, ennek hiányában a személyazonosság igazolására alkalmas hatósági igazolványban szereplő utóneveket kell a viselt utónevek tekintetében alapul venni. Amennyiben az elhalt személy személyazonosság igazolására alkalmas hatósági igazolványa kizárólag egy utónevet tartalmaz, a haláleset anyakönyvezésekor az elhalt személy születési anyakönyvi bejegyzésben szereplő első két utónevet kell anyakönyvezni.
+(3) Elhalt magyar állampolgár esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága esetén a házassági anyakönyvi bejegyzésében, ennek hiányában a személyazonosság igazolására alkalmas hatósági igazolványában szereplő egy vagy két utónevet kell az elektronikus anyakönyvbe bejegyezni.
 
 (4)
 
@@ -687,7 +699,7 @@ az irányadó.
 
 51. § (1) A névváltoztatási iratok nem selejtezhetők, őrzésükről a Magyar Nemzeti Levéltár az adatvédelmi szabályok megtartásával és – a (2) bekezdésben meghatározottak szerint – az anyakönyvi szerv gondoskodik.
 
-(2) A 2015. április 1. napját követően lezárult névváltoztatási ügy iratanyagát három évig az anyakönyvi szerv őrzi, ezt követően átadja a Magyar Nemzeti Levéltárnak.
+(2) A 2015. április 1. napját követően lezárult névváltoztatási ügy iratanyagát a levéltári átadásig az anyakönyvi szerv őrzi, ezt követően átadja a Magyar Nemzeti Levéltárnak.
 
 #### 52. §
 
@@ -703,7 +715,9 @@ az irányadó.
 
 55. § (1) Az anyakönyvbe korábban bejegyzett betűjel és a családi név részét nem képező ragadványnév – az 53. §-ban és a (2)–(5) bekezdésben foglaltak szerint – a családi név korrekciója esetén viselhető. Az elektronikus anyakönyvbe történő bejegyzést megelőzően, az anyakönyvvezető erre irányuló felhívásának kézhezvételétől számított tizenöt napon belül az érintett, nyilatkozatával kérheti családi nevének korrekcióját. Ha az érintett úgy nyilatkozik, hogy az anyakönyvbe korábban bejegyzett betűjelet, illetve a családi név részét nem képező ragadványnevet nem kívánja viselni, vagy nem tesz nyilatkozatot, az anyakönyvbe korábban bejegyzett betűjel és a családi név részét nem képező ragadványnév nem viselhető. A családi név korrekciója iránti eljárás a határidő lejártát követően is bármikor kezdeményezhető.
 
-(1a)
+(1a) Az ä betű helyett eltérő betűvel bejegyzett születési családi nevet, házassági nevet viselő személy családi név korrekciójára irányuló eljárásban kérheti a saját vagy az egyenes ági felmenője születési anyakönyvi bejegyzésében szereplő ä betű bejegyzését. Az elektronikus anyakönyvbe történő bejegyzést megelőzően, az anyakönyvvezető erre irányuló felhívásának kézhezvételétől számított tizenöt napon belül az érintett nyilatkozatával kérheti családi nevének korrekcióját. Ha az érintett úgy nyilatkozik, hogy az anyakönyvbe korábban bejegyzett ä betűt tartalmazó családi nevet nem kívánja viselni, vagy nem tesz nyilatkozatot, az ä betű anyakönyvbe történő bejegyzését mellőzni kell. A családi név korrekciója iránti eljárás a határidő lejártát követően is bármikor kérelmezhető.
+
+(1b) Az (1a) bekezdéstől eltérően az anyakönyvvezető mellőzi a nyilatkozattételre történő felhívást, amennyiben az érintett személy személyiadat- és lakcímnyilvántartásba bejegyzett családi neve tartalmazza az ä betűt. Az anyakönyvvezető ebben az esetben hivatalból, a személyiadat- és lakcímnyilvántartás által igazolt adattal jegyzi be a családi név korrekcióját.
 
 (2) A születési anyakönyvbe 1953. január 1-je előtt bejegyzett megkülönböztető betűjelet az érintett akkor jogosult és köteles viselni, ha az erre irányuló nyilatkozatát az anyakönyv tartalmazza.
 
@@ -797,7 +811,7 @@ az irányadó.
 
 - a) bejelenti – a kormányrendeletben meghatározott adatok megküldésével – a születést,
 - b) továbbítja a hivatalos statisztikáról szóló törvény végrehajtásáról szóló rendeletben meghatározott, intézetben rögzített születési statisztikai adatokat,
-- c) továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött – kivéve titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén – hivatalból kiadásra kerülő állandó személyazonosító igazolványához szükséges adatokat, valamint
+- c) továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött – kivéve titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén – hivatalból kiadásra kerülő állandó személyazonosító igazolványához szükséges adatokat.
 - d)
 
 (4) Az intézeten kívüli születést a szülő, tervezett intézeten kívüli szülés esetén az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személy jelenti be.
@@ -883,7 +897,7 @@ megismerni.
 
 (4) Amennyiben az anya sem a bejelentés során, sem az anyakönyvvezető felhívásától számított tizenöt napon belül nem igazolja a személyazonosságát, vagy a szülő a bejelentési kötelezettségének az anyakönyvvezető felhívására sem tesz eleget, a születés anyakönyvezésére az ismeretlen szülőktől származó gyermekre irányadó rendelkezéseket kell alkalmazni.
 
-(5) Amennyiben az elhunyt személyazonosságának igazolására személyazonosságot igazoló hatósági igazolvány okmányazonosítója nem áll rendelkezésre és az elhunyt személyazonosságának tisztázására tett intézkedés nem vezetett eredményre, a haláleset anyakönyvezésére az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
+(5) Amennyiben az elhalt személyazonosságának igazolására személyazonosságot igazoló hatósági igazolvány okmányazonosítója nem áll rendelkezésre és az elhalt személyazonosságának tisztázására tett intézkedés nem vezetett eredményre, a haláleset anyakönyvezésére az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
 
 (6) Az anyakönyvvezető a házasságot és a bejegyzett élettársi kapcsolatot annak létrejöttét követően haladéktalanul anyakönyvezi.
 
@@ -931,7 +945,9 @@ megismerni.
 
 (2) A magyar állampolgár a születésének hazai anyakönyvezése során kérheti utónevének a külföldi anyakönyvi okiratban szereplő utónévnek megfelelő magyar utónévre történő átírását.
 
-(3)
+(3) Elhalt magyar állampolgár külföldön történt születésének vagy házasságkötésének a hazai anyakönyvezése során a születési nevet, valamint a házassági nevet – nyilatkozat hiányában – a személyiadat- és lakcímnyilvántartásban nyilvántartott adattal kell bejegyezni az anyakönyvbe.
+
+(3a) Az elhalt magyar állampolgár házastársa vagy leszármazója kérelmezheti, hogy az elektronikus anyakönyvbe bejegyzett adatokat az anyakönyvi szerv a (3) bekezdés rendelkezései alapján vizsgálja felül. Az anyakönyvi szerv az adatjavítás anyakönyvbe történő bejegyzésével egyidejűleg az adatjavításról haladéktalanul értesíti az elhalt személy házasságát, továbbá a halálesetét nyilvántartó anyakönyvvezetőt.
 
 (4) A hazai anyakönyvezés során a magyar állampolgár kérelmezheti utónevének a 44/A. § (1) bekezdése szerinti módosítását.
 
@@ -994,6 +1010,8 @@ megismerni.
 (3) Az (1) bekezdés b) pont be) alpontjában meghatározott adat nem változtatható meg.
 
 (4) Az anyakönyvbe korábban bejegyzett, a szülő nemének és ahhoz kapcsolódóan az utónevének a megváltozása a gyermek személyazonosító adatainál nem vezethető át adatváltozásként.
+
+(5) Amennyiben az érintett születési anyakönyvi bejegyzése vagy a személyiadat- és lakcímnyilvántartás az érintett anyjának születési családi és utónevét az elhalt anyja születési anyakönyvi bejegyzésétől eltérő adatokkal tartalmazza, az érintett kérelmezheti, hogy az anyja nevét a személyiadat- és lakcímnyilvántartás vagy a személyazonosító igazolványa által igazolt adattal jegyezzék be.
 
 69/C. § (1) Az elektronikus anyakönyv a születéssel kapcsolatban nyilvántartja
 
@@ -1079,7 +1097,7 @@ megismerni.
 
 69/I. § Az anyakönyvi alapiratok nem selejtezhetők, őrzésükről és nyilvántartásukról az anyakönyvvezető és a Magyar Nemzeti Levéltár az adatvédelmi szabályok megtartásával, továbbá – a 69/J. §-ban meghatározottak szerint – a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv, valamint az elektronikus anyakönyvi alapiratok tekintetében a nyilvántartó szerv gondoskodik.
 
-69/J. § A 2015. április 1. napját követően keletkezett anyakönyvi alapiratot három évig a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv őrzi és tartja nyilván.
+69/J. § A 2015. április 1. napját követően keletkezett anyakönyvi alapiratot a levéltári átadásig a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv őrzi és tartja nyilván.
 
 ### Az apai elismerő nyilatkozatok nyilvántartása
 
@@ -1521,7 +1539,7 @@ foglalt adatait tartja nyilván.
 
 (5) Az állandó személyazonosító igazolvány kiadása céljából az eljáró hatóság az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a személy származási helyét, ha annak az állandó személyazonosító igazolványon történő feltüntetését a polgár kérelmezte.
 
-(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (10) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.
+(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (7a) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.
 
 81/E. § (1) A 81/B. § (1) bekezdés a) pontjában meghatározott célból a külpolitikáért felelős miniszter, a 81/C. § (1) bekezdés d) pontjában meghatározott célokból – a hagyatéki eljárás lefolytatása kivételével – a közjegyző, és a 81/D. § (1) bekezdésében meghatározott célokból az ott felsorolt szervek az örökbefogadott személynek csak az örökbefogadás következtében változatlan, valamint az örökbefogadás tényére utaló adatok kivételével az örökbefogadás következtében megváltozott adatait ismerhetik meg.
 
@@ -1543,7 +1561,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (1d) A nyilvántartó szerv a 27. § (3) bekezdésében meghatározott esetben, valamint ha a hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiadásának akadálya van, haladéktalanul törli a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához felvételezett arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot.
 
-(2) Ha az anyakönyv és a személyiadat- és lakcímnyilvántartás adattartalma eltér, az ellenkező bizonyításáig az anyakönyvet kell hitelesnek tekinteni.
+(2) Ha az anyakönyv és a személyiadat- és lakcímnyilvántartás adattartalma eltér, az e törvényben foglalt eltérő rendelkezés hiányában, ellenkező bizonyításig az anyakönyvet kell hitelesnek tekinteni.
 
 (3) Törvény eltérő rendelkezése hiányában az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv a papír alapú anyakönyvbe, valamint az anyakönyvi alapiratokba történő betekintésről, a papír alapú anyakönyvből történő adatátvételről, valamint a papír alapú anyakönyvi alapiratról történő másolat készítéséről hivatalos feljegyzést készít, amely tartalmazza a betekintő személy nevét, azt, hogy mely állami vagy önkormányzati szerv nevében jár el, valamint a betekintés célját és jogalapját.
 
@@ -1595,7 +1613,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 89. § (1)
 
-(2)
+(2) Az anyakönyvi szerv, valamint a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az 1980. december 31-ig vezetett anyakönyvben található bejegyzés lezárásáról a bejegyzés folyószámának és az anyakönyv azonosító adatainak továbbításával, papír alapú anyakönyvenkénti bontásban évente, március hó utolsó napjáig az illetékes közlevéltárat az elektronikus anyakönyvi nyilvántartás informatikai rendszeréből kiállított jegyzékkel értesíti.
 
 (3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
 
@@ -1653,23 +1671,25 @@ haladéktalanul értesíti a személyiadat- és lakcímnyilvántartást kezelő 
 
 ### Az anyakönyv kutathatósága
 
-93/A. § (1) Az anyakönyvbe bejegyzett adatok
+93/A. § (1) Az anyakönyvek,
 
-- a) az érintett halálozási évét követő harminc év,
-- b) ha a halálozás éve nem ismert, az érintett születésétől számított száz év, vagy – ha az későbbi – a bejegyzés keletkezésétől számított hetvenöt év,
-- c) ha sem a születés, sem a halálozás időpontja nem ismert, a bejegyzés keletkezésétől számított hetvenöt év után
+- a) halotti anyakönyv esetében az anyakönyv keletkezési évét követő harminc év,
+- b) születési anyakönyv esetében az anyakönyv keletkezési évét követő száztíz év,
+- c) házassági anyakönyv esetében az anyakönyv keletkezési évét követő nyolcvanhat év
 
-válnak bárki számára kutathatóvá.
+után válnak bárki számára kutathatóvá.
 
-(2) Az (1) bekezdésben meghatározott védelmi idő lejárta előtt is kutatható az anyakönyv, ha
+(2) Az anyakönyv keletkezési évének az anyakönyv lezárásának évét kell tekinteni.
 
-- a) a kutatáshoz saját bejegyzése tekintetében az érintett, az érintett halálát követően leszármazója, leszármazó hiányában bármely, a Polgári Törvénykönyv szerinti hozzátartozója, hozzátartozó hiányában más örököse a kutató kérésére hozzájárult,
-- b) a kutató a hozzájárulás megadására az a) pont szerint jogosult személy, vagy
-- c) a kutatás – a kérelmező költségére – anonimizált másolattal is megvalósítható.
+(3) Az (1) bekezdésben meghatározott védelmi idő lejárta előtt is jogosult az anyakönyvi bejegyzés megismerésére
 
-(3) A (2) bekezdés a) pontjában meghatározott hozzájárulás megadásakor a hozzájáruló személy írásban nyilatkozik a kutató által megismerhető személyes adat – kutatás célja szerinti – felhasználásának elfogadásáról, valamint a személyes adatot tartalmazó iratok másolhatóságáról.
+- a) a kutató a saját bejegyzése tekintetében, vagy
+- b) ha ahhoz az érintett, az érintett halálát követően leszármazója, leszármazó hiányában bármely, a Polgári Törvénykönyv szerinti hozzátartozója, hozzátartozó hiányában más örököse írásban hozzájárult.
 
-(4) Különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel, kivéve, ha az érintett vagy az érintett halálát követően leszármazója ahhoz hozzájárult, vagy a kutatást ő végzi.
+(4) Különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel az érintett halálát követő 60 éven belül, kivéve, ha
+
+- a) a kutatás az (5) bekezdésben foglalt módon tudományos célból történik, vagy
+- b) az adat rögzítésére az érintett, annak halálát követően bármely örököse, a Polgári Törvénykönyv szerinti közeli hozzátartozója által, illetve az általuk erre felhatalmazott személy által kerül sor.
 
 (5) Ha a kutató a kutatást tudományos célból végzi, a kutatás a bejegyzés keletkezését követő harminc év elteltével az (1) bekezdésben meghatározott védelmi időn belül is lefolytatható, feltéve, hogy a kutatás a közlevéltárakról szóló törvényben meghatározott, a kutatási tervre és az arra jogosult intézmény támogató állásfoglalására, továbbá a személyes adatok kezelésére vonatkozó előírásoknak és a (4) bekezdésben foglaltaknak megfelel.
 

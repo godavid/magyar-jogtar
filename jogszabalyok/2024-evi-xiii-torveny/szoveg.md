@@ -10,15 +10,29 @@ oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módo
 
 #### 2. §
 
-#### 3.
+#### 3. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-#### 3. §
+3. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 15. § (15) bekezdése helyébe a következő rendelkezés lép:
 
-#### 4. §
+„(15) A pedagógus-munkakörben foglalkoztatott személyt évi huszonegy munkanap alapszabadság, és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.”
 
-#### 5. §
+4. § A Gyvt. 42. § (3a) bekezdése helyébe a következő rendelkezés lép:
 
-#### 6. §
+„(3a) A sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátása történhet teljes integráció keretében a többi gyermekkel közös bölcsődei csoportban vagy részleges integráció keretében speciális bölcsődei csoportban a Bölcsődei nevelés-gondozás országos alapprogramjában foglaltak szerint.”
+
+5. § A Gyvt.
+
+- a) 143. § (6) bekezdésében a „Gazdaságfejlesztési és Innovációs Operatív Programból” szövegrész helyébe a „kisgyermeket nevelők munkaerőpiaci visszatérésének célzott támogatására irányuló, továbbadott támogatási programból” szöveg,
+- b) 162. § (1) bekezdés s) pontjában a „részletes szabályait” szövegrész helyébe a „részletes, felhasználásának egyéb kiegészítő szabályait” szöveg
+
+lép.
+
+6. § Hatályát veszti a Gyvt.
+
+- a) 139. § (2) bekezdés g) pontja,
+- b) 139. § (3) bekezdés a) pontjában az „és a gyermek törvényes képviselője a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban nem részesül,” szövegrész,
+- c) 145. § (2c) bekezdés c) pont cd) alpontja,
+- d) 145. § (2e) bekezdésében az „ , illetve átadáson” szövegrész.
 
 #### 4. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
