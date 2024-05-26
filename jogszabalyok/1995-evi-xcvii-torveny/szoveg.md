@@ -1549,6 +1549,7 @@ A. alrészének végrehajtása érdekében ellenőrzési rendszert alakít ki.
 - h) zajkorlátozásra
 - i) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) hatálya alá tartozó jogsértő magatartások kivételével a pilóta nélküli légijármű üzemeltetésére
 - j) repülőtérrendre, valamint repülőtéri kézikönyvre, illetve ezekben meghatározottak alkalmazására
+- k) a fenntartható légijármű-üzemanyagokra
 
 vonatkozó rendelkezések megsértőivel szemben 100 000 000 Ft-ig terjedő bírság szabható ki. Nincs helye a légiközlekedési bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.
 
@@ -1559,7 +1560,7 @@ vonatkozó rendelkezések megsértőivel szemben 100 000 000 Ft-ig terjedő bír
 
 folytatja le.
 
-(2a) A bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – a jogsértés veszélyességének mértékére tekintettel kell meghatározni.
+(2a) A bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – a jogsértés veszélyességének mértékére tekintettel, valamint az (1) bekezdés k) pontja esetén a fenntartható légi közlekedés egyenlő versenyfeltételeinek biztosításáról szóló, 2023. október 18-i (EU) 2023/2405 európai parlamenti és tanácsi rendelet 12. cikkében foglaltakra tekintettel kell meghatározni.
 
 (2b) A pilóta nélküli légijármű-rendszer üzembentartója, és a (2d) bekezdés szerinti esetben a pilóta nélküli légijárművet használatba vevő személy felelős az általa üzemben tartott vagy használt pilóta nélküli légijármű üzembentartására, használatára vonatkozó – jogszabályokban meghatározott – előírások betartásáért. A légiközlekedési hatóság által vezetett nyilvántartásba nem vett pilóta nélküli légijárművel elkövetett jogsértésért az elkövető személy felelős.
 
