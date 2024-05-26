@@ -465,7 +465,7 @@ oktatása, szakképzése és utánképzése
 
 (6) Az utánképzésen nem kell részt vennie a járművezetőnek, ha
 
-- a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az a vezetői engedély visszavonásával nem jár;
+- a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki;
 - b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
 (7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság összege legfeljebb 13 000 000 Ft lehet, a bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
@@ -728,7 +728,7 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 20. § (1) Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban
 
 - a) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött belföldi vagy nemzetközi közúti közlekedési szolgáltatásra (árufuvarozásra és személyszállításra),
-- b) a meghatározott okmány meglétéhez kötött saját számlás személyszállításra,
+- b) a meghatározott okmány meglétéhez kötött saját számlás személyszállításra, továbbá a saját számlás áruszállítás feltételeire,
 - c) a közúti szállítás szociális előírásaira, a vezetési időre, a szünetre, illetve a megszakításra és a pihenőidőre,
 - d) a közúti közlekedésben használt menetíró készülék és tachográf-korong, valamint a digitális tachográfokhoz szükséges kártyák használatára,
 - e) a veszélyes áruk szállítására, a szállítóra (fuvarozóra), a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyesáru-szállítási biztonsági tanácsadóra,
@@ -769,7 +769,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 13 000 forinttól 1 040 000 forintig, a k) és m) pontokban foglalt esetben 13 000 forinttól 390 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 13 000 forinttól 1 500 000 forintig, a k) és m) pontokban foglalt esetben 13 000 forinttól 390 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m), p) vagy q) pontjában, vagy a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) és q) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja a (4) bekezdés szerinti közigazgatási bírság összegével megegyező összegben közigazgatási bírságként helyszíni bírságot szabhat ki.
 
@@ -874,7 +874,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
 - a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 13 000 forinttól 390 000 forintig,
-- b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 040 000 forintig
+- b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 500 000 forintig
 
 terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 
