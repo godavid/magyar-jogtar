@@ -8,13 +8,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 2. §
 
-3. § A közúti közlekedésről szóló 1988. évi I. törvény 20. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban)
-
-„b) a meghatározott okmány meglétéhez kötött saját számlás személyszállításra, továbbá a saját számlás áruszállítás feltételeire,”
-
-(vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.)
+#### 3. §
 
 #### 4. §
 
@@ -39,14 +33,14 @@ egyes közlekedési tárgyú törvények módosításáról
 10. § A közúti közlekedésről szóló 1988. évi I. törvény
 
 - a)
-- b) 20. § (4) bekezdésében az „1 040 000” szövegrész helyébe az „1 500 000” szöveg,
-- c) 21. § (2) bekezdés b) pontjában az „1 040 000” szövegrész helyébe az „1 500 000” szöveg,
+- b)
+- c)
 - d)
 - e)
 - f)
 - g)
 
-11. § Hatályát veszti a közúti közlekedésről szóló 1988. évi I. törvény 18. § (6) bekezdés a) pontjában az „ , és az a vezetői engedély visszavonásával nem jár” szövegrész.
+#### 11. §
 
 #### 2. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
@@ -54,17 +48,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 13. §
 
-14. § (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 66/A. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(E törvényben, az e törvény felhatalmazása alapján kiadott rendeletben és az Európai Unió rendeletében előírt)
-
-„k) a fenntartható légijármű-üzemanyagokra”
-
-(vonatkozó rendelkezések megsértőivel szemben 100 000 000 Ft-ig terjedő bírság szabható ki. Nincs helye a légiközlekedési bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.)
-
-(2) A légiközlekedésről szóló 1995. évi XCVII. törvény 66/A. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A bírság összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – a jogsértés veszélyességének mértékére tekintettel, valamint az (1) bekezdés k) pontja esetén a fenntartható légi közlekedés egyenlő versenyfeltételeinek biztosításáról szóló, 2023. október 18-i (EU) 2023/2405 európai parlamenti és tanácsi rendelet 12. cikkében foglaltakra tekintettel kell meghatározni.”
+#### 14. §
 
 #### 15. §
 
