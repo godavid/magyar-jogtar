@@ -52,7 +52,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 2/A. § A Nemzeti Földalapba tartozó földrészlet vagyonkezelésbe adását törvény elrendelheti az abban meghatározott szervezet részére. A törvényben kell rendelkezni a vagyonkezelésbe adás és a vagyonkezelői jog gyakorlásának feltételeiről.
 
-3. § (1) A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Földügyi Központ (a továbbiakban: NFK) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot – törvény eltérő rendelkezése hiányában – az NFK képviseli.
+3. § (1) A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium mint a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot – törvény eltérő rendelkezése hiányában – az NFK képviseli.
 
 (2) A tulajdonosi jogok gyakorlása kiterjed a tulajdonjoghoz kapcsolódó vagyoni értékű jogok gyakorlására is.
 
@@ -66,61 +66,17 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (4) A (3) bekezdés szerinti ingatlanokra vonatkozó döntést megelőzően meg kell állapítani az ingatlan egészének elsődleges rendeltetését, valamint a hasznosítással elérhető fő célkitűzéseket, és legkedvezőbb előnyöket.
 
-### A Nemzeti Földügyi Központ
+### A Birtokpolitikai Tanács
 
-4. § (1) Az NFK a miniszter irányítása alatt álló központi költségvetési szerv.
-
-(2) Az NFK elnökét a miniszter nevezi ki és menti fel. Az NFK elnökhelyetteseit az elnök javaslatára a miniszter nevezi ki és menti fel.
-
-(3) Az NFK elnöke és elnökhelyettese magyar állampolgár lehet. Az NFK elnöke, és elnökhelyettese nem lehet
-
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, vármegyei közgyűlés tagja, politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
-- b)
-- c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFK-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
-
-(4) Az NFK elnökének és elnökhelyettesének e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
-
-(5) Az NFK elnökére, elnökhelyetteseire és alkalmazottaira a kormányzati igazgatásról szóló törvénynek a kormánytisztviselőkre vonatkozó rendelkezései, az NFK álláshelyeire pedig a kormányzati igazgatási létszámgazdálkodásra vonatkozó rendelkezései irányadók.
-
-(6) Az NFK elnöke a miniszter által vezetett minisztérium közigazgatási államtitkárával azonos összegű illetményre jogosult.
-
-(7) Az NFK elnökhelyettese a miniszter által vezetett minisztérium helyettes államtitkárával azonos összegű illetményre jogosult.
-
-(8)
-
-(9) Az NFK szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
+#### 4. §
 
 #### 5. §
 
-6. § A miniszter a 3. §-ban foglaltakon túl
+#### 6. §
 
-- a) kiadja az NFK alapító okiratát, valamint jóváhagyja a szervezeti és működési szabályzatát;
-- b) gyakorolja az NFK elnöke, a kinevezés és a felmentés tekintetében az NFK elnökhelyettesei felett a munkáltatói jogokat;
-- c) jóváhagyja a 8. § (1) bekezdés c) pontjában meghatározott éves tervet;
-- d) előterjeszti a Kormány részére elfogadás céljából a 8. § (1) bekezdés a) pontjában foglalt középtávú stratégiai tervet;
-- e) dönt az NFK költségvetési előirányzatával kapcsolatos előterjesztésekről;
-- f) kinevezi a Birtokpolitikai Tanács (a továbbiakban: Tanács) elnökét és tagjait;
-- g) jóváhagyja a Tanács ügyrendjét.
+#### 7. §
 
-7. § (1) Az NFK elnöke
-
-- a) vezeti az NFK-t;
-- b) javaslatot tesz a miniszternek az NFK elnökhelyettesének kinevezésére és felmentésére;
-- c) az NFK alkalmazottai felett, valamint – a kinevezés és a felmentés kivételével – az NFK elnökhelyettesei felett gyakorolja a munkáltatói jogokat;
-- d) a 8. § (1) bekezdés d)–f) és h) pontjaiban foglaltak kivételével dönt – a Tanács javaslatának figyelembevételével – a Nemzeti Földalapba tartózó földrészletek hasznosításával kapcsolatos kérdésekben;
-- e) a d) pontban foglaltak kivételével dönt az NFK-t érintő kötelezettség-vállalásról;
-- f) elkészíti az NFK-nak az államháztartás számviteléről szóló kormányrendelet szerinti elemi költségvetési beszámolóját, valamint a rábízott földvagyonról szóló éves beszámolóját;
-- g) képviseli az NFK-t harmadik személyekkel szemben;
-- h)
-- i) felelős a Tanács döntéseinek végrehajtásáért;
-- j) felelős a Nemzeti Földalapba tartozó földrészletek naprakész nyilvántartásáért;
-- k) felelős a Nemzeti Földalapba tartozó földrészletek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
-- l) meghatározza a rábízott földvagyon számviteli politikáját;
-- m) a Tanács titkára.
-
-(2) Az NFK elnöke ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
-
-8. § (1) A Tanács:
+8. § (1) A Birtokpolitikai Tanács (a továbbiakban: Tanács)
 
 - a) elkészíti a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos – a földbirtok-politikai irányelveken alapuló – középtávú stratégiai tervét;
 - b) érvényre juttatja az NFK-nak a Nemzeti Földalap feletti tevékenysége során a Kormány által elfogadott középtávú stratégiát;
@@ -130,11 +86,11 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 5 millió forintot;
 - g)
 - h) az MNV Zrt.-vel vagy – a Vtv. 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH-val közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint;
-- i) javaslatot tesz az NFK elnöke által előterjesztett és a d)–f) és h) pontokba foglalt esetek alá nem tartozó, a földrészletek hasznosításával kapcsolatos kérdésekben.
+- i) javaslatot tesz a földrészletek hasznosításával kapcsolatos egyéb kérdésekben.
 
-(2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
+(2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a miniszter által jóváhagyott ügyrendben részére meghatározott feladatokat.
 
-(3) A Tanács tagja – a Tanács elnöke és az NFK elnöke kivételével – tevékenységéért a miniszter által vezetett minisztérium helyettes államtitkári illetményének megfelelő összegű tiszteletdíjban részesül. A Tanács elnöke tevékenységéért a miniszter által vezetett minisztérium közigazgatási államtitkári illetményének megfelelő összegű tiszteletdíjban részesül.
+(3) A Tanács tagja – a Tanács elnöke kivételével – tevékenységéért a miniszter által vezetett minisztérium helyettes államtitkári illetményének megfelelő összegű tiszteletdíjban részesül. A Tanács elnöke tevékenységéért a miniszter által vezetett minisztérium közigazgatási államtitkári illetményének megfelelő összegű tiszteletdíjban részesül.
 
 9. § (1) A Tanács a jogait és kötelezettségeit testületként gyakorolja.
 
@@ -146,7 +102,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (5) A Tanács működésével kapcsolatos költségeket az NFK működési költségeitől elkülönítetten kell kezelni.
 
-(6) A Tanács üléséről összefoglaló készül, melynek az NFK honlapján történő közzétételéről az NFK elnöke az ülés napjától számított öt munkanapon belül gondoskodik. Az összefoglaló tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá a Tanács által hozott döntést tartalmazó iratoknak a Tanács elnöke általi aláírással ellátott eredeti egy-egy példányát.
+(6) A Tanács üléséről összefoglaló készül, melynek a miniszter által vezetett minisztérium honlapján történő közzétételéről a Tanács elnöke az ülés napjától számított öt munkanapon belül gondoskodik. Az összefoglaló tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá a Tanács által hozott döntést tartalmazó iratoknak a Tanács elnöke általi aláírással ellátott eredeti egy-egy példányát.
 
 10. § (1) A Tanács elnökét és további hat tagját a miniszter nevezi ki.
 
@@ -158,17 +114,17 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) A Tanács tagjának e megbízatásával összeférhetetlen az is, ha a (2) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
-11. § (1) Az NFK elnöke, elnökhelyettese, a Tanács tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó földrészletet érintően szerződést az NFK-val nem köthet.
+11. § (1)
 
 (2)
 
-(3) Nem vonatkozik az (1) és (2) bekezdés arra az esetre, ha az adásvételi (haszonbérleti) szerződés megkötésére jogszabályon alapuló elővásárlási (előhaszonbérleti) jog alapján kerül sor.
+(3)
 
-(4) Az NFK elnöke, elnökhelyettese, a Tanács tagja mint az állami vagyonnal való gazdálkodás tekintetében javaslattételi, döntési vagy ellenőrzési joggal rendelkező személy, az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény szerint köteles vagyonnyilatkozatot tenni.
+(4) A Tanács tagja mint az állami vagyonnal való gazdálkodás tekintetében javaslattételi, döntési vagy ellenőrzési joggal rendelkező személy, az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény szerint köteles vagyonnyilatkozatot tenni.
 
-12. § (1) Az NFK elnöke, a Tanács tagja a feladatait az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, e törvényben foglaltak és az állam érdekeinek elsődlegessége alapján köteles ellátni.
+12. § (1) A Tanács tagja a feladatait az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, e törvényben foglaltak és az állam érdekeinek elsődlegessége alapján köteles ellátni.
 
-(2) Az NFK elnöke korlátlanul felel a Magyar Állammal és az NFK-val szemben a jogszabályok megsértésével, a kötelezettségei felróható megszegésével okozott károkért. A Tanács tagjai – a Polgári Törvénykönyv közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az NFK-val szemben a jogszabályok megsértésével, s kötelezettségeik felróható megszegésével okozott károkért. Mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a döntés ellen szavazott.
+(2) A Tanács tagjai – a Polgári Törvénykönyv közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az NFK-val szemben a jogszabályok megsértésével, s kötelezettségeik felróható megszegésével okozott károkért. Mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a döntés ellen szavazott.
 
 13. § (1) A Tanács tagjának megbízatása megszűnik:
 
@@ -188,7 +144,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (5) A Tanács tagja a (4) bekezdés b) pontjában megjelölt esetben az összeférhetetlenség megszüntetéséig a tisztségéből eredő jogkörét nem gyakorolhatja.
 
-### A Földügyi Központ tevékenységének ellenőrzése
+### A Nemzeti Földalap ellenőrzése
 
 14. § (1) A Nemzeti Földalap feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
@@ -683,25 +639,17 @@ adható.
 
 33. § E törvény 2010. szeptember 1-jén lép hatályba.
 
-34. § (1) A miniszter az NFK megalapítása érdekében szükséges intézkedéseket, valamint az NFK elnökének, elnökhelyettesének, a Tanács elnökének és – a jelölő miniszterekkel együtt – tagjainak kinevezésével kapcsolatos intézkedéseket legkésőbb az e törvény hatálybalépését követő napig megteszi. Az Országgyűlés mezőgazdasági ügyekkel foglalkozó bizottsága az ellenőrző bizottság tagjait legkésőbb az e törvény hatálybalépését követő napig megválasztja.
+34. § (1)
 
-(2) Az e törvény hatálya alá tartozó ingatlanokkal kapcsolatos jogok és kötelezettségek tekintetében az NFK a létrejöttének napjával jogutódja az MNV Zrt.-nek. A jogok és kötelezettségek átszállása nem minősül az MNV Zrt. által kötött szerződések módosításának. Az NFK e törvény szerinti megalapítása nem minősül a munkáltató személyében bekövetkező jogutódlásnak.
+(2)
 
-(3) A feladatátadás végrehajtása érdekében az MNV Zrt.
+(3)
 
-- a) a számviteli törvény és az egyéb vonatkozó jogszabályok alapján a saját és a rábízott vagyonára vonatkozóan 2010. augusztus 31-i fordulónappal 2010. november 30. napjáig közbenső mérleget, vagyonmérleget és a közvetlenül kezelt eszközöket és forrásokat alátámasztó leltárt készít azzal, hogy a közbenső mérleg mérlegkészítési időpontja 2010. szeptember 30. napja,
-- b) feladata az e törvény hatálya alá tartozó, az MNV Zrt. közvetlenül kezelt eszközei közé nem tartozó ingatlanok nyilvántartása 2010. december 31. napjáig azzal, hogy ezen vagyonra vonatkozóan a beszámoló, a vagyonmérleg és az azt alátámasztó leltár elkészítésére a számviteli törvény és az egyéb vonatkozó jogszabályok alapján – a saját és a rábízott vagyonára vonatkozóan – az MNV Zrt. saját vagyonával és a rábízott vagyonnal kapcsolatos éves beszámoló készítési és könyvvezetési kötelezettségéről szóló rendeletben meghatározottak szerint kerül sor,
-- c) elvégzi mindazon feladatokat, melyeket számára a számviteli, az adózási vagy egyéb jogszabályok előírnak,
-- d) a folyamatban lévő ügyekről a törvény hatálybalépését követő 5 napon belül tájékoztatást készít,
-- e) a hatályos szerződéseiről jegyzéket készít és azok iratanyagát a törvény hatálybalépését követő 5 napon belül átadásra előkészíti,
-- f) a folyamatban lévő ügyek iratairól, valamint a minősített adatot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti,
-- g) a folyamatban lévő ügyekből eredő pénzügyi követelésekkel és kötelezettségekkel az NFK-val 2010. december 31. napjáig elszámol.
+(4)
 
-(4) A (3) bekezdésben foglaltak nem érintik e törvény 3. §-ában foglalt jogosultságokat, valamint azt, hogy az érintett vagyoni kör tekintetében a tulajdonosi jogok és kötelezettségek gyakorlására az e törvényben foglaltakat kell alkalmazni.
+(5)
 
-(5) A társadalombiztosítás pénzügyi alapjainak kezelésében levő, a Magyar Állam tulajdonában álló termőföldet, valamint mező-, erdőgazdasági művelés alatt álló belterületi földet, és a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területet e törvény hatálybalépését követő 60 napon belül az NFK részére át kell adni, melynek során a társadalombiztosítási pénzügyi alap részére az NFK a termőföld könyv szerinti értékét téríti meg.
-
-(6) Az ingatlanügyi hatóság az NFK kérelmére gondoskodik a Nemzeti Földalapba tartozó földrészleteket érintően a (2) bekezdés szerinti, a tulajdonos joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
+(6) Az ingatlanügyi hatóság a miniszter kérelmére gondoskodik a Nemzeti Földalapba tartozó földrészleteket érintően a tulajdonos joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
 (6a) Az ingatlanügyi hatóság az NFK és az MNV Zrt. vagy az NFK és az MVH közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 

@@ -1530,6 +1530,7 @@ foglalt adatait tartja nyilván.
 - f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából,
 - g) a családtámogatási szerv az anyasági támogatás megállapítása iránti eljárás lefolytatása céljából.
 - h) a mezőgazdasági igazgatási szerv a támogatások igénybevételének hozzátartozói minőségre vonatkozó feltételei fennállásának ellenőrzése során a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megállapítása céljából.
+- i) az ingatlanügyi hatóság a földhasználati nyilvántartásból való törlés iránti eljárásban a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megszűnésének megállapítása céljából.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 

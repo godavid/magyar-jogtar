@@ -176,7 +176,7 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 
 13. § (1) Az alapítvány javára vagyontárgy vagyonkezelésbe a közfeladatához rendelten is adható, ebben az esetben az alapítványt közfeladathoz rendelt vagyonkezelői jog illeti meg, amelyet ezzel a megjelöléssel ingatlan esetén az ingatlan-nyilvántartásba, ingó esetén a vagyontárgy tulajdonjogát, illetve a vagyontárgyra vonatkozó jog fennállását tanúsító közhiteles nyilvántartásba is be kell jegyezni.
 
-(2) A közfeladathoz rendelt vagyonkezelői jog az alapító, a csatlakozó, illetve kizárólag a (9) bekezdés szerinti közfeladathoz rendelt vagyonkezelői jog alapítása során a Nemzeti Földügyi Központ által az alapítvány javára az alapító okiratba foglalt vagyonrendeléssel vagy az alapítvány induló vagyonát növelő vagyonjuttatással az alapító okiratba vagy vagyonjuttatást tartalmazó okiratba foglalt jogügylettel alapítható.
+(2) A közfeladathoz rendelt vagyonkezelői jog az alapító, a csatlakozó, illetve kizárólag a (9) bekezdés szerinti közfeladathoz rendelt vagyonkezelői jog alapítása során a Nemzeti Földalap kezeléséért felelős szerv által az alapítvány javára az alapító okiratba foglalt vagyonrendeléssel vagy az alapítvány induló vagyonát növelő vagyonjuttatással az alapító okiratba vagy vagyonjuttatást tartalmazó okiratba foglalt jogügylettel alapítható.
 
 (3) A közfeladathoz rendelt vagyonkezelői jog megszűnik, ha
 

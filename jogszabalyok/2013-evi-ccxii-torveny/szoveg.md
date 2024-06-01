@@ -1366,7 +1366,7 @@ rendeletben állapítsa meg.
 
 (2) A törölt haszonélvező, illetve jogutódja a haszonélvezeti jog törlésével összefüggésben az állammal, illetve az állami szervekkel szembeni igényeit kizárólag az ezen alcím szerinti eljárások keretében érvényesítheti.
 
-108/C. § (1) A törölt haszonélvezeti jog ingatlan-nyilvántartásba való visszajegyezhetőségének vizsgálatára irányuló hatósági eljárást (a továbbiakban: visszajegyezhetőség vizsgálatára irányuló eljárás), valamint a törölt haszonélvezeti joggal összefüggő kompenzációra irányuló hatósági eljárást (a továbbiakban: kompenzációs eljárás) kérelemre a Nemzeti Földügyi Központ (a továbbiakban: NFK) folytatja le.
+108/C. § (1) A törölt haszonélvezeti jog ingatlan-nyilvántartásba való visszajegyezhetőségének vizsgálatára irányuló hatósági eljárást (a továbbiakban: visszajegyezhetőség vizsgálatára irányuló eljárás), valamint a törölt haszonélvezeti joggal összefüggő kompenzációra irányuló hatósági eljárást (a továbbiakban: kompenzációs eljárás) kérelemre a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) folytatja le.
 
 (2) A törölt haszonélvezeti jog visszajegyzésének ingatlan-nyilvántartási átvezetésére irányuló hatósági eljárást (a továbbiakban: visszajegyzés átvezetésére irányuló eljárás) – az NFK-nak a visszajegyezhetőség vizsgálatára irányuló eljárásban hozott döntése alapján – az ingatlanügyi hatóság hivatalból folytatja le.
 
@@ -1579,7 +1579,7 @@ nyújthatja be.
 
 (5) Az ezen alcím szerinti eljárásokban eljáró hatóságokat és bíróságokat a (4) bekezdés szerinti bírósági eljárásban hozott döntés és az azokban megállapított tényállás nem köti.
 
-(6) A (3) bekezdés a) pontja szerinti esetben a magyar államot a Nemzeti Földügyi Központ képviseli.
+(6) A (3) bekezdés a) pontja szerinti esetben a magyar államot az NFK képviseli.
 
 108/R. § Ha az ingatlan tulajdonosa a haszonélvezet törlését követően, de a visszajegyzését megelőzően az ingatlanon olyan értéknövelő beruházást hajtott végre, amely a haszonélvezet visszajegyzéséig még nem térült meg, a tulajdonos igényelheti a haszonélvezet megváltását, amelynek során a haszonélvezet értékének megállapítására a 108/K. §-ban foglaltakat alkalmazni kell.
 

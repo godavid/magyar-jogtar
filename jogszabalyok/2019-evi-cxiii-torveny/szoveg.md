@@ -150,7 +150,7 @@ ha a beruházás megfelel az öntözésfejlesztési tervnek.
 
 (4) Az öntözési igazgatási szerv a feladataihoz szükséges földrészlet tulajdonjogát a Magyar Állam javára ellenérték fejében adásvétellel, cserével, vagy az állam javára történő felajánlás esetén ingyenesen, továbbá kisajátítással megszerezheti. Az így az állam tulajdonába kerülő ingatlan a Nemzeti Földalapba tartozik.
 
-(5) A Magyar Állam tulajdonát képező, a Nemzeti Földügyi Központ (a továbbiakban: NFK) tulajdonosi joggyakorlása alá tartozó, öntözési célt szolgáló – vízgazdálkodási, gazdálkodói és agrotechnikai – egység (a továbbiakban: állami öntözőrendszer) ingatlan és ingó vagyontárgyai üzemeltetéséről, fenntartásáról az NFK gondoskodik.
+(5) A Magyar Állam tulajdonát képező, a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) tulajdonosi joggyakorlása alá tartozó, öntözési célt szolgáló – vízgazdálkodási, gazdálkodói és agrotechnikai – egység (a továbbiakban: állami öntözőrendszer) ingatlan és ingó vagyontárgyai üzemeltetéséről, fenntartásáról az NFK gondoskodik.
 
 (6) Az NFK az állami öntözőrendszer egészét vagy annak egyes elemeit – a (2) bekezdésben meghatározott sorrendben és személyekkel kötött szerződések keretében – üzemeltetési szerződéssel, haszonbérbe adással, vagyonkezelésbe adással hasznosíthatja.
 

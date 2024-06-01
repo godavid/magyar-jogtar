@@ -32,7 +32,7 @@ Az Egri Főegyházmegye észak-magyarországi régióban vállalt küldetéséve
 
 5. § (1) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 22/A. § (1) bekezdés a) pontja alapján az Egri Főegyházmegye szociális, oktatási, kulturális és hitéleti feladatainak elősegítése érdekében a 2. melléklet szerinti ingatlanok ingyenesen, a Számviteli törvény 50. § (4) bekezdése szerinti értéken az Egri Főegyházmegye tulajdonába kerülnek. Az ingatlanok tulajdonjogát az Egri Főegyházmegye jogokkal és kötelezettségekkel együtt szerzi meg.
 
-(2) A 2. melléklet szerinti ingatlanok tekintetében az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Nemzeti Földügyi Központ köti meg az Egri Főegyházmegyével.
+(2) A 2. melléklet szerinti ingatlanok tekintetében az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Nemzeti Földalap kezeléséért felelős szerv köti meg az Egri Főegyházmegyével.
 
 (3) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdését.
 
@@ -94,7 +94,7 @@ Az Egri Főegyházmegye észak-magyarországi régióban vállalt küldetéséve
 
 ### 2. melléklet a 2021. évi XII. törvényhez
 
-#### Az Egri Főegyházmegye részére átadásra kerülő, a Nemzeti Földügyi Központ tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok
+#### Az Egri Főegyházmegye részére átadásra kerülő, a Nemzeti Földalap kezeléséért felelős szerv tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok
 
 |  | A | B | C | D |
 | --- | --- | --- | --- | --- |

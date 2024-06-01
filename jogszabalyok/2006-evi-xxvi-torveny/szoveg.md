@@ -10,7 +10,7 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 - a) a Magyar Szénhidrogén Készletező Szövetségre (a továbbiakban: Szövetség),
 - b) a Magyar Energetikai és Közmű-szabályozási Hivatalra (a továbbiakban: Hivatal),
-- c) a szállítási rendszerirányítóra, a szállítási rendszerüzemeltetői, a földgáztárolói, az egyetemes földgázszolgáltatói, a földgázkereskedői engedélyesekre – ideértve az LNG-kereskedelmet folytató engedélyeseket is –, valamint a földgáztermelőkre,
+- c) a szállítási rendszerirányítóra, a szállítási rendszerüzemeltetői, elosztói, a földgáztárolói, az egyetemes földgázszolgáltatói, a földgázkereskedői engedélyesekre – ideértve az LNG-kereskedelmet folytató engedélyeseket is –, valamint a földgáztermelőkre,
 - d) a földgázfelhasználóra a földgáz határon keresztül történő beszállítása, illetve a földgáz szervezett piacon történő vásárlása körében,
 - e) a földgáz biztonsági készletezésben és az azzal összefüggő tevékenységekben közreműködő szervezetek eljárására, és
 - f) a földgázt felhasználó személyre azon földgáz felhasználása körében, amelyhez nem az alábbi ügyletek során jut hozzá:
@@ -155,11 +155,14 @@ közül az eladáskori magasabb értéknek.
 - c) az a felhasználó, aki földgázt határon keresztül történő beszállítással, illetve földgázt szervezett piacon vásárol és
 - d) az 1. § f) pontja szerinti földgázt felhasználó személy.
 
-(1a) Nem válik a Szövetség tagjává:
+(1a) Nem válik a Szövetség tagjává
 
-- a) a földgáztermelő a saját maga által termelt földgáz felhasználása körében,
-- b) a szállítási rendszerüzemeltető, valamint
-- c) a földgázelosztó a rendszerüzemeltetési tevékenységéhez felhasznált földgáz körében.
+- a) a földgáztermelő a saját maga által termelt földgáz felhasználása körében, és
+- b) a szállítási rendszerüzemeltető és a földgázelosztó
+  - ba) a rendszeregyensúlyozási tevékenységéhez, valamint
+  - bb) a földgázszállító vagy földgázelosztó vezeték feltöltés, hálózati veszteségpótlás, hálózati mérési különbözet céljából
+
+felhasznált földgáz körében.
 
 (2) A szövetségi tagság az (1) bekezdés
 
