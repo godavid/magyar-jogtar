@@ -2147,7 +2147,7 @@ kell megállapítani.
 - 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
 - 4. a kincstár központi szervénél – ide nem értve a kincstár nyugdíjfolyósító szervét –, valamint Budapest és Pest vármegye területére kiterjedő illetékességű területi szervénél,
 - 5.
-- 6. a Nemzeti Földalapkezelő Szervezetnél,
+- 6.
 - 7.
 - 8.
 - 9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai támogatásokat auditáló szervnél,

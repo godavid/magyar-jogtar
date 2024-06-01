@@ -1086,7 +1086,7 @@ igényli.
 - c) a nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv és az ügyészség a törvényben meghatározott feladatuk ellátásához szükséges egyedi adatok lekérdezése céljából,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, valamint az állami vagyonnal gazdálkodó központi közigazgatási szervek az állami tulajdonba tartozó ingatlanokra vonatkozó, továbbá az állami tulajdonba tartozást bizonyító adatok megállapítása érdekében, saját számítástechnikai eszközeikkel az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék,
 - e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom, vagy elidegenítési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételéhez kapcsolódó feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-- f) a Nemzeti Földügyi Központ a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat ingyenesen lekérdezze.
+- f) a Nemzeti Földalap kezeléséért felelős szerv a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat ingyenesen lekérdezze.
 
 (2) Az ingatlanügyi hatóság kérelemre, az (1) bekezdésben foglaltakon kívül más közigazgatási hatóságok, illetve költségvetési szervek részére a feladatellátásukhoz szükséges egyedi adatok lekérdezése céljából lehetővé teszi, hogy saját számítástechnikai eszközeikkel, az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék.
 
