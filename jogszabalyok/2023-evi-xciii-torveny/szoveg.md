@@ -42,11 +42,7 @@ egyes agrártárgyú törvények deregulációs szempontú módosításáról
 
 12. § (1)
 
-(2) Az At. 81/D. § (1) bekezdése a következő i) ponttal egészül ki:
-
-[Az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni, vagy a papír alapú anyakönyvből jogosult megtekinteni és átvenni az anyakönyvi kivonat adattartalmát képező adatokat a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával]
-
-„i) az ingatlanügyi hatóság a földhasználati nyilvántartásból való törlés iránti eljárásban a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megszűnésének megállapítása céljából.”
+(2)
 
 (3)
 
@@ -80,7 +76,7 @@ egyes agrártárgyú törvények deregulációs szempontú módosításáról
 
 21. § Nem lép hatályba az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvény
 
-- a) 32. § (2) bekezdése,
+- a)
 - b)
 
 #### 15. Egyes törvények hatályon kívül helyezése

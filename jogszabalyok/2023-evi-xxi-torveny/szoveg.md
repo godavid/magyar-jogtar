@@ -66,9 +66,7 @@ egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosítá
 
 #### 28. §
 
-29. § (1)
-
-(2)
+#### 29. §
 
 #### 30. §
 
