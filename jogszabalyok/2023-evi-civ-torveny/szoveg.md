@@ -8,14 +8,14 @@ Az Országgyűlés az online tér biztonsága, a közvetítő szolgáltatók fel
 
 1. § (1) E törvény hatálya kiterjed azon közvetítő szolgáltatásokra, amelyeket Magyarországon letelepedett közvetítő szolgáltató nyújt, valamint a Magyarország területére irányuló közvetítő szolgáltatásokra.
 
-(2) A digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletet (a továbbiakban: Rendelet) az e törvényben meghatározott kiegészítésekkel kell alkalmazni.
+(2) A digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletet (a továbbiakban: Rendelet) és az online közvetítő szolgáltatások üzleti felhasználói tekintetében alkalmazandó tisztességes és átlátható feltételek előmozdításáról szóló, 2019. június 20-i (EU) 2019/1150 európai parlamenti és tanácsi rendeletet (a továbbiakban: P2B rendelet) az e törvényben meghatározott kiegészítésekkel kell alkalmazni.
 
 2. § (1) E törvény alkalmazásában:
 
 - 1. digitális szolgáltatásra vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, a digitális szolgáltatásra vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, a Nemzeti Média- és Hírközlési Hatóság Elnökének (a továbbiakban: Elnök) határozata és az Elnök által az ügyféllel kötött hatósági szerződés.
 - 2. közvetítő szolgáltató: a Rendelet 3. cikk g) és j) pontja szerinti szolgáltatást vagy szolgáltatásokat nyújtó szolgáltató.
 
-(2) Az e törvény által használt egyéb – a digitális szolgáltatásokkal kapcsolatos – fogalmakon a Rendelet 3. cikke szerinti fogalommeghatározások szerinti fogalmakat kell érteni.
+(2) Az e törvény által használt egyéb – a digitális szolgáltatásokkal kapcsolatos – fogalmakon a Rendelet 3. cikke és a P2B rendelet 2. cikke szerinti fogalmakat kell érteni.
 
 #### 2. A közvetítő szolgáltatókra vonatkozó egyes szabályok
 
@@ -291,6 +291,20 @@ szükséges.
 
 21. § A jogellenes tartalom elleni fellépés érdekében a bíróság vagy hatóság által a Rendelet 9. és 10. cikkében meghatározott formában, tartalommal és nyelven kibocsátott végzéseket az Elnök rendeletében meghatározott módon és formában kell továbbítani az Elnök számára.
 
+#### 7/A. A P2B rendelet végrehajtására és felügyeletére vonatkozó szabályok
+
+21/A. § (1) A P2B rendelettel kapcsolatos hatósági feladatokat az Elnök látja el.
+
+(2) Az Elnök az Eht. általános hatósági felügyeletre vonatkozó szabályai szerint kérelemre hatósági ellenőrzés vagy hatósági eljárás keretében felügyeli a P2B rendelet online közvetítő szolgáltatók és online keresőprogram-szolgáltatók általi betartását.
+
+(3) A Magyarországon letelepedett online közvetítő szolgáltatók és online keresőprogram-szolgáltatók P2B rendelet általi betartását az Elnök hivatalból is felügyelheti az Eht. általános hatósági felügyeletre vonatkozó szabályai szerint.
+
+(4) Az Elnök a (2) és a (3) bekezdés szerinti közigazgatási tevékenysége során a P2B rendelet megsértése esetén az online közvetítő szolgáltatóval és az online keresőprogram-szolgáltatóval szemben a 16. § (2)–(7) bekezdése szerint jogkövetkezményt alkalmaz. Jogsértés megállapítása esetén figyelmeztetés alkalmazásának nincs helye.
+
+(5) Jogsértés esetén a 16. § (7) bekezdés c) pontja szerinti bírság összegének felső határa a jogsértő online közvetítő szolgáltató, online keresőprogram-szolgáltató előző pénzügyi évi globális éves forgalmának 6%-a.
+
+(6) A forgalmi vagy árbevételi adatok, vagy az azokra vonatkozó adatok közlésének hiányában a bírság mértéke legalább egymillió forint, legfeljebb ötszázmillió forint.
+
 #### 8. Záró rendelkezések
 
 22. § Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
@@ -315,7 +329,12 @@ szükséges.
 
 sarkalatosnak minősül.
 
-25. § Ez a törvény a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+25. § Ez a törvény
+
+- a) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet, és
+- b) az online közvetítő szolgáltatások üzleti felhasználói tekintetében alkalmazandó tisztességes és átlátható feltételek előmozdításáról szóló, 2019. június 20-i (EU) 2019/1150 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 #### 9. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
