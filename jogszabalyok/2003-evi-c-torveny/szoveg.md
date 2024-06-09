@@ -3413,6 +3413,10 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 a hírközlési szolgáltató részére egy évben legalább egy alkalommal megtett nyilatkozatával a kapcsolatfelvételt ellenzi.
 
+(5a) Ha az előfizető az előfizetői szolgáltatás igénybevételének időtartama alatt évente legalább egy alkalommal az (5) bekezdés c) pontja szerinti nyilatkozatát nem teszi meg, azt úgy kell tekinteni, hogy a közvélemény-kutatási célú hívások fogadását nem ellenzi. Ez esetben a szolgáltató köteles a kapcsolatfelvételt biztosítani a közvélemény-kutató és az előfizető között.
+
+(5b) Amennyiben a szolgáltató az (5a) bekezdésben foglalt kötelezettségének nem tesz eleget, úgy az éves árbevétele 0,3%-ának megfelelő összegű bírságot köteles megfizetni.
+
 (6) A közvélemény-kutató köteles az általa közvélemény-kutatás céljára alkalmazott hívószámát a Hatóság és a hírközlési szolgáltató részére, a közvélemény-kutatás megkezdését megelőzően harminc nappal átadni. A hívószámok listáját a Hatóság a honlapján közzéteszi.
 
 (7) Az (1) és (5) bekezdésben meghatározott közvélemény-kutatás vonatkozásában a 160. § (4) bekezdés a) és – ha az előfizető a nyilatkozatában a közvélemény-kutatási célt kifejezetten megjelölte – b) pontja, továbbá az (1) bekezdés b) pont bc) alpontja, valamint az (5) bekezdés c) pontja szerinti nyilatkozatot tett előfizetőre vonatkozó korlátozás biztosítása érdekében a hívásvégződtetési forgalmi szolgáltatást nyújtó szolgáltató a közvélemény-kutatót mint hívó felet letiltja.
