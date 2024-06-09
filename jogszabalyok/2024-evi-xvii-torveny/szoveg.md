@@ -95,9 +95,13 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 35. §
 
-#### 10.
+#### 10. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-#### 36. §
+36. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 162. §-a a következő (5a)–(5b) bekezdéssel egészül ki:
+
+„(5a) Ha az előfizető az előfizetői szolgáltatás igénybevételének időtartama alatt évente legalább egy alkalommal az (5) bekezdés c) pontja szerinti nyilatkozatát nem teszi meg, azt úgy kell tekinteni, hogy a közvélemény-kutatási célú hívások fogadását nem ellenzi. Ez esetben a szolgáltató köteles a kapcsolatfelvételt biztosítani a közvélemény-kutató és az előfizető között.
+
+(5b) Amennyiben a szolgáltató az (5a) bekezdésben foglalt kötelezettségének nem tesz eleget, úgy az éves árbevétele 0,3%-ának megfelelő összegű bírságot köteles megfizetni.”
 
 #### 11.
 
@@ -175,13 +179,31 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 62. §
 
-#### 63. §
+63. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény Átmeneti rendelkezések alcíme a következő 146/L. §-sal egészül ki:
+
+„146/L. § (1) A 2024. június 9. és 2024. október 1. közötti időszakban a települési önkormányzat képviselő-testületének, a fővárosi, vármegyei közgyűlésnek (a továbbiakban együtt: képviselő-testület) feladat- és hatásköreit a polgármester, főpolgármester, vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) gyakorolja, ha
+
+- a) a megválasztott önkormányzati képviselők száma a képviselő-testület működéséhez szükséges létszám alá csökken, vagy
+- b) a képviselő-testület két egymást követő alkalommal, illetve a 135. § (2) bekezdése alapján összehívott ülése
+  - ba) határozatképtelen, vagy
+  - bb) határozatképes, de a napirendre tűzött kérdésekben nem dönt.
+
+(2) Az (1) bekezdés szerinti esetekben és időszakban a polgármester tartós akadályoztatása vagy a polgármesteri tisztség betöltetlensége esetén a képviselő-testület és a polgármester feladat- és hatásköreit az alábbi sorrendben
+
+- a) az alpolgármester, főpolgármester-helyettes, vármegyei közgyűlés alelnöke (a továbbiakban együtt: alpolgármester),
+- b) a polgármesteri és az alpolgármesteri tisztség egyidejű betöltetlensége, illetve tartós akadályoztatásuk esetén a feladat- és hatáskörök gyakorlását vállaló, a szervezeti és működési szabályzatban a képviselő-testület ülésének összehívására és vezetésére kijelölt önkormányzati képviselő,
+- c) a feladat- és hatáskörök gyakorlását vállaló, a kormányhivatal által kijelölt önkormányzati képviselő, vagy
+- d) a kormányhivatal vezetője
+
+gyakorolja.
+
+(3) A kormányhivatal vezetője a (2) bekezdés d) pontja szerinti esetben törvény felhatalmazása hiányában önkormányzati rendeletet nem alkothat, az önkormányzat működéséhez szükséges halaszthatatlan döntéseket akkor hozhatja meg, ha annak fedezete az önkormányzat költségvetésében biztosított.”
 
 64. § (1)
 
 (2) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
 
-- a)
+- a) 145. § (1) bekezdésében a „146/J. §” szövegrész helyébe a „146/J. §, 146/L. §” szöveg,
 - b)
 
 lép.
@@ -190,9 +212,11 @@ lép.
 
 #### 65. §
 
-#### 21.
+#### 21. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-#### 66. §
+66. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 260/E. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A jegyző közszolgálati jogviszonyának megszüntethetőségére a 60. § (2) bekezdés d) pontja 2024. június 9. és 2024. október 1. között nem alkalmazható.”
 
 #### 22.
 

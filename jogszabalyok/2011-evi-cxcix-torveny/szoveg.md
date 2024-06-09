@@ -3759,6 +3759,8 @@ kell alkalmazni.
 
 (5) Ha a közszolgálati tisztviselő gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a munkáltató a szülői szabadságot – a közszolgálati tisztviselő kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig adja ki.
 
+(6) A jegyző közszolgálati jogviszonyának megszüntethetőségére a 60. § (2) bekezdés d) pontja 2024. június 9. és 2024. október 1. között nem alkalmazható.
+
 ### Sarkalatossági záradék
 
 260/F. § E törvény 85. § (5a) bekezdése és 87. § (2a) és (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
