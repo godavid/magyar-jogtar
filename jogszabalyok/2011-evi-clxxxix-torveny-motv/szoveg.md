@@ -1454,7 +1454,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### A törvényességi felhívás
 
-134. § (1) Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább harminc napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
+134. § (1) Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább tizenöt napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
 
 (2) A törvényességi felhívás eredménytelensége esetén a kormányhivatal a törvényességi felügyeleti eljárás egyéb eszközeinek alkalmazásáról mérlegelési jogkörben dönt.
 
@@ -1597,7 +1597,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, 146/L. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1655,6 +1655,24 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 146/K. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, illetve módosítása során kell alkalmazni.
 
 (2) A Módtv1.-gyel megállapított 111. § (4a)–(4k) bekezdését akkor is alkalmazni kell, ha a képviselő-testület a Módtv1. hatályba lépését megelőzően elfogadott 2024. évi költségvetési rendeletét az államháztartásról szóló 2011. évi CXCV. törvény 25. § (1) bekezdés szerinti határidőig az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdés szerinti tartalommal nem módosítja.
+
+146/L. § (1) A 2024. június 9. és 2024. október 1. közötti időszakban a települési önkormányzat képviselő-testületének, a fővárosi, vármegyei közgyűlésnek (a továbbiakban együtt: képviselő-testület) feladat- és hatásköreit a polgármester, főpolgármester, vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) gyakorolja, ha
+
+- a) a megválasztott önkormányzati képviselők száma a képviselő-testület működéséhez szükséges létszám alá csökken, vagy
+- b) a képviselő-testület két egymást követő alkalommal, illetve a 135. § (2) bekezdése alapján összehívott ülése
+  - ba) határozatképtelen, vagy
+  - bb) határozatképes, de a napirendre tűzött kérdésekben nem dönt.
+
+(2) Az (1) bekezdés szerinti esetekben és időszakban a polgármester tartós akadályoztatása vagy a polgármesteri tisztség betöltetlensége esetén a képviselő-testület és a polgármester feladat- és hatásköreit az alábbi sorrendben
+
+- a) az alpolgármester, főpolgármester-helyettes, vármegyei közgyűlés alelnöke (a továbbiakban együtt: alpolgármester),
+- b) a polgármesteri és az alpolgármesteri tisztség egyidejű betöltetlensége, illetve tartós akadályoztatásuk esetén a feladat- és hatáskörök gyakorlását vállaló, a szervezeti és működési szabályzatban a képviselő-testület ülésének összehívására és vezetésére kijelölt önkormányzati képviselő,
+- c) a feladat- és hatáskörök gyakorlását vállaló, a kormányhivatal által kijelölt önkormányzati képviselő, vagy
+- d) a kormányhivatal vezetője
+
+gyakorolja.
+
+(3) A kormányhivatal vezetője a (2) bekezdés d) pontja szerinti esetben törvény felhatalmazása hiányában önkormányzati rendeletet nem alkothat, az önkormányzat működéséhez szükséges halaszthatatlan döntéseket akkor hozhatja meg, ha annak fedezete az önkormányzat költségvetésében biztosított.
 
 ### Módosító rendelkezések
 
