@@ -244,7 +244,7 @@ a területi közigazgatás működésével, az ingatlan-nyilvántartással és a
 
 (3) A 78. § 2023. július 1-jén lép hatályba.
 
-(4) A 35. § (4) bekezdése, a 44. § a) pontja, a 18. alcím, a 65–68. §, a 70–71. § és a 73. § 2024. október 1-jén lép hatályba.
+(4) A 35. § (4) bekezdése, a 44. § a) pontja, a 18. alcím, a 65–68. §, a 70. §, a 71. § és a 73. § 2025. január 15-én lép hatályba.
 
 83. § A 14. alcím az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 

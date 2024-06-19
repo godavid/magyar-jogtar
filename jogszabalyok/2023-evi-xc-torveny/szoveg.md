@@ -197,7 +197,7 @@ szabályait kell alkalmazni.
 - b) aki eleget tesz a 17. § (1) bekezdés a), c), d), valamint f)–i) pontjában foglalt feltételeknek, és
 - c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább egyikével rendelkezik vagy tervez rendelkezni, a tervezett befektetés esetén pedig
   - ca) igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie, és
-  - cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízummal Magyarország területére történő első belépését követő három hónapon belül.
+  - cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízum kiadását követő három hónapon belül.
 
 (3) A (2) bekezdés a) pontjában és a 22. § (3) bekezdés a) pontjában foglaltak alkalmazásában nemzetgazdasági érdeknek kell tekinteni az alábbi befektetések megvalósítását:
 
@@ -3231,7 +3231,10 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 
 #### 144/A. A vendégbefektetői vízummal kapcsolatos különös eljárási szabályok
 
-224/A. § (1) A vendégbefektetői vízumot vissza kell vonni, ha a harmadik országbeli állampolgár nem, vagy nem a 16. § (2) bekezdés c) pontjában, illetve 22. § (7) bekezdésében foglalt határidőben valósítja meg a 16. § (2) bekezdés c) pontja szerinti kötelezettségvállalása alapján a befektetést.
+224/A. § (1) A vendégbefektetői vízumot vissza kell vonni, ha a harmadik országbeli állampolgár nem
+
+- a) a 16. § (2) bekezdés c) pontjában foglalt határidőben valósítja meg a 16. § (2) bekezdés c) pontja szerinti kötelezettségvállalása alapján a befektetést, vagy
+- b) a 22. § (7) bekezdésében foglalt határidőben igazolja a 16. § (2) bekezdés c) pontja szerinti kötelezettségvállalása alapján a befektetés teljesítését.
 
 (2) Ha a vendégbefektetői vízumot az idegenrendészeti hatóság visszavonja, és megállapítja, hogy a 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetéshez kapcsolódó elidegenítési és terhelési tilalom még fennáll, az idegenrendészeti hatóság a vendégbefektetői vízumot visszavonó határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
 
@@ -4175,6 +4178,8 @@ nem nyújtható be.
 (5) Azon harmadik országbeli állampolgárt, aki családi együttélés biztosítása célú tartózkodási engedéllyel e törvény hatálybalépésekor rendelkezik, e törvény hatálybalépésekor családi együttélés biztosítása célú tartózkodási engedély iránti kérelme alapján az idegenrendészeti eljárás folyamatban van és az engedélyt 2024. március 1. után kapja meg, vagy családi együttélés biztosítása célú tartózkodási engedélyt a 286. § (6) bekezdése alapján kapott, az e törvényben a családi együttélés biztosítása célú tartózkodásra vonatkozó jogok illetik meg és kötelezettségek terhelik, azzal, hogy a családi együttélés biztosítása célú tartózkodási engedélye abban az esetben is meghosszabbítható, ha e törvény szerint a családegyesítő tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcímet nem alapíthat. A hosszabbítás során a harmadik országbeli állampolgár – kiskorú esetén a törvényes képviselője útján – nyilatkozik arról, hogy ha a családegyesítő tartózkodási engedélye e törvény erejénél fogva érvénytelenné válik, az érvénytelenné válást követő 8 napon belül az Európai Unió tagállamainak és más schengeni államok területéről önkéntesen távozik.
 
 (6) Az (1) és (5) bekezdés szerinti tartózkodási engedély iránti kérelem késedelmes benyújtása okán igazolási kérelmet a tartózkodási engedély érvényességi idején túl előterjeszteni nem lehet.
+
+(7) A 2024. január 1. és 2024. február 29. között benyújtott, az újonnan megvalósuló, legalább 100 milliárd forint költségigényű és legalább 1000 új munkahely megteremtését szolgáló beruházás megvalósításához kapcsolódó nemzeti érdekből kiállított érvényes tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár tartózkodási engedély kiadása iránti kérelmet Magyarország területén is benyújthat.
 
 288. § (1) E törvény HATODIK–TIZEDIK Részének rendelkezéseit az e törvény hatálybalépését megelőzően indult eljárásokban is alkalmazni kell.
 

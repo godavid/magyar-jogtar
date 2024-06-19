@@ -2031,7 +2031,7 @@ kell mérni.
 - d) a kiszervezett tevékenységet végző személy vagy szervezet felügyeleti hatósággal történő együttműködésének kötelezettségéről, és
 - e) a kiszervezett tevékenység végzésének feltételeiben bekövetkezett változás befektetési vállalkozás felé történő jelentésének módjáról.
 
-(4) A befektetési vállalkozás az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő három napon belül megküldi a Felügyeletnek.
+(4) A befektetési vállalkozás az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő öt napon belül megküldi a Felügyeletnek.
 
 81. § (1) A befektetési vállalkozás a kiszervezésről szóló megállapodás tárgyát képező tevékenysége vagy szolgáltatása megfelelő színvonalú ellátása érdekében folyamatosan értékeli a kiszervezésről szóló megállapodásban foglaltak teljesülését.
 

@@ -822,7 +822,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (6) A 34. § és a 97. § (3) bekezdése 2025. január 1-jén lép hatályba.
 
-(7) A 143. alcím 2024. október 1-jén lép hatályba.
+(7) A 143. alcím 2025. január 15-én lép hatályba.
 
 (8) A 32. § (6) bekezdése, a 33. §, a 39. §, a 40. §, a 84. §, a 86. §, a 90. §, a 212. § és a 241. § az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 

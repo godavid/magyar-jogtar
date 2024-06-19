@@ -410,7 +410,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 (6) A 9. alcím, a 20. alcím, a 30–34. §, a 37. §, a 41. §, a 73. §, a 85. §, a 105–107. §, a 109. §, a 116. § (2) bekezdése és az 1. melléklet 2024. január 1-jén lép hatályba.
 
-(7) A 23. alcím, a 30. alcím, a 32. alcím és a 45. § 2024. október 1-jén lép hatályba.
+(7) A 23. alcím, a 30. alcím, a 32. alcím és a 45. § 2025. január 15-én lép hatályba.
 
 (8) A 63. § és a 72. § c) pontja 2024. április 23-án lép hatályba.
 

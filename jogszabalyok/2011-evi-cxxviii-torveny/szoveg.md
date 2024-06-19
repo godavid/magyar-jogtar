@@ -977,6 +977,8 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 85. § A lakossági riasztórendszer végpontjainak listáját az áramszolgáltatók részére a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei 2012. március 1-jéig megküldik. A lakossági riasztó rendszer végpontjaiban bekövetkezett változást, az azt követő 72 órán belül kell megküldeni az áramszolgáltatók részére.
 
+85/A. § A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatósági hatáskör telepítéssel összefüggésben a katasztrófavédelmi IHR használatával kapcsolatos kérdésekről – ide értve az adatfeldolgozással összefüggő kérdéseket is – továbbá a költségvetési, vagyoni, üzemeltetési, iratátadási és adminisztrációs kérdésekről, valamint a hatáskört átvevő szervek számára nyújtott humánigazgatási és informatikai támogatásról 2024. szeptember 30-ig a katasztrófák elleni védekezésért felelős miniszter és a közigazgatás szervezéséért felelős miniszter megállapodást köt.
+
 #### 40. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 86. § (1) Az 52. §, a 60–66. §, a 71. §, a 72. § és a 174. § (1) bekezdése az Alaptörvény XXXI. cikk (5) bekezdése alapján sarkalatosnak minősül.

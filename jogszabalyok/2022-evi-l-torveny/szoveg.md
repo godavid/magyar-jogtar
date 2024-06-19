@@ -624,7 +624,7 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 (10) Az 51. § (2) bekezdése 2024. január 1-jén lép hatályba.
 
-(11) A 41. §, a 43. § (6) bekezdése, az 58. alcím és a 60. alcím 2024. október 1-jén lép hatályba.
+(11) A 41. §, a 43. § (6) bekezdése, az 58. alcím és a 60. alcím 2025. január 15-én lép hatályba.
 
 (11a) A 188. §, a 195. §, a 200. § és a 203. § 2025. január 1-jén lép hatályba.
 

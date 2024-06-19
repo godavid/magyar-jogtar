@@ -162,4 +162,6 @@ egyes közigazgatási tárgyú törvények módosításáról
 
 (4) A 7. § és a 9. § 2024. március 25-én lép hatályba.
 
-(5) A 16. §, a 23–32. §, a 34–36. §, a 38. és a 39. §, a 41. §, a 43. §, a 47. § és az 51. § 2024. október 1-jén lép hatályba.
+(5) A 16. § 2024. október 1-jén lép hatályba.
+
+(6) A 23–32. §, a 34–36. §, a 38. és a 39. §, a 41. §, a 43. §, a 47. § és az 51. § 2025. január 15-én lép hatályba.

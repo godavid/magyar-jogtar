@@ -75,12 +75,13 @@ kapcsolatos audithatósági feladatokat.
 - e) az Igazságos Átmenet Alappal,
 - f) a Menekültügyi, Migrációs és Integrációs Alappal,
 - g) a Belső Biztonsági Alappal,
-- h) a Határigazgatási és Vízumpolitikai Eszközzel és a
-- i) a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszközzel
+- h) a Határigazgatási és Vízumpolitikai Eszközzel,
+- i) a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszközzel, valamint
+- j) az Előcsatlakozási Támogatási Eszközzel (IPA III)
 
 kapcsolatos audithatósági feladatokat.
 
-7. § A Főigazgatóság az Európai Hálózatfinanszírozási Eszközből költségvetési hozzájárulással megvalósuló projektek tekintetében
+7. § A Főigazgatóság a 2014–2020 programozási időszakban és a 2021–2027 programozási időszakban az Európai Hálózatfinanszírozási Eszközből költségvetési hozzájárulással megvalósuló projektek tekintetében
 
 - a) elvégzi a projektmegvalósítással összefüggésben az Európai Bizottsághoz benyújtandó időközi- és záróegyenleg-kifizetés iránti kérelmekben szereplő költségek vizsgálatát a támogatási megállapodásban rögzített szempontok szerint, és
 - b) a támogatási megállapodásban előírt feltételeknek való megfelelés esetén a projektek keretében elszámolható költségek valódiságáról, elszámolhatóságáról a támogatási megállapodásban meghatározott formában jelentést állít ki.
@@ -123,12 +124,13 @@ kapcsolatos audithatósági feladatokat.
 
 10. § A Főigazgatóság ellátja az egyéb európai uniós és nemzetközi támogatásokkal kapcsolatos ellenőrzési feladatokat, valamint az azokhoz kapcsolódó tervezési, beszámolási, illetve zárónyilatkozat-kiadási feladatokat, így elvégzi különösen
 
-- a) az INTERREG III Közösségi Kezdeményezés programokkal kapcsolatos ellenőrzéseket,
-- b) az európai területi együttműködési programokkal (Interreg V-A Románia–Magyarország Együttműködési Program, Interreg V-A Ausztria–Magyarország Együttműködési Program és Interreg V-A Szlovénia–Magyarország Együttműködési Program) kapcsolatos ellenőrzéseket és auditszervi feladatokat,
+- a) a 2021–2027 programozási időszakban megvalósuló határon átnyúló Interreg programok (az Interreg VI-A Ausztria–Magyarország Program, az Interreg VI-A Románia–Magyarország Program, az Interreg VI-A Szlovénia–Magyarország Program és az Interreg VI-A Magyarország–Horvátország Program) vonatkozásában az ellenőrzéseket és auditszervi feladatokat,
+- b) a 2014–2020 programozási időszakban megvalósuló európai területi együttműködési programokkal (Interreg V-A Románia–Magyarország Együttműködési Program, Interreg V-A Ausztria–Magyarország Együttműködési Program és Interreg V-A Szlovénia–Magyarország Együttműködési Program) kapcsolatos ellenőrzéseket és auditszervi feladatokat,
 - c) a Norvég Finanszírozási Mechanizmussal, illetve az EGT Finanszírozási Mechanizmussal kapcsolatos ellenőrzéseket,
 - d) a Svájci–Magyar Együttműködési Programmal kapcsolatos ellenőrzési feladatokat,
 - e) az Európai Unió Szolidaritási Alapjával kapcsolatos ellenőrzési feladatokat,
-- f) ellátja az Interreg Central Europe transznacionális együttműködési program, az Interreg Europe interregionális együttműködési program és az URBACT III interregionális együttműködési program auditorcsoportbeli magyar tagságával járó feladatokat.
+- f) az Interreg Central Europe transznacionális együttműködési program, az Interreg Europe interregionális együttműködési program és az URBACT III interregionális együttműködési program auditorcsoportbeli magyar tagságával járó feladatokat.
+- g) az Interreg CENTRAL EUROPE 2021–2027 transznacionális együttműködési program, az Interreg Europe interregionális együttműködési program (2021–2027) és az URBACT IV interregionális együttműködési program auditorcsoportbeli magyar tagsággal járó feladatokat.
 
 11. § A Főigazgatóság a csalás és a korrupció elleni fellépés megfelelő biztosítása érdekében a 6–10. §-ban meghatározott feladatai és az uniós támogatásokra vonatkozó rendeletek keretében
 
@@ -197,7 +199,7 @@ kapcsolatos audithatósági feladatokat.
 
 14. § (1) A helyszíni ellenőrzést annak megkezdése előtt legalább öt nappal, szóban vagy írásban be kell jelenteni az ellenőrzött szervezet vezetőjének. Ennek keretében a vizsgálatvezető tájékoztatást ad az ellenőrzés céljáról és formájáról, a jogszabályi felhatalmazásról. Az előzetes bejelentést nem kell megtenni, ha az – a rendelkezésre álló adatok alapján – meghiúsíthatja a helyszíni ellenőrzés eredményes lebonyolítását. Az előzetes bejelentés elhagyásáról a vizsgálatvezető dönt.
 
-(2) A helyszíni ellenőrzés megkezdésekor az ellenőr köteles bemutatni a megbízólevelét az ellenőrzött szervezet vezetőjének vagy ha az ellenőrzött szervezet vezetője nincs jelen, akkor az ellenőrzött szervezet alkalmazottjának. Az ellenőrzött szervezet vezetőjének távolléte nem jelenti az ellenőrzés lefolytatásának akadályát.
+(2) A vizsgálatvezető az ellenőrzés megkezdésekor megküldi az ellenőrzésben részt vevő ellenőrök megbízólevelét a vizsgálatindító levéllel együtt az ellenőrzött részére.
 
 (3) A helyszíni ellenőrzés során az ellenőrzött szervezet vezetőjétől teljességi nyilatkozatot kell kérni, amelyben az ellenőrzött szervezet vezetője igazolja, hogy az ellenőrzött feladattal összefüggő, felelősségi körébe tartozó valamennyi okmányt, illetve információt hiánytalanul az ellenőr rendelkezésére bocsátotta.
 
@@ -223,7 +225,7 @@ kapcsolatos audithatósági feladatokat.
 
 (2) Az ellenőrzött szervezet vezetője felelős az intézkedési terv végrehajtásáért, illetve annak nyomon követéséért.
 
-18. § Az ellenőrzött szervezet vezetője minden év november 30-áig tájékoztatást ad a Főigazgatóság főigazgatója részére a Főigazgatóság ellenőrzési jelentése alapján készített intézkedési tervben foglaltak időarányos teljesítéséről a megvalósítást alátámasztó dokumentumok csatolásával.
+18. § Az ellenőrzött szervezet vezetője minden év november 30-áig tájékoztatást ad a Főigazgatóság főigazgatója részére a Főigazgatóság ellenőrzési jelentése alapján készített intézkedési tervben foglaltak időarányos teljesítéséről a megvalósítást alátámasztó dokumentumok csatolásával. A Főigazgatóság feladatai ellátásához soron kívüli tájékoztatást kérhet az intézkedési tervben foglaltak időarányos teljesítéséről.
 
 ### III. Fejezet — A FŐIGAZGATÓSÁG SZERVEZETE
 
@@ -474,6 +476,11 @@ kapcsolatos audithatósági feladatokat.
 - e) a Helyreállítási és Rezilenciaépítési Eszköz létrehozásáról szóló, 2021. február 12-i (EU) 2021/241 európai parlamenti és tanácsi rendelet,
 - f) a brexit miatti kiigazításokra képzett tartalék létrehozásáról szóló 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet,
 - g) az uniós költségvetés védelmét szolgáló általános feltételrendszerről szóló, 2020. december 16-i (EU) 2020/2092 európai parlamenti és tanácsi rendelet.
+- h) az Előcsatlakozási Támogatási Eszköz (IPA III) létrehozásáról szóló, 2021. szeptember 15-i (EU) 2021/1529 európai parlamenti és tanácsi rendelet,
+- i) az Európai Regionális Fejlesztési Alap által az európai területi együttműködési célkitűzésnek nyújtott támogatásra vonatkozó egyedi rendelkezésekről szóló, 2013. december 17-i 1299/2013/EU európai parlamenti és tanácsi rendelet,
+- j) az Európai Szomszédsági Támogatási Eszköz létrehozásáról szóló 232/2014/EU európai parlamenti és tanácsi rendelet alapján finanszírozott, határokon átnyúló együttműködési programok végrehajtására vonatkozó egyedi rendelkezések megállapításáról szóló, 2014. augusztus 18-i 897/2014/EU bizottsági végrehajtási rendelet,
+- k) az IPA II Előcsatlakozási Támogatási Eszköz létrehozásáról szóló 231/2014/EU európai parlamenti és tanácsi rendelet végrehajtásának egyedi szabályairól szóló, 2014. május 2-i 447/2014/EU bizottsági végrehajtási rendelet,
+- l) az Európai Regionális Fejlesztési Alap és külső finanszírozási eszközök által támogatott európai területi együttműködési célkitűzésre (Interreg) vonatkozó egyedi rendelkezésekről szóló, 2021. június 24-i (EU) 2021/1059 európai parlamenti és tanácsi rendelet.
 
 #### 20. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 

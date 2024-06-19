@@ -409,7 +409,7 @@ lép.
 
 (4) A 35. § 2024. július 1-jén lép hatályba.
 
-(5) A 28. § b) pontja, a 116. §, a 133. §, a 134. § g), k), l) és m) pontja, a 137. §, a 142. § és a 143. § 2024. október 1-jén lép hatályba.
+(5) A 28. § b) pontja, a 134. § g), k), l) és m) pontja, a 137. §, a 142. § és a 143. § 2025. január 15-én lép hatályba.
 
 162. § (1) A 17. alcím, a 121. §, a 122. §, a 135. § és a 143. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 

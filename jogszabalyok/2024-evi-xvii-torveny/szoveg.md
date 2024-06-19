@@ -287,7 +287,7 @@ az igazságügyi tárgyú törvények módosításáról
 
 (5) A 3. alcím, az 5. alcím, a 32. §, a 42–44. §, a 45. § (1) és (2) bekezdése, a 46. § (2) bekezdése, a 47. §, a 49. §, az 51. §, a 14. alcím, a 15. alcím, az 57. §, a 17. alcím, a 60. §, a 62. §, a 22. alcím, a 73. §, a 75. §, a 26. alcím és a 28. alcím az e törvény kihirdetését követő 61. napon lép hatályba.
 
-(6) A 31. §, a 11. alcím, a 45. § (3) bekezdése, a 46. § (1) bekezdése, a 48. §, az 56. §, az 59. §, a 61. § és a 74. § (1) bekezdése 2024. október 1-jén lép hatályba.
+(6) A 31. §, a 11. alcím, a 45. § (3) bekezdése, a 46. § (1) bekezdése, a 48. §, az 56. §, az 59. §, a 61. § és a 74. § (1) bekezdése 2025. január 15-én lép hatályba.
 
 (7) A 23. alcím 2024. november 1-jén lép hatályba.
 

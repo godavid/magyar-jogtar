@@ -744,6 +744,7 @@ látja el.
 - e) rendeletben jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok körére, az adatok törlésére vonatkozó részletes eljárási szabályokat,
 - f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait,
 - g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
+- h) rendeletben állapítsa meg az online szálláshely-közvetítők szálláshely-szolgáltatás értékesítési tevékenységéhez kapcsolódó részletes szabályokat,
 
 (2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 

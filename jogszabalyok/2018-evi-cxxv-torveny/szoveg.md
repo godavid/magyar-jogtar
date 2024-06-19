@@ -899,7 +899,13 @@ hozható létre.
 
 (2) A Kormány döntése alapján kormányzati szolgálati jogviszony létrehozható a 2. §-ban nem szereplő szerv számára biztosított álláshelyen is.
 
-(3) Az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a kormányzati igazgatási szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony) álló személlyel is, illetve kormányzati igazgatási szervhez kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személlyel is, azzal, hogy ebben az esetben – a hivatásos szolgálati jogviszony, a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony és a hivatásos szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
+(3) Az álláshely betölthető a kormányzati igazgatási szervhez
+
+- a) vezényelt, hatósági vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony) vagy hatósági kirendelés alapján rendvédelmi igazgatási szolgálati jogviszonyban (a továbbiakban: rendvédelmi igazgatási szolgálati jogviszony),
+- b) a honvédek jogállásáról szóló kormányrendelet szerint vezényelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony)
+- c) kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony)
+
+álló személlyel is azzal, hogy az a)–c) pont szerinti esetben – a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony, és a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
 
 (3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
 
@@ -1715,7 +1721,7 @@ kell érteni.
 
 (5) A (3) bekezdésben foglalt kérelemre a kormánytisztviselőt – a nyilatkozattétel időpontjával kezdődően – a 107. § (2) bekezdés g) pontja alapján fel kell menteni, a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb járandóságai összegének meghatározásakor a kinevezésmódosítást megelőző illetményét kell alapul venni.
 
-(6) Ha a kormánytisztviselő az álláshelyétől eltérő kormányzati igazgatási szervnél kívánja a foglalkoztatását, az erre vonatkozó jognyilatkozatát az őt foglalkoztató álláshelye szerinti kormányzati igazgatási szerv felé a munkahelyváltás tervezett időpontját legalább 30 nappal megelőzően megteszi. A bejelentést követő 30. napig a kormánytisztviselő ellátja a kormányzati igazgatási szervnél a feladatait. A bejelentést követő 31. naptól a kormánytisztviselő kormányzati szolgálati jogviszonya nyugszik. A kormánytisztviselő a kormányzati szolgálati jogviszonyának nyugvása alatt illetményre nem jogosult és munkavégzési kötelezettsége nem áll fenn. Ha a fogadó kormányzati igazgatási szerv a kormányzati szolgálati jogviszony nyugvásának kezdőidőpontját követő 30 napon belül a kormánytisztviselő új beosztási okiratát kiállítja, a kormánytisztviselő jogviszonya folyamatos. Ha nem kerül sor a kormánytisztviselő új beosztási okiratának kiállítására, a kormánytisztviselő kormányzati szolgálati jogviszonya a jogviszony nyugvásának kezdőidőpontját követő 31. napon megszűnik.
+(6)
 
 #### 90. § [A várandós kormánytisztviselő kinevezésének módosítása]
 
@@ -2036,7 +2042,7 @@ ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi 
 - g) ha a kormánytisztviselő állam- vagy kormányközi nemzetközi szervezetnél vagy az Európai Unió szerveinél jogviszonyt létesít;
 - h) ha a kormánytisztviselő a társadalombiztosítási szabályok alapján az öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte, kivéve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény szerint egészségügyi dolgozónak minősülő kormánytisztviselőt, valamint a kormányzati igazgatási szerv különösen fontos érdekére tekintettel, ha a Kormány engedélyezte és a jogviszonyt a kormányzati igazgatási szerv fenntartja;
 - i) jogviszonyváltáskor a 114. § (3) bekezdése szerinti esetben;
-- j) abban az esetben, ha a 89. § (6) bekezdésének alkalmazása során az ott megállapított határidő leteltéig a fogadó kormányzati igazgatási szerv nem állítja ki az új beosztási okiratot,
+- j)
 - k) ha a Kormány döntése alapján a központosított álláshelyállományból származó álláshely visszakerül a központosított álláshelyállományba,
 - l) ha a Kormány az álláshelyet az 55. § (2) bekezdése alapján a központosított álláshelyállományba helyezi,
 - m) ha a Kormány az alaplétszám részét képező álláshelyet megszünteti vagy az az 52/A. § alapján megszűnik.
@@ -2918,7 +2924,7 @@ illetménynek megfelelő összeg.
 - e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban töltött időt,
 - f) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
 - g) a 104. § (9) bekezdése és a 105. § (2) bekezdése szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot,
-- h) a 89. § (6) bekezdése szerinti munkahelyváltás esetén a nyugvás időtartamát, és
+- h)
 - i) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
 - j) az egészségügyi szolgálati jogviszonyban töltött időt
 

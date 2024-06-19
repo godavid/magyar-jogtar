@@ -333,7 +333,7 @@ egyes agrártárgyú törvények módosításáról
 
 (4) Az 56. § a) és c) pontja 2024. szeptember 1-jén lép hatályba.
 
-(5) A 70. § b) és e) pontja, a 78. § és a 20. alcím 2024. október 1-jén lép hatályba.
+(5) A 70. § b) és e) pontja, a 78. § és a 20. alcím 2025. január 15-én lép hatályba.
 
 (6) A 2. alcím, a 18. §, a 23. § (1) bekezdése, a 25. §, a 26. § (3) és (6) bekezdése, a 27. §, a 29. §, a 43. §, a 45. § (1) bekezdése, a 79. §, a 81. §, a 82. §, a 84. §, a 85. § (2) bekezdése, a 86. § a) pontja és az 1. melléklet 2025. január 1-jén lép hatályba.
 
