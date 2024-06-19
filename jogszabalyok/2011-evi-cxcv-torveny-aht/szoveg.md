@@ -1573,7 +1573,7 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 (4a) A kincstár fizetési számlát vezet
 
-- a) a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház számára,
+- a) a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház és a belső egyházi jogi személy megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház, továbbá azok belső egyházi jogi személye számára, valamint ha a nyilvántartásba vett egyház, a bejegyzett egyház, bevett egyház, továbbá azok belső egyházi jogi személye felsőoktatási intézményt tart fenn, megbízása esetén az általa fenntartott felsőoktatási intézménye számára is,
 - b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
 - c) a (4b)–(4d) bekezdés szerinti esetekben,
 - d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését a kincstárnál vezetett fizetési számlán írja elő.
@@ -1835,6 +1835,8 @@ eredményeképpen keletkeztek.
 #### 66. Követelések
 
 97. § (1) Az állam, az államháztartás központi alrendszerébe tartozó költségvetési szervek, a nemzetiségi önkormányzatok, valamint az általuk irányított költségvetési szervek követeléséről lemondani csak törvényben meghatározott esetekben és módon lehet.
+
+(1a) A fővárosi és vármegyei kormányhivatal a Kormány rendeletében meghatározott méltányossági eljárás keretében a jogszabályban meghatározott családi otthonteremtési kedvezmény, otthonteremtési kamattámogatás, adó-visszatérítési támogatás, családok otthonteremtési kamattámogatása, gyermekvállalási támogatás, babaváró kölcsön kamattámogatása, valamint a felszámított kamatok tekintetében az államot megillető követelésről részben vagy egészben lemondhat.
 
 (2) A helyi önkormányzat, a társulás, a térségi fejlesztési tanács, valamint az általuk irányított költségvetési szervek követeléséről lemondani csak törvényben vagy helyi önkormányzati rendeletben meghatározott esetekben és módon lehet.
 
@@ -2166,6 +2168,7 @@ részletes szabályait,
   - b) átvevő költségvetési szerv részére történő vagyonátadásával, iratátadásával összefüggő részletes feladatokat,
 - 41. a költségvetési támogatások és a költségvetési támogatásnak nem minősülő csekély összegű támogatások kincstári monitoringrendszerbe történő adatai átadásának elmulasztása miatti bírság megállapításának szabályait,
 - 42. a 109. § (5) bekezdésében kapott felhatalmazás alapján megalkotott jogszabály formai megszerkesztésének részletes szabályait.
+- 43. a 97. § (1a) bekezdése szerinti méltányossági eljárás részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -2320,6 +2323,8 @@ rendeletben szabályozza.
 (38) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások tárgyév december 31-éig kifizetni tervezett azon összegét, amelynek kifizetése a tárgyévet követő időpontra került átütemezésre, nem kell beszámítani a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 27. § (2) bekezdése szerinti tárgyéven túli fizetési kötelezettségvállalásra vonatkozó keretösszegbe.
 
 (39) Az 56/B. § (3) bekezdése szerinti bírság megállapítása a 2023. január 1. és 2023. augusztus 31-e között rögzítendő támogatási döntések tekintetében nem alkalmazható, amennyiben a támogató vagy a támogató nevében eljáró szervezet a kapcsolódó adatátadásnak 2023. augusztus 31-éig eleget tett.
+
+(40) A Kormány a Magyarország 2025. évi központi költségvetéséről szóló törvényjavaslatot – a 22. § (2) bekezdésétől eltérően – 2024. november 15-éig nyújtja be az Országgyűlésnek.
 
 111/A. § A befektetési alap vagy kockázati tőkealap létrehozására, azokban tőkeemelésre visszatérítendő költségvetési támogatást nyújtó szerv olyan tartalommal módosíthatja a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőzően megkötött támogatási szerződést, amely lehetőséget ad számára, hogy a támogatási jogviszonyból eredő követelését a befektetési alap befektetési jegyeinek, vagy a kockázati tőkealapban lévő kockázati tőkejegyeinek megszüntetéséből felszabaduló pénzeszköz értéke alapján határozza meg. Ha a pénzeszközök értéke kevesebb, mint a követelés eredeti összege, akkor ez a veszteség jellegű különbözet elengedett követelésnek minősül.
 
