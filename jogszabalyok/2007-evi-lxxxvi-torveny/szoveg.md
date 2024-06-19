@@ -2390,7 +2390,7 @@ kapcsolatban.
 - a) többsége a munkaviszonya létesítését megelőző három évben nem állhatott munkaviszonyban – az átviteli rendszerirányító kivételével – a vertikálisan integrált villamosenergia-ipari vállalkozással, továbbá abban nem rendelkezett sem közvetlen, sem közvetett érdekeltséggel és
 - b) kisebb része a munkaviszonya létesítését megelőző 6 hónapban nem lehetett a vertikálisan integrált villamosenergia-ipari vállalkozásnál operatív irányítását ellátó személy.
 
-(5) Amennyiben az átviteli rendszerirányítónál az operatív irányítást nem testület látja el, az operatív irányítást ellátó személyre az (4) bekezdés a) pontja szerinti követelményeket kell alkalmazni.
+(5)
 
 (6) Az operatív irányítást ellátó személy a munkaviszonya megszűnését követően négy évig nem állhat munkaviszonyban – az átviteli rendszerirányító kivételével – a vertikálisan integrált villamosenergia-ipari vállalkozással, továbbá abban nem rendelkezhet sem közvetlen, sem közvetett érdekeltséggel.
 

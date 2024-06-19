@@ -735,6 +735,8 @@ lehet végezni.
 
 (9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.
 
+(10) A Kormány nyilvános határozatával dönthet ajándékozás jogcímén állami tulajdonba került és állami feladatellátáshoz nem szükséges ingóság helyi önkormányzat, egyház, egyházi jogi személy, közalapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint civil szervezet javára ajándékként történő ingyenes átadásáról a feladataik ellátásának elősegítése érdekében, amennyiben az állam javára ajándékozó az ajándék továbbadását az ajándék adásakor nem korlátozta.
+
 (11) A (10) bekezdés szerint átruházott állami tulajdonú ingóság tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdését.
 
 36/A. § A 36. § (2) és (5)–(8) bekezdése szerinti vagyonátadás kizárólag olyan kedvezményezett részére történhet, amely
