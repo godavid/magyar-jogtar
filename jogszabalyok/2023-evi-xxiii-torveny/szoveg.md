@@ -342,7 +342,7 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 (5)
 
-(6)
+(6) Az SZTFH eljárása során a sommás eljárás alkalmazása kizárt.
 
 (7)
 
