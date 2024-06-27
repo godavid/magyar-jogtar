@@ -179,11 +179,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 18. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-40. § A kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 39. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás, üdülő vagy emberi tartózkodásra alkalmas gazdasági épület, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc darab, és az ágyak száma legfeljebb tizenhat darab,”
+#### 40. §
 
 #### 19.
 
@@ -367,19 +363,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 41. Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény módosítása
 
-109. § (1)
+#### 109. §
 
-(2) Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény 1. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az (1) bekezdés szerinti vagyonjuttatás során nem kell alkalmazni a sportról szóló 2004. évi I. törvény 64. § (4) bekezdését, és a sportról szóló 2004. évi I. törvény 64. § (3) bekezdése szerinti előzetes egyetértést megadottnak kell tekinteni.”
-
-110. § Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény
-
-- a) 1. § (1) bekezdésében az „a Geszt, József Attila u. 21. szám alatt található, az ingatlan-nyilvántartás szerint Geszt 240/1 helyrajzi szám alatt nyilvántartott, az állam tulajdonában lévő Tisza-kastélyt (a továbbiakban: ingatlan)” szövegrész helyébe az „az ingatlan-nyilvántartás szerint Geszt belterület 240/1 helyrajzi szám alatt nyilvántartott, az állam tulajdonában lévő Tisza-kastélyt és a kapcsolódó Geszt belterület 167, 169, 171, 175, 176, 243 és 296 helyrajzi számú ingatlanokat (a továbbiakban együtt: ingatlanok)” szöveg, a „kulturális és” szövegrész helyébe a „kulturális, örökségvédelmi, turisztikai és” szöveg, a „feladatainak” szövegrész helyébe a „célok, ehhez kapcsolódó feladatok” szöveg és az „ingatlant” szövegrész helyébe az „ingatlanokat” szöveg,
-- b) 1. § (2) bekezdésében az „a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.)” szövegrész helyébe az „az MNV Zrt.” szöveg és az „ingatlan” szövegrész helyébe az „ingatlanok” szöveg,
-- c) 1. § (6) bekezdésében a „2017.” szövegrész helyébe a „2007.” szöveg
-
-lép.
+#### 110. §
 
 #### 111. §
 
