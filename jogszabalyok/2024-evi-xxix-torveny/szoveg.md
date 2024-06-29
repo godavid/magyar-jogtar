@@ -367,7 +367,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 110. §
 
-111. § Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény 1. § (1) bekezdésében a „Geszt belterület 167, 169, 171, 175, 176, 243 és 296 helyrajzi számú ingatlanokat (a továbbiakban együtt: ingatlanok)” szövegrész helyébe a „Geszt belterület 167, 168, 169, 171, 172, 175, 176, 243 és 296 helyrajzi számú ingatlanokat (a továbbiakban együtt: ingatlanok)” szöveg lép.
+#### 111. §
 
 #### 42. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
