@@ -18,7 +18,7 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 (4) Külön törvény vagy az annak végrehajtására kiadott jogszabály a fogyasztók tájékoztatására vonatkozóan az e törvényben foglalt szabályokon túl részletesebb, illetve szigorúbb szabályokat írhat elő
 
-- a) pénzügyi és kiegészítő pénzügyi szolgáltatás, biztosítási, biztosításközvetítői és biztosítási szaktanácsadói szolgáltatás, befektetési szolgáltatási tevékenység és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás, árutőzsdei szolgáltatás, önkéntes kölcsönös biztosító pénztárak által nyújtott szolgáltatás, valamint a magán-nyugdíjpénztári szolgáltatás tekintetében,
+- a) pénzügyi és kiegészítő pénzügyi szolgáltatás, biztosítási, biztosításközvetítői és biztosítási szaktanácsadói szolgáltatás, befektetési szolgáltatási tevékenység és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás, árutőzsdei szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, önkéntes kölcsönös biztosító pénztárak által nyújtott szolgáltatás, valamint a magán-nyugdíjpénztári szolgáltatás tekintetében,
 - b) ingatlanokra vonatkozóan,
 - c) a termék egészségügyi vonatkozásaival vagy biztonságosságával összefüggő követelmények érvényesítése céljából,
 - d) a környezet védelmével összefüggő követelmények érvényesítése céljából, vagy

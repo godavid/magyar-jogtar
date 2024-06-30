@@ -612,6 +612,7 @@ vonatkozó szabályokat állapít meg.
 - q) a központi hitelinformációs rendszerről szóló törvény,
 - r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény,
 - s) az egyes fizetési szolgáltatókról szóló törvény
+- t) a kriptoeszközök piacáról szóló törvény
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
@@ -700,6 +701,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (39) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében ellátja az Unióban történő határon átnyúló fizetésekről szóló 2021. július 14-i (EU) 2021/1230 európai parlamenti és tanácsi rendelet (a továbbiakban: az (EU) 2021/1230 európai parlamenti és tanácsi rendelet) 8. és 9. cikke szerinti illetékes hatóságként az (EU) 2021/1230 európai parlamenti és tanácsi rendelet végrehajtásából eredő feladatokat.
 
 (40) Az MNB a 39. § (1) bekezdés h) és l) pontjában meghatározott feladatai során ellátja a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet végrehajtását.
+
+(41) Az MNB a 39. § (1) bekezdés t) pontjában meghatározott feladatai során ellátja a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet végrehajtását.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
@@ -1623,6 +1626,20 @@ azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat leányvállalata
 
 a kiszabható bírság mértéke természetes személy esetében legfeljebb 1 675 200 000 forintig, jogi személy esetében a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont (konszolidált) éves beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat összevont (konszolidált) éves beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
 
+(26) Az Európai Parlament és a Tanács (EU) 2023/1114 rendelet megsértése esetén a bírság mértéke:
+
+- a) természetes személy esetében
+  - aa) a 111. cikk (1) bekezdés a)–d) pontjában felsorolt rendelkezések megsértése esetén legfeljebb 259 644 000 forint,
+  - ab) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 370 920 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése, illetve 1 854 600 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezések megsértése esetén;
+- b) jogi személy esetében
+  - ba) a 111. cikk (1) bekezdés a)–d) pontjában felsorolt rendelkezések megsértése esetén legfeljebb 1 854 600 000 forint,
+  - bb) a 111. cikk (1) bekezdés a) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 3%-a,
+  - bc) a 111. cikk (1) bekezdés d) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 5%-a,
+  - bd) a 111. cikk (1) bekezdés b) és c) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 12,5%-a, vagy
+  - be) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 927 300 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 5 563 800 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 2%-a a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 15%-a a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén.
+
+(27) Ha a (26) bekezdés b) pontja szerinti jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény szerint összevont pénzügyi beszámolót kell készítenie, akkor a (26) bekezdés b) pontja szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.
+
 77. § (1) A bírságot a kiszabásáról hozott döntés véglegessé válásától számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
 (2) Nem kötelezhető bírság fizetésére az, aki bizonyítani tudja, hogy úgy járt el, ahogy az ilyen tisztséget vagy az adott munkakört betöltő személytől az adott helyzetben általában elvárható.
@@ -1834,7 +1851,7 @@ tarthat.
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,
+- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,
 - b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 - c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
@@ -3420,6 +3437,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - 22. (35) bekezdése a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet
 - 23. (39) bekezdése az (EU) 2021/1230 európai parlamenti és tanácsi rendelet
 - 24. (40) bekezdése a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet
+- 25. (41) bekezdése a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

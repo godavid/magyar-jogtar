@@ -229,6 +229,7 @@ használnak,
 - 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 - 38. központi szerződő fél: a Tpt.-ben meghatározott fogalom,
 - 38a. közvetlen elektronikus hozzáférés: olyan eljárás, amely során egy kereskedési helyszín tagja vagy résztvevője vagy ügyfele engedélyezi valamely személynek az ő kereskedési kódjának használatát, annak érdekében, hogy az a személy elektronikusan továbbíthasson pénzügyi eszközre vonatkozó megbízásokat közvetlenül a kereskedési helyszínnek, továbbá az olyan eljárás, amelynek során a személy a tag vagy résztvevő vagy ügyfél infrastruktúráját, vagy bármiféle, a tag vagy résztvevő vagy ügyfél által biztosított csatlakozási rendszert használ a megbízások továbbítására (közvetlen piaci hozzáférés), valamint olyan eljárás, amelynek során e személy nem használja ezen infrastruktúrát (szponzorált hozzáférés), a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 20. cikkében meghatározottak figyelembevételével,
+- 38b. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom,
 - 39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem Magyarország területén van,
 - 40. különleges célú gazdasági egység: kizárólag a külön törvény szerinti értékpapírosítási ügylet végrehajtása céljából létrehozott jogalany, amely működhet alap (értékpapírosító alap) vagy társaság (értékpapírosító társaság) formájában,
 - 41. lakossági ügyfél: a szakmai ügyfélnek nem minősülő ügyfél,
@@ -391,7 +392,7 @@ használnak,
 - k) egyéb, az a)–j) pontban nem említett eszközhöz, joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, valamint a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 8. cikkében meghatározott származtatott ügylet,
 - l) az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, amely olyan részegységekből áll, amelyek az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény előírásainak megfelelnek.
 
-#### 6/A. §
+6/A. § A befektetési vállalkozás az 5. § (1) bekezdésében és (2) bekezdés a) és b) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (3) bekezdésében foglaltaknak megfelelően.
 
 7. § (1) Befektetési szolgáltatási tevékenységet – ha e törvény eltérően nem rendelkezik – csak befektetési vállalkozás és hitelintézet végezhet.
 
@@ -4462,6 +4463,7 @@ foglalt követelményeknek.
 - d) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendeletének
 - e) a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet
 - f) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
+- g) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
