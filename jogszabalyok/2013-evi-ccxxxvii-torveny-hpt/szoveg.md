@@ -49,7 +49,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - b) hitel és pénzkölcsön nyújtása,
 - c) pénzügyi lízing,
 - d) pénzforgalmi szolgáltatás nyújtása,
-- e) elektronikus pénz kibocsátása,
+- e) elektronikus pénz kibocsátása, ideértve az elektronikuspénz-tokenek kibocsátását is,
 - f) olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papír alapú utazási csekk, váltó) kibocsátása, illetve az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak,
 - g) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása,
 - h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység,
@@ -110,6 +110,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 14. egyéb rendszerszinten jelentős hitelintézet: olyan rendszerszinten jelentős hitelintézet, amelynek felszámolása vagy nem prudens működése több EGT-állam tekintetében vagy EGT-állami szinten rendszerkockázathoz vezethet;
 - 15. egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer követelmény: a Magyarországon vagy más EGT-államban jelentős kockázatot hordozó hitelintézet csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény;
 - 16. elektronikus pénz: az elektronikus pénz kibocsátójával szembeni követelés által megtestesített, elektronikusan tárolt – ideértve a mágneses tárolást is – összeg, amelyet pénzeszköz átvétele ellenében bocsátanak ki a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetési műveletek teljesítése céljából, és amelyet az elektronikus pénz kibocsátóján kívül más természetes és jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is elfogad, ide nem értve a (4) bekezdés k) pontja szerinti eszközön tárolt vagy l) pontjában rögzített fizetési műveletre használt értéket;
+- 16a. elektronikuspénz-token: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] ekként meghatározott fogalom;
 - 17. ellenőrzött vállalkozás: a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.) meghatározott fogalom;
 - 18. ellenőrző befolyás: a számvitelről szóló 2000. évi C. törvény (a továbbaikban: Szmt.) szerinti anyavállalat fogalmánál használt meghatározó befolyás vagy egy személy és egy vállalkozás között fennálló olyan kapcsolat, amelynek alapján
   - a) a befolyással rendelkező személy dönthet a vállalkozás nyereségének felosztásáról, nyereségének vagy veszteségének más vállalkozáshoz való átcsoportosításáról, stratégiájáról, üzletpolitikájáról vagy értékesítési politikájáról,
@@ -190,6 +191,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 66a. közvetítői alvállalkozó: közvetítővel pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó;
 - 67. közvetítői díj: minden olyan pénzben vagy természetben juttatott térítés, amelyet a közvetítő akár az ügyféltől, akár a pénzügyi szolgáltatást nyújtó személytől az ügyfél és a pénzügyi szolgáltatást nyújtó személy között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, illetve meghatározott időtartamig történő fennállásáért kap;
 - 68. közvetlen banküzemi célt szolgáló vállalkozás: egy vagy több hitelintézet vagy pénzügyi vállalkozás üzemviteléhez, zavartalan működéséhez nélkülözhetetlen fejlesztést, beszerzést, értékesítést, ipari szolgáltatást és termékelőállítást végző, illetve biztonsági feladatokat ellátó vállalkozás;
+- 68a. kriptoeszköz-szolgáltatás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
 - 69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a hitelintézet vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését;
 - 70. külföldi hitelintézet: az a hitelintézet, amelynek székhelye Magyarországon kívül van;
 - 71. külföldi pénzügyi intézmény: a külföldi hitelintézet és a külföldi pénzügyi vállalkozás;
@@ -386,6 +388,7 @@ ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 - p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 - q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
 - r) hitelintézet esetén az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti, pénzügyi szolgáltatásnak, befektetési szolgáltatási tevékenységnek nem minősülő egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is
+- s) kriptoeszköz-szolgáltatást
 
 végezhet.
 
@@ -5510,7 +5513,10 @@ való megfelelést szolgálja.
   - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek,
   - b) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendeletnek,
   - c) a tőkepiacról szóló 2001. évi CXX. törvénnyel és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletnek
-  - d) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+  - d) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek
+  - e) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletnek
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 6. melléklet a 2013. évi CCXXXVII. törvényhez
 

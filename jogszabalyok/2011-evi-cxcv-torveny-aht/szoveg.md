@@ -1519,7 +1519,7 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 (2) A kincstár feladatai ellátása érdekében jogosult
 
 - a) törvényben meghatározott körben, mértékben és célra pénzforgalmi szolgáltatások nyújtására, ideértve a fizetési számla vezetését és a készpénz nélküli fizetési forgalom lebonyolítását is,
-- b) elektronikus pénz kibocsátására,
+- b) elektronikus pénz – ide nem értve az elektronikuspénz-tokent – kibocsátására,
 - c) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 5. § (1) bekezdés a)–c) és g) pontja szerinti befektetési szolgáltatási tevékenység és 5. § (2) bekezdés a) és b) pontja szerinti kiegészítő befektetési szolgáltatási tevékenység végzésére,
 - d) az államháztartás központi alrendszerébe tartozó költségvetési szervek esetén díjazás ellenében a kárpótlási jegyek őrzésével és kezelésével kapcsolatos feladatok ellátására, és
 - e) olyan fizetési eszköz alkalmazására, amely birtokosa rendelkezhet a számla-követeléséről, és ezáltal más számára fizetést teljesíthet, amely rendszerint személyazonosító kód, illetve más hasonló azonosító használatához kötött, ilyen különösen a számla-követelésről való rendelkezést a telefon vagy számítógép útján biztosító egyéb eszköz (távolról hozzáférést biztosító fizetési eszköz).
@@ -2409,7 +2409,9 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 
 #### 74. Az Európai Unió jogának való megfelelés
 
-112. § A 13. §, a 22–24. §, a 29. §, a 29/A. §, a 90. § (3) bekezdés f) pontja és a 103. § (4) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+112. § (1) A 13. §, a 22–24. §, a 29. §, a 29/A. §, a 90. § (3) bekezdés f) pontja és a 103. § (4) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) Ez a törvény a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 113. §
 
