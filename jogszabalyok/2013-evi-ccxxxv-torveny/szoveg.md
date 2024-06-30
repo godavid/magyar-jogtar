@@ -30,7 +30,8 @@ az egyes fizetési szolgáltatókról
 - 6. elektronikuspénz: Hpt.-ben meghatározott elektronikuspénz,
 - 6a. elektronikuspénz-értékesítő: az a személy, amely az elektronikuspénz kibocsátója nevében az elektronikuspénzt értékesíti, illetve visszaváltja,
 - 7. elektronikuspénz-kibocsátója: Magyar Nemzeti Bank és kincstár, valamint az a hitelintézet, elektronikuspénz-kibocsátó intézmény, Posta Elszámoló Központot működtető intézmény, amely elektronikus pénzt bocsát ki,
-- 7a. érzékeny fizetési adatok: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben (a továbbiakban: Pft.) meghatározott érzékeny fizetési adatok,
+- 7a. elektronikuspénz-token: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013 a /36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet]meghatározott elektronikuspénz-token,
+- 7b. érzékeny fizetési adatok: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben (a továbbiakban: Pft.) meghatározott érzékeny fizetési adatok,
 - 8. fizetési rendszer működtetése: a Hpt.-ben meghatározott fizetési rendszer működtetése,
 - 9. fizetési művelet: a Pft.-ben meghatározott fizetési művelet,
 - 10. fizetési számla: a Pft.-ben meghatározott fizetési számla,
@@ -43,6 +44,7 @@ az egyes fizetési szolgáltatókról
 - 16. hitel és pénzkölcsön nyújtása: a Hpt.-ben meghatározott hitel és pénzkölcsön nyújtása,
 - 17. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozam kifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege,
 - 18. jegyzett tőke: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szmt.) 35. § (3) bekezdése szerint meghatározott tőke,
+- 18a. jelentős elektronikuspénz-token: az (EU) 2023/1114 európai parlamenti és tanácsi rendelet alapján jelentősnek minősített elektronikuspénz-token,
 - 19. jó üzleti hírnév: a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény vezetőinek, befolyásoló részesedéssel rendelkező tulajdonosainak a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte,
 - 20. készpénzátutalás: a Hpt.-ben meghatározott készpénzátutalás,
 - 21. készpénz-helyettesítő fizetési eszköz: a Hpt.-ben meghatározott készpénz-helyettesítő fizetési eszköz,
@@ -671,6 +673,8 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 (3) Az elektronikuspénz-kibocsátó intézmény a szavatoló tőkéjének kiszámítására az 575/2013/EU rendelet Második rész I. Címének rendelkezéseit alkalmazza azzal, hogy az említett rendelet szerinti alapvető tőke legalább 75%-ának az említett rendelet 50. cikkében meghatározott elsődleges alapvető tőkéből kell állnia és az említett rendelet szerinti járulékos tőke legfeljebb a kiszámított alapvető tőke egyharmada lehet.
 
+(4) Jelentős elektronikuspénz-tokent kibocsátó elektronikuspénz-kibocsátó intézmény az (1)–(3) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 35. cikk (2), (3) és (5) bekezdésében, valamint 45. cikk (5) bekezdésében foglaltakat alkalmazza.
+
 48. § Ha az elektronikuspénz-kibocsátó intézmény
 
 - a) egy másik elektronikuspénz-kibocsátó intézménnyel, pénzforgalmi intézménnyel, hitelintézettel, befektetési vállalkozással, befektetési alapkezelő társasággal, biztosítóval vagy viszontbiztosítóval azonos csoportba tartozik, vagy
@@ -714,6 +718,8 @@ kell alkalmazni.
 (5) A (3) bekezdés alkalmazásában egyedi kockázati súlyú kötvények minősülnek biztonságos, alacsony kockázatú eszközöknek, amelyek esetében az egyedi kockázathoz kapcsolódó tőkekövetelmény az 575/2013/EU rendelet 336. cikk 1. táblázata szerint legfeljebb 1,6%.
 
 (6) Az (5) bekezdésben meghatározottakon túl biztonságos, alacsony kockázatú eszköz az ÁÉKBV olyan kollektív befektetési értékpapírja, amely kizárólag az (5) bekezdésben meghatározott eszközbe fektet.
+
+(6a) Jelentős elektronikuspénz-tokent kibocsátó elektronikuspénz-kibocsátó intézmény a (3)–(6) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 36., 37. és 38. cikkében, valamint 45. cikk (1)–(4) bekezdésében foglaltakat alkalmazza.
 
 (7) Az elektronikuspénz-kibocsátó intézmény előzetesen tájékoztatja a Felügyeletet a kibocsátott elektronikuspénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
 
@@ -1038,6 +1044,8 @@ van összefüggésben.
 (8) Az elektronikuspénz-kibocsátója az elektronikuspénzre kamatot nem fizethet, továbbá egyéb juttatást sem biztosíthat.
 
 (9) Az (1)–(8) bekezdésben foglaltakat az elektronikuspénzt kibocsátó Magyar Nemzeti Bankra is alkalmazni kell.
+
+(10) Az elektronikuspénz-tokent kibocsátó az (1) – (8) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 49. cikkében és az 50. cikk (1) és (3) bekezdésében foglaltakat alkalmazza.
 
 67. § A forgatható utalvány tartalmazza legalább
 
@@ -1391,7 +1399,12 @@ végzését.
 - b) az Európai Parlament és a Tanács 2009/110/EK irányelve (2009. szeptember 16.) az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről,
 - c) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
 
-(1a) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(1a) Ez a törvény
+
+- a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
+- b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdése végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában.
 

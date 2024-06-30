@@ -139,6 +139,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 61. kollektív befektetési értékpapír: a kollektív befektetési forma által forgalomba hozott értékpapír, továbbá a kollektív befektetési forma által forgalomba hozott, a kollektív befektetési formában való részvételt tanúsító egyéb okirat;
 - 62. kollektív befektetési forma: minden olyan kollektív befektetés, amely több befektetőtől gyűjt tőkét abból a célból, hogy meghatározott befektetési politikának megfelelően befektesse a befektetők javára (ÁÉKBV, ABA);
 - 63. kollektív portfóliókezelés: a kollektív befektetési forma számára végzett befektetéskezelési tevékenység, valamint a kollektív befektetési forma létrehozatalához, működtetéséhez kapcsolódó feladatok ellátása;
+- 63a. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] meghatározott fogalom,
 - 64. különleges célú gazdasági egység: a Hpt.-ben meghatározott fogalom;
 - 65. lakossági befektető: nem szakmai befektetőnek minősülő befektető;
 - 66. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol azzal, hogy a leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni;
@@ -227,6 +228,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - b) befektetési tanácsadás,
 - c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja, továbbá a kollektív befektetési értékpapírokkal kapcsolatos adminisztratív szolgáltatások.
 
+(2a) Az ÁÉKBV-alapkezelő a (2) bekezdés a) és b) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (5) bekezdésében foglaltaknak megfelelően.
+
 (3) Az ÁÉKBV-alapkezelő az (1) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. Az ÁÉKBV-alapkezelő önmagában a (2) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (2) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (2) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ÁÉKBV-alapkezelő az (1) bekezdés c) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
 (4) Az ÁÉKBV-alapkezelő az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
@@ -263,6 +266,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - b) befektetési tanácsadás,
 - c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja, továbbá a kollektív befektetési értékpapírokkal kapcsolatos adminisztratív szolgáltatások,
 - d) pénzügyi eszközzel kapcsolatos megbízás felvétele és továbbítása.
+
+(3a) Az ABAK a (3) bekezdés a), b) és d) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (5) bekezdésében foglaltaknak megfelelően.
 
 (4) Az ABAK az (1) bekezdés a) és b) pontjában meghatározott mindkét tevékenység végzésére köteles. Az ABAK önmagában a (2) és (3) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b)–d) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ABAK a (2) bekezdés b) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
@@ -3156,7 +3161,10 @@ van összefüggésben.
 - j) a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
 - k) az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
 - l) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet
-- m) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- m) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
+- n) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosító rendelkezések
 

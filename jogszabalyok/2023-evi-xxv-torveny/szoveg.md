@@ -133,8 +133,9 @@ haladéktalanul gondoskodik, és ezzel egyidejűleg erről a panaszost vagy a k�
 
 - a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) és (1a) bekezdése hatálya alá tartozó foglalkoztató,
 - b) a Magyarországon bejegyzett és az Európai Unió határain kívül engedélyesként vagy üzemeltetőként tengeri olaj- és gázipari tevékenységet folytató foglalkoztató,
-- c) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó foglalkoztató, és
-- d) a Magyarország területén tartózkodó magyar és nem magyar lobogójú, üzemben lévő úszólétesítmény üzemeltetője.
+- c) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó foglalkoztató,
+- d) a Magyarország területén tartózkodó magyar és nem magyar lobogójú, üzemben lévő úszólétesítmény üzemeltetője, és
+- e) az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet hatálya alá tartozó foglalkoztató.
 
 (3) Azon foglalkoztatók, amelyek legalább 50, de legfeljebb 249 személyt foglalkoztatásra irányuló jogviszony keretében foglalkoztatnak, a belső visszaélés-bejelentési rendszert közösen, illetve az erre jogosult más foglalkoztatóval is létrehozhatják. A (2) bekezdés szerinti foglalkoztatók, amelyek legfeljebb 249 személyt foglalkoztatásra irányuló jogviszony keretében foglalkoztatnak, a belső visszaélés-bejelentési rendszert közösen, illetve az erre jogosult más foglalkoztatóval is létrehozhatják.
 
@@ -480,7 +481,12 @@ jogellenesnek minősül akkor is, ha egyébként jogszerű lenne.
 
 58. § A 32. § (1) és (2) bekezdése szerinti szervek, valamint az alapvető jogok biztosa a 38. § szerinti kötelezettségüket első alkalommal az e törvény hatálybalépését követő évre vonatkozóan teljesítik.
 
-59. § (1) Ez a törvény az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet 47. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+59. § (1) Ez a törvény
+
+- a) az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet 47. cikkének,
+- b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
@@ -591,6 +597,7 @@ Az uniós pénzügyi szolgáltatásokra és tőkepiacokra, bankokra, hitelezésr
 - 2.19. Az Európai Parlament és a Tanács 97/9/EK irányelve (1997. március 3.) a befektetőkártalanítási rendszerekről
 - 2.20. Az Európai Parlament és a Tanács 575/2013/EU rendelete (2013. június 26.) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról
 - 2.21. Az Európai Parlament és Tanács (EU) 2020/1503 rendelete (2020. október 7.) az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról
+- 2.22. Az Európai Parlament és a Tanács (EU) 2023/1114 rendelete (2023. május 31.) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról
 - 3. Termékbiztonság és termékmegfelelőség
 - 3.1. Az alábbiak által meghatározott és szabályozott, az uniós piacon forgalmazott termékekkel kapcsolatos biztonsági és megfelelőségi követelmények:
 - 3.1.1. Az Európai Parlament és a Tanács 2001/95/EK irányelve (2001. december 3.) az általános termékbiztonságról
