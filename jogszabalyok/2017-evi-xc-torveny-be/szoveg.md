@@ -1412,6 +1412,8 @@ határozat hozatala nélkül dönt.
 
 (5) Ha a 82. § c) pontja alapján különleges bánásmódot igénylő sértett a tizennyolcadik életévét nem töltötte be, a sértett védelme érdekében a bíróság hivatalból vagy indítványra mellőzheti a sértett tanúként történő kihallgatását, ha a sértett kihallgatására a nyomozás során a (4) bekezdés b) pontjának megfelelően már sor került. Ebben az esetben a sértett nyomozás során tett tanúvallomása bizonyítási eszközként felhasználható.
 
+(6) Ha a 82. § c) pontja alapján különleges bánásmódot igénylő sértett a tizennyolcadik életévét nem töltötte be, a bíróság a 87. § (1) bekezdés b) pont bb) alpontban meghatározott módon végzi el a sértett kihallgatását igénylő vagy azzal járó más eljárási cselekményt, feltéve, hogy a vádemelés előtt a korábbi eljárási cselekményt már ilyen módon hajtották végre. Az eljárási cselekmény más módon csak akkor végezhető el, ha ezt a sértett sajátos szükségletei, személyes jellemzői vagy más fontos ok szükségessé teszi, és a sértett jogai gyakorlásának, kötelezettségei teljesítésének elősegítése és kímélete, illetve védelme más módon is biztosítható.
+
 ### Különösen védett tanú
 
 90. § (1) A bíróság az ügyészség indítványára különösen védett tanúvá nyilváníthatja a különleges bánásmódot igénylő tanút, ha
@@ -11792,19 +11794,24 @@ terjeszti fel.
 
 (4) A legfőbb ügyész vagy az igazságügyért felelős miniszter a kegyelmi kérelmet, illetve az igazságügyért felelős miniszter a bíróság kegyelmi kezdeményezését a köztársasági elnökhöz akkor is felterjeszti, ha a kegyelem gyakorlása iránt nem tesz előterjesztést.
 
-861. § A köztársasági elnök a kegyelmi döntésről szóló határozatot – az ellenjegyzési jog gyakorlása érdekében – az igazságügyért felelős miniszternek küldi meg. Az igazságügyért felelős miniszter az ellenjegyzési jog gyakorlásáról tájékoztatja a köztársasági elnököt.
+861. § A köztársasági elnök a kegyelmi döntésről szóló határozatot a kegyelmi kérelmet előterjesztő igazságügyért felelős miniszter vagy legfőbb ügyész részére küldi meg.
 
-862. § (1) Ha az előterjesztő a legfőbb ügyész volt, a kegyelmi döntésről szóló ellenjegyzett határozatot és a kegyelmi eljárás iratait az igazságügyért felelős miniszter megküldi a legfőbb ügyésznek. A legfőbb ügyész a kegyelmi döntésről szóló ellenjegyzett határozatot és a kegyelmi eljárás iratait annak az ügyészségnek küldi meg, amely előtt a büntetőeljárás folyamatban van.
+861/A. § A köztársasági elnök az egyéni kegyelmezési jogát nem gyakorolhatja, ha a terhelt gyanúsítotti kihallgatására vagy vele szemben vádemelésre
 
-(2) Ha az előterjesztő az igazságügyért felelős miniszter volt, a kegyelmi döntésről szóló ellenjegyzett határozatot és a kegyelmi eljárás iratait az igazságügyért felelős miniszter megküldi annak a bíróságnak, amely előtt a büntetőeljárás folyamatban van.
+- a) tizennyolcadik életévét betöltött személy által tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, vagy
+- b) az a) pontban meghatározott bűncselekménnyel vagy az a) pontban meghatározott bűncselekmény miatt indult büntetőeljárással összefüggő, tizennyolcadik életévét betöltött személy által elkövetett más szándékos bűncselekmény
 
-(3) Ha a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter nem ellenjegyzi, e döntését a határozat eredeti példányára rávezeti. Ellenjegyzés hiányában a kegyelmi eljárás befejeződik. Az erről szóló tájékoztatás és a kegyelmi eljárás iratainak megküldésére az (1) és (2) bekezdést megfelelően alkalmazni kell.
+miatt került sor.
 
-(4) A kegyelmi döntésről szóló ellenjegyzett határozatot vagy a kegyelmi eljárás befejeződéséről szóló tájékoztatást a terheltnek, a védőnek és a kegyelmi kérelem előterjesztőjének az a bíróság vagy ügyészség kézbesíti, amely előtt a büntetőeljárás folyamatban van. A bíróság vagy az ügyészség a büntetőeljárást megszüntető kegyelmi döntésről szóló ellenjegyzett határozattal egyidejűleg az eljárást megszüntető határozatot is kézbesíti. Fogva tartott terhelt esetén a bíróság vagy az ügyészség a kegyelmi döntésről szóló ellenjegyzett határozat másolatát megküldi a fogva tartást végrehajtó szervnek.
+862. § (1) A legfőbb ügyész a kegyelmi döntésről szóló határozatot és a kegyelmi eljárás iratait annak az ügyészségnek küldi meg, amely előtt a büntetőeljárás folyamatban van.
 
-(5) Ha a kegyelmi eljárás a (3) bekezdésben meghatározotton kívül más okból fejeződik be, ennek tényét az a szerv vagy személy állapítja meg, amely vagy aki előtt a kegyelmi eljárás folyamatban van.
+(2) Ha az előterjesztő az igazságügyért felelős miniszter volt, a kegyelmi döntésről szóló határozatot és a kegyelmi eljárás iratait az igazságügyért felelős miniszter megküldi annak a bíróságnak, amely előtt a büntetőeljárás folyamatban van.
 
-(6) Ha a köztársasági elnök nem gyakorolt kegyelmet vagy a kegyelmi eljárás a (3) bekezdésben meghatározott okból fejeződött be, nincs akadálya annak, hogy az arra jogosult újabb kegyelmi kérelmet nyújtson be.
+(3) A kegyelmi döntésről szóló határozatot a terheltnek, a védőnek és a kegyelmi kérelem előterjesztőjének az a bíróság vagy ügyészség kézbesíti, amely előtt a büntetőeljárás folyamatban van. A bíróság vagy az ügyészség a büntetőeljárást megszüntető kegyelmi döntésről szóló határozattal egyidejűleg az eljárást megszüntető határozatot is kézbesíti. Fogva tartott terhelt esetén a bíróság vagy az ügyészség a kegyelmi döntésről szóló határozat másolatát megküldi a fogvatartást végrehajtó szervnek.
+
+(4) Ha a kegyelmi eljárás a köztársasági elnök döntése nélkül más okból fejeződik be, ennek tényét az a szerv vagy személy állapítja meg, amely vagy aki előtt a kegyelmi eljárás folyamatban van.
+
+(5) Ha a köztársasági elnök nem gyakorolt kegyelmet, nincs akadálya annak, hogy az arra jogosult újabb kegyelmi kérelmet nyújtson be.
 
 ### CXI. Fejezet — A BŰNÜGYI KÖLTSÉG ÉS A RENDBÍRSÁG MÉRSÉKLÉSE VAGY ELENGEDÉSE
 
@@ -12003,9 +12010,13 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 
 876/D. § Ha az elsőfokú bíróság gazdálkodással összefüggő kiemelt bűncselekmény miatt a 13. § (3) bekezdése alapján járt el három hivatásos bíróból álló tanácsban, a büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2023. évi XCVII. törvény 1–9. alcíme hatálybalépését követően a tanács elnökének döntése alapján egyesbíróként, vagy változatlan összetételű tanácsban jár el.
 
+876/E. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: 2024. évi XXX. törvény) megállapított 861. §-át és 862. §-át a 2024. évi XXX. törvény hatálybalépésekor folyamatban lévő kegyelmi eljárásokban is alkalmazni kell azzal, hogy a köztársasági elnök kegyelmi döntésről szóló, miniszteri ellenjegyzési jog gyakorlása érdekében megküldött határozata – amennyiben a miniszteri ellenjegyzési jog gyakorlására 2024. június 30-ig nem került sor – 2024. július 1-jén válik érvényessé.
+
 ### Sarkalatossági záradék
 
-877. § A Hatodik Rész, a 339. § (2) és (3) bekezdése, a 340. § (1) és (2) bekezdése, a 341. §, a 343. §, a 344. § (6) bekezdése, a 345. § (2) és (3) bekezdése, az LV. Fejezet, a 464. § (3) bekezdése, a 641. § (4) bekezdése, a 820. § (6) bekezdése, a 872. § és a 879. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+877. § (1) A Hatodik Rész, a 339. § (2) és (3) bekezdése, a 340. § (1) és (2) bekezdése, a 341. §, a 343. §, a 344. § (6) bekezdése, a 345. § (2) és (3) bekezdése, az LV. Fejezet, a 464. § (3) bekezdése, a 641. § (4) bekezdése, a 820. § (6) bekezdése, a 872. § és a 879. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 861/A. § az Alaptörvény 9. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

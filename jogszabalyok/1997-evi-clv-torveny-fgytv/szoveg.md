@@ -990,12 +990,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 45/B. § A fogyasztóvédelmi hatóság ellenőrzi a fogyasztói szerződés megkötésénél alkalmazott vagy e célból nyilvánosan megismerhetővé tett általános szerződési feltételeket abban a tekintetben, hogy azok nem tartalmaznak-e a jóhiszeműség és tisztesség követelményébe ütközően a szerződéses jogokat és kötelezettségeket egyoldalúan és indokolatlanul a fogyasztó hátrányára megállapító feltételt.
 
-45/C. § A Nemzeti Adó- és Vámhivatal a fogyasztóvédelmi hatóság részére a 45/A. § (2) bekezdés szerinti feladatainak ellátása érdekében a tárgyhónapot követő hónap 20. napjáig adatot szolgáltat
-
-- a) a vállalkozások részére tárgyhónapban kiadott, továbbá
-- b) – a vállalkozások tárgyhavi adatszolgáltatása alapján – a vállalkozás által a fogyasztók részére átadott
-
-a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerinti, az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás egyszeri aktiválásához szükséges adattörlő kódok darabszámáról a vállalkozás elnevezésének, székhelyének és adószámának megadásával.
+#### 45/C. §
 
 45/D. § (1) A fogyasztói panaszok tekintetében a fogyasztóvédelmi hatóság ellenőrzi a 261/2004/EK európai parlamenti és tanácsi rendeletben meghatározott, a beszállás visszautasítására, a járat törlésére vagy késésére, a magasabb vagy alacsonyabb osztályon történő elhelyezésre, a csökkent mozgásképességű vagy különleges szükségletekkel rendelkező személyekre, valamint az utasok részére nyújtandó tájékoztatási kötelezettségre vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 

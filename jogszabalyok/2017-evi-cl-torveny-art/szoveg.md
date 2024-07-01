@@ -1138,9 +1138,9 @@ A befektetési szolgáltató az adóévet követő év január 31. napjáig elek
 
 #### 86. § [Építésügyi hatósági adatszolgáltatás]
 
-(1) Az építésügyi hatóság az általa kiadott használatbavétel tudomásulvételéről szóló hatósági bizonyítvány egy példányát haladéktalanul megküldi az ingatlan fekvése szerint illetékes önkormányzati adóhatósághoz és állami adó- és vámhatósághoz.
+(1) Az állami adó- és vámhatóság az Országos Építésügyi Nyilvántartáson keresztül hozzáfér az építésügyi hatóság által kiadott és véglegessé vált használatbavételi és fennmaradási engedélyekhez, használatbavétel tudomásulvételéről szóló hatósági bizonyítványokhoz, továbbá az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítványokhoz.
 
-(2) Az (1) bekezdéstől eltérően, a használatbavételi engedélyhez kötött építmények esetében az építésügyi hatóság az általa kiadott véglegessé vált használatbavételi, illetve véglegessé vált fennmaradási engedély egy példányát, a véglegessé válás közlése időpontjának megjelölésével megküldi az ingatlan fekvése szerint illetékes önkormányzati adóhatósághoz és állami adó- és vámhatósághoz.
+(2) Az építésügyi hatóság az általa kiadott, véglegessé vált használatbavételi és fennmaradási engedély, használatbavétel tudomásulvételéről szóló hatósági bizonyítvány egy példányát haladéktalanul megküldi az ingatlan fekvése szerint illetékes önkormányzati adóhatóságnak.
 
 #### 87. § [A közúti közlekedési nyilvántartási szerv adatszolgáltatása]
 
@@ -1348,6 +1348,33 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (18) Az állami adó- és vámhatóság honlapján folyamatosan nyilvánosságra hozza a nyilvántartásba vett vagy törölt szervizek, valamint az érvényes és az érvénytelen műszerészi igazolványok, plombanyomók adatait.
 
+#### 106/A. § [Az e-pénztárgép és a vevői alkalmazás engedélyezésére vonatkozó szabályok]
+
+(1) Az e-pénztárgép, a vevői alkalmazás forgalmazásával, valamint az e-pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségeket – a kötelezettség fennállása alatt és az azt követő ötödik naptári év végéig – az állami adó- és vámhatóság ellenőrzi, valamint felügyeli az e-pénztárgépet és működését.
+
+(2) Az e-pénztárgép és a vevői alkalmazás forgalmazási engedélyének kiadásáért, módosításáért, kiterjesztéséért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+(3) Az e-pénztárgép és a vevői alkalmazás forgalmazását, valamint az e-pénztárgép üzembe helyezését a notifikációs eljárás lezárultát követően külön jogszabályban meghatározottak szerint kell engedélyeztetni. E paragrafus alkalmazásában az engedélyező hatóság az állami adó- és vámhatóság.
+
+(4) Az állami adó- és vámhatóság az e-pénztárgépre és a vevői alkalmazásra vonatkozóan a honlapján folyamatosan nyilvánosságra hozza
+
+- a) az érvényes forgalmazási engedéllyel rendelkező e-pénztárgép megnevezését, engedélyszámát és az engedélyező határozat véglegessé válásának napját, valamint a forgalmazó nevét és címét,
+- b) a visszavont forgalmazási engedélyek engedélyszámát, az engedély visszavonásának dátumát, a visszavonás okát, a visszavonással érintett e-pénztárgép megnevezését, valamint a forgalmazó nevét és címét,
+- c) a forgalmazó jogutód nélküli megszűnése miatt érvénytelenné vált forgalmazási engedély számát és az érvénytelenné válás időpontját és
+- d) a forgalmazó jogutóddal történő megszűnése esetén a jogelőd és a jogutód nevét és címét, az e-pénztárgép, valamint a forgalmazási engedély engedélyszámát és a forgalmazási engedély átírásának időpontját.
+
+(5) Az e-pénztárgép üzemeltetésével kapcsolatos ellenőrzés során – ha az elektronikus hírközlő hálózat elérhetetlenségére vonatkozó tény vagy adat merül fel – az állami adó- és vámhatóság kérheti a Nemzeti Média- és Hírközlési Hatóság szakhatóságként történő közreműködését az elektronikus hírközlő hálózat elérhetősége kérdésében.
+
+(6) Az állami adó- és vámhatóság felügyeleti, valamint ellenőrzési tevékenysége során, ha az e-pénztárgéppel történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható, az ellenőrzése során talált hardveralapú e-pénztárgépet vizsgálat céljából átvételi elismervény ellenében legfeljebb tizenöt napra bevonhatja, vagy blokkolja. A nem hardveralapú e-pénztárgépet blokkolja, a szoftvert futtató eszközt vizsgálat céljából lefoglalhatja. A bevonás, blokkolás, lefoglalás időszaka alatt az adózó a nyugtakibocsátási kötelezettségét, ha a jogszabályban meghatározottaknak megfelelő, adóigazgatási azonosításra alkalmas nyugta adására szolgáló másik e-pénztárgéppel is rendelkezik, annak alkalmazásával, e-pénztárgép hiányában nyomtatvány alkalmazásával előállított nyugtával teljesíti.
+
+(7) Ha az ellenőrzési vagy a felügyeleti tevékenység eredményeként megállapítást nyer, hogy az e-pénztárgép, a vevői alkalmazás a jogszabályban meghatározott követelményeknek nem felel meg, és ez befolyásolja az adózással összefüggő funkciókat, valamint a hiba, hiányosság nem küszöbölhető ki, vagy azt az arra kötelezett az előírt határidőn belül nem teljesíti, az engedélyező hatóság határozattal előírja, az e-pénztárgép és a vevői alkalmazás végleges blokkolását, az e-pénztárgép állami adó- és vámhatóság részére történő leadását és megsemmisítését.
+
+#### 106/B. § [Az e-pénztárgép adatszolgáltatására vonatkozó szabályok]
+
+(1) A hardveralapú e-pénztárgépek adatkapcsolatát biztosító hírközlési szolgáltató az e-pénztárgép azonosítóit nem kapcsolhatja össze az e-pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a hardveralapú e-pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adó- és vámhatóság részére.
+
+(2) Az adózó az e-pénztárgépről és működésének adatairól külön jogszabályban meghatározottak szerint, a műszaki notifikációs eljárás lezárását követően adatot szolgáltat az állami adó- és vámhatóság részére.
+
 #### 107. § [Az automataberendezés adatszolgáltatása]
 
 (1) Az automataberendezést üzemeltető adózó köteles a jogszabályban meghatározott adattartalommal – automataberendezésenként – az állami adó- és vámhatósághoz elektronikus úton bejelenteni:
@@ -1426,12 +1453,13 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (23) Ha az ellenőrző vizsgálat eredményeként megállapítást nyer, hogy az AFE az e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek nem felel meg, és ez befolyásolja az adózással összefüggő funkciókat és a hiba, hiányosság nem küszöbölhető ki, vagy azt az arra kötelezett az előírt határidőn belül nem teljesíti, az engedélyező hatóság határozattal előírja az AFE engedélyező hatóság részére történő leadását. A leadott AFE-t az engedélyező hatóság megsemmisíti, és erről az állami adó- és vámhatóságot értesíti.
 
-#### 108. § [Online pénztárgép és automataberendezés adatszolgáltatásához kapcsolódó hatósági ár]
+#### 108. § [Pénztárgép, e-pénztárgép és automataberendezés adatszolgáltatásához kapcsolódó hatósági ár]
 
 (1) A hatósági ár
 
-- a) az Áfa tv. szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár,
-- b) az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár.
+- a) az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár,
+- b) az Áfa tv. szerinti, a nyugtaadási kötelezettség hardveralapú e-pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár,
+- c) az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
@@ -1459,16 +1487,19 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (12) E § alkalmazásában hatósági ár
 
-- a) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított,
-- b) az üzemeltető részére nyújtott, az automataberendezések útján megvalósított
+- a) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított,
+- b) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség hardveralapú e-pénztárgéppel történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított, vagy
+- c) az üzemeltető részére nyújtott, az automataberendezések útján megvalósított
 
 adatszolgáltatást biztosító valamennyi szolgáltatás ára.
 
 (13) E § alkalmazásában üzemeltető
 
 - a) a jogszabály szerint pénztárgép használatra kötelezett,
-- b) a jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó, vagy
-- c) az automataberendezést jogszabály szerint üzemeltető.
+- b) a jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó,
+- c) a jogszabály szerint e-pénztárgép használatra kötelezett,
+- d) a jogszabály szerint e-pénztárgép használatra nem kötelezett, de e-pénztárgépet saját döntése alapján használó, vagy
+- e) az automataberendezést jogszabály szerint üzemeltető.
 
 #### 109. § [Soron kívüli adatszolgáltatás]
 
@@ -1669,6 +1700,8 @@ A csoportos társasági adóalany Tao tv. szerinti adófizetési kötelezettség
 
 (3) Az adóhatóság az eljárása során annak lefolytatásához – jogszabályban meghatározott módon és körben – megismerheti azokat a védett adatokat, amelyek eljárásával összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
 
+(4) Az állami adó- és vámhatóság által működtetett gazdasági társaság a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott, e-pénztárgéppel összefüggő feladatkörében történő eljárása során megismerheti azokat a védett adatokat, amelyek eljárásával összefüggnek, illetve amelyek kezelése a feladatellátása eredményes lefolytatása érdekében szükséges.
+
 #### 123/A. § [Az ellenőrzési eljárás keretében végrehajtott adatmentés során lemásolt adatok kezelése]
 
 Ha az adóhatóságnak az ellenőrzési eljárás keretében végrehajtott adatmentés során tudomására jut a tényállás tisztázásához nem elengedhetetlenül szükséges személyes adat, azt haladéktalanul törli vagy – ha annak haladéktalan törlése nem lehetséges vagy az az ellenőrzési eljárás eredményes lefolytatására tekintettel aránytalan erőfeszítéssel járna – a személyes adatok védelmére vonatkozó előírások szerint az ilyen adat kezelését korlátozza. Az e § szerint korlátozott adatot csak az érintett ismerheti meg, azon – az adat tárolásán túl – további adatkezelési művelet nem végezhető. Az e § szerint korlátozott adatot legkésőbb a törlés akadályául szolgáló körülmény elhárulását követően haladéktalanul törölni kell.
@@ -1691,6 +1724,8 @@ Ha az adóhatóságnak az ellenőrzési eljárás keretében végrehajtott adatm
 - b) az egyedi ügyintézés és tájékoztatás, valamint az általános tájékoztatás során rögzített telefonbeszélgetésről kérelemre másolatot ad ki.
 
 (6) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, az állam közvetlen vagy közvetett többségi tulajdonában álló jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg, kivéve, ha e korlátozás alól az állami adó- és vámhatóságot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyonról szóló törvényben meghatározott határozott idejű egyedi felmentést ad.
+
+(7) A nyugtatár-szolgáltató a nyugtatárba beérkezett adatokat tíz évig őrzi.
 
 #### 125. § [Közhiteles adóhatósági nyilvántartásra vonatkozó szabályok]
 
@@ -3404,15 +3439,15 @@ A bejelentéssel és a nyilvántartásba vétellel, az abból való törléssel,
 
 #### 256. § [Az állami adó- és vámhatóság által nyújtott szolgáltatások]
 
-Az állami adó- és vámhatóság
+(1) Az állami adó- és vámhatóság
 
 - 1. támogatja a kezdő vállalkozásokat adókötelezettségeik teljesítésében,
 - 2. jogszabályban meghatározott ügykörben ügyfélszolgálatain országos illetékességgel intézi az adóügyeket,
 - 3. törvényben meghatározott módon közreműködik a természetes személyek személyi jövedelemadó bevallási kötelezettségének teljesítésében,
 - 4. jogszabályban meghatározott telefonos ügyféltájékoztató és ügyintéző rendszert működtet,
 - 5. erre kijelölt ügyfélszolgálatain az egyéb szolgáltatásokon kívül a jogszabályban meghatározott adófizetési kötelezettség bankkártyával történő teljesítését biztosítja,
-- 6. az adókötelezettségek, valamint adótörvényben vagy adótörvény felhatalmazása alapján kiadott rendeletben meghatározott más kötelezettség teljesítéséhez, illetve kérelem benyújtásához nyomtatványt, elektronikus űrlapot rendszeresít,
-- 7. a honlapján személyes adónaptárat, kalkulátorokat, késedelmi pótlék prognózist, ügyfélszolgálat-kereső felületet működtet,
+- 6. az adókötelezettségek, valamint adótörvényben vagy adótörvény felhatalmazása alapján kiadott rendeletben meghatározott más kötelezettség teljesítéshez, illetve kérelem benyújtásához nyomtatványt, elektronikus űrlapot rendszeresít,
+- 7. a honlapján személyes adónaptárat, kalkulátorokat, késedelmi pótlék prognózist, ügyfélszolgálat kereső felületet működtet,
 - 8. lekérdezési lehetőséget biztosít az adózók számára az e törvényben, illetve jogszabályban meghatározott, általa nyilvántartott adatokhoz,
 - 9. köztartozásmentes adózói adatbázist működtet és tesz közzé,
 - 10. a bejelentési, változásbejelentési kötelezettség teljesítéséhez online felületet biztosít,
@@ -3424,6 +3459,8 @@ Az állami adó- és vámhatóság
 - 16. honlapján az adókötelezettségek jogszerű teljesítésének, valamint az adózói jogosultságok érvényesítésének elősegítése, illetve az adózó gazdasági érdekeinek védelme érdekében teljesíti e törvényben és jogszabályban meghatározott közzétételi kötelezettségét,
 - 17. évente, a tárgyévet megelőző hónap tizenötödik napjáig a Magyar Közlönyben közzéteszi a tárgyévi adóteljesítményre, valamint a kiemelt adózói minősítésre vonatkozó értékhatárokat,
 - 18. az állami adó- és vámhatóság az adózót érintő, nyilvántartásában szereplő általános forgalmi adóalapra és adóra vonatkozó adatok rendelkezésre bocsátásával – ide nem értve az alanyi adómentességben részesülő, mezőgazdasági tevékenységet folytatóként eljáró vagy kizárólag adómentes tevékenységet végző általános forgalmi adóalanyra vonatkozó adatokat – és az Áfa tv. szerinti bevallás-tervezet összeállításával közreműködik az általános fogalmi adó bevallási kötelezettség teljesítésében.
+
+(2) A nyugtatárat az állami adó- és vámhatóság üzemelteti.
 
 #### 257. § [Kezdő vállalkozások támogatása]
 
@@ -3499,7 +3536,7 @@ Az állami adó- és vámhatóság az adózót terhelő adókötelezettség jogs
 
 - a) az általános forgalmiadó-alanynak minősülő adózók, valamint általános forgalmiadó-alanynak nem minősülő, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
   - aa) nevét (elnevezését), adószámát, székhelyét, telephelyét,
-  - ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoport azonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, illetve a csoportos általános forgalmi adóalanyiságot engedélyező határozat véglegessé válásának napját,
+  - ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoportazonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, a csoporttagságuk időszakának kezdő és befejező időpontját, illetve a csoportos általános forgalmi adóalanyiságot engedélyező határozat véglegessé válásának napját,
   - ac) közül a pénzforgalmi elszámolást választók esetén e választás tényét, a pénzforgalmi elszámolás időszakának kezdő és befejező időpontját,
 - b) azt a tényt, hogy az általános forgalmiadó-alanynak minősülő adózó (ideértve a csoportos általános forgalmi adóalanyt is) az Áfa tv. 88. § (1) bekezdése alapján az adómentes ingatlan értékesítés vagy bérbeadás tekintetében az adókötelessé tételt választotta, valamint az adókötelessé tétel időpontját,
 - c) azon adózó nevét, elnevezését és adószámát (csoportazonosító számát) az adószám (csoportazonosító szám) törlésére utalással, amely adózó adószámát az állami adó- és vámhatóság a 227. § vagy a 246. § alkalmazásával törölte, a törlést elrendelő határozat véglegessé válásától az adószám megállapításáig vagy ennek hiányában az adózó megszűnéséig,
@@ -3883,6 +3920,8 @@ A globális minimum-adószintet biztosító kiegészítő adókról és ezzel ö
 (8) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény által megállapított 227/B. és 274/R. §-a, valamint 2. melléklet A) Általános rendelkezések pont 3. alpontja az Unióban a multinacionális vállalatcsoportokra és a nagy volumenű belföldi vállalatcsoportokra vonatkozó globális minimum-adószint biztosításáról szóló 2022. december 14-i (EU) 2022/2523 tanácsi irányelvnek való megfelelést szolgálja.
 
 (9) E törvénynek a Módtv.12.-vel megállapított 50. § (2) bekezdés 37. és 38. pontja az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2021. március 22-i (EU) 2021/514 tanácsi irányelvnek való megfelelést szolgálja.
+
+(10) A Szolg. törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező adózó Magyarország területén, e törvény 106/A. § és 106/B. § szerinti forgalmazói tevékenység határon átnyúló szolgáltatás keretében történő folytatására irányuló szándékát köteles az engedélyező hatóságnak bejelenteni.
 
 ### 1. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
 

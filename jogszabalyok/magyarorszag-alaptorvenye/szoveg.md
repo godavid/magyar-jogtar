@@ -486,7 +486,9 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 
 #### XXVI. cikk
 
-Az állam – a működésének hatékonysága, a közszolgáltatások színvonalának emelése, a közügyek jobb átláthatósága és az esélyegyenlőség előmozdítása érdekében – törekszik az új műszaki megoldásoknak és a tudomány eredményeinek az alkalmazására.
+(1) Az állam – a működésének hatékonysága, a közszolgáltatások színvonalának emelése, a közügyek jobb átláthatósága és az esélyegyenlőség előmozdítása érdekében – törekszik az új műszaki megoldásoknak és a tudomány eredményeinek az alkalmazására.
+
+(2) Magyarországon – az (1) bekezdésben meghatározott célok érvényesítése érdekében – az ügyek digitális intézése elsőbbséget élvez, amelyhez az állam törvényben meghatározottak szerint mindenki számára egy egyedi digitális azonosítót biztosít. Az állam – a Kormány rendeletében meghatározott módon és körben – kezeli azokat az adatokat, amelyek az ügyek digitális intézéséhez szükségesek.
 
 #### XXVII. cikk
 
@@ -738,6 +740,8 @@ l) megerősíti tisztségében a Magyar Tudományos Akadémia elnökét és a Ma
 
 m) kialakítja hivatala szervezetét.
 
+n) gyakorolja az egyéni kegyelmezés jogát.
+
 (4) A köztársasági elnök
 
 a) az Országgyűlés felhatalmazása alapján elismeri a nemzetközi szerződés kötelező hatályát;
@@ -752,7 +756,7 @@ e) kinevezi és előlépteti a tábornokokat;
 
 f) törvényben meghatározott kitüntetéseket, díjakat és címeket adományoz, valamint engedélyezi külföldi állami kitüntetések viselését;
 
-g) gyakorolja az egyéni kegyelmezés jogát;
+g)
 
 h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;
 
@@ -765,6 +769,8 @@ j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.
 (6) A köztársasági elnök a (4) bekezdés b)–e) pontjában foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.
 
 (7) A köztársasági elnök a (4) bekezdés f) pontjában foglaltak teljesítését megtagadja, ha az az Alaptörvény értékrendjét sértené.
+
+(8) Sarkalatos törvény határozza meg azon, a gyermek sérelmére elkövetett szándékos bűncselekmények körét, amelyek tekintetében a köztársasági elnök a (3) bekezdés n) pontjában foglalt egyéni kegyelmezési jogát nem gyakorolhatja.
 
 #### 10. cikk
 
@@ -1216,7 +1222,7 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (6) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.
 
-(7)
+(7) Magyarország az Európai Uniónak olyan hitelfelvételéhez és az ahhoz kapcsolódó garanciavállaláshoz, amely Magyarország által teljesítendő fizetési kötelezettséget keletkeztet, az Országgyűlésnek az országgyűlési képviselők kétharmadának szavazatával elfogadott egyedi határozatával adott felhatalmazása alapján, a Kormány egyedi döntése alapján járulhat hozzá.
 
 #### 38. cikk
 
@@ -1295,6 +1301,12 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 (4) A Magyar Honvédség hivatásos állományú tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
 
 (5) A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokat sarkalatos törvény határozza meg.
+
+(6) A Magyar Honvédség hivatásos állományú tagjai jogállásáról a Kormány rendeletet alkot, amelyben a feladat- és hatáskörrel rendelkező miniszter részére felhatalmazást adhat a részletes szabályok megállapítására.
+
+(7) A Magyar Honvédség hivatásos állományú tagjainak a jogállásukkal összefüggő alapvető jogaira és kötelezettségeire vonatkozó szabályok a (6) bekezdés szerinti kormányrendeletben is megállapíthatóak.
+
+(8) A Magyar Honvédség hivatásos állományú tagja jogállásával összefüggésben szakszervezet nem alakulhat és tevékenykedhet. A Magyar Honvédség hivatásos állományú tagja jogállásával összefüggésben működő más érdek-képviseleti szervezet a Kormány rendeletében meghatározott sajátos szabályok szerint alakulhat és tevékenykedhet.
 
 ## A rendőrség és a nemzetbiztonsági szolgálatok
 

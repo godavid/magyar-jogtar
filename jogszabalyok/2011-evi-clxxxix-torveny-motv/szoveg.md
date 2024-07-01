@@ -384,6 +384,10 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) Ha az önkormányzati képviselő tanácsnok, önkormányzati bizottság elnöke vagy tagja, számára magasabb összegű tiszteletdíj is megállapítható. Az önkormányzati képviselő számára történő tiszteletdíj megállapítása nem veszélyeztetheti az önkormányzat kötelező feladatai ellátását.
 
+(2a) Ha a helyi önkormányzattal szemben adósságrendezési eljárás indul, az adósságrendezési eljárás alatt és az adósságrendezési eljárás jogerős befejezését követő két évig az önkormányzati képviselő, a bizottság tagja, a részönkormányzat elnöke, a társulási tanács elnöke és a tanácsnok nem jogosult tiszteletdíjra és természetbeni juttatásra és számára a költségtérítésen felül egyéb jogcímen sem lehet személyi juttatást megállapítani.
+
+(2b) A helyi önkormányzatokért felelős miniszter a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvényben meghatározott eljárás szerinti egyedi döntése alapján a (2a) bekezdésben foglaltak alól a tiszteletdíj tekintetében felmentést ad abban az esetben, ha megállapítható, hogy a kérelmező nem vett részt a helyi önkormányzat gazdálkodását kedvezőtlenül befolyásoló döntéshozatali eljárásban, vagy a döntéssel nem értett egyet, továbbá ha a tiszteletdíj kifizetése az önkormányzati feladatellátást nem veszélyezteti.
+
 (3) Az önkormányzati képviselőnek a képviselő-testület képviseletében vagy a képviselő-testület, továbbá a polgármester megbízásából végzett tevékenységével összefüggő, általa előlegezett, számlával igazolt, szükséges költsége megtéríthető. A képviselői költségek kifizetését a polgármester engedélyezi.
 
 (4) Az önkormányzati képviselő tiszteletdíja és egyéb juttatása közérdekből nyilvános adat.
@@ -765,8 +769,9 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 (2) A 3000 fő feletti lakosságszámú település főállású polgármestere
 
 - a) a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként folytatott tevékenységet is –,
-- b) a nevelőszülői foglalkoztatási jogviszony, valamint
+- b) a nevelőszülői foglalkoztatási jogviszony,
 - c) az egészségügyi tevékenység végzésére irányuló jogviszony – ide nem értve az egészségügyi alapellátásban végzett tevékenységet –
+- d) önkéntes tartalékos szolgálati viszony
 
 kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységéért díjazást nem fogadhat el és nem lehet gazdasági társaság személyesen közreműködő tagja.
 
@@ -783,6 +788,8 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 (2) Az alpolgármester a polgármester irányításával látja el feladatait. Több alpolgármester esetén a polgármester bízza meg általános helyettesét.
 
 75. § (1) Az alpolgármesteri tisztség főállásban is ellátható. A főállású alpolgármester foglalkoztatási jogviszonya a helyi önkormányzat képviselő-testületének a tisztség főállásban történő betöltéséről szóló döntését követően, az alpolgármester megválasztásával jön létre.
+
+(1a) Az adósságrendezési eljárás megindításának napjától az adósságrendezési eljárás jogerős befejezését követő két évig csak a polgármestert általános jogkörrel helyettesítő főállású alpolgármester jogviszonyának megszűnése esetén választható új főállású alpolgármester.
 
 (2) Azon alpolgármester, akit nem a képviselő-testület tagjai közül választottak, nem tagja a képviselő-testületnek, a polgármestert a képviselő-testület elnökeként nem helyettesítheti, de a képviselő-testület ülésein tanácskozási joggal részt vehet. A nem a képviselő-testület tagjai közül választott alpolgármester jogállására egyebekben a képviselő-testület tagjai közül választott alpolgármesterre vonatkozó szabályokat kell alkalmazni.
 
@@ -808,6 +815,10 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 (1a) A 10 000 fő vagy az alatti lakosságszámú település alpolgármestere illetményének összegét a képviselő-testület állapítja meg úgy, hogy az nem haladhatja meg a polgármester illetménye 90%-át.
 
 (2) A társadalmi megbízatású alpolgármester tiszteletdíját a képviselő-testület állapítja meg úgy, hogy az nem haladhatja meg a társadalmi megbízatású polgármester tiszteletdíja 90%-át. A társadalmi megbízatású alpolgármester a tiszteletdíja egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
+
+(2a) Ha a helyi önkormányzattal szemben adósságrendezési eljárás indul, az adósságrendezési eljárás alatt és az adósságrendezési eljárás jogerős befejezését követő két évig a polgármestert általános jogkörrel helyettesítő alpolgármester kivételével az alpolgármester nem jogosult tiszteletdíjra és számára a költségtérítésen felül egyéb jogcímen sem lehet személyi juttatást megállapítani.
+
+(2b) A helyi önkormányzatokért felelős miniszter a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvényben meghatározott eljárás szerinti egyedi döntése alapján a (2a) bekezdésben foglaltak alól a tiszteletdíj tekintetében felmentést ad abban az esetben, ha megállapítható, hogy az alpolgármester nem vett részt a helyi önkormányzat gazdálkodását kedvezőtlenül befolyásoló döntéshozatali eljárásban, vagy a döntéssel nem értett egyet, továbbá ha a tiszteletdíj kifizetése az önkormányzati feladatellátást nem veszélyezteti.
 
 (3) A főpolgármester-helyettes, a főállású alpolgármester, a társadalmi megbízatású alpolgármester, a vármegyei közgyűlés alelnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.
 

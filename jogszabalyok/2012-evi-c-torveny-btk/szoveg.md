@@ -236,7 +236,7 @@ történő jogtalan behatolás, vagy
 
 - a) a XIII. és XIV. Fejezetben meghatározott bűncselekményeknek,
 - b) az életfogytig tartó szabadságvesztéssel is büntethető bűncselekményeknek, és
-- c) a XIX. Fejezetben meghatározott, ötévi szabadságvesztésnél súlyosabban büntetendő bűncselekményeknek, ha a bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét nem töltötte be.
+- c) a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett szexuális kényszerítésnek [196. § (2) bekezdés a) pont, (3) bekezdés], szexuális erőszaknak [197. § (2) bekezdés, (3) bekezdés a) pont, (4)–(4a) bekezdés], szexuális visszaélésnek (198. §), kerítésnek [200. § (2) bekezdés, (3a) bekezdés b) pont, (4) bekezdés a) pont], prostitúció elősegítésének [201. § (2) bekezdés, (4) bekezdés b) pont], gyermekprostitúció kihasználásának (203. §), gyermekpornográfiának [204. § (1)–(4) bekezdés, (6) bekezdés, 204/A. §], szeméremsértésnek [205. § (2) bekezdés], ha az elkövető az elkövetéskor a tizennyolcadik életévét betöltötte.
 
 27. § Az elévülés kezdő napja
 
@@ -390,7 +390,7 @@ részének, de legkevesebb három hónapnak a kitöltését követő nap.
   - ab) részesként, vagy
   - ac) korlátlan enyhítés alkalmazásával,
 - b) a hozzátartozója sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett személy elleni erőszakos bűncselekmény miatt, vagy
-- c) tizennyolcadik életévét be nem töltött személy sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt
+- c) tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt
 
 ítéltek végrehajtandó szabadságvesztésre.
 
@@ -1100,6 +1100,8 @@ felel meg.
 
 (3) Újabb bűncselekmény elkövetése esetén a mentesítés nem terjed ki azokra a büntetőjogi jogkövetkezményekre, amelyeket e törvény a korábbi elítéléshez fűz.
 
+(4) Nem mentesül a büntetett előélethez fűződő hátrányos jogkövetkezmények alól az elkövetéskor tizennyolcadik életévét betöltött elítélt, ha tizennyolcadik életévét be nem töltött személy sérelmére elkövetett szexuális kényszerítés [196. § (2) bekezdés a) pont, (3) bekezdés], szexuális erőszak [197. § (2) bekezdés, (3) bekezdés a) pont, (4)–(4a) bekezdés], szexuális visszaélés (198. §), kerítés [200. § (2) bekezdés, (3a) bekezdés b) pont, (4) bekezdés a) pont], prostitúció elősegítése [201. § (2) bekezdés, (4) bekezdés b) pont], gyermekprostitúció kihasználása (203. §), gyermekpornográfia [204. § (1)–(4) bekezdés, (6) bekezdés, 204/A. §], szeméremsértés [Btk. 205. § (2) bekezdés] miatt öt évet meghaladó tartamú végrehajtandó szabadságvesztésre ítélték.
+
 ### A mentesítés módja
 
 99. § Az elítélt mentesítésben részesülhet
@@ -1153,9 +1155,16 @@ jogára.
 
 ### A kegyelmi mentesítés
 
-104. § (1) A kegyelmi jogkör gyakorlója az elítéltet kegyelemből mentesítésben részesítheti akkor is, ha e törvény szerint ennek egyébként nincs helye.
+104. § (1) A kegyelmi jogkör gyakorlója – a (3) bekezdésben foglalt kivétellel – az elítéltet kegyelemből mentesítésben részesítheti akkor is, ha e törvény szerint ennek egyébként nincs helye.
 
 (2) A kegyelmi mentesítésben részesített személy a büntetőjogon kívüli hátrányos jogkövetkezmények szempontjából büntetlen előéletűnek tekintendő.
+
+(3) A köztársasági elnök az egyéni kegyelmezési jogát nem gyakorolhatja azzal az elítélttel szemben, akit
+
+- a) tizennyolcadik életévét betöltött személy által tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, vagy
+- b) az a) pontban meghatározott bűncselekménnyel vagy az a) pontban meghatározott bűncselekmény miatt indult büntetőeljárással összefüggő, tizennyolcadik életévét betöltött személy által elkövetett más szándékos bűncselekmény
+
+miatt ítéltek el.
 
 ### XI. Fejezet — A FIATALKORÚAKRA VONATKOZÓ RENDELKEZÉSEK
 
@@ -2677,7 +2686,7 @@ terjedő szabadságvesztéssel büntetendő.
 
 ### Kitiltás
 
-206. § Gyermekprostitúció kihasználása, prostitúció elősegítése, kitartottság és szeméremsértés elkövetőjével szemben kitiltásnak is helye van.
+206. § Az e fejezetben meghatározott bűncselekmények esetében az elkövetővel szemben kitiltásnak is helye van.
 
 ### Magánindítvány
 
@@ -6536,9 +6545,9 @@ követik el.
 
 463. § E törvény 2013. július 1-jén lép hatályba.
 
-### Hatályon kívül helyező rendelkezések
+### Sarkalatossági záradék
 
-#### 464. §
+464. § A 104. § (3) bekezdése az Alaptörvény 9. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

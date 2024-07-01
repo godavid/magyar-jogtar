@@ -1210,7 +1210,7 @@ a járási hivatal a kérelmet visszautasítja.
 (10) A járási hivatal dönt
 
 - a) a közgyógyellátásra való jogosultságról,
-- b) a közgyógyellátásra való jogosultság kezdő időpontjáról,
+- b)
 - c) a jogosult gyógyszerkeretéről, külön megjelölve az egyéni gyógyszerkeret összegét.
 
 (11) Az alanyi közgyógyellátásra jogosult esetében – amennyiben rendszeres gyógyszerköltség hiányában egyéni gyógyszerkeret megállapítását nem igényli – az eljárásra a (2)–(8) bekezdést nem kell alkalmazni.
@@ -1416,7 +1416,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2f) A szociálpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociálpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociálpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra – ide nem értve a (2c) bekezdés c) pont ce) alpontját – tekintettel kérik.
 
-(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca), cb) és ce) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
+(2g)
 
 (2h) A szociálpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
@@ -1742,6 +1742,8 @@ részére biztosít lehetőséget a napközbeni tartózkodásra, társas kapcsol
 formájában kell nyújtani.
 
 (2) Az ötven főnél alacsonyabb férőhelyszámú fogyatékos, pszichiátriai vagy szenvedélybeteg személyek otthona ötven férőhelyig bővíthető ápolást, gondozást nyújtó intézményi formában is.
+
+(2a) Fogyatékos személyek ápoló-gondozó célú lakóotthona tizennégy férőhelyig bővíthető.
 
 (3) Az (1) bekezdés b) pontjának alkalmazásában nem minősül új intézménynek és új férőhelynek, ha a szolgáltatói nyilvántartásba már bejegyzett fogyatékos, pszichiátriai vagy szenvedélybeteg személyek otthonát vagy férőhelyeit a szolgáltatói nyilvántartásba történő bejegyzés alapján másik fenntartó működteti tovább.
 
@@ -2228,7 +2230,7 @@ rendeletet alkot.
 - b) a munkahely megnevezése és címe;
 - c) a személyes gondoskodást végző személy által betöltött munkakör megnevezése, a foglalkoztatás kezdő időpontja;
 - d) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése;
-- e) a jogszabály által előírt továbbképzés, vezetőképzés elvégzésének, illetve szakvizsga letételének adatai.
+- e) a jogszabály által előírt vezetőképzés elvégzésének, illetve szakvizsga letételének adatai.
 
 (2) A szociális, gyermekjóléti, továbbá gyermekvédelmi intézmény (a továbbiakban együtt: munkáltató) bejelenti a működési nyilvántartást vezető szervnek
 
@@ -3240,7 +3242,7 @@ nyújtó intézmények esetén.
 
 (2) Amennyiben a fenntartó, illetve az önállóan gazdálkodó intézmény vezetője megállapítása szerint a szolgáltató nem megfelelő színvonalon végzi a tevékenységét, felszólítja a szolgáltatót a szerződés szerinti teljesítésre, majd kezdeményezi a szerződés felmondását.
 
-122/C. § (1) Szerződéses szolgáltatások esetén az állami fenntartó, illetve az önállóan gazdálkodó intézmény vezetője pályázatot ír ki a lebonyolításra. A pályázat szövegét a helyben szokásos módon, valamint egy országos napilapban közzé kell tenni.
+122/C. § (1) Szerződéses szolgáltatások esetén az állami fenntartó, illetve az önállóan gazdálkodó intézmény vezetője pályázatot ír ki a lebonyolításra. A pályázat szövegét a helyben szokásos módon, valamint az állami fenntartó, illetve az önállóan gazdálkodó intézmény honlapján közzé kell tenni.
 
 (2) A pályázatot elbíráló bizottság tagjai
 

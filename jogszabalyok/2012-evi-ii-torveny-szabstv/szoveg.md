@@ -2907,7 +2907,7 @@ kell közölni.
 
 #### 122. Önkényes beköltözés
 
-167. § Aki a lakásbérletre vagy a helyiséggazdálkodásra vonatkozó jogszabály hatálya alá tartozó üres lakást vagy nem lakás céljára szolgáló üres helyiséget elfoglal, vagy abba önkényesen beköltözik anélkül, hogy arra a bérleti jogviszony létesítésére jogosult szerv vagy személy, illetőleg az elhelyezésre jogosult szerv jognyilatkozatával, vagy intézkedésével feljogosította volna, szabálysértést követ el.
+167. § Aki a lakásbérletre vagy a helyiséggazdálkodásra vonatkozó jogszabály hatálya alá tartozó üres lakást vagy nem lakás céljára szolgáló üres helyiséget elfoglal, vagy abba önkényesen beköltözik anélkül, hogy arra a bérleti jogviszony létesítésére jogosult szerv vagy személy, illetve az elhelyezésre jogosult szerv jognyilatkozatával, vagy intézkedésével feljogosította volna, szabálysértést követ el.
 
 #### 123. Távoltartó határozat szabályainak megszegése
 
@@ -3980,6 +3980,12 @@ szabálysértést követ el.
 #### 203. Szakképzésben részt vevő tanulók, illetve a képzésben részt vevő személyek szakirányú oktatására vonatkozó szabályok megszegése
 
 249. § Aki a tanuló, illetve a képzésben részt vevő személy szakirányú képzésére vonatkozó jogszabályban meghatározott kötelezettségét megsérti, vagy a tanuló, illetve a képzésben részt vevő személy számára előírt juttatásokat nem biztosítja, szabálysértést követ el.
+
+### XXXII. Fejezet — A GYERMEKVÉDELEM RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK
+
+#### 203/A. A gyermek befogadásának jelzésére vonatkozó szabályok megszegése
+
+249/A. § Aki a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott, a gyermek befogadásának jelzésére vonatkozó szabályokat megszegi, szabálysértést követ el.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

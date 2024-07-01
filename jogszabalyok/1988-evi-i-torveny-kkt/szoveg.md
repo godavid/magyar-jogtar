@@ -1084,7 +1084,13 @@ követő hat hónapig kezeli.
 - g) kétoldalú egyezmény alapján a közlekedési hatóság által külföldi hatóságoknak átadott, magyarországi belépésre jogosító árufuvarozási engedélyekbe bejegyzett, illetve a felhasználásukra vonatkozó adatokat,
 - h) a közlekedési hatóság által kezelt szaktanfolyami vizsga eredmények adatait,
 - i) a közlekedési hatóság által a közúti járművek műszaki megvizsgálásával kapcsolatban kezelt adatokat,
-- j) vezetői engedély-nyilvántartásból a gépjármű-vezetői képesítési igazolvány sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat,
+- j) engedély-nyilvántartásból az ellenőrzött járművezető
+  - ja) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
+  - jb) vezetői engedélyének típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
+  - jc) vezetői engedélyének elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
+  - jd) vezetői engedélyének hivatalos feljegyzések rovatába bejegyzett adatokat,
+  - je) vezetési jogosultsága megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriákra vonatkozó adatokat, valamint
+  - jf) gépjármű-vezetői képesítési igazolványának sorszámára, kategóriájára, kiadásának dátumára, érvényességi idejére, kiállító országára, valamint az azon szereplő vezetői engedély számára, típusára, kiállító országára vonatkozó adatokat, továbbá a 95-ös harmonizált uniós kódot és annak érvényességi idejét,
 - k) közlekedési hatóság által kezelt, a magyar állampolgárságú járművezetővel, szolgáltatóval szemben külföldi tagállamban alkalmazott szankciók adatait,
 - l) a közútkezelő által kezelt közútkezelői hozzájárulásokban szereplő, illetve az általa végzett közúti ellenőrzéssel összefüggésben keletkezett adatokat,
 - m) a közútkezelői hozzájárulás beszerzése alóli mentességre vonatkozó adatokat,
@@ -2079,7 +2085,7 @@ szociális előírások ellenőrzése
 - b) a más tagállam közúti ellenőrző hatóságaival való adat-, tapasztalat- és információcsere, továbbá koordináció az összehangolt közúti ellenőrzések biztosítására, valamint
 - c) az ellenőrző hatóságok által végzett közúti és telephelyi ellenőrzések statisztikai adatainak gyűjtése, összesítése, valamint ennek alapján adatszolgáltatás az Európai Bizottság részére.
 
-(9) A (7) bekezdésben meghatározott tachográfkártya kiadására irányuló kérelem kizárólag személyesen terjeszthető elő a közlekedési hatóságnál.
+(9) A (7) bekezdésben meghatározott tachográfkártya kiadására irányuló kérelem személyesen és elektronikus úton terjeszthető elő a közlekedési hatóságnál.
 
 (10) A tachográf kártya nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen kell átadni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 

@@ -1366,7 +1366,7 @@ hozta.
 - b) ha a képviselő-testület önkormányzati hatósági ügyben hozott döntést,
 - c) a másodfokú hatóság által hozott önálló jogorvoslattal támadható végzés esetén,
 - d) ha nincs kijelölt másodfokú hatóság,
-- e) nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben,
+- e) nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben, kivéve, ha kormányrendelet a fellebbezést nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben is lehetővé teszi,
 - f) ha a hatósági szerződés alapján végrehajtást rendeltek el.
 
 (5) A (2) bekezdésben foglalt esetekben sincs helye fellebbezésnek, ha törvény a fellebbezést kizárja.

@@ -2293,6 +2293,10 @@ foglaltak nem alkalmazhatók.
 
 (2) Többségi befolyás az a kapcsolat, amelynek alapján a befolyással rendelkező jogi személyben a szavazatok több mint ötven százalékával – közvetlenül vagy a jogi személyben szavazati joggal rendelkező más jogi személy (köztes vállalkozás) szavazati jogán keresztül – rendelkezik. A közvetett módon való rendelkezés meghatározása során a jogi személyben szavazati joggal rendelkező más jogi személyt (köztes vállalkozást) megillető szavazati hányadot meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban, illetve vállalkozásokban fennálló szavazati hányadával. Ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni. Amennyiben a befolyással rendelkező több közvetett tulajdonnal is rendelkezik az adott jogi személyben a nem többségi közvetett befolyás mértéke nem adódik hozzá a másik nem többségi közvetett befolyás mértékéhez.
 
+204/A. § (1) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a gazdasági társasághoz, aki az 55. életévét betöltötte, a gazdasági társaság a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a gazdasági társaság nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a gazdasági társaság gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a gazdasági társaság vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(2) Az (1) bekezdés szerinti esetben a 204. § (1) bekezdése szerinti gazdasági társaságban a gazdasági társaság feladatkörébe tartozó feladatot a gazdasági társasághoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
+
 205. § (1) Kollektív szerződés vagy a felek megállapodása
 
 - a) a felmondási idő 69. § (1)–(2) bekezdésében és (4)–(5) bekezdésében, valamint

@@ -241,6 +241,8 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 34. § A Ptk. örökbefogadásra vonatkozó rendelkezéseit a Ptk. hatálybalépése után indult örökbefogadási eljárásokra kell alkalmazni, ideértve az örökbefogadást megelőző eljárást is.
 
+34/A. § A Ptk.-nak az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított 4:127. § (1) bekezdés e) pont eb) alpontját – feltéve, hogy a gyámhatóság megítélése alapján az a gyermek számára a gyorsabb örökbefogadás érdekében előnyösebb – 2024. július 1. napját megelőzően az egészségügyi intézményben közvetlenül a szülést követően otthagyott, a 2024. július 1. napján egészségügyi intézményben, gyermekotthonban vagy nevelőszülőnél lévő gyermek esetében is alkalmazni kell azzal, hogy a hathetes időtartam 2024. július 1. napján kezdődik.
+
 #### 11. A szülői felügyelet
 
 ### (A Ptk. 4:152. §-ához)
@@ -269,6 +271,14 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 38. § A gyámhatóság gyámrendelés iránti intézkedéséig fennmarad a szülő szülői felügyeleti joga, ha az a Ptk. 4:186. § (2) bekezdése értelmében szünetelne. A gyámhatóság a gyermek számára a Ptk. hatálybalépésétől számított hat hónapon belül gyámot rendel.
 
+### [A Ptk. 4:186. § (4) bekezdéséhez]
+
+38/A. § A Ptk.-nak a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: Módtv.) módosított 4:186. § (4) bekezdés b) pontját a Módtv. hatálybalépését követően elrendelt ideiglenes hatályú elhelyezés esetén kell alkalmazni.
+
+### [A Ptk. 4:190. § (1) bekezdéséhez]
+
+38/B. § A Ptk.-nak a Módtv1.-gyel megállapított 4:190. § (1) bekezdés d) pont db) alpontját – feltéve, hogy a gyámhatóság megítélése alapján az a gyermek számára a gyorsabb örökbefogadás érdekében előnyösebb – 2024. július 1. napját megelőzően az egészségügyi intézményben közvetlenül a szülést követően otthagyott, 2024. július 1. napján egészségügyi intézményben, gyermekotthonban vagy nevelőszülőnél lévő gyermek esetében is alkalmazni kell azzal, hogy a hathetes időtartam 2024. július 1. napján kezdődik.
+
 ### (A Ptk. 4:146. és 4:193. §-ához)
 
 39. § Az 1986. évi 14. törvényerejű rendelettel kihirdetett, A Gyermekek Jogellenes Külföldre Vitelének Polgári Jogi Vonatkozásairól szóló, Hágában az 1980. évi október 25. napján kelt egyezmény alkalmazása szempontjából a Ptk. rendelkezéseit a Ptk. hatálybalépését követően külföldre vitt vagy ott visszatartott gyermekek tekintetében kell alkalmazni.
@@ -278,6 +288,12 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 ### (A Ptk. 4:194–4:222. §-ához)
 
 40. § A Ptk. rokontartásra vonatkozó rendelkezéseit a Ptk. hatálybalépését követően érvényesített tartásdíj megállapítása, módosítása, illetve megszüntetése iránti igényekre kell alkalmazni.
+
+#### 12/A. A gyámság
+
+### [A Ptk. 4:231. § (2a) bekezdéséhez]
+
+40/A. § A Ptk.-nak a Módtv.-vel módosított 4:231. § (2a) bekezdését a Módtv. hatálybalépését követően indult gyámrendelési eljárásokban, ideiglenes hatályú elhelyezésre és nevelésbe vételre irányuló eljárásokban, valamint a nevelésbe vételnek a Módtv. hatálybalépését követő felülvizsgálatakor kell alkalmazni.
 
 ### V. Fejezet — A PTK. ÖTÖDIK KÖNYVÉHEZ KAPCSOLÓDÓ ÁTMENETI RENDELKEZÉSEK
 

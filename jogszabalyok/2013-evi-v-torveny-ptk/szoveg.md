@@ -5168,7 +5168,9 @@ A gyermek, a gyermek halála után leszármazója vagy a vér szerinti anya kér
 - b) akinek nevelésbe vett gyermekét a gyámhatóság örökbefogadhatónak nyilvánította;
 - c) aki nem kiskorúság miatt cselekvőképtelen;
 - d) akinek személye ismeretlen, vagy aki ismeretlen helyen tartózkodik, és a felkutatására tett intézkedések nem vezettek eredményre; vagy
-- e) aki gyermekét annak érdekében, hogy más nevelje fel - személyazonosságának feltárása nélkül - egészségügyi intézmény által arra kijelölt helyen hagyja és hat héten belül a gyermekért nem jelentkezik.
+- e) aki gyermekét
+  - ea) annak érdekében, hogy más nevelje fel – személyazonosságának feltárása nélkül – egészségügyi intézmény által arra kijelölt helyen hagyja és hat héten belül a gyermekért nem jelentkezik, vagy
+  - eb) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja és hat héten belül ő vagy a gyermek más hozzátartozója a gyermekért nem jelentkezik.
 
 (2) Nincs szükség az örökbefogadáshoz az örökbefogadó házastársának hozzájárulására, ha
 
@@ -5580,7 +5582,11 @@ A gyámhatóság, kérelemre vagy a gyermek érdekében hivatalból, a szülői 
 
 - a) akinek a szülői felügyeleti jogát a bíróság megszüntette;
 - b) aki hozzájárult gyermekének a másik szülő házastársa által történő örökbefogadásához; vagy
-- c) akinek szülői felügyeleti joga a gyermek ismeretlen személy által történő örökbefogadásához adott hozzájárulásával vagy azért szűnt meg, mert a szülő a gyermeket - annak érdekében, hogy más nevelje fel, személyazonosságának feltárása nélkül - egészségügyi intézményben, arra kijelölt helyen hagyja, a gyermekért hat héten belül nem jelentkezik, és a gyermek örökbefogadására nem került sor.
+- c) akinek szülői felügyeleti joga a gyermek ismeretlen személy által történő örökbefogadásához adott hozzájárulásával vagy azért szűnt meg, mert a szülő a gyermeket
+  - ca) – annak érdekében, hogy más nevelje fel, személyazonosságának feltárása nélkül – egészségügyi intézményben, arra kijelölt helyen hagyja, a gyermekért hat héten belül nem jelentkezik, vagy
+  - cb) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja, a gyermekért hat héten belül ő vagy a gyermek más hozzátartozója nem jelentkezik,
+
+és a gyermek örökbefogadására nem került sor.
 
 (5) A (4) bekezdés szerinti esetben a szülőnek a gyermekkel való kapcsolattartásra való feljogosításáról a szülői felügyeletet megszüntető bíróság vagy - ha a gyermeket nevelésbe vették - a gyámhatóság dönt.
 
@@ -5652,6 +5658,11 @@ A kapcsolattartásra vonatkozó határozat végrehajtását a bíróság polgár
 
 (3) A szülői felügyelet megszüntetése vagy a szülői felügyelet rendezése iránti per jogerős befejezéséig szünetel a szülői felügyeleti joga annak a szülőnek, akinek a gyermekét a gyámhatóság ideiglenes hatállyal a különélő másik szülőnél, más személynél vagy intézményben helyezte el.
 
+(4) A gyermek ideiglenes hatályú elhelyezése alatt szünetel
+
+- a) a szülő gondozási, nevelési joga, és
+- b) törvényben meghatározott ügyekben a törvényes képviselet ellátásának joga, ha a gyámhatóság megállapította, hogy a szülőtől az ideiglenes hatályú elhelyezés oka alapján nem várható együttműködés e törvényes képviselői feladatok ellátásában.
+
 #### 2. A családbafogadás
 
 #### 4:187. § [A családbafogadás]
@@ -5687,7 +5698,9 @@ A kapcsolattartásra vonatkozó határozat végrehajtását a bíróság polgár
 - a) a gyermek nagykorúvá válásával;
 - b) a gyermek örökbefogadásával, kivéve, ha a gyermeket a szülő házastársa fogadja örökbe;
 - c) a szülőnek a gyermek örökbefogadásához adott hozzájárulásával, vagy ha a gyermek örökbefogadásához a szülő a gyermek hathetes korát megelőzően járult hozzá, a gyermek hathetes korának elérésekor, kivéve, ha a szülő a hozzájáruló nyilatkozatot visszavonta; vagy
-- d) ha a szülő a gyermeket annak érdekében, hogy más nevelje fel - személyazonosságának feltárása nélkül - egészségügyi intézmény arra kijelölt helyén hagyja, és a gyermekért hat héten belül nem jelentkezik.
+- d) ha a szülő a gyermeket
+  - da) annak érdekében, hogy más nevelje fel – személyazonosságának feltárása nélkül – egészségügyi intézmény arra kijelölt helyén hagyja, és a gyermekért hat héten belül nem jelentkezik, vagy
+  - db) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja, és a gyermekért hat héten belül ő vagy a gyermek más hozzátartozója nem jelentkezik.
 
 (2) Ha a szülői felügyeletet a szülők közösen gyakorolják, az egyik szülő halála esetén a szülői felügyelet a túlélő szülőt illeti meg.
 
@@ -6000,6 +6013,8 @@ Gyermekvédelmi gyámság alá tartozik különösen az a gyermek,
 - d) az a gyermekvédelmi gyámság alatt álló gyermek érdeke.
 
 (2) A (1) bekezdés c) pontjában meghatározott esetben a gyámhatóságnak meg kell határoznia a gyámok feladatkörének pontos megosztását.
+
+(2a) Az (1) bekezdés d) pontjában meghatározott esetben a gyermek részére a gyermekvédelmi nevelőszülő vagy a gyermekotthon törvényben meghatározott egyes gyámi feladatok ellátására gyámként kirendelhető. A gyermekotthon nevében az egyes gyámi feladatokat a gyermekotthon vezetője vagy az általa kijelölt, szakmai munkakörben foglalkoztatott személy láthatja el, aki személyében megfelel a gyámmal szemben támasztott követelményeknek.
 
 (3) Ha a gyám jogkörét túllépve jár el, jognyilatkozata harmadik személlyel szemben hatályos, de köteles a gyámsága alatt állónak a jognyilatkozattal okozott teljes kárát megtéríteni.
 

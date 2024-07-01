@@ -739,7 +739,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 és az általános ügyintézési határidő a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését követő tizenötödik napot megelőzően telik le.
 
-(3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat vagy hatósági bizonyítvány kiadásának ügyintézési határideje tizenöt nap.
+(3) A nyugdíjbiztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat kiadásának ügyintézési határideje nyolc nap.
 
 (4)
 
@@ -834,9 +834,13 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (2)
 
-82. § (1) Az, aki a reá irányadó öregségi nyugdíjra jogosító korhatárt elérte és eddig az időpontig legalább húsz év szolgálati időt szerzett, az öregségi nyugdíjkorhatára betöltésének napjára kérheti az öregségi nyugdíja összegének folyósítás nélküli megállapítását (a továbbiakban: rögzített nyugdíj). Amennyiben a nyugdíjra jogosító korhatáron túl tovább dolgozik úgy, hogy legalább 365 naptári napra szolgálati időt szerez, és ez idő alatt nem kéri a nyugdíja folyósítását, a tényleges nyugdíjba menetel idején, – amennyiben számára kedvezőbb – választhatja a nyugdíjkorhatár betöltésére rögzített nyugdíjként kiszámított és az évenkénti emelésekkel növelt nyugdíját a tényleges nyugdíjba vonuláskor kiszámított összeg helyett. Aki nyugdíjának folyósítás nélküli megállapítását kéri, nem minősül öregségi nyugdíjasnak.
+82. § (1) Aki az öregségi nyugdíjkorhatárt betöltötte, és eddig az időpontig legalább húsz év szolgálati időt szerzett, az öregségi nyugdíjkorhatára betöltésének napjára kérheti az öregségi nyugdíja összegének folyósítás nélküli megállapítását (a továbbiakban: rögzített nyugdíj). A rögzített nyugdíjjal rendelkező személy a tényleges öregségi nyugdíjba vonulásig nem minősül öregségi nyugdíjasnak.
 
-(2) Nem vonatkozik az (1) bekezdés arra, akinek a reá irányadó öregségi nyugdíjkorhatár betöltésétől a tényleges nyugdíjazás időpontjáig eltöltött idő legalább fele része alatt özvegyi nyugdíjat (állandó özvegyi nyugdíjat) folyósítottak.
+(1a) Ha a rögzített nyugdíjjal rendelkező személy a nyugdíjkorhatár betöltését követően legalább 365 nap szolgálati időt szerez, a tényleges öregségi nyugdíjba vonuláskor a rögzített nyugdíj időközi nyugdíjemelésekkel növelt összege és a kezdő időpontra kiszámított öregséginyugdíj-összeg közül a magasabbat kell részére öregségi nyugdíjként megállapítani.
+
+(1b) Rögzített nyugdíjjal rendelkező jogszerző halála esetén az (1a) bekezdésben foglaltakat a hozzátartozói nyugellátás megállapítása során is alkalmazni kell.
+
+(2) Nem alkalmazható az (1a) és (1b) bekezdés arra az öregségi nyugdíjat igénylőre, illetve elhunyt jogszerzőre, akinek a reá irányadó öregségi nyugdíjkorhatár betöltésétől a tényleges nyugdíjazás időpontjáig eltöltött idő legalább fele része alatt özvegyi nyugdíjat (állandó özvegyi nyugdíjat) folyósítottak.
 
 83. § (1) A megállapított nyugellátásról – a kivételes nyugellátás kivételével – a megállapító határozat véglegessé válását követő 15. napot követően nem lehet lemondani. Lemondás esetén a felvett nyugellátást, nyugdíjelőleget vissza kell fizetni. A megállapított nyugellátást nem lehet átruházni, engedményezni.
 
@@ -1094,11 +1098,11 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (3) A társadalombiztosítási egyéni számlát a központi nyugdíjbiztosítási szerv vezeti.
 
-### A nyilvántartás adatainak egyeztetése és a szolgálati idő, jogosultsági idő igazolása
+### A nyilvántartás adatainak egyeztetése
 
 96/B. § (1) A nyugdíjbiztosítási igazgatási szerv a biztosított, volt biztosított biztosítási kötelezettséggel járó jogviszonyaira és kereseteire, jövedelmeire vonatkozó, nyilvántartásba bejelentett adatokat az öregségi nyugdíjasnak nem minősülő biztosítottal, volt biztosítottal hatósági eljárás keretében egyezteti.
 
-(2) Az egyeztetési eljárás a biztosított, volt biztosított elektronikus úton benyújtott kérelmére vagy hivatalból indul. A biztosított, volt biztosított egyeztetési eljárás lefolytatását naptári évenként egyszer kérelmezheti.
+(2) Az egyeztetési eljárás a biztosított, volt biztosított kérelmére vagy hivatalból indul. A biztosított, volt biztosított egyeztetési eljárás ismételt lefolytatását az egyeztetési eljárásban hozott határozat véglegessé válását követő egy év elteltével kérelmezheti.
 
 (3) A nyugdíjbiztosítási igazgatási szerv az egyeztetési eljárás hivatalbóli megindítását megelőzően a biztosítottat, volt biztosítottat értesíti az eljárás menetéről, továbbá részletes kimutatást küld az általa nyilvántartott következő adatokról:
 
@@ -1149,14 +1153,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (3) Az (1) bekezdés szerinti újabb egyeztetési eljárás esetén a 96/B. § (3) bekezdése szerinti értesítésben az ott meghatározott adatok közül a lezárt időszakot követő időre vonatkozó adatokat, valamint hivatalból indult eljárásban az eljárással érintett adatokat kell feltüntetni.
 
-96/E. § (1) A biztosított, volt biztosított a megszerzett szolgálati idejéről, a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idejéről, illetve a 96/B. § (3) bekezdése szerinti más adatairól hatósági bizonyítvány kiállítását kérheti.
-
-(2) Ha a biztosított, volt biztosított
-
-- a) a nyilvántartásban nem szereplő szolgálati idő, jogosultsági idő elismerését is kéri, vagy
-- b) 1954. december 31-ét követően született, és vele egyeztetési eljárást még nem folytattak le, a hatósági bizonyítvány kiadása iránti eljárást fel kell függeszteni, és hivatalból egyeztetési eljárást kell lefolytatni.
-
-(3)
+#### 96/E. §
 
 ### Adatszolgáltatás és bejelentési kötelezettség
 
@@ -1224,7 +1221,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - p) az özvegyi járadék számítására vonatkozó szabályokat;
 - q)
 - r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat;
-- s) az egyeztetési eljárás és a jogosultsági idő, szolgálati idő igazolása iránti eljárás részletes szabályait
+- s) az egyeztetési eljárás részletes szabályait
 
 rendeletben határozza meg.
 

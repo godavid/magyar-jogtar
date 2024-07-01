@@ -73,14 +73,14 @@ a következő törvényt alkotja:
 - 1. állattartó telep: a Magyarország területén, egy vagy több földrészleten, illetve földrészleten belül alrészletként elhelyezkedő, a földfelszínen azonosítható állandó mesterséges tereptárgyakkal egyértelműen lehatárolt, az élelmiszerlánc-felügyeleti szerv nyilvántartásban egy elnevezés és nyilvántartási szám alatt állattartó helyként vagy tojáskeltetőként megjelölt, állatok tartására, illetve keltetésre szolgáló gazdasági épületek és kiszolgáló létesítmények, és a hozzájuk tartozó gazdasági felszerelés együttese, ideértve az állattartó létesítményekkel egy technológiai egységben működő körbekerített legelőket és kifutókat, továbbá a trágyatárolásra és a méhcsaládok elhelyezésére használt területeket;
 - 2. belföldi természetes személy: a magyar állampolgár;
 - 3. birtok: a jogosult tulajdonában, haszonélvezetében vagy bármely más érvényes jogcímen használatában álló valamennyi föld;
-- 4.
+- 4. életvitelszerű lakáshasználat helye: a személyiadat- és lakcímnyilvántartásba bejelentett tartózkodási hely, ennek hiányában ellenkező bizonyításig a személyiadat- és lakcímnyilvántartásba bejelentett lakóhely (a továbbiakban: bejelentett lakóhely);
 - 5.
 - 5a. erdőnek minősülő föld: a fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület;
 - 6. fiatal földműves: az a földműves, aki az elővásárlási, illetve előhaszonbérleti jog gyakorlása időpontjában elmúlt 16 éves, de a 40. életévét még nem töltötte be;
 - 7. földműves: Magyarországon nyilvántartásba vett belföldi természetes személy, illetve tagállami állampolgár, aki e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik vagy ennek hiányában igazoltan legalább 3 éve
   - a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet saját nevében és saját kockázatára folyamatosan Magyarországon folytat, és ebből igazoltan árbevétele származott, vagy az árbevétel azért maradt el, mert a megvalósult mező- vagy erdőgazdasági célú beruházás még nem hasznosulhatott, vagy
   - b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, aki mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi;
-- 8. gazdasági év: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 6. cikkében meghatározott időszak;
+- 8. gazdasági év: tárgyév október 16. napjától a következő év október 15. napjáig tartó időszak;
 - 9. helyben lakó:
   - a) az a természetes személy, akinek az életvitelszerű lakáshasználatának helye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adásvételi, a csere- vagy a haszonbérleti szerződés tárgyát képező föld fekszik, továbbá
   - b) ha az adásvételi, a csere- vagy a haszonbérleti szerződés tárgya szőlő művelési ágban nyilvántartott föld, akkor az a hegyközségi tag természetes személy is, aki életvitelszerűen legalább 3 éve annak a hegyközségnek a működési területéhez tartozó borvidéki településen lakik, amely hegyközség működési területén az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező föld fekszik;
@@ -220,6 +220,7 @@ javára engedi át;
 - h) a föld megközelítését, illetve a föld használatát biztosító út kialakítása;
 - i) állandó jellegű növényház létesítése.
 - j) a föld művelési ágának megfelelő műveléshez, mezőgazdasági termeléshez vagy erdőgazdasági tevékenységhez közvetlenül kapcsolódó eszköz telepítése vagy építmény elhelyezése.
+- k) ha a föld igénybevétele olyan területen történik, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított.
 
 (4) Ha a tulajdonjog átruházásáról szóló szerződés tárgyát képező föld harmadik személy használatában van, a szerző félnek kötelezettséget kell vállalnia, hogy a fennálló földhasználati jogviszony
 
@@ -241,7 +242,9 @@ javára engedi át;
 - a) a tulajdonszerzéstől számított 1 éven belül a föld helye szerinti településen állandó bejelentett lakosként életvitelszerűen fog tartózkodni, vagy a tulajdonszerzéstől számított 1 éven belül a föld helye szerinti településen mezőgazdasági üzemközpontot létesít, és
 - b) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytat.
 
-15/A. § Ha a tulajdonjog átruházásáról szóló szerződés tárgyát képező földet hatályos vagy a szerződéskötés időpontjában még hatályba nem lépett földhasználati szerződés érinti, akkor a szerződés tartalmazza a földhasználat időtartamára és ellenértékére vonatkozó tájékoztatást.
+15/A. § (1) Ha a tulajdonjog átruházásáról szóló szerződés tárgyát képező földet hatályos vagy a szerződéskötés időpontjában még hatályba nem lépett földhasználati szerződés vagy többlethasználati megállapodás érinti, akkor a szerződés tartalmazza a földhasználat időtartamára és ellenértékére vonatkozó tájékoztatást.
+
+(2) Az (1) bekezdésben foglaltak megsértésével megkötött szerződés semmis.
 
 #### 5. A földtulajdon, illetve a birtokban tartható összes föld megengedett mértéke
 
@@ -295,7 +298,7 @@ föld területnagyságával a 10. § (2) bekezdésében, valamint a 16. § (1) b
 - d) a szántó művelési ágban nyilvántartott terület eladása esetén az a helyben lakó földműves, aki számára a tulajdonszerzés célja szaporítóanyag-előállításhoz szükséges terület biztosítása.
 - e) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld eladása esetén az a helyben lakó földműves, aki számára a tulajdonszerzés célja ökológiai gazdálkodás folytatása.
 
-(3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányada egészének vagy egy részének eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi az adásvételi szerződés megkötésekor legalább 3 éve tulajdoni hányaddal rendelkező földműves tulajdonostárs. Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a közös vagyonba tartozó ingatlanrész az elővásárlási jogával élni kívánó tulajdonostárs házastársának tulajdonát képezte.
+(3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányada egészének vagy egy részének eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi az adásvételi szerződés megkötésekor legalább 3 éve tulajdoni hányaddal rendelkező földműves tulajdonostárs. Házastársi közös vagyon megosztása esetén a 3 évbe beszámít azon időtartam is, amely alatt a közös vagyonba tartozó ingatlanrész az elővásárlási jogával élni kívánó tulajdonostárs házastársának tulajdonát képezte. Ha a földműves tulajdonostárs a tulajdonrészét öröklés jogcímen szerezte, a 3 évbe beszámít azon időtartam is, amely alatt tulajdonrésze az örökhagyó tulajdonát képezte.
 
 (3a) Rizstelephez tartozó földrészlet eladása esetén az (1) bekezdés c)–e) pontjában, valamit a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – az alábbi sorrendben megelőzi
 
@@ -310,16 +313,19 @@ föld területnagyságával a 10. § (2) bekezdésében, valamint a 16. § (1) b
 
 19. § (1) Az államot megillető elővásárlási jogot a földalapkezelő szerv gyakorolja.
 
-(2) A 18. § (1) bekezdés b) pontja szerinti földet használó földműves alatt azt a földművest kell érteni, aki a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint legalább 3 éve használja a földet, ideértve azt is, akit a 65. § szerint a föld kényszerhasznosítójaként jelöltek ki. Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint az elővásárlási jogával élni kívánó tulajdonostárs házastársa használta. Ha a föld használati jogosultságát a földet használó földműves gazdaságátadási szerződéssel szerezte, a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint a gazdaságátadó használta.
+(2) A 18. § (1) bekezdés b) pontja szerinti földet használó földműves alatt azt a földművest kell érteni, aki a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint legalább 3 éve használja a földet, ideértve azt is, akit a 65. § szerint a föld kényszerhasznosítójaként jelöltek ki. Házastársi közös vagyon megosztása esetén a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint az elővásárlási jogával élni kívánó tulajdonostárs házastársa használta. Ha a föld használati jogosultságát a földet használó földműves gazdaságátadási szerződéssel szerezte, a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint a gazdaságátadó használta. Öröklés esetén a 3 évbe beszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint az örökhagyó használta.
 
 (3) Az olyan föld eladása esetén, amely a 18. § (2) bekezdésben meghatározott művelési ágak mellett az ingatlan-nyilvántartásban más művelési ágban is nyilván van tartva, a 18. § (2) bekezdése szerinti elővásárlásra jog abban az esetben áll fenn, ha a 18. § (2) bekezdésében meghatározott művelési ágak valamelyikének, vagy mindegyikének a területnagysága meghaladja a más művelési ágú területnek vagy területeknek a nagyságát.
 
 (4) Az állattartó telep működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki. A hatósági bizonyítványban a tényleges állattartást és a nyilvántartás szerinti állatlétszámot is igazolni kell.
 
-(5) Több földnek egybefoglalt vételáron történő eladására akkor kerülhet sor, ha azok egymással szomszédosak. Egybefoglalt vételáron történő eladásra akkor is sor kerülhet, ha a földek azonos vagy szomszédos járás területén fekszenek és a földek bejegyzett földhasználója
+(5) Több földnek egybefoglalt vételáron történő eladására akkor kerülhet sor, ha
 
-- a) az eladó; vagy
-- b) legalább három éve a vevő, vagy a vevő legalább 25%-ban tulajdonában, vagy a vevő közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet.
+- a) azok egymással szomszédosak,
+- b) a földek azonos vagy szomszédos járás területén fekszenek és a földek bejegyzett földhasználója
+  - ba) az eladó vagy
+  - bb) legalább három éve a vevő, vagy a vevő legalább 25%-ban tulajdonában, vagy a vevő közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet, vagy
+- c) a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja szerinti értékesítés esetén a földek azonos hagyatékhoz tartoznak.
 
 (5a) Több föld egybefoglalt vételáron történő eladása esetén a földműves tulajdonostársat a 18. § (3) bekezdése alapján megillető elővásárlási jog csak akkor gyakorolható, ha ezen elővásárlási jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
 
@@ -336,7 +342,7 @@ föld területnagyságával a 10. § (2) bekezdésében, valamint a 16. § (1) b
 - e) rekreációs célú földszerzés,
 - f) az állam szerzése,
 - g) a részarány-tulajdonost megillető vételi jog gyakorlása útján történő földtulajdonszerzés,
-- h) a bevett egyház vagy annak belső egyházi jogi személye részére temető létesítése vagy bővítése céljából történő átruházás,
+- h) a bevett egyház vagy annak belső egyházi jogi személye részére temető létesítése vagy bővítése céljából, illetve hitéleti célból történő átruházás,
 - i) az adásvétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra levő közigazgatási határú településen legalább három éve életvitelszerű lakáshasználat helyével vagy mezőgazdasági üzemközponttal rendelkező földműves vevő által jelen szerzést megelőzően bármikor, bármilyen jogcímen megszerzett – függetlenül ezen szerzés vagy szerzések tulajdonjogának jelen szerzéskor való fennálltától vagy már fenn nem állásától – föld összes területével együtt összesen 10 hektár területnagyságot meg nem haladó, szántó, legelő (gyep), illetve rét művelési ágban nyilvántartott, valamint erdőnek minősülő földrészlet megszerzése
 
 esetén.
@@ -371,6 +377,10 @@ esetén.
 
 (10) Az elővásárlási jog jogosultja az elfogadó jognyilatkozatát a nyilatkozattételre nyitva álló határidő lejártáig a jegyzőhöz intézett jognyilatkozatával vonhatja vissza. A visszavonó jognyilatkozat megtételére az elfogadó jognyilatkozat megtételének szabályait kell megfelelően alkalmazni.
 
+21/A. § (1) Ha az adásvételi szerződésben foglaltak alapján a vevő a kötelezettségvállalás megerősítéseként foglalót fizetett, akkor az elfogadó jognyilatkozatot tevő elővásárlásra jogosult köteles a foglaló összegét az eladó javára ügyvédi letétbe vagy közjegyzői okiratba foglalt szerződés esetén közjegyzői bizalmi őrzésbe (e § alkalmazásában a továbbiakban együtt: letét) helyezni és ennek igazolását az elfogadó jognyilatkozathoz csatolni.
+
+(2) Ha az elővásárlásra jogosult az adásvételi szerződésben a vevő helyébe lép, akkor a letétbe helyezett összeget az eladó részére kell megfizetni. Minden más esetben a letétbe helyezett összeg a letevő részére visszajár.
+
 22. § (1) A jegyző a nyilatkozattételre nyitva álló határidő leteltét követő 8 napon belül a beérkezett, illetve a 21. § (4) bekezdésében meghatározottak szerint átvett jognyilatkozatokról iratjegyzéket készít, és azt az adás-vételi szerződés eredeti példányával, valamint a jognyilatkozatokkal és a kormányzati portált működtető szervezet által a közzétételről és a levételről küldött igazolással együtt megküldi
 
 - a) a 21. § (1a) bekezdésben foglalt esetben a mezőgazdasági igazgatási szerv részére; vagy
@@ -397,8 +407,8 @@ esetén.
 
 - a) az alakszerűségi előírásoknak nem felel meg,
 - b) nem az elővásárlásra jogosulttól származik,
-- c) az elővásárlásra jogosulttól származik, de nem állapítható meg belőle az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító okiratok nem kerültek csatolásra, illetve az elővásárlási jog nem a megjelölt törvényen vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, az elővásárlásra jogosult által megjelölt elővásárlási jogosultsághoz kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza, vagy
-- d) az elővásárlásra jogosulttól származik, de nem tartalmazza az elővásárlásra jogosultnak a 13–15. §-ban előírt tartalmú nyilatkozatait.
+- c) az elővásárlásra jogosulttól származik, de nem állapítható meg belőle az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító vagy a 21/A. § (1) bekezdése szerinti esetben a letétbe helyezést igazoló okiratok nem kerültek csatolásra, illetve az elővásárlási jog nem a megjelölt törvényen vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, az elővásárlásra jogosult által megjelölt elővásárlási jogosultsághoz kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza, vagy
+- d) az elővásárlásra jogosulttól származik, de nem tartalmazza az elővásárlásra jogosultnak a 13–15. §-ban előírt tartalmú nyilatkozatait, vagy a 14. §-ban foglalt nyilatkozatokat valótlanul tartalmazza és erről a mezőgazdasági igazgatási szerv tudomással bír.
 
 (5) Ha a (3) bekezdés alapján a mezőgazdasági igazgatási szerv nem tagadja meg az adásvételi szerződés jóváhagyását vagy a (3a) bekezdés alapján nem rendeli el a szerződés ismételt közzétételét, és az elővásárlásra jogosult nyújtott be elfogadó jognyilatkozatot, a mezőgazdasági igazgatási szerv – a (6) bekezdésben meghatározott eset kivételével – az elővásárlásra jogosultat vagy jogosultakat, valamint az adásvételi szerződés szerinti vevőt a törvény által meghatározott sorrend alapján rangsorolja, és arról jegyzéket készít (a továbbiakban: jegyzék).
 
@@ -445,7 +455,7 @@ vonatkozó általános agrárpolitikai és földbirtok-politikai érdekeknek.
 és emiatt az adásvételi szerződés szerinti vevő vagy a jegyzék szerinti elővásárlásra jogosult szerzése esetén nem érvényesülne a kis gazdaságok stabil működésének és további fejlődésének a preambulumban rögzített birtokpolitikai elve;
 
 - h) a földnek az ügylet szerinti ellenértéke alapos indok nélkül ne haladja meg
-  - ha) erdőnek nem minősülő föld esetén a földnek – indexálással meghatározott – 20 éves termelési időszakra számított jövedelemtermelő képességét,
+  - ha) erdőnek nem minősülő föld esetén a földnek a 20 éves termelési időszakra számított jövedelemtermelő képességét,
   - hb) erdőnek minősülő föld esetében a földnek 50 éves termelési ciklusra számított jövedelemtermelő képességét azzal, hogy az erdőtalaj és a faállomány értékét együttesen kell megállapítani, amelynek során az erdőtalaj értékét az erdő örökös járadékából, míg a faállomány értékét a potenciális véghasználatból levezetett jelenérték szerint kell kiszámítani,
 
 továbbá a földön létesített ültetvény vagy felépítmény értékét nettó pótlásiköltség alapú értékbecsléssel kell megállapítani.
@@ -546,7 +556,7 @@ belül döntést hoz.
 
 (5) A (4) bekezdésben foglaltak nem alkalmazhatóak, ha az állam tulajdonszerzése azért következett be, mert a törvényes örökös az örökséget visszautasította.
 
-35. § (1) A végrehajtási, felszámolási, vagy önkormányzati adósságrendezési eljárás keretében árverés vagy pályáztatás útján (a továbbiakban együtt: árverés) történő föld tulajdonjog szerzés esetén a végrehajtó, a felszámoló, illetve a pénzügyi gondnok megkeresésére az árverést a mezőgazdasági igazgatási szerv folytatja le az e törvény végrehajtására kiadott rendeletben meghatározottak szerint. A föld tulajdonjogának árveréssel történő megszerzésének jóváhagyására irányuló eljárásban az eladó alatt az adóst, illetve felszámolás (önkormányzati adósságrendezési eljárás) alatt álló szervezetet, a vevő alatt az árverési vevőt kell érteni.
+35. § (1) A végrehajtási, felszámolási, vagy önkormányzati adósságrendezési eljárás keretében árverés vagy pályáztatás útján (a továbbiakban együtt: árverés) történő föld tulajdonjog szerzés esetén a végrehajtó, a felszámoló, illetve az önkormányzati csődbiztos megkeresésére az árverést a mezőgazdasági igazgatási szerv folytatja le az e törvény végrehajtására kiadott rendeletben meghatározottak szerint. A föld tulajdonjogának árveréssel történő megszerzésének jóváhagyására irányuló eljárásban az eladó alatt az adóst, illetve felszámolás (önkormányzati adósságrendezési eljárás) alatt álló szervezetet, a vevő alatt az árverési vevőt kell érteni.
 
 (2) Az árveréssel történő tulajdonszerzés jóváhagyására irányuló eljárásban a jegyzékről, a tulajdonos választási jogáról szóló rendelkezéseket kell figyelmen kívül hagyni. Az eljárásban nem kell megkeresni a helyi földbizottságot az állásfoglalásának beszerzése céljából.
 
@@ -712,9 +722,18 @@ javára engedi át,
 
 (5) Földre előhaszonbérleti jog szerződéssel nem alapítható. Az e rendelkezés megsértésével megkötött szerződés semmis.
 
-47. § (1) A 45. § (1) bekezdése, a 46. § (1) bekezdés a) pontja, valamint a 46. § (4) bekezdés szerinti volt haszonbérlőnek az a természetes személy, illetve mezőgazdasági termelőszervezet minősül, aki, illetve amely a haszonbérleti szerződés tárgyát képező földet, közös tulajdonban álló föld egy részének haszonbérbe adása esetén a földnek a haszonbérleti szerződés tárgyát képező, a használati rend szerint kijelölt területét, a haszonbérleti szerződés hatósági jóváhagyásának kezdeményezését közvetlenül megelőző legalább 3 éven keresztül haszonbérli vagy haszonbérelte, feltéve, hogy a haszonbérleti szerződés nem a felek egyoldalú felmondása vagy kölcsönös megállapodása miatt szűnt meg, illetve a föld kényszerhasznosításba adására sem került sor a haszonbérlet szerződés fennállásának időtartama alatt.
+47. § (1) A 45. § (1) bekezdése, a 46. § (1) bekezdés a) pontja, valamint a 46. § (4) bekezdés szerinti volt haszonbérlőnek az a természetes személy, illetve mezőgazdasági termelőszervezet minősül, aki, illetve amely a haszonbérleti szerződés tárgyát képező földet, közös tulajdonban álló föld egy részének haszonbérbe adása esetén a földnek a haszonbérleti szerződés tárgyát képező, a használati rend szerint kijelölt területét, a haszonbérleti szerződés közzétételét közvetlenül megelőző legalább 3 éven keresztül haszonbérli vagy haszonbérelte, feltéve, hogy a haszonbérleti szerződés nem a felek egyoldalú felmondása vagy kölcsönös megállapodása miatt szűnt meg, illetve a föld kényszerhasznosításba adására sem került sor a haszonbérlet szerződés fennállásának időtartama alatt.
 
-(1a) Az (1) bekezdés alkalmazásában nem áll fenn a közvetlenül megelőző használat követelménye, ha a földhasználatot a haszonbérleti szerződés közlését megelőzően legalább egy gazdasági év időtartamban a föld tulajdonosa vagy haszonélvezője bejegyzett földhasználóként gyakorolta.
+(1a) Az (1) bekezdés alkalmazásában a volt földhasználót megillető előhaszonbérleti jogot érvényesíteni kívánó személy földhasználata nem tekinthető közvetlenül megelőzőnek, ha a földhasználatot a haszonbérleti szerződés közlését megelőzően
+
+- a) legalább egy gazdasági év időtartamban
+  - aa) a föld tulajdonosa vagy haszonélvezője,
+  - ab) az aa) alpont szerinti személyek közeli hozzátartozója, vagy
+  - ac) az aa) vagy az ab) alpont szerinti személyeknek legalább 25%-ban a tulajdonában álló mezőgazdasági termelőszervezet;
+- b) földhasználati szerződés alapján az a) pontban foglaltaktól eltérő harmadik személy;
+- c) többlethasználati megállapodás alapján az a) pontban foglaltaktól eltérő valamely tulajdonostárs
+
+bejegyzett földhasználóként gyakorolta.
 
 (1b) A volt haszonbérlőt a haszonbérleti jogviszonya jogszerű megszűnését követően is megilleti az előhaszonbérleti jog akkor, ha azt már a megelőző haszonbérleti jogviszonya idején is jogszerűen gyakorolta, de a joggyakorlása rajta kívül álló, neki fel nem róható okból nem vezetett eredményre. Az előhaszonbérleti jog a volt haszonbérlőt ebben az esetben csak akkor illeti meg, ha az előhaszonbérleti jogát – amint a joggyakorlás akadálya megszűnik – haladéktalanul gyakorolja.
 
@@ -724,17 +743,21 @@ javára engedi át,
 
 (2b) Az (1), a (2) vagy a (2a) bekezdés szerinti feltétel teljesülését a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás adatai szerint kell megállapítani. Olyan föld esetében, amely vonatkozásában a használatnak a földhasználati nyilvántartásban vagy az erdőgazdálkodói nyilvántartásban történő feltüntetése nem lehetséges, a volt haszonbérlő alatt azt kell érteni, aki vagy amely szerződéssel igazolja, hogy az (1), a (2) vagy a (2a) bekezdés szerinti feltételnek megfelel.
 
-(2c) Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a földet az előhaszonbérleti jogával élni kívánó természetes személy házastársa használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
+(2c) Házastársi közös vagyon megosztása esetén a 3 évbe beszámít azon időtartam is, amely alatt a földet az előhaszonbérleti jogával élni kívánó természetes személy házastársa használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
 
 (2d) Ha a volt haszonbérlő a föld használati jogosultságát gazdaságátadási szerződéssel szerezte, a 3 évbe beszámít azon időtartam is, amely alatt a földet a gazdaságátadó használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
+
+(2e) Ha a volt haszonbérlő a földhasználati jogviszonyba öröklés útján lépett be, a 3 évbe beszámít azon időtartam is, amely alatt a földet az örökhagyó használta az (1)–(2a) bekezdésben foglaltaknak megfelelően.
 
 (3) Az olyan föld haszonbérbe adása esetén, amely a 46. § (3) bekezdésben meghatározott művelési ágak mellett az ingatlan-nyilvántartásban más művelési ágban is nyilván van tartva, a 46. § (3) bekezdése szerinti előhaszonbérleti jog abban az esetben áll fenn, ha a 46. § (3) bekezdésében meghatározott művelési ágak valamelyikének, vagy mindegyikének a területnagysága meghaladja a más művelési ágú területnek vagy területeknek a nagyságát.
 
 (4) Az állattartó telep működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki. A hatósági bizonyítványban a tényleges állattartást és a nyilvántartás szerinti állatlétszámot is igazolni kell.
 
-(5) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adására akkor kerülhet sor, ha azok egymással szomszédosak. Egybefoglalt haszonbér ellenében történő haszonbérbe adásra akkor is sor kerülhet, ha a földek bejegyzett földhasználója legalább három éve ugyanaz a személy és a földek azonos vagy szomszédos járás területén fekszenek.
+(5) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adására akkor kerülhet sor, ha azok egymással szomszédosak. Egybefoglalt haszonbér ellenében történő haszonbérbe adásra akkor is sor kerülhet, ha a földek bejegyzett földhasználója legalább három éve ugyanaz a személy és a földek azonos vagy szomszédos járás területén fekszenek. A szerződésben egyértelműen utalni kell a haszonbér egybefoglaltságára.
 
 (5a) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adása esetén, a földműves tulajdonostársat a 46. § (2) bekezdése alapján megillető előhaszonbérleti jog csak akkor gyakorolható, ha ezen előhaszonbérleti jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
+
+(5b) Egybefoglalt haszonbér ellenében történő haszonbérbe adás esetén a szerződés tárgyát képező földek kizárólag azonos feltételekkel adhatók haszonbérbe.
 
 (6) Az olyan föld haszonbérbe adása esetén, amely földrészleten belül erdőnek minősülő és erdőnek nem minősülő alrészlet is található, a 45. § szerinti előhaszonbérleti jog abban az esetben áll fenn, ha az erdőnek minősülő föld területnagysága meghaladja az erdőnek nem minősülő föld területnagyságát.
 
@@ -743,7 +766,7 @@ javára engedi át,
 - a) a közeli hozzátartozók közötti,
 - b) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló,
 - c) a mezőgazdasági termelőszervezet mint földhasználó, és azon természetes személy, aki
-  - ca) a mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa vagy annak közeli hozzátartozója, vagy
+  - ca) a mezőgazdasági termelőszervezetnek legalább egy éve legalább 25%-ban tulajdonosa vagy annak közeli hozzátartozója, vagy
   - cb) a mezőgazdasági termelőszervezet legalább 3 éve foglalkoztatott alkalmazottja,
 
 mint használatba adó közötti,
@@ -935,8 +958,9 @@ haszonbérlet esetén.
 
 - a) nem tartotta be a szerzéshez vállalt kötelezettségeket vagy a szerzéshez szükséges feltétellel nem rendelkezik
 - b) a szerzés feltételeként az e törvényben előírt meghatározott célú földhasználattól, tevékenységtől tartósan eltért,
-- c) földműves, illetve mezőgazdasági termelőszervezeti minősége bármely okból megszűnt, vagy
-- d) nem teljesítette a Fétv. 18/A–18/C. §-ában és 55/A–55/C. §-ában meghatározott kötelezettségeit
+- c) földműves, illetve mezőgazdasági termelőszervezeti minősége bármely okból megszűnt, kivéve a földnek gazdaságátadás útján történő átruházásának vagy átadásának esetét,
+- d) nem teljesítette a Fétv. 18/A–18/C. §-ában és 55/A–55/C. §-ában meghatározott kötelezettségeit, vagy
+- e) nem teljesítette a 34. § (3a) bekezdése szerinti kötelezettségét,
 
 figyelmeztetésben részesíti, egyidejűleg felhívja a figyelmét a jogszabálysértésre, és határidő megállapításával a figyelmeztetést tartalmazó döntésben felszólítja a jogszerű állapot helyreállítására.
 
@@ -946,6 +970,8 @@ figyelmeztetésben részesíti, egyidejűleg felhívja a figyelmét a jogszabál
 
 (5) Az elővásárlási vagy előhaszonbérleti jog gyakorlásával összefüggésben vállalt kötelezettséget teljesítettnek kell tekinteni, ha az a használatnak a 13. § (2) bekezdése, a 42. § (2) bekezdése szerinti átengedése útján valósul meg.
 
+(6) Ha a haszonbérbe adásra a 48. § (1) bekezdés c) pontja és az 59. § (1) bekezdés e) pontja alkalmazásával került sor, és a mezőgazdasági igazgatási szerv megállapítja, hogy a használatba adónak vagy közeli hozzátartozójának a földet használó mezőgazdasági termelőszervezetben a használatba adás időpontjában fennálló tulajdonrésze a használatba adást követően 25% alá csökkent, akkor a (2) bekezdésben és a 63. §-ban foglaltak szerint jár el. E bekezdés alkalmazása során a föld kényszerhasznosításba adásának nincs helye.
+
 63. § (1) Ha a 62. § (2) és (4) bekezdésében meghatározott személy (ezen alcímben a továbbiakban együtt: kötelezett) határidőben nem tesz eleget a 62. § (2) bekezdésében foglalt figyelmeztetésnek, a mezőgazdasági igazgatási szerv a kötelezettel szemben a (2) bekezdésben megállapított mértékű bírságot szab ki. A bírság megfizetése alól felmentés nem adható, illetve fizetési kedvezmény nem nyújtható.
 
 (2) A bírság a föld szerzéskori aranykorona-értéke húszezerszeres szorzatának megfelelő forintösszeg.
@@ -953,6 +979,22 @@ figyelmeztetésben részesíti, egyidejűleg felhívja a figyelmét a jogszabál
 (2a) Erdő művelési ágú ingatlan esetén a bírság az ingatlan hektárban kifejezett térmértéke egymilliószoros szorzatának megfelelő forintösszeg.
 
 (3) A bírság ismételten kiszabható mindaddig, amíg a jogsértő állapot fennáll.
+
+63/A. § (1) A 63. §-ban foglaltaktól eltérően, ha a 62. § (2) bekezdés e) pontja szerinti kötelezett határidőben nem tesz eleget a 62. § (2) bekezdése szerinti figyelmeztetést tartalmazó döntésben foglaltaknak, akkor a mezőgazdasági igazgatási szerv (5) bekezdés szerinti határozatában foglaltak alapján az állam vételi jogot gyakorol.
+
+(2) A mezőgazdasági igazgatási szerv a 62. § (2) bekezdése szerinti figyelmeztetést tartalmazó döntésben szereplő határidő lejártát követően haladéktalanul megkeresi a Nemzeti Földalap kezeléséért felelős szervet az ingatlan forgalmi értékének megállapítása érdekében, egyidejűleg határidő tűzésével és a (6) bekezdés szerinti jogkövetkezményre történő figyelmeztetéssel felhívja a tulajdonost, hogy jelölje meg az ellenérték megfizetéséhez szükséges adatokat.
+
+(3) A Nemzeti Földalap kezeléséért felelős szerv az ingatlan forgalmi értékének megállapítása során a Nemzeti Földalapba tartozó földrészletek forgalmi értékének megállapítására irányadó szabályok szerint jár el. Az értékbecslés díja a tulajdonost terheli.
+
+(4) A Nemzeti Földalap kezeléséért felelős szerv a megkeresést követő 60 napon belül tájékoztatja a mezőgazdasági igazgatási szervet az ingatlan forgalmi értékéről és az értékbecslés díjáról.
+
+(5) A mezőgazdasági igazgatási szerv határozatában megállapítja az állam vételi jogának megnyílását, a Nemzeti Földalap kezeléséért felelős szerv által közölt forgalmi értéket, az értékbecslés díját, valamint az ingatlan ellenértékeként a forgalmi érték és az értékbecslési díj különbözeteként megállapított összeget, továbbá az ellenérték megfizetésének módját. Ha a tulajdonos a határozat ellen közigazgatási pert indít, annak a (7) bekezdésben foglaltak alkalmazására halasztó hatálya van.
+
+(6) Ha a tulajdonos a (2) bekezdésben megállapított határidőn belül nem nyilatkozik, vagy nem jelöli meg a fizetéshez szükséges adatokat, a neki járó ellenértéket az ingatlan fekvése szerint illetékes törvényszéknél bírósági letétbe kell helyezni. Ha a letétben lévő összeget a jogosult 15 éven belül nem igényli, abban az esetben azt az állam földvásárlásra felhasználhatja. Ha a tulajdonos a letett összeget 15 éven belül nem igényelte, akkor annak leteltét követően ezen követelését bírósági úton érvényesítheti.
+
+(7) A Nemzeti Földalap kezeléséért felelős szerv az állam vételi jogát a határozat közlésétől számított 90 napon belül gyakorolja.
+
+(8) Az ellenértéket a tulajdonos által megjelölt módon vagy a (6) bekezdés szerinti esetben bírósági letét útján a vételi jog gyakorlását követő 30 napon belül kell megfizetni.
 
 64. § (1) Ha a 63. §-ban foglalt bírság kiszabása ellenére a kötelezett 6 hónap elteltével sem állítja helyre a jogszerű állapotot, és a 67/A. §-ban meghatározott intézkedések alkalmazásának bármely okból nincs helye, vagy azok nem vezettek eredményre, a mezőgazdasági igazgatási szerv – az erdőnek minősülő föld, valamint a (4) bekezdésben foglaltak kivételével – a 65. §-ban meghatározottak szerint intézkedhet a föld kényszerhasznosításba adásáról.
 
@@ -1095,3 +1137,5 @@ az érintett földterület vonatkozásában az eredeti vételáron, e törvény 
 (2) A 21. § (5) bekezdésének, a 49. § (4) bekezdésének és az 58. § (3a) és (3b) bekezdésének a Módtv.2. által megállapított rendelkezéseit a 2022. január 1-jén folyamatban lévő és a megismételt eljárásokban is alkalmazni kell.
 
 79. § Az egyes földügyi tárgyú törvények módosításáról szóló 2022. évi LXVII. törvénnyel (a továbbiakban: Módtv.3.) megállapított 35. § (3) bekezdését a Módtv.3. hatálybalépését követően kitűzött árverések esetén kell alkalmazni.
+
+80. § Az egyes agrártárgyú törvények módosításáról szóló 2024. évi XIX. törvénnyel (a továbbiakban: Módtv.4.) megállapított 5. § 4. pontját alkalmazni kell az életvitelszerű lakáshasználat helyének 2024. július 1-jét megelőző időszakra vonatkozó igazolása esetén is.

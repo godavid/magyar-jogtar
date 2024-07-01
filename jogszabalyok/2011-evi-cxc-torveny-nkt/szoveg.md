@@ -718,6 +718,8 @@ gyermekek, tanulók egészségének megőrzésére fordított fokozott figyelmet
 
 kezeli.
 
+(5e) A köznevelési intézmény biztosítja, hogy a gyermekek, tanulók és hozzátartozóik a Nemzeti Média- és Hírközlési Hatóság által működtetett, az elektronikus hírközlésről szóló 2003. évi C. törvény 149/B. §-a szerinti internetes tájékoztató és segítségnyújtó szolgálat elérhetőségét megismerhessék. A köznevelési intézmény köteles az e bekezdés szerinti elérhetőséget a köznevelési intézményben jól látható helyre kifüggeszteni, ezenfelül egyéb módon is biztosíthatja az elérhetőség megismerhetőségét.
+
 (6) A nevelési-oktatási intézményben nyújtott szociális szolgáltatás során eljáró óvodai és iskolai szociális segítő a gyermekkel, tanulóval közvetlenül foglalkozik, az egyéni szociális szolgáltatások megvalósításának ideje alatt a gyermek, tanuló felügyeletéről maga gondoskodik.
 
 (7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetve a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja. A művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnázium osztályainak minimális, maximális és átlaglétszámát a szakgimnázium (művészeti) létszámkeretei szerint kell meghatározni. Az Arany János Tehetséggondozó Programban és az Arany János Kollégiumi Programban a minimális osztály-, illetve kollégiumi csoportlétszámtól legfeljebb húsz százalékkal el lehet térni.
@@ -927,7 +929,7 @@ a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 38. § 
 
 (2) Az (1) bekezdés a)–b) pontja alapján meghozott rendelkezések nem lehetnek ellentétesek a 46. § (2) bekezdésében foglalt elvekkel.
 
-(3) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel, vagy a Magyar Honvédséggel szolgálati viszonyban álló pedagógusok jogviszonyára, az igazgató megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.
+(3) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel, vagy a Magyar Honvédséggel szolgálati viszonyban álló pedagógusok jogviszonyára, az igazgató megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló kormányrendelet, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.
 
 #### 25. A köznevelés rendszerében hozott döntésekkel kapcsolatos szabályok
 
@@ -1994,7 +1996,7 @@ illeti meg.
 - a) meghatározza
   - aa) a szakgimnáziumban, a szakiskolában, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzésben megszerezhető szakképesítéseket, szakmákat, részszakmákat,
   - ab) a szakgimnáziumi szakképesítések programkövetelményeit és kerettanterveit, valamint a szakiskolai szakképesítések kerettanterveit,
-  - ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált vizsgaközpontokat,
+  - ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált szakképzési vizsgaközpontokat,
   - ad) a tanulókat megillető juttatások mértékét,
   - ae) a szakgimnáziumi képesítő vizsgatevékenység, a szakiskolai szakmaivizsga-tevékenység és képesítővizsga-tevékenység, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsga-tevékenységének feladatait,
 - b) gondoskodik az a) pont aa)–ae) alpontjában foglaltak közzétételéről.
