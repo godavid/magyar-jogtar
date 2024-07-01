@@ -85,7 +85,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 5. § (1) A katonai bíróvá való kinevezés előfeltétele az is, hogy a kinevezendő személy a Magyar Honvédség hivatásos tisztje legyen. A kinevezésre történő előterjesztéshez a honvédelemért felelős miniszter előzetes egyetértése szükséges. A katonai bírót erre a tisztségre kell kinevezni.
 
-(2) A katonai bírót a honvédelemért felelős miniszter – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai bíró szolgálatát a bírói tisztsége megszűnéséig a bírósági szervezetnél teljesíti.
+(2) A katonai bírót a Honvéd Vezérkar főnöke – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai bíró szolgálatát a bírói tisztsége megszűnéséig a bírósági szervezetnél teljesíti.
 
 (3) A köztársasági elnök – az OBH elnökének javaslatára – a 4. § (1) bekezdés c), d) és f) pontjaiban meghatározott feltételek alól felmentést adhat a szabadalmi ügyekben eljáró bíró esetében, feltéve, hogy a kinevezendő személy egyetemi végzettséggel rendelkezik.
 
@@ -2027,7 +2027,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 - f) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
 - g) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
-223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
+223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a honvédek jogállásáról szóló kormányrendelet rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
 
 224. § A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
 

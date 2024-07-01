@@ -83,6 +83,28 @@ köthető.
 
 (2) A vevő az általa mezőgazdasági termelőtől, mint eladótól megvásárolt mezőgazdasági termény harmadik személy javára történő tovább értékesítése esetén a harmadik személlyel szemben csak abban az esetben hivatkozhat az 5. § (2) bekezdésen alapuló felelőssége korlátozására, ha a harmadik személlyel kötött szerződés ezt lehetővé teszi.
 
+6/A. § (1) Kockázatmegosztással kapcsolatos rendelkezéseket kell tartalmaznia
+
+- a) a gyümölcs- és zöldségfélék, valamint a sertés- és baromfihús ágazatokban alkalmazott azon szerződésnek,
+  - aa) amelyet a mezőgazdasági termelővel mint eladóval az általa használt mezőgazdasági földterületen megtermelt mezőgazdasági termény értékesítésére annak vetése – gyümölcs esetében a termés betakarítása évének első napja – előtt,
+  - ab) amelyet a haszonállat tenyésztőjével vagy tartójával mint eladóval az általa használt állattartó telepen nevelt haszonállat értékesítésre annak telepítése vagy tenyésztésbe vétele előtt
+
+kötöttek, valamint
+
+- b) a mezőgazdasági vállalkozási jellegű szerződésnek.
+
+(2) Az (1) bekezdés szerinti szerződések kockázatmegosztással kapcsolatos rendelkezései kiterjednek
+
+- a) a mezőgazdasági termelő által viselt, a mezőgazdasági termelési és termékelőállítási tevékenység körébe nem tartozó szerződéses kötelezettségekből eredő kockázatok arányos ellentételezésének módjára,
+- b) az (1) bekezdés b) pontja szerinti szerződés esetében az a) pontban foglaltakon túl
+  - ba) a szerződés teljesítéséhez szükséges szaporítóanyag mennyiség vagy élőállat darabszám biztosítására, a mennyiségcsökkenés határértékeinek és következményeinek meghatározására,
+  - bb) a szaporítóanyag szavatosságának meghatározására,
+  - bc) a minőségi hibákért való felelősség megállapítására,
+  - bd) az inputanyagok minőségének biztosítására,
+  - be) az áru átvételének ütemezésére,
+  - bf) a szerződéstől való elállás feltételeire és
+  - bg) a teljesítés vis maior miatti akadályoztatása következményeire.
+
 #### 5. Kötelező szerződések
 
 7. § (1) A nyerstej Magyarországon történő értékesítésére irányuló szerződést – a végső fogyasztó részére történő közvetlen értékesítés kivételével – a nyerstej feldolgozásáig a Rendelet 148. cikkében meghatározott tartalommal írásba kell foglalni.
@@ -139,7 +161,18 @@ hatályba kell lépnie.
 
 (3) A tesztüzemi információs rendszer és a piaci árinformációs rendszer működtetésének módját, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
 
-(4) A piaci árinformációs rendszer belföldi árjelentési feladatokat, valamint az európai uniós tagságból fakadó árjelentési kötelezettségeket lát el a nemzeti és a közös piacszabályozás működtetése érdekében. Az adatszolgáltatásra kötelezett ágazatokban a valós piaci folyamatok nyomon követése egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi feladatok gyűjtésén, kötelező adatszolgáltatáson és azok feldolgozásán keresztül valósul meg. Az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagok rendszeres jelentése az Európai Bizottság (a továbbiakban: Bizottság), a nemzeti irányító szervek és statisztikai céllal a piaci szereplők felé történik.
+(4) A (2) bekezdésben meghatározott szervezet a piaci árinformációs rendszer működtetésével – a nemzeti és a közös piacszabályozás érdekében – belföldi árfigyelési, ár- és készletjelentési feladatokat, valamint a Rendelet 223. cikke alapján ár- és készletjelentési kötelezettségeket lát el.
+
+(4a) A (2) bekezdésben meghatározott szervezet az adatszolgáltatásra kötelezett ágazatokban a valós piaci folyamatok nyomon követését
+
+- a) egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi adatok gyűjtésével,
+- b) kötelező adatszolgáltatáson alapuló adatok feldolgozásával, valamint
+- c) adminisztratív adatok átvételével és feldolgozásával valósítja meg.
+
+(4b) A (2) bekezdésben meghatározott szervezet
+
+- a) az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagokat rendszeresen jelenti az Európai Bizottság (a továbbiakban: Bizottság) felé, valamint
+- b) az egyedi azonosító adatokat nem tartalmazó árfigyelési adatokat és súlyozott átlagokat a piaci szereplők számára hozzáférhetővé teszi.
 
 (5) A (4) bekezdés szerinti kötelező adatszolgáltatásra kötelezettek a Rendelet 1. cikk (2) bekezdésében meghatározott ágazatok e törvény hatálya alá tartozó szereplői.
 
@@ -219,7 +252,7 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 - a) dönt a termelői csoport, termelői szervezetek, illetve azok társulásainak elismerés iránti kérelméről;
 - b)
 - c) gondoskodik az a) pontban meghatározott eljárásokhoz kapcsolódó ellenőrzésekről, és alkalmazza az ellenőrzések eredménye alapján jogszabályban meghatározott szankciókat;
-- d) teljesíti az Európai Bizottság felé történő adatszolgáltatást.
+- d) teljesíti a Bizottság felé történő adatszolgáltatást.
 
 #### 10. Piacszervezési intézkedés kiterjesztése
 
@@ -296,7 +329,7 @@ elismeréséről.
 
 ### IV. Fejezet — SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 
-26. § (1) E törvény végrehajtására kiadott rendeletben meghatározott szakterületen szaktanácsadói tevékenységet az végezhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Agrárkamara) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti.
+26. § (1) E törvény végrehajtására kiadott rendeletben meghatározott szakterületen szaktanácsadói tevékenységet az végezhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát az Agrárkamarának a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti.
 
 (2) Az Agrárkamara a szaktanácsadókról névjegyzéket vezet, amely tartalmazza
 
@@ -341,6 +374,7 @@ elismeréséről.
 - l) a nemzeti minőségrendszerek, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszerek elismerésére, felfüggesztésére, visszavonására vonatkozó részletes szabályokat
 - m) a cukorágazatban kötelezően alkalmazandó szerződés szabályait,
 - n) a meggy, az alma és a torma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
+- o) a 6/A. § (1) bekezdése szerinti szerződések kockázatmegosztással kapcsolatos rendelkezéseire vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

@@ -2,7 +2,9 @@
 
 az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól
 
-A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előadó-művészeti alkotás olyan, semmi mással nem helyettesíthető társadalmi tevékenység, amely ápolja és fejleszti a társadalom kulturális, szellemi állapotát, az anyanyelvi kultúrát, a társadalmi önismeretet és szolidaritást, elősegíti az európai és ezen belül különösen a magyar kulturális emlékezet fenntartását. A törvény szándéka, hogy az igényes magyarországi előadó-művészetek, a színház-, tánc- és zeneművészet művelését és fejlesztését támogassa.A színház-, tánc- és zeneművészet sokszínűségének és értékeinek gyarapítása, az előadásoknak, koncerteknek a közönség széles rétegeihez való eljuttatása, a gyermek- és ifjúsági korosztály előadó-művészetekre fogékony nézővé nevelésének előmozdítása, a hazai előadó-művészet nemzetközi jelenlétének elősegítése, a határon túli magyar kultúra ápolása, a hazai nemzetiségek művészeti életének támogatása, az előadó-művészeti intézményrendszer fejlesztése, a közpénzek hatékony felhasználását elősegítő támogatási rendszer megteremtése, valamint a kulturális jogok érvényesülése érdekében az Országgyűlés a következő törvényt alkotja:
+A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előadó-művészeti alkotás olyan, semmi mással nem helyettesíthető társadalmi tevékenység, amely ápolja és fejleszti a társadalom kulturális, szellemi állapotát, az anyanyelvi kultúrát, a társadalmi önismeretet és szolidaritást, elősegíti az európai és ezen belül különösen a magyar kulturális emlékezet fenntartását. A törvény szándéka, hogy az igényes magyarországi előadó-művészetek, a színház-, tánc- és zeneművészet művelését és fejlesztését támogassa.
+
+A színház-, tánc- és zeneművészet sokszínűségének és értékeinek gyarapítása, az előadásoknak, koncerteknek a közönség széles rétegeihez való eljuttatása, a gyermek- és ifjúsági korosztály előadó-művészetekre fogékony nézővé nevelésének előmozdítása, a hazai előadó-művészet nemzetközi jelenlétének elősegítése, a határon túli magyar kultúra ápolása, a hazai nemzetiségek művészeti életének támogatása, az előadó-művészeti intézményrendszer fejlesztése, a közpénzek hatékony felhasználását elősegítő támogatási rendszer megteremtése, valamint a kulturális jogok érvényesülése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -18,7 +20,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - f) támogassa az előadó-művészeti társulati értékteremtő munkát,
 - g) elősegítse magyar nyelvű alkotások létrejöttét, ideértve a határon túli magyar alkotók és előadó-művészeti szervezetek értékteremtő tevékenységét is, magyar szerzők műveinek előadását, hazai nemzetiségek nyelvén születő alkotások létrejöttét és bemutatását,
 - h) támogassa az előadó-művészeti szervezetek művészeti és gazdasági együttműködését, hazai és külföldi vendégelőadások létrejöttét, színvonalas külföldi alkotások magyarországi bemutatását,
-- i) elősegítse a gyermek és ifjúsági korosztály hozzáférési lehetőségeit a színház-, tánc- és zeneművészeti alkotások, előadások megismeréséhez, továbbá a minőségi előadó-művészeti szolgáltatások iránti társadalmi igény erősödését, hozzájáruljon az állami és az önkormányzati oktatási-nevelési feladatok ellátásának eredményességéhez, ösztönözze a művészeti értéket képviselő előadásokkal, hangversenyekkel kevésbé ellátott területeken élők kulturális igényeinek kielégítését,
+- i) elősegítse a gyermek és ifjúsági korosztály, ezen belül is különösen a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény hatálya alá tartozó gyermekotthonban, valamint a speciális gyermekotthonban élő gyermekek kulturális, lelki, szellemi fejlődését, hozzáférési lehetőségeit a színház-, tánc- és zeneművészeti alkotások, előadások megismeréséhez, továbbá a minőségi előadó-művészeti szolgáltatások iránti társadalmi igény erősödését, hozzájáruljon az állami és az önkormányzati oktatási-nevelési feladatok ellátásának eredményességéhez, ösztönözze a művészeti értéket képviselő előadásokkal, hangversenyekkel kevésbé ellátott területeken élők kulturális igényeinek kielégítését,
 - j) támogassa a szakmai dokumentációs és kutatási tevékenységet,
 - k)
 - l) ösztönözze az államháztartáson kívüli források bevonását az előadó-művészeti szervezetek működésébe, működtetésébe, fejlesztésébe, valamint
@@ -217,7 +219,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 13. § Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások tartós biztosítására nyilvántartott előadó-művészeti szervezettel kormányrendelet szerinti tartalommal és feltételekkel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
 
-14. §
+#### 14. §
 
 ### IV. Fejezet — AZ ELŐADÓ-MŰVÉSZET TÁMOGATÁSA
 
@@ -289,11 +291,11 @@ részére.
 
 ### 4. CÍM
 
-21. §
+#### 21. §
 
 ### 5. CÍM — A központi költségvetési támogatás felhasználásáról való beszámolás
 
-22. §
+#### 22. §
 
 23. § (1) A 15. § (2) bekezdés a) és b) pontja szerinti jogosult (ha több előadó-művészeti szervezetet tart fenn, vagy több előadó-művészeti szervezettel kötött közszolgáltatási szerződést, szervezetenként) a központi költségvetési támogatás felhasználásáról a tárgyévet követő év június 30-áig a kijelölt szerv részére szakmai és pénzügyi beszámolót készít.
 
@@ -340,9 +342,9 @@ részére.
 - a) határozott időre azt, aki az adott munkakörben kiemelkedő művészi teljesítmény nyújtására alkalmas,
 - b) véglegesen azt, aki művészi teljesítményére tekintettel művészeti elismeréssel rendelkezik.
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 29. § (1) A művészi és a művészeti munkakör betöltésére létesített határozott idejű munkaviszony – ha a felek eltérően nem állapodnak meg – az évad végéig tart.
 
@@ -391,7 +393,7 @@ részére.
 
 33. § A foglalkoztatott munkaidejét nem érintő munkavégzésre irányuló további jogviszony létesítését – a tudományos, oktatói, lektori, szerkesztői, a szerzői jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és a közérdekű önkéntes tevékenység kivételével – a foglalkoztatott köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni, aki a további jogviszony létesítését megtilthatja, ha az előadó-művészeti szervezet üzemszerű működését veszélyezteti.
 
-34. §
+#### 34. §
 
 35. § (1) A művészi munkakörben foglalkoztatott az előadáson történő közreműködésért – kollektív szerződés, illetve munkaszerződés alapján – külön díjazást kaphat.
 
@@ -407,7 +409,11 @@ részére.
 
 (2) Évenként öt munkanap pótszabadság jár a külön jogszabályban felsorolt művészi és művészeti munkakört betöltő foglalkoztatottnak.
 
-### Az opera-, szimfonikus-, kamara- és egyébzenekari tag, az énekkari tag, valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltérő szabályok
+### Az opera-, szimfonikus-, kamara- és egyéb
+
+zenekari tag, az énekkari tag,
+
+valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltérő szabályok
 
 37. § (1) A zenekari és énekkari tag esetében a munkajogviszony létrehozásának feltétele az eredményes szakmai próbajáték, illetve próbaéneklés, amelyek meghirdetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
@@ -464,7 +470,9 @@ részére.
 
 (5) A 39. § (1) bekezdése szerinti előadó-művészeti szervezet vezetőjének határozott idejű munkajogviszonyát rendes felmondással megszüntetni nem lehet.
 
-42–43. §
+#### 42. §
+
+#### 43. §
 
 ### 3. CÍM — TÁNCMŰVÉSZETI ÉLETJÁRADÉK
 
@@ -624,8 +632,8 @@ részére.
 
 ### Módosuló jogszabályok
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §

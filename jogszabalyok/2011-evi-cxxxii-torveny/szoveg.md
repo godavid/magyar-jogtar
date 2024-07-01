@@ -128,7 +128,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 - a) közalkalmazott,
 - b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálya alá tartozó állomány tagja vezényléssel, illetve a Hszt. 71. § (1) bekezdés c) pontja szerinti szolgálati beosztásához nem tartozó feladatkör ellátására, többletfeladatként történő megbízással vagy közalkalmazotti jogviszony keretében,
-- c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
+- c) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó állomány tagja vezényléssel,
 - d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő foglalkoztatás keretében,
 - e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás, illetve a Hszt. szerinti tartós átirányítás keretében,
 - f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel, valamint
@@ -300,7 +300,7 @@ kézbesítettnek kell tekinteni.
 21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
 
 - a) közszolgálati ösztöndíjas hallgató,
-- b) önköltség fizetésére nem kötelezett hallgató, aki a Hszt. hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
+- b) önköltség fizetésére nem kötelezett hallgató, aki a Hszt. hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos vagy szerződéses szolgálati viszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
 - c) önköltséges hallgató, vagy
 - d) a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjában meghatározott ösztöndíjas hallgató (a továbbiakban: rendészeti ösztöndíjas hallgató).
 

@@ -28,6 +28,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
   - ka) 1988. augusztus 1-jét követően a Honvédség és jogelődje állományában szolgálatot teljesítve igazoltan harci cselekményben vett részt, és annak során kiemelkedő helytállást tanúsított,
   - kb) a Honvédség és jogelődje állományából méltó módon vált ki, erkölcsileg feddhetetlen, és
   - kc) ilyen személyként – miniszteri rendelet alapján létrehozott Veterán Grémium (a továbbiakban: Grémium) határozatával – elismerésre került.
+- l) nyugállományú katona: a honvédek jogállásáról szóló kormányrendelet (a továbbiakban: Hjkr.) szerinti nyugállományú katona.
 
 (2) Az e törvény által meghatározott adatokról az egyes nyilvántartások személyi köre tekintetében, törvényekben meghatározott jogok érvényesítése és kötelezettségek teljesítése céljából elektronikus, illetve papíralapú nyilvántartást kell vezetni. Az adatkezelés alapelveinek megfelelően, különböző jogosultsági szintű hozzáféréssel biztosított az egyes szakterületek nyilvántartásai számára az azokban szereplő adatok kezelése.
 
@@ -595,12 +596,12 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (3) A személyügyi szakterület a pénzügyi szakterület részére – annak feladatai ellátása céljából – továbbítja azokat a személyügyi nyilvántartásban szereplő adatokat, amelyeket a pénzügyi szakterület a 16. melléklet alapján kezelhet.
 
-(4) Kormányrendeletben kijelölt honvédelmi szervezet a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba áthelyezettek Hjt. 59. § (2) bekezdés c) pontja szerinti áthelyezésének elősegítése érdekében
+(4) A Kormány rendeletében kijelölt honvédelmi szervezet a sajátos katonai tartalékállományba áthelyezetteknek a közalkalmazotti, honvédelmi alkalmazotti, rendvédelmi igazgatási, egészségügyi szolgálati, a közszolgálati tisztviselőkről szóló törvény szerinti szolgálati, a közszolgálati, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati, illetve a Nemzeti Adó- és Vámhivatalnál fennálló adó- és vámhatósági szolgálati jogviszonyba történő áthelyezésének elősegítése érdekében
 
 - a) a rendelkezési állományba áthelyezéssel egyidejűleg a 17. melléklet szerinti adatokat továbbítja a kormányzati személyügyi igazgatási feladatokat ellátó szervnek (a továbbiakban: személyügyi központ), és
-- b) ellátja a tartalékállomány kezelésével kapcsolatos, kormányrendeletben meghatározott feladatokat.
+- b) ellátja a tartalékállomány kezelésével kapcsolatos, a Kormány rendeletében meghatározott feladatokat.
 
-(5) A Hjt. 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba áthelyezettek adatait az adatkezelő a Hjt. 59. § (2) bekezdés c) pontja szerinti áthelyezésig, illetve a szolgálati viszonynak a Hjt. 47. § (2) bekezdése szerinti megszűnéséig kezeli.
+(5) A sajátos katonai tartalékállományba áthelyezettek adatait az adatkezelő a közalkalmazotti, honvédelmi alkalmazotti, rendvédelmi igazgatási, egészségügyi szolgálati, a közszolgálati tisztviselőkről szóló törvény szerinti szolgálati, a közszolgálati, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati, illetve a Nemzeti Adó- és Vámhivatalnál fennálló adó- és vámhatósági szolgálati jogviszonyba történő áthelyezésig, illetve a szolgálati viszonynak a megszűnéséig kezeli.
 
 (6) A (4) és (5) bekezdés szerinti személyek adatait a személyügyi központ, a nyilvántartásban keresést kérő vagy üres álláshelyet bejelentő közigazgatási szerv ismerheti meg.
 
@@ -614,7 +615,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (3) Az (1) és a (2) bekezdés szerinti személyek adatait az adatkezelő a hivatásos vagy szerződéses szolgálati viszony létesítése esetén a személyügyi nyilvántartásban tovább kezeli.
 
-50. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltató (a továbbiakban: honvédelmi egészségügyi szolgáltató) vezetője a Hjt. 237/J. § (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonáról és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/A. § (1) bekezdés a) pontja szerinti egészségügyi honvédelmi alkalmazottról (a továbbiakban együtt: egészségügyi állomány tagja) a 18. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: alapnyilvántartás) vezet. Törvény eltérő rendelkezésének hiányában a 18. mellékletben nem szereplő körben adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
+50. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltató (a továbbiakban: honvédelmi egészségügyi szolgáltató) vezetője a Hjkr. szerinti egészségügyi munkakörű katonáról és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/A. § (1) bekezdés a) pontja szerinti egészségügyi honvédelmi alkalmazottról (a továbbiakban együtt: egészségügyi állomány tagja) a 18. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: alapnyilvántartás) vezet. Törvény eltérő rendelkezésének hiányában a 18. mellékletben nem szereplő körben adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
 
 (2) Az Infotv. 26. § (2) bekezdésében foglalt adatokon túl közérdekből nyilvános adat az egészségügyi állomány tagja munkáltatójának megnevezése és besorolására vonatkozó adata is.
 
@@ -634,7 +635,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (6) Az alapnyilvántartásban rögzített adatot az adatkezelő a jogviszony megszűnését követő 10. év végéig kezeli.
 
-51. § (1) A Hjt. szerinti szolgálaton kívüliek állományába tartozó személyekről a (2) bekezdésben meghatározott adatkezelő, a (3) bekezdésben meghatározott célból a 19. melléklet szerinti adatokat kezeli. Az érintettnek a szolgálaton kívüliek állományába történő felvételére vonatkozó kérelmével egyidejűleg nyilatkoznia kell adatainak további kezelésére vonatkozóan.
+51. § (1) A Hjkr. szerinti szolgálaton kívüliek állományába tartozó személyekről a (2) bekezdésben meghatározott adatkezelő, a (3) bekezdésben meghatározott célból a 19. melléklet szerinti adatokat kezeli. Az érintettnek a szolgálaton kívüliek állományába történő felvételére vonatkozó kérelmével egyidejűleg nyilatkoznia kell adatainak további kezelésére vonatkozóan.
 
 (2) A szolgálaton kívüliek állományába tartozók adatait a Honvédség központi személyügyi szerve kezeli.
 
@@ -642,7 +643,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 (4) Szolgálaton kívüliek adatait az adatkezelő annak az évnek az utolsó napjáig kezeli, amikor
 
-- a) a Hjt. 76. § (2) bekezdésében meghatározott időtartam letelik,
+- a) a szolgálaton kívüli állományba tartozás Hjkr.-ben meghatározott időtartama letelik,
 - b) az érintett öregségi nyugdíjra jogosultságot szerzett, vagy
 - c) az egyéb közszolgálati jogviszony keretében történő foglalkoztatása megszűnik.
 
@@ -654,9 +655,9 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 #### 24. A pénzügyi nyilvántartás
 
-52. § (1) A pénzügyi szakterület a személyi állomány, valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra, valamint pótlékra és átalány-költségtérítésre jogosult hozzátartozói az egyéb munkavégzésre irányuló jogviszonyban foglalkoztatottak, természetes személy kedvezményezett felek, illetve az ösztöndíjban részesülő és a veterán jogállású érintettek 16. melléklet szerinti személyes adatait kezeli.
+52. § (1) A pénzügyi szakterület a személyi állomány, valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra, valamint pótlékra és átalány-költségtérítésre jogosult hozzátartozói, honvédelmi szolgálati juttatásban részesülő az egyéb munkavégzésre irányuló jogviszonyban foglalkoztatottak, természetes személy kedvezményezett felek, illetve az ösztöndíjban részesülő és a veterán jogállású érintettek 16. melléklet szerinti személyes adatait kezeli.
 
-(2) A pénzügyi szakterület adatait személyi állománya vonatkozásában a honvédelmi szervezet, szakterületéhez tartozó feladatai ellátása során a központi pénzügyi szervezet kezeli. Az ösztöndíjban részesülők adatait az ösztöndíj megállapítására, kifizetésére jogosult honvédelmi szervezet, szakterületéhez tartozó feladatai ellátása során a központi pénzügyi szervezet kezeli. A veterán jogállású érintettek adatait a jogállással összefüggő pénzügyi feladatok ellátása céljából a központi pénzügyi szervezet kezeli.
+(2) A pénzügyi szakterület adatait személyi állománya vonatkozásában a honvédelmi szervezet, szakterületéhez tartozó feladatai ellátása során a központi pénzügyi szervezet kezeli. Az ösztöndíjban részesülők adatait az ösztöndíj megállapítására, kifizetésére jogosult honvédelmi szervezet, szakterületéhez tartozó feladatai ellátása során a központi pénzügyi szervezet kezeli. A honvédelmi szolgálati juttatásban részesülő és a veterán jogállású érintettek adatait a jogállással összefüggő pénzügyi feladatok ellátása céljából a központi pénzügyi szervezet kezeli.
 
 (3) A pénzügyi szakterület által végzett adatkezelés célja az (1) bekezdés szerinti személyeket pénzben, illetve egyéb módon megillető járandóságok, juttatások, költségtérítések és átvállalt tagdíjak, valamint az ösztöndíjak kifizethetőségének, továbbá az ehhez fűződő adatszolgáltatási kötelezettségek teljesítésének biztosítása.
 
@@ -692,7 +693,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 
 - a) a jogosultság megállapítása esetén a honvédelmi egészségkárosodási ellátásra, valamint a baleseti járadékra való jogosultság megszűnését követő harmadik év december 31-ig,
 - b) fellebbezés esetén a keresetindításra nyitva álló határidőig,
-- c) abban az esetben, ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, Hjt. 186. § (1) bekezdése szerinti keresetindításra nyitva álló határidő leteltét követő 30 napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig
+- c) abban az esetben, ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, honvédek jogállási kérdéseit meghatározó jogszabályban meghatározott keresetindításra nyitva álló határidő leteltét követő 30 napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig
 
 tart.
 
@@ -1124,16 +1125,16 @@ továbbítja az (1) bekezdésben meghatározott adatkezelő részére.
 
 (3) Az érdekvédelmi nyilvántartásban történő adatkezelés célja
 
-- a) a nyugállományú katonának, a honvédségi nyugdíjasnak, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
+- a) a nyugállományú katonának, a honvédelmi szolgálati juttatásra jogosultnak, a honvédségi nyugdíjasnak, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
 - b) a hivatásos, a szerződéses és az önkéntes tartalékos katonai szolgálatteljesítéssel, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
-- c) az állomány elhunyt tagjának, az önkéntes tartalékos szolgálatteljesítéssel vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggésben elhunyt katonának, az elhunyt nyugállományú katonának, az elhunyt honvédségi nyugdíjasnak, az elhunyt kormánytisztviselőnek – ideértve a politikai szolgálati és biztosi jogviszonyban állót is –, az elhunyt kormányzati ügykezelőnek, az elhunyt honvédelmi alkalmazottnak és az elhunyt közalkalmazottnak,
+- c) az állomány elhunyt tagjának, az önkéntes tartalékos szolgálatteljesítéssel vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggésben elhunyt katonának, az elhunyt nyugállományú katonának, az elhunyt honvédelmi szolgálati juttatásra jogosultnak az elhunyt honvédségi nyugdíjasnak, az elhunyt kormánytisztviselőnek – ideértve a politikai szolgálati és biztosi jogviszonyban állót is –, az elhunyt kormányzati ügykezelőnek, az elhunyt honvédelmi alkalmazottnak és az elhunyt közalkalmazottnak,
 - d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak
 
-társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának és folyósításának biztosítása, elismerés adományozása, valamint az érintetti kör tájékoztatása tájékoztatók és honvédségi kiadványok megküldésével, az érintettek véleményének, álláspontjának kikérése, megismerése, valamint kiemelt eseményekről, különösen évfordulókról, emléknapokról történő megemlékezés köszöntő levelek megküldésével vagy személyes kapcsolattartással.
+társadalombiztosítási, szociális, kegyeleti ellátásai, humánszolgálati támogatásai, juttatásai megállapításának és folyósításának biztosítása, elismerés adományozása, valamint az érintetti kör tájékoztatása tájékoztatók és honvédségi kiadványok megküldésével, az érintettek véleményének, álláspontjának kikérése, megismerése, valamint kiemelt eseményekről, különösen évfordulókról, emléknapokról történő megemlékezés köszöntő levelek megküldésével vagy személyes kapcsolattartással.
 
 (4) Az érdekvédelmi nyilvántartás adatait a (2) bekezdés szerinti idő eltelte után megőrzés céljából a Honvédség központi irattározási feladatát ellátó honvédelmi szervezete kezeli tovább.
 
-(5) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának, valamint elismerés adományozásának céljából megismeri:
+(5) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás, humánszolgálati támogatás, juttatás megállapításának és folyósításának, valamint elismerés adományozásának céljából megismeri:
 
 - a) miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 - b) a Honvédség központi személyügyi szerve,
@@ -1142,6 +1143,8 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 - e) a központi pénzügyi szervezet.
 
 (6) A honvédelmi szervezetek jogi képviseletét ellátó szervezet részére, peres ügy esetén, az érdekvédelmi nyilvántartás adataiból az adatkezelő adatot továbbít.
+
+(7) Az adatkezelő adatot szolgáltat a központi pénzügyi szerv részére a tudomására jutott, az érintett szolgálati juttatásának megszüntetésével összefüggő adatokról.
 
 #### 38. Központi irattári nyilvántartás
 
@@ -1249,29 +1252,57 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 
 (6) Az, akinek jogát vagy jogos érdekét a kép-, illetve a kép- és hangfelvétel rögzítése érinti, az (5) bekezdésben megjelölt eljárás lefolytatásához kérheti, hogy az adatot annak kezelője az adat továbbításáig ne törölje. A kérelem benyújtására a kép-, illetve a kép- és hangfelvétel rögzítésétől számított 30 napon belül van lehetőség. Bíróság, ügyészség, nyomozó hatóság vagy más hatóság adatszolgáltatás-kérésére a rögzített kép-, illetve kép- és hangfelvételt haladéktalanul meg kell küldeni. Ha a kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre, a rögzített kép-, illetve kép- és hangfelvételt törölni kell.
 
-#### 41. Zártkörű rendezvényekkel kapcsolatos nyilvántartások
+#### 41. Rendezvényekkel kapcsolatos nyilvántartások
 
-85. § (1) A honvédelmi szervezet zártkörű rendezvény megszervezése, a Honvédség népszerűsítése, illetve honvédelmi érdek érvényesítése céljából a rendezvényen részt vevő érintettek következő adatait kezeli:
+85. § (1) A rendezvényt szervező honvédelmi szervezet a Honvédség népszerűsítése, a honvédelmi tudatosság erősítése, a honvédelmi érdek érvényesítése céljából, az ezzel összefüggésben szervezett, a rendezvény megszervezésével, lebonyolításával, a rendezvénnyel összefüggő kapcsolattartással és tájékoztatással, valamint a Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatással összefüggésben – a rendezvény jellegétől függően, az adott rendezvény céljaihoz szükséges mértékben – a rendezvényen részt vevő érintettek következő adatait kezeli:
 
-- a) családi és utónév,
-- b) születési hely, idő,
-- c) anyja születési neve,
-- d) munkahely megnevezése, székhelye, elérhetősége,
-- e) beosztás, munkakör, elérhetőség,
-- f) lakcím,
-- g) személyazonosításra alkalmas okmány típusa, okmányazonosítója, érvényessége,
-- h) arcképmás és hangfelvétel.
+- 1. családi és utóneve, katona esetében rendfokozata,
+- 2. születési helye, ideje, – nem magyar állampolgár esetén – állampolgársága,
+- 3. anyja születési neve,
+- 4. munkahelyének megnevezése, székhelye, elérhetősége,
+- 5. beosztása, munkaköre,
+- 6. telefonszáma, elektronikus elérhetősége,
+- 7. lakcíme,
+- 8. személyazonosításra alkalmas okmányának típusa, okmányazonosítója, érvényessége,
+- 9. kép, illetve hang- és képfelvétele, továbbá a rendezvényről készült iratban szereplő személyes adatai,
+- 10. az adott objektumba gépjárművel történő behajtás esetén a gépjármű forgalmi rendszáma, valamint a gépjárművel történő be- és kihajtás időpontja,
+- 11. a személyi biztonsági okmányokhoz kapcsolódó adatai,
+- 12. szomatometriai adatai,
+- 13. a társadalombiztosítási azonosító jel meglétére vonatkozó adata,
+- 14. a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló jogszabály által meghatározott adata,
+- 15. az ismert ételallergiára és ételintoleranciára vonatkozó adata,
+- 16. fizetési kötelezettséggel járó rendezvény esetén a bankszámlaszáma, a díj megfizetése alóli mentesség igazolásának adatai.
 
-(2) Az adatok – az arcképmás és a hangfelvétel kivételével – a rendezvény lebonyolítását követő legfeljebb 30 napig kell kezelni. Az arcképmás és a hangfelvétel vonatkozásában az adatkezelő 3 évente felülvizsgálja, hogy ezen adatok további kezelése az adatkezelés célja tekintetében szükséges-e.
+(2) Az adatkezelő az (1) bekezdésben meghatározott célból, az ott meghatározott érintetteken túl – a feltételek fennállása esetén – a törvényes képviselő következő adatait is kezeli:
 
-(3) A Honvédség népszerűsítése céljából az (1) bekezdés h) pontjában meghatározott adatokat az adatkezelő közzéteszi.
+- a) családi és utóneve,
+- b) lakcíme,
+- c) elérhetőségi adatai,
+- d) fizetési kötelezettséggel járó rendezvény esetén bankszámlaszám, díj megfizetése alóli mentesség igazolásának adatai.
 
-(4) Ha a rendezvény jellege nemzetbiztonsági vagy rendvédelmi érdekből megkívánja, úgy az (1) bekezdésben meghatározott adatokat az adatkezelő
+(3) Az adatokat – az (1) bekezdés 1., 6. és 9. pontjában, valamint a (2) bekezdés a) és c) pontjában meghatározott adatok kivételével – a rendezvény lebonyolítását követő legfeljebb 60 napig kell kezelni. Amennyiben az adatkezelő a 9. pontban meghatározott adatokat rögzíti, úgy 3 évente felülvizsgálja, hogy ezen adatok további kezelése az adatkezelés célja tekintetében szükséges-e. A Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatás céljából kezelt, az (1) bekezdés 1. és 6. pontja, valamint a (2) bekezdés a) és c) pontja szerinti adatok kezelésének szükségességét az adatkezelő 3 évente felülvizsgálja, továbbá azokat az érintett kérelmére haladéktalanul törli.
 
-- a) törvényben meghatározott feladatai ellátásához a KNBSZ-nek,
-- b) bűncselekmények üldözése vagy megelőzése érdekében a hatáskörrel rendelkező szerv részére
+(4) Az adatkezelő az (1) bekezdés 9. pontjában meghatározott adatokat a Honvédséggel összefüggő kommunikációs felületeken kizárólag a Honvédség népszerűsítése céljából hozza nyilvánosságra.
 
-továbbítja.
+(5) Az adatkezelő a beléptetéshez, parkoláshoz szükséges adatokat továbbítja a beléptetésért felelős honvédelmi szervezet, vagy egyéb szerv, vagy szervezet, gazdasági társaság részére.
+
+(6) Az adatkezelő a Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatással összefüggő feladatok ellátására kijelölt honvédelmi szervezet részére feladatainak ellátása céljából továbbítja az érintett
+
+- a) családi és utónevét,
+- b) születési évét,
+- c) elektronikus elérhetőségét,
+- d) lakóhelyét.
+
+#### 41/A. A Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatással összefüggő nyilvántartás
+
+85/A. § (1) A Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatással összefüggő feladatok ellátására kijelölt honvédelmi szervezet a Honvédség népszerűsítése, a honvédelmi tudatosság erősítése, tájékoztatók és honvédségi kiadványok, kiemelt eseményekről szóló tájékoztatók megküldése, az érintett véleményének, álláspontjának kikérése, megismerése céljából, a tájékoztatást igénylő és a 85. § szerinti érintett következő adatait kezeli:
+
+- a) családi és utóneve,
+- b) születési éve,
+- c) elektronikus elérhetősége,
+- d) lakóhelye.
+
+(2) Az adatkezelő az (1) bekezdés szerinti adatok kezelésének szükségességét 3 évente felülvizsgálja, továbbá azokat az érintett kérelmére haladéktalanul törli.
 
 #### 42. Katonai rendészeti szolgálattal összefüggő adatkezelések
 
@@ -1877,6 +1908,79 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 (5) A szolgálati és a munkáltatói igazolvány és a jelvény a jogállási törvényekben foglalt jogosultságokat igazolja.
 
+### V/A. Fejezet — A HONVÉDEK JOGÁLLÁSÁHOZ KAPCSOLÓDÓ RENDELKEZÉSEK
+
+#### 59/B. A honvédek jogállásához kapcsolódó különös rendelkezések
+
+110/B. § E Fejezet alkalmazásában
+
+- a) honvédségi ösztöndíjas hallgató: a miniszter által, a katonai oktatást folytató intézményekben nem megszerezhető végzettséget igénylő szolgálati beosztások feltöltése érdekében alapított ösztöndíjat elnyert, és az azzal járó kötelezettségeket ösztöndíjszerződésben vállaló, honvédnek vagy honvédelmi alkalmazottnak nem minősülő személy,
+- b) honvédségi ösztöndíjas sportoló: a miniszter által, az egyes szolgálati beosztások feltöltése érdekében alapított, a sportról szóló 2004. évi I. törvény 1. § (3) bekezdése szerinti igazolt sportolói jogviszonyára tekintettel ösztöndíjat elnyert, és az azzal járó kötelezettségeket ösztöndíjszerződésben vállaló, honvédnek vagy honvédelmi alkalmazottnak nem minősülő személy,
+- c) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér.
+
+110/C. § A honvédek jogállási kérdéseit szabályozó jogszabály elévülésre, kártérítési felelősségre, fellebbezésre és bírósági útra vonatkozó rendelkezéseit kell alkalmazni a hadkötelezettség alapján teljesített szolgálattal összefüggő balesetekkel, a hadkötelezettség alapján teljesített szolgálattal összefüggésben kialakult, vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálása során a hadkötelezettség alapján szolgálatot teljesített személyekre, közeli hozzátartozójukra és élettársukra.
+
+110/D. § Miniszteri rendelet humánszolgálati gondoskodás keretében az elhunyt honvéd közeli hozzátartozója vagy élettársa támogatását is előírhatja.
+
+110/E. § (1) Árvák kiegészítő támogatására jogosult az elhunyt honvéd és az elhunyt nyugállományú katona gyermeke, aki árvaellátásra jogosult.
+
+(2) Az árvák kiegészítő támogatásának a mértéke
+
+- a) hősi halott árvája esetében a megállapított árvaellátás ötven százaléka,
+- b) a szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű foglalkozási megbetegedésben elhunyt árvája esetében a megállapított árvaellátás huszonöt százaléka, vagy
+- c) az a) és a b) pont alá nem tartozó árva esetében a megállapított árvaellátás tíz százaléka.
+
+110/F. § (1) Kiegészítő hozzátartozói támogatás illeti meg az özvegyi és szülői nyugdíjra jogosultat, ha a honvéd halálát szolgálati kötelmekkel összefüggő baleset vagy szolgálati eredetű foglalkozási megbetegedés okozta.
+
+(2) A kiegészítő hozzátartozói támogatás mértéke a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) alapján megállapított özvegyi vagy szülői nyugdíj huszonöt százalékának megfelelő összeg.
+
+(3) A (2) bekezdéstől eltérően a hősi halott özvegye és szülője a Tny. alapján megállapított özvegyi vagy szülői nyugdíj ötven százalékának megfelelő összegű kiegészítő hozzátartozói támogatásra jogosult.
+
+(4) Az árvák kiegészítő támogatásának, és a kiegészítő hozzátartozói támogatás (a továbbiakban együtt: kiegészítő támogatás) megállapításának eljárásrendjére az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit kell alkalmazni.
+
+(5) A kiegészítő támogatásra való jogosultságról a Kormány által rendeletben kijelölt szerv dönt, és a megállapított kiegészítő támogatást a nyugdíjfolyósító szerv folyósítja.
+
+(6) A kiegészítő támogatás és az azzal kapcsolatos végrehajtási költségek forrását a központi költségvetés biztosítja.
+
+(7) A kiegészítő támogatás összegét a Tny. 62. §-ában foglaltak szerint kell emelni.
+
+(8) A kiegészítő támogatás jogalap nélküli felvétele esetén a Tny. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett kiegészítő támogatásból eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. szabályai alapján érvényesíti.
+
+(9) A kiegészítő támogatás megállapításának és folyósításának szabályait a Kormány rendeletben határozza meg.
+
+(10) A kiegészítői támogatásra való jogosultság elbírálására irányuló eljárás során a 110/G. § (2)–(3) bekezdését alkalmazni kell azzal, hogy a baleseti járadék alatt kiegészítő támogatást kell érteni.
+
+110/G. § (1) A baleseti járadékra való jogosultság tárgyában első fokon a Kormány által rendeletben kijelölt szerv dönt.
+
+(2) A baleseti járadékra való jogosultsággal kapcsolatos eljárás során az eljáró szerv írásban tart kapcsolatot az ügyféllel.
+
+(3) A baleseti járadékra való jogosultsággal kapcsolatos ügyben hozott határozatba harmadik személy nem tekinthet be.
+
+(4) A baleseti járadék megállapítása iránti kérelem kormányablaknál nem terjeszthető elő.
+
+(5) A baleseti járadék megállapítására irányuló eljárás során hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+
+(6) A baleseti járadék megállapításával, továbbfolyósításával kapcsolatos eljárásban az eljáró szerv az eljárást felfüggesztheti az orvosszakértői szervnek az egészségkárosodás mértéke megállapítására irányuló eljárása időtartamára.
+
+110/H. § Az egészségkárosodási ellátásban részesülő volt honvéd közeli hozzátartozója a jogosult halálának tényét és annak időpontját tizenöt napon belül köteles bejelenteni az ellátást megállapító szervnek. A bejelentési kötelezettség elmulasztása esetén az általános elévülési időn belül a közeli hozzátartozótól visszakövetelhető a jogalap nélkül felvett honvédelmi egészségkárosodási ellátás.
+
+110/I. § (1) A miniszter által vezetett minisztérium a Magyar Honvédség személyi állománya utánpótlásának biztosítása érdekében miniszteri rendeletben meghatározottak szerint ösztöndíjrendszert működtet.
+
+(2) A honvédségi ösztöndíjas hallgató, valamint a honvédségi ösztöndíjas sportoló szerződésében vállalja, hogy a szerződése szerinti tanulmányokat vagy sportolói tevékenységet folytatja, a miniszter által vezetett minisztérium pedig a miniszter rendeletében meghatározottak szerint ösztöndíjat vagy tanulmányi támogatást nyújt.
+
+110/J. § A Hjkr. szerinti elhelyezkedési korlátozás megsértésével kötött szerződésre az adott jogviszony szerinti semmisségre vonatkozó rendelkezéseket kell alkalmazni.
+
+110/K. § A HVKF a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését a kötelezett kérelmére, részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmányi támogatás visszafizetése családi, vagyoni, jövedelmi vagy szociális körülményeire figyelemmel aránytalanul súlyos megterhelést jelentene.
+
+110/L. § A miniszter az állomány Magyar Honvédség halottjává vagy a katonai szolgálat halottjává nyilvánított tagjával szemben, a volt munkáltató által nyilvántartott követelést az állomány elhunyt tagjának örököse kérelmére részben vagy egészben elengedheti. A kérelemben foglaltak mérlegelése során a miniszter az elhunyt életútjának, illetve a kérelmező szociális helyzetének figyelembevételével dönt.
+
+110/M. § (1) A központi támogatáson felül, a honvédek jogállásról szóló jogszabály alapján a magántulajdonú lakás építéséhez, vásárlásához, valamint a pénzintézeti lakáscélú kölcsön kiváltásához nyújtható visszatérítendő és vissza nem térítendő támogatás forrása
+
+- a) a miniszter által vezetett minisztérium rendelkezése alatt lévő lakások és nem lakáscélú helyiségek elidegenítéséből származó bevétel és
+- b) a lakáscélú munkáltatói kölcsönök törlesztéséből származó bevétel.
+
+(2) Az (1) bekezdés a) pontja szerinti, a miniszter által vezetett minisztériumot megillető bevétel a honvédelmi szervezet technikai modernizációjára és infrastrukturális fejlesztéseire is felhasználható.
+
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 60. Felhatalmazó rendelkezések
@@ -1887,8 +1991,16 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 - b) állapítsa meg a katonai szolgálattal összefüggő hatósági bizonyítvány kiadásának szabályait,
 - c) jelölje ki a Honvédség katonai igazgatási és központi adatfeldolgozó szervét,
 - d) állapítsa meg a 48. § (4) bekezdése szerinti feladatokra és azok ellátására vonatkozó szabályokat.
+- e) állapítsa meg az árvák kiegészítő támogatása és a kiegészítő hozzátartozói támogatás megállapításának és folyósításának szabályait,
+- f) állapítsa meg a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait.
 
-112. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a honvédelmi ágazatban használt azonosító okmányok kiadásával és kezelésével kapcsolatos eljárási szabályokat, valamint az okmányok használatával összefüggő jogokat és kötelezettségeket.
+112. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) a honvédelmi ágazatban használt azonosító okmányok kiadásával és kezelésével kapcsolatos eljárási szabályokat, valamint az okmányok használatával összefüggő jogokat és kötelezettségeket,
+- b) a honvédek, a nyugállományú katonák és azok közeli hozzátartozóinak, élettársának és örökösének nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás és a visszatérítés részletes rendjét,
+- c) humánszolgálati gondoskodás keretében az elhunyt honvéd közeli hozzátartozója vagy élettársa támogatásának részletes szabályait,
+- d) a honvédek, a nyugállományú katonák és azok közeli hozzátartozóinak, élettársának nyújtható regenerálódást segítő, rekreációs és üdültetési szolgáltatások fajtáit, igénybevételük feltételeit és módját,
+- e) honvédségi ösztöndíjas hallgatót és a honvédségi ösztöndíjas sportolót megillető ösztöndíj elemeire, kiszámítás módjára, mértékére vonatkozó szabályokat a honvédelmi szervezet által nyújtott tanulmányi támogatás formáját és mértékét, a tanulmányi szerződés megkötésének feltételeit, a honvédségi ösztöndíjas hallgatói, valamint a honvédségi ösztöndíjas sportolói jogviszonyhoz kapcsolódó egészségi, pszichikai és fizikai alkalmassági követelményeket, a tanulmányi szerződés közös megegyezéssel történő megszüntetésének szabályait, a megtérítési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét és a fizetési könnyítés és mentesítési eljárás szabályait, valamint a honvédségi ösztöndíjas hallgató és a honvédségi ösztöndíjas sportoló ösztöndíjszerződéséből eredő megtérítési kötelezettségének szabályait.
 
 #### 61. Hatályba léptető rendelkezések
 
@@ -1903,6 +2015,8 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 114. § (1) A honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény szerint vezetett nyilvántartások adatait 2022. november 1-jétől e törvény rendelkezései szerint kell kezelni.
 
 (2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve által 2019. január 1-je előtt kiadott, a szolgálati viszony igazolására szolgáló ideiglenes szolgálati igazolványokkal kapcsolatos 27. melléklet 1., 2., 5., 6. és 10., pontja szerinti adatokat a Honvédség katonai igazgatási és központi adatfeldolgozó szerve központi nyilvántartása és adatszolgáltatások teljesítése céljából 2024. december 31-ig kezeli.
+
+114/A. § Ahol jogszabály a katonai szolgálati viszony vonatkozásában szabadságot említ, azon a szolgálatmentességet is érteni kell.
 
 #### 63. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -2348,6 +2462,8 @@ A bejelentésre kötelezett személy
 - 1.7. családi állapot,
 - 1.8. adóazonosító jel, Társadalombiztosítási Azonosító Jel,
 - 1.9. a személyazonosító igazolvány száma, érvényességi ideje, útlevél száma, érvényességi ideje,
+- 1.10. állampolgárság,
+- 1.11. nem,
 - 2. az iskolai végzettségre, a szakképzettségre és az egyéb képesítésre vonatkozó adatok:
 - 2.1. valamennyi megszerzett és megszerzés alatt álló iskolai végzettség,
 - 2.2. valamennyi megszerzett és megszerzés alatt álló szakképzettség,
@@ -2384,6 +2500,7 @@ A bejelentésre kötelezett személy
 - 6. az önkéntes tartalékos katona munkáltatójának adatai, a munkakörére vonatkozó adatok, a munkáltató által kijelölt kapcsolattartó adatai,
 - 7. a Honvéd Kadét Programban történő részvételre vonatkozó adat,
 - 8. a Honvédelmi Táborban való részvételre vonatkozó adat.
+- 9. a toborzással érintett személy hangja
 
 ### 14. melléklet a 2022. évi XXI. törvényhez
 
@@ -2639,6 +2756,7 @@ A bejelentésre kötelezett személy
 - 4.2. bankszámlát vezető bank neve, SWIFT kódja,
 - 4.3. bankszámla száma IBAN számmal,
 - 4.4. a járandóság, juttatás, költségtérítés összege,
+- 4.5. megszűnésükre vonatkozó adatok,
 - 5. személyi jövedelemadó kedvezményekkel kapcsolatos adatok:
 - 5.1. befizetett tagdíjak és kiegészítések,
 - 5.2. adókedvezményre jogosító adatok;
@@ -2652,6 +2770,7 @@ A bejelentésre kötelezett személy
 - 8. devizahiteles – gyűjtőszámlahitelre vonatkozó adatok,
 - 9. önkéntes és kölcsönös nyugdíjpénztári adatok – pénztár neve, címe, adószáma, pénzforgalmi-jelzőszáma, tagsági azonosító, tagsági jogviszony kezdete –,
 - 10. a Magyar Egészségügyi Szakdolgozói Kamara részére történő tagdíjátvállalás adatai: a tagság ténye, a hozzájárulás mértéke és összege, a tagság kezdetének és végének dátuma.
+- 11. a honvédelmi szolgálati juttatás és ehhez kapcsolódó további juttatás megállapításával összefüggő adatok.
 
 ### 17. melléklet a 2022. évi XXI. törvényhez
 
@@ -2679,9 +2798,9 @@ Az állomány tagjára vonatkozó adatok:
 - 18. feladatkör/munkakör megnevezése, célja,
 - 19. feladatkörhöz/munkakörhöz tartozó főbb feladatok,
 - 20. a megszűnés módja,
-- 21. a Hjt. 46. § (1) bekezdés r) vagy s) pontja szerinti rendelkezési állományba helyezés időpontja, időtartama,
+- 21. a sajátos katonai tartalékállományba helyezés időpontja, időtartama,
 - 22. a teljesítményértékelés eredménye,
-- 23. a Hjt. 49. § alapján szolgálati feladatra vezénylés időtartama,
+- 23. a Hjkr. alapján szolgálati feladatra vezénylés időtartama,
 - 24. szolgálati viszonyának időtartama,
 - 25. illetménye.
 
@@ -2707,18 +2826,18 @@ Az állomány tagjára vonatkozó adatok:
 - 1.15. korábbi jogviszonyaiban töltött időtartamainak megnevezése,
 - 1.16. korábbi munkahelyeinek megnevezése,
 - 1.17. korábbi jogviszonya megszűnésének módja, időpontja,
-- 1.18. Hjt. szerinti szolgálati viszonyának vagy honvédelmi alkalmazotti jogviszonyának kezdete,
+- 1.18. Hjkr. szerinti szolgálati viszonyának vagy honvédelmi alkalmazotti jogviszonyának kezdete,
 - 1.19. bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának száma, kelte,
 - 1.20. jubileumi jutalmának és a végkielégítésének mértéke kiszámításának alapjául szolgáló időtartamok,
-- 1.21. foglalkoztatójának neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
-- 1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, Foglalkozások Egységes Osztályozási Rendszere száma, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+- 1.21. foglalkoztatójának neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+- 1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, Foglalkozások Egységes Osztályozási Rendszere száma, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
 - 1.23. címadományozása, jutalmazása, kitüntetése adatai,
 - 1.24. teljesítményértékelésének vagy minősítésének időpontja és tartalma,
 - 1.25. személyi juttatásai,
-- 1.26. munkából való távollétének jogcíme és időtartama, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
-- 1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
-- 1.28. – ha honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, – szolgálati viszonya, honvédelmi alkalmazotti jogviszonya megszűnésének időpontja, módja, a végkielégítés adatai, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
-- 1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll.
+- 1.26. munkából való távollétének jogcíme és időtartama, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+- 1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+- 1.28. – ha honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, – szolgálati viszonya, honvédelmi alkalmazotti jogviszonya megszűnésének időpontja, módja, a végkielégítés adatai, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+- 1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll.
 
 ### 19. melléklet a 2022. évi XXI. törvényhez
 
@@ -2850,6 +2969,7 @@ Az állomány tagjára vonatkozó adatok:
 - 11.10. a kegyeleti költségtérítés adatai,
 - 11.11. a segélyezés adatai,
 - 11.12. a járadékfizetés adatai.
+- 12. a honvédelmi szolgálati juttatásra való jogosultság megszűnésére vonatkozó adatok.
 
 ### 22. melléklet a 2022. évi XXI. törvényhez
 

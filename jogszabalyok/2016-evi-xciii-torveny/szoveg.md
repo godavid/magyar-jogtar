@@ -89,7 +89,7 @@ független jogkezelő szervezetekre, és az általuk végzett jogkezelési tevé
 
 (3) Az (1) bekezdés szerinti jogi személlyel szemben a jogosultak által érvényesített igényekért az ilyen jogi személy és a tulajdonos közös jogkezelő szervezet egyetemlegesen felel.
 
-8. § A 11. §-ban foglalt eset kivételével a szerzői mű vagy kapcsolódó jogi teljesítmény tekintetében közös jogkezelést végző szervezeten kívül más személynek vagy szervezetnek történő díjfizetés, vagy más személlyel vagy szervezettel történő megállapodás a közös jogkezelő és az általa képviselt érintett jogosult irányában nem hatályos, és nem mentesít a szerzői jogok és kapcsolódó jogok megsértésének jogkövetkezményei alól.
+8. § A 11. §-ban foglalt eset kivételével a szerzői mű vagy kapcsolódó jogi teljesítmény tekintetében közös jogkezelést végző szervezeten kívül más személynek vagy szervezetnek történő díjfizetés, vagy más személlyel vagy szervezettel történő megállapodás a közös jogkezelő és az általa képviselt érintett jogosult irányában nem hatályos, és nem mentesít a szerzői jogok és kapcsolódó jogok megsértésének jogkövetkezményei alól, feltéve, hogy a közös jogkezelő szervezetnek van olyan hatályos díjszabása, amelynek alkalmazása az adott felhasználás jogszerű megvalósítását lehetővé teszi.
 
 9. § (1) A közös jogkezelő szervezetet a közös jogkezelés körébe tartozó szerzői jog és kapcsolódó jog gyakorlása és bíróság előtti érvényesítése során a szerzői jog vagy kapcsolódó jog jogosultjának kell tekinteni. Nem szükséges más jogosult perben állása ahhoz, hogy a közös jogkezelő szervezet az igényét bíróság előtt érvényesítse.
 
@@ -521,11 +521,13 @@ használhatja fel.
 
 57. § (1) A közös jogkezelő szervezet abban a körben, amelyben közös jogkezelést végez, megállapítja az egyes felhasználási módok tekintetében a jogdíjakat és a felhasználás egyéb feltételeit (a továbbiakban együtt: díjszabás).
 
+(1a) A közös jogkezelő szervezet egy vagyoni jog gyakorlása körében csak indokolt esetben terjeszthet fel felhasználói csoportok szerinti bontásban több díjszabást jóváhagyásra.
+
 (2) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körébe tartozó felhasználási mód tekintetében a díjszabást – e törvény eltérő rendelkezése hiányában – naptári évente kell megállapítani. Az e bekezdés szerinti díjszabás a 153. § szerinti jóváhagyását és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételét követően alkalmazható.
 
 58. § (1) A díjszabást az egyenlő bánásmód követelményével összhangban, az egyes felhasználók indokolatlan megkülönböztetése nélkül kell megállapítani és alkalmazni. A közös jogkezelő szervezet az egyéb online szolgáltatásokra vonatkozó engedélyezési feltételektől eltérő engedélyezési feltételeket állapíthat meg a díjszabásában az olyan új típusú online szolgáltatásra, amely kevesebb, mint három éve áll az EGT-államok fogyasztóinak rendelkezésére.
 
-(2) A díjszabásban foglalt jogdíjak mértékének megállapításakor figyelembe kell venni az érintett felhasználás jellegét és terjedelmét, valamint valamennyi egyéb lényeges körülményét. A díjszabásnak észszerűnek kell lennie, különös tekintettel az érintett felhasználás, valamint a közös jogkezelő szervezet által nyújtott szolgáltatás gazdasági értékére. A díjszabás megállapítása során alkalmazott szempontokról a közös jogkezelő szervezet az érintett felhasználó kérésére tájékoztatást ad.
+(2) A díjszabásban foglalt jogdíjak mértékének és struktúrájának megállapításakor figyelembe kell venni az érintett felhasználás jellegét és terjedelmét, valamint valamennyi egyéb lényeges körülményét. A díjszabásnak észszerűnek és megalapozottnak kell lennie, különös tekintettel az érintett felhasználás, valamint a közös jogkezelő szervezet által nyújtott szolgáltatás gazdasági értékére. A díjszabás megállapítása során alkalmazott szempontokról a közös jogkezelő szervezet az érintett felhasználó kérésére tájékoztatást ad.
 
 (3) A díjszabás megállapítása során és a díjszabás jóváhagyására irányuló eljárásban figyelembe kell venni a díjazásról és a felhasználás egyéb feltételeiről az Szjt. 102. § szerinti egyeztető testület eljárásában a felek között létrejött megállapodást.
 
@@ -1002,6 +1004,8 @@ kell meghozni és gondoskodni a közléséről.
 
 (2) Annak vizsgálata során, hogy a reprezentatív közös jogkezelő szervezet az általa végzett jogkezelési tevékenységben érdekelt jogosultak jelentős részét képviseli-e, a 33. § (2) bekezdése szerinti engedély megadását követő egy év elteltével figyelmen kívül kell hagyni a tagként való csatlakozásra irányuló nyilatkozatokat és a külföldi szervezettel való képviseleti szerződés megkötésére irányuló szándéknyilatkozatokat.
 
+(3) A (2) bekezdés szerinti határidő nem alkalmazható, ha a 33. § (2) bekezdése szerinti engedéllyel érintett szerzői jog vagy kapcsolódó jog tekintetében a reprezentatív közös jogkezelő szervezet által kezdeményezett díjszabás jóváhagyási eljárás van folyamatban.
+
 115. § Az SZTNH a felügyeleti eljárásban szakértői véleményt kérhet vagy szakértőt hallgathat meg.
 
 116. § A felügyeleti eljárásra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
@@ -1260,17 +1264,17 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 
 csatolni.
 
-(3) Ha a jóváhagyási eljárás lefolytatása céljából benyújtott díjszabás már hatályban lévő díjszabás újabb időszakra történő megállapítására irányul, a (2) bekezdés szerinti mellékleteket csak akkor köteles a reprezentatív közös jogkezelő szervezet csatolni, ha
+(3) Ha a jóváhagyási eljárás lefolytatása céljából benyújtott díjszabás már hatályban lévő díjszabás újabb időszakra történő megállapítására irányul, a (2) bekezdés a) pontja szerinti hatásvizsgálatot csak akkor köteles a reprezentatív közös jogkezelő szervezet csatolni, ha
 
 - a) a hatályban lévő díjszabáshoz képest jelentősen eltérő díjfizetési struktúrát megállapító,
-- b) a díjszabásban foglalt jogdíjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű jogdíjemelést tartalmazó, illetve
+- b) a díjszabásban foglalt jogdíjak, illetve egyéb díjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű emelést tartalmazó, illetve
 - c) ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővítő
 
 díjszabást nyújt be.
 
 (4) A reprezentatív közös jogkezelő szervezet nem köteles a (2) bekezdés a) pontja szerinti hatásvizsgálatot csatolni a díjszabáshoz, ha a jóváhagyásra benyújtott díjszabás tartalmára és alkalmazására kiterjedően minden érintett, a 151. § (3)–(4) bekezdése, illetve a 151. § (7) bekezdése szerinti
 
-- a) jelentős felhasználóval és felhasználói érdek-képviseleti szervezetettel kötött megállapodást, vagy
+- a) jelentős felhasználóval és felhasználói érdek-képviseleti szervezettel kötött megállapodást, vagy
 - b) jelentős felhasználó és felhasználói érdek-képviseleti szervezetet részéről a díjszabást támogató nyilatkozatot
 
 csatol.
@@ -1282,17 +1286,19 @@ csatol.
 
 véleményét.
 
-(6) A 151. § (3)–(4) bekezdése, illetve a 151. § (7) bekezdése szerinti jelentős felhasználó és felhasználói érdek-képviseleti szervezet, amennyiben az (5) bekezdés b) pontja szerint véleményt kíván nyilvánítani, véleményét legkésőbb a vélemény kérésétől számított 20. napig köteles megküldeni a reprezentatív közös jogkezelő szervezet részére.
+(6) A 151. § (3)–(4) bekezdése, illetve a 151. § (7) bekezdése szerinti jelentős felhasználó és felhasználói érdek-képviseleti szervezet, amennyiben az (5) bekezdés b) pontja szerint véleményt kíván nyilvánítani, véleményét legkésőbb a vélemény kérésétől számított 20. napig köteles megküldeni a reprezentatív közös jogkezelő szervezet és az SZTNH részére.
 
 (7) Az SZTNH a (5) bekezdés a) pontja szerinti, indokolással ellátott véleményét legkésőbb a véleménykérésétől számított 30. napig köteles megküldeni a reprezentatív közös jogkezelő szervezet részére.
 
 (8) Az SZTNH elnöke a jóváhagyási eljárás 150. § szerinti véleményezési szakaszába véleményezőként nem vonja be azt a 151. § (3)–(4) bekezdése, illetve a 151. § (7) bekezdése szerinti jelentős felhasználót és felhasználói érdek-képviseleti szervezetet, amely a (2) bekezdés a) pontja szerinti hatásvizsgálat előkészítésében a közös jogkezelő szervezet megkeresése ellenére nem vett részt vagy a hatásvizsgálat elkészítéséhez szükséges adatszolgáltatást jogalap hiányában, részben vagy egészben megtagadta.
 
-(9) A (2) bekezdés a) pontja szerinti hatásvizsgálattal kapcsolatban a reprezentatív közös jogkezelő szervezet, az SZTNH és az igazságügyért felelős miniszter a tudomására jutott felhasználói adatokat kizárólag a jóváhagyási eljárásban használhatja fel, nyilvánosságra nem hozhatja, harmadik félnek át nem adhatja.
+(9) A (2) bekezdés a) pontja szerinti hatásvizsgálattal kapcsolatban a reprezentatív közös jogkezelő szervezet – ideértve az általa a (2) bekezdés a) pontja szerinti hatásvizsgálat elkészítéséhez esetlegesen igénybe vett személyt is –, az SZTNH és az igazságügyért felelős miniszter a tudomására jutott felhasználói adatokat kizárólag a jóváhagyási eljárással összefüggésben használhatja fel, nyilvánosságra nem hozhatja, harmadik félnek át nem adhatja.
 
 (10) A rádió- és a televízió-szervezetek műsorában sugárzott, a saját műsort vezeték útján a nyilvánossághoz közvetítők műsorába belefoglalt, valamint a kép- vagy hanghordozón forgalomba hozott művek szerzőit, előadóművészi teljesítmények előadóművészeit, továbbá filmek és hangfelvételek előállítóit műveik, előadóművészi teljesítményeik, illetve filmjeik és hangfelvételeik magáncélú másolására tekintettel megillető megfelelő díjazás megállapításához a hatásvizsgálat helyett a magáncélú többszörözés mértékét reprezentatív módon megjelenítő felmérést is csatolni kell. A felmérés módszerének meghatározásához ki kell kérni a jelentős felhasználók és felhasználói érdekképviseleti szervezetek véleményét. A felmérés eredményét a díjszabás jóváhagyására irányuló eljárásban részt vevők számára hozzáférhetővé kell tenni.
 
-149. § A díjszabás jóváhagyására irányuló eljárásban a kultúráért felelős miniszter, a kereskedelemért, a turizmusért és a vendéglátásért felelős miniszter, az igazságügyért felelős miniszter, az SZTNH és az eljárás többi résztvevője elektronikus úton kötelesek kapcsolatot tartani egymással. Az SZTNH a reprezentatív közös jogkezelő szervezetekkel, valamint a felhasználókkal és a felhasználói érdek-képviseleti szervezetekkel elektronikus úton tart kapcsolatot.
+149. § (1) A díjszabás jóváhagyására irányuló eljárásban a kultúráért felelős miniszter, a kereskedelemért felelős miniszter, a turizmusért felelős miniszter és a vendéglátásért felelős miniszter, az igazságügyért felelős miniszter, az SZTNH és az eljárás többi résztvevője elektronikus úton kötelesek kapcsolatot tartani egymással. Az SZTNH a reprezentatív közös jogkezelő szervezetekkel, valamint a felhasználókkal és a felhasználói érdek-képviseleti szervezetekkel elektronikus úton tart kapcsolatot.
+
+(2) A 148. § (2) bekezdés a) pontja szerinti hatásvizsgálat elkészítéséhez kötődő egyeztetések során az SZTNH, a reprezentatív közös jogkezelő szervezetek valamint a felhasználók és a felhasználói érdek-képviseleti szervezetek elektronikus úton tartanak kapcsolatot egymással.
 
 #### 82. A díjszabás véleményezése
 
@@ -1302,7 +1308,7 @@ véleményét.
 
 (3) Az SZTNH a díjszabásnak az igazságügyért felelős miniszternek való felterjesztésével egyidejűleg tájékoztatja a reprezentatív közös jogkezelő szervezetet a felterjesztés tényéről és a 146. § (3) bekezdése szerinti módosítási és visszavonási jog gyakorlásának határidejéről.
 
-151. § (1) Az SZTNH a díjszabás jóváhagyására irányuló eljárás véleményezési szakaszában bármely felhasználótól és felhasználói érdek-képviseleti szervezettől véleményt kérhet.
+151. § (1) Az SZTNH a díjszabás jóváhagyására irányuló eljárás véleményezési szakaszában bármely felhasználótól és felhasználói érdek-képviseleti szervezettől – saját vagy a felhasználó, illetve a felhasználói érdek-képviseleti szervezet kezdeményezésére – véleményt kérhet.
 
 (2) Az SZTNH attól a jelentős felhasználótól és felhasználói érdek-képviseleti szervezettől köteles véleményt kérni, aki vagy amely véleményezési szándékát az SZTNH-nak az adott évben az SZTNH honlapján a díjszabás benyújtását követően haladéktalanul e célból közzétett felhívása alapján, a felhívás közzétételétől számított tizenöt napon belül írásban bejelenti, és egyidejűleg benyújtja a (3) vagy a (4) bekezdés szerinti nyilatkozatot, valamint – felhasználói érdek-képviseleti szerv esetén – hatályos létesítő okiratát.
 
@@ -1314,14 +1320,16 @@ véleményét.
 
 (6) Ha az SZTNH több reprezentatív közös jogkezelő szervezet részére adott engedélyt, a később engedélyt szerző reprezentatív közös jogkezelő szervezet díjszabásának első alkalommal történő jóváhagyására irányuló eljárásban jelentős felhasználónak és felhasználói érdek-képviseleti szervezetnek a korábban engedélyt szerzett reprezentatív közös jogkezelő szervezet által az előző évben alkalmazott díjszabás tekintetében jelentősnek minősített felhasználókat és felhasználói érdek-képviseleti szervezeteket kell tekinteni. Az újabb jogkezelő szervezet díjszabásának első alkalommal történő jóváhagyásával kapcsolatos eljárásban nem kell csatolni a (3) vagy (4) bekezdés szerinti nyilatkozatot.
 
-(7) Ha a bejelentés évét megelőző naptári évben nem volt olyan díjszabás, amely alapján a felhasználók a jóváhagyási eljárás céljából benyújtott díjszabás szerinti jogdíjat fizettek volna, jelentős felhasználónak és felhasználói érdekképviseleti szervezetnek kell tekinteni azt a személyt vagy szervezetet is, aki vagy amely valószínűsíti, hogy a benyújtott új díjszabás tekintetében a (3), illetve (4) bekezdésben foglalt feltételeket az új díjszabás alkalmazási időszaka alatt teljesítené.
+(7) Ha a bejelentés évét megelőző naptári évben nem volt olyan díjszabás, amely alapján a felhasználók a jóváhagyási eljárás céljából benyújtott díjszabás szerinti jogdíjat fizettek volna, jelentős felhasználónak és felhasználói érdekképviseleti szervezetnek kell tekinteni azt a személyt vagy szervezetet is, akiről vagy amelyről valószínűsíthető, hogy a benyújtott új díjszabás tekintetében a (3), illetve (4) bekezdésben foglalt feltételeket az új díjszabás alkalmazási időszaka alatt teljesítené.
+
+(7a) Ha a közös jogkezelő szervezet egy korábban már jóváhagyott díjszabását egy vagyoni jog gyakorlása körében az 57. § (1a) bekezdése alapján felhasználói csoportok szerint megbontja, akkor a megbontott díjszabások tekintetében minden olyan, a (3) bekezdés szerinti jelentős felhasználó illetve a (4) bekezdés szerinti felhasználói érdek-képviseleti szervezet jogosult véleményezésre, aki vagy amely a korábban egységes szerkezetben jóváhagyott díjszabást véleményezte.
 
 (8) Az SZTNH a 150. § (1) bekezdése, illetve az (1) és (2) bekezdés szerinti véleménykéréssel egyidejűleg megküldi a véleményező részére
 
 - a) a díjszabás tervezetét,
 - b) a díjszabás indokolását,
 - c) a 148. § (2) bekezdés a) pontja szerinti hatásvizsgálatot, illetve
-- d) a 148. § (9) bekezdése szerinti felmérést.
+- d) a 148. § (10) bekezdése szerinti felmérést.
 
 (9) Az SZTNH elnöke a véleményezési szakaszt legfeljebb három hónapra felfüggeszti
 
@@ -1340,11 +1348,11 @@ együttes kérelmére.
 - a) hat hónapnál nem lehet kevesebb, és
 - b) a díjszabás kezdő napja naptári évének utolsó napjáig tart.
 
-(12) A véleményezési eljárásra nyitva álló határidőbe nem számít bele a felfüggesztés időtartama.
+(12) A véleményezési szakaszra nyitva álló határidőbe nem számít bele a felfüggesztés időtartama.
 
 #### 83. A díjszabás jóváhagyására vonatkozó döntés meghozatala
 
-152. § (1) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabást az igazságügyért felelős miniszter hagyja jóvá az SZTNH javaslatára a 150. § szerinti véleményezési szakaszt követően. A jóváhagyás a díjszabás alkalmazásának és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételének feltétele.
+152. § (1) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabást az igazságügyért felelős miniszter hagyja jóvá az SZTNH elnökének javaslatára a 150. § szerinti véleményezési szakaszt követően. A jóváhagyás a díjszabás alkalmazásának és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételének feltétele.
 
 (2) A díjszabás (1) bekezdés szerinti jóváhagyása nem zárja ki és nem érinti az egyéb jogszabályok érvényesülését a díjszabás tekintetében.
 
@@ -1352,9 +1360,12 @@ együttes kérelmére.
 
 (1a) A szerzői jogi jogszabályokkal való összhang vizsgálata során az igazságügyért felelős miniszter a szerzői jogi jogszabályok és a jóváhagyási eljáráshoz kapcsolódóan rendelkezésére álló iratok alapján dönt, külön bizonyítást nem végez.
 
-(2) A miniszter csak a Kormány – általa kezdeményezett – döntése alapján hagy jóvá olyan díjszabást, amely a díjszabásban foglalt jogdíjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű jogdíjemelést tartalmaz, vagy ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővíti.
+(2) Az igazságügyért felelős miniszter csak a Kormány – általa kezdeményezett – döntése alapján hagy jóvá olyan díjszabást, amely
 
-(2a) A (2) bekezdés alkalmazása esetén az igazságügyért felelős miniszter rendelkezésére álló ügyintézési határidő 30 nappal meghosszabbodik.
+- a) a jogdíjak, illetve egyéb díjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű emelést tartalmaz, illetve
+- b) ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővíti.
+
+(2a) A (2) bekezdés alkalmazása esetén az igazságügyért felelős miniszter rendelkezésére álló ügyintézési határidő 30 nappal meghosszabbodik. A (2) bekezdés szerinti kormánydöntés kérése nem szükséges, ha az igazságügyért felelős miniszter álláspontja szerint a díjszabás nem áll összhangban a szerzői jogi jogszabályokkal.
 
 (3) Ha a benyújtott díjszabás olyan díjtétel emelését tartalmazza, amely a benyújtáskor hatályos díjszabásban foglaltakhoz képest korábban magasabb volt, akkor a (2) bekezdés alkalmazása során az emelés mértékének meghatározásakor a korábban irányadó legmagasabb díjtételt kell alapul venni, feltéve, hogy az azt megállapító díjszabás alkalmazási időszakának lejárta óta három év még nem telt el.
 
@@ -1388,6 +1399,8 @@ együttes kérelmére.
 - c) a kultúráért felelős miniszterrel és – a nyilvános előadásra vonatkozó díjszabást illetően – a kereskedelemért, a turizmusért és a vendéglátásért felelős miniszterrel, valamint
 - d) azokkal a jelentős felhasználókkal és felhasználói érdek-képviseleti szervezetekkel, amelyek a 151. §-a alapján a díjszabással összefüggésben véleményt nyújtottak be.
 
+(7a) A határozat közlése a (7) bekezdés a) pontja szerinti címzett tekintetében a határozat, a (7) bekezdés b)–d) pontja szerinti címzett tekintetében a határozat kiadmányának kézbesítésével történik. A kiadmányon fel kell tüntetni a kiadmányozó megnevezését, az ügyszámot, az igazságügyért felelős miniszter nevét, az „s. k.,” toldattal, az eredeti keltezést, továbbá azt el kell látni az igazságügyért felelős miniszter körbélyegzőjének lenyomatával.
+
 (8) Az igazságügyért felelős miniszter határozata ellen fellebbezésnek helye nincs, az a közléssel emelkedik jogerőre.
 
 (9) Ha a reprezentatív közös jogkezelő szervezet díjszabásának jóváhagyása tárgyában az igazságügyért felelős miniszter által meghozott határozatban név-, szám- vagy más elírás, illetve számítási hiba van, a miniszter a hibát – szükség esetén a díjszabást benyújtó reprezentatív közös jogkezelő szervezet meghallgatása után – kijavítja, ha az nem hat ki az ügy érdemére, az eljárási költség mértékére vagy a költségviselési kötelezettségre. A kijavítást az igazságügyért felelős miniszter
@@ -1416,7 +1429,9 @@ teljesíti.
 
 (14) A határozat kiegészítését közölni kell azzal, akivel a kiegészítendő határozatot közölték. A határozat kiegészítése ellen ugyanolyan jogorvoslatnak van helye, mint az eredeti határozat ellen volt.
 
-154. § (1) Az igazságügyért felelős miniszter jóváhagyásról szóló határozatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett reprezentatív közös jogkezelő szervezet a Fővárosi Törvényszék előtt közigazgatási perben megtámadhatja.
+154. § (1) Az igazságügyért felelős miniszter jóváhagyásról szóló határozatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett reprezentatív közös jogkezelő szervezet a Fővárosi Törvényszék előtt közigazgatási perben megtámadhatja. A 151. § (7a) bekezdése alapján véleményezésre jogosult jelentős felhasználó és felhasználói érdek-képviseleti szervezet akkor jogosult a díjszabás megtámadására, ha a díjszabás rá nézve kötelezettséget állapít meg.
+
+(1a) Az (1) bekezdés szerinti közigazgatási peres eljárás során a jogi képviselet kötelező.
 
 (2) Az (1) bekezdés szerinti eljárásban azonnali jogvédelem biztosításának helye nincs.
 
@@ -1489,6 +1504,10 @@ teljesíti.
 
 - a) a 146. § (1) bekezdésétől eltérően a díjszabást 2023. november 1. napjáig küldi meg az SZTNH-nak a díjszabás-jóváhagyási eljárás lefolytatása céljából, és
 - b) a 146. § (2) bekezdésétől eltérően a benyújtott díjszabás tervezett alkalmazásának kezdő időpontjaként 2024. március 1. napját kell megadni.
+
+159/C. § (1) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 57. § (1a) bekezdése nem alkalmazható olyan jóváhagyásra benyújtott díjszabás tekintetében, amelyet az igazságügyért felelős miniszter 2024. július 1. napja előtt jóváhagyott.
+
+(2) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 58. § (2) bekezdése nyomán a reprezentatív közös jogkezelő szervezet a 153. § (4) bekezdésére nem hivatkozhat.
 
 #### 85. Korábban adott jogkezelési megbízások alapján fennálló tájékoztatási kötelezettség teljesítése
 

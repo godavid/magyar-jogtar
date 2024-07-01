@@ -769,7 +769,7 @@ esetében.
 
 ### IV. Fejezet — A nemzeti könyvtár
 
-61. § (1) A nemzeti könyvtár az Országos Széchényi Könyvtár. A fenntartói jogokat és kötelezettségeket a miniszter gyakorolja.
+61. § (1) A nemzeti könyvtár – a Magyar Nemzeti Múzeum Közgyűjteményi Központ tagintézményeként működő – Országos Széchényi Könyvtár (a továbbiakban: OSZK). A fenntartói jogokat és kötelezettségeket a miniszter gyakorolja.
 
 (2) A nemzeti könyvtár központi költségvetési szerv.
 
@@ -797,11 +797,11 @@ esetében.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.
 
-62. § A miniszter könyvszakmai tanácsadó testületeként működik az Országos Könyvtári Kuratórium.
+#### 62. §
 
 ### V. Fejezet — Tudományos és szakkönyvtári ellátás
 
-63. § (1) A tudományos és szakkönyvtári ellátás az Országos Széchényi Könyvtár, a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára, az országos szakkönyvtárak (3. számú melléklet), az állami egyetemek könyvtárai, valamint a nyilvános könyvtári ellátást vállaló egyéb szak- és felsőoktatási könyvtárak feladata.
+63. § (1) A tudományos és szakkönyvtári ellátás az OSZK, a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára, az országos szakkönyvtárak (3. számú melléklet), az állami egyetemek könyvtárai, valamint a nyilvános könyvtári ellátást vállaló egyéb szak- és felsőoktatási könyvtárak feladata.
 
 (2) Nemzeti gyűjtőkörű könyvtár a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára.
 
@@ -1260,6 +1260,8 @@ hatásköre
 
 (2) A vármegyei hatókörű városi múzeumok és a vármegyei hatókörű városi könyvtárak által végzett, e törvényben meghatározott állami feladatok támogatásának összegét a központi költségvetésről szóló törvény határozza meg.
 
+(3) Vármegyei hatókörű városi múzeum, vármegyei hatókörű városi könyvtár, valamint közművelődési szakmai szolgáltató szervezet állami feladatainak ellátása során kiemelt figyelmet fordít a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény hatálya alá tartozó gyermekotthonban élő gyermekek kulturális alapellátásának előmozdítására. E feladat vármegyei és országos koordinációjában a Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény hatálya alá tartozó kultúrstratégiai intézmények működnek közre.
+
 91/B. § A kulturális alapellátás kiterjesztésének az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott prioritási rend és szempontrendszer mentén történő megvalósítása tárgyévi támogatási összegét a központi költségvetési törvény határozza meg.
 
 92. § (1) A közművelődési és közgyűjteményi szakterületek feladatellátásához az állami, önkormányzati felelősségvállalás közérdekű jellegéből fakadóan e törvény és az Ltv. által előírt kötelezettségek teljesítéséhez a központi költségvetés hozzájárul.
@@ -1315,7 +1317,7 @@ a közművelődési intézményekben és a levéltárakban alkalmazottak foglalk
 
 (2) Azt a tényt, hogy a foglalkoztatott vagy foglalkoztatni kívánt személy az (1) bekezdés b) pontjában meghatározott feltételnek megfelel, a tevékenység megkezdését megelőzően, illetve a tevékenységének gyakorlása alatt hatósági bizonyítvánnyal igazolja.
 
-(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója pályázatot ír ki. A pályázat kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
+(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázatot ír ki. A pályázat kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
 
 (3a) A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) vezetőjét a miniszter nevezi ki, illetve menti fel.
 
@@ -1438,6 +1440,30 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 (2) A kulturális javak visszaadására irányuló, a Módtv. 2. hatálybalépésekor folyamatban lévő eljárásokban – az Ákr. 143. § (1) bekezdésétől eltérően – az Ákr. rendelkezései szerint kell eljárni, függetlenül attól, hogy mikor indult az eljárás.
 
+99/D. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3) bekezdésében foglaltak szerint
+
+- a) a Magyar Természettudományi Múzeum,
+- b) az Iparművészeti Múzeum,
+- c) a Magyar Kereskedelmi és Vendéglátóipari Múzeum,
+- d) a Petőfi Irodalmi Múzeum, valamint
+- e) az OSZK
+
+az MNM KK-ba beolvad. Az MNM KK az a)–e) pontokban felsorolt intézmények jogutódja azzal, hogy az intézmények az MNM KK tagintézményeként, e minőségük feltüntetésével, nevüket megőrizve működnek tovább.
+
+(2) Az (1) bekezdés szerint beolvadó intézmények, azok tagintézményei, valamint az MNM KK tagintézményei vezetőinek határozott idejű jogviszonya 2024. július 1-jével határozatlan idejű munkaviszonnyá alakul azzal, hogy
+
+- a) a munkáltatói jogkör gyakorlója az MNM KK vezetője, és
+- b) a munkabér összege megegyezik a határozott idejű vezetői kinevezésben meghatározott munkabérrel.
+
+(3) Az (1) bekezdés szerinti beolvadó, tagintézményként tovább működő intézmények vezetőit az MNM KK elnöke a miniszter jóváhagyásával nevezi ki és menti fel.
+
+(4) Az (1) bekezdés szerinti beolvadó intézmények tagintézményeinek vezetőit, valamint az MNM KK tagintézményeinek vezetőit az MNM KK vezetője nevezi ki és menti fel.
+
+(5) A Magyar Nemzeti Múzeum Közgyűjteményi Központ vezetőjének határozott idejű jogviszonya 2024. július 1-jével határozatlan idejű munkaviszonnyá alakul azzal, hogy
+
+- a) a munkáltatói jogkör gyakorlója a miniszter, és
+- b) a munkabér összege megegyezik a határozott idejű vezetői kinevezésben meghatározott munkabérrel.
+
 ### Felhatalmazások
 
 100. § (1) Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza
@@ -1449,7 +1475,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - e) a nyilvános könyvtárak jegyzéke vezetésének szabályait,
 - f) az országos dokumentumellátási rendszer működését,
 - g) a nyilvános könyvtári ellátás rendszerének központi szolgáltatásait és a könyvtáraknak nyújtott szakmai szolgáltatásokat,
-- h) az Országos Könyvtári Kuratórium jogállását, összetételét és működését,
+- h)
 - i) a közgyűjtemények finanszírozását és központi támogatását,
 - j) a bérpótlék mértékét és az arra jogosultak körét,
 - k) a kiadványok kötelespéldányainak szolgáltatására kötelezettek körét, a kötelespéldány-szolgáltatással összefüggő jelentés szabályait, az e törvényben előírt kötelespéldány-szám szolgáltatása alóli kivételeket, a kötelespéldány-szolgáltatás módját és határidejét, a kötelespéldányra jogosult szervezetek körét, a kötelespéldányok szétosztásának módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítése esetén követendő eljárást,
@@ -1599,7 +1625,7 @@ w) Néphagyomány: népi kultúránk és hagyományaink, szellemi és tárgyi ö
 
 x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott szolgáltatások és az e szolgáltatások nyújtását elősegítő központi szolgáltatások összessége, amelyek biztosítják az információhoz való szabad hozzáférést.
 
-y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény.
+y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény, valamint a 61. § (1) bekezdése szerinti nemzeti könyvtár.
 
 z) Kiadvány: a médiaszolgáltatásokról és a tömegkommunikációról szóló törvényben meghatározott kiadvány, továbbá a dia, a diafilm, a földgömb és az éggömb.
 
@@ -1633,6 +1659,6 @@ j) Magyar Nemzeti Filmarchívum Könyvtára,
 
 k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár,
 
-l) az Országos Széchényi Könyvtár Könyvtári Intézet Könyvtártudományi Szakkönyvtára.
+l) az OSZK Könyvtári Intézet Könyvtártudományi Szakkönyvtára.
 
 m) Színház- és Filmművészeti Egyetem Könyvtár, Kottatár és Médiatár

@@ -580,6 +580,11 @@ szabadságvesztés végrehajthatósága.
 
 (2) Kegyelmi rendelkezés kizárólag még végre nem hajtott büntetésre vagy intézkedésre vonatkozhat. A kegyelem gyakorlása szempontjából a kiutasítás mindaddig nem tekinthető végrehajtottnak, amíg annak tartama el nem telt.
 
+(2a) A köztársasági elnök az egyéni kegyelmezési jogát nem gyakorolhatja azzal az elítélttel szemben, akit
+
+- a) tizennyolcadik életévét betöltött személy által tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, vagy
+- b) az a) pontban meghatározott bűncselekménnyel vagy az a) pontban meghatározott bűncselekmény miatt indult büntetőeljárással összefüggő, tizennyolcadik életévét betöltött személy által elkövetett más szándékos bűncselekmény miatt ítéltek el.
+
 (3) Ha a kegyelmi jogkör gyakorlója ettől eltérően nem dönt, a kegyelem gyakorlása esetén azok a büntetőjogi jogkövetkezmények, amelyeket a Büntető Törvénykönyvről szóló törvény a korábbi elítéléshez fűz, az ügydöntő határozatban kiszabott büntetéshez, illetve alkalmazott intézkedéshez igazodnak.
 
 (4) Ha a köztársasági elnök a büntetés végrehajtását kegyelemből próbaidőre felfüggeszti, a próbaidő és a mentesítés hatályának beálltához szükséges időtartam a kegyelmi elhatározás keltének napján kezdődik.
@@ -882,11 +887,11 @@ a bíróság a kiutasítás végrehajtása érdekében elrendeli az elítéltnek
 
 (3) Az igazságügyért felelős miniszter a kegyelmi kérelmet, illetve a kegyelmi kezdeményezést a köztársasági elnökhöz akkor is felterjeszti, ha a kegyelem gyakorlása iránt nem tesz előterjesztést.
 
-(4) A köztársasági elnök a kegyelmi döntésről szóló határozatot – az ellenjegyzési jog gyakorlása érdekében – az igazságügyért felelős miniszternek küldi meg. Ha a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter nem ellenjegyzi, e döntését a határozat eredeti példányára rávezeti. Ellenjegyzés hiányában a kegyelmi eljárás befejeződik. Az igazságügyért felelős miniszter az ellenjegyzési jog gyakorlásáról tájékoztatja a köztársasági elnököt.
+(4) A köztársasági elnök a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszternek küldi meg.
 
-(5) Ha a kegyelmi eljárás a (4) bekezdésben meghatározotton kívül más okból fejeződik be, ennek tényét az a személy, aki előtt a kegyelmi eljárás folyamatban van, illetve az iratok felterjesztését megelőzően az elsőfokú bíróság állapítja meg.
+(5) Ha a kegyelmi eljárás a köztársasági elnök döntése nélkül más okból fejeződik be, ennek tényét az a személy, aki előtt a kegyelmi eljárás folyamatban van, illetve az iratok felterjesztését megelőzően az elsőfokú bíróság állapítja meg.
 
-(6) Az igazságügyért felelős miniszter a kegyelmi döntésről szóló ellenjegyzett határozatot, illetve a kegyelmi eljárásnak az (4) és (5) bekezdésben meghatározott okból történő befejezéséről szóló tájékoztatást és a kegyelmi eljárás iratait megküldi annak az elsőfokú bíróságnak, amely az ügyiratokat felterjesztette.
+(6) Az igazságügyért felelős miniszter a kegyelmi döntésről szóló határozatot, illetve a kegyelmi eljárásnak az (5) bekezdésben meghatározott okból történő befejezéséről szóló tájékoztatást és a kegyelmi eljárás iratait megküldi annak az elsőfokú bíróságnak, amely az ügyiratokat felterjesztette.
 
 (7) Ha a kegyelmi döntésről szóló határozat az elítélttel szemben olyan büntetést vagy intézkedést állapít meg, amelyről a jogerős ügydöntő határozat nem rendelkezett, vagy a kiszabott büntetés végrehajtását felfüggeszti, és a Btk. vonatkozó rendelkezése alapján ehhez kötelezően pártfogó felügyelet kapcsolódik, akkor az elsőfokon eljárt bíróság nem ügydöntő határozattal ezt megállapítja. A határozattal szemben jogorvoslatnak helye nincs, a határozat a meghozatala napján válik véglegessé.
 
@@ -973,7 +978,7 @@ alaposan feltehető-e, hogy a büntetés célja további szabadságelvonás nél
 
 (3) Az igazságügyért felelős miniszter a felterjesztést az elítéltet fogva tartó bv. intézet útján megküldi az elítéltnek is.
 
-(4) A kegyelmi döntésről szóló határozattal kapcsolatosan az ellenjegyzési jog gyakorlására és a kegyelmi döntésről szóló határozat, illetve a kegyelmi eljárás befejezéséről szóló tájékoztatás kézbesítésére a 46. § (4)–(11) bekezdését megfelelően alkalmazni kell.
+(4) A kegyelmi döntésről szóló határozat, illetve a kegyelmi eljárás befejezéséről szóló tájékoztatás kézbesítésére a 46. § (4)–(11) bekezdését megfelelően alkalmazni kell.
 
 46/H. § Ha a kötelező kegyelmi eljárás anélkül zárult le, hogy az elítélt kegyelemben részesült volna, és az elítélt továbbra is életfogytig tartó szabadságvesztését tölti, a kötelező kegyelmi eljárás lezárultát követően két év elteltével a kötelező kegyelmi eljárást ismételten le kell folytatni.
 
@@ -3624,7 +3629,7 @@ kezdi meg.
 
 187/A. § (1) Ha a büntetés céljának megvalósulása ilyen módon is biztosítható, a feltételes szabadságra bocsátás esedékessége, illetve ennek kizárása vagy kizártsága esetén a szabadulás várható időpontja előtt reintegrációs őrizetbe helyezhető az az elítélt, aki azt vállalja és gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre, vagy ha szándékos bűncselekmény elkövetése miatt ítélték szabadságvesztésre, akkor
 
-- a) nem a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos bűncselekmény miatt ítélték el,
+- a) nem a Btk. 459. § (1) bekezdés 26. pontjában meghatározott személy elleni erőszakos vagy a Btk. XIX. Fejezetébe tartozó, tizennyolcadik életévét be nem töltött személy sérelmére elkövetett bűncselekmény miatt ítélték el,
 - b) első ízben ítélték végrehajtandó szabadságvesztésre vagy visszaesőnek nem minősülő bűnismétlő, és
 - c) öt évet meg nem haladó tartamú szabadságvesztést tölt.
 
@@ -3718,17 +3723,38 @@ vizsgálja.
 
 (2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt két hónappal tesz előterjesztést a büntetés-végrehajtási bírónak, és ha a feltételes szabadság tartama a két évet eléri, csatolja az elítélt által megjelölt letelepedés helye szerint illetékes büntetés-végrehajtási pártfogó felügyelő által készített környezettanulmányt.
 
-(2a) Ha a feltételes szabadságra bocsátásról való rendelkezésnek a Btk. 38. § (6) bekezdése alapján van helye, az előterjesztéshez csatolni kell
+(2a) Ha a feltételes szabadságra bocsátásnak a Btk. 38. § (5) bekezdésében meghatározott bűncselekmény vonatkozásában van helye, az előterjesztéshez csatolni kell
 
 - a) az elítélt számára meghatározott egyéniesített fogvatartási programtervet és az egyéni gondozási tervről szóló összefoglaló jelentést,
 - b) az elítélt mentális állapotára vonatkozó szakorvosi és pszichológusi véleményt, amennyiben a bíróság az elkövető korlátozott beszámítási képességét állapította meg az ügydöntő határozatban,
-- c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt.
+- c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt,
+- d) a Btk. XIX. Fejezetében meghatározott, tizennyolcadik életévet be nem töltött sértett sérelmére elkövetett bűncselekmény miatti elítélés esetén az elítélt hasonló jellegű bűncselekmény elkövetésére vonatkozó – az előterjesztést megelőző két hónapon belül készült – visszaesési kockázat felmérésének az eredményét.
 
 (2b) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 
 (3) A büntetés-végrehajtási bíró a határozott ideig tartó szabadságvesztésből feltételes szabadságra bocsátott elítélt pártfogó felügyeletét (Btk. 69. §) rendelheti el, és az elítélt számára a Btk. 71. § (2)–(3) bekezdése alapján külön magatartási szabályokat írhat elő.
 
 (4) A büntetés-végrehajtási bíró az életfogytig tartó szabadságvesztésből feltételes szabadságra bocsátott elítélt számára a Btk. 71. § (2)–(3) bekezdése alapján külön magatartási szabályokat írhat elő.
+
+188/A. § (1) Ha az elítéltet a Btk. 459. § (1) bekezdés 26. pontjában megjelölt személy elleni erőszakos bűncselekmény miatt ítélték el, és a sértett kérte a 13. § szerinti értesítését, a 13. § (3) bekezdésében foglaltak alkalmazásával a BVOP – a sértett által megjelölt elérhetőségen – a 188. § (2) bekezdésében meghatározott időpont előtt egy hónappal tájékoztatja a sértettet, hogy az elítélt feltételes szabadságra bocsátásával kapcsolatban a tájékoztatás kézhezvételétől számított nyolc napon belül nyilatkozatot tehet, amelyben előadhatja az elítélt feltételes szabadságra bocsátásával kapcsolatos álláspontját, így különösen az általa az elítélést követően tapasztaltakat. A sértett nyilatkozatát a BVOP a büntetés-végrehajtási bíró részére továbbítja.
+
+(2) A sértett az (1) bekezdés szerinti nyilatkozatában kérheti az elítéltnek a személyétől, valamint reá tekintettel hozzátartozójától vagy más személytől történő távoltartásának elrendelését.
+
+(3) A 188. § (2) bekezdése szerinti soron kívüli előterjesztés esetén a BVOP a sértettet arról tájékoztatja, hogy a tájékoztatás kézhezvételétől számított öt napon belül az elítéltnek a személyétől, valamint reá tekintettel hozzátartozójától vagy más személytől történő távoltartásának elrendelését kérheti. Ez esetben a BVOP a 17/A. § (3a) bekezdése alkalmazásával a tájékoztatást a sértett elektronikus levelezési címére vagy más elektronikus elérhetőségére – ideértve a hangkapcsolatot biztosító elektronikus eszközre küldött szöveges üzenetet is – kézbesíti.
+
+(4) A sértett az (1) bekezdés szerinti nyilatkozatot írásban teheti meg vagy kérheti, hogy nyilatkozatát a büntetés-végrehajtási bíró előtt szóban tehesse meg. A sértett indítványozhatja, hogy meghallgatására telekommunikációs eszköz alkalmazása útján kerüljön sor. A sértett nyilatkozhat arról, hogy személyes meghallgatásához nem járul hozzá.
+
+(5) Ha sértett kezdeményezte, hogy nyilatkozatát a büntetés-végrehajtási bíró előtt tehesse meg, a büntetés-végrehajtási bíró a sértettet a bíróság épületében meghallgatja, és a sértett nyilatkozatát jegyzőkönyvbe foglalja.
+
+(6) A sértett nyilatkozatának tartalmát az elítélttel a meghallgatásán ismertetni kell.
+
+(7) A büntetés-végrehajtási bíró a feltételes szabadságra bocsátással kapcsolatos döntés során a 188. § (1) bekezdés b) pontjában meghatározott feltétel szempontjából a rendelkezésére álló sértetti nyilatkozatot vizsgálja és figyelembe veszi.
+
+(8) Ha a sértett az elítélt távoltartásának elrendelését indítványozta, a büntetés-végrehajtási bíró a 188. § (3)–(4) bekezdése alapján, csak különös méltánylást érdemlő esetben mellőzheti külön magatartási szabályként a Btk. 71. § (2) bekezdés b) pontja alapján a sértettől vagy reá tekintettel hozzátartozójától vagy más személytől történő távoltartás külön magatartási szabály előírását.
+
+(9) Ha a bv. intézet a feltételes szabadságra bocsátás tárgyában soron kívül tesz előterjesztést, az előterjesztésben feltünteti azt is, hogy a sértett kérte-e a 13. § szerinti értesítését. Ha a sértett kérte az értesítését, és a büntetés-végrehajtási bíró az elítéltet feltételes szabadságra bocsátja, az elítélt pártfogó felügyeletének az elrendelését csak különös méltánylást érdemlő esetben mellőzheti.
+
+(10) A (9) bekezdésben meghatározott esetben, ha a sértett (3) bekezdés szerinti nyilatkozata a feltételes szabadságra bocsátásról való döntést követően érkezik be, a büntetés-végrehajtási bíró – utólagos büntetés-végrehajtási bírói eljárás keretében – a sértett nyilatkozata alapján a (8) bekezdésben foglaltak alkalmazásával a sértettől, valamint reá tekintettel hozzátartozójától vagy más személytől történő távoltartás külön magatartási szabály előírásáról dönt.
 
 189. § (1) Ha az elítélttel szemben több határozott ideig tartó végrehajtandó szabadságvesztést kell végrehajtani, és a szabadságvesztések folyamatos végrehajtása során a bíróság az elítéltet bármely szabadságvesztésből feltételes szabadságra bocsátotta, a feltételes szabadság mindaddig nem kezdhető meg, amíg az elítélt más szabadságvesztést – ide nem értve a közérdekű munka vagy a pénzbüntetés helyébe lépő szabadságvesztést – tölt.
 
@@ -5048,7 +5074,7 @@ kell végrehajtani.
 (2) Ha katonai rendfokozattal rendelkező elítélttel szemben nem katonai büntetőeljárásban alkalmaztak közügyektől eltiltást, a közügyektől eltiltásról kiállított értesítőlapot
 
 - a) nyugállományú és kiképzett hadköteles személy esetén a Honvédség katonai igazgatási és központi adatfeldolgozó szervének,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó elítélt esetén a munkáltatói jogkört gyakorlónak
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó elítélt esetén a döntésre jogosult elöljárónak
 
 kell megküldeni.
 
@@ -6851,6 +6877,10 @@ meghatározott határidők a Mód. tv. 17. §-ának a hatálybalépését követ
 
 (6) E törvénynek a Mód. tv. 17. §-ával megállapított 75/J. § (1) bekezdését a Mód. tv. 17. §-ának a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell azzal, hogy ha a szabadult elítélt a Mód. tv. 17. §-ának a hatálybalépését megelőzően a lakcíme vagy tényleges tartózkodási helye szerint illetékes büntetés-végrehajtási bíró eljárását nem a kérelmében kérte, az ilyen kérelmek áttétele nem lehetséges.
 
+(7) Ha az elítéltet a Btk. 459. § (1) bekezdés 26. pontjában megjelölt személy elleni erőszakos bűncselekmény miatt ítélték el, és a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvény (a továbbiakban: Mód2. tv.) e törvényt módosító rendelkezéseinek hatálybalépésekor már feltételes szabadságra bocsátották úgy, hogy elrendelték a pártfogó felügyeletét, továbbá a sértett kérte a 13. § szerinti értesítését, a sértett a büntetés-végrehajtási bírónál a 188/A. §-ában foglaltak megfelelő alkalmazásával kezdeményezheti, hogy – utólagos büntetés-végrehajtási bírói eljárás keretében – az elítéltnek a személyétől, valamint reá tekintettel hozzátartozójától vagy más személytől történő távoltartás külön magatartási szabály előírásáról döntsön.
+
+(8) A sértettet a (7) bekezdésben meghatározottakról a BVOP a Mód2. tv. hatálybalépésétől számított hatvan napon belül tájékoztatja.
+
 436/B. § (1) E törvénynek a büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2023. évi XCVII. törvény (a továbbiakban: Mód. tv. 1.) által bevezetett kategória-besorolási rendszerét a végrehajtási fokozatokhoz igazodó rezsimszabályok alá besorolt elítéltek esetében a következők szerint kell megfeleltetni:
 
 - a) I. kategóriába kerül az az elítélt, akit
@@ -6887,11 +6917,11 @@ meghatározott határidők a Mód. tv. 17. §-ának a hatálybalépését követ
 
 (7) A Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépésekor a biztonsági zárkába vagy részlegre helyezett elítélt átkerül a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére azzal, hogy a továbbiakban a részlegre helyezés meghosszabbítására alkalmanként további három hónappal kerülhet sor.
 
-### Hatályon kívül helyező rendelkezés
+436/C. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvény (a továbbiakban: 2024. évi XXX. törvény) által megállapított 46. § (4)–(6) bekezdését a 2024. évi XXX. törvény hatálybalépésekor folyamatban lévő kegyelmi eljárásokban is alkalmazni kell azzal, hogy a köztársasági elnök kegyelmi döntésről szóló, miniszteri ellenjegyzési jog gyakorlása érdekében megküldött határozata – amennyiben a miniszteri ellenjegyzési jog gyakorlására 2024. június 30-ig nem került sor – 2024. július 1-jén válik érvényessé.
 
-437. § (1)
+### Sarkalatossági záradék
 
-(2)
+437. § A 30. § (2a) bekezdése az Alaptörvény 9. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -100,6 +100,7 @@ meghatározott intézkedés.
 - 23. levelező kapcsolat:
   - a) egyes pénzügyi vagy befektetési szolgáltatások hitelintézet részére más hitelintézet általi biztosítása, ideértve különösen a fizetési számla vezetését, a készpénzellátást, a nemzetközi pénzátutalást, a csekkelszámolást és a devizaügyleteket,
   - b) kapcsolat kettő vagy több hasonló szolgáltatást nyújtó hitelintézet vagy pénzügyi szolgáltató között, ideértve különösen az értékpapírügyletek és a fizetési műveletek elszámolását;
+- 23a. megfelelési vezető: a szolgáltató 65. §-ban meghatározott belső szabályzatában kijelölt vezető beosztású foglalkoztatottja, aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelményeknek és elvárásoknak a szolgáltató foglalkoztatottjai általi végrehajtásáért felel;
 - 24. nemzeti kockázatértékelés: az a nemzeti szintű értékelés, amely alkalmas a pénzmosás és a terrorizmus finanszírozása kockázatainak feltárására, értékelésére, értelmezésére, azok folyamatos felülvizsgálatára, valamint a nemzeti kockázatkezelési eljárások meghatározására;
 - 25. pénzforgalmi intézmény: az Fsztv.-ben meghatározott pénzforgalmi intézmény, valamint a Posta Elszámoló Központot működtető intézmény;
 - 26. pénzmosás: a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 303–303/A. §-ában, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 399–400. §-ában meghatározott elkövetési magatartások;
@@ -117,7 +118,8 @@ meghatározott intézkedés.
   - j) a befektetési vállalkozás,
   - k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
   - l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében, illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
-  - m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
+  - m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
+  - n) a pénzforgalmi közvetítő a pénzforgalmi szolgáltatásnyújtás közvetítése vonatkozásában;
 - 28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszköz és virtuális fizetőeszköz törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 - 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 - 30. pénzváltó iroda: hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató kiemelt közvetítő;
@@ -126,9 +128,7 @@ meghatározott intézkedés.
 - 32. személyazonosság igazolására alkalmas hatósági igazolvány: személyazonosító igazolvány, útlevél, valamint kártya formátumú vezetői engedély;
 - 33. személyazonosság igazoló ellenőrzése: az ügyfél, valamint az ügyfél szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője személyazonosságának a 7. § (3)–(9) bekezdésében meghatározottak szerinti, továbbá a tényleges tulajdonos személyazonosságának a 8. § (5) bekezdésében és a 9. § (4) bekezdésében meghatározottak szerinti ellenőrzése;
 - 34. szolgáltató vezetője: az a természetes személy, aki a jogi személy vagy jogi személyiséggel nem rendelkező szervezet szolgáltató képviseletére, nevében döntési jogkör gyakorlására vagy az ezen szolgáltatón belüli irányítási jogkör gyakorlására jogosult;
-- 35. szolgáltató 65. § szerinti belső szabályzatban meghatározott vezetője: az a természetes személy, aki a szolgáltató vezetője által a 65. §-ban meghatározott belső szabályzatban meghatározásra kerül az alábbi szempontok figyelembevételével:
-  - a) megfelelő ismeretekkel rendelkezik arra vonatkozóan, hogy a szolgáltató milyen mértékben van kitéve a pénzmosás és a terrorizmus-finanszírozás jelentette kockázatoknak, valamint
-  - b) megfelelő vezetői hatáskörrel rendelkezik ahhoz, hogy a kockázati kitettséget befolyásoló döntéseket kezdeményezzen vagy hozzon;
+- 35.
 - 35a. tartós üzleti egység:
   - a) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény szerinti telephely, továbbá minden egyéb olyan tartós, önállósult üzleti (üzemi) letelepedéssel járó hely, amely a szolgáltató székhelyétől eltérő helyen található,
   - b) a külföldi székhelyű szolgáltató, ha az a határon átnyúló szolgáltatását egy jogilag különálló szervezet, közvetítő igénybevételével nyújtja;
@@ -360,7 +360,7 @@ haladéktalanul tájékoztatja.
 
 (2) A szolgáltató az (1) bekezdésben meghatározott adaton kívül – kockázatérzékenységi megközelítés alapján – kéri a pénzeszközök forrására vonatkozó információk rendelkezésre bocsátását, és ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatását.
 
-(3) A szolgáltató – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat létesítését a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyásához kötheti.
+(3) A szolgáltató – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat létesítését a szolgáltató kijelölt felelős vezetője jóváhagyásához kötheti.
 
 (4) A szolgáltató az (1)–(2) bekezdésben meghatározott intézkedéseket a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján is elvégezheti.
 
@@ -446,7 +446,7 @@ haladéktalanul tájékoztatja.
 
 (3) A szolgáltató a (2) bekezdésben meghatározott adaton kívül – kockázatérzékenységi megközelítés alapján – kéri a pénzeszközök forrására vonatkozó információk rendelkezésre bocsátását, valamint ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatását.
 
-(4) A szolgáltató – kockázatérzékenységi megközelítés alapján – az ügyleti megbízás teljesítését a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyásához köti.
+(4) A szolgáltató – kockázatérzékenységi megközelítés alapján – az ügyleti megbízás teljesítését a szolgáltató kijelölt felelős vezetője jóváhagyásához köti.
 
 (5) Ha a szolgáltató nem tudja végrehajtani az (1)–(3) bekezdésben meghatározott ügyfél-átvilágítási intézkedéseket, akkor az érintett ügyfélre vonatkozóan köteles megtagadni az ügyleti megbízás teljesítését.
 
@@ -520,7 +520,7 @@ is elvégezheti.
 
 (2) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
 
-- a) az üzleti kapcsolat létesítésére kizárólag a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerül sor,
+- a) az üzleti kapcsolat létesítésére kizárólag a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerül sor,
 - b) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban hajtja végre.
 
 (3) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a (2) bekezdésben meghatározott ügyfél-átvilágítási intézkedések mellett a következő ügyfél-átvilágítási intézkedéseket alkalmazhatja:
@@ -539,7 +539,7 @@ is elvégezheti.
 
 vonatkozóan,
 
-- b) az üzleti kapcsolat létesítését, az ügyleti megbízás teljesítését a 65. § szerinti belső szabályzatban meghatározott vezetője jóváhagyásához kötni, valamint
+- b) az üzleti kapcsolat létesítését, az ügyleti megbízás teljesítését a szolgáltató kijelölt felelős vezetője jóváhagyásához kötni, valamint
 - c) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban végrehajtani.
 
 (2) A szolgáltató stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból származó ügyféllel történő üzleti kapcsolat létesítése vagy az ügyleti megbízás végrehajtása előtt a következő intézkedéseket alkalmazhatja:
@@ -615,7 +615,7 @@ vonatkozóan,
 
 (2) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató kockázatérzékenységi alapon időszakosan köteles megvizsgálni az adott levelező kapcsolatban rejlő pénzmosási kockázatot.
 
-(3) Külföldi székhelyű szolgáltatóval levelező kapcsolat létesítésére csak az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerülhet sor.
+(3) Külföldi székhelyű szolgáltatóval levelező kapcsolat létesítésére csak az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató kijelölt felelős vezetője jóváhagyását követően kerülhet sor.
 
 (4) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató nem létesíthet és nem tarthat fenn levelező kapcsolatot fiktív bankkal, továbbá olyan szolgáltatóval, amely fiktív bankkal levelező kapcsolatot tart fenn.
 
@@ -684,9 +684,9 @@ vonatkozóan,
 
 (6) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez, továbbá a kockázatok csökkentése és kezelése érdekében a szolgáltató köteles figyelembe venni a nemzeti kockázatértékelés eredményét.
 
-(7) Az (1) bekezdésben meghatározott belső kockázatértékelés és az (5) bekezdésben meghatározott belső eljárásrend alkalmazására a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerülhet sor.
+(7) Az (1) bekezdésben meghatározott belső kockázatértékelés és az (5) bekezdésben meghatározott belső eljárásrend alkalmazására a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerülhet sor.
 
-(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmus-finanszírozási kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően módosítani.
+(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmus-finanszírozási kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató kijelölt felelős vezetője jóváhagyását követően módosítani.
 
 28. § (1) A 66. §-ban meghatározott felügyeleti tevékenység gyakorlásához az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a szolgáltató vagy szektor jellege és mérete, valamint a szolgáltatóra vagy szektorra jellemző ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányosan – felügyeleti kockázatértékelést készíteni.
 
@@ -1072,9 +1072,24 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (4) Az 5. §-ban meghatározott felügyeletet ellátó szerv az (1) bekezdésben előírt kötelezettség végrehajtására a felügyelete alá tartozó szolgáltatók részére útmutatót adhat ki.
 
-(5) A szolgáltató köteles a tevékenységének megkezdését követő öt munkanapon belül kijelölni – a szervezet sajátosságaitól, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több, a belső szabályzatában meghatározott vezetőt, aki az e törvényből eredő kötelezettségeknek a szolgáltató foglalkoztatottja általi végrehajtásáért felelősséggel tartozik.
+(4a) A szolgáltató köteles a kijelölt felelős vezetőt a tevékenységének megkezdését követő öt munkanapon belül kijelölni. A szolgáltatónak meg kell hoznia a szükséges intézkedéseket a kijelölt felelős vezetőt érintő összeférhetetlenségek azonosítása és kezelése érdekében. Kijelölt felelős vezetőként kizárólag az irányítási funkciót betöltő testület olyan tagja, illetve olyan felsővezető jelölhető ki, aki esetében nem áll fenn összeférhetetlenség. A kijelölt felelős vezetőnek meg kell felelnie az alábbi szempontoknak is:
+
+- a) megfelelő ismeretekkel rendelkezik arra vonatkozóan, hogy a szolgáltató milyen mértékben kitett a pénzmosás és a terrorizmusfinanszírozás jelentette kockázatoknak, valamint
+- b) megfelelő hatáskörrel rendelkezik ahhoz, hogy a kockázati kitettséget befolyásoló döntéseket kezdeményezzen vagy hozzon.
+
+(5) A szolgáltató köteles a tevékenységének megkezdését követő öt munkanapon belül a szolgáltató belső szabályzatában kijelölni a megfelelési vezetőt.
 
 (6) Az 1. § (1) bekezdés a–d) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az e törvényből és annak felhatalmazásán alapuló jogszabályból eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. Az 1. § (1) bekezdés a) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető a 3. § 23a. pontja szerinti feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.
+
+(7) Az 1. § (1) bekezdés a)–d) pontja szerinti szolgáltató esetében a megfelelési vezető az irányítási funkciót betöltő testületnek közvetlenül, személyesen, évente legalább két alkalommal jelentési kötelezettséggel tartozik. A megfelelési vezető részt vesz a jelentést tárgyaló irányító testületi ülésen, a jelentést és az azzal kapcsolatban hozott, dokumentált testületi döntést ellenjegyzi.
+
+(8) A megfelelési vezető (7) bekezdés szerinti jelentése tartalmazza különösen, de nem kizárólagosan
+
+- a) a szolgáltatónál a tárgyidőszakban folytatott pénzmosás és terrorizmusfinanszírozás megelőzése tárgyában végzett külső és belső vizsgálatok bemutatását, azok eredményét,
+- b) a szolgáltató szervezeti és működési kereteinek megfelelőségével kapcsolatban a szolgáltató vagy a felügyeleti szerv által feltárt kockázatokat, valamint az azoknak való kitettségére vonatkozó legfontosabb adatokat,
+- c) a b) pontban feltárt kockázatok csökkentésére tett javaslatokat.
+
+(9) Az irányítási funkciót betöltő testület a megfelelési vezető (7) bekezdés szerinti jelentésében foglalt javaslatokat a jelentés kézhezvételét követő 30 napon belül dokumentált formában megvitatja, annak elfogadásáról vagy elutasításáról döntést hoz. A jelentésben meghatározott javaslatok alapján végrehajtott változásokat a szolgáltató visszakereshető módon dokumentálja.
 
 64. § (1) A szolgáltató a beazonosított kockázataival összhangban köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolatot, ügyletet felismerjék, a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.
 

@@ -599,8 +599,9 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 - a) elektronikus árverésen,
 - b) hagyományos árverésen (a továbbiakban: árverés),
-- c) árverésen kívüli eladással, vagy
-- d) törvényben meghatározott ingóságokat speciális értékesítési szabályok alapján
+- c) árverésen kívüli eladással,
+- d) törvényben meghatározott ingóságokat speciális értékesítési szabályok alapján vagy
+- e) bizományi szerződés keretében
 
 kell értékesíteni.
 
@@ -614,7 +615,9 @@ kell értékesíteni.
 - d)
 - e) azon vagyontárgyakat, amelyek esetében törvény így rendelkezik.
 
-(4) Az önkormányzati adóhatóság a (2) és (3) bekezdésben foglalt szabályokat akkor köteles alkalmazni, ha az elektronikus árveréshez szükséges informatikai feltételek adottak. Ellenkező esetben a lefoglalt vagyontárgyakat az (1) bekezdés c) és d) pontja alkalmazhatóságának hiányában árverésen értékesíti.
+(3a) A (2) bekezdéstől eltérően az állami adó- és vámhatóság akkor értékesítheti bizományos útján a lefoglalt vagyontárgyat, ha feltételezhető, hogy az így elérhető vételár magasabb, mint az árverésen vagy elektronikus árverésen várhatóan elérhető vételár. A bizományi értékesítésről az adóhatóság végzést hoz.
+
+(4) Az önkormányzati adóhatóság a (2) és (3) bekezdésben foglalt szabályokat akkor köteles alkalmazni, ha az elektronikus árveréshez szükséges informatikai feltételek adottak. Ellenkező esetben a lefoglalt vagyontárgyakat az (1) bekezdés c) és d) pontja alkalmazhatóságának hiányában árverésen értékesíti. Az önkormányzati adóhatóság esetében az (1) bekezdés e) pontja nem alkalmazható.
 
 #### 36. Az ingóság értékesítésének időpontja
 
@@ -769,6 +772,14 @@ kell értékesíteni.
 (12) Ha az árverés nyertese a vételárat azonosítható módon határidőben nem fizette meg, az árverést a következő legmagasabb ajánlatot tevő személy nyeri meg.
 
 71. § A romlandó dolgok értékesítésére a 70. §-ban foglalt eltérésekkel e törvény elektronikus árverésre vonatkozó rendelkezései az irányadóak.
+
+#### 39/A. A bizományi szerződés alapján történő értékesítés szabályai
+
+71/A. § (1) Az állami adó- és vámhatóság 57. § (3a) bekezdés alapján meghozott végzése alapján a végrehajtó az ingóságot az adott dolog forgalmazására jogosult személynek, gazdálkodó szervezetnek adja át bizományi értékesítés céljából a legkisebb vételár (becsérték) meghatározásával.
+
+(2) A végrehajtó a helyszínen ellenőrizheti, hogy a forgalmazó eleget tesz-e bizományosi kötelezettségének.
+
+(3) Ha a dolgot nem sikerült értékesíteni, 45 nap elteltével a végrehajtó a vételárat 15 napos határidőkkel fokozatosan a becsérték 1%-ára szállítja le. Ha az értékesítés sikertelen, a 94. § szerint kell eljárni.
 
 #### 40. Ingatlanárverés
 
@@ -1443,6 +1454,8 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 126. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályait.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a meghatározott cselekmények végrehajtása kapcsán közreműködő szervezetek, valamint a romlandó dolgok értékesítése kapcsán közreműködő kereskedők névjegyzékére, az ajánlat kérésre, az ajánlatok tartalmára, valamint a kiválasztásra vonatkozó részletes szabályokat.
+
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a bizományi szerződés keretében történő értékesítésre vonatkozó részletes szabályokat.
 
 #### 59. Hatálybalépés
 

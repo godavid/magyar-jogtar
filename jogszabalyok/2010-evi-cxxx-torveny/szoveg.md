@@ -116,7 +116,7 @@ terjed ki.
 (2) Nem lehet módosítani vagy – a jogszabály egészének hatályon kívül helyezése nélkül – hatályon kívül helyezni
 
 - a) a jogszabály megjelölését,
-- b) – az önkormányzati rendelet kivételével – a rendelet bevezető részét,
+- b) – az önkormányzati rendelet kivételével – a rendelet megalkotásához szükséges érvényességi kellékek felsorolását,
 - c) a hatályba lépett jogszabályi rendelkezés hatályba léptető rendelkezését, valamint
 - d) jogszabállyal – a hiteles szöveg és a kihirdetett szöveg közti eltérés, valamint fordítási hiba kivételével – a jogszabályban kihirdetett nemzetközi szerződés, a nemzetközi szerződéshez fűzött fenntartás, kifogás és nyilatkozat szövegét.
 
@@ -178,7 +178,7 @@ végrehajtottá válik.
 12/B. § Az a jogszabály, amely a 12. § (2) és (3) bekezdése szerint, illetve a 12/A. § (2) és (3) bekezdése szerint hatályát vesztett rendelkezést tartalmazott, és annak hatályvesztését követően kizárólag
 
 - a) jogszabály-megjelölést,
-- b) preambulumot vagy bevezető részt,
+- b) preambulumot, illetve érvényességikellék-felsorolást,
 - c) – más jogszabályra vonatkozó hatályba léptető rendelkezés kivételével – hatályba léptető rendelkezést,
 - d) törvény vagy törvényi rendelkezés sarkalatosságára utaló rendelkezést,
 - e) az európai uniós követelményekre utaló rendelkezést, illetve
@@ -258,17 +258,23 @@ vezet be, valamely már fennálló ilyen kötelezettség megszüntetéséről va
 
 17/B. § A Központi Statisztikai Hivatal törvény, kormányrendelet vagy miniszteri rendelet előkészítése során hivatalos statisztikai adatok szolgáltatásával közreműködik az előzetes hatásvizsgálat elvégzésében.
 
-#### 6. Indokolási kötelezettség
+#### 6. A jogszabályok céljának meghatározása és az indokolási kötelezettség
 
-18. § (1) A jogszabály tervezetéhez a jogszabály előkészítője indokolást csatol, amelyben bemutatja azokat a társadalmi, gazdasági, szakmai okokat és célokat, amelyek a javasolt szabályozást szükségessé teszik, továbbá ismerteti a jogi szabályozás várható hatásait, és az álláspontját az indokolás közzétételéről.
+18. § (1) A jogszabály tervezete preambulumot tartalmaz, amelyben a szabályozás célját minden esetben meg kell határozni. A jogszabály tervezetének preambulumában a jogszabály előkészítője szükség szerint rögzítheti a szabályozással összefüggő azon elvi, elméleti tételeket, amelyeket a jogszabály tervezetének szerkezeti egységeiben a normatív tartalom hiánya miatt nem lehet rendezni.
 
-(2) A jogszabály tervezetének indokolásában tájékoztatást kell adni a javasolt szabályozás és az európai uniós jogból eredő kötelezettségek összhangjáról, valamint a 20. § szerinti egyeztetési kötelezettségről.
+(2) A rendelet tervezetének preambuluma az (1) bekezdés szerinti tartalmi elemek mellett tartalmazza a rendelet megalkotásához szükséges, az igazságügyért felelős miniszter rendeletében meghatározott érvényességi kellékek felsorolását.
 
-(3) A jogszabály tervezetéhez tartozó indokolás nyilvánosságát jogszabályban meghatározottak szerint kell biztosítani.
+(3) A jogszabály tervezetének preambulumát az igazságügyért felelős miniszter rendeletében meghatározott jogszabályszerkesztési követelmények szerint kell kialakítani.
 
-(4) A jogszabály tervezetéhez tartozó indokolás kötelező erővel nem rendelkezik.
+(4) A preambulumot a jogszabály módosítása esetén a jogszabály megváltozott tartalmának megfelelően módosítani kell, ha az a preambulum és a jogszabály rendelkezéseinek tartalmi összhangja megteremtése érdekében szükséges.
 
-(5) A jogszabály értelmezésekor figyelmen kívül kell hagyni a jogszabály tervezetéhez tartozó indokolás jogszabályszöveggel ellentétes részét.
+(5) A jogszabály tervezetéhez a jogszabály előkészítője indokolást csatol, amelyben bemutatja azokat a jogszabály normatív tartalmával összefüggő társadalmi, gazdasági, szakmai okokat, amelyek a javasolt szabályozást szükségessé teszik, továbbá ismerteti a jogi szabályozás várható hatásait, és az álláspontját az indokolás közzétételéről. A jogszabály tervezetéhez tartozó indokolásában a jogszabály előkészítője bemutathatja a szabályozással összefüggő azon részletes körülményeket, amelyek a szabályozás értelmezését segíthetik, továbbá ismertetheti a szabályozás előzményeit.
+
+(6) A jogszabály tervezetéhez tartozó indokolás nyilvánosságát jogszabályban meghatározottak szerint kell biztosítani.
+
+(7) A jogszabály tervezetéhez tartozó indokolás kötelező erővel nem rendelkezik.
+
+(8) A jogszabály értelmezésekor figyelmen kívül kell hagyni a jogszabály tervezetéhez tartozó indokolás jogszabályszöveggel ellentétes részét.
 
 #### 7. A jogszabálytervezetek véleményezése
 
@@ -356,6 +362,8 @@ a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szerveze
 - f) a minisztérium
 
 hivatali szervezetének vezetője, amely a szerv állományába tartozó személyekre kötelező.
+
+(6) Törvényben meghatározott tárgykörben normatív utasítást adhat ki a Honvéd Vezérkar főnöke, amely a honvédekre kötelező.
 
 24. § (1) A közjogi szervezetszabályozó eszköz jogszabállyal nem lehet ellentétes. A közjogi szervezetszabályozó eszközben jogszabály rendelkezése nem ismételhető meg.
 
@@ -537,9 +545,13 @@ minősül.
 
 36. § E törvénynek a jogalkotásról szóló 2010. évi CXXX. törvénynek az Alaptörvény hetedik módosításával összefüggő módosításáról szóló 2019. évi II. törvénnyel megállapított 8. § (2) bekezdését, 9. § (3) bekezdését, 12. § (3) bekezdését, 12/A. §-át, 12/B. §-át és 14. §-át a 2019. március 15-ét megelőzően hatályba lépett jogszabályok, jogszabályi rendelkezések, valamint közjogi szervezetszabályozó eszközök és ezek rendelkezései tekintetében nem kell alkalmazni.
 
-#### 19.
+37. § (1) E törvénynek a jogalkotásról szóló 2010. évi CXXX. törvény módosításáról szóló 2024. évi XVI. törvénnyel (a továbbiakban: Módtv.) megállapított 6. alcímét azon jogszabálytervezetek esetében kell alkalmazni, amelyek előkészítését 2025. január 1. napján vagy azt követően kezdték meg.
 
-#### 37. §
+(2) E törvénynek a Módtv.-vel megállapított 6. alcímét az (1) bekezdéstől eltérően azon jogszabálytervezetek esetében is alkalmazni lehet, amelyek előkészítését a Módtv. hatálybalépését követően kezdték meg, azzal, hogy e törvénynek a Módtv.-vel megállapított 6. alcíme alkalmazásának mellőzése esetén e törvénynek a Módtv. hatálybalépését megelőző napon hatályos 6. alcímét kell alkalmazni.
+
+(3) A 2025. január 1. napját megelőzően kihirdetett azon jogszabályok, amelyek preambulumot nem tartalmaznak vagy bevezető részt tartalmaznak, preambulummal történő kiegészítés céljából nem módosíthatóak.
+
+#### 19.
 
 #### 38. §
 

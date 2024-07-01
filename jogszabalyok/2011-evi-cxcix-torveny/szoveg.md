@@ -543,7 +543,7 @@ a munkáltató – mérlegelése alapján – a kormánytisztviselő részére m
 
 (4) Ha a munkakör betöltéséhez szükséges képesítés megszerzésére irányuló képzés a kormányzati szolgálati jogviszony létesítésének időpontjához képest csak később indul, az (1) bekezdés a) pontja szerinti két évet a képzés indulásának időpontjától kell számítani.
 
-41/A. § (1) A betöltetlen álláshely betöltése céljából az államigazgatási szervnek a kiválasztási eljárás lefolytatását megelőzően – a vezetői munkakör betöltésére irányuló kiválasztási eljárást, valamint a (8) bekezdést kivéve – meg kell vizsgálnia, hogy a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) vagy s) pontjában meghatározott rendelkezési állományba tartozó katona (a továbbiakban: rendelkezési állományú katona) számára felajánlható-e a betöltetlen álláshely (a továbbiakban: felajánlható munkakör).
+41/A. § (1) A betöltetlen álláshely betöltése céljából az államigazgatási szervnek a kiválasztási eljárás lefolytatását megelőzően – a vezetői munkakör betöltésére irányuló kiválasztási eljárást, valamint a (8) bekezdést kivéve – meg kell vizsgálnia, hogy sajátos katonai tartalékállományba tartozó katona (a továbbiakban: rendelkezési állományú katona) számára felajánlható-e a betöltetlen álláshely (a továbbiakban: felajánlható munkakör).
 
 (2) Az (1) bekezdés alkalmazásában felajánlható munkakörnek azt kell tekinteni, ha
 
@@ -558,7 +558,7 @@ a munkáltató – mérlegelése alapján – a kormánytisztviselő részére m
 
 (6) Az államigazgatási szervnek a rendelkezési állományú katona részére a (2) bekezdés szerint felajánlható munkakört a Kormány által meghatározott módon fel kell ajánlania.
 
-(7) Ha a rendelkezési állományú katonát a munkakört felajánló államigazgatási szerv továbbfoglalkoztatja, de a Hjt. 59. § (2) bekezdés c) pontja szerinti áthelyezés időpontjában az illetménye magasabb, mint a kormányzati szolgálati jogviszonya alapján járó illetménye lenne, a kormányzati szolgálati jogviszonya létesítéstől számított egy éven át jogosult az illetménykülönbözetre.
+(7) Ha a rendelkezési állományú katonát a munkakört felajánló államigazgatási szerv továbbfoglalkoztatja, de a közalkalmazotti, honvédelmi alkalmazotti, rendvédelmi igazgatási, egészségügyi szolgálati, a közszolgálati tisztviselőkről szóló törvény szerinti szolgálati, a közszolgálati, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati, illetve a Nemzeti Adó- és Vámhivatalnál fennálló adó- és vámhatósági szolgálati jogviszonyba történő áthelyezés időpontjában az alapilletménye magasabb, mint a kormányzati szolgálati jogviszonya alapján járó illetménye lenne, a kormányzati szolgálati jogviszonya létesítéstől számított egy éven át jogosult az illetménykülönbözetre.
 
 (8) E §-ban foglaltakat nem kell alkalmazni arra a rendelkezési állományú katonára, aki a részére korábban felajánlott, a (2) bekezdés szerint felajánlható munkakört nem fogadta el.
 

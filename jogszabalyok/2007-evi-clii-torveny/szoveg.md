@@ -36,7 +36,7 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 (2) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett, aki
 
 - a) közigazgatási államtitkár, helyettes államtitkár,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 - c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 - d) vezetői munkakört betöltő köztisztviselő vagy kormánytisztviselő,
 - e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
@@ -194,13 +194,23 @@ fel kell tüntetni.
 
 (3) Az a kötelezett, akinek jogviszonya az (1) bekezdésben meghatározottak szerint szűnt meg, három évig az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
 
-17–20. §
+#### 17. §
 
-21. §
+#### 18. §
 
-22–24. §
+#### 19. §
 
-25. §
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
 
 ### Záró rendelkezések
 
@@ -258,6 +268,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 1. .......... év
 
+4K02563M_0
+
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -267,6 +279,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 2. .......... év
+
+4K02563M_1
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -278,6 +292,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 3. .......... év
 
+4K02563M_2
+
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -288,6 +304,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 4. .......... év
 
+4K02563M_3
+
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -297,6 +315,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 5. .......... év
+
+4K02563M_4
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -667,6 +687,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 1. .......... év
 
+4K02563M_8
+
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -676,6 +698,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 2. .......... év
+
+4K02563M_9
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -687,6 +711,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 3. .......... év
 
+4K02563M_10
+
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -697,6 +723,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 4. .......... év
 
+4K02563M_11
+
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -706,6 +734,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 5. .......... év
+
+4K02563M_12
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |

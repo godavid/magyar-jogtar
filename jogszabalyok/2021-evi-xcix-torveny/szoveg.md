@@ -1131,83 +1131,45 @@ meghosszabbodik.
 
 (9) Az (1) és (2) bekezdést a közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet szerinti, az (1) bekezdés szerinti szervezet tulajdonában vagy üzemeltetésében álló közfürdő által felszámított térítési díj tekintetében nem kell alkalmazni.
 
-#### 63. Ingyenes közterület-használattal kapcsolatos átmeneti szabályok
+#### 63.
 
-148. § Ezen alcím alkalmazásában
+#### 148. §
 
-- a) közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti közterület,
-- b) vendéglátó üzlet: a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség,
-- c) sajtótermék: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény 1. § 6. pontja szerinti sajtótermék, az internetes újság vagy hírportál kivételével.
+149. § (1)
 
-149. § (1) A közterület e törvény szerinti használatára 2022. szeptember 30. napjáig a közterülethez közvetlenül csatlakozó vendéglátó üzletnek az üzemeltetője, bérlője vagy tulajdonosa (a továbbiakban együtt: használó) közterület-használati hozzájárulás megfizetése nélkül ingyenesen jogosult.
+(2)
 
-(2) A használó a közterületnek a közterülethez közvetlenül csatlakozó vendéglátó üzlet előtti részét – a vendéglátó üzlet közterületen működő terasza működtetése céljából – a vendéglátó üzlet közterülethez csatlakozó épülethatára szélességében használhatja.
+(3)
 
-(3) Az e törvény hatálybalépésekor hatályos közterület-használati engedéllyel vagy szerződéssel rendelkező használó a közterületet az engedély vagy szerződés szerinti mértékben használhatja.
+(4)
 
-(4) A (2) bekezdés szerinti használati jogot
+(5)
 
-- a) az azonos épületben lévő vendéglátó üzletek – eltérő megállapodás hiányában – vendéglátó üzletenként azonos mértékben,
-- b) a közúti forgalomtól elzárt terület (tér vagy sétálóutca) esetében a szemben lévő vendéglátó üzletek a terület felezővonaláig
+(6)
 
-gyakorolhatják.
+(7)
 
-(5) A (2) bekezdés nem alkalmazható
+(8)
 
-- a) a kiemelt nemzeti emlékhely területén,
-- b) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet szerinti közparkban, zöldterületen,
-- c) a járművek forgalmát biztosító úttesten, vagy a várakozásukra kijelölt területen,
-- d) a tömegközlekedési járműre történő várakozás céljára közterületen elkülönített területen,
-- e) lakó- vagy társasházba, egyéb építménybe történő ki- és bejutást, tűzcsap, forgalomirányító készülék vezérlőegysége megközelítését akadályozó módon, valamint a járdán a gyalogosok közlekedését zavaró, biztonságát veszélyeztető, a járművezetők kilátását gátoló, a közúti forgalmi jelzések felismerését akadályozó, a közút forgalmát veszélyeztető, a közművek elhelyezését, üzemeltetését, karbantartását akadályozó módon és
-- f) tűzoltási felvonulási területen.
+(9)
 
-(6) A használó felelős azért, hogy a közterület közlekedésre szánt területén a települési önkormányzat által alkotott 2020. december 31. napján hatályos szabályozás szerint biztosított legyen a zavartalan közúti és gyalogos közlekedés.
+(10)
 
-(7) A (6) bekezdésben meghatározott szabályozás hiányában a zavartalan közúti és gyalogos közlekedést úgy kell biztosítani, hogy
+(11)
 
-- a) a járda hasznos szélessége (gyalogossáv) 1,50 méternél kevesebb nem lehet, valamint
-- b) a közhasználatú építmények kerekesszékkel és gyermekkocsival is megközelíthetőek legyenek.
+(12)
 
-(8) A vendéglátó üzlet nyitvatartására vonatkozóan a 2020. december 31. napján hatályos, a települési önkormányzat által alkotott szabályok az irányadóak azzal, hogy a vendéglátó üzlet számára előnyösebb működési feltételeket biztosító szabályok megállapíthatóak.
+(13)
 
-(9) A (6) és (7) bekezdésben foglaltak ellenőrzésére és intézkedés megtételére a rendőrség jogosult. A rendőr felszólítására a használó köteles a közúti és gyalogos közlekedés akadályozását haladéktalanul megszüntetni.
+(14)
 
-(10) A (6) és (7) bekezdésben foglaltakat első alkalommal megszegő használót – ha felszólításra a közúti és a gyalogos közlekedés akadályoztatását megszünteti – a rendőr figyelmezteti a kötelezettségének betartására. Ha a használó az akadályt a rendőr felszólítására nem szüntette meg, vagy a közúti és gyalogos közlekedés akadályozása jelentős, a rendőrség az üzemeltetővel szemben a (6) és (7) bekezdés szerinti kötelezettség megszegése miatt
+(15)
 
-- a) 100 000 Ft-tól 500 000 Ft-ig terjedő bírságot szabhat ki, valamint
-- b) a kötelezettség ismételt megszegése esetén a vendéglátó üzletet legfeljebb hat hónap időtartamra ideiglenesen bezárathatja.
+(16)
 
-(11) A rendőrség a (10) bekezdés szerinti jogkövetkezményeket a kötelezettség ismételt megszegése esetén együtt is alkalmazhatja.
+(17)
 
-(12) A kiszabott bírság megfizetése a rendőrség hivatalos honlapján közzétett számlaszámra történő befizetéssel történik.
-
-(13) A bírságot a határozat véglegessé válását követő 15 napon belül kell megfizetni.
-
-(14) A bírságot kiszabó határozat ellen nincs helye fellebbezésnek.
-
-(15) A (10) és (11) bekezdés szerinti intézkedések megtételére az ellenőrzés helye szerint illetékes rendőrkapitányság jogosult.
-
-(16) A rendőrség az ideiglenes bezáratásról tájékoztatja az üzemeltető tevékenységét engedélyező vagy a tevékenység bejelentését fogadó kereskedelmi hatóságot.
-
-(17) Ha a vendéglátó üzletet a rendőrség ideiglenesen bezáratta, a vendéglátó üzlet
-
-- a) használójának a vendéglátó tevékenység végzésére kiadott engedélye vagy ilyen célú bejelentése a vendéglátó üzlet ideiglenes bezáratásának az időtartamára érvényét veszti,
-- b) használója részére a vendéglátó üzlet ideiglenes bezáratásának az időtartamára vendéglátó tevékenység végzésére engedély nem adható, illetve ilyen célú bejelentése nem érvényes,
-- c) használója a vendéglátó üzlet ideiglenes bezáratásának időtartama alatt vendéglátó tevékenységet nem végezhet.
-
-150. § (1) A sajtótermék árusítására e törvény hatálybalépésekor jogosult, az árusítással kapcsolatos fülke, pavilon, épület, üzlet tulajdonosa, bérlője 2021. december 31-éig nem köteles közterület-használati hozzájárulást beszerezni, ha kizárólag olyan sajtóterméket árusít, amely a járványhelyzettel kapcsolatos közérdekű közleményt, tájékoztatást tartalmaz.
-
-(2) E törvény alkalmazásában sajtótermék árusításának minősül az alkalmi és mozgóárusítás is.
-
-(3) Nem kell közterületi-használati hozzájárulást beszerezni az (1) bekezdés szerinti sajtótermék közterületen történő osztásához sem.
-
-(4) Az (1)–(3) bekezdés szerinti közterület-használat nem gyakorolható a 149. § (5) bekezdésében megjelölt területeken.
-
-(5) A közterület-használat gyakorlására a 149. § (6) és (7) bekezdését kell alkalmazni.
-
-(6) Az (1)–(5) bekezdésben foglaltak ellenőrzésére és intézkedés megtételére a rendőrség jogosult.
-
-(7) Ha az árusítással kapcsolatos fülke, pavilon, épület, üzlet tulajdonosa, bérlője a közterületet közterület-használati hozzájárulás nélkül az (1)–(5) bekezdésben foglaltakról eltérően használja, a rendőrség vele szemben 100 000 Ft-tól 500 000 Ft-ig terjedő bírságot szabhat ki. A rendőrség eljárására a 149. § (12)–(15) bekezdését kell alkalmazni.
+#### 150. §
 
 #### 64. Az általános közigazgatási rendtartás szerinti szünetelés
 

@@ -195,6 +195,8 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 (2) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője az (1) bekezdés szerinti adattovábbítás céljából együttműködési megállapodást köt a KSH-val.
 
+(3) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltatók, a vendéglátó üzlet üzemeltetők és a turisztikai attrakció üzemeltetők által átadott adatokat kutatási, illetve fejlesztési célból az e törvény felhatalmazása alapján kiadott rendeletben meghatározottak szerint jogosult továbbítani.
+
 9/E. § (1) A Nemzeti Turisztikai Adatszolgáltató Központnak a szálláshely-szolgáltató által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:
 
 - a) a Magyar Turisztikai Ügynökség Zrt.,
@@ -249,10 +251,9 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 (4) A tárhelyszolgáltató tevékenysége – a szálláshely-szolgáltató adatfeldolgozójaként – kizárólag az adat tárhelyen a Kormány rendeletében kijelölt titkosítási eljárást biztosító által titkosított formában történő tárolására és az adathoz – a szálláshely-szolgáltató és a szálláshely-szolgáltató útján törvényben arra feljogosított személy vagy szerv számára – történő hozzáférés biztosítására terjed ki. A tárhelyszolgáltató a tárhelyen tárolt adatot nem ismerheti meg.
 
-(5) A rendőrség a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság, az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme, és a körözési eljárás lefolytatása érdekében
+(5) A tárhelyszolgáltató a tárhelyen tárolt (1) bekezdés szerinti adatokhoz a rendőrség részére a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság, az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme, és a körözési eljárás lefolytatása érdekében közvetlen hozzáférést biztosít.
 
-- a) a tárhelyszolgáltatónál tárolt adatokban informatikai eszköz útján keresést végezhet és a keresés eredményeként azt az információt ismerheti meg, hogy az általa megadott keresési feltételek szerinti személy mely szálláshely-szolgáltatónál szerepel igénybe vevőként, továbbá
-- b) – az adatkérés céljának megjelölésével – a szálláshely-szolgáltató által kezelt adat továbbítását kérheti, amelyet a szálláshely-szolgáltató térítésmentesen teljesít.
+(6) A tárhelyszolgáltató az (5) bekezdés szerinti közvetlen hozzáférés céljából együttműködési megállapodást köt a rendőrséggel.
 
 9/I. § (1) A szálláshely-szolgáltató a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan szálláshelykezelő szoftvert alkalmaz, amely alkalmas arra, hogy
 
@@ -276,7 +277,7 @@ továbbítsa.
 - c) kiemelt állami turisztikai beruházások megvalósításának helyszíneit, a beruházással érintett ingatlanok helyrajzi számának megjelölésével,
 - d) a 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait, a 4. § (3) bekezdése szerinti ingatlanokat, vagyonelemeket és az ott megjelölt ingatlanok vagy vagyonelemek tekintetében vagyonkezelési szerződés megkötésére feljogosított beruházót vagy fenntartót,
 - e) szálláshely-szolgáltató által alkalmazandó szálláshelykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
-- f) a Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője által használt SZEÜSZ-öket,
+- f) a Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel, továbbá a szolgáltatott adatok Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője általi továbbításával kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője által használt SZEÜSZ-öket,
 - g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat,
 - h) 9/H. § (4) bekezdésben meghatározott tárhelyszolgáltatót, továbbá a tárhelyszolgáltatóhoz történő csatlakozás és adatfeldolgozás, valamint a tárhely üzemeltetésének és titkosításának részletes szabályait
 - i) vendéglátó üzlet üzemeltetője által alkalmazandó vendéglátó szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,

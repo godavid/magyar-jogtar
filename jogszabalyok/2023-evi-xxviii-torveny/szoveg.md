@@ -104,6 +104,6 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 (4) Az 5. § (4) bekezdése 2024. január 1-jén lép hatályba.
 
-(5) Az 5. § (3) bekezdése 2024. július 1-jén lép hatályba.
+(5)
 
 (6) Az 5. § (6) bekezdése, a 21. § és a 22. § 2025. január 1-jén lép hatályba.

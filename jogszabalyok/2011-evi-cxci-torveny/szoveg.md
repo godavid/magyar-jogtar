@@ -163,7 +163,7 @@ megszűnik.
 
 (2a)
 
-(3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
+(3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d) pontja szerinti esetben a 19. § (2) bekezdés első mondatában meghatározott időponttól, a (2) bekezdés e)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
 
 (4) A (2) bekezdés d) és e) pontjában foglaltak fennállását a rehabilitációs hatóság által végzett komplex minősítés alapján kell megállapítani.
 
@@ -248,7 +248,7 @@ meghatározott összeg 65 százaléka.
 
 14. § (1) A megváltozott munkaképességű személyek ellátásait a rehabilitációs hatóságnál az erre rendszeresített nyomtatványon vagy elektronikus űrlapon lehet kérelmezni. Az ellátásra való jogosultságot megállapító, vagy az egészségi állapotra tekintettel hozott elutasító döntés véglegessé válását vagy jogerőre emelkedését követő 12 hónapon belül előterjesztett újabb kérelmet csak akkor kell elbírálni, ha a rendelkezésre álló egészségügyi dokumentáció alapján megállapítható, hogy a kérelmező egészségi állapotában a korábbi döntésben még figyelembe nem vett tartós változás következett be.
 
-(1a) Ha a megváltozott munkaképességű személyek ellátásában részesülő személy az ellátásra való jogosultságot megállapító döntés véglegessé válását vagy jogerőre emelkedését követően újabb kérelmet terjeszt elő, azt a 19. § (1) bekezdés b) pontja szerinti felülvizsgálat iránti kérelemnek kell tekinteni.
+(1a) Ha a megváltozott munkaképességű személyek ellátásában részesülő személy az ellátásra való jogosultságot megállapító döntés véglegessé válását követően újabb kérelmet terjeszt elő, azt a 19. § (1) bekezdés b) pontja szerinti felülvizsgálat iránti kérelemnek kell tekinteni.
 
 (2) A megváltozott munkaképességű személyek ellátásaival kapcsolatos e törvényben meghatározott eljárás, valamint az ezzel összefüggésben indult közigazgatási per – ideértve a tartozás elengedésére, mérséklésére és a részletfizetés engedélyezésére irányuló eljárást is – költség- és illetékmentes.
 
@@ -590,7 +590,7 @@ kell figyelembe venni.
 - b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
 - c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavállalót, és
 - d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót,
-- e) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állományú katonát,
+- e) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos és szerződéses állományú katonát,
 - f) a nevelőszülői foglalkoztatási jogviszonyban álló személyt annál a munkaadónál, aki őt nevelőszülőként foglalkoztatja.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint a rehabilitációs hozzájárulás szorzata.
@@ -647,7 +647,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 - a) a végzettséget, képesítést igazoló okiratok másolatát,
 - b) a szakmai gyakorlatot tanúsító igazolást,
 - c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást,
-- d) a bejelentő nyilatkozatát arról, hogy nem áll cselekvőképességet kizáró vagy korlátozó gondnokság hatálya alatt.
+- d)
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: foglalkozási rehabilitációs szakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A foglalkozási rehabilitációs szakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 

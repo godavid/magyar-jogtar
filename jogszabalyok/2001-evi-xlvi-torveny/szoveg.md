@@ -6,7 +6,9 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 ### Alapvető rendelkezések
 
-1. § (1) Magyarország a magyar állampolgár érdekeinek külföldön történő védelmét a konzuli szolgálat útján látja el (a továbbiakban: konzuli védelem). A konzuli védelem ellátása érdekében a konzuli szolgálat a 4–13. §-okban meghatározott érdekvédelmi feladatokat, illetve a konzuli tisztviselő – a konzuli szolgálat keretében – a 19. § (3)–(4) bekezdéseiben foglalt közigazgatási hatósági feladatokat végzi.
+1. § (1) Magyarország a magyar állampolgár érdekeinek külföldön történő védelmét a konzuli szolgálat útján látja el (a továbbiakban: konzuli védelem). A konzuli védelem ellátása érdekében a konzuli szolgálat a 4–13/A. §-okban meghatározott érdekvédelmi feladatokat, illetve a konzuli tisztviselő – a konzuli szolgálat keretében – a 19. § (3)–(4) bekezdéseiben foglalt közigazgatási hatósági feladatokat végzi.
+
+(1a) A konzuli szolgálat nem magyar állampolgárok konzuli védelmét is elláthatja az e törvényben meghatározottak szerint.
 
 (2) A konzuli védelem körébe eső feladatokon túl e törvény a konzuli szolgálat számára egyéb feladatokat is meghatároz, valamint rendelkezik a konzuli tisztviselő közjegyzői, továbbá a külpolitikáért felelős miniszter (a továbbiakban: miniszter) és a konzuli tisztviselő felülhitelesítési tevékenységéről. A konzuli feladatok végrehajtása során a konzuli szolgálat együttműködik hazai és külföldi szervezetekkel, valamint magánszemélyekkel. Nemzetközi szerződés, törvény vagy kormányrendelet a konzuli szolgálat részére további feladatokat is meghatározhat.
 
@@ -61,9 +63,11 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (2j) A konzuli munkát érintő joganyagban történt lényeges változás esetén a miniszter – a konzuli tisztviselőként vagy a konzuli feladatokban közreműködő konzuli ügyintézőként való további foglalkoztatás feltételeként – az adott részanyagból kötelező jelleggel kiegészítő vizsga letételét rendelheti el.
 
-(3) A miniszter tiszteletbeli konzuli tisztviselőnek a fogadó vagy harmadik állam azon állampolgárát vagy a fogadó államban élő azt a magyar állampolgárt nevezheti ki, aki a magyar jog és a fogadó állam joga szerint is büntetlen előéletű, külön rendeletben meghatározott feltételek szerint alkalmas az e tisztséggel járó feladatok teljesítésére, és írásban vállalja azok ellátását. A tiszteletbeli konzuli tisztviselőt a miniszter jogszabályban meghatározott korlátozásokkal és terjedelemben bízhatja meg konzuli feladatok ellátásával.
+(3) A miniszter tiszteletbeli konzuli tisztviselőnek a fogadó vagy harmadik állam azon állampolgárát vagy a fogadó államban élő azt a magyar állampolgárt nevezheti ki, aki a magyar jog és a fogadó állam joga szerint is büntetlen előéletű, esetében nemzetbiztonsági kockázat nem merül fel, külön rendeletben meghatározott feltételek szerint alkalmas az e tisztséggel járó feladatok teljesítésére, és írásban vállalja azok ellátását. A tiszteletbeli konzuli tisztviselőt a miniszter jogszabályban meghatározott korlátozásokkal és terjedelemben bízhatja meg konzuli feladatok ellátásával.
 
-(4) A tiszteletbeli konzuli tisztviselőnek jelölt személy igazolja, hogy a magyar jog és a fogadó állam joga szerint is büntetlen előéletű. A miniszter a büntetlen előéletre vonatkozó adatokat a tiszteletbeli konzuli kinevezés megszűnéséig kezeli. A miniszter jogosult arra, hogy a tiszteletbeli konzuli kinevezés időtartama alatt ellenőrizze a tiszteletbeli konzuli kinevezés feltételeinek fennállását, és ennek keretében felhívhatja a tiszteletbeli konzuli tisztviselőt a (3) bekezdésben foglaltak igazolására.
+(4) A tiszteletbeli konzuli tisztviselőnek jelölt személy igazolja, hogy büntetlen előéletű. A miniszter a büntetlen előéletre vonatkozó adatokat a tiszteletbeli konzuli kinevezés megszűnéséig kezeli. A miniszter a tiszteletbeli konzuli tisztviselőnek jelölt személyre vonatkozóan a kinevezés előtt véleményt kér a feladat- és hatáskörrel rendelkező nemzetbiztonsági szolgálattól.
+
+(4a) A miniszter jogosult arra, hogy a tiszteletbeli konzuli kinevezés időtartama alatt ellenőrizze a tiszteletbeli konzuli kinevezés feltételeinek fennállását és ennek keretében felhívhatja a tiszteletbeli konzuli tisztviselőt a (4) bekezdésben foglaltak igazolására és véleményt kérhet a feladat- és hatáskörrel rendelkező nemzetbiztonsági szolgálattól.
 
 (5) A diplomáciai vagy konzuli képviselet a konzuli érdekvédelem tekintetében konzuli kerületében jár el. Indokolt esetben a konzuli képviselet a fogadó állam egyetértésével konzuli kerületén kívül is eljárhat.
 
@@ -85,11 +89,17 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (2) Más állampolgársággal is rendelkező magyar állampolgár a másik állampolgársága szerinti államban olyan mértékben jogosult a védelemre, amilyen mértékig azt a fogadó állam lehetővé teszi.
 
-(3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(2a) A konzuli szolgálat nem magyar állampolgár részére e törvény rendelkezései szerint nyújthat konzuli védelmet.
 
-(4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a konzuli szolgálat ellátja az uniós polgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete – a (4) bekezdés rendelkezéseit nem érintve –, nemzetközi szerződés vagy viszonosság alapján Európai Uniós tagsággal nem rendelkező harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár és – a 6. § (2) bekezdésben és a 7. §-ban felsorolt esetekben – az őt kísérő hozzátartozója érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
-(5) Ha a konzuli védelem nyújtásának feltételei fennállnak, a konzuli szolgálat az uniós polgárt a magyar állampolgárral azonos, az e törvényben, valamint a végrehajtásáról szóló jogszabályokban meghatározott elbánásban részesíti.
+(3a) Nemzetközi szerződés vagy viszonosság alapján a konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+
+(4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a képviselettel nem rendelkező magyar állampolgár és az őt kísérő hozzátartozójának érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi.
+
+(4a) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a konzuli szolgálat elláthatja a képviselettel nem rendelkező uniós polgár és az őt kísérő családtagjának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+
+(5) Ha a konzuli védelem nyújtásának feltételei fennállnak, a konzuli szolgálat a képviselettel nem rendelkező uniós polgárt és az őt kísérő családtagját a magyar állampolgárral azonos, az e törvényben, valamint a végrehajtásáról szóló jogszabályokban meghatározott elbánásban részesíti. A képviselettel nem rendelkező uniós polgár tagállamának kérésére a konzuli védelem ezen túl is kiterjeszthető, ha az uniós jog előírásaiba nem ütközik és a fogadó állam azt nem ellenzi.
 
 ### Tanácsadás és segítségnyújtás
 
@@ -116,13 +126,15 @@ országok (térségek).
 
 (2) E feladat teljesítése körében eljárva a konzuli szolgálat különösen az alábbi intézkedéseket teszi:
 
-- a) a külföldre utazásról szóló törvény alapján a hazatéréshez az elveszett, ellopott, megrongálódott, megsemmisült vagy lejárat folytán érvényét veszített úti okmány helyett a konzuli tisztviselő újat állít ki. Az uniós polgár számára a külön jogszabályban meghatározott esetekben és feltételek szerint ideiglenes úti okmányt állíthat ki,
+- a) a külföldre utazásról szóló törvény alapján a magyar állampolgár hazatéréséhez az elveszett, ellopott, megrongálódott, megsemmisült vagy lejárat folytán érvényét veszített úti okmány helyett a konzuli tisztviselő újat állít ki,
 - b) útmutatást és tanácsot ad a rászorultnak ahhoz, hogy hazatérését saját erejéből megoldhassa,
 - c) közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi segítséghez jusson.
 
 (2a) A tiszteletbeli konzuli képviselő a külföldre utazásról szóló 1998. évi XII. törvény 20. § (1) bekezdése alapján érvényét vesztett útlevelet átveszi.
 
-(3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – hazatérési kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről. Az uniós polgárnak nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.
+(2b) Képviselettel nem rendelkező magyar állampolgár részére ideiglenes úti okmányt (emergency travel document) más tagállam konzuli szolgálata állíthat ki.
+
+(3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – hazatérési kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről.
 
 (4) A hazatérési kölcsön nyújtása iránti kérelemmel összefüggésben a konzuli szolgálat köteles vizsgálni a kérelmező önhibáját. A kérelmező nyilvánvaló önhibája esetén a kölcsön megtagadható. A kölcsönnyújtást meg kell tagadni a (3) bekezdésben foglalt feltételek hiányában, valamint, ha a kérelmező – a (2) bekezdésben meghatározott intézkedések megtétele érdekében – neki felróható módon nem működik együtt a konzuli szolgálattal, valótlan adatokat közölt vagy az általa korábban igénybe vett hazatérési kölcsön nem térült vissza.
 
@@ -144,11 +156,11 @@ országok (térségek).
 
 (5) A konzuli szolgálat az (1) bekezdésben meghatározott esetben – szükség esetén – közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi segítséghez jusson.
 
-### Segítségnyújtás katasztrófa, háború vagy fegyveres összeütközés esetén
+### Segítségnyújtás válsághelyzet esetén
 
 7. § (1) A magyar állampolgárok életét, testi épségét külföldön közvetlenül fenyegető természeti katasztrófa, háborús cselekmények vagy fegyveres összeütközések esetén a konzuli szolgálat megteszi az adott körülmények között elvárható intézkedéseket az érintett magyar állampolgárok tájékoztatása, és a velük való folyamatos kapcsolattartás érdekében.
 
-(2) A konzuli szolgálat az (1) bekezdésben meghatározott állapot folyamatos értékelése keretében egyeztet az Európai Unió tagállamaival, elsősorban azok helyben működő diplomáciai vagy konzuli képviseletei útján, valamint az Európai Unió Tanácsával és küldöttségével. Az együttműködés során különös hangsúlyt fektet a képviselettel nem rendelkező uniós polgárok részére nyújtott segítség koordinálását végző tagállammal (vezető állam) vagy tagállamokkal történő egyeztetésre. E bekezdés alkalmazásában vezető állam a harmadik országban diplomáciai képviselettel rendelkező azon tagállam, amely a képviselettel nem rendelkező uniós polgároknak válsághelyzetekben nyújtandó támogatás koordinálásáért és irányításáért felel.
+(2) A konzuli szolgálat az (1) bekezdésben meghatározott állapot folyamatos értékelése keretében egyeztet az Európai Unió tagállamaival, elsősorban azok helyben működő diplomáciai vagy konzuli képviseletei útján, valamint az Európai Unió Tanácsával és küldöttségével. Az együttműködés során különös hangsúlyt fektet a képviselettel nem rendelkező uniós polgárok részére nyújtott segítség koordinálását végző tagállammal (vezető állam) vagy tagállamokkal, illetve az Európai Külügyi Szolgálattal történő egyeztetésre. E bekezdés alkalmazásában vezető állam a harmadik országban diplomáciai képviselettel rendelkező azon tagállam, amely a képviselettel nem rendelkező uniós polgároknak és az őt kísérő családtagjainak válsághelyzetekben nyújtandó támogatás koordinálásáért és irányításáért is felel.
 
 (3) Szükség esetén a miniszter javaslatot tesz a Kormánynak a magyar állampolgárok hazatérésének elősegítésére vagy evakuálására. Az evakuálás végrehajtásában együttműködik az Európai Unió tagállamaival, az Európai Unió és az Észak-atlanti Szerződés Szervezete szerveivel.
 
@@ -205,6 +217,20 @@ országok (térségek).
 
 (3) A konzuli tisztviselő a fogadó állam eljárási jogszabályai és gyakorlata tiszteletben tartásával, az ezek által lehetővé tett mértékig vesz részt az e § szerinti ügyek intézésében.
 
+### Segítségnyújtás képviselettel nem rendelkező uniós polgárnak és őt kísérő családtagjának
+
+13/A. § (1) A képviselettel nem rendelkező uniós polgárok és az őket kísérő családtagjaik konzuli védelmének ellátása érdekében a konzuli szolgálat szorosan együttműködik az Európai Unió szerveivel és a tagállami konzuli szolgálattal.
+
+(2) A konzuli szolgálat a képviselet nélküli uniós polgár védelmében annak kérelmére, az őt kísérő családtagja védelmében a képviselet nélküli uniós polgár tagállamának kérelmére járhat el.
+
+(3) Az uniós polgárnak és az őt kísérő családtagjának nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.
+
+(4) A tagállamok területén vagy harmadik államban képviselettel nem rendelkező uniós polgár kérelmére vagy állampolgársága szerinti tagállam kérelmére, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, részére a konzuli szolgálat ideiglenes úti okmányt (emergency travel document) állíthat ki.
+
+(5) A konzuli szolgálat a (4) bekezdés szerinti uniós polgárt kísérő, valamely tagállam területén jogszerűen tartózkodó családtagjának az uniós polgár állampolgársága szerinti tagállam kérésére ideiglenes úti okmányt (emergency travel document) állíthat ki.
+
+(6) A konzuli szolgálat másik tagállam kifejezett kérésére ideiglenes úti okmányt (emergency travel document) állíthat ki olyan személyek részére, akik számára az érintett tagállamnak kötelessége védelmet nyújtani és akik jogszerűen tartózkodnak egy tagállamban.
+
 ### Tanúsítványkészítés
 
 14. § (1) Magyarországnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott hivatásos konzuli tisztviselője konzuli tanúsítványt készíthet:
@@ -259,12 +285,12 @@ országok (térségek).
 16. § (1) A konzuli szolgálat a konzuli védelem, illetve a külföldre utazás bejelentése során – jogainak érvényesítése és érdekeinek védelme céljából, továbbá a védelemhez szükséges adatkörben – a védelemre szoruló személy következő adatait kezelheti:
 
 - a) természetes személyazonosító adatai,
-- b)–c)
-- d) magyarországi lakóhelye,
-- e) állampolgársága,
-- f) személyazonosító okmányának okmányazonosító adatai,
-- g) a külföldi tartózkodásával kapcsolatos adatok, és
-- h) a védelem biztosításához szükséges egyéb adatok.
+- b) lakóhelye,
+- c) állampolgársága,
+- d) neme,
+- e) a személyazonosság igazolására alkalmas hatósági igazolvány okmányazonosítója,
+- f) a külföldi tartózkodásával kapcsolatos adatok, és
+- g) a védelem biztosításához szükséges egyéb adatok.
 
 (2) A konzuli szolgálat az érdekvédelem során birtokába került adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató bíróság, ügyészség, nyomozó hatóság adatkérése, a rendőrségről szóló törvényben meghatározott, a bajba jutott magyar állampolgárok mentésére, hazatérésük biztosítására, illetve az evakuálás végrehajtására irányuló feladatainak ellátásával összefüggésben a terrorizmust elhárító szerv vagy a magyar nemzetbiztonsági szolgálatok megkeresése, valamint a (3) és (4) bekezdésben foglaltak kivételével – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. A 14. §-ban foglalt konzuli tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
 
@@ -274,7 +300,7 @@ országok (térségek).
 
 (5) A kérelemre indult eljárásban a konzuli védelem ellátására irányuló kérelem magába foglalja az annak biztosításához szükséges adatok kezeléséhez való hozzájárulást is az érdekérvényesítéshez szükséges körben. Erről a konzuli szolgálat a kérelmezőt kérelmének előterjesztésekor tájékoztatja.
 
-(6) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat az Európai Unió tagállama konzuli szolgálatának.
+(6) Az uniós polgár és családtagja érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat a tagállami konzuli szolgálatnak.
 
 (7) Az adatszolgáltatásról nyilvántartást kell vezetni. A nyilvántartás tartalmazza:
 
@@ -322,7 +348,7 @@ országok (térségek).
 - k) a gondnokoltak nyilvántartásából,
 - l) a menekültügyi nyilvántartásból.
 
-(2) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat az Európai Unió tagállama konzuli szolgálatán keresztül igényelheti.
+(2) Az uniós polgár és családtagja érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat a tagállami konzuli szolgálaton keresztül igényelheti.
 
 18. § (1) Az érdekvédelemmel kapcsolatos iratokba a védelemben részesülő ügyfél és azok a személyek tekinthetnek be, akik számára a 16. § alapján adat szolgáltatható.
 
@@ -351,7 +377,7 @@ országok (térségek).
 
 (8) A konzuli tisztviselő a közigazgatási hatósági eljárásokban kizárólag a jogszabályoknak, valamint a vonatkozó nemzetközi jogi szabályoknak van alávetve, hatósági eljárása során és hatósági döntéseinek tartalmával összefüggésben – a feladat elvégzésére vagy mulasztás pótlására irányuló utasítás kivételével – nem utasítható.
 
-(9) Az uniós polgár érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
+(9) Az uniós polgár és családtagja érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
 
 (10)
 
@@ -384,7 +410,16 @@ országok (térségek).
 
 20. § (1) A jogi személy konzuli védelmére e törvény rendelkezései megfelelően irányadók.
 
-(2) E törvény alkalmazásában közeli hozzátartozó, illetve hozzátartozó a Polgári Törvénykönyvről szóló törvényben ilyenként meghatározott személy.
+(2) E törvény alkalmazásában
+
+- a) hozzátartozó: a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.) ekként meghatározott személy;
+- b) képviselettel nem rendelkező magyar állampolgár: olyan magyar állampolgár, aki olyan harmadik országban tartózkodik, ahol Magyarország nem rendelkezik állandó jelleggel létrehozott diplomáciai vagy konzuli képviselettel – ideértve a tiszteletbeli konzuli tisztviselőt is –, illetve nem rendelkezik olyan diplomáciai vagy konzuli képviselettel – ideértve a tiszteletbeli konzuli tisztviselőt is –, amelynek az adott esetben ténylegesen módjában áll konzuli védelmet nyújtani;
+- c) képviselettel nem rendelkező magyar állampolgár hozzátartozója: harmadik állam uniós polgársággal nem rendelkező olyan állampolgára, aki a tagállami konzuli szolgálat által konzuli védelemben részesülő magyar állampolgárnak a Ptk. fogalommeghatározása szerinti hozzátartozója;
+- d) képviselettel nem rendelkező uniós polgár: a magyar állampolgár kivételével olyan európai uniós polgár, aki olyan harmadik országban tartózkodik, amelyben az állampolgársága szerinti tagállam nem rendelkezik állandó jelleggel létrehozott diplomáciai vagy konzuli képviselettel – ideértve a tiszteletbeli konzuli tisztviselőt is –, illetve nem rendelkezik olyan diplomáciai vagy konzuli képviselettel – ideértve a tiszteletbeli konzuli tisztviselőt is –, amelynek az adott esetben ténylegesen módjában áll konzuli védelmet nyújtani;
+- e) képviselettel nem rendelkező uniós polgár családtagja: harmadik állam uniós polgársággal nem rendelkező olyan állampolgára, akit az érintett tagállami konzuli hatóság a konzuli védelemben részesülő állampolgárának családtagjaként ismer el;
+- f) közeli hozzátartozó: a Ptk.-ban ekként meghatározott személy;
+- g) válsághelyzet: rendkívüli körülmények vagy események által előidézett olyan helyzet, amely jelentős számú magyar illetve uniós polgárt hátrányosan érint vagy érinthet, és szükségessé teszi a konzuli szolgálat haladéktalan fellépését a konzuli védelem biztosítása érdekében. Válsághelyzetnek minősül különösen az életet, testi épséget külföldön közvetlenül fenyegető természeti katasztrófa, háborús cselekmény vagy fegyveres összeütközés;
+- h) tagállami konzuli szolgálat: az Európai Unió más tagállamának külpolitikáért felelős minisztériuma vagy illetékes diplomáciai vagy konzuli képviselete.
 
 (3) Ahol jogszabály a magyar külképviselet számára hatósági jogkört állapít meg, azon a konzuli tisztviselőt kell érteni.
 
@@ -392,7 +427,7 @@ országok (térségek).
 
 21. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-- a) a konzuli szolgálatra, a konzuli védelemmel összefüggő egyes eljárásokra, az uniós polgárok védelmének ellátására vonatkozó részletes szabályokat az érintett miniszterekkel egyetértésben,
+- a) a konzuli szolgálatra, a konzuli védelemmel összefüggő egyes eljárásokra, az uniós polgárok és családtagjaik védelmének ellátására vonatkozó részletes szabályokat az érintett miniszterekkel egyetértésben,
 - b) az adópolitikáért felelős miniszterrel egyetértésben a konzuli díjak mértékét, illetőleg a konzuli díj, a megkeresett szerv vagy szolgáltató díja, valamint a hatósági költség beszedésének, a beszedés alóli mentességének, elengedésének, kezelésének, nyilvántartásának és visszafizetésének részletes szabályait,
 - c) a konzuli tisztviselő 14. § (1) bekezdése szerinti tevékenységének részletes szabályait az igazságügyért felelős miniszterrel egyetértésben.
 
@@ -400,11 +435,11 @@ országok (térségek).
 
 (2)
 
-#### 23. §
+23. § A tagállamok kormányainak a Tanács keretében ülésező képviselői által 1996. június 25-én elfogadott egy ideiglenes úti okmány létrehozásáról szóló 96/409/KKBP határozat I. mellékletében meghatározott ideiglenes úti okmányok 2024. december 12-ig használhatók fel.
 
 24. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Unió működéséről szóló Szerződés 20. cikk (2) bekezdés c) pontja és 23. cikke,
 - b) az Európai Közösségek tagállamai kormányainak a Tanács keretében ülésező képviselői által 1995. december 19-én elfogadott 95/553/EK határozata az Európai Unió polgárainak a diplomáciai és konzuli képviseletek által nyújtott védelméről,
-- c) a tagállamok kormányainak a Tanács keretében ülésező képviselői által 1996. június 25-én elfogadott 96/409/KKBP határozata egy ideiglenes úti okmány létrehozásáról,
+- c) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i 2019/997/EU tanácsi irányelv,
 - d) a harmadik országokban képviselettel nem rendelkező uniós polgárok konzuli védelmét elősegítő koordinációs és együttműködési intézkedésekről és a 95/553/EK határozat hatályon kívül helyezéséről szóló, 2015. április 20-i 2015/637/EU tanácsi irányelv.

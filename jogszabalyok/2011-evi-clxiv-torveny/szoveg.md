@@ -216,7 +216,7 @@ hívja össze.
 - a) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani vagy
 - b) aki betöltötte az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatárt.
 
-(5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a honvédelemért felelős miniszter – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
+(5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a Honvéd Vezérkar főnöke – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
 
 (6) Nemzetbiztonsági ellenőrzés alá eső munkakörre ügyészségi szolgálati viszony azzal a személlyel létesíthető, aki külön törvényben előírt módon hozzájárul nemzetbiztonsági ellenőrzéséhez. A hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.
 
@@ -1833,7 +1833,7 @@ cím adományozható.
 
 ### XVI. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYRA VONATKOZÓ EGYÉB RENDELKEZÉSEK
 
-151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők a honvédelmi illetményalapnak megfelelő összegű honvédelmi szolgálati díjra jogosultak.
+151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a honvédek jogállási kérdéseit szabályozó jogszabály rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők a honvédelmi illetményalapnak megfelelő összegre jogosultak.
 
 (2) A katonai ügyésznek és más hivatásos állományba tartozó ügyészségi alkalmazottnak a Magyar Honvédséggel fennálló szolgálati viszonya – a lemondása kivételével – akkor szüntethető meg, illetve a törvény erejénél fogva a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha ügyészségi szolgálati viszonya megszűnik.
 

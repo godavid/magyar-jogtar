@@ -147,205 +147,22 @@ rendelkezései szerint fizet felügyeleti díjat.
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-18. § (1) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. § (2) bekezdése a következő 38b. ponttal egészül ki:
+#### 18. §
 
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+#### 19. §
 
-„38b. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom,”
+#### 20. §
 
-(2) A Bszt. a következő 6/A. §-sal egészül ki:
+#### 21. §
 
-„6/A. § A befektetési vállalkozás az 5. § (1) bekezdésében és (2) bekezdés a) és b) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (3) bekezdésében foglaltaknak megfelelően.”
+#### 22. §
 
-(3) A Bszt. 183. § (2) bekezdése a következő g) ponttal egészül ki:
+#### 23. §
 
-(E törvény:)
+#### 24. §
 
-„g) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet.”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-19. § A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 1. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Külön törvény vagy az annak végrehajtására kiadott jogszabály a fogyasztók tájékoztatására vonatkozóan az e törvényben foglalt szabályokon túl részletesebb, illetve szigorúbb szabályokat írhat elő)
-
-„a) pénzügyi és kiegészítő pénzügyi szolgáltatás, biztosítási, biztosításközvetítői és biztosítási szaktanácsadói szolgáltatás, befektetési szolgáltatási tevékenység és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás, árutőzsdei szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, önkéntes kölcsönös biztosító pénztárak által nyújtott szolgáltatás, valamint a magán-nyugdíjpénztári szolgáltatás tekintetében,”
-
-20. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 76. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A kincstár feladatai ellátása érdekében jogosult)
-
-„b) elektronikus pénz – ide nem értve az elektronikuspénz-tokent – kibocsátására,”
-
-(2) Az Áht. 112. §-a helyébe a következő rendelkezés lép:
-
-„112. § (1) A 13. §, a 22–24. §, a 29. §, a 29/A. §, a 90. § (3) bekezdés f) pontja és a 103. § (4) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
-
-(2) Ez a törvény a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-21. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 39. § (1) bekezdése a következő t) ponttal egészül ki:
-
-[Ha törvény eltérően nem rendelkezik, az MNB a 4. § (9) bekezdésben meghatározott feladatkörében ellátja]
-
-„t) a kriptoeszközök piacáról szóló törvény”
-
-[hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.]
-
-(2) Az Mnbtv. 40. §-a a következő (41) bekezdéssel egészül ki:
-
-„(41) Az MNB a 39. § (1) bekezdés t) pontjában meghatározott feladatai során ellátja a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet végrehajtását.”
-
-(3) Az Mnbtv. 76. §-a a következő (26) és (27) bekezdéssel egészül ki:
-
-„(26) Az Európai Parlament és a Tanács (EU) 2023/1114 rendelet megsértése esetén a bírság mértéke:
-
-- a) természetes személy esetében
-  - aa) a 111. cikk (1) bekezdés a)–d) pontjában felsorolt rendelkezések megsértése esetén legfeljebb 259 644 000 forint,
-  - ab) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 370 920 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése, illetve 1 854 600 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezések megsértése esetén;
-- b) jogi személy esetében
-  - ba) a 111. cikk (1) bekezdés a)–d) pontjában felsorolt rendelkezések megsértése esetén legfeljebb 1 854 600 000 forint,
-  - bb) a 111. cikk (1) bekezdés a) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 3%-a,
-  - bc) a 111. cikk (1) bekezdés d) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 5%-a,
-  - bd) a 111. cikk (1) bekezdés b) és c) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 12,5%-a, vagy
-  - be) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 927 300 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 5 563 800 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 2%-a a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 15%-a a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén.
-
-(27) Ha a (26) bekezdés b) pontja szerinti jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény szerint összevont pénzügyi beszámolót kell készítenie, akkor a (26) bekezdés b) pontja szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.”
-
-(4) Az Mnbtv. 90. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az MNB piacfelügyeleti eljárást indít)
-
-„a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,”
-
-(5) Az Mnbtv. 186. § (5) bekezdése a következő 25. ponttal egészül ki:
-
-(A 40. §)
-
-„25. (41) bekezdése a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.)
-
-22. § (1) Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fsztv.) 3. § 7a. pontja helyébe a következő rendelkezés lép, valamint a § a következő 7b. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„7a. elektronikuspénz-token: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013 a /36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet]meghatározott elektronikuspénz-token,
-
-7b. érzékeny fizetési adatok: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben (a továbbiakban: Pft.) meghatározott érzékeny fizetési adatok,”
-
-(2) Az Fsztv. 3. §-a a következő 18a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„18a. jelentős elektronikuspénz-token: az (EU) 2023/1114 európai parlamenti és tanácsi rendelet alapján jelentősnek minősített elektronikuspénz-token,”
-
-(3) Az Fsztv. 47. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Jelentős elektronikuspénz-tokent kibocsátó elektronikuspénz-kibocsátó intézmény az (1)–(3) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 35. cikk (2), (3) és (5) bekezdésében, valamint 45. cikk (5) bekezdésében foglaltakat alkalmazza.”
-
-(4) Az Fsztv. 51. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Jelentős elektronikuspénz-tokent kibocsátó elektronikuspénz-kibocsátó intézmény a (3)–(6) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 36., 37. és 38. cikkében, valamint 45. cikk (1)–(4) bekezdésében foglaltakat alkalmazza.”
-
-(5) Az Fsztv. 66. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) Az elektronikuspénz-tokent kibocsátó az (1) – (8) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 49. cikkében és az 50. cikk (1) és (3) bekezdésében foglaltakat alkalmazza.”
-
-(6) Az Fsztv. 90. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Ez a törvény
-
-- a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
-- b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-23. § (1) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 3. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Pénzügyi szolgáltatás a következő tevékenységek üzletszerű végzése forintban, devizában vagy valutában:)
-
-„e) elektronikus pénz kibocsátása, ideértve az elektronikuspénz-tokenek kibocsátását is,”
-
-(2) A Hpt. 6. § (1) bekezdése a következő 16a. ponttal egészül ki:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„16a. elektronikuspénz-token: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] ekként meghatározott fogalom;”
-
-(3) A Hpt. 6. § (1) bekezdése a következő 68a. ponttal egészül ki:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„68a. kriptoeszköz-szolgáltatás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;”
-
-(4) A Hpt. 7. § (3) bekezdése a következő s) ponttal egészül ki:
-
-(A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:)
-
-„s) kriptoeszköz-szolgáltatást”
-
-(végezhet.)
-
-(5) A Hpt. 5. melléklete az 1. melléklet szerint módosul.
-
-24. § (1) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 4. § (1) bekezdése a következő 63a. ponttal egészül ki:
-
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában:)
-
-„63a. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet]meghatározott fogalom,”
-
-(2) A Kbftv. 6. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az ÁÉKBV-alapkezelő a (2) bekezdés a) és b) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (5) bekezdésében foglaltaknak megfelelően.”
-
-(3) A Kbftv. 7. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az ABAK a (3) bekezdés a), b) és d) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (5) bekezdésében foglaltaknak megfelelően.”
-
-(4) A Kbftv. 205. § (2) bekezdése a következő n) ponttal egészül ki:
-
-(E törvény)
-
-„n) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-25. § (1) A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény (a továbbiakban: Pkbtv.) 18. § (2) bekezdése a következő e) ponttal egészül ki:
-
-[Az (1) bekezdéstől eltérően – a foglalkoztatottak létszámától függetlenül – belső visszaélés-bejelentési rendszert hoz létre]
-
-„e) az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet hatálya alá tartozó foglalkoztató.”
-
-(2) A Pkbtv. 59. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ez a törvény
-
-- a) az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet 47. cikkének,
-- b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-(3) A Pkbtv.
-
-- a) 18. § (2) bekezdés c) pontjában a „foglalkoztató, és” szövegrész helyébe a „foglalkoztató,” szöveg,
-- b) 18. § (2) bekezdés d) pontjában az „üzemeltetője.” szövegrész helyébe az „üzemeltetője, és” szöveg
-
-lép.
-
-(4) A Pkbtv. 2. melléklete a 2. melléklet szerint módosul.
+#### 25. §
 
 ### 1. melléklet a 2024. évi VII. törvényhez
 
-A Hpt. 5. melléklet 3. pontja a következő e) alponttal egészül ki:
-
-(Ez a törvény)
-
-  - „e) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletnek”
-
-(a végrehajtásához szükséges rendelkezéseket állapít meg.)
-
 ### 2. melléklet a 2024. évi VII. törvényhez
-
-A Pkbtv. 2. melléklete a következő 2.22. ponttal egészül ki:
-
-- „2.22. Az Európai Parlament és a Tanács (EU) 2023/1114 rendelete (2023. május 31.) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról”

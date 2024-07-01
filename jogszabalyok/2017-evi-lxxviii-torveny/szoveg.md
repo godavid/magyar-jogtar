@@ -819,11 +819,11 @@ betekinthet, illetve abból adatot igényelhet.
 
 56. § (1) Az ügyvédi tevékenység szüneteltetésének a meghosszabbítását – ha annak e törvényben meghatározott feltételei fennállnak – a területi kamara határozott időre engedélyezi.
 
-(2) Ha az ügyvéd a tevékenységét a szüneteltetés engedélyezésekor megjelölt határidő lejárta előtt folytatni kívánja, ezt köteles az ügyvédi tevékenység folytatását legalább harminc nappal megelőzően a területi kamarának bejelenteni.
+(2) Ha az ügyvédi tevékenység gyakorlója a tevékenységét a szüneteltetés engedélyezésekor megjelölt határidő lejárta előtt folytatni kívánja, ezt köteles az ügyvédi tevékenység folytatását legalább harminc nappal megelőzően a területi kamarának bejelenteni.
 
 (3) Ha az ügyvédi tevékenység gyakorlója ügyvédi tevékenységét a munkaviszonya megszűnése miatt szünetelteti, az ügyvédi tevékenység az új, ügyvédi tevékenység gyakorlására irányuló munkaviszony létesítésének igazolását követő naptól folytatható. Ebben az esetben a szünetelés időtartamának nem kell elérnie a három hónapot.
 
-(4) A területi kamara az ügyvédi tevékenység folytatására való jogosultságot az ügyvédi tevékenység folytatását megelőzően hivatalból ellenőrzi.
+(4) A területi kamara az ügyvédi tevékenység folytatására való jogosultságot az ügyvédi tevékenység folytatását megelőzően – a (3) bekezdésben meghatározott esetben az új munkaviszony igazolását követően – hivatalból ellenőrzi.
 
 (5) A tevékenység folytatásának a tényét a területi kamara a nyilvántartásba hivatalból jegyzi be.
 
@@ -1320,7 +1320,7 @@ követően folytatható.
 
 (5) Ha az ügyvédi iroda jogutód nélküli törlését követően olyan vagyontárgy kerül elő, amelynek a törölt ügyvédi iroda volt a tulajdonosa, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti vagyonrendezési eljárást kell lefolytatni azzal, hogy a törölt cégre vonatkozó rendelkezéseket a törölt ügyvédi irodára kell alkalmazni.
 
-97. § (1) Az ügyvédi iroda taggyűlése akkor dönthet az ügyvédi iroda jogutód nélküli megszüntetéséről, ha
+97. § (1) Az ügyvédi iroda taggyűlése akkor dönthet az ügyvédi iroda jogutód nélküli megszüntetéséről, ha igazoltan
 
 - a) gondoskodott megbízásainak átadásáról vagy megszüntetéséről,
 - b) gondoskodott az ügyvédi iroda alkalmazásában álló alkalmazott ügyvéd, ügyvédjelölt, alkalmazott európai közösségi jogász, illetve ügyvédasszisztens munkaviszonyának a megszüntetéséről, valamint
@@ -1670,12 +1670,13 @@ terheli.
 (2) A fegyelmi tanács elnöke a fegyelmi eljárás kezdetétől számított tizenöt napon belül – az eljárás alá vont személy és a bejelentő egyidejű értesítése mellett – a következő intézkedéseket teheti:
 
 - a) a vizsgálat kiegészítését rendeli el, és az iratokat visszaküldi a fegyelmi biztosnak,
-- b) az ügy tárgyaláson kívüli elbírálását kezdeményezi, vagy
-- c) kitűzi a tárgyalást.
+- b) a fegyelmi eljárás felfüggesztését kezdeményezi,
+- c) az ügy tárgyaláson kívüli elbírálását kezdeményezi, vagy
+- d) kitűzi a tárgyalást.
 
 (3) Ha az elsőfokú fegyelmi tanács elnöke az előzetes vizsgálat kiegészítését rendeli el, a fegyelmi biztos soron kívül jár el, és a vizsgálat eredményéről haladéktalanul tájékoztatja a fegyelmi tanács elnökét.
 
-(4) A fegyelmi tanács százhúsz napon belül hoz határozatot. E határidőbe a fegyelmi tanács elnökének intézkedésére nyitva álló idő, az ügy tárgyaláson kívüli elbírálásának időtartama, az előzetes vizsgálat kiegészítésének ideje, valamint az eljárás felfüggesztésének időtartama nem számít be.
+(4) A fegyelmi tanács százhúsz napon belül hoz határozatot. E határidőbe a fegyelmi tanács elnökének intézkedésére nyitva álló idő, az ügy tárgyaláson kívüli elbírálásának időtartama, az előzetes vizsgálat kiegészítésének ideje, a kizárási indítvány elbírálásának időtartama, valamint az eljárás felfüggesztésének időtartama nem számít be.
 
 (5) Ha a fegyelmi tanács a (4) bekezdésben foglalt határidő kétszeresét túllépi, a fegyelmi vétség elkövetésének megállapításán túl kizárólag írásbeli megrovás fegyelmi büntetést alkalmazhat. Ebben az esetben ugyanazon fegyelmi vétség elkövetésével összefüggésben nem kezdeményezhető új fegyelmi eljárás.
 
@@ -1931,7 +1932,7 @@ való adatigénylés útján ellenőrzi.
 
 148. § (1) A területi kamarai tagság megszűnik, ha
 
-- a) a kamarai tag a kamarai tagságáról lemondott, a lemondás területi kamarával való közlésének a napján,
+- a) a kamarai tag a kamarai tagságáról lemondott, a lemondás területi kamarával való közlésének a napján, vagy a közlésben megjelölt napon, mely nem lehet a közlés napjánál korábbi,
 - b) a kamarai tagot jogerősen kizárták, vagy az ügyvédi tevékenységtől jogerősen eltiltották, az erről szóló határozat jogerőre emelkedésének a napján,
 - c) a kamarai tag átjegyzés folytán másik területi kamara tagjává vált, vagy formaváltás folytán az ügyvédi kamarai nyilvántartásba felvételt nyert, az erről szóló határozat véglegessé válása napján, vagy
 - d) a kamarai tag meghalt, a kamarai tag halála napján.
@@ -1954,7 +1955,7 @@ való adatigénylés útján ellenőrzi.
 
 (4) A területi kamara megszünteti annak a kamarai jogtanácsosnak a kamarai tagságát, aki a munkaviszonya megszűnésének napjától számított három hónapon belül nem létesített ügyvédi tevékenység végzésére irányuló munkaviszonyt, és ügyvédi tevékenységét nem szünetelteti.
 
-(5) A területi kamara megszünteti annak az ügyvédnek a kamarai tagságát, továbbá az ügyvédi kamarai nyilvántartásból törli azt az európai közösségi jogászt valamint egyéni ügyvédi irodát, amely a helyettesítésére kötött megállapodás megszűnésének napjától számított három hónapon belül nem gondoskodik újabb helyettesítési megállapodás megkötéséről.
+(5) A területi kamara megszünteti annak az ügyvédnek a kamarai tagságát, továbbá az ügyvédi kamarai nyilvántartásból törli azt az európai közösségi jogászt valamint egyszemélyes ügyvédi irodát, amely a helyettesítésére kötött megállapodás megszűnésének napjától számított három hónapon belül nem gondoskodik újabb helyettesítési megállapodás megkötéséről.
 
 (6) Akinek a területi kamara az ügyvédi kamarai tagságát az (1) bekezdés a) és b) pontjában szabályozott okból szünteti meg, a fizetési kötelezettségének teljesítését követően, de legkorábban a határozat véglegessé válásától számított egy év elteltével vehető fel tagként területi kamarába és vehető ügyvédi kamarai nyilvántartásba.
 
@@ -1966,7 +1967,7 @@ való adatigénylés útján ellenőrzi.
 
 (3) Ha a kamarai tag adószámát véglegesen törölték, a kamarai tagság azt követően szüntethető meg, hogy az állami adó- és vámhatóság, az ügyvéd irodájának fekvése szerint illetékes önkormányzati adóhatóság, továbbá a nyugdíjbiztosítási igazgatási szerv nyilatkozott arról, hogy a kamarai tag adóbevallási és nyugdíjbiztosítási adatszolgáltatási kötelezettségeinek eleget tett, adótartozása, véglegessé vált határozatban megállapított adófizetési kötelezettsége és más, adók módjára behajtandó köztartozása nincs, az ügyvédnél adóhatósági, vámhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság, illetve a vámhatóság nem kezdeményez.
 
-(4) A (3) bekezdés szerinti nyilatkozat megadásáról a területi kamara megkeresése alapján harminc napon belül kell dönteni, e határidő elmulasztása esetén a területi kamara a kamarai tag tagsági jogviszonyát megszünteti. A nyilatkozat beszerzéséig eltelt idő a döntés meghozatalára nyitva álló határidőbe nem számít bele.
+(4) A (3) bekezdés szerinti nyilatkozat megadásáról a területi kamara megkeresése alapján hatvan napon belül kell dönteni, e határidő elmulasztása esetén a területi kamara a kamarai tag tagsági jogviszonyát megszünteti. A nyilatkozat beszerzéséig eltelt idő a döntés meghozatalára nyitva álló határidőbe nem számít bele.
 
 151. § (1) Az ügyvédi kamarai tagság megszüntetését az ügyvédi kamarai nyilvántartásba a véglegessé válását követően haladéktalanul be kell jegyezni.
 

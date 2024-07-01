@@ -29,7 +29,11 @@ a következő törvényt alkotja:
 - a) 4. § a) és c) pontja szerinti egészségügyi dolgozó,
 - b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
-(4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – az (5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
+(4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – a (4a)–(5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
+
+(4a) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor az (1) bekezdés szerinti egészségügyi szolgáltatóhoz, aki az 55. életévét betöltötte, az egészségügyi szolgáltató a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha az egészségügyi szolgáltató nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, az egészségügyi szolgáltató gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig az egészségügyi szolgáltató vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(4b) A (4a) bekezdés szerinti esetben az (1) bekezdés szerinti egészségügyi szolgáltatónál az egészségügyi szolgáltató által ellátott feladatot az egészségügyi szolgáltatóhoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
 
 (5) A (4) bekezdés nem zárja ki szakképzési munkaszerződés megkötését, továbbá – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
 
@@ -37,9 +41,9 @@ a következő törvényt alkotja:
 
 (5b) Nem terjed ki e törvény hatálya a szociális intézményként működő egészségügyi szolgáltatókra, valamint a szociális intézményként működő egészségügyi szolgáltatónál foglalkoztatott személyekre.
 
-(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében e törvény rendelkezéseit kell alkalmazni.
+(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében a honvédek jogállási kérdéseit szabályozó jogszabály eltérő rendelkezése hiányában e törvény rendelkezéseit kell alkalmazni.
 
-(7) A honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató és foglalkoztatottjai a jogviszony sajátossága okán törvényben meghatározottak szerint tartoznak e törvény hatálya alá.
+(7) A honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató és foglalkoztatottjai a jogviszony sajátossága okán a honvédek jogállási kérdéseit szabályozó jogszabályban meghatározottak szerint tartoznak e törvény hatálya alá.
 
 (7a) A rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatók és foglalkoztatottjaik a jogviszony sajátossága okán nem tartoznak e törvény hatálya alá.
 
@@ -260,7 +264,7 @@ kell megállapítani.
 - k) a rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
 - l) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
 - m) e törvény hatálya alá nem tartozó magyarországi vagy külföldi egészségügyi szolgáltatónál vagy külföldi szakirányú végzettséggel munkavégzésre irányuló jogviszonyban
-- n) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban
+- n) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses szolgálati viszonyban
 - o) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó szervnél köznevelési foglalkoztatotti jogviszonyban, munkaviszonyban
 
 töltött időt.
@@ -349,7 +353,7 @@ alapilletményének megfelelő összeg.
 
 - a) az e törvény hatálya alá tartozó egészségügyi szolgáltatók között,
 - b) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szerv között,
-- c) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a honvédelmi alkalmazottak jogállásáról szóló törvény, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó személyt foglalkoztató szerv között.
+- c) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a honvédelmi alkalmazottak jogállásáról szóló törvény, vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó személyt foglalkoztató szerv között.
 
 (2) Az áthelyezés során meg kell állapodni az egészségügyi szolgálati jogviszonyban álló személy új munkakörében, munkahelyében, illetményében és az áthelyezés időpontjában.
 
@@ -570,6 +574,10 @@ gyógyító-megelőző tevékenységet végezhet.
 (2a) A (2) bekezdés szerinti ellátási érdeket a Kormány rendeletében határozza meg.
 
 (3) Az 1. § (4) bekezdésétől eltérően a 2023. június 1. napján állami fenntartású egészségügyi szolgáltatónál foglalkoztatott, in vitro fertilizációs eljárást végző személyekre az Mt. vonatkozik.
+
+(4) Ha a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 30. § (1b) és (1c) bekezdése szerinti feltételeknek meg nem felelő, 2023. július 7. és 2024. november 1. között CT-MRI vizsgálatokat végző egészségügyi szolgáltató (a továbbiakban: meg nem felelő szolgáltató) foglalkoztatottja a meg nem felelő szolgáltató e tevékenységének megszűnését követően, a megszűnéstől számított kettő hónapon belül állami fenntartású szolgáltatónál létesít egészségügyi szolgálati jogviszonyt, vagy a meg nem felelő szolgáltatótól munkáltatói jogutódlással kerül egészségügyi szolgálati jogviszonyba, abban az esetben az illetményét – a 8. § (3a) bekezdése és a 8. § (6) bekezdése alkalmazásával – úgy kell megállapítani, hogy elérje a meg nem felelő egészségügyi szolgáltatónál a foglalkoztatási jogviszonyának utolsó három hónapjában kifizetett bruttó munkabérének havi átlagát.
+
+(5) A (4) bekezdéstől eltérően a meg nem felelő szolgáltató foglalkoztatottja számára – a 8. §-tól eltérően – az illetmény az Mt. szerinti teljesítménybérként is megállapítható, ha a meg nem felelő szolgáltatónál a munkabére teljesítménybérként került megállapításra. Ebben az esetben a teljesítménybért, teljesítménykövetelményt és teljesítménybér-tényezőt úgy kell megállapítani, hogy az a foglalkoztatott számára a meg nem felelő egészségügyi szolgáltatónál való foglalkoztatási jogviszony utolsó hónapja szerinti teljesítménybérhez, teljesítménykövetelményhez és teljesítménybér-tényezőhöz képest nem lehet hátrányosabb.
 
 20/B. § (1) E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 8. § (6) bekezdését, 8. § (8) bekezdés b) pontját, 8. § (10) bekezdés b) pontját, 8. § (15) bekezdését és 1/A. mellékletét első alkalommal a 2024. március hónapra járó illetmények megállapításakor kell alkalmazni.
 

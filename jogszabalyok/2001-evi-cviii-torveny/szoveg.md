@@ -61,6 +61,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - 15. Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
 - 16. Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, amelyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybe vevők számára kívánják elérhetővé tenni; továbbá az 1. pont szerinti alkalmazásszolgáltató valamennyi olyan információs társadalommal összefüggő szolgáltatása, amely Magyarországon elérhető, függetlenül attól, hogy az alkalmazásszolgáltató Magyarországon letelepedett, vagy bármilyen formában engedélyezett-e, vagy attól, hogy a hozzáférés során akár a szolgáltató, akár a felhasználó egyértelműen azonosítható-e;
 - 17. Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
+- 17a. Online szálláshely-közvetítő: olyan vállalkozás, amely a szálláshely-szolgáltatók és a fogyasztók részére online nyújt kereskedelmi szolgáltatást azzal a céllal, hogy a szálláshely-szolgáltatók által nyújtott kínálatot a fogyasztók által támasztott szálláshely-kereslettel összekapcsolja, ami biztosítja a szálláshely-közvetítői tevékenység során az információnyújtás mellett a szálláshely-szolgáltatások értékesítését;
 - 18. Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
 - 19. Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
 - 20. Szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet;
@@ -277,6 +278,25 @@ terjedő összegű bírságot szab ki.
 
 (6) Az (EU) 2021/784 európai parlamenti és tanácsi rendelet 18. cikk (1) bekezdésében meghatározott jogsértések kapcsán figyelmeztetés alkalmazásának nincs helye.
 
+### Az online szálláshely-közvetítők tevékenységének szabályai
+
+12/C. § (1) E törvény alkalmazása során a szálláshely és a szálláshely-szolgáltatás alatt a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározottakat kell érteni. E törvény alkalmazásában szálláshely-szolgáltató a szálláshely-szolgáltatást végző magyarországi lakóhellyel rendelkező magánszemély és magyarországi székhelyű vállalkozás.
+
+(2) Az online szálláshely-közvetítő magyar nyelvű, élőhangos ügyintézést lehetővé tevő telefonos vagy emberi közreműködéssel működő, elektronikus eléréssel rendelkező ügyfélszolgálatot és panaszkezelési mechanizmust működtet, ha a szolgáltatása Magyarországon legalább három vármegye területére irányul.
+
+(3) A szálláshely-szolgáltatótól beérkezett panaszt az online szálláshely-közvetítő 30 napon belül érdemben megválaszolja.
+
+(4) Tilos az online szálláshely-közvetítőnek tisztességtelen szerződési feltételeket alkalmaznia a szálláshely-szolgáltatóval megkötött szerződésében. Az általános szerződési feltételként a szerződés részévé vált tisztességtelen szerződési feltétel semmis.
+
+(5) Tisztességtelen szerződési feltételnek minősül különösen
+
+- a) a szálláshely-szolgáltató magyarországi közigazgatási hatósághoz fordulása jogának kizárása;
+- b) olyan fizetési határidő megállapítása az online szálláshely-közvetítő számára, amely határozatlan idejű vagy a teljesítéstől számított 45 napnál hosszabb;
+- c) annak megtiltása vagy korlátozása, hogy a szálláshely-szolgáltató az online szálláshely-közvetítővel kötött szerződésben foglaltnál alacsonyabb áron kínálja a szálláshely-szolgáltatását;
+- d) kölcsönös fizetési kötelezettség esetén a szálláshely-szolgáltató számára fizetési biztosíték − különösen letét vagy más biztosíték, illetve késedelmi kamat − egyoldalú előírása;
+- e) annak előírása, hogy az online szálláshely-közvetítő és a szálláshely-szolgáltató közötti elszámolási vita esetén a vitatott összeget a szálláshely-szolgáltatónak a vita lezárását megelőzően meg kell fizetnie az online szálláshely-közvetítő részére;
+- f) az online szálláshely-közvetítő felelősségének kizárása a szálláshely-szolgáltatóval szemben a szerződéses kötelezettségének teljesítéséhez az online szálláshely-közvetítő által bevont harmadik személy magatartásáért.
+
 ### Értesítés a jogsértő információs társadalommal összefüggő szolgáltatásról
 
 13. § (1) Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát, továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – sérti (a továbbiakban: jogosult), teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével felhívhatja a 2. § 13. pont b)–d) alpontjában meghatározott szolgáltatót a jogát sértő tartalmú információ eltávolítására.
@@ -310,7 +330,7 @@ terjedő összegű bírságot szab ki.
 
 (12) A szolgáltató nem felelős az érintett információ eltávolításának vagy az ahhoz való hozzáférés nem biztosításának eredményes végrehajtásáért, amennyiben az eltávolítás vagy a hozzáférés nem biztosítása során a (4) és (9) bekezdésben meghatározottaknak megfelelően és jóhiszeműen járt el.
 
-(13) Az a kiskorú, akinek személyiségi jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – a megítélése szerint sérti (e § alkalmazásában a továbbiakban: kiskorú jogosult), vagy a cselekvőképtelen kiskorú jogosult esetében a törvényes képviselője (a továbbiakban: törvényes képviselő) teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével, vagy a kiskorú jogosult, illetve törvényes képviselője azonosítására alkalmas más módon, így különösen ajánlott postai küldeményben (e § alkalmazásában a továbbiakban együtt: értesítés) felhívhatja a 2. § 13. pont b)–d) alpontjában meghatározott szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Korlátozottan cselekvőképes kiskorú jogosult személyiségi jogát sértő tartalmú információ esetén a kiskorú jogosult törvényes képviselője is felhívhatja az értesítéssel a szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Az értesítésben meg kell jelölni annak indokait is, hogy a sérelmezett tartalom miért sérti a kiskorú jogosult személyiségi jogait.
+(13) Ha a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – a kiskorú személyiségi jogait sérti, a jogsérelemmel érintett kiskorú (e § alkalmazásában a továbbiakban: kiskorú jogosult) esetében a kiskorú jogosult törvényes képviselője, valamint a korlátozottan cselekvőképes kiskorú esetében a kiskorú jogosult is a személyazonosságának azonosítására alkalmas elektronikus úton (e § alkalmazásában a továbbiakban: értesítés) felhívhatja a 2. § 13. pont b)–d) alpontjában meghatározott szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Az értesítésben meg kell jelölni annak indokait is, hogy a sérelmezett tartalom miért sérti a kiskorú jogosult személyiségi jogait.
 
 (14) A (13) bekezdés szerinti jogsértés esetén az eljárást a (2)–(12) bekezdésben foglaltaknak megfelelően kell lefolytatni az alábbi eltérésekkel:
 
@@ -730,6 +750,10 @@ látja el.
 
 (3) Az együttműködési kötelezettség megszegésével összefüggő bírságot a Hatóság számlájára kell befizetni.
 
+16/I. § (1) A 12/C. § (2)–(3) bekezdésében foglaltak megsértése esetén a Hatóság Elnöke jár el az Iszt. 7/A. alcímében foglalt eljárási szabályok szerint.
+
+(2) A 12/C. § (4)–(5) bekezdésében foglaltak megsértése esetén a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 21. §-ának megsértése esetén irányadó rendelkezések szerint azzal, hogy a 12/C. § (4)–(5) bekezdése szerinti jogsértésre vonatkozóan a Tpvt. IX. Fejezete szerinti bejelentésre vonatkozó szabályok nem alkalmazandóak.
+
 17. § (1) Az informatikáért felelős miniszter köteles
 
 - a) tájékoztatni az Európai Bizottságot arról, hogy az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi kérdéseiről szóló 2000/31/EK európai parlamenti és tanácsi irányelv 9. cikk (2) bekezdés a)–d) pontjában meghatározott szerződések közül melyek nem köthetők meg érvényesen elektronikus úton (a továbbiakban: kivételek),
@@ -771,5 +795,8 @@ látja el.
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 16/F. § (2) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 16/F. § (2) bek.].
 - d) az online terrorista tartalom terjesztésével szembeni fellépésről szóló, 2021. április 29-i (EU) 2021/784 európai parlamenti és tanácsi rendelet.
+- e) az online közvetítő szolgáltatások üzleti felhasználói tekintetében alkalmazandó tisztességes és átlátható feltételek előmozdításáról szóló, 2019. június 20-i (EU) 2019/1150 európai parlamenti és tanácsi rendelet.
 
 (3) E törvény 2. és 3/B. §-ainak a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+(4) A 12/C. §-nak a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

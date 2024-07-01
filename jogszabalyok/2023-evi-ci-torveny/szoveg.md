@@ -208,7 +208,25 @@ szükséges időben és terjedelemben végezheti.
 
 #### 11. Szervezeti adatfelelősök
 
-#### 15. §
+15. § (1) A nemzeti adatvagyon hasznosítása és minőségének javítása érdekében a közhiteles nyilvántartást vezető, valamint a legalább 250 főt foglalkoztató közfeladatot ellátó szerveknél szervezeti adatfelelősöket kell kijelölni.
+
+(2) A szervezeti adatfelelős ellátja és szervezi a közfeladatot ellátó szerv
+
+- a) nemzeti adatvagyonnal kapcsolatos, e törvény végrehajtásával összefüggő feladatait;
+- b) adatainak felmérésével, rendszerezésével, rendezésével, tárolásával, tisztításával, összekapcsolásával és megosztásával kapcsolatos feladatait;
+- c) az a)–b) pontok szerinti feladatainak ellátásából eredő rendszeres jelentési és adatszolgáltatási feladatait.
+
+(3) Az (1) bekezdés hatálya alá nem tartozó közfeladatot ellátó szervek az e törvény szerinti adatszolgáltatási kötelezettségük teljesítésének segítése érdekében adattovábbítási kapcsolattartót jelölnek ki.
+
+(4) Az (1) bekezdés szerinti szervezeti adatfelelősök, valamint az adattovábbítási kapcsolattartók feladatellátásnak szakmai koordinációját és módszertani támogatását a NAVÜ végzi.
+
+(5) A (4) bekezdés szerinti személyek nevéről, szervezeti beosztásáról, postai és elektronikus levélcíméről, telefonszámáról, valamint ezen adatainak változásáról a közfeladatot ellátó szerv haladéktalanul értesíti a NAVÜ-t.
+
+(6) A NAVÜ az (5) bekezdés szerinti személyes adatokról nyilvántartást vezet azzal a céllal, hogy a szervezeti adatfelelősöket és az adattovábbítási kapcsolattartókat szakmai koordinációs feladatainak ellátása, valamint az egyes adathasznosítás-támogatási szolgáltatások iránti igények teljesítése során közvetlenül elérje.
+
+(7) A NAVÜ a (6) bekezdés szerinti nyilvántartásban csak a mindenkor aktuális kapcsolattartási adatokat kezeli, az előzményadatokat haladéktalanul törli.
+
+(8) A szervezeti adatfelelősök, valamint az adattovábbítási kapcsolattartók kijelölésének és feladatellátásának részletes szabályait a Kormány rendeletben határozza meg.
 
 ### IV. Fejezet — ADATHASZNOSÍTÁS-TÁMOGATÁSI SZOLGÁLTATÁSOK
 
@@ -293,7 +311,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 17. § (1) A NAVÜ közfeladatként, kizárólagos szolgáltatóként a nemzeti adatvagyon körébe tartozó, további felhasználásra, valamint a kormányzati döntéstámogatásra szolgáló nyilvántartásokról és adatkészletekről nyilvántartást (a továbbiakban: Nemzeti Adatvagyon Leltár) vezet.
 
-(2)
+(2) A közfeladatot ellátó szervek gondoskodnak az általuk kezelt további felhasználásra, illetve kormányzati döntéstámogatásra alkalmas adatokra és dokumentumokra vonatkozó metaadatoknak a Nemzeti Adatvagyon Leltár számára történő átadásáról és folyamatos aktualizálásáról a NAVÜ által biztosított felületen keresztül.
 
 (3) A közfeladatot ellátó szerv a Nemzeti Adatvagyon Leltárban rögzíti az általa kezelt adatok hasznosításának korlátozásait.
 
@@ -307,7 +325,9 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 (5) A NAVÜ a Nemzeti Adatvagyon Leltár tartalmában bekövetkező adatváltozásokat a személyes adatok kivételével legalább öt évig nyilvántartja és megőrzi.
 
-#### 18. §
+18. § (1) A Nemzeti Adatvagyon Leltárban nyilvántartott adatok alapján a NAVÜ – a (2) bekezdésben felsorolt, valamint a további felhasználásra az adatkezelő szerv által nem engedélyezett adatok kivételével – a Nemzeti Közadatportál Közadatkataszter felületén közzéteszi és folyamatosan aktualizálja a további felhasználási célra rendelkezésre bocsátható adatok metaadatait.
+
+(2) A Nemzeti Adatvagyon Leltárból a Közadatkataszter felületnek nem adható át és nem tehető közzé olyan metaadat, amelynek nyilvánosságra kerülése az információbiztonságot veszélyezteti.
 
 #### 13. Egyablakos tájékoztatási és kapcsolattartási szolgáltatás
 
@@ -323,15 +343,17 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 (4) A Nemzeti Közadatportál által nyújtott egyes szolgáltatások igénybevétele és az egyes adatkészletekhez való hozzáférés információbiztonsági okokból elektronikus azonosításhoz köthető. A szolgáltató jogosult a Nemzeti Közadatportált használó természetes személyek személyes adatainak – nevének, felhasználói nevének, jelszavának, egyedi felhasználói azonosítójának, szervezeti beosztásának, postai és elektronikus levélcímének, telefonszámának – kezelésére. A regisztrációs nyilvántartást vezető szolgáltató a kezelt személyes adatokat a regisztráció megszüntetésére vonatkozó bejelentést követő 8 napon belül törli és az érintett hozzáférési lehetőségét megszünteti. Az elektronikus azonosítás feltételeit és részletes szabályait a Kormány rendeletben állapítja meg.
 
-(5)
+(5) A Nemzeti Közadatportálon keresztül benyújtott igényt, egyéb megkeresést vagy kérdést a Nemzeti Közadatportál automatikusan az illetékes közfeladatot ellátó szervnek továbbítja. Ha a továbbítás bármely ok miatt nem lehetséges, a NAVÜ a megkeresést vagy igényt a kijelölt – adatkormányzási rendelet szerinti – illetékes szerv részére továbbítja.
 
 (6) A közfeladatot ellátó szerv haladéktalanul köteles tájékoztatni a NAVÜ-t, amennyiben valamely adathasznosítás-támogatási szolgáltatás nyújtására közreműködőt vesz igénybe.
 
-#### 20. §
+20. § (1) A Nemzeti Közadatportál külön felületet biztosít a közfeladatot ellátó szervek, valamint a közreműködők részére (a továbbiakban: Ügyintézői Portál).
+
+(2) Az Ügyintézői Portál azonosításhoz kötött szolgáltatást nyújt, és szolgáltatásai kizárólag előzetes regisztrációval vehetők igénybe. A regisztrációhoz szükséges azonosítást és jogosultságkezelést a NAVÜ végzi, amely ennek keretében jogosult az Ügyintézői Portált használó természetes személyek személyes adatainak – nevének, felhasználói nevének, jelszavának, egyedi felhasználói azonosítójának, szervezeti beosztásának, postai és elektronikus levélcímének, telefonszámának – kezelésére. A regisztrációs nyilvántartást vezető szolgáltató a kezelt személyes adatokat a regisztráció megszüntetésére vonatkozó bejelentést követő 8 napon belül törli és az érintett hozzáférési lehetőségét megszünteti.
 
 #### 14. A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat egyablakos közzététele szolgáltatás
 
-21. § (1)
+21. § (1) A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat egyablakos közzététele szolgáltatást a NAVÜ a Nemzeti Közadatportálon keresztül, közfeladatként nyújtja. Ennek keretében a közfeladatot ellátó szervek – az Ügyintézői Portál szolgáltatásait igénybe véve – nyílt hozzáférésű közadataikat a további felhasználás előmozdítása érdekében a Nemzeti Közadatportálon is közzéteszik.
 
 (2) Ahol jogszabály a nemzeti adatvagyon körén belül személyes adatok és védett adatok körébe nem tartozó adat díjmentes és bárki számára további felhasználási célú hozzáférhetővé tételét írja elő, a bárki számára elérhető elektronikus hozzáférést az (1) bekezdés szerinti szolgáltatás keretében kell biztosítani.
 
@@ -1043,7 +1065,7 @@ eljárásban.
 
 (6) Az (5) bekezdésben meghatározott egyedi felmentés megadható az időszakosan jelentkező adatfeldolgozási feladatok hatékony ellátásának biztosítása érdekében is, ha azok határidőben való ellátása a rendelkezésre álló erőforrások mellett más módon nem lehetséges. Az egyedi felmentés határozott időre adható meg. Az egyedi felmentés megadását megelőzően a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a tervezett egyedi felmentés indokáról, tartalmáról és időtartamáról a Kormányt tájékoztatja.
 
-94. § A 93. § (3) bekezdése szerint meghatározott nyilvántartásokhoz kapcsolódó adatfeldolgozási műveletet az adatfeldolgozó kizárólag Magyarország területén végezhet.
+#### 94. §
 
 ### XIII. Fejezet — A STATISZTIKAI ADATELEMZŐ SZOLGÁLTATÁS, EGYEDI STATISZTIKAI ADAT BEVONÁSÁNAK KÜLÖNÖS SZABÁLYAI
 

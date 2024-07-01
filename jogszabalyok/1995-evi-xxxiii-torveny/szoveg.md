@@ -2573,7 +2573,7 @@ a szabadalmi fenntartási díjnak az egynegyedét köteles megfizetni.
 
 (3) Ha a megfizetés időpontjában a formatervezési mintaoltalom jogosultja kizárólag maga a szerző, a mintaoltalom megújítására irányuló kérelem díjának a felét köteles megfizetni.
 
-(4) Az (1)–(3) bekezdésekben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
+(4) Az (1) és (1a), valamint az (1c)–(3) bekezdésben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, továbbá az (1a) bekezdés b)–d) pontja és (2a) bekezdés b)–d) pontja szerinti jogosultakat, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
 
 (5) Az (1)–(4) bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló, nemesítő, illetve szerző esetén – a feltalálók, a nemesítők, illetve a szerzők valamelyike az oltalmi igényéről, illetve az oltalomról feltalálótársa, nemesítőtársa, illetve szerzőtársa javára lemondott, továbbá, ha a feltalálók, a nemesítők, illetve a szerzők bármelyike helyébe az örököse lép.
 

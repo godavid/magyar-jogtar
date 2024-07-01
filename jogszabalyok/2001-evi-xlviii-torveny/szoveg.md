@@ -419,7 +419,7 @@ szabályai
 
 (3) A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a bejelentési kérelemnek tartalmaznia kell a szerző nevét és lakcímét, vagy utalást arra, hogy a szerző nevének és lakcímének a mintaoltalmi iratokon való feltüntetése mellőzését kéri, és hogy a szerző a nevét és lakcímét külön lapon adja meg. A mintaoltalmi bejelentést egyebekben a mintaoltalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes alaki követelményeknek megfelelően kell benyújtani.
 
-(4) A mintaoltalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(4) A mintaoltalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő egy hónapon belül kell leróni.
 
 (5) A bejelentő a mintaoltalom megadásáig – a 27. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a mintaoltalmi bejelentést.
 
@@ -698,7 +698,7 @@ szabályai
 
 (2)
 
-(3) A Szellemi Tulajdon Nemzeti Hivatala elvégzi a nemzetközi ipari mintaoltalmi bejelentés érdemi vizsgálatát. Az érdemi vizsgálat arra terjed ki, hogy a minta kielégíti-e az 1–5. §-ban meghatározott követelményeket, és a 6–8. § alapján nincs-e kizárva az oltalomból.
+(3) A Szellemi Tulajdon Nemzeti Hivatala elvégzi a nemzetközi ipari mintaoltalmi bejelentés érdemi vizsgálatát. Az érdemi vizsgálat arra terjed ki, hogy a minta kielégíti-e az 1. § (2)–(4) bekezdésében meghatározott követelményeket, és a 7. és 8. § alapján nincs-e kizárva az oltalomból.
 
 (4) Ha a nemzetközi ipari mintaoltalmi bejelentés – részben vagy egészben – nem felel meg a (3) bekezdés alapján vizsgált követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala erről a Megállapodásban meghatározott időponttól számított hat hónapon belül a Nemzetközi Irodát értesíti.
 
@@ -846,6 +846,8 @@ szabályai
 67/D. § (1) E törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel (a továbbiakban: Mód2.tv.) módosított 11. §-át, 49. § (2) bekezdését, 51. § (4) bekezdését, 54. § (4) bekezdését, 57. § (4) bekezdését, 59. § (3) bekezdését, valamint a megállapított 33. § (1c) és (4) bekezdését, 33/A. §-át, 47. § (2) bekezdését, 58/A. § (2) bekezdését, 63. § (2) bekezdését az e § hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) E törvénynek a Mód2.tv.-vel hatályon kívül helyezett 44. §-át az e § hatálybalépését követően indult eljárásokban nem kell alkalmazni.
+
+67/E. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel módosított 36. § (4) bekezdését az e rendelkezés hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 ### Felhatalmazás
 

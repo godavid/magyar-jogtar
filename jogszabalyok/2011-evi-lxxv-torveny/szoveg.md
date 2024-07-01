@@ -31,7 +31,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
   - d) a közigazgatási szervnél foglalkoztatott munkavállaló,
   - e) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó szakmai vezető,
   - f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány tagja,
-  - g) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állomány tagja,
+  - g) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos és szerződéses állomány tagja,
   - h) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
   - i) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó alkalmazott,
   - j) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,

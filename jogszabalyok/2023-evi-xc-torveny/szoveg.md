@@ -438,7 +438,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 (2) Foglalkoztatási célú tartózkodási engedélyt az a vendégmunkás is kaphat, akinek magyarországi foglalkoztatására belföldi foglalkoztatóval kötött megállapodás teljesítése érdekében harmadik országban letelepedett munkáltatóval fennálló munkaviszonya alapján kerül sor.
 
-(3) A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter – a Védelmi Tanács jóváhagyásával kiadott – rendeletében meghatározhatja, hogy az (1) és (2) bekezdésben foglaltakon túl foglalkoztatási célú tartózkodási engedélyt meghatározott harmadik ország állampolgára kaphat.
+(3) A Kormány rendeletben meghatározhatja, hogy az (1) és (2) bekezdésben foglaltakon túl foglalkoztatási célú tartózkodási engedélyt meghatározott harmadik ország állampolgára kaphat.
 
 (4) Az (1) és (2) bekezdésben foglaltakon túl a foglalkoztatási célú tartózkodási engedély kiadásával a Magyarországon kiadott vendégmunkás-tartózkodási engedélyek és foglalkoztatási célú tartózkodási engedélyek száma nem haladhatja meg a foglalkoztatáspolitikáért felelős miniszter által évente meghatározott engedélyszámot.
 
@@ -474,7 +474,7 @@ a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti b
 
 - a) akinek a tartózkodási célja, hogy foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt Magyarország területén tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is,
 - b) akinek a foglalkoztatója nyilvántartásba vett kedvezményes foglalkoztató vagy nyilvántartásba vett minősített kölcsönbeadó,
-- c) aki a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter – a Védelmi Tanács jóváhagyásával kiadott – rendeletében meghatározott harmadik ország állampolgára, és
+- c) aki a Kormány rendeletében meghatározott harmadik ország állampolgára, és
 - d) akinek a munkavállalása olyan foglalkozásban történik, amelyet a foglalkoztatáspolitikáért felelős miniszter közleményében nem zár ki.
 
 (2) Kedvezményes foglalkoztatónak minősül:
@@ -776,15 +776,16 @@ kérelmet nyújthat be.
 
 #### 26. A Nemzeti Kártya
 
-50. § (1) A szerb és az ukrán állampolgár Nemzeti Kártyát kaphat, ha tartózkodási célja, hogy a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
+50. § Nemzeti Kártyát az a Kormány rendeletében meghatározott harmadik ország állampolgára kaphat,
 
-(2) Nemzeti Kártyát kaphat az (1) bekezdésben foglaltakon túl az a szerb és ukrán állampolgár is, aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként az e tevékenységi körbe tartozó tevékenységén túl tényleges munkát végez.
+- a) akinek tartózkodási célja, hogy a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is, vagy
+- b) aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként az e tevékenységi körbe tartozó tevékenységén túl tényleges munkát végez.
 
 51. § (1) A Nemzeti Kártya száznyolcvan napon belül kilencven napot meghaladó, de legfeljebb kettő év határozott időtartamú tartózkodásra jogosít Magyarország területén.
 
 (2) A Nemzeti Kártya alkalmanként legfeljebb három évvel meghosszabbítható.
 
-52. § Ha a szerb és az ukrán állampolgár más foglalkoztatóval kíván foglalkoztatásra irányuló jogviszonyt létesíteni, Nemzeti Kártya meghosszabbítása iránti kérelmet kell előterjesztenie.
+52. § Ha a Nemzeti Kártyával rendelkező harmadik országbeli állampolgár más foglalkoztatóval kíván foglalkoztatásra irányuló jogviszonyt létesíteni, Nemzeti Kártya meghosszabbítása iránti kérelmet kell előterjesztenie.
 
 53. § A Nemzeti Kártya vonatkozásában a 33. § rendelkezéseit alkalmazni kell.
 
@@ -4065,6 +4066,10 @@ kapcsolatos részletszabályokat.
 
 rendeletben állapítsa meg.
 
+(12) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
+
+(13) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható Nemzeti Kártyával.
+
 284. § (1) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel és az adópolitikáért felelő miniszterrel egyetértésben – rendeletben szabályozza:
 
 - a) a harmadik országbeli állampolgárok be- és kiutazásával, valamint tartózkodásával, továbbá a harmadik országbeli állampolgárok részére kiállításra kerülő úti okmányok kiadásával kapcsolatos eljárások díját;
@@ -4097,7 +4102,7 @@ rendeletben állapítsa meg.
 - a) a Magyarországon évente összesen kiadható foglalkoztatási célú tartózkodási engedélyek és vendégmunkás-tartózkodási engedélyek számát;
 - b) a vendégmunkások munkaviszonyával kapcsolatos kötelezettségét megsértő munkáltatóval, illetve fogadó szervezettel szemben alkalmazható, további vendégmunkás alkalmazásától való eltiltás eljárási, illetve részletszabályait.
 
-(12) Felhatalmazást kap a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
+(12)
 
 #### 154. Hatályba léptető rendelkezések
 

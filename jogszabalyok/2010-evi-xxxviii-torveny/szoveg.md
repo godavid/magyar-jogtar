@@ -1240,21 +1240,21 @@ végzés ellen.
 
 116. § (1) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából az örökhagyó alábbi személyes adatait kezelheti:
 
-- a) természetes személyazonosító adatai,
+- a) természetes személyazonosító adatai, személyi azonosítója,
 - b) utolsó belföldi lakóhelye és tartózkodási helye,
-- c) állampolgársága,
+- c) állampolgársága, neme,
 - d) halálesete bekövetkezésének helye, ideje,
-- e) családi állapota,
-- f) a 28. §-ában felsorolt foglalkozásokra vonatkozó adat,
+- e) családi állapota, házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye,
+- f) a 28. §-ban felsorolt foglalkozásokra vonatkozó adat,
 - g) gondnokság alatt állásának ténye.
 
-(2) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt természetes személy alábbi személyes adatait kezelheti:
+(2) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt és a kieséses örökös természetes személy alábbi személyes adatait kezelheti:
 
-- a) természetes személyazonosító adatai, az örökösként érdekelt esetén személyi azonosítója és állampolgársága is,
+- a) természetes személyazonosító adatai, személyi azonosítója, az öröklésben érdekelt és a kieséses örökös esetén neme és családi állapota, továbbá az öröklésben érdekelt esetén állampolgársága is,
 - b) lakóhelye és tartózkodási helye,
 - c) az általa önként közölt sürgős elérhetősége (telefon, fax, e-mail),
 - d) az eljárásban való érdekeltségét megalapozó ok (végintézkedésen, hozzátartozói kapcsolaton vagy egyéb jogviszonyon alapul),
-- e) a törvényes képviselő a), b) és c) pontjában meghatározott adatai, ha az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.
+- e) a törvényes képviselő a), b) és c) pontban meghatározott adatai, ha az öröklésben érdekelt vagy a kieséses örökös méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.
 
 (3) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt jogalany képviselőjének (ha képviseleti jogosultságát igazolta) nevét, címét és az általa önként közölt sürgős elérhetőségét (telefon, fax, e-mail) kezelheti.
 

@@ -69,12 +69,12 @@ a cselekvő fogyasztóvédelem érdekében szükséges egyes törvények módos�
 26. § Az Mttv.
 
 - a)
-- b)
-- c)
+- b) 176. § (1) bekezdés a) pontjában a „vagy 10. § (1)–(3) bekezdését” szövegrész helyébe a „vagy 10. § (1)–(3) bekezdését, vagy 11. §-át,” szöveg,
+- c) 178. § (1) bekezdés nyitó szövegrészében az „a 187. § (3) bekezdés b) pont” szövegrész helyébe „a 187. § (3) bekezdés b) pontja” szöveg
 
 lép.
 
-#### 27. §
+27. § Hatályát veszti az Mttv. 9. § (1) bekezdésében a „lineáris” szövegrész.
 
 #### 8. A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény módosítása
 

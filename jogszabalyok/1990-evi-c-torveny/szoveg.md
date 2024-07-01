@@ -1125,7 +1125,7 @@ származó ellenérték (bevétel);
   - d) az Állami Számvevőszékről szóló törvény szerinti szolgálati jogviszony,
   - e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény szerinti ügyész szolgálati jogviszony,
   - f) a közszolgálati tisztviselőkről szóló törvény szerinti jogviszony,
-  - g) a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszony,
+  - g) a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati jogviszony,
   - h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony,
   - i) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony,
   - j) a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony,

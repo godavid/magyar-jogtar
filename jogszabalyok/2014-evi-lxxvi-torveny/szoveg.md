@@ -257,6 +257,8 @@ nyújtható.
 
 (3) Az NKFI Alap kezelésével kapcsolatos költségek kiadási előirányzatának kezelése az előirányzaton belül elkülönítetten történik.
 
+(4) Az NKFI Alap terhére meghirdetett pályázati felhívásokra benyújtott pályázatok és azok megvalósításának értékelése során – az NKFI Alap kezelésével kapcsolatos költségeken felül – az adott pályázati felhívás keretösszegének legfeljebb 1%-a az értékelés költségeire fordítható.
+
 #### 9. Az innovációs járulék
 
 15. § (1) A belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya alá tartozó gazdasági társaság és a külföldi székhelyű vállalkozásnak a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) szerinti telephelye (ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is) innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.
@@ -545,7 +547,7 @@ nyújtható.
 
 (4) A HUN-REN-hez tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
 
-(5) A Központi Statisztikai Hivatal a tárgyév vonatkozásában, a tárgyévet követő év június 30. napjáig átadja a Kormány által kijelölt szerv részére a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatos elemi adatokat.
+(5) A Központi Statisztikai Hivatal adatot szolgáltat a Kormány által kijelölt szerv részére a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatban. Az adatszolgáltatásra a hivatalos statisztikáról szóló törvény rendelkezéseit kell alkalmazni.
 
 34/A. § (1) A költségvetési kutatóhely, valamint a felsőoktatási intézmény által kutató, illetve oktató munkakörben foglalkoztatott hasznosító vállalkozással, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társasággal – a kutatóhely, valamint a felsőoktatási intézmény átláthatósági szabályzatában foglaltakkal összhangban – munkavégzésre irányuló további jogviszonyt létesíthet.
 
@@ -606,9 +608,9 @@ a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 
 (4) Ha az (1) és a (2) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv nem rendelkezik, akkor a megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
 
-### VI/A. Fejezet — A HUN-REN
+### VI/A. Fejezet — A Magyar Kutatási Hálózat (HUN-REN)
 
-#### 13/A. A Magyar Kutatási Hálózat (HUN-REN) szervezete
+#### 13/A. A HUN-REN szervezete
 
 42/A. § A HUN-REN a HUN-REN Központból, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
 
@@ -660,7 +662,7 @@ a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 - 12. jóváhagyja a HUN-REN Központ és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
 - 13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolók koncepcióját;
 - 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
-- 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
+- 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg; valamint
 - 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
 
 (4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2. és 10. pontja szerinti döntésekhez.

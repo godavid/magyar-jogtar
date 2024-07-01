@@ -64,6 +64,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - q) az elektronikus ügyintézést igénybe vevő személyek személyazonosság-ellenőrzésének támogatása az ügyfélazonosítás keretében,
 - r) az elektronikus ügyintézés során a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárásokban a személyazonosság ellenőrzésének támogatása.
 - s) az egészségügyről szóló 1997. évi CLIV. törvény szerinti arcképes azonosításra épülő telemedicina szolgáltatás esetében a beteg azonosítása.
+- u) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. §-a szerinti személyazonosság-ellenőrzésének támogatása,
 
 (4) A jogosultsági nyilvántartás vezetésének a célja az igénybevételre jogosult szerv, a hozzáférésre felhatalmazott személy, valamint a központi szervnek az arcképelemző rendszer működtetésére jogosult tagja arckép profil nyilvántartáshoz való hozzáféréséhez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
 
@@ -258,6 +259,8 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (4) A 3. § (3) bekezdés s) pontjában meghatározott célból jogosult az e-közigazgatásért felelős miniszter az általa rögzített arcképmás felhasználásával a beteg személyazonossága ellenőrzésének támogatása érdekében a 12/B. § szerinti automatizált összehasonlítást igénybe venni.
 
+(5) A 3. § (3) bekezdés u) pontjában meghatározott célból jogosult a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális állampolgárság szolgáltató a felhasználói profil aktiválása során a személyazonosság-ellenőrzésének támogatása érdekében a 12/B. § szerinti automatizált összehasonlítást igénybe venni.
+
 ### III. Fejezet — ADATOK TOVÁBBÍTÁSA AZ IGÉNYBEVÉTELRE JOGOSULT SZERV RÉSZÉRE
 
 #### 7. Arcképelemző tevékenység igénylése a nyilvántartásból
@@ -346,7 +349,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (2) Az elektronikus azonosítási szolgáltatást végző szerv – ha törvény alapján a természetes személyazonosító adatok kezelésére jogosult – az ügyfél természetes személyazonosító adatai közlésével a személyiadat- és lakcímnyilvántartást vezető szervtől kérheti, hogy az általa vezetett nyilvántartásból a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásához tartozó technikai kapcsoló számot részére továbbítsa.
 
-(3) A központi szerv az elektronikus azonosítási szolgáltatást végző szerv által a 3. § (3) bekezdés q) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Ha az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az elektronikus azonosítási szolgáltatást végző szervet haladéktalanul tájékoztatja.
+(3) A központi szerv az elektronikus azonosítási szolgáltatást végző szerv által a 3. § (3) bekezdés q) és u) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Ha az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az elektronikus azonosítási szolgáltatást végző szervet haladéktalanul tájékoztatja.
 
 (4) A központi szerv az általa képzett arckép profilt az arcképelemző rendszer igénybevételével összehasonlítja a részére az elektronikus azonosítási szolgáltatást végző szerv által továbbított technikai kapcsoló számhoz tartozó arckép profillal.
 

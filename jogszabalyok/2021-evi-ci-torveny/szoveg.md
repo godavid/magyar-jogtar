@@ -102,7 +102,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 6. § (1) Az Országgyűlés az Nvtv. 11. § (5) bekezdése alapján az állami tulajdonban álló Piliscsaba belterület 1602/4 és a Piliscsaba belterület 1602/4/A helyrajzi számon felvett, természetben 2081 Piliscsaba, Fő út 2/A. szám alatt található ingatlanok vagyonkezelőjeként a Iosephinum Fejlesztéséért Alapítványt (nyilvántartási szám: 13-01-0002796, AM2796; székhely: 2081 Piliscsaba, Fő út 2/A., ezen alcím alkalmazásában a továbbiakban: Iosephinum Alapítvány vagy vagyonkezelő) jelöli ki.
 
-(2) A vagyonkezelői jog nem terjed ki az ingatlan-nyilvántartás szerinti Piliscsaba belterület 1602/4 helyrajzi számú ingatlanon felépített archivális raktár és a hozzátartozó ingatlanrész 3. mellékletben meghatározott területére, amelyet földhasználati jogon alapuló egyéb önálló ingatlanként az Országos Széchényi Könyvtár vagyonkezelésébe kell adni.
+(2) A vagyonkezelői jog nem terjed ki az ingatlan-nyilvántartás szerinti Piliscsaba belterület 1602/4 helyrajzi számú ingatlanon felépített archivális raktár és a hozzátartozó ingatlanrész 3. mellékletben meghatározott területére, amelyet földhasználati jogon alapuló egyéb önálló ingatlanként a Magyar Nemzeti Múzeum Közgyűjteményi Központ vagyonkezelésébe kell adni.
 
 (3) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik, a vagyonkezelőt vagyonkezelési díjfizetési kötelezettség nem terheli.
 

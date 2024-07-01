@@ -18,7 +18,9 @@ a közalkalmazottak jogállásáról
 
 (6) E törvény alkalmazásában fenntartó a munkáltató alapító szerve vagy az a szerv, amelyre e jogot átruházták, illetve a jogszabály által kijelölt szerv vagy személy. A munkáltató fenntartójának kell tekinteni az önkormányzati társulást és azt az önkormányzatot is, amely megállapodás alapján gyakorolja a fenntartói jogokat.
 
-(7)
+(7) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor az (1) bekezdés szerinti költségvetési szervhez, aki az 55. életévét betöltötte, a költségvetési szerv a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a költségvetési szerv nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a költségvetési szerv gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a költségvetési szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(8) A (7) bekezdés szerinti esetben az (1) bekezdés szerinti költségvetési szervnél a költségvetési szerv feladatkörébe tartozó feladatot a költségvetési szervhez vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
 
 ### A közalkalmazotti jogviszonyra vonatkozó szabályok
 
@@ -42,7 +44,7 @@ a közalkalmazottak jogállásáról
 
 ### Az országos, ágazati és területi érdekegyeztetés
 
-4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a pedagógusok új életpályájáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény és a honvédek jogállásáról szóló törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
+4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a pedagógusok új életpályájáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény és a honvédek jogállásáról szóló kormányrendelet által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
 
 (2) Az OKÉT-ban a Kormány – az alapszabályban meghatározott – országos szakszervezeti szövetségek és országos önkormányzati érdekképviseleti szervezetek képviselőivel egyeztet.
 
@@ -906,7 +908,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 44/A. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaszerződés teljesítésére vonatkozó rendelkezései (VIII. fejezet) közül az 57. § nem alkalmazható.
 
-(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, a kormányzati igazgatásról szóló törvény vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
+(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, a kormányzati igazgatásról szóló törvény vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó munkáltatónál végez munkát.
 
 (2a) Az Mt. 53. § (2) bekezdésétől eltérően a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1)–(3) bekezdése szerinti egészségügyi felsőoktatási intézmény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés a) és c) pontja, valamint (2) és (3) bekezdése szerinti egészségügyi szolgáltatók közötti viszonyban az Mt. 53. § (1) bekezdése szerinti foglalkoztatás időtartama naptári évenként a 220 beosztás szerinti munkanapot vagy 1760 órát nem haladhatja meg.
 

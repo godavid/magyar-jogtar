@@ -325,7 +325,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - c) a jogosult belföldi lakó , és/vagy tartózkodási helyét;
 - d) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 - e) a fogyatékossági támogatás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
-- f) a felülvizsgálat időpontját;
+- f) a nem végleges állapotú személyek estében a felülvizsgálat időpontját,
 - g) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám).
 
 (1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés e) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.

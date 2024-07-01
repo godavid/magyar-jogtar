@@ -1020,6 +1020,22 @@ kiadásáról.
 
 (3) A környezetvédelmi hatóság az (1) bekezdés szerinti határozatát – annak véglegessé válására tekintet nélkül – közhírré teszi.
 
+71/A. § (1) A környezetvédelmi hatóság – kormányrendeletben megjelölt ügyekben – meghozott határozatával szemben fellebbezésnek van helye.
+
+(2) A fellebbezési eljárás ügyintézési határideje megegyezik az elsőfokú eljárás ügyintézési határidejével.
+
+(3) A közigazgatási perben nincs helye megváltoztatásnak.
+
+71/B. § (1) A 71/A. § szerinti ügyekben kormányrendelet másodfokú hatóságként a miniszter által vezetett minisztériumban működő helyettes államtitkárt is kijelölheti.
+
+(2) Az (1) bekezdés szerinti helyettes államtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 40. § (4) bekezdés c) pontja szerinti hatáskörök és környezetvédelmi igazgatási feladatok gyakorlására kijelölhető.
+
+(3) Az (1) bekezdés szerinti helyettes államtitkár
+
+- a) a másodfokú hatósági hatáskörét, valamint a (2) bekezdés szerinti hatáskörét önállóan gyakorolja,
+- b) a másodfokú hatósági hatáskörének, valamint a (2) bekezdés szerinti hatáskörének gyakorlásában a miniszter, illetve a tevékenységének irányítására kijelölt személy által nem utasítható,
+- c) helyettesítésére kizárólag az általa irányított főosztályvezető jelölhető ki.
+
 72. § A környezetvédelmi hatóság a környezetvédelmi engedélyt vagy az egységes környezethasználati engedélyt visszavonja, ha a véglegessé válástól számított öt éven belül a tevékenységet, illetve az ahhoz szükséges építési előkészítési munkákat nem kezdték meg, vagy ha a jogosult nyilatkozik arról, hogy a környezetvédelmi engedéllyel vagy az egységes környezethasználati engedéllyel nem kíván élni, továbbá akkor is, ha az engedélyezéskor fennálló feltételek lényegesen megváltoztak.
 
 ### Az egybefoglalt környezethasználati engedély

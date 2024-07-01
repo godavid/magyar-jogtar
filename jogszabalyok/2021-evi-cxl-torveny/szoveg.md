@@ -104,6 +104,24 @@ keretein belül.
 - a) kinevezi és felmenti a Honvéd Vezérkar főnökét,
 - b) okirattal csapatzászlót adományoz.
 
+(1a) A köztársasági elnök a honvédelemért felelős miniszter előterjesztésére az Alaptörvény 9. cikk (4) bekezdés e) pontjában meghatározott hatáskörében dönt
+
+- a) az első tábornoki rendfokozatba történő kinevezésről, ideértve a határozott időre szóló kinevezést, valamint a posztumusz elismerésként tábornoki rendfokozatba történő kinevezést is, és
+- b) tábornok magasabb tábornoki rendfokozatba történő előléptetéséről, ideértve a határozott időre szóló, valamint a posztumusz elismerésként történő előléptetést is.
+
+(1b) A köztársasági elnök a honvédelemért felelős miniszter előterjesztésére az Alaptörvény 9. cikk (4) bekezdés j) pontjában meghatározott hatáskörében dönt
+
+- a) hivatásos szolgálati viszony létesítéséről tábornok esetén,
+- b) tábornok szolgálati viszonyának megszüntetéséről,
+- c) tábornok szolgálati viszonya megszűnésének megállapításáról,
+- d) tábornokkal szemben fenyítés kiszabásáról,
+- e) tábornokkal szemben méltatlanság megállapításáról,
+- f) tábornok szolgálaton kívüli állományba vételéről és annak megszüntetéséről,
+- g) tábornok hivatásos állományba visszavételéről, és
+- h) a nyugállományú tábornok egyenruha-viselésének, illetve rendfokozat-használatának megvonásáról.
+
+(1c) A köztársasági elnök az (1b) bekezdésben foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.
+
 (2) A köztársasági elnök, vagy nevében képviselője a csapatzászlóra az átadás alkalmával zászlószalagot köt.
 
 (3) A köztársasági elnök a Honvédség működését érintő bármely ügyben tájékoztatást kérhet a honvédelemért felelős minisztertől.
@@ -338,6 +356,20 @@ javaslatára a honvédelemért felelős miniszter engedélyezheti.
 (4) A honvédelmi érdekek hatékony védelme és érvényesítése, az ország fegyveres védelmének és a szövetségesi kötelezettségek tervezéséhez, végrehajtásához és felülvizsgálatához, valamint a Honvédség műveleteinek tervezéséhez, irányításához és vezetéséhez szükséges döntések meghozatalának támogatása érdekében a Honvédség és a KNBSZ a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott katonai egységes felderítő rendszert működtet. A katonai egységes felderítő rendszer útján a Honvédség és a KNBSZ információkat gyűjt a műveleti terület valamennyi összetevőjéről, valamint a honvédelmi feladatok tervezését és végrehajtását meghatározó körülményekről, jelenségekről. E körben a Honvédség biometrikus adatokat gyűjthet, valamint a KNBSZ részéről törvény alapján átadott adatokat is kezelhet.
 
 (5) Magyarország honvédelmi érdekeinek védelme és biztosítása, a kapcsolódó szövetségesi kötelezettségek teljesítése, valamint az országvédelem kibertér műveleti erőkkel történő fenntartása és fokozása érdekében a Honvédség és a KNBSZ kibertér műveleti erői közvetlenül együttműködnek egymással. A kibertér műveleti képességek fejlesztését, valamint a kapcsolódó tervezési, biztonsági és szabályozási feladatokat a Honvédség a KNBSZ-től kapott információk felhasználásával és a KNBSZ szakmai támogatásával látja el. Ha a kibertér műveleti képességek fejlesztése, a kapcsolódó tervezési, biztonsági és szabályozási feladatok nemzetbiztonsági vonatkozással bírnak, a végrehajtásukhoz a KNBSZ főigazgatójának egyetértése szükséges.
+
+#### 11/A. A Honvéd Vezérkar főnökének normatív utasítása
+
+17/A. § A Honvéd Vezérkar főnöke normatív utasításban szabályozza
+
+- a) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárásrendet tartalmazó öltözködési szabályzatot,
+- b) a honvédek
+  - ba) egyéni és
+  - bb) különböző kötelékeinek egységes,
+
+a katonai fegyelmet és tartást kifejező megjelenését és mozgásformáit tartalmazó alaki szabályzatot,
+
+- c) a fizikai alkalmasság meghatározásához szükséges mozgásformák és azok végrehajtásának szabályait, valamint
+- d) – az a)–c) pontban meghatározottakon túl – a honvédek jogállásával összefüggő, jogszabályban vagy más közjogi szervezetszabályozó eszközben nem szabályozott katonai szakmai tárgyköröket.
 
 #### 12. A belső rendelkezések
 
@@ -986,7 +1018,7 @@ tartoznak.
 
 (3) A rendfokozat nélküli honvéd nem elöljárója és nem feljebbvalója azoknak, akik nála később kezdték meg a szolgálatot.
 
-(4) Külföldi katonai szolgálat esetén – a jogi személyiséggel rendelkező ideiglenes katonai szervezet kivételével – rangidős nemzeti képviselőt kell kijelölni az egy helyen tartózkodó honvédek közül, aki a jogszabályban nevesített egyes jogkörökben gyakorolja az állományilletékes parancsnokot megillető jogköröket.
+(4) A Magyarországon települő nemzetközi katonai szervezetnél történő szolgálatteljesítés és a külföldi katonai szolgálat esetén – a jogi személyiséggel rendelkező ideiglenes katonai szervezet kivételével – rangidős nemzeti képviselőt kell kijelölni az egy helyen tartózkodó honvédek közül, aki a kijelölésben meghatározott egyes állományilletékes parancsnoki jogköröket gyakorolja.
 
 #### 42. A honvédségi szervezetek irányítása és vezetése
 
@@ -1149,6 +1181,8 @@ tartoznak.
 86. § (1) A katonai rendész feladatait önállóan vagy a rendőrséggel, illetve a KNBSZ kijelölt állományával, a katonai ügyésszel vagy a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyészséggel együttműködésben teljesíti.
 
 (2) A katonai rendészet erőit a KNBSZ főigazgatójának kezdeményezésére a Honvéd Vezérkar főnöke kirendelheti a 82. § (2) bekezdés d)–g) pontja szerinti feladatok ellátására, amennyiben a KNBSZ által ellátott nemzetbiztonsági védelem alá eső személyek biztonságának szavatolása érdekében ez szükséges.
+
+(3) A külföldi szolgálatot teljesítővel szemben a külföldi rendészeti feladatot ellátó személy is eljárhat.
 
 87. § (1) Akinek a katonai rendész e fejezet szerinti intézkedése vagy annak elmulasztása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedő katonai rendész állományilletékes parancsnoka útján a Honvéd Vezérkar főnökéhez.
 
@@ -1452,11 +1486,13 @@ irányul.
 
 (7) A személyi állomány, a csapatok és a járművek megkülönböztetésére jelzéseket kell alkalmazni. Ezek a katonai egyenruha, a katonai rendfokozati jelzés, a csapatkarjelzés és csapatjelvény, a Honvédség meghatározott közúti, légi és vízi járműveinek jelzései, valamint az összefoglaló honvéd elnevezés.
 
-(8) A honvédek beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése a honvédelemért felelős miniszter rendeletében meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. A köztársasági elnök és a Kit. szerinti politikai vagy szakmai felsővezető műveleti területen és gyakorlaton egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
+(8) A honvédek beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak és a honvédelmi szolgálati juttatásban részesülők a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése a honvédelemért felelős miniszter rendeletében meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. A köztársasági elnök és a Kit. szerinti politikai vagy szakmai felsővezető műveleti területen és gyakorlaton egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
 
 (9) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. A honvédelemért felelős miniszter rendeletében meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.
 
-(10) A honvéd rendfokozatát az egyenruhán elhelyezett rendfokozati, vagy megkülönböztető jelzések fejezik ki. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a honvéd, a rendvédelmi szervek állománya, valamint – a rá vonatkozó korlátozásokkal – e szervezetek nyugállományú tagja és az önkéntes tartalékos jogosult. Amennyiben a szolgálaton kívüli állomány tagjának egyenruha viselete engedélyezett, legutolsó rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja. A rendfokozatát az önkéntes tartalékos az önkéntes tartalékos állományra, a nyugállomány tagja a nyugállományra, a szolgálaton kívüli állomány tagja a szolgálaton kívüli állományra utaló megjelöléssel használhatja. A név és a rendfokozat között a képzettségére utaló jelző nem használható.
+(9a) A honvédelemért felelős miniszter egyedi döntésével elrendelheti – a (8) bekezdésben meghatározottaktól eltérően – az egyenruha szolgálatteljesítési időn túl történő kötelező viselését a munkába járás során.
+
+(10) A honvéd rendfokozatát az egyenruhán elhelyezett rendfokozati vagy megkülönböztető jelzések fejezik ki. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a honvéd, – a rá vonatkozó korlátozásokkal – az önkéntes tartalékos, a nyugállományú katona és a honvédelmi szolgálati juttatásban részesülő jogosult. Amennyiben a szolgálaton kívüli állomány tagjának egyenruha viselete engedélyezett, legutolsó rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja. A rendfokozatát az önkéntes tartalékos az önkéntes tartalékos állományra, a nyugállomány tagja a nyugállományra, a honvédelmi szolgálati juttatásban részesülő e juttatásban részesülésre, a szolgálaton kívüli állomány tagja a szolgálaton kívüli állományra utaló megjelöléssel használhatja. A név és a rendfokozat között a képzettségére utaló jelző nem használható.
 
 (11) A csapatkarjelzés a honvéd karjelzés szerinti honvédelmi szervezethez való tartozásának és korábbi honvédelmi szervezetének megkülönböztető jele.
 
@@ -1474,6 +1510,8 @@ irányul.
 - j) az a)–i) pontban szereplő megjelölések kombinációja.
 
 (13) A honvédelemért felelős miniszter rendeletében meghatározottak szerint engedélyezi a katonai jelképek és jelzések, valamint a Honvédséghez köthető megjelölések használatát.
+
+106/A. § A honvédelemért felelős miniszter címzetes ezredes vagy címzetes alezredes rendfokozatot adományozhat a Honvédség társadalmi megítélésének növelését előmozdító azon személy részére, aki egyedi megállapodás keretében kötelezettséget vállalt arra, hogy honvédelmi célra vagyoni vagy nem vagyoni hozzájárulást teljesít. A címzetes ezredes vagy címzetes alezredes sajátos jogállásának szabályait a miniszter rendeletben határozza meg.
 
 ## HARMADIK RÉSZ — KATONAI VÁLSÁGKEZELÉS
 
@@ -1560,15 +1598,15 @@ rendelhető el.
 - 7. a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselőknek, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések rendszerét és feltételeit, továbbá a nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások és költségtérítések körét, a jogosultság feltételeit és rendjét, továbbá az ideiglenes külföldi kiküldetést teljesítő és a külföldi képzésben részt vevő honvédségi munkavállalók, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 - 8.
 - 9. a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
-- 10. az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
+- 10.
 - 11. a behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontját,
 - 12. az egészségügyért felelős miniszterrel egyetértésben a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának, felülvizsgálatának rendjét,
-- 13. a külföldi katonai szolgálat esetén a rangidős nemzeti képviselőt megillető jogköröket,
+- 13.
 - 14. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait,
 - 15. a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat,
 - 16. az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait,
 - 17. a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait,
-- 18. az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárás rendjét,
+- 18.
 - 19. a Honvédségnél rendszeresített egyéni lőfegyverek szolgálati feladatellátással összefüggő tárolásának és viselésének szabályait,
 - 20. a honvédelmi szervezet működésére szolgáló, korlátozott elérésű területekre történő beléptetés eljárási szabályait, az engedélyezésre jogosult személyek kijelölésének rendjét,
 - 21. a Honvédséghez köthető megjelöléseket és azok használata engedélyezésének szabályait,
@@ -1577,6 +1615,7 @@ rendelhető el.
 - 24. az elrendelő okmány kibocsájtásának feltételeit, tartalmi elemeit, valamint alkalmazási körét,
 - 25. a fegyver nélküli katonai szolgálat teljesítésének engedélyezéséhez szükséges formanyomtatványokat, valamint
 - 26. azokat a honvédelmi érdekhez közvetlenül kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyek tekintetében a 47. §-ban meghatározott jogköröket gyakorolja.
+- 27. a címzetes ezredes és a címzetes alezredes rendfokozat adományozásának rendjét, feltételeit, a címzetes ezredes, címzetes alezredes feladatait, jogait és kötelezettségeit.
 
 (3) Felhatalmazást kap a Kormány tagja, hogy a honvédelemért felelős miniszterrel egyetértésben rendeletben
 
@@ -1600,7 +1639,7 @@ rendelhető el.
 113. § E törvény
 
 - a) I. Fejezete az Alaptörvény XXXI. cikk (3)–(6) bekezdése és 45. cikk (5) bekezdése,
-- b) 4–6. §-a, 8. § (1)–(5) és (7) bekezdése, 13. §-a, 14. §-a, 17. §-a, 18. §-a, VII. Fejezete, VIII. Fejezete, 72–79. §-a, XI–XIII. Fejezete, XV. Fejezete és XVI. Fejezete az Alaptörvény 45. cikk (5) bekezdése,
+- b) 4–6. §-a, 8. § (1)–(5) és (7) bekezdése, 13. §-a, 14. §-a, 17. §-a, 11/A. alcíme, 18. §-a, VII. Fejezete, VIII. Fejezete, 72–79. §-a, XI–XIII. Fejezete, XV. Fejezete és XVI. Fejezete az Alaptörvény 45. cikk (5) bekezdése,
 - c) III. Fejezete és 1. melléklete az Alaptörvény XXXI. cikk (3)–(5) bekezdése,
 - d) 54. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése,
 - e) 110. §-a és 118. § b) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, 52. cikk (5) bekezdése és 54. cikk (8) bekezdése,
@@ -1649,7 +1688,7 @@ alapján sarkalatosnak minősül.
 - 2.7. a Magyar Nemzeti Bank,
 - 2.8. a bíróságok,
 - 2.9. az ügyészségek,
-- 2.10. a Ksztv. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
+- 2.10. a Kit. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
 - 2.11. a fővárosi és vármegyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
 - 2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a vármegyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 - 2.13. a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,

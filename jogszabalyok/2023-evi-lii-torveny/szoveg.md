@@ -141,6 +141,10 @@ látható el.
 
 (5) Az anyanyelvi tanárt küldő állam, vagy a külföldi társtárcákkal kötött megállapodás alapján nevesített közvetítő szervezet igazolást állít ki arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
+(6) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a tankerületi központhoz, aki az 55. életévét betöltötte, a tankerületi központ a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a tankerületi központ nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a tankerületi központ gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a tankerületi központ vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(7) A (6) bekezdés szerinti esetben az (1) bekezdéstől eltérően a nevelő-oktató munkát a tankerületi központhoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
+
 #### 5. § [A köznevelési foglalkoztatotti jogviszonyra vonatkozó szabályok]
 
 (1) A köznevelési foglalkoztatotti jogviszonyt e törvény és e törvény felhatalmazása alapján megalkotott kormányrendelet és miniszteri rendelet, kollektív szerződés, valamint a munkáltató által kiadott munkáltatói szabályzat (a továbbiakban együtt: köznevelési foglalkoztatotti jogviszonyra vonatkozó szabály) határozza meg.
@@ -2039,7 +2043,7 @@ a kifizetés esedékességekor érvényes, pótlék és megbízási díj nélkü
 - i) a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvédelmi alkalmazotti jogviszonyban,
 - j) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban, valamint rendvédelmi igazgatási szolgálati jogviszonyban, munkaviszonyban,
 - k) a Kit. hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
-- l) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban,
+- l) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses szolgálati viszonyban,
 - m) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
 
 töltött időt.
@@ -2968,7 +2972,7 @@ együttes összege azzal, hogy annak az érintettnek, akinek a havi illetménye,
 
 (9) A 2023. december 31-én folyamatban lévő kártérítési eljárást az eljárás megindulásakor hatályos szabályok szerint kell lefolytatni.
 
-(10) A köznevelésben foglalkoztatott 2024. július 1-ig köteles a Kormány által biztosított elektronikus azonosítási szolgáltatást és a hozzá kapcsolódó tárhelyet igényelni és erről a munkáltatónak írásban nyilatkozni.
+(10) A köznevelésben foglalkoztatott 2025. január 15-ig köteles a Kormány által biztosított elektronikus azonosítási szolgáltatást és a hozzá kapcsolódó tárhelyet igényelni és erről a munkáltatónak írásban nyilatkozni.
 
 (11) Ha a felek között 2023. december 31-én tanulmányi szerződés áll fenn,
 

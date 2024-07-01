@@ -148,7 +148,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 
 (11) A (2) bekezdés c) pontjától eltérően kabinetfőnöknek kinevezhető
 
-- a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló törvény szerint a minisztériumba vezényelt vagy kirendelt,
+- a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló kormányrendelet szerint a minisztériumba vezényelt,
 - b) a rendészetért felelős miniszter által vezetett minisztériumban a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt,
 - c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumban a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó jogviszonyban foglalkoztatott, a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt
 
@@ -473,7 +473,7 @@ helyettesíti.
 
 (2) Az (1) bekezdés szerinti szervezeti egység
 
-- a) vezetésére hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló törvény szerint a minisztériumba vezényelt vagy kirendelt személy, illetve a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt személy nevezhető ki,
+- a) vezetésére hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló kormányrendelet szerint a minisztériumba vezényelt személy, illetve a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt személy nevezhető ki,
 - b) vezetőjét a miniszter javaslatára a miniszterelnök nevezi ki és menti fel,
 - c) vezetője a Magyar Honvédség vezetőjére vagy rendvédelmi szerv esetében az országos parancsnokra vonatkozó rendelkezések szerinti juttatásban részesül.
 
@@ -908,6 +908,8 @@ hozható létre.
 álló személlyel is azzal, hogy az a)–c) pont szerinti esetben – a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony, és a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
 
 (3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
+
+(3b) Ha a (3) vagy a (3a) bekezdés alapján olyan katonai szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a kormányzati igazgatási szervhez, aki az 55. életévét betöltötte, a kormányzati igazgatási szerv a vezényeltet belföldi szervezeti egységhez tartozó álláshelyen köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a kormányzati igazgatási szerv nem rendelkezik olyan betölthető álláshellyel, amely a vezényelt képesítésének megfelel, a kormányzati igazgatási szerv gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a kormányzati igazgatási szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.
 
 (4) Egy álláshelyen egyidejűleg – az (5) bekezdésben meghatározott kivétellel – egy jogviszony hozható létre.
 
@@ -3802,7 +3804,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - c) tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen,
 - d) nevelőszülői foglalkoztatási jogviszonyt létesítsen,
 - e) hazai, külföldi vagy nemzetközi sportszövetség vagy sportegyesület, nemzetközi sportszervezet tagja, elnökségi tagja, vezető tisztségviselője vagy egyéb tisztségviselője legyen,
-- f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
+- f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló kormányrendelet vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 - h) közjegyzői szolgálata a politikai felsővezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 
@@ -4227,7 +4229,11 @@ kapcsolatos rendelkezéseit – az e törvény felhatalmazása alapján kiadott 
 
 #### 210. § [A főispán illetménye és juttatásai]
 
-(1) A főispán illetményét a kormányhivatal irányítására kormányrendeletben kijelölt miniszter állapítja meg. A főispán havi illetménye megegyezik a közigazgatási államtitkár illetményével. A főispán kormányrendeletben meghatározott juttatásokra jogosult.
+(1) A főispán a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által megállapított mértékű illetményre jogosult.
+
+(1a) Az (1) bekezdés szerinti illetmény összegét minden év július 1. napjával kell megállapítani. Az így megállapított illetményre – az illetményre jogosultság egyéb feltételeinek fennállása esetén és a kormányhivatal irányítására kormányrendeletben kijelölt miniszter eltérő rendelkezése hiányában – a főispán a következő év június 30. napjáig jogosult.
+
+(1b) A főispán kormányrendeletben meghatározott juttatásokra jogosult.
 
 (2) A főispán a megbízatásának időtartama és a miniszterelnök megbízatásának megszűnése esetén az új Kormány megalakulásáig tartó hatáskörgyakorlás időtartama alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából kormányzati szolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
@@ -4345,7 +4351,7 @@ gyakorolja.
 
 (2) A miniszteri kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszter, a politikai igazgatói kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszterelnök politikai igazgatója, az államtitkári kabinetet vezető kabinetfőnök felett az alapvető munkáltatói jogokat a miniszter, az egyéb munkáltatói jogokat az államtitkár gyakorolja.
 
-(3) A 3. § (11) bekezdése szerint a honvédek jogállásáról szóló törvény alapján a honvédelemért felelős miniszter által vezetett minisztériumba vezényelt vagy kirendelt kabinetfőnök, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a rendészetért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, illetve a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök jogviszonyára a honvédek jogállásáról szóló törvényt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényt, illetve a nemzetbiztonsági szolgálatokról szóló törvényt kell alkalmazni.
+(3) A 3. § (11) bekezdése szerint a honvédek jogállásáról szóló kormányrendelet alapján a honvédelemért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a rendészetért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, illetve a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök jogviszonyára a honvédek jogállásáról szóló kormányrendeletet, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényt, illetve a nemzetbiztonsági szolgálatokról szóló törvényt kell alkalmazni.
 
 #### 218. § [A kabinetfőnöki munkáltatói joggyakorlás]
 

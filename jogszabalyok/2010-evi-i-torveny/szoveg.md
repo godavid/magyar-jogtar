@@ -1647,6 +1647,8 @@ haladéktalanul értesíti a személyiadat- és lakcímnyilvántartást kezelő 
 
 91/E. § A nyilvántartó szerv a haláleset anyakönyvezését követően az eseményazonosítóról, valamint az elhalt házassági családi és utónevéről, születési családi és utónevéről, születési helyéről és idejéről, anyja születési családi és utónevéről – az Elektronikus Egészségügyi Szolgáltatási Tér útján – haladéktalanul értesíti az Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszert.
 
+91/F. § A nyilvántartó szerv – az anyakönyvi eseménynek vagy adatváltozásnak az elektronikus anyakönyvben történő átvezetését követően haladéktalanul – értesíti a menekültügyi hatóságot a menekült, oltalmazott, menedékes vagy befogadott jogállású személy házasságkötéséről, a bejegyzett élettársi kapcsolata létesítéséről, valamint a házasság vagy a bejegyzett élettársi kapcsolat megszűnéséről. Az értesítés tartalmazza a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyét, idejét, a menekült, oltalmazott, menedékes vagy befogadott jogállású személy születési és házassági nevét, születési helyét és idejét, anyja születési nevét, állampolgárságát vagy hontalanságát, a házasság vagy a bejegyzett élettársi kapcsolat megszűnésének tényét, időpontját és okát.
+
 ### Adattovábbítási nyilvántartás
 
 92. § (1) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a nyilvántartó szerv az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást vezet.

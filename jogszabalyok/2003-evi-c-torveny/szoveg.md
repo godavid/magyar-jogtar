@@ -3068,6 +3068,8 @@ kiállított számla érvénytelen.
 
 149/D. § A Hatóság együttműködési megállapodást köthet olyan, az alapszabálya szerint gyermekvédelemmel foglalkozó egyesülettel, amely megfelel az internet hotline szabályzatban meghatározott feltételeknek és vállalja a 149/B. § szerinti egyes feladatoknak az internet hotline szabályzat szerinti ellátását. Az együttműködési megállapodást a Hatóság az internetes honlapján közzéteszi.
 
+149/E. § A Hatóság a közérdekű feladatellátása keretében olyan programokat, tájékoztató kampányokat szervez, amelyek segítik a kiskorúakat és szüleiket az internetes bántalmakkal, visszaélésekkel és jogsértésekkel szembeni fellépésben.
+
 ### Szolgáltatóváltás és számhordozhatóság
 
 150. § (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató kérelemre köteles lehetővé tenni előfizetője számára, hogy megtarthassa a nemzeti számozási tervben szereplő

@@ -329,7 +329,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - c) az ellátási napok számáról,
 - d) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
 
-(11) Az elszámolási nyilatkozatot egy példányban kell kiállítani, amelyen a kiállító orvos aláírásával igazolja, hogy a biztosított az abban megnevezett ellátást igénybe vette. Az aláírt elszámolási nyilatkozatot a biztosítottnak át kell adni, ennek tényét az egészségügyi szolgáltató elektronikus formában rögzíti.
+(11) Az elszámolási nyilatkozatot egy példányban kell kiállítani, amelyen a kiállító orvos aláírásával igazolja, hogy a biztosított az abban megnevezett ellátást igénybe vette. Az aláírt elszámolási nyilatkozatot – kérésére – a biztosítottnak át kell adni vagy meg kell küldeni elektronikus úton, aminek tényét az egészségügyi szolgáltató elektronikus formában rögzíti.
 
 (12)
 
@@ -447,7 +447,7 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (11) Az intézményi regisztrációs lista tekintetében a (2) bekezdés a) pontjában, a (2a) és (2b) bekezdésben, a (3b) bekezdésben, a (6) bekezdésben és a (8) bekezdésben, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
 
-20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait (családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel), az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
+20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait [családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel (a továbbiakban: TAJ-szám)], az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
 
 (2) A központi várólistát kormányrendeletben kijelölt szerv működteti. A kormányrendeletben kijelölt szerv a működtetéshez a külön jogszabályban meghatározott közreműködőt vehet igénybe. Az intézményi várólistát az adott ellátást nyújtó egészségügyi szolgáltató szervezeti és működési szabályzatában e feladatra kijelölt személy vezeti.
 
@@ -459,13 +459,40 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (6) Az egyedi azonosító tartalmára vonatkozó szabályokról a biztosítottat kezelőorvosa tájékoztatja. Amennyiben a kormányrendeletben kijelölt szerv, illetve az egészségügyi szolgáltatónál az intézményi várólista kezeléséért felelős személy észleli, hogy az adott várólistára érkező egyedi azonosító egy másik, az adott várólistán levő biztosított egyedi azonosítójával megegyezik, akkor a később beérkezett egyedi azonosítót olyan sorszámmal látja el, amely egyértelműen alkalmas az egyedi azonosítók megkülönböztetésére. Erről a biztosítottat a kezelőorvos útján a kormányrendeletben kijelölt szerv, illetve az intézményi várólista kezeléséért felelős személy tájékoztatja.
 
-(7) A betegfogadási lista az adott egészségügyi ellátásra előjegyzett biztosítottak családi és utónevét, társadalombiztosítási azonosító jelét valamint az ellátásra történő jelentkezés és az ellátás igénybevételének pontosan meghatározott időpontját és helyét tartalmazza.
+(7) A betegfogadási lista az adott egészségügyi ellátásra előjegyzett biztosítottak családi és utónevét, TAJ-számát valamint az ellátásra történő jelentkezés és az ellátás igénybevételének pontosan meghatározott időpontját és helyét tartalmazza.
 
 (8)
 
 (9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.
 
 (10) Ha a 30. § (1) bekezdése szerinti szerződéssel rendelkező egészségügyi szolgáltató nem teljesíti a várólistával, intézményi előjegyzéssel, intézményi regisztrációs listával, illetve betegfogadási listával kapcsolatos – jogszabályon vagy az egészségbiztosítóval kötött szerződésén alapuló – nyilvántartási, jelentési vagy adatszolgáltatási kötelezettségét, az egészségbiztosító az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott mértékben és ideig visszatartja az egészségügyi szolgáltatót megillető finanszírozásnak a kötelezettségszegéssel érintett részét, illetve az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott összeggel csökkenti az egészségügyi szolgáltatót megillető finanszírozást a kötelezettségszegés megszüntetéséig.
+
+20/B. § (1) A Kormány a rendeletében meghatározott EESZT digitális időpontfoglalásirendszer-szolgáltatás (a továbbiakban: digitális időpontfoglalási rendszer) telefonos elérhetősége érdekében egységes telefonos időpontfoglalási központot biztosít.
+
+(2) Az egységes telefonos időpontfoglalási központot a Kormány rendeletében kijelölt szerv működteti (a továbbiakban: telefonközpont-működtető).
+
+(3) Az egységes telefonos időpontfoglalási központ a TAJ-számmal rendelkező biztosított számára lehetővé teszi, hogy – amennyiben a biztosított online elérhetőséggel nem rendelkezik vagy azt nem kívánja használni – a biztosított telefonon keresztül a digitális időpontfoglalási rendszerben közzétett, a számára elérhető járóbeteg-szakellátási időpontot foglalhasson.
+
+(4) A (3) bekezdés szerinti cél érdekében a telefonközpont-működtető a biztosított vagy képviselője által megadott természetes személyazonosító adatok és TAJ-szám alapján a biztosított számára a digitális időpontfoglalási rendszerben a biztosított által megjelölt – digitális időpontfoglalási rendszert használó – járóbeteg-szakellátást nyújtó szolgáltatónál járóbeteg-szakellátási időpontot foglal, módosít vagy töröl.
+
+(5) Az egységes telefonos időpontfoglalási központ igénybevételének részletes szabályait a Kormány rendeletben határozza meg.
+
+20/C. § (1) A telefonközpont-működtető a biztosítottat az általa vagy képviselője által megadott természetes személyazonosító adatai, valamint TAJ-számának az összerendelési nyilvántartás szolgáltatás útján történő összevetésével azonosítja. A telefonközpont-működtetőt e feladata ellátása során digitális szolgáltatást biztosító szervezetnek kell tekinteni.
+
+(2) A telefonközpont-működtető a 20/B. § (4) bekezdése szerinti feladata ellátása érdekében – az (5) bekezdésben foglalt kivétellel – az időpontfoglalás rögzítésének idejéig kezeli
+
+- a) a biztosított természetes személyazonosító adatait,
+- b) a biztosított TAJ-számát,
+- c) az időpontfoglalással összefüggő, a biztosított vagy képviselője által szóban közölt egészségügyi adatokat,
+- d) a (3) bekezdés szerinti beutaló adatait,
+- e) a biztosított vagy képviselője által megjelölt időpontfoglalási adatot, ennek keretében a biztosítottat kezelő vagy várhatóan kezelő egészségügyi szolgáltató és szervezeti egysége megnevezését, címét, az ellátás időpontját, várható időtartamát, az ellátás igénybevételének egyéb feltételeit,
+- f) a biztosított képviselőjének természetes személyazonosító adatait, ha a beteg képviselője útján jár el.
+
+(3) A telefonközpont-működtető a 13. § a) pontja szerinti ellátásokra történő időpontfoglalás céljából megismerheti a biztosítottnak az EESZT-ben a 18/A. § (1) bekezdése szerint rögzített beutalóját.
+
+(4) A telefonközpont-működtető a biztosítottal folytatott telefonos kommunikációt – az ellátás nyomon követése, az ellátás szervezése, az ellátás és az egységes telefonos időpontfoglalási központ minőségének ellenőrzése céljából – visszakövethető módon, hangfelvétellel vagy egyéb elektronikus úton rögzíteni köteles.
+
+(5) A telefonközpont-működtető a (4) bekezdés szerint rögzített adatokat a telefonos kommunikációtól számított egy évig kezeli.
 
 ### 2. CÍM — Árhoz nyújtott támogatással igénybe vehető
 
@@ -731,7 +758,7 @@ igazolja.
 
 (3) Az 5/B. § s) pont sa) alpontja szerinti határon átnyúló egészségügyi ellátást igénybevevő személy jogosultságát az e törvény végrehajtására kiadott kormányrendeletben meghatározott dokumentummal igazolja.
 
-(4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a társadalombiztosítási azonosító jelet (a továbbiakban: taj-szám) igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a taj-számát a tároló elemmel rendelkező állandó személyazonosító igazolványával – a technikai feltételek megléte esetén – elektronikusan is igazolhatja, amennyiben a külön törvényben meghatározottak szerint a tároló elem azt tartalmazza. A biztosított a taj-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.
+(4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a TAJ-számot igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a TAJ-számát a tároló elemmel rendelkező állandó személyazonosító igazolványával – a technikai feltételek megléte esetén – elektronikusan is igazolhatja, amennyiben a külön törvényben meghatározottak szerint a tároló elem azt tartalmazza. A biztosított a TAJ-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.
 
 (5) A 27. § (1) és (2) bekezdése szerinti ellátások költségeinek megtérítése iránti igényt legkésőbb a hazaérkezést követő harminc napon belül, a 27. § (6) bekezdése szerinti ellátások költségeinek megtérítése iránti igényt pedig a hazaérkezést követő tizenöt napon belül kell az egészségbiztosítónál bejelenteni.
 
@@ -1984,7 +2011,7 @@ vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes 
 
 (7) A (6) bekezdés szerinti mulasztási bírságot a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni. Nem szabható ki mulasztási bírság, ha a bejelentési kötelezettségre előírt határidő lejártától számított öt év eltelt.
 
-81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, illetőleg baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási kifizetőhelyek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
+81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási kifizetőhelyek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetve adatokat – elsősorban elektronikus formában – rendelkezésre kell bocsátani.
 
 (2) Az egészségbiztosító a pénzbeli ellátás és a baleseti táppénz iránti kérelem elbírálása, valamint ellenőrzési eljárása során kérheti annak igazolását, hogy a társadalombiztosítási járulékalapot képező jövedelem bevallására kötelezett ezen kötelezettségének eleget tett. Ha a kérelem elbírálása vagy az ellenőrzés során megállapítást nyer, hogy a bevallásra kötelezett nem teljesítette bevallási kötelezettségét, erről értesíti az állami adóhatóságot.
 
@@ -2158,6 +2185,20 @@ foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pont
 
 (3) A kártalanítás mértéke megegyezik az egészségügyi szolgáltató egészségbiztosítás keretében történő CT-MRI vizsgálatok végzésére való jogosultságának a (2) bekezdés szerinti megszűnését megelőző három üzleti év – ha a működését később kezdte meg, az adott évek – megszűnt jogosultság szerinti gazdasági tevékenységéből származó, adózott eredménye átlagának összegével. A kártalanítás mértékét az egészségbiztosításért felelős miniszter állapítja meg.
 
+82/Y. § (1) A kérelemmel érintett egészségügyi szolgáltató finanszírozási szerződés vagy közfinanszírozott, állami fenntartású egészségügyi szolgáltatóval kötött közreműködői szerződés keretében végzett CT-MRI vizsgálati tevékenységet a 82. § (26) bekezdése szerinti miniszteri engedélyben foglalt határidő előtt csak az egészségbiztosításért felelős miniszter engedélyével szüneteltetheti vagy szüntetheti meg, ennek hiányában a 2023. július 7. napján hatályos finanszírozási vagy közreműködési szerződés feltételei szerint e tevékenységet folyamatosan ellátja.
+
+(2) Ha a kérelemmel érintett egészségügyi szolgáltató az (1) bekezdésben foglalt miniszteri engedély nélkül a CT-MRI vizsgálati tevékenységét teljes körűen nem látja el a vonatkozó szerződésében foglaltak szerint, azt szünetelteti vagy ha azzal felhagy, a tevékenységéhez közvetlenül használt ingatlanok, tárgyi eszközök és immateriális javak ideiglenesen, az ellátási érdek fennállásáig, de legfeljebb 2025. november 1. napjáig – a Kormány rendeletében meghatározottak szerint számított használati díj ellenében – azon állami egészségügyi szolgáltató használatába kerülnek, amelynek a közreműködőjeként, vagy amelynek a telephelyén az egészségügyi szolgáltató az egészségbiztosítás keretében végzett CT-MRI vizsgálati tevékenységét ellátta.
+
+(3) Ha a kérelemmel érintett egészségügyi szolgáltató nem állami egészségügyi szolgáltató telephelyén végezte tevékenységét, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a használatra feljogosított, finanszírozott, állami egészségügyi szolgáltatót az egészségbiztosításért felelős miniszter jelöli ki.
+
+(4) Az (1)–(3) bekezdés alkalmazásában kérelemmel érintett egészségügyi szolgáltatónak minősül az az egészségügyi szolgáltató, amely nem
+
+- a) állami fenntartású egészségügyi szolgáltató,
+- b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központ,
+- c) egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltató,
+- d) önkormányzati fenntartású egészségügyi szolgáltató,
+- e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató, feltéve, hogy az egészségügyi szolgáltató CT-MRI vizsgálati tevékenységének vonatkozásában – ideértve a közreműködői szerződés alapján történő ellátást is – az egészségbiztosításért felelős miniszter a 82. § (26) bekezdése szerint az ellátási érdek fennállását megállapította.
+
 ### Záró rendelkezések
 
 83. § (1) E törvény hatálybaléptetéséről a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény rendelkezik.
@@ -2197,7 +2238,7 @@ meghatározására.
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) határozza meg az országos intézményi várólista nyilvántartás létrehozásának szabályait,
-- b)
+- b) határozza meg az egységes telefonos időpontfoglalási központ igénybevételének és működtetésének részletes szabályait, valamint jelölje ki a telefonközpont-működtetőt,
 - c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 - d) határozza meg az intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal, továbbá az intézményi előjegyzéssel, intézményi regisztrációs listával kapcsolatos jelentés szabályait.
 
@@ -2228,6 +2269,8 @@ meghatározására.
 (2n) Felhatalmazást kap a Kormány, hogy a 18. § (8c) bekezdése szerinti megállapítás rendjét és a megállapításra jogosult szervet rendeletben határozza meg.
 
 (2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
+
+(2p) Felhatalmazást kap a Kormány, hogy a 82/Y. § (2) bekezdése szerinti használati díj megállapítására vonatkozó részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 

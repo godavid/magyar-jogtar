@@ -86,7 +86,7 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 31. §
 
-32. § (1)
+32. § (1) A Pmt. 3. § 28. pont m) alpontjában a „tekintetében;” szövegrész helyébe a „tekintetében,” szöveg lép.
 
 (2)
 
@@ -112,7 +112,12 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 38. §
 
-#### 39. §
+39. § Az Sztfhtv. 13/A. §-a helyébe a következő rendelkezés lép:
+
+„13/A. § A Hatóság elnöke
+
+- 1. megállapítja a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályait, a kockázatelemzés rendszere kialakításának szabályait, az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait, az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert, a Tanúsítók Névjegyzéke, a vállalkozások, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők, valamint az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, az ESG menedzsmentplatform működési szabályait, a hitelesített támogatásmenedzsment központ működésének részletes szabályait, az ESG beszámoló és az ESG beszámoló mellékletét képező kérdőív minimum követelményeit, tartalmát, formai követelményeit és közzétételének szabályait, továbbá az ESG törvény 27. § (5) bekezdése szerinti további adatszolgáltatás előírására vonatkozó követelményeket és a Hatóság által engedélyezett adatszolgáltatás teljesítésének szabályait,
+- 2. a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját.”
 
 #### 40. §
 
@@ -222,7 +227,7 @@ egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 88. §
 
-#### 89. §
+89. § Nem lép hatályba az ESG törvény 102. §-a.
 
 #### 19. Záró rendelkezések
 

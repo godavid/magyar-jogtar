@@ -54,7 +54,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 20. közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs;
 - 21. minimális biztonsági tőke: a tevékenység megkezdésekor és folytatásakor a felvállalt kockázatokból adódó kötelezettségek teljesítésére szolgáló tőkerész;
 - 22. munkavállaló: a foglalkoztatóval a 23. pontban meghatározott munkaviszonyban álló személy;
-- 23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszony, biztosi jogviszony, kormányzati szolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény szerinti egészségügyi szolgálati jogviszony, az ügyészségről szóló 2011. évi CLXIII. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati és rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXV. törvény szerinti honvédelmi alkalmazotti jogviszony, a honvédek jogállásáról szóló törvény szerinti szolgálati viszony, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;
+- 23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszony, biztosi jogviszony, kormányzati szolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény szerinti egészségügyi szolgálati jogviszony, az ügyészségről szóló 2011. évi CLXIII. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati és rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXV. törvény szerinti honvédelmi alkalmazotti jogviszony, a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati viszony, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;
 - 24. nyugdíjkonstrukció: olyan szerződés, megállapodás, vagyonkezelési meghatalmazás vagy szabályrendszer, amely meghatározza, hogy egy nyugellátás milyen feltételek mellett kerül folyósításra;
 - 25. nyugdíjkorhatár:
   - a) az az életkor, melyet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
@@ -117,7 +117,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 (7) A jó gazda gondosságának elvét megtartva, a foglalkoztatói nyugdíjszolgáltató intézmény a befektetési politikájában adott esetben figyelembe veszi a befektetési döntéseknek a környezeti, a társadalmi és irányítási szempontokra gyakorolt lehetséges hosszú távú hatásait.
 
-4. §
+#### 4. §
 
 ### A nyugdíjszolgáltatási tevékenység
 
@@ -180,7 +180,9 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 (4) E törvény 3–81. §-ainak rendelkezéseit az e törvény alapján alapított, Magyarország területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményekre kell alkalmazni.
 
-### A foglalkoztatói nyugdíjszolgáltató intézményalapítása
+### A foglalkoztatói nyugdíjszolgáltató intézmény
+
+alapítása
 
 7. § (1) Foglalkoztatói nyugdíjszolgáltató intézményt alapíthat:
 
@@ -415,7 +417,9 @@ feladatkörrel (a továbbiakban együtt: kiemelten fontos feladatkör).
 
 vizsgálata.
 
-### A foglalkoztatói nyugdíjszolgáltató intézményvezető biztosításmatematikusa (aktuárius)
+### A foglalkoztatói nyugdíjszolgáltató intézmény
+
+vezető biztosításmatematikusa (aktuárius)
 
 12. § (1) A szolgáltatással meghatározott nyugdíjkonstrukciót, biometriai kockázatot vagy tőke-, illetve hozamgaranciát tartalmazó nyugdíjkonstrukciót működtető foglalkoztatói nyugdíjszolgáltató intézmény hatékony aktuáriusi feladatkörrel rendelkezik.
 
@@ -444,7 +448,9 @@ vizsgálata.
 
 (6) A foglalkoztatói nyugdíjszolgáltató intézmény vezető biztosításmatematikusa az éves beszámolóval együtt, ahhoz kapcsolódóan – a felügyeleti ellenőrzés elősegítése céljából – benyújtja a Felügyeletnek a foglalkoztatói nyugdíjszolgáltató intézmény Bit. 211. § (3) és (5) bekezdésében foglaltaknak megfelelő aktuáriusi jelentését.
 
-### A foglalkoztatói nyugdíjszolgáltató intézményszámviteli rendjéért felelős vezetője
+### A foglalkoztatói nyugdíjszolgáltató intézmény
+
+számviteli rendjéért felelős vezetője
 
 13. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény számviteli rendjéért felelős vezetőként kizárólag a Bit. 61. § (1) bekezdés a)–e) pontjában és a 61. § (2) bekezdésében meghatározott követelményeknek megfelelő személy alkalmazható azzal, hogy a szakmai gyakorlat megszerezhető magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, ezek érdekvédelmi szervénél vagy könyvvizsgálójánál is.
 
@@ -648,7 +654,9 @@ rendelkezik,
 
 (3) A Felügyelet eseti tájékoztatást kérhet a foglalkoztatói nyugdíjszolgáltató intézménytől a határon átnyúló tevékenység során alkalmazott szerződési feltételekről és az ezzel összefüggő dokumentumokról annak igazolására, hogy a szerződések megfelelnek a foglalkoztató székhelye szerinti állam jogszabályainak.
 
-### A másik államban történő fióktelep-létesítésszabályai
+### A másik államban történő fióktelep-létesítés
+
+szabályai
 
 24. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény köteles bejelenteni a Felügyeletnek, ha másik államban fióktelepet kíván létesíteni. Foglalkoztatói nyugdíjszolgáltatási tevékenységet végző fióktelepet csak foglalkoztatói nyugdíjszolgáltató intézmény létesíthet.
 
@@ -1164,7 +1172,9 @@ kell megfelelően alkalmazni.
 
 (7) A nyugdíjtechnikai tartalékok meghatározása során figyelemmel kell lenni a prudenciális elvekre, a tagság érdekeire és a nyugdíjkonstrukciók legfőbb jellemzőire azzal, hogy a kiszámítás módszere és alapja alapvetően stabil, azonban szükség szerint tükrözi a jogi, demográfiai vagy gazdasági környezet változását.
 
-### A foglalkoztatói nyugdíjszolgáltató intézményszavatoló tőkéje
+### A foglalkoztatói nyugdíjszolgáltató intézmény
+
+szavatoló tőkéje
 
 39. § (1) A szavatoló tőke a foglalkoztatói nyugdíjszolgáltató intézmény korrigált saját tőkéje, amely arra szolgál, hogy a foglalkoztatói nyugdíjszolgáltató intézmény akkor is teljesíteni tudja kötelezettségeit, ha erre a beszedett hozzájárulások és tagi kiegészítések, illetve a nyugdíjtechnikai tartalékok nem nyújtanak fedezetet.
 
@@ -1409,7 +1419,9 @@ kell megfelelően alkalmazni.
 
 (3) Az egyedi portfólióváltással összefüggő, tagra terhelt költségek nem haladhatják meg a tagi számlakövetelés egy ezrelékét, és nem lehetnek magasabbak 4000 forintnál.
 
-### A foglalkoztatói nyugdíjszolgáltató intézmény adminisztrációs és nyilvántartási, valamint beszámolási kötelezettsége
+### A foglalkoztatói nyugdíjszolgáltató intézmény adminisztrációs és nyilvántartási,
+
+valamint beszámolási kötelezettsége
 
 54. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény üzemgazdasági szemléletű kettős könyvvitelt vezet. A foglalkoztatói nyugdíjszolgáltató intézmény könyvviteli nyilvántartása tartalmazza az eszközöket, az eszközök értékében bekövetkezett változásokat, a forrásokat és az azok értékében bekövetkező változásokat.
 
@@ -1461,7 +1473,7 @@ a Felügyelet részére megküldeni.
 
 (5)
 
-57. §
+#### 57. §
 
 ### A felügyelet általános elvei
 
@@ -1471,7 +1483,7 @@ a Felügyelet részére megküldeni.
 
 (3) A Felügyelet feladatai ellátása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását, különösen sürgősségi helyzetben.
 
-59. §
+#### 59. §
 
 ### A Felügyelet engedélyezési hatáskörei
 
@@ -1596,7 +1608,7 @@ a Felügyelet részére megküldeni.
 
 ### A Felügyelet bírságolási jogköre
 
-66. §
+#### 66. §
 
 ### A kifizetési tilalom elrendelése
 
@@ -1641,7 +1653,7 @@ a Felügyelet részére megküldeni.
 
 (7)–(8)
 
-70/A. §
+#### 70/A. §
 
 ### A felügyeleti díj
 
@@ -1682,7 +1694,9 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (2) Szükséghelyzetben a Felügyelet a 64. §-ban meghatározott bármely intézkedés együttes alkalmazására is jogosult.
 
-### A csődeljárás, a felszámolási eljárásés végelszámolás közös szabályai
+### A csődeljárás, a felszámolási eljárás
+
+és végelszámolás közös szabályai
 
 74. § (1) Az e törvényben meghatározott eltérésekkel a foglalkoztatói nyugdíjszolgáltató intézmény felszámolására a Cstv. rendelkezéseit, a végelszámolási, kényszer-végelszámolási vagy kényszertörlési eljárására pedig a Ctv. rendelkezéseit kell megfelelően alkalmazni.
 
@@ -1763,7 +1777,9 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (3) A Felügyelet az előzetes jóváhagyás megadásával egyidejűleg a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyét visszavonja.
 
-### V. Fejezet — A MÁS EGT-ÁLLAMBAN BEJEGYZETT FOGLALKOZTATÓI NYUGDÍJSZOLGÁLTATÓ INTÉZMÉNYEK MŰKÖDÉSE MAGYARORSZÁG TERÜLETÉN
+### V. Fejezet — A MÁS EGT-ÁLLAMBAN BEJEGYZETT FOGLALKOZTATÓI NYUGDÍJSZOLGÁLTATÓ INTÉZMÉNYEK MŰKÖDÉSE
+
+MAGYARORSZÁG TERÜLETÉN
 
 82. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén határon átnyúló szolgáltatásként akkor végezheti tevékenységét, ha a tevékenységére a székhely szerinti államában jogosult és határon átnyúló szolgáltatás nyújtására előzetes engedéllyel rendelkezik.
 
@@ -1775,7 +1791,9 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (5) A foglalkoztatói nyugdíjszolgáltató intézmény szolgáltatására vonatkozóan a nyugdíjszolgáltatásra vonatkozó rendelkezések az irányadók.
 
-### A határon átnyúló szolgáltatást nyújtó más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmények feletti felügyelet
+### A határon átnyúló szolgáltatást nyújtó
+
+más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmények feletti felügyelet
 
 83. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény és foglalkoztatók feletti felügyeletet – a (3) bekezdés szerinti időponttól kezdődően – a Felügyelet látja el.
 
@@ -1856,7 +1874,7 @@ után nyílik meg.
 
 (9) A (2) bekezdésben meghatározott szakmai képzésen, illetve továbbképzésen történő részvételt az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó PEPP-szolgáltató, illetve PEPP-forgalmazó köteles nyilvántartani, és az ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
 
-86. §
+#### 86. §
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

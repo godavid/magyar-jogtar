@@ -25,7 +25,7 @@ Az Országgyűlés az Európai Unió Tanácsa 2024. második félévi magyar eln
 (2) EU-elnökségi jogviszony a Kormány rendeletében meghatározott szervnél
 
 - a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszonyban,
-- b) a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszonyban,
+- b) a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati viszonyban,
 - c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati viszonyban, rendvédelmi igazgatási alkalmazotti jogviszonyban,
 - d) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban,
 - e) a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény szerinti honvédelmi alkalmazotti jogviszonyban,

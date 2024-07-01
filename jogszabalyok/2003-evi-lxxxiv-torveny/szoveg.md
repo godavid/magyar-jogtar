@@ -443,15 +443,15 @@ minősül.
 
 (4) Az (1)–(2) bekezdés szerinti jogviszonyban álló egészségügyi dolgozó által végzett egészségügyi tevékenységre a 4. § e) pontjában, valamint a 12–13. §-ban foglaltakat, illetve továbbképzésére a 15. §-ban foglaltakat, továbbá a 15/B–15/C. §-t értelemszerűen alkalmazni kell.
 
-(5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény „alapbért (garantált illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét” kell érteni.
+(5)
 
-(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához a 11/A. § (5) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben egészségügyi szolgálati jogviszonyban állnának, akkor iskolai végzettségüknek és egészségügyi szolgálati jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
+(6)
 
-(7) A Hjt. hatálya alá tartozók esetében a (3) bekezdésben foglaltak végrehajtásához szükséges esetleges illetménykülönbözetet egészségügyi dolgozók kiegészítő illetményeként kell megállapítani és folyósítani.
+(7)
 
-(8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához a 11/A. § (4) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
+(8)
 
-(9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
+(9) A (4) bekezdésben foglaltakon túl a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
 
 ### Jövedelemkiegészítés egészségügyi szolgálati, honvédelmi alkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
 
@@ -672,7 +672,7 @@ részt vehet.
 
 (20)
 
-29/A. § (1) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Mt., az Eszjtv. és a honvédelmi alkalmazottak jogállásáról szóló törvény és a Hjt. alkalmazásában a távolléti díj számítása során figyelembe kell venni.
+29/A. § (1) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Mt., az Eszjtv. és a honvédelmi alkalmazottak jogállásáról szóló törvény alkalmazásában a távolléti díj számítása során figyelembe kell venni.
 
 (2) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Eszjtv. alkalmazásában a szolgálati elismerés és a honvédelmi alkalmazottak jogállásáról szóló törvény alkalmazásában a jubileumi jutalom számítása során figyelembe kell venni.
 
@@ -682,7 +682,7 @@ részt vehet.
 
 30. § Az egészségügyi szolgáltató a 11/A. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.
 
-31. § A Hjt. hatálya alá tartozók esetében, ahol a 29/A–30. § „illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét” kell érteni.
+#### 31. §
 
 32. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 11/A. § (2) bekezdés c) pontját és a 11/B. §-t a 2015. július 1-jét követően megkezdett szakképzések ideje alatt történő foglalkoztatásra kell alkalmazni.
 

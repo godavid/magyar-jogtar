@@ -37,11 +37,11 @@ Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a n
   - ad) a Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság;
   - ae) a Müpa Budapest – Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság;
   - af) a Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság;
-- b) alkotóművészet ágazatban a Petőfi Irodalmi Múzeum;
+- b) alkotóművészet ágazatban a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
 - c) közgyűjtemény és emlékezetpolitika ágazatban
   - ca) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
   - cb) a Szépművészeti Múzeum;
-  - cc) az Országos Széchényi Könyvtár;
+  - cc)
   - cd) a Magyar Nemzeti Levéltár;
   - ce) a Magyarságkutató Intézet;
 - d) népi hagyományok ágazatban

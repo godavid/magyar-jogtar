@@ -908,7 +908,7 @@ szemben.
 
 - a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
-- c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
+- c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, illetve végelszámolóval,
 - d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 - e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá a kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,

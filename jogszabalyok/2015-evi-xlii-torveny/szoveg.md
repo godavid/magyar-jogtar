@@ -51,6 +51,10 @@ is alkalmazni kell.
 
 (11) A 124/A. alcím rendelkezéseit az általános rendőrségi feladatok ellátására létrehozott szervvel szerződéses jogviszonyban álló szerződéses határvadászra is alkalmazni kell.
 
+1/A. § (1) Ha a rendvédelmi szervhez olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor, aki az 55. életévét betöltötte, a rendvédelmi szerv a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a rendvédelmi szerv nem rendelkezik olyan betölthető szolgálati beosztással vagy munkakörrel, amely a vezényelt képesítésének megfelel, a rendvédelmi szerv gondoskodik a szolgálati beosztás vagy a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a rendvédelmi szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(2) Az (1) bekezdés szerinti esetben a rendvédelmi szerv feladatkörébe tartozó feladatokat a rendvédelmi szervhez vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában:

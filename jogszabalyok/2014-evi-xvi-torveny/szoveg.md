@@ -390,7 +390,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 #### 7. A befektetési alapkezelő tőke- és szervezeti követelményei
 
-16. § (1) A befektetési alapkezelő akkor kaphat befektetési alapkezelésre engedélyt, ha – a (2) bekezdésben foglaltak figyelembevételével – rendelkezik legalább százhuszonötezer euró, ingatlanalap kezelése esetén legalább háromszázezer euró induló tőkével.
+16. § (1) A befektetési alapkezelő akkor kaphat befektetési alapkezelésre engedélyt, ha – a (2) bekezdésben foglaltak figyelembevételével – rendelkezik legalább százhuszonötezer euró, ingatlanalap vagy vegyes alap kezelése esetén legalább háromszázezer euró induló tőkével.
 
 (2) Ha a befektetési alapkezelő által kezelt befektetési alapok portfólióinak összesített értéke meghaladja a kétszázötvenmillió eurót, szavatoló tőkéjét ki kell egészítenie. A pótlólagos tőkeösszeg annak az összegnek a 0,02%-a, amellyel a befektetési alapkezelő által kezelt befektetési alapok portfólióinak értéke meghaladja a kétszázötvenmillió eurót. Ha a szavatoló tőke és a pótlólagos tőke összege eléri a tízmillió eurót, a szavatoló tőkét nem szükséges tovább növelni. A számítás alapját képező összegbe bele kell számítani azon portfóliókat, amelyek kezelésével a befektetési alapkezelő kiszervezésre irányuló szerződés alapján harmadik személyt bízott meg, nem kell figyelembe venni azonban azokat a portfóliókat, amelyeket a befektetési alapkezelő kiszervezésre irányuló szerződés alapján megbízottként kezel.
 
@@ -453,7 +453,7 @@ alá.
 
 (6a) A (6) bekezdésben foglaltak figyelembevétele mellett
 
-- a) ingatlanalapot is kezelő befektetési alapkezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében – kizárólag az ingatlanalapok vonatkozásában – szakmai gyakorlatként ingatlanforgalmazónál, ingatlanalapot kezelő befektetési alapkezelőnél szakirányú területen,
+- a) ingatlanalapot vagy vegyes alapot is kezelő befektetési alapkezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében – kizárólag az ingatlanalapok vagy vegyes alapok vonatkozásában – szakmai gyakorlatként ingatlanforgalmazónál, ingatlanalapot kezelő befektetési alapkezelőnél szakirányú területen,
 - b) kockázati tőkealap-kezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében üzletviteli tanácsadással foglalkozó gazdasági társaságnál szakirányú területen
 
 munkavégzésre irányuló jogviszonyban eltöltött idő is szakmai gyakorlatnak számít.
@@ -464,7 +464,7 @@ munkavégzésre irányuló jogviszonyban eltöltött idő is szakmai gyakorlatna
 
 - a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, pénzügyi intézménynél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíj szolgáltató intézménynél,
 - b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
-- c) kizárólag ingatlanalapot kezelő befektetési alapkezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – az ingatlanforgalmazónál,
+- c) kizárólag ingatlanalapot, illetve vegyes alapot kezelő befektetési alapkezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – az ingatlanforgalmazónál,
 - d) kockázati tőkealap-kezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
 - e) az a)–d) pontban felsoroltak külföldi megfelelőinél
 
@@ -1177,7 +1177,7 @@ tekintetében.
 - c) végrehajtja az ABAK utasításait, kivéve, ha azok ellentétben állnak valamely jogszabály rendelkezésével vagy az ABA kezelési szabályzatával;
 - d) gondoskodik arról, hogy az ABA az eszközeit érintő ügyletek során az ellenértéket a szokásos határidőn belül kézhez kapja;
 - e) biztosítja, hogy az ABA a bevételét a jogszabályokkal és az ABA kezelési szabályzatával összhangban használja fel;
-- f) ingatlanalapok esetén az ingatlanok átruházására, valamint az ingatlanok megterhelésére vonatkozó szerződések hatályosságához megadja a Ptk. 6:118. § (1) bekezdése szerinti beleegyezést, ha az adott ügylet megfelel a befektetési alapra vonatkozó jogszabályoknak.
+- f) ingatlanalapok és vegyes alapok esetén az ingatlanok átruházására, valamint az ingatlanok megterhelésére vonatkozó szerződések hatályosságához megadja a Ptk. 6:118. § (1) bekezdése szerinti beleegyezést, ha az adott ügylet megfelel a befektetési alapra vonatkozó jogszabályoknak.
 
 (10) A letétkezelő tisztességesen, magas szakmai színvonalon, függetlenül és az ABA és az ABA befektetőinek érdekeit szem előtt tartva jár el. A letétkezelő nem végezhet olyan tevékenységeket az ABA részére, amelyek az ABA, annak befektetői, az ABAK vagy saját maga között összeférhetetlenséget okozhatnak, kivéve, ha a letétkezelő letétkezelői tevékenységét egyéb esetlegesen összeférhetetlen tevékenységeitől működési és hierarchikus szempontból elválasztja, és az esetleges összeférhetetlenségeket feltárja, kezeli, nyomon követi és az ABA befektetői előtt nyilvánosságra hozza. A (8) bekezdésben említett eszközöket a letétkezelő az ABA előzetes engedélye nélkül nem hasznosíthatja újra.
 
@@ -1240,7 +1240,7 @@ tekintetében.
 - b) a lehetséges befektetők köre alapján szakmai vagy lakossági befektetőknek forgalmazott befektetési alapként (befektetési alap forgalmazási köre);
 - c) a befektetési jegyek visszaválthatósága alapján nyílt végű vagy zárt végű befektetési alapként (befektetési alap fajtája);
 - d) a futamidő alapján határozott vagy határozatlan futamidővel (befektetési alap futamideje);
-- e) a befektetési alap által megszerezhető elsődleges eszközök alapján értékpapíralapként, ingatlanalapként, kockázati tőkealapként vagy magántőkealapként (elsődleges eszközkategória típusa);
+- e) a befektetési alap által megszerezhető elsődleges eszközök alapján, amelynek típusait jogszabály határozza meg (elsődleges eszközkategória típusa);
 - f) a harmonizáció alapján ÁÉKBV-ként vagy ABA-ként (harmonizáció típusa).
 
 (2) Nyilvános befektetési alapként működik az a befektetési alap, amelynek legalább egy befektetési jegy sorozatát nyilvános forgalomba hozatal útján hozták forgalomba.
@@ -1261,18 +1261,17 @@ tekintetében.
 
 (9a) A kockázati tőkealap és a magántőkealap pénzkölcsönt nyújthat azzal, hogy a pénzkölcsön időtartama nem haladhatja meg a kockázati tőkealap, illetve a magántőkealap futamidejéből a kölcsönnyújtás időpontjában hátralévő teljes időtartamot.
 
-(10) Az értékpapíralapok és az ingatlanalapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
+(10) A kockázati tőkealapok és a magántőkealapok kivételével a befektetési alapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
 
-68. § (1) A nyilvános befektetési alap legkisebb induló saját tőkéje
+68. § (1) A nyilvános befektetési alap legkisebb induló saját tőkéje – az (1a) bekezdésben foglalt kivétellel – kétszázmillió forint.
 
-- a) értékpapíralap esetén kétszázmillió forint,
-- b) ingatlanalap esetén egymilliárd forint.
+(1a) Az ingatlanalap és vegyes alap legkisebb induló saját tőkéje egymilliárd forint.
 
-(2) A zártkörű befektetési alap legkisebb induló saját tőkéje
+(2) A zártkörű befektetési alap legkisebb induló saját tőkéje – a (2a) és (2b) bekezdésben foglalt kivétellel – százmillió forint.
 
-- a) értékpapíralap esetében százmillió forint,
-- b) ingatlanalap esetén ötszázmillió forint,
-- c) kockázati tőkealap és magántőkealap esetén kettőszázötvenmillió forint.
+(2a) Az ingatlanalap és vegyes alap legkisebb induló saját tőkéje ötszázmillió forint.
+
+(2b) A kockázati tőkealap és magántőkealap legkisebb induló saját tőkéje kettőszázötvenmillió forint.
 
 (3) Amennyiben több sorozatba tartozó befektetési jegy kerül forgalomba hozatalra, a legkisebb induló saját tőkére vonatkozó előírásoknak csak a befektetési alap szintjén kell teljesülnie.
 
@@ -1291,9 +1290,9 @@ tekintetében.
 - a) a letétkezelő megbízására vonatkozó szerződést;
 - b) a befektetési alap kezelési szabályzatát;
 - c) az induló saját tőke lejegyzésének és az induló saját tőke befizetésének, illetve teljesítésének igazolását;
-- d) ingatlanalap esetében a könyvvizsgáló megbízására irányuló szerződést.
+- d) ingatlanalap és vegyes alap esetében a könyvvizsgáló megbízására irányuló szerződést.
 
-(3) Ingatlanalap esetében az (1) és (2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását, illetve annak módosítását a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
+(3) Ingatlanalap és vegyes alap esetében az (1) és (2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását, illetve annak módosítását a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
 
 (4) A 2. § (2) bekezdés szerinti ABAK által kezelt kockázati illetve magántőkealap esetében a (2) bekezdésben meghatározott feltételek közül a b) és c) pontban foglaltakat kell teljesíteni a nyilvántartásba vételhez.
 
@@ -1433,16 +1432,16 @@ pótolja.
 
 #### 32. Eszközök értékesítése és a vagyon kifizetése
 
-77. § (1) A megszűnési eljárás alatt a befektetési alap vagyonába tartozó pénzügyi eszközöket 1 hónapon belül, az ingatlanokat 12 hónapon belül, a kockázati és magántőkealap portfóliójában lévő eszközöket 18 hónapon belül értékesíteni kell. Az értékesítést a pénzügyi eszközök esetében piaci áron, az ingatlanalap portfóliójában lévő ingatlanok esetében legalább az ingatlanértékelő által meghatározott áron, a kockázati és magántőkealap portfóliójában lévő eszközök esetében a 38. §-ban meghatározott értékbecslő által meghatározott áron kell megkísérelni. Az értékesítésre megállapított határidő a befektetők érdekében a Felügyelet engedélyével pénzügyi eszközök esetében 3, ingatlanok és egyéb eszközök esetében 6 hónappal meghosszabbítható. A kockázati, illetve magántőkealap tulajdonában lévő,
+77. § (1) A megszűnési eljárás alatt a befektetési alap vagyonába tartozó pénzügyi eszközöket 1 hónapon belül, az ingatlanokat 12 hónapon belül, a kockázati és magántőkealap portfóliójában lévő eszközöket 18 hónapon belül értékesíteni kell. Az értékesítést a pénzügyi eszközök esetében piaci áron, az ingatlanalap és vegyes alap portfóliójában lévő ingatlanok esetében legalább az ingatlanértékelő által meghatározott áron, a kockázati és magántőkealap portfóliójában lévő eszközök esetében a 38. §-ban meghatározott értékbecslő által meghatározott áron kell megkísérelni. Az értékesítésre megállapított határidő a befektetők érdekében a Felügyelet engedélyével pénzügyi eszközök esetében 3, ingatlanok és egyéb eszközök esetében 6 hónappal meghosszabbítható. A kockázati, illetve magántőkealap tulajdonában lévő,
 
 - a) szabályozott piacra bevezetett értékpapírokat a befektetési jegy tulajdonosok között – a kezelési szabályzatban rögzített szabályoknak megfelelően –,
 - b) szabályozott piacra be nem vezetett eszközöket az összes befektetési jegy tulajdonos egyhangú hozzájárulása alapján a befektetési jegy tulajdonosok között – a kezelési szabályzatban rögzített szabályoknak megfelelően –
 
 természetben is fel lehet osztani.
 
-(2) Az ingatlanalap portfóliójában lévő ingatlanok értékesítésére vonatkozó, (1) bekezdésben meghatározott határidő eredménytelen eltelte esetén az ingatlanokat nyilvános árverésen történő értékesítésre kell bocsátani. Az árverési felhívást a befektetési alap közzétételi helyein az árverés időpontját legalább 10 nappal megelőzően meg kell jelentetni.
+(2) Az ingatlanalap és vegyes alap portfóliójában lévő ingatlanok értékesítésére vonatkozó, (1) bekezdésben meghatározott határidő eredménytelen eltelte esetén az ingatlanokat nyilvános árverésen történő értékesítésre kell bocsátani. Az árverési felhívást a befektetési alap közzétételi helyein az árverés időpontját legalább 10 nappal megelőzően meg kell jelentetni.
 
-78. § (1) A befektetési alap tulajdonába tartozó teljes vagyon értékesítéséből származó ellenérték befolyását és a kötelezettségek teljesítését követő 5 munkanapon belül, ingatlanalap, kockázati és magántőkealap esetében 15 munkanapon belül megszűnési jelentést kell készíteni. A megszűnési jelentést a Felügyelethez be kell nyújtani és ezzel egyidejűleg a befektetők felé közzé kell tenni. A megszűnési jelentésnek legalább a 4. mellékletben foglaltakat kell tartalmaznia. A megszűnési jelentés közzétételét követően a fizetések megkezdhetők.
+78. § (1) A befektetési alap tulajdonába tartozó teljes vagyon értékesítéséből származó ellenérték befolyását és a kötelezettségek teljesítését követő 5 munkanapon belül, ingatlanalap, vegyes alap, kockázati és magántőkealap esetében 15 munkanapon belül megszűnési jelentést kell készíteni. A megszűnési jelentést a Felügyelethez be kell nyújtani és ezzel egyidejűleg a befektetők felé közzé kell tenni. A megszűnési jelentésnek legalább a 4. mellékletben foglaltakat kell tartalmaznia. A megszűnési jelentés közzétételét követően a fizetések megkezdhetők.
 
 (2) A Felügyelet a megszűnési jelentés benyújtását követő nappal a befektetési alapkezelő kérelmére törli a befektetési alapot a nyilvántartásból. A befektetési alap a nyilvántartásból való törléssel megszűnik.
 
@@ -1759,7 +1758,7 @@ engedélyezte a tervezett egyesülést.
 
 (2) A befektetők által leadott és a kezelési szabályzatban meghatározott adott időpontig beérkezett vételi és visszaváltási megbízásokat a szabályzatban meghatározott forgalmazás-elszámolási napra vonatkozóan kell elszámolni, továbbá az elszámolt megbízások ellenértékét a szabályzatban meghatározott forgalmazás-teljesítési napig kell a befektetők számára jóváírni, kifizetni.
 
-(3) Nyilvános nyílt végű értékpapíralap esetében legalább heti egy, ezen belül a nyilvános nyílt végű származtatott alapok és alapok alapja esetében legalább havonta egy, zártkörű nyílt végű alap esetében legalább negyedévente egy forgalmazás-elszámolási napot kell biztosítani. A nyilvános nyílt végű alapok esetében a forgalmazás-teljesítési nap nem lehet későbbi, mint a forgalmazás-elszámolási napot követő 10. nap. Ha egy befektetési alap befektetési politikája szerint eszközeinek több mint húsz százalékát egy adott másik alapba fekteti, választhatja azt, hogy a forgalmazási szabályai egyezzenek meg a portfóliójában több mint 20%-ot képviselő alap forgalmazási szabályaival.
+(3) Nyilvános nyílt végű befektetési alap esetében legalább heti egy, ezen belül a nyilvános nyílt végű származtatott alapok és alapok alapja esetében legalább havonta egy, zártkörű nyílt végű alap esetében legalább negyedévente egy forgalmazás-elszámolási napot kell biztosítani. A nyilvános nyílt végű alapok esetében a forgalmazás-teljesítési nap nem lehet későbbi, mint a forgalmazás-elszámolási napot követő 10. nap. Ha egy befektetési alap befektetési politikája szerint eszközeinek több mint húsz százalékát egy adott másik alapba fekteti, választhatja azt, hogy a forgalmazási szabályai egyezzenek meg a portfóliójában több mint 20%-ot képviselő alap forgalmazási szabályaival.
 
 (4) Amennyiben a forgalmazás-elszámolási nap, illetve a forgalmazás-teljesítési nap az eladás, illetve a visszaváltás felfüggesztésének vagy szünetelésének napjára esik, a határidő az azt követő első olyan forgalmazás-elszámolási, illetve forgalmazás-teljesítési nap, amikor a megbízás irányának megfelelő forgalmazás felfüggesztése megszűnik. Amennyiben a befektetőnek a befektetési jegyek vételére, illetve visszaváltására vonatkozó megbízása az előbbiek alapján függőben van, úgy a befektető jogosult a megbízását írásban visszavonni. A megbízás visszavonása esetén a befektető terhére díj vagy költség nem számítható fel.
 
@@ -1802,7 +1801,7 @@ engedélyezte a tervezett egyesülést.
 
 (2) A Felügyelet a befektetési alapkezelő intézkedésének hiányában felfüggesztheti a befektetési jegyek folyamatos forgalmazását a 114. § (1) bekezdésében meghatározott esetekben, valamint a befektetési jegyek visszaváltását a 114. § (2) bekezdésében meghatározott esetben.
 
-116. § (1) A felfüggesztés időtartama ingatlanalap esetében legfeljebb 1 év, minden egyéb befektetési alap esetében legfeljebb 30 nap, azzal, hogy az eszközeit a kezelési szabályzatában meghatározott befektetési politikája szerint legalább 20%-ban más befektetési alapba fektető befektetési alap esetében a felfüggesztés időtartama a mögöttes befektetési alap felfüggesztési szabályaihoz igazodik. A Felügyelet indokolt esetben a befektetési alapkezelő kérelmére a felfüggesztést további, legfeljebb 1 évig terjedő időtartammal meghosszabbíthatja.
+116. § (1) A felfüggesztés időtartama ingatlanalap és vegyes alap esetében legfeljebb 1 év, minden egyéb befektetési alap esetében legfeljebb 30 nap, azzal, hogy az eszközeit a kezelési szabályzatában meghatározott befektetési politikája szerint legalább 20%-ban más befektetési alapba fektető befektetési alap esetében a felfüggesztés időtartama a mögöttes befektetési alap felfüggesztési szabályaihoz igazodik. A Felügyelet indokolt esetben a befektetési alapkezelő kérelmére a felfüggesztést további, legfeljebb 1 évig terjedő időtartammal meghosszabbíthatja.
 
 (2) A befektetési jegyek forgalmazását a forgalmazás felfüggesztését kiváltó ok megszűnését követően, vagy amennyiben azt a Felügyelet határozatban elrendeli, haladéktalanul folytatni kell.
 
@@ -2132,9 +2131,9 @@ formájában teljesíti.
 
 és gondoskodni kell arról, hogy az éves és féléves jelentések legalább 5 évig nyilvánosan elérhetők legyenek.
 
-132. § (1) A nyilvános nyílt végű befektetési alap éves jelentése tartalmazza a befektetési alap eredmény-kimutatását, jelentést az adott időszakban végzett tevékenységekről és a 6. mellékletben, ingatlanalap esetében továbbá a 7. mellékletben meghatározott egyéb adatokat, valamint az összes egyéb olyan lényeges információt, amelynek alapján a befektetők véleményt tudnak alkotni a befektetési alap tevékenységeinek fejlesztéséről és eredményeiről.
+132. § (1) A nyilvános nyílt végű befektetési alap éves jelentése tartalmazza a befektetési alap eredmény-kimutatását, jelentést az adott időszakban végzett tevékenységekről és a 6. mellékletben, ingatlanalap és vegyes alap esetében továbbá a 7. mellékletben meghatározott egyéb adatokat, valamint az összes egyéb olyan lényeges információt, amelynek alapján a befektetők véleményt tudnak alkotni a befektetési alap tevékenységeinek fejlesztéséről és eredményeiről.
 
-(2) A nyilvános nyílt végű befektetési alap féléves jelentése tartalmazza a 6. melléklet I–IV. szakaszában, továbbá ingatlanalap esetében a 7. melléklet 2–3. szakaszában meghatározott adatokat. Amennyiben a befektetési alap év közben hozamot fizet, a mérlegnek tartalmaznia kell az adózott féléves eredményt és a kifizetett vagy felkínált közbenső hozamot.
+(2) A nyilvános nyílt végű befektetési alap féléves jelentése tartalmazza a 6. melléklet I–IV. szakaszában, továbbá ingatlanalap és vegyes alap esetében a 7. melléklet 2–3. szakaszában meghatározott adatokat. Amennyiben a befektetési alap év közben hozamot fizet, a mérlegnek tartalmaznia kell az adózott féléves eredményt és a kifizetett vagy felkínált közbenső hozamot.
 
 (3) A nyilvános nyílt végű befektetési alap éves és féléves jelentésének tartalma tekintetében a 2015/2365 rendelet rendelkezései is megfelelően alkalmazandók.
 
@@ -2485,12 +2484,12 @@ kapja meg; valamint
   - bb) a befektetési alap vagy részalap, továbbá az adott értékpapír-sorozat megnevezése, a befektetési alap típusa, fajtája, harmonizációja, valamint a részalapok esetében annak a befektetési alapnak a megnevezése, amelyen belül a részalap kialakításra került,
   - bc) a befektetési alap működésének módja (nyilvános vagy zártkörű),
   - bd) a befektetési alap futamideje (határozott vagy határozatlan),
-  - be) a befektetési szabályoknak megfelelő kategória (értékpapíralap, ingatlanalap, kockázati tőkealap vagy magántőkealap),
+  - be) a befektetési szabályoknak megfelelő kategória,
   - bf) azon országok felsorolása, ahol a kollektív befektetési forma által forgalomba hozott értékpapírt forgalmazhatják,
   - bg) az alapkezelő társaság megnevezése, székhelye, cégbírósági nyilvántartási száma,
   - bh) a letétkezelő megnevezése, székhelye, cégbírósági nyilvántartási száma,
   - bi) a könyvvizsgáló cég neve a jogi forma megjelölésével, székhelye, kamarai nyilvántartási száma, könyvvizsgáló természetes személy esetén a könyvvizsgáló neve, címe, kamarai nyilvántartási száma,
-  - bj) ingatlanalap esetén az ingatlanértékelő megnevezése, székhelye,
+  - bj) ingatlanalap és vegyes alap esetén az ingatlanértékelő megnevezése, székhelye,
   - bk) közzétételi helye,
   - bl) nyilvános alap esetében a felügyeleti engedély száma, kiadásának időpontja,
   - bm) nyilvántartásba vétel, nyilvántartásból való törlés időpontja,
@@ -3018,7 +3017,7 @@ szemben.
 - a) az MNB-vel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, a központi szerződő féllel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
-- d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
+- d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, végrehajtóval, illetve végelszámolóval,
 - e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
 - f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtésre felhatalmazott szervvel,
@@ -3464,7 +3463,7 @@ Kezelési szabályzat
 - 1.10. A befektetési alap futamideje (határozatlan vagy határozott), határozott futamidő esetén a futamidő lejáratának feltüntetése
 - 1.11. Annak feltüntetése, ha a befektetési alap ÁÉKBV-irányelv vagy ABAK-irányelv alapján harmonizált alap
 - 1.12. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
-- 1.13. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
+- 1.13. A befektetési alap jogszabály szerinti elsődleges eszközkategória típusa
 - 1.14. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet hitelintézet által vállalt garancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 - 2. A befektetési alapra vonatkozó egyéb alapinformációk
 - 3. A befektetési alapkezelésre, továbbá a befektetési jegyek forgalomba hozatalára és forgalmazására vonatkozó, valamint az alap és a befektető közötti jogviszonyt szabályozó jogszabályok felsorolása
@@ -3501,15 +3500,15 @@ Kezelési szabályzat
 - 24.7. Az értékeléshez felhasználni kívánt árinformációk forrása
 - 24.8. Amennyiben azon származtatott ügylet jellemzői, amelybe a befektetési alap befektet, különböznek a jogszabály által a származtatott ügyletekre vonatkozóan meghatározott általános jellemzőktől, az erre vonatkozó figyelemfelhívás, meghatározva az adott származtatott ügylet jellemzőit és kockázatát
 - 24.9. Az adott tárgykörre vonatkozó egyéb információk
-- 25. Ingatlanalapra vonatkozó speciális rendelkezések
-- 25.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap
-- 25.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap
-- 25.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap
+- 25. Ingatlanalapra, vegyes alapra vonatkozó speciális rendelkezések
+- 25.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap, vegyes alap
+- 25.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap, vegyes alap
+- 25.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap, vegyes alap
 - 25.4. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma összegszerűen
 - 25.5. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma az összes eszközhöz viszonyítottan
 - 25.6. Az építés alatt álló ingatlanok maximum aránya
-- 25.7. Az ingatlanalapra háruló kockázatok
-- 25.8. Az ingatlanalapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
+- 25.7. Az ingatlanalapra, vegyes alapra háruló kockázatok
+- 25.8. Az ingatlanalapra, vegyes alapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
 - 25.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
 
 #### IV. A kockázatok
@@ -3611,7 +3610,7 @@ Kezelési szabályzat
 - 1.10. A befektetési alap futamideje (határozatlan vagy határozott), határozott futamidő esetén a futamidő lejáratának feltüntetése
 - 1.11. Annak feltüntetése, hogy a befektetési alap az ÁÉKBV-irányelv alapján nem harmonizált, illetve az ABAK-irányelv alapján harmonizált alap
 - 1.12. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
-- 1.13. A befektetési alap elsődleges eszközkategória típusa (értékpapíralap, ingatlanalap kockázati tőkealap, magántőkealap)
+- 1.13. A befektetési alap jogszabály szerinti elsődleges eszközkategória típusa
 - 1.14. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet hitelintézet által vállalt garancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 - 2. A befektetési alapra vonatkozó egyéb alapinformációk
 - 3. A befektetési alapkezelésre, továbbá a befektetési jegyek forgalomba hozatalára és forgalmazására vonatkozó, valamint az alap és a befektető közötti jogviszonyt szabályozó jogszabályok felsorolása
@@ -3669,17 +3668,17 @@ Kezelési szabályzat
 - 35.8. Amennyiben azon származtatott ügylet jellemzői, amelybe a befektetési alap befektet, különböznek a jogszabály által a származtatott ügyletekre vonatkozóan meghatározott általános jellemzőktől, az erre vonatkozó figyelemfelhívás, meghatározva az adott származtatott ügylet jellemzőit és kockázatát
 - 35.9. A származtatott ügyletekben lévő pozíciók összesített kockázati kitettségének mértéke
 - 35.10. Az adott tárgykörre vonatkozó egyéb információk
-- 36. Ingatlanalapra vonatkozó speciális rendelkezések
-- 36.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap
-- 36.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap
-- 36.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap
+- 36. Ingatlanalapra, vegyes alapra vonatkozó speciális rendelkezések
+- 36.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap, vegyes alap
+- 36.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap, vegyes alap
+- 36.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap, vegyes alap
 - 36.4. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma összegszerűen
 - 36.5. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma az összes eszközhöz viszonyítottan
 - 36.6. Az építés alatt álló ingatlanok maximum aránya
-- 36.7. Az ingatlanalapra háruló kockázatok
-- 36.8. Az ingatlanalapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
+- 36.7. Az ingatlanalapra, vegyes alapra háruló kockázatok
+- 36.8. Az ingatlanalapra, vegyes alapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
 - 36.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
-- 36.10. Amennyiben a befektetési alap eltér a nyilvános ingatlanbefektetési alapokra vonatkozó kölcsönfelvételi korlátoktól, az eltérés lehetőségének és indokának részletes bemutatása
+- 36.10. Amennyiben a befektetési alap, vegyes alap eltér a nyilvános ingatlanbefektetési alapokra vonatkozó kölcsönfelvételi korlátoktól, az eltérés lehetőségének és indokának részletes bemutatása
 
 #### VII. A kockázatok
 
@@ -3896,7 +3895,7 @@ Tájékoztató
 - 1.9. A befektetési alap futamideje (határozatlan vagy határozott), határozott futamidő esetén a futamidő lejáratának feltüntetése
 - 1.10. Annak feltüntetése, ha a befektetési alap ÁÉKBV-irányelv alapján harmonizált alap.
 - 1.11. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
-- 1.12. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
+- 1.12. A befektetési alap külön jogszabály szerinti elsődleges eszközkategória típusa
 - 1.13. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet hitelintézet által vállalt garancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 - 1.14. Az adott tárgykörre vonatkozó egyéb információ
 - 2. A befektetési alappal kapcsolatos határozatok
@@ -4102,7 +4101,7 @@ e) javadalmazási politikájának érdemi változásait.
 
 ### 7. melléklet a 2014. évi XVI. törvényhez
 
-#### A nyilvános ingatlanalapok éves és féléves jelentésében közzéteendő kiegészítő információk
+#### A nyilvános ingatlanalapok, vegyes alapok éves és féléves jelentésében közzéteendő kiegészítő információk
 
 - 1. Az éves jelentésben az alábbi, ingatlanonkénti adatokat kell megadni:
   - a) az ingatlan címe; helyrajzi száma; az alábbi 2. pont szerinti funkcionális kategóriák szerinti besorolása; bruttó, illetve nettó bérbeadható területe; az építés, használatba vétel éve; tervezett tartási időtávja. Az előbbi, ingatlanonkénti adatok társasházanként összevontan is megadhatóak,

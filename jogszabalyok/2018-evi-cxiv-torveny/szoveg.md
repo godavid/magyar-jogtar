@@ -26,9 +26,9 @@ terjed ki.
 
 (3) A (2) bekezdés szerinti többletkötelezettség vállalását miniszteri rendelet szerint ellentételezni kell.
 
-(4) A honvédelmi alkalmazott önkéntes tartalékos jogviszonyt nem létesíthet.
+(4) A honvédelmi alkalmazott önkéntes tartalékos szolgálati viszonyt létesíthet. Az önkéntes tartalékos szolgálati viszony fennállása alatt a (2) bekezdésben meghatározott többletkötelezettség nem vállalható. Ha a honvédelmi alkalmazott az önkéntes tartalékos szolgálati viszony létesítését megelőzően a (2) bekezdésben meghatározott többletkötelezettséget vállalt, erre irányuló nyilatkozata az önkéntes tartalékos állományba vétel napját megelőző napon a hatályát veszti.
 
-(5) A honvédek jogállásról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 117. § (3) bekezdése alapján illetmény nélküli szabadságon lévő, ez idő alatt a Hvt. 70. § (4) bekezdése szerint honvédelmi alkalmazotti jogviszonyt létesítő hivatásos vagy szerződéses katona a (2) bekezdésben meghatározott többletkötelezettséget nem vállalhat.
+(5) A honvédek jogállási kérdéseit szabályozó jogszabály szerint a házastárs vagy élettárs tartós külföldi kiküldetése időtartamára vagy a kérelemre méltányolható egyéni indokból engedélyezett illetmény nélküli szolgálatmentességen lévő, ez idő alatt a Hvt. 70. § (4) bekezdése szerint honvédelmi alkalmazotti jogviszonyt létesítő hivatásos vagy szerződéses katona a (2) bekezdésben meghatározott többletkötelezettséget nem vállalhat.
 
 4. § (1) A honvédelmi alkalmazotti jogviszonyra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -36,7 +36,7 @@ terjed ki.
 
 (3) A honvédelmi alkalmazotti jogviszony tekintetében az Mt. 12. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaerő-piaci viszonyokat nem kell figyelembe venni.
 
-(4) Az Mt. 13. §-a, 198–207. §, 213. §-a és 228. §-a a honvédelmi alkalmazotti jogviszony tekintetében nem alkalmazható.
+(4) Az Mt. 13. §-a, 198–213. §-a és 228. §-a a honvédelmi alkalmazotti jogviszony tekintetében nem alkalmazható.
 
 (5) E törvény alkalmazásában munkaviszonyra vonatkozó szabály a jogszabály és az Mt. 293. §-ban foglaltak szerint kötelező határozat.
 
@@ -60,23 +60,21 @@ terjed ki.
 
 (4) A honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonyával kapcsolatos jogviták a közigazgatási perrendtartásról szóló 2017. évi I. törvény hatálya alá tartoznak.
 
-#### 3/A. A jognyilatkozatokra vonatkozó szabályok
+#### 3/A. A jognyilatkozatokra vonatkozó különös szabályok
 
-6/A. § (1) A nyilatkozattevő személyének az Mt. 22. § (2) bekezdése szerinti azonosításához nem szükséges a nyilatkozattevőnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus aláírása vagy minősített elektronikus aláírása.
+6/A. § (1) A jognyilatkozatok megtétele során előnyben kell részesíteni az elektronikus ügyintézést.
 
-(2) A honvédelmi alkalmazotti jogviszony létesítésével, módosításával, továbbá a megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkört gyakorló részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
+(2) A honvédelmi alkalmazott részére az elektronikus kapcsolattartás és ügyintézés, a jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a miniszter által vezetett minisztérium központi pénzügyi és számviteli feladatokat ellátó szervezete által üzemeltetett elektronikus ügyintézési felületen (a továbbiakban: Ügyfélszolgálati Rendszer) biztosított, jóváhagyott elektronikus azonosítási szolgáltatást és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhelyet kell biztosítani.
 
-(3) A (2) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkört gyakorló miniszteri rendeletben kijelölt képviselője öt napon belül záradékolással ellátott, hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A honvédelmi alkalmazottal a papír alapú kiadmányt kell közölni.
+(3) Ha az Ügyfélszolgálati Rendszer azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítés ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
-(4) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkört gyakorló az iratot a (2) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkört gyakorlónak legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (3) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
+(4) A honvédelmi szervezet jegyzőkönyvet vesz fel arról, ha az írásbeli jognyilatkozat átvételét a címzett vagy az átvételre jogosult más személy megtagadta vagy szándékosan megakadályozta.
 
-(5) A jogorvoslat módjára és határidejére a munkáltatói döntésben utalni kell. Ha törvény alapján a munkáltatói döntés ellen bírósági eljárásnak van helye, a jogorvoslatról való tájékoztatásnak tartalmaznia kell az eljáró bíróság és az alperes megnevezését, a jogorvoslat előterjesztésére nyitva álló határidőt, a jogorvoslat előterjesztésének helyét, valamint azt a felhívást, hogy a keresetlevelet a határidő végéig postára kell adni, vagy elektronikusan be kell nyújtani. Ha a határidő jogvesztő, a felhívásnak arra is ki kell terjednie, hogy a keresetlevélnek a határidő végéig a bírósághoz vagy az intézkedésre jogosult első fokú hatósághoz meg kell érkeznie.
-
-(6) Ha a munkáltatói jogkört gyakorló a jognyilatkozatot elektronikus dokumentum hozzáférhetővé tétele útján közölte, és a címzett vagy az átvételre jogosult más személy az átvételt az elektronikus dokumentum átvételét követő öt napon belül nem igazolja vissza, a munkáltatói jogkört gyakorló postai úton közli vele a jognyilatkozatot. Ilyen esetben a jognyilatkozat közlésének napja a második közlés napja.
+(5) Ha az elektronikus dokumentum elektronikus kézbesítése nem lehetséges, az elektronikusan kiadmányozott jognyilatkozatról öt napon belül záradékolással hiteles papíralapú másolatot kell készíteni. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a másolat az alapul szolgáló elektronikusan hitelesített irattal megegyezik. Ebben az esetben a honvédelmi alkalmazottal a hiteles papíralapú másolatot kell közölni.
 
 #### 3/B. Az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézbesítése
 
-6/B. § (1) A honvédelmi alkalmazotti jogviszonyban álló személy köteles az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézhezvétele érdekében a miniszter által vezetett minisztérium központi pénzügyi és számviteli feladatokat ellátó szervezete által üzemeltetett elektronikus ügyintézési felületen (a továbbiakban: Ügyfélszolgálati Rendszer) biztosított, jóváhagyott elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni.
+6/B. § (1) A honvédelmi alkalmazotti jogviszonyban álló személy köteles az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézhezvétele érdekében az Ügyfélszolgálati rendszeren biztosított, jóváhagyott elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni.
 
 (2) Ha az Ügyfélszolgálati Rendszer azt igazolja vissza, hogy az elektronikus formában kiadott összesített adóigazolást és a társadalombiztosítási nyilvántartás adatairól szóló igazolást a címzett kétszeri értesítés ellenére sem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés időpontját követő ötödik munkanapon.
 
@@ -94,7 +92,7 @@ terjed ki.
 
 8. § (1) A részvételi jogokat a honvédelmi szervezettel honvédelmi alkalmazotti jogviszonyban álló honvédelmi alkalmazottak közössége nevében az általuk közvetlenül választott honvédelmi alkalmazottak tanácsa, illetve honvédelmi alkalmazottak képviselője gyakorolja.
 
-(2) Honvédelmi alkalmazottak tanácsát kell választani minden olyan honvédelmi szervezetnél, ahol a honvédelmi alkalmazottak létszáma a tizenöt főt eléri. A tizenöt főnél kevesebb honvédelmi alkalmazottat foglalkoztató honvédelmi szervezetnél honvédelmi alkalmazottak képviselőjét kell választani.
+(2) Honvédelmi alkalmazottak tanácsa választható minden olyan honvédelmi szervezetnél, ahol a honvédelmi alkalmazottak létszáma a tizenöt főt eléri. A tizenöt főnél kevesebb honvédelmi alkalmazottat foglalkoztató honvédelmi szervezetnél honvédelmi alkalmazottak képviselője választható.
 
 (3) A honvédelmi alkalmazottak képviselőjére a honvédelmi alkalmazottak tanácsára, illetve a honvédelmi alkalmazottak tanácsának tagjára vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -179,19 +177,13 @@ határozott időre történő kinevezéssel létesíthető.
 
 (4) A honvédelmi alkalmazotti jogviszonyt határozatlan idejűnek kell tekinteni, ha a határozott időre történő kinevezés nem felel meg a (2) bekezdésben foglaltaknak.
 
-15. § (1) A kinevezésben a honvédelmi alkalmazotti jogviszony létesítésekor – a (4)–(5) bekezdésben foglalt kivétellel – három hónap próbaidő megállapítása kötelező.
+15. § (1) A kinevezésben a honvédelmi alkalmazotti jogviszony létesítésekor – a (3)–(5) bekezdésben foglalt kivétellel – legalább három, legfeljebb négy hónap tartamú próbaidőt kell kikötni.
 
-(2) A kinevezésben a honvédelmi alkalmazotti jogviszony létesítésekor három hónapot meghaladó próbaidő köthető ki, amelynek tartama legfeljebb négy hónapig terjedhet.
+(2) A próbaidő nem hosszabbítható meg. A próbaidő tartama alatt a honvédelmi alkalmazotti jogviszonyt bármelyik fél azonnali hatállyal indokolás nélkül megszüntetheti.
 
-(3) A próbaidő nem hosszabbítható meg. A próbaidő tartama alatt a honvédelmi alkalmazotti jogviszonyt bármelyik fél azonnali hatállyal indokolás nélkül megszüntetheti.
+(3) Nem kell próbaidőt megállapítani meghatározott munka elvégzésére vagy feladat ellátására szóló határozott idejű, vagy azonos felek közötti újabb kinevezés esetén, ha a kinevezés azonos vagy hasonló munkakörbe történik. E rendelkezés nem alkalmazható akkor, ha a honvédelmi alkalmazotti jogviszony a 16. § (16) bekezdése szerint szűnt meg, és az újabb honvédelmi alkalmazotti jogviszony létesítésekor a gyakornoki idő kikötése kötelező.
 
-(4) Nem kell próbaidőt megállapítani – kivéve, ha a honvédelmi alkalmazotti jogviszony a 16. § (16) bekezdése szerint szűnt meg, és az újabb honvédelmi alkalmazotti jogviszony létesítésekor a gyakornoki idő kikötése kötelező –
-
-- a) áthelyezés,
-- b) meghatározott munka elvégzésére vagy feladat ellátására szóló határozott idejű kinevezés, illetve
-- c) azonos felek közötti újabb kinevezés
-
-esetén.
+(4) Ha jogszabály rendelkezése alapján a honvédelmi alkalmazotti jogviszonyt folyamatosnak kell tekinteni, vagy a honvédelmi alkalmazott előző jogviszonyát úgy kell tekinteni, mintha azt a honvédelmi alkalmazotti jogviszonyában töltötte volna el, akkor nem köthető ki próbaidő, amennyiben azt a honvédelmi alkalmazott az előző jogviszonyában már letöltötte. A le nem töltött próbaidőből eltelt időt az új honvédelmi alkalmazotti jogviszonyban kikötött próbaidőbe be kell számítani.
 
 (5) Miniszteri rendelet megállapíthatja munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén az (1) bekezdés szerinti próbaidőt nem lehet megállapítani.
 
@@ -305,9 +297,12 @@ eredmény adható.
 
 hatályos.
 
-(6) Az (5) bekezdés szerinti időponttól a honvédelmi alkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatásra e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
+(6) Az (5) bekezdés szerinti időponttól a honvédelmi alkalmazott részére a munkaidő csökkenésével megegyező arányban jár
 
-(7) A kötelező részmunkaidős foglalkoztatás a honvédelmi alkalmazott kérelme szerinti időpontig, de legfeljebb a gyermek négyéves – fogyatékos gyermek esetén tizennégy éves – koráig, három vagy több gyermeket nevelő honvédelmi alkalmazott esetén a gyermek hatéves – fogyatékos gyermek esetén tizennyolc éves – koráig tart. Ezt követően a honvédelmi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
+- a) az alapilletmény, a rendszeres illetménypótlék és a honvédelmi illetménykiegészítés, továbbá
+- b) a honvédelmi alkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás, ha a rá való jogosultság a munkaidő mértékével összefügg.
+
+(7) A kötelező részmunkaidős foglalkoztatás a honvédelmi alkalmazott kérelme szerinti időpontig, de legfeljebb a gyermek négyéves – fogyatékos gyermek esetén tizennégy éves – koráig, három vagy több gyermeket nevelő honvédelmi alkalmazott esetén a gyermek hatéves – fogyatékos gyermek esetén tizennyolc éves – koráig tart. Ezt követően a honvédelmi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani, a (6) bekezdés szerinti járandóságok pedig részére a munkaidő növekedésével megegyező arányban járnak.
 
 (8) A (7) bekezdés alkalmazásában fogyatékos gyermek a 18. életévét be nem töltött, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § a) pontja szerinti fogyatékos személy.
 
@@ -397,9 +392,9 @@ hatálya alá tartozó munkáltatók között,
 
 (5) Különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
-(6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
+(6)
 
-(7) A (6) bekezdés szerinti megállapodással történő áthelyezés esetén a honvédelmi alkalmazotti jogviszonyt folyamatosnak kell tekinteni. Ebben az esetben próbaidő nem köthető ki.
+(7)
 
 22. § (1) Ha a honvédelmi szervezet egészét vagy egy részét (szervezeti egységét, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportját) az Mt. hatálya alá tartozó munkáltató veszi át, a honvédelmi szervezet átvett szervezeti egységénél vagy tevékenysége keretében foglalkoztatott honvédelmi alkalmazottak honvédelmi alkalmazotti jogviszonya az átadás időpontjában megszűnik.
 
@@ -476,7 +471,7 @@ alakul át.
 
 (2) Az áthelyezés során meg kell állapodni a honvédelmi alkalmazott új munkakörében, munkahelyében, illetményében és az áthelyezés időpontjában.
 
-(3) Az áthelyezett honvédelmi alkalmazottnak az áthelyezést megelőző honvédelmi alkalmazotti jogviszonyát úgy kell tekinteni, mintha azt új munkáltatójánál töltötte volna el.
+(3) Az áthelyezett honvédelmi alkalmazottnak az áthelyezést megelőző honvédelmi alkalmazotti jogviszonyát – ha jogszabály eltérően nem rendelkezik – úgy kell tekinteni, mintha azt új munkáltatójánál töltötte volna el.
 
 (4) A honvédelmi szervezet fenntartója – törvény eltérő rendelkezése hiányában – az általa fenntartott, e törvény hatálya alá tartozó honvédelmi szervezetek között kezdeményezheti a honvédelmi alkalmazott határozatlan időre szóló áthelyezését. Erre rendkívül indokolt esetben, így különösen akkor kerülhet sor, ha annak a honvédelmi szervezetnek, ahová az áthelyezés irányul, a feladatai – különösen a munka- és pihenőidő, illetve a rendes szabadság kiadása szabályaira tekintettel – munkaszervezési eszközök alkalmazásával sem teljesíthetők.
 
@@ -645,7 +640,14 @@ meghosszabbodik.
 
 (3) Ha a honvédelmi alkalmazottal ugyanazon honvédelmi szervezet legalább két alkalommal határozott időre szóló honvédelmi alkalmazotti jogviszonyt létesít, és a korábbi honvédelmi alkalmazotti jogviszony megszűnése, valamint az újabb honvédelmi alkalmazotti jogviszony létesítésének időpontja között hat hónapnál hosszabb idő nem telt el, a honvédelmi alkalmazott végkielégítésre jogosult, feltéve, hogy honvédelmi alkalmazotti jogviszonya a 27. § (2) bekezdés szerinti eljárásban, a 30. § (1) bekezdés a) pont vagy b) pontjában foglalt okok alapján kerül megszüntetésre, vagy a 21. § (1) bekezdés a) pontja szerint szűnik meg. Kettőnél több határozott idejű honvédelmi alkalmazotti jogviszony esetén a hat hónapnál hosszabb megszakítás előtt fennállt jogviszonyok időtartamát nem lehet figyelembe venni. A végkielégítésre való jogosultság megállapításakor a (6) bekezdést kell alkalmazni azzal, hogy az e bekezdés szerinti jogcímen megszűnt vagy megszüntetett határozott idejű jogviszonyok időtartamát kell összeszámítani. Ha az első mondatban szereplő okokra alapított megszüntetés vagy megszűnés alapján a honvédelmi alkalmazott végkielégítésre vált jogosulttá, az azonos felek közötti újabb határozott idejű kinevezés esetén a végkielégítésre való jogosultság megállapításakor figyelmen kívül kell hagyni azon honvédelmi alkalmazotti jogviszonyok időtartamát, amelyekre tekintettel a korábbi végkielégítés kifizetése megtörtént.
 
-(4) A végkielégítésre való jogosultság feltétele, hogy a honvédelmi alkalmazott legalább a (6) bekezdés a) pontjában meghatározott időtartamú honvédelmi alkalmazott jogviszonnyal rendelkezzen. A honvédelmi alkalmazott végkielégítésre való jogosultságának megállapításánál – az áthelyezést kivéve – nem lehet beszámítani a korábbi honvédelmi alkalmazotti jogviszonyban töltött időt. A végkielégítésre való jogosultság szempontjából emellett figyelmen kívül kell hagyni a 16. § (8) bekezdés b) és c) pontjában meghatározott időtartamot is, kivéve a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása céljából, továbbá a tizenkét éven aluli gyermek betegsége esetén az otthoni ápolás érdekében igénybe vett fizetés nélküli szabadság időtartamát.
+(4) A végkielégítésre való jogosultság feltétele, hogy a honvédelmi alkalmazott legalább a (6) bekezdés a) pontjában meghatározott időtartamú honvédelmi alkalmazotti jogviszonnyal rendelkezzen.
+
+(4a) A honvédelmi alkalmazott végkielégítésre való jogosultságának megállapításánál nem lehet beszámítani a korábbi honvédelmi alkalmazotti jogviszonyban töltött időt, kivéve, ha jogszabályi rendelkezés alapján
+
+- a) a honvédelmi alkalmazott jogviszonyát folyamatosnak kell tekinteni, vagy
+- b) a honvédelmi alkalmazott előző jogviszonyát úgy kell tekinteni, mintha azt a honvédelmi alkalmazotti jogviszonyában töltötte volna el.
+
+(4b) A végkielégítésre való jogosultság szempontjából figyelmen kívül kell hagyni a 16. § (8) bekezdés b) és c) pontjában meghatározott időtartamot, kivéve a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása céljából, továbbá a tizenkét éven aluli gyermek betegsége esetén az otthoni ápolás érdekében igénybe vett fizetés nélküli szabadság időtartamát, továbbá azt az időtartamot, amely után végkielégítés korábban járt.
 
 (5) A végkielégítésre való jogosultság megállapításánál figyelembe kell venni
 
@@ -1048,7 +1050,7 @@ megfelelő összeg illeti meg.
 
 (1a) A honvédelmi alkalmazott részére
 
-- a) a tárgyévre jóváhagyott külön keret terhére megállapítható,
+- a)
 - b) miniszteri döntésen alapuló,
 - c) az illetménygazdálkodási keret megtakarításának terhére megállapítható vagy
 - d) határozott idejű projektben való részvételért járó
@@ -1240,7 +1242,7 @@ vonatkozó szabályok szerint kell figyelembe venni.
 - a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
 - b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél munkaviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
 - c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
-- d) a Hjt. szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban,
+- d) a honvédek jogállásáról szóló kormányrendelet (továbbiakban: Hjkr.) szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban,
 - e) a d) ponttól eltérő szolgálati jogviszonyban,
 - f) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban,
 - g) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
@@ -1268,9 +1270,12 @@ eltöltött időt.
 
 (4) Ha a honvédelmi alkalmazotti jogviszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
-(5) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb honvédelmi alkalmazotti jogviszonyt létesít, honvédelmi alkalmazotti jogviszonyát folyamatosnak kell tekinteni.
+(5) A honvédelmi alkalmazott jogviszonyát folyamatosnak kell tekinteni
 
-(6) Ha a honvédelmi alkalmazotti jogviszonyt létesítő személy a honvédelmi alkalmazotti jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít honvédelmi alkalmazotti jogviszonyt, jogviszonyát folyamatosnak kell tekinteni. Ebben az esetben próbaidő nem köthető ki.
+- a) bármely jogviszonyból történt áthelyezése esetén, vagy
+- b) ha honvédelmi alkalmazotti jogviszonyban, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban, munkaviszonyban vagy ösztöndíjas foglalkoztatási jogviszonyban állt, és az e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül munkavégzésre irányuló első jogviszonyként honvédelmi alkalmazotti jogviszonyt létesített.
+
+(6)
 
 ### IV. Fejezet — A HONVÉDELMI ALKALMAZOTTI JOGVISZONYRA VONATKOZÓ SAJÁTOS ELŐÍRÁSOK
 
@@ -1331,7 +1336,7 @@ eltöltött időt.
 
 (5) Az egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonya 21. § (2) bekezdés b) pontja szerinti áthelyezéssel megszüntethető az e törvény és az Eszjtv. hatálya alá tartozó munkáltatók között.
 
-(6) A 3. § (4) bekezdése nem alkalmazható a honvédelmi egészségügyi szolgáltatónál foglalkoztatott, a 3. § (2) bekezdése szerinti többletkötelezettséget nem vállalt honvédelmi alkalmazottra.
+(6)
 
 (7) A 6. § (1) bekezdésétől eltérően a munkáltatói jogkörök gyakorlására jogosultak körét és hatáskörüket a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
 
@@ -1408,8 +1413,8 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 (14) Ha az egészségügyi honvédelmi alkalmazott munkaköre ellátása helyett vagy mellett a honvédelmi egészségügyi szolgáltató vezetője rendelkezése alapján átmenetileg más egészségügyi munkakörű katona szolgálati beosztásába vagy más egészségügyi honvédelmi alkalmazott munkakörébe tartozó feladatokat lát el 30 napon túl, és ezáltal jelentős többletmunkát végez, a többletmunka ellentételezésére illetményén felül részére
 
 - a) a helyettesített egészségügyi honvédelmi alkalmazott illetményének legfeljebb 50%-a,
-- b) a Hjt. 237/L. § (1) bekezdése szerinti egészségügyi munkakörű katona helyettesítése esetén a helyettesített Hjt. 237/L. § (10) bekezdés a) pontja szerinti alapilletményének legfeljebb 50%-a,
-- c) a Hjt. 237/L. § (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona helyettesítése esetén a Hjt. 123. §-a szerinti alapilletményének legfeljebb 50%-a
+- b) az (1) bekezdés szerinti munkakörben foglalkoztatott egészségügyi munkakörű katona helyettesítése esetén a helyettesített katona illetményének legfeljebb 50%-a
+- c) azon egészségügyi munkakörű katona helyettesítése esetén, aki nem az (1) bekezdés szerinti munkakört tölt be, az alapilletményének legfeljebb 50%-a
 
 állapítható meg. E bekezdés szerinti esetekre nem alkalmazható a 20. § (1) bekezdése.
 
@@ -1435,7 +1440,7 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 kivéve, ha hozzájárul a kirendeléséhez.
 
-(4) Ha a tizenhat évnél fiatalabb gyermek mindkét szülője egészségügyi honvédelmi alkalmazott, illetve a Hjt. szerinti egészségügyi munkakörű katona, akkor csak az egyik szülő rendelhető ki a (2) és (3) bekezdésben foglaltak figyelembevételével.
+(4) Ha a tizenhat évnél fiatalabb gyermek mindkét szülője egészségügyi honvédelmi alkalmazott, illetve a Hjkr. szerinti egészségügyi munkakörű katona, akkor csak az egyik szülő rendelhető ki a (2) és (3) bekezdésben foglaltak figyelembevételével.
 
 (5) Az egészségügyi honvédelmi alkalmazottat legalább tíz munkanappal korábban írásban tájékoztatni szükséges
 
@@ -1447,7 +1452,7 @@ kivéve, ha hozzájárul a kirendeléséhez.
 
 (6) A kirendelt egészségügyi honvédelmi alkalmazott az (5) bekezdés szerinti tájékoztatást követő három munkanapon belül köteles jelezni, ha a kirendelés a (3) vagy (4) bekezdésbe ütközik, vagy számára aránytalan sérelemmel járna.
 
-89/G. § Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi honvédelmi alkalmazott, továbbá az egészségügyről szóló törvény szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi honvédelmi alkalmazott a 3. § (2) bekezdése szerinti többletkötelezettséget nem vállalhat.
+89/G. § Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a miniszter rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi honvédelmi alkalmazott, továbbá az egészségügyről szóló törvény szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi honvédelmi alkalmazott a 3. § (2) bekezdése szerinti többletkötelezettséget nem vállalhat.
 
 ### VI. Fejezet — A HONVÉDELMI ALKALMAZOTTI NYILVÁNTARTÁS
 
@@ -1640,6 +1645,8 @@ jogviszony-megszűnésnek.
 (4) A (3) bekezdés szerinti tájékoztatást a munkáltató a kérelem közlésétől számított 30 napon belül köteles megadni.
 
 (5) A munkáltató, ha a honvédelmi alkalmazott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, az Mt. 118/A. §-a szerinti szülői szabadságot – a honvédelmi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
+99/G. § Azon honvédelmi alkalmazottak esetében, akik részére a honvédek jogállásával összefüggő törvények módosításáról szóló 2024. évi XX. törvény (a továbbiakban: Módtv2.) hatálybalépését megelőző napon a 76. § (1a) bekezdés a) pontja szerinti keresetkiegészítés került biztosításra, a Módtv2. hatálybalépésének napjától, a 76. § (1a) bekezdése szerinti keresetkiegészítés megszüntetésével egyidejűleg ezen összeggel azonos mértékben emelkedik az alapilletményének a garantált illetménynél magasabb összegben megállapított illetményrésze.
 
 #### 18.
 

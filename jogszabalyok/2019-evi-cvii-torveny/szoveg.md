@@ -91,7 +91,7 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 
 hozható létre.
 
-(2) Az álláshely betölthető a különleges jogállású szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a különleges jogállású szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony), illetve a különleges jogállású szervhez kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személlyel is, azzal, hogy ebben az esetben a hivatásos szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
+(2) Az álláshely betölthető a különleges jogállású szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a különleges jogállású szervhez a honvédek jogállásáról szóló kormányrendelet szerint vezényelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony), illetve a különleges jogállású szervhez kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személlyel is, azzal, hogy ebben az esetben a hivatásos szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
 
 (3) Egy álláshelyen egyidejűleg – a (4) bekezdésben meghatározott kivétellel – egy jogviszony hozható létre.
 
@@ -1688,7 +1688,7 @@ időtartamát.
 
 (3) Az (1) és a (2) bekezdés szerinti különleges jogállású szerv vezetője és annak helyettese a különleges jogállású szervet létrehozó törvényben meghatározott mértékű illetményre jogosult.
 
-(4) Az 5. § (2) bekezdése szerinti vezénylés vagy kirendelés esetén az illetmény összegére az (1)–(2) bekezdés helyett a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a honvédek jogállásáról szóló törvény vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény rendelkezéseit kell alkalmazni, ha az a foglalkoztatottra kedvezőbb szabályt állapít meg.
+(4) Az 5. § (2) bekezdése szerinti vezénylés vagy kirendelés esetén az illetmény összegére az (1)–(2) bekezdés helyett a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a honvédek jogállásáról szóló kormányrendelet vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény rendelkezéseit kell alkalmazni, ha az a foglalkoztatottra kedvezőbb szabályt állapít meg.
 
 (5) Az illetmény összegének legalább a garantált bérminimum összegét el kell érnie.
 

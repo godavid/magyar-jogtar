@@ -56,7 +56,7 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 #### 3. Általános szabályok
 
-8. § A Földforgalmi törvény 36. § (1) bekezdésében foglalt esetek kivételével a föld tulajdonjogának átruházása esetén a szerződésben szereplő ellenértéket banki átutalással vagy ügyvédi letét alkalmazásával kell teljesíteni. A felek ettől eltérő megállapodása semmis.
+8. § A föld tulajdonának átruházása esetén a szerződésben szereplő ellenértéket banki átutalással vagy ügyvédi letét alkalmazásával, közjegyzői okiratba foglalt szerződés esetén pedig közjegyzői bizalmi őrzésbe helyezéssel kell teljesíteni. A szerződésben az ellenérték teljesítésének módját meg kell határozni. A felek ettől eltérő megállapodása semmis.
 
 #### 4. A csereszerződésre vonatkozó szabályok
 
@@ -137,11 +137,11 @@ a csere birtok-összevonási célú földcserének minősül.
 
 18/A. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés e) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az elővásárlásra jogosult termelőként saját maga vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet az adásvétel tárgyát képező föld valamely művelési ágával megegyező művelési ágú föld vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
-(2) A Földforgalmi törvény 18. § (2) bekezdés b) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
+(2) A Földforgalmi törvény 18. § (2) bekezdés e) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
 
-(3) A Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodási célú elővásárlási jog gyakorlása során az elővásárlási jog jogosultjának az adás-vételi szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy az elővásárlási joggal érintett föld teljes területét az azon fennálló földhasználati jogviszonynak a nyilatkozat megtételének napján hatályos időtartamát követően, de legfeljebb a tulajdonjog megszerzésétől számított 3 éven belül birtokba veszi, továbbá a birtokba lépéstől számított tíz évig – ideértve az átállási időszakot is – az elővásárlási joggal érintett föld teljes területén a Földforgalmi törvény 13. § (1) bekezdése vagy (2) bekezdésének a) pontja szerint ökológiai gazdálkodást fog folytatni.
+(3) A Földforgalmi törvény 18. § (2) bekezdés e) pontja szerinti ökológiai gazdálkodási célú elővásárlási jog gyakorlása során az elővásárlási jog jogosultjának az adás-vételi szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy az elővásárlási joggal érintett föld teljes területét az azon fennálló földhasználati jogviszonynak a nyilatkozat megtételének napján hatályos időtartamát követően, de legfeljebb a tulajdonjog megszerzésétől számított 3 éven belül birtokba veszi, továbbá a birtokba lépéstől számított tíz gazdasági évben – ideértve az átállási időszakot is – az elővásárlási joggal érintett föld teljes területén a Földforgalmi törvény 13. § (1) bekezdése vagy (2) bekezdésének a) pontja szerint ökológiai gazdálkodást fog folytatni.
 
-(4) Azon személynek, aki a föld tulajdonjogának megszerzése során elővásárlási jogát a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodási célú földvásárlásra alapította, a föld birtokba vételét követő 30 napon belül a mezőgazdasági igazgatási szervnél igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai gazdálkodásra átállást megkezdte, továbbá az átállási idő lejárta után igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+(4) Azon személynek, aki a föld tulajdonjogának megszerzése során elővásárlási jogát a Földforgalmi törvény 18. § (2) bekezdés e) pontja szerinti ökológiai gazdálkodási célú földvásárlásra alapította, a föld birtokba vételét követő 30 napon belül a mezőgazdasági igazgatási szervnél igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai gazdálkodásra átállást megkezdte, továbbá az átállási idő lejárta után igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
 (5) Az (1)–(3) bekezdésben foglalt feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
 
@@ -476,6 +476,12 @@ kell érteni.
 
 (2) Az (1) bekezdésbe ütköző szerződés semmis.
 
+51/B. § (1) A haszonbérleti szerződés a haszonbérlő által kötelezően alkalmazandó agrotechnikára, növénykultúrára vagy termelési módszerre vonatkozó előírást nem tartalmazhat.
+
+(2) Az (1) bekezdésbe ütköző szerződés semmis.
+
+(3) Ha a haszonbérleti szerződés a gazdasági év végével megszűnik, a haszonbérlő az adott gazdasági évhez kapcsolódó betakarításra a szerződés megszűnését követően is jogosult. A felek ezzel ellentétes megállapodása – a haszonbérleti szerződés közös megegyezéssel történő megszüntetése kivételével – semmis.
+
 #### 13. A haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal való közlése
 
 52. § (1) A Földforgalmi törvény 49. § (1) bekezdése szerinti egységes okiratba foglalt haszonbérleti szerződés alatt – az e törvényben meghatározott esetek kivételével – olyan szerződést kell érteni, amely a feleknek a szerződés létrejöttére irányuló nyilatkozatait, a szerződés lényeges tartalmi elemeit, továbbá a felek által meghatározott valamennyi kikötést, feltételt magában foglalja. E bekezdésben foglaltakat kell alkalmazni a 65. § szerinti egységes okiratba foglalt alhaszonbérleti szerződésre és a X. Fejezet szerinti egységes okiratba foglalt használati megosztásról szóló megállapodásra és földhasználati szerződésre is.
@@ -770,6 +776,11 @@ javára történő átengedésére.
 (4) A többlethasználati megállapodást írásba kell foglalni. Ha a többlethasználati megállapodásban a (3) bekezdésben foglaltak szerint a terület egy része használatának átengedése történik, úgy a többlethasználati megállapodás a 71. § (9) bekezdése szerint elkészített térképi kimutatással együtt érvényes, amely a megállapodás elválaszthatatlan mellékletét képezi. A térképi kimutatást a többlethasználati megállapodásban részes tulajdonostársaknak kell aláírniuk.
 
 (5) A tulajdonostársak között többlethasználati megállapodás jön létre a haszonbérleti szerződés szerinti tartalommal akkor is, ha a tulajdonostárs részéről a Földforgalmi törvény 46. § (2) bekezdése vagy a Ptk. 5:81. § (1) bekezdése szerinti előhaszonbérleti jog gyakorlására kerül sor.
+
+(6) A többlethasználati megállapodás megszűnik
+
+- a) a földet használó tulajdonostárs tulajdonostársi minőségének megszűnésével, a tulajdonostársi minőség megszűnésének napján,
+- b) a használati megosztásról szóló megállapodás módosítása vagy megszűnése esetén.
 
 71. § (1) A közös tulajdonban álló földön a 70. § szerinti használati rend kialakításához az e §-ban meghatározottak szerint a tulajdonostársak tulajdoni hányad alapján számított többségi döntése szükséges azzal, hogy ha a tulajdonostársak tulajdoni hányad alapján számított legalább egytizede a használati megosztásról szóló (5) bekezdés szerinti ajánlatban foglaltakkal nem ért egyet, akkor a használati rend kialakításához a tulajdonostársak tulajdoni hányad alapján számított kétharmados döntése szükséges. A használati rendet a használati megosztásról szóló megállapodásban kell rögzíteni.
 
@@ -1618,6 +1629,8 @@ nyújthatja be.
 
 - a) 2022. január 1-jétől számított három, ültetvény esetében hét éven belül kell megkezdeni, ha a föld birtokbavételére 2022. január 1-jét megelőzően került sor,
 - b) a föld birtokbavételétől számított három, ültetvény esetében hét éven belül kell megkezdeni, ha a föld birtokbavételére 2021. december 31-ét követően került sor.
+
+110/H. § Az egyes agrártárgyú törvények módosításáról szóló 2024. évi XIX. törvénnyel megállapított 51/B. § (3) bekezdését a 2024. július 1-jén fennálló haszonbérleti szerződésekre is alkalmazni kell.
 
 ### XIX. Fejezet — A FÖLDHASZNÁLATI SZERZŐDÉSEKRE VONATKOZÓ ÁTMENETI RENDELKEZÉSEK
 
