@@ -168,7 +168,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat;
 - k) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
-(2) A járási hivatal ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
+(2)
 
 (3) Az anyakönyvvezető a nyilvántartást kezelő szerv részére továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiállításához szükséges adatokat. Nem kerül hivatalból kiállításra az állandó személyazonosító igazolvány titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén.
 
@@ -203,7 +203,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - j) törvény hatálya alá tartozó tevékenységével összefüggésben gondoskodik a személyes adatok védelméről;
 - k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
 - l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat.
-- m) ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
+- m)
 
 9. § (1) A nyilvántartás adatkezelője a nyilvántartást kezelő szerv.
 
@@ -234,7 +234,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - r)
 - s)
 
-(2a) A nyilvántartást kezelő szerv ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
+(2a)
 
 (3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve elektronikusan tárolva – kezeli:
 
@@ -580,7 +580,7 @@ van lehetőség.
 - l) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához, a nyilvántartást kezelő szervtől;
 - m) a közjegyző
   - ma) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével – a lakcímadatok vonatkozásában azonban a történeti adatokat is beleértve – a fizetési meghagyásos eljáráshoz, az európai fizetési meghagyásos eljáráshoz, a végrehajtási eljáráshoz, az európai uniós jogforráson alapuló tanúsítvány, igazolás, kivonat kiállítása iránti eljáráshoz,
-  - mb) a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz,
+  - mb)
   - mc) a bejegyzett élettársi kapcsolat megszüntetésére irányuló, valamint az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz, továbbá az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az egyéb közjegyzői nemperes eljárásokhoz;
 - n) az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
 - o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
@@ -628,6 +628,13 @@ van lehetőség.
 - n) az Elektronikus Egészségügyi Szolgáltatási Tér útján az intézetben történt születést bejelentő intézet a születés bejelentéséhez, a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez szükséges adatok továbbításával kapcsolatos kötelezettségeinek teljesítéséhez.
 - o) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez.
 - p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság az e hatósági hatáskörében ellátandó feladatai végrehajtásához.
+- q) a jegyző és a közjegyző
+  - qa) az örökhagyó tekintetében a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
+  - qb) a hagyatéki eljárásban érdekelt tekintetében az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
+  - qc) az öröklésben érdekelt tekintetében a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére és a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
+  - qd) a kieséses örökös tekintetében az állampolgárságra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére és a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
+
+a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz és az ingatlan-nyilvántartási feladatok ellátásához.
 
 23. § E törvény felhatalmazása alapján a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
 
@@ -708,7 +715,13 @@ adatot igényelhet.
 
 24/N. § A személyazonosító igazolványt kiadó és nyilvántartó hatóság a kérelmező személyazonosságának, valamint személyi adatainak és vezetői engedélye adatainak ellenőrzése céljából térítésmentesen igényelheti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
 
-24/P. § A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a személyi azonosítót, a 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatokat jogosultak igényelni.
+24/O. § (1) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató részére az ügyfél személyazonosságának ellenőrzése, valamint a digitális állampolgárság nyilvántartást vezető szerv általi digitális állampolgár azonosító képzése és digitális állampolgárság aktiválása céljából átadja a polgár természetes személyazonosító adatait, állampolgársága és neme adatát, arcképmását, a regisztrációhoz használt személyazonosság igazolására alkalmas hatósági igazolványa típusát, okmányazonosítóját és érvényessége tényét.
+
+(2) A nyilvántartást kezelő szervtől a digitális állampolgárság nyilvántartást vezető szerv a polgár természetes személyazonosító adatainak, állampolgárságának, nemének, személyi azonosítójának és nyilvántartásból való kikerülése okának és idejének, továbbá a regisztrációhoz használt személyazonosság igazolására alkalmas hatósági igazolványa típusának, okmányazonosítójának és érvényessége tényének igénylésére jogosult.
+
+(3) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 15. § (5) bekezdésében meghatározottak szerint adatszolgáltatást teljesít.
+
+#### 24/P. §
 
 ### V. Fejezet — A nyilvántartási eljárás
 
@@ -1209,19 +1222,7 @@ ad tájékoztatást.
 
 (12) A (8) bekezdés szerinti adatigénylésről és az ahhoz kapcsolódó tájékoztatásról az okmánynyilvántartó szerv nyilvántartást nem vezet.
 
-### Digitális állampolgárság előregisztráció
-
-29/K. § (1) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató – a (2) bekezdésben meghatározott szerv útján – digitális állampolgárság előregisztráció lehetőségét biztosítja a polgár számára.
-
-(2) Az előregisztráció személyesen, a polgár személyazonosságának igazolása mellett
-
-- a) bármely járási hivatalnál,
-- b) a kijelölt kormányhivatalnál, vagy
-- c) a nyilvántartást kezelő szervnél
-
-kezdeményezhető.
-
-(3) A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a személyazonosság igazolását követően a polgár rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a polgár a mobileszközében eltárolja. A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás nyújtására kormányrendeletben kijelölt szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja.
+#### 29/K. §
 
 ### VI. Fejezet — Adatvédelem
 
@@ -1461,7 +1462,7 @@ kell érteni.
 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a települési címek 39. §-ban meghatározott jegyzői ellenőrzési eljárásának részletes szabályait.
 
-(1c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a digitális állampolgárság előregisztráció részletes szabályait.
+(1c)
 
 (2) A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza
 

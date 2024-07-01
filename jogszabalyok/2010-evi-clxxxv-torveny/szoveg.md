@@ -67,7 +67,7 @@ Az Országgyűlés a közösség és az egyén érdekeinek felismeréséből, a 
 
 ### A gyermekek és a kiskorúak védelme
 
-9. § (1) A lineáris médiaszolgáltatást nyújtó médiaszolgáltató – a hírműsorszám, a politikai tájékoztató műsorszám, a sportműsorszám, a műsorelőzetes, valamint a politikai reklám, a televíziós vásárlás, a társadalmi célú reklám és a közérdekű közlemény kivételével – valamennyi, általa közzétenni kívánt műsorszámot a közzétételt megelőzően a (2)–(7) bekezdés szerinti kategóriák valamelyikébe sorolja.
+9. § (1) A médiaszolgáltatást nyújtó médiaszolgáltató – a hírműsorszám, a politikai tájékoztató műsorszám, a sportműsorszám, a műsorelőzetes, valamint a politikai reklám, a televíziós vásárlás, a társadalmi célú reklám és a közérdekű közlemény kivételével – valamennyi, általa közzétenni kívánt műsorszámot a közzétételt megelőzően a (2)–(7) bekezdés szerinti kategóriák valamelyikébe sorolja.
 
 (2) Azt a műsorszámot, amely korhatárra tekintet nélkül megtekinthető vagy meghallgatható, az I. kategóriába kell sorolni.
 
@@ -145,6 +145,8 @@ kerül sor. Ebben az esetben a minősítésre vonatkozó jelzést a műsorszám 
 (2a) Az Smtv. és e törvény alapján a kiskorúak médiaszolgáltatók által lekérhető médiaszolgáltatásban gyűjtött vagy más módon generált személyes adatai kereskedelmi céllal – így például közvetlen üzletszerzés, profilalkotás és viselkedésalapú célzott reklámozás céljából – nem kezelhetők.
 
 (3) A (2) bekezdés szerinti hatékony műszaki megoldások tekintetében a Médiatanács – szükség esetén nyilvános meghallgatást követően – ajánlást tesz közzé.
+
+11/A. § Kiskorú személy médiaszolgáltatásban történő bemutatása során − az Smtv. 14. § (2) bekezdésében és 19. § (4a) bekezdésében foglaltakkal összhangban – kiemelt figyelmet kell fordítani a bemutatott kiskorú szellemi, lelki, erkölcsi, fizikai fejlődésének a védelmére. A kiskorút szerepeltető olyan műsorszám esetén, amelynek meghatározó témája bűncselekmény, megalázó, kiszolgáltatott helyzetben lévő kiskorú bemutatása, az e műsorszámban alkalmazandó főbb elvi szempontokról a Médiatanács ajánlást tesz közzé.
 
 ### Tájékoztatási tevékenység
 
@@ -3073,7 +3075,7 @@ a Biztos hivatalánál panasszal élhet.
 
 176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató audiovizuális médiaszolgáltatása Magyarország területére irányul, illetve terjesztése vagy közzététele Magyarország területén történik, a Médiatanács intézkedésével a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, a Magyarország területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés b)-c) pontja szerinti jogkövetkezményeket alkalmazhatja, ha a következő feltételek fennállnak:
 
-- a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (2) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését vagy közegészségügyi sérelmet okoz, vagy a közegészség sérelmével fenyegető súlyos és komoly kockázatot jelent,
+- a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (2) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését, vagy 11. §-át, vagy közegészségügyi sérelmet okoz, vagy a közegészség sérelmével fenyegető súlyos és komoly kockázatot jelent,
 - b) e bekezdés szerinti intézkedés alkalmazását megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett valamely előírást,
 - c) Magyarország a Médiatanács kezdeményezésére írásban értesítette az érintett médiaszolgáltatót és azt a tagállamot, amelynek joghatósága alá a médiaszolgáltató tartozik, valamint az Európai Bizottságot az a) pont szerinti jogsértésekről és a Médiatanács tervezett, arányos intézkedéseiről, amelyeket a további jogsértés elkövetése esetén kíván alkalmazni,
 - d) Magyarország a Médiatanács kezdeményezésére a c) pontban foglalt írásbeli értesítéssel egyidejűleg nyilatkozattételre hívta fel az érintett médiaszolgáltatót a jogsértéssel összefüggő álláspontja, észrevételei, bizonyítékai előterjesztése vonatkozásában, és
@@ -3102,7 +3104,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (5) Kivételesen sürgős esetben a Médiatanács eltérhet az (1) bekezdés b) és c) pontjában megállapított feltételektől és az (1) bekezdés a) pontja szerinti jogsértést követő legfeljebb egy hónapon belül – nem hatósági eljárásban – ideiglenes intézkedést hozhat. Az ideiglenes intézkedés azonnal végrehajtható. A Médiatanács az ideiglenes intézkedésről értesíti az Európai Bizottságot, valamint azt a tagállamot, amelynek joghatósága alá a médiaszolgáltató tartozik, megjelölve azokat az okokat, amelyek miatt az esetet kivételesen sürgősnek tekinti.
 
-178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke Magyarország területére irányul, illetve terjesztése vagy közzététele Magyarország területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b) pont szerinti jogkövetkezményt alkalmazhatja, amennyiben a következő feltételek fennállnak:
+178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke Magyarország területére irányul, illetve terjesztése vagy közzététele Magyarország területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b) pontja szerinti jogkövetkezményt alkalmazhatja, amennyiben a következő feltételek fennállnak:
 
 - a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
 - b) az intézkedés olyan rádiós médiaszolgáltatás, vagy sajtótermék médiatartalom-szolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
@@ -3232,7 +3234,7 @@ a Biztos hivatalánál panasszal élhet.
 - o) felügyeli a Médiatudományi Intézet tevékenységét,
 - p) ellátja az önszabályozó szervezetek eljárásával kapcsolatos nem hatósági feladatokat,
 - q) összeállítja a társadalom számára kiemelten nagy jelentőséggel bíró események listáját,
-- r) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
+- r) kidolgozza a kiskorút szerepeltető olyan tudósításokra vonatkozó ajánlását, amelyek bűncselekményt vagy megalázó, kiszolgáltatott helyzetben lévő kiskorút mutatnak be,
 
 (2) A Médiatanács látja el a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU európai parlamenti és tanácsi irányelv 19–26. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében. Ennek végrehajtásánál a kölcsönös jogsegély során a Médiatanács a 2007/76/EK bizottsági határozatnak megfelelően jár el.
 

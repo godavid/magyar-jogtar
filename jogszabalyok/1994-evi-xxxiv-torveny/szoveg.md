@@ -190,14 +190,20 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-- a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+- a) ellátja
+  - aa) a vonatkozó jogszabályok alapján a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint
+  - ab) a javítóintézet, – fenntartótól függetlenül – a gyermekotthont működtető intézmény, a gyermekotthon és a nevelőszülői hálózat által foglalkoztatott személynek vagy ilyen foglalkoztatásra pályázónak a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben
+
+meghatározott kifogástalan életvitel ellenőrzését,
+
 - b) elvégzi
   - ba) az (1c) bekezdésben foglalt kivétellel a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által vezetett minisztérium vagy munkaszervezet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által irányított vagy felügyelt költségvetési szervek, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
   - bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók, valamint a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományának,
   - bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói,
   - bd) a területi kormányzati igazgatási szervek foglalkoztatottjának
+  - be) az a) pont ab) alpontja szerinti személyek, a területi gyermekvédelmi szakszolgálatok örökbefogadási tanácsadó és pszichológus munkakörben foglalkoztatottjainak, valamint a nyílt örökbefogadást elősegítő tevékenységre működési engedéllyel rendelkező közhasznú szervezetek foglalkoztatottjainak
 
-[a ba)–bd) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,
+[a ba)–be) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,
 
 - c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi e bűncselekmények felderítését.
 
@@ -646,12 +652,14 @@ igazolja.
 29. § (1) A rendőr a feladata ellátása során
 
 - a) igazoltathatja azt, akinek a személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében kell megállapítani,
-- b) az igazoltatott személyt lakcímének, tartózkodási helyének – az igazoltatott választása szerint – a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas dokumentummal történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre kérheti fel, valamint
+- b) az igazoltatott személyt lakcímének, tartózkodási helyének – az igazoltatott választása szerint – a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas módon történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre kérheti fel, valamint
 - c) amennyiben a 24/A. § (1) bekezdésében meghatározott személy felkérése alapján igazoltat, úgy az igazoltatott személyt a b) pontban megjelölt adatok igazolására, vagy ezen adatokra vonatkozó nyilatkozattételre kéri fel.
 
-(2) Az igazoltatott köteles a személyazonosító adatait hitelt érdemlően igazolni. A személyazonosságot – a személyazonosító igazolványon túl – minden olyan hatósági igazolvány igazolja, amely tartalmazza a személyazonosításhoz szükséges adatokat. Az igazoltatott kizárólag ezen okmányok egyikének bemutatására kötelezhető. A rendőr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
+(2) Az igazoltatott köteles a személyazonosító adatait hitelt érdemlően igazolni. A személyazonosságot – a személyazonosító igazolványon túl – minden olyan hatósági igazolvány igazolja, amely tartalmazza a személyazonosításhoz szükséges adatokat. Az igazoltatott – választása szerint – kizárólag ezen okmányok egyikének bemutatására vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális okmány vagy adattároló kód hozzáférhetővé tételére köteles. A rendőr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja az igazoltatott személyazonosságának az igazolásaként.
 
-(3) Ha további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják, az igazoltatás során rögzíteni kell az igazoltatott személyazonosító adatait, az igazolvány sorozatát és számát, az igazoltatás helyét, idejét és okát, valamint – az (1) bekezdés b) pontjában meghatározott felkérés teljesítése esetén – az igazoltatott személy lakóhelyét, tartózkodási helyét.
+(2a) Ha a személyazonosító adatait a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális okmány vagy adattároló kód hozzáférhetővé tétele útján kívánja igazolni, a (2) bekezdésben meghatározott hatósági igazolvány bemutatására az igazoltatott kizárólag abban az esetben kötelezhető, ha a digitális okmány adatainak vagy az adattároló kód alapján a közhiteles nyilvántartásból megjeleníteni kívánt adatoknak a megismeréséhez, illetve ellenőrzéséhez szükséges műszaki feltételek az igazoltatás során nem biztosítottak.
+
+(3) Ha további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják, az igazoltatás során rögzíteni kell az igazoltatott személyazonosító adatait, a (2) vagy (2a) bekezdés alapján megismert hatósági igazolvány sorozatát és számát, az igazoltatás helyét, idejét és okát, valamint – az (1) bekezdés b) pontjában meghatározott felkérés teljesítése esetén – az igazoltatott személy lakóhelyét, tartózkodási helyét.
 
 (4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén – ha a személyazonosság megállapítása más módon nem biztosítható vagy hitelt érdemlően nem bizonyítható – a személyazonosság megállapítása céljából az igazoltatottról fényképfelvétel készíthető, az igazoltatottól ujjnyomat vehető, továbbá a külső testi jegyek észlelés és mérés alapján rögzíthetők.
 
@@ -667,7 +675,7 @@ igazolja.
 
 (8) E § alkalmazásában személyazonosító adaton az érintett személy nevét, születési helyét, születési idejét és anyja születési családi és utónevét kell érteni.
 
-29/A. § (1) Ha az igazoltatott személyazonossága a 29. § (2) bekezdése alapján nem állapítható meg, – a 29. § (4) és (4a) bekezdésében meghatározottakon túl – a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 20. cikke alapján történő ellenőrzés céljából az igazoltatottól ujjnyomat vehető.
+29/A. § (1) Ha az igazoltatott személyazonossága a 29. § (2), illetve (2a) bekezdése alapján nem állapítható meg, – a 29. § (4) és (4a) bekezdésében meghatározottakon túl – a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 20. cikke alapján történő ellenőrzés céljából az igazoltatottól ujjnyomat vehető.
 
 (2) Az (1) bekezdésben meghatározott célból rögzített ujjnyomat-adat – a 29. § (7) bekezdésétől eltérően – kizárólag a VIS rendelet 20. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelhető, ezt követően haladéktalanul törölni kell.
 

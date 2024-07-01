@@ -982,7 +982,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 - f) a közlekedési szolgáltató belső szabályozásainak a közszolgáltatási szerződéssel fennálló összhangjára, továbbá
 - g) a közlekedési szolgáltató a közszolgáltatási szerződéssel összefüggő pénzügyi gazdálkodására.
 
-(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szint-mérési rendszert határoz meg és a szolgáltatók bevonásával működtet.
+(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szintmérési rendszert határoz meg és működtet. Az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a miniszter rendeletben határozza meg a (3) bekezdés a)–c) pontjában foglaltak teljesülésének ellenőrzéséért felelős szervezetet, a szervezet ellenőrzési feladataira, az ellenőrzés tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat.
 
 (5) Az ellátásért felelős a közszolgáltatások ellentételezésére fordított közforrások felhasználásának ellenőrzése érdekében a közszolgáltatási szerződésben a (3) bekezdés d)–g) pontjára kiterjedő pénzügyi és gazdálkodási jellegű ellenőrzési rendszert határoz meg és működtet.
 
@@ -1046,7 +1046,7 @@ szolgáltatásokat nyújt.
 
 (3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
 
-(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnését követő 5 évig kezeli.
+(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnéséig kezeli.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
@@ -1057,7 +1057,7 @@ szolgáltatásokat nyújt.
 - e) a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott, a menetkedvezményre való jogosultság igazolásához szükséges adatok,
 - f) a jogosult képmása a kedvezmény igénybevételére jogosító igazolvány kiállítása céljából.
 
-(6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat 3 évig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
+(6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat a jogosultság megszűnéséig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 
 (7)
 
@@ -1231,7 +1231,7 @@ rendeletben állapítsa meg.
 - f) a 19. § (1a) bekezdése szerinti közlekedésszakmai feltételek és hozzáférési feltételek részletes szabályait,
 - g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgáltatások eljárásainak díjait
 - h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésére kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
-- i)
+- i) a 35. § (4) bekezdésében meghatározott szervezet kijelölését, az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a szervezet feladataira, a személyszállítási közszolgáltatások teljesítése mennyiségi és minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat
 - j)
 - k)
 

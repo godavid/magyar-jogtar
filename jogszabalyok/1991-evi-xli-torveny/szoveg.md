@@ -244,7 +244,7 @@ követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
 18/A. § (1) Ha a pályázat kiírását követően a meghirdetett közjegyzői álláshely mégsem üresedik meg, a pályázatot visszavontnak kell tekinteni.
 
-(2) A pályázati eljárást a miniszter eredménytelenné nyilvánítja, ha a benyújtásra rendelkezésre álló határidőben nem érkezett érvényes pályázat.
+(2) A pályázati eljárást a miniszter eredménytelenné nyilváníthatja, ha a benyújtásra rendelkezésre álló határidőben nem érkezett érvényes pályázat, vagy ha a pályáztató területi elnökség által felterjesztett kinevezési javaslat nem tartalmaz legalább három érvényes pályázatot.
 
 (3) Érvényes a pályázat, ha a pályázó valamennyi, e törvény által előírt feltétel fennállását jogszabályban meghatározottak szerint igazolja.
 
@@ -928,7 +928,7 @@ foglalt kötelezettségek teljesítését.
 
 (2) A Magyar Országos Közjegyzői Kamara nyilvántartása a következő adatokat tartalmazza:
 
-- a) a közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző családi és utóneve, születési neve,
+- a) a közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző természetes személyazonosító adatai,
 - b) a közjegyző székhelye, illetékességi területe,
 - c) a közjegyzői kinevezés napja,
 - d) a hivatalba lépés időpontja,

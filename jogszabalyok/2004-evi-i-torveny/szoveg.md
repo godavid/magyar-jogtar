@@ -268,6 +268,25 @@ Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportr�
 
 (4) A sportszakember munkavégzésére a 8. § (2) bekezdés d) pontját alkalmazni kell.
 
+(5) Az Mt. 44/A. § (1) és (2) bekezdését a tizennyolcadik életévét be nem töltött sportoló versenyre való felkészítésére irányuló edzői tevékenységet végző sportszakember jogviszonyának létesítése és fenntartása tekintetében is megfelelően alkalmazni kell.
+
+(6) Az (5) bekezdésben meghatározott feltételnek való megfelelést a sportszakember
+
+- a) legkésőbb az erre vonatkozó jogviszony létrejötte előtt, vagy
+- b) a jogviszony fennállása alatt, a foglalkoztató írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a sportszakemberen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul
+
+a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal igazolja.
+
+(7) A foglalkoztató az (5) bekezdésben meghatározott feltételnek való megfelelés ellenőrzése céljából kezeli a sportszakember azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+
+(8) A (6) bekezdésben foglaltak alapján megismert személyes adatokat a foglalkoztató a jogviszony létesítéséről való döntés időpontjáig vagy − jogviszony fennállása esetén – a jogviszony megszűnéséig vagy megszüntetéséig kezeli.
+
+(9) Az (5)–(7) bekezdésben foglalt kötelezettségeknek való megfelelést a foglalkoztatás-felügyeleti hatóság ellenőrzi.
+
+(10) Tizennyolcadik életévét be nem töltött sportoló felkészítésére irányuló edzői tevékenységet végző sportszakember a megalapozott gyanú közlésétől számított nyolc napon belül bejelenti a foglalkoztatónak, ha az Mt. 44/A. § (1) bekezdés b) pontja szerinti büntetőeljárás hatálya alatt áll.
+
+(11) A tizennyolcadik életévét be nem töltött sportolót felkészítő edzői tevékenységet végző sportszakember legalább évente köteles részt venni a gyermekekkel való bánásmóddal, a gyermekekkel és a szülőkkel való kommunikációval kapcsolatos továbbképzésen. A továbbképzésen való részvételt az edzői tevékenységet végző sportszakember foglalkoztatója biztosítja. A továbbképzési kötelezettség a sportszövetség által szervezett továbbképzésen is teljesíthető.
+
 ### A hivatásos sportoló és a sportszakember munkaviszonyával összefüggő kötelezettségszegésre vonatkozó közös szabályok
 
 11/B. § A munkaviszonyban álló hivatásos sportoló és a sportszakember munkaviszonyból származó vétkes kötelezettségszegése esetén az Mt. 56. § (2) bekezdése alapján megállapított vagyoni hátrány iránti igény érvényesítése során az Mt. 161. és 285. §-ának szabályait kell alkalmazni azzal, hogy az Mt. 56. § (3) bekezdésében foglaltaktól eltérően a hátrányos jogkövetkezménnyel járó intézkedésre az annak alapjául szolgáló okról való tudomásszerzéstől számított tizenöt napon, legfeljebb azonban az ok bekövetkeztétől számított hat hónapon belül, bűncselekmény elkövetése esetén a büntethetőség elévüléséig kerülhet sor.
@@ -463,7 +482,7 @@ szabható ki.
 - d) működtetni a nemzeti válogatott kereteket, elősegíteni a sportágához tartozó sportolók részvételét a nemzetközi sporteseményeken,
 - e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az utánpótlás-nevelés fejlesztését is) és gondoskodni ezek megvalósításáról,
 - f) képviselni a sportág érdekeit az állami szervek, a sportköztestületek, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
-- g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
+- g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését − ideértve a gyermekekkel való bánásmóddal, a gyermekekkel és a szülőkkel való kommunikációval kapcsolatos továbbképzést is −,
 - h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról,
 - i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását,
 - j) nyertes pályázat esetén a kiemelt nemzetközi sportrendezvények magyarországi megrendezésével összefüggő állami feladatok ellátásában való közreműködés.
@@ -537,7 +556,7 @@ szabható ki.
 - e) doppingszabályzat, amelyben elfogadja a nemzeti doppingellenes szervezetnek a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott követelményeknek megfelelő szabályzatát,
 - f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletnek megfelelő felhasználására vonatkozó előírásokat is,
 - g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat,
-- h) etikai és gyermekvédelmi szabályzat,
+- h) etikai és gyermekvédelmi szabályzat, amelyben meghatározhat olyan sportszakmai tevékenységi köröket, amelyeknek tizennyolcadik életévét be nem töltött sportolóval összefüggő végzése során a 11/A. § (5)–(11) bekezdése alkalmazandó,
 - i) sportegészségügyi szabályzat, amely tartalmazza különösen a sportsérülések megelőzésére, a sportegészségügyi ellátás biztosítására és a sportbiztosításra vonatkozó sportági előírásokat is.
 
 (2) Amennyiben a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, úgy a versenyszabályzatban külön rendelkeznie kell a hivatásos vagy a vegyes bajnokságban részt vevő sportszervezetekkel, illetve sportolókkal szemben támasztott követelményekről.
@@ -1321,6 +1340,8 @@ kezeli.
 
 - a) a Nemzetközi Egyetemi Sportszövetség (a továbbiakban: FISU) által kizárólagos nemzeti egyetemi sportszövetségként elismert Magyar Egyetemi – Főiskolai Sportszövetségen (a továbbiakban: MEFS) keresztül részt vesz a nemzetközi egyetemi sportszervezetek tevékenységében, szervezi a FISU egyetemi világjátékain (Universiade) és egyetemi világbajnokságain, valamint az Európai Egyetemi Sportszövetség (a továbbiakban: EUSA) európai egyetemi játékain és európai egyetemek bajnokságain való magyar részvételt és az arra való felkészülés szakmai feladatait,
 - b) a MEFS-en keresztül, az érintett sportszövetségekkel együttműködve szervezi a FISU és az EUSA hazai eseményeit, továbbá a Magyar Egyetemi – Főiskolai Országos Bajnokságokat.
+
+(8) Az NDHSZ a sportszövetségekkel együttműködve előmozdítja a gyermekotthonokban élő gyermekek, illetve a hátrányos helyzetű gyermekek sportolását, sporteseményen való részvételét, egészséges életmódra nevelését.
 
 46/N. § (1) Az NDHSZ tagjai – az NDHSZ alapszabályának elfogadása esetén –
 
@@ -2389,6 +2410,8 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 (5) A Módtv12. hatálybalépésekor a bírósági nyilvántartásba szakszövetségi feladatokat ellátó országos sportági szövetségként bejegyzett sportszövetséget a Módtv12. hatálybalépését követően országos sportági szakszövetségnek kell tekinteni. A szakszövetségi feladatokat ellátó országos sportági szövetségként bejegyzett sportszövetség a Módtv12. hatálybalépését követő első alapszabály-módosításakor, de legkésőbb 2024. december 31-ig köteles alapszabályát e törvénynek az országos sportági szakszövetségekre vonatkozó rendelkezéseivel összhangba hozni, és országos sportági szakszövetségi jogállásának bejegyzését a Fővárosi Törvényszéknél kezdeményezni.
 
 (6) A Módtv12.-vel megállapított 59. § (5) bekezdés b) pontját a Módtv12. hatálybalépését követően megrendezésre kerülő sportesemények tekintetében kell alkalmazni.
+
+78/V. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: Módtv13.) megállapított 11/A. § (5) bekezdésében meghatározott feltételnek való megfelelést a tizennyolcadik életévét be nem töltött sportolót felkészítő edzői tevékenységet végző sportszakember a Módtv13. hatálybalépésekor fennálló jogviszony esetén a Módtv13. hatálybalépését követően 60 napon belül a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal igazolja.
 
 ### Felhatalmazó rendelkezések
 

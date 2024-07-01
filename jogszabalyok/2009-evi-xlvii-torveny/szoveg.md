@@ -145,6 +145,8 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 - a) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vonták, vagy
 - b) a bíróság vele szemben bűnösséget megállapító jogerős ügydöntő határozatot hozott.
 
+(1a) Ha az (1) bekezdés alapján az érintett arcképmását nyilván kell tartani, de az adatok közlésére köteles szerv adatközlése során az arcképmás adatok közlését nem teljesítette, a bűnügyi nyilvántartó szerv az 5. § (1) bekezdés a) pontja alapján végzett adat-összehasonlításkor az érintett arcképmását a személyiadat- és lakcímnyilvántartásból, nyilvántartásba vétel céljából, átveheti.
+
 (2) Nem kell nyilvántartani annak az arcképmását,
 
 - a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
@@ -537,7 +539,7 @@ kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesít
 
 - a) a tagállamok közötti – az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében folytatott – kölcsönös cseréjének elősegítése,
 - b) az elítélttel szemben más bűncselekmény megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
-- c) a büntetett előélet igazolásának, illetve a hátrányos jogkövetkezmények végrehajtásának az elősegítése.
+- c) a büntetett előélet igazolásának, a hátrányos jogkövetkezmények végrehajtásának, illetve a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tételének az elősegítése.
 
 32. § A tagállami ítéletek nyilvántartásában annak a magyar állampolgárnak az adatait kell nyilvántartani, akinek bűnösségét az Európai Unió más tagállamának bírósága jogerősen megállapította.
 
@@ -582,6 +584,10 @@ vonatkozó adatokkal való összehasonlítás útján állapítja meg az elíté
 33/B. § (1) A bűnügyi nyilvántartó szerv a tagállami ítélet nyilvántartásba vételekor, illetve a tagállami ítélet nyilvántartásba vett adatainak a módosításakor vagy javításakor az érintett személyazonosító adatai alapján elektronikus úton egyedileg összehasonlítja a tagállami ítélet adatait a bűntettesek, illetve a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartásában kezelt adatokkal. Az összehasonlítás célja, hogy a bűnügyi nyilvántartó szerv ellenőrizze, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 111/C. § (1) bekezdésében meghatározottak alapján van-e helye a tagállami ítélet esetében az ügyészség útján megfeleltetési eljárás kezdeményezésének.
 
 (2) Ha az (1) bekezdés szerinti összehasonlítás alapján a bűnügyi nyilvántartó szerv megállapítja, hogy a bűntettesek, illetve a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartásában szerepel olyan bírósági határozat, amely esetében a tagállami ítéletre tekintettel az érintettel összefüggésben feltételes szabadságra bocsátás megszüntetése, felfüggesztett szabadságvesztés végrehajtásának elrendelése, javítóintézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetése lehet indokolt, az ügyészség útján intézkedik a megfeleltetési eljárás lefolytatása érdekében. A bűnügyi nyilvántartó szerv ilyen esetben az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, a 33. § (1) és (2) bekezdése szerinti adatokat, továbbá a bűntettesek, illetve a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartásában szereplő bírósági határozat azonosításához szükséges adatokat küldi meg az ügyészségnek.
+
+33/C. § (1) A bűnügyi nyilvántartó szerv a tagállami ítélet nyilvántartásba vételekor ellenőrzi, hogy az ítélet alapjául szolgáló bűncselekmény szerepel-e a 75/B. § (2) bekezdés b) pont ba) alpontjában. Ha a bűnügyi nyilvántartó szerv azt állapítja meg, hogy az ítélet alapjául szolgáló bűncselekmény elkövetése miatt helye lehet a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tételének, a bíróságnál kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el, kivéve, ha − a tagállami ítélet alapján a tagállami ítéletben kiszabott büntetés vagy intézkedés nemére, tartamára, a tagállami ítélet jogerőre emelkedésének időpontjára, illetve a 75/B. § (2) bekezdés a) vagy c) pontjára tekintettel − nyilvánvaló, hogy a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tételének nem lenne helye.
+
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés alapján a 33. § (1) és (2) bekezdése szerinti adatokat küldi meg a bíróságnak, továbbá tájékoztatja a bíróságot, hogy a megfeleltetési eljárás lefolytatására a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tételéhez van szükség.
 
 34. § (1) A 33. §-ban meghatározott adatokat a tagállami ítéletről szóló tájékoztatásban meghatározott törlés beálltának idejéig kell nyilvántartani. Ha e tájékoztatásban nem szerepel törlésre vonatkozó adat, az adatokat akkor kell törölni, amikor a tagállam kijelölt központi hatóságának tájékoztatása szerint azt az érintett tagállam bűnügyi nyilvántartásából törölték.
 
@@ -1085,9 +1091,7 @@ előírja.
   - aa) a családi és utónevét,
   - ab) születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, előző születési családi és utónevét,
   - ac) a születési helyét és idejét,
-  - ad) az anyja születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, anyja előző születési családi és utónevét,
-  - ae) az állampolgárságát,
-  - af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
+  - ad) az anyja születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, anyja előző születési családi és utónevét, valamint
 - b) az adatigénylő pontos megnevezését és címét.
 
 (3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) terjeszthetik elő. Az elektronikus úton előterjesztetett adatigénylés során az adatigénylő a bűnügyi nyilvántartó szerv által adott egyedi azonosítóval azonosítja magát, az így küldött kérelem hiteles dokumentumnak minősül. A bűnügyi nyilvántartó szerv az adatközlést elektronikus úton teljesíti, amelyet akkor kell kézbesítettnek tekinteni, ha az egyedi informatikai alkalmazás annak hozzáférhetőségét igazolja.
@@ -1145,13 +1149,13 @@ előírja.
 
 71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, a 76/A. §-ban és a 76/B. §-ban meghatározottak szerinti ellenőrzést követően, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
 
-(1a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelem teljesítése során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
+(2) Ha törvény valamely jogosultság feltételeként a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, az (5) bekezdés szerinti tényt határoz meg, a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság adatigénylésre jogosult. Az adatigénylés alapján a bűnügyi nyilvántartó szerv adattovábbítás útján igazolja az adatigénylés szerinti tényt az adatigénylő hatóság számára. A bűnügyi nyilvántartó szerv által igazolt tényt az adatigénylő hatóság – törvény eltérő rendelkezése hiányában – az eljárása jogerős befejezéséig, illetve a hatósági ellenőrzés időtartamára kezeli.
 
-(2) Ha törvény valamely jogosultság feltételeként a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, a (3) bekezdés szerinti tényt határoz meg, a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság adatigénylésre jogosult. Az adatigénylés alapján a bűnügyi nyilvántartó szerv adattovábbítás útján igazolja az adatigénylés szerinti tényt az adatigénylő hatóság számára. A bűnügyi nyilvántartó szerv által továbbított adatokat az adatigénylő hatóság – törvény eltérő rendelkezése hiányában – az eljárása jogerős befejezéséig, illetve a hatósági ellenőrzés időtartamára kezeli.
+(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelem teljesítése során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv a kérelmezőt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
-(2a) A (3) bekezdés szerinti valamely tényhez mint feltételhez kötött jogosultság gyakorlására irányuló kérelem vagy bejelentés benyújtása a kérelmező vagy bejelentő ahhoz való hozzájárulásának minősül, hogy a jogosultság feltételét képező tényt a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság megismerje.
+(4) Az (5) bekezdés szerinti valamely tényhez mint feltételhez kötött jogosultság gyakorlására irányuló kérelem vagy bejelentés benyújtása a kérelmező vagy bejelentő ahhoz való hozzájárulásának minősül, hogy a jogosultság feltételét képező tényt a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság megismerje.
 
-(3) A hatósági erkölcsi bizonyítványban igazolható tény, hogy a kérelmező
+(5) A hatósági erkölcsi bizonyítványban igazolható tény, hogy a kérelmező
 
 - a) a kérelemben megjelölt törvényben meghatározott feltételeknek megfelel,
 - b) büntetlen előéletű,
@@ -1159,98 +1163,118 @@ előírja.
 - d) nem áll foglalkozástól vagy tevékenységtől eltiltás hatálya alatt, vagy
 - e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
-(4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
+(6) Az (5) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, az (5) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
 
-(4a) Ha a kérelmező foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll, akkor a (3) bekezdés b) pontjában meghatározott tény igazolására irányuló kérelem esetén a hatósági erkölcsi bizonyítványban kötelező feltüntetni– erre irányuló kérelem hiányában is – a (3) bekezdés e) pontjában meghatározott tényt.
+(7) Ha a kérelmező foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll, akkor az (5) bekezdés b) pontjában meghatározott tény igazolására irányuló kérelem esetén a hatósági erkölcsi bizonyítványban kötelező feltüntetni – erre irányuló kérelem hiányában is – az (5) bekezdés e) pontjában meghatározott tényt.
 
-(5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
+(8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-(6) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a (3) bekezdés a), d) vagy e) pontjában meghatározott tény igazolására irányuló kérelméből egyértelműen megállapítható, hogy az gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység végzése érdekében került benyújtásra, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna, a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszeren kívül az Európai Unió más tagállamában vagy az Egyesült Királyságban történő elítélést is figyelembe veszi a 79. § (3) bekezdésében meghatározottak szerint.
+- a) elektronikus úton, a kérelmező hivatalos elérhetőségére,
+- b) a kérelmező részére, belföldi címére,
+- c) a kérelmező által megjelölt címzett belföldi címére,
+- d) Magyarország diplomáciai vagy konzuli képviselete útján
 
-72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton, valamint a kormányablakban személyesen szóban vagy elektronikus azonosítását követően, elektronikus úton kell előterjeszteni.
+kézbesíti.
 
-(1a) A kérelmező elektronikus azonosítását követően és az információ megőrzését biztosító módon történő hangrögzítés mellett, a kérelem telefonon is előterjeszthető.
+(9) A (8) bekezdés szerinti kézbesítési lehetőségek kizárólag önállóan alkalmazhatóak.
 
-(1b)
+(10) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és az (5) bekezdés a), d) vagy e) pontjában meghatározott tény igazolására irányuló kérelméből egyértelműen megállapítható, hogy az gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység végzése érdekében került benyújtásra, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna, a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszeren kívül az Európai Unió más tagállamában vagy az Egyesült Királyságban történő elítélést is figyelembe veszi a 79. § (3) bekezdésében meghatározottak szerint.
+
+72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papíralapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton, valamint a kormányablakban személyesen szóban vagy elektronikus azonosítást követően, elektronikus úton kell előterjeszteni.
 
 (2) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell
 
-- a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,
+- a) a kérelmező
+  - aa) viselt családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) születési helyét és idejét,
+  - ad) anyja születési családi és utónevét,
+  - ae) állampolgárságát,
 - b) a kérelmező belföldi kézbesítési címét,
-- c) ha a kérelmező a hatósági erkölcsi bizonyítvány továbbítását meghatározott címzett részére kéri, az adattovábbítás címzettjének belföldi kézbesítési címét,
-- d) a 71. § (3) bekezdés a)–e) pontjában meghatározott azon tényt, amelynek igazolását a kérelmező hatósági erkölcsi bizonyítványban kéri,
-- e) ha a kérelmező a 71. § (3) bekezdés a) pontjában meghatározott tény igazolását kéri, az igazolandó feltételeket meghatározó törvényi rendelkezés megjelölését,
-- f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papír alapon nyújtja be, a kérelmező saját kezű aláírását.
-- g)
+- c) ha a kérelmező a papíralapú hatósági erkölcsi bizonyítvány továbbítását meghatározott címzett részére kéri, a címzett belföldi kézbesítési címét,
+- d) a 71. § (5) bekezdés a)–e) pontjában meghatározott azon tényt, amelynek igazolását a kérelmező hatósági erkölcsi bizonyítványban kéri,
+- e) ha a kérelmező a 71. § (5) bekezdés a) pontjában meghatározott tény igazolását kéri, az igazolandó feltételeket meghatározó törvényi rendelkezés megjelölését,
+- f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papíralapon nyújtja be, a kérelmező saját kezű aláírását.
 
-73. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítását megtagadja, ha a 71. § (3) bekezdés a)–e) pontjában meghatározott tények a bűnügyi nyilvántartási rendszer adatai alapján nem igazolhatóak.
+(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránt indult eljárásában – külön ellenőrzés nélkül – a kérelmező által a kérelmében a (2) bekezdés a) pont ae) alpontja szerint megadott adatot alapul véve jár el.
+
+73. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítását megtagadja, ha a 71. § (5) bekezdés a)–e) pontjában meghatározott tények a bűnügyi nyilvántartási rendszer adatai alapján nem igazolhatóak.
 
 (2) Ha a kérelmező magyar állampolgár, a bűnügyi nyilvántartó szerv elvégzi a 76/A. §-ban és a 76/B. §-ban meghatározottak szerinti ellenőrzést, megfeleltetési eljárás kezdeményezése esetén a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást felfüggeszti.
 
-(3) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a 71. § (6) bekezdése szerinti kérelmet terjeszt elő, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást
+(3) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a 71. § (10) bekezdése szerinti kérelmet terjeszt elő, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást
 
 - a) a 79. § (3) bekezdése szerinti adatigénylés esetén az Európai Unió más tagállama, illetve az Egyesült Királyság válasza megérkezéséig,
 - b) ha a válasz alapján megfeleltetési eljárást kell kezdeményezni, akkor legfeljebb a megfeleltetési eljárás jogerős befejezéséig, illetve a bűnügyi nyilvántartási rendszerbe való bejegyzést eredményező módon történő megfeleltetés esetén az adatoknak a bűnügyi nyilvántartási rendszerbe történő bejegyzéséig
 
 felfüggeszti.
 
-(4)
-
-(5)
-
-(6) Ha a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban – a személyes úton előterjesztett kérelemre indult eljárás kivételével – megállapítja, hogy a kérelem nem tartalmazza a 72. § (2) bekezdésében foglaltakat, a kérelmezőt tizenöt napos határidő tűzésével a hiány pótlására hívja fel.
+(4) Ha a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban – a személyes úton előterjesztett kérelemre indult eljárás kivételével – megállapítja, hogy a kérelem nem tartalmazza a 72. § (2) bekezdésében foglaltakat, a kérelmezőt tizenöt napos határidő tűzésével a hiány pótlására hívja fel.
 
 74. § (1) A hatósági erkölcsi bizonyítvány tartalmazza
 
-- a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,
-- b) a kérelmező által igazolni kért – a 71. § (3) bekezdés a)–e) pontjában meghatározott – tényt,
+- a) a kérelmező
+  - aa) viselt családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) születési helyét és idejét,
+  - ad) anyja születési családi és utónevét,
+- b) a kérelmező által igazolni kért – a 71. § (5) bekezdés a)–e) pontjában meghatározott – tényt,
 - c) a hatósági erkölcsi bizonyítvány számát,
-- d) a hatósági erkölcsi bizonyítványt kiállító hatóság megnevezését, bélyegzőlenyomatát,
+- d) a hatósági erkölcsi bizonyítványt kiállító hatóság megnevezését,
 - e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontját, valamint
-- f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
+- f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult nevét.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg.
+(2) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-(3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
+- a) digitális biztonsági okmányként állítja ki, ha a kérelmező az elektronikus úton előterjesztett kérelmét a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti keretalkalmazáson keresztül nyújtja be,
+- b) papíralapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha a kérelmező a kérelmét az a) ponton kívüli bármely más, a 72. § (1) bekezdése szerinti kérelmezési lehetőséggel élve nyújtja be.
 
-(4) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt – a 75. § (4) bekezdés a) pontjában foglaltak kivételével – papír alapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki.
+(3) A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány a külön jogszabályban meghatározott okmányvédelmi kategóriájának megfelelő biztonsági megoldásokkal rendelkezik, amelyben a formátum, az adatok és az azok hitelességét igazoló tényezők összetartozóak, egymástól nem választhatóak el. A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány Magyarországon történő felhasználás céljából állítható ki és kizárólag digitális formában érvényes.
 
-(5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványról másolatot vagy kivonatot nem készíthet.
+(4) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) bekezdés a) pontjában és az (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban, vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg. Amennyiben a kérelmező nem szerepel a személyiadat- és lakcímnyilvántartásban vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében, a bűnügyi nyilvántartó szerv a kérelmező által bemutatott, becsatolt személyazonosításra alkalmas okmányban szereplő adatokat veszi alapul, mindezek hiányában pedig a kérelmező által a kérelemben megadott adatokat.
 
-(6) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
+(5) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
 
-(7)
+(6) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványról másolatot vagy kivonatot nem készíthet.
 
-(8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, amely azt személyesen vagy jogi képviselője útján gyakorolhatja.
+(7) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
 
-75. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet külföldön kizárólag Magyarország diplomáciai vagy konzuli képviseletén, személyesen lehet benyújtani (a továbbiakban: külföldi kérelem).
+(8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, aki azt személyesen vagy jogi képviselője útján gyakorolhatja.
 
-(2) Ha a kérelmezőnek az (1) bekezdés szerinti személyes megjelenése aránytalan nehézséget okoz és a kérelmező személyazonossága egyéb módon is kétséget kizáróan igazolható, a hivatásos konzuli tisztviselő mérlegelheti a hatósági erkölcsi bizonyítvány iránti kérelem postai úton történő elfogadását. Ebben az esetben a kérelmező személyazonosságát és aláírását az érintett ország gyakorlata szerint erre felhatalmazott külföldi szerv vagy személy hitelesíti. A hitelesítés – nemzetközi szerződés eltérő rendelkezése hiányában – akkor fogadható el, ha a diplomáciai felülhitelesítésének feltételei fennállnak.
+75. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet külföldön, külföldön történő felhasználás céljából (a továbbiakban: külföldi kérelem)
 
-(3) A külföldi kérelem a 72. § (2) bekezdés a), d), e), és f) pontjában, valamint – a (4) bekezdés b) pontjában meghatározott kérelem esetén – a 72. § (2) bekezdés c) pontjában foglalt adatokat tartalmazza.
+- a) kizárólag Magyarország diplomáciai vagy konzuli képviseletén, személyesen, vagy
+- b) a Magyarországon érvényes elektronikus azonosítással rendelkező kérelmező esetén a kérelmező elektronikus azonosítását követően elektronikus úton
 
-(4) Külföldi kérelem előterjesztése esetén a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv
+lehet benyújtani.
 
-- a) elektronikus közokiratként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti, vagy
-- b) a kérelmező erre irányuló kérelme esetén a 74. § (4) bekezdésben meghatározott módon állítja ki, és az általa megadott belföldi kézbesítési címre kézbesíti.
+(2) Ha a Magyarországon érvényes elektronikus azonosítással nem rendelkező kérelmezőnek az (1) bekezdés a) pontja szerinti személyes megjelenése aránytalan nehézséget okoz és a kérelmező személyazonossága egyéb módon is kétséget kizáróan igazolható, a hivatásos konzuli tisztviselő mérlegelheti a hatósági erkölcsi bizonyítvány iránti kérelem postai úton történő elfogadását. Ebben az esetben a kérelmező személyazonosságát és aláírását az érintett ország gyakorlata szerint erre felhatalmazott külföldi szerv vagy személy hitelesíti. A hitelesítés – nemzetközi szerződés eltérő rendelkezése hiányában – akkor fogadható el, ha a diplomáciai felülhitelesítésének feltételei fennállnak.
 
-(5) A (4) bekezdés a) pontjában meghatározott módon kiállított hatósági erkölcsi bizonyítványt minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni.
+(3) A külföldi kérelem a 72. § (2) bekezdés a), d), e) és f) pontjában, valamint – a (4) bekezdés c) pontjában meghatározott kérelem esetén – a 72. § (2) bekezdés c) pontjában foglalt adatokat is tartalmazza.
 
-(6) A hivatásos konzuli tisztviselő az elektronikus közokiratként kiállított hatósági erkölcsi bizonyítványról papír alapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
+(4) Külföldi kérelem előterjesztése esetén a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv a kérelmező erre irányuló kérelmére
 
-(7) A kérelmezőnek a konzuli tisztviselő eljárásban való közreműködéséért, illetve az elektronikus úton továbbított bizonyítványról történő hiteles másolat kiállításáért jogszabályban meghatározott konzuli díjat kell fizetnie.
+- a) elektronikus közokiratként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti,
+- b) papíralapon állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti, vagy
+- c) papíralapon állítja ki, és a kérelmező által meghatározott címzett részére és annak belföldi kézbesítési címére kézbesíti.
 
-75/A. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, tájékoztatást ad az általa kiállított hatósági erkölcsi bizonyítvány
+(5) A hivatásos konzuli tisztviselő az elektronikus közokiratként kiállított hatósági erkölcsi bizonyítványról papíralapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
+
+(6) A kérelmezőnek a konzuli tisztviselő eljárásban való közreműködéséért, illetve az elektronikus úton továbbított bizonyítványról történő hiteles másolat kiállításáért jogszabályban meghatározott konzuli díjat kell fizetnie.
+
+75/A. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, tájékoztatást ad az általa papír alapon kiállított hatósági erkölcsi bizonyítvány
 
 - a) kiállításának tényéről,
 - b) érvényességéről, valamint
 - c) visszavonásáról.
 
-(2) A tájékoztatásra irányuló kizárólag elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével benyújtható kérelemben a 74. § (1) bekezdés a)–c) és e) pontjában meghatározott minden adatot fel kell tüntetni.
+(2) A tájékoztatásra irányuló, kizárólag elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével benyújtható kérelemben a 74. § (1) bekezdés a)–c) és e) pontjában meghatározott minden adatot fel kell tüntetni.
+
+(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről.
 
 ### A gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tétele
 
-75/B. § (1) A bűnügyi nyilvántartó szerv a gyermekek védelmének biztosítása, a gyermekek sérelmére vagy kihasználásával elkövetett nemi élet szabadsága vagy nemi erkölcs elleni bűncselekmények megelőzése céljából a gyermekekkel közvetlen kapcsolatba kerülő személyek ellenőrzése érdekében, a (2)–(3) bekezdésben és a 75/C. §-ban meghatározott feltételekkel, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítással igénybe vehető elektronikus felület (a továbbiakban: felület) útján megismerhetővé teszi az érintettre vonatkozó,
+75/B. § (1) A bűnügyi nyilvántartó szerv a gyermekek védelmének biztosítása, a gyermekek sérelmére vagy kihasználásával elkövetett nemi élet szabadsága vagy nemi erkölcs elleni bűncselekmények megelőzése céljából a gyermekekkel közvetlen kapcsolatba kerülő személyek ellenőrzése érdekében, a (2)–(3) bekezdésben és a 75/C. §-ban meghatározott feltételekkel, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítással igénybe vehető elektronikus felület (a továbbiakban: felület) útján megismerhetővé teszi az érintettre vonatkozó,
 
 - a) a 4. § (2) bekezdés
   - aa) a) pont aa) alpontja szerinti adatot,
@@ -1814,6 +1838,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 100/A. § E törvénynek az európai uniós és a nemzetközi bűnügyi együttműködést szabályozó törvények, és ehhez kapcsolódóan más törvények jogharmonizációs célú módosításáról szóló 2017. évi XXXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított 68/A. §-át, 71. § (1) bekezdését, 73. § (2) bekezdését, 76/A–76/C. §-át és 76/E. §-át a Módtv1. hatálybalépését követően kezdeményezett közvetlen hozzáféréssel történő adatátvétel és adatigénylés esetén, illetve a Módtv1. hatálybalépését követően indult hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban kell alkalmazni.
 
 100/B. § E törvénynek az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel megállapított rendelkezéseit a 2020. december 31-ét követően indult eljárásokban is alkalmazni kell.
+
+100/C. § (1) E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel megállapított 33/C. §-át a 2024. július 1-jét követően érkező tagállami ítéletek vonatkozásában kell alkalmazni.
+
+(2) A bűnügyi nyilvántartó szerv 2025. július 1-jéig elvégzi a 2018. január 1. és 2024. június 30. között nyilvántartásba vett tagállami ítéletek 33/C. § (1) bekezdés szerinti ellenőrzését.
 
 ### Módosuló jogszabályok
 
