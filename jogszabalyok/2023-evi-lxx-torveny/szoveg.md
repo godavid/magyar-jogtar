@@ -6,12 +6,7 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 1. §
 
-2. § A Kkt.
-
-- a)
-- b) 44/A. § (9) bekezdésében a „kizárólag személyesen” szövegrész helyébe a „személyesen és elektronikus úton” szöveg
-
-lép.
+#### 2. §
 
 #### 3. §
 

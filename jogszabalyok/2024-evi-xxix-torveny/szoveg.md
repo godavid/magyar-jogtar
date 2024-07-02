@@ -63,7 +63,7 @@ az állam működését érintő egyes törvények módosításáról
 
 4. § (1) E törvény
 
-- a)
+- a) 39. §-a az Európai Unió Kábítószer-ügynökségéről (EUDA) és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése,
 - b)
 
 (2) E törvény 151–156. §-a
@@ -86,11 +86,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 6. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-8. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. §-a a következő (7) és (8) bekezdéssel egészül ki:
-
-„(7) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor az (1) bekezdés szerinti költségvetési szervhez, aki az 55. életévét betöltötte, a költségvetési szerv a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a költségvetési szerv nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a költségvetési szerv gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a költségvetési szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.
-
-(8) A (7) bekezdés szerinti esetben az (1) bekezdés szerinti költségvetési szervnél a költségvetési szerv feladatkörébe tartozó feladatot a költségvetési szervhez vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+#### 8. §
 
 #### 7.
 
@@ -133,15 +129,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 11. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-23. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 75/B. §-sal egészül ki:
+#### 23. §
 
-„75/B. § Ha a Ptk. alapján a gyermek a szülő hozzájárulása nélkül örökbefogadható, a családban történő nevelkedésének elősegítése érdekében a gyermek örökbefogadása iránt soron kívül intézkedni szükséges.”
-
-24. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 84. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A gyámhatóság a gyermek részére gyermekvédelmi gyámot rendel, ha)
-
-„f) a gyermek szülője a gyermekét közvetlenül a szülést követően az egészségügyi intézményben hagyta és hat héten belül a gyermekért ő vagy a gyermek más hozzátartozója nem jelentkezik.”
+#### 24. §
 
 #### 12.
 
@@ -151,27 +141,11 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 26. §
 
-27. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény XI. Fejezete a következő 82/Y. §-sal egészül ki:
-
-„82/Y. § (1) A kérelemmel érintett egészségügyi szolgáltató finanszírozási szerződés vagy közfinanszírozott, állami fenntartású egészségügyi szolgáltatóval kötött közreműködői szerződés keretében végzett CT-MRI vizsgálati tevékenységet a 82. § (26) bekezdése szerinti miniszteri engedélyben foglalt határidő előtt csak az egészségbiztosításért felelős miniszter engedélyével szüneteltetheti vagy szüntetheti meg, ennek hiányában a 2023. július 7. napján hatályos finanszírozási vagy közreműködési szerződés feltételei szerint e tevékenységet folyamatosan ellátja.
-
-(2) Ha a kérelemmel érintett egészségügyi szolgáltató az (1) bekezdésben foglalt miniszteri engedély nélkül a CT-MRI vizsgálati tevékenységét teljes körűen nem látja el a vonatkozó szerződésében foglaltak szerint, azt szünetelteti vagy ha azzal felhagy, a tevékenységéhez közvetlenül használt ingatlanok, tárgyi eszközök és immateriális javak ideiglenesen, az ellátási érdek fennállásáig, de legfeljebb 2025. november 1. napjáig – a Kormány rendeletében meghatározottak szerint számított használati díj ellenében – azon állami egészségügyi szolgáltató használatába kerülnek, amelynek a közreműködőjeként, vagy amelynek a telephelyén az egészségügyi szolgáltató az egészségbiztosítás keretében végzett CT-MRI vizsgálati tevékenységét ellátta.
-
-(3) Ha a kérelemmel érintett egészségügyi szolgáltató nem állami egészségügyi szolgáltató telephelyén végezte tevékenységét, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a használatra feljogosított, finanszírozott, állami egészségügyi szolgáltatót az egészségbiztosításért felelős miniszter jelöli ki.
-
-(4) Az (1)–(3) bekezdés alkalmazásában kérelemmel érintett egészségügyi szolgáltatónak minősül az az egészségügyi szolgáltató, amely nem
-
-- a) állami fenntartású egészségügyi szolgáltató,
-- b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központ,
-- c) egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltató,
-- d) önkormányzati fenntartású egészségügyi szolgáltató,
-- e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató, feltéve, hogy az egészségügyi szolgáltató CT-MRI vizsgálati tevékenységének vonatkozásában – ideértve a közreműködői szerződés alapján történő ellátást is – az egészségbiztosításért felelős miniszter a 82. § (26) bekezdése szerint az ellátási érdek fennállását megállapította.”
+#### 27. §
 
 #### 28. §
 
-29. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a a következő (2p) bekezdéssel egészül ki:
-
-„(2p) Felhatalmazást kap a Kormány, hogy a 82/Y. § (2) bekezdése szerinti használati díj megállapítására vonatkozó részletes szabályokat rendeletben határozza meg.”
+#### 29. §
 
 #### 30. §
 
@@ -183,14 +157,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 33. §
 
-34. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 244/M. §-sal egészül ki:
-
-„244/M. § Ha a 244/L. § (1) bekezdése szerinti, állami fenntartású egészségügyi szolgáltató által kötött közreműködői szerződés egyéb, CT-MRI vizsgálatokat nem érintő részeket is tartalmaz, a közreműködői szerződés CT-MRI vizsgálatokat nem érintő része
-
-- a) határozott idejű szerződés esetén a szerződésben meghatározott ideig, de legfeljebb 2025. december 31-ig,
-- b) határozatlan idejű szerződés esetén 2025. december 31-ig
-
-hatályban marad.”
+#### 34. §
 
 #### 35. §
 
@@ -206,9 +173,19 @@ hatályban marad.”
 
 (2)
 
-#### 17.
+#### 17. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-#### 39. §
+39. § (1) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Valamely anyag vagy vegyületcsoport az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.”
+
+(2) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 34. §-a a következő n) ponttal egészül ki:
+
+(Ez a törvény)
+
+„n) az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
 
 #### 18. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
@@ -298,11 +275,7 @@ hatályban marad.”
 
 #### 30. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-71. § A munka törvénykönyvéről szóló 2012. évi I. törvény a következő 204/A. §-sal egészül ki:
-
-„204/A. § (1) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a gazdasági társasághoz, aki az 55. életévét betöltötte, a gazdasági társaság a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a gazdasági társaság nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a gazdasági társaság gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a gazdasági társaság vezetője határozza meg a vezényelt által ellátandó feladatokat.
-
-(2) Az (1) bekezdés szerinti esetben a 204. § (1) bekezdése szerinti gazdasági társaságban a gazdasági társaság feladatkörébe tartozó feladatot a gazdasági társasághoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+#### 71. §
 
 #### 31.
 
@@ -320,49 +293,17 @@ hatályban marad.”
 
 #### 32. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-78. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:127. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+#### 78. §
 
-(Nincs szükség az örökbefogadáshoz annak a szülőnek a hozzájárulására,)
+#### 79. §
 
-„e) aki gyermekét
-
-ea) annak érdekében, hogy más nevelje fel – személyazonosságának feltárása nélkül – egészségügyi intézmény által arra kijelölt helyen hagyja és hat héten belül a gyermekért nem jelentkezik, vagy
-
-eb) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja és hat héten belül ő vagy a gyermek más hozzátartozója a gyermekért nem jelentkezik.”
-
-79. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:178. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra,)
-
-„c) akinek szülői felügyeleti joga a gyermek ismeretlen személy által történő örökbefogadásához adott hozzájárulásával vagy azért szűnt meg, mert a szülő a gyermeket
-
-ca) – annak érdekében, hogy más nevelje fel, személyazonosságának feltárása nélkül – egészségügyi intézményben, arra kijelölt helyen hagyja, a gyermekért hat héten belül nem jelentkezik, vagy
-
-cb) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja, a gyermekért hat héten belül ő vagy a gyermek más hozzátartozója nem jelentkezik,
-
-és a gyermek örökbefogadására nem került sor.”
-
-80. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:190. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Megszűnik a szülői felügyeleti jog)
-
-„d) ha a szülő a gyermeket
-
-da) annak érdekében, hogy más nevelje fel – személyazonosságának feltárása nélkül – egészségügyi intézmény arra kijelölt helyén hagyja, és a gyermekért hat héten belül nem jelentkezik, vagy
-
-db) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja, és a gyermekért hat héten belül ő vagy a gyermek más hozzátartozója nem jelentkezik.”
+#### 80. §
 
 #### 33. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
-81. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény „(A Ptk. 4:119–4:145. §-ához)” alcíme a következő 34/A. §-sal egészül ki:
+#### 81. §
 
-„34/A. § A Ptk.-nak az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított 4:127. § (1) bekezdés e) pont eb) alpontját – feltéve, hogy a gyámhatóság megítélése alapján az a gyermek számára a gyorsabb örökbefogadás érdekében előnyösebb – 2024. július 1. napját megelőzően az egészségügyi intézményben közvetlenül a szülést követően otthagyott, a 2024. július 1. napján egészségügyi intézményben, gyermekotthonban vagy nevelőszülőnél lévő gyermek esetében is alkalmazni kell azzal, hogy a hathetes időtartam 2024. július 1. napján kezdődik.”
-
-82. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény a 38/A. §-t követően a következő alcímmel egészül ki:
-
-### „[A Ptk. 4:190. § (1) bekezdéséhez]
-
-38/B. § A Ptk.-nak a Módtv1.-gyel megállapított 4:190. § (1) bekezdés d) pont db) alpontját – feltéve, hogy a gyámhatóság megítélése alapján az a gyermek számára a gyorsabb örökbefogadás érdekében előnyösebb – 2024. július 1. napját megelőzően az egészségügyi intézményben közvetlenül a szülést követően otthagyott, 2024. július 1. napján egészségügyi intézményben, gyermekotthonban vagy nevelőszülőnél lévő gyermek esetében is alkalmazni kell azzal, hogy a hathetes időtartam 2024. július 1. napján kezdődik.”
+#### 82. §
 
 #### 34. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
@@ -386,11 +327,7 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 38. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-89. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 1. alcíme a következő 1/A. §-sal egészül ki:
-
-„1/A. § (1) Ha a rendvédelmi szervhez olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor, aki az 55. életévét betöltötte, a rendvédelmi szerv a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a rendvédelmi szerv nem rendelkezik olyan betölthető szolgálati beosztással vagy munkakörrel, amely a vezényelt képesítésének megfelel, a rendvédelmi szerv gondoskodik a szolgálati beosztás vagy a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a rendvédelmi szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.
-
-(2) Az (1) bekezdés szerinti esetben a rendvédelmi szerv feladatkörébe tartozó feladatokat a rendvédelmi szervhez vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+#### 89. §
 
 #### 90. §
 
@@ -458,11 +395,7 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 116. §
 
-117. § (1)
-
-(2) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 54. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) Ha a (3) vagy a (3a) bekezdés alapján olyan katonai szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a kormányzati igazgatási szervhez, aki az 55. életévét betöltötte, a kormányzati igazgatási szerv a vezényeltet belföldi szervezeti egységhez tartozó álláshelyen köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a kormányzati igazgatási szerv nem rendelkezik olyan betölthető álláshellyel, amely a vezényelt képesítésének megfelel, a kormányzati igazgatási szerv gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a kormányzati igazgatási szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.”
+#### 117. §
 
 #### 118. §
 
@@ -498,11 +431,7 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 46. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-133. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
-
-„(4a) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor az (1) bekezdés szerinti egészségügyi szolgáltatóhoz, aki az 55. életévét betöltötte, az egészségügyi szolgáltató a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha az egészségügyi szolgáltató nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, az egészségügyi szolgáltató gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig az egészségügyi szolgáltató vezetője határozza meg a vezényelt által ellátandó feladatokat.
-
-(4b) A (4a) bekezdés szerinti esetben az (1) bekezdés szerinti egészségügyi szolgáltatónál az egészségügyi szolgáltató által ellátott feladatot az egészségügyi szolgáltatóhoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+#### 133. §
 
 #### 134. §
 
@@ -510,15 +439,11 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 136. §
 
-137. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 20/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Ha a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 30. § (1b) és (1c) bekezdése szerinti feltételeknek meg nem felelő, 2023. július 7. és 2024. november 1. között CT-MRI vizsgálatokat végző egészségügyi szolgáltató (a továbbiakban: meg nem felelő szolgáltató) foglalkoztatottja a meg nem felelő szolgáltató e tevékenységének megszűnését követően, a megszűnéstől számított kettő hónapon belül állami fenntartású szolgáltatónál létesít egészségügyi szolgálati jogviszonyt, vagy a meg nem felelő szolgáltatótól munkáltatói jogutódlással kerül egészségügyi szolgálati jogviszonyba, abban az esetben az illetményét – a 8. § (3a) bekezdése és a 8. § (6) bekezdése alkalmazásával – úgy kell megállapítani, hogy elérje a meg nem felelő egészségügyi szolgáltatónál a foglalkoztatási jogviszonyának utolsó három hónapjában kifizetett bruttó munkabérének havi átlagát.
-
-(5) A (4) bekezdéstől eltérően a meg nem felelő szolgáltató foglalkoztatottja számára – a 8. §-tól eltérően – az illetmény az Mt. szerinti teljesítménybérként is megállapítható, ha a meg nem felelő szolgáltatónál a munkabére teljesítménybérként került megállapításra. Ebben az esetben a teljesítménybért, teljesítménykövetelményt és teljesítménybér-tényezőt úgy kell megállapítani, hogy az a foglalkoztatott számára a meg nem felelő egészségügyi szolgáltatónál való foglalkoztatási jogviszony utolsó hónapja szerinti teljesítménybérhez, teljesítménykövetelményhez és teljesítménybér-tényezőhöz képest nem lehet hátrányosabb.”
+#### 137. §
 
 138. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény
 
-- a) 1. § (4) bekezdésében az „az (5) bekezdésben” szövegrész helyébe az „a (4a)–(5) bekezdésben” szöveg,
+- a)
 - b)
 - c)
 - d)
@@ -526,13 +451,7 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 47. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-139. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény a következő 2/A. §-sal egészül ki:
-
-#### „2/A. § [Vezénylés útján történő feladatellátás]
-
-(1) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a NAV-hoz, aki az 55. életévét betöltötte, a NAV a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a NAV nem rendelkezik olyan betölthető álláshellyel, amely a vezényelt képesítésének megfelel, a NAV gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a NAV vezetője határozza meg a vezényelt által ellátandó feladatokat. A pénzügyőri feladatok ellátása esetén a vezényelt a pénzügyőrök részére rendszeresített egyenruhában teljesíti a szolgálatot.
-
-(2) Az (1) bekezdés szerinti esetben a NAV feladatkörébe tartozó pénzügyőri és tisztviselői és munkavállalói munkakörbe tartozó feladatot a NAV-hoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+#### 139. §
 
 #### 48. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
@@ -606,11 +525,7 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 60. A pedagógusok új életpályájáról szóló 2023. évi LII. törvény módosítása
 
-163. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény 4. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a tankerületi központhoz, aki az 55. életévét betöltötte, a tankerületi központ a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a tankerületi központ nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a tankerületi központ gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a tankerületi központ vezetője határozza meg a vezényelt által ellátandó feladatokat.
-
-(7) A (6) bekezdés szerinti esetben az (1) bekezdéstől eltérően a nevelő-oktató munkát a tankerületi központhoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+#### 163. §
 
 #### 61. Egyes közigazgatási tárgyú törvények módosításáról szóló 2023. évi LXI. törvény módosítása
 
@@ -622,38 +537,21 @@ db) közvetlenül a gyermek születését követően az egészségügyi intézm�
 
 #### 166. §
 
-167. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 28. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 167. §
 
-„(3) A Kormány rendeletben meghatározhatja, hogy az (1) és (2) bekezdésben foglaltakon túl foglalkoztatási célú tartózkodási engedélyt meghatározott harmadik ország állampolgára kaphat.”
+#### 168. §
 
-168. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 30. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 169. §
 
-(Vendégmunkás-tartózkodási engedélyt az a vendégmunkás kaphat,)
-
-„c) aki a Kormány rendeletében meghatározott harmadik ország állampolgára, és”
-
-169. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 50. §-a helyébe a következő rendelkezés lép:
-
-„50. § Nemzeti Kártyát az a Kormány rendeletében meghatározott harmadik ország állampolgára kaphat,
-
-- a) akinek tartózkodási célja, hogy a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is, vagy
-- b) aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként az e tevékenységi körbe tartozó tevékenységén túl tényleges munkát végez.”
-
-170. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 52. §-a helyébe a következő rendelkezés lép:
-
-„52. § Ha a Nemzeti Kártyával rendelkező harmadik országbeli állampolgár más foglalkoztatóval kíván foglalkoztatásra irányuló jogviszonyt létesíteni, Nemzeti Kártya meghosszabbítása iránti kérelmet kell előterjesztenie.”
+#### 170. §
 
 #### 171. §
 
-172. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 283. §-a a következő (12) és (13) bekezdéssel egészül ki:
-
-„(12) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
-
-(13) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható Nemzeti Kártyával.”
+#### 172. §
 
 #### 173. §
 
-174. § Hatályát veszti a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 284. § (12) bekezdése.
+#### 174. §
 
 #### 63. Egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény módosítása
 

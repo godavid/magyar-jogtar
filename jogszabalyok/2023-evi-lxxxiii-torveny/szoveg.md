@@ -252,96 +252,17 @@ az egyes adótörvények módosításáról
 
 #### 100. §
 
-101. § Az Art. a következő 106/A. §, 106/B. §-sal egészül ki:
-
-#### „106/A. § [Az e-pénztárgép és a vevői alkalmazás engedélyezésére vonatkozó szabályok]
-
-(1) Az e-pénztárgép, a vevői alkalmazás forgalmazásával, valamint az e-pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségeket – a kötelezettség fennállása alatt és az azt követő ötödik naptári év végéig – az állami adó- és vámhatóság ellenőrzi, valamint felügyeli az e-pénztárgépet és működését.
-
-(2) Az e-pénztárgép és a vevői alkalmazás forgalmazási engedélyének kiadásáért, módosításáért, kiterjesztéséért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
-
-(3) Az e-pénztárgép és a vevői alkalmazás forgalmazását, valamint az e-pénztárgép üzembe helyezését a notifikációs eljárás lezárultát követően külön jogszabályban meghatározottak szerint kell engedélyeztetni. E paragrafus alkalmazásában az engedélyező hatóság az állami adó- és vámhatóság.
-
-(4) Az állami adó- és vámhatóság az e-pénztárgépre és a vevői alkalmazásra vonatkozóan a honlapján folyamatosan nyilvánosságra hozza
-
-- a) az érvényes forgalmazási engedéllyel rendelkező e-pénztárgép megnevezését, engedélyszámát és az engedélyező határozat véglegessé válásának napját, valamint a forgalmazó nevét és címét,
-- b) a visszavont forgalmazási engedélyek engedélyszámát, az engedély visszavonásának dátumát, a visszavonás okát, a visszavonással érintett e-pénztárgép megnevezését, valamint a forgalmazó nevét és címét,
-- c) a forgalmazó jogutód nélküli megszűnése miatt érvénytelenné vált forgalmazási engedély számát és az érvénytelenné válás időpontját és
-- d) a forgalmazó jogutóddal történő megszűnése esetén a jogelőd és a jogutód nevét és címét, az e-pénztárgép, valamint a forgalmazási engedély engedélyszámát és a forgalmazási engedély átírásának időpontját.
-
-(5) Az e-pénztárgép üzemeltetésével kapcsolatos ellenőrzés során – ha az elektronikus hírközlő hálózat elérhetetlenségére vonatkozó tény vagy adat merül fel – az állami adó- és vámhatóság kérheti a Nemzeti Média- és Hírközlési Hatóság szakhatóságként történő közreműködését az elektronikus hírközlő hálózat elérhetősége kérdésében.
-
-(6) Az állami adó- és vámhatóság felügyeleti, valamint ellenőrzési tevékenysége során, ha az e-pénztárgéppel történő visszaélés gyanúját észleli, és a tényállás másként nem tisztázható, az ellenőrzése során talált hardveralapú e-pénztárgépet vizsgálat céljából átvételi elismervény ellenében legfeljebb tizenöt napra bevonhatja, vagy blokkolja. A nem hardveralapú e-pénztárgépet blokkolja, a szoftvert futtató eszközt vizsgálat céljából lefoglalhatja. A bevonás, blokkolás, lefoglalás időszaka alatt az adózó a nyugtakibocsátási kötelezettségét, ha a jogszabályban meghatározottaknak megfelelő, adóigazgatási azonosításra alkalmas nyugta adására szolgáló másik e-pénztárgéppel is rendelkezik, annak alkalmazásával, e-pénztárgép hiányában nyomtatvány alkalmazásával előállított nyugtával teljesíti.
-
-(7) Ha az ellenőrzési vagy a felügyeleti tevékenység eredményeként megállapítást nyer, hogy az e-pénztárgép, a vevői alkalmazás a jogszabályban meghatározott követelményeknek nem felel meg, és ez befolyásolja az adózással összefüggő funkciókat, valamint a hiba, hiányosság nem küszöbölhető ki, vagy azt az arra kötelezett az előírt határidőn belül nem teljesíti, az engedélyező hatóság határozattal előírja, az e-pénztárgép és a vevői alkalmazás végleges blokkolását, az e-pénztárgép állami adó- és vámhatóság részére történő leadását és megsemmisítését.
-
-#### 106/B. § [Az e-pénztárgép adatszolgáltatására vonatkozó szabályok]
-
-(1) A hardveralapú e-pénztárgépek adatkapcsolatát biztosító hírközlési szolgáltató az e-pénztárgép azonosítóit nem kapcsolhatja össze az e-pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a hardveralapú e-pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adó- és vámhatóság részére.
-
-(2) Az adózó az e-pénztárgépről és működésének adatairól külön jogszabályban meghatározottak szerint, a műszaki notifikációs eljárás lezárását követően adatot szolgáltat az állami adó- és vámhatóság részére.”
+#### 101. §
 
 #### 102. §
 
-103. § Az Art. 108. § helyébe a következő rendelkezés lép:
-
-#### „108. § [Pénztárgép, e-pénztárgép és automataberendezés adatszolgáltatásához kapcsolódó hatósági ár]
-
-(1) A hatósági ár
-
-- a) az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár,
-- b) az Áfa tv. szerinti, a nyugtaadási kötelezettség hardveralapú e-pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár,
-- c) az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár.
-
-(2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
-
-(3) A hatósági árat alkalmazási feltételeivel együtt az adópolitikáért felelős miniszter hivatalból állapítja meg.
-
-(4) A hatósági árat, valamint annak alkalmazási feltételeit az adópolitikáért felelős miniszter rendeletben hirdeti ki. A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba. A hatósági ár a már megkötött szerződésekre is vonatkozik.
-
-(5) A hatósági árat úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
-
-(6) A hatósági ártól eltérő árat a szerződésben érvényesen kikötni nem lehet. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
-
-(7) A hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a megváltozott hatósági ár az érvényes szerződés részévé válik.
-
-(8) A hatósági árnak a szerződés megkötése és teljesítése között bekövetkezett megszűnése esetén a szerződést – ha törvény eltérően nem rendelkezik – a kikötött áron kell teljesíteni.
-
-(9) A hatósági árra vonatkozó rendelkezések betartását a Nemzeti Média- és Hírközlési Hatóság ellenőrzi. A hatósági árakra vonatkozó rendelkezések megsértése esetén a Nemzeti Média- és Hírközlési Hatóság határozattal
-
-- a) megtiltja a jogszabályt sértő ár további alkalmazását, és egyidejűleg kötelezi a vállalkozót a jogszerű ár alkalmazására,
-- b) kötelezi a vállalkozót a hatósági árra vonatkozó rendelkezések megsértésével elért többlet árbevételnek a sérelmet szenvedett részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az állam javára történő befizetésére, valamint
-- c) bírságot szab ki a hatósági árakra vonatkozó rendelkezéseket megsértő vállalkozóval szemben.
-
-(10) A (9) bekezdés c) pontja szerinti bírság mértéke legalább a jogsértő magatartással elért anyagi előny. A bírság nem haladhatja meg a jogsértő magatartással elért anyagi előny kétszeresét.
-
-(11) A Nemzeti Média- és Hírközlési Hatóság (9) bekezdésben szabályozott eljárására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
-
-(12) E § alkalmazásában hatósági ár
-
-- a) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított,
-- b) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség hardveralapú e-pénztárgéppel történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított, vagy
-- c) az üzemeltető részére nyújtott, az automataberendezések útján megvalósított
-
-adatszolgáltatást biztosító valamennyi szolgáltatás ára.
-
-(13) E § alkalmazásában üzemeltető
-
-- a) a jogszabály szerint pénztárgép használatra kötelezett,
-- b) a jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó,
-- c) a jogszabály szerint e-pénztárgép használatra kötelezett,
-- d) a jogszabály szerint e-pénztárgép használatra nem kötelezett, de e-pénztárgépet saját döntése alapján használó, vagy
-- e) az automataberendezést jogszabály szerint üzemeltető.”
+#### 103. §
 
 #### 104. §
 
-105. § Az Art. 123. §-a a következő (4) bekezdéssel egészül ki:
+#### 105. §
 
-„(4) Az állami adó- és vámhatóság által működtetett gazdasági társaság a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott, e-pénztárgéppel összefüggő feladatkörében történő eljárása során megismerheti azokat a védett adatokat, amelyek eljárásával összefüggnek, illetve amelyek kezelése a feladatellátása eredményes lefolytatása érdekében szükséges.”
-
-106. § Az Art. 124. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A nyugtatár-szolgáltató a nyugtatárba beérkezett adatokat tíz évig őrzi.”
+#### 106. §
 
 #### 107. §
 
@@ -361,34 +282,7 @@ adatszolgáltatást biztosító valamennyi szolgáltatás ára.
 
 (2)
 
-115. § (1)
-
-(2) Az Art. 256. §-a helyébe a következő rendelkezés lép:
-
-#### „256. § [Az állami adó- és vámhatóság által nyújtott szolgáltatások]
-
-(1) Az állami adó- és vámhatóság
-
-- 1. támogatja a kezdő vállalkozásokat adókötelezettségeik teljesítésében,
-- 2. jogszabályban meghatározott ügykörben ügyfélszolgálatain országos illetékességgel intézi az adóügyeket,
-- 3. törvényben meghatározott módon közreműködik a természetes személyek személyi jövedelemadó bevallási kötelezettségének teljesítésében,
-- 4. jogszabályban meghatározott telefonos ügyféltájékoztató és ügyintéző rendszert működtet,
-- 5. erre kijelölt ügyfélszolgálatain az egyéb szolgáltatásokon kívül a jogszabályban meghatározott adófizetési kötelezettség bankkártyával történő teljesítését biztosítja,
-- 6. az adókötelezettségek, valamint adótörvényben vagy adótörvény felhatalmazása alapján kiadott rendeletben meghatározott más kötelezettség teljesítéshez, illetve kérelem benyújtásához nyomtatványt, elektronikus űrlapot rendszeresít,
-- 7. a honlapján személyes adónaptárat, kalkulátorokat, késedelmi pótlék prognózist, ügyfélszolgálat kereső felületet működtet,
-- 8. lekérdezési lehetőséget biztosít az adózók számára az e törvényben, illetve jogszabályban meghatározott, általa nyilvántartott adatokhoz,
-- 9. köztartozásmentes adózói adatbázist működtet és tesz közzé,
-- 10. a bejelentési, változásbejelentési kötelezettség teljesítéséhez online felületet biztosít,
-- 11. elektronikus úton tájékoztatja az elektronikus bevallásra kötelezett adózókat az általános forgalmi adó bevallási kötelezettségük gyakoriságáról, amely tájékoztatás mellőzését az adózó elektronikus úton kérheti,
-- 12. az adózó kérelmére szerkeszthető formátumú adószámla-kivonatot készít,
-- 13. mobilalkalmazás-használatot biztosít,
-- 14. honlapján adónem szerinti csoportosításban az adózással összefüggő általános és összefoglaló, valamint egyedi jellegű tájékoztatókat tesz közzé,
-- 15. honlapján az adózó az ügyfélszolgálat és az ügyintézés honlapon meghatározott típusa megjelölésével előzetesen időpontot foglalhat, az időpontot lemondhatja, a foglalás adatairól elektronikus visszajelzést kérhet,
-- 16. honlapján az adókötelezettségek jogszerű teljesítésének, valamint az adózói jogosultságok érvényesítésének elősegítése, illetve az adózó gazdasági érdekeinek védelme érdekében teljesíti e törvényben és jogszabályban meghatározott közzétételi kötelezettségét,
-- 17. évente, a tárgyévet megelőző hónap tizenötödik napjáig a Magyar Közlönyben közzéteszi a tárgyévi adóteljesítményre, valamint a kiemelt adózói minősítésre vonatkozó értékhatárokat,
-- 18. az állami adó- és vámhatóság az adózót érintő, nyilvántartásában szereplő általános forgalmi adóalapra és adóra vonatkozó adatok rendelkezésre bocsátásával – ide nem értve az alanyi adómentességben részesülő, mezőgazdasági tevékenységet folytatóként eljáró vagy kizárólag adómentes tevékenységet végző általános forgalmi adóalanyra vonatkozó adatokat – és az Áfa tv. szerinti bevallás-tervezet összeállításával közreműködik az általános fogalmi adó bevallási kötelezettség teljesítésében.
-
-(2) A nyugtatárat az állami adó- és vámhatóság üzemelteti.”
+#### 115. §
 
 #### 116. §
 
@@ -396,17 +290,7 @@ adatszolgáltatást biztosító valamennyi szolgáltatás ára.
 
 #### 118. §
 
-119. § (1) Az Art. 266. § a) pontja helyébe a következő rendelkezés lép:
-
-(Az állami adó- és vámhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi)
-
-„a) az általános forgalmiadó-alanynak minősülő adózók, valamint általános forgalmiadó-alanynak nem minősülő, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
-
-aa) nevét (elnevezését), adószámát, székhelyét, telephelyét,
-
-ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoportazonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, a csoporttagságuk időszakának kezdő és befejező időpontját, illetve a csoportos általános forgalmi adóalanyiságot engedélyező határozat véglegessé válásának napját,
-
-ac) közül a pénzforgalmi elszámolást választók esetén e választás tényét, a pénzforgalmi elszámolás időszakának kezdő és befejező időpontját,”
+119. § (1)
 
 (2)
 
@@ -416,9 +300,7 @@ ac) közül a pénzforgalmi elszámolást választók esetén e választás tén
 
 122. § (1)
 
-(2) Az Art. 275. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A Szolg. törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező adózó Magyarország területén, e törvény 106/A. § és 106/B. § szerinti forgalmazói tevékenység határon átnyúló szolgáltatás keretében történő folytatására irányuló szándékát köteles az engedélyező hatóságnak bejelenteni.”
+(2)
 
 (3)
 
@@ -478,39 +360,13 @@ ac) közül a pénzforgalmi elszámolást választók esetén e választás tén
 
 #### 137. §
 
-138. § (1) Az Avt. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A végrehajtás során lefoglalt vagyontárgyakat (ingóságot, ingatlant)
-
-- a) elektronikus árverésen,
-- b) hagyományos árverésen (a továbbiakban: árverés),
-- c) árverésen kívüli eladással,
-- d) törvényben meghatározott ingóságokat speciális értékesítési szabályok alapján vagy
-- e) bizományi szerződés keretében
-
-kell értékesíteni.”
-
-(2) Az Avt. 57. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (2) bekezdéstől eltérően az állami adó- és vámhatóság akkor értékesítheti bizományos útján a lefoglalt vagyontárgyat, ha feltételezhető, hogy az így elérhető vételár magasabb, mint az árverésen vagy elektronikus árverésen várhatóan elérhető vételár. A bizományi értékesítésről az adóhatóság végzést hoz.”
-
-(3) Az Avt. 57. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az önkormányzati adóhatóság a (2) és (3) bekezdésben foglalt szabályokat akkor köteles alkalmazni, ha az elektronikus árveréshez szükséges informatikai feltételek adottak. Ellenkező esetben a lefoglalt vagyontárgyakat az (1) bekezdés c) és d) pontja alkalmazhatóságának hiányában árverésen értékesíti. Az önkormányzati adóhatóság esetében az (1) bekezdés e) pontja nem alkalmazható.”
+#### 138. §
 
 #### 139. §
 
 #### 140. §
 
-141. § Az Avt. a következő 39/A. alcímmel egészül ki:
-
-#### „39/A. A bizományi szerződés alapján történő értékesítés szabályai
-
-71/A. § (1) Az állami adó- és vámhatóság 57. § (3a) bekezdés alapján meghozott végzése alapján a végrehajtó az ingóságot az adott dolog forgalmazására jogosult személynek, gazdálkodó szervezetnek adja át bizományi értékesítés céljából a legkisebb vételár (becsérték) meghatározásával.
-
-(2) A végrehajtó a helyszínen ellenőrizheti, hogy a forgalmazó eleget tesz-e bizományosi kötelezettségének.
-
-(3) Ha a dolgot nem sikerült értékesíteni, 45 nap elteltével a végrehajtó a vételárat 15 napos határidőkkel fokozatosan a becsérték 1%-ára szállítja le. Ha az értékesítés sikertelen, a 94. § szerint kell eljárni.”
+#### 141. §
 
 #### 142. §
 
@@ -526,11 +382,7 @@ kell értékesíteni.”
 
 #### 148. §
 
-149. § (1)
-
-(2) Az Avt. 126. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a bizományi szerződés keretében történő értékesítésre vonatkozó részletes szabályokat.”
+#### 149. §
 
 #### 150. §
 
@@ -628,13 +480,7 @@ kell értékesíteni.”
 
 #### 187. §
 
-188. § Nem lép hatályba a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény
-
-- a)
-- b)
-- c) 142. §-a,
-- d) 157. §-a,
-- e)
+#### 188. §
 
 ### XI. Fejezet — NEMZETKÖZI SZERZŐDÉSEKHEZ KAPCSOLÓDÓ MÓDOSÍTÁSOK
 

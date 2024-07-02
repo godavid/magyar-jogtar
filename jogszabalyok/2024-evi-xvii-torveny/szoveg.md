@@ -4,9 +4,7 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 1. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-1. § A közjegyzőkről szóló 1991. évi XLI. törvény 18/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A pályázati eljárást a miniszter eredménytelenné nyilváníthatja, ha a benyújtásra rendelkezésre álló határidőben nem érkezett érvényes pályázat, vagy ha a pályáztató területi elnökség által felterjesztett kinevezési javaslat nem tartalmaz legalább három érvényes pályázatot.”
+#### 1. §
 
 #### 2. §
 
@@ -18,7 +16,7 @@ az igazságügyi tárgyú törvények módosításáról
 
 6. § A közjegyzőkről szóló 1991. évi XLI. törvény
 
-- a) 49/C. § (2) bekezdés a) pontjában a „családi és utóneve, születési neve” szövegrész helyébe a „természetes személyazonosító adatai” szöveg,
+- a)
 - b)
 - c)
 - d)
@@ -27,23 +25,9 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-8. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 22. §-a a következő q) ponttal egészül ki:
+#### 8. §
 
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:]
-
-„q) a jegyző és a közjegyző
-
-qa) az örökhagyó tekintetében a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
-
-qb) a hagyatéki eljárásban érdekelt tekintetében az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
-
-qc) az öröklésben érdekelt tekintetében a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére és a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
-
-qd) a kieséses örökös tekintetében az állampolgárságra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére és a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
-
-a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz és az ingatlan-nyilvántartási feladatok ellátásához.”
-
-9. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. § m) pont mb) alpontja.
+#### 9. §
 
 #### 3.
 
@@ -75,9 +59,7 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 #### 4. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-23. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 115/O. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (1) és (1a), valamint az (1c)–(3) bekezdésben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, továbbá az (1a) bekezdés b)–d) pontja és (2a) bekezdés b)–d) pontja szerinti jogosultakat, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.”
+#### 23. §
 
 #### 5.
 
@@ -85,21 +67,9 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 #### 6. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-25. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. §-a a következő 32. és 33. ponttal egészül ki:
+#### 25. §
 
-(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
-
-„32. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
-
-33. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.”
-
-26. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 36. §-a a következő 31. és 32. ponttal egészül ki:
-
-(A személyi azonosító továbbítására jogosult:)
-
-„31. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
-
-32. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.”
+#### 26. §
 
 #### 7. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
@@ -119,15 +89,11 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 #### 9. A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény módosítása
 
-33. § A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény 60/K. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 33. §
 
-„(3) A Szellemi Tulajdon Nemzeti Hivatala elvégzi a nemzetközi ipari mintaoltalmi bejelentés érdemi vizsgálatát. Az érdemi vizsgálat arra terjed ki, hogy a minta kielégíti-e az 1. § (2)–(4) bekezdésében meghatározott követelményeket, és a 7. és 8. § alapján nincs-e kizárva az oltalomból.”
+#### 34. §
 
-34. § A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény Átmeneti rendelkezések alcíme a következő 67/E. §-sal egészül ki:
-
-„67/E. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel módosított 36. § (4) bekezdését az e rendelkezés hatálybalépését követően indult eljárásokban kell alkalmazni.”
-
-35. § A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény 36. § (4) bekezdésében a „két” szövegrész helyébe az „egy” szöveg lép.
+#### 35. §
 
 #### 10. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -171,27 +137,7 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 #### 49. §
 
-50. § (1) A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 116. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából az örökhagyó alábbi személyes adatait kezelheti:
-
-- a) természetes személyazonosító adatai, személyi azonosítója,
-- b) utolsó belföldi lakóhelye és tartózkodási helye,
-- c) állampolgársága, neme,
-- d) halálesete bekövetkezésének helye, ideje,
-- e) családi állapota, házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye,
-- f) a 28. §-ban felsorolt foglalkozásokra vonatkozó adat,
-- g) gondnokság alatt állásának ténye.”
-
-(2) A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 116. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt és a kieséses örökös természetes személy alábbi személyes adatait kezelheti:
-
-- a) természetes személyazonosító adatai, személyi azonosítója, az öröklésben érdekelt és a kieséses örökös esetén neme és családi állapota, továbbá az öröklésben érdekelt esetén állampolgársága is,
-- b) lakóhelye és tartózkodási helye,
-- c) az általa önként közölt sürgős elérhetősége (telefon, fax, e-mail),
-- d) az eljárásban való érdekeltségét megalapozó ok (végintézkedésen, hozzátartozói kapcsolaton vagy egyéb jogviszonyon alapul),
-- e) a törvényes képviselő a), b) és c) pontban meghatározott adatai, ha az öröklésben érdekelt vagy a kieséses örökös méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.”
+#### 50. §
 
 #### 51. §
 
@@ -269,9 +215,7 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 #### 25. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-76. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 12. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Családi vagyonfelügyelő az a kormányzati szolgálati jogviszonyban, illetve munkaviszonyban álló személy, vagy olyan büntetlen előéletű, tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik felsőfokú jogi vagy közgazdasági végzettséggel.”
+#### 76. §
 
 #### 26.
 
@@ -279,106 +223,27 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 #### 27. A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény módosítása
 
-78. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 8. §-a helyébe a következő rendelkezés lép:
+#### 78. §
 
-„8. § A 11. §-ban foglalt eset kivételével a szerzői mű vagy kapcsolódó jogi teljesítmény tekintetében közös jogkezelést végző szervezeten kívül más személynek vagy szervezetnek történő díjfizetés, vagy más személlyel vagy szervezettel történő megállapodás a közös jogkezelő és az általa képviselt érintett jogosult irányában nem hatályos, és nem mentesít a szerzői jogok és kapcsolódó jogok megsértésének jogkövetkezményei alól, feltéve, hogy a közös jogkezelő szervezetnek van olyan hatályos díjszabása, amelynek alkalmazása az adott felhasználás jogszerű megvalósítását lehetővé teszi.”
+#### 79. §
 
-79. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 57. §-a a következő (1a) bekezdéssel egészül ki:
+#### 80. §
 
-„(1a) A közös jogkezelő szervezet egy vagyoni jog gyakorlása körében csak indokolt esetben terjeszthet fel felhasználói csoportok szerinti bontásban több díjszabást jóváhagyásra.”
+#### 81. §
 
-80. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 58. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 82. §
 
-„(2) A díjszabásban foglalt jogdíjak mértékének és struktúrájának megállapításakor figyelembe kell venni az érintett felhasználás jellegét és terjedelmét, valamint valamennyi egyéb lényeges körülményét. A díjszabásnak észszerűnek és megalapozottnak kell lennie, különös tekintettel az érintett felhasználás, valamint a közös jogkezelő szervezet által nyújtott szolgáltatás gazdasági értékére. A díjszabás megállapítása során alkalmazott szempontokról a közös jogkezelő szervezet az érintett felhasználó kérésére tájékoztatást ad.”
+#### 83. §
 
-81. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 114. §-a a következő (3) bekezdéssel egészül ki:
+#### 84. §
 
-„(3) A (2) bekezdés szerinti határidő nem alkalmazható, ha a 33. § (2) bekezdése szerinti engedéllyel érintett szerzői jog vagy kapcsolódó jog tekintetében a reprezentatív közös jogkezelő szervezet által kezdeményezett díjszabás jóváhagyási eljárás van folyamatban.”
+#### 85. §
 
-82. § (1) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 148. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 86. §
 
-„(3) Ha a jóváhagyási eljárás lefolytatása céljából benyújtott díjszabás már hatályban lévő díjszabás újabb időszakra történő megállapítására irányul, a (2) bekezdés a) pontja szerinti hatásvizsgálatot csak akkor köteles a reprezentatív közös jogkezelő szervezet csatolni, ha
+#### 87. §
 
-- a) a hatályban lévő díjszabáshoz képest jelentősen eltérő díjfizetési struktúrát megállapító,
-- b) a díjszabásban foglalt jogdíjak, illetve egyéb díjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű emelést tartalmazó, illetve
-- c) ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővítő
-
-díjszabást nyújt be.”
-
-(2) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 148. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[A reprezentatív közös jogkezelő szervezet nem köteles a (2) bekezdés a) pontja szerinti hatásvizsgálatot csatolni a díjszabáshoz, ha a jóváhagyásra benyújtott díjszabás tartalmára és alkalmazására kiterjedően minden érintett, a 151. § (3)–(4) bekezdése, illetve a 151. § (7) bekezdése szerinti]
-
-„a) jelentős felhasználóval és felhasználói érdek-képviseleti szervezettel kötött megállapodást, vagy”
-
-[csatol.]
-
-(3) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 148. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A 151. § (3)–(4) bekezdése, illetve a 151. § (7) bekezdése szerinti jelentős felhasználó és felhasználói érdek-képviseleti szervezet, amennyiben az (5) bekezdés b) pontja szerint véleményt kíván nyilvánítani, véleményét legkésőbb a vélemény kérésétől számított 20. napig köteles megküldeni a reprezentatív közös jogkezelő szervezet és az SZTNH részére.”
-
-(4) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 148. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A (2) bekezdés a) pontja szerinti hatásvizsgálattal kapcsolatban a reprezentatív közös jogkezelő szervezet – ideértve az általa a (2) bekezdés a) pontja szerinti hatásvizsgálat elkészítéséhez esetlegesen igénybe vett személyt is –, az SZTNH és az igazságügyért felelős miniszter a tudomására jutott felhasználói adatokat kizárólag a jóváhagyási eljárással összefüggésben használhatja fel, nyilvánosságra nem hozhatja, harmadik félnek át nem adhatja.”
-
-83. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 149. §-a helyébe a következő rendelkezés lép:
-
-„149. § (1) A díjszabás jóváhagyására irányuló eljárásban a kultúráért felelős miniszter, a kereskedelemért felelős miniszter, a turizmusért felelős miniszter és a vendéglátásért felelős miniszter, az igazságügyért felelős miniszter, az SZTNH és az eljárás többi résztvevője elektronikus úton kötelesek kapcsolatot tartani egymással. Az SZTNH a reprezentatív közös jogkezelő szervezetekkel, valamint a felhasználókkal és a felhasználói érdek-képviseleti szervezetekkel elektronikus úton tart kapcsolatot.
-
-(2) A 148. § (2) bekezdés a) pontja szerinti hatásvizsgálat elkészítéséhez kötődő egyeztetések során az SZTNH, a reprezentatív közös jogkezelő szervezetek valamint a felhasználók és a felhasználói érdek-képviseleti szervezetek elektronikus úton tartanak kapcsolatot egymással.”
-
-84. § (1) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 151. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az SZTNH a díjszabás jóváhagyására irányuló eljárás véleményezési szakaszában bármely felhasználótól és felhasználói érdek-képviseleti szervezettől – saját vagy a felhasználó, illetve a felhasználói érdek-képviseleti szervezet kezdeményezésére – véleményt kérhet.”
-
-(2) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 151. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha a bejelentés évét megelőző naptári évben nem volt olyan díjszabás, amely alapján a felhasználók a jóváhagyási eljárás céljából benyújtott díjszabás szerinti jogdíjat fizettek volna, jelentős felhasználónak és felhasználói érdekképviseleti szervezetnek kell tekinteni azt a személyt vagy szervezetet is, akiről vagy amelyről valószínűsíthető, hogy a benyújtott új díjszabás tekintetében a (3), illetve (4) bekezdésben foglalt feltételeket az új díjszabás alkalmazási időszaka alatt teljesítené.”
-
-(3) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 151. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) Ha a közös jogkezelő szervezet egy korábban már jóváhagyott díjszabását egy vagyoni jog gyakorlása körében az 57. § (1a) bekezdése alapján felhasználói csoportok szerint megbontja, akkor a megbontott díjszabások tekintetében minden olyan, a (3) bekezdés szerinti jelentős felhasználó illetve a (4) bekezdés szerinti felhasználói érdek-képviseleti szervezet jogosult véleményezésre, aki vagy amely a korábban egységes szerkezetben jóváhagyott díjszabást véleményezte.”
-
-(4) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 151. § (8) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-[Az SZTNH a 150. § (1) bekezdése, illetve az (1) és (2) bekezdés szerinti véleménykéréssel egyidejűleg megküldi a véleményező részére]
-
-„d) a 148. § (10) bekezdése szerinti felmérést.”
-
-(5) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 151. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A véleményezési szakaszra nyitva álló határidőbe nem számít bele a felfüggesztés időtartama.”
-
-85. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 152. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabást az igazságügyért felelős miniszter hagyja jóvá az SZTNH elnökének javaslatára a 150. § szerinti véleményezési szakaszt követően. A jóváhagyás a díjszabás alkalmazásának és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételének feltétele.”
-
-86. § (1) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 153. § (2) és (2a) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az igazságügyért felelős miniszter csak a Kormány – általa kezdeményezett – döntése alapján hagy jóvá olyan díjszabást, amely
-
-- a) a jogdíjak, illetve egyéb díjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű emelést tartalmaz, illetve
-- b) ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővíti.
-
-(2a) A (2) bekezdés alkalmazása esetén az igazságügyért felelős miniszter rendelkezésére álló ügyintézési határidő 30 nappal meghosszabbodik. A (2) bekezdés szerinti kormánydöntés kérése nem szükséges, ha az igazságügyért felelős miniszter álláspontja szerint a díjszabás nem áll összhangban a szerzői jogi jogszabályokkal.”
-
-(2) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 153. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) A határozat közlése a (7) bekezdés a) pontja szerinti címzett tekintetében a határozat, a (7) bekezdés b)–d) pontja szerinti címzett tekintetében a határozat kiadmányának kézbesítésével történik. A kiadmányon fel kell tüntetni a kiadmányozó megnevezését, az ügyszámot, az igazságügyért felelős miniszter nevét, az „s. k.,” toldattal, az eredeti keltezést, továbbá azt el kell látni az igazságügyért felelős miniszter körbélyegzőjének lenyomatával.”
-
-87. § (1) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 154. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az igazságügyért felelős miniszter jóváhagyásról szóló határozatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett reprezentatív közös jogkezelő szervezet a Fővárosi Törvényszék előtt közigazgatási perben megtámadhatja. A 151. § (7a) bekezdése alapján véleményezésre jogosult jelentős felhasználó és felhasználói érdek-képviseleti szervezet akkor jogosult a díjszabás megtámadására, ha a díjszabás rá nézve kötelezettséget állapít meg.”
-
-(2) A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 154. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti közigazgatási peres eljárás során a jogi képviselet kötelező.”
-
-88. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény XX. Fejezete a következő 159/C. §-sal egészül ki:
-
-„159/C. § (1) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 57. § (1a) bekezdése nem alkalmazható olyan jóváhagyásra benyújtott díjszabás tekintetében, amelyet az igazságügyért felelős miniszter 2024. július 1. napja előtt jóváhagyott.
-
-(2) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 58. § (2) bekezdése nyomán a reprezentatív közös jogkezelő szervezet a 153. § (4) bekezdésére nem hivatkozhat.”
+#### 88. §
 
 #### 28.
 
@@ -402,37 +267,13 @@ díjszabást nyújt be.”
 
 #### 29. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-98. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 56. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 98. §
 
-„(4) A területi kamara az ügyvédi tevékenység folytatására való jogosultságot az ügyvédi tevékenység folytatását megelőzően – a (3) bekezdésben meghatározott esetben az új munkaviszony igazolását követően – hivatalból ellenőrzi.”
+#### 99. §
 
-99. § (1) Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 126. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 100. §
 
-„(2) A fegyelmi tanács elnöke a fegyelmi eljárás kezdetétől számított tizenöt napon belül – az eljárás alá vont személy és a bejelentő egyidejű értesítése mellett – a következő intézkedéseket teheti:
-
-- a) a vizsgálat kiegészítését rendeli el, és az iratokat visszaküldi a fegyelmi biztosnak,
-- b) a fegyelmi eljárás felfüggesztését kezdeményezi,
-- c) az ügy tárgyaláson kívüli elbírálását kezdeményezi, vagy
-- d) kitűzi a tárgyalást.”
-
-(2) Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 126. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A fegyelmi tanács százhúsz napon belül hoz határozatot. E határidőbe a fegyelmi tanács elnökének intézkedésére nyitva álló idő, az ügy tárgyaláson kívüli elbírálásának időtartama, az előzetes vizsgálat kiegészítésének ideje, a kizárási indítvány elbírálásának időtartama, valamint az eljárás felfüggesztésének időtartama nem számít be.”
-
-100. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 148. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A területi kamarai tagság megszűnik, ha)
-
-„a) a kamarai tag a kamarai tagságáról lemondott, a lemondás területi kamarával való közlésének a napján, vagy a közlésben megjelölt napon, mely nem lehet a közlés napjánál korábbi,”
-
-101. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény
-
-- a) 56. § (2) bekezdésében az „ügyvéd” szövegrész helyébe az „ügyvédi tevékenység gyakorlója” szöveg,
-- b) 97. § (1) bekezdés nyitó szövegrészében a „ha” szövegrész helyébe a „ha igazoltan” szöveg,
-- c) 149. § (5) bekezdésében az „egyéni” szövegrész helyébe az „egyszemélyes” szöveg,
-- d) 150. § (4) bekezdésében a „harminc” szövegrész helyébe a „hatvan” szöveg
-
-lép.
+#### 101. §
 
 #### 30. Záró rendelkezések
 

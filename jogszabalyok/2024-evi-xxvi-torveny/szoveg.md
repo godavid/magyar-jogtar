@@ -10,23 +10,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 3. §
 
-4. § A közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (5) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-[A közlekedési hatóság a Nemzeti Tengelysúlymérő Rendszer keretében az (1) bekezdés a) pontja szerinti feladatai körében a járművek közúti és telephelyi ellenőrzése során közvetlen adathozzáféréssel átveheti]
-
-„j) engedély-nyilvántartásból az ellenőrzött járművezető
-
-ja) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
-
-jb) vezetői engedélyének típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
-
-jc) vezetői engedélyének elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
-
-jd) vezetői engedélyének hivatalos feljegyzések rovatába bejegyzett adatokat,
-
-je) vezetési jogosultsága megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriákra vonatkozó adatokat, valamint
-
-jf) gépjármű-vezetői képesítési igazolványának sorszámára, kategóriájára, kiadásának dátumára, érvényességi idejére, kiállító országára, valamint az azon szereplő vezetői engedély számára, típusára, kiállító országára vonatkozó adatokat, továbbá a 95-ös harmonizált uniós kódot és annak érvényességi idejét,”
+#### 4. §
 
 #### 5. §
 
@@ -76,31 +60,7 @@ jf) gépjármű-vezetői képesítési igazolványának sorszámára, kategóri�
 
 #### 17. §
 
-18. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés e) pontja a következő ea) alponttal egészül ki:
-
-[A nyilvántartásból igényelheti(k):
-
-a települési önkormányzat jegyzője]
-
-  - „ea) a közúti közlekedéssel összefüggő feladatai ellátása céljából a 8. § (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában, a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, e) pontjában, továbbá a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat;”
-
-(2) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés e) pontja a következő ec) alponttal egészül ki:
-
-[A nyilvántartásból igényelheti(k):
-
-a települési önkormányzat jegyzője]
-
-  - „ec) az örökhagyó vagyonának megállapítása és a rendelkezésre álló adatok ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1a) bekezdésében, továbbá a 9. § (2) bekezdés a)–e) pontjában meghatározott adatokat;”
-
-(3) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés u) pontja helyébe a következő rendelkezés lép:
-
-[A nyilvántartásból igényelheti(k):]
-
-„u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, a (2) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, a (2) bekezdés a)–b) pontjában és (3) bekezdésében, valamint a gyermekvédelmi és gyámügyi hatáskört gyakorló szerv a vagyoni helyzet vizsgálata céljából, a 9. § (1) bekezdés a), b) és e) pontjában, és a (2) bekezdés a)–c) pontjában megjelölt adatokat térítésmentesen;”
-
-(4) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához, továbbá a Kkt. 21. §-a szerinti közigazgatási hatósági ügyekben eljáró hatóság a közigazgatási hatósági eljárás lefolytatásához.”
+#### 18. §
 
 #### 19. §
 
@@ -150,21 +110,13 @@ a települési önkormányzat jegyzője]
 
 #### 37. §
 
-38. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szintmérési rendszert határoz meg és működtet. Az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a miniszter rendeletben határozza meg a (3) bekezdés a)–c) pontjában foglaltak teljesülésének ellenőrzéséért felelős szervezetet, a szervezet ellenőrzési feladataira, az ellenőrzés tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat.”
+#### 38. §
 
 #### 39. §
 
 #### 40. §
 
-41. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 49. § (2) bekezdése a következő i) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„i) a 35. § (4) bekezdésében meghatározott szervezet kijelölését, az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a szervezet feladataira, a személyszállítási közszolgáltatások teljesítése mennyiségi és minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat”
-
-(rendeletben állapítsa meg.)
+#### 41. §
 
 #### 42. §
 

@@ -20,49 +20,11 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 3. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-7. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény II. Fejezet 1. Cím „IV. Az egészségügyi szolgáltatások igénybevételére vonatkozó közös rendelkezések” alcíme a következő 20/B. és 20/C. §-sal egészül ki:
+#### 7. §
 
-„20/B. § (1) A Kormány a rendeletében meghatározott EESZT digitális időpontfoglalásirendszer-szolgáltatás (a továbbiakban: digitális időpontfoglalási rendszer) telefonos elérhetősége érdekében egységes telefonos időpontfoglalási központot biztosít.
+#### 8. §
 
-(2) Az egységes telefonos időpontfoglalási központot a Kormány rendeletében kijelölt szerv működteti (a továbbiakban: telefonközpont-működtető).
-
-(3) Az egységes telefonos időpontfoglalási központ a TAJ-számmal rendelkező biztosított számára lehetővé teszi, hogy – amennyiben a biztosított online elérhetőséggel nem rendelkezik vagy azt nem kívánja használni – a biztosított telefonon keresztül a digitális időpontfoglalási rendszerben közzétett, a számára elérhető járóbeteg-szakellátási időpontot foglalhasson.
-
-(4) A (3) bekezdés szerinti cél érdekében a telefonközpont-működtető a biztosított vagy képviselője által megadott természetes személyazonosító adatok és TAJ-szám alapján a biztosított számára a digitális időpontfoglalási rendszerben a biztosított által megjelölt – digitális időpontfoglalási rendszert használó – járóbeteg-szakellátást nyújtó szolgáltatónál járóbeteg-szakellátási időpontot foglal, módosít vagy töröl.
-
-(5) Az egységes telefonos időpontfoglalási központ igénybevételének részletes szabályait a Kormány rendeletben határozza meg.
-
-20/C. § (1) A telefonközpont-működtető a biztosítottat az általa vagy képviselője által megadott természetes személyazonosító adatai, valamint TAJ-számának az összerendelési nyilvántartás szolgáltatás útján történő összevetésével azonosítja. A telefonközpont-működtetőt e feladata ellátása során digitális szolgáltatást biztosító szervezetnek kell tekinteni.
-
-(2) A telefonközpont-működtető a 20/B. § (4) bekezdése szerinti feladata ellátása érdekében – az (5) bekezdésben foglalt kivétellel – az időpontfoglalás rögzítésének idejéig kezeli
-
-- a) a biztosított természetes személyazonosító adatait,
-- b) a biztosított TAJ-számát,
-- c) az időpontfoglalással összefüggő, a biztosított vagy képviselője által szóban közölt egészségügyi adatokat,
-- d) a (3) bekezdés szerinti beutaló adatait,
-- e) a biztosított vagy képviselője által megjelölt időpontfoglalási adatot, ennek keretében a biztosítottat kezelő vagy várhatóan kezelő egészségügyi szolgáltató és szervezeti egysége megnevezését, címét, az ellátás időpontját, várható időtartamát, az ellátás igénybevételének egyéb feltételeit,
-- f) a biztosított képviselőjének természetes személyazonosító adatait, ha a beteg képviselője útján jár el.
-
-(3) A telefonközpont-működtető a 13. § a) pontja szerinti ellátásokra történő időpontfoglalás céljából megismerheti a biztosítottnak az EESZT-ben a 18/A. § (1) bekezdése szerint rögzített beutalóját.
-
-(4) A telefonközpont-működtető a biztosítottal folytatott telefonos kommunikációt – az ellátás nyomon követése, az ellátás szervezése, az ellátás és az egységes telefonos időpontfoglalási központ minőségének ellenőrzése céljából – visszakövethető módon, hangfelvétellel vagy egyéb elektronikus úton rögzíteni köteles.
-
-(5) A telefonközpont-működtető a (4) bekezdés szerint rögzített adatokat a telefonos kommunikációtól számított egy évig kezeli.”
-
-8. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2a) bekezdése a következő b) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben)
-
-„b) határozza meg az egységes telefonos időpontfoglalási központ igénybevételének és működtetésének részletes szabályait, valamint jelölje ki a telefonközpont-működtetőt,”
-
-9. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény
-
-- a) 20/A. § (1) bekezdésében a „(családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel)” szövegrész helyébe a „[családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel (a továbbiakban: TAJ-szám)]” szöveg,
-- b) 20/A. § (7) bekezdésében a „társadalombiztosítási azonosító jelét” szövegrész helyébe a „TAJ-számát” szöveg,
-- c) 29. § (4) bekezdésében a „társadalombiztosítási azonosító jelet (a továbbiakban: taj-szám)” szövegrész helyébe a „TAJ-számot” szöveg,
-- d) 29. § (4) bekezdésében a „taj-számát” szövegrészek helyébe a „TAJ-számát” szöveg
-
-lép.
+#### 9. §
 
 #### 4. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
@@ -102,9 +64,7 @@ lép.
 
 #### 7. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-25. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A rendőrség a kiadott működési engedélyekről és igazolványokról a kiadásuk alapjául szolgáló, az 5. §-ban és az 5/A. §-ban meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, az e törvény szerinti létesítmény- és rendezvényvédelmi ellenőrzési, valamint a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a rendezvény-, illetve létesítménybiztosítási szolgáltatás nyújtását igazoló tanúsítványokról és az annak kiadása alapjául szolgáló feltételek igazolásához szükséges adatokról, a működési engedély és a tanúsítvány visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról – a működési engedély és az igazolvány hitelességének, valamint a tevékenység ellenőrzésének céljából – nyilvántartást vezet.”
+#### 25. §
 
 #### 8. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
@@ -124,9 +84,7 @@ lép.
 
 #### 10. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-32. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Értesítés” alcíme a következő 91/F. §-sal egészül ki:
-
-„91/F. § A nyilvántartó szerv – az anyakönyvi eseménynek vagy adatváltozásnak az elektronikus anyakönyvben történő átvezetését követően haladéktalanul – értesíti a menekültügyi hatóságot a menekült, oltalmazott, menedékes vagy befogadott jogállású személy házasságkötéséről, a bejegyzett élettársi kapcsolata létesítéséről, valamint a házasság vagy a bejegyzett élettársi kapcsolat megszűnéséről. Az értesítés tartalmazza a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyét, idejét, a menekült, oltalmazott, menedékes vagy befogadott jogállású személy születési és házassági nevét, születési helyét és idejét, anyja születési nevét, állampolgárságát vagy hontalanságát, a házasság vagy a bejegyzett élettársi kapcsolat megszűnésének tényét, időpontját és okát.”
+#### 32. §
 
 #### 11. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
 
@@ -204,27 +162,13 @@ lép.
 
 #### 19. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
-62. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/D. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltatók, a vendéglátó üzlet üzemeltetők és a turisztikai attrakció üzemeltetők által átadott adatokat kutatási, illetve fejlesztési célból az e törvény felhatalmazása alapján kiadott rendeletben meghatározottak szerint jogosult továbbítani.”
+#### 62. §
 
 #### 63. §
 
-64. § (1) A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 64. §
 
-„(5) A tárhelyszolgáltató a tárhelyen tárolt (1) bekezdés szerinti adatokhoz a rendőrség részére a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság, az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme, és a körözési eljárás lefolytatása érdekében közvetlen hozzáférést biztosít.”
-
-(2) A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/H. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A tárhelyszolgáltató az (5) bekezdés szerinti közvetlen hozzáférés céljából együttműködési megállapodást köt a rendőrséggel.”
-
-65. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 10. § f) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„f) a Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel, továbbá a szolgáltatott adatok Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője általi továbbításával kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője által használt SZEÜSZ-öket,”
-
-(rendeletben határozza meg.)
+#### 65. §
 
 #### 66. §
 

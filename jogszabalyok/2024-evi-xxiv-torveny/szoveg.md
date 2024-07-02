@@ -2,9 +2,9 @@
 
 egyes külügyi tárgyú törvények módosításáról
 
-#### 1.
+#### 1. A konzuli védelemről szóló 2001. évi XLVI. törvény módosítása
 
-#### 1. §
+1. § A konzuli védelemről szóló 2001. évi XLVI. törvény 23. §-ában a „2024. december 12-ig” szövegrész helyébe a „2025. december 12-ig” szöveg lép.
 
 #### 2. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
@@ -44,9 +44,9 @@ egyes külügyi tárgyú törvények módosításáról
 
 #### 16. §
 
-#### 6.
+#### 6. A konzuli védelemről szóló 2001. évi XLVI. törvény módosításáról szóló 2023. évi LXXXII. törvény módosítása
 
-#### 17. §
+17. § A konzuli védelemről szóló 2001. évi XLVI. törvény módosításáról szóló 2023. évi LXXXII. törvény 12. § (2) bekezdésében a „2024. december 13-án” szövegrész helyébe a „2025. december 13-án” szöveg lép.
 
 #### 7. A Hungary Helps Programról szóló 2023. évi LXXXIX. törvény módosítása
 
