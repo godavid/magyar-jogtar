@@ -922,6 +922,19 @@ előzetesen tájékoztatja.
 
 (6) A kincstár elnöke – a (4) bekezdésben meghatározott feladatkörében eljárva – a költségvetési felügyelői megbízással rendelkező költségvetési felügyelők közül, az államháztartásért felelős miniszter egyidejű tájékoztatása mellett jelöli ki a költségvetési felügyelő helyettesét.
 
+#### 27/A. Költségvetési biztos
+
+39/A. § (1) Ha a helyi önkormányzat a költségvetési év hatodik hónapjáról, a kilencedik hónapjáról és a tizenkettedik hónapjáról szóló időközi költségvetési jelentés közül kettőt a jogszabályi határidőt követő 30 napon belül nem teljesíti, vagy az időközi mérlegjelentés alapján a 90 napon túl lejárt kötelezettségek összege meghaladja a helyi önkormányzat tárgyévet megelőző évi költségvetési bevételének 30%-át, a helyi önkormányzat 12 hónapig, továbbá – ha a helyi önkormányzattal szemben adósságrendezési eljárás indult – az adósságrendezési eljárás jogerős befejezését követő 24 hónapig köteles a kincstár elnöke által megbízott költségvetési biztos helyi önkormányzat gazdasági stabilitásának megteremtése érdekében hozott intézkedéseinek tűrésére.
+
+(2) A költségvetési biztos a helyi önkormányzat eredményes működése érdekében
+
+- a) előzetesen véleményezi
+  - aa) a tervezéssel, gazdálkodással, pénzügyi kihatással bíró kérdések szabályzatait,
+  - ab) a kötelezettségvállalásra irányuló eljárásokat,
+  - ac) a tervezéssel, gazdálkodással és beszámolással összefüggő intézkedéseket,
+- b) javaslatot tehet, ajánlást fogalmazhat meg a belső információáramlásokkal, gazdálkodási folyamatokkal, továbbá a szakmai szabályozással összefüggésben, valamint
+- c) ellenjegyzi a kötelezettségvállalásokat.
+
 #### 28. Rendkívüli intézkedések
 
 40. § (1) A Kormány a központi költségvetés költségvetési egyenlegének, vagy a Gst. 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben megállapított értékeknek a tervezettől eltérő, kedvezőtlen alakulása esetén, vagy az év közben meghozott kormányzati döntésekből származó feladatok megvalósítása és a kiegyensúlyozott költségvetési gazdálkodás fenntartása érdekében a központi költségvetés költségvetési kiadási előirányzatait – a (2) bekezdésben foglalt kivételekkel – zárolhatja, csökkentheti, törölheti azon költségvetési kiadási előirányzatok kivételével, amelyek évközi módosításának, átcsoportosításának jogát az Országgyűlés magának tartotta fenn.
@@ -1559,10 +1572,11 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 - g) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
 - h) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
 - i) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
-- j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot
-- k) Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
+- j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
+- k) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
+- l) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig
 
-[az a)–k) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
+[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter teljeskörűen vagy meghatározott feladatok ellátásához kapcsolódóan felmentést adhat. A felmentés nem terjedhet ki az 51. § (4) bekezdése szerinti előírások alapján kizárólag a kincstárnál vezethető fizetési számlára.
 
@@ -2126,7 +2140,7 @@ kell kiszabni.
 - 10. a 32. § szerinti előirányzatoknál a jóváhagyott előirányzat túllépésének rendjét,
 - 11. a kötelezettségvállalás, pénzügyi ellenjegyzés, szakmai teljesítés igazolása, utalványozás, érvényesítés jogosultsági és összeférhetetlenségi szabályait, eljárásrendjét, a 36. § (3) bekezdése szerinti eseteket, a kötelezettségvállalás 36. § (6) bekezdése szerinti további feltételeit, a Kormány által egyedileg jóváhagyott többéves kiadási kötelezettséget jelentő fejlesztési programok kötelezettségvállalásának szabályait, a 36. § (1) bekezdése szerinti kivételeket, valamint a fedezet rendelkezésre állásának vizsgálatára és a kötelezettségek nyilvántartására vonatkozó előírásokat,
 - 12. a költségvetési felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
-- 13.
+- 13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat,
 - 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 - 15. a költségvetési támogatások tekintetében
   - a) a támogatási igények benyújtásának, elbírálásának, folyósításának – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
@@ -2399,6 +2413,8 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 111/M. § A veszélyhelyzet ideje alatt támogató által a támogatási szerződésben, támogatói okiratban kikötött biztosíték rendelkezésre állását a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztését követő 30 napon belül kell biztosítani azzal, hogy ha azt nem az államháztartási jogszabályoknak és a támogató által előírtaknak megfelelően biztosítja a kedvezményezett, a támogató az e törvény végrehajtására kiadott kormányrendelet szerint jogosult a támogatás visszavonásáról rendelkezni.
 
 111/N. § E törvénynek a Módtv3.-mal megállapított 106/C. §-át a Módtv3. hatálybalépését megelőzően megkötött támogatási szerződések esetén is alkalmazni kell.
+
+111/P. § E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel megállapított 39/A. §-át és a 2011. évi CXCV. törvény 79. § (2) bekezdés l) pontját a 2024. július 2-át követően indult adósságrendezési eljárásokban kell alkalmazni.
 
 111/Q. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: 2023. évi CXIV. törvény) megállapított 23. § (2a) és (2b) bekezdését a 2024. évi önkormányzati költségvetési rendelet megalkotása, módosítása esetében is alkalmazni kell.
 
