@@ -389,7 +389,7 @@ szempontjai alátámasztják.
 - a) a tevékenységi engedély iránti eljárás véglegessé vált döntéssel történő befejezéséig vagy
 - b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás véglegessé vált döntéssel történő befejezéséig kezeli.
 
-15/B. § (1) Valamely anyag vagy vegyületcsoport a Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontjáról szóló 2006. december 12-i 1920/2006/EK európai parlamenti és tanácsi rendelet 5a. cikke szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
+15/B. § (1) Valamely anyag vagy vegyületcsoport az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
 (2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat az egészségügyért felelős miniszter rendeletében állapítja meg.
 
@@ -1082,6 +1082,7 @@ való megfelelést szolgálja.
 - k) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
 - l)
 - m) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet
+- n) az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
