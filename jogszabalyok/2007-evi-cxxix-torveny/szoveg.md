@@ -258,6 +258,7 @@ a termőföld védelméről
 - g) az országos jégkármegelőző rendszer kiépítése és működtetése
 - h) kis teljesítményű erőmű földműves tulajdonos, vagy földműves földhasználó általi létesítése, üzemeltetése
 - i) kis teljesítményű erőműnek a h) pont alá nem tartozó személy által az átlagosnál gyengébb minőségű, de legfeljebb hektáronként 15 AK értékű termőföldön történő létesítése, üzemeltetése
+- j) a kulturális örökség egyes elemeinek fenntartható fejlesztéséről szóló törvény szerinti ingatlan rendeltetésszerű használata
 
 céljából veszik igénybe.
 
