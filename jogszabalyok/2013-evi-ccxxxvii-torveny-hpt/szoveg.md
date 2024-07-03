@@ -2062,6 +2062,8 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy egy személlyel és vele az (1) bekezdés b), illetve c) pontja szerinti kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
 
+(4a) A kitettség értékének meghatározása során a (4) bekezdésben foglaltak tekintetében nem kell figyelembe venni a hitelintézetnek a leányvállalatával szembeni kitettségeit, amennyiben az érintett leányvállalatra az 575/2013/EU rendelet szerinti összevont alapú, vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvény szerinti kiegészítő felügyelet a hitelintézettel együttesen kiterjed. E rendelkezés nem érinti az 575/2013/EU rendelet nagykockázatok vállalására vonatkozó szabályainak betartatását.
+
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
 - a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre a belső szabályzatban meghatározott mértékig,
