@@ -88,20 +88,7 @@ a helyi önkormányzatok adósságrendezési eljárásával összefüggő törv�
 
 #### 33. §
 
-34. § Az államháztartásról szóló 2011. évi CXCV. törvény a következő 27/A. alcímmel egészül ki:
-
-#### „27/A. Költségvetési biztos
-
-39/A. § (1) Ha a helyi önkormányzat a költségvetési év hatodik hónapjáról, a kilencedik hónapjáról és a tizenkettedik hónapjáról szóló időközi költségvetési jelentés közül kettőt a jogszabályi határidőt követő 30 napon belül nem teljesíti, vagy az időközi mérlegjelentés alapján a 90 napon túl lejárt kötelezettségek összege meghaladja a helyi önkormányzat tárgyévet megelőző évi költségvetési bevételének 30%-át, a helyi önkormányzat 12 hónapig, továbbá – ha a helyi önkormányzattal szemben adósságrendezési eljárás indult – az adósságrendezési eljárás jogerős befejezését követő 24 hónapig köteles a kincstár elnöke által megbízott költségvetési biztos helyi önkormányzat gazdasági stabilitásának megteremtése érdekében hozott intézkedéseinek tűrésére.
-
-(2) A költségvetési biztos a helyi önkormányzat eredményes működése érdekében
-
-- a) előzetesen véleményezi
-  - aa) a tervezéssel, gazdálkodással, pénzügyi kihatással bíró kérdések szabályzatait,
-  - ab) a kötelezettségvállalásra irányuló eljárásokat,
-  - ac) a tervezéssel, gazdálkodással és beszámolással összefüggő intézkedéseket,
-- b) javaslatot tehet, ajánlást fogalmazhat meg a belső információáramlásokkal, gazdálkodási folyamatokkal, továbbá a szakmai szabályozással összefüggésben, valamint
-- c) ellenjegyzi a kötelezettségvállalásokat.”
+#### 34. §
 
 #### 35. §
 
@@ -109,34 +96,11 @@ a helyi önkormányzatok adósságrendezési eljárásával összefüggő törv�
 
 #### 37. §
 
-38. § Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 38. §
 
-„(2) A kincstárban fizetési számlát kötelesek vezetni
+#### 39. §
 
-- a) a térségi fejlesztési tanácsok és azok költségvetési szervként működő munkaszervezetei,
-- b) a vármegyei önkormányzatok és a vármegyei önkormányzatok önkormányzati hivatalai,
-- c) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa,
-- d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
-- e) az MNV Zrt.,
-- f) a Diákhitel Központ Zártkörűen Működő Részvénytársaság,
-- g) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
-- h) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
-- i) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
-- j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
-- k) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
-- l) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig
-
-[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].”
-
-39. § Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdése a következő 13. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg)
-
-„13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat,”
-
-40. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/P. §-sal egészül ki:
-
-„111/P. § E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel megállapított 39/A. §-át és a 2011. évi CXCV. törvény 79. § (2) bekezdés l) pontját a 2024. július 2-át követően indult adósságrendezési eljárásokban kell alkalmazni.”
+#### 40. §
 
 #### 41. §
 

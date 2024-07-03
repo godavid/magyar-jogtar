@@ -2425,18 +2425,18 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | Várfürdő út 2. | lovarda |
 | 4.3. | KONDOROS | Geist-kastély együttese |
 | 4.4. |  |  |
-| 4.5. | SZABADKÍGYÓS, Kastély u. | Wenckheim-kastély együttese |
-| 4.6. | SZARVAS Szabadság u. 2. | Bolza-kastély együttese |
-| 4.7. | SZARVAS Anna-liget | Csáky-kastély együttese |
+| 4.5. |  |  |
+| 4.6. |  |  |
+| 4.7. |  |  |
 
 5. BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
 
 | 5.1. | BOLDOGKŐVÁRALJA | várrom |
 | --- | --- | --- |
-| 5.2. | EDELÉNY Borsodi út 7. | L’Huillier-Coburg-kastély együttese |
-| 5.3. | FÁJ Bolt u. 1. | Fáy-kastély |
+| 5.2. |  |  |
+| 5.3. |  |  |
 | 5.4. | FÜZÉR Várhegy | vár |
-| 5.5. | FÜZÉRRADVÁNY Kossuth u. 2. | Károlyi-kastély együttese |
+| 5.5. |  |  |
 | 5.6. | GÖNC Kossuth u. 85. és 85/A | huszita ház |
 | 5.7. | GÖNC Dobogóhegy | pálos templom- és kolostorrom |
 | 5.8. | KOMLÓSKA Rákóczi u. 50. | rutén tájház |
@@ -2448,7 +2448,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 5.14. | MISKOLC Hámor Újmassa | őskohó |
 | 5.15. | MOGYORÓSKA külterület | a Regéci vár romjai |
 | 5.16. | ÓNOD | várrom |
-| 5.17. | PÁCIN Kossuth-kert | Mágochy-Alaghy-Sennyei-kastély együttese |
+| 5.17. |  |  |
 | 5.18. | SÁROSPATAK, Szent Erzsébet u. 19–21. | Rákóczi-vár együttese |
 | 5.19. | SZERENCS Rákóczi u. 96. | Rákóczi-várkastély |
 | 5.20. | SZOMOLYA Toldi u. 28–30. | barlanglakás és udvara |
@@ -2470,16 +2470,16 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 7.2. | BICSKE Kossuth u 42. | Batthyány-kastély együttese |
 | 7.3. | CSÁKVÁR Kastélypark u. és Szent Vince u. | Esterházy-kastély együttese |
 | 7.4. | CSÓKAKŐ | várrom |
-| 7.5. | DÉG Hunyadi u. 11. | Festetics-kastély együttese |
-| 7.6. | FEHÉRVÁRCSURGÓ Petőfi u. | Károlyi-kastély együttese |
+| 7.5. |  |  |
+| 7.6. |  |  |
 | 7.7. | FÜLE Széchenyi u. 107. | tájház |
 | 7.8. | ISZKASZENTGYÖRGY Kossuth tér 1. | Amadé-Bajzáth-Pappenheim-kastély együttese |
-| 7.9. | LOVASBERÉNY Fehérvári u. | Cziráky-kastély együttese |
-| 7.10. | NÁDASDLADÁNY Április 4. u. | Nádasdy-kastély együttese |
-| 7.11. | SOPONYA Nagyláng Dózsa Gy. u. | Zichy-kastély együttese |
+| 7.9. |  |  |
+| 7.10. |  |  |
+| 7.11. |  |  |
 | 7.12. | SZÉKESFEHÉRVÁR Koronázó tér | romkert, koronázó templom romjai |
 | 7.13. | TÁC Fövenypuszta | Gorsium |
-| 7.14. | VÁL Vajda János u. | Ürményi-kastély együttese |
+| 7.14. |  |  |
 
 8. GYŐR-MOSON-SOPRON VÁRMEGYE
 
@@ -2496,10 +2496,10 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | Madách Imre sétány 1. | Muzsikaház |
 | Bartók Béla u. | híd |
 |  | kastélypark |
-| 8.3. | FERTŐRÁKOS Fő u. 153. | püspöki kastély |
+| 8.3. |  |  |
 | 8.4. | GYŐR Liszt Ferenc u. 13. | vármegyeháza |
 | 8.5. | GYŐR Széchenyi tér 5. | Apátúr-ház |
-| 8.6. | MIHÁLYI Korona u. 1. | Dőry-kastély együttese |
+| 8.6. |  |  |
 | 8.7. |  |  |
 | 8.8. | NAGYCENK, Széchenyi-kastély műemléki együttese |  |
 | Kiscenki út 3. | Széchenyi Emlékmúzeum |
@@ -2515,7 +2515,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 8.13. | SOPRON Templom u. 2. | Esterházy-palota |
 | 8.14. | SOPRON Új u. 11. | zsinagóga |
 | 8.15. | SOPRON Új u. 22–24. | zsinagóga |
-| 8.16. | SOPRONHORPÁCS | Széchenyi-kastély együttese |
+| 8.16. |  |  |
 | 8.17. | SZANY Kossuth u. 2–6. | püspöki kastély együttese |
 
 9. HAJDÚ-BIHAR VÁRMEGYE
@@ -2528,7 +2528,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 9.5. | HORTOBÁGY a 33. sz. főút (71+879 szelvény) | Nagyhortobágyi kőhíd |
 | 9.6. | HORTOBÁGY Petőfi tér 1. | Nagyhortobágyi csárda |
 | 9.7. | HORTOBÁGY Petőfi tér | egykori szekérállás |
-| 9.8. | NAGYKEREKI Bocskai tér | Bocskai-várkastély együttese |
+| 9.8. |  |  |
 
 10. HEVES VÁRMEGYE
 
@@ -2538,16 +2538,16 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 10.3. | EGER Knézich K. u. | minaret |
 | 10.4. |  |  |
 | 10.5. | HATVAN Kossuth tér | Grassalkovich-kastély együttese |
-| 10.6. | NOSZVAJ Dobó u. 10. | De la Motte-kastély együttese |
+| 10.6. |  |  |
 | 10.7. | PARÁD Sziget u. 8. | falumúzeum |
 | 10.8. | SIROK | várrom |
 
 11. KOMÁROM-ESZTERGOM VÁRMEGYE
 
-| 11.1. | BAJNA | Sándor-Metternich-kastély együttese |
+| 11.1. |  |  |
 | --- | --- | --- |
-| Május 1. tér 15. | kastély együttese |
-| Rákóczi Ferenc u. 26. | uradalmi istálló |
+|  |  |
+|  |  |
 | 11.2. | DÖMÖS Felsőfalu dűlő | prépostsági romok |
 | 11.3. |  |  |
 | 11.4. | ESZTERGOM Pilisszentlélek | pálos kolostorrom |
@@ -2558,15 +2558,15 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 |  | Igmándi erőd |
 |  | Monostori erőd |
 |  | Csillagerőd |
-| 11.7. | OROSZLÁNY, Majk-puszta: kamalduli remeteség műemléki együttese |  |
-|  | kolostor (vadászkastély) |
-|  | templomtorony romja |
-|  | remeteházak |
-|  | jégverem |
-|  | grotta-kápolna |
-|  | angolkert, tó, mocsár |
+| 11.7. |  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 | 11.8. | OROSZLÁNY, Vértesszentkereszt | Bencés templom- és kolostorrom |
-| 11.9. | TATA Hősök tere 7., 8., 9/A | Esterházy-kastély együttese |
+| 11.9. |  |  |
 | 11.10. | TATA Néppark | Angolkert és műemléki együttese |
 |  | Esterházy kerti lak |
 |  | műrom |
@@ -2586,29 +2586,29 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 12.6. | Várhegy |  |
 | 12.7. | SALGÓTARJÁN | Salgó várrom |
 | 12.8. | SZÉCSÉNY Ady E. u. 7. | Forgách-kastély együttese |
-| 12.9. | SZÉCSÉNY–BENCZÚRFALVA Fő u. 2. | Benczúr-kastély |
+| 12.9. |  |  |
 
 13. PEST VÁRMEGYE
 
-| 13.1. | ABONY Tószegi u. 51. | Vigyázó-kúria |
+| 13.1. |  |  |
 | --- | --- | --- |
-| 13.2. | ACSA Petőfi u. | Prónay-kastély együttese |
-| 13.3. | ASZÓD Szabadság tér 7–8. | Régi Podmaniczky-kastély és az újabb Podmaniczky-, majd Széchenyi-kastély együttese |
-| 13.4. | DABAS-GYÓN Kossuth u. 7. | Halász Móric-kúria |
+| 13.2. |  |  |
+| 13.3. |  |  |
+| 13.4. |  |  |
 | 13.5. | ÉRD Mecset u. | minaret |
 | 13.6. | FÓT Vörösmarty tér 2. | Károlyi-kastély együttese |
 | 13.7. |  |  |
 | 13.8. | GÖDÖLLŐ | vasútállomás királyi váróterme |
 | 13.9. | GÖDÖLLŐ Babatipuszta | istállókastély |
 | 13.10. | GYÖMRŐ Teleki u. 118. | Teleki-kastély együttese |
-| 13.11. | NAGYKŐRÖS Kecskeméti u. 27/B | Halász-Tanárky-kúria |
-| 13.12. | PÉCEL Kálvin tér 1. | Ráday-kastély együttese |
+| 13.11. |  |  |
+| 13.12. |  |  |
 | 13.13. | PILIS Kossuth u. 31. | Beleznay-Nyáry-kastély együttese |
 | 13.14. | PILISSZENTKERESZT Romterület | ciszterci apátság romjai |
 | 13.15. | POMÁZ Templom tér 3. | Teleki-kastély |
 | 13.16. |  |  |
 | 13.17. | VÁC Köztársaság u. | diadalív |
-| 13.18. | VÁCHARTYÁN Veres Pálné u 5. | Rudnay-kastély |
+| 13.18. |  |  |
 | 13.19. | VISEGRÁD Fő u. 25–35. | a királyi palota teljes romterülete |
 | 13.20. | VISEGRÁD Fő u. 37–41. | ferences kolostor romjai és a kapcsolódó épületek |
 | 13.21. | VISEGRÁD Fő utca Salamon-torony u. Várhegy | erődrendszer, vízibástya, kapu és várfalak, Alsóvár (Salamon-torony) Fellegvár és a csatlakozó várfalak |
@@ -2623,7 +2623,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 14.2. | BALATONSZENTGYÖRGY Irtási dűlő | csillagvár |
 | 14.3. | ISTVÁNDI Kossuth u. 59. | tájház |
 | 14.4. | KEREKI külterület | Katonavár (Fejérkő vára) romjai |
-| 14.5. | SOMOGYSÁRD Fő u. | Somssich-kastély együttese |
+| 14.5. |  |  |
 | 14.6. | SOMOGYVÁR Várhegy | Szent Egyed-bazilika és bencés apátság romjai |
 | 14.7. | SZENNA Árpád u. 38. | tájház |
 | 14.8. | ZAMÁRDI Szántódpuszta | majorsági épületegyüttes |
@@ -2633,13 +2633,13 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 
 | 15.1. | KISVÁRDA Vár u. 33/C | várrom |
 | --- | --- | --- |
-| 15.2. | KOMLÓDTÓTFALU Kisfaludy u. | Becsky-kúria |
+| 15.2. |  |  |
 | 15.3. | NYÍRBÁTOR Vár u. 1. | Báthori-várkastély |
 | 15.4. | SZABOLCS Földvár u. | földvár |
 | 15.5. | TARPA Árpád u. | szárazmalom |
-| 15.6. | TUZSÉR Ady E. u. 2. | Lónyay-kastély együttese |
+| 15.6. |  |  |
 | 15.7. | TÚRISTVÁNDI Zrínyi M. u. | vízimalom |
-| 15.8. | VAJA Damjanich u. 79. | Vay-kastély |
+| 15.8. |  |  |
 
 16. TOLNA VÁRMEGYE
 
@@ -2648,24 +2648,24 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 16.2. | OZORA Várhegy utca | Ozorai Pipo vára |
 | 16.3. | DUNAFÖLDVÁR Rátkay köz 2. | török torony |
 | 16.4. | SIMONTORNYA Vár tér 10. | vár |
-| 16.5. | KÖLESD-FELSŐHÍDVÉGPUSZTA | Hiemer-Jeszenszky-kastély |
+| 16.5. |  |  |
 
 17. VAS VÁRMEGYE
 
-| 17.1. | BOZSOK Rákóczi u. | Sibrik-kastély együttese |
+| 17.1. |  |  |
 | --- | --- | --- |
 | 17.2. | BOZSOK Rákóczi u. 101. | Batthyány-várkastély romja |
 | 17.3. | CÁK Gesztenyés 3., 4., 5., 6., 28., 29., 30., 31., 32. | gesztenyés pincesor |
 | 17.4. | CSÁKÁNYDOROSZLÓ Fő u. 9–13. | Batthyány-kastély együttese |
 | 17.5. | HEGYHÁTSZENTPÉTER Béke u. 86. és 88. | tájház |
-| 17.6. | JÁNOSHÁZA Vár u. 50–54. | Erdődy-Choron-várkastély |
-| 17.7. | KÖRMEND Gr. Batthyány L. u. 1. | Batthyány-Strattmann-várkastély együttese |
+| 17.6. |  |  |
+| 17.7. |  |  |
 | 17.8. | KŐSZEG Rajnis J. u. 9. | Jurisics-vár együttese |
-| 17.9. | SÁRVÁR Várkerület 1. | Nádasdy-várkastély |
+| 17.9. |  |  |
 | 17.10. | SZALAFŐ Pityerszer 1., 2., 3. és 9/A | népi műemléki együttes |
 | 17.11. | VASSURÁNY Vasút u. 2. | Schilson-kastély |
-| 17.12. | VASSZÉCSENY Munkás u. 3. | Ó-Ebergényi-kastély |
-| 17.13. | VÉP Szent Imre út 36–38. | Erdődy-kastély együttese |
+| 17.12. |  |  |
+| 17.13. |  |  |
 
 18. VESZPRÉM VÁRMEGYE
 
@@ -2675,9 +2675,9 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.3. | BAKONYBÉL Fő u. 15. | tájház |
 | 18.4. | CSESZNEK Vár u. | várrom |
 | 18.5. | CSOPAK Kisfaludy u. 28. | vízimalom |
-| 18.6. | DABRONC Ötvös-puszta | Szegedy-kastély és kúria együttese |
+| 18.6. |  |  |
 | 18.7. |  |  |
-| 18.8. | DOBA | Erdődy-kastély együttese |
+| 18.8. |  |  |
 | 18.9. | DOBA | Somló vár romjai |
 | 18.10. | DÖBRÖNTE Szarvaskő | Szarvaskő vár romjai |
 | 18.11. | DÖRGICSE Fő u. | felsődörgicsei kettős templom romja |
@@ -2693,9 +2693,9 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.21. | NAGYVÁZSONY Barátipuszta | pálos templom- és kolostorrom |
 | 18.22. | NEMESVÁMOS Balácapuszta | római villagazdaság, likasdombi halomsír |
 | 18.23. | ÖRVÉNYES Szent Imre u. 1. | vízimalom |
-| 18.24. | PÁPA Fő tér 1. | Esterházy-kastély együttese |
+| 18.24. |  |  |
 | 18.25. | PÁPA Március 15. tér 12. | Kluge-féle kékfestőüzem |
-| 18.26. | SÜMEG Szent István tér 10. | püspöki palota |
+| 18.26. |  |  |
 | 18.27. | SÜMEG Várhegy | vár |
 | 18.28. | SZIGLIGET | várrom |
 | 18.29. | TÉS Táncsics M. u. 17., 32. | szélmalmok |
@@ -2707,7 +2707,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 
 19. ZALA VÁRMEGYE
 
-| 19.1. | EGERVÁR Vár u. | várkastély |
+| 19.1. |  |  |
 | --- | --- | --- |
 | 19.2. | KESZTHELY Bercsényi utca. 65. | Georgikon major |
 | 19.3. | KESZTHELY, Festetics-kastély műemléki együttese |  |

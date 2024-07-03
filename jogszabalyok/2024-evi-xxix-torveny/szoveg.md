@@ -175,17 +175,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 17. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-39. § (1) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Valamely anyag vagy vegyületcsoport az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.”
-
-(2) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 34. §-a a következő n) ponttal egészül ki:
-
-(Ez a törvény)
-
-„n) az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+#### 39. §
 
 #### 18. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
@@ -313,7 +303,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 35. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-#### 85. §
+85. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 106. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A kitettség értékének meghatározása során a (4) bekezdésben foglaltak tekintetében nem kell figyelembe venni a hitelintézetnek a leányvállalatával szembeni kitettségeit, amennyiben az érintett leányvállalatra az 575/2013/EU rendelet szerinti összevont alapú, vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvény szerinti kiegészítő felügyelet a hitelintézettel együttesen kiterjed. E rendelkezés nem érinti az 575/2013/EU rendelet nagykockázatok vállalására vonatkozó szabályainak betartatását.”
 
 #### 86. §
 
