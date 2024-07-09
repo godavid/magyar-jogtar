@@ -443,7 +443,7 @@ KÖZÖS SZABÁLYAI
 
 (4) A felek az általuk előlegezett költség összegét kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
 
-(5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
+(5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg részben vagy egészben a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek – megtérült összeghez igazodó, arányos – kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
 
 (6) A végrehajtó a gyermektartásdíj végrehajtására irányuló ügyekben az előleg bevárása nélkül köteles eljárni. Az előleg folyósítására köteles szerv az eljárás befejezésekor a végrehajtó díjjegyzéke alapján soron kívül megfizeti részére a végrehajtás során befolyt összegből nem fedezhető díját és költségeit.
 
@@ -1784,7 +1784,7 @@ ismételten benyújtja.
 
 (3) A végrehajtó az árverés befejezését követő 15 napon belül felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása és a vételár kifizetése céljából a végrehajtó irodájában vagy az ingóság tárolási helyén a megadott időpontban jelenjen meg; ha ezt elmulasztja, előlegét elveszti. A jegyzőkönyv aláírását és a vételár kifizetését követő 15 napon belül a végrehajtó átadja az ingóságot az árverési vevőnek. Az árverési vevő letétbe helyezett előlegét be kell számítani a vételárba.
 
-(4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
+(4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan megszünteti az elektronikus árverési hirdetmény közzétételét, valamint archiválja az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót. Az archivált árverési hirdetményt és licitnaplót a Kar hivatali szerve az archiválástól számított tíz évig őrzi meg.
 
 (5) Az árverés sikertelen, ha nem tettek közzé a licitnaplóban vételi ajánlatot, vagy az árverési vevő a vételárat nem fizette meg a (3) bekezdésben foglaltak szerint.
 
@@ -2082,14 +2082,14 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 153. § (1) Az árverési jegyzőkönyv másolatát kézbesíteni kell a feleknek és azoknak, akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van.
 
-(2) Ha az árverési vevő a teljes vételárat kifizette, és az árveréstől számított 30 nap eltelt, a végrehajtó megküldi az árverési jegyzőkönyv másolatát
+(2) Ha az árverési vevő a teljes vételárat kifizette, és az árverési jegyzőkönyv aláírásától számított 30 nap eltelt – ha pedig az árverést jogorvoslattal támadták meg, a jogorvoslatot elbíráló határozat jogerőre emelkedését követően, a feltételek fennállása esetén –, a végrehajtó megküldi az árverési jegyzőkönyv másolatát
 
-- a) az árverési vevő részére az árverési vétel igazolása céljából,
-- b) az ingatlanügyi hatóság részére az árverési vevő tulajdonjogának az ingatlan-nyilvántartásba való bejegyzése végett.
+- a) az árverési vevő részére az árverési vétel igazolása céljából, és
+- b) az ingatlanügyi hatóság részére az árverési vevő tulajdonjogának az ingatlan-nyilvántartásba való bejegyzése érdekében.
 
 (3) A végrehajtó a tulajdonjog bejegyzési eljárás megindítása iránti megkeresésében tájékoztatja az ingatlanügyi hatóságot az adós adóazonosító jeléről, adóazonosító jel hiányában az adós nevéről, születési helyéről, idejéről, anyja leánykori nevéről és lakóhelyéről (nem magyar állampolgárságú magánszemélynek az útlevélszámáról), továbbá arról, hogy az árverés jogerőre emelkedett, és az árverési vételárat kifizették.
 
-(4) Az elektronikus árverési rendszer az árverés befejezését – ha pedig arra nem került sor, a licitnapló végrehajtó általi lezárását – követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
+(4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan megszünteti az elektronikus árverési hirdetmény közzétételét, valamint archiválja az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót. Az archivált árverési hirdetményt és licitnaplót a Kar hivatali szerve az archiválástól számított tíz évig őrzi meg.
 
 154. § (1) Ha az árverési vevő a teljes vételárat kifizette, és az árveréstől számított 30 nap eltelt, a végrehajtó az árverésen megvett ingatlant átadja az árverési vevőnek.
 
@@ -2291,7 +2291,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 ### Felosztási terv
 
-171. § (1) Ha a végrehajtás alá vont vagyonból befolyt összeg nem fedezi a végrehajtás során behajtani kívánt valamennyi követelést, a végrehajtó az intézkedésének, illetőleg a végrehajtás során történő értékesítésnek a jogerőre emelkedésétől számított 15 napon belül felosztási tervet készít, és azt megküldi a feleknek, valamint a Kar hivatali szervének, egyúttal tájékoztatja őket a felosztási tervben foglaltakkal szemben benyújtható jogorvoslat lehetőségéről.
+171. § (1) Ha a végrehajtás alá vont vagyonból befolyt összeg nem fedezi a végrehajtás során behajtani kívánt valamennyi követelést, a végrehajtó az intézkedésének, illetőleg a végrehajtás során történő értékesítésnek a jogerőre emelkedésétől számított 15 napon belül felosztási tervet készít, és azt megküldi a feleknek, egyúttal tájékoztatja őket a felosztási tervben foglaltakkal szemben benyújtható jogorvoslat lehetőségéről.
 
 (2) A végrehajtó az ingatlan értékesítéséből befolyt vételár felosztása során azokat a követeléseket elégíti ki, amelyek az értékesítés alapját képező hirdetményben fel voltak tüntetve, illetve amelyek tekintetében a végrehajtható okirat az árverésen kívüli értékesítést megelőzően a végrehajtóhoz megérkezett, és a követelés jogosultja az eljárás költségét megelőlegezte. A később elrendelt végrehajtások jogosultjai az előbbi végrehajtást kérők követeléseinek teljes kielégítését követően fennmaradó összegből részesülhetnek a kielégítés általános szabályai szerint.
 
@@ -3178,7 +3178,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a Hatóság elnökét soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
 
-(7) A 242. § szerinti szakmai beszámoló készítési kötelezettség teljesítését a Hatóság ellenőrzi.
+(7) A 242. § szerinti szakmai beszámolóval kapcsolatos kötelezettség teljesítését a Hatóság ellenőrzi. Ha a szakmai beszámoló valóságtartalmának, hitelességének és teljeskörűségének ellenőrzése céljából a Hatóság a Kar hivatali szervétől adatot igényel, a Kar hivatali szerve az adatszolgáltatást az adatigénylés beérkezésétől számított 15 napon belül teljesíti.
 
 230/A. § (1)
 
@@ -3274,7 +3274,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 - a) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál,
 - b) a kérelem benyújtásáig, a kérelem előterjesztésének évében, és az azt megelőző két év alatt a végrehajtót legfeljebb három alkalommal kötelezte a bíróság pénzösszeg 217/B. § szerinti megfizetésére.
-- c) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották bírsággal a szakmai beszámoló készítési kötelezettség megszegése miatt, és
+- c) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották bírsággal a szakmai beszámolóval kapcsolatos kötelezettség megszegése miatt, és
 - d) a végrehajtó a 241/B. § szerinti szakmai továbbképzési kötelezettségének maradéktalanul eleget tett.
 
 (2) Ha a kérelem elbírálása idején a végrehajtóval szemben a kérelem elbírálására kihatással bíró fegyelmi eljárás van folyamatban, a végrehajtó szolgálati viszonya a fegyelmi eljárás jogerős befejeződését követő, a végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelme elbírálása napjáig meghosszabbodik.
@@ -3337,8 +3337,8 @@ esetén van lehetőség.
 
 239. § (1) A végrehajtói szolgálat megszűnik
 
-- a) a végrehajtó felmentéséről szóló határozat jogerőre emelkedésének vagy a végrehajtói szolgálat megszűnésének a felmentésről szóló határozatban megjelölt
-- b) a végrehajtói szolgálat megszűnésének megállapításáról szóló határozat jogerőre emelkedésének,
+- a) a végrehajtó felmentéséről szóló határozat véglegessé válásának vagy a végrehajtói szolgálat megszűnésének a felmentésről szóló határozatban megjelölt
+- b) a végrehajtói szolgálat megszűnésének megállapításáról szóló határozat véglegessé válásának,
 - c) a bírósági végrehajtói fegyelmi bíróság hivatalvesztést, a végrehajtó alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
 - d) a végrehajtó 65. életéve betöltésének,
 - e) a végrehajtó halálának,
@@ -3371,7 +3371,7 @@ esetén van lehetőség.
 
 (2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylés eredményéről a Kar hivatali szerve a tárgyhónapot követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
 
-(2a) A (2) bekezdés szerinti adatigénylést a Kar hivatali szerve a tudomására jutott információ ellenőrzése érdekében eltérő időpontban is lefolytathatja; ennek eredményéről a Kar hivatali szerve az adat megérkezését követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
+(2a)
 
 (2b) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt évente június 30-ig a bűnügyi nyilvántartó rendszerben kezelt adatokról törvényben foglaltak szerint kiállított hatósági bizonyítvány megküldésével igazolja a Hatóság elnökénél és a Kar hivatali szerve vezetőjénél, hogy vele szemben a 233. § (2) bekezdés a)–d) vagy j) pontjában meghatározott körülmény fennáll-e.
 
@@ -3388,7 +3388,7 @@ esetén van lehetőség.
 
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondnokoltakat nyilvántartó szerv által e célból kiállított igazolás tartalmaz.
 
-(4) A (2)–(2c) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
+(4) A (2), valamint (2b) és (2c) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
 
 - a) a végrehajtói kinevezésről meghozott döntésig,
 - b) a végrehajtó esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének, illetve felfüggesztésének megállapítására irányuló eljárásban az eljárás végleges befejezéséig,
@@ -3397,12 +3397,12 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondn
 
 kezeli.
 
-239/B. § (1) A Kar hivatali szervének vezetője a 239/A. § (2)–(2c) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+239/B. § (1) A Kar hivatali szervének vezetője a 239/A. § (2), valamint (2b) és (2c) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (2) A Kar hivatali szervének vezetője az (1) bekezdés szerinti megállapítása alapján
 
-- a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha közvádra üldözendő gondatlan bűncselekmény miatt áll büntetőeljárás hatálya alatt,
-- b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt.
+- a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha közvádra üldözendő gondatlan bűncselekmény miatt, illetve pótmagánvádas ügyben áll büntetőeljárás hatálya alatt,
+- b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, ide nem értve a pótmagánvádas eljárást.
 
 (3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a Hatóság elnökét.
 
@@ -3494,6 +3494,8 @@ a végrehajtói szolgálata szünetel.
 - e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
 - f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg,
 - g) a 65. életévét betöltötte.
+- h) a 241/B. § szerinti szakmai továbbképzési kötelezettségének – a Hatóság elnökének rendeletében biztosított határidőben – nem tett eleget, vagy
+- i) a végrehajtó-helyettes felett munkáltatói jogokat gyakorló végrehajtó végrehajtói szolgálata megszűnt, és a végrehajtó-helyettes másik végrehajtó vagy végrehajtói iroda alkalmazásában nem áll, kivéve, ha a végrehajtói szolgálat megszűnését követő 60 napon belül a Kar hivatali szerve részére igazolja, hogy másik végrehajtóval vagy végrehajtói irodával munkaviszonyt létesített.
 
 ### Végrehajtójelölt
 
@@ -3522,6 +3524,7 @@ a végrehajtói szolgálata szünetel.
 - d) elhalálozott,
 - e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtójelöltek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
 - f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg.
+- g) a végrehajtójelölt felett munkáltatói jogokat gyakorló végrehajtó végrehajtói szolgálata megszűnt, és a végrehajtójelölt másik végrehajtó vagy végrehajtói iroda alkalmazásában nem áll, kivéve, ha a végrehajtói szolgálat megszűnését követő 60 napon belül a Kar hivatali szerve részére igazolja, hogy másik végrehajtóval vagy végrehajtói irodával munkaviszonyt létesített.
 
 (7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) és i) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.
 
@@ -3537,7 +3540,9 @@ a végrehajtói szolgálata szünetel.
 
 242. § (1) A végrehajtó a Hatóság elnökének rendeletében foglaltak szerint szakmai beszámoló benyújtásával évente január 31-ig beszámol az előző évi szakmai tevékenységéről.
 
-(2) Ha a végrehajtó állandó helyettesként helyettesítési feladatokat is ellát, a helyettesített végrehajtó által betöltött álláshelyre vonatkozó szakmai tevékenységéről külön szakmai beszámolót nyújt be az (1) bekezdésben meghatározottak szerint.
+(2) Ha a végrehajtó állandó helyettesként helyettesítési feladatokat is ellát, az egybefüggően 30 napot meghaladóan helyettesített végrehajtó által betöltött álláshelyre vonatkozó szakmai tevékenységéről külön szakmai beszámolót nyújt be az (1) bekezdésben meghatározottak szerint. Az egybefüggő 30 napot meg nem haladó helyettesítés időszakáról a beszámolót a helyettesített végrehajtó saját szakmai beszámolója keretében készíti el.
+
+(3) A végrehajtó felelős a szakmai beszámoló valóságtartalmáért, hitelességéért és teljeskörűségéért.
 
 ### A végrehajtó helyettesítése
 
@@ -3553,7 +3558,7 @@ a végrehajtói szolgálata szünetel.
 
 (5) A végrehajtó-helyettes a munkaviszonya fennállása alatt köteles ellátni helyettesítési feladatait.
 
-(6) A helyettesített végrehajtó által foglalkoztatott végrehajtó-helyettes a helyettesítés tartama alatt a helyettesítést ellátó állandó helyettes vagy végrehajtó-helyettes utasításait köteles teljesíteni.
+(6) A helyettesített végrehajtó által foglalkoztatott végrehajtó-helyettes és végrehajtójelölt a helyettesítés tartama alatt a helyettesítést ellátó állandó helyettes vagy végrehajtó-helyettes utasításait köteles teljesíteni.
 
 (7) Ha a végrehajtási ügy intézése során egyidejűleg több helyszínen is végrehajtási cselekményt kell foganatosítani, a végrehajtó és állandó helyettese, valamint a végrehajtó által foglalkoztatott végrehajtó-helyettes a különböző helyszíneken – ugyanabban a végrehajtási ügyben is – egyidejűleg eljárhat.
 
@@ -3570,11 +3575,11 @@ a végrehajtói szolgálata szünetel.
 - c) a végrehajtó szolgálata szünetel,
 - d) a végrehajtó 30 napot meg nem haladóan van távol.
 
-(2) Az (1) bekezdés d) pontjában meghatározott esetben a végrehajtót az általa foglalkoztatott végrehajtó-helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
+(2) Az (1) bekezdés d) pontjában meghatározott esetben a végrehajtót az általa foglalkoztatott végrehajtó-helyettes vagy az állandó helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
 
 (3) Amennyiben a végrehajtó nem foglalkoztat legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettest, a végrehajtót állandó helyettese helyettesíti.
 
-(4) A távollét bejelentését követően a Kar hivatali szerve felhívja a helyettesként eljárni köteles személyt a helyettesítési feladatainak ellátására a helyettesként történő eljárásról szóló okirat kiállításával, és a helyettesítést feltünteti a végrehajtók névjegyzékében.
+(4) A távollét bejelentését követően vagy a helyettesítésre okot adó körülménynek a Kar hivatali szerve tudomására jutását követően a Kar hivatali szerve felhívja a helyettesként eljárni köteles személyt a helyettesítési feladatainak ellátására a helyettesként történő eljárásról szóló okirat kiállításával, és a helyettesítést feltünteti a végrehajtók névjegyzékében.
 
 (5) A végrehajtó-helyettes helyettesként a végrehajtó hatáskörében teljes jogkörrel és önálló felelősséggel jár el.
 
@@ -3795,7 +3800,7 @@ a végrehajtói szolgálata szünetel.
 
 #### 253/B. §
 
-253/C. § (1) A Kar hivatali szervének vezetője az elnökség bevonásával szervezeti és működési szabályzatot készít, amely – e törvény keretei között – tartalmazza a Kar szervezetének, működési rendjének és gazdálkodásának, továbbá a Kar feladatai ellátásának részletes szabályait.
+253/C. § (1) A Kar hivatali szervének vezetője az elnökség bevonásával szervezeti és működési szabályzatot, valamint – a Magyar Nemzeti Levéltárral mint illetékes közlevéltárral egyetértésben – egyedi iratkezelési szabályzatot készít. A szervezeti és működési szabályzat – e törvény keretei között – tartalmazza a Kar szervezetének, működési rendjének és gazdálkodásának, továbbá a Kar feladatai ellátásának részletes szabályait.
 
 (2) A meghozatalától számított 15 napon belül jóváhagyás céljából be kell mutatni
 
@@ -3805,7 +3810,7 @@ a végrehajtói szolgálata szünetel.
 
 (2a) A (2) bekezdésben foglaltak szerint a Hatóság elnöke, illetve a miniszter a szervezeti és működési szabályzat, illetve az iránymutatás megküldésétől számított 30 napon belül kifogással élhet a szervezeti és működési szabályzat, illetve iránymutatás azon rendelkezésével szemben, amely – elfogadása esetén – a 253/D. § alapján törvényességi felügyeleti intézkedést indokolna.
 
-(3) Az etikai szabályzat jóváhagyására a Kar szervezeti és működési szabályzatának jóváhagyására vonatkozó szabályokat kell alkalmazni.
+(3) Az etikai szabályzat és az egyedi iratkezelési szabályzat jóváhagyására a Kar szervezeti és működési szabályzatának jóváhagyására vonatkozó szabályokat kell alkalmazni.
 
 (4) A Kar elnöksége maga határozza meg az ügyrendjét.
 
@@ -3983,10 +3988,7 @@ kérhetnek adatszolgáltatást.
 
 254/D. § (1) A végrehajtói iroda alapításához a Kar hivatali szerve engedélye szükséges (alapítási engedély), az engedélyezés iránti kérelmet az alapító okirat elfogadásától számított 8 napon belül kell a Kar hivatali szervénél előterjeszteni. Így kell eljárni az irodai tagság létesítése esetén is.
 
-(2) A Kar hivatali szerve a végrehajtói iroda részére az alapítási engedélyt 60 napon belül megadja, ha
-
-- a) alapító okirata megfelel az irányadó jogszabályoknak,
-- b) tagjával szemben a végrehajtói irodai tagságot kizáró, a 254/B. §-ban meghatározott körülmény nem áll fenn.
+(2) A Kar hivatali szerve a végrehajtói iroda részére az alapítási engedélyt 60 napon belül megadja, ha a végrehajtói iroda alapító okirata megfelel a jogszabályoknak.
 
 (3) A Kar hivatali szerve a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat, és – szükség esetén a helyszínen – ellenőrzi az okiratban foglalt adatok valódiságát.
 
@@ -4070,7 +4072,7 @@ kérhetnek adatszolgáltatást.
 
 (6) A Hatóság elnöke a 242. § szerinti szakmai beszámolóval kapcsolatos ügyekben az Ákr. rendelkezéseit a (7) bekezdésben foglalt eltéréssel alkalmazza.
 
-(7) A szakmai beszámoló készítési kötelezettség megszegése esetén figyelmeztetés szankció alkalmazása kizárt.
+(7) A szakmai beszámolóval kapcsolatos kötelezettség megszegése esetén figyelmeztetés szankció alkalmazása kizárt. A Hatóság a szakmai beszámolóval kapcsolatos kötelezettséget megszegő végrehajtót 30 000 forinttól 400 000 forintig terjedő bírsággal sújtja. A bírság ismételten kiszabható.
 
 #### 254/I. §
 
@@ -4201,7 +4203,7 @@ kérhetnek adatszolgáltatást.
 - a) a feljelentő a cselekménynek a tudomására jutásától, vagy ha van a fegyelmi felelősséget megalapozó, illetve azt alátámasztó hivatalos irat, annak kézhezvételétől számított 6 hónapon túl tett feljelentést, vagy
 - b) a cselekmény befejezése óta 5 év eltelt.
 
-(1a) A Kar hivatali szervének vezetője esetén az (1) bekezdés a) pontja szerinti tudomásra jutás időpontja az ellenőrzési jelentés keltének napja.
+(1a) A Kar hivatali szervének vezetője esetén az (1) bekezdés a) pontja szerinti tudomásra jutás időpontja a jogorvoslattal már nem támadható ellenőrzési jelentés keltének napja.
 
 (2) A bűncselekményt megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.
 
@@ -4699,6 +4701,18 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 304/N. § A Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 183. § rendelkezéseit a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvény hatálybalépését követően benyújtott kérelmek esetén kell alkalmazni.
 
 304/O. § A Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 243. § (2a) bekezdés rendelkezéseit a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvény hatálybalépésekor folyamatban lévő helyettesítések során is alkalmazni kell a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvény hatálybalépését követő 30. naptól.
+
+304/P. § (1) A 2017. június 23. napja és 2022. szeptember 30. napja között a 240/A. § (7) bekezdése alapján megkötött megállapodások az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény (a továbbiakban: Módtv.17.) 3. alcímének hatálybalépését követően a megállapodást kötő állandó helyettes szolgálatának megszűnésével vagy állandó helyettesi feladatköre megszűnésével, de legkésőbb 2024. december 31. napjával megszűnnek.
+
+(2) Az (1) bekezdés szerinti megállapodással érintett álláshelyhez tartozó folyamatban lévő és befejezett végrehajtási ügyek iratait, az e végrehajtási ügyek nyilvántartásait tartalmazó iratokat, az e végrehajtási ügyek és nyilvántartások számítógépes adathordozón rögzített adatait tartalmazó eszközöket (e § alkalmazásában a továbbiakban együtt: végrehajtási iratok) és az álláshelyhez tartozó ügyekben a letéti számlán kezelt összegeket annak a végrehajtónak kell legkésőbb 2025. január 15. napjáig átadni, aki az (1) bekezdés szerinti megállapodással érintett álláshelyen szolgálatot teljesít (e § alkalmazásában a továbbiakban: eljárásra köteles végrehajtó).
+
+(3) Az (1) bekezdés szerinti megállapodással érintett végrehajtási ügyek végrehajtási iratait és az álláshelyhez tartozó ügyekben a letéti számlán kezelt összegeket abban az esetben is át kell adni a (2) bekezdés szerinti határidőben az eljárásra köteles végrehajtónak további intézésre, ha a megállapodásban szereplő végrehajtási ügyeket már nem a megállapodást megkötő állandó helyettes intézi.
+
+(4) Az eljárásra köteles végrehajtó egy, a vele azonos járásbíróság mellé kinevezett végrehajtóval közösen 2024. november 30. napjáig kérelmet terjeszthet elő a Kar hivatali szervének vezetőjénél, hogy az (1) bekezdés szerinti megállapodással érintett végrehajtási ügyek további intézésére a Kar hivatali szervének vezetője – a Kar elnökségével történő egyeztetést követően – az eljárásra köteles végrehajtó helyett a vele azonos járásbíróság mellé kinevezett végrehajtót jelölje ki, aki szolgálatának megszűnéséig e végrehajtási ügyek intézéséről gondoskodni köteles. Ha a Kar hivatali szervének vezetője – a Kar elnökségével történő egyeztetést követően – a kérelmet nem hagyja jóvá, úgy a végrehajtási ügyek további intézésére e § rendelkezései szerint az eljárásra köteles végrehajtó köteles.
+
+304/Q. § (1) A Módtv.17.-tel megállapított 240/F. § (5) bekezdés h) pontját a Módtv.17. 3. alcíme hatálybalépésének napján a Kar által vezetett névjegyzékben szereplő önálló bírósági végrehajtó-helyetteseknek – az önálló bírósági végrehajtók és az önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzéséről szóló rendelet szerinti – 2023. évben kezdődő, első továbbképzési időszakban teljesítendő szakmai továbbképzési kötelezettsége tekintetében is alkalmazni kell.
+
+(2) A Módtv.17.-tel megállapított 240/F. § (5) bekezdés i) pontját és 241. § (6) bekezdés g) pontját a Módtv.17. 3. alcíme hatálybalépésének napján a Kar által vezetett névjegyzékben szereplő önálló bírósági végrehajtó-helyettesek és önálló bírósági végrehajtójelöltek esetében is alkalmazni kell azzal, hogy a névjegyzékben szereplő személy a Módtv.17. 3. alcímének hatálybalépése napját követő 60 napon belül – amely határidőbe a hatálybalépés napja nem számít bele – igazolhatja a Kar hivatali szerve részére, hogy másik végrehajtóval vagy végrehajtói irodával munkaviszonyt létesített.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

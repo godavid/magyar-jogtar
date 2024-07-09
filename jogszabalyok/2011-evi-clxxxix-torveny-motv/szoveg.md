@@ -1251,7 +1251,7 @@ természetes személy jelölhető ki, akivel szemben a helyi önkormányzatok ad
 
 (4i) Az önkormányzati csődbiztosnak a (4g) bekezdés szerinti jogköre által elsődlegesen a helyi közösségi közlekedési feladatellátásnak, továbbá a Hartv. 1. mellékletében felsorolt, és a helyi önkormányzat számára külön törvényben kötelezően előírt feladatok működési kiadások finanszírozásának teljesítését kell biztosítania.
 
-(4j) A (4e) bekezdés szerinti kijelölés annak közlését követő 15 napon belül a Kúria előtt támadható meg. A keresetlevelet az önkormányzati csődbiztost kijelölő kormányhivatalnál kell benyújtani. Az önkormányzati csődbiztost kijelölő kormányhivatal a keresetlevelet 8 napon belül terjeszti fel a Kúria részére. A keresetlevél benyújtásának az önkormányzati csődbiztos kijelölésének hatályosulására nincs halasztó hatálya.
+(4j) A (4e) bekezdés szerinti kijelölés annak közlését követő 15 napon belül a törvényszék előtt támadható meg. A (4e) bekezdés szerinti kijelöléssel szemben indított eljárásban a közigazgatási perrendtartásról szóló 2017. évi I. törvény szabályait kell alkalmazni. A keresetlevelet az önkormányzati csődbiztost kijelölő kormányhivatalnál kell benyújtani. Az önkormányzati csődbiztost kijelölő kormányhivatal a keresetlevelet 8 napon belül terjeszti fel a törvényszék részére. A keresetlevél benyújtásának az önkormányzati csődbiztos kijelölésének hatályosulására nincs halasztó hatálya.
 
 (4k) A bíróság a (4j) bekezdés szerinti keresetlevél benyújtásától számított 60 napon belül határoz. A bíróság döntése ellen nincs helye perújításnak.
 

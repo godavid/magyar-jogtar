@@ -34,7 +34,7 @@ meghatározott rendelkezéseket kell alkalmazni.
   - ba) áruknak vagy szolgáltatásoknak a Magyarországon tartózkodó érintettek számára történő nyújtásához kapcsolódik, függetlenül attól, hogy az érintettnek fizetnie kell-e azokért, vagy
   - bb) az érintett Magyarország területén belül tanúsított viselkedésének megfigyeléséhez kapcsolódik.
 
-(5a) Az adatkormányzási rendelet alkalmazása során a (2a) bekezdésben meghatározott rendelkezéseket – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha az adatkormányzási rendelet szerinti adatközvetítő szolgáltatónak vagy adataltruista szervezetnek az adatkormányzási rendelet 2. cikk 15. pontjában meghatározott tevékenységi központja Magyarországon van, vagy nem rendelkezik az Európai Unióban tevékenységi központtal és az adatkormányzási rendelet hatálya alá tartozó tevékenységet végez Magyarországon.
+(5a) Az adatkormányzási rendelet alkalmazása során a (2a) bekezdésben meghatározott rendelkezéseket – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha az adatkormányzási rendelet szerinti adatközvetítő szolgáltatónak vagy adataltruista szervezetnek az adatkormányzási rendelet 2. cikk 14. pontjában meghatározott tevékenységi központja Magyarországon van, vagy nem rendelkezik az Európai Unióban tevékenységi központtal és az adatkormányzási rendelet hatálya alá tartozó tevékenységet végez Magyarországon.
 
 (6) Nem kell alkalmazni e törvény rendelkezéseit a természetes személynek a kizárólag saját személyes céljait szolgáló adatkezeléseire.
 

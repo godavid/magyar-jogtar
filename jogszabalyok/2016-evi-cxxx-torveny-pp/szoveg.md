@@ -131,7 +131,7 @@ A bíróság a perkoncentráció érvényesülése érdekében az e törvényben
 
 (4) A másodfokon eljáró bírósági tanács három hivatásos bíróból áll.
 
-(5) A Kúria a felülvizsgálati eljárás során három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el.
+(5) A Kúria a felülvizsgálati eljárás során öt hivatásos bíróból álló tanácsban jár el.
 
 #### 10. § [A bíróság tagjainak jogai és kötelezettségei]
 
@@ -1820,7 +1820,7 @@ Ha a fél nyilatkozatának beszerzése szükséges és az a tárgyalásig nem ha
 
 (2) Ha az ügyben eljáró bíróság a kifogást nem tartja alaposnak, a kifogást tartalmazó beadványt megküldi az ellenfél részére, aki észrevételeit a kézbesítéstől számított nyolc napon belül terjesztheti elő. A határidő elteltét követően a bíróság az iratokat – az esetleg benyújtott észrevételekkel együtt – nyolc napon belül a kifogásra vonatkozó nyilatkozatával együtt felterjeszti a kifogás elbírálására hatáskörrel rendelkező bírósághoz.
 
-(3) A járásbíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria három hivatásos bíróból álló tanácsa, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
+(3) A járásbíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria öt hivatásos bíróból álló tanácsa, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
 
 (4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 157. § (1) bekezdés a) és c) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 157. § (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A felhívásban – a 157. § (1) bekezdés a) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja.
 
@@ -1838,9 +1838,11 @@ Ha a fél nyilatkozatának beszerzése szükséges és az a tárgyalásig nem ha
 
 (3) Ha jegyzőkönyvvezető alkalmazására nem kerül sor, a bíróság a jegyzőkönyv tartalmának rögzítése céljából, az adott eljárási cselekménnyel egyidejűleg, – a (4) bekezdésben meghatározott eset kivételével – a jegyzőkönyvi tartalmat összefoglaló hangfelvételt rögzít és az írásbeli jegyzőkönyvet utóbb e felvétel hanganyagának leírásával készíti el.
 
-(4) Ha a per érdemi tárgyalási szakában az eljárási cselekmény megkezdéséig bármelyik fél kéri, a bíróság – a technikai feltételek rendelkezésre állása esetén – elrendeli a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel (a továbbiakban: folyamatos felvétel) útján történő készítését. Folyamatos felvétel készítését a per érdemi tárgyalási szakában a bíróság hivatalból is elrendelheti.
+(4) Ha az eljárási cselekmény megkezdéséig bármelyik fél kéri, a bíróság – a technikai feltételek rendelkezésre állása esetén – elrendeli a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel (a továbbiakban: folyamatos felvétel) útján történő készítését. Folyamatos felvétel készítését a bíróság hivatalból is elrendelheti.
 
 (5) Folyamatos felvétel készítése esetén az eljárási cselekmény anyagát e felvétel tartalmazza. A jogszabályban meghatározott módon hitelesített folyamatos felvétel jegyzőkönyvnek minősül. Ha folyamatos felvétel készítése esetén a bíróság jegyzőkönyvvezetőt alkalmaz, a jegyzőkönyv írásbeli kivonata az eljárási cselekménnyel egyidejűleg készül el. Ha jegyzőkönyvvezető alkalmazására nem kerül sor, a bíróság a jegyzőkönyv írásbeli kivonatát utóbb e felvétel alapján készíti el.
+
+(5a) Folyamatos felvétel készítése esetén a bíróság a jegyzőkönyv írásbeli kivonatának elkészítése érdekében – a felek észrevételeinek figyelembevételével – összefoglalja a feleknek a per eldöntése szempontjából lényeges kérelmeit, nyilatkozatait és indítványait.
 
 (6) A folyamatos felvétel az adott eljárási cselekmény során történteket – a (7) bekezdésben foglalt esetek kivételével – megszakítás nélkül rögzíti.
 
@@ -1881,6 +1883,7 @@ Ha a fél nyilatkozatának beszerzése szükséges és az a tárgyalásig nem ha
 - c) a fél személyes meghallgatásának, a beavatkozó, a tanú és a szakértő meghallgatásának, valamint a szemlének a kezdő időpontját,
 - d) a felek között létrejött egyezség tartalmát,
 - e) a bíróság által az eljárási cselekmény folyamán hozott végzéseket.
+- f) a 159. § (5a) bekezdése szerinti összefoglalás kezdő időpontját és tartalmát.
 
 (6) Ha a bíróság a perfelvételt lezáró végzés meghozatalát követően az érdemi tárgyalást nyomban megtartja, az érdemi tárgyalásra történő áttérés időpontját a jegyzőkönyvben rögzíteni kell. Áttérés esetén a jegyzőkönyv írásbeli kivonatát elkészíteni nem kell, elegendő, ha annak tartalma a perfelvételről készült írásbeli jegyzőkönyvben rögzítésre kerül.
 
@@ -3614,12 +3617,13 @@ A 289–291. § rendelkezéseit a kirendelt szakértőre is alkalmazni kell.
 
 #### 310. § [A kirendelt szakértő felmentése]
 
-A bíróság a kirendelt szakértőt a kirendelés alól hivatalból felmenti, ha
+A bíróság a kirendelt szakértőt a kirendelés alól hivatalból felmenti,
 
-- a) a kirendelés alapján törvény értelmében nem jogosult eljárni, vagy az eljárását más fontos ok akadályozza,
-- b) a szakértő a szakkérdésről a 309. § alapján nem nyilváníthat véleményt, illetve a véleménynyilvánítást a bíróság határozata szerint alappal megtagadta,
-- c) a szakvélemény előterjesztése előtt a fél a szakértő alkalmazására irányuló indítványát visszavonta vagy a bíróság a szakértői bizonyítás lefolytatatását mellőzte, vagy
-- d) jogszabályban meghatározott egyéb ok áll fenn.
+- a) ha a kirendelés alapján törvény értelmében nem jogosult eljárni, vagy az eljárását más fontos ok akadályozza,
+- b) ha a szakértő a szakkérdésről a 309. § alapján nem nyilváníthat véleményt, illetve a véleménynyilvánítást a bíróság határozata szerint alappal megtagadta,
+- c) ha a szakvélemény előterjesztése előtt a fél a szakértő alkalmazására irányuló indítványát visszavonta vagy a bíróság a szakértői bizonyítás lefolytatását mellőzte,
+- d) – pénzbírság egyidejű alkalmazása mellett –, ha határidőben, illetve a határidő meghosszabbítása esetén a meghosszabbított határidőben nem terjeszti elő a szakvéleményt és a körülmények alapján nem is várható, hogy a szakvéleményt előterjeszti, vagy
+- e) ha jogszabályban meghatározott egyéb ok áll fenn.
 
 #### 311. § [Más szakértő kirendelése]
 
@@ -4254,7 +4258,7 @@ A másodfokú bíróság az elsőfokú bíróság határozatát a fellebbezést 
 
 #### 364. § [Az elsőfokú eljárás szabályainak alkalmazása]
 
-E fejezet eltérő rendelkezése hiányában a másodfokú eljárásban az elsőfokú eljárásra vonatkozó szabályokat kell alkalmazni azzal, hogy a másodfokú eljárás nem különül el perfelvételi és érdemi tárgyalási szakra, valamint a jegyzőkönyv folyamatos felvétel útján történő készítésének nincs helye.
+E fejezet eltérő rendelkezése hiányában a másodfokú eljárásban az elsőfokú eljárásra vonatkozó szabályokat kell alkalmazni azzal, hogy a másodfokú eljárás nem különül el perfelvételi és érdemi tárgyalási szakra.
 
 #### 365. § [A másodfokú eljárás megindítása]
 
@@ -5297,7 +5301,7 @@ Az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdö
 
 (4) A kiskorút az elnök hallgatja meg. A felek a meghallgatást megelőzően indítványozhatnak kérdéseket akkor is, ha a kiskorú meghallgatására a felek távollétében kerül sor. Az ügygondnok a kiskorú meghallgatása során kérdéseket indítványozhat. Az elnök engedélyezheti, hogy az ügygondnok a kiskorúhoz közvetlenül is intézhessen kérdést. Az indítványozott vagy a kiskorúhoz közvetlenül intézett kérdések megengedhetősége felől az elnök határoz.
 
-(5) A meghallgatás végén, még a kiskorú jelenlétében az írásbeli jegyzőkönyvbe vett vallomást fel kell olvasni, vagy ha a jegyzőkönyv a jegyzőkönyvi tartalmat összefoglaló hangfelvétel útján készül, azt a kiskorú jelenlétében kell rögzíteni. Ennek megtörténtét vagy mellőzését a jegyzőkönyvben fel kell tüntetni. A felolvasáskor, illetve a rögzítéskor a kiskorú az általa elmondottakat kiigazíthatja vagy kiegészítheti. A jegyzőkönyv – az elnök engedélyével – az ügygondnok, vagy ha a meghallgatás a felek jelenlétében történik, a felek észrevételei alapján is kiegészíthető és módosítható. Az ügygondnok, illetve a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni.
+(5) A kiskorú meghallgatásáról folyamatos felvétel nem készíthető. A meghallgatás végén, még a kiskorú jelenlétében az írásbeli jegyzőkönyvbe vett vallomást fel kell olvasni, vagy ha a jegyzőkönyv a jegyzőkönyvi tartalmat összefoglaló hangfelvétel útján készül, azt a kiskorú jelenlétében kell rögzíteni. Ennek megtörténtét vagy mellőzését a jegyzőkönyvben fel kell tüntetni. A felolvasáskor, illetve a rögzítéskor a kiskorú az általa elmondottakat kiigazíthatja vagy kiegészítheti. A jegyzőkönyv – az elnök engedélyével – az ügygondnok, vagy ha a meghallgatás a felek jelenlétében történik, a felek észrevételei alapján is kiegészíthető és módosítható. Az ügygondnok, illetve a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni.
 
 (6) Ha a kiskorú meghallgatására a felek távollétében kerül sor, az elnök a felekkel ismerteti a meghallgatásról készült jegyzőkönyvet.
 
@@ -6606,6 +6610,47 @@ elektronikus úton, vagy az adatbázisok közvetlen elérésével is meggyőződ
 
 Az elektronikus hírközlő hálózat útján történő meghallgatás esetén a tárgyalásról, személyes meghallgatásról, illetve a szemléről készült jegyzőkönyvnek ki kell terjednie az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatása körülményeinek, valamint az elektronikus hírközlő hálózat útján történő meghallgatásra kialakított helyiségben jelen lévők személyének rögzítésére is.
 
+#### 161. Egyszerűsített telekommunikációs jelenlét
+
+#### 627/A. § [Az egyszerűsített telekommunikációs jelenlét elrendelése]
+
+(1) Ha az elektronikus hírközlő hálózat útján történő meghallgatás elrendelésének az e törvényben meghatározott feltételei fennállnak, és a bíróság úgy ítéli meg, hogy a meghallgatás akként is lefolytatható, hogy
+
+- a) a meghallgatáshoz a helyiséget nem a bíróság vagy egyéb – az elektronikus hírközlő hálózat működésének és a meghallgatás lefolytatása egyéb körülményeinek biztosításához szükséges feltételekkel rendelkező – szerv bocsátja rendelkezésre, és
+- b) a meghallgatás helyszínén elegendő, ha csak a meghallgatásra kerülő személy van jelen,
+
+a bíróság elrendelheti, hogy a meghallgatásra a meghallgatásra kerülő személy a rendelkezésére álló eszközt használja (a továbbiakban: egyszerűsített telekommunikációs jelenlét).
+
+(2) Egyszerűsített telekommunikációs jelenlét esetén a 622–627. § rendelkezéseit az ezen alcímben meghatározott eltérésekkel kell alkalmazni.
+
+(3) Egyszerűsített telekommunikációs jelenlét esetén az eljárási cselekmény kitűzött helyszíne és a meghallgatás helyszíne között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító eszköz biztosítja.
+
+(4) Egyszerűsített telekommunikációs jelenlétet a bíróság – az egyszerűsített telekommunikációs jelenléttel meghallgatásra kerülő személy előzetes hozzájárulásának beszerzését követően – végzéssel rendeli el.
+
+#### 627/B. § [Az egyszerűsített telekommunikációs jelenlét útján történő meghallgatás lefolytatása]
+
+(1) Egyszerűsített telekommunikációs jelenlét esetén a meghallgatás helyszínéül szolgáló helyiségben (a továbbiakban: meghallgatás helyisége) csak az egyszerűsített telekommunikációs jelenlét útján meghallgatásra kerülő személy lehet jelen, továbbá olyan személy, akinek a jelenlétét törvény egyébként lehetővé, illetve kötelezővé teszi.
+
+(2) Az eljárási cselekmény nem folytatható, ha
+
+- a) az eljárási cselekmény során észszerű kétely mutatkozik a meghallgatásra kerülő személy
+  - aa) személyazonosságával,
+  - ab) eljárási cselekményen való részvételének önkéntességével, vagy
+  - ac) vallomásának vagy nyilatkozatának befolyásmentességével
+
+kapcsolatban, vagy
+
+- b) a meghallgatás helyiségében olyan személy van jelen, akinek a jelenlétét törvény egyébként nem teszi lehetővé, illetve kötelezővé.
+
+(3) Egyszerűsített telekommunikációs jelenlét esetén az elnök, illetve ha a személyes meghallgatást vagy a szemlét bírósági titkár folytatja le, a bírósági titkár meghatározhatja, hogy az egyszerűsített telekommunikációs jelenlét útján meghallgatásra kerülő személy a rendelkezésére álló eszközzel milyen tevékenységet végezzen el annak érdekében, hogy az elnök, illetve ha a személyes meghallgatást vagy a szemlét bírósági titkár folytatja le, a bírósági titkár
+
+- a) láthassa
+  - aa) a meghallgatás helyiségében a meghallgatott személyt és a meghallgatott személlyel egyidejűleg ott-tartózkodó valamennyi személyt, valamint
+  - ab) szükség esetén a meghallgatás helyiségének minden pontját, továbbá
+- b) ellenőrizhesse a (2) bekezdésben foglaltakat.
+
+(4) A (3) bekezdés szerinti tevékenységek megtagadása vagy az ellenőrzésre alkalmatlan módon történő elvégzése esetén az eljárási cselekmény nem folytatható.
+
 ## TIZENEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 #### 628. § [Felhatalmazó rendelkezések]
@@ -6669,67 +6714,41 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 
 (1) E törvény
 
-1. a vízügyi, energiaipari, szállítási és távközlési ágazatokban működő vállalkozások beszerzési eljárásairól szóló közösségi szabályok alkalmazására vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 1992. február 25-i 92/13/EGK tanácsi irányelvnek,
-
-2. a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelvnek,
-
-3. a feltételes hozzáférésen alapuló, vagy abból álló szolgáltatások jogi védelméről szóló, 1998. november 20-i 98/84/EK európai parlamenti és tanácsi irányelvnek,
-
-4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
-
-5. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
-
-6.
-
-7. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
-
-8. a férfiak és a nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és a munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK parlamenti és tanácsi irányelvnek,
-
-9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
-
-10. a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2022. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelvnek,
-
-11. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
-
-12. az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
-
-13. a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló, 2010. március 10-i 2010/13/EU parlamenti és tanácsi irányelvnek,
-
-14. a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
-
-15. a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló, 2014. február 26-i 2014/26/EU parlamenti és tanácsi irányelvnek
+- 1. a vízügyi, energiaipari, szállítási és távközlési ágazatokban működő vállalkozások beszerzési eljárásairól szóló közösségi szabályok alkalmazására vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 1992. február 25-i 92/13/EGK tanácsi irányelvnek,
+- 2. a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelvnek,
+- 3. a feltételes hozzáférésen alapuló, vagy abból álló szolgáltatások jogi védelméről szóló, 1998. november 20-i 98/84/EK európai parlamenti és tanácsi irányelvnek,
+- 4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
+- 5. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
+- 6.
+- 7. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
+- 8. a férfiak és a nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és a munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK parlamenti és tanácsi irányelvnek,
+- 9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
+- 10. a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2022. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelvnek,
+- 11. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
+- 12. az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
+- 13. a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló, 2010. március 10-i 2010/13/EU parlamenti és tanácsi irányelvnek,
+- 14. a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
+- 15. a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló, 2014. február 26-i 2014/26/EU parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (2) E törvény
 
-1. az Európai Igazságügyi Hálózat létrehozásáról polgári és kereskedelmi ügyekben szóló, 2001. május 28-i 2001/470/EK tanácsi határozat,
-
-2. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanácsi határozat,
-
-3. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendelet,
-
-4. a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet
-
-5. a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
-
-6. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
-
-7. az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
-
-8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
-
-9. a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
-
-10. a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet,
-
-11. az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
-
-12. a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
-
-13. a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
-
-14. a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+- 1. az Európai Igazságügyi Hálózat létrehozásáról polgári és kereskedelmi ügyekben szóló, 2001. május 28-i 2001/470/EK tanácsi határozat,
+- 2. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanácsi határozat,
+- 3. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendelet,
+- 4. a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet
+- 5. a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
+- 6. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
+- 7. az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
+- 8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
+- 9. a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
+- 10. a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet,
+- 11. az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
+- 12. a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
+- 13. a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
+- 14. a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+- 15. a határokon átnyúló polgári, kereskedelmi és büntetőügyekben folytatott igazságügyi együttműködés és az igazságszolgáltatáshoz való hozzáférés digitalizációjáról, valamint az igazságügyi együttműködés területén egyes jogi aktusok módosításáról szóló, 2023. december 13-i (EU) 2023/2844 európai parlamenti és tanácsi rendelet
 
 végrehajtását szolgálja.
 
