@@ -52,7 +52,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
   - ga) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában, b)–e) és g) pontjában szereplő adatokat,
   - gb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
 - h) az anyakönyvvezető
-  - ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–d) pontjában szereplő adatokat,
+  - ha) a házasságkötéssel és a bejegyzett élettársi kapcsolat létesítésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–d) pontjában szereplő adatokat,
   - hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - i) a járási hivatal a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 - j) az egyéni vállalkozók nyilvántartását vezető szerv, valamint az egyéni vállalkozói tevékenység hatósági ellenőrzését végző szerv az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági feladatainak ellátásához, továbbá a jogszabály alapján személyazonosság igazolására alkalmas hatósági igazolvány kiadására feladat- és hatáskörrel rendelkező szerv személyazonosság igazolására alkalmas hatósági igazolvány kiadásával kapcsolatos eljárása során a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat,
@@ -60,6 +60,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - l) a kormányablak az előtte folyamatban lévő eljárásban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és c)–e) pontjában szereplő adatokat.
 - m) az ingatlanügyi hatóság a hatósági eljárásaiban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat.
 - n) az adóhatóság az eljárása során az adózó vagy az eljárás egyéb résztvevője eljárási képessége fennállásának vagy hiányának megállapításához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat.
+- o) a Katonai Nemzetbiztonsági Szolgálat a feladatainak ellátásához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat.
 
 (3) A közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság a cselekvőképesség és a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult megismerni és kezelni a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és a 3. § (1) bekezdés b)–e) pontjában szereplő adatokat.
 

@@ -101,7 +101,9 @@ lép.
 
 #### 36. §
 
-#### 37. §
+37. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény a következő 51/C. §-sal egészül ki:
+
+„51/C. § A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság által az 51/B. § (2) bekezdése szerint megállapított forgalmi értéket az állammal szemben a Budapest Főváros VIII. kerület Józsefváros Önkormányzata – a forgalmi érték vele való közlését követő 15 napon belül – bíróság előtt, polgári peres eljárásában vitathatja, amely azonban nem érinti az állam 51/B. § (1) bekezdése szerinti tulajdonszerzését. A polgári peres eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.”
 
 #### 38. §
 

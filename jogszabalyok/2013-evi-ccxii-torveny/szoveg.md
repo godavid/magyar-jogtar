@@ -186,6 +186,14 @@ fog előállítani.
 
 (5) A mezőgazdasági igazgatási szerv által kiadott olyan tartalmú hatósági bizonyítvány, amely szerint a szerző fél tulajdonszerzésének a Földforgalmi törvény szerinti feltételei fennállnak, a jogszabályban előírt egyéb érvényességi feltételeket és kellékeket, továbbá más hatóságoknak az egyezség létrejöttéhez vagy érvényességéhez szükséges előzetes engedélyét vagy jóváhagyását nem pótolja. Ha a mezőgazdasági igazgatási szerv hatósági bizonyítvány kiadását megtagadja, az egyezség semmis és nem hagyható jóvá.
 
+21/A. § (1) Ha a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény (a továbbiakban: Foktftv.) 18/A. § (1) bekezdés c) pontja alapján az ingatlant, vagy a Foktftv. 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező tulajdoni illetőséget az örököstársak (ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is) a hagyatéki eljárás keretében harmadik személy részére egyben értékesítik, akkor az egyezségre a Földforgalmi törvény 21–30. §-ának, valamint e törvény 11–20. §-ának rendelkezéseit az e § szerinti eltérésekkel kell alkalmazni.
+
+(2) E törvény, valamint a Földforgalmi törvény alkalmazásában az egyezséget szerződésnek, az egyezséget kötő feleket szerződő feleknek kell tekinteni. Eladó alatt az örököstársak közösségét kell érteni.
+
+(3) Az egyezséget – annak létrejöttétől számított 8 napon belül – a közjegyző megküldi a mezőgazdasági igazgatási szerv részére jóváhagyás céljából.
+
+(4) Az egyezség jóváhagyására irányuló eljárásban nem kell megkeresni a helyi földbizottságot az állásfoglalásának beszerzése céljából.
+
 ### VI. Fejezet — A SZOMSZÉDJOGOK ÉS A TULAJDONJOG KORLÁTAINAK KÜLÖNÖS SZABÁLYAI
 
 22. § A földhasználó a földet – a jogszabályban foglalt gazdálkodási követelmények és a földhasználati szerződésben meghatározottak mellett – a Polgári Törvénykönyvnek (a továbbiakban: Ptk.), valamint a szomszédjogok és a tulajdonjog korlátainak különös szabályairól szóló törvénynek, továbbá e törvénynek a szomszédjogi előírásai szerint köteles használni.
@@ -386,6 +394,19 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 42. § (1) A Földforgalmi törvény 34. §-ának alkalmazásában – a Földforgalmi törvény 34. § (3) bekezdésében meghatározottak mellett – a mezőgazdasági igazgatási szerv azt is vizsgálja, hogy a hagyaték átszállása nem eredményezné-e a tulajdonszerzési korlátozás megsértését vagy megkerülését.
 
 (2) A vizsgálat eredményeként a mezőgazdasági igazgatási szerv hatósági bizonyítványt ad ki a megkereső közjegyzőnek a tulajdonszerzéshez szükséges feltételek fennállásáról vagy annak kiadását megtagadja.
+
+42/A. § (1) Ha az örökös a tulajdonszerzés akadályát elhárítja és azt a Földforgalmi tv. 34. § (3b) bekezdésében foglaltak szerint bejelenti, a mezőgazdasági igazgatási szerv a 42. §-ban foglaltak szerint jár el azzal, hogy a hatósági bizonyítványt a bejelentő részére adja ki.
+
+(2) Az (1) bekezdés szerinti hatósági bizonyítvány kiadásával egyidejűleg a mezőgazdasági igazgatási szerv kezdeményezi az ingatlanügyi hatóságnál a vételi jog és az elidegenítési és terhelési tilalom törlését.
+
+(3) Az ingatlanügyi hatóság – a (2) bekezdésben foglaltakon túl – törli a vételi jogot, valamint az elidegenítési és terhelési tilalmat
+
+- a) a Földforgalmi tv. 63/A. §-a szerinti esetben a magyar állam tulajdonjogának ingatlan-nyilvántartási átvezetésével egyidejűleg,
+- b) a végintézkedés tárgyát képező föld kisajátítása esetén a kisajátítással bekövetkező tulajdonváltozás átvezetésével egyidejűleg.
+
+42/B. § (1) A 21/A. § szerinti egyezség jóváhagyására a 27–39. § rendelkezéseit a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) A mezőgazdasági igazgatási szerv az eljárás során hozott végleges és közigazgatási perrel meg nem támadott döntését a közigazgatási per indítására megszabott határidő lejárta után a közjegyzőnek megküldi. A mezőgazdasági igazgatási szerv az egyezséget jóváhagyó döntéssel egyidejűleg megküldi a közjegyző részére a záradékolt egyezséget.
 
 43. § A 21. §-ban meghatározott, a bírósági vagy közjegyzői jóváhagyáshoz kötött egyezségnek a megelőző hatósági jóváhagyására vonatkozó eljárásban a 27–39. §-ban foglaltakat a 44. §-ban foglalt eltérésekkel kell alkalmazni.
 

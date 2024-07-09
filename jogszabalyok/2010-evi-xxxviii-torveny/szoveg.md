@@ -69,7 +69,7 @@ szerinti közjegyző illetékes.
   - ja) az öröklésben érdekeltek között a hagyatéki hitelezői igény, a nem természetben kiadni igényelt kötelesrész iránti igény, illetve a kötelmi hagyomány iránti igény jogalapja vagy annak összegszerűsége tárgyában felmerült vita,
   - jb) a végrendeleti végrehajtó és más öröklésben érdekelt között, a végrendeleti végrehajtó feladatai, jogai, kötelezettségei, valamint a végrendeleti végrehajtói tevékenysége (intézkedése vagy mulasztása) tárgyában felmerült vita.
 - k) osztályos egyezség: a hagyatéki eljárásban az örökösként érdekeltek között létrejött – a hagyatékban való részesedés mellett és kizárólag a hagyatéki vagyonra (annak egészére vagy részére) vonatkozóan kötött –, a hagyatékból való részesedést a hagyaték megnyíltára visszamenőleges hatállyal meghatározó, élők közötti jogügyletnek nem minősülő egyezség;
-- l) öröklésben érdekelt: az örökösként érdekelt, továbbá az, aki az eljárásban hagyatéki hitelezőként, igénylőként vagy kötelesrészre jogosultként lépett fel, továbbá a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti végrendeleti végrehajtó és hagyatéki gondnok, valamint a biztosítási intézkedés, illetve a jogorvoslat iránti kérelem előterjesztése körében a gyámhatóság;
+- l) öröklésben érdekelt: az örökösként érdekelt, továbbá az, aki az eljárásban hagyatéki hitelezőként, igénylőként vagy kötelesrészre jogosultként lépett fel, továbbá a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti végrendeleti végrehajtó és hagyatéki gondnok, valamint a biztosítási intézkedés, illetve a jogorvoslat iránti kérelem előterjesztése körében a gyámhatóság, valamint az a harmadik személy, akinek a részére az örökhagyó kizárólagos tulajdonában álló ingatlant, vagy osztatlan közös tulajdonban álló ingatlanban az örökhagyó hagyatékát képező tulajdoni hányadot a törvényes öröklés szabályai szerint közösen öröklő törvényes örökösök – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény (a továbbiakban: Foktftv.) 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján hagyatéki eljárás keretében egyben kívánják értékesíteni, és e harmadik személy a közjegyzőnek bejelentette, hogy az ingatlant vagy tulajdoni illetőséget a hagyatéki eljárás keretében hajlandó megvásárolni, valamint aki elővásárlóként a mezőgazdasági igazgatási szerv döntése alapján e személy helyett az ingatlant vagy tulajdoni illetőséget megszerezni jogosult;
 - m) öröklési jogi vita: az örökösként érdekeltek között abban a kérdésben felmerült vita, hogy a hagyaték kit és milyen jogcímen illet, valamint a természetben kiadni igényelt kötelesrész tárgyában felmerült vita;
 - n) örökösként érdekelt: aki az eljárásban örökösként lép fel, ideértve azt is, akit az örökhagyó dologi hagyományban vagy halála esetére szóló ajándékban részesített, valamint az utóörököst és a dologi utóhagyományost is;
 - o) utóörökös: aki az örökhagyó végrendeleti intézkedése alapján az örökségben vagy annak egy részében valamely eseménytől vagy időponttól kezdve az eddigi örököst váltja fel.
@@ -341,6 +341,8 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 (5) Az (1) és (4) bekezdés szerinti tájékoztatást, valamint a (2) és (3) bekezdés szerinti felhívást úgy kell kiadni, hogy a feleknek adott 8 napos határidőt is figyelembe véve a leltár a 23. § (1) bekezdés szerinti időben elkészülhessen.
 
+(6) A jegyző tájékoztatja az örökösként érdekelteket a Foktftv. 18/A. §-ában, illetve 18/B. §-ában foglaltakról, ha a hagyaték tárgyát képező ingatlan vagy tulajdoni illetőség a Foktftv. 18/A. §-a, illetve 18/B. §-a hatálya alá tartozhat.
+
 31/B. § Ha leltár felvételére nem kerül sor, mivel az örökhagyó hagyatéka tekintetében nem állnak fenn a 20. § (1)–(6) bekezdése szerinti feltételek, az eljárást a jegyző megszünteti.
 
 ### Biztosítási intézkedés
@@ -465,7 +467,7 @@ feltéve, hogy a hagyatéki leltár a hagyaték átadásához szükséges valame
   - bc) cselekvőképességet érintő gondnokság alatt álló nagykorú,
   - bd) törvényes képviselővel vagy meghatalmazottal nem rendelkező, ismeretlen helyen tartózkodó vagy az ügyeinek vitelében más okból akadályozott természetes személy,
 - c) a megkötni kívánt egyezség jogszerűsége a rendelkezésre álló adatok alapján nem ítélhető meg, vagy a megkötni kívánt egyezség jogszabályba ütközőnek tűnik,
-- d) az örökösként érdekeltek egyezségükbe – a hagyatéki hitelezőn kívül – más személyt is be akarnak vonni,
+- d) az örökösként érdekeltek egyezségükbe – a hagyatéki hitelezőn kívül – más személyt is be akarnak vonni, vagy a törvényes örökösök – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – a Foktftv. 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező ingatlant vagy tulajdoni illetőséget hagyatéki eljárás keretében harmadik személy részére egyben kívánják értékesíteni,
 - e) a közjegyző a tárgyalás tartását vitás körülmény felmerülése miatt vagy egyéb okból indokoltnak tartja,
 - f) – a (4) bekezdésben foglaltak kivételével – a tárgyalás tartását valamelyik öröklésben érdekelt fél kéri vagy
 - g) az özvegyi jog megváltása iránti igényt a hagyatéki eljárásban terjesztik elő.
@@ -478,7 +480,7 @@ feltéve, hogy a hagyatéki leltár a hagyaték átadásához szükséges valame
 - d) ha az örökhagyó után csak olyan (vagy csak olyan értékű) ingóság maradt, amelynek átadása az öröklési illeték alól mentes vagy
 - e) ha az örökhagyó után kizárólag ingóság maradt és az örökös teljes személyes illetékmentességben részesül.
 
-(5) A törvényes örökös a tárgyalás nélkül meghozott hagyatékátadó végzés jogerőre emelkedése előtt kérheti hagyatéki tárgyalás kitűzését, ha az örökséget visszautasítja, más öröklésben érdekelttel egyezséget kíván kötni, vagy a hagyaték tárgyalás nélküli átadása alapjául szolgált, az iratokhoz csatolt egyezségtől el kíván térni, illetve örökségét vagy annak egy részét hagyatéki hitelező követelésének kielégítése fejében a hagyatéki hitelezőre vagy a hagyatéki eljárásban kieséses örökösre kívánja átruházni, vagy igénylővel kíván egyezséget kötni. A törvényes örököst erre a jogára a tárgyalás nélkül meghozott hagyatékátadó végzésben figyelmeztetni kell.
+(5) A törvényes örökös a tárgyalás nélkül meghozott hagyatékátadó végzés jogerőre emelkedése előtt kérheti hagyatéki tárgyalás kitűzését, ha az örökséget visszautasítja, más öröklésben érdekelttel egyezséget kíván kötni, vagy a hagyaték tárgyalás nélküli átadása alapjául szolgált, az iratokhoz csatolt egyezségtől el kíván térni, illetve örökségét vagy annak egy részét hagyatéki hitelező követelésének kielégítése fejében a hagyatéki hitelezőre vagy a hagyatéki eljárásban kieséses örökösre kívánja átruházni, igénylővel kíván egyezséget kötni, vagy az örökségét, illetve annak egy részét a 94. § (3) bekezdése szerint a magyar államnak fel kívánja ajánlani, vagy a törvényes örökös bejelenti, hogy a törvényes örökösök a Foktftv. 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező ingatlant vagy tulajdoni illetőséget hagyatéki eljárás keretében harmadik személy részére egyben kívánják értékesíteni. A törvényes örököst erre a jogára a tárgyalás nélkül meghozott hagyatékátadó végzésben figyelmeztetni kell.
 
 (6) Tárgyalás tartása esetében, valamint tárgyaláson történő hagyatékátadásra való áttérést követően, ha az eljárás folyamán bekövetkezett változás következtében tárgyalás nélküli hagyatékátadásnak lenne helye, a közjegyző áttérhet a tárgyalás nélküli hagyatékátadásra.
 
@@ -718,7 +720,12 @@ tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
 
 (5) A hagyatéki eljárás felfüggesztése alatt rész-hagyatékátadó végzés (79. §) hozható.
 
-(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző a végintézkedés ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre, a bizalmi vagyonkezelőre, vagy a végintézkedéssel létesített alapítványra való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek, a bizalmi vagyonkezelőnek, a végintézkedéssel létesített alapítványnak ideiglenes hatállyal sem adható át.
+(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző
+
+- a) belföldi természetes személy és tagállami állampolgár örökös esetében a hagyaték átadásáról szóló végzésben megállapítja a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 34. § (3a) bekezdése szerinti kötelezettséget,
+- b) az a) pontba nem tartozó esetben a végintézkedés ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre, a halál esetére megajándékozottra, a bizalmi vagyonkezelőre, vagy a végintézkedéssel létesített alapítványra való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek, a halál esetére megajándékozottnak, a bizalmi vagyonkezelőnek, a végintézkedéssel létesített alapítványnak ideiglenes hatállyal sem adható át.
+
+(7) A (6) bekezdés a) pontja szerinti esetben a közjegyző az ingatlanügyi hatóságnál kezdeményezi az államot megillető vételi jog és annak biztosítására szolgáló elidegenítési és terhelési tilalom bejegyzését.
 
 ### A hagyatéki eljárás költsége
 
@@ -931,11 +938,21 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés jogcímén megszerzett hagyatéki vagyon egészét vagy részét az öröklésben érdekelt más személyre, a kieséses örökösre vagy a hagyatéki hitelezőre átruházza, vagy az igénylőnek – az eredetileg a hagyatékhoz tartozónak tekintett – vagyontárgyra vonatkozó igényét elismeri, a közjegyző ezeket a jognyilatkozatokat egyezségbe foglalja, és dönt az egyezség jóváhagyásáról. Ha a közjegyző ezen egyezséget jóváhagyta, a hagyatékot az egyezség szerinti jogcímen szerző félnek adja át, átruházás esetén az átruházó örökösként érdekelt jogszerzésének (öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés) megfelelő jogcímen történt közbenső jogszerzése megállapításával.
 
-(3) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés jogcímén megszerzett, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású földet, vagy tanyát, az ahhoz tartozó berendezést, felszerelési tárgyakat, állatállományt, munkaeszközöket ajándék jogcímén az államnak felajánlja, az ajándékot elfogadottnak kell tekinteni, és a közjegyző a felajánlott vagyontárgyat ajándék jogcímén az államnak adja át az ajándékozó örökösként érdekelt jogszerzésének (öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés) megfelelő jogcímen történt közbenső jogszerzése megállapításával.
+(3) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés jogcímén megszerzett, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású földet vagy tanyát, az ahhoz tartozó berendezést, felszerelési tárgyakat, állatállományt, munkaeszközöket, továbbá utat, árkot, halastavat, mocsarat, csatornát ajándék jogcímén a magyar államnak felajánlja, az ajándékot elfogadottnak kell tekinteni, és a közjegyző a felajánlott vagyontárgyat ajándék jogcímén a magyar államnak adja át az ajándékozó örökösként érdekelt jogszerzésének – öröklés, halál esetére szóló ajándékozás, dologi hagyomány, végintézkedéssel létesített bizalmi vagyonkezelés – megfelelő jogcímen történt közbenső jogszerzése megállapításával.
 
-(4) A (3) bekezdésben foglaltak esetén az örökös illetékfizetési kötelezettségére az örököstársnak való ingyenes átengedés szabályait kell alkalmazni.
+(4) A (3) bekezdésben foglaltak esetén az örökös illetékfizetési kötelezettségére az örököstársnak való ingyenes átengedés szabályait kell alkalmazni, a 73. § alkalmazása során örökösnek az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban képviselő szervet kell tekinteni.
 
-#### 95. §
+### Az osztatlan közös tulajdon megszüntetése a hagyatéki eljárás keretében harmadik személy részére történő értékesítéssel
+
+95. § (1) Ha a Foktftv. 18/A. § (1) bekezdés c) pontja alapján az ingatlant, vagy a Foktftv. 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező tulajdoni illetőséget – ideértve azt is, ha az ingatlan kivett út, kivett árok, illetve kivett csatorna alrészletet is tartalmaz – az örököstársak (ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is) a hagyatéki eljárás keretében harmadik személy részére egyben értékesítik, és az ingatlan vagy a hagyatékot képező tulajdoni illetőség teljes hatályú átadásának akadálya nincs, a közjegyző a tulajdonjog átruházására vonatkozó jognyilatkozatokat egyezségbe foglalja. Az egyezség tartalmára a mező- és erdőgazdasági földek forgalmáról szóló törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény adásvételi szerződésre vonatkozó rendelkezéseit kell alkalmazni.
+
+(2) A közjegyző a szerző fél tulajdonszerzési képességét, valamint a tulajdonjog megszerzésének a mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt feltételeinek fennállását nem vizsgálja.
+
+(3) A közjegyző a felek egyezségét megküldi a mezőgazdasági igazgatási szervnek, egyidejűleg a hagyatéki eljárást a mezőgazdasági igazgatási szerv döntésének közléséig felfüggeszti. A hagyatéki eljárás felfüggesztése alatt rész-hagyatékátadó végzés (79. §) hozható.
+
+(4) Ha az ingatlan vagy tulajdoni illetőség teljes hatállyal történő átadásának akadálya nincs, a közjegyző a mezőgazdasági igazgatási szervnek az egyezséget jóváhagyó döntése alapján a felek egyezségét a mezőgazdasági igazgatási szerv döntésében szereplő személlyel – aki az egyezségben a vevőként egyezséget kötő személy helyébe lép, ha ez a személy nem azonos az egyezségben vevőként szereplő személlyel – jóváhagyja és az ingatlant adásvétel jogcímén e harmadik személy részére adja át az örökösként érdekeltnek minősülő törvényes örököstársak – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – közössége tagjai öröklés jogcímén történt közbenső jogszerzése megállapításával az egyes törvényes örököstársakat – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – illető tulajdoni hányad feltüntetése nélkül. Ha a mezőgazdasági igazgatási szerv az egyezség jóváhagyását megtagadta, a közjegyző az egyezség jóváhagyását megtagadja és a hagyatéki eljárást folytatja.
+
+(5) Az (1)–(4) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell akkor is, ha a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező-, erdőgazdasági hasznosítású földet, vagy annak tulajdoni illetőségét a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 3. § (1) bekezdése szerinti tanyának minősülő ingatlant, vagy annak tulajdoni illetőségét az örökösként érdekelt a hagyatéki eljárásban adásvétel jogcímén ruházza át az öröklésben érdekelt más személyre, vagy a kieséses örökösre.
 
 ### Az özvegyi jog megváltása
 
@@ -1092,6 +1109,22 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 ### A települési önkormányzat törvényes öröklése
 
 104. § A települési önkormányzat törvényes öröklése esetén minden olyan, a hagyaték tárgyát képező ingatlanon található ingó dolog tekintetében, amelynek a tulajdonjoga nem állapítható meg, vélelmezni kell azt, hogy az örökhagyó tulajdonában állt halálakor.
+
+### A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján mező-, erdőgazdasági hasznosítású földnek minősülő kis értékű ingatlanok átadásának különös szabályai
+
+104/A. § (1) A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 28/A. §-a szerinti hagyaték esetében a közjegyző a hirdetményi kézbesítés szabályai szerint hirdetményt bocsát ki, amelyben feltünteti a hagyatéki eljárás tárgyát képező ingatlanokat, illetve tulajdoni illetőségeket és felhív mindenkit, aki a hagyatékra öröklésben érdekeltként igényt tart, vagy a hagyatékkal szemben öröklésben érdekeltként igényt kíván érvényesíteni, hogy azt a közjegyzőnek a hirdetmény kézbesítésétől számított egy éven belül (a továbbiakban: igénybejelentési határidő) írásban jelentse be (a továbbiakban: igénybejelentés).
+
+(2) A közjegyző a hagyatéki eljárásról az államot az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban képviselő szerven keresztül a hirdetmény megküldésével tájékoztatja, valamint a hirdetményt megküldi a hagyatéki leltárban szereplő ismert öröklésben érdekelteknek.
+
+104/B. § (1) A hirdetmény közzétételéhez fűződő jogkövetkezmények az országos kamara nyilvántartásában való közzététel napján állnak be.
+
+(2) Az igénybejelentési határidő elmulasztása miatt igazolásnak helye nincs.
+
+(3) Ha az igénybejelentési határidő alatt a közjegyzőhöz igénybejelentés érkezik, az eljárást az általános szabályok szerint kell lefolytatni.
+
+(4) Ha az igénybejelentési határidő alatt a közjegyzőhöz igénybejelentés nem érkezik, és a közjegyző a hagyatékot szállomány jogcímén az államnak átadja, a hagyatékátadó végzést a közjegyző a hirdetményi kézbesítés szabályai szerint kézbesíti, annak egy kiadmányát pedig megküldi azoknak, akiknek a hirdetményt az 104/A. § (2) bekezdése szerint megküldte. A hagyatékátadó végzés ellen a hirdetményi kézbesítésétől számított 15 nap alatt fellebbezni lehet.
+
+(5) Az államot mint szállományost az örökös jogállása illeti meg azzal, hogy az igénybejelentési határidő alatt be nem jelentett igényeket az állammal szemben az állam tulajdonjoga ingatlan-nyilvántartási bejegyzése ranghely szerinti időpontjától számított 5 éves elévülési határidőn belül lehet érvényesíteni.
 
 ### V. Fejezet — A KÖZJEGYZŐ ELJÁRÁSÁVAL KAPCSOLATOS JOGORVOSLATOK
 
@@ -1361,3 +1394,5 @@ végzés ellen.
 125. § A megkereső rendszerhez történő csatlakozásig, de legfeljebb 2018. december 31-ig a közjegyző a 118. § (5) bekezdése szerinti adatigénylés iránti megkeresés kézbesítése, a megkeresett szolgáltató pedig a megkeresésre adott válasz közjegyzőnek való megküldése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti elektronikus kapcsolattartási út alkalmazásával jár el.
 
 126. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+127. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 104/A. § (2) bekezdését és 104/B. § (4) bekezdését a folyamatban lévő ügyekben akként kell alkalmazni, hogy a 104/A. § (2) bekezdése szerinti hirdetményt és a hagyatékátadó végzés 104/B. § (4) bekezdése szerinti kiadmányát nem kell megküldeni az öröklésből a rendelkezésre álló adatok alapján kiesett személyeknek, ugyanakkor meg kell küldeni a hagyatéki leltárban nem szereplő ismert öröklésben érdekelteknek is.
