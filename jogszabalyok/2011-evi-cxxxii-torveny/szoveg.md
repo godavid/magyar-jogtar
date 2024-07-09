@@ -620,6 +620,8 @@ szabályaitól eltérő szabályokat határozhat meg.
 
 (10) Az Egyetem által az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – ideértve a megvalósításhoz kapcsolódó hatósági eljárásokat is – az előzetes – különösen az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részéről adandó – tulajdonosi hozzájárulást, jóváhagyást, engedélyt megadottnak kell tekinteni.
 
+51/C. § A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság által az 51/B. § (2) bekezdése szerint megállapított forgalmi értéket az állammal szemben a Budapest Főváros VIII. kerület Józsefváros Önkormányzata – a forgalmi érték vele való közlését követő 15 napon belül – bíróság előtt, polgári peres eljárásában vitathatja, amely azonban nem érinti az állam 51/B. § (1) bekezdése szerinti tulajdonszerzését. A polgári peres eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.
+
 51/D. § Az Egyetem fenntartója határozza meg, hogy a 2. mellékletben meghatározott, az Egyetem vagyonkezelésébe került ingatlanok közül melyek kerülnek felsőoktatási cél érdekében hasznosításra.
 
 52. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 36. §-át első alkalommal a 2014. évi költségvetés tervezése során kell alkalmazni.

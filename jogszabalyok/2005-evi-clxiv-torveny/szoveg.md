@@ -309,9 +309,9 @@ nyilvántartást vezet.
 
 (2) Napi fogyasztási cikk e § alkalmazásában a 2. § 18a. pontjában meghatározott termék, ide nem értve az illatszert, drogériai terméket, háztartási tisztítószert és vegyi árut, valamint a higiéniai papírterméket.
 
-7/B. § (1) Sör, üdítő- és gyümölcsital, gyümölcslé és gyümölcsnektár, valamint ásványvíz és szikvíz (szódavíz) értékesítésével összefüggésben nem tehető olyan jognyilatkozat, amely értelmében a jognyilatkozat szerinti termék tekintetében a vendéglátó üzlet – ideértve az alkalmi rendezvényen való értékesítést is – vagy szálláshely (a továbbiakban e § alkalmazásában együttesen: italt árusító vendéglátó üzlet) egy naptári évre, illetve az alkalmi rendezvényre vonatkozó összes beszerzésének több mint 80%-a ugyanazon gyártótól származik.
+7/B. § (1) Sör értékesítésével összefüggésben nem tehető olyan jognyilatkozat, amely értelmében a jognyilatkozat szerinti termék tekintetében a vendéglátó üzlet – ideértve az alkalmi rendezvényen való értékesítést is – vagy szálláshely (a továbbiakban e § alkalmazásában együttesen: italt árusító vendéglátó üzlet) egy naptári évre, illetve az alkalmi rendezvényre vonatkozó összes beszerzésének több mint 80%-a ugyanazon gyártótól származik.
 
-(2) Az italt árusító vendéglátó üzlet köteles a sör – kivéve csapon értékesített sör –, üdítő- és gyümölcsital, gyümölcslé és gyümölcsnektár, valamint ásványvíz és szikvíz (szódavíz) értékesítése esetén termékenként legalább két különböző gyártó termékeinek értékesítését biztosítani.
+(2) Az italt árusító vendéglátó üzlet köteles a sör – kivéve csapon értékesített sör – értékesítése esetén termékenként legalább két különböző gyártó termékeinek értékesítését biztosítani.
 
 (3) Sör csapon történő értékesítése esetén (1) bekezdés szerinti jognyilatkozat abban az esetben tehető, ha az italt árusító vendéglátó üzlet biztosítja legalább egy olyan, kisüzemi sörfőzde (gyártó) által előállított sör csapon történő folyamatos értékesítését, amely kisüzemi sörfőzde felett kisüzemi sörfőzdének nem minősülő sörgyártó a Tpvt. szerinti közvetlen vagy közvetett irányítással nem rendelkezik, és amely nem folytat sörgyártásra irányuló együttműködést kisüzemi sörfőzdének nem minősülő sörgyártóval.
 
@@ -332,7 +332,7 @@ kell érteni.
 (8) E § alkalmazásában jelentős piaci erővel rendelkező gyártónak számít a gyártó, ha az adott vállalatcsoport – ideértve a számvitelről szóló törvény szerinti anya- és leányvállalatok összességét – konszolidált éves nettó árbevétele meghaladja
 
 - a) sörgyártó esetén a 30 milliárd forintot,
-- b) üdítő- és gyümölcsital, gyümölcslé és gyümölcsnektár, valamint ásványvíz és szikvíz (szódavíz) gyártója esetén a 10 milliárd forintot.
+- b)
 
 ### Érdek-képviseleti szervezetek közreműködése
 

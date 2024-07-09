@@ -603,8 +603,9 @@ kezdeményezéséről határoz.
 - b) évente tájékoztatja a Kúria, az ítélőtáblák, valamint a törvényszékek elnökeit a tevékenységéről,
 - c) a bíróságok általános helyzetéről és a bíróságok igazgatási tevékenységéről évente az Országgyűlésnek, továbbá az éves beszámolók között egy alkalommal az Országgyűlés igazságüggyel foglalkozó bizottságának beszámol,
 - d) gondoskodik a Bírósági Határozatok Gyűjteményének közzétételéről,
-- e) az igazságügyért felelős miniszter felkérésére elrendeli a bíróságokon a jogalkotás előkészítéséhez, továbbá a jogszabályok hatályosulásának vizsgálatához szükséges adatok gyűjtését, és
-- f) tájékoztatást ad az igazságügyért felelős miniszter megkeresésére – amennyiben szükséges, a bíróságok véleményét beszerezve – a jogalkotáshoz szükséges, a bíróságok szervezetével és igazgatásával, továbbá a bírósági jogalkalmazással kapcsolatos kérdésekben.
+- e) az igazságügyért felelős miniszter felkérésére elrendeli a bíróságokon a jogalkotás előkészítéséhez, továbbá a jogszabályok hatályosulásának vizsgálatához szükséges adatok gyűjtését,
+- f) tájékoztatást ad az igazságügyért felelős miniszter megkeresésére – amennyiben szükséges, a bíróságok véleményét beszerezve – a jogalkotáshoz szükséges, a bíróságok szervezetével és igazgatásával, továbbá a bírósági jogalkalmazással kapcsolatos kérdésekben, és
+- g) az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából személyazonosításra alkalmatlanná tett formában az igazságügyért felelős miniszter rendelkezésére bocsátja a megkeresésben meghatározott tárgykörben hozott, jogerős vagy véglegessé vált bírósági határozatokat, valamint mindazon bírósági és más hatósági vagy egyéb szerv által hozott határozatot, amelyet a jogerős vagy véglegessé vált bírósági határozattal felülbíráltak vagy felülvizsgáltak.
 
 (9) Az OBH elnöke egyéb feladatkörében
 
@@ -626,6 +627,10 @@ kezdeményezéséről határoz.
 kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezethez tartozó költségvetési szerveknél kezelt adatok kezelésének joga.
 
 (11) Az OBH elnöke az OBT-nek az OBT által a (3) bekezdés a) pontja szerint meghatározott költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, változtatás nélkül rögzíti a bíróságok költségvetésére vonatkozó javaslatában és az annak végrehajtására vonatkozó beszámolójában.
+
+(12) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva, az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából egyedi, meghatározott célú statisztikai adatgyűjtés keretében tájékoztatja az igazságügyért felelős minisztert azokról az adatokról, amelyekből megállapítható a bíróságon folyamatban lévő és befejezett eljárás teljes időtartama az eljárás megindításától annak jogerős befejeződéséig, ideértve a bírósági eljárást megelőző, más szerv által lefolytatott hatósági vagy egyéb közhatalmi eljárás (a továbbiakban: megelőző eljárás), a rendes és a rendkívüli jogorvoslati eljárás, valamint a jogorvoslati eljárás alapján megismételt eljárás időtartamát is. Ezen adatgyűjtés alapján az eljárás teljes időtartama mellett annak is megállapíthatónak kell lennie, hogy annak kezdetétől a jogerős vagy végleges befejeződéséig meddig tartott a megelőző eljárás, illetve a bírósági eljárás.
+
+(13) A (8) bekezdés g) pontja szerinti esetben, ha a megkeresésben kért határozatot a Bírósági Határozatok Gyűjteményében már közzétették, az így közzétett határozatot kell rendelkezésre bocsátani. Más esetben a személyazonosításra alkalmatlanná tételre alkalmazni kell a 166. § (1) bekezdésében, (2) bekezdés a), c), d) és e) pontjában, valamint (5) bekezdésében meghatározott rendelkezéseket. Az OBH elnöke a megkeresés teljesítése során egyeztetést kezdeményezhet az igazságügyért felelős miniszterrel annak érdekében, hogy a megkeresés teljesítése ne eredményezzen a bíróságok számára aránytalan ügyterhet.
 
 77. § (1) Az OBH elnöke a 76. §-ban meghatározott jogköröket a Kúria és a Kúria elnöke tekintetében a Kúria elnökének a törvényben foglalt jogai és kötelezettségei figyelembevételével, az azokból következő eltéréssel gyakorolja.
 
@@ -729,6 +734,10 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 (2a) Ha az OBT elnökének vagy elnökhelyettesének megválasztásakor az OBT megbízatási idejéből kevesebb mint 3 év van hátra, a megbízatás az OBT megbízatásának idejéig tart.
 
 (3) Az OBT elnökét – akadályoztatása esetén, ideértve azt az esetet is, ha a tisztség nincs betöltve – az elnökhelyettes helyettesíti. Az elnökhelyettes akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve – az OBT elnökét a leghosszabb bírói szolgálati jogviszonnyal rendelkező OBT tag helyettesíti.
+
+(4) Az OBT elnöke és elnökhelyettese juttatásként a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározottak szerint budapesti lakóház vagy lakás használatára jogosult.
+
+(5) Az OBT elnökét és elnökhelyettesét e tisztségéből eredő feladatai ellátása érdekében mentesíteni kell a bírói munka alól.
 
 89/A. § Az OBT elnöke
 
