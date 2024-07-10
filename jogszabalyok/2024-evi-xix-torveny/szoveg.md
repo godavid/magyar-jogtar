@@ -172,17 +172,7 @@ egyes agrártárgyú törvények módosításáról
 
 #### 64. §
 
-65. § A Földforgalmi tv. 34. §-a a következő (3a)–(3e) bekezdéssel egészül ki:
-
-„(3a) Ha a mezőgazdasági igazgatási szerv megtagadja az örökös javára a tulajdonszerzés jóváhagyását, a belföldi természetes személy és tagállami állampolgár – az öröklés egyéb feltételeinek fennállása esetén – a föld tulajdonjogát öröklés jogcímén megszerzi azzal a feltétellel, hogy a tulajdonjogának ingatlan-nyilvántartási bejegyzését követő egy éven belül a tulajdonszerzés akadályát elhárítja.
-
-(3b) Az örökös a (3a) bekezdésben foglalt kötelezettség teljesítését haladéktalanul bejelenti a mezőgazdasági igazgatási szerv részére.
-
-(3c) Ha az örökös a (3a) bekezdés szerinti határidőn belül meghal, a (3a) bekezdés szerinti kötelezettség kiterjed az ingatlan tulajdonjogát tőle öröklés, halál esetére szóló ajándék vagy dologi hagyomány útján megszerző személyre is.
-
-(3d) Az (1) bekezdés szerinti ingatlanra a (3a) bekezdés szerinti esetben az államot vételi jog és annak biztosítására elidegenítési és terhelési tilalom illeti meg. A vételi jogot az állam abban az esetben gyakorolja, ha a (3a) bekezdés szerinti kötelezettséget az örökös vagy annak a (3c) bekezdés szerinti jogutóda a (3a) bekezdés szerinti határidőn belül nem teljesítette.
-
-(3e) A (3a) bekezdés szerinti esetben a tulajdonjog ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára bejegyzi az államot megillető vételi jogot, valamint annak biztosítását szolgáló elidegenítési és terhelési tilalmat az örökléssel érintett ingatlan vagy tulajdoni hányad vonatkozásában, valamint a kötelezettségteljesítés határideje lejáratának dátumát.”
+#### 65. §
 
 #### 66. §
 
@@ -211,30 +201,9 @@ lép.
 
 #### 71. §
 
-72. § A Fétv. V. Fejezete a következő 21/A. §-sal egészül ki:
+#### 72. §
 
-„21/A. § (1) Ha a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény (a továbbiakban: Foktftv.) 18/A. § (1) bekezdés c) pontja alapján az ingatlant, vagy a Foktftv. 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező tulajdoni illetőséget az örököstársak (ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is) a hagyatéki eljárás keretében harmadik személy részére egyben értékesítik, akkor az egyezségre a Földforgalmi törvény 21–30. §-ának, valamint e törvény 11–20. §-ának rendelkezéseit az e § szerinti eltérésekkel kell alkalmazni.
-
-(2) E törvény, valamint a Földforgalmi törvény alkalmazásában az egyezséget szerződésnek, az egyezséget kötő feleket szerződő feleknek kell tekinteni. Eladó alatt az örököstársak közösségét kell érteni.
-
-(3) Az egyezséget – annak létrejöttétől számított 8 napon belül – a közjegyző megküldi a mezőgazdasági igazgatási szerv részére jóváhagyás céljából.
-
-(4) Az egyezség jóváhagyására irányuló eljárásban nem kell megkeresni a helyi földbizottságot az állásfoglalásának beszerzése céljából.”
-
-73. § A Fétv. a következő 42/A. és 42/B. §-sal egészül ki:
-
-„42/A. § (1) Ha az örökös a tulajdonszerzés akadályát elhárítja és azt a Földforgalmi tv. 34. § (3b) bekezdésében foglaltak szerint bejelenti, a mezőgazdasági igazgatási szerv a 42. §-ban foglaltak szerint jár el azzal, hogy a hatósági bizonyítványt a bejelentő részére adja ki.
-
-(2) Az (1) bekezdés szerinti hatósági bizonyítvány kiadásával egyidejűleg a mezőgazdasági igazgatási szerv kezdeményezi az ingatlanügyi hatóságnál a vételi jog és az elidegenítési és terhelési tilalom törlését.
-
-(3) Az ingatlanügyi hatóság – a (2) bekezdésben foglaltakon túl – törli a vételi jogot, valamint az elidegenítési és terhelési tilalmat
-
-- a) a Földforgalmi tv. 63/A. §-a szerinti esetben a magyar állam tulajdonjogának ingatlan-nyilvántartási átvezetésével egyidejűleg,
-- b) a végintézkedés tárgyát képező föld kisajátítása esetén a kisajátítással bekövetkező tulajdonváltozás átvezetésével egyidejűleg.
-
-42/B. § (1) A 21/A. § szerinti egyezség jóváhagyására a 27–39. § rendelkezéseit a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
-
-(2) A mezőgazdasági igazgatási szerv az eljárás során hozott végleges és közigazgatási perrel meg nem támadott döntését a közigazgatási per indítására megszabott határidő lejárta után a közjegyzőnek megküldi. A mezőgazdasági igazgatási szerv az egyezséget jóváhagyó döntéssel egyidejűleg megküldi a közjegyző részére a záradékolt egyezséget.”
+#### 73. §
 
 #### 74. §
 
@@ -294,23 +263,7 @@ lép.
 
 #### 94. §
 
-95. § A Foktftv. III. Fejezete a következő 28/A. és 28/B. §-sal egészül ki:
-
-„28/A. § (1) Ha a hagyatéki eljárás tárgya kizárólag egy vagy több, földnek minősülő olyan belföldi ingatlan vagy annak tulajdoni illetősége (ezen alcím alkalmazásában a továbbiakban: hagyaték), amelyek esetében
-
-- a) az adó és értékbizonyítvány szerinti érték ingatlanonként (tulajdoni illetőségenként) nem haladja meg az egymillió forintot,
-- b) az ingatlan földrészletének területe ingatlanonként, tulajdoni illetőség esetén a földrészlet területének a tulajdoni hányadra eső arányos része tulajdoni illetőségenként nem haladja meg az ötezer négyzetmétert, és
-- c) az ingatlan vagy a tulajdoni illetőség ingatlan-nyilvántartásban nyilvántartott tulajdonosa a hagyatéki eljárásnak a hagyatéki leltár szerinti megindulását megelőző 15 évnél régebben meghalt,
-
-a közjegyző a He.-ben meghatározottak szerint a hirdetményi kézbesítés szabályai szerint hirdetményt bocsát ki.
-
-(2) Ha a hirdetményben meghatározott igénybejelentési határidő alatt a közjegyzőhöz igénybejelentés nem érkezik, a közjegyző a hagyatékot szállomány jogcímén az államnak adja át.
-
-(3) Az állam tulajdonszerzésére a 25. § (2) bekezdését és a 26. §-t alkalmazni kell.
-
-28/B. § (1) Ha az örökös, a dologi hagyományos, a halál esetére megajándékozott, a végintézkedéssel létesített bizalmi vagyonkezelési jogviszony vagyonkezelője (a továbbiakban együtt: örökösként érdekelt) igénybejelentéssel az igénybejelentési határidő alatt nem élt, a hagyatékot szállomány jogcímén az államnak átadó végzés jogerőre emelkedését követően, az állam tulajdonjoga ingatlan-nyilvántartási bejegyzése ranghely szerinti időpontjától számított 5 éves elévülési határidőn belül, a tulajdonjog megállapítása iránt az állammal szemben pert indíthat.
-
-(2) Ha az örökösként érdekelt személy tulajdonjogának megállapítása eredményes volt az (1) bekezdés szerinti perben, de nem kívánja a hagyaték természetben történő kiadását, vagy az állammal szemben erre már nincs lehetősége, az örökös az állammal szemben a 26. § szerinti értékbecslés alapján meghatározott összegű kártalanításra jogosult.”
+#### 95. §
 
 #### 96. §
 

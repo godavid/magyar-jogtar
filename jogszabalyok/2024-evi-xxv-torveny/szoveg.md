@@ -112,7 +112,9 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 42. §
 
-#### 43. §
+43. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 117. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) Szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy személyazonosságának megállapítása érdekében, amennyiben az elkövető ismeretlen, a bíróság vagy az előkészítő eljárást lefolytató szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározottak szerint az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét veheti igénybe.”
 
 #### 44. §
 
@@ -130,17 +132,29 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 49. §
 
-#### 16.
+#### 16. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 
-#### 50. §
+50. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 3. § (3) bekezdése a következő w) ponttal egészül ki:
 
-#### 51. §
+(Az arckép profil nyilvántartás vezetésének a célja)
 
-#### 52. §
+„w) a szabálysértési elzárással is büntethető szabálysértések megelőzése, megakadályozása, felderítése és a cselekmény megszakítása, valamint az elkövetők felelősségre vonása.”
 
-#### 53. §
+51. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9. §-a a következő (18) bekezdéssel egészül ki:
 
-#### 54. §
+„(18) A 3. § (3) bekezdés w) pontjában meghatározott célból jogosult a bíróság, az előkészítő eljárást lefolytató szerv a szabálysértési elzárással is büntethető szabálysértés esetén folytatott eljárásban a rendelkezésére álló vagy általa rögzített arcképmás felhasználásával a szabálysértési elzárással is büntethető szabálysértést elkövető személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni.”
+
+52. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 3. § (3) bekezdés p) és w) pontjában meghatározott célból jogosult az általános rendőrségi feladatok ellátására létrehozott szerv eljárása során az általa rögzített arcképmás felhasználásával az elkövető vagy az Rtv. 29. §-a alapján igazoltatott személy személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.”
+
+53. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/A. alcím címe helyébe a következő rendelkezés lép:
+
+#### „9/A. Személyazonosság megállapításának, ellenőrzésének támogatása rendőri intézkedés vagy szabálysértési elzárással is büntethető szabálysértés esetén folytatott eljárás során automatizált összehasonlítás igénybevételével”
+
+54. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A központi szerv az általános rendőrségi feladatok ellátására létrehozott szerv által a 3. § (3) bekezdés p) és w) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Amennyiben az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az általános rendőrségi feladatok ellátására létrehozott szervet haladéktalanul tájékoztatja.”
 
 #### 17. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
@@ -292,11 +306,26 @@ lép.
 
 #### 117. §
 
-#### 118. §
+118. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény a 253. §-t követően a következő 150/A. alcímmel egészül ki:
+
+#### „150/A. A kulturális ismereti vizsgával összefüggő rendelkezések
+
+253/A. § (1) A társadalmi együttélési feltételeket az erre jogszabályban kijelölt szerv a díjköteles kulturális ismereti vizsga keretében vizsgálja.
+
+(2) A társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szerv a kulturális ismereti vizsgával összefüggésben a kérelmező alábbi adatait kezeli:
+
+- a) születési családi és utónév, házassági családi és utónév, születési hely és idő, anyja születési családi és utóneve, nem, állampolgárság,
+- b) elektronikus elérhetőség, továbbá belföldi levelezési cím az állampolgársági ügyekben eljáró szervvel való kapcsolattartáshoz,
+- c) a kulturális ismereti vizsga eredménye, valamint
+- d) a tartós tartózkodás jogcíme.
+
+(3) A (2) bekezdés szerinti adatokat a társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szerv a kulturális ismereti vizsga szervezésével összefüggésben, és a kérelmező azonosításának céljából kezeli. Az adatkezelés szükségességét az erre jogosult szerv háromévente felülvizsgálja.”
 
 #### 119. §
 
-120. § (1)
+120. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 283. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Felhatalmazást kap a Kormány, hogy a nemzeti tartózkodási kártya és az EU tartózkodási kártya kiadásával, továbbá a tartózkodási engedély meghosszabbításával és ismételt kiadásával összefüggésben a társadalmi együttélési feltételek fennállásának igazolására szolgáló kulturális ismereti vizsga, a kulturális ismereti vizsgával kapcsolatban fizetendő díj, valamint a vizsgakötelezettség keletkezésének és a vizsgakötelezettség alóli mentességnek a részletszabályait rendeletben állapítsa meg, továbbá a társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szervet rendeletben jelölje ki.”
 
 (2)
 

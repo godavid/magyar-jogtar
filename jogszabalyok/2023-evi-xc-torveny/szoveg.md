@@ -3641,6 +3641,19 @@ szerinti állam vonatkozásában.
 
 253. § Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
+#### 150/A. A kulturális ismereti vizsgával összefüggő rendelkezések
+
+253/A. § (1) A társadalmi együttélési feltételeket az erre jogszabályban kijelölt szerv a díjköteles kulturális ismereti vizsga keretében vizsgálja.
+
+(2) A társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szerv a kulturális ismereti vizsgával összefüggésben a kérelmező alábbi adatait kezeli:
+
+- a) születési családi és utónév, házassági családi és utónév, születési hely és idő, anyja születési családi és utóneve, nem, állampolgárság,
+- b) elektronikus elérhetőség, továbbá belföldi levelezési cím az állampolgársági ügyekben eljáró szervvel való kapcsolattartáshoz,
+- c) a kulturális ismereti vizsga eredménye, valamint
+- d) a tartós tartózkodás jogcíme.
+
+(3) A (2) bekezdés szerinti adatokat a társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szerv a kulturális ismereti vizsga szervezésével összefüggésben, és a kérelmező azonosításának céljából kezeli. Az adatkezelés szükségességét az erre jogosult szerv háromévente felülvizsgálja.
+
 #### 151. Idegenrendészeti résznyilvántartások
 
 254. § (1) Az idegenrendészeti hatóság a vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik országbeli állampolgár következő adatait kezeli:
@@ -4043,7 +4056,7 @@ részére adatot szolgáltat.
 - a) szabályozza a vendégbefektetői vízum igénylésének eljárási szabályait,
 - b) meghatározza a vendégbefektetői vízumra és vendégbefektetői tartózkodási engedélyre való jogosultsághoz megvalósítandó befektetések teljesítésének, valamint ezen befektetések teljesítése igazolásának feltételeit és eljárási szabályait.
 
-(6) Felhatalmazást kap a Kormány, hogy rendeletben a tartózkodási engedély meghosszabbításával, valamint a nemzeti tartózkodási kártya kiadásával összefüggésben társadalmi együttélési feltételeket határozzon meg.
+(6) Felhatalmazást kap a Kormány, hogy a nemzeti tartózkodási kártya és az EU tartózkodási kártya kiadásával, továbbá a tartózkodási engedély meghosszabbításával és ismételt kiadásával összefüggésben a társadalmi együttélési feltételek fennállásának igazolására szolgáló kulturális ismereti vizsga, a kulturális ismereti vizsgával kapcsolatban fizetendő díj, valamint a vizsgakötelezettség keletkezésének és a vizsgakötelezettség alóli mentességnek a részletszabályait rendeletben állapítsa meg, továbbá a társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szervet rendeletben jelölje ki.
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben a vállalkozásra vonatkozó olyan feltételeket határozzon meg, amelyeket az arra alapított vendég-önfoglalkoztatás célú tartózkodási engedély kiadása, illetve meghosszabbítása során az idegenrendészeti hatóságnak figyelembe kell vennie.
 
