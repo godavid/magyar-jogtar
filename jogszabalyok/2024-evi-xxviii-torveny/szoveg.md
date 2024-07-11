@@ -16,11 +16,7 @@ a munkavédelemről szóló 1993. évi XCIII. törvény módosításáról, vala
 
 #### 3. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-5. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 137. §-a a következő h) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„h) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.”
+#### 5. §
 
 #### 4. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
@@ -44,21 +40,11 @@ a munkavédelemről szóló 1993. évi XCIII. törvény módosításáról, vala
 
 #### 9. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-11. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 233. §-a a következő h) ponttal egészül ki:
-
-(E törvény)
-
-„h) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+#### 11. §
 
 #### 10. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
-12. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 166. §-a a következő g) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„g) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.”
+#### 12. §
 
 #### 11. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
