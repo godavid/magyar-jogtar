@@ -44,7 +44,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - o) a vízrajzi tevékenység ellátása;
 - p) a vízkészletek mennyiségi és minőségi számbavétele, a vízkészletvédelmi országtérkép elkészítése és felülvizsgálata,
 - q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
-- r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
+- r) állami tulajdonú vizekre és vízi létesítményekre vonatkozó vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása;
 - s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.
 
 (2) Az (1) bekezdésben felsorolt feladatok közül
@@ -77,7 +77,10 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - a) az állami tulajdonban lévő vizek és vízilétesítmények, a felszín alatti vizek víztartó képződményeinek és a felszíni vizek medreinek vagyonkezelését,
 - b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntartását és fejlesztését.
 
-(2a) A (2) bekezdéstől eltérően az állami beruházásokért felelős miniszter látja el a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat.
+(2a) A (2) bekezdéstől eltérően a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat
+
+- a) az állami beruházásokért felelős miniszter látja el, vagy
+- b) a Kormány rendelete alapján a vízügyi igazgatási szervek – az állami beruházásokért felelős miniszterrel együttműködve – látják el.
 
 (3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek
 
@@ -663,7 +666,7 @@ alapján kell kiszámítania.
 
 (2) A Kormány által rendeletben kijelölt vízügyi igazgatási szervnek a vizek többletéből eredő kockázattal érintett területekre veszély- és kockázati térképet, valamint kockázatkezelési tervet kell készítenie.
 
-(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. Az állami beruházásokért felelős miniszter felelős a kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építésért és fejlesztéséért. Ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.
+(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. A kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban együtt: védművek) – építéséért és fejlesztéséért az állami beruházásokért felelős miniszter felelős vagy a Kormány rendelete alapján a vízügyi igazgatási szervek felelősek. Ezen új védművek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.
 
 (4) A vízügyi igazgatási szervnek vízkárelhárítással összefüggő feladata;
 
@@ -888,7 +891,7 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 
 (1a) A vízkészletvédelmi országtérképen vízkészletvédelmi szempontból kockázatmentesként meghatározott területeken a mezőgazdasági célú, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő kút létesítését, üzemeltetését és megszüntetését előzetesen be kell jelenteni az öntözési igazgatási szerv részére. A bejelentett vagy vízjogi engedély alapján működő mezőgazdasági célú kút a víz mennyiségének mérését biztosító digitális kútvízmérő alkalmazásával üzemeltethető. A mezőgazdasági célú kút kizárólag a létesítő, üzemeltető művelése alatt álló földterületek haszonnövény-termesztési célú öntözését és haszonállat-állománya ellátását szolgálhatja.
 
-(1b) A hatósági nyilvántartásba történő előzetes bejelentést követően a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott időtartamon belül az öntözési igazgatási szerv – a vízbázis állapotára és a tervezett kútnak a vízbázisra gyakorolt hatására tekintettel a felszín alatti vizek védelme érdekében – az előzetes bejelentésben foglaltak alapján a létesítést jóváhagyja, megtiltja, vagy megállapítja, hogy a létesítés csak véglegessé vált vízjogi létesítési engedély birtokában kezdhető meg.
+(1b) A hatósági nyilvántartásba történő előzetes bejelentést követően a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott időtartamon belül az öntözési igazgatási szerv – a vízbázis állapotára és a tervezett kútnak a vízbázisra gyakorolt hatására tekintettel a felszín alatti vizek védelme érdekében – az előzetes bejelentésben foglaltak alapján a létesítést, az üzemeltetést vagy a megszüntetést jóváhagyja, megtiltja, vagy megállapítja, hogy a létesítés, az üzemeltetés vagy a megszüntetés csak véglegessé vált vízjogi létesítési, üzemeltetési vagy megszüntetési engedély birtokában kezdhető meg.
 
 (1c) A háztartási vízigényt kielégítő, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő kút (a továbbiakban: háztartási kút) létesítését, üzemeltetését és megszüntetését – az (1d) bekezdésben foglalt kivétellel – előzetesen be kell jelenteni a vízilétesítmény helye szerint hatáskörrel rendelkező vízügyi hatóság részére.
 
@@ -1364,7 +1367,7 @@ céljából jogosult.
 (7) Felhatalmazást kap a Kormány
 
 - a) a vízbázisok, a távlati vízbázisok, illetőleg az ivóvízellátást szolgáló vízilétesítmények védőidomára, védőterületére (védősávjára) vonatkozó szabályoknak;
-- b) a vizekkel és a közcélú vízilétesítményekkel kapcsolatos fenntartási feladatokra vonatkozó szabályoknak;
+- b) a vizekkel és a közcélú vízilétesítményekkel kapcsolatos fenntartási feladatokra vonatkozó szabályoknak, valamint egyes vízimunkák és vízilétesítmények műszaki tervezését, előkészítését és megvalósítását végző vízügyi igazgatási szerv kijelölésének;
 - c) a vízgazdálkodási feladatokkal összefüggő alapadatok gyűjtésének, feldolgozásának, szolgáltatásának;
 - d) a társulatok megalakulásával, működésével, megszűnésével, az e törvényen alapuló és a társulat belső szabályozási feladatkörébe nem utalt közcélú érdekeltségi hozzájárulással kapcsolatos szabályok;
 - e) a vízgazdálkodással kapcsolatos hatósági jogkör gyakorlására, valamint az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékére és fizetésének részletes szabályaira vonatkozó szabályok;
@@ -1559,6 +1562,16 @@ létesített háztartási kútra.
 45/P. § E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2023. évi LI. törvénnyel (a továbbiakban: Vgtv.mód4.) módosított 29. § (7) bekezdését a Vgtv.mód4. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 46. § A vízkészletvédelmi országtérképet, valamint az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalóját első alkalommal 2023. augusztus 31-ig kell közzétenni.
+
+47. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 2. § (1) bekezdés r) pontját, 3. § (2a) bekezdését, 16. § (3) bekezdését és 28/A. § (1b) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A rendvédelmi szervtől, mint vízügyi, vízvédelmi hatóságtól kormányzati igazgatási szervhez átkerülő hatósági hatáskör esetében 2024. október 1-jén folyamatban lévő ügyek átadására 8 napon belül kerül sor. A folyamatban lévő ügyekben az ügyintézési határidő e törvény erejénél fogva 8 nappal meghosszabbodik.
+
+(3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
+
+(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben a hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
+
+(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 

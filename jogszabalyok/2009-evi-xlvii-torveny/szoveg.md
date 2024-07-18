@@ -1466,7 +1466,7 @@ annak megállapítása érdekében, hogy mely tagállam központi hatóságátó
 
 (2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed.
 
-(2a) A megkereső tagállam kijelölt központi hatósága részére – a 80/C. §-ban meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
+(2a) A megkereső tagállam kijelölt központi hatósága részére – a 80/C. és 80/D. §-ban meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
 
 (3) Az adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
 
@@ -1495,6 +1495,8 @@ meghatározott adatokat a kérelmet benyújtó központi hatóság részére.
   - ac) a 2013. június 30-ig hatályban volt emberkereskedelem [1978. évi IV. törvény 175/B. § (5) bekezdés c) pont], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás [1978. évi IV. törvény 201–202/A. §], tiltott pornográf felvétellel visszaélés [1978. évi IV. törvény 204. § (1)–(6) bekezdés], üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont],
   - ad) emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont, (4) bekezdés és (4a) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés, (3a) bekezdés b) pont és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § 2020. június 30-ig hatályban volt (1) bekezdés c) pont, (2) bekezdés és (4) bekezdés b) pont], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204–204/A. §), szeméremsértés [Btk. 205. § (2) bekezdés], vagy
 - b) a 2011/93/EU európai parlamenti és tanácsi irányelv 3–7. cikkében vagy a Kereskedelmi és Együttműködési Megállapodás 649. cikk (3) bekezdésében meghatározott valamely bűncselekmény magyar állampolgár általi, az Európai Unió más tagállamának bírósága jogerős ítéletében megállapított elkövetéséhez kapcsolódó, a tagállami ítéletek nyilvántartásában kezelt adatok.
+
+80/D. § A bűnügyi nyilvántartó szerv a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló megállapodás 18. cikk (1) bekezdés p) pontja alapján, abból a célból, hogy az eljáró hatóság megállapítsa, hogy az Egyesült Királyságban letelepedési engedélyért folyamodó magyar állampolgár veszélyt jelent-e a közrendre vagy a közbiztonságra, az Egyesült Királyság büntetőeljárástól eltérő célból benyújtott kérelmére, a kérelem vagy a 80. § (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül az Európai Bűnügyi Nyilvántartási Információs Rendszeren keresztül adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból, valamint a tagállami ítéletek nyilvántartásában kezelt adatokból.
 
 ### VII. Fejezet — ADATTOVÁBBÍTÁS A BŰNÜGYI ÉS RENDÉSZETI BIOMETRIKUS ADATOK NYILVÁNTARTÁSA ADATÁLLOMÁNYAIBÓL
 
@@ -1810,7 +1812,12 @@ rendeletben állapítsa meg.
 
 való megfelelést szolgálja.
 
-(2) Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a törvény
+
+- a) az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része,
+- b) az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti, a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló megállapodás 18. cikk (1) bekezdés p) pontja
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) A 83. § (1a) bekezdése
 
