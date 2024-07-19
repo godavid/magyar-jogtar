@@ -98,43 +98,20 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 8. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-11. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 2. § (1) bekezdés r) pontja helyébe a következő rendelkezés lép:
+#### 11. §
 
-(Az állami feladatok:)
+#### 12. §
 
-„r) állami tulajdonú vizekre és vízi létesítményekre vonatkozó vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása;”
+#### 13. §
 
-12. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 3. § (2a) bekezdése helyébe a következő rendelkezés lép:
+#### 14. §
 
-„(2a) A (2) bekezdéstől eltérően a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat
-
-- a) az állami beruházásokért felelős miniszter látja el, vagy
-- b) a Kormány rendelete alapján a vízügyi igazgatási szervek – az állami beruházásokért felelős miniszterrel együttműködve – látják el.”
-
-13. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 16. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. A kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban együtt: védművek) – építéséért és fejlesztéséért az állami beruházásokért felelős miniszter felelős vagy a Kormány rendelete alapján a vízügyi igazgatási szervek felelősek. Ezen új védművek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.”
-
-14. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 28/A. § (1b) bekezdése helyébe a következő rendelkezés lép:
-
-„(1b) A hatósági nyilvántartásba történő előzetes bejelentést követően a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott időtartamon belül az öntözési igazgatási szerv – a vízbázis állapotára és a tervezett kútnak a vízbázisra gyakorolt hatására tekintettel a felszín alatti vizek védelme érdekében – az előzetes bejelentésben foglaltak alapján a létesítést, az üzemeltetést vagy a megszüntetést jóváhagyja, megtiltja, vagy megállapítja, hogy a létesítés, az üzemeltetés vagy a megszüntetés csak véglegessé vált vízjogi létesítési, üzemeltetési vagy megszüntetési engedély birtokában kezdhető meg.”
-
-15. § A vízgazdálkodásról szóló 1995. évi LVII. törvény X. Fejezete a következő 47. §-sal egészül ki:
-
-„47. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 2. § (1) bekezdés r) pontját, 3. § (2a) bekezdését, 16. § (3) bekezdését és 28/A. § (1b) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
-
-(2) A rendvédelmi szervtől, mint vízügyi, vízvédelmi hatóságtól kormányzati igazgatási szervhez átkerülő hatósági hatáskör esetében 2024. október 1-jén folyamatban lévő ügyek átadására 8 napon belül kerül sor. A folyamatban lévő ügyekben az ügyintézési határidő e törvény erejénél fogva 8 nappal meghosszabbodik.
-
-(3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
-
-(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben a hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
-
-(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.”
+#### 15. §
 
 16. § A vízgazdálkodásról szóló 1995. évi LVII. törvény
 
 - a)
-- b) 45. § (7) bekezdés b) pontjában a „szabályoknak;” szövegrész helyébe a „szabályoknak, valamint egyes vízimunkák és vízilétesítmények műszaki tervezését, előkészítését és megvalósítását végző vízügyi igazgatási szerv kijelölésének;” szöveg
+- b)
 
 lép.
 
@@ -232,20 +209,11 @@ lép.
 
 #### 23. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-48. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény „Kérelemre történő adattovábbítás az Európai Unió más tagállamának, valamint harmadik országnak” alcíme a következő 80/D. §-sal egészül ki:
+#### 48. §
 
-„80/D. § A bűnügyi nyilvántartó szerv a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló megállapodás 18. cikk (1) bekezdés p) pontja alapján, abból a célból, hogy az eljáró hatóság megállapítsa, hogy az Egyesült Királyságban letelepedési engedélyért folyamodó magyar állampolgár veszélyt jelent-e a közrendre vagy a közbiztonságra, az Egyesült Királyság büntetőeljárástól eltérő célból benyújtott kérelmére, a kérelem vagy a 80. § (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül az Európai Bűnügyi Nyilvántartási Információs Rendszeren keresztül adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból, valamint a tagállami ítéletek nyilvántartásában kezelt adatokból.”
+#### 49. §
 
-49. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 98. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ez a törvény
-
-- a) az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része,
-- b) az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti, a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló megállapodás 18. cikk (1) bekezdés p) pontja
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-50. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 80. § (2a) bekezdésében a „80/C. §-ban” szövegrész helyébe a „80/C. és 80/D. §-ban” szöveg lép.
+#### 50. §
 
 #### 24.
 
