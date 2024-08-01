@@ -2111,11 +2111,16 @@ az annak tárgyát képező vagyont a gazdálkodó szervezet vagyonába nem tart
 
 79/F. § (1) Az állami felszámoló a vagyonfelosztási javaslatot és az 52. §-ban meghatározott más iratokat csak azt követő két hónap elteltével küldi meg a bíróságnak, hogy a vagyonfelosztási javaslatot a büntetőeljárást lefolytató szervnek megküldte.
 
-(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igényre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és az állami felszámoló intézkedik:
+(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igényre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a bűnügyi hitelezői igény érvényesítése során a magyar állam képviseletében eljáró állami adó- és vámhatóság rendelkezésére kell bocsátani. A bíróság a 60. § (1) bekezdésében meghatározott végzésében felhívja
 
-- a) a korábban zár alá vételt elrendelő nyomozó hatóság, ügyészség, bíróság megkeresése iránt a zár alá vétel ismételt elrendelése érdekében,
-- b) a zár alá vétel közhiteles nyilvántartásba való bejegyzése iránt, valamint
-- c) a zár alá vétel végrehajtása érdekében a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresése iránt.
+- a) a közhiteles és közérdekből vezetett nyilvántartásokat vezető szerveket, hogy a zár alá vétel tárgyaként a Be. 332. § (4) bekezdése alapján a bűnügyi hitelezői igény helyébe lépő felosztott vagyonra vonatkozóan a zár alá vételt a nyilvántartásba jegyezzék be, valamint
+- b) az állami felszámolót, hogy a zár alá vétel tárgyaként a Be. 332. § (4) bekezdése alapján a bűnügyi hitelezői igény helyébe lépő pénzeszközt az állami adó- és vámhatóság számlájára utalja át.
+
+(3) A bíróság a 60. § (1) bekezdésében meghatározott végzésében megállapítja, hogy a zár alá vétel a bűnügyi hitelezői igény helyébe lépő felosztott vagyonra terjed ki.
+
+(4) A bíróság a (2)–(3) bekezdés szerinti végzését hivatalból megküldi a büntetőeljárást lefolytató szervnek.
+
+(5) Az (1)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell az 50. § (1) bekezdése szerinti közbenső mérleghez készített részleges vagyonfelosztási javaslatra, amennyiben a részleges vagyonfelosztási javaslat az előzetes bűnügyi hitelezői igényre vagyonfelosztást tartalmaz és a bíróság az 50. § (6) bekezdése szerinti végzésével a közbenső mérleget és a részleges vagyonfelosztási javaslatot jóváhagyja.
 
 79/G. § (1) Az állami felszámoló díjának összege az 59. § szerinti felszámolói díjon felül az adós felszámolási zárómérlegében szereplő eszközök könyv szerinti értékének alapulvételével:
 
@@ -2321,6 +2326,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 (12) E törvénynek a 2023. évi XLVI. törvénnyel megállapított 79/G. §-át azokban a 2023. évi XLVI. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban kell alkalmazni, amelyekben a bíróság a 2023. évi XLVI. törvény hatálybalépését követően rendeli ki a 66. § (2) bekezdése szerinti állami felszámolót.
 
 (13) E törvénynek az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2023. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.1) megállapított 52. § (2) bekezdés c) pontját a Módtv.1 1. alcíme hatálybalépésének időpontjában folyamatban lévő azon felszámolási eljárásokban is alkalmazni kell, amelyekben az állami felszámolót a Módtv.1 1. alcíme hatálybalépését megelőzően kirendelték, de a felszámolási zárómérleget a bíróság részére még nem nyújtották be.
+
+(14) E törvénynek az online csalások elleni fellépés érdekében szükséges törvények és egyéb büntetőjogi tárgyú törvények módosításáról szóló 2024. évi XVIII. törvénnyel módosított 79/F. §-át az e rendelkezés hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell.
 
 83/Z. § (1) E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
 

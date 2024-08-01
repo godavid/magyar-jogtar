@@ -175,11 +175,15 @@ a büntetés-végrehajtási szervezetről
 
 (8) A végrehajtás rendjének és a fogvatartás biztonságának fenntartása érdekében foganatosított intézkedéssel érintett személyről, valamint az intézkedés szempontjából lényeges körülményről, tárgyról mobil elektronikus megfigyelési eszközzel képfelvétel, hangfelvétel vagy kép- és hangfelvétel készíthető. A mobil elektronikus megfigyelési eszközzel rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvénynek (a továbbiakban: Bv. tv.) az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére vonatkozó rendelkezéseit kell alkalmazni.
 
+(9) A személyi állomány tagjának a Bv. tv. 98. § (1) bekezdés a) pontjában meghatározott feladata ellátásának támogatására mobil elektronikai eszköz alkalmazható.
+
 ### Biometrikus személyazonosítás és titoktartási kötelezettség
 
-12. § (1) A bv. szervezet személyi állományába tartozó tagjának az arcképmása az intézkedés jogszerűségének megállapítása, az intézetben megvalósuló jogsértés elkövetőjének azonosítása céljából, az intézetben telepített elektronikus megfigyelési eszköznek arcképfelismerő rendszerrel való összekapcsolása során felhasználható. E célból az intézet a bv. szervezet személyi állományába tartozó tagjának az arcképmását a szolgálati jogviszony kezdetétől annak megszűnéséig kezeli.
+12. § (1) A bv. szervezet személyi állományába tartozó tagjának az arcképmása a bv. szerv területére való be- és a kiléptetése, a mozgásának és tevékenységének nyomon követése érdekében, az intézkedés jogszerűségének megállapítása, az intézetben megvalósuló jogsértés elkövetőjének azonosítása céljából, az intézetben telepített elektronikus megfigyelési eszköznek arcképfelismerő rendszerrel való összekapcsolása során felhasználható. E célból az intézet a bv. szervezet személyi állományába tartozó tagjának az arcképmását a szolgálati jogviszony kezdetétől annak megszűnéséig kezeli.
 
 (2) A bv. szervezet személyi állományának tagja jogviszonyának fennállása alatt és annak megszűnését követően is titokként megőrzi a tevékenységével, annak ellátásával kapcsolatban tudomására jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a bv. szervezet nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+(3) A személyi állomány tagja életének és testi épségének védelme céljából olyan jeladóval rendelkező karpánttal látható el, amely alkalmas a bv. szerv területén belül a tartózkodási helyének és fizikai állapotának nyomon követésére, valamint utasítás és értesítés továbbítására.
 
 ### A fogvatartás biztonsága szempontjából kiemelten fontos adatok megismerhetősége
 
@@ -220,15 +224,21 @@ megismerése iránti igényt a létesítmény vagy az eszköz használatának id
 
 (8) A bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait, továbbá a bv. szerv területén hivatali (szolgálati) tevékenységet végző személyekre vonatkozó sajátos rendelkezéseket külön jogszabály tartalmazza.
 
+(9) A bv. szervezet a bv. szerv területére való be- és kilépéskor a (2) bekezdésben meghatározott célból a be- és kilépő személy arcképmása azonosításának támogatására informatikai eszközt alkalmazhat. Emberi közreműködés nélkül végzett személyazonosítás esetén a belépés megtagadásról a személyi állomány tagja dönt.
+
+(10) A fogvatartottal kapcsolattartásra jogosult személy bv. szerv területére való belépésekor a bv. szerv ellenőrzi a körözött személyek nyilvántartását. Ha a bv. szerv a fogvatartottal kapcsolattartásra jogosult személlyel összefüggésben a körözött személyek nyilvántartásában egyezőséget észlel, e tényről a körözési eljárást lefolytató rendőri szervet a találat jelzésével értesíti. Ha a körözött személlyel szemben elfogatóparancsot, európai vagy nemzetközi elfogatóparancsot bocsátottak ki, a kapcsolattartásra nem kerülhet sor, és a bv. szerv a rendőrség kiérkezéséig a körözött személyt a helyszínen visszatartja.
+
 14/A. § (1) A letartóztatást foganatosító és a szabadságvesztés büntetést végrehajtó szerv – különösen a külön jogszabály szerinti, a büntetés-végrehajtási intézetbe történő befogadás során – ujjnyomatot vehet a befogadott személytől.
 
 (2) Az (1) bekezdés szerinti ujjnyomat vétele kizárólag abból a célból történhet, hogy a befogadott személy ujjnyomata a – külön törvény szerinti – daktiloszkópiai nyilvántartásból igényelt adatokkal, a személyazonosítás érdekében összevetésre kerüljön. A bv. szerv által vett ujjnyomatot a személyazonosítást követően haladéktalanul törölni kell.
 
-### A bv. szerv területének ellenőrzése pilóta nélküli állami légi járművel
+### A bv. szerv területének ellenőrzése pilóta nélküli állami légi járművel és a pilóta nélküli légi jármű engedély nélküli berepülésének megakadályozása
 
 14/B. § (1) A fogvatartás biztonságának fenntartása érdekében a bv. szerv területére történő be- és kilépés ellenőrzése, szökés megakadályozása, valamint rendkívüli esemény megelőzése, felszámolása céljából pilóta nélküli állami légi jármű a magyar légtér igénybevételéről szóló kormányrendelet szerint működtethető.
 
 (2) A pilóta nélküli állami légi jármű által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére a Bv. tv.-nek az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat felhasználására és kezelésére vonatkozó rendelkezéseit kell alkalmazni.
+
+(3) A bv. szerv a bv. intézet 200 méteres körzete feletti légtérben megjelenő pilóta nélküli légi jármű azonosítására, helyzetének meghatározására, nyomon követésére és a bv. intézet légterébe történő belépés megakadályozására szolgáló eszközt alkalmazhat a bv. intézet területére történő engedély nélküli berepülés észlelése esetén szükséges intézkedések megtétele érdekében.
 
 ### IV. Fejezet — A kényszerítő eszközök
 
@@ -469,9 +479,9 @@ kezeli.
 - d) a végrehajtás során a büntetés-végrehajtás e törvényben meghatározott feladatai ellátásához és a fogvatartott jogainak a gyakorlásához szükséges adatokra, iratokra;
 - e) a büntetőeljárásban, illetve a fogvatartottal kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, államigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a bv. szervezet részére meg kell küldeni.
 
-(3) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdésben meghatározott nyilvántartás a fogvatartás tényére, a büntetés és az intézkedés nemére, mértékére és végrehajtási fokozatára, a kényszerintézkedés típusára és tartamára, valamint a végrehajtással összefüggő alapvető adatokra, így különösen a végrehajtás megkezdésére, megszakítására, félbeszakítására, kitöltésére, megszűnésére, illetve megszüntetésére, a reintegrációs őrizetbe helyezés és a feltételes szabadságra bocsátás tényére vonatkozóan közhiteles nyilvántartásnak minősül.
 
-28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
+28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás, a telefonon és telekommunikációs eszköz útján történő kapcsolattartás alkalmából történő megállapítása és ellenőrzése, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
 
 - a) családi és utónevére,
 - b) lakcímére vagy értesítési címére,
@@ -479,10 +489,19 @@ kezeli.
 - d) kapcsolattartói minőségére,
 - e) születési helyére és idejére,
 - f) anyja születési nevére.
-- g) elektronikus levelezési címére, a telekommunikációs kapcsolattartás időpontjáról való értesítés érdekében, ha az a kapcsolattartás módja miatt indokolt, és
+- g) elektronikus levelezési címére, a telekommunikációs kapcsolattartás időpontjáról való értesítés érdekében, ha az a kapcsolattartás módja miatt indokolt,
 - h) telekommunikációs alkalmazásban regisztrált azonosító nevére, ha az a kapcsolattartás módja miatt indokolt.
+- i) arcképmás-azonosításhoz szükséges adatára és
+- j) hangazonosításhoz szükséges adatára.
 
-(2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó személy
+(1a) Az (1) bekezdés szerinti
+
+- a) arcképmás-azonosításhoz szükséges adat alatt az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényben meghatározott arcképmás és arcképprofil fogalmat,
+- b) hangazonosításhoz szükséges adat alatt az informatikai eszköz igénybevételével készített és feldolgozható hangmintát
+
+kell érteni.
+
+(2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó védő és jogi képviselő
 
 - a) családi és utónevét,
 - b) születési helyét és idejét vagy hivatása gyakorlására való jogosultságot igazoló igazolványa vagy szolgálati igazolványa számát,
@@ -498,6 +517,19 @@ kezeli.
 (4) A telekommunikációs eszköz útján biztosított elektronikus kapcsolattartás során a kapcsolattartó személy és a hivatalos minőségben kapcsolattartó személy személyazonosság igazolására alkalmas okmányának felmutatásával azonosítja magát. A hivatalos minőségben kapcsolattartó személynek a hivatása gyakorlására való jogosultságot igazoló igazolványát, továbbá – ha annak ellenőrzésére még nem került sor – az első alkalommal történő kapcsolatfelvétel esetén a hivatalos kapcsolattartást megalapozó okiratot is fel kell mutatnia.
 
 (5) A (4) bekezdés szerinti azonosítás során, ha a személyazonosság igazolására alkalmas okmányon szereplő adatok a kapcsolattartói nyilvántartásban szereplő adatokkal nem egyeznek, illetve az arcképmás vizuális összevetése alapján az azonosság tekintetében kétség merül fel, vagy a kapcsolattartásra jelentkező személy a bv. szerv felhívása ellenére nem mutatja fel a (4) bekezdésben meghatározott igazolványt vagy okiratot, a kapcsolattartásra nem kerülhet sor.
+
+(6) A kapcsolattartó arcképmás-azonosításhoz, illetve hangazonosításhoz szükséges adatát kapcsolatfelvételkor lehet rögzíteni.
+
+(7) Ha a bv. szerv a kapcsolattartó arcképmás-azonosítását vagy hangazonosítását emberi közreműködés nélkül végzi, és a kapcsolattartásra nem kerülhet sor, mert az azonosságot illetően kétség merül fel vagy egyértelműen megállapítható, hogy az azonosítandó arcképmás vagy hangminta nem azonos a kapcsolattartóéval, az erről való döntést a személyi állomány tagja hozza meg.
+
+(8) A kapcsolattartó
+
+- a) arcképmás-azonosításhoz szükséges adata a bv. szerv területére történő be- és a kiléptetése, valamint a bv. szerv területén belül a tartózkodási helyének figyelemmel kísérése céljából az elektronikus megfigyelési eszköznek az arcképfelismerő rendszerrel,
+- b) hangazonosításhoz szükséges adata a kapcsolattartáshoz való jogosultság ellenőrzése körében a hangfelismerő rendszerrel
+
+való összekapcsolása során felhasználható.
+
+(9) A bv. szervezet a Bv. tv. 3. § 9. pontjában meghatározott hivatalos minőségben kapcsolattartó arcképmás-azonosításához szükséges adatát a bv. szerv területére történő be- és a kiléptetése, valamint tartózkodási helyének figyelemmel kísérése céljából kezeli és az elektronikus megfigyelési eszköznek az arcképfelismerő rendszerrel való összekapcsolása során felhasználhatja. Az arcképmás-azonosításhoz szükséges adatot – kivéve, ha az adatkezeléshez a hivatalos minőségben kapcsolattartó a további kapcsolattartás során a be- és a kiléptetés megkönnyítése céljából hozzájárul – a kapcsolattartást követően haladéktalanul törölni kell.
 
 28/B. § (1) A bíróság vagy az ügyészség értesítése alapján a fogva tartó bv. szerv nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. §-a alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben a fogvatartott szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 

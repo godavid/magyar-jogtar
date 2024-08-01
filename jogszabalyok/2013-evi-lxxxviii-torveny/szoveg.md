@@ -375,6 +375,8 @@ közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek ny
 
 (9) A büntetés-végrehajtási szerv az ideiglenes befogadási eljárás során adategyeztetés céljából, a jogellenes fogvatartás lehetőségének kizárása érdekében jogosult az ideiglenes befogadási eljárás alatt adatot átvenni a körözött személyek nyilvántartásából.
 
+(10) A büntetés-végrehajtási szerv az elítélt vagy egyéb jogcímen fogvatartott befogadása, valamint az elítélt és az egyéb jogcímen fogvatartott kapcsolattartójának a büntetés-végrehajtási intézetbe történő beléptetéséhez szükséges azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével.
+
 #### 11. A nyilvántartásba történő adatrögzítés, a közvetlen hozzáféréssel történő adatátvétel, valamint a nyilvántartásból elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatigénylés feltételei
 
 11. § (1) A nyilvántartásba történő adatrögzítéshez, a közvetlen hozzáféréssel történő adatátvételhez, valamint a nyilvántartásból elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatigényléshez szükséges egyedi azonosítókat az adatrögzítésre kötelezett szerv, a közvetlen hozzáférésre jogosult szerv, valamint az elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatigénylésre jogosult szerv a nyilvántartóhoz benyújtott kérelemben (a továbbiakban: egyedi azonosító iránti kérelem) igényli.

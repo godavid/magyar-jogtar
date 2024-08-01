@@ -2090,6 +2090,22 @@ részére.
 
 (4) A rendőrség az (1) bekezdés e) pont szerinti bejelentést terrorfenyegetettség vizsgálata céljából a terrorizmust elhárító szervnek, a nemzetbiztonsági érdek vizsgálata céljából az Alkotmányvédelmi Hivatalnak továbbíthatja.
 
+(5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – a kényszerintézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli a kényszerintézkedés alá vont személy
+
+- a) azonosításához szükséges fényképlenyomatot,
+- b) vezeték- és utónevét,
+- c) születési nevét,
+- d) születési helyét és idejét,
+- e) anyja születési családi és utónevét,
+- f) telefonszámát,
+- g) lakóhelyét, illetve kijelölt tartózkodási helyét, valamint azok GPS koordinátáit,
+- h) által beszélt nyelvre vonatkozó adatokat,
+- i) által elkövetett bűncselekmény adatait,
+- j) vonatkozásában elrendelt kényszerintézkedés időtartamát,
+- k) vonatkozásában elrendelt magatartási szabályokat, illetve a magatartási szabályok megszegésével összefüggő adatokat.
+
+(6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.
+
 ### A határrendészeti adatkezelés
 
 91/K. § (1) A rendőrség a határforgalom ellenőrzése során, az Európai Unió kötelező jogi aktusaival összhangban az államhatáron átlépők által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait különösen az alábbi nyilvántartások adataival veti össze:

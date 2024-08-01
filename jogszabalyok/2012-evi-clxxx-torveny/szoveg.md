@@ -400,6 +400,12 @@ követően egy év eltelt.
 
 (5) Az ideiglenes átadás végrehajtására az átadás végrehajtására vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal, hogy az átadás végrehajtására legkorábban a (3) bekezdés b) pontjában meghatározott határnapon kerülhet sor. A terhelt átadásáról és átvételéről a NEBEK a rendőrség közreműködésével gondoskodik.
 
+23/A. § (1) A Fővárosi Törvényszék – a kibocsátó tagállami igazságügyi hatóság kérelmére és a vele írásban történt közös megállapodásban meghatározott feltételek szerint – elrendeli a terhelt ideiglenes átszállítását a kibocsátó tagállami igazságügyi hatóság részére, ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki.
+
+(2) Az ideiglenes átszállításra a 23. § (3)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+
+(3) Az ideiglenes átszállítás nem érinti az európai elfogatóparancs tárgyában Magyarországon folyamatban lévő eljárást.
+
 #### 12. Tárgyak lefoglalása és átadása, a terhelt kihallgatása
 
 24. § (1) A bíróság a kibocsátó tagállami igazságügyi hatóság kérelmére vagy hivatalból elrendeli azoknak a tárgyaknak a lefoglalását és átadását
