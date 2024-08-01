@@ -1090,7 +1090,9 @@ felel meg.
 
 97. § (1) A büntetőjogi felelősség megállapításához, büntetés kiszabásához vagy intézkedés alkalmazásához fűződő hátrányos jogkövetkezményt törvény állapíthat meg.
 
-(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 2017. évi XC. törvény 389. §-a szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.
+(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás (a továbbiakban: bűnügyi nyilvántartási rendszer) tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben.
+
+(3) Az e törvény szerint a korábbi elítéléshez fűződő büntetőjogi jogkövetkezmények nem minősülnek az (1) bekezdés szerinti hátrányos jogkövetkezménynek. A büntetőjogi jogkövetkezményeket megalapozó korábbi elítélés adatait elsősorban a bűnügyi nyilvántartási rendszer adatai alapján kell megállapítani.
 
 ### A mentesítés hatálya
 

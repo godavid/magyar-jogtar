@@ -200,9 +200,11 @@ jár el;
 
 (3) Ha az elsőfokú bíróság a gazdálkodással összefüggő kiemelt bűncselekmény miatt három hivatásos bíróból álló tanácsban jár el, akkor a tanács egy tagjának a törvényszék gazdasági ügyszakának, a törvényszék polgári ügyszakának, vagy a törvényszék közigazgatási ügyszakának bírája is kijelölhető.
 
-(4) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el.
+(4) A másodfokú és a harmadfokú bíróság – ha e törvény eltérően nem rendelkezik – három hivatásos bíróból álló tanácsban jár el.
 
 (5) A másodfokú és a harmadfokú bíróság gazdálkodással összefüggő kiemelt bűncselekmény miatt az ügyet a bíróság öt hivatásos bíróból álló tanácsa elé utalhatja, ha ezt az ügy bonyolultságára, az eljárás ügyiratainak terjedelmére, a büntetőeljárásban részt vevő személyek számára tekintettel, vagy egyéb okból szükségesnek tartja.
+
+(5a) A harmadfokú eljárásban a Kúria öt hivatásos bíróból álló tanácsban jár el.
 
 (6) Az elsőfokú bíróság hatáskörébe tartozó ügyekben az egyesbíró, illetve a tanács elnöke helyett önálló aláírási joggal bírósági titkár is eljárhat az e törvényben meghatározott esetekben. A bíróság eljárására meghatározott rendelkezéseket ilyen esetben a bírósági titkár eljárására kell alkalmazni.
 
@@ -331,7 +333,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 - 3. a radioaktív anyaggal visszaélés,
 - 4. a nukleáris létesítmény üzemeltetésével visszaélés,
 - 5. az atomenergia alkalmazásával visszaélés,
-- 6. a gazdasági csalás, az információs rendszer felhasználásával elkövetett csalás – kivéve a Btk. 374. § (6) bekezdés a) pontja szerinti gazdasági csalást, valamint a Btk. 375. § (4) bekezdés a) pontja és (5) bekezdése szerinti különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalást –,
+- 6. a gazdasági csalás – kivéve a Btk. 374. § (6) bekezdés a) pontja szerinti gazdasági csalást –,
 - 7. a pénzhamisítás,
 - 8. a pénzhamisítás elősegítése,
 - 9. a bélyeghamisítás,
@@ -339,7 +341,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 - 11. a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása,
 - 12. a gazdálkodás rendjét sértő bűncselekmények, kivéve a Btk. 403. § (3) bekezdése szerinti számvitel rendjének megsértése, a Btk. 404. § (3) bekezdése szerinti csődbűncselekmény, a bennfentes kereskedelem, a bennfentes információ jogosulatlan közzététele, a tiltott piacbefolyásolás, a piramisjáték szervezése,
 - 13. a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmények,
-- 14. a tiltott adatszerzés és az információs rendszer elleni bűncselekmények
+- 14.
 
 esetén.
 
@@ -1731,7 +1733,9 @@ biztosítja.
 
 ### Szignalizáció
 
-111. § Ha a bíróság, az ügyészség vagy a nyomozó hatóság az eljárása során olyan tényt állapít meg, vagy körülményt észlel, amely miatt hivatalból további bírósági vagy közigazgatási eljárás, illetve más eljárás kezdeményezésének vagy lefolytatásának van helye, e célból az eljárás kezdeményezésére, illetve lefolytatására jogosult szervet tájékoztatja. A katona gyanúsításáról tájékoztatni kell az elöljáróját.
+111. § (1) Ha a bíróság, az ügyészség vagy a nyomozó hatóság az eljárása során olyan tényt állapít meg, vagy körülményt észlel, amely miatt hivatalból további bírósági vagy közigazgatási eljárás, illetve más eljárás kezdeményezésének vagy lefolytatásának van helye, e célból az eljárás kezdeményezésére, illetve lefolytatására jogosult szervet tájékoztatja. A katona gyanúsításáról tájékoztatni kell az elöljáróját.
+
+(2) A bíróság, az ügyészség és a nyomozó hatóság bármely természetes személynek, jogi személynek, jogi személyiséggel nem rendelkező szervezetnek vagy szervnek tájékoztatást nyújthat olyan, a bűncselekmény elkövetésével összefüggő adatról, amely alapján a kialakult jogsértés orvoslása érdekében szükséges intézkedést megteheti vagy az újabb jogsértést megelőzheti.
 
 ### XIX. Fejezet — JELENLÉT BIZTOSÍTÁSA AZ ELJÁRÁSI CSELEKMÉNYEN
 
@@ -3714,6 +3718,14 @@ kérhető.
 
 (3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, engedély nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatok bizonyítékként nem használhatók fel és azokat haladéktalanul törölni kell.
 
+(4) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az ügyészség engedélye nélkül kérhet adatszolgáltatást
+
+- a) az (1) bekezdés c) vagy e) pontjában meghatározott szolgáltatótól vagy szervezettől a velük szerződésben álló személy kilétére és a személyazonosító adataira vonatkozóan,
+- b) a központi bankszámla-nyilvántartást vezető nyilvántartó szervtől, a központi bankszámla-nyilvántartásban szereplő adatokra vonatkozóan, valamint
+- c) az (1) bekezdésben meghatározott szolgáltatótól vagy szervezettől, ha az érintett büntetőeljárásban részt vevő személy hozzájárult az adatszolgáltatás kéréséhez vagy annak teljesítéséhez.
+
+(5) A (4) bekezdés c) pontjában meghatározott esetben az ügyészség engedélye nélkül adatszolgáltatás a büntetőeljárásban részt vevő személyt érintő valamennyi, a szolgáltató vagy szervezet által kezelt adat vonatkozásában kérhető.
+
 263. § (1) Ha törvény ezt lehetővé teszi, az adatszolgáltatást kérő szerv a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át a szükséges adatokat, illetve az adatkéréshez a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálat közreműködését is igénybe veheti.
 
 (2) Az adatkérés keretében teljesítendő adatszolgáltatásra
@@ -3742,6 +3754,8 @@ határidő állapítható meg.
 265. § (1) Ha az adatkérés keretében megkeresett szervezet a kérelemben foglaltakat a megállapított határidőn belül nem teljesíti, annak teljesítését alaptalanul megtagadja, vagy a 264. § (7) bekezdésében foglalt kötelezettségét megszegi, rendbírsággal sújtható. Ha annak feltételei fennállnak, a rendbírság kiszabása mellett az e törvényben meghatározott kényszerintézkedés is elrendelhető.
 
 (2) Ha az adatkérés keretében megkeresett szervezet a kérelemben foglaltakat azért nem teljesíti, mert azt törvény kizárja, a megkeresett szervezet birtokában lévő adat megszerzése érdekében a megkeresett szervezetet érintő további eljárási cselekmény nem végezhető.
+
+265/A. § Ha a büntetőeljárás érdekeit nem sérti, az ügyészség és a nyomozó hatóság adatszolgáltatást kérhet olyan módon is, hogy az adatkérés keretében megkeresett szervet szankció kilátásba helyezése nélkül, önkéntes teljesítésre hívja fel.
 
 ### Feltételes adatkérés
 
@@ -6592,7 +6606,7 @@ tárgyában.
 - c) a fellebbezési határidő fellebbezés bejelentése nélkül telt el, illetve
 - d) a fellebbezést elutasították, vagy a másodfokú bíróság az elsőfokú bíróság nem ügydöntő végzését helybenhagyta.
 
-(3) A nem ügydöntő végzést a véglegessé válására tekintet nélkül kell teljesíteni, illetve végrehajtani, kivéve, ha a nem ügydöntő végzés elleni fellebbezés halasztó hatályát e törvény kimondja.
+(3) A nem ügydöntő végzést a véglegessé válására tekintet nélkül kell teljesíteni, illetve végrehajtani, kivéve, ha törvény eltérően rendelkezik, vagy a nem ügydöntő végzés elleni fellebbezés halasztó hatályát e törvény kimondja.
 
 (4) Kivételesen indokolt esetben mind a nem ügydöntő végzést hozó, mind a fellebbezés folytán eljáró bíróság felfüggesztheti a nem ügydöntő végzés teljesítését, illetve végrehajtását.
 
@@ -8924,7 +8938,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 655. § (1) A felülvizsgálati indítványt – az e törvényben meghatározott kivétellel – a Kúria három hivatásos bíróból álló tanácsa bírálja el tanácsülésen vagy nyilvános ülésen.
 
-(2) Ha a felülvizsgálat a Kúria határozata ellen irányul, az indítványt – a törvényben kizárt, az arra nem jogosulttól származó vagy az elkésett indítványt kivéve – öt hivatásos bíróból álló tanács bírálja el.
+(2) Ha a 656. § (2) vagy (4) bekezdése alapján a felülvizsgálati indítvány elutasításának nincs helye, a Kúria a felülvizsgálati indítványt öt hivatásos bíróból álló tanácsban bírálja el.
 
 (3) A felülvizsgálati eljárásban védő részvétele kötelező.
 
@@ -9054,7 +9068,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 ### A törvényesség érdekében bejelentett jogorvoslat elintézése
 
-668. § (1) Ha a törvényesség érdekében bejelentett jogorvoslat elutasításának nincs helye, azt a Kúria tanácsa – az (1a) bekezdésben meghatározott kivétellel – tanácsülésen bírálja el.
+668. § (1) A Kúria a törvényesség érdekében bejelentett jogorvoslat elbírálása során öt hivatásos bíróból álló tanácsban jár el. Ha a törvényesség érdekében bejelentett jogorvoslat elutasításának nincs helye, azt a Kúria tanácsa – az (1a) bekezdésben meghatározott kivétellel – tanácsülésen bírálja el.
 
 (1a) A Kúria a törvényesség érdekében bejelentett jogorvoslatról nyilvános ülésen határoz, ha
 
@@ -10206,6 +10220,8 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 (2) A bíróság, ha ez a feljelentés és az ügyiratok tartalma alapján lehetséges, határoz az ügy áttételéről, az eljárás felfüggesztéséről vagy az eljárás megszüntetéséről.
 
 (2a) A bíróság az eljárást felfüggesztheti, ha az ügyiratokat az (1) bekezdés a) pontja szerint az ügyészségnek megküldte.
+
+(2b) A bíróság a 492. § (1) és (2) bekezdésében meghatározott okból, vagy abban az esetben határoz az eljárás (2) bekezdés szerinti megszüntetéséről, ha a feljelentett büntethetőségét, illetve a cselekmény büntetendőségét kizáró valamely további ok megállapítható.
 
 (3) Ha a feljelentést a nyomozó hatóságnál vagy az ügyészségnél tették, az (1) bekezdés a) és b) pontjában foglaltak alkalmazásának nincs helye.
 
@@ -11908,6 +11924,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 (2) Az eljárást – a (3) bekezdésben szabályozott kivétellel – a korábbi jogszabály szerint hatáskörrel és illetékességgel rendelkező és a korábbi jogszabályban meghatározott összetételű bíróság folytatja le, ha az ügy e törvény hatálybalépése előtt a bírósághoz érkezett.
 
 (3) Ha a bíróság a korábbi jogszabály alapján a törvény erejénél fogva járt el egy hivatásos bíróból és két ülnökből álló tanácsban, és e törvény alapján egyesbíró jár el, e törvény hatálybalépése után a továbbiakban egyesbíróként jár el.
+
+(3a) Ha az ügy 2024. július 31. napjáig a bírósághoz érkezett, ezt követően is az a bíróság folytatja le az eljárást, amely a 21. § (5) bekezdésének 2024. július 31. napján hatályos szövege szerint rendelkezik hatáskörrel és illetékességgel.
 
 (4) Az e törvény hatálybalépése előtt történt hatályon kívül helyezés esetén a megismételt eljárást – az (5) bekezdésben szabályozott kivétellel – az e törvény szerint hatáskörrel és illetékességgel rendelkező bíróság folytatja le.
 
